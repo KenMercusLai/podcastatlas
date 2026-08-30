@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》742丨班超出使西域，37人大杀四方！！！](sources/zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1.md) — 芮淇讲透资治通鉴 episode on Ban Chao's 73 CE Shanshan night attack, Khotan shaman-killing shock diplomacy, Liu Yan's Huaiyang/Fuling punishment, and Lian Fan's Yunzhong/Chengdu governance cases.
 - [《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦](sources/zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy.md) — 芮淇讲透资治通鉴 episode on Mingdi's Yuanling dream and filial mourning, Liu Mu's self-deprecating royal-kin survival, Bao Yu's Situ appointment, Ban Chao's Shule intervention, and Dou Gu/Geng Bing's Cheshi campaign restoring Western Regions offices.
 - [EP93 眼见恒大起高楼，转眼首富入高墙](sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c.md) — 一劳永逸 episode on Evergrande and Xu Jiayin, high-turnover property leverage, presale financing risk, hidden developer debt, Evergrande Wealth, commercial-paper defaults, three red lines, and the 保交楼 crisis.
 - [AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO](sources/ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd.md) — 十字路口Crossing episode with Kevin Ding on Pyromind, Auto RL, scenario rewards, FDE boundaries, industrial ROI filters, PyroDash, and why AI may not converge to one supermodel.
@@ -1772,6 +1773,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [鄯善国 / Shanshan Kingdom (late Han)](entities/ShanshanKingdomLateHan.md) — Western Regions swing polity whose 73 CE reception of Ban Chao turns after Northern Xiongnu envoys arrive, before Ban Chao's night attack forces hostage submission.
+- [廉范 / Lian Fan (Eastern Han)](entities/LianFanEasternHan.md) — Eastern Han official whose current profile joins Yunzhong torch-display deception against Northern Xiongnu with Chengdu night-fire permission plus water-preparedness governance.
 - [北海王刘睦 / Liu Mu, Beihai King](entities/LiuMuBeihaiKing.md) — Eastern Han royal kinsman who survives court suspicion by instructing an envoy to lower, not praise, his visible reputation.
 - [窦固 / Dou Gu (Eastern Han)](entities/DouGuEasternHan.md) — Mingdi-era frontier commander whose 74 CE Cheshi campaign and office-restoration petition reopen formal Han Western Regions administration.
 - [Kevin Ding](entities/KevinDing.md) — Pyromind founder and CEO explaining Auto RL, scenario rewards, FDE boundaries, and plural enterprise AI architectures.
@@ -1845,7 +1848,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [丁鸿 / Ding Hong (Eastern Han)](entities/DingHongEasternHan.md) — Eastern Han minister who uses a solar eclipse and dynastic precedent to warn against Dou Xian's outer-relative monopoly.
 - [窦瑰 / Dou Gui (Eastern Han)](entities/DouGuiEasternHan.md) — Restrained Dou-family member used by Yuan An as an internal counterexample before Zhang Pu later secures evidence-specific mercy for him.
 - [和嵩 / He Song (Eastern Han)](entities/HeSongEasternHan.md) — Upright Eastern Han tutor-official sent to Jinan after Dou Xian learns of Yuan An's sealed memorial, remembered for generous local governance and difficult royal remonstrance.
-- [阜陵王刘延 / Liu Yan (Fuling King, Eastern Han)](entities/LiuYanFulingKingEasternHan.md) — Disambiguated Eastern Han prince whose prophecy-linked accusations produce repeated limited penalties, restoration, and a later death notice.
+- [阜陵王刘延 / Liu Yan (Fuling King, Eastern Han)](entities/LiuYanFulingKingEasternHan.md) — Disambiguated Eastern Han prince whose profile now starts with Emperor Ming's Huaiyang-to-Fuling punishment before later prophecy-linked accusations, restoration, and death notice.
 - [Benjamin Franklin](entities/BenjaminFranklin.md) — Founding-era printer, scientist, diplomat, and revolutionary whose public persona helped secure French support while his slavery record remains morally qualified.
 - [William Franklin](entities/WilliamFranklin.md) — Benjamin Franklin's loyalist son and New Jersey governor, used by the source to make colonial rupture personal.
 - [Thomas Hutchinson](entities/ThomasHutchinson.md) — Massachusetts governor whose letters about colonial liberties became a catalyst in Franklin's break with Britain.
@@ -1879,7 +1882,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郑众 / Zheng Zhong (Eastern Han eunuch)](entities/ZhengZhongEasternHan.md) — Eunuch promoted after the Dou purge whose humility and trusted access mark the episode's beginning of eunuch power.
 - [邓训 / Deng Xun (Eastern Han)](entities/DengXunEasternHan.md) — Protector of the Qiang whose protection of threatened Hu families, Mi Tang defeat, and postwar settlement explain later cross-community mourning.
 - [聂尚 / Nie Shang (Eastern Han)](entities/NieShangLateHan.md) — Shu commandery administrator and Qiang protector whose rushed conciliation of Mi Tang ends with murdered envoys and dismissal.
-- [北匈奴 / Northern Xiongnu (late Han)](entities/NorthernXiongnuLateHan.md) — Northern Xiongnu field whose 85 CE weakness, restitution dispute, later famine, Southern Xiongnu attack request, Jiluoshan/Jinwei defeats, Yu Chu dispute, and Xianbei transition define the current layer.
+- [北匈奴 / Northern Xiongnu (late Han)](entities/NorthernXiongnuLateHan.md) — Northern Xiongnu field whose profile now starts with 73 CE envoy pressure at Shanshan/Khotan and Yunzhong attack before later weakness, restitution disputes, Jiluoshan/Jinwei defeats, Yu Chu, and Xianbei transition layers.
 - [于除 / 俞厨 / Yu Chu (Northern Xiongnu)](entities/YuChuNorthernXiongnu.md) — Dou Xian-sponsored Northern Xiongnu claimant whose recognition request creates a frontier-credibility dispute before his later defection and destruction.
 - [清河王刘庆 / Liu Qing (Qinghe king)](entities/LiuQingQingheKing.md) — Eastern Han royal relative whose crown-prince displacement and Song Guiren danger origin explain his later post-Dou caution and ritual request after Liang Guiren's redress; kept distinct from modern Liu Qing.
 - [宋贵人 / Song Guiren (Zhang-He era)](entities/SongGuirenZhangHeLateHan.md) — Liu Qing's mother whose Song-sister accusation and forced death precede her narrower posthumous recognition through seasonal sacrifices.
@@ -1906,7 +1909,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lewis and Clark Expedition](entities/LewisAndClarkExpedition.md) — Jefferson-commissioned western exploration project linking scientific inquiry and imperial ambition.
 - [Democratic-Republican Party](entities/DemocraticRepublicanParty.md) — Jefferson's founding-era party vehicle, complicated by Burr's 1800 tie and later marginalization.
 - [Federalist Party](entities/FederalistParty.md) — Hamilton-associated founding-era party rival to Jefferson's Democratic-Republicans, active in the 1796, 1800, and Burr 1804 contexts.
-- [班超 / Ban Chao (Eastern Han)](entities/BanChaoEasternHan.md) — Eastern Han Western Regions commander whose Shule regime intervention, selective mercy, proxy strategy, accusation resilience, supply-line judgment, Qiuci kingship intervention, Yanqi conquest, Gan Ying mission, and final handoff shape frontier debates.
+- [班超 / Ban Chao (Eastern Han)](entities/BanChaoEasternHan.md) — Eastern Han Western Regions commander whose profile now begins with Shanshan/Khotan shock diplomacy before Shule regime intervention, selective mercy, proxy strategy, accusation resilience, Yanqi conquest, Gan Ying mission, and final handoff.
 - [甘英 / Gan Ying (Eastern Han)](entities/GanYingEasternHan.md) — Eastern Han envoy sent by Ban Chao toward Da Qin/Rome and Tiaozhi, reaching Parthia's western boundary before route warnings turned him back.
 - [大秦 / Da Qin](entities/DaQin.md) — Han-era exonym for the Roman Empire in Hanji 771, capturing Rome as a far-western polity known through mediated route reports.
 - [安息 / Parthian Empire](entities/ParthianEmpire.md) — Intermediary polity whose officials' sea-route warning stops Gan Ying's mission toward Da Qin/Rome.
@@ -2091,7 +2094,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王敬 / Wang Jing (Western Regions, late Han)](entities/WangJingXiyuLateHan.md) — Han Western Regions official whose rumor-driven Khotan banquet killing triggers Shubo's retaliatory execution of him and a failed intervention chain.
 - [居弥 / 拘弥国 / Jumi Kingdom (late Han)](entities/JumiKingdomLateHan.md) — Western Regions kingdom seized by Khotan in Hanji 810 and later used by King Chengguo as an accusation channel against Khotan.
 - [成国 / King Chengguo of Jumi](entities/JumiKingChengguoLateHan.md) — Jumi ruler whose allegations against Khotan King Jian help set up Wang Jing's failed intervention.
-- [于阗国 / Khotan Kingdom (late Han)](entities/KhotanKingdomLateHan.md) — Western Regions kingdom that first seizes Jumi under Fang Qian and later is destabilized by accusation, Wang Jing's killing of King Jian, Shubo, and Anguo's installation.
+- [于阗国 / Khotan Kingdom (late Han)](entities/KhotanKingdomLateHan.md) — Western Regions kingdom whose profile now starts with 73 CE Xiongnu-supervised coldness and Ban Chao's coercive reversal before later dependence, Jumi seizure, Wang Jing's failed intervention, Shubo, and Anguo.
 - [建 / King Jian of Khotan](entities/KhotanKingJianLateHan.md) — Khotan ruler accused through the Jumi channel and killed at Wang Jing's banquet.
 - [输僰 / Shubo of Khotan](entities/ShuboKhotanLateHan.md) — Khotan general or noble who kills Wang Jing after Jian's death, briefly self-enthrones, and is killed by Khotan people.
 - [安国 / Anguo of Khotan](entities/AnGuoKhotanLateHan.md) — Son of Khotan King Jian installed after Shubo's failed self-enthronement.
@@ -10294,6 +10297,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [先胜后战式兵法 / Advantage-First Combat Doctrine](concepts/AdvantageFirstCombatDoctrine.md) — Strategy pattern where commanders create information, timing, morale, or political advantage before fighting instead of treating battle as a gamble.
 - [自污式政治自保 / Self-Deprecating Political Survival](concepts/SelfDeprecatingPoliticalSurvival.md) — Survival tactic where a vulnerable high-status actor lowers perceived virtue, ability, or ambition to reduce court suspicion.
 - [Real Estate High-Turnover Leverage / 房地产高周转杠杆](concepts/RealEstateHighTurnoverLeverage.md) — Evergrande-style property model using low-price fast sales, presale cash, contractor credit, land collateral, and refinancing to scale quickly.
 - [Housing Presale Financing Risk / 住宅预售融资风险](concepts/HousingPresaleFinancingRisk.md) — Risk created when buyer payments before completion become developer financing exposure, contrasted with Japanese handover-funded presale protection.
@@ -12277,7 +12281,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Promotion Ambition Gap](concepts/PromotionAmbitionGap.md) — Diverging desire for advancement between men and women, read as a signal of workplace-family payoff and structural constraints.
 - [Childcare Infrastructure Constraint](concepts/ChildcareInfrastructureConstraint.md) — Work-family bottleneck where childcare quality and availability limit participation and career advancement.
 - [Nightlife Mayor](concepts/NightlifeMayor.md) — City role mediating between nighttime businesses, residents, regulators, licensing, safety, and social life.
-- [Nighttime Economy Governance](concepts/NighttimeEconomyGovernance.md) — Urban-policy problem of managing lawful after-dark activity as economy, nuisance, culture, and social infrastructure.
+- [Nighttime Economy Governance](concepts/NighttimeEconomyGovernance.md) — Governance problem of managing lawful after-dark activity as economic, cultural, social, nuisance, and fire-risk infrastructure across modern cities and Lian Fan's Chengdu case.
 - [Liquor License Quota Barrier](concepts/LiquorLicenseQuotaBarrier.md) — Regulatory cap or scarcity mechanism that can limit lawful nightlife and shape venue economics.
 - [Socializing Decline](concepts/SocializingDecline.md) — Drop in time spent socializing, treated as a nightlife, loneliness, and urban civic-life problem.
 - [PagedAttention](concepts/PagedAttention.md) — vLLM-origin inference-memory idea showing how attention state, memory layout, request scheduling, and serving needs become one systems problem.
