@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1521
+topic_total_pages: 1522
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4377,6 +4377,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx"
+    title: "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx/"
   - key: "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi"
     title: "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！"
     url: "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2087
+topic_total_pages: 2088
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3424,6 +3424,9 @@ topic_concepts:
   - key: "YuefaSanzhang"
     title: "约法三章 / Three-Article Covenant"
     url: "/wiki/concepts/yuefasanzhang/"
+  - key: "ReceptiveRemonstranceGovernance"
+    title: "纳谏转政策式治理 / Receptive Remonstrance Governance"
+    url: "/wiki/concepts/receptiveremonstrancegovernance/"
   - key: "ZonghengjiaDiplomacy"
     title: "纵横家外交 / Zonghengjia Diplomacy"
     url: "/wiki/concepts/zonghengjiadiplomacy/"

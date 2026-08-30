@@ -3629,6 +3629,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/banzhaolatehan/"
     },
+    "BaoYuEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
+          "key": "zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/baoyueasternhan/"
+    },
     "BasicResearchBreakthroughLatency": {
       "episode_count": 1,
       "show_count": 1,
@@ -5536,9 +5552,9 @@
       "url": "/wiki/entities/cheerchanyu/"
     },
     "ChenChongLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你 [ltgXekMkpIOy11b2_q2KKJ93JA0i].md",
@@ -5546,9 +5562,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你",
           "url": "/wiki/sources/zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
+          "key": "zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/chenchonglatehan/"
     },
     "ChenFanLateHan": {
@@ -11143,9 +11166,9 @@
       "url": "/wiki/entities/emperorshunofhan/"
     },
     "EmperorZhangOfHan": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她 [lu5dqu8Uuw277IkZXkBLVqDbPL3q].md",
@@ -11237,6 +11260,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
+          "key": "zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx/"
         }
       ],
       "updated": "2026-08-31",
@@ -12506,6 +12536,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/fanpangmotherlatehan/"
+    },
+    "FanQiangEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
+          "key": "zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/fanqiangeasternhan/"
     },
     "FanQinLateHan": {
       "episode_count": 1,
@@ -14461,9 +14507,9 @@
       "url": "/wiki/entities/gengchenglinruhoulatehan/"
     },
     "GengGongEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
@@ -14471,6 +14517,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
+          "key": "zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx/"
         }
       ],
       "updated": "2026-08-31",
@@ -30590,6 +30643,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/realrobotdatastrategy/"
     },
+    "ReceptiveRemonstranceGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
+          "key": "zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/receptiveremonstrancegovernance/"
+    },
     "ReclusionAuthenticityAssessment": {
       "episode_count": 2,
       "show_count": 1,
@@ -31087,9 +31156,9 @@
       "url": "/wiki/concepts/reputationlistpersecutiontarget/"
     },
     "RescueReciprocityCommandTrust": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？ [lpKntYOv4viqYzGXgcUjN36qHv8_].md",
@@ -31104,9 +31173,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
+          "key": "zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/rescuereciprocitycommandtrust/"
     },
     "ResearchEducationRobotPlatform": {
@@ -41388,9 +41464,9 @@
       "url": "/wiki/entities/yangzhenlatehan/"
     },
     "YangZhongEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？ [lt0QB7aLYh0IPf6mK8hVz92cS297].md",
@@ -41405,6 +41481,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
+          "key": "zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx/"
         }
       ],
       "updated": "2026-08-31",
@@ -43608,6 +43691,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhengzhongeasternhan/"
+    },
+    "ZhengZhongFrontierEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
+          "key": "zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/zhengzhongfrontiereasternhan/"
     },
     "ZhenglunCuiShi": {
       "episode_count": 1,

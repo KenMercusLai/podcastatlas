@@ -6243,6 +6243,10 @@
     "title": "《报燕惠王书》 / Letter in Reply to King Hui of Yan",
     "url": "/wiki/entities/baoyanhuiwangshu/"
   },
+  "BaoYuEasternHan": {
+    "title": "鲍昱 / Bao Yu (Eastern Han)",
+    "url": "/wiki/entities/baoyueasternhan/"
+  },
   "BaofengYingyin": {
     "title": "暴风影音 / Baofeng Yingyin",
     "url": "/wiki/entities/baofengyingyin/"
@@ -17790,6 +17794,10 @@
   "FanQiLuWanEnvoy": {
     "title": "范齐 / Fan Qi (Lu Wan envoy)",
     "url": "/wiki/entities/fanqiluwanenvoy/"
+  },
+  "FanQiangEasternHan": {
+    "title": "范羌 / Fan Qiang (Eastern Han)",
+    "url": "/wiki/entities/fanqiangeasternhan/"
   },
   "FanQinLateHan": {
     "title": "繁钦 / Fan Qin (late Han)",
@@ -42451,6 +42459,10 @@
     "title": "Recep Tayyip Erdogan",
     "url": "/wiki/entities/receptayyiperdogan/"
   },
+  "ReceptiveRemonstranceGovernance": {
+    "title": "纳谏转政策式治理 / Receptive Remonstrance Governance",
+    "url": "/wiki/concepts/receptiveremonstrancegovernance/"
+  },
   "ReciprocalTariffFormula": {
     "title": "Reciprocal Tariff Formula",
     "url": "/wiki/concepts/reciprocaltariffformula/"
@@ -42980,7 +42992,7 @@
     "url": "/wiki/concepts/resnext/"
   },
   "RescueReciprocityCommandTrust": {
-    "title": "Rescue Reciprocity Command Trust",
+    "title": "Rescue Reciprocity Command Trust / 救援互惠式统帅信任",
     "url": "/wiki/concepts/rescuereciprocitycommandtrust/"
   },
   "ResearchChemicalLoophole": {
@@ -58727,6 +58739,10 @@
     "title": "郑众 / Zheng Zhong (Eastern Han eunuch)",
     "url": "/wiki/entities/zhengzhongeasternhan/"
   },
+  "ZhengZhongFrontierEasternHan": {
+    "title": "郑众 / Zheng Zhong (Eastern Han frontier commander)",
+    "url": "/wiki/entities/zhengzhongfrontiereasternhan/"
+  },
   "ZhengZhu": {
     "title": "郑朱 / Zheng Zhu",
     "url": "/wiki/entities/zhengzhu/"
@@ -63414,6 +63430,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx": {
+    "title": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx/"
   },
   "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi": {
     "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",

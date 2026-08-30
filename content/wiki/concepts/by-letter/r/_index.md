@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6059
+wiki_total_pages: 6060
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -348,7 +348,7 @@ wiki_pages:
     title: "Reranking Models"
     url: "/wiki/concepts/rerankingmodels/"
   - key: "RescueReciprocityCommandTrust"
-    title: "Rescue Reciprocity Command Trust"
+    title: "Rescue Reciprocity Command Trust / 救援互惠式统帅信任"
     url: "/wiki/concepts/rescuereciprocitycommandtrust/"
   - key: "ResearchChemicalLoophole"
     title: "Research Chemical Loophole"
@@ -866,6 +866,9 @@ wiki_pages:
   - key: "RedChamberVersionAndSequelReading"
     title: "红楼版本与续书阅读 / Red Chamber Version And Sequel Reading"
     url: "/wiki/concepts/redchamberversionandsequelreading/"
+  - key: "ReceptiveRemonstranceGovernance"
+    title: "纳谏转政策式治理 / Receptive Remonstrance Governance"
+    url: "/wiki/concepts/receptiveremonstrancegovernance/"
   - key: "RumorDrivenFrontierIntervention"
     title: "谣言驱动的边疆干预 / Rumor-Driven Frontier Intervention"
     url: "/wiki/concepts/rumordrivenfrontierintervention/"

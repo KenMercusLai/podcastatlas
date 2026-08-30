@@ -48672,6 +48672,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ReceptiveRemonstranceGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ReciprocalTariffFormula": [
     {
       "key": "economics",
@@ -72947,6 +72954,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi": [
