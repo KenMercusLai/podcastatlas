@@ -4571,6 +4571,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/cangtingbattlelatehan/"
     },
+    "CaoFengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？ [lsmM5ngThJ368GuuMM2xbwC3veA5].md",
+          "key": "zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/caofenglatehan/"
+    },
     "CaoJieLateHan": {
       "episode_count": 13,
       "show_count": 1,
@@ -9623,9 +9639,9 @@
       "url": "/wiki/entities/emperorchongofhan/"
     },
     "EmperorHeOfHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！ [lk7J4Qv_-SQfopzBii6rc_iVbuxS].md",
@@ -9654,6 +9670,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？ [lsmM5ngThJ368GuuMM2xbwC3veA5].md",
+          "key": "zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5/"
         }
       ],
       "updated": "2026-08-30",
@@ -10132,9 +10155,9 @@
       "url": "/wiki/entities/empressdenghuanlatehan/"
     },
     "EmpressDowagerDengLateHan": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》795丨邓家灭亡后，为何举朝为他们鸣冤？ [lqVmBQrrOOKphB4beCaQbP7h_Wi1].md",
@@ -10268,6 +10291,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？ [lsmM5ngThJ368GuuMM2xbwC3veA5].md",
+          "key": "zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5/"
         }
       ],
       "updated": "2026-08-30",
@@ -10531,9 +10561,9 @@
       "url": "/wiki/entities/empresssisi/"
     },
     "EmpressYinHeLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！ [lh0erDH890ooow6DN0WVf1fbZEDf].md",
@@ -10541,6 +10571,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？ [lsmM5ngThJ368GuuMM2xbwC3veA5].md",
+          "key": "zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5/"
         }
       ],
       "updated": "2026-08-30",
@@ -11446,9 +11483,9 @@
       "url": "/wiki/concepts/femalehormonehealthphenotyping/"
     },
     "FemalePowerCenterPoliticalCapacity": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》778丨历史揭秘：权力中心的女人有什么特点？ [lhPn8AUULbgPqeHsk71hZsSrgAGP].md",
@@ -11470,6 +11507,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？ [lsmM5ngThJ368GuuMM2xbwC3veA5].md",
+          "key": "zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5/"
         }
       ],
       "updated": "2026-08-30",
@@ -12411,6 +12455,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/frontierproxycommitmentbinding/"
+    },
+    "FrontierResourceIntegration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？ [lsmM5ngThJ368GuuMM2xbwC3veA5].md",
+          "key": "zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/frontierresourceintegration/"
     },
     "FuGan": {
       "episode_count": 2,
@@ -28853,6 +28913,50 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/shanxiayousong/"
     },
+    "ShaodangQiang": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？ [lsmM5ngThJ368GuuMM2xbwC3veA5].md",
+          "key": "zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》796丨东汉名臣VS帝王身边人，谁能赢？ [lkYzP2V_CjYsd65SyOYUldlbDB5P].md",
+          "key": "zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》796丨东汉名臣VS帝王身边人，谁能赢？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？ [lrU9shBWFwwr9lLUHhd7-xjuAlL6].md",
+          "key": "zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》797丨古代忠孝真的无法两全吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅 [lqKejieIiHMUpFiFuk8sxP3oAdAP].md",
+          "key": "zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》824丨为什么我们要学“守拙” [lpsSY8lTyKugDpvmgrzWcPF6-9V9].md",
+          "key": "zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》824丨为什么我们要学“守拙”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/shaodangqiang/"
+    },
     "ShashankJoshi": {
       "episode_count": 2,
       "show_count": 1,
@@ -34772,6 +34876,36 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/wuducommanderylatehan/"
+    },
+    "WuguPoliticalPanic": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸 [lkFbrwTGsJmA85BZugqONZK3Hy4g].md",
+          "key": "zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g/"
+        },
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？ [lsmM5ngThJ368GuuMM2xbwC3veA5].md",
+          "key": "zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/wugupoliticalpanic/"
     },
     "Wuhuan": {
       "episode_count": 5,

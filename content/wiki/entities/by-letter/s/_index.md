@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8388
+wiki_total_pages: 8390
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1823,6 +1823,9 @@ wiki_pages:
   - key: "SiRiver"
     title: "泗水 / Si River"
     url: "/wiki/entities/siriver/"
+  - key: "ShaodangQiang"
+    title: "烧当羌 / Shaodang Qiang"
+    url: "/wiki/entities/shaodangqiang/"
   - key: "SaruKaniGassen"
     title: "猿蟹合战 / Saru Kani Gassen"
     url: "/wiki/entities/sarukanigassen/"

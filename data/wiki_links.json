@@ -8471,6 +8471,10 @@
     "title": "清代曹家 / Cao Family In Qing",
     "url": "/wiki/entities/caofamilyqing/"
   },
+  "CaoFengLateHan": {
+    "title": "曹凤 / Cao Feng (late Han)",
+    "url": "/wiki/entities/caofenglatehan/"
+  },
   "CaoHong": {
     "title": "曹洪 / Cao Hong",
     "url": "/wiki/entities/caohong/"
@@ -19578,6 +19582,10 @@
   "FrontierProxyCommitmentBinding": {
     "title": "边疆代理承诺绑定 / Frontier Proxy Commitment Binding",
     "url": "/wiki/concepts/frontierproxycommitmentbinding/"
+  },
+  "FrontierResourceIntegration": {
+    "title": "边疆资源整合治理 / Frontier Resource Integration",
+    "url": "/wiki/concepts/frontierresourceintegration/"
   },
   "FrontierTower": {
     "title": "Frontier Tower",
@@ -45151,6 +45159,10 @@
     "title": "《烧钱》",
     "url": "/wiki/entities/shaoqianbook/"
   },
+  "ShaodangQiang": {
+    "title": "烧当羌 / Shaodang Qiang",
+    "url": "/wiki/entities/shaodangqiang/"
+  },
   "Shaoliang": {
     "title": "少梁 / Shaoliang",
     "url": "/wiki/entities/shaoliang/"
@@ -62610,6 +62622,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5": {
+    "title": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5/"
   },
   "zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd": {
     "title": "《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 5983
+wiki_total_pages: 5984
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1076,6 +1076,9 @@ wiki_pages:
   - key: "FrontierConscriptionBackfire"
     title: "边疆征发反噬 / Frontier Conscription Backfire"
     url: "/wiki/concepts/frontierconscriptionbackfire/"
+  - key: "FrontierResourceIntegration"
+    title: "边疆资源整合治理 / Frontier Resource Integration"
+    url: "/wiki/concepts/frontierresourceintegration/"
   - key: "FrontierCommanderyRestoration"
     title: "边郡恢复治理 / Frontier Commandery Restoration"
     url: "/wiki/concepts/frontiercommanderyrestoration/"

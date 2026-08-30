@@ -8,14 +8,17 @@ sources:
   - zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb
   - zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf
   - zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd
+  - zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-汉和帝 / Emperor He of Han now appears as an active late-reign ruler whose current profile spans Ban Chao's recall, Empress Yin's deposition, Deng Sui's appointment, female court education, court-backed reform and tribute restraint, frontier notices, and the infant succession field after his death.
+汉和帝 / Emperor He of Han now appears as an active late-reign ruler whose current profile spans West Sea frontier restoration, Ban Chao's recall, Taixue ritual, Empress Yin's wugu-linked deposition, Deng Sui's appointment, female court education, court-backed reform and tribute restraint, frontier notices, and the infant succession field after his death.
 
 ## Current Profile
+
+Hanji 773 places Emperor He in a 102 CE frontier and palace decision layer before the Ban Chao recall narrative. He accepts [[CaoFengLateHan|Cao Feng]]'s memorial that [[ShaodangQiang|Shaodang Qiang]] power around the West Sea rests on fertile land, fishery, and salt, then restores the former West Sea commandery area, moves the Jincheng western commandant office there, appoints Cao Feng, and expands garrison farming. The same source records a Taixue village archery rite, amnesty, Wushan Man suppression and relocation, and [[EmpressYinHeLateHan|Empress Yin]]'s wugu-linked deposition.
 
 Hanji 774 places Emperor He inside a late-reign frontier personnel decision. Ban Chao asks to leave the Western Regions after decades outside the passes, and [[BanZhaoLateHan|Ban Zhao]] petitions that keeping an aged commander there risks a sudden loss of the state achievement he built. Emperor He accepts the argument, recalls [[BanChaoEasternHan|Ban Chao]], and Ban Chao returns to Luoyang shortly before dying. This adds a responsive petition-and-recall layer before the later death-and-regency sequence.
 
@@ -29,15 +32,19 @@ Hanji 777 records Emperor He's death in Zhangde qian dian and then looks backwar
 
 ## Key Characteristics
 
-- Eastern Han ruler whose reign is shown through frontier recall, harem succession, female court education, technology patronage, education reform, court travel, tribute restraint, diplomacy, and frontier response.
+- Eastern Han ruler whose reign is shown through West Sea restoration, frontier recall, harem succession, female court education, technology patronage, education reform, court ritual and travel, tribute restraint, diplomacy, and frontier response.
+- Ruler who accepts a resource-centered Qiang policy by restoring administrative presence, relocating a frontier office, appointing Cao Feng, and expanding garrison farming.
 - Ruler who accepts useful petitions and remonstrance in the current sources, especially over Ban Chao's recall, the southern tour, and lethal fresh-fruit tribute.
 - Court validator of Cai Lun's paper-making improvement and Xu Fang's Taixue examination reform.
-- Ruler whose decision to depose Empress Yin and appoint Deng Sui gives Deng's later regency a pre-accession household layer.
+- Ruler whose decision to depose Empress Yin after a wugu-linked case and appoint Deng Sui gives Deng's later regency a pre-accession household layer.
 - Source of an opaque succession field because multiple sons had died young and later-born princes were secretly fostered outside the palace.
 - Posthumous predecessor whose death opens Deng's regency and [[EmperorShangOfHan|Emperor Shang]]'s infant accession.
 
 ## Evidence
 
+- West Sea restoration and resource policy: [[zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5|Hanji 773]] says Emperor He accepts Cao Feng's proposal, restores the former West Sea commandery area, moves the Jincheng western commandant office there, appoints Cao Feng, and expands garrison farming.
+- Court ritual, amnesty, and southern pacification: [[zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5|Hanji 773]] records Emperor He's Taixue village archery rite, general amnesty, and the defeat and relocation of Wushan Man rebels under Xu Sheng.
+- Wugu-linked harem deposition: [[zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5|Hanji 773]] records Empress Yin's wugu accusation, kin punishments, and 102-06-22 deposition.
 - Ban Chao recall: [[zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd|Hanji 774]] says Emperor He accepts Ban Zhao's petition and recalls the aged Western Regions commander Ban Chao before Ban Chao's death in Luoyang.
 - Harem and women-education layer: [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|Hanji 775]] says Emperor He's court permits Deng-family visits during Deng's illness, later deposes Empress Yin, appoints Deng as empress, and supports North Palace women's study with Ban Zhao teaching.
 - Papermaking and education reform: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] says Emperor He praises Cai Lun's paper and accepts Xu Fang's Taixue examination reform.
@@ -49,20 +56,25 @@ Hanji 777 records Emperor He's death in Zhangde qian dian and then looks backwar
 
 ## Qualifications
 
-This page remains source-bounded and is still not a full reign biography. Hanji 774 supplies the Ban Chao recall and Western Regions handoff prelude; Hanji 775 supplies harem succession and female court education as the current pre-102 layer; Hanji 776 supplies selected 102-105 CE court and frontier notices; and Hanji 777 supplies the death-and-succession bridge. These details are not enough by themselves to reconstruct Emperor He's entire court.
+This page remains source-bounded and is still not a full reign biography. Hanji 773 supplies the 102 CE West Sea, Taixue, Wushan Man, and Empress Yin deposition layer; Hanji 774 supplies the Ban Chao recall and Western Regions handoff prelude; Hanji 775 supplies harem succession and female court education; Hanji 776 supplies selected 102-105 CE court and frontier notices; and Hanji 777 supplies the death-and-succession bridge. These details are not enough by themselves to reconstruct Emperor He's entire court.
 
 ## What Changed
 
+- Added Hanji 773 as a 102 CE layer of West Sea restoration, Cao Feng's Qiang-resource policy, Taixue ritual, southern-frontier pacification, and Empress Yin's wugu-linked deposition.
 - Added Hanji 774 as a late-reign petition-and-recall layer involving Ban Zhao and Ban Chao.
-- Reframed Emperor He's responsiveness as spanning frontier personnel as well as court reform, travel, and tribute restraint.
+- Reframed Emperor He's responsiveness as spanning frontier resource integration and personnel as well as court reform, travel, and tribute restraint.
 - Preserved Hanji 775-777 as the harem, reform, death, and succession evidence set.
 
 ## Relationships
 
 - [[BanChaoEasternHan|班超]] - aged Western Regions commander whom Emperor He recalls after Ban Zhao's petition.
+- [[CaoFengLateHan|曹凤]] - frontier official whose West Sea memorial Emperor He accepts.
+- [[ShaodangQiang|烧当羌]] - frontier group whose resource base prompts Emperor He's West Sea restoration policy.
+- [[FrontierResourceIntegration|边疆资源整合治理]] - resource and settlement strategy accepted in Emperor He's 102 CE court.
 - [[BanZhaoLateHan|班昭]] - court teacher whose petition Emperor He accepts.
 - [[EmpressDowagerDengLateHan|和熹邓皇后]] - widow/regent who manages the accession after Emperor He's death.
 - [[EmpressYinHeLateHan|殷皇后]] - deposed empress whose fall precedes Deng's appointment.
+- [[WuguPoliticalPanic|巫蛊政治恐慌]] - accusation field attached to Empress Yin's deposition.
 - [[CaiLunLateHan|蔡伦]] - palace official whose paper-making result Emperor He praises.
 - [[XuFangLateHan|徐防]] - senior official whose Taixue examination reform Emperor He accepts.
 - [[TangQiangLateHan|唐羌]] - local official whose tribute-burden memorial changes Emperor He's receiving policy.

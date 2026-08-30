@@ -11460,6 +11460,13 @@
       "url": "/topics/history/"
     }
   ],
+  "CaoFengLateHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CaoJiu": [
     {
       "key": "history",
@@ -23708,6 +23715,13 @@
     }
   ],
   "FrontierProxyCommitmentBinding": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "FrontierResourceIntegration": [
     {
       "key": "politics",
       "label": "Politics",

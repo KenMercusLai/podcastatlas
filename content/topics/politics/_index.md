@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2029
+topic_total_pages: 2031
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3355,6 +3355,9 @@ topic_concepts:
   - key: "UnauthorizedFrontierCommandIntervention"
     title: "边疆将领擅断干预 / Unauthorized Frontier Command Intervention"
     url: "/wiki/concepts/unauthorizedfrontiercommandintervention/"
+  - key: "FrontierResourceIntegration"
+    title: "边疆资源整合治理 / Frontier Resource Integration"
+    url: "/wiki/concepts/frontierresourceintegration/"
   - key: "FrontierCommanderyRestoration"
     title: "边郡恢复治理 / Frontier Commandery Restoration"
     url: "/wiki/concepts/frontiercommanderyrestoration/"
@@ -5267,6 +5270,9 @@ topic_entities:
   - key: "Huizhou"
     title: "惠州 / Huizhou"
     url: "/wiki/entities/huizhou/"
+  - key: "CaoFengLateHan"
+    title: "曹凤 / Cao Feng (late Han)"
+    url: "/wiki/entities/caofenglatehan/"
   - key: "LiTongLateHan"
     title: "李通 / Li Tong (late Han)"
     url: "/wiki/entities/litonglatehan/"

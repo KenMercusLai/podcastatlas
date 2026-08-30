@@ -397,12 +397,13 @@
       "c7333d3c02f7065204859f96df77ddef757d5567ab9c1ac2872b8e018c162577",
       "fa2bb49857ac26cb533ae14a4cc21fb8c9bcedab808a46832dcf8b31ade00a18",
       "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44",
-      "5463cac3a05898616fdcdbe4bbf0fffe113a112bf4093056579dfb7f48e3eca2"
+      "5463cac3a05898616fdcdbe4bbf0fffe113a112bf4093056579dfb7f48e3eca2",
+      "0944897fad2beac2f301b796bb694027832267e2eb18cd26f5a96047fddc2fde"
     ],
-    "paragraph_count": 397
+    "paragraph_count": 398
   },
-  "overview_commit": "f82118ded964e3c7536546ab1b3d922ae6958946",
-  "overview_digest": "4326585483e9dcd9a5ebdedb01df415ec47959cafc2e98da3c7069c95ad780fe",
+  "overview_commit": "335db0bb0d9c6783b7c4c4709241b0da21601182",
+  "overview_digest": "1379dae4ac710a196116d43dc9d61b70bacab73a098a43d64666a27052105cd7",
   "paragraphs": [
     {
       "id": "76439d5a84c3e146cc75ca3dd110deeb51c4dcd3e2e69896481f9ba03f15b1a2",
@@ -12260,6 +12261,31 @@
         "PolicyBoundAgenticLendingSupport",
         "TamaraClay",
         "ep-44-human-centered-credit-building-explainable-ai-for-lending-in-an-agentic-world"
+      ]
+    },
+    {
+      "id": "0944897fad2beac2f301b796bb694027832267e2eb18cd26f5a96047fddc2fde",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5|《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 102 CE [[EmperorHeOfHan|汉和帝]] layer before [[zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd|Hanji 774]] and [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|Hanji 775]]. It adds [[CaoFengLateHan|曹凤]], [[ShaodangQiang|烧当羌]], and [[FrontierResourceIntegration|边疆资源整合治理]], while extending [[EmpressYinHeLateHan|殷皇后]], [[EmpressDowagerDengLateHan|和熹邓皇后]], [[FemalePowerCenterPoliticalCapacity|权力中心女性政治能力]], and [[WuguPoliticalPanic|巫蛊政治恐慌]]. Its core synthesis is that 102 CE joins frontier resource control and harem danger: Cao Feng treats Shaodang unrest as land/fish/salt autonomy requiring tuntian, migration, and administration, while Empress Yin's threat and wugu-linked deposition make Deng Sui's rise a lethal family-risk case before her fuller formation narrative. No settled contradiction is recorded; Deng Zhu remains distinct from Deng Sui's natal family, minor investigators and exile figures stay source-scoped, and the title's \"逆袭成皇后\" is bounded because this source mainly reaches Yin's deposition.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CaoFengLateHan",
+        "EmperorHeOfHan",
+        "EmpressDowagerDengLateHan",
+        "EmpressYinHeLateHan",
+        "FemalePowerCenterPoliticalCapacity",
+        "FrontierResourceIntegration",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShaodangQiang",
+        "WuguPoliticalPanic",
+        "zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5",
+        "zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd",
+        "zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf"
       ]
     }
   ],
