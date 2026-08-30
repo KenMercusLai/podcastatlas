@@ -13825,3 +13825,11 @@ Ingested the 2026-07-03 芮淇讲透资治通鉴 episode on 102 CE Emperor He, C
 ## [2026-08-30] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 16,100 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider model/key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？
+
+Ingested the 2026-07-03 芮淇讲透资治通鉴 episode on Liu Kai's title refusal and flight, Jia Kui's ritual-yielding defense, Emperor He's exceptional succession ruling, Mi Tang's failed surrender and Shaodang Qiang rebellion/collapse, Emperor He's court classics debate, frontier xiaolian quota adjustment, Xianbei/Wushan Man notices, and Cao Feng's Qinghai/Huangshui tuntian proposal. Created the source note plus `LiuXianEasternHan`, `JiaKuiEasternHan`, `LuPiEasternHan`, `MiTangQiangLeader`, and `RitualRenunciationPoliticalCapital`; updated `LiuKaiEasternHan`, `EmperorHeOfHan`, `ShaodangQiang`, `CaoFengLateHan`, `FrontierResourceIntegration`, `TruthSeekingDebateNorm`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 刘凯/刘县/贾奎 are normalized to 刘恺/刘宪/贾逵, the "曹丕" line is treated as 鲁丕 rather than Cao Pi, and minor frontier officers, disaster notices, and recommendation cadence details remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -26427,6 +26427,10 @@
     "title": "贾府 / Jia Family Household",
     "url": "/wiki/entities/jiafamilyhousehold/"
   },
+  "JiaKuiEasternHan": {
+    "title": "贾逵 / Jia Kui (Eastern Han classicist)",
+    "url": "/wiki/entities/jiakuieasternhan/"
+  },
   "JiaKuiLateHan": {
     "title": "贾逵 / Jia Kui (late Han)",
     "url": "/wiki/entities/jiakuilatehan/"
@@ -30447,6 +30451,10 @@
     "title": "刘喜 / Liu Xi (Dai king)",
     "url": "/wiki/entities/liuxidaiking/"
   },
+  "LiuXianEasternHan": {
+    "title": "刘宪 / Liu Xian (Eastern Han)",
+    "url": "/wiki/entities/liuxianeasternhan/"
+  },
   "LiuXianLateHan": {
     "title": "刘先 / Liu Xian (late Han)",
     "url": "/wiki/entities/liuxianlatehan/"
@@ -31270,6 +31278,10 @@
   "LuMugong": {
     "title": "鲁穆公 / Duke Mu of Lu",
     "url": "/wiki/entities/lumugong/"
+  },
+  "LuPiEasternHan": {
+    "title": "鲁丕 / Lu Pi (Eastern Han classicist)",
+    "url": "/wiki/entities/lupieasternhan/"
   },
   "LuPinggong": {
     "title": "鲁平公 / Duke Ping of Lu",
@@ -33534,6 +33546,10 @@
   "MiLan": {
     "title": "芈兰 / Mi Lan",
     "url": "/wiki/entities/milan/"
+  },
+  "MiTangQiangLeader": {
+    "title": "弥唐 / Mi Tang (Qiang leader)",
+    "url": "/wiki/entities/mitangqiangleader/"
   },
   "MiWan": {
     "title": "芈完 / 楚考烈王 / Mi Wan",
@@ -42910,6 +42926,10 @@
   "RitualRecognitionOfMilitaryPower": {
     "title": "Ritual Recognition of Military Power / 礼制承认军事权力",
     "url": "/wiki/concepts/ritualrecognitionofmilitarypower/"
+  },
+  "RitualRenunciationPoliticalCapital": {
+    "title": "礼让辞封式政治资本 / Ritual Renunciation as Political Capital",
+    "url": "/wiki/concepts/ritualrenunciationpoliticalcapital/"
   },
   "RitualSuccessionCrisis": {
     "title": "Ritual Succession Crisis / 仪式传承危机",
@@ -62622,6 +62642,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae": {
+    "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae/"
   },
   "zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5": {
     "title": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？",

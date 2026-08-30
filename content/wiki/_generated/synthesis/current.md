@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-30
-as_of_overview_commit: 335db0bb0d9c6783b7c4c4709241b0da21601182
+as_of_overview_commit: 55212dd61e9708c7472251baef7f4a96c2cafe6c
 summary: "Capacity is disciplined translation: AI, markets, health, education, and states work when authority, evidence, infrastructure, and feedback stay accountable."
-episode_count: 1725
-source_count: 1725
-paragraph_count: 398
+episode_count: 1726
+source_count: 1726
+paragraph_count: 399
 topic_count: 8
 ---
 
@@ -49,7 +49,7 @@ Culture sources use fiction, games, sports, media, devices, and folklore as evid
 
 ### Governance and Institutions
 
-Governance turns formal authority into controls, feedback, appointment quality, legitimacy, and bounded responsibility; Hanji 773 adds frontier-resource and harem-danger evidence.
+Governance turns formal authority into controls, feedback, appointment quality, legitimacy, and bounded responsibility; Hanji 772-773 add Emperor-He exception, frontier-resource, and harem-danger evidence.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].

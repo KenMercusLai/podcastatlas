@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8390
+wiki_total_pages: 8394
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1268,6 +1268,9 @@ wiki_pages:
   - key: "MengTuoLateHan"
     title: "孟陀 / Meng Tuo (late Han)"
     url: "/wiki/entities/mengtuolatehan/"
+  - key: "MiTangQiangLeader"
+    title: "弥唐 / Mi Tang (Qiang leader)"
+    url: "/wiki/entities/mitangqiangleader/"
   - key: "Mofang"
     title: "摩方 / Mofang"
     url: "/wiki/entities/mofang/"

@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [frontier, governance, resources, settlement, eastern-han]
 sources:
   - zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5
+  - zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae
 last_updated: 2026-08-30
 ---
 
@@ -14,13 +15,16 @@ last_updated: 2026-08-30
 
 ## Current Synthesis
 
-Hanji 773 defines the current pattern through [[CaoFengLateHan|Cao Feng]]'s West Sea memorial. The episode says the [[ShaodangQiang|Shaodang Qiang]] repeatedly challenge Han control because their location gives them fertile land and profitable fishery and salt resources. In this diagnosis, rebellion is not only a moral defect or military threat; it is a political economy problem where autonomous local wealth lets a frontier group sustain pressure against the center.
+Hanji 772 now supplies the current prelude. [[MiTangQiangLeader|Mi Tang]]'s surrender, refusal to return, renewed rebellion, defeat, relocation, and remnant collapse show that frontier control is not secured by accepting submission alone. The episode then introduces [[CaoFengLateHan|Cao Feng]]'s Qinghai/Huangshui recommendation, making the policy problem one of food, residence, local resources, and state presence.
+
+Hanji 773 defines the fuller pattern through Cao Feng's West Sea memorial. The episode says the [[ShaodangQiang|Shaodang Qiang]] repeatedly challenge Han control because their location gives them fertile land and profitable fishery and salt resources. In this diagnosis, rebellion is not only a moral defect or military threat; it is a political economy problem where autonomous local wealth lets a frontier group sustain pressure against the center.
 
 The proposed answer combines several state tools. Cao recommends garrison farming to reduce long-distance grain transport, Han migration to change the population mix, cultural integration through co-residence and intermarriage, and state management of agriculture and salt to keep strategic resources from becoming an independent power base. Emperor He's acceptance gives the concept an implementation example, though later Qiang rebellion interrupts completion.
 
 ## Key Claims
 
 - Frontier rebellion can be strengthened by local resource autonomy, not only by military organization.
+- Failed surrender and relocation can expose resource and residence problems that battlefield victory does not solve.
 - Fertile land, salt, fishery, and food production are strategic assets when a frontier group can convert them into durable autonomy.
 - Garrison farming reduces supply distance while making settlement and military logistics reinforce each other.
 - Migration and intermarriage are political tools when the state is trying to alter local alignment and identity over time.
@@ -29,6 +33,8 @@ The proposed answer combines several state tools. Cao recommends garrison farmin
 
 ## Evidence
 
+- Failed incorporation prelude: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]] says Mi Tang's surrender and later refusal to return give way to renewed rebellion, defeat, relocation, and remnant collapse.
+- Policy trigger: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]] places Cao Feng's Qinghai/Huangshui recommendation after this Shaodang failure sequence.
 - Resource diagnosis: [[zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5|Hanji 773]] says Cao Feng links Shaodang Qiang strength to fertile Yu-valley land, West Sea fishing, and salt benefits.
 - Garrison farming: [[zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5|Hanji 773]] says Cao proposes tuntian to produce grain locally and reduce the need to move grain from the interior.
 - Population and cultural integration: [[zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5|Hanji 773]] says Cao proposes moving Han people into the West Sea area and using co-residence or intermarriage to reshape local relations.
@@ -37,17 +43,20 @@ The proposed answer combines several state tools. Cao recommends garrison farmin
 
 ## Counterevidence & Qualifications
 
-This concept is currently grounded in one source note. It should not be generalized into a claim that migration or state resource control always stabilizes frontiers. The episode itself supplies the major qualification: acceptance and initial implementation do not prevent later renewed Qiang rebellion, so the concept names a strategy and diagnostic frame rather than a proven durable solution.
+This concept is currently grounded in two adjacent source notes from the same podcast sequence. It should not be generalized into a claim that migration or state resource control always stabilizes frontiers. The episodes themselves supply the major qualification: Mi Tang's surrender fails before the policy package, and later acceptance and initial implementation do not prevent renewed Qiang rebellion, so the concept names a strategy and diagnostic frame rather than a proven durable solution.
 
 ## What Changed
 
+- Added Hanji 772 as the failure-and-prelude layer before Cao Feng's fuller Hanji 773 memorial.
+- Reframed resource integration as a response to failed submission, residence, and subsistence management as well as to autonomous salt, fishery, and land resources.
 - Created the concept from Cao Feng's Hanji 773 memorial as a resource, settlement, and administration-based alternative to treating Qiang unrest as only a military problem.
 
 ## Related Concepts
 
 - [[FrontierCommanderyRestoration|边郡恢复治理]] - administrative-restoration neighbor because Cao Feng's plan includes rebuilding the West Sea commandery structure.
 - [[TuntianSystem|屯田制]] - agricultural-logistics neighbor because the plan uses local military farming to solve supply cost.
+- [[MiTangQiangLeader|弥唐]] - source-case neighbor because his failed surrender and relocation crisis supply the immediate prelude to the policy.
+- [[RootCausePacification|查因安抚式治理]] - diagnostic neighbor because the policy begins from causes rather than only suppression.
 - [[StateResourceMonopoly|资源垄断式国家统制]] - resource-control neighbor because salt and productive land are brought into state management.
 - [[StrategicFrontierAbandonment|弃边失屏]] - contrast because resource integration tries to hold and organize a costly frontier rather than retreat from it.
 - [[FrontierOfficialAbuseRebellionSpiral|边吏侵害引发反叛螺旋]] - later failure-mode neighbor where bad local handling can undo frontier control.
-- [[RootCausePacification|查因安抚式治理]] - diagnostic neighbor because the policy begins from causes rather than only suppression.

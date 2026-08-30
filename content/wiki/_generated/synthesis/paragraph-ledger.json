@@ -398,12 +398,13 @@
       "fa2bb49857ac26cb533ae14a4cc21fb8c9bcedab808a46832dcf8b31ade00a18",
       "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44",
       "5463cac3a05898616fdcdbe4bbf0fffe113a112bf4093056579dfb7f48e3eca2",
+      "f44e5469f37f332e8fdbac6a5ae1a2c4a5935bfc6ab6eaaf3380385fb8cb290a",
       "0944897fad2beac2f301b796bb694027832267e2eb18cd26f5a96047fddc2fde"
     ],
-    "paragraph_count": 398
+    "paragraph_count": 399
   },
-  "overview_commit": "335db0bb0d9c6783b7c4c4709241b0da21601182",
-  "overview_digest": "1379dae4ac710a196116d43dc9d61b70bacab73a098a43d64666a27052105cd7",
+  "overview_commit": "55212dd61e9708c7472251baef7f4a96c2cafe6c",
+  "overview_digest": "2646fe85e26f4b8b24320f276fbff9dee6a5ab1e9ff23214866996c2ddb8a68c",
   "paragraphs": [
     {
       "id": "76439d5a84c3e146cc75ca3dd110deeb51c4dcd3e2e69896481f9ba03f15b1a2",
@@ -12261,6 +12262,33 @@
         "PolicyBoundAgenticLendingSupport",
         "TamaraClay",
         "ep-44-human-centered-credit-building-explainable-ai-for-lending-in-an-agentic-world"
+      ]
+    },
+    {
+      "id": "f44e5469f37f332e8fdbac6a5ae1a2c4a5935bfc6ab6eaaf3380385fb8cb290a",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the late [[EmperorHeOfHan|汉和帝]] layer before [[zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5|Hanji 773]]. It adds [[LiuXianEasternHan|刘宪]], [[JiaKuiEasternHan|贾逵]], [[LuPiEasternHan|鲁丕]], [[MiTangQiangLeader|弥唐]], and [[RitualRenunciationPoliticalCapital|礼让辞封式政治资本]], while extending [[LiuKaiEasternHan|刘恺]], [[ShaodangQiang|烧当羌]], [[CaoFengLateHan|曹凤]], [[FrontierResourceIntegration|边疆资源整合治理]], and [[TruthSeekingDebateNorm|求明理的辩论规范]]. Its core synthesis is that late Emperor-He governance balances exception and incorporation: Liu Kai's title refusal becomes reputation-backed office access only after Jia Kui and Emperor He bind it as a special case, while Mi Tang's failed surrender and Shaodang collapse explain why the next frontier-policy layer turns toward tuntian, relocation, and resource administration. No settled contradiction is recorded; 刘凯/刘县/贾奎 are normalized to 刘恺/刘宪/贾逵, and the source's 曹丕 line is treated as 鲁丕 rather than the later [[CaoPi|曹丕]].",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CaoFengLateHan",
+        "CaoPi",
+        "EmperorHeOfHan",
+        "FrontierResourceIntegration",
+        "JiaKuiEasternHan",
+        "LiuKaiEasternHan",
+        "LiuXianEasternHan",
+        "LuPiEasternHan",
+        "MiTangQiangLeader",
+        "RitualRenunciationPoliticalCapital",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShaodangQiang",
+        "TruthSeekingDebateNorm",
+        "zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae",
+        "zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5"
       ]
     },
     {

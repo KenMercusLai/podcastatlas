@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8390
+wiki_total_pages: 8394
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -842,6 +842,9 @@ wiki_pages:
   - key: "LiuChongLateHanMinister"
     title: "刘宠 / Liu Chong (late Han minister)"
     url: "/wiki/entities/liuchonglatehanminister/"
+  - key: "LiuXianEasternHan"
+    title: "刘宪 / Liu Xian (Eastern Han)"
+    url: "/wiki/entities/liuxianeasternhan/"
   - key: "LiuKuanLateHan"
     title: "刘宽 / Liu Kuan (late Han)"
     url: "/wiki/entities/liukuanlatehan/"
@@ -1559,6 +1562,9 @@ wiki_pages:
   - key: "Lishan"
     title: "骊山 / Lishan"
     url: "/wiki/entities/lishan/"
+  - key: "LuPiEasternHan"
+    title: "鲁丕 / Lu Pi (Eastern Han classicist)"
+    url: "/wiki/entities/lupieasternhan/"
   - key: "LuZhonglian"
     title: "鲁仲连 / Lu Zhonglian"
     url: "/wiki/entities/luzhonglian/"

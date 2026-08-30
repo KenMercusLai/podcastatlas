@@ -4572,9 +4572,9 @@
       "url": "/wiki/entities/cangtingbattlelatehan/"
     },
     "CaoFengLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？ [lsmM5ngThJ368GuuMM2xbwC3veA5].md",
@@ -4582,6 +4582,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？ [lrou5nayE7opB5FavWUz6BQbgGAe].md",
+          "key": "zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae/"
         }
       ],
       "updated": "2026-08-30",
@@ -9639,9 +9646,9 @@
       "url": "/wiki/entities/emperorchongofhan/"
     },
     "EmperorHeOfHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！ [lk7J4Qv_-SQfopzBii6rc_iVbuxS].md",
@@ -9677,6 +9684,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？ [lrou5nayE7opB5FavWUz6BQbgGAe].md",
+          "key": "zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae/"
         }
       ],
       "updated": "2026-08-30",
@@ -12457,9 +12471,9 @@
       "url": "/wiki/concepts/frontierproxycommitmentbinding/"
     },
     "FrontierResourceIntegration": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？ [lsmM5ngThJ368GuuMM2xbwC3veA5].md",
@@ -12467,6 +12481,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？ [lrou5nayE7opB5FavWUz6BQbgGAe].md",
+          "key": "zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae/"
         }
       ],
       "updated": "2026-08-30",
@@ -17044,6 +17065,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/jiabiaolatehan/"
     },
+    "JiaKuiEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？ [lrou5nayE7opB5FavWUz6BQbgGAe].md",
+          "key": "zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/jiakuieasternhan/"
+    },
     "JiaKuiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -19789,9 +19826,9 @@
       "url": "/wiki/entities/liujunshilatehan/"
     },
     "LiuKaiEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》796丨东汉名臣VS帝王身边人，谁能赢？ [lkYzP2V_CjYsd65SyOYUldlbDB5P].md",
@@ -19820,6 +19857,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》786丨古人为什么排斥反季水果？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？ [lrou5nayE7opB5FavWUz6BQbgGAe].md",
+          "key": "zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae/"
         }
       ],
       "updated": "2026-08-30",
@@ -20050,6 +20094,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/liuwenqingherebellatehan/"
+    },
+    "LiuXianEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？ [lrou5nayE7opB5FavWUz6BQbgGAe].md",
+          "key": "zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/liuxianeasternhan/"
     },
     "LiuXianLateHan": {
       "episode_count": 1,
@@ -20782,6 +20842,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/lugonglatehan/"
+    },
+    "LuPiEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？ [lrou5nayE7opB5FavWUz6BQbgGAe].md",
+          "key": "zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/lupieasternhan/"
     },
     "LuSu": {
       "episode_count": 2,
@@ -22399,6 +22475,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/metabolicpsychiatry/"
+    },
+    "MiTangQiangLeader": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？ [lrou5nayE7opB5FavWUz6BQbgGAe].md",
+          "key": "zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/mitangqiangleader/"
     },
     "Mianji": {
       "episode_count": 19,
@@ -27758,6 +27850,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/riskbearingreliefgovernance/"
     },
+    "RitualRenunciationPoliticalCapital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？ [lrou5nayE7opB5FavWUz6BQbgGAe].md",
+          "key": "zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/ritualrenunciationpoliticalcapital/"
+    },
     "RobertoRidolfi": {
       "episode_count": 1,
       "show_count": 1,
@@ -28914,9 +29022,9 @@
       "url": "/wiki/entities/shanxiayousong/"
     },
     "ShaodangQiang": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？ [lsmM5ngThJ368GuuMM2xbwC3veA5].md",
@@ -28952,6 +29060,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》824丨为什么我们要学“守拙”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？ [lrou5nayE7opB5FavWUz6BQbgGAe].md",
+          "key": "zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae/"
         }
       ],
       "updated": "2026-08-30",
@@ -32728,6 +32843,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/trustbasedcommonsgovernance/"
+    },
+    "TruthSeekingDebateNorm": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》64丨 古代“杠精”公孙龙养成记 [lkRchesLlFI9ipGfAPft7av2MNH5].md",
+          "key": "zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》64丨 古代“杠精”公孙龙养成记",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？ [lrou5nayE7opB5FavWUz6BQbgGAe].md",
+          "key": "zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/truthseekingdebatenorm/"
     },
     "TudorSuccessionCrisis": {
       "episode_count": 4,

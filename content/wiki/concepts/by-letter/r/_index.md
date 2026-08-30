@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 5984
+wiki_total_pages: 5985
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "ReclusionAuthenticityAssessment"
     title: "真隐士与伪隐士辨别 / Reclusion Authenticity Assessment"
     url: "/wiki/concepts/reclusionauthenticityassessment/"
+  - key: "RitualRenunciationPoliticalCapital"
+    title: "礼让辞封式政治资本 / Ritual Renunciation as Political Capital"
+    url: "/wiki/concepts/ritualrenunciationpoliticalcapital/"
   - key: "RedChamberEntryReading"
     title: "红楼入口式阅读 / Red Chamber Entry Reading"
     url: "/wiki/concepts/redchamberentryreading/"
