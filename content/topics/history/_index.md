@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1519
+topic_total_pages: 1520
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4377,6 +4377,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z"
+    title: "《资治通鉴·汉纪》748丨老祖宗的忠告： 亲戚不共财，共财两无来！"
+    url: "/wiki/sources/zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z/"
   - key: "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf"
     title: "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？"
     url: "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"

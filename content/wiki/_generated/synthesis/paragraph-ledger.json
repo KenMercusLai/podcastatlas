@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1745c791e7ec19501ebd27a4c1e3bba5e60a579be2754ae0323f12c8e334f464",
       "dd951ea4029edaa84f38ca5b3253a456b3d8003f3b00d97b63aab6903469f430",
       "57a73bf890b331c40aea6ebc9bacd1f1cecf1e3245795fd642c9aab210273b3d",
       "0c993ef28415e6d065838137147c34a805e8cf2eeb30ecb614ac545b48b9db2c",
@@ -422,11 +423,39 @@
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe"
     ],
-    "paragraph_count": 420
+    "paragraph_count": 421
   },
-  "overview_commit": "2c520afd8613766e277897b2cab3c59b4ff3463f",
-  "overview_digest": "bab2d7c1f33bdc8f085eaaad05c3d4612e1d39d67932d1bcf91f6df3eb59561d",
+  "overview_commit": "1e26ad9c959cfc2ee7eb461a6ac26a1096456341",
+  "overview_digest": "ff025954066f1be6f8a67e5cfe64560a91e0b5c7b1f12d47dfadacaf53dc2e9d",
   "paragraphs": [
+    {
+      "id": "1745c791e7ec19501ebd27a4c1e3bba5e60a579be2754ae0323f12c8e334f464",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|《资治通鉴·汉纪》748丨老祖宗的忠告：亲戚不共财，共财两无来！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 76 CE [[EmperorZhangOfHan|汉章帝]] opening before [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]]. It adds [[OuterRelativePreventiveRestraint|外戚预防性约束]], while extending [[EmpressMaMingdeEasternHan|明德马皇后]], [[MaFamilyZhangEraEasternHan|马氏]], [[MaLiaoEasternHan|马廖]], [[EmperorZhangOfHan|汉章帝]], [[TopDownExemplarGovernance|上行下效式政风治理]], and [[MotherhoodBeyondChildbirth|抚育胜于生育的母德评价]]. Its core synthesis is that Empress Ma treats kinship reward as a preventive governance problem: she blocks Zhangdi's attempt to enfeoff maternal uncles, rejects drought-based flattery for title grants, invokes Former Han and Wang Mang as outer-relative warnings, cuts Ma-family allowances, orders legal discipline of clan interference, rewards frugal royal relatives, and uses her own austerity as a court model. No settled contradiction is recorded; Ma Yuan, Jia Guiren, Yin Taihou, Guangping King, Lecheng King, exact Ma-brother allowance identities, and the drought-enfeoffment memorial's authors remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "EmperorZhangOfHan",
+        "EmpressMaMingdeEasternHan",
+        "MaFamilyZhangEraEasternHan",
+        "MaLiaoEasternHan",
+        "MotherhoodBeyondChildbirth",
+        "OuterRelativePreventiveRestraint",
+        "RuiqiJiangtouZizhiTongjian",
+        "TopDownExemplarGovernance",
+        "zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z",
+        "zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf"
+      ]
+    },
     {
       "id": "dd951ea4029edaa84f38ca5b3253a456b3d8003f3b00d97b63aab6903469f430",
       "primary_topic": "governance-and-institutions",

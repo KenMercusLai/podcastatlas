@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6057
+wiki_total_pages: 6058
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "OuterRelativeRecurrence"
     title: "外戚轮回 / Outer-Relative Recurrence"
     url: "/wiki/concepts/outerrelativerecurrence/"
+  - key: "OuterRelativePreventiveRestraint"
+    title: "外戚预防性约束 / Outer-Relative Preventive Restraint"
+    url: "/wiki/concepts/outerrelativepreventiverestraint/"
   - key: "OfficialLearningMonopoly"
     title: "学在王官式知识垄断 / Official Learning Monopoly"
     url: "/wiki/concepts/officiallearningmonopoly/"

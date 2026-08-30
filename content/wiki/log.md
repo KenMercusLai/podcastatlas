@@ -14051,6 +14051,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | 《资治通鉴·汉纪》748丨老祖宗的忠告： 亲戚不共财，共财两无来！
+
+Ingested the 2026-06-28 芮淇讲透资治通鉴 episode on Mingde Empress Ma preventing Emperor Zhang from enfeoffing Ma-family maternal uncles, rejecting drought-based flattery for outer-relative rewards, disciplining Ma-family spending and legal boundaries, and modeling frugal court conduct. Created the source note plus `OuterRelativePreventiveRestraint`; updated `EmpressMaMingdeEasternHan`, `EmperorZhangOfHan`, `MaFamilyZhangEraEasternHan`, `MaLiaoEasternHan`, `TopDownExemplarGovernance`, `MotherhoodBeyondChildbirth`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Ma Yuan, Jia Guiren, Yin Taihou, the Guangping/Lecheng kings, exact allowance-target identities, and the drought-memorial authors remain source-scoped.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！
 
 Ingested the 2026-06-28 芮淇讲透资治通鉴 episode on Mingde Empress Ma's childless maternal authority, Ma-family title restraint, Zhangdi's Baihu Guan classics conference and talent search, and Ban Chao's early Western Regions proxy strategy. Created the source note plus `BaihuGuanConference`, `XuGanEasternHan`, `MotherhoodBeyondChildbirth`, `CourtWomenHistoriography`, `ImperialClassicsConsensusBuilding`, and `FrontierProxyConquestStrategy`; updated `EmpressMaMingdeEasternHan`, `MaFamilyZhangEraEasternHan`, `MaLiaoEasternHan`, `YangZhongEasternHan`, `EmperorZhangOfHan`, `BanChaoEasternHan`, `QiuciKingdom`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Jia Guiren, Ma Fang, Ma Guang, Baihu Guan participant details, Wusun force estimates, Pan Chen, Ba Ba, Gumo, Wensu, and the exact royal refief sequence remain source-scoped.
@@ -14078,6 +14082,10 @@ Ran health, identity validation, and lint. Health scanned 16,310 wiki pages with
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？
 
 Ingested the 2026-06-28 芮淇讲透资治通鉴 episode on bonus incentives, top-down exemplar governance, Ma Liao's warning to Empress Ma, Qiang official-abuse escalation, Ma Fang and Geng Gong's Qiang campaign, Fifth Lun's warning against in-law command, Deng Xun's cancellation of the Hutuo/Shijiu canal project, Ban Chao's Shicheng attack, and Zhangdi keeping royal brothers in the capital. Created the source note plus `MaFangEasternHan`, `GengGongEasternHan`, `BuqiaoQiangLeader`, `TopDownExemplarGovernance`, `OuterRelativeCommandAppointmentRisk`, `QiangOfficialAbuseRebellionTrigger`, and `InfeasiblePublicWorksCancellation`; updated `EmperorZhangOfHan`, `EmpressMaMingdeEasternHan`, `MaLiaoEasternHan`, `MaFamilyZhangEraEasternHan`, `FifthLunEasternHan`, `DengXunEasternHan`, `BanChaoEasternHan`, `MiWuQiangLeader`, `EmpressDowagerDouHeLateHan`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 滇吾 is not linked to the later `DianWuQiang` page, and Zong Yan, Liu Yu, Si Ye, Dou Xun, exact Qiang/canal figures, Liu Xian/Liu Gong/Liu Dang, and Ma Fang's precise role in Geng Gong's impeachment remain source-scoped.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

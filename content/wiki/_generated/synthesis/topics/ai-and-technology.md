@@ -3,9 +3,9 @@
 generated: true
 topic_id: ai-and-technology
 title: "AI and Technology"
-last_updated: 2026-08-30
-as_of_overview_commit: 99b88a64ee6fd01ba5957d250e3f3cfe7082d0c8
-input_digest: 240e9c166ea0b616bbd3dee45d88a46e1f3839f0381249a8a275cf69e7f90758
+last_updated: 2026-08-31
+as_of_overview_commit: 1e26ad9c959cfc2ee7eb461a6ac26a1096456341
+input_digest: 8f98059b6251362e0c66dee61c53bc9433403048e62691317e0756e6812277ad
 ---
 
 # AI and Technology
@@ -177,13 +177,14 @@ AI-related investing claims require market discipline: [[AIEquityValuationRisk]]
 
 ### Deterministic Routing Can Surface Off Topic Material
 
-The current AI topic input includes [[MiHengLateHan]], [[BorrowedKnifeKilling]], [[PoliticalSurvivalFirst]], and [[CovertPoliticalTechnology]] through deterministic routing, but the paragraph concerns late-Han reputation management and delegated violence rather than AI systems.
+The current AI topic input includes [[MiHengLateHan]], [[BorrowedKnifeKilling]], [[PoliticalSurvivalFirst]], [[CovertPoliticalTechnology]], and the [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] Empress Ma paragraph through deterministic routing, but these paragraphs concern late-Han reputation management, delegated violence, and [[OuterRelativePreventiveRestraint]] rather than AI systems.
 
-**Evidence:** [[MiHengLateHan]], [[BorrowedKnifeKilling]], [[PoliticalSurvivalFirst]], [[CovertPoliticalTechnology]]
+**Evidence:** [[MiHengLateHan]], [[BorrowedKnifeKilling]], [[PoliticalSurvivalFirst]], [[CovertPoliticalTechnology]], [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z]], [[OuterRelativePreventiveRestraint]], [[EmpressMaMingdeEasternHan]], [[EmperorZhangOfHan]], [[TopDownExemplarGovernance]]
 
 **Qualifications:**
 
 - This is a topic-maintenance note, not an AI-domain finding.
+- Hanji 748 is included because deterministic topic routing scored broad current-synthesis language across topics; it should not be read as AI evidence.
 
 ### Ai Expression Value Shifts To Human Presence
 

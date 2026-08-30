@@ -15,16 +15,19 @@ sources:
   - zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6
   - zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt
   - zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf
+  - zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-Emperor Zhang of Han is the Eastern Han ruler whose bounded profile now begins with the 76-78 CE opening layer in [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]]. Across the current source set, he combines receptivity to remonstrance, maternal legitimacy, classics consensus building, frontier authorization, burden-aware administration, legal restraint, ritual care, and humane forbearance with recurring weakness around protected kin, outer-relative accountability, palace accusations, and royal-family affection.
+Emperor Zhang of Han is the Eastern Han ruler whose bounded profile now begins with the 76 CE opening layer in [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]]. Across the current source set, he combines receptivity to remonstrance, maternal legitimacy, classics consensus building, frontier authorization, burden-aware administration, legal restraint, ritual care, and humane forbearance with recurring weakness around protected kin, outer-relative accountability, palace accusations, and royal-family affection.
 
 ## Current Profile
 
-Hanji 749 gives Zhangdi the new earliest current layer. He receives a governing culture shaped by [[EmpressMaMingdeEasternHan|Empress Ma]] and [[MaLiaoEasternHan|Ma Liao]]: frugality orders and incentives only work if palace and capital elites model the desired standard. Yet the same episode immediately tests that standard. Zhangdi sends [[MaFangEasternHan|Ma Fang]] as acting chariot-and-cavalry general against Qiang rebels despite [[FifthLunEasternHan|Fifth Lun]]'s warning that heavy office for imperial in-laws creates a law-versus-kinship dilemma. Ma Fang succeeds militarily, but [[GengGongEasternHan|Geng Gong]]'s later removal after offending Ma Fang preserves the appointment-risk concern.
+Hanji 748 gives Zhangdi the new earliest current layer. In the first year of his reign, he wants to enfeoff several Ma-family maternal uncles because he treats [[EmpressMaMingdeEasternHan|Empress Ma]] as his mother and sees reward for her brothers as both filial and customary. Empress Ma blocks the plan by citing Former Han outer-relative danger, Guangwu/Mingdi precedent, the Ma brothers' insufficient merit, drought-relief priorities, and the need for an underage ruler to heed parental restraint. Zhangdi's early profile is therefore affectionate and reward-minded but correctable under maternal remonstrance before favor becomes title.
+
+Hanji 749 then gives Zhangdi the first military and exemplar-governance layer. He receives a governing culture shaped by Empress Ma and [[MaLiaoEasternHan|Ma Liao]]: frugality orders and incentives only work if palace and capital elites model the desired standard. Yet the same episode immediately tests that standard. Zhangdi sends [[MaFangEasternHan|Ma Fang]] as acting chariot-and-cavalry general against Qiang rebels despite [[FifthLunEasternHan|Fifth Lun]]'s warning that heavy office for imperial in-laws creates a law-versus-kinship dilemma. Ma Fang succeeds militarily, but [[GengGongEasternHan|Geng Gong]]'s later removal after offending Ma Fang preserves the appointment-risk concern.
 
 The same source also shows Zhangdi's uneven but real burden-aware governance. Qiang unrest begins with official abuse and escalates into the Mi Wu and Buqiao revolt; Zhangdi responds militarily rather than through a recorded repair of the triggering abuse. In a different administrative field, he accepts [[DengXunEasternHan|Deng Xun]]'s report that the Hutuo/Shijiu canal project is infeasible and cancels it in favor of donkey-cart transport. He also selects Dou Xun's daughter as guiren and then empress, backs [[BanChaoEasternHan|Ban Chao]]'s allied Shicheng operation, and keeps royal brothers in the capital out of affection.
 
@@ -38,16 +41,17 @@ Hanji 770 adds the posthumous legitimacy layer. The truth about Liang Guiren as 
 
 ## Key Characteristics
 
+- Filial maternal-recognition ruler whose desire to reward the Ma uncles is restrained before affection becomes outer-relative power.
 - Exemplar-governance ruler whose court hears that palace and capital conduct must model the norms expected below.
 - Household-risk ruler whose maternal recognition, crown-prince decisions, Ma-family restrictions, Zhou Yu release, and Dou Xian non-punishment all test kinship governance.
 - Classics and talent ruler who uses Baihu Guan debate, post-eclipse criticism, and practical office selection to make learning administratively useful.
 - Evidence-testing frontier authorizer who backs Ban Chao's allied and proxy strategy and later rejects Li Yi's accusation through troop-behavior evidence.
 - Burden-aware administrator who treats infeasible public works, Jiaozhi transport, tribute, fertility, travel demands, and frontier restitution as tests of governance.
 - Procedural and legal restrainer who limits interrogation devices and is open to mercy, remonstrance, and continued debate.
-- Humane but uneven sovereign whose restraint can preserve deliberation but can also become insufficient accountability around protected kin.
 
 ## Evidence
 
+- First-year Ma-family title restraint: [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] shows Zhangdi trying to enfeoff maternal uncles and then being checked by Empress Ma's precedent, merit, drought-relief, and outer-relative-risk arguments.
 - Early exemplar and in-law-command tension: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] shows Zhangdi's court receiving Ma Liao's example-setting warning, then sending Ma Fang to heavy Qiang command despite Fifth Lun's warning.
 - Qiang campaign and accountability shadow: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] records Qiang unrest after official abuse, Ma Fang's victories over Buqiao, Buqiao's surrender, and Geng Gong's later impeachment after offending Ma Fang.
 - Public-works stop-loss and early Dou/Ban layers: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] has Zhangdi cancel Deng Xun's infeasible canal project, select Dou Xun's daughter as guiren and empress, and appear in Ban Chao's Shicheng operation context.
@@ -61,19 +65,20 @@ Hanji 770 adds the posthumous legitimacy layer. The truth about Liang Guiren as 
 
 ## Qualifications
 
-Zhangdi's profile should not be flattened into benevolent ritualism, weak leniency, or court fragility alone; the source set shows all three under different conditions. Hanji 749 introduces several source-scoped details: the Qiang woman and official, Zong Yan, Dian Wu, Liu Yu, Si Ye, Dou Xun, the exact Hutuo/Shijiu engineering figures, Liu Xian, Liu Gong, Liu Dang, and Ma Fang's precise influence on Geng Gong's impeachment. Hanji 750 remains source-scoped around Jia Guiren, Bao Yu, Huan Yu, Baihu Guan participants, Wusun force estimates, and the exact royal refief sequence. Zhu Hui in Hanji 753 remains [[ZhuHuiZhangEraEasternHan]], not [[ZhuHuiHeEraLateHan]].
+Zhangdi's profile should not be flattened into benevolent ritualism, weak leniency, or court fragility alone; the source set shows all three under different conditions. Hanji 748 adds early maternal-affection evidence but not a full standalone account of Jia Guiren, Yin Taihou, Ma Yuan, the Guangping and Lecheng kings, or the exact officials behind the drought-enfeoffment memorial. Hanji 749 introduces several source-scoped details: the Qiang woman and official, Zong Yan, Dian Wu, Liu Yu, Si Ye, Dou Xun, the exact Hutuo/Shijiu engineering figures, Liu Xian, Liu Gong, Liu Dang, and Ma Fang's precise influence on Geng Gong's impeachment. Hanji 750 remains source-scoped around Jia Guiren, Bao Yu, Huan Yu, Baihu Guan participants, Wusun force estimates, and the exact royal relief sequence. Zhu Hui in Hanji 753 remains [[ZhuHuiZhangEraEasternHan]], not [[ZhuHuiHeEraLateHan]].
 
 ## What Changed
 
-- Added Hanji 749 as the new earliest current layer for exemplar governance, Ma Fang's Qiang command, Geng Gong's removal, Deng Xun's canal cancellation, Dou's selection, and Ban Chao's Shicheng operation.
-- Reframed Hanji 750 as the next maternal-recognition, title-restraint, Baihu Guan, talent-search, and Ban Chao memorial layer.
-- Reframed Hanji 751-752 as later household-risk layers after Zhangdi has already faced in-law command and court-example warnings.
+- Added Hanji 748 as the new earliest current layer for Zhangdi's attempted Ma-family enfeoffment and Empress Ma's successful restraint.
+- Reframed Hanji 749 as the next exemplar-governance, Ma Fang command, Geng Gong removal, Deng Xun canal cancellation, Dou selection, and Ban Chao Shicheng-operation layer.
+- Reframed Hanji 750 as the later maternal-recognition, title-restraint, Baihu Guan, talent-search, and Ban Chao memorial layer.
 - Preserved the Dou Xian estate case as a boundary where Zhangdi's restraint becomes known-misconduct non-punishment rather than strategic forbearance.
 - Linked Zhangdi's burden-aware governance to both accepted infrastructure cancellation and later transport, tribute, fertility, and travel-burden relief.
 
 ## Relationships
 
-- [[EmpressMaMingdeEasternHan|明德马皇后]] - adoptive mother whose status structures Zhangdi's maternal kinship recognition and early exemplar-governance environment.
+- [[EmpressMaMingdeEasternHan|明德马皇后]] - adoptive mother whose status structures Zhangdi's maternal kinship recognition and who restrains his early Ma-family rewards.
+- [[OuterRelativePreventiveRestraint|外戚预防性约束]] - early governance pattern that checks Zhangdi's filial reward impulse before it hardens into outer-relative power.
 - [[TopDownExemplarGovernance|上行下效式政风治理]] - concept grounded by Ma Liao's warning and the court's need to model frugality.
 - [[MaLiaoEasternHan|马廖]] - adviser and Ma-family elder whose warning and later title restraint Zhangdi's court receives.
 - [[MaFamilyZhangEraEasternHan|马氏]] - former in-law household Zhangdi honors, uses in command, and later restricts after overexposure.

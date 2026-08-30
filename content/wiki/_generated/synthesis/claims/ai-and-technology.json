@@ -487,15 +487,21 @@
       "global_candidate": false,
       "id": "deterministic-routing-can-surface-off-topic-material",
       "qualifications": [
-        "This is a topic-maintenance note, not an AI-domain finding."
+        "This is a topic-maintenance note, not an AI-domain finding.",
+        "Hanji 748 is included because deterministic topic routing scored broad current-synthesis language across topics; it should not be read as AI evidence."
       ],
-      "statement": "The current AI topic input includes [[MiHengLateHan]], [[BorrowedKnifeKilling]], [[PoliticalSurvivalFirst]], and [[CovertPoliticalTechnology]] through deterministic routing, but the paragraph concerns late-Han reputation management and delegated violence rather than AI systems.",
+      "statement": "The current AI topic input includes [[MiHengLateHan]], [[BorrowedKnifeKilling]], [[PoliticalSurvivalFirst]], [[CovertPoliticalTechnology]], and the [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] Empress Ma paragraph through deterministic routing, but these paragraphs concern late-Han reputation management, delegated violence, and [[OuterRelativePreventiveRestraint]] rather than AI systems.",
       "status": "source-scoped",
       "supporting_wikilinks": [
         "MiHengLateHan",
         "BorrowedKnifeKilling",
         "PoliticalSurvivalFirst",
-        "CovertPoliticalTechnology"
+        "CovertPoliticalTechnology",
+        "zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z",
+        "OuterRelativePreventiveRestraint",
+        "EmpressMaMingdeEasternHan",
+        "EmperorZhangOfHan",
+        "TopDownExemplarGovernance"
       ]
     },
     {
