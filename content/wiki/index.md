@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？](sources/zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc.md) — 芮淇讲透资治通鉴 episode on Yuan An and Ren Kui resisting Dou Xian, Zhou Rong using deliberate anger as deterrence, Ding Hong's solar-eclipse warning, Emperor He's Liu Qing/Zheng Zhong precedent search, and the palace operation removing the Dou bloc.
 - [684. Franklin: Revenge of the American Genius (Part 2)](sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340.md) — The Rest Is History episode on Benjamin Franklin's self-made career, science, British loyalty rupture, French diplomacy, founding documents, and late abolitionist turn.
 - [《资治通鉴·汉纪》767丨聪明人，都擅长“演戏”](sources/zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq.md) — 芮淇讲透资治通鉴 episode on Li He's delayed gift mission after Dou Xian's fall, Liu Qing's cautious favor, Zheng Zhong's trusted eunuch-power opening, Deng Xun's posthumous frontier legitimacy, Nie Shang's failed conciliation of Mi Tang, and Xianbei expansion after Northern Xiongnu collapse.
 - [《资治通鉴·汉纪》768丨历史告诉你：嫉妒是杀心！](sources/zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna.md) — 芮淇讲透资治通鉴 episode on Emperor He abandoning Cao Bao's Han rites under Zhang Pu pressure, Liang King Liu Chang's usurpation-taboo speech, Guan You splitting Qiang alliances against Mi Tang, and An Guo's jealous plot against Shizi in the Southern Xiongnu.
@@ -1741,6 +1742,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [袁安 / Yuan An (Eastern Han)](entities/YuanAnEasternHan.md) — Eastern Han minister whose anti-Dou resistance gives Zhou Rong the drafting platform before Emperor He's palace operation.
+- [任隗 / Ren Kui (Eastern Han)](entities/RenKuiEasternHan.md) — Eastern Han minister whose opposition alongside Yuan An makes anti-Dou resistance collective rather than isolated.
+- [周荣 / Zhou Rong (Eastern Han)](entities/ZhouRongEasternHan.md) — Yuan An's memorial drafter who turns a Dou-retainer death threat into public deterrence and attribution control.
+- [丁鸿 / Ding Hong (Eastern Han)](entities/DingHongEasternHan.md) — Eastern Han minister who uses a solar eclipse and dynastic precedent to warn against Dou Xian's outer-relative monopoly.
+- [窦瑰 / Dou Gui (Eastern Han)](entities/DouGuiEasternHan.md) — Dou-family member spared after Zhang Pu argues for evidence-specific mercy during the anti-Dou cleanup.
 - [Benjamin Franklin](entities/BenjaminFranklin.md) — Founding-era printer, scientist, diplomat, and revolutionary whose public persona helped secure French support while his slavery record remains morally qualified.
 - [William Franklin](entities/WilliamFranklin.md) — Benjamin Franklin's loyalist son and New Jersey governor, used by the source to make colonial rupture personal.
 - [Thomas Hutchinson](entities/ThomasHutchinson.md) — Massachusetts governor whose letters about colonial liberties became a catalyst in Franklin's break with Britain.
@@ -10180,6 +10186,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [策略性发怒威慑 / Strategic Anger Deterrence](concepts/StrategicAngerDeterrence.md) — Boundary tactic where visible, bounded anger makes a private threat public, attributable, and harder to execute quietly.
+- [历史先例式危机规划 / Historical Precedent Crisis Planning](concepts/HistoricalPrecedentCrisisPlanning.md) — Crisis-planning pattern where historical cases are searched for operational sequences, legitimacy, and control points.
 - [Diplomatic Persona as Strategic Asset](concepts/DiplomaticPersonaAsStrategicAsset.md) — Pattern where reputation, costume, symbolism, and sociability become part of diplomatic leverage.
 - [Puritan-Enlightenment Practical Ethic](concepts/PuritanEnlightenmentPracticalEthic.md) — Franklin pattern joining inherited discipline, moral improvement, wit, and useful experiment.
 - [Colonial Loyalty Rupture](concepts/ColonialLoyaltyRupture.md) — Process by which loyal British imperial identity becomes independence politics under cumulative pressure.

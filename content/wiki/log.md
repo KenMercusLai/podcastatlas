@@ -13889,3 +13889,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 16,172 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` without a provider-qualified model/key in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？
+
+Ingested the 2026-07-01 芮淇讲透资治通鉴 episode on the 92 CE anti-Dou operation: Yuan An and Ren Kui's resistance to Dou Xian, Zhou Rong's deliberate anger as deterrence against a Dou-retainer threat, Ding Hong's solar-eclipse warning, Emperor He's Liu Qing/Zheng Zhong historical-precedent search, palace-gate and seal control, Zhang Pu's defense of Dou Gui, and the eunuch-power hazard created by relying on trusted inner-court access. Created the source note plus `YuanAnEasternHan`, `RenKuiEasternHan`, `ZhouRongEasternHan`, `DingHongEasternHan`, `DouGuiEasternHan`, `StrategicAngerDeterrence`, and `HistoricalPrecedentCrisisPlanning`; updated `EmperorHeOfHan`, `DouXianEasternHan`, `LiuQingQingheKing`, `ZhengZhongEasternHan`, `ZhangPuEasternHan`, `OuterRelativeCourtPower`, `OmenCodedRemonstrance`, `PalaceCoupSymbolControl`, `TrustedEunuchPowerFormation`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 丁弘 is normalized to 丁鸿, and the transcript tension around Dou brothers being forced to die while Dou Gui survives is kept source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

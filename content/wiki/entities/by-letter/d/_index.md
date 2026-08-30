@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8435
+wiki_total_pages: 8440
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -764,6 +764,9 @@ wiki_pages:
   - key: "DXY"
     title: "丁香园 / DXY"
     url: "/wiki/entities/dxy/"
+  - key: "DingHongEasternHan"
+    title: "丁鸿 / Ding Hong (Eastern Han)"
+    url: "/wiki/entities/dinghongeasternhan/"
   - key: "DongguangCountyLateHan"
     title: "东光县 / Dongguang County (late Han)"
     url: "/wiki/entities/dongguangcountylatehan/"
@@ -1004,6 +1007,9 @@ wiki_pages:
   - key: "DouWuLateHan"
     title: "窦武 / Dou Wu (late Han)"
     url: "/wiki/entities/douwulatehan/"
+  - key: "DouGuiEasternHan"
+    title: "窦瑰 / Dou Gui (Eastern Han)"
+    url: "/wiki/entities/douguieasternhan/"
   - key: "DiHuang"
     title: "翟黄 / Di Huang"
     url: "/wiki/entities/dihuang/"

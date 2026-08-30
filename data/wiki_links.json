@@ -14479,6 +14479,10 @@
     "title": "丁宫 / Ding Gong (late Han)",
     "url": "/wiki/entities/dinggonglatehan/"
   },
+  "DingHongEasternHan": {
+    "title": "丁鸿 / Ding Hong (Eastern Han)",
+    "url": "/wiki/entities/dinghongeasternhan/"
+  },
   "DingShumiao": {
     "title": "Ding Shumiao / 丁书苗",
     "url": "/wiki/entities/dingshumiao/"
@@ -15114,6 +15118,10 @@
   "DorothyArzner": {
     "title": "Dorothy Arzner / 多罗西·阿兹娜",
     "url": "/wiki/entities/dorothyarzner/"
+  },
+  "DouGuiEasternHan": {
+    "title": "窦瑰 / Dou Gui (Eastern Han)",
+    "url": "/wiki/entities/douguieasternhan/"
   },
   "DouWuLateHan": {
     "title": "窦武 / Dou Wu (late Han)",
@@ -23242,6 +23250,10 @@
   "HistoricalMemoryContest": {
     "title": "Historical Memory Contest",
     "url": "/wiki/concepts/historicalmemorycontest/"
+  },
+  "HistoricalPrecedentCrisisPlanning": {
+    "title": "历史先例式危机规划 / Historical Precedent Crisis Planning",
+    "url": "/wiki/concepts/historicalprecedentcrisisplanning/"
   },
   "HistoricalPrecedentWeaponization": {
     "title": "Historical Precedent Weaponization / 历史先例武器化",
@@ -42451,6 +42463,10 @@
     "title": "任峻 / Ren Jun (Luoyang, late Han)",
     "url": "/wiki/entities/renjunluoyanglatehan/"
   },
+  "RenKuiEasternHan": {
+    "title": "任隗 / Ren Kui (Eastern Han)",
+    "url": "/wiki/entities/renkuieasternhan/"
+  },
   "RenNing": {
     "title": "任宁 / Ren Ning",
     "url": "/wiki/entities/renning/"
@@ -47870,6 +47886,10 @@
   "StrategicAcquirerFit": {
     "title": "Strategic Acquirer Fit",
     "url": "/wiki/concepts/strategicacquirerfit/"
+  },
+  "StrategicAngerDeterrence": {
+    "title": "策略性发怒威慑 / Strategic Anger Deterrence",
+    "url": "/wiki/concepts/strategicangerdeterrence/"
   },
   "StrategicCapitalRelocation": {
     "title": "Strategic Capital Relocation / 战略性迁都",
@@ -56899,6 +56919,10 @@
     "title": "余英时 / Yu Yingshi",
     "url": "/wiki/entities/yuyingshi/"
   },
+  "YuanAnEasternHan": {
+    "title": "袁安 / Yuan An (Eastern Han)",
+    "url": "/wiki/entities/yuananeasternhan/"
+  },
   "YuanBlueAndWhitePorcelain": {
     "title": "Yuan Blue-and-White Porcelain / 元青花",
     "url": "/wiki/concepts/yuanblueandwhiteporcelain/"
@@ -58498,6 +58522,10 @@
   "ZhouQunfei": {
     "title": "Zhou Qunfei",
     "url": "/wiki/entities/zhouqunfei/"
+  },
+  "ZhouRongEasternHan": {
+    "title": "周荣 / Zhou Rong (Eastern Han)",
+    "url": "/wiki/entities/zhourongeasternhan/"
   },
   "ZhouRoyalHouse": {
     "title": "周王室 / Zhou Royal House",
@@ -62886,6 +62914,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc": {
+    "title": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc/"
   },
   "zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq": {
     "title": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏”",

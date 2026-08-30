@@ -7,17 +7,20 @@ sources:
   - zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx
   - zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh
   - zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s
-last_updated: 2026-08-29
+  - zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc
+last_updated: 2026-08-30
 knowledge_schema: synthesis-v1
 ---
 
 ## Definition
 
-Palace Coup Symbol Control is the pattern where a court coup succeeds by first forming a trusted private access chain and then capturing the practical signs and channels of authority: palace entry, halls, shangshu communication, gates, armed guards, imperial tallies, seals, certificates, and the target's office insignia.
+Palace Coup Symbol Control is the pattern where a court coup succeeds by first forming a trusted private access chain and then capturing the practical signs and channels of authority: palace entry, halls, shangshu communication, gates, armed guards, imperial tallies, seals, certificates, fief transfer, and the target's office insignia.
 
 ## Current Synthesis
 
-Hanji 803 now supplies the earliest Shun-restoration execution layer. [[SunChengLateHan|孙程]]'s group responds to [[LiuYiBeixiangHouLateHan|北乡侯刘裔]]'s hidden death by swearing at the West Bell Tower, killing Yan-side guards at Zhangtai Gate, forcing [[LiRunLateHan|李润]] to join, enthroning [[EmperorShunOfHan|Liu Bao]], summoning shangshu officials, guarding forbidden gates, and cutting [[EmpressDowagerYanLateHan|阎太后]] off from outside communication. [[FengShiLateHan|冯师]]'s refusal and [[GuoZhenLateHan|郭镇]]'s capture of Yan Jin show that gate, troop, and edict enforcement decide whether the losing side can still recover.
+[[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] now supplies an earlier He-era anti-Dou layer. [[EmperorHeOfHan|Emperor He]] waits until [[DouXianEasternHan|Dou Xian]] and Deng Die return, moves through the North Palace, orders the zhijinwu and five northern army colonels, guards the South and North Palaces, closes the gates, executes immediate palace conspirators, removes Dou Xian's general-in-chief seal, demotes him, and sends the Dou brothers to their fiefs. This is symbol control as anti-outer-relative liquidation rather than accession restoration.
+
+Hanji 803 supplies the earliest Shun-restoration execution layer. [[SunChengLateHan|孙程]]'s group responds to [[LiuYiBeixiangHouLateHan|北乡侯刘裔]]'s hidden death by swearing at the West Bell Tower, killing Yan-side guards at Zhangtai Gate, forcing [[LiRunLateHan|李润]] to join, enthroning [[EmperorShunOfHan|Liu Bao]], summoning shangshu officials, guarding forbidden gates, and cutting [[EmpressDowagerYanLateHan|阎太后]] off from outside communication. [[FengShiLateHan|冯师]]'s refusal and [[GuoZhenLateHan|郭镇]]'s capture of Yan Jin show that gate, troop, and edict enforcement decide whether the losing side can still recover.
 
 Hanji 804 then adds the post-victory Shun-restoration symbol layer. Liu Bao's supporters make accession legible by seizing the imperial seal in the North Palace, moving him to Jiade Hall, opening and controlling gates, and treating Zhangtai Gate violence as a point-of-no-return threshold. The palace symbol sequence does not merely announce the restoration; it produces the command environment in which [[YanXianLateHan|Yan Xian]] can be destroyed.
 
@@ -31,7 +34,7 @@ The concept's main claim is that symbols are not merely decorative. In this coup
 
 - A palace coup is decided by trusted insider selection, timing, and channel control before formal titles can be mobilized.
 - Seizing the imperial seal, installing the preferred ruler in a named palace hall, and forcing the defeated dowager to surrender the seal turn a succession claim into executable authority.
-- Gates, guards, messengers, and shangshu channels decide whether a title can become action and whether the losing side can still communicate or assemble force.
+- Gates, guards, messengers, shangshu channels, office seals, and fief transfers decide whether a title can become action and whether the losing side can still communicate or assemble force.
 - Point-of-no-return violence at a gate can bind conspirators and distinguish committed participants from hesitant followers.
 - Secret recruitment, oath-binding, and leak-risk control can be the precondition for later symbol control.
 - Controlling shangshu offices, palace gates, seals, tallies, and office insignia turns imperial will into executable command.
@@ -39,6 +42,8 @@ The concept's main claim is that symbols are not merely decorative. In this coup
 
 ## Evidence
 
+- Anti-Dou execution sequence: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] says Emperor He orders armed guard preparation, guards the South and North Palaces, closes palace gates, and executes Guo Huang, Guo Ju, Deng Die, and Deng Lei.
+- Dou Xian title collapse: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] says the court removes Dou Xian's general-in-chief seal and ribbon, demotes him to Champion Marquis, and sends the Dou brothers to their fiefs.
 - Restoration oath and gate commitment: [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|Hanji 803]] says Sun Cheng, Wang Kang, Wang Guo, and other eunuchs swear at the West Bell Tower, enter Zhangtai Gate, kill Yan-side guards, and force Li Run to join.
 - Communication cutoff and counterforce failure: [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|Hanji 803]] says Sun Cheng's side controls forbidden gates, blocks Yan Taihou's outside communication, and defeats Yan recovery through Feng Shi's refusal and Guo Zhen's capture of Yan Jin.
 - Restoration seal and hall control: [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|Hanji 804]] says Liu Bao's supporters seize the imperial seal in the North Palace and bring him to Jiade Hall.
@@ -54,10 +59,11 @@ The concept's main claim is that symbols are not merely decorative. In this coup
 
 ## Counterevidence & Qualifications
 
-This concept does not claim that all coups are purely symbolic or that military force is secondary in every context. Hanji 803 shows restoration execution through oath, gate killing, coerced alignment, communication cutoff, and guard enforcement, but it does not reconstruct every armed unit in the palace. Hanji 804 shows the related seal, hall, reward, and legibility layer. Hanji 847 shows recruitment and oath-binding as a necessary precondition in the Huan case, not as a sufficient cause by itself. Hanji 848 shows a specific palace-centered pattern: armed pressure works because the emperor's side controls the channels that make force legitimate and coordinated. The sources do not fully reconstruct Liang Ji's possible counterforce; they record how quickly his network fails once the palace sequence begins.
+This concept does not claim that all coups are purely symbolic or that military force is secondary in every context. Hanji 766 shows Emperor He using armed guard preparation, gate closure, office-seal removal, and fief transfer against Dou Xian, but it does not reconstruct every armed unit or private calculation behind the timing. Hanji 803 shows restoration execution through oath, gate killing, coerced alignment, communication cutoff, and guard enforcement, but it does not reconstruct every armed unit in the palace. Hanji 804 shows the related seal, hall, reward, and legibility layer. Hanji 847 shows recruitment and oath-binding as a necessary precondition in the Huan case, not as a sufficient cause by itself. Hanji 848 shows a specific palace-centered pattern: armed pressure works because the emperor's side controls the channels that make force legitimate and coordinated. The sources do not fully reconstruct Liang Ji's possible counterforce; they record how quickly his network fails once the palace sequence begins.
 
 ## What Changed
 
+- Hanji 766 adds the He-era anti-Dou layer: palace guard preparation, gate closure, conspirator execution, Dou Xian seal removal, demotion, and fief transfer.
 - Hanji 803 adds the earliest Shun-restoration execution layer: West Bell Tower oath, Zhangtai Gate killings, Li Run coercion, Yan Taihou communication cutoff, Feng Shi's refusal, and Guo Zhen's enforcement.
 - Hanji 804 is retained as the post-victory Shun-restoration symbol layer: North Palace seal seizure, Jiade Hall installation, gate control, and Zhangtai Gate commitment.
 - Hanji 847 adds the pre-coup private recruitment, oath, and leak-risk layer before symbol seizure.
@@ -65,6 +71,9 @@ This concept does not claim that all coups are purely symbolic or that military 
 
 ## Related Concepts
 
+- [[EmperorHeOfHan|汉和帝]] - executes the earliest current anti-Dou symbol-control case.
+- [[DouXianEasternHan|窦宪]] - outer-relative target whose seal and command title are neutralized in Hanji 766.
+- [[HistoricalPrecedentCrisisPlanning|历史先例式危机规划]] - planning counterpart before Emperor He's symbol-control sequence.
 - [[PalaceAccessMonopoly|宫廷接触垄断]] - access condition that decides who can enter, watch, warn, or interrupt the palace plan.
 - [[MingqiLegitimacy|名器合法性]] - title-and-symbol order that makes seals, tallies, and office insignia politically decisive.
 - [[PalaceProximityPower|宫廷近身权力]] - near-body actor channel that supplies the conspirators and palace executors.

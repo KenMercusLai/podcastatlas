@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1509
+topic_total_pages: 1510
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1246,6 +1246,9 @@ topic_concepts:
   - key: "TenKingdomsRelationshipTypes"
     title: "十国关系类型 / Ten Kingdoms Relationship Types"
     url: "/wiki/concepts/tenkingdomsrelationshiptypes/"
+  - key: "HistoricalPrecedentCrisisPlanning"
+    title: "历史先例式危机规划 / Historical Precedent Crisis Planning"
+    url: "/wiki/concepts/historicalprecedentcrisisplanning/"
   - key: "HistoricalReportingAIHallucination"
     title: "历史报道中的AI幻觉 / Historical Reporting AI Hallucination"
     url: "/wiki/concepts/historicalreportingaihallucination/"

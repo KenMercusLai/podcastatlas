@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6003
+wiki_total_pages: 6005
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1715,6 +1715,9 @@ wiki_pages:
   - key: "ShishosetsuAutobiographicalReading"
     title: "私小说式自传阅读 / Shishosetsu Autobiographical Reading"
     url: "/wiki/concepts/shishosetsuautobiographicalreading/"
+  - key: "StrategicAngerDeterrence"
+    title: "策略性发怒威慑 / Strategic Anger Deterrence"
+    url: "/wiki/concepts/strategicangerdeterrence/"
   - key: "SuoYinReading"
     title: "索隐式阅读 / Suo Yin Reading"
     url: "/wiki/concepts/suoyinreading/"
