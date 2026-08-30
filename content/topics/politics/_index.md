@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2052
+topic_total_pages: 2053
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3295,6 +3295,9 @@ topic_concepts:
   - key: "RootCauseRemonstrance"
     title: "根源诊断式进谏 / Root-Cause Remonstrance"
     url: "/wiki/concepts/rootcauseremonstrance/"
+  - key: "TransEurasianMigrationCascade"
+    title: "欧亚迁徙连锁 / Trans-Eurasian Migration Cascade"
+    url: "/wiki/concepts/transeurasianmigrationcascade/"
   - key: "ArmedFollowerIntegrationCost"
     title: "武装部众整合成本 / Armed Follower Integration Cost"
     url: "/wiki/concepts/armedfollowerintegrationcost/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1510
+topic_total_pages: 1511
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1342,6 +1342,9 @@ topic_concepts:
   - key: "TerminalHezongFailure"
     title: "末次合纵失败 / Terminal Hezong Failure"
     url: "/wiki/concepts/terminalhezongfailure/"
+  - key: "TransEurasianMigrationCascade"
+    title: "欧亚迁徙连锁 / Trans-Eurasian Migration Cascade"
+    url: "/wiki/concepts/transeurasianmigrationcascade/"
   - key: "TruthSeekingDebateNorm"
     title: "求明理的辩论规范 / Truth-Seeking Debate Norm"
     url: "/wiki/concepts/truthseekingdebatenorm/"

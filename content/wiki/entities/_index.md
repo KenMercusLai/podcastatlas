@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8440
+wiki_total_pages: 8443
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1430,6 +1430,9 @@ wiki_pages:
   - key: "AfangPalace"
     title: "阿房宫 / Afang Palace"
     url: "/wiki/entities/afangpalace/"
+  - key: "AttilaTheHun"
+    title: "阿提拉 / Attila the Hun"
+    url: "/wiki/entities/attilathehun/"
   - key: "Atang"
     title: "阿汤 / A Tang"
     url: "/wiki/entities/atang/"

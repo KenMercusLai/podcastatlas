@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》764丨他为了活命，竟间接灭了罗马帝国？](sources/zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4.md) — 芮淇讲透资治通鉴 episode on Dou Xian's Northern Xiongnu victory, qualified trans-Eurasian migration cascade, Dou-family patronage and intimidation, Yuan An/Ren Kui/Le Hui/Han Leng resistance, and Ban Chao's early Western Regions protectorate consolidation.
 - [《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？](sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan.md) — 芮淇讲透资治通鉴 episode on Yuan An and Ren Kui opposing Dou Xian's Yu Chu recognition plan on Southern Xiongnu credibility, Wuhuan/Xianbei relations, and fiscal grounds before Emperor He accepts the risky settlement.
 - [《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？](sources/zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc.md) — 芮淇讲透资治通鉴 episode on Yuan An and Ren Kui resisting Dou Xian, Zhou Rong using deliberate anger as deterrence, Ding Hong's solar-eclipse warning, Emperor He's Liu Qing/Zheng Zhong precedent search, and the palace operation removing the Dou bloc.
 - [684. Franklin: Revenge of the American Genius (Part 2)](sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340.md) — The Rest Is History episode on Benjamin Franklin's self-made career, science, British loyalty rupture, French diplomacy, founding documents, and late abolitionist turn.
@@ -1743,8 +1744,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [袁安 / Yuan An (Eastern Han)](entities/YuanAnEasternHan.md) — Eastern Han minister whose anti-Dou resistance begins with a frontier-policy case against Yu Chu recognition and continues through Zhou Rong's drafting platform before Emperor He's palace operation.
-- [任隗 / Ren Kui (Eastern Han)](entities/RenKuiEasternHan.md) — Eastern Han minister whose opposition alongside Yuan An makes the anti-Dou Northern Xiongnu policy critique collective rather than isolated.
+- [袁安 / Yuan An (Eastern Han)](entities/YuanAnEasternHan.md) — Eastern Han minister whose anti-Dou resistance runs from impeachment and reputation-shielded opposition through the frontier-policy case against Yu Chu recognition and Zhou Rong's drafting platform.
+- [任隗 / Ren Kui (Eastern Han)](entities/RenKuiEasternHan.md) — Eastern Han minister whose opposition alongside Yuan An makes anti-Dou impeachment and the Northern Xiongnu policy critique collective rather than isolated.
+- [乐恢 / Le Hui (Eastern Han)](entities/LeHuiEasternHan.md) — Eastern Han remonstrating official whose exposure of officials and advice to maternal uncles ends in suicide after Dou-linked pressure.
+- [韩棱 / Han Leng (Eastern Han)](entities/HanLengEasternHan.md) — Eastern Han official who blocks a ruler-like "wansui" salute to Dou Xian, using ritual language to defend court hierarchy.
 - [周荣 / Zhou Rong (Eastern Han)](entities/ZhouRongEasternHan.md) — Yuan An's memorial drafter who turns a Dou-retainer death threat into public deterrence and attribution control.
 - [丁鸿 / Ding Hong (Eastern Han)](entities/DingHongEasternHan.md) — Eastern Han minister who uses a solar eclipse and dynastic precedent to warn against Dou Xian's outer-relative monopoly.
 - [窦瑰 / Dou Gui (Eastern Han)](entities/DouGuiEasternHan.md) — Dou-family member spared after Zhang Pu argues for evidence-specific mercy during the anti-Dou cleanup.
@@ -1773,13 +1776,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [梁贵人 / Liang Guiren (Emperor He era)](entities/LiangGuirenHeLateHan.md) — Hidden birth mother of Emperor He whose posthumous recognition includes title, reburial, family recall, and later Liang outer-relative risk.
 - [窦太后 / Empress Dowager Dou (Emperor He era)](entities/EmpressDowagerDouHeLateHan.md) — Emperor He's adoptive mother whose alleged harm to Liang and Song Guiren is redressed without stripping her posthumous title or burial pairing.
 - [张酺 / Zhang Pu (Eastern Han)](entities/ZhangPuEasternHan.md) — Eastern Han official whose current profile runs from Taixue-orthodoxy opposition to Cao Bao's rites to later Liang birth-mother redress advice.
-- [窦宪 / Dou Xian (Eastern Han)](entities/DouXianEasternHan.md) — He-era outer-relative powerholder whose Yu Chu recognition proposal, palace removal, and fall frame Li He's delayed gift mission, Ban Gu's prison death, and Northern Xiongnu volatility.
+- [窦宪 / Dou Xian (Eastern Han)](entities/DouXianEasternHan.md) — He-era outer-relative powerholder whose Northern Xiongnu victory, patronage network, Yu Chu recognition proposal, palace removal, and fall frame Li He's delayed gift mission, Ban Gu's prison death, and frontier volatility.
 - [班固 / Ban Gu (Eastern Han)](entities/BanGuEasternHan.md) — Han historian whose prison death during the Dou-family cleanup leaves `Han Shu` completion to Ban Zhao.
 - [李郃 / Li He (Eastern Han)](entities/LiHeEasternHan.md) — Hanzhong official who uses a delayed gift mission to keep his administrator clear of Dou Xian's collapse.
 - [郑众 / Zheng Zhong (Eastern Han eunuch)](entities/ZhengZhongEasternHan.md) — Eunuch promoted after the Dou purge whose humility and trusted access mark the episode's beginning of eunuch power.
 - [邓训 / Deng Xun (Eastern Han)](entities/DengXunEasternHan.md) — Protector of the Qiang whose death draws cross-community mourning and local shrine worship before Nie Shang's failed succession.
 - [聂尚 / Nie Shang (Eastern Han)](entities/NieShangLateHan.md) — Shu commandery administrator and Qiang protector whose rushed conciliation of Mi Tang ends with murdered envoys and dismissal.
-- [北匈奴 / Northern Xiongnu (late Han)](entities/NorthernXiongnuLateHan.md) — Northern Xiongnu field whose Yu Chu recognition dispute precedes post-Dou Xian surrender reversal, Yu Chu's destruction, and Xianbei occupation of former lands.
+- [北匈奴 / Northern Xiongnu (late Han)](entities/NorthernXiongnuLateHan.md) — Northern Xiongnu field whose defeat by Dou Xian, qualified westward migration association, Yu Chu recognition dispute, surrender reversal, and Xianbei transition define the current late-Han layer.
 - [于除 / 俞厨 / Yu Chu (Northern Xiongnu)](entities/YuChuNorthernXiongnu.md) — Dou Xian-sponsored Northern Xiongnu claimant whose recognition request creates a frontier-credibility dispute before his later defection and destruction.
 - [清河王刘庆 / Liu Qing (Qinghe king)](entities/LiuQingQingheKing.md) — Eastern Han royal relative whose post-Dou caution precedes his Song Guiren sacrifice request after Liang Guiren's redress; kept distinct from modern Liu Qing.
 - [宋贵人 / Song Guiren (Zhang-He era)](entities/SongGuirenZhangHeLateHan.md) — Liu Qing's mother and parallel Dou Taihou victim whose recognition takes the narrower form of seasonal sacrifices.
@@ -1806,7 +1809,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lewis and Clark Expedition](entities/LewisAndClarkExpedition.md) — Jefferson-commissioned western exploration project linking scientific inquiry and imperial ambition.
 - [Democratic-Republican Party](entities/DemocraticRepublicanParty.md) — Jefferson's founding-era party vehicle, complicated by Burr's 1800 tie and later marginalization.
 - [Federalist Party](entities/FederalistParty.md) — Hamilton-associated founding-era party rival to Jefferson's Democratic-Republicans, active in the 1796, 1800, and Burr 1804 contexts.
-- [班超 / Ban Chao (Eastern Han)](entities/BanChaoEasternHan.md) — Eastern Han Western Regions commander whose Yanqi conquest, low-support achievement, Gan Ying mission sponsorship, final recall, light-touch handoff advice, and Qiuci kingship afterlife benchmark later Deng-era abandonment and recovery debates.
+- [班超 / Ban Chao (Eastern Han)](entities/BanChaoEasternHan.md) — Eastern Han Western Regions commander whose protectorate restoration, Qiuci kingship intervention, Yanqi conquest, Gan Ying mission sponsorship, final recall, and light-touch handoff advice benchmark later abandonment and recovery debates.
 - [甘英 / Gan Ying (Eastern Han)](entities/GanYingEasternHan.md) — Eastern Han envoy sent by Ban Chao toward Da Qin/Rome and Tiaozhi, reaching Parthia's western boundary before route warnings turned him back.
 - [大秦 / Da Qin](entities/DaQin.md) — Han-era exonym for the Roman Empire in Hanji 771, capturing Rome as a far-western polity known through mediated route reports.
 - [安息 / Parthian Empire](entities/ParthianEmpire.md) — Intermediary polity whose officials' sea-route warning stops Gan Ying's mission toward Da Qin/Rome.
@@ -1840,7 +1843,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鲁恭 / Lu Gong (late Han)](entities/LuGongLateHan.md) — Scholar-official whose profile joins Zhongmou moral governance, 107 judicial-calendar reform, 109 famine dismissal, and teaching/recommendation duty boundaries.
 - [梁慬 / Liang Jin (late Han)](entities/LiangJinLateHan.md) — Early Deng-regency frontier officer whose Western Regions reinforcement and Qiuci cavalry victory buy time in a crisis the court still abandons.
 - [段禧 / Duan Xi (late Han)](entities/DuanXiLateHan.md) — Western Regions protector appointed after Ren Shang, tied to Qiuci relocation, brief stabilization, and the final 107 recall.
-- [龟兹 / Qiuci Kingdom](entities/QiuciKingdom.md) — Western Regions polity whose pro-Han Ban Chao settlement and later protectorate-relocation backlash expose the local-legitimacy limits of Han control.
+- [龟兹 / Qiuci Kingdom](entities/QiuciKingdom.md) — Western Regions polity whose submission, Ba Ba installation, Ban Chao protectorate placement, later relocation backlash, and regional balancing expose the local-legitimacy limits of Han control.
 - [邓康 / Deng Kang (late Han)](entities/DengKangLateHan.md) — Deng-family cousin and Yueqi xiaowei who warns against outer-relative overreach, is punished by Empress Dowager Deng, and becomes a risk-separation case.
 - [唐潭 / Tang Tan (late Han)](entities/TangTanLateHan.md) — Yuzhang-associated adviser who rejects auspicious omen reporting under strong outer relatives and weak imperial authority.
 - [平原王刘裔 / Liu Yi (Pingyuan Wang, late Han)](entities/LiuYiPingyuanWangLateHan.md) — Collateral royal relative treated as the alleged Deng-backed replacement claimant and kept distinct from Beixiang Hou Liu Yi.
@@ -6988,7 +6991,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Thomas Paine / 托马斯·潘恩](entities/ThomasPaine.md) — Republican anti-death-penalty counterpoint in episode 125's discussion of revolution, punishment, and killing.
 - [Julius Caesar / 尤利乌斯·恺撒](entities/JuliusCaesar.md) — Roman commander and dictator read by episode 124 as charismatic, clement, reckless, and caught in a personal-rule legitimacy crisis.
 - [Roman Republic / 罗马共和国](entities/RomanRepublic.md) — Republican polity whose late institutional breakdown frames Caesar's rise, assassination, and imperial aftermath.
-- [Roman Empire / 罗马帝国](entities/RomanEmpire.md) — Imperial order emerging after Caesar's assassination failed to restore the Roman Republic and later appearing as Da Qin, the far-western target of Gan Ying's Eastern Han mission.
+- [Roman Empire / 罗马帝国](entities/RomanEmpire.md) — Imperial order emerging after Caesar's assassination, appearing as Da Qin in Gan Ying's Eastern Han mission, and serving as the western endpoint of a qualified Hunnic/Gothic pressure sequence.
+- [阿提拉 / Attila the Hun](entities/AttilaTheHun.md) — Hunnic leader used in Hanji 764 as the remembered late figure in the qualified migration-pressure chain from steppe displacement to Roman crisis.
 - [Assassination of Julius Caesar / 恺撒遇刺](entities/CaesarAssassination.md) — Ides of March event treated by episode 124 as both republican tyrannicide and failed political repair.
 - [Marcus Brutus / 马库斯·布鲁图斯](entities/MarcusBrutus.md) — Caesar-pardoned republican conspirator whose symbolic name and moral limits shape the assassination's meaning and failure.
 - [Gaius Cassius Longinus / 卡西乌斯](entities/GaiusCassiusLonginus.md) — Main organizer of the anti-Caesar conspiracy who needed Brutus's republican authority.
@@ -10711,6 +10715,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [External Troop Invitation Risk / 外兵入京升级风险](concepts/ExternalTroopInvitationRisk.md) — Palace-crisis pattern where borrowing outside military pressure gives armed outsiders a route into central power.
 - [Zero-Sum Conflict Hesitation Risk / 死斗局优柔寡断风险](concepts/ZeroSumConflictHesitationRisk.md) — Late-Han timing-risk frame where delayed, softened, or indirect action becomes dangerous once the other side still has access, symbols, information, and incentive to strike first.
 - [Palace Coup Violence Cascade / 宫廷政变暴力级联](concepts/PalaceCoupViolenceCascade.md) — Hanji 946 pattern where one palace killing triggers forged orders, gate assault, retaliatory slaughter, imperial flight, and third-party capture opportunity.
+- [Trans-Eurasian Migration Cascade / 欧亚迁徙连锁](concepts/TransEurasianMigrationCascade.md) — Source-qualified pattern where steppe-frontier pressure is read as displacement, secondary migration, and imperial stress across Eurasia.
 - [Intermediary Route Gatekeeping / 中介路线门控](concepts/IntermediaryRouteGatekeeping.md) — Pattern where a middle actor controls distant contact by shaping route knowledge, risk perception, or passage feasibility, grounded in Gan Ying's Parthia stop.
 - [Strategic Frontier Abandonment / 弃边失屏](concepts/StrategicFrontierAbandonment.md) — Pattern where a costly frontier or outer buffer is misread as removable burden while prior investment, local legitimacy, shield, corridor, alliance, population-protection, and future-defense-cost functions are underpriced.
 - [Military Presence Theater / 军力声势表演](concepts/MilitaryPresenceTheater.md) — Dong Zhuo's late-Han tactic of making a small arriving force look like repeated reinforcement before turning perceived momentum into court control.

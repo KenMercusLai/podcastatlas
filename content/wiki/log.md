@@ -13594,6 +13594,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》764丨他为了活命，竟间接灭了罗马帝国？
+
+Ingested the 2026-07-01 芮淇讲透资治通鉴 episode on Dou Xian's Northern Xiongnu victory, the qualified Northern-Xiongnu-to-Huns-to-Rome migration association, Dou-family patronage and intimidation, Yuan An and Ren Kui's impeachment resistance, Le Hui's fatal remonstrance risk, Han Leng's ritual boundary against ministerial "wansui," and Ban Chao's early Western Regions protectorate consolidation through Qiuci. Created the source note plus `LeHuiEasternHan`, `HanLengEasternHan`, `AttilaTheHun`, and `TransEurasianMigrationCascade`; updated `DouXianEasternHan`, `NorthernXiongnuLateHan`, `YuanAnEasternHan`, `RenKuiEasternHan`, `BanChaoEasternHan`, `RomanEmpire`, `QiuciKingdom`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source's Rome chain is kept as a qualified association rather than direct proof, and Ba Ba, Youliduo, Xu Gan, Gumo, Wensu, Weixu, Weili, and "沃尔丁" remain source-scoped.
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？
 
 Ingested the 2026-07-01 芮淇讲透资治通鉴 episode on Yuan An and Ren Kui opposing Dou Xian's proposal to recognize Yu Chu as a Northern Xiongnu chanyu. Created the source note plus `FrontierRecognitionCredibilityTradeoff`; updated `YuanAnEasternHan`, `RenKuiEasternHan`, `DouXianEasternHan`, `EmperorHeOfHan`, `NorthernXiongnuLateHan`, `YuChuNorthernXiongnu`, `SouthernXiongnu`, `Wuhuan`, `Xianbei`, `index`, and `overview`. No settled contradiction found; 于除 and 俞厨 are normalized under the stable `YuChuNorthernXiongnu` route, and Song You, Liu Fang, the unnamed finance official, Puli Sea, Youliu chanyu, Tuntuhe, and exact budget figures remain source-scoped.
@@ -13897,6 +13901,10 @@ Ran health, identity validation, and lint. Health scanned 16,172 wiki pages with
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？
 
 Ingested the 2026-07-01 芮淇讲透资治通鉴 episode on the 92 CE anti-Dou operation: Yuan An and Ren Kui's resistance to Dou Xian, Zhou Rong's deliberate anger as deterrence against a Dou-retainer threat, Ding Hong's solar-eclipse warning, Emperor He's Liu Qing/Zheng Zhong historical-precedent search, palace-gate and seal control, Zhang Pu's defense of Dou Gui, and the eunuch-power hazard created by relying on trusted inner-court access. Created the source note plus `YuanAnEasternHan`, `RenKuiEasternHan`, `ZhouRongEasternHan`, `DingHongEasternHan`, `DouGuiEasternHan`, `StrategicAngerDeterrence`, and `HistoricalPrecedentCrisisPlanning`; updated `EmperorHeOfHan`, `DouXianEasternHan`, `LiuQingQingheKing`, `ZhengZhongEasternHan`, `ZhangPuEasternHan`, `OuterRelativeCourtPower`, `OmenCodedRemonstrance`, `PalaceCoupSymbolControl`, `TrustedEunuchPowerFormation`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 丁弘 is normalized to 丁鸿, and the transcript tension around Dou brothers being forced to die while Dou Gui survives is kept source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] lint | Wiki health check
 
