@@ -8871,9 +8871,9 @@
       "url": "/wiki/concepts/dopaminewantingloop/"
     },
     "DouGuiEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？ [lrs-mguYfmnxE970HdWjvMEvL8Oc].md",
@@ -8881,10 +8881,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？ [liMDO2HFD8epCfKwwsrmZZ9NO0dJ].md",
+          "key": "zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj/"
         }
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/douguieasternhan/"
+    },
+    "DouJingEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？ [liMDO2HFD8epCfKwwsrmZZ9NO0dJ].md",
+          "key": "zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/doujingeasternhan/"
     },
     "DouWuLateHan": {
       "episode_count": 13,
@@ -8987,9 +9010,9 @@
       "url": "/wiki/entities/douwulatehan/"
     },
     "DouXianEasternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -9025,6 +9048,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战",
           "url": "/wiki/sources/zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？ [liMDO2HFD8epCfKwwsrmZZ9NO0dJ].md",
+          "key": "zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj/"
         }
       ],
       "updated": "2026-08-30",
@@ -14929,6 +14959,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/hekui/"
+    },
+    "HeSongEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？ [liMDO2HFD8epCfKwwsrmZZ9NO0dJ].md",
+          "key": "zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/hesongeasternhan/"
     },
     "HeYongLateHan": {
       "episode_count": 5,
@@ -21088,6 +21134,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/liuyandongcommandery/"
+    },
+    "LiuYanFulingKingEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？ [liMDO2HFD8epCfKwwsrmZZ9NO0dJ].md",
+          "key": "zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/liuyanfulingkingeasternhan/"
     },
     "LiuYeLateHan": {
       "episode_count": 2,
@@ -39043,9 +39105,9 @@
       "url": "/wiki/entities/yuxueasternhan/"
     },
     "YuanAnEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？ [lrs-mguYfmnxE970HdWjvMEvL8Oc].md",
@@ -39067,6 +39129,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》764丨他为了活命，竟间接灭了罗马帝国？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？ [liMDO2HFD8epCfKwwsrmZZ9NO0dJ].md",
+          "key": "zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj/"
         }
       ],
       "updated": "2026-08-30",

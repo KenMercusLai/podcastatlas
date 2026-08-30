@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？](sources/zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj.md) — 芮淇讲透资治通鉴 episode on Dou Xian's restored rank, Dou Jing's household abuse and private cavalry recall, Yuan An's impeachment and historical-allusive memorial, Dou Gui's restrained contrast, He Song's Jinan tutorship, and Fuling King Liu Yan's death notice.
 - [《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战](sources/zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb.md) — 芮淇讲透资治通鉴 episode on Dou Xian's redemption-through-war Northern Xiongnu campaign, Ban Chao's Yuezhi supply-line defense, Jiluoshan, Yanran, and the qualified migration-cascade prelude.
 - [《资治通鉴·汉纪》764丨他为了活命，竟间接灭了罗马帝国？](sources/zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4.md) — 芮淇讲透资治通鉴 episode on Dou Xian's Northern Xiongnu victory, qualified trans-Eurasian migration cascade, Dou-family patronage and intimidation, Yuan An/Ren Kui/Le Hui/Han Leng resistance, and Ban Chao's early Western Regions protectorate consolidation.
 - [《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？](sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan.md) — 芮淇讲透资治通鉴 episode on Yuan An and Ren Kui opposing Dou Xian's Yu Chu recognition plan on Southern Xiongnu credibility, Wuhuan/Xianbei relations, and fiscal grounds before Emperor He accepts the risky settlement.
@@ -1745,13 +1746,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [袁安 / Yuan An (Eastern Han)](entities/YuanAnEasternHan.md) — Eastern Han minister whose anti-Dou resistance runs from impeachment and reputation-shielded opposition through the frontier-policy case against Yu Chu recognition and Zhou Rong's drafting platform.
+- [袁安 / Yuan An (Eastern Han)](entities/YuanAnEasternHan.md) — Eastern Han minister whose anti-Dou resistance runs from Dou Jing impeachment and historical-allusive warning through Yu Chu frontier policy and Zhou Rong's drafting platform.
+- [窦景 / Dou Jing (Eastern Han)](entities/DouJingEasternHan.md) — Dou-family brother whose household abuse and unauthorized frontier cavalry recall make early outer-relative overreach concrete.
 - [任隗 / Ren Kui (Eastern Han)](entities/RenKuiEasternHan.md) — Eastern Han minister whose opposition alongside Yuan An makes anti-Dou impeachment and the Northern Xiongnu policy critique collective rather than isolated.
 - [乐恢 / Le Hui (Eastern Han)](entities/LeHuiEasternHan.md) — Eastern Han remonstrating official whose exposure of officials and advice to maternal uncles ends in suicide after Dou-linked pressure.
 - [韩棱 / Han Leng (Eastern Han)](entities/HanLengEasternHan.md) — Eastern Han official who blocks a ruler-like "wansui" salute to Dou Xian, using ritual language to defend court hierarchy.
 - [周荣 / Zhou Rong (Eastern Han)](entities/ZhouRongEasternHan.md) — Yuan An's memorial drafter who turns a Dou-retainer death threat into public deterrence and attribution control.
 - [丁鸿 / Ding Hong (Eastern Han)](entities/DingHongEasternHan.md) — Eastern Han minister who uses a solar eclipse and dynastic precedent to warn against Dou Xian's outer-relative monopoly.
-- [窦瑰 / Dou Gui (Eastern Han)](entities/DouGuiEasternHan.md) — Dou-family member spared after Zhang Pu argues for evidence-specific mercy during the anti-Dou cleanup.
+- [窦瑰 / Dou Gui (Eastern Han)](entities/DouGuiEasternHan.md) — Restrained Dou-family member used by Yuan An as an internal counterexample before Zhang Pu later secures evidence-specific mercy for him.
+- [和嵩 / He Song (Eastern Han)](entities/HeSongEasternHan.md) — Upright Eastern Han tutor-official sent to Jinan after Dou Xian learns of Yuan An's sealed memorial, remembered for generous local governance and difficult royal remonstrance.
+- [阜陵王刘延 / Liu Yan (Fuling King, Eastern Han)](entities/LiuYanFulingKingEasternHan.md) — Disambiguated Eastern Han prince whose prophecy-linked accusations produce repeated limited penalties, restoration, and a later death notice.
 - [Benjamin Franklin](entities/BenjaminFranklin.md) — Founding-era printer, scientist, diplomat, and revolutionary whose public persona helped secure French support while his slavery record remains morally qualified.
 - [William Franklin](entities/WilliamFranklin.md) — Benjamin Franklin's loyalist son and New Jersey governor, used by the source to make colonial rupture personal.
 - [Thomas Hutchinson](entities/ThomasHutchinson.md) — Massachusetts governor whose letters about colonial liberties became a catalyst in Franklin's break with Britain.
@@ -1777,7 +1781,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [梁贵人 / Liang Guiren (Emperor He era)](entities/LiangGuirenHeLateHan.md) — Hidden birth mother of Emperor He whose posthumous recognition includes title, reburial, family recall, and later Liang outer-relative risk.
 - [窦太后 / Empress Dowager Dou (Emperor He era)](entities/EmpressDowagerDouHeLateHan.md) — Emperor He's adoptive mother whose alleged harm to Liang and Song Guiren is redressed without stripping her posthumous title or burial pairing.
 - [张酺 / Zhang Pu (Eastern Han)](entities/ZhangPuEasternHan.md) — Eastern Han official whose current profile runs from Taixue-orthodoxy opposition to Cao Bao's rites to later Liang birth-mother redress advice.
-- [窦宪 / Dou Xian (Eastern Han)](entities/DouXianEasternHan.md) — He-era outer-relative powerholder whose crime-to-campaign Northern Xiongnu victory, Jiluoshan/Yanran memory, patronage network, Yu Chu recognition proposal, palace removal, and fall frame Li He's delayed gift mission, Ban Gu's prison death, and frontier volatility.
+- [窦宪 / Dou Xian (Eastern Han)](entities/DouXianEasternHan.md) — He-era outer-relative powerholder whose restored rank, family overreach, punishment-avoidance Northern Xiongnu victory, patronage network, Yu Chu proposal, palace removal, and fall frame later social and frontier aftershocks.
 - [稽落山之战 / Jiluoshan Battle (late Han)](entities/JiluoshanBattleLateHan.md) — Dou Xian's Northern Xiongnu campaign centerpiece leading to Yanran commemoration and the source's qualified migration-cascade frame.
 - [燕然勒石 / Yanran Inscription](entities/YanranInscription.md) — Campaign commemoration ordered by Dou Xian and written by Ban Gu after the Jiluoshan victory over Northern Xiongnu.
 - [班固 / Ban Gu (Eastern Han)](entities/BanGuEasternHan.md) — Han historian whose prison death during the Dou-family cleanup leaves `Han Shu` completion to Ban Zhao.

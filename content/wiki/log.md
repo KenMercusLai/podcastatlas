@@ -13918,6 +13918,14 @@ Ran lint. See lint-report.md for details.
 
 Ingested the 2026-07-01 芮淇讲透资治通鉴 episode on Dou Xian's punishment-avoidance Northern Xiongnu campaign, Ban Chao's supply-line defeat of a Yuezhi attack, Southern Xiongnu's strike on the northern chanyu, Jiluoshan, Yanran commemoration, and the qualified migration-cascade prelude later developed in Hanji 764. Created the source note plus `JiluoshanBattleLateHan` and `YanranInscription`; updated `DouXianEasternHan`, `NorthernXiongnuLateHan`, `BanChaoEasternHan`, `Yuezhi`, `GengKuiLateHan`, `RenShangLateHan`, `TransEurasianMigrationCascade`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the Northern-Xiongnu-to-Europe chain remains source-scoped and the European evidence is deferred to Hanji 764.
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？
+
+Ingested the 2026-07-01 芮淇讲透资治通鉴 episode on Dou Xian's restored rank, Dou Jing's household abuses and unauthorized frontier cavalry recall, Yuan An's impeachment and historical-allusive sealed memorial, Dou Gui's restrained family contrast, He Song's Jinan tutorship, Fuling King Liu Yan's death notice, floods, amnesty, and solar-eclipse setup. Created the source note plus `DouJingEasternHan`, `HeSongEasternHan`, and `LiuYanFulingKingEasternHan`; updated `DouXianEasternHan`, `YuanAnEasternHan`, `DouGuiEasternHan`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Fuling King Liu Yan is kept distinct from the existing Liu Yan pages, and disaster/omen notices remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

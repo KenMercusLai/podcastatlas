@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "d2262369cd3bb76959f878595a106e7167b579216f8d7b14ad80484a85f194a1",
       "785bf7ff71754786438c2822b30df12bdae76d6fe5014fabbb32740ba7f9d6ff",
       "0b2c8997f5dbfea22e48e434976328c9229ce4d1040b99d76580ca3cc56f14dd",
       "88dfacd5e6d2c14f7e5cf25ebaf9fd83f40de73aab91c883714e6bbacb0bfb75",
@@ -409,11 +410,36 @@
       "783b85daf8e28c79ebd7838b98cbae32cc3b283841103fa74a279782510e1ecf",
       "2f2ccba72e3ff27853c9c5e7edd9f718fa9dd0a3c9c92731bc7ee6f0b1047bd7"
     ],
-    "paragraph_count": 407
+    "paragraph_count": 408
   },
-  "overview_commit": "5fde09f2eed968749633d7cca9e8f1cce103c836",
-  "overview_digest": "9c28fef5c5dded8b4db48fdfbcbe979581624aef4cbd8d83fb9efd7fd3bbe510",
+  "overview_commit": "aaf72a170bb64e0758e62d3505d7b87404571343",
+  "overview_digest": "bee12f11895bc2ad7ccc6413e4b8dc29959628dbb026df051cca55931adf97b7",
   "paragraphs": [
+    {
+      "id": "d2262369cd3bb76959f878595a106e7167b579216f8d7b14ad80484a85f194a1",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the early Dou-family court-overreach layer before [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]]. It adds [[DouJingEasternHan|窦景]], [[HeSongEasternHan|和嵩]], and [[LiuYanFulingKingEasternHan|阜陵王刘延]], while extending [[DouXianEasternHan|窦宪]], [[YuanAnEasternHan|袁安]], and [[DouGuiEasternHan|窦瑰]]. Its core synthesis is that the Dou-family danger is visible before the later campaign and palace-coup layers: rank above the Three Excellencies, household violence, unlawful frontier-cavalry recall, official silence, and sealed-memorial leakage all show a family bloc becoming a practical power center. No settled contradiction is recorded; Fuling King Liu Yan is kept separate from existing Liu Yan pages, and the flood, amnesty, and solar-eclipse notices remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "DouGuiEasternHan",
+        "DouJingEasternHan",
+        "DouXianEasternHan",
+        "HeSongEasternHan",
+        "LiuYanFulingKingEasternHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "YuanAnEasternHan",
+        "zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj",
+        "zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb"
+      ]
+    },
     {
       "id": "785bf7ff71754786438c2822b30df12bdae76d6fe5014fabbb32740ba7f9d6ff",
       "primary_topic": "history-and-geopolitics",

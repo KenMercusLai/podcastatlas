@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8445
+wiki_total_pages: 8448
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1532,6 +1532,9 @@ wiki_pages:
   - key: "LiShiqi"
     title: "郦食其 / Li Shiqi"
     url: "/wiki/entities/lishiqi/"
+  - key: "LiuYanFulingKingEasternHan"
+    title: "阜陵王刘延 / Liu Yan (Fuling King, Eastern Han)"
+    url: "/wiki/entities/liuyanfulingkingeasternhan/"
   - key: "LuChuan"
     title: "陆川 / Lu Chuan"
     url: "/wiki/entities/luchuan/"
