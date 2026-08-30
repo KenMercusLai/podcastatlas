@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)](sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177.md) — Planet Money bonus episode on Karen Nussbaum, 9to5, Jane Fonda, Patricia Resnick, Dolly Parton, and how a clerical-worker labor movement became the film and song "9 to 5".
 - [《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？](sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi.md) — 芮淇讲透资治通鉴 episode on Empress Dowager Dou's Liu Chang affair, Dou Xian's murder and campaign-redemption request, Deng Xun's protective Qiang-frontier policy, and Yuan An/Ren Kui's anti-expedition resistance.
 - [《资治通鉴·汉纪》761丨从死刑犯到沙场英雄，他是如何做到的？](sources/zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex.md) — 芮淇讲透资治通鉴 episode on Dou Xian's contested Northern Xiongnu expedition, Zhi Shou's criminalized refusal, He Chang's rescue memorial, Dou-family mansion and guard power, Jiluoshan, and Yanran commemoration.
 - [VOL.210 “我真不是敲颂钵的！”揭秘临床音乐治疗，撕下“玄学疗愈”标签](sources/vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0.md) — 这病说来话长 episode with 阿汤 and 果同学 on clinical music therapy, music healing boundaries, autism and hearing-disability cases, elder memory cueing, hospital emotional support, and music-based emotion regulation.
@@ -1749,6 +1750,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Karen Nussbaum](entities/KarenNussbaum.md) — Office-worker organizer who helped build 9to5 and connect clerical-worker demands to the 1980 film "9 to 5".
+- [Jane Fonda](entities/JaneFonda.md) — Actor-activist who turned 9to5's clerical-worker movement into a Hollywood film project.
+- [Patricia Resnick](entities/PatriciaResnick.md) — Screenwriter who translated clerical workers' office stories into the "9 to 5" script.
+- [9to5](entities/NineToFiveOrganization.md) — Clerical-worker labor organization that converted office grievances into national organizing and union campaigns.
+- [9 to 5 (1980 film)](entities/NineToFiveFilm.md) — Workplace comedy built from 9to5's office-worker movement and later used as an organizing amplifier.
 - [都乡侯刘畅 / Liu Chang (Duxiang marquis)](entities/LiuChangDuxiangHouEasternHan.md) — Eastern Han royal kinsman murdered by Dou Xian after becoming Empress Dowager Dou's favorite, creating the crime-to-campaign prelude.
 - [刘刚 / Liu Gang (Eastern Han)](entities/LiuGangEasternHan.md) — Falsely accused brother in Liu Chang's murder case, used to show scapegoating risk under outer-relative pressure.
 - [宋游 / Song You (Eastern Han)](entities/SongYouEasternHan.md) — Taiwei who enables He Chang's murder-case review but retreats from signing the anti-Dou expedition memorial.
@@ -2030,7 +2036,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [InterPath001](entities/InterPath001.md) — Moderna/Merck phase 3 melanoma trial used by E250 to frame individualized mRNA vaccine plus PD-1 recurrence-free-survival evidence.
 - [BioNTech](entities/BioNTech.md) — mRNA oncology comparator in E250's Moderna-centered tumor-vaccine competition discussion.
 - [Steve Young (Melanoma Trial Patient)](entities/SteveYoungMelanomaPatient.md) — Hertfordshire musician and melanoma patient whose personalized mRNA-vaccine trial illustrates tumor sequencing, mRNA mapping, and ongoing seven-year monitoring.
-- [Dolly Parton](entities/DollyParton.md) — American songwriter, performer, business actor, philanthropist, and cross-coalition cultural figure in The Intelligence remembrance.
+- [Dolly Parton](entities/DollyParton.md) — American songwriter, performer, business actor, philanthropist, cross-coalition cultural figure, and "9 to 5" labor-culture icon.
 - [Sarah Larniuk](entities/SarahLarniuk.md) — The Intelligence source voice explaining Canada's oil-sands boom through prices, pipeline capacity, trade uncertainty, and producer profits.
 - [Cenovus Energy](entities/CenovusEnergy.md) — Canadian oil producer used as an earnings signal for the oil-sands boom.
 - [Canadian Natural Resources Limited](entities/CanadianNaturalResourcesLimited.md) — Canadian oil producer used as a record adjusted-profit signal in the oil-sands boom segment.
@@ -10208,6 +10214,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Office Worker Labor Organizing](concepts/OfficeWorkerLaborOrganizing.md) — Collective conversion of clerical and administrative workplace grievances into demands over pay, promotion, dignity, leave, child care, and bargaining power.
+- [Gendered Office Hierarchy](concepts/GenderedOfficeHierarchy.md) — Workplace pattern where feminized clerical roles sit below male-dominated managerial authority, promotion control, and credit.
+- [Culture-Led Labor Organizing](concepts/CultureLedLaborOrganizing.md) — Use of songs, films, comedy, television, and public performance to turn dispersed workplace frustrations into collective recognition and action.
+- [Sexual Harassment Naming Lag](concepts/SexualHarassmentNamingLag.md) — Gap between workers recognizing unwanted sexualized workplace conduct and having stable public or institutional vocabulary for it.
 - [死罪转军功式任用 / Punishment Converted to Campaign Command](concepts/PunishmentConvertedToCampaignCommand.md) — Court-politics pattern where protected liability is redirected into military command and possible public merit.
 - [保护换信任式边疆安抚 / Frontier Trust Through Protection](concepts/FrontierTrustThroughProtection.md) — Frontier governance pattern where protecting threatened groups creates allegiance, information, and coalition leverage.
 - [Clinical Music Therapy](concepts/ClinicalMusicTherapy.md) — Trained, goal-directed music intervention separated from wellness listening by assessment, treatment goals, therapist relationship, and professional boundaries.
@@ -12135,7 +12145,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wildfire Smoke Health Burden](concepts/WildfireSmokeHealthBurden.md) — Public-health frame for wildfire smoke as the main human cost channel of burning landscapes.
 - [Wildfire Climate Feedback](concepts/WildfireClimateFeedback.md) — Climate-system effects of fires through CO2, smoke, atmospheric circulation, and ocean fertilization.
 - [Landscape Fire Prevention](concepts/LandscapeFirePrevention.md) — Sustained governance and technology work of reducing fire risk before ignition or while fires remain small.
-- [Women Workplace Progress Stall](concepts/WomenWorkplaceProgressStall.md) — Pattern where women’s executive representation, board seats, promotion ambition, participation, and pay-gap indicators stop improving or reverse.
+- [Women Workplace Progress Stall](concepts/WomenWorkplaceProgressStall.md) — Pattern where women’s gains stall across leadership, pay, participation, care infrastructure, health accommodation, harassment recognition, and labor rights.
 - [Promotion Ambition Gap](concepts/PromotionAmbitionGap.md) — Diverging desire for advancement between men and women, read as a signal of workplace-family payoff and structural constraints.
 - [Childcare Infrastructure Constraint](concepts/ChildcareInfrastructureConstraint.md) — Work-family bottleneck where childcare quality and availability limit participation and career advancement.
 - [Nightlife Mayor](concepts/NightlifeMayor.md) — City role mediating between nighttime businesses, residents, regulators, licensing, safety, and social life.

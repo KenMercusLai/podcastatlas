@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6013
+wiki_total_pages: 6017
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1742,6 +1742,9 @@ wiki_pages:
   - key: "CultureLedFoodAdoption"
     title: "Culture-Led Food Adoption"
     url: "/wiki/concepts/cultureledfoodadoption/"
+  - key: "CultureLedLaborOrganizing"
+    title: "Culture-Led Labor Organizing"
+    url: "/wiki/concepts/cultureledlabororganizing/"
   - key: "CurrencyAnchorTransition"
     title: "Currency Anchor Transition / 货币锚转换"
     url: "/wiki/concepts/currencyanchortransition/"

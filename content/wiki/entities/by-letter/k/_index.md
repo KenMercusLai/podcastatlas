@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 8455
+wiki_total_pages: 8460
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "KarenDuffin"
     title: "Karen Duffin"
     url: "/wiki/entities/karenduffin/"
+  - key: "KarenNussbaum"
+    title: "Karen Nussbaum"
+    url: "/wiki/entities/karennussbaum/"
   - key: "KarlDrais"
     title: "Karl Drais / 卡尔·德莱斯"
     url: "/wiki/entities/karldrais/"

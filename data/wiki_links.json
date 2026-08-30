@@ -12819,6 +12819,10 @@
     "title": "Culture-Led Food Adoption",
     "url": "/wiki/concepts/cultureledfoodadoption/"
   },
+  "CultureLedLaborOrganizing": {
+    "title": "Culture-Led Labor Organizing",
+    "url": "/wiki/concepts/cultureledlabororganizing/"
+  },
   "CultureLimited": {
     "title": "文化有限",
     "url": "/wiki/entities/culturelimited/"
@@ -20439,6 +20443,10 @@
     "title": "Gendered Nationalist Heroism",
     "url": "/wiki/concepts/genderednationalistheroism/"
   },
+  "GenderedOfficeHierarchy": {
+    "title": "Gendered Office Hierarchy",
+    "url": "/wiki/concepts/genderedofficehierarchy/"
+  },
   "GenderedPatronageInversion": {
     "title": "Gendered Patronage Inversion",
     "url": "/wiki/concepts/genderedpatronageinversion/"
@@ -26095,6 +26103,10 @@
     "title": "Jane Black",
     "url": "/wiki/entities/janeblack/"
   },
+  "JaneFonda": {
+    "title": "Jane Fonda",
+    "url": "/wiki/entities/janefonda/"
+  },
   "JaneVonMehren": {
     "title": "Jane von Mehren",
     "url": "/wiki/entities/janevonmehren/"
@@ -27938,6 +27950,10 @@
   "KarenDuffin": {
     "title": "Karen Duffin",
     "url": "/wiki/entities/karenduffin/"
+  },
+  "KarenNussbaum": {
+    "title": "Karen Nussbaum",
+    "url": "/wiki/entities/karennussbaum/"
   },
   "Karhide": {
     "title": "卡海德 / Karhide",
@@ -36187,6 +36203,14 @@
     "title": "Nina Miolane",
     "url": "/wiki/entities/ninamiolane/"
   },
+  "NineToFiveFilm": {
+    "title": "9 to 5 (1980 Film)",
+    "url": "/wiki/entities/ninetofivefilm/"
+  },
+  "NineToFiveOrganization": {
+    "title": "9to5",
+    "url": "/wiki/entities/ninetofiveorganization/"
+  },
   "Ninebot": {
     "title": "Ninebot / 九号",
     "url": "/wiki/entities/ninebot/"
@@ -36798,6 +36822,10 @@
   "OfficeSurveillancePrivacy": {
     "title": "Office Surveillance And Privacy",
     "url": "/wiki/concepts/officesurveillanceprivacy/"
+  },
+  "OfficeWorkerLaborOrganizing": {
+    "title": "Office Worker Labor Organizing",
+    "url": "/wiki/concepts/officeworkerlabororganizing/"
   },
   "OfficialDutyOverPatronCommand": {
     "title": "守职胜私命 / Official Duty Over Patron Command",
@@ -38302,6 +38330,10 @@
   "PatriciaCornwell": {
     "title": "Patricia Cornwell",
     "url": "/wiki/entities/patriciacornwell/"
+  },
+  "PatriciaResnick": {
+    "title": "Patricia Resnick",
+    "url": "/wiki/entities/patriciaresnick/"
   },
   "PatrickBurns": {
     "title": "Patrick Burns",
@@ -45202,6 +45234,10 @@
   "SexualAssaultEvidenceKit": {
     "title": "Sexual Assault Evidence Kit",
     "url": "/wiki/entities/sexualassaultevidencekit/"
+  },
+  "SexualHarassmentNamingLag": {
+    "title": "Sexual Harassment Naming Lag",
+    "url": "/wiki/concepts/sexualharassmentnaminglag/"
   },
   "ShaMoke": {
     "title": "沙摩柯 / Sha Moke",
@@ -59646,6 +59682,10 @@
   "data-risk-and-actuarial-science-in-insurance": {
     "title": "Data, Risk, and Actuarial Science in Insurance",
     "url": "/wiki/sources/data-risk-and-actuarial-science-in-insurance/"
+  },
+  "default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177": {
+    "title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177/"
   },
   "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d": {
     "title": "Dhaka matters: an election for Bangladesh",

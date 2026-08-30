@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 8455
+wiki_total_pages: 8460
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "PatriciaCornwell"
     title: "Patricia Cornwell"
     url: "/wiki/entities/patriciacornwell/"
+  - key: "PatriciaResnick"
+    title: "Patricia Resnick"
+    url: "/wiki/entities/patriciaresnick/"
   - key: "PatrickBurns"
     title: "Patrick Burns"
     url: "/wiki/entities/patrickburns/"

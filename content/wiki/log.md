@@ -13953,3 +13953,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
+
+Ingested the 2026-08-30 Planet Money bonus episode on the real clerical-worker labor movement behind Dolly Parton's "9 to 5." Created the source note plus `KarenNussbaum`, `JaneFonda`, `PatriciaResnick`, `NineToFiveOrganization`, `NineToFiveFilm`, `OfficeWorkerLaborOrganizing`, `GenderedOfficeHierarchy`, `CultureLedLaborOrganizing`, and `SexualHarassmentNamingLag`; updated `DollyParton`, `WomenWorkplaceProgressStall`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source extends Dolly Parton's cultural-memory page with a labor-history layer and qualifies the film's recognition effect by preserving its unfinished child care, harassment, leave, equal-pay, union-decline, and race-scope limits.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

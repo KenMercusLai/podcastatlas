@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b20ef8f0318c4adef23db057f30b80ec541bbaed2238a467d8f980a84fae77d6",
       "9cfbb5efa04faa7e8c7721250a49ecc26f9f65a22e6ab25130ec061dff5b53f9",
       "d2262369cd3bb76959f878595a106e7167b579216f8d7b14ad80484a85f194a1",
       "785bf7ff71754786438c2822b30df12bdae76d6fe5014fabbb32740ba7f9d6ff",
@@ -411,11 +412,45 @@
       "783b85daf8e28c79ebd7838b98cbae32cc3b283841103fa74a279782510e1ecf",
       "2f2ccba72e3ff27853c9c5e7edd9f718fa9dd0a3c9c92731bc7ee6f0b1047bd7"
     ],
-    "paragraph_count": 409
+    "paragraph_count": 410
   },
-  "overview_commit": "50c750f021cd1d05c3b6dda159a55dfd148b7b8b",
-  "overview_digest": "884f19db03e11799414626ec4a564cdbf8306285998cf3500c63c2bacd47306e",
+  "overview_commit": "75236db0cb74c142746646c5bcfb654f2a71bebd",
+  "overview_digest": "3bac91983ff049d70c4c973b01537de308bb69d9a35e999678437457d76148a3",
   "paragraphs": [
+    {
+      "id": "b20ef8f0318c4adef23db057f30b80ec541bbaed2238a467d8f980a84fae77d6",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177|Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)]], a [[PlanetMoney]] bonus episode on the clerical-worker labor movement behind [[DollyParton|Dolly Parton]]'s anthem and [[NineToFiveFilm|9 to 5]]. It adds [[KarenNussbaum]], [[JaneFonda]], [[PatriciaResnick]], [[NineToFiveOrganization|9to5]], [[NineToFiveFilm|9 to 5]], [[OfficeWorkerLaborOrganizing]], [[GenderedOfficeHierarchy]], [[CultureLedLaborOrganizing]], and [[SexualHarassmentNamingLag]], while extending [[DollyParton]], [[WomenWorkplaceProgressStall]], [[ChildcareInfrastructureConstraint]], [[PaidVacationAsLaborRight]], and [[LaborMarketCounterforces]]. Its core synthesis is that 9to5 made women clerical workers' office frustrations into collective labor politics, and the film/song transformed that organizing into mass recognition without resolving child care, harassment, leave, equal pay, or union-power problems. No settled contradiction is recorded; the source adds a labor-history layer to Parton's public memory and keeps the film's white-women representational scope and unfinished-progress claims source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "culture-and-media": 3,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "ChildcareInfrastructureConstraint",
+        "CultureLedLaborOrganizing",
+        "DollyParton",
+        "GenderedOfficeHierarchy",
+        "JaneFonda",
+        "KarenNussbaum",
+        "LaborMarketCounterforces",
+        "NineToFiveFilm",
+        "NineToFiveOrganization",
+        "OfficeWorkerLaborOrganizing",
+        "PaidVacationAsLaborRight",
+        "PatriciaResnick",
+        "PlanetMoney",
+        "SexualHarassmentNamingLag",
+        "WomenWorkplaceProgressStall",
+        "default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177"
+      ]
+    },
     {
       "id": "9cfbb5efa04faa7e8c7721250a49ecc26f9f65a22e6ab25130ec061dff5b53f9",
       "primary_topic": "psychology-and-personal-development",

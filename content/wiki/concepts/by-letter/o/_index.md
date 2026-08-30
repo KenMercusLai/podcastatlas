@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6013
+wiki_total_pages: 6017
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "OfficeSurveillancePrivacy"
     title: "Office Surveillance And Privacy"
     url: "/wiki/concepts/officesurveillanceprivacy/"
+  - key: "OfficeWorkerLaborOrganizing"
+    title: "Office Worker Labor Organizing"
+    url: "/wiki/concepts/officeworkerlabororganizing/"
   - key: "OfficeDutyMartyrdom"
     title: "Office-Duty Martyrdom / 守官赴死"
     url: "/wiki/concepts/officedutymartyrdom/"

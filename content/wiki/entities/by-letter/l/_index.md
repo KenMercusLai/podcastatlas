@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8455
+wiki_total_pages: 8460
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"

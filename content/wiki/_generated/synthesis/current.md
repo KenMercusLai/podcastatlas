@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-30
-as_of_overview_commit: 14bbb5a8dad95c5a308ac7edde34df8be823c58f
-summary: "Across domains, durable capacity comes from bounded translation: evidence, workflow, infrastructure, trust, clinical context, memory, and role power turn claims into practice."
-episode_count: 1739
-source_count: 1739
-paragraph_count: 409
+as_of_overview_commit: 75236db0cb74c142746646c5bcfb654f2a71bebd
+summary: "Across domains, capacity comes from translating evidence, workflow, culture, institutions, infrastructure, trust, clinical context, and role power into practice."
+episode_count: 1742
+source_count: 1742
+paragraph_count: 410
 topic_count: 8
 ---
 
@@ -43,13 +43,13 @@ Market value appears when demand, distribution, payment proof, operating fit, tr
 
 ### Culture and Media
 
-Culture sources use fiction, games, sports, media, devices, folklore, brands, therapeutic audio, and epic as evidence about agency, memory, identity, reception, political conditions, and human meaning.
+Culture sources use fiction, games, sports, media, devices, folklore, brands, therapeutic audio, epic, film, and song as evidence about agency, memory, identity, reception, labor recognition, political conditions, and human meaning.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]], [[AntiAuthoritarianEducation]], [[SafetyAsControl]], [[BuddhistLifeAffirmingLiterature]].
 
 ### Governance and Institutions
 
-Governance turns authority into appointment quality, feedback, legitimacy, compliance, frontier control, and bounded responsibility; role power becomes risky when titles, access, and accountability diverge.
+Governance turns authority into appointment quality, feedback, legitimacy, compliance, frontier control, labor leverage, and bounded responsibility; role power becomes risky when titles, access, and accountability diverge.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
@@ -77,7 +77,7 @@ Science, health, and climate sources favor measured mechanisms over headline lab
 
 ### Work, Education, and Society
 
-Work and education sources connect durable capability to active learning, feedback, role boundaries, social trust, pacing, family constraints, and institutions that let people act under real limits.
+Work and education sources connect durable capability to active learning, feedback, role boundaries, social trust, pacing, family constraints, collective organization, and institutions that let people act under real limits.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

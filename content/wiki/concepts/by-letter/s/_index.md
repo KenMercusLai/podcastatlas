@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6013
+wiki_total_pages: 6017
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "SettlerProvocationStrategy"
     title: "Settler Provocation Strategy"
     url: "/wiki/concepts/settlerprovocationstrategy/"
+  - key: "SexualHarassmentNamingLag"
+    title: "Sexual Harassment Naming Lag"
+    url: "/wiki/concepts/sexualharassmentnaminglag/"
   - key: "ShadowAI"
     title: "Shadow AI"
     url: "/wiki/concepts/shadowai/"

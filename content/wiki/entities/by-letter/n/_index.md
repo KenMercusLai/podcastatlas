@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 8455
+wiki_total_pages: 8460
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -14,6 +14,12 @@ wiki_pages:
   - key: "NineteenTwentyNineSorkin"
     title: "1929 / 《1929》 (Andrew Ross Sorkin)"
     url: "/wiki/entities/nineteentwentyninesorkin/"
+  - key: "NineToFiveFilm"
+    title: "9 to 5 (1980 Film)"
+    url: "/wiki/entities/ninetofivefilm/"
+  - key: "NineToFiveOrganization"
+    title: "9to5"
+    url: "/wiki/entities/ninetofiveorganization/"
   - key: "NStudent"
     title: "N 同学 / N Student"
     url: "/wiki/entities/nstudent/"

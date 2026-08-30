@@ -7313,6 +7313,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/cuiyuanlatehan/"
     },
+    "CultureLedLaborOrganizing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177 [default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177].md",
+          "key": "default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177",
+          "show": "Planet Money",
+          "title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/cultureledlabororganizing/"
+    },
     "DaQin": {
       "episode_count": 1,
       "show_count": 1,
@@ -8706,9 +8722,9 @@
       "url": "/wiki/concepts/doctorpatientcommunication/"
     },
     "DollyParton": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Big shot： does a cancer vaccine work？ [6a9001f40c15e359f9cb103c].md",
@@ -8716,9 +8732,16 @@
           "show": "Economist Podcasts",
           "title": "Big shot: does a cancer vaccine work?",
           "url": "/wiki/sources/big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177 [default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177].md",
+          "key": "default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177",
+          "show": "Planet Money",
+          "title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/dollyparton/"
     },
     "DomesticBagSupplyChainUpgrade": {
@@ -13521,6 +13544,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/genderedaimarketing/"
     },
+    "GenderedOfficeHierarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177 [default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177].md",
+          "key": "default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177",
+          "show": "Planet Money",
+          "title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/genderedofficehierarchy/"
+    },
     "GenesisMission": {
       "episode_count": 2,
       "show_count": 1,
@@ -17909,6 +17948,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/jamescallender/"
     },
+    "JaneFonda": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177 [default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177].md",
+          "key": "default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177",
+          "show": "Planet Money",
+          "title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/janefonda/"
+    },
     "JayBhattacharya": {
       "episode_count": 3,
       "show_count": 1,
@@ -18704,6 +18759,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/kaiserwilhelmii/"
+    },
+    "KarenNussbaum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177 [default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177].md",
+          "key": "default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177",
+          "show": "Planet Money",
+          "title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/karennussbaum/"
     },
     "KarlLudwigOfAustria": {
       "episode_count": 1,
@@ -24907,6 +24978,38 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/nieshanglatehan/"
     },
+    "NineToFiveFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177 [default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177].md",
+          "key": "default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177",
+          "show": "Planet Money",
+          "title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/ninetofivefilm/"
+    },
+    "NineToFiveOrganization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177 [default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177].md",
+          "key": "default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177",
+          "show": "Planet Money",
+          "title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/ninetofiveorganization/"
+    },
     "Ninebot": {
       "episode_count": 1,
       "show_count": 1,
@@ -25441,6 +25544,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/officeofscienceandtechnologypolicy/"
+    },
+    "OfficeWorkerLaborOrganizing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177 [default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177].md",
+          "key": "default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177",
+          "show": "Planet Money",
+          "title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/officeworkerlabororganizing/"
     },
     "OfficialDutyOverPatronCommand": {
       "episode_count": 1,
@@ -26589,6 +26708,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/patientsm/"
+    },
+    "PatriciaResnick": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177 [default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177].md",
+          "key": "default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177",
+          "show": "Planet Money",
+          "title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/patriciaresnick/"
     },
     "PaulEkman": {
       "episode_count": 1,
@@ -30423,6 +30558,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/seventymillimeterfilmprojection/"
+    },
+    "SexualHarassmentNamingLag": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177 [default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177].md",
+          "key": "default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177",
+          "show": "Planet Money",
+          "title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/sexualharassmentnaminglag/"
     },
     "ShakeShack": {
       "episode_count": 1,
@@ -36550,6 +36701,43 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/wishfulfrontierconciliation/"
+    },
+    "WomenWorkplaceProgressStall": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "EP274 如何找到适合自己的“更年期答案”？ [li2BP1rTITdNVc04rMIZyfg1tXfH].md",
+          "key": "ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh",
+          "show": "Talk三联",
+          "title": "EP274 如何找到适合自己的“更年期答案”？",
+          "url": "/wiki/sources/ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh/"
+        },
+        {
+          "episode_file": "Taking the shine off： albedo and global temperatures [6a730fdaca067b295bab9760].md",
+          "key": "taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760",
+          "show": "Economist Podcasts",
+          "title": "Taking the shine off: albedo and global temperatures",
+          "url": "/wiki/sources/taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760/"
+        },
+        {
+          "episode_file": "Burning questions： a more fire-prone world [6a687ea64207b2a60119df8b].md",
+          "key": "burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b",
+          "show": "Economist Podcasts",
+          "title": "Burning questions: a more fire-prone world",
+          "url": "/wiki/sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177 [default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177].md",
+          "key": "default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177",
+          "show": "Planet Money",
+          "title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/womenworkplaceprogressstall/"
     },
     "WomensFootballVisibility": {
       "episode_count": 1,
