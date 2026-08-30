@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "cf6d52565a33ab9176cf0591265a9d2b0e3e71d6c76e8a2a3a4ac598862d3286",
       "eda9c1a0bec23aeae0a55ed3bb0678f7efc917b8a67a33169610cbbbf3bd36a6",
       "516ae0589f002d0064fb3d7aa9a91354927c9e8ddad73db998f5711abec0562e",
       "a684563cb8c3558d9b15c89a025f0fab84522169f34a3e126efe21913840ec10",
@@ -430,11 +431,42 @@
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe"
     ],
-    "paragraph_count": 428
+    "paragraph_count": 429
   },
-  "overview_commit": "d929b6d4a383698b0779c68849cb803e890b0d56",
-  "overview_digest": "7bf005278ba47fb3edd38c64ea1627e000b8a9e5ccb5a3f6b23ea1a510703143",
+  "overview_commit": "5c17c51e81f3dd6b6e009ba797d6f33a6edd85bc",
+  "overview_digest": "581e2ae44aa853d3d98fdae0295897f4563dcf0bec2ca4e647f79cc17323c3b4",
   "paragraphs": [
+    {
+      "id": "cf6d52565a33ab9176cf0591265a9d2b0e3e71d6c76e8a2a3a4ac598862d3286",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling 68-71 CE / Yongping 11-14 before [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] and [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp|Hanji 741]]. It adds [[AilaoKingLiuMao|哀牢王柳貌]], [[WangJingBianquEasternHan|王景]], [[YuYanEasternHan|虞延]], and [[BianquHydraulicGovernance|汴渠水利治理]], while extending [[EmperorMingOfHan|汉明帝]], [[LiuCangDongpingKing|东平王刘苍]], [[LiuYingChuKingEasternHan|楚王刘英]], and [[CoerciveImplicationCascade|刑讯攀引扩大]]. Its core synthesis is that Mingdi's Yongping order combines private kinship feeling, frontier incorporation, and expensive water-control capacity with the early movement of Liu Ying's case from family-limited punishment into suicide, ministerial shame, and widening implication. No settled contradiction is recorded; 王景 is kept distinct from [[WangJingXiyuLateHan|王敬]], 柳貌 from [[LiuMaoLateHan|刘茂]], and this Liu Ying from [[LiuYing|刘盈]].",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AilaoKingLiuMao",
+        "BianquHydraulicGovernance",
+        "CoerciveImplicationCascade",
+        "EmperorMingOfHan",
+        "LiuCangDongpingKing",
+        "LiuMaoLateHan",
+        "LiuYing",
+        "LiuYingChuKingEasternHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangJingBianquEasternHan",
+        "WangJingXiyuLateHan",
+        "YuYanEasternHan",
+        "zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl",
+        "zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew",
+        "zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp"
+      ]
+    },
     {
       "id": "eda9c1a0bec23aeae0a55ed3bb0678f7efc917b8a67a33169610cbbbf3bd36a6",
       "primary_topic": "governance-and-institutions",

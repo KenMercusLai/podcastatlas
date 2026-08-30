@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8525
+wiki_total_pages: 8528
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1340,6 +1340,9 @@ wiki_pages:
   - key: "AntiDongZhuoCoalition"
     title: "反董卓联盟 / Anti-Dong Zhuo Coalition"
     url: "/wiki/entities/antidongzhuocoalition/"
+  - key: "AilaoKingLiuMao"
+    title: "哀牢王柳貌 / Ailao King Liu Mao"
+    url: "/wiki/entities/ailaokingliumao/"
   - key: "AilaoKingLeilao"
     title: "哀牢王类牢 / Ailao King Lei Lao"
     url: "/wiki/entities/ailaokingleilao/"

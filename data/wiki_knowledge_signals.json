@@ -1823,6 +1823,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/ailaokingleilao/"
     },
+    "AilaoKingLiuMao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独 [lsOoGpAWUme_FpmItBigKlHzDBjl].md",
+          "key": "zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/ailaokingliumao/"
+    },
     "AimaTechnology": {
       "episode_count": 1,
       "show_count": 1,
@@ -3946,6 +3962,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/betterbrain/"
+    },
+    "BianquHydraulicGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独 [lsOoGpAWUme_FpmItBigKlHzDBjl].md",
+          "key": "zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/bianquhydraulicgovernance/"
     },
     "BingZunLateHan": {
       "episode_count": 1,
@@ -6833,9 +6865,9 @@
       "url": "/wiki/concepts/coercivefrontierrelocationbackfire/"
     },
     "CoerciveImplicationCascade": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》740丨让你醍醐灌顶的职场智慧！(职场必备) [lih5b-IgHkyoyCAWm5c-dBrNUIEW].md",
@@ -6843,6 +6875,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》740丨让你醍醐灌顶的职场智慧！(职场必备)",
           "url": "/wiki/sources/zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独 [lsOoGpAWUme_FpmItBigKlHzDBjl].md",
+          "key": "zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl/"
         }
       ],
       "updated": "2026-08-31",
@@ -11357,9 +11396,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorMingOfHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -11395,6 +11434,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》740丨让你醍醐灌顶的职场智慧！(职场必备)",
           "url": "/wiki/sources/zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独 [lsOoGpAWUme_FpmItBigKlHzDBjl].md",
+          "key": "zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl/"
         }
       ],
       "updated": "2026-08-31",
@@ -22840,9 +22886,9 @@
       "url": "/wiki/entities/liubiao/"
     },
     "LiuCangDongpingKing": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！ [lj7bdkxKdTJHPO469yXHSkJyFdCo].md",
@@ -22864,6 +22910,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》747丨班超告诉你：真正的聪明人都有使命感！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独 [lsOoGpAWUme_FpmItBigKlHzDBjl].md",
+          "key": "zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl/"
         }
       ],
       "updated": "2026-08-31",
@@ -23604,9 +23657,9 @@
       "url": "/wiki/entities/liuyipingyuanwanglatehan/"
     },
     "LiuYingChuKingEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》740丨让你醍醐灌顶的职场智慧！(职场必备) [lih5b-IgHkyoyCAWm5c-dBrNUIEW].md",
@@ -23614,6 +23667,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》740丨让你醍醐灌顶的职场智慧！(职场必备)",
           "url": "/wiki/sources/zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独 [lsOoGpAWUme_FpmItBigKlHzDBjl].md",
+          "key": "zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl/"
         }
       ],
       "updated": "2026-08-31",
@@ -39640,6 +39700,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/wanghuanlatehan/"
     },
+    "WangJingBianquEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独 [lsOoGpAWUme_FpmItBigKlHzDBjl].md",
+          "key": "zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/wangjingbianqueasternhan/"
+    },
     "WangJingXiyuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -43436,6 +43512,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/yuxueasternhan/"
+    },
+    "YuYanEasternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独 [lsOoGpAWUme_FpmItBigKlHzDBjl].md",
+          "key": "zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》739丨坐拥天下美女的皇帝，其实也会孤独",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》740丨让你醍醐灌顶的职场智慧！(职场必备) [lih5b-IgHkyoyCAWm5c-dBrNUIEW].md",
+          "key": "zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》740丨让你醍醐灌顶的职场智慧！(职场必备)",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/yuyaneasternhan/"
     },
     "YuanAnEasternHan": {
       "episode_count": 7,

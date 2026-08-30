@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8525
+wiki_total_pages: 8528
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -971,6 +971,9 @@ wiki_pages:
   - key: "WangMingchen"
     title: "王明辰 / Wang Mingchen"
     url: "/wiki/entities/wangmingchen/"
+  - key: "WangJingBianquEasternHan"
+    title: "王景 / Wang Jing (Bianqu engineer, Eastern Han)"
+    url: "/wiki/entities/wangjingbianqueasternhan/"
   - key: "WangFuDongChengPlot"
     title: "王服 / Wang Fu (Dong Cheng plot)"
     url: "/wiki/entities/wangfudongchengplot/"

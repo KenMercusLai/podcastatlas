@@ -4,27 +4,39 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-31
-as_of_overview_commit: d929b6d4a383698b0779c68849cb803e890b0d56
-input_digest: 785c9879be8a3b7b76edad73dfedaeca82284202cd36484ce8667ac8689283d6
+as_of_overview_commit: 5c17c51e81f3dd6b6e009ba797d6f33a6edd85bc
+input_digest: 57e59e79423d4cede9856613b81c7b2ca98984cb2b6694bc5ac47191f476b28b
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 740 now pushes the Eastern Han historical branch back to 70-71 CE: Liu Ying's Chu-king case gives Mingdi a treason-panic and partial-correction prelude before Hanji 741's Xiongnu frontier return. Hanji 741, Hanji 744, and Hanji 748 then continue the early Eastern Han backfill through frontier credibility, Geng Gong survival, Mingdi burial restraint, Zhangdi accession, Liu Cang remonstrance, and Empress Ma preventive family restraint.
+Hanji 739 now moves the Eastern Han historical branch back to 68-71 CE: Mingdi's reign combines Liu Cang's royal kinship, Ailao submission, Bianqu/Yellow River repair, and the opening of Liu Ying's case. Hanji 740-741 then continue the sequence through Chu-prison expansion, partial correction, Xiongnu frontier return, and later Hanji 744/748 layers around Geng Gong, Mingdi burial restraint, Zhangdi accession, Liu Cang remonstrance, and Empress Ma family restraint.
 
 ## Cross-source Findings
 
-### Late Han 740 Mingdi Chu Prison Prelude
+### Late Han 739 Yongping Prelude Frontier Hydraulics And Chu Case
 
-[[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] moves the Eastern Han historical branch back to the 70-71 CE [[EmperorMingOfHan]] Chu-king crisis before [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp|Hanji 741]]: [[LiuYingChuKingEasternHan]]'s rebellion case and Buddhist-suspicion layer lead into a torture-driven [[CoerciveImplicationCascade]], while [[LuXuEasternHan]], [[JianLangEasternHan]], [[YuanAnEasternHan]], and [[EmpressMaMingdeEasternHan]] mark partial correction before later Mingdi frontier, filial, and burial-restraint layers. The same source also creates [[PrincipledWorkplaceNonalignment]] as a bounded modern reading of the ancient court case.
+[[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] backfills 68-71 CE before [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] and [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp|Hanji 741]]: [[EmperorMingOfHan]]'s reign is no longer only frontier return and Chu-prison aftermath, but also includes [[LiuCangDongpingKing]]'s moral royal kinship, [[AilaoKingLiuMao]]'s southwestern submission, [[WangJingBianquEasternHan]]'s Bianqu-Yellow River repair through [[BianquHydraulicGovernance]], and the opening of [[LiuYingChuKingEasternHan]]'s case through [[YuYanEasternHan]] and [[CoerciveImplicationCascade]].
 
-**Evidence:** [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew]], [[EmperorMingOfHan]], [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp]], [[LiuYingChuKingEasternHan]], [[CoerciveImplicationCascade]], [[LuXuEasternHan]], [[JianLangEasternHan]], [[YuanAnEasternHan]], [[EmpressMaMingdeEasternHan]], [[FrugalImperialBurialRestraint]], [[PrincipledWorkplaceNonalignment]]
+**Evidence:** [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl]], [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew]], [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp]], [[EmperorMingOfHan]], [[LiuCangDongpingKing]], [[AilaoKingLiuMao]], [[WangJingBianquEasternHan]], [[BianquHydraulicGovernance]], [[LiuYingChuKingEasternHan]], [[YuYanEasternHan]], [[CoerciveImplicationCascade]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 740 and uses the episode as a historical backfill before the already-ingested 72-73 CE frontier layer.
+- This claim is source-scoped to Hanji 739 and records a chronological backfill, not a full reassessment of all Mingdi or Eastern Han frontier history.
+- No settled contradiction is recorded; the ingest mainly changes sequence and identity coverage.
+- Wang Jing / 王景, Ailao king 柳貌, and Chu king Liu Ying are disambiguated from same-reading or same-name pages already in the wiki.
+
+### Late Han 740 Mingdi Chu Prison Prelude
+
+[[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] continues the Eastern Han historical branch after [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]]'s 68-71 CE Mingdi backfill and before [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp|Hanji 741]]: [[LiuYingChuKingEasternHan]]'s rebellion case and Buddhist-suspicion layer lead into a torture-driven [[CoerciveImplicationCascade]], while [[LuXuEasternHan]], [[JianLangEasternHan]], [[YuanAnEasternHan]], and [[EmpressMaMingdeEasternHan]] mark partial correction before later Mingdi frontier, filial, and burial-restraint layers. The same source also creates [[PrincipledWorkplaceNonalignment]] as a bounded modern reading of the ancient court case.
+
+**Evidence:** [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl]], [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew]], [[EmperorMingOfHan]], [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp]], [[LiuYingChuKingEasternHan]], [[CoerciveImplicationCascade]], [[LuXuEasternHan]], [[JianLangEasternHan]], [[YuanAnEasternHan]], [[EmpressMaMingdeEasternHan]], [[FrugalImperialBurialRestraint]], [[PrincipledWorkplaceNonalignment]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 740 and should now be read as the Chu-prison continuation after Hanji 739 rather than the earliest Mingdi layer.
 - Liu Ying is disambiguated from the Western Han emperor Liu Ying / Liu Ying, and the Buddhist interpretation remains a source-scoped reading of Mingdi-era suspicion.
 - The workplace lesson is part of the source synthesis but does not turn the historical case into a literal equivalence with ordinary office politics.
 

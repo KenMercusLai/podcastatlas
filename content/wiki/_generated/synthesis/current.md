@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-31
-as_of_overview_commit: d929b6d4a383698b0779c68849cb803e890b0d56
-summary: "Durable capacity depends on fitting AI, markets, institutions, health, culture, learning, and history to evidence, trust, workflows, infrastructure, and timing."
-episode_count: 1768
-source_count: 1768
-paragraph_count: 428
+as_of_overview_commit: 5c17c51e81f3dd6b6e009ba797d6f33a6edd85bc
+summary: "Durable capacity depends on fitting AI, markets, institutions, health, culture, learning, and history to evidence, trust, workflows, infrastructure, timing, and bounded power."
+episode_count: 1769
+source_count: 1769
+paragraph_count: 429
 topic_count: 8
 ---
 
@@ -29,7 +29,7 @@ topic_count: 8
 
 ### AI and Technology
 
-AI value depends on embedding models in workflows with owned data, permissions, verification, routing, memory bandwidth, power, cooling, and deployment economics.
+AI value depends on embedding models in workflows with owned data, permissions, verification, routing, memory bandwidth, power, cooling, deployment economics, and world feedback.
 
 - The GLM/Micron All-In source shows AI scale becoming a coupled capacity problem: [[GLM52]] and [[ChineseOpenWeightAIStrategy]] pressure closed frontier APIs, while [[HighBandwidthMemory]], [[MicronTechnology]], [[ModularAIDataCenters]], [[SpaceBasedAIInfrastructure]], and [[OrbitalDataCenterEconomics]] make memory bandwidth, power, cooling, site deployment, and workload latency part of model progress rather than background infrastructure. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335]], [[GLM52]], [[ChineseOpenWeightAIStrategy]], [[HighBandwidthMemory]], [[MicronTechnology]], [[ModularAIDataCenters]], [[SpaceBasedAIInfrastructure]], [[OrbitalDataCenterEconomics]], [[GavinBaker]], [[TravisKalanick]].
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[PersistentCloudAgents]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[AgenticDataEngineeringHarness]], [[PolicyBoundAgenticLendingSupport]], [[ExplainableAILending]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[AgentNativeSoftware]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]], [[AIOfficeAgent]], [[ClaudeCode]], [[DingTalk]], [[Feishu]], [[TencentWorkBuddy]], [[DoubaoWork]], [[tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460]], [[AgenticDataEngineeringHarness]], [[DeterministicDataAgentValidation]], [[DataAgentGovernance]], [[DataAgentContextCompaction]], [[SilentSQLFailure]], [[AIDataReadiness]], [[AltimateCode]], [[SnowflakeCortexAnalyst]], [[DataAgentBenchmarks]], [[ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack]], [[all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345]], [[AgenticSystemOfRecordMoat]], [[PersistentCloudAgents]], [[Salesforce]], [[Grokbot]], [[ep-44-human-centered-credit-building-explainable-ai-for-lending-in-an-agentic-world]], [[MPWRAI]], [[TamaraClay]], [[ExplainableAILending]], [[PolicyBoundAgenticLendingSupport]], [[HumanInTheLoopCreditDecisioning]], [[NontraditionalBorrowerCreditAccess]].
@@ -43,20 +43,20 @@ Market value becomes durable when demand is proven through distribution, payment
 
 ### Culture and Media
 
-Culture sources use fiction, games, folklore, sports, media, brands, therapy-adjacent audio, film, song, and epic to test agency, memory, identity, labor, and meaning.
+Culture sources use literature, games, folklore, sports, media, brands, therapy-adjacent audio, film, song, and epic to test agency, memory, identity, labor, and meaning.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]], [[AntiAuthoritarianEducation]], [[SafetyAsControl]], [[BuddhistLifeAffirmingLiterature]].
 
 ### Governance and Institutions
 
-Governance capacity depends on controls, legal restraint, feedback, accusation verification, burden relief, legitimacy, and implementation incentives; Hanji 740 adds overreach and delayed correction.
+Governance capacity depends on controls, legal restraint, feedback, burden relief, legitimacy, and implementation incentives; Hanji 739-740 add Mingdi-era kinship, frontier incorporation, hydraulics, accusation escalation, and delayed correction.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 
 ### History and Geopolitics
 
-History and geopolitics now connect Hanji 740-748 Eastern Han backfills, Xiongnu pressure, title legitimacy, infrastructure routes, founding memory, and AI sovereignty through capacity, legitimacy, and trust.
+History and geopolitics connect Hanji 739-748 Eastern Han backfills, Xiongnu pressure, frontier routes, title legitimacy, founding memory, digital infrastructure, and AI sovereignty through capacity, legitimacy, and trust.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
@@ -77,7 +77,7 @@ Science and health claims favor measured mechanisms, escalation thresholds, clin
 
 ### Work, Education, and Society
 
-Work and education sources make durable capability active: learning, role fit, feedback, pacing, social trust, family constraints, and institutions must survive real limits.
+Work and education sources make durable capability active: learning, role fit, feedback, pacing, social trust, family constraints, and institutions must survive real limits; Hanji 739 adds accusation-pressure and family-status exposure as a narrow historical analogy.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

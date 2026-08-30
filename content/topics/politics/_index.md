@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2093
+topic_total_pages: 2094
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3373,6 +3373,9 @@ topic_concepts:
   - key: "TalentSummonsRulerSelfExamination"
     title: "求贤中的君主自省 / Talent Summons Ruler Self-Examination"
     url: "/wiki/concepts/talentsummonsrulerselfexamination/"
+  - key: "BianquHydraulicGovernance"
+    title: "汴渠水利治理 / Bianqu Hydraulic Governance"
+    url: "/wiki/concepts/bianquhydraulicgovernance/"
   - key: "FactionalAlignmentExitCapital"
     title: "派系站队退出资本 / Factional Alignment Exit Capital"
     url: "/wiki/concepts/factionalalignmentexitcapital/"

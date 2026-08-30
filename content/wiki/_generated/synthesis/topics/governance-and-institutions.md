@@ -4,27 +4,39 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-31
-as_of_overview_commit: d929b6d4a383698b0779c68849cb803e890b0d56
-input_digest: 8756009f6da057c3287184735c0c99a3d9eddcfbfc208850550b9060abda0ce9
+as_of_overview_commit: 5c17c51e81f3dd6b6e009ba797d6f33a6edd85bc
+input_digest: 21da54ff4f7ffc3509f8edefa23b04a1576dcb94c3c564bd7af7f6e41c584ad5
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 740 pushes the governance branch back to Mingdi's Chu-prison case: ruler anger, torture, and loyalty signaling create a coercive implication cascade, while Lu Xu, Jian Lang, Empress Ma, and Yuan An show correction through character evidence, accusation testing, private counsel, and file review. The topic now treats accusation verification and receptive remonstrance as including late repair after overreach, while preserving the prior AI-legitimacy and Zhangdi/Empress Ma restraint claims as source-scoped.
+Hanji 739 now pushes the governance branch to Mingdi's 68-71 CE Yongping order, joining royal kinship management, Ailao frontier incorporation, Bianqu hydraulic capacity, and the opening of Liu Ying's case. Hanji 740 then continues the Chu-prison sequence through torture, loyalty signaling, and partial correction by Lu Xu, Jian Lang, Empress Ma, and Yuan An; the topic treats accusation verification and receptive remonstrance as late repair after overreach while preserving AI-legitimacy and Zhangdi/Empress Ma restraint claims as source-scoped.
 
 ## Cross-source Findings
 
-### Late Han 740 Chu Prison Overreach And Correction
+### Late Han 739 Mingdi Kinship Frontier Hydraulics And Chu Case
 
-[[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] pushes the [[EmperorMingOfHan]] governance branch back to the 70-71 CE [[LiuYingChuKingEasternHan]] Chu-prison case before [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp|Hanji 741]]: ruler anger, torture, and loyalty signaling create [[CoerciveImplicationCascade]], while [[LuXuEasternHan]], [[JianLangEasternHan]], [[EmpressMaMingdeEasternHan]], and [[YuanAnEasternHan]] show correction through character evidence, accusation testing, private counsel, and unsupported-case file review. [[PalaceAccusationVerification]] and [[ReceptiveRemonstranceGovernance]] therefore include late repair after overreach, and [[FrugalImperialBurialRestraint]] gains Mingdi's Shouling order as a predeath restraint layer.
+[[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] moves the [[EmperorMingOfHan]] governance branch one step earlier than [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] by tying Yongping 11-14 order to four simultaneous modes: personal kinship with [[LiuCangDongpingKing]], light-touch incorporation of [[AilaoKingLiuMao]], state-capacity investment through [[WangJingBianquEasternHan]] and [[BianquHydraulicGovernance]], and the opening [[LiuYingChuKingEasternHan]] investigation that already shows [[YuYanEasternHan]]'s shame and [[CoerciveImplicationCascade]] before the larger Chu-prison expansion.
 
-**Evidence:** [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew]], [[EmperorMingOfHan]], [[LiuYingChuKingEasternHan]], [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp]], [[CoerciveImplicationCascade]], [[LuXuEasternHan]], [[JianLangEasternHan]], [[EmpressMaMingdeEasternHan]], [[YuanAnEasternHan]], [[PalaceAccusationVerification]], [[ReceptiveRemonstranceGovernance]], [[FrugalImperialBurialRestraint]]
+**Evidence:** [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl]], [[EmperorMingOfHan]], [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew]], [[LiuCangDongpingKing]], [[AilaoKingLiuMao]], [[WangJingBianquEasternHan]], [[BianquHydraulicGovernance]], [[LiuYingChuKingEasternHan]], [[YuYanEasternHan]], [[CoerciveImplicationCascade]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 740 as a 70-71 CE backfill before Hanji 741; it adds an earlier Mingdi layer without replacing later Zhangdi, Dou, or Deng governance claims.
+- This claim is source-scoped to Hanji 739 as a 68-71 CE backfill before Hanji 740 and Hanji 741; it adds the opening Mingdi layer rather than replacing the later Chu-prison continuation.
+- Wang Jing / 王景 is kept distinct from Wang Jing / 王敬, and Ailao king 柳貌 is kept distinct from Liu Mao / 刘茂.
+- The Bianqu repair is treated as Yongping-era state capacity under favorable conditions, not as a general claim that expensive public works are always justified.
+
+### Late Han 740 Chu Prison Overreach And Correction
+
+[[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] continues the [[EmperorMingOfHan]] governance branch after [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]]'s opening Liu Ying layer: ruler anger, torture, and loyalty signaling create [[CoerciveImplicationCascade]], while [[LuXuEasternHan]], [[JianLangEasternHan]], [[EmpressMaMingdeEasternHan]], and [[YuanAnEasternHan]] show correction through character evidence, accusation testing, private counsel, and unsupported-case file review. [[PalaceAccusationVerification]] and [[ReceptiveRemonstranceGovernance]] therefore include late repair after overreach, and [[FrugalImperialBurialRestraint]] gains Mingdi's Shouling order as a predeath restraint layer.
+
+**Evidence:** [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl]], [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew]], [[EmperorMingOfHan]], [[LiuYingChuKingEasternHan]], [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp]], [[CoerciveImplicationCascade]], [[LuXuEasternHan]], [[JianLangEasternHan]], [[EmpressMaMingdeEasternHan]], [[YuanAnEasternHan]], [[PalaceAccusationVerification]], [[ReceptiveRemonstranceGovernance]], [[FrugalImperialBurialRestraint]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 740 as the continuation of the 70-71 CE Chu-prison case after Hanji 739; it adds a later Mingdi escalation and correction layer without replacing later Zhangdi, Dou, or Deng governance claims.
 - The Buddhist-secret-organization reading and transcript normalizations for Yu Yan and Jian Lang remain source-scoped.
 - The claim treats Mingdi correction as delayed and partial, not as full repair of the deaths, exile, imprisonment, and stigma already produced.
 
