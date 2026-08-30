@@ -2874,9 +2874,9 @@
       "url": "/wiki/concepts/assisteddrivingtrustformation/"
     },
     "Atang": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -2933,6 +2933,13 @@
           "show": "这病说来话长",
           "title": "VOL.211 越运动越“垮脸”？整形医生与心血管医生的「健身祛魅」指南",
           "url": "/wiki/sources/vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u/"
+        },
+        {
+          "episode_file": "lvUmxyEv-szqtSXxMqEPc6lcG2M0 [lvUmxyEv-szqtSXxMqEPc6lcG2M0].md",
+          "key": "vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0",
+          "show": "这病说来话长",
+          "title": "VOL.210 “我真不是敲颂钵的！”揭秘临床音乐治疗，撕下“玄学疗愈”标签",
+          "url": "/wiki/sources/vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0/"
         }
       ],
       "updated": "2026-08-30",
@@ -6166,6 +6173,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/clinicalbehaviorchangeredflags/"
+    },
+    "ClinicalMusicTherapy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvUmxyEv-szqtSXxMqEPc6lcG2M0 [lvUmxyEv-szqtSXxMqEPc6lcG2M0].md",
+          "key": "vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0",
+          "show": "这病说来话长",
+          "title": "VOL.210 “我真不是敲颂钵的！”揭秘临床音乐治疗，撕下“玄学疗愈”标签",
+          "url": "/wiki/sources/vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/clinicalmusictherapy/"
     },
     "CoalitionFractureExploitation": {
       "episode_count": 4,
@@ -14346,6 +14369,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/guoliangligustudent/"
+    },
+    "GuoMusicTherapyGuest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvUmxyEv-szqtSXxMqEPc6lcG2M0 [lvUmxyEv-szqtSXxMqEPc6lcG2M0].md",
+          "key": "vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0",
+          "show": "这病说来话长",
+          "title": "VOL.210 “我真不是敲颂钵的！”揭秘临床音乐治疗，撕下“玄学疗愈”标签",
+          "url": "/wiki/sources/vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/guomusictherapyguest/"
     },
     "GuoNing": {
       "episode_count": 1,
@@ -24362,6 +24401,38 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/multimodaladultneuroplasticity/"
     },
+    "MusicBasedEmotionRegulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvUmxyEv-szqtSXxMqEPc6lcG2M0 [lvUmxyEv-szqtSXxMqEPc6lcG2M0].md",
+          "key": "vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0",
+          "show": "这病说来话长",
+          "title": "VOL.210 “我真不是敲颂钵的！”揭秘临床音乐治疗，撕下“玄学疗愈”标签",
+          "url": "/wiki/sources/vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/musicbasedemotionregulation/"
+    },
+    "MusicMemoryCueing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvUmxyEv-szqtSXxMqEPc6lcG2M0 [lvUmxyEv-szqtSXxMqEPc6lcG2M0].md",
+          "key": "vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0",
+          "show": "这病说来话长",
+          "title": "VOL.210 “我真不是敲颂钵的！”揭秘临床音乐治疗，撕下“玄学疗愈”标签",
+          "url": "/wiki/sources/vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/musicmemorycueing/"
+    },
     "MutualExhaustionThirdPartyGain": {
       "episode_count": 2,
       "show_count": 1,
@@ -33615,6 +33686,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/thetroubles/"
     },
+    "TherapeuticMusicalSynchrony": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvUmxyEv-szqtSXxMqEPc6lcG2M0 [lvUmxyEv-szqtSXxMqEPc6lcG2M0].md",
+          "key": "vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0",
+          "show": "这病说来话长",
+          "title": "VOL.210 “我真不是敲颂钵的！”揭秘临床音乐治疗，撕下“玄学疗愈”标签",
+          "url": "/wiki/sources/vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/concepts/therapeuticmusicalsynchrony/"
+    },
     "ThomasHowardDukeOfNorfolk": {
       "episode_count": 1,
       "show_count": 1,
@@ -40528,9 +40615,9 @@
       "url": "/wiki/entities/zhaogecountylatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -40601,6 +40688,13 @@
           "show": "这病说来话长",
           "title": "VOL.211 越运动越“垮脸”？整形医生与心血管医生的「健身祛魅」指南",
           "url": "/wiki/sources/vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u/"
+        },
+        {
+          "episode_file": "lvUmxyEv-szqtSXxMqEPc6lcG2M0 [lvUmxyEv-szqtSXxMqEPc6lcG2M0].md",
+          "key": "vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0",
+          "show": "这病说来话长",
+          "title": "VOL.210 “我真不是敲颂钵的！”揭秘临床音乐治疗，撕下“玄学疗愈”标签",
+          "url": "/wiki/sources/vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0/"
         }
       ],
       "updated": "2026-08-30",

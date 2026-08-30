@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6007
+wiki_total_pages: 6011
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -272,6 +272,9 @@ wiki_pages:
   - key: "TheoreticalOperatingStandard"
     title: "Theoretical Operating Standard / 理论上该有的样子"
     url: "/wiki/concepts/theoreticaloperatingstandard/"
+  - key: "TherapeuticMusicalSynchrony"
+    title: "Therapeutic Musical Synchrony"
+    url: "/wiki/concepts/therapeuticmusicalsynchrony/"
   - key: "TherapyRelationshipAndBoundaries"
     title: "Therapy Relationship And Boundaries"
     url: "/wiki/concepts/therapyrelationshipandboundaries/"

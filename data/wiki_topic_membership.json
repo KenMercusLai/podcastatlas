@@ -40072,12 +40072,26 @@
       "url": "/topics/technology/"
     }
   ],
+  "MusicBasedEmotionRegulation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "MusicIndustryAIResponse": [
     {
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "MusicMemoryCueing": [
     {
       "key": "culture",
       "label": "Culture",

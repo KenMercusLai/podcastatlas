@@ -3,16 +3,16 @@
 generated: true
 topic_id: culture-and-media
 title: "Culture and Media"
-last_updated: 2026-08-29
-as_of_overview_commit: 27a8fecf4496900abee1ce1fb002b12489ece4cc
-input_digest: 23c9d3d4dda61bbed065eea9b404bf071fee7bd5f4f0d201c877223426e1c180
+last_updated: 2026-08-30
+as_of_overview_commit: 14bbb5a8dad95c5a308ac7edde34df8be823c58f
+input_digest: 87df80fb0aace57d73e8fd3b6dcfbe024f4fbec7a28c1d8fc8174f6adc97b7a0
 ---
 
 # Culture and Media
 
 ## Current State
 
-The cultural sources use literature, folklore, games, sports strategy, physical media, device histories, platform interfaces, podcasts, brands, creative practice, and classical epic to examine politics, identity, evidence, agency, reception, attention, and human meaning rather than treating culture only as plot or entertainment. The Odyssey branch now pairs first-half wandering with second-half homecoming: [[HomericNostos]] gives the voyage pressure, while [[HomericFantasyGeography]], [[HomericHospitalityTest]], [[OdysseanLeadershipTrustFailure]], and [[HomericHomecomingRecognition]] make return a sequence of tested appetite, xenia, warning, crew trust, recognition, domestic legitimacy, divine strategy, and morally disturbing revenge. Other branches keep source-bound attribution, rule-world folklore, weird fiction, AI interactive entertainment, platform-shaped reading and listening, mobile-device culture, translation interfaces, brand meaning, and practice philosophy distinct from nostalgia, marketing, or pure technical capability.
+The cultural sources use literature, folklore, games, sports strategy, physical media, device histories, platform interfaces, podcasts, brands, creative practice, clinical-audio boundary work, and classical epic to examine politics, identity, evidence, agency, reception, attention, embodied practice, and human meaning rather than treating culture only as plot or entertainment. The Odyssey branch pairs first-half wandering with second-half homecoming: [[HomericNostos]] gives the voyage pressure, while [[HomericFantasyGeography]], [[HomericHospitalityTest]], [[OdysseanLeadershipTrustFailure]], and [[HomericHomecomingRecognition]] make return a sequence of tested appetite, xenia, warning, crew trust, recognition, domestic legitimacy, divine strategy, and morally disturbing revenge. Other branches keep source-bound attribution, rule-world folklore, weird fiction, AI interactive entertainment, platform-shaped reading and listening, mobile-device culture, translation interfaces, brand meaning, music therapy as evidence-bounded practice, and practice philosophy distinct from nostalgia, marketing, mysticism, or pure technical capability.
 
 ## Cross-source Findings
 
@@ -113,6 +113,17 @@ The Rubin Huberman Lab source adds a culture-and-media creativity branch: [[Crea
 
 - The claim is grounded in one process-oriented Huberman Lab Essentials episode and should not be treated as a formal neuroscience model of creativity.
 - The source observations on subconscious processing, meditation, live performance, and surgery healing remain source-scoped.
+
+### Therapeutic Audio Needs Clinical Boundaries
+
+VOL.210 adds a culture-facing audio boundary: [[PodcastIntimacy]], [[ZheBingShuoLaiHuaChang]], [[Atang]], and [[GuoMusicTherapyGuest]] show that familiar listening experiences can introduce [[ClinicalMusicTherapy]], but the episode separates clinical practice from wellness audio by requiring assessment, goals, therapist relationship, and evidence-bounded uses such as [[TherapeuticMusicalSynchrony]], [[MusicMemoryCueing]], and [[MusicBasedEmotionRegulation]].
+
+**Evidence:** [[vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0]], [[PodcastIntimacy]], [[ZheBingShuoLaiHuaChang]], [[Atang]], [[GuoMusicTherapyGuest]], [[ClinicalMusicTherapy]], [[TherapeuticMusicalSynchrony]], [[MusicMemoryCueing]], [[MusicBasedEmotionRegulation]]
+
+**Qualifications:**
+
+- The claim is source-scoped to one medical-literacy podcast episode and should not turn casual playlists into treatment.
+- Autism, hearing-disability, elder-memory, hospital-anxiety, and AI-timbre examples remain public education rather than individualized clinical guidance.
 
 ### Podcast Conversation Can Carry Practice Philosophy
 

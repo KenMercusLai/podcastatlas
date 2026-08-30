@@ -13594,6 +13594,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | VOL.210 “我真不是敲颂钵的！”揭秘临床音乐治疗，撕下“玄学疗愈”标签
+
+Ingested the 2026-07-01 这病说来话长 episode with 阿汤 and 果同学 on clinical music therapy as distinct from music healing, white noise, spa music, and singing-bowl wellness. Created the source note plus `GuoMusicTherapyGuest`, `ClinicalMusicTherapy`, `TherapeuticMusicalSynchrony`, `MusicMemoryCueing`, and `MusicBasedEmotionRegulation`; updated `ZheBingShuoLaiHuaChang`, `Atang`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; autism, hearing-disability, elder-memory, hospital-anxiety, AI-timbre, and self-regulation examples remain source-scoped public education rather than individualized treatment advice.
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》764丨他为了活命，竟间接灭了罗马帝国？
 
 Ingested the 2026-07-01 芮淇讲透资治通鉴 episode on Dou Xian's Northern Xiongnu victory, the qualified Northern-Xiongnu-to-Huns-to-Rome migration association, Dou-family patronage and intimidation, Yuan An and Ren Kui's impeachment resistance, Le Hui's fatal remonstrance risk, Han Leng's ritual boundary against ministerial "wansui," and Ban Chao's early Western Regions protectorate consolidation through Qiuci. Created the source note plus `LeHuiEasternHan`, `HanLengEasternHan`, `AttilaTheHun`, and `TransEurasianMigrationCascade`; updated `DouXianEasternHan`, `NorthernXiongnuLateHan`, `YuanAnEasternHan`, `RenKuiEasternHan`, `BanChaoEasternHan`, `RomanEmpire`, `QiuciKingdom`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source's Rome chain is kept as a qualified association rather than direct proof, and Ba Ba, Youliduo, Xu Gan, Gumo, Wensu, Weixu, Weili, and "沃尔丁" remain source-scoped.
@@ -13921,6 +13925,10 @@ Ingested the 2026-07-01 芮淇讲透资治通鉴 episode on Dou Xian's punishmen
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？
 
 Ingested the 2026-07-01 芮淇讲透资治通鉴 episode on Dou Xian's restored rank, Dou Jing's household abuses and unauthorized frontier cavalry recall, Yuan An's impeachment and historical-allusive sealed memorial, Dou Gui's restrained family contrast, He Song's Jinan tutorship, Fuling King Liu Yan's death notice, floods, amnesty, and solar-eclipse setup. Created the source note plus `DouJingEasternHan`, `HeSongEasternHan`, and `LiuYanFulingKingEasternHan`; updated `DouXianEasternHan`, `YuanAnEasternHan`, `DouGuiEasternHan`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Fuling King Liu Yan is kept distinct from the existing Liu Yan pages, and disaster/omen notices remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] lint | Wiki health check
 

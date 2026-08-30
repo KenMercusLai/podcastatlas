@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6007
+wiki_total_pages: 6011
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -791,6 +791,9 @@ wiki_pages:
   - key: "ClinicalDevelopmentCapability"
     title: "Clinical Development Capability"
     url: "/wiki/concepts/clinicaldevelopmentcapability/"
+  - key: "ClinicalMusicTherapy"
+    title: "Clinical Music Therapy"
+    url: "/wiki/concepts/clinicalmusictherapy/"
   - key: "ClinicalTrialContinuity"
     title: "Clinical Trial Continuity"
     url: "/wiki/concepts/clinicaltrialcontinuity/"
