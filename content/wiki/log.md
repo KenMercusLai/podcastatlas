@@ -13784,3 +13784,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？
 
 Ingested the 2026-08-29 芮淇讲透资治通鉴 episode on Liu Biao's self-interested mediation between Yuan Tan and Yuan Shang, the Hanlu-Dongguo mutual-exhaustion parable, Xin Pi's request for Cao Cao's aid, and Xun You's argument to exploit the Yuan-family split before one side reconsolidates. Created the source note plus `MutualExhaustionThirdPartyGain`; updated `YuanTan`, `YuanShang`, `XinPiLateHan`, `LiuBiao`, `XunYou`, `PressureReleaseInfightingStrategy`, `PostVictoryThreatSequencing`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Liu Biao's character labels, the opening relationship reflection, Xiping location details, and the Hanlu-Dongguo application remain source-scoped.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？
+
+Ingested the 2026-08-29 芮淇讲透资治通鉴 episode on Yuan Shao's death, Yuan Tan and Yuan Shang's succession conflict, Shen Pei and Feng Ji's claimed-final-order installation of Yuan Shang, Yuan Tan's killing of Feng Ji and temporary Liyang cooperation under Cao Cao's attack, Guo Yuan's Hedong pressure line, Jia Kui's local defense and rescue story, and Fu Gan persuading Ma Teng toward Zhong Yao. Created the source note plus `JiaKuiLateHan` and `ZhuGongdaoLateHan`; updated `YuanTan`, `YuanShang`, `ShenPeiLateHan`, `FengJiLateHan`, `GuoYuanLateHan`, `MaTeng`, `FuGan`, `SuccessionNonDesignationRisk`, `PressureReleaseInfightingStrategy`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the 郭援/郭元 spelling, Liu's succession influence, Zhang Ji's envoy role, Ma Chao's troop command, and opening self-affirmation segment remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

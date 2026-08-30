@@ -21732,7 +21732,7 @@
     "url": "/wiki/entities/guoyoulin/"
   },
   "GuoYuanLateHan": {
-    "title": "郭元 / Guo Yuan (Late Han)",
+    "title": "郭援 / 郭元 / Guo Yuan (Late Han)",
     "url": "/wiki/entities/guoyuanlatehan/"
   },
   "GuoZhenLateHan": {
@@ -26406,6 +26406,10 @@
   "JiaFamilyHousehold": {
     "title": "贾府 / Jia Family Household",
     "url": "/wiki/entities/jiafamilyhousehold/"
+  },
+  "JiaKuiLateHan": {
+    "title": "贾逵 / Jia Kui (late Han)",
+    "url": "/wiki/entities/jiakuilatehan/"
   },
   "JiaLian": {
     "title": "贾琏 / Jia Lian",
@@ -58359,6 +58363,10 @@
     "title": "猪哥 / 猪场严选",
     "url": "/wiki/entities/zhuge/"
   },
+  "ZhuGongdaoLateHan": {
+    "title": "祝公道 / Zhu Gongdao (late Han)",
+    "url": "/wiki/entities/zhugongdaolatehan/"
+  },
   "ZhuHaiWeiRetainer": {
     "title": "朱亥 / Zhu Hai",
     "url": "/wiki/entities/zhuhaiweiretainer/"
@@ -62218,6 +62226,10 @@
   "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o": {
     "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+  },
+  "zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye": {
+    "title": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye/"
   },
   "zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg": {
     "title": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家",

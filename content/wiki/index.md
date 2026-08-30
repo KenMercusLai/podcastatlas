@@ -221,6 +221,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管](sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi.md) — 芮淇讲透资治通鉴 episode on Sun Quan's early succession consolidation through Lyu Meng, Luo Tong, Sun Fu, Li Shu, Liu Biao's southern expansion and ritual overreach, and Liu Zhang's Yizhou trust fracture.
 - [《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折](sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk.md) — 芮淇讲透资治通鉴 episode on Xun Yu steering Cao Cao toward continued pressure on Yuan Shao after Guandu, Cangting's post-Guandu victory, Liu Bei's Xinye dormancy under Liu Biao, and Zhang Liao's persuasion of Chang Xi.
 - [《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？](sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o.md) — 芮淇讲透资治通鉴 episode on Cheng Ji refusing Pang Xi's self-protective mobilization, Zhang Lu's Wudoumi Dao order in Hanzhong, Yan Pu's anti-kingship counsel, and Cao Cao's sacrifice to Qiao Xuan.
+- [《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？](sources/zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye.md) — 芮淇讲透资治通鉴 episode on Yuan Shao's death, his unsettled succession, Yuan Tan and Yuan Shang's first violent split, Guo Yuan's Hedong pressure line, Jia Kui's local defense, and Fu Gan persuading Ma Teng toward Zhong Yao.
 - [《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家](sources/zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg.md) — 芮淇讲透资治通鉴 episode on Zhong Yao's Pingyang defense against Guo Yuan, Pang De's beheading of Guo Yuan, Ma Teng and Southern Xiongnu northwestern stabilization, Liu Bei's Bowang ambush, and Sun Quan's hostage-demand setup.
 - [《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？](sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg.md) — 芮淇讲透资治通鉴 episode on Sun Quan and Zhou Yu refusing Cao Cao's hostage demand, Lady Wu's endorsement, Guo Jia's pressure-release reading of Yuan Tan and Yuan Shang, and Xin Pi's mission to Cao Cao.
 - [《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？](sources/zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos.md) — 芮淇讲透资治通鉴 episode on Liu Biao's self-interested mediation between Yuan Tan and Yuan Shang, the Hanlu-Dongguo mutual-exhaustion warning, Xin Pi's request for Cao Cao's aid, and Xun You's argument to exploit the Yuan-family split before one side reconsolidates.
@@ -2513,7 +2514,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宋典 / Song Dian (late Han)](entities/SongDianLateHan.md) — Court construction official ordered by Emperor Ling to build Yutang Hall amid late-Han crisis.
 - [毕岚 / Bi Lan (late Han)](entities/BiLanLateHan.md) — Palace official whose bronze and water devices become a Hanji 936 case of technical spectacle amid state crisis.
 - [傅燮 / Fu Xie](entities/FuXie.md) — Hanyang administrator who warns Geng Bi, refuses escape or surrender, entrusts Fu Gan to Yang Hui, and dies during the Liangzhou collapse.
-- [傅干 / Fu Gan](entities/FuGan.md) — Fu Xie's son, sent away under Yang Hui's protection after urging his father to survive the Hanyang siege.
+- [傅干 / Fu Gan](entities/FuGan.md) — Fu Xie's son who survives through Yang Hui's protection and later persuades Ma Teng to support Zhong Yao against Guo Yuan.
 - [程球 / Cheng Qiu](entities/ChengQiu.md) — Corrupt Geng Bi subordinate whose killing at Di Dao starts the Liangzhou expedition's internal collapse.
 - [杨晖 / Yang Hui (late Han)](entities/YangHuiLateHan.md) — Trusted protector to whom Fu Xie entrusts Fu Gan before dying at Hanyang.
 - [黄衍 / Huang Yan (late Han)](entities/HuangYanLateHan.md) — Former Jiuquan administrator sent by Wang Guo to persuade Fu Xie to surrender.
@@ -2610,8 +2611,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张温 / Zhang Wen (late Han)](entities/ZhangWenLateHan.md) — late-Han minister whom Dong Zhuo kills by wrapping accusation and private resentment in celestial-omen language.
 - [白绕 / Bai Rao (late Han)](entities/BaiRaoLateHan.md) — Black Mountain-linked commander defeated by Cao Cao at Puyang during the East Commandery opening.
 - [王肱 / Wang Gong (late Han)](entities/WangGongLateHan.md) — Dong Commandery administrator unable to resist Yu Du, Bai Rao, and Sui Gu before Cao Cao enters the field.
-- [审配 / Shen Pei (late Han)](entities/ShenPeiLateHan.md) — Yuan Shao adviser whose profile runs from Jizhou personnel absorption and pre-Guandu pro-war counsel to post-Guandu captured-sons suspicion and Feng Ji's defense.
-- [逢纪 / Feng Ji (late Han)](entities/FengJiLateHan.md) — Yuan Shao adviser whose bounded profile moves from Jizhou personnel-list presence to post-Guandu slander against Tian Feng and defense of Shen Pei.
+- [审配 / Shen Pei (late Han)](entities/ShenPeiLateHan.md) — Yuan Shao adviser whose profile runs from Jizhou personnel absorption and pre-Guandu pro-war counsel to Ye-based succession action for Yuan Shang.
+- [逢纪 / Feng Ji (late Han)](entities/FengJiLateHan.md) — Yuan Shao adviser who slanders Tian Feng, defends Shen Pei, helps install Yuan Shang, and is killed by Yuan Tan.
 - [荀谌 / Xun Chen (late Han)](entities/XunChenLateHan.md) — Xun-family figure and Yuan Shao-side adviser placed in the Jizhou talent field.
 - [反董卓联盟 / Anti-Dong Zhuo Coalition](entities/AntiDongZhuoCoalition.md) — late-Han common-enemy coalition whose active Sun Jian front is already constrained by Yuan Shu's suspicion before Hanji 958 shows open allied rupture.
 - [阳人之战 / Yangren Battle (late Han)](entities/YangrenBattleLateHan.md) — Sun Jian's recovery battle where Lü Bu's sabotage of Hu Zhen's force lets Sun Jian defeat Dong Zhuo's side and kill Hua Xiong.
@@ -3150,8 +3151,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [董承 / Dong Cheng (late Han)](entities/DongChengLateHan.md) — Court-side actor who remains with Han Xian in ruined Luoyang, later appeals against him, and gives Cao Cao an overt reason to enter.
 - [洛阳 / Luoyang (late Han)](entities/LuoyangLateHan.md) — Damaged imperial city whose burned palaces, starving officials, weak supplies, and unstable military surroundings make the Xu relocation plausible.
 - [孙静 / Sun Jing (late Han)](entities/SunJingLateHan.md) — Sun Ce's uncle and Kuaiji campaign adviser whose detour-and-rear-attack plan breaks Wang Lang's Guling defense.
-- [袁谭 / Yuan Tan](entities/YuanTan.md) — Yuan Shao son whose Qingzhou expansion and later rivalry with Yuan Shang turn into a post-Guandu succession fracture exploitable by Cao Cao.
-- [袁尚 / Yuan Shang](entities/YuanShang.md) — Yuan Shao son whose rivalry with Yuan Tan becomes strategically exploitable after Cao Cao eases pressure.
+- [袁谭 / Yuan Tan](entities/YuanTan.md) — Yuan Shao son whose adoption, Qingzhou base, self-styled command, and killing of Feng Ji turn succession grievance into open rivalry with Yuan Shang.
+- [袁尚 / Yuan Shang](entities/YuanShang.md) — Yuan Shao son privately favored and factionally installed, whose rivalry with Yuan Tan becomes strategically exploitable after Cao Cao eases pressure.
 - [王修 / Wang Xiu (late Han)](entities/WangXiuLateHan.md) — Yuan Tan-side adviser who urges reconciliation with Yuan Shang before the fraternal split hardens.
 - [管统 / Guan Tong (late Han)](entities/GuanTongLateHan.md) — Donglai official whose costly loyalty to Yuan Tan survives a Qingzhou defection wave.
 - [辛毗 / Xin Pi (late Han)](entities/XinPiLateHan.md) — Xin Ping's younger brother sent by Yuan Tan to request Cao Cao's aid against Yuan Shang.
@@ -3208,8 +3209,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘辟 / Liu Pi (Runan late Han)](entities/LiuPiRunanLateHan.md) — Runan Yellow Turban remnant whose Yuan Shao-aligned recruitment pressure tests Li Tong's Cao allegiance.
 - [曹洪 / Cao Hong](entities/CaoHong.md) — Cao-family kinsman whose lawbreaking clients create the Man Chong enforcement case and the law-over-kinship governance signal.
 - [钟繇 / Zhong Yao](entities/ZhongYao.md) — Cao-side official whose profile joins Chang'an appointment persuasion, Xun Yu's talent chain, Guanzhong stabilization, and the Pingyang defeat of Guo Yuan.
-- [马腾 / Ma Teng](entities/MaTeng.md) — Western military leader whose profile moves from Liangzhou rebel formation and Guanzhong conflict into interest-framed cooperation with Zhong Yao against Guo Yuan.
-- [郭元 / Guo Yuan (Late Han)](entities/GuoYuanLateHan.md) — Yuan-family western commander and Zhong Yao's nephew, defeated at Pingyang when his force is attacked before completing the Fen River crossing.
+- [马腾 / Ma Teng](entities/MaTeng.md) — Western military leader whose profile moves from Liangzhou rebel formation and Guanzhong conflict into Fu Gan-framed cooperation with Zhong Yao against Guo Yuan.
+- [郭援 / 郭元 / Guo Yuan (Late Han)](entities/GuoYuanLateHan.md) — Yuan-family western commander whose Hedong occupation exposes Jia Kui's local protection before Guo Yuan is defeated at Pingyang.
+- [贾逵 / Jia Kui (late Han)](entities/JiaKuiLateHan.md) — Hedong official whose defense of Jiang County and refusal to serve Guo Yuan draw local protection before Zhu Gongdao rescues him.
+- [祝公道 / Zhu Gongdao (late Han)](entities/ZhuGongdaoLateHan.md) — Figure who secretly rescues Jia Kui from Guo Yuan's confinement in the Hanji 1056 Hedong branch.
 - [庞德 / Pang De](entities/PangDe.md) — Ma Teng-side officer who kills Guo Yuan in the Pingyang campaign and triggers Zhong Yao's kinship-versus-public-duty response.
 - [平阳守战 / Pingyang Defense (Late Han)](entities/PingyangDefenseLateHan.md) — Zhong Yao's Hedong defense where prior reassurance of Ma Teng and a half-crossing strike defeat Guo Yuan and the Southern Xiongnu pressure line.
 - [韩遂 / Han Sui](entities/HanSui.md) — Western military leader whose friendly field conversation with Fan Chou becomes purge evidence in Hanji 984 before the later Zhong Yao stabilization branch.
@@ -11360,8 +11363,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Partition of Jin / 三家分晋](concepts/PartitionOfJin.md) — Staggered Jin-to-Three-Jin transition with 453 BCE, 403 BCE, and 376 BCE treated as distinct thresholds.
 - [Three Jin Vassal Recognition / 三晋受封](concepts/ThreeJinVassalRecognition.md) — Zhou Weilie Wang's formal recognition of Wei, Zhao, and Han as vassal rulers.
 - [Tian Family Replacement of Qi / 田氏代齐](concepts/TianFamilyReplacementOfQi.md) — Tian He's displacement of Qi Kang Gong and pursuit of Zhou recognition after Three Jin precedent has lowered the cost of formalizing power shifts.
-- [Succession Non-Designation Risk / 未定继承人风险](concepts/SuccessionNonDesignationRisk.md) — Frame for disorder when a ruler-centered polity or family bloc lacks a legible, enforceable succession path before death creates a scramble.
-- [撤压诱发内斗 / Pressure-Release Infighting Strategy](concepts/PressureReleaseInfightingStrategy.md) — Strategy of easing external pressure so unresolved rivalries inside an opponent's bloc reappear and weaken it from within.
+- [Succession Non-Designation Risk / 未定继承人风险](concepts/SuccessionNonDesignationRisk.md) — Frame for disorder when a ruler-centered polity or family bloc lacks a legible, enforceable succession path and leaves factions with armed or narrative leverage.
+- [撤压诱发内斗 / Pressure-Release Infighting Strategy](concepts/PressureReleaseInfightingStrategy.md) — Strategy of easing external pressure so unresolved rivalries inside an opponent's bloc reappear after direct pressure had temporarily suppressed them.
 - [Patron Succession Exposure / 靠山更替暴露风险](concepts/PatronSuccessionExposure.md) — Risk that a minister protected by one ruler or court balance becomes exposed when succession lets a new regime revalue prior service.
 - [Local Official Tenure Stability / 地方官任期稳定](concepts/LocalOfficialTenureStability.md) — Zuo Xiong and Lu Zhi tenure-stability concept tying local-official continuity, truthful inspection, multi-year observation, and appointment-pipeline constraints to state capacity.
 - [Independent Official Audit / 独立考核地方官](concepts/IndependentOfficialAudit.md) — Qi Wei Wang's method of testing local official performance against independent evidence rather than court reputation.

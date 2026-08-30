@@ -382,6 +382,7 @@
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
       "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401",
       "aecaaa49da936c98684cec9f1063846b0672b74bc20fcbd62311f6a489f3c810",
+      "c6accb9f4bf429fa6aaab01131e5046f1f469c0e9e5d3206da2367ea70dd20c7",
       "af15d280e7c015e96cf4ef5ac50dcdd94bc96d4bbdf0ab557078605604e41512",
       "c6c6df1754e9d754248222dcf13f82295a54a848651f4fcbadd3aa7ff62601b0",
       "0b9a6088836697345dfb5f2798ef943ff4ff564bee061dc51b566adb0d3969f1",
@@ -396,10 +397,10 @@
       "4aec524162783153bd9de6fc8aaf28b4b45a60c3433caa62e6442f020af99d44",
       "5463cac3a05898616fdcdbe4bbf0fffe113a112bf4093056579dfb7f48e3eca2"
     ],
-    "paragraph_count": 394
+    "paragraph_count": 395
   },
-  "overview_commit": "a7003fbde31f2ad488c6fb841865a2a34e6b6a3a",
-  "overview_digest": "80486124051538e9040a8e44a0f17693ab9e17eff12263bd969055d26dde219c",
+  "overview_commit": "792e4426905abafa96a49a07a18b671ac4196af9",
+  "overview_digest": "bae2b26c667928e4acb7ee38d122336ff04ddfd719544ed2d238ece6138ed176",
   "paragraphs": [
     {
       "id": "76439d5a84c3e146cc75ca3dd110deeb51c4dcd3e2e69896481f9ba03f15b1a2",
@@ -11801,6 +11802,33 @@
         "YanPuLateHan",
         "ZhangLuFivePecks",
         "zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o"
+      ]
+    },
+    {
+      "id": "c6accb9f4bf429fa6aaab01131e5046f1f469c0e9e5d3206da2367ea70dd20c7",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye|《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode filling the Jian'an 7 bridge between [[YuanShao|袁绍]]'s death and the later Yuan-family civil split. It adds [[JiaKuiLateHan|贾逵]] and [[ZhuGongdaoLateHan|祝公道]], while extending [[YuanTan|袁谭]], [[YuanShang|袁尚]], [[ShenPeiLateHan|审配]], [[FengJiLateHan|逢纪]], [[GuoYuanLateHan|郭援 / 郭元]], [[MaTeng|马腾]], [[FuGan|傅干]], [[SuccessionNonDesignationRisk|未定继承人风险]], and [[PressureReleaseInfightingStrategy|撤压诱发内斗]]. Its core synthesis is that Yuan Shao's private preference for Yuan Shang never becomes an enforceable succession settlement: factional fear turns a claimed final order into Yuan Shang's fast installation, Yuan Tan answers through self-styled command and the killing of Feng Ji, and direct Cao pressure can still force temporary cooperation before later rivalry reopens. The western branch adds that Yuan Shang's Guo Yuan-Gao Gan-Southern Xiongnu pressure line depends on brittle alliance work; Jia Kui's local protection and Fu Gan's persuasion of Ma Teng show how popular support, court legitimacy, and interest framing can disrupt that pressure before Hanji 1057's Pingyang result. No settled contradiction is recorded; the 郭援/郭元 spelling, Liu's succession influence, Zhang Ji's envoy role, Ma Chao's troop command, and the opening self-affirmation segment remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "FengJiLateHan",
+        "FuGan",
+        "GuoYuanLateHan",
+        "JiaKuiLateHan",
+        "MaTeng",
+        "PressureReleaseInfightingStrategy",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShenPeiLateHan",
+        "SuccessionNonDesignationRisk",
+        "YuanShang",
+        "YuanShao",
+        "YuanTan",
+        "ZhuGongdaoLateHan",
+        "zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye"
       ]
     },
     {

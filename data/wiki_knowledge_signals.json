@@ -11473,9 +11473,9 @@
       "url": "/wiki/entities/fenghuanlatehan/"
     },
     "FengJiLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？ [lnKHah144822mC4AA9bNeZKLGvOO].md",
@@ -11490,9 +11490,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？ [lqxhHAYAl-srQ4Fm4yy_HNfU15YE].md",
+          "key": "zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/fengjilatehan/"
     },
     "FengLiangLateHan": {
@@ -12286,6 +12293,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/frontierproxycommitmentbinding/"
+    },
+    "FuGan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》937丨战神之死，好人总是多灾多难？ [lp7PRzsMAg9oOKq7eOiSvSmnm5Aw].md",
+          "key": "zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》937丨战神之死，好人总是多灾多难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？ [lqxhHAYAl-srQ4Fm4yy_HNfU15YE].md",
+          "key": "zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/fugan/"
     },
     "FuRongLateHan": {
       "episode_count": 2,
@@ -13621,9 +13651,9 @@
       "url": "/wiki/entities/guoyilatehan/"
     },
     "GuoYuanLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家 [ljHY16LEevJD8I-7VmuXtqm96YtG].md",
@@ -13631,6 +13661,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？ [lqxhHAYAl-srQ4Fm4yy_HNfU15YE].md",
+          "key": "zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye/"
         }
       ],
       "updated": "2026-08-30",
@@ -16828,6 +16865,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/jiabiaolatehan/"
+    },
+    "JiaKuiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？ [lqxhHAYAl-srQ4Fm4yy_HNfU15YE].md",
+          "key": "zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/jiakuilatehan/"
     },
     "JiaXu": {
       "episode_count": 13,
@@ -21249,9 +21302,9 @@
       "url": "/wiki/entities/maronglatehan/"
     },
     "MaTeng": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱 [lnlNrkETgFbADHFJbZDJjtrMQFsH].md",
@@ -21294,6 +21347,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1057丨打不了仗的将军，不是优秀的书法家",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？ [lqxhHAYAl-srQ4Fm4yy_HNfU15YE].md",
+          "key": "zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye/"
         }
       ],
       "updated": "2026-08-30",
@@ -25624,9 +25684,9 @@
       "url": "/wiki/concepts/prefrontalcortexoverattribution/"
     },
     "PressureReleaseInfightingStrategy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
@@ -25641,6 +25701,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？ [lqxhHAYAl-srQ4Fm4yy_HNfU15YE].md",
+          "key": "zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye/"
         }
       ],
       "updated": "2026-08-30",
@@ -28673,9 +28740,9 @@
       "url": "/wiki/entities/shenjinglatehan/"
     },
     "ShenPeiLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？ [lnKHah144822mC4AA9bNeZKLGvOO].md",
@@ -28711,9 +28778,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？ [lqxhHAYAl-srQ4Fm4yy_HNfU15YE].md",
+          "key": "zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-30",
       "url": "/wiki/entities/shenpeilatehan/"
     },
     "ShenYueFDE": {
@@ -30155,9 +30229,9 @@
       "url": "/wiki/concepts/successionlegitimacypurge/"
     },
     "SuccessionNonDesignationRisk": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险 [lg7ia5XOK-swdMHml35YV9qQQkvt].md",
@@ -30221,6 +30295,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？ [lqxhHAYAl-srQ4Fm4yy_HNfU15YE].md",
+          "key": "zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye/"
         }
       ],
       "updated": "2026-08-30",
@@ -36936,9 +37017,9 @@
       "url": "/wiki/entities/yuanlanglatehan/"
     },
     "YuanShang": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
@@ -36953,15 +37034,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？ [lqxhHAYAl-srQ4Fm4yy_HNfU15YE].md",
+          "key": "zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye/"
         }
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/yuanshang/"
     },
     "YuanTan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
@@ -36997,6 +37085,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1059丨袁家兄弟内斗，刘表为何主动当和事佬？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？ [lqxhHAYAl-srQ4Fm4yy_HNfU15YE].md",
+          "key": "zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye/"
         }
       ],
       "updated": "2026-08-30",
@@ -38760,6 +38855,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhugailatehan/"
+    },
+    "ZhuGongdaoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？ [lqxhHAYAl-srQ4Fm4yy_HNfU15YE].md",
+          "key": "zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye/"
+        }
+      ],
+      "updated": "2026-08-30",
+      "url": "/wiki/entities/zhugongdaolatehan/"
     },
     "ZhuLiangLateHan": {
       "episode_count": 1,

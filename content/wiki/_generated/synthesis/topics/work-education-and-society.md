@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-30
-as_of_overview_commit: a7003fbde31f2ad488c6fb841865a2a34e6b6a3a
-input_digest: cdf7533238a491e3dff84d6b96fbd5e86def5b70dcb10e04091c32e6c59982c6
+as_of_overview_commit: 792e4426905abafa96a49a07a18b671ac4196af9
+input_digest: 58ba6cb841714c5f8efaa5521cc69d68f61ae996e73e877af6327e2067d55387
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Hanji 785 adds a source-scoped work-and-society bridge: Deng-family mourning withdrawal shows how kinship duty, public reputation, and retained access can turn office exit into status management rather than simple retirement. Hanji 787 adds a source-scoped family-mobility and selection-channel case: Yan Chang's preparation of Yan Ji for palace entry shows private household investment trying to pass through gendered court selection, imperial favor, and regency approval before becoming public status. Hanji 792 adds a source-scoped family and career risk lesson: concentrating every path in one power channel can increase exposure, while separation may look punitive before later conditions make it protective. The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. VOL.211 and the OCD episode add source-scoped public-health education cases: mechanism and assessment language can orient action, but training, emergency response, exposure practice, and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints. Hanji 1058 adds a historical work-and-society analogy: new authority needs trusted adviser channels and boundaries around status offers, while ignored corrective counsel in Yuan Tan's camp shows how feedback can fail under succession grievance. Hanji 1059 adds a secondary organizational analogy: mediation language, outside-aid requests, and adviser sequencing matter because Liu Biao, Xin Pi, and Xun You are managing coalition timing rather than simply stating moral preferences.
+Hanji 785 adds a source-scoped work-and-society bridge: Deng-family mourning withdrawal shows how kinship duty, public reputation, and retained access can turn office exit into status management rather than simple retirement. Hanji 787 adds a source-scoped family-mobility and selection-channel case: Yan Chang's preparation of Yan Ji for palace entry shows private household investment trying to pass through gendered court selection, imperial favor, and regency approval before becoming public status. Hanji 792 adds a source-scoped family and career risk lesson: concentrating every path in one power channel can increase exposure, while separation may look punitive before later conditions make it protective. The Guangzhou Academy of Fine Arts fieldwork episode adds that undergraduate learning can become formative when students observe, interview, and build experience before polished expression, while still facing grades, specialization, technique, employment pressure, and uncertain long-term outcomes. The Jefferson-Hemings material adds a secondary society case: family, labor, and relationship claims need explicit attention to legal power and coercive status. Hanji access, office-boundary, succession, and reputation cases show that education, merit, dignity, and correct claims need usable channels, public witnesses, role boundaries, and hierarchy-aware handling before they become institutional action. VOL.211 and the OCD episode add source-scoped public-health education cases: mechanism and assessment language can orient action, but training, emergency response, exposure practice, and treatment planning stay clinically bounded. Work, education, and society sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints. Hanji 1056 adds a source-scoped role-and-channel case: Yuan-family succession ambiguity lets advisers convert self-protection into claimant installation, while Jia Kui and Fu Gan show that local trust and legitimacy framing can still redirect action under military pressure. Hanji 1058 adds a historical work-and-society analogy: new authority needs trusted adviser channels and boundaries around status offers, while ignored corrective counsel in Yuan Tan's camp shows how feedback can fail under succession grievance. Hanji 1059 adds a secondary organizational analogy: mediation language, outside-aid requests, and adviser sequencing matter because Liu Biao, Xin Pi, and Xun You are managing coalition timing rather than simply stating moral preferences.
 
 ## Cross-source Findings
 
@@ -148,6 +148,18 @@ Historical and modern institution sources show education, reputation, and office
 **Qualifications:**
 
 - The late-Han cases are historical analogies, not direct prescriptions for modern education or workplace institutions.
+
+### Hanji 1056 Succession Ambiguity Turns Roles Into Factional Action
+
+[[zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye|Hanji 1056]] adds a historical work-and-society analogy: [[YuanShao]]'s unclear succession lets [[ShenPeiLateHan]] and [[FengJiLateHan]] turn adviser self-protection into [[YuanShang]]'s installation, while [[YuanTan]]'s self-styled command and killing of Feng Ji show role ambiguity becoming violent action; the same source contrasts coercive command with usable trust through [[JiaKuiLateHan]], [[ZhuGongdaoLateHan]], [[FuGan]], and [[MaTeng]].
+
+**Evidence:** [[zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye]], [[YuanShao]], [[ShenPeiLateHan]], [[FengJiLateHan]], [[YuanShang]], [[YuanTan]], [[JiaKuiLateHan]], [[ZhuGongdaoLateHan]], [[FuGan]], [[MaTeng]], [[SuccessionNonDesignationRisk]], [[PressureReleaseInfightingStrategy]]
+
+**Qualifications:**
+
+- This is a historical analogy and not modern workplace, succession, legal, or organizational advice.
+- The authenticity of Yuan Shao's claimed final order, the Guo Yuan name variant, Liu's succession influence, Zhang Ji's envoy role, and Ma Chao's troop command remain source-scoped.
+- The paragraph belongs primarily to late-Han history and governance; it appears here because role channels, adviser incentives, and local trust create a work-and-society pattern.
 
 ### Work And Life Pacing Protects Agency Under Pressure
 
