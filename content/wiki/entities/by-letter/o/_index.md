@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 8675
+wiki_total_pages: 8679
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "OuyangBin"
     title: "欧阳斌 / Ouyang Bin"
     url: "/wiki/entities/ouyangbin/"
+  - key: "OuyangXiEasternHan"
+    title: "欧阳歙 / Ouyang Xi (Eastern Han)"
+    url: "/wiki/entities/ouyangxieasternhan/"
   - key: "OverseasChinaStudiesSeries"
     title: "海外中国研究丛书"
     url: "/wiki/entities/overseaschinastudiesseries/"

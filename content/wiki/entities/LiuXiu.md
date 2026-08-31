@@ -21,18 +21,21 @@ sources:
   - zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli
   - zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix
   - zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r
+  - zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v
 last_updated: 2026-09-01
 ---
 
 ## Overview
 
-Liu Xiu / 刘秀 is synthesized as the Eastern Han founder whose profile spans restoration warfare, founding coalition formation, domestic pacification, palace-succession management, omen politics, legal discipline, frontier settlement, ritual legitimacy, health vulnerability, and later Guangwu memory. [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] now adds the 40 CE order-making layer: land-and-grain fraud punishment, anti-bandit incentive redesign, [[LuFangEasternHan|卢芳]]'s fragile surrender settlement, [[WuzhuCoinRestoration|五铢钱恢复]], and the opening of [[ZhengCeJiaozhi|征侧]]'s Jiaozhi revolt before the 41 CE palace-and-frontier prelude in [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]].
+Liu Xiu / 刘秀 is synthesized as the Eastern Han founder whose profile spans restoration warfare, founding coalition formation, domestic pacification, palace-succession management, omen politics, legal discipline, frontier settlement, ritual legitimacy, health vulnerability, and later Guangwu memory. [[zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v|Hanji 717]] now adds the 39 CE degree-field diagnostic layer: Chenliu's comparison note, [[EmperorMingOfHan|刘阳]]'s reading of Henan/Nanyang privilege, [[OuyangXiEasternHan|欧阳歙]]'s punishment, and a Gaoliu/Yuyang frontier branch before [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]]'s 40 CE order-making layer.
 
 ## Current Profile
 
 Earlier Wang Mang-focused sources place Liu Xiu as the Liu-house restoration figure whose victory at the [[KunyangBattle|Kunyang Battle]] exposes the fragility of [[WangMang|Wang Mang]]'s [[XinDynasty|Xin dynasty]]. Those sources also show continuity between rebellion-era prophecy and imperial control: Liu Xiu benefits from mandate and chenwei language but later makes [[ChenweiPolitics|chenwei politics]] less freely available to private actors.
 
 Hanji 733-2 supplies the founding coalition layer. Liu Xiu needs northern cavalry and capable commanders, and [[GengYanEasternHan|Geng Yan]] becomes valuable because he can connect family resources from [[GengKuangEasternHan|Geng Kuang]]'s Shanggu/Youzhou environment to Liu Xiu's campaign. Liu Xiu's trust is not automatic: [[PengChongEasternHan|Peng Chong]]'s rebellion forces the Geng family to make loyalty visible through return-to-court and [[GengGuoEasternHan|Geng Guo]]'s service in Luoyang.
+
+Hanji 717 supplies the current 39 CE stabilization prelude. Liu Xiu sees a tiny Chenliu note saying Yingchuan and Hongnong can be consulted while Henan and Nanyang cannot, hears twelve-year-old Liu Yang explain that imperial-city ministers and imperial-hometown kin make those two commanderies unreliable benchmarks, and then has Chenliu officials questioned until their confession matches the explanation. The same source says Liu Xiu sends inspectors to examine high-ranking local officials for favoritism in degree-field reporting, jails Ouyang Xi for inaccurate Runan land measurement and embezzlement, lets Ouyang Xi die in prison despite petitions, and handles a parallel frontier branch through Lu Fang's Gaoliu return, Du Mao's removal, Ma Cheng's beacon defense, and Zhang Kan's Gaoliu/Yuyang service.
 
 Hanji 718 supplies the earliest current stabilization layer after founding warfare. Liu Xiu punishes Henan Yin Zhang Ji and more than ten commandery administrators for cheating in land measurement and grain affairs, then accepts Ma Yuan's view that officials who damage the people through fiscal fraud deserved death. The same source gives Liu Xiu's anti-bandit policy: bandits can inform on one another, groups that kill bandits can be pardoned, local officials are judged by captured numbers rather than punished for every delay or fear, sheltering bandits is punished, and leaders are resettled with land and grain. It also adds Lu Fang's rewarded but brittle surrender settlement, Ma Yuan's five-zhu coin recommendation, and the Jiaozhi revolt led by Zheng Ce and [[ZhengErJiaozhi|征贰]].
 
@@ -54,7 +57,7 @@ Hanji 729 through Hanji 732 supply the personnel, ritual, illness, death, and su
 
 - Restoration founder whose military-political effectiveness defeats Wang Mang's ritualized regime.
 - Coalition builder who recognizes commanders, uses marriage alliance when weak, and later manages suspicion around powerful founding families.
-- Domestic-order ruler who combines harsh fiscal accountability, anti-bandit incentive redesign, surrender incorporation, and currency restoration.
+- Domestic-order ruler who combines degree-field diagnostics, harsh fiscal accountability, anti-bandit incentive redesign, surrender incorporation, and currency restoration.
 - Palace-succession ruler who can convert a depreciated founding marriage into deposition, compensation, and heir-field instability.
 - Personnel judge who can use maternal kin, scholars, blunt law-enforcement officials, and frontier specialists while limiting kinship convenience.
 - Ruler vulnerable to severe illness, succession anxiety, and accusation in Ma Yuan's case, but still reachable through evidence-based corrective memorials.
@@ -64,6 +67,8 @@ Hanji 729 through Hanji 732 supply the personnel, ritual, illness, death, and su
 
 - Restoration and prophecy control: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] and [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]] use Liu Xiu to connect Wang Mang's collapse, Kunyang, mandate language, and later restrictions on private prophecy.
 - Founding coalition and trust: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] links Liu Xiu's rise to Geng Yan's alignment, Youzhou cavalry, Peng Chong's rebellion, and the Geng family's visible loyalty work.
+- 39 CE degree-field diagnostics: [[zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v|Hanji 717]] says Liu Xiu uses the Chenliu note and Liu Yang's explanation to detect that Henan and Nanyang cannot be neutral land-survey benchmarks because of protected court and hometown interests.
+- 39 CE fiscal and frontier correction: [[zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v|Hanji 717]] says Liu Xiu sends inspectors against two-thousand-stone officials, lets Ouyang Xi die in prison after a Runan degree-field case, removes Du Mao, replaces him with Ma Cheng, and sends Zhang Kan with Du Mao's troops at Gaoliu.
 - 40 CE fiscal accountability: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Liu Xiu executes Zhang Ji and more than ten administrators for land-measurement and grain fraud, then accepts Ma Yuan's judgment that they damaged the people.
 - 40 CE anti-bandit incentives: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Liu Xiu allows bandits to inform on each other, pardons collective anti-bandit action, changes official performance incentives, punishes sheltering bandits, and resettles leaders with land and grain.
 - 40 CE frontier and currency normalization: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] links Liu Xiu to Zheng Ce's Jiaozhi revolt, Lu Fang's rewarded but unstable surrender, and Ma Yuan's five-zhu coin restoration memorial.
@@ -87,18 +92,23 @@ Hanji 729 through Hanji 732 supply the personnel, ritual, illness, death, and su
 
 ## Qualifications
 
-These sources address Liu Xiu through different windows rather than a single biography. Hanji 718's bandit-pacification success and law-versus-human-feeling frame remain source-scoped to 40 CE and should not be turned into a universal theory of Liu Xiu's penal style. Hanji 719's "渣男" framing and comments about Guo's resentment are source-scoped interpretation; the durable claim is narrower, concerning political marriage value, palace-succession handling, omen language, and compensation. Hanji 721's Dong Xuan case should not be treated as modern rule of law: Liu Xiu's backing of enforcement remains a ruler decision after anger. Hanji 722 through Hanji 729 form a changed frontier-contact sequence, so each answer has to be read by timing and capacity rather than as one fixed policy. Hanji 732 does not prove Liu Xiu's cause of death; its strongest contribution is long-term health vulnerability under workload.
+These sources address Liu Xiu through different windows rather than a single biography. Hanji 717's Henan/Nanyang comparison should be read as a source-bounded diagnosis of protected fiscal environments, not as proof that every elite holding there exceeded legal limits. Hanji 718's bandit-pacification success and law-versus-human-feeling frame remain source-scoped to 40 CE and should not be turned into a universal theory of Liu Xiu's penal style. Hanji 719's "渣男" framing and comments about Guo's resentment are source-scoped interpretation; the durable claim is narrower, concerning political marriage value, palace-succession handling, omen language, and compensation. Hanji 721's Dong Xuan case should not be treated as modern rule of law: Liu Xiu's backing of enforcement remains a ruler decision after anger. Hanji 722 through Hanji 729 form a changed frontier-contact sequence, so each answer has to be read by timing and capacity rather than as one fixed policy. Hanji 732 does not prove Liu Xiu's cause of death; its strongest contribution is long-term health vulnerability under workload.
 
 ## What Changed
 
-- Added Hanji 718 as Liu Xiu's 40 CE stabilization layer: fiscal fraud punishment, bandit-pacification incentives, Lu Fang surrender incorporation, five-zhu coin restoration, and Jiaozhi revolt onset.
-- Reframed Liu Xiu's domestic profile to include incentive design and livelihood resettlement alongside harsh punishment.
-- Placed Hanji 719's empress-deposition and Shache-recognition branch after this 40 CE order-making baseline.
+- Added Hanji 717 as Liu Xiu's 39 CE degree-field diagnostic layer: protected comparison zones, Liu Yang's interpretation, Ouyang Xi's punishment, and Gaoliu/Yuyang frontier correction.
+- Reframed Liu Xiu's domestic profile to place fiscal-data diagnostics before Hanji 718's executions, incentive design, and livelihood resettlement.
+- Placed Hanji 719's empress-deposition and Shache-recognition branch after the 39-40 CE order-making baseline.
 - Preserved Hanji 721-727 as the personnel, legal-discipline, illness, and frontier-sequencing evidence after the 40-41 CE prelude.
 - Preserved Hanji 729-732 as the Ban Biao diplomacy, fengshan/chenwei, death, and succession evidence.
 
 ## Relationships
 
+- [[DutianAccountabilityEasternHan|度田问责]] - concept grounded by Liu Xiu's 39 CE attempt to make land registration and senior local officials accountable.
+- [[OuyangXiEasternHan|欧阳歙]] - Situ punished under Liu Xiu after inaccurate Runan degree-field reporting and embezzlement charges.
+- [[ZhangKanEasternHan|张堪]] - frontier official whom Liu Xiu sends with Du Mao's former troops and later uses at Yuyang.
+- [[MaChengEasternHan|马成]] - frontier commander who replaces Du Mao and strengthens beacon defenses under Liu Xiu.
+- [[DuMaoEasternHan|杜茂]] - removed frontier commander whose former troops remain useful in Liu Xiu's Gaoliu branch.
 - [[GuoShengtong|郭圣通]] - spouse and deposed empress whose founding marriage alliance and compensation branch now anchor Liu Xiu's 41 CE palace profile.
 - [[ZhengCeJiaozhi|征侧]] - Jiaozhi rebel ruler whose 40 CE revolt tests Liu Xiu's southern commandery control.
 - [[ZhengErJiaozhi|征贰]] - co-leader in the Jiaozhi revolt that becomes part of Liu Xiu's early southern-frontier problem.

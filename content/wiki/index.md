@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》717丨13个字引发的帝王之怒！](sources/zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v.md) — 39 CE Guangwu episode on degree-field land registration, the Chenliu comparison note, Liu Yang's political reading, Ouyang Xi's punishment, Lu Fang's Gaoliu return, and Zhang Kan's Gaoliu/Yuyang frontier governance.
 - [《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？](sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r.md) — 40 CE Guangwu-era episode on Zheng Ce and Zheng Er's Jiaozhi revolt, land-and-grain fraud punishment, anti-bandit incentive design, Lu Fang's fragile surrender, and Ma Yuan's five-zhu coin memorial.
 - [681. Brazil: The Emperor's Anthem (Part 5)](sources/681-brazil-the-emperors-anthem-part-5-glt5596929385.md) — The Rest Is History episode on Brazil's national anthem, Portuguese court in Rio, Pedro I independence, imperial slavery, republican symbol reuse, 1922 lyrics, flag imagery, and Diretas Ja protest performance.
 - [Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick](sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085.md) — Huberman Lab episode with Paul Eastwick on idiosyncratic attraction, dating-app marketplace dynamics, repeated-contact dating, perceived similarity, social support, and shared relationship narratives.
@@ -1817,6 +1818,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [欧阳歙 / Ouyang Xi (Eastern Han)](entities/OuyangXiEasternHan.md) — Shangshu-lineage Situ punished after Runan degree-field falsification and embezzlement charges.
+- [张堪 / Zhang Kan (Eastern Han)](entities/ZhangKanEasternHan.md) — Frontier official whose Gaoliu victory and Yuyang tenure pair Xiongnu defense with agricultural local governance.
+- [马成 / Ma Cheng (Eastern Han)](entities/MaChengEasternHan.md) — Frontier commander who replaces Du Mao and strengthens border defense with regular beacon stations.
+- [杜茂 / Du Mao (Eastern Han)](entities/DuMaoEasternHan.md) — Removed frontier commander whose former troops are later reused by Zhang Kan at Gaoliu.
 - [征侧 / Zheng Ce (Jiaozhi)](entities/ZhengCeJiaozhi.md) — Jiaozhi local elite woman whose 40 CE revolt becomes a female kingship claim before Ma Yuan's suppression.
 - [征贰 / Zheng Er (Jiaozhi)](entities/ZhengErJiaozhi.md) — Zheng Ce's sister and co-leader in the Jiaozhi revolt.
 - [苏定 / Su Ding (Jiaozhi governor)](entities/SuDingJiaozhi.md) — Jiaozhi governor whose attempted punishment of Zheng Ce triggers the current revolt branch.
@@ -10496,6 +10501,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [度田问责 / Dutian Accountability (Eastern Han)](concepts/DutianAccountabilityEasternHan.md) — Guangwu-era land-registration accountability pattern exposing protected elite comparison zones and senior local-official falsification.
 - [女性起义称王 / Female Rebel Sovereignty](concepts/FemaleRebelSovereignty.md) — Pattern where Zheng Ce's Jiaozhi revolt becomes a female-led ruler claim rather than only local disorder.
 - [群盗互纠式平乱 / Bandit Mutual-Reporting Pacification](concepts/BanditMutualReportingPacification.md) — Guangwu-era anti-bandit incentive design using peer reporting, pardons, official-accountability repair, shelter penalties, and resettlement.
 - [五铢钱恢复 / Wuzhu Coin Restoration](concepts/WuzhuCoinRestoration.md) — Ma Yuan's memorial and Liu Xiu's adoption of restored five-zhu coinage as practical normalization.

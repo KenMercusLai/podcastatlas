@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8675
+wiki_total_pages: 8679
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -980,6 +980,9 @@ wiki_pages:
   - key: "DuRuo"
     title: "杜若 / Du Ruo"
     url: "/wiki/entities/duruo/"
+  - key: "DuMaoEasternHan"
+    title: "杜茂 / Du Mao (Eastern Han)"
+    url: "/wiki/entities/dumaoeasternhan/"
   - key: "DuXiLateHan"
     title: "杜袭 / Du Xi (late Han)"
     url: "/wiki/entities/duxilatehan/"

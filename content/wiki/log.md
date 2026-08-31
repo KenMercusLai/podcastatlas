@@ -14511,3 +14511,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 《资治通鉴·汉纪》717丨13个字引发的帝王之怒！
+
+Ingested the 2026-06-21 芮淇讲透资治通鉴 episode backfilling Jianwu 15 / 39 CE. Created `DutianAccountabilityEasternHan`, `OuyangXiEasternHan`, `ZhangKanEasternHan`, `MaChengEasternHan`, and `DuMaoEasternHan`; updated Liu Xiu, Emperor Ming of Han, Lu Fang, overview, and index. No settled contradiction found; Dai She, Li Zhen, exact Huben questioning mechanics, Henan/Hongnong/Gaoliu geography, and the host's Liu Qiang succession-risk inference remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

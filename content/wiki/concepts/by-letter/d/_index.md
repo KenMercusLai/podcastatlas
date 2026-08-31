@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6178
+wiki_total_pages: 6179
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -830,6 +830,9 @@ wiki_pages:
   - key: "DynasticMemoryReportingRitual"
     title: "宗庙记忆中的行政汇报 / Dynastic Memory Reporting Ritual"
     url: "/wiki/concepts/dynasticmemoryreportingritual/"
+  - key: "DutianAccountabilityEasternHan"
+    title: "度田问责 / Dutian Accountability (Eastern Han)"
+    url: "/wiki/concepts/dutianaccountabilityeasternhan/"
   - key: "DisasterReliefCorruption"
     title: "救灾物资贪腐 / Disaster Relief Corruption"
     url: "/wiki/concepts/disasterreliefcorruption/"

@@ -15711,6 +15711,10 @@
     "title": "督亢地图 / Du Kang Map",
     "url": "/wiki/entities/dukangmap/"
   },
+  "DuMaoEasternHan": {
+    "title": "杜茂 / Du Mao (Eastern Han)",
+    "url": "/wiki/entities/dumaoeasternhan/"
+  },
   "DuMiLateHan": {
     "title": "杜密 / Du Mi (late Han)",
     "url": "/wiki/entities/dumilatehan/"
@@ -15906,6 +15910,10 @@
   "DutchRevolt": {
     "title": "Dutch Revolt",
     "url": "/wiki/entities/dutchrevolt/"
+  },
+  "DutianAccountabilityEasternHan": {
+    "title": "度田问责 / Dutian Accountability (Eastern Han)",
+    "url": "/wiki/concepts/dutianaccountabilityeasternhan/"
   },
   "DuyouSword": {
     "title": "Duyou Sword / 杜邮剑",
@@ -32807,6 +32815,10 @@
     "title": "MVP Investment Framework / 宏观-估值-政策框架",
     "url": "/wiki/concepts/mvpinvestmentframework/"
   },
+  "MaChengEasternHan": {
+    "title": "马成 / Ma Cheng (Eastern Han)",
+    "url": "/wiki/entities/machengeasternhan/"
+  },
   "MaDong": {
     "title": "马东 / Ma Dong",
     "url": "/wiki/entities/madong/"
@@ -38698,6 +38710,10 @@
   "OuyangBin": {
     "title": "欧阳斌 / Ouyang Bin",
     "url": "/wiki/entities/ouyangbin/"
+  },
+  "OuyangXiEasternHan": {
+    "title": "欧阳歙 / Ouyang Xi (Eastern Han)",
+    "url": "/wiki/entities/ouyangxieasternhan/"
   },
   "OuyangXiu": {
     "title": "欧阳修 / Ouyang Xiu",
@@ -59099,6 +59115,10 @@
     "title": "张开地 / Zhang Kaidi",
     "url": "/wiki/entities/zhangkaidi/"
   },
+  "ZhangKanEasternHan": {
+    "title": "张堪 / Zhang Kan (Eastern Han)",
+    "url": "/wiki/entities/zhangkaneasternhan/"
+  },
   "ZhangKun": {
     "title": "张坤 / Zhang Kun",
     "url": "/wiki/entities/zhangkun/"
@@ -64646,6 +64666,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v": {
+    "title": "《资治通鉴·汉纪》717丨13个字引发的帝王之怒！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v/"
   },
   "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r": {
     "title": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？",
