@@ -4,17 +4,29 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-01
-as_of_overview_commit: 57d5986fe954121e25b7f8a08dc3ec22f7b3d30d
-input_digest: 3901ecbf3f202d96f343f538c9e362e97545bd6a190bb03cafaec5a81583ccfd
+as_of_overview_commit: 0ba4d6e9614ef22e4e991d2fb99f30a5dcee337d
+input_digest: 6621ab3a4fe6cb38df026289147cb76e52f2e63a4b8a4e248416bae789d9613a
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 718 now backfills the late Guangwu governance branch to 40 CE: Liu Xiu's stabilization problem spans Jiaozhi revolt, fiscal-fraud punishment, anti-bandit incentive redesign, Lu Fang's fragile Xiongnu-linked surrender settlement, and Ma Yuan's five-zhu coin restoration advice. Hanji 719 then adds the 41 CE Guo-Yin empress change through political marriage alliance depreciation, public state-foundation warning, maternal-status succession risk, soft-landing compensation, and Shache recognition narrowing before unsupported authority hardens. The ICE/CODIS Marketplace Tech episode adds a federal biometric-surveillance branch: DHS and ICE DNA collection can turn immigration detention into durable policing infrastructure once profiles enter FBI CODIS, raising Fourth Amendment, retention, age-threshold, and family-exposure questions that remain qualified by the absence of a detailed DHS, FBI, or DOJ defense. Hanji 726 backfills the late Guangwu governance branch to 49 CE through Zhu Bo's correction of Ma Yuan's posthumous accusation, Zong Jun's accountable field discretion, and Wuhuan protector-office institutionalization. Hanji 729-731 preserve the later Guangwu pattern of calibrated Northern Xiongnu reply, ritual refusal before fengshan, personnel judgment, chenwei-fengshan, and chenwei speech risk, while Hanji 736-740 remain the Mingdi continuation through royal-kin boundaries, private-retainer risk, forged authority, anti-flattery edicts, empress memory, frontier containment, local capacity, Chu-case coercion, and partial correction. A small health-product governance edge keeps functional-food and supplement claims tied to product identity, label evidence, and professional-boundary checks before consumer trust.
+Hanji 713 now backfills the early Guangwu governance branch to Jianwu 12 / 36 CE: Liu Xiu condemns Wu Han and Liu Shang after surrendered Chengdu is killed, looted, and burned, while the post-Shu settlement repairs authority through honors for refusers, repayment, summons, former-opponent appointments, and recognition of Wen Qi. Hanji 718 now backfills the late Guangwu governance branch to 40 CE: Liu Xiu's stabilization problem spans Jiaozhi revolt, fiscal-fraud punishment, anti-bandit incentive redesign, Lu Fang's fragile Xiongnu-linked surrender settlement, and Ma Yuan's five-zhu coin restoration advice. Hanji 719 then adds the 41 CE Guo-Yin empress change through political marriage alliance depreciation, public state-foundation warning, maternal-status succession risk, soft-landing compensation, and Shache recognition narrowing before unsupported authority hardens. The ICE/CODIS Marketplace Tech episode adds a federal biometric-surveillance branch: DHS and ICE DNA collection can turn immigration detention into durable policing infrastructure once profiles enter FBI CODIS, raising Fourth Amendment, retention, age-threshold, and family-exposure questions that remain qualified by the absence of a detailed DHS, FBI, or DOJ defense. Hanji 726 backfills the late Guangwu governance branch to 49 CE through Zhu Bo's correction of Ma Yuan's posthumous accusation, Zong Jun's accountable field discretion, and Wuhuan protector-office institutionalization. Hanji 729-731 preserve the later Guangwu pattern of calibrated Northern Xiongnu reply, ritual refusal before fengshan, personnel judgment, chenwei-fengshan, and chenwei speech risk, while Hanji 736-740 remain the Mingdi continuation through royal-kin boundaries, private-retainer risk, forged authority, anti-flattery edicts, empress memory, frontier containment, local capacity, Chu-case coercion, and partial correction. A small health-product governance edge keeps functional-food and supplement claims tied to product identity, label evidence, and professional-boundary checks before consumer trust.
 
 ## Cross-source Findings
+
+### Early Eastern Han 713 Shu Surrender Breach And Local Elite Repair
+
+[[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] backfills the early [[LiuXiu]] governance branch to Jianwu 12 / 36 CE: after [[YanCenEasternHan]] surrenders Chengdu, [[WuHanEasternHan]] kills [[GongsunShuEasternHan]]'s household and clan, destroys Yan Cen's clan, and permits sack, so Liu Xiu's rebuke of Wu Han and [[LiuShangEasternHan]] makes [[BreachOfSurrenderTrust]] a conquest-order problem; the later honors for [[LiNieEasternHan]], repayment to [[QiaoXuanShuScholar]], recognition of [[WenQiYizhouEasternHan]], and [[CoercedTalentLegitimacy]] / [[PrincipledOfficeRefusal]] material show local-elite repair after coerced Shu recruitment.
+
+**Evidence:** [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje]], [[LiuXiu]], [[YanCenEasternHan]], [[WuHanEasternHan]], [[GongsunShuEasternHan]], [[LiuShangEasternHan]], [[BreachOfSurrenderTrust]], [[LiNieEasternHan]], [[QiaoXuanShuScholar]], [[WenQiYizhouEasternHan]], [[CoercedTalentLegitimacy]], [[PrincipledOfficeRefusal]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 713 as a Jianwu 12 backfill before Hanji 714 and Hanji 715.
+- The source reports Liu Xiu's anger and rebuke but not a formal punishment for Wu Han or Liu Shang.
+- Gongsun Shu and several Shu scholar name forms are source-normalized or source-scoped, and the Ma Cheng notice remains setup.
 
 ### Early Eastern Han 718 Guangwu Stabilization Incentives And Jiaozhi
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6183
+wiki_total_pages: 6184
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "SeparateCryptoReserveFund"
     title: "Separate Crypto Reserve Fund"
     url: "/wiki/concepts/separatecryptoreservefund/"
+  - key: "SeparatedCampMutualSupportRisk"
+    title: "Separated Camp Mutual Support Risk / 分营互援风险"
+    url: "/wiki/concepts/separatedcampmutualsupportrisk/"
   - key: "SeparationOfPowers"
     title: "Separation Of Powers"
     url: "/wiki/concepts/separationofpowers/"

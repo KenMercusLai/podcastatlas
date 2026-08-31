@@ -1,6 +1,8 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "cd564f865174393895462c0ee634fb249925bb7b1df949089a1cfe256936399e",
+      "b7def56b675911d97d2e781baf41dd83a81c116080d0b36c42eead1b64898001",
       "4e9ee1c8ae5ee3d05c535b10e120a6ff4df66c9aa8ef620d13490674db349cda",
       "ccaa9d71a4268a8e57a46db28481a0cbbb4a5f8f4b57c007ebfea2724b22d223",
       "e15a2a8259ba0972259fc9c58ce097754f2f82f65bf5441deb6db62645bba6d0",
@@ -462,11 +464,70 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 460
+    "paragraph_count": 462
   },
-  "overview_commit": "38d5ecf73ab455186cde28c8142b7c3fd584a76c",
-  "overview_digest": "a62c09e36d61470d867003084beb1b771493e057515071544ea72afcfbf61b33",
+  "overview_commit": "84cfc77f0bfcc53bb881046f9162e2099cd2e48f",
+  "overview_digest": "13cba27c258f31bc62a1a25993edee5bd8b3c8b4835c9dc9921a91f9afc01dfb",
   "paragraphs": [
+    {
+      "id": "cd564f865174393895462c0ee634fb249925bb7b1df949089a1cfe256936399e",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 12 / 36 CE immediately before [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]]. It adds [[LiTongEasternHan|李通]] and [[SeparatedCampMutualSupportRisk|分营互援风险]], while extending [[LiuXiu|光武帝刘秀]], [[WuHanEasternHan|吴汉]], [[GongsunShuEasternHan|公孙述]], [[YanCenEasternHan|严岑 / Yan Cen]], [[LiuShangEasternHan|刘尚]], [[ZhangKanEasternHan|张堪]], [[BattlefieldFeintAndLure|声东击西与诱敌]], and [[PowerCompletionRetreat|功成退让]]. Its core synthesis is that Liu Xiu's military reputation is framed as remote structural judgment: he reads Guangdu, Chengdu, the river, camp distance, and enemy initiative before Wu Han's separated-camp crisis unfolds, while Wu Han's recovery depends on re-concentrating with Liu Shang and later accepting Zhang Kan's anti-retreat advice. No settled contradiction is recorded; 严岑 is routed to the existing Yan Cen page and Guangwu-era Li Tong is kept distinct from the later Cao-era Li Tong.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BattlefieldFeintAndLure",
+        "GongsunShuEasternHan",
+        "LiTongEasternHan",
+        "LiuShangEasternHan",
+        "LiuXiu",
+        "PowerCompletionRetreat",
+        "RuiqiJiangtouZizhiTongjian",
+        "SeparatedCampMutualSupportRisk",
+        "WuHanEasternHan",
+        "YanCenEasternHan",
+        "ZhangKanEasternHan",
+        "zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn",
+        "zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje"
+      ]
+    },
+    {
+      "id": "b7def56b675911d97d2e781baf41dd83a81c116080d0b36c42eead1b64898001",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 12 / 36 CE immediately before [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] and [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]]. It adds [[GongsunShuEasternHan|公孙述]], [[YanCenEasternHan|颜岑]], [[LiNieEasternHan|李涅]], [[QiaoXuanShuScholar|乔璇]], [[WangHaoShuScholar|王浩]], [[WangJiaShuScholar|王家]], [[WenQiYizhouEasternHan|文齐]], and [[LiuShangEasternHan|刘尚]], while extending [[LiuXiu|光武帝刘秀]], [[WuHanEasternHan|吴汉]], [[BreachOfSurrenderTrust|受降失信]], [[CoercedTalentLegitimacy|胁迫征士合法性]], and [[PrincipledOfficeRefusal|原则性拒仕]]. Its core synthesis is that conquest legitimacy does not end with victory: Yan Cen's surrendered Chengdu becomes a surrender-trust breach when Wu Han kills households and clans and permits sack, while Liu Xiu's repair depends on condemning post-surrender violence and recognizing local moral and talent capital. No settled contradiction is recorded; Gongsun Shu and several Shu scholar name forms are source-normalized or source-scoped, and the later Ma Cheng notice remains setup rather than a new standalone claim.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BreachOfSurrenderTrust",
+        "CoercedTalentLegitimacy",
+        "GongsunShuEasternHan",
+        "LiNieEasternHan",
+        "LiuShangEasternHan",
+        "LiuXiu",
+        "PrincipledOfficeRefusal",
+        "QiaoXuanShuScholar",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangHaoShuScholar",
+        "WangJiaShuScholar",
+        "WenQiYizhouEasternHan",
+        "WuHanEasternHan",
+        "YanCenEasternHan",
+        "zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje",
+        "zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi",
+        "zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu"
+      ]
+    },
     {
       "id": "4e9ee1c8ae5ee3d05c535b10e120a6ff4df66c9aa8ef620d13490674db349cda",
       "primary_topic": "governance-and-institutions",

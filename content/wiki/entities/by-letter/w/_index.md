@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8685
+wiki_total_pages: 8694
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -785,6 +785,9 @@ wiki_pages:
   - key: "WenZhongYue"
     title: "文种 / Wen Zhong of Yue"
     url: "/wiki/entities/wenzhongyue/"
+  - key: "WenQiYizhouEasternHan"
+    title: "文齐 / Wen Qi (Yizhou)"
+    url: "/wiki/entities/wenqiyizhoueasternhan/"
   - key: "WenLongLateHan"
     title: "文龙 / Wen Long (late Han)"
     url: "/wiki/entities/wenlonglatehan/"
@@ -935,6 +938,9 @@ wiki_pages:
   - key: "WangShenqi"
     title: "王审琦 / Wang Shenqi"
     url: "/wiki/entities/wangshenqi/"
+  - key: "WangJiaShuScholar"
+    title: "王家 / Wang Jia (Shu Scholar)"
+    url: "/wiki/entities/wangjiashuscholar/"
   - key: "WangMiLateHan"
     title: "王密 / Wang Mi (late Han)"
     url: "/wiki/entities/wangmilatehan/"
@@ -1001,6 +1007,9 @@ wiki_pages:
   - key: "WangHongjie"
     title: "王洪杰 / Wang Hongjie"
     url: "/wiki/entities/wanghongjie/"
+  - key: "WangHaoShuScholar"
+    title: "王浩 / Wang Hao (Shu Scholar)"
+    url: "/wiki/entities/wanghaoshuscholar/"
   - key: "WangHuanLateHan"
     title: "王涣 / Wang Huan (late Han)"
     url: "/wiki/entities/wanghuanlatehan/"

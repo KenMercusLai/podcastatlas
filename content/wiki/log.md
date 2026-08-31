@@ -14516,10 +14516,6 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
-## [2026-09-01] lint | Wiki health check
-
-Ran lint. See lint-report.md for details.
-
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》717丨13个字引发的帝王之怒！
 
 Ingested the 2026-06-21 芮淇讲透资治通鉴 episode backfilling Jianwu 15 / 39 CE. Created `DutianAccountabilityEasternHan`, `OuyangXiEasternHan`, `ZhangKanEasternHan`, `MaChengEasternHan`, and `DuMaoEasternHan`; updated Liu Xiu, Emperor Ming of Han, Lu Fang, overview, and index. No settled contradiction found; Dai She, Li Zhen, exact Huben questioning mechanics, Henan/Hongnong/Gaoliu geography, and the host's Liu Qiang succession-risk inference remain source-scoped.
@@ -14539,6 +14535,22 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》714丨是谁第一个喊出“男儿当马革裹尸”？
 
 Ingested the 2026-06-21 芮淇讲透资治通鉴 episode backfilling Jianwu 12-13 / 36-37 CE. Created `KongFenEasternHan`, `RenTingEasternHan`, `SuiYuEasternHan`, `HorsehideBurialResolve`, and `FlexibleFrontierMilitaryDiscretion`; updated Liu Xiu, Ma Yuan, Dou Rong, Liang Tong, Lu Fang, Zhi Yun, Ma Wu, Du Mao, light-touch frontier governance, receptive remonstrance governance, perishable tribute burden, overview, and index. No settled contradiction found; `鲁方` and `志恽` were normalized to the established Lu Fang and Zhi Yun routes, and the fuller horsehide-burial speech remains bounded to the later Ma Yuan evidence.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！
+
+Ingested the 2026-06-20 芮淇讲透资治通鉴 episode backfilling Jianwu 12 / 36 CE. Created `GongsunShuEasternHan`, `YanCenEasternHan`, `LiNieEasternHan`, `QiaoXuanShuScholar`, `WangHaoShuScholar`, `WangJiaShuScholar`, `WenQiYizhouEasternHan`, and `LiuShangEasternHan`; updated Liu Xiu, Wu Han, breach of surrender trust, coerced talent legitimacy, principled office refusal, overview, and index. No settled contradiction found; Hanji 713 instead qualifies Wu Han's later honor and the surrender-as-protection pattern by showing Liu Xiu's rebuke after surrendered Chengdu is killed, looted, and burned.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？
+
+Ingested the 2026-06-20 芮淇讲透资治通鉴 episode backfilling Jianwu 12 / 36 CE immediately before Hanji 713. Created `LiTongEasternHan` and `SeparatedCampMutualSupportRisk`; updated Liu Xiu, Wu Han, Gongsun Shu, Yan Cen, Liu Shang, Zhang Kan, battlefield feint and lure, power completion retreat, overview, and index. No settled contradiction found; 严岑 is normalized to the existing Yan Cen page, Guangwu-era Li Tong is kept distinct from the later Cao-era Li Tong, and the episode's ending leaves Zhang Kan's show-weakness plan outcome to the following source.
 
 ## [2026-09-01] lint | Wiki health check
 

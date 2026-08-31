@@ -4379,9 +4379,9 @@
       "url": "/wiki/concepts/basicresearchbreakthroughlatency/"
     },
     "BattlefieldFeintAndLure": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -4389,9 +4389,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
           "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？ [lt7RX7TbLODJfNGqfdq33IKrcmyN].md",
+          "key": "zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url": "/wiki/concepts/battlefieldfeintandlure/"
     },
     "BedroomHomestayPlatformTrust": {
@@ -5316,9 +5323,9 @@
       "url": "/wiki/entities/braziliannationalanthem/"
     },
     "BreachOfSurrenderTrust": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
@@ -5333,9 +5340,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
+          "key": "zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-01",
       "url": "/wiki/concepts/breachofsurrendertrust/"
     },
     "BrianFaulkner": {
@@ -8051,6 +8065,43 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/coercedimperialmarriage/"
+    },
+    "CoercedTalentLegitimacy": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》947丨董卓收服吕布，开启称霸之路 [lvR-24L6J8f6zvpFCMqgkNMgywa1].md",
+          "key": "zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》947丨董卓收服吕布，开启称霸之路",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》948丨董卓废帝：权臣如何改变皇权游戏？ [ltEKG1a_5b5U37AeeKjM3DM2m6kK].md",
+          "key": "zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》948丨董卓废帝：权臣如何改变皇权游戏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》949丨历史上的董卓到底多残暴？ [lk6IdoGWMC54Nk1Sdfc5wOnYVGbB].md",
+          "key": "zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》949丨历史上的董卓到底多残暴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
+          "key": "zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/coercedtalentlegitimacy/"
     },
     "CoerciveFrontierRelocationBackfire": {
       "episode_count": 2,
@@ -18549,6 +18600,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/goldjewelryvalueperceptionrisk/"
     },
+    "GongsunShuEasternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
+          "key": "zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？ [lt7RX7TbLODJfNGqfdq33IKrcmyN].md",
+          "key": "zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/gongsunshueasternhan/"
+    },
     "GongsunXuLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -25750,6 +25824,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/lijinwulinglatehan/"
     },
+    "LiNieEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
+          "key": "zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/linieeasternhan/"
+    },
     "LiRunLateHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -25848,6 +25938,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/litanlatehan/"
+    },
+    "LiTongEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？ [lt7RX7TbLODJfNGqfdq33IKrcmyN].md",
+          "key": "zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/litongeasternhan/"
     },
     "LiTongLateHan": {
       "episode_count": 3,
@@ -27402,6 +27508,50 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/liuqingqingheking/"
     },
+    "LiuShangEasternHan": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
+          "key": "zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？ [lryZceJDnrm4-92esNddFVyjKqLi].md",
+          "key": "zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》722丨让刘秀险死的头痛病，怎么回事？ [logWCCdSCA7Vm2ZZssu8ubm8RWra].md",
+          "key": "zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》722丨让刘秀险死的头痛病，怎么回事？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？ [lpQKsa0J1Y0tsKwv6fPflHOVg9B8].md",
+          "key": "zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？ [lt7RX7TbLODJfNGqfdq33IKrcmyN].md",
+          "key": "zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/liushangeasternhan/"
+    },
     "LiuSuanLateHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -27578,9 +27728,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 21,
+      "episode_count": 23,
       "show_count": 2,
-      "source_note_count": 21,
+      "source_note_count": 23,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -27728,6 +27878,20 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》714丨是谁第一个喊出“男儿当马革裹尸”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
+          "key": "zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？ [lt7RX7TbLODJfNGqfdq33IKrcmyN].md",
+          "key": "zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn/"
         }
       ],
       "updated": "2026-09-01",
@@ -35524,9 +35688,9 @@
       "url": "/wiki/concepts/powercenterproximityadvantage/"
     },
     "PowerCompletionRetreat": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -35541,6 +35705,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》715丨史上最智慧的一次夺权",
           "url": "/wiki/sources/zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？ [lt7RX7TbLODJfNGqfdq33IKrcmyN].md",
+          "key": "zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn/"
         }
       ],
       "updated": "2026-09-01",
@@ -35816,9 +35987,9 @@
       "url": "/wiki/entities/princessstephanieofbelgium/"
     },
     "PrincipledOfficeRefusal": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？ [ltqUgLqZVEZEyp0mQxWgWNLp12lF].md",
@@ -35833,9 +36004,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
+          "key": "zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-01",
       "url": "/wiki/concepts/principledofficerefusal/"
     },
     "PrincipledWorkplaceNonalignment": {
@@ -36687,6 +36865,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/qiaoxuanlatehan/"
+    },
+    "QiaoXuanShuScholar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
+          "key": "zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/qiaoxuanshuscholar/"
     },
     "Qihoo360": {
       "episode_count": 1,
@@ -39541,6 +39735,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/selftestingmemorypractice/"
+    },
+    "SeparatedCampMutualSupportRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？ [lt7RX7TbLODJfNGqfdq33IKrcmyN].md",
+          "key": "zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/separatedcampmutualsupportrisk/"
     },
     "SerotoninSocialWellbeingTools": {
       "episode_count": 1,
@@ -46094,6 +46304,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/wangguoeunuchlatehan/"
     },
+    "WangHaoShuScholar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
+          "key": "zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/wanghaoshuscholar/"
+    },
     "WangHuanLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -46116,6 +46342,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/wanghuanlatehan/"
+    },
+    "WangJiaShuScholar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
+          "key": "zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/wangjiashuscholar/"
     },
     "WangJingBianquEasternHan": {
       "episode_count": 1,
@@ -46725,6 +46967,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/wenlonglatehan/"
     },
+    "WenQiYizhouEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
+          "key": "zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/wenqiyizhoueasternhan/"
+    },
     "Wendys": {
       "episode_count": 1,
       "show_count": 1,
@@ -47206,9 +47464,9 @@
       "url": "/wiki/entities/wudaolatehan/"
     },
     "WuHanEasternHan": {
-      "episode_count": 3,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -47230,6 +47488,20 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》715丨史上最智慧的一次夺权",
           "url": "/wiki/sources/zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
+          "key": "zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？ [lt7RX7TbLODJfNGqfdq33IKrcmyN].md",
+          "key": "zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn/"
         }
       ],
       "updated": "2026-09-01",
@@ -48971,6 +49243,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/yanbaihu/"
+    },
+    "YanCenEasternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
+          "key": "zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？ [lt7RX7TbLODJfNGqfdq33IKrcmyN].md",
+          "key": "zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/yanceneasternhan/"
     },
     "YanChangLateHan": {
       "episode_count": 1,
@@ -51229,9 +51524,9 @@
       "url": "/wiki/entities/zhangkaiduanjiongofficer/"
     },
     "ZhangKanEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》717丨13个字引发的帝王之怒！ [liZ3jsBvW3sNfaPzSRQw917fqV7V].md",
@@ -51239,6 +51534,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》717丨13个字引发的帝王之怒！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？ [lt7RX7TbLODJfNGqfdq33IKrcmyN].md",
+          "key": "zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn/"
         }
       ],
       "updated": "2026-09-01",
