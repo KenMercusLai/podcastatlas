@@ -1067,6 +1067,10 @@
     "title": "68.疯狂实验史：哎！这该死的求知欲…",
     "url": "/wiki/sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549/"
   },
+  "681-brazil-the-emperors-anthem-part-5-glt5596929385": {
+    "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+    "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+  },
   "682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080": {
     "title": "682. South Africa: Mandela and the Death of Apartheid (Part 6)",
     "url": "/wiki/sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080/"
@@ -7779,6 +7783,22 @@
     "title": "Brazil",
     "url": "/wiki/entities/brazil/"
   },
+  "BrazilianEmpire": {
+    "title": "Brazilian Empire",
+    "url": "/wiki/entities/brazilianempire/"
+  },
+  "BrazilianFlag": {
+    "title": "Brazilian Flag",
+    "url": "/wiki/entities/brazilianflag/"
+  },
+  "BrazilianIndependence": {
+    "title": "Brazilian Independence",
+    "url": "/wiki/entities/brazilianindependence/"
+  },
+  "BrazilianNationalAnthem": {
+    "title": "Brazilian National Anthem",
+    "url": "/wiki/entities/braziliannationalanthem/"
+  },
   "BreachOfSurrenderTrust": {
     "title": "受降失信 / Breach of Surrender Trust",
     "url": "/wiki/concepts/breachofsurrendertrust/"
@@ -14403,6 +14423,10 @@
     "title": "Denmark",
     "url": "/wiki/entities/denmark/"
   },
+  "DeodoroDaFonseca": {
+    "title": "Deodoro da Fonseca",
+    "url": "/wiki/entities/deodorodafonseca/"
+  },
   "DepartmentOfEducation": {
     "title": "Department of Education",
     "url": "/wiki/entities/departmentofeducation/"
@@ -14899,6 +14923,10 @@
     "title": "Director Myth Deflation",
     "url": "/wiki/concepts/directormythdeflation/"
   },
+  "DiretasJa": {
+    "title": "Diretas Ja",
+    "url": "/wiki/entities/diretasja/"
+  },
   "DirtyWork": {
     "title": "Dirty Work",
     "url": "/wiki/concepts/dirtywork/"
@@ -15126,6 +15154,18 @@
   "DollyParton": {
     "title": "Dolly Parton",
     "url": "/wiki/entities/dollyparton/"
+  },
+  "DomJoaoVI": {
+    "title": "Dom Joao VI",
+    "url": "/wiki/entities/domjoaovi/"
+  },
+  "DomPedroI": {
+    "title": "Dom Pedro I",
+    "url": "/wiki/entities/dompedroi/"
+  },
+  "DomPedroII": {
+    "title": "Dom Pedro II",
+    "url": "/wiki/entities/dompedroii/"
   },
   "DomainExpertAlignment": {
     "title": "Domain Expert Alignment",
@@ -17883,6 +17923,10 @@
     "title": "法迪奥 / Fadior",
     "url": "/wiki/entities/fadior/"
   },
+  "FafaDeBelem": {
+    "title": "Fafa de Belem",
+    "url": "/wiki/entities/fafadebelem/"
+  },
   "FailureDesensitization": {
     "title": "Failure Desensitization",
     "url": "/wiki/concepts/failuredesensitization/"
@@ -19854,6 +19898,10 @@
   "FrancisWalsingham": {
     "title": "Francis Walsingham",
     "url": "/wiki/entities/franciswalsingham/"
+  },
+  "FranciscoManuelDaSilva": {
+    "title": "Francisco Manuel da Silva",
+    "url": "/wiki/entities/franciscomanueldasilva/"
   },
   "FrancoAmericanAlliance1778": {
     "title": "Franco-American Alliance of 1778",
@@ -32083,6 +32131,10 @@
     "title": "Louis Hong / 洪力德",
     "url": "/wiki/entities/louishong/"
   },
+  "LouisMoreauGottschalk": {
+    "title": "Louis Moreau Gottschalk",
+    "url": "/wiki/entities/louismoreaugottschalk/"
+  },
   "LouisaMayAlcott": {
     "title": "Louisa May Alcott / 奥尔科特",
     "url": "/wiki/entities/louisamayalcott/"
@@ -33402,6 +33454,10 @@
   "MariaHollenhorst": {
     "title": "Maria Hollenhorst",
     "url": "/wiki/entities/mariahollenhorst/"
+  },
+  "MariaLeopoldina": {
+    "title": "Maria Leopoldina",
+    "url": "/wiki/entities/marialeopoldina/"
   },
   "MariaStGeorges": {
     "title": "Maria / 玛利亚（圣乔治学校）",
@@ -36399,6 +36455,10 @@
     "title": "Nathaniel Branden / 纳撒尼尔·布兰登",
     "url": "/wiki/entities/nathanielbranden/"
   },
+  "NationalAnthemPoliticalPlasticity": {
+    "title": "National Anthem Political Plasticity",
+    "url": "/wiki/concepts/nationalanthempoliticalplasticity/"
+  },
   "NationalBasketballAssociation": {
     "title": "National Basketball Association",
     "url": "/wiki/entities/nationalbasketballassociation/"
@@ -38498,6 +38558,10 @@
   "Osmanthus": {
     "title": "桂花 / Osmanthus",
     "url": "/wiki/entities/osmanthus/"
+  },
+  "OsorioDuqueEstrada": {
+    "title": "Osorio Duque Estrada",
+    "url": "/wiki/entities/osorioduqueestrada/"
   },
   "Ossian": {
     "title": "Oisin / Ossian / 鹅相",
@@ -43459,6 +43523,10 @@
     "title": "Regime Basic-Base Stabilization / 政权基本盘稳定",
     "url": "/wiki/concepts/regimebasicbasestabilization/"
   },
+  "RegimeSymbolContinuity": {
+    "title": "Regime Symbol Continuity",
+    "url": "/wiki/concepts/regimesymbolcontinuity/"
+  },
   "ReginaldMaudling": {
     "title": "Reginald Maudling",
     "url": "/wiki/entities/reginaldmaudling/"
@@ -47499,6 +47567,10 @@
     "title": "Slaughter Welfare",
     "url": "/wiki/concepts/slaughterwelfare/"
   },
+  "SlaveryNationalIdentityContradiction": {
+    "title": "Slavery National Identity Contradiction",
+    "url": "/wiki/concepts/slaverynationalidentitycontradiction/"
+  },
   "SleepAnxietyLoop": {
     "title": "Sleep Anxiety Loop",
     "url": "/wiki/concepts/sleepanxietyloop/"
@@ -47810,6 +47882,10 @@
   "Socrates": {
     "title": "Socrates / 苏格拉底",
     "url": "/wiki/entities/socrates/"
+  },
+  "SocratesFootballer": {
+    "title": "Socrates (Footballer)",
+    "url": "/wiki/entities/socratesfootballer/"
   },
   "SodiumIonBatteryStorage": {
     "title": "Sodium-Ion Battery Storage",

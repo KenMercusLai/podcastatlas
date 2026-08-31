@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8655
+wiki_total_pages: 8670
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "MariaHollenhorst"
     title: "Maria Hollenhorst"
     url: "/wiki/entities/mariahollenhorst/"
+  - key: "MariaLeopoldina"
+    title: "Maria Leopoldina"
+    url: "/wiki/entities/marialeopoldina/"
   - key: "MarieLouiseVonFranz"
     title: "Marie-Louise von Franz / 玛丽-路易丝·冯·弗兰兹"
     url: "/wiki/entities/marielouisevonfranz/"

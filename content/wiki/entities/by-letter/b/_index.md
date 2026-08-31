@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8655
+wiki_total_pages: 8670
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -656,6 +656,18 @@ wiki_pages:
   - key: "Brazil"
     title: "Brazil"
     url: "/wiki/entities/brazil/"
+  - key: "BrazilianEmpire"
+    title: "Brazilian Empire"
+    url: "/wiki/entities/brazilianempire/"
+  - key: "BrazilianFlag"
+    title: "Brazilian Flag"
+    url: "/wiki/entities/brazilianflag/"
+  - key: "BrazilianIndependence"
+    title: "Brazilian Independence"
+    url: "/wiki/entities/brazilianindependence/"
+  - key: "BrazilianNationalAnthem"
+    title: "Brazilian National Anthem"
+    url: "/wiki/entities/braziliannationalanthem/"
   - key: "Breakneck"
     title: "Breakneck"
     url: "/wiki/entities/breakneck/"

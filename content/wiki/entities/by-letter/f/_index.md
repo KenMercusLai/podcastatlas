@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8655
+wiki_total_pages: 8670
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "FacebookAIInfra"
     title: "Facebook AI Infra"
     url: "/wiki/entities/facebookaiinfra/"
+  - key: "FafaDeBelem"
+    title: "Fafa de Belem"
+    url: "/wiki/entities/fafadebelem/"
   - key: "FAIR"
     title: "FAIR"
     url: "/wiki/entities/fair/"
@@ -410,6 +413,9 @@ wiki_pages:
   - key: "FrancisWalsingham"
     title: "Francis Walsingham"
     url: "/wiki/entities/franciswalsingham/"
+  - key: "FranciscoManuelDaSilva"
+    title: "Francisco Manuel da Silva"
+    url: "/wiki/entities/franciscomanueldasilva/"
   - key: "FrancoAmericanAlliance1778"
     title: "Franco-American Alliance of 1778"
     url: "/wiki/entities/francoamericanalliance1778/"

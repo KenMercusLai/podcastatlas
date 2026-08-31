@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [681. Brazil: The Emperor's Anthem (Part 5)](sources/681-brazil-the-emperors-anthem-part-5-glt5596929385.md) — The Rest Is History episode on Brazil's national anthem, Portuguese court in Rio, Pedro I independence, imperial slavery, republican symbol reuse, 1922 lyrics, flag imagery, and Diretas Ja protest performance.
 - [Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick](sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085.md) — Huberman Lab episode with Paul Eastwick on idiosyncratic attraction, dating-app marketplace dynamics, repeated-contact dating, perceived similarity, social support, and shared relationship narratives.
 - [《资治通鉴·汉纪》719丨光武帝刘秀算不算渣男？](sources/zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix.md) — 41 CE late Guangwu episode on Guo Shengtong's deposition, Yin Lihua's elevation, Liu Yang's founding marriage alliance, Zhi Yun's warning, Guo-branch compensation, Shache recognition downgrading, Pei Zun's frontier objection, Ma Yuan's deployments, and Ji Tong's Liaodong appointment.
 - [Stars in their AIs: tech is changing Hollywood](sources/stars-in-their-ais-tech-is-changing-hollywood-6a917d0b63de6f7b41319a4b.md) — The Intelligence episode on Hollywood AI production, synthetic performers, ACA subsidy expiry, insurance death-spiral risk, and French line dancing as American cultural export.
@@ -1815,6 +1816,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [Brazilian National Anthem](entities/BrazilianNationalAnthem.md) — Anthem whose tune, lyrics, and performance history carry Brazil's monarchy, republic, slavery-shadowed identity, and protest memory.
+- [Brazilian Flag](entities/BrazilianFlag.md) — National symbol whose colors, stars, Southern Cross reference, and positivist motto connect dynastic inheritance to republican symbolism.
+- [Brazilian Independence](entities/BrazilianIndependence.md) — 1822 break with Portuguese authority led by Dom Pedro I and later remembered through the anthem's Ipiranga reference.
+- [Brazilian Empire](entities/BrazilianEmpire.md) — Monarchical independence regime linking Pedro I, Pedro II, abolition pressure, and national-symbol continuity.
+- [Dom Joao VI](entities/DomJoaoVI.md) — Portuguese monarch whose court's 1807 move to Rio made Brazil central before independence.
+- [Dom Pedro I](entities/DomPedroI.md) — Regent and first emperor who declared Brazilian independence and whose personalist first anthem became politically unusable.
+- [Dom Pedro II](entities/DomPedroII.md) — Long-reigning Brazilian emperor tied to national-identity consolidation, abolition-era pressure, and republican transition.
+- [Maria Leopoldina](entities/MariaLeopoldina.md) — Habsburg wife of Pedro I whose dynastic background informs Brazil's color-symbol story.
+- [Francisco Manuel da Silva](entities/FranciscoManuelDaSilva.md) — Composer of the durable 1831 tune that became the Brazilian national anthem melody.
+- [Osorio Duque Estrada](entities/OsorioDuqueEstrada.md) — Lyricist whose words were officially settled for the Brazilian anthem around the 1922 independence centenary.
+- [Deodoro da Fonseca](entities/DeodoroDaFonseca.md) — Republican marshal whose regime kept the older Brazilian anthem tune after the empire fell.
+- [Fafa de Belem](entities/FafaDeBelem.md) — Singer whose slow anthem performances at Diretas Ja rallies turned official music into democratic protest sound.
+- [Diretas Ja](entities/DiretasJa.md) — Brazilian democratic-election movement where anthem performance became mass protest symbolism.
+- [Louis Moreau Gottschalk](entities/LouisMoreauGottschalk.md) — Composer whose Rio visit and anthem-inspired music gave Brazil's anthem an international musical afterlife.
+- [Socrates (Footballer)](entities/SocratesFootballer.md) — Brazilian footballer associated with Diretas Ja, disambiguated from the philosopher Socrates page.
 - [郅恽 / Zhi Yun (Eastern Han)](entities/ZhiYunEasternHan.md) — Eastern Han adviser linking Guo Shengtong's deposition to Liu Qiang's later crown-prince withdrawal.
 - [刘杨 / Liu Yang, Zhending King (Eastern Han)](entities/LiuYangZhendingKingEasternHan.md) — Hebei ally whose support explains Guo Shengtong's founding-era political marriage to Liu Xiu.
 - [裴遵 / Pei Zun (Eastern Han)](entities/PeiZunEasternHan.md) — Dunhuang official who narrows Shache recognition and reports Western Regions hostage-deterrence requests.
@@ -3337,7 +3353,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney](entities/Sydney.md) — Australian city used as the source's beach/outdoor lifestyle and drone lifeguard case.
 - [CyberCab](entities/CyberCab.md) — Tesla dedicated robotaxi vehicle in the source's Austin rollout discussion.
 - [Gansu / 甘肃](entities/Gansu.md) — Landing setting for LandSpace's Zhuque-3 Yao-2 first-stage recovery in the source.
-- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected Founding Fathers, Elizabethan, Troubles, Mayerling/Habsburg, and two-part Odyssey narrative branches.
+- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected Brazil anthem, South Africa reconciliation, Founding Fathers, Elizabethan, Troubles, Mayerling/Habsburg, Odyssey, and Roman Civil War branches.
 - [The Troubles](entities/TheTroubles.md) — Northern Ireland conflict branch framed through partition, institutional discrimination, loyalist violence, civil-rights protest, and street-war escalation.
 - [Northern Ireland](entities/NorthernIreland.md) — UK region where partition, Catholic grievances, unionist fear, policing legitimacy, and Westminster intervention converge in the sources.
 - [Edward Carson](entities/EdwardCarson.md) — Unionist leader whose 1912 covenant and volunteers supply an armed-precedent memory in the Part 1 source.
@@ -9414,7 +9430,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [TPU](entities/TPU.md) — Google's tensor-processing-unit chip family, discussed as both a cloud-model-enterprise stack layer and a specialized AI-chip alternative to Nvidia GPUs for some workloads.
 - [Latin America](entities/LatinAmerica.md) — Regional frame connecting Trump-era investment, U.S.-China strategic competition, critical minerals, and earlier security-driven rightward politics.
 - [China](entities/China.md) — Country context spanning strategic investment, family law, lunar governance, batteries, and advanced AI model-access restrictions.
-- [Brazil](entities/Brazil.md) — Latin America investment case for a U.S.-backed rare-earth mine and BYD's China-linked factory presence.
+- [Brazil](entities/Brazil.md) — Country page synthesizing anthem and identity history with development, Amazon, payments, law, commodities, and strategic-minerals cases.
 - [Chile](entities/Chile.md) — Latin America country node now covering both copper/undersea-cable strategy and the South American fishmeal supply cluster with Peru and Ecuador.
 - [Paraguay](entities/Paraguay.md) — Possible mineral-project destination in the Latin America investment boom.
 - [Nigeria](entities/Nigeria.md) — Jollof-price shock case where food inflation, diesel, roads, weather, and wages make a staple dish unaffordable.
@@ -10474,6 +10490,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [National Anthem Political Plasticity](concepts/NationalAnthemPoliticalPlasticity.md) — Pattern where an official anthem can be claimed by opposed movements because its emotional authority exceeds one regime.
+- [Regime Symbol Continuity](concepts/RegimeSymbolContinuity.md) — Pattern where a public symbol survives regime change because it has become usable national memory.
+- [Slavery National Identity Contradiction](concepts/SlaveryNationalIdentityContradiction.md) — Tension between national liberty or unity claims and a historical formation built on enslaved labor.
 - [Political Marriage Alliance Depreciation / 政治婚姻联盟折价](concepts/PoliticalMarriageAllianceDepreciation.md) — Pattern where a marriage alliance loses central leverage after the original military or political need declines.
 - [Generative AI Hollywood Production](concepts/GenerativeAIHollywoodProduction.md) — Hollywood-specific AI adoption across synthetic scenes, stunts, effects, planning, editing, platform infrastructure, and backlash.
 - [Synthetic Performers](concepts/SyntheticPerformers.md) — AI-generated actor-like figures that sit between character, performer, visual effect, and generated asset.

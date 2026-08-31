@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1546
+topic_total_pages: 1548
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1454,6 +1454,9 @@ topic_entities:
   - key: "Bogside"
     title: "Bogside"
     url: "/wiki/entities/bogside/"
+  - key: "Brazil"
+    title: "Brazil"
+    url: "/wiki/entities/brazil/"
   - key: "Bucephalus"
     title: "Bucephalus / 布西法拉斯"
     url: "/wiki/entities/bucephalus/"
@@ -3738,6 +3741,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "681-brazil-the-emperors-anthem-part-5-glt5596929385"
+    title: "681. Brazil: The Emperor's Anthem (Part 5)"
+    url: "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
   - key: "682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080"
     title: "682. South Africa: Mandela and the Death of Apartheid (Part 6)"
     url: "/wiki/sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080/"

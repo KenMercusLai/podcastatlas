@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8655
+wiki_total_pages: 8670
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "LouisHong"
     title: "Louis Hong / 洪力德"
     url: "/wiki/entities/louishong/"
+  - key: "LouisMoreauGottschalk"
+    title: "Louis Moreau Gottschalk"
+    url: "/wiki/entities/louismoreaugottschalk/"
   - key: "LouisaMayAlcott"
     title: "Louisa May Alcott / 奥尔科特"
     url: "/wiki/entities/louisamayalcott/"

@@ -14480,6 +14480,10 @@ Ingested the 2026-08-31 The Intelligence episode on Hollywood AI production, syn
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-01] ingest | 681. Brazil: The Emperor's Anthem (Part 5)
+
+Ingested the 2026-06-21 The Rest Is History episode on Brazil's national anthem, Portuguese court relocation to Rio, Dom Pedro I's independence break, imperial slavery and abolition pressure, Pedro II-era identity, republican reuse of Francisco Manuel da Silva's tune, Osorio Duque Estrada's 1922 lyrics settlement, flag symbolism, and Diretas Ja protest performance. Created `BrazilianNationalAnthem`, `BrazilianFlag`, `BrazilianIndependence`, `BrazilianEmpire`, `DomJoaoVI`, `DomPedroI`, `DomPedroII`, `MariaLeopoldina`, `FranciscoManuelDaSilva`, `OsorioDuqueEstrada`, `DeodoroDaFonseca`, `FafaDeBelem`, `DiretasJa`, `LouisMoreauGottschalk`, `SocratesFootballer`, `NationalAnthemPoliticalPlasticity`, `RegimeSymbolContinuity`, and `SlaveryNationalIdentityContradiction`; migrated and updated `Brazil`, and updated `TheRestIsHistory`. No settled contradiction found; the source is treated as an anthem-centered narrative rather than a complete political, musicological, or slavery history of Brazil.
+
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》719丨光武帝刘秀算不算渣男？
 
 Ingested the 2026-06-22 芮淇讲透资治通鉴 episode backfilling Jianwu 17 / 41 CE. Created `ZhiYunEasternHan`, `LiuYangZhendingKingEasternHan`, `PeiZunEasternHan`, and `PoliticalMarriageAllianceDepreciation`; updated Liu Xiu, Guo Shengtong, Yin Lihua, Liu Qiang, Liu Fu, Ma Yuan, Ji Tong, Shache, maternal-status succession, capacity-bound frontier commitment, frontier recognition credibility, overview, and index. No settled contradiction found; 郭盛通 is normalized to the established Guo Shengtong route, and Zhending Liu Yang is kept distinct from Liu Yang / Liu Zhuang / Mingdi.
@@ -14491,6 +14495,10 @@ Ran health, identity validation, and lint. Health scanned 16,628 wiki pages with
 ## [2026-09-01] ingest | Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick
 
 Ingested the 2026-06-22 Huberman Lab episode with Paul Eastwick on attraction, mate selection, dating apps, repeated social contact, perceived similarity, social support, attachment, sexual satisfaction, and shared relationship narratives. Created `PaulEastwick`, `IdiosyncraticAttraction`, `DatingAppMarketplaceDynamics`, `RepeatedContactDating`, `PerceivedSimilarityInRelationships`, and `SharedRelationshipNarrative`; migrated and updated `SelfSimilarityInIntimacy` and `RelationshipNeedDiversification`; updated `HubermanLab`, `AndrewHuberman`, overview, and index. No settled contradiction found; app-swipe rates, age-preference data, income-effect claims, gendered support patterns, same-gender dating observations, attachment-change claims, and sexual-satisfaction claims remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] lint | Wiki health check
 

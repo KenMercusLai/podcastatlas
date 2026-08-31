@@ -1654,6 +1654,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "681-brazil-the-emperors-anthem-part-5-glt5596929385": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080": [
     {
       "key": "history",
@@ -10782,6 +10789,20 @@
       "url": "/topics/culture/"
     }
   ],
+  "Brazil": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "BrazilianNationalAnthem": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Breakneck": [
     {
       "key": "technology",
@@ -18464,6 +18485,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "DiretasJa": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "DisabilityAccessInCombatSports": [
@@ -36790,6 +36818,13 @@
       "url": "/topics/history/"
     }
   ],
+  "LouisMoreauGottschalk": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "LouisaMayAlcott": [
     {
       "key": "culture",
@@ -54496,6 +54531,13 @@
     }
   ],
   "SocialTrustAsStateCapacity": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "SocratesFootballer": [
     {
       "key": "politics",
       "label": "Politics",

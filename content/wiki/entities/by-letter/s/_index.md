@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8655
+wiki_total_pages: 8670
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -791,6 +791,9 @@ wiki_pages:
   - key: "SocietyOfActuaries"
     title: "Society of Actuaries"
     url: "/wiki/entities/societyofactuaries/"
+  - key: "SocratesFootballer"
+    title: "Socrates (Footballer)"
+    url: "/wiki/entities/socratesfootballer/"
   - key: "Socrates"
     title: "Socrates / 苏格拉底"
     url: "/wiki/entities/socrates/"

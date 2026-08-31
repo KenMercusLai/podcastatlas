@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6172
+wiki_total_pages: 6175
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "RegimeBasicBaseStabilization"
     title: "Regime Basic-Base Stabilization / 政权基本盘稳定"
     url: "/wiki/concepts/regimebasicbasestabilization/"
+  - key: "RegimeSymbolContinuity"
+    title: "Regime Symbol Continuity"
+    url: "/wiki/concepts/regimesymbolcontinuity/"
   - key: "RegionalAdministrativeFragmentation"
     title: "Regional Administrative Fragmentation"
     url: "/wiki/concepts/regionaladministrativefragmentation/"

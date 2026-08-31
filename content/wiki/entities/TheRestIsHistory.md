@@ -19,7 +19,8 @@ sources:
   - 683-washington-hero-of-the-revolution-part-1-glt3752138067
   - 682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080
   - 701-roman-civil-war-rise-of-the-general-part-1-glt1262857909
-last_updated: 2026-08-31
+  - 681-brazil-the-emperors-anthem-part-5-glt5596929385
+last_updated: 2026-09-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,11 +28,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, a Homeric literary-retelling branch, a Washington-to-Franklin Founding Fathers branch, and now the opening of a Roman Civil War branch rather than a complete show catalogue.
+The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, a Homeric literary-retelling branch, founding and Roman political-crisis branches, and national-symbol episodes on South Africa and Brazil rather than a complete show catalogue.
 
 ## Current Profile
 
-The current wiki profile covers seven show uses. The Elizabeth I versus Catholics sequence treats court security, dynastic succession, espionage, privateering, the Dutch Revolt, Mary Stuart, and the Armada path as a connected confessional-political field. The Troubles sequence treats Northern Ireland's escalation as a series of institutional, memory, policing, paramilitary, and counterinsurgency decisions rather than as timeless hatred. The South Africa branch treats [[NelsonMandela]]'s embrace of the [[Springboks]], [[RugbyWorldCup1995|1995 Rugby World Cup]], and fused anthem as a case of [[SymbolicReconciliationStatecraft|symbolic reconciliation statecraft]] after [[Apartheid|apartheid]]. The two-part Mayerling branch treats late-Habsburg scandal as a convergence of imperial family formation, Vienna modernity, nationalism, mental distress, clandestine romance, Catholic burial, information suppression, and succession damage around [[CrownPrinceRudolf]] and [[MaryVetsera]]. The Odyssey branch uses the show's narrative method across both halves of [[TheOdyssey]], moving from [[HomericNostos]], monsters, fantasy geography, and crew failure to recognition, hospitality, divine intervention, domestic loyalty, and morally disturbing revenge around [[Odysseus]]' return. The Founding Fathers branch starts with [[GeorgeWashington]] and [[ValleyForge]] as a military-endurance, public-dignity, and slavery-contradiction case before moving through [[BenjaminFranklin]]'s self-making, science, British loyalty rupture, French diplomacy, constitutional pragmatism, and late abolitionist turn. The Roman Civil War branch opens with [[GaiusMarius]], using his provincial outsider ascent, [[CursusHonorum|cursus honorum]] path, [[PopularisPolitics|popularis]] positioning, the Jugurthine War, and the early [[LuciusCorneliusSulla|Sulla]] rivalry to backfill the pre-Caesar [[LateRomanRepublicCrisis]].
+The current wiki profile covers eight show uses. The Elizabeth I versus Catholics sequence treats court security, dynastic succession, espionage, privateering, the Dutch Revolt, Mary Stuart, and the Armada path as a connected confessional-political field. The Troubles sequence treats Northern Ireland's escalation as a series of institutional, memory, policing, paramilitary, and counterinsurgency decisions rather than as timeless hatred. The South Africa branch treats [[NelsonMandela]]'s embrace of the [[Springboks]], [[RugbyWorldCup1995|1995 Rugby World Cup]], and fused anthem as [[SymbolicReconciliationStatecraft|symbolic reconciliation statecraft]] after [[Apartheid|apartheid]]. The Brazil branch uses the [[BrazilianNationalAnthem|Brazilian national anthem]] to connect colonial extraction, slavery, [[DomPedroI]], the [[BrazilianEmpire]], republican reuse, 1922 lyrics, and democratic protest under [[NationalAnthemPoliticalPlasticity]]. The two-part Mayerling branch treats late-Habsburg scandal as a convergence of imperial family formation, Vienna modernity, nationalism, mental distress, clandestine romance, Catholic burial, information suppression, and succession damage around [[CrownPrinceRudolf]] and [[MaryVetsera]]. The Odyssey branch uses the show's narrative method across both halves of [[TheOdyssey]], moving from [[HomericNostos]], monsters, fantasy geography, and crew failure to recognition, hospitality, divine intervention, domestic loyalty, and morally disturbing revenge around [[Odysseus]]' return. The Founding Fathers branch starts with [[GeorgeWashington]] and [[ValleyForge]] as a military-endurance, public-dignity, and slavery-contradiction case before moving through [[BenjaminFranklin]]'s self-making, science, British loyalty rupture, French diplomacy, constitutional pragmatism, and late abolitionist turn. The Roman Civil War branch opens with [[GaiusMarius]], using his provincial outsider ascent, [[CursusHonorum|cursus honorum]] path, [[PopularisPolitics|popularis]] positioning, the Jugurthine War, and the early [[LuciusCorneliusSulla|Sulla]] rivalry to backfill the pre-Caesar [[LateRomanRepublicCrisis]].
 
 ## Key Characteristics
 
@@ -39,15 +40,15 @@ The current wiki profile covers seven show uses. The Elizabeth I versus Catholic
 - Its Founding Fathers branch connects Washington's military endurance and public restraint with Franklin's biography, persona, science, diplomacy, founding documents, and moral contradiction.
 - Its Elizabethan branch connects dynastic vulnerability, Catholic-Protestant conflict, intelligence work, maritime predation, and war escalation.
 - Its Northern Ireland branch connects historical memory, state design, civil rights, policing legitimacy, armed mobilization, and counterinsurgency backlash.
-- Its South Africa branch connects [[Apartheid|apartheid]], rugby, anthem compromise, and Mandela's inclusion of former opponent symbols.
+- Its South Africa and Brazil branches use national anthems, sport, flags, monarchy, slavery, dictatorship, and protest to show how public symbols can be inherited and reworked.
 - Its Roman Civil War, Mayerling, and Homeric branches show military ascent, private scandal, and literary return becoming politically, religiously, or morally consequential.
-- Across branches, the sources usually resist single-cause inevitability while still showing how institutions make private acts politically consequential.
+- Across branches, the sources usually resist single-cause inevitability while showing how institutions make private acts, inherited symbols, or narrative memories politically consequential.
 
 ## Evidence
 
 - Founding Fathers branch: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] follows [[GeorgeWashington]] from Virginia gentry, imperial resentment, and command selection into [[ValleyForge]], [[StrategicEnduranceMilitaryCommand]], [[RepublicanRestraintLeadership]], and [[RevolutionaryMilitarySlaveryContradiction]], while [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] follows [[BenjaminFranklin]] from Puritan Boston, printing, journalism, science, and British loyalty into the [[DeclarationOfIndependence]], French alliance, [[TreatyOfParis1783|Treaty of Paris]], constitutional compromise, and late abolitionist turn.
-- South Africa reconciliation branch: [[682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080]] follows [[SouthAfrica]], [[NelsonMandela]], the [[AfricanNationalCongress|ANC]], [[Afrikaners]], the [[Springboks]], [[RugbyWorldCup1995|1995 Rugby World Cup]], [[NkosiSikelelIAfrika|Nkosi Sikelel' iAfrika]], and [[DieStemVanSuidAfrika|Die Stem]] as a symbolic transition field after [[Apartheid|apartheid]].
-- Elizabethan security-state branch: [[691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561]], [[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]], [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]], and [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] follow [[ElizabethI|Elizabeth I]], [[MaryQueenOfScots|Mary, Queen of Scots]], [[WilliamCecil|William Cecil / Lord Burleigh]], [[FrancisWalsingham]], priest missions, plots, trial, and execution.
+- National-symbol branches: [[682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080]] follows [[SouthAfrica]], [[NelsonMandela]], the [[AfricanNationalCongress|ANC]], [[Afrikaners]], the [[Springboks]], [[RugbyWorldCup1995|1995 Rugby World Cup]], [[NkosiSikelelIAfrika|Nkosi Sikelel' iAfrika]], and [[DieStemVanSuidAfrika|Die Stem]] as a symbolic transition field after [[Apartheid|apartheid]]; [[681-brazil-the-emperors-anthem-part-5-glt5596929385]] follows [[Brazil]], [[BrazilianNationalAnthem]], [[DomPedroI]], [[DomPedroII]], [[FranciscoManuelDaSilva]], [[OsorioDuqueEstrada]], [[BrazilianFlag]], [[FafaDeBelem]], and [[DiretasJa]] as a monarchy-to-republic and protest-symbol field.
+- Elizabethan security-state branch: [[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]], [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]], and [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] follow [[ElizabethI|Elizabeth I]], [[MaryQueenOfScots|Mary, Queen of Scots]], [[WilliamCecil|William Cecil / Lord Burleigh]], [[FrancisWalsingham]], priest missions, plots, trial, and execution.
 - Elizabethan maritime and Dutch-war branch: [[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] and [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] connect [[FrancisDrake]], [[JohnHawkins]], the [[GoldenHind]], the [[DutchRevolt]], [[Antwerp]], [[TreatyOfNonsuch]], and [[PhilipSidney|Sir Philip Sidney]] to the same war path.
 - Northern Ireland escalation branch: [[697-the-troubles-murder-in-belfast-part-1-glt4877520736]], [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]], and [[699-the-troubles-return-of-the-ira-part-3-glt9519811642]] move from partition and institutional discrimination through civil-rights confrontation, loyalist violence, British Army deployment, the [[ProvisionalIRA]], [[FallsCurfew]], and [[OperationDemetrius]].
 - Roman Civil War branch: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] opens the sequence through [[GaiusMarius]], [[Jugurtha]], [[QuintusCaeciliusMetellusNumidicus]], [[LuciusCorneliusSulla]], the [[Gracchi]], [[RomanExpansionMoralAnxiety]], [[NovusHomoOutsiderPolitics]], and [[MilitaryPersonalization]] before Caesar's generation.
@@ -60,14 +61,19 @@ This page summarizes only the episodes currently ingested into the wiki. The sho
 
 ## What Changed
 
-- Added the South Africa branch through Mandela, rugby, apartheid memory, and anthem compromise.
+- Added the Brazil national-anthem branch through monarchy, republic, slavery, flag symbolism, and democratic-protest performance.
 - Added the Roman Civil War branch through Marius, the Jugurthine War, and pre-Caesar republican crisis.
 - Expanded the Founding Fathers branch backward from Franklin into Washington, Valley Forge, and military endurance.
 - Expanded the Mayerling/Habsburg branch from one aftermath episode to a two-part sequence with prehistory and aftermath.
-- Added the two-part Odyssey literary-retelling branch alongside the historical sequences.
+- Added the South Africa branch through Mandela, rugby, apartheid memory, and anthem compromise.
 
 ## Relationships
 
+- [[Brazil]] - national setting for the anthem, monarchy, slavery, and republic branch.
+- [[BrazilianNationalAnthem]] - central object in the Brazil episode's national-symbol reading.
+- [[NationalAnthemPoliticalPlasticity]] - concept grounded by the Brazil anthem episode.
+- [[RegimeSymbolContinuity]] - concept linking Brazil's anthem tune and flag colors across regime change.
+- [[SlaveryNationalIdentityContradiction]] - source qualification tying Brazilian liberty symbolism to enslaved labor.
 - [[GeorgeWashington]] - founding figure at the center of the Washington and Valley Forge branch.
 - [[ValleyForge]] - military-survival and memory site added by the Washington episode.
 - [[StrategicEnduranceMilitaryCommand]] - command pattern grounded by the Washington branch.
@@ -94,6 +100,6 @@ This page summarizes only the episodes currently ingested into the wiki. The sho
 - [[TheOdyssey]] - Homeric literary-retelling branch now represented across episodes 687 and 688.
 - [[HomericNostos]] - first-half Odyssey pattern added by episode 687.
 - [[HomericHomecomingRecognition]] - interpretive pattern emphasized by the Odyssey retelling.
-- [[HistoricalMemoryContest]] - recurring interpretive concern across Drake, Northern Ireland, and Habsburg tragedy memory.
+- [[HistoricalMemoryContest]] - recurring interpretive concern across Drake, Northern Ireland, Habsburg tragedy memory, and national symbols.
 - [[DynasticHeirRoleEntrapment]] - new Mayerling prehistory concept grounded by the show.
 - [[DynasticHeirLossShock]] - Mayerling succession pattern newly grounded by the show.

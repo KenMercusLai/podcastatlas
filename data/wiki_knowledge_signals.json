@@ -5149,6 +5149,156 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/brandedproducedifferentiation/"
     },
+    "Brazil": {
+      "episode_count": 11,
+      "show_count": 6,
+      "source_note_count": 11,
+      "sources": [
+        {
+          "episode_file": "服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线 [1004810677].md",
+          "key": "fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677",
+          "show": "声动早咖啡",
+          "title": "服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线",
+          "url": "/wiki/sources/fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677/"
+        },
+        {
+          "episode_file": "Pump and circumstance： is China the new OPEC？ [6a7c37287cf3c58886773a66].md",
+          "key": "pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66",
+          "show": "Economist Podcasts",
+          "title": "Pump and circumstance: is China the new OPEC?",
+          "url": "/wiki/sources/pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66/"
+        },
+        {
+          "episode_file": "Taking the shine off： albedo and global temperatures [6a730fdaca067b295bab9760].md",
+          "key": "taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760",
+          "show": "Economist Podcasts",
+          "title": "Taking the shine off: albedo and global temperatures",
+          "url": "/wiki/sources/taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760/"
+        },
+        {
+          "episode_file": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？ [ltvSGOV8hT9_-l7YP9QaMdgJMYrf].md",
+          "key": "139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf",
+          "show": "起朱楼宴宾客",
+          "title": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？",
+          "url": "/wiki/sources/139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_910932b3b44bb69cf2e0cdc6ef149882_35224418 [default.mp3_ywr3ahjkcgo_910932b3b44bb69cf2e0cdc6ef149882_35224418].md",
+          "key": "the-little-pet-fish-that-saved-a-town-in-the-amazon",
+          "show": "Planet Money",
+          "title": "The little pet fish that saved a town in the Amazon",
+          "url": "/wiki/sources/the-little-pet-fish-that-saved-a-town-in-the-amazon/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983 [default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983].md",
+          "key": "how-to-get-what-greenland-has-with-permission",
+          "show": "Planet Money",
+          "title": "How to get what Greenland has, with permission",
+          "url": "/wiki/sources/how-to-get-what-greenland-has-with-permission/"
+        },
+        {
+          "episode_file": "Latin lessons： the Donroe-doctrine boost [6a4233e26b6690f46aae4e3d].md",
+          "key": "latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d",
+          "show": "Economist Podcasts",
+          "title": "Latin lessons: the Donroe-doctrine boost",
+          "url": "/wiki/sources/latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d/"
+        },
+        {
+          "episode_file": "74.全球上瘾：啊，咖啡！我黑色的阿波罗！ [678615763].md",
+          "key": "74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763",
+          "show": "蜜獾吃书",
+          "title": "74.全球上瘾：啊，咖啡！我黑色的阿波罗！",
+          "url": "/wiki/sources/74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b53d1604763c611df9511b4fedb13a7f_29123050 [default.mp3_ywr3ahjkcgo_b53d1604763c611df9511b4fedb13a7f_29123050].md",
+          "key": "the-giant-factory-town-that-might-be-a-giant-mistake",
+          "show": "Planet Money",
+          "title": "The giant factory town that might be a giant mistake",
+          "url": "/wiki/sources/the-giant-factory-town-that-might-be-a-giant-mistake/"
+        },
+        {
+          "episode_file": "Working memory： the surprising decline of dementia [6a6b0eeca585d3be78cd9d1b].md",
+          "key": "working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b",
+          "show": "Economist Podcasts",
+          "title": "Working memory: the surprising decline of dementia",
+          "url": "/wiki/sources/working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b/"
+        },
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/brazil/"
+    },
+    "BrazilianEmpire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/brazilianempire/"
+    },
+    "BrazilianFlag": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/brazilianflag/"
+    },
+    "BrazilianIndependence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/brazilianindependence/"
+    },
+    "BrazilianNationalAnthem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/braziliannationalanthem/"
+    },
     "BreachOfSurrenderTrust": {
       "episode_count": 2,
       "show_count": 1,
@@ -10451,6 +10601,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/dengzunlatehan/"
     },
+    "DeodoroDaFonseca": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/deodorodafonseca/"
+    },
     "Derry": {
       "episode_count": 3,
       "show_count": 1,
@@ -10764,6 +10930,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/directremonstrancecriminalization/"
     },
+    "DiretasJa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/diretasja/"
+    },
     "DisasterOmenCrisisRedirection": {
       "episode_count": 1,
       "show_count": 1,
@@ -10903,6 +11085,54 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/dollyparton/"
+    },
+    "DomJoaoVI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/domjoaovi/"
+    },
+    "DomPedroI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/dompedroi/"
+    },
+    "DomPedroII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/dompedroii/"
     },
     "DomesticBagSupplyChainUpgrade": {
       "episode_count": 1,
@@ -14641,6 +14871,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/fazheneasternhan/"
     },
+    "FafaDeBelem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/fafadebelem/"
+    },
     "FamilyRiskDiversification": {
       "episode_count": 1,
       "show_count": 1,
@@ -16429,6 +16675,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/franciswalsingham/"
+    },
+    "FranciscoManuelDaSilva": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/franciscomanueldasilva/"
     },
     "FrancoAmericanAlliance1778": {
       "episode_count": 2,
@@ -27774,6 +28036,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/lotuseaters/"
     },
+    "LouisMoreauGottschalk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/louismoreaugottschalk/"
+    },
     "LouisianaPurchase": {
       "episode_count": 1,
       "show_count": 1,
@@ -29340,6 +29618,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/maoyieasternhan/"
+    },
+    "MariaLeopoldina": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/marialeopoldina/"
     },
     "MarkCarney": {
       "episode_count": 2,
@@ -31441,6 +31735,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/natesilver/"
     },
+    "NationalAnthemPoliticalPlasticity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/nationalanthempoliticalplasticity/"
+    },
     "NationalInstitutesOfHealth": {
       "episode_count": 3,
       "show_count": 1,
@@ -32862,6 +33172,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/orientalleaf/"
+    },
+    "OsorioDuqueEstrada": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/osorioduqueestrada/"
     },
     "OutdoorVehicleLifestyleDesign": {
       "episode_count": 1,
@@ -36668,6 +36994,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/regencyundercompoundcrisis/"
     },
+    "RegimeSymbolContinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/regimesymbolcontinuity/"
+    },
     "RegistryBasedPoliticalExclusion": {
       "episode_count": 1,
       "show_count": 1,
@@ -39636,6 +39978,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/situationalstrictlenientgovernance/"
     },
+    "SlaveryNationalIdentityContradiction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/slaverynationalidentitycontradiction/"
+    },
     "SleepAsDailyHealthAccount": {
       "episode_count": 6,
       "show_count": 6,
@@ -39898,6 +40256,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/socialmediaproductliability/"
+    },
+    "SocratesFootballer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/socratesfootballer/"
     },
     "SongChongLateHan": {
       "episode_count": 1,
@@ -42809,9 +43183,9 @@
       "url": "/wiki/entities/theodyssey/"
     },
     "TheRestIsHistory": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -42924,9 +43298,16 @@
           "show": "The Rest Is History",
           "title": "701. Roman Civil War: Rise of the General (Part 1)",
           "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        },
+        {
+          "episode_file": "GLT5596929385 [GLT5596929385].md",
+          "key": "681-brazil-the-emperors-anthem-part-5-glt5596929385",
+          "show": "The Rest Is History",
+          "title": "681. Brazil: The Emperor's Anthem (Part 5)",
+          "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url": "/wiki/entities/therestishistory/"
     },
     "TheTroubles": {

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2132
+topic_total_pages: 2134
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3992,6 +3992,9 @@ topic_entities:
   - key: "DinoraFigueroa"
     title: "Dinora Figueroa"
     url: "/wiki/entities/dinorafigueroa/"
+  - key: "DiretasJa"
+    title: "Diretas Ja"
+    url: "/wiki/entities/diretasja/"
   - key: "DonaldTrump"
     title: "Donald Trump"
     url: "/wiki/entities/donaldtrump/"
@@ -5072,6 +5075,9 @@ topic_entities:
   - key: "SinnFein"
     title: "Sinn Fein"
     url: "/wiki/entities/sinnfein/"
+  - key: "SocratesFootballer"
+    title: "Socrates (Footballer)"
+    url: "/wiki/entities/socratesfootballer/"
   - key: "SophiePedder"
     title: "Sophie Pedder"
     url: "/wiki/entities/sophiepedder/"

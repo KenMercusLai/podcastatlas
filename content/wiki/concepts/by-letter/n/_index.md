@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6172
+wiki_total_pages: 6175
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "NASACareerPathways"
     title: "NASA Career Pathways"
     url: "/wiki/concepts/nasacareerpathways/"
+  - key: "NationalAnthemPoliticalPlasticity"
+    title: "National Anthem Political Plasticity"
+    url: "/wiki/concepts/nationalanthempoliticalplasticity/"
   - key: "NationalBrandNarrativeBackfire"
     title: "National Brand Narrative Backfire"
     url: "/wiki/concepts/nationalbrandnarrativebackfire/"
