@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c2cfe394cf9349132dee08a3f54ec66b7008c0feef880562a4f773b35cd316d8",
       "12fcd2361e57100445bf354b0eb7575c15cf3f1b1a480263e5f7305fe6d2cc3f",
       "3e56e9e9ac6b0033635b07c4c1faca2ab76abcae9f6925f9bdb82a6baf74e945",
       "5b34a941f30837a088f50a54d9bf9c3cade0c94d22881580c0deac8064eadaea",
@@ -444,11 +445,33 @@
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0"
     ],
-    "paragraph_count": 442
+    "paragraph_count": 443
   },
-  "overview_commit": "b7033d3911d3cf87448560870b06d28bd523b52c",
-  "overview_digest": "36f38bbfb074fc935ce450b96a03c440e2a68b64a7157ca067f7a20118d7d2e7",
+  "overview_commit": "0ad00ef47a40cbd4346e2ac9658288295834863b",
+  "overview_digest": "b60916ea78c1b3a2dd44bb528fcd1a219abcc7f9b5ecc743c9d89c29194a78b9",
   "paragraphs": [
+    {
+      "id": "c2cfe394cf9349132dee08a3f54ec66b7008c0feef880562a4f773b35cd316d8",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma|《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 56-57 CE / Zhongyuan transition before [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]]. It adds [[HuanTanEasternHan|桓谭]], [[ZhengXingEasternHan|郑兴]], and [[ImperialPreferenceSpeechRisk|帝王偏好下的表达风险]], while extending [[LiuXiu|光武帝刘秀]], [[JiaKuiEasternHan|贾逵]], [[ChenweiEvidentiaryCritique|谶纬证据批判]], and [[ChenweiPolitics|谶纬政治]]. Its core synthesis is that Guangwu's flaw appears where chenwei becomes legitimacy-sensitive evidence: Liu Xiu can reject excessive auspicious-sign recording, yet still publicizes fuming books, relies on the 赤伏符, and nearly executes Huan Tan for saying prophetic books are not classics. No settled contradiction is recorded; Jia Kui remains a source-scoped accommodation contrast, while Southern Xiongnu succession and the Houtu altar notice are retained as setup rather than new standalone branches.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ChenweiEvidentiaryCritique",
+        "ChenweiPolitics",
+        "HuanTanEasternHan",
+        "ImperialPreferenceSpeechRisk",
+        "JiaKuiEasternHan",
+        "LiuXiu",
+        "RuiqiJiangtouZizhiTongjian",
+        "ZhengXingEasternHan",
+        "zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma",
+        "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr"
+      ]
+    },
     {
       "id": "12fcd2361e57100445bf354b0eb7575c15cf3f1b1a480263e5f7305fe6d2cc3f",
       "primary_topic": "science-health-and-climate",

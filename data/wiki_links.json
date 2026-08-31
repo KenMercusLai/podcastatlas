@@ -24367,6 +24367,10 @@
     "title": "桓荣 / Huan Rong (Eastern Han)",
     "url": "/wiki/entities/huanrongeasternhan/"
   },
+  "HuanTanEasternHan": {
+    "title": "桓谭 / Huan Tan (Eastern Han)",
+    "url": "/wiki/entities/huantaneasternhan/"
+  },
   "HuanYanLateHan": {
     "title": "桓焉 / Huan Yan (late Han)",
     "url": "/wiki/entities/huanyanlatehan/"
@@ -25130,6 +25134,10 @@
   "ImperialPetitionOffenseRisk": {
     "title": "Imperial Petition Offense Risk / 申冤上书冒犯风险",
     "url": "/wiki/concepts/imperialpetitionoffenserisk/"
+  },
+  "ImperialPreferenceSpeechRisk": {
+    "title": "帝王偏好下的表达风险 / Imperial Preference Speech Risk",
+    "url": "/wiki/concepts/imperialpreferencespeechrisk/"
   },
   "ImperialPrivateDesireGovernanceRisk": {
     "title": "帝王私欲治理风险 / Imperial Private Desire Governance Risk",
@@ -59235,6 +59243,10 @@
     "title": "郑文公 / Duke Wen of Zheng",
     "url": "/wiki/entities/zhengwengong/"
   },
+  "ZhengXingEasternHan": {
+    "title": "郑兴 / Zheng Xing (Eastern Han)",
+    "url": "/wiki/entities/zhengxingeasternhan/"
+  },
   "ZhengXiu": {
     "title": "郑袖 / Zheng Xiu",
     "url": "/wiki/entities/zhengxiu/"
@@ -63994,6 +64006,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma": {
+    "title": "《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma/"
   },
   "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr": {
     "title": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？",

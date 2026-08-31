@@ -10,16 +10,19 @@ sources:
   - 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550
   - zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh
   - zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr
+  - zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-Liu Xiu / 刘秀 is synthesized in the wiki as the Eastern Han founder whose profile spans restoration warfare, omen-politics management, founding coalition formation, hostage-ransom deterrence, late-life health inference, succession handoff, and later ritual memory as Guangwu emperor. [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]] adds the final reign layer: a terse death notice, indirect [[DongguanHanji|《东观汉记》]] health clues, overwork, learned diligence, and the immediate transition to [[EmperorMingOfHan|汉明帝刘庄]].
+Liu Xiu / 刘秀 is synthesized in the wiki as the Eastern Han founder whose profile spans restoration warfare, omen-politics management, founding coalition formation, chenwei orthodoxy, hostage-ransom deterrence, late-life health inference, succession handoff, and later ritual memory as Guangwu emperor. [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma|Hanji 731]] now qualifies the otherwise positive Guangwu profile by showing that Liu Xiu's reliance on the 赤伏符 and prophetic books could turn scholarly disagreement into capital danger.
 
 ## Current Profile
 
 Earlier Wang Mang-focused sources place Liu Xiu as the Liu-house restoration figure whose victory at the [[KunyangBattle|昆阳之战]] exposes the fragility of [[WangMang|王莽]]'s [[XinDynasty|新朝]]. Those sources also show continuity between rebellion-era prophecy and imperial control: Liu Xiu benefits from mandate and chenwei language but later makes [[ChenweiPolitics|谶纬政治]] less freely available to private actors.
+
+Hanji 731 sharpens this chenwei layer. In 56 CE / Zhongyuan 1, Liu Xiu refuses to have officials over-record reported auspicious signs, showing some restraint around self-praise. The same source then says he publicizes fuming books, often uses chenwei to settle court doubts, and reacts fiercely when [[HuanTanEasternHan|桓谭]] says prophetic books are not classics. Liu Xiu's flaw in this source is therefore not simple credulity alone; it is that a legitimacy tool tied to his own accession becomes hard to contradict safely.
 
 The Geng Yan episode adds Liu Xiu's coalition-building layer. In that account, Liu Xiu needs northern cavalry and capable commanders, and [[GengYanEasternHan|Geng Yan]] becomes valuable because he can connect family resources from [[GengKuangEasternHan|耿况]]'s Shanggu/Youzhou environment to Liu Xiu's campaign. Liu Xiu's praise of Geng Yan as "有志者事竟成" marks him as a ruler who turns talent recognition into founding order. The same source also shows that Liu Xiu's trust is not automatic: [[PengChongEasternHan|彭宠]]'s rebellion forces the Geng family to make loyalty visible through return-to-court and [[GengGuoEasternHan|耿国]]'s service in Luoyang.
 
@@ -32,17 +35,20 @@ Later sources add two afterlives of Guangwu rule. [[zizhi-tongjian-hanji-915-shi
 ## Key Characteristics
 
 - Liu Xiu functions as Wang Mang's successful Liu-house counterpoint, with Kunyang showing the difference between ritualized state grandeur and usable military-political effectiveness.
-- Liu Xiu benefits from prophecy and mandate language during restoration, then helps turn chenwei interpretation into a more monopolized imperial resource.
+- Liu Xiu benefits from prophecy and mandate language during restoration, then helps turn chenwei interpretation into a state-favored and dangerous-to-challenge imperial resource.
 - Hanji 733-2 presents Liu Xiu as a founding coalition builder who recognizes Geng Yan and turns Youzhou cavalry into imperial campaign capacity.
 - Liu Xiu's use of the Geng family depends on managed trust: local military power remains useful only when its loyalty is made visible during Peng Chong's rebellion.
+- Hanji 731 shows Liu Xiu combining auspicious-sign restraint with chenwei rigidity: he rejects excessive recording of omens but nearly executes Huan Tan for rejecting prophetic books.
 - Hanji 732 adds a late-life profile of heavy governing workload, learned diligence, and possible long-term health vulnerability without proving a specific death cause.
-- Hanji 915 adds a source-scoped hostage precedent in which Liu Xiu's court prioritizes public deterrence over ransom even when Yin-family hostages die.
-- Hanji 899 adds Liu Xiu's posthumous role as Guangwu, whose Yuanling sacrifice becomes evidence in later ritual memory and filial order.
+- Later sources preserve Liu Xiu's afterlife as both a hostage-deterrence precedent and Guangwu ritual-memory figure.
 
 ## Evidence
 
 - Restoration and Wang Mang contrast: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] uses Liu Xiu and Kunyang to show the Xin dynasty's collapse under military-political pressure.
 - Prophecy control: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] and [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]] both present Liu Xiu as a prophecy beneficiary whose dynasty later restricts private prophecy production.
+- Chenwei as state guidance: [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma|Hanji 731]] says Liu Xiu treats the 赤伏符 as accession proof, publicizes fuming books, and uses chenwei to resolve court doubts.
+- Anti-chenwei intolerance: [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma|Hanji 731]] says Liu Xiu orders Huan Tan's execution after Huan says chenwei books are not classics, then relents and demotes him.
+- Auspicious-sign restraint: [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma|Hanji 731]] says Liu Xiu declines to have reported sweet springs, red grass, and sweet dew formally glorified because he judges his virtue insufficient.
 - Coalition and commander recognition: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] links Liu Xiu's rise to Geng Yan's alignment, Youzhou cavalry, and Liu Xiu's praise of Geng Yan's determination.
 - Trust management around local force: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] frames the Peng Chong rebellion as a test of whether the Geng family can remain trusted despite prior ties and military power.
 - Death notice and health inference: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]] contrasts Zizhi Tongjian's terse death notice with Dongguan Hanji's earlier health clues.
@@ -53,14 +59,14 @@ Later sources add two afterlives of Guangwu rule. [[zizhi-tongjian-hanji-915-shi
 
 ## Qualifications
 
-These sources address Liu Xiu through different windows rather than a single biography: Wang Mang's fall, prophecy history, Geng Yan's military career, late health clues, succession ritual, hostage deterrence, and later ritual memory. Hanji 732 does not prove Liu Xiu's cause of death; its strongest contribution is the combination of terse death notice, earlier illness records, and overwork evidence. The episode's praise of Liu Xiu by later figures and its moral reading of diligence remain source-scoped evaluation rather than independent proof.
+These sources address Liu Xiu through different windows rather than a single biography: Wang Mang's fall, prophecy history, Huan Tan's anti-chenwei confrontation, Geng Yan's military career, late health clues, succession ritual, hostage deterrence, and later ritual memory. Hanji 731 does not erase Liu Xiu's founding and governing achievements; it qualifies them by showing how a ruler can be restrained in one omen setting and punitive in another. Hanji 732 does not prove Liu Xiu's cause of death; its strongest contribution remains the combination of terse death notice, earlier illness records, and overwork evidence.
 
 ## What Changed
 
-- Added Hanji 732 as Liu Xiu's end-of-life and succession-handoff layer.
-- Reframed Liu Xiu's late diligence as both ruler capacity and possible health cost without naming a definitive disease.
-- Added Dongguan Hanji source comparison as evidence for bounded death-cause inference.
-- Connected Guangwu's death to Mingdi's immediate funeral-order and royal-family transition field.
+- Added Hanji 731 as Liu Xiu's chenwei-reliance and anti-Huan-Tan intolerance layer.
+- Qualified the Guangwu profile by distinguishing auspicious-sign restraint from prophetic-book rigidity.
+- Connected Liu Xiu's legitimacy commitments to the speech-risk comparison among Huan Tan, Zheng Xing, and Jia Kui.
+- Preserved Hanji 732's death-cause inference as bounded health evidence rather than a named diagnosis.
 
 ## Relationships
 
@@ -71,6 +77,10 @@ These sources address Liu Xiu through different windows rather than a single bio
 - [[XinDynasty|新朝]] - regime Liu Xiu helps displace.
 - [[KunyangBattle|昆阳之战]] - battlefield turning point in Liu Xiu's restoration profile.
 - [[ChenweiPolitics|谶纬政治]] - ideological tool Liu Xiu benefits from and later helps centralize.
+- [[HuanTanEasternHan|桓谭]] - scholar whose rejection of chenwei books exposes Liu Xiu's low tolerance for this form of dissent.
+- [[ZhengXingEasternHan|郑兴]] - official whose ambiguity shows a safer speech path under Liu Xiu's chenwei preference.
+- [[JiaKuiEasternHan|贾逵]] - scholar remembered in Hanji 731 as an accommodating chenwei interpreter under the same preference field.
+- [[ImperialPreferenceSpeechRisk|帝王偏好下的表达风险]] - concept grounded by Liu Xiu's reaction to anti-chenwei speech.
 - [[DongguanHanji|《东观汉记》]] - source tradition that supplies earlier health clues for Liu Xiu's death-cause inference.
 - [[ImperialDeathCauseInference|帝王死因史料推断]] - concept grounded by the evidence boundary around Liu Xiu's death.
 - [[ZhaoXiEasternHan|赵熙]] - minister who repairs funeral order after Liu Xiu's death.

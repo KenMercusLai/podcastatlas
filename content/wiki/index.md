@@ -10,6 +10,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [难以影响购票决策的飞机餐，为何成为航司升级重点？](sources/nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273.md) — 声动早咖啡 episode on airline meals as constrained service operations, repeat-purchase signal, controllable cost lever, and paid-meal monetization branch, with side updates on Meituan, Mixue Bingcheng, LPDDR6, and Insta360.
 - [701. Roman Civil War: Rise of the General (Part 1)](sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909.md) — The Rest Is History episode on Gaius Marius, Roman expansion and moral anxiety, the Gracchi legacy, novus homo politics, Metellan patronage, the Jugurthine War, and the emerging Marius-Sulla rivalry.
 - [682. South Africa: Mandela and the Death of Apartheid (Part 6)](sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080.md) — The Rest Is History episode on Mandela, apartheid memory, Springbok rugby, the 1995 Rugby World Cup, Nkosi Sikelel' iAfrika, Die Stem, and symbolic reconciliation.
+- [《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？](sources/zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma.md) — 芮淇讲透资治通鉴 episode on Guangwu emperor Liu Xiu's chenwei reliance, Huan Tan's anti-prophecy remonstrance and near execution, Zheng Xing's ambiguity, Jia Kui's accommodation, and Southern Xiongnu succession routine.
 - [《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？](sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr.md) — 芮淇讲透资治通鉴 episode on Guangwu emperor Liu Xiu's death, Dongguan Hanji health clues, overwork and learned diligence, Zhao Xi's funeral-order repair, Mingdi's accession, Yin Lihua's empress-dowager recognition, and Liu Jing's anonymous-letter provocation to Liu Qiang.
 - [《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄](sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr.md) — 芮淇讲透资治通鉴 episode on Mingdi's 57-58 CE accession support, Liu Cang and Wu Liang, the Shaodang Qiang crisis, Yuanling reporting before Guangwu's tablet, Liu Qiang's death, Liu Jing's relocation, Ji Tong's Liaodong frontier result, and rites/music codification.
 - [《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军](sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh.md) — 芮淇讲透资治通鉴 episode on Geng Yan's Eastern Han founding career, Liu Xiu alignment, Youzhou cavalry, Peng Chong suspicion management, Qinghe/Qi campaign tactics, and post-merit retreat.
@@ -1792,6 +1793,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [桓谭 / Huan Tan (Eastern Han)](entities/HuanTanEasternHan.md) — Guangwu-era scholar whose anti-chenwei remonstrance and Lingtai answer nearly lead to execution.
+- [郑兴 / Zheng Xing (Eastern Han)](entities/ZhengXingEasternHan.md) — Guangwu-era official used as a face-saving ambiguity contrast in the chenwei speech-risk comparison.
 - [Frost & Sullivan / 弗若斯特沙利文](entities/FrostSullivan.md) — Third-party consulting and market-research provider named in the Lao Pu Gold disclosure-quality critique.
 - [South Africa](entities/SouthAfrica.md) — Post-apartheid national setting where Mandela uses rugby and anthem symbolism to stage reconciliation.
 - [Nelson Mandela](entities/NelsonMandela.md) — South African leader whose Springbok and anthem decisions anchor the episode's reconciliation-statecraft branch.
@@ -1983,7 +1986,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [安息 / Parthian Empire](entities/ParthianEmpire.md) — Intermediary polity whose officials' sea-route warning stops Gan Ying's mission toward Da Qin/Rome.
 - [条支国 / Tiaozhi Kingdom](entities/TiaozhiKingdom.md) — Far-western destination named with Da Qin in Gan Ying's mission, kept source-scoped pending fuller geography.
 - [班昭 / Ban Zhao (late Han)](entities/BanZhaoLateHan.md) — Eastern Han historiographical continuator, court teacher, and adviser whose profile links Ban Gu's `Han Shu`, Ban Chao's final-return petition, North Palace women's study, and later Deng-family mourning legitimacy management.
-- [贾逵 / Jia Kui (Eastern Han classicist)](entities/JiaKuiEasternHan.md) — Emperor-He-era shizhong and classicist who defends Liu Kai's yielding and participates in the court classics debate.
+- [贾逵 / Jia Kui (Eastern Han classicist)](entities/JiaKuiEasternHan.md) — Eastern Han classicist whose profile contrasts chenwei accommodation under Guangwu with later legal-moral and classics-debate work under Emperor He.
 - [鲁丕 / Lu Pi (Eastern Han classicist)](entities/LuPiEasternHan.md) — Classicist whose Emperor-He court debate argument makes reason-giving, non-punitive disagreement a governance norm.
 - [弥唐 / Mi Tang (Qiang leader)](entities/MiTangQiangLeader.md) — Shaodang Qiang leader whose sequence begins after Mi Wu's banquet death, then runs through Deng Xun's protection strategy, later conciliation failure, attacks, surrender, failed incorporation, and collapse.
 - [曹凤 / Cao Feng (late Han)](entities/CaoFengLateHan.md) — Emperor-He-era frontier official whose policy prelude and West Sea memorial link Shaodang Qiang instability to fertile land, fishery, salt, migration, tuntian, and state resource administration.
@@ -7147,7 +7150,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose failure during the succession crisis opened the way for Wang Zhengjun and Wang Mang.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated by Wang Mang, whose illness and death preceded Wang Mang's move into acting-emperor status.
 - [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now spans anti-Qin rise, Chu-Han victory, reward settlement, frontier suspicion, and court ritual repair.
-- [Liu Xiu / 刘秀](entities/LiuXiu.md) — Eastern Han founder synthesized through restoration warfare, prophecy control, founding coalition command, late-life health inference, succession handoff, hostage deterrence, and later Guangwu ritual memory.
+- [Liu Xiu / 刘秀](entities/LiuXiu.md) — Eastern Han founder synthesized through restoration warfare, chenwei reliance and control, founding coalition command, late-life health inference, succession handoff, hostage deterrence, and Guangwu ritual memory.
 - [耿弇 / Geng Yan (Eastern Han)](entities/GengYanEasternHan.md) — Eastern Han founding general whose Liu Xiu alignment, Youzhou cavalry role, campaign tactics, and post-merit retreat anchor Hanji 733-2.
 - [吴汉 / Wu Han (Eastern Han)](entities/WuHanEasternHan.md) — Liu Xiu founding general linked to Geng Yan in Youzhou recruitment and Qinghe operations.
 - [耿况 / Geng Kuang (Eastern Han)](entities/GengKuangEasternHan.md) — Geng Yan's father and northern military-family power broker behind the Youzhou cavalry alignment.
@@ -10380,6 +10383,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [帝王偏好下的表达风险 / Imperial Preference Speech Risk](concepts/ImperialPreferenceSpeechRisk.md) — Court-communication risk where advice is judged by alignment with a ruler's preferred legitimacy frame rather than by evidence alone.
 - [Financial Report Operating Metric Integrity / 财报运营指标完整性](concepts/FinancialReportOperatingMetricIntegrity.md) — Disclosure-quality standard requiring operating metrics to be traceable, comparable, and verifiable from base data.
 - [Apartheid](concepts/Apartheid.md) — South African racial-order system whose total social reach and symbolic afterlife give Mandela's reconciliation strategy its stakes.
 - [Symbolic Reconciliation Statecraft](concepts/SymbolicReconciliationStatecraft.md) — Use of inherited public symbols to include former opponents in a new settlement without denying prior harm.
@@ -10542,7 +10546,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Public Agricultural Research Commercialization](concepts/PublicAgriculturalResearchCommercialization.md) - University research path that turns public breeding work into licensed, branded, and farmer-facing crop products.
 - [Commodity Trap Escape](concepts/CommodityTrapEscape.md) - Strategy of escaping interchangeable price competition through differentiation, quality, branding, or protected supply.
 - [根源诊断式进谏 / Root-Cause Remonstrance](concepts/RootCauseRemonstrance.md) — Pattern where advice redirects ritual or surface responses toward the concrete political causes that must be repaired.
-- [谶纬证据批判 / Chenwei Evidentiary Critique](concepts/ChenweiEvidentiaryCritique.md) — Pattern where prophetic or apocryphal texts are challenged through chronology, internal coherence, catalog evidence, and court-use risk.
+- [谶纬证据批判 / Chenwei Evidentiary Critique](concepts/ChenweiEvidentiaryCritique.md) — Pattern where prophetic or apocryphal texts are challenged through classical authority, chronology, internal coherence, catalog evidence, and court-risk constraints.
 - [守拙式临事决断 / Shouzhuo Decisive Restraint](concepts/ShouzhuoDecisiveRestraint.md) — Pattern where restrained, non-showy conduct preserves judgment until a high-risk moment requires a firm boundary and verifiable authority.
 - [Anonymous Slander Retaliation / 匿名诬告式报复](concepts/AnonymousSlanderRetaliation.md) — Pattern where injured palace or office interests use anonymous accusation to recode correction or cleanup as private factional ambition.
 - [Household Misconduct Political Liability / 家门失范政治连带](concepts/HouseholdMisconductPoliticalLiability.md) — Pattern where family, guests, dependents, or domestic disorder become public liability and can outweigh prior moral reputation or patronage.

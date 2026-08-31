@@ -6538,9 +6538,9 @@
       "url": "/wiki/entities/chengyu/"
     },
     "ChenweiEvidentiaryCritique": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单 [lva3Y4hGU7Kn1Z4jMHy6jN4-oyVC].md",
@@ -6548,9 +6548,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
           "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？ [lrHWUpjmjM_hCH3usx26JfxKhOMa].md",
+          "key": "zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/chenweievidentiarycritique/"
     },
     "CheshiHouKingdomLateHan": {
@@ -18821,6 +18828,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/huanrongeasternhan/"
     },
+    "HuanTanEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？ [lrHWUpjmjM_hCH3usx26JfxKhOMa].md",
+          "key": "zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/huantaneasternhan/"
+    },
     "HuanYanLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -19835,6 +19858,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/imperialpetitionoffenserisk/"
+    },
+    "ImperialPreferenceSpeechRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？ [lrHWUpjmjM_hCH3usx26JfxKhOMa].md",
+          "key": "zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/imperialpreferencespeechrisk/"
     },
     "ImperialPrivateDesireGovernanceRisk": {
       "episode_count": 1,
@@ -21063,9 +21102,9 @@
       "url": "/wiki/entities/jiabiaolatehan/"
     },
     "JiaKuiEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？ [lrou5nayE7opB5FavWUz6BQbgGAe].md",
@@ -21073,9 +21112,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》772丨他为何宁愿成为逃犯，也不愿继承家业？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？ [lrHWUpjmjM_hCH3usx26JfxKhOMa].md",
+          "key": "zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/jiakuieasternhan/"
     },
     "JiaKuiLateHan": {
@@ -24842,9 +24888,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -24887,6 +24933,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？ [lrHWUpjmjM_hCH3usx26JfxKhOMa].md",
+          "key": "zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma/"
         }
       ],
       "updated": "2026-08-31",
@@ -47486,6 +47539,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhengsalatehan/"
+    },
+    "ZhengXingEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？ [lrHWUpjmjM_hCH3usx26JfxKhOMa].md",
+          "key": "zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/zhengxingeasternhan/"
     },
     "ZhengZhongEasternHan": {
       "episode_count": 2,

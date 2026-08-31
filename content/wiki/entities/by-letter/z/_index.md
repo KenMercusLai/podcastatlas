@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8584
+wiki_total_pages: 8586
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1286,6 +1286,9 @@ wiki_pages:
   - key: "ZhengZhongFrontierEasternHan"
     title: "郑众 / Zheng Zhong (Eastern Han frontier commander)"
     url: "/wiki/entities/zhengzhongfrontiereasternhan/"
+  - key: "ZhengXingEasternHan"
+    title: "郑兴 / Zheng Xing (Eastern Han)"
+    url: "/wiki/entities/zhengxingeasternhan/"
   - key: "ZhengGuoHydraulicEngineer"
     title: "郑国 / Zheng Guo (Hydraulic Engineer)"
     url: "/wiki/entities/zhengguohydraulicengineer/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6117
+wiki_total_pages: 6118
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "ImperialTitleRetrenchment"
     title: "帝号退回王号 / Imperial Title Retrenchment"
     url: "/wiki/concepts/imperialtitleretrenchment/"
+  - key: "ImperialPreferenceSpeechRisk"
+    title: "帝王偏好下的表达风险 / Imperial Preference Speech Risk"
+    url: "/wiki/concepts/imperialpreferencespeechrisk/"
   - key: "ImperialTeacherHonorRitual"
     title: "帝王尊师礼制 / Imperial Teacher-Honor Ritual"
     url: "/wiki/concepts/imperialteacherhonorritual/"

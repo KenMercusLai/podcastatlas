@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8584
+wiki_total_pages: 8586
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -881,6 +881,9 @@ wiki_pages:
   - key: "HuanYuEasternHan"
     title: "桓虞 / Huan Yu (Eastern Han)"
     url: "/wiki/entities/huanyueasternhan/"
+  - key: "HuanTanEasternHan"
+    title: "桓谭 / Huan Tan (Eastern Han)"
+    url: "/wiki/entities/huantaneasternhan/"
   - key: "HuanJieLateHan"
     title: "桓阶 / Huan Jie (late Han)"
     url: "/wiki/entities/huanjielatehan/"

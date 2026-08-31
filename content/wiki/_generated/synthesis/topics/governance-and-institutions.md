@@ -4,17 +4,29 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-31
-as_of_overview_commit: a42cbe1cd5c9e6c190ee6a3a37ad887f78ca6afb
-input_digest: c017dff8406e8b2190400ba785f50b26b42bbe7be72165f91ccccff805bc9660
+as_of_overview_commit: 0ad00ef47a40cbd4346e2ac9658288295834863b
+input_digest: 3de4fe6cea6d6302f097fcb03b2d0cdcffbe0ace768742d9e7c9047f88b248c6
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 736 now pushes the governance branch back to Mingdi 61-63 CE, adding Liu Cang's trust-preserving withdrawal from central office, Zheng Zhong's refusal of risky princely retainer recruitment, Liang Song's client-network exposure, Dou Mu's forged dowager authority, and Mingdi's anti-flattery treasure-cauldron response. Hanji 737 now pushes the governance branch to Mingdi 64-65 CE early Yongping order, joining empress posthumous-title ritual, Northern Xiongnu trade contact, Zheng Zhong envoy dignity and Duliaoying intelligence, Zong Jun capacity-over-reputation personnel warning, Liu Ying initially tolerated Buddhist/Huang-Lao practice, and eclipse-triggered self-criticism. Later Hanji 738-740 claims remain the continuation: official evaluation, classics education, royal-kin law, title duty, Liu Ying accusation, coercive implication, and partial correction.
+Hanji 731 now adds Guangwu-era chenwei as a governance-risk layer: prophecy can become legitimacy-sensitive state guidance, making Huan Tan's canonical critique dangerous while Zheng Xing's ambiguity and Jia Kui's accommodation show safer but intellectually compromised speech paths. Hanji 736 now pushes the governance branch back to Mingdi 61-63 CE, adding Liu Cang's trust-preserving withdrawal from central office, Zheng Zhong's refusal of risky princely retainer recruitment, Liang Song's client-network exposure, Dou Mu's forged dowager authority, and Mingdi's anti-flattery treasure-cauldron response. Hanji 737 now pushes the governance branch to Mingdi 64-65 CE early Yongping order, joining empress posthumous-title ritual, Northern Xiongnu trade contact, Zheng Zhong envoy dignity and Duliaoying intelligence, Zong Jun capacity-over-reputation personnel warning, Liu Ying initially tolerated Buddhist/Huang-Lao practice, and eclipse-triggered self-criticism. Later Hanji 738-740 claims remain the continuation: official evaluation, classics education, royal-kin law, title duty, Liu Ying accusation, coercive implication, and partial correction.
 
 ## Cross-source Findings
+
+### Early Eastern Han 731 Chenwei Preference And Speech Risk
+
+[[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma|Hanji 731]] adds an early Eastern Han governance case in which [[LiuXiu]] turns [[ChenweiPolitics]] into legitimacy-sensitive state guidance: [[HuanTanEasternHan]] and [[ChenweiEvidentiaryCritique]] show that rejecting prophetic books as non-classics can be punished as offense, while [[ZhengXingEasternHan]], [[JiaKuiEasternHan]], and [[ImperialPreferenceSpeechRisk]] show ambiguity and accommodation as safer speech strategies under imperial preference.
+
+**Evidence:** [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma]], [[LiuXiu]], [[ChenweiPolitics]], [[HuanTanEasternHan]], [[ChenweiEvidentiaryCritique]], [[ZhengXingEasternHan]], [[JiaKuiEasternHan]], [[ImperialPreferenceSpeechRisk]]
+
+**Qualifications:**
+
+- The claim is source-scoped to Hanji 731 and qualifies rather than overturns Liu Xiu's broader positive governance profile.
+- Jia Kui is used here as a comparative accommodation case, not as a complete biography or replacement for Hanji 772.
+- The Southern Xiongnu succession and Houtu altar notices are retained as setup details rather than expanded governance claims.
 
 ### Late Han 735 Mingdi Empress Remonstrance And Local Exemplars
 
