@@ -7,16 +7,19 @@ sources:
   - zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup
   - zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu
   - zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y
+  - zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-梁松 / Liang Song, Linxiang Marquis is now synthesized as an Eastern Han elite whose danger begins before Ma Yuan's death. Hanji 725 gives the etiquette insult, Du Jiliang association, imperial rebuke, and Wuling inquiry prehistory; Hanji 726 shows Liang helping dishonor [[MaYuanEasternHan|Ma Yuan]] after death; Hanji 736 later turns him into the Mingdi-era patron whose resentment, anonymous slander, and implicated guests reveal the exposure created by private access networks around royal power.
+梁松 / Liang Song, Linxiang Marquis is now synthesized as an Eastern Han elite whose danger begins before Ma Yuan's death. [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] gives the earliest warning layer: [[MaYuanEasternHan|Ma Yuan]] tells Liang and [[DouGuEasternHan|Dou Gu]] that wealth and rank can fall back into poverty and low status if high-position people lack restraint. Hanji 725 gives the etiquette insult, Du Jiliang association, imperial rebuke, and Wuling inquiry prehistory; Hanji 726 shows Liang helping dishonor Ma Yuan after death; Hanji 736 later turns him into the Mingdi-era patron whose resentment, anonymous slander, and implicated guests reveal the exposure created by private access networks around royal power.
 
 ## Current Profile
 
-Hanji 725 gives the earliest current Liang Song branch. Liang visits Ma Yuan during illness and bows below the bed, but Ma Yuan does not return the salute because he understands Liang as the son of an old friend and therefore a junior despite Liang's status as Liu Xiu's son-in-law. The same source then pulls Liang into Ma Yuan's letter aftermath: Du Jiliang's enemy uses the private letter to accuse Du, and Liang and [[DouGuEasternHan|Dou Gu]] are rebuked because they associate with him.
+Hanji 722 gives the earliest current Liang Song branch. Before Ma Yuan leaves for northern frontier duty, he warns Liang and Dou Gu that wealth and rank are reversible. The episode's later aside says Liang fails to live by that warning and eventually dies through unlawful conduct, while Dou Gu listens and becomes a major general. This is not yet Liang's accusation of Ma Yuan, but it frames Liang as a high-status younger figure who receives caution before his later exposure.
+
+Hanji 725 gives the next Liang Song branch. Liang visits Ma Yuan during illness and bows below the bed, but Ma Yuan does not return the salute because he understands Liang as the son of an old friend and therefore a junior despite Liang's status as Liu Xiu's son-in-law. The same source then pulls Liang into Ma Yuan's letter aftermath: Du Jiliang's enemy uses the private letter to accuse Du, and Liang and [[DouGuEasternHan|Dou Gu]] are rebuked because they associate with him.
 
 The Wuling campaign makes that resentment operational. After [[GengShuEasternHan|Geng Shu]] complains that Ma Yuan chose the wrong route, Liu Xiu sends Liang Song by courier to rebuke Ma and act in a monitoring role. Hanji 726 continues the sequence after Ma Yuan dies: Liang finds the opening to accuse him, coix seeds brought from Jiaozhi are treated as alleged pearls and rhinoceros horn, Liu Xiu grows angrier, and Ma Yuan's Xinxihou seal is seized.
 
@@ -24,7 +27,7 @@ Hanji 736 supplies Liang's later court-risk branch under [[EmperorMingOfHan|Empe
 
 ## Key Characteristics
 
-- Linxiang Marquis whose current evidence combines a 49 CE Ma Yuan slander branch and a later Mingdi-era fall.
+- Linxiang Marquis whose current evidence begins with an ignored high-status caution and then combines a 49 CE Ma Yuan slander branch with a later Mingdi-era fall.
 - High-status junior whose etiquette clash with Ma Yuan creates an early resentment surface.
 - Associate of Du Jiliang whose social tie becomes punishable after Ma Yuan's private letter reaches court.
 - Imperial monitor/rebuker who uses Ma Yuan's death to press an accusation over baggage.
@@ -34,6 +37,8 @@ Hanji 736 supplies Liang's later court-risk branch under [[EmperorMingOfHan|Empe
 
 ## Evidence
 
+- Early warning: [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] says Ma Yuan warns Liang Song and Dou Gu that the wealthy and noble can again become poor and lowly if they do not act carefully from a high position.
+- Later contrast: [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] says Liang later loses his life through unlawful conduct, making him the negative contrast to Dou Gu in the host's reading.
 - Etiquette prehistory: [[zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y|Hanji 725]] says Liang bows while visiting Ma Yuan during illness and Ma does not return the salute because of generational hierarchy.
 - Du Jiliang association: [[zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y|Hanji 725]] says Liang and Dou Gu are rebuked by Liu Xiu after Du Jiliang's enemy uses Ma Yuan's letter against Du and his associates.
 - Wuling inquiry role: [[zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y|Hanji 725]] says Liu Xiu sends Liang to question Ma Yuan and temporarily supervise the army after Geng Shu's complaint reaches court.
@@ -45,17 +50,19 @@ Hanji 736 supplies Liang's later court-risk branch under [[EmperorMingOfHan|Empe
 
 ## Qualifications
 
-The page does not identify Liang Song with later Liang-family name variants outside this source chain. Hanji 725 explains why Liang may already resent Ma Yuan, but motive remains source-scoped and should not be treated as the sole cause of later accusation. Hanji 726 clarifies the Ma Yuan accusation but still does not prove every political connection behind the case. Hanji 736 explains Liang's later fall through resentment and anonymous slander, not through a full biography.
+The page does not identify Liang Song with later Liang-family name variants outside this source chain. Hanji 722 reports a later-death contrast but does not narrate the full legal case. Hanji 725 explains why Liang may already resent Ma Yuan, but motive remains source-scoped and should not be treated as the sole cause of later accusation. Hanji 726 clarifies the Ma Yuan accusation but still does not prove every political connection behind the case. Hanji 736 explains Liang's later fall through resentment and anonymous slander, not through a full biography.
 
 ## What Changed
 
-- Added Hanji 725 as Liang Song's pre-slander resentment layer: etiquette conflict, Du Jiliang association, imperial rebuke, and Wuling inquiry.
+- Added Hanji 722 as Liang Song's earlier high-status caution layer and negative contrast to Dou Gu.
+- Preserved Hanji 725 as Liang Song's pre-slander resentment layer: etiquette conflict, Du Jiliang association, imperial rebuke, and Wuling inquiry.
 - Reframed Liang Song's Ma Yuan role as a sequence from prior exposure to campaign monitoring and posthumous accusation.
 - Preserved Hanji 736's later private-retainer exposure as a separate Mingdi-era branch.
 
 ## Relationships
 
 - [[DuJiliangEasternHan|杜季良]] - associate whose accusation draws Liang into Liu Xiu's rebuke.
+- [[DouGuEasternHan|窦固]] - positive contrast who receives the same Ma Yuan warning but is remembered as taking it seriously.
 - [[GengShuEasternHan|耿舒]] - complainant whose Wuling route letter helps bring Liang to Ma Yuan's army.
 - [[MaYuanEasternHan|马援]] - dead general whom Liang accuses after the Wuling campaign.
 - [[LiuXiu|光武帝刘秀]] - ruler whose anger is intensified by Liang's accusation.

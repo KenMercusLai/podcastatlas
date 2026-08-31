@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-31] ingest | 《资治通鉴·汉纪》722丨让刘秀险死的头痛病，怎么回事？
+
+Ingested the 2026-06-22 芮淇讲透资治通鉴 episode on Liu Xiu's 44 CE illness and emergency trust in Yin Xing, Yin Xing's refusal of the great marshalship, Guo-family compensation through Liu Fu and Guo Kuang, Ma Yuan's horsehide-burial resolve and warning to Liang Song and Dou Gu, northern frontier pressure, and Western Regions hostage signaling under Shache pressure. Created the source note plus `YinXingGuangwuMaternalKin`; updated `LiuXiu`, `MaYuanEasternHan`, `LiangSongLinxiangMarquis`, `DouGuEasternHan`, `LiuFuPeiKingEasternHan`, `ShacheKingdomLateHan`, `ShanshanKingdomLateHan`, `CapacityBoundFrontierCommitment`, `HighStatusCautionSelfProtection`, `index`, and `overview`. No settled contradiction found; Zhang Zhan, Eastern Han Cai Mao / 蔡茂, Zhu Fu, Liu Long, Guo Kuang, Liu Shang, Zhan Rong, Pei Zun, Yanqi, the Cheshi front kingdom, and exact force counts remain source-scoped.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》725丨东汉名将祭肜：要保家卫国，就把敌人打趴下！
 
 Ingested the 2026-06-23 芮淇讲透资治通鉴 episode on Ji Tong's Liaodong use of Pian He as a reward-backed Xianbei proxy against Xiongnu pressure, Southern/Northern Xiongnu alignment shifts, Ma Yuan's warning letter and its political weaponization through Du Jiliang, Liang Song and Dou Gu's resentment, and the Hutou route crisis before Ma Yuan's death. Created the source note plus `PianHeXianbei`, `LongBogaoEasternHan`, `DuJiliangEasternHan`, `GengShuEasternHan`, and `PrivateLetterPoliticalWeaponization`; updated `JiTongEasternHan`, `MaYuanEasternHan`, `LiangSongLinxiangMarquis`, `FrontierProxyCommitmentBinding`, `index`, and `overview`. No settled contradiction found; Pian He's Xiongnu versus Chishan Wuhuan target variation, Ma Yan, Ma Dun, exact Wuling route geography, force counts, and host workplace lessons remain source-scoped.
@@ -14379,6 +14383,10 @@ Ingested the 2026-06-23 芮淇讲透资治通鉴 episode on the 47-48 CE Wuling 
 ## [2026-08-31] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 16,519 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is unset/provider-unqualified and no `OPENAI_API_KEY` or `ANTHROPIC_API_KEY` is configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

@@ -6,16 +6,19 @@ tags: [place, polity, western-regions, eastern-han, frontier]
 sources:
   - zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1
   - zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj
+  - zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-鄯善国 / Shanshan Kingdom is a Western Regions swing polity whose current wiki profile now begins with a 46 CE request for renewed Han hostage submission and protectorate protection, then continues to [[BanChaoEasternHan|Ban Chao]]'s 73 CE coercive allegiance reversal. Across both layers, Shanshan is caught between Han prestige, [[ShacheKingdomLateHan|Shache]] or [[NorthernXiongnuLateHan|Northern Xiongnu]] pressure, and the question of whether Han can make its protection credible.
+鄯善国 / Shanshan Kingdom is a Western Regions swing polity whose current wiki profile now begins with a 45 CE collective hostage-and-protection request under [[ShacheKingdomLateHan|Shache]] pressure, then continues through a 46 CE renewed request and [[BanChaoEasternHan|Ban Chao]]'s 73 CE coercive allegiance reversal. Across these layers, Shanshan is caught between Han prestige, Shache or [[NorthernXiongnuLateHan|Northern Xiongnu]] pressure, and the question of whether Han can make its protection credible.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] supplies the earliest current Shanshan layer. After Western Regions hostage princes return home and Han does not send a protector, Shache King Xian attacks Shanshan and kills the Qiuci king. Shanshan King An responds by asking to send a prince hostage to Luoyang and by requesting a restored Han Western Regions Protector.
+[[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] supplies the earliest current Shanshan layer. In 45 CE, Shanshan is named among the Western Regions polities that send hostage princes and tribute to Luoyang because Shache King Xian is attacking neighbors and demanding heavily from them. Liu Xiu initially sends the hostages home, but the states ask through Dunhuang to keep the hostages in Han territory so they can use Han's implied backing to deter Shache.
+
+[[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] supplies the next Shanshan layer. After Western Regions hostage princes return home and Han does not send a protector, Shache King Xian attacks Shanshan and kills the Qiuci king. Shanshan King An responds by asking to send a prince hostage to Luoyang and by requesting a restored Han Western Regions Protector.
 
 Liu Xiu refuses the request on capacity grounds. The source says Han has will but not means: it cannot yet send envoys and troops, so Western Regions states that cannot hold out may choose their own path. Shanshan and [[CheshiHouKingdomLateHan|Cheshi]] then submit to Xiongnu. This makes Shanshan a core case for [[CapacityBoundFrontierCommitment|capacity-bound frontier commitment]] because the polity wants Han protection before Han can credibly supply it.
 
@@ -24,7 +27,8 @@ Liu Xiu refuses the request on capacity grounds. The source says Han has will bu
 ## Key Characteristics
 
 - Western Regions polity positioned between desired Han protection and nearby coercive pressure.
-- In 46 CE, requests renewed hostage submission and a restored protectorate after Shache aggression.
+- In 45 CE, joins a collective hostage-and-tribute request under Shache pressure.
+- In 46 CE, requests renewed hostage submission and a restored protectorate after further Shache aggression.
 - Turns to Xiongnu after Liu Xiu refuses to promise envoys and troops that Han cannot yet supply.
 - In 73 CE, becomes Ban Chao's first allegiance-reversal field after Northern Xiongnu envoys alter court behavior.
 - Hostage-sending polity under both request-based and coercion-backed Han relationship models.
@@ -32,6 +36,8 @@ Liu Xiu refuses the request on capacity grounds. The source says Han has will bu
 
 ## Evidence
 
+- 45 CE collective request: [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] names Shanshan among the Western Regions states sending hostage princes and tribute to Han under Shache pressure.
+- Hostage-retention tactic: [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] says the Western Regions states ask that the hostages stay so Shache can be told that Han has accepted them and may soon send a protector.
 - 46 CE request: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] says Shanshan King An asks to send a prince hostage to Luoyang and asks Han to appoint a Western Regions protector.
 - Capacity-bound refusal: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] says Liu Xiu replies that Han cannot send envoys or troops and that Western Regions states may choose their own path if they lack strength.
 - Xiongnu alignment consequence: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] says Shanshan and Cheshi submit to Xiongnu after Han declines.
@@ -41,11 +47,12 @@ Liu Xiu refuses the request on capacity grounds. The source says Han has will bu
 
 ## Qualifications
 
-This page is intentionally narrow. It does not reconstruct Shanshan's broader geography, Loulan/Shanshan name history, or later Ban Yong-era strategy from passing mentions in other source notes. King An in Hanji 723 and king Guang in Hanji 742 remain source-bounded figures. The 46 CE refusal and the 73 CE coercive reversal are changed-condition layers, not a contradiction: later Han action occurs after a different ruler, mission, and frontier capacity setting.
+This page is intentionally narrow. It does not reconstruct Shanshan's broader geography, Loulan/Shanshan name history, or later Ban Yong-era strategy from passing mentions in other source notes. The unnamed 45 CE Shanshan hostage party, King An in Hanji 723, and king Guang in Hanji 742 remain source-bounded figures. The 45 CE hostage-retention tactic, the 46 CE refusal, and the 73 CE coercive reversal are changed-condition layers, not a contradiction: later Han action occurs after different rulers, missions, and frontier capacity settings.
 
 ## What Changed
 
-- Added Hanji 723 as the earliest Shanshan layer: 46 CE protectorate request, Liu Xiu's capacity-bound refusal, and resulting Xiongnu submission.
+- Added Hanji 722 as the earliest Shanshan layer: 45 CE collective hostage request and hostage-retention tactic under Shache pressure.
+- Preserved Hanji 723 as the 46 CE protectorate request, Liu Xiu's capacity-bound refusal, and resulting Xiongnu submission.
 - Reframed Shanshan as a swing polity whose Han relationship depends on whether protection is credible in the current frontier setting.
 - Preserved Hanji 742 as the later Ban Chao allegiance-reversal layer.
 

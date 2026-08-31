@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 8604
+wiki_total_pages: 8605
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -872,6 +872,9 @@ wiki_pages:
   - key: "YinLihua"
     title: "阴丽华 / Yin Lihua"
     url: "/wiki/entities/yinlihua/"
+  - key: "YinXingGuangwuMaternalKin"
+    title: "阴兴 / Yin Xing (Guangwu maternal kin)"
+    url: "/wiki/entities/yinxingguangwumaternalkin/"
   - key: "YinChengPrincess"
     title: "阴城公主 / Princess Yincheng"
     url: "/wiki/entities/yinchengprincess/"

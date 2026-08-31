@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 852
+topic_total_pages: 853
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2550,6 +2550,9 @@ topic_sources:
   - key: "your-top-health-questions-answered-scim2882548864"
     title: "Your Top Health Questions Answered"
     url: "/wiki/sources/your-top-health-questions-answered-scim2882548864/"
+  - key: "zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra"
+    title: "《资治通鉴·汉纪》722丨让刘秀险死的头痛病，怎么回事？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra/"
   - key: "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr"
     title: "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？"
     url: "/wiki/sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr/"

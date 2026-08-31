@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [frontier, statecraft, western-regions, eastern-han, capacity, diplomacy]
 sources:
   - zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj
+  - zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra
 last_updated: 2026-08-31
 ---
 
@@ -14,13 +15,16 @@ Capacity-bound frontier commitment / 能力约束下的边疆承诺 is the state
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] defines the current case through [[LiuXiu|光武帝刘秀]] and the Western Regions. After hostage princes return home and [[ShacheKingdomLateHan|Shache]] pressure grows, [[ShanshanKingdomLateHan|Shanshan]] asks to send another hostage prince and requests a restored Han protectorate. Liu Xiu replies that Han has the will but lacks the practical capacity to send envoys and troops.
+[[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] now supplies the earliest current case through [[LiuXiu|光武帝刘秀]] and the Western Regions. Under pressure from [[ShacheKingdomLateHan|Shache]] king Xian, eighteen smaller polities send hostage princes and tribute to Luoyang. Liu Xiu initially sends the hostages home because Han cannot take on the full Western Regions burden, then allows them to remain after Pei Zun reports that their presence can deter Shache by implying Han backing.
+
+[[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] defines the sharper refusal case one year later. After hostage princes return home and Shache pressure grows, [[ShanshanKingdomLateHan|Shanshan]] asks to send another hostage prince and requests a restored Han protectorate. Liu Xiu replies that Han has the will but lacks the practical capacity to send envoys and troops.
 
 The episode strengthens the logic through [[BanGuEasternHan|Ban Gu]]'s comparison with [[HanWudi|Han Wudi]]. Han Wudi's Western Regions and Hexi program could weaken Xiongnu's outside support, but the source emphasizes palace, diplomatic, monopoly, currency, tax, and popular-cost burdens. The concept therefore treats restraint as a commitment-quality problem: a protectorate promise that cannot be supplied may damage credibility, while delayed commitment can be rational even when frontier polities prefer Han protection.
 
 ## Key Claims
 
 - Frontier requests should be evaluated by whether the center can supply the implied envoys, troops, provisioning, and long-term supervision.
+- A court can sometimes offer narrower symbolic deterrence, such as hostage retention, without accepting a full protectorate commitment.
 - Refusal can be strategic when accepting would create an unsupported promise rather than real protection.
 - Deferred commitment has costs: Shanshan and Cheshi submit to Xiongnu after Han declines the request.
 - Ban Gu's comparison makes prior expansion a cost case as well as a strategic success story.
@@ -29,6 +33,8 @@ The episode strengthens the logic through [[BanGuEasternHan|Ban Gu]]'s compariso
 
 ## Evidence
 
+- Hostage-retention signal: [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] says Western Regions states ask that their hostage princes stay in Han territory so they can tell Shache that Han has accepted the hostages and a protectorate may soon come.
+- Narrow acceptance: [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] says Liu Xiu agrees to leave the hostages in place after Pei Zun reports the request, without restoring the protectorate.
 - Protectorate request: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] says Shanshan King An asks to send a prince hostage to Luoyang and requests a Han Western Regions protector.
 - Capacity refusal: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] says Liu Xiu replies that Han cannot yet send envoys and troops, so Western Regions states may choose their own path if unable to hold.
 - Consequence of deferral: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] says Shanshan and Cheshi then submit to Xiongnu.
@@ -37,13 +43,13 @@ The episode strengthens the logic through [[BanGuEasternHan|Ban Gu]]'s compariso
 
 ## Counterevidence & Qualifications
 
-The concept does not prove that Liu Xiu's refusal was costless or universally optimal. The same source records Shanshan and Cheshi attaching to Xiongnu after the refusal, so capacity-bound restraint can concede immediate influence. It also does not deny that Han Wudi's earlier opening had strategic value against Xiongnu. The current claim is narrower: distant commitments need a supportable capacity base, and prestige without logistics can create brittle promises.
+The concept does not prove that Liu Xiu's refusal was costless or universally optimal. Hanji 722's hostage-retention tactic depends on Shache believing the signal; it is not the same as actual Han protection. Hanji 723 records Shanshan and Cheshi attaching to Xiongnu after the later refusal, so capacity-bound restraint can concede immediate influence. The concept also does not deny that Han Wudi's earlier opening had strategic value against Xiongnu. The current claim is narrower: distant commitments need a supportable capacity base, and prestige without logistics can create brittle promises.
 
 ## What Changed
 
-- Created the concept from Hanji 723's Western Regions protectorate refusal.
-- Distinguished capacity-bound deferral from permanent frontier abandonment and from simple pacifism.
-- Added Ban Gu's Han Wudi comparison as the cost side of protectorate commitments.
+- Added Hanji 722 as the earlier limited-commitment layer: hostage retention as deterrent signal without full protectorate restoration.
+- Preserved Hanji 723 as the sharper protectorate-refusal case.
+- Kept Ban Gu's Han Wudi comparison as the cost side of protectorate commitments.
 
 ## Related Concepts
 
