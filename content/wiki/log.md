@@ -14431,3 +14431,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint without saving a report. Deterministic and graph-aware checks completed; semantic lint was unavailable because no provider-qualified LiteLLM model/API key is configured.
+
+## [2026-08-31] ingest | ICE is collecting DNA from detainees for future policing
+
+Ingested the 2026-08-31 Marketplace Tech episode with Stevie Gleiberson on DHS/ICE DNA collection from detainees, CODIS retention, Georgetown's scale analysis, familial genetic exposure, child-sampling concerns, Maryland v. King, and Briggs v. Mullen. Created `StevieGleiberson`, `GeorgetownLawCenterOnPrivacyTechnology`, `FederalBureauOfInvestigation`, `CODIS`, `MarylandVKing`, `BriggsVMullen`, `ImmigrationDNADatabaseExpansion`, `GeneticLineupPrivacyRisk`, and `CompelledDNASamplingFourthAmendment`; migrated and updated DHS, ICE, Fourth Amendment digital privacy, civil-liberties surveillance risk, comprehensive consumer data privacy, and enforcement agency data sharing. No settled contradiction found; the constitutional critique, CODIS projection, removal-process concern, and child-sampling records remain source-scoped pending detailed agency or court treatment.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

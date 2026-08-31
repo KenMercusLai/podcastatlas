@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6142
+wiki_total_pages: 6147
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "BridgeStyleReadingContent"
     title: "Bridge-Style Reading Content"
     url: "/wiki/concepts/bridgestylereadingcontent/"
+  - key: "BriggsVMullen"
+    title: "Briggs v. Mullen"
+    url: "/wiki/concepts/briggsvmullen/"
   - key: "BroadcastCentralization"
     title: "Broadcast Centralization"
     url: "/wiki/concepts/broadcastcentralization/"

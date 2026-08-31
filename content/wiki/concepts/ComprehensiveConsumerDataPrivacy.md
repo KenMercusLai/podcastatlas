@@ -2,31 +2,46 @@
 title: "Comprehensive Consumer Data Privacy"
 type: concept
 tags: [privacy, regulation, social-media, consumer-protection, surveillance]
-sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]
-last_updated: 2026-08-11
+sources:
+  - tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128
+  - tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128
+  - tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128
+  - tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128
+last_updated: 2026-08-31
+knowledge_schema: synthesis-v1
 ---
 
 # Comprehensive Consumer Data Privacy
 
-[[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] adds a consumer baby-tech case through [[ChildBedroomDataPrivacy]]. The episode shows why comprehensive privacy cannot focus only on ad targeting or social-media feeds: subscription hardware can still collect intimate child data in bedrooms, interpret health or sleep signals, and extend monitoring as children get older.
+## Definition
+Comprehensive consumer data privacy is a privacy-law approach that constrains collection, targeting, retention, sharing, and user control across data systems rather than relying only on narrow product bans or after-the-fact remedies.
 
-Comprehensive consumer data privacy is the regulatory approach favored by the [[ElectronicFrontierFoundation|Electronic Frontier Foundation]] in [[tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]]. [[AaronMackey]] argues that many social-media harms are tied to invasive privacy practices, opaque collection, and targeting by dominant platforms, so regulation should constrain the data business model rather than broadly ban minors from access.
-
-The concept extends the wiki's [[PlatformDataRegulation]] branch from deletion and auditability toward collection limits and user control. It also supplies a civil-liberties alternative to [[CaliforniaAB1709]]: reduce surveillance-driven harm without using age gates that can burden [[YouthOnlineSpeechRights]] or adult access to lawful speech.
-
-[[tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128]] extends the concept from platform business models into federal data practices. [[ElizabethLaird]]'s polling discussion suggests that comprehensive privacy must also address how public agencies use and share personal data, because weak [[FederalDataPracticeTrust]] can create [[PublicBenefitsDataChillingEffect]].
+## Current Synthesis
+The concept began as an alternative to broad youth social-media bans: [[AaronMackey]] argues that platform harms should be addressed through limits on invasive data practices rather than by making lawful speech access depend on age verification. Later sources widen the frame. Federal data trust, child-bedroom monitoring, and DHS/ICE DNA collection show that comprehensive privacy logic also needs purpose limits, retention limits, and accountability where people cannot realistically opt out.
 
 ## Key Claims
-- Privacy law can target platform incentives without making lawful speech access depend on age verification.
-- Collection limits, targeting limits, transparency, and user control are different tools from parental consent or under-16 bans.
-- The source frames surveillance-based platform design as harmful to adults as well as children.
-- Comprehensive privacy regulation can complement litigation over harmful design, but it is not the same as [[SocialMediaProductLiability]].
-- Public-sector privacy needs purpose limits and accountability as well as consumer-facing controls, because benefit users may not be able to opt out of government data systems.
+- Collection and targeting limits can address platform harms without turning speech access into an identity-check system.
+- Transparency and user control are incomplete unless paired with purpose limits, retention limits, and accountability.
+- Sensitive data categories include not only ad profiles, but also child-bedroom data, health-adjacent signals, benefit data, and bodily identity data.
+- Public-sector privacy belongs in the same synthesis when agency data use can chill benefits, immigration safety, or civil liberties.
+- Comprehensive privacy can complement product-liability litigation but should not be reduced to case-by-case lawsuits.
 
-## Connections
-- [[ElectronicFrontierFoundation|Electronic Frontier Foundation]] and [[AaronMackey]] - source organization and speaker.
-- [[PlatformDataRegulation]], [[ConsumerDataDeletion]], and [[DataBrokerLoophole]] - existing data-governance branch.
-- [[CaliforniaAB1709]], [[YouthOnlineSpeechRights]], and [[SocialMediaAgeGateSpeechBurden]] - access-ban branch it is proposed to avoid.
-- [[SocialMediaProductLiability]], [[Meta]], and [[YouTube]] - adjacent platform-accountability branch.
-- [[CivilLibertiesSurveillanceRisk]] and [[AttentionIndustrialization]] - broader risk context around surveillance and behavioral targeting.
-- [[FederalDataPracticeTrust]], [[PublicBenefitsDataChillingEffect]], and [[GovernmentDataAccountability]] - public-sector privacy extension added by Marketplace Tech.
+## Evidence
+- Platform regulation alternative - [[tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]] presents comprehensive privacy as EFF's preferred route over under-16 social-media bans and parental-consent gates.
+- Public-sector trust - [[tech-20260409-0409-mp-tech-pod-128-tech-20260409-0409-mp-tech-pod-128]] says federal data practices and enforcement-agency sharing can discourage public-benefit use.
+- Child-bedroom data - [[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] shows subscription baby tech collecting and interpreting intimate household and child data beyond ordinary ad targeting.
+- Bodily identity data - [[tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128]] extends the sensitivity ladder to compelled DNA collection, indefinite CODIS retention concerns, and relatives' exposure.
+
+## Counterevidence & Qualifications
+The concept's title remains consumer-focused, while some evidence is public-sector or law-enforcement centered. That does not make every government biometric practice a consumer privacy issue; it shows that comprehensive privacy principles are incomplete if they exclude non-optional data relationships where people have less choice than consumers do.
+
+## What Changed
+- Migrated the concept to synthesis-v1.
+- Added compelled DNA and CODIS retention as an outer boundary for comprehensive privacy principles around sensitive personal data.
+
+## Related Concepts
+- [[PlatformDataRegulation]] - platform-business-model branch that comprehensive privacy originally targets.
+- [[CivilLibertiesSurveillanceRisk]] - broader rights consequence when privacy controls fail.
+- [[FederalDataPracticeTrust]] - public-sector trust condition requiring similar purpose and accountability limits.
+- [[ChildBedroomDataPrivacy]] - intimate household-data case within consumer technology.
+- [[GeneticLineupPrivacyRisk]] - bodily and family identity-data risk that tests the reach of privacy governance.

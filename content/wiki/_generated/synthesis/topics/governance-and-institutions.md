@@ -4,17 +4,29 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-31
-as_of_overview_commit: 091331b9022de4cc029868061fb07b76a0ad5ebd
-input_digest: d5fdf79ded92d5cbc85290e4208befe884c0783178802750dda754d55b4368d6
+as_of_overview_commit: c0358c2d97c14c0067603e2672b9f5612da67672
+input_digest: 5d1e6f48baf69d23696c4ccb183f270c18bc60746e08856908326118d35bb854
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 726 now backfills the late Guangwu governance branch to 49 CE: Liu Xiu's initial reaction to Liang Song's posthumous accusation against Ma Yuan is corrected through Zhu Bo's merit-and-fault memorial, Zong Jun's unauthorized Wuling surrender settlement becomes a bounded case of accountable field discretion, and Wuhuan submission is made governable through titles, provisioning, relocation, and Ban Biao's protector-office proposal. Hanji 729 remains the later 52-54 CE governance branch before Hanji 730, where Liu Xiu adopts Ban Biao's calibrated Northern Xiongnu reply and refuses Taishan fengshan because public resentment and flattery make sacred display improper. Hanji 730 continues the personnel and chenwei-fengshan branch, Hanji 731 adds Guangwu-era chenwei speech risk, and Hanji 736-740 remain the Mingdi continuation through royal-kin boundaries, private-retainer risk, forged authority, anti-flattery edicts, empress memory, frontier containment, local capacity, Chu-case coercion, and partial correction. A small health-product governance edge now adds that functional-food and supplement claims require product identity, label evidence, and professional-boundary checks before consumer trust.
+The ICE/CODIS Marketplace Tech episode adds a federal biometric-surveillance branch: DHS and ICE DNA collection can turn immigration detention into durable policing infrastructure once profiles enter FBI CODIS, raising Fourth Amendment, retention, age-threshold, and family-exposure questions that remain qualified by the absence of a detailed DHS, FBI, or DOJ defense. Hanji 726 now backfills the late Guangwu governance branch to 49 CE: Liu Xiu's initial reaction to Liang Song's posthumous accusation against Ma Yuan is corrected through Zhu Bo's merit-and-fault memorial, Zong Jun's unauthorized Wuling surrender settlement becomes a bounded case of accountable field discretion, and Wuhuan submission is made governable through titles, provisioning, relocation, and Ban Biao's protector-office proposal. Hanji 729 remains the later 52-54 CE governance branch before Hanji 730, where Liu Xiu adopts Ban Biao's calibrated Northern Xiongnu reply and refuses Taishan fengshan because public resentment and flattery make sacred display improper. Hanji 730 continues the personnel and chenwei-fengshan branch, Hanji 731 adds Guangwu-era chenwei speech risk, and Hanji 736-740 remain the Mingdi continuation through royal-kin boundaries, private-retainer risk, forged authority, anti-flattery edicts, empress memory, frontier containment, local capacity, Chu-case coercion, and partial correction. A small health-product governance edge now adds that functional-food and supplement claims require product identity, label evidence, and professional-boundary checks before consumer trust.
 
 ## Cross-source Findings
+
+### Federal Biometric Policing Needs Process Boundaries
+
+Federal biometric policing needs sharper process boundaries when civil detention becomes criminal database infrastructure: [[USDepartmentOfHomelandSecurity]] and [[USImmigrationAndCustomsEnforcement]] DNA collection feeding [[CODIS]] through [[FederalBureauOfInvestigation]] turns [[ImmigrationDNADatabaseExpansion]] into an [[EnforcementAgencyDataSharing]] and [[CivilLibertiesSurveillanceRisk]] problem, while [[CompelledDNASamplingFourthAmendment]], [[MarylandVKing]], and [[BriggsVMullen]] keep legality contested around probable cause, retention, age-threshold compliance, and future police searches.
+
+**Evidence:** [[tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128]], [[USDepartmentOfHomelandSecurity]], [[USImmigrationAndCustomsEnforcement]], [[FederalBureauOfInvestigation]], [[CODIS]], [[ImmigrationDNADatabaseExpansion]], [[EnforcementAgencyDataSharing]], [[CivilLibertiesSurveillanceRisk]], [[CompelledDNASamplingFourthAmendment]], [[MarylandVKing]], [[BriggsVMullen]], [[GeneticLineupPrivacyRisk]], [[FourthAmendmentDigitalPrivacy]], [[GeorgetownLawCenterOnPrivacyTechnology]], [[StevieGleiberson]]
+
+**Qualifications:**
+
+- The claim records Georgetown's critique through Marketplace Tech; it does not include a detailed DHS, FBI, or DOJ defense.
+- CODIS projection, removal-process, and child-sampling claims remain source-scoped until later court or agency evidence clarifies them.
+- Maryland v. King remains a counterweight because some criminal-arrestee DNA collection has Supreme Court approval; the contested issue is the civil detention and retention context.
 
 ### Functional Food Claims Need Product Identity Governance
 

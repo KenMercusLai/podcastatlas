@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [ICE is collecting DNA from detainees for future policing](sources/tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128.md) — Marketplace Tech episode with Stevie Gleiberson on DHS and ICE DNA collection, CODIS retention, child-sampling concerns, familial genetic exposure, Maryland v. King, and Briggs v. Mullen.
 - [How to Accelerate Learning & Improve Education | Joe Liemandt](sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815.md) — Huberman Lab episode with Joe Liemandt on Alpha School, AI tutors, mastery learning, prerequisite repair, motivation architecture, human guides, builder afternoons, and source-scoped performance and scaling claims.
 - [Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing... Tortilla Chips Saved Them](sources/late-july-snacks-nicole-bernard-dawes-crackers-and-cookies-were-failing-tortilla-chips-saved-them-97049a31-9144-42f5-856c-9590c5e6beb4.md) — How I Built This episode on Nicole Bernard Dawes, Late July Snacks, the failed cracker/cookie phase, rescue financing, tortilla-chip category fit, Stop & Shop distribution, and Snyder's-Lance/Campbell ownership.
 - [《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？](sources/zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0.md) — 42-43 CE late Guangwu episode on Shu and Yuanwu rebellions, Ma Yuan's Jiaozhi campaign, ritual-temple adjustments, and Liu Qiang's repeated resignation after Guo Shengtong's deposition before Liu Yang/Liu Zhuang becomes crown prince.
@@ -1807,6 +1808,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [Stevie Gleiberson](entities/StevieGleiberson.md) — Georgetown Law Center on Privacy and Technology speaker explaining DHS/ICE DNA collection, CODIS retention, and constitutional concerns.
+- [Georgetown Law Center on Privacy and Technology](entities/GeorgetownLawCenterOnPrivacyTechnology.md) — Research and legal-analysis source for the Marketplace Tech DHS/ICE DNA collection episode.
+- [Federal Bureau of Investigation](entities/FederalBureauOfInvestigation.md) — FBI-linked CODIS institution receiving the DNA database branch in the DHS/ICE episode.
+- [CODIS](entities/CODIS.md) — FBI-linked criminal DNA database where DHS/ICE detainee profiles are said to be retained and searched.
 - [Nicole Bernard Dawes](entities/NicoleBernardDawes.md) — Late July Snacks and Nixie founder whose taste-first organic CPG approach was shaped by Cape Cod Chips, family operating risk, and tortilla-chip category discipline.
 - [Late July Snacks](entities/LateJulySnacks.md) — Organic snack brand that moved from slow crackers and unprofitable cookies to tortilla chips, then into Snyder's-Lance and Campbell ownership.
 - [Cape Cod Chips](entities/CapeCodChips.md) — Steve Bernard's potato-chip company and the taste-led natural-snack precedent behind Nicole Bernard Dawes's Late July strategy.
@@ -10437,6 +10442,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Maryland v. King](concepts/MarylandVKing.md) — Supreme Court DNA-collection precedent used as the contrast case for DHS/ICE detainee DNA collection.
+- [Briggs v. Mullen](concepts/BriggsVMullen.md) — Early legal challenge over DHS agents taking DNA from U.S. citizen protesters during Operation Midway Blitz.
+- [Immigration DNA Database Expansion](concepts/ImmigrationDNADatabaseExpansion.md) — Pattern where immigration or federal detention becomes an intake route into criminal DNA databases.
+- [Genetic Lineup Privacy Risk](concepts/GeneticLineupPrivacyRisk.md) — Risk that retained DNA profiles make people and biological relatives searchable in future policing.
+- [Compelled DNA Sampling Fourth Amendment](concepts/CompelledDNASamplingFourthAmendment.md) — Constitutional issue around taking DNA for database use without criminal arrest and probable cause.
 - [Product Category Velocity](concepts/ProductCategoryVelocity.md) — CPG category-economics concept showing how ordinary purchase frequency, use occasion, margin, and shelf expectations shape whether a product can scale.
 - [Taste-First CPG Positioning](concepts/TasteFirstCPGPositioning.md) — Food and beverage positioning strategy where flavor drives repeat purchase and mission deepens loyalty after the product works.
 - [Mission-Aligned Rescue Capital](concepts/MissionAlignedRescueCapital.md) — Emergency financing pattern where values-aligned investors, lenders, or connectors buy time for a credible strategic pivot.

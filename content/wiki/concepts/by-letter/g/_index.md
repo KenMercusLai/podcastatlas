@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6142
+wiki_total_pages: 6147
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "GeneticCulpabilityProblem"
     title: "Genetic Culpability Problem / 遗传归责问题"
     url: "/wiki/concepts/geneticculpabilityproblem/"
+  - key: "GeneticLineupPrivacyRisk"
+    title: "Genetic Lineup Privacy Risk"
+    url: "/wiki/concepts/geneticlineupprivacyrisk/"
   - key: "GenreLiteraryLegitimacy"
     title: "Genre Literary Legitimacy / 类型文学正名"
     url: "/wiki/concepts/genreliterarylegitimacy/"

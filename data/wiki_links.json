@@ -7839,6 +7839,10 @@
     "title": "Bridgewater Associates",
     "url": "/wiki/entities/bridgewaterassociates/"
   },
+  "BriggsVMullen": {
+    "title": "Briggs v. Mullen",
+    "url": "/wiki/concepts/briggsvmullen/"
+  },
   "BristolMyersSquibb": {
     "title": "Bristol Myers Squibb / BMS",
     "url": "/wiki/entities/bristolmyerssquibb/"
@@ -8222,6 +8226,10 @@
   "CNorthcoteParkinson": {
     "title": "C. Northcote Parkinson",
     "url": "/wiki/entities/cnorthcoteparkinson/"
+  },
+  "CODIS": {
+    "title": "CODIS",
+    "url": "/wiki/entities/codis/"
   },
   "COPPA": {
     "title": "COPPA",
@@ -11758,6 +11766,10 @@
   "ComparativeAdvantage": {
     "title": "Comparative Advantage",
     "url": "/wiki/concepts/comparativeadvantage/"
+  },
+  "CompelledDNASamplingFourthAmendment": {
+    "title": "Compelled DNA Sampling Fourth Amendment",
+    "url": "/wiki/concepts/compelleddnasamplingfourthamendment/"
   },
   "CompensatingDifferentials": {
     "title": "Compensating Differentials",
@@ -18231,6 +18243,10 @@
     "title": "Federal Aviation Administration",
     "url": "/wiki/entities/federalaviationadministration/"
   },
+  "FederalBureauOfInvestigation": {
+    "title": "Federal Bureau of Investigation",
+    "url": "/wiki/entities/federalbureauofinvestigation/"
+  },
   "FederalCommunicationsCommission": {
     "title": "Federal Communications Commission",
     "url": "/wiki/entities/federalcommunicationscommission/"
@@ -20907,6 +20923,10 @@
     "title": "Genetic Culpability Problem / 遗传归责问题",
     "url": "/wiki/concepts/geneticculpabilityproblem/"
   },
+  "GeneticLineupPrivacyRisk": {
+    "title": "Genetic Lineup Privacy Risk",
+    "url": "/wiki/concepts/geneticlineupprivacyrisk/"
+  },
   "GengBaoGrandGeneralLateHan": {
     "title": "耿宝 / Geng Bao (Grand General, late Han)",
     "url": "/wiki/entities/gengbaograndgenerallatehan/"
@@ -21090,6 +21110,10 @@
   "GeorgesDanton": {
     "title": "Georges Danton / 丹东",
     "url": "/wiki/entities/georgesdanton/"
+  },
+  "GeorgetownLawCenterOnPrivacyTechnology": {
+    "title": "Georgetown Law Center on Privacy and Technology",
+    "url": "/wiki/entities/georgetownlawcenteronprivacytechnology/"
   },
   "GeorgiaBanjo": {
     "title": "Georgia Banjo",
@@ -25130,6 +25154,10 @@
   "ImmigrationBacklashCycle": {
     "title": "Immigration Backlash Cycle",
     "url": "/wiki/concepts/immigrationbacklashcycle/"
+  },
+  "ImmigrationDNADatabaseExpansion": {
+    "title": "Immigration DNA Database Expansion",
+    "url": "/wiki/concepts/immigrationdnadatabaseexpansion/"
   },
   "ImmigrationDetentionExpansion": {
     "title": "Immigration Detention Expansion",
@@ -33578,6 +33606,10 @@
   "MarylandTransportationAuthority": {
     "title": "Maryland Transportation Authority",
     "url": "/wiki/entities/marylandtransportationauthority/"
+  },
+  "MarylandVKing": {
+    "title": "Maryland v. King",
+    "url": "/wiki/concepts/marylandvking/"
   },
   "Mas": {
     "title": "Mas",
@@ -48847,6 +48879,10 @@
     "title": "Steven Spielberg / 斯皮尔伯格",
     "url": "/wiki/entities/stevenspielberg/"
   },
+  "StevieGleiberson": {
+    "title": "Stevie Gleiberson",
+    "url": "/wiki/entities/steviegleiberson/"
+  },
   "StewardOwnership": {
     "title": "Steward Ownership",
     "url": "/wiki/concepts/stewardownership/"
@@ -62882,6 +62918,10 @@
   "tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128": {
     "title": "Meta's landmark social media settlement",
     "url": "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
+  },
+  "tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128": {
+    "title": "ICE is collecting DNA from detainees for future policing",
+    "url": "/wiki/sources/tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128/"
   },
   "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460": {
     "title": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？",

@@ -10870,6 +10870,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "BriggsVMullen": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BroadcastCentralization": [
     {
       "key": "culture",
@@ -14761,6 +14768,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "CompelledDNASamplingFourthAmendment": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CompensatingDifferentials": [
@@ -25330,6 +25344,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "GeorgetownLawCenterOnPrivacyTechnology": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GeorgiaBanjo": [
     {
       "key": "technology",
@@ -29827,6 +29848,13 @@
       "label": "History",
       "url": "/topics/history/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ImmigrationDNADatabaseExpansion": [
     {
       "key": "politics",
       "label": "Politics",
@@ -38117,6 +38145,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "MarylandVKing": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "Mas": [
@@ -55966,6 +56001,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "StevieGleiberson": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "StewardOwnership": [

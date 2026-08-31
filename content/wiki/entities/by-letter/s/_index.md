@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8626
+wiki_total_pages: 8630
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1151,6 +1151,9 @@ wiki_pages:
   - key: "StevenSpielberg"
     title: "Steven Spielberg / 斯皮尔伯格"
     url: "/wiki/entities/stevenspielberg/"
+  - key: "StevieGleiberson"
+    title: "Stevie Gleiberson"
+    url: "/wiki/entities/steviegleiberson/"
   - key: "Stoke"
     title: "Stoke Space"
     url: "/wiki/entities/stoke/"

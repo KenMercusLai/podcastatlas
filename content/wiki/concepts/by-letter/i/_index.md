@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6142
+wiki_total_pages: 6147
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "ImmigrationDetentionExpansion"
     title: "Immigration Detention Expansion"
     url: "/wiki/concepts/immigrationdetentionexpansion/"
+  - key: "ImmigrationDNADatabaseExpansion"
+    title: "Immigration DNA Database Expansion"
+    url: "/wiki/concepts/immigrationdnadatabaseexpansion/"
   - key: "ImmortalityQuestPolitics"
     title: "Immortality Quest Politics / 求仙政治"
     url: "/wiki/concepts/immortalityquestpolitics/"

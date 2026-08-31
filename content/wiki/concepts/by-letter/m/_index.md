@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6142
+wiki_total_pages: 6147
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "MarxistLeninistStateCapacity"
     title: "Marxist-Leninist State Capacity"
     url: "/wiki/concepts/marxistleniniststatecapacity/"
+  - key: "MarylandVKing"
+    title: "Maryland v. King"
+    url: "/wiki/concepts/marylandvking/"
   - key: "MascotLedBrandRecognition"
     title: "Mascot Led Brand Recognition"
     url: "/wiki/concepts/mascotledbrandrecognition/"

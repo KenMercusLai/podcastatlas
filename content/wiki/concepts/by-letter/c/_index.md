@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6142
+wiki_total_pages: 6147
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1067,6 +1067,9 @@ wiki_pages:
   - key: "ComparativeAdvantage"
     title: "Comparative Advantage"
     url: "/wiki/concepts/comparativeadvantage/"
+  - key: "CompelledDNASamplingFourthAmendment"
+    title: "Compelled DNA Sampling Fourth Amendment"
+    url: "/wiki/concepts/compelleddnasamplingfourthamendment/"
   - key: "CompensatingDifferentials"
     title: "Compensating Differentials"
     url: "/wiki/concepts/compensatingdifferentials/"

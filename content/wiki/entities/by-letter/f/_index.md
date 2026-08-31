@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8626
+wiki_total_pages: 8630
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "FederalAviationAdministration"
     title: "Federal Aviation Administration"
     url: "/wiki/entities/federalaviationadministration/"
+  - key: "FederalBureauOfInvestigation"
+    title: "Federal Bureau of Investigation"
+    url: "/wiki/entities/federalbureauofinvestigation/"
   - key: "FederalCommunicationsCommission"
     title: "Federal Communications Commission"
     url: "/wiki/entities/federalcommunicationscommission/"

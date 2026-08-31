@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "4183d42d43a1966dec7c5bbfac09d4f2c3e8f656b0f96ec851796a20d5414bb1",
       "6f2decc50f7143e8a05bbc59ab1703f6672738ba27e09393ae0525b668e75826",
       "695b0bc2e7c51de7019a3589fe1de1fbccb3bf9c6f5b40a7c2fb9492430cb145",
       "733e44a61b10e6eb6a3251356cadfdc717c2d56793370e7cd1156daaf652b424",
@@ -454,11 +455,44 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 452
+    "paragraph_count": 453
   },
-  "overview_commit": "c3007e48c32c5902b007ae75d6c54707ecc937c1",
-  "overview_digest": "096a9cde406559a00b46da28c0da3fd458e53c9877bdcbc3921130fab6e31f24",
+  "overview_commit": "c0358c2d97c14c0067603e2672b9f5612da67672",
+  "overview_digest": "727117f8b11d3356310cbdac72bf4914d7fe18a9b057531a09d7e44f4f393586",
   "paragraphs": [
+    {
+      "id": "4183d42d43a1966dec7c5bbfac09d4f2c3e8f656b0f96ec851796a20d5414bb1",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128|ICE is collecting DNA from detainees for future policing]], a [[MarketplaceTech]] episode with [[StevieGleiberson]] of the [[GeorgetownLawCenterOnPrivacyTechnology|Georgetown Law Center on Privacy and Technology]] on [[USDepartmentOfHomelandSecurity|DHS]] and [[USImmigrationAndCustomsEnforcement|ICE]] DNA collection. It adds [[FederalBureauOfInvestigation|FBI]], [[CODIS]], [[MarylandVKing|Maryland v. King]], [[BriggsVMullen|Briggs v. Mullen]], [[ImmigrationDNADatabaseExpansion]], [[GeneticLineupPrivacyRisk]], and [[CompelledDNASamplingFourthAmendment]], while extending [[FourthAmendmentDigitalPrivacy]], [[CivilLibertiesSurveillanceRisk]], [[ImmigrationDetentionExpansion]], and [[EnforcementAgencyDataSharing]]. Its core synthesis is that immigration detention can become durable policing infrastructure when DNA collected from detainees is retained in CODIS and searched in future criminal investigations, especially when collection lacks criminal probable cause, clear removal review, or reliable age-boundary enforcement. No settled contradiction is recorded; the constitutional judgment remains contested because the episode presents Georgetown's critique without a detailed DHS, FBI, or DOJ defense.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BriggsVMullen",
+        "CODIS",
+        "CivilLibertiesSurveillanceRisk",
+        "CompelledDNASamplingFourthAmendment",
+        "EnforcementAgencyDataSharing",
+        "FederalBureauOfInvestigation",
+        "FourthAmendmentDigitalPrivacy",
+        "GeneticLineupPrivacyRisk",
+        "GeorgetownLawCenterOnPrivacyTechnology",
+        "ImmigrationDNADatabaseExpansion",
+        "ImmigrationDetentionExpansion",
+        "MarketplaceTech",
+        "MarylandVKing",
+        "StevieGleiberson",
+        "USDepartmentOfHomelandSecurity",
+        "USImmigrationAndCustomsEnforcement",
+        "tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128"
+      ]
+    },
     {
       "id": "6f2decc50f7143e8a05bbc59ab1703f6672738ba27e09393ae0525b668e75826",
       "primary_topic": "business-and-markets",

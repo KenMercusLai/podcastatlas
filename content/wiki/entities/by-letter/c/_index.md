@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8626
+wiki_total_pages: 8630
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "Codex"
     title: "Codex"
     url: "/wiki/entities/codex/"
+  - key: "CODIS"
+    title: "CODIS"
+    url: "/wiki/entities/codis/"
   - key: "Coffee"
     title: "Coffee / 咖啡"
     url: "/wiki/entities/coffee/"
