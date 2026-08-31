@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "4e9ee1c8ae5ee3d05c535b10e120a6ff4df66c9aa8ef620d13490674db349cda",
       "ccaa9d71a4268a8e57a46db28481a0cbbb4a5f8f4b57c007ebfea2724b22d223",
       "e15a2a8259ba0972259fc9c58ce097754f2f82f65bf5441deb6db62645bba6d0",
       "48b3696f329c8657bad580665b70e494102a0425198c53c22aaaf95256c778f7",
@@ -461,11 +462,44 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 459
+    "paragraph_count": 460
   },
-  "overview_commit": "ecd85a73f9184c95d8751ea8fae7b3b759d27fe1",
-  "overview_digest": "721c138ccf3702e3a3697f21d206c926ce12beb20eeb3e8d7777ab3a7bc880c2",
+  "overview_commit": "57d5986fe954121e25b7f8a08dc3ec22f7b3d30d",
+  "overview_digest": "744437206a8a3b0ef4d92984ff81f8d47e33f3ea7016365587c0686e5ba3ff96",
   "paragraphs": [
+    {
+      "id": "4e9ee1c8ae5ee3d05c535b10e120a6ff4df66c9aa8ef620d13490674db349cda",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 16 / 40 CE before [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] and [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]]. It adds [[ZhengCeJiaozhi|征侧]], [[ZhengErJiaozhi|征贰]], [[SuDingJiaozhi|苏定]], [[LuFangEasternHan|卢芳]], [[MinKanEasternHan|闵堪]], [[FemaleRebelSovereignty|女性起义称王]], [[BanditMutualReportingPacification|群盗互纠式平乱]], and [[WuzhuCoinRestoration|五铢钱恢复]], while extending [[LiuXiu|光武帝刘秀]], [[MaYuanEasternHan|马援]], [[JiaozhiCommandery|交趾郡]], [[Xiongnu|匈奴]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[RootCausePacification|查因安抚式治理]], [[MeritBasedRewardPunishment|功赏罪罚秩序]], and [[StrategicDefectorIncorporation|战略性降将吸纳]]. Its core synthesis is that Guangwu-era stabilization in 40 CE is multi-front: Jiaozhi resentment becomes female-led kingship, fiscal fraud is punished as harm to the people, bandit policy is redesigned around peer reporting and resettlement, Lu Fang's surrender settlement exposes Xiongnu trust risk, and Ma Yuan appears as both legal-punishment counselor and currency-restoration adviser. No settled contradiction is recorded; Gai Yan, Zhang Ji, Jiuzhen/Rinan/Hepu group identities, force counts, and the law-versus-human-feeling management preview remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BanditMutualReportingPacification",
+        "FemaleRebelSovereignty",
+        "JiaozhiCommandery",
+        "LiuXiu",
+        "LuFangEasternHan",
+        "MaYuanEasternHan",
+        "MeritBasedRewardPunishment",
+        "MinKanEasternHan",
+        "PeopleBasedPoliticalSecurity",
+        "RootCausePacification",
+        "RuiqiJiangtouZizhiTongjian",
+        "StrategicDefectorIncorporation",
+        "SuDingJiaozhi",
+        "WuzhuCoinRestoration",
+        "Xiongnu",
+        "ZhengCeJiaozhi",
+        "ZhengErJiaozhi",
+        "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r",
+        "zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix",
+        "zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0"
+      ]
+    },
     {
       "id": "ccaa9d71a4268a8e57a46db28481a0cbbb4a5f8f4b57c007ebfea2724b22d223",
       "primary_topic": "science-health-and-climate",

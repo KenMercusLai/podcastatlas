@@ -64916,6 +64916,13 @@
       "url": "/topics/history/"
     }
   ],
+  "WuzhuCoinRestoration": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "WuzhuiHorse": [
     {
       "key": "history",
@@ -74116,6 +74123,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra": [

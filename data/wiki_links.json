@@ -6211,6 +6211,10 @@
     "title": "Bandit Assassination Attribution / 盗贼行刺归因",
     "url": "/wiki/concepts/banditassassinationattribution/"
   },
+  "BanditMutualReportingPacification": {
+    "title": "群盗互纠式平乱 / Bandit Mutual-Reporting Pacification",
+    "url": "/wiki/concepts/banditmutualreportingpacification/"
+  },
   "BanditToArmyDiscipline": {
     "title": "盗匪成军纪律化 / Bandit-to-Army Discipline",
     "url": "/wiki/concepts/bandittoarmydiscipline/"
@@ -18522,6 +18526,10 @@
   "FemalePowerCenterPoliticalCapacity": {
     "title": "Female Power-Center Political Capacity / 权力中心女性政治能力",
     "url": "/wiki/concepts/femalepowercenterpoliticalcapacity/"
+  },
+  "FemaleRebelSovereignty": {
+    "title": "女性起义称王 / Female Rebel Sovereignty",
+    "url": "/wiki/concepts/femalerebelsovereignty/"
   },
   "FemaleReligiousLifeSpace": {
     "title": "女性宗教生活空间 / Female Religious Life Space",
@@ -32295,6 +32303,10 @@
     "title": "吕范 / Lu Fan",
     "url": "/wiki/entities/lufan/"
   },
+  "LuFangEasternHan": {
+    "title": "卢芳 / Lu Fang (Eastern Han)",
+    "url": "/wiki/entities/lufangeasternhan/"
+  },
   "LuGongLateHan": {
     "title": "鲁恭 / Lu Gong (late Han)",
     "url": "/wiki/entities/lugonglatehan/"
@@ -35114,6 +35126,10 @@
   "MinGongLateHan": {
     "title": "闵贡 / Min Gong (late Han)",
     "url": "/wiki/entities/mingonglatehan/"
+  },
+  "MinKanEasternHan": {
+    "title": "闵堪 / Min Kan (Eastern Han)",
+    "url": "/wiki/entities/minkaneasternhan/"
   },
   "MinKao": {
     "title": "Min Kao / 高明环",
@@ -49455,6 +49471,10 @@
     "title": "苏代 / Su Dai",
     "url": "/wiki/entities/sudai/"
   },
+  "SuDingJiaozhi": {
+    "title": "苏定 / Su Ding (Jiaozhi governor)",
+    "url": "/wiki/entities/sudingjiaozhi/"
+  },
   "SuGao": {
     "title": "苏高 / Su Gao",
     "url": "/wiki/entities/sugao/"
@@ -56411,6 +56431,10 @@
     "title": "无终县 / Wuzhong County (Late Han)",
     "url": "/wiki/entities/wuzhongcountylatehan/"
   },
+  "WuzhuCoinRestoration": {
+    "title": "五铢钱恢复 / Wuzhu Coin Restoration",
+    "url": "/wiki/concepts/wuzhucoinrestoration/"
+  },
   "WuzhuMinyueKing": {
     "title": "无诸 / Wuzhu (Minyue king)",
     "url": "/wiki/entities/wuzhuminyueking/"
@@ -59747,6 +59771,10 @@
     "title": "郑宝 / Zheng Bao (late Han)",
     "url": "/wiki/entities/zhengbaolatehan/"
   },
+  "ZhengCeJiaozhi": {
+    "title": "征侧 / Zheng Ce (Jiaozhi)",
+    "url": "/wiki/entities/zhengcejiaozhi/"
+  },
   "ZhengChangHanKing": {
     "title": "郑昌 / Zheng Chang (Han King)",
     "url": "/wiki/entities/zhengchanghanking/"
@@ -59758,6 +59786,10 @@
   "ZhengChunEasternHan": {
     "title": "郑纯 / Zheng Chun (Eastern Han)",
     "url": "/wiki/entities/zhengchuneasternhan/"
+  },
+  "ZhengErJiaozhi": {
+    "title": "征贰 / Zheng Er (Jiaozhi)",
+    "url": "/wiki/entities/zhengerjiaozhi/"
   },
   "ZhengGuoCanal": {
     "title": "郑国渠 / Zhengguo Canal",
@@ -64614,6 +64646,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r": {
+    "title": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r/"
   },
   "zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix": {
     "title": "《资治通鉴·汉纪》719丨光武帝刘秀算不算渣男？",

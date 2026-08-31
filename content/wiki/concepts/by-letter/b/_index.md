@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6175
+wiki_total_pages: 6178
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "BreakingCauldronsAndSinkingBoats"
     title: "破釜沉舟 / Breaking Cauldrons and Sinking Boats"
     url: "/wiki/concepts/breakingcauldronsandsinkingboats/"
+  - key: "BanditMutualReportingPacification"
+    title: "群盗互纠式平乱 / Bandit Mutual-Reporting Pacification"
+    url: "/wiki/concepts/banditmutualreportingpacification/"
   - key: "BackwaterBattle"
     title: "背水一战 / Backwater Battle"
     url: "/wiki/concepts/backwaterbattle/"

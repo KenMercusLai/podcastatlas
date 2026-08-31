@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-01] ingest | 《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？
+
+Ingested the 2026-06-21 芮淇讲透资治通鉴 episode backfilling Jianwu 16 / 40 CE on Zheng Ce and Zheng Er's Jiaozhi revolt, Su Ding's trigger role, Ma Yuan's later suppression and five-zhu coin memorial, Liu Xiu's land-and-grain fraud executions, anti-bandit mutual-reporting policy and resettlement, and Lu Fang/Min Kan's fragile surrender settlement with Xiongnu. Created the source note plus `ZhengCeJiaozhi`, `ZhengErJiaozhi`, `SuDingJiaozhi`, `LuFangEasternHan`, `MinKanEasternHan`, `FemaleRebelSovereignty`, `BanditMutualReportingPacification`, and `WuzhuCoinRestoration`; updated `LiuXiu`, `MaYuanEasternHan`, `JiaozhiCommandery`, Hanji 720 source links, overview, index, generated synthesis artifacts, and validation state. No settled contradiction found; Gai Yan, Zhang Ji, Jiuzhen/Rinan/Hepu groups, exact force counts, and the law-versus-human-feeling management preview remain source-scoped.
+
 ## [2026-09-01] ingest | 财报的根 + 估值的茎 = 叙事的果实
 
 Ingested the 2026-08-31 面基 episode with Zou Peixuan on financial reports, DCF first principles, valuation as quantified narrative, terminal-value ceilings, prosperity-investing traps, A-share auction-like pricing, and capitalized research process. Created `ZouPeixuan`, `ChuantouXushi`, `ChuantouGuzhi`, `DCFValuationAsNarrative`, `TerminalValueNarrative`, `AShareAuctionPricing`, `ProsperityInvestingTrap`, and `CapitalizedResearchProcess`; updated `Mianji`, overview, index, generated synthesis artifacts, and validation state. No settled contradiction found; company examples such as Tencent, CATL, Moutai, LeEco, Midea, banking, coal, and photovoltaic cases remain source-scoped unless fuller case evidence is ingested.
@@ -14495,6 +14499,10 @@ Ran health, identity validation, and lint. Health scanned 16,628 wiki pages with
 ## [2026-09-01] ingest | Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick
 
 Ingested the 2026-06-22 Huberman Lab episode with Paul Eastwick on attraction, mate selection, dating apps, repeated social contact, perceived similarity, social support, attachment, sexual satisfaction, and shared relationship narratives. Created `PaulEastwick`, `IdiosyncraticAttraction`, `DatingAppMarketplaceDynamics`, `RepeatedContactDating`, `PerceivedSimilarityInRelationships`, and `SharedRelationshipNarrative`; migrated and updated `SelfSimilarityInIntimacy` and `RelationshipNeedDiversification`; updated `HubermanLab`, `AndrewHuberman`, overview, and index. No settled contradiction found; app-swipe rates, age-preference data, income-effect claims, gendered support patterns, same-gender dating observations, attachment-change claims, and sexual-satisfaction claims remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] lint | Wiki health check
 

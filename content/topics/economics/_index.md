@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1899
+topic_total_pages: 1901
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -2800,6 +2800,9 @@ topic_concepts:
   - key: "ZouXikouMigration"
     title: "Zou Xikou Migration"
     url: "/wiki/concepts/zouxikoumigration/"
+  - key: "WuzhuCoinRestoration"
+    title: "五铢钱恢复 / Wuzhu Coin Restoration"
+    url: "/wiki/concepts/wuzhucoinrestoration/"
   - key: "MerchantComposureDiscipline"
     title: "商人定气功夫 / Merchant Composure Discipline"
     url: "/wiki/concepts/merchantcomposurediscipline/"
@@ -5658,6 +5661,9 @@ topic_sources:
   - key: "zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza"
     title: "《资治通鉴·周纪》75-4丨为什么说管仲才是经济战的鼻祖？"
     url: "/wiki/sources/zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza/"
+  - key: "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r"
+    title: "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r/"
   - key: "zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr"
     title: "《资治通鉴·汉纪》927丨做生意的最高境界是什么？"
     url: "/wiki/sources/zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr/"

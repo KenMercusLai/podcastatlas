@@ -4300,6 +4300,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/banzhaolatehan/"
     },
+    "BanditMutualReportingPacification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？ [liKQ4paHQ21k6bxbAOHwDHcNWg5r].md",
+          "key": "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/banditmutualreportingpacification/"
+    },
     "BaoJunEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -15377,6 +15393,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/femalepowercenterpoliticalcapacity/"
     },
+    "FemaleRebelSovereignty": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？ [liKQ4paHQ21k6bxbAOHwDHcNWg5r].md",
+          "key": "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？ [lsliZSpo8rywnf3CeByHINcDhvZ0].md",
+          "key": "zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/femalerebelsovereignty/"
+    },
     "FemaleReligiousLifeSpace": {
       "episode_count": 1,
       "show_count": 1,
@@ -23548,9 +23587,9 @@
       "url": "/wiki/entities/jiaozhongshuleking/"
     },
     "JiaozhiCommandery": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱 [lqMAbg3bpYz6Ct2V4ArX-IUn57Ws].md",
@@ -23572,9 +23611,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？ [liKQ4paHQ21k6bxbAOHwDHcNWg5r].md",
+          "key": "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-01",
       "url": "/wiki/entities/jiaozhicommandery/"
     },
     "JidduKrishnamurti": {
@@ -27283,9 +27329,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 2,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -27398,6 +27444,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》719丨光武帝刘秀算不算渣男？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？ [liKQ4paHQ21k6bxbAOHwDHcNWg5r].md",
+          "key": "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r/"
         }
       ],
       "updated": "2026-09-01",
@@ -28240,6 +28293,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/loyaltycollateraldilemma/"
+    },
+    "LuFangEasternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？ [liKQ4paHQ21k6bxbAOHwDHcNWg5r].md",
+          "key": "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？ [lsliZSpo8rywnf3CeByHINcDhvZ0].md",
+          "key": "zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/lufangeasternhan/"
     },
     "LuGongLateHan": {
       "episode_count": 2,
@@ -29386,9 +29462,9 @@
       "url": "/wiki/entities/maxulatehan/"
     },
     "MaYuanEasternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂 [ltjL2bGpyyz1bMwE_4mfCYd9E6cf].md",
@@ -29431,6 +29507,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》719丨光武帝刘秀算不算渣男？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？ [liKQ4paHQ21k6bxbAOHwDHcNWg5r].md",
+          "key": "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r/"
         }
       ],
       "updated": "2026-09-01",
@@ -30872,6 +30955,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/militaryrewardeunuchgatekeeping/"
+    },
+    "MinKanEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？ [liKQ4paHQ21k6bxbAOHwDHcNWg5r].md",
+          "key": "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/minkaneasternhan/"
     },
     "MindBodyUnion": {
       "episode_count": 3,
@@ -41352,6 +41451,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/structuralpowerimbalance/"
     },
+    "SuDingJiaozhi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？ [liKQ4paHQ21k6bxbAOHwDHcNWg5r].md",
+          "key": "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/sudingjiaozhi/"
+    },
     "SuKangLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -47112,6 +47227,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/wuyinlatehan/"
     },
+    "WuzhuCoinRestoration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？ [liKQ4paHQ21k6bxbAOHwDHcNWg5r].md",
+          "key": "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/wuzhucoinrestoration/"
+    },
     "XiaFangLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -51407,6 +51538,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhengbaolatehan/"
     },
+    "ZhengCeJiaozhi": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？ [liKQ4paHQ21k6bxbAOHwDHcNWg5r].md",
+          "key": "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？ [lsliZSpo8rywnf3CeByHINcDhvZ0].md",
+          "key": "zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/zhengcejiaozhi/"
+    },
     "ZhengChunEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -51422,6 +51576,29 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/zhengchuneasternhan/"
+    },
+    "ZhengErJiaozhi": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？ [liKQ4paHQ21k6bxbAOHwDHcNWg5r].md",
+          "key": "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？ [lsliZSpo8rywnf3CeByHINcDhvZ0].md",
+          "key": "zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/zhengerjiaozhi/"
     },
     "ZhengHongEasternHan": {
       "episode_count": 3,

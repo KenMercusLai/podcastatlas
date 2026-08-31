@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-01
-as_of_overview_commit: 43731b6c1197d1a6033dfb929f362da355a7208e
+as_of_overview_commit: 57d5986fe954121e25b7f8a08dc3ec22f7b3d30d
 summary: "Podcast Atlas maps AI, markets, culture, governance, history, psychology, health, and work through one boundary theme: claims need context, evidence, and institutions."
-episode_count: 1807
-source_count: 1807
-paragraph_count: 459
+episode_count: 1809
+source_count: 1809
+paragraph_count: 460
 topic_count: 8
 ---
 
@@ -49,7 +49,7 @@ Culture and media sources read stories, ritual, brands, games, podcasts, AI ente
 
 ### Governance and Institutions
 
-Governance synthesis emphasizes state and institutional capacity: rules work only when incentives, records, succession, exits, audits, privacy controls, liability, and enforcement procedures make power legible and bounded.
+Governance synthesis treats state capacity as incentives plus procedure: Hanji 718 adds Jiaozhi revolt, anti-bandit rewards, surrender settlement, fiscal accountability, and five-zhu restoration, while modern privacy and policing cases keep data power bounded by process.
 
 - Federal biometric policing needs sharper process boundaries when civil detention becomes criminal database infrastructure: [[USDepartmentOfHomelandSecurity]] and [[USImmigrationAndCustomsEnforcement]] DNA collection feeding [[CODIS]] through [[FederalBureauOfInvestigation]] turns [[ImmigrationDNADatabaseExpansion]] into an [[EnforcementAgencyDataSharing]] and [[CivilLibertiesSurveillanceRisk]] problem, while [[CompelledDNASamplingFourthAmendment]], [[MarylandVKing]], and [[BriggsVMullen]] keep legality contested around probable cause, retention, age-threshold compliance, and future police searches. Evidence: [[tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128]], [[USDepartmentOfHomelandSecurity]], [[USImmigrationAndCustomsEnforcement]], [[FederalBureauOfInvestigation]], [[CODIS]], [[ImmigrationDNADatabaseExpansion]], [[EnforcementAgencyDataSharing]], [[CivilLibertiesSurveillanceRisk]], [[CompelledDNASamplingFourthAmendment]], [[MarylandVKing]], [[BriggsVMullen]], [[GeneticLineupPrivacyRisk]], [[FourthAmendmentDigitalPrivacy]], [[GeorgetownLawCenterOnPrivacyTechnology]], [[StevieGleiberson]].
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].

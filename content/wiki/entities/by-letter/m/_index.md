@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8670
+wiki_total_pages: 8675
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1481,6 +1481,9 @@ wiki_pages:
   - key: "MeiwuFortress"
     title: "郿坞 / Meiwu Fortress"
     url: "/wiki/entities/meiwufortress/"
+  - key: "MinKanEasternHan"
+    title: "闵堪 / Min Kan (Eastern Han)"
+    url: "/wiki/entities/minkaneasternhan/"
   - key: "MinChunLateHan"
     title: "闵纯 / Min Chun (late Han)"
     url: "/wiki/entities/minchunlatehan/"

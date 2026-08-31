@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8670
+wiki_total_pages: 8675
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1952,6 +1952,9 @@ wiki_pages:
   - key: "Suning"
     title: "苏宁 / Suning"
     url: "/wiki/entities/suning/"
+  - key: "SuDingJiaozhi"
+    title: "苏定 / Su Ding (Jiaozhi governor)"
+    url: "/wiki/entities/sudingjiaozhi/"
   - key: "SuKangLateHan"
     title: "苏康 / Su Kang (late Han)"
     url: "/wiki/entities/sukanglatehan/"

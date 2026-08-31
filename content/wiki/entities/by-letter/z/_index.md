@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8670
+wiki_total_pages: 8675
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -836,6 +836,12 @@ wiki_pages:
   - key: "ZhangHeZhangChu"
     title: "张鹤 / Zhang He (Zhang Chu)"
     url: "/wiki/entities/zhanghezhangchu/"
+  - key: "ZhengCeJiaozhi"
+    title: "征侧 / Zheng Ce (Jiaozhi)"
+    url: "/wiki/entities/zhengcejiaozhi/"
+  - key: "ZhengErJiaozhi"
+    title: "征贰 / Zheng Er (Jiaozhi)"
+    url: "/wiki/entities/zhengerjiaozhi/"
   - key: "ZouJi"
     title: "成侯邹忌 / Chenghou Zou Ji"
     url: "/wiki/entities/zouji/"

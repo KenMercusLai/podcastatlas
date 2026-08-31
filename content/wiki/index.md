@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？](sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r.md) — 40 CE Guangwu-era episode on Zheng Ce and Zheng Er's Jiaozhi revolt, land-and-grain fraud punishment, anti-bandit incentive design, Lu Fang's fragile surrender, and Ma Yuan's five-zhu coin memorial.
 - [681. Brazil: The Emperor's Anthem (Part 5)](sources/681-brazil-the-emperors-anthem-part-5-glt5596929385.md) — The Rest Is History episode on Brazil's national anthem, Portuguese court in Rio, Pedro I independence, imperial slavery, republican symbol reuse, 1922 lyrics, flag imagery, and Diretas Ja protest performance.
 - [Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick](sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085.md) — Huberman Lab episode with Paul Eastwick on idiosyncratic attraction, dating-app marketplace dynamics, repeated-contact dating, perceived similarity, social support, and shared relationship narratives.
 - [《资治通鉴·汉纪》719丨光武帝刘秀算不算渣男？](sources/zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix.md) — 41 CE late Guangwu episode on Guo Shengtong's deposition, Yin Lihua's elevation, Liu Yang's founding marriage alliance, Zhi Yun's warning, Guo-branch compensation, Shache recognition downgrading, Pei Zun's frontier objection, Ma Yuan's deployments, and Ji Tong's Liaodong appointment.
@@ -1816,6 +1817,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [征侧 / Zheng Ce (Jiaozhi)](entities/ZhengCeJiaozhi.md) — Jiaozhi local elite woman whose 40 CE revolt becomes a female kingship claim before Ma Yuan's suppression.
+- [征贰 / Zheng Er (Jiaozhi)](entities/ZhengErJiaozhi.md) — Zheng Ce's sister and co-leader in the Jiaozhi revolt.
+- [苏定 / Su Ding (Jiaozhi governor)](entities/SuDingJiaozhi.md) — Jiaozhi governor whose attempted punishment of Zheng Ce triggers the current revolt branch.
+- [卢芳 / Lu Fang (Eastern Han)](entities/LuFangEasternHan.md) — Xiongnu-linked surrender actor incorporated by Liu Xiu but later fragile enough to defect again.
+- [闵堪 / Min Kan (Eastern Han)](entities/MinKanEasternHan.md) — Paired surrender actor appointed Dai Chancellor in Lu Fang's settlement.
 - [Brazilian National Anthem](entities/BrazilianNationalAnthem.md) — Anthem whose tune, lyrics, and performance history carry Brazil's monarchy, republic, slavery-shadowed identity, and protest memory.
 - [Brazilian Flag](entities/BrazilianFlag.md) — National symbol whose colors, stars, Southern Cross reference, and positivist motto connect dynastic inheritance to republican symbolism.
 - [Brazilian Independence](entities/BrazilianIndependence.md) — 1822 break with Portuguese authority led by Dom Pedro I and later remembered through the anthem's Ipiranga reference.
@@ -10490,6 +10496,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [女性起义称王 / Female Rebel Sovereignty](concepts/FemaleRebelSovereignty.md) — Pattern where Zheng Ce's Jiaozhi revolt becomes a female-led ruler claim rather than only local disorder.
+- [群盗互纠式平乱 / Bandit Mutual-Reporting Pacification](concepts/BanditMutualReportingPacification.md) — Guangwu-era anti-bandit incentive design using peer reporting, pardons, official-accountability repair, shelter penalties, and resettlement.
+- [五铢钱恢复 / Wuzhu Coin Restoration](concepts/WuzhuCoinRestoration.md) — Ma Yuan's memorial and Liu Xiu's adoption of restored five-zhu coinage as practical normalization.
 - [National Anthem Political Plasticity](concepts/NationalAnthemPoliticalPlasticity.md) — Pattern where an official anthem can be claimed by opposed movements because its emotional authority exceeds one regime.
 - [Regime Symbol Continuity](concepts/RegimeSymbolContinuity.md) — Pattern where a public symbol survives regime change because it has become usable national memory.
 - [Slavery National Identity Contradiction](concepts/SlaveryNationalIdentityContradiction.md) — Tension between national liberty or unity claims and a historical formation built on enslaved labor.

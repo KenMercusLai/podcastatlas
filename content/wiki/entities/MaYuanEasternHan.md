@@ -10,16 +10,19 @@ sources:
   - zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8
   - zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra
   - zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix
+  - zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r
 last_updated: 2026-09-01
 ---
 
 ## Overview
 
-马援 / Ma Yuan is synthesized as a frontier general, family disciplinarian, and court-risk diagnostician whose danger begins before his posthumous slander. [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] now adds the 41 CE prelude: Ma Yuan helps suppress Li Guang and is appointed Fubo General for the Jiaozhi campaign. Hanji 722 then has him return from Jiaozhi, seek northern service, state the horsehide-burial ideal, and warn [[LiangSongLinxiangMarquis|梁松]] and [[DouGuEasternHan|窦固]] that wealth and rank can collapse without disciplined conduct.
+马援 / Ma Yuan is synthesized as a frontier general, family disciplinarian, court-risk diagnostician, and policy adviser whose danger begins before his posthumous slander. [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] now adds a 40 CE adviser layer: Ma Yuan defends harsh punishment for land-and-grain fraud, recommends [[WuzhuCoinRestoration|五铢钱恢复]], and is previewed as the 43 CE suppressor of [[ZhengCeJiaozhi|征侧]] and [[ZhengErJiaozhi|征贰]]. [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] then gives the command prelude: Ma Yuan helps suppress Li Guang and is appointed Fubo General for the Jiaozhi campaign.
 
 ## Current Profile
 
-Hanji 719 gives Ma Yuan's earliest current late-Guangwu layer. He and Duan Zhi suppress Li Guang's rebellion around Wancheng, then Liu Xiu appoints Ma Yuan as Fubo General for the campaign against Zheng Ce in [[JiaozhiCommandery|Jiaozhi]]. The source therefore places Ma Yuan inside two simultaneous frontier needs: local rebellion suppression and preparation for the southern expedition.
+Hanji 718 gives Ma Yuan's earliest current late-Guangwu adviser layer. After [[LiuXiu|刘秀]] regrets executing Zhang Ji and more than ten administrators for land-measurement and grain fraud, Ma Yuan says they deserved death because they damaged the people. The same source has Ma Yuan recommend restoring five-zhu coins because they are convenient for ordinary use, and it previews his later 43 CE Jiaozhi campaign against Zheng Ce and Zheng Er.
+
+Hanji 719 gives the command prelude. He and Duan Zhi suppress Li Guang's rebellion around Wancheng, then Liu Xiu appoints Ma Yuan as Fubo General for the campaign against Zheng Ce in [[JiaozhiCommandery|Jiaozhi]]. The source therefore places Ma Yuan inside two simultaneous frontier needs: local rebellion suppression and preparation for the southern expedition.
 
 Hanji 722 supplies the next layer. After returning from Jiaozhi in 44 CE, Ma Yuan hears that [[Xiongnu|Xiongnu]] and [[Wuhuan|Wuhuan]] continue to trouble the northern frontier and wants to request another campaign. He frames proper military death as dying on the border and returning wrapped in horsehide rather than dying in bed. [[LiuXiu|Liu Xiu]] later permits him to campaign and gives him a public ritual sendoff.
 
@@ -39,7 +42,7 @@ Hanji 728 adds a separate remembered function. Ma Yuan warns that [[WangPanEaste
 
 ## Key Characteristics
 
-- Frontier general whose current sequence begins with 41 CE rebellion suppression and Jiaozhi campaign appointment.
+- Frontier general and policy adviser whose current sequence begins with 40 CE fiscal-punishment counsel, five-zhu coin restoration, and Jiaozhi suppression preview.
 - Late-life commander associated with renewed northern-campaign resolve, horsehide-burial language, and a ritual sendoff.
 - Family and elite disciplinarian whose advice teaches speech restraint, careful model selection, and the reversibility of wealth and rank.
 - Writer exposed by private-letter circulation when family advice becomes court accusation.
@@ -49,6 +52,9 @@ Hanji 728 adds a separate remembered function. Ma Yuan warns that [[WangPanEaste
 
 ## Evidence
 
+- 40 CE fiscal-punishment counsel: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Ma Yuan tells Liu Xiu that officials executed for land-and-grain fraud deserved death because they damaged the people.
+- Five-zhu coin restoration: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Ma Yuan recommends restoring five-zhu coins and Liu Xiu adopts the recommendation.
+- Jiaozhi suppression preview: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Ma Yuan later kills Zheng Ce and Zheng Er in 43 CE and sends their bodies to Luoyang.
 - 41 CE command prelude: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] says Ma Yuan helps suppress Li Guang and is appointed Fubo General for the Jiaozhi campaign.
 - Northern-frontier resolve: [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] says Ma Yuan returns from Jiaozhi, wants to campaign against Xiongnu and Wuhuan pressure, and states the ideal of dying on the frontier wrapped in horsehide.
 - Ritual sendoff: [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] says Liu Xiu permits Ma Yuan's request, sends him to garrison, and orders officials to sacrifice to the road deity before departure.
@@ -66,20 +72,23 @@ Hanji 728 adds a separate remembered function. Ma Yuan warns that [[WangPanEaste
 
 ## Qualifications
 
-This page still does not reconstruct Ma Yuan's complete military biography. Hanji 719 adds a 41 CE prelude but leaves Li Guang, Duan Zhi, Zheng Ce, Liu Long, and exact operational geography source-scoped. Hanji 722 adds a northern-frontier and status-warning layer, but the exact garrison location and later tactical outcome remain source-scoped. Hanji 724 adds the Wuling entry point but not the full campaign outcome. Hanji 725 clarifies the resentment and Wuling route prehistory but leaves the exact path by which the letter circulated partly inferred. Hanji 726 explains the posthumous accusation and defense but does not prove every motive behind Liang Song, the Dou-family marriage break, or Liu Xiu's final formal settlement. Hanji 728 supplies remembered warnings after Ma Yuan's death, so its political-risk function should be read as a later narrative use of Ma Yuan, not as the same event sequence as the 49 CE slander case.
+This page still does not reconstruct Ma Yuan's complete military biography. Hanji 718 adds adviser, currency, and Jiaozhi outcome notices but compresses the 43 CE military result; the operational campaign remains source-bounded elsewhere. Hanji 719 adds a 41 CE prelude but leaves Li Guang, Duan Zhi, Liu Long, and exact operational geography source-scoped. Hanji 722 adds a northern-frontier and status-warning layer, but the exact garrison location and later tactical outcome remain source-scoped. Hanji 724 adds the Wuling entry point but not the full campaign outcome. Hanji 725 clarifies the resentment and Wuling route prehistory but leaves the exact path by which the letter circulated partly inferred. Hanji 726 explains the posthumous accusation and defense but does not prove every motive behind Liang Song, the Dou-family marriage break, or Liu Xiu's final formal settlement. Hanji 728 supplies remembered warnings after Ma Yuan's death, so its political-risk function should be read as a later narrative use of Ma Yuan, not as the same event sequence as the 49 CE slander case.
 
 ## What Changed
 
-- Added Hanji 719 as Ma Yuan's 41 CE prelude: Li Guang suppression and Fubo General appointment for Jiaozhi.
-- Preserved Hanji 722 as the earlier late-life northern-frontier layer: horsehide-burial resolve, ritual sendoff, and warning to Liang Song and Dou Gu.
-- Preserved Hanji 724 as the Wuling campaign-entry layer: age test, renewed command, willingness to die, and concern about powerful young nobles.
-- Reframed Hanji 725 as the next pre-death exposure layer after Ma Yuan has already returned to southern-frontier command.
-- Preserved Hanji 726 as the posthumous accusation and vindication layer, and Hanji 728 as a later remembered warning role.
+- Added Hanji 718 as Ma Yuan's 40 CE adviser layer: fiscal-punishment defense, five-zhu coin restoration, and compressed Jiaozhi suppression outcome.
+- Placed Hanji 719 after that as the 41 CE command prelude for Li Guang suppression and Fubo General appointment.
+- Preserved Hanji 722 as the later northern-frontier layer: horsehide-burial resolve, ritual sendoff, and warning to Liang Song and Dou Gu.
+- Preserved Hanji 724-726 as the Wuling campaign-entry, pre-death exposure, posthumous accusation, and vindication sequence.
+- Preserved Hanji 728 as a later remembered political-risk warning role.
 
 ## Relationships
 
 - [[LiuXiu|光武帝刘秀]] - ruler who appoints Ma Yuan for frontier work, first reacts angrily after Ma Yuan's death, and later softens after Zhu Bo's memorial.
 - [[JiaozhiCommandery|交趾郡]] - southern frontier setting for Ma Yuan's Fubo General appointment and later return.
+- [[ZhengCeJiaozhi|征侧]] - Jiaozhi rebel ruler whom Ma Yuan later kills in the suppression campaign.
+- [[ZhengErJiaozhi|征贰]] - Zheng Ce's sister and co-leader killed in Ma Yuan's suppression campaign.
+- [[WuzhuCoinRestoration|五铢钱恢复]] - monetary-policy concept grounded by Ma Yuan's memorial.
 - [[LongBogaoEasternHan|龙伯高]] - positive model in Ma Yuan's warning letter.
 - [[DuJiliangEasternHan|杜季良]] - risky model whose accusation weaponizes Ma Yuan's letter.
 - [[DouGuEasternHan|窦固]] - young elite warned by Ma Yuan before later becoming a major frontier commander.

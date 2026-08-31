@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6175
+wiki_total_pages: 6178
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "WudaiSocialMobility"
     title: "五代阶层流动 / Five Dynasties Social Mobility"
     url: "/wiki/concepts/wudaisocialmobility/"
+  - key: "WuzhuCoinRestoration"
+    title: "五铢钱恢复 / Wuzhu Coin Restoration"
+    url: "/wiki/concepts/wuzhucoinrestoration/"
   - key: "WatsonPower"
     title: "华生力 / Watson Power"
     url: "/wiki/concepts/watsonpower/"
