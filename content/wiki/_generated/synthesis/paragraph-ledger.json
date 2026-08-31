@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "5fac9c90d9086301afdb70bdae4dd076f54a6c5ee81f98bd5dc2fbaa714c363e",
       "841684bf4eae908daccc2a6e679b9d575732db0c38a70b9d0ff2fd3c721edcf7",
       "014f4592e0aed54117e20c9725eb4fd6136cc5dfb66a786b35b13035e868ab46",
       "95f9ae3aed5123bf49c59a2515065ceaafb0b3eea65c7aa8e9afdfcc2056ba57",
@@ -439,11 +440,43 @@
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0"
     ],
-    "paragraph_count": 437
+    "paragraph_count": 438
   },
-  "overview_commit": "308844e1fc126ab4cdfb738edf0a1a9014b0b48f",
-  "overview_digest": "e6e0005afe6f9a50d709c976ad77df412c602e6a86b87e7cebd07f61d9813947",
+  "overview_commit": "efae61992e1ba84a5631ccdea4f1895ed0361260",
+  "overview_digest": "ac05d591342c4d5c60191c91cd34d3544d9246f72ea09f40eb68f260122c4561",
   "paragraphs": [
+    {
+      "id": "5fac9c90d9086301afdb70bdae4dd076f54a6c5ee81f98bd5dc2fbaa714c363e",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080|682. South Africa: Mandela and the Death of Apartheid (Part 6)]], a [[TheRestIsHistory]] episode on [[SouthAfrica]], [[NelsonMandela]], [[Apartheid|apartheid]], the [[Springboks]], and the [[RugbyWorldCup1995|1995 Rugby World Cup]]. It adds [[SouthAfrica]], [[NelsonMandela]], [[AfricanNationalCongress|African National Congress]], [[Afrikaners]], [[Springboks]], [[RugbyWorldCup1995|1995 Rugby World Cup]], [[EllisPark]], [[EnochSontonga]], [[NkosiSikelelIAfrika|Nkosi Sikelel' iAfrika]], [[DieStemVanSuidAfrika|Die Stem van Suid-Afrika]], [[FrancoisPienaar]], [[ChesterWilliams]], [[Apartheid]], [[SymbolicReconciliationStatecraft]], [[SportAsReconciliationRitual]], and [[MultilingualNationalAnthemFormation]], while extending [[TheRestIsHistory]] and [[HistoricalMemoryContest]]. Its core synthesis is that Mandela's reconciliation strategy worked through contested symbols rather than simple replacement: he retained the Springbok name and jersey, asked black South Africans to support a team many associated with apartheid, asked white rugby supporters to recognize Nkosi and himself, and backed a fused multilingual anthem that preserved opposed emotional memories inside one national ceremony. No settled contradiction is recorded; the episode adds a political-symbol branch distinct from existing South African wine and business references, and its long-term claims remain bounded to the 1995 rugby and anthem narrative.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080",
+        "AfricanNationalCongress",
+        "Afrikaners",
+        "Apartheid",
+        "ChesterWilliams",
+        "DieStemVanSuidAfrika",
+        "EllisPark",
+        "EnochSontonga",
+        "FrancoisPienaar",
+        "HistoricalMemoryContest",
+        "MultilingualNationalAnthemFormation",
+        "NelsonMandela",
+        "NkosiSikelelIAfrika",
+        "RugbyWorldCup1995",
+        "SouthAfrica",
+        "SportAsReconciliationRitual",
+        "Springboks",
+        "SymbolicReconciliationStatecraft",
+        "TheRestIsHistory"
+      ]
+    },
     {
       "id": "841684bf4eae908daccc2a6e679b9d575732db0c38a70b9d0ff2fd3c721edcf7",
       "primary_topic": "history-and-geopolitics",

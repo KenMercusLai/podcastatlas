@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 8559
+wiki_total_pages: 8571
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "NeilMohan"
     title: "Neil Mohan"
     url: "/wiki/entities/neilmohan/"
+  - key: "NelsonMandela"
+    title: "Nelson Mandela"
+    url: "/wiki/entities/nelsonmandela/"
   - key: "NeMoCloud"
     title: "NeMo Cloud"
     url: "/wiki/entities/nemocloud/"
@@ -461,6 +464,9 @@ wiki_pages:
   - key: "NiuniuSukiyaki"
     title: "Niuniu Sukiyaki / 牛牛寿喜烧"
     url: "/wiki/entities/niuniusukiyaki/"
+  - key: "NkosiSikelelIAfrika"
+    title: "Nkosi Sikelel' iAfrika"
+    url: "/wiki/entities/nkosisikeleliafrika/"
   - key: "NoExit"
     title: "No Exit / 《禁闭》"
     url: "/wiki/entities/noexit/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6101
+wiki_total_pages: 6105
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -953,6 +953,9 @@ wiki_pages:
   - key: "SpontaneousGenerationLifeOrigin"
     title: "Spontaneous Generation As Life-Origin Frame / 自然发生论作为生命起源框架"
     url: "/wiki/concepts/spontaneousgenerationlifeorigin/"
+  - key: "SportAsReconciliationRitual"
+    title: "Sport as Reconciliation Ritual"
+    url: "/wiki/concepts/sportasreconciliationritual/"
   - key: "SportsAnalytics"
     title: "Sports Analytics"
     url: "/wiki/concepts/sportsanalytics/"
@@ -1622,6 +1625,9 @@ wiki_pages:
   - key: "SymbolicHumanInTheLoop"
     title: "Symbolic Human In The Loop"
     url: "/wiki/concepts/symbolichumanintheloop/"
+  - key: "SymbolicReconciliationStatecraft"
+    title: "Symbolic Reconciliation Statecraft"
+    url: "/wiki/concepts/symbolicreconciliationstatecraft/"
   - key: "SymmetricInterstateCredibility"
     title: "Symmetric Interstate Credibility / 对称外交信用"
     url: "/wiki/concepts/symmetricinterstatecredibility/"

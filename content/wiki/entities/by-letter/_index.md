@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8559
+wiki_total_pages: 8571
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -278,6 +278,12 @@ wiki_pages:
   - key: "Afghanistan"
     title: "Afghanistan"
     url: "/wiki/entities/afghanistan/"
+  - key: "AfricanNationalCongress"
+    title: "African National Congress"
+    url: "/wiki/entities/africannationalcongress/"
+  - key: "Afrikaners"
+    title: "Afrikaners"
+    url: "/wiki/entities/afrikaners/"
   - key: "AfroSheen"
     title: "Afro Sheen"
     url: "/wiki/entities/afrosheen/"

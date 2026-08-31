@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8559
+wiki_total_pages: 8571
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "CheshireCat"
     title: "Cheshire Cat / 柴郡猫"
     url: "/wiki/entities/cheshirecat/"
+  - key: "ChesterWilliams"
+    title: "Chester Williams"
+    url: "/wiki/entities/chesterwilliams/"
   - key: "Chevron"
     title: "Chevron"
     url: "/wiki/entities/chevron/"

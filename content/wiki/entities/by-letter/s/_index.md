@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8559
+wiki_total_pages: 8571
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -851,6 +851,9 @@ wiki_pages:
   - key: "SoulTrain"
     title: "Soul Train"
     url: "/wiki/entities/soultrain/"
+  - key: "SouthAfrica"
+    title: "South Africa"
+    url: "/wiki/entities/southafrica/"
   - key: "SouthChinaMorningPost"
     title: "South China Morning Post / 南华早报"
     url: "/wiki/entities/southchinamorningpost/"
@@ -914,6 +917,9 @@ wiki_pages:
   - key: "SpringAirlines"
     title: "Spring Airlines / 春秋航空"
     url: "/wiki/entities/springairlines/"
+  - key: "Springboks"
+    title: "Springboks"
+    url: "/wiki/entities/springboks/"
   - key: "SprinkleBites"
     title: "Sprinkle Bites"
     url: "/wiki/entities/sprinklebites/"

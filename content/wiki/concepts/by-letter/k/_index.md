@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 6101
+wiki_total_pages: 6105
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"

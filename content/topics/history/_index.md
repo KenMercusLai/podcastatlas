@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1534
+topic_total_pages: 1537
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1409,6 +1409,9 @@ topic_entities:
   - key: "NineteenTwentyNineSorkin"
     title: "1929 / 《1929》 (Andrew Ross Sorkin)"
     url: "/wiki/entities/nineteentwentyninesorkin/"
+  - key: "Afrikaners"
+    title: "Afrikaners"
+    url: "/wiki/entities/afrikaners/"
   - key: "AlbertPattySimon"
     title: "Albert \\\"Patty\\\" Simon"
     url: "/wiki/entities/albertpattysimon/"
@@ -1625,6 +1628,9 @@ topic_entities:
   - key: "Sichuan"
     title: "Sichuan / 四川"
     url: "/wiki/entities/sichuan/"
+  - key: "SouthAfrica"
+    title: "South Africa"
+    url: "/wiki/entities/southafrica/"
   - key: "SovietUnion"
     title: "Soviet Union"
     url: "/wiki/entities/sovietunion/"
@@ -3717,6 +3723,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080"
+    title: "682. South Africa: Mandela and the Death of Apartheid (Part 6)"
+    url: "/wiki/sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080/"
   - key: "683-washington-hero-of-the-revolution-part-1-glt3752138067"
     title: "683. Washington: Hero of the Revolution (Part 1)"
     url: "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"

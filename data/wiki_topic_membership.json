@@ -1647,6 +1647,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "683-washington-hero-of-the-revolution-part-1-glt3752138067": [
     {
       "key": "history",
@@ -5317,11 +5324,25 @@
       "url": "/topics/technology/"
     }
   ],
+  "AfricanNationalCongress": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AfricanRadioResilience": [
     {
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "Afrikaners": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "Afrobarometer": [
@@ -7345,6 +7366,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "Apartheid": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ApathyActionInitiation": [
@@ -20045,6 +20073,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "EllisPark": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Elys": [
     {
       "key": "technology",
@@ -20479,6 +20514,13 @@
     }
   ],
   "Enkidu": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "EnochSontonga": [
     {
       "key": "culture",
       "label": "Culture",
@@ -40386,6 +40428,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "MultilingualNationalAnthemFormation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "MultimodalAdultNeuroplasticity": [
     {
       "key": "science",
@@ -41175,6 +41224,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "NelsonMandela": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "NeoCloud": [
@@ -50629,6 +50685,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "RugbyWorldCup1995": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "RuhollahKhomeini": [
     {
       "key": "politics",
@@ -54227,6 +54290,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "SouthAfrica": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "SouthChinaMorningPost": [
     {
       "key": "culture",
@@ -54605,6 +54680,18 @@
       "url": "/topics/science/"
     }
   ],
+  "SportAsReconciliationRitual": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "SportsAnalytics": [
     {
       "key": "culture",
@@ -54907,6 +54994,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "Springboks": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Sprinto": [
@@ -56789,6 +56883,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "SymbolicReconciliationStatecraft": [
     {
       "key": "politics",
       "label": "Politics",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8559
+wiki_total_pages: 8571
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "FrancoAmericanAlliance1778"
     title: "Franco-American Alliance of 1778"
     url: "/wiki/entities/francoamericanalliance1778/"
+  - key: "FrancoisPienaar"
+    title: "Francois Pienaar"
+    url: "/wiki/entities/francoispienaar/"
   - key: "FrancoisTruffaut"
     title: "Francois Truffaut / 特吕弗"
     url: "/wiki/entities/francoistruffaut/"

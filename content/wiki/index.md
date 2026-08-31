@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [682. South Africa: Mandela and the Death of Apartheid (Part 6)](sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080.md) — The Rest Is History episode on Mandela, apartheid memory, Springbok rugby, the 1995 Rugby World Cup, Nkosi Sikelel' iAfrika, Die Stem, and symbolic reconciliation.
 - [《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军](sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh.md) — 芮淇讲透资治通鉴 episode on Geng Yan's Eastern Han founding career, Liu Xiu alignment, Youzhou cavalry, Peng Chong suspicion management, Qinghe/Qi campaign tactics, and post-merit retreat.
 - [《资治通鉴·汉纪》733-3丨句句皆是千古名言！淇姐劝你一定要读！](sources/zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey.md) — 芮淇讲透资治通鉴 episode reading 《寒窑赋》 as a fate, timing, life-course reversal, and self-possession text attributed to 吕蒙正.
 - [EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success](sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success.md) — Data Science With Sam episode with Sumayya Shravani on institutional trust, outsider diagnostic skill, cognitive diversity, and behavior-based enterprise AI adoption signals.
@@ -1786,6 +1787,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [South Africa](entities/SouthAfrica.md) — Post-apartheid national setting where Mandela uses rugby and anthem symbolism to stage reconciliation.
+- [Nelson Mandela](entities/NelsonMandela.md) — South African leader whose Springbok and anthem decisions anchor the episode's reconciliation-statecraft branch.
+- [African National Congress](entities/AfricanNationalCongress.md) — Anti-apartheid movement and governing party tied to Nkosi, Mandela, and post-1994 symbol compromise.
+- [Afrikaners](entities/Afrikaners.md) — White South African community whose rugby and anthem attachments make the Mandela reconciliation strategy politically charged.
+- [Springboks](entities/Springboks.md) — South African national rugby team reframed from apartheid-era symbol into shared 1995 World Cup ritual.
+- [1995 Rugby World Cup](entities/RugbyWorldCup1995.md) — Event where Mandela, the Springboks, Ellis Park, and the anthem ceremony made reconciliation visible.
+- [Ellis Park](entities/EllisPark.md) — Johannesburg rugby venue where the 1995 final staged Mandela's Springbok and anthem reconciliation scene.
+- [Enoch Sontonga](entities/EnochSontonga.md) — Methodist teacher and composer of Nkosi Sikelel' iAfrika whose grave memorial links hymn origin to national symbolism.
+- [Nkosi Sikelel' iAfrika](entities/NkosiSikelelIAfrika.md) — Christian hymn, ANC anthem, and South African national anthem component central to the episode.
+- [Die Stem van Suid-Afrika](entities/DieStemVanSuidAfrika.md) — Former state anthem retained and fused with Nkosi in South Africa's post-apartheid compromise.
+- [Francois Pienaar](entities/FrancoisPienaar.md) — Springbok captain whose number-six shirt and Mandela relationship anchor the 1995 rugby ritual.
+- [Chester Williams](entities/ChesterWilliams.md) — Only non-white player in the 1995 Springboks squad, qualifying the reconciliation symbol with limited representation.
 - [《寒窑赋》 / Hanyao Fu](entities/HanyaoFu.md) — Attributed admonitory text used by Hanji 733-3 to frame fate, timing, reversals of fortune, and conduct in poverty or success.
 - [吕蒙正 / Lyu Mengzheng](entities/LyuMengzheng.md) — Northern Song figure to whom Hanji 733-3 attributes 《寒窑赋》, kept source-scoped with name and authorship caution.
 - [Sumayya Shravani](entities/SumayyaShravani.md) — Data Science With Sam guest connecting enterprise AI adoption to institutional trust, outsider experience, cognitive diversity, and behavior-based measurement.
@@ -10349,6 +10362,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Apartheid](concepts/Apartheid.md) — South African racial-order system whose total social reach and symbolic afterlife give Mandela's reconciliation strategy its stakes.
+- [Symbolic Reconciliation Statecraft](concepts/SymbolicReconciliationStatecraft.md) — Use of inherited public symbols to include former opponents in a new settlement without denying prior harm.
+- [Sport as Reconciliation Ritual](concepts/SportAsReconciliationRitual.md) — Use of a major sporting event to stage shared identity across recently divided communities.
+- [Multilingual National Anthem Formation](concepts/MultilingualNationalAnthemFormation.md) — Anthem design pattern where multiple languages or song traditions represent a plural political community.
 - [Founding Commander Suspicion Management / 建国将领消疑](concepts/FoundingCommanderSuspicionManagement.md) — Founding-state trust pattern where powerful military families make loyalty credible before local force becomes rebellion risk.
 - [Battlefield Feint And Lure / 声东击西与诱敌](concepts/BattlefieldFeintAndLure.md) — Tactical pattern using false targets, controlled exits, feigned retreat, and ambush to move enemies into weaker positions.
 - [Power Completion Retreat / 功成退让](concepts/PowerCompletionRetreat.md) — Post-merit restraint pattern where a high-achievement actor reduces visible command after the central task is complete.

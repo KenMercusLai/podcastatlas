@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-31
-as_of_overview_commit: 8078a8914ea0b70acdd904838921e4c5c03f726a
-input_digest: 514d21778e23d65462660ec3738459985d3697da03d230676a6e358ddc3c0e06
+as_of_overview_commit: efae61992e1ba84a5631ccdea4f1895ed0361260
+input_digest: 88bab59752f00f843aa07bfe6f6fd6dc97abe24fef86f9e20a3b7bab42fc22d3
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 733-2 now moves the Eastern Han historical branch back to Liu Xiu's founding layer before Hanji 733-3 and Yongping: Geng Yan converts Geng-family Youzhou military resources into cavalry support, manages suspicion during Peng Chong's rebellion, wins through feint-and-lure campaign tactics, and later returns high command after merit is complete. Hanji 736 now moves the Eastern Han historical branch back to 61-63 CE / Yongping 4-6, combining Liu Cang's royal-kin withdrawal, Zheng Zhong's pre-frontier client-network refusal, Khotan king Guangde's Shache conquest under Northern Xiongnu counterpressure, Dou-family forged-authority scandal, and Mingdi's anti-flattery omen handling. Hanji 737 now moves the Eastern Han historical branch back to 64-65 CE before Hanji 738: Yin Lihua posthumous-title ritual, Northern Xiongnu raids and trade, Zheng Zhong original kowtow refusal, Southern Xiongnu collusion risk and Duliaoying creation, Zong Jun local governance, Liu Ying tolerated Buddhist/Huang-Lao devotion, White Horse Temple transmission memory, and Mingdi eclipse self-criticism. Existing Hanji 738-741 claims remain the next sequence of return-mission debate, official evaluation, Liu Ying case escalation, Xiongnu resource pressure, and 73 CE campaign. Hanji 733-3 sits outside the chronological Eastern Han sequence and adds a classical-text reception branch: HanyaoFu, attributed to Lyu Mengzheng, frames fate, timing, and reversal with cautious normalization rather than new dynastic event history.
+South Africa/Mandela adds a twentieth-century reconciliation-symbol branch: the 1995 Rugby World Cup and multilingual anthem show statecraft working through contested sport, music, and ceremony while bounded to one episode's narrative. Hanji 733-2 now moves the Eastern Han historical branch back to Liu Xiu's founding layer before Hanji 733-3 and Yongping: Geng Yan converts Geng-family Youzhou military resources into cavalry support, manages suspicion during Peng Chong's rebellion, wins through feint-and-lure campaign tactics, and later returns high command after merit is complete. Hanji 736 now moves the Eastern Han historical branch back to 61-63 CE / Yongping 4-6, combining Liu Cang's royal-kin withdrawal, Zheng Zhong's pre-frontier client-network refusal, Khotan king Guangde's Shache conquest under Northern Xiongnu counterpressure, Dou-family forged-authority scandal, and Mingdi's anti-flattery omen handling. Hanji 737 now moves the Eastern Han historical branch back to 64-65 CE before Hanji 738: Yin Lihua posthumous-title ritual, Northern Xiongnu raids and trade, Zheng Zhong original kowtow refusal, Southern Xiongnu collusion risk and Duliaoying creation, Zong Jun local governance, Liu Ying tolerated Buddhist/Huang-Lao devotion, White Horse Temple transmission memory, and Mingdi eclipse self-criticism. Existing Hanji 738-741 claims remain the next sequence of return-mission debate, official evaluation, Liu Ying case escalation, Xiongnu resource pressure, and 73 CE campaign. Hanji 733-3 sits outside the chronological Eastern Han sequence and adds a classical-text reception branch: HanyaoFu, attributed to Lyu Mengzheng, frames fate, timing, and reversal with cautious normalization rather than new dynastic event history.
 
 ## Cross-source Findings
+
+### South Africa Mandela Sport And Anthem Reconciliation
+
+[[682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080|682. South Africa: Mandela and the Death of Apartheid (Part 6)]] adds a twentieth-century reconciliation branch to [[TheRestIsHistory]]: [[NelsonMandela]] uses [[Springboks]] and [[RugbyWorldCup1995]] symbolism in [[SouthAfrica]] after [[Apartheid]] not by replacing contested emblems, but by asking black supporters to back a white-coded rugby team, asking white supporters to recognize [[NkosiSikelelIAfrika]] and Mandela, and folding [[DieStemVanSuidAfrika]] into [[MultilingualNationalAnthemFormation]] through [[SymbolicReconciliationStatecraft]] and [[SportAsReconciliationRitual]].
+
+**Evidence:** [[682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080]], [[TheRestIsHistory]], [[SouthAfrica]], [[NelsonMandela]], [[Apartheid]], [[Springboks]], [[RugbyWorldCup1995]], [[AfricanNationalCongress]], [[Afrikaners]], [[EllisPark]], [[EnochSontonga]], [[NkosiSikelelIAfrika]], [[DieStemVanSuidAfrika]], [[FrancoisPienaar]], [[ChesterWilliams]], [[SymbolicReconciliationStatecraft]], [[SportAsReconciliationRitual]], [[MultilingualNationalAnthemFormation]], [[HistoricalMemoryContest]]
+
+**Qualifications:**
+
+- This claim is source-scoped to one The Rest Is History episode and should not be generalized into a full assessment of post-apartheid South African reconciliation.
+- The episode frames 1995 rugby and anthem ritual as symbolic integration; it does not establish material equality or long-term social repair.
+- The branch is distinct from existing South African wine and business references and records no settled contradiction with them.
 
 ### Hanji 733 2 Geng Yan Founding Cavalry And Command Retreat
 

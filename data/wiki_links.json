@@ -1063,6 +1063,10 @@
     "title": "68.疯狂实验史：哎！这该死的求知欲…",
     "url": "/wiki/sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549/"
   },
+  "682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080": {
+    "title": "682. South Africa: Mandela and the Death of Apartheid (Part 6)",
+    "url": "/wiki/sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080/"
+  },
   "683-washington-hero-of-the-revolution-part-1-glt3752138067": {
     "title": "683. Washington: Hero of the Revolution (Part 1)",
     "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
@@ -3207,6 +3211,10 @@
     "title": "African Mythology",
     "url": "/wiki/concepts/africanmythology/"
   },
+  "AfricanNationalCongress": {
+    "title": "African National Congress",
+    "url": "/wiki/entities/africannationalcongress/"
+  },
   "AfricanOralLiterature": {
     "title": "African Oral Literature",
     "url": "/wiki/concepts/africanoralliterature/"
@@ -3214,6 +3222,10 @@
   "AfricanRadioResilience": {
     "title": "African Radio Resilience",
     "url": "/wiki/concepts/africanradioresilience/"
+  },
+  "Afrikaners": {
+    "title": "Afrikaners",
+    "url": "/wiki/entities/afrikaners/"
   },
   "AfroSheen": {
     "title": "Afro Sheen",
@@ -4934,6 +4946,10 @@
   "AoyagiAito": {
     "title": "青柳碧人 / Aoyagi Aito",
     "url": "/wiki/entities/aoyagiaito/"
+  },
+  "Apartheid": {
+    "title": "Apartheid",
+    "url": "/wiki/concepts/apartheid/"
   },
   "ApathyActionInitiation": {
     "title": "Apathy Action Initiation",
@@ -9995,6 +10011,10 @@
     "title": "Cheshire Cat / 柴郡猫",
     "url": "/wiki/entities/cheshirecat/"
   },
+  "ChesterWilliams": {
+    "title": "Chester Williams",
+    "url": "/wiki/entities/chesterwilliams/"
+  },
   "Chevron": {
     "title": "Chevron",
     "url": "/wiki/entities/chevron/"
@@ -14447,6 +14467,10 @@
     "title": "Didi",
     "url": "/wiki/entities/didi/"
   },
+  "DieStemVanSuidAfrika": {
+    "title": "Die Stem van Suid-Afrika",
+    "url": "/wiki/entities/diestemvansuidafrika/"
+  },
   "DiegoDrakeAlly": {
     "title": "Diego (Drake Ally)",
     "url": "/wiki/entities/diegodrakeally/"
@@ -16391,6 +16415,10 @@
     "title": "Elizabethan Recusancy Security State",
     "url": "/wiki/concepts/elizabethanrecusancysecuritystate/"
   },
+  "EllisPark": {
+    "title": "Ellis Park",
+    "url": "/wiki/entities/ellispark/"
+  },
   "ElonMusk": {
     "title": "Elon Musk",
     "url": "/wiki/entities/elonmusk/"
@@ -16810,6 +16838,10 @@
   "Enkidu": {
     "title": "Enkidu / 恩启都",
     "url": "/wiki/entities/enkidu/"
+  },
+  "EnochSontonga": {
+    "title": "Enoch Sontonga",
+    "url": "/wiki/entities/enochsontonga/"
   },
   "EnricoMoretti": {
     "title": "Enrico Moretti",
@@ -19630,6 +19662,10 @@
   "FrancoisDukeOfAnjou": {
     "title": "Francois, Duke of Anjou",
     "url": "/wiki/entities/francoisdukeofanjou/"
+  },
+  "FrancoisPienaar": {
+    "title": "Francois Pienaar",
+    "url": "/wiki/entities/francoispienaar/"
   },
   "FrancoisTruffaut": {
     "title": "Francois Truffaut / 特吕弗",
@@ -35543,6 +35579,10 @@
     "title": "Multidisciplinary Hospital Care / 医院多职种协作",
     "url": "/wiki/concepts/multidisciplinaryhospitalcare/"
   },
+  "MultilingualNationalAnthemFormation": {
+    "title": "Multilingual National Anthem Formation",
+    "url": "/wiki/concepts/multilingualnationalanthemformation/"
+  },
   "MultimodalAdultNeuroplasticity": {
     "title": "Multimodal Adult Neuroplasticity",
     "url": "/wiki/concepts/multimodaladultneuroplasticity/"
@@ -36231,6 +36271,10 @@
     "title": "Neil Mohan",
     "url": "/wiki/entities/neilmohan/"
   },
+  "NelsonMandela": {
+    "title": "Nelson Mandela",
+    "url": "/wiki/entities/nelsonmandela/"
+  },
   "NeoCloud": {
     "title": "Neo Cloud",
     "url": "/wiki/concepts/neocloud/"
@@ -36734,6 +36778,10 @@
   "NiuyueMantanlu": {
     "title": "纽约漫谈录 / Niuyue Mantanlu",
     "url": "/wiki/entities/niuyuemantanlu/"
+  },
+  "NkosiSikelelIAfrika": {
+    "title": "Nkosi Sikelel' iAfrika",
+    "url": "/wiki/entities/nkosisikeleliafrika/"
   },
   "NoBetterLife": {
     "title": "No Better Life",
@@ -44375,6 +44423,10 @@
     "title": "Rudy Giuliani",
     "url": "/wiki/entities/rudygiuliani/"
   },
+  "RugbyWorldCup1995": {
+    "title": "1995 Rugby World Cup",
+    "url": "/wiki/entities/rugbyworldcup1995/"
+  },
   "RuhollahKhomeini": {
     "title": "Ruhollah Khomeini",
     "url": "/wiki/entities/ruhollahkhomeini/"
@@ -47555,6 +47607,10 @@
     "title": "《酸葡萄》 / Sour Grapes",
     "url": "/wiki/entities/sourgrapesdocumentary/"
   },
+  "SouthAfrica": {
+    "title": "South Africa",
+    "url": "/wiki/entities/southafrica/"
+  },
   "SouthChinaMorningPost": {
     "title": "South China Morning Post / 南华早报",
     "url": "/wiki/entities/southchinamorningpost/"
@@ -47771,6 +47827,10 @@
     "title": "Spontaneous Generation As Life-Origin Frame / 自然发生论作为生命起源框架",
     "url": "/wiki/concepts/spontaneousgenerationlifeorigin/"
   },
+  "SportAsReconciliationRitual": {
+    "title": "Sport as Reconciliation Ritual",
+    "url": "/wiki/concepts/sportasreconciliationritual/"
+  },
   "SportingLisbon": {
     "title": "Sporting Lisbon",
     "url": "/wiki/entities/sportinglisbon/"
@@ -47934,6 +47994,10 @@
   "SpringFestivalGrowthCampaign": {
     "title": "Spring Festival Growth Campaign",
     "url": "/wiki/concepts/springfestivalgrowthcampaign/"
+  },
+  "Springboks": {
+    "title": "Springboks",
+    "url": "/wiki/entities/springboks/"
   },
   "SprinkleBites": {
     "title": "Sprinkle Bites",
@@ -49458,6 +49522,10 @@
   "SymbolicHumanInTheLoop": {
     "title": "Symbolic Human In The Loop",
     "url": "/wiki/concepts/symbolichumanintheloop/"
+  },
+  "SymbolicReconciliationStatecraft": {
+    "title": "Symbolic Reconciliation Statecraft",
+    "url": "/wiki/concepts/symbolicreconciliationstatecraft/"
   },
   "SymmetricInterstateCredibility": {
     "title": "Symmetric Interstate Credibility / 对称外交信用",

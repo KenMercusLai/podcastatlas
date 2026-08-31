@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6101
+wiki_total_pages: 6105
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1541,6 +1541,9 @@ wiki_pages:
   - key: "AntitrustChill"
     title: "Antitrust Chill"
     url: "/wiki/concepts/antitrustchill/"
+  - key: "Apartheid"
+    title: "Apartheid"
+    url: "/wiki/concepts/apartheid/"
   - key: "ApathyActionInitiation"
     title: "Apathy Action Initiation"
     url: "/wiki/concepts/apathyactioninitiation/"
