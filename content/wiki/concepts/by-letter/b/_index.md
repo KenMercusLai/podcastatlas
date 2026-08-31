@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6147
+wiki_total_pages: 6149
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "BlindnessMemoryArtIdeal"
     title: "Blindness-Memory Art Ideal"
     url: "/wiki/concepts/blindnessmemoryartideal/"
+  - key: "BlockchainConsensus"
+    title: "Blockchain Consensus"
+    url: "/wiki/concepts/blockchainconsensus/"
   - key: "BlockchainFinancialInnovation"
     title: "Blockchain Financial Innovation"
     url: "/wiki/concepts/blockchainfinancialinnovation/"

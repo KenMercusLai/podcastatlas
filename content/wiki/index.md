@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Episode 21: 抗压、应变与终生动力：CZ 的人事和天命](sources/kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7.md) — Fuyou Tiandi episode with CZ on Binance hindsight, founder pressure tolerance, proactive team management, blockchain consensus, payment adoption gaps, RWA, stablecoins, and education-driven motivation.
 - [ICE is collecting DNA from detainees for future policing](sources/tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128.md) — Marketplace Tech episode with Stevie Gleiberson on DHS and ICE DNA collection, CODIS retention, child-sampling concerns, familial genetic exposure, Maryland v. King, and Briggs v. Mullen.
 - [How to Accelerate Learning & Improve Education | Joe Liemandt](sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815.md) — Huberman Lab episode with Joe Liemandt on Alpha School, AI tutors, mastery learning, prerequisite repair, motivation architecture, human guides, builder afternoons, and source-scoped performance and scaling claims.
 - [Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing... Tortilla Chips Saved Them](sources/late-july-snacks-nicole-bernard-dawes-crackers-and-cookies-were-failing-tortilla-chips-saved-them-97049a31-9144-42f5-856c-9590c5e6beb4.md) — How I Built This episode on Nicole Bernard Dawes, Late July Snacks, the failed cracker/cookie phase, rescue financing, tortilla-chip category fit, Stop & Shop distribution, and Snyder's-Lance/Campbell ownership.
@@ -5864,7 +5865,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [红盛系 / Hongsheng System](entities/HongshengSystem.md) — Family-linked Wahaha supply-chain and channel network used to show how operating control can diverge from a unified consumer brand.
 - [Danone / 达能](entities/Danone.md) — Foreign shareholder/conflict counterpart in the older Wahaha national-brand story.
 - [Komeito / 公明党](entities/Komeito.md) — Japanese coalition party whose exit from the LDP alliance made Takaichi Sanae's source-dated path to power uncertain.
-- [Changpeng Zhao / 赵长鹏](entities/ChangpengZhao.md) — Crypto-industry figure whose Hong Kong appearance is treated as a talent and capital signal in the episode.
+- [Changpeng Zhao / 赵长鹏](entities/ChangpengZhao.md) — Crypto-industry founder associated with Binance, now covered through Hong Kong policy signaling, regulatory hindsight, founder pressure handling, team operating style, and education motivation.
+- [Binance](entities/Binance.md) — Global crypto exchange case for CZ's regulatory-boundary hindsight, product-speed tradeoffs, crisis pressure, and blockchain-finance reflections.
 - [跨海电波 / Kuahai Dianbo](entities/KuahaiDianbo.md) — Amazon Advertising-produced cross-border-commerce podcast represented by the episode 142 crossover on Japanese seasonal-limited consumption and market entry.
 - [MUJI / 无印良品](entities/Muji.md) — Japanese retail brand used by episode 142 as a New Year lucky-bag and annual-ritual consumer-memory case.
 - [Nakagawa Masashichi Shoten / 中川政七商店](entities/NakagawaMasashichiShoten.md) — Japanese craft retailer used by episode 142 to show story, place, and traditional-maker renewal as a reasoned premium.
@@ -9392,7 +9394,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SBM Intelligence](entities/SBMIntelligence.md) — Organization behind the Jollof Index used to compare food affordability in Nigeria and Ghana.
 - [Li Jigang / 李继刚](entities/LiJigang.md) — E45 guest whose reading, investing, prompt, Memory/Soul, and education frames ask how people keep agency under AI time compression.
 - [汉洋 / Han Yang](entities/HanYang.md) — Content creator and Fuyou Tiandi host arguing for long-form, guest-centered conversation against conclusion-driven media constraints.
-- [蜉蝣天地 / Fuyou Tiandi](entities/FuyouTiandi.md) — Han Yang's video-podcast project built around long-form conversation, non-instrumental understanding, visible guest worlds, and source-grounded historical complexity.
+- [蜉蝣天地 / Fuyou Tiandi](entities/FuyouTiandi.md) — Han Yang's video-podcast project built around long-form conversation, non-instrumental understanding, visible guest worlds, and operating texture across nature, AI, history, sports, and founder practice.
 - [赵丽娜 / Zhao Lina](entities/ZhaoLina.md) — Former Chinese women's football goalkeeper whose Fuyou Tiandi interview links confidence, goalkeeper judgment, youth access, and post-retirement identity.
 - [《上下半场》 / Shang Xia Banchang](entities/ShangXiaBanchang.md) — Zhao Lina's post-retirement podcast/project for athlete stories, public expression, and reading people through interviews.
 - [中国女足 / China Women's National Football Team](entities/ChinaWomensNationalFootballTeam.md) — National-team context for Zhao Lina's goalkeeper confidence, World Cup visibility, and women's football comparison pressure.
@@ -12405,7 +12407,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Cognitive Gym / 把 AI 当健身房](concepts/AICognitiveGym.md) — Practice of using AI as a coach and training environment instead of outsourcing all thinking.
 - [Three-Non Venture Theory / 三非理论](concepts/ThreeNonVentureTheory.md) — Early-investing screen of non-consensus pricing, discontinuity from incumbents, and nonlinear growth drivers.
 - [AI Infra Crypto Analogy](concepts/AIInfraCryptoAnalogy.md) — Warning that AI infrastructure valuations can resemble prior crypto-infra heat when upstream narratives detach from proven usage.
-- [Blockchain Financial Innovation](concepts/BlockchainFinancialInnovation.md) — Wang Tianfan's narrower crypto thesis around stablecoins, on-chain assets, interoperable money, and blockchain-born financial applications.
+- [Blockchain Financial Innovation](concepts/BlockchainFinancialInnovation.md) — Narrower crypto thesis around stablecoins, RWA, on-chain assets, exchange-native products, interoperable money, and blockchain-born financial applications.
+- [Blockchain Consensus](concepts/BlockchainConsensus.md) — Trust-minimizing ledger coordination frame that CZ ties to Bitcoin's persistence while separating it from slower payment and certification adoption.
 - [AI For Fun](concepts/AIForFun.md) — Consumer AI product frame where joy, imagination, play, and presence are treated as real value rather than productivity-only output.
 - [Magazine Reading Ecology / 杂志阅读生态](concepts/MagazineReadingEcology.md) — Environment of household, school, kiosk, subscription, library, toilet, and email access that made magazines formative reading objects.
 - [Classroom Magazine Circulation / 班级杂志传阅](concepts/ClassroomMagazineCirculation.md) — Pattern where one purchased magazine became shared class material, social currency, hidden autonomy, and sometimes confiscated contraband.
@@ -13084,7 +13087,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Crypto Leverage-Liquidity Cascade](concepts/CryptoLeverageLiquidityCascade.md) — Crypto crash mechanism where tariff headlines meet high leverage, market-maker retreat, thin altcoin books, and forced selling.
 - [Government Shutdown Data Blindness](concepts/GovernmentShutdownDataBlindness.md) — Shutdown risk where delayed CPI/jobs/operations data weakens Fed and market decision quality.
 - [Private Credit Receivables Opacity](concepts/PrivateCreditReceivablesOpacity.md) — First Brands lesson that receivables financing and off-balance-sheet credit can hide cash-control and collateral uncertainty.
-- [Real World Asset Tokenization Risk](concepts/RealWorldAssetTokenizationRisk.md) — RWA caution that tokenizing private credit can create a liquidity story without solving underlying opacity.
+- [Real World Asset Tokenization Risk](concepts/RealWorldAssetTokenizationRisk.md) — RWA opportunity-and-risk frame where tokenization can improve distribution while leaving asset opacity, valuation, and enforceability unresolved.
 - [Family Business Succession Opacity](concepts/FamilyBusinessSuccessionOpacity.md) — Wahaha governance frame for succession conflicts across family, state, employee, brand, and affiliate interests.
 - [National Brand Narrative Backfire](concepts/NationalBrandNarrativeBackfire.md) — Risk that patriotic brand rhetoric later turns into harsher scrutiny of ownership, trademarks, and asset transfer.
 - [Market Pullback vs Trend End](concepts/MarketPullbackVsTrendEnd.md) — Episode 143 framework for distinguishing stock, sector, and market pullbacks from thesis-ending breaks through fundamentals, leaders, observation windows, and sizing rules.
@@ -14340,7 +14343,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Research Chemical Loophole](concepts/ResearchChemicalLoophole.md) — Gap between compounds sold for research use and buyers' practical personal injection or self-experimentation.
 - [Tech-Culture Biohacking](concepts/TechCultureBiohacking.md) — Transfer of startup optimization, anti-institutional risk tolerance, and performance pressure into personal health experimentation.
 - [Municipal Bitcoin Adoption](concepts/MunicipalBitcoinAdoption.md) — City-level use of policy, merchant terminals, municipal services, and civic branding to make Bitcoin usable locally.
-- [Crypto Payment Practicality Gap](concepts/CryptoPaymentPracticalityGap.md) — Difference between visible crypto payment acceptance and the ability to rely on crypto across recurring everyday needs.
+- [Crypto Payment Practicality Gap](concepts/CryptoPaymentPracticalityGap.md) — Difference between visible crypto payment acceptance and practical or necessary reliance across recurring everyday and cross-border payment needs.
 - [Crypto Public Legitimacy](concepts/CryptoPublicLegitimacy.md) — Public-trust problem where crypto adoption must overcome associations with speculation, crime, volatility, and symbolic backlash.
 - [AI PC Memory Demand](concepts/AIPCMemoryDemand.md) — PC-side memory pressure where NPU-equipped AI computers need more RAM just as AI data centers tighten memory supply.
 - [Product Analytics](concepts/ProductAnalytics.md) — Behavioral product-data discipline around retention, cohorts, and usage questions that became Amplitude's market.
@@ -15340,7 +15343,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Demand Shock Product-Market Fit](concepts/DemandShockProductMarketFit.md) — Breakout pattern where sudden demand overwhelms operations but retention and repeat buying reveal real product-market fit.
 - [Capital Efficient Startup Building](concepts/CapitalEfficientStartupBuilding.md) — Startup operating pattern where careful burn, revenue learning, and survival time preserve ownership and optionality.
 - [Slow Product Market Fit](concepts/SlowProductMarketFit.md) — PMF pattern where years of product improvement, survival, and word-of-mouth compounding precede clear breakout metrics.
-- [Founder Delegation Discipline](concepts/FounderDelegationDiscipline.md) — Leadership habit of reducing founder bottlenecks, preserving thinking time, and turning founder attention into real team ownership.
+- [Founder Delegation Discipline](concepts/FounderDelegationDiscipline.md) — Leadership habit of distributing real ownership while preserving founder context, customer contact, standards, and high-consequence judgment.
 - [Founder Instinct](concepts/FounderInstinct.md) — Founder-level high-context judgment that should not be suppressed by executives, boards, or imported playbooks when it is grounded in real product and user context.
 - [Economic Climate Tech Adoption](concepts/EconomicClimateTechAdoption.md) — Climate-tech adoption pattern where cheaper, better, or more useful products win through customer self-interest as well as emissions benefit.
 - [Climate Startup Commercialization Gap](concepts/ClimateStartupCommercializationGap.md) — Passage from prototype or bench-scale proof to first commercial deployment where capital needs, unit economics, and operations become decisive.
@@ -15354,7 +15357,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder User Obsession](concepts/FounderUserObsession.md) — Durable desire to spend years serving a specific user, beyond merely solving one's own initial problem.
 - [Future-Oriented Fundraising Pitch](concepts/FutureOrientedFundraisingPitch.md) — Fundraising narrative discipline of making the company's future scale legible while staying grounded in current customer evidence.
 - [Public Fundraising Pitch](concepts/PublicFundraisingPitch.md) — Fundraising tactic of publishing a concise pitch publicly to create distribution, surface investor demand, and discover market pricing while preserving investor-selection discipline.
-- [Founder Resilience](concepts/FounderResilience.md) — Practical ability to keep learning, rebuilding, selling, and serving customers through repeated setbacks without confusing persistence with denial.
+- [Founder Resilience](concepts/FounderResilience.md) — Practical ability to convert setbacks and pressure into better judgment, customer focus, evidence, operating discipline, or grounded motivation.
+- [Founder Pressure Compartmentalization](concepts/FounderPressureCompartmentalization.md) — Founder stress-management pattern of isolating high-pressure problem domains so action can continue under uncertainty.
 - [Founder Advocacy](concepts/FounderAdvocacy.md) — Investor stance where defending and helping founders is treated as part of the job rather than a courtesy after the check.
 - [Relationship-Led Sales](concepts/RelationshipLedSales.md) — Sales pattern where authentic customer trust and technical delivery reinforce each other in competitive markets.
 - [Self-Disruption Discipline](concepts/SelfDisruptionDiscipline.md) — Operating habit of treating the next platform shift as a threat even after winning the previous disruption wave.
@@ -15421,10 +15425,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Payroll Infrastructure Trust](concepts/PayrollInfrastructureTrust.md) — Trust pattern where payroll software must make wages, tax filings, benefits data, payment timing, and crisis continuity reliable.
 - [Regulated Workflow Wedge](concepts/RegulatedWorkflowWedge.md) — Product strategy of entering a compliance-heavy market through a narrow customer and workflow segment before expanding.
 - [Startup High-Beta Bet](concepts/StartupHighBetaBet.md) — YC selection frame for companies with high failure probability but unusually large upside, added through Coinbase.
-- [Regulated Crypto Trust Strategy](concepts/RegulatedCryptoTrustStrategy.md) — Treating compliance, banking access, licenses, reserves, and regulator engagement as core crypto product strategy.
+- [Regulated Crypto Trust Strategy](concepts/RegulatedCryptoTrustStrategy.md) — Treating compliance, banking access, licenses, reserves, regulator engagement, and jurisdictional boundaries as core crypto product strategy.
 - [Early Fintech Fraud Controls](concepts/EarlyFintechFraudControls.md) — Operational fraud controls needed before low-margin financial products are overwhelmed by abuse.
 - [Mission-Focused Company](concepts/MissionFocusedCompany.md) — Governance stance that explicitly narrows workplace focus to company mission and product.
-- [Founder Motivation Evolution](concepts/FounderMotivationEvolution.md) — Shift from proving oneself and fear-based drive toward durable motivation based on learning, joy, fulfillment, and responsibility.
+- [Founder Motivation Evolution](concepts/FounderMotivationEvolution.md) — Shift from proving oneself, fear, or status toward durable motivation based on users, craft, joy, responsibility, mission, or contribution.
 - [Startup Essay Distribution](concepts/StartupEssayDistribution.md) — Founder-audience pattern where useful startup essays make an institution legible and attract aligned builders before conventional brand proof exists.
 - [Startup Community Forum Burden](concepts/StartupCommunityForumBurden.md) — Operating cost of running an open founder or hacker forum, where distribution value comes with moderation and governance stress.
 - [Peer-to-Peer Marketplace Trust](concepts/PeerToPeerMarketplaceTrust.md) — Product-design problem of making stranger-to-stranger transactions feel safe through profiles, reciprocal reviews, payment handling, and reputation.

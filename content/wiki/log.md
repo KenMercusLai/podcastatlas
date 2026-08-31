@@ -14439,3 +14439,11 @@ Ingested the 2026-08-31 Marketplace Tech episode with Stevie Gleiberson on DHS/I
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-31] ingest | Episode 21: 抗压、应变与终生动力：CZ 的人事和天命
+
+Ingested the 2026-08-31 蜉蝣天地 episode with Changpeng Zhao / CZ on Binance regulatory hindsight, founder pressure handling, proactive team expectations, blockchain consensus, payment-adoption limits, RWA, stablecoins, and post-success education motivation. Created `Binance`, `BlockchainConsensus`, and `FounderPressureCompartmentalization`; migrated and updated `ChangpengZhao`, `FuyouTiandi`, `FounderResilience`, `FounderDelegationDiscipline`, `FounderMotivationEvolution`, `RegulatedCryptoTrustStrategy`, `CryptoPaymentPracticalityGap`, `RealWorldAssetTokenizationRisk`, and `BlockchainFinancialInnovation`. No settled contradiction found; the education platform remains unnamed in the source, and CZ's Binance legal/regulatory claims remain participant-retrospective evidence rather than a complete adversarial record.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

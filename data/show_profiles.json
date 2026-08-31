@@ -2530,13 +2530,19 @@
       "earliest_episode_date": "2025-04-15",
       "latest_episode_date": "2026-08-31",
       "latest_episode_file": "抗压、应变与终生动力：CZ 的人事和天命 [1736950d-420c-4021-9a56-a180810612d7].md",
-      "source_note_count": 5,
-      "topic_matched_source_note_count": 3,
+      "source_note_count": 6,
+      "topic_matched_source_note_count": 4,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
+          "source_note_count": 1
+        },
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
           "source_note_count": 1
         },
         {
@@ -2563,9 +2569,9 @@
       ],
       "start_here_episode_files": [
         "向量模型工程师：AI 的隐藏瓶颈与新时代的信息迷宫 [4b6cf945-d64a-4dd0-95a7-cb8f11963698].md",
+        "抗压、应变与终生动力：CZ 的人事和天命 [1736950d-420c-4021-9a56-a180810612d7].md",
         "100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？ [3d36f181-94ad-4883-8db3-5f040b5ed45b].md",
-        "汉洋：挖坑、媒介枷锁、好内容、对谈、为什么做蜉蝣天地 [59b766f5-ee1d-4040-a650-a96b7b4b70d5].md",
-        "抗压、应变与终生动力：CZ 的人事和天命 [1736950d-420c-4021-9a56-a180810612d7].md"
+        "汉洋：挖坑、媒介枷锁、好内容、对谈、为什么做蜉蝣天地 [59b766f5-ee1d-4040-a650-a96b7b4b70d5].md"
       ]
     },
     "蜜獾吃书": {

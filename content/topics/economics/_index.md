@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1887
+topic_total_pages: 1889
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -1120,6 +1120,9 @@ topic_concepts:
   - key: "FounderPitchEvidenceFit"
     title: "Founder Pitch Evidence Fit"
     url: "/wiki/concepts/founderpitchevidencefit/"
+  - key: "FounderPressureCompartmentalization"
+    title: "Founder Pressure Compartmentalization"
+    url: "/wiki/concepts/founderpressurecompartmentalization/"
   - key: "FounderPsychologyOperationalRisk"
     title: "Founder Psychology Operational Risk"
     url: "/wiki/concepts/founderpsychologyoperationalrisk/"
@@ -5307,6 +5310,9 @@ topic_sources:
   - key: "ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c"
     title: "EP93 眼见恒大起高楼，转眼首富入高墙"
     url: "/wiki/sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c/"
+  - key: "kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7"
+    title: "Episode 21: 抗压、应变与终生动力：CZ 的人事和天命"
+    url: "/wiki/sources/kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7/"
   - key: "tsr-s4-ericm-v2-tsr-s4-ericm-v2"
     title: "Eric Migicovsky on Pebble, Kickstarter, and Building for Yourself"
     url: "/wiki/sources/tsr-s4-ericm-v2-tsr-s4-ericm-v2/"

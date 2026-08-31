@@ -23583,6 +23583,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "FounderPressureCompartmentalization": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "FounderPsychologyOperationalRisk": [
     {
       "key": "economics",
@@ -70253,6 +70260,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "kate-crawford-mapping-empires": [
