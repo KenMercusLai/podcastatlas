@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2131
+topic_total_pages: 2132
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -5612,6 +5612,9 @@ topic_entities:
   - key: "YuQing"
     title: "虞卿 / Yu Qing"
     url: "/wiki/entities/yuqing/"
+  - key: "PeiZunEasternHan"
+    title: "裴遵 / Pei Zun (Eastern Han)"
+    url: "/wiki/entities/peizuneasternhan/"
   - key: "ZhuFangZhangChu"
     title: "诸坊 / Zhu Fang (Zhang Chu)"
     url: "/wiki/entities/zhufangzhangchu/"

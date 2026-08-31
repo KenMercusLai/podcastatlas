@@ -14479,3 +14479,11 @@ Ingested the 2026-08-31 The Intelligence episode on Hollywood AI production, syn
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 《资治通鉴·汉纪》719丨光武帝刘秀算不算渣男？
+
+Ingested the 2026-06-22 芮淇讲透资治通鉴 episode backfilling Jianwu 17 / 41 CE. Created `ZhiYunEasternHan`, `LiuYangZhendingKingEasternHan`, `PeiZunEasternHan`, and `PoliticalMarriageAllianceDepreciation`; updated Liu Xiu, Guo Shengtong, Yin Lihua, Liu Qiang, Liu Fu, Ma Yuan, Ji Tong, Shache, maternal-status succession, capacity-bound frontier commitment, frontier recognition credibility, overview, and index. No settled contradiction found; 郭盛通 is normalized to the established Guo Shengtong route, and Zhending Liu Yang is kept distinct from Liu Yang / Liu Zhuang / Mingdi.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 16,628 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges while lint scanned 16,628 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is unset and the default model is unqualified (`claude-3-5-sonnet-latest`); a bounded in-session spot-check found no direct contradiction or stale reversal in the sampled pages. Report returned in-session; `wiki/lint-report.md` was not updated.

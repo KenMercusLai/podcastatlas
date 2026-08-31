@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-01
-as_of_overview_commit: 49d0a50ca555bc43ae2a9bec5d5763df714f5478
-summary: "Durable value depends on proof in practice: AI workflows, markets, institutions, culture, rights, health evidence, learning, and human judgment."
-episode_count: 1805
-source_count: 1805
-paragraph_count: 457
+as_of_overview_commit: 56bed29bce844604266296d800630f2d0e803dd0
+summary: "Durable value depends on proof in practice: AI, markets, institutions, history, rights, health evidence, learning, and human judgment."
+episode_count: 1806
+source_count: 1806
+paragraph_count: 458
 topic_count: 8
 ---
 
@@ -49,7 +49,7 @@ Culture sources use literature, ritual, games, media, brands, film, AI entertain
 
 ### Governance and Institutions
 
-Governance sources show legitimacy depending on enforceable structures, credible roles, accountable discretion, mission protection, implementation-aware regulation, and civil-liberties boundaries around durable state data systems.
+Governance sources show legitimacy depending on bounded authority, enforceable structures, credible roles, accountable discretion, civil-liberties boundaries, and title or status signals that do not outrun institutional capacity.
 
 - Federal biometric policing needs sharper process boundaries when civil detention becomes criminal database infrastructure: [[USDepartmentOfHomelandSecurity]] and [[USImmigrationAndCustomsEnforcement]] DNA collection feeding [[CODIS]] through [[FederalBureauOfInvestigation]] turns [[ImmigrationDNADatabaseExpansion]] into an [[EnforcementAgencyDataSharing]] and [[CivilLibertiesSurveillanceRisk]] problem, while [[CompelledDNASamplingFourthAmendment]], [[MarylandVKing]], and [[BriggsVMullen]] keep legality contested around probable cause, retention, age-threshold compliance, and future police searches. Evidence: [[tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128]], [[USDepartmentOfHomelandSecurity]], [[USImmigrationAndCustomsEnforcement]], [[FederalBureauOfInvestigation]], [[CODIS]], [[ImmigrationDNADatabaseExpansion]], [[EnforcementAgencyDataSharing]], [[CivilLibertiesSurveillanceRisk]], [[CompelledDNASamplingFourthAmendment]], [[MarylandVKing]], [[BriggsVMullen]], [[GeneticLineupPrivacyRisk]], [[FourthAmendmentDigitalPrivacy]], [[GeorgetownLawCenterOnPrivacyTechnology]], [[StevieGleiberson]].
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].

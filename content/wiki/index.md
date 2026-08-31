@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》719丨光武帝刘秀算不算渣男？](sources/zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix.md) — 41 CE late Guangwu episode on Guo Shengtong's deposition, Yin Lihua's elevation, Liu Yang's founding marriage alliance, Zhi Yun's warning, Guo-branch compensation, Shache recognition downgrading, Pei Zun's frontier objection, Ma Yuan's deployments, and Ji Tong's Liaodong appointment.
 - [Stars in their AIs: tech is changing Hollywood](sources/stars-in-their-ais-tech-is-changing-hollywood-6a917d0b63de6f7b41319a4b.md) — The Intelligence episode on Hollywood AI production, synthetic performers, ACA subsidy expiry, insurance death-spiral risk, and French line dancing as American cultural export.
 - [财报的根 + 估值的茎 = 叙事的果实](sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb.md) — 面基 episode with Zou Peixuan on financial reports, DCF, terminal-value narrative, prosperity-investing traps, A-share auction pricing, and capitalized research process.
 - [EP281 对话吴镇宇：困在创伤里的我们，决定重新找回自己](sources/ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r.md) — Talk三联 episode with Wu Zhenyu and Yuan Yumei on 《蝉》, trauma visualization, embodied acting, aging, anger, imperfect creativity under AI, and love as relational repair.
@@ -1813,6 +1814,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [郅恽 / Zhi Yun (Eastern Han)](entities/ZhiYunEasternHan.md) — Eastern Han adviser linking Guo Shengtong's deposition to Liu Qiang's later crown-prince withdrawal.
+- [刘杨 / Liu Yang, Zhending King (Eastern Han)](entities/LiuYangZhendingKingEasternHan.md) — Hebei ally whose support explains Guo Shengtong's founding-era political marriage to Liu Xiu.
+- [裴遵 / Pei Zun (Eastern Han)](entities/PeiZunEasternHan.md) — Dunhuang official who narrows Shache recognition and reports Western Regions hostage-deterrence requests.
 - [Tilly Norwood](entities/TillyNorwood.md) — AI-generated actor used as the episode's concrete synthetic-performer case.
 - [Eileen van der Velden](entities/EileenVanDerVelden.md) — Creator of Tilly Norwood and demonstrator of fast AI-generated scene production.
 - [Ted Sarandos](entities/TedSarandos.md) — Netflix co-chief executive cited as a human-artist boundary in the Hollywood AI segment.
@@ -10468,6 +10472,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Political Marriage Alliance Depreciation / 政治婚姻联盟折价](concepts/PoliticalMarriageAllianceDepreciation.md) — Pattern where a marriage alliance loses central leverage after the original military or political need declines.
 - [Generative AI Hollywood Production](concepts/GenerativeAIHollywoodProduction.md) — Hollywood-specific AI adoption across synthetic scenes, stunts, effects, planning, editing, platform infrastructure, and backlash.
 - [Synthetic Performers](concepts/SyntheticPerformers.md) — AI-generated actor-like figures that sit between character, performer, visual effect, and generated asset.
 - [Obamacare Subsidy Cliff](concepts/ObamacareSubsidyCliff.md) — ACA exchange affordability shock caused by expiry of enhanced pandemic-era subsidies.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8651
+wiki_total_pages: 8654
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1289,6 +1289,9 @@ wiki_pages:
   - key: "ZhiShouEasternHan"
     title: "郅寿 / Zhi Shou (Eastern Han)"
     url: "/wiki/entities/zhishoueasternhan/"
+  - key: "ZhiYunEasternHan"
+    title: "郅恽 / Zhi Yun (Eastern Han)"
+    url: "/wiki/entities/zhiyuneasternhan/"
   - key: "ZhengZhongEasternHan"
     title: "郑众 / Zheng Zhong (Eastern Han eunuch)"
     url: "/wiki/entities/zhengzhongeasternhan/"

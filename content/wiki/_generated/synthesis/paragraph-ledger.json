@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e15a2a8259ba0972259fc9c58ce097754f2f82f65bf5441deb6db62645bba6d0",
       "48b3696f329c8657bad580665b70e494102a0425198c53c22aaaf95256c778f7",
       "32e05aaf45bf610d194405f328f0266ab3857d68cc9cc07658df7b3ce3f79881",
       "2bc1e83d1cf015e1bb446a799b320774dcaf7fbe58a3b4738f18cdd37aaae718",
@@ -459,11 +460,41 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 457
+    "paragraph_count": 458
   },
-  "overview_commit": "49d0a50ca555bc43ae2a9bec5d5763df714f5478",
-  "overview_digest": "32171101fb26948029ba958799b074722f9c5097e693301da8154bc53765eb0e",
+  "overview_commit": "56bed29bce844604266296d800630f2d0e803dd0",
+  "overview_digest": "63863d7a63c6fbd1cf5e93dfabdde88e6c030ccca4217c363c3b8f1f32bb55d0",
   "paragraphs": [
+    {
+      "id": "e15a2a8259ba0972259fc9c58ce097754f2f82f65bf5441deb6db62645bba6d0",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|《资治通鉴·汉纪》719丨光武帝刘秀算不算渣男？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 41 CE late [[LiuXiu|光武帝刘秀]] layer before [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]]. It adds [[ZhiYunEasternHan|郅恽]], [[LiuYangZhendingKingEasternHan|真定王刘杨]], [[PeiZunEasternHan|裴遵]], and [[PoliticalMarriageAllianceDepreciation|政治婚姻联盟折价]], while extending [[GuoShengtong|郭圣通]], [[YinLihua|阴丽华]], [[LiuQiangDonghaiKing|刘强]], [[LiuFuPeiKingEasternHan|刘辅]], [[MaYuanEasternHan|马援]], [[JiTongEasternHan|祭肜]], [[ShacheKingdomLateHan|莎车国]], [[MaternalStatusSuccessionLeverage|子以母贵式继承杠杆]], [[CapacityBoundFrontierCommitment|能力约束下的边疆承诺]], and [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]]. Its core synthesis is that Guo's deposition is better read through founding marriage-alliance depreciation, maternal-status succession risk, omen-coded public legitimacy, and soft-landing compensation than through private romance alone; the frontier branch shows Liu Xiu narrowing Shache overrecognition while Ma Yuan and Ji Tong cover simultaneous southern and northern pressures. No settled contradiction is recorded; 郭盛通 is normalized to the established Guo Shengtong route, and Zhending Liu Yang is kept distinct from Liu Yang / Liu Zhuang / Mingdi.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CapacityBoundFrontierCommitment",
+        "FrontierRecognitionCredibilityTradeoff",
+        "GuoShengtong",
+        "JiTongEasternHan",
+        "LiuFuPeiKingEasternHan",
+        "LiuQiangDonghaiKing",
+        "LiuXiu",
+        "LiuYangZhendingKingEasternHan",
+        "MaYuanEasternHan",
+        "MaternalStatusSuccessionLeverage",
+        "PeiZunEasternHan",
+        "PoliticalMarriageAllianceDepreciation",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShacheKingdomLateHan",
+        "YinLihua",
+        "ZhiYunEasternHan",
+        "zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix",
+        "zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0"
+      ]
+    },
     {
       "id": "48b3696f329c8657bad580665b70e494102a0425198c53c22aaaf95256c778f7",
       "primary_topic": "culture-and-media",

@@ -3,18 +3,30 @@
 generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
-last_updated: 2026-08-31
-as_of_overview_commit: c0358c2d97c14c0067603e2672b9f5612da67672
-input_digest: 5d1e6f48baf69d23696c4ccb183f270c18bc60746e08856908326118d35bb854
+last_updated: 2026-09-01
+as_of_overview_commit: 56bed29bce844604266296d800630f2d0e803dd0
+input_digest: 20a4b5385787b53494be880903de4de6e3f04d82fed7ec589c4a9c0ebf8b052a
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-The ICE/CODIS Marketplace Tech episode adds a federal biometric-surveillance branch: DHS and ICE DNA collection can turn immigration detention into durable policing infrastructure once profiles enter FBI CODIS, raising Fourth Amendment, retention, age-threshold, and family-exposure questions that remain qualified by the absence of a detailed DHS, FBI, or DOJ defense. Hanji 726 now backfills the late Guangwu governance branch to 49 CE: Liu Xiu's initial reaction to Liang Song's posthumous accusation against Ma Yuan is corrected through Zhu Bo's merit-and-fault memorial, Zong Jun's unauthorized Wuling surrender settlement becomes a bounded case of accountable field discretion, and Wuhuan submission is made governable through titles, provisioning, relocation, and Ban Biao's protector-office proposal. Hanji 729 remains the later 52-54 CE governance branch before Hanji 730, where Liu Xiu adopts Ban Biao's calibrated Northern Xiongnu reply and refuses Taishan fengshan because public resentment and flattery make sacred display improper. Hanji 730 continues the personnel and chenwei-fengshan branch, Hanji 731 adds Guangwu-era chenwei speech risk, and Hanji 736-740 remain the Mingdi continuation through royal-kin boundaries, private-retainer risk, forged authority, anti-flattery edicts, empress memory, frontier containment, local capacity, Chu-case coercion, and partial correction. A small health-product governance edge now adds that functional-food and supplement claims require product identity, label evidence, and professional-boundary checks before consumer trust.
+Hanji 719 backfills the late Guangwu governance branch to 41 CE: Liu Xiu's Guo-Yin empress change is framed through political marriage alliance depreciation, public state-foundation warning, maternal-status succession risk, and soft-landing compensation, while the Shache seal downgrade shows Western Regions recognition being narrowed before unsupported authority hardens. The ICE/CODIS Marketplace Tech episode adds a federal biometric-surveillance branch: DHS and ICE DNA collection can turn immigration detention into durable policing infrastructure once profiles enter FBI CODIS, raising Fourth Amendment, retention, age-threshold, and family-exposure questions that remain qualified by the absence of a detailed DHS, FBI, or DOJ defense. Hanji 726 now backfills the late Guangwu governance branch to 49 CE: Liu Xiu's initial reaction to Liang Song's posthumous accusation against Ma Yuan is corrected through Zhu Bo's merit-and-fault memorial, Zong Jun's unauthorized Wuling surrender settlement becomes a bounded case of accountable field discretion, and Wuhuan submission is made governable through titles, provisioning, relocation, and Ban Biao's protector-office proposal. Hanji 729 remains the later 52-54 CE governance branch before Hanji 730, where Liu Xiu adopts Ban Biao's calibrated Northern Xiongnu reply and refuses Taishan fengshan because public resentment and flattery make sacred display improper. Hanji 730 continues the personnel and chenwei-fengshan branch, Hanji 731 adds Guangwu-era chenwei speech risk, and Hanji 736-740 remain the Mingdi continuation through royal-kin boundaries, private-retainer risk, forged authority, anti-flattery edicts, empress memory, frontier containment, local capacity, Chu-case coercion, and partial correction. A small health-product governance edge now adds that functional-food and supplement claims require product identity, label evidence, and professional-boundary checks before consumer trust.
 
 ## Cross-source Findings
+
+### Early Eastern Han 719 Guangwu Marriage Succession And Frontier Recognition
+
+[[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] backfills the [[LiuXiu]] governance branch to 41 CE before [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]]: [[PoliticalMarriageAllianceDepreciation]] frames [[GuoShengtong]]'s deposition and [[YinLihua]]'s elevation as founding-alliance repricing rather than private romance alone, [[ZhiYunEasternHan]] makes empress deposition a state-foundation issue, [[MaternalStatusSuccessionLeverage]] sets up [[LiuQiangDonghaiKing]]'s later insecurity, and [[PeiZunEasternHan]], [[ShacheKingdomLateHan]], [[CapacityBoundFrontierCommitment]], and [[FrontierRecognitionCredibilityTradeoff]] show Liu Xiu narrowing Western Regions recognition before unsupported authority hardens.
+
+**Evidence:** [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix]], [[LiuXiu]], [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0]], [[PoliticalMarriageAllianceDepreciation]], [[GuoShengtong]], [[YinLihua]], [[ZhiYunEasternHan]], [[MaternalStatusSuccessionLeverage]], [[LiuQiangDonghaiKing]], [[LiuFuPeiKingEasternHan]], [[LiuYangZhendingKingEasternHan]], [[PeiZunEasternHan]], [[ShacheKingdomLateHan]], [[CapacityBoundFrontierCommitment]], [[FrontierRecognitionCredibilityTradeoff]], [[MaYuanEasternHan]], [[JiTongEasternHan]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 719 and should be read as the 41 CE prelude before Hanji 720's crown-prince withdrawal and Hanji 722-723's later Western Regions capacity sequence.
+- The episode's modern "渣男" and gendered harem commentary remains source-scoped; the durable governance claim concerns alliance depreciation, empress deposition, public legitimacy language, and compensation.
+- The Shache title downgrade is a recognition and capacity prelude, not a claim that Han restored a durable Western Regions protectorate in 41 CE.
 
 ### Federal Biometric Policing Needs Process Boundaries
 

@@ -9,20 +9,23 @@ sources:
   - zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq
   - zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj
   - zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra
-last_updated: 2026-08-31
+  - zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix
+last_updated: 2026-09-01
 ---
 
 ## Overview
 
-莎车国 / Shache Kingdom is a Western Regions polity whose current wiki profile is defined by opportunistic expansion, contested kingship, and external control. [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] now gives the earliest layer: King Xian becomes arrogant, tries to annex neighboring states, imposes heavy demands, and drives eighteen smaller polities to seek Han support through hostages. Hanji 723 continues that pressure as Xian exploits Han absence after hostage princes return home, attacks [[ShanshanKingdomLateHan|Shanshan]], and kills the [[QiuciKingdom|Qiuci]] king. [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] then shows Shache occupying Khotan, Dawan, and Qiuci before a Khotan reversal; Hanji 736 and Hanji 758 add later Khotan-Xiongnu king-making and Ban Chao's campaign.
+莎车国 / Shache Kingdom is a Western Regions polity whose current wiki profile is defined by contested recognition, opportunistic expansion, contested kingship, and external control. [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] now gives the earliest layer: King Xian asks [[LiuXiu|光武帝刘秀]] for restored Western Regions authority, receives a protectorate-level package, then loses that package after [[PeiZunEasternHan|裴遵]] warns against overrecognition. Hanji 722 and Hanji 723 then show Xian's pressure on smaller polities after Han's authority remains limited.
 
 ## Current Profile
 
-Hanji 722 supplies the earliest current layer. In the 45 CE Western Regions notices, King Xian grows arrogant and tries to annex other states. Smaller polities fear his attacks and burdens, so they send hostage princes and tribute to Luoyang and ask Han for protection. When Liu Xiu initially sends the hostages back, they ask through Dunhuang that the hostages be allowed to stay so they can warn Shache that Han backing may arrive.
+Hanji 719 supplies the earliest current layer. Shache King Xian sends tribute and asks Han to restore Western Regions authority through him. Liu Xiu initially grants a protectorate-level seal, ribbon, vehicle, flags, gold, and silk, but Pei Zun warns that elevating Shache so highly would disappoint other states and create a bad hierarchy. Liu Xiu downgrades Xian to Great General, and Pei Zun forcibly retrieves the stronger seal. Xian resents Han but continues acting as if he holds protectorate authority, and smaller states still follow his commands.
 
-Hanji 723 supplies the next layer. After Western Regions hostage princes return home and Han does not send a protector, King Xian reads Han absence as a strategic opening. He attacks Shanshan and kills the Qiuci king, which pressures Shanshan King An to seek renewed Han hostage submission and protectorate protection. The source therefore makes Shache a regional pressure actor in [[CapacityBoundFrontierCommitment|capacity-bound frontier commitment]]: its expansion exposes what happens when Han prestige is not backed by immediate capacity.
+Hanji 722 supplies the next layer. In the 45 CE Western Regions notices, King Xian grows arrogant and tries to annex other states. Smaller polities fear his attacks and burdens, so they send hostage princes and tribute to Luoyang and ask Han for protection. When Liu Xiu initially sends the hostages back, they ask through Dunhuang that the hostages be allowed to stay so they can warn Shache that Han backing may arrive.
 
-Hanji 735 supplies a later expansion and reversal layer. King Xian occupies Khotan, Dawan, and Qiuci and stations governors, but Khotanese actors kill the Shache governor Junde and raise Xiumoba. Xian's attack on Khotan is defeated, Xiumoba dies in pursuit, Guangde is installed, and the immediate settlement returns Guangde's detained father and marries Xian's daughter to Guangde.
+Hanji 723 supplies the next layer. After Western Regions hostage princes return home and Han does not send a protector, King Xian reads Han absence as a strategic opening. He attacks [[ShanshanKingdomLateHan|Shanshan]] and kills the [[QiuciKingdom|Qiuci]] king, which pressures Shanshan King An to seek renewed Han hostage submission and protectorate protection. The source therefore makes Shache a regional pressure actor in [[CapacityBoundFrontierCommitment|capacity-bound frontier commitment]]: its expansion exposes what happens when Han prestige is not backed by immediate capacity.
+
+Hanji 735 supplies a later expansion and reversal layer. King Xian occupies [[KhotanKingdomLateHan|Khotan]], Dawan, and Qiuci and stations governors, but Khotanese actors kill the Shache governor Junde and raise Xiumoba. Xian's attack on Khotan is defeated, Xiumoba dies in pursuit, Guangde is installed, and the immediate settlement returns Guangde's detained father and marries Xian's daughter to Guangde.
 
 Hanji 736 supplies the next current layer. [[KhotanKingGuangdeLateHan|Guangde of Khotan]] attacks Shache, lures and kills King Xian, and annexes the polity. Northern Xiongnu treats Khotan's expansion as unacceptable, surrounds Khotan with Western Regions forces, and installs Xian's hostage son Bujuzheng as Shache king.
 
@@ -30,16 +33,18 @@ The settlement does not last. Guangde later attacks again, kills Bujuzheng, and 
 
 ## Key Characteristics
 
-- Western Regions polity that first appears as an aggressive pressure actor whose expansion drives smaller states to seek Han hostages and protection.
-- Expansionary power under King Xian over Khotan, Dawan, and Qiuci before Khotan's revolt.
+- Western Regions polity whose earliest current profile begins with a contested Han recognition package.
+- King Xian seeks protectorate-level authority, loses the stronger seal, and still acts as if he has regional command.
+- Aggressive pressure actor whose expansion drives smaller states to seek Han hostages and protection.
+- Expansionary power over Khotan, Dawan, and Qiuci before Khotan's revolt.
 - Later becomes vulnerable to neighboring Khotan's expansion.
 - Kingship is repeatedly reset through killing, hostage succession, and replacement.
-- Northern Xiongnu intervenes when Khotan's control over Shache changes regional balance.
 - Later appears as an opponent in Ban Chao's Western Regions campaigning.
-- Functions in the wiki as a contested control point rather than a stable independent actor.
 
 ## Evidence
 
+- 41 CE recognition request: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] says Shache King Xian asks Han to restore Western Regions authority and initially receives a protectorate-level package.
+- Downgrade and resentment: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] says Pei Zun objects, Liu Xiu downgrades Xian to Great General, and Xian resents Han while continuing to claim regional authority.
 - 45 CE pressure: [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] says Shache King Xian grows arrogant, tries to annex Western Regions states, attacks neighbors, and imposes heavy demands.
 - Hostage deterrence consequence: [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] says eighteen small Western Regions states ask to leave hostage princes in Han territory so Shache will believe Han support is coming.
 - 46 CE pressure: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] says King Xian knows Han will not send a protector, attacks Shanshan, and kills the Qiuci king.
@@ -53,20 +58,24 @@ The settlement does not last. Guangde later attacks again, kills Bujuzheng, and 
 
 ## Qualifications
 
-This page does not reconstruct Shache's full dynastic sequence or geography. Hanji 722, Hanji 723, and Hanji 735 all name King Xian as an expansionary actor, but the page treats exact chronology, throne sequence, and campaign geography as source-bounded until more source notes develop them. Junde, Xiumoba, Dawan, Qiuci, Xian, Bujuzheng, Qili, Wensu, Gumo, Weitou, Pei Zun's report path, and the exact coalition details remain source-scoped.
+This page does not reconstruct Shache's full dynastic sequence or geography. Hanji 719 adds an earlier recognition-reversal layer, but the precise administrative meaning of the initial protectorate-level package remains source-scoped. Hanji 722, Hanji 723, and Hanji 735 all name King Xian as an expansionary actor, but the page treats exact chronology, throne sequence, and campaign geography as source-bounded until more source notes develop them. Junde, Xiumoba, Dawan, Xian, Bujuzheng, Qili, Wensu, Gumo, Weitou, and exact coalition details remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 722 as the earliest Shache layer: King Xian's pressure drives eighteen smaller polities to seek Han hostages and protection.
-- Reframed Hanji 723 as the next Shache layer: attack on Shanshan and killing of the Qiuci king during Han absence.
-- Preserved Shache's later expansion before the Hanji 735 Khotan-Dawan-Qiuci layer in the current wiki chronology.
+- Added Hanji 719 as the earliest Shache layer: Xian's recognition request, Pei Zun's objection, title downgrade, seal retrieval, and resulting resentment.
+- Reframed Hanji 722 as the next pressure layer after Shache's protectorate-level claim fails to become stable Han-backed authority.
+- Preserved Hanji 723 as the next Shache layer: attack on Shanshan and killing of the Qiuci king during Han absence.
+- Preserved Shache's later expansion before the Hanji 735 Khotan-Dawan-Qiuci layer.
 - Preserved Hanji 736's Khotan-Xiongnu king-making branch and Hanji 758's later Ban Chao campaign notice.
 
 ## Relationships
 
-- [[ShanshanKingdomLateHan|鄯善国]] - Western Regions polity pressured by King Xian in the new earliest layer.
-- [[QiuciKingdom|龟兹国]] - polity whose king is killed by King Xian in the Hanji 723 layer.
+- [[LiuXiu|光武帝刘秀]] - emperor who initially grants and then downgrades King Xian's recognition package.
+- [[PeiZunEasternHan|裴遵]] - Dunhuang official whose objection forces Shache's title downgrade.
+- [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]] - related because Shache's overrecognition threatens wider frontier credibility.
 - [[CapacityBoundFrontierCommitment|能力约束下的边疆承诺]] - related because Shache pressure exposes the cost of unsupported Han protectorate absence.
+- [[ShanshanKingdomLateHan|鄯善国]] - Western Regions polity pressured by King Xian after Han does not restore practical protection.
+- [[QiuciKingdom|龟兹国]] - polity whose king is killed by King Xian in the Hanji 723 layer.
 - [[KhotanKingdomLateHan|于阗国]] - neighboring polity whose ruler seizes and reshapes Shache.
 - [[KhotanKingGuangdeLateHan|于阗王广德]] - attacker and king-maker in the Khotan-Shache layer.
 - [[NorthernXiongnuLateHan|北匈奴]] - outside power that counters Khotan and installs a hostage heir.
