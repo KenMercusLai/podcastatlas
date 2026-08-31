@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6120
+wiki_total_pages: 6123
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "WartimeTextileFiscalResource"
     title: "战时绵绢财政资源 / Wartime Textile Fiscal Resource"
     url: "/wiki/concepts/wartimetextilefiscalresource/"
+  - key: "WuhuanProtectorateInstitutionalization"
+    title: "护乌桓校尉制度化 / Wuhuan Protectorate Institutionalization"
+    url: "/wiki/concepts/wuhuanprotectorateinstitutionalization/"
   - key: "WangmenTouzhi"
     title: "望门投止 / Wangmen Touzhi"
     url: "/wiki/concepts/wangmentouzhi/"

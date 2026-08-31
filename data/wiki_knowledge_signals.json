@@ -3774,9 +3774,9 @@
       "url": "/wiki/entities/baimarelieflatehan/"
     },
     "BanBiaoEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？ [loADjkevHJIE2yUR8U23OX2_gMCE].md",
@@ -3784,6 +3784,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密 [lpxrkRX2UfFdzpYcTiwWCAANfzbU].md",
+          "key": "zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
         }
       ],
       "updated": "2026-08-31",
@@ -14545,6 +14552,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/fictionashistoricalevidence/"
     },
+    "FieldDiscretionPacification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密 [lpxrkRX2UfFdzpYcTiwWCAANfzbU].md",
+          "key": "zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/fielddiscretionpacification/"
+    },
     "FifthLunEasternHan": {
       "episode_count": 7,
       "show_count": 1,
@@ -24055,9 +24078,9 @@
       "url": "/wiki/entities/liangshanglatehan/"
     },
     "LiangSongLinxiangMarquis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
@@ -24065,6 +24088,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
           "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密 [lpxrkRX2UfFdzpYcTiwWCAANfzbU].md",
+          "key": "zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
         }
       ],
       "updated": "2026-08-31",
@@ -25165,9 +25195,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -25238,6 +25268,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密 [lpxrkRX2UfFdzpYcTiwWCAANfzbU].md",
+          "key": "zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
         }
       ],
       "updated": "2026-08-31",
@@ -27146,9 +27183,9 @@
       "url": "/wiki/entities/maxulatehan/"
     },
     "MaYuanEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂 [ltjL2bGpyyz1bMwE_4mfCYd9E6cf].md",
@@ -27156,6 +27193,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密 [lpxrkRX2UfFdzpYcTiwWCAANfzbU].md",
+          "key": "zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
         }
       ],
       "updated": "2026-08-31",
@@ -32414,6 +32458,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/postvictorythreatsequencing/"
+    },
+    "PosthumousMeritVindication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密 [lpxrkRX2UfFdzpYcTiwWCAANfzbU].md",
+          "key": "zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/posthumousmeritvindication/"
     },
     "PowerCenterProximityAdvantage": {
       "episode_count": 1,
@@ -43590,9 +43650,9 @@
       "url": "/wiki/concepts/wugupoliticalpanic/"
     },
     "Wuhuan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱 [lnlNrkETgFbADHFJbZDJjtrMQFsH].md",
@@ -43635,15 +43695,38 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密 [lpxrkRX2UfFdzpYcTiwWCAANfzbU].md",
+          "key": "zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/wuhuan/"
     },
-    "WulingManLateHan": {
-      "episode_count": 2,
+    "WuhuanProtectorateInstitutionalization": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密 [lpxrkRX2UfFdzpYcTiwWCAANfzbU].md",
+          "key": "zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/wuhuanprotectorateinstitutionalization/"
+    },
+    "WulingManLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》839丨你能做到问心无愧吗？ [lqVLsWUbf4aK5qfGZJF_OWignEua].md",
@@ -43658,9 +43741,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密 [lpxrkRX2UfFdzpYcTiwWCAANfzbU].md",
+          "key": "zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/wulingmanlatehan/"
     },
     "WurenZhixiao": {
@@ -48584,6 +48674,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhubilatehan/"
     },
+    "ZhuBoEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密 [lpxrkRX2UfFdzpYcTiwWCAANfzbU].md",
+          "key": "zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/zhuboeasternhan/"
+    },
     "ZhuChangLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -48886,9 +48992,9 @@
       "url": "/wiki/entities/zohranmamdani/"
     },
     "ZongJunEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！ [lsDhr_gdx-yep3TzPrjG9wTJBUl2].md",
@@ -48896,6 +49002,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密 [lpxrkRX2UfFdzpYcTiwWCAANfzbU].md",
+          "key": "zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
         }
       ],
       "updated": "2026-08-31",

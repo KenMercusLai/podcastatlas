@@ -4,17 +4,29 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-31
-as_of_overview_commit: e87be2039f1a1fa4bb1ec3c95df80936b036c8ef
-input_digest: f15b4aaebeaef3f34bdb4d398e0f489ada2a86d4ba6504da3d40d8ef35bfcb39
+as_of_overview_commit: e44e46d3659cedc490d9f5bb2441cdd16fc04411
+input_digest: 683f84b93530496f409fef0ce426d2cef191be7edf500ed0a3341ec234385461
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 729 now backfills the late Guangwu governance branch before Hanji 730: Liu Xiu adopts Ban Biao calibrated Northern Xiongnu reply, making reward, wording, heqin language, and noncommitment part of frontier governance; the same episode records his 54 CE refusal of Taishan fengshan because public resentment and flattery make sacred display improper. Hanji 730 remains the next late Guangwu governance branch: Liu Xiu personnel judgment joins posthumous recognition of Jia Fu, early testing of Fifth Lun frankness and market administration, and a chenwei-triggered Taishan fengshan decision that turns prophecy and auspicious-omen language into state ritual. Hanji 731 adds Guangwu-era chenwei as a governance-risk layer, while Hanji 736-740 remain the Mingdi continuation through royal-kin boundaries, private-retainer risk, forged authority, anti-flattery edicts, empress memory, frontier containment, local capacity, Chu-case coercion, and partial correction.
+Hanji 726 now backfills the late Guangwu governance branch to 49 CE: Liu Xiu's initial reaction to Liang Song's posthumous accusation against Ma Yuan is corrected through Zhu Bo's merit-and-fault memorial, Zong Jun's unauthorized Wuling surrender settlement becomes a bounded case of accountable field discretion, and Wuhuan submission is made governable through titles, provisioning, relocation, and Ban Biao's protector-office proposal. Hanji 729 remains the later 52-54 CE governance branch before Hanji 730, where Liu Xiu adopts Ban Biao's calibrated Northern Xiongnu reply and refuses Taishan fengshan because public resentment and flattery make sacred display improper. Hanji 730 continues the personnel and chenwei-fengshan branch, Hanji 731 adds Guangwu-era chenwei speech risk, and Hanji 736-740 remain the Mingdi continuation through royal-kin boundaries, private-retainer risk, forged authority, anti-flattery edicts, empress memory, frontier containment, local capacity, Chu-case coercion, and partial correction.
 
 ## Cross-source Findings
+
+### Early Eastern Han 726 Guangwu Correction Discretion And Wuhuan Office
+
+[[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] adds a late [[LiuXiu]] governance case before [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]]: [[PosthumousMeritVindication]] answers [[LiangSongLinxiangMarquis]]'s accusation against [[MaYuanEasternHan]] through [[ZhuBoEasternHan]], [[FieldDiscretionPacification]] captures [[ZongJunEasternHan]]'s emergency [[WulingManLateHan]] surrender settlement, and [[WuhuanProtectorateInstitutionalization]] uses [[BanBiaoEasternHan]] and [[Wuhuan]] to make frontier submission institutionally managed.
+
+**Evidence:** [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu]], [[LiuXiu]], [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe]], [[PosthumousMeritVindication]], [[LiangSongLinxiangMarquis]], [[MaYuanEasternHan]], [[ZhuBoEasternHan]], [[FieldDiscretionPacification]], [[ZongJunEasternHan]], [[WulingManLateHan]], [[WuhuanProtectorateInstitutionalization]], [[BanBiaoEasternHan]], [[Wuhuan]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 726 and should be read as a 49 CE governance prelude before Hanji 727.
+- The claim does not turn Liu Xiu's initial anger into final judgment; Zhu Bo's memorial softens the ruler but the full formal settlement remains outside the source.
+- Zong Jun's false-edict settlement is validated by outcome and later self-impeachment in this case, not by a general permission to bypass imperial authority.
 
 ### Early Eastern Han 729 Guangwu Frontier Reply And Ritual Refusal
 

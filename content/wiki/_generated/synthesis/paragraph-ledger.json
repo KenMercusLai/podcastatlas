@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "975a54c799d648dea4b14de186d35b766b1498532932b4417b6e61f685fe8198",
       "fd037024e30e2701fabfe995689ee5c3a4b3729521d187cb7840c390202257b4",
       "1acb350d5328e36a2a47334a9fc451a6bedfadce3e1a92a3c1eba4fc3e121393",
       "75b7e6d5bae044013fc8c05f5e8222401424d12cf11c237d4c694b8a6c664817",
@@ -448,11 +449,42 @@
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0"
     ],
-    "paragraph_count": 446
+    "paragraph_count": 447
   },
-  "overview_commit": "1aa143c823aa00227ad59c5036c48adea09f94b9",
-  "overview_digest": "24ab319d6c5caf45af883b0c185ccf3c540609d5fbd9c00942d0c48f7ae83d5d",
+  "overview_commit": "e44e46d3659cedc490d9f5bb2441cdd16fc04411",
+  "overview_digest": "a5a5748eafa40ea4e2f98be37b5e9444176af9610c3758d938a564c0d37ca5f7",
   "paragraphs": [
+    {
+      "id": "975a54c799d648dea4b14de186d35b766b1498532932b4417b6e61f685fe8198",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 49 CE late [[LiuXiu|光武帝刘秀]] layer before [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]]. It adds [[ZhuBoEasternHan|朱勃]], [[PosthumousMeritVindication|身后功过昭雪]], [[FieldDiscretionPacification|便宜行事式招抚]], and [[WuhuanProtectorateInstitutionalization|护乌桓校尉制度化]], while extending [[MaYuanEasternHan|马援]], [[LiangSongLinxiangMarquis|梁松]], [[ZongJunEasternHan|宗均]], [[BanBiaoEasternHan|班彪]], [[Wuhuan|乌桓]], [[WulingManLateHan|武陵蛮]], and [[LiuXiu|刘秀]]. Its core synthesis is that late Guangwu statecraft is visible in both damage and repair: Liu Xiu can react harshly to posthumous slander against Ma Yuan, but Zhu Bo's memorial reopens proportional judgment; Zong Jun's unauthorized Wuling surrender settlement succeeds because he accepts later accountability; and Wuhuan submission becomes governable only when titles, provisioning, relocation, and a dedicated protector office turn surrender into institution. No settled contradiction is recorded; Liang Song's motive, the Dou-family marriage break, Hao Dan, Lü Zhong, and the full Empress Ma historian claim remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BanBiaoEasternHan",
+        "FieldDiscretionPacification",
+        "LiangSongLinxiangMarquis",
+        "LiuXiu",
+        "MaYuanEasternHan",
+        "PosthumousMeritVindication",
+        "RuiqiJiangtouZizhiTongjian",
+        "Wuhuan",
+        "WuhuanProtectorateInstitutionalization",
+        "WulingManLateHan",
+        "ZhuBoEasternHan",
+        "ZongJunEasternHan",
+        "zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu",
+        "zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe"
+      ]
+    },
     {
       "id": "fd037024e30e2701fabfe995689ee5c3a4b3729521d187cb7840c390202257b4",
       "primary_topic": "work-education-and-society",

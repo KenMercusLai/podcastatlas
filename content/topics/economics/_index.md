@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1882
+topic_total_pages: 1883
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -2782,6 +2782,9 @@ topic_concepts:
   - key: "ProcurementSignalPriceCornering"
     title: "征发信号价格垄断 / Procurement Signal Price Cornering"
     url: "/wiki/concepts/procurementsignalpricecornering/"
+  - key: "WuhuanProtectorateInstitutionalization"
+    title: "护乌桓校尉制度化 / Wuhuan Protectorate Institutionalization"
+    url: "/wiki/concepts/wuhuanprotectorateinstitutionalization/"
   - key: "WealthThroughDaoFrame"
     title: "求财先明道 / Wealth Through Dao Frame"
     url: "/wiki/concepts/wealththroughdaoframe/"

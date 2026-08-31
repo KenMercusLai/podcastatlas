@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6120
+wiki_total_pages: 6123
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1043,6 +1043,9 @@ wiki_pages:
   - key: "ForgedEdictPrivateExtraction"
     title: "伪诏营私 / Forged Edict Private Extraction"
     url: "/wiki/concepts/forgededictprivateextraction/"
+  - key: "FieldDiscretionPacification"
+    title: "便宜行事式招抚 / Field Discretion Pacification"
+    url: "/wiki/concepts/fielddiscretionpacification/"
   - key: "FrontierTrustThroughProtection"
     title: "保护换信任式边疆安抚 / Frontier Trust Through Protection"
     url: "/wiki/concepts/frontiertrustthroughprotection/"

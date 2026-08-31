@@ -18595,6 +18595,10 @@
     "title": "Fief Security Illusion / 封地筑城安全幻觉",
     "url": "/wiki/concepts/fiefsecurityillusion/"
   },
+  "FieldDiscretionPacification": {
+    "title": "便宜行事式招抚 / Field Discretion Pacification",
+    "url": "/wiki/concepts/fielddiscretionpacification/"
+  },
   "FieldFirstVerticalSaaS": {
     "title": "Field-First Vertical SaaS",
     "url": "/wiki/concepts/fieldfirstverticalsaas/"
@@ -40563,6 +40567,10 @@
     "title": "Posterous",
     "url": "/wiki/entities/posterous/"
   },
+  "PosthumousMeritVindication": {
+    "title": "身后功过昭雪 / Posthumous Merit Vindication",
+    "url": "/wiki/concepts/posthumousmeritvindication/"
+  },
   "PosthumousNamePolitics": {
     "title": "Posthumous Name Politics / 谥号政治",
     "url": "/wiki/concepts/posthumousnamepolitics/"
@@ -55843,6 +55851,10 @@
     "title": "乌桓 / Wuhuan",
     "url": "/wiki/entities/wuhuan/"
   },
+  "WuhuanProtectorateInstitutionalization": {
+    "title": "护乌桓校尉制度化 / Wuhuan Protectorate Institutionalization",
+    "url": "/wiki/concepts/wuhuanprotectorateinstitutionalization/"
+  },
   "WujiangChuHan": {
     "title": "乌江 / Wujiang (Chu-Han)",
     "url": "/wiki/entities/wujiangchuhan/"
@@ -59734,6 +59746,10 @@
   "ZhuBiLateHan": {
     "title": "朱璧 / Zhu Bi (late Han)",
     "url": "/wiki/entities/zhubilatehan/"
+  },
+  "ZhuBoEasternHan": {
+    "title": "朱勃 / Zhu Bo (Eastern Han)",
+    "url": "/wiki/entities/zhuboeasternhan/"
   },
   "ZhuChangLateHan": {
     "title": "朱伥 / Zhu Chang (late Han)",
@@ -64054,6 +64070,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu": {
+    "title": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
   },
   "zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe": {
     "title": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？",

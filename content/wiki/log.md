@@ -14347,3 +14347,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-31] ingest | 《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密
+
+Ingested the 2026-06-23 芮淇讲透资治通鉴 episode on Ma Yuan's death and posthumous slander, Zhu Bo's defense, Zong Jun's discretionary Wuling surrender settlement, Wuhuan submission, and Ban Biao's Wuhuan protector-office advice. Created `ZhuBoEasternHan`, `PosthumousMeritVindication`, `FieldDiscretionPacification`, and `WuhuanProtectorateInstitutionalization`; updated `MaYuanEasternHan`, `LiangSongLinxiangMarquis`, `ZongJunEasternHan`, `BanBiaoEasternHan`, `WulingManLateHan`, `Wuhuan`, and `LiuXiu`. No settled contradiction found; Liang Song's motive, the Dou-family marriage break, Hao Dan, Lü Zhong, and the full Empress Ma historian claim remain source-scoped.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

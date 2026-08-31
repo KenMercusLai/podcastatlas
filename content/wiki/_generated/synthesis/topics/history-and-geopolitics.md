@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-31
-as_of_overview_commit: e87be2039f1a1fa4bb1ec3c95df80936b036c8ef
-input_digest: fcfeca09ca8c5847352e07d2202e06603b1a0cdc66ed8c730c26a4ef7ce096d6
+as_of_overview_commit: e44e46d3659cedc490d9f5bb2441cdd16fc04411
+input_digest: 186b31bd3b5462625844d013aa5edf05fe0146baa8a61b32d8d9424ba49af173
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 729 now backfills the late Guangwu historical branch before Hanji 730: Ban Biao reads Northern Xiongnu tribute, heqin, music, and Western Regions requests as fear after Southern Xiongnu submission, Liu Xiu adopts a calibrated reward-and-wording reply, and the same episode records Liu Xiu refusing 54 CE Taishan fengshan before the later 56 CE chenwei-backed ceremony. Hanji 730 remains the next late Guangwu layer: 54-56 CE disasters, famine notes, auspicious signs, Jia Fu death-and-merit notice, Fifth Lun market-administration test, and Liu Xiu chenwei-triggered Taishan fengshan tie personnel memory to restoration legitimacy. Roman Civil War Part 1 adds a Roman-Republic crisis branch: Marius outsider military ascent, Jugurtha bribe politics, the Teutones and Cimbri emergency, Gracchan assassination precedent, and Sulla rival credit over Jugurtha show expansion, office competition, and military personalization destabilizing republican norms before Caesar. South Africa/Mandela adds a twentieth-century reconciliation-symbol branch: the 1995 Rugby World Cup and multilingual anthem show statecraft working through contested sport, music, and ceremony while bounded to one episode narrative. Hanji 733-2 moves the Eastern Han historical branch back to Liu Xiu founding before Hanji 733-3 and Yongping; later Hanji 736-741 claims remain the Mingdi frontier, ritual, governance, and Xiongnu pressure sequence. Hanji 733-3 sits outside the chronological Eastern Han sequence and adds a classical-text reception branch through HanyaoFu, fate, timing, and reversal.
+Hanji 726 now backfills the late Guangwu historical branch to 49 CE: Ma Yuan's Wuling campaign death, Liang Song's posthumous accusation, Zhu Bo's corrective memorial, Zong Jun's unauthorized surrender settlement, and Ban Biao's Wuhuan protector-office proposal make statecraft visible through slander repair, field discretion, and frontier institutionalization before Hanji 727. Hanji 729 backfills the later 52-54 CE branch before Hanji 730: Ban Biao reads Northern Xiongnu tribute, heqin, music, and Western Regions requests as fear after Southern Xiongnu submission, Liu Xiu adopts a calibrated reply, and the same episode records the 54 CE refusal of Taishan fengshan before the later 56 CE ceremony. Hanji 730 remains the next late Guangwu layer; Roman Civil War Part 1 adds a Roman-Republic crisis branch; South Africa/Mandela adds a twentieth-century reconciliation-symbol branch; Hanji 733-2 moves the Eastern Han branch back to Liu Xiu founding before Yongping; and Hanji 733-3 adds a classical-text reception branch through HanyaoFu, fate, timing, and reversal.
 
 ## Cross-source Findings
+
+### Early Eastern Han 726 Ma Yuan Wuling Wuhuan And Protectorate
+
+[[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] moves the Eastern Han historical branch back to the 49 CE late [[LiuXiu]] layer before [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]]: [[MaYuanEasternHan]] dies in the [[WulingManLateHan]] campaign and is dishonored by [[LiangSongLinxiangMarquis]], [[ZhuBoEasternHan]] reopens judgment through [[PosthumousMeritVindication]], [[ZongJunEasternHan]] settles Wuling through [[FieldDiscretionPacification]], and [[Wuhuan]] submission is turned through [[BanBiaoEasternHan]] into [[WuhuanProtectorateInstitutionalization]].
+
+**Evidence:** [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu]], [[LiuXiu]], [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe]], [[MaYuanEasternHan]], [[WulingManLateHan]], [[LiangSongLinxiangMarquis]], [[ZhuBoEasternHan]], [[PosthumousMeritVindication]], [[ZongJunEasternHan]], [[FieldDiscretionPacification]], [[Wuhuan]], [[BanBiaoEasternHan]], [[WuhuanProtectorateInstitutionalization]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 726 and backfills 49 CE before Hanji 727 rather than replacing the later Southern and Northern Xiongnu sequence.
+- Liang Song's motive, the Dou-family marriage break, Hao Dan, Lü Zhong, and the full Empress Ma historian claim remain source-scoped.
+- The claim treats Ma Yuan's slander, Wuling surrender, and Wuhuan office restoration as one late Guangwu statecraft layer, not a full biography of every actor.
 
 ### Early Eastern Han 729 Ban Biao Xiongnu And Fengshan Refusal
 
