@@ -12743,6 +12743,10 @@
     "title": "Credible Force-Display Deterrence / 可信武力展示威慑",
     "url": "/wiki/concepts/credibleforcedisplaydeterrence/"
   },
+  "CreditBasedBanditSurrender": {
+    "title": "信义招降盗贼 / Credit-Based Bandit Surrender",
+    "url": "/wiki/concepts/creditbasedbanditsurrender/"
+  },
   "CreditCardDebtMechanics": {
     "title": "Credit Card Debt Mechanics",
     "url": "/wiki/concepts/creditcarddebtmechanics/"
@@ -20735,6 +20739,10 @@
     "title": "Gao Jiyang",
     "url": "/wiki/entities/gaojiyang/"
   },
+  "GaoJunEasternHan": {
+    "title": "高峻 / Gao Jun (Eastern Han)",
+    "url": "/wiki/entities/gaojuneasternhan/"
+  },
   "GaoLanLateHan": {
     "title": "高览 / Gao Lan (late Han)",
     "url": "/wiki/entities/gaolanlatehan/"
@@ -24810,6 +24818,10 @@
   "HuangfuSongLateHan": {
     "title": "皇甫嵩 / Huangfu Song (late Han)",
     "url": "/wiki/entities/huangfusonglatehan/"
+  },
+  "HuangfuWenEasternHan": {
+    "title": "皇甫文 / Huangfu Wen (Eastern Han)",
+    "url": "/wiki/entities/huangfuweneasternhan/"
   },
   "Huangji": {
     "title": "黄棘 / Huangji",
@@ -29342,6 +29354,10 @@
   "KouRongLateHan": {
     "title": "寇荣 / Kou Rong (late Han)",
     "url": "/wiki/entities/kouronglatehan/"
+  },
+  "KouXunEasternHan": {
+    "title": "寇恂 / Kou Xun (Eastern Han)",
+    "url": "/wiki/entities/kouxuneasternhan/"
   },
   "KrebsOnSecurity": {
     "title": "Krebs on Security",
@@ -35990,6 +36006,10 @@
   "Motorola": {
     "title": "Motorola",
     "url": "/wiki/entities/motorola/"
+  },
+  "MouDestructionStrike": {
+    "title": "伐谋式斩首 / Mou-Destruction Strike",
+    "url": "/wiki/concepts/moudestructionstrike/"
   },
   "MouXin": {
     "title": "牟辛 / Mou Xin",
@@ -64762,6 +64782,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2": {
+    "title": "《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2/"
   },
   "zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w": {
     "title": "《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？",

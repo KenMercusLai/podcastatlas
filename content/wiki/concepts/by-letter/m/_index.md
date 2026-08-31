@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6185
+wiki_total_pages: 6187
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1067,6 +1067,9 @@ wiki_pages:
   - key: "MinisterialDignityProtection"
     title: "九卿体面保护 / Ministerial Dignity Protection"
     url: "/wiki/concepts/ministerialdignityprotection/"
+  - key: "MouDestructionStrike"
+    title: "伐谋式斩首 / Mou-Destruction Strike"
+    url: "/wiki/concepts/moudestructionstrike/"
   - key: "MissionaryMapKnowledgeProduction"
     title: "传教士地图知识生产 / Missionary Map Knowledge Production"
     url: "/wiki/concepts/missionarymapknowledgeproduction/"

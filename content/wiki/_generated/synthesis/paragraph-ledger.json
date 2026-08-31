@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "a3f502dc612a49c24ea3ef01dcf62010e596307ee67761c90d6a6f4ce35a45ca",
       "f07191b9a08bddf99d02abceb078b22fd7fe7ffd031a2ce8c8c4ddb6102b8d32",
       "cd564f865174393895462c0ee634fb249925bb7b1df949089a1cfe256936399e",
       "b7def56b675911d97d2e781baf41dd83a81c116080d0b36c42eead1b64898001",
@@ -465,11 +466,38 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 463
+    "paragraph_count": 464
   },
-  "overview_commit": "dcc73968135e20618f9593e2c67f82f3296934a4",
-  "overview_digest": "4726b5b3a37c559462e73073c5c0ccfe5c71bc501be072931f46f68fad5f1fe4",
+  "overview_commit": "dac1545e26840706778f5116f53b30362baa0f81",
+  "overview_digest": "04ff757de696595e8656f5204298d179144ac80e2ce5b3df9bd5e3b57f5e0d5a",
   "paragraphs": [
+    {
+      "id": "a3f502dc612a49c24ea3ef01dcf62010e596307ee67761c90d6a6f4ce35a45ca",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 9-10 / 33-34 CE before [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]]. It adds [[KouXunEasternHan|寇恂]], [[GaoJunEasternHan|高峻]], [[HuangfuWenEasternHan|皇甫文]], [[MouDestructionStrike|伐谋式斩首]], and [[CreditBasedBanditSurrender|信义招降盗贼]], while extending [[HostageRansomDeterrence|劫质禁赎威慑]], [[YinLihua|阴丽华]], [[YinXingGuangwuMaternalKin|阴兴]], [[GuoJiEasternHan|郭伋]], and [[OuterRelativePreventiveRestraint|外戚预防性约束]]. Its core synthesis is that early Guangwu order joins two hard credibility problems: hostage policy refuses ransom or hostage-first delay to destroy future kidnapping incentives, while Guo Ji and Kou Xun use opposite tools, trusted leniency and targeted killing of a key adviser, to collapse armed resistance. No settled contradiction is recorded; 殷心/郭吉/尹川/寇勋/高郡 are normalized cautiously to 阴兴, 郭伋, 颍川, 寇恂, and 高峻, while Yin Lihua's killed brother, Zhao Hong, Zhao Wu, Shache succession details, and Feng Yi's final campaign remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CreditBasedBanditSurrender",
+        "GaoJunEasternHan",
+        "GuoJiEasternHan",
+        "HostageRansomDeterrence",
+        "HuangfuWenEasternHan",
+        "KouXunEasternHan",
+        "MouDestructionStrike",
+        "OuterRelativePreventiveRestraint",
+        "RuiqiJiangtouZizhiTongjian",
+        "YinLihua",
+        "YinXingGuangwuMaternalKin",
+        "zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2",
+        "zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w"
+      ]
+    },
     {
       "id": "f07191b9a08bddf99d02abceb078b22fd7fe7ffd031a2ce8c8c4ddb6102b8d32",
       "primary_topic": "governance-and-institutions",

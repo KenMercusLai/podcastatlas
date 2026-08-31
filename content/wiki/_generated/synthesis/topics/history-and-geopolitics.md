@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-01
-as_of_overview_commit: 84cfc77f0bfcc53bb881046f9162e2099cd2e48f
-input_digest: b123a6ad9fa3b45d2e7210f7736d68784361441831fc1f0413a76957e0b64a45
+as_of_overview_commit: dac1545e26840706778f5116f53b30362baa0f81
+input_digest: fcf7e59d6a691f3d0c4dd1ce2e855c61543e0fef6bd436b30119b21d2ce20d31
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 712-713 now moves the Eastern Han historical branch back to the Jianwu 12 / 36 CE Shu campaign: Liu Xiu diagnoses Wu Han and Liu Shang's separated-camp risk before Chengdu, Wu Han survives by restoring concentration and later accepts Zhang Kan's anti-retreat advice, Gongsun Shu relies on Yan Cen's last counterattack before the final Chengdu collapse, and Hanji 713 turns victory into a conquest-legitimacy test through surrender, post-surrender atrocity, rebuke, scholar honors, repayment, and local incorporation. Hanji 724 backfills the late Guangwu historical branch to 47-48 CE through Wuling Man, Ma Yuan, Southern Xiongnu submission, Geng Guo's buffer policy, and delayed immediate war. Hanji 726 supplies the 49 CE Ma Yuan slander, Zhu Bo corrective memorial, Zong Jun surrender settlement, and Wuhuan protector-office layer before Hanji 727. Hanji 729 backfills the 52-54 CE branch before Hanji 730 through Ban Biao's Northern Xiongnu reading and Liu Xiu's early Taishan fengshan refusal. Hanji 730 remains the next late Guangwu layer; Roman Civil War Part 1 adds a Roman-Republic crisis branch; South Africa/Mandela adds a twentieth-century reconciliation-symbol branch; Hanji 733-2 moves the Eastern Han branch back to Liu Xiu founding before Yongping; and Hanji 733-3 adds a classical-text reception branch through HanyaoFu, fate, timing, and reversal.
+Hanji 709 now moves the Eastern Han historical branch back to Jianwu 9-10 / 33-34 CE before Hanji 711: the episode links hostage-ransom deterrence, Yin-family outer-relative restraint, Guo Ji's Yingchuan trust-based surrender policy, and the Gaoping surrender forced by Kou Xun's killing of Huangfu Wen. Hanji 712-713 then moves the branch to the Jianwu 12 / 36 CE Shu campaign: Liu Xiu diagnoses Wu Han and Liu Shang's separated-camp risk before Chengdu, Wu Han survives by restoring concentration and later accepts Zhang Kan's anti-retreat advice, Gongsun Shu relies on Yan Cen's last counterattack before the final Chengdu collapse, and Hanji 713 turns victory into a conquest-legitimacy test through surrender, post-surrender atrocity, rebuke, scholar honors, repayment, and local incorporation. Hanji 724 backfills the late Guangwu historical branch to 47-48 CE through Wuling Man, Ma Yuan, Southern Xiongnu submission, Geng Guo's buffer policy, and delayed immediate war. Hanji 726 supplies the 49 CE Ma Yuan slander, Zhu Bo corrective memorial, Zong Jun surrender settlement, and Wuhuan protector-office layer before Hanji 727. Hanji 729 backfills the 52-54 CE branch before Hanji 730 through Ban Biao's Northern Xiongnu reading and Liu Xiu's early Taishan fengshan refusal. Hanji 730 remains the next late Guangwu layer; Roman Civil War Part 1 adds a Roman-Republic crisis branch; South Africa/Mandela adds a twentieth-century reconciliation-symbol branch; Hanji 733-2 moves the Eastern Han branch back to Liu Xiu founding before Yongping; and Hanji 733-3 adds a classical-text reception branch through HanyaoFu, fate, timing, and reversal.
 
 ## Cross-source Findings
 
@@ -1566,3 +1566,15 @@ The immediate Guandu setup now starts before Zhang Xiu's submission: [[zizhi-ton
 - This is not a chronological Eastern Han event; it is a podcast text-reading inside the Hanji series.
 - The transcript title, variant-title, and author-name forms are normalized cautiously and remain source-scoped.
 - The fate and timing claim is recorded as the source interpretation, not as independent metaphysical proof.
+
+### Early Eastern Han 709 Hostage Pacification And Gaoping Surrender
+
+[[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] backfills the Eastern Han historical sequence to Jianwu 9-10 / 33-34 CE before [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]]: [[YinLihua]] and [[HostageRansomDeterrence]] anchor the no-ransom hostage rule, [[YinXingGuangwuMaternalKin]] shows Yin-family outer-relative restraint, [[GuoJiEasternHan]] and [[CreditBasedBanditSurrender]] show Yingchuan surrender-through-credit, and [[KouXunEasternHan]], [[HuangfuWenEasternHan]], [[GaoJunEasternHan]], and [[MouDestructionStrike]] make Gaoping a surrender-through-planning-collapse case.
+
+**Evidence:** [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2]], [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w]], [[YinLihua]], [[HostageRansomDeterrence]], [[YinXingGuangwuMaternalKin]], [[GuoJiEasternHan]], [[CreditBasedBanditSurrender]], [[KouXunEasternHan]], [[HuangfuWenEasternHan]], [[GaoJunEasternHan]], [[MouDestructionStrike]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 709 and records a chronological backfill before the already-generated Hanji 711-713 sequence.
+- The Shache succession, Wu Han, Feng Yi, Zhao Hong, Zhao Wu, and exact force-count notices are kept source-scoped rather than converted into broad historical claims.
+- The Gaoping interpretation follows the source reading of 上兵伐谋 and should not be treated as a complete theory of Sunzi or envoy killing.

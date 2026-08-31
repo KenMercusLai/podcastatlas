@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6185
+wiki_total_pages: 6187
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1853,6 +1853,9 @@ wiki_pages:
   - key: "CareerPositioningThroughFit"
     title: "人生定位与适配 / Career Positioning Through Fit"
     url: "/wiki/concepts/careerpositioningthroughfit/"
+  - key: "CreditBasedBanditSurrender"
+    title: "信义招降盗贼 / Credit-Based Bandit Surrender"
+    url: "/wiki/concepts/creditbasedbanditsurrender/"
   - key: "CommandCreditMisattribution"
     title: "军功归属错置 / Command Credit Misattribution"
     url: "/wiki/concepts/commandcreditmisattribution/"
