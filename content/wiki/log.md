@@ -14067,6 +14067,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | 《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？
+
+Ingested the 2026-06-24 芮淇讲透资治通鉴 episode on late Guangwu omens, Jia Fu's quiet military merit, Fifth Lun's early Chang'an-market and court-test profile, and Liu Xiu's chenwei-triggered Taishan fengshan. Created the source note plus `JiaFuEasternHan`; updated `FifthLunEasternHan`, `LiuXiu`, `Taishan`, `FengshanRitualLegitimacy`, `ChenweiPolitics`, and `ProphecyTriggeredPolicy`. No settled contradiction found; the "Fifth" compound-surname origin remains bounded to later Hanji 744 evidence, and detailed fengshan materials remain source-scoped.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？
 
 Ingested the 2026-06-24 芮淇讲透资治通鉴 episode on Liu Xiu's chenwei reliance, Huan Tan's anti-prophecy memorial and Lingtai confrontation, Zheng Xing's face-saving ambiguity, Jia Kui's chenwei accommodation, the Southern Xiongnu chanyu succession notice, and the Zhongyuan 2 Houtu altar setup before Hanji 732. Created the source note plus `HuanTanEasternHan`, `ZhengXingEasternHan`, and `ImperialPreferenceSpeechRisk`; updated `LiuXiu`, `JiaKuiEasternHan`, `ChenweiEvidentiaryCritique`, `index`, and `overview`. No settled contradiction found; the source qualifies Liu Xiu's otherwise positive profile by distinguishing auspicious-sign restraint from low tolerance for anti-chenwei criticism, and keeps Jia Kui's role source-scoped as a comparison case rather than a full biography.
@@ -14290,6 +14294,10 @@ Ingested the 2026-06-24 芮淇讲透资治通鉴 episode on Han Mingdi's 57-58 C
 ## [2026-08-31] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 16,463 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes while the current lint scan covered 16,463 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is unset/provider-unqualified and no common provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

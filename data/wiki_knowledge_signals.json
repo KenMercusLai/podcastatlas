@@ -6560,6 +6560,71 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/chenweievidentiarycritique/"
     },
+    "ChenweiPolitics": {
+      "episode_count": 8,
+      "show_count": 2,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》950丨不懂权力背后的人性，必败无疑 [lu8-U78yqvvWWarsZ8DlevvZChXr].md",
+          "key": "zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》950丨不懂权力背后的人性，必败无疑",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1001丨为什么劝你不要犯众怒？ [loLurKCjpIE14NNCZk0Tu7iQerKe].md",
+          "key": "zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1001丨为什么劝你不要犯众怒？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-2｜起来！被压迫的人们！ [lpx9_IICwog4NJ_nudAJ_I4Ajb25].md",
+          "key": "zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-2｜起来！被压迫的人们！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》123-1｜神之预言：“亡秦者胡”竟是指…？ [lg7M3vFdBCWEb4jOXe4jVhXjX6y8].md",
+          "key": "zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》123-1｜神之预言：“亡秦者胡”竟是指…？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8/"
+        },
+        {
+          "episode_file": "169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上） [957052909].md",
+          "key": "169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909",
+          "show": "蜜獾吃书",
+          "title": "169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上）",
+          "url": "/wiki/sources/169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909/"
+        },
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集） [704051550].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？ [lsm3XEAn8fzIdhhhXi6-PpPhEXXH].md",
+          "key": "zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/chenweipolitics/"
+    },
     "CheshiHouKingdomLateHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -14296,6 +14361,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/fengshilatehan/"
     },
+    "FengshanRitualLegitimacy": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山 [lkcyayuQrTsGy_K4BhdvY-L_LaPo].md",
+          "key": "zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？ [lsm3XEAn8fzIdhhhXi6-PpPhEXXH].md",
+          "key": "zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/fengshanrituallegitimacy/"
+    },
     "FengyishanBattleLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -14403,9 +14491,9 @@
       "url": "/wiki/concepts/fictionashistoricalevidence/"
     },
     "FifthLunEasternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？ [ltN4TqZy1D_SoDhJIDnCv8DyqxPJ].md",
@@ -14448,6 +14536,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？ [lsm3XEAn8fzIdhhhXi6-PpPhEXXH].md",
+          "key": "zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh/"
         }
       ],
       "updated": "2026-08-31",
@@ -21101,6 +21196,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/jiabiaolatehan/"
     },
+    "JiaFuEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？ [lsm3XEAn8fzIdhhhXi6-PpPhEXXH].md",
+          "key": "zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/jiafueasternhan/"
+    },
     "JiaKuiEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -24888,9 +24999,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -24940,6 +25051,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？ [lsm3XEAn8fzIdhhhXi6-PpPhEXXH].md",
+          "key": "zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh/"
         }
       ],
       "updated": "2026-08-31",
@@ -32657,6 +32775,57 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/promotionpositionfit/"
     },
+    "ProphecyTriggeredPolicy": {
+      "episode_count": 6,
+      "show_count": 1,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲 [lthMvw8iHk96Fuez9vaMlRyzCnGy].md",
+          "key": "zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？ [lnKHah144822mC4AA9bNeZKLGvOO].md",
+          "key": "zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》126｜秦始皇死因之谜（2） [ln15p5qb7Lc20GOni1IbcPmN3wca].md",
+          "key": "zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》126｜秦始皇死因之谜（2）",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》126｜秦始皇死因之谜（1） [lgtLHAu6IXQgLk1iCt1FS0jExJwE].md",
+          "key": "zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》126｜秦始皇死因之谜（1）",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》123-1｜神之预言：“亡秦者胡”竟是指…？ [lg7M3vFdBCWEb4jOXe4jVhXjX6y8].md",
+          "key": "zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》123-1｜神之预言：“亡秦者胡”竟是指…？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？ [lsm3XEAn8fzIdhhhXi6-PpPhEXXH].md",
+          "key": "zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/prophecytriggeredpolicy/"
+    },
     "ProspectiveMemory": {
       "episode_count": 1,
       "show_count": 1,
@@ -38932,6 +39101,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/tadunlatehan/"
+    },
+    "Taishan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山 [lkcyayuQrTsGy_K4BhdvY-L_LaPo].md",
+          "key": "zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？ [lsm3XEAn8fzIdhhhXi6-PpPhEXXH].md",
+          "key": "zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/taishan/"
     },
     "Taixue": {
       "episode_count": 8,

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "75b7e6d5bae044013fc8c05f5e8222401424d12cf11c237d4c694b8a6c664817",
       "c2cfe394cf9349132dee08a3f54ec66b7008c0feef880562a4f773b35cd316d8",
       "12fcd2361e57100445bf354b0eb7575c15cf3f1b1a480263e5f7305fe6d2cc3f",
       "3e56e9e9ac6b0033635b07c4c1faca2ab76abcae9f6925f9bdb82a6baf74e945",
@@ -445,11 +446,36 @@
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0"
     ],
-    "paragraph_count": 443
+    "paragraph_count": 444
   },
-  "overview_commit": "0ad00ef47a40cbd4346e2ac9658288295834863b",
-  "overview_digest": "b60916ea78c1b3a2dd44bb528fcd1a219abcc7f9b5ecc743c9d89c29194a78b9",
+  "overview_commit": "fae3dc45b7665c2cb54efc71b8e64d7fea16623d",
+  "overview_digest": "7d2cb919930273f6cf33941f9cde9995bd4b34ac8d285947ebc16fec0b91c38a",
   "paragraphs": [
+    {
+      "id": "75b7e6d5bae044013fc8c05f5e8222401424d12cf11c237d4c694b8a6c664817",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 54-56 CE late [[LiuXiu|光武帝刘秀]] layer before [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma|Hanji 731]]. It adds [[JiaFuEasternHan|贾复]], while extending [[FifthLunEasternHan|第五伦]], [[Taishan|泰山]], [[FengshanRitualLegitimacy|封禅礼制合法性]], [[ChenweiPolitics|谶纬政治]], and [[ProphecyTriggeredPolicy|预言触发政策]]. Its core synthesis is that late Guangwu personnel judgment and legitimacy ritual are joined: Liu Xiu recognizes quiet military merit in Jia Fu and frank administrative promise in Fifth Lun, while `Hetu Huichang Fu` and related chenwei passages push a frugal ruler toward Taishan fengshan as restoration-completion ritual. No settled contradiction is recorded; the episode raises but does not itself resolve the origin of the \"Fifth\" compound surname, and ritual-material details remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "ChenweiPolitics",
+        "FengshanRitualLegitimacy",
+        "FifthLunEasternHan",
+        "JiaFuEasternHan",
+        "LiuXiu",
+        "ProphecyTriggeredPolicy",
+        "RuiqiJiangtouZizhiTongjian",
+        "Taishan",
+        "zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh",
+        "zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma"
+      ]
+    },
     {
       "id": "c2cfe394cf9349132dee08a3f54ec66b7008c0feef880562a4f773b35cd316d8",
       "primary_topic": "governance-and-institutions",

@@ -4,17 +4,29 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-31
-as_of_overview_commit: 0ad00ef47a40cbd4346e2ac9658288295834863b
-input_digest: 3de4fe6cea6d6302f097fcb03b2d0cdcffbe0ace768742d9e7c9047f88b248c6
+as_of_overview_commit: fae3dc45b7665c2cb54efc71b8e64d7fea16623d
+input_digest: a2cdfb2a52a71b37ae0d8a62d117dc36d3f3dd543a57f45cc035b03c601bdc15
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 731 now adds Guangwu-era chenwei as a governance-risk layer: prophecy can become legitimacy-sensitive state guidance, making Huan Tan's canonical critique dangerous while Zheng Xing's ambiguity and Jia Kui's accommodation show safer but intellectually compromised speech paths. Hanji 736 now pushes the governance branch back to Mingdi 61-63 CE, adding Liu Cang's trust-preserving withdrawal from central office, Zheng Zhong's refusal of risky princely retainer recruitment, Liang Song's client-network exposure, Dou Mu's forged dowager authority, and Mingdi's anti-flattery treasure-cauldron response. Hanji 737 now pushes the governance branch to Mingdi 64-65 CE early Yongping order, joining empress posthumous-title ritual, Northern Xiongnu trade contact, Zheng Zhong envoy dignity and Duliaoying intelligence, Zong Jun capacity-over-reputation personnel warning, Liu Ying initially tolerated Buddhist/Huang-Lao practice, and eclipse-triggered self-criticism. Later Hanji 738-740 claims remain the continuation: official evaluation, classics education, royal-kin law, title duty, Liu Ying accusation, coercive implication, and partial correction.
+Hanji 730 now backfills the late Guangwu governance branch before Hanji 731: Liu Xiu's personnel judgment joins posthumous recognition of Jia Fu, early testing of Fifth Lun's frankness and market administration, and a chenwei-triggered Taishan fengshan decision that turns prophecy and auspicious-omen language into state ritual. Hanji 731 adds Guangwu-era chenwei as a governance-risk layer: prophecy can become legitimacy-sensitive state guidance, making Huan Tan's canonical critique dangerous while Zheng Xing's ambiguity and Jia Kui's accommodation show safer but intellectually compromised speech paths. Hanji 736 pushes the governance branch back to Mingdi 61-63 CE, adding Liu Cang's trust-preserving withdrawal from central office, Zheng Zhong's refusal of risky princely retainer recruitment, Liang Song's client-network exposure, Dou Mu's forged dowager authority, and Mingdi's anti-flattery treasure-cauldron response. Hanji 737 moves the branch to Mingdi 64-65 CE early Yongping order, joining empress posthumous-title ritual, Northern Xiongnu trade contact, Zheng Zhong envoy dignity and Duliaoying intelligence, Zong Jun capacity-over-reputation personnel warning, Liu Ying initially tolerated Buddhist/Huang-Lao practice, and eclipse-triggered self-criticism. Later Hanji 738-740 claims remain the continuation: official evaluation, classics education, royal-kin law, title duty, Liu Ying accusation, coercive implication, and partial correction.
 
 ## Cross-source Findings
+
+### Early Eastern Han 730 Guangwu Personnel Chenwei And Fengshan
+
+[[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] backfills the [[LiuXiu]] governance branch immediately before [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma|Hanji 731]]: [[JiaFuEasternHan]] shows quiet military merit recognized after death, [[FifthLunEasternHan]] shows frankness and market administration as early signals of later integrity, and [[ChenweiPolitics]], [[ProphecyTriggeredPolicy]], [[FengshanRitualLegitimacy]], and [[Taishan]] show Liu Xiu letting Hetu prophecy and heavenly-auspice language move a frugal ruler toward fengshan as restoration-completion ritual.
+
+**Evidence:** [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh]], [[LiuXiu]], [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma]], [[JiaFuEasternHan]], [[FifthLunEasternHan]], [[ChenweiPolitics]], [[ProphecyTriggeredPolicy]], [[FengshanRitualLegitimacy]], [[Taishan]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 730 and should be read as the late Guangwu backfill immediately before Hanji 731, not as a complete account of Liu Xiu's reign.
+- The episode raises but does not resolve the origin of the Fifth compound surname; that question remains outside this source's settled evidence.
+- The fengshan material records chenwei and auspicious-omen framing as a political decision mechanism, not as independent validation of prophetic authority.
 
 ### Early Eastern Han 731 Chenwei Preference And Speech Risk
 

@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-31
-as_of_overview_commit: 0ad00ef47a40cbd4346e2ac9658288295834863b
-summary: "Durable value depends on fitting AI, markets, institutions, health, culture, learning, and history to evidence, trust, operating constraints, and context."
-episode_count: 1785
-source_count: 1785
-paragraph_count: 443
+as_of_overview_commit: fae3dc45b7665c2cb54efc71b8e64d7fea16623d
+summary: "Durable value depends on fitting AI, markets, institutions, health, culture, learning, and history to evidence, trust, constraints, and context."
+episode_count: 1786
+source_count: 1786
+paragraph_count: 444
 topic_count: 8
 ---
 
@@ -49,14 +49,14 @@ Culture sources use literature, games, folklore, sports, media, brands, therapy-
 
 ### Governance and Institutions
 
-Governance capacity depends on enforceable controls, legal restraint, feedback, legitimacy, implementation discipline, and bounded proximity to power. Hanji 731 adds Guangwu-era chenwei as a speech-risk case: when imperial preference hardens into state guidance, direct critique can be punished while ambiguity and accommodation become safer strategies.
+Governance capacity depends on enforceable controls, legal restraint, feedback, legitimacy, implementation discipline, and bounded proximity to power. Hanji 730-731 add Guangwu-era chenwei pressure: prophecy can move ritual policy and make direct critique risky, while personnel judgment still turns on evidence of merit and character.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 
 ### History and Geopolitics
 
-History and geopolitics connect Roman-Republic crisis prehistory, South African reconciliation symbols, Eastern Han backfills, frontier pressure, digital infrastructure, AI sovereignty, and classical fate texts through capacity, legitimacy, trust, timing, and command.
+History and geopolitics connect Roman-Republic crisis prehistory, South African reconciliation symbols, Eastern Han backfills from late Guangwu through Yongping, frontier pressure, digital infrastructure, AI sovereignty, and classical fate texts through capacity, legitimacy, trust, timing, ritual, and command.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
