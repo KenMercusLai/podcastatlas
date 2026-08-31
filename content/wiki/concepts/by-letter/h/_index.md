@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6118
+wiki_total_pages: 6120
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -668,6 +668,9 @@ wiki_pages:
   - key: "HufuQishe"
     title: "胡服骑射 / Hu Fu Qi She"
     url: "/wiki/concepts/hufuqishe/"
+  - key: "HighStatusCautionSelfProtection"
+    title: "高位谨慎自保 / High-Status Caution Self-Protection"
+    url: "/wiki/concepts/highstatuscautionselfprotection/"
   - key: "HongduMenxue"
     title: "鸿都门学 / Hongdu Menxue"
     url: "/wiki/concepts/hongdumenxue/"

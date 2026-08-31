@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6118
+wiki_total_pages: 6120
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1859,6 +1859,9 @@ wiki_pages:
   - key: "ChineseMysteryPublishingEcology"
     title: "国产推理出版生态 / Chinese Mystery Publishing Ecology"
     url: "/wiki/concepts/chinesemysterypublishingecology/"
+  - key: "CrownPrinceTutorPublicInterest"
+    title: "太子师傅公器化 / Crown-Prince Tutor Public Interest"
+    url: "/wiki/concepts/crownprincetutorpublicinterest/"
   - key: "CourtBackchannelSurvival"
     title: "宫廷后门自救 / Court Backchannel Survival"
     url: "/wiki/concepts/courtbackchannelsurvival/"

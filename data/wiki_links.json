@@ -12847,6 +12847,10 @@
     "title": "Crown Prince Rudolf",
     "url": "/wiki/entities/crownprincerudolf/"
   },
+  "CrownPrinceTutorPublicInterest": {
+    "title": "太子师傅公器化 / Crown-Prince Tutor Public Interest",
+    "url": "/wiki/concepts/crownprincetutorpublicinterest/"
+  },
   "CrueltyUsedWell": {
     "title": "Cruelty Used Well",
     "url": "/wiki/concepts/crueltyusedwell/"
@@ -17914,6 +17918,10 @@
   "FanFestivalCommercialization": {
     "title": "Fan Festival Commercialization",
     "url": "/wiki/concepts/fanfestivalcommercialization/"
+  },
+  "FanHongEasternHan": {
+    "title": "樊弘 / Fan Hong (Eastern Han)",
+    "url": "/wiki/entities/fanhongeasternhan/"
   },
   "FanJin": {
     "title": "范进",
@@ -23542,6 +23550,10 @@
   "HighSpeedRailSystemIntegration": {
     "title": "High-Speed Rail System Integration",
     "url": "/wiki/concepts/highspeedrailsystemintegration/"
+  },
+  "HighStatusCautionSelfProtection": {
+    "title": "高位谨慎自保 / High-Status Caution Self-Protection",
+    "url": "/wiki/concepts/highstatuscautionselfprotection/"
   },
   "HighStatusLawEnforcementSignal": {
     "title": "High-Status Law-Enforcement Signal / 高位执法信号",
@@ -31035,6 +31047,10 @@
     "title": "刘馥 / Liu Fu (late Han)",
     "url": "/wiki/entities/liufulatehan/"
   },
+  "LiuFuPeiKingEasternHan": {
+    "title": "沛王刘辅 / Liu Fu, Pei King (Eastern Han)",
+    "url": "/wiki/entities/liufupeikingeasternhan/"
+  },
   "LiuGangEasternHan": {
     "title": "刘刚 / Liu Gang (Eastern Han)",
     "url": "/wiki/entities/liugangeasternhan/"
@@ -31098,6 +31114,10 @@
   "LiuKuiBohaiKing": {
     "title": "刘亏 / Liu Kui (Bohai king)",
     "url": "/wiki/entities/liukuibohaiking/"
+  },
+  "LiuLiShouguangMarquisEasternHan": {
+    "title": "寿光侯刘李 / Liu Li, Shouguang Marquis (Eastern Han)",
+    "url": "/wiki/entities/liulishouguangmarquiseasternhan/"
   },
   "LiuLiangyou": {
     "title": "刘良佑 / Liu Liangyou",
@@ -32522,6 +32542,10 @@
   "MaYuLateHan": {
     "title": "马宇 / Ma Yu (late Han)",
     "url": "/wiki/entities/mayulatehan/"
+  },
+  "MaYuanEasternHan": {
+    "title": "马援 / Ma Yuan (Eastern Han)",
+    "url": "/wiki/entities/mayuaneasternhan/"
   },
   "MaYuanyiLateHan": {
     "title": "马元义 / Ma Yuanyi (late Han)",
@@ -54083,6 +54107,10 @@
     "title": "王宁 / Wang Ning",
     "url": "/wiki/entities/wangningkeep/"
   },
+  "WangPanEasternHan": {
+    "title": "王磐 / Wang Pan (Eastern Han)",
+    "url": "/wiki/entities/wangpaneasternhan/"
+  },
   "WangPo": {
     "title": "王婆 / Wang Po",
     "url": "/wiki/entities/wangpo/"
@@ -54122,6 +54150,10 @@
   "WangShizhen": {
     "title": "王世贞 / Wang Shizhen",
     "url": "/wiki/entities/wangshizhen/"
+  },
+  "WangSuEasternHan": {
+    "title": "王肃 / Wang Su (Eastern Han)",
+    "url": "/wiki/entities/wangsueasternhan/"
   },
   "WangSunGu": {
     "title": "王孙古 / Wang Sun Gu",
@@ -57483,6 +57515,10 @@
     "title": "尹琪 / Yin Qi (nature writer)",
     "url": "/wiki/entities/yinqichedundun/"
   },
+  "YinShiEasternHan": {
+    "title": "阴识 / Yin Shi (Eastern Han)",
+    "url": "/wiki/entities/yinshieasternhan/"
+  },
   "YinTong": {
     "title": "殷通 / Yin Tong",
     "url": "/wiki/entities/yintong/"
@@ -58750,6 +58786,10 @@
   "ZhangYi": {
     "title": "Zhang Yi",
     "url": "/wiki/entities/zhangyi/"
+  },
+  "ZhangYiEasternHan": {
+    "title": "张义 / Zhang Yi (Eastern Han)",
+    "url": "/wiki/entities/zhangyieasternhan/"
   },
   "ZhangYiLateHan": {
     "title": "张懿 / Zhang Yi (late Han)",
@@ -64014,6 +64054,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf": {
+    "title": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf/"
   },
   "zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce": {
     "title": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？",

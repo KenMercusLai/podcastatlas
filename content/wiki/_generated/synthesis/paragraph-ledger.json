@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "fd037024e30e2701fabfe995689ee5c3a4b3729521d187cb7840c390202257b4",
       "1acb350d5328e36a2a47334a9fc451a6bedfadce3e1a92a3c1eba4fc3e121393",
       "75b7e6d5bae044013fc8c05f5e8222401424d12cf11c237d4c694b8a6c664817",
       "c2cfe394cf9349132dee08a3f54ec66b7008c0feef880562a4f773b35cd316d8",
@@ -447,11 +448,45 @@
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0"
     ],
-    "paragraph_count": 445
+    "paragraph_count": 446
   },
-  "overview_commit": "e87be2039f1a1fa4bb1ec3c95df80936b036c8ef",
-  "overview_digest": "51d5384fdcb26955d0fa519971fa6f4f0d7f7252435de735c5dfdf625e8eab66",
+  "overview_commit": "413d44f1353de91943e5aed3cf299575b6e79f9a",
+  "overview_digest": "dd1e7dcd334775aa0e5938e5390505eb87f12441547c5e90c54530b98e0d17cc",
   "paragraphs": [
+    {
+      "id": "fd037024e30e2701fabfe995689ee5c3a4b3729521d187cb7840c390202257b4",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 51-52 CE late [[LiuXiu|光武帝刘秀]] layer before [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]]. It adds [[FanHongEasternHan|樊弘]], [[MaYuanEasternHan|马援]], [[WangPanEasternHan|王磐]], [[WangSuEasternHan|王肃]], [[LiuFuPeiKingEasternHan|沛王刘辅]], [[LiuLiShouguangMarquisEasternHan|寿光侯刘李]], [[YinShiEasternHan|阴识]], [[ZhangYiEasternHan|张义]], [[HighStatusCautionSelfProtection|高位谨慎自保]], and [[CrownPrinceTutorPublicInterest|太子师傅公器化]], while extending [[ZhaoXiEasternHan|赵熙]], [[LiuQiangDonghaiKing|东海恭王刘强]], [[HuanRongEasternHan|桓荣]], [[PrivateRetainerNetworkRisk|私人宾客网络风险]], [[FrugalImperialBurialRestraint|节俭帝陵约束]], and [[KinshipProtocolBoundary|亲情名分边界]]. Its core synthesis is that late Guangwu court safety depends on boundary-setting before danger becomes visible: adult princes are sent toward fiefs, Fan Hong models restraint and thin burial, Ma Yuan reads elite guest networks before the purge, Liu Li's guest-backed killing triggers state crackdown, and Zhang Yi separates heir education from maternal-family convenience. No settled contradiction is recorded; Liu Fu and Zhang Yi are disambiguated from unrelated same-pinyin pages, and Liu Li/Wang Su remain bounded to this guest-disaster branch.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "CrownPrinceTutorPublicInterest",
+        "FanHongEasternHan",
+        "FrugalImperialBurialRestraint",
+        "HighStatusCautionSelfProtection",
+        "HuanRongEasternHan",
+        "KinshipProtocolBoundary",
+        "LiuFuPeiKingEasternHan",
+        "LiuLiShouguangMarquisEasternHan",
+        "LiuQiangDonghaiKing",
+        "LiuXiu",
+        "MaYuanEasternHan",
+        "PrivateRetainerNetworkRisk",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangPanEasternHan",
+        "WangSuEasternHan",
+        "YinShiEasternHan",
+        "ZhangYiEasternHan",
+        "ZhaoXiEasternHan",
+        "zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf",
+        "zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce"
+      ]
+    },
     {
       "id": "1acb350d5328e36a2a47334a9fc451a6bedfadce3e1a92a3c1eba4fc3e121393",
       "primary_topic": "governance-and-institutions",

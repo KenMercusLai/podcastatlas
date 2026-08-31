@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 8588
+wiki_total_pages: 8596
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -872,6 +872,9 @@ wiki_pages:
   - key: "YinChengPrincess"
     title: "阴城公主 / Princess Yincheng"
     url: "/wiki/entities/yinchengprincess/"
+  - key: "YinShiEasternHan"
+    title: "阴识 / Yin Shi (Eastern Han)"
+    url: "/wiki/entities/yinshieasternhan/"
   - key: "YalanLuanfanshu"
     title: "雅兰 / Yalan (Luanfanshu)"
     url: "/wiki/entities/yalanluanfanshu/"

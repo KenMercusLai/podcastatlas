@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8588
+wiki_total_pages: 8596
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "FanKuai"
     title: "樊哙 / Fan Kuai"
     url: "/wiki/entities/fankuai/"
+  - key: "FanHongEasternHan"
+    title: "樊弘 / Fan Hong (Eastern Han)"
+    url: "/wiki/entities/fanhongeasternhan/"
   - key: "FanWuji"
     title: "樊无忌 / Fan Wuji"
     url: "/wiki/entities/fanwuji/"

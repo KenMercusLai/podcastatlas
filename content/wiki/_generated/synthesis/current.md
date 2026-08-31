@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-31
-as_of_overview_commit: e87be2039f1a1fa4bb1ec3c95df80936b036c8ef
+as_of_overview_commit: 413d44f1353de91943e5aed3cf299575b6e79f9a
 summary: "Durable value depends on fitting AI, markets, institutions, health, culture, learning, and history to evidence, trust, constraints, and context."
-episode_count: 1787
-source_count: 1787
-paragraph_count: 445
+episode_count: 1788
+source_count: 1788
+paragraph_count: 446
 topic_count: 8
 ---
 
@@ -49,7 +49,7 @@ Culture sources use literature, ritual, games, media, brands, therapy-adjacent a
 
 ### Governance and Institutions
 
-Governance capacity depends on enforceable controls, feedback, restraint, implementation discipline, and legitimacy, including Guangwu frontier replies and ritual refusal.
+Governance capacity depends on enforceable controls, feedback, restraint, implementation discipline, legitimacy, and boundaries around appointments, households, territory, and infrastructure.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
@@ -77,7 +77,7 @@ Science and health claims favor measured mechanisms, clinical supervision, imple
 
 ### Work, Education, and Society
 
-Work and education sources make durable capability active: learning, role fit, feedback, pacing, social trust, AI adoption behavior, and institutions must survive real limits.
+Work and education sources make durable capability active: learning, role fit, feedback, pacing, social trust, AI adoption behavior, and status or education boundaries must survive real limits.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

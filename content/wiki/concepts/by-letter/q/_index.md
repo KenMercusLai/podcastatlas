@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 6118
+wiki_total_pages: 6120
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"

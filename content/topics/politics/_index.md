@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2116
+topic_total_pages: 2117
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3274,6 +3274,9 @@ topic_concepts:
   - key: "OuterRelativeCommandAppointmentRisk"
     title: "外戚任重职风险 / Outer-Relative Command Appointment Risk"
     url: "/wiki/concepts/outerrelativecommandappointmentrisk/"
+  - key: "CrownPrinceTutorPublicInterest"
+    title: "太子师傅公器化 / Crown-Prince Tutor Public Interest"
+    url: "/wiki/concepts/crownprincetutorpublicinterest/"
   - key: "TaixueCollectivePetition"
     title: "太学集体请命 / Taixue Collective Petition"
     url: "/wiki/concepts/taixuecollectivepetition/"

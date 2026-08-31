@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8588
+wiki_total_pages: 8596
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1016,6 +1016,9 @@ wiki_pages:
   - key: "WangShiVanke"
     title: "王石 / Wang Shi"
     url: "/wiki/entities/wangshivanke/"
+  - key: "WangPanEasternHan"
+    title: "王磐 / Wang Pan (Eastern Han)"
+    url: "/wiki/entities/wangpaneasternhan/"
   - key: "WangLiQin"
     title: "王离 / Wang Li (Qin)"
     url: "/wiki/entities/wangliqin/"
@@ -1043,6 +1046,9 @@ wiki_pages:
   - key: "WangYiHanGeneral"
     title: "王翳 / Wang Yi (Han)"
     url: "/wiki/entities/wangyihangeneral/"
+  - key: "WangSuEasternHan"
+    title: "王肃 / Wang Su (Eastern Han)"
+    url: "/wiki/entities/wangsueasternhan/"
   - key: "WangGongLateHan"
     title: "王肱 / Wang Gong (late Han)"
     url: "/wiki/entities/wanggonglatehan/"

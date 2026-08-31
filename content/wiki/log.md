@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-31] ingest | 《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂
+
+Ingested the 2026-06-23 芮淇讲透资治通鉴 episode on Zhao Xi's prince-return-to-fief advice, Fan Hong's cautious conduct and thin-burial will, Liu Qiang's exceptional honor and fief return, Ma Yuan's warnings about Wang Pan and princely guest networks, Liu Li's guest-backed killing of Liu Gong under Liu Fu's favor, Guangwu's national guest purge, and Zhang Yi/Huan Rong crown-prince tutor appointments. Created the source note plus `FanHongEasternHan`, `MaYuanEasternHan`, `WangPanEasternHan`, `WangSuEasternHan`, `LiuFuPeiKingEasternHan`, `LiuLiShouguangMarquisEasternHan`, `YinShiEasternHan`, `ZhangYiEasternHan`, `HighStatusCautionSelfProtection`, and `CrownPrinceTutorPublicInterest`; updated `ZhaoXiEasternHan`, `LiuQiangDonghaiKing`, `HuanRongEasternHan`, `PrivateRetainerNetworkRisk`, `FrugalImperialBurialRestraint`, `KinshipProtocolBoundary`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Liu Fu, Zhang Yi, Liu Li, Wang Pan, and Wang Su are kept scoped/disambiguated, while minor princes, Cao Xun, Sima Lyu Zhong, Liu Penzi, Liu Gong, and the host's modern burial commentary remain source-scoped.
+
 ## [2026-08-31] ingest | 701. Roman Civil War: Rise of the General (Part 1)
 
 Ingested the 2026-08-30 The Rest Is History episode on Gaius Marius's provincial origins, Numantia reputation, novus homo office ascent, post-Gracchan tribunate, Metellan patronage, the Jugurthine War, Sulla's surrender-credit claim, Roman expansion moral anxiety, and the northern Teutones/Cimbri threat. Created the source note plus `Jugurtha`, `QuintusCaeciliusMetellusNumidicus`, `ScipioAemilianus`, `TeutonesAndCimbri`, `Gracchi`, `RomanExpansionMoralAnxiety`, `RepublicanEmergencyViolencePrecedent`, `NovusHomoOutsiderPolitics`, `CursusHonorum`, and `PopularisPolitics`; updated `GaiusMarius`, `LuciusCorneliusSulla`, `RomanRepublic`, `LateRomanRepublicCrisis`, `MilitaryPersonalization`, `TheRestIsHistory`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Plutarch's omen story, exact northern ethnography, Marius's later reforms, Social War role, and Sulla's later march on Rome remain source-scoped or reserved for later parts.
@@ -14327,6 +14331,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？
 
 Ingested the 2026-06-24 芮淇讲透资治通鉴 episode on Ban Biao and late Guangwu statecraft: Northern Xiongnu tribute, heqin, music, and Western Regions requests; the Ban Biao fear and weakness diagnosis with calibrated reply; Liu Xiu adoption of the memorial; and the 54 CE refusal of Taishan fengshan before the later chenwei-backed ceremony. Created `BanBiaoEasternHan`; updated `LiuXiu`, `NorthernXiongnuLateHan`, `Taishan`, `FengshanRitualLegitimacy`, and `FrontierRecognitionCredibilityTradeoff`. No settled contradiction found; the 54 CE refusal and 56 CE ceremony are treated as a changed-condition sequence.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

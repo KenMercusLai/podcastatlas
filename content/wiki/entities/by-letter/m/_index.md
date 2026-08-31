@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8588
+wiki_total_pages: 8596
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1502,6 +1502,9 @@ wiki_pages:
   - key: "MaLiaoEasternHan"
     title: "马廖 / Ma Liao (Eastern Han)"
     url: "/wiki/entities/maliaoeasternhan/"
+  - key: "MaYuanEasternHan"
+    title: "马援 / Ma Yuan (Eastern Han)"
+    url: "/wiki/entities/mayuaneasternhan/"
   - key: "MaRidiLateHan"
     title: "马日磾 / Ma Ridi (late Han)"
     url: "/wiki/entities/maridilatehan/"
