@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2119
+topic_total_pages: 2121
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -385,6 +385,9 @@ topic_concepts:
   - key: "CapTableLiteracy"
     title: "Cap Table Literacy"
     url: "/wiki/concepts/captableliteracy/"
+  - key: "CapacityBoundFrontierCommitment"
+    title: "Capacity-Bound Frontier Commitment / 能力约束下的边疆承诺"
+    url: "/wiki/concepts/capacityboundfrontiercommitment/"
   - key: "CapitalControls"
     title: "Capital Controls"
     url: "/wiki/concepts/capitalcontrols/"
@@ -1621,6 +1624,9 @@ topic_concepts:
   - key: "LightTouchFrontierGovernance"
     title: "Light-Touch Frontier Governance / 宽简边疆治理"
     url: "/wiki/concepts/lighttouchfrontiergovernance/"
+  - key: "LineageRuleDurability"
+    title: "Lineage Rules and Elite Durability / 家规型士族延续"
+    url: "/wiki/concepts/lineageruledurability/"
   - key: "LiquidationPreferenceStack"
     title: "Liquidation Preference Stack"
     url: "/wiki/concepts/liquidationpreferencestack/"

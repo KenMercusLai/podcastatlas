@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6130
+wiki_total_pages: 6132
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "LineageCommercialCapital"
     title: "Lineage Commercial Capital"
     url: "/wiki/concepts/lineagecommercialcapital/"
+  - key: "LineageRuleDurability"
+    title: "Lineage Rules and Elite Durability / 家规型士族延续"
+    url: "/wiki/concepts/lineageruledurability/"
   - key: "LinguisticRelativity"
     title: "Linguistic Relativity"
     url: "/wiki/concepts/linguisticrelativity/"

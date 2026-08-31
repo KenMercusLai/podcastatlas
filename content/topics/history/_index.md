@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1544
+topic_total_pages: 1546
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -529,6 +529,9 @@ topic_concepts:
   - key: "LindyEffectAssetAllocation"
     title: "Lindy Effect Asset Allocation / 林迪效应资产配置"
     url: "/wiki/concepts/lindyeffectassetallocation/"
+  - key: "LineageRuleDurability"
+    title: "Lineage Rules and Elite Durability / 家规型士族延续"
+    url: "/wiki/concepts/lineageruledurability/"
   - key: "LongTermAchievementDiscipline"
     title: "Long-Term Achievement Discipline / 长期成事纪律"
     url: "/wiki/concepts/longtermachievementdiscipline/"
@@ -2756,6 +2759,9 @@ topic_entities:
   - key: "ShaqiuCrisis"
     title: "沙丘之变 / Shaqiu Crisis"
     url: "/wiki/entities/shaqiucrisis/"
+  - key: "HedongPeiClan"
+    title: "河东裴氏 / Hedong Pei Clan"
+    url: "/wiki/entities/hedongpeiclan/"
   - key: "HedongCommandery"
     title: "河东郡 / Hedong Commandery"
     url: "/wiki/entities/hedongcommandery/"

@@ -3925,9 +3925,9 @@
       "url": "/wiki/entities/banchaoeasternhan/"
     },
     "BanGuEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -3935,9 +3935,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？ [lqTI3sTVdCW7UtGm6uzwv5GIazHj].md",
+          "key": "zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/bangueasternhan/"
     },
     "BanShiLateHan": {
@@ -5658,6 +5665,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/caozonglatehan/"
+    },
+    "CapacityBoundFrontierCommitment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？ [lqTI3sTVdCW7UtGm6uzwv5GIazHj].md",
+          "key": "zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/capacityboundfrontiercommitment/"
     },
     "Caperni": {
       "episode_count": 1,
@@ -17851,9 +17874,9 @@
       "url": "/wiki/entities/hansonglatehan/"
     },
     "HanWudi": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -17903,9 +17926,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相",
           "url": "/wiki/sources/zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？ [lqTI3sTVdCW7UtGm6uzwv5GIazHj].md",
+          "key": "zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/hanwudi/"
     },
     "HanXianLateHan": {
@@ -18195,6 +18225,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/heyonglatehan/"
+    },
+    "HedongPeiClan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？ [lqTI3sTVdCW7UtGm6uzwv5GIazHj].md",
+          "key": "zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/hedongpeiclan/"
     },
     "HefeiLateHan": {
       "episode_count": 1,
@@ -24431,6 +24477,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/linchangqiang/"
     },
+    "LineageRuleDurability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？ [lqTI3sTVdCW7UtGm6uzwv5GIazHj].md",
+          "key": "zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/lineageruledurability/"
+    },
     "LinkedIn": {
       "episode_count": 4,
       "show_count": 3,
@@ -25349,9 +25411,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 2,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -25436,6 +25498,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？ [lqTI3sTVdCW7UtGm6uzwv5GIazHj].md",
+          "key": "zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj/"
         }
       ],
       "updated": "2026-08-31",
@@ -36548,9 +36617,9 @@
       "url": "/wiki/concepts/sexualharassmentnaminglag/"
     },
     "ShacheKingdomLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
@@ -36572,6 +36641,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？ [lqTI3sTVdCW7UtGm6uzwv5GIazHj].md",
+          "key": "zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj/"
         }
       ],
       "updated": "2026-08-31",
@@ -36739,9 +36815,9 @@
       "url": "/wiki/concepts/shangshutaiimperialaccess/"
     },
     "ShanshanKingdomLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》742丨班超出使西域，37人大杀四方！！！ [ltUtSINxtciaR0TmpXKgE0mnSNP1].md",
@@ -36749,6 +36825,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》742丨班超出使西域，37人大杀四方！！！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？ [lqTI3sTVdCW7UtGm6uzwv5GIazHj].md",
+          "key": "zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj/"
         }
       ],
       "updated": "2026-08-31",
@@ -43947,9 +44030,9 @@
       "url": "/wiki/concepts/wugupoliticalpanic/"
     },
     "Wuhuan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱 [lnlNrkETgFbADHFJbZDJjtrMQFsH].md",
@@ -43999,6 +44082,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密",
           "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？ [lqTI3sTVdCW7UtGm6uzwv5GIazHj].md",
+          "key": "zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj/"
         }
       ],
       "updated": "2026-08-31",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？](sources/zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj.md) — 46 CE late Guangwu episode on the Hedong Pei clan's long-run officeholding and family-rule explanation, Liu Xiu's Chang'an/disaster/office notices, Liu Kun's virtue stories, Xiongnu famine and heqin request, Wuhuan pressure, and capacity-bound refusal to restore the Western Regions Protectorate.
 - [《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？](sources/zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8.md) — 47-48 CE late Guangwu episode on Wuling Man destroying Liu Shang's force, Ma Yuan's late-life deployment, the Xiongnu succession rupture, Bi's Southern Xiongnu submission, Geng Guo's buffer-restoration argument, and Liu Xiu's restraint toward Zhang Gong's attack proposal.
 - [《资治通鉴·汉纪》725丨东汉名将祭肜：要保家卫国，就把敌人打趴下！](sources/zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y.md) — 49 CE late Guangwu episode on Ji Tong's reward-backed Xianbei proxy strategy, Southern/Northern Xiongnu pressure, Ma Yuan's warning letter, Liang Song resentment, and the stalled Wuling campaign before Hanji 726.
 - [《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密](sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu.md) — 49 CE late Guangwu episode on Ma Yuan's death and posthumous slander, Zhu Bo's defense, Zong Jun's discretionary Wuling surrender settlement, Wuhuan submission, and Ban Biao's Wuhuan protector-office advice.
@@ -1801,6 +1802,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [河东裴氏 / Hedong Pei Clan](entities/HedongPeiClan.md) — Wenxi-origin elite lineage presented through official-count scale, Pei Bai "Chancellor Village", and source-scoped family rules as a durability explanation.
 - [桓谭 / Huan Tan (Eastern Han)](entities/HuanTanEasternHan.md) — Guangwu-era scholar whose anti-chenwei remonstrance and Lingtai answer nearly lead to execution.
 - [郑兴 / Zheng Xing (Eastern Han)](entities/ZhengXingEasternHan.md) — Guangwu-era official used as a face-saving ambiguity contrast in the chenwei speech-risk comparison.
 - [Frost & Sullivan / 弗若斯特沙利文](entities/FrostSullivan.md) — Third-party consulting and market-research provider named in the Lao Pu Gold disclosure-quality critique.
@@ -1830,7 +1832,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [姚松 / Yao Song (Eastern Han official)](entities/YaoSongEasternHan.md) — Disambiguated Eastern Han official whose ritual quotation defuses Mingdi's anger in a severe court.
 - [郭贺 / Guo He (Eastern Han inspector)](entities/GuoHeEasternHan.md) — Jingzhou inspector whose public reward by Mingdi turns local administrative merit into visible imperial recognition.
 - [于阗王广德 / King Guangde of Khotan](entities/KhotanKingGuangdeLateHan.md) — Khotan ruler whose installation after Xiumoba, Shache marriage settlement, Shache conquest, Xiongnu submission, and dependent king-making anchor early Khotan layers.
-- [莎车国 / Shache Kingdom (late Han)](entities/ShacheKingdomLateHan.md) — Western Regions kingdom whose profile moves from King Xian's expansion over Khotan to later conquest, hostage succession, and outside reshaping of its throne.
+- [莎车国 / Shache Kingdom (late Han)](entities/ShacheKingdomLateHan.md) — Western Regions kingdom whose profile moves from King Xian's 46 CE pressure on Shanshan and Qiuci to later expansion over Khotan, conquest, hostage succession, and outside reshaping of its throne.
 - [宗均 / Zong Jun (Eastern Han)](entities/ZongJunEasternHan.md) — Eastern Han official whose Wuling field discretion, Jiujiang root-cause governance, and shangshu ling advice separate actual governing capacity from formal routine, literary polish, and clean reputation.
 - [都辽营 / Duliao Camp (Eastern Han)](entities/DuliaoCampEasternHan.md) — Mingdi-era frontier camp created at Wuyuan after Zheng Zhong detects Southern/Northern Xiongnu collusion risk.
 - [虚骨都侯 / Xugu Duhou (Southern Xiongnu)](entities/XuguDuhouSouthernXiongnu.md) — Source-scoped Southern Xiongnu actor whose attempt to seek Northern Xiongnu help triggers Duliaoying creation.
@@ -1859,7 +1861,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [樊鯈 / Fan Tiao (Eastern Han)](entities/FanTiaoEasternHan.md) — Eastern Han reviewer who tells Mingdi that royal kinship cannot turn Liu Jing's treason case into private family property.
 - [鲍峻 / Bao Jun (Eastern Han)](entities/BaoJunEasternHan.md) — Ding Hong's friend and recommender who reframes title inheritance as state-assigned public responsibility.
 - [Travis Kalanick](entities/TravisKalanick.md) — Operator guest connecting truth norms, social-media age-gate tradeoffs, communism critiques, and energy-rich property use for possible AI compute.
-- [鄯善国 / Shanshan Kingdom (late Han)](entities/ShanshanKingdomLateHan.md) — Western Regions swing polity whose 73 CE reception of Ban Chao turns after Northern Xiongnu envoys arrive, before Ban Chao's night attack forces hostage submission.
+- [鄯善国 / Shanshan Kingdom (late Han)](entities/ShanshanKingdomLateHan.md) — Western Regions swing polity whose 46 CE protectorate request is declined on Han capacity grounds before Ban Chao's 73 CE night attack forces hostage submission.
 - [廉范 / Lian Fan (Eastern Han)](entities/LianFanEasternHan.md) — Eastern Han official whose current profile joins Yunzhong torch-display deception against Northern Xiongnu with Chengdu night-fire permission plus water-preparedness governance.
 - [北海王刘睦 / Liu Mu, Beihai King](entities/LiuMuBeihaiKing.md) — Eastern Han royal kinsman who survives court suspicion by instructing an envoy to lower, not praise, his visible reputation.
 - [窦固 / Dou Gu (Eastern Han)](entities/DouGuEasternHan.md) — Mingdi-era frontier commander whose current profile begins with a 57 CE Shaodang Qiang deployment before the 73 CE Tianshan/Yiwu success and 74 CE Western Regions office-restoration petition.
@@ -1970,7 +1972,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [稽落山之战 / Jiluoshan Battle (late Han)](entities/JiluoshanBattleLateHan.md) — Dou Xian's Northern Xiongnu battlefield centerpiece with Hanji 761 route and cavalry detail, leading to Yanran commemoration and qualified migration-cascade framing.
 - [燕然勒石 / Yanran Inscription](entities/YanranInscription.md) — Campaign commemoration ordered by Dou Xian and written by Ban Gu after Jiluoshan, mass submission, and deep frontier pursuit.
 - [班彪 / Ban Biao (Eastern Han)](entities/BanBiaoEasternHan.md) — Eastern Han historian and frontier-policy adviser whose Wuhuan protector-office proposal and Northern Xiongnu memorial join institutional settlement with calibrated diplomacy.
-- [班固 / Ban Gu (Eastern Han)](entities/BanGuEasternHan.md) — Han historian whose prison death during the Dou-family cleanup leaves `Han Shu` completion to Ban Zhao.
+- [班固 / Ban Gu (Eastern Han)](entities/BanGuEasternHan.md) — Han historian-commentator whose profile now links Western Regions strategy and cost judgment to later prison death during the Dou-family cleanup and Ban Zhao's `Han Shu` continuation.
 - [李郃 / Li He (Eastern Han)](entities/LiHeEasternHan.md) — Hanzhong official who uses a delayed gift mission to keep his administrator clear of Dou Xian's collapse.
 - [郑众 / Zheng Zhong (Eastern Han eunuch)](entities/ZhengZhongEasternHan.md) — Eunuch promoted after the Dou purge whose humility and trusted access mark the episode's beginning of eunuch power.
 - [邓训 / Deng Xun (Eastern Han)](entities/DengXunEasternHan.md) — Protector of the Qiang whose protection of threatened Hu families, Mi Tang defeat, and postwar settlement explain later cross-community mourning.
@@ -3168,7 +3170,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [阎柔 / Yan Rou](entities/YanRou.md) — Wuhuan sima whose mixed Hu-Han prestige supports anti-Gongsun action, Yuan's northern settlement, and later submission to Cao Cao as Wuhuan commandant.
 - [周丹 / Zhou Dan (Late Han)](entities/ZhouDanLateHan.md) — Gongsun Zan's Yuyang taishou defeated and killed by Yan Rou in the Youzhou backlash.
 - [刘和 / Liu He (Late Han)](entities/LiuHeLateHan.md) — Liu Yu's son welcomed as a banner by the anti-Gongsun coalition.
-- [乌桓 / Wuhuan](entities/Wuhuan.md) — Northern frontier group whose branch now starts with 49 CE submission, title grants, inside-frontier settlement, and Wuhuan protector-office routines before later recognition-risk, coalition, auxiliary, pacification, Xu Wu Mountain, and anti-Gongsun roles.
+- [乌桓 / Wuhuan](entities/Wuhuan.md) — Northern frontier group whose branch now starts with 46 CE pressure against weakened Xiongnu before 49 CE submission, title grants, inside-frontier settlement, protector-office routines, and later recognition-risk or auxiliary roles.
 - [赵苞 / 赵包 / Zhao Bao (Late Han)](entities/ZhaoBaoLateHan.md) — Liaoxi official whose mother and wife become Xianbei hostages in Hanji 910, creating a loyal-minister versus family-rescue dilemma distinct from Warring States Zhao Bao.
 - [鲜卑 / Xianbei](entities/Xianbei.md) — Northern frontier people whose bounded profile now starts as pressure on Northern Xiongnu and a recognition-risk audience before repeated incursions, Zhao Bao's hostage battle, Tanshihuai succession, Liu Yu outreach, and the anti-Gongsun coalition.
 - [檀石槐 / Tanshihuai (Xianbei)](entities/TanshihuaiXianbei.md) — Xianbei leader whose profile spans refusing Han title/marriage recognition, organizing eastern/central/western commands, defeating the 177 CE expedition, hostage pressure, and weaker succession.
@@ -5961,7 +5963,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小林亮一 / Kobayashi Ryoichi](entities/KobayashiRyoichi.md) — Coach who recognizes 惠子's professional potential and teaches defense after her painful second fight.
 - [和田幸子 / Wada Sachiko](entities/WadaSachiko.md) — Language/hearing-classroom teacher who gives 惠子 a low-pressure refuge during ordinary-school crisis.
 - [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, guest-expulsion reversal, Handan revenge, conquest politics, Wang Jian's Chu command, and later imperial fangshu anxieties.
-- [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile now includes calendar standardization, fangshu and Wugu danger, palace-exhaustion critique, and expensive anti-Xiongnu warfare including a source-scoped spring reproductive-attrition reading.
+- [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile now includes calendar standardization, fangshu and Wugu danger, palace-exhaustion critique, and expensive anti-Xiongnu warfare including Western Regions-Hexi strategy, fiscal extraction, and a source-scoped spring reproductive-attrition reading.
 - [Liu An / 刘安](entities/LiuAn.md) — Western Han prince whose fangshu interest appears through textual compilation, Huainanzi, technical lore, and later immortalization legend.
 - [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used by episode 87 to connect philosophy, astronomy, technical knowledge, alchemy, and fangshu.
 - [Zou Yan / 邹衍](entities/ZouYan.md) — Warring States thinker anchoring episode 87's yin-yang and five-phases political-theory branch.
@@ -7174,7 +7176,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose failure during the succession crisis opened the way for Wang Zhengjun and Wang Mang.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated by Wang Mang, whose illness and death preceded Wang Mang's move into acting-emperor status.
 - [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now spans anti-Qin rise, Chu-Han victory, reward settlement, frontier suspicion, and court ritual repair.
-- [Liu Xiu / 刘秀](entities/LiuXiu.md) — Eastern Han founder synthesized through restoration warfare, Southern Xiongnu acceptance, Wuling and Wuhuan frontier settlement, court judgment in Ma Yuan's case, Northern Xiongnu restraint and diplomacy, chenwei reliance and control, founding coalition command, personnel recognition, tomb restraint, Taishan refusal and later fengshan, succession handoff, hostage deterrence, and Guangwu ritual memory.
+- [Liu Xiu / 刘秀](entities/LiuXiu.md) — Eastern Han founder synthesized through restoration warfare, capacity-bound Western Regions refusal, Southern Xiongnu acceptance, Wuling and Wuhuan frontier settlement, court judgment in Ma Yuan's case, Northern Xiongnu restraint and diplomacy, chenwei reliance and control, founding coalition command, personnel recognition, tomb restraint, Taishan refusal and later fengshan, succession handoff, hostage deterrence, and Guangwu ritual memory.
 - [贾复 / Jia Fu (Eastern Han)](entities/JiaFuEasternHan.md) — Eastern Han founding general whose 55 CE death notice preserves battlefield risk, quiet merit, and Liu Xiu's recognition of service.
 - [耿弇 / Geng Yan (Eastern Han)](entities/GengYanEasternHan.md) — Eastern Han founding general whose Liu Xiu alignment, Youzhou cavalry role, campaign tactics, and post-merit retreat anchor Hanji 733-2.
 - [吴汉 / Wu Han (Eastern Han)](entities/WuHanEasternHan.md) — Liu Xiu founding general linked to Geng Yan in Youzhou recruitment and Qinghe operations.
@@ -10408,6 +10410,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Capacity-Bound Frontier Commitment / 能力约束下的边疆承诺](concepts/CapacityBoundFrontierCommitment.md) — Frontier-statecraft pattern where a court defers protectorate or military commitments until it can actually supply envoys, troops, and credibility.
+- [Lineage Rules and Elite Durability / 家规型士族延续](concepts/LineageRuleDurability.md) — Elite-lineage pattern where family instructions and admonitions are treated as governance infrastructure for long-run official reproduction, with the Pei case still source-scoped.
 - [帝王偏好下的表达风险 / Imperial Preference Speech Risk](concepts/ImperialPreferenceSpeechRisk.md) — Court-communication risk where advice is judged by alignment with a ruler's preferred legitimacy frame rather than by evidence alone.
 - [Financial Report Operating Metric Integrity / 财报运营指标完整性](concepts/FinancialReportOperatingMetricIntegrity.md) — Disclosure-quality standard requiring operating metrics to be traceable, comparable, and verifiable from base data.
 - [Apartheid](concepts/Apartheid.md) — South African racial-order system whose total social reach and symbolic afterlife give Mandela's reconciliation strategy its stakes.

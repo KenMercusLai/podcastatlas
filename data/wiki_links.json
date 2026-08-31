@@ -8715,6 +8715,10 @@
     "title": "Capability Overhang",
     "url": "/wiki/concepts/capabilityoverhang/"
   },
+  "CapacityBoundFrontierCommitment": {
+    "title": "Capacity-Bound Frontier Commitment / 能力约束下的边疆承诺",
+    "url": "/wiki/concepts/capacityboundfrontiercommitment/"
+  },
   "CapeCanaveral": {
     "title": "Cape Canaveral",
     "url": "/wiki/entities/capecanaveral/"
@@ -23191,6 +23195,10 @@
     "title": "河东郡 / Hedong Commandery",
     "url": "/wiki/entities/hedongcommandery/"
   },
+  "HedongPeiClan": {
+    "title": "河东裴氏 / Hedong Pei Clan",
+    "url": "/wiki/entities/hedongpeiclan/"
+  },
   "Hefei": {
     "title": "Hefei / 合肥",
     "url": "/wiki/entities/hefei/"
@@ -30826,6 +30834,10 @@
   "LineageCommercialCapital": {
     "title": "Lineage Commercial Capital",
     "url": "/wiki/concepts/lineagecommercialcapital/"
+  },
+  "LineageRuleDurability": {
+    "title": "Lineage Rules and Elite Durability / 家规型士族延续",
+    "url": "/wiki/concepts/lineageruledurability/"
   },
   "LingZhengLateHan": {
     "title": "伶征 / Ling Zheng (late Han)",
@@ -64126,6 +64138,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj": {
+    "title": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj/"
   },
   "zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8": {
     "title": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？",

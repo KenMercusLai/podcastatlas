@@ -14075,6 +14075,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | 《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？
+
+Ingested the 2026-06-22 芮淇讲透资治通鉴 episode on the Hedong Pei clan's scale and family-rule durability claim, Jianwu 22 court/disaster notices, Liu Kun's virtue stories, Xiongnu famine and heqin request, Wuhuan pressure, and Liu Xiu's refusal to restore the Western Regions Protectorate before Han capacity could support it. Created `HedongPeiClan`, `LineageRuleDurability`, and `CapacityBoundFrontierCommitment`; updated `LiuXiu`, `BanGuEasternHan`, `HanWudi`, `ShanshanKingdomLateHan`, `ShacheKingdomLateHan`, and `Wuhuan`. No settled contradiction found; the Pei rules are treated as source-scoped because this episode names but does not enumerate them, and minor officials/hostage princes remain source-scoped.
+
 ## [2026-08-31] ingest | VOL.209 别为“功能性”上头，你以为的“精准养生”其实越补越糟！聊聊代餐粉、电解质等等
 
 Ingested the 2026-06-23 这病说来话长 episode with 阿汤 and 余婉柔 on functional foods, supplement need assessment, protein powder, electrolyte drinks, fish oil, collagen, meal replacements, nutrition-label reading, and marketing-claim skepticism. Created `YuWanrouFunctionalFoodGuest`, `FunctionalFoodRegulatoryIdentity`, `TargetedSupplementNeedAssessment`, `FunctionalFoodMarketingClaimSkepticism`, `MealReplacementNutritionBoundary`, `ElectrolyteDrinkUseBoundary`, and `FishOilNaturalStatinBoundary`; updated `ZheBingShuoLaiHuaChang`, `Atang`, `PracticalSugarControl`, and `NutritionLabelSugarTraps`. No settled contradiction found; the source-scoped `余婉柔` guest was not merged with `YueWanrou` because the names differ and the ingested evidence does not prove identity.
@@ -14375,6 +14379,10 @@ Ingested the 2026-06-23 芮淇讲透资治通鉴 episode on the 47-48 CE Wuling 
 ## [2026-08-31] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 16,519 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is unset/provider-unqualified and no `OPENAI_API_KEY` or `ANTHROPIC_API_KEY` is configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 
