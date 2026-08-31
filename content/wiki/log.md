@@ -14079,6 +14079,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | How to Accelerate Learning & Improve Education | Joe Liemandt
+
+Ingested the 2026-08-31 Huberman Lab episode with Joe Liemandt on Alpha School, two-hour individualized academics, AI-supported mastery learning, prerequisite repair, motivation architecture, human guides, builder afternoons, Founder School, GT Squared, voucher demand, and planned MIT Blueprint Labs evaluation. Created `JoeLiemandt`, `DavidYeager`, `MITBlueprintLabs`, `FounderSchool`, `GTSquared`, `AIMasteryLearningModel`, `EducationMotivationArchitecture`, `BuilderBasedSchoolDay`, and `WorkingMemoryLearningBottleneck`; updated `AlphaSchool`, `HubermanLab`, `AndrewHuberman`, `AIAsTutor`, `HumanCenteredAIEducation`, `RemedialEducationTargeting`, `DesirableDifficulty`, overview, and index. No settled contradiction found; the Joe Liemandt/Joe LeMont source-local name mismatch and Alpha's performance, SAT, learning-rate, voucher, guarantee, scale, and lower-cost-school claims remain source-scoped pending independent validation.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？
 
 Ingested the 2026-06-22 芮淇讲透资治通鉴 episode on Jianwu 18-19 / 42-43 CE late Guangwu politics: Shu and Yuanwu rebellions, Lu Fang's renewed defection, Ma Yuan's Jiaozhi campaign, state-pastor-to-inspector and temple-ritual adjustments, and Liu Qiang's repeated resignation after Guo Shengtong's deposition before Liu Yang / Liu Zhuang becomes crown prince. Created `GuoShengtong` and `CrownPrinceVoluntaryWithdrawal`; updated `LiuQiangDonghaiKing` and `MaternalStatusSuccessionLeverage`. No settled contradiction found; Zhi Yun, Lu Fang, Shi Xing, Zhang Mu, Yang Wei, Shan Chen, Fu Zhen, Zheng Ce, Zheng Er, Duyang, and Yuan Hong remain source-scoped.
@@ -14423,3 +14427,7 @@ Ingested the 2026-08-31 How I Built This episode on Nicole Bernard Dawes, Late J
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint without saving a report. Deterministic and graph-aware checks completed; semantic lint was unavailable because no provider-qualified LiteLLM model/API key is configured.

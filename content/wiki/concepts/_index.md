@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6138
+wiki_total_pages: 6142
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -869,6 +869,9 @@ wiki_pages:
   - key: "AIMarketingJargon"
     title: "AI Marketing Jargon"
     url: "/wiki/concepts/aimarketingjargon/"
+  - key: "AIMasteryLearningModel"
+    title: "AI Mastery Learning Model"
+    url: "/wiki/concepts/aimasterylearningmodel/"
   - key: "AIMaterialsDiscovery"
     title: "AI Materials Discovery"
     url: "/wiki/concepts/aimaterialsdiscovery/"

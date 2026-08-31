@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6138
+wiki_total_pages: 6142
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "EducationDepartmentAbolition"
     title: "Education Department Abolition"
     url: "/wiki/concepts/educationdepartmentabolition/"
+  - key: "EducationMotivationArchitecture"
+    title: "Education Motivation Architecture"
+    url: "/wiki/concepts/educationmotivationarchitecture/"
   - key: "EducationSignalInflation"
     title: "Education Signal Inflation / 学历信号膨胀"
     url: "/wiki/concepts/educationsignalinflation/"

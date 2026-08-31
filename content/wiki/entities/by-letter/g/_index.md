@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8621
+wiki_total_pages: 8626
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "GSK"
     title: "GSK / 葛兰素史克"
     url: "/wiki/entities/gsk/"
+  - key: "GTSquared"
+    title: "GT Squared"
+    url: "/wiki/entities/gtsquared/"
   - key: "GuanJingLateHan"
     title: "Guan Jing (Late Han)"
     url: "/wiki/entities/guanjinglatehan/"

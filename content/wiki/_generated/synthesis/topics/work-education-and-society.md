@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-31
-as_of_overview_commit: 091331b9022de4cc029868061fb07b76a0ad5ebd
-input_digest: f79c667bf2e2e1ca12c01aba6649c3c79528c03103acc1e9e625ef9770df02e7
+as_of_overview_commit: c3007e48c32c5902b007ae75d6c54707ecc937c1
+input_digest: d0d27ef5f2ece12427c7482a9511f7b848db9d5c2261fc61c214ef12b61deec5
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Hanji 725 adds a secondary role-boundary case before Hanji 726: Ma Yuan's private warning letter teaches speech discipline and imitation risk through Long Bogao and Du Jiliang, but the same letter becomes accusation evidence after its audience changes; Liang Song and Geng Shu extend the risk through etiquette resentment, association exposure, and route-dispute reporting. Hanji 726 then adds a reputation and accountability case: Zhu Bo's defense of Ma Yuan shows public evidence repairing posthumous reputation after accusation, Zong Jun's Wuling decision shows emergency judgment returning to self-impeachment, and Ban Biao's Wuhuan advice turns frontier management into office routines. Hanji 728 adds a source-scoped status, access, and education boundary case: Fan Hong preserves high status through low display and thin burial, Wang Pan and Wang Su show elite association becoming exposure, princely guest networks turn access into violence and purge, and Zhang Yi/Huan Rong make crown-prince education a public role rather than a maternal-family appointment. Hanji 738-744 add source-scoped public-duty, family-status, and role-boundary analogies; Hanji 757, 762, 775, 785, 787, and 792 add role fit, rank proximity, female court education, mourning withdrawal, palace selection, and family-risk diversification cases. The Guangzhou Academy of Fine Arts fieldwork episode adds formative learning through observation and interviews. Jefferson-Hemings adds a secondary society case about legal power and coercive status. Modern health-education, labor, workplace-AI, and consumer-health sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints rather than under hype.
+Hanji 725 adds a secondary role-boundary case before Hanji 726: Ma Yuan's private warning letter teaches speech discipline and imitation risk through Long Bogao and Du Jiliang, but the same letter becomes accusation evidence after its audience changes; Liang Song and Geng Shu extend the risk through etiquette resentment, association exposure, and route-dispute reporting. Hanji 726 then adds a reputation and accountability case: Zhu Bo's defense of Ma Yuan shows public evidence repairing posthumous reputation after accusation, Zong Jun's Wuling decision shows emergency judgment returning to self-impeachment, and Ban Biao's Wuhuan advice turns frontier management into office routines. Hanji 728 adds a source-scoped status, access, and education boundary case: Fan Hong preserves high status through low display and thin burial, Wang Pan and Wang Su show elite association becoming exposure, princely guest networks turn access into violence and purge, and Zhang Yi/Huan Rong make crown-prince education a public role rather than a maternal-family appointment. Hanji 738-744 add source-scoped public-duty, family-status, and role-boundary analogies; Hanji 757, 762, 775, 785, 787, and 792 add role fit, rank proximity, female court education, mourning withdrawal, palace selection, and family-risk diversification cases. The Guangzhou Academy of Fine Arts fieldwork episode adds formative learning through observation and interviews. Jefferson-Hemings adds a secondary society case about legal power and coercive status. Modern health-education, labor, workplace-AI, and consumer-health sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints rather than under hype. The Liemandt/Alpha School episode adds a modern education-institution case: compressed academics, [[AIMasteryLearningModel]], [[RemedialEducationTargeting]], [[EducationMotivationArchitecture]], and [[BuilderBasedSchoolDay]] show school learning as a designed system of tools, human guides, motivation, and applied environments rather than content delivery alone; reported Alpha outcomes remain source-scoped.
 
 ## Cross-source Findings
 
@@ -383,3 +383,15 @@ Workplace AI adoption depends on trust, participation, and observed behavior: EP
 - The claim is secondary because the source is a text-reading, not a modern workplace or education study.
 - The source-scoped conduct lesson should not be generalized into passivity or into a complete theory of social mobility.
 - The text attribution and metaphysical vocabulary remain bounded to Hanji 733-3.
+
+### Ai School Redesign Combines Mastery Motivation And Builder Work
+
+The Alpha School episode adds a modern education-institution claim: [[AIMasteryLearningModel]], [[RemedialEducationTargeting]], [[WorkingMemoryLearningBottleneck]], [[EducationMotivationArchitecture]], and [[BuilderBasedSchoolDay]] frame school improvement as matching level, motivation, human guidance, and applied environments, not just more content or app access.
+
+**Evidence:** [[how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815]], [[AlphaSchool]], [[AIMasteryLearningModel]], [[RemedialEducationTargeting]], [[WorkingMemoryLearningBottleneck]], [[EducationMotivationArchitecture]], [[BuilderBasedSchoolDay]], [[DesirableDifficulty]], [[JoeLiemandt]]
+
+**Qualifications:**
+
+- The evidence is a source-scoped Alpha School account rather than comparative school-system proof.
+- The strongest performance, SAT, voucher, learning-rate, Founder School, GT Squared, and lower-cost-school claims are not independently validated in the source.
+- The model may involve selection, family-resource, cost, implementation, and generalization issues not resolved by the episode.

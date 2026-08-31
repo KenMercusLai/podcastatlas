@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-31
-as_of_overview_commit: 650752191909292fcd636aff67c40e147419247b
-summary: "Across domains, durable claims need bounded proof: demand, institutions, evidence, workflows, health advice, and human judgment must survive contact with practice."
-episode_count: 1798
-source_count: 1798
-paragraph_count: 451
+as_of_overview_commit: c3007e48c32c5902b007ae75d6c54707ecc937c1
+summary: "Durable claims across the wiki turn on proof in practice: workflows, demand, institutions, health bounds, learning design, and human judgment under pressure."
+episode_count: 1799
+source_count: 1799
+paragraph_count: 452
 topic_count: 8
 ---
 
@@ -23,33 +23,33 @@ topic_count: 8
 - [[AIEmpireSovereigntyRisk]] extends the history-and-geopolitics topic into AI-era dependence: [[AlgorithmicTrustMigration]], [[ModelSovereignty]], and [[SovereignAIModels]] show how foreign-controlled AI systems can become cognitive and institutional infrastructure without formal conquest.
 - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] adds a functional emotion-regulation branch: [[EmotionsAsFunctionalControlStates]] treats emotions as useful control states for decision and motivation, while [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], and [[TaskSwitchingResidue]] frame regulation as monitoring, differentiating, reframing early, shaping environments, respecting body signals, and managing transition costs rather than removing emotion.
 - [[MissedDiagnosisRisk]] is mitigated less by maximal testing than by [[DiagnosticSafetyNetting]]: [[MedicalDiagnosticReasoning]], [[DoctorPatientCommunication]], and [[SecondOpinionStrategy]] keep first-visit uncertainty active through suspected diagnoses, unexcluded dangers, return or emergency triggers, report tracking, and qualified second opinions.
-- Workplace AI adoption depends on trust, participation, and observed behavior: EP43 argues that [[InstitutionalTrustAIAdoption]], [[CognitiveDiversityAIAdoption]], [[AIAdoptionBehavioralSignals]], [[AIOverwriteRate]], and [[QuietAIAdoptionDeparture]] reveal whether tools are changing work beyond deployment activity.
+- The Alpha School episode adds a modern education-institution claim: [[AIMasteryLearningModel]], [[RemedialEducationTargeting]], [[WorkingMemoryLearningBottleneck]], [[EducationMotivationArchitecture]], and [[BuilderBasedSchoolDay]] frame school improvement as matching level, motivation, human guidance, and applied environments, not just more content or app access.
 
 ## Synthesis by Domain
 
 ### AI and Technology
 
-AI and technology sources converge on a practical constraint: model capability matters only when embedded in workflows, verification, permissions, costs, physical infrastructure, and real user evidence.
+AI and technology sources converge on model capability needing workflows, verification, permissions, cost control, physical infrastructure, real user evidence, and learning designs that pair AI tutoring with mastery and human motivation.
 
 - The GLM/Micron All-In source shows AI scale becoming a coupled capacity problem: [[GLM52]] and [[ChineseOpenWeightAIStrategy]] pressure closed frontier APIs, while [[HighBandwidthMemory]], [[MicronTechnology]], [[ModularAIDataCenters]], [[SpaceBasedAIInfrastructure]], and [[OrbitalDataCenterEconomics]] make memory bandwidth, power, cooling, site deployment, and workload latency part of model progress rather than background infrastructure. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335]], [[GLM52]], [[ChineseOpenWeightAIStrategy]], [[HighBandwidthMemory]], [[MicronTechnology]], [[ModularAIDataCenters]], [[SpaceBasedAIInfrastructure]], [[OrbitalDataCenterEconomics]], [[GavinBaker]], [[TravisKalanick]].
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[PersistentCloudAgents]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[AgenticDataEngineeringHarness]], [[PolicyBoundAgenticLendingSupport]], [[ExplainableAILending]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[AgentNativeSoftware]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]], [[AIOfficeAgent]], [[ClaudeCode]], [[DingTalk]], [[Feishu]], [[TencentWorkBuddy]], [[DoubaoWork]], [[tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460]], [[AgenticDataEngineeringHarness]], [[DeterministicDataAgentValidation]], [[DataAgentGovernance]], [[DataAgentContextCompaction]], [[SilentSQLFailure]], [[AIDataReadiness]], [[AltimateCode]], [[SnowflakeCortexAnalyst]], [[DataAgentBenchmarks]], [[ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack]], [[all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345]], [[AgenticSystemOfRecordMoat]], [[PersistentCloudAgents]], [[Salesforce]], [[Grokbot]], [[ep-44-human-centered-credit-building-explainable-ai-for-lending-in-an-agentic-world]], [[MPWRAI]], [[TamaraClay]], [[ExplainableAILending]], [[PolicyBoundAgenticLendingSupport]], [[HumanInTheLoopCreditDecisioning]], [[NontraditionalBorrowerCreditAccess]].
 
 ### Business and Markets
 
-Business sources show value surviving when demand, trust, distribution, payment proof, operating capacity, and risk discipline are visible; Late July adds category velocity and margin as mission-led CPG constraints.
+Business sources show value surviving when demand, trust, distribution, payment proof, operating capacity, metrics, and risk discipline are visible.
 
 - [[shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716|商业小样48]] adds that investor-facing operating metrics need traceable denominators, comparable peer sets, historical continuity, and accessible base data: [[FinancialReportOperatingMetricIntegrity]] shows how [[LaoPuGold]]'s shifting third-party rankings through [[FrostSullivan]] can turn a luxury-positioning story into hard-to-verify market confidence theater. Evidence: [[shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716]], [[FinancialReportOperatingMetricIntegrity]], [[LaoPuGold]], [[FrostSullivan]], [[PublicMarketLuxuryGrowthTension]], [[LuxuryScarcityDiscipline]], [[GoldJewelryValuePerceptionRisk]], [[AsymmetricInformation]].
 - [[nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273]] adds an airline-service economics branch: [[AirlineMealIndustrialization]] explains why food quality is constrained by batch catering, cold-chain handling, reheating, and cabin taste loss, while [[AirlineMealMonetization]] and [[AirlineServiceDifferentiation]] show why [[AirChina]], [[ChinaEasternAirlines]], [[ChinaSouthernAirlines]], and [[HainanAirlines]] can still treat meals as repeat-purchase, brand-memory, controllable-cost, and optional-revenue levers. Side updates connect [[LPDDR6]], [[Meituan]], [[MixueBingcheng]], [[Insta360]], and [[AIHardwareSupplyChainPressure]] to current consumer and hardware-market pressure. Evidence: [[nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273]], [[AirlineMealIndustrialization]], [[AirlineMealMonetization]], [[AirlineServiceDifferentiation]], [[AirChina]], [[ChinaEasternAirlines]], [[ChinaSouthernAirlines]], [[HainanAirlines]], [[LPDDR6]], [[Meituan]], [[MixueBingcheng]], [[Insta360]], [[AIHardwareSupplyChainPressure]].
 
 ### Culture and Media
 
-Culture sources treat literature, ritual, games, platforms, brands, and creative practice as evidence about politics, identity, attention, agency, reception, and human meaning rather than entertainment alone.
+Culture sources treat literature, ritual, games, platforms, brands, and creative practice as evidence about politics, identity, attention, agency, reception, and human meaning.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]], [[AntiAuthoritarianEducation]], [[SafetyAsControl]], [[BuddhistLifeAffirmingLiterature]].
 
 ### Governance and Institutions
 
-Governance sources show that legitimacy depends on enforceable structures, credible roles, accountable discretion, mission protection, AI and health-product boundaries, and incentives that survive implementation.
+Governance sources show legitimacy depending on enforceable structures, credible roles, accountable discretion, mission protection, AI and health-product boundaries, and incentives that survive implementation.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
@@ -63,7 +63,7 @@ History and geopolitics sources connect frontier policy, state legitimacy, milit
 
 ### Psychology and Personal Development
 
-Psychology and personal-development sources emphasize state awareness, self-command, trust calibration, emotional regulation, sized risk, movement practice, and human judgment under pressure.
+Psychology and personal-development sources emphasize state awareness, self-command, trust calibration, emotional regulation, sized risk, movement practice, learning challenge, and human judgment under pressure.
 
 - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] adds a functional emotion-regulation branch: [[EmotionsAsFunctionalControlStates]] treats emotions as useful control states for decision and motivation, while [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], and [[TaskSwitchingResidue]] frame regulation as monitoring, differentiating, reframing early, shaping environments, respecting body signals, and managing transition costs rather than removing emotion. Evidence: [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]], [[EmotionsAsFunctionalControlStates]], [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], [[TaskSwitchingResidue]], [[EmotionRegulationToolkit]], [[BrainBodyEmotionMapping]].
 - [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]] adds a discipline-centered self-command branch: [[DisciplineOverMotivation]] decouples needed action from current motivation, [[AutonomicStressTraining]] treats bodily discomfort as bounded practice, [[OperationalDetachment]] widens attention before decisions, and [[LeadershipEmotionalCounterweight]] with [[ActionAfterAdversity]] frame leadership and resilience as action after emotion rather than emotion-free control. Evidence: [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]], [[JockoWillink]], [[DisciplineOverMotivation]], [[AutonomicStressTraining]], [[OperationalDetachment]], [[LeadershipEmotionalCounterweight]], [[ActionAfterAdversity]], [[EmotionRegulationToolkit]], [[MotivationRewardEffortCalculation]], [[AttentionCapacitySelection]].
@@ -77,7 +77,7 @@ Science, health, and climate sources converge on bounded evidence: mechanisms, m
 
 ### Work, Education, and Society
 
-Work, education, and society sources show durable capability emerging from active learning, role boundaries, feedback loops, social trust, realistic workplace judgment, and environments that let people act.
+Work, education, and society sources show durable capability emerging from active learning, role boundaries, feedback loops, social trust, realistic workplace judgment, and learning environments that combine mastery, motivation, and applied action.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

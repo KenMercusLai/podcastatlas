@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8621
+wiki_total_pages: 8626
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "DavidVictor"
     title: "David Victor"
     url: "/wiki/entities/davidvictor/"
+  - key: "DavidYeager"
+    title: "David Yeager"
+    url: "/wiki/entities/davidyeager/"
   - key: "Davines"
     title: "Davines"
     url: "/wiki/entities/davines/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2617
+topic_total_pages: 2619
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -529,6 +529,9 @@ topic_concepts:
   - key: "AIMarketingJargon"
     title: "AI Marketing Jargon"
     url: "/wiki/concepts/aimarketingjargon/"
+  - key: "AIMasteryLearningModel"
+    title: "AI Mastery Learning Model"
+    url: "/wiki/concepts/aimasterylearningmodel/"
   - key: "AIMaterialsDiscovery"
     title: "AI Materials Discovery"
     url: "/wiki/concepts/aimaterialsdiscovery/"
@@ -7380,6 +7383,9 @@ topic_sources:
   - key: "tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128"
     title: "How states are competing in the data center gold rush"
     url: "/wiki/sources/tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128/"
+  - key: "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815"
+    title: "How to Accelerate Learning & Improve Education | Joe Liemandt"
+    url: "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
   - key: "tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128"
     title: "How U.S. political campaigns have used generative AI"
     url: "/wiki/sources/tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128/"

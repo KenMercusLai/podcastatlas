@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Accelerate Learning & Improve Education | Joe Liemandt](sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815.md) — Huberman Lab episode with Joe Liemandt on Alpha School, AI tutors, mastery learning, prerequisite repair, motivation architecture, human guides, builder afternoons, and source-scoped performance and scaling claims.
 - [Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing... Tortilla Chips Saved Them](sources/late-july-snacks-nicole-bernard-dawes-crackers-and-cookies-were-failing-tortilla-chips-saved-them-97049a31-9144-42f5-856c-9590c5e6beb4.md) — How I Built This episode on Nicole Bernard Dawes, Late July Snacks, the failed cracker/cookie phase, rescue financing, tortilla-chip category fit, Stop & Shop distribution, and Snyder's-Lance/Campbell ownership.
 - [《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？](sources/zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0.md) — 42-43 CE late Guangwu episode on Shu and Yuanwu rebellions, Ma Yuan's Jiaozhi campaign, ritual-temple adjustments, and Liu Qiang's repeated resignation after Guo Shengtong's deposition before Liu Yang/Liu Zhuang becomes crown prince.
 - [《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？](sources/zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli.md) — 43-44 CE late Guangwu episode on crown-prince guidance by Yin Shi, Yin Xing, and Huan Rong, Dong Xuan's enforcement against Princess Huyang's protected slave, Liu Xiu's reward-and-restraint signal, Nandun tax relief, Liu Shang's southwest campaign, and Wu Han's deathbed warning.
@@ -2314,8 +2315,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity, emotion science, hormone health, AI, immunology, leadership, health Q&A, meditation, adult learning, psychiatry, dog psychology, movement practice, and body composition.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions, solo Essentials episodes, and listener Q&A on nutrition, motivation, attention, emotion, AI, hormone health, immunology, leadership, health routines, meditation, adult learning, psychiatry, dog psychology, movement practice, and body composition.
+- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity, emotion science, hormone health, AI, immunology, leadership, health Q&A, meditation, adult learning, psychiatry, dog psychology, movement practice, body composition, and AI-supported education redesign.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions, solo Essentials episodes, and listener Q&A on nutrition, motivation, attention, emotion, AI, hormone health, immunology, leadership, health routines, meditation, adult learning, psychiatry, dog psychology, movement practice, body composition, and education redesign.
+- [Joe Liemandt](entities/JoeLiemandt.md) — Huberman Lab guest presenting Alpha School as a two-hour AI-supported mastery-learning model with human guides, builder afternoons, and source-scoped scaling claims.
+- [David Yeager](entities/DavidYeager.md) — Researcher cited for the high-standards/high-support motivation frame in Alpha School's learning model.
+- [MIT Blueprint Labs](entities/MITBlueprintLabs.md) — Research group Alpha says it is partnering with for testing and randomized controlled trials of the school model.
 - [Ido Portal](entities/IdoPortal.md) — Huberman Lab guest framing movement as awareness practice, will as resistance-facing exposure, bodily resolution, play, body schema, and everyday practice.
 - [Cesar Millan](entities/CesarMillan.md) — Dog-behavior expert whose Huberman Lab interview frames dog care through calm human state, species needs, structured rituals, and correctly timed affection.
 - [Kyle Gillett](entities/KyleGillett.md) — Physician and Huberman Lab guest explaining male hormone phenotyping, lifestyle foundations, fertility risk, supplement boundaries, and supervised androgen interventions.
@@ -4020,7 +4024,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Georgia-Pacific](entities/GeorgiaPacific.md) — Koch acquisition used by Charles Koch as a bureaucracy-to-principles culture-integration example.
 - [Molex](entities/Molex.md) — Koch company example where Charles Koch says principles vocabulary initially failed to change behavior.
 - [Stand Together](entities/StandTogether.md) — Koch-linked social-change network framed around collaboration, education efforts, recovery models, and barrier removal.
-- [Alpha School](entities/AlphaSchool.md) — Education effort named as part of Stand Together's school-experiment portfolio.
+- [Alpha School](entities/AlphaSchool.md) — School model centered on two-hour individualized academics, AI-supported mastery, human guides, builder afternoons, sports, life skills, and source-scoped scaling claims.
+- [Founder School](entities/FounderSchool.md) — Alpha high-school program described as pairing academics with student entrepreneurship and a source-scoped profit-or-tuition guarantee.
+- [GT Squared](entities/GTSquared.md) — Alpha-associated program aiming, in the source's framing, to make many students academically MIT-eligible by middle school.
 - [Khan Academy](entities/KhanAcademy.md) — Online-learning nonprofit named in the source as an education effort supported by Stand Together.
 - [Vela Fund](entities/VelaFund.md) — Education philanthropy named in the source as part of Stand Together's alternative-school support.
 - [The Phoenix](entities/ThePhoenixRecovery.md) — Addiction-recovery community example Chase Koch uses to illustrate backing people close to problems.
@@ -12507,7 +12513,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Government AI Pace-Setting](concepts/GovernmentAIPaceSetting.md) — Proposal for governments to help control or set frontier AI development tempo when voluntary lab safety systems look insufficient.
 - [Streaming Platform Bundling](concepts/StreamingPlatformBundling.md) — Streaming-distribution pattern where a content library becomes watchable inside a larger platform subscription rather than only through a separate app.
 - [Human-Centered AI Augmentation](concepts/HumanCenteredAIAugmentation.md) — Fei-Fei Li's agency-preserving frame for AI as a tool that supports human dignity, learning, creativity, medicine, science, and public participation.
-- [Human-Centered AI Education](concepts/HumanCenteredAIEducation.md) — AI education frame that treats student agency, teacher support, ethics, privacy, bias, and domain collaboration as core curriculum rather than add-ons.
+- [Human-Centered AI Education](concepts/HumanCenteredAIEducation.md) — AI education frame that treats student agency, teacher support, ethics, privacy, bias, motivation, and role redesign as core curriculum rather than add-ons.
+- [AI Mastery Learning Model](concepts/AIMasteryLearningModel.md) — Education model combining individualized AI-supported lessons, mastery thresholds, prerequisite repair, spaced recall, measurement loops, and human motivation support.
+- [Education Motivation Architecture](concepts/EducationMotivationArchitecture.md) — School-design pattern linking hard academic work to goals, belonging, identity, incentives, adult coaching, and activities students value.
+- [Builder-Based School Day](concepts/BuilderBasedSchoolDay.md) — Alpha School pattern separating compressed academics from applied projects, entrepreneurship, public work, labs, sports, and life-skills practice.
+- [Working Memory Learning Bottleneck](concepts/WorkingMemoryLearningBottleneck.md) — Learning constraint where missing fluency in basics consumes limited working memory and blocks higher-level problem solving.
 - [Behavioral Signal Processing](concepts/BehavioralSignalProcessing.md) — AI-supported analysis of speech, vocalization, bodily signals, emotion, context, and identity, with clinical promise and privacy/bias risks.
 - [Academic AI Research Role](concepts/AcademicAIResearchRole.md) — University role in AI centered on novelty, literature currency, early PhD practice, long-range questions, interdisciplinary research, and human-scaled labs alongside industry compute.
 - [Project-Driven AI Curriculum](concepts/ProjectDrivenAICurriculum.md) — Curriculum model using projects and fast-refresh electives to keep AI teaching current while preserving student judgment and ethics.
@@ -12566,7 +12576,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Positive Externality](concepts/PositiveExternality.md) — Spillover benefit concept used by the source to explain why education and health investment can benefit others.
 - [Evidence-Based Development Policy](concepts/EvidenceBasedDevelopmentPolicy.md) — Policy ideal of using measured results from field experiments while still accounting for politics, institutions, and local benefit.
 - [Small Business Financing Gap](concepts/SmallBusinessFinancingGap.md) — Constraint where tiny firms with viable products cannot access capital because lenders lack records, collateral, or reliable signals.
-- [Remedial Education Targeting](concepts/RemedialEducationTargeting.md) — Lesson from the Busia textbook study that education inputs must match students who are already behind.
+- [Remedial Education Targeting](concepts/RemedialEducationTargeting.md) — Principle that education inputs should match actual level and missing prerequisites, from Busia textbook evidence to AI-supported prerequisite repair.
 - [Deworming as Human Capital Investment](concepts/DewormingAsHumanCapitalInvestment.md) — Health intervention frame linking parasite treatment to school attendance, later jobs, income, and spillover benefits.
 - [Development Research Ethics](concepts/DevelopmentResearchEthics.md) — Tension around field experiments generating global knowledge while local participants may not always receive direct policy gains.
 - [AI Abundance Narrative](concepts/AIAbundanceNarrative.md) — Future story where advanced AI and robots produce material abundance while raising human-agency and safety questions.
@@ -12707,7 +12717,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Build vs. Borrow Product Strategy](concepts/BuildVsBorrowProductStrategy.md) — Engineering/product discipline of deciding what must be invented and what should be assembled from existing parts.
 - [Brooks's Law](concepts/BrooksLaw.md) — Project-management warning that adding people to a late or unclear project can increase coordination cost and delay it further.
 - [Additive Bias](concepts/AdditiveBias.md) — Decision tendency to improve by adding more rather than cutting, narrowing, or stopping.
-- [Desirable Difficulty](concepts/DesirableDifficulty.md) — Constraint and learning frame where calibrated difficulty preserves focus, tradeoffs, active recall, correction, feedback, and reachable adaptation.
+- [Desirable Difficulty](concepts/DesirableDifficulty.md) — Constraint and learning frame where calibrated challenge requires feedback, support, goals, prerequisite fit, and reachable adaptation.
 - [Skimpflation](concepts/Skimpflation.md) — Quality-degradation response to inflation where familiar products keep their surface identity while ingredients, service, or standards quietly weaken.
 - [Chocolate Compound](concepts/ChocolateCompound.md) — Chocolate-like coating that can use chocolate ingredients without meeting legal milk-chocolate standards.
 - [Chocolate Label Standards](concepts/ChocolateLabelStandards.md) — Food-label rules that make distinctions such as milk chocolate, chocolate candy, and peanut butter cream economically meaningful.
@@ -16283,7 +16293,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [A-Share Bull Market History](concepts/AShareBullMarketHistory.md) — Historical frame for Chinese equity bull markets across scarcity, policy, liquidity, regulation, leverage, and fundamentals.
 - [Account Misuse Risk](concepts/AccountMisuseRisk.md) — Risk that personal bank cards, IDs, payment accounts, or dormant accounts are used to receive, split, withdraw, or disguise suspicious funds.
 - [AI 3D Prototyping](concepts/AI3DPrototyping.md) — Possibility that AI lowers 3D game-production barriers enough for small teams to test richer prototypes.
-- [AI As Tutor](concepts/AIAsTutor.md) — Student-facing AI use where models personalize explanations and bridge gaps while the learner still owns understanding.
+- [AI As Tutor](concepts/AIAsTutor.md) — Student-facing AI use where models personalize explanations, diagnose gaps, and scaffold practice while the learner still owns understanding.
 - [AI BPO Roll Up](concepts/AIBPORollUp.md) — Restructuring business-process outsourcing and professional services with agents, experts, and shared systems.
 - [AI Staffing](concepts/AIStaffing.md) — Enterprise-agent model where providers design, train, and dispatch digital employees by role, workload, time, or completed result.
 - [AI Assisted Software Development Risk](concepts/AIAssistedSoftwareDevelopmentRisk.md) — Risk that AI-speed development still fails on migration, compatibility, and production engineering details.

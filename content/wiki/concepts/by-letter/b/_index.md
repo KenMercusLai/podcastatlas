@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6138
+wiki_total_pages: 6142
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "BuildToRentHousing"
     title: "Build-To-Rent Housing"
     url: "/wiki/concepts/buildtorenthousing/"
+  - key: "BuilderBasedSchoolDay"
+    title: "Builder-Based School Day"
+    url: "/wiki/concepts/builderbasedschoolday/"
   - key: "BuilderCenteredInstitutions"
     title: "Builder-Centered Institutions"
     url: "/wiki/concepts/buildercenteredinstitutions/"

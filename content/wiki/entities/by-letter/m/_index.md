@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8621
+wiki_total_pages: 8626
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -917,6 +917,9 @@ wiki_pages:
   - key: "MIT"
     title: "MIT"
     url: "/wiki/entities/mit/"
+  - key: "MITBlueprintLabs"
+    title: "MIT Blueprint Labs"
+    url: "/wiki/entities/mitblueprintlabs/"
   - key: "MitchMorando"
     title: "Mitch Morando"
     url: "/wiki/entities/mitchmorando/"

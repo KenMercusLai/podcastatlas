@@ -451,12 +451,13 @@
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe",
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
-      "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0"
+      "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
+      "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 451
+    "paragraph_count": 452
   },
-  "overview_commit": "650752191909292fcd636aff67c40e147419247b",
-  "overview_digest": "82f94ea6278978a2f33c1345c447eb0ac352b66047563bb598838462d85ecf98",
+  "overview_commit": "c3007e48c32c5902b007ae75d6c54707ecc937c1",
+  "overview_digest": "096a9cde406559a00b46da28c0da3fd458e53c9877bdcbc3921130fab6e31f24",
   "paragraphs": [
     {
       "id": "6f2decc50f7143e8a05bbc59ab1703f6672738ba27e09393ae0525b668e75826",
@@ -13892,6 +13893,39 @@
         "SustainableHealthOptimization",
         "SweetenerUncertainty",
         "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484"
+      ]
+    },
+    {
+      "id": "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "The latest addition is [[how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815|How to Accelerate Learning & Improve Education | Joe Liemandt]], a [[HubermanLab]] episode with [[AndrewHuberman]] and [[JoeLiemandt]] on [[AlphaSchool]], AI tutors, mastery learning, motivation, and school-day redesign. It adds [[JoeLiemandt]], [[DavidYeager]], [[MITBlueprintLabs]], [[FounderSchool]], [[GTSquared]], [[AIMasteryLearningModel]], [[EducationMotivationArchitecture]], [[BuilderBasedSchoolDay]], and [[WorkingMemoryLearningBottleneck]], while extending [[AlphaSchool]], [[HubermanLab]], [[AndrewHuberman]], [[AIAsTutor]], [[HumanCenteredAIEducation]], [[RemedialEducationTargeting]], and [[DesirableDifficulty]]. Its core synthesis is that AI tutoring only becomes a serious education model when it is embedded in right-level mastery work, prerequisite repair, spaced recall, learning-rate measurement, human guide support, motivation architecture, and applied builder time. No settled contradiction is recorded; the Joe Liemandt/Joe LeMont name mismatch is source-local, and Alpha's performance, SAT, voucher, learning-rate, Founder School, GT Squared, and lower-cost-school claims remain source-scoped pending independent validation.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 4
+      },
+      "wikilinks": [
+        "AIAsTutor",
+        "AIMasteryLearningModel",
+        "AlphaSchool",
+        "AndrewHuberman",
+        "BuilderBasedSchoolDay",
+        "DavidYeager",
+        "DesirableDifficulty",
+        "EducationMotivationArchitecture",
+        "FounderSchool",
+        "GTSquared",
+        "HubermanLab",
+        "HumanCenteredAIEducation",
+        "JoeLiemandt",
+        "MITBlueprintLabs",
+        "RemedialEducationTargeting",
+        "WorkingMemoryLearningBottleneck",
+        "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815"
       ]
     }
   ],

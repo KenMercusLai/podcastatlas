@@ -300,6 +300,106 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aiasbrandmirror/"
     },
+    "AIAsTutor": {
+      "episode_count": 13,
+      "show_count": 10,
+      "source_note_count": 13,
+      "sources": [
+        {
+          "episode_file": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等 (1) [6685-1].md",
+          "key": "vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1",
+          "show": "枫言枫语",
+          "title": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等",
+          "url": "/wiki/sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1/"
+        },
+        {
+          "episode_file": "2D9F56B455380537845C7BFE321174F4~8584437_2026-08-10-210237-8787-0-0-10.128 [2D9F56B455380537845C7BFE321174F4~8584437_2026-08-10-210237-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8384b0].md",
+          "key": "ep-9-chatgpt-and-education-systems",
+          "show": "Data Science With Sam",
+          "title": "EP 9: ChatGPT and Education Systems",
+          "url": "/wiki/sources/ep-9-chatgpt-and-education-systems/"
+        },
+        {
+          "episode_file": "Vol. 171 假如我们有无限 Token (1) [6682-1].md",
+          "key": "vol-171-jiaru-women-you-wuxian-token-1-6682-1",
+          "show": "枫言枫语",
+          "title": "Vol. 171 假如我们有无限 Token",
+          "url": "/wiki/sources/vol-171-jiaru-women-you-wuxian-token-1-6682-1/"
+        },
+        {
+          "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
+          "key": "yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254",
+          "show": "What's Next｜科技早知道",
+          "title": "用 AI 让我们变笨了吗？｜S10E25",
+          "url": "/wiki/sources/yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254/"
+        },
+        {
+          "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
+          "key": "fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "番外 14：跟李诞聊聊播客、创作、AI 与中年",
+          "url": "/wiki/sources/fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552/"
+        },
+        {
+          "episode_file": "E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？ [b066c769-00d2-4341-bf61-a82bca4181e4].md",
+          "key": "e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4",
+          "show": "硅谷101",
+          "title": "E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？",
+          "url": "/wiki/sources/e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4/"
+        },
+        {
+          "episode_file": "tech_20260202_0202_MP_TECH_pod_128 [tech_20260202_0202_MP_TECH_pod_128].md",
+          "key": "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Making the most of AI, without the hype",
+          "url": "/wiki/sources/tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260323_0323_MP_TECH_pod_128 [tech_20260323_0323_MP_TECH_pod_128].md",
+          "key": "tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What do students lose when they rely on AI for homework?",
+          "url": "/wiki/sources/tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Vol. 169 高考只是个开始，Don’t Waste Your Life (1) [6668-1].md",
+          "key": "vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1",
+          "show": "枫言枫语",
+          "title": "Vol. 169 高考只是个开始，Don’t Waste Your Life",
+          "url": "/wiki/sources/vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1/"
+        },
+        {
+          "episode_file": "E45 孟岩对话李继刚：人何以自处 [lvA2mFXeSE7V0sFV3mFpfFHBDAsk].md",
+          "key": "e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask",
+          "show": "无人知晓",
+          "title": "E45 孟岩对话李继刚：人何以自处",
+          "url": "/wiki/sources/e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask/"
+        },
+        {
+          "episode_file": "洋葱学园杨临风：用AI制造捷径，是在杀死真学习 (1) [167-1].md",
+          "key": "167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1",
+          "show": "晚点聊 LateTalk",
+          "title": "167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习",
+          "url": "/wiki/sources/167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1/"
+        },
+        {
+          "episode_file": "EP241 校企合作是新一代的“铁饭碗”吗？ [lnmpSBVoQBexeaRdXYX88HyWUfig].md",
+          "key": "ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig",
+          "show": "Talk三联",
+          "title": "EP241 校企合作是新一代的“铁饭碗”吗？",
+          "url": "/wiki/sources/ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig/"
+        },
+        {
+          "episode_file": "SCIM7393383815 [SCIM7393383815].md",
+          "key": "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815",
+          "show": "Huberman Lab",
+          "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+          "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/aiastutor/"
+    },
     "AIAssistantAugmentation": {
       "episode_count": 5,
       "show_count": 3,
@@ -1119,6 +1219,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/ailegalpersonhoodrisk/"
+    },
+    "AIMasteryLearningModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7393383815 [SCIM7393383815].md",
+          "key": "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815",
+          "show": "Huberman Lab",
+          "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+          "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/aimasterylearningmodel/"
     },
     "AIModelOrchestration": {
       "episode_count": 2,
@@ -2243,6 +2359,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/alphafold/"
     },
+    "AlphaSchool": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Charles & Chase Koch on How They Quietly Built a $150B Empire [41270895].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-charles-chase-koch-on-how-they-quietly-built-a-150b-empire-41270895",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Charles & Chase Koch on How They Quietly Built a $150B Empire",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-charles-chase-koch-on-how-they-quietly-built-a-150b-empire-41270895/"
+        },
+        {
+          "episode_file": "SCIM7393383815 [SCIM7393383815].md",
+          "key": "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815",
+          "show": "Huberman Lab",
+          "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+          "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/alphaschool/"
+    },
     "AlternativePaymentStackConsolidation": {
       "episode_count": 1,
       "show_count": 1,
@@ -2535,9 +2674,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 1,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -2664,6 +2803,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
           "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+        },
+        {
+          "episode_file": "SCIM7393383815 [SCIM7393383815].md",
+          "key": "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815",
+          "show": "Huberman Lab",
+          "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+          "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
         }
       ],
       "updated": "2026-08-31",
@@ -4996,6 +5142,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/budgetedfrontiersuppression/"
+    },
+    "BuilderBasedSchoolDay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7393383815 [SCIM7393383815].md",
+          "key": "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815",
+          "show": "Huberman Lab",
+          "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+          "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/builderbasedschoolday/"
     },
     "BuqiaoQiangLeader": {
       "episode_count": 1,
@@ -9150,6 +9312,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/davidhume/"
     },
+    "DavidYeager": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7393383815 [SCIM7393383815].md",
+          "key": "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815",
+          "show": "Huberman Lab",
+          "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+          "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/davidyeager/"
+    },
     "DaymondJohn": {
       "episode_count": 1,
       "show_count": 1,
@@ -9833,9 +10011,9 @@
       "url": "/wiki/entities/derry/"
     },
     "DesirableDifficulty": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -9864,9 +10042,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
           "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
+        },
+        {
+          "episode_file": "SCIM7393383815 [SCIM7393383815].md",
+          "key": "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815",
+          "show": "Huberman Lab",
+          "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+          "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/desirabledifficulty/"
     },
     "DeterministicDataAgentValidation": {
@@ -11367,6 +11552,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/echomind/"
+    },
+    "EducationMotivationArchitecture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7393383815 [SCIM7393383815].md",
+          "key": "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815",
+          "show": "Huberman Lab",
+          "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+          "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/educationmotivationarchitecture/"
     },
     "EdwardHeath": {
       "episode_count": 2,
@@ -15222,6 +15423,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/founderpitchevidencefit/"
     },
+    "FounderSchool": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7393383815 [SCIM7393383815].md",
+          "key": "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815",
+          "show": "Huberman Lab",
+          "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+          "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/founderschool/"
+    },
     "FoundingCommanderSuspicionManagement": {
       "episode_count": 1,
       "show_count": 1,
@@ -16038,6 +16255,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/glm52/"
+    },
+    "GTSquared": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7393383815 [SCIM7393383815].md",
+          "key": "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815",
+          "show": "Huberman Lab",
+          "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+          "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/gtsquared/"
     },
     "GaiusMarius": {
       "episode_count": 2,
@@ -19755,9 +19988,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 1,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -19884,6 +20117,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
           "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+        },
+        {
+          "episode_file": "SCIM7393383815 [SCIM7393383815].md",
+          "key": "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815",
+          "show": "Huberman Lab",
+          "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+          "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
         }
       ],
       "updated": "2026-08-31",
@@ -19922,9 +20162,9 @@
       "url": "/wiki/concepts/humancenteredaiaugmentation/"
     },
     "HumanCenteredAIEducation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "2D9F56B455380537845C7BFE321174F4~8584437_2026-08-10-210237-8787-0-0-10.128 [2D9F56B455380537845C7BFE321174F4~8584437_2026-08-10-210237-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8384b0].md",
@@ -19946,9 +20186,16 @@
           "show": "Huberman Lab",
           "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
           "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        },
+        {
+          "episode_file": "SCIM7393383815 [SCIM7393383815].md",
+          "key": "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815",
+          "show": "Huberman Lab",
+          "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+          "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/humancenteredaieducation/"
     },
     "HumanInTheLoopCreditDecisioning": {
@@ -22157,6 +22404,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/jockowillink/"
+    },
+    "JoeLiemandt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7393383815 [SCIM7393383815].md",
+          "key": "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815",
+          "show": "Huberman Lab",
+          "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+          "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/joeliemandt/"
     },
     "JohannLoschek": {
       "episode_count": 1,
@@ -27220,6 +27483,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/mdma/"
+    },
+    "MITBlueprintLabs": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7393383815 [SCIM7393383815].md",
+          "key": "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815",
+          "show": "Huberman Lab",
+          "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+          "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/mitblueprintlabs/"
     },
     "MPWRAI": {
       "episode_count": 1,
@@ -35108,6 +35387,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/relationshipselectionagency/"
+    },
+    "RemedialEducationTargeting": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_052ba970c19486430743ba57ad682027_40367406 [default.mp3_ywr3ahjkcgo_052ba970c19486430743ba57ad682027_40367406].md",
+          "key": "piles-of-cash-and-a-town-of-solutions-in-kenya-nigeria-summer-school",
+          "show": "Planet Money",
+          "title": "Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)",
+          "url": "/wiki/sources/piles-of-cash-and-a-town-of-solutions-in-kenya-nigeria-summer-school/"
+        },
+        {
+          "episode_file": "SCIM7393383815 [SCIM7393383815].md",
+          "key": "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815",
+          "show": "Huberman Lab",
+          "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+          "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/remedialeducationtargeting/"
     },
     "RenFangLateHan": {
       "episode_count": 1,
@@ -44159,6 +44461,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/workerbasemodelrouting/"
+    },
+    "WorkingMemoryLearningBottleneck": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7393383815 [SCIM7393383815].md",
+          "key": "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815",
+          "show": "Huberman Lab",
+          "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+          "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/workingmemorylearningbottleneck/"
     },
     "WorkplaceBullying": {
       "episode_count": 1,

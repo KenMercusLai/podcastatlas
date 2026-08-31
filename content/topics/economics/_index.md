@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1886
+topic_total_pages: 1887
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -3434,6 +3434,9 @@ topic_entities:
   - key: "FormulaOneGroup"
     title: "Formula One Group"
     url: "/wiki/entities/formulaonegroup/"
+  - key: "FounderSchool"
+    title: "Founder School"
+    url: "/wiki/entities/founderschool/"
   - key: "FoundersFund"
     title: "Founders Fund"
     url: "/wiki/entities/foundersfund/"

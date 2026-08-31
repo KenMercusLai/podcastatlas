@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8621
+wiki_total_pages: 8626
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -368,6 +368,9 @@ wiki_pages:
   - key: "Fotucheng"
     title: "Fotucheng / 佛图澄"
     url: "/wiki/entities/fotucheng/"
+  - key: "FounderSchool"
+    title: "Founder School"
+    url: "/wiki/entities/founderschool/"
   - key: "FoundersFund"
     title: "Founders Fund"
     url: "/wiki/entities/foundersfund/"
