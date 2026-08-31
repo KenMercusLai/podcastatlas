@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6106
+wiki_total_pages: 6111
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1766,6 +1766,9 @@ wiki_pages:
   - key: "CurrencyRisk"
     title: "Currency Risk"
     url: "/wiki/concepts/currencyrisk/"
+  - key: "CursusHonorum"
+    title: "Cursus Honorum / 晋升官阶"
+    url: "/wiki/concepts/cursushonorum/"
   - key: "CustomMoviePopcornBuckets"
     title: "Custom Movie Popcorn Buckets / 电影定制爆米花桶"
     url: "/wiki/concepts/custommoviepopcornbuckets/"

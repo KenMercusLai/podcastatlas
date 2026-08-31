@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8576
+wiki_total_pages: 8581
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "Tether"
     title: "Tether"
     url: "/wiki/entities/tether/"
+  - key: "TeutonesAndCimbri"
+    title: "Teutones and Cimbri / 条顿人与辛布里人"
+    url: "/wiki/entities/teutonesandcimbri/"
   - key: "Texas"
     title: "Texas"
     url: "/wiki/entities/texas/"

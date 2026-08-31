@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8576
+wiki_total_pages: 8581
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "SchengenArea"
     title: "Schengen Area / 申根区"
     url: "/wiki/entities/schengenarea/"
+  - key: "ScipioAemilianus"
+    title: "Scipio Aemilianus / 小西庇阿"
+    url: "/wiki/entities/scipioaemilianus/"
   - key: "ScotlandYard"
     title: "Scotland Yard"
     url: "/wiki/entities/scotlandyard/"

@@ -850,14 +850,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-08-30",
       "latest_episode_file": "GLT1262857909 [GLT1262857909].md",
-      "source_note_count": 19,
-      "topic_matched_source_note_count": 19,
+      "source_note_count": 20,
+      "topic_matched_source_note_count": 20,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 17
+          "source_note_count": 18
         },
         {
           "key": "culture",
@@ -931,10 +931,10 @@
         }
       ],
       "start_here_episode_files": [
-        "GLT3909829334 [GLT3909829334].md",
+        "GLT1262857909 [GLT1262857909].md",
         "GLT2882541084 [GLT2882541084].md",
         "GLT6013835340 [GLT6013835340].md",
-        "GLT1262857909 [GLT1262857909].md"
+        "GLT3909829334 [GLT3909829334].md"
       ]
     },
     "The SaaS Podcast - Real Lessons on Growing Profitable SaaS": {

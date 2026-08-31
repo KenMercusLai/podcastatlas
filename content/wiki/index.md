@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [701. Roman Civil War: Rise of the General (Part 1)](sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909.md) — The Rest Is History episode on Gaius Marius, Roman expansion and moral anxiety, the Gracchi legacy, novus homo politics, Metellan patronage, the Jugurthine War, and the emerging Marius-Sulla rivalry.
 - [682. South Africa: Mandela and the Death of Apartheid (Part 6)](sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080.md) — The Rest Is History episode on Mandela, apartheid memory, Springbok rugby, the 1995 Rugby World Cup, Nkosi Sikelel' iAfrika, Die Stem, and symbolic reconciliation.
 - [《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄](sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr.md) — 芮淇讲透资治通鉴 episode on Mingdi's 57-58 CE accession support, Liu Cang and Wu Liang, the Shaodang Qiang crisis, Yuanling reporting before Guangwu's tablet, Liu Qiang's death, Liu Jing's relocation, Ji Tong's Liaodong frontier result, and rites/music codification.
 - [《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军](sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh.md) — 芮淇讲透资治通鉴 episode on Geng Yan's Eastern Han founding career, Liu Xiu alignment, Youzhou cavalry, Peng Chong suspicion management, Qinghe/Qi campaign tactics, and post-merit retreat.
@@ -7179,8 +7180,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Marcus Licinius Crassus / 克拉苏](entities/MarcusLiciniusCrassus.md) — First Triumvirate partner whose death removes a balancing force between Caesar and Pompey.
 - [Cicero / 西塞罗](entities/Cicero.md) — Republican orator and statesman used by episode 124 to show the limits of speech and compromise after Caesar's death.
 - [Cato the Younger / 小加图](entities/CatoTheYounger.md) — Stoic republican opponent of Caesar and moral reference point for anti-dictatorship politics.
-- [Gaius Marius / 马略](entities/GaiusMarius.md) — Earlier Roman reformer whose military changes help explain army loyalty shifting toward commanders.
-- [Lucius Cornelius Sulla / 苏拉](entities/LuciusCorneliusSulla.md) — Dictatorial precedent whose civil violence and death lists show republican norms breaking before Caesar.
+- [Gaius Marius / 马略](entities/GaiusMarius.md) — Provincial new man and soldier-politician whose rise through Numantia, the tribunate, the Jugurthine War, and later reforms makes the pre-Caesar crisis visible.
+- [Lucius Cornelius Sulla / 苏拉](entities/LuciusCorneliusSulla.md) — Marius subordinate turned rival whose Jugurthine surrender credit and later death-list violence show command politics hardening into civil terror.
+- [Jugurtha / 朱古达](entities/Jugurtha.md) — Numidian king whose war exposes Roman corruption, gives Marius the African command opportunity, and creates Sulla's early credit claim.
+- [Quintus Caecilius Metellus Numidicus / 梅特鲁斯](entities/QuintusCaeciliusMetellusNumidicus.md) — Aristocratic patron and African commander whom Marius politically displaces during the Jugurthine War.
+- [Scipio Aemilianus / 小西庇阿](entities/ScipioAemilianus.md) — Roman commander whose Numantia praise gives Marius early military reputation before Metellan patronage.
+- [Teutones and Cimbri / 条顿人与辛布里人](entities/TeutonesAndCimbri.md) — Northern migrating peoples whose threat frames Marius's coming indispensability to Rome.
+- [The Gracchi / 格拉古兄弟](entities/Gracchi.md) — Reforming brothers whose deaths and followers' executions make the tribunate dangerous before Marius.
 - [William Shakespeare / 威廉·莎士比亚](entities/WilliamShakespeare.md) — Dramatist whose Julius Caesar reshapes public memory of Caesar's last words and Brutus's betrayal.
 - [Julius Caesar / 《尤里乌斯·恺撒》](entities/JuliusCaesarPlay.md) — Shakespeare play used by episode 124 to show literary memory competing with ancient evidence.
 - [Solomon Asch / 所罗门·阿希](entities/SolomonAsch.md) — Social-psychology reference point for conformity and group-pressure experiments in episode 123's setup.
@@ -14066,8 +14072,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Revolutionary Martyrdom Image-Making / 革命殉道图像制造](concepts/RevolutionaryMartyrdomImageMaking.md) — Frame for how David's The Death of Marat turns political violence into saint-like revolutionary sacrifice.
 - [Science Under Revolutionary Suspicion / 革命怀疑下的科学](concepts/ScienceUnderRevolutionarySuspicion.md) — Episode 125's Lavoisier thread on how expert institutions become vulnerable when knowledge is read as privilege or conspiracy.
 - [Revolutionary Virtue Politics / 革命美德政治](concepts/RevolutionaryVirtuePolitics.md) — Moralized revolutionary language where sincerity, virtue, public emotion, and suspicion of hidden interests can feed terror.
-- [Late Roman Republic Crisis / 罗马共和国晚期危机](concepts/LateRomanRepublicCrisis.md) — Structural frame for Caesar's rise as a symptom of civil conflict, elite rivalry, army loyalty, provincial wealth, and weakened republican norms.
-- [Military Personalization / 军队私人化](concepts/MilitaryPersonalization.md) — Mechanism where armies attach to commanders, rewards, and personal political ambition rather than impersonal republican offices.
+- [Late Roman Republic Crisis / 罗马共和国晚期危机](concepts/LateRomanRepublicCrisis.md) — Structural frame for the republic's breakdown through expansion, inequality, Gracchan violence, Marius-Sulla command politics, and later Caesarism.
+- [Military Personalization / 军队私人化](concepts/MilitaryPersonalization.md) — Comparative mechanism where armies attach to commanders, rewards, battlefield proof, and personal political ambition rather than impersonal offices.
+- [Roman Expansion Moral Anxiety / 罗马扩张的道德焦虑](concepts/RomanExpansionMoralAnxiety.md) — Episode 701's frame for how Mediterranean success, Asian wealth, luxury, corruption, and poor-citizen resentment fed republican crisis.
+- [Republican Emergency Violence Precedent / 共和紧急暴力先例](concepts/RepublicanEmergencyViolencePrecedent.md) — Pattern where republican protections are overridden by crisis violence, grounded by the Gracchi aftermath.
+- [Novus Homo Outsider Politics / 新人局外人政治](concepts/NovusHomoOutsiderPolitics.md) — Marius-style path where military merit, provincial authenticity, patronage, and anti-elite positioning compensate for weak lineage.
+- [Cursus Honorum / 晋升官阶](concepts/CursusHonorum.md) — Roman office ladder whose consulship goal and command stakes make Marius's outsider ascent politically charged.
+- [Popularis Politics / 民众派政治](concepts/PopularisPolitics.md) — Late-republic public-legitimacy mode using tribunate authority, anti-elite positioning, and common-citizen protection claims.
 - [Personal Rule Legitimacy Crisis / 个人统治正当性危机](concepts/PersonalRuleLegitimacyCrisis.md) — Caesar's final problem of vast authority without an accepted republican form for one-person rule or succession.
 - [Tyrannicide Republican Dilemma / 弑君式共和困境](concepts/TyrannicideRepublicanDilemma.md) — Moral-political problem where killing a would-be tyrant can be intelligible but insufficient to rebuild institutions.
 - [Republican Memory Against Dictatorship / 反独裁的共和记忆](concepts/RepublicanMemoryAgainstDictatorship.md) — Episode 124's frame for the warning against open dictatorship that survived even though the Roman Republic did not.

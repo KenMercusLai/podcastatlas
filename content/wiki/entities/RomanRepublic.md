@@ -2,21 +2,58 @@
 title: "Roman Republic / 罗马共和国"
 type: entity
 tags: [polity, rome, republicanism, political-history]
-sources: [124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]
-last_updated: 2026-07-24
+sources:
+  - 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361
+  - 701-roman-civil-war-rise-of-the-general-part-1-glt1262857909
+last_updated: 2026-08-31
+knowledge_schema: synthesis-v1
 ---
 
 # Roman Republic / 罗马共和国
 
-The Roman Republic / 罗马共和国 is the institutional world whose breakdown frames [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]]. The episode sketches the republic as a political order built around anti-king memory, elected offices, terms, speeches, aristocratic honor, popular support, and the Senate, while stressing that Roman "aristocratic" and "popular" factions do not map cleanly onto modern class politics.
+## Overview
 
-The source treats the republic as already fragile before [[JuliusCaesar|Caesar]]'s dictatorship. The Gracchi aftermath, [[GaiusMarius]] and [[LuciusCorneliusSulla]], slave revolt, civil wars, provincial wealth, and military-client networks made formal republican offices coexist with escalating personal power. Caesar's rise therefore appears less as the sole cause of collapse than as the most dramatic concentration of an existing [[LateRomanRepublicCrisis]].
+The Roman Republic / 罗马共和国 is the institutional order whose late crisis frames both the Caesar assassination branch and the newer Marius-centered Roman Civil War branch. The wiki now treats it as a powerful Mediterranean republic whose success intensified the political, military, moral, and social pressures that later made one-person command and civil violence harder to contain.
 
-Its loss is also not treated as a clean tragedy. The episode notes that many defenders of the republic were elite, exclusionary, and anxious about popular politics, while Caesar could appear comparatively generous and constructive. That ambiguity is why the republic becomes a memory problem as much as an institutional one.
+## Current Profile
 
-## Connections
-- [[JuliusCaesar]], [[CaesarAssassination]], and [[RomanEmpire]] - late crisis, assassination, and imperial aftermath.
-- [[MarcusBrutus]], [[Cicero]], and [[CatoTheYounger]] - republican symbolic and intellectual defenders in the source.
-- [[LateRomanRepublicCrisis]], [[MilitaryPersonalization]], and [[PersonalRuleLegitimacyCrisis]] - concepts used to explain institutional breakdown.
-- [[RepublicanMemoryAgainstDictatorship]] - the memory that survives even after republican government fails.
-- [[FlorentineRepublic]] and [[DiscoursesOnLivy|《论李维》 / Discourses on Livy]] - later republican-history comparison points already present in the wiki.
+The Caesar source sketches the republic as a political order built around anti-king memory, elected offices, terms, speeches, aristocratic honor, popular support, and the Senate. It treats Caesar's dictatorship as the dramatic concentration of a prior institutional crisis rather than the sole cause of collapse. Episode 701 moves the evidence backward: Roman victory over Carthage and Corinth, provincial wealth, Pergamum's bequest, elite luxury, urban resentment, the [[Gracchi]] precedent, [[GaiusMarius]]'s outsider ascent, and the [[Jugurtha|Jugurthine]] command dispute show the republic already struggling before Caesar's generation.
+
+The republic's loss remains morally mixed in the wiki. Its institutions restrained kingship and preserved anti-dictatorship memory, but its late defenders could be elite and exclusionary, while figures such as Marius and Caesar could appeal to ordinary citizens by attacking aristocratic complacency. The current synthesis is therefore institutional rather than nostalgic: republican forms can survive on paper while their social, military, and moral supports erode.
+
+## Key Characteristics
+
+- The republic combined anti-king memory, elected office, aristocratic competition, popular assemblies, and senatorial authority.
+- Mediterranean expansion made Rome dominant while importing wealth, luxury, provincial extraction, and inequality pressure.
+- The tribunate and popular mobilization became dangerous after the Gracchi murders and emergency violence.
+- Outsider ascent through the [[CursusHonorum|cursus honorum]] exposed tension between merit, military proof, and aristocratic lineage.
+- Foreign wars such as the Jugurthine War fed domestic competition over corruption, command, and public credit.
+- Military personalization and civil violence were already present before Caesar crossed the Rubicon.
+
+## Evidence
+
+- Republican form and memory: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] describes anti-king memory, elected offices, aristocratic honor, popular politics, and the Senate as the political world behind [[JuliusCaesar|Caesar]] and [[CaesarAssassination]].
+- Expansion and moral anxiety: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] presents Rome after 146 BC as a superpower whose provinces, Asian wealth, and luxury goods intensified elite moral anxiety and poor citizens' resentment.
+- Emergency violence and popular politics: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] ties Marius's tribunate to the [[Gracchi]] legacy, the killing of reformers, and the execution of followers without trial.
+- Command and corruption pressure: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] treats the Jugurthine War as a field where Roman bribery, noble command, Marius's consulship, and [[LuciusCorneliusSulla|Sulla]]'s credit claim converge.
+- Pre-Caesar breakdown: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] and [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] both place [[GaiusMarius]] and [[LuciusCorneliusSulla]] before Caesar as evidence that the crisis was already advanced.
+
+## Qualifications
+
+The current evidence does not make the Roman Republic a generic template for all republics or democracies. The sources are podcast interpretations of late-republic crisis, and episode 701 is a setup episode that has not yet narrated Marius's reforms, the northern victories, the Social War, or Sulla's march on Rome in detail.
+
+## What Changed
+
+- Added the Marius-era layer before Caesar, including expansion, moral anxiety, the Gracchi legacy, novus homo politics, and the Jugurthine command fight.
+- Clarified that the republic's crisis begins before Caesar's dictatorship and before the best-known Rubicon sequence.
+- Added foreign-war command and credit competition as a concrete bridge from republican empire to domestic crisis.
+
+## Relationships
+
+- [[JuliusCaesar]] - later commander-dictator whose rise concentrates an older republican crisis.
+- [[CaesarAssassination]] - failed attempt to defend or restore republican liberty by killing Caesar.
+- [[RomanEmpire]] - successor order emerging after late-republic civil conflict.
+- [[GaiusMarius]] - outsider commander whose ascent exposes the republic's military and office pressures.
+- [[LuciusCorneliusSulla]] - later dictator whose violence shows republican norms breaking before Caesar.
+- [[LateRomanRepublicCrisis]] - synthesis concept for the republic's structural breakdown.
+- [[RomanExpansionMoralAnxiety]] - expansion-pressure concept newly grounded by episode 701.

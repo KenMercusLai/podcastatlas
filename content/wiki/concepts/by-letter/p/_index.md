@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6106
+wiki_total_pages: 6111
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -767,6 +767,9 @@ wiki_pages:
   - key: "PopularNPDDiscourse"
     title: "Popular NPD Discourse / 大众NPD话语"
     url: "/wiki/concepts/popularnpddiscourse/"
+  - key: "PopularisPolitics"
+    title: "Popularis Politics / 民众派政治"
+    url: "/wiki/concepts/popularispolitics/"
   - key: "PopulationCoding"
     title: "Population Coding"
     url: "/wiki/concepts/populationcoding/"

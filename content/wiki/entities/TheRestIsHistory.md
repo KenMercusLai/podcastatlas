@@ -18,6 +18,7 @@ sources:
   - 684-franklin-revenge-of-the-american-genius-part-2-glt6013835340
   - 683-washington-hero-of-the-revolution-part-1-glt3752138067
   - 682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080
+  - 701-roman-civil-war-rise-of-the-general-part-1-glt1262857909
 last_updated: 2026-08-31
 knowledge_schema: synthesis-v1
 ---
@@ -26,11 +27,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, a Homeric literary-retelling branch, and a Washington-to-Franklin Founding Fathers branch rather than a complete show catalogue.
+The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, a Homeric literary-retelling branch, a Washington-to-Franklin Founding Fathers branch, and now the opening of a Roman Civil War branch rather than a complete show catalogue.
 
 ## Current Profile
 
-The current wiki profile covers six show uses. The Elizabeth I versus Catholics sequence treats court security, dynastic succession, espionage, privateering, the Dutch Revolt, Mary Stuart, and the Armada path as a connected confessional-political field. The Troubles sequence treats Northern Ireland's escalation as a series of institutional, memory, policing, paramilitary, and counterinsurgency decisions rather than as timeless hatred. The South Africa branch treats [[NelsonMandela]]'s embrace of the [[Springboks]], [[RugbyWorldCup1995|1995 Rugby World Cup]], and fused anthem as a case of [[SymbolicReconciliationStatecraft|symbolic reconciliation statecraft]] after [[Apartheid|apartheid]]. The two-part Mayerling branch treats late-Habsburg scandal as a convergence of imperial family formation, Vienna modernity, nationalism, mental distress, clandestine romance, Catholic burial, information suppression, and succession damage around [[CrownPrinceRudolf]] and [[MaryVetsera]]. The Odyssey branch uses the show's narrative method across both halves of [[TheOdyssey]], moving from [[HomericNostos]], monsters, fantasy geography, and crew failure to recognition, hospitality, divine intervention, domestic loyalty, and morally disturbing revenge around [[Odysseus]]' return. The Founding Fathers branch now starts with [[GeorgeWashington]] and [[ValleyForge]] as a military-endurance, public-dignity, and slavery-contradiction case before moving through [[BenjaminFranklin]]'s self-making, science, British loyalty rupture, French diplomacy, constitutional pragmatism, and late abolitionist turn.
+The current wiki profile covers seven show uses. The Elizabeth I versus Catholics sequence treats court security, dynastic succession, espionage, privateering, the Dutch Revolt, Mary Stuart, and the Armada path as a connected confessional-political field. The Troubles sequence treats Northern Ireland's escalation as a series of institutional, memory, policing, paramilitary, and counterinsurgency decisions rather than as timeless hatred. The South Africa branch treats [[NelsonMandela]]'s embrace of the [[Springboks]], [[RugbyWorldCup1995|1995 Rugby World Cup]], and fused anthem as a case of [[SymbolicReconciliationStatecraft|symbolic reconciliation statecraft]] after [[Apartheid|apartheid]]. The two-part Mayerling branch treats late-Habsburg scandal as a convergence of imperial family formation, Vienna modernity, nationalism, mental distress, clandestine romance, Catholic burial, information suppression, and succession damage around [[CrownPrinceRudolf]] and [[MaryVetsera]]. The Odyssey branch uses the show's narrative method across both halves of [[TheOdyssey]], moving from [[HomericNostos]], monsters, fantasy geography, and crew failure to recognition, hospitality, divine intervention, domestic loyalty, and morally disturbing revenge around [[Odysseus]]' return. The Founding Fathers branch starts with [[GeorgeWashington]] and [[ValleyForge]] as a military-endurance, public-dignity, and slavery-contradiction case before moving through [[BenjaminFranklin]]'s self-making, science, British loyalty rupture, French diplomacy, constitutional pragmatism, and late abolitionist turn. The Roman Civil War branch opens with [[GaiusMarius]], using his provincial outsider ascent, [[CursusHonorum|cursus honorum]] path, [[PopularisPolitics|popularis]] positioning, the Jugurthine War, and the early [[LuciusCorneliusSulla|Sulla]] rivalry to backfill the pre-Caesar [[LateRomanRepublicCrisis]].
 
 ## Key Characteristics
 
@@ -39,7 +40,7 @@ The current wiki profile covers six show uses. The Elizabeth I versus Catholics 
 - Its Elizabethan branch connects dynastic vulnerability, Catholic-Protestant conflict, intelligence work, maritime predation, and war escalation.
 - Its Northern Ireland branch connects historical memory, state design, civil rights, policing legitimacy, armed mobilization, and counterinsurgency backlash.
 - Its South Africa branch connects [[Apartheid|apartheid]], rugby, anthem compromise, and Mandela's inclusion of former opponent symbols.
-- Its Mayerling and Homeric branches show private scandal and literary return becoming politically, religiously, or morally consequential.
+- Its Roman Civil War, Mayerling, and Homeric branches show military ascent, private scandal, and literary return becoming politically, religiously, or morally consequential.
 - Across branches, the sources usually resist single-cause inevitability while still showing how institutions make private acts politically consequential.
 
 ## Evidence
@@ -49,6 +50,7 @@ The current wiki profile covers six show uses. The Elizabeth I versus Catholics 
 - Elizabethan security-state branch: [[691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561]], [[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]], [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]], and [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] follow [[ElizabethI|Elizabeth I]], [[MaryQueenOfScots|Mary, Queen of Scots]], [[WilliamCecil|William Cecil / Lord Burleigh]], [[FrancisWalsingham]], priest missions, plots, trial, and execution.
 - Elizabethan maritime and Dutch-war branch: [[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] and [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] connect [[FrancisDrake]], [[JohnHawkins]], the [[GoldenHind]], the [[DutchRevolt]], [[Antwerp]], [[TreatyOfNonsuch]], and [[PhilipSidney|Sir Philip Sidney]] to the same war path.
 - Northern Ireland escalation branch: [[697-the-troubles-murder-in-belfast-part-1-glt4877520736]], [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]], and [[699-the-troubles-return-of-the-ira-part-3-glt9519811642]] move from partition and institutional discrimination through civil-rights confrontation, loyalist violence, British Army deployment, the [[ProvisionalIRA]], [[FallsCurfew]], and [[OperationDemetrius]].
+- Roman Civil War branch: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] opens the sequence through [[GaiusMarius]], [[Jugurtha]], [[QuintusCaeciliusMetellusNumidicus]], [[LuciusCorneliusSulla]], the [[Gracchi]], [[RomanExpansionMoralAnxiety]], [[NovusHomoOutsiderPolitics]], and [[MilitaryPersonalization]] before Caesar's generation.
 - Mayerling branch: [[689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702]] and [[690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068]] follow [[CrownPrinceRudolf]], [[MaryVetsera]], [[FranzJosephI]], [[EmpressSisi]], [[CountessLarish]], and the [[MayerlingIncident]] from imperial family and Vienna prehistory through affair, death, burial, suppression, and succession aftermath.
 - Homeric retelling branch: [[687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423]] follows [[TheOdyssey]] from the [[TrojanHorse]] through [[Polyphemus]], [[Circe]], [[Tiresias]], [[ScyllaAndCharybdis]], [[Helios]]' cattle, and [[Calypso]], while [[688-the-odyssey-return-of-the-king-part-2-glt2882541084]] follows Calypso, the [[Phaeacians]], [[Ithaca]], [[Athena]]'s disguises, [[Telemachus]]' maturation, [[Penelope]]'s bed test, and the killing of the [[SuitorsOfPenelope]].
 
@@ -59,8 +61,8 @@ This page summarizes only the episodes currently ingested into the wiki. The sho
 ## What Changed
 
 - Added the South Africa branch through Mandela, rugby, apartheid memory, and anthem compromise.
+- Added the Roman Civil War branch through Marius, the Jugurthine War, and pre-Caesar republican crisis.
 - Expanded the Founding Fathers branch backward from Franklin into Washington, Valley Forge, and military endurance.
-- Added Valley Forge as a concrete military-survival and patriotic-memory branch.
 - Expanded the Mayerling/Habsburg branch from one aftermath episode to a two-part sequence with prehistory and aftermath.
 - Added the two-part Odyssey literary-retelling branch alongside the historical sequences.
 
@@ -75,6 +77,10 @@ This page summarizes only the episodes currently ingested into the wiki. The sho
 - [[AmericanRevolution]] - conflict interpreted through Washington's endurance command and Franklin's diplomacy.
 - [[DiplomaticPersonaAsStrategicAsset]] - diplomatic mechanism emphasized by the Franklin branch.
 - [[FoundingLibertySlaverySelfCorrection]] - moral-change concept grounded by the Franklin branch.
+- [[GaiusMarius]] - opening figure for the Roman Civil War branch and the pre-Caesar crisis.
+- [[RomanRepublic]] - polity whose late crisis the Marius episode backfills through expansion, violence, and command politics.
+- [[LateRomanRepublicCrisis]] - structural Roman crisis deepened by the Marius episode.
+- [[MilitaryPersonalization]] - comparative command-loyalty mechanism sharpened by the Marius-Sulla prehistory.
 - [[SouthAfrica]] - national setting for the Mandela and 1995 Rugby World Cup branch.
 - [[NelsonMandela]] - leader whose symbolic reconciliation strategy anchors the South Africa episode.
 - [[Apartheid]] - system whose symbolic afterlife makes rugby and anthem compromise politically charged.

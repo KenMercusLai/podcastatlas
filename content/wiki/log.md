@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-31] ingest | 701. Roman Civil War: Rise of the General (Part 1)
+
+Ingested the 2026-08-30 The Rest Is History episode on Gaius Marius's provincial origins, Numantia reputation, novus homo office ascent, post-Gracchan tribunate, Metellan patronage, the Jugurthine War, Sulla's surrender-credit claim, Roman expansion moral anxiety, and the northern Teutones/Cimbri threat. Created the source note plus `Jugurtha`, `QuintusCaeciliusMetellusNumidicus`, `ScipioAemilianus`, `TeutonesAndCimbri`, `Gracchi`, `RomanExpansionMoralAnxiety`, `RepublicanEmergencyViolencePrecedent`, `NovusHomoOutsiderPolitics`, `CursusHonorum`, and `PopularisPolitics`; updated `GaiusMarius`, `LuciusCorneliusSulla`, `RomanRepublic`, `LateRomanRepublicCrisis`, `MilitaryPersonalization`, `TheRestIsHistory`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Plutarch's omen story, exact northern ethnography, Marius's later reforms, Social War role, and Sulla's later march on Rome remain source-scoped or reserved for later parts.
+
 ## [2026-08-31] ingest | Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter
 
 Ingested the 2026-06-26 All-In episode on New York DSA primary wins, Mamdani's communication playbook, GLM 5.2 and Chinese open-weight AI, model-release delays and cyber-defense framing, Micron/HBM supply, modular and orbital data-center economics, and AI IPO absorption. Created the source note plus `TravisKalanick` and `ModularAIDataCenters`; updated `DemocraticSocialistsOfAmerica`, `ZohranMamdani`, `GavinBaker`, `GLM52`, `ChineseOpenWeightAIStrategy`, `MicronTechnology`, `HighBandwidthMemory`, `SpaceBasedAIInfrastructure`, `OrbitalDataCenterEconomics`, `AIIPOValuation`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; DSA election interpretation, GLM benchmark details, Micron figures, SpaceX liquidity comments, and Anthropic valuation scenarios remain source-scoped.
@@ -14270,3 +14274,7 @@ Ingested the 2026-06-24 芮淇讲透资治通鉴 episode on Han Mingdi's 57-58 C
 ## [2026-08-31] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 16,463 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes while the current lint scan covered 16,463 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is unset/provider-unqualified and no common provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

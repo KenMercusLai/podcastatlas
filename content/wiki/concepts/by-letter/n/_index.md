@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6106
+wiki_total_pages: 6111
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "NoveltySearch"
     title: "Novelty Search"
     url: "/wiki/concepts/noveltysearch/"
+  - key: "NovusHomoOutsiderPolitics"
+    title: "Novus Homo Outsider Politics / 新人局外人政治"
+    url: "/wiki/concepts/novushomooutsiderpolitics/"
   - key: "NuclearSafetyPropaganda"
     title: "Nuclear Safety Propaganda"
     url: "/wiki/concepts/nuclearsafetypropaganda/"

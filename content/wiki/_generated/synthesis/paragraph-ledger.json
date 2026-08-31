@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "833c2c740e742ba106ef9b64e4f17428fbdd380980f1e7dd49bdbbfbddd48425",
       "5fac9c90d9086301afdb70bdae4dd076f54a6c5ee81f98bd5dc2fbaa714c363e",
       "841684bf4eae908daccc2a6e679b9d575732db0c38a70b9d0ff2fd3c721edcf7",
       "014f4592e0aed54117e20c9725eb4fd6136cc5dfb66a786b35b13035e868ab46",
@@ -440,11 +441,42 @@
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0"
     ],
-    "paragraph_count": 438
+    "paragraph_count": 439
   },
-  "overview_commit": "30e1289129d4008bb33e180f4d1d3b1b94a1e2b8",
-  "overview_digest": "a7c3b18fea412a33a5d4aba3a28dc644022cdfc7a1ddbc943d2078b01d88e5c6",
+  "overview_commit": "a8dc36e5901ad1e565f287284a1e50d35d908e37",
+  "overview_digest": "13c1e16e6d989f7f70c33fe1e7e961c8cac66e9aaa7c8b32c682a6ab73268032",
   "paragraphs": [
+    {
+      "id": "833c2c740e742ba106ef9b64e4f17428fbdd380980f1e7dd49bdbbfbddd48425",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909|701. Roman Civil War: Rise of the General (Part 1)]], a [[TheRestIsHistory]] episode opening a Roman Civil War branch through [[GaiusMarius]], [[LuciusCorneliusSulla]], [[Jugurtha]], [[QuintusCaeciliusMetellusNumidicus]], [[ScipioAemilianus]], [[TeutonesAndCimbri]], and the [[Gracchi]]. It adds [[RomanExpansionMoralAnxiety]], [[RepublicanEmergencyViolencePrecedent]], [[NovusHomoOutsiderPolitics]], [[CursusHonorum]], and [[PopularisPolitics]], while extending [[RomanRepublic]], [[LateRomanRepublicCrisis]], [[MilitaryPersonalization]], and [[TheRestIsHistory]]. Its core synthesis is that the Marius-Sulla prehistory makes the republic's crisis visible before Caesar: expansion produces wealth and resentment, the Gracchi weaken confidence in republican protections, outsider military merit challenges aristocratic office control, and the Jugurthine War turns foreign command into domestic rivalry. No settled contradiction is recorded; Plutarch's omen story, exact northern ethnography, Marius's later reforms, the Social War, and Sulla's march on Rome remain source-scoped or reserved for later parts.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+        "CursusHonorum",
+        "GaiusMarius",
+        "Gracchi",
+        "Jugurtha",
+        "LateRomanRepublicCrisis",
+        "LuciusCorneliusSulla",
+        "MilitaryPersonalization",
+        "NovusHomoOutsiderPolitics",
+        "PopularisPolitics",
+        "QuintusCaeciliusMetellusNumidicus",
+        "RepublicanEmergencyViolencePrecedent",
+        "RomanExpansionMoralAnxiety",
+        "RomanRepublic",
+        "ScipioAemilianus",
+        "TeutonesAndCimbri",
+        "TheRestIsHistory"
+      ]
+    },
     {
       "id": "5fac9c90d9086301afdb70bdae4dd076f54a6c5ee81f98bd5dc2fbaa714c363e",
       "primary_topic": "history-and-geopolitics",

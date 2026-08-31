@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-31
-as_of_overview_commit: efae61992e1ba84a5631ccdea4f1895ed0361260
-input_digest: 88bab59752f00f843aa07bfe6f6fd6dc97abe24fef86f9e20a3b7bab42fc22d3
+as_of_overview_commit: a8dc36e5901ad1e565f287284a1e50d35d908e37
+input_digest: 0715d5ff741c68ca532c3326cd355a4ac0bf38c0696b17d47273246c7308be11
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-South Africa/Mandela adds a twentieth-century reconciliation-symbol branch: the 1995 Rugby World Cup and multilingual anthem show statecraft working through contested sport, music, and ceremony while bounded to one episode's narrative. Hanji 733-2 now moves the Eastern Han historical branch back to Liu Xiu's founding layer before Hanji 733-3 and Yongping: Geng Yan converts Geng-family Youzhou military resources into cavalry support, manages suspicion during Peng Chong's rebellion, wins through feint-and-lure campaign tactics, and later returns high command after merit is complete. Hanji 736 now moves the Eastern Han historical branch back to 61-63 CE / Yongping 4-6, combining Liu Cang's royal-kin withdrawal, Zheng Zhong's pre-frontier client-network refusal, Khotan king Guangde's Shache conquest under Northern Xiongnu counterpressure, Dou-family forged-authority scandal, and Mingdi's anti-flattery omen handling. Hanji 737 now moves the Eastern Han historical branch back to 64-65 CE before Hanji 738: Yin Lihua posthumous-title ritual, Northern Xiongnu raids and trade, Zheng Zhong original kowtow refusal, Southern Xiongnu collusion risk and Duliaoying creation, Zong Jun local governance, Liu Ying tolerated Buddhist/Huang-Lao devotion, White Horse Temple transmission memory, and Mingdi eclipse self-criticism. Existing Hanji 738-741 claims remain the next sequence of return-mission debate, official evaluation, Liu Ying case escalation, Xiongnu resource pressure, and 73 CE campaign. Hanji 733-3 sits outside the chronological Eastern Han sequence and adds a classical-text reception branch: HanyaoFu, attributed to Lyu Mengzheng, frames fate, timing, and reversal with cautious normalization rather than new dynastic event history.
+Roman Civil War Part 1 adds a Roman-Republic crisis branch: Marius outsider military ascent, Jugurtha bribe politics, the Teutones and Cimbri emergency, Gracchan assassination precedent, and Sulla rival credit over Jugurtha show expansion, office competition, and military personalization destabilizing republican norms before Caesar. South Africa/Mandela adds a twentieth-century reconciliation-symbol branch: the 1995 Rugby World Cup and multilingual anthem show statecraft working through contested sport, music, and ceremony while bounded to one episode's narrative. Hanji 733-2 now moves the Eastern Han historical branch back to Liu Xiu's founding layer before Hanji 733-3 and Yongping: Geng Yan converts Geng-family Youzhou military resources into cavalry support, manages suspicion during Peng Chong's rebellion, wins through feint-and-lure campaign tactics, and later returns high command after merit is complete. Hanji 736 now moves the Eastern Han historical branch back to 61-63 CE / Yongping 4-6, combining Liu Cang's royal-kin withdrawal, Zheng Zhong's pre-frontier client-network refusal, Khotan king Guangde's Shache conquest under Northern Xiongnu counterpressure, Dou-family forged-authority scandal, and Mingdi's anti-flattery omen handling. Hanji 737 now moves the Eastern Han historical branch back to 64-65 CE before Hanji 738: Yin Lihua posthumous-title ritual, Northern Xiongnu raids and trade, Zheng Zhong original kowtow refusal, Southern Xiongnu collusion risk and Duliaoying creation, Zong Jun local governance, Liu Ying tolerated Buddhist/Huang-Lao devotion, White Horse Temple transmission memory, and Mingdi eclipse self-criticism. Existing Hanji 738-741 claims remain the next sequence of return-mission debate, official evaluation, Liu Ying case escalation, Xiongnu resource pressure, and 73 CE campaign. Hanji 733-3 sits outside the chronological Eastern Han sequence and adds a classical-text reception branch: HanyaoFu, attributed to Lyu Mengzheng, frames fate, timing, and reversal with cautious normalization rather than new dynastic event history.
 
 ## Cross-source Findings
+
+### Roman Civil War Marius Sulla Crisis Prehistory
+
+[[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909|Roman Civil War Part 1]] opens a late-Republic branch in which [[GaiusMarius]] turns [[NovusHomoOutsiderPolitics]] and northern emergency command into a challenge to aristocratic office control, while [[Jugurtha]], [[QuintusCaeciliusMetellusNumidicus]], and [[LuciusCorneliusSulla]] make the Jugurthine War a rivalry over military credit. The episode links [[RomanExpansionMoralAnxiety]], [[RepublicanEmergencyViolencePrecedent]], [[CursusHonorum]], [[PopularisPolitics]], and [[MilitaryPersonalization]] to [[LateRomanRepublicCrisis]] by showing the pre-Caesar crisis forming through expansion wealth, moral anxiety, Gracchan violence, command politics, and Sulla victory symbolism.
+
+**Evidence:** [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]], [[TheRestIsHistory]], [[GaiusMarius]], [[LuciusCorneliusSulla]], [[Jugurtha]], [[QuintusCaeciliusMetellusNumidicus]], [[ScipioAemilianus]], [[TeutonesAndCimbri]], [[Gracchi]], [[RomanRepublic]], [[LateRomanRepublicCrisis]], [[MilitaryPersonalization]], [[RomanExpansionMoralAnxiety]], [[RepublicanEmergencyViolencePrecedent]], [[NovusHomoOutsiderPolitics]], [[CursusHonorum]], [[PopularisPolitics]]
+
+**Qualifications:**
+
+- This claim is source-scoped to the first The Rest Is History Roman Civil War episode and should not be read as the full Marius-Sulla sequence.
+- Plutarchs omen story, exact northern ethnography, Marius later military reforms, the Social War, and Sulla march on Rome remain reserved for later sources.
+- The episode adds no settled contradiction with existing Roman Republic or Caesar-crisis pages; it shifts the crisis prehistory earlier than Caesar.
 
 ### South Africa Mandela Sport And Anthem Reconciliation
 

@@ -8179,6 +8179,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/cultureledlabororganizing/"
     },
+    "CursusHonorum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1262857909 [GLT1262857909].md",
+          "key": "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+          "show": "The Rest Is History",
+          "title": "701. Roman Civil War: Rise of the General (Part 1)",
+          "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/cursushonorum/"
+    },
     "DaQin": {
       "episode_count": 1,
       "show_count": 1,
@@ -15339,6 +15355,29 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/glm52/"
     },
+    "GaiusMarius": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "GLT1262857909 [GLT1262857909].md",
+          "key": "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+          "show": "The Rest Is History",
+          "title": "701. Roman Civil War: Rise of the General (Part 1)",
+          "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/gaiusmarius/"
+    },
     "GanYingEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -16294,6 +16333,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/goodfriendsfilm/"
+    },
+    "Gracchi": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "GLT1262857909 [GLT1262857909].md",
+          "key": "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+          "show": "The Rest Is History",
+          "title": "701. Roman Civil War: Rise of the General (Part 1)",
+          "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/gracchi/"
     },
     "Grokbot": {
       "episode_count": 2,
@@ -21359,6 +21421,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/juyuanlatehan/"
     },
+    "Jugurtha": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1262857909 [GLT1262857909].md",
+          "key": "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+          "show": "The Rest Is History",
+          "title": "701. Roman Civil War: Rise of the General (Part 1)",
+          "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/jugurtha/"
+    },
     "JuliusKurfgen": {
       "episode_count": 1,
       "show_count": 1,
@@ -22172,6 +22250,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/lastmilerobotdelivery/"
+    },
+    "LateRomanRepublicCrisis": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "GLT1262857909 [GLT1262857909].md",
+          "key": "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+          "show": "The Rest Is History",
+          "title": "701. Roman Civil War: Rise of the General (Part 1)",
+          "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/lateromanrepubliccrisis/"
     },
     "LatentMoE": {
       "episode_count": 1,
@@ -25390,6 +25491,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/luzhilatehan/"
     },
+    "LuciusCorneliusSulla": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "GLT1262857909 [GLT1262857909].md",
+          "key": "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+          "show": "The Rest Is History",
+          "title": "701. Roman Civil War: Rise of the General (Part 1)",
+          "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/luciuscorneliussulla/"
+    },
     "LuigiLucheni": {
       "episode_count": 1,
       "show_count": 1,
@@ -27628,6 +27752,50 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/militaryfinancecorruption/"
     },
+    "MilitaryPersonalization": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》134｜你不知道的“破釜沉舟”版本 [ltnry1fva2HZPLW4ft8NRFpOIoLW].md",
+          "key": "zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》134｜你不知道的“破釜沉舟”版本",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》117-2｜学着点！秦朝武将竟然如此高情商？ [lsYw3EItcNZfEXL1L6vfh2Gbtaoy].md",
+          "key": "zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》117-2｜学着点！秦朝武将竟然如此高情商？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy/"
+        },
+        {
+          "episode_file": "169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上） [957052909].md",
+          "key": "169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909",
+          "show": "蜜獾吃书",
+          "title": "169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上）",
+          "url": "/wiki/sources/169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909/"
+        },
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "GLT1262857909 [GLT1262857909].md",
+          "key": "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+          "show": "The Rest Is History",
+          "title": "701. Roman Civil War: Rise of the General (Part 1)",
+          "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/militarypersonalization/"
+    },
     "MilitaryRewardEunuchGatekeeping": {
       "episode_count": 2,
       "show_count": 1,
@@ -29213,6 +29381,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/northernxiongnulatehan/"
+    },
+    "NovusHomoOutsiderPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1262857909 [GLT1262857909].md",
+          "key": "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+          "show": "The Rest Is History",
+          "title": "701. Roman Civil War: Rise of the General (Part 1)",
+          "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/novushomooutsiderpolitics/"
     },
     "NutritionLabelSugarTraps": {
       "episode_count": 1,
@@ -31327,6 +31511,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/popeyes/"
     },
+    "PopularisPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1262857909 [GLT1262857909].md",
+          "key": "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+          "show": "The Rest Is History",
+          "title": "701. Roman Civil War: Rise of the General (Part 1)",
+          "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/popularispolitics/"
+    },
     "PopulistDemocraticEnergy": {
       "episode_count": 6,
       "show_count": 3,
@@ -32814,6 +33014,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/quietaiadoptiondeparture/"
     },
+    "QuintusCaeciliusMetellusNumidicus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1262857909 [GLT1262857909].md",
+          "key": "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+          "show": "The Rest Is History",
+          "title": "701. Roman Civil War: Rise of the General (Part 1)",
+          "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/quintuscaeciliusmetellusnumidicus/"
+    },
     "RP1Robot": {
       "episode_count": 1,
       "show_count": 1,
@@ -33527,6 +33743,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/reproductiveattritionstrategy/"
     },
+    "RepublicanEmergencyViolencePrecedent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1262857909 [GLT1262857909].md",
+          "key": "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+          "show": "The Rest Is History",
+          "title": "701. Roman Civil War: Rise of the General (Part 1)",
+          "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/republicanemergencyviolenceprecedent/"
+    },
     "RepublicanRestraintLeadership": {
       "episode_count": 1,
       "show_count": 1,
@@ -34165,6 +34397,45 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/romanempire/"
+    },
+    "RomanExpansionMoralAnxiety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1262857909 [GLT1262857909].md",
+          "key": "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+          "show": "The Rest Is History",
+          "title": "701. Roman Civil War: Rise of the General (Part 1)",
+          "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/romanexpansionmoralanxiety/"
+    },
+    "RomanRepublic": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "GLT1262857909 [GLT1262857909].md",
+          "key": "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+          "show": "The Rest Is History",
+          "title": "701. Roman Civil War: Rise of the General (Part 1)",
+          "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/romanrepublic/"
     },
     "RomanceOfTheThreeKingdoms": {
       "episode_count": 4,
@@ -34877,6 +35148,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/scientificprecariat/"
+    },
+    "ScipioAemilianus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1262857909 [GLT1262857909].md",
+          "key": "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+          "show": "The Rest Is History",
+          "title": "701. Roman Civil War: Rise of the General (Part 1)",
+          "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/scipioaemilianus/"
     },
     "ScottBessent": {
       "episode_count": 4,
@@ -38839,6 +39126,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/tengyanlatehan/"
     },
+    "TeutonesAndCimbri": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1262857909 [GLT1262857909].md",
+          "key": "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+          "show": "The Rest Is History",
+          "title": "701. Roman Civil War: Rise of the General (Part 1)",
+          "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/teutonesandcimbri/"
+    },
     "TexasChicken": {
       "episode_count": 1,
       "show_count": 1,
@@ -38937,9 +39240,9 @@
       "url": "/wiki/entities/theodyssey/"
     },
     "TheRestIsHistory": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -39045,6 +39348,13 @@
           "show": "The Rest Is History",
           "title": "682. South Africa: Mandela and the Death of Apartheid (Part 6)",
           "url": "/wiki/sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080/"
+        },
+        {
+          "episode_file": "GLT1262857909 [GLT1262857909].md",
+          "key": "701-roman-civil-war-rise-of-the-general-part-1-glt1262857909",
+          "show": "The Rest Is History",
+          "title": "701. Roman Civil War: Rise of the General (Part 1)",
+          "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
         }
       ],
       "updated": "2026-08-31",
