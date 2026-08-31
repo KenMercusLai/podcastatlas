@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 8682
+wiki_total_pages: 8685
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -725,6 +725,9 @@ wiki_pages:
   - key: "RenJunLuoyangLateHan"
     title: "任峻 / Ren Jun (Luoyang, late Han)"
     url: "/wiki/entities/renjunluoyanglatehan/"
+  - key: "RenTingEasternHan"
+    title: "任廷 / Ren Ting (Eastern Han)"
+    url: "/wiki/entities/rentingeasternhan/"
   - key: "RenShiQinMerchant"
     title: "任氏 / Ren Family (Qin-Han merchant)"
     url: "/wiki/entities/renshiqinmerchant/"

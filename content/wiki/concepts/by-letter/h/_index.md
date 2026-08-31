@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6181
+wiki_total_pages: 6183
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -677,6 +677,9 @@ wiki_pages:
   - key: "HufuQishe"
     title: "胡服骑射 / Hu Fu Qi She"
     url: "/wiki/concepts/hufuqishe/"
+  - key: "HorsehideBurialResolve"
+    title: "马革裹尸式边将生死观 / Horsehide Burial Resolve"
+    url: "/wiki/concepts/horsehideburialresolve/"
   - key: "HighStatusCautionSelfProtection"
     title: "高位谨慎自保 / High-Status Caution Self-Protection"
     url: "/wiki/concepts/highstatuscautionselfprotection/"

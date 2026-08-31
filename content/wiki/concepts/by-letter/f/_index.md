@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6181
+wiki_total_pages: 6183
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1085,6 +1085,9 @@ wiki_pages:
   - key: "FoundingMeritHierarchy"
     title: "建国功臣排序 / Founding Merit Hierarchy"
     url: "/wiki/concepts/foundingmerithierarchy/"
+  - key: "FlexibleFrontierMilitaryDiscretion"
+    title: "弹性边防军法 / Flexible Frontier Military Discretion"
+    url: "/wiki/concepts/flexiblefrontiermilitarydiscretion/"
   - key: "FormerEnemyLoyaltyReframing"
     title: "旧敌忠义重释 / Former Enemy Loyalty Reframing"
     url: "/wiki/concepts/formerenemyloyaltyreframing/"

@@ -19179,6 +19179,10 @@
     "title": "Flexcoat",
     "url": "/wiki/entities/flexcoat/"
   },
+  "FlexibleFrontierMilitaryDiscretion": {
+    "title": "弹性边防军法 / Flexible Frontier Military Discretion",
+    "url": "/wiki/concepts/flexiblefrontiermilitarydiscretion/"
+  },
   "FlexibleManufacturing": {
     "title": "Flexible Manufacturing / 柔性制造",
     "url": "/wiki/concepts/flexiblemanufacturing/"
@@ -24271,6 +24275,10 @@
     "title": "Horse Religious Mythology",
     "url": "/wiki/concepts/horsereligiousmythology/"
   },
+  "HorsehideBurialResolve": {
+    "title": "马革裹尸式边将生死观 / Horsehide Burial Resolve",
+    "url": "/wiki/concepts/horsehideburialresolve/"
+  },
   "HoshinoResorts": {
     "title": "Hoshino Resorts / 星野集团",
     "url": "/wiki/entities/hoshinoresorts/"
@@ -29250,6 +29258,10 @@
   "KongChuan": {
     "title": "孔川 / Kong Chuan",
     "url": "/wiki/entities/kongchuan/"
+  },
+  "KongFenEasternHan": {
+    "title": "孔奋 / Kong Fen (Eastern Han)",
+    "url": "/wiki/entities/kongfeneasternhan/"
   },
   "KongFu": {
     "title": "孔鲋 / Kong Fu",
@@ -43751,6 +43763,10 @@
     "title": "任氏 / Ren Family (Qin-Han merchant)",
     "url": "/wiki/entities/renshiqinmerchant/"
   },
+  "RenTingEasternHan": {
+    "title": "任廷 / Ren Ting (Eastern Han)",
+    "url": "/wiki/entities/rentingeasternhan/"
+  },
   "RenXiao": {
     "title": "任嚣 / Ren Xiao",
     "url": "/wiki/entities/renxiao/"
@@ -49738,6 +49754,10 @@
   "SuiRiver": {
     "title": "睢水 / Sui River",
     "url": "/wiki/entities/suiriver/"
+  },
+  "SuiYuEasternHan": {
+    "title": "隋昱 / Sui Yu (Eastern Han)",
+    "url": "/wiki/entities/suiyueasternhan/"
   },
   "SuitorsOfPenelope": {
     "title": "Suitors of Penelope",
@@ -64686,6 +64706,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi": {
+    "title": "《资治通鉴·汉纪》714丨是谁第一个喊出“男儿当马革裹尸”？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi/"
   },
   "zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu": {
     "title": "《资治通鉴·汉纪》715丨史上最智慧的一次夺权",

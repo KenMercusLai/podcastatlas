@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2137
+topic_total_pages: 2139
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3376,6 +3376,9 @@ topic_concepts:
   - key: "WeakPositionPacification"
     title: "弱势名分安抚 / Weak-Position Pacification"
     url: "/wiki/concepts/weakpositionpacification/"
+  - key: "FlexibleFrontierMilitaryDiscretion"
+    title: "弹性边防军法 / Flexible Frontier Military Discretion"
+    url: "/wiki/concepts/flexiblefrontiermilitarydiscretion/"
   - key: "XuzhouMutualKingship"
     title: "徐州相王 / Xuzhou Mutual Kingship"
     url: "/wiki/concepts/xuzhoumutualkingship/"
@@ -5444,6 +5447,9 @@ topic_entities:
   - key: "QianlongEmperor"
     title: "乾隆 / Qianlong Emperor"
     url: "/wiki/entities/qianlongemperor/"
+  - key: "RenTingEasternHan"
+    title: "任廷 / Ren Ting (Eastern Han)"
+    url: "/wiki/entities/rentingeasternhan/"
   - key: "Estraven"
     title: "伊斯特拉凡 / Estraven"
     url: "/wiki/entities/estraven/"

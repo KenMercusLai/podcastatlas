@@ -23104,6 +23104,13 @@
       "url": "/topics/science/"
     }
   ],
+  "FlexibleFrontierMilitaryDiscretion": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Flexport": [
     {
       "key": "economics",
@@ -49918,6 +49925,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "RenTingEasternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "RenaissanceTechnologies": [

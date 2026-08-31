@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》714丨是谁第一个喊出“男儿当马革裹尸”？](sources/zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi.md) — Jianwu 12-13 Guangwu episode on Ma Yuan's Wudu/Qiang victory and horsehide-burial idiom, flexible frontier rules, Dou Rong and Hexi official integration, Kong Fen and Ren Ting, Zhi Yun's gate remonstrance, tribute restraint, and Lu Fang/Sui Yu northern pressure.
 - [《资治通鉴·汉纪》715丨史上最智慧的一次夺权](sources/zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu.md) — 37 CE Guangwu episode on royal-title reduction, founding-merit rewards, military authority recovery through honors without office, Deng Yu/Jia Fu/Geng Yan withdrawal, Wu Han's post-Shu reward, and Dou Rong's refused resignation.
 - [《资治通鉴·汉纪》716丨乱世之中，律法有多重要？](sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i.md) — 38-39 CE Guangwu episode on Liang Tong and Du Lin's penal-law debate, Western Regions capacity refusal, Han Xin's remonstrance death, Xiongnu pressure, border relocation, and the degree-field disturbance prelude.
 - [《资治通鉴·汉纪》717丨13个字引发的帝王之怒！](sources/zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v.md) — 39 CE Guangwu episode on degree-field land registration, the Chenliu comparison note, Liu Yang's political reading, Ouyang Xi's punishment, Lu Fang's Gaoliu return, and Zhang Kan's Gaoliu/Yuyang frontier governance.
@@ -1820,17 +1821,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
-- [梁统 / Liang Tong (Eastern Han)](entities/LiangTongEasternHan.md) — Eastern Han legal official whose penal-severity memorial makes postwar law a deterrence and order problem.
+- [孔奋 / Kong Fen (Eastern Han)](entities/KongFenEasternHan.md) — Clean Hexi official whose poverty amid wealthy Guzang officeholders earns Liu Xiu's praise and Wudu reassignment.
+- [任廷 / Ren Ting (Eastern Han)](entities/RenTingEasternHan.md) — Wuwei governor whose blunt "奉公守法" answer defines loyalty as public duty and law rather than surface harmony.
+- [隋昱 / Sui Yu (Eastern Han)](entities/SuiYuEasternHan.md) — Lu Fang subordinate whose defection plan breaks a Xiongnu-backed attack and earns Wuyuan office and marquis title.
+- [梁统 / Liang Tong (Eastern Han)](entities/LiangTongEasternHan.md) — Eastern Han official whose Hexi reassignment precedes the penal-severity memorial that makes postwar law a deterrence and order problem.
 - [杜琳 / Du Lin (Eastern Han)](entities/DuLinEasternHan.md) — Eastern Han official whose objection to rewriting law warns that over-dense penal codes can become unenforceable.
 - [韩歆 / Han Xin (Eastern Han Situ)](entities/HanXinSituEasternHan.md) — Guangwu-era Situ whose blunt famine warning leads to dismissal, imperial rebuke, and forced-suicide pressure.
 - [欧阳歙 / Ouyang Xi (Eastern Han)](entities/OuyangXiEasternHan.md) — Shangshu-lineage Situ punished after Runan degree-field falsification and embezzlement charges.
 - [张堪 / Zhang Kan (Eastern Han)](entities/ZhangKanEasternHan.md) — Frontier official whose Gaoliu victory and Yuyang tenure pair Xiongnu defense with agricultural local governance.
 - [马成 / Ma Cheng (Eastern Han)](entities/MaChengEasternHan.md) — Frontier commander who replaces Du Mao and strengthens border defense with regular beacon stations.
-- [杜茂 / Du Mao (Eastern Han)](entities/DuMaoEasternHan.md) — Removed frontier commander whose former troops are later reused by Zhang Kan at Gaoliu.
+- [杜茂 / Du Mao (Eastern Han)](entities/DuMaoEasternHan.md) — Frontier commander tied first to northern defensive infrastructure against Lu Fang/Xiongnu pressure and later to removal and troop reuse at Gaoliu.
 - [征侧 / Zheng Ce (Jiaozhi)](entities/ZhengCeJiaozhi.md) — Jiaozhi local elite woman whose 40 CE revolt becomes a female kingship claim before Ma Yuan's suppression.
 - [征贰 / Zheng Er (Jiaozhi)](entities/ZhengErJiaozhi.md) — Zheng Ce's sister and co-leader in the Jiaozhi revolt.
 - [苏定 / Su Ding (Jiaozhi governor)](entities/SuDingJiaozhi.md) — Jiaozhi governor whose attempted punishment of Zheng Ce triggers the current revolt branch.
-- [卢芳 / Lu Fang (Eastern Han)](entities/LuFangEasternHan.md) — Xiongnu-linked surrender actor incorporated by Liu Xiu but later fragile enough to defect again.
+- [卢芳 / Lu Fang (Eastern Han)](entities/LuFangEasternHan.md) — Xiongnu-linked claimant whose failed Yunzhong attack and Sui Yu fracture precede later surrender, reward, and renewed defection.
 - [闵堪 / Min Kan (Eastern Han)](entities/MinKanEasternHan.md) — Paired surrender actor appointed Dai Chancellor in Lu Fang's settlement.
 - [Brazilian National Anthem](entities/BrazilianNationalAnthem.md) — Anthem whose tune, lyrics, and performance history carry Brazil's monarchy, republic, slavery-shadowed identity, and protest memory.
 - [Brazilian Flag](entities/BrazilianFlag.md) — National symbol whose colors, stars, Southern Cross reference, and positivist motto connect dynastic inheritance to republican symbolism.
@@ -1847,7 +1851,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diretas Ja](entities/DiretasJa.md) — Brazilian democratic-election movement where anthem performance became mass protest symbolism.
 - [Louis Moreau Gottschalk](entities/LouisMoreauGottschalk.md) — Composer whose Rio visit and anthem-inspired music gave Brazil's anthem an international musical afterlife.
 - [Socrates (Footballer)](entities/SocratesFootballer.md) — Brazilian footballer associated with Diretas Ja, disambiguated from the philosopher Socrates page.
-- [郅恽 / Zhi Yun (Eastern Han)](entities/ZhiYunEasternHan.md) — Eastern Han adviser linking Guo Shengtong's deposition to Liu Qiang's later crown-prince withdrawal.
+- [郅恽 / Zhi Yun (Eastern Han)](entities/ZhiYunEasternHan.md) — Rule-bound officer and adviser whose gate/hunting remonstrance precedes warnings over Guo Shengtong's deposition and Liu Qiang's withdrawal.
 - [刘杨 / Liu Yang, Zhending King (Eastern Han)](entities/LiuYangZhendingKingEasternHan.md) — Hebei ally whose support explains Guo Shengtong's founding-era political marriage to Liu Xiu.
 - [裴遵 / Pei Zun (Eastern Han)](entities/PeiZunEasternHan.md) — Dunhuang official who narrows Shache recognition and reports Western Regions hostage-deterrence requests.
 - [Tilly Norwood](entities/TillyNorwood.md) — AI-generated actor used as the episode's concrete synthetic-performer case.
@@ -1913,7 +1917,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [University of Colorado Denver](entities/UniversityOfColoradoDenver.md) — Source-scoped institutional setting for Sumayya Shravani's data infrastructure and analytics environment work.
 - [Ground Truth Newsletter](entities/GroundTruthNewsletter.md) — Sumayya Shravani's source-mentioned weekly newsletter on AI tool teardowns in real enterprise workflows.
 - [梁松 / Liang Song, Linxiang Marquis](entities/LiangSongLinxiangMarquis.md) — Eastern Han elite whose ignored Ma Yuan warning, etiquette resentment, Du Jiliang association, Ma Yuan accusation, and later anonymous slander case turn high status into political exposure.
-- [窦融 / Dou Rong (Eastern Han)](entities/DouRongEasternHan.md) — Guangwu-era founding-aligned elder whose late household scandal shows honor surviving after descendants' forged-authority abuse.
+- [窦融 / Dou Rong (Eastern Han)](entities/DouRongEasternHan.md) — Hexi power-holder integrated through Luoyang seal submission, returned honor, rejected resignation, and later patriarchal prestige.
 - [窦穆 / Dou Mu (Eastern Han)](entities/DouMuEasternHan.md) — Dou-family descendant who falsely invokes Yin Taihou authority to coerce a royal marriage and is later executed after Dou Rong's death.
 - [钟离意 / Zhongli Yi (Eastern Han)](entities/ZhongliYiEasternHan.md) — Yongping 3 official whose omen-framed remonstrance stops North Palace construction and whose later leniency advice marks a protected but unadopted correction.
 - [刘平 / Liu Ping (Eastern Han official)](entities/LiuPingEasternHan.md) — Quanjiao administrator whose trust signals include voluntary tax reporting, service willingness, and nearly empty prisons.
@@ -1929,7 +1933,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵熙 / Zhao Xi (Eastern Han)](entities/ZhaoXiEasternHan.md) — Late-Guangwu minister whose visible role joins prince-return-to-fief advice with later funeral-order repair at Mingdi's accession.
 - [樊弘 / Fan Hong (Eastern Han)](entities/FanHongEasternHan.md) — Guangwu's uncle and Shouzhang Marquis whose cautious conduct, lawful household, and thin-burial will become an imperial model.
 - [朱勃 / Zhu Bo (Eastern Han)](entities/ZhuBoEasternHan.md) — Former Yunyang magistrate whose memorial defends Ma Yuan after death by asking Liu Xiu to weigh lifetime merit, campaign conditions, and proportional judgment.
-- [马援 / Ma Yuan (Eastern Han)](entities/MaYuanEasternHan.md) — Eastern Han general whose northern-frontier horsehide-burial resolve, warnings to Liang Song and Dou Gu, Wuling deployment, warning letter, posthumous slander, Zhu Bo defense, and later guest-network warnings connect frontier service to court risk.
+- [马援 / Ma Yuan (Eastern Han)](entities/MaYuanEasternHan.md) — Eastern Han general whose Wudu/Qiang victory, horsehide-burial resolve, Jiaozhi and Wuling commands, warning letter, posthumous slander, and guest-network warnings connect frontier service to court risk.
 - [偏和 / Pian He (Xianbei leader)](entities/PianHeXianbei.md) — Xianbei leader whom Ji Tong turns into a reward-backed frontier proxy against Xiongnu and Chishan Wuhuan targets.
 - [龙伯高 / Long Bogao (Eastern Han)](entities/LongBogaoEasternHan.md) — Positive exemplar in Ma Yuan's warning letter, used as a model of learning, careful speech, ritual conduct, and clean local office.
 - [杜季良 / Du Jiliang (Eastern Han)](entities/DuJiliangEasternHan.md) — Youxia-style figure whose role in Ma Yuan's letter becomes politically dangerous after enemies turn private comparison into court accusation.
@@ -1945,7 +1949,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [东海恭王刘强 / Liu Qiang, Donghai King](entities/LiuQiangDonghaiKing.md) — Displaced former-heir figure whose voluntary withdrawal, exceptional Guangwu honor, fief return, loyal report, final memorial, and frugal burial make succession loss compatible with royal containment.
 - [吴良 / Wu Liang (Eastern Han)](entities/WuLiangEasternHan.md) — Liu Cang's recommended subordinate whose yilang appointment turns royal trust into a talent channel.
 - [祭肜 / Ji Tong (Eastern Han)](entities/JiTongEasternHan.md) — Liaodong taishou whose reward-backed Xianbei proxy strategy against Xiongnu and Chishan Wuhuan pressure helps quiet the northeastern frontier.
-- [马武 / Ma Wu (Eastern Han)](entities/MaWuEasternHan.md) — Commander credited with suppressing Mingdi's early Shaodang Qiang revolt after the first Han response fails.
+- [马武 / Ma Wu (Eastern Han)](entities/MaWuEasternHan.md) — Frontier commander stationed against Guangwu-era Xiongnu pressure and later credited with suppressing Mingdi's early Shaodang Qiang revolt.
 - [广陵王刘荆 / Liu Jing, Guangling King (Eastern Han)](entities/LiuJingGuanglingKingEasternHan.md) — Mingdi's royal brother whose case begins with an anonymous letter to Liu Qiang before Shanyang-to-Guangling relocation, rebellion-suggestive speech, curse rituals, suicide, and abolished fief.
 - [樊鯈 / Fan Tiao (Eastern Han)](entities/FanTiaoEasternHan.md) — Eastern Han reviewer who tells Mingdi that royal kinship cannot turn Liu Jing's treason case into private family property.
 - [鲍峻 / Bao Jun (Eastern Han)](entities/BaoJunEasternHan.md) — Ding Hong's friend and recommender who reframes title inheritance as state-assigned public responsibility.
@@ -10506,6 +10510,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [马革裹尸式边将生死观 / Horsehide Burial Resolve](concepts/HorsehideBurialResolve.md) — Ma Yuan-linked frontier ethos treating death in border service and return wrapped in horsehide as a soldier's fitting end.
+- [弹性边防军法 / Flexible Frontier Military Discretion](concepts/FlexibleFrontierMilitaryDiscretion.md) — Guangwu-era frontier rule pattern allowing defense and pursuit to follow troop capacity and enemy conditions rather than mechanical delay-law fear.
 - [Honors Without Office Settlement / 受爵不受官式功臣安置](concepts/HonorsWithoutOfficeSettlement.md) — Guangwu-era pattern of exchanging titles, stipends, ceremony, and limited access for the withdrawal of founding commanders from command and administrative power.
 - [刑法轻重与执行困境 / Penal Severity and Execution Tradeoff](concepts/PenalSeverityExecutionTradeoff.md) — Governance pattern where deterrence, proportionality, law density, and enforceability pull punishment design in opposite directions.
 - [度田问责 / Dutian Accountability (Eastern Han)](concepts/DutianAccountabilityEasternHan.md) — Guangwu-era land-registration accountability pattern exposing protected elite comparison zones and senior local-official falsification.
@@ -10591,7 +10597,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [汴渠水利治理 / Bianqu Hydraulic Governance](concepts/BianquHydraulicGovernance.md) — Public-works state-capacity pattern where Wang Jing's Bianqu project turns chronic river/canal disorder into costly but successful hydraulic order.
 - [刑讯攀引扩大 / Coercive Implication Cascade](concepts/CoerciveImplicationCascade.md) — Failure mode where treason fear, suicide pressure, torture, and loyalty signaling turn one accusation into a widening chain of named accomplices.
 - [原则性职场不站队 / Principled Workplace Nonalignment](concepts/PrincipledWorkplaceNonalignment.md) — Career-survival frame where independent judgment, fair conduct, broad relationships, and principle boundaries matter more than reflexive factional siding.
-- [纳谏转政策式治理 / Receptive Remonstrance Governance](concepts/ReceptiveRemonstranceGovernance.md) — Leadership pattern where advice matters because it is heard, tested, protected, circulated, or converted into concrete legal, personnel, policy, burden-relief, construction, or feedback change.
+- [纳谏转政策式治理 / Receptive Remonstrance Governance](concepts/ReceptiveRemonstranceGovernance.md) — Leadership pattern where advice matters because it is heard, tested, protected, circulated, rewarded, or converted into concrete legal, personnel, policy, burden-relief, construction, or feedback change.
 - [使命驱动的边疆责任 / Mission-Driven Frontier Responsibility](concepts/MissionDrivenFrontierResponsibility.md) — Frontier-duty pattern where formal exit is judged against concrete security collapse among dependent local allies.
 - [抚育胜于生育的母德评价 / Motherhood Beyond Childbirth](concepts/MotherhoodBeyondChildbirth.md) — Maternal-legitimacy pattern where raising, care, education, virtue, household formation, and public recognition can outweigh biological birth in political evaluation.
 - [宫廷女性史学 / Court Women Historiography](concepts/CourtWomenHistoriography.md) — Pattern where elite court women shape dynastic memory through palace records, editing, teaching, continuation, or source transmission.
@@ -10651,7 +10657,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Disorder-Collapse Exploitation / 取乱侮亡](concepts/DisorderCollapseExploitation.md) — Strategy timing pattern for intervening when internal disorder and material collapse make a rival newly attackable.
 - [宫廷需求驱动造纸 / Court-Demand-Driven Papermaking](concepts/CourtDemandDrivenPapermaking.md) — Source-bounded pattern where palace writing and painting material demand, workshop authority, low-cost fibers, imperial praise, and patronage-backed diffusion shape Cai Lun's paper-making contribution.
 - [东汉宫廷女性教育 / Eastern Han Female Court Education](concepts/FemaleCourtEducationEasternHan.md) — Source-scoped pattern where Deng Sui's learning, North Palace women's study, and Ban Zhao's teaching make elite female education part of court governance.
-- [鲜贡劳役负担 / Perishable Tribute Labor Burden](concepts/PerishableTributeLaborBurden.md) — Governance pattern where fresh luxury tribute requires dangerous high-speed relay labor until remonstrance converts delicacy into public-cost restraint.
+- [鲜贡劳役负担 / Perishable Tribute Labor Burden](concepts/PerishableTributeLaborBurden.md) — Governance pattern where fresh luxury tribute or rare-food receiving rules become public-cost questions, with Hanji 776 supplying the strongest relay-labor evidence.
 - [经学考试正统化 / Classical Examination Orthodoxy](concepts/ClassicalExaminationOrthodoxy.md) — Taixue examination repair pattern that constrains classical testing to recognized textual lineages, explicit passages, and approved interpretive points.
 - [Birthright Citizenship Debate](concepts/BirthrightCitizenshipDebate.md) — Constitutional and policy dispute over automatic citizenship for U.S.-born children across legal-resident, temporary-visitor, birth-tourism, and undocumented-family cases.
 - [California Fiscal Fragility](concepts/CaliforniaFiscalFragility.md) — Budget-risk pattern where headline balance depends on debt, volatile high-income revenue, taxpayer mobility, business exits, pensions, and future tax politics.
@@ -10785,7 +10791,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [三不沾式清廉自守 / Three-Refusals Integrity](concepts/ThreeRefusalsIntegrity.md) — Public-office integrity discipline built around refusing wine, sexual entanglement, money, and opportunistic gifts under scarcity as capture channels.
 - [任官责任退出受限 / Office Duty Exit Constraint](concepts/OfficeDutyExitConstraint.md) — Governance pattern where capable officials cannot easily leave or avoid office because crisis demand treats their ability as a public asset.
 - [任官适任性国家能力 / Appointment Quality as State Capacity](concepts/AppointmentQualityAsStateCapacity.md) — Governance pattern where office works only when education repair, judicial procedure, frontier temperament, tenure, inspection, eligibility thresholds, exception handling, placement, retention, and removal standards survive pressure, patronage, and accountability risk.
-- [Light-Touch Frontier Governance / 宽简边疆治理](concepts/LightTouchFrontierGovernance.md) — Western Regions governance pattern where simple rules, tolerance of small faults, and big-picture stability preserve a fragile frontier balance better than performative command pressure.
+- [Light-Touch Frontier Governance / 宽简边疆治理](concepts/LightTouchFrontierGovernance.md) — Frontier governance pattern where delegated routine, simple rules, tolerance of small faults, and big-picture stability preserve fragile order better than performative command pressure.
 - [皇后册立礼法合法性 / Empress Selection Ritual Legitimacy](concepts/EmpressSelectionRitualLegitimacy.md) — Hanji 811 concept for why empress selection is framed as ritual-political legitimacy rather than lottery, whim, or private favor.
 - [仁厚地方治理 / Humane Local Governance](concepts/HumaneLocalGovernance.md) — Local-administration pattern where burden reduction, voluntary cooperation, public reward, dispute mediation, trusted enforcement, restraint, diagnosis, settlement follow-through, open complaint access, and motive-sensitive mercy build order before coercion.
 - [Moral Mentorship as Talent Cultivation / 人师型人才成全](concepts/MoralMentorshipTalentCultivation.md) — Teacher model where ordinary conduct reading, recognition, character testing, corrective trust, encouragement, and self-limitation form people rather than only transmit knowledge.

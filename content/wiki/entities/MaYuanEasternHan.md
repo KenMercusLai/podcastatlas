@@ -11,14 +11,19 @@ sources:
   - zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra
   - zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix
   - zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r
+  - zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi
 last_updated: 2026-09-01
 ---
 
 ## Overview
 
-马援 / Ma Yuan is synthesized as a frontier general, family disciplinarian, court-risk diagnostician, and policy adviser whose danger begins before his posthumous slander. [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] now adds a 40 CE adviser layer: Ma Yuan defends harsh punishment for land-and-grain fraud, recommends [[WuzhuCoinRestoration|五铢钱恢复]], and is previewed as the 43 CE suppressor of [[ZhengCeJiaozhi|征侧]] and [[ZhengErJiaozhi|征贰]]. [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] then gives the command prelude: Ma Yuan helps suppress Li Guang and is appointed Fubo General for the Jiaozhi campaign.
+马援 / Ma Yuan is synthesized as a frontier general, commandery governor, family disciplinarian, court-risk diagnostician, and policy adviser whose danger begins before his posthumous slander. [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] now adds the earliest current layer: Ma Yuan defeats Qiang forces in Wudu, governs through delegated routine and selective intervention, refuses panic mobilization after a false Qiang alarm, and becomes the idiom anchor for [[HorsehideBurialResolve|马革裹尸式边将生死观]]. [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] adds the later 40 CE adviser layer, while [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] gives the Jiaozhi command prelude.
 
 ## Current Profile
+
+Hanji 714 supplies Ma Yuan's earliest current layer in Jianwu 12 / 36 CE. As Longxi governor, he defeats Canlang Qiang and allied Qiang forces after they attack Wudu, and the episode says more than ten thousand people surrender before Longyou returns to peace. The same source frames his local rule as "恩威并施": routine affairs are trusted to clerks, while the governor intervenes when powerful families bully people or officials break law.
+
+The same episode makes judgment central to Ma Yuan's frontier profile. When a private dispute is misreported as another Qiang revolt and the Didao county magistrate asks to close gates and mobilize troops, Ma Yuan judges that the Qiang will not return and tells the magistrate to stand down. Hanji 714 also foregrounds the "马革裹尸" idiom as Ma Yuan's border-general ethos, while Hanji 722 later supplies the fuller direct speech layer.
 
 Hanji 718 gives Ma Yuan's earliest current late-Guangwu adviser layer. After [[LiuXiu|刘秀]] regrets executing Zhang Ji and more than ten administrators for land-measurement and grain fraud, Ma Yuan says they deserved death because they damaged the people. The same source has Ma Yuan recommend restoring five-zhu coins because they are convenient for ordinary use, and it previews his later 43 CE Jiaozhi campaign against Zheng Ce and Zheng Er.
 
@@ -42,8 +47,8 @@ Hanji 728 adds a separate remembered function. Ma Yuan warns that [[WangPanEaste
 
 ## Key Characteristics
 
-- Frontier general and policy adviser whose current sequence begins with 40 CE fiscal-punishment counsel, five-zhu coin restoration, and Jiaozhi suppression preview.
-- Late-life commander associated with renewed northern-campaign resolve, horsehide-burial language, and a ritual sendoff.
+- Frontier general and commandery governor whose current sequence begins with 36 CE Wudu/Qiang victory, delegated administration, and panic-resistant local judgment.
+- Border-service ethos figure associated with horsehide-burial language in Hanji 714's idiom framing and Hanji 722's later direct speech.
 - Family and elite disciplinarian whose advice teaches speech restraint, careful model selection, and the reversibility of wealth and rank.
 - Writer exposed by private-letter circulation when family advice becomes court accusation.
 - Victim of reputational damage after death, when alleged treasure baggage overwhelms his ability to answer.
@@ -52,6 +57,10 @@ Hanji 728 adds a separate remembered function. Ma Yuan warns that [[WangPanEaste
 
 ## Evidence
 
+- Wudu/Qiang victory: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Ma Yuan defeats Canlang Qiang and other Qiang forces after they attack Wudu and that more than ten thousand surrender.
+- Delegated governance: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Ma Yuan entrusts routine administration to clerks but intervenes against powerful bullying and official lawbreaking.
+- False-alarm judgment: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says he refuses to close gates or mobilize troops after a rumor-driven Qiang scare because he judges the enemy will not return.
+- Idiom framing: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] uses "马革裹尸" to summarize Ma Yuan's frontier-death ethos.
 - 40 CE fiscal-punishment counsel: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Ma Yuan tells Liu Xiu that officials executed for land-and-grain fraud deserved death because they damaged the people.
 - Five-zhu coin restoration: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Ma Yuan recommends restoring five-zhu coins and Liu Xiu adopts the recommendation.
 - Jiaozhi suppression preview: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Ma Yuan later kills Zheng Ce and Zheng Er in 43 CE and sends their bodies to Luoyang.
@@ -72,19 +81,22 @@ Hanji 728 adds a separate remembered function. Ma Yuan warns that [[WangPanEaste
 
 ## Qualifications
 
-This page still does not reconstruct Ma Yuan's complete military biography. Hanji 718 adds adviser, currency, and Jiaozhi outcome notices but compresses the 43 CE military result; the operational campaign remains source-bounded elsewhere. Hanji 719 adds a 41 CE prelude but leaves Li Guang, Duan Zhi, Liu Long, and exact operational geography source-scoped. Hanji 722 adds a northern-frontier and status-warning layer, but the exact garrison location and later tactical outcome remain source-scoped. Hanji 724 adds the Wuling entry point but not the full campaign outcome. Hanji 725 clarifies the resentment and Wuling route prehistory but leaves the exact path by which the letter circulated partly inferred. Hanji 726 explains the posthumous accusation and defense but does not prove every motive behind Liang Song, the Dou-family marriage break, or Liu Xiu's final formal settlement. Hanji 728 supplies remembered warnings after Ma Yuan's death, so its political-risk function should be read as a later narrative use of Ma Yuan, not as the same event sequence as the 49 CE slander case.
+This page still does not reconstruct Ma Yuan's complete military biography. Hanji 714 adds Wudu, Qiang, commandery-governance, and idiom-framing evidence but does not make the full "马革裹尸" speech a 36 CE utterance; the direct speech layer remains Hanji 722. Hanji 718 adds adviser, currency, and Jiaozhi outcome notices but compresses the 43 CE military result; the operational campaign remains source-bounded elsewhere. Hanji 719 adds a 41 CE prelude but leaves Li Guang, Duan Zhi, Liu Long, and exact operational geography source-scoped. Hanji 722 adds a northern-frontier and status-warning layer, but the exact garrison location and later tactical outcome remain source-scoped. Hanji 724 adds the Wuling entry point but not the full campaign outcome. Hanji 725 clarifies the resentment and Wuling route prehistory but leaves the exact path by which the letter circulated partly inferred. Hanji 726 explains the posthumous accusation and defense but does not prove every motive behind Liang Song, the Dou-family marriage break, or Liu Xiu's final formal settlement. Hanji 728 supplies remembered warnings after Ma Yuan's death, so its political-risk function should be read as a later narrative use of Ma Yuan, not as the same event sequence as the 49 CE slander case.
 
 ## What Changed
 
-- Added Hanji 718 as Ma Yuan's 40 CE adviser layer: fiscal-punishment defense, five-zhu coin restoration, and compressed Jiaozhi suppression outcome.
-- Placed Hanji 719 after that as the 41 CE command prelude for Li Guang suppression and Fubo General appointment.
-- Preserved Hanji 722 as the later northern-frontier layer: horsehide-burial resolve, ritual sendoff, and warning to Liang Song and Dou Gu.
-- Preserved Hanji 724-726 as the Wuling campaign-entry, pre-death exposure, posthumous accusation, and vindication sequence.
-- Preserved Hanji 728 as a later remembered political-risk warning role.
+- Added Hanji 714 as Ma Yuan's earliest current layer: Wudu/Qiang victory, delegated commandery governance, false-alarm judgment, and horsehide-burial idiom framing.
+- Preserved Hanji 718 as Ma Yuan's 40 CE adviser layer: fiscal-punishment defense, five-zhu coin restoration, and compressed Jiaozhi suppression outcome.
+- Preserved Hanji 719 as the 41 CE command prelude for Li Guang suppression and Fubo General appointment.
+- Preserved Hanji 722 as the later direct horsehide-burial speech, ritual sendoff, and warning to Liang Song and Dou Gu.
+- Preserved Hanji 724-728 as the Wuling campaign, posthumous accusation, vindication, and later remembered political-risk warning sequence.
 
 ## Relationships
 
 - [[LiuXiu|光武帝刘秀]] - ruler who appoints Ma Yuan for frontier work, first reacts angrily after Ma Yuan's death, and later softens after Zhu Bo's memorial.
+- [[HorsehideBurialResolve|马革裹尸式边将生死观]] - concept anchored by Ma Yuan's frontier-service language and later reception.
+- [[LightTouchFrontierGovernance|宽简边疆治理]] - related governance pattern because Ma Yuan's commandery rule combines trusted delegation with selective intervention.
+- [[FlexibleFrontierMilitaryDiscretion|弹性边防军法]] - court-level frontier discretion that parallels Ma Yuan's refusal to let panic drive military action.
 - [[JiaozhiCommandery|交趾郡]] - southern frontier setting for Ma Yuan's Fubo General appointment and later return.
 - [[ZhengCeJiaozhi|征侧]] - Jiaozhi rebel ruler whom Ma Yuan later kills in the suppression campaign.
 - [[ZhengErJiaozhi|征贰]] - Zheng Ce's sister and co-leader killed in Ma Yuan's suppression campaign.

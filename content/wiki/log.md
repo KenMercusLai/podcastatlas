@@ -14535,3 +14535,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 《资治通鉴·汉纪》714丨是谁第一个喊出“男儿当马革裹尸”？
+
+Ingested the 2026-06-21 芮淇讲透资治通鉴 episode backfilling Jianwu 12-13 / 36-37 CE. Created `KongFenEasternHan`, `RenTingEasternHan`, `SuiYuEasternHan`, `HorsehideBurialResolve`, and `FlexibleFrontierMilitaryDiscretion`; updated Liu Xiu, Ma Yuan, Dou Rong, Liang Tong, Lu Fang, Zhi Yun, Ma Wu, Du Mao, light-touch frontier governance, receptive remonstrance governance, perishable tribute burden, overview, and index. No settled contradiction found; `鲁方` and `志恽` were normalized to the established Lu Fang and Zhi Yun routes, and the fuller horsehide-burial speech remains bounded to the later Ma Yuan evidence.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
