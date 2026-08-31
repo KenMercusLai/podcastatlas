@@ -11,16 +11,19 @@ sources:
   - zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9
   - zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae
   - zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q
-last_updated: 2026-08-30
+  - zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr
+last_updated: 2026-08-31
 ---
 
 ## Overview
 
-烧当羌 / Shaodang Qiang is a recurring Qiang group in the current Eastern Han source notes. The evidence now begins with [[MiTangQiangLeader|Mi Tang]]'s 97 CE attack on Longxi in Hanji 770, continues into his failed surrender, renewed rebellion, defeat, relocation, and remnant collapse in Hanji 772, then moves into Hanji 773's resource explanation of Shaodang strength through West Sea land, fishery, and salt before later An- and Shun-era campaign notices.
+烧当羌 / Shaodang Qiang is a recurring Qiang group in the current Eastern Han source notes. The evidence now begins with [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|Hanji 733-1]]'s 57 CE Dian Liang/Dian Wu crisis under [[EmperorMingOfHan|Mingdi]], then moves to [[MiTangQiangLeader|Mi Tang]]'s 97 CE attack on Longxi in Hanji 770, his failed surrender, renewed rebellion, defeat, relocation, and remnant collapse in Hanji 772, Hanji 773's resource explanation of Shaodang strength through West Sea land, fishery, and salt, and later An- and Shun-era campaign notices.
 
 ## Current Profile
 
-Hanji 770 supplies the earliest current Shaodang pressure layer. Mi Tang leads more than eight thousand people against [[LongxiCommandery|Longxi]], coerces other Qiang groups, gathers a much larger force, and defeats local Han troops before Liu Shang and Zhao Shi counterattack. The Han victory is costly and stops short of capture, so Shaodang pressure remains unresolved.
+Hanji 733-1 now supplies the earliest current Shaodang pressure layer. Dian Liang leads the Shaodang Qiang in revolt, Dian Wu then moves through [[XianlingQiang|Xianling Qiang]] and invades [[LongxiCommandery|Longxi]], and Zhang Hong's first Han response is defeated at Yunwu. Mingdi escalates by sending [[DouGuEasternHan|Dou Gu]] and [[MaWuEasternHan|Ma Wu]] with a large force, and Ma Wu later attacks and suppresses the revolt.
+
+Hanji 770 supplies the later Mi Tang pressure layer. Mi Tang leads more than eight thousand people against Longxi, coerces other Qiang groups, gathers a much larger force, and defeats local Han troops before Liu Shang and Zhao Shi counterattack. The Han victory is costly and stops short of capture, so Shaodang pressure remains unresolved.
 
 Hanji 772 then presents the failed-incorporation sequel. Mi Tang surrenders, resists returning to the old residence, rebels again, is defeated, and leaves a weakened remnant that is relocated and then collapses under later pressure. The episode makes Shaodang instability look like a problem of residence, subsistence, and broken incorporation, not just battlefield defiance.
 
@@ -31,7 +34,7 @@ The later notes show that the group remains a pressure point after Deng Sui's re
 ## Key Characteristics
 
 - Recurrent Qiang group label across early Eastern Han, An-era, and Shun-era frontier notes.
-- Earliest current layer shows direct military pressure under Mi Tang before surrender or resource-policy repair.
+- Earliest current layer shows direct military pressure under Dian Liang and Dian Wu before the later Mi Tang sequence.
 - Failed surrender and residence management under Mi Tang become the main incorporation-failure case.
 - Strongest current explanation is resource-based: fertile land, fishery, and salt around the West Sea strengthen the group.
 - Later evidence is mostly campaign and surrender notices rather than a full internal political history.
@@ -40,6 +43,8 @@ The later notes show that the group remains a pressure point after Deng Sui's re
 
 ## Evidence
 
+- Early Mingdi revolt: [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|Hanji 733-1]] says Dian Liang and Dian Wu lead Shaodang Qiang pressure, invade Longxi through Xianling, defeat Zhang Hong's first response, and trigger Dou Gu/Ma Wu deployment.
+- Suppression after escalation: [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|Hanji 733-1]] says Ma Wu later attacks and pacifies the revolt.
 - Early Longxi attack: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Mi Tang leads Shaodang forces against Longxi, coerces other Qiang groups, and defeats local troops.
 - Costly counterattack: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Liu Shang and Zhao Shi defeat Mi Tang after pursuit, but the Han side stops because losses are heavy and Mi Tang is not captured.
 - Mi Tang crisis sequence: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]] says Mi Tang surrenders, refuses to return to the old residence, rebels again, suffers defeat, and leaves a weakened Shaodang remnant.
@@ -52,17 +57,21 @@ The later notes show that the group remains a pressure point after Deng Sui's re
 
 ## Qualifications
 
-The current sources are separated by decades and come through podcast summaries, so the page treats "Shaodang Qiang" as a recurring group label rather than one continuous command structure. Hanji 770 and Hanji 772 supply the early Mi Tang pressure and failed-incorporation sequence but do not reconstruct the group's full internal politics. Hanji 773's resource explanation remains the strongest synthesis contribution, while later Manu, Na Li, Zhang Gong, and campaign-place details remain source-scoped until additional notes justify separate pages or tighter chronology.
+The current sources are separated by decades and come through podcast summaries, so the page treats "Shaodang Qiang" as a recurring group label rather than one continuous command structure. Hanji 733-1 supplies an early Mingdi-era revolt but does not make Dian Liang or Dian Wu durable standalone profiles. The early Dian Wu in this source is not merged with [[DianWuQiang]], a different late-Han Qiang figure. Hanji 770 and Hanji 772 supply the later Mi Tang pressure and failed-incorporation sequence but do not reconstruct the group's full internal politics. Hanji 773's resource explanation remains the strongest synthesis contribution, while later Manu, Na Li, Zhang Gong, and campaign-place details remain source-scoped until additional notes justify separate pages or tighter chronology.
 
 ## What Changed
 
-- Added Hanji 770 as the earliest current Shaodang layer: Mi Tang's Longxi attack, coerced Qiang coalition, Han counterattack, and failed capture.
-- Reframed Hanji 772's surrender and relocation material as the failed-incorporation sequel to earlier battlefield pressure.
+- Added Hanji 733-1 as the earliest current Shaodang layer: Dian Liang/Dian Wu revolt, Longxi invasion, Zhang Hong's defeat, Dou Gu/Ma Wu deployment, and Ma Wu's suppression.
+- Reframed Hanji 770 as the later Mi Tang pressure layer rather than the first current Shaodang evidence.
+- Reframed Hanji 772's surrender and relocation material as a later failed-incorporation sequel to recurring battlefield pressure.
 - Kept Hanji 773's resource policy as a response to already visible military and incorporation failure rather than only an abstract frontier diagnosis.
 - Preserved later An- and Shun-era campaign notices as separated recurrence evidence, not proof of one continuous command structure.
 
 ## Relationships
 
+- [[EmperorMingOfHan|汉明帝]] - ruler whose first reign layer includes Shaodang Qiang pressure and suppression.
+- [[DouGuEasternHan|窦固]] - commander sent in the escalated Mingdi response.
+- [[MaWuEasternHan|马武]] - commander credited with suppressing the early revolt.
 - [[MiTangQiangLeader|弥唐]] - Shaodang leader whose late Emperor-He military pressure and failed incorporation supply the earliest current narrative layer.
 - [[LongxiCommandery|陇西郡]] - frontier commandery attacked in Hanji 770's earliest Shaodang layer.
 - [[CaoFengLateHan|曹凤]] - official whose memorial gives the earliest current resource-based Shaodang diagnosis.

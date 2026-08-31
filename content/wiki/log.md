@@ -14262,3 +14262,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-31] ingest | 《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄
+
+Ingested the 2026-06-24 芮淇讲透资治通鉴 episode on Han Mingdi's 57-58 CE accession layer: Deng Yu as Taifu, Liu Cang as piaoji general and Wu Liang recommender, Shaodang Qiang frontier pressure, Dou Gu and Ma Wu's response, Yuanling reporting before Guangwu's tablet, Liu Qiang's death and frugal burial, Liu Jing's Shanyang-to-Guangling relocation, Ji Tong's Liaodong frontier result, and rites/music codification. Created the source note plus `DengYuEasternHan`, `LiuQiangDonghaiKing`, `WuLiangEasternHan`, `JiTongEasternHan`, `MaWuEasternHan`, and `DynasticMemoryReportingRitual`; updated Mingdi, Liu Cang, Liu Jing, Dou Gu, Shaodang Qiang, and Ritual Affective Order. No settled contradiction found; early Dian Wu is kept distinct from the later `DianWuQiang`, and Zhang Hong remains source-scoped rather than merged with `ZhangHongLateHan`.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 16,463 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes while the current lint scan covered 16,463 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is unset/provider-unqualified and no common provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.

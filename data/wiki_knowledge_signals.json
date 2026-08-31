@@ -9288,6 +9288,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/dengxuneasternhan/"
     },
+    "DengYuEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
+          "key": "zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/dengyueasternhan/"
+    },
     "DengZhiLateHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -10016,9 +10032,9 @@
       "url": "/wiki/entities/doudueasternhan/"
     },
     "DouGuEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦 [lgWTUqTUg5Bh90qoHwiskccX77hY].md",
@@ -10033,6 +10049,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
+          "key": "zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr/"
         }
       ],
       "updated": "2026-08-31",
@@ -10792,6 +10815,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/dynasticheirroleentrapment/"
+    },
+    "DynasticMemoryReportingRitual": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
+          "key": "zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/dynasticmemoryreportingritual/"
     },
     "DynasticScandalSuppression": {
       "episode_count": 1,
@@ -11721,9 +11760,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorMingOfHan": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -11801,6 +11840,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》734丨桓荣成大儒，因为明帝是个好捧哏？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
+          "key": "zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr/"
         }
       ],
       "updated": "2026-08-31",
@@ -20625,6 +20671,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/jenniferking/"
     },
+    "JiTongEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
+          "key": "zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/jitongeasternhan/"
+    },
     "JiaBiaoLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -23701,9 +23763,9 @@
       "url": "/wiki/entities/liubiao/"
     },
     "LiuCangDongpingKing": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》755丨这个朝代皇上就开始鼓励生娃了！ [lj7bdkxKdTJHPO469yXHSkJyFdCo].md",
@@ -23739,6 +23801,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年",
           "url": "/wiki/sources/zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
+          "key": "zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr/"
         }
       ],
       "updated": "2026-08-31",
@@ -23887,9 +23956,9 @@
       "url": "/wiki/entities/liuguilatehan/"
     },
     "LiuJingGuanglingKingEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
@@ -23897,6 +23966,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
+          "key": "zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr/"
         }
       ],
       "updated": "2026-08-31",
@@ -24115,6 +24191,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/liupingeasternhan/"
+    },
+    "LiuQiangDonghaiKing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
+          "key": "zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/liuqiangdonghaiking/"
     },
     "LiuQingQingheKing": {
       "episode_count": 4,
@@ -26118,6 +26210,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/mateng/"
+    },
+    "MaWuEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
+          "key": "zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/mawueasternhan/"
     },
     "MaXianLateHan": {
       "episode_count": 11,
@@ -33825,9 +33933,9 @@
       "url": "/wiki/concepts/riskbearingreliefgovernance/"
     },
     "RitualAffectiveOrder": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -33842,6 +33950,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦",
           "url": "/wiki/sources/zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
+          "key": "zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr/"
         }
       ],
       "updated": "2026-08-31",
@@ -35269,9 +35384,9 @@
       "url": "/wiki/entities/shanxiayousong/"
     },
     "ShaodangQiang": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？ [lsmM5ngThJ368GuuMM2xbwC3veA5].md",
@@ -35321,9 +35436,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》770丨沉默的真相：皇帝的生母竟是她",
           "url": "/wiki/sources/zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
+          "key": "zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/shaodangqiang/"
     },
     "ShashankJoshi": {
@@ -42137,6 +42259,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/wulaoshizhebing/"
+    },
+    "WuLiangEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
+          "key": "zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/wuliangeasternhan/"
     },
     "WuShuWanMagistrateLateHan": {
       "episode_count": 1,

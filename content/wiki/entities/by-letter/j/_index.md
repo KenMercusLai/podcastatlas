@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 8571
+wiki_total_pages: 8576
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1085,6 +1085,9 @@ wiki_pages:
   - key: "Jieshi"
     title: "碣石 / Jieshi"
     url: "/wiki/entities/jieshi/"
+  - key: "JiTongEasternHan"
+    title: "祭肜 / Ji Tong (Eastern Han)"
+    url: "/wiki/entities/jitongeasternhan/"
   - key: "JixiaAcademy"
     title: "稷下学宫 / Jixia Academy"
     url: "/wiki/entities/jixiaacademy/"

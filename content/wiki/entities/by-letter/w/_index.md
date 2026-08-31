@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8571
+wiki_total_pages: 8576
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -713,6 +713,9 @@ wiki_pages:
   - key: "WuChenChangshaKing"
     title: "吴臣 / Wu Chen (Changsha king)"
     url: "/wiki/entities/wuchenchangshaking/"
+  - key: "WuLiangEasternHan"
+    title: "吴良 / Wu Liang (Eastern Han)"
+    url: "/wiki/entities/wuliangeasternhan/"
   - key: "WuRui"
     title: "吴芮 / Wu Rui"
     url: "/wiki/entities/wurui/"
