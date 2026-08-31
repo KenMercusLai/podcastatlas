@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2623
+topic_total_pages: 2625
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1969,6 +1969,9 @@ topic_concepts:
   - key: "HumanConnectionUnderAI"
     title: "Human Connection Under AI"
     url: "/wiki/concepts/humanconnectionunderai/"
+  - key: "HumanImperfectionCreativeValue"
+    title: "Human Imperfection Creative Value / 人类瑕疵的创作价值"
+    url: "/wiki/concepts/humanimperfectioncreativevalue/"
   - key: "HumanJudgmentUnderAI"
     title: "Human Judgment Under AI"
     url: "/wiki/concepts/humanjudgmentunderai/"
@@ -7314,6 +7317,9 @@ topic_sources:
   - key: "ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz"
     title: "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02"
     url: "/wiki/sources/ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz/"
+  - key: "ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r"
+    title: "EP281 对话吴镇宇：困在创伤里的我们，决定重新找回自己"
+    url: "/wiki/sources/ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r/"
   - key: "ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c"
     title: "EP58 业绩平平，也要认真\"摸鱼\""
     url: "/wiki/sources/ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8633
+wiki_total_pages: 8637
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "WuCommanderyLateHan"
     title: "吴郡 / Wu Commandery (late Han)"
     url: "/wiki/entities/wucommanderylatehan/"
+  - key: "WuZhenyu"
+    title: "吴镇宇 / Wu Zhenyu"
+    url: "/wiki/entities/wuzhenyu/"
   - key: "WuZhicai"
     title: "吾之才 / Wu Zhicai"
     url: "/wiki/entities/wuzhicai/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8633
+wiki_total_pages: 8637
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1238,6 +1238,9 @@ wiki_pages:
   - key: "CanticleForLeibowitz"
     title: "《莱博维茨的赞歌》 / A Canticle for Leibowitz"
     url: "/wiki/entities/canticleforleibowitz/"
+  - key: "ChanDrama"
+    title: "《蝉》 / Chan"
+    url: "/wiki/entities/chandrama/"
   - key: "CursedBunny"
     title: "《诅咒兔》 / Cursed Bunny"
     url: "/wiki/entities/cursedbunny/"

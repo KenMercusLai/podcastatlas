@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "2bc1e83d1cf015e1bb446a799b320774dcaf7fbe58a3b4738f18cdd37aaae718",
       "cb7533d2eeb61dc89d23b9341cd2300e767ad786074dbb847f3a4008b163b152",
       "4183d42d43a1966dec7c5bbfac09d4f2c3e8f656b0f96ec851796a20d5414bb1",
       "6f2decc50f7143e8a05bbc59ab1703f6672738ba27e09393ae0525b668e75826",
@@ -456,11 +457,42 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 454
+    "paragraph_count": 455
   },
-  "overview_commit": "1842c82a93a5f3b1d553cfd3dacb89fbb07917ab",
-  "overview_digest": "e0dd60d9981c7918f8e2ebc10956ecbb85f23cf28a091c56bdaf47fb175b45fc",
+  "overview_commit": "21e9539cf228633d84144a24e1f1d703bb4730d3",
+  "overview_digest": "f0e69611b9670c3ce257394ba573dfbf22e765de8f84e552ba59383d9ea6c741",
   "paragraphs": [
+    {
+      "id": "2bc1e83d1cf015e1bb446a799b320774dcaf7fbe58a3b4738f18cdd37aaae718",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r|EP281 对话吴镇宇：困在创伤里的我们，决定重新找回自己]], a [[TalkSanlian|Talk三联]] episode with [[WuZhenyu|吴镇宇]] and [[YuanYumei|袁玉梅]] on the drama [[ChanDrama|《蝉》]]. It adds [[WuZhenyu]], [[YuanYumei]], [[ChanDrama]], [[ZhongChuxi]], [[EmbodiedActingImprovisation]], [[TemporaryFamilyHealing]], [[HumanImperfectionCreativeValue]], and [[LoveAsContainingFrame]], while extending [[TraumaNarrativeIntegration]], [[CreativityAsFeltProcess]], [[LiveActionFilmUnderAI]], [[LiveHumanFeeling]], [[EmbodiedAging]], [[ForgettingAsCognitiveFunction]], and [[HumanConnectionUnderAI]]. Its core synthesis is that the drama discussion treats creative work and trauma repair as embodied, imperfect, and relational: cicada imagery and visual motifs make hidden injury visible, acting depends on body, language, location, and scene response, AI can assist production without replacing human emotion and taste, and love is framed as a containing relation that can hold fear, grief, anger, aging, and damage without pretending they disappear. No settled contradiction is recorded; Alzheimer and forgetting comments remain reflective source-scoped metaphors rather than clinical claims.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "culture-and-media": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "ChanDrama",
+        "CreativityAsFeltProcess",
+        "EmbodiedActingImprovisation",
+        "EmbodiedAging",
+        "ForgettingAsCognitiveFunction",
+        "HumanConnectionUnderAI",
+        "HumanImperfectionCreativeValue",
+        "LiveActionFilmUnderAI",
+        "LiveHumanFeeling",
+        "LoveAsContainingFrame",
+        "TalkSanlian",
+        "TemporaryFamilyHealing",
+        "TraumaNarrativeIntegration",
+        "WuZhenyu",
+        "YuanYumei",
+        "ZhongChuxi",
+        "ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r"
+      ]
+    },
     {
       "id": "cb7533d2eeb61dc89d23b9341cd2300e767ad786074dbb847f3a4008b163b152",
       "primary_topic": "business-and-markets",

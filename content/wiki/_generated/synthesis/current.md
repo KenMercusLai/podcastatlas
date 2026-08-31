@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-31
-as_of_overview_commit: 1842c82a93a5f3b1d553cfd3dacb89fbb07917ab
-summary: "Durable value now turns on proof in practice: AI workflows, brand demand, institutions, rights boundaries, health evidence, learning design, and human judgment."
-episode_count: 1802
-source_count: 1802
-paragraph_count: 454
+as_of_overview_commit: 21e9539cf228633d84144a24e1f1d703bb4730d3
+summary: "Durable value depends on proof in practice: AI workflows, brand demand, institutions, rights, health evidence, learning design, embodied creativity, and human judgment."
+episode_count: 1803
+source_count: 1803
+paragraph_count: 455
 topic_count: 8
 ---
 
@@ -36,14 +36,14 @@ AI value depends on workflow embedding, verification, permissions, cost, compute
 
 ### Business and Markets
 
-Business value depends on visible demand, trust, distribution, payment proof, operating capacity, metric quality, and risk discipline; the AHA Creator branch adds creator-marketing scale and brand-building proof after traffic arbitrage weakens.
+Business value depends on visible demand, trust, distribution, payment proof, operating capacity, metric quality, and risk discipline; creator-marketing and AI branches still need brand and channel proof.
 
 - [[shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716|商业小样48]] adds that investor-facing operating metrics need traceable denominators, comparable peer sets, historical continuity, and accessible base data: [[FinancialReportOperatingMetricIntegrity]] shows how [[LaoPuGold]]'s shifting third-party rankings through [[FrostSullivan]] can turn a luxury-positioning story into hard-to-verify market confidence theater. Evidence: [[shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716]], [[FinancialReportOperatingMetricIntegrity]], [[LaoPuGold]], [[FrostSullivan]], [[PublicMarketLuxuryGrowthTension]], [[LuxuryScarcityDiscipline]], [[GoldJewelryValuePerceptionRisk]], [[AsymmetricInformation]].
 - [[nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273]] adds an airline-service economics branch: [[AirlineMealIndustrialization]] explains why food quality is constrained by batch catering, cold-chain handling, reheating, and cabin taste loss, while [[AirlineMealMonetization]] and [[AirlineServiceDifferentiation]] show why [[AirChina]], [[ChinaEasternAirlines]], [[ChinaSouthernAirlines]], and [[HainanAirlines]] can still treat meals as repeat-purchase, brand-memory, controllable-cost, and optional-revenue levers. Side updates connect [[LPDDR6]], [[Meituan]], [[MixueBingcheng]], [[Insta360]], and [[AIHardwareSupplyChainPressure]] to current consumer and hardware-market pressure. Evidence: [[nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273]], [[AirlineMealIndustrialization]], [[AirlineMealMonetization]], [[AirlineServiceDifferentiation]], [[AirChina]], [[ChinaEasternAirlines]], [[ChinaSouthernAirlines]], [[HainanAirlines]], [[LPDDR6]], [[Meituan]], [[MixueBingcheng]], [[Insta360]], [[AIHardwareSupplyChainPressure]].
 
 ### Culture and Media
 
-Culture sources use literature, ritual, games, sports, media, platforms, brands, and creative practice to examine politics, identity, evidence, attention, agency, reception, and meaning.
+Culture sources use literature, ritual, games, sports, media, platforms, brands, film, and creative practice to examine politics, identity, evidence, attention, agency, reception, and meaning.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]], [[AntiAuthoritarianEducation]], [[SafetyAsControl]], [[BuddhistLifeAffirmingLiterature]].
 
@@ -77,7 +77,7 @@ Science, health, and climate sources converge on bounded evidence: mechanisms, m
 
 ### Work, Education, and Society
 
-Work, education, and society sources show durable capability emerging from active learning, role boundaries, feedback loops, social trust, workplace judgment, and learning environments that combine mastery, motivation, and applied action.
+Work, education, and society sources now add EP281's embodied creative labor and relational repair to the broader pattern: durable capability emerges from active learning, role boundaries, evidence, feedback loops, social trust, workplace judgment, and learning environments that combine mastery, motivation, and applied action.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

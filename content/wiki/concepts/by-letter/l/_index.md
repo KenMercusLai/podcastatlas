@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6152
+wiki_total_pages: 6156
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "LotteryGamblingPlatformFraud"
     title: "Lottery Gambling Platform Fraud"
     url: "/wiki/concepts/lotterygamblingplatformfraud/"
+  - key: "LoveAsContainingFrame"
+    title: "Love As Containing Frame / 爱作为包裹性框架"
+    url: "/wiki/concepts/loveascontainingframe/"
   - key: "LovePoetryModernity"
     title: "Love Poetry Modernity"
     url: "/wiki/concepts/lovepoetrymodernity/"

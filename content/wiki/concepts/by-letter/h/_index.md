@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6152
+wiki_total_pages: 6156
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "HumanFlourishingProfit"
     title: "Human Flourishing Profit"
     url: "/wiki/concepts/humanflourishingprofit/"
+  - key: "HumanImperfectionCreativeValue"
+    title: "Human Imperfection Creative Value / 人类瑕疵的创作价值"
+    url: "/wiki/concepts/humanimperfectioncreativevalue/"
   - key: "HumanJudgmentUnderAI"
     title: "Human Judgment Under AI"
     url: "/wiki/concepts/humanjudgmentunderai/"

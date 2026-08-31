@@ -14079,6 +14079,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | EP281 对话吴镇宇：困在创伤里的我们，决定重新找回自己
+
+Ingested the 2026-08-31 Talk三联 episode with Wu Zhenyu and Yuan Yumei on 《蝉》, trauma visualization, embodied acting, aging, anger, AI-era creative imperfection, temporary family repair, and love as a containing frame. Created `WuZhenyu`, `YuanYumei`, `ChanDrama`, `ZhongChuxi`, `EmbodiedActingImprovisation`, `TemporaryFamilyHealing`, `HumanImperfectionCreativeValue`, and `LoveAsContainingFrame`; migrated and updated `TraumaNarrativeIntegration`; updated `CreativityAsFeltProcess`, overview, and index. No direct contradiction found; the source's Alzheimer's and forgetting comments remain reflective and source-scoped rather than clinical claims.
+
 ## [2026-08-31] ingest | 146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?
 
 Ingested the 2026-08-31 疯投圈 episode with Kate of AHA Creator on overseas creator marketing, the decline of traffic-buying and SKU-sprawl arbitrage, AI-assisted creator matching and outreach, multilingual content review, anti-fraud, pricing transparency, and the human boundary around strategy, trust, contracts, and campaign review. Created `AHACreator`, `KateAHA`, `AIDrivenCreatorMarketing`, `OverseasCreatorMarketingPlatform`, and `TrafficArbitrageToBrandBuilding`; migrated and updated `FengTouQuan`. No settled contradiction found; AHA Creator's customer counts, creator counts, CPC/ROI examples, anti-fraud rates, and order-fill speed remain founder-reported and source-scoped.
@@ -14455,3 +14459,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 16,597 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not updated.

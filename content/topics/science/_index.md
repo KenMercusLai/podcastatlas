@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 853
+topic_total_pages: 854
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2442,6 +2442,9 @@ topic_sources:
   - key: "ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf"
     title: "EP273 NPC还是NPD，都别想拿走我们人生的遥控器"
     url: "/wiki/sources/ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf/"
+  - key: "ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r"
+    title: "EP281 对话吴镇宇：困在创伤里的我们，决定重新找回自己"
+    url: "/wiki/sources/ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645"
     title: "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
