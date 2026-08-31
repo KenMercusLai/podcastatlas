@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 8640
+wiki_total_pages: 8651
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -731,6 +731,9 @@ wiki_pages:
   - key: "Puma"
     title: "Puma"
     url: "/wiki/entities/puma/"
+  - key: "PunkyDuck"
+    title: "Punky Duck"
+    url: "/wiki/entities/punkyduck/"
   - key: "Putian"
     title: "Putian / 莆田"
     url: "/wiki/entities/putian/"

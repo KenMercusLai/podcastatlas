@@ -14471,3 +14471,11 @@ Ran health, identity validation, and lint. Health scanned 16,597 wiki pages with
 ## [2026-09-01] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 16,606 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is unset and the default model is unqualified (`claude-3-5-sonnet-latest`). Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-09-01] ingest | Stars in their AIs: tech is changing Hollywood
+
+Ingested the 2026-08-31 The Intelligence episode on Hollywood AI production, synthetic performers, AI-assisted effects and stunts, quiet studio adoption, Big Tech entertainment pressure, Obamacare subsidy expiry, exchange death-spiral risk, and French line dancing. Created `TillyNorwood`, `EileenVanDerVelden`, `TedSarandos`, `JohnIrwin`, `YoungWashington`, `CainParsons`, `PunkyDuck`, `AmazonMGMStudios`, `A24`, `Interpositive`, `DisneylandParis`, `GenerativeAIHollywoodProduction`, `SyntheticPerformers`, `ObamacareSubsidyCliff`, `HealthInsuranceDeathSpiral`, and `FrenchLineDancingCulture`; updated overview and index. No settled contradiction found; Hollywood usage, ACA market figures, and French participation claims remain source-dated and source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

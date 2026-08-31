@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2129
+topic_total_pages: 2131
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1285,6 +1285,9 @@ topic_concepts:
   - key: "HateSpeechCriminalizationTradeoff"
     title: "Hate-Speech Criminalization Tradeoff"
     url: "/wiki/concepts/hatespeechcriminalizationtradeoff/"
+  - key: "HealthInsuranceDeathSpiral"
+    title: "Health Insurance Death Spiral"
+    url: "/wiki/concepts/healthinsurancedeathspiral/"
   - key: "HealthcareImpossibleTriangle"
     title: "Healthcare Impossible Triangle / 医疗不可能三角"
     url: "/wiki/concepts/healthcareimpossibletriangle/"
@@ -1882,6 +1885,9 @@ topic_concepts:
   - key: "OathBoundCommandTrust"
     title: "Oath-Bound Command Trust / 盟誓约束下的统帅信任"
     url: "/wiki/concepts/oathboundcommandtrust/"
+  - key: "ObamacareSubsidyCliff"
+    title: "Obamacare Subsidy Cliff"
+    url: "/wiki/concepts/obamacaresubsidycliff/"
   - key: "OfficeFitOverRoteCleverness"
     title: "Office Fit Over Rote Cleverness / 任职才具重于应对小慧"
     url: "/wiki/concepts/officefitoverrotecleverness/"

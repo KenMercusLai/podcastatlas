@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-01
-as_of_overview_commit: 9ad6c6944ae9345daf9f37d0d10b89d09d1b0c11
-summary: "Durable value depends on proof in practice: AI workflows, valuation narrative, market demand, institutions, rights, health evidence, learning, creativity, and human judgment."
-episode_count: 1804
-source_count: 1804
-paragraph_count: 456
+as_of_overview_commit: 49d0a50ca555bc43ae2a9bec5d5763df714f5478
+summary: "Durable value depends on proof in practice: AI workflows, markets, institutions, culture, rights, health evidence, learning, and human judgment."
+episode_count: 1805
+source_count: 1805
+paragraph_count: 457
 topic_count: 8
 ---
 
@@ -36,14 +36,14 @@ AI value depends on workflow embedding, verification, permissions, cost, compute
 
 ### Business and Markets
 
-Business and market value now includes valuation narrative: equity stories, creator channels, financial metrics, airline services, CPG, AI markets, and SaaS all need visible demand, priced expectations, distribution, payment proof, trust, operating capacity, and risk discipline.
+Business and market value now includes valuation narrative, creator channels, financial metrics, airline services, CPG, AI markets, and SaaS, all requiring visible demand, priced expectations, distribution, payment proof, trust, operating capacity, and risk discipline.
 
 - [[caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb|财报的根 + 估值的茎 = 叙事的果实]] adds a valuation-narrative branch: [[DCFValuationAsNarrative]], [[TerminalValueNarrative]], [[ProsperityInvestingTrap]], and [[AShareAuctionPricing]] treat stock prices as quantified, falsifiable expectations about future cash flows, terminal space, discount rate, and A-share liquidity constraints, while [[CapitalizedResearchProcess]] turns financial-report and valuation work into reusable research memory. Evidence: [[caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb]], [[Mianji]], [[ZouPeixuan]], [[ChuantouXushi]], [[ChuantouGuzhi]], [[DCFValuationAsNarrative]], [[TerminalValueNarrative]], [[ProsperityInvestingTrap]], [[AShareAuctionPricing]], [[CapitalizedResearchProcess]], [[FinancialStatementAnalysis]], [[DividendDiscountModel]], [[GrowthInvesting]], [[ValueInvesting]], [[EarningsGrowthAcceleration]], [[MarketExpectationGap]], [[MarketEfficiency]], [[AShareMarketSeasons]], [[AShareValuationIndicators]], [[InvestmentRiskManagement]].
 - [[shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716|商业小样48]] adds that investor-facing operating metrics need traceable denominators, comparable peer sets, historical continuity, and accessible base data: [[FinancialReportOperatingMetricIntegrity]] shows how [[LaoPuGold]]'s shifting third-party rankings through [[FrostSullivan]] can turn a luxury-positioning story into hard-to-verify market confidence theater. Evidence: [[shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716]], [[FinancialReportOperatingMetricIntegrity]], [[LaoPuGold]], [[FrostSullivan]], [[PublicMarketLuxuryGrowthTension]], [[LuxuryScarcityDiscipline]], [[GoldJewelryValuePerceptionRisk]], [[AsymmetricInformation]].
 
 ### Culture and Media
 
-Culture sources use literature, ritual, games, sports, media, platforms, brands, film, and creative practice to examine politics, identity, evidence, attention, agency, reception, and meaning.
+Culture sources use literature, ritual, games, media, brands, film, AI entertainment, creative practice, and cultural reception to examine politics, identity, evidence, attention, agency, legitimacy, and meaning.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]], [[AntiAuthoritarianEducation]], [[SafetyAsControl]], [[BuddhistLifeAffirmingLiterature]].
 
@@ -63,7 +63,7 @@ History and geopolitics sources connect frontier policy, legitimacy, military cr
 
 ### Psychology and Personal Development
 
-Psychology sources emphasize state awareness, self-command, trust calibration, emotional regulation, sized risk, movement practice, learning challenge, and human judgment under pressure.
+Psychology sources emphasize state awareness, self-command, trust calibration, emotion regulation, sized risk, movement practice, learning challenge, and human judgment under pressure.
 
 - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] adds a functional emotion-regulation branch: [[EmotionsAsFunctionalControlStates]] treats emotions as useful control states for decision and motivation, while [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], and [[TaskSwitchingResidue]] frame regulation as monitoring, differentiating, reframing early, shaping environments, respecting body signals, and managing transition costs rather than removing emotion. Evidence: [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]], [[EmotionsAsFunctionalControlStates]], [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], [[TaskSwitchingResidue]], [[EmotionRegulationToolkit]], [[BrainBodyEmotionMapping]].
 - [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]] adds a discipline-centered self-command branch: [[DisciplineOverMotivation]] decouples needed action from current motivation, [[AutonomicStressTraining]] treats bodily discomfort as bounded practice, [[OperationalDetachment]] widens attention before decisions, and [[LeadershipEmotionalCounterweight]] with [[ActionAfterAdversity]] frame leadership and resilience as action after emotion rather than emotion-free control. Evidence: [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]], [[JockoWillink]], [[DisciplineOverMotivation]], [[AutonomicStressTraining]], [[OperationalDetachment]], [[LeadershipEmotionalCounterweight]], [[ActionAfterAdversity]], [[EmotionRegulationToolkit]], [[MotivationRewardEffortCalculation]], [[AttentionCapacitySelection]].
@@ -77,7 +77,7 @@ Science, health, and climate sources converge on bounded evidence: mechanisms, m
 
 ### Work, Education, and Society
 
-Work, education, and society sources connect embodied creative labor, role boundaries, active learning, AI trust, feedback loops, and school design into durable capability under real constraints.
+Work, education, and society sources connect embodied creative labor, Hollywood AI workflow adoption, role boundaries, active learning, AI trust, feedback loops, and school design into durable capability under real constraints.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

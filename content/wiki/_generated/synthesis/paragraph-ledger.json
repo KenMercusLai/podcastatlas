@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "48b3696f329c8657bad580665b70e494102a0425198c53c22aaaf95256c778f7",
       "32e05aaf45bf610d194405f328f0266ab3857d68cc9cc07658df7b3ce3f79881",
       "2bc1e83d1cf015e1bb446a799b320774dcaf7fbe58a3b4738f18cdd37aaae718",
       "cb7533d2eeb61dc89d23b9341cd2300e767ad786074dbb847f3a4008b163b152",
@@ -458,11 +459,64 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 456
+    "paragraph_count": 457
   },
-  "overview_commit": "9ad6c6944ae9345daf9f37d0d10b89d09d1b0c11",
-  "overview_digest": "d2df245197854127ee98dd960d48797292d6d585fc5f6dc6602cde506ac23589",
+  "overview_commit": "49d0a50ca555bc43ae2a9bec5d5763df714f5478",
+  "overview_digest": "32171101fb26948029ba958799b074722f9c5097e693301da8154bc53765eb0e",
   "paragraphs": [
+    {
+      "id": "48b3696f329c8657bad580665b70e494102a0425198c53c22aaaf95256c778f7",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[stars-in-their-ais-tech-is-changing-hollywood-6a917d0b63de6f7b41319a4b|Stars in their AIs: tech is changing Hollywood]], a [[TheIntelligence]] episode linking [[GenerativeAIHollywoodProduction]] to [[SyntheticPerformers]], [[AIVideoProductionWorkflow]], [[LiveActionFilmUnderAI]], [[CreativeLaborAIBacklash]], [[AIPublicLikenessGeneration]], [[AIContentProvenance]], and [[AISlop]]. It adds [[TillyNorwood]], [[EileenVanDerVelden]], [[TedSarandos]], [[JohnIrwin]], [[YoungWashington]], [[CainParsons]], [[PunkyDuck]], [[AmazonMGMStudios]], [[A24]], [[Interpositive]], [[DisneylandParis]], [[ObamacareSubsidyCliff]], [[HealthInsuranceDeathSpiral]], and [[FrenchLineDancingCulture]], while extending [[Netflix]], [[Google]], [[ByteDance]], [[GoogleDeepMind]], [[Amazon]], [[TheWaltDisneyCompany]], [[TikTok]], [[AffordableCareAct]], [[UnitedStates]], [[France]], and [[AmericanCulturalExports]]. Its core synthesis is that AI enters Hollywood first through cost, time, safety, hidden workflow adoption, tech-company pressure, and library-format reuse rather than full star replacement, while labor, likeness, disclosure, quality, and slop fears constrain legitimacy; the ACA segment treats subsidy expiry as an affordability shock that can shrink exchange pools without formal repeal, and the France segment reads line dancing as American mass culture becoming local social infrastructure. No settled contradiction is recorded; Hollywood usage, health-insurance numbers, and French participation claims remain source-dated and source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 1,
+        "culture-and-media": 2,
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "A24",
+        "AIContentProvenance",
+        "AIPublicLikenessGeneration",
+        "AISlop",
+        "AIVideoProductionWorkflow",
+        "AffordableCareAct",
+        "Amazon",
+        "AmazonMGMStudios",
+        "AmericanCulturalExports",
+        "ByteDance",
+        "CainParsons",
+        "CreativeLaborAIBacklash",
+        "DisneylandParis",
+        "EileenVanDerVelden",
+        "France",
+        "FrenchLineDancingCulture",
+        "GenerativeAIHollywoodProduction",
+        "Google",
+        "GoogleDeepMind",
+        "HealthInsuranceDeathSpiral",
+        "Interpositive",
+        "JohnIrwin",
+        "LiveActionFilmUnderAI",
+        "Netflix",
+        "ObamacareSubsidyCliff",
+        "PunkyDuck",
+        "SyntheticPerformers",
+        "TedSarandos",
+        "TheIntelligence",
+        "TheWaltDisneyCompany",
+        "TikTok",
+        "TillyNorwood",
+        "UnitedStates",
+        "YoungWashington",
+        "stars-in-their-ais-tech-is-changing-hollywood-6a917d0b63de6f7b41319a4b"
+      ]
+    },
     {
       "id": "32e05aaf45bf610d194405f328f0266ab3857d68cc9cc07658df7b3ce3f79881",
       "primary_topic": "business-and-markets",

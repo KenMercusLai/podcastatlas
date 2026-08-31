@@ -3,16 +3,16 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-08-31
-as_of_overview_commit: 21e9539cf228633d84144a24e1f1d703bb4730d3
-input_digest: 0e7de6f03b4effd626f1d8664d42606acbc3ec991a8b283f1068592b29037f86
+last_updated: 2026-09-01
+as_of_overview_commit: 49d0a50ca555bc43ae2a9bec5d5763df714f5478
+input_digest: 398588150fd189ce8812868e605eea8d247c315b9b0e697db49e6d10a2a47562
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-EP281 adds a source-scoped creative-work and relational-repair case: [[ChanDrama]], [[WuZhenyu]], [[YuanYumei]], [[EmbodiedActingImprovisation]], [[TemporaryFamilyHealing]], [[HumanImperfectionCreativeValue]], and [[LoveAsContainingFrame]] frame artistic labor and repair as embodied, imperfect, and relational, with AI treated as production assistance rather than a substitute for human emotion, taste, and scene response. Hanji 725 adds a secondary role-boundary case before Hanji 726: Ma Yuan's private warning letter teaches speech discipline and imitation risk through Long Bogao and Du Jiliang, but the same letter becomes accusation evidence after its audience changes; Liang Song and Geng Shu extend the risk through etiquette resentment, association exposure, and route-dispute reporting. Hanji 726 then adds a reputation and accountability case: Zhu Bo's defense of Ma Yuan shows public evidence repairing posthumous reputation after accusation, Zong Jun's Wuling decision shows emergency judgment returning to self-impeachment, and Ban Biao's Wuhuan advice turns frontier management into office routines. Hanji 728 adds a source-scoped status, access, and education boundary case: Fan Hong preserves high status through low display and thin burial, Wang Pan and Wang Su show elite association becoming exposure, princely guest networks turn access into violence and purge, and Zhang Yi/Huan Rong make crown-prince education a public role rather than a maternal-family appointment. Hanji 738-744 add source-scoped public-duty, family-status, and role-boundary analogies; Hanji 757, 762, 775, 785, 787, and 792 add role fit, rank proximity, female court education, mourning withdrawal, palace selection, and family-risk diversification cases. The Guangzhou Academy of Fine Arts fieldwork episode adds formative learning through observation and interviews. Jefferson-Hemings adds a secondary society case about legal power and coercive status. Modern health-education, labor, workplace-AI, and consumer-health sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints rather than under hype. The Liemandt/Alpha School episode adds a modern education-institution case: compressed academics, [[AIMasteryLearningModel]], [[RemedialEducationTargeting]], [[EducationMotivationArchitecture]], and [[BuilderBasedSchoolDay]] show school learning as a designed system of tools, human guides, motivation, and applied environments rather than content delivery alone; reported Alpha outcomes remain source-scoped.
+The new The Intelligence Hollywood episode adds a source-scoped work-and-society AI-production case: generative AI enters film through previsualization, stunt and effects safety, editing, dubbing, and hidden workflow use, while synthetic performers, likeness rights, disclosure, quality, and labor backlash keep replacement claims trust-bound. EP281 adds a creative-work and relational-repair case: [[ChanDrama]], [[WuZhenyu]], [[YuanYumei]], [[EmbodiedActingImprovisation]], [[TemporaryFamilyHealing]], [[HumanImperfectionCreativeValue]], and [[LoveAsContainingFrame]] frame artistic labor and repair as embodied, imperfect, and relational, with AI treated as production assistance rather than a substitute for human emotion, taste, and scene response. Hanji 725 adds a secondary role-boundary case before Hanji 726: Ma Yuan's private warning letter teaches speech discipline and imitation risk through Long Bogao and Du Jiliang, but the same letter becomes accusation evidence after its audience changes; Liang Song and Geng Shu extend the risk through etiquette resentment, association exposure, and route-dispute reporting. Hanji 726 then adds a reputation and accountability case: Zhu Bo's defense of Ma Yuan shows public evidence repairing posthumous reputation after accusation, Zong Jun's Wuling decision shows emergency judgment returning to self-impeachment, and Ban Biao's Wuhuan advice turns frontier management into office routines. Hanji 728 adds a source-scoped status, access, and education boundary case: Fan Hong preserves high status through low display and thin burial, Wang Pan and Wang Su show elite association becoming exposure, princely guest networks turn access into violence and purge, and Zhang Yi/Huan Rong make crown-prince education a public role rather than a maternal-family appointment. Hanji 738-744 add source-scoped public-duty, family-status, and role-boundary analogies; Hanji 757, 762, 775, 785, 787, and 792 add role fit, rank proximity, female court education, mourning withdrawal, palace selection, and family-risk diversification cases. Modern health-education, labor, workplace-AI, consumer-health, fieldwork, Jefferson-Hemings, and Alpha School sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints rather than under hype.
 
 ## Cross-source Findings
 
@@ -406,3 +406,15 @@ EP281 adds a creative-work and society case: [[ChanDrama]], [[WuZhenyu]], and [[
 
 - This is a source-scoped reading of a drama and interview episode, not a general theory of film labor, psychotherapy, family repair, or AI production.
 - The Alzheimer and forgetting comments remain reflective metaphors rather than clinical evidence.
+
+### Hollywood Ai Workflow Adoption Is Labor And Trust Bound
+
+The Intelligence source adds a work-and-society AI-production case: [[GenerativeAIHollywoodProduction]], [[AIVideoProductionWorkflow]], [[LiveActionFilmUnderAI]], and [[CreativeLaborAIBacklash]] show generative AI entering Hollywood through previsualization, stunt and effects safety, editing, dubbing, and hidden workflow use while [[SyntheticPerformers]], [[AIPublicLikenessGeneration]], and [[AIContentProvenance]] keep replacement claims bound by trust, rights, and disclosure.
+
+**Evidence:** [[stars-in-their-ais-tech-is-changing-hollywood-6a917d0b63de6f7b41319a4b]], [[GenerativeAIHollywoodProduction]], [[AIVideoProductionWorkflow]], [[LiveActionFilmUnderAI]], [[CreativeLaborAIBacklash]], [[SyntheticPerformers]], [[AIPublicLikenessGeneration]], [[AIContentProvenance]]
+
+**Qualifications:**
+
+- The claim is source-scoped to one The Intelligence episode and should not be read as a comprehensive account of Hollywood labor, contracts, or AI adoption.
+- The examples show workflow adoption and production assistance more clearly than wholesale replacement of performers or crews.
+- Likeness, disclosure, quality, and labor reactions remain legitimacy constraints rather than resolved policy outcomes.

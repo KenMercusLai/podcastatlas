@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8640
+wiki_total_pages: 8651
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "A23A"
     title: "A23A"
     url: "/wiki/entities/a23a/"
+  - key: "A24"
+    title: "A24"
+    url: "/wiki/entities/a24/"
   - key: "A7A5"
     title: "A7A5"
     url: "/wiki/entities/a7a5/"
@@ -668,6 +671,9 @@ wiki_pages:
   - key: "AmazonAGI"
     title: "Amazon AGI"
     url: "/wiki/entities/amazonagi/"
+  - key: "AmazonMGMStudios"
+    title: "Amazon MGM Studios"
+    url: "/wiki/entities/amazonmgmstudios/"
   - key: "AmazonWebServices"
     title: "Amazon Web Services"
     url: "/wiki/entities/amazonwebservices/"

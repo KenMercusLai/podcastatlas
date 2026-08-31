@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6161
+wiki_total_pages: 6166
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -908,6 +908,9 @@ wiki_pages:
   - key: "FreelanceMarketExposure"
     title: "Freelance Market Exposure / 自由职业市场暴露"
     url: "/wiki/concepts/freelancemarketexposure/"
+  - key: "FrenchLineDancingCulture"
+    title: "French Line Dancing Culture"
+    url: "/wiki/concepts/frenchlinedancingculture/"
   - key: "FrenchNewWave"
     title: "French New Wave / 法国新浪潮"
     url: "/wiki/concepts/frenchnewwave/"

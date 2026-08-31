@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8640
+wiki_total_pages: 8651
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "TedMiguel"
     title: "Ted Miguel"
     url: "/wiki/entities/tedmiguel/"
+  - key: "TedSarandos"
+    title: "Ted Sarandos"
+    url: "/wiki/entities/tedsarandos/"
   - key: "Teespring"
     title: "Teespring"
     url: "/wiki/entities/teespring/"
@@ -536,6 +539,9 @@ wiki_pages:
   - key: "TikTok"
     title: "TikTok"
     url: "/wiki/entities/tiktok/"
+  - key: "TillyNorwood"
+    title: "Tilly Norwood"
+    url: "/wiki/entities/tillynorwood/"
   - key: "TimCook"
     title: "Tim Cook"
     url: "/wiki/entities/timcook/"

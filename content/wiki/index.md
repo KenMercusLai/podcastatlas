@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Stars in their AIs: tech is changing Hollywood](sources/stars-in-their-ais-tech-is-changing-hollywood-6a917d0b63de6f7b41319a4b.md) — The Intelligence episode on Hollywood AI production, synthetic performers, ACA subsidy expiry, insurance death-spiral risk, and French line dancing as American cultural export.
 - [财报的根 + 估值的茎 = 叙事的果实](sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb.md) — 面基 episode with Zou Peixuan on financial reports, DCF, terminal-value narrative, prosperity-investing traps, A-share auction pricing, and capitalized research process.
 - [EP281 对话吴镇宇：困在创伤里的我们，决定重新找回自己](sources/ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r.md) — Talk三联 episode with Wu Zhenyu and Yuan Yumei on 《蝉》, trauma visualization, embodied acting, aging, anger, imperfect creativity under AI, and love as relational repair.
 - [146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?](sources/146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1.md) — 疯投圈 episode with Kate of AHA Creator on AI-enabled overseas creator marketing, the shift from traffic buying to brand building, and why third-party creator workflow platforms may have room outside domestic-style closed loops.
@@ -1812,6 +1813,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [Tilly Norwood](entities/TillyNorwood.md) — AI-generated actor used as the episode's concrete synthetic-performer case.
+- [Eileen van der Velden](entities/EileenVanDerVelden.md) — Creator of Tilly Norwood and demonstrator of fast AI-generated scene production.
+- [Ted Sarandos](entities/TedSarandos.md) — Netflix co-chief executive cited as a human-artist boundary in the Hollywood AI segment.
+- [John Irwin](entities/JohnIrwin.md) — Director using AI in Young Washington to create a dangerous torrent effect while avoiding a risky stunt.
+- [Young Washington](entities/YoungWashington.md) — Film used as the source's AI-assisted effects and stunt-risk reduction case.
+- [Cain Parsons](entities/CainParsons.md) — Backrooms director cited as a strong anti-AI voice in the Hollywood backlash segment.
+- [Punky Duck](entities/PunkyDuck.md) — Animated-series example tied to announced AI use, creator exit, and severe backlash.
+- [Amazon MGM Studios](entities/AmazonMGMStudios.md) — Amazon studio unit named as a route for AI adoption in Hollywood production and animation.
+- [A24](entities/A24.md) — Film company named as receiving a reported Google DeepMind investment in the Hollywood AI segment.
+- [Interpositive](entities/Interpositive.md) — AI production company reportedly led by Ben Affleck and acquired by Netflix.
+- [Disneyland Paris](entities/DisneylandParis.md) — Disney theme-park outpost in France used as a line-dancing and American-culture example.
 - [邹佩轩 / Zou Peixuan](entities/ZouPeixuan.md) — Investing author and 面基 guest linking financial reports, DCF valuation, terminal narrative, A-share auction pricing, and reusable research process.
 - [《穿透叙事》](entities/ChuantouXushi.md) — Zou Peixuan book presented as the narrative layer where valuation becomes quantified, falsifiable market consensus about terminal business value.
 - [《穿透估值》](entities/ChuantouGuzhi.md) — Zou Peixuan valuation book summarized as a DCF-first-principles bridge between financial statements and narrative judgment.
@@ -10456,6 +10468,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Generative AI Hollywood Production](concepts/GenerativeAIHollywoodProduction.md) — Hollywood-specific AI adoption across synthetic scenes, stunts, effects, planning, editing, platform infrastructure, and backlash.
+- [Synthetic Performers](concepts/SyntheticPerformers.md) — AI-generated actor-like figures that sit between character, performer, visual effect, and generated asset.
+- [Obamacare Subsidy Cliff](concepts/ObamacareSubsidyCliff.md) — ACA exchange affordability shock caused by expiry of enhanced pandemic-era subsidies.
+- [Health Insurance Death Spiral](concepts/HealthInsuranceDeathSpiral.md) — Adverse-selection loop where rising premiums push healthier buyers out of an insurance pool.
+- [French Line Dancing Culture](concepts/FrenchLineDancingCulture.md) — French adoption of American-style line dancing as festival, club, competition, and shared leisure practice.
 - [DCF Valuation as Narrative / DCF作为叙事](concepts/DCFValuationAsNarrative.md) — Valuation frame treating discounted cash flow as a quantified narrative about future cash flows, terminal state, and discount rate.
 - [Terminal Value Narrative / 终局空间叙事](concepts/TerminalValueNarrative.md) — Investment frame arguing that terminal earnings or cash-flow ceiling can dominate valuation more than near-term growth speed.
 - [A-Share Auction Pricing / A股拍卖机制](concepts/AShareAuctionPricing.md) — Market-structure thesis where short-sale constraints, expectation dispersion, and liquidity let optimistic marginal buyers drive A-share prices.

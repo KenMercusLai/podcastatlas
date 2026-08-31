@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8640
+wiki_total_pages: 8651
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "Disneyland"
     title: "Disneyland"
     url: "/wiki/entities/disneyland/"
+  - key: "DisneylandParis"
+    title: "Disneyland Paris"
+    url: "/wiki/entities/disneylandparis/"
   - key: "DivisionByZero"
     title: "Division by Zero"
     url: "/wiki/entities/divisionbyzero/"
