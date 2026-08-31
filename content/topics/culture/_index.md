@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2341
+topic_total_pages: 2343
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5204,6 +5204,12 @@ topic_entities:
   - key: "QinMi"
     title: "《秦谜》 / Qin Mi"
     url: "/wiki/entities/qinmi/"
+  - key: "ChuantouGuzhi"
+    title: "《穿透估值》"
+    url: "/wiki/entities/chuantouguzhi/"
+  - key: "ChuantouXushi"
+    title: "《穿透叙事》"
+    url: "/wiki/entities/chuantouxushi/"
   - key: "ZhushuJinian"
     title: "《竹书纪年》 / Bamboo Annals"
     url: "/wiki/entities/zhushujinian/"

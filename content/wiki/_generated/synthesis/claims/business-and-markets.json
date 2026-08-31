@@ -2,6 +2,39 @@
   "claims": [
     {
       "global_candidate": true,
+      "id": "valuation-narrative-needs-terminal-and-market-structure-proof",
+      "qualifications": [
+        "The claim is source-scoped to one Mianji podcast episode summarizing Zou Peixuan's books, not a direct full-text review or independent company valuation.",
+        "Discount-rate examples, A-share short-sale constraints, and liquidity mechanics are framework inputs that can vary by stock, market regime, regulation, and time.",
+        "Company examples such as Tencent, CATL, Moutai, LeEco, Midea, banking, coal, and photovoltaic cases remain illustrative until fuller case evidence is ingested."
+      ],
+      "statement": "[[caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb|财报的根 + 估值的茎 = 叙事的果实]] adds a valuation-narrative branch: [[DCFValuationAsNarrative]], [[TerminalValueNarrative]], [[ProsperityInvestingTrap]], and [[AShareAuctionPricing]] treat stock prices as quantified, falsifiable expectations about future cash flows, terminal space, discount rate, and A-share liquidity constraints, while [[CapitalizedResearchProcess]] turns financial-report and valuation work into reusable research memory.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb",
+        "Mianji",
+        "ZouPeixuan",
+        "ChuantouXushi",
+        "ChuantouGuzhi",
+        "DCFValuationAsNarrative",
+        "TerminalValueNarrative",
+        "ProsperityInvestingTrap",
+        "AShareAuctionPricing",
+        "CapitalizedResearchProcess",
+        "FinancialStatementAnalysis",
+        "DividendDiscountModel",
+        "GrowthInvesting",
+        "ValueInvesting",
+        "EarningsGrowthAcceleration",
+        "MarketExpectationGap",
+        "MarketEfficiency",
+        "AShareMarketSeasons",
+        "AShareValuationIndicators",
+        "InvestmentRiskManagement"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "financial-metrics-need-traceable-comparable-verifiable-denominators",
       "qualifications": [
         "The source critiques the usability and comparability of Lao Pu Gold's supplemental operating metrics; it does not prove the company's reported figures are false or that the underlying business is weak.",
@@ -1173,6 +1206,6 @@
       ]
     }
   ],
-  "summary": "The AHA Creator/FengTouQuan episode adds an overseas creator marketing branch: as paid-traffic and SKU-sprawl arbitrage weaken, AI can scale creator matching, multilingual outreach, review, and anti-fraud, but brand strategy, trust, pricing, contracts, platform rules, and source-scoped performance proof decide whether the channel creates durable value; the financial-disclosure, airline-meal, GLM/Micron, Evergrande, lending, AI-post-training, SaaS, consumer-brand, retail, biotech, governance, and market sources otherwise keep showing that business value survives only when demand, trust, distribution, payment proof, operating capacity, and risk discipline are visible.",
+  "summary": "Zou Peixuan's Mianji episode adds a valuation-narrative branch: DCF, terminal value, reverse pricing, and A-share short-sale/liquidity constraints make equity stories useful only when assumptions are falsifiable and priced. The AHA Creator/FengTouQuan episode adds overseas creator marketing as paid-traffic arbitrage weakens, and the broader business-market corpus keeps showing that value survives only when demand, trust, distribution, payment proof, operating capacity, and risk discipline are visible.",
   "topic_id": "business-and-markets"
 }

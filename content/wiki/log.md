@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-01] ingest | 财报的根 + 估值的茎 = 叙事的果实
+
+Ingested the 2026-08-31 面基 episode with Zou Peixuan on financial reports, DCF first principles, valuation as quantified narrative, terminal-value ceilings, prosperity-investing traps, A-share auction-like pricing, and capitalized research process. Created `ZouPeixuan`, `ChuantouXushi`, `ChuantouGuzhi`, `DCFValuationAsNarrative`, `TerminalValueNarrative`, `AShareAuctionPricing`, `ProsperityInvestingTrap`, and `CapitalizedResearchProcess`; updated `Mianji`, overview, index, generated synthesis artifacts, and validation state. No settled contradiction found; company examples such as Tencent, CATL, Moutai, LeEco, Midea, banking, coal, and photovoltaic cases remain source-scoped unless fuller case evidence is ingested.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》722丨让刘秀险死的头痛病，怎么回事？
 
 Ingested the 2026-06-22 芮淇讲透资治通鉴 episode on Liu Xiu's 44 CE illness and emergency trust in Yin Xing, Yin Xing's refusal of the great marshalship, Guo-family compensation through Liu Fu and Guo Kuang, Ma Yuan's horsehide-burial resolve and warning to Liang Song and Dou Gu, northern frontier pressure, and Western Regions hostage signaling under Shache pressure. Created the source note plus `YinXingGuangwuMaternalKin`; updated `LiuXiu`, `MaYuanEasternHan`, `LiangSongLinxiangMarquis`, `DouGuEasternHan`, `LiuFuPeiKingEasternHan`, `ShacheKingdomLateHan`, `ShanshanKingdomLateHan`, `CapacityBoundFrontierCommitment`, `HighStatusCautionSelfProtection`, `index`, and `overview`. No settled contradiction found; Zhang Zhan, Eastern Han Cai Mao / 蔡茂, Zhu Fu, Liu Long, Guo Kuang, Liu Shang, Zhan Rong, Pei Zun, Yanqi, the Cheshi front kingdom, and exact force counts remain source-scoped.
@@ -14463,3 +14467,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 16,597 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 16,606 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is unset and the default model is unqualified (`claude-3-5-sonnet-latest`). Report returned in-session; `wiki/lint-report.md` was not updated.

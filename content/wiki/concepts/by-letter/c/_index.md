@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6156
+wiki_total_pages: 6161
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "CapitalIntensiveAICycle"
     title: "Capital-Intensive AI Cycle"
     url: "/wiki/concepts/capitalintensiveaicycle/"
+  - key: "CapitalizedResearchProcess"
+    title: "Capitalized Research Process / 研究资本化"
+    url: "/wiki/concepts/capitalizedresearchprocess/"
   - key: "CaptiveAnimalCareLabor"
     title: "Captive Animal Care Labor / 圈养动物照护劳动"
     url: "/wiki/concepts/captiveanimalcarelabor/"

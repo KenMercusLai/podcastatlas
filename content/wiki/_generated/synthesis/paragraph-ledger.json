@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "32e05aaf45bf610d194405f328f0266ab3857d68cc9cc07658df7b3ce3f79881",
       "2bc1e83d1cf015e1bb446a799b320774dcaf7fbe58a3b4738f18cdd37aaae718",
       "cb7533d2eeb61dc89d23b9341cd2300e767ad786074dbb847f3a4008b163b152",
       "4183d42d43a1966dec7c5bbfac09d4f2c3e8f656b0f96ec851796a20d5414bb1",
@@ -457,11 +458,45 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 455
+    "paragraph_count": 456
   },
-  "overview_commit": "21e9539cf228633d84144a24e1f1d703bb4730d3",
-  "overview_digest": "f0e69611b9670c3ce257394ba573dfbf22e765de8f84e552ba59383d9ea6c741",
+  "overview_commit": "9ad6c6944ae9345daf9f37d0d10b89d09d1b0c11",
+  "overview_digest": "d2df245197854127ee98dd960d48797292d6d585fc5f6dc6602cde506ac23589",
   "paragraphs": [
+    {
+      "id": "32e05aaf45bf610d194405f328f0266ab3857d68cc9cc07658df7b3ce3f79881",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb|财报的根 + 估值的茎 = 叙事的果实]], a [[Mianji|面基]] episode with [[ZouPeixuan|邹佩轩]] on [[ChuantouXushi|《穿透叙事》]], [[ChuantouGuzhi|《穿透估值》]], financial reports, DCF, terminal value, and A-share market mechanics. It adds [[ZouPeixuan]], [[ChuantouXushi]], [[ChuantouGuzhi]], [[DCFValuationAsNarrative]], [[TerminalValueNarrative]], [[AShareAuctionPricing]], [[ProsperityInvestingTrap]], and [[CapitalizedResearchProcess]], while extending [[Mianji]], [[FinancialStatementAnalysis]], [[DividendDiscountModel]], [[GrowthInvesting]], [[ValueInvesting]], [[EarningsGrowthAcceleration]], [[MarketExpectationGap]], [[MarketEfficiency]], [[AShareMarketSeasons]], [[AShareValuationIndicators]], and [[InvestmentRiskManagement]]. Its core synthesis is that equity narrative is useful only when it is logical, falsifiable, and quantifiable: financial reports verify the story, DCF translates future assumptions into price, terminal space and discount rate dominate near-term growth speed, and A-share short-sale constraints can let optimistic liquidity price ambiguous ceilings through an auction-like mechanism. No settled contradiction is recorded; the cited company examples remain source-scoped and the discount-rate assumptions are treated as framework inputs rather than universal constants.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 6,
+        "culture-and-media": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AShareAuctionPricing",
+        "AShareMarketSeasons",
+        "AShareValuationIndicators",
+        "CapitalizedResearchProcess",
+        "ChuantouGuzhi",
+        "ChuantouXushi",
+        "DCFValuationAsNarrative",
+        "DividendDiscountModel",
+        "EarningsGrowthAcceleration",
+        "FinancialStatementAnalysis",
+        "GrowthInvesting",
+        "InvestmentRiskManagement",
+        "MarketEfficiency",
+        "MarketExpectationGap",
+        "Mianji",
+        "ProsperityInvestingTrap",
+        "TerminalValueNarrative",
+        "ValueInvesting",
+        "ZouPeixuan",
+        "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb"
+      ]
+    },
     {
       "id": "2bc1e83d1cf015e1bb446a799b320774dcaf7fbe58a3b4738f18cdd37aaae718",
       "primary_topic": "work-education-and-society",

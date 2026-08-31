@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6156
+wiki_total_pages: 6161
 wiki_pages:
+  - key: "AShareAuctionPricing"
+    title: "A-Share Auction Pricing / A股拍卖机制"
+    url: "/wiki/concepts/ashareauctionpricing/"
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
     url: "/wiki/concepts/asharebullmarkethistory/"

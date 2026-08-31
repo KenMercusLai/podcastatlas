@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8637
+wiki_total_pages: 8640
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1232,6 +1232,12 @@ wiki_pages:
   - key: "CaoYinAndKangxi"
     title: "《曹寅与康熙》 / Ts'ao Yin and the K'ang-hsi Emperor"
     url: "/wiki/entities/caoyinandkangxi/"
+  - key: "ChuantouGuzhi"
+    title: "《穿透估值》"
+    url: "/wiki/entities/chuantouguzhi/"
+  - key: "ChuantouXushi"
+    title: "《穿透叙事》"
+    url: "/wiki/entities/chuantouxushi/"
   - key: "Cangcheng"
     title: "《苍城》"
     url: "/wiki/entities/cangcheng/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6156
+wiki_total_pages: 6161
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "TenderOfferMediaCampaign"
     title: "Tender Offer Media Campaign / 收购要约媒体战"
     url: "/wiki/concepts/tenderoffermediacampaign/"
+  - key: "TerminalValueNarrative"
+    title: "Terminal Value Narrative / 终局空间叙事"
+    url: "/wiki/concepts/terminalvaluenarrative/"
   - key: "TerritorialControlChurn"
     title: "Territorial Control Churn / 城池反复易手"
     url: "/wiki/concepts/territorialcontrolchurn/"

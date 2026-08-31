@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8637
+wiki_total_pages: 8640
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1280,6 +1280,9 @@ wiki_pages:
   - key: "ZaoFu"
     title: "造父 / Zaofu"
     url: "/wiki/entities/zaofu/"
+  - key: "ZouPeixuan"
+    title: "邹佩轩 / Zou Peixuan"
+    url: "/wiki/entities/zoupeixuan/"
   - key: "ZouState"
     title: "邹国 / Zou State"
     url: "/wiki/entities/zoustate/"

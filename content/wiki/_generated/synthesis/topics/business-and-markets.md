@@ -3,18 +3,30 @@
 generated: true
 topic_id: business-and-markets
 title: "Business and Markets"
-last_updated: 2026-08-31
-as_of_overview_commit: 1842c82a93a5f3b1d553cfd3dacb89fbb07917ab
-input_digest: d03ec57b23e531aece8ff0cb7934b3f34cd26e68be0df71e1430056869325ddb
+last_updated: 2026-09-01
+as_of_overview_commit: 9ad6c6944ae9345daf9f37d0d10b89d09d1b0c11
+input_digest: 1bf2f2bf749740fce8456609b4f61519ed35cc2db3c02139a68ab814c0ec65c1
 ---
 
 # Business and Markets
 
 ## Current State
 
-The AHA Creator/FengTouQuan episode adds an overseas creator marketing branch: as paid-traffic and SKU-sprawl arbitrage weaken, AI can scale creator matching, multilingual outreach, review, and anti-fraud, but brand strategy, trust, pricing, contracts, platform rules, and source-scoped performance proof decide whether the channel creates durable value; the financial-disclosure, airline-meal, GLM/Micron, Evergrande, lending, AI-post-training, SaaS, consumer-brand, retail, biotech, governance, and market sources otherwise keep showing that business value survives only when demand, trust, distribution, payment proof, operating capacity, and risk discipline are visible.
+Zou Peixuan's Mianji episode adds a valuation-narrative branch: DCF, terminal value, reverse pricing, and A-share short-sale/liquidity constraints make equity stories useful only when assumptions are falsifiable and priced. The AHA Creator/FengTouQuan episode adds overseas creator marketing as paid-traffic arbitrage weakens, and the broader business-market corpus keeps showing that value survives only when demand, trust, distribution, payment proof, operating capacity, and risk discipline are visible.
 
 ## Cross-source Findings
+
+### Valuation Narrative Needs Terminal And Market Structure Proof
+
+[[caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb|财报的根 + 估值的茎 = 叙事的果实]] adds a valuation-narrative branch: [[DCFValuationAsNarrative]], [[TerminalValueNarrative]], [[ProsperityInvestingTrap]], and [[AShareAuctionPricing]] treat stock prices as quantified, falsifiable expectations about future cash flows, terminal space, discount rate, and A-share liquidity constraints, while [[CapitalizedResearchProcess]] turns financial-report and valuation work into reusable research memory.
+
+**Evidence:** [[caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb]], [[Mianji]], [[ZouPeixuan]], [[ChuantouXushi]], [[ChuantouGuzhi]], [[DCFValuationAsNarrative]], [[TerminalValueNarrative]], [[ProsperityInvestingTrap]], [[AShareAuctionPricing]], [[CapitalizedResearchProcess]], [[FinancialStatementAnalysis]], [[DividendDiscountModel]], [[GrowthInvesting]], [[ValueInvesting]], [[EarningsGrowthAcceleration]], [[MarketExpectationGap]], [[MarketEfficiency]], [[AShareMarketSeasons]], [[AShareValuationIndicators]], [[InvestmentRiskManagement]]
+
+**Qualifications:**
+
+- The claim is source-scoped to one Mianji podcast episode summarizing Zou Peixuan's books, not a direct full-text review or independent company valuation.
+- Discount-rate examples, A-share short-sale constraints, and liquidity mechanics are framework inputs that can vary by stock, market regime, regulation, and time.
+- Company examples such as Tencent, CATL, Moutai, LeEco, Midea, banking, coal, and photovoltaic cases remain illustrative until fuller case evidence is ingested.
 
 ### Financial Metrics Need Traceable Comparable Verifiable Denominators
 

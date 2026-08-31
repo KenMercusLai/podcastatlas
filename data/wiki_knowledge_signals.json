@@ -1551,6 +1551,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/aivoicecloningrights/"
     },
+    "AShareAuctionPricing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "财报的根 + 估值的茎 = 叙事的果实 [loLxYTQWzzXQ9KzjBtKMfolAfaVB].md",
+          "key": "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb",
+          "show": "面基",
+          "title": "财报的根 + 估值的茎 = 叙事的果实",
+          "url": "/wiki/sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/ashareauctionpricing/"
+    },
     "AaronBurr": {
       "episode_count": 2,
       "show_count": 2,
@@ -6034,6 +6050,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/caperni/"
     },
+    "CapitalizedResearchProcess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "财报的根 + 估值的茎 = 叙事的果实 [loLxYTQWzzXQ9KzjBtKMfolAfaVB].md",
+          "key": "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb",
+          "show": "面基",
+          "title": "财报的根 + 估值的茎 = 叙事的果实",
+          "url": "/wiki/sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/capitalizedresearchprocess/"
+    },
     "CaptiveSubmissionResidualLoyalty": {
       "episode_count": 3,
       "show_count": 1,
@@ -7485,6 +7517,38 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/chroniclepolicycompression/"
+    },
+    "ChuantouGuzhi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "财报的根 + 估值的茎 = 叙事的果实 [loLxYTQWzzXQ9KzjBtKMfolAfaVB].md",
+          "key": "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb",
+          "show": "面基",
+          "title": "财报的根 + 估值的茎 = 叙事的果实",
+          "url": "/wiki/sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/chuantouguzhi/"
+    },
+    "ChuantouXushi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "财报的根 + 估值的茎 = 叙事的果实 [loLxYTQWzzXQ9KzjBtKMfolAfaVB].md",
+          "key": "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb",
+          "show": "面基",
+          "title": "财报的根 + 估值的茎 = 叙事的果实",
+          "url": "/wiki/sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/chuantouxushi/"
     },
     "ChunyuQiong": {
       "episode_count": 3,
@@ -9070,6 +9134,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/cursushonorum/"
+    },
+    "DCFValuationAsNarrative": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "财报的根 + 估值的茎 = 叙事的果实 [loLxYTQWzzXQ9KzjBtKMfolAfaVB].md",
+          "key": "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb",
+          "show": "面基",
+          "title": "财报的根 + 估值的茎 = 叙事的果实",
+          "url": "/wiki/sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/dcfvaluationasnarrative/"
     },
     "DaQin": {
       "episode_count": 1,
@@ -29799,9 +29879,9 @@
       "url": "/wiki/entities/miwuqiangleader/"
     },
     "Mianji": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "山上山下皆人间，无事逍遥即神仙 [lhJIgUq74flhaTdXnBrnzhjg_ACP].md",
@@ -29935,9 +30015,16 @@
           "show": "面基",
           "title": "中年三账户：现金流、肌肉、睡眠",
           "url": "/wiki/sources/zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae/"
+        },
+        {
+          "episode_file": "财报的根 + 估值的茎 = 叙事的果实 [loLxYTQWzzXQ9KzjBtKMfolAfaVB].md",
+          "key": "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb",
+          "show": "面基",
+          "title": "财报的根 + 估值的茎 = 叙事的果实",
+          "url": "/wiki/sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb/"
         }
       ],
-      "updated": "2026-08-25",
+      "updated": "2026-09-01",
       "url": "/wiki/entities/mianji/"
     },
     "MiaoGuangLateHan": {
@@ -34924,6 +35011,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/prospectivememory/"
+    },
+    "ProsperityInvestingTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "财报的根 + 估值的茎 = 叙事的果实 [loLxYTQWzzXQ9KzjBtKMfolAfaVB].md",
+          "key": "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb",
+          "show": "面基",
+          "title": "财报的根 + 估值的茎 = 叙事的果实",
+          "url": "/wiki/sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/prosperityinvestingtrap/"
     },
     "ProteinBodyCompositionLever": {
       "episode_count": 1,
@@ -42063,6 +42166,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/tengyanlatehan/"
+    },
+    "TerminalValueNarrative": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "财报的根 + 估值的茎 = 叙事的果实 [loLxYTQWzzXQ9KzjBtKMfolAfaVB].md",
+          "key": "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb",
+          "show": "面基",
+          "title": "财报的根 + 估值的茎 = 叙事的果实",
+          "url": "/wiki/sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/terminalvaluenarrative/"
     },
     "TeutonesAndCimbri": {
       "episode_count": 1,
@@ -51369,6 +51488,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zongzilatehan/"
+    },
+    "ZouPeixuan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "财报的根 + 估值的茎 = 叙事的果实 [loLxYTQWzzXQ9KzjBtKMfolAfaVB].md",
+          "key": "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb",
+          "show": "面基",
+          "title": "财报的根 + 估值的茎 = 叙事的果实",
+          "url": "/wiki/sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/zoupeixuan/"
     },
     "ZuoGuanLateHan": {
       "episode_count": 4,

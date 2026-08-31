@@ -2539,6 +2539,10 @@
     "title": "ASML / 阿斯麦",
     "url": "/wiki/entities/asml/"
   },
+  "AShareAuctionPricing": {
+    "title": "A-Share Auction Pricing / A股拍卖机制",
+    "url": "/wiki/concepts/ashareauctionpricing/"
+  },
   "AShareBullMarketHistory": {
     "title": "A-Share Bull Market History",
     "url": "/wiki/concepts/asharebullmarkethistory/"
@@ -8827,6 +8831,10 @@
     "title": "Capital Safety",
     "url": "/wiki/entities/capitalsafety/"
   },
+  "CapitalizedResearchProcess": {
+    "title": "Capitalized Research Process / 研究资本化",
+    "url": "/wiki/concepts/capitalizedresearchprocess/"
+  },
   "CapitolHillOrganizedProtest": {
     "title": "Capitol Hill Organized Protest (CHOP)",
     "url": "/wiki/entities/capitolhillorganizedprotest/"
@@ -10862,6 +10870,14 @@
   "ChuaimoTechnique": {
     "title": "揣摩 / Chuaimo Technique",
     "url": "/wiki/concepts/chuaimotechnique/"
+  },
+  "ChuantouGuzhi": {
+    "title": "《穿透估值》",
+    "url": "/wiki/entities/chuantouguzhi/"
+  },
+  "ChuantouXushi": {
+    "title": "《穿透叙事》",
+    "url": "/wiki/entities/chuantouxushi/"
   },
   "ChuckSurack": {
     "title": "Chuck Surack",
@@ -13230,6 +13246,10 @@
   "DB9": {
     "title": "DB9",
     "url": "/wiki/entities/db9/"
+  },
+  "DCFValuationAsNarrative": {
+    "title": "DCF Valuation as Narrative / DCF作为叙事",
+    "url": "/wiki/concepts/dcfvaluationasnarrative/"
   },
   "DDay": {
     "title": "D-Day",
@@ -41615,6 +41635,10 @@
     "title": "Prospective Memory",
     "url": "/wiki/concepts/prospectivememory/"
   },
+  "ProsperityInvestingTrap": {
+    "title": "Prosperity Investing Trap / 景气度投资陷阱",
+    "url": "/wiki/concepts/prosperityinvestingtrap/"
+  },
   "ProstheticFittingConstraint": {
     "title": "Prosthetic Fitting Constraint",
     "url": "/wiki/concepts/prostheticfittingconstraint/"
@@ -50894,6 +50918,10 @@
   "TerminalHezongFailure": {
     "title": "末次合纵失败 / Terminal Hezong Failure",
     "url": "/wiki/concepts/terminalhezongfailure/"
+  },
+  "TerminalValueNarrative": {
+    "title": "Terminal Value Narrative / 终局空间叙事",
+    "url": "/wiki/concepts/terminalvaluenarrative/"
   },
   "TerritorialControlChurn": {
     "title": "Territorial Control Churn / 城池反复易手",
@@ -60339,6 +60367,10 @@
     "title": "成侯邹忌 / Chenghou Zou Ji",
     "url": "/wiki/entities/zouji/"
   },
+  "ZouPeixuan": {
+    "title": "邹佩轩 / Zou Peixuan",
+    "url": "/wiki/entities/zoupeixuan/"
+  },
   "ZouState": {
     "title": "邹国 / Zou State",
     "url": "/wiki/entities/zoustate/"
@@ -60830,6 +60862,10 @@
   "burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b": {
     "title": "Burning questions: a more fire-prone world",
     "url": "/wiki/sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b/"
+  },
+  "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb": {
+    "title": "财报的根 + 估值的茎 = 叙事的果实",
+    "url": "/wiki/sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb/"
   },
   "can-computer-hackers-get-inside-your-mind": {
     "title": "Can computer hackers get inside your mind?",

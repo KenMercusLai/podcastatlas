@@ -4639,6 +4639,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AShareAuctionPricing": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AShareBullMarketHistory": [
     {
       "key": "economics",
@@ -11822,6 +11829,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CapitalizedResearchProcess": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "CapricornInvestmentGroup": [
     {
       "key": "science",
@@ -13728,6 +13742,30 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ChuantouGuzhi": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ChuantouXushi": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ChuckSurack": [
@@ -16569,6 +16607,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "DCFValuationAsNarrative": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "DDoSAttackAmplification": [
@@ -47453,6 +47498,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ProsperityInvestingTrap": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "ProtectedDomesticMarketIndustrialization": [
     {
       "key": "economics",
@@ -58477,6 +58529,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "TerminalValueNarrative": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "TerritorialControlChurn": [
     {
       "key": "history",
@@ -67885,6 +67944,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ZouPeixuan": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "ZouState": [
     {
       "key": "history",
@@ -68620,6 +68686,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "can-computer-hackers-get-inside-your-mind": [

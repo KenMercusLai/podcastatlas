@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6156
+wiki_total_pages: 6161
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "DayZeroModelSupport"
     title: "Day-Zero Model Support"
     url: "/wiki/concepts/dayzeromodelsupport/"
+  - key: "DCFValuationAsNarrative"
+    title: "DCF Valuation as Narrative / DCF作为叙事"
+    url: "/wiki/concepts/dcfvaluationasnarrative/"
   - key: "DDoSAttackAmplification"
     title: "DDoS Attack Amplification"
     url: "/wiki/concepts/ddosattackamplification/"

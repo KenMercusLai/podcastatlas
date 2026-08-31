@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [财报的根 + 估值的茎 = 叙事的果实](sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb.md) — 面基 episode with Zou Peixuan on financial reports, DCF, terminal-value narrative, prosperity-investing traps, A-share auction pricing, and capitalized research process.
 - [EP281 对话吴镇宇：困在创伤里的我们，决定重新找回自己](sources/ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r.md) — Talk三联 episode with Wu Zhenyu and Yuan Yumei on 《蝉》, trauma visualization, embodied acting, aging, anger, imperfect creativity under AI, and love as relational repair.
 - [146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?](sources/146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1.md) — 疯投圈 episode with Kate of AHA Creator on AI-enabled overseas creator marketing, the shift from traffic buying to brand building, and why third-party creator workflow platforms may have room outside domestic-style closed loops.
 - [Episode 21: 抗压、应变与终生动力：CZ 的人事和天命](sources/kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7.md) — Fuyou Tiandi episode with CZ on Binance hindsight, founder pressure tolerance, proactive team management, blockchain consensus, payment adoption gaps, RWA, stablecoins, and education-driven motivation.
@@ -1811,6 +1812,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [邹佩轩 / Zou Peixuan](entities/ZouPeixuan.md) — Investing author and 面基 guest linking financial reports, DCF valuation, terminal narrative, A-share auction pricing, and reusable research process.
+- [《穿透叙事》](entities/ChuantouXushi.md) — Zou Peixuan book presented as the narrative layer where valuation becomes quantified, falsifiable market consensus about terminal business value.
+- [《穿透估值》](entities/ChuantouGuzhi.md) — Zou Peixuan valuation book summarized as a DCF-first-principles bridge between financial statements and narrative judgment.
 - [吴镇宇 / Wu Zhenyu](entities/WuZhenyu.md) — Actor in 《蝉》 and Talk三联 guest discussing embodied acting, aging, anger, love, and AI-era creative irreducibility.
 - [袁玉梅 / Yuan Yumei](entities/YuanYumei.md) — Director/producer of 《蝉》 who frames the drama as a search for self rather than only a culprit.
 - [《蝉》 / Chan](entities/ChanDrama.md) — Psychological suspense drama used in EP281 to discuss trauma visualization, temporary family, and emotional self-recognition.
@@ -9947,7 +9951,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [运雷](entities/YunLei.md) — 面基 guest and fund manager explaining efficient-frontier asset allocation, correlation research, and FOF product design.
 - [南方全球](entities/NanfangQuanqiu.md) — QDII fund/product context used to discuss overseas ETF, bond, commodity, REIT, and active-fund allocation tooling.
 - [COWZ](entities/COWZ.md) — Free-cash-flow ETF/index example used as a possible S&P 500 substitute when expected return improves without losing correlation fit.
-- [面基](entities/Mianji.md) — Podcast/show context for investing, asset allocation, fixed-income-plus wealth management, embodied judgment, AI workflow, nonfiction, reading, midlife infrastructure, fieldwork, and Wudang life-design branches.
+- [面基](entities/Mianji.md) — Podcast/show context for investing, valuation narrative, asset allocation, fixed-income-plus wealth management, embodied judgment, AI workflow, nonfiction, reading, midlife infrastructure, fieldwork, and Wudang life-design branches.
 - [43talks](entities/FortyThreeTalks.md) — Offline "AI + X" discussion format used as a frame-collision practice in the 面基 reading episode.
 - [关雅迪](entities/GuanYadi.md) — 面基 guest whose endurance running, ocean sailing, climbing, and life-design stories ground trained intuition and embodied judgment.
 - [青岛号](entities/QingdaoClipperYacht.md) — Ocean-racing boat used by E161 to explain team risk, weather uncertainty, captain judgment, and performance under physical stress.
@@ -10452,6 +10456,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [DCF Valuation as Narrative / DCF作为叙事](concepts/DCFValuationAsNarrative.md) — Valuation frame treating discounted cash flow as a quantified narrative about future cash flows, terminal state, and discount rate.
+- [Terminal Value Narrative / 终局空间叙事](concepts/TerminalValueNarrative.md) — Investment frame arguing that terminal earnings or cash-flow ceiling can dominate valuation more than near-term growth speed.
+- [A-Share Auction Pricing / A股拍卖机制](concepts/AShareAuctionPricing.md) — Market-structure thesis where short-sale constraints, expectation dispersion, and liquidity let optimistic marginal buyers drive A-share prices.
+- [Prosperity Investing Trap / 景气度投资陷阱](concepts/ProsperityInvestingTrap.md) — Failure mode where earnings growth and beats hide a downward revision to terminal business space or priced expectations.
+- [Capitalized Research Process / 研究资本化](concepts/CapitalizedResearchProcess.md) — Investment research practice that turns case reviews, logic chains, and mistakes into reusable assets for future analysis.
 - [Embodied Acting Improvisation](concepts/EmbodiedActingImprovisation.md) — Performance frame where body, language, scene movement, location, and co-actor response shape acting beyond prior explanation.
 - [Temporary Family Healing](concepts/TemporaryFamilyHealing.md) — Repair pattern where unrelated wounded people become a family-like support structure through recognition, responsibility, and care.
 - [Human Imperfection Creative Value](concepts/HumanImperfectionCreativeValue.md) — AI-era creative boundary where irregularity, limitation, natural texture, and emotional risk can carry value.
