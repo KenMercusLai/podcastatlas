@@ -4,17 +4,29 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-08-31
-as_of_overview_commit: b7033d3911d3cf87448560870b06d28bd523b52c
-input_digest: a46d12f9ace8269d0e2e79c7f44d7518cec44dacf7967e948d11c58860f7f284
+as_of_overview_commit: 091331b9022de4cc029868061fb07b76a0ad5ebd
+input_digest: 1d06e606be63fc40f0591e34924448ca8a2a783c682f94068594faacb7cfa7f0
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science-health-and-climate now joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: measurement, mechanism, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Recent health branches cover sugar-control literacy; flexible fundamentals for sleep, circadian timing, recovery, fertility, and nutrition; male and female hormone phenotyping; exercise-risk boundaries; diagnostic safety netting; spine rehabilitation; metabolic psychiatry; bipolar and OCD care; insect-bite prevention and escalation; individualized cancer vaccines; companion-animal welfare; historical death-cause inference for Liu Xiu; and evidence-bounded body-composition fundamentals. The nonclinical strands show the same pattern in space launch, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, and source-scoped medical or cultivation claims.
+Science-health-and-climate now joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: measurement, mechanism, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Recent health branches cover sugar-control literacy; functional-food and supplement-claim boundaries; flexible fundamentals for sleep, circadian timing, recovery, fertility, and nutrition; male and female hormone phenotyping; exercise-risk boundaries; diagnostic safety netting; spine rehabilitation; metabolic psychiatry; bipolar and OCD care; insect-bite prevention and escalation; individualized cancer vaccines; companion-animal welfare; historical death-cause inference for Liu Xiu; and evidence-bounded body-composition fundamentals. The nonclinical strands show the same pattern in space launch, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, and source-scoped medical or cultivation claims.
 
 ## Cross-source Findings
+
+### Functional Food Supplements Need Identity Need And Label Boundaries
+
+[[FunctionalFoodRegulatoryIdentity]], [[TargetedSupplementNeedAssessment]], [[FunctionalFoodMarketingClaimSkepticism]], [[MealReplacementNutritionBoundary]], [[ElectrolyteDrinkUseBoundary]], and [[FishOilNaturalStatinBoundary]] extend health literacy from sugar control into functional-food and supplement products: people should identify product category, actual need, ingredient and nutrition labels, use scenario, and clinical boundary before treating functional wording, naturalness, high price, medical-grade, nano, high-absorption, or natural-statin claims as health guidance.
+
+**Evidence:** [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o]], [[FunctionalFoodRegulatoryIdentity]], [[TargetedSupplementNeedAssessment]], [[FunctionalFoodMarketingClaimSkepticism]], [[MealReplacementNutritionBoundary]], [[ElectrolyteDrinkUseBoundary]], [[FishOilNaturalStatinBoundary]], [[YuWanrouFunctionalFoodGuest]], [[NutritionLabelSugarTraps]], [[PracticalSugarControl]], [[DietarySupplementRegulation]], [[SupplementLabelAccuracy]], [[MedicalRiskManagement]], [[ZheBingShuoLaiHuaChang]], [[Atang]], [[YueWanrou]]
+
+**Qualifications:**
+
+- The episode is public nutrition and medical literacy, not individualized supplement, diabetes, pregnancy, kidney, postoperative, adolescent, elder, cardiovascular, or dietetic advice.
+- Product examples such as protein powder, collagen, electrolyte drinks, fish oil, meal replacements, turmeric-lemon drinks, and sleep drinks remain source-scoped.
+- The source-scoped guest name 余婉柔 is not merged with [[YueWanrou]] because the ingested evidence does not prove identity.
 
 ### Sugar Control Needs Food Structure And Label Literacy
 

@@ -36,6 +36,7 @@
       "3f97b63f5c826fc5081443ad4d5b4f97918ec40e24baf4b48abf500ff7c11ecc",
       "4614617554245fe08b9d3ec6102e4dd3b6d4f87029c6065197f71a80b755be3a",
       "b20ef8f0318c4adef23db057f30b80ec541bbaed2238a467d8f980a84fae77d6",
+      "2c4ffc156edeaef0ce25bda079252b3e0189afab609eaf6c4c876693062d0d23",
       "9cfbb5efa04faa7e8c7721250a49ecc26f9f65a22e6ab25130ec061dff5b53f9",
       "d2262369cd3bb76959f878595a106e7167b579216f8d7b14ad80484a85f194a1",
       "785bf7ff71754786438c2822b30df12bdae76d6fe5014fabbb32740ba7f9d6ff",
@@ -451,10 +452,10 @@
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0"
     ],
-    "paragraph_count": 449
+    "paragraph_count": 450
   },
-  "overview_commit": "93f0816658da0ced133101dfe92592deb5427ab2",
-  "overview_digest": "5788ee789c16f0af40dc07acfdb8d940bd898ac4b7b7f56253dbbefe12042def",
+  "overview_commit": "091331b9022de4cc029868061fb07b76a0ad5ebd",
+  "overview_digest": "a63de591ec939efe266e354734326c9692903a2df997bd145076ca6a83a3398b",
   "paragraphs": [
     {
       "id": "695b0bc2e7c51de7019a3589fe1de1fbccb3bf9c6f5b40a7c2fb9492430cb145",
@@ -1463,6 +1464,39 @@
         "SexualHarassmentNamingLag",
         "WomenWorkplaceProgressStall",
         "default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177"
+      ]
+    },
+    {
+      "id": "2c4ffc156edeaef0ce25bda079252b3e0189afab609eaf6c4c876693062d0d23",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "science-health-and-climate",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o|VOL.209 别为“功能性”上头，你以为的“精准养生”其实越补越糟！聊聊代餐粉、电解质等等]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[Atang|阿汤]] and [[YuWanrouFunctionalFoodGuest|余婉柔]] on functional foods and supplement need assessment. It adds [[FunctionalFoodRegulatoryIdentity]], [[TargetedSupplementNeedAssessment]], [[FunctionalFoodMarketingClaimSkepticism]], [[MealReplacementNutritionBoundary]], [[ElectrolyteDrinkUseBoundary]], [[FishOilNaturalStatinBoundary]], and [[YuWanrouFunctionalFoodGuest]], while extending [[NutritionLabelSugarTraps]], [[PracticalSugarControl]], [[ZheBingShuoLaiHuaChang]], [[Atang]], [[DietarySupplementRegulation]], [[SupplementLabelAccuracy]], and [[MedicalRiskManagement]]. Its core synthesis is that \"functional\" products should be read through regulatory identity, actual need, label contents, and qualified care rather than naturalness, price, medical-grade, nano, high-absorption, or natural-statin claims. No settled contradiction is recorded; protein, collagen, electrolyte, fish-oil, meal-replacement, elder, pregnancy, adolescent, diabetes, postoperative, and wellness-drink examples remain source-scoped public education rather than individualized nutrition or medical advice, and the source name 余婉柔 is not merged with [[YueWanrou|岳宛柔]].",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "Atang",
+        "DietarySupplementRegulation",
+        "ElectrolyteDrinkUseBoundary",
+        "FishOilNaturalStatinBoundary",
+        "FunctionalFoodMarketingClaimSkepticism",
+        "FunctionalFoodRegulatoryIdentity",
+        "MealReplacementNutritionBoundary",
+        "MedicalRiskManagement",
+        "NutritionLabelSugarTraps",
+        "PracticalSugarControl",
+        "SupplementLabelAccuracy",
+        "TargetedSupplementNeedAssessment",
+        "YuWanrouFunctionalFoodGuest",
+        "YueWanrou",
+        "ZheBingShuoLaiHuaChang",
+        "vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o"
       ]
     },
     {

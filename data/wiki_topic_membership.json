@@ -20012,6 +20012,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ElectrolyteDrinkUseBoundary": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ElectronicArts": [
     {
       "key": "technology",
@@ -24195,6 +24202,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "FunctionalFoodRegulatoryIdentity": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "FundAdvisoryFeeTransparency": [

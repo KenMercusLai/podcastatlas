@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6124
+wiki_total_pages: 6130
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "TargetDateFund"
     title: "Target-Date Fund / 目标日期基金"
     url: "/wiki/concepts/targetdatefund/"
+  - key: "TargetedSupplementNeedAssessment"
+    title: "Targeted Supplement Need Assessment / 针对性补剂需求判断"
+    url: "/wiki/concepts/targetedsupplementneedassessment/"
   - key: "TariffComplianceTest"
     title: "Tariff Compliance Test"
     url: "/wiki/concepts/tariffcompliancetest/"

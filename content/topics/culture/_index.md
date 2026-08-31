@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2323
+topic_total_pages: 2324
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -790,6 +790,9 @@ topic_concepts:
   - key: "EducationalTrackingByTesting"
     title: "Educational Tracking By Testing / 测试驱动的教育分流"
     url: "/wiki/concepts/educationaltrackingbytesting/"
+  - key: "ElectrolyteDrinkUseBoundary"
+    title: "Electrolyte Drink Use Boundary / 电解质饮料使用边界"
+    url: "/wiki/concepts/electrolytedrinkuseboundary/"
   - key: "ElectronicMagazineTransition"
     title: "Electronic Magazine Transition / 电子杂志过渡"
     url: "/wiki/concepts/electronicmagazinetransition/"

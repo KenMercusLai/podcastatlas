@@ -2,6 +2,29 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "consumer-health-questions-need-product-use-boundaries",
+      "qualifications": [
+        "This is a secondary work-and-society reading of a health-literacy episode, not individualized nutrition, medical, training, or workplace advice.",
+        "The claim is about how listener-facing questions are structured; the product examples remain source-scoped.",
+        "The source-scoped 余婉柔 guest is not merged with [[YueWanrou]] without additional identity evidence."
+      ],
+      "statement": "[[Atang]] and [[YuWanrouFunctionalFoodGuest]] add a consumer-health education case: [[TargetedSupplementNeedAssessment]], [[FunctionalFoodMarketingClaimSkepticism]], [[MealReplacementNutritionBoundary]], [[ElectrolyteDrinkUseBoundary]], and [[FishOilNaturalStatinBoundary]] turn ordinary confusion about supplements and functional foods into product-use questions about need, context, labels, and professional boundaries rather than self-optimization by marketing claim.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o",
+        "Atang",
+        "YuWanrouFunctionalFoodGuest",
+        "TargetedSupplementNeedAssessment",
+        "FunctionalFoodMarketingClaimSkepticism",
+        "MealReplacementNutritionBoundary",
+        "ElectrolyteDrinkUseBoundary",
+        "FishOilNaturalStatinBoundary",
+        "ZheBingShuoLaiHuaChang",
+        "YueWanrou"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "hanji-725-private-letter-and-role-boundary-risk",
       "qualifications": [
         "This is a secondary work-and-society analogy from Hanji 725; the source belongs primarily to Eastern Han history, frontier policy, and court politics.",
@@ -625,8 +648,8 @@
       ]
     }
   ],
-  "input_digest": "033807d60f8cb97d86347146ba15f7523357ac55e789cb47e3dbf590cd56fc17",
-  "summary": "Hanji 725 adds a secondary role-boundary case before Hanji 726: Ma Yuan's private warning letter teaches speech discipline and imitation risk through Long Bogao and Du Jiliang, but the same letter becomes accusation evidence after its audience changes; Liang Song and Geng Shu extend the risk through etiquette resentment, association exposure, and route-dispute reporting. Hanji 726 then adds a reputation and accountability case: Zhu Bo's defense of Ma Yuan shows public evidence repairing posthumous reputation after accusation, Zong Jun's Wuling decision shows emergency judgment returning to self-impeachment, and Ban Biao's Wuhuan advice turns frontier management into office routines. Hanji 728 adds a source-scoped status, access, and education boundary case: Fan Hong preserves high status through low display and thin burial, Wang Pan and Wang Su show elite association becoming exposure, princely guest networks turn access into violence and purge, and Zhang Yi/Huan Rong make crown-prince education a public role rather than a maternal-family appointment. Hanji 738-744 add source-scoped public-duty, family-status, and role-boundary analogies; Hanji 757, 762, 775, 785, 787, and 792 add role fit, rank proximity, female court education, mourning withdrawal, palace selection, and family-risk diversification cases. The Guangzhou Academy of Fine Arts fieldwork episode adds formative learning through observation and interviews. Jefferson-Hemings adds a secondary society case about legal power and coercive status. Modern health-education, labor, and workplace-AI sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints.",
+  "input_digest": "f79c667bf2e2e1ca12c01aba6649c3c79528c03103acc1e9e625ef9770df02e7",
+  "summary": "Hanji 725 adds a secondary role-boundary case before Hanji 726: Ma Yuan's private warning letter teaches speech discipline and imitation risk through Long Bogao and Du Jiliang, but the same letter becomes accusation evidence after its audience changes; Liang Song and Geng Shu extend the risk through etiquette resentment, association exposure, and route-dispute reporting. Hanji 726 then adds a reputation and accountability case: Zhu Bo's defense of Ma Yuan shows public evidence repairing posthumous reputation after accusation, Zong Jun's Wuling decision shows emergency judgment returning to self-impeachment, and Ban Biao's Wuhuan advice turns frontier management into office routines. Hanji 728 adds a source-scoped status, access, and education boundary case: Fan Hong preserves high status through low display and thin burial, Wang Pan and Wang Su show elite association becoming exposure, princely guest networks turn access into violence and purge, and Zhang Yi/Huan Rong make crown-prince education a public role rather than a maternal-family appointment. Hanji 738-744 add source-scoped public-duty, family-status, and role-boundary analogies; Hanji 757, 762, 775, 785, 787, and 792 add role fit, rank proximity, female court education, mourning withdrawal, palace selection, and family-risk diversification cases. The Guangzhou Academy of Fine Arts fieldwork episode adds formative learning through observation and interviews. Jefferson-Hemings adds a secondary society case about legal power and coercive status. Modern health-education, labor, workplace-AI, and consumer-health sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints rather than under hype.",
   "title": "Work, Education, and Society",
   "topic_id": "work-education-and-society"
 }

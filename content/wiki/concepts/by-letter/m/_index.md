@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6124
+wiki_total_pages: 6130
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "MayerlingDeathPact"
     title: "Mayerling Death Pact"
     url: "/wiki/concepts/mayerlingdeathpact/"
+  - key: "MealReplacementNutritionBoundary"
+    title: "Meal Replacement Nutrition Boundary / 代餐营养边界"
+    url: "/wiki/concepts/mealreplacementnutritionboundary/"
   - key: "MeaningAsEvolvedFunction"
     title: "Meaning As Evolved Function / 意义作为进化功能"
     url: "/wiki/concepts/meaningasevolvedfunction/"

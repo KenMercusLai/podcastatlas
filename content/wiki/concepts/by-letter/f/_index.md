@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6124
+wiki_total_pages: 6130
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -437,6 +437,9 @@ wiki_pages:
   - key: "FirstPersonMoralAlignment"
     title: "First-Person Moral Alignment / 第一人称道德贴近"
     url: "/wiki/concepts/firstpersonmoralalignment/"
+  - key: "FishOilNaturalStatinBoundary"
+    title: "Fish Oil Natural Statin Boundary / 鱼油不是天然他汀"
+    url: "/wiki/concepts/fishoilnaturalstatinboundary/"
   - key: "FisheriesResourceManagement"
     title: "Fisheries Resource Management"
     url: "/wiki/concepts/fisheriesresourcemanagement/"
@@ -980,6 +983,12 @@ wiki_pages:
   - key: "FunctionalExtinction"
     title: "Functional Extinction"
     url: "/wiki/concepts/functionalextinction/"
+  - key: "FunctionalFoodMarketingClaimSkepticism"
+    title: "Functional Food Marketing Claim Skepticism / 功能食品营销宣称警惕"
+    url: "/wiki/concepts/functionalfoodmarketingclaimskepticism/"
+  - key: "FunctionalFoodRegulatoryIdentity"
+    title: "Functional Food Regulatory Identity / 功能食品监管身份"
+    url: "/wiki/concepts/functionalfoodregulatoryidentity/"
   - key: "FundAdvisoryFeeTransparency"
     title: "Fund Advisory Fee Transparency / 基金投顾费率透明"
     url: "/wiki/concepts/fundadvisoryfeetransparency/"

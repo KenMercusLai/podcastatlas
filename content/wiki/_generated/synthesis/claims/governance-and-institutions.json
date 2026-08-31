@@ -2,6 +2,26 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "functional-food-claims-need-product-identity-governance",
+      "qualifications": [
+        "This is a source-scoped consumer-governance edge from a nutrition podcast, not a jurisdiction-complete regulatory survey.",
+        "The episode names regulatory and market categories but does not independently compare all Chinese, U.S., or international food and supplement regimes.",
+        "Product examples remain public education rather than individualized medical, nutrition, or legal guidance."
+      ],
+      "statement": "[[FunctionalFoodRegulatoryIdentity]] adds a health-product governance edge: [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o|VOL.209]] argues that functional-food and supplement claims should first be sorted by product identity, evidence boundary, label contents, applicable population, and professional-care threshold rather than accepted as one generic health category.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o",
+        "FunctionalFoodRegulatoryIdentity",
+        "TargetedSupplementNeedAssessment",
+        "FunctionalFoodMarketingClaimSkepticism",
+        "DietarySupplementRegulation",
+        "SupplementLabelAccuracy",
+        "MedicalRiskManagement"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "early-eastern-han-726-guangwu-correction-discretion-and-wuhuan-office",
       "qualifications": [
         "This claim is source-scoped to Hanji 726 and should be read as a 49 CE governance prelude before Hanji 727.",
@@ -3710,7 +3730,7 @@
       ]
     }
   ],
-  "input_digest": "683f84b93530496f409fef0ce426d2cef191be7edf500ed0a3341ec234385461",
-  "summary": "Hanji 726 now backfills the late Guangwu governance branch to 49 CE: Liu Xiu's initial reaction to Liang Song's posthumous accusation against Ma Yuan is corrected through Zhu Bo's merit-and-fault memorial, Zong Jun's unauthorized Wuling surrender settlement becomes a bounded case of accountable field discretion, and Wuhuan submission is made governable through titles, provisioning, relocation, and Ban Biao's protector-office proposal. Hanji 729 remains the later 52-54 CE governance branch before Hanji 730, where Liu Xiu adopts Ban Biao's calibrated Northern Xiongnu reply and refuses Taishan fengshan because public resentment and flattery make sacred display improper. Hanji 730 continues the personnel and chenwei-fengshan branch, Hanji 731 adds Guangwu-era chenwei speech risk, and Hanji 736-740 remain the Mingdi continuation through royal-kin boundaries, private-retainer risk, forged authority, anti-flattery edicts, empress memory, frontier containment, local capacity, Chu-case coercion, and partial correction.",
+  "input_digest": "d5fdf79ded92d5cbc85290e4208befe884c0783178802750dda754d55b4368d6",
+  "summary": "Hanji 726 now backfills the late Guangwu governance branch to 49 CE: Liu Xiu's initial reaction to Liang Song's posthumous accusation against Ma Yuan is corrected through Zhu Bo's merit-and-fault memorial, Zong Jun's unauthorized Wuling surrender settlement becomes a bounded case of accountable field discretion, and Wuhuan submission is made governable through titles, provisioning, relocation, and Ban Biao's protector-office proposal. Hanji 729 remains the later 52-54 CE governance branch before Hanji 730, where Liu Xiu adopts Ban Biao's calibrated Northern Xiongnu reply and refuses Taishan fengshan because public resentment and flattery make sacred display improper. Hanji 730 continues the personnel and chenwei-fengshan branch, Hanji 731 adds Guangwu-era chenwei speech risk, and Hanji 736-740 remain the Mingdi continuation through royal-kin boundaries, private-retainer risk, forged authority, anti-flattery edicts, empress memory, frontier containment, local capacity, Chu-case coercion, and partial correction. A small health-product governance edge now adds that functional-food and supplement claims require product identity, label evidence, and professional-boundary checks before consumer trust.",
   "topic_id": "governance-and-institutions"
 }

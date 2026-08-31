@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6124
+wiki_total_pages: 6130
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "ElectroHydrostaticRocketServo"
     title: "Electro-Hydrostatic Rocket Servo"
     url: "/wiki/concepts/electrohydrostaticrocketservo/"
+  - key: "ElectrolyteDrinkUseBoundary"
+    title: "Electrolyte Drink Use Boundary / 电解质饮料使用边界"
+    url: "/wiki/concepts/electrolytedrinkuseboundary/"
   - key: "ElectronicDesignAutomation"
     title: "Electronic Design Automation"
     url: "/wiki/concepts/electronicdesignautomation/"

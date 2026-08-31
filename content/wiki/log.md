@@ -14075,6 +14075,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | VOL.209 别为“功能性”上头，你以为的“精准养生”其实越补越糟！聊聊代餐粉、电解质等等
+
+Ingested the 2026-06-23 这病说来话长 episode with 阿汤 and 余婉柔 on functional foods, supplement need assessment, protein powder, electrolyte drinks, fish oil, collagen, meal replacements, nutrition-label reading, and marketing-claim skepticism. Created `YuWanrouFunctionalFoodGuest`, `FunctionalFoodRegulatoryIdentity`, `TargetedSupplementNeedAssessment`, `FunctionalFoodMarketingClaimSkepticism`, `MealReplacementNutritionBoundary`, `ElectrolyteDrinkUseBoundary`, and `FishOilNaturalStatinBoundary`; updated `ZheBingShuoLaiHuaChang`, `Atang`, `PracticalSugarControl`, and `NutritionLabelSugarTraps`. No settled contradiction found; the source-scoped `余婉柔` guest was not merged with `YueWanrou` because the names differ and the ingested evidence does not prove identity.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？
 
 Ingested the 2026-06-23 芮淇讲透资治通鉴 episode on Liu Xiu's 50-51 CE late-Guangwu frontier order: Southern Xiongnu submission, kneeling edict ritual, hostage rotation, material gifts, grain and livestock support, guard forces, border-commandery return and wall repair, Northern Xiongnu heqin refusal, and Liu Xiu's rejection of Zhang Gong and Ma Wu's remote-attack proposal. Created the source note; updated `LiuXiu`, `SouthernXiongnu`, `NorthernXiongnuLateHan`, `FrontierTrustThroughProtection`, `FrontierCommanderyRestoration`, `FrontierRecognitionCredibilityTradeoff`, `FrugalImperialBurialRestraint`, and `ReputationConstrainedWarRestraint`. No settled contradiction found; minor officials, exact office changes, and several chanyu-branch details remain source-scoped.
@@ -14371,6 +14375,10 @@ Ingested the 2026-06-23 芮淇讲透资治通鉴 episode on the 47-48 CE Wuling 
 ## [2026-08-31] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 16,519 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is unset/provider-unqualified and no `OPENAI_API_KEY` or `ANTHROPIC_API_KEY` is configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

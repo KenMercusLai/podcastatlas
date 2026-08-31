@@ -16371,6 +16371,10 @@
     "title": "Electro-Hydrostatic Rocket Servo",
     "url": "/wiki/concepts/electrohydrostaticrocketservo/"
   },
+  "ElectrolyteDrinkUseBoundary": {
+    "title": "Electrolyte Drink Use Boundary / 电解质饮料使用边界",
+    "url": "/wiki/concepts/electrolytedrinkuseboundary/"
+  },
   "ElectronicArts": {
     "title": "Electronic Arts",
     "url": "/wiki/entities/electronicarts/"
@@ -18867,6 +18871,10 @@
     "title": "First Sale Doctrine",
     "url": "/wiki/concepts/firstsaledoctrine/"
   },
+  "FishOilNaturalStatinBoundary": {
+    "title": "Fish Oil Natural Statin Boundary / 鱼油不是天然他汀",
+    "url": "/wiki/concepts/fishoilnaturalstatinboundary/"
+  },
   "FisherNash": {
     "title": "Fisher Nash",
     "url": "/wiki/entities/fishernash/"
@@ -20138,6 +20146,14 @@
   "FunctionalExtinction": {
     "title": "Functional Extinction",
     "url": "/wiki/concepts/functionalextinction/"
+  },
+  "FunctionalFoodMarketingClaimSkepticism": {
+    "title": "Functional Food Marketing Claim Skepticism / 功能食品营销宣称警惕",
+    "url": "/wiki/concepts/functionalfoodmarketingclaimskepticism/"
+  },
+  "FunctionalFoodRegulatoryIdentity": {
+    "title": "Functional Food Regulatory Identity / 功能食品监管身份",
+    "url": "/wiki/concepts/functionalfoodregulatoryidentity/"
   },
   "FundAdvisoryFeeTransparency": {
     "title": "Fund Advisory Fee Transparency / 基金投顾费率透明",
@@ -33762,6 +33778,10 @@
   "McNallyJackson": {
     "title": "McNally Jackson",
     "url": "/wiki/entities/mcnallyjackson/"
+  },
+  "MealReplacementNutritionBoundary": {
+    "title": "Meal Replacement Nutrition Boundary / 代餐营养边界",
+    "url": "/wiki/concepts/mealreplacementnutritionboundary/"
   },
   "MeaningAsEvolvedFunction": {
     "title": "Meaning As Evolved Function / 意义作为进化功能",
@@ -50259,6 +50279,10 @@
     "title": "Target Weight Discipline / 目标权重纪律",
     "url": "/wiki/concepts/targetweightdiscipline/"
   },
+  "TargetedSupplementNeedAssessment": {
+    "title": "Targeted Supplement Need Assessment / 针对性补剂需求判断",
+    "url": "/wiki/concepts/targetedsupplementneedassessment/"
+  },
   "TariffComplianceTest": {
     "title": "Tariff Compliance Test",
     "url": "/wiki/concepts/tariffcompliancetest/"
@@ -57967,6 +57991,10 @@
     "title": "大禹 / Yu the Great",
     "url": "/wiki/entities/yuthegreat/"
   },
+  "YuWanrouFunctionalFoodGuest": {
+    "title": "余婉柔 / Yu Wanrou (functional food guest)",
+    "url": "/wiki/entities/yuwanroufunctionalfoodguest/"
+  },
   "YuWenyuan": {
     "title": "Yu Wenyuan",
     "url": "/wiki/entities/yuwenyuan/"
@@ -63202,6 +63230,10 @@
   "vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1": {
     "title": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等",
     "url": "/wiki/sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1/"
+  },
+  "vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o": {
+    "title": "VOL.209 别为“功能性”上头，你以为的“精准养生”其实越补越糟！聊聊代餐粉、电解质等等",
+    "url": "/wiki/sources/vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o/"
   },
   "vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0": {
     "title": "VOL.210 “我真不是敲颂钵的！”揭秘临床音乐治疗，撕下“玄学疗愈”标签",

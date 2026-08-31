@@ -4,17 +4,29 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-31
-as_of_overview_commit: e44e46d3659cedc490d9f5bb2441cdd16fc04411
-input_digest: 683f84b93530496f409fef0ce426d2cef191be7edf500ed0a3341ec234385461
+as_of_overview_commit: 091331b9022de4cc029868061fb07b76a0ad5ebd
+input_digest: d5fdf79ded92d5cbc85290e4208befe884c0783178802750dda754d55b4368d6
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 726 now backfills the late Guangwu governance branch to 49 CE: Liu Xiu's initial reaction to Liang Song's posthumous accusation against Ma Yuan is corrected through Zhu Bo's merit-and-fault memorial, Zong Jun's unauthorized Wuling surrender settlement becomes a bounded case of accountable field discretion, and Wuhuan submission is made governable through titles, provisioning, relocation, and Ban Biao's protector-office proposal. Hanji 729 remains the later 52-54 CE governance branch before Hanji 730, where Liu Xiu adopts Ban Biao's calibrated Northern Xiongnu reply and refuses Taishan fengshan because public resentment and flattery make sacred display improper. Hanji 730 continues the personnel and chenwei-fengshan branch, Hanji 731 adds Guangwu-era chenwei speech risk, and Hanji 736-740 remain the Mingdi continuation through royal-kin boundaries, private-retainer risk, forged authority, anti-flattery edicts, empress memory, frontier containment, local capacity, Chu-case coercion, and partial correction.
+Hanji 726 now backfills the late Guangwu governance branch to 49 CE: Liu Xiu's initial reaction to Liang Song's posthumous accusation against Ma Yuan is corrected through Zhu Bo's merit-and-fault memorial, Zong Jun's unauthorized Wuling surrender settlement becomes a bounded case of accountable field discretion, and Wuhuan submission is made governable through titles, provisioning, relocation, and Ban Biao's protector-office proposal. Hanji 729 remains the later 52-54 CE governance branch before Hanji 730, where Liu Xiu adopts Ban Biao's calibrated Northern Xiongnu reply and refuses Taishan fengshan because public resentment and flattery make sacred display improper. Hanji 730 continues the personnel and chenwei-fengshan branch, Hanji 731 adds Guangwu-era chenwei speech risk, and Hanji 736-740 remain the Mingdi continuation through royal-kin boundaries, private-retainer risk, forged authority, anti-flattery edicts, empress memory, frontier containment, local capacity, Chu-case coercion, and partial correction. A small health-product governance edge now adds that functional-food and supplement claims require product identity, label evidence, and professional-boundary checks before consumer trust.
 
 ## Cross-source Findings
+
+### Functional Food Claims Need Product Identity Governance
+
+[[FunctionalFoodRegulatoryIdentity]] adds a health-product governance edge: [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o|VOL.209]] argues that functional-food and supplement claims should first be sorted by product identity, evidence boundary, label contents, applicable population, and professional-care threshold rather than accepted as one generic health category.
+
+**Evidence:** [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o]], [[FunctionalFoodRegulatoryIdentity]], [[TargetedSupplementNeedAssessment]], [[FunctionalFoodMarketingClaimSkepticism]], [[DietarySupplementRegulation]], [[SupplementLabelAccuracy]], [[MedicalRiskManagement]]
+
+**Qualifications:**
+
+- This is a source-scoped consumer-governance edge from a nutrition podcast, not a jurisdiction-complete regulatory survey.
+- The episode names regulatory and market categories but does not independently compare all Chinese, U.S., or international food and supplement regimes.
+- Product examples remain public education rather than individualized medical, nutrition, or legal guidance.
 
 ### Early Eastern Han 726 Guangwu Correction Discretion And Wuhuan Office
 

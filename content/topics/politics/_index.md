@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2118
+topic_total_pages: 2119
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1171,6 +1171,9 @@ topic_concepts:
   - key: "FullFunnelCivicTechnology"
     title: "Full-Funnel Civic Technology"
     url: "/wiki/concepts/fullfunnelcivictechnology/"
+  - key: "FunctionalFoodRegulatoryIdentity"
+    title: "Functional Food Regulatory Identity / 功能食品监管身份"
+    url: "/wiki/concepts/functionalfoodregulatoryidentity/"
   - key: "FundholderMutualOwnership"
     title: "Fundholder Mutual Ownership"
     url: "/wiki/concepts/fundholdermutualownership/"
