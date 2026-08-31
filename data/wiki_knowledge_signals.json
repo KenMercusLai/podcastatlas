@@ -2365,9 +2365,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -2487,9 +2487,16 @@
           "show": "Huberman Lab",
           "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
           "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
+        },
+        {
+          "episode_file": "SCIM7693897484 [SCIM7693897484].md",
+          "key": "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrogenInterventionClinicalBoundary": {
@@ -3898,6 +3905,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/basicresearchbreakthroughlatency/"
+    },
+    "BattlefieldFeintAndLure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
+          "key": "zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/battlefieldfeintandlure/"
     },
     "BedroomHomestayPlatformTrust": {
       "episode_count": 1,
@@ -7768,6 +7791,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/courtwomenhistoriography/"
+    },
+    "CreatineMonohydrateEvidence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7693897484 [SCIM7693897484].md",
+          "key": "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/creatinemonohydrateevidence/"
     },
     "CreativeApertureShift": {
       "episode_count": 1,
@@ -12643,6 +12682,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/energyabundanceclimatestrategy/"
     },
+    "EnergyBalanceAccounting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7693897484 [SCIM7693897484].md",
+          "key": "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/energybalanceaccounting/"
+    },
     "EnterpriseAIPilotPurgatory": {
       "episode_count": 6,
       "show_count": 3,
@@ -14144,9 +14199,9 @@
       "url": "/wiki/concepts/flowclutchlearningdistinction/"
     },
     "FoodPleasureEngineering": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -14154,9 +14209,16 @@
           "show": "这病说来话长",
           "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
           "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        },
+        {
+          "episode_file": "SCIM7693897484 [SCIM7693897484].md",
+          "key": "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/foodpleasureengineering/"
     },
     "ForceBackedSurrenderPersuasion": {
@@ -14405,6 +14467,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/founderpitchevidencefit/"
+    },
+    "FoundingCommanderSuspicionManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
+          "key": "zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/foundingcommandersuspicionmanagement/"
     },
     "FoundingFatherReputationRevision": {
       "episode_count": 1,
@@ -15524,6 +15602,38 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/genggongeasternhan/"
     },
+    "GengGuoEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
+          "key": "zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/gengguoeasternhan/"
+    },
+    "GengKuangEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
+          "key": "zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/gengkuangeasternhan/"
+    },
     "GengKuiLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -15553,6 +15663,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/gengkuilatehan/"
+    },
+    "GengYanEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
+          "key": "zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/gengyaneasternhan/"
     },
     "GeometricUnity": {
       "episode_count": 1,
@@ -18534,9 +18660,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -18656,9 +18782,16 @@
           "show": "Huberman Lab",
           "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
           "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
+        },
+        {
+          "episode_file": "SCIM7693897484 [SCIM7693897484].md",
+          "key": "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/hubermanlab/"
     },
     "HumanCenteredAIAugmentation": {
@@ -21882,6 +22015,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/latentrivalrecognition/"
     },
+    "LayneNorton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7693897484 [SCIM7693897484].md",
+          "key": "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/laynenorton/"
+    },
     "LeHuiEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -23119,9 +23268,9 @@
       "url": "/wiki/concepts/licensedsyntheticvoicemarketplace/"
     },
     "LifestyleWeightManagement": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "llat_ySKrqmRO0KdJWUOegDCAlU5 [llat_ySKrqmRO0KdJWUOegDCAlU5].md",
@@ -23136,9 +23285,16 @@
           "show": "这病说来话长",
           "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
           "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        },
+        {
+          "episode_file": "SCIM7693897484 [SCIM7693897484].md",
+          "key": "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/lifestyleweightmanagement/"
     },
     "LightTouchFrontierGovernance": {
@@ -24043,6 +24199,50 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/liuxiaolatehan/"
+    },
+    "LiuXiu": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
+          "key": "zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》899丨好清斗贪官",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？ [lgXCODJxnAOZvYEgxQUrgZjI5gUs].md",
+          "key": "zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus/"
+        },
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集） [704051550].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
+          "key": "zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/liuxiu/"
     },
     "LiuXunLateHan": {
       "episode_count": 4,
@@ -27919,6 +28119,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/multimodaladultneuroplasticity/"
     },
+    "MuscleAsLongevityInfrastructure": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "中年三账户：现金流、肌肉、睡眠 [lnyOmrU5v2YZO1-oTUyw2MDJ_VaE].md",
+          "key": "zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae",
+          "show": "面基",
+          "title": "中年三账户：现金流、肌肉、睡眠",
+          "url": "/wiki/sources/zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae/"
+        },
+        {
+          "episode_file": "SCIM7693897484 [SCIM7693897484].md",
+          "key": "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/muscleaslongevityinfrastructure/"
+    },
     "MusicBasedEmotionRegulation": {
       "episode_count": 1,
       "show_count": 1,
@@ -30362,6 +30585,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/penelope/"
     },
+    "PengChongEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
+          "key": "zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/pengchongeasternhan/"
+    },
     "PengLeiHuawei": {
       "episode_count": 1,
       "show_count": 1,
@@ -31000,6 +31239,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/powercenterproximityadvantage/"
     },
+    "PowerCompletionRetreat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
+          "key": "zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/powercompletionretreat/"
+    },
     "PowerDesireSelfRestraint": {
       "episode_count": 2,
       "show_count": 1,
@@ -31553,6 +31808,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/prospectivememory/"
+    },
+    "ProteinBodyCompositionLever": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7693897484 [SCIM7693897484].md",
+          "key": "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/proteinbodycompositionlever/"
     },
     "ProvisionalIRA": {
       "episode_count": 2,
@@ -34400,6 +34671,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/secondopinionstrategy/"
+    },
+    "SeedOilEvidenceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7693897484 [SCIM7693897484].md",
+          "key": "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/seedoilevidenceboundary/"
     },
     "SeemaSanghavi": {
       "episode_count": 1,
@@ -37398,9 +37685,9 @@
       "url": "/wiki/concepts/suspiciondrivenelitealienation/"
     },
     "SustainableHealthOptimization": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -37415,15 +37702,22 @@
           "show": "Huberman Lab",
           "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
           "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
+        },
+        {
+          "episode_file": "SCIM7693897484 [SCIM7693897484].md",
+          "key": "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/sustainablehealthoptimization/"
     },
     "SweetenerUncertainty": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -37431,9 +37725,16 @@
           "show": "这病说来话长",
           "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
           "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        },
+        {
+          "episode_file": "SCIM7693897484 [SCIM7693897484].md",
+          "key": "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/sweeteneruncertainty/"
     },
     "SylviaBeach": {
@@ -40534,6 +40835,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/wangkanglatehan/"
     },
+    "WangLangHebeiClaimant": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
+          "key": "zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/wanglanghebeiclaimant/"
+    },
     "WangMiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -41509,6 +41826,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/wudaolatehan/"
+    },
+    "WuHanEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
+          "key": "zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/wuhaneasternhan/"
     },
     "WuLaoshiSanlianEditor": {
       "episode_count": 1,
@@ -44892,6 +45225,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhangbailulatehan/"
+    },
+    "ZhangBuEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
+          "key": "zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/zhangbueasternhan/"
     },
     "ZhangChangNanyangLateHan": {
       "episode_count": 1,

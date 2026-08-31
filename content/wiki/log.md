@@ -14063,6 +14063,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton
+
+Ingested the 2026-06-25 Huberman Lab Essentials episode with Layne Norton on nutrition and body composition: energy-balance accounting, weekly-average weight tracking, protein as a satiety and lean-mass lever, plant-based protein planning, ultra-processed-food overconsumption, non-nutritive sweetener substitution, seed-oil evidence boundaries, creatine monohydrate dosing and healthy-person safety, and hard training over hacks. Created the source note plus `LayneNorton`, `EnergyBalanceAccounting`, `ProteinBodyCompositionLever`, `SeedOilEvidenceBoundary`, and `CreatineMonohydrateEvidence`; updated `HubermanLab`, `AndrewHuberman`, `LifestyleWeightManagement`, `SweetenerUncertainty`, `FoodPleasureEngineering`, `SustainableHealthOptimization`, `MuscleAsLongevityInfrastructure`, `index`, and `overview`. No settled contradiction found; protein targets, creatine dosing, sweetener benefits, seed-oil interpretation, and body-composition advice remain source-scoped public education rather than individualized medical or coaching guidance.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》733-3丨句句皆是千古名言！淇姐劝你一定要读！
 
 Ingested the 2026-06-25 芮淇讲透资治通鉴 episode reading 《寒窑赋》 as a compact fate, timing, life-course reversal, and self-possession text attributed to 吕蒙正. Created the source note plus `HanyaoFu`, `LyuMengzheng`, and `FateTimingExternalConditions`; migrated `FortuneMisfortuneReversal` to synthesis-v1 with the new source appended; updated `index`, `overview`, and downstream synthesis inputs. No settled contradiction found; the transcript forms 韩遥赋, 破遥赋, and 吕蒙政 are normalized cautiously while title history, attribution, and metaphysical claims remain source-scoped.
@@ -14230,6 +14234,18 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-31] ingest | 《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军
+
+Ingested the 2026-06-25 芮淇讲透资治通鉴 episode on Geng Yan as an Eastern Han founding general: his Liu Xiu alignment, Youzhou cavalry role, refusal of Peng Chong's pull, suspicion-management signal through Geng Guo, Qinghe and Qi tactical deception, later Longyou support, and post-merit command retreat. Created the source note plus `GengYanEasternHan`, `GengKuangEasternHan`, `GengGuoEasternHan`, `WuHanEasternHan`, `PengChongEasternHan`, `WangLangHebeiClaimant`, `ZhangBuEasternHan`, `FoundingCommanderSuspicionManagement`, `BattlefieldFeintAndLure`, and `PowerCompletionRetreat`; migrated `LiuXiu` to synthesis-v1. No settled contradiction found; Wang Lang is distinguished from Wang Lang (late Han), and minor Qinghe/Qi names, figures, and host growth readings remain source-scoped.
 
 ## [2026-08-31] lint | Wiki health check
 

@@ -451,14 +451,14 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-08-27",
       "latest_episode_file": "SCIM2465421786 [SCIM2465421786].md",
-      "source_note_count": 18,
-      "topic_matched_source_note_count": 14,
+      "source_note_count": 19,
+      "topic_matched_source_note_count": 15,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 13
+          "source_note_count": 14
         },
         {
           "key": "culture",
@@ -485,7 +485,7 @@
           "title": "Andrew Huberman",
           "url": "/wiki/entities/andrewhuberman/",
           "kind": "person",
-          "episode_count": 17
+          "episode_count": 18
         }
       ],
       "start_here_episode_files": [
@@ -2432,7 +2432,7 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-08-29",
       "latest_episode_file": "《资治通鉴·汉纪》1060丨害死袁绍后，曹操为何转头支援他的长子？ [lldKbBzF8dmY21oTBtqIHc_OAFX7].md",
-      "source_note_count": 631,
+      "source_note_count": 632,
       "topic_matched_source_note_count": 290,
       "topics": [
         {

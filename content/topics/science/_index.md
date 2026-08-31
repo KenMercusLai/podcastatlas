@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 848
+topic_total_pages: 849
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2454,6 +2454,9 @@ topic_sources:
   - key: "essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647"
     title: "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)"
     url: "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+  - key: "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484"
+    title: "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton"
+    url: "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
   - key: "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415"
     title: "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett"
     url: "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"

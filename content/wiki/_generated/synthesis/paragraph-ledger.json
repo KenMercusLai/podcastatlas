@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "841684bf4eae908daccc2a6e679b9d575732db0c38a70b9d0ff2fd3c721edcf7",
       "014f4592e0aed54117e20c9725eb4fd6136cc5dfb66a786b35b13035e868ab46",
       "95f9ae3aed5123bf49c59a2515065ceaafb0b3eea65c7aa8e9afdfcc2056ba57",
       "2bf659c39682f4c176550216929e8417c558421e22fb2fa621f5b6890e7c9c3b",
@@ -435,13 +436,46 @@
       "b2b5ffa7a782b917b85277e5735cccd93b428a604bf09eed2e56f26af253df34",
       "12c2b57062376e50f472c6806ecb08714733b065e8db5d2b809f05f83d802f96",
       "2231d7cf4c1cf8ae29ee2ec0737334356ddcd78d5df4e6b306dab83b98b3febe",
-      "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b"
+      "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
+      "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0"
     ],
-    "paragraph_count": 435
+    "paragraph_count": 437
   },
-  "overview_commit": "43f900689adbad3361ccf60354ca64281d2186db",
-  "overview_digest": "e4b2fc6b954b2c91244d22858ffab503b25d9fd50d29a6da8fb8207b9fd23aae",
+  "overview_commit": "308844e1fc126ab4cdfb738edf0a1a9014b0b48f",
+  "overview_digest": "e6e0005afe6f9a50d709c976ad77df412c602e6a86b87e7cebd07f61d9813947",
   "paragraphs": [
+    {
+      "id": "841684bf4eae908daccc2a6e679b9d575732db0c38a70b9d0ff2fd3c721edcf7",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the Guangwu founding layer before [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|Hanji 733-3]] and the Yongping sequence beginning in [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|Hanji 734]]. It adds [[GengYanEasternHan|耿弇]], [[GengKuangEasternHan|耿况]], [[GengGuoEasternHan|耿国]], [[WuHanEasternHan|吴汉]], [[PengChongEasternHan|彭宠]], [[WangLangHebeiClaimant|王郎]], [[ZhangBuEasternHan|张步]], [[FoundingCommanderSuspicionManagement|建国将领消疑]], [[BattlefieldFeintAndLure|声东击西与诱敌]], and [[PowerCompletionRetreat|功成退让]], while extending [[LiuXiu|刘秀 / 光武帝]], [[GengGongEasternHan|耿恭]], and [[Linzi|临淄]]. Its core synthesis is that early Eastern Han founding order depends on commanders who combine family military resources, correct alignment, tactical deception, and trust management: Geng Yan secures Youzhou cavalry for Liu Xiu, refuses Peng Chong's pull, uses feints and lure tactics against Qinghe/Qi opponents, and later returns high command after merit is complete. No settled contradiction is recorded; Wang Lang is kept distinct from [[WangLangLateHan|王朗]], and Qinghe/Qi battlefield minor names, city counts, and host-evaluative growth lessons remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BattlefieldFeintAndLure",
+        "FoundingCommanderSuspicionManagement",
+        "GengGongEasternHan",
+        "GengGuoEasternHan",
+        "GengKuangEasternHan",
+        "GengYanEasternHan",
+        "Linzi",
+        "LiuXiu",
+        "PengChongEasternHan",
+        "PowerCompletionRetreat",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangLangHebeiClaimant",
+        "WangLangLateHan",
+        "WuHanEasternHan",
+        "ZhangBuEasternHan",
+        "zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh",
+        "zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey",
+        "zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9"
+      ]
+    },
     {
       "id": "014f4592e0aed54117e20c9725eb4fd6136cc5dfb66a786b35b13035e868ab46",
       "primary_topic": "history-and-geopolitics",
@@ -13414,6 +13448,31 @@
         "UniversityOfColoradoDenver",
         "WorkplaceAIReadinessGap",
         "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success"
+      ]
+    },
+    {
+      "id": "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484|Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton]], a [[HubermanLab]] Essentials episode with [[AndrewHuberman]] and [[LayneNorton]] on nutrition, body composition, and fitness. It adds [[LayneNorton]], [[EnergyBalanceAccounting]], [[ProteinBodyCompositionLever]], [[SeedOilEvidenceBoundary]], and [[CreatineMonohydrateEvidence]], while extending [[HubermanLab]], [[AndrewHuberman]], [[LifestyleWeightManagement]], [[SustainableHealthOptimization]], [[FoodPleasureEngineering]], [[SweetenerUncertainty]], and [[MuscleAsLongevityInfrastructure]]. Its core synthesis is that weight and body composition are governed by high-leverage fundamentals rather than isolated nutrient panic: calories matter but are noisy to measure, protein and minimally processed foods improve practical adherence, sweeteners are best judged by what they replace, seed-oil claims need human evidence and calorie context, creatine monohydrate is a comparatively strong supplement case for healthy people, and hard training still outranks optimization minutiae. No settled contradiction is recorded; protein targets, creatine dosing, sweetener benefits, seed-oil interpretation, and body-composition advice remain source-scoped public education rather than individualized medical or coaching guidance.",
+      "topic_scores": {
+        "science-health-and-climate": 4,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "CreatineMonohydrateEvidence",
+        "EnergyBalanceAccounting",
+        "FoodPleasureEngineering",
+        "HubermanLab",
+        "LayneNorton",
+        "LifestyleWeightManagement",
+        "MuscleAsLongevityInfrastructure",
+        "ProteinBodyCompositionLever",
+        "SeedOilEvidenceBoundary",
+        "SustainableHealthOptimization",
+        "SweetenerUncertainty",
+        "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484"
       ]
     }
   ],

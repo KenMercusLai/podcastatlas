@@ -6423,6 +6423,10 @@
     "title": "Battlefield Encirclement Logistics / 战场围困与断粮",
     "url": "/wiki/concepts/battlefieldencirclementlogistics/"
   },
+  "BattlefieldFeintAndLure": {
+    "title": "Battlefield Feint And Lure / 声东击西与诱敌",
+    "url": "/wiki/concepts/battlefieldfeintandlure/"
+  },
   "BattlefieldInformationControl": {
     "title": "Battlefield Information Control / 战场信息控制",
     "url": "/wiki/concepts/battlefieldinformationcontrol/"
@@ -12487,6 +12491,10 @@
     "title": "CreateWise",
     "url": "/wiki/entities/createwise/"
   },
+  "CreatineMonohydrateEvidence": {
+    "title": "Creatine Monohydrate Evidence",
+    "url": "/wiki/concepts/creatinemonohydrateevidence/"
+  },
   "CreationAsConsumption": {
     "title": "Creation As Consumption",
     "url": "/wiki/concepts/creationasconsumption/"
@@ -16751,6 +16759,10 @@
     "title": "Energy Abundance Climate Strategy",
     "url": "/wiki/concepts/energyabundanceclimatestrategy/"
   },
+  "EnergyBalanceAccounting": {
+    "title": "Energy Balance Accounting",
+    "url": "/wiki/concepts/energybalanceaccounting/"
+  },
   "EnergyDrinkYouthRegulation": {
     "title": "Energy Drink Youth Regulation",
     "url": "/wiki/concepts/energydrinkyouthregulation/"
@@ -19499,6 +19511,10 @@
     "title": "Founders Fund",
     "url": "/wiki/entities/foundersfund/"
   },
+  "FoundingCommanderSuspicionManagement": {
+    "title": "Founding Commander Suspicion Management / 建国将领消疑",
+    "url": "/wiki/concepts/foundingcommandersuspicionmanagement/"
+  },
   "FoundingFatherReputationRevision": {
     "title": "Founding Father Reputation Revision",
     "url": "/wiki/concepts/foundingfatherreputationrevision/"
@@ -20751,6 +20767,14 @@
     "title": "耿恭 / Geng Gong (Eastern Han)",
     "url": "/wiki/entities/genggongeasternhan/"
   },
+  "GengGuoEasternHan": {
+    "title": "耿国 / Geng Guo (Eastern Han)",
+    "url": "/wiki/entities/gengguoeasternhan/"
+  },
+  "GengKuangEasternHan": {
+    "title": "耿况 / Geng Kuang (Eastern Han)",
+    "url": "/wiki/entities/gengkuangeasternhan/"
+  },
   "GengKuiLateHan": {
     "title": "耿夔 / Geng Kui (late Han)",
     "url": "/wiki/entities/gengkuilatehan/"
@@ -20758,6 +20782,10 @@
   "GengWuLateHan": {
     "title": "耿武 / Geng Wu (late Han)",
     "url": "/wiki/entities/gengwulatehan/"
+  },
+  "GengYanEasternHan": {
+    "title": "耿弇 / Geng Yan (Eastern Han)",
+    "url": "/wiki/entities/gengyaneasternhan/"
   },
   "GenghisKhan": {
     "title": "成吉思汗 / Genghis Khan",
@@ -29542,6 +29570,10 @@
   "LayeredRobotArchitecture": {
     "title": "Layered Robot Architecture",
     "url": "/wiki/concepts/layeredrobotarchitecture/"
+  },
+  "LayneNorton": {
+    "title": "Layne Norton",
+    "url": "/wiki/entities/laynenorton/"
   },
   "LayoffBuffer": {
     "title": "Layoff Buffer",
@@ -39031,6 +39063,10 @@
     "title": "Penelope",
     "url": "/wiki/entities/penelope/"
   },
+  "PengChongEasternHan": {
+    "title": "彭宠 / Peng Chong (Eastern Han)",
+    "url": "/wiki/entities/pengchongeasternhan/"
+  },
   "PengLeiHuawei": {
     "title": "Peng Lei / 彭磊",
     "url": "/wiki/entities/pengleihuawei/"
@@ -40399,6 +40435,10 @@
     "title": "权力中心接近优势 / Power Center Proximity Advantage",
     "url": "/wiki/concepts/powercenterproximityadvantage/"
   },
+  "PowerCompletionRetreat": {
+    "title": "Power Completion Retreat / 功成退让",
+    "url": "/wiki/concepts/powercompletionretreat/"
+  },
   "PowerDesireSelfRestraint": {
     "title": "权力欲自律 / Power Desire Self-Restraint",
     "url": "/wiki/concepts/powerdesireselfrestraint/"
@@ -41202,6 +41242,10 @@
   "ProtectorCaptorAmbiguity": {
     "title": "Protector-Captor Ambiguity / 护驾与挟持模糊性",
     "url": "/wiki/concepts/protectorcaptorambiguity/"
+  },
+  "ProteinBodyCompositionLever": {
+    "title": "Protein Body-Composition Lever",
+    "url": "/wiki/concepts/proteinbodycompositionlever/"
   },
   "ProtestantHeroicMartyrdom": {
     "title": "Protestant Heroic Martyrdom",
@@ -45430,6 +45474,10 @@
   "SecurityFirstSupplyChainLogic": {
     "title": "Security-First Supply Chain Logic / 安全优先供应链逻辑",
     "url": "/wiki/concepts/securityfirstsupplychainlogic/"
+  },
+  "SeedOilEvidenceBoundary": {
+    "title": "Seed-Oil Evidence Boundary",
+    "url": "/wiki/concepts/seedoilevidenceboundary/"
   },
   "Seedance": {
     "title": "Seedance",
@@ -53795,6 +53843,10 @@
     "title": "Wang Laichun",
     "url": "/wiki/entities/wanglaichun/"
   },
+  "WangLangHebeiClaimant": {
+    "title": "王郎 / Wang Lang (Hebei Claimant)",
+    "url": "/wiki/entities/wanglanghebeiclaimant/"
+  },
   "WangLangLateHan": {
     "title": "王朗 / Wang Lang (late Han)",
     "url": "/wiki/entities/wanglanglatehan/"
@@ -55354,6 +55406,10 @@
   "WuHai": {
     "title": "Wu Hai",
     "url": "/wiki/entities/wuhai/"
+  },
+  "WuHanEasternHan": {
+    "title": "吴汉 / Wu Han (Eastern Han)",
+    "url": "/wiki/entities/wuhaneasternhan/"
   },
   "WuJingLateHan": {
     "title": "吴景 / Wu Jing (late Han)",
@@ -58110,6 +58166,10 @@
   "ZhangBohouJerry": {
     "title": "张伯后 / Jerry",
     "url": "/wiki/entities/zhangbohoujerry/"
+  },
+  "ZhangBuEasternHan": {
+    "title": "张步 / Zhang Bu (Eastern Han)",
+    "url": "/wiki/entities/zhangbueasternhan/"
   },
   "ZhangChangNanyangLateHan": {
     "title": "张厂 / Zhang Chang (Nanyang, late Han)",
@@ -61043,6 +61103,10 @@
     "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
     "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
   },
+  "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484": {
+    "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+    "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+  },
   "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371": {
     "title": "Essentials: The Science & Treatment of Bipolar Disorder",
     "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
@@ -63750,6 +63814,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh": {
+    "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
   },
   "zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey": {
     "title": "《资治通鉴·汉纪》733-3丨句句皆是千古名言！淇姐劝你一定要读！",

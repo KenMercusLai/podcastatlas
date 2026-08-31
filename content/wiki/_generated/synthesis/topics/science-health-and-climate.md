@@ -3,16 +3,16 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-08-30
-as_of_overview_commit: 09178896eedac2d58454aebbe403df7aecc67356
-input_digest: 19813c74e4971728e0cb8ec7ed4cc3192a0ac5ca258303f5347b8d3ec369a4ec
+last_updated: 2026-08-31
+as_of_overview_commit: 308844e1fc126ab4cdfb738edf0a1a9014b0b48f
+input_digest: a44a3a564ec0999bf9082a366d73f339c0839f47143c41cc61568bb9bd102ca4
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science-health-and-climate now joins practical health literacy, medicine, animal welfare, climate and space infrastructure, and biomedical governance through a common boundary theme: measurement, mechanism, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Recent health branches cover sugar-control literacy; flexible fundamentals for sleep, circadian timing, recovery, and fertility; male and female hormone phenotyping; exercise-risk boundaries; diagnostic safety netting; spine rehabilitation; metabolic psychiatry; bipolar and OCD care; insect-bite prevention and escalation; individualized cancer vaccines; and companion-animal welfare. The nonclinical strands show the same pattern in space launch, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, and source-scoped medical or cultivation claims. The male-hormone episode adds that testosterone, SHBG/free testosterone, DHT, IGF-1, supplements, TRT, clomiphene, tadalafil, alcohol, fertility, and hair-loss interventions should be read through age, lifestyle, dose, product quality, side effects, and clinician supervision rather than a single testosterone target.
+Science-health-and-climate now joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, and nutrition/body-composition coaching through a common boundary theme: measurement, mechanism, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Recent health branches cover sugar-control literacy; flexible fundamentals for sleep, circadian timing, recovery, fertility, and nutrition; male and female hormone phenotyping; exercise-risk boundaries; diagnostic safety netting; spine rehabilitation; metabolic psychiatry; bipolar and OCD care; insect-bite prevention and escalation; individualized cancer vaccines; companion-animal welfare; and evidence-bounded body-composition fundamentals. The nonclinical strands show the same pattern in space launch, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, and source-scoped medical or cultivation claims. The Norton nutrition episode adds that weight and body composition should be read through noisy energy accounting, protein adequacy, food processing, substitution context, seed-oil human evidence, creatine tolerance, and hard training rather than isolated nutrient panic.
 
 ## Cross-source Findings
 
@@ -261,3 +261,15 @@ Science-and-health policy now adds a trust-and-productivity branch: [[NewGoldenA
 - The episode is public hormone-health education, not individualized endocrine, fertility, dermatology, cardiology, supplement, or prescribing guidance.
 - TRT, clomiphene, tadalafil, finasteride/minoxidil topicals, alcohol reduction, and fertility tradeoffs remain clinician-contextual rather than self-directed protocols.
 - Supplement dosing and product-quality claims remain source-scoped and depend on baseline status, age, goals, adverse effects, third-party testing, and broader lifestyle fundamentals.
+
+### Body Composition Nutrition Needs Accounting And Evidence Boundaries
+
+[[EnergyBalanceAccounting]], [[ProteinBodyCompositionLever]], [[FoodPleasureEngineering]], [[SweetenerUncertainty]], [[SeedOilEvidenceBoundary]], [[CreatineMonohydrateEvidence]], and [[MuscleAsLongevityInfrastructure]] make body composition an evidence-bounded fundamentals problem: calories matter but are noisy to estimate, protein and minimally processed foods improve satiety and lean-mass support, sweeteners should be judged by what they replace, seed-oil panic needs human evidence and calorie context, creatine monohydrate is a comparatively strong healthy-person supplement case, and hard training still outranks optimization minutiae.
+
+**Evidence:** [[essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484]], [[LayneNorton]], [[EnergyBalanceAccounting]], [[ProteinBodyCompositionLever]], [[FoodPleasureEngineering]], [[SweetenerUncertainty]], [[SeedOilEvidenceBoundary]], [[CreatineMonohydrateEvidence]], [[MuscleAsLongevityInfrastructure]], [[LifestyleWeightManagement]], [[SustainableHealthOptimization]], [[HubermanLab]], [[AndrewHuberman]]
+
+**Qualifications:**
+
+- The episode is public health, nutrition, supplement, and fitness education rather than individualized medical, dietetic, or coaching advice.
+- Calorie targets, protein targets, creatine dosing, sweetener substitution, seed-oil interpretation, and training choices depend on clinical history, goals, tolerance, product quality, and real adherence.
+- Seed-oil, sweetener, ultra-processed-food, and supplement claims remain source-scoped and should be judged by human evidence, replacement context, total energy intake, and diet quality.

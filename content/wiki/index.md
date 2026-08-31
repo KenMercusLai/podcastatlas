@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军](sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh.md) — 芮淇讲透资治通鉴 episode on Geng Yan's Eastern Han founding career, Liu Xiu alignment, Youzhou cavalry, Peng Chong suspicion management, Qinghe/Qi campaign tactics, and post-merit retreat.
 - [《资治通鉴·汉纪》733-3丨句句皆是千古名言！淇姐劝你一定要读！](sources/zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey.md) — 芮淇讲透资治通鉴 episode reading 《寒窑赋》 as a fate, timing, life-course reversal, and self-possession text attributed to 吕蒙正.
 - [EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success](sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success.md) — Data Science With Sam episode with Sumayya Shravani on institutional trust, outsider diagnostic skill, cognitive diversity, and behavior-based enterprise AI adoption signals.
 - [《资治通鉴·汉纪》734丨桓荣成大儒，因为明帝是个好捧哏？](sources/zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9.md) — 芮淇讲透资治通鉴 episode on Mingdi's public honoring of Huan Rong through Biyong and Taichang teacher protocol, elder-care ritual, sickbed and funeral honors, royal-kin favor, Dou/Yin elite discipline, and Five Suburban seasonal rites.
@@ -1782,6 +1783,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [从QQ会员到豆包包月，中国人为什么总觉得软件该免费](sources/cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun.md) — Podcast episode on Doubao membership, Chinese software payment culture, AI inference costs, and subscription economics.
 - [阿里千问离职余震，在几万人的铁球里如何体面生存](sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md) — Podcast episode on Qwen, open-source model strategy, large-company organization, star talent, and AI-era professional judgment.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
+- [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
 - [《寒窑赋》 / Hanyao Fu](entities/HanyaoFu.md) — Attributed admonitory text used by Hanji 733-3 to frame fate, timing, reversals of fortune, and conduct in poverty or success.
@@ -2237,8 +2239,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity, emotion science, hormone health, AI, immunology, leadership, health Q&A, meditation, adult learning, psychiatry, dog psychology, and movement practice.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions, solo Essentials episodes, and listener Q&A on nutrition, motivation, attention, emotion, AI, hormone health, immunology, leadership, health routines, meditation, adult learning, psychiatry, dog psychology, and movement practice.
+- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity, emotion science, hormone health, AI, immunology, leadership, health Q&A, meditation, adult learning, psychiatry, dog psychology, movement practice, and body composition.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions, solo Essentials episodes, and listener Q&A on nutrition, motivation, attention, emotion, AI, hormone health, immunology, leadership, health routines, meditation, adult learning, psychiatry, dog psychology, movement practice, and body composition.
 - [Ido Portal](entities/IdoPortal.md) — Huberman Lab guest framing movement as awareness practice, will as resistance-facing exposure, bodily resolution, play, body schema, and everyday practice.
 - [Cesar Millan](entities/CesarMillan.md) — Dog-behavior expert whose Huberman Lab interview frames dog care through calm human state, species needs, structured rituals, and correctly timed affection.
 - [Kyle Gillett](entities/KyleGillett.md) — Physician and Huberman Lab guest explaining male hormone phenotyping, lifestyle foundations, fertility risk, supplement boundaries, and supervised androgen interventions.
@@ -6917,6 +6919,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe Shields](entities/JoeShields.md) — Cartoonist and Psycho Chihuahua collaborator involved with Tom Rinks in the Taco Bell campaign dispute.
 - [Taco Bell](entities/TacoBell.md) — Fast-food company in the episode's Chihuahua advertising dispute with Tom Rinks and Joe Shields.
 - [SC Johnson](entities/SCJohnson.md) — Consumer-products acquirer of Sun Bum, framed as the partner needed for global manufacturing and sunscreen regulatory scale.
+- [Layne Norton](entities/LayneNorton.md) — Nutrition and fitness guest explaining energy-balance complexity, protein/body composition, sweetener substitution, seed-oil evidence boundaries, creatine monohydrate, and hard training.
 - [Adam Francis](entities/AdamFrancis.md) — Sun Bum CEO brought in to handle margins, scalability, production, and financial management beyond Tom Rinks's brand-building strengths.
 - [Michael LaSara](entities/MichaelLaSara.md) — Independent sales rep credited by Tom Rinks as crucial to Sun Bum's early field sales and sticker/display rollout.
 - [Made by Dentists](entities/MadeByDentists.md) — Oral-care brand Tom Rinks later redesigned for the U.S. with memorable kids' toothpaste positioning.
@@ -7118,7 +7121,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose failure during the succession crisis opened the way for Wang Zhengjun and Wang Mang.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated by Wang Mang, whose illness and death preceded Wang Mang's move into acting-emperor status.
 - [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now spans anti-Qin rise, Chu-Han victory, reward settlement, frontier suspicion, and court ritual repair.
-- [Liu Xiu / 刘秀](entities/LiuXiu.md) — Liu restoration figure contrasted with Wang Mang through Kunyang and later control of prophecy interpretation.
+- [Liu Xiu / 刘秀](entities/LiuXiu.md) — Eastern Han founder synthesized through restoration warfare, prophecy control, founding coalition command, hostage deterrence, and later Guangwu ritual memory.
+- [耿弇 / Geng Yan (Eastern Han)](entities/GengYanEasternHan.md) — Eastern Han founding general whose Liu Xiu alignment, Youzhou cavalry role, campaign tactics, and post-merit retreat anchor Hanji 733-2.
+- [吴汉 / Wu Han (Eastern Han)](entities/WuHanEasternHan.md) — Liu Xiu founding general linked to Geng Yan in Youzhou recruitment and Qinghe operations.
+- [耿况 / Geng Kuang (Eastern Han)](entities/GengKuangEasternHan.md) — Geng Yan's father and northern military-family power broker behind the Youzhou cavalry alignment.
+- [耿国 / Geng Guo (Eastern Han)](entities/GengGuoEasternHan.md) — Geng-family court-service figure used as a loyalty signal during the Peng Chong rebellion.
+- [彭宠 / Peng Chong (Eastern Han)](entities/PengChongEasternHan.md) — Former Liu Xiu-side actor whose rebellion tests Geng-family loyalty and founding-coalition trust.
+- [王郎 / Wang Lang (Hebei Claimant)](entities/WangLangHebeiClaimant.md) — Hebei claimant whose uprising redirects Geng Yan toward Liu Xiu, kept distinct from late-Han Wang Lang.
+- [张步 / Zhang Bu (Eastern Han)](entities/ZhangBuEasternHan.md) — Qi-region adversary whose defeat illustrates Geng Yan's feint, lure, and consolidation tactics.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's success exposed the gap between Xin grandeur and political-military capacity.
 - [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Popular uprising named by episode 126 as part of the social collapse under Wang Mang.
 - [Lulin / 绿林](entities/LulinRebellion.md) — Uprising force that enters Chang'an and frames the episode's narration of Wang Mang's death.
@@ -10339,6 +10349,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Founding Commander Suspicion Management / 建国将领消疑](concepts/FoundingCommanderSuspicionManagement.md) — Founding-state trust pattern where powerful military families make loyalty credible before local force becomes rebellion risk.
+- [Battlefield Feint And Lure / 声东击西与诱敌](concepts/BattlefieldFeintAndLure.md) — Tactical pattern using false targets, controlled exits, feigned retreat, and ambush to move enemies into weaker positions.
+- [Power Completion Retreat / 功成退让](concepts/PowerCompletionRetreat.md) — Post-merit restraint pattern where a high-achievement actor reduces visible command after the central task is complete.
 - [时运制约命运 / Fate Timing External Conditions](concepts/FateTimingExternalConditions.md) — Source-scoped frame where timing and external conditions mediate ability, virtue, ambition, and visible outcomes.
 - [Institutional Trust in AI Adoption](concepts/InstitutionalTrustAIAdoption.md) — Enterprise AI adoption condition where users trust the organization enough to change daily work around a tool.
 - [Outsider Experience as Diagnostic Skill](concepts/OutsiderExperienceDiagnosticSkill.md) — Adoption-design concept that people who learned systems from the outside can notice hidden rules, power structures, and workflow barriers insiders miss.
@@ -10575,7 +10588,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [政策制度记载压缩 / Chronicle Policy Compression](concepts/ChroniclePolicyCompression.md) — Historiographical pattern where a chronicle records a major institutional decision tersely while leaving mechanism and consequence underdescribed.
 - [Non-Dual Mindfulness](concepts/NonDualMindfulness.md) — Meditation frame where thoughts, emotions, sensations, and selfing appear in awareness without a separate observer behind experience.
 - [Psychedelic Ordinary Freedom](concepts/PsychedelicOrdinaryFreedom.md) — Psychedelic-integration frame where peak states can reveal possibilities but the lasting target is ordinary waking freedom.
-- [Sustainable Health Optimization](concepts/SustainableHealthOptimization.md) — Health-routine frame where sleep, light, exercise, nutrition, measurement, and clinical boundaries support real life without protocol perfectionism.
+- [Sustainable Health Optimization](concepts/SustainableHealthOptimization.md) — Health-routine frame where sleep, light, exercise, nutrition hierarchy, measurement, and clinical boundaries support real life without protocol perfectionism.
 - [Morning Light Circadian Anchoring](concepts/MorningLightCircadianAnchoring.md) — Practice of using ambient outdoor light soon after waking to help set circadian timing, daytime alertness, mood, and later sleep.
 - [Self-Testing Memory Practice](concepts/SelfTestingMemoryPractice.md) — Learning method where effortful recall, active noticing, mistakes, correction, and later rest or sleep strengthen memory access.
 - [Reconstructive Memory](concepts/ReconstructiveMemory.md) — Memory model where recall rebuilds past experience from traces, context, schemas, attention, and later information rather than replaying a perfect record.
@@ -10608,14 +10621,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [State-Dependent Self-Control / 状态依赖的自控](concepts/StateDependentSelfControl.md) — Self-regulation frame where tiredness, hunger, pain, alcohol, stress, circadian disruption, and context can temporarily shift judgment and impulse control.
 - [ADHD Self-Diagnosis Boundary / ADHD 自诊边界](concepts/ADHDSelfDiagnosisBoundary.md) — Diagnostic caution separating adult distraction or impulse from ADHD assessment that needs developmental history, impairment context, and qualified evaluation.
 - [Clinical Behavior-Change Red Flags / 行为突变就医信号](concepts/ClinicalBehaviorChangeRedFlags.md) — Medical-escalation frame for persistent, worsening, or baseline-breaking behavior and cognition changes.
-- [Lifestyle Weight Management / 生活方式体重管理](concepts/LifestyleWeightManagement.md) — Practical frame for managing weight and metabolic habits through body composition, food structure, sugar control, protein, resistance training, sleep, flexibility, anxiety boundaries, and qualified medical care.
+- [Lifestyle Weight Management / 生活方式体重管理](concepts/LifestyleWeightManagement.md) — Practical frame for managing weight and metabolic habits through energy balance, body composition, food structure, protein, resistance training, sleep, flexibility, anxiety boundaries, and qualified medical care.
 - [Practical Sugar Control / 快乐控糖](concepts/PracticalSugarControl.md) — Public nutrition frame for reducing liquid and unconscious sugar while preserving staple foods, label literacy, and occasional sweet enjoyment.
-- [Food Pleasure Engineering / 食品愉悦工程](concepts/FoodPleasureEngineering.md) — Product and food-environment frame for sugar, fat, aroma, texture, and processing making repeated intake easier.
+- [Food Pleasure Engineering / 食品愉悦工程](concepts/FoodPleasureEngineering.md) — Product and food-environment frame for sugar, fat, aroma, texture, processing, convenience, and palatability making repeated intake easier.
 - [Added and Free Sugar Distinction / 添加糖与游离糖区分](concepts/AddedFreeSugarDistinction.md) — Public nutrition distinction covering added sugars plus free sugars in honey, syrup, juice, and concentrated juice.
 - [Liquid Sugar Risk / 液体糖风险](concepts/LiquidSugarRisk.md) — Beverage-format risk where juice, sweet drinks, milk tea, flavored coffee, and sweetened dairy can deliver sugar quickly and repeatedly.
 - [Low-GI Marketing Trap / 低GI营销陷阱](concepts/LowGIMarketingTrap.md) — Warning that glycemic-index claims can hide total sugar load, fructose metabolism, serving size, and certification context.
 - [Nutrition Label Sugar Traps / 营养标签糖陷阱](concepts/NutritionLabelSugarTraps.md) — Consumer label-literacy frame for zero-sucrose, natural, sour-drink, hidden-sugar, carbohydrate-panel, and threshold claims.
-- [Sweetener Uncertainty / 代糖不确定性](concepts/SweetenerUncertainty.md) — Cautious frame for judging sugar substitutes by compound, dose, population, history, and health context.
+- [Sweetener Uncertainty / 代糖不确定性](concepts/SweetenerUncertainty.md) — Cautious frame for judging sugar substitutes by compound, dose, population, history, health context, and substitution target.
 - [Glycation Skin Anxiety / 糖化皮肤焦虑](concepts/GlycationSkinAnxiety.md) — Boundary around real glycation and AGE concepts being turned into beauty panic or anti-sugar supplement shortcuts.
 - [Neuromodulator State Toolkit](concepts/NeuromodulatorStateToolkit.md) — Framework for adjusting motivation, energy, focus, relaxation, and wellbeing through dopamine, epinephrine, serotonin, acetylcholine, timing, behavior, nutrition, and safety boundaries.
 - [Dopamine Tool Timing](concepts/DopamineToolTiming.md) — Motivation-tool frame for matching sunlight, caffeine, supplements, cold exposure, baseline state, and daily timing without treating dopamine as simply more-is-better.
@@ -13812,7 +13825,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Old Masters Market Revival](concepts/OldMastersMarketRevival.md) — Renewed demand for pre-1850 art through scarcity, younger bidders, storytelling, and AI-age authenticity.
 - [Midlife Three Accounts](concepts/MidlifeThreeAccounts.md) — 面基 framework treating cash flow, muscle, and sleep as slow-feedback accounts for midlife autonomy, capacity, and recovery.
 - [Personal Cash-Flow Account](concepts/PersonalCashFlowAccount.md) — Household-finance account for inflows, recurring outflows, fixed monthly obligations, asset conversion, and retirement choice.
-- [Muscle As Longevity Infrastructure](concepts/MuscleAsLongevityInfrastructure.md) — Reframing of skeletal muscle as reserve capacity for posture, metabolism, illness recovery, fall prevention, and older-age independence.
+- [Muscle As Longevity Infrastructure](concepts/MuscleAsLongevityInfrastructure.md) — Reframing of skeletal muscle as reserve capacity for posture, metabolism, illness recovery, fall prevention, body recomposition, and older-age independence.
 - [Sleep As Daily Health Account](concepts/SleepAsDailyHealthAccount.md) — Sleep-account frame where duration, regularity, quality, and controllable inputs shape next-day cognition, mood, and repair.
 - [Environment Over Willpower](concepts/EnvironmentOverWillpower.md) — Behavior-design principle that makes health and finance routines easier by arranging defaults, locations, schedules, and frictions.
 - [Carbon Removal](concepts/CarbonRemoval.md) — Climate-mitigation category for removing already-emitted CO2, with direct air capture as the episode's concrete case.
@@ -16433,5 +16446,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Economies Shared](concepts/ScaleEconomiesShared.md) — Business-model pattern where scale benefits are routed back to customers or members rather than captured mainly as shareholder profit.
 - [Strategy Follows Structure](concepts/StrategyFollowsStructure.md) — Governance principle that ownership and incentives determine which strategy remains rational at scale.
 - [Passive Investing Governance](concepts/PassiveInvestingGovernance.md) — Market-governance concern around price discovery, common ownership, and voting power as index managers become very large.
+- [Energy Balance Accounting](concepts/EnergyBalanceAccounting.md) — Nutrition measurement frame treating calories as the basic ledger while accounting for absorption, expenditure, NEAT, water shifts, and adherence.
+- [Protein Body-Composition Lever](concepts/ProteinBodyCompositionLever.md) — Protein hierarchy for satiety, lean mass, plant-based planning, and body recomposition across dieting, maintenance, and surplus.
+- [Seed-Oil Evidence Boundary](concepts/SeedOilEvidenceBoundary.md) — Nutrition evidence boundary judging seed oils through calorie context, fat replacement, and human trials rather than ingredient panic.
+- [Creatine Monohydrate Evidence](concepts/CreatineMonohydrateEvidence.md) — Supplement-evidence frame for creatine monohydrate, dosing, healthy-person safety, tolerance, and cost hierarchy.
 
 ## Syntheses

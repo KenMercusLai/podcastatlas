@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8551
+wiki_total_pages: 8559
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -929,15 +929,24 @@ wiki_pages:
   - key: "GuanBaLateHan"
     title: "管霸 / Guan Ba (late Han)"
     url: "/wiki/entities/guanbalatehan/"
+  - key: "GengKuangEasternHan"
+    title: "耿况 / Geng Kuang (Eastern Han)"
+    url: "/wiki/entities/gengkuangeasternhan/"
   - key: "GengBaoLateHan"
     title: "耿包 / Geng Bao (late Han)"
     url: "/wiki/entities/gengbaolatehan/"
+  - key: "GengGuoEasternHan"
+    title: "耿国 / Geng Guo (Eastern Han)"
+    url: "/wiki/entities/gengguoeasternhan/"
   - key: "GengKuiLateHan"
     title: "耿夔 / Geng Kui (late Han)"
     url: "/wiki/entities/gengkuilatehan/"
   - key: "GengBaoGrandGeneralLateHan"
     title: "耿宝 / Geng Bao (Grand General, late Han)"
     url: "/wiki/entities/gengbaograndgenerallatehan/"
+  - key: "GengYanEasternHan"
+    title: "耿弇 / Geng Yan (Eastern Han)"
+    url: "/wiki/entities/gengyaneasternhan/"
   - key: "GengGongEasternHan"
     title: "耿恭 / Geng Gong (Eastern Han)"
     url: "/wiki/entities/genggongeasternhan/"

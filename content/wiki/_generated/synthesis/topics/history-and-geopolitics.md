@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-31
-as_of_overview_commit: 43f900689adbad3361ccf60354ca64281d2186db
-input_digest: 33f7a59655211a47cde627e215b492725036cd6185f8a113202c1ccfef38802e
+as_of_overview_commit: 8078a8914ea0b70acdd904838921e4c5c03f726a
+input_digest: 514d21778e23d65462660ec3738459985d3697da03d230676a6e358ddc3c0e06
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 736 now moves the Eastern Han historical branch back to 61-63 CE / Yongping 4-6, combining Liu Cang's royal-kin withdrawal, Zheng Zhong's pre-frontier client-network refusal, Khotan king Guangde's Shache conquest under Northern Xiongnu counterpressure, Dou-family forged-authority scandal, and Mingdi's anti-flattery omen handling. Hanji 737 now moves the Eastern Han historical branch back to 64-65 CE before Hanji 738: Yin Lihua posthumous-title ritual, Northern Xiongnu raids and trade, Zheng Zhong original kowtow refusal, Southern Xiongnu collusion risk and Duliaoying creation, Zong Jun local governance, Liu Ying tolerated Buddhist/Huang-Lao devotion, White Horse Temple transmission memory, and Mingdi eclipse self-criticism. Existing Hanji 738-741 claims remain the next sequence of return-mission debate, official evaluation, Liu Ying case escalation, Xiongnu resource pressure, and 73 CE campaign. Hanji 733-3 sits outside the chronological Eastern Han sequence and adds a classical-text reception branch: HanyaoFu, attributed to Lyu Mengzheng, frames fate, timing, and reversal with cautious normalization rather than new dynastic event history.
+Hanji 733-2 now moves the Eastern Han historical branch back to Liu Xiu's founding layer before Hanji 733-3 and Yongping: Geng Yan converts Geng-family Youzhou military resources into cavalry support, manages suspicion during Peng Chong's rebellion, wins through feint-and-lure campaign tactics, and later returns high command after merit is complete. Hanji 736 now moves the Eastern Han historical branch back to 61-63 CE / Yongping 4-6, combining Liu Cang's royal-kin withdrawal, Zheng Zhong's pre-frontier client-network refusal, Khotan king Guangde's Shache conquest under Northern Xiongnu counterpressure, Dou-family forged-authority scandal, and Mingdi's anti-flattery omen handling. Hanji 737 now moves the Eastern Han historical branch back to 64-65 CE before Hanji 738: Yin Lihua posthumous-title ritual, Northern Xiongnu raids and trade, Zheng Zhong original kowtow refusal, Southern Xiongnu collusion risk and Duliaoying creation, Zong Jun local governance, Liu Ying tolerated Buddhist/Huang-Lao devotion, White Horse Temple transmission memory, and Mingdi eclipse self-criticism. Existing Hanji 738-741 claims remain the next sequence of return-mission debate, official evaluation, Liu Ying case escalation, Xiongnu resource pressure, and 73 CE campaign. Hanji 733-3 sits outside the chronological Eastern Han sequence and adds a classical-text reception branch: HanyaoFu, attributed to Lyu Mengzheng, frames fate, timing, and reversal with cautious normalization rather than new dynastic event history.
 
 ## Cross-source Findings
+
+### Hanji 733 2 Geng Yan Founding Cavalry And Command Retreat
+
+[[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] moves the Eastern Han historical branch back to the [[LiuXiu]] founding layer before [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|Hanji 733-3]] and [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|Hanji 734]]: [[GengYanEasternHan]] turns [[GengKuangEasternHan]]'s Youzhou military-family resources into Liu Xiu cavalry capacity with [[WuHanEasternHan]], refuses [[PengChongEasternHan]]'s rebel pull through [[GengGuoEasternHan]] and [[FoundingCommanderSuspicionManagement]], defeats Qinghe/Qi opponents including [[ZhangBuEasternHan]] through [[BattlefieldFeintAndLure]], and later models [[PowerCompletionRetreat]] by returning visible high command after founding merit.
+
+**Evidence:** [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh]], [[LiuXiu]], [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey]], [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9]], [[GengYanEasternHan]], [[GengKuangEasternHan]], [[WuHanEasternHan]], [[PengChongEasternHan]], [[GengGuoEasternHan]], [[FoundingCommanderSuspicionManagement]], [[ZhangBuEasternHan]], [[BattlefieldFeintAndLure]], [[PowerCompletionRetreat]], [[WangLangHebeiClaimant]], [[WangLangLateHan]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 733-2 and backfills the Guangwu founding layer before Hanji 733-3 and the Yongping-era sequence.
+- The episode's Yuntai ranking, pacified-commandery and captured-city counts, Qinghe/Qi minor names, and host self-cultivation readings remain source-scoped until independently checked.
+- The Wang Lang claimant in this source is explicitly disambiguated from the later-Han Wang Lang page.
 
 ### Late Han 736 Yongping Proximity Western Regions And Dou Family
 

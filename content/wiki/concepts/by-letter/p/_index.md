@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6094
+wiki_total_pages: 6101
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -887,6 +887,9 @@ wiki_pages:
   - key: "PowerBatteryWhitelist"
     title: "Power Battery Whitelist"
     url: "/wiki/concepts/powerbatterywhitelist/"
+  - key: "PowerCompletionRetreat"
+    title: "Power Completion Retreat / 功成退让"
+    url: "/wiki/concepts/powercompletionretreat/"
   - key: "PowerEtiquetteReading"
     title: "Power Etiquette Reading / 权力礼仪细读"
     url: "/wiki/concepts/poweretiquettereading/"
@@ -1349,6 +1352,9 @@ wiki_pages:
   - key: "ProtectorCaptorAmbiguity"
     title: "Protector-Captor Ambiguity / 护驾与挟持模糊性"
     url: "/wiki/concepts/protectorcaptorambiguity/"
+  - key: "ProteinBodyCompositionLever"
+    title: "Protein Body-Composition Lever"
+    url: "/wiki/concepts/proteinbodycompositionlever/"
   - key: "ProtestantHeroicMartyrdom"
     title: "Protestant Heroic Martyrdom"
     url: "/wiki/concepts/protestantheroicmartyrdom/"

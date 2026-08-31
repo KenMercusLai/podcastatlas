@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6094
+wiki_total_pages: 6101
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "EnergyAbundanceClimateStrategy"
     title: "Energy Abundance Climate Strategy"
     url: "/wiki/concepts/energyabundanceclimatestrategy/"
+  - key: "EnergyBalanceAccounting"
+    title: "Energy Balance Accounting"
+    url: "/wiki/concepts/energybalanceaccounting/"
   - key: "EnergyDrinkYouthRegulation"
     title: "Energy Drink Youth Regulation"
     url: "/wiki/concepts/energydrinkyouthregulation/"

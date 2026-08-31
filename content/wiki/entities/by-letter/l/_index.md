@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8551
+wiki_total_pages: 8559
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "LawrenceJPeter"
     title: "Lawrence J. Peter"
     url: "/wiki/entities/lawrencejpeter/"
+  - key: "LayneNorton"
+    title: "Layne Norton"
+    url: "/wiki/entities/laynenorton/"
   - key: "Lazada"
     title: "Lazada"
     url: "/wiki/entities/lazada/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6094
+wiki_total_pages: 6101
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1499,6 +1499,9 @@ wiki_pages:
   - key: "CraftLaborBottleneck"
     title: "Craft Labor Bottleneck"
     url: "/wiki/concepts/craftlaborbottleneck/"
+  - key: "CreatineMonohydrateEvidence"
+    title: "Creatine Monohydrate Evidence"
+    url: "/wiki/concepts/creatinemonohydrateevidence/"
   - key: "CreationAsConsumption"
     title: "Creation As Consumption"
     url: "/wiki/concepts/creationasconsumption/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6094
+wiki_total_pages: 6101
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "BattlefieldEncirclementLogistics"
     title: "Battlefield Encirclement Logistics / 战场围困与断粮"
     url: "/wiki/concepts/battlefieldencirclementlogistics/"
+  - key: "BattlefieldFeintAndLure"
+    title: "Battlefield Feint And Lure / 声东击西与诱敌"
+    url: "/wiki/concepts/battlefieldfeintandlure/"
   - key: "BattlefieldInformationControl"
     title: "Battlefield Information Control / 战场信息控制"
     url: "/wiki/concepts/battlefieldinformationcontrol/"

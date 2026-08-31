@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6094
+wiki_total_pages: 6101
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "SecurityFirstSupplyChainLogic"
     title: "Security-First Supply Chain Logic / 安全优先供应链逻辑"
     url: "/wiki/concepts/securityfirstsupplychainlogic/"
+  - key: "SeedOilEvidenceBoundary"
+    title: "Seed-Oil Evidence Boundary"
+    url: "/wiki/concepts/seedoilevidenceboundary/"
   - key: "SeizedDigitalAssetCustody"
     title: "Seized Digital Asset Custody"
     url: "/wiki/concepts/seizeddigitalassetcustody/"
