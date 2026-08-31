@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2114
+topic_total_pages: 2116
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -5525,6 +5525,9 @@ topic_entities:
   - key: "WangYangming"
     title: "王阳明 / Wang Yangming"
     url: "/wiki/entities/wangyangming/"
+  - key: "BanBiaoEasternHan"
+    title: "班彪 / Ban Biao (Eastern Han)"
+    url: "/wiki/entities/banbiaoeasternhan/"
   - key: "BanChaoEasternHan"
     title: "班超 / Ban Chao (Eastern Han)"
     url: "/wiki/entities/banchaoeasternhan/"
@@ -6258,6 +6261,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce"
+    title: "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce/"
   - key: "zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2"
     title: "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！"
     url: "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"

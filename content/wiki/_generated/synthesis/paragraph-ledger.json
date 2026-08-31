@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1acb350d5328e36a2a47334a9fc451a6bedfadce3e1a92a3c1eba4fc3e121393",
       "75b7e6d5bae044013fc8c05f5e8222401424d12cf11c237d4c694b8a6c664817",
       "c2cfe394cf9349132dee08a3f54ec66b7008c0feef880562a4f773b35cd316d8",
       "12fcd2361e57100445bf354b0eb7575c15cf3f1b1a480263e5f7305fe6d2cc3f",
@@ -446,11 +447,36 @@
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0"
     ],
-    "paragraph_count": 444
+    "paragraph_count": 445
   },
-  "overview_commit": "fae3dc45b7665c2cb54efc71b8e64d7fea16623d",
-  "overview_digest": "7d2cb919930273f6cf33941f9cde9995bd4b34ac8d285947ebc16fec0b91c38a",
+  "overview_commit": "e87be2039f1a1fa4bb1ec3c95df80936b036c8ef",
+  "overview_digest": "51d5384fdcb26955d0fa519971fa6f4f0d7f7252435de735c5dfdf625e8eab66",
   "paragraphs": [
+    {
+      "id": "1acb350d5328e36a2a47334a9fc451a6bedfadce3e1a92a3c1eba4fc3e121393",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "culture-and-media"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 52-54 CE late [[LiuXiu|光武帝刘秀]] layer before [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]]. It adds [[BanBiaoEasternHan|班彪]], while extending [[NorthernXiongnuLateHan|北匈奴]], [[Taishan|泰山]], [[FengshanRitualLegitimacy|封禅礼制合法性]], and [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]]. Its core synthesis is that late Guangwu statecraft is first cautious before it becomes chenwei-ritual: Ban Biao reads Northern Xiongnu tribute, heqin requests, and music requests as fear after Southern Xiongnu submission, so he recommends matched rewards and careful wording without full commitment; Liu Xiu then rejects early Taishan fengshan because public resentment makes heavenly display illegitimate. No settled contradiction is recorded; Hanji 729 qualifies Hanji 730's later fengshan by establishing a 54 CE refusal before the 56 CE chenwei-backed ceremony.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BanBiaoEasternHan",
+        "FengshanRitualLegitimacy",
+        "FrontierRecognitionCredibilityTradeoff",
+        "LiuXiu",
+        "NorthernXiongnuLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "Taishan",
+        "zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce",
+        "zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh"
+      ]
+    },
     {
       "id": "75b7e6d5bae044013fc8c05f5e8222401424d12cf11c237d4c694b8a6c664817",
       "primary_topic": "governance-and-institutions",

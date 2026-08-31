@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8587
+wiki_total_pages: 8588
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -941,6 +941,9 @@ wiki_pages:
   - key: "BanShiLateHan"
     title: "班始 / Ban Shi (late Han)"
     url: "/wiki/entities/banshilatehan/"
+  - key: "BanBiaoEasternHan"
+    title: "班彪 / Ban Biao (Eastern Han)"
+    url: "/wiki/entities/banbiaoeasternhan/"
   - key: "BanZhaoLateHan"
     title: "班昭 / Ban Zhao (late Han)"
     url: "/wiki/entities/banzhaolatehan/"

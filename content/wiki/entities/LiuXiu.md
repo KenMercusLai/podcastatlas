@@ -12,12 +12,13 @@ sources:
   - zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr
   - zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma
   - zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh
+  - zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-Liu Xiu / 刘秀 is synthesized in the wiki as the Eastern Han founder whose profile spans restoration warfare, omen-politics management, founding coalition formation, personnel recognition, chenwei-backed ritual legitimacy, late-life health inference, succession handoff, hostage-ransom deterrence, and later ritual memory as Guangwu emperor. [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] now supplies a late-reign bridge: Liu Xiu recognizes both quiet martial merit in [[JiaFuEasternHan|贾复]] and administrative candor in [[FifthLunEasternHan|第五伦]], while accepting [[Taishan|泰山]] fengshan because chenwei texts make the ceremony feel destiny-backed.
+Liu Xiu / 刘秀 is synthesized in the wiki as the Eastern Han founder whose profile spans restoration warfare, omen-politics management, founding coalition formation, personnel recognition, chenwei-backed ritual legitimacy, late-life health inference, succession handoff, hostage-ransom deterrence, and later ritual memory as Guangwu emperor. [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] now adds an earlier late-reign bridge: Liu Xiu accepts [[BanBiaoEasternHan|班彪]]'s calibrated Northern Xiongnu reply and rejects 54 CE [[Taishan|泰山]] fengshan because public resentment makes heavenly display improper. [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] then supplies the later bridge, where Liu Xiu recognizes both quiet martial merit in [[JiaFuEasternHan|贾复]] and administrative candor in [[FifthLunEasternHan|第五伦]], while accepting Taishan fengshan because chenwei texts make the ceremony feel destiny-backed.
 
 ## Current Profile
 
@@ -25,7 +26,9 @@ Earlier Wang Mang-focused sources place Liu Xiu as the Liu-house restoration fig
 
 Hanji 733-2 supplies the founding coalition layer. In that account, Liu Xiu needs northern cavalry and capable commanders, and [[GengYanEasternHan|耿弇]] becomes valuable because he can connect family resources from [[GengKuangEasternHan|耿况]]'s Shanggu/Youzhou environment to Liu Xiu's campaign. Liu Xiu's praise of Geng Yan as "有志者事竟成" marks him as a ruler who turns talent recognition into founding order. The same source also shows that Liu Xiu's trust is not automatic: [[PengChongEasternHan|彭宠]]'s rebellion forces the Geng family to make loyalty visible through return-to-court and [[GengGuoEasternHan|耿国]]'s service in Luoyang.
 
-Hanji 730 adds a late Guangwu personnel-and-ritual layer in 54-56 CE. Jia Fu's death notice presents Liu Xiu as a ruler who knows a commander's real merit even when the commander does not boast, and who keeps a fiercely brave general from unnecessary danger. The Fifth Lun branch then gives a civil-administration version: Liu Xiu tests damaging rumors through direct questioning, reads candor and composure as useful, and quickly promotes Fifth Lun from projected county office to Kuaiji commandery administration.
+Hanji 729 adds a 52-54 CE statecraft gate before the later fengshan arc. In 52 CE, Liu Xiu sends Northern Xiongnu's tribute, heqin, music, and Western Regions request to senior ministers, accepts Ban Biao's reply-drafting approach, and keeps Han from both open rupture and credulous recognition. In 54 CE, he refuses ministerial fengshan praise, cites people's grievances and the Analects Taishan line, and threatens to punish flattery travel by local officials.
+
+Hanji 730 then adds a late Guangwu personnel-and-ritual layer in 54-56 CE. Jia Fu's death notice presents Liu Xiu as a ruler who knows a commander's real merit even when the commander does not boast, and who keeps a fiercely brave general from unnecessary danger. The Fifth Lun branch then gives a civil-administration version: Liu Xiu tests damaging rumors through direct questioning, reads candor and composure as useful, and quickly promotes Fifth Lun from projected county office to Kuaiji commandery administration.
 
 The same source makes Liu Xiu's chenwei reliance operational before Hanji 731's speech-risk case. After reading the `Hetu Huichang Fu` line rendered as "赤刘之九，会命岱宗," Liu Xiu orders officials to collect matching river-map and Luo-writing prophetic material, accepts Zhang Chun's renewed fengshan proposal, and performs the Taishan heaven sacrifice and Liangyin earth sacrifice. The episode preserves a tension: Liu Xiu is still frugal enough to look for cheaper ritual-material solutions, but chenwei pushes him toward an expensive and symbolically maximal legitimacy rite.
 
@@ -40,8 +43,8 @@ Later sources add two afterlives of Guangwu rule. [[zizhi-tongjian-hanji-915-shi
 - Liu Xiu functions as Wang Mang's successful Liu-house counterpoint, with Kunyang showing the difference between ritualized state grandeur and usable military-political effectiveness.
 - Liu Xiu benefits from prophecy and mandate language during restoration, then helps turn chenwei interpretation into a state-favored and dangerous-to-challenge imperial resource.
 - Hanji 733-2 presents Liu Xiu as a founding coalition builder who recognizes Geng Yan and turns Youzhou cavalry into imperial campaign capacity.
-- Hanji 730 adds personnel judgment at two scales: quiet founding-general merit through Jia Fu and frank civil-administration promise through Fifth Lun.
-- Hanji 730 and Hanji 731 together show Liu Xiu combining frugality and auspicious-sign restraint with strong commitment to chenwei-backed legitimacy, including Taishan fengshan and punishment risk for anti-chenwei speech.
+- Hanji 729 adds late-rule political restraint: Liu Xiu accepts Ban Biao's noncommittal frontier reply and refuses early Taishan fengshan when popular grievance makes ritual display illegitimate.
+- Hanji 730 and Hanji 731 together show Liu Xiu combining Jia Fu and Fifth Lun personnel recognition, frugality, auspicious-sign restraint, strong commitment to chenwei-backed legitimacy, later Taishan fengshan, and punishment risk for anti-chenwei speech.
 - Hanji 732 adds a late-life profile of heavy governing workload, learned diligence, and possible long-term health vulnerability without proving a specific death cause.
 - Later sources preserve Liu Xiu's afterlife as both a hostage-deterrence precedent and Guangwu ritual-memory figure.
 
@@ -51,6 +54,8 @@ Later sources add two afterlives of Guangwu rule. [[zizhi-tongjian-hanji-915-shi
 - Prophecy control: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] and [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]] both present Liu Xiu as a prophecy beneficiary whose dynasty later restricts private prophecy production.
 - Coalition and commander recognition: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] links Liu Xiu's rise to Geng Yan's alignment, Youzhou cavalry, and Liu Xiu's praise of Geng Yan's determination.
 - Trust management around local force: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] frames the Peng Chong rebellion as a test of whether the Geng family can remain trusted despite prior ties and military power.
+- Ban Biao diplomacy: [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] says Liu Xiu accepts Ban Biao's complete recommendation for answering Northern Xiongnu tribute, heqin, music, and Western Regions requests through calibrated reward and careful wording.
+- Fengshan refusal before acceptance: [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] says Liu Xiu rejects a 54 CE Taishan proposal because public resentment and flattering official travel would make the ritual morally improper.
 - Jia Fu and Fifth Lun recognition: [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] contrasts Liu Xiu knowing Jia Fu's quiet military merit with his direct questioning and rapid promotion of Fifth Lun.
 - Fengshan decision: [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] says Liu Xiu reads the `Hetu Huichang Fu` line about the "ninth Liu," orders related chenwei passages collected, and performs the Taishan and Liangyin rites.
 - Frugality within ritual: [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] says Liu Xiu originally disliked costly fengshan and still tries to simplify the stone/material problem after approving the ceremony.
@@ -62,19 +67,22 @@ Later sources add two afterlives of Guangwu rule. [[zizhi-tongjian-hanji-915-shi
 
 ## Qualifications
 
-These sources address Liu Xiu through different windows rather than a single biography: Wang Mang's fall, prophecy history, founding commander trust, late personnel judgment, Taishan fengshan, Huan Tan's anti-chenwei confrontation, late health clues, succession ritual, hostage deterrence, and later ritual memory. Hanji 730 does not erase Liu Xiu's frugality; it qualifies it by showing that a ruler can dislike expenditure yet accept a costly legitimacy rite once chenwei makes it politically meaningful. Hanji 731 does not erase Liu Xiu's founding and governing achievements; it shows how a legitimacy framework can make scholarly disagreement dangerous. Hanji 732 does not prove Liu Xiu's cause of death; its strongest contribution remains the combination of terse death notice, earlier illness records, and overwork evidence.
+These sources address Liu Xiu through different windows rather than a single biography: Wang Mang's fall, prophecy history, founding commander trust, late frontier diplomacy, Taishan refusal and later fengshan, Huan Tan's anti-chenwei confrontation, late health clues, succession ritual, hostage deterrence, and later ritual memory. Hanji 729 and Hanji 730 should be read as a changed-condition sequence, not a contradiction: Hanji 729 records a 54 CE refusal based on public resentment and ritual overreach, while Hanji 730 records a later 56 CE chenwei-backed ceremony. Hanji 730 does not erase Liu Xiu's frugality; it qualifies it by showing that a ruler can dislike expenditure yet accept a costly legitimacy rite once chenwei makes it politically meaningful. Hanji 731 does not erase Liu Xiu's founding and governing achievements; it shows how a legitimacy framework can make scholarly disagreement dangerous. Hanji 732 does not prove Liu Xiu's cause of death; its strongest contribution remains the combination of terse death notice, earlier illness records, and overwork evidence.
 
 ## What Changed
 
-- Integrated Hanji 730 as Liu Xiu's late Guangwu personnel-recognition and Taishan-fengshan layer.
+- Added Hanji 729 as Liu Xiu's 52-54 CE late-rule restraint layer: Ban Biao diplomacy and initial refusal of Taishan fengshan.
+- Integrated Hanji 730 as the later Guangwu personnel-recognition and Taishan-fengshan layer.
 - Connected the fengshan decision to Liu Xiu's broader chenwei reliance before Hanji 731's anti-Huan-Tan speech-risk case.
-- Qualified Liu Xiu's frugality by distinguishing cost-conscious ritual implementation from refusal of ritual legitimacy.
+- Qualified Liu Xiu's frugality by distinguishing 54 CE refusal, cost-conscious implementation, and later ritual acceptance.
 - Preserved Hanji 732's death-cause inference as bounded health evidence rather than a named diagnosis.
 
 ## Relationships
 
 - [[JiaFuEasternHan|贾复]] - founding general whose quiet merit Liu Xiu says he recognizes.
 - [[FifthLunEasternHan|第五伦]] - early civil administrator whose candor and competence Liu Xiu identifies and promotes.
+- [[BanBiaoEasternHan|班彪]] - adviser whose Northern Xiongnu memorial Liu Xiu adopts.
+- [[NorthernXiongnuLateHan|北匈奴]] - frontier counterpart in Ban Biao's calibrated reply and late Guangwu diplomacy.
 - [[Taishan|泰山]] - sacred mountain where Liu Xiu performs the "封" component of the fengshan rite.
 - [[FengshanRitualLegitimacy|封禅礼制合法性]] - ritual-legitimacy concept extended by Liu Xiu's late-reign ceremony.
 - [[ProphecyTriggeredPolicy|预言触发政策]] - concept explaining how chenwei text turns into ritual state action.

@@ -3773,6 +3773,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/baimarelieflatehan/"
     },
+    "BanBiaoEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？ [loADjkevHJIE2yUR8U23OX2_gMCE].md",
+          "key": "zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/banbiaoeasternhan/"
+    },
     "BanChaoEasternHan": {
       "episode_count": 16,
       "show_count": 1,
@@ -14362,9 +14378,9 @@
       "url": "/wiki/entities/fengshilatehan/"
     },
     "FengshanRitualLegitimacy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山 [lkcyayuQrTsGy_K4BhdvY-L_LaPo].md",
@@ -14379,6 +14395,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？ [loADjkevHJIE2yUR8U23OX2_gMCE].md",
+          "key": "zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce/"
         }
       ],
       "updated": "2026-08-31",
@@ -15359,9 +15382,9 @@
       "url": "/wiki/concepts/frontierproxyconqueststrategy/"
     },
     "FrontierRecognitionCredibilityTradeoff": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？ [ltnVdqNyoFUELAKlSSBQuGUWIVAN].md",
@@ -15383,6 +15406,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？ [loADjkevHJIE2yUR8U23OX2_gMCE].md",
+          "key": "zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce/"
         }
       ],
       "updated": "2026-08-31",
@@ -24999,9 +25029,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -25058,6 +25088,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？ [loADjkevHJIE2yUR8U23OX2_gMCE].md",
+          "key": "zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce/"
         }
       ],
       "updated": "2026-08-31",
@@ -29795,9 +29832,9 @@
       "url": "/wiki/entities/northernrising/"
     },
     "NorthernXiongnuLateHan": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -29875,6 +29912,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？ [loADjkevHJIE2yUR8U23OX2_gMCE].md",
+          "key": "zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce/"
         }
       ],
       "updated": "2026-08-31",
@@ -39103,9 +39147,9 @@
       "url": "/wiki/entities/tadunlatehan/"
     },
     "Taishan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山 [lkcyayuQrTsGy_K4BhdvY-L_LaPo].md",
@@ -39120,6 +39164,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？ [loADjkevHJIE2yUR8U23OX2_gMCE].md",
+          "key": "zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce/"
         }
       ],
       "updated": "2026-08-31",

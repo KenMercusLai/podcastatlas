@@ -4,17 +4,29 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-08-31
-as_of_overview_commit: fae3dc45b7665c2cb54efc71b8e64d7fea16623d
-input_digest: a2cdfb2a52a71b37ae0d8a62d117dc36d3f3dd543a57f45cc035b03c601bdc15
+as_of_overview_commit: e87be2039f1a1fa4bb1ec3c95df80936b036c8ef
+input_digest: f15b4aaebeaef3f34bdb4d398e0f489ada2a86d4ba6504da3d40d8ef35bfcb39
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 730 now backfills the late Guangwu governance branch before Hanji 731: Liu Xiu's personnel judgment joins posthumous recognition of Jia Fu, early testing of Fifth Lun's frankness and market administration, and a chenwei-triggered Taishan fengshan decision that turns prophecy and auspicious-omen language into state ritual. Hanji 731 adds Guangwu-era chenwei as a governance-risk layer: prophecy can become legitimacy-sensitive state guidance, making Huan Tan's canonical critique dangerous while Zheng Xing's ambiguity and Jia Kui's accommodation show safer but intellectually compromised speech paths. Hanji 736 pushes the governance branch back to Mingdi 61-63 CE, adding Liu Cang's trust-preserving withdrawal from central office, Zheng Zhong's refusal of risky princely retainer recruitment, Liang Song's client-network exposure, Dou Mu's forged dowager authority, and Mingdi's anti-flattery treasure-cauldron response. Hanji 737 moves the branch to Mingdi 64-65 CE early Yongping order, joining empress posthumous-title ritual, Northern Xiongnu trade contact, Zheng Zhong envoy dignity and Duliaoying intelligence, Zong Jun capacity-over-reputation personnel warning, Liu Ying initially tolerated Buddhist/Huang-Lao practice, and eclipse-triggered self-criticism. Later Hanji 738-740 claims remain the continuation: official evaluation, classics education, royal-kin law, title duty, Liu Ying accusation, coercive implication, and partial correction.
+Hanji 729 now backfills the late Guangwu governance branch before Hanji 730: Liu Xiu adopts Ban Biao calibrated Northern Xiongnu reply, making reward, wording, heqin language, and noncommitment part of frontier governance; the same episode records his 54 CE refusal of Taishan fengshan because public resentment and flattery make sacred display improper. Hanji 730 remains the next late Guangwu governance branch: Liu Xiu personnel judgment joins posthumous recognition of Jia Fu, early testing of Fifth Lun frankness and market administration, and a chenwei-triggered Taishan fengshan decision that turns prophecy and auspicious-omen language into state ritual. Hanji 731 adds Guangwu-era chenwei as a governance-risk layer, while Hanji 736-740 remain the Mingdi continuation through royal-kin boundaries, private-retainer risk, forged authority, anti-flattery edicts, empress memory, frontier containment, local capacity, Chu-case coercion, and partial correction.
 
 ## Cross-source Findings
+
+### Early Eastern Han 729 Guangwu Frontier Reply And Ritual Refusal
+
+[[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] adds a late [[LiuXiu]] governance case before [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]]: [[BanBiaoEasternHan]] turns [[NorthernXiongnuLateHan]] tribute, heqin, music, and Western Regions requests into a [[FrontierRecognitionCredibilityTradeoff]] problem answered by matched rewards and careful wording, while Liu Xiu refusal of early [[Taishan]] fengshan under [[FengshanRitualLegitimacy]] makes public resentment and anti-flattery restraint part of ritual governance.
+
+**Evidence:** [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce]], [[LiuXiu]], [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh]], [[BanBiaoEasternHan]], [[NorthernXiongnuLateHan]], [[FrontierRecognitionCredibilityTradeoff]], [[Taishan]], [[FengshanRitualLegitimacy]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 729 and should be read as the immediate 52-54 CE governance prelude to Hanji 730.
+- The claim does not treat Northern Xiongnu contact as sincere submission; it follows the source bounded Ban Biao diagnosis of fear and weakness.
+- The Taishan refusal qualifies but does not negate the later 56 CE chenwei-backed ceremony.
 
 ### Early Eastern Han 730 Guangwu Personnel Chenwei And Fengshan
 

@@ -14322,3 +14322,12 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+
+## [2026-08-31] ingest | 《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？
+
+Ingested the 2026-06-24 芮淇讲透资治通鉴 episode on Ban Biao and late Guangwu statecraft: Northern Xiongnu tribute, heqin, music, and Western Regions requests; the Ban Biao fear and weakness diagnosis with calibrated reply; Liu Xiu adoption of the memorial; and the 54 CE refusal of Taishan fengshan before the later chenwei-backed ceremony. Created `BanBiaoEasternHan`; updated `LiuXiu`, `NorthernXiongnuLateHan`, `Taishan`, `FengshanRitualLegitimacy`, and `FrontierRecognitionCredibilityTradeoff`. No settled contradiction found; the 54 CE refusal and 56 CE ceremony are treated as a changed-condition sequence.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

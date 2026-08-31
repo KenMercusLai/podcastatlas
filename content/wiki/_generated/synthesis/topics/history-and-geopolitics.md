@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-31
-as_of_overview_commit: fae3dc45b7665c2cb54efc71b8e64d7fea16623d
-input_digest: f23c251f822ed3d9db2507984513102281e0b5bdb0e8ae65145645befac74abd
+as_of_overview_commit: e87be2039f1a1fa4bb1ec3c95df80936b036c8ef
+input_digest: fcfeca09ca8c5847352e07d2202e06603b1a0cdc66ed8c730c26a4ef7ce096d6
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 730 now backfills the late Guangwu historical branch before Hanji 731: 54-56 CE disasters, famine notes, auspicious signs, Jia Fu's death-and-merit notice, Fifth Lun's early market-administration test, and Liu Xiu's chenwei-triggered Taishan fengshan tie personnel memory to restoration legitimacy. Roman Civil War Part 1 adds a Roman-Republic crisis branch: Marius outsider military ascent, Jugurtha bribe politics, the Teutones and Cimbri emergency, Gracchan assassination precedent, and Sulla rival credit over Jugurtha show expansion, office competition, and military personalization destabilizing republican norms before Caesar. South Africa/Mandela adds a twentieth-century reconciliation-symbol branch: the 1995 Rugby World Cup and multilingual anthem show statecraft working through contested sport, music, and ceremony while bounded to one episode's narrative. Hanji 733-2 moves the Eastern Han historical branch back to Liu Xiu's founding layer before Hanji 733-3 and Yongping: Geng Yan converts Geng-family Youzhou military resources into cavalry support, manages suspicion during Peng Chong's rebellion, wins through feint-and-lure campaign tactics, and later returns high command after merit is complete. Hanji 736 moves the Eastern Han historical branch back to 61-63 CE / Yongping 4-6, combining Liu Cang's royal-kin withdrawal, Zheng Zhong's pre-frontier client-network refusal, Khotan king Guangde's Shache conquest under Northern Xiongnu counterpressure, Dou-family forged-authority scandal, and Mingdi's anti-flattery omen handling. Hanji 737 moves the Eastern Han historical branch back to 64-65 CE before Hanji 738: Yin Lihua posthumous-title ritual, Northern Xiongnu raids and trade, Zheng Zhong original kowtow refusal, Southern Xiongnu collusion risk and Duliaoying creation, Zong Jun local governance, Liu Ying tolerated Buddhist/Huang-Lao devotion, White Horse Temple transmission memory, and Mingdi eclipse self-criticism. Existing Hanji 738-741 claims remain the next sequence of return-mission debate, official evaluation, Liu Ying case escalation, Xiongnu resource pressure, and 73 CE campaign. Hanji 733-3 sits outside the chronological Eastern Han sequence and adds a classical-text reception branch: HanyaoFu, attributed to Lyu Mengzheng, frames fate, timing, and reversal with cautious normalization rather than new dynastic event history.
+Hanji 729 now backfills the late Guangwu historical branch before Hanji 730: Ban Biao reads Northern Xiongnu tribute, heqin, music, and Western Regions requests as fear after Southern Xiongnu submission, Liu Xiu adopts a calibrated reward-and-wording reply, and the same episode records Liu Xiu refusing 54 CE Taishan fengshan before the later 56 CE chenwei-backed ceremony. Hanji 730 remains the next late Guangwu layer: 54-56 CE disasters, famine notes, auspicious signs, Jia Fu death-and-merit notice, Fifth Lun market-administration test, and Liu Xiu chenwei-triggered Taishan fengshan tie personnel memory to restoration legitimacy. Roman Civil War Part 1 adds a Roman-Republic crisis branch: Marius outsider military ascent, Jugurtha bribe politics, the Teutones and Cimbri emergency, Gracchan assassination precedent, and Sulla rival credit over Jugurtha show expansion, office competition, and military personalization destabilizing republican norms before Caesar. South Africa/Mandela adds a twentieth-century reconciliation-symbol branch: the 1995 Rugby World Cup and multilingual anthem show statecraft working through contested sport, music, and ceremony while bounded to one episode narrative. Hanji 733-2 moves the Eastern Han historical branch back to Liu Xiu founding before Hanji 733-3 and Yongping; later Hanji 736-741 claims remain the Mingdi frontier, ritual, governance, and Xiongnu pressure sequence. Hanji 733-3 sits outside the chronological Eastern Han sequence and adds a classical-text reception branch through HanyaoFu, fate, timing, and reversal.
 
 ## Cross-source Findings
+
+### Early Eastern Han 729 Ban Biao Xiongnu And Fengshan Refusal
+
+[[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] moves the Eastern Han historical branch back to the 52-54 CE late [[LiuXiu]] layer before [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]]: [[BanBiaoEasternHan]] reads [[NorthernXiongnuLateHan]] tribute, heqin, music, and Western Regions requests as fear rather than simple submission, advises calibrated rewards and careful wording under [[FrontierRecognitionCredibilityTradeoff]], and Liu Xiu refuses early [[Taishan]] fengshan under [[FengshanRitualLegitimacy]] before the later chenwei-backed ceremony.
+
+**Evidence:** [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce]], [[LiuXiu]], [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh]], [[BanBiaoEasternHan]], [[NorthernXiongnuLateHan]], [[FrontierRecognitionCredibilityTradeoff]], [[Taishan]], [[FengshanRitualLegitimacy]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 729 and backfills 52-54 CE before Hanji 730 rather than replacing the later 56 CE fengshan ceremony.
+- The 54 CE refusal and 56 CE ceremony are treated as a changed-condition sequence, not a contradiction.
+- Ban Biao broader literary and family biography remain outside the claim unless later sources develop them.
 
 ### Early Eastern Han 730 Late Guangwu Omens Generals And Taishan
 

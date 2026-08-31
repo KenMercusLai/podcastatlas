@@ -7,16 +7,19 @@ sources:
   - zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan
   - zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu
   - zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2
+  - zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce
 last_updated: 2026-08-31
 ---
 
 ## Definition
 
-边疆册封信用权衡 / frontier recognition credibility tradeoff is the statecraft problem where recognizing, visiting, installing, or visibly dignifying one frontier actor may stabilize or flatter that actor while damaging earlier commitments, allied-group trust, neighboring frontier relations, ritual hierarchy, and public finances.
+边疆册封信用权衡 / frontier recognition credibility tradeoff is the statecraft problem where rewarding, answering, recognizing, visiting, installing, or visibly dignifying one frontier actor may stabilize or flatter that actor while damaging earlier commitments, allied-group trust, neighboring frontier relations, ritual hierarchy, and public finances.
 
 ## Current Synthesis
 
-Hanji 737 now supplies the earliest lighter-contact version of the problem. [[EmperorMingOfHan|Mingdi]] accepts trade with [[NorthernXiongnuLateHan|Northern Xiongnu]] while the northern branch is still raiding, hoping commerce may reduce violence. The contact is not neutral: [[ZhengZhongFrontierEasternHan|Zheng Zhong]]'s mission faces ritual coercion, and [[XuguDuhouSouthernXiongnu|Xugu Duhou]] resents Han-Northern contact enough to seek northern help. [[DuliaoCampEasternHan|Duliaoying]] is created to contain that Southern/Northern collusion risk.
+Hanji 729 now supplies the earliest soft-contact version of the problem. [[NorthernXiongnuLateHan|Northern Xiongnu]] sends tribute, renews heqin language, asks for music, and proposes bringing Western Regions envoys. [[BanBiaoEasternHan|Ban Biao]] argues that the repeated and costly approach signals fear after [[SouthernXiongnu|Southern Xiongnu]] submission, so he advises [[LiuXiu|Liu Xiu]] to avoid rupture but answer with matched rewards, careful praise, refusal of instruments, and wording that avoids fully siding with either Xiongnu branch.
+
+Hanji 737 supplies the later lighter-contact version. [[EmperorMingOfHan|Mingdi]] accepts trade with Northern Xiongnu while the northern branch is still raiding, hoping commerce may reduce violence. The contact is not neutral: [[ZhengZhongFrontierEasternHan|Zheng Zhong]]'s mission faces ritual coercion, and [[XuguDuhouSouthernXiongnu|Xugu Duhou]] resents Han-Northern contact enough to seek northern help. [[DuliaoCampEasternHan|Duliaoying]] is created to contain that Southern/Northern collusion risk.
 
 Hanji 738 supplies the later return-mission version. Zheng argues that Mingdi should not send a return mission to Northern Xiongnu while the chanyu is still raiding Han borders. His worry is not only safety. A Han envoy would let the chanyu advertise reconciliation, reinforce Western Regions loyalty to himself, unsettle [[SouthernXiongnu|Southern Xiongnu]], and affect [[Wuhuan|Wuhuan]] alignment. The credibility damage appears before formal title recognition: envoy presence and ritual posture can already function as a recognition signal.
 
@@ -26,8 +29,8 @@ The core tradeoff is cumulative. A contact or title package may create a visible
 
 ## Key Claims
 
-- Frontier recognition must be judged against existing commitments, not only the newest claimant's or rival's request.
-- Envoy exchange can operate as recognition even when no formal title is granted.
+- Frontier recognition must be judged against existing commitments and the motives behind the newest approach, not only the newest claimant's or rival's request.
+- Rewards, reply wording, envoy exchange, trade contact, and ritual posture can operate as recognition even when no formal title is granted.
 - A title or visit granted to one frontier actor can damage trust with older allies who supplied prior military cooperation.
 - Neighboring frontier groups matter because visible recognition can reopen grievances or make them doubt Han's alignment.
 - Fiscal and supervisory capacity become credibility issues when recognition implies long-term support.
@@ -36,6 +39,8 @@ The core tradeoff is cumulative. A contact or title package may create a visible
 
 ## Evidence
 
+- Soft-contact diagnosis: [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] says Ban Biao reads Northern Xiongnu's tribute, heqin request, and music request as fear after Southern Xiongnu submission, not simple trustworthiness.
+- Calibrated reply and reward: [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] says Han answers with matched gifts, careful historical wording, refusal of instruments, and noncommittal treatment of Northern versus Southern Xiongnu claims.
 - Trade-contact destabilization: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Mingdi accepts Northern Xiongnu trade despite raids, while Xugu Duhou resents Han-Northern contact and seeks northern help.
 - Institutional containment: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Zheng Zhong captures Xugu Duhou's messenger and Han creates Duliaoying to prevent Southern/Northern Xiongnu collusion.
 - Envoy-contact risk: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Zheng Zhong warns that a return mission would let the Northern Xiongnu chanyu advertise Han contact and reinforce Western Regions loyalty.
@@ -46,17 +51,20 @@ The core tradeoff is cumulative. A contact or title package may create a visible
 
 ## Counterevidence & Qualifications
 
-The concept does not reject all frontier recognition, visits, trade, or title packages. Other pages preserve cases where recognition stabilizes submission or restores local order. The key condition here is credibility damage: the new signal must threaten older allies, neighboring groups, existing commitments, fiscal capacity, or ritual hierarchy. Hanji 737 shows the risk becoming institutional containment through Duliaoying; Hanji 738 is mainly a warning case rather than a completed policy failure, so it grounds risk diagnosis more than outcome measurement.
+The concept does not reject all frontier recognition, visits, trade, or title packages. Other pages preserve cases where recognition stabilizes submission or restores local order. The key condition here is credibility damage: the new signal must threaten older allies, neighboring groups, existing commitments, fiscal capacity, or ritual hierarchy. Hanji 729 strengthens this qualification because Ban Biao does not advise cutting off Northern Xiongnu; he advises a reply that gives enough reward and respect to manage contact while withholding the stronger recognition signals embedded in instruments, full trust, and open alignment. Hanji 737 shows the risk becoming institutional containment through Duliaoying; Hanji 738 is mainly a warning case rather than a completed policy failure, so it grounds risk diagnosis more than outcome measurement.
 
 ## What Changed
 
-- Added Hanji 737 as the earliest trade-contact destabilization and Duliaoying-containment variant.
+- Added Hanji 729 as the earliest soft-contact variant: tribute, heqin, and music requests answered by matched gifts and careful wording.
+- Reframed Hanji 737 as the later trade-contact destabilization and Duliaoying-containment variant.
 - Reframed Hanji 738 as the later envoy-contact and ritual-recognition warning before Hanji 765's formal Yu Chu title-recognition dispute.
 - Broadened the concept from formal title grants to visible diplomatic and trade acts that a frontier rival can use as recognition.
 - Preserved Hanji 765's Southern Xiongnu, Wuhuan-Xianbei, fiscal, and rebellion evidence as the fuller failure case.
 
 ## Related Concepts
 
+- [[BanBiaoEasternHan|班彪]] - adviser whose Northern Xiongnu reply demonstrates the soft-contact variant of the tradeoff.
+- [[LiuXiu|光武帝刘秀]] - emperor who adopts the calibrated reply to Northern Xiongnu in Hanji 729.
 - [[ZhengZhongFrontierEasternHan|郑众]] - early source actor who diagnoses envoy-contact recognition risk.
 - [[DuliaoCampEasternHan|都辽营]] - institutional response when trade contact creates Southern/Northern Xiongnu collusion risk.
 - [[YuanAnEasternHan|袁安]] - later minister who diagnoses formal title-recognition risk.
