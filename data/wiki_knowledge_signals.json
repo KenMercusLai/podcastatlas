@@ -10239,6 +10239,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/dongxilatehan/"
     },
+    "DongXuanEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？ [lryZceJDnrm4-92esNddFVyjKqLi].md",
+          "key": "zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/dongxuaneasternhan/"
+    },
     "DongYuanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -18515,9 +18531,9 @@
       "url": "/wiki/concepts/highstatuscautionselfprotection/"
     },
     "HighStatusLawEnforcementSignal": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -18560,9 +18576,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》822丨豺狼当道，他将矛头直指皇帝岳父？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？ [lryZceJDnrm4-92esNddFVyjKqLi].md",
+          "key": "zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/highstatuslawenforcementsignal/"
     },
     "HistoricalComplexityAgainstLabels": {
@@ -19235,9 +19258,9 @@
       "url": "/wiki/entities/huaxin/"
     },
     "HuanRongEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》734丨桓荣成大儒，因为明帝是个好捧哏？ [lhWbxrqocF102Or9k0nb6Z93gzx9].md",
@@ -19252,6 +19275,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？ [lryZceJDnrm4-92esNddFVyjKqLi].md",
+          "key": "zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli/"
         }
       ],
       "updated": "2026-08-31",
@@ -20055,6 +20085,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/huyanglatehan/"
+    },
+    "HuyangPrincessEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？ [lryZceJDnrm4-92esNddFVyjKqLi].md",
+          "key": "zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/huyangprincesseasternhan/"
     },
     "HyperscaleDataCenterMoratorium": {
       "episode_count": 3,
@@ -25446,9 +25492,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 2,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -25547,6 +25593,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》722丨让刘秀险死的头痛病，怎么回事？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？ [lryZceJDnrm4-92esNddFVyjKqLi].md",
+          "key": "zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli/"
         }
       ],
       "updated": "2026-08-31",
@@ -35914,9 +35967,9 @@
       "url": "/wiki/entities/rugbyworldcup1995/"
     },
     "RuleOverKinshipPower": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？ [lup_p-Inz1sdlhpnAGgqjP0EAvAr].md",
@@ -35931,9 +35984,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？ [lryZceJDnrm4-92esNddFVyjKqLi].md",
+          "key": "zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/ruleoverkinshippower/"
     },
     "RumorDrivenFrontierIntervention": {
@@ -43868,9 +43928,9 @@
       "url": "/wiki/entities/wudaolatehan/"
     },
     "WuHanEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -43878,6 +43938,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
           "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？ [lryZceJDnrm4-92esNddFVyjKqLi].md",
+          "key": "zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli/"
         }
       ],
       "updated": "2026-08-31",
@@ -46484,9 +46551,9 @@
       "url": "/wiki/entities/yinlihua/"
     },
     "YinShiEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂 [ltjL2bGpyyz1bMwE_4mfCYd9E6cf].md",
@@ -46494,6 +46561,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？ [lryZceJDnrm4-92esNddFVyjKqLi].md",
+          "key": "zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli/"
         }
       ],
       "updated": "2026-08-31",
@@ -46516,9 +46590,9 @@
       "url": "/wiki/entities/yinxindoctor/"
     },
     "YinXingGuangwuMaternalKin": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》722丨让刘秀险死的头痛病，怎么回事？ [logWCCdSCA7Vm2ZZssu8ubm8RWra].md",
@@ -46526,6 +46600,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》722丨让刘秀险死的头痛病，怎么回事？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？ [lryZceJDnrm4-92esNddFVyjKqLi].md",
+          "key": "zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli/"
         }
       ],
       "updated": "2026-08-31",

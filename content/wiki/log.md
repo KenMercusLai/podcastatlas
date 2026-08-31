@@ -14399,3 +14399,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-31] ingest | 《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？
+
+Ingested the 2026-06-22 芮淇讲透资治通鉴 episode on Jianwu 19-20 / 43-44 CE personnel selection, Yin Shi and Yin Xing's crown-prince guidance, Huan Rong's classics-teaching recognition, Dong Xuan's enforcement against Princess Huyang's protected slave, Liu Xiu's reward-and-restraint signal, Nandun tax relief, Liu Shang's southwestern campaign, and Wu Han's deathbed warning. Created `DongXuanEasternHan` and `HuyangPrincessEasternHan`; updated `LiuXiu`, `YinShiEasternHan`, `YinXingGuangwuMaternalKin`, `HuanRongEasternHan`, `WuHanEasternHan`, `HighStatusLawEnforcementSignal`, and `RuleOverKinshipPower`. No settled contradiction found; Ding Gong, Zhong Xing, Liu Shang, Ren Gui, Dong Chan, and Nandun remain source-scoped.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
