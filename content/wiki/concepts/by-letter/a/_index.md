@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6111
+wiki_total_pages: 6114
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1235,6 +1235,12 @@ wiki_pages:
   - key: "AirlineMarketPriceDiscipline"
     title: "Airline Market Price Discipline"
     url: "/wiki/concepts/airlinemarketpricediscipline/"
+  - key: "AirlineMealIndustrialization"
+    title: "Airline Meal Industrialization"
+    url: "/wiki/concepts/airlinemealindustrialization/"
+  - key: "AirlineMealMonetization"
+    title: "Airline Meal Monetization"
+    url: "/wiki/concepts/airlinemealmonetization/"
   - key: "AirlineServiceDifferentiation"
     title: "Airline Service Differentiation"
     url: "/wiki/concepts/airlineservicedifferentiation/"

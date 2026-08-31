@@ -2,22 +2,48 @@
 title: "China Southern Airlines / 南方航空"
 type: entity
 tags: [company, airline, china, hong-kong, investing]
-sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]
-last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
+sources:
+  - lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506
+  - zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805
+  - vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90
+  - nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273
+last_updated: 2026-08-31
 ---
 
 # China Southern Airlines / 南方航空
 
-[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds China Southern to the airline meal-upgrade branch. The source groups it with [[AirChina|国航]], [[ChinaEasternAirlines|东航]], and [[HainanAirlines|海航]] as carriers investing in more visible onboard food and premium-service signals despite fuel-cost and profitability pressure.
+## Overview
+China Southern Airlines / 南方航空 is a Chinese airline appearing in the wiki as both an operating airline-service case and an A/H-share investing example.
 
-[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds China Southern as a comparison airline for [[ChinaEasternAirlines|China Eastern Airlines]]' looser refund/change policy. The source says China Southern and [[AirChina|Air China]] both use seven days as the key change/refund boundary, while China Eastern moved its free change/refund cutoff from 30 days to 14 days before departure.
+## Current Profile
+China Southern's aviation-service role is group-level: it appears alongside Air China, China Eastern, and Hainan Airlines in Chinese in-flight meal upgrade discussion, and alongside Air China as a ticket-policy comparison point. Separately, it remains David Weng's example of A/H-share discount repricing in Hong Kong investing.
 
-China Southern Airlines is [[DavidWeng|大卫翁]]'s AH discount example in [[vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]]. He first bought the A-share around the 2014 oil-price and RMB thesis, then switched to the cheaper H-share after noticing that the same broad asset was priced much lower in Hong Kong.
+The new source keeps China Southern in the meal economics branch by citing the three major Chinese carriers' meal-related spending as a small share of total cost, reinforcing why food is a visible but financially bounded service lever.
 
-## Connections
-- [[AHShareDiscountRepricing]] — direct source case.
-- [[HongKongStockConnect]] — access catalyst that later helped some AH discounts narrow.
-- [[HongKongMarketStructure]] — market-structure context behind pricing gaps.
-- [[InvestmentCatalyst]] and [[InvestmentRiskManagement]] — business thesis plus implementation discipline.
-- [[ChinaEasternAirlines]], [[AirChina]], and [[AirlineTicketFlexibility]] - ticket-policy comparison branch added by 声动早咖啡.
-- [[AirlineServiceDifferentiation]] - in-flight meal and passenger-experience branch added by the later 声动早咖啡 source.
+## Key Characteristics
+- Peer carrier in Chinese airline meal-upgrade coverage.
+- Ticket-policy comparison point using a seven-day boundary in contrast with China Eastern's 14-day window.
+- A/H-share discount example in a Hong Kong investing source.
+- Example of airline service spending that is visible to passengers but small relative to fuel, aircraft, and other major cost lines.
+
+## Evidence
+- Meal-upgrade peer group: [[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] groups China Southern with other Chinese carriers investing in onboard food and premium-service signals.
+- Meal-cost economics: [[nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273]] cites Air China, China Eastern, and China Southern meal-related spending as material in absolute terms but roughly 3% of major airline total cost.
+- Ticket-policy comparison: [[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] says China Southern and Air China used seven days as a key refund/change boundary while China Eastern used 14 days.
+- Investing case: [[vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]] uses China Southern to explain A-share and H-share pricing gaps, oil-price/RMB catalysts, and switching to the cheaper H-share.
+
+## Qualifications
+Meal and ticket-policy evidence is not a full company strategy analysis. The A/H-share investing example is historical and should not be merged with current service-upgrade claims beyond the broad fact that the same airline can appear in operating and market-structure contexts.
+
+## What Changed
+- Added meal-cost share as a reason China Southern can appear in service strategy without making catering central to total airline economics.
+- Preserved the separation between operating-service evidence and historical investing evidence.
+
+## Relationships
+- [[AirChina]] - peer carrier in meal and ticket-policy comparisons.
+- [[ChinaEasternAirlines]] - peer carrier and contrasting ticket-flexibility case.
+- [[HainanAirlines]] - peer carrier in the meal-upgrade branch.
+- [[AirlineServiceDifferentiation]] - passenger-service frame for meal upgrades.
+- [[AirlineMealIndustrialization]] - operating constraints behind meal quality and cost adjustment.
+- [[AHShareDiscountRepricing]] - investing pattern where China Southern is a source case.

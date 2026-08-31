@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2616
+topic_total_pages: 2617
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2290,6 +2290,9 @@ topic_concepts:
   - key: "LowLatencyInferenceChip"
     title: "Low-Latency Inference Chip"
     url: "/wiki/concepts/lowlatencyinferencechip/"
+  - key: "LPDDR6"
+    title: "LPDDR6"
+    url: "/wiki/concepts/lpddr6/"
   - key: "LunarNuclearPower"
     title: "Lunar Nuclear Power"
     url: "/wiki/concepts/lunarnuclearpower/"

@@ -1919,6 +1919,112 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/aimatechnology/"
     },
+    "AirChina": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md",
+          "key": "lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506",
+          "show": "声动早咖啡",
+          "title": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿",
+          "url": "/wiki/sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506/"
+        },
+        {
+          "episode_file": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策 [1005631805].md",
+          "key": "zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805",
+          "show": "声动早咖啡",
+          "title": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策",
+          "url": "/wiki/sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805/"
+        },
+        {
+          "episode_file": "No.203 ✈️ “不死鸟”兰世立 [979295393].md",
+          "key": "no-203-businiao-lanshili-979295393",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.203 \\\"不死鸟\\\"兰世立",
+          "url": "/wiki/sources/no-203-businiao-lanshili-979295393/"
+        },
+        {
+          "episode_file": "难以影响购票决策的飞机餐，为何成为航司升级重点？ [1009809273].md",
+          "key": "nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273",
+          "show": "声动早咖啡",
+          "title": "难以影响购票决策的飞机餐，为何成为航司升级重点？",
+          "url": "/wiki/sources/nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/airchina/"
+    },
+    "AirlineMealIndustrialization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "难以影响购票决策的飞机餐，为何成为航司升级重点？ [1009809273].md",
+          "key": "nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273",
+          "show": "声动早咖啡",
+          "title": "难以影响购票决策的飞机餐，为何成为航司升级重点？",
+          "url": "/wiki/sources/nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/airlinemealindustrialization/"
+    },
+    "AirlineMealMonetization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "难以影响购票决策的飞机餐，为何成为航司升级重点？ [1009809273].md",
+          "key": "nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273",
+          "show": "声动早咖啡",
+          "title": "难以影响购票决策的飞机餐，为何成为航司升级重点？",
+          "url": "/wiki/sources/nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/airlinemealmonetization/"
+    },
+    "AirlineServiceDifferentiation": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md",
+          "key": "lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506",
+          "show": "声动早咖啡",
+          "title": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿",
+          "url": "/wiki/sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_62e9deae53793025553f4f23831e1e54_27081320 [default.mp3_ywr3ahjkcgo_62e9deae53793025553f4f23831e1e54_27081320].md",
+          "key": "spirit-airlines-and-the-future-of-cheap-flights",
+          "show": "Planet Money",
+          "title": "Spirit Airlines and the future of cheap flights",
+          "url": "/wiki/sources/spirit-airlines-and-the-future-of-cheap-flights/"
+        },
+        {
+          "episode_file": "EP11 空少揭秘：飞机上的神秘规定和奇闻趣事 [luA5j8ErhK1SMzf5gwMJ2jNI9-sH].md",
+          "key": "ep11-kongshao-jiemi-feiji-shang-de-shenmi-guiding-he-qiwen-qushi-lua5j8erhk1smzf5gwmj2jni9-sh",
+          "show": "一劳永逸",
+          "title": "EP11 空少揭秘：飞机上的神秘规定和奇闻趣事",
+          "url": "/wiki/sources/ep11-kongshao-jiemi-feiji-shang-de-shenmi-guiding-he-qiwen-qushi-lua5j8erhk1smzf5gwmj2jni9-sh/"
+        },
+        {
+          "episode_file": "难以影响购票决策的飞机餐，为何成为航司升级重点？ [1009809273].md",
+          "key": "nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273",
+          "show": "声动早咖啡",
+          "title": "难以影响购票决策的飞机餐，为何成为航司升级重点？",
+          "url": "/wiki/sources/nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/airlineservicedifferentiation/"
+    },
     "AlanCastel": {
       "episode_count": 1,
       "show_count": 1,
@@ -6514,6 +6620,36 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/chinaburgerexpansion/"
     },
+    "ChinaEasternAirlines": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md",
+          "key": "lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506",
+          "show": "声动早咖啡",
+          "title": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿",
+          "url": "/wiki/sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506/"
+        },
+        {
+          "episode_file": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策 [1005631805].md",
+          "key": "zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805",
+          "show": "声动早咖啡",
+          "title": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策",
+          "url": "/wiki/sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805/"
+        },
+        {
+          "episode_file": "难以影响购票决策的飞机餐，为何成为航司升级重点？ [1009809273].md",
+          "key": "nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273",
+          "show": "声动早咖啡",
+          "title": "难以影响购票决策的飞机餐，为何成为航司升级重点？",
+          "url": "/wiki/sources/nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/chinaeasternairlines/"
+    },
     "ChinaHomeSharingSupplyMotivation": {
       "episode_count": 1,
       "show_count": 1,
@@ -6573,6 +6709,43 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/chinarealestatedebtcycle/"
+    },
+    "ChinaSouthernAirlines": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md",
+          "key": "lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506",
+          "show": "声动早咖啡",
+          "title": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿",
+          "url": "/wiki/sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506/"
+        },
+        {
+          "episode_file": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策 [1005631805].md",
+          "key": "zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805",
+          "show": "声动早咖啡",
+          "title": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策",
+          "url": "/wiki/sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805/"
+        },
+        {
+          "episode_file": "vol.104.普通人港股完全生存指南 ｜ 串台三点下班 [lmzivGi6D3gUV7WAJYjw9Cv9ZZ90].md",
+          "key": "vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90",
+          "show": "起朱楼宴宾客",
+          "title": "vol.104.普通人港股完全生存指南 | 串台三点下班",
+          "url": "/wiki/sources/vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90/"
+        },
+        {
+          "episode_file": "难以影响购票决策的飞机餐，为何成为航司升级重点？ [1009809273].md",
+          "key": "nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273",
+          "show": "声动早咖啡",
+          "title": "难以影响购票决策的飞机餐，为何成为航司升级重点？",
+          "url": "/wiki/sources/nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/chinasouthernairlines/"
     },
     "ChinaWomensNationalFootballTeam": {
       "episode_count": 1,
@@ -17090,6 +17263,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/haidilao/"
     },
+    "HainanAirlines": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md",
+          "key": "lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506",
+          "show": "声动早咖啡",
+          "title": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿",
+          "url": "/wiki/sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506/"
+        },
+        {
+          "episode_file": "难以影响购票决策的飞机餐，为何成为航司升级重点？ [1009809273].md",
+          "key": "nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273",
+          "show": "声动早咖啡",
+          "title": "难以影响购票决策的飞机餐，为何成为航司升级重点？",
+          "url": "/wiki/sources/nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/hainanairlines/"
+    },
     "HamiltonBurrDuel": {
       "episode_count": 1,
       "show_count": 1,
@@ -22032,6 +22228,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/kyliejenner/"
+    },
+    "LPDDR6": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "难以影响购票决策的飞机餐，为何成为航司升级重点？ [1009809273].md",
+          "key": "nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273",
+          "show": "声动早咖啡",
+          "title": "难以影响购票决策的飞机餐，为何成为航司升级重点？",
+          "url": "/wiki/sources/nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/lpddr6/"
     },
     "Lacoste": {
       "episode_count": 1,

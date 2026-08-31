@@ -2,21 +2,47 @@
 title: "China Eastern Airlines / 东方航空"
 type: entity
 tags: [company, airline, aviation, china, travel]
-sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]
-last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
+sources:
+  - lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506
+  - zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805
+  - nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273
+last_updated: 2026-08-31
 ---
 
 # China Eastern Airlines / 东方航空
 
-[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds China Eastern to the 2026 airline meal-upgrade branch. The source groups it with [[AirChina|国航]], [[ChinaSouthernAirlines|南航]], and [[HainanAirlines|海航]], saying major Chinese airlines are adding city specialties, seasonal dishes, hotel and Michelin restaurant collaborations, and premium add-ons such as ice cream, coffee, baijiu, and champagne.
+## Overview
+China Eastern Airlines / 东方航空 is a Chinese airline used in the wiki for passenger-service, ticket-flexibility, and demand-protection examples.
 
-China Eastern Airlines is the Chinese airline at the center of the ticket-policy segment in [[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]]. The episode says China Eastern moved the free change/refund cutoff for all cabins from 30 days before departure to 14 days before departure.
+## Current Profile
+China Eastern's strongest profile is demand protection through service design. One source makes it the main case for loosening refund and change rules to reduce early-booking hesitation, while two later airline-meal sources place it inside Chinese carriers' visible service upgrades.
 
-The source presents the move as [[AirlineTicketFlexibility]] rather than simple discounting. By reducing the penalty risk of buying early, China Eastern may encourage earlier booking and appeal to business travelers and corporate clients whose plans change more often. The episode contrasts this with [[AirChina|Air China]] and [[ChinaSouthernAirlines|China Southern Airlines]], where seven days remains a key boundary and discounted tickets can still incur 5%-20% change/refund fees before that point.
+The new episode adds that China Eastern is also part of the paid-meal branch, where food can become optional revenue and preference-data infrastructure as long as baseline economy service remains credible.
 
-## Connections
-- [[AirlineTicketFlexibility]] - core policy mechanism added by the source.
-- [[AirChina|Air China]] and [[ChinaSouthernAirlines|China Southern Airlines]] - comparison airlines in the same segment.
-- [[PriceElasticity]] - demand effect from reducing penalty risk around early booking.
-- [[AirlineLoyaltyProgramMoat]] - adjacent corporate-travel and business-customer retention context.
-- [[AirlineServiceDifferentiation]] - in-flight meal and passenger-experience branch added by the later 声动早咖啡 source.
+## Key Characteristics
+- Main airline example for a looser 14-day free refund/change window.
+- Peer carrier in Chinese in-flight meal upgrades using city dishes, seasonal menus, and premium add-ons.
+- Named participant in paid-meal offerings outside the existing free economy meal baseline.
+- Illustrates how service changes can target repeat purchase, corporate travel comfort, and passenger memory rather than headline fare alone.
+
+## Evidence
+- Ticket flexibility: [[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] says China Eastern moved the free refund/change cutoff from 30 days to 14 days before departure for all cabins.
+- Meal-upgrade peer group: [[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] groups China Eastern with Air China, China Southern, and Hainan Airlines around visible in-flight meal upgrades.
+- Paid-meal branch: [[nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273]] names China Eastern among carriers that launched paid meal options while keeping free economy meals as the claimed baseline.
+- Demand logic: [[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] and [[nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273]] both treat service design as a way to shape behavior after the fare comparison.
+
+## Qualifications
+The ticket-policy source is more specific to China Eastern than the meal sources. The meal-upgrade and paid-meal evidence is mostly group-level and media-reported, so airline-specific financial effects remain source-scoped.
+
+## What Changed
+- Added paid meal choices to China Eastern's service profile.
+- Connected China Eastern's service strategy to post-purchase loyalty and brand memory, not only booking flexibility.
+
+## Relationships
+- [[AirChina]] - peer carrier and policy comparison point.
+- [[ChinaSouthernAirlines]] - peer carrier in both ticket-policy and meal-service comparisons.
+- [[HainanAirlines]] - peer in the meal-upgrade branch.
+- [[AirlineTicketFlexibility]] - demand lever where China Eastern is the central source case.
+- [[AirlineServiceDifferentiation]] - broader passenger-experience frame.
+- [[AirlineMealMonetization]] - paid-meal branch connected to China Eastern.

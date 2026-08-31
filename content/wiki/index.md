@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [难以影响购票决策的飞机餐，为何成为航司升级重点？](sources/nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273.md) — 声动早咖啡 episode on airline meals as constrained service operations, repeat-purchase signal, controllable cost lever, and paid-meal monetization branch, with side updates on Meituan, Mixue Bingcheng, LPDDR6, and Insta360.
 - [701. Roman Civil War: Rise of the General (Part 1)](sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909.md) — The Rest Is History episode on Gaius Marius, Roman expansion and moral anxiety, the Gracchi legacy, novus homo politics, Metellan patronage, the Jugurthine War, and the emerging Marius-Sulla rivalry.
 - [682. South Africa: Mandela and the Death of Apartheid (Part 6)](sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080.md) — The Rest Is History episode on Mandela, apartheid memory, Springbok rugby, the 1995 Rugby World Cup, Nkosi Sikelel' iAfrika, Die Stem, and symbolic reconciliation.
 - [《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄](sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr.md) — 芮淇讲透资治通鉴 episode on Mingdi's 57-58 CE accession support, Liu Cang and Wu Liang, the Shaodang Qiang crisis, Yuanling reporting before Guangwu's tablet, Liu Qiang's death, Liu Jing's relocation, Ji Tong's Liaodong frontier result, and rites/music codification.
@@ -3237,7 +3238,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Amer Sports / 亚玛芬体育](entities/AmerSports.md) — Outdoor-sports group behind Arc'teryx, added through the source's China premium-outdoor expansion branch.
 - [Arc'teryx / 始祖鸟](entities/Arcteryx.md) — Premium outdoor brand expanding in Greater China through flagship and store rollout.
 - [Lucky Coffee / 幸运咖](entities/LuckyCoffee.md) — Mixue coffee brand moving from low-tier scale toward higher-tier office and industrial-park locations.
-- [Hainan Airlines / 海南航空](entities/HainanAirlines.md) — Chinese airline included in the in-flight meal and passenger-service upgrade branch.
+- [Hainan Airlines / 海南航空](entities/HainanAirlines.md) — Chinese airline peer case in the in-flight meal and passenger-service upgrade branch.
 - [Sydney](entities/Sydney.md) — Australian city used as the source's beach/outdoor lifestyle and drone lifeguard case.
 - [CyberCab](entities/CyberCab.md) — Tesla dedicated robotaxi vehicle in the source's Austin rollout discussion.
 - [Gansu / 甘肃](entities/Gansu.md) — Landing setting for LandSpace's Zhuque-3 Yao-2 first-stage recovery in the source.
@@ -4712,7 +4713,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Head & Shoulders / 海飞丝](entities/HeadAndShoulders.md) — Mass hair-care brand used as a contrast to premium, functional, and salon-backed growth in the 2026 hair-care source.
 - [Bee & Flower / 蜂花](entities/BeeAndFlower.md) — Legacy low-priced Chinese hair-care brand used as a mass-market contrast to premium and function-led hair-care growth.
 - [Ralph Lauren](entities/RalphLauren.md) — Fashion and lifestyle brand whose China-led growth and planned channel tightening illustrate multi-price-band luxury branding.
-- [China Eastern Airlines / 东方航空](entities/ChinaEasternAirlines.md) — Chinese airline using a looser 14-day free refund/change cutoff to reduce early-booking hesitation and appeal to business travelers.
+- [China Eastern Airlines / 东方航空](entities/ChinaEasternAirlines.md) — Chinese airline using ticket flexibility, meal upgrades, and paid-meal options as service-design levers.
 - [Mercedes-Benz](entities/MercedesBenz.md) — German luxury automaker used in the source's China margin and sales-pressure comparison.
 - [BMW](entities/BMW.md) — German luxury automaker whose low automotive margin is a sharp example of German luxury-car pressure in China.
 - [Audi](entities/Audi.md) — German luxury automaker used with Mercedes-Benz and BMW to show China demand pressure from local new-energy brands.
@@ -8054,7 +8055,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [China Mobile / 中国移动](entities/ChinaMobile.md) — Hong Kong-listed telecom SOE used in vol.104 as a sanction-driven mispricing and high-dividend example.
 - [CNOOC / 中国海油](entities/CNOOC.md) — State-owned energy company used in vol.104 as a positive high-dividend and shareholder-alignment example.
 - [China Shenhua / 中国神华](entities/ChinaShenhua.md) — State-owned energy company used in vol.104 as a Hong Kong dividend and cash-return example.
-- [China Southern Airlines / 南方航空](entities/ChinaSouthernAirlines.md) — Airline case for vol.104's AH share discount repricing discussion.
+- [China Southern Airlines / 南方航空](entities/ChinaSouthernAirlines.md) — Airline case for meal-service economics, ticket-policy comparison, and vol.104's AH share discount repricing discussion.
 - [Datang Renewable Power / 大唐新能源](entities/DatangRenewablePower.md) — Renewable-power operator used in vol.104 as a depressed-PB valuation-repair case.
 - [Longyuan Power / 龙源电力](entities/LongyuanPower.md) — Renewable-power operator paired with 大唐新能源 in vol.104's subsidy-pessimism and rerating discussion.
 - [Lao Pu Gold / 老铺黄金](entities/LaoPuGold.md) — Hong Kong IPO example used in vol.104 to illustrate the new-stock liquidity path.
@@ -9183,7 +9184,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yuan Shanla / 袁善辣](entities/YuanShanla.md) — Wuhan official tied to East Star's approval and restructuring story, with later allegations treated cautiously by the source.
 - [Rongzhong Group / 荣众集团](entities/RongzhongGroup.md) — Financing and real-estate dispute counterparty in Lan Shili's post-prison legal battles.
 - [Xie Xiaoqing / 谢晓清](entities/XieXiaoqing.md) — Rongzhong figure in the contested Dongsheng Real Estate equity-transfer dispute.
-- [Air China / 国航](entities/AirChina.md) — State-owned airline counterparty in the attempted East Star restructuring and post-grounding aviation continuity.
+- [Air China / 国航](entities/AirChina.md) — State-owned airline counterparty in the East Star restructuring branch and Chinese carrier case for meal-service monetization.
 - [China National Aviation Holding / 中航集团](entities/ChinaNationalAviationHolding.md) — State-owned aviation group involved in the East Star restructuring negotiation.
 - [GECAS](entities/GECAS.md) — Aircraft-leasing actor that helped East Star move from airline approval to fleet access.
 - [Civil Aviation Administration of China / 中国民航总局](entities/CivilAviationAdministrationOfChina.md) — Regulator whose private-airline opening created the policy window for East Star and Spring Airlines.
@@ -15371,6 +15372,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Patient AI Use](concepts/PatientAIUse.md) — Pattern where patients use large language models to interpret symptoms, results, diagnoses, treatment possibilities, or medical decisions before bringing those outputs into care.
 - [Doctor-Guided AI Interpretation](concepts/DoctorGuidedAIInterpretation.md) — Clinical practice of reviewing patient AI outputs with medical history, context, and professional responsibility rather than treating AI as an independent doctor.
 - [High Bandwidth Memory](concepts/HighBandwidthMemory.md) — Stacked fast memory category used to explain AI accelerator bottlenecks, Micron/SK Hynix/Samsung supply pressure, and consumer-market spillovers.
+- [LPDDR6](concepts/LPDDR6.md) — Low-power mobile memory generation linked in the source to handset launches, supplier validation, and AI-era energy-efficiency pressure.
 - [AI Data Center Memory Hierarchy](concepts/AIDataCenterMemoryHierarchy.md) — Layered SRAM, HBM, DRAM, NAND, and hard-drive frame for AI data-center storage tradeoffs.
 - [Memory Wall](concepts/MemoryWall.md) — Bottleneck where accelerator compute grows faster than data movement, making bandwidth, latency, packaging, and memory hierarchy strategic.
 - [AI Storage Supercycle](concepts/AIStorageSupercycle.md) — AI-driven memory/storage upcycle combining DRAM, HBM, NAND, packaging, and infrastructure capacity demand while retaining cyclical risk.
@@ -16237,6 +16239,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Translation](concepts/AITranslation.md) — Context-aware, multimodal translation across webpages, PDFs, subtitles, images, manga, and speech.
 - [AI Workforce Monitoring](concepts/AIWorkforceMonitoring.md) — Workplace risk where AI-enabled productivity measurement turns into invasive employee behavior surveillance.
 - [Airline Service Differentiation](concepts/AirlineServiceDifferentiation.md) — Airline passenger-experience differences created by cabin class, hardware, amenities, food budget, crew style, route design, and ground service.
+- [Airline Meal Industrialization](concepts/AirlineMealIndustrialization.md) — Airline catering operating system of menu design, batch production, cold-chain handling, reheating, cabin taste constraints, and aircraft service timing.
+- [Airline Meal Monetization](concepts/AirlineMealMonetization.md) — Strategy of turning in-flight food into paid choices, member benefits, preference data, or ancillary revenue while preserving baseline service risk.
 - [Agent-Facing Interfaces](concepts/AgentFacingInterfaces.md) — CLI, API, MCP-like, skill, and tool layers that make software callable by agents.
 - [Agent Harness](concepts/AgentHarness.md) — Model-external system of tools, context, memory, permissions, runtime state, and orchestration that lets an agent act.
 - [Agent Identity And Authentication](concepts/AgentIdentityAndAuthentication.md) — Infrastructure problem of attributing agent actions, granting permissions, and balancing real-name controls with openness.

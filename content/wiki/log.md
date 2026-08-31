@@ -14067,6 +14067,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | 难以影响购票决策的飞机餐，为何成为航司升级重点？
+
+Ingested the 2026-08-31 声动早咖啡 episode on why airline meals can become an upgrade focus even when meals rarely drive initial ticket choice. Created the source note plus `AirlineMealIndustrialization`, `AirlineMealMonetization`, and `LPDDR6`; updated `AirlineServiceDifferentiation`, `AirChina`, `ChinaEasternAirlines`, `ChinaSouthernAirlines`, and `HainanAirlines`. No settled contradiction found; company-performance figures, LPDDR6 supplier/product details, meal-cost totals, margin estimates, and the cited loyalty study remain source-scoped.
+
 ## [2026-08-31] ingest | 682. South Africa: Mandela and the Death of Apartheid (Part 6)
 
 Ingested the 2026-06-24 The Rest Is History episode on Nelson Mandela, apartheid memory, Springbok rugby, the 1995 Rugby World Cup, Nkosi Sikelel' iAfrika, Die Stem, and the making of South Africa's multilingual anthem. Created the source note plus `SouthAfrica`, `NelsonMandela`, `AfricanNationalCongress`, `Afrikaners`, `Springboks`, `RugbyWorldCup1995`, `EllisPark`, `EnochSontonga`, `NkosiSikelelIAfrika`, `DieStemVanSuidAfrika`, `FrancoisPienaar`, `ChesterWilliams`, `Apartheid`, `SymbolicReconciliationStatecraft`, `SportAsReconciliationRitual`, and `MultilingualNationalAnthemFormation`; updated `TheRestIsHistory`, `index`, and `overview`. No settled contradiction found; this branch is distinct from existing South African wine and business references, and long-term claims remain source-scoped to the episode's 1995 rugby and anthem narrative.
@@ -14274,6 +14278,10 @@ Ingested the 2026-06-24 芮淇讲透资治通鉴 episode on Han Mingdi's 57-58 C
 ## [2026-08-31] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 16,463 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes while the current lint scan covered 16,463 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is unset/provider-unqualified and no common provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

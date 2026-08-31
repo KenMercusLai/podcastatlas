@@ -1650,7 +1650,7 @@
       "earliest_episode_date": "2021-07-08",
       "latest_episode_date": "2026-08-30",
       "latest_episode_file": "难以影响购票决策的飞机餐，为何成为航司升级重点？ [1009809273].md",
-      "source_note_count": 21,
+      "source_note_count": 22,
       "topic_matched_source_note_count": 15,
       "topics": [
         {
@@ -1702,6 +1702,20 @@
           "episode_count": 3
         },
         {
+          "key": "ChinaEasternAirlines",
+          "title": "China Eastern Airlines / 东方航空",
+          "url": "/wiki/entities/chinaeasternairlines/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
+          "key": "ChinaSouthernAirlines",
+          "title": "China Southern Airlines / 南方航空",
+          "url": "/wiki/entities/chinasouthernairlines/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
           "key": "Tesla",
           "title": "Tesla",
           "url": "/wiki/entities/tesla/",
@@ -1714,20 +1728,6 @@
           "url": "/wiki/entities/yumchina/",
           "kind": "organization",
           "episode_count": 3
-        },
-        {
-          "key": "Amazon",
-          "title": "Amazon",
-          "url": "/wiki/entities/amazon/",
-          "kind": "organization",
-          "episode_count": 2
-        },
-        {
-          "key": "AMCTheatres",
-          "title": "AMC Theatres",
-          "url": "/wiki/entities/amctheatres/",
-          "kind": "organization",
-          "episode_count": 2
         }
       ],
       "start_here_episode_files": [

@@ -2,24 +2,49 @@
 title: "Air China / 国航"
 type: entity
 tags: [airline, aviation, state-owned-enterprise, china]
-sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, no-203-businiao-lanshili-979295393]
-last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
+sources:
+  - lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506
+  - zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805
+  - no-203-businiao-lanshili-979295393
+  - nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273
+last_updated: 2026-08-31
 ---
 
 # Air China / 国航
 
-[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds Air China to the in-flight meal upgrade branch. The source groups Air China with [[ChinaEasternAirlines|东航]], [[ChinaSouthernAirlines|南航]], and [[HainanAirlines|海航]] as carriers adding city-specific dishes, seasonal menus, and premium-cabin collaborations to improve visible service quality.
+## Overview
+Air China / 国航 is a Chinese airline that appears in the wiki both as a state-linked aviation incumbent and as a current passenger-service comparison case.
 
-[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds Air China as a comparison point for [[ChinaEasternAirlines|China Eastern Airlines]]' ticket-policy change. The source says Air China and [[ChinaSouthernAirlines|China Southern Airlines]] both use seven days as a key change/refund boundary, with full-fare bookings free to change or refund seven days before departure and discounted tickets subject to 5%-20% fees before that point.
+## Current Profile
+Air China's current evidence profile has two separate layers. In the service layer, it is grouped with other major Chinese carriers upgrading in-flight meals and experimenting with paid meal choices. In the business-history layer, it appears as the state-owned counterparty in the failed East Star Airlines restructuring talks.
 
-Air China appears in [[no-203-businiao-lanshili-979295393]] as the state-owned airline counterparty in the attempted restructuring of [[EastStarAirlines]]. The episode describes negotiations in early 2009 involving Air China, [[ChinaNationalAviationHolding]], [[Wuhan]] government coordination, debt assumption, cash payments, and a disputed "one yuan acquisition" shorthand used by [[LanShili]].
+The new meal source sharpens the service layer: Air China is no longer only a carrier adding visible menu upgrades; it is also part of a broader logic in which catering is a controllable cost, brand-memory signal, and possible ancillary revenue item.
 
-After East Star stopped flying and entered bankruptcy proceedings, Air China's Hubei branch quickly became associated with the routes, personnel, aircraft, and operating space that had previously belonged to East Star. This makes Air China central to the source's [[LocalGovernmentEnterpriseRescue]] and private-versus-state aviation contrast.
+## Key Characteristics
+- Major Chinese carrier used as a peer case in 2026 airline meal upgrades.
+- Ticket-policy comparison point against [[ChinaEasternAirlines]]' looser refund/change window.
+- State-linked restructuring counterparty in the [[EastStarAirlines]] failure story.
+- Example of how full-service airlines can use meals as a visible but bounded service lever.
 
-## Connections
-- [[ChinaNationalAviationHolding]] — group parent context in the restructuring.
-- [[EastStarAirlines]], [[LanShili]], and [[Wuhan]] — crisis and negotiation context.
-- [[PrivateAirlineFailureModes]] — state carriers had stronger rescue channels than private entrants.
-- [[LocalGovernmentEnterpriseRescue]] — negotiation and post-grounding asset-continuity frame.
-- [[ChinaEasternAirlines]], [[ChinaSouthernAirlines]], and [[AirlineTicketFlexibility]] - ticket-policy comparison branch added by 声动早咖啡.
-- [[AirlineServiceDifferentiation]] - in-flight meal and passenger-experience branch added by the later 声动早咖啡 source.
+## Evidence
+- Meal upgrades and service visibility: [[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] groups Air China with other Chinese carriers adding city dishes, seasonal menus, collaborations, and premium add-ons.
+- Paid-meal and cost logic: [[nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273]] names Air China among carriers adding paid meal categories and frames meals as more controllable than fuel, landing fees, maintenance, or depreciation.
+- Ticket-policy comparison: [[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] says Air China used a seven-day refund/change boundary while China Eastern moved to a 14-day free window.
+- East Star restructuring role: [[no-203-businiao-lanshili-979295393]] describes Air China and [[ChinaNationalAviationHolding]] in the attempted 2009 restructuring of [[EastStarAirlines]].
+
+## Qualifications
+The service sources mostly discuss Air China as part of a carrier group rather than through audited airline-specific catering results. The East Star restructuring evidence belongs to a separate historical branch and should not be used to infer current service strategy.
+
+## What Changed
+- Added paid in-flight meals as a new Air China service and monetization branch.
+- Reframed meal upgrades as cost-control and brand-memory strategy, not only menu improvement.
+
+## Relationships
+- [[ChinaEasternAirlines]] - peer carrier and ticket-policy comparison point.
+- [[ChinaSouthernAirlines]] - peer carrier in meal-upgrade and ticket-policy comparisons.
+- [[HainanAirlines]] - peer carrier in the meal-upgrade branch.
+- [[AirlineServiceDifferentiation]] - broader passenger-service concept Air China illustrates.
+- [[AirlineMealMonetization]] - paid-meal strategy connected to Air China in the source.
+- [[EastStarAirlines]] - historical restructuring counterparty.
+- [[ChinaNationalAviationHolding]] - group-level state aviation context in the East Star branch.

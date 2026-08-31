@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "5b34a941f30837a088f50a54d9bf9c3cade0c94d22881580c0deac8064eadaea",
       "833c2c740e742ba106ef9b64e4f17428fbdd380980f1e7dd49bdbbfbddd48425",
       "5fac9c90d9086301afdb70bdae4dd076f54a6c5ee81f98bd5dc2fbaa714c363e",
       "841684bf4eae908daccc2a6e679b9d575732db0c38a70b9d0ff2fd3c721edcf7",
@@ -441,11 +442,38 @@
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0"
     ],
-    "paragraph_count": 439
+    "paragraph_count": 440
   },
-  "overview_commit": "a8dc36e5901ad1e565f287284a1e50d35d908e37",
-  "overview_digest": "13c1e16e6d989f7f70c33fe1e7e961c8cac66e9aaa7c8b32c682a6ab73268032",
+  "overview_commit": "5ebf8a7c037d3241442f06c9b6d679a097948f6b",
+  "overview_digest": "a051f703f1ef54d2404949103aea529700c43ff62176e05037609ad5656d5821",
   "paragraphs": [
+    {
+      "id": "5b34a941f30837a088f50a54d9bf9c3cade0c94d22881580c0deac8064eadaea",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273|难以影响购票决策的飞机餐，为何成为航司升级重点？]], a [[ShengdongZaokafei|声动早咖啡]] episode that turns airline meals from a menu complaint into service economics. It adds [[AirlineMealIndustrialization]], [[AirlineMealMonetization]], and [[LPDDR6]], while extending [[AirlineServiceDifferentiation]], [[AirChina]], [[ChinaEasternAirlines]], [[ChinaSouthernAirlines]], [[HainanAirlines]], [[Meituan]], [[MixueBingcheng]], [[Insta360]], and [[AIHardwareSupplyChainPressure]]. Its core synthesis is that in-flight food is not a strong first-purchase driver, but it remains useful because cold-chain industrialization makes it adjustable, passengers remember it on longer flights, catering costs are smaller and more controllable than fuel or aircraft costs, and paid meals can turn some service into ancillary revenue and loyalty data. No settled contradiction is recorded; company results, LPDDR6/product-launch claims, meal-spending figures, and the cited loyalty study remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AIHardwareSupplyChainPressure",
+        "AirChina",
+        "AirlineMealIndustrialization",
+        "AirlineMealMonetization",
+        "AirlineServiceDifferentiation",
+        "ChinaEasternAirlines",
+        "ChinaSouthernAirlines",
+        "HainanAirlines",
+        "Insta360",
+        "LPDDR6",
+        "Meituan",
+        "MixueBingcheng",
+        "ShengdongZaokafei",
+        "nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273"
+      ]
+    },
     {
       "id": "833c2c740e742ba106ef9b64e4f17428fbdd380980f1e7dd49bdbbfbddd48425",
       "primary_topic": "history-and-geopolitics",
