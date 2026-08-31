@@ -14067,6 +14067,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | 商业小样48 | 不要在财报中创造指标
+
+Ingested the 2026-08-30 商业就是这样 short episode on Lao Pu Gold's interim-report operating metrics, third-party ranking claims, changing denominators, per-mall productivity framing, luxury-brand positioning, and investor trust. Created the source note plus `FrostSullivan` and `FinancialReportOperatingMetricIntegrity`; updated `LaoPuGold`, `index`, `overview`, and downstream synthesis inputs. No settled contradiction found; the critique remains about metric traceability, comparability, and verifiability rather than proof that Lao Pu Gold's reported data is false or its business is weak.
+
 ## [2026-08-31] ingest | 难以影响购票决策的飞机餐，为何成为航司升级重点？
 
 Ingested the 2026-08-31 声动早咖啡 episode on why airline meals can become an upgrade focus even when meals rarely drive initial ticket choice. Created the source note plus `AirlineMealIndustrialization`, `AirlineMealMonetization`, and `LPDDR6`; updated `AirlineServiceDifferentiation`, `AirChina`, `ChinaEasternAirlines`, `ChinaSouthernAirlines`, and `HainanAirlines`. No settled contradiction found; company-performance figures, LPDDR6 supplier/product details, meal-cost totals, margin estimates, and the cited loyalty study remain source-scoped.
@@ -14278,6 +14282,10 @@ Ingested the 2026-06-24 芮淇讲透资治通鉴 episode on Han Mingdi's 57-58 C
 ## [2026-08-31] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 16,463 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes while the current lint scan covered 16,463 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is unset/provider-unqualified and no common provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

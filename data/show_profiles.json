@@ -1573,8 +1573,8 @@
       "earliest_episode_date": "2026-02-08",
       "latest_episode_date": "2026-08-30",
       "latest_episode_file": "商业小样48 ｜ 不要在财报中创造指标 [1009836716].md",
-      "source_note_count": 20,
-      "topic_matched_source_note_count": 12,
+      "source_note_count": 21,
+      "topic_matched_source_note_count": 13,
       "topics": [
         {
           "key": "culture",
@@ -1586,7 +1586,7 @@
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 3
+          "source_note_count": 4
         },
         {
           "key": "politics",
@@ -1640,7 +1640,7 @@
       ],
       "start_here_episode_files": [
         "商业小样47 ｜ “健身做题家”的新欢HYROX，到底有什么护城河？ [1008179335].md",
-        "Vol.269 小历史 ｜ “不要怕，是技术性调整” [1004793119].md",
+        "商业小样48 ｜ 不要在财报中创造指标 [1009836716].md",
         "商业小样46 ｜ 买机票时，为什么总要多交两笔钱？ [1005487014].md",
         "Vol.265 跨越50年的美国版本之子 [1001004591].md"
       ]

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8581
+wiki_total_pages: 8582
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -515,6 +515,9 @@ wiki_pages:
   - key: "FrontierTower"
     title: "Frontier Tower"
     url: "/wiki/entities/frontiertower/"
+  - key: "FrostSullivan"
+    title: "Frost & Sullivan / 弗若斯特沙利文"
+    url: "/wiki/entities/frostsullivan/"
   - key: "FTX"
     title: "FTX"
     url: "/wiki/entities/ftx/"

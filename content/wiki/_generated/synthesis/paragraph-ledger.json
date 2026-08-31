@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3e56e9e9ac6b0033635b07c4c1faca2ab76abcae9f6925f9bdb82a6baf74e945",
       "5b34a941f30837a088f50a54d9bf9c3cade0c94d22881580c0deac8064eadaea",
       "833c2c740e742ba106ef9b64e4f17428fbdd380980f1e7dd49bdbbfbddd48425",
       "5fac9c90d9086301afdb70bdae4dd076f54a6c5ee81f98bd5dc2fbaa714c363e",
@@ -442,11 +443,34 @@
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0"
     ],
-    "paragraph_count": 440
+    "paragraph_count": 441
   },
-  "overview_commit": "5ebf8a7c037d3241442f06c9b6d679a097948f6b",
-  "overview_digest": "a051f703f1ef54d2404949103aea529700c43ff62176e05037609ad5656d5821",
+  "overview_commit": "994c430f6d154e7dd6ffbab8276afbbeda3a4aa0",
+  "overview_digest": "8b2305c15be679832a646535064d14e3e0f8123e6d3d618f6722bb21d8401d57",
   "paragraphs": [
+    {
+      "id": "3e56e9e9ac6b0033635b07c4c1faca2ab76abcae9f6925f9bdb82a6baf74e945",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716|商业小样48 | 不要在财报中创造指标]], a [[ShangyeJiushiZheyang|商业就是这样]] short episode on [[LaoPuGold|老铺黄金]] and financial-report operating metrics. It adds [[FrostSullivan|弗若斯特沙利文]] and [[FinancialReportOperatingMetricIntegrity|财报运营指标完整性]], while extending [[LaoPuGold|老铺黄金]], [[GoldJewelryValuePerceptionRisk]], [[PublicMarketLuxuryGrowthTension]], [[LuxuryScarcityDiscipline]], and [[AsymmetricInformation]]. Its core synthesis is that supplemental operating metrics in financial reports only help investors when their denominator, scope, history, peer comparison, and base data are visible; otherwise a luxury-brand repositioning story can turn third-party rankings into hard-to-verify confidence theater. No settled contradiction is recorded; the source does not prove Lao Pu Gold's business is weak or its data false, and the luxury-positioning claim remains source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 4,
+        "culture-and-media": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AsymmetricInformation",
+        "FinancialReportOperatingMetricIntegrity",
+        "FrostSullivan",
+        "GoldJewelryValuePerceptionRisk",
+        "LaoPuGold",
+        "LuxuryScarcityDiscipline",
+        "PublicMarketLuxuryGrowthTension",
+        "ShangyeJiushiZheyang",
+        "shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716"
+      ]
+    },
     {
       "id": "5b34a941f30837a088f50a54d9bf9c3cade0c94d22881580c0deac8064eadaea",
       "primary_topic": "business-and-markets",

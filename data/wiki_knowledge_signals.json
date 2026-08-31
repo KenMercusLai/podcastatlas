@@ -14446,6 +14446,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/findesiecleviennacrisisreading/"
     },
+    "FinancialReportOperatingMetricIntegrity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "商业小样48 ｜ 不要在财报中创造指标 [1009836716].md",
+          "key": "shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716",
+          "show": "商业就是这样",
+          "title": "商业小样48 | 不要在财报中创造指标",
+          "url": "/wiki/sources/shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/financialreportoperatingmetricintegrity/"
+    },
     "FirstPartySystem": {
       "episode_count": 2,
       "show_count": 1,
@@ -15283,6 +15299,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/frontiertrustthroughprotection/"
+    },
+    "FrostSullivan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "商业小样48 ｜ 不要在财报中创造指标 [1009836716].md",
+          "key": "shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716",
+          "show": "商业就是这样",
+          "title": "商业小样48 | 不要在财报中创造指标",
+          "url": "/wiki/sources/shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/frostsullivan/"
     },
     "FrugalImperialBurialRestraint": {
       "episode_count": 2,
@@ -22409,9 +22441,9 @@
       "url": "/wiki/entities/langxingdingsheng/"
     },
     "LaoPuGold": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "vol.104.普通人港股完全生存指南 ｜ 串台三点下班 [lmzivGi6D3gUV7WAJYjw9Cv9ZZ90].md",
@@ -22426,9 +22458,16 @@
           "show": "声动早咖啡",
           "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",
           "url": "/wiki/sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590/"
+        },
+        {
+          "episode_file": "商业小样48 ｜ 不要在财报中创造指标 [1009836716].md",
+          "key": "shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716",
+          "show": "商业就是这样",
+          "title": "商业小样48 | 不要在财报中创造指标",
+          "url": "/wiki/sources/shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-08-31",
       "url": "/wiki/entities/laopugold/"
     },
     "LaoXiuLateHan": {

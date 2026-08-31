@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [商业小样48 | 不要在财报中创造指标](sources/shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716.md) — 商业就是这样 short episode on Lao Pu Gold's financial-report operating metrics, third-party rankings, changing denominators, luxury-brand positioning, and why self-created metrics can weaken investor trust.
 - [难以影响购票决策的飞机餐，为何成为航司升级重点？](sources/nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273.md) — 声动早咖啡 episode on airline meals as constrained service operations, repeat-purchase signal, controllable cost lever, and paid-meal monetization branch, with side updates on Meituan, Mixue Bingcheng, LPDDR6, and Insta360.
 - [701. Roman Civil War: Rise of the General (Part 1)](sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909.md) — The Rest Is History episode on Gaius Marius, Roman expansion and moral anxiety, the Gracchi legacy, novus homo politics, Metellan patronage, the Jugurthine War, and the emerging Marius-Sulla rivalry.
 - [682. South Africa: Mandela and the Death of Apartheid (Part 6)](sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080.md) — The Rest Is History episode on Mandela, apartheid memory, Springbok rugby, the 1995 Rugby World Cup, Nkosi Sikelel' iAfrika, Die Stem, and symbolic reconciliation.
@@ -1790,6 +1791,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [Frost & Sullivan / 弗若斯特沙利文](entities/FrostSullivan.md) — Third-party consulting and market-research provider named in the Lao Pu Gold disclosure-quality critique.
 - [South Africa](entities/SouthAfrica.md) — Post-apartheid national setting where Mandela uses rugby and anthem symbolism to stage reconciliation.
 - [Nelson Mandela](entities/NelsonMandela.md) — South African leader whose Springbok and anthem decisions anchor the episode's reconciliation-statecraft branch.
 - [African National Congress](entities/AfricanNationalCongress.md) — Anti-apartheid movement and governing party tied to Nkosi, Mandela, and post-1994 symbol compromise.
@@ -8058,7 +8060,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [China Southern Airlines / 南方航空](entities/ChinaSouthernAirlines.md) — Airline case for meal-service economics, ticket-policy comparison, and vol.104's AH share discount repricing discussion.
 - [Datang Renewable Power / 大唐新能源](entities/DatangRenewablePower.md) — Renewable-power operator used in vol.104 as a depressed-PB valuation-repair case.
 - [Longyuan Power / 龙源电力](entities/LongyuanPower.md) — Renewable-power operator paired with 大唐新能源 in vol.104's subsidy-pessimism and rerating discussion.
-- [Lao Pu Gold / 老铺黄金](entities/LaoPuGold.md) — Hong Kong IPO example used in vol.104 to illustrate the new-stock liquidity path.
+- [Lao Pu Gold / 老铺黄金](entities/LaoPuGold.md) — Hong Kong-listed gold-jewelry company used for IPO liquidity, pricing-risk, and financial-report metric integrity cases.
 - [Beijing Enterprises / 北京控股](entities/BeijingEnterprises.md) — Hong Kong-listed company used in vol.104 as a management and dividend-expectation cautionary case.
 - [Leonard Baum](entities/LeonardBaum.md) — Early Jim Simons collaborator in the Money Metrics period, used by vol.103 to show how thesis, timing, drawdown, and risk agreements can collide.
 - [James Ax](entities/JamesAx.md) — Mathematician who helped move Renaissance from mixed judgment toward systematic signal search and semi-automated trading infrastructure.
@@ -10375,6 +10377,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Financial Report Operating Metric Integrity / 财报运营指标完整性](concepts/FinancialReportOperatingMetricIntegrity.md) — Disclosure-quality standard requiring operating metrics to be traceable, comparable, and verifiable from base data.
 - [Apartheid](concepts/Apartheid.md) — South African racial-order system whose total social reach and symbolic afterlife give Mandela's reconciliation strategy its stakes.
 - [Symbolic Reconciliation Statecraft](concepts/SymbolicReconciliationStatecraft.md) — Use of inherited public symbols to include former opponents in a new settlement without denying prior harm.
 - [Sport as Reconciliation Ritual](concepts/SportAsReconciliationRitual.md) — Use of a major sporting event to stage shared identity across recently divided communities.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6114
+wiki_total_pages: 6115
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "FinancialPowerAndStateCapacity"
     title: "Financial Power And State Capacity"
     url: "/wiki/concepts/financialpowerandstatecapacity/"
+  - key: "FinancialReportOperatingMetricIntegrity"
+    title: "Financial Report Operating Metric Integrity / 财报运营指标完整性"
+    url: "/wiki/concepts/financialreportoperatingmetricintegrity/"
   - key: "FinancialStatementAnalysis"
     title: "Financial Statement Analysis"
     url: "/wiki/concepts/financialstatementanalysis/"

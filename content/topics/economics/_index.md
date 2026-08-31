@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1880
+topic_total_pages: 1882
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -1027,6 +1027,9 @@ topic_concepts:
   - key: "FinancialPowerAndStateCapacity"
     title: "Financial Power And State Capacity"
     url: "/wiki/concepts/financialpowerandstatecapacity/"
+  - key: "FinancialReportOperatingMetricIntegrity"
+    title: "Financial Report Operating Metric Integrity / 财报运营指标完整性"
+    url: "/wiki/concepts/financialreportoperatingmetricintegrity/"
   - key: "FinancialStatementAnalysis"
     title: "Financial Statement Analysis"
     url: "/wiki/concepts/financialstatementanalysis/"
@@ -5631,6 +5634,9 @@ topic_sources:
   - key: "kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054"
     title: "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？"
     url: "/wiki/sources/kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054/"
+  - key: "shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716"
+    title: "商业小样48 | 不要在财报中创造指标"
+    url: "/wiki/sources/shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716/"
   - key: "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b"
     title: "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26"
     url: "/wiki/sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b/"
