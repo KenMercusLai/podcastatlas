@@ -18765,6 +18765,13 @@
       "url": "/topics/history/"
     }
   ],
+  "DongguanHanji": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "Donghu": [
     {
       "key": "history",
@@ -29769,6 +29776,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "ImperialDeathCauseInference": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ImperialExaminationAsOnlyExit": [
     {
       "key": "culture",
@@ -35829,6 +35848,11 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "LiuYiSanlian": [
@@ -73406,6 +73430,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9": [

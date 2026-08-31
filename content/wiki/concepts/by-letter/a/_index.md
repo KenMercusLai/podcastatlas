@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6115
+wiki_total_pages: 6117
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1994,6 +1994,9 @@ wiki_pages:
   - key: "AbsoluteCommandObedience"
     title: "绝对服从式指挥训练 / Absolute Command Obedience"
     url: "/wiki/concepts/absolutecommandobedience/"
+  - key: "AccessionKinshipContainment"
+    title: "继位亲族安抚与隔离 / Accession Kinship Containment"
+    url: "/wiki/concepts/accessionkinshipcontainment/"
   - key: "ActionBackedAntiCorruptionPersuasion"
     title: "行动托底式反腐劝诫 / Action-Backed Anti-Corruption Persuasion"
     url: "/wiki/concepts/actionbackedanticorruptionpersuasion/"

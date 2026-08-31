@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1538
+topic_total_pages: 1541
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1303,6 +1303,9 @@ topic_concepts:
   - key: "ClothCladAngerPersuasion"
     title: "布衣之怒 / Cloth-Clad Anger Persuasion"
     url: "/wiki/concepts/clothcladangerpersuasion/"
+  - key: "ImperialDeathCauseInference"
+    title: "帝王死因史料推断 / Imperial Death-Cause Inference"
+    url: "/wiki/concepts/imperialdeathcauseinference/"
   - key: "XuzhouMutualKingship"
     title: "徐州相王 / Xuzhou Mutual Kingship"
     url: "/wiki/concepts/xuzhoumutualkingship/"
@@ -1730,6 +1733,9 @@ topic_entities:
   - key: "Sanguozhi"
     title: "《三国志》 / Sanguozhi"
     url: "/wiki/entities/sanguozhi/"
+  - key: "DongguanHanji"
+    title: "《东观汉记》 / Dongguan Hanji"
+    url: "/wiki/entities/dongguanhanji/"
   - key: "Wudu"
     title: "《五蠹》 / Wu Du"
     url: "/wiki/entities/wudu/"
@@ -4389,6 +4395,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr"
+    title: "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr/"
   - key: "zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9"
     title: "《资治通鉴·汉纪》734丨桓荣成大儒，因为明帝是个好捧哏？"
     url: "/wiki/sources/zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9/"

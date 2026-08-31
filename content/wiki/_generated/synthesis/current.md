@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-31
-as_of_overview_commit: 994c430f6d154e7dd6ffbab8276afbbeda3a4aa0
-summary: "Durable value depends on fitting AI, markets, institutions, health, culture, learning, and history to verifiable evidence, trust, operating constraints, and context."
-episode_count: 1783
-source_count: 1783
-paragraph_count: 441
+as_of_overview_commit: b7033d3911d3cf87448560870b06d28bd523b52c
+summary: "Durable value depends on fitting AI, markets, institutions, health, culture, learning, and history to evidence, trust, operating constraints, and context."
+episode_count: 1784
+source_count: 1784
+paragraph_count: 442
 topic_count: 8
 ---
 
@@ -70,7 +70,7 @@ Personal development evidence treats self-command, emotion regulation, authorshi
 
 ### Science, Health, and Climate
 
-Science and health claims favor measured mechanisms, clinical supervision, implementation constraints, escalation thresholds, nutrition fundamentals, and context over headline labels or protocol perfection. Evidence strength, safety nets, and patient-specific conditions remain central qualifiers.
+Science and health claims favor measured mechanisms, clinical supervision, implementation constraints, escalation thresholds, nutrition fundamentals, historical source gaps, and context over headline labels or protocol perfection. Evidence strength, safety nets, source boundaries, and patient-specific conditions remain central qualifiers.
 
 - [[PracticalSugarControl]] adds a nutrition-literacy branch: [[AddedFreeSugarDistinction]], [[LiquidSugarRisk]], [[LowGIMarketingTrap]], [[NutritionLabelSugarTraps]], [[SweetenerUncertainty]], [[GlycationSkinAnxiety]], and [[FoodPleasureEngineering]] make sugar control a question of food structure, beverage format, label interpretation, and clinical boundaries rather than blanket avoidance of sweetness or staple foods. Evidence: [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]], [[PracticalSugarControl]], [[AddedFreeSugarDistinction]], [[LiquidSugarRisk]], [[LowGIMarketingTrap]], [[NutritionLabelSugarTraps]], [[SweetenerUncertainty]], [[GlycationSkinAnxiety]], [[FoodPleasureEngineering]], [[LifestyleWeightManagement]], [[MedicalRiskManagement]], [[LifestyleDiseasePrevention]], [[ZheBingShuoLaiHuaChang]], [[Atang]], [[YueWanrou]], [[DaShiHua]].
 - [[SustainableHealthOptimization]] adds a flexible-fundamentals branch: [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], and [[PerioperativeCircadianRecovery]] are useful only when fitted to real constraints and clinical context rather than protocol perfection. Evidence: [[SustainableHealthOptimization]], [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], [[PerioperativeCircadianRecovery]], [[your-top-health-questions-answered-scim2882548864]].

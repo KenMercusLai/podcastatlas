@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6115
+wiki_total_pages: 6117
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -734,6 +734,9 @@ wiki_pages:
   - key: "ImperialHomeCountyTaxExemption"
     title: "帝王故乡免租徭役 / Imperial Home-County Tax Exemption"
     url: "/wiki/concepts/imperialhomecountytaxexemption/"
+  - key: "ImperialDeathCauseInference"
+    title: "帝王死因史料推断 / Imperial Death-Cause Inference"
+    url: "/wiki/concepts/imperialdeathcauseinference/"
   - key: "ImperialPrivateTreasuryExtraction"
     title: "帝王私库进奉盘剥 / Imperial Private Treasury Extraction"
     url: "/wiki/concepts/imperialprivatetreasuryextraction/"

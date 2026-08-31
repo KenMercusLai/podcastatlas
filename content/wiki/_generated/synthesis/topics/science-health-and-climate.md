@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-08-31
-as_of_overview_commit: 308844e1fc126ab4cdfb738edf0a1a9014b0b48f
-input_digest: a44a3a564ec0999bf9082a366d73f339c0839f47143c41cc61568bb9bd102ca4
+as_of_overview_commit: b7033d3911d3cf87448560870b06d28bd523b52c
+input_digest: a46d12f9ace8269d0e2e79c7f44d7518cec44dacf7967e948d11c58860f7f284
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science-health-and-climate now joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, and nutrition/body-composition coaching through a common boundary theme: measurement, mechanism, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Recent health branches cover sugar-control literacy; flexible fundamentals for sleep, circadian timing, recovery, fertility, and nutrition; male and female hormone phenotyping; exercise-risk boundaries; diagnostic safety netting; spine rehabilitation; metabolic psychiatry; bipolar and OCD care; insect-bite prevention and escalation; individualized cancer vaccines; companion-animal welfare; and evidence-bounded body-composition fundamentals. The nonclinical strands show the same pattern in space launch, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, and source-scoped medical or cultivation claims. The Norton nutrition episode adds that weight and body composition should be read through noisy energy accounting, protein adequacy, food processing, substitution context, seed-oil human evidence, creatine tolerance, and hard training rather than isolated nutrient panic.
+Science-health-and-climate now joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: measurement, mechanism, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Recent health branches cover sugar-control literacy; flexible fundamentals for sleep, circadian timing, recovery, fertility, and nutrition; male and female hormone phenotyping; exercise-risk boundaries; diagnostic safety netting; spine rehabilitation; metabolic psychiatry; bipolar and OCD care; insect-bite prevention and escalation; individualized cancer vaccines; companion-animal welfare; historical death-cause inference for Liu Xiu; and evidence-bounded body-composition fundamentals. The nonclinical strands show the same pattern in space launch, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, and source-scoped medical or cultivation claims.
 
 ## Cross-source Findings
 
@@ -273,3 +273,15 @@ Science-and-health policy now adds a trust-and-productivity branch: [[NewGoldenA
 - The episode is public health, nutrition, supplement, and fitness education rather than individualized medical, dietetic, or coaching advice.
 - Calorie targets, protein targets, creatine dosing, sweetener substitution, seed-oil interpretation, and training choices depend on clinical history, goals, tolerance, product quality, and real adherence.
 - Seed-oil, sweetener, ultra-processed-food, and supplement claims remain source-scoped and should be judged by human evidence, replacement context, total energy intake, and diet quality.
+
+### Historical Health Inference Needs Source Boundaries
+
+[[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]] adds a historical-health inference branch through [[ImperialDeathCauseInference]]: [[ZizhiTongjian]] gives [[LiuXiu]]'s death as a terse court notice, while [[DongguanHanji]] supplies earlier illness clues, making long-term vulnerability plausible but keeping diagnosis and causality bounded by source gaps.
+
+**Evidence:** [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr]], [[ImperialDeathCauseInference]], [[ZizhiTongjian]], [[LiuXiu]], [[DongguanHanji]]
+
+**Qualifications:**
+
+- The Hanji 732 material is historical source analysis, not modern clinical diagnosis or medical advice.
+- Dongguan Hanji symptom notices, Liu Xiu's workload, and Zizhi Tongjian's death notice suggest health vulnerability but do not prove a specific disease or immediate cause of death.
+- The succession material belongs more to court politics than health, so the science-health claim keeps it as context rather than a medical conclusion.

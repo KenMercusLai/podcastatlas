@@ -1442,6 +1442,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/absoluteguaranteetrap/"
     },
+    "AccessionKinshipContainment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？ [lnSU1Le2X-cJ75cJslySVBNDeuVR].md",
+          "key": "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/accessionkinshipcontainment/"
+    },
     "AccusationQuotaRefusal": {
       "episode_count": 1,
       "show_count": 1,
@@ -10091,6 +10107,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/dongyuanlatehan/"
     },
+    "DongguanHanji": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？ [lnSU1Le2X-cJ75cJslySVBNDeuVR].md",
+          "key": "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/dongguanhanji/"
+    },
     "DongqiangLateHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -11949,9 +11981,9 @@
       "url": "/wiki/entities/emperorhuanofhan/"
     },
     "EmperorMingOfHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -12036,6 +12068,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄",
           "url": "/wiki/sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？ [lnSU1Le2X-cJ75cJslySVBNDeuVR].md",
+          "key": "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr/"
         }
       ],
       "updated": "2026-08-31",
@@ -19705,6 +19744,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/imperialconsortposthumoustitlesystem/"
     },
+    "ImperialDeathCauseInference": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？ [lnSU1Le2X-cJ75cJslySVBNDeuVR].md",
+          "key": "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/imperialdeathcauseinference/"
+    },
     "ImperialDeathConcealment": {
       "episode_count": 5,
       "show_count": 1,
@@ -24308,9 +24363,9 @@
       "url": "/wiki/entities/liuguilatehan/"
     },
     "LiuJingGuanglingKingEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
@@ -24325,6 +24380,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄",
           "url": "/wiki/sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？ [lnSU1Le2X-cJ75cJslySVBNDeuVR].md",
+          "key": "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr/"
         }
       ],
       "updated": "2026-08-31",
@@ -24545,9 +24607,9 @@
       "url": "/wiki/entities/liupingeasternhan/"
     },
     "LiuQiangDonghaiKing": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
@@ -24555,6 +24617,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄",
           "url": "/wiki/sources/zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？ [lnSU1Le2X-cJ75cJslySVBNDeuVR].md",
+          "key": "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr/"
         }
       ],
       "updated": "2026-08-31",
@@ -24773,9 +24842,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -24811,6 +24880,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
           "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？ [lnSU1Le2X-cJ75cJslySVBNDeuVR].md",
+          "key": "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr/"
         }
       ],
       "updated": "2026-08-31",
@@ -45316,9 +45392,9 @@
       "url": "/wiki/entities/yinlaoshizhebing/"
     },
     "YinLihua": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？ [lgXCODJxnAOZvYEgxQUrgZjI5gUs].md",
@@ -45333,6 +45409,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？ [lnSU1Le2X-cJ75cJslySVBNDeuVR].md",
+          "key": "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr/"
         }
       ],
       "updated": "2026-08-31",
@@ -47138,6 +47221,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhaoweilatehan/"
+    },
+    "ZhaoXiEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？ [lnSU1Le2X-cJ75cJslySVBNDeuVR].md",
+          "key": "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/zhaoxieasternhan/"
     },
     "ZhaoXuLateHan": {
       "episode_count": 1,

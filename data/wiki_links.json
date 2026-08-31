@@ -2743,6 +2743,10 @@
     "title": "Accessible Programming Platform",
     "url": "/wiki/concepts/accessibleprogrammingplatform/"
   },
+  "AccessionKinshipContainment": {
+    "title": "继位亲族安抚与隔离 / Accession Kinship Containment",
+    "url": "/wiki/concepts/accessionkinshipcontainment/"
+  },
   "AccidentalVirality": {
     "title": "Accidental Virality",
     "url": "/wiki/concepts/accidentalvirality/"
@@ -15215,6 +15219,10 @@
     "title": "Dongguan / 东莞",
     "url": "/wiki/entities/dongguan/"
   },
+  "DongguanHanji": {
+    "title": "《东观汉记》 / Dongguan Hanji",
+    "url": "/wiki/entities/dongguanhanji/"
+  },
   "DongguangCountyLateHan": {
     "title": "东光县 / Dongguang County (late Han)",
     "url": "/wiki/entities/dongguangcountylatehan/"
@@ -25058,6 +25066,10 @@
   "ImperialConstructionOverload": {
     "title": "Imperial Construction Overload / 帝国工程过载",
     "url": "/wiki/concepts/imperialconstructionoverload/"
+  },
+  "ImperialDeathCauseInference": {
+    "title": "帝王死因史料推断 / Imperial Death-Cause Inference",
+    "url": "/wiki/concepts/imperialdeathcauseinference/"
   },
   "ImperialDeathConcealment": {
     "title": "Imperial Death Concealment / 秘不发丧式过渡控制",
@@ -59071,6 +59083,10 @@
     "title": "赵武灵王 / King Wuling of Zhao",
     "url": "/wiki/entities/zhaowulingwang/"
   },
+  "ZhaoXiEasternHan": {
+    "title": "赵熙 / Zhao Xi (Eastern Han)",
+    "url": "/wiki/entities/zhaoxieasternhan/"
+  },
   "ZhaoXiangzi": {
     "title": "赵襄子 / Zhao Xiangzi",
     "url": "/wiki/entities/zhaoxiangzi/"
@@ -63978,6 +63994,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr": {
+    "title": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr/"
   },
   "zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr": {
     "title": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄",

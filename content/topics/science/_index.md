@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 849
+topic_total_pages: 852
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1453,6 +1453,9 @@ topic_concepts:
   - key: "ShouzhuoDecisiveRestraint"
     title: "守拙式临事决断 / Shouzhuo Decisive Restraint"
     url: "/wiki/concepts/shouzhuodecisiverestraint/"
+  - key: "ImperialDeathCauseInference"
+    title: "帝王死因史料推断 / Imperial Death-Cause Inference"
+    url: "/wiki/concepts/imperialdeathcauseinference/"
   - key: "ComicMaskSurvival"
     title: "搞笑面具式生存 / Comic Mask Survival"
     url: "/wiki/concepts/comicmasksurvival/"
@@ -1808,6 +1811,9 @@ topic_entities:
   - key: "LisaMosconi"
     title: "Lisa Mosconi"
     url: "/wiki/entities/lisamosconi/"
+  - key: "LiuXiu"
+    title: "Liu Xiu / 刘秀"
+    url: "/wiki/entities/liuxiu/"
   - key: "LongNow"
     title: "Long Now"
     url: "/wiki/entities/longnow/"
@@ -2544,6 +2550,9 @@ topic_sources:
   - key: "your-top-health-questions-answered-scim2882548864"
     title: "Your Top Health Questions Answered"
     url: "/wiki/sources/your-top-health-questions-answered-scim2882548864/"
+  - key: "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr"
+    title: "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr/"
   - key: "yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093"
     title: "一份来自病床上的相关书单"
     url: "/wiki/sources/yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093/"

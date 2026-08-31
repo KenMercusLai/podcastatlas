@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8582
+wiki_total_pages: 8584
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -704,6 +704,9 @@ wiki_pages:
   - key: "DongbeiBoyi"
     title: "《东北博弈》"
     url: "/wiki/entities/dongbeiboyi/"
+  - key: "DongguanHanji"
+    title: "《东观汉记》 / Dongguan Hanji"
+    url: "/wiki/entities/dongguanhanji/"
   - key: "DaiYiJueMiLu"
     title: "《大义觉迷录》"
     url: "/wiki/entities/daiyijuemilu/"

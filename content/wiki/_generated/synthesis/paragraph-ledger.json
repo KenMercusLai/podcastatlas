@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "12fcd2361e57100445bf354b0eb7575c15cf3f1b1a480263e5f7305fe6d2cc3f",
       "3e56e9e9ac6b0033635b07c4c1faca2ab76abcae9f6925f9bdb82a6baf74e945",
       "5b34a941f30837a088f50a54d9bf9c3cade0c94d22881580c0deac8064eadaea",
       "833c2c740e742ba106ef9b64e4f17428fbdd380980f1e7dd49bdbbfbddd48425",
@@ -443,11 +444,37 @@
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0"
     ],
-    "paragraph_count": 441
+    "paragraph_count": 442
   },
-  "overview_commit": "994c430f6d154e7dd6ffbab8276afbbeda3a4aa0",
-  "overview_digest": "8b2305c15be679832a646535064d14e3e0f8123e6d3d618f6722bb21d8401d57",
+  "overview_commit": "b7033d3911d3cf87448560870b06d28bd523b52c",
+  "overview_digest": "36f38bbfb074fc935ce450b96a03c440e2a68b64a7157ca067f7a20118d7d2e7",
   "paragraphs": [
+    {
+      "id": "12fcd2361e57100445bf354b0eb7575c15cf3f1b1a480263e5f7305fe6d2cc3f",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling [[LiuXiu|光武帝刘秀]]'s 57 CE death and [[EmperorMingOfHan|汉明帝刘庄]]'s immediate succession before [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|Hanji 733-1]]. It adds [[DongguanHanji|《东观汉记》]], [[ZhaoXiEasternHan|赵熙]], [[ImperialDeathCauseInference|帝王死因史料推断]], and [[AccessionKinshipContainment|继位亲族安抚与隔离]], while extending [[LiuXiu|刘秀]], [[EmperorMingOfHan|汉明帝]], [[YinLihua|阴丽华]], [[LiuQiangDonghaiKing|东海恭王刘强]], [[LiuJingGuanglingKingEasternHan|刘荆]], and [[ZizhiTongjian|《资治通鉴》]]. Its core synthesis is that Guangwu's death should be read through evidence boundaries: Zizhi Tongjian supplies a terse death notice, Dongguan Hanji supplies earlier illness clues, and the strongest current claim is long-term health vulnerability under overwork rather than a settled medical diagnosis. The succession layer is equally procedural: Zhao Xi repairs funeral order, Mingdi honors Yin as empress dowager, Liu Qiang reports Liu Jing's anonymous provocation, and Mingdi keeps the royal-family danger quiet while reassuring the displaced branch. No settled contradiction is recorded; 刘京 is normalized to 刘荆 / Liu Jing, and Queen Guo's full profile remains source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AccessionKinshipContainment",
+        "DongguanHanji",
+        "EmperorMingOfHan",
+        "ImperialDeathCauseInference",
+        "LiuJingGuanglingKingEasternHan",
+        "LiuQiangDonghaiKing",
+        "LiuXiu",
+        "RuiqiJiangtouZizhiTongjian",
+        "YinLihua",
+        "ZhaoXiEasternHan",
+        "ZizhiTongjian",
+        "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr",
+        "zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr"
+      ]
+    },
     {
       "id": "3e56e9e9ac6b0033635b07c4c1faca2ab76abcae9f6925f9bdb82a6baf74e945",
       "primary_topic": "business-and-markets",
