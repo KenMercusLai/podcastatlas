@@ -200,6 +200,7 @@
       "id": "demand-needs-distribution-and-payment-proof",
       "qualifications": [
         "The exact proof differs across software, consumer goods, regulated products, restaurants, finance, AI services, games, and robots.",
+        "The Late July source adds that mission-led CPG still needs category velocity, taste, margin, and channel fit: crackers and cookies did not scale until tortilla chips created repeatable retail demand; revenue trajectory and deal terms remain source-scoped.",
         "The big-box buyer in the Sell Me a Sasquatch line-review room remains unnamed in the source, so the retailer identity should stay source-scoped.",
         "Templafy qualifies pre-product selling: early enterprise conversations count only when budget, timing, proof criteria, and rollout consequences are explicit.",
         "The AI-office source adds that Chinese enterprise payment culture, subsidy-led usage, and non-coding office ROI still need proof even when workplace tasks look more monetizable than consumer chatbot traffic.",
@@ -209,13 +210,22 @@
         "EP44 adds that fintech lending demand is not just borrower need: MPWR AI has to prove acquisition, default-risk, manual-work, explainability, and compliance outcomes around nontraditional borrowers.",
         "The Pyromind source adds that Auto RL demand is strongest when production data, labels, ROI, and repeatability are present; reported customer-count, pricing, benchmark, and false-positive metrics remain source-scoped."
       ],
-      "statement": "[[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, payment proof, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[AIOfficeAgent]], [[IndustrialAIROIFilter]], [[ScenarioLevelRewardSignal]], [[AutoRLProductionLoop]], [[NontraditionalBorrowerCreditAccess]], [[ExplainableAILending]], [[HumanInTheLoopCreditDecisioning]], [[RobotRepurchaseDemand]], [[RobotTrainingCenters]], [[EgocentricRobotData]], [[FounderPitchEvidenceFit]], [[SmallRetailerChannelTest]], [[NicheOriginStoryExpansion]], and [[MissionAlignedVendorSwitching]] can repeatedly deliver value after initial attention.",
+      "statement": "[[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, payment proof, and operating gates such as [[CPGDistribution]], [[ProductCategoryVelocity]], [[TasteFirstCPGPositioning]], [[SalesVelocity]], [[RetailShelfPlacement]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[AIOfficeAgent]], [[IndustrialAIROIFilter]], [[ScenarioLevelRewardSignal]], [[AutoRLProductionLoop]], [[NontraditionalBorrowerCreditAccess]], [[ExplainableAILending]], [[HumanInTheLoopCreditDecisioning]], [[RobotRepurchaseDemand]], [[RobotTrainingCenters]], [[EgocentricRobotData]], [[FounderPitchEvidenceFit]], [[SmallRetailerChannelTest]], [[NicheOriginStoryExpansion]], and [[MissionAlignedVendorSwitching]] can repeatedly deliver value after initial attention.",
       "status": "qualified",
       "supporting_wikilinks": [
         "CustomerPull",
         "ProductLedWillingnessToPay",
         "PreProductSelling",
         "CPGDistribution",
+        "late-july-snacks-nicole-bernard-dawes-crackers-and-cookies-were-failing-tortilla-chips-saved-them-97049a31-9144-42f5-856c-9590c5e6beb4",
+        "NicoleBernardDawes",
+        "LateJulySnacks",
+        "ProductCategoryVelocity",
+        "TasteFirstCPGPositioning",
+        "SalesVelocity",
+        "RetailShelfPlacement",
+        "MissionAlignedRescueCapital",
+        "AcquisitionContractLanguage",
         "RetailLineReview",
         "PlanogramGatekeeping",
         "RetailPricePointProductScoping",
@@ -1133,6 +1143,6 @@
       ]
     }
   ],
-  "summary": "The Lao Pu Gold short episode adds a financial-disclosure trust branch: supplemental operating metrics only help investors when denominator, scope, history, peer set, and base data are traceable; the airline-meal, GLM/Micron, Evergrande, lending, AI-post-training, SaaS, consumer-brand, retail, biotech, governance, and market sources otherwise keep showing that business value survives only when demand, trust, distribution, payment proof, operating capacity, and risk discipline are visible.",
+  "summary": "The Late July Snacks episode adds a mission-led CPG proof branch: organic values and retail access only scale when taste, category velocity, margin, and channel fit work together; the financial-disclosure, airline-meal, GLM/Micron, Evergrande, lending, AI-post-training, SaaS, consumer-brand, retail, biotech, governance, and market sources otherwise keep showing that business value survives only when demand, trust, distribution, payment proof, operating capacity, and risk discipline are visible.",
   "topic_id": "business-and-markets"
 }

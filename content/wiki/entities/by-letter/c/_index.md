@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8608
+wiki_total_pages: 8621
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "CampSocial"
     title: "Camp Social"
     url: "/wiki/entities/campsocial/"
+  - key: "CampbellSoupCompany"
+    title: "Campbell Soup Company"
+    url: "/wiki/entities/campbellsoupcompany/"
   - key: "CampionsBrag"
     title: "Campion's Brag"
     url: "/wiki/entities/campionsbrag/"
@@ -110,6 +113,9 @@ wiki_pages:
   - key: "CapeCanaveral"
     title: "Cape Canaveral"
     url: "/wiki/entities/capecanaveral/"
+  - key: "CapeCodChips"
+    title: "Cape Cod Chips"
+    url: "/wiki/entities/capecodchips/"
   - key: "Caperni"
     title: "Caperni"
     url: "/wiki/entities/caperni/"

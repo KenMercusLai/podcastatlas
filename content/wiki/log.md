@@ -14415,3 +14415,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-31] ingest | Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing... Tortilla Chips Saved Them
+
+Ingested the 2026-08-31 How I Built This episode on Nicole Bernard Dawes, Late July Snacks, Cape Cod Chips, the failed cracker and cookie phase, the 2009 financing crisis, rescue support from the Hirschberg/RSF Finance network, the tortilla-chip pivot, Stop & Shop conventional distribution, Snyder's-Lance control, and the later Campbell transaction. Created `NicoleBernardDawes`, `LateJulySnacks`, `CapeCodChips`, `SteveBernard`, `PeterDawes`, `Nixie`, `SnydersLance`, `CampbellSoupCompany`, `GaryHirschberg`, `MegHirschberg`, `Stonyfield`, `RSFFinance`, `StopAndShop`, `ProductCategoryVelocity`, `TasteFirstCPGPositioning`, `MissionAlignedRescueCapital`, `KeyPersonInsurance`, and `AcquisitionContractLanguage`; updated overview and index. No direct contradiction found; revenue trajectory, loan/deal terms, post-Campbell brand performance, and Nixie's current scale remain source-scoped.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

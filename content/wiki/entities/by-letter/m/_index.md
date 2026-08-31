@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8608
+wiki_total_pages: 8621
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -575,6 +575,9 @@ wiki_pages:
   - key: "MeetFresh"
     title: "Meet Fresh / 鲜芋仙"
     url: "/wiki/entities/meetfresh/"
+  - key: "MegHirschberg"
+    title: "Meg Hirschberg"
+    url: "/wiki/entities/meghirschberg/"
   - key: "MeganMcCartyCorino"
     title: "Megan McCarty-Corino"
     url: "/wiki/entities/meganmccartycorino/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 8608
+wiki_total_pages: 8621
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "NicolasMaduro"
     title: "Nicolas Maduro"
     url: "/wiki/entities/nicolasmaduro/"
+  - key: "NicoleBernardDawes"
+    title: "Nicole Bernard Dawes"
+    url: "/wiki/entities/nicolebernarddawes/"
   - key: "NicoleNguyen"
     title: "Nicole Nguyen"
     url: "/wiki/entities/nicolenguyen/"
@@ -464,6 +467,9 @@ wiki_pages:
   - key: "NiuniuSukiyaki"
     title: "Niuniu Sukiyaki / 牛牛寿喜烧"
     url: "/wiki/entities/niuniusukiyaki/"
+  - key: "Nixie"
+    title: "Nixie"
+    url: "/wiki/entities/nixie/"
   - key: "NkosiSikelelIAfrika"
     title: "Nkosi Sikelel' iAfrika"
     url: "/wiki/entities/nkosisikeleliafrika/"

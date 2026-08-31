@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6133
+wiki_total_pages: 6138
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1205,6 +1205,9 @@ wiki_pages:
   - key: "ProductAnalytics"
     title: "Product Analytics"
     url: "/wiki/concepts/productanalytics/"
+  - key: "ProductCategoryVelocity"
+    title: "Product Category Velocity"
+    url: "/wiki/concepts/productcategoryvelocity/"
   - key: "ProductContainer"
     title: "Product Container"
     url: "/wiki/concepts/productcontainer/"

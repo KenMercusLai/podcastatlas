@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing... Tortilla Chips Saved Them](sources/late-july-snacks-nicole-bernard-dawes-crackers-and-cookies-were-failing-tortilla-chips-saved-them-97049a31-9144-42f5-856c-9590c5e6beb4.md) — How I Built This episode on Nicole Bernard Dawes, Late July Snacks, the failed cracker/cookie phase, rescue financing, tortilla-chip category fit, Stop & Shop distribution, and Snyder's-Lance/Campbell ownership.
 - [《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？](sources/zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0.md) — 42-43 CE late Guangwu episode on Shu and Yuanwu rebellions, Ma Yuan's Jiaozhi campaign, ritual-temple adjustments, and Liu Qiang's repeated resignation after Guo Shengtong's deposition before Liu Yang/Liu Zhuang becomes crown prince.
 - [《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？](sources/zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli.md) — 43-44 CE late Guangwu episode on crown-prince guidance by Yin Shi, Yin Xing, and Huan Rong, Dong Xuan's enforcement against Princess Huyang's protected slave, Liu Xiu's reward-and-restraint signal, Nandun tax relief, Liu Shang's southwest campaign, and Wu Han's deathbed warning.
 - [《资治通鉴·汉纪》722丨让刘秀险死的头痛病，怎么回事？](sources/zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra.md) — 44-45 CE late Guangwu episode on Liu Xiu's illness and Yin Xing's refusal of high office, Guo-family compensation, Ma Yuan's horsehide-burial resolve and warning to Liang Song and Dou Gu, northern frontier pressure, and Western Regions hostage deterrence under Shache pressure.
@@ -1805,6 +1806,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [Nicole Bernard Dawes](entities/NicoleBernardDawes.md) — Late July Snacks and Nixie founder whose taste-first organic CPG approach was shaped by Cape Cod Chips, family operating risk, and tortilla-chip category discipline.
+- [Late July Snacks](entities/LateJulySnacks.md) — Organic snack brand that moved from slow crackers and unprofitable cookies to tortilla chips, then into Snyder's-Lance and Campbell ownership.
+- [Cape Cod Chips](entities/CapeCodChips.md) — Steve Bernard's potato-chip company and the taste-led natural-snack precedent behind Nicole Bernard Dawes's Late July strategy.
+- [Steve Bernard](entities/SteveBernard.md) — Cape Cod Chips founder and Nicole Bernard Dawes's father whose death turned Late July's debt into a key-person-risk crisis.
+- [Peter Dawes](entities/PeterDawes.md) — Nicole Bernard Dawes's spouse and Late July operating partner during the broader-snack-company and tortilla-chip pivot.
+- [Nixie](entities/Nixie.md) — Nicole Bernard Dawes's post-Late July organic sparkling water and soda company.
+- [Snyder's-Lance](entities/SnydersLance.md) — Strategic investor and later controlling owner in Late July Snacks, central to the episode's manufacturing, liquidity, and contract-language branch.
+- [Campbell Soup Company](entities/CampbellSoupCompany.md) — Later corporate owner of Late July through the Snyder's-Lance transaction, used in the episode's acquisition-language lesson.
+- [Gary Hirschberg](entities/GaryHirschberg.md) — Stonyfield-associated investor and advisor who helped Late July with rescue financing and later deal structure.
+- [Meg Hirschberg](entities/MegHirschberg.md) — Expo East connector who introduced Nicole Bernard Dawes to Gary Hirschberg during Late July's crisis.
+- [Stonyfield](entities/Stonyfield.md) — Mission-driven food-company context associated with Gary Hirschberg's support for Late July.
+- [RSF Finance](entities/RSFFinance.md) — Mission-aligned lender that took over Late July's debt during the 2009 crisis.
+- [Stop & Shop](entities/StopAndShop.md) — Conventional grocery account whose buyer approval unlocked Late July's tortilla-chip distribution path.
 - [董宣 / Dong Xuan (Eastern Han)](entities/DongXuanEasternHan.md) — Luoyang magistrate whose execution of Princess Huyang's protected murderer-slave becomes an early Eastern Han high-status law-enforcement signal.
 - [湖阳公主 / Princess Huyang (Eastern Han)](entities/HuyangPrincessEasternHan.md) — Liu Xiu's sister whose protected household slave case makes Dong Xuan's enforcement and Liu Xiu's law-over-kinship signal visible.
 - [阴兴 / Yin Xing (Guangwu maternal kin)](entities/YinXingGuangwuMaternalKin.md) — Guangwu maternal relative whose crown-prince guidance, public-minded recommendations, illness-crisis trust, and great-marshalship refusal model outer-relative restraint.
@@ -10417,6 +10431,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Product Category Velocity](concepts/ProductCategoryVelocity.md) — CPG category-economics concept showing how ordinary purchase frequency, use occasion, margin, and shelf expectations shape whether a product can scale.
+- [Taste-First CPG Positioning](concepts/TasteFirstCPGPositioning.md) — Food and beverage positioning strategy where flavor drives repeat purchase and mission deepens loyalty after the product works.
+- [Mission-Aligned Rescue Capital](concepts/MissionAlignedRescueCapital.md) — Emergency financing pattern where values-aligned investors, lenders, or connectors buy time for a credible strategic pivot.
+- [Key Person Insurance](concepts/KeyPersonInsurance.md) — Founder and debt-risk planning concept surfaced by Late July's loan default after Steve Bernard's death.
+- [Acquisition Contract Language](concepts/AcquisitionContractLanguage.md) — Governance concept where sale, merger, buyback, and change-of-control wording determine what founder rights actually survive later transactions.
 - [Capacity-Bound Frontier Commitment / 能力约束下的边疆承诺](concepts/CapacityBoundFrontierCommitment.md) — Frontier-statecraft pattern where a court narrows, defers, or refuses protectorate and military commitments until it can actually supply envoys, troops, and credibility.
 - [Lineage Rules and Elite Durability / 家规型士族延续](concepts/LineageRuleDurability.md) — Elite-lineage pattern where family instructions and admonitions are treated as governance infrastructure for long-run official reproduction, with the Pei case still source-scoped.
 - [帝王偏好下的表达风险 / Imperial Preference Speech Risk](concepts/ImperialPreferenceSpeechRisk.md) — Court-communication risk where advice is judged by alignment with a ruler's preferred legitimacy frame rather than by evidence alone.

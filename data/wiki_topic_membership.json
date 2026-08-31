@@ -4894,6 +4894,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AcquisitionContractLanguage": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ActForTheQueensSafety": [
     {
       "key": "politics",
@@ -33656,6 +33663,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "KeyPersonInsurance": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "KhanAcademy": [
     {
       "key": "culture",
@@ -39635,6 +39654,13 @@
     }
   ],
   "MissingMiddle": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "MissionAlignedRescueCapital": [
     {
       "key": "economics",
       "label": "Economics",
@@ -48678,6 +48704,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "RSFFinance": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "RSIBenchData": [

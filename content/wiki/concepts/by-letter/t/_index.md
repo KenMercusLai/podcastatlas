@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6133
+wiki_total_pages: 6138
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "TasteTraining"
     title: "Taste Training"
     url: "/wiki/concepts/tastetraining/"
+  - key: "TasteFirstCPGPositioning"
+    title: "Taste-First CPG Positioning"
+    url: "/wiki/concepts/tastefirstcpgpositioning/"
   - key: "TauLaw"
     title: "Tau Law"
     url: "/wiki/concepts/taulaw/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 8608
+wiki_total_pages: 8621
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "RPORobot"
     title: "RPO Robot"
     url: "/wiki/entities/rporobot/"
+  - key: "RSFFinance"
+    title: "RSF Finance"
+    url: "/wiki/entities/rsffinance/"
   - key: "RSIBenchData"
     title: "RSIbench-data"
     url: "/wiki/entities/rsibenchdata/"

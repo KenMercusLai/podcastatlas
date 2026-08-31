@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8608
+wiki_total_pages: 8621
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -782,6 +782,9 @@ wiki_pages:
   - key: "SnugSafety"
     title: "Snug Safety"
     url: "/wiki/entities/snugsafety/"
+  - key: "SnydersLance"
+    title: "Snyder's-Lance"
+    url: "/wiki/entities/snyderslance/"
   - key: "Soccernomics"
     title: "Soccernomics / 《足球经济学》"
     url: "/wiki/entities/soccernomics/"
@@ -1115,6 +1118,9 @@ wiki_pages:
   - key: "SteveBannon"
     title: "Steve Bannon"
     url: "/wiki/entities/stevebannon/"
+  - key: "SteveBernard"
+    title: "Steve Bernard"
+    url: "/wiki/entities/stevebernard/"
   - key: "SteveFredette"
     title: "Steve Fredette"
     url: "/wiki/entities/stevefredette/"
@@ -1148,6 +1154,12 @@ wiki_pages:
   - key: "Stoke"
     title: "Stoke Space"
     url: "/wiki/entities/stoke/"
+  - key: "Stonyfield"
+    title: "Stonyfield"
+    url: "/wiki/entities/stonyfield/"
+  - key: "StopAndShop"
+    title: "Stop & Shop"
+    url: "/wiki/entities/stopandshop/"
   - key: "StopKillingGames"
     title: "Stop Killing Games"
     url: "/wiki/entities/stopkillinggames/"

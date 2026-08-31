@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1883
+topic_total_pages: 1886
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -1567,6 +1567,9 @@ topic_concepts:
   - key: "KellyCriterion"
     title: "Kelly Criterion"
     url: "/wiki/concepts/kellycriterion/"
+  - key: "KeyPersonInsurance"
+    title: "Key Person Insurance"
+    url: "/wiki/concepts/keypersoninsurance/"
   - key: "KnowingEnough"
     title: "Knowing Enough"
     url: "/wiki/concepts/knowingenough/"
@@ -1771,6 +1774,9 @@ topic_concepts:
   - key: "MissionDrivenCustomerEducation"
     title: "Mission Driven Customer Education"
     url: "/wiki/concepts/missiondrivencustomereducation/"
+  - key: "MissionAlignedRescueCapital"
+    title: "Mission-Aligned Rescue Capital"
+    url: "/wiki/concepts/missionalignedrescuecapital/"
   - key: "MissionFocusedCompany"
     title: "Mission-Focused Company"
     url: "/wiki/concepts/missionfocusedcompany/"
@@ -4193,6 +4199,9 @@ topic_entities:
   - key: "RoyDisney"
     title: "Roy Disney"
     url: "/wiki/entities/roydisney/"
+  - key: "RSFFinance"
+    title: "RSF Finance"
+    url: "/wiki/entities/rsffinance/"
   - key: "RupertMurdoch"
     title: "Rupert Murdoch"
     url: "/wiki/entities/rupertmurdoch/"

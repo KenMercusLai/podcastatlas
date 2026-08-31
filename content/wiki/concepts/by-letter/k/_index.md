@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 6133
+wiki_total_pages: 6138
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "KetogenicDietEpilepsyEvidence"
     title: "Ketogenic Diet Epilepsy Evidence"
     url: "/wiki/concepts/ketogenicdietepilepsyevidence/"
+  - key: "KeyPersonInsurance"
+    title: "Key Person Insurance"
+    url: "/wiki/concepts/keypersoninsurance/"
   - key: "KeywordCommunityArchitecture"
     title: "Keyword Community Architecture / 关键词社区架构"
     url: "/wiki/concepts/keywordcommunityarchitecture/"

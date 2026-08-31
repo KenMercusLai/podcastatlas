@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2121
+topic_total_pages: 2123
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -19,6 +19,9 @@ topic_concepts:
   - key: "AccusationQuotaRefusal"
     title: "Accusation Quota Refusal / 诬陷指标拒绝"
     url: "/wiki/concepts/accusationquotarefusal/"
+  - key: "AcquisitionContractLanguage"
+    title: "Acquisition Contract Language"
+    url: "/wiki/concepts/acquisitioncontractlanguage/"
   - key: "ActivistInvestorPressure"
     title: "Activist Investor Pressure"
     url: "/wiki/concepts/activistinvestorpressure/"
@@ -1534,6 +1537,9 @@ topic_concepts:
   - key: "JudicializedOppositionSuppression"
     title: "Judicialized Opposition Suppression"
     url: "/wiki/concepts/judicializedoppositionsuppression/"
+  - key: "KeyPersonInsurance"
+    title: "Key Person Insurance"
+    url: "/wiki/concepts/keypersoninsurance/"
   - key: "KinshipLegitimacyDiplomacy"
     title: "Kinship Legitimacy Diplomacy / 同源合法性外交"
     url: "/wiki/concepts/kinshiplegitimacydiplomacy/"

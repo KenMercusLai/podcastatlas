@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "6f2decc50f7143e8a05bbc59ab1703f6672738ba27e09393ae0525b668e75826",
       "695b0bc2e7c51de7019a3589fe1de1fbccb3bf9c6f5b40a7c2fb9492430cb145",
       "733e44a61b10e6eb6a3251356cadfdc717c2d56793370e7cd1156daaf652b424",
       "975a54c799d648dea4b14de186d35b766b1498532932b4417b6e61f685fe8198",
@@ -452,11 +453,53 @@
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0"
     ],
-    "paragraph_count": 450
+    "paragraph_count": 451
   },
-  "overview_commit": "80c9839618862e4a61e03b001dc09c76137e1f43",
-  "overview_digest": "b8ba1d15b48d6f0eaec74ad9b62ecffb61224e07cdc9b10ea235f2cbfd1272b0",
+  "overview_commit": "650752191909292fcd636aff67c40e147419247b",
+  "overview_digest": "82f94ea6278978a2f33c1345c447eb0ac352b66047563bb598838462d85ecf98",
   "paragraphs": [
+    {
+      "id": "6f2decc50f7143e8a05bbc59ab1703f6672738ba27e09393ae0525b668e75826",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[late-july-snacks-nicole-bernard-dawes-crackers-and-cookies-were-failing-tortilla-chips-saved-them-97049a31-9144-42f5-856c-9590c5e6beb4|Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing... Tortilla Chips Saved Them]], a [[HowIBuiltThis]] episode on [[NicoleBernardDawes]] and [[LateJulySnacks]]. It adds [[CapeCodChips]], [[SteveBernard]], [[PeterDawes]], [[Nixie]], [[SnydersLance]], [[CampbellSoupCompany]], [[GaryHirschberg]], [[MegHirschberg]], [[Stonyfield]], [[RSFFinance]], [[StopAndShop]], [[ProductCategoryVelocity]], [[TasteFirstCPGPositioning]], [[MissionAlignedRescueCapital]], [[KeyPersonInsurance]], and [[AcquisitionContractLanguage]], while extending the wiki's [[CPGDistribution]], [[SalesVelocity]], [[RetailShelfPlacement]], [[PurposeDrivenBusiness]], [[MissionDrivenCustomerEducation]], [[StartupGovernance]], [[FounderCashFlowConstraint]], and [[PostAcquisitionFounderIdentity]] branches. Its core synthesis is that mission-led CPG still has to find a product category with repeat purchase, margin, and channel fit: Late July's crackers and cookies carried organic values but failed velocity or profitability tests, while tortilla chips turned the brand into a scalable retail business before strategic ownership and contract language reshaped founder control. No settled contradiction is recorded; revenue trajectory, exact loan and deal terms, post-Campbell brand performance, and Nixie's current scale remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 9,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AcquisitionContractLanguage",
+        "CPGDistribution",
+        "CampbellSoupCompany",
+        "CapeCodChips",
+        "FounderCashFlowConstraint",
+        "GaryHirschberg",
+        "HowIBuiltThis",
+        "KeyPersonInsurance",
+        "LateJulySnacks",
+        "MegHirschberg",
+        "MissionAlignedRescueCapital",
+        "MissionDrivenCustomerEducation",
+        "NicoleBernardDawes",
+        "Nixie",
+        "PeterDawes",
+        "PostAcquisitionFounderIdentity",
+        "ProductCategoryVelocity",
+        "PurposeDrivenBusiness",
+        "RSFFinance",
+        "RetailShelfPlacement",
+        "SalesVelocity",
+        "SnydersLance",
+        "StartupGovernance",
+        "SteveBernard",
+        "Stonyfield",
+        "StopAndShop",
+        "TasteFirstCPGPositioning",
+        "late-july-snacks-nicole-bernard-dawes-crackers-and-cookies-were-failing-tortilla-chips-saved-them-97049a31-9144-42f5-856c-9590c5e6beb4"
+      ]
+    },
     {
       "id": "695b0bc2e7c51de7019a3589fe1de1fbccb3bf9c6f5b40a7c2fb9492430cb145",
       "primary_topic": "history-and-geopolitics",

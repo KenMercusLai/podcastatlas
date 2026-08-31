@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8608
+wiki_total_pages: 8621
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "LarryTheCat"
     title: "Larry the Cat"
     url: "/wiki/entities/larrythecat/"
+  - key: "LateJulySnacks"
+    title: "Late July Snacks"
+    url: "/wiki/entities/latejulysnacks/"
   - key: "LateTalk"
     title: "LateTalk"
     url: "/wiki/entities/latetalk/"

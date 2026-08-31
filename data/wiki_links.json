@@ -2799,6 +2799,10 @@
     "title": "Acquired",
     "url": "/wiki/entities/acquired/"
   },
+  "AcquisitionContractLanguage": {
+    "title": "Acquisition Contract Language",
+    "url": "/wiki/concepts/acquisitioncontractlanguage/"
+  },
   "ActForTheQueensSafety": {
     "title": "Act for the Queen's Safety",
     "url": "/wiki/entities/actforthequeenssafety/"
@@ -8483,6 +8487,10 @@
     "title": "Campbell's Law",
     "url": "/wiki/concepts/campbelllaw/"
   },
+  "CampbellSoupCompany": {
+    "title": "Campbell Soup Company",
+    "url": "/wiki/entities/campbellsoupcompany/"
+  },
   "CampionsBrag": {
     "title": "Campion's Brag",
     "url": "/wiki/entities/campionsbrag/"
@@ -8722,6 +8730,10 @@
   "CapeCanaveral": {
     "title": "Cape Canaveral",
     "url": "/wiki/entities/capecanaveral/"
+  },
+  "CapeCodChips": {
+    "title": "Cape Cod Chips",
+    "url": "/wiki/entities/capecodchips/"
   },
   "Caperni": {
     "title": "Caperni",
@@ -20627,6 +20639,10 @@
     "title": "Gary Gensler",
     "url": "/wiki/entities/garygensler/"
   },
+  "GaryHirschberg": {
+    "title": "Gary Hirschberg",
+    "url": "/wiki/entities/garyhirschberg/"
+  },
   "GaryMarcus": {
     "title": "Gary Marcus",
     "url": "/wiki/entities/garymarcus/"
@@ -28715,6 +28731,10 @@
     "title": "Kevin Warsh",
     "url": "/wiki/entities/kevinwarsh/"
   },
+  "KeyPersonInsurance": {
+    "title": "Key Person Insurance",
+    "url": "/wiki/concepts/keypersoninsurance/"
+  },
   "Keytruda": {
     "title": "Keytruda / K药",
     "url": "/wiki/entities/keytruda/"
@@ -29598,6 +29618,10 @@
   "LateHanPopulationCollapse": {
     "title": "Late-Han Population Collapse / 东汉末年人口崩塌",
     "url": "/wiki/concepts/latehanpopulationcollapse/"
+  },
+  "LateJulySnacks": {
+    "title": "Late July Snacks",
+    "url": "/wiki/entities/latejulysnacks/"
   },
   "LateMingWesternLearning": {
     "title": "Late-Ming Western Learning / 晚明西学东渐",
@@ -33967,6 +33991,10 @@
     "title": "Meet Fresh / 鲜芋仙",
     "url": "/wiki/entities/meetfresh/"
   },
+  "MegHirschberg": {
+    "title": "Meg Hirschberg",
+    "url": "/wiki/entities/meghirschberg/"
+  },
   "MegaCapConcentrationRisk": {
     "title": "Mega-Cap Concentration Risk",
     "url": "/wiki/concepts/megacapconcentrationrisk/"
@@ -34990,6 +35018,10 @@
   "MissingMiddle": {
     "title": "Missing Middle",
     "url": "/wiki/concepts/missingmiddle/"
+  },
+  "MissionAlignedRescueCapital": {
+    "title": "Mission-Aligned Rescue Capital",
+    "url": "/wiki/concepts/missionalignedrescuecapital/"
   },
   "MissionAlignedVendorSwitching": {
     "title": "Mission-Aligned Vendor Switching",
@@ -36783,6 +36815,10 @@
     "title": "Nicolas Maduro",
     "url": "/wiki/entities/nicolasmaduro/"
   },
+  "NicoleBernardDawes": {
+    "title": "Nicole Bernard Dawes",
+    "url": "/wiki/entities/nicolebernarddawes/"
+  },
   "NicoleNguyen": {
     "title": "Nicole Nguyen",
     "url": "/wiki/entities/nicolenguyen/"
@@ -36954,6 +36990,10 @@
   "NiuyueMantanlu": {
     "title": "纽约漫谈录 / Niuyue Mantanlu",
     "url": "/wiki/entities/niuyuemantanlu/"
+  },
+  "Nixie": {
+    "title": "Nixie",
+    "url": "/wiki/entities/nixie/"
   },
   "NkosiSikelelIAfrika": {
     "title": "Nkosi Sikelel' iAfrika",
@@ -39599,6 +39639,10 @@
     "title": "Peter D'Ambrosio",
     "url": "/wiki/entities/peterdambrosio/"
   },
+  "PeterDawes": {
+    "title": "Peter Dawes",
+    "url": "/wiki/entities/peterdawes/"
+  },
   "PeterEisley": {
     "title": "Peter Eisley",
     "url": "/wiki/entities/petereisley/"
@@ -41235,6 +41279,10 @@
     "title": "Product Analytics",
     "url": "/wiki/concepts/productanalytics/"
   },
+  "ProductCategoryVelocity": {
+    "title": "Product Category Velocity",
+    "url": "/wiki/concepts/productcategoryvelocity/"
+  },
   "ProductContainer": {
     "title": "Product Container",
     "url": "/wiki/concepts/productcontainer/"
@@ -42626,6 +42674,10 @@
   "RPORobot": {
     "title": "RPO Robot",
     "url": "/wiki/entities/rporobot/"
+  },
+  "RSFFinance": {
+    "title": "RSF Finance",
+    "url": "/wiki/entities/rsffinance/"
   },
   "RSIBenchData": {
     "title": "RSIbench-data",
@@ -47423,6 +47475,10 @@
     "title": "Snug Safety",
     "url": "/wiki/entities/snugsafety/"
   },
+  "SnydersLance": {
+    "title": "Snyder's-Lance",
+    "url": "/wiki/entities/snyderslance/"
+  },
   "SoapOperaEffect": {
     "title": "Soap Opera Effect",
     "url": "/wiki/concepts/soapoperaeffect/"
@@ -48715,6 +48771,10 @@
     "title": "Steve Bannon",
     "url": "/wiki/entities/stevebannon/"
   },
+  "SteveBernard": {
+    "title": "Steve Bernard",
+    "url": "/wiki/entities/stevebernard/"
+  },
   "SteveFredette": {
     "title": "Steve Fredette",
     "url": "/wiki/entities/stevefredette/"
@@ -48778,6 +48838,14 @@
   "Stoke": {
     "title": "Stoke Space",
     "url": "/wiki/entities/stoke/"
+  },
+  "Stonyfield": {
+    "title": "Stonyfield",
+    "url": "/wiki/entities/stonyfield/"
+  },
+  "StopAndShop": {
+    "title": "Stop & Shop",
+    "url": "/wiki/entities/stopandshop/"
   },
   "StopKillingGames": {
     "title": "Stop Killing Games",
@@ -50354,6 +50422,10 @@
   "TaskSwitchingResidue": {
     "title": "Task Switching Residue",
     "url": "/wiki/concepts/taskswitchingresidue/"
+  },
+  "TasteFirstCPGPositioning": {
+    "title": "Taste-First CPG Positioning",
+    "url": "/wiki/concepts/tastefirstcpgpositioning/"
   },
   "TasteLabs": {
     "title": "Taste Labs",
@@ -61734,6 +61806,10 @@
   "lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506": {
     "title": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿",
     "url": "/wiki/sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506/"
+  },
+  "late-july-snacks-nicole-bernard-dawes-crackers-and-cookies-were-failing-tortilla-chips-saved-them-97049a31-9144-42f5-856c-9590c5e6beb4": {
+    "title": "Late July Snacks: Nicole Bernard Dawes. Crackers and Cookies were Failing... Tortilla Chips Saved Them",
+    "url": "/wiki/sources/late-july-snacks-nicole-bernard-dawes-crackers-and-cookies-were-failing-tortilla-chips-saved-them-97049a31-9144-42f5-856c-9590c5e6beb4/"
   },
   "latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d": {
     "title": "Latin lessons: the Donroe-doctrine boost",
