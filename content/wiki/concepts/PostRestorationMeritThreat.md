@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k
   - zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y
   - zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh
-last_updated: 2026-08-29
+  - zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu
+last_updated: 2026-09-01
 ---
 
 ## Definition
@@ -22,6 +23,8 @@ A second Tian Dan layer shows mitigation and aftereffect. Diao Bo can temporaril
 
 The late-Han branch extends the pattern from one overmighty restorer to a restoration merit bloc. After [[SunChengLateHan|Sun Cheng]] and the nineteen eunuchs help restore [[EmperorShunOfHan|汉顺帝]], reward ranking, certificates, and list control become the next danger field. [[WangKangLateHan|Wang Kang]]'s inclusion of [[MiaoGuangLateHan|Miao Guang]] and Sun Cheng's choice not to punish him show that post-restoration threat can also run inside the winning group, not only between ruler and minister.
 
+The Eastern Han founding settlement adds a successful mitigation case after [[LiuXiu|光武帝刘秀]] completes unification. The threat is not erased; [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] frames ruler-versus-founding-merit conflict as a hard historical problem. But Liu Xiu makes the threat manageable through [[HonorsWithoutOfficeSettlement|honors without office settlement]]: commanders such as [[DengYuEasternHan|邓禹]], [[JiaFuEasternHan|贾复]], and [[GengYanEasternHan|耿弇]] surrender command while keeping rank, fief income, ceremony, and limited access.
+
 ## Key Claims
 
 - Restoring a regime can create a credit imbalance between the restored authority and the restorer.
@@ -30,6 +33,7 @@ The late-Han branch extends the pattern from one overmighty restorer to a restor
 - Court flatterers and internal rivals can make latent insecurity operational by supplying a rebellion or manipulation reading.
 - Formal promotion or household reward does not remove danger if it makes merit hierarchy more visible.
 - Post-restoration danger can reduce state capacity because useful actors self-censor, hide loyalty networks, or manage one another through leverage rather than open trust.
+- The danger can be mitigated when the ruler offers enough honor and income for high-merit actors to withdraw from command without becoming disgraced enemies.
 
 ## Evidence
 
@@ -39,16 +43,18 @@ The late-Han branch extends the pattern from one overmighty restorer to a restor
 - Temporary correction: [[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k|Zhouji 81 part 2]] shows Diao Bo pressing Qi Xiang Wang to honor Tian Dan properly and punish slander.
 - Aftereffect on command: [[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k|Zhouji 81 part 2]] says Tian Dan later avoids deep soldier intimacy because visible loyalty could renew suspicion.
 - Merit-bloc version: [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|Hanji 804]] shows Sun Cheng, Wang Kang, Wang Guo, and Miao Guang turning a successful restoration into a reward-ranking and list-manipulation problem.
+- Mitigation through honors without office: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] shows Liu Xiu recovering military authority after unification while rewarding meritorious commanders with title, fiefs, special access, and public honor.
+- New-affiliate qualification: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] shows [[DouRongEasternHan|Dou Rong]] trying to resign because high status above old followers creates exposure, while Liu Xiu keeps him integrated.
 
 ## Counterevidence & Qualifications
 
-The concept does not claim that all restorers are eliminated or that rulers always act out of simple jealousy. Zhouji 81 shows suspicion, corrective remonstrance, and later self-censorship rather than a single linear purge. Hanji 804 shows Sun Cheng tolerating Wang Kang and Miao Guang rather than punishing them, so the late-Han branch is about managed internal risk more than immediate destruction. The concept remains distinct from [[CoupCreditAllocationRisk|宫变功劳分配风险]], which is the narrower list-and-reward mechanism inside a coup merit group.
+The concept does not claim that all restorers are eliminated or that rulers always act out of simple jealousy. Zhouji 81 shows suspicion, corrective remonstrance, and later self-censorship rather than a single linear purge. Hanji 804 shows Sun Cheng tolerating Wang Kang and Miao Guang rather than punishing them, so the late-Han branch is about managed internal risk more than immediate destruction. Hanji 715 shows a comparatively stable settlement, but that result depends on Liu Xiu's trust relationships, material rewards, and the commanders' willingness to withdraw; it should not be generalized into a universal peaceful solution. The concept remains distinct from [[CoupCreditAllocationRisk|宫变功劳分配风险]], which is the narrower list-and-reward mechanism inside a coup merit group.
 
 ## What Changed
 
-- Migrated the page into the synthesis-v1 concept schema while preserving the existing Zhouji 81 source inventory.
-- Added Hanji 804 as a late-Han restoration-merit-bloc branch through Sun Cheng, Wang Kang, Wang Guo, and Miao Guang.
-- Reframed the concept to include both ruler-versus-restorer suspicion and internal rivalry among rewarded restorers.
+- Added Hanji 715 as a successful mitigation case in which Liu Xiu defuses founding-merit danger through honors, fiefs, and command withdrawal.
+- Preserved the Tian Dan and Shun-restoration branches as danger cases involving ruler suspicion and internal reward-list rivalry.
+- Reframed the concept to include both threat escalation and non-purge settlement when honor and authority are separated.
 
 ## Related Concepts
 
@@ -58,5 +64,6 @@ The concept does not claim that all restorers are eliminated or that rulers alwa
 - [[TreasonAccusationTrap|谋反指控陷阱]] - accusation pattern that turns merit, networks, and foreign respect into rebellion evidence.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - information failure that lets suspicion and slander overtake useful correction.
 - [[PowerExitTrap|权力退场困境]] - broader danger where decisive usefulness makes staying, leaving, or remaining visible unsafe.
+- [[HonorsWithoutOfficeSettlement|受爵不受官式功臣安置]] - mitigation pattern where title and income remain while command authority is withdrawn.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] - public-support relationship that can stabilize rule or be misread as rival legitimacy.
 - [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - adjacent alliance pattern where shared enemies disappear and internal incentives re-sort.

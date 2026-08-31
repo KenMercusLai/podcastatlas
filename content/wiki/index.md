@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》715丨史上最智慧的一次夺权](sources/zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu.md) — 37 CE Guangwu episode on royal-title reduction, founding-merit rewards, military authority recovery through honors without office, Deng Yu/Jia Fu/Geng Yan withdrawal, Wu Han's post-Shu reward, and Dou Rong's refused resignation.
 - [《资治通鉴·汉纪》716丨乱世之中，律法有多重要？](sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i.md) — 38-39 CE Guangwu episode on Liang Tong and Du Lin's penal-law debate, Western Regions capacity refusal, Han Xin's remonstrance death, Xiongnu pressure, border relocation, and the degree-field disturbance prelude.
 - [《资治通鉴·汉纪》717丨13个字引发的帝王之怒！](sources/zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v.md) — 39 CE Guangwu episode on degree-field land registration, the Chenliu comparison note, Liu Yang's political reading, Ouyang Xi's punishment, Lu Fang's Gaoliu return, and Zhang Kan's Gaoliu/Yuyang frontier governance.
 - [《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？](sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r.md) — 40 CE Guangwu-era episode on Zheng Ce and Zheng Er's Jiaozhi revolt, land-and-grain fraud punishment, anti-bandit incentive design, Lu Fang's fragile surrender, and Ma Yuan's five-zhu coin memorial.
@@ -10505,6 +10506,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Honors Without Office Settlement / 受爵不受官式功臣安置](concepts/HonorsWithoutOfficeSettlement.md) — Guangwu-era pattern of exchanging titles, stipends, ceremony, and limited access for the withdrawal of founding commanders from command and administrative power.
 - [刑法轻重与执行困境 / Penal Severity and Execution Tradeoff](concepts/PenalSeverityExecutionTradeoff.md) — Governance pattern where deterrence, proportionality, law density, and enforceability pull punishment design in opposite directions.
 - [度田问责 / Dutian Accountability (Eastern Han)](concepts/DutianAccountabilityEasternHan.md) — Guangwu-era land-registration accountability pattern exposing protected elite comparison zones and senior local-official falsification.
 - [女性起义称王 / Female Rebel Sovereignty](concepts/FemaleRebelSovereignty.md) — Pattern where Zheng Ce's Jiaozhi revolt becomes a female-led ruler claim rather than only local disorder.

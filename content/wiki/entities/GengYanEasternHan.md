@@ -5,11 +5,12 @@ knowledge_schema: synthesis-v1
 tags: [person, eastern-han, general, founding, military-strategy]
 sources:
   - zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh
-last_updated: 2026-08-31
+  - zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu
+last_updated: 2026-09-01
 ---
 
 ## Overview
-Geng Yan / 耿弇 is presented by [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] as an Eastern Han founding general whose achievement combines military-family capital, correct alignment with [[LiuXiu|刘秀 / 光武帝]], battlefield deception, and political self-protection. The episode treats him as a Yuntai Twenty-Eight General, ranked fourth, and as the recipient of Liu Xiu's "有志者事竟成" praise.
+Geng Yan / 耿弇 is synthesized as an Eastern Han founding general whose achievement combines military-family capital, correct alignment with [[LiuXiu|刘秀 / 光武帝]], battlefield deception, suspicion management, and postwar command withdrawal. [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] treats him as a Yuntai Twenty-Eight General, ranked fourth, and as the recipient of Liu Xiu's "有志者事竟成" praise; [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] places his returned seals inside a broader post-unification settlement.
 
 ## Current Profile
 Geng Yan comes from a powerful northern military household: his father [[GengKuangEasternHan|耿况]] holds command resources in Shanggu/Youzhou, and the family is remembered in the episode as a line of capable generals. The episode does not reduce his career to inheritance; it emphasizes that he turns access to horses, military culture, and local networks into usable service by identifying Liu Xiu as the more credible center of authority.
@@ -20,6 +21,8 @@ The Peng Chong rebellion shows the risk around his family position. [[PengChongE
 
 On campaign, Geng Yan is portrayed as a commander of tempo, deception, and follow-through. In Qinghe and Qi-region fighting, he uses encirclement with an exit, misdirection about targets, refusal to wait passively for imperial help, feigned retreat, and ambush of retreat paths. After later work in Longyou and the Weichun campaign, he returns the great-general seal and appears as a model of high merit followed by measured withdrawal.
 
+Hanji 715 adds the collective context for that withdrawal. After unification in 37 CE, Geng Yan appears among the generals who surrender military seals and ribbons and leave direct command as honored marquises. His retreat is therefore not only an individual virtue story; in the current evidence it is also one piece of Liu Xiu's [[HonorsWithoutOfficeSettlement|honors-without-office settlement]] for the founding coalition.
+
 ## Key Characteristics
 - Founding general who converts family military capital into state-building service for Liu Xiu.
 - Early political judge who distinguishes Liu Xiu from unstable transitional claimants and Gengshi appointees.
@@ -27,6 +30,7 @@ On campaign, Geng Yan is portrayed as a commander of tempo, deception, and follo
 - Battlefield tactician who favors deception, tempo, and controlled pursuit over simple frontal pressure.
 - High-merit commander who actively manages ruler suspicion when personal and family power become risky.
 - Late-career figure of post-merit restraint through returning visible command after major achievement.
+- Collective settlement case whose surrender of seals helps Liu Xiu recover military authority without disgracing founding commanders.
 
 ## Evidence
 - Family military capital and founding service: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] presents Geng Yan as a general's son from a powerful northern household and as a major Liu Xiu commander.
@@ -34,14 +38,15 @@ On campaign, Geng Yan is portrayed as a commander of tempo, deception, and follo
 - Suspicion management: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] frames the Peng Chong episode as a moment when the Geng family's old ties must be offset by visible loyalty signals.
 - Tactical deception and tempo: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] gives Qinghe, Linzi, and Zhang Bu-linked fighting as examples of announced targets, lures, feigned retreat, and ambush.
 - Post-merit retreat: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] says Geng Yan later returns the great-general seal and appears thereafter with less visible command.
+- Collective command withdrawal: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] places Geng Yan among commanders who surrender general seals and ribbons after unification while retaining honor as marquises.
 
 ## Qualifications
-The current page rests on one podcast source. The episode reports traditional-looking details such as Yuntai ranking, pacified commandery counts, and captured city counts, but those figures should remain source-scoped until checked against primary histories such as [[HouHanshu|《后汉书》]]. Several minor names in the transcript appear vulnerable to ASR or normalization error, so the profile links only the actors whose identification is stable within this episode.
+The current page rests on two podcast source notes rather than a complete biography. Hanji 733-2 reports traditional-looking details such as Yuntai ranking, pacified commandery counts, and captured city counts, but those figures should remain source-scoped until checked against primary histories such as [[HouHanshu|《后汉书》]]. Hanji 715 confirms the postwar withdrawal setting but does not independently reconstruct Geng Yan's full office chronology. Several minor names in the transcripts appear vulnerable to ASR or normalization error, so the profile links only the actors whose identification is stable within the bounded evidence.
 
 ## What Changed
-- Created a canonical page for Geng Yan as a distinct Eastern Han founding general.
-- Anchored his profile to Liu Xiu alignment, Youzhou cavalry, Peng Chong suspicion management, Qi-region tactics, and post-merit retreat.
-- Distinguished the source's Hebei Wang Lang claimant from the later-Han/Three Kingdoms Wang Lang page.
+- Added Hanji 715, extending Geng Yan's retreat from an individual post-merit act into Liu Xiu's broader 37 CE command-withdrawal settlement.
+- Preserved the Hanji 733-2 profile around Liu Xiu alignment, Youzhou cavalry, Peng Chong suspicion management, Qi-region tactics, and individual post-merit retreat.
+- Preserved the distinction between the source's Hebei Wang Lang claimant and the later-Han/Three Kingdoms Wang Lang page.
 
 ## Relationships
 - [[LiuXiu|刘秀 / 光武帝]] - ruler whose recognition and founding needs define Geng Yan's service.
@@ -55,3 +60,4 @@ The current page rests on one podcast source. The episode reports traditional-lo
 - [[FoundingCommanderSuspicionManagement|建国将领消疑]] - conceptual pattern that explains Geng Yan's loyalty signaling.
 - [[BattlefieldFeintAndLure|声东击西与诱敌]] - tactical pattern repeatedly used in the campaign narrative.
 - [[PowerCompletionRetreat|功成退让]] - late-career pattern expressed by returning high command after founding merit.
+- [[HonorsWithoutOfficeSettlement|受爵不受官式功臣安置]] - broader Liu Xiu settlement in which Geng Yan's returned seals become part of collective command withdrawal.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6180
+wiki_total_pages: 6181
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "HonorDuelCulture"
     title: "Honor Duel Culture / 荣誉决斗文化"
     url: "/wiki/concepts/honorduelculture/"
+  - key: "HonorsWithoutOfficeSettlement"
+    title: "Honors Without Office Settlement / 受爵不受官式功臣安置"
+    url: "/wiki/concepts/honorswithoutofficesettlement/"
   - key: "HonoursPatronageExchange"
     title: "Honours Patronage Exchange"
     url: "/wiki/concepts/honourspatronageexchange/"
