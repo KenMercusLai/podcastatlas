@@ -1,18 +1,21 @@
 ---
-title: "严岑 / 颜岑 / Yan Cen"
+title: "延岑 / 严岑 / 颜岑 / Yan Cen"
 type: entity
 knowledge_schema: synthesis-v1
 tags: [person, eastern-han, shu, surrender, chengdu]
 sources:
   - zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje
   - zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn
+  - zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w
 last_updated: 2026-09-01
 ---
 
 ## Overview
-Yan Cen is the Shu commander rendered as 严岑 in [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]] and 颜岑 in [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]]. The current profile treats these as the same Shu final commander: he urges Gongsun Shu to keep fighting, defeats Wu Han through a frontal display and rear cavalry attack, is entrusted with Gongsun Shu's army after the final Chengdu battle, and surrenders the city before Wu Han destroys his clan.
+Yan Cen is the Shu commander rendered as 延岑 in [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]], 严岑 in [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]], and 颜岑 in [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]]. The current profile treats these as the same Shu final commander: he loses to [[ZangGongEasternHan|Zang Gong]] on the Fu River, later urges Gongsun Shu to keep fighting, defeats Wu Han through a frontal display and rear cavalry attack, is entrusted with Gongsun Shu's army after the final Chengdu battle, and surrenders the city before Wu Han destroys his clan.
 
 ## Current Profile
+In Hanji 711, Yan Cen appears as 延岑 on the Fu River against [[ZangGongEasternHan|Zang Gong]]. Zang Gong's force is strained by fleeing surrendered troops and watching counties, but he uses renewed supplies, urgent authority, night movement, flags, and drums to press the attack. Yan Cen is defeated, flees to Chengdu, and his army surrenders, giving the later Chengdu-endgame profile an earlier collapse layer.
+
 In Hanji 712, Yan Cen appears before the surrender episode as Gongsun Shu's last aggressive military adviser. When asked for a plan after prolonged siege pressure, he says there is no alternative to battle. Gongsun Shu gives treasure to recruit a dare-to-die force under him, and Yan Cen then uses flags and drums at the Chengdu bridge/market front while sending cavalry around to strike [[WuHanEasternHan|Wu Han]] from behind.
 
 In Hanji 713, Yan Cen appears as Gongsun Shu's battlefield subordinate, sent against Zhang Gong while Gongsun Shu attacks Wu Han. His fight initially goes well, but Wu Han's reinforcement breaks the broader Shu position and Gongsun Shu is fatally wounded.
@@ -20,7 +23,8 @@ In Hanji 713, Yan Cen appears as Gongsun Shu's battlefield subordinate, sent aga
 After Gongsun Shu entrusts the army to him, Yan Cen offers Chengdu in surrender the next day. The episode's judgment turns on what follows: Wu Han does not treat the surrender as a protection bargain but destroys Yan Cen's clan while killing Gongsun Shu's household and allowing a sack of Chengdu.
 
 ## Key Characteristics
-- Final Shu military commander whose name appears as 严岑/颜岑 across adjacent source notes.
+- Final Shu military commander whose name appears as 延岑/严岑/颜岑 across adjacent source notes.
+- Fu River commander defeated by Zang Gong before fleeing to Chengdu.
 - Fight-only adviser who pushes continued battle when Gongsun Shu asks for a way out.
 - Deception-and-cavalry commander who briefly defeats Wu Han before Chengdu's final fall.
 - Battlefield officer who fights Zhang Gong during the last Chengdu engagement.
@@ -28,7 +32,8 @@ After Gongsun Shu entrusts the army to him, Yan Cen offers Chengdu in surrender 
 - Victim of post-surrender collective punishment through Wu Han's destruction of his clan.
 
 ## Evidence
-- Name and role continuity: [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]] writes the name as 严岑 in a final Shu-command setting, while [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] writes 颜岑 in the same Chengdu endgame context.
+- Name and role continuity: [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]] writes the name as 延岑 on the Fu River before Chengdu, [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]] writes 严岑 in a final Shu-command setting, and [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] writes 颜岑 in the same Chengdu endgame context.
+- Fu River defeat: [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]] says Zang Gong defeats Yan Cen after night movement and flag/drum pressure, causing Yan Cen to flee to Chengdu and the remaining army to surrender.
 - Last-fight advice: [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]] says Yan Cen tells Gongsun Shu there is no plan except fighting and then commands the recruited dare-to-die force.
 - Counterattack deception: [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]] says Yan Cen uses visible flags and drums while sending cavalry around to attack Wu Han from behind, defeating him and forcing a water escape.
 - Battlefield role: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Gongsun Shu sends Yan Cen against Zhang Gong during the final Chengdu battle.
@@ -36,17 +41,20 @@ After Gongsun Shu entrusts the army to him, Yan Cen offers Chengdu in surrender 
 - Post-surrender punishment: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] reports Wu Han destroys Yan Cen's clan despite the city's surrender.
 
 ## Qualifications
-The page treats Hanji 712's 严岑 and Hanji 713's 颜岑 as one Chengdu-endgame figure because the role, regime, and sequence align. If later source notes establish a genuine separate person or a corrected canonical spelling, this page should be reconciled rather than duplicated. Hanji 712 ends before the final outcome of Zhang Kan's anti-retreat advice, so Yan Cen's temporary success there should not be mistaken for durable campaign recovery.
+The page treats Hanji 711's 延岑, Hanji 712's 严岑, and Hanji 713's 颜岑 as one Chengdu-endgame figure because the role, regime, and sequence align. If later source notes establish a genuine separate person or a corrected canonical spelling, this page should be reconciled rather than duplicated. Hanji 711's Fu River defeat and Hanji 712's temporary counterattack success describe different campaign moments and should not be flattened into one battlefield outcome. Hanji 712 ends before the final outcome of Zhang Kan's anti-retreat advice, so Yan Cen's temporary success there should not be mistaken for durable campaign recovery.
 
 ## What Changed
+- Added Hanji 711, preserving 延岑 as another name variant and adding Yan Cen's Fu River defeat by Zang Gong before the Chengdu endgame.
 - Added Hanji 712, preserving the 严岑 spelling as a name variant and adding Yan Cen's fight-only advice, dare-to-die force, and rear-cavalry counterattack against Wu Han.
 - Preserved Hanji 713 as the surrender, entrusted-command, and post-surrender clan-destruction layer.
 
 ## Relationships
+- [[ZangGongEasternHan]] - opposing Han commander who defeats Yan Cen on the Fu River before the Chengdu endgame.
 - [[GongsunShuEasternHan]] - ruler who entrusts the remaining army to Yan Cen before death.
 - [[WuHanEasternHan]] - opposing commander whom Yan Cen briefly defeats before Wu Han later accepts the surrendered city and destroys Yan Cen's clan.
 - [[LiuXiu]] - emperor whose rebuke defines the post-surrender violence as unacceptable.
 - [[Chengdu]] - city surrendered by Yan Cen.
+- [[OperationalTempoBreakthrough]] - related because Yan Cen's Fu River defeat is part of the wider tempo collapse created by Cen Peng and Zang Gong.
 - [[BattlefieldFeintAndLure]] - tactical pattern illustrated by Yan Cen's bridge/market display and rear cavalry strike.
 - [[SurrenderAsCivilianProtectionTradeoff]] - surrender logic that Yan Cen's case attempts but fails to secure.
 - [[BreachOfSurrenderTrust]] - concept illustrated by clan destruction after surrender.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6184
+wiki_total_pages: 6185
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "OfficeDutyExitConstraint"
     title: "任官责任退出受限 / Office Duty Exit Constraint"
     url: "/wiki/concepts/officedutyexitconstraint/"
+  - key: "OperationalTempoBreakthrough"
+    title: "兵贵神速式长线突破 / Operational Tempo Breakthrough"
+    url: "/wiki/concepts/operationaltempobreakthrough/"
   - key: "OralHistoryMemoryAnalysis"
     title: "口述记忆分析 / Oral History Memory Analysis"
     url: "/wiki/concepts/oralhistorymemoryanalysis/"

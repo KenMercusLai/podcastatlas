@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 8694
+wiki_total_pages: 8697
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -308,9 +308,6 @@ wiki_pages:
   - key: "YanZhongzi"
     title: "严仲子 / Yan Zhongzi"
     url: "/wiki/entities/yanzhongzi/"
-  - key: "YanCenEasternHan"
-    title: "严岑 / 颜岑 / Yan Cen"
-    url: "/wiki/entities/yanceneasternhan/"
   - key: "YanBaihu"
     title: "严白虎 / Yan Baihu"
     url: "/wiki/entities/yanbaihu/"
@@ -482,6 +479,9 @@ wiki_pages:
   - key: "YuChengLateHan"
     title: "庾乘 / Yu Cheng (late Han)"
     url: "/wiki/entities/yuchenglatehan/"
+  - key: "YanCenEasternHan"
+    title: "延岑 / 严岑 / 颜岑 / Yan Cen"
+    url: "/wiki/entities/yanceneasternhan/"
   - key: "YanjinBattleLateHan"
     title: "延津之战 / Yanjin Battle (late Han)"
     url: "/wiki/entities/yanjinbattlelatehan/"

@@ -2,6 +2,30 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "early-eastern-han-711-shu-tempo-frontier-resource-and-appointment-quality",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 711 as a Jianwu 11-12 backfill before Hanji 712.",
+        "Cen Peng and Zang Gong's operational success should be attributed to the commanders; Liu Xiu's direct governance evidence is surrender-letter pressure, later command replacement, acceptance of Ma Yuan's frontier-resource plan, and reception of Guo Ji's personnel warning.",
+        "Yan Cen's 延岑 spelling is normalized to the existing Yan Cen page; Guo Ji's Nanyang-staffing criticism is a transition warning, not proof that all Nanyang appointments were poor."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]] backfills the early [[LiuXiu]] governance branch before [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]]: [[CenPengEasternHan]] and [[ZangGongEasternHan]] make [[OperationalTempoBreakthrough]] a conquest-legitimacy problem because speed toward Wuyang and Guangdu breaks Shu's defensive confidence before final victory, [[GongsunShuEasternHan]] answers collapse with refused surrender and assassination, [[MaYuanEasternHan]] and [[FrontierResourceIntegration]] make Jincheng/Poqiang retention a repair-and-repopulation policy, and [[GuoJiEasternHan]] ties [[AppointmentQualityAsStateCapacity]] to broadening official selection beyond Liu Xiu's Nanyang compatriots.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w",
+        "LiuXiu",
+        "zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn",
+        "CenPengEasternHan",
+        "ZangGongEasternHan",
+        "OperationalTempoBreakthrough",
+        "GongsunShuEasternHan",
+        "MaYuanEasternHan",
+        "FrontierResourceIntegration",
+        "GuoJiEasternHan",
+        "AppointmentQualityAsStateCapacity"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "early-eastern-han-713-shu-surrender-breach-and-local-elite-repair",
       "qualifications": [
         "This claim is source-scoped to Hanji 713 as a Jianwu 12 backfill before Hanji 714 and Hanji 715.",

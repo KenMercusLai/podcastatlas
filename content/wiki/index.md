@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？](sources/zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w.md) — Jianwu 11-12 Shu-campaign episode on Cen Peng's Wuyang/Guangdu breakthrough, Gongsun Shu's refused surrender and assassination, Zang Gong's defeat of Yan Cen, Ma Yuan's Jincheng frontier-resource governance, Guo Ji's national-staffing critique, and Wu Han's succession as Shu commander.
 - [《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？](sources/zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn.md) — Jianwu 12 Shu-campaign episode on Liu Xiu's Guangdu order, Wu Han's risky Chengdu advance, separated-camp mutual-support failure, night reunion with Liu Shang, Yan Cen's counterattack, Zhang Kan's anti-retreat advice, and Li Tong's honored withdrawal.
 - [《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！](sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje.md) — Jianwu 12 Shu-conquest episode on Gongsun Shu's final Chengdu defeat, Yan Cen's surrender, Wu Han's post-surrender killing and sack, Liu Xiu's rebuke, coerced scholar summons, and post-Shu local-elite repair.
 - [《资治通鉴·汉纪》714丨是谁第一个喊出“男儿当马革裹尸”？](sources/zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi.md) — Jianwu 12-13 Guangwu episode on Ma Yuan's Wudu/Qiang victory and horsehide-burial idiom, flexible frontier rules, Dou Rong and Hexi official integration, Kong Fen and Ren Ting, Zhi Yun's gate remonstrance, tribute restraint, and Lu Fang/Sui Yu northern pressure.
@@ -1823,6 +1824,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [岑彭 / Cen Peng (Eastern Han)](entities/CenPengEasternHan.md) — Guangwu commander whose fast Shu breakthrough, strict no-plunder discipline, assassination, and later local memory anchor Hanji 711.
+- [臧宫 / Zang Gong (Eastern Han)](entities/ZangGongEasternHan.md) — Shu-campaign commander under Cen Peng who turns unstable surrendered troops and new supplies into a tempo-and-intimidation victory over Yan Cen.
+- [郭伋 / Guo Ji (Eastern Han)](entities/GuoJiEasternHan.md) — Bingzhou governor whose advice to Liu Xiu criticizes Nanyang-heavy appointments and argues for nationwide official selection.
 - [李通 / Li Tong (Eastern Han)](entities/LiTongEasternHan.md) — Guangwu-era founding-merit figure who returns full office but keeps honored court access, distinct from the later Cao-era Li Tong.
 - [公孙述 / Gongsun Shu (Eastern Han)](entities/GongsunShuEasternHan.md) — Shu-based rival ruler whose final Chengdu profile links refused surrender, large counterattacks, battlefield collapse, coerced talent, and post-surrender violence.
 - [严岑 / 颜岑 / Yan Cen](entities/YanCenEasternHan.md) — Final Chengdu commander who urges continued battle, briefly defeats Wu Han through a rear-cavalry feint, then surrenders after Gongsun Shu's mortal wound.
@@ -10521,6 +10525,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [兵贵神速式长线突破 / Operational Tempo Breakthrough](concepts/OperationalTempoBreakthrough.md) — Hanji 711 tactical pattern where speed, weak-point concentration, and rear shock collapse an overextended defensive line before the defender can realign.
 - [Separated Camp Mutual Support Risk / 分营互援风险](concepts/SeparatedCampMutualSupportRisk.md) — Command risk where allied camps are close enough for one operation but too separated to reinforce each other under sequential enemy attack.
 - [马革裹尸式边将生死观 / Horsehide Burial Resolve](concepts/HorsehideBurialResolve.md) — Ma Yuan-linked frontier ethos treating death in border service and return wrapped in horsehide as a soldier's fitting end.
 - [弹性边防军法 / Flexible Frontier Military Discretion](concepts/FlexibleFrontierMilitaryDiscretion.md) — Guangwu-era frontier rule pattern allowing defense and pursuit to follow troop capacity and enemy conditions rather than mechanical delay-law fear.

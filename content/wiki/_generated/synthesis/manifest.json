@@ -1,8 +1,8 @@
 {
   "content_date": "2026-09-01",
   "corpus": {
-    "episode_count": 1815,
-    "source_count": 1815
+    "episode_count": 1816,
+    "source_count": 1816
   },
   "generated": true,
   "global": {
@@ -16,12 +16,14 @@
     "output_digest": "82b9ea5176e30158e983a05d1e4cf85e26978660fd161b7e74a632f8a1fbafca",
     "overview_commit": "84cfc77f0bfcc53bb881046f9162e2099cd2e48f",
     "overview_digest": "13cba27c258f31bc62a1a25993edee5bd8b3c8b4835c9dc9921a91f9afc01dfb",
-    "pending_ingests": 0,
-    "pending_topics": []
+    "pending_ingests": 1,
+    "pending_topics": [
+      "governance-and-institutions"
+    ]
   },
-  "overview_commit": "84cfc77f0bfcc53bb881046f9162e2099cd2e48f",
-  "overview_digest": "13cba27c258f31bc62a1a25993edee5bd8b3c8b4835c9dc9921a91f9afc01dfb",
-  "paragraph_count": 462,
+  "overview_commit": "dcc73968135e20618f9593e2c67f82f3296934a4",
+  "overview_digest": "4726b5b3a37c559462e73073c5c0ccfe5c71bc501be072931f46f68fad5f1fe4",
+  "paragraph_count": 463,
   "schema_version": 1,
   "topics": {
     "ai-and-technology": {
@@ -43,9 +45,9 @@
       "title": "Culture and Media"
     },
     "governance-and-institutions": {
-      "claim_digest": "bd66865ce72d568bd1d7f144a7fc8a0086705a1def34affb657524306d807a9e",
-      "input_digest": "6621ab3a4fe6cb38df026289147cb76e52f2e63a4b8a4e248416bae789d9613a",
-      "output_digest": "56a2eccf32877711b7a0239f1aff7057f804cd73fe3f6e7b345442082085fb4b",
+      "claim_digest": "4911b9534ca258525e7390f95538dc7628310c207ca0e1d4475bda24da586c40",
+      "input_digest": "e5ecd3b204f8ae992f1da800d097ca47f1db2463ec833a914e06154211b205ca",
+      "output_digest": "ba8a1b458b9cd0cec866794a02896cd2db21c1fdb65aa37f864f8be455b0a30e",
       "title": "Governance and Institutions"
     },
     "history-and-geopolitics": {

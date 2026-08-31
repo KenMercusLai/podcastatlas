@@ -14484,6 +14484,10 @@ Ingested the 2026-08-31 The Intelligence episode on Hollywood AI production, syn
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-01] ingest | 《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？
+
+Ingested the 2026-06-20 芮淇讲透资治通鉴 episode backfilling the Jianwu 11-12 Shu campaign immediately before Hanji 712. Created `CenPengEasternHan`, `ZangGongEasternHan`, `GuoJiEasternHan`, and `OperationalTempoBreakthrough`; updated Liu Xiu, Gongsun Shu, Yan Cen, Wu Han, Ma Yuan, overview, and index. No settled contradiction found; 延岑 is normalized to the existing Yan Cen page, Cen Peng's humane military discipline is held beside Wu Han's later Chengdu overreach, and minor figures such as Hou Dan, Wang Yuan, Ren Gui, Chang Shao, and Zhang Long remain source-scoped.
+
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》715丨史上最智慧的一次夺权
 
 Ingested the 2026-06-21 芮淇讲透资治通鉴 episode backfilling Jianwu 13 / 37 CE before Hanji 716. Created `HonorsWithoutOfficeSettlement`; updated Liu Xiu, Deng Yu, Jia Fu, Geng Yan, Dou Rong, Wu Han, Ma Cheng, Han Xin, power completion retreat, post-restoration merit threat, overview, and index. No settled contradiction found; Zhang Chun of Fuping/Wushi and Li Tong of Gushi are kept distinct from existing same-name pages, while royal-title reductions, Kong An, Ji Chang, Zhu Hu, exact fief figures, and the Hedong Xiongnu raid remain source-scoped.
@@ -14551,6 +14555,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？
 
 Ingested the 2026-06-20 芮淇讲透资治通鉴 episode backfilling Jianwu 12 / 36 CE immediately before Hanji 713. Created `LiTongEasternHan` and `SeparatedCampMutualSupportRisk`; updated Liu Xiu, Wu Han, Gongsun Shu, Yan Cen, Liu Shang, Zhang Kan, battlefield feint and lure, power completion retreat, overview, and index. No settled contradiction found; 严岑 is normalized to the existing Yan Cen page, Guangwu-era Li Tong is kept distinct from the later Cao-era Li Tong, and the episode's ending leaves Zhang Kan's show-weakness plan outcome to the following source.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] lint | Wiki health check
 

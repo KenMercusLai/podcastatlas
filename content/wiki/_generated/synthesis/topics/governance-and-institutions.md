@@ -4,8 +4,8 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-01
-as_of_overview_commit: 0ba4d6e9614ef22e4e991d2fb99f30a5dcee337d
-input_digest: 6621ab3a4fe6cb38df026289147cb76e52f2e63a4b8a4e248416bae789d9613a
+as_of_overview_commit: dcc73968135e20618f9593e2c67f82f3296934a4
+input_digest: e5ecd3b204f8ae992f1da800d097ca47f1db2463ec833a914e06154211b205ca
 ---
 
 # Governance and Institutions
@@ -15,6 +15,18 @@ input_digest: 6621ab3a4fe6cb38df026289147cb76e52f2e63a4b8a4e248416bae789d9613a
 Hanji 713 now backfills the early Guangwu governance branch to Jianwu 12 / 36 CE: Liu Xiu condemns Wu Han and Liu Shang after surrendered Chengdu is killed, looted, and burned, while the post-Shu settlement repairs authority through honors for refusers, repayment, summons, former-opponent appointments, and recognition of Wen Qi. Hanji 718 now backfills the late Guangwu governance branch to 40 CE: Liu Xiu's stabilization problem spans Jiaozhi revolt, fiscal-fraud punishment, anti-bandit incentive redesign, Lu Fang's fragile Xiongnu-linked surrender settlement, and Ma Yuan's five-zhu coin restoration advice. Hanji 719 then adds the 41 CE Guo-Yin empress change through political marriage alliance depreciation, public state-foundation warning, maternal-status succession risk, soft-landing compensation, and Shache recognition narrowing before unsupported authority hardens. The ICE/CODIS Marketplace Tech episode adds a federal biometric-surveillance branch: DHS and ICE DNA collection can turn immigration detention into durable policing infrastructure once profiles enter FBI CODIS, raising Fourth Amendment, retention, age-threshold, and family-exposure questions that remain qualified by the absence of a detailed DHS, FBI, or DOJ defense. Hanji 726 backfills the late Guangwu governance branch to 49 CE through Zhu Bo's correction of Ma Yuan's posthumous accusation, Zong Jun's accountable field discretion, and Wuhuan protector-office institutionalization. Hanji 729-731 preserve the later Guangwu pattern of calibrated Northern Xiongnu reply, ritual refusal before fengshan, personnel judgment, chenwei-fengshan, and chenwei speech risk, while Hanji 736-740 remain the Mingdi continuation through royal-kin boundaries, private-retainer risk, forged authority, anti-flattery edicts, empress memory, frontier containment, local capacity, Chu-case coercion, and partial correction. A small health-product governance edge keeps functional-food and supplement claims tied to product identity, label evidence, and professional-boundary checks before consumer trust.
 
 ## Cross-source Findings
+
+### Early Eastern Han 711 Shu Tempo Frontier Resource And Appointment Quality
+
+[[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]] backfills the early [[LiuXiu]] governance branch before [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]]: [[CenPengEasternHan]] and [[ZangGongEasternHan]] make [[OperationalTempoBreakthrough]] a conquest-legitimacy problem because speed toward Wuyang and Guangdu breaks Shu's defensive confidence before final victory, [[GongsunShuEasternHan]] answers collapse with refused surrender and assassination, [[MaYuanEasternHan]] and [[FrontierResourceIntegration]] make Jincheng/Poqiang retention a repair-and-repopulation policy, and [[GuoJiEasternHan]] ties [[AppointmentQualityAsStateCapacity]] to broadening official selection beyond Liu Xiu's Nanyang compatriots.
+
+**Evidence:** [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w]], [[LiuXiu]], [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn]], [[CenPengEasternHan]], [[ZangGongEasternHan]], [[OperationalTempoBreakthrough]], [[GongsunShuEasternHan]], [[MaYuanEasternHan]], [[FrontierResourceIntegration]], [[GuoJiEasternHan]], [[AppointmentQualityAsStateCapacity]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 711 as a Jianwu 11-12 backfill before Hanji 712.
+- Cen Peng and Zang Gong's operational success should be attributed to the commanders; Liu Xiu's direct governance evidence is surrender-letter pressure, later command replacement, acceptance of Ma Yuan's frontier-resource plan, and reception of Guo Ji's personnel warning.
+- Yan Cen's 延岑 spelling is normalized to the existing Yan Cen page; Guo Ji's Nanyang-staffing criticism is a transition warning, not proof that all Nanyang appointments were poor.
 
 ### Early Eastern Han 713 Shu Surrender Breach And Local Elite Repair
 

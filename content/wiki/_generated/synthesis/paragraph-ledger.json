@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "f07191b9a08bddf99d02abceb078b22fd7fe7ffd031a2ce8c8c4ddb6102b8d32",
       "cd564f865174393895462c0ee634fb249925bb7b1df949089a1cfe256936399e",
       "b7def56b675911d97d2e781baf41dd83a81c116080d0b36c42eead1b64898001",
       "4e9ee1c8ae5ee3d05c535b10e120a6ff4df66c9aa8ef620d13490674db349cda",
@@ -464,11 +465,39 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 462
+    "paragraph_count": 463
   },
-  "overview_commit": "84cfc77f0bfcc53bb881046f9162e2099cd2e48f",
-  "overview_digest": "13cba27c258f31bc62a1a25993edee5bd8b3c8b4835c9dc9921a91f9afc01dfb",
+  "overview_commit": "dcc73968135e20618f9593e2c67f82f3296934a4",
+  "overview_digest": "4726b5b3a37c559462e73073c5c0ccfe5c71bc501be072931f46f68fad5f1fe4",
   "paragraphs": [
+    {
+      "id": "f07191b9a08bddf99d02abceb078b22fd7fe7ffd031a2ce8c8c4ddb6102b8d32",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the Jianwu 11-12 Shu campaign immediately before [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]]. It adds [[CenPengEasternHan|岑彭]], [[ZangGongEasternHan|臧宫]], [[GuoJiEasternHan|郭伋]], and [[OperationalTempoBreakthrough|兵贵神速式长线突破]], while extending [[LiuXiu|光武帝刘秀]], [[GongsunShuEasternHan|公孙述]], [[YanCenEasternHan|延岑 / Yan Cen]], [[WuHanEasternHan|吴汉]], [[MaYuanEasternHan|马援]], [[FrontierResourceIntegration|边疆资源整合治理]], [[LightTouchFrontierGovernance|宽简边疆治理]], and [[AppointmentQualityAsStateCapacity|任官适任性国家能力]]. Its core synthesis is that Shu conquest turns on speed and post-breakthrough legitimacy: Cen Peng collapses a long defensive line by forcing tempo from Jiangzhou to Wuyang and Guangdu, but Gongsun Shu answers strategic defeat with refusal and assassination, while Cen Peng's no-plunder discipline becomes local memory. No settled contradiction is recorded; 延岑 is normalized to the existing Yan Cen page, and Guo Ji's Nanyang-staffing criticism is treated as a transition warning rather than proof that all Liu Xiu appointments were parochial.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AppointmentQualityAsStateCapacity",
+        "CenPengEasternHan",
+        "FrontierResourceIntegration",
+        "GongsunShuEasternHan",
+        "GuoJiEasternHan",
+        "LightTouchFrontierGovernance",
+        "LiuXiu",
+        "MaYuanEasternHan",
+        "OperationalTempoBreakthrough",
+        "RuiqiJiangtouZizhiTongjian",
+        "WuHanEasternHan",
+        "YanCenEasternHan",
+        "ZangGongEasternHan",
+        "zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w",
+        "zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn"
+      ]
+    },
     {
       "id": "cd564f865174393895462c0ee634fb249925bb7b1df949089a1cfe256936399e",
       "primary_topic": "history-and-geopolitics",

@@ -9299,6 +9299,10 @@
     "title": "Celtic Otherworld",
     "url": "/wiki/concepts/celticotherworld/"
   },
+  "CenPengEasternHan": {
+    "title": "岑彭 / Cen Peng (Eastern Han)",
+    "url": "/wiki/entities/cenpengeasternhan/"
+  },
   "CenShen": {
     "title": "岑参 / Cen Shen",
     "url": "/wiki/entities/censhen/"
@@ -22422,6 +22426,10 @@
   "GuoHongLateHan": {
     "title": "郭闳 / Guo Hong (late Han)",
     "url": "/wiki/entities/guohonglatehan/"
+  },
+  "GuoJiEasternHan": {
+    "title": "郭伋 / Guo Ji (Eastern Han)",
+    "url": "/wiki/entities/guojieasternhan/"
   },
   "GuoJia": {
     "title": "郭嘉 / Guo Jia",
@@ -38394,6 +38402,10 @@
   "OperationalPainFounderInsight": {
     "title": "Operational Pain Founder Insight",
     "url": "/wiki/concepts/operationalpainfounderinsight/"
+  },
+  "OperationalTempoBreakthrough": {
+    "title": "兵贵神速式长线突破 / Operational Tempo Breakthrough",
+    "url": "/wiki/concepts/operationaltempobreakthrough/"
   },
   "OperatorSubsidizedHandsets": {
     "title": "Operator-Subsidized Handsets",
@@ -57552,7 +57564,7 @@
     "url": "/wiki/entities/yanbaihu/"
   },
   "YanCenEasternHan": {
-    "title": "严岑 / 颜岑 / Yan Cen",
+    "title": "延岑 / 严岑 / 颜岑 / Yan Cen",
     "url": "/wiki/entities/yanceneasternhan/"
   },
   "YanChangLateHan": {
@@ -58862,6 +58874,10 @@
   "ZangBaLateHan": {
     "title": "臧霸 / Zang Ba (late Han)",
     "url": "/wiki/entities/zangbalatehan/"
+  },
+  "ZangGongEasternHan": {
+    "title": "臧宫 / Zang Gong (Eastern Han)",
+    "url": "/wiki/entities/zanggongeasternhan/"
   },
   "ZangHong": {
     "title": "臧洪 / Zang Hong",
@@ -64746,6 +64762,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w": {
+    "title": "《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w/"
   },
   "zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn": {
     "title": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？",
