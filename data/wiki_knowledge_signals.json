@@ -15338,9 +15338,9 @@
       "url": "/wiki/concepts/frontiercommandcollapse/"
     },
     "FrontierCommanderyRestoration": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
@@ -15355,6 +15355,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？ [lpQKsa0J1Y0tsKwv6fPflHOVg9B8].md",
+          "key": "zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8/"
         }
       ],
       "updated": "2026-08-31",
@@ -16305,9 +16312,9 @@
       "url": "/wiki/entities/genggongeasternhan/"
     },
     "GengGuoEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -16315,6 +16322,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
           "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？ [lpQKsa0J1Y0tsKwv6fPflHOVg9B8].md",
+          "key": "zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8/"
         }
       ],
       "updated": "2026-08-31",
@@ -19596,6 +19610,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/hubermanlab/"
+    },
+    "HuhanyeChanyuBi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？ [lpQKsa0J1Y0tsKwv6fPflHOVg9B8].md",
+          "key": "zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/huhanyechanyubi/"
     },
     "HumanCenteredAIAugmentation": {
       "episode_count": 1,
@@ -25248,9 +25278,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 2,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -25328,6 +25358,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密",
           "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？ [lpQKsa0J1Y0tsKwv6fPflHOVg9B8].md",
+          "key": "zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8/"
         }
       ],
       "updated": "2026-08-31",
@@ -27252,9 +27289,9 @@
       "url": "/wiki/entities/maxulatehan/"
     },
     "MaYuanEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂 [ltjL2bGpyyz1bMwE_4mfCYd9E6cf].md",
@@ -27276,6 +27313,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》725丨东汉名将祭肜：要保家卫国，就把敌人打趴下！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？ [lpQKsa0J1Y0tsKwv6fPflHOVg9B8].md",
+          "key": "zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8/"
         }
       ],
       "updated": "2026-08-31",
@@ -30111,9 +30155,9 @@
       "url": "/wiki/entities/northernrising/"
     },
     "NorthernXiongnuLateHan": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -30205,6 +30249,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？ [lpQKsa0J1Y0tsKwv6fPflHOVg9B8].md",
+          "key": "zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8/"
         }
       ],
       "updated": "2026-08-31",
@@ -34717,9 +34768,9 @@
       "url": "/wiki/concepts/republicanrestraintleadership/"
     },
     "ReputationConstrainedWarRestraint": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？ [ljc3sD7MeIgo37Uy_1fxNKx-PSQG].md",
@@ -34748,6 +34799,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？ [lpQKsa0J1Y0tsKwv6fPflHOVg9B8].md",
+          "key": "zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8/"
         }
       ],
       "updated": "2026-08-31",
@@ -37639,9 +37697,9 @@
       "url": "/wiki/entities/southernocean/"
     },
     "SouthernXiongnu": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 1,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
@@ -37782,6 +37840,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？ [lpQKsa0J1Y0tsKwv6fPflHOVg9B8].md",
+          "key": "zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8/"
         }
       ],
       "updated": "2026-08-31",
@@ -43839,9 +43904,9 @@
       "url": "/wiki/concepts/wuhuanprotectorateinstitutionalization/"
     },
     "WulingManLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》839丨你能做到问心无愧吗？ [lqVLsWUbf4aK5qfGZJF_OWignEua].md",
@@ -43863,6 +43928,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密",
           "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？ [lpQKsa0J1Y0tsKwv6fPflHOVg9B8].md",
+          "key": "zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8/"
         }
       ],
       "updated": "2026-08-31",

@@ -14363,3 +14363,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-31] ingest | 《资治通鉴·汉纪》724丨匈奴内乱，东汉为什么不趁机要它命？
+
+Ingested the 2026-06-23 芮淇讲透资治通鉴 episode on the 47-48 CE Wuling Man crisis, Ma Yuan's late-life deployment, Xiongnu succession rupture, Bi's elevation as Huhanye Chanyu, Geng Guo's Southern Xiongnu buffer-restoration argument, and Liu Xiu's non-immediate response to Zhang Gong's attack proposal. Created `HuhanyeChanyuBi`; updated `GengGuoEasternHan`, `MaYuanEasternHan`, `WulingManLateHan`, `LiuXiu`, `SouthernXiongnu`, `NorthernXiongnuLateHan`, `ReputationConstrainedWarRestraint`, and `FrontierCommanderyRestoration`. No settled contradiction found; minor actors and exact force counts remain source-scoped.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 16,519 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is unset/provider-unqualified and no `OPENAI_API_KEY` or `ANTHROPIC_API_KEY` is configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.

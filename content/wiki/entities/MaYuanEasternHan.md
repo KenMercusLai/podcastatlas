@@ -7,14 +7,17 @@ sources:
   - zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf
   - zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu
   - zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y
+  - zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-马援 / Ma Yuan is now synthesized as a frontier general, family disciplinarian, and court-risk diagnostician whose danger begins before his posthumous slander. Hanji 725 supplies the etiquette clash with [[LiangSongLinxiangMarquis|梁松]], the nephew-admonition letter, the [[LongBogaoEasternHan|龙伯高]] / [[DuJiliangEasternHan|杜季良]] comparison, the letter's political afterlife, and the Wuling route dispute before death. Hanji 726 then supplies the posthumous accusation, family humiliation, [[ZhuBoEasternHan|朱勃]] defense, and [[EmpressMaMingdeEasternHan|明德马皇后]] family aftermath. Hanji 728 uses Ma Yuan as the later-remembered warning voice about elite guest networks and princely recruitment.
+马援 / Ma Yuan is now synthesized as a frontier general, family disciplinarian, and court-risk diagnostician whose danger begins before his posthumous slander. Hanji 724 supplies the late-life Wuling request: after Liu Shang is killed, Ma Yuan at age sixty-two demonstrates that he can still ride and fight, then worries less about battle than about controlling powerful young nobles in the army. Hanji 725 supplies the etiquette clash with [[LiangSongLinxiangMarquis|梁松]], the nephew-admonition letter, the [[LongBogaoEasternHan|龙伯高]] / [[DuJiliangEasternHan|杜季良]] comparison, the letter's political afterlife, and the Wuling route dispute before death. Hanji 726 then supplies the posthumous accusation, family humiliation, [[ZhuBoEasternHan|朱勃]] defense, and [[EmpressMaMingdeEasternHan|明德马皇后]] family aftermath. Hanji 728 uses Ma Yuan as the later-remembered warning voice about elite guest networks and princely recruitment.
 
 ## Current Profile
+
+Hanji 724 now supplies Ma Yuan's campaign-entry layer. After Wuling Man forces kill Liu Shang and later resist Li Song and Ma Cheng, Ma Yuan asks to go despite being sixty-two. [[LiuXiu|Liu Xiu]] hesitates over his age, but Ma Yuan puts on armor, mounts a horse, and demonstrates that he can still campaign. Before departure he says he is willing to die for the state and identifies one main danger: powerful young nobles inside the army may be hard to command.
 
 Hanji 725 adds the prehistory of Ma Yuan's court exposure. When Liang Song visits him during illness and bows below the bed, Ma Yuan does not return the salute because he understands Liang as a junior generation despite Liang's status as Liu Xiu's son-in-law. The same source then narrates Ma Yuan's letter to Ma Yan and Ma Dun, warning them against loose talk, criticism of others' faults, and public discussion of current law. Long Bogao is the safe model because imperfect imitation still leads toward caution; Du Jiliang is the risky model because failed imitation can become frivolity.
 
@@ -30,7 +33,7 @@ Hanji 728 adds a separate remembered function. Ma Yuan warns that [[WangPanEaste
 
 ## Key Characteristics
 
-- Frontier general whose final campaign against Wuling Man includes route dispute, epidemic crisis, camp death, and posthumous accusation.
+- Frontier general whose final Wuling campaign begins with a late-life request, age test, and elite-command-risk warning, then moves into route dispute, epidemic crisis, camp death, and posthumous accusation.
 - Family disciplinarian whose letter teaches speech restraint and careful model selection.
 - Writer exposed by private-letter circulation when family advice becomes court accusation.
 - Victim of reputational damage after death, when alleged treasure baggage overwhelms his ability to answer.
@@ -40,6 +43,8 @@ Hanji 728 adds a separate remembered function. Ma Yuan warns that [[WangPanEaste
 
 ## Evidence
 
+- Late-life Wuling request: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|Hanji 724]] says Ma Yuan asks to command after Liu Shang's defeat, demonstrates his fitness at age sixty-two, and is sent with Ma Wu and Geng Shu toward Wuxi.
+- Elite-command worry: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|Hanji 724]] says Ma Yuan's stated concern before departure is managing powerful young nobles rather than the enemy alone.
 - Letter and speech discipline: [[zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y|Hanji 725]] says Ma Yuan writes to Ma Yan and Ma Dun to warn against discussing others' faults and criticizing current law, using Long Bogao and Du Jiliang as contrastive examples.
 - Private-letter weaponization: [[zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y|Hanji 725]] says the letter is used by Du Jiliang's enemy before Liu Xiu and leads Liang Song and Dou Gu to resent Ma Yuan after imperial rebuke.
 - Wuling route and illness: [[zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y|Hanji 725]] says Ma Yuan chooses Hutou over Geng Shu's route, faces blocked movement and epidemic, falls ill, and dies in camp after Liu Xiu sends Liang Song.
@@ -51,13 +56,13 @@ Hanji 728 adds a separate remembered function. Ma Yuan warns that [[WangPanEaste
 
 ## Qualifications
 
-This page still does not reconstruct Ma Yuan's complete military biography. Hanji 725 clarifies the resentment and Wuling route prehistory but leaves the exact path by which the letter circulated partly inferred. Hanji 726 explains the posthumous accusation and defense but does not prove every motive behind Liang Song, the Dou-family marriage break, or Liu Xiu's final formal settlement. Hanji 728 supplies remembered warnings after Ma Yuan's death, so its political-risk function should be read as a later narrative use of Ma Yuan, not as the same event sequence as the 49 CE slander case.
+This page still does not reconstruct Ma Yuan's complete military biography. Hanji 724 adds the late-life Wuling entry point but not the full campaign outcome. Hanji 725 clarifies the resentment and Wuling route prehistory but leaves the exact path by which the letter circulated partly inferred. Hanji 726 explains the posthumous accusation and defense but does not prove every motive behind Liang Song, the Dou-family marriage break, or Liu Xiu's final formal settlement. Hanji 728 supplies remembered warnings after Ma Yuan's death, so its political-risk function should be read as a later narrative use of Ma Yuan, not as the same event sequence as the 49 CE slander case.
 
 ## What Changed
 
-- Added Hanji 725 as Ma Yuan's pre-death exposure layer: etiquette conflict, private letter, Du Jiliang accusation, and Liang/Dou resentment.
-- Added the Wuling route dispute and Hutou epidemic context before Hanji 726's posthumous accusation.
-- Reframed Ma Yuan's fall as a chain from private-letter weaponization to campaign inquiry and then posthumous slander.
+- Added Hanji 724 as the Wuling campaign-entry layer: age test, renewed command, willingness to die, and concern about powerful young nobles.
+- Reframed Hanji 725 as the next pre-death exposure layer after Ma Yuan has already returned to southern-frontier command.
+- Preserved Hanji 726 as the posthumous accusation and vindication layer.
 - Preserved Hanji 728 as a later remembered warning role distinct from the 49 CE event sequence.
 
 ## Relationships
@@ -65,6 +70,7 @@ This page still does not reconstruct Ma Yuan's complete military biography. Hanj
 - [[LongBogaoEasternHan|龙伯高]] - positive model in Ma Yuan's warning letter.
 - [[DuJiliangEasternHan|杜季良]] - risky model whose accusation weaponizes Ma Yuan's letter.
 - [[GengShuEasternHan|耿舒]] - Wuling campaign critic whose complaint helps bring Liang Song to the army.
+- [[MaWuEasternHan|马武]] - co-commander named with Ma Yuan in the Hanji 724 Wuling deployment.
 - [[LiangSongLinxiangMarquis|梁松]] - accuser whose memorial triggers Ma Yuan's posthumous dishonor.
 - [[ZhuBoEasternHan|朱勃]] - defender whose memorial asks the court to weigh Ma Yuan's full service record.
 - [[LiuXiu|光武帝刘秀]] - ruler who first reacts angrily, seizes the seal, and later softens after Zhu Bo's memorial.

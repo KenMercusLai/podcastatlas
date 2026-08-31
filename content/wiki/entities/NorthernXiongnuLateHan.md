@@ -17,16 +17,19 @@ sources:
   - zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2
   - zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce
   - zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe
+  - zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-北匈奴 / Northern Xiongnu is the late Eastern Han frontier field where heqin requests, tribute, music and Western Regions envoy requests, raids, trade requests, envoy ritual pressure, Southern Xiongnu collusion risk, pastoral resource pressure, Western Regions contestation, Han offensive return, border attacks, weakness, court credibility debates, [[DouXianEasternHan|Dou Xian]]'s contested campaign, battlefield defeat, Yu Chu recognition failure, and Xianbei succession pressure connect. [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]] now supplies the backfilled starting layer: Northern Xiongnu's 51 CE heqin approach and weakness create both a contact dilemma and a military opening, but [[LiuXiu|光武帝刘秀]] refuses contact that would unsettle [[SouthernXiongnu|Southern Xiongnu]] and rejects remote attack so the people can rest. [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] then shows the softer 52 CE reply drafted after [[BanBiaoEasternHan|班彪]] reads renewed contact as fear after Southern Xiongnu submission.
+北匈奴 / Northern Xiongnu is the late Eastern Han frontier field where succession rupture, Southern Xiongnu breakaway, heqin requests, tribute, music and Western Regions envoy requests, raids, trade requests, envoy ritual pressure, Southern Xiongnu collusion risk, pastoral resource pressure, Western Regions contestation, Han offensive return, border attacks, weakness, court credibility debates, [[DouXianEasternHan|Dou Xian]]'s contested campaign, battlefield defeat, Yu Chu recognition failure, and Xianbei succession pressure connect. [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|Hanji 724]] now supplies the backfilled starting layer: the northern chanyu's succession killing pushes [[HuhanyeChanyuBi|Bi]] and the southern eight tribes toward Han, while Zhang Gong urges [[LiuXiu|光武帝刘秀]] to exploit Xiongnu famine, disease, and division. [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]] then shows the 51 CE heqin approach and weakness creating both a contact dilemma and a military opening, but Liu Xiu refuses contact that would unsettle [[SouthernXiongnu|Southern Xiongnu]] and rejects remote attack so the people can rest.
 
 ## Current Profile
 
-Hanji 727 supplies the earliest current problem. In 51 CE, Northern Xiongnu sends envoys to Wuwei seeking heqin after Southern Xiongnu has submitted and received Han protection. The crown prince argues that if Han does not cut off the northern relationship, Southern Xiongnu will doubt Han's commitment and potential defectors will hesitate. Liu Xiu adopts that view and orders the Wuwei governor not to receive the northern envoys. The same source says Zhang Gong and [[MaWuEasternHan|Ma Wu]] urge an attack because Northern Xiongnu is weakened by plague, drought, locusts, and losses, but Liu Xiu refuses distant war because disasters and public anxiety make domestic recovery more urgent.
+Hanji 724 supplies the earliest current problem. The northern chanyu Yu kills Zhiya Shi to reserve succession for his son, which pushes Bi's southern bloc toward secret Han contact and open mobilization. After a killing plan against Bi leaks, northern cavalry withdraws rather than force battle, and Bi's eight southern tribes establish a rival Huhanye Chanyu. The same source shows Zhang Gong urging Liu Xiu to exploit Xiongnu famine, epidemic, and division with 5000 cavalry, while Liu Xiu declines immediate decision.
+
+Hanji 727 supplies the next current problem. In 51 CE, Northern Xiongnu sends envoys to Wuwei seeking heqin after Southern Xiongnu has submitted and received Han protection. The crown prince argues that if Han does not cut off the northern relationship, Southern Xiongnu will doubt Han's commitment and potential defectors will hesitate. Liu Xiu adopts that view and orders the Wuwei governor not to receive the northern envoys. The same source says Zhang Gong and [[MaWuEasternHan|Ma Wu]] urge an attack because Northern Xiongnu is weakened by plague, drought, locusts, and losses, but Liu Xiu refuses distant war because disasters and public anxiety make domestic recovery more urgent.
 
 Hanji 729 supplies the next current problem. In 52 CE, Northern Xiongnu sends tribute horses, again requests heqin, asks to learn Han music, and wants to lead Western Regions envoys to court. Ban Biao reads the high-cost tribute and repeated friendly language as signs of fear and weakness after Southern Xiongnu submission, so Han answers with matched rewards and careful wording while refusing requested instruments and avoiding a clear choice between northern and southern claims.
 
@@ -50,7 +53,7 @@ Hanji 765 and Hanji 767 shift from defeat to failed settlement. After the Northe
 
 ## Key Characteristics
 
-- Late-Han steppe opponent whose earliest current layer joins a 51 CE rejected heqin approach and attack-restraint debate to Southern Xiongnu's new submission before the 52 CE tribute, heqin, music, and Western Regions requests.
+- Late-Han steppe opponent whose earliest current layer now joins a 47-48 CE succession rupture and Southern Xiongnu breakaway to the 51 CE rejected heqin approach and attack-restraint debate before the 52 CE tribute, heqin, music, and Western Regions requests.
 - Mobile frontier force that can trigger Han credibility problems even when Han commanders struggle to find decisive contact.
 - Western Regions pressure actor whose envoys and supervision shape Shanshan and Khotan before Ban Chao's coercive reversals.
 - Border attacker and route-node occupier, including the Yunzhong attack and later reoccupation of Yiwu after Han withdrawal.
@@ -60,7 +63,9 @@ Hanji 765 and Hanji 767 shift from defeat to failed settlement. After the Northe
 
 ## Evidence
 
-- Earliest rejected heqin opening: [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]] says Northern Xiongnu envoys ask for heqin at Wuwei, and Liu Xiu refuses reception after the crown prince argues that contact would undermine Southern Xiongnu confidence and deter defectors.
+- Succession rupture and breakaway: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|Hanji 724]] says the northern chanyu Yu kills Zhiya Shi, Bi withdraws from court, and the southern eight tribes raise Bi as Huhanye Chanyu.
+- Initial attack-opportunity debate: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|Hanji 724]] says Zhang Gong asks for 5000 cavalry to exploit Xiongnu famine, epidemic, and internal division, but Liu Xiu leaves the proposal under consideration.
+- Rejected heqin opening: [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]] says Northern Xiongnu envoys ask for heqin at Wuwei, and Liu Xiu refuses reception after the crown prince argues that contact would undermine Southern Xiongnu confidence and deter defectors.
 - Opportunity and restraint debate: [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]] says Zhang Gong and Ma Wu urge attack while Northern Xiongnu is weakened, but Liu Xiu rejects the campaign because the people face disasters and need rest.
 - Later tribute/heqin opening: [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] says Northern Xiongnu sends tribute horses, repeats a heqin request, asks to learn Han music, and proposes bringing Western Regions envoys to Han court.
 - Reward and wording response: [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] says Ban Biao advises Liu Xiu to treat the approach as fear-driven, answer with calibrated gifts, refuse instruments, and preserve ambiguity between northern and southern Xiongnu claims.
@@ -75,18 +80,18 @@ Hanji 765 and Hanji 767 shift from defeat to failed settlement. After the Northe
 
 ## Qualifications
 
-The page treats Hanji 741's pastoral pressure explanation as an upstream frame, not as a complete explanation for every Northern Xiongnu decision. Hanji 727, Hanji 729, and Hanji 737 already show diplomacy, reward, heqin language, trade, ritual coercion, and Southern Xiongnu alliance management shaping the field before the 73 CE campaign. Later evidence still shows leadership, court faction, Southern Xiongnu incentives, Xianbei incentives, and Han campaign cost shaping outcomes. The Northern-Xiongnu-to-European-Huns chain remains a qualified memory layer rather than a settled identity proof.
+The page treats Hanji 741's pastoral pressure explanation as an upstream frame, not as a complete explanation for every Northern Xiongnu decision. Hanji 724, Hanji 727, Hanji 729, and Hanji 737 already show succession politics, diplomacy, reward, heqin language, trade, ritual coercion, and Southern Xiongnu alliance management shaping the field before the 73 CE campaign. Later evidence still shows leadership, court faction, Southern Xiongnu incentives, Xianbei incentives, and Han campaign cost shaping outcomes. The Northern-Xiongnu-to-European-Huns chain remains a qualified memory layer rather than a settled identity proof.
 
-Hanji 727 and Hanji 729 form a changed-contact sequence rather than a contradiction. Hanji 727 records a harder refusal while Southern Xiongnu confidence is newly fragile; Hanji 729 records a softer calibrated reply one year later. In both cases, Northern Xiongnu's heqin language may look conciliatory, but the sources treat it as pressure management after Southern Xiongnu submission.
+Hanji 724, Hanji 727, and Hanji 729 form a changed-contact sequence rather than a contradiction. Hanji 724 records the split and an initial attack proposal; Hanji 727 records a harder refusal while Southern Xiongnu confidence is newly fragile; Hanji 729 records a softer calibrated reply one year later. In both later contact cases, Northern Xiongnu's heqin language may look conciliatory, but the sources treat it as pressure management after Southern Xiongnu submission.
 
 Route commanders, exact force counts, Huyan king identity, Zhuoye/Sanmulou geography, and commandery-name details remain source-scoped where Hanji 741's transcript is noisy.
 
 ## What Changed
 
-- Added Hanji 727 as the earliest current layer: 51 CE heqin refusal, Southern Xiongnu confidence logic, and Liu Xiu's refusal of remote attack.
-- Reframed Hanji 729 as the next contact layer: tribute horses, heqin and music requests, Western Regions envoy proposal, and Ban Biao's fear/weakness diagnosis.
-- Reframed Hanji 737 as the later raids, trade requests, Zheng Zhong's coerced-kowtow refusal, and Southern/Northern collusion risk.
-- Reframed Hanji 741 as the later pastoral-pressure and 73 CE campaign layer rather than the opening layer.
+- Added Hanji 724 as the earliest current layer: succession murder, Bi's breakaway, Southern Xiongnu elevation, and Zhang Gong's initial strike proposal.
+- Reframed Hanji 727 as the next contact and attack-restraint layer after the 48 CE split.
+- Preserved Hanji 729 as the next contact layer: tribute horses, heqin and music requests, Western Regions envoy proposal, and Ban Biao's fear/weakness diagnosis.
+- Preserved Hanji 737 as the later raids, trade requests, Zheng Zhong's coerced-kowtow refusal, and Southern/Northern collusion risk.
 - Preserved the later judgment that Northern Xiongnu weakness creates both opportunity and diplomatic risk.
 
 ## Relationships
@@ -96,6 +101,8 @@ Route commanders, exact force counts, Huyan king identity, Zhuoye/Sanmulou geogr
 - [[NomadicCavalryRaidingAsymmetry]] - tactical problem exposed when Han routes cannot always fix mobile opponents.
 - [[BanBiaoEasternHan|班彪]] - adviser who diagnoses Northern Xiongnu's 52 CE tribute and heqin request as fear after Southern Xiongnu submission.
 - [[LiuXiu|光武帝刘秀]] - emperor who refuses Northern Xiongnu heqin contact in 51 CE and later accepts Ban Biao's calibrated reply.
+- [[HuhanyeChanyuBi|呼韩邪单于比]] - southern claimant whose breakaway turns northern succession politics into a Han-facing frontier split.
+- [[GengGuoEasternHan|耿国]] - Han adviser who argues that accepting Bi will help oppose Northern Xiongnu while managing other frontier groups.
 - [[ReputationConstrainedWarRestraint|名声约束下的战争节制]] - concept extended by Liu Xiu's refusal to attack despite Northern Xiongnu weakness.
 - [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]] - concept explaining why Northern Xiongnu contact could unsettle Southern Xiongnu trust.
 - [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - policy language Northern Xiongnu invokes in the 52 CE request.

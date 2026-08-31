@@ -15,12 +15,13 @@ sources:
   - zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce
   - zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe
   - zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu
+  - zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-Liu Xiu / 刘秀 is synthesized as the Eastern Han founder whose profile spans restoration warfare, omen politics, founding coalition formation, court judgment, frontier settlement, personnel recognition, ritual legitimacy, health vulnerability, succession, hostage-ransom precedent, and later Guangwu ritual memory. Hanji 726 now adds the 49 CE layer: Liu Xiu initially reacts harshly to the accusation against [[MaYuanEasternHan|Ma Yuan]], then softens after [[ZhuBoEasternHan|Zhu Bo]]'s memorial, rewards [[ZongJunEasternHan|Zong Jun]] after risky field discretion, and institutionalizes [[Wuhuan|Wuhuan]] submission through titles, settlement, provisioning, and [[BanBiaoEasternHan|Ban Biao]]'s protector-office advice.
+Liu Xiu / 刘秀 is synthesized as the Eastern Han founder whose profile spans restoration warfare, omen politics, founding coalition formation, court judgment, frontier settlement, personnel recognition, ritual legitimacy, health vulnerability, succession, hostage-ransom precedent, and later Guangwu ritual memory. Hanji 724 now adds the 47-48 CE late-rule frontier layer: Liu Xiu accepts [[HuhanyeChanyuBi|Bi]]'s Southern Xiongnu submission after [[GengGuoEasternHan|Geng Guo]] frames it as a buffer-and-restoration opportunity, sends [[MaYuanEasternHan|Ma Yuan]] against the Wuling Man after Liu Shang's defeat, and leaves Zhang Gong's proposal to strike weakened Xiongnu under deliberation rather than immediate war.
 
 ## Current Profile
 
@@ -28,9 +29,11 @@ Earlier Wang Mang-focused sources place Liu Xiu as the Liu-house restoration fig
 
 Hanji 733-2 supplies the founding coalition layer. Liu Xiu needs northern cavalry and capable commanders, and [[GengYanEasternHan|Geng Yan]] becomes valuable because he can connect family resources from [[GengKuangEasternHan|Geng Kuang]]'s Shanggu/Youzhou environment to Liu Xiu's campaign. Liu Xiu's trust is not automatic: [[PengChongEasternHan|Peng Chong]]'s rebellion forces the Geng family to make loyalty visible through return-to-court and [[GengGuoEasternHan|Geng Guo]]'s service in Luoyang.
 
+Hanji 724 supplies a 47-48 CE frontier-decision layer. Liu Xiu faces a failed Wuling campaign after Liu Shang is killed, tests Ma Yuan's age before accepting his request to go south, and receives Bi's Southern Xiongnu submission request while the court doubts Han capacity and Xiongnu intent. Liu Xiu follows Geng Guo's argument for acceptance as a buffer-and-restoration strategy, but keeps Zhang Gong's opportunistic attack proposal under review rather than immediately striking the weakened Xiongnu field.
+
 Hanji 726 adds a more mixed 49 CE statecraft layer. Liu Xiu is vulnerable to Liang Song's accusation after Ma Yuan's death and seizes Ma's seal, but he also receives Zhu Bo's corrective memorial and moves away from pure anger. The same source shows a pragmatic ruler rewarding Zong Jun after Zong falsely invokes imperial authority to settle Wuling Man surrender, then using titles, food, clothing, frontier relocation, and a restored Wuhuan protector office to turn Wuhuan submission into managed border capacity.
 
-Hanji 727 and Hanji 729 extend this late-rule frontier profile. Liu Xiu turns [[SouthernXiongnu|Southern Xiongnu]] submission into a protected settlement through edict ritual, hostages, gifts, grain, livestock, guard forces, winter protection, patrol duties, and border-commandery restoration. He refuses destabilizing Northern Xiongnu contact in 51 CE, then accepts Ban Biao's more calibrated 52 CE reply to [[NorthernXiongnuLateHan|Northern Xiongnu]] tribute and heqin requests. He also refuses an opportunistic Northern Xiongnu attack because disaster-era people and near-frontier recovery matter more than distant victory.
+Hanji 727 and Hanji 729 continue this late-rule frontier profile. Liu Xiu turns [[SouthernXiongnu|Southern Xiongnu]] submission into a protected settlement through edict ritual, hostages, gifts, grain, livestock, guard forces, winter protection, patrol duties, and border-commandery restoration. He refuses destabilizing Northern Xiongnu contact in 51 CE, then accepts Ban Biao's more calibrated 52 CE reply to [[NorthernXiongnuLateHan|Northern Xiongnu]] tribute and heqin requests. He also refuses an opportunistic Northern Xiongnu attack because disaster-era people and near-frontier recovery matter more than distant victory.
 
 Hanji 730 and Hanji 731 supply the personnel-and-ritual tension. Liu Xiu recognizes quiet military merit in [[JiaFuEasternHan|Jia Fu]], tests damaging rumors through direct questioning of [[FifthLunEasternHan|Fifth Lun]], and still tries to limit some ritual costs. Yet chenwei text pushes him toward Taishan fengshan, and his reaction to [[HuanTanEasternHan|Huan Tan]] shows how legitimacy-sensitive prophecy becomes dangerous to contradict.
 
@@ -41,7 +44,7 @@ Hanji 732 supplies the end-of-life layer. [[ZizhiTongjian|Zizhi Tongjian]] recor
 - Restoration founder whose military-political effectiveness defeats Wang Mang's ritualized regime.
 - Coalition builder who recognizes commanders and manages suspicion around powerful founding military families.
 - Ruler vulnerable to accusation in Ma Yuan's case but still reachable through evidence-based corrective memorials.
-- Frontier manager who combines titles, hostages, provisioning, protected settlement, office design, and restraint against overextended war.
+- Frontier manager who combines submitted-buffer acceptance, titles, hostages, provisioning, protected settlement, office design, and restraint against overextended war.
 - Personnel judge who can recognize quiet merit and administrative candor while remaining attached to chenwei-backed legitimacy.
 - Ritual ruler whose frugality is real but qualified by eventual Taishan fengshan and anti-chenwei speech risk.
 - Later memory figure for imperial death, succession, hostage deterrence, and Guangwu tomb ritual.
@@ -50,6 +53,7 @@ Hanji 732 supplies the end-of-life layer. [[ZizhiTongjian|Zizhi Tongjian]] recor
 
 - Restoration and prophecy control: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] and [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]] use Liu Xiu to connect Wang Mang's collapse, Kunyang, mandate language, and later restrictions on private prophecy.
 - Founding coalition and trust: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] links Liu Xiu's rise to Geng Yan's alignment, Youzhou cavalry, Peng Chong's rebellion, and the Geng family's visible loyalty work.
+- Wuling and Xiongnu split decisions: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|Hanji 724]] says Liu Xiu sends Ma Yuan after Liu Shang's Wuling defeat, accepts Geng Guo's Southern Xiongnu buffer-restoration argument, and does not immediately adopt Zhang Gong's 5000-cavalry attack proposal.
 - Ma Yuan accusation and corrective memorial: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Liu Xiu seizes Ma Yuan's seal after Liang Song's accusation, then softens after Zhu Bo asks for a merit-and-fault review.
 - Field discretion and Wuhuan institutionalization: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Liu Xiu rewards Zong Jun after self-impeached false-edict pacification and adopts Ban Biao's Wuhuan protector-office advice after Wuhuan submission.
 - Southern Xiongnu protection and war restraint: [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]] says Liu Xiu builds Southern Xiongnu submission through ritual, hostages, gifts, provisioning, guard troops, seasonal protection, border return, tomb restraint, and refusal of distant attack.
@@ -61,24 +65,27 @@ Hanji 732 supplies the end-of-life layer. [[ZizhiTongjian|Zizhi Tongjian]] recor
 
 ## Qualifications
 
-These sources address Liu Xiu through different windows rather than a single biography. Hanji 726 qualifies the positive statecraft profile by showing that Liu Xiu can initially react to slander against a dead minister, but it also shows him accepting corrective evidence and rewarding useful field judgment. Hanji 727 and Hanji 729 form a changed-contact sequence: a 51 CE refusal of Northern Xiongnu heqin contact while Southern Xiongnu submission is newly fragile, followed by a 52 CE calibrated reply that manages Northern Xiongnu tribute without full recognition. Hanji 729 and Hanji 730 likewise form a changed-condition sequence from 54 CE fengshan refusal to 56 CE chenwei-backed ceremony. Hanji 732 does not prove Liu Xiu's cause of death; its strongest contribution is long-term health vulnerability under workload.
+These sources address Liu Xiu through different windows rather than a single biography. Hanji 724, Hanji 727, and Hanji 729 form a changed frontier-contact sequence: 48 CE acceptance of Bi's Southern Xiongnu vassalage and non-immediate attack deliberation, 50-51 CE protected settlement plus a hard refusal of Northern Xiongnu contact, and a 52 CE calibrated reply that manages Northern Xiongnu tribute without full recognition. Hanji 726 qualifies the positive statecraft profile by showing that Liu Xiu can initially react to slander against a dead minister, but it also shows him accepting corrective evidence and rewarding useful field judgment. Hanji 729 and Hanji 730 likewise form a changed-condition sequence from 54 CE fengshan refusal to 56 CE chenwei-backed ceremony. Hanji 732 does not prove Liu Xiu's cause of death; its strongest contribution is long-term health vulnerability under workload.
 
 ## What Changed
 
-- Added Hanji 726 as the 49 CE layer before Hanji 727: Ma Yuan's accusation, Zhu Bo's corrective memorial, Zong Jun's self-impeached field discretion, and Wuhuan office institutionalization.
-- Reframed Liu Xiu's late-rule frontier statecraft as beginning with Wuhuan and Wuling management before Southern/Northern Xiongnu policy.
-- Qualified Liu Xiu's ruler profile by adding susceptibility to slander alongside responsiveness to a grounded memorial.
-- Connected Zong Jun's reward and Ban Biao's Wuhuan advice to Liu Xiu's broader pattern of pragmatic institutional repair.
+- Added Hanji 724 as the 47-48 CE frontier-decision layer: Wuling Man defeat response, Southern Xiongnu acceptance, and non-immediate attack deliberation.
+- Reframed Liu Xiu's late-rule frontier statecraft as beginning with Bi's submission and Wuling Man crisis before the Hanji 726-727 settlement and correction layers.
+- Preserved Hanji 726's qualification: susceptibility to slander alongside responsiveness to a grounded memorial.
+- Connected Geng Guo's advice, Ma Yuan's deployment, and Ban Biao's later office/diplomacy advice to Liu Xiu's broader pattern of pragmatic institutional repair.
 
 ## Relationships
 
 - [[MaYuanEasternHan|马援]] - dead general whose posthumous accusation exposes Liu Xiu's vulnerability to slander and later correction.
 - [[ZhuBoEasternHan|朱勃]] - memorialist whose defense softens Liu Xiu's anger.
 - [[ZongJunEasternHan|宗均]] - official whom Liu Xiu rewards after unauthorized but successful Wuling pacification.
+- [[WulingManLateHan|武陵蛮]] - southern frontier crisis that kills Liu Shang's force, brings Ma Yuan back into command, and later tests Zong Jun's discretion.
 - [[Wuhuan|乌桓]] - submitted frontier group Liu Xiu enfeoffs, settles, provisions, and institutionalizes.
 - [[BanBiaoEasternHan|班彪]] - adviser whose Wuhuan and Northern Xiongnu recommendations Liu Xiu adopts.
-- [[SouthernXiongnu|南匈奴]] - submitted frontier partner whose protected settlement Liu Xiu builds in Hanji 727.
-- [[NorthernXiongnuLateHan|北匈奴]] - frontier counterpart in late Guangwu refusal, calibrated reply, and war-restraint decisions.
+- [[GengGuoEasternHan|耿国]] - adviser whose argument leads Liu Xiu to accept Bi's Southern Xiongnu submission.
+- [[HuhanyeChanyuBi|呼韩邪单于比]] - submitted Xiongnu claimant whose vassal request Liu Xiu accepts.
+- [[SouthernXiongnu|南匈奴]] - submitted frontier partner whose recognition and protected settlement Liu Xiu builds.
+- [[NorthernXiongnuLateHan|北匈奴]] - frontier counterpart in late Guangwu succession rupture, refusal, calibrated reply, and war-restraint decisions.
 - [[GengYanEasternHan|耿弇]] - founding general whose alignment and service extend Liu Xiu's military coalition.
 - [[ChenweiPolitics|谶纬政治]] - ideological tool Liu Xiu benefits from and later helps centralize.
 - [[HuanTanEasternHan|桓谭]] - scholar whose anti-chenwei speech exposes Liu Xiu's low tolerance for this form of dissent.
