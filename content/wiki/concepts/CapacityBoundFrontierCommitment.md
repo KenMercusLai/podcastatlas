@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj
   - zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra
   - zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix
+  - zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i
 last_updated: 2026-09-01
 ---
 
@@ -16,7 +17,9 @@ Capacity-bound frontier commitment / 能力约束下的边疆承诺 is the state
 
 ## Current Synthesis
 
-The concept now begins with an overcommitment-correction layer through [[ShacheKingdomLateHan|Shache]] king Xian in [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]]. [[LiuXiu|刘秀]] initially grants a protectorate-level package, but [[PeiZunEasternHan|裴遵]] warns that this gives too much authority to Shache and will disappoint other Western Regions states. Liu Xiu downgrades Xian to Great General and retrieves the stronger seal. This is not a refusal of all contact; it is a narrowing of an implied commitment before the title package creates obligations the center cannot support.
+The concept now begins with an outright deferral in [[zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i|Hanji 716]]. Western Regions states send tribute and ask Han to restore official management because [[Xiongnu|Xiongnu]] extraction has become burdensome, but [[LiuXiu|刘秀]] refuses because the central realm has only recently been pacified and the situation remains unstable.
+
+[[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] then adds an overcommitment-correction layer through [[ShacheKingdomLateHan|Shache]] king Xian. Liu Xiu initially grants a protectorate-level package, but [[PeiZunEasternHan|裴遵]] warns that this gives too much authority to Shache and will disappoint other Western Regions states. Liu Xiu downgrades Xian to Great General and retrieves the stronger seal. This is not a refusal of all contact; it is a narrowing of an implied commitment before the title package creates obligations the center cannot support.
 
 [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] supplies the next limited-signal case. Under pressure from Shache, eighteen smaller polities send hostage princes and tribute to Luoyang. Liu Xiu initially sends the hostages home because Han cannot take on the full Western Regions burden, then allows them to remain after Pei Zun reports that their presence can deter Shache by implying Han backing.
 
@@ -27,15 +30,16 @@ The episode strengthens the logic through [[BanGuEasternHan|Ban Gu]]'s compariso
 ## Key Claims
 
 - Frontier requests should be evaluated by whether the center can supply the implied envoys, troops, provisioning, and long-term supervision.
+- The earliest current case is outright deferral when the center has just pacified the interior and cannot support restored frontier offices.
 - A court should correct overbroad recognition before the title package creates unsupported obligations.
 - A court can sometimes offer narrower symbolic deterrence, such as hostage retention, without accepting a full protectorate commitment.
 - Refusal can be strategic when accepting would create an unsupported promise rather than real protection.
 - Deferred commitment has costs: Shanshan and Cheshi submit to Xiongnu after Han declines the request.
 - Capacity-bound refusal differs from indifference; the source says Liu Xiu has will but not means.
-- The pattern is strongest when a court explicitly names timing and capacity rather than pretending that prestige alone can secure the frontier.
 
 ## Evidence
 
+- Outright deferral: [[zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i|Hanji 716]] says Western Regions states seek restored Han management under Xiongnu pressure, but Liu Xiu refuses because the center is newly pacified and unstable.
 - Overcommitment correction: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] says Liu Xiu initially grants Shache King Xian a protectorate-level package, then downgrades it after Pei Zun's objection.
 - Implied-obligation risk: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] says Pei Zun worries that elevating Shache so far will disappoint other Western Regions states and make the hierarchy unstable.
 - Hostage-retention signal: [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] says Western Regions states ask that their hostage princes stay in Han territory so they can tell Shache that Han has accepted the hostages and a protectorate may soon come.
@@ -47,14 +51,14 @@ The episode strengthens the logic through [[BanGuEasternHan|Ban Gu]]'s compariso
 
 ## Counterevidence & Qualifications
 
-The concept does not prove that Liu Xiu's refusal was costless or universally optimal. Hanji 719's downgrade angers Shache King Xian, so narrowing one commitment can create resentment in the disappointed actor. Hanji 722's hostage-retention tactic depends on Shache believing the signal; it is not the same as actual Han protection. Hanji 723 records Shanshan and Cheshi attaching to Xiongnu after the later refusal, so capacity-bound restraint can concede immediate influence. The concept also does not deny that Han Wudi's earlier opening had strategic value against Xiongnu. The current claim is narrower: distant commitments need a supportable capacity base, and prestige without logistics can create brittle promises.
+The concept does not prove that Liu Xiu's refusal was costless or universally optimal. Hanji 716 does not list the Western Regions states in detail or quantify the immediate cost of refusal. Hanji 719's downgrade angers Shache King Xian, so narrowing one commitment can create resentment in the disappointed actor. Hanji 722's hostage-retention tactic depends on Shache believing the signal; it is not the same as actual Han protection. Hanji 723 records Shanshan and Cheshi attaching to Xiongnu after the later refusal, so capacity-bound restraint can concede immediate influence. The concept also does not deny that Han Wudi's earlier opening had strategic value against Xiongnu. The current claim is narrower: distant commitments need a supportable capacity base, and prestige without logistics can create brittle promises.
 
 ## What Changed
 
-- Added Hanji 719 as the earliest current layer: protectorate-level recognition corrected downward before the obligation becomes too large.
-- Reframed Pei Zun as appearing in both overcommitment correction and later hostage-deterrence reporting.
+- Added Hanji 716 as the earliest current layer: Western Regions office restoration is refused while the center is newly pacified and unstable.
+- Reframed Hanji 719 as the next overcommitment-correction layer rather than the first capacity case.
 - Preserved Hanji 722 as the limited-commitment layer: hostage retention as deterrent signal without full protectorate restoration.
-- Preserved Hanji 723 as the sharper protectorate-refusal case.
+- Preserved Hanji 723 as the sharper protectorate-refusal case with visible Shanshan/Cheshi consequences.
 - Kept Ban Gu's Han Wudi comparison as the cost side of protectorate commitments.
 
 ## Related Concepts
@@ -63,6 +67,7 @@ The concept does not prove that Liu Xiu's refusal was costless or universally op
 - [[PeiZunEasternHan|裴遵]] - official whose objection and reporting help calibrate Western Regions commitments.
 - [[ShanshanKingdomLateHan|鄯善国]] - requesting polity that turns toward Xiongnu after Han declines.
 - [[ShacheKingdomLateHan|莎车国]] - regional pressure actor exploiting Han absence and testing Han recognition boundaries.
+- [[Xiongnu|匈奴]] - pressure actor whose extraction and frontier position repeatedly create requests for Han commitment.
 - [[StrategicFrontierAbandonment|弃边失屏]] - contrast because unsupported deferral can resemble abandonment but is justified here by capacity limits.
 - [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]] - related because recognition and protectorate promises create credibility obligations.
 - [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]] - contrast where formal commitment stabilizes a frontier ruler when the center can credibly support it.

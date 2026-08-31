@@ -15711,6 +15711,10 @@
     "title": "督亢地图 / Du Kang Map",
     "url": "/wiki/entities/dukangmap/"
   },
+  "DuLinEasternHan": {
+    "title": "杜琳 / Du Lin (Eastern Han)",
+    "url": "/wiki/entities/dulineasternhan/"
+  },
   "DuMaoEasternHan": {
     "title": "杜茂 / Du Mao (Eastern Han)",
     "url": "/wiki/entities/dumaoeasternhan/"
@@ -22946,6 +22950,10 @@
   "HanXin": {
     "title": "韩信 / Han Xin",
     "url": "/wiki/entities/hanxin/"
+  },
+  "HanXinSituEasternHan": {
+    "title": "韩歆 / Han Xin (Eastern Han Situ)",
+    "url": "/wiki/entities/hanxinsitueasternhan/"
   },
   "HanXiongnuHeqinPolicy": {
     "title": "Han-Xiongnu Heqin Policy / 汉匈和亲政策",
@@ -30826,6 +30834,10 @@
   "LiangState": {
     "title": "梁国 / Liang State",
     "url": "/wiki/entities/liangstate/"
+  },
+  "LiangTongEasternHan": {
+    "title": "梁统 / Liang Tong (Eastern Han)",
+    "url": "/wiki/entities/liangtongeasternhan/"
   },
   "LiangYanLateHan": {
     "title": "梁衍 / Liang Yan (late Han)",
@@ -39610,6 +39622,10 @@
   "PenalRedemptionArmament": {
     "title": "Penal Redemption for Armaments / 刑罚赎罪充实兵备",
     "url": "/wiki/concepts/penalredemptionarmament/"
+  },
+  "PenalSeverityExecutionTradeoff": {
+    "title": "刑法轻重与执行困境 / Penal Severity and Execution Tradeoff",
+    "url": "/wiki/concepts/penalseverityexecutiontradeoff/"
   },
   "PenaltyShootoutPressure": {
     "title": "Penalty Shootout Pressure",
@@ -64666,6 +64682,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i": {
+    "title": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i/"
   },
   "zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v": {
     "title": "《资治通鉴·汉纪》717丨13个字引发的帝王之怒！",

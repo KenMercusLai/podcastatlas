@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8679
+wiki_total_pages: 8682
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1472,6 +1472,9 @@ wiki_pages:
   - key: "LiuChangLiangKing"
     title: "梁王刘畅 / Liu Chang (King of Liang)"
     url: "/wiki/entities/liuchangliangking/"
+  - key: "LiangTongEasternHan"
+    title: "梁统 / Liang Tong (Eastern Han)"
+    url: "/wiki/entities/liangtongeasternhan/"
   - key: "LiangYusheng"
     title: "梁羽生 / Liang Yusheng"
     url: "/wiki/entities/liangyusheng/"

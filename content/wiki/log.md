@@ -14484,6 +14484,10 @@ Ingested the 2026-08-31 The Intelligence episode on Hollywood AI production, syn
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-01] ingest | 《资治通鉴·汉纪》716丨乱世之中，律法有多重要？
+
+Ingested the 2026-06-21 芮淇讲透资治通鉴 episode backfilling Jianwu 14-15 / 38-39 CE before Hanji 717. Created `LiangTongEasternHan`, `DuLinEasternHan`, `HanXinSituEasternHan`, and `PenalSeverityExecutionTradeoff`; updated Liu Xiu, Ouyang Xi, capacity-bound frontier commitment, degree-field accountability, direct-remonstrance criminalization, overview, and index. No settled contradiction found; 韩鑫 is normalized cautiously to the disambiguated Eastern Han Situ Han Xin / 韩歆 route, while Ren Gui, Han Ying, Western Regions minor states, exact relocation geography, and Liu Yan/Liu Zhong posthumous titles remain source-scoped.
+
 ## [2026-09-01] ingest | 681. Brazil: The Emperor's Anthem (Part 5)
 
 Ingested the 2026-06-21 The Rest Is History episode on Brazil's national anthem, Portuguese court relocation to Rio, Dom Pedro I's independence break, imperial slavery and abolition pressure, Pedro II-era identity, republican reuse of Francisco Manuel da Silva's tune, Osorio Duque Estrada's 1922 lyrics settlement, flag symbolism, and Diretas Ja protest performance. Created `BrazilianNationalAnthem`, `BrazilianFlag`, `BrazilianIndependence`, `BrazilianEmpire`, `DomJoaoVI`, `DomPedroI`, `DomPedroII`, `MariaLeopoldina`, `FranciscoManuelDaSilva`, `OsorioDuqueEstrada`, `DeodoroDaFonseca`, `FafaDeBelem`, `DiretasJa`, `LouisMoreauGottschalk`, `SocratesFootballer`, `NationalAnthemPoliticalPlasticity`, `RegimeSymbolContinuity`, and `SlaveryNationalIdentityContradiction`; migrated and updated `Brazil`, and updated `TheRestIsHistory`. No settled contradiction found; the source is treated as an anthem-centered narrative rather than a complete political, musicological, or slavery history of Brazil.
@@ -14515,6 +14519,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》717丨13个字引发的帝王之怒！
 
 Ingested the 2026-06-21 芮淇讲透资治通鉴 episode backfilling Jianwu 15 / 39 CE. Created `DutianAccountabilityEasternHan`, `OuyangXiEasternHan`, `ZhangKanEasternHan`, `MaChengEasternHan`, and `DuMaoEasternHan`; updated Liu Xiu, Emperor Ming of Han, Lu Fang, overview, and index. No settled contradiction found; Dai She, Li Zhen, exact Huben questioning mechanics, Henan/Hongnong/Gaoliu geography, and the host's Liu Qiang succession-risk inference remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] lint | Wiki health check
 

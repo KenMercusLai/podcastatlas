@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2134
+topic_total_pages: 2137
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3259,6 +3259,9 @@ topic_concepts:
   - key: "GongAnFiction"
     title: "公案小说 / Gong'an Fiction"
     url: "/wiki/concepts/gonganfiction/"
+  - key: "PenalSeverityExecutionTradeoff"
+    title: "刑法轻重与执行困境 / Penal Severity and Execution Tradeoff"
+    url: "/wiki/concepts/penalseverityexecutiontradeoff/"
   - key: "PunishmentPersonalResponsibilityLimit"
     title: "刑罚个人责任边界 / Punishment Personal Responsibility Limit"
     url: "/wiki/concepts/punishmentpersonalresponsibilitylimit/"
@@ -5522,6 +5525,9 @@ topic_entities:
   - key: "LiTongLateHan"
     title: "李通 / Li Tong (late Han)"
     url: "/wiki/entities/litonglatehan/"
+  - key: "DuLinEasternHan"
+    title: "杜琳 / Du Lin (Eastern Han)"
+    url: "/wiki/entities/dulineasternhan/"
   - key: "TiaozhiKingdom"
     title: "条支国 / Tiaozhi Kingdom"
     url: "/wiki/entities/tiaozhikingdom/"
@@ -5537,6 +5543,9 @@ topic_entities:
   - key: "QiaoXuanLateHan"
     title: "桥玄 / Qiao Xuan (late Han)"
     url: "/wiki/entities/qiaoxuanlatehan/"
+  - key: "LiangTongEasternHan"
+    title: "梁统 / Liang Tong (Eastern Han)"
+    url: "/wiki/entities/liangtongeasternhan/"
   - key: "FanTiaoEasternHan"
     title: "樊鯈 / Fan Tiao (Eastern Han)"
     url: "/wiki/entities/fantiaoeasternhan/"

@@ -10,7 +10,8 @@ sources:
   - zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy
   - zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8
   - zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex
-last_updated: 2026-08-30
+  - zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i
+last_updated: 2026-09-01
 ---
 
 ## Definition
@@ -18,6 +19,8 @@ last_updated: 2026-08-30
 Direct remonstrance criminalization / 直谏入罪 is the court-politics pattern in which open corrective speech is recoded as disrespect, deception, factional pressure, resentment, slander, or disloyalty, then punished through execution, prison death, forced suicide, dismissal, fief reduction, family pressure, or sanctions against defenders.
 
 ## Current Synthesis
+
+Hanji 716 now adds an early Guangwu branch through [[HanXinSituEasternHan|Han Xin / 韩歆]]. Han Xin warns [[LiuXiu|Liu Xiu]] in severe terms about coming famine; Liu Xiu removes him, sends an envoy with a rebuke, and Han Xin plus his son die by suicide. The case is less formally juridical than later prison-death or execution cases, but it shows direct correction becoming lethal through dismissal, imperial reprimand, and fear. [[SimaGuang|Sima Guang]]'s criticism makes the political lesson explicit: even a strong ruler damages the state when he cannot tolerate harsh but useful speech.
 
 Hanji 850 defines the Huan-era ruler-facing branch through [[LiYunLateHan|Li Yun]] and [[DuZhongLateHan|Du Zhong]]. Li Yun's unsealed memorial criticizes overreward and then challenges [[EmperorHuanOfHan|Emperor Huan]]'s willingness to hear truth. Huan answers by arresting and interrogating him, then widening punishment to Du Zhong's shared-fate memorial, [[ChenFanLateHan|Chen Fan]]'s clemency plea, other petitioners, and [[GuanBaLateHan|Guan Ba]]'s final mitigation attempt. The result is a lesson to the court that both loyal criticism and rescue speech can become offenses.
 
@@ -34,11 +37,12 @@ Hanji 761 adds a favored-insider branch before those ruler-facing cases. [[ZhiSh
 - A captured court can recode corrective speech as resentment, deception, slander, faction, or disloyalty when the target is powerful.
 - Criminalization can widen from the original speaker to solidarity actors, defenders, clemency advocates, relatives, and funeral memory.
 - Mitigation can reduce formal sentence while failing to restore safety when the political threat remains.
-- The pattern ranges from execution and prison death to forced suicide, dismissal, fief reduction, and family pressure.
+- The pattern ranges from execution and prison death to forced suicide, dismissal, rebuking envoy pressure, fief reduction, and family pressure.
 - The outcome strengthens feedback collapse by teaching officials that truthful correction can become punishable.
 
 ## Evidence
 
+- Guangwu-era informal lethal pressure: [[zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i|Hanji 716]] says Han Xin's blunt famine warning leads to dismissal, imperial rebuke, his suicide with Han Ying, public resentment, and Liu Xiu's posthumous appeasement.
 - Ruler-focused criticism and public form: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] says Li Yun criticizes overlarge rewards, questions Huan's truth-hearing capacity, submits an unsealed memorial, and sends copies to the Three Excellencies.
 - Solidarity and failed rescue: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] says Du Zhong asks to share Li Yun's fate, Chen Fan and other officials plead for clemency, Guan Ba seeks mitigation, and Li Yun plus Du Zhong still die in prison.
 - Zhao Teng's execution: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] says Zhao Teng criticizes court gains and losses, is treated as deceiving the ruler and committing grave disloyalty, and is executed despite Yang Zhen's plea.
@@ -51,18 +55,21 @@ Hanji 761 adds a favored-insider branch before those ruler-facing cases. [[ZhiSh
 
 ## Counterevidence & Qualifications
 
-Directness is a risk amplifier under certain authority, face, evidence, and faction conditions, not a sufficient cause by itself. Hanji 852 and Hanji 873 show that some blunt or religiously coded criticism can be partly accepted or punished short of death. Hanji 761 also shows partial institutional resilience: He Chang's argument changes the formal sentence. The concept should therefore track how speech is recoded and punished, not assume that all direct advice inevitably dies.
+Directness is a risk amplifier under certain authority, face, evidence, and faction conditions, not a sufficient cause by itself. Hanji 716 is an informal lethal-pressure case rather than a full legal prosecution. Hanji 852 and Hanji 873 show that some blunt or religiously coded criticism can be partly accepted or punished short of death. Hanji 761 also shows partial institutional resilience: He Chang's argument changes the formal sentence. The concept should therefore track how speech is recoded and punished, not assume that all direct advice inevitably dies.
 
 ## What Changed
 
-- Added Hanji 761 as the favored-insider branch where Zhi Shou's public refusal of Dou Xian's private request becomes a slander case.
-- Expanded the pattern from ruler-only face threat to powerful-insider protection under dowager favor.
-- Added mitigation failure as a subtype: formal death reduction still leaves Zhi Shou politically unsafe.
+- Added Hanji 716 as the early Guangwu branch where Han Xin's harsh warning becomes lethal through dismissal, envoy rebuke, suicide, public resentment, and posthumous appeasement.
+- Preserved Hanji 761 as the favored-insider branch where Zhi Shou's public refusal of Dou Xian's private request becomes a slander case.
+- Preserved the expanded pattern from ruler-only face threat to powerful-insider protection under dowager favor.
+- Preserved mitigation failure as a subtype: formal death reduction still leaves Zhi Shou politically unsafe.
 - Preserved Hanji 852 and Hanji 873 as penalty-range qualifications.
 
 ## Related Concepts
 
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - broader failure mode in which truthful correction is ignored, filtered, punished, or made lethal.
+- [[HanXinSituEasternHan|韩歆]] - early Guangwu source case where a blunt famine warning becomes fatal after dismissal and imperial rebuke.
+- [[LiuXiu|光武帝刘秀]] - ruler whose treatment of Han Xin qualifies his otherwise positive feedback profile.
 - [[RetaliatoryPoliticalTerror|报复性政治恐怖]] - coercive counterpart when a powerholder turns personal offense into official punishment.
 - [[OuterRelativeCourtPower|外戚专权与清算]] - structural host for Zhi Shou's Dou Xian case.
 - [[HeirSupportThreatPerception|储君拥戴威胁感]] - upstream succession-security anxiety that makes defense of Liu Bao look like hidden factional pressure.

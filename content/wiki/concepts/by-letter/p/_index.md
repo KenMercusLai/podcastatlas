@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6179
+wiki_total_pages: 6180
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1589,6 +1589,9 @@ wiki_pages:
   - key: "PrincessMarriagePowerAsymmetry"
     title: "公主婚姻权力失衡 / Princess Marriage Power Asymmetry"
     url: "/wiki/concepts/princessmarriagepowerasymmetry/"
+  - key: "PenalSeverityExecutionTradeoff"
+    title: "刑法轻重与执行困境 / Penal Severity and Execution Tradeoff"
+    url: "/wiki/concepts/penalseverityexecutiontradeoff/"
   - key: "PunishmentPersonalResponsibilityLimit"
     title: "刑罚个人责任边界 / Punishment Personal Responsibility Limit"
     url: "/wiki/concepts/punishmentpersonalresponsibilitylimit/"

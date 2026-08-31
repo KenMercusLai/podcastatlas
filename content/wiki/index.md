@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》716丨乱世之中，律法有多重要？](sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i.md) — 38-39 CE Guangwu episode on Liang Tong and Du Lin's penal-law debate, Western Regions capacity refusal, Han Xin's remonstrance death, Xiongnu pressure, border relocation, and the degree-field disturbance prelude.
 - [《资治通鉴·汉纪》717丨13个字引发的帝王之怒！](sources/zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v.md) — 39 CE Guangwu episode on degree-field land registration, the Chenliu comparison note, Liu Yang's political reading, Ouyang Xi's punishment, Lu Fang's Gaoliu return, and Zhang Kan's Gaoliu/Yuyang frontier governance.
 - [《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？](sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r.md) — 40 CE Guangwu-era episode on Zheng Ce and Zheng Er's Jiaozhi revolt, land-and-grain fraud punishment, anti-bandit incentive design, Lu Fang's fragile surrender, and Ma Yuan's five-zhu coin memorial.
 - [681. Brazil: The Emperor's Anthem (Part 5)](sources/681-brazil-the-emperors-anthem-part-5-glt5596929385.md) — The Rest Is History episode on Brazil's national anthem, Portuguese court in Rio, Pedro I independence, imperial slavery, republican symbol reuse, 1922 lyrics, flag imagery, and Diretas Ja protest performance.
@@ -1818,6 +1819,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [梁统 / Liang Tong (Eastern Han)](entities/LiangTongEasternHan.md) — Eastern Han legal official whose penal-severity memorial makes postwar law a deterrence and order problem.
+- [杜琳 / Du Lin (Eastern Han)](entities/DuLinEasternHan.md) — Eastern Han official whose objection to rewriting law warns that over-dense penal codes can become unenforceable.
+- [韩歆 / Han Xin (Eastern Han Situ)](entities/HanXinSituEasternHan.md) — Guangwu-era Situ whose blunt famine warning leads to dismissal, imperial rebuke, and forced-suicide pressure.
 - [欧阳歙 / Ouyang Xi (Eastern Han)](entities/OuyangXiEasternHan.md) — Shangshu-lineage Situ punished after Runan degree-field falsification and embezzlement charges.
 - [张堪 / Zhang Kan (Eastern Han)](entities/ZhangKanEasternHan.md) — Frontier official whose Gaoliu victory and Yuyang tenure pair Xiongnu defense with agricultural local governance.
 - [马成 / Ma Cheng (Eastern Han)](entities/MaChengEasternHan.md) — Frontier commander who replaces Du Mao and strengthens border defense with regular beacon stations.
@@ -10501,6 +10505,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [刑法轻重与执行困境 / Penal Severity and Execution Tradeoff](concepts/PenalSeverityExecutionTradeoff.md) — Governance pattern where deterrence, proportionality, law density, and enforceability pull punishment design in opposite directions.
 - [度田问责 / Dutian Accountability (Eastern Han)](concepts/DutianAccountabilityEasternHan.md) — Guangwu-era land-registration accountability pattern exposing protected elite comparison zones and senior local-official falsification.
 - [女性起义称王 / Female Rebel Sovereignty](concepts/FemaleRebelSovereignty.md) — Pattern where Zheng Ce's Jiaozhi revolt becomes a female-led ruler claim rather than only local disorder.
 - [群盗互纠式平乱 / Bandit Mutual-Reporting Pacification](concepts/BanditMutualReportingPacification.md) — Guangwu-era anti-bandit incentive design using peer reporting, pardons, official-accountability repair, shelter penalties, and resettlement.

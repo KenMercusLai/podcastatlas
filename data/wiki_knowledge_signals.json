@@ -6217,9 +6217,9 @@
       "url": "/wiki/entities/caozonglatehan/"
     },
     "CapacityBoundFrontierCommitment": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？ [lqTI3sTVdCW7UtGm6uzwv5GIazHj].md",
@@ -6241,6 +6241,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》719丨光武帝刘秀算不算渣男？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？ [lqxuINBrL-rop8d9YxGWX9z4Fr4I].md",
+          "key": "zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i/"
         }
       ],
       "updated": "2026-09-01",
@@ -10896,9 +10903,9 @@
       "url": "/wiki/concepts/diplomaticritualdignity/"
     },
     "DirectRemonstranceCriminalization": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？ [loKxtCeQ7Vv_giEC6IUFWWK9FWk7].md",
@@ -10941,9 +10948,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》761丨从死刑犯到沙场英雄，他是如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？ [lqxuINBrL-rop8d9YxGWX9z4Fr4I].md",
+          "key": "zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-01",
       "url": "/wiki/concepts/directremonstrancecriminalization/"
     },
     "DiretasJa": {
@@ -11816,6 +11830,29 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/dujiliangeasternhan/"
     },
+    "DuLinEasternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？ [lqxuINBrL-rop8d9YxGWX9z4Fr4I].md",
+          "key": "zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？ [lqTI3sTVdCW7UtGm6uzwv5GIazHj].md",
+          "key": "zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/dulineasternhan/"
+    },
     "DuMaoEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -12191,9 +12228,9 @@
       "url": "/wiki/concepts/dulldirtydangerousrobotics/"
     },
     "DutianAccountabilityEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》717丨13个字引发的帝王之怒！ [liZ3jsBvW3sNfaPzSRQw917fqV7V].md",
@@ -12201,6 +12238,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》717丨13个字引发的帝王之怒！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？ [lqxuINBrL-rop8d9YxGWX9z4Fr4I].md",
+          "key": "zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i/"
         }
       ],
       "updated": "2026-09-01",
@@ -19686,6 +19730,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/hanxianlatehan/"
     },
+    "HanXinSituEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？ [lqxuINBrL-rop8d9YxGWX9z4Fr4I].md",
+          "key": "zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/hanxinsitueasternhan/"
+    },
     "HanyangCommanderyLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -26229,6 +26289,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/liangsonglinxiangmarquis/"
     },
+    "LiangTongEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？ [lqxuINBrL-rop8d9YxGWX9z4Fr4I].md",
+          "key": "zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/liangtongeasternhan/"
+    },
     "LiangYuEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -27368,9 +27444,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 2,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -27497,6 +27573,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》717丨13个字引发的帝王之怒！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？ [lqxuINBrL-rop8d9YxGWX9z4Fr4I].md",
+          "key": "zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i/"
         }
       ],
       "updated": "2026-09-01",
@@ -33610,9 +33693,9 @@
       "url": "/wiki/concepts/outsiderexperiencediagnosticskill/"
     },
     "OuyangXiEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》717丨13个字引发的帝王之怒！ [liZ3jsBvW3sNfaPzSRQw917fqV7V].md",
@@ -33620,6 +33703,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》717丨13个字引发的帝王之怒！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？ [lqxuINBrL-rop8d9YxGWX9z4Fr4I].md",
+          "key": "zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i/"
         }
       ],
       "updated": "2026-09-01",
@@ -34453,6 +34543,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/pekinguniversitythirdhospital/"
+    },
+    "PenalSeverityExecutionTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？ [lqxuINBrL-rop8d9YxGWX9z4Fr4I].md",
+          "key": "zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/penalseverityexecutiontradeoff/"
     },
     "Penelope": {
       "episode_count": 1,
