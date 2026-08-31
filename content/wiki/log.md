@@ -14079,6 +14079,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | 《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？
+
+Ingested the 2026-06-22 芮淇讲透资治通鉴 episode on Jianwu 18-19 / 42-43 CE late Guangwu politics: Shu and Yuanwu rebellions, Lu Fang's renewed defection, Ma Yuan's Jiaozhi campaign, state-pastor-to-inspector and temple-ritual adjustments, and Liu Qiang's repeated resignation after Guo Shengtong's deposition before Liu Yang / Liu Zhuang becomes crown prince. Created `GuoShengtong` and `CrownPrinceVoluntaryWithdrawal`; updated `LiuQiangDonghaiKing` and `MaternalStatusSuccessionLeverage`. No settled contradiction found; Zhi Yun, Lu Fang, Shi Xing, Zhang Mu, Yang Wei, Shan Chen, Fu Zhen, Zheng Ce, Zheng Er, Duyang, and Yuan Hong remain source-scoped.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？
 
 Ingested the 2026-06-22 芮淇讲透资治通鉴 episode on the Hedong Pei clan's scale and family-rule durability claim, Jianwu 22 court/disaster notices, Liu Kun's virtue stories, Xiongnu famine and heqin request, Wuhuan pressure, and Liu Xiu's refusal to restore the Western Regions Protectorate before Han capacity could support it. Created `HedongPeiClan`, `LineageRuleDurability`, and `CapacityBoundFrontierCommitment`; updated `LiuXiu`, `BanGuEasternHan`, `HanWudi`, `ShanshanKingdomLateHan`, `ShacheKingdomLateHan`, and `Wuhuan`. No settled contradiction found; the Pei rules are treated as source-scoped because this episode names but does not enumerate them, and minor officials/hostage princes remain source-scoped.
@@ -14403,6 +14407,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？
 
 Ingested the 2026-06-22 芮淇讲透资治通鉴 episode on Jianwu 19-20 / 43-44 CE personnel selection, Yin Shi and Yin Xing's crown-prince guidance, Huan Rong's classics-teaching recognition, Dong Xuan's enforcement against Princess Huyang's protected slave, Liu Xiu's reward-and-restraint signal, Nandun tax relief, Liu Shang's southwestern campaign, and Wu Han's deathbed warning. Created `DongXuanEasternHan` and `HuyangPrincessEasternHan`; updated `LiuXiu`, `YinShiEasternHan`, `YinXingGuangwuMaternalKin`, `HuanRongEasternHan`, `WuHanEasternHan`, `HighStatusLawEnforcementSignal`, and `RuleOverKinshipPower`. No settled contradiction found; Ding Gong, Zhong Xing, Liu Shang, Ren Gui, Dong Chan, and Nandun remain source-scoped.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

@@ -8413,6 +8413,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/crownprincetutorpublicinterest/"
     },
+    "CrownPrinceVoluntaryWithdrawal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？ [lsliZSpo8rywnf3CeByHINcDhvZ0].md",
+          "key": "zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/crownprincevoluntarywithdrawal/"
+    },
     "CuiQiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -17486,6 +17502,36 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/guoning/"
     },
+    "GuoShengtong": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？ [lsliZSpo8rywnf3CeByHINcDhvZ0].md",
+          "key": "zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》722丨让刘秀险死的头痛病，怎么回事？ [logWCCdSCA7Vm2ZZssu8ubm8RWra].md",
+          "key": "zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》722丨让刘秀险死的头痛病，怎么回事？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？ [lnSU1Le2X-cJ75cJslySVBNDeuVR].md",
+          "key": "zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/guoshengtong/"
+    },
     "GuoTaiLateHan": {
       "episode_count": 7,
       "show_count": 1,
@@ -25250,9 +25296,9 @@
       "url": "/wiki/entities/liupingeasternhan/"
     },
     "LiuQiangDonghaiKing": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
@@ -25274,6 +25320,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？ [lsliZSpo8rywnf3CeByHINcDhvZ0].md",
+          "key": "zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0/"
         }
       ],
       "updated": "2026-08-31",
@@ -27898,9 +27951,9 @@
       "url": "/wiki/entities/masudhusain/"
     },
     "MaternalStatusSuccessionLeverage": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？ [lh-tBOhgO96qw8bJqu3x1Yp6CZV5].md",
@@ -27936,6 +27989,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》751丨窦皇后告诉你：女人不狠，地位不稳",
           "url": "/wiki/sources/zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？ [lsliZSpo8rywnf3CeByHINcDhvZ0].md",
+          "key": "zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0/"
         }
       ],
       "updated": "2026-08-31",

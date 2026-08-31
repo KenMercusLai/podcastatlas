@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6132
+wiki_total_pages: 6133
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1862,6 +1862,9 @@ wiki_pages:
   - key: "ChineseMysteryPublishingEcology"
     title: "国产推理出版生态 / Chinese Mystery Publishing Ecology"
     url: "/wiki/concepts/chinesemysterypublishingecology/"
+  - key: "CrownPrinceVoluntaryWithdrawal"
+    title: "太子主动辞位自保 / Crown-Prince Voluntary Withdrawal"
+    url: "/wiki/concepts/crownprincevoluntarywithdrawal/"
   - key: "CrownPrinceTutorPublicInterest"
     title: "太子师傅公器化 / Crown-Prince Tutor Public Interest"
     url: "/wiki/concepts/crownprincetutorpublicinterest/"

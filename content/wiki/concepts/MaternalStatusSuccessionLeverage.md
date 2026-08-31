@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz
   - zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2
   - zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6
+  - zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0
 last_updated: 2026-08-31
 ---
 
@@ -18,17 +19,20 @@ Maternal status succession leverage / 子以母贵式继承杠杆 is the mechani
 
 ## Current Synthesis
 
-The concept now has three main shapes. In the Zhouji 97 sources, [[LuBuwei|Lu Buwei]] sees that [[QinZhuangxiangwang|Yiren]]'s low rank can change if [[HuayangFuren|Huayang Furen]], a favored but childless wife of [[QinXiaowenwang|Anguo Jun]], adopts him. The carved jade tally then turns maternal affiliation into a [[WrittenSuccessionCredential|written succession credential]].
+The concept now has four main shapes. [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]] adds the clearest biological status-loss variant: [[LiuQiangDonghaiKing|Liu Qiang]] is already crown prince, but after [[GuoShengtong|Guo Shengtong]] is deposed, his heir position becomes unsafe enough that he repeatedly asks to withdraw. [[LiuXiu|Guangwu]] then makes Liu Yang, the son of the current empress line, crown prince and renames him Liu Zhuang.
+
+In the Zhouji 97 sources, [[LuBuwei|Lu Buwei]] sees that [[QinZhuangxiangwang|Yiren]]'s low rank can change if [[HuayangFuren|Huayang Furen]], a favored but childless wife of [[QinXiaowenwang|Anguo Jun]], adopts him. The carved jade tally then turns maternal affiliation into a [[WrittenSuccessionCredential|written succession credential]].
 
 Hanji 751 adds a coercive Eastern Han variant. [[EmpressDowagerDouHeLateHan|Empress Dou]] has no son and raises [[EmperorHeOfHan|Liu Zhao]], the son of [[LiangGuirenHeLateHan|Liang Guiren]], as her own. Once Liu Zhao becomes useful as Dou's foster-maternal route, [[LiuQingQingheKing|Liu Qing]] and [[SongGuirenZhangHeLateHan|Song Guiren]] become the rival maternal line to remove.
 
 Hanji 918 and Hanji 943 add a late-Han factional variant. [[EmpressDowagerHe|Empress He]]'s rise from a Nanyang butcher household and the birth of [[LiuBianHongnongWang|Liu Bian]] prepare a maternal-household base before the succession crisis. After [[EmperorLingOfHan|Emperor Ling]] dies without naming an heir, Liu Bian's living queen-mother line and Liu Xie's birth/foster-maternal associations become competing factional labels, even without a deliberate Lu Buwei-style adoption strategy.
 
-The current synthesis is therefore broader than the original "under-ranked son gains a mother" model. Maternal status can uplift an heir candidate, expose a rival mother-child pair, or preserve court factions around maternal and foster-maternal labels after the ruler's decision is incomplete.
+The current synthesis is therefore broader than the original "under-ranked son gains a mother" model. Maternal status can uplift an heir candidate, destabilize an already established heir after his mother falls, expose a rival mother-child pair, or preserve court factions around maternal and foster-maternal labels after the ruler's decision is incomplete.
 
 ## Key Claims
 
 - A prince's heir value can rise or fall through biological, adoptive, or foster maternal affiliation, not only through birth order.
+- Loss of a mother's rank can endanger even an already established crown prince.
 - A childless high-status consort can become a succession channel by adopting or raising an otherwise weaker candidate.
 - Maternal leverage becomes stronger when formalized by recognition, credentials, title, or an actual crown-prince decision.
 - The mechanism creates family-power incentives because the maternal household gains status with the son and fears rival maternal lines.
@@ -37,6 +41,8 @@ The current synthesis is therefore broader than the original "under-ranked son g
 
 ## Evidence
 
+- Biological status loss: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]] says Liu Qiang becomes uneasy after Guo Shengtong's deposition because his mother had been his support, then repeatedly asks to resign as crown prince.
+- Replacement through current maternal rank: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]] says Liu Xiu justifies the replacement by naming Liu Yang as the empress's son and installs him as crown prince under the name Liu Zhuang.
 - Adoption as status channel: [[zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2|Zhouji 97-3]] identifies Huayang Furen's childlessness as the opening for Yiren's repositioning, while [[zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6|Hanji 751]] shows Empress Dou using Liu Zhao as her foster-maternal succession route.
 - Formalization: [[zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz|Zhouji 97-4]] makes the jade tally the durable proof of adoption, while [[zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6|Hanji 751]] shows Zhangdi's crown-prince replacement converting foster-maternal positioning into succession fact.
 - Rival-line removal: [[zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6|Hanji 751]] says the Song sisters' accusation leads to Liu Qing's demotion and Liu Zhao's promotion.
@@ -46,19 +52,21 @@ The current synthesis is therefore broader than the original "under-ranked son g
 
 ## Counterevidence & Qualifications
 
-The cases should not be collapsed into one tactic. The Zhouji 97 case is a deliberate entrepreneurial adoption strategy backed by a credential. Hanji 751 is a coercive harem-succession struggle in which accusation and maternal-line removal matter as much as adoption. Hanji 918 and Hanji 943 show a factional label structure built from existing maternal and foster ties, not a manufactured adoption transaction.
+The cases should not be collapsed into one tactic. Hanji 720 is not adoption or foster motherhood; it is a biological mother's demotion turning into heir vulnerability, and Yuan Hong's criticism warns that maternal status did not make the replacement normatively clean. The Zhouji 97 case is a deliberate entrepreneurial adoption strategy backed by a credential. Hanji 751 is a coercive harem-succession struggle in which accusation and maternal-line removal matter as much as adoption. Hanji 918 and Hanji 943 show a factional label structure built from existing maternal and foster ties, not a manufactured adoption transaction.
 
 The concept also does not mean maternal status alone determines succession. Ruler approval, palace access, written proof, outer-relative offices, and the rival side's weakness all mediate whether maternal affiliation becomes politically decisive.
 
 ## What Changed
 
+- Added Hanji 720 as the biological status-loss variant where Guo Shengtong's deposition destabilizes Crown Prince Liu Qiang.
+- Reframed the synthesis to include both maternal uplift and maternal-status collapse.
 - Added Hanji 751 as the coercive Eastern Han variant where foster motherhood empowers Liu Zhao and exposes Song Guiren and Liu Qing.
-- Reframed the concept around biological, adoptive, and foster maternal affiliation rather than only Lu Buwei's adoption strategy.
 - Made formalization a separate claim because jade proof and crown-prince replacement are different ways to lock in maternal leverage.
 - Preserved Hanji 918 and Hanji 943 as factional-label variants rather than forcing them into the adoption model.
 
 ## Related Concepts
 
+- [[CrownPrinceVoluntaryWithdrawal|太子主动辞位自保]] - Liu Qiang's protective resignation is the status-loss response created by Guo Shengtong's deposition.
 - [[WrittenSuccessionCredential|书面继承凭证]] - formal proof that can harden maternal affiliation into succession evidence.
 - [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - adjacent succession mechanism where emotional preference, rather than maternal-status engineering, destabilizes the line.
 - [[OuterRelativeCourtPower|外戚专权与清算]] - institutional consequence when the maternal household gains power through the heir.
