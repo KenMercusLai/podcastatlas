@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-31] ingest | 《资治通鉴·汉纪》725丨东汉名将祭肜：要保家卫国，就把敌人打趴下！
+
+Ingested the 2026-06-23 芮淇讲透资治通鉴 episode on Ji Tong's Liaodong use of Pian He as a reward-backed Xianbei proxy against Xiongnu pressure, Southern/Northern Xiongnu alignment shifts, Ma Yuan's warning letter and its political weaponization through Du Jiliang, Liang Song and Dou Gu's resentment, and the Hutou route crisis before Ma Yuan's death. Created the source note plus `PianHeXianbei`, `LongBogaoEasternHan`, `DuJiliangEasternHan`, `GengShuEasternHan`, and `PrivateLetterPoliticalWeaponization`; updated `JiTongEasternHan`, `MaYuanEasternHan`, `LiangSongLinxiangMarquis`, `FrontierProxyCommitmentBinding`, `index`, and `overview`. No settled contradiction found; Pian He's Xiongnu versus Chishan Wuhuan target variation, Ma Yan, Ma Dun, exact Wuling route geography, force counts, and host workplace lessons remain source-scoped.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂
 
 Ingested the 2026-06-23 芮淇讲透资治通鉴 episode on Zhao Xi's prince-return-to-fief advice, Fan Hong's cautious conduct and thin-burial will, Liu Qiang's exceptional honor and fief return, Ma Yuan's warnings about Wang Pan and princely guest networks, Liu Li's guest-backed killing of Liu Gong under Liu Fu's favor, Guangwu's national guest purge, and Zhang Yi/Huan Rong crown-prince tutor appointments. Created the source note plus `FanHongEasternHan`, `MaYuanEasternHan`, `WangPanEasternHan`, `WangSuEasternHan`, `LiuFuPeiKingEasternHan`, `LiuLiShouguangMarquisEasternHan`, `YinShiEasternHan`, `ZhangYiEasternHan`, `HighStatusCautionSelfProtection`, and `CrownPrinceTutorPublicInterest`; updated `ZhaoXiEasternHan`, `LiuQiangDonghaiKing`, `HuanRongEasternHan`, `PrivateRetainerNetworkRisk`, `FrugalImperialBurialRestraint`, `KinshipProtocolBoundary`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Liu Fu, Zhang Yi, Liu Li, Wang Pan, and Wang Su are kept scoped/disambiguated, while minor princes, Cao Xun, Sima Lyu Zhong, Liu Penzi, Liu Gong, and the host's modern burial commentary remain source-scoped.
@@ -14351,6 +14355,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密
 
 Ingested the 2026-06-23 芮淇讲透资治通鉴 episode on Ma Yuan's death and posthumous slander, Zhu Bo's defense, Zong Jun's discretionary Wuling surrender settlement, Wuhuan submission, and Ban Biao's Wuhuan protector-office advice. Created `ZhuBoEasternHan`, `PosthumousMeritVindication`, `FieldDiscretionPacification`, and `WuhuanProtectorateInstitutionalization`; updated `MaYuanEasternHan`, `LiangSongLinxiangMarquis`, `ZongJunEasternHan`, `BanBiaoEasternHan`, `WulingManLateHan`, `Wuhuan`, and `LiuXiu`. No settled contradiction found; Liang Song's motive, the Dou-family marriage break, Hao Dan, Lü Zhong, and the full Empress Ma historian claim remain source-scoped.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

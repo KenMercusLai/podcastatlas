@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "733e44a61b10e6eb6a3251356cadfdc717c2d56793370e7cd1156daaf652b424",
       "975a54c799d648dea4b14de186d35b766b1498532932b4417b6e61f685fe8198",
       "fd037024e30e2701fabfe995689ee5c3a4b3729521d187cb7840c390202257b4",
       "1acb350d5328e36a2a47334a9fc451a6bedfadce3e1a92a3c1eba4fc3e121393",
@@ -449,11 +450,39 @@
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0"
     ],
-    "paragraph_count": 447
+    "paragraph_count": 448
   },
-  "overview_commit": "e44e46d3659cedc490d9f5bb2441cdd16fc04411",
-  "overview_digest": "a5a5748eafa40ea4e2f98be37b5e9444176af9610c3758d938a564c0d37ca5f7",
+  "overview_commit": "d323245df44fc77d3452962fcdd5edc2767d5326",
+  "overview_digest": "dbcf3a41a0e6b5cc5bb3596e61c85111280d439813268795407e19dd46439480",
   "paragraphs": [
+    {
+      "id": "733e44a61b10e6eb6a3251356cadfdc717c2d56793370e7cd1156daaf652b424",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y|《资治通鉴·汉纪》725丨东汉名将祭肜：要保家卫国，就把敌人打趴下！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 49 CE late [[LiuXiu|光武帝刘秀]] layer before [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] and [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]]. It adds [[PianHeXianbei|偏和]], [[LongBogaoEasternHan|龙伯高]], [[DuJiliangEasternHan|杜季良]], [[GengShuEasternHan|耿舒]], and [[PrivateLetterPoliticalWeaponization|私人书信政治武器化]], while extending [[JiTongEasternHan|祭肜]], [[MaYuanEasternHan|马援]], [[LiangSongLinxiangMarquis|梁松]], [[WulingManLateHan|武陵蛮]], and [[FrontierProxyCommitmentBinding|边疆代理承诺绑定]]. Its core synthesis is that late Guangwu frontier and court order both depend on controlled channels and credible incentives: Ji Tong converts Pian He's submission into repeated anti-Xiongnu action, Southern Xiongnu's pressure on Northern Xiongnu sets up the protected-settlement sequence, Ma Yuan's letter teaches speech restraint but becomes accusation once outside the family, and Geng Shu's route complaint brings Liang Song into Ma Yuan's final campaign inquiry. No settled contradiction is recorded; the Xiongnu versus Chishan Wuhuan target variation remains source-scoped, and Ma Yan, Ma Dun, route geography, force counts, and host workplace lessons remain bounded to the source.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "DuJiliangEasternHan",
+        "FrontierProxyCommitmentBinding",
+        "GengShuEasternHan",
+        "JiTongEasternHan",
+        "LiangSongLinxiangMarquis",
+        "LiuXiu",
+        "LongBogaoEasternHan",
+        "MaYuanEasternHan",
+        "PianHeXianbei",
+        "PrivateLetterPoliticalWeaponization",
+        "RuiqiJiangtouZizhiTongjian",
+        "WulingManLateHan",
+        "zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y",
+        "zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu",
+        "zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe"
+      ]
+    },
     {
       "id": "975a54c799d648dea4b14de186d35b766b1498532932b4417b6e61f685fe8198",
       "primary_topic": "governance-and-institutions",

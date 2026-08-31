@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-31
-as_of_overview_commit: e44e46d3659cedc490d9f5bb2441cdd16fc04411
+as_of_overview_commit: d323245df44fc77d3452962fcdd5edc2767d5326
 summary: "Durable value depends on fitting AI, markets, institutions, health, culture, learning, and history to evidence, trust, constraints, and context."
-episode_count: 1790
-source_count: 1790
-paragraph_count: 447
+episode_count: 1791
+source_count: 1791
+paragraph_count: 448
 topic_count: 8
 ---
 
@@ -49,14 +49,14 @@ Culture sources use literature, ritual, games, media, brands, therapy-adjacent a
 
 ### Governance and Institutions
 
-Governance capacity depends on enforceable controls, feedback, restraint, implementation discipline, legitimacy, and boundaries around appointments, households, territory, infrastructure, and frontier settlement. Hanji 726 adds a late Guangwu layer in which Ma Yuan's posthumous accusation requires corrective memorial judgment, Zong Jun's emergency Wuling settlement depends on later accountability, and Wuhuan submission becomes governable through titles, provisioning, relocation, and Ban Biao's protector-office proposal.
+Governance capacity depends on enforceable controls, feedback, restraint, implementation discipline, legitimacy, and boundaries around appointments, households, territory, infrastructure, and frontier settlement.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 
 ### History and Geopolitics
 
-History and geopolitics connect Roman crisis, South African reconciliation, Eastern Han backfills, frontier pressure, AI sovereignty, and ritual legitimacy through capacity and timing. Hanji 726 now moves the late Guangwu sequence back to 49 CE, where Ma Yuan's death, Zhu Bo's memorial, Zong Jun's Wuling settlement, and Ban Biao's Wuhuan office proposal show statecraft through reputation repair, field discretion, and frontier institutionalization before Hanji 727.
+History and geopolitics connect Roman crisis, South African reconciliation, Eastern Han backfills, frontier pressure, AI sovereignty, and ritual legitimacy through capacity and timing.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
@@ -77,7 +77,7 @@ Science, health, and climate claims favor measured mechanisms, clinical supervis
 
 ### Work, Education, and Society
 
-Work, education, and society sources make durable capability active through bounded institutions, role clarity, public evidence, active learning, realistic workplace judgment, human feedback loops, trust, pacing, and usable environments. Hanji 726 adds a secondary historical analogy in which Zhu Bo repairs Ma Yuan's reputation through evidence, Zong Jun returns risky field judgment to accountability, and Ban Biao turns Wuhuan management into office routines.
+Work, education, and society sources make durable capability active through bounded institutions, role clarity, public evidence, active learning, realistic workplace judgment, human feedback loops, trust, pacing, and usable environments. Hanji 725 adds a source-scoped role-boundary analogy in which Ma Yuan's private warning letter teaches speech discipline and imitation risk, then becomes accusation evidence once its audience changes.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

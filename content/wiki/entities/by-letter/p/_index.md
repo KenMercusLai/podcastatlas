@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 8597
+wiki_total_pages: 8601
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -794,6 +794,9 @@ wiki_pages:
   - key: "PaoWaimai"
     title: "《跑外卖：一个女骑手的世界》"
     url: "/wiki/entities/paowaimai/"
+  - key: "PianHeXianbei"
+    title: "偏和 / Pian He (Xianbei leader)"
+    url: "/wiki/entities/pianhexianbei/"
   - key: "PrincipleTech"
     title: "原则科技"
     url: "/wiki/entities/principletech/"

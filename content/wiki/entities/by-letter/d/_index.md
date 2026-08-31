@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8597
+wiki_total_pages: 8601
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -923,6 +923,9 @@ wiki_pages:
   - key: "DuTaihou"
     title: "杜太后 / Empress Dowager Du"
     url: "/wiki/entities/dutaihou/"
+  - key: "DuJiliangEasternHan"
+    title: "杜季良 / Du Jiliang (Eastern Han)"
+    url: "/wiki/entities/dujiliangeasternhan/"
   - key: "DuJigongLateHan"
     title: "杜季贡 / Du Jigong (late Han)"
     url: "/wiki/entities/dujigonglatehan/"

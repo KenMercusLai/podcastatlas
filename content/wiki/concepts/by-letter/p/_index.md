@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6123
+wiki_total_pages: 6124
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1643,6 +1643,9 @@ wiki_pages:
   - key: "PhysiognomicInvestmentJudgment"
     title: "看相式政治投资 / Physiognomic Investment Judgment"
     url: "/wiki/concepts/physiognomicinvestmentjudgment/"
+  - key: "PrivateLetterPoliticalWeaponization"
+    title: "私人书信政治武器化 / Private Letter Political Weaponization"
+    url: "/wiki/concepts/privateletterpoliticalweaponization/"
   - key: "PrivateRetainerNetworkRisk"
     title: "私人宾客网络风险 / Private Retainer Network Risk"
     url: "/wiki/concepts/privateretainernetworkrisk/"
