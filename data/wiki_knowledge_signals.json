@@ -15299,9 +15299,9 @@
       "url": "/wiki/concepts/frontiercommandcollapse/"
     },
     "FrontierCommanderyRestoration": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？ [lo8vW0JJ0d6IR7yQBUh_5p9oRZSc].md",
@@ -15309,9 +15309,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》810丨他拼个满门被斩，为何也要杀妻？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？ [lmzdh_RRfadZszYeTXgG-ROU24xe].md",
+          "key": "zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/frontiercommanderyrestoration/"
     },
     "FrontierConscriptionBackfire": {
@@ -15414,9 +15421,9 @@
       "url": "/wiki/concepts/frontierproxyconqueststrategy/"
     },
     "FrontierRecognitionCredibilityTradeoff": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》765丨东汉风云：能臣能不能干掉跋扈外戚？ [ltnVdqNyoFUELAKlSSBQuGUWIVAN].md",
@@ -15445,6 +15452,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？ [lmzdh_RRfadZszYeTXgG-ROU24xe].md",
+          "key": "zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe/"
         }
       ],
       "updated": "2026-08-31",
@@ -15474,9 +15488,9 @@
       "url": "/wiki/concepts/frontierresourceintegration/"
     },
     "FrontierTrustThroughProtection": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》760丨历史揭秘：皇后出轨被抓，下场惨不惨？ [lgZ2sC9XT8ULltVWeMiZ2uzFgHQI].md",
@@ -15498,9 +15512,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》756丨为什么劝你得饶人处且饶人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？ [lmzdh_RRfadZszYeTXgG-ROU24xe].md",
+          "key": "zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/frontiertrustthroughprotection/"
     },
     "FrostSullivan": {
@@ -15520,9 +15541,9 @@
       "url": "/wiki/entities/frostsullivan/"
     },
     "FrugalImperialBurialRestraint": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》744丨大汉耿恭求生菜谱，竟让贝爷望尘莫及？ [lvsUMPsnPB1TPk7t0xrX7vaTd5MX].md",
@@ -15544,6 +15565,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？ [lmzdh_RRfadZszYeTXgG-ROU24xe].md",
+          "key": "zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe/"
         }
       ],
       "updated": "2026-08-31",
@@ -25137,9 +25165,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 2,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -25203,6 +25231,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？ [lmzdh_RRfadZszYeTXgG-ROU24xe].md",
+          "key": "zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe/"
         }
       ],
       "updated": "2026-08-31",
@@ -29956,9 +29991,9 @@
       "url": "/wiki/entities/northernrising/"
     },
     "NorthernXiongnuLateHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -30043,6 +30078,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？ [lmzdh_RRfadZszYeTXgG-ROU24xe].md",
+          "key": "zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe/"
         }
       ],
       "updated": "2026-08-31",
@@ -34500,9 +34542,9 @@
       "url": "/wiki/concepts/republicanrestraintleadership/"
     },
     "ReputationConstrainedWarRestraint": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？ [ljc3sD7MeIgo37Uy_1fxNKx-PSQG].md",
@@ -34524,9 +34566,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲",
           "url": "/wiki/sources/zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？ [lmzdh_RRfadZszYeTXgG-ROU24xe].md",
+          "key": "zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url": "/wiki/concepts/reputationconstrainedwarrestraint/"
     },
     "ReputationListPersecutionTarget": {
@@ -37415,9 +37464,9 @@
       "url": "/wiki/entities/southernocean/"
     },
     "SouthernXiongnu": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
@@ -37551,6 +37600,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》737丨皇后谥号制度第一人，刘秀老婆不简单！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？ [lmzdh_RRfadZszYeTXgG-ROU24xe].md",
+          "key": "zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe/"
         }
       ],
       "updated": "2026-08-31",

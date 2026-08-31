@@ -23,16 +23,19 @@ sources:
   - zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco
   - zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi
   - zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2
+  - zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe
 last_updated: 2026-08-31
 ---
 
 ## Overview
 
-南匈奴 / Southern Xiongnu is the frontier polity whose current wiki profile now begins in 65 CE, when [[XuguDuhouSouthernXiongnu|Xugu Duhou]] resents Han contact with [[NorthernXiongnuLateHan|Northern Xiongnu]], seeks northern help, and helps trigger [[DuliaoCampEasternHan|Duliaoying]]. Later layers preserve the 77 CE allied attack and famine relief, the 85 CE chanyu succession and restitution dispute, the 88 CE request to use Northern Xiongnu famine and disorder as an offensive opening, the older Han commitment used in the Yu Chu recognition dispute, the An Guo-Shizi crisis, the Fenghou rebellion, surrender notices, the Wusi-Che Niu revolt, the Che'er dispute, and the Huzheng, Qiangqu, Yufuluo, Qubei, and Huchuquan branches.
+南匈奴 / Southern Xiongnu is the frontier polity whose current wiki profile now begins in 50-51 CE, when [[LiuXiu|光武帝刘秀]] turns chanyu submission into a protected settlement through edict ritual, hostage rotation, gifts, grain, livestock, guard forces, patrol duties, and support for returning border residents. Later layers preserve the 65 CE [[XuguDuhouSouthernXiongnu|Xugu Duhou]] collusion-risk and [[DuliaoCampEasternHan|Duliaoying]] layer, the 77 CE allied attack and famine relief, the 85 CE succession and restitution dispute, the 88 CE offensive request, the older Han commitment used in the Yu Chu recognition dispute, the An Guo-Shizi crisis, the Fenghou rebellion, surrender notices, the Wusi-Che Niu revolt, the Che'er dispute, and the Huzheng, Qiangqu, Yufuluo, Qubei, and Huchuquan branches.
 
 ## Current Profile
 
-Hanji 737 supplies the earliest current layer. Han-Northern Xiongnu envoy contact unsettles Xugu Duhou, who secretly seeks Northern Xiongnu help and plans rebellion. [[ZhengZhongFrontierEasternHan|Zheng Zhong]] catches his messenger, and the court creates Duliaoying at Wuyuan to prevent Southern/Northern Xiongnu collusion. Southern Xiongnu therefore first appears here as a submitted frontier relationship vulnerable to rival-contact signals and requiring institutional containment.
+Hanji 727 supplies the earliest current layer. Han envoys establish the Southern Xiongnu royal court beyond the Wuyuan frontier, require the chanyu to kneel for the edict, and receive his acknowledgment as a subject. The submission is not only ritual subordination: Han receives hostage sons at court, rotates them yearly, grants regalia and goods, supplies grain and livestock, stations forces to guard the chanyu, moves him to Meiji after Northern Xiongnu pressure, and makes Southern Xiongnu kings help patrol major border commanderies. This layer makes Southern Xiongnu a protected client arrangement before it becomes a later collusion and succession problem.
+
+Hanji 737 supplies the next current layer. Han-Northern Xiongnu envoy contact unsettles Xugu Duhou, who secretly seeks Northern Xiongnu help and plans rebellion. [[ZhengZhongFrontierEasternHan|Zheng Zhong]] catches his messenger, and the court creates Duliaoying at Wuyuan to prevent Southern/Northern Xiongnu collusion. Southern Xiongnu therefore appears here as a submitted frontier relationship vulnerable to rival-contact signals and requiring institutional containment.
 
 Hanji 747 supplies the next layer. Southern Xiongnu remnants, Han border commandery soldiers, and Wuhuan jointly attack Northern Xiongnu's Gao Lin Wenyu Du king at Zhuoye Mountain and defeat him. The same source says Southern Xiongnu then suffers famine, and [[EmperorZhangOfHan|Zhangdi]] supplies grain. Southern Xiongnu therefore also appears as both useful frontier partner and relief-dependent submitted polity.
 
@@ -61,7 +64,7 @@ The later notes preserve Southern Xiongnu utility in emperor-escort and successi
 ## Key Characteristics
 
 - Frontier polity whose Han-facing order depends on chanyu legitimacy, submission terms, relief, accurate reporting, restitution, and the credibility of court recognition.
-- Earliest current layer is now the 65 CE Xugu Duhou collusion-risk branch and Duliaoying creation before the 77 CE allied attack and famine-relief notice.
+- Earliest current layer is now the 50-51 CE Guangwu settlement: ritual submission, hostage rotation, provisioning, guard forces, patrol service, and border-return support before the 65 CE Xugu Duhou collusion-risk branch.
 - Partner and threat at the same time: Southern Xiongnu actors appear as submitted rulers, captors of transferred Han people, requisitioned auxiliaries, rebels, hostages, and campaign participants.
 - Recurrent succession field where Han commanders and court decisions can stabilize, override, or destabilize internal leadership.
 - Vulnerable to requisition, supply pressure, misinformation, complaint-channel capture, and unauthorized intervention by Han frontier commanders.
@@ -70,7 +73,10 @@ The later notes preserve Southern Xiongnu utility in emperor-escort and successi
 
 ## Evidence
 
-- Earliest collusion-risk branch: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Xugu Duhou resents Han-Northern contact, seeks Northern Xiongnu help, and plans rebellion.
+- Initial submission and hierarchy: [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]] says the Southern Xiongnu chanyu kneels to receive the Han edict, calls himself a subject, and asks not to be made to lose dignity before his ministers again.
+- Protected client settlement: [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]] records hostage rotation, cap and belt, vehicles, horses, gold, silk, weapons, daily goods, grain, livestock, guard forces, and the move to Meiji after northern pressure.
+- Patrol and border-return role: [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]] says Southern Xiongnu regional kings help patrol and reconnoiter frontier commanderies while Han repairs walls and supports displaced border residents returning.
+- Later collusion-risk branch: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Xugu Duhou resents Han-Northern contact, seeks Northern Xiongnu help, and plans rebellion.
 - Duliaoying creation: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Zheng Zhong captures the messenger and Han establishes Duliaoying at Wuyuan to block Southern/Northern Xiongnu collusion.
 - Earliest allied attack: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says Southern Xiongnu remnants, Han border commandery soldiers, and Wuhuan defeat Northern Xiongnu at Zhuoye Mountain.
 - Famine relief: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says Southern Xiongnu suffers famine and Zhangdi supplies grain.
@@ -94,21 +100,25 @@ The later notes preserve Southern Xiongnu utility in emperor-escort and successi
 
 ## Qualifications
 
-This page remains bounded to the listed source notes and does not reconstruct a full Southern Xiongnu history. Hanji 737 gives the earliest current collusion-risk and Duliaoying notice; Hanji 747 gives the allied-attack and famine-relief notice; Hanji 755 gives the next attack, restitution, and succession layer; Hanji 759 gives the later attack-request and northern-return risk layer; Hanji 765 gives the next commitment-and-credibility layer; Hanji 768 gives the An Guo-Shizi prehistory; Hanji 769 gives the next succession rebellion, Deng Hong campaign, and false-report aftermath. Hanji 737, Hanji 747, Hanji 755, Hanji 784, Hanji 820, Hanji 769, Hanji 768, Hanji 765, and Hanji 759 appear late in the frontmatter evidence list because the list preserves source-ingest order, not chronology. Hanji 903's succession notice stays at group level because the source does not resolve its named-chanyu identity against the later Huzheng-Qiangqu-Yufuluo branch.
+This page remains bounded to the listed source notes and does not reconstruct a full Southern Xiongnu history. Hanji 727 gives the earliest current submission, hostage, protection, provisioning, patrol, and border-return layer; Hanji 737 gives the later collusion-risk and Duliaoying notice; Hanji 747 gives the allied-attack and famine-relief notice; Hanji 755 gives the next attack, restitution, and succession layer; Hanji 759 gives the later attack-request and northern-return risk layer; Hanji 765 gives the next commitment-and-credibility layer; Hanji 768 gives the An Guo-Shizi prehistory; Hanji 769 gives the next succession rebellion, Deng Hong campaign, and false-report aftermath. Hanji 727, Hanji 737, Hanji 747, Hanji 755, Hanji 784, Hanji 820, Hanji 769, Hanji 768, Hanji 765, and Hanji 759 appear late in the frontmatter evidence list because the list preserves source-ingest order, not chronology. Hanji 903's succession notice stays at group level because the source does not resolve its named-chanyu identity against the later Huzheng-Qiangqu-Yufuluo branch.
 
 ## What Changed
 
-- Added Hanji 737 as the earliest current layer: Xugu Duhou's Northern Xiongnu contact attempt and Duliaoying creation.
-- Reframed Hanji 747 as the next layer: 77 CE allied attack on Northern Xiongnu and famine relief from Zhangdi.
-- Kept Hanji 755 as the following layer where allied battlefield success becomes a Han credibility problem before later offensive opportunity, recognition, jealousy, succession, reporting, surrender, and requisition layers.
+- Added Hanji 727 as the earliest current layer: Guangwu-era submission, hostage rotation, provisioning, protection, patrol duties, and border-return support.
+- Reframed Hanji 737 as a later credibility and institutional-containment layer after the initial protected settlement.
+- Reframed Hanji 747 and Hanji 755 as later allied attack, famine relief, restitution, and succession layers.
 - Preserved the Hanji 768 An Guo-Shizi jealousy crisis and Du Chong/Zhu Hui complaint-channel escalation as the next major chronological layer.
 - Preserved the later Hanji 784, Hanji 820, Hanji 844, and Huzheng-Qiangqu-Yufuluo branches.
 
 ## Relationships
 
 - [[Xiongnu|Xiongnu]] - broader frontier people page.
+- [[LiuXiu|光武帝刘秀]] - ruler who turns Southern Xiongnu submission into a guarded and provisioned frontier settlement.
 - [[NorthernXiongnuLateHan|北匈奴]] - rival Xiongnu field whose weakness, restitution, claimant politics, and collapse pressure Southern Xiongnu commitments.
-- [[XuguDuhouSouthernXiongnu|虚骨都侯]] - earliest current Southern Xiongnu actor whose attempted northern contact triggers containment.
+- [[FrontierTrustThroughProtection|保护换信任式边疆安抚]] - concept explaining how protection, supplies, hostages, and patrol roles make submission usable.
+- [[FrontierCommanderyRestoration|边郡恢复治理]] - related restoration pattern because Southern Xiongnu settlement helps reopen border commanderies.
+- [[ReputationConstrainedWarRestraint|名声约束下的战争节制]] - related because Liu Xiu refuses remote attack partly to preserve domestic recovery after settlement.
+- [[XuguDuhouSouthernXiongnu|虚骨都侯]] - later Southern Xiongnu actor whose attempted northern contact triggers containment.
 - [[ZhengZhongFrontierEasternHan|郑众]] - Han envoy who captures the messenger and reports the collusion risk.
 - [[DuliaoCampEasternHan|都辽营]] - institution created to prevent Southern/Northern Xiongnu collusion.
 - [[YiwuGarrisonLateHan|伊吾屯田]] - adjacent Hanji 747 frontier position whose withdrawal helps Northern Xiongnu regain ground.

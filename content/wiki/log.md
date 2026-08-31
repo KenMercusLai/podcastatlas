@@ -14071,6 +14071,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | 《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？
+
+Ingested the 2026-06-23 芮淇讲透资治通鉴 episode on Liu Xiu's 50-51 CE late-Guangwu frontier order: Southern Xiongnu submission, kneeling edict ritual, hostage rotation, material gifts, grain and livestock support, guard forces, border-commandery return and wall repair, Northern Xiongnu heqin refusal, and Liu Xiu's rejection of Zhang Gong and Ma Wu's remote-attack proposal. Created the source note; updated `LiuXiu`, `SouthernXiongnu`, `NorthernXiongnuLateHan`, `FrontierTrustThroughProtection`, `FrontierCommanderyRestoration`, `FrontierRecognitionCredibilityTradeoff`, `FrugalImperialBurialRestraint`, and `ReputationConstrainedWarRestraint`. No settled contradiction found; minor officials, exact office changes, and several chanyu-branch details remain source-scoped.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？
 
 Ingested the 2026-06-24 芮淇讲透资治通鉴 episode on late Guangwu omens, Jia Fu's quiet military merit, Fifth Lun's early Chang'an-market and court-test profile, and Liu Xiu's chenwei-triggered Taishan fengshan. Created the source note plus `JiaFuEasternHan`; updated `FifthLunEasternHan`, `LiuXiu`, `Taishan`, `FengshanRitualLegitimacy`, `ChenweiPolitics`, and `ProphecyTriggeredPolicy`. No settled contradiction found; the "Fifth" compound-surname origin remains bounded to later Hanji 744 evidence, and detailed fengshan materials remain source-scoped.
@@ -14331,6 +14335,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？
 
 Ingested the 2026-06-24 芮淇讲透资治通鉴 episode on Ban Biao and late Guangwu statecraft: Northern Xiongnu tribute, heqin, music, and Western Regions requests; the Ban Biao fear and weakness diagnosis with calibrated reply; Liu Xiu adoption of the memorial; and the 54 CE refusal of Taishan fengshan before the later chenwei-backed ceremony. Created `BanBiaoEasternHan`; updated `LiuXiu`, `NorthernXiongnuLateHan`, `Taishan`, `FengshanRitualLegitimacy`, and `FrontierRecognitionCredibilityTradeoff`. No settled contradiction found; the 54 CE refusal and 56 CE ceremony are treated as a changed-condition sequence.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 
