@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "cb7533d2eeb61dc89d23b9341cd2300e767ad786074dbb847f3a4008b163b152",
       "4183d42d43a1966dec7c5bbfac09d4f2c3e8f656b0f96ec851796a20d5414bb1",
       "6f2decc50f7143e8a05bbc59ab1703f6672738ba27e09393ae0525b668e75826",
       "695b0bc2e7c51de7019a3589fe1de1fbccb3bf9c6f5b40a7c2fb9492430cb145",
@@ -455,11 +456,48 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 453
+    "paragraph_count": 454
   },
-  "overview_commit": "8f01d2a996a75c02e46d8c135a9e76edf22a3c05",
-  "overview_digest": "727117f8b11d3356310cbdac72bf4914d7fe18a9b057531a09d7e44f4f393586",
+  "overview_commit": "1842c82a93a5f3b1d553cfd3dacb89fbb07917ab",
+  "overview_digest": "e0dd60d9981c7918f8e2ebc10956ecbb85f23cf28a091c56bdaf47fb175b45fc",
   "paragraphs": [
+    {
+      "id": "cb7533d2eeb61dc89d23b9341cd2300e767ad786074dbb847f3a4008b163b152",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1|146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?]], a [[FengTouQuan]] episode with [[KateAHA|Kate]] of [[AHACreator|AHA Creator]] on overseas creator marketing for globalizing brands. It adds [[AHACreator]], [[KateAHA]], [[AIDrivenCreatorMarketing]], [[OverseasCreatorMarketingPlatform]], and [[TrafficArbitrageToBrandBuilding]], while extending [[TikTok]], [[Instagram]], [[YouTube]], [[Douyin]], [[Xiaohongshu]], [[Amazon]], [[DJI]], [[CreatorTrustAdvertising]], [[AutomatedPerformanceMarketing]], [[AIMarketingDecisioning]], [[AIAgentOverseasCommercialization]], [[AIApplicationLayerMoat]], [[ChineseConsumerBrandSoftPower]], [[GlobalProductLocalization]], and [[ConsumerBrandMoat]]. Its core synthesis is that AI can industrialize the messy execution layer of creator marketing: matching creators to products, handling multilingual outreach, reviewing brief compliance, detecting suspicious engagement, and reporting progress, but brand strategy, trust, price norms, contract disputes, and final judgment remain human and institutional work. No settled contradiction is recorded; AHA Creator's customer counts, creator counts, CPC/ROI examples, anti-fraud rate, and two-day order-fill claim remain founder-reported and source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 5,
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1",
+        "AHACreator",
+        "AIAgentOverseasCommercialization",
+        "AIApplicationLayerMoat",
+        "AIDrivenCreatorMarketing",
+        "AIMarketingDecisioning",
+        "Amazon",
+        "AutomatedPerformanceMarketing",
+        "ChineseConsumerBrandSoftPower",
+        "ConsumerBrandMoat",
+        "CreatorTrustAdvertising",
+        "DJI",
+        "Douyin",
+        "FengTouQuan",
+        "GlobalProductLocalization",
+        "Instagram",
+        "KateAHA",
+        "OverseasCreatorMarketingPlatform",
+        "TikTok",
+        "TrafficArbitrageToBrandBuilding",
+        "Xiaohongshu",
+        "YouTube"
+      ]
+    },
     {
       "id": "4183d42d43a1966dec7c5bbfac09d4f2c3e8f656b0f96ec851796a20d5414bb1",
       "primary_topic": "ai-and-technology",

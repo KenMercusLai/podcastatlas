@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6149
+wiki_total_pages: 6152
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "TradingCompanyInvestmentModel"
     title: "Trading Company Investment Model"
     url: "/wiki/concepts/tradingcompanyinvestmentmodel/"
+  - key: "TrafficArbitrageToBrandBuilding"
+    title: "Traffic Arbitrage to Brand Building"
+    url: "/wiki/concepts/trafficarbitragetobrandbuilding/"
   - key: "TragedyOfTheCommons"
     title: "Tragedy of the Commons"
     url: "/wiki/concepts/tragedyofthecommons/"

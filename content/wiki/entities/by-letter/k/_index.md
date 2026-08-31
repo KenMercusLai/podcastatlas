@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 8631
+wiki_total_pages: 8633
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "KashmirHill"
     title: "Kashmir Hill"
     url: "/wiki/entities/kashmirhill/"
+  - key: "KateAHA"
+    title: "Kate (AHA Creator)"
+    url: "/wiki/entities/kateaha/"
   - key: "KateAdamalla"
     title: "Kate Adamalla"
     url: "/wiki/entities/kateadamalla/"

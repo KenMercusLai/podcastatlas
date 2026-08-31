@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?](sources/146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1.md) — 疯投圈 episode with Kate of AHA Creator on AI-enabled overseas creator marketing, the shift from traffic buying to brand building, and why third-party creator workflow platforms may have room outside domestic-style closed loops.
 - [Episode 21: 抗压、应变与终生动力：CZ 的人事和天命](sources/kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7.md) — Fuyou Tiandi episode with CZ on Binance hindsight, founder pressure tolerance, proactive team management, blockchain consensus, payment adoption gaps, RWA, stablecoins, and education-driven motivation.
 - [ICE is collecting DNA from detainees for future policing](sources/tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128.md) — Marketplace Tech episode with Stevie Gleiberson on DHS and ICE DNA collection, CODIS retention, child-sampling concerns, familial genetic exposure, Maryland v. King, and Briggs v. Mullen.
 - [How to Accelerate Learning & Improve Education | Joe Liemandt](sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815.md) — Huberman Lab episode with Joe Liemandt on Alpha School, AI tutors, mastery learning, prerequisite repair, motivation architecture, human guides, builder afternoons, and source-scoped performance and scaling claims.
@@ -1809,6 +1810,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [AHA Creator](entities/AHACreator.md) — AI-enabled overseas creator marketing platform described by founder Kate as a two-sided workflow layer for creator matching, outreach, review, anti-fraud, and reporting.
+- [Kate (AHA Creator)](entities/KateAHA.md) — AHA Creator founder interviewed by 疯投圈 on AI-enabled overseas creator marketing and the boundary between automation, strategy, and trust.
 - [Stevie Gleiberson](entities/StevieGleiberson.md) — Georgetown Law Center on Privacy and Technology speaker explaining DHS/ICE DNA collection, CODIS retention, and constitutional concerns.
 - [Georgetown Law Center on Privacy and Technology](entities/GeorgetownLawCenterOnPrivacyTechnology.md) — Research and legal-analysis source for the Marketplace Tech DHS/ICE DNA collection episode.
 - [Federal Bureau of Investigation](entities/FederalBureauOfInvestigation.md) — FBI-linked CODIS institution receiving the DNA database branch in the DHS/ICE episode.
@@ -10444,6 +10447,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI-Driven Creator Marketing](concepts/AIDrivenCreatorMarketing.md) — Use of large models and agent-like workflows to scale creator discovery, matching, multilingual outreach, review, and anti-fraud while preserving human strategy and trust boundaries.
+- [Overseas Creator Marketing Platform](concepts/OverseasCreatorMarketingPlatform.md) — Third-party marketplace and workflow layer for sponsored creator collaborations outside a single domestic-style closed advertising loop.
+- [Traffic Arbitrage to Brand Building](concepts/TrafficArbitrageToBrandBuilding.md) — Shift from cheap paid traffic, keyword bidding, and SKU sprawl toward consumer memory, trust, content presence, and differentiated brand meaning.
 - [Maryland v. King](concepts/MarylandVKing.md) — Supreme Court DNA-collection precedent used as the contrast case for DHS/ICE detainee DNA collection.
 - [Briggs v. Mullen](concepts/BriggsVMullen.md) — Early legal challenge over DHS agents taking DNA from U.S. citizen protesters during Operation Midway Blitz.
 - [Immigration DNA Database Expansion](concepts/ImmigrationDNADatabaseExpansion.md) — Pattern where immigration or federal detention becomes an intake route into criminal DNA databases.

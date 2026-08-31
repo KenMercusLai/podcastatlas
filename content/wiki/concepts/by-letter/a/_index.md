@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6149
+wiki_total_pages: 6152
 wiki_pages:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1181,6 +1181,9 @@ wiki_pages:
   - key: "AICompressedInvestmentResearchAdvantage"
     title: "AI-Compressed Investment Research Advantage"
     url: "/wiki/concepts/aicompressedinvestmentresearchadvantage/"
+  - key: "AIDrivenCreatorMarketing"
+    title: "AI-Driven Creator Marketing"
+    url: "/wiki/concepts/aidrivencreatormarketing/"
   - key: "AIEnabledLoanDocumentAnalysis"
     title: "AI-Enabled Loan Document Analysis"
     url: "/wiki/concepts/aienabledloandocumentanalysis/"

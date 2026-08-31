@@ -14079,6 +14079,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | 146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?
+
+Ingested the 2026-08-31 疯投圈 episode with Kate of AHA Creator on overseas creator marketing, the decline of traffic-buying and SKU-sprawl arbitrage, AI-assisted creator matching and outreach, multilingual content review, anti-fraud, pricing transparency, and the human boundary around strategy, trust, contracts, and campaign review. Created `AHACreator`, `KateAHA`, `AIDrivenCreatorMarketing`, `OverseasCreatorMarketingPlatform`, and `TrafficArbitrageToBrandBuilding`; migrated and updated `FengTouQuan`. No settled contradiction found; AHA Creator's customer counts, creator counts, CPC/ROI examples, anti-fraud rates, and order-fill speed remain founder-reported and source-scoped.
+
 ## [2026-08-31] ingest | How to Accelerate Learning & Improve Education | Joe Liemandt
 
 Ingested the 2026-08-31 Huberman Lab episode with Joe Liemandt on Alpha School, two-hour individualized academics, AI-supported mastery learning, prerequisite repair, motivation architecture, human guides, builder afternoons, Founder School, GT Squared, voucher demand, and planned MIT Blueprint Labs evaluation. Created `JoeLiemandt`, `DavidYeager`, `MITBlueprintLabs`, `FounderSchool`, `GTSquared`, `AIMasteryLearningModel`, `EducationMotivationArchitecture`, `BuilderBasedSchoolDay`, and `WorkingMemoryLearningBottleneck`; updated `AlphaSchool`, `HubermanLab`, `AndrewHuberman`, `AIAsTutor`, `HumanCenteredAIEducation`, `RemedialEducationTargeting`, `DesirableDifficulty`, overview, and index. No settled contradiction found; the Joe Liemandt/Joe LeMont source-local name mismatch and Alpha's performance, SAT, learning-rate, voucher, guarantee, scale, and lower-cost-school claims remain source-scoped pending independent validation.
@@ -14443,6 +14447,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] ingest | Episode 21: 抗压、应变与终生动力：CZ 的人事和天命
 
 Ingested the 2026-08-31 蜉蝣天地 episode with Changpeng Zhao / CZ on Binance regulatory hindsight, founder pressure handling, proactive team expectations, blockchain consensus, payment-adoption limits, RWA, stablecoins, and post-success education motivation. Created `Binance`, `BlockchainConsensus`, and `FounderPressureCompartmentalization`; migrated and updated `ChangpengZhao`, `FuyouTiandi`, `FounderResilience`, `FounderDelegationDiscipline`, `FounderMotivationEvolution`, `RegulatedCryptoTrustStrategy`, `CryptoPaymentPracticalityGap`, `RealWorldAssetTokenizationRisk`, and `BlockchainFinancialInnovation`. No settled contradiction found; the education platform remains unnamed in the source, and CZ's Binance legal/regulatory claims remain participant-retrospective evidence rather than a complete adversarial record.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-31] lint | Wiki health check
 

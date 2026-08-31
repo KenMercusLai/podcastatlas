@@ -4,15 +4,15 @@ generated: true
 topic_id: business-and-markets
 title: "Business and Markets"
 last_updated: 2026-08-31
-as_of_overview_commit: 650752191909292fcd636aff67c40e147419247b
-input_digest: b82d555743de37e19cea46fbd58a92e8a3f9e2f4b2552b3e0d08dcd61864d7f5
+as_of_overview_commit: 1842c82a93a5f3b1d553cfd3dacb89fbb07917ab
+input_digest: d03ec57b23e531aece8ff0cb7934b3f34cd26e68be0df71e1430056869325ddb
 ---
 
 # Business and Markets
 
 ## Current State
 
-The Late July Snacks episode adds a mission-led CPG proof branch: organic values and retail access only scale when taste, category velocity, margin, and channel fit work together; the financial-disclosure, airline-meal, GLM/Micron, Evergrande, lending, AI-post-training, SaaS, consumer-brand, retail, biotech, governance, and market sources otherwise keep showing that business value survives only when demand, trust, distribution, payment proof, operating capacity, and risk discipline are visible.
+The AHA Creator/FengTouQuan episode adds an overseas creator marketing branch: as paid-traffic and SKU-sprawl arbitrage weaken, AI can scale creator matching, multilingual outreach, review, and anti-fraud, but brand strategy, trust, pricing, contracts, platform rules, and source-scoped performance proof decide whether the channel creates durable value; the financial-disclosure, airline-meal, GLM/Micron, Evergrande, lending, AI-post-training, SaaS, consumer-brand, retail, biotech, governance, and market sources otherwise keep showing that business value survives only when demand, trust, distribution, payment proof, operating capacity, and risk discipline are visible.
 
 ## Cross-source Findings
 
@@ -521,3 +521,15 @@ AI-market confidence spans [[Meta]] settlement exposure and teen-safety defaults
 
 - The probabilities and market levels are June 29, 2026 source-dated snapshots rather than current forecasts or trading advice.
 - The source's business-and-markets relevance is event-market information quality, not a recommendation to trade election contracts.
+
+### Creator Marketing Needs Ai Scale And Brand Trust
+
+[[146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1]] adds that overseas growth is moving from [[TrafficArbitrageToBrandBuilding]] toward [[AIDrivenCreatorMarketing]]: [[AHACreator]] uses AI to scale creator matching, multilingual outreach, review, and anti-fraud across [[TikTok]], [[Instagram]], and [[YouTube]], but [[OverseasCreatorMarketingPlatform]] value still depends on brand strategy, creator trust, pricing transparency, contract and dispute governance, and source-scoped performance proof.
+
+**Evidence:** [[146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1]], [[TrafficArbitrageToBrandBuilding]], [[AIDrivenCreatorMarketing]], [[AHACreator]], [[KateAHA]], [[OverseasCreatorMarketingPlatform]], [[TikTok]], [[Instagram]], [[YouTube]], [[Douyin]], [[Xiaohongshu]], [[CreatorTrustAdvertising]], [[AutomatedPerformanceMarketing]], [[AIMarketingDecisioning]], [[AIApplicationLayerMoat]], [[ChineseConsumerBrandSoftPower]], [[ConsumerBrandMoat]]
+
+**Qualifications:**
+
+- AHA Creator customer counts, creator counts, CPC/ROI examples, anti-fraud rates, and order-fill timelines are founder-reported in a promotional podcast context rather than independently audited benchmarks.
+- Creator marketing is not treated as a pure performance-ad replacement; product quality, website conversion, category fit, attribution, brief quality, and brand positioning still determine whether scaled outreach creates value.
+- The overseas platform-opening thesis may narrow if TikTok, Instagram, YouTube, or other native platforms improve creator marketplaces, change rules, acquire workflow providers, or win creator acceptance for tighter closed loops.

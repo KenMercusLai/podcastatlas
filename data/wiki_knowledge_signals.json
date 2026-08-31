@@ -171,6 +171,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/adhdselfdiagnosisboundary/"
     },
+    "AHACreator": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "146. 对买量和铺货说bye-bye，AI如何驱动出海品牌增长？ ｜ 疯投圈 (1) [146-1].md",
+          "key": "146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1",
+          "show": "疯投圈",
+          "title": "146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?",
+          "url": "/wiki/sources/146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/ahacreator/"
+    },
     "AIAccessToJustice": {
       "episode_count": 3,
       "show_count": 3,
@@ -942,6 +958,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/aidatareadiness/"
+    },
+    "AIDrivenCreatorMarketing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "146. 对买量和铺货说bye-bye，AI如何驱动出海品牌增长？ ｜ 疯投圈 (1) [146-1].md",
+          "key": "146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1",
+          "show": "疯投圈",
+          "title": "146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?",
+          "url": "/wiki/sources/146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/aidrivencreatormarketing/"
     },
     "AIEmpireSovereigntyRisk": {
       "episode_count": 1,
@@ -15070,6 +15102,92 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/fengshilatehan/"
     },
+    "FengTouQuan": {
+      "episode_count": 11,
+      "show_count": 1,
+      "source_note_count": 11,
+      "sources": [
+        {
+          "episode_file": "132. 🍦雪糕江湖 ｜ 疯投圈 (1) [132-1].md",
+          "key": "132-xuegao-jianghu-fengtouquan-1-132-1",
+          "show": "疯投圈",
+          "title": "132. 雪糕江湖",
+          "url": "/wiki/sources/132-xuegao-jianghu-fengtouquan-1-132-1/"
+        },
+        {
+          "episode_file": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费 ｜ 疯投圈 (1) [137-1].md",
+          "key": "137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1",
+          "show": "疯投圈",
+          "title": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费",
+          "url": "/wiki/sources/137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1/"
+        },
+        {
+          "episode_file": "138. 👟昂跑中国重直营、🦍超级猩猩不办卡 ｜ 疯投圈 (1) [138-1].md",
+          "key": "138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1",
+          "show": "疯投圈",
+          "title": "138. 昂跑中国重直营、超级猩猩不办卡",
+          "url": "/wiki/sources/138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1/"
+        },
+        {
+          "episode_file": "139. 泡泡玛特和拼多多值得投资么？ ｜ 疯投圈 (1) [139-1].md",
+          "key": "139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1",
+          "show": "疯投圈",
+          "title": "139. 泡泡玛特和拼多多值得投资么？",
+          "url": "/wiki/sources/139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1/"
+        },
+        {
+          "episode_file": "140. 大疆还能低空飞多久？ ｜ 疯投圈 (1) [140-1].md",
+          "key": "140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1",
+          "show": "疯投圈",
+          "title": "140. 大疆还能低空飞多久？",
+          "url": "/wiki/sources/140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1/"
+        },
+        {
+          "episode_file": "141. ☕️咖啡战争2026：机构化与本土化 ｜ 疯投圈 (1) [141-1].md",
+          "key": "141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1",
+          "show": "疯投圈",
+          "title": "141. 咖啡战争2026：机构化与本土化",
+          "url": "/wiki/sources/141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1/"
+        },
+        {
+          "episode_file": "142. 产品体验学日本、全球营销学韩国 ｜ 疯投圈 (1) [142-1].md",
+          "key": "142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1",
+          "show": "疯投圈",
+          "title": "142. 产品体验学日本、全球营销学韩国",
+          "url": "/wiki/sources/142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1/"
+        },
+        {
+          "episode_file": "143. 🚗「蔚小理」的高端探索 ｜ 疯投圈 (1) [143-1].md",
+          "key": "143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1",
+          "show": "疯投圈",
+          "title": "143. 「蔚小理」的高端探索",
+          "url": "/wiki/sources/143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1/"
+        },
+        {
+          "episode_file": "144. 国货出海新趋势：山下有松、观夏、PANE ｜ 疯投圈 (1) [144-1].md",
+          "key": "144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1",
+          "show": "疯投圈",
+          "title": "144 ✪ 国货出海新趋势：山下有松、观夏、PANE",
+          "url": "/wiki/sources/144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1/"
+        },
+        {
+          "episode_file": "145. 改嫁中资的餐饮洋品牌 ｜ 疯投圈 (1) [145-1].md",
+          "key": "145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1",
+          "show": "疯投圈",
+          "title": "145. 改嫁中资的餐饮洋品牌",
+          "url": "/wiki/sources/145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1/"
+        },
+        {
+          "episode_file": "146. 对买量和铺货说bye-bye，AI如何驱动出海品牌增长？ ｜ 疯投圈 (1) [146-1].md",
+          "key": "146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1",
+          "show": "疯投圈",
+          "title": "146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?",
+          "url": "/wiki/sources/146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/fengtouquan/"
+    },
     "FengshanRitualLegitimacy": {
       "episode_count": 3,
       "show_count": 1,
@@ -23362,6 +23480,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/karlludwigofaustria/"
+    },
+    "KateAHA": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "146. 对买量和铺货说bye-bye，AI如何驱动出海品牌增长？ ｜ 疯投圈 (1) [146-1].md",
+          "key": "146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1",
+          "show": "疯投圈",
+          "title": "146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?",
+          "url": "/wiki/sources/146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/entities/kateaha/"
     },
     "KenCato": {
       "episode_count": 1,
@@ -32544,6 +32678,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/overextendedfrontierexpedition/"
+    },
+    "OverseasCreatorMarketingPlatform": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "146. 对买量和铺货说bye-bye，AI如何驱动出海品牌增长？ ｜ 疯投圈 (1) [146-1].md",
+          "key": "146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1",
+          "show": "疯投圈",
+          "title": "146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?",
+          "url": "/wiki/sources/146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/overseascreatormarketingplatform/"
     },
     "PCOSCardiometabolicRisk": {
       "episode_count": 1,
@@ -42735,6 +42885,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/toydesignhumancreativityboundary/"
+    },
+    "TrafficArbitrageToBrandBuilding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "146. 对买量和铺货说bye-bye，AI如何驱动出海品牌增长？ ｜ 疯投圈 (1) [146-1].md",
+          "key": "146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1",
+          "show": "疯投圈",
+          "title": "146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?",
+          "url": "/wiki/sources/146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1/"
+        }
+      ],
+      "updated": "2026-08-31",
+      "url": "/wiki/concepts/trafficarbitragetobrandbuilding/"
     },
     "TransEurasianMigrationCascade": {
       "episode_count": 2,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6149
+wiki_total_pages: 6152
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "OverseasChineseMutualAidNetworks"
     title: "Overseas Chinese Mutual Aid Networks"
     url: "/wiki/concepts/overseaschinesemutualaidnetworks/"
+  - key: "OverseasCreatorMarketingPlatform"
+    title: "Overseas Creator Marketing Platform"
+    url: "/wiki/concepts/overseascreatormarketingplatform/"
   - key: "OverseasIdentityReset"
     title: "Overseas Identity Reset"
     url: "/wiki/concepts/overseasidentityreset/"
