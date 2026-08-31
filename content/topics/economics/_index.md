@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1898
+topic_total_pages: 1899
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -733,6 +733,9 @@ topic_concepts:
   - key: "DataBackedLaborBargaining"
     title: "Data-Backed Labor Bargaining"
     url: "/wiki/concepts/databackedlaborbargaining/"
+  - key: "DatingAppMarketplaceDynamics"
+    title: "Dating-App Marketplace Dynamics"
+    url: "/wiki/concepts/datingappmarketplacedynamics/"
   - key: "DCFValuationAsNarrative"
     title: "DCF Valuation as Narrative / DCF作为叙事"
     url: "/wiki/concepts/dcfvaluationasnarrative/"

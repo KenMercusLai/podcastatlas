@@ -3,16 +3,16 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-08-31
-as_of_overview_commit: 091331b9022de4cc029868061fb07b76a0ad5ebd
-input_digest: 1d06e606be63fc40f0591e34924448ca8a2a783c682f94068594faacb7cfa7f0
+last_updated: 2026-09-01
+as_of_overview_commit: 43731b6c1197d1a6033dfb929f362da355a7208e
+input_digest: ca72f03b020df8ee708c70ce9c416d0f0238d291659340672c7378e0cccc7606
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science-health-and-climate now joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: measurement, mechanism, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Recent health branches cover sugar-control literacy; functional-food and supplement-claim boundaries; flexible fundamentals for sleep, circadian timing, recovery, fertility, and nutrition; male and female hormone phenotyping; exercise-risk boundaries; diagnostic safety netting; spine rehabilitation; metabolic psychiatry; bipolar and OCD care; insect-bite prevention and escalation; individualized cancer vaccines; companion-animal welfare; historical death-cause inference for Liu Xiu; and evidence-bounded body-composition fundamentals. The nonclinical strands show the same pattern in space launch, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, and source-scoped medical or cultivation claims.
+The Eastwick Huberman Lab paragraph is science-health adjacent because it models relationship advice as evidence-bounded public science: app, attachment, sexuality, similarity, and support claims require context rather than universal protocols. Science-health-and-climate now joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: measurement, mechanism, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Recent health branches cover sugar-control literacy; functional-food and supplement-claim boundaries; flexible fundamentals for sleep, circadian timing, recovery, fertility, and nutrition; male and female hormone phenotyping; exercise-risk boundaries; diagnostic safety netting; spine rehabilitation; metabolic psychiatry; bipolar and OCD care; insect-bite prevention and escalation; individualized cancer vaccines; companion-animal welfare; historical death-cause inference for Liu Xiu; and evidence-bounded body-composition fundamentals. The nonclinical strands show the same pattern in space launch, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, and source-scoped medical or cultivation claims.
 
 ## Cross-source Findings
 
@@ -297,3 +297,15 @@ Science-and-health policy now adds a trust-and-productivity branch: [[NewGoldenA
 - The Hanji 732 material is historical source analysis, not modern clinical diagnosis or medical advice.
 - Dongguan Hanji symptom notices, Liu Xiu's workload, and Zizhi Tongjian's death notice suggest health vulnerability but do not prove a specific disease or immediate cause of death.
 - The succession material belongs more to court politics than health, so the science-health claim keeps it as context rather than a medical conclusion.
+
+### Relationship Science Needs Evidence And Context Boundaries
+
+The Eastwick paragraph extends Huberman Lab public-science boundaries into relationship science: [[PaulEastwick]] treats [[DatingAppMarketplaceDynamics]], [[IdiosyncraticAttraction]], [[PerceivedSimilarityInRelationships]], and [[SharedRelationshipNarrative]] as research-backed but source-scoped claims, not individualized dating, therapy, attachment, or sexual-health advice.
+
+**Evidence:** [[science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085]], [[HubermanLab]], [[AndrewHuberman]], [[PaulEastwick]], [[DatingAppMarketplaceDynamics]], [[IdiosyncraticAttraction]], [[PerceivedSimilarityInRelationships]], [[SharedRelationshipNarrative]], [[RelationshipNeedDiversification]]
+
+**Qualifications:**
+
+- The relationship-science assignment is weaker than the psychology assignment and comes from public-science framing in the paragraph.
+- App-swipe rates, age-preference data, income effects, attachment change, gendered support patterns, same-gender dating observations, and sexual-satisfaction claims remain source-scoped.
+- This does not convert the episode into medical, psychiatric, or individualized relationship guidance.

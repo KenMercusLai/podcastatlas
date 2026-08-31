@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ccaa9d71a4268a8e57a46db28481a0cbbb4a5f8f4b57c007ebfea2724b22d223",
       "e15a2a8259ba0972259fc9c58ce097754f2f82f65bf5441deb6db62645bba6d0",
       "48b3696f329c8657bad580665b70e494102a0425198c53c22aaaf95256c778f7",
       "32e05aaf45bf610d194405f328f0266ab3857d68cc9cc07658df7b3ce3f79881",
@@ -460,11 +461,40 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 458
+    "paragraph_count": 459
   },
-  "overview_commit": "56bed29bce844604266296d800630f2d0e803dd0",
-  "overview_digest": "63863d7a63c6fbd1cf5e93dfabdde88e6c030ccca4217c363c3b8f1f32bb55d0",
+  "overview_commit": "43731b6c1197d1a6033dfb929f362da355a7208e",
+  "overview_digest": "721c138ccf3702e3a3697f21d206c926ce12beb20eeb3e8d7777ab3a7bc880c2",
   "paragraphs": [
+    {
+      "id": "ccaa9d71a4268a8e57a46db28481a0cbbb4a5f8f4b57c007ebfea2724b22d223",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085|Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick]], a [[HubermanLab]] episode with [[AndrewHuberman]] and [[PaulEastwick]] on attraction, mate selection, dating apps, repeated social contact, perceived similarity, social support, and relationship maintenance. It adds [[PaulEastwick]], [[IdiosyncraticAttraction]], [[DatingAppMarketplaceDynamics]], [[RepeatedContactDating]], [[PerceivedSimilarityInRelationships]], and [[SharedRelationshipNarrative]], while extending [[HubermanLab]], [[AndrewHuberman]], [[SelfSimilarityInIntimacy]], [[RelationshipNeedDiversification]], [[ComplementaryRelationshipSupport]], [[FamiliarSpaceDating]], and [[SincerityAsRelationshipTrust]]. Its core synthesis is that marketplace ranking explains some app and first-impression contexts, but attraction often becomes pair-specific through repeated interaction, shared moments, social support, and perceived fit. No settled contradiction is recorded; app-swipe rates, age-preference data, income effects, gendered support patterns, same-gender dating observations, attachment-change claims, and sexual-satisfaction claims remain source-scoped.",
+      "topic_scores": {
+        "psychology-and-personal-development": 2,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "ComplementaryRelationshipSupport",
+        "DatingAppMarketplaceDynamics",
+        "FamiliarSpaceDating",
+        "HubermanLab",
+        "IdiosyncraticAttraction",
+        "PaulEastwick",
+        "PerceivedSimilarityInRelationships",
+        "RelationshipNeedDiversification",
+        "RepeatedContactDating",
+        "SelfSimilarityInIntimacy",
+        "SharedRelationshipNarrative",
+        "SincerityAsRelationshipTrust",
+        "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085"
+      ]
+    },
     {
       "id": "e15a2a8259ba0972259fc9c58ce097754f2f82f65bf5441deb6db62645bba6d0",
       "primary_topic": "governance-and-institutions",

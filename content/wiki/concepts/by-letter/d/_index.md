@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6167
+wiki_total_pages: 6172
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "DatabaseCloudServiceCommercialization"
     title: "Database Cloud Service Commercialization"
     url: "/wiki/concepts/databasecloudservicecommercialization/"
+  - key: "DatingAppMarketplaceDynamics"
+    title: "Dating-App Marketplace Dynamics"
+    url: "/wiki/concepts/datingappmarketplacedynamics/"
   - key: "DayZeroModelSupport"
     title: "Day-Zero Model Support"
     url: "/wiki/concepts/dayzeromodelsupport/"

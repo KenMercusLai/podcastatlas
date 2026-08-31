@@ -17261,6 +17261,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "DatingAppMarketplaceDynamics": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "DaveBaldwin": [
     {
       "key": "culture",
@@ -29925,6 +29937,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "IdiosyncraticAttraction": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "IfYouCanKeepIt": [
@@ -44716,6 +44735,13 @@
       "url": "/topics/science/"
     }
   ],
+  "PaulEastwick": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "PaulEkman": [
     {
       "key": "science",
@@ -45030,6 +45056,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "PerceivedSimilarityInRelationships": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "PercyShelley": [
@@ -49873,6 +49906,13 @@
       "url": "/topics/history/"
     }
   ],
+  "RepeatedContactDating": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ReplicationCrisis": [
     {
       "key": "science",
@@ -53187,6 +53227,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SharedRelationshipNarrative": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ShareholderPrimacy": [
@@ -70962,6 +71009,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d": [

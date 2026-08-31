@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6167
+wiki_total_pages: 6172
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "PerHeadMuon"
     title: "Per-Head Muon"
     url: "/wiki/concepts/perheadmuon/"
+  - key: "PerceivedSimilarityInRelationships"
+    title: "Perceived Similarity In Relationships"
+    url: "/wiki/concepts/perceivedsimilarityinrelationships/"
   - key: "PerfectionismAsAvoidance"
     title: "Perfectionism As Avoidance"
     url: "/wiki/concepts/perfectionismasavoidance/"

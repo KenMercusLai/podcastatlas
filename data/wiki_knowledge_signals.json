@@ -2754,9 +2754,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -2890,9 +2890,16 @@
           "show": "Huberman Lab",
           "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
           "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        },
+        {
+          "episode_file": "SCIM9984287085 [SCIM9984287085].md",
+          "key": "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085",
+          "show": "Huberman Lab",
+          "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
+          "url": "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrogenInterventionClinicalBoundary": {
@@ -9727,6 +9734,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/datateamasbusinesspartner/"
+    },
+    "DatingAppMarketplaceDynamics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9984287085 [SCIM9984287085].md",
+          "key": "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085",
+          "show": "Huberman Lab",
+          "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
+          "url": "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/datingappmarketplacedynamics/"
     },
     "DavidAnderson": {
       "episode_count": 1,
@@ -20958,9 +20981,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -21094,9 +21117,16 @@
           "show": "Huberman Lab",
           "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
           "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        },
+        {
+          "episode_file": "SCIM9984287085 [SCIM9984287085].md",
+          "key": "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085",
+          "show": "Huberman Lab",
+          "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
+          "url": "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url": "/wiki/entities/hubermanlab/"
     },
     "HuhanyeChanyuBi": {
@@ -21474,6 +21504,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/hyperscaledatacentermoratorium/"
+    },
+    "IdiosyncraticAttraction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9984287085 [SCIM9984287085].md",
+          "key": "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085",
+          "show": "Huberman Lab",
+          "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
+          "url": "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/idiosyncraticattraction/"
     },
     "IdoPortal": {
       "episode_count": 1,
@@ -33774,6 +33820,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/patronagelossselfprotection/"
     },
+    "PaulEastwick": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9984287085 [SCIM9984287085].md",
+          "key": "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085",
+          "show": "Huberman Lab",
+          "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
+          "url": "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/pauleastwick/"
+    },
     "PaulEkman": {
       "episode_count": 1,
       "show_count": 1,
@@ -33945,6 +34007,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/permulandtaxation/"
+    },
+    "PerceivedSimilarityInRelationships": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9984287085 [SCIM9984287085].md",
+          "key": "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085",
+          "show": "Huberman Lab",
+          "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
+          "url": "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/perceivedsimilarityinrelationships/"
     },
     "PerformanceLinkedAdSpendPricing": {
       "episode_count": 1,
@@ -36661,6 +36739,36 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/rejectedcounseldefectioncascade/"
     },
+    "RelationshipNeedDiversification": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP236 唠五块钱心里话，付费的陪伴是真的吗？ [ltVuoEluOEu4-a3j3lAmHc3Buudx].md",
+          "key": "ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx",
+          "show": "Talk三联",
+          "title": "EP236 唠五块钱心里话，付费的陪伴是真的吗？",
+          "url": "/wiki/sources/ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx/"
+        },
+        {
+          "episode_file": "串台.「你吃香菜吗」女生版：你愿意和性转之后的自己在一起吗？ [555771723].md",
+          "key": "chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723",
+          "show": "蜜獾吃书",
+          "title": "串台.「你吃香菜吗」女生版：你愿意和性转之后的自己在一起吗？",
+          "url": "/wiki/sources/chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723/"
+        },
+        {
+          "episode_file": "SCIM9984287085 [SCIM9984287085].md",
+          "key": "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085",
+          "show": "Huberman Lab",
+          "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
+          "url": "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/relationshipneeddiversification/"
+    },
     "RelationshipSelectionAgency": {
       "episode_count": 2,
       "show_count": 1,
@@ -36856,6 +36964,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/renzeping/"
+    },
+    "RepeatedContactDating": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9984287085 [SCIM9984287085].md",
+          "key": "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085",
+          "show": "Huberman Lab",
+          "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
+          "url": "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/repeatedcontactdating/"
     },
     "ReproductiveAttritionStrategy": {
       "episode_count": 1,
@@ -38520,6 +38644,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/selfprotectiveaccessionchoice/"
     },
+    "SelfSimilarityInIntimacy": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "串台.「你吃香菜吗」女生版：你愿意和性转之后的自己在一起吗？ [555771723].md",
+          "key": "chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723",
+          "show": "蜜獾吃书",
+          "title": "串台.「你吃香菜吗」女生版：你愿意和性转之后的自己在一起吗？",
+          "url": "/wiki/sources/chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723/"
+        },
+        {
+          "episode_file": "SCIM9984287085 [SCIM9984287085].md",
+          "key": "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085",
+          "show": "Huberman Lab",
+          "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
+          "url": "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/selfsimilarityinintimacy/"
+    },
     "SelfTestingMemoryPractice": {
       "episode_count": 2,
       "show_count": 1,
@@ -38920,6 +39067,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/shaodangqiang/"
+    },
+    "SharedRelationshipNarrative": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9984287085 [SCIM9984287085].md",
+          "key": "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085",
+          "show": "Huberman Lab",
+          "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
+          "url": "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/sharedrelationshipnarrative/"
     },
     "ShashankJoshi": {
       "episode_count": 2,

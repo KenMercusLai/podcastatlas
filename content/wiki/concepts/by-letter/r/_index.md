@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6167
+wiki_total_pages: 6172
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "RepeatableCustomerLanguage"
     title: "Repeatable Customer Language"
     url: "/wiki/concepts/repeatablecustomerlanguage/"
+  - key: "RepeatedContactDating"
+    title: "Repeated-Contact Dating"
+    url: "/wiki/concepts/repeatedcontactdating/"
   - key: "ReplicationCrisis"
     title: "Replication Crisis"
     url: "/wiki/concepts/replicationcrisis/"
