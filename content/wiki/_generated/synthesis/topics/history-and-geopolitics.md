@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-01
-as_of_overview_commit: c3739efde6f3fcc5366b2e4060284124f872d050
-input_digest: 87c3084e06b32090c456711882ba93e5e0f80504ea05a8d9b0e255da7d34cbac
+as_of_overview_commit: 9453662c5656207157aa5ee73ec6d54ca693d846
+input_digest: acfd804be8ee51ef5c8888da4a3125fd7a3327124428feb2e200efa87299965f
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 699 and Hanji 701 now push the early Guangwu branch before Hanji 702: Wei Xiao's Longyou local-elite origin becomes a refusal-and-envoy crisis; Feng Yi's remembered hardship, Lai Xi's exposed diplomatic risk, Ma Wu's rearguard, postwar county and office cuts, and Zhu Fu's tenure-stability warning show consolidation as allegiance, judgment, retrenchment, and receptive correction before battlefield pressure. Hanji 702 then backfills the Jianwu western-consolidation layer before Hanji 703-704: Feng Yi's city-first ambush, Ji Zun's parallel victory, and Dou Rong's persistent allegiance communication show early Guangwu success turning on first-move discipline, local realignment, and legible submission. The historical and geopolitical sources trace power through logistics, alliances, legitimacy, institutions, technology ecosystems, symbolic order, and capacity limits across ancient China, early modern Europe, modern state formation, and contemporary infrastructure. The early and late Eastern Han branches repeatedly show that military success depends on timing, personnel selection, hostage and surrender credibility, frontier diplomacy, public correction, appointment quality, food, transport, local elite integration, and the ability to keep symbolic legitimacy tied to material capacity. The late-Han and Three Kingdoms branches treat title order, marriage alliance, coalition politics, base security, adviser correction, supply, local order, and delegated violence as fragile systems that can convert opportunity into exposure when feedback or restraint fails. The Elizabethan and Dutch Revolt sequence now has both an internal Low Countries origin layer and a later English intervention layer: loyal rebellion against Philip II becomes maritime revolt, abjuration, Dutch Republic formation, and symbolic memory before Antwerp and the Treaty of Nonsuch pull Elizabethan England across the threshold from cold war to open conflict. Other history-and-geopolitics claims keep contemporary digital infrastructure, AI sovereignty, technology ecosystem shifts, U.S. founding memory, civil-rights street war, environmental-health exposure, and South African reconciliation symbolics source-scoped rather than reducing them to one model of power. The Mussolini World Cup episode adds a 1930s European sport-and-power branch: the 1934 and 1938 tournaments become fascist prestige and memory-history cases, but propaganda use, real football quality, anti-fascist reception, and weak corruption allegations remain analytically separate.
+Hanji 699 PLUS adds a source-scoped cultivated-capacity frame for Liu Xiu: Taixue study, Kunyang battlefield initiative, Wang Lang letter-burning trust repair, non-purge treatment of merit holders, and self-command after Liu Yan death are read together as ruler formation rather than as isolated talents. The early and late Eastern Han branches otherwise continue to show power through logistics, alliances, legitimacy, institutions, frontier capacity, appointment quality, surrender credibility, and symbolic order; newer sport, state, and technology history claims remain source-scoped rather than collapsed into one model of power.
 
 ## Cross-source Findings
+
+### Early Eastern Han 699 Plus Guangwu Cultivated Imperial Capacity
+
+[[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|Hanji 699 PLUS]] adds a source-scoped evaluative frame to the early Eastern Han branch: [[LiuXiu]] is read through [[CultivatedImperialCapacity]] because [[Taixue]] formation, [[KunyangBattle]] initiative against [[WangMang]] and [[XinDynasty]], post-victory trust around [[WangLangHebeiClaimant]], and non-purge treatment of merit holders make restoration success depend on cultivated rule rather than military talent alone.
+
+**Evidence:** [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph]], [[LiuXiu]], [[CultivatedImperialCapacity]], [[Taixue]], [[KunyangBattle]], [[WangMang]], [[XinDynasty]], [[WangLangHebeiClaimant]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 699 PLUS and adds an evaluative synthesis layer rather than a new annalistic year.
+- The episode superlatives about learning, personnel use, battle ability, and ideal emperor status remain source-scoped ranking language.
+- Kunyang omen material is treated as legendary mandate narration, not proof of supernatural events.
 
 ### Early Eastern Han 699 Guangwu Consolidation Before Western Campaign
 

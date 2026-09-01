@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "4fec77c79d5c7333086558aff9374a48a12e48f51976fceebe2421c31ab3f9f6",
       "b7a7bbc00a512b9c7b0df4c5e8035b24e53669b24c1a792d7aa460993c48ea9a",
       "238d0f237c3c8d728d2838e9003711b1ffc0d1ec089abb10d4be9e931d48c185",
       "a26a482c0184d0240f888aa86b866f36cfca7b353a2659eedbbddbabb12d7a4b",
@@ -483,11 +484,38 @@
       "669579ac551e015d5d6c20aa08ac0e7c674e0f7fafcd9adc5bebd4f22c5899ea",
       "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3"
     ],
-    "paragraph_count": 481
+    "paragraph_count": 482
   },
-  "overview_commit": "c3739efde6f3fcc5366b2e4060284124f872d050",
-  "overview_digest": "3d35d048fc7496a30d4fffe40c3188f107eb2aaf5d11dd2fd4c2234f8e022880",
+  "overview_commit": "9453662c5656207157aa5ee73ec6d54ca693d846",
+  "overview_digest": "991a2056f110af7591ac8bd1874cb4b934ceaa1eb1d58ba85d654f4a23a93a28",
   "paragraphs": [
+    {
+      "id": "4fec77c79d5c7333086558aff9374a48a12e48f51976fceebe2421c31ab3f9f6",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] evaluation episode that backfills [[LiuXiu|光武帝刘秀]]'s composite ruler profile alongside the narrower Hanji 699 consolidation note. It adds [[CultivatedImperialCapacity|修养型帝王能力]], while extending [[KunyangBattle|昆阳之战]], [[Taixue|太学]], [[WangLangHebeiClaimant|王郎]], [[WangMang|王莽]], [[XinDynasty|新朝]], [[StrategicEmotionConcealment|情绪不外露的战略纪律]], and [[AppointmentQualityAsStateCapacity|任官适任性国家能力]]. Its core synthesis is that Liu Xiu's reputation is framed not as isolated talent but as a cultivated package: fallen-lineage study at Taixue gives him classical and political formation, Kunyang supplies high-risk battlefield initiative, Wang Lang's burned letters and non-purge treatment of merit holders support trust-building, and his restraint after Liu Yan's death turns emotion control into survival judgment. No settled contradiction is recorded; ranking claims like \"最会用人\" and the Kunyang meteor/cloud material remain source-scoped evaluative or legendary framing.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 3
+      },
+      "wikilinks": [
+        "AppointmentQualityAsStateCapacity",
+        "CultivatedImperialCapacity",
+        "KunyangBattle",
+        "LiuXiu",
+        "RuiqiJiangtouZizhiTongjian",
+        "StrategicEmotionConcealment",
+        "Taixue",
+        "WangLangHebeiClaimant",
+        "WangMang",
+        "XinDynasty",
+        "zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph"
+      ]
+    },
     {
       "id": "b7a7bbc00a512b9c7b0df4c5e8035b24e53669b24c1a792d7aa460993c48ea9a",
       "primary_topic": "governance-and-institutions",

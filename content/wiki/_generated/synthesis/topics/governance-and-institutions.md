@@ -4,17 +4,29 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-01
-as_of_overview_commit: c3739efde6f3fcc5366b2e4060284124f872d050
-input_digest: d10c4ad06dfd46c97713fd9881096f3c1f09e8d8a83b3d5e04d3281711e3c084
+as_of_overview_commit: 9453662c5656207157aa5ee73ec6d54ca693d846
+input_digest: 62edc0a005b72a39be4dfbf362b4d2545215dccf7ead32e2398f968bb2aae5c0
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 704 moves early Guangwu western governance back before Hanji 705-1: Wei Xiao's failed face-saving apology, Ma Yuan's warning to Yang Guang, Liu Xiu's hostage-backed settlement terms, Wei Xiao's turn to Gongsun Shu, and Lu Fang/Xiongnu heqin pressure show surrender credibility and frontier diplomacy as linked consolidation problems. Hanji 705-4 adds a Ban Chao Western Regions capstone before the later Ban-family layers: Zhangdi-era frontier governance succeeds through key-node diagnosis, local supply, allied polity forces, hostage and replacement politics, tactical deception, supply-line denial, and restraint after victory rather than central-army saturation. Hanji 709 now moves the early Guangwu governance branch back to Jianwu 9-10 / 33-34 CE before Hanji 711: hostage-ransom deterrence refuses ransom or hostage-first delay to remove kidnapping payoff, Yin Xing extends outer-relative preventive restraint, Guo Ji makes local pacification depend on credible leniency, and Kou Xun's execution of Huangfu Wen shows forced surrender through destruction of an adviser's planning role. Hanji 713 backfills the early Guangwu governance branch to Jianwu 12 / 36 CE: Liu Xiu condemns Wu Han and Liu Shang after surrendered Chengdu is killed, looted, and burned, while the post-Shu settlement repairs authority through honors for refusers, repayment, summons, former-opponent appointments, and recognition of Wen Qi. Hanji 718 backfills the late Guangwu governance branch to 40 CE: Liu Xiu's stabilization problem spans Jiaozhi revolt, fiscal-fraud punishment, anti-bandit incentive redesign, Lu Fang's fragile Xiongnu-linked surrender settlement, and Ma Yuan's five-zhu coin restoration advice. Hanji 719 then adds the 41 CE Guo-Yin empress change through political marriage alliance depreciation, public state-foundation warning, maternal-status succession risk, soft-landing compensation, and Shache recognition narrowing before unsupported authority hardens. The ICE/CODIS Marketplace Tech episode adds a federal biometric-surveillance branch: DHS and ICE DNA collection can turn immigration detention into durable policing infrastructure once profiles enter FBI CODIS, raising Fourth Amendment, retention, age-threshold, and family-exposure questions that remain qualified by the absence of a detailed DHS, FBI, or DOJ defense. Hanji 726 backfills the late Guangwu governance branch to 49 CE through Zhu Bo's correction of Ma Yuan's posthumous accusation, Zong Jun's accountable field discretion, and Wuhuan protector-office institutionalization. Hanji 729-731 preserve the later Guangwu pattern of calibrated Northern Xiongnu reply, ritual refusal before fengshan, personnel judgment, chenwei-fengshan, and chenwei speech risk, while Hanji 736-740 remain the Mingdi continuation through royal-kin boundaries, private-retainer risk, forged authority, anti-flattery edicts, empress memory, frontier containment, local capacity, Chu-case coercion, and partial correction. The Dutch Revolt branch adds a European loyal-rebellion case in which provincial privileges, coercive repression, pragmatic toleration, maritime seizure, abjuration, assassination, and republican settlement turn contested obedience into new state capacity. A small health-product governance edge keeps functional-food and supplement claims tied to product identity, label evidence, and professional-boundary checks before consumer trust. The Mussolini World Cup episode adds an authoritarian sport-governance branch: fascist Italy treated football as public infrastructure, leisure organization, language policy, media spectacle, and international display, while the evidence boundary keeps audience conversion and bribery stories qualified.
+Hanji 699 PLUS adds a source-scoped Guangwu governance frame: Liu Xiu ruler capacity is read through Taixue learning, broad personnel use, Wang Lang letter-burning trust repair, non-purge treatment of merit holders, and cultivation as the condition for turning ability into stable rule. The existing governance synthesis still centers on surrender credibility, frontier diplomacy, office quality, correction mechanisms, legal and biometric boundaries, health-product identity, and sport or ritual institutions as capacity problems rather than isolated policy events.
 
 ## Cross-source Findings
+
+### Early Eastern Han 699 Plus Trust And Cultivated Governance
+
+[[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|Hanji 699 PLUS]] adds a governance claim around [[LiuXiu]]: [[CultivatedImperialCapacity]] requires learned formation through [[Taixue]], broad personnel use captured by [[AppointmentQualityAsStateCapacity]], and post-victory trust management when the [[WangLangHebeiClaimant]] letters are burned instead of converted into purge evidence.
+
+**Evidence:** [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph]], [[LiuXiu]], [[CultivatedImperialCapacity]], [[Taixue]], [[AppointmentQualityAsStateCapacity]], [[WangLangHebeiClaimant]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 699 PLUS and should not be used as a general emperor-ranking proof.
+- The source supports trust repair through the Wang Lang letter-burning scene but does not reconstruct every subordinate letter or later personnel appointment.
+- Taixue is used here as ruler formation, not as a full institutional history of imperial education.
 
 ### Early Eastern Han 704 Weixiao Face Saving Submission Failure
 

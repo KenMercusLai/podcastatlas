@@ -31,6 +31,7 @@ sources:
   - zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq
   - zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi
   - zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z
+  - zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph
 last_updated: 2026-09-01
 ---
 
@@ -86,19 +87,24 @@ Hanji 724 through Hanji 727 supply Liu Xiu's later frontier decision sequence. H
 
 Hanji 729 through Hanji 732 supply the personnel, ritual, illness, death, and succession endgame. Liu Xiu accepts [[BanBiaoEasternHan|Ban Biao]]'s calibrated Northern Xiongnu reply, recognizes quiet merit in [[JiaFuEasternHan|贾复]], tests rumors around [[FifthLunEasternHan|第五伦]], and still moves from earlier Taishan refusal into chenwei-backed fengshan. His reaction to [[HuanTanEasternHan|桓谭]] shows how legitimacy-sensitive prophecy becomes dangerous to contradict. [[ZizhiTongjian|Zizhi Tongjian]] records Liu Xiu's death in 57 CE in terse date/place/age form, while [[DongguanHanji|Dongguan Hanji]] notices from 41 CE and 44 CE suggest earlier illness and heavy workload. Later sources add hostage-ransom precedent and Guangwu tomb memory.
 
+Across those annalistic layers, Liu Xiu's strongest evaluative profile is [[CultivatedImperialCapacity|cultivated imperial capacity]]: [[Taixue|太学]] learning, [[KunyangBattle|Kunyang]] initiative, post-victory trust through the [[WangLangHebeiClaimant|Wang Lang]] letters, non-purge treatment of merit holders, and self-command after Liu Yan's death are read together rather than as isolated talents.
+
 ## Key Characteristics
 
-- Restoration founder whose military-political effectiveness defeats Wang Mang's ritualized regime and later includes subordinate tempo exploitation, surrender-letter pressure, command succession, and remote operational risk judgment in the Shu campaign.
+- Learned restoration founder whose fallen-lineage Taixue formation and military-political effectiveness defeat Wang Mang's ritualized regime and later include subordinate tempo exploitation, surrender-letter pressure, command succession, and remote operational risk judgment in the Shu campaign.
 - Coalition builder and postwar centralizer who recognizes commanders, uses marriage alliance when weak, later manages suspicion around powerful founding families, and turns founding commanders from military authority into honored but limited merit nobles.
 - Domestic-order ruler who combines southern tribute incorporation, noncoercive recluse handling, demobilization, amnesty, senior-minister trust correction, surrendered-city civilian protection norms, post-conquest local-elite repair, tribute restraint, law-bound remonstrance acceptance, welfare-producing local governance, penal-law debate, land-survey disturbance, degree-field diagnostics, harsh fiscal accountability, anti-bandit incentive redesign, surrender incorporation, and currency restoration.
 - Palace-succession ruler who can convert a depreciated founding marriage into deposition, compensation, and heir-field instability.
-- Personnel judge who can use clean officials, blunt remonstrants, maternal kin, scholars, law-enforcement officials, frontier specialists, reclusive refusals, and nationwide appointment advice while learning when praise of one model official pressures others.
+- Personnel judge who can use clean officials, blunt remonstrants, maternal kin, scholars, law-enforcement officials, frontier specialists, reclusive refusals, nationwide appointment advice, and post-victory trust repair while learning when praise of one model official pressures others.
 - Ruler vulnerable to severe illness, succession anxiety, remonstrance intolerance, and accusation in Ma Yuan's case, but still reachable through evidence-based corrective memorials.
 - Frontier manager who combines southern proclamation, ritual-agricultural instruction, early Shache proxy recognition, key-position attrition against Wei Xiao, royal-title recognition, resource-retention repair, flexible pursuit rules, capacity-bound deferral, forced relocation, recognition downgrading, hostage-retention signals, submitted-buffer acceptance, protected settlement, office design, and restraint against overextended war.
 
 ## Evidence
 
 - Restoration and prophecy control: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] and [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]] use Liu Xiu to connect Wang Mang's collapse, Kunyang, mandate language, and later restrictions on private prophecy.
+- Composite ruler evaluation: [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|Hanji 699 PLUS]] organizes Liu Xiu's profile around learning, military judgment, personnel use, postwar trust, and ruler character rather than around one isolated talent.
+- Taixue formation and survival restraint: [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|Hanji 699 PLUS]] says Liu Xiu's Chang'an Taixue study broadened his political vision, while his concealed grief after Liu Yan's killing kept him alive under Liu Xuan.
+- Kunyang and trust repair: [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|Hanji 699 PLUS]] presents Kunyang as Liu Xiu's numerical-asymmetry battle proof point and the burned Wang Lang letters as a public refusal to turn wavering subordinates into purge targets.
 - Founding coalition and trust: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] links Liu Xiu's rise to Geng Yan's alignment, Youzhou cavalry, Peng Chong's rebellion, and the Geng family's visible loyalty work.
 - Southern proclamation and rewards: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] says Cen Peng's letter to Deng Rang and Qu Chong's circulation of Liu Xiu's orders help southern actors send tribute and receive enfeoffment.
 - Reclusive autonomy: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] says Liu Xiu lets Zhou Dang return after nonconforming refusal and repeatedly summons Yan Guang without forcing his appointment.
@@ -148,18 +154,24 @@ Hanji 729 through Hanji 732 supply the personnel, ritual, illness, death, and su
 
 ## Qualifications
 
+Hanji 699 PLUS is explicitly evaluative. Its superlatives about Liu Xiu's learning, personnel use, battlefield ability, and "极品皇帝" status should remain source-scoped rankings rather than a completed comparative biography of every emperor it names.
+
 These sources address Liu Xiu through different windows rather than a single biography. Hanji 699 supports an early consolidation reading through southern tribute, reclusive tolerance, and Shache recognition, but its minor southern actors, title formulas, and transcript variants remain source-scoped. Hanji 705-1 supports a Jianwu 7-8 correction-and-consolidation reading, but it should not be overread as proof that every amnesty, appointment, or western campaign move was caused only by Zheng Xing, Chen Yuan, or Lai Xi. Hanji 708's Ji Zun scene supports a specific public-signal correction, not a claim that Liu Xiu intended to threaten all ministers or formally censure them. Hanji 711's Shu success belongs operationally to Cen Peng and Zang Gong; Liu Xiu's own evidence there is surrender-letter pressure, strategic assessment, command replacement after assassination, acceptance of Ma Yuan's frontier plan, and reception of Guo Ji's personnel critique. Hanji 712 shows accurate remote military judgment, but it should not be inflated into omniscience or direct field command over every tactical move; the source's evidence is the specific Wu Han-Liu Shang camp geometry and its rapid confirmation. Hanji 713 reports anger and rebuke over the Chengdu sack but does not establish formal punishment for Wu Han or Liu Shang, so the evidence supports a conquest-discipline boundary more than an institutional sanction. Hanji 714's positive portrait of flexible military rules, tribute restraint, and accepted remonstrance should be held beside Hanji 716's Han Xin case and Hanji 731's Huan Tan case, which show real tolerance limits. Hanji 715's peaceful merit-settlement claim should not be inflated into absence of pressure: it shows reward-backed military authority recovery and a source-scoped claim that the Yuntai commanders avoided political persecution. Hanji 716's legal debate is not an enacted code revision, and Han Xin's death shows a tolerance limit rather than a full formal criminal case in the current evidence. Hanji 717's Henan/Nanyang comparison should be read as a source-bounded diagnosis of protected fiscal environments, not as proof that every elite holding there exceeded legal limits. Hanji 718's bandit-pacification success and law-versus-human-feeling frame remain source-scoped to 40 CE and should not be turned into a universal theory of Liu Xiu's penal style. Hanji 719's "渣男" framing and comments about Guo's resentment are source-scoped interpretation; the durable claim is narrower, concerning political marriage value, palace-succession handling, omen language, and compensation. Hanji 721's Dong Xuan case should not be treated as modern rule of law: Liu Xiu's backing of enforcement remains a ruler decision after anger. Hanji 722 through Hanji 729 form a changed frontier-contact sequence, so each answer has to be read by timing and capacity rather than as one fixed policy. Hanji 732 does not prove Liu Xiu's cause of death; its strongest contribution is long-term health vulnerability under workload.
 
 ## What Changed
 
-- Added Hanji 699 as the earliest current Guangwu consolidation backfill: Liu Xiu's order expands through southern proclamation, tribute and enfeoffment, reclusive tolerance, and Shache Kang's recognition through Dou Rong.
-- Preserved Hanji 705-1 and Hanji 708-713 as the early Guangwu backfill from demobilization, eclipse correction, and Lüeyang attrition through Ji Zun praise-pressure correction, frontier advice, Shu tempo, command, and post-surrender repair.
-- Preserved Hanji 714-715 as the following consolidation and post-unification merit-settlement sequence.
+- Added Hanji 699 PLUS as a high-level cultivated-capacity frame tying Liu Xiu's Taixue study, Kunyang initiative, Wang Lang letter-burning trust repair, non-purge reputation, and emotional restraint into one ruler-evaluation layer.
+- Preserved Hanji 699 and Hanji 705-1/708 as the early Guangwu consolidation sequence from southern proclamation and reclusive tolerance through demobilization, eclipse correction, Lüeyang attrition, praise-pressure correction, and frontier advice.
+- Preserved Hanji 711-715 as the Shu command, post-surrender repair, consolidation, and post-unification merit-settlement sequence.
 - Preserved Hanji 716-718 as the subsequent stabilization baseline of penal-law debate, degree-field diagnostics, fiscal accountability, bandit policy, and Jiaozhi revolt.
-- Preserved Hanji 719-732 as later palace-succession, personnel, legal-discipline, illness, frontier, ritual, death, and succession evidence.
+- Preserved Hanji 719-732 plus later Hanji 899/915 as palace-succession, personnel, legal-discipline, illness, frontier, ritual, death, memory, and precedent evidence.
 
 ## Relationships
 
+- [[CultivatedImperialCapacity|修养型帝王能力]] - concept created from the PLUS episode's synthesis of Liu Xiu's learning, command, personnel trust, and character.
+- [[Taixue|太学]] - institution where the PLUS episode places Liu Xiu's pre-imperial learning and political formation.
+- [[KunyangBattle|昆阳之战]] - early battle that the PLUS episode uses as Liu Xiu's military proof point.
+- [[WangLangHebeiClaimant|王郎]] - defeated claimant whose captured letters Liu Xiu burns unopened as a trust-repair signal.
 - [[HonorsWithoutOfficeSettlement|受爵不受官式功臣安置]] - concept grounded by Liu Xiu's 37 CE use of title, fief, honor, and limited access to recover military authority from founding commanders.
 - [[ZhouDangEasternHan|周党]] - recluse whose nonconforming refusal Liu Xiu tolerates rather than punishes.
 - [[YanGuangEasternHan|严光]] - old schoolmate whose refusal shows Liu Xiu's talent summons can stop short of coercion.

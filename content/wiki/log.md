@@ -14723,3 +14723,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家
+
+Ingested the 2026-06-16 芮淇讲透资治通鉴 PLUS episode evaluating Liu Xiu through learned formation, Kunyang initiative, Wang Lang letter-burning trust repair, non-purge treatment of founding merit, and ruler cultivation. Created source note plus `CultivatedImperialCapacity`; updated `LiuXiu`, `KunyangBattle`, `WangLangHebeiClaimant`, `Taixue`, `index`, and `overview`. No settled contradiction found; the emperor-ranking language, Kunyang omen imagery, Xu Ziwei, Liu Yan/Liu Xuan details, and comparison figures remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.

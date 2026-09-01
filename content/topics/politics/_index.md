@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2149
+topic_total_pages: 2150
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3253,6 +3253,9 @@ topic_concepts:
   - key: "FrontierTrustThroughProtection"
     title: "保护换信任式边疆安抚 / Frontier Trust Through Protection"
     url: "/wiki/concepts/frontiertrustthroughprotection/"
+  - key: "CultivatedImperialCapacity"
+    title: "修养型帝王能力 / Cultivated Imperial Capacity"
+    url: "/wiki/concepts/cultivatedimperialcapacity/"
   - key: "PartyProhibitionKinshipExpansion"
     title: "党锢亲属牵连扩大 / Party Prohibition Kinship Expansion"
     url: "/wiki/concepts/partyprohibitionkinshipexpansion/"

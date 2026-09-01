@@ -4,17 +4,29 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-01
-as_of_overview_commit: 834d2a7e822834e60be5e10976cb770da0124201
-input_digest: 0552b5d3dafce080bcb971608201d5ff0860eceb8f61718d870f441d56914862
+as_of_overview_commit: 9453662c5656207157aa5ee73ec6d54ca693d846
+input_digest: 6a2f00980e934d516c22f2497eba62d7f12b82488e9eb935aa9aed9f2c82fa2e
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 702 adds only a narrow historical self-command layer: Feng Yi turns officer fear into first-move action, while Dou Rong makes allegiance legible through persistent, status-aware communication. Hanji 705-1 remains a speech-calibration case through Zheng Xing and Chen Yuan's omen, public-reputation, and institutional-comparison framing. The substantive claims remain history and governance, not clinical advice. Hanji 713, Hanji 736, Hanji 744-745, Hanji 753, relationship science, workplace abuse, emotion regulation, meditation, discipline, movement practice, and AI/workplace trust remain the main existing psychology-and-personal-development branches.
+Hanji 699 PLUS adds a narrow historical self-command layer: Liu Xiu ruler capacity is read through emotional restraint after Liu Yan death, trust repair after Wang Lang defeat, and the broader cultivated-capacity frame. The substantive claim remains history and governance, not clinical advice. Hanji 702, Hanji 705-1, Hanji 713, Hanji 736, Hanji 744-745, Hanji 753, relationship science, workplace abuse, emotion regulation, meditation, discipline, movement practice, and AI/workplace trust remain the main existing psychology-and-personal-development branches.
 
 ## Cross-source Findings
+
+### Hanji 699 Plus Emotional Restraint And Ruler Self Command
+
+[[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|Hanji 699 PLUS]] enters psychology-and-personal-development only as a historical self-command case: [[LiuXiu]] links [[StrategicEmotionConcealment]] after Liu Yan death with trust repair around [[WangLangHebeiClaimant]], while [[CultivatedImperialCapacity]] keeps these as political survival and governance capacities rather than generic personal advice.
+
+**Evidence:** [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph]], [[LiuXiu]], [[StrategicEmotionConcealment]], [[WangLangHebeiClaimant]], [[CultivatedImperialCapacity]]
+
+**Qualifications:**
+
+- This is a historical political-psychology reading, not clinical or general personal-development advice.
+- The paragraph belongs primarily to history and governance; the psychology assignment is limited to self-command, trust repair, and survival under danger.
+- The source does not prove that concealment is always virtuous; it shows one Liu Xiu survival-and-governance case.
 
 ### Hanji 702 First Move Discipline And Allegiance Legibility
 

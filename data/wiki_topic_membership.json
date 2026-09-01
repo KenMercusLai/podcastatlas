@@ -16433,6 +16433,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "CultivatedImperialCapacity": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CulturalBiasInTesting": [
     {
       "key": "culture",
@@ -74318,6 +74325,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv": [

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2369
+topic_total_pages: 2370
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7032,6 +7032,9 @@ topic_sources:
   - key: "zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx"
     title: "《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（2）"
     url: "/wiki/sources/zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx/"
+  - key: "zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph"
+    title: "《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家"
+    url: "/wiki/sources/zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph/"
   - key: "zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e"
     title: "《资治通鉴·汉纪》705-5丨班昭：续编《汉书》，史笔千秋第一人"
     url: "/wiki/sources/zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6206
+wiki_total_pages: 6207
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1856,6 +1856,9 @@ wiki_pages:
   - key: "CreditBasedBanditSurrender"
     title: "信义招降盗贼 / Credit-Based Bandit Surrender"
     url: "/wiki/concepts/creditbasedbanditsurrender/"
+  - key: "CultivatedImperialCapacity"
+    title: "修养型帝王能力 / Cultivated Imperial Capacity"
+    url: "/wiki/concepts/cultivatedimperialcapacity/"
   - key: "CommandCreditMisattribution"
     title: "军功归属错置 / Command Credit Misattribution"
     url: "/wiki/concepts/commandcreditmisattribution/"

@@ -9698,6 +9698,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/cuiyuanlatehan/"
     },
+    "CultivatedImperialCapacity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家 [lnTW7HM3aFitzT7rEvomGqs_qVpH].md",
+          "key": "zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/cultivatedimperialcapacity/"
+    },
     "CultureLedLaborOrganizing": {
       "episode_count": 1,
       "show_count": 1,
@@ -26055,6 +26071,29 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/kouxuneasternhan/"
     },
+    "KunyangBattle": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家 [lnTW7HM3aFitzT7rEvomGqs_qVpH].md",
+          "key": "zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/kunyangbattle/"
+    },
     "KyleGillett": {
       "episode_count": 1,
       "show_count": 1,
@@ -28897,9 +28936,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 27,
+      "episode_count": 28,
       "show_count": 2,
-      "source_note_count": 27,
+      "source_note_count": 28,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -29089,6 +29128,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》699丨敢与刘秀争雄的他，为何惨淡收场？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家 [lnTW7HM3aFitzT7rEvomGqs_qVpH].md",
+          "key": "zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph/"
         }
       ],
       "updated": "2026-09-01",
@@ -44933,9 +44979,9 @@
       "url": "/wiki/entities/taishan/"
     },
     "Taixue": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》905丨富贵如何险中求？ [lklXX5nqUka2MTblLXIvk0a7B-fu].md",
@@ -44992,9 +45038,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》776丨汉史探密：蔡伦是怎样发明“造纸术”的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家 [lnTW7HM3aFitzT7rEvomGqs_qVpH].md",
+          "key": "zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-01",
       "url": "/wiki/concepts/taixue/"
     },
     "TaixueCollectivePetition": {
@@ -48202,9 +48255,9 @@
       "url": "/wiki/entities/wangkanglatehan/"
     },
     "WangLangHebeiClaimant": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -48212,9 +48265,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
           "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家 [lnTW7HM3aFitzT7rEvomGqs_qVpH].md",
+          "key": "zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url": "/wiki/entities/wanglanghebeiclaimant/"
     },
     "WangLiangEasternHan": {
