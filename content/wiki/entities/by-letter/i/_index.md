@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 8728
+wiki_total_pages: 8733
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "ItalianFascism"
     title: "Italian Fascism / 意大利法西斯主义"
     url: "/wiki/entities/italianfascism/"
+  - key: "ItalyNationalFootballTeam"
+    title: "Italy National Football Team"
+    url: "/wiki/entities/italynationalfootballteam/"
   - key: "ItamarBenGvir"
     title: "Itamar Ben-Gvir"
     url: "/wiki/entities/itamarbengvir/"

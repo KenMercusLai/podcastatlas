@@ -3790,6 +3790,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/austrohungariandualmonarchy/"
     },
+    "AuthoritarianSportsPropaganda": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5810592007 [GLT5810592007].md",
+          "key": "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007",
+          "show": "The Rest Is History",
+          "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
+          "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/authoritariansportspropaganda/"
+    },
     "AutoRLProductionLoop": {
       "episode_count": 1,
       "show_count": 1,
@@ -4605,6 +4621,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/beneficialgovernancedelivery/"
+    },
+    "BenitoMussolini": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "I, robot？ AI and consciousness [6a880840b0d5e24ea40c7015].md",
+          "key": "i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015",
+          "show": "Economist Podcasts",
+          "title": "I, robot? AI and consciousness",
+          "url": "/wiki/sources/i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015/"
+        },
+        {
+          "episode_file": "GLT5810592007 [GLT5810592007].md",
+          "key": "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007",
+          "show": "The Rest Is History",
+          "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
+          "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/benitomussolini/"
     },
     "BenjaminFranklin": {
       "episode_count": 1,
@@ -15370,6 +15409,124 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/fifawomensworldcup/"
     },
+    "FIFAWorldCup": {
+      "episode_count": 11,
+      "show_count": 7,
+      "source_note_count": 11,
+      "sources": [
+        {
+          "episode_file": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策 [1005631805].md",
+          "key": "zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805",
+          "show": "声动早咖啡",
+          "title": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策",
+          "url": "/wiki/sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805/"
+        },
+        {
+          "episode_file": "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？ [1004978054].md",
+          "key": "kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？",
+          "url": "/wiki/sources/kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054/"
+        },
+        {
+          "episode_file": "Vol.267 如何现场看世界杯并大亏一笔 feat.鹰眼时间 [1002986145].md",
+          "key": "vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145",
+          "show": "商业就是这样",
+          "title": "Vol.267 如何现场看世界杯并大亏一笔 feat.鹰眼时间",
+          "url": "/wiki/sources/vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f5e779df1da7a4c278586ff9d3f1d98e_20827812 [default.mp3_ywr3ahjkcgo_f5e779df1da7a4c278586ff9d3f1d98e_20827812].md",
+          "key": "how-to-win-a-penalty-shootout-with-game-theory",
+          "show": "Planet Money",
+          "title": "How to win a penalty shootout (with game theory)",
+          "url": "/wiki/sources/how-to-win-a-penalty-shootout-with-game-theory/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_10701ebbc7bfab728b0d90d814218d73_28143355 [default.mp3_ywr3ahjkcgo_10701ebbc7bfab728b0d90d814218d73_28143355].md",
+          "key": "can-world-cup-mania-grow-mls-in-the-us",
+          "show": "Planet Money",
+          "title": "Can World Cup mania grow MLS in the U.S.?",
+          "url": "/wiki/sources/can-world-cup-mania-grow-mls-in-the-us/"
+        },
+        {
+          "episode_file": "商业小样44 ｜ 世界杯扩军与FIFA的权力斗争 [993354969].md",
+          "key": "shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969",
+          "show": "商业就是这样",
+          "title": "商业小样44 | 世界杯扩军与FIFA的权力斗争",
+          "url": "/wiki/sources/shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969/"
+        },
+        {
+          "episode_file": "Vol.264 把世界杯作为方法 [999416048].md",
+          "key": "vol-264-ba-shijiebei-zuowei-fangfa-999416048",
+          "show": "商业就是这样",
+          "title": "Vol.264 把世界杯作为方法",
+          "url": "/wiki/sources/vol-264-ba-shijiebei-zuowei-fangfa-999416048/"
+        },
+        {
+          "episode_file": "You’ve come a long way, Bibi： Israel’s crucial election [6a59f9ae461a6a41901ae410].md",
+          "key": "youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410",
+          "show": "Economist Podcasts",
+          "title": "You've come a long way, Bibi: Israel's crucial election",
+          "url": "/wiki/sources/youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410/"
+        },
+        {
+          "episode_file": "22.足球经济学：读者不必是球迷 [570874427].md",
+          "key": "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427",
+          "show": "蜜獾吃书",
+          "title": "22.足球经济学：读者不必是球迷",
+          "url": "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"
+        },
+        {
+          "episode_file": "E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意 [c3607c08-6eb6-48bd-8250-b41b5b8272e6].md",
+          "key": "e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6",
+          "show": "硅谷101",
+          "title": "E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意",
+          "url": "/wiki/sources/e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6/"
+        },
+        {
+          "episode_file": "GLT5810592007 [GLT5810592007].md",
+          "key": "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007",
+          "show": "The Rest Is History",
+          "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
+          "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/fifaworldcup/"
+    },
+    "FIFAWorldCup1934": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5810592007 [GLT5810592007].md",
+          "key": "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007",
+          "show": "The Rest Is History",
+          "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
+          "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/fifaworldcup1934/"
+    },
+    "FIFAWorldCup1938": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5810592007 [GLT5810592007].md",
+          "key": "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007",
+          "show": "The Rest Is History",
+          "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
+          "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/fifaworldcup1938/"
+    },
     "FINRA": {
       "episode_count": 1,
       "show_count": 1,
@@ -15739,6 +15896,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/fangzhilatehan/"
+    },
+    "FascistSportPolicy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5810592007 [GLT5810592007].md",
+          "key": "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007",
+          "show": "The Rest Is History",
+          "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
+          "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/fascistsportpolicy/"
     },
     "FateTimingExternalConditions": {
       "episode_count": 1,
@@ -24188,6 +24361,45 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/isolatedretaildemandmanagement/"
+    },
+    "ItalianFascism": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "77.她是自由的野狗，她是法拉奇 [685710187].md",
+          "key": "77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187",
+          "show": "蜜獾吃书",
+          "title": "77.她是自由的野狗，她是法拉奇",
+          "url": "/wiki/sources/77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187/"
+        },
+        {
+          "episode_file": "GLT5810592007 [GLT5810592007].md",
+          "key": "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007",
+          "show": "The Rest Is History",
+          "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
+          "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/italianfascism/"
+    },
+    "ItalyNationalFootballTeam": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5810592007 [GLT5810592007].md",
+          "key": "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007",
+          "show": "The Rest Is History",
+          "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
+          "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/italynationalfootballteam/"
     },
     "Ithaca": {
       "episode_count": 1,
@@ -35999,6 +36211,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/paulekman/"
     },
+    "PaulRouse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5810592007 [GLT5810592007].md",
+          "key": "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007",
+          "show": "The Rest Is History",
+          "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
+          "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/paulrouse/"
+    },
     "PayPal": {
       "episode_count": 3,
       "show_count": 3,
@@ -42908,6 +43136,45 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/sportsparticipationoverwinning/"
     },
+    "SportsPoliticalInterference": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "You’ve come a long way, Bibi： Israel’s crucial election [6a59f9ae461a6a41901ae410].md",
+          "key": "youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410",
+          "show": "Economist Podcasts",
+          "title": "You've come a long way, Bibi: Israel's crucial election",
+          "url": "/wiki/sources/youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410/"
+        },
+        {
+          "episode_file": "GLT5810592007 [GLT5810592007].md",
+          "key": "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007",
+          "show": "The Rest Is History",
+          "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
+          "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/sportspoliticalinterference/"
+    },
+    "SportsPropagandaEffectUncertainty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5810592007 [GLT5810592007].md",
+          "key": "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007",
+          "show": "The Rest Is History",
+          "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
+          "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/sportspropagandaeffectuncertainty/"
+    },
     "SpotRobot": {
       "episode_count": 1,
       "show_count": 1,
@@ -45432,9 +45699,9 @@
       "url": "/wiki/entities/theodyssey/"
     },
     "TheRestIsHistory": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 1,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -45561,6 +45828,13 @@
           "show": "The Rest Is History",
           "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
           "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        },
+        {
+          "episode_file": "GLT5810592007 [GLT5810592007].md",
+          "key": "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007",
+          "show": "The Rest Is History",
+          "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
+          "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
         }
       ],
       "updated": "2026-09-01",
@@ -47465,6 +47739,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/vishnupadmanabhan/"
+    },
+    "VittorioPozzo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5810592007 [GLT5810592007].md",
+          "key": "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007",
+          "show": "The Rest Is History",
+          "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
+          "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/vittoriopozzo/"
     },
     "VoiceAgentInfrastructure": {
       "episode_count": 1,

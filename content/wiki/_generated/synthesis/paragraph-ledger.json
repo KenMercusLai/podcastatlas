@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b7a7bbc00a512b9c7b0df4c5e8035b24e53669b24c1a792d7aa460993c48ea9a",
       "238d0f237c3c8d728d2838e9003711b1ffc0d1ec089abb10d4be9e931d48c185",
       "a26a482c0184d0240f888aa86b866f36cfca7b353a2659eedbbddbabb12d7a4b",
       "4d989656296f64c5d68e389b57a3f698deedaaa95e15bdc29be9df4f8263ea8c",
@@ -482,11 +483,40 @@
       "669579ac551e015d5d6c20aa08ac0e7c674e0f7fafcd9adc5bebd4f22c5899ea",
       "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3"
     ],
-    "paragraph_count": 480
+    "paragraph_count": 481
   },
-  "overview_commit": "99a1f729bcfa043bd3eb0ec3b677e94a42071eac",
-  "overview_digest": "e63112694655c1ad5ff5991eed50084e689ded3e1807373d60e308c5b42a4def",
+  "overview_commit": "c3739efde6f3fcc5366b2e4060284124f872d050",
+  "overview_digest": "3d35d048fc7496a30d4fffe40c3188f107eb2aaf5d11dd2fd4c2234f8e022880",
   "paragraphs": [
+    {
+      "id": "b7a7bbc00a512b9c7b0df4c5e8035b24e53669b24c1a792d7aa460993c48ea9a",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007|The Fascist World Cup]], a [[TheRestIsHistory]] episode with [[PaulRouse]] on [[BenitoMussolini]], [[ItalianFascism]], [[FIFAWorldCup1934|the 1934 World Cup]], and [[FIFAWorldCup1938|the 1938 World Cup]]. It adds [[PaulRouse]], [[VittorioPozzo]], [[ItalyNationalFootballTeam]], [[FIFAWorldCup1934]], [[FIFAWorldCup1938]], [[AuthoritarianSportsPropaganda]], [[FascistSportPolicy]], and [[SportsPropagandaEffectUncertainty]], while extending [[FIFAWorldCup]], [[SportsPoliticalInterference]], and [[TheRestIsHistory]]. Its core synthesis is that Mussolini's regime used football as infrastructure, media spectacle, masculine renewal, and international display, but the strongest historical reading keeps propaganda, sporting excellence, and contested audience reception together rather than treating Italian support or later victories as automatic proof of fascist conversion. No settled contradiction is recorded; bribery, refereeing, and bought-off-opponent stories remain source-scoped or unproven, and postwar memory is treated as selective downplaying rather than complete erasure.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "AuthoritarianSportsPropaganda",
+        "BenitoMussolini",
+        "FIFAWorldCup",
+        "FIFAWorldCup1934",
+        "FIFAWorldCup1938",
+        "FascistSportPolicy",
+        "ItalianFascism",
+        "ItalyNationalFootballTeam",
+        "PaulRouse",
+        "SportsPoliticalInterference",
+        "SportsPropagandaEffectUncertainty",
+        "TheRestIsHistory",
+        "VittorioPozzo",
+        "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007"
+      ]
+    },
     {
       "id": "238d0f237c3c8d728d2838e9003711b1ffc0d1ec089abb10d4be9e931d48c185",
       "primary_topic": "history-and-geopolitics",

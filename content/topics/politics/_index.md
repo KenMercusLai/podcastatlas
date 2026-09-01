@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2147
+topic_total_pages: 2149
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -268,6 +268,9 @@ topic_concepts:
   - key: "AuthorAsPoliticalSymbol"
     title: "Author As Political Symbol / 作者作为政治符号"
     url: "/wiki/concepts/authoraspoliticalsymbol/"
+  - key: "AuthoritarianSportsPropaganda"
+    title: "Authoritarian Sports Propaganda"
+    url: "/wiki/concepts/authoritariansportspropaganda/"
   - key: "AuthoritarianWarExitDilemma"
     title: "Authoritarian War Exit Dilemma"
     url: "/wiki/concepts/authoritarianwarexitdilemma/"
@@ -4106,6 +4109,9 @@ topic_entities:
   - key: "FIFA"
     title: "FIFA"
     url: "/wiki/entities/fifa/"
+  - key: "FIFAWorldCup"
+    title: "FIFA World Cup"
+    url: "/wiki/entities/fifaworldcup/"
   - key: "FINRA"
     title: "FINRA"
     url: "/wiki/entities/finra/"

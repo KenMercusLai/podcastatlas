@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup](sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007.md) — The Rest Is History episode on Mussolini's 1934/1938 World Cup politics, fascist sport policy, Italy's victories, propaganda limits, and postwar memory.
 - [《资治通鉴·汉纪》699丨敢与刘秀争雄的他，为何惨淡收场？](sources/zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z.md) — Early Guangwu backfill on Wei Xiao's Longyou origin, Cen Peng's southern proclamation route, Xi Guang and Ren Yan's ritual-agricultural frontier instruction, Liu Xiu's treatment of recluses, and Shache Yan/Kang's Han-loyal Western Regions branch.
 - [《资治通鉴·汉纪》700丨历史告诉你：别让认知偏差阻碍你的成功](sources/zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv.md) — Jianwu-era Guangwu backfill on Liu Xiu's post-east rest-and-letter posture, Gongsun Shu's fuming self-authorization, Jing Han's rejected offensive-window plan, iron-money disruption, local-official path dependence, family-first rewards, and internal resentment.
 - [《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！](sources/zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q.md) — Jianwu 6 Guangwu backfill on Feng Yi's remembered service, Wei Xiao's refusal and rebellion, Lai Xi's envoy crisis, Ma Wu's rearguard, county-office retrenchment, and Zhu Fu's local-official tenure warning.
@@ -1843,6 +1844,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [Paul Rouse](entities/PaulRouse.md) — Sports historian guiding the Mussolini World Cup episode's evidence boundaries around football, propaganda, and audience effects.
+- [Vittorio Pozzo](entities/VittorioPozzo.md) — Italy national-team manager whose 1934 and 1938 World Cup wins complicate the fascist propaganda story with real sporting competence.
+- [Italy National Football Team](entities/ItalyNationalFootballTeam.md) — National team whose 1934 and 1938 World Cup victories are read through both football quality and Mussolini-era propaganda.
+- [1934 FIFA World Cup](entities/FIFAWorldCup1934.md) — Italian-hosted tournament staged as a fascist showcase while remaining a real football competition.
+- [1938 FIFA World Cup](entities/FIFAWorldCup1938.md) — France-hosted tournament where Italy retained the title amid anti-fascist protest and Anschluss-era politics.
 - [周党 / Zhou Dang (Eastern Han)](entities/ZhouDangEasternHan.md) — Early Guangwu recluse whose nonconforming court appearance becomes a Liu Xiu tolerance test.
 - [严光 / Yan Guang (Eastern Han)](entities/YanGuangEasternHan.md) — Liu Xiu's old schoolmate who refuses appointment and returns to private farming and fishing.
 - [王梁 / Wang Liang (Eastern Han)](entities/WangLiangEasternHan.md) — Guangwu-era official whose later withdrawal follows a friend's harsh judgment that rank exceeded contribution.
@@ -10575,6 +10581,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Authoritarian Sports Propaganda](concepts/AuthoritarianSportsPropaganda.md) — Regime use of sport, media, spectacle, infrastructure, and victory to advertise power while leaving audience effects uncertain.
+- [Fascist Sport Policy](concepts/FascistSportPolicy.md) — Mussolini-era policy apparatus linking physical education, leisure organizations, military preparation, football reform, and language politics.
+- [Sports Propaganda Effect Uncertainty](concepts/SportsPropagandaEffectUncertainty.md) — Historical-method boundary between documented propaganda intent and claims about mass persuasion or match corruption.
 - [礼俗农事式边疆整合 / Ritual-Agrarian Frontier Integration](concepts/RitualAgrarianFrontierIntegration.md) — Frontier-governance pattern where ritual, social-custom, and agricultural instruction follow formal allegiance.
 - [争地抢先式决胜 / Decisive Terrain Preemption](concepts/DecisiveTerrainPreemption.md) — Military pattern where first occupation of a key site converts an enemy advance into a defensive ambush and political realignment.
 - [战后行政裁并 / Postwar Administrative Retrenchment](concepts/PostwarAdministrativeRetrenchment.md) — Guangwu-era pattern of matching postwar administrative scale to reduced population while preserving enough tenure for real local governance.

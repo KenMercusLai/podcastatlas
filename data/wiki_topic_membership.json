@@ -8444,6 +8444,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "AuthoritarianSportsPropaganda": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "AuthoritarianWarExitDilemma": [
     {
       "key": "politics",
@@ -9621,6 +9633,11 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "BenjaminAlarie": [
@@ -21846,6 +21863,25 @@
   ],
   "FIFAWorldCup": [
     {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "FIFAWorldCup1934": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "FIFAWorldCup1938": [
+    {
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
@@ -22135,6 +22171,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "FascistSportPolicy": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "FashionSupplyChainExternality": [
@@ -31723,6 +31766,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ItalyNationalFootballTeam": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ItamarBenGvir": [
@@ -55552,6 +55607,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "SportsPropagandaEffectUncertainty": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "SportsRightsBubble": [
     {
       "key": "culture",
@@ -72579,6 +72641,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "the-latest-tv-innovations-have-their-critics": [

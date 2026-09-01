@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6203
+wiki_total_pages: 6206
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1034,6 +1034,9 @@ wiki_pages:
   - key: "SportsPredictiveModeling"
     title: "Sports Predictive Modeling"
     url: "/wiki/concepts/sportspredictivemodeling/"
+  - key: "SportsPropagandaEffectUncertainty"
+    title: "Sports Propaganda Effect Uncertainty"
+    url: "/wiki/concepts/sportspropagandaeffectuncertainty/"
   - key: "SportsRightsBubble"
     title: "Sports Rights Bubble"
     url: "/wiki/concepts/sportsrightsbubble/"

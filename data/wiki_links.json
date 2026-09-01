@@ -5703,6 +5703,10 @@
     "title": "Author Platform Risk Reduction",
     "url": "/wiki/concepts/authorplatformriskreduction/"
   },
+  "AuthoritarianSportsPropaganda": {
+    "title": "Authoritarian Sports Propaganda",
+    "url": "/wiki/concepts/authoritariansportspropaganda/"
+  },
   "AuthoritarianWarExitDilemma": {
     "title": "Authoritarian War Exit Dilemma",
     "url": "/wiki/concepts/authoritarianwarexitdilemma/"
@@ -17895,6 +17899,14 @@
     "title": "FIFA World Cup",
     "url": "/wiki/entities/fifaworldcup/"
   },
+  "FIFAWorldCup1934": {
+    "title": "1934 FIFA World Cup",
+    "url": "/wiki/entities/fifaworldcup1934/"
+  },
+  "FIFAWorldCup1938": {
+    "title": "1938 FIFA World Cup",
+    "url": "/wiki/entities/fifaworldcup1938/"
+  },
   "FIMARepoBackstop": {
     "title": "FIMA Repo Backstop",
     "url": "/wiki/concepts/fimarepobackstop/"
@@ -18310,6 +18322,10 @@
   "FarzadRashidi": {
     "title": "Farzad Rashidi",
     "url": "/wiki/entities/farzadrashidi/"
+  },
+  "FascistSportPolicy": {
+    "title": "Fascist Sport Policy",
+    "url": "/wiki/concepts/fascistsportpolicy/"
   },
   "FashionSupplyChainExternality": {
     "title": "Fashion Supply Chain Externality",
@@ -26678,6 +26694,10 @@
   "ItalianFascism": {
     "title": "Italian Fascism / 意大利法西斯主义",
     "url": "/wiki/entities/italianfascism/"
+  },
+  "ItalyNationalFootballTeam": {
+    "title": "Italy National Football Team",
+    "url": "/wiki/entities/italynationalfootballteam/"
   },
   "ItamarBenGvir": {
     "title": "Itamar Ben-Gvir",
@@ -39635,6 +39655,10 @@
     "title": "Paul Rhode",
     "url": "/wiki/entities/paulrhode/"
   },
+  "PaulRouse": {
+    "title": "Paul Rouse",
+    "url": "/wiki/entities/paulrouse/"
+  },
   "PaulSlovic": {
     "title": "Paul Slovic",
     "url": "/wiki/entities/paulslovic/"
@@ -48751,6 +48775,10 @@
     "title": "Sports Predictive Modeling",
     "url": "/wiki/concepts/sportspredictivemodeling/"
   },
+  "SportsPropagandaEffectUncertainty": {
+    "title": "Sports Propaganda Effect Uncertainty",
+    "url": "/wiki/concepts/sportspropagandaeffectuncertainty/"
+  },
   "SportsRightsBubble": {
     "title": "Sports Rights Bubble",
     "url": "/wiki/concepts/sportsrightsbubble/"
@@ -54418,6 +54446,10 @@
   "Vittel": {
     "title": "Vittel",
     "url": "/wiki/entities/vittel/"
+  },
+  "VittorioPozzo": {
+    "title": "Vittorio Pozzo",
+    "url": "/wiki/entities/vittoriopozzo/"
   },
   "VitusBering": {
     "title": "Vitus Bering / 维图斯·白令",
@@ -63602,6 +63634,10 @@
   "the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4": {
     "title": "The Elon game: Musk's vision of the future",
     "url": "/wiki/sources/the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4/"
+  },
+  "the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007": {
+    "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
+    "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
   },
   "the-giant-factory-town-that-might-be-a-giant-mistake": {
     "title": "The giant factory town that might be a giant mistake",

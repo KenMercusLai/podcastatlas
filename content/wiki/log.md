@@ -14500,6 +14500,10 @@ Ingested the 2026-08-31 The Intelligence episode on Hollywood AI production, syn
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-01] ingest | The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup
+
+Ingested the 2026-06-16 The Rest Is History episode with Paul Rouse on Mussolini's use of football and the World Cup. Added source `the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007`; created `PaulRouse`, `VittorioPozzo`, `ItalyNationalFootballTeam`, `FIFAWorldCup1934`, `FIFAWorldCup1938`, `AuthoritarianSportsPropaganda`, `FascistSportPolicy`, and `SportsPropagandaEffectUncertainty`; updated `BenitoMussolini`, `ItalianFascism`, `FIFAWorldCup`, `SportsPoliticalInterference`, `TheRestIsHistory`, overview, and index. No settled contradiction found; bribery, referee-pressure, and bought-off-opponent claims remain source-scoped or unproven.
+
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》700丨历史告诉你：别让认知偏差阻碍你的成功
 
 Ingested the 2026-06-17 芮淇讲透资治通鉴 episode backfilling the post-eastern-pacification pause before Hanji 701. Added source `zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv`; created `JingHanEasternHan` and `RulerScalePathDependence`; updated `GongsunShuEasternHan`, `WeiXiaoEasternHan`, and index. No settled contradiction found; Wu Zhu, Gongsun Guang, Tian Rong, Gongsun Shu's sons, and the incomplete enterprise analogy remain source-scoped.
@@ -14707,6 +14711,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！
 
 Ingested the 2026-06-17 芮淇讲透资治通鉴 episode backfilling Jianwu 6 / 30 CE between Hanji 699 and Hanji 702. Added source `zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q`; created `ZhuFuEasternHan` and `PostwarAdministrativeRetrenchment`; updated `WeiXiaoEasternHan`, `FengYiEasternHan`, `LaiXiEasternHan`, `LocalOfficialTenureStability`, overview, and index. No settled contradiction found; Shentu Gang, Wang Zun, Niu Han, Wang Yuan, Tian Rong, exact county-merger implementation, and Zhu Fu's full memorial wording remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] lint | Wiki health check
 
