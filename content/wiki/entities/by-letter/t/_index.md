@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8749
+wiki_total_pages: 8757
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1262,6 +1262,9 @@ wiki_pages:
   - key: "TianJi"
     title: "田忌 / Tian Ji"
     url: "/wiki/entities/tianji/"
+  - key: "TianRongYilingEasternHan"
+    title: "田戎 / Tian Rong (Yiling, Eastern Han)"
+    url: "/wiki/entities/tianrongyilingeasternhan/"
   - key: "TianWenWeiChancellor"
     title: "田文 / Tian Wen (Wei chancellor)"
     url: "/wiki/entities/tianwenweichancellor/"

@@ -12435,6 +12435,10 @@
     "title": "Copyright Platform Conflict",
     "url": "/wiki/concepts/copyrightplatformconflict/"
   },
+  "CoreBeforePeripheryStrategy": {
+    "title": "先内后外式战略顺序 / Core-Before-Periphery Strategy",
+    "url": "/wiki/concepts/corebeforeperipherystrategy/"
+  },
   "CoreTribePositioning": {
     "title": "Core Tribe Positioning",
     "url": "/wiki/concepts/coretribepositioning/"
@@ -15410,6 +15414,10 @@
   "DongXian": {
     "title": "Dong Xian / 董贤",
     "url": "/wiki/entities/dongxian/"
+  },
+  "DongXianEasternHan": {
+    "title": "董宪 / Dong Xian (Eastern Han)",
+    "url": "/wiki/entities/dongxianeasternhan/"
   },
   "DongXuanEasternHan": {
     "title": "董宣 / Dong Xuan (Eastern Han)",
@@ -20407,6 +20415,10 @@
     "title": "富裕 / Fu Yu (Eastern Han Qiang protector)",
     "url": "/wiki/entities/fuyueasternhan/"
   },
+  "FuZhanEasternHan": {
+    "title": "傅湛 / Fu Zhan (Eastern Han)",
+    "url": "/wiki/entities/fuzhaneasternhan/"
+  },
   "FuZhiLateHan": {
     "title": "服直 / Fu Zhi (late Han)",
     "url": "/wiki/entities/fuzhilatehan/"
@@ -20710,6 +20722,10 @@
   "GaiXunLateHan": {
     "title": "盖勋 / Gai Xun (late Han)",
     "url": "/wiki/entities/gaixunlatehan/"
+  },
+  "GaiYanEasternHan": {
+    "title": "盖延 / Gai Yan (Eastern Han)",
+    "url": "/wiki/entities/gaiyaneasternhan/"
   },
   "GaiaBernstein": {
     "title": "Gaia Bernstein",
@@ -24515,6 +24531,10 @@
     "title": "Hotel Star-Rating Erosion",
     "url": "/wiki/concepts/hotelstarratingerosion/"
   },
+  "HouBaEasternHan": {
+    "title": "侯霸 / Hou Ba (Eastern Han)",
+    "url": "/wiki/entities/houbaeasternhan/"
+  },
   "HouCanLateHan": {
     "title": "侯参 / Hou Can (late Han)",
     "url": "/wiki/entities/houcanlatehan/"
@@ -26142,6 +26162,10 @@
   "InstitutionalPolicyPluralism": {
     "title": "Institutional Policy Pluralism",
     "url": "/wiki/concepts/institutionalpolicypluralism/"
+  },
+  "InstitutionalReconstructionFromPrecedent": {
+    "title": "旧制文献恢复式制度重建 / Institutional Reconstruction From Precedent",
+    "url": "/wiki/concepts/institutionalreconstructionfromprecedent/"
   },
   "InstitutionalSectarianDiscrimination": {
     "title": "Institutional Sectarian Discrimination",
@@ -30891,6 +30915,10 @@
     "title": "李暹 / Li Xian (late Han)",
     "url": "/wiki/entities/lixianlatehan/"
   },
+  "LiXianLujiangEasternHan": {
+    "title": "李宪 / Li Xian (Lujiang, Eastern Han)",
+    "url": "/wiki/entities/lixianlujiangeasternhan/"
+  },
   "LiXianTaiweiLateHan": {
     "title": "李贤 / Li Xian (taiwei, late Han)",
     "url": "/wiki/entities/lixiantaiweilatehan/"
@@ -32026,6 +32054,10 @@
   "LocalEliteSecurityPanic": {
     "title": "Local Elite Security Panic / 地方士族安全恐慌",
     "url": "/wiki/concepts/localelitesecuritypanic/"
+  },
+  "LocalFaultAttributionPacification": {
+    "title": "归咎安抚式平叛 / Local Fault Attribution Pacification",
+    "url": "/wiki/concepts/localfaultattributionpacification/"
   },
   "LocalFirstMemoryLayer": {
     "title": "Local-First Memory Layer",
@@ -37982,6 +38014,10 @@
   "OccidentalPetroleum": {
     "title": "Occidental Petroleum",
     "url": "/wiki/entities/occidentalpetroleum/"
+  },
+  "OccultDecisionCapture": {
+    "title": "术数俘获式决策失控 / Occult Decision Capture",
+    "url": "/wiki/concepts/occultdecisioncapture/"
   },
   "OccultPseudoscienceLiteraryModernity": {
     "title": "Occult And Pseudoscience In Literary Modernity",
@@ -50371,6 +50407,10 @@
     "title": "Surrender as Civilian-Protection Tradeoff / 献城保民权衡",
     "url": "/wiki/concepts/surrenderascivilianprotectiontradeoff/"
   },
+  "SurrenderTrustBreakdown": {
+    "title": "归降信任崩塌 / Surrender Trust Breakdown",
+    "url": "/wiki/concepts/surrendertrustbreakdown/"
+  },
   "SurrenderedPrisonerSecurityDilemma": {
     "title": "Surrendered Prisoner Security Dilemma / 杀降安全困境",
     "url": "/wiki/concepts/surrenderedprisonersecuritydilemma/"
@@ -52306,6 +52346,10 @@
   "TianRong": {
     "title": "田荣 / Tian Rong",
     "url": "/wiki/entities/tianrong/"
+  },
+  "TianRongYilingEasternHan": {
+    "title": "田戎 / Tian Rong (Yiling, Eastern Han)",
+    "url": "/wiki/entities/tianrongyilingeasternhan/"
   },
   "TianShengLateHan": {
     "title": "田胜 / Tian Sheng (late Han)",
@@ -57343,6 +57387,10 @@
     "title": "徙木立信 / Moving the Log to Build Trust",
     "url": "/wiki/concepts/ximulixin/"
   },
+  "XinChenEasternHan": {
+    "title": "辛臣 / Xin Chen (Eastern Han)",
+    "url": "/wiki/entities/xincheneasternhan/"
+  },
   "XinDynasty": {
     "title": "Xin dynasty / 新朝",
     "url": "/wiki/entities/xindynasty/"
@@ -59462,6 +59510,10 @@
   "ZhangFei": {
     "title": "张飞 / Zhang Fei",
     "url": "/wiki/entities/zhangfei/"
+  },
+  "ZhangFengZhuoEasternHan": {
+    "title": "张丰 / Zhang Feng (Zhuo Commandery, Eastern Han)",
+    "url": "/wiki/entities/zhangfengzhuoeasternhan/"
   },
   "ZhangFu": {
     "title": "张负 / Zhang Fu",
@@ -65170,6 +65222,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk": {
+    "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
   },
   "zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8": {
     "title": "《资治通鉴·汉纪》691丨敢夺江山的隗嚣，为何注定输给刘秀？",

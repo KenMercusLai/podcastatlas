@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 8749
+wiki_total_pages: 8757
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -584,6 +584,9 @@ wiki_pages:
   - key: "XinPiLateHan"
     title: "辛毗 / Xin Pi (late Han)"
     url: "/wiki/entities/xinpilatehan/"
+  - key: "XinChenEasternHan"
+    title: "辛臣 / Xin Chen (Eastern Han)"
+    url: "/wiki/entities/xincheneasternhan/"
   - key: "XinPingLateHan"
     title: "辛评 / Xin Ping (late Han)"
     url: "/wiki/entities/xinpinglatehan/"

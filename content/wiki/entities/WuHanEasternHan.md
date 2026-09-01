@@ -12,16 +12,19 @@ sources:
   - zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w
   - zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq
   - zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv
-last_updated: 2026-09-01
+  - zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk
+last_updated: 2026-09-02
 ---
 
 ## Overview
 
-Wu Han / 吴汉 is synthesized as an Eastern Han founding commander whose current profile now combines early recruitment and campaign work, Jianwu 8 Xicheng logistics failure against [[WeiXiaoEasternHan|隗嚣]], Jianwu 9 northern setback against Lu Fang-linked forces, succession to [[CenPengEasternHan|岑彭]]'s Shu command, operational success and near-disaster before Chengdu, tactical effectiveness at Chengdu, severe post-surrender overreach, later post-Shu honor, and late-life discipline. Hanji 707 sharpens the command-risk side: Wu Han does not disperse surplus troops despite Liu Xiu's warning, runs out of food during the Xicheng siege, burns baggage, and withdraws while Cen Peng covers the rear. The later evidence still supports Wu Han's founding utility, but it now has to be read beside repeated logistics and judgment failures, not only the Chengdu atrocity.
+Wu Han / 吴汉 is synthesized as an Eastern Han founding commander whose current profile now combines Jianwu 4 field victory and non-assault pacification, early recruitment and campaign work, Jianwu 8 Xicheng logistics failure against [[WeiXiaoEasternHan|隗嚣]], Jianwu 9 northern setback against Lu Fang-linked forces, succession to [[CenPengEasternHan|岑彭]]'s Shu command, operational success and near-disaster before Chengdu, severe post-surrender overreach, later post-Shu honor, and late-life discipline. Hanji 690 adds a positive early governance layer: Wu Han defeats Wuxiao at Linping and then handles Gexian by punishing the local official who caused revolt instead of attacking the city. The later evidence still supports Wu Han's founding utility, but it now has to be read as a mixed profile where restrained pacification, logistics error, battlefield recovery, and surrendered-city violence all coexist.
 
 ## Current Profile
 
 Hanji 733-2 pairs Wu Han with [[GengYanEasternHan|Geng Yan]] in [[LiuXiu|刘秀]]'s effort to secure soldiers and cavalry from the Youzhou/Shanggu military environment. He later appears alongside Geng Yan in Qinghe-related action, where the episode emphasizes battlefield pursuit, ambush, and tactical coordination rather than Wu Han's independent career.
+
+Hanji 690 backfills an earlier Jianwu 4 layer. Wu Han, Chen Jun, and [[WangLiangEasternHan|Wang Liang]] defeat Wuxiao at Linping. When Gexian's five major families expel the acting county head and occupy the county, Wu Han rejects his commanders' demand for immediate assault. He identifies the county head as the cause of the revolt, arrests him, sends reassurance, and receives the families' surrender.
 
 Hanji 707 adds a major western-front qualification. Liu Xiu tells Wu Han that attached forces are consuming food and may shake morale if they flee, so they should be dispersed. Wu Han and the other commanders keep the large force because they want the prestige of numbers. Food then runs short, soldiers become exhausted, desertion increases, and the Xicheng siege unravels after Gongsun Shu-backed reinforcements enter the city. Wu Han burns supplies and withdraws down Longshan while Cen Peng covers the rear.
 
@@ -41,7 +44,7 @@ Hanji 721 adds the late-life evaluation. When Wu Han is seriously ill, Liu Xiu v
 
 ## Key Characteristics
 
-- Liu Xiu founding general connected to northern recruitment, Qinghe campaign coordination with Geng Yan, and multi-front Guangwu command.
+- Liu Xiu founding general connected to northern recruitment, Jianwu 4 field action, Gexian non-assault pacification, and Qinghe campaign coordination with Geng Yan.
 - Major-force commander whose western and northern setbacks show numbers failing when food, morale, outside relief, and frontier support are mishandled.
 - Replacement Shu commander appointed after Cen Peng's assassination, before the Chengdu approach crisis.
 - Aggressive Chengdu-front commander whose unauthorized forward move creates separated-camp risk.
@@ -52,6 +55,7 @@ Hanji 721 adds the late-life evaluation. When Wu Han is seriously ill, Liu Xiu v
 ## Evidence
 
 - Youzhou recruitment and Qinghe action: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] places Wu Han with Geng Yan in the mission that brings northern soldiers to Liu Xiu and connects him to later operations around Qinghe.
+- Linping victory and Gexian pacification: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Wu Han helps defeat Wuxiao, then refuses to attack Gexian, arrests the acting county head blamed for abuse, and receives the five families' surrender.
 - Xicheng logistics failure: [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|Hanji 707]] says Liu Xiu orders surplus troops dispersed, but Wu Han and others keep them, leading to food shortage, exhaustion, desertion, burned supplies, and withdrawal.
 - Xicheng withdrawal and aftermath: [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|Hanji 707]] says Gongsun Shu-backed relief breaks the siege, Wu Han withdraws down Longshan, Cen Peng covers the rear, and Wei Xiao retakes western commanderies.
 - Northern setback: [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|Hanji 708]] says Wu Han leads Wang Chang and other generals against Jia Lan and Min Kan, but Xiongnu rescue prevents victory.
@@ -64,19 +68,21 @@ Hanji 721 adds the late-life evaluation. When Wu Han is seriously ill, Liu Xiu v
 
 ## Qualifications
 
-This page still does not attempt a complete account of Wu Han's Eastern Han career. Hanji 707 and Hanji 708 add failed western and northern actions, but the source notes are focused on campaign consequences rather than full tactical records. Hanji 711 places Wu Han in command after Cen Peng's assassination but does not yet narrate Wu Han's field decisions; the conduct evidence comes from Hanji 712 and Hanji 713. Hanji 712 shows both tactical recovery and command error: Wu Han's night concentration is effective, but it follows an overaggressive move Liu Xiu had warned against. Hanji 713 reports Liu Xiu's anger and rebuke but not a formal punishment or removal, and Hanji 715 later records honor and reward after the Shu campaign. The current evidence therefore supports a mixed judgment: Wu Han remains a useful and honored founding commander, but the Xicheng logistics failure, northern setback, Chengdu approach, food crises, and surrender episode are severe command and moral qualifications.
+This page still does not attempt a complete account of Wu Han's Eastern Han career. Hanji 690 adds a constructive early non-assault pacification case, but it is limited to Linping and Gexian. Hanji 707 and Hanji 708 add failed western and northern actions, but the source notes are focused on campaign consequences rather than full tactical records. Hanji 712 shows both tactical recovery and command error: Wu Han's night concentration is effective, but it follows an overaggressive move Liu Xiu had warned against. Hanji 713 reports Liu Xiu's anger and rebuke but not a formal punishment or removal, and Hanji 715 later records honor and reward after the Shu campaign. The current evidence therefore supports a mixed judgment: Wu Han remains a useful and honored founding commander, but his good Gexian diagnosis coexists with Xicheng logistics failure, northern setback, Chengdu approach risk, food crises, and surrender breach.
 
 ## What Changed
 
-- Added Hanji 707 as the Xicheng siege logistics layer: surplus troops, food shortage, desertion, burned supplies, withdrawal, and Cen Peng's rearguard.
-- Preserved Hanji 708 as the earlier northern setback against Jia Lan and Min Kan under Xiongnu rescue.
-- Preserved Hanji 711-713 as the Shu-command succession, Chengdu approach crisis, tactical recovery, food crisis, final victory, post-surrender violence, and Liu Xiu rebuke sequence.
-- Reframed Hanji 715's post-Shu honor and Hanji 721's deathbed discipline as later recognition that coexists with command failure and the Chengdu rebuke.
+- Added Hanji 690 as the Jianwu 4 Linping victory and Gexian local-fault pacification layer.
+- Preserved Hanji 707 and Hanji 708 as the Xicheng logistics failure and northern Xiongnu-backed setback.
+- Preserved Hanji 711-713 as the Shu-command succession, Chengdu approach crisis, tactical recovery, final victory, post-surrender violence, and Liu Xiu rebuke sequence.
+- Reframed Hanji 715's post-Shu honor and Hanji 721's deathbed discipline as later recognition that coexists with both good pacification judgment and severe command failure.
 - Preserved Hanji 733-2's early northern recruitment and Geng Yan campaign context.
 
 ## Relationships
 
 - [[LiuXiu|刘秀 / 光武帝]] - ruler whose northern recruitment effort Wu Han serves, whose warnings Wu Han sometimes ignores, whose post-Shu rewards honor him, and who receives his deathbed warning.
+- [[WangLiangEasternHan|王梁]] - co-commander in the Linping victory reported by Hanji 690.
+- [[LocalFaultAttributionPacification|归咎安抚式平叛]] - concept illustrated by Wu Han's refusal to attack Gexian after identifying the acting county head as the revolt's cause.
 - [[WeiXiaoEasternHan|隗嚣]] - western rival whose Xicheng rescue and recovery follow Wu Han's food-short withdrawal.
 - [[CenPengEasternHan|岑彭]] - Xicheng co-commander and predecessor in Shu command whose retreat-cover and no-plunder discipline frame Wu Han's contrast.
 - [[MinKanEasternHan|闵堪]] - Lu Fang-linked opponent named in Wu Han's unsuccessful Jianwu 9 northern action.

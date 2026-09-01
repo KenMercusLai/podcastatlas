@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！](sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk.md) — Jianwu 4 Guangwu episode on Tian Rong's failed surrender after Xin Chen's defection, Yan Cen's defeat and Hanzhong turn, Wu Han's Gexian pacification, Fu Zhan's campaign-priority advice, Gai Yan's failed Lanling rescue, Zhang Feng's fake-seal rebellion, Li Xian's siege, and Hou Ba's institutional reconstruction.
 - [《资治通鉴·汉纪》691丨敢夺江山的隗嚣，为何注定输给刘秀？](sources/zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8.md) — Early Guangwu backfill on Ma Yuan comparing Gongsun Shu and Liu Xiu, Wei Xiao's temporary anti-Shu cooperation, Liu Xiu's handwritten reassurance, Feng Yi's Chen Cang/Sanfu counterblow, and Wei Xiao's unstable positioning.
 - [《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？](sources/zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl.md) — Jianwu 5 Guangwu episode on Wang Ba's morale-tempo command: delayed rescue of Ma Wu, rear-cavalry defeat of Su Mao and Zhou Jian, fortified refusal under supply pressure, and later northern-frontier service.
 - [《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？](sources/zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm.md) — Jianwu 5 Guangwu episode on Peng Chong's household-slave killing by Zi Mi, the disputed "不义侯" reward, Guo Ji's Yuyang repair, Pang Meng's suspicion-driven rebellion, Liu Ping's self-sacrifice, Cen Peng's Shu-campaign preparation, and Ban Biao's pre-`王命论` Han-restoration argument.
@@ -1858,6 +1859,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [田戎 / Tian Rong (Yiling, Eastern Han)](entities/TianRongYilingEasternHan.md) — Yiling power holder whose planned surrender collapses through Xin Chen's theft, defection, suspicious letter, and divination.
+- [辛臣 / Xin Chen (Eastern Han)](entities/XinChenEasternHan.md) — Tian Rong's in-law and Yiling guard whose theft and defection to Cen Peng break the surrender channel.
+- [傅湛 / Fu Zhan (Eastern Han)](entities/FuZhanEasternHan.md) — Guangwu adviser whose remonstrance redirects Liu Xiu from distant Peng Chong toward nearer unsettled regions.
+- [盖延 / Gai Yan (Eastern Han)](entities/GaiYanEasternHan.md) — Han commander whose direct Lanling rescue ignores Liu Xiu's indirect Tan strategy and fails against Dong Xian.
+- [侯霸 / Hou Ba (Eastern Han)](entities/HouBaEasternHan.md) — Linhuai preserver and Shangshu Ling who restores administrative capacity by collecting lost institutional precedents.
+- [张丰 / Zhang Feng (Zhuo Commandery, Eastern Han)](entities/ZhangFengZhuoEasternHan.md) — Zhuo commandery rebel whose fake-seal imperial claim collapses when Ji Zun captures him and no seal appears.
+- [董宪 / Dong Xian (Eastern Han)](entities/DongXianEasternHan.md) — Eastern Han rebel commander whose Lanling/Tan maneuver traps Gai Yan and kills surrendered Ben Xiu.
+- [李宪 / Li Xian (Lujiang, Eastern Han)](entities/LiXianLujiangEasternHan.md) — Lujiang/Shu county holdout besieged by Ma Cheng and multi-commandery Han forces after Liu Xiu reaches Shouchun.
 - [王霸 / Wang Ba (Eastern Han)](entities/WangBaEasternHan.md) — Guangwu founding commander whose Hanji 692 profile joins delayed rescue, rear-cavalry timing, fortified refusal, and later northern-frontier governance.
 - [苏茂 / Su Mao (Eastern Han)](entities/SuMaoEasternHan.md) — Source-scoped Guangwu opponent whose strength, overattack, supply pressure, and flight make Wang Ba's patience legible.
 - [周建 / Zhou Jian (Eastern Han)](entities/ZhouJianEasternHan.md) — Source-scoped Su Mao ally at Chuihui whose defeat and gate-blocked retreat complete Wang Ba's battle case.
@@ -10611,6 +10620,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [归降信任崩塌 / Surrender Trust Breakdown](concepts/SurrenderTrustBreakdown.md) — Submission failure pattern where intermediary defection, property theft, suspicious messaging, and uncertainty turn planned surrender into renewed rebellion.
+- [归咎安抚式平叛 / Local Fault Attribution Pacification](concepts/LocalFaultAttributionPacification.md) — Pacification pattern where a revolt is settled by punishing the abusive local trigger and reassuring the community instead of assaulting it.
+- [先内后外式战略顺序 / Core-Before-Periphery Strategy](concepts/CoreBeforePeripheryStrategy.md) — Strategic sequencing pattern that secures nearer unsettled core regions before chasing harder peripheral targets.
+- [术数俘获式决策失控 / Occult Decision Capture](concepts/OccultDecisionCapture.md) — Decision-failure pattern where divination, fake omens, or prophetic claims convert uncertainty into political or military action.
+- [旧制文献恢复式制度重建 / Institutional Reconstruction From Precedent](concepts/InstitutionalReconstructionFromPrecedent.md) — State-capacity pattern where a new regime rebuilds governing practice by recovering old laws, documents, and administrative precedents.
 - [不义之功封赏 / Unrighteous Merit Reward](concepts/UnrighteousMeritReward.md) — Governance problem where a politically useful act violates legal-moral order, making public reward damage the meaning of merit and title.
 - [疑心自生式叛乱 / Suspicion-Generated Rebellion](concepts/SuspicionGeneratedRebellion.md) — Defection pattern where an actor interprets an ambiguous signal as hidden hostility and rebels before verifying intent.
 - [Headphone Use Hearing Risk](concepts/HeadphoneUseHearingRisk.md) — Headphone safety frame centered on volume, duration, sound-source distance, sudden peaks, device fit, pressure, ventilation, hygiene, and symptoms.
@@ -12024,7 +12038,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Merit-Shielded Accountability / 因功免责](concepts/MeritShieldedAccountability.md) — Governance pattern where an official's proven misconduct is softened because prior service and continuing usefulness protect him from normal sanction.
 - [Household Separation Law / 分居令](concepts/HouseholdSeparationLaw.md) — Shang Yang second-reform rule extending Qin state order into household room-sharing and gender/in-law separation.
 - [Qin Administrative Standardization / 秦国行政标准化](concepts/QinAdministrativeStandardization.md) — Shang Yang second-reform package consolidating counties, land boundaries, land allocation, and measurement standards.
-- [Encircling Wei to Rescue Zhao / 围魏救赵](concepts/EncirclingWeiToRescueZhao.md) — Strategy of relieving an ally by threatening what the aggressor must save instead of fighting at the obvious pressure point.
+- [Encircling Wei to Rescue Zhao / 围魏救赵](concepts/EncirclingWeiToRescueZhao.md) — Pressure-displacement strategy for relieving an endangered point by striking what the aggressor must save, with Hanji 690 adding a failed direct-rescue contrast.
 - [Lu Wine Handan War Cascade / 鲁酒薄而邯郸围](concepts/LuWineHandanWarCascade.md) — Diplomatic-causal chain where a tribute insult, honor conflict, and strategic distraction widen into Wei's siege of Handan.
 - [Tian Ji Horse Racing / 田忌赛马](concepts/TianJiHorseRacing.md) — Resource-allocation pattern where one planned loss creates two decisive wins across the larger contest.
 - [Lure Enemy Out of Position / 诱敌离位](concepts/LureEnemyOutOfPosition.md) — Tactic of drawing an enemy out of a safe formation, position, route, base, or force distribution through bait, false weakness, incentives, exposed targets, false escape, diversion, or burned-camp withdrawal.

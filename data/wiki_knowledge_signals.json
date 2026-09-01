@@ -6836,9 +6836,9 @@
       "url": "/wiki/concepts/catholicburiallegitimacy/"
     },
     "CenPengEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？ [liib38zUB0_tgRBTYcmlQvOHV-w-].md",
@@ -6867,9 +6867,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》699丨敢与刘秀争雄的他，为何惨淡收场？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/cenpengeasternhan/"
     },
     "CenZhiLateHan": {
@@ -9236,6 +9243,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/cooley/"
     },
+    "CoreBeforePeripheryStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/corebeforeperipherystrategy/"
+    },
     "CoronaryArteryCalciumMidlifeScreening": {
       "episode_count": 1,
       "show_count": 1,
@@ -11185,9 +11208,9 @@
       "url": "/wiki/entities/dengxuneasternhan/"
     },
     "DengYuEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
@@ -11202,9 +11225,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》715丨史上最智慧的一次夺权",
           "url": "/wiki/sources/zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/dengyueasternhan/"
     },
     "DengZhiLateHan": {
@@ -11898,6 +11928,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/dongxilatehan/"
+    },
+    "DongXianEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/dongxianeasternhan/"
     },
     "DongXuanEasternHan": {
       "episode_count": 1,
@@ -15149,6 +15195,50 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/emptyreputationrealitygap/"
+    },
+    "EncirclingWeiToRescueZhao": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒 [ljdLt6kIU8tg0Qws_jlYEJ_YhGXr].md",
+          "key": "zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》15丨酒不醇引发的世界大战 [li_IOjxtHQ8koMhLhyuMHo3YVTem].md",
+          "key": "zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》15丨酒不醇引发的世界大战",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》19丨马陵之战 [lhBAPt09X2PtdQx0uoPkP8APBaDA].md",
+          "key": "zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》19丨马陵之战",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》16丨孙膑庞涓恩怨纠葛 桂陵之战 [lrYHzkc1_xsVFjhvIcU8yxA9d2jr].md",
+          "key": "zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》16丨孙膑庞涓恩怨纠葛 桂陵之战",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/encirclingweitorescuezhao/"
     },
     "EnergyAbundanceClimateStrategy": {
       "episode_count": 1,
@@ -18585,6 +18675,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/fuyueasternhan/"
     },
+    "FuZhanEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/fuzhaneasternhan/"
+    },
     "FuZhiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -18900,6 +19006,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/gtsquared/"
+    },
+    "GaiYanEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/gaiyaneasternhan/"
     },
     "GaiusMarius": {
       "episode_count": 2,
@@ -19502,9 +19624,9 @@
       "url": "/wiki/entities/gengkuilatehan/"
     },
     "GengShuEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》725丨东汉名将祭肜：要保家卫国，就把敌人打趴下！ [lq06WnTw8K5230zmlNCQuYKARA9y].md",
@@ -19512,9 +19634,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》725丨东汉名将祭肜：要保家卫国，就把敌人打趴下！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/gengshueasternhan/"
     },
     "GengYanEasternHan": {
@@ -22275,6 +22404,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/hotelretailflywheel/"
     },
+    "HouBaEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/houbaeasternhan/"
+    },
     "HouCanLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -24266,6 +24411,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/institutionalpolicypluralism/"
+    },
+    "InstitutionalReconstructionFromPrecedent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/institutionalreconstructionfromprecedent/"
     },
     "InstitutionalTrustAIAdoption": {
       "episode_count": 1,
@@ -27837,6 +27998,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/liwenjilatehan/"
     },
+    "LiXianLujiangEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/lixianlujiangeasternhan/"
+    },
     "LiXieLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -30350,6 +30527,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/localauspiciousomenfabrication/"
+    },
+    "LocalFaultAttributionPacification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/localfaultattributionpacification/"
     },
     "LocalGovernanceAsCare": {
       "episode_count": 4,
@@ -35495,6 +35688,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/obsessivecompulsivedisorder/"
     },
+    "OccultDecisionCapture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/occultdecisioncapture/"
+    },
     "OdysseanLeadershipTrustFailure": {
       "episode_count": 1,
       "show_count": 1,
@@ -37243,9 +37452,9 @@
       "url": "/wiki/entities/penelope/"
     },
     "PengChongEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -37260,6 +37469,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
         }
       ],
       "updated": "2026-09-02",
@@ -45734,6 +45950,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/surrenderascivilianprotectiontradeoff/"
     },
+    "SurrenderTrustBreakdown": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/surrendertrustbreakdown/"
+    },
     "SuspicionDrivenEliteAlienation": {
       "episode_count": 4,
       "show_count": 1,
@@ -47289,6 +47521,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/tianminglatehan/"
+    },
+    "TianRongYilingEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/tianrongyilingeasternhan/"
     },
     "TianShengLateHan": {
       "episode_count": 2,
@@ -50681,9 +50929,9 @@
       "url": "/wiki/entities/wudaolatehan/"
     },
     "WuHanEasternHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -50740,9 +50988,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/wuhaneasternhan/"
     },
     "WuLaoshiSanlianEditor": {
@@ -51662,6 +51917,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/xieyunlatehan/"
     },
+    "XinChenEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/xincheneasternhan/"
+    },
     "XinPiLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -52506,9 +52777,9 @@
       "url": "/wiki/entities/yanbaihu/"
     },
     "YanCenEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
@@ -52530,9 +52801,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/yanceneasternhan/"
     },
     "YanChangLateHan": {
@@ -54626,6 +54904,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhangfangeunuchlatehan/"
+    },
+    "ZhangFengZhuoEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/zhangfengzhuoeasternhan/"
     },
     "ZhangGangLateHan": {
       "episode_count": 4,

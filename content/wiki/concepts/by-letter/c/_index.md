@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6226
+wiki_total_pages: 6231
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1862,6 +1862,9 @@ wiki_pages:
   - key: "CultivatedImperialCapacity"
     title: "修养型帝王能力 / Cultivated Imperial Capacity"
     url: "/wiki/concepts/cultivatedimperialcapacity/"
+  - key: "CoreBeforePeripheryStrategy"
+    title: "先内后外式战略顺序 / Core-Before-Periphery Strategy"
+    url: "/wiki/concepts/corebeforeperipherystrategy/"
   - key: "CommandCreditMisattribution"
     title: "军功归属错置 / Command Credit Misattribution"
     url: "/wiki/concepts/commandcreditmisattribution/"

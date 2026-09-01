@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6226
+wiki_total_pages: 6231
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1742,6 +1742,9 @@ wiki_pages:
   - key: "SichuanPostConquestResistance"
     title: "川蜀征服后反抗 / Sichuan Post-Conquest Resistance"
     url: "/wiki/concepts/sichuanpostconquestresistance/"
+  - key: "SurrenderTrustBreakdown"
+    title: "归降信任崩塌 / Surrender Trust Breakdown"
+    url: "/wiki/concepts/surrendertrustbreakdown/"
   - key: "SpoilsLossMobilization"
     title: "战利品损失动员 / Spoils-Loss Mobilization"
     url: "/wiki/concepts/spoilslossmobilization/"

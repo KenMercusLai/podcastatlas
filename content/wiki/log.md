@@ -14784,6 +14784,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-02] ingest | 《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！
+
+Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 4 / 28 CE around Tian Rong's failed surrender, Xin Chen's defection, Yan Cen's Shunyang defeat and Hanzhong turn, Wu Han's Gexian pacification, Fu Zhan's campaign-priority remonstrance, Gai Yan's failed Lanling rescue, Zhang Feng's fake-seal rebellion, Li Xian's Shu-county siege, and Hou Ba's institutional reconstruction. Added source `zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk`; created `TianRongYilingEasternHan`, `XinChenEasternHan`, `FuZhanEasternHan`, `GaiYanEasternHan`, `HouBaEasternHan`, `ZhangFengZhuoEasternHan`, `DongXianEasternHan`, `LiXianLujiangEasternHan`, `SurrenderTrustBreakdown`, `LocalFaultAttributionPacification`, `CoreBeforePeripheryStrategy`, `OccultDecisionCapture`, and `InstitutionalReconstructionFromPrecedent`; updated `YanCenEasternHan`, `WuHanEasternHan`, `PengChongEasternHan`, `DengYuEasternHan`, `GengShuEasternHan`, `CenPengEasternHan`, `EncirclingWeiToRescueZhao`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 田戎 is kept distinct from `TianRong` / 田荣, 董宪 from 董贤, and this 李宪 from other Li Xian routes.
+
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》691丨敢夺江山的隗嚣，为何注定输给刘秀？
 
 Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling early Guangwu alignment around Ma Yuan's Chengdu/Luoyang observations, Gongsun Shu's display-oriented reception, Liu Xiu's trust signal, Wei Xiao's temporary anti-Shu cooperation, Feng Yi's Chen Cang/Sanfu counterblow, and the host's diagnosis of Wei Xiao's unclear position. Added source `zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8`; updated `WeiXiaoEasternHan`, `MaYuanEasternHan`, `GongsunShuEasternHan`, `FengYiEasternHan`, `FenceSittingStrategicExposure`, `SuspicionDrivenEliteAlienation`, `index`, and `overview`. No settled contradiction found; the source backfills a cooperative-but-unstable stage before the later Wei Xiao refusal and rebellion sequence.
@@ -14827,6 +14831,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] ingest | The Mountains Choose You: Araceli Segarra on Adventure & Resilience | Shekhar Natarajan
 
 Ingested the 2026-09-01 Tomorrow Today episode with Araceli Segarra on Everest, the 1996 IMAX expedition, fear, uncertainty, team trust, rescue, resilience, and AI-era judgment. Added source `default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757`; created `AraceliSegarra`, `DavidBreshears`, `BeckWeathers`, `ColonelMadanEverestPilot`, `EverestIMAXExpedition`, `SummitAsTransformation`, `AdventureUncertaintyReframing`, `ExpeditionTeamTrust`, and `AIHowHumanWhyBoundary`; updated `ShekharNatarajan`, `TomorrowToday`, `ExtremeEnvironmentRiskManagement`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Aracely Sagara/Aracely is normalized to Araceli Segarra, while exact rescue chronology, Colonel Madan's full identity, David Breshears details, and full climbing biography remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 

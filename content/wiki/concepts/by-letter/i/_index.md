@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6226
+wiki_total_pages: 6231
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -764,6 +764,9 @@ wiki_pages:
   - key: "ImperialSelfCriticismEdict"
     title: "帝王自责诏 / Imperial Self-Criticism Edict"
     url: "/wiki/concepts/imperialselfcriticismedict/"
+  - key: "InstitutionalReconstructionFromPrecedent"
+    title: "旧制文献恢复式制度重建 / Institutional Reconstruction From Precedent"
+    url: "/wiki/concepts/institutionalreconstructionfromprecedent/"
   - key: "ImperialConsortPosthumousTitleSystem"
     title: "皇后谥号制度 / Imperial Consort Posthumous Title System"
     url: "/wiki/concepts/imperialconsortposthumoustitlesystem/"

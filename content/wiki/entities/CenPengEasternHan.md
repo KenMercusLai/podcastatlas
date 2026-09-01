@@ -8,14 +8,17 @@ sources:
   - zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv
   - zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz
   - zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z
-last_updated: 2026-09-01
+  - zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk
+last_updated: 2026-09-02
 ---
 
 ## Overview
 
-Cen Peng / 岑彭 is an Eastern Han commander whose current profile now combines southern diplomatic pacification, a Jianwu 8 western-campaign retreat role, a Jianwu 11 water-front and bridge-breaking prelude, and the later Shu breakthrough and assassination. [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] shows him using friendship correspondence and proclamations to help bring [[JiaozhiCommandery|Jiaozhi]] and Jiangnan actors toward Liu Xiu. Hanji 707 then shows him in the Wei Xiao war, where his Xicheng siege pressure nearly succeeds and his rearguard preserves Han forces after [[WuHanEasternHan|吴汉]]'s food-short withdrawal. Hanji 710 shows [[LiuXiu|刘秀]] making Cen Peng the water-war authority at Jingmen, and Hanji 711 presents him as the commander who breaks the Shu defensive line through fast long-distance movement, strict discipline, and pressure toward Chengdu before [[GongsunShuEasternHan|公孙述]] has him assassinated.
+Cen Peng / 岑彭 is an Eastern Han commander whose current profile now combines early surrender-channel management around [[TianRongYilingEasternHan|Tian Rong]], southern diplomatic pacification, a Jianwu 8 western-campaign retreat role, a Jianwu 11 water-front and bridge-breaking prelude, and the later Shu breakthrough and assassination. [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] shows Cen Peng receiving [[XinChenEasternHan|Xin Chen]] after defection and then defeating Tian Rong when the surrender channel collapses. [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] shows him using friendship correspondence and proclamations to help bring [[JiaozhiCommandery|Jiaozhi]] and Jiangnan actors toward Liu Xiu. Hanji 707 then shows him in the Wei Xiao war, while Hanji 710 and Hanji 711 present him as the water-command and speed-breakthrough figure whose Shu advance ends in assassination.
 
 ## Current Profile
+
+Hanji 690 supplies an early surrender-and-field layer. Xin Chen steals hidden valuables from Tian Rong, defects to Cen Peng, and then writes back urging Tian Rong to submit. Tian Rong reads the letter as evidence that Xin Chen has betrayed him rather than opened a safe path, divination hardens the reversal, and Tian Rong joins Qin Feng before Cen Peng defeats him. Cen Peng's role here is not the cause of the trust breakdown, but he becomes the receiving commander and then the military answer after surrender fails.
 
 Hanji 699 gives Cen Peng a pre-campaign diplomatic layer. He writes to Jiaozhi Mu Deng Rang through personal friendship, and Qu Chong circulates Liu Xiu's orders across Jiangnan and the southern field. Deng Rang and other regional actors send tribute, and Liu Xiu enfeoffs them. This makes Cen Peng a conduit for pacification by letters and proclamations before the better-known siege and water-command profile.
 
@@ -33,16 +36,17 @@ Cen Peng's death gives Hanji 711 its central irony. After Liu Xiu judges the Shu
 
 ## Key Characteristics
 
+- Early surrender-channel commander who receives Xin Chen and later defeats Tian Rong after trust collapses.
 - Diplomatic pacification conduit whose letters and proclamations help bring southern actors toward Liu Xiu before his later battlefield profile.
 - Siege-pressure actor who can use terrain and water but remains vulnerable to outside relief forces.
 - Rearguard commander who preserves retreat after food shortage and desertion undo a siege.
 - Specialist water-front commander whose Liu Xiu-backed authority, reward incentives, fire attack, and pursuit open the Jingmen route.
-- Eastern Han commander whose rapid Shu breakthrough changes the campaign before Chengdu.
-- Disciplined conquest commander whose troops are remembered for not plundering local communities.
+- Disciplined rapid-breakthrough commander whose Shu advance changes the campaign before Chengdu.
 - Assassination victim whose death occurs after operational success but before final victory.
 
 ## Evidence
 
+- Tian Rong surrender-channel collapse: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Xin Chen defects to Cen Peng, writes Tian Rong toward surrender, and that Tian Rong instead joins Qin Feng before Cen Peng defeats him.
 - Southern proclamation route: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] says Cen Peng writes to Jiaozhi Mu Deng Rang through friendship and that Qu Chong circulates Liu Xiu's orders, helping southern actors send tribute and receive enfeoffment.
 - Xicheng siege pressure: [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|Hanji 707]] says Cen Peng channels water against Xicheng and nearly brings the attack to the wall before relief troops enter.
 - Rearguard retreat: [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|Hanji 707]] says Cen Peng covers the rear after Wu Han burns baggage and withdraws, allowing the generals to retreat intact.
@@ -56,19 +60,22 @@ Cen Peng's death gives Hanji 711 its central irony. After Liu Xiu judges the Shu
 
 ## Qualifications
 
-This page does not reconstruct Cen Peng's full career before Xicheng or every step between southern pacification, Xicheng, and the Shu campaign. Hanji 699 gives the Jiaozhi/Jiangnan letter-and-proclamation layer but leaves Deng Rang, Qu Chong, Hou Deng, Wang Tang, Han Fu, Zhang Long, Tian Xi, Du Mu, and other southern actors source-scoped. Hanji 707 gives the western-front siege and retreat layer but not a full command hierarchy for every force at Xicheng and Shanggui. Hanji 710 supplies the Jingmen water-front, bridge attack, no-plunder discipline, and split-route setup, but its transcript stops before Cen Peng's own assassination is completed. Hanji 711 remains the stronger source for the Wuyang/Guangdu breakthrough, death, and local memory. Cen Peng's humane reputation is a source-supported contrast with Wu Han's later Chengdu conduct, not proof that all Han conquest armies behaved similarly.
+This page does not reconstruct Cen Peng's full career before the Tian Rong, southern pacification, Xicheng, and Shu layers. Hanji 690 makes him the receiving commander in Xin Chen's defection and the commander who defeats Tian Rong, but it does not describe Cen Peng designing Xin Chen's theft or Tian Rong's divination reversal. Hanji 699 gives the Jiaozhi/Jiangnan letter-and-proclamation layer but leaves many southern actors source-scoped. Hanji 707 gives the western-front siege and retreat layer but not a full command hierarchy for every force at Xicheng and Shanggui. Hanji 710 supplies the Jingmen water-front, bridge attack, no-plunder discipline, and split-route setup, but its transcript stops before Cen Peng's own assassination is completed. Hanji 711 remains the stronger source for the Wuyang/Guangdu breakthrough, death, and local memory.
 
 ## What Changed
 
-- Added Hanji 699 as Cen Peng's southern letter-and-proclamation pacification layer.
-- Reframed the page from a western-front-to-Shu command profile into a diplomacy, siege, water-command, and Shu-breakthrough profile.
+- Added Hanji 690 as the Xin Chen defection, Tian Rong failed-surrender, and Cen Peng defeat-of-Tian-Rong layer.
+- Preserved Hanji 699 as Cen Peng's southern letter-and-proclamation pacification layer.
 - Preserved Hanji 707 as Cen Peng's Xicheng siege-pressure and retreat-cover layer.
-- Added Hanji 710 as the water-command, floating-bridge, no-plunder, Pingqu grain, and split-route prelude.
+- Preserved Hanji 710 as the water-command, floating-bridge, no-plunder, Pingqu grain, and split-route prelude.
 - Preserved Hanji 711 as the later Wuyang/Guangdu breakthrough, assassination, and local-memory layer.
 
 ## Relationships
 
 - [[LiuXiu|光武帝刘秀]] - ruler whose western and Shu campaigns use Cen Peng's command and who later appoints Wu Han after Cen Peng is assassinated.
+- [[TianRongYilingEasternHan|田戎]] - wavering local power holder whom Cen Peng defeats after surrender trust collapses.
+- [[XinChenEasternHan|辛臣]] - defector received by Cen Peng before writing back to Tian Rong.
+- [[SurrenderTrustBreakdown|归降信任崩塌]] - concept illustrated by the failed Tian Rong submission channel.
 - [[JiaozhiCommandery|交趾郡]] - southern commandery whose submission route Cen Peng helps open through Deng Rang contact and Liu Xiu's proclamations.
 - [[RitualAgrarianFrontierIntegration|礼俗农事式边疆整合]] - adjacent southern-governance pattern that follows the pacification route Cen Peng helps create.
 - [[WeiXiaoEasternHan|隗嚣]] - western rival whose Xicheng rescue prevents Cen Peng's siege pressure from ending the campaign.

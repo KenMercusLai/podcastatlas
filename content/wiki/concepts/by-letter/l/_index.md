@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6226
+wiki_total_pages: 6231
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -734,6 +734,9 @@ wiki_pages:
   - key: "LyuBuFactionalBalance"
     title: "Lü Bu Factional Balance / 吕布集团派系平衡"
     url: "/wiki/concepts/lyubufactionalbalance/"
+  - key: "LocalFaultAttributionPacification"
+    title: "归咎安抚式平叛 / Local Fault Attribution Pacification"
+    url: "/wiki/concepts/localfaultattributionpacification/"
   - key: "LiteraryTravelAsCareerStrategy"
     title: "文人漫游作为仕途策略 / Literary Travel As Career Strategy"
     url: "/wiki/concepts/literarytravelascareerstrategy/"
