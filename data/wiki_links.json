@@ -20407,6 +20407,10 @@
     "title": "傅干 / Fu Gan",
     "url": "/wiki/entities/fugan/"
   },
+  "FuLongEasternHan": {
+    "title": "伏隆 / Fu Long (Eastern Han)",
+    "url": "/wiki/entities/fulongeasternhan/"
+  },
   "FuRongLateHan": {
     "title": "符融 / Fu Rong (late Han)",
     "url": "/wiki/entities/furonglatehan/"
@@ -31766,6 +31770,10 @@
   "LiuNaLateHan": {
     "title": "刘纳 / Liu Na (late Han)",
     "url": "/wiki/entities/liunalatehan/"
+  },
+  "LiuPenziEasternHan": {
+    "title": "刘盆子 / Liu Penzi (Eastern Han)",
+    "url": "/wiki/entities/liupenzieasternhan/"
   },
   "LiuPiRunanLateHan": {
     "title": "刘辟 / Liu Pi (Runan late Han)",
@@ -49419,6 +49427,10 @@
     "title": "Status Descent Pressure / 身份落差压力",
     "url": "/wiki/concepts/statusdescentpressure/"
   },
+  "StatusDrivenCommandFailure": {
+    "title": "面子驱动的指挥失误 / Status-Driven Command Failure",
+    "url": "/wiki/concepts/statusdrivencommandfailure/"
+  },
   "StatusFilteredTalentMisrecognition": {
     "title": "Status-Filtered Talent Misrecognition / 门第筛选式人才误判",
     "url": "/wiki/concepts/statusfilteredtalentmisrecognition/"
@@ -65298,6 +65310,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60": {
+    "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
   },
   "zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme": {
     "title": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？",

@@ -24536,6 +24536,13 @@
       "url": "/topics/history/"
     }
   ],
+  "FuLongEasternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FuYu": [
     {
       "key": "economics",
@@ -56439,6 +56446,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "StatusDrivenCommandFailure": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "StatusInsultDefectionCascade": [

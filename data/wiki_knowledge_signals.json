@@ -4785,9 +4785,9 @@
       "url": "/wiki/concepts/basicresearchbreakthroughlatency/"
     },
     "BattlefieldFeintAndLure": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -4823,9 +4823,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？ [lpabDVtmhtrF37PUwVgI4C9AjP60].md",
+          "key": "zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/battlefieldfeintandlure/"
     },
     "BeckWeathers": {
@@ -7959,6 +7966,29 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/chesterwilliams/"
     },
+    "ChimeiRebellion": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？ [lpabDVtmhtrF37PUwVgI4C9AjP60].md",
+          "key": "zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/chimeirebellion/"
+    },
     "ChinaBurgerExpansion": {
       "episode_count": 2,
       "show_count": 1,
@@ -9612,9 +9642,9 @@
       "url": "/wiki/entities/cooley/"
     },
     "CoreBeforePeripheryStrategy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
@@ -9622,6 +9652,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？ [lpabDVtmhtrF37PUwVgI4C9AjP60].md",
+          "key": "zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
         }
       ],
       "updated": "2026-09-02",
@@ -11662,9 +11699,9 @@
       "url": "/wiki/entities/dengxuneasternhan/"
     },
     "DengYuEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
@@ -11686,6 +11723,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？ [lpabDVtmhtrF37PUwVgI4C9AjP60].md",
+          "key": "zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
         }
       ],
       "updated": "2026-09-02",
@@ -17442,9 +17486,9 @@
       "url": "/wiki/entities/fengtouquan/"
     },
     "FengYiEasternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？ [lqCkX-aClcHKZQqe3pTtnklu9Vot].md",
@@ -17487,6 +17531,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？ [lpabDVtmhtrF37PUwVgI4C9AjP60].md",
+          "key": "zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
         }
       ],
       "updated": "2026-09-02",
@@ -19172,6 +19223,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/fugan/"
+    },
+    "FuLongEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？ [lpabDVtmhtrF37PUwVgI4C9AjP60].md",
+          "key": "zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/fulongeasternhan/"
     },
     "FuRongLateHan": {
       "episode_count": 2,
@@ -30164,6 +30231,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/liumubeihaiking/"
     },
+    "LiuPenziEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？ [lpabDVtmhtrF37PUwVgI4C9AjP60].md",
+          "key": "zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/liupenzieasternhan/"
+    },
     "LiuPiRunanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -38143,9 +38226,9 @@
       "url": "/wiki/entities/penelope/"
     },
     "PengChongEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -38167,6 +38250,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？ [lpabDVtmhtrF37PUwVgI4C9AjP60].md",
+          "key": "zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
         }
       ],
       "updated": "2026-09-02",
@@ -45382,6 +45472,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/staticstretchingdoseprotocol/"
+    },
+    "StatusDrivenCommandFailure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？ [lpabDVtmhtrF37PUwVgI4C9AjP60].md",
+          "key": "zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/statusdrivencommandfailure/"
     },
     "SteppePastoralResourcePressure": {
       "episode_count": 1,
@@ -55674,9 +55780,9 @@
       "url": "/wiki/entities/zhangbailulatehan/"
     },
     "ZhangBuEasternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -55712,9 +55818,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？ [lpabDVtmhtrF37PUwVgI4C9AjP60].md",
+          "key": "zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/zhangbueasternhan/"
     },
     "ZhangChangNanyangLateHan": {

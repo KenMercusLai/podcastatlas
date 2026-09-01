@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 872
+topic_total_pages: 873
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1498,6 +1498,9 @@ topic_concepts:
   - key: "ComicMaskSurvival"
     title: "搞笑面具式生存 / Comic Mask Survival"
     url: "/wiki/concepts/comicmasksurvival/"
+  - key: "StatusDrivenCommandFailure"
+    title: "面子驱动的指挥失误 / Status-Driven Command Failure"
+    url: "/wiki/concepts/statusdrivencommandfailure/"
 topic_entities:
   - key: "5MeODMT"
     title: "5-MeO-DMT"

@@ -14875,3 +14875,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] ingest | 《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？
+
+Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 3 / 27 CE around Deng Yu's Chimei rout, Feng Yi's advice and disguised ambush, Liu Penzi's mass surrender and later support, Fu Long's doomed Zhang Bu mission, and Peng Chong's exposed Yan claim. Added source `zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60`; created `LiuPenziEasternHan`, `FuLongEasternHan`, and `StatusDrivenCommandFailure`; updated `DengYuEasternHan`, `FengYiEasternHan`, `ChimeiRebellion`, `ZhangBuEasternHan`, `PengChongEasternHan`, `BattlefieldFeintAndLure`, `CoreBeforePeripheryStrategy`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Liu Yong, Fan Chong, Liu Gong, Xu Xuan, Yang Yin, Deng Hong, and minor Chimei/Peng Chong place details remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

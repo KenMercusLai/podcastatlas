@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2155
+topic_total_pages: 2156
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -5480,6 +5480,9 @@ topic_entities:
   - key: "Estraven"
     title: "伊斯特拉凡 / Estraven"
     url: "/wiki/entities/estraven/"
+  - key: "FuLongEasternHan"
+    title: "伏隆 / Fu Long (Eastern Han)"
+    url: "/wiki/entities/fulongeasternhan/"
   - key: "Zhongshu"
     title: "众数 / 仲树"
     url: "/wiki/entities/zhongshu/"

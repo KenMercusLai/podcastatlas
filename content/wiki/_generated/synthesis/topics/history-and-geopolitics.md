@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-02
-as_of_overview_commit: dfbc53ba1efdef11df3ef87012b0221ac74304f5
-input_digest: e8adc70d331a830aa6fd823c96fed033da2ec713cb26bea7e6bb781413bb3a7a
+as_of_overview_commit: 14f2217998b59e4b1b59d81ed6bd6a4b5beec630
+input_digest: 6ebbcf2e2de3809abd538e9c3fc7bdbd4ce6bbdda52ef936744201cac5b8953e
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 689-1 adds an early Guangwu/Jianwu 3 layer before the Wei Xiao arc: Liu Xiu is still clearing multiple fronts while Lai Xi opens the first Wei Xiao courtship to isolate Gongsun Shu, and the source marks high courtesy as contact rather than settled allegiance because Wei Xiao remains suspicious. Hanji 689-2 and Hanji 689-3 separately form a Western Han/Niya-Jingjue evidence layer through Han documents, Niya ruins, Kharosthi materials, the five-star brocade, omen politics, Western Regions diplomacy, and qualified multi-cause decline. The broader history branch continues to read power through legitimacy, institutions, logistics, alliances, frontier capacity, appointment quality, surrender credibility, and symbolic order.
+Hanji 688 adds the earliest current Guangwu/Jianwu 3 Chimei settlement layer: Deng Yu's status-driven command failure contrasts with Feng Yi's patience and disguised ambush, while Liu Penzi's surrender, Fu Long's doomed Zhang Bu mission, and Liu Xiu's delayed response to Peng Chong connect early consolidation to timing, credible settlement, title politics, and core-before-periphery priority. Hanji 689-1 then adds the adjacent Wei Xiao courtship layer, where Liu Xiu is still clearing multiple fronts and Lai Xi opens contact to isolate Gongsun Shu while Wei Xiao remains suspicious. Hanji 689-2 and Hanji 689-3 separately form a Western Han/Niya-Jingjue evidence layer through Han documents, Niya ruins, Kharosthi materials, the five-star brocade, omen politics, Western Regions diplomacy, and qualified multi-cause decline.
 
 ## Cross-source Findings
 
@@ -28,6 +28,19 @@ Hanji 689-1 adds an early Guangwu/Jianwu 3 layer before the Wei Xiao arc: Liu Xi
 - The current source notes differ between "利中国" and "立中国" for the brocade phrase, so the exact character remains unresolved here.
 - Hanji 689-3's gift-or-warning purpose, right-arm armguard explanation, and 2040-09-09 five-planet comparison remain bounded interpretations.
 - The combined Jingjue decline branch remains multi-causal: lost Han protection, regional annexation pressure, ecological drying, and long-term invasion pressure all remain in view.
+
+### Early Eastern Han 688 Chimei Surrender And Command Timing
+
+[[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] backfills Jianwu 3 / 27 CE before [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|Hanji 689-1]] and [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]]: [[DengYuEasternHan]]'s Chimei campaign turns [[StatusDrivenCommandFailure]] into defeat under hungry-troop conditions, while [[FengYiEasternHan]] restores timing through caution, rest advice, disguise, and ambush against [[ChimeiRebellion]]. The surrender of [[LiuPenziEasternHan]] and the doomed [[FuLongEasternHan]] mission to [[ZhangBuEasternHan]] make early [[LiuXiu]] consolidation a mix of force display, credible settlement, title-politics risk, [[BattlefieldFeintAndLure]], and [[CoreBeforePeripheryStrategy]] toward [[PengChongEasternHan]].
+
+**Evidence:** [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60]], [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme]], [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk]], [[DengYuEasternHan]], [[StatusDrivenCommandFailure]], [[FengYiEasternHan]], [[ChimeiRebellion]], [[LiuPenziEasternHan]], [[FuLongEasternHan]], [[ZhangBuEasternHan]], [[LiuXiu]], [[BattlefieldFeintAndLure]], [[CoreBeforePeripheryStrategy]], [[PengChongEasternHan]], [[RuiqiJiangtouZizhiTongjian]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 688 and backfills Jianwu 3 / 27 CE before Hanji 689-1 and Hanji 690, not a reversal of later Deng Yu recovery or Feng Yi western-campaign evidence.
+- The status-driven failure diagnosis is the host's interpretive layer; the bounded facts are hungry troops, rejected counsel, repeated attack, defeat, and later reassignment.
+- Liu Yong, Deng Hong, Liu Gong, Fan Chong, Feng An, Xu Xuan, Yang Yin, Dong Xian's title, exact force counts, and minor place readings remain source-scoped.
+- Peng Chong's later Geng-family loyalty test and household collapse remain grounded in Hanji 690, Hanji 733-2, and Hanji 693 rather than completed by this source alone.
 
 ### Early Eastern Han 689 1 Guangwu Multifront Cleanup And Weixiao Courtship
 
