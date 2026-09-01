@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？](sources/zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm.md) — Jianwu 5 Guangwu episode on Peng Chong's household-slave killing by Zi Mi, the disputed "不义侯" reward, Guo Ji's Yuyang repair, Pang Meng's suspicion-driven rebellion, Liu Ping's self-sacrifice, Cen Peng's Shu-campaign preparation, and Ban Biao's pre-`王命论` Han-restoration argument.
 - [《资治通鉴·汉纪》694丨《王命论》揭露东汉什么隐秘？](sources/zizhi-tongjian-hanji-694-wangminglun-jielu-donghan-shenme-yinmi-lvsrsevrkj9ukcth6qbalnt6buf8.md) — Jianwu 5 episode on Ban Biao's `王命论`, Wei Xiao's total-victory ambition, mandate-based title restraint, Liu Bang as founding precedent, failed claimant warnings, and Ban Biao's exit to Dou Rong.
 - [VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？](sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb.md) — 这病说来话长 episode with 阿汤 and 耳鼻喉吕博士 on headphone-heavy listening, ear-canal inflammation, noise exposure, tinnitus, sudden hearing-change warning signs, and practical earphone hygiene.
 - [《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？](sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody.md) — Jianwu 5 Guangwu episode on Dou Rong's decision to submit Hexi to Liu Xiu, Liu Xiu's patient Taocheng and Dong Xian campaign timing, and Geng Yan's Zhu'a-Juli lure that kills Fei Yi before Hanji 696.
@@ -1853,6 +1854,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [紫密 / Zi Mi (Eastern Han)](entities/ZiMiEasternHan.md) — Peng Chong household slave whose killing of his master ends the Yan rebel court and exposes the "不义侯" reward problem.
+- [庞萌 / Pang Meng (Eastern Han)](entities/PangMengEasternHan.md) — Previously trusted Guangwu subordinate whose unverified suspicion turns into rebellion, Dongping kingship, and the Sun Meng-Liu Ping loyalty crisis.
 - [耳鼻喉吕博士 / Dr. Lv (ENT)](entities/LvDoctorENT.md) — Source-scoped otolaryngology guest in VOL.208 explaining headphone use, ear-canal inflammation, tinnitus, hearing risk, and sudden hearing-change escalation.
 - [Shenzhen People's Hospital / 深圳市人民医院](entities/ShenzhenPeopleHospital.md) — Source-scoped hospital affiliation named for the ENT guest in the VOL.208 headphone and hearing-risk episode.
 - [Hindu Kush Himalaya](entities/HinduKushHimalaya.md) — Regional mountain system linking warming, glacier retreat, cross-border flood hazards, and Nepal's disaster exposure.
@@ -1890,7 +1893,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨广 / Yang Guang (Wei Xiao retainer)](entities/YangGuangWeiXiaoRetainer.md) — Wei Xiao retainer whom Ma Yuan urges to remonstrate or leave after diagnosing Wei Xiao's two-commandery position as structurally untenable.
 - [岑彭 / Cen Peng (Eastern Han)](entities/CenPengEasternHan.md) — Guangwu commander whose water-command authority, bridge attack, no-plunder discipline, fast Shu breakthrough, assassination, and local memory span Hanji 710-711.
 - [臧宫 / Zang Gong (Eastern Han)](entities/ZangGongEasternHan.md) — Shu-campaign commander under Cen Peng who turns unstable surrendered troops and new supplies into a tempo-and-intimidation victory over Yan Cen.
-- [郭伋 / Guo Ji (Eastern Han)](entities/GuoJiEasternHan.md) — Publicly trusted Da Sikong candidate, Yingchuan bandit pacifier, and Bingzhou governor arguing for nationwide official selection.
+- [郭伋 / Guo Ji (Eastern Han)](entities/GuoJiEasternHan.md) — Yuyang repair official, publicly trusted Da Sikong candidate, Yingchuan bandit pacifier, and Bingzhou governor arguing for nationwide official selection.
 - [李通 / Li Tong (Eastern Han)](entities/LiTongEasternHan.md) — Guangwu-era founding-merit figure appointed Da Sikong in 31 CE who later returns full office but keeps honored court access.
 - [杜诗 / Du Shi (Eastern Han)](entities/DuShiEasternHan.md) — Nanyang administrator remembered for clean rule, water works, land opening, and household prosperity under Guangwu.
 - [公孙述 / Gongsun Shu (Eastern Han)](entities/GongsunShuEasternHan.md) — Shu-based rival ruler whose fuming legitimacy, rejected Jing Han advice, path-dependent governance, western support, assassination responses, refused surrender, and Chengdu collapse frame the Shu war.
@@ -2001,7 +2004,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [窦融 / Dou Rong (Eastern Han)](entities/DouRongEasternHan.md) — Hexi power-holder integrated through letter-based allegiance, Luoyang seal submission, returned honor, rejected resignation, and later patriarchal prestige.
 - [窦穆 / Dou Mu (Eastern Han)](entities/DouMuEasternHan.md) — Dou-family descendant who falsely invokes Yin Taihou authority to coerce a royal marriage and is later executed after Dou Rong's death.
 - [钟离意 / Zhongli Yi (Eastern Han)](entities/ZhongliYiEasternHan.md) — Yongping 3 official whose omen-framed remonstrance stops North Palace construction and whose later leniency advice marks a protected but unadopted correction.
-- [刘平 / Liu Ping (Eastern Han official)](entities/LiuPingEasternHan.md) — Quanjiao administrator whose trust signals include voluntary tax reporting, service willingness, and nearly empty prisons.
+- [刘平 / Liu Ping (Eastern Han official)](entities/LiuPingEasternHan.md) — Eastern Han official whose evidence now joins self-sacrificial protection of Sun Meng with Quanjiao trust-based governance.
 - [姚松 / Yao Song (Eastern Han official)](entities/YaoSongEasternHan.md) — Disambiguated Eastern Han official whose ritual quotation defuses Mingdi's anger in a severe court.
 - [郭贺 / Guo He (Eastern Han inspector)](entities/GuoHeEasternHan.md) — Jingzhou inspector whose public reward by Mingdi turns local administrative merit into visible imperial recognition.
 - [于阗王广德 / King Guangde of Khotan](entities/KhotanKingGuangdeLateHan.md) — Khotan ruler whose installation after Xiumoba, Shache marriage settlement, Shache conquest, Xiongnu submission, and dependent king-making anchor early Khotan layers.
@@ -2145,7 +2148,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [窦宪 / Dou Xian (Eastern Han)](entities/DouXianEasternHan.md) — Outer-relative powerholder whose profile now begins with Zhangdi-era estate coercion and Zheng Hong warnings before later palace access, murder, campaign redemption, Jiluoshan-Yanran victory, and palace removal.
 - [稽落山之战 / Jiluoshan Battle (late Han)](entities/JiluoshanBattleLateHan.md) — Dou Xian's Northern Xiongnu battlefield centerpiece with Hanji 761 route and cavalry detail, leading to Yanran commemoration and qualified migration-cascade framing.
 - [燕然勒石 / Yanran Inscription](entities/YanranInscription.md) — Campaign commemoration ordered by Dou Xian and written by Ban Gu after Jiluoshan, mass submission, and deep frontier pursuit.
-- [班彪 / Ban Biao (Eastern Han)](entities/BanBiaoEasternHan.md) — Eastern Han historian and frontier-policy adviser whose profile now runs from Wang Mang disorder, Wei Xiao/Dou Rong affiliation, and Ban-family historiography into Qiang diagnosis, Wuhuan institutions, and Northern Xiongnu diplomacy.
+- [班彪 / Ban Biao (Eastern Han)](entities/BanBiaoEasternHan.md) — Eastern Han historian and frontier-policy adviser whose profile runs from pre-`王命论` institutional argument and Wei Xiao/Dou Rong affiliation into Qiang diagnosis, Wuhuan institutions, and Northern Xiongnu diplomacy.
 - [班固 / Ban Gu (Eastern Han)](entities/BanGuEasternHan.md) — Han historian-commentator whose profile now links early `Han Shu` accusation and Emperor Ming's review to Western Regions strategy commentary, later prison death, and Ban Zhao's continuation.
 - [李郃 / Li He (Eastern Han)](entities/LiHeEasternHan.md) — Hanzhong official who uses a delayed gift mission to keep his administrator clear of Dou Xian's collapse.
 - [郑众 / Zheng Zhong (Eastern Han eunuch)](entities/ZhengZhongEasternHan.md) — Eunuch promoted after the Dou purge whose humility and trusted access mark the episode's beginning of eunuch power.
@@ -7368,7 +7371,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吴汉 / Wu Han (Eastern Han)](entities/WuHanEasternHan.md) — Liu Xiu founding general whose profile spans Youzhou recruitment, Qinghe operations, Chengdu overreach and recovery, post-surrender atrocity, later honor, and deathbed discipline.
 - [耿况 / Geng Kuang (Eastern Han)](entities/GengKuangEasternHan.md) — Geng Yan's father and northern military-family power broker behind the Youzhou cavalry alignment.
 - [耿国 / Geng Guo (Eastern Han)](entities/GengGuoEasternHan.md) — Geng-family figure whose wiki role now spans a court-service loyalty signal and Guangwu-era Southern Xiongnu buffer-policy advice.
-- [彭宠 / Peng Chong (Eastern Han)](entities/PengChongEasternHan.md) — Former Liu Xiu-side actor whose rebellion tests Geng-family loyalty and founding-coalition trust.
+- [彭宠 / Peng Chong (Eastern Han)](entities/PengChongEasternHan.md) — Former Liu Xiu-side actor whose Yan rebellion tests Geng-family loyalty before collapsing through Zi Mi's household betrayal.
 - [王郎 / Wang Lang (Hebei Claimant)](entities/WangLangHebeiClaimant.md) — Hebei claimant whose uprising redirects Geng Yan toward Liu Xiu and whose defeated Handan correspondence archive becomes Liu Xiu's trust-repair test.
 - [张步 / Zhang Bu (Eastern Han)](entities/ZhangBuEasternHan.md) — Qi-region adversary whose profile spans Linzi battlefield vulnerability, induced surrender, controlled family-backed settlement, and later failed flight.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's breakout, reinforcements, morale tactics, and later legendary mandate layer exposed the gap between Xin grandeur and usable capacity.
@@ -10596,6 +10599,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [不义之功封赏 / Unrighteous Merit Reward](concepts/UnrighteousMeritReward.md) — Governance problem where a politically useful act violates legal-moral order, making public reward damage the meaning of merit and title.
+- [疑心自生式叛乱 / Suspicion-Generated Rebellion](concepts/SuspicionGeneratedRebellion.md) — Defection pattern where an actor interprets an ambiguous signal as hidden hostility and rebels before verifying intent.
 - [Headphone Use Hearing Risk](concepts/HeadphoneUseHearingRisk.md) — Headphone safety frame centered on volume, duration, sound-source distance, sudden peaks, device fit, pressure, ventilation, hygiene, and symptoms.
 - [Ear Canal Inflammation Risk](concepts/EarCanalInflammationRisk.md) — Outer-ear and ear-canal symptom frame around itching, pain, discharge, fungal infection, eczema, picking, sealed wear, and earphone hygiene.
 - [Noise Exposure Layering](concepts/NoiseExposureLayering.md) — Hearing-risk frame for environmental noise, headphone output, volume compensation, long duration, and sudden audio peaks stacking together.
@@ -11328,7 +11333,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Strategic Intervention Threshold](concepts/StrategicInterventionThreshold.md) — Point where a reluctant ruler accepts direct intervention because nonintervention has become riskier.
 - [Protestant Heroic Martyrdom](concepts/ProtestantHeroicMartyrdom.md) — Memory pattern where a militant Protestant death becomes usable national-confessional symbolism.
 - [Integrated Command Capacity / 全维度统帅能力](concepts/IntegratedCommandCapacity.md) — Hanji 961 frame for command that joins strategic target choice, tactical variation, adviser use, resource systems, and political capacity.
-- [Personal Guard Attack Surface / 贴身侍卫反噬](concepts/PersonalGuardAttackSurface.md) — Close-guard security pattern where insider proximity can become assassination exposure or, under vigilant command, restored protection.
+- [Personal Guard Attack Surface / 贴身侍卫反噬](concepts/PersonalGuardAttackSurface.md) — Close-access security pattern where bodyguards, household servants, or gate-control insiders can become assassination exposure or restored protection.
 - [Public Corpse Humiliation / 公开尸体羞辱](concepts/PublicCorpseHumiliation.md) — After-death violence and public spectacle used to intimidate survivors, insult enemies, or mark reversal, with Li Gu and Du Qiao showing how display can backfire into defiant mourning.
 - [Post-Success Arrogance / 得势后的骄傲](concepts/PostSuccessArrogance.md) — Hanji 964-965 pattern where victory, office, status, or merit makes leaders less able to hear advice, preserve proportion, or protect relationships.
 - [Resource-Asymmetry Attrition / 资源不对称消耗战](concepts/ResourceAsymmetryAttrition.md) — Strategy pattern linking Bao Xin's Yanzhou hungry-raider exhaustion logic with Tian Feng's pre-Guandu hold-and-harass plan against Cao Cao.

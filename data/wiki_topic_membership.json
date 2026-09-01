@@ -62164,6 +62164,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "UnrighteousMeritReward": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "UnspokenFeelingAsMystery": [
     {
       "key": "culture",

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2153
+topic_total_pages: 2154
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3220,6 +3220,9 @@ topic_concepts:
   - key: "TopDownExemplarGovernance"
     title: "上行下效式政风治理 / Top-Down Exemplar Governance"
     url: "/wiki/concepts/topdownexemplargovernance/"
+  - key: "UnrighteousMeritReward"
+    title: "不义之功封赏 / Unrighteous Merit Reward"
+    url: "/wiki/concepts/unrighteousmeritreward/"
   - key: "InfeasiblePublicWorksCancellation"
     title: "不可成工程止损 / Infeasible Public-Works Cancellation"
     url: "/wiki/concepts/infeasiblepublicworkscancellation/"

@@ -4122,9 +4122,9 @@
       "url": "/wiki/entities/balthazargerard/"
     },
     "BanBiaoEasternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？ [loADjkevHJIE2yUR8U23OX2_gMCE].md",
@@ -4160,9 +4160,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》694丨《王命论》揭露东汉什么隐秘？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-694-wangminglun-jielu-donghan-shenme-yinmi-lvsrsevrkj9ukcth6qbalnt6buf8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？ [lqlER4Fu9wqZtSRgZsxHs_1519nM].md",
+          "key": "zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/banbiaoeasternhan/"
     },
     "BanChaoEasternHan": {
@@ -20180,9 +20187,9 @@
       "url": "/wiki/entities/guohonglatehan/"
     },
     "GuoJiEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？ [liib38zUB0_tgRBTYcmlQvOHV-w-].md",
@@ -20204,9 +20211,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云",
           "url": "/wiki/sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？ [lqlER4Fu9wqZtSRgZsxHs_1519nM].md",
+          "key": "zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/guojieasternhan/"
     },
     "GuoJia": {
@@ -29022,9 +29036,9 @@
       "url": "/wiki/entities/liupirunanlatehan/"
     },
     "LiuPingEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！ [lj2lyiE73xK9fUbEBzWogd-w7HRQ].md",
@@ -29032,9 +29046,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？ [lqlER4Fu9wqZtSRgZsxHs_1519nM].md",
+          "key": "zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/liupingeasternhan/"
     },
     "LiuQiangDonghaiKing": {
@@ -36322,6 +36343,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/pangde/"
     },
+    "PangMengEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？ [lqlER4Fu9wqZtSRgZsxHs_1519nM].md",
+          "key": "zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/pangmengeasternhan/"
+    },
     "PangXiLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -36878,9 +36915,9 @@
       "url": "/wiki/entities/penelope/"
     },
     "PengChongEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -36888,9 +36925,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军",
           "url": "/wiki/sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？ [lqlER4Fu9wqZtSRgZsxHs_1519nM].md",
+          "key": "zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/pengchongeasternhan/"
     },
     "PengLeiHuawei": {
@@ -37052,9 +37096,9 @@
       "url": "/wiki/concepts/persistentcloudagents/"
     },
     "PersonalGuardAttackSurface": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》962丨董卓与吕布，到底为什么决裂？ [lgP3KXFQnHoKibF6KplI6P4j8iTI].md",
@@ -37069,9 +37113,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？ [lqlER4Fu9wqZtSRgZsxHs_1519nM].md",
+          "key": "zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/personalguardattacksurface/"
     },
     "PeteNitzsche": {
@@ -45346,6 +45397,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/suspiciondrivenelitealienation/"
     },
+    "SuspicionGeneratedRebellion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？ [lqlER4Fu9wqZtSRgZsxHs_1519nM].md",
+          "key": "zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/suspiciongeneratedrebellion/"
+    },
     "SustainableHealthOptimization": {
       "episode_count": 3,
       "show_count": 1,
@@ -48019,6 +48086,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/unlearningexamexpression/"
+    },
+    "UnrighteousMeritReward": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？ [lqlER4Fu9wqZtSRgZsxHs_1519nM].md",
+          "key": "zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/unrighteousmeritreward/"
     },
     "UntimelyExtravagance": {
       "episode_count": 11,
@@ -56248,6 +56331,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhuzhenlatehan/"
+    },
+    "ZiMiEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？ [lqlER4Fu9wqZtSRgZsxHs_1519nM].md",
+          "key": "zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/zimieasternhan/"
     },
     "ZohranMamdani": {
       "episode_count": 3,

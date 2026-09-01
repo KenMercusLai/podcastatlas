@@ -14784,9 +14784,17 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-02] ingest | 《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？
+
+Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 5 / 29 CE around Peng Chong's household collapse, Zi Mi's "不义侯" reward dispute, Guo Ji's Yuyang repair, Pang Meng's suspicion-driven rebellion, Liu Ping's self-sacrificial rescue of Sun Meng, Cen Peng's Shu-campaign preparation, and Ban Biao's pre-`王命论` Han-restoration argument. Added source `zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm`; created `ZiMiEasternHan`, `PangMengEasternHan`, `UnrighteousMeritReward`, and `SuspicionGeneratedRebellion`; updated `PengChongEasternHan`, `GuoJiEasternHan`, `LiuPingEasternHan`, `BanBiaoEasternHan`, `PersonalGuardAttackSurface`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 郭齐 is normalized to 郭伋, 庞蒙 to 庞萌, and minor names remain source-scoped.
+
 ## [2026-09-02] ingest | VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？
 
 Ingested the 2026-06-16 这病说来话长 episode with 阿汤 and 耳鼻喉吕博士 on headphone-heavy listening, ear-canal inflammation, noise exposure, tinnitus, sudden hearing-change warning signs, and earphone hygiene. Added source `vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb`; created `LvDoctorENT`, `ShenzhenPeopleHospital`, `HeadphoneUseHearingRisk`, `EarCanalInflammationRisk`, `NoiseExposureLayering`, `TinnitusSignalBoundary`, and `SuddenHearingChangeEscalation`; updated `ZheBingShuoLaiHuaChang`, `Atang`, `index`, and `overview`. No settled contradiction found; headphone category rankings, active-noise-cancellation discomfort, tinnitus causes, cleaning methods, and individual treatment decisions remain source-scoped public medical education.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 

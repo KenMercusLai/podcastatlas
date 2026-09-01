@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6219
+wiki_total_pages: 6221
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1751,6 +1751,9 @@ wiki_pages:
   - key: "SuspicionDrivenEliteAlienation"
     title: "猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation"
     url: "/wiki/concepts/suspiciondrivenelitealienation/"
+  - key: "SuspicionGeneratedRebellion"
+    title: "疑心自生式叛乱 / Suspicion-Generated Rebellion"
+    url: "/wiki/concepts/suspiciongeneratedrebellion/"
   - key: "SaltRevenueAgriculturalRecovery"
     title: "盐利农具式复耕安置 / Salt-Revenue Agricultural Recovery"
     url: "/wiki/concepts/saltrevenueagriculturalrecovery/"

@@ -39303,6 +39303,10 @@
     "title": "庞乱 / Pang Luan",
     "url": "/wiki/entities/pangluan/"
   },
+  "PangMengEasternHan": {
+    "title": "庞萌 / Pang Meng (Eastern Han)",
+    "url": "/wiki/entities/pangmengeasternhan/"
+  },
   "PangNuan": {
     "title": "庞煖 / Pang Nuan",
     "url": "/wiki/entities/pangnuan/"
@@ -50383,6 +50387,10 @@
     "title": "猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation",
     "url": "/wiki/concepts/suspiciondrivenelitealienation/"
   },
+  "SuspicionGeneratedRebellion": {
+    "title": "疑心自生式叛乱 / Suspicion-Generated Rebellion",
+    "url": "/wiki/concepts/suspiciongeneratedrebellion/"
+  },
   "SuspicionTriggeredCommandMutiny": {
     "title": "Suspicion-Triggered Command Mutiny / 猜疑触发的部下倒戈",
     "url": "/wiki/concepts/suspiciontriggeredcommandmutiny/"
@@ -53930,6 +53938,10 @@
   "UnreliablePraiseNarration": {
     "title": "Unreliable Praise Narration / 赞美式不可靠叙述",
     "url": "/wiki/concepts/unreliablepraisenarration/"
+  },
+  "UnrighteousMeritReward": {
+    "title": "不义之功封赏 / Unrighteous Merit Reward",
+    "url": "/wiki/concepts/unrighteousmeritreward/"
   },
   "UnrulyWomenInFolktales": {
     "title": "Unruly Women In Folktales / 民间故事中的悍妇",
@@ -60895,6 +60907,10 @@
     "title": "子产 / Zi Chan",
     "url": "/wiki/entities/zichan/"
   },
+  "ZiMiEasternHan": {
+    "title": "紫密 / Zi Mi (Eastern Han)",
+    "url": "/wiki/entities/zimieasternhan/"
+  },
   "ZiShun": {
     "title": "子顺 / Zi Shun",
     "url": "/wiki/entities/zishun/"
@@ -65094,6 +65110,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm": {
+    "title": "《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm/"
   },
   "zizhi-tongjian-hanji-694-wangminglun-jielu-donghan-shenme-yinmi-lvsrsevrkj9ukcth6qbalnt6buf8": {
     "title": "《资治通鉴·汉纪》694丨《王命论》揭露东汉什么隐秘？",

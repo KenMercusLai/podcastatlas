@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 8739
+wiki_total_pages: 8741
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -866,6 +866,9 @@ wiki_pages:
   - key: "PangXiLateHan"
     title: "庞羲 / Pang Xi (late Han)"
     url: "/wiki/entities/pangxilatehan/"
+  - key: "PangMengEasternHan"
+    title: "庞萌 / Pang Meng (Eastern Han)"
+    url: "/wiki/entities/pangmengeasternhan/"
   - key: "PengchengBattle"
     title: "彭城之战 / Battle of Pengcheng"
     url: "/wiki/entities/pengchengbattle/"
