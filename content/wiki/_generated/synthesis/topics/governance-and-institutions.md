@@ -3,18 +3,30 @@
 generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
-last_updated: 2026-09-01
-as_of_overview_commit: 31edc0f5c4ba356909eab51be489ec1445bdb4b0
-input_digest: c8771983a9e82ffc1268f4282bbb4444ef09fe3cb201ce62f543135c83d14d45
+last_updated: 2026-09-02
+as_of_overview_commit: ef639a765dc423af56fd36aaa01a74e373dd93ad
+input_digest: 2634eefb0217f2c018c487d7737177d6b5c84984b47aacdf917ba95930a020fc
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 699 PLUS adds a source-scoped Guangwu governance frame: Liu Xiu ruler capacity is read through Taixue learning, broad personnel use, Wang Lang letter-burning trust repair, non-purge treatment of merit holders, and cultivation as the condition for turning ability into stable rule. [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds Nepal's glacial flood as a warning, rescue, infrastructure, and aid-capacity test. The existing governance synthesis still centers on surrender credibility, frontier diplomacy, office quality, correction mechanisms, legal and biometric boundaries, health-product identity, and sport or ritual institutions as capacity problems rather than isolated policy events.
+Hanji 699 PLUS adds a source-scoped Guangwu governance frame: Liu Xiu ruler capacity is read through Taixue learning, broad personnel use, Wang Lang letter-burning trust repair, non-purge treatment of merit holders, and cultivation as the condition for turning ability into stable rule. The existing governance synthesis still centers on legitimacy and institutional capacity: surrender credibility, frontier diplomacy, office quality, correction mechanisms, legal and biometric boundaries, health-product identity, disaster response, sport institutions, ritual institutions, and public symbols are treated as capacity problems rather than isolated policy events. The German anthem episode adds a public-symbol governance case in which state continuity depends on selective convention: Germany keeps Das Lied der Deutschen by making the third verse the singable national settlement after Nazi contamination and division-era alternatives.
 
 ## Cross-source Findings
+
+### German Anthem Selective Canonization Symbol Governance
+
+[[679-germany-the-song-hitler-stole-part-3-glt6217148052|Germany: The Song Hitler Stole]] adds a public-symbol governance case: [[Germany]] keeps [[GermanNationalAnthem|Das Lied der Deutschen]] by turning [[SelectiveAnthemCanonization]] into convention, with [[WeimarRepublic]] adoption, [[WestGermany]] third-verse restoration, [[EastGermany]] and [[AuferstandenAusRuinen]] as the rival legitimacy branch, and [[NationalAnthemPoliticalPlasticity]] / [[RegimeSymbolContinuity]] showing continuity narrowed rather than fully restored.
+
+**Evidence:** [[679-germany-the-song-hitler-stole-part-3-glt6217148052]], [[Germany]], [[GermanNationalAnthem]], [[SelectiveAnthemCanonization]], [[WeimarRepublic]], [[WestGermany]], [[EastGermany]], [[AuferstandenAusRuinen]], [[NationalAnthemPoliticalPlasticity]], [[RegimeSymbolContinuity]], [[TheRestIsHistory]], [[HorstWesselLied]]
+
+**Qualifications:**
+
+- The claim is source-scoped to one narrative-history episode and does not settle German constitutional or criminal-law details.
+- First-verse legality, 1954 broadcast reports, East German public feeling, and reunification alternatives remain bounded to the source note.
+- The mechanism is selective convention, not a claim that old anthem material was erased or legally banned.
 
 ### Early Eastern Han 699 Plus Trust And Cultivated Governance
 

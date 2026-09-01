@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8777
+wiki_total_pages: 8789
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "WeilaiBuyuan"
     title: "Weilai Buyuan"
     url: "/wiki/entities/weilaibuyuan/"
+  - key: "WeimarRepublic"
+    title: "Weimar Republic"
+    url: "/wiki/entities/weimarrepublic/"
   - key: "WeirdTales"
     title: "Weird Tales / 诡丽幻谭"
     url: "/wiki/entities/weirdtales/"
@@ -242,6 +245,9 @@ wiki_pages:
   - key: "WestBengal"
     title: "West Bengal"
     url: "/wiki/entities/westbengal/"
+  - key: "WestGermany"
+    title: "West Germany"
+    url: "/wiki/entities/westgermany/"
   - key: "WestVirginia"
     title: "West Virginia"
     url: "/wiki/entities/westvirginia/"

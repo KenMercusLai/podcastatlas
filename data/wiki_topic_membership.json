@@ -1654,6 +1654,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "679-germany-the-song-hitler-stole-part-3-glt6217148052": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543": [
     {
       "key": "history",
@@ -64070,6 +64077,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "WeimarRepublic": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "WeirdFiction": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8777
+wiki_total_pages: 8789
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1238,12 +1238,18 @@ wiki_pages:
   - key: "Audi"
     title: "Audi"
     url: "/wiki/entities/audi/"
+  - key: "AuferstandenAusRuinen"
+    title: "Auferstanden aus Ruinen"
+    url: "/wiki/entities/auferstandenausruinen/"
   - key: "AugustBier"
     title: "August Bier / 奥古斯特·比尔"
     url: "/wiki/entities/augustbier/"
   - key: "AugustDerleth"
     title: "August Derleth / 阿古斯特·德雷斯"
     url: "/wiki/entities/augustderleth/"
+  - key: "AugustHeinrichHoffmannVonFallersleben"
+    title: "August Heinrich Hoffmann von Fallersleben"
+    url: "/wiki/entities/augustheinrichhoffmannvonfallersleben/"
   - key: "AungSanSuuKyi"
     title: "Aung San Suu Kyi"
     url: "/wiki/entities/aungsansuukyi/"

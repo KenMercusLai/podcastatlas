@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [679. Germany: The Song Hitler Stole (Part 3)](sources/679-germany-the-song-hitler-stole-part-3-glt6217148052.md) — The Rest Is History episode on Das Lied der Deutschen, Haydn's imperial tune, Hoffmann's liberal nationalism, Nazi appropriation, postwar third-verse compromise, East Germany's anthem, reunification, and football patriotism.
 - [《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？](sources/zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz.md) — Jianwu 2 Guangwu backfill on Chimei grave looting, Lu Zhi's source-scoped posthumous humiliation tradition, Deng Yu's failed Guanzhong command, Liu Xiu's surrender-first directive to Feng Yi, and Sanfu famine.
 - [《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？](sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60.md) — Jianwu 3 Guangwu episode on Deng Yu's failed Chimei campaign, Feng Yi's disguised ambush, Liu Penzi's mass surrender, Fu Long's doomed mission to Zhang Bu, and Peng Chong's exposed Yan claim.
 - [《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？](sources/zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme.md) — Jianwu 3 Guangwu backfill on multi-front cleanup, Feng Yi's Guanzhong pacification, Wu Han's injured morale recovery, Cen Peng and Gai Yan's southern/eastern pressure, Geng Yan's northern plan, and Lai Xi's first Wei Xiao courtship strategy against Gongsun Shu.
@@ -1866,6 +1867,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [German National Anthem / Das Lied der Deutschen](entities/GermanNationalAnthem.md) — German anthem case where Haydn's tune and Hoffmann's song survive through a postwar third-verse convention.
+- [Josef Haydn](entities/JosefHaydn.md) — Austrian composer whose 1797 imperial tune became the German anthem melody.
+- [August Heinrich Hoffmann von Fallersleben](entities/AugustHeinrichHoffmannVonFallersleben.md) — Liberal nationalist lyricist of Das Lied der Deutschen.
+- [Weimar Republic](entities/WeimarRepublic.md) — Post-First World War German state that adopted Das Lied der Deutschen in 1922.
+- [Friedrich Ebert](entities/FriedrichEbert.md) — Weimar president associated with adopting the German anthem and emphasizing the third verse.
+- [West Germany](entities/WestGermany.md) — Postwar German state that restored Das Lied der Deutschen through third-verse convention.
+- [East Germany](entities/EastGermany.md) — Rival German state whose anthem Auferstanden aus Ruinen later conflicted with hardened division.
+- [Konrad Adenauer](entities/KonradAdenauer.md) — West German chancellor who pressed for restoring the old anthem.
+- [Theodor Heuss](entities/TheodorHeuss.md) — West German president who resisted Nazi-tainted anthem continuity before accepting the third-verse compromise.
+- [Auferstanden aus Ruinen](entities/AuferstandenAusRuinen.md) — East German anthem whose unity language became politically awkward after division hardened.
+- [Horst-Wessel-Lied](entities/HorstWesselLied.md) — Nazi movement song contrasted with and ceremonially paired beside the German anthem.
+- [Kinderhymne](entities/Kinderhymne.md) — Brecht alternative anthem proposal not adopted by reunified Germany.
 - [Supi Regime / 苏毗政权](entities/SupiRegime.md) — West Qiang-linked polity identified with "Surpiece" and used by Hanji 689-2 as the strongest pressure clue behind Jingjue's disappearance.
 - [Kharosthi Niya Documents / 尼雅佉卢文文书](entities/KharosthiNiyaDocuments.md) — Niya document corpus that connects Kharosthi writing, Han wooden-slip identification, Jingjue archaeology, and Supi attack evidence.
 - [Aurel Stein](entities/AurelStein.md) — Expedition collector whose Niya activity frames both discovery of Jingjue evidence and cultural-heritage loss.
@@ -3503,7 +3516,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney](entities/Sydney.md) — Australian city used as the source's beach/outdoor lifestyle and drone lifeguard case.
 - [CyberCab](entities/CyberCab.md) — Tesla dedicated robotaxi vehicle in the source's Austin rollout discussion.
 - [Gansu / 甘肃](entities/Gansu.md) — Landing setting for LandSpace's Zhuque-3 Yao-2 first-stage recovery in the source.
-- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected Brazil anthem, South Africa reconciliation, Founding Fathers, Elizabethan, Troubles, Mayerling/Habsburg, Odyssey, and Roman Civil War branches.
+- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected Germany/Brazil/Netherlands/South Africa symbol branches, Founding Fathers, Elizabethan, Troubles, Mayerling/Habsburg, Odyssey, and Roman Civil War branches.
 - [The Troubles](entities/TheTroubles.md) — Northern Ireland conflict branch framed through partition, institutional discrimination, loyalist violence, civil-rights protest, and street-war escalation.
 - [Northern Ireland](entities/NorthernIreland.md) — UK region where partition, Catholic grievances, unionist fear, policing legitimacy, and Westminster intervention converge in the sources.
 - [Edward Carson](entities/EdwardCarson.md) — Unionist leader whose 1912 covenant and volunteers supply an armed-precedent memory in the Part 1 source.
@@ -9976,7 +9989,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Garfield AI](entities/GarfieldAI.md) — Legal AI company used as the source's positive human-in-the-loop legal AI example.
 - [Russia](entities/Russia.md) — Country framed through hybrid pressure, Ukraine-war spillover, possible future tests of NATO credibility, and Britain's post-Brexit defence relevance.
 - [Ukraine](entities/Ukraine.md) — War context for NATO support, Russian hybrid pressure, European defense autonomy, and the defence argument in Britain's post-Brexit role.
-- [Germany](entities/Germany.md) — Country page covering NATO reassurance, folklore and war-memory branches, and the Spahn surrogacy-scandal politics segment.
+- [Germany](entities/Germany.md) — Country page covering NATO reassurance, folklore, war-memory, Spahn scandal politics, and national-anthem symbolism.
 - [Lithuania](entities/Lithuania.md) — Baltic security case where German deployment and American force uncertainty make NATO credibility visible.
 - [Ali Khamenei](entities/AliKhamenei.md) — Iranian supreme-leader figure whose funeral is framed by The Intelligence as religious rite, regime display, and succession test.
 - [Mujtaba Khamenei](entities/MujtabaKhamenei.md) — Khamenei son described by the episode as supposed successor whose absence creates command uncertainty.
@@ -10647,6 +10660,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Selective Anthem Canonization](concepts/SelectiveAnthemCanonization.md) — Settlement where a state retains an anthem tradition but makes only part of it publicly authoritative.
 - [归降信任崩塌 / Surrender Trust Breakdown](concepts/SurrenderTrustBreakdown.md) — Submission failure pattern where intermediary defection, property theft, suspicious messaging, and uncertainty turn planned surrender into renewed rebellion.
 - [归咎安抚式平叛 / Local Fault Attribution Pacification](concepts/LocalFaultAttributionPacification.md) — Pacification pattern where a revolt is settled by punishing the abusive local trigger and reassuring the community instead of assaulting it.
 - [先内后外式战略顺序 / Core-Before-Periphery Strategy](concepts/CoreBeforePeripheryStrategy.md) — Strategic sequencing pattern that secures nearer or more decisive threats and capacity windows before chasing exposed peripheral targets.
@@ -10691,8 +10705,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [群盗互纠式平乱 / Bandit Mutual-Reporting Pacification](concepts/BanditMutualReportingPacification.md) — Guangwu-era anti-bandit incentive design using peer reporting, pardons, official-accountability repair, shelter penalties, and resettlement.
 - [五铢钱恢复 / Wuzhu Coin Restoration](concepts/WuzhuCoinRestoration.md) — Ma Yuan's memorial and Liu Xiu's adoption of restored five-zhu coinage as practical normalization.
 - [公开称贤比较压力 / Imperial Praise Comparison Pressure](concepts/ImperialPraiseComparisonPressure.md) — Court-management pattern where a ruler's repeated praise for a dead model official makes living ministers feel implicitly judged.
-- [National Anthem Political Plasticity](concepts/NationalAnthemPoliticalPlasticity.md) — Pattern where an anthem can be claimed across opposed movements, founding ambiguities, and changing regimes.
-- [Regime Symbol Continuity](concepts/RegimeSymbolContinuity.md) — Pattern where a public symbol survives across successor orders because it has become usable national memory.
+- [National Anthem Political Plasticity](concepts/NationalAnthemPoliticalPlasticity.md) — Pattern where an anthem can be claimed across opposed movements, founding ambiguities, changing regimes, and selective public conventions.
+- [Regime Symbol Continuity](concepts/RegimeSymbolContinuity.md) — Pattern where a public symbol survives across successor orders because it has become usable national memory, sometimes through selective narrowing.
 - [Loyal Rebellion](concepts/LoyalRebellion.md) — Early-modern posture where rebels profess fidelity to a monarch while resisting officials, soldiers, or policies.
 - [Pragmatic Religious Toleration](concepts/PragmaticReligiousToleration.md) — Managed pluralism where minority religions function through civic need, discretion, or legal fiction under an established public faith.
 - [Slavery National Identity Contradiction](concepts/SlaveryNationalIdentityContradiction.md) — Tension between national liberty or unity claims and a historical formation built on enslaved labor.

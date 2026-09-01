@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8777
+wiki_total_pages: 8789
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -506,6 +506,9 @@ wiki_pages:
   - key: "FrenchRevolution"
     title: "French Revolution / 法国大革命"
     url: "/wiki/entities/frenchrevolution/"
+  - key: "FriedrichEbert"
+    title: "Friedrich Ebert"
+    url: "/wiki/entities/friedrichebert/"
   - key: "FriedrichEngels"
     title: "Friedrich Engels"
     url: "/wiki/entities/friedrichengels/"

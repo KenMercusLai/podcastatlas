@@ -3921,6 +3921,38 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/attilathehun/"
     },
+    "AuferstandenAusRuinen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/auferstandenausruinen/"
+    },
+    "AugustHeinrichHoffmannVonFallersleben": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/augustheinrichhoffmannvonfallersleben/"
+    },
     "AurelStein": {
       "episode_count": 1,
       "show_count": 1,
@@ -13787,6 +13819,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/earlychinesebuddhismcourttransmission/"
     },
+    "EastGermany": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/eastgermany/"
+    },
     "Echomind": {
       "episode_count": 1,
       "show_count": 1,
@@ -18947,6 +18995,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/frenchlinedancingculture/"
     },
+    "FriedrichEbert": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/friedrichebert/"
+    },
     "FriedrichWilhelmVonSteuben": {
       "episode_count": 1,
       "show_count": 1,
@@ -20502,6 +20566,66 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/georgetownlawcenteronprivacytechnology/"
+    },
+    "GermanNationalAnthem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/germannationalanthem/"
+    },
+    "Germany": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "111. 花衣魔笛手：快来，和历史学家一起推理童话真相 [751190766].md",
+          "key": "111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766",
+          "show": "蜜獾吃书",
+          "title": "111. 花衣魔笛手：快来，和历史学家一起推理童话真相",
+          "url": "/wiki/sources/111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766/"
+        },
+        {
+          "episode_file": "Continental rift： NATO’s tense summit [6a4cc6b0c4772b27e88e898e].md",
+          "key": "continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e",
+          "show": "Economist Podcasts",
+          "title": "Continental Rift: NATO's Tense Summit",
+          "url": "/wiki/sources/continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e/"
+        },
+        {
+          "episode_file": "05.她来自马里乌波尔：“如果你看见过我曾见到的。” [533375925].md",
+          "key": "05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925",
+          "show": "蜜獾吃书",
+          "title": "05.她来自马里乌波尔：“如果你看见过我曾见到的。”",
+          "url": "/wiki/sources/05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925/"
+        },
+        {
+          "episode_file": "Brave New whirl： Turkey’s opposition overhaul [6a69c7766043035f89eb097f].md",
+          "key": "brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f",
+          "show": "Economist Podcasts",
+          "title": "Brave New whirl: Turkey's opposition overhaul",
+          "url": "/wiki/sources/brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f/"
+        },
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/germany/"
     },
     "GiftRefusalAsAuthority": {
       "episode_count": 3,
@@ -23067,6 +23191,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/horsehideburialresolve/"
+    },
+    "HorstWesselLied": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/horstwessellied/"
     },
     "HostageBackedDependencyTrap": {
       "episode_count": 2,
@@ -26866,6 +27006,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/josefbratfisch/"
     },
+    "JosefHaydn": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/josefhaydn/"
+    },
     "JosefHoyos": {
       "episode_count": 1,
       "show_count": 1,
@@ -27455,6 +27611,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/kimik3/"
     },
+    "Kinderhymne": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/kinderhymne/"
+    },
     "KinshipProtocolBoundary": {
       "episode_count": 3,
       "show_count": 1,
@@ -27668,6 +27840,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/kongxieasternhan/"
+    },
+    "KonradAdenauer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/konradadenauer/"
     },
     "KouRongLateHan": {
       "episode_count": 2,
@@ -35684,9 +35872,9 @@
       "url": "/wiki/entities/natesilver/"
     },
     "NationalAnthemPoliticalPlasticity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -35701,9 +35889,16 @@
           "show": "The Rest Is History",
           "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
           "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        },
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/nationalanthempoliticalplasticity/"
     },
     "NationalInstitutesOfHealth": {
@@ -41536,9 +41731,9 @@
       "url": "/wiki/concepts/regencyundercompoundcrisis/"
     },
     "RegimeSymbolContinuity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -41553,9 +41748,16 @@
           "show": "The Rest Is History",
           "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
           "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        },
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/regimesymbolcontinuity/"
     },
     "RegistryBasedPoliticalExclusion": {
@@ -43664,6 +43866,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/seemasanghavi/"
+    },
+    "SelectiveAnthemCanonization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/selectiveanthemcanonization/"
     },
     "SelfConceptPlasticity": {
       "episode_count": 1,
@@ -48358,9 +48576,9 @@
       "url": "/wiki/entities/theodyssey/"
     },
     "TheRestIsHistory": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -48494,9 +48712,16 @@
           "show": "The Rest Is History",
           "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
           "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        },
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/therestishistory/"
     },
     "TheTroubles": {
@@ -48535,6 +48760,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/thetroubles/"
+    },
+    "TheodorHeuss": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/theodorheuss/"
     },
     "TherapeuticMusicalSynchrony": {
       "episode_count": 1,
@@ -51690,6 +51931,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/weizhulatehan/"
     },
+    "WeimarRepublic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/weimarrepublic/"
+    },
     "WenChouLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -51792,6 +52049,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/wenrenxilatehan/"
+    },
+    "WestGermany": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6217148052 [GLT6217148052].md",
+          "key": "679-germany-the-song-hitler-stole-part-3-glt6217148052",
+          "show": "The Rest Is History",
+          "title": "679. Germany: The Song Hitler Stole (Part 3)",
+          "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/westgermany/"
     },
     "WesternRegionsProtectorate": {
       "episode_count": 1,

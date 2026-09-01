@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6237
+wiki_total_pages: 6238
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "SeizedDigitalAssetCustody"
     title: "Seized Digital Asset Custody"
     url: "/wiki/concepts/seizeddigitalassetcustody/"
+  - key: "SelectiveAnthemCanonization"
+    title: "Selective Anthem Canonization"
+    url: "/wiki/concepts/selectiveanthemcanonization/"
   - key: "SelectiveMotionSmoothing"
     title: "Selective Motion Smoothing"
     url: "/wiki/concepts/selectivemotionsmoothing/"

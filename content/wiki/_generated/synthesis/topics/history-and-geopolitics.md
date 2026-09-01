@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-02
-as_of_overview_commit: 6375781ed5504fff98b7a55277ca116bd95d08f6
-input_digest: 40ccf8816d28c35002a3e8843bf05904bc4b186cd2f47dec25e9b29ad8539d26
+as_of_overview_commit: ef639a765dc423af56fd36aaa01a74e373dd93ad
+input_digest: a8b19b85f28ec6152eab1eb1b3a886ac3380f55285d45a8154322b879f25c404
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 687 now adds the earliest current Guangwu/Jianwu 2 Guanzhong layer: Chimei grave looting and the source-scoped Lu Hou corpse tradition mark ritual collapse, Deng Yu already shows command deterioration under famine pressure, Wu Han's rough Nanyang conduct helps trigger Deng Feng rebellion, and Liu Xiu centers surrender-first pacification through Feng Yi before the Hanji 688 final Chimei settlement. Hanji 688 then adds Jianwu 3 defeat, mass surrender, provisioning, Fu Long's Zhang Bu mission, and Peng Chong's exposed Yan claim; Hanji 689-1 continues the adjacent Wei Xiao courtship and multi-front cleanup layer. Hanji 689-2 and Hanji 689-3 separately form a Western Han/Niya-Jingjue evidence layer through Han documents, Niya ruins, Kharosthi materials, the five-star brocade, omen politics, Western Regions diplomacy, and qualified multi-cause decline.
+Hanji 687 now adds the earliest current Guangwu/Jianwu 2 Guanzhong layer: Chimei grave looting and the source-scoped Lu Hou corpse tradition mark ritual collapse, Deng Yu already shows command deterioration under famine pressure, Wu Han's rough Nanyang conduct helps trigger Deng Feng rebellion, and Liu Xiu centers surrender-first pacification through Feng Yi before the Hanji 688 final Chimei settlement. Hanji 688 then adds Jianwu 3 defeat, mass surrender, provisioning, Fu Long's Zhang Bu mission, and Peng Chong's exposed Yan claim; Hanji 689-1 continues the adjacent Wei Xiao courtship and multi-front cleanup layer. Hanji 689-2 and Hanji 689-3 separately form a Western Han/Niya-Jingjue evidence layer through Han documents, Niya ruins, Kharosthi materials, the five-star brocade, omen politics, Western Regions diplomacy, and qualified multi-cause decline. The Germany anthem episode adds a European historical-memory branch where Haydn melody and Hoffmann liberal lyrics move through Weimar, Nazi, West/East German, and reunification contexts, turning public anthem use into a selective-continuity problem.
 
 ## Cross-source Findings
+
+### German Anthem History Memory And Selective Continuity
+
+[[679-germany-the-song-hitler-stole-part-3-glt6217148052|Germany: The Song Hitler Stole]] adds a German historical-memory branch: [[JosefHaydn]] melody and [[AugustHeinrichHoffmannVonFallersleben]] liberal unity lyrics pass through [[WeimarRepublic]] adoption under [[FriedrichEbert]], Nazi-era first-verse theatre signaled by [[HorstWesselLied]], [[WestGermany]] Adenauer-Heuss compromise, [[EastGermany]] [[AuferstandenAusRuinen]], and the rejected [[Kinderhymne]] alternative, making [[SelectiveAnthemCanonization]] part of [[NationalAnthemPoliticalPlasticity]] and [[RegimeSymbolContinuity]].
+
+**Evidence:** [[679-germany-the-song-hitler-stole-part-3-glt6217148052]], [[TheRestIsHistory]], [[Germany]], [[GermanNationalAnthem]], [[JosefHaydn]], [[AugustHeinrichHoffmannVonFallersleben]], [[WeimarRepublic]], [[FriedrichEbert]], [[WestGermany]], [[EastGermany]], [[KonradAdenauer]], [[TheodorHeuss]], [[AuferstandenAusRuinen]], [[HorstWesselLied]], [[Kinderhymne]], [[SelectiveAnthemCanonization]], [[NationalAnthemPoliticalPlasticity]], [[RegimeSymbolContinuity]]
+
+**Qualifications:**
+
+- The source distinguishes Hoffmann 1841 unity-over-localism meaning from later militarist and Nazi reception.
+- The 1954 World Cup broadcast story, East German popularity, and reunification-anthem proposals remain source-scoped.
+- This claim extends the anthem-history branch beside Brazil and the Netherlands rather than replacing those cases.
 
 ### Hanji 687 Guangwu Chimei Guanzhong Surrender First Pacification
 

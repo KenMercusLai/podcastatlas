@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2156
+topic_total_pages: 2157
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -5351,6 +5351,9 @@ topic_entities:
   - key: "WangZhengjun"
     title: "Wang Zhengjun / 王政君"
     url: "/wiki/entities/wangzhengjun/"
+  - key: "WeimarRepublic"
+    title: "Weimar Republic"
+    url: "/wiki/entities/weimarrepublic/"
   - key: "WesStreeting"
     title: "Wes Streeting"
     url: "/wiki/entities/wesstreeting/"

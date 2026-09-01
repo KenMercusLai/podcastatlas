@@ -14899,3 +14899,11 @@ Ingested the 2026-06-15 Huberman Lab episode with Andrew Huberman and Andy Stump
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] ingest | 679. Germany: The Song Hitler Stole (Part 3)
+
+Ingested the 2026-06-14 The Rest Is History episode on Das Lied der Deutschen, Haydn's imperial tune, Hoffmann's liberal nationalism, Weimar adoption, Nazi first-verse appropriation, West Germany's third-verse compromise, East Germany's Auferstanden aus Ruinen, reunification alternatives, and World Cup patriotism. Added source `679-germany-the-song-hitler-stole-part-3-glt6217148052`; created `GermanNationalAnthem`, `JosefHaydn`, `AugustHeinrichHoffmannVonFallersleben`, `WeimarRepublic`, `FriedrichEbert`, `WestGermany`, `EastGermany`, `KonradAdenauer`, `TheodorHeuss`, `AuferstandenAusRuinen`, `HorstWesselLied`, `Kinderhymne`, and `SelectiveAnthemCanonization`; updated `Germany`, `TheRestIsHistory`, `NationalAnthemPoliticalPlasticity`, `RegimeSymbolContinuity`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; first-verse legal status, 1954 broadcast details, East German public feeling, and reunification anthem alternatives remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

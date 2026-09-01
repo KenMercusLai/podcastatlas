@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1562
+topic_total_pages: 1563
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -3759,6 +3759,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "679-germany-the-song-hitler-stole-part-3-glt6217148052"
+    title: "679. Germany: The Song Hitler Stole (Part 3)"
+    url: "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
   - key: "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543"
     title: "680. The Netherlands: The Revolt that Made The Modern World (Part 4)"
     url: "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"

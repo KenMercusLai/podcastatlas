@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 8777
+wiki_total_pages: 8789
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "EarthKit"
     title: "EarthKit"
     url: "/wiki/entities/earthkit/"
+  - key: "EastGermany"
+    title: "East Germany"
+    url: "/wiki/entities/eastgermany/"
   - key: "EastStarAirlines"
     title: "East Star Airlines / 东星航空"
     url: "/wiki/entities/eaststarairlines/"

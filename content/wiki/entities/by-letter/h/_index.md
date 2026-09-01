@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8777
+wiki_total_pages: 8789
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -506,6 +506,9 @@ wiki_pages:
   - key: "HorseHeadGuanyin"
     title: "Horse-Head Guanyin / 马头观音"
     url: "/wiki/entities/horseheadguanyin/"
+  - key: "HorstWesselLied"
+    title: "Horst-Wessel-Lied"
+    url: "/wiki/entities/horstwessellied/"
   - key: "HoshinoResorts"
     title: "Hoshino Resorts / 星野集团"
     url: "/wiki/entities/hoshinoresorts/"

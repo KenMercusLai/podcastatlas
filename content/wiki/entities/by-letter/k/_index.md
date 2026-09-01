@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 8777
+wiki_total_pages: 8789
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "KindaichiKyosuke"
     title: "Kindaichi Kyosuke / 金田一京助"
     url: "/wiki/entities/kindaichikyosuke/"
+  - key: "Kinderhymne"
+    title: "Kinderhymne"
+    url: "/wiki/entities/kinderhymne/"
   - key: "KingsCollegeChapel"
     title: "King's College Chapel / 国王学院礼拜堂"
     url: "/wiki/entities/kingscollegechapel/"
@@ -401,6 +404,9 @@ wiki_pages:
   - key: "KonishiYukinaga"
     title: "Konishi Yukinaga / 小西行长"
     url: "/wiki/entities/konishiyukinaga/"
+  - key: "KonradAdenauer"
+    title: "Konrad Adenauer"
+    url: "/wiki/entities/konradadenauer/"
   - key: "Kotex"
     title: "Kotex / 高洁丝"
     url: "/wiki/entities/kotex/"
