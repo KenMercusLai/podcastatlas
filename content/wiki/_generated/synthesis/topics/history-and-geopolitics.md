@@ -3,18 +3,30 @@
 generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
-last_updated: 2026-09-01
-as_of_overview_commit: 8b63c815b5ebfacb53ef031272fa08bdcc709654
-input_digest: 1019850d18b4e55ac3652c39b052c57dbdc391ae6c63c935c0c7a48325d96b81
+last_updated: 2026-09-02
+as_of_overview_commit: 8a229b0372489cd810fedc8504f6c7887baee31d
+input_digest: 361d5bc1834b4cca0dc1f2a7fd2e1b014a1ebeff6f9c72036fbd9512e8ece005
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 695 now backfills the Jianwu 5 layer before Hanji 696: Dou Rong chooses Liu Xiu over Hexi-Longxi-Shu autonomy through legitimacy-and-force assessment, Liu Xiu waits at Taocheng and against Dong Xian until morale, reinforcements, and food pressure improve the field, and Geng Yan opens the Zhang Bu campaign through fear transmission and false timing before the later Linzi feint. The early and late Eastern Han branches otherwise continue to show power through logistics, alliances, legitimacy, institutions, frontier capacity, appointment quality, surrender credibility, and symbolic order; newer sport, state, and technology history claims remain source-scoped rather than collapsed into one model of power.
+Hanji 692 now backfills Jianwu 5 before Hanji 693: Wang Ba's delayed rescue of Ma Wu, rear-cavalry strike, and fortified refusal add a morale-tempo variant to Guangwu battlefield patience, while his later frontier biography links Xiongnu/Wuhuan pressure, heqin, and logistics to northern governance. The broader history branch still reads power through legitimacy, institutions, logistics, alliances, frontier capacity, appointment quality, surrender credibility, and symbolic order, with new battle and biography details kept source-scoped.
 
 ## Cross-source Findings
+
+### Early Eastern Han 692 Wang Ba Morale Tempo And Frontier Service
+
+[[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|Hanji 692]] backfills Jianwu 5 / 29 CE immediately before [[zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm|Hanji 693]]: [[WangBaEasternHan]] defeats [[SuMaoEasternHan]] and [[ZhouJianEasternHan]] by refusing immediate rescue of [[MaWuEasternHan]], using [[FortifiedAttritionPatience]], [[BattlefieldInformationControl]], and [[XingshiqingStrategicAssessment]] to let ally survival pressure and enemy fatigue align before a rear-cavalry strike, then refusing renewed challenge because supply pressure favors waiting. The biography branch links Wang Ba to northern-frontier service against [[LuFangEasternHan]], [[Xiongnu]], and [[Wuhuan]], plus [[HanXiongnuHeqinPolicy]] advice.
+
+**Evidence:** [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl]], [[zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm]], [[WangBaEasternHan]], [[SuMaoEasternHan]], [[ZhouJianEasternHan]], [[MaWuEasternHan]], [[FortifiedAttritionPatience]], [[BattlefieldInformationControl]], [[XingshiqingStrategicAssessment]], [[LuFangEasternHan]], [[Xiongnu]], [[Wuhuan]], [[HanXiongnuHeqinPolicy]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 692 and functions as the Jianwu 5 prelude to Hanji 693, not as a contradiction of the later Hanji 695-697 eastern-campaign layers.
+- Wang Ba expands fortified attrition patience through rescue timing and morale control; the case does not show that abandoning allies or delaying battle is generally correct.
+- Wang Xun/Wang Yi, Liang King Liu Yu, Jiao Qiang, Chuihui, Zhou Song, exact titles and ranks, and detailed frontier logistics remain source-scoped.
 
 ### Early Eastern Han 695 Dou Rong Submission And Jinan Lure
 

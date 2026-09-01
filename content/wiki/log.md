@@ -14811,3 +14811,11 @@ Ingested the 2026-09-01 这病说来话长 episode with 阿汤 and 大白牛 on 
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] ingest | 《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？
+
+Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 5 / 29 CE around Wang Ba's morale-tempo battlefield command, delayed rescue of Ma Wu, rear-cavalry defeat of Su Mao and Zhou Jian, fortified refusal under enemy supply pressure, and later northern frontier service. Added source `zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl`; created `WangBaEasternHan`, `SuMaoEasternHan`, and `ZhouJianEasternHan`; updated `MaWuEasternHan`, `FortifiedAttritionPatience`, `index`, `overview`, and downstream synthesis inputs. No settled contradiction was found; Wang Xun/Wang Yi, Liu Yu, Jiao Qiang, Zhou Song, title/rank details, and exact frontier logistics remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

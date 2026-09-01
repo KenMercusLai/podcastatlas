@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "bc6d5f37a1d97fc04317ef9374b8e6c99be98feda874d44bbecc15acbf3f8f8b",
       "9265a6c707781879103b35cf5345d764ca2a294e07633a3a8e15f116e2b840e7",
       "56f3fd27cb7daf6338efa884f2103db89302d8d5ef0cd99a943521ff98ae1d31",
       "9287e5576c2878262bd3a7a2580e6ed403fd10750df46953967a60782d2a7e76",
@@ -493,11 +494,37 @@
       "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3",
       "5ba1c7a478b342521c54a704f3662e19b3e2e992a9e88c2a01eb72bc8c596387"
     ],
-    "paragraph_count": 491
+    "paragraph_count": 492
   },
-  "overview_commit": "dae5aa11bdca95be55fc86b74211d49f7d08065c",
-  "overview_digest": "3b6b8a708f6069d3a483ee33d21938e7e47da84f8f4b80f5e1bead024e43ccd5",
+  "overview_commit": "8a229b0372489cd810fedc8504f6c7887baee31d",
+  "overview_digest": "1868e371a358d7fddb7ffe73c1d1b27cc931b73771d1d74ccfaf5488e6594211",
   "paragraphs": [
+    {
+      "id": "bc6d5f37a1d97fc04317ef9374b8e6c99be98feda874d44bbecc15acbf3f8f8b",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 5 / 29 CE immediately before [[zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm|Hanji 693]]. It adds [[WangBaEasternHan|王霸]], [[SuMaoEasternHan|苏茂]], and [[ZhouJianEasternHan|周建]], while extending [[MaWuEasternHan|马武]], [[FortifiedAttritionPatience|坚壁耗敌式耐心]], [[BattlefieldInformationControl|战场信息控制]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[LuFangEasternHan|卢芳]], [[Xiongnu|匈奴]], [[Wuhuan|乌桓]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]]. Its core synthesis is that early Guangwu battle success can come from refusing the enemy's tempo: Wang Ba does not rescue Ma Wu while Su Mao and Zhou Jian are fresh, waits until forced ally resolve and enemy fatigue align, then strikes from the rear; when challenged again, he reads supply pressure and lets non-battle turn enemy pressure into retreat and fracture. No settled contradiction is recorded; Wang Xun/Wang Yi, Liang King Liu Yu, Jiao Qiang, Chuihui, Zhou Song, title/rank details, and exact frontier logistics remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "BattlefieldInformationControl",
+        "FortifiedAttritionPatience",
+        "HanXiongnuHeqinPolicy",
+        "LuFangEasternHan",
+        "MaWuEasternHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuMaoEasternHan",
+        "WangBaEasternHan",
+        "Wuhuan",
+        "XingshiqingStrategicAssessment",
+        "Xiongnu",
+        "ZhouJianEasternHan",
+        "zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl",
+        "zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm"
+      ]
+    },
     {
       "id": "9265a6c707781879103b35cf5345d764ca2a294e07633a3a8e15f116e2b840e7",
       "primary_topic": "science-health-and-climate",

@@ -17244,9 +17244,9 @@
       "url": "/wiki/concepts/forgededictprivateextraction/"
     },
     "FortifiedAttritionPatience": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -17296,9 +17296,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？ [lmqqtSxWEmeTQqAe-QDiERsKA9pl].md",
+          "key": "zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/fortifiedattritionpatience/"
     },
     "FortressSecurityIllusion": {
@@ -31655,9 +31662,9 @@
       "url": "/wiki/entities/mateng/"
     },
     "MaWuEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
@@ -31672,9 +31679,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》714丨是谁第一个喊出“男儿当马革裹尸”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？ [lmqqtSxWEmeTQqAe-QDiERsKA9pl].md",
+          "key": "zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/mawueasternhan/"
     },
     "MaXianLateHan": {
@@ -44704,6 +44718,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/sukanglatehan/"
     },
+    "SuMaoEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？ [lmqqtSxWEmeTQqAe-QDiERsKA9pl].md",
+          "key": "zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/sumaoeasternhan/"
+    },
     "SuZhangLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -48789,6 +48819,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/wanchenglujiang/"
+    },
+    "WangBaEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？ [lmqqtSxWEmeTQqAe-QDiERsKA9pl].md",
+          "key": "zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/wangbaeasternhan/"
     },
     "WangChangShumaoLateHan": {
       "episode_count": 4,
@@ -55960,6 +56006,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhouhongyi/"
+    },
+    "ZhouJianEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？ [lmqqtSxWEmeTQqAe-QDiERsKA9pl].md",
+          "key": "zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/zhoujianeasternhan/"
     },
     "ZhouJingLateHan": {
       "episode_count": 2,

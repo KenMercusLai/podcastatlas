@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？](sources/zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl.md) — Jianwu 5 Guangwu episode on Wang Ba's morale-tempo command: delayed rescue of Ma Wu, rear-cavalry defeat of Su Mao and Zhou Jian, fortified refusal under supply pressure, and later northern-frontier service.
 - [《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？](sources/zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm.md) — Jianwu 5 Guangwu episode on Peng Chong's household-slave killing by Zi Mi, the disputed "不义侯" reward, Guo Ji's Yuyang repair, Pang Meng's suspicion-driven rebellion, Liu Ping's self-sacrifice, Cen Peng's Shu-campaign preparation, and Ban Biao's pre-`王命论` Han-restoration argument.
 - [《资治通鉴·汉纪》694丨《王命论》揭露东汉什么隐秘？](sources/zizhi-tongjian-hanji-694-wangminglun-jielu-donghan-shenme-yinmi-lvsrsevrkj9ukcth6qbalnt6buf8.md) — Jianwu 5 episode on Ban Biao's `王命论`, Wei Xiao's total-victory ambition, mandate-based title restraint, Liu Bang as founding precedent, failed claimant warnings, and Ban Biao's exit to Dou Rong.
 - [VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？](sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb.md) — 这病说来话长 episode with 阿汤 and 耳鼻喉吕博士 on headphone-heavy listening, ear-canal inflammation, noise exposure, tinnitus, sudden hearing-change warning signs, and practical earphone hygiene.
@@ -1855,6 +1856,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [王霸 / Wang Ba (Eastern Han)](entities/WangBaEasternHan.md) — Guangwu founding commander whose Hanji 692 profile joins delayed rescue, rear-cavalry timing, fortified refusal, and later northern-frontier governance.
+- [苏茂 / Su Mao (Eastern Han)](entities/SuMaoEasternHan.md) — Source-scoped Guangwu opponent whose strength, overattack, supply pressure, and flight make Wang Ba's patience legible.
+- [周建 / Zhou Jian (Eastern Han)](entities/ZhouJianEasternHan.md) — Source-scoped Su Mao ally at Chuihui whose defeat and gate-blocked retreat complete Wang Ba's battle case.
 - [紫密 / Zi Mi (Eastern Han)](entities/ZiMiEasternHan.md) — Peng Chong household slave whose killing of his master ends the Yan rebel court and exposes the "不义侯" reward problem.
 - [庞萌 / Pang Meng (Eastern Han)](entities/PangMengEasternHan.md) — Previously trusted Guangwu subordinate whose unverified suspicion turns into rebellion, Dongping kingship, and the Sun Meng-Liu Ping loyalty crisis.
 - [耳鼻喉吕博士 / Dr. Lv (ENT)](entities/LvDoctorENT.md) — Source-scoped otolaryngology guest in VOL.208 explaining headphone use, ear-canal inflammation, tinnitus, hearing risk, and sudden hearing-change escalation.
@@ -2034,7 +2038,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [东海恭王刘强 / Liu Qiang, Donghai King](entities/LiuQiangDonghaiKing.md) — Displaced former-heir figure whose voluntary withdrawal, exceptional Guangwu honor, fief return, loyal report, final memorial, and frugal burial make succession loss compatible with royal containment.
 - [吴良 / Wu Liang (Eastern Han)](entities/WuLiangEasternHan.md) — Liu Cang's recommended subordinate whose yilang appointment turns royal trust into a talent channel.
 - [祭肜 / Ji Tong (Eastern Han)](entities/JiTongEasternHan.md) — Liaodong taishou whose reward-backed Xianbei proxy strategy against Xiongnu and Chishan Wuhuan pressure helps quiet the northeastern frontier.
-- [马武 / Ma Wu (Eastern Han)](entities/MaWuEasternHan.md) — Frontier commander stationed against Guangwu-era Xiongnu pressure and later credited with suppressing Mingdi's early Shaodang Qiang revolt.
+- [马武 / Ma Wu (Eastern Han)](entities/MaWuEasternHan.md) — Eastern Han commander whose current profile starts with Wang Ba's rescue-timing battle before later Hutuo frontier deployment and Mingdi-era Shaodang Qiang suppression.
 - [广陵王刘荆 / Liu Jing, Guangling King (Eastern Han)](entities/LiuJingGuanglingKingEasternHan.md) — Mingdi's royal brother whose case begins with an anonymous letter to Liu Qiang before Shanyang-to-Guangling relocation, rebellion-suggestive speech, curse rituals, suicide, and abolished fief.
 - [樊鯈 / Fan Tiao (Eastern Han)](entities/FanTiaoEasternHan.md) — Eastern Han reviewer who tells Mingdi that royal kinship cannot turn Liu Jing's treason case into private family property.
 - [鲍峻 / Bao Jun (Eastern Han)](entities/BaoJunEasternHan.md) — Ding Hong's friend and recommender who reframes title inheritance as state-assigned public responsibility.
@@ -11730,7 +11734,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Renyi-Grounded Virtue / 仁义为本的信勇](concepts/RenyiGroundedVirtue.md) — Qinji 119 standard that visible trust, courage, beneficence, and self-sacrifice count as virtue only when grounded in 仁义 and sound public judgment.
 - [Pre-Qin Surname-Clan Identity / 先秦姓氏身份](concepts/PreQinSurnameClanIdentity.md) — Identity-reading frame for using pre-Qin 姓/氏 distinctions to interpret Changping Jun/Xiong Qi's Chu royal affiliation without flattening names into modern surname logic.
 - [Conquest Commandery Transition / 灭国后的郡县化过渡](concepts/ConquestCommanderyTransition.md) — Qinji 118-2 frame for converting conquered Chu territory into temporary and then subdivided commanderies after battlefield victory.
-- [Fortified Attrition Patience / 坚壁耗敌式耐心](concepts/FortifiedAttritionPatience.md) — Strategy pattern where defended or newly captured positions, logistics, morale, and surrender credibility are used while waiting for enemy fatigue, movement, or submission readiness.
+- [Fortified Attrition Patience / 坚壁耗敌式耐心](concepts/FortifiedAttritionPatience.md) — Strategy pattern where defended or newly captured positions, rescue timing, logistics, morale, and surrender credibility are used while waiting for enemy fatigue, movement, or submission readiness.
 - [Chu Three-Households Anti-Qin Memory / 楚虽三户式反秦记忆](concepts/ChuThreeHouseholdsAntiQinMemory.md) — Memory frame where Xiang Yan's defeat is tied to "楚虽三户，亡秦必楚" and later Chu-linked anti-Qin actors.
 - [Hydraulic Siege Warfare / 水攻围城](concepts/HydraulicSiegeWarfare.md) — Siege frame for Wang Ben turning Daliang's water environment into the mechanism of Wei's collapse.
 - [布衣之怒 / Cloth-Clad Anger Persuasion](concepts/ClothCladAngerPersuasion.md) — Tang Ju's scale-shifting counter-threat against Ying Zheng's "天子之怒".

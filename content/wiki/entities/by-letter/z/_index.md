@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8741
+wiki_total_pages: 8744
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -347,6 +347,9 @@ wiki_pages:
   - key: "ZhouGuangLateHan"
     title: "周广 / Zhou Guang (late Han favorite)"
     url: "/wiki/entities/zhouguanglatehan/"
+  - key: "ZhouJianEasternHan"
+    title: "周建 / Zhou Jian (Eastern Han)"
+    url: "/wiki/entities/zhoujianeasternhan/"
   - key: "ZhouJiangong"
     title: "周建功 / Zhou Jiangong"
     url: "/wiki/entities/zhoujiangong/"
