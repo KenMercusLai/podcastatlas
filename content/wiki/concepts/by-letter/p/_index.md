@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6201
+wiki_total_pages: 6202
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1631,6 +1631,9 @@ wiki_pages:
   - key: "PostwarReturnAndVeteranRelief"
     title: "战后复员安民 / Postwar Return and Veteran Relief"
     url: "/wiki/concepts/postwarreturnandveteranrelief/"
+  - key: "PostwarAdministrativeRetrenchment"
+    title: "战后行政裁并 / Postwar Administrative Retrenchment"
+    url: "/wiki/concepts/postwaradministrativeretrenchment/"
   - key: "PointingDeerAsHorse"
     title: "指鹿为马 / Pointing Deer As Horse"
     url: "/wiki/concepts/pointingdeerashorse/"

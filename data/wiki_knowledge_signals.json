@@ -16294,9 +16294,9 @@
       "url": "/wiki/entities/fengtouquan/"
     },
     "FengYiEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？ [lqCkX-aClcHKZQqe3pTtnklu9Vot].md",
@@ -16318,6 +16318,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！ [lmsOXWG1K3K931cCnPEAomXfCu3q].md",
+          "key": "zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q/"
         }
       ],
       "updated": "2026-09-01",
@@ -25954,9 +25961,9 @@
       "url": "/wiki/entities/laililatehan/"
     },
     "LaiXiEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -25978,6 +25985,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云",
           "url": "/wiki/sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！ [lmsOXWG1K3K931cCnPEAomXfCu3q].md",
+          "key": "zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q/"
         }
       ],
       "updated": "2026-09-01",
@@ -29364,9 +29378,9 @@
       "url": "/wiki/concepts/localgovernanceascare/"
     },
     "LocalOfficialTenureStability": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》906丨厉害的人，为什么享受冲突？ [lvc3WEDriFdZdU_yv1QHOCl8usS2].md",
@@ -29388,9 +29402,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！ [lmsOXWG1K3K931cCnPEAomXfCu3q].md",
+          "key": "zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-01",
       "url": "/wiki/concepts/localofficialtenurestability/"
     },
     "LocalPrivateAI": {
@@ -36893,6 +36914,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/posthumousmeritvindication/"
+    },
+    "PostwarAdministrativeRetrenchment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！ [lmsOXWG1K3K931cCnPEAomXfCu3q].md",
+          "key": "zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/postwaradministrativeretrenchment/"
     },
     "PowerCenterProximityAdvantage": {
       "episode_count": 1,
@@ -48339,9 +48376,9 @@
       "url": "/wiki/entities/weitenglatehan/"
     },
     "WeiXiaoEasternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -48391,6 +48428,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》699丨敢与刘秀争雄的他，为何惨淡收场？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！ [lmsOXWG1K3K931cCnPEAomXfCu3q].md",
+          "key": "zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q/"
         }
       ],
       "updated": "2026-09-01",
@@ -54838,6 +54882,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhudalatehan/"
+    },
+    "ZhuFuEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！ [lmsOXWG1K3K931cCnPEAomXfCu3q].md",
+          "key": "zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/zhufueasternhan/"
     },
     "ZhuGaiLateHan": {
       "episode_count": 2,

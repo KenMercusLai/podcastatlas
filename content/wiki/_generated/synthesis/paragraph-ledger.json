@@ -2,6 +2,7 @@
   "coverage": {
     "assigned_paragraph_ids": [
       "238d0f237c3c8d728d2838e9003711b1ffc0d1ec089abb10d4be9e931d48c185",
+      "a26a482c0184d0240f888aa86b866f36cfca7b353a2659eedbbddbabb12d7a4b",
       "4d989656296f64c5d68e389b57a3f698deedaaa95e15bdc29be9df4f8263ea8c",
       "c3805883fbca132da567ea7c70dfa308475b10ead5423c9f348d3fc5317f50ac",
       "99bffd6ea498a30fc939473aad03bb6a8047fa332ce8ec0eeb75075e246d1866",
@@ -481,10 +482,10 @@
       "669579ac551e015d5d6c20aa08ac0e7c674e0f7fafcd9adc5bebd4f22c5899ea",
       "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3"
     ],
-    "paragraph_count": 479
+    "paragraph_count": 480
   },
-  "overview_commit": "50c4aa03de0d67731b7db411d6543a00132b9fbe",
-  "overview_digest": "009a5cec5d17a3628483afa47ef5ebfb875cb367824deec16cf484c84d0ae16a",
+  "overview_commit": "c6377d546637596f86bee262f26a423b6a48f71e",
+  "overview_digest": "e63112694655c1ad5ff5991eed50084e689ded3e1807373d60e308c5b42a4def",
   "paragraphs": [
     {
       "id": "238d0f237c3c8d728d2838e9003711b1ffc0d1ec089abb10d4be9e931d48c185",
@@ -512,6 +513,33 @@
         "YanGuangEasternHan",
         "ZhouDangEasternHan",
         "zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z",
+        "zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot"
+      ]
+    },
+    {
+      "id": "a26a482c0184d0240f888aa86b866f36cfca7b353a2659eedbbddbabb12d7a4b",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 6 / 30 CE between [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] and [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]]. It adds [[ZhuFuEasternHan|朱浮]] and [[PostwarAdministrativeRetrenchment|战后行政裁并]], while extending [[FengYiEasternHan|冯异]], [[WeiXiaoEasternHan|隗嚣]], [[LaiXiEasternHan|来歙]], [[GongsunShuEasternHan|公孙述]], [[MaWuEasternHan|马武]], [[LocalOfficialTenureStability|地方官任期稳定]], [[EnvoyKillingTaboo|不斩来使]], and [[ReceptiveRemonstranceGovernance|纳谏转政策式治理]]. Its core synthesis is that early Guangwu consolidation pairs hard western-line judgment with administrative scaling: Liu Xiu honors old service, reads Wei Xiao's refusal as unusable ambiguity, lets Lai Xi's envoy crisis expose rebellion risk, accepts military setback without collapse, cuts redundant counties and officials after population loss, and adopts Zhu Fu's warning that short local terms breed false performance. No settled contradiction is recorded; Shentu Gang, Wang Zun, Niu Han, Wang Yuan, Tian Rong, exact county-merger implementation, and Zhu Fu's full memorial wording remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "EnvoyKillingTaboo",
+        "FengYiEasternHan",
+        "GongsunShuEasternHan",
+        "LaiXiEasternHan",
+        "LocalOfficialTenureStability",
+        "MaWuEasternHan",
+        "PostwarAdministrativeRetrenchment",
+        "ReceptiveRemonstranceGovernance",
+        "RuiqiJiangtouZizhiTongjian",
+        "WeiXiaoEasternHan",
+        "ZhuFuEasternHan",
+        "zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z",
+        "zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q",
         "zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot"
       ]
     },

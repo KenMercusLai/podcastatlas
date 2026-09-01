@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2143
+topic_total_pages: 2145
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3388,6 +3388,9 @@ topic_concepts:
   - key: "PostwarReturnAndVeteranRelief"
     title: "战后复员安民 / Postwar Return and Veteran Relief"
     url: "/wiki/concepts/postwarreturnandveteranrelief/"
+  - key: "PostwarAdministrativeRetrenchment"
+    title: "战后行政裁并 / Postwar Administrative Retrenchment"
+    url: "/wiki/concepts/postwaradministrativeretrenchment/"
   - key: "ConfiscationAndFemaleFate"
     title: "抄家籍没与女性命运 / Confiscation And Female Fate"
     url: "/wiki/concepts/confiscationandfemalefate/"
@@ -5531,6 +5534,9 @@ topic_entities:
   - key: "CaoFengLateHan"
     title: "曹凤 / Cao Feng (late Han)"
     url: "/wiki/entities/caofenglatehan/"
+  - key: "ZhuFuEasternHan"
+    title: "朱浮 / Zhu Fu (Eastern Han)"
+    url: "/wiki/entities/zhufueasternhan/"
   - key: "LiTongLateHan"
     title: "李通 / Li Tong (late Han)"
     url: "/wiki/entities/litonglatehan/"

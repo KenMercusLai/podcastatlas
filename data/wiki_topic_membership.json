@@ -46746,6 +46746,13 @@
       "url": "/topics/history/"
     }
   ],
+  "PostwarAdministrativeRetrenchment": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PostwarReconstructionFinance": [
     {
       "key": "economics",
@@ -68095,6 +68102,13 @@
     }
   ],
   "ZhuFangZhangChu": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ZhuFuEasternHan": [
     {
       "key": "politics",
       "label": "Politics",

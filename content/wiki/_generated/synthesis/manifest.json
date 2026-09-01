@@ -1,27 +1,27 @@
 {
   "content_date": "2026-09-01",
   "corpus": {
-    "episode_count": 1833,
-    "source_count": 1833
+    "episode_count": 1834,
+    "source_count": 1834
   },
   "generated": true,
   "global": {
-    "candidate_digest": "334d4f9c39e0c0e748f6cd2635c9aa6f0f7b31d51435b7ada50712062497b1d8",
-    "compacted_at": "2026-09-01T08:41:36.665723Z",
+    "candidate_digest": "7af2b3bb6221c5080249b01da9d71a8a8c5f9b3cadcab7de5f61f66f558f14ca",
+    "compacted_at": "2026-09-01T09:35:13.313923Z",
     "content_date": "2026-09-01",
     "corpus": {
-      "episode_count": 1833,
-      "source_count": 1833
+      "episode_count": 1834,
+      "source_count": 1834
     },
-    "output_digest": "ef73115b7e456b998caf2d6d413db665e7936a61ecd7e5476a3511ebd3249bbc",
-    "overview_commit": "50c4aa03de0d67731b7db411d6543a00132b9fbe",
-    "overview_digest": "009a5cec5d17a3628483afa47ef5ebfb875cb367824deec16cf484c84d0ae16a",
+    "output_digest": "0431d18703cacbdabf83dd27819e900ebc028740da2f36a3d453a3fe4b80cecd",
+    "overview_commit": "c6377d546637596f86bee262f26a423b6a48f71e",
+    "overview_digest": "e63112694655c1ad5ff5991eed50084e689ded3e1807373d60e308c5b42a4def",
     "pending_ingests": 0,
     "pending_topics": []
   },
-  "overview_commit": "50c4aa03de0d67731b7db411d6543a00132b9fbe",
-  "overview_digest": "009a5cec5d17a3628483afa47ef5ebfb875cb367824deec16cf484c84d0ae16a",
-  "paragraph_count": 479,
+  "overview_commit": "c6377d546637596f86bee262f26a423b6a48f71e",
+  "overview_digest": "e63112694655c1ad5ff5991eed50084e689ded3e1807373d60e308c5b42a4def",
+  "paragraph_count": 480,
   "schema_version": 1,
   "topics": {
     "ai-and-technology": {
@@ -49,9 +49,9 @@
       "title": "Governance and Institutions"
     },
     "history-and-geopolitics": {
-      "claim_digest": "4c252fe9d004a0d4af6bee52d6f71e518e915950b8871a66b4e014c6a4bd9f94",
-      "input_digest": "c390493f176a47c339005116eee5dbee7991014e9530ba35df5ea5047f7d0eb1",
-      "output_digest": "974909d911b8d4a4d423e7a5970da8ee2ea4053310fc89542e46e406be73ea5a",
+      "claim_digest": "0a0c269b1ae647d6a060790d45d0d812e402a31ea37b62cb0dde862bfc91a4b1",
+      "input_digest": "477600233f46310601dcead4430b8184e41829dbc81fc64b5679142b9c64eeb1",
+      "output_digest": "073c683d59121d55c4560fd46e6faba81c79da2850dcc9e0cc73fad927f265c5",
       "title": "History and Geopolitics"
     },
     "psychology-and-personal-development": {

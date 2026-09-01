@@ -30,6 +30,33 @@
     },
     {
       "global_candidate": false,
+      "id": "early-eastern-han-701-guangwu-western-judgment-and-retrenchment",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 701 and backfills Jianwu 6 / 30 CE between Hanji 699 and Hanji 702.",
+        "Shentu Gang, Wang Zun, Niu Han, Wang Yuan, Tian Rong, exact county-merger implementation, and Zhu Fu's full memorial wording remain source-scoped.",
+        "The source supports a consolidation-through-judgment and administrative-scaling reading, not a complete reconstruction of the western campaign or Eastern Han local-government policy."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|Hanji 701]] fills the early Guangwu gap between [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] and [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]]: [[LiuXiu]] honors [[FengYiEasternHan]] but reads [[WeiXiaoEasternHan]]'s refusal to attack [[GongsunShuEasternHan]] as unusable ambiguity, sends [[LaiXiEasternHan]] into an envoy confrontation governed by [[EnvoyKillingTaboo]], absorbs the first Longdi setback visible through [[MaWuEasternHan]], and pairs [[PostwarAdministrativeRetrenchment]] with [[ZhuFuEasternHan]]'s [[LocalOfficialTenureStability]] warning through [[ReceptiveRemonstranceGovernance]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q",
+        "zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z",
+        "zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot",
+        "LiuXiu",
+        "FengYiEasternHan",
+        "WeiXiaoEasternHan",
+        "GongsunShuEasternHan",
+        "LaiXiEasternHan",
+        "EnvoyKillingTaboo",
+        "MaWuEasternHan",
+        "PostwarAdministrativeRetrenchment",
+        "ZhuFuEasternHan",
+        "LocalOfficialTenureStability",
+        "ReceptiveRemonstranceGovernance"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "early-eastern-han-702-feng-yi-terrain-preemption-and-dou-rong-allegiance",
       "qualifications": [
         "This claim is source-scoped to Hanji 702 and backfills the Jianwu western-campaign layer before Hanji 703 and Hanji 704.",
@@ -3897,8 +3924,8 @@
       ]
     }
   ],
-  "input_digest": "c390493f176a47c339005116eee5dbee7991014e9530ba35df5ea5047f7d0eb1",
-  "summary": "Hanji 699 now pushes the early Guangwu branch before Hanji 702: Wei Xiao's Longyou local-elite origin, Cen Peng's southern letter-and-proclamation route, Xi Guang and Ren Yan's ritual-agrarian instruction, Liu Xiu's tolerance of office refusal, and Shache Yan/Kang's Han-loyal proxy role show consolidation as allegiance, instruction, and restraint before battlefield pressure. Hanji 702 then backfills the Jianwu western-consolidation layer before Hanji 703-704: Feng Yi's city-first ambush, Ji Zun's parallel victory, and Dou Rong's persistent allegiance communication show early Guangwu success turning on first-move discipline, local realignment, and legible submission. The historical and geopolitical sources trace power through logistics, alliances, legitimacy, institutions, technology ecosystems, symbolic order, and capacity limits across ancient China, early modern Europe, modern state formation, and contemporary infrastructure. The early and late Eastern Han branches repeatedly show that military success depends on timing, personnel selection, hostage and surrender credibility, frontier diplomacy, public correction, appointment quality, food, transport, local elite integration, and the ability to keep symbolic legitimacy tied to material capacity. The late-Han and Three Kingdoms branches treat title order, marriage alliance, coalition politics, base security, adviser correction, supply, local order, and delegated violence as fragile systems that can convert opportunity into exposure when feedback or restraint fails. The Elizabethan and Dutch Revolt sequence now has both an internal Low Countries origin layer and a later English intervention layer: loyal rebellion against Philip II becomes maritime revolt, abjuration, Dutch Republic formation, and symbolic memory before Antwerp and the Treaty of Nonsuch pull Elizabethan England across the threshold from cold war to open conflict. Other history-and-geopolitics claims keep contemporary digital infrastructure, AI sovereignty, technology ecosystem shifts, U.S. founding memory, civil-rights street war, environmental-health exposure, and South African reconciliation symbolics source-scoped rather than reducing them to one model of power.",
+  "input_digest": "477600233f46310601dcead4430b8184e41829dbc81fc64b5679142b9c64eeb1",
+  "summary": "Hanji 699 and Hanji 701 now push the early Guangwu branch before Hanji 702: Wei Xiao's Longyou local-elite origin becomes a refusal-and-envoy crisis; Feng Yi's remembered hardship, Lai Xi's exposed diplomatic risk, Ma Wu's rearguard, postwar county and office cuts, and Zhu Fu's tenure-stability warning show consolidation as allegiance, judgment, retrenchment, and receptive correction before battlefield pressure. Hanji 702 then backfills the Jianwu western-consolidation layer before Hanji 703-704: Feng Yi's city-first ambush, Ji Zun's parallel victory, and Dou Rong's persistent allegiance communication show early Guangwu success turning on first-move discipline, local realignment, and legible submission. The historical and geopolitical sources trace power through logistics, alliances, legitimacy, institutions, technology ecosystems, symbolic order, and capacity limits across ancient China, early modern Europe, modern state formation, and contemporary infrastructure. The early and late Eastern Han branches repeatedly show that military success depends on timing, personnel selection, hostage and surrender credibility, frontier diplomacy, public correction, appointment quality, food, transport, local elite integration, and the ability to keep symbolic legitimacy tied to material capacity. The late-Han and Three Kingdoms branches treat title order, marriage alliance, coalition politics, base security, adviser correction, supply, local order, and delegated violence as fragile systems that can convert opportunity into exposure when feedback or restraint fails. The Elizabethan and Dutch Revolt sequence now has both an internal Low Countries origin layer and a later English intervention layer: loyal rebellion against Philip II becomes maritime revolt, abjuration, Dutch Republic formation, and symbolic memory before Antwerp and the Treaty of Nonsuch pull Elizabethan England across the threshold from cold war to open conflict. Other history-and-geopolitics claims keep contemporary digital infrastructure, AI sovereignty, technology ecosystem shifts, U.S. founding memory, civil-rights street war, environmental-health exposure, and South African reconciliation symbolics source-scoped rather than reducing them to one model of power.",
   "title": "History and Geopolitics",
   "topic_id": "history-and-geopolitics"
 }

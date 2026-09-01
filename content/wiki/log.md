@@ -14544,7 +14544,6 @@ Ingested the 2026-06-22 Huberman Lab episode with Paul Eastwick on attraction, m
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -14696,6 +14695,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！
+
+Ingested the 2026-06-17 芮淇讲透资治通鉴 episode backfilling Jianwu 6 / 30 CE between Hanji 699 and Hanji 702. Added source `zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q`; created `ZhuFuEasternHan` and `PostwarAdministrativeRetrenchment`; updated `WeiXiaoEasternHan`, `FengYiEasternHan`, `LaiXiEasternHan`, `LocalOfficialTenureStability`, overview, and index. No settled contradiction found; Shentu Gang, Wang Zun, Niu Han, Wang Yuan, Tian Rong, exact county-merger implementation, and Zhu Fu's full memorial wording remain source-scoped.
 
 ## [2026-09-01] lint | Wiki health check
 
