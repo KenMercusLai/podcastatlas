@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6214
+wiki_total_pages: 6219
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1529,6 +1529,9 @@ wiki_pages:
   - key: "SuccessionCrisisIntervention"
     title: "Succession-Crisis Intervention / 继承危机外部干预"
     url: "/wiki/concepts/successioncrisisintervention/"
+  - key: "SuddenHearingChangeEscalation"
+    title: "Sudden Hearing Change Escalation"
+    url: "/wiki/concepts/suddenhearingchangeescalation/"
   - key: "SufferingBasedMoralSubjecthood"
     title: "Suffering-Based Moral Subjecthood"
     url: "/wiki/concepts/sufferingbasedmoralsubjecthood/"

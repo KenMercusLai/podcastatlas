@@ -3593,9 +3593,9 @@
       "url": "/wiki/concepts/assisteddrivingtrustformation/"
     },
     "Atang": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -3666,9 +3666,16 @@
           "show": "这病说来话长",
           "title": "VOL.209 别为“功能性”上头，你以为的“精准养生”其实越补越糟！聊聊代餐粉、电解质等等",
           "url": "/wiki/sources/vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o/"
+        },
+        {
+          "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
+          "key": "vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb",
+          "show": "这病说来话长",
+          "title": "VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？",
+          "url": "/wiki/sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/atang/"
     },
     "Athena": {
@@ -12974,6 +12981,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/ectbipolardepressionboundary/"
     },
+    "EarCanalInflammationRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
+          "key": "vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb",
+          "show": "这病说来话长",
+          "title": "VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？",
+          "url": "/wiki/sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/earcanalinflammationrisk/"
+    },
     "EarlyChineseBuddhismCourtTransmission": {
       "episode_count": 1,
       "show_count": 1,
@@ -21165,6 +21188,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/heyonglatehan/"
+    },
+    "HeadphoneUseHearingRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
+          "key": "vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb",
+          "show": "这病说来话长",
+          "title": "VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？",
+          "url": "/wiki/sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/headphoneusehearingrisk/"
     },
     "HealthInsuranceDeathSpiral": {
       "episode_count": 1,
@@ -30832,6 +30871,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/luxeed/"
     },
+    "LvDoctorENT": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
+          "key": "vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb",
+          "show": "这病说来话长",
+          "title": "VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？",
+          "url": "/wiki/sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/lvdoctorent/"
+    },
     "LyuBu": {
       "episode_count": 29,
       "show_count": 1,
@@ -34554,6 +34609,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/nopositionencoding/"
+    },
+    "NoiseExposureLayering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
+          "key": "vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb",
+          "show": "这病说来话长",
+          "title": "VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？",
+          "url": "/wiki/sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/noiseexposurelayering/"
     },
     "NomadicCavalryRaidingAsymmetry": {
       "episode_count": 6,
@@ -42579,6 +42650,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/shentupanlatehan/"
     },
+    "ShenzhenPeopleHospital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
+          "key": "vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb",
+          "show": "这病说来话长",
+          "title": "VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？",
+          "url": "/wiki/sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/shenzhenpeoplehospital/"
+    },
     "ShequanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -44645,6 +44732,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/successionnondesignationrisk/"
+    },
+    "SuddenHearingChangeEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
+          "key": "vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb",
+          "show": "这病说来话长",
+          "title": "VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？",
+          "url": "/wiki/sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/suddenhearingchangeescalation/"
     },
     "SufferingBasedMoralSubjecthood": {
       "episode_count": 1,
@@ -46864,6 +46967,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/timurban/"
+    },
+    "TinnitusSignalBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
+          "key": "vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb",
+          "show": "这病说来话长",
+          "title": "VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？",
+          "url": "/wiki/sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/tinnitussignalboundary/"
     },
     "Tiresias": {
       "episode_count": 1,
@@ -54934,9 +55053,9 @@
       "url": "/wiki/entities/zhaogecountylatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -55021,9 +55140,16 @@
           "show": "这病说来话长",
           "title": "VOL.209 别为“功能性”上头，你以为的“精准养生”其实越补越糟！聊聊代餐粉、电解质等等",
           "url": "/wiki/sources/vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o/"
+        },
+        {
+          "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
+          "key": "vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb",
+          "show": "这病说来话长",
+          "title": "VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？",
+          "url": "/wiki/sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/zhebingshuolaihuachang/"
     },
     "ZhengBaoLateHan": {

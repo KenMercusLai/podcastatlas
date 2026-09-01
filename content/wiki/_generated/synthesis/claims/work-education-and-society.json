@@ -2,6 +2,30 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "audio-work-habits-need-health-boundaries",
+      "qualifications": [
+        "This is a secondary work-and-society reading of a public otolaryngology episode, not workplace safety law, employment advice, or individualized medical guidance.",
+        "The source title occupational-injury language is treated as a framing signal; actual risk depends on exposure conditions and symptoms rather than job identity alone.",
+        "Device comparisons, active-noise-cancellation discomfort, cleaning methods, tinnitus causes, and treatment decisions remain source-scoped."
+      ],
+      "statement": "[[PodcastProductionWorkflow]] and [[ZheBingShuoLaiHuaChang]] add a work-and-society edge: headphone-heavy listening and podcast editing can become an occupational-style risk when [[Atang]] and [[LvDoctorENT]] connect volume, duration, sudden audio peaks, noisy environments, canal pressure, ventilation, hygiene, and warning symptoms to [[HeadphoneUseHearingRisk]], [[EarCanalInflammationRisk]], and [[SuddenHearingChangeEscalation]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb",
+        "PodcastProductionWorkflow",
+        "ZheBingShuoLaiHuaChang",
+        "Atang",
+        "LvDoctorENT",
+        "HeadphoneUseHearingRisk",
+        "EarCanalInflammationRisk",
+        "NoiseExposureLayering",
+        "TinnitusSignalBoundary",
+        "SuddenHearingChangeEscalation",
+        "MedicalRiskManagement"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "hanji-697-institutional-restoration-and-role-boundary",
       "qualifications": [
         "This is a secondary work-and-society analogy from a historical source, not modern workplace, education, legal, military, or management advice.",
@@ -814,8 +838,8 @@
       ]
     }
   ],
-  "input_digest": "30a8c93dcbb0a4c8c56ac6c7c2c5d6d26db6ac304af0ab08a21f8745b42c0d6a",
-  "summary": "Hanji 697 adds a source-scoped institution and role-boundary analogy: Taixue restoration, Feng Yi trust under accusation, Zhang Bu's constrained settlement, and Wei Xiao's ritual overreach show civil order and role clarity after campaign closure. Hanji 703 adds a source-scoped work-and-society analogy about talent use and role clarity: useful allegiance is rewarded and deployed, while ambiguous allegiance is pressured into public decisions. Hanji 705-5 and Hanji 705-6 together add a source-scoped Eastern Han gendered education and historiography case: [[BanZhaoLateHan]] now links Ban-family learning, [[BanGuEasternHan]]'s unfinished `Han Shu`, [[EmperorHeOfHan]]'s Dongguan commission, palace teaching, advice to [[EmpressDowagerDengLateHan]], memorial advocacy for [[BanChaoEasternHan]], [[MaRongLateHan]]'s student layer, [[BanJieyuWesternHan]] memory, [[CourtWomenHistoriography]], and the disputed [[NujieGenderNormTransmission]] afterlife. [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds an AI education qualification: AI help needs active transfer into exam performance rather than homework shortcuts. The broader topic continues to show work, education, and social capacity as institution-bound rather than trait-bound: Hanji 725-813 and 1056-1060 treat office roles, family status, counsel, succession, reputation, and access channels as sources of capability or exposure; modern workplace and labor sources connect boundaries, evidence, hidden rules, bullying, clerical organizing, creator monetization, finance-career risk, and lifestyle cost discipline; education sources emphasize self-testing, effort, fieldwork, mastery, motivation, and builder practice; AI, product, and creative-work sources show adoption requiring workflow fit, trust, distribution, verification, embodied judgment, and human taste; health and exercise sources frame public education through need assessment, risk boundaries, and clinical limits. Across the input, durable agency comes from grounded feedback loops, social trust, realistic constraints, and environments that let people act well rather than from hype, rank, followers, fluent answers, or capability claims alone. The Ring privacy episode adds a society-facing technology-adoption branch: domestic AI cameras move toward public-safety workflows only when household consent, user key control, optional sharing, and future-use anxieties are recognized.",
+  "input_digest": "bc9d1a4460245c7a0efc76e4fbd0d57681eb95598cf3f74e266c01722e2bcd9c",
+  "summary": "VOL.208 adds a narrow worker/listener health-boundary edge: headphone-heavy podcast listening and editing become work-and-society material when volume, duration, sudden audio peaks, noisy environments, device fit, canal pressure, hygiene, and warning symptoms shape whether a media habit becomes a health risk. Hanji 697 adds a source-scoped institution and role-boundary analogy: Taixue restoration, Feng Yi trust under accusation, Zhang Bu constrained settlement, and Wei Xiao ritual overreach show civil order and role clarity after campaign closure. Hanji 703 adds a source-scoped work-and-society analogy about talent use and role clarity: useful allegiance is rewarded and deployed, while ambiguous allegiance is pressured into public decisions. Hanji 705-5 and Hanji 705-6 together add a source-scoped Eastern Han gendered education and historiography case: [[BanZhaoLateHan]] now links Ban-family learning, [[BanGuEasternHan]] unfinished `Han Shu`, [[EmperorHeOfHan]] Dongguan commission, palace teaching, advice to [[EmpressDowagerDengLateHan]], memorial advocacy for [[BanChaoEasternHan]], [[MaRongLateHan]] student layer, [[BanJieyuWesternHan]] memory, [[CourtWomenHistoriography]], and the disputed [[NujieGenderNormTransmission]] afterlife. [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds an AI education qualification: AI help needs active transfer into exam performance rather than homework shortcuts. The broader topic continues to show work, education, and social capacity as institution-bound rather than trait-bound: Hanji 725-813 and 1056-1060 treat office roles, family status, counsel, succession, reputation, and access channels as sources of capability or exposure; modern workplace and labor sources connect boundaries, evidence, hidden rules, bullying, clerical organizing, creator monetization, finance-career risk, and lifestyle cost discipline; education sources emphasize self-testing, effort, fieldwork, mastery, motivation, and builder practice; AI, product, and creative-work sources show adoption requiring workflow fit, trust, distribution, verification, embodied judgment, and human taste; health and exercise sources frame public education through need assessment, risk boundaries, and clinical limits. Across the input, durable agency comes from grounded feedback loops, social trust, realistic constraints, and environments that let people act well rather than from hype, rank, followers, fluent answers, or capability claims alone. The Ring privacy episode adds a society-facing technology-adoption branch: domestic AI cameras move toward public-safety workflows only when household consent, user key control, optional sharing, and future-use anxieties are recognized.",
   "title": "Work, Education, and Society",
   "topic_id": "work-education-and-society"
 }

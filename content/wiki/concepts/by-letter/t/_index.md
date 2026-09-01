@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6214
+wiki_total_pages: 6219
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "TimestampedCommentCommunity"
     title: "Timestamped Comment Community / 时间戳评论共同体"
     url: "/wiki/concepts/timestampedcommentcommunity/"
+  - key: "TinnitusSignalBoundary"
+    title: "Tinnitus Signal Boundary"
+    url: "/wiki/concepts/tinnitussignalboundary/"
   - key: "TitForTatCooperation"
     title: "Tit-For-Tat Cooperation / 一报还一报合作"
     url: "/wiki/concepts/titfortatcooperation/"

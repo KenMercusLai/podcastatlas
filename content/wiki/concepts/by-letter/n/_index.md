@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6214
+wiki_total_pages: 6219
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "NoPredictionTrading"
     title: "No-Prediction Trading"
     url: "/wiki/concepts/nopredictiontrading/"
+  - key: "NoiseExposureLayering"
+    title: "Noise Exposure Layering"
+    url: "/wiki/concepts/noiseexposurelayering/"
   - key: "NomadicCavalryRaidingAsymmetry"
     title: "Nomadic Cavalry Raiding Asymmetry / 游牧骑兵劫掠不对称"
     url: "/wiki/concepts/nomadiccavalryraidingasymmetry/"

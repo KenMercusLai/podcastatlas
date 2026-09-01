@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6214
+wiki_total_pages: 6219
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
     url: "/wiki/concepts/ebikevaluechainshift/"
+  - key: "EarCanalInflammationRisk"
+    title: "Ear Canal Inflammation Risk"
+    url: "/wiki/concepts/earcanalinflammationrisk/"
   - key: "EarlyConfucianResistancePolitics"
     title: "Early Confucian Resistance Politics / 早期儒家的反抗政治"
     url: "/wiki/concepts/earlyconfucianresistancepolitics/"

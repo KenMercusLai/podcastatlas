@@ -3,18 +3,30 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-09-01
-as_of_overview_commit: 31edc0f5c4ba356909eab51be489ec1445bdb4b0
-input_digest: ede7fa2c55dc59498c6b4a1f7162b3a8eac825e5cc2b21ecc0e154757ac48aa9
+last_updated: 2026-09-02
+as_of_overview_commit: 53d9ed67826bf4b010a0cf7ee8d7e1f6458c9ec9
+input_digest: 58f91b40154a1ec203fcb8686874ce38a65329d1205285f1c87f7672d3f146e8
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-The Eastwick Huberman Lab paragraph is science-health adjacent because it models relationship advice as evidence-bounded public science: app, attachment, sexuality, similarity, and support claims require context rather than universal protocols. [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds Himalayan glacial-flood risk as a climate, energy, and infrastructure-exposure problem under shrinking aid. Science-health-and-climate now joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: measurement, mechanism, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Recent health branches cover sugar-control literacy; functional-food and supplement-claim boundaries; flexible fundamentals for sleep, circadian timing, recovery, fertility, and nutrition; male and female hormone phenotyping; exercise-risk and flexibility-stretching dose boundaries; diagnostic safety netting; spine rehabilitation; metabolic psychiatry; bipolar and OCD care; insect-bite prevention and escalation; individualized cancer vaccines; companion-animal welfare; historical death-cause inference for Liu Xiu; and evidence-bounded body-composition fundamentals. The nonclinical strands show the same pattern in space launch, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, and source-scoped medical or cultivation claims.
+VOL.208 adds headphone and ear-health literacy to science-health-and-climate: earphone risk is framed as cumulative exposure, fit, canal condition, noise environment, and escalation thresholds rather than one device category. Science-health-and-climate now joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: measurement, mechanism, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Recent health branches cover headphone exposure, ear-canal inflammation, tinnitus and sudden hearing-change escalation; sugar-control literacy; functional-food and supplement-claim boundaries; flexible fundamentals for sleep, circadian timing, recovery, fertility, and nutrition; male and female hormone phenotyping; exercise-risk and flexibility-stretching dose boundaries; diagnostic safety netting; spine rehabilitation; metabolic psychiatry; bipolar and OCD care; insect-bite prevention and escalation; individualized cancer vaccines; companion-animal welfare; historical death-cause inference for Liu Xiu; and evidence-bounded body-composition fundamentals. The Eastwick Huberman Lab paragraph is science-health adjacent because it models relationship advice as evidence-bounded public science: app, attachment, sexuality, similarity, and support claims require context rather than universal protocols. [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds Himalayan glacial-flood risk as a climate, energy, and infrastructure-exposure problem under shrinking aid. The nonclinical strands show the same pattern in space launch, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, and source-scoped medical or cultivation claims.
 
 ## Cross-source Findings
+
+### Headphone Harm Is Cumulative Exposure And Escalation Boundary
+
+[[HeadphoneUseHearingRisk]] adds an otolaryngology health-literacy branch: [[LvDoctorENT]] and [[Atang]] frame earphone harm as cumulative exposure and fit rather than one device category, with [[NoiseExposureLayering]], [[EarCanalInflammationRisk]], [[TinnitusSignalBoundary]], and [[SuddenHearingChangeEscalation]] linking volume, duration, sudden peaks, environmental noise, canal ventilation, pressure, hygiene, tinnitus asymmetry, and sudden hearing change to prevention or qualified care.
+
+**Evidence:** [[vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb]], [[HeadphoneUseHearingRisk]], [[LvDoctorENT]], [[Atang]], [[NoiseExposureLayering]], [[EarCanalInflammationRisk]], [[TinnitusSignalBoundary]], [[SuddenHearingChangeEscalation]], [[MedicalRiskManagement]], [[DoctorPatientCommunication]], [[MedicalKnowledgeBoundary]], [[ZheBingShuoLaiHuaChang]]
+
+**Qualifications:**
+
+- The episode is public otolaryngology education, not individualized audiology, dermatology, vestibular, psychiatric, or emergency medical advice.
+- The 60-60-60 heuristic, device-category comparisons, active-noise-cancellation discomfort, tinnitus causes, and cleaning methods remain source-scoped and exposure-dependent.
+- Ear itch, tinnitus, fullness, dizziness, and hearing change require different boundaries; sudden or asymmetric hearing symptoms are escalation signals rather than proof of one cause.
 
 ### Functional Food Supplements Need Identity Need And Label Boundaries
 

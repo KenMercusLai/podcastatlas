@@ -14779,3 +14779,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] ingest | VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？
+
+Ingested the 2026-06-16 这病说来话长 episode with 阿汤 and 耳鼻喉吕博士 on headphone-heavy listening, ear-canal inflammation, noise exposure, tinnitus, sudden hearing-change warning signs, and earphone hygiene. Added source `vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb`; created `LvDoctorENT`, `ShenzhenPeopleHospital`, `HeadphoneUseHearingRisk`, `EarCanalInflammationRisk`, `NoiseExposureLayering`, `TinnitusSignalBoundary`, and `SuddenHearingChangeEscalation`; updated `ZheBingShuoLaiHuaChang`, `Atang`, `index`, and `overview`. No settled contradiction found; headphone category rankings, active-noise-cancellation discomfort, tinnitus causes, cleaning methods, and individual treatment decisions remain source-scoped public medical education.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

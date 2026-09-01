@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8737
+wiki_total_pages: 8739
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -551,6 +551,9 @@ wiki_pages:
   - key: "Shenzhen"
     title: "Shenzhen / 深圳"
     url: "/wiki/entities/shenzhen/"
+  - key: "ShenzhenPeopleHospital"
+    title: "Shenzhen People's Hospital / 深圳市人民医院"
+    url: "/wiki/entities/shenzhenpeoplehospital/"
   - key: "ShenzhenStockExchange"
     title: "Shenzhen Stock Exchange / 深圳证券交易所"
     url: "/wiki/entities/shenzhenstockexchange/"

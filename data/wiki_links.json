@@ -16143,6 +16143,10 @@
     "title": "易趣 / EachNet",
     "url": "/wiki/entities/eachnet/"
   },
+  "EarCanalInflammationRisk": {
+    "title": "Ear Canal Inflammation Risk",
+    "url": "/wiki/concepts/earcanalinflammationrisk/"
+  },
   "EarlyChineseBuddhismCourtTransmission": {
     "title": "早期中国佛教宫廷传播 / Early Chinese Buddhism Court Transmission",
     "url": "/wiki/concepts/earlychinesebuddhismcourttransmission/"
@@ -23470,6 +23474,10 @@
   "HeadlessSoftware": {
     "title": "Headless Software",
     "url": "/wiki/concepts/headlesssoftware/"
+  },
+  "HeadphoneUseHearingRisk": {
+    "title": "Headphone Use Hearing Risk",
+    "url": "/wiki/concepts/headphoneusehearingrisk/"
   },
   "HealthBench": {
     "title": "HealthBench",
@@ -32887,6 +32895,10 @@
     "title": "Luxury Scarcity Discipline",
     "url": "/wiki/concepts/luxuryscarcitydiscipline/"
   },
+  "LvDoctorENT": {
+    "title": "耳鼻喉吕博士 / Dr. Lv (ENT)",
+    "url": "/wiki/entities/lvdoctorent/"
+  },
   "LyndonBJohnson": {
     "title": "Lyndon B. Johnson",
     "url": "/wiki/entities/lyndonbjohnson/"
@@ -37526,6 +37538,10 @@
   "NoelHSymington": {
     "title": "Noel H. Symington / 诺埃尔·H.赛明顿",
     "url": "/wiki/entities/noelhsymington/"
+  },
+  "NoiseExposureLayering": {
+    "title": "Noise Exposure Layering",
+    "url": "/wiki/concepts/noiseexposurelayering/"
   },
   "Nokia": {
     "title": "Nokia",
@@ -47179,6 +47195,10 @@
     "title": "Shenzhen / 深圳",
     "url": "/wiki/entities/shenzhen/"
   },
+  "ShenzhenPeopleHospital": {
+    "title": "Shenzhen People's Hospital / 深圳市人民医院",
+    "url": "/wiki/entities/shenzhenpeoplehospital/"
+  },
   "ShenzhenStockExchange": {
     "title": "Shenzhen Stock Exchange / 深圳证券交易所",
     "url": "/wiki/entities/shenzhenstockexchange/"
@@ -49995,6 +50015,10 @@
     "title": "Sudanese Armed Forces",
     "url": "/wiki/entities/sudanesearmedforces/"
   },
+  "SuddenHearingChangeEscalation": {
+    "title": "Sudden Hearing Change Escalation",
+    "url": "/wiki/concepts/suddenhearingchangeescalation/"
+  },
   "SuduTechnology": {
     "title": "速度科技 / Sudu Technology",
     "url": "/wiki/entities/sudutechnology/"
@@ -52390,6 +52414,10 @@
   "TingWong": {
     "title": "Ting Wong",
     "url": "/wiki/entities/tingwong/"
+  },
+  "TinnitusSignalBoundary": {
+    "title": "Tinnitus Signal Boundary",
+    "url": "/wiki/concepts/tinnitussignalboundary/"
   },
   "Tipsy": {
     "title": "Tipsy",
@@ -64166,6 +64194,10 @@
   "vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1": {
     "title": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等",
     "url": "/wiki/sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1/"
+  },
+  "vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb": {
+    "title": "VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？",
+    "url": "/wiki/sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb/"
   },
   "vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o": {
     "title": "VOL.209 别为“功能性”上头，你以为的“精准养生”其实越补越糟！聊聊代餐粉、电解质等等",

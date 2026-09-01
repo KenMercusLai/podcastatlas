@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "56f3fd27cb7daf6338efa884f2103db89302d8d5ef0cd99a943521ff98ae1d31",
       "9287e5576c2878262bd3a7a2580e6ed403fd10750df46953967a60782d2a7e76",
       "7fca9efaffda934b2463110796fbad62c8f352d25e375b24271513ad79b7e93d",
       "ae71dbdd6403a32e10267302cd073825e370d3b319cc3252cdb329bb1e7ce3a3",
@@ -491,11 +492,41 @@
       "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3",
       "5ba1c7a478b342521c54a704f3662e19b3e2e992a9e88c2a01eb72bc8c596387"
     ],
-    "paragraph_count": 489
+    "paragraph_count": 490
   },
-  "overview_commit": "8b63c815b5ebfacb53ef031272fa08bdcc709654",
-  "overview_digest": "d4ca4199f611d47dca5a470e546b518cfd497e00bd15bfaac488bdebd2d7fa3c",
+  "overview_commit": "53d9ed67826bf4b010a0cf7ee8d7e1f6458c9ec9",
+  "overview_digest": "462db2c58eaae6eb32eb782148e001205ce8ad9201835d568436695a23f7a446",
   "paragraphs": [
+    {
+      "id": "56f3fd27cb7daf6338efa884f2103db89302d8d5ef0cd99a943521ff98ae1d31",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [
+        "science-health-and-climate",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb|VOL.208 耳机“半永久”生存指南]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[Atang|阿汤]] and [[LvDoctorENT|耳鼻喉吕博士]] from [[ShenzhenPeopleHospital|深圳市人民医院]] on headphone-heavy listening, ear-canal inflammation, noise exposure, tinnitus, sudden hearing-change warning signs, and earphone hygiene. It adds [[LvDoctorENT]], [[ShenzhenPeopleHospital]], [[HeadphoneUseHearingRisk]], [[EarCanalInflammationRisk]], [[NoiseExposureLayering]], [[TinnitusSignalBoundary]], and [[SuddenHearingChangeEscalation]], while extending [[ZheBingShuoLaiHuaChang]], [[Atang]], [[MedicalRiskManagement]], [[DoctorPatientCommunication]], [[MedicalKnowledgeBoundary]], and [[PodcastProductionWorkflow]]. Its core synthesis is that earphone harm is not a property of one device category: volume, duration, source distance, sudden peaks, environmental noise, canal ventilation, pressure, cleaning, and personal sensitivity jointly shape risk. No settled contradiction is recorded; the 60-60-60 rule, active-noise-cancellation discomfort, tinnitus causes, cleaning methods, and treatment decisions remain source-scoped public medical education.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "Atang",
+        "DoctorPatientCommunication",
+        "EarCanalInflammationRisk",
+        "HeadphoneUseHearingRisk",
+        "LvDoctorENT",
+        "MedicalKnowledgeBoundary",
+        "MedicalRiskManagement",
+        "NoiseExposureLayering",
+        "PodcastProductionWorkflow",
+        "ShenzhenPeopleHospital",
+        "SuddenHearingChangeEscalation",
+        "TinnitusSignalBoundary",
+        "ZheBingShuoLaiHuaChang",
+        "vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb"
+      ]
+    },
     {
       "id": "9287e5576c2878262bd3a7a2580e6ed403fd10750df46953967a60782d2a7e76",
       "primary_topic": "history-and-geopolitics",
