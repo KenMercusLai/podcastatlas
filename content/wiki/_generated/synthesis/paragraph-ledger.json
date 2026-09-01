@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "f1228ec71688f6d09956c176a2f9c8efeb2527e40780b79680755d8942ce3a55",
       "f227651f7f0ff51208dc5e295d7f48b923867b956e7cfcbbe174b8ccfa05f8bb",
       "368dd996da162a9dfaed7145238c392d7480b5aeda76c9f7519357934d13b6ca",
       "74f3b35028c007c99d975da3f803ca5de08e48ce0dd19c8d5e8d6d359798936e",
@@ -473,11 +474,39 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 471
+    "paragraph_count": 472
   },
-  "overview_commit": "c3157252e7ae4ab3d32d6e93cefaf382d62f28e5",
-  "overview_digest": "7beccf4a1796c3d895a444f83a493622d0ae00ee1ccc5dd38f73d6cf175b5e49",
+  "overview_commit": "a199c35a478679c2eb22f547f38daa367755c9b6",
+  "overview_digest": "24d0e59ba78dcff970722c2c394879605e2bc5c3fcb12fb941c4136801cd4f9d",
   "paragraphs": [
+    {
+      "id": "f1228ec71688f6d09956c176a2f9c8efeb2527e40780b79680755d8942ce3a55",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb|《资治通鉴·汉纪》705-2丨班超：历史上投笔从戎第一人]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling [[BanChaoEasternHan|班超]]'s pre-frontier origin before [[zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc|Hanji 705-3]]. It extends [[BanChaoEasternHan|班超]], [[BanBiaoEasternHan|班彪]], [[BanGuEasternHan|班固]], and [[LongTermAchievementDiscipline|长期成事纪律]], while reinforcing [[WangMang|王莽]], [[WeiXiaoEasternHan|隗嚣]], [[DouRongEasternHan|窦融]], [[LiuXiu|光武帝刘秀]], [[EmperorMingOfHan|汉明帝]], [[DouGuEasternHan|窦固]], and [[NorthernXiongnuLateHan|北匈奴]]. Its core synthesis is that Ban Chao's Western Regions legend is preceded by a Han-loyalist historiographical household, a family-crisis intervention for Ban Gu, years of low-status copying, a failed first office, and delayed readiness before the 73 CE northern campaign creates his military opening. No settled contradiction is recorded; Fu Jiezi, Zhang Qian, the physiognomy prophecy, exact family literary claims, and \"one-man/fifty-state\" legend framing remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BanBiaoEasternHan",
+        "BanChaoEasternHan",
+        "BanGuEasternHan",
+        "DouGuEasternHan",
+        "DouRongEasternHan",
+        "EmperorMingOfHan",
+        "LiuXiu",
+        "LongTermAchievementDiscipline",
+        "NorthernXiongnuLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangMang",
+        "WeiXiaoEasternHan",
+        "zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb",
+        "zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc"
+      ]
+    },
     {
       "id": "f227651f7f0ff51208dc5e295d7f48b923867b956e7cfcbbe174b8ccfa05f8bb",
       "primary_topic": "history-and-geopolitics",

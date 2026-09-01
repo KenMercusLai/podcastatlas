@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1551
+topic_total_pages: 1552
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4413,6 +4413,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb"
+    title: "《资治通鉴·汉纪》705-2丨班超：历史上投笔从戎第一人"
+    url: "/wiki/sources/zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb/"
   - key: "zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e"
     title: "《资治通鉴·汉纪》705-5丨班昭：续编《汉书》，史笔千秋第一人"
     url: "/wiki/sources/zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e/"

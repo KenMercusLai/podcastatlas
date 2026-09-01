@@ -14635,3 +14635,11 @@ Ingested the 2026-06-18 芮淇讲透资治通鉴 episode recapping Ban Chao's ea
 ## [2026-09-01] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 16,730 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges while lint scanned 16,730 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL`, `ANTHROPIC_API_KEY`, and `OPENAI_API_KEY` are unset in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-09-01] ingest | 《资治通鉴·汉纪》705-2丨班超：历史上投笔从戎第一人
+
+Ingested the 2026-06-18 芮淇讲透资治通鉴 episode backfilling Ban Chao's pre-frontier origin: Ban Biao's Wang Mang-era displacement, Wei Xiao and Dou Rong alignment choices, Ban-family historiography, Ban Gu's private-history accusation, Ban Chao's Luoyang appeal, copyist years, `投笔从戎`, failed Lantai office, physiognomy prophecy, and 73 CE enlistment against Northern Xiongnu. Added source `zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb`; updated `BanChaoEasternHan`, `BanBiaoEasternHan`, `BanGuEasternHan`, `LongTermAchievementDiscipline`, overview, index, and downstream synthesis artifacts. No settled contradiction found; Fu Jiezi, Zhang Qian, `王命论`, `北征赋`, physiognomy wording, and one-man/fifty-state legend framing remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
