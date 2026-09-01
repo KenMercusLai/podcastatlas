@@ -3692,9 +3692,33 @@
         "GaoJunEasternHan",
         "MouDestructionStrike"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "early-eastern-han-710-lai-xi-assassination-and-shu-tempo-setup",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 710 and records a chronological bridge rather than a complete account of the Shu campaign or Lai Xi career.",
+        "The source sets up Cen Peng's later Wuyang/Guangdu breakthrough and assassination, but Hanji 711 remains the completion source for those outcomes.",
+        "Wang Yuan, Gai Yan, Liu Liang, Bao Hui, Zhang Zhan, Lu Qi, Ren Man, Cheng Fan, Liu Long, Feng Jun, Hou Dan, Lü Wei, Gongsun Hui, exact force counts, and detailed place variants remain source-scoped."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]] fills the Jianwu 10-11 / 34-35 CE bridge between [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] and [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]]: [[LaiXiEasternHan]] turns Longxi/Tianshui planning into road-opening and western victory before [[HuanAnEasternHan]] makes him an enemy-side [[WartimeCommandDecapitation]] target, [[CommandContinuityDamageControl]] limits the immediate command shock, [[BaoYongEasternHan]] adds a royal-kin enforcement branch, and [[CenPengEasternHan]] uses water-command authority, bridge destruction, no-plunder discipline, and split routes to set up [[OperationalTempoBreakthrough]] against [[GongsunShuEasternHan]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz",
+        "zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2",
+        "zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w",
+        "LaiXiEasternHan",
+        "HuanAnEasternHan",
+        "WartimeCommandDecapitation",
+        "CommandContinuityDamageControl",
+        "BaoYongEasternHan",
+        "CenPengEasternHan",
+        "OperationalTempoBreakthrough",
+        "GongsunShuEasternHan"
+      ]
     }
   ],
   "input_digest": "b123a6ad9fa3b45d2e7210f7736d68784361441831fc1f0413a76957e0b64a45",
-  "summary": "Hanji 707 and Hanji 709 now move the early Eastern Han historical branch back to Jianwu 8-10 / 32-34 CE before Hanji 711: Hanji 707 frames Dou Rong's security-for-authority submission, Wei Xiao's refused surrender, Wu Han and Cen Peng's Xicheng logistics failure, Kou Xun's Yingchuan pacification, and Zhang Bu's late flight, while Hanji 709 links hostage-ransom deterrence, Yin-family outer-relative restraint, Guo Ji's Yingchuan trust-based surrender policy, and the Gaoping surrender forced by Kou Xun's killing of Huangfu Wen. Hanji 712-713 then moves the branch to the Jianwu 12 / 36 CE Shu campaign: Liu Xiu diagnoses Wu Han and Liu Shang's separated-camp risk before Chengdu, Wu Han survives by restoring concentration and later accepts Zhang Kan's anti-retreat advice, Gongsun Shu relies on Yan Cen's last counterattack before the final Chengdu collapse, and Hanji 713 turns victory into a conquest-legitimacy test through surrender, post-surrender atrocity, rebuke, scholar honors, repayment, and local incorporation. Hanji 724 backfills the late Guangwu historical branch to 47-48 CE through Wuling Man, Ma Yuan, Southern Xiongnu submission, Geng Guo's buffer policy, and delayed immediate war. Hanji 726 supplies the 49 CE Ma Yuan slander, Zhu Bo corrective memorial, Zong Jun surrender settlement, and Wuhuan protector-office layer before Hanji 727. Hanji 729 backfills the 52-54 CE branch before Hanji 730 through Ban Biao's Northern Xiongnu reading and Liu Xiu's early Taishan fengshan refusal. Hanji 730 remains the next late Guangwu layer; Roman Civil War Part 1 adds a Roman-Republic crisis branch; South Africa/Mandela adds a twentieth-century reconciliation-symbol branch; Hanji 733-2 moves the Eastern Han branch back to Liu Xiu founding before Yongping; and Hanji 733-3 adds a classical-text reception branch through HanyaoFu, fate, timing, and reversal.",
+  "summary": "Hanji 707, Hanji 709, and Hanji 710 now move the early Eastern Han historical branch back to Jianwu 8-11 / 32-35 CE before Hanji 711: Hanji 707 frames Dou Rong's security-for-authority submission, Wei Xiao's refused surrender, Wu Han and Cen Peng's Xicheng logistics failure, Kou Xun's Yingchuan pacification, and Zhang Bu's late flight; Hanji 709 links hostage-ransom deterrence, Yin-family outer-relative restraint, Guo Ji's Yingchuan trust-based surrender policy, and the Gaoping surrender forced by Kou Xun's killing of Huangfu Wen; and Hanji 710 connects Lai Xi's Longyou road-opening and assassination, Huan An's command targeting, Bao Yong's royal-kin enforcement, and Cen Peng's water-command and bridge-breaking setup for the Shu tempo breakthrough. Hanji 712-713 then moves the branch to the Jianwu 12 / 36 CE Shu campaign: Liu Xiu diagnoses Wu Han and Liu Shang's separated-camp risk before Chengdu, Wu Han survives by restoring concentration and later accepts Zhang Kan's anti-retreat advice, Gongsun Shu relies on Yan Cen's last counterattack before the final Chengdu collapse, and Hanji 713 turns victory into a conquest-legitimacy test through surrender, post-surrender atrocity, rebuke, scholar honors, repayment, and local incorporation. Hanji 724 backfills the late Guangwu historical branch to 47-48 CE through Wuling Man, Ma Yuan, Southern Xiongnu submission, Geng Guo's buffer policy, and delayed immediate war. Hanji 726 supplies the 49 CE Ma Yuan slander, Zhu Bo corrective memorial, Zong Jun surrender settlement, and Wuhuan protector-office layer before Hanji 727. Hanji 729 backfills the 52-54 CE branch before Hanji 730 through Ban Biao's Northern Xiongnu reading and Liu Xiu's early Taishan fengshan refusal. Hanji 730 remains the next late Guangwu layer; Roman Civil War Part 1 adds a Roman-Republic crisis branch; South Africa/Mandela adds a twentieth-century reconciliation-symbol branch; Hanji 733-2 moves the Eastern Han branch back to Liu Xiu founding before Yongping; and Hanji 733-3 adds a classical-text reception branch through HanyaoFu, fate, timing, and reversal.",
   "topic_id": "history-and-geopolitics"
 }

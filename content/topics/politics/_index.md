@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2139
+topic_total_pages: 2140
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -5711,6 +5711,9 @@ topic_entities:
   - key: "LuoJun"
     title: "骆俊 / Luo Jun"
     url: "/wiki/entities/luojun/"
+  - key: "BaoYongEasternHan"
+    title: "鲍永 / Bao Yong (Eastern Han)"
+    url: "/wiki/entities/baoyongeasternhan/"
   - key: "HonggouSettlement"
     title: "鸿沟议和 / Honggou Settlement"
     url: "/wiki/entities/honggousettlement/"

@@ -9146,6 +9146,13 @@
       "url": "/topics/history/"
     }
   ],
+  "BaoYongEasternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BaofengYingyin": [
     {
       "key": "technology",

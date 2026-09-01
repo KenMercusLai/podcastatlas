@@ -4339,6 +4339,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/baojuneasternhan/"
     },
+    "BaoYongEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件 [loK1AczaP1U-TMtYUTX-upOKAplZ].md",
+          "key": "zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/baoyongeasternhan/"
+    },
     "BaoYuEasternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -6534,9 +6550,9 @@
       "url": "/wiki/concepts/catholicburiallegitimacy/"
     },
     "CenPengEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？ [liib38zUB0_tgRBTYcmlQvOHV-w-].md",
@@ -6551,6 +6567,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件 [loK1AczaP1U-TMtYUTX-upOKAplZ].md",
+          "key": "zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz/"
         }
       ],
       "updated": "2026-09-01",
@@ -8297,9 +8320,9 @@
       "url": "/wiki/concepts/colonialloyaltyrupture/"
     },
     "CommandContinuityDamageControl": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭 [lhs6miq2aA3AvnnY_pRxTVKfxGvY].md",
@@ -8314,9 +8337,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件 [loK1AczaP1U-TMtYUTX-upOKAplZ].md",
+          "key": "zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-01",
       "url": "/wiki/concepts/commandcontinuitydamagecontrol/"
     },
     "CommandCreditMisattribution": {
@@ -18769,9 +18799,9 @@
       "url": "/wiki/concepts/goldjewelryvalueperceptionrisk/"
     },
     "GongsunShuEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
@@ -18800,6 +18830,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件 [loK1AczaP1U-TMtYUTX-upOKAplZ].md",
+          "key": "zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz/"
         }
       ],
       "updated": "2026-09-01",
@@ -21391,6 +21428,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/huaxin/"
+    },
+    "HuanAnEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件 [loK1AczaP1U-TMtYUTX-upOKAplZ].md",
+          "key": "zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/huananeasternhan/"
     },
     "HuanRongEasternHan": {
       "episode_count": 3,
@@ -25416,9 +25469,9 @@
       "url": "/wiki/entities/laililatehan/"
     },
     "LaiXiEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -25426,6 +25479,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件 [loK1AczaP1U-TMtYUTX-upOKAplZ].md",
+          "key": "zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz/"
         }
       ],
       "updated": "2026-09-01",
@@ -34078,9 +34138,9 @@
       "url": "/wiki/concepts/operationaldetachment/"
     },
     "OperationalTempoBreakthrough": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？ [liib38zUB0_tgRBTYcmlQvOHV-w-].md",
@@ -34088,6 +34148,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件 [loK1AczaP1U-TMtYUTX-upOKAplZ].md",
+          "key": "zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz/"
         }
       ],
       "updated": "2026-09-01",
@@ -47086,6 +47153,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/warasviolentredistribution/"
+    },
+    "WartimeCommandDecapitation": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》133｜宋义斩项羽，为何被反杀？ [lmS7NoyRM5Omedv77gQFHJEu53ZX].md",
+          "key": "zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》133｜宋义斩项羽，为何被反杀？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》129-1｜揭秘吴广被灭口的历史真相 [lk1bKhqKWF9UPBbJ08pJKn8cSTyp].md",
+          "key": "zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》129-1｜揭秘吴广被灭口的历史真相",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件 [loK1AczaP1U-TMtYUTX-upOKAplZ].md",
+          "key": "zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/wartimecommanddecapitation/"
     },
     "WartimeTextileFiscalResource": {
       "episode_count": 1,

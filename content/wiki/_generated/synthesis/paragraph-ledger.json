@@ -4,6 +4,7 @@
       "d443e2d07d3e3bb0d935d41e5d5a12348a56349d2005038b7e12ae376c1c6ca6",
       "8881e191f20a7a53a1808c3ab8d85c3be4989ad7dd0e5766dc92231d5172c9d1",
       "a3f502dc612a49c24ea3ef01dcf62010e596307ee67761c90d6a6f4ce35a45ca",
+      "cbca994594bc5692dc5e99e7895dd3e035c7f799db02456313e5f407ecacefe4",
       "f07191b9a08bddf99d02abceb078b22fd7fe7ffd031a2ce8c8c4ddb6102b8d32",
       "cd564f865174393895462c0ee634fb249925bb7b1df949089a1cfe256936399e",
       "b7def56b675911d97d2e781baf41dd83a81c116080d0b36c42eead1b64898001",
@@ -468,10 +469,10 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 466
+    "paragraph_count": 467
   },
-  "overview_commit": "16b3a75dd9024199bb19f44dc3b001850e35fe33",
-  "overview_digest": "eebd2d0809613835f0278978a1106e8aaa38912427be9b46d7908fae3085a5b0",
+  "overview_commit": "742c4e1dd91e94712efc2435e7979a5dfc04a5f2",
+  "overview_digest": "4ed7a1284ad16d5ed7445b95a54d43e37f044b2c2d138a834b506950f26d3b5b",
   "paragraphs": [
     {
       "id": "d443e2d07d3e3bb0d935d41e5d5a12348a56349d2005038b7e12ae376c1c6ca6",
@@ -555,6 +556,30 @@
         "YinLihua",
         "YinXingGuangwuMaternalKin",
         "zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2",
+        "zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w"
+      ]
+    },
+    {
+      "id": "cbca994594bc5692dc5e99e7895dd3e035c7f799db02456313e5f407ecacefe4",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 10-11 / 34-35 CE between [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] and [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]]. It adds [[HuanAnEasternHan|环安]] and [[BaoYongEasternHan|鲍永]], while extending [[LaiXiEasternHan|来歙]], [[CenPengEasternHan|岑彭]], [[GongsunShuEasternHan|公孙述]], [[OperationalTempoBreakthrough|兵贵神速式长线突破]], [[WartimeCommandDecapitation|战时统帅斩首]], and [[CommandContinuityDamageControl|统帅连续性危机处置]]. Its core synthesis is that Eastern Han's western-Shu campaign is fought through both operational speed and command targeting: Lai Xi converts Longxi/Tianshui planning into road opening and western victory before assassination, while Cen Peng's water-war authority, bridge attack, no-plunder discipline, and split-route thrust set up the Shu collapse that Hanji 711 completes. No settled contradiction is recorded; Wang Yuan, Gai Yan, Liu Liang, Bao Hui, Zhang Zhan, Lu Qi, Ren Man, Cheng Fan, Liu Long, Feng Jun, Hou Dan, Lü Wei, Gongsun Hui, exact force counts, and detailed place variants remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BaoYongEasternHan",
+        "CenPengEasternHan",
+        "CommandContinuityDamageControl",
+        "GongsunShuEasternHan",
+        "HuanAnEasternHan",
+        "LaiXiEasternHan",
+        "OperationalTempoBreakthrough",
+        "RuiqiJiangtouZizhiTongjian",
+        "WartimeCommandDecapitation",
+        "zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2",
+        "zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz",
         "zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w"
       ]
     },
