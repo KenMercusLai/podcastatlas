@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-01] ingest | 《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？
+
+Ingested the 2026-06-18 芮淇讲透资治通鉴 episode on Wei Xiao's post-defeat apology test, Ma Yuan's warning to Yang Guang, Liu Xiu's conditional hostage-and-title reply, Wei Xiao's turn to Gongsun Shu, and Xiongnu/Lu Fang raids followed by Liu Sa's heqin envoy. Created the source note plus `YangGuangWeiXiaoRetainer` and `FaceSavingSubmissionFailure`; updated `WeiXiaoEasternHan`, `MaYuanEasternHan`, `GongsunShuEasternHan`, `LuFangEasternHan`, `HanXiongnuHeqinPolicy`, `index`, `overview`, generated synthesis artifacts, and validation state. No settled contradiction found; Niu Han, Wei Xun, Liu Sa, exact commandery counts, and Wei Xiao faction psychology remain source-scoped.
+
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？
 
 Ingested the 2026-06-21 芮淇讲透资治通鉴 episode backfilling Jianwu 16 / 40 CE on Zheng Ce and Zheng Er's Jiaozhi revolt, Su Ding's trigger role, Ma Yuan's later suppression and five-zhu coin memorial, Liu Xiu's land-and-grain fraud executions, anti-bandit mutual-reporting policy and resettlement, and Lu Fang/Min Kan's fragile surrender settlement with Xiongnu. Created the source note plus `ZhengCeJiaozhi`, `ZhengErJiaozhi`, `SuDingJiaozhi`, `LuFangEasternHan`, `MinKanEasternHan`, `FemaleRebelSovereignty`, `BanditMutualReportingPacification`, and `WuzhuCoinRestoration`; updated `LiuXiu`, `MaYuanEasternHan`, `JiaozhiCommandery`, Hanji 720 source links, overview, index, generated synthesis artifacts, and validation state. No settled contradiction found; Gai Yan, Zhang Ji, Jiuzhen/Rinan/Hepu groups, exact force counts, and the law-versus-human-feeling management preview remain source-scoped.
@@ -14647,6 +14651,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云
 
 Ingested the 2026-06-18 芮淇讲透资治通鉴 episode backfilling Jianwu 7-8 / 31-32 CE: Liu Xiu's demobilization, eclipse sealed memorials, Zheng Xing and Chen Yuan remonstrances, amnesty, Li Tong's Da Sikong appointment, Du Shi's Nanyang governance, and Lai Xi's Lüeyang strike drawing Wei Xiao into attrition. Added source `zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi`; created `ChenYuanEasternHan` and `DuShiEasternHan`; updated `LiuXiu`, `ZhengXingEasternHan`, `LaiXiEasternHan`, `WeiXiaoEasternHan`, `GuoJiEasternHan`, `LiTongEasternHan`, `FortifiedAttritionPatience`, overview, and index. No settled contradiction found; Guo Xian, Wang Zun, Zhu Zeng, Xin Tong, and minor campaign figures remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] lint | Wiki health check
 

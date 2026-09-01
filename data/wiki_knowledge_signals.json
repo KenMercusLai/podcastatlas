@@ -15312,6 +15312,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/fazheneasternhan/"
     },
+    "FaceSavingSubmissionFailure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？ [lgi_cjylEDgzlDrIe6kWpvEjWsls].md",
+          "key": "zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/facesavingsubmissionfailure/"
+    },
     "FafaDeBelem": {
       "episode_count": 1,
       "show_count": 1,
@@ -18945,9 +18961,9 @@
       "url": "/wiki/concepts/goldjewelryvalueperceptionrisk/"
     },
     "GongsunShuEasternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
@@ -18983,6 +18999,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件",
           "url": "/wiki/sources/zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？ [lgi_cjylEDgzlDrIe6kWpvEjWsls].md",
+          "key": "zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls/"
         }
       ],
       "updated": "2026-09-01",
@@ -20272,6 +20295,50 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/hanxinsitueasternhan/"
+    },
+    "HanXiongnuHeqinPolicy": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1） [li5U-DMsMB1Lp4NY3rk02Kaiyu4K].md",
+          "key": "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的 [lsLks-OVBoMneORnk4J-q6-ns0X1].md",
+          "key": "zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2） [lolUh53iYrZo4uCf3TTzMN3_otKV].md",
+          "key": "zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1） [lumsZkBR-kLNLODXMxdF-n8p5Wym].md",
+          "key": "zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？ [lgi_cjylEDgzlDrIe6kWpvEjWsls].md",
+          "key": "zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/hanxiongnuheqinpolicy/"
     },
     "HanyangCommanderyLateHan": {
       "episode_count": 3,
@@ -29345,9 +29412,9 @@
       "url": "/wiki/concepts/loyaltycollateraldilemma/"
     },
     "LuFangEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？ [liKQ4paHQ21k6bxbAOHwDHcNWg5r].md",
@@ -29376,6 +29443,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》714丨是谁第一个喊出“男儿当马革裹尸”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？ [lgi_cjylEDgzlDrIe6kWpvEjWsls].md",
+          "key": "zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls/"
         }
       ],
       "updated": "2026-09-01",
@@ -30563,9 +30637,9 @@
       "url": "/wiki/entities/maxulatehan/"
     },
     "MaYuanEasternHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂 [ltjL2bGpyyz1bMwE_4mfCYd9E6cf].md",
@@ -30629,6 +30703,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？ [lgi_cjylEDgzlDrIe6kWpvEjWsls].md",
+          "key": "zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls/"
         }
       ],
       "updated": "2026-09-01",
@@ -47663,9 +47744,9 @@
       "url": "/wiki/entities/weitenglatehan/"
     },
     "WeiXiaoEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -47687,6 +47768,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云",
           "url": "/wiki/sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？ [lgi_cjylEDgzlDrIe6kWpvEjWsls].md",
+          "key": "zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls/"
         }
       ],
       "updated": "2026-09-01",
@@ -50647,6 +50735,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/yangfulatehan/"
+    },
+    "YangGuangWeiXiaoRetainer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？ [lgi_cjylEDgzlDrIe6kWpvEjWsls].md",
+          "key": "zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/yangguangweixiaoretainer/"
     },
     "YangKuangDuQiaoRetainer": {
       "episode_count": 1,

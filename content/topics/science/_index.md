@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 861
+topic_total_pages: 862
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1465,6 +1465,9 @@ topic_concepts:
   - key: "ZhongyongSelf"
     title: "Zhongyong Self"
     url: "/wiki/concepts/zhongyongself/"
+  - key: "FaceSavingSubmissionFailure"
+    title: "保面子式归降失败 / Face-Saving Submission Failure"
+    url: "/wiki/concepts/facesavingsubmissionfailure/"
   - key: "ShouzhuoDecisiveRestraint"
     title: "守拙式临事决断 / Shouzhuo Decisive Restraint"
     url: "/wiki/concepts/shouzhuodecisiverestraint/"

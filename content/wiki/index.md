@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？](sources/zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls.md) — Jianwu-era Guangwu backfill on Wei Xiao's failed face-saving apology to Liu Xiu, Ma Yuan's warning to Yang Guang, Wei Xiao's turn toward Gongsun Shu, and Xiongnu-Lu Fang raids that trigger a renewed heqin envoy.
 - [《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云](sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi.md) — Jianwu 7-8 Guangwu episode on demobilizing local soldiers, eclipse sealed memorials, Zheng Xing and Chen Yuan remonstrances, amnesty, Li Tong's Da Sikong appointment, Du Shi's Nanyang governance, and Lai Xi's Lüeyang attrition trap against Wei Xiao.
 - [《资治通鉴·汉纪》705-2丨班超：历史上投笔从戎第一人](sources/zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb.md) — 芮淇讲透资治通鉴 episode on Ban Chao's Ban-family historiographical background, Ban Biao's restoration-era choices, Ban Gu's private-history accusation, Ban Chao's Luoyang appeal, copyist years, `投笔从戎`, and 73 CE enlistment.
 - [《资治通鉴·汉纪》705-3丨古代特种兵班超，一个敢于单枪匹马深入敌背的传奇](sources/zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc.md) — 芮淇讲透资治通鉴 episode recapping Ban Chao's early Western Regions arc through Shanshan shock diplomacy, Khotan shaman politics, Shule regime restoration, and the recall crisis after Mingdi's death.
@@ -1848,13 +1849,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [环安 / Huan An (Eastern Han)](entities/HuanAnEasternHan.md) — Gongsun Shu-side commander whose Lai Xi assassination proposal pairs command targeting with Qiang agitation.
 - [鲍永 / Bao Yong (Eastern Han)](entities/BaoYongEasternHan.md) — Sili xiaowei whose impeachment of royal-kin misconduct anchors a two-Bao enforcement reputation.
 - [陈元 / Chen Yuan (Eastern Han remonstrant)](entities/ChenYuanEasternHan.md) — Guangwu-era remonstrant who warns Liu Xiu against suspicious supervision of the Three Excellencies.
-- [隗嚣 / Wei Xiao (Eastern Han)](entities/WeiXiaoEasternHan.md) — Western rival drawn into Lüeyang attrition before later refusal, outside rescue, famine death, and Wei Chun continuation.
+- [隗嚣 / Wei Xiao (Eastern Han)](entities/WeiXiaoEasternHan.md) — Western rival whose failed face-saving apology, turn to Gongsun Shu, Lüeyang attrition, later refusal, outside rescue, famine death, and Wei Chun continuation define his current arc.
+- [杨广 / Yang Guang (Wei Xiao retainer)](entities/YangGuangWeiXiaoRetainer.md) — Wei Xiao retainer whom Ma Yuan urges to remonstrate or leave after diagnosing Wei Xiao's two-commandery position as structurally untenable.
 - [岑彭 / Cen Peng (Eastern Han)](entities/CenPengEasternHan.md) — Guangwu commander whose water-command authority, bridge attack, no-plunder discipline, fast Shu breakthrough, assassination, and local memory span Hanji 710-711.
 - [臧宫 / Zang Gong (Eastern Han)](entities/ZangGongEasternHan.md) — Shu-campaign commander under Cen Peng who turns unstable surrendered troops and new supplies into a tempo-and-intimidation victory over Yan Cen.
 - [郭伋 / Guo Ji (Eastern Han)](entities/GuoJiEasternHan.md) — Publicly trusted Da Sikong candidate, Yingchuan bandit pacifier, and Bingzhou governor arguing for nationwide official selection.
 - [李通 / Li Tong (Eastern Han)](entities/LiTongEasternHan.md) — Guangwu-era founding-merit figure appointed Da Sikong in 31 CE who later returns full office but keeps honored court access.
 - [杜诗 / Du Shi (Eastern Han)](entities/DuShiEasternHan.md) — Nanyang administrator remembered for clean rule, water works, land opening, and household prosperity under Guangwu.
-- [公孙述 / Gongsun Shu (Eastern Han)](entities/GongsunShuEasternHan.md) — Shu-based rival ruler whose western support, assassination responses, refused surrender, Chengdu counterattacks, final battlefield collapse, and post-surrender violence frame the Shu war.
+- [公孙述 / Gongsun Shu (Eastern Han)](entities/GongsunShuEasternHan.md) — Shu-based rival ruler who becomes Wei Xiao's fallback patron before western support, assassination responses, refused surrender, Chengdu counterattacks, final collapse, and post-surrender violence frame the Shu war.
 - [严岑 / 颜岑 / Yan Cen](entities/YanCenEasternHan.md) — Final Chengdu commander who urges continued battle, briefly defeats Wu Han through a rear-cavalry feint, then surrenders after Gongsun Shu's mortal wound.
 - [李涅 / Li Nie](entities/LiNieEasternHan.md) — Guanghan scholar who drinks poison rather than accept Gongsun Shu's coerced office summons.
 - [乔璇 / Qiao Xuan (Shu Scholar)](entities/QiaoXuanShuScholar.md) — Ba commandery scholar who refuses Gongsun Shu's office-or-poison summons and is later honored and repaid by Liu Xiu.
@@ -1875,7 +1877,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [征侧 / Zheng Ce (Jiaozhi)](entities/ZhengCeJiaozhi.md) — Jiaozhi local elite woman whose 40 CE revolt becomes a female kingship claim before Ma Yuan's suppression.
 - [征贰 / Zheng Er (Jiaozhi)](entities/ZhengErJiaozhi.md) — Zheng Ce's sister and co-leader in the Jiaozhi revolt.
 - [苏定 / Su Ding (Jiaozhi governor)](entities/SuDingJiaozhi.md) — Jiaozhi governor whose attempted punishment of Zheng Ce triggers the current revolt branch.
-- [卢芳 / Lu Fang (Eastern Han)](entities/LuFangEasternHan.md) — Xiongnu-linked claimant whose failed Yunzhong attack and Sui Yu fracture precede later surrender, reward, and renewed defection.
+- [卢芳 / Lu Fang (Eastern Han)](entities/LuFangEasternHan.md) — Xiongnu-linked claimant whose early raids help trigger renewed heqin diplomacy before failed Yunzhong attack, Sui Yu fracture, later surrender, reward, and renewed defection.
 - [闵堪 / Min Kan (Eastern Han)](entities/MinKanEasternHan.md) — Northern frontier actor who survives an earlier Han attack through Xiongnu rescue before later surrendering and becoming Dai Chancellor in Lu Fang's settlement.
 - [Brazilian National Anthem](entities/BrazilianNationalAnthem.md) — Anthem whose tune, lyrics, and performance history carry Brazil's monarchy, republic, slavery-shadowed identity, and protest memory.
 - [Brazilian Flag](entities/BrazilianFlag.md) — National symbol whose colors, stars, Southern Cross reference, and positivist motto connect dynastic inheritance to republican symbolism.
@@ -1974,7 +1976,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵熙 / Zhao Xi (Eastern Han)](entities/ZhaoXiEasternHan.md) — Late-Guangwu minister whose visible role joins prince-return-to-fief advice with later funeral-order repair at Mingdi's accession.
 - [樊弘 / Fan Hong (Eastern Han)](entities/FanHongEasternHan.md) — Guangwu's uncle and Shouzhang Marquis whose cautious conduct, lawful household, and thin-burial will become an imperial model.
 - [朱勃 / Zhu Bo (Eastern Han)](entities/ZhuBoEasternHan.md) — Former Yunyang magistrate whose memorial defends Ma Yuan after death by asking Liu Xiu to weigh lifetime merit, campaign conditions, and proportional judgment.
-- [马援 / Ma Yuan (Eastern Han)](entities/MaYuanEasternHan.md) — Eastern Han general whose Wudu/Qiang victory, horsehide-burial resolve, Jiaozhi and Wuling commands, warning letter, posthumous slander, and guest-network warnings connect frontier service to court risk.
+- [马援 / Ma Yuan (Eastern Han)](entities/MaYuanEasternHan.md) — Eastern Han general whose warning to Yang Guang, Wudu/Qiang victory, horsehide-burial resolve, Jiaozhi and Wuling commands, posthumous slander, and guest-network warnings connect strategic judgment to court risk.
 - [偏和 / Pian He (Xianbei leader)](entities/PianHeXianbei.md) — Xianbei leader whom Ji Tong turns into a reward-backed frontier proxy against Xiongnu and Chishan Wuhuan targets.
 - [龙伯高 / Long Bogao (Eastern Han)](entities/LongBogaoEasternHan.md) — Positive exemplar in Ma Yuan's warning letter, used as a model of learning, careful speech, ritual conduct, and clean local office.
 - [杜季良 / Du Jiliang (Eastern Han)](entities/DuJiliangEasternHan.md) — Youxia-style figure whose role in Ma Yuan's letter becomes politically dangerous after enemies turn private comparison into court accusation.
@@ -10553,6 +10555,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Security for Authority Exchange / 交权换安全](concepts/SecurityForAuthorityExchange.md) — consolidation pattern in which a regional actor trades independent authority for household security, honor, and a survivable subordinate role.
+- [保面子式归降失败 / Face-Saving Submission Failure](concepts/FaceSavingSubmissionFailure.md) — pattern where apology, justification, or delay preserves status but prevents a defeated actor from making submission credible.
 - [Platform Advertising Monetization / 平台广告商业化](concepts/PlatformAdvertisingMonetization.md) — Bilibili case where advertising becomes the largest revenue segment through user demographics, creator recommendations, AI content, and advertiser demand.
 - [Interest Consumption Retail / 兴趣消费零售](concepts/InterestConsumptionRetail.md) — Retail strategy where IP, exclusivity, check-ins, fandom, and emotional value drive visits beyond functional product demand.
 - [Dairy Category Premiumization / 乳制品品类升级](concepts/DairyCategoryPremiumization.md) — Dairy recovery pattern linking fresh milk, cheese, functional nutrition, ice cream, and expanded consumption occasions.
@@ -11476,7 +11479,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Heavy Agriculture and Light Commerce Policy / 重农轻商政策](concepts/HeavyAgricultureLightCommercePolicy.md) — Early Han policy preference that lowers merchant status while the source argues commerce persists through adaptation and official-merchant channels.
 - [诸侯王羞辱触发谋刺 / Vassal Humiliation Conspiracy](concepts/VassalHumiliationConspiracy.md) — Pattern where insult to a dependent king makes ministers radicalize into private assassination planning.
 - [Encirclement Release Calculus / 围困开口式风险权衡](concepts/EncirclementReleaseCalculus.md) — Hanji 178 pattern where the side holding an encirclement opens a passage because allied uncertainty, reinforcements, occupation cost, and limited aims make total destruction risky.
-- [Han-Xiongnu Heqin Policy / 汉匈和亲政策](concepts/HanXiongnuHeqinPolicy.md) — Liu Jing's post-Baideng proposal to use ruling-house marriage as frontier restraint after direct war against Xiongnu proves costly.
+- [Han-Xiongnu Heqin Policy / 汉匈和亲政策](concepts/HanXiongnuHeqinPolicy.md) — ruling-house marriage and old-relation diplomacy used or attempted as bounded frontier restraint after direct war or raiding pressure proves costly.
 - [Seasonal War Logistics / 战争季节后勤](concepts/SeasonalWarLogistics.md) — Strategy frame for how harvests, winter stores, horse condition, and reproduction calendars shape campaign timing.
 - [Reproductive Attrition Strategy / 繁衍打击战略](concepts/ReproductiveAttritionStrategy.md) — Source-scoped war strategy frame for attacking a rival's future population and livestock capacity rather than only current fighters.
 - [绝对服从式指挥训练 / Absolute Command Obedience](concepts/AbsoluteCommandObedience.md) — Hanji 175 pattern where Modu's whistling-arrow drills turn lethal signal-following into command reliability.

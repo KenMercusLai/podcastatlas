@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "99bffd6ea498a30fc939473aad03bb6a8047fa332ce8ec0eeb75075e246d1866",
       "b1143a42ae79f3f34ece884060b220799414166874080850f12e59d1b6684221",
       "f1228ec71688f6d09956c176a2f9c8efeb2527e40780b79680755d8942ce3a55",
       "f227651f7f0ff51208dc5e295d7f48b923867b956e7cfcbbe174b8ccfa05f8bb",
@@ -475,11 +476,33 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 473
+    "paragraph_count": 474
   },
-  "overview_commit": "4dde90e51fdba1d5fbf784e27e6726a012fc39a2",
-  "overview_digest": "6733b89822c370cb2176510cce2b8e5dea043222962fdbd46677b33cf0207652",
+  "overview_commit": "70002bd5907ebbf0dc2ca5ba826977bad6887477",
+  "overview_digest": "ae2115e71fbc22f8be888a17c2e8db8df7acc95c82c841f8d82654c0381d7c3c",
   "paragraphs": [
+    {
+      "id": "99bffd6ea498a30fc939473aad03bb6a8047fa332ce8ec0eeb75075e246d1866",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the pre-Hanji 705-1 western-political layer around [[WeiXiaoEasternHan|隗嚣]] after defeat. It adds [[YangGuangWeiXiaoRetainer|杨广]] and [[FaceSavingSubmissionFailure|保面子式归降失败]], while extending [[MaYuanEasternHan|马援]], [[GongsunShuEasternHan|公孙述]], [[LuFangEasternHan|卢芳]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]]. Its core synthesis is that Wei Xiao still has a survivable route but cannot convert apology into submission: Ma Yuan reads the two-commandery-versus-104-commandery imbalance, Liu Xiu offers title preservation through restraint and a renewed hostage, and Wei Xiao's face-saving test instead pushes him toward Gongsun Shu. No settled contradiction is recorded; Niu Han, Wei Xun, Liu Sa, exact commandery count, and Wei Xiao faction psychology remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "FaceSavingSubmissionFailure",
+        "GongsunShuEasternHan",
+        "HanXiongnuHeqinPolicy",
+        "LuFangEasternHan",
+        "MaYuanEasternHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "WeiXiaoEasternHan",
+        "YangGuangWeiXiaoRetainer",
+        "zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls"
+      ]
+    },
     {
       "id": "b1143a42ae79f3f34ece884060b220799414166874080850f12e59d1b6684221",
       "primary_topic": "history-and-geopolitics",
