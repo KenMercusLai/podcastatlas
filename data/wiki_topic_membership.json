@@ -23118,6 +23118,13 @@
       "url": "/topics/science/"
     }
   ],
+  "FlexibilityNeuralSafetyGating": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "FlexibleFrontierMilitaryDiscretion": [
     {
       "key": "politics",
@@ -30902,6 +30909,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "InsularPainToleranceTraining": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "InsurableInterestBoundary": [
@@ -56149,6 +56163,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "StaticStretchingDoseProtocol": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "StatisticalBubbleIndicators": [
     {
       "key": "economics",
@@ -70297,6 +70318,13 @@
     }
   ],
   "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831": [
     {
       "key": "science",
       "label": "Science",

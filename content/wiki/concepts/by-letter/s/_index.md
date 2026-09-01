@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6194
+wiki_total_pages: 6197
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1220,6 +1220,9 @@ wiki_pages:
   - key: "StatewideLeftPrimaryTest"
     title: "Statewide Left Primary Test"
     url: "/wiki/concepts/statewideleftprimarytest/"
+  - key: "StaticStretchingDoseProtocol"
+    title: "Static Stretching Dose Protocol"
+    url: "/wiki/concepts/staticstretchingdoseprotocol/"
   - key: "StatisticalBubbleIndicators"
     title: "Statistical Bubble Indicators"
     url: "/wiki/concepts/statisticalbubbleindicators/"

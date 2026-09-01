@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 862
+topic_total_pages: 866
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -541,6 +541,9 @@ topic_concepts:
   - key: "FlatulenceAsHealthSignal"
     title: "Flatulence As Health Signal / 排气作为健康信号"
     url: "/wiki/concepts/flatulenceashealthsignal/"
+  - key: "FlexibilityNeuralSafetyGating"
+    title: "Flexibility Neural Safety Gating"
+    url: "/wiki/concepts/flexibilityneuralsafetygating/"
   - key: "FlowClutchLearningDistinction"
     title: "Flow-Clutch Learning Distinction"
     url: "/wiki/concepts/flowclutchlearningdistinction/"
@@ -697,6 +700,9 @@ topic_concepts:
   - key: "InstrumentalBeliefCritique"
     title: "Instrumental Belief Critique"
     url: "/wiki/concepts/instrumentalbeliefcritique/"
+  - key: "InsularPainToleranceTraining"
+    title: "Insular Pain Tolerance Training"
+    url: "/wiki/concepts/insularpaintolerancetraining/"
   - key: "IntelligenceTesting"
     title: "Intelligence Testing / 智力测试"
     url: "/wiki/concepts/intelligencetesting/"
@@ -1345,6 +1351,9 @@ topic_concepts:
   - key: "StatedRevealedPreferenceGap"
     title: "Stated-Revealed Preference Gap"
     url: "/wiki/concepts/statedrevealedpreferencegap/"
+  - key: "StaticStretchingDoseProtocol"
+    title: "Static Stretching Dose Protocol"
+    url: "/wiki/concepts/staticstretchingdoseprotocol/"
   - key: "StatisticalPoisoningOfTheSoul"
     title: "Statistical Poisoning Of The Soul / 统计学对灵魂的毒害"
     url: "/wiki/concepts/statisticalpoisoningofthesoul/"
@@ -2478,6 +2487,9 @@ topic_sources:
   - key: "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929"
     title: "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried"
     url: "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+  - key: "essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831"
+    title: "Essentials: Improve Flexibility with Research-Supported Stretching Protocols"
+    url: "/wiki/sources/essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831/"
   - key: "essentials-the-science-treatment-of-bipolar-disorder-scim8821948371"
     title: "Essentials: The Science & Treatment of Bipolar Disorder"
     url: "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"

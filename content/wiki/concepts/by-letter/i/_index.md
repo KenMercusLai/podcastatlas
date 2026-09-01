@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6194
+wiki_total_pages: 6197
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "InstrumentalTruceBreach"
     title: "Instrumental Truce Breach / 工具化议和毁约"
     url: "/wiki/concepts/instrumentaltrucebreach/"
+  - key: "InsularPainToleranceTraining"
+    title: "Insular Pain Tolerance Training"
+    url: "/wiki/concepts/insularpaintolerancetraining/"
   - key: "InsurableInterestBoundary"
     title: "Insurable Interest Boundary"
     url: "/wiki/concepts/insurableinterestboundary/"

@@ -2761,9 +2761,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 1,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -2904,6 +2904,13 @@
           "show": "Huberman Lab",
           "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
           "url": "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
+        },
+        {
+          "episode_file": "SCIM2453607831 [SCIM2453607831].md",
+          "key": "essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831",
+          "show": "Huberman Lab",
+          "title": "Essentials: Improve Flexibility with Research-Supported Stretching Protocols",
+          "url": "/wiki/sources/essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831/"
         }
       ],
       "updated": "2026-09-01",
@@ -16521,6 +16528,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/fivemarquiseshuanera/"
     },
+    "FlexibilityNeuralSafetyGating": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2453607831 [SCIM2453607831].md",
+          "key": "essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831",
+          "show": "Huberman Lab",
+          "title": "Essentials: Improve Flexibility with Research-Supported Stretching Protocols",
+          "url": "/wiki/sources/essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/flexibilityneuralsafetygating/"
+    },
     "FlexibleFrontierMilitaryDiscretion": {
       "episode_count": 1,
       "show_count": 1,
@@ -22069,9 +22092,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 1,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -22212,6 +22235,13 @@
           "show": "Huberman Lab",
           "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
           "url": "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
+        },
+        {
+          "episode_file": "SCIM2453607831 [SCIM2453607831].md",
+          "key": "essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831",
+          "show": "Huberman Lab",
+          "title": "Essentials: Improve Flexibility with Research-Supported Stretching Protocols",
+          "url": "/wiki/sources/essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831/"
         }
       ],
       "updated": "2026-09-01",
@@ -23285,6 +23315,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/instrumentalizedreligiouspower/"
+    },
+    "InsularPainToleranceTraining": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2453607831 [SCIM2453607831].md",
+          "key": "essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831",
+          "show": "Huberman Lab",
+          "title": "Essentials: Improve Flexibility with Research-Supported Stretching Protocols",
+          "url": "/wiki/sources/essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/insularpaintolerancetraining/"
     },
     "IntegratedBipolarCare": {
       "episode_count": 1,
@@ -42430,6 +42476,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/statemonopolyburdenremonstrance/"
     },
+    "StaticStretchingDoseProtocol": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2453607831 [SCIM2453607831].md",
+          "key": "essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831",
+          "show": "Huberman Lab",
+          "title": "Essentials: Improve Flexibility with Research-Supported Stretching Protocols",
+          "url": "/wiki/sources/essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/staticstretchingdoseprotocol/"
+    },
     "SteppePastoralResourcePressure": {
       "episode_count": 1,
       "show_count": 1,
@@ -42839,9 +42901,9 @@
       "url": "/wiki/concepts/strengthtrainingjointprotection/"
     },
     "StretchingMobilitySafety": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lqtWr4m-9nPye9GIib1_OM-TYlMY [lqtWr4m-9nPye9GIib1_OM-TYlMY].md",
@@ -42849,9 +42911,16 @@
           "show": "这病说来话长",
           "title": "VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南",
           "url": "/wiki/sources/vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy/"
+        },
+        {
+          "episode_file": "SCIM2453607831 [SCIM2453607831].md",
+          "key": "essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831",
+          "show": "Huberman Lab",
+          "title": "Essentials: Improve Flexibility with Research-Supported Stretching Protocols",
+          "url": "/wiki/sources/essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-01",
       "url": "/wiki/concepts/stretchingmobilitysafety/"
     },
     "Stripe": {

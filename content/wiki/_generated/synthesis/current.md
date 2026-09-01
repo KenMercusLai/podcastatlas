@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-01
-as_of_overview_commit: 70002bd5907ebbf0dc2ca5ba826977bad6887477
-summary: "Across 1,828 sources, evidence, trust, capacity, boundaries, timing, and feedback convert capability into durable, usable power."
-episode_count: 1828
-source_count: 1828
-paragraph_count: 474
+as_of_overview_commit: 36e5ae24c51ac9baedf530e5412972f045646fc7
+summary: "Across 1,829 sources, durable value depends on evidence, trust, capacity, boundaries, timing, feedback, and source-scoped judgment."
+episode_count: 1829
+source_count: 1829
+paragraph_count: 475
 topic_count: 8
 ---
 
@@ -22,7 +22,7 @@ topic_count: 8
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance.
 - [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]] adds a discipline-centered self-command branch: [[DisciplineOverMotivation]] decouples needed action from current motivation, [[AutonomicStressTraining]] treats bodily discomfort as bounded practice, [[OperationalDetachment]] widens attention before decisions, and [[LeadershipEmotionalCounterweight]] with [[ActionAfterAdversity]] frame leadership and resilience as action after emotion rather than emotion-free control.
-- [[SustainableHealthOptimization]] adds a flexible-fundamentals branch: [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], and [[PerioperativeCircadianRecovery]] are useful only when fitted to real constraints and clinical context rather than protocol perfection.
+- [[FlexibilityNeuralSafetyGating]], [[StaticStretchingDoseProtocol]], and [[InsularPainToleranceTraining]] add a flexibility branch: range-of-motion gains are framed as neural, muscular, connective-tissue, and interoceptive adaptation, where warmup, low-intensity static holds, weekly dose, top-down control, and [[StretchingMobilitySafety]] decide whether stretching remains a safe public-health practice rather than individualized rehabilitation.
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
 
 ## Synthesis by Domain
@@ -49,7 +49,7 @@ Culture and media sources use stories, rituals, brands, games, physical formats,
 
 ### Governance and Institutions
 
-Governance evidence ties capacity to enforceable controls, credible surrender and exit mechanisms, data and process boundaries, public feedback, and implementation discipline; Hanji 704 adds early Guangwu surrender credibility and heqin-pressure frontier diplomacy.
+Governance evidence ties capacity to enforceable controls, credible surrender and exit mechanisms, data and process boundaries, public feedback, and implementation discipline.
 
 - Federal biometric policing needs sharper process boundaries when civil detention becomes criminal database infrastructure: [[USDepartmentOfHomelandSecurity]] and [[USImmigrationAndCustomsEnforcement]] DNA collection feeding [[CODIS]] through [[FederalBureauOfInvestigation]] turns [[ImmigrationDNADatabaseExpansion]] into an [[EnforcementAgencyDataSharing]] and [[CivilLibertiesSurveillanceRisk]] problem, while [[CompelledDNASamplingFourthAmendment]], [[MarylandVKing]], and [[BriggsVMullen]] keep legality contested around probable cause, retention, age-threshold compliance, and future police searches. Evidence: [[tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128]], [[USDepartmentOfHomelandSecurity]], [[USImmigrationAndCustomsEnforcement]], [[FederalBureauOfInvestigation]], [[CODIS]], [[ImmigrationDNADatabaseExpansion]], [[EnforcementAgencyDataSharing]], [[CivilLibertiesSurveillanceRisk]], [[CompelledDNASamplingFourthAmendment]], [[MarylandVKing]], [[BriggsVMullen]], [[GeneticLineupPrivacyRisk]], [[FourthAmendmentDigitalPrivacy]], [[GeorgetownLawCenterOnPrivacyTechnology]], [[StevieGleiberson]].
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
@@ -70,7 +70,7 @@ Personal agency depends on calibrated emotion, motivation, bodily state, trust, 
 
 ### Science, Health, and Climate
 
-Science and health claims are strongest when mechanism, measurement, clinical boundaries, implementation constraints, and escalation thresholds remain explicit.
+Science and health claims are strongest when mechanism, measurement, clinical boundaries, implementation constraints, movement dose, and escalation thresholds stay explicit.
 
 - [[FunctionalFoodRegulatoryIdentity]], [[TargetedSupplementNeedAssessment]], [[FunctionalFoodMarketingClaimSkepticism]], [[MealReplacementNutritionBoundary]], [[ElectrolyteDrinkUseBoundary]], and [[FishOilNaturalStatinBoundary]] extend health literacy from sugar control into functional-food and supplement products: people should identify product category, actual need, ingredient and nutrition labels, use scenario, and clinical boundary before treating functional wording, naturalness, high price, medical-grade, nano, high-absorption, or natural-statin claims as health guidance. Evidence: [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o]], [[FunctionalFoodRegulatoryIdentity]], [[TargetedSupplementNeedAssessment]], [[FunctionalFoodMarketingClaimSkepticism]], [[MealReplacementNutritionBoundary]], [[ElectrolyteDrinkUseBoundary]], [[FishOilNaturalStatinBoundary]], [[YuWanrouFunctionalFoodGuest]], [[NutritionLabelSugarTraps]], [[PracticalSugarControl]], [[DietarySupplementRegulation]], [[SupplementLabelAccuracy]], [[MedicalRiskManagement]], [[ZheBingShuoLaiHuaChang]], [[Atang]], [[YueWanrou]].
 - [[PracticalSugarControl]] adds a nutrition-literacy branch: [[AddedFreeSugarDistinction]], [[LiquidSugarRisk]], [[LowGIMarketingTrap]], [[NutritionLabelSugarTraps]], [[SweetenerUncertainty]], [[GlycationSkinAnxiety]], and [[FoodPleasureEngineering]] make sugar control a question of food structure, beverage format, label interpretation, and clinical boundaries rather than blanket avoidance of sweetness or staple foods. Evidence: [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]], [[PracticalSugarControl]], [[AddedFreeSugarDistinction]], [[LiquidSugarRisk]], [[LowGIMarketingTrap]], [[NutritionLabelSugarTraps]], [[SweetenerUncertainty]], [[GlycationSkinAnxiety]], [[FoodPleasureEngineering]], [[LifestyleWeightManagement]], [[MedicalRiskManagement]], [[LifestyleDiseasePrevention]], [[ZheBingShuoLaiHuaChang]], [[Atang]], [[YueWanrou]], [[DaShiHua]].

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6194
+wiki_total_pages: 6197
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -476,6 +476,9 @@ wiki_pages:
   - key: "FlavorAsSelfKnowledge"
     title: "Flavor As Self-Knowledge"
     url: "/wiki/concepts/flavorasselfknowledge/"
+  - key: "FlexibilityNeuralSafetyGating"
+    title: "Flexibility Neural Safety Gating"
+    url: "/wiki/concepts/flexibilityneuralsafetygating/"
   - key: "FlexibleManufacturing"
     title: "Flexible Manufacturing / 柔性制造"
     url: "/wiki/concepts/flexiblemanufacturing/"

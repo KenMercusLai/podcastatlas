@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-01
-as_of_overview_commit: 43731b6c1197d1a6033dfb929f362da355a7208e
-input_digest: ca72f03b020df8ee708c70ce9c416d0f0238d291659340672c7378e0cccc7606
+as_of_overview_commit: 36e5ae24c51ac9baedf530e5412972f045646fc7
+input_digest: 8217f9984a46a62411f0995ed11ae6766f9dac0a4f8bf3413b2d43b66182c0aa
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-The Eastwick Huberman Lab paragraph is science-health adjacent because it models relationship advice as evidence-bounded public science: app, attachment, sexuality, similarity, and support claims require context rather than universal protocols. Science-health-and-climate now joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: measurement, mechanism, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Recent health branches cover sugar-control literacy; functional-food and supplement-claim boundaries; flexible fundamentals for sleep, circadian timing, recovery, fertility, and nutrition; male and female hormone phenotyping; exercise-risk boundaries; diagnostic safety netting; spine rehabilitation; metabolic psychiatry; bipolar and OCD care; insect-bite prevention and escalation; individualized cancer vaccines; companion-animal welfare; historical death-cause inference for Liu Xiu; and evidence-bounded body-composition fundamentals. The nonclinical strands show the same pattern in space launch, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, and source-scoped medical or cultivation claims.
+The Eastwick Huberman Lab paragraph is science-health adjacent because it models relationship advice as evidence-bounded public science: app, attachment, sexuality, similarity, and support claims require context rather than universal protocols. Science-health-and-climate now joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: measurement, mechanism, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Recent health branches cover sugar-control literacy; functional-food and supplement-claim boundaries; flexible fundamentals for sleep, circadian timing, recovery, fertility, and nutrition; male and female hormone phenotyping; exercise-risk and flexibility-stretching dose boundaries; diagnostic safety netting; spine rehabilitation; metabolic psychiatry; bipolar and OCD care; insect-bite prevention and escalation; individualized cancer vaccines; companion-animal welfare; historical death-cause inference for Liu Xiu; and evidence-bounded body-composition fundamentals. The nonclinical strands show the same pattern in space launch, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, and source-scoped medical or cultivation claims.
 
 ## Cross-source Findings
 
@@ -63,6 +63,18 @@ The Eastwick Huberman Lab paragraph is science-health adjacent because it models
 - The episode is public medical, cardiology, dermatology, emergency-care, rehabilitation, and training education rather than individualized exercise prescription.
 - Aesthetic, heart-rate, supplement, and injury claims remain source-scoped because safe thresholds depend on skin exposure, facial-fat change, baseline blood pressure, cardiovascular history, recovery state, product uncertainty, equipment skill, and symptoms.
 - BLS, AED, and emergency-call guidance should be read as preparedness literacy, not a substitute for local emergency protocols or professional care.
+
+### Flexibility Training Needs Neural Dose And Safety Boundaries
+
+[[FlexibilityNeuralSafetyGating]], [[StaticStretchingDoseProtocol]], and [[InsularPainToleranceTraining]] add a flexibility branch: range-of-motion gains are framed as neural, muscular, connective-tissue, and interoceptive adaptation, where warmup, low-intensity static holds, weekly dose, top-down control, and [[StretchingMobilitySafety]] decide whether stretching remains a safe public-health practice rather than individualized rehabilitation.
+
+**Evidence:** [[essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831]], [[FlexibilityNeuralSafetyGating]], [[StaticStretchingDoseProtocol]], [[InsularPainToleranceTraining]], [[StretchingMobilitySafety]], [[HubermanLab]], [[AndrewHuberman]], [[AutonomicStressTraining]], [[MovementPracticeAsAwareness]], [[Neuroplasticity]], [[BrainBodyEmotionMapping]]
+
+**Qualifications:**
+
+- The episode is public movement and neuroscience education, not individualized rehabilitation, pain, injury, mobility-screening, or medical advice.
+- Static-stretching dose, low-intensity dancer data, yoga pain-tolerance, and pre-training stretching claims remain source-scoped and context-dependent.
+- Day-to-day end range, pain signals, injury history, warmup, sport demands, and clinical symptoms should bound stretching protocols.
 
 ### Metabolic Psychiatry Needs Evidence And Supervision
 
