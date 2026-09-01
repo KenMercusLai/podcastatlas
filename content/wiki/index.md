@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？](sources/zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot.md) — Jianwu-era Guangwu backfill on Feng Yi's city-first ambush against Wei Xiao's Wang Yuan-Xing Xun advance, Ji Zun's parallel victory, local commandery realignment, and Dou Rong's persistent letter-based allegiance to Liu Xiu.
 - [《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？](sources/zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac.md) — Jianwu-era Guangwu backfill on Dou Rong warning Wei Xiao, Liang Tong severing ties by killing Wei Xiao's envoy and discarding the seal, Ma Yuan's old Wei-side report and cavalry persuasion mission, and Liu Xiu's talent-reward strategy.
 - [《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？](sources/zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls.md) — Jianwu-era Guangwu backfill on Wei Xiao's failed face-saving apology to Liu Xiu, Ma Yuan's warning to Yang Guang, Wei Xiao's turn toward Gongsun Shu, and Xiongnu-Lu Fang raids that trigger a renewed heqin envoy.
 - [《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云](sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi.md) — Jianwu 7-8 Guangwu episode on demobilizing local soldiers, eclipse sealed memorials, Zheng Xing and Chen Yuan remonstrances, amnesty, Li Tong's Da Sikong appointment, Du Shi's Nanyang governance, and Lai Xi's Lüeyang attrition trap against Wei Xiao.
@@ -1839,20 +1840,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [冯异 / Feng Yi (Eastern Han)](entities/FengYiEasternHan.md) — Guangwu western-campaign commander whose Hanji 702 profile centers on first occupying a disputed city, hiding his force, and turning Wei Xiao's advance into a routed enemy and local realignment.
 - [Kailas / 凯乐石](entities/Kailas.md) — Chinese outdoor brand using Fuga, Chamonix retail, race sponsorship, and athlete credibility to enter Europe's trail-running market.
 - [Fuga](entities/Fuga.md) — Kailas-linked trail-running brand or product line used as the source's overseas market-entry wedge.
 - [Miniso / 名创优品](entities/Miniso.md) — Chinese retail company using large IP-heavy stores, emotional-value products, and slower overseas openings as a store-model quality test.
 - [寇恂 / Kou Xun (Eastern Han)](entities/KouXunEasternHan.md) — Guangwu-era commander whose Gao Jun mission turns Huangfu Wen's execution into a forced-surrender and "伐谋" case.
 - [高峻 / Gao Jun (Eastern Han)](entities/GaoJunEasternHan.md) — Wei Xiao-aligned holdout at Gaoping whose surrender follows Kou Xun's execution of Huangfu Wen.
 - [皇甫文 / Huangfu Wen (Eastern Han)](entities/HuangfuWenEasternHan.md) — Gao Jun's adviser and envoy whose killing becomes Hanji 709's "上兵伐谋" example.
-- [祭遵 / Ji Zun (Eastern Han)](entities/JiZunEasternHan.md) — Guangwu commander remembered as clean, disciplined, reward-sharing, and thin-burial minded after his Jianwu 9 death.
+- [祭遵 / Ji Zun (Eastern Han)](entities/JiZunEasternHan.md) — Guangwu commander whose current profile joins a western victory over Wang Yuan with disciplined command and posthumous praise pressure.
 - [姚期 / Yao Qi (Eastern Han)](entities/YaoQiEasternHan.md) — Guangwu commander who warns Liu Xiu that repeated praise of Ji Zun is frightening and shaming living ministers.
 - [温序 / Wen Xu (Eastern Han)](entities/WenXuEasternHan.md) — Liu Xiu-aligned official captured by Wei Xiao's side who kills himself rather than surrender.
 - [来歙 / Lai Xi (Eastern Han)](entities/LaiXiEasternHan.md) — Liu Xiu-aligned western commander whose Lüeyang seizure, Longxi/Tianshui planning, Longyou stabilization, and assassination frame the western campaign.
 - [环安 / Huan An (Eastern Han)](entities/HuanAnEasternHan.md) — Gongsun Shu-side commander whose Lai Xi assassination proposal pairs command targeting with Qiang agitation.
 - [鲍永 / Bao Yong (Eastern Han)](entities/BaoYongEasternHan.md) — Sili xiaowei whose impeachment of royal-kin misconduct anchors a two-Bao enforcement reputation.
 - [陈元 / Chen Yuan (Eastern Han remonstrant)](entities/ChenYuanEasternHan.md) — Guangwu-era remonstrant who warns Liu Xiu against suspicious supervision of the Three Excellencies.
-- [隗嚣 / Wei Xiao (Eastern Han)](entities/WeiXiaoEasternHan.md) — Western rival whose failed face-saving apology, turn to Gongsun Shu, Lüeyang attrition, later refusal, outside rescue, famine death, and Wei Chun continuation define his current arc.
+- [隗嚣 / Wei Xiao (Eastern Han)](entities/WeiXiaoEasternHan.md) — Western rival whose failed terrain race, ignored warnings, face-saving apology, Gongsun Shu dependence, Lüeyang attrition, Xicheng rescue, famine death, and Wei Chun continuation define his current arc.
 - [杨广 / Yang Guang (Wei Xiao retainer)](entities/YangGuangWeiXiaoRetainer.md) — Wei Xiao retainer whom Ma Yuan urges to remonstrate or leave after diagnosing Wei Xiao's two-commandery position as structurally untenable.
 - [岑彭 / Cen Peng (Eastern Han)](entities/CenPengEasternHan.md) — Guangwu commander whose water-command authority, bridge attack, no-plunder discipline, fast Shu breakthrough, assassination, and local memory span Hanji 710-711.
 - [臧宫 / Zang Gong (Eastern Han)](entities/ZangGongEasternHan.md) — Shu-campaign commander under Cen Peng who turns unstable surrendered troops and new supplies into a tempo-and-intimidation victory over Yan Cen.
@@ -1963,7 +1965,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [University of Colorado Denver](entities/UniversityOfColoradoDenver.md) — Source-scoped institutional setting for Sumayya Shravani's data infrastructure and analytics environment work.
 - [Ground Truth Newsletter](entities/GroundTruthNewsletter.md) — Sumayya Shravani's source-mentioned weekly newsletter on AI tool teardowns in real enterprise workflows.
 - [梁松 / Liang Song, Linxiang Marquis](entities/LiangSongLinxiangMarquis.md) — Eastern Han elite whose ignored Ma Yuan warning, etiquette resentment, Du Jiliang association, Ma Yuan accusation, and later anonymous slander case turn high status into political exposure.
-- [窦融 / Dou Rong (Eastern Han)](entities/DouRongEasternHan.md) — Hexi power-holder integrated through Luoyang seal submission, returned honor, rejected resignation, and later patriarchal prestige.
+- [窦融 / Dou Rong (Eastern Han)](entities/DouRongEasternHan.md) — Hexi power-holder integrated through letter-based allegiance, Luoyang seal submission, returned honor, rejected resignation, and later patriarchal prestige.
 - [窦穆 / Dou Mu (Eastern Han)](entities/DouMuEasternHan.md) — Dou-family descendant who falsely invokes Yin Taihou authority to coerce a royal marriage and is later executed after Dou Rong's death.
 - [钟离意 / Zhongli Yi (Eastern Han)](entities/ZhongliYiEasternHan.md) — Yongping 3 official whose omen-framed remonstrance stops North Palace construction and whose later leniency advice marks a protected but unadopted correction.
 - [刘平 / Liu Ping (Eastern Han official)](entities/LiuPingEasternHan.md) — Quanjiao administrator whose trust signals include voluntary tax reporting, service willingness, and nearly empty prisons.
@@ -10561,7 +10563,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [Security for Authority Exchange / 交权换安全](concepts/SecurityForAuthorityExchange.md) — consolidation pattern in which a regional actor trades independent authority for household security, honor, and a survivable subordinate role.
+- [争地抢先式决胜 / Decisive Terrain Preemption](concepts/DecisiveTerrainPreemption.md) — Military pattern where first occupation of a key site converts an enemy advance into a defensive ambush and political realignment.
+- [Security for Authority Exchange / 交权换安全](concepts/SecurityForAuthorityExchange.md) — consolidation pattern where allegiance communication and visible submission let a regional actor trade independent authority for household security, honor, and a survivable subordinate role.
 - [保面子式归降失败 / Face-Saving Submission Failure](concepts/FaceSavingSubmissionFailure.md) — pattern where apology, justification, or delay preserves status but prevents a defeated actor from making submission credible.
 - [Platform Advertising Monetization / 平台广告商业化](concepts/PlatformAdvertisingMonetization.md) — Bilibili case where advertising becomes the largest revenue segment through user demographics, creator recommendations, AI content, and advertiser demand.
 - [Interest Consumption Retail / 兴趣消费零售](concepts/InterestConsumptionRetail.md) — Retail strategy where IP, exclusivity, check-ins, fandom, and emotional value drive visits beyond functional product demand.

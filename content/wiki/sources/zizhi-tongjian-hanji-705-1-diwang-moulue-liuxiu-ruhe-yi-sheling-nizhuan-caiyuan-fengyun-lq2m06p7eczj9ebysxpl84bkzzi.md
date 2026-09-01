@@ -23,6 +23,7 @@ The military half follows the same transition from pressure to timing. [[WeiXiao
 - Zheng Xing treats public support for Guo Ji as evidence that Liu Xiu's delay over the Da Sikong post is producing rumor and uncertainty.
 - Liu Xiu's amnesty and later appointment of Li Tong as Da Sikong are presented as immediate adjustments after the remonstrance.
 - Chen Yuan opposes using the Sili Xiaowei to supervise the Three Excellencies, arguing that rulerly trust and respect for senior ministers should replace Wang Mang-like suspicion, informer politics, and harsh law.
+- Wei Xiao's Anding invasion with more than 30,000 troops is checked by [[FengYiEasternHan|Feng Yi]] and [[JiZunEasternHan|Ji Zun]] before the later Lüeyang sequence becomes central.
 - Lai Xi's 32 CE seizure of Lüeyang turns a key Wei Xiao shield into a Han-held pressure point, while Liu Xiu correctly predicts Wei Xiao will waste elite troops trying to retake it.
 - Du Shi's Nanyang administration links clean local government, water works, land opening, and household prosperity to the wider consolidation of Guangwu's order.
 
@@ -38,6 +39,7 @@ The military half follows the same transition from pressure to timing. [[WeiXiao
 - [[GuoJiEasternHan|郭伋]], [[LiTongEasternHan|李通]], and [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - the Da Sikong question connects public reputation, rumor control, and high-office appointment.
 - [[ZhengXingEasternHan|郑兴]], [[ChenweiPolitics|谶纬政治]], [[ImperialPreferenceSpeechRisk|帝王偏好下的表达风险]], and [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] - Zheng Xing later survives Liu Xiu's chenwei anger by separating ignorance from opposition.
 - [[LaiXiEasternHan|来歙]], [[WeiXiaoEasternHan|隗嚣]], [[GongsunShuEasternHan|公孙述]], and [[FortifiedAttritionPatience|坚壁耗敌式耐心]] - Lüeyang becomes a fortress-pressure point that draws Wei Xiao into costly siege.
+- [[FengYiEasternHan|冯异]] and [[JiZunEasternHan|祭遵]] - the Anding notice shows Wei Xiao's pressure being checked before the later Lüeyang attrition branch.
 - [[DuShiEasternHan|杜诗]], [[NanyangCommandery|南阳郡]], [[HumaneLocalGovernance|仁厚地方治理]], and [[BeneficialGovernanceDelivery|惠民实效治理]] - Du Shi's clean administration is remembered through water, land, prosperity, and local praise.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame for the Jianwu 7-8 notices.
 
@@ -45,4 +47,4 @@ The military half follows the same transition from pressure to timing. [[WeiXiao
 - No settled contradiction with existing wiki pages was found.
 - Chronology qualification: this source backfills the 31-32 CE layer before Hanji 707's later Wei Xiao/Dou Rong/Xicheng sequence and Hanji 708's 33 CE Wei Xiao death, Ji Zun mourning, Lai Xi planning, and Qiang diagnosis.
 - Identity normalization: the transcript forms 郑新, 陈源, 郭及, 魏敖/魏嚣, 来希, 略洋, 竺曾, 新彤, and 杜师 are normalized to [[ZhengXingEasternHan|郑兴]], [[ChenYuanEasternHan|陈元]], [[GuoJiEasternHan|郭伋]], [[WeiXiaoEasternHan|隗嚣]], [[LaiXiEasternHan|来歙]], 略阳, 竺曾, 辛肜, and [[DuShiEasternHan|杜诗]] based on the Guangwu-era context.
-- Scope caution: Beiao, Jiang Feng, Zhu Zeng, Xin Tong, Feng Yi, Wang Zun, Li Xing, Tian Sa, Qiao Hu, Guo Xian, Jin Liang, Wang Yuan, Xing Xun, Wang Meng, Niu Han, Li Yu, Tian Yan, exact route names, and the chariot-cutting cliffhanger remain source-scoped unless later notes warrant canonical pages.
+- Scope caution: Beiao, Jiang Feng, Zhu Zeng, Xin Tong, Wang Zun, Li Xing, Tian Sa, Qiao Hu, Guo Xian, Jin Liang, Wang Yuan, Xing Xun, Wang Meng, Niu Han, Li Yu, Tian Yan, exact route names, and the chariot-cutting cliffhanger remain source-scoped unless later notes warrant canonical pages.

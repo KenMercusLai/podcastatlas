@@ -24,7 +24,7 @@ The main strategic branch follows [[KouXunEasternHan|寇恂]] at Gaoping: he exe
 - Yin Xing's refusal of title turns outer-relative status into self-restraint: family access to the ruler should not become office, marriage, luxury, or resentment-generating privilege.
 - Guo Ji's Yingchuan handling shows a softer pacification path: released bandits and self-impeachment make his promise credible enough that more bandits later surrender.
 - Shache King Xian's succession and expansion notice shows Western Regions instability before later Guangwu recognition and capacity disputes.
-- Feng Yi's final Wei Chun campaign shows the continuing cost of pacifying holdout forces even after major Eastern Han consolidation.
+- [[FengYiEasternHan|Feng Yi]]'s final Wei Chun campaign shows the continuing cost of pacifying holdout forces even after major Eastern Han consolidation.
 - Kou Xun's killing of Huangfu Wen breaks Gao Jun's confidence because it targets the adviser who holds the rebel side's plan and morale together.
 - The episode links hostage deterrence and military decapitation through one cold logic: remove the opponent's expected payoff, whether money from kidnapping or confidence from a key adviser.
 
@@ -43,6 +43,7 @@ The main strategic branch follows [[KouXunEasternHan|寇恂]] at Gaoping: he exe
 - [[GuoJiEasternHan|郭伋]], [[YingchuanCommandery|颍川]], and [[CreditBasedBanditSurrender|信义招降盗贼]] - Guo Ji's credibility makes surrender safer than continued banditry.
 - [[KouXunEasternHan|寇恂]], [[GaoJunEasternHan|高峻]], [[HuangfuWenEasternHan|皇甫文]], [[MouDestructionStrike|伐谋式斩首]], and [[ForceBackedSurrenderPersuasion|武力背书式劝降]] - the Gaoping mission turns a killed strategist into immediate surrender pressure.
 - [[EnvoyKillingTaboo|不斩来使]] - Huangfu Wen is sent out in a negotiation context, so Kou Xun's action is recorded as an extreme exception rather than a general diplomatic rule.
+- [[FengYiEasternHan|冯异]] - the later Wei Chun notice keeps Feng Yi visible after the main Wei Xiao field has already weakened.
 - [[ShacheKingdomLateHan|莎车国]], [[WuHanEasternHan|吴汉]], and [[Xiongnu|匈奴]] - the surrounding notices show Guangwu's court facing Western Regions and northern military pressure in the same period.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame for the Jianwu notices.
 

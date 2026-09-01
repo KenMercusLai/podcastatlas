@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-01
-as_of_overview_commit: de472eb9aa38d4e5a79ee704385add0b9d048aa5
-summary: "Across 1,831 sources, durable value depends on evidence, trust, capacity, boundaries, timing, feedback, and source-scoped judgment."
-episode_count: 1831
-source_count: 1831
-paragraph_count: 477
+as_of_overview_commit: 834d2a7e822834e60be5e10976cb770da0124201
+summary: "Across 1,832 sources, durable value depends on evidence, trust, capacity, boundaries, timing, feedback, and source-scoped judgment."
+episode_count: 1832
+source_count: 1832
+paragraph_count: 478
 topic_count: 8
 ---
 
@@ -29,7 +29,7 @@ topic_count: 8
 
 ### AI and Technology
 
-AI value depends on workflow integration, data and permission control, verification, product economics, physical compute, memory, and power constraints.
+AI value depends on workflow integration, controlled data and permissions, verification, product economics, physical compute, memory, power, and grounded deployment feedback.
 
 - The GLM/Micron All-In source shows AI scale becoming a coupled capacity problem: [[GLM52]] and [[ChineseOpenWeightAIStrategy]] pressure closed frontier APIs, while [[HighBandwidthMemory]], [[MicronTechnology]], [[ModularAIDataCenters]], [[SpaceBasedAIInfrastructure]], and [[OrbitalDataCenterEconomics]] make memory bandwidth, power, cooling, site deployment, and workload latency part of model progress rather than background infrastructure. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335]], [[GLM52]], [[ChineseOpenWeightAIStrategy]], [[HighBandwidthMemory]], [[MicronTechnology]], [[ModularAIDataCenters]], [[SpaceBasedAIInfrastructure]], [[OrbitalDataCenterEconomics]], [[GavinBaker]], [[TravisKalanick]].
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[PersistentCloudAgents]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[AgenticDataEngineeringHarness]], [[PolicyBoundAgenticLendingSupport]], [[ExplainableAILending]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[AgentNativeSoftware]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]], [[AIOfficeAgent]], [[ClaudeCode]], [[DingTalk]], [[Feishu]], [[TencentWorkBuddy]], [[DoubaoWork]], [[tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460]], [[AgenticDataEngineeringHarness]], [[DeterministicDataAgentValidation]], [[DataAgentGovernance]], [[DataAgentContextCompaction]], [[SilentSQLFailure]], [[AIDataReadiness]], [[AltimateCode]], [[SnowflakeCortexAnalyst]], [[DataAgentBenchmarks]], [[ep-45-why-ai-agents-break-in-production-the-missing-harness-in-your-data-stack]], [[all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345]], [[AgenticSystemOfRecordMoat]], [[PersistentCloudAgents]], [[Salesforce]], [[Grokbot]], [[ep-44-human-centered-credit-building-explainable-ai-for-lending-in-an-agentic-world]], [[MPWRAI]], [[TamaraClay]], [[ExplainableAILending]], [[PolicyBoundAgenticLendingSupport]], [[HumanInTheLoopCreditDecisioning]], [[NontraditionalBorrowerCreditAccess]].
@@ -43,27 +43,27 @@ Business value survives when demand, distribution, payment proof, localization, 
 
 ### Culture and Media
 
-Culture and media sources use stories, rituals, brands, games, physical formats, AI entertainment, and national symbols to test identity, agency, evidence, attention, reception, and human meaning.
+Culture and media sources use stories, rituals, brands, games, physical formats, AI entertainment, and national symbols to test identity, agency, evidence, attention, and human meaning.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]], [[AntiAuthoritarianEducation]], [[SafetyAsControl]], [[BuddhistLifeAffirmingLiterature]].
 
 ### Governance and Institutions
 
-Governance evidence ties capacity to enforceable controls, credible surrender and exit mechanisms, data and process boundaries, public feedback, implementation discipline, and settlements that make disputed authority durable.
+Governance evidence ties capacity to enforceable controls, credible surrender and exit mechanisms, data and process boundaries, public feedback, implementation discipline, and durable settlements.
 
 - Federal biometric policing needs sharper process boundaries when civil detention becomes criminal database infrastructure: [[USDepartmentOfHomelandSecurity]] and [[USImmigrationAndCustomsEnforcement]] DNA collection feeding [[CODIS]] through [[FederalBureauOfInvestigation]] turns [[ImmigrationDNADatabaseExpansion]] into an [[EnforcementAgencyDataSharing]] and [[CivilLibertiesSurveillanceRisk]] problem, while [[CompelledDNASamplingFourthAmendment]], [[MarylandVKing]], and [[BriggsVMullen]] keep legality contested around probable cause, retention, age-threshold compliance, and future police searches. Evidence: [[tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128]], [[USDepartmentOfHomelandSecurity]], [[USImmigrationAndCustomsEnforcement]], [[FederalBureauOfInvestigation]], [[CODIS]], [[ImmigrationDNADatabaseExpansion]], [[EnforcementAgencyDataSharing]], [[CivilLibertiesSurveillanceRisk]], [[CompelledDNASamplingFourthAmendment]], [[MarylandVKing]], [[BriggsVMullen]], [[GeneticLineupPrivacyRisk]], [[FourthAmendmentDigitalPrivacy]], [[GeorgetownLawCenterOnPrivacyTechnology]], [[StevieGleiberson]].
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 
 ### History and Geopolitics
 
-Historical and geopolitical sources trace power through logistics, alliances, legitimacy, institutions, technology ecosystems, symbolic order, and capacity limits. Hanji 703 adds an Eastern Han alignment-fracture prelude before Wei Xiao's later apology and siege sequence.
+Historical and geopolitical sources trace power through logistics, alliances, legitimacy, institutions, terrain, timing, symbolic order, and capacity limits; Hanji 702 adds an earlier Guangwu western-consolidation prelude.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
 
 ### Psychology and Personal Development
 
-Personal agency depends on calibrated emotion, motivation, bodily state, trust, authority-facing speech, tools, and feedback rather than simple willpower.
+Personal agency depends on calibrated emotion, motivation, bodily state, trust, authority-facing speech, tools, timing, and feedback rather than simple willpower.
 
 - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] adds a functional emotion-regulation branch: [[EmotionsAsFunctionalControlStates]] treats emotions as useful control states for decision and motivation, while [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], and [[TaskSwitchingResidue]] frame regulation as monitoring, differentiating, reframing early, shaping environments, respecting body signals, and managing transition costs rather than removing emotion. Evidence: [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]], [[EmotionsAsFunctionalControlStates]], [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], [[TaskSwitchingResidue]], [[EmotionRegulationToolkit]], [[BrainBodyEmotionMapping]].
 - [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]] adds a discipline-centered self-command branch: [[DisciplineOverMotivation]] decouples needed action from current motivation, [[AutonomicStressTraining]] treats bodily discomfort as bounded practice, [[OperationalDetachment]] widens attention before decisions, and [[LeadershipEmotionalCounterweight]] with [[ActionAfterAdversity]] frame leadership and resilience as action after emotion rather than emotion-free control. Evidence: [[essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799]], [[JockoWillink]], [[DisciplineOverMotivation]], [[AutonomicStressTraining]], [[OperationalDetachment]], [[LeadershipEmotionalCounterweight]], [[ActionAfterAdversity]], [[EmotionRegulationToolkit]], [[MotivationRewardEffortCalculation]], [[AttentionCapacitySelection]].
@@ -77,7 +77,7 @@ Science and health claims are strongest when mechanism, measurement, clinical bo
 
 ### Work, Education, and Society
 
-Work, education, and social capacity emerge from effortful practice, trust, workflow fit, verification, grounded feedback, and role clarity. Hanji 703 adds a bounded talent-and-alignment analogy.
+Work, education, and social capacity emerge from effortful practice, trust, workflow fit, verification, grounded feedback, role clarity, and realistic constraints.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

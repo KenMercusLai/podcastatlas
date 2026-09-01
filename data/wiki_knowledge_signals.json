@@ -10401,6 +10401,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/deceptivesurrenderlull/"
     },
+    "DecisiveTerrainPreemption": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？ [lqCkX-aClcHKZQqe3pTtnklu9Vot].md",
+          "key": "zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/decisiveterrainpreemption/"
+    },
     "DeclarationOfIndependence": {
       "episode_count": 2,
       "show_count": 1,
@@ -11849,9 +11865,9 @@
       "url": "/wiki/entities/doumueasternhan/"
     },
     "DouRongEasternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
@@ -11887,6 +11903,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？ [lqCkX-aClcHKZQqe3pTtnklu9Vot].md",
+          "key": "zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot/"
         }
       ],
       "updated": "2026-09-01",
@@ -16262,6 +16285,36 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/fengtouquan/"
+    },
+    "FengYiEasternHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？ [lqCkX-aClcHKZQqe3pTtnklu9Vot].md",
+          "key": "zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云 [lq2M06p7eCzJ9eBysxpL84BKzZi-].md",
+          "key": "zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？ [lukNoR8YW839QWxOGeyZwLUO6Qe2].md",
+          "key": "zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/fengyieasternhan/"
     },
     "FengshanRitualLegitimacy": {
       "episode_count": 3,
@@ -24309,9 +24362,9 @@
       "url": "/wiki/entities/jitongeasternhan/"
     },
     "JiZunEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -24319,6 +24372,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？ [lqCkX-aClcHKZQqe3pTtnklu9Vot].md",
+          "key": "zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot/"
         }
       ],
       "updated": "2026-09-01",
@@ -40776,9 +40836,9 @@
       "url": "/wiki/concepts/secondopinionstrategy/"
     },
     "SecurityForAuthorityExchange": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？ [lnDwXM9LMCKt1PS6eowQdI_v82pv].md",
@@ -40793,6 +40853,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？ [lqCkX-aClcHKZQqe3pTtnklu9Vot].md",
+          "key": "zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot/"
         }
       ],
       "updated": "2026-09-01",
@@ -48150,9 +48217,9 @@
       "url": "/wiki/entities/weitenglatehan/"
     },
     "WeiXiaoEasternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -48188,6 +48255,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？ [lqCkX-aClcHKZQqe3pTtnklu9Vot].md",
+          "key": "zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot/"
         }
       ],
       "updated": "2026-09-01",

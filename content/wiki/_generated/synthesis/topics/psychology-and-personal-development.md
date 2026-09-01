@@ -4,17 +4,29 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-01
-as_of_overview_commit: 4dde90e51fdba1d5fbf784e27e6726a012fc39a2
-input_digest: 77a05d7a37f07b7540157795c495d07011637febea36f138267da3daf4dd852f
+as_of_overview_commit: 834d2a7e822834e60be5e10976cb770da0124201
+input_digest: 0552b5d3dafce080bcb971608201d5ff0860eceb8f61718d870f441d56914862
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 705-1 adds a narrow historical speech and self-command layer: Zheng Xing and Chen Yuan show criticism calibrated through omen, public reputation, institutional comparison, and reachable but preference-sensitive authority. The substantive claim remains history and governance, not clinical advice. Hanji 713, Hanji 736, Hanji 744-745, Hanji 753, relationship science, workplace abuse, emotion regulation, meditation, discipline, movement practice, and AI/workplace trust remain the main existing psychology-and-personal-development branches.
+Hanji 702 adds only a narrow historical self-command layer: Feng Yi turns officer fear into first-move action, while Dou Rong makes allegiance legible through persistent, status-aware communication. Hanji 705-1 remains a speech-calibration case through Zheng Xing and Chen Yuan's omen, public-reputation, and institutional-comparison framing. The substantive claims remain history and governance, not clinical advice. Hanji 713, Hanji 736, Hanji 744-745, Hanji 753, relationship science, workplace abuse, emotion regulation, meditation, discipline, movement practice, and AI/workplace trust remain the main existing psychology-and-personal-development branches.
 
 ## Cross-source Findings
+
+### Hanji 702 First Move Discipline And Allegiance Legibility
+
+[[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]] enters the psychology-and-personal-development topic only as a historical self-command and judgment case: [[FengYiEasternHan]] turns officer fear into action through [[DecisiveTerrainPreemption]], while [[DouRongEasternHan]] uses persistent, status-aware communication under [[SecurityForAuthorityExchange]] to make allegiance legible before later ritual submission.
+
+**Evidence:** [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot]], [[FengYiEasternHan]], [[DecisiveTerrainPreemption]], [[DouRongEasternHan]], [[SecurityForAuthorityExchange]]
+
+**Qualifications:**
+
+- This is a historical military and political-psychology reading, not clinical or general personal-development advice.
+- The paragraph belongs primarily to history; the psychology assignment is limited to fear management, disciplined timing, and status-aware allegiance communication.
+- The source does not prove that speed is always superior to caution or that visible allegiance resolves every security problem.
 
 ### Hanji 705 1 Remonstrance And Authority Calibration
 

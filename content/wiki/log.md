@@ -1704,6 +1704,10 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-01] ingest | 《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？
+
+Ingested the 2026-06-17 芮淇讲透资治通鉴 episode on Feng Yi's disputed-city preemption against Wei Xiao's Wang Yuan-Xing Xun advance, Ji Zun's parallel victory, local western commandery realignment, and Dou Rong's letter-based allegiance to Liu Xiu. Added source `zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot`; created `FengYiEasternHan` and `DecisiveTerrainPreemption`; updated Dou Rong, Wei Xiao, Ji Zun, Security for Authority Exchange, overview, and index. No settled contradiction found; Wang Yuan, Xing Xun, Dou You, Xi Feng, Liu Jun, Jia Lan, target-city identification, and exact local force counts remain source-scoped.
+
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？
 
 Ingested the 2026-06-20 芮淇讲透资治通鉴 episode backfilling Jianwu 9-10 / 33-34 CE before Hanji 711. Created `KouXunEasternHan`, `GaoJunEasternHan`, `HuangfuWenEasternHan`, `MouDestructionStrike`, and `CreditBasedBanditSurrender`; updated `HostageRansomDeterrence`, `GuoJiEasternHan`, `YinLihua`, `YinXingGuangwuMaternalKin`, `OuterRelativePreventiveRestraint`, overview, and index. No settled contradiction found; transcript forms 殷心, 郭吉, 尹川, 寇勋, and 高郡 are normalized cautiously to 阴兴, 郭伋, 颍川, 寇恂, and 高峻, while Yin Lihua's killed brother, Zhao Hong, Zhao Wu, Shache succession notices, and Feng Yi's final campaign remain source-scoped.
@@ -14676,6 +14680,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] ingest | 680. The Netherlands: The Revolt that Made The Modern World (Part 4)
 
 Ingested the 2026-06-17 The Rest Is History episode on Het Wilhelmus, William of Orange, the Dutch Revolt, loyal rebellion, Brill, the Act of Abjuration, and the Dutch Republic. Added source `680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543`; created `HetWilhelmus`, `DutchRepublic`, `SeaBeggars`, `BalthazarGerard`, `LoyalRebellion`, and `PragmaticReligiousToleration`; updated Dutch Revolt, William of Orange, Low Countries, Philip II, Netherlands, Act of Abjuration, national anthem political plasticity, regime symbol continuity, The Rest Is History, overview, index, and downstream synthesis artifacts. No settled contradiction found; confessional and regional complexities of the Dutch Revolt remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] lint | Wiki health check
 

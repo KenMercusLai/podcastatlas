@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-01
-as_of_overview_commit: de472eb9aa38d4e5a79ee704385add0b9d048aa5
-input_digest: 663fe353e78ffabe4b7c8fe598e36912f9c51ccbfda7df1fbe92abac45cd87dc
+as_of_overview_commit: 834d2a7e822834e60be5e10976cb770da0124201
+input_digest: 6c4c3104c65f4db7d28223d3b4e845a3ba8eec9363c393ed1ab27aa1f897662a
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 703 backfills the pre-Hanji 704 Eastern Han western-alignment layer: Wei Xiao's camp starts breaking through Dou Rong's ignored warning, Liang Tong's public no-return break, and Ma Yuan's insider persuasion before the later apology and siege sequence. The historical and geopolitical sources trace power through logistics, alliances, legitimacy, institutions, technology ecosystems, symbolic order, and capacity limits across ancient China, early modern Europe, modern state formation, and contemporary infrastructure. The early and late Eastern Han branches repeatedly show that military success depends on timing, personnel selection, hostage and surrender credibility, frontier diplomacy, public correction, appointment quality, food, transport, local elite integration, and the ability to keep symbolic legitimacy tied to material capacity. The late-Han and Three Kingdoms branches treat title order, marriage alliance, coalition politics, base security, adviser correction, supply, local order, and delegated violence as fragile systems that can convert opportunity into exposure when feedback or restraint fails. The Elizabethan and Dutch Revolt sequence now has both an internal Low Countries origin layer and a later English intervention layer: loyal rebellion against Philip II becomes maritime revolt, abjuration, Dutch Republic formation, and symbolic memory before Antwerp and the Treaty of Nonsuch pull Elizabethan England across the threshold from cold war to open conflict. Other history-and-geopolitics claims keep contemporary digital infrastructure, AI sovereignty, technology ecosystem shifts, U.S. founding memory, civil-rights street war, environmental-health exposure, and South African reconciliation symbolics source-scoped rather than reducing them to one model of power.
+Hanji 702 now backfills the Jianwu western-consolidation layer before Hanji 703-704: Feng Yi's city-first ambush, Ji Zun's parallel victory, and Dou Rong's persistent allegiance communication show early Guangwu success turning on first-move discipline, local realignment, and legible submission. Hanji 703 then extends the western-alignment fracture through Dou Rong's ignored warning, Liang Tong's public no-return break, and Ma Yuan's insider persuasion before the later apology and siege sequence. The historical and geopolitical sources trace power through logistics, alliances, legitimacy, institutions, technology ecosystems, symbolic order, and capacity limits across ancient China, early modern Europe, modern state formation, and contemporary infrastructure. The early and late Eastern Han branches repeatedly show that military success depends on timing, personnel selection, hostage and surrender credibility, frontier diplomacy, public correction, appointment quality, food, transport, local elite integration, and the ability to keep symbolic legitimacy tied to material capacity. The late-Han and Three Kingdoms branches treat title order, marriage alliance, coalition politics, base security, adviser correction, supply, local order, and delegated violence as fragile systems that can convert opportunity into exposure when feedback or restraint fails. The Elizabethan and Dutch Revolt sequence now has both an internal Low Countries origin layer and a later English intervention layer: loyal rebellion against Philip II becomes maritime revolt, abjuration, Dutch Republic formation, and symbolic memory before Antwerp and the Treaty of Nonsuch pull Elizabethan England across the threshold from cold war to open conflict. Other history-and-geopolitics claims keep contemporary digital infrastructure, AI sovereignty, technology ecosystem shifts, U.S. founding memory, civil-rights street war, environmental-health exposure, and South African reconciliation symbolics source-scoped rather than reducing them to one model of power.
 
 ## Cross-source Findings
+
+### Early Eastern Han 702 Feng Yi Terrain Preemption And Dou Rong Allegiance
+
+[[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]] backfills the Jianwu western-consolidation layer before [[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac|Hanji 703]] and [[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|Hanji 704]]: [[FengYiEasternHan]] turns fear of [[WeiXiaoEasternHan]]'s advance into [[DecisiveTerrainPreemption]] by first occupying and concealing forces in the contested city, [[JiZunEasternHan]] adds a parallel victory line, and [[DouRongEasternHan]] uses persistent communication under [[SecurityForAuthorityExchange]] to make allegiance legible before later submission ritual.
+
+**Evidence:** [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot]], [[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac]], [[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls]], [[FengYiEasternHan]], [[WeiXiaoEasternHan]], [[DecisiveTerrainPreemption]], [[JiZunEasternHan]], [[DouRongEasternHan]], [[SecurityForAuthorityExchange]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 702 and backfills the Jianwu western-campaign layer before Hanji 703 and Hanji 704.
+- Wang Yuan, Xing Xun, Dou You, Xi Feng, Liu Jun, Jia Lan, target-city identification, and exact local force counts remain source-scoped.
+- The source supports a first-move terrain and allegiance-communication reading, not a complete reconstruction of Longyou strategy or every Guangwu western campaign route.
 
 ### Early Eastern Han 703 Western Alignment Fracture Before Weixiao Apology
 

@@ -14127,6 +14127,10 @@
     "title": "Decimus Junius Brutus / 德奇姆斯",
     "url": "/wiki/entities/decimusjuniusbrutus/"
   },
+  "DecisiveTerrainPreemption": {
+    "title": "争地抢先式决胜 / Decisive Terrain Preemption",
+    "url": "/wiki/concepts/decisiveterrainpreemption/"
+  },
   "Deckers": {
     "title": "Deckers",
     "url": "/wiki/entities/deckers/"
@@ -18694,6 +18698,10 @@
   "FengXuLateHan": {
     "title": "封谞 / Feng Xu (late Han)",
     "url": "/wiki/entities/fengxulatehan/"
+  },
+  "FengYiEasternHan": {
+    "title": "冯异 / Feng Yi (Eastern Han)",
+    "url": "/wiki/entities/fengyieasternhan/"
   },
   "FengYuxiang": {
     "title": "Feng Yuxiang / 冯玉祥",
@@ -64914,6 +64922,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot": {
+    "title": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot/"
   },
   "zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac": {
     "title": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？",

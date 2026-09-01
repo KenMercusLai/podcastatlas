@@ -9,16 +9,21 @@ sources:
   - zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi
   - zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv
   - zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac
+  - zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot
 last_updated: 2026-09-01
 ---
 
 ## Overview
 
-窦融 / Dou Rong is synthesized as an Eastern Han high-status affiliate whose current profile spans early western alignment with [[LiuXiu|光武帝刘秀]], formal submission, Hexi integration, post-unification exposure, and later patriarchal prestige under [[EmperorMingOfHan|汉明帝]]. [[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac|Hanji 703]] now supplies the earliest current layer: Dou Rong sends his brother toward Liu Xiu, warns [[WeiXiaoEasternHan|隗嚣]] not to abandon earlier loyalty, then helps coordinate western military pressure after Wei Xiao ignores him. [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|Hanji 707]] follows with formal audience ritual and the security-for-authority exchange; Hanji 714 adds Luoyang-entry ritual and Hexi personnel redistribution; Hanji 715 presents high-office anxiety and repeated resignation attempts; Hanji 736 shows how his aged prestige temporarily shields, but cannot discipline, the Dou family.
+窦融 / Dou Rong is synthesized as an Eastern Han high-status affiliate whose current profile spans lineage-backed western alignment with [[LiuXiu|光武帝刘秀]], formal submission, Hexi integration, post-unification exposure, and later patriarchal prestige under [[EmperorMingOfHan|汉明帝]]. [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]] now supplies the earliest current layer: Dou Rong uses a brother, a blocked road, and a secret messenger to make loyalty reach Liu Xiu, while the host frames his family pedigree and refusal of [[WeiXiaoEasternHan|隗嚣]] / [[GongsunShuEasternHan|公孙述]] alternatives as "standing on the right side." [[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac|Hanji 703]] then follows with warning Wei Xiao and coordinating western military pressure after Wei Xiao ignores him. [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|Hanji 707]] adds formal audience ritual and the security-for-authority exchange; Hanji 714 adds Luoyang-entry ritual and Hexi personnel redistribution; Hanji 715 presents high-office anxiety and repeated resignation attempts; Hanji 736 shows how his aged prestige temporarily shields, but cannot discipline, the Dou family.
 
 ## Current Profile
 
-Hanji 703 frames Dou Rong's earliest current role as proactive alignment before formal submission. After sending his brother toward Liu Xiu, he writes Wei Xiao to warn that reversing earlier Han loyalty would waste old merit, renew civilian suffering, and leave Wei Xiao with bad alternatives such as [[GongsunShuEasternHan|Gongsun Shu]] or [[LuFangEasternHan|Lu Fang]]. Wei Xiao ignores him, so Dou Rong and commandery governors prepare troops, report readiness, and ask Liu Xiu to attack Wei Xiao's side.
+Hanji 702 frames Dou Rong's earliest current role as letter-based allegiance before formal submission. He sends his brother Dou You toward Luoyang with a memorial to Liu Xiu. When Wei Xiao's rebellion blocks the road at Gaoping, Dou Rong uses Sima Xi Feng to carry the letter through a hidden route, and Liu Xiu sends back reassurance. The source presents the exchange as a trust-building line in a field where roads, factions, and suspicion can interrupt ordinary communication.
+
+The letter itself presents Dou Rong's allegiance as both moral and strategic. He stresses high-status family background, multi-generational officeholding, and an existing message through Liu Jun, then says he will not betray the true ruler or throw away an already viable base for hopeless gain under separatist alternatives. The host interprets this as "standing on the right side": Dou Rong's survival skill lies in reading legitimacy and trend early enough to preserve family security.
+
+Hanji 703 then shifts the same alignment from communication with Liu Xiu to pressure on Wei Xiao. Dou Rong writes Wei Xiao to warn that reversing earlier Han loyalty would waste old merit, renew civilian suffering, and leave Wei Xiao with bad alternatives such as Gongsun Shu or [[LuFangEasternHan|Lu Fang]]. Wei Xiao ignores him, so Dou Rong and commandery governors prepare troops, report readiness, and ask Liu Xiu to attack Wei Xiao's side.
 
 The same source shows Liu Xiu making that alignment visibly valuable. Liu Xiu praises Dou Rong, honors Dou Rong's father through grave-related rites, and sends rare foods. The host uses this as a lesson that talent and usable allegiance are central to accomplishing political work, so Dou Rong's current profile begins as a trusted western connector before the later ritualized submission.
 
@@ -38,16 +43,19 @@ When the wife's family reports the matter, Mingdi is angry but does not destroy 
 
 ## Key Characteristics
 
-- Western power-holder whose earliest current role shifts from warning Wei Xiao to coordinating with Liu Xiu against him.
-- Regional power-holder whose later formal submission is made visible by ritual, troops, and material scale.
-- Security-seeking affiliate willing to surrender practical authority but retained by Liu Xiu for western stabilization.
+- High-status western power-holder whose current profile begins with lineage, office pedigree, and Guanzhong identity as usable political capital.
+- Early affiliate who makes loyalty legible through persistent correspondence with Liu Xiu despite blocked roads.
+- Western power-holder whose alignment shifts from private allegiance to warning Wei Xiao and coordinating with Liu Xiu against him.
+- Regional power-holder whose ritualized submission trades practical authority for security while Liu Xiu retains him for western stabilization.
 - Hexi power-holder whose Luoyang retinue, seal submission, returned marquis honor, and new appointment turn regional power into continued integration.
 - Newly attached high official whose status above old followers creates humility and resignation anxiety that Liu Xiu refuses to let become withdrawal.
-- Confucian household instructor who wants sons to be cautious and proper rather than exceptional.
 - Aged Eastern Han Dou-family patriarch and Anfeng Dai marquis whose standing initially limits punishment of descendants.
 
 ## Evidence
 
+- Communication persistence: [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]] says Dou Rong sends Dou You toward Luoyang, then uses Xi Feng to carry the message by hidden road after Wei Xiao's rebellion blocks the main route.
+- Loyalty and alternative rejection: [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]] says Dou Rong tells Liu Xiu he will not betray the true ruler or abandon an existing base for hopeless gain under rival powers.
+- Lineage and long-run family result: [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]] frames Dou Rong through inherited official status, Guanzhong identity, later high office, death in 62 CE, and descendants' long prosperity.
 - Early warning to Wei Xiao: [[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac|Hanji 703]] says Dou Rong writes Wei Xiao after sending his brother toward Liu Xiu, warning that abandoning earlier Han loyalty would waste old merit and bring commoners renewed disaster.
 - Military coordination after ignored counsel: [[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac|Hanji 703]] says Dou Rong and commandery governors prepare troops and ask Liu Xiu to attack Wei Xiao's camp and Qiang allies.
 - Visible reward of attached talent: [[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac|Hanji 703]] says Liu Xiu praises Dou Rong, honors Dou Rong's father through grave-related rites, and sends rare foods.
@@ -61,13 +69,13 @@ When the wife's family reports the matter, Mingdi is angry but does not destroy 
 
 ## Qualifications
 
-The source transcripts contain route-sensitive name and office details, so this page normalizes 斗龙 and 斗荣 transcript forms to 窦融 / Dou Rong while preserving source-bound scope. The preserved frontmatter source order follows the page's provenance history rather than chronology. Hanji 703 gives the warning and military-alignment prelude but not Dou Rong's full family genealogy, complete Hexi command structure, or the identity and later career of the brother he sends east. Hanji 707 gives the formal submission and security-exchange frame but not a full Hexi administrative history. Hanji 714 gives the Luoyang-entry and appointment scene but not a full administrative record for the Yizhou post or every member of the five-commandery party. Hanji 715's provincial label is not treated as a durable geography claim here; the durable point is Dou Rong's new-affiliate status, high office, humility, and rejected resignation. Hanji 736 does not give a full account of Dou Rong's earlier career, his complete genealogy, or every charge against later family members.
+The source transcripts contain route-sensitive name and office details, so this page normalizes 斗龙 and 斗荣 transcript forms to 窦融 / Dou Rong while preserving source-bound scope. The preserved frontmatter source order follows the page's provenance history rather than chronology. Hanji 702 gives useful family-background and messenger detail, but Dou You, Xi Feng, Liu Jun, the exact letter wording, and the full Dou genealogy remain source-scoped. Hanji 703 gives the warning and military-alignment prelude but not Dou Rong's complete Hexi command structure. Hanji 707 gives the formal submission and security-exchange frame but not a full Hexi administrative history. Hanji 714 gives the Luoyang-entry and appointment scene but not a full administrative record for the Yizhou post or every member of the five-commandery party. Hanji 715's provincial label is not treated as a durable geography claim here; the durable point is Dou Rong's new-affiliate status, high office, humility, and rejected resignation. Hanji 736 does not give a full account of Dou Rong's earlier career, his complete genealogy, or every charge against later family members.
 
 ## What Changed
 
-- Added Hanji 703 as Dou Rong's earliest current warning and military-alignment layer before formal submission.
-- Reframed Hanji 707 as the later ritualized submission and security-for-authority exchange layer.
-- Reframed Hanji 714's Luoyang entry and Hanji 715's resignation anxiety as later repetitions of the same controlled-integration problem.
+- Added Hanji 702 as the earliest current allegiance-communication, family-pedigree, and "standing on the right side" layer.
+- Reframed Hanji 703 as the outward pressure layer after Dou Rong's Liu Xiu-facing loyalty line is already visible.
+- Preserved Hanji 707, Hanji 714, and Hanji 715 as later stages of formal submission, court integration, and overexposure management.
 - Preserved Hanji 736 as the late patriarchal protection and family-misconduct layer.
 - Kept the page distinct from later He-era Dou-family dominance.
 
