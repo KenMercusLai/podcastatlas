@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜](sources/zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu.md) — 芮淇讲透资治通鉴 episode using Jingjue popular memory to connect Han textual records, Niya archaeology, Kharosthi documents, Stein's collecting, Supi invasion pressure, and the five-star brocade setup.
 - [《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读](sources/zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq.md) — 芮淇讲透资治通鉴 episode using the Niya five-star brocade to connect ancient astronomy, auspicious omen politics, Zhao Chongguo's Southern Qiang campaign, Western Regions diplomacy, and Jingjue's later decline.
 - [《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！](sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk.md) — Jianwu 4 Guangwu episode on Tian Rong's failed surrender after Xin Chen's defection, Yan Cen's defeat and Hanzhong turn, Wu Han's Gexian pacification, Fu Zhan's campaign-priority advice, Gai Yan's failed Lanling rescue, Zhang Feng's fake-seal rebellion, Li Xian's siege, and Hou Ba's institutional reconstruction.
 - [《资治通鉴·汉纪》691丨敢夺江山的隗嚣，为何注定输给刘秀？](sources/zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8.md) — Early Guangwu backfill on Ma Yuan comparing Gongsun Shu and Liu Xiu, Wei Xiao's temporary anti-Shu cooperation, Liu Xiu's handwritten reassurance, Feng Yi's Chen Cang/Sanfu counterblow, and Wei Xiao's unstable positioning.
@@ -1861,6 +1862,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Supi Regime / 苏毗政权](entities/SupiRegime.md) — West Qiang-linked polity identified with "Surpiece" and used by Hanji 689-2 as the strongest pressure clue behind Jingjue's disappearance.
+- [Kharosthi Niya Documents / 尼雅佉卢文文书](entities/KharosthiNiyaDocuments.md) — Niya document corpus that connects Kharosthi writing, Han wooden-slip identification, Jingjue archaeology, and Supi attack evidence.
+- [Aurel Stein](entities/AurelStein.md) — Expedition collector whose Niya activity frames both discovery of Jingjue evidence and cultural-heritage loss.
 - [Five Stars Out of the East Brocade / 五星出东方织锦](entities/FiveStarsOutOfTheEastBrocade.md) — Niya brocade artifact whose five-star phrase links material archaeology, Han omen language, Zhao Chongguo's campaign frame, and Western Regions memory.
 - [Niya Site / 尼雅遗址](entities/NiyaSite.md) — Minfeng-Hotan archaeological site anchoring the brocade, Jingjue tomb context, and oasis-decline reconstruction.
 - [Jingjue Kingdom / 精绝古国](entities/JingjueKingdom.md) — Western Regions oasis polity reconstructed through Niya evidence, Han protection, regional pressure, and ecological decline.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8770
+wiki_total_pages: 8773
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1304,6 +1304,9 @@ wiki_pages:
   - key: "Superpowers"
     title: "Superpowers"
     url: "/wiki/entities/superpowers/"
+  - key: "SupiRegime"
+    title: "Supi Regime / 苏毗政权"
+    url: "/wiki/entities/supiregime/"
   - key: "SupremeCourt"
     title: "Supreme Court"
     url: "/wiki/entities/supremecourt/"

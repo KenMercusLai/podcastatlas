@@ -147,6 +147,29 @@
     },
     {
       "global_candidate": false,
+      "id": "lost-city-memory-needs-evidence-boundaries",
+      "qualifications": [
+        "This claim is secondary to the history-and-geopolitics synthesis; Hanji 689-2 is primarily an archaeological and frontier-history source.",
+        "The topic input does not supply a full reception history for Gui Chui Deng, Xuanzang, or Journey to the West, so the cultural-memory reading stays bounded to the Jingjue/Niya thread.",
+        "The current source notes differ between \"利中国\" and \"立中国\" for the brocade phrase, so the exact character remains unresolved here.",
+        "The Supi/Surpiece identification and Eastern Women's Kingdom connection remain source-scoped rather than settled historical consensus."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu|Hanji 689-2]] adds a culture-adjacent boundary case for [[FictionAsHistoricalEvidence]]: [[JingjueKingdom]] and [[NiyaSite]] can enter through popular lost-city fascination and the later [[FiveStarsOutOfTheEastBrocade]] handoff, but the durable reading depends on [[KharosthiNiyaDocuments]], [[AurelStein]]'s discovery-loss frame, qualified [[SupiRegime]] pressure, and visible source-note discrepancies rather than legend alone.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu",
+        "zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq",
+        "FictionAsHistoricalEvidence",
+        "JingjueKingdom",
+        "NiyaSite",
+        "FiveStarsOutOfTheEastBrocade",
+        "KharosthiNiyaDocuments",
+        "AurelStein",
+        "SupiRegime"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "brand-can-operate-as-cultural-identity-system",
       "qualifications": [
         "The claim is grounded in a business interview rather than a cultural-history source, so it connects brand to identity without reducing literature, folklore, games, or media to marketing.",
@@ -357,7 +380,7 @@
       ]
     }
   ],
-  "input_digest": "ad32935b7325f4f6221c7962d80f34aaa9f2ee949c8c012aeeef87ba5fe77992",
-  "summary": "The latest VOL.208 source adds a podcast-listening health boundary to culture-and-media: recorded audio, editing, and headphone habits are treated as media practice shaped by devices, volume, duration, noise, and warning symptoms rather than neutral consumption. The cultural sources use literature, ritual legitimacy, folklore, games, physical media, platform interfaces, podcasts, brands, creative practice, clinical-audio boundary work, classical epic, AI entertainment, and cultural reception to examine identity, evidence, agency, attention, embodied practice, and human meaning rather than treating culture only as plot or entertainment. The Intelligence Hollywood episode adds that generative AI enters media culture through workflow legitimacy, rights, disclosure, quality, and labor constraints rather than full star replacement; its French line-dancing segment separately shows American mass culture becoming local social infrastructure. [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds listening bars as a Japanese high-fidelity music format becoming curated social ritual abroad. Hanji 729 is culture-adjacent rather than primarily cultural: Taishan fengshan and Ban Biao wording show ritual form, historical precedent, and learned political language carrying legitimacy judgments inside a history podcast. The Odyssey branch pairs first-half wandering with second-half homecoming, while the Dutch anthem branch shows Het Wilhelmus preserving loyal-rebellion contradiction as cultural memory for the Dutch Republic origin story. Other branches keep source-bound attribution, rule-world folklore, weird fiction, AI interactive entertainment, platform-shaped reading and listening, device culture, brand meaning, music therapy, practice philosophy, and the Planet Money 9 to 5 culture-to-labor case distinct from nostalgia, marketing, mysticism, wellness hype, or pure technical capability.",
+  "input_digest": "ff533c472fc2fd250b6881d9abb81250b975419b86ea191142dce93a89939ebe",
+  "summary": "Hanji 689-2 adds a culture-adjacent lost-city memory boundary: popular fascination with Jingjue and the later five-star brocade handoff are useful entry points only when anchored in Niya ruins, documents, qualified Supi evidence, and visible source-note wording discrepancies rather than legend alone. The latest VOL.208 source adds a podcast-listening health boundary to culture-and-media: recorded audio, editing, and headphone habits are treated as media practice shaped by devices, volume, duration, noise, and warning symptoms rather than neutral consumption. The cultural sources use literature, ritual legitimacy, folklore, games, physical media, platform interfaces, podcasts, brands, creative practice, clinical-audio boundary work, classical epic, AI entertainment, and cultural reception to examine identity, evidence, agency, attention, embodied practice, and human meaning rather than treating culture only as plot or entertainment. The Intelligence Hollywood episode adds that generative AI enters media culture through workflow legitimacy, rights, disclosure, quality, and labor constraints rather than full star replacement; its French line-dancing segment separately shows American mass culture becoming local social infrastructure. [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds listening bars as a Japanese high-fidelity music format becoming curated social ritual abroad. Hanji 729 is culture-adjacent rather than primarily cultural: Taishan fengshan and Ban Biao wording show ritual form, historical precedent, and learned political language carrying legitimacy judgments inside a history podcast. The Odyssey branch pairs first-half wandering with second-half homecoming, while the Dutch anthem branch shows Het Wilhelmus preserving loyal-rebellion contradiction as cultural memory for the Dutch Republic origin story. Other branches keep source-bound attribution, rule-world folklore, weird fiction, AI interactive entertainment, platform-shaped reading and listening, device culture, brand meaning, music therapy, practice philosophy, and the Planet Money 9 to 5 culture-to-labor case distinct from nostalgia, marketing, mysticism, wellness hype, or pure technical capability.",
   "topic_id": "culture-and-media"
 }

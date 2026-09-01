@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1559
+topic_total_pages: 1562
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1442,6 +1442,9 @@ topic_entities:
   - key: "ArthurBurns"
     title: "Arthur Burns"
     url: "/wiki/entities/arthurburns/"
+  - key: "AurelStein"
+    title: "Aurel Stein"
+    url: "/wiki/entities/aurelstein/"
   - key: "Austria"
     title: "Austria"
     url: "/wiki/entities/austria/"
@@ -1568,6 +1571,9 @@ topic_entities:
   - key: "JiujiangChuHan"
     title: "Jiujiang Kingdom / 九江国"
     url: "/wiki/entities/jiujiangchuhan/"
+  - key: "KharosthiNiyaDocuments"
+    title: "Kharosthi Niya Documents / 尼雅佉卢文文书"
+    url: "/wiki/entities/kharosthiniyadocuments/"
   - key: "KhmerEmpire"
     title: "Khmer Empire / 吴哥王朝"
     url: "/wiki/entities/khmerempire/"
@@ -4428,6 +4434,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu"
+    title: "《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜"
+    url: "/wiki/sources/zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu/"
   - key: "zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq"
     title: "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读"
     url: "/wiki/sources/zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq/"

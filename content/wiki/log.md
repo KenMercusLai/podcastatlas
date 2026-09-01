@@ -14784,6 +14784,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-02] ingest | 《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜
+
+Ingested the 2026-06-15 芮淇讲透资治通鉴 episode on Jingjue's historical reality, Niya ruins, Kharosthi and Han document evidence, Stein's collecting, Supi pressure, Eastern Women's Kingdom memory, and the setup for the five-star brocade. Added source `zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu`; created `SupiRegime`, `KharosthiNiyaDocuments`, and `AurelStein`; updated `JingjueKingdom`, `NiyaSite`, `FiveStarsOutOfTheEastBrocade`, `index`, and `overview`. A source-note discrepancy was recorded between 689-2's "五星出东方利中国" and 689-3's "五星出东方，立中国"; no settled contradiction was found on Jingjue's disappearance, where the new source narrows emphasis toward Supi attack pressure while preserving the broader multi-cause model from Hanji 689-3.
+
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读
 
 Ingested the 2026-06-15 芮淇讲透资治通鉴 episode on the Niya five-star brocade, ancient astronomy, auspicious omen politics, Zhao Chongguo's Southern Qiang campaign, Han Western Regions authority, and Jingjue's later decline. Added source `zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq`; created `FiveStarsOutOfTheEastBrocade`, `NiyaSite`, `JingjueKingdom`, `WesternRegionsProtectorate`, `ZhaoChongguoWesternHan`, and `EmperorXuanOfHan`; updated `AuspiciousOmenPolitics`, `ChineseAstrologicalPolitics`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the brocade gift/warning interpretation, right-arm armguard explanation, 2040-09-09 comparison, and exact Jingjue decline causality remain source-scoped.
@@ -14839,6 +14843,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] ingest | The Mountains Choose You: Araceli Segarra on Adventure & Resilience | Shekhar Natarajan
 
 Ingested the 2026-09-01 Tomorrow Today episode with Araceli Segarra on Everest, the 1996 IMAX expedition, fear, uncertainty, team trust, rescue, resilience, and AI-era judgment. Added source `default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757`; created `AraceliSegarra`, `DavidBreshears`, `BeckWeathers`, `ColonelMadanEverestPilot`, `EverestIMAXExpedition`, `SummitAsTransformation`, `AdventureUncertaintyReframing`, `ExpeditionTeamTrust`, and `AIHowHumanWhyBoundary`; updated `ShekharNatarajan`, `TomorrowToday`, `ExtremeEnvironmentRiskManagement`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Aracely Sagara/Aracely is normalized to Araceli Segarra, while exact rescue chronology, Colonel Madan's full identity, David Breshears details, and full climbing biography remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 

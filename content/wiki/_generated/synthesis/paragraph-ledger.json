@@ -496,12 +496,13 @@
       "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3",
       "5ba1c7a478b342521c54a704f3662e19b3e2e992a9e88c2a01eb72bc8c596387",
       "9d36904e555be9bd3a64051aec40ec50d074a0fe33f5d94a41cd1392f151a764",
-      "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60"
+      "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
+      "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 496
+    "paragraph_count": 497
   },
-  "overview_commit": "0b26a0ad029c57e4b1bc1b5d69a4bada8ab92bcd",
-  "overview_digest": "0eb53ebb7f6aef6eb3dfecbf802c2471426dea62898eab6df46fa1fd2d8f6d33",
+  "overview_commit": "d2474d21efd0cffa093ad79e97f3fad0414241ca",
+  "overview_digest": "47315874584cecd23743a1890a33a1b85c0dc7547248f352c1e96dcbd9e0be37",
   "paragraphs": [
     {
       "id": "d628002add96e4192a2e2c689b34aa3c188be0d165b8b53afe77e8f1533974b6",
@@ -15195,6 +15196,29 @@
         "TeamAgentMemory",
         "XiaoA",
         "ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252"
+      ]
+    },
+    {
+      "id": "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "culture-and-media"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu|《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that backfills the [[JingjueKingdom|精绝古国]] and [[NiyaSite|尼雅遗址]] evidence layer before [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]]. It adds [[SupiRegime|苏毗政权]], [[KharosthiNiyaDocuments|尼雅佉卢文文书]], and [[AurelStein|Aurel Stein]], while extending [[JingjueKingdom]], [[NiyaSite]], and [[FiveStarsOutOfTheEastBrocade]]. Its core synthesis is that Jingjue's reality is anchored by Han textual scale, Niya ruins, Kharosthi documents, and Han wooden-slip identification, while its disappearance is better treated as a qualified multi-cause problem: Hanji 689-2 foregrounds Supi attack pressure over a simple deforestation-water-collapse story, and Hanji 689-3 preserves lost Han protection, regional pressure, and ecological stress. A source-note discrepancy is recorded because Hanji 689-2 gives the brocade phrase as \"五星出东方利中国\" while the existing Hanji 689-3 note uses \"五星出东方，立中国\"; the Supi explanation, Surpiece identification, Eastern Women's Kingdom link, and literary-memory bridge remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AurelStein",
+        "FiveStarsOutOfTheEastBrocade",
+        "JingjueKingdom",
+        "KharosthiNiyaDocuments",
+        "NiyaSite",
+        "RuiqiJiangtouZizhiTongjian",
+        "SupiRegime",
+        "zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu",
+        "zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq"
       ]
     }
   ],

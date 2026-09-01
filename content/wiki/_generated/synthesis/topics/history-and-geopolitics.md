@@ -4,29 +4,30 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-02
-as_of_overview_commit: 0b26a0ad029c57e4b1bc1b5d69a4bada8ab92bcd
-input_digest: 4ba646050f4770b812e1e56dae5a63d69c221baa57b35fa086769257f29e7245
+as_of_overview_commit: d2474d21efd0cffa093ad79e97f3fad0414241ca
+input_digest: 34fe6b9ed2497f20d441c8130658fa35b114ff33158632015f33091c5f60640e
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 689-3 now adds a Western Han/Niya artifact layer: the five-star brocade links Chinese astrological politics, auspicious omen language, Zhao Chongguo's Southern Qiang campaign, Western Regions diplomacy, and Jingjue's later decline while keeping gift/warning and armguard-function readings source-scoped. The broader history branch continues to read power through legitimacy, institutions, logistics, alliances, frontier capacity, appointment quality, surrender credibility, and symbolic order.
+Hanji 689-2 and Hanji 689-3 now form a Western Han/Niya-Jingjue evidence layer: 689-2 anchors Jingjue in Han scale figures, Niya ruins, Kharosthi and Han documents, Stein's discovery-loss frame, qualified Supi pressure, and a brocade-phrase discrepancy against 689-3; 689-3 follows with the five-star brocade, omen politics, Zhao Chongguo campaign reading, Western Regions diplomacy, and multi-cause decline. The broader history branch continues to read power through legitimacy, institutions, logistics, alliances, frontier capacity, appointment quality, surrender credibility, and symbolic order.
 
 ## Cross-source Findings
 
 ### Western Han 689 Three Five Star Brocade Frontier Omen Politics
 
-[[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] uses the [[FiveStarsOutOfTheEastBrocade]] from [[NiyaSite]] to connect [[ChineseAstrologicalPolitics]], [[AuspiciousOmenPolitics]], and Western Han frontier history: the reported phrase and "讨南羌" fragment are read through [[EmperorXuanOfHan]]'s omen formula and [[ZhaoChongguoWesternHan]]'s campaign against a Qiang-Xiongnu threat to Western Regions routes, while [[JingjueKingdom]] and the [[WesternRegionsProtectorate]] show how victory language could become diplomatic warning, gift, and later memory under capacity-bound frontier conditions.
+[[zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu|Hanji 689-2]] and [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] together create the current Western Han/Niya-Jingjue layer: 689-2 uses [[KharosthiNiyaDocuments]], [[AurelStein]], Han wooden-slip identification, and [[SupiRegime]] attack evidence to anchor [[JingjueKingdom]] at [[NiyaSite]], while 689-3 uses [[FiveStarsOutOfTheEastBrocade]] to connect [[ChineseAstrologicalPolitics]], [[AuspiciousOmenPolitics]], [[EmperorXuanOfHan]], [[ZhaoChongguoWesternHan]], and [[WesternRegionsProtectorate]] diplomacy under capacity-bound frontier conditions.
 
-**Evidence:** [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq]], [[FiveStarsOutOfTheEastBrocade]], [[NiyaSite]], [[ChineseAstrologicalPolitics]], [[AuspiciousOmenPolitics]], [[EmperorXuanOfHan]], [[ZhaoChongguoWesternHan]], [[JingjueKingdom]], [[WesternRegionsProtectorate]], [[Xiongnu]], [[ShanshanKingdomLateHan]], [[ShacheKingdomLateHan]], [[KhotanKingdomLateHan]], [[LiuXiu]], [[WangMang]], [[CapacityBoundFrontierCommitment]]
+**Evidence:** [[zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu]], [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq]], [[JingjueKingdom]], [[NiyaSite]], [[KharosthiNiyaDocuments]], [[AurelStein]], [[SupiRegime]], [[FiveStarsOutOfTheEastBrocade]], [[ChineseAstrologicalPolitics]], [[AuspiciousOmenPolitics]], [[EmperorXuanOfHan]], [[ZhaoChongguoWesternHan]], [[WesternRegionsProtectorate]], [[Xiongnu]], [[ShanshanKingdomLateHan]], [[ShacheKingdomLateHan]], [[KhotanKingdomLateHan]], [[LiuXiu]], [[WangMang]], [[CapacityBoundFrontierCommitment]], [[RuiqiJiangtouZizhiTongjian]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 689-3 and relies on the episode's reading of the Niya brocade, not independent proof of its production, recipient, or circulation.
-- The gift or warning purpose, right-arm armguard explanation, and 2040-09-09 five-planet comparison remain bounded interpretations.
-- The Jingjue decline branch is multi-causal: loss of Han protection, regional annexation pressure, ecological drying, and long-term invasion pressure all remain in view.
+- Hanji 689-2 raises Supi invasion pressure above a simple deforestation or water-collapse story, but the Surpiece-to-Supi identification and final disappearance pathway remain source-scoped.
+- The current source notes differ between "利中国" and "立中国" for the brocade phrase, so the exact character remains unresolved here.
+- Hanji 689-3's gift-or-warning purpose, right-arm armguard explanation, and 2040-09-09 five-planet comparison remain bounded interpretations.
+- The combined Jingjue decline branch remains multi-causal: lost Han protection, regional annexation pressure, ecological drying, and long-term invasion pressure all remain in view.
 
 ### Early Eastern Han 691 Weixiao Ma Yuan Ruler Comparison
 

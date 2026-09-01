@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 8770
+wiki_total_pages: 8773
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "KhanAcademy"
     title: "Khan Academy"
     url: "/wiki/entities/khanacademy/"
+  - key: "KharosthiNiyaDocuments"
+    title: "Kharosthi Niya Documents / 尼雅佉卢文文书"
+    url: "/wiki/entities/kharosthiniyadocuments/"
   - key: "Khartoum"
     title: "Khartoum"
     url: "/wiki/entities/khartoum/"

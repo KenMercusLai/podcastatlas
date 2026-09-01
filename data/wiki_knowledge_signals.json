@@ -3891,6 +3891,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/attilathehun/"
     },
+    "AurelStein": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜 [loZnfitFV-dwsbgeLk2WMdNK-kvu].md",
+          "key": "zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/aurelstein/"
+    },
     "AuspiciousOmenPolitics": {
       "episode_count": 10,
       "show_count": 2,
@@ -17827,9 +17843,9 @@
       "url": "/wiki/entities/fivemarquiseshuanera/"
     },
     "FiveStarsOutOfTheEastBrocade": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -17837,6 +17853,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读",
           "url": "/wiki/sources/zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜 [loZnfitFV-dwsbgeLk2WMdNK-kvu].md",
+          "key": "zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu/"
         }
       ],
       "updated": "2026-09-02",
@@ -26432,9 +26455,9 @@
       "url": "/wiki/entities/jingyilatehan/"
     },
     "JingjueKingdom": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -26442,6 +26465,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读",
           "url": "/wiki/sources/zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜 [loZnfitFV-dwsbgeLk2WMdNK-kvu].md",
+          "key": "zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu/"
         }
       ],
       "updated": "2026-09-02",
@@ -27008,6 +27038,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/keypersoninsurance/"
+    },
+    "KharosthiNiyaDocuments": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜 [loZnfitFV-dwsbgeLk2WMdNK-kvu].md",
+          "key": "zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/kharosthiniyadocuments/"
     },
     "KhotanKingGuangdeLateHan": {
       "episode_count": 3,
@@ -35715,9 +35761,9 @@
       "url": "/wiki/entities/nixie/"
     },
     "NiyaSite": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -35725,6 +35771,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读",
           "url": "/wiki/sources/zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜 [loZnfitFV-dwsbgeLk2WMdNK-kvu].md",
+          "key": "zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu/"
         }
       ],
       "updated": "2026-09-02",
@@ -46666,6 +46719,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/supervisedfinetuning/"
+    },
+    "SupiRegime": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜 [loZnfitFV-dwsbgeLk2WMdNK-kvu].md",
+          "key": "zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/supiregime/"
     },
     "SupplyDepotDecisiveStrike": {
       "episode_count": 2,
