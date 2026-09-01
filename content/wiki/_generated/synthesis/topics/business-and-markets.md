@@ -4,15 +4,15 @@ generated: true
 topic_id: business-and-markets
 title: "Business and Markets"
 last_updated: 2026-09-01
-as_of_overview_commit: 9ad6c6944ae9345daf9f37d0d10b89d09d1b0c11
-input_digest: 1bf2f2bf749740fce8456609b4f61519ed35cc2db3c02139a68ab814c0ec65c1
+as_of_overview_commit: 496996d4013e583ed19834b0095cb9b8b7b92ca0
+input_digest: 899e690d235cc3b1b0e722a075c10856b1eb9586a2a44b219a5863c68e8ecc6f
 ---
 
 # Business and Markets
 
 ## Current State
 
-Zou Peixuan's Mianji episode adds a valuation-narrative branch: DCF, terminal value, reverse pricing, and A-share short-sale/liquidity constraints make equity stories useful only when assumptions are falsifiable and priced. The AHA Creator/FengTouQuan episode adds overseas creator marketing as paid-traffic arbitrage weakens, and the broader business-market corpus keeps showing that value survives only when demand, trust, distribution, payment proof, operating capacity, and risk discipline are visible.
+The latest Shengdong Zaokafei roundup adds a mature-category branch: EVs, outdoor gear, appliances, Bilibili ads, Miniso IP retail, dairy, payments, and GLP-1 drugs all seek growth through overseas buffers, local credibility, trusted monetization, higher-value occasions, or regulatory format shifts rather than simple volume. The broader business-market corpus still shows the same test across valuation, SaaS, creator marketing, retail, finance, and AI infrastructure: value survives only when demand, trust, distribution, payment proof, operating capacity, and risk discipline are visible.
 
 ## Cross-source Findings
 
@@ -533,6 +533,18 @@ AI-market confidence spans [[Meta]] settlement exposure and teen-safety defaults
 
 - The probabilities and market levels are June 29, 2026 source-dated snapshots rather than current forecasts or trading advice.
 - The source's business-and-markets relevance is event-market information quality, not a recommendation to trade election contracts.
+
+### Mature Category Growth Needs Localization Credibility And Premium Occasions
+
+[[kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081|凯乐石在欧洲开店，广告首次成为 B 站第一大业务]] adds that mature-category growth is shifting from volume expansion toward localization, credibility, and higher-value occasions: [[BYD]], [[MideaGroup]], [[ChineseHardwareGlobalization]], and [[GlobalProductLocalization]] use overseas markets as buffers; [[Kailas|凯乐石]] and [[Fuga]] seek [[PerformanceFootwearMarket]] credibility abroad; [[Bilibili|B站]] turns [[CreatorTrustAdvertising]] into [[PlatformAdvertisingMonetization]]; [[Miniso|名创优品]] links [[InterestConsumptionRetail]] with [[ExperientialRetail]]; [[Mengniu|蒙牛]] uses [[DairyCategoryPremiumization]], while [[NovoNordisk]], [[EliLilly]], [[GLP1Agonists]], and [[PayPal]] keep regulatory and payment-platform pressure visible.
+
+**Evidence:** [[kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081]], [[ShengdongZaokafei]], [[BYD]], [[MideaGroup]], [[ChineseHardwareGlobalization]], [[GlobalProductLocalization]], [[Kailas]], [[Fuga]], [[PerformanceFootwearMarket]], [[Bilibili]], [[CreatorTrustAdvertising]], [[PlatformAdvertisingMonetization]], [[Miniso]], [[InterestConsumptionRetail]], [[ExperientialRetail]], [[Mengniu]], [[DairyCategoryPremiumization]], [[NovoNordisk]], [[EliLilly]], [[GLP1Agonists]], [[PayPal]]
+
+**Qualifications:**
+
+- Financial figures, approval timing, buyer talks, store-space estimates, and management forecasts remain source-scoped to the Shengdong Zaokafei roundup.
+- The source connects airlines, EVs, GLP-1 drugs, outdoor gear, home appliances, payments, platform ads, IP retail, and dairy through mature-category pressure; it does not imply those sectors share the same demand curve or margin structure.
+- Overseas expansion, ad mix improvement, IP-heavy retail experience, and category premiumization are treated as growth hypotheses until repeat purchasing, unit economics, regulatory approval, and channel durability are visible.
 
 ### Creator Marketing Needs Ai Scale And Brand Trust
 

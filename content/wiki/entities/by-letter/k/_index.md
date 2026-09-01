@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 8700
+wiki_total_pages: 8703
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "KaidenBooth"
     title: "Kaiden Booth"
     url: "/wiki/entities/kaidenbooth/"
+  - key: "Kailas"
+    title: "Kailas / 凯乐石"
+    url: "/wiki/entities/kailas/"
   - key: "KaimingHe"
     title: "Kaiming He"
     url: "/wiki/entities/kaiminghe/"

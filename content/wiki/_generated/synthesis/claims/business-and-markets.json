@@ -1177,6 +1177,40 @@
     },
     {
       "global_candidate": true,
+      "id": "mature-category-growth-needs-localization-credibility-and-premium-occasions",
+      "qualifications": [
+        "Financial figures, approval timing, buyer talks, store-space estimates, and management forecasts remain source-scoped to the Shengdong Zaokafei roundup.",
+        "The source connects airlines, EVs, GLP-1 drugs, outdoor gear, home appliances, payments, platform ads, IP retail, and dairy through mature-category pressure; it does not imply those sectors share the same demand curve or margin structure.",
+        "Overseas expansion, ad mix improvement, IP-heavy retail experience, and category premiumization are treated as growth hypotheses until repeat purchasing, unit economics, regulatory approval, and channel durability are visible."
+      ],
+      "statement": "[[kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081|凯乐石在欧洲开店，广告首次成为 B 站第一大业务]] adds that mature-category growth is shifting from volume expansion toward localization, credibility, and higher-value occasions: [[BYD]], [[MideaGroup]], [[ChineseHardwareGlobalization]], and [[GlobalProductLocalization]] use overseas markets as buffers; [[Kailas|凯乐石]] and [[Fuga]] seek [[PerformanceFootwearMarket]] credibility abroad; [[Bilibili|B站]] turns [[CreatorTrustAdvertising]] into [[PlatformAdvertisingMonetization]]; [[Miniso|名创优品]] links [[InterestConsumptionRetail]] with [[ExperientialRetail]]; [[Mengniu|蒙牛]] uses [[DairyCategoryPremiumization]], while [[NovoNordisk]], [[EliLilly]], [[GLP1Agonists]], and [[PayPal]] keep regulatory and payment-platform pressure visible.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081",
+        "ShengdongZaokafei",
+        "BYD",
+        "MideaGroup",
+        "ChineseHardwareGlobalization",
+        "GlobalProductLocalization",
+        "Kailas",
+        "Fuga",
+        "PerformanceFootwearMarket",
+        "Bilibili",
+        "CreatorTrustAdvertising",
+        "PlatformAdvertisingMonetization",
+        "Miniso",
+        "InterestConsumptionRetail",
+        "ExperientialRetail",
+        "Mengniu",
+        "DairyCategoryPremiumization",
+        "NovoNordisk",
+        "EliLilly",
+        "GLP1Agonists",
+        "PayPal"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "creator-marketing-needs-ai-scale-and-brand-trust",
       "qualifications": [
         "AHA Creator customer counts, creator counts, CPC/ROI examples, anti-fraud rates, and order-fill timelines are founder-reported in a promotional podcast context rather than independently audited benchmarks.",
@@ -1206,6 +1240,6 @@
       ]
     }
   ],
-  "summary": "Zou Peixuan's Mianji episode adds a valuation-narrative branch: DCF, terminal value, reverse pricing, and A-share short-sale/liquidity constraints make equity stories useful only when assumptions are falsifiable and priced. The AHA Creator/FengTouQuan episode adds overseas creator marketing as paid-traffic arbitrage weakens, and the broader business-market corpus keeps showing that value survives only when demand, trust, distribution, payment proof, operating capacity, and risk discipline are visible.",
+  "summary": "The latest Shengdong Zaokafei roundup adds a mature-category branch: EVs, outdoor gear, appliances, Bilibili ads, Miniso IP retail, dairy, payments, and GLP-1 drugs all seek growth through overseas buffers, local credibility, trusted monetization, higher-value occasions, or regulatory format shifts rather than simple volume. The broader business-market corpus still shows the same test across valuation, SaaS, creator marketing, retail, finance, and AI infrastructure: value survives only when demand, trust, distribution, payment proof, operating capacity, and risk discipline are visible.",
   "topic_id": "business-and-markets"
 }

@@ -4529,6 +4529,29 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/bianquhydraulicgovernance/"
     },
+    "Bilibili": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 ｜ 中国互联网故事 26 [1005977305].md",
+          "key": "no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 | 中国互联网故事 26",
+          "url": "/wiki/sources/no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305/"
+        },
+        {
+          "episode_file": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务 [1010144081].md",
+          "key": "kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081",
+          "show": "声动早咖啡",
+          "title": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务",
+          "url": "/wiki/sources/kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/bilibili/"
+    },
     "Binance": {
       "episode_count": 1,
       "show_count": 1,
@@ -9123,6 +9146,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/creatorgiftingdemandmanufacture/"
     },
+    "CreatorTrustAdvertising": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 ｜ 中国互联网故事 26 [1005977305].md",
+          "key": "no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 | 中国互联网故事 26",
+          "url": "/wiki/sources/no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305/"
+        },
+        {
+          "episode_file": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务 [1010144081].md",
+          "key": "kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081",
+          "show": "声动早咖啡",
+          "title": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务",
+          "url": "/wiki/sources/kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/creatortrustadvertising/"
+    },
     "CreditBasedBanditSurrender": {
       "episode_count": 1,
       "show_count": 1,
@@ -9555,6 +9601,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/dailianglatehan/"
+    },
+    "DairyCategoryPremiumization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务 [1010144081].md",
+          "key": "kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081",
+          "show": "声动早咖啡",
+          "title": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务",
+          "url": "/wiki/sources/kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/dairycategorypremiumization/"
     },
     "DanPashman": {
       "episode_count": 1,
@@ -17507,6 +17569,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/fuzhilatehan/"
     },
+    "Fuga": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务 [1010144081].md",
+          "key": "kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081",
+          "show": "声动早咖啡",
+          "title": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务",
+          "url": "/wiki/sources/kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/fuga/"
+    },
     "FugitiveShelterCollateralRisk": {
       "episode_count": 3,
       "show_count": 1,
@@ -22953,6 +23031,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/interpath001/"
     },
+    "InterestConsumptionRetail": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务 [1010144081].md",
+          "key": "kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081",
+          "show": "声动早咖啡",
+          "title": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务",
+          "url": "/wiki/sources/kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/interestconsumptionretail/"
+    },
     "IntermediaryRouteGatekeeping": {
       "episode_count": 1,
       "show_count": 1,
@@ -24496,6 +24590,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/jumikingdomlatehan/"
+    },
+    "Kailas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务 [1010144081].md",
+          "key": "kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081",
+          "show": "声动早咖啡",
+          "title": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务",
+          "url": "/wiki/sources/kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/kailas/"
     },
     "KaiserWilhelmII": {
       "episode_count": 2,
@@ -31641,6 +31751,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/mindbodyunion/"
     },
+    "Miniso": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务 [1010144081].md",
+          "key": "kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081",
+          "show": "声动早咖啡",
+          "title": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务",
+          "url": "/wiki/sources/kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/miniso/"
+    },
     "MinisterialDignityProtection": {
       "episode_count": 1,
       "show_count": 1,
@@ -35511,6 +35637,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/plantvarietyintellectualproperty/"
+    },
+    "PlatformAdvertisingMonetization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务 [1010144081].md",
+          "key": "kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081",
+          "show": "声动早咖啡",
+          "title": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务",
+          "url": "/wiki/sources/kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/platformadvertisingmonetization/"
     },
     "PlatformAgeEstimation": {
       "episode_count": 3,

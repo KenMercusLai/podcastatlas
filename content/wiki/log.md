@@ -14571,3 +14571,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 凯乐石在欧洲开店，广告首次成为 B 站第一大业务
+
+Ingested the 2026-09-01 声动早咖啡 business-news roundup on Chinese airline fuel and international-route pressure, BYD overseas sales, oral GLP-1 competition in China, Kailas/Fuga European trail-running entry, Midea overseas appliance revenue, PayPal buyer talks, Bilibili advertising becoming its largest segment, Miniso large IP-heavy stores, and Mengniu-led dairy recovery. Created `Kailas`, `Fuga`, `Miniso`, `PlatformAdvertisingMonetization`, `InterestConsumptionRetail`, and `DairyCategoryPremiumization`; migrated and updated `Bilibili` and `CreatorTrustAdvertising`; updated index, overview, and downstream synthesis artifacts. No settled contradiction found; financial figures, approval timing, buyer talks, store-space estimates, and management forecasts remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

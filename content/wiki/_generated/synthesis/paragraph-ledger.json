@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8881e191f20a7a53a1808c3ab8d85c3be4989ad7dd0e5766dc92231d5172c9d1",
       "a3f502dc612a49c24ea3ef01dcf62010e596307ee67761c90d6a6f4ce35a45ca",
       "f07191b9a08bddf99d02abceb078b22fd7fe7ffd031a2ce8c8c4ddb6102b8d32",
       "cd564f865174393895462c0ee634fb249925bb7b1df949089a1cfe256936399e",
@@ -466,11 +467,47 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 464
+    "paragraph_count": 465
   },
-  "overview_commit": "dac1545e26840706778f5116f53b30362baa0f81",
-  "overview_digest": "04ff757de696595e8656f5204298d179144ac80e2ce5b3df9bd5e3b57f5e0d5a",
+  "overview_commit": "496996d4013e583ed19834b0095cb9b8b7b92ca0",
+  "overview_digest": "b1bb403b4cbb68d82e55e07ee522541082e21958c544e01a67f8750ea021670a",
   "paragraphs": [
+    {
+      "id": "8881e191f20a7a53a1808c3ab8d85c3be4989ad7dd0e5766dc92231d5172c9d1",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081|凯乐石在欧洲开店，广告首次成为 B 站第一大业务]], a [[ShengdongZaokafei|声动早咖啡]] business-news roundup on domestic demand pressure, overseas buffers, advertising monetization, IP retail, and dairy recovery. It adds [[Kailas|凯乐石]], [[Fuga]], [[Miniso|名创优品]], [[PlatformAdvertisingMonetization]], [[InterestConsumptionRetail]], and [[DairyCategoryPremiumization]], while extending [[BYD]], [[Bilibili|B站]], [[CreatorTrustAdvertising]], [[NovoNordisk]], [[EliLilly]], [[GLP1Agonists]], [[MideaGroup|Midea]], [[PayPal]], [[Mengniu|蒙牛]], [[ChineseHardwareGlobalization]], [[GlobalProductLocalization]], [[PerformanceFootwearMarket]], [[ExperientialRetail]], and [[EfficiencyOverScaleExpansion]]. Its core synthesis is that pressured mature categories are searching for growth through localized overseas entry, higher-quality ad demand, professional-sport credibility, IP-heavy store experience, and higher-value food occasions rather than simple volume expansion. No settled contradiction is recorded; financial figures, approval timing, buyer talks, store-space estimates, and management forecasts remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 5,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BYD",
+        "Bilibili",
+        "ChineseHardwareGlobalization",
+        "CreatorTrustAdvertising",
+        "DairyCategoryPremiumization",
+        "EfficiencyOverScaleExpansion",
+        "EliLilly",
+        "ExperientialRetail",
+        "Fuga",
+        "GLP1Agonists",
+        "GlobalProductLocalization",
+        "InterestConsumptionRetail",
+        "Kailas",
+        "Mengniu",
+        "MideaGroup",
+        "Miniso",
+        "NovoNordisk",
+        "PayPal",
+        "PerformanceFootwearMarket",
+        "PlatformAdvertisingMonetization",
+        "ShengdongZaokafei",
+        "kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081"
+      ]
+    },
     {
       "id": "a3f502dc612a49c24ea3ef01dcf62010e596307ee67761c90d6a6f4ce35a45ca",
       "primary_topic": "governance-and-institutions",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8700
+wiki_total_pages: 8703
 wiki_pages:
   - key: "FortyThreeTalks"
     title: "43talks"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "FufengGroup"
     title: "Fufeng Group / 富丰集团"
     url: "/wiki/entities/fufenggroup/"
+  - key: "Fuga"
+    title: "Fuga"
+    url: "/wiki/entities/fuga/"
   - key: "Fujian"
     title: "Fujian / 福建"
     url: "/wiki/entities/fujian/"

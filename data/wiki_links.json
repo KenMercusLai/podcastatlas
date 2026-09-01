@@ -13411,6 +13411,10 @@
     "title": "Daily Mail",
     "url": "/wiki/entities/dailymail/"
   },
+  "DairyCategoryPremiumization": {
+    "title": "Dairy Category Premiumization / 乳制品品类升级",
+    "url": "/wiki/concepts/dairycategorypremiumization/"
+  },
   "DairyFarmInternational": {
     "title": "Dairy Farm International / 牛奶公司 / DFI",
     "url": "/wiki/entities/dairyfarminternational/"
@@ -20319,6 +20323,10 @@
     "title": "黻服 / Fu Robe",
     "url": "/wiki/entities/fufurobe/"
   },
+  "Fuga": {
+    "title": "Fuga",
+    "url": "/wiki/entities/fuga/"
+  },
   "FugitiveShelterCollateralRisk": {
     "title": "Fugitive Shelter Collateral Risk / 收留逃亡者的牵连风险",
     "url": "/wiki/concepts/fugitivesheltercollateralrisk/"
@@ -26151,6 +26159,10 @@
     "title": "Interest-Based Negotiation / 利益导向谈判",
     "url": "/wiki/concepts/interestbasednegotiation/"
   },
+  "InterestConsumptionRetail": {
+    "title": "Interest Consumption Retail / 兴趣消费零售",
+    "url": "/wiki/concepts/interestconsumptionretail/"
+  },
   "InterestReframingPersuasion": {
     "title": "Interest Reframing Persuasion / 利益重构式说服",
     "url": "/wiki/concepts/interestreframingpersuasion/"
@@ -28630,6 +28642,10 @@
   "KaifengCapitalTradeoff": {
     "title": "开封定都取舍 / Kaifeng Capital Tradeoff",
     "url": "/wiki/concepts/kaifengcapitaltradeoff/"
+  },
+  "Kailas": {
+    "title": "Kailas / 凯乐石",
+    "url": "/wiki/entities/kailas/"
   },
   "KaimingHe": {
     "title": "Kaiming He",
@@ -35279,6 +35295,10 @@
     "title": "Minimalist Entrepreneurship",
     "url": "/wiki/concepts/minimalistentrepreneurship/"
   },
+  "Miniso": {
+    "title": "Miniso / 名创优品",
+    "url": "/wiki/entities/miniso/"
+  },
   "MinisterAsExchangeableAsset": {
     "title": "可交换功臣 / Minister as Exchangeable Asset",
     "url": "/wiki/concepts/ministerasexchangeableasset/"
@@ -40442,6 +40462,10 @@
   "PlasmaTVPreference": {
     "title": "Plasma TV Preference",
     "url": "/wiki/concepts/plasmatvpreference/"
+  },
+  "PlatformAdvertisingMonetization": {
+    "title": "Platform Advertising Monetization / 平台广告商业化",
+    "url": "/wiki/concepts/platformadvertisingmonetization/"
   },
   "PlatformAffordance": {
     "title": "Platform Affordance / 平台可供性",
@@ -62302,6 +62326,10 @@
   "kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406": {
     "title": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？",
     "url": "/wiki/sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406/"
+  },
+  "kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081": {
+    "title": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务",
+    "url": "/wiki/sources/kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081/"
   },
   "kaitianchuang-moyu-ganxie-chui-dali-553650149": {
     "title": "开天窗：摸鱼+感谢+吹大理",

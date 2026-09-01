@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [凯乐石在欧洲开店，广告首次成为 B 站第一大业务](sources/kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081.md) — 声动早咖啡 roundup on Kailas/Fuga Europe expansion, Bilibili advertising becoming its largest segment, Miniso large IP stores, BYD overseas sales, oral GLP-1 China competition, appliance exports, PayPal buyer talks, airline costs, and dairy recovery.
 - [《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？](sources/zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2.md) — Jianwu 9-10 Guangwu episode on the no-ransom hostage rule, Yin Xing's outer-relative restraint, Guo Ji's trust-based bandit surrender, Western Regions and northern campaign notices, and Kou Xun's killing of Huangfu Wen to force Gao Jun's surrender.
 - [《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？](sources/zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w.md) — Jianwu 11-12 Shu-campaign episode on Cen Peng's Wuyang/Guangdu breakthrough, Gongsun Shu's refused surrender and assassination, Zang Gong's defeat of Yan Cen, Ma Yuan's Jincheng frontier-resource governance, Guo Ji's national-staffing critique, and Wu Han's succession as Shu commander.
 - [《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？](sources/zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn.md) — Jianwu 12 Shu-campaign episode on Liu Xiu's Guangdu order, Wu Han's risky Chengdu advance, separated-camp mutual-support failure, night reunion with Liu Shang, Yan Cen's counterattack, Zhang Kan's anti-retreat advice, and Li Tong's honored withdrawal.
@@ -1825,6 +1826,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [Kailas / 凯乐石](entities/Kailas.md) — Chinese outdoor brand using Fuga, Chamonix retail, race sponsorship, and athlete credibility to enter Europe's trail-running market.
+- [Fuga](entities/Fuga.md) — Kailas-linked trail-running brand or product line used as the source's overseas market-entry wedge.
+- [Miniso / 名创优品](entities/Miniso.md) — Chinese retail company using large IP-heavy stores, emotional-value products, and slower overseas openings as a store-model quality test.
 - [寇恂 / Kou Xun (Eastern Han)](entities/KouXunEasternHan.md) — Guangwu-era commander whose Gao Jun mission turns Huangfu Wen's execution into a forced-surrender and "伐谋" case.
 - [高峻 / Gao Jun (Eastern Han)](entities/GaoJunEasternHan.md) — Wei Xiao-aligned holdout at Gaoping whose surrender follows Kou Xun's execution of Huangfu Wen.
 - [皇甫文 / Huangfu Wen (Eastern Han)](entities/HuangfuWenEasternHan.md) — Gao Jun's adviser and envoy whose killing becomes Hanji 709's "上兵伐谋" example.
@@ -10529,6 +10533,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Platform Advertising Monetization / 平台广告商业化](concepts/PlatformAdvertisingMonetization.md) — Bilibili case where advertising becomes the largest revenue segment through user demographics, creator recommendations, AI content, and advertiser demand.
+- [Interest Consumption Retail / 兴趣消费零售](concepts/InterestConsumptionRetail.md) — Retail strategy where IP, exclusivity, check-ins, fandom, and emotional value drive visits beyond functional product demand.
+- [Dairy Category Premiumization / 乳制品品类升级](concepts/DairyCategoryPremiumization.md) — Dairy recovery pattern linking fresh milk, cheese, functional nutrition, ice cream, and expanded consumption occasions.
 - [伐谋式斩首 / Mou-Destruction Strike](concepts/MouDestructionStrike.md) — Hanji 709's reading of "上兵伐谋" as destroying an opponent's planning center or morale by targeting the key strategist.
 - [信义招降盗贼 / Credit-Based Bandit Surrender](concepts/CreditBasedBanditSurrender.md) — Guo Ji's pacification pattern where credible leniency and released returnees induce wider bandit surrender.
 - [兵贵神速式长线突破 / Operational Tempo Breakthrough](concepts/OperationalTempoBreakthrough.md) — Hanji 711 tactical pattern where speed, weak-point concentration, and rear shock collapse an overextended defensive line before the defender can realign.
