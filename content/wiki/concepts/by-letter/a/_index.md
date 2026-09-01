@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6231
+wiki_total_pages: 6233
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "AgentAsAService"
     title: "Agent as a Service"
     url: "/wiki/concepts/agentasaservice/"
+  - key: "AgentCommandCenter"
+    title: "Agent Command Center"
+    url: "/wiki/concepts/agentcommandcenter/"
   - key: "AgentData"
     title: "Agent Data"
     url: "/wiki/concepts/agentdata/"

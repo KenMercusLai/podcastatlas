@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8757
+wiki_total_pages: 8764
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "SadiaPekkanen"
     title: "Sadia Pekkanen"
     url: "/wiki/entities/sadiapekkanen/"
+  - key: "SageOx"
+    title: "Sage Ox"
+    url: "/wiki/entities/sageox/"
   - key: "SahaUllsvig"
     title: "Saha Ullsvig"
     url: "/wiki/entities/sahaullsvig/"

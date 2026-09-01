@@ -2,37 +2,56 @@
 title: "Subagent Workflow"
 type: concept
 tags: [agents, workflow, skills]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
-last_updated: 2026-07-08
+sources:
+  - ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun
+  - tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3
+  - dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd
+  - vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1
+  - 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb
+  - ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252
+last_updated: 2026-09-02
+knowledge_schema: synthesis-v1
 ---
 
 # Subagent Workflow
 
-Subagent workflow is an agentic pattern where a foreground assistant delegates complex, long-running, or adversarial tasks to background agents and later integrates their outputs. In [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]], the host describes one skill that sends tool-heavy or high-token tasks to a background subagent and another that has pro and con agents debate a question before synthesis.
+## Definition
+Subagent workflow is an agentic pattern where a foreground assistant delegates complex, long-running, specialized, or adversarial work to other agents and then integrates, reviews, or verifies their outputs.
 
-[[tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3]] adds the governance side of subagent work. [[LaiXinlu]] argues that multi-agent systems need role-specific permissions, information boundaries, and handoff documents, such as giving a code-exploration agent read-only powers while preventing a test agent from changing production code just to make tests pass.
+## Current Synthesis
+Subagents remain a harness-level technique for preserving main-context clarity, expanding search, dividing roles, and cross-checking work. The pattern appears in coding, research, theorem proving, and productized multi-agent systems: one agent may explore code, another may test, another may argue against a plan, and a lead agent may synthesize the result.
 
-[[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] adds the cross-checking side through [[MiniMax]]. The source says multiple agents can exchange much larger context than human feedback usually provides and can correct a single agent when long-context work starts drifting.
+The 2026 coding-agent discussion adds a model/harness co-evolution angle. Some workflows now need explicit leader, worker, and verifier roles created dynamically by the harness, but future models may internalize more of that decomposition. The practical conclusion remains unchanged: role boundaries, permissions, handoff documents, and verification make subagents useful rather than just parallel noise.
 
-[[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds a personal coding workflow side: subagents let [[Superpowers]], [[ClaudeCode]], and [[Codex]] continue long tasks without filling the main conversation, while review loops let agents check and repair each other's output at the cost of more tokens and more human supervision.
+## Key Claims
+- Subagents preserve the foreground context when a task is too large, tool-heavy, or disruptive for the main conversation.
+- Role-specific agents are useful when tasks need different permissions, viewpoints, or standards, such as code exploration, testing, adversarial review, or proof repair.
+- Multi-agent cross-checking can correct drift and hallucination, but it consumes more tokens and still needs human or verifier acceptance.
+- Handoff artifacts are necessary because a subagent's output must be compact enough for another agent or human to reuse.
+- Dynamic leader/worker/verifier teams are an emerging harness pattern for agent-native coding work.
+- The durability of subagent orchestration depends on model/harness co-evolution: some decomposition may move into models, while permissions and verification remain external.
 
-[[137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]] adds an [[AIForMath]] case. [[HongLetong]] says [[Axiom]] used subagents, experience learning, and skills as alternatives to costly broad search, suggesting that theorem proving can use specialized agents for proof planning, tactic attempts, formalization, and verifier-driven repair.
+## Evidence
+- Background subagents and adversarial pro/con roles are described as reusable skill patterns for tool-heavy or high-token work: [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]].
+- Governance sources emphasize role-specific permissions, information boundaries, and handoff documents so agents do not overstep or repair tests dishonestly: [[tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3]].
+- Multi-agent systems can exchange larger context than human feedback normally provides and can cross-check long-context drift: [[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]].
+- Practical coding and theorem-proving sources show subagents used for planning, implementation, review, Lean proof attempts, and verifier-driven repair: [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]], [[137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]].
+- Agent-native coding tools are described as moving toward dynamically generated leader, worker, and verifier teams inside the harness: [[ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252]].
 
-## Key Patterns
-- Background execution for tasks too large or disruptive for the foreground thread.
-- Reference IDs for later retrieval, pausing, or management.
-- Adversarial analysis by assigning different agents opposing roles before a synthesizer reviews them.
-- Role-specific tool permissions and information access.
-- Context compression and handoff documents when a new agent continues work from a prior agent.
-- Peer review or cross-checking between agents when a long task needs another context window or viewpoint.
-- Main-context preservation in practical coding workflows where the user wants several tasks moving while still keeping one controlling thread clear.
-- Theorem-proving workflows can use subagents to explore proof branches, repair Lean failures, and preserve successful tactics for later reuse.
+## Counterevidence & Qualifications
+Parallel agents do not automatically improve quality. They can multiply wrong assumptions, create integration work, burn tokens, and hide responsibility. Subagent workflows need explicit task boundaries, permission scoping, output contracts, and verification; otherwise the user receives more fluent uncertainty instead of a stronger result.
 
-## Connections
-- [[AISkills]] — subagent behavior can be packaged as reusable skills.
-- [[AgenticWorkflow]] — broader workflow pattern that subagents extend.
-- [[ContextEngineering]] — subagents still need task context and integration standards.
-- [[AgentHarness]] — governance and orchestration layer for safe multi-agent work.
-- [[MultiAgentCollaboration]] — broader collaboration frame added by the Hermes Agent source.
-- [[Superpowers]], [[ClaudeCode]], and [[Codex]] — personal workflow case added by Vol. 166.
-- [[Axiom]], [[AxiomProver]], [[AIForMath]], and [[AISkills]] — theorem-proving orchestration case added by episode 137.
+## What Changed
+- Dynamic multi-agent team formation is now included as a 2026 coding-harness pattern.
+- The synthesis now ties subagent workflows to model/harness co-evolution, not only current Claude Code or MiniMax-style orchestration.
+- Verification roles are now explicit alongside explorer, worker, critic, and synthesizer roles.
+
+## Related Concepts
+- [[AgentHarness]] - orchestration layer that creates and constrains subagents.
+- [[AISkills]] - packaging mechanism for reusable subagent patterns.
+- [[MultiAgentCollaboration]] - broader frame for agents exchanging context and critique.
+- [[ContextEngineering]] - task-context design needed for handoff and integration.
+- [[AICodingVerification]] - acceptance layer that makes verifier agents meaningful.
+- [[ModelHarnessCoEvolution]] - question of which orchestration logic remains outside models.
+- [[AgentCommandCenter]] - interface pattern where humans can supervise multiple agent sessions.
+- [[AIForMath]] - theorem-proving domain where subagents explore and repair formal proof branches.

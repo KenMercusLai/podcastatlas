@@ -2,41 +2,62 @@
 title: "Cursor"
 type: entity
 tags: [ai-tool, coding]
-sources: [all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]
-last_updated: 2026-08-18
+sources:
+  - all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545
+  - vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo
+  - ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1
+  - 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs
+  - gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc
+  - renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o
+  - ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan
+  - biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1
+  - 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h
+  - youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2
+  - ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252
+last_updated: 2026-09-02
+knowledge_schema: synthesis-v1
 ---
 
 # Cursor
 
-[[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] reinforces the source-scoped acquisition branch. [[JasonCalacanis|Jason Calacanis]] says [[SpaceX]] exercised an option to acquire Cursor in a $60 billion deal, while [[ChamathPalihapitiya|Chamath Palihapitiya]] interprets the structure as giving [[ElonMusk|Elon Musk]] a discount if SpaceX's valuation rose before closing.
+## Overview
+Cursor is an AI coding environment discussed as both a practical project-aware editor and a contested application-layer product under pressure from model-provider coding tools.
 
-Cursor is mentioned in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc]] as a practical AI coding environment alongside [[Codex]] and [[ClaudeCode]]. The episode treats these tools as examples of the workflow migration needed to benefit from AI. [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o]] adds Cursor as a reference point for [[Paperboy]]: a product company can win interface share first and later blur into model-company behavior through specialized coding models.
+## Current Profile
+The wiki's Cursor profile has three branches. The first is workflow fit: Cursor is repeatedly used as an example of scenario-specific AI because it reads project context, helps scaffold or modify code, and gives programmers a familiar editor container. The second is market pressure: sources connect Cursor to pricing controversy, usage transparency, heavy-user token economics, and competition from Claude Code, Codex, Gemini CLI, and official model-provider tools. The third is a source-scoped interface shift: the 2026 coding-agent episode describes Cursor 3 as moving from a file-tree-centered editor toward an agent-session command center with conversation in the middle and code links or diffs on the side.
 
-[[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]] makes Cursor the central case for [[VibeCoding]] pricing and differentiation. The episode says Cursor's move toward token/API-cost-linked pricing made heavy-user economics more explicit, but also created a transparency problem because users could see usage details without easily knowing how much paid allowance remained. It also distinguishes Tab-completion users from heavy conversational vibe coders: the former may still value Cursor as an IDE experience, while the latter feel more direct pressure from [[ClaudeCode]], [[GeminiCLI]], and [[ModelProviderToolCompetition]].
+Acquisition claims remain source-scoped. Some sources say SpaceX or xAI-linked entities acquired or optioned Cursor, but the wiki keeps those claims tied to their episodes rather than treating them as independently settled.
 
-[[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] adds Cursor as part of a broader AI editor set alongside VS Code Copilot-style tools and Vim habits. The source treats AI editors as workflow-changing but not yet a pure yes/no approval loop; developers still read, choose, modify, and reject model output.
+## Key Characteristics
+- Cursor is a programmer-oriented AI coding container that benefits from project context and familiar editor workflows.
+- It is used as evidence that focused workflow tools can outperform generic chat in concrete coding scenes.
+- Pricing and usage transparency are recurring tensions, especially for heavy conversational vibe-coding users.
+- Cursor faces strategic pressure because model providers can ship official coding agents closer to the model layer.
+- The 2026 episode frames Cursor 3 as an agent command center where agent sessions and review loops become primary.
+- The tool still has a code-reading tradeoff: agent-first surfaces can be weaker when developers must inspect many source lines directly.
 
-[[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]] adds Cursor as the startup-side coding-tool example under pressure from model providers. [[YaoShunyu]] treats Cursor as still valuable but exposed because [[ClaudeCode]], [[Codex]], and [[GeminiCLI]] can move closer to the model layer while coding remains one of the easiest high-value workflows for model companies to enter.
+## Evidence
+- Scenario-specific and project-aware value appears in the Fudan source and practical AI-use discussion: [[vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo]], [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc]].
+- Product-company and model-company pressure appears through Paperboy comparisons, creative-tool analogies, and provider-tool competition: [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o]], [[263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs]], [[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]].
+- Pricing, usage transparency, tab-completion versus heavy conversational coding, and review overhead are central in the Cursor pricing episode: [[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]].
+- Coding democratization frames Cursor as the programmer-oriented container compared with Lovable and Replit for other audiences: [[youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]].
+- Acquisition and exit claims are source-local and should remain tied to the episodes that assert them: [[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]], [[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]].
+- The agent command-center profile comes from the 2026 coding-agent episode's description of Cursor 3: [[ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252]].
 
-[[263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs]] adds Cursor as the coding-market analogy for the [[Meitu]] and [[Adobe]] discussion. The episode argues that tools close to model capability can be pressured by official model-provider products, while still leaving room for application products that own workflow, interaction, and user-specific output quality.
+## Qualifications
+Cursor's public corporate status is not resolved by the wiki; acquisition claims are source-scoped. The Cursor 3 command-center description is also source-scoped to the ingested episode. More broadly, Cursor's value depends on the user's workflow: agent-first interfaces are stronger for delegation and review, while traditional editor affordances remain valuable for direct code reading and precise modification.
 
-[[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] adds a source-local exit claim. [[HenryYin]] says Cursor was no longer an independent company in Q2 2026 after a SpaceX/xAI-linked acquisition. The wiki should treat that as a claim from this source until corroborated, but it strengthens the existing interpretation that independent coding tools face pressure from [[ClaudeCode]], [[Codex]], pricing, and model-provider distribution.
+## What Changed
+- Cursor is now connected to the agent command-center pattern through the episode's Cursor 3 description.
+- The page now separates source-scoped acquisition claims from product-interface synthesis.
+- The code-reading tradeoff is now explicit alongside Cursor's agent-first direction.
 
-[[youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]] adds Cursor as [[Albert]]'s programmer-oriented example in [[CodingDemocratization]]. In that comparison, Cursor is one container for handing AI coding capability to users who already think in code, while [[Lovable]] and [[Replit]] point to different audiences.
-
-[[vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo]] adds [[ZhangQi|张奇]]'s scene-specific interpretation. Cursor is used as evidence that a focused AI product can beat generic chat behavior in a concrete workflow: even if much generated code needs revision, the tool helps users switch languages, scaffold demos, read project context, and save routine time.
-
-## Connections
-- [[SpaceX]], [[ElonMusk|Elon Musk]], [[AIIPOValuation]], and [[LateStagePrivateCompanyValuationRisk]] - All-In's source-scoped acquisition and valuation-structure branch.
-- [[AgenticWorkflow]] — the key concept Cursor helps illustrate.
-- [[ContextEngineering]] — the reason project-aware tools can beat isolated chats.
-- [[Paperboy]] and [[HumanAgentCollaboration]] — product-company comparison from the Paperboy episode.
-- [[VibeCoding]], [[AIInferenceCostStructure]], and [[AISubscriptionEconomics]] — pricing and usage-pressure themes from EP108.
-- [[ClaudeCode]], [[GeminiCLI]], and [[ModelProviderToolCompetition]] — official-tool pressure discussed in EP108.
-- [[METR]] and [[AICodingVerification]] — productivity and review-overhead concerns raised in EP108.
-- [[AIProgrammingEngineShift]] — broader labor and craft shift around AI code editors in the Neihe Konghuang episode.
-- [[ClaudeCode]], [[Codex]], [[GeminiCLI]], and [[ModelProviderToolCompetition]] — provider-tool pressure reinforced by episode 140.
-- [[Meitu]], [[Adobe]], [[AIApplicationLayerMoat]], and [[VerticalWorkflowAI]] — creative-tool analogy added by Luanfanshu.
-- [[SpaceX]], [[XAI]], [[ClaudeCode]], and [[Codex]] — source-local acquisition and competitive-pressure update added by LateTalk.
-- [[Albert]], [[CodingDemocratization]], [[Lovable]], and [[Replit]] — coding-container comparison added by the 42章经 source.
-- [[ZhangQi|张奇]], [[ScenarioSpecificAI]], [[ModelWorkflowFit]], and [[AICodingVerification]] — vol.114's focused-tool interpretation.
+## Relationships
+- [[Codex]] - peer coding-agent tool and model-provider pressure point.
+- [[ClaudeCode]] - competing coding-agent workflow and first-mover harness reference.
+- [[GeminiCLI]] - competing model-provider coding tool in the provider-pressure branch.
+- [[AgentCommandCenter]] - interface pattern the episode uses to describe Cursor 3.
+- [[VibeCoding]] - usage mode that made pricing and review overhead more visible.
+- [[CodingDemocratization]] - role/container frame where Cursor serves programmer users.
+- [[AICodingVerification]] - review and acceptance constraint for generated code.
+- [[ModelProviderToolCompetition]] - strategic pressure from official model-company tools.

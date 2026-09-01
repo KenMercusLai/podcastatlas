@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6231
+wiki_total_pages: 6233
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "TeacherStudentCoFieldLearning"
     title: "Teacher-Student Co-Field Learning / 师生共同在场学习"
     url: "/wiki/concepts/teacherstudentcofieldlearning/"
+  - key: "TeamAgentMemory"
+    title: "Team Agent Memory"
+    url: "/wiki/concepts/teamagentmemory/"
   - key: "TechBubbleConditions"
     title: "Tech Bubble Conditions"
     url: "/wiki/concepts/techbubbleconditions/"

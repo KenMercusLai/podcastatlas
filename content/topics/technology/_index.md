@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2640
+topic_total_pages: 2641
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6623,6 +6623,9 @@ topic_entities:
   - key: "Dongniao"
     title: "懂鸟 / Dongniao"
     url: "/wiki/entities/dongniao/"
+  - key: "BushezheShuo"
+    title: "捕蛇者说 / Bushezhe Shuo"
+    url: "/wiki/entities/bushezheshuo/"
   - key: "BaofengYingyin"
     title: "暴风影音 / Baofeng Yingyin"
     url: "/wiki/entities/baofengyingyin/"

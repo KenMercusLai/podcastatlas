@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8757
+wiki_total_pages: 8764
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -926,6 +926,9 @@ wiki_pages:
   - key: "BianQue"
     title: "扁鹊 / Bian Que"
     url: "/wiki/entities/bianque/"
+  - key: "BushezheShuo"
+    title: "捕蛇者说 / Bushezhe Shuo"
+    url: "/wiki/entities/bushezheshuo/"
   - key: "BaofengYingyin"
     title: "暴风影音 / Baofeng Yingyin"
     url: "/wiki/entities/baofengyingyin/"

@@ -494,12 +494,13 @@
       "669579ac551e015d5d6c20aa08ac0e7c674e0f7fafcd9adc5bebd4f22c5899ea",
       "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3",
       "5ba1c7a478b342521c54a704f3662e19b3e2e992a9e88c2a01eb72bc8c596387",
-      "9d36904e555be9bd3a64051aec40ec50d074a0fe33f5d94a41cd1392f151a764"
+      "9d36904e555be9bd3a64051aec40ec50d074a0fe33f5d94a41cd1392f151a764",
+      "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60"
     ],
-    "paragraph_count": 494
+    "paragraph_count": 495
   },
-  "overview_commit": "9c86b1eaa9be7e4156451999f241258598edb579",
-  "overview_digest": "6f2ce511255c203173b18931e4c02520bbaf3e9f1c90074d943fdb48fd2449a8",
+  "overview_commit": "032eca018d71a1f5f1ff7a175ec5b160959ca5b5",
+  "overview_digest": "5e5e98b016ac729a6b55741e8569b87a4f6b32ddd98bf7272fd545425ae9845a",
   "paragraphs": [
     {
       "id": "8e22874a34a0e3b1828841ae90e95ca2709e2612a10ff3930235117f938a5086",
@@ -15130,6 +15131,39 @@
         "SummitAsTransformation",
         "TomorrowToday",
         "default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757"
+      ]
+    },
+    {
+      "id": "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252|Ep 59. 2026 Agent 编程新趋势]], a [[BushezheShuo|捕蛇者说]] episode with [[Light9M]] and [[XiaoA|小 A]] on the product shift from editor/CLI-augmented AI coding toward [[AgentCommandCenter|agent command centers]] and [[AICoworkers|AI coworker]] work. It adds [[AntiGravity|Anti-Gravity]], [[JuiceCodingAgent|Juice Coding Agent]], [[SageOx|Sage Ox]], [[Graft]], and [[TeamAgentMemory]], while extending [[Codex]], [[Cursor]], [[ProactiveAgents]], [[EnterpriseAgentMemory]], [[IMAgentInterfaces]], [[SubagentWorkflow]], and [[CodingDemocratization]]. Its core synthesis is that 2026 AI coding is becoming less about manually writing every line and more about instruction, review, feedback, shared context, and verification: stronger [[AgentHarness]] layers manage context, memory, sandboxing, skills, and multi-agent workflows; proactive coding agents turn maintenance signals into suggestions or PRs; team work needs shared but privacy-filtered memory; and [[AICodingVerification]] remains the ceiling because browser, screenshot, mobile, sandbox, and backend checks decide whether agent output can be accepted. No settled contradiction is recorded; the source preserves a tradeoff with traditional IDEs when line-level code reading remains central and treats product/version details such as Cursor 3 and Anti-Gravity 2.0 as source-scoped claims.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AICodingVerification",
+        "AICoworkers",
+        "AgentCommandCenter",
+        "AgentHarness",
+        "AntiGravity",
+        "BushezheShuo",
+        "Codex",
+        "CodingDemocratization",
+        "Cursor",
+        "EnterpriseAgentMemory",
+        "Graft",
+        "IMAgentInterfaces",
+        "JuiceCodingAgent",
+        "Light9M",
+        "ProactiveAgents",
+        "SageOx",
+        "SubagentWorkflow",
+        "TeamAgentMemory",
+        "XiaoA",
+        "ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252"
       ]
     }
   ],

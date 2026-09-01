@@ -3347,6 +3347,10 @@
     "title": "Agent as a Service",
     "url": "/wiki/concepts/agentasaservice/"
   },
+  "AgentCommandCenter": {
+    "title": "Agent Command Center",
+    "url": "/wiki/concepts/agentcommandcenter/"
+  },
   "AgentData": {
     "title": "Agent Data",
     "url": "/wiki/concepts/agentdata/"
@@ -4898,6 +4902,10 @@
   "AntiDongZhuoCoalition": {
     "title": "反董卓联盟 / Anti-Dong Zhuo Coalition",
     "url": "/wiki/entities/antidongzhuocoalition/"
+  },
+  "AntiGravity": {
+    "title": "Anti-Gravity",
+    "url": "/wiki/entities/antigravity/"
   },
   "AntiHeroicResistanceNarrative": {
     "title": "Anti-Heroic Resistance Narrative",
@@ -8178,6 +8186,10 @@
   "BurtonAbrams": {
     "title": "Burton Abrams",
     "url": "/wiki/entities/burtonabrams/"
+  },
+  "BushezheShuo": {
+    "title": "捕蛇者说 / Bushezhe Shuo",
+    "url": "/wiki/entities/bushezheshuo/"
   },
   "BusiaKenya": {
     "title": "Busia, Kenya",
@@ -22059,6 +22071,10 @@
     "title": "Graduation Anxiety",
     "url": "/wiki/concepts/graduationanxiety/"
   },
+  "Graft": {
+    "title": "Graft",
+    "url": "/wiki/entities/graft/"
+  },
   "GrahamAllison": {
     "title": "Graham Allison",
     "url": "/wiki/entities/grahamallison/"
@@ -28587,6 +28603,10 @@
     "title": "Jugurtha / 朱古达",
     "url": "/wiki/entities/jugurtha/"
   },
+  "JuiceCodingAgent": {
+    "title": "Juice Coding Agent",
+    "url": "/wiki/entities/juicecodingagent/"
+  },
   "JulCartoonist": {
     "title": "Jul / 朱勒尔",
     "url": "/wiki/entities/julcartoonist/"
@@ -31258,6 +31278,10 @@
   "LifestyleWeightManagement": {
     "title": "Lifestyle Weight Management / 生活方式体重管理",
     "url": "/wiki/concepts/lifestyleweightmanagement/"
+  },
+  "Light9M": {
+    "title": "Light9M",
+    "url": "/wiki/entities/light9m/"
   },
   "LightAndDarkWorldDuality": {
     "title": "Light And Dark World Duality / 光明与黑暗世界二分",
@@ -45703,6 +45727,10 @@
     "title": "SAGE Attention",
     "url": "/wiki/concepts/sageattention/"
   },
+  "SageOx": {
+    "title": "Sage Ox",
+    "url": "/wiki/entities/sageox/"
+  },
   "SahaUllsvig": {
     "title": "Saha Ullsvig",
     "url": "/wiki/entities/sahaullsvig/"
@@ -51286,6 +51314,10 @@
   "TeacherStudentCoFieldLearning": {
     "title": "Teacher-Student Co-Field Learning / 师生共同在场学习",
     "url": "/wiki/concepts/teacherstudentcofieldlearning/"
+  },
+  "TeamAgentMemory": {
+    "title": "Team Agent Memory",
+    "url": "/wiki/concepts/teamagentmemory/"
   },
   "TeamMarketing": {
     "title": "Team Marketing",
@@ -57167,6 +57199,10 @@
     "title": "鲜于辅 / Xianyu Fu",
     "url": "/wiki/entities/xianyufu/"
   },
+  "XiaoA": {
+    "title": "小 A / Xiao A",
+    "url": "/wiki/entities/xiaoa/"
+  },
   "XiaoAoJiangHu": {
     "title": "《笑傲江湖》",
     "url": "/wiki/entities/xiaoaojianghu/"
@@ -62058,6 +62094,10 @@
   "ep-5-implementation-of-data-science-in-cybersecurity": {
     "title": "EP 5: Implementation of Data Science in Cybersecurity",
     "url": "/wiki/sources/ep-5-implementation-of-data-science-in-cybersecurity/"
+  },
+  "ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252": {
+    "title": "Ep 59. 2026 Agent 编程新趋势",
+    "url": "/wiki/sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252/"
   },
   "ep-6-data-science-ai-talk": {
     "title": "EP 6: Data Science & AI Talk",

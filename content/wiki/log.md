@@ -14784,6 +14784,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-02] ingest | Ep 59. 2026 Agent 编程新趋势
+
+Ingested the 2026-06-15 捕蛇者说 episode with Light9M and 小 A on 2026 AI coding workflows. Added source `ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252`; created `AgentCommandCenter`, `TeamAgentMemory`, `BushezheShuo`, `Light9M`, `XiaoA`, `AntiGravity`, `JuiceCodingAgent`, `SageOx`, and `Graft`; migrated/updated `AICoworkers`, `ProactiveAgents`, `EnterpriseAgentMemory`, `IMAgentInterfaces`, `SubagentWorkflow`, `CodingDemocratization`, `Codex`, and `Cursor`. No settled contradiction found; Cursor 3, Anti-Gravity 2.0, Juice Coding Agent, Sage Ox, and Graft details remain source-scoped.
+
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！
 
 Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 4 / 28 CE around Tian Rong's failed surrender, Xin Chen's defection, Yan Cen's Shunyang defeat and Hanzhong turn, Wu Han's Gexian pacification, Fu Zhan's campaign-priority remonstrance, Gai Yan's failed Lanling rescue, Zhang Feng's fake-seal rebellion, Li Xian's Shu-county siege, and Hou Ba's institutional reconstruction. Added source `zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk`; created `TianRongYilingEasternHan`, `XinChenEasternHan`, `FuZhanEasternHan`, `GaiYanEasternHan`, `HouBaEasternHan`, `ZhangFengZhuoEasternHan`, `DongXianEasternHan`, `LiXianLujiangEasternHan`, `SurrenderTrustBreakdown`, `LocalFaultAttributionPacification`, `CoreBeforePeripheryStrategy`, `OccultDecisionCapture`, and `InstitutionalReconstructionFromPrecedent`; updated `YanCenEasternHan`, `WuHanEasternHan`, `PengChongEasternHan`, `DengYuEasternHan`, `GengShuEasternHan`, `CenPengEasternHan`, `EncirclingWeiToRescueZhao`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 田戎 is kept distinct from `TianRong` / 田荣, 董宪 from 董贤, and this 李宪 from other Li Xian routes.
@@ -14831,6 +14835,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] ingest | The Mountains Choose You: Araceli Segarra on Adventure & Resilience | Shekhar Natarajan
 
 Ingested the 2026-09-01 Tomorrow Today episode with Araceli Segarra on Everest, the 1996 IMAX expedition, fear, uncertainty, team trust, rescue, resilience, and AI-era judgment. Added source `default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757`; created `AraceliSegarra`, `DavidBreshears`, `BeckWeathers`, `ColonelMadanEverestPilot`, `EverestIMAXExpedition`, `SummitAsTransformation`, `AdventureUncertaintyReframing`, `ExpeditionTeamTrust`, and `AIHowHumanWhyBoundary`; updated `ShekharNatarajan`, `TomorrowToday`, `ExtremeEnvironmentRiskManagement`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Aracely Sagara/Aracely is normalized to Araceli Segarra, while exact rescue chronology, Colonel Madan's full identity, David Breshears details, and full climbing biography remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 

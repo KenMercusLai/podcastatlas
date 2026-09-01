@@ -1857,6 +1857,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [阿里千问离职余震，在几万人的铁球里如何体面生存](sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md) — Podcast episode on Qwen, open-source model strategy, large-company organization, star talent, and AI-era professional judgment.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
+- [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
 - [田戎 / Tian Rong (Yiling, Eastern Han)](entities/TianRongYilingEasternHan.md) — Yiling power holder whose planned surrender collapses through Xin Chen's theft, defection, suspicious letter, and divination.
@@ -10618,6 +10619,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [中植集团](entities/ZhongzhiGroup.md) — Finance-company case used by EP21 as a news hook for platform risk and financial workers' divergent outcomes.
 - [自立](entities/Zili.md) — Fengyan Fengyu host discussing OpenClaw, personal-agent security, and permission boundaries.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
+- [Anti-Gravity](entities/AntiGravity.md) — Source-scoped AI coding tool grouped with Codex and Cursor as an agent-first editor pattern.
+- [捕蛇者说 / Bushezhe Shuo](entities/BushezheShuo.md) — Podcast/show context for the 2026 agent coding workflow discussion.
+- [Graft](entities/Graft.md) — Source-scoped team-context entity cited for the view that IM surfaces naturally accumulate agent context.
+- [Juice Coding Agent](entities/JuiceCodingAgent.md) — Proactive coding agent that scans repositories, emails suggestions, and can create PRs after confirmation.
+- [Light9M](entities/Light9M.md) — 捕蛇者说 host discussing AI coding tool trends and Google coding-agent practice.
+- [Sage Ox](entities/SageOx.md) — Source-scoped company or product that turns team meeting recordings into agent-usable memory.
+- [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
 - [归降信任崩塌 / Surrender Trust Breakdown](concepts/SurrenderTrustBreakdown.md) — Submission failure pattern where intermediary defection, property theft, suspicious messaging, and uncertainty turn planned surrender into renewed rebellion.
@@ -16851,5 +16859,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protein Body-Composition Lever](concepts/ProteinBodyCompositionLever.md) — Protein hierarchy for satiety, lean mass, plant-based planning, and body recomposition across dieting, maintenance, and surplus.
 - [Seed-Oil Evidence Boundary](concepts/SeedOilEvidenceBoundary.md) — Nutrition evidence boundary judging seed oils through calorie context, fat replacement, and human trials rather than ingredient panic.
 - [Creatine Monohydrate Evidence](concepts/CreatineMonohydrateEvidence.md) — Supplement-evidence frame for creatine monohydrate, dosing, healthy-person safety, tolerance, and cost hierarchy.
+- [Agent Command Center](concepts/AgentCommandCenter.md) — Agent-first coding interface where sessions, instructions, diffs, and review loops replace file-tree-first navigation as the primary surface.
+- [Team Agent Memory](concepts/TeamAgentMemory.md) — Shared memory layer for teams whose humans and agents need access to decisions, meetings, repositories, and coworker-agent context.
 
 ## Syntheses

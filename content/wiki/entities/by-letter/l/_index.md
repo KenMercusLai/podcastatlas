@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8757
+wiki_total_pages: 8764
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "LightCone"
     title: "Light Cone"
     url: "/wiki/entities/lightcone/"
+  - key: "Light9M"
+    title: "Light9M"
+    url: "/wiki/entities/light9m/"
   - key: "Lijiang"
     title: "Lijiang / 丽江"
     url: "/wiki/entities/lijiang/"
