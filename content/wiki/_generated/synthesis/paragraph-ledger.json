@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ccddc52ea68670c22e912edc90c8d6c85e43d866e0e9f963443e9c20c6050b2a",
       "d628002add96e4192a2e2c689b34aa3c188be0d165b8b53afe77e8f1533974b6",
       "8e22874a34a0e3b1828841ae90e95ca2709e2612a10ff3930235117f938a5086",
       "bc6d5f37a1d97fc04317ef9374b8e6c99be98feda874d44bbecc15acbf3f8f8b",
@@ -499,11 +500,38 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 497
+    "paragraph_count": 498
   },
-  "overview_commit": "d2474d21efd0cffa093ad79e97f3fad0414241ca",
-  "overview_digest": "47315874584cecd23743a1890a33a1b85c0dc7547248f352c1e96dcbd9e0be37",
+  "overview_commit": "dfbc53ba1efdef11df3ef87012b0221ac74304f5",
+  "overview_digest": "969fab63addb4de307b30555005fd1f3780c3ae0d60fca3a937f6541a4bc6128",
   "paragraphs": [
+    {
+      "id": "ccddc52ea68670c22e912edc90c8d6c85e43d866e0e9f963443e9c20c6050b2a",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 3 / 27 CE before [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] and [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]]. It extends [[LiuXiu|光武帝刘秀]], [[WeiXiaoEasternHan|隗嚣]], [[LaiXiEasternHan|来歙]], [[FengYiEasternHan|冯异]], [[WuHanEasternHan|吴汉]], [[CenPengEasternHan|岑彭]], [[GengYanEasternHan|耿弇]], [[YanCenEasternHan|延岑]], [[GaiYanEasternHan|盖延]], [[LiXianLujiangEasternHan|李宪]], [[FenceSittingStrategicExposure|骑墙式战略暴露]], and [[SuspicionDrivenEliteAlienation|猜疑驱动的士族离心]]. Its core synthesis is that Wei Xiao's later failure begins before open refusal: Liu Xiu is still clearing multiple fronts and therefore tries to use Lai Xi's personal channel plus unusually high courtesy to pull Wei Xiao away from Gongsun Shu, but the source already marks Wei Xiao's suspicion and unsettled status as a fragile base for cooperation. No settled contradiction is recorded; transcript forms 韦敖, 严琛, and 葛炎 are normalized to the established 隗嚣, 延岑, and 盖延 routes, while Deng Feng, Qin Feng, Liu Yong, Liu Yu, Zhu Hu, Su Jing, and minor campaign details remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "CenPengEasternHan",
+        "FenceSittingStrategicExposure",
+        "FengYiEasternHan",
+        "GaiYanEasternHan",
+        "GengYanEasternHan",
+        "LaiXiEasternHan",
+        "LiXianLujiangEasternHan",
+        "LiuXiu",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuspicionDrivenEliteAlienation",
+        "WeiXiaoEasternHan",
+        "WuHanEasternHan",
+        "YanCenEasternHan",
+        "zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme",
+        "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+        "zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8"
+      ]
+    },
     {
       "id": "d628002add96e4192a2e2c689b34aa3c188be0d165b8b53afe77e8f1533974b6",
       "primary_topic": "history-and-geopolitics",

@@ -9,14 +9,17 @@ sources:
   - zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi
   - zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q
   - zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff
+  - zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme
 last_updated: 2026-09-01
 ---
 
 ## Overview
 
-来歙 / Lai Xi is synthesized as an Eastern Han western-campaign envoy, planner, and commander. [[zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff|Hanji 698]] now supplies his earliest current layer: he repeatedly urges [[WeiXiaoEasternHan|隗嚣]] to enter Luoyang and carries the request that Wei Xiao send his eldest son [[WeiXunEasternHan|隗恂]] when Wei Xiao refuses personal attendance. [[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|Hanji 701]] then turns that western envoy role into a sharper crisis: Lai Xi carries [[LiuXiu|刘秀]]'s order, rebukes Wei Xiao's hesitation, nearly becomes the target of an envoy-killing crisis, and survives because his status and western reputation still matter. [[zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi|Hanji 705-1]] follows with the surprise seizure of Lüeyang, [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|Hanji 708]] continues through the Longxi/Tianshui plan, and [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]] ends in road-opening success and assassination.
+来歙 / Lai Xi is synthesized as an Eastern Han western-campaign envoy, planner, and commander. [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|Hanji 689-1]] now supplies his earliest current layer: he tells [[LiuXiu|刘秀]] that he knows [[WeiXiaoEasternHan|隗嚣]] from Chang'an and can help court him so [[GongsunShuEasternHan|公孙述]] is isolated. [[zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff|Hanji 698]] then shows him repeatedly urging Wei Xiao to enter Luoyang and carrying the request that Wei Xiao send his eldest son [[WeiXunEasternHan|隗恂]] when Wei Xiao refuses personal attendance. [[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|Hanji 701]] turns that western envoy role into a sharper crisis: Lai Xi carries Liu Xiu's order, rebukes Wei Xiao's hesitation, nearly becomes the target of an envoy-killing crisis, and survives because his status and western reputation still matter. [[zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi|Hanji 705-1]] follows with the surprise seizure of Lüeyang, [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|Hanji 708]] continues through the Longxi/Tianshui plan, and [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]] ends in road-opening success and assassination.
 
 ## Current Profile
+
+Hanji 689-1 gives Lai Xi a first-contact and strategic-sequencing role. When Liu Xiu asks about the western situation, Lai Xi says he knew Wei Xiao in Chang'an, reads Wei Xiao's original anti-Wang-Mang position as Han-restoration aligned, and argues that bringing Wei Xiao toward Luoyang would leave Gongsun Shu isolated. Liu Xiu sends him to open the channel, after which Wei Xiao submits contact and receives unusually high ceremonial treatment.
 
 Hanji 698 gives Lai Xi a persuasion-and-hostage opening before the later confrontation. Liu Xiu repeatedly sends Lai Xi and [[MaYuanEasternHan|Ma Yuan]] to urge Wei Xiao to come to Luoyang, but Wei Xiao answers with deferential language and does not go. Lai Xi then asks for Wei Xiao's eldest son as a credibility signal, and Wei Xiao sends Wei Xun east after hearing that Liu Yong and [[PengChongEasternHan|Peng Chong]] have been killed.
 
@@ -30,7 +33,7 @@ Hanji 710 shows the plan becoming effective and then costly. Lai Xi and other ge
 
 ## Key Characteristics
 
-- Guangwu-era envoy whose current evidence begins with persuading Wei Xiao and securing Wei Xun's hostage dispatch.
+- Guangwu-era envoy whose current evidence begins with opening the Wei Xiao channel and later securing Wei Xun's hostage dispatch.
 - Western actor whose personal reputation and imperial-envoy status help keep a later crisis from turning into execution.
 - Western commander whose main operational evidence is the small-force surprise seizure of Lüeyang.
 - Strategist who reads Longxi, Tianshui, and Lüeyang as shields protecting Wei Xiao and Gongsun Shu.
@@ -40,6 +43,8 @@ Hanji 710 shows the plan becoming effective and then costly. Lai Xi and other ge
 
 ## Evidence
 
+- First western contact: [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|Hanji 689-1]] says Lai Xi tells Liu Xiu that he knew Wei Xiao in Chang'an and can be sent to court him.
+- Strategic sequencing: [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|Hanji 689-1]] says Lai Xi frames Wei Xiao's alignment as the move that would isolate Gongsun Shu.
 - Early persuasion mission: [[zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff|Hanji 698]] says Liu Xiu sends Lai Xi and Ma Yuan several times to urge Wei Xiao to come to Luoyang.
 - Hostage request: [[zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff|Hanji 698]] says Lai Xi urges Wei Xiao to send his eldest son to court when Wei Xiao himself will not attend.
 - Envoy rebuke: [[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|Hanji 701]] says Lai Xi brings Liu Xiu's order to Wei Xiao and rebukes Wei Xiao for listening to smaller men instead of choosing survival.
@@ -54,11 +59,11 @@ Hanji 710 shows the plan becoming effective and then costly. Lai Xi and other ge
 
 ## Qualifications
 
-This page is bounded to Hanji 698, Hanji 701, Hanji 705-1, Hanji 708, and Hanji 710. Hanji 698 supports Lai Xi's persuasion and hostage-request role but does not reconstruct every trip, exact wording, or Wei Xun's later treatment. Hanji 701 supports Lai Xi's envoy-risk and reputation layer, but Wang Zun, Niu Han, the western gentry, and the precise confrontation wording remain source-scoped. Hanji 705-1 backfills the Lüeyang operation but leaves exact route geography, Jin Liang, Wang Yuan, Xing Xun, Wang Meng, Niu Han, Li Yu, Tian Yan, and improvised weapon details source-scoped. Hanji 710 supports command-targeting and continuity claims, but it does not prove that Shu's wider Qiang-agitation plan succeeded.
+This page is bounded to Hanji 689-1, Hanji 698, Hanji 701, Hanji 705-1, Hanji 708, and Hanji 710. Hanji 689-1 supports Lai Xi's first courtship mission and isolate-Gongsun-Shu logic, but it does not reconstruct the exact envoy wording or all Wei Xiao adviser arguments. Hanji 698 supports Lai Xi's persuasion and hostage-request role but does not reconstruct every trip, exact wording, or Wei Xun's later treatment. Hanji 701 supports Lai Xi's envoy-risk and reputation layer, but Wang Zun, Niu Han, the western gentry, and the precise confrontation wording remain source-scoped. Hanji 705-1 backfills the Lüeyang operation but leaves exact route geography, Jin Liang, Wang Yuan, Xing Xun, Wang Meng, Niu Han, Li Yu, Tian Yan, and improvised weapon details source-scoped. Hanji 710 supports command-targeting and continuity claims, but it does not prove that Shu's wider Qiang-agitation plan succeeded.
 
 ## What Changed
 
-- Added Hanji 698 as Lai Xi's earliest current layer: repeated persuasion of Wei Xiao and the request that Wei Xun enter Luoyang.
+- Added Hanji 689-1 as Lai Xi's earliest current layer: first courtship of Wei Xiao through a Chang'an personal channel and the isolate-Gongsun-Shu rationale.
 - Preserved Hanji 701 as the dangerous envoy confrontation with Wei Xiao before open rebellion.
 - Preserved Hanji 705-1 as Lai Xi's first western-operation layer: the surprise capture and defense of Lüeyang.
 - Connected the Lüeyang holdout to the later Longxi/Tianshui plan as a repeated shield-removal strategy against Wei Xiao and Gongsun Shu.
@@ -66,8 +71,8 @@ This page is bounded to Hanji 698, Hanji 701, Hanji 705-1, Hanji 708, and Hanji 
 
 ## Relationships
 
-- [[LiuXiu|光武帝刘秀]] - ruler who uses Lai Xi first for Wei Xiao persuasion and later for western operational pressure.
-- [[WeiXiaoEasternHan|隗嚣]] - western rival whom Lai Xi first pressures through court-attendance and hostage requests, then rebukes as envoy, then pins at Lüeyang.
+- [[LiuXiu|光武帝刘秀]] - ruler who uses Lai Xi first for Wei Xiao courtship and later for western operational pressure.
+- [[WeiXiaoEasternHan|隗嚣]] - western rival whom Lai Xi first courts through personal connection, then pressures through court-attendance and hostage requests, then rebukes as envoy, then pins at Lüeyang.
 - [[WeiXunEasternHan|隗恂]] - hostage whose dispatch Lai Xi helps secure when Wei Xiao refuses to come personally.
 - [[GongsunShuEasternHan|公孙述]] - rival whose strategic shield Lai Xi seeks to remove.
 - [[EnvoyKillingTaboo|不斩来使]] - diplomatic norm made visible when Wei Xiao's camp is warned not to kill Lai Xi.

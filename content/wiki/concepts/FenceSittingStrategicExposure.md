@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz
   - zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff
   - zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8
+  - zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme
 last_updated: 2026-09-02
 ---
 
@@ -19,6 +20,8 @@ last_updated: 2026-09-02
 
 [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]] supplies the pre-test version: Wei Xiao can cooperate with Liu Xiu against Gongsun Shu and even kill Gongsun Shu's title-bearing envoy, but he still walks while watching and lacks a settled position. This turns fence-sitting from an immediately hostile act into a prior relationship defect: useful cooperation remains unstable when it does not become durable public alignment.
 
+The earlier courtship layer shows that exposure can exist even before refusal. [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|Hanji 689-1]] has Liu Xiu accepting Lai Xi's proposal to court Wei Xiao because Wei Xiao's alignment would isolate Gongsun Shu, then answering Wei Xiao with high courtesy. The pattern is already visible before refusal: courtesy and personal channels can open contact, but they do not remove exposure if the actor being courted remains suspicious and uncommitted.
+
 [[zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff|Hanji 698]] broadens the concept beyond Liu Biao by giving an early Eastern Han case. [[WeiXiaoEasternHan|Wei Xiao]] refuses [[LiuXiu|Liu Xiu]]'s request to attack [[GongsunShuEasternHan|Gongsun Shu]], cites [[LuFangEasternHan|Lu Fang]] and Sanfu weakness as reasons to delay, and sends [[WeiXunEasternHan|Wei Xun]] as hostage while still avoiding personal submission. His camp contains both [[WangYuanWeiXiaoRetainer|Wang Yuan]]'s holdout advice and [[ShentuGangEasternHan|Shentu Gang]]'s submission warning, but Wei Xiao keeps the middle position until people begin leaving.
 
 Hanji 1027 establishes the later concept through [[LiuBiao|刘表]]'s [[Jingzhou|荆州]] posture: he accepts title recognition from the Li-Guo-controlled court while staying close to [[YuanShao|袁绍]]. That posture can protect a region in the short run, but becomes exposure when southern commanderies and outside patrons can act before Liu Biao does.
@@ -28,7 +31,7 @@ Hanji 1036 brings the exposure into the immediate Yuan-Cao field. Yuan Shao asks
 ## Key Claims
 
 - Neutrality can be a short-term safety strategy without being a durable state-building strategy.
-- Fence-sitting can coexist with useful cooperation; the danger begins when cooperation does not become a clear and durable position.
+- Fence-sitting can coexist with courteous contact and useful cooperation; the danger begins when contact does not become a clear and durable position.
 - Partial credibility signals, such as hostage dispatch or envoy probes, cannot substitute for an actual alignment decision.
 - Local fissures make neutrality exploitable because outside powers can attach discontented subregions without conquering the whole territory.
 - Envoy probes cannot substitute for alignment decisions when the mission itself changes titles, duties, and perceived loyalties.
@@ -37,6 +40,8 @@ Hanji 1036 brings the exposure into the immediate Yuan-Cao field. Yuan Shao asks
 
 ## Evidence
 
+- Courted but exposed middle position: [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|Hanji 689-1]] says Liu Xiu courts Wei Xiao through Lai Xi because Wei Xiao's alignment would isolate Gongsun Shu.
+- Courtesy without closure: [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|Hanji 689-1]] says Liu Xiu treats Wei Xiao with unusually high ceremony while the source still marks Wei Xiao as suspicious.
 - Cooperative but unsettled position: [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]] says Wei Xiao helps Liu Xiu against Gongsun Shu and kills Gongsun Shu's envoy, while the host still frames him as watching step by step.
 - Relationship naming problem: [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]] describes the Wei Xiao-Liu Xiu relationship as "名不正，言不顺," making later trust fragile before open refusal.
 - Early Eastern Han middle position: [[zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff|Hanji 698]] shows Wei Xiao declining the Gongsun Shu campaign while citing Lu Fang and weak Sanfu conditions.
@@ -50,11 +55,11 @@ Hanji 1036 brings the exposure into the immediate Yuan-Cao field. Yuan Shao asks
 
 ## Counterevidence & Qualifications
 
-The sources do not deny that Wei Xiao's and Liu Biao's caution preserved real options for a time. Hanji 691 in particular shows Wei Xiao still providing real anti-Shu value before later refusal. Wei Xiao faced Gongsun Shu, Lu Fang, local obligations, and hostage risk; Liu Biao preserved local order in Jingzhou. The concept is therefore not a blanket rejection of caution. It names the point where caution becomes exposure: when other actors can convert the neutral space into leverage faster than the neutral actor can decide, integrate, submit, or exit.
+The sources do not deny that Wei Xiao's and Liu Biao's caution preserved real options for a time. Hanji 689-1 shows why Liu Xiu still had reason to court Wei Xiao, and Hanji 691 shows Wei Xiao still providing real anti-Shu value before later refusal. Wei Xiao faced Gongsun Shu, Lu Fang, local obligations, and hostage risk; Liu Biao preserved local order in Jingzhou. The concept is therefore not a blanket rejection of caution. It names the point where caution becomes exposure: when other actors can convert the neutral space into leverage faster than the neutral actor can decide, integrate, submit, or exit.
 
 ## What Changed
 
-- Added Hanji 691 as the pre-test Eastern Han case where useful cooperation still remains unstable because Wei Xiao has no settled public position.
+- Added Hanji 689-1 as the pre-cooperation courtship layer, showing that personal channels and high courtesy can open contact without resolving strategic exposure.
 - Added Hanji 698 as an early Eastern Han case where Wei Xiao's hostage-backed but noncommittal posture illustrates fence-sitting before open rebellion.
 - Preserved the existing Hanji 1027 Liu Biao source as the regional-fissure case.
 - Preserved Hanji 1036's Han Song-Liu Xian warning as the clearest advisory statement that Liu Biao's neutrality could alienate both Yuan Shao and Cao Cao.

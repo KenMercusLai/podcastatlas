@@ -17151,9 +17151,9 @@
       "url": "/wiki/concepts/femalereligiouslifespace/"
     },
     "FenceSittingStrategicExposure": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？ [ll-ebgUQLlSF_5YCvPDogihzN3lJ].md",
@@ -17182,6 +17182,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》691丨敢夺江山的隗嚣，为何注定输给刘秀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？ [lq1dq1SrOKORKZeiB_OaTtNI3sme].md",
+          "key": "zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme/"
         }
       ],
       "updated": "2026-09-02",
@@ -17435,9 +17442,9 @@
       "url": "/wiki/entities/fengtouquan/"
     },
     "FengYiEasternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？ [lqCkX-aClcHKZQqe3pTtnklu9Vot].md",
@@ -17473,6 +17480,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》691丨敢夺江山的隗嚣，为何注定输给刘秀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？ [lq1dq1SrOKORKZeiB_OaTtNI3sme].md",
+          "key": "zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme/"
         }
       ],
       "updated": "2026-09-02",
@@ -27655,9 +27669,9 @@
       "url": "/wiki/entities/laililatehan/"
     },
     "LaiXiEasternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -27693,6 +27707,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》698丨王朝兴衰启示录：韦敖的遗憾与今朝之镜",
           "url": "/wiki/sources/zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？ [lq1dq1SrOKORKZeiB_OaTtNI3sme].md",
+          "key": "zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme/"
         }
       ],
       "updated": "2026-09-01",
@@ -30483,9 +30504,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 28,
+      "episode_count": 29,
       "show_count": 2,
-      "source_note_count": 28,
+      "source_note_count": 29,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -30682,6 +30703,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家",
           "url": "/wiki/sources/zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？ [lq1dq1SrOKORKZeiB_OaTtNI3sme].md",
+          "key": "zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme/"
         }
       ],
       "updated": "2026-09-01",
@@ -46792,9 +46820,9 @@
       "url": "/wiki/concepts/surrendertrustbreakdown/"
     },
     "SuspicionDrivenEliteAlienation": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择 [lomRBxFFCu6eUaNtOZh2FjVrYkVA].md",
@@ -46823,6 +46851,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》691丨敢夺江山的隗嚣，为何注定输给刘秀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？ [lq1dq1SrOKORKZeiB_OaTtNI3sme].md",
+          "key": "zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme/"
         }
       ],
       "updated": "2026-09-02",
@@ -51023,9 +51058,9 @@
       "url": "/wiki/entities/weitenglatehan/"
     },
     "WeiXiaoEasternHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -51110,6 +51145,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》691丨敢夺江山的隗嚣，为何注定输给刘秀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？ [lq1dq1SrOKORKZeiB_OaTtNI3sme].md",
+          "key": "zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme/"
         }
       ],
       "updated": "2026-09-02",

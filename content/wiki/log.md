@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-01] ingest | 《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？
+
+Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 3 / 27 CE before Hanji 690-691: Liu Xiu's multi-front cleanup, Feng Yi's Guanzhong pacification under scarcity, Wu Han's injured morale recovery at Guangle, Cen Peng and Gai Yan's southern/eastern pressure, Geng Yan's northern plan, Li Xian's Lujiang claim, and Lai Xi's first Wei Xiao courtship strategy to isolate Gongsun Shu. Created the source note; updated `WeiXiaoEasternHan`, `LaiXiEasternHan`, `FengYiEasternHan`, `FenceSittingStrategicExposure`, `SuspicionDrivenEliteAlienation`, `index`, and `overview`. No settled contradiction found; 韦敖, 严琛, and 葛炎 are normalized to Wei Xiao, Yan Cen, and Gai Yan, while Deng Feng, Qin Feng, Liu Yong, Liu Yu, Zhu Hu, Su Jing, and minor campaign details remain source-scoped.
+
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》694丨《王命论》揭露东汉什么隐秘？
 
 Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 5 / 29 CE around Ban Biao's `王命论`: Wei Xiao's move from `求不败` toward total victory and kingship ambition, mandate-based title restraint, Liu Bang as a founding-capacity precedent, failed claimant warnings, Chen Ying and Wang Ling mother examples, and Ban Biao's exit to Dou Rong after rejected counsel. Created the source note; updated `BanBiaoEasternHan`, `WeiXiaoEasternHan`, `TitleRealityRestraint`, `index`, and `overview`. No settled contradiction found; the episode's destiny language and excerpted treatment of `王命论` remain source-scoped.
@@ -14843,6 +14847,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] ingest | The Mountains Choose You: Araceli Segarra on Adventure & Resilience | Shekhar Natarajan
 
 Ingested the 2026-09-01 Tomorrow Today episode with Araceli Segarra on Everest, the 1996 IMAX expedition, fear, uncertainty, team trust, rescue, resilience, and AI-era judgment. Added source `default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757`; created `AraceliSegarra`, `DavidBreshears`, `BeckWeathers`, `ColonelMadanEverestPilot`, `EverestIMAXExpedition`, `SummitAsTransformation`, `AdventureUncertaintyReframing`, `ExpeditionTeamTrust`, and `AIHowHumanWhyBoundary`; updated `ShekharNatarajan`, `TomorrowToday`, `ExtremeEnvironmentRiskManagement`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Aracely Sagara/Aracely is normalized to Araceli Segarra, while exact rescue chronology, Colonel Madan's full identity, David Breshears details, and full climbing biography remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 

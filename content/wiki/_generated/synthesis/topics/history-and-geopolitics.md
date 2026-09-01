@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-02
-as_of_overview_commit: d2474d21efd0cffa093ad79e97f3fad0414241ca
-input_digest: 34fe6b9ed2497f20d441c8130658fa35b114ff33158632015f33091c5f60640e
+as_of_overview_commit: dfbc53ba1efdef11df3ef87012b0221ac74304f5
+input_digest: e8adc70d331a830aa6fd823c96fed033da2ec713cb26bea7e6bb781413bb3a7a
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 689-2 and Hanji 689-3 now form a Western Han/Niya-Jingjue evidence layer: 689-2 anchors Jingjue in Han scale figures, Niya ruins, Kharosthi and Han documents, Stein's discovery-loss frame, qualified Supi pressure, and a brocade-phrase discrepancy against 689-3; 689-3 follows with the five-star brocade, omen politics, Zhao Chongguo campaign reading, Western Regions diplomacy, and multi-cause decline. The broader history branch continues to read power through legitimacy, institutions, logistics, alliances, frontier capacity, appointment quality, surrender credibility, and symbolic order.
+Hanji 689-1 adds an early Guangwu/Jianwu 3 layer before the Wei Xiao arc: Liu Xiu is still clearing multiple fronts while Lai Xi opens the first Wei Xiao courtship to isolate Gongsun Shu, and the source marks high courtesy as contact rather than settled allegiance because Wei Xiao remains suspicious. Hanji 689-2 and Hanji 689-3 separately form a Western Han/Niya-Jingjue evidence layer through Han documents, Niya ruins, Kharosthi materials, the five-star brocade, omen politics, Western Regions diplomacy, and qualified multi-cause decline. The broader history branch continues to read power through legitimacy, institutions, logistics, alliances, frontier capacity, appointment quality, surrender credibility, and symbolic order.
 
 ## Cross-source Findings
 
@@ -28,6 +28,18 @@ Hanji 689-2 and Hanji 689-3 now form a Western Han/Niya-Jingjue evidence layer: 
 - The current source notes differ between "利中国" and "立中国" for the brocade phrase, so the exact character remains unresolved here.
 - Hanji 689-3's gift-or-warning purpose, right-arm armguard explanation, and 2040-09-09 five-planet comparison remain bounded interpretations.
 - The combined Jingjue decline branch remains multi-causal: lost Han protection, regional annexation pressure, ecological drying, and long-term invasion pressure all remain in view.
+
+### Early Eastern Han 689 1 Guangwu Multifront Cleanup And Weixiao Courtship
+
+[[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|Hanji 689-1]] backfills Jianwu 3 / 27 CE before [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] and [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]]: [[LiuXiu]] is still clearing multiple fronts through [[FengYiEasternHan]], [[WuHanEasternHan]], [[CenPengEasternHan]], [[GengYanEasternHan]], [[YanCenEasternHan]], [[GaiYanEasternHan]], and [[LiXianLujiangEasternHan]], while [[LaiXiEasternHan]] proposes courting [[WeiXiaoEasternHan]] to isolate [[GongsunShuEasternHan]]. The source strengthens [[FenceSittingStrategicExposure]] and [[SuspicionDrivenEliteAlienation]] by showing that high courtesy and a personal channel can open contact without removing Wei Xiao's suspicious, unsettled middle position.
+
+**Evidence:** [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme]], [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk]], [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8]], [[LiuXiu]], [[FengYiEasternHan]], [[WuHanEasternHan]], [[CenPengEasternHan]], [[GengYanEasternHan]], [[YanCenEasternHan]], [[GaiYanEasternHan]], [[LiXianLujiangEasternHan]], [[LaiXiEasternHan]], [[WeiXiaoEasternHan]], [[GongsunShuEasternHan]], [[FenceSittingStrategicExposure]], [[SuspicionDrivenEliteAlienation]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 689-1 and backfills Jianwu 3 / 27 CE before Hanji 690 and Hanji 691, not a later reversal of the Wei Xiao arc.
+- Wei Xiao is only at the first courtship/contact stage here; the source marks suspicion and unsettled allegiance before later Hanji 691 cooperation and Hanji 698-704 refusal and rebellion.
+- Deng Feng, Qin Feng, Liu Yong, Liu Yu, Zhu Hu, Su Jing, Fu Ping, Huosuo, Zhang Han, Ren Liang, exact city names, and minor office titles remain source-scoped.
 
 ### Early Eastern Han 691 Weixiao Ma Yuan Ruler Comparison
 
