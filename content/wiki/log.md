@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-02] ingest | 《资治通鉴·汉纪》685丨东汉大臣宋弘，为何不肯做光武帝姐夫？
+
+Ingested the 2026-06-13 芮淇讲透资治通鉴 episode backfilling Jianwu 2 / 26 CE around Song Hong's Da Sikong appointment, Huan Tan music-favor correction, Princess Huyang marriage test, and Peng Chong's reward grievance, Yuyang resource base, Zhu Fu conflict, summons suspicion, and first rebellion move. Created the source note; updated `SongHongEasternHan`, `HuanTanEasternHan`, `HuyangPrincessEasternHan`, `ZhuFuEasternHan`, `GengKuangEasternHan`, `PengChongEasternHan`, `CoercedImperialMarriage`, `FoundingCommanderSuspicionManagement`, `ReceptiveRemonstranceGovernance`, `index`, and `overview`. No settled contradiction found; Yuyang, Ji, Peng Chong's wife and persuading kinsman, and exact office mechanics remain source-scoped.
+
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？
 
 Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 3 / 27 CE before Hanji 690-691: Liu Xiu's multi-front cleanup, Feng Yi's Guanzhong pacification under scarcity, Wu Han's injured morale recovery at Guangle, Cen Peng and Gai Yan's southern/eastern pressure, Geng Yan's northern plan, Li Xian's Lujiang claim, and Lai Xi's first Wei Xiao courtship strategy to isolate Gongsun Shu. Created the source note; updated `WeiXiaoEasternHan`, `LaiXiEasternHan`, `FengYiEasternHan`, `FenceSittingStrategicExposure`, `SuspicionDrivenEliteAlienation`, `index`, and `overview`. No settled contradiction found; 韦敖, 严琛, and 葛炎 are normalized to Wei Xiao, Yan Cen, and Gai Yan, while Deng Feng, Qin Feng, Liu Yong, Liu Yu, Zhu Hu, Su Jing, and minor campaign details remain source-scoped.
@@ -14907,6 +14911,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] ingest | 679. Germany: The Song Hitler Stole (Part 3)
 
 Ingested the 2026-06-14 The Rest Is History episode on Das Lied der Deutschen, Haydn's imperial tune, Hoffmann's liberal nationalism, Weimar adoption, Nazi first-verse appropriation, West Germany's third-verse compromise, East Germany's Auferstanden aus Ruinen, reunification alternatives, and World Cup patriotism. Added source `679-germany-the-song-hitler-stole-part-3-glt6217148052`; created `GermanNationalAnthem`, `JosefHaydn`, `AugustHeinrichHoffmannVonFallersleben`, `WeimarRepublic`, `FriedrichEbert`, `WestGermany`, `EastGermany`, `KonradAdenauer`, `TheodorHeuss`, `AuferstandenAusRuinen`, `HorstWesselLied`, `Kinderhymne`, and `SelectiveAnthemCanonization`; updated `Germany`, `TheRestIsHistory`, `NationalAnthemPoliticalPlasticity`, `RegimeSymbolContinuity`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; first-verse legal status, 1954 broadcast details, East German public feeling, and reunification anthem alternatives remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 

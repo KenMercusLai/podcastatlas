@@ -4,8 +4,8 @@ generated: true
 topic_id: ai-and-technology
 title: "AI and Technology"
 last_updated: 2026-09-02
-as_of_overview_commit: 032eca018d71a1f5f1ff7a175ec5b160959ca5b5
-input_digest: ff32e0dab33330c8a3072f3754dfe5d6031a53fe57e81c38735f42bb1373173b
+as_of_overview_commit: 0b97064206b131826b49dfb2c0204251ee918132
+input_digest: 64a8068320d7d401268a04383bcd0812fa25e8334ef6083c8a94b8230c4c4aff
 ---
 
 # AI and Technology
@@ -226,14 +226,14 @@ AI-related investing claims require market discipline: [[AIEquityValuationRisk]]
 
 ### Deterministic Routing Can Surface Off Topic Material
 
-The current AI topic input includes [[MiHengLateHan]], [[BorrowedKnifeKilling]], [[PoliticalSurvivalFirst]], [[CovertPoliticalTechnology]], and the [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] Empress Ma paragraph through deterministic routing, but these paragraphs concern late-Han reputation management, delegated violence, and [[OuterRelativePreventiveRestraint]] rather than AI systems.
+The current AI topic input includes [[zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2|Hanji 685]], [[MiHengLateHan]], [[BorrowedKnifeKilling]], [[PoliticalSurvivalFirst]], [[CovertPoliticalTechnology]], and the [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] Empress Ma paragraph through deterministic routing, but these paragraphs concern early Guangwu remonstrance, marriage restraint, rebellion suspicion, late-Han reputation management, delegated violence, and [[OuterRelativePreventiveRestraint]] rather than AI systems.
 
-**Evidence:** [[MiHengLateHan]], [[BorrowedKnifeKilling]], [[PoliticalSurvivalFirst]], [[CovertPoliticalTechnology]], [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z]], [[OuterRelativePreventiveRestraint]], [[EmpressMaMingdeEasternHan]], [[EmperorZhangOfHan]], [[TopDownExemplarGovernance]]
+**Evidence:** [[zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2]], [[SongHongEasternHan]], [[PengChongEasternHan]], [[MiHengLateHan]], [[BorrowedKnifeKilling]], [[PoliticalSurvivalFirst]], [[CovertPoliticalTechnology]], [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z]], [[OuterRelativePreventiveRestraint]], [[EmpressMaMingdeEasternHan]], [[EmperorZhangOfHan]], [[TopDownExemplarGovernance]]
 
 **Qualifications:**
 
 - This is a topic-maintenance note, not an AI-domain finding.
-- Hanji 748 is included because deterministic topic routing scored broad current-synthesis language across topics; it should not be read as AI evidence.
+- Hanji 685 and Hanji 748 are included because deterministic topic routing scored broad current-synthesis language across topics; they should not be read as AI evidence.
 
 ### Ai Expression Value Shifts To Human Presence
 

@@ -33,6 +33,32 @@
     },
     {
       "global_candidate": false,
+      "id": "early-eastern-han-685-song-hong-restraint-and-peng-chong-rebellion-origin",
+      "qualifications": [
+        "The source backfills Jianwu 2 / 26 CE and should be read as origin context before Hanji 686-688 and Hanji 693 rather than as the full Peng Chong endgame.",
+        "Yuyang resource mechanics, Ji city details, Peng Chong's wife and kinsman, and exact office logistics remain source-scoped.",
+        "Song Hong's princess-marriage refusal is evidence of Liu Xiu's accepted-restraint boundary, not a general rule that imperial marriage interest was always non-coercive."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2|Hanji 685]] moves the early Guangwu branch back to Jianwu 2 / 26 CE before [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|Hanji 686]]: [[SongHongEasternHan]] becomes Da Sikong, recommends and then corrects [[HuanTanEasternHan]] over court music favor, and refuses [[HuyangPrincessEasternHan]] marriage through the accepted \"糟糠之妻不下堂\" answer. The same source sets up [[PengChongEasternHan]] rebellion from unrewarded founding expectations, Yuyang iron and grain resources, conflict with [[ZhuFuEasternHan]], summons suspicion, household advice, and [[GengKuangEasternHan]]'s refusal to join under [[FoundingCommanderSuspicionManagement]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2",
+        "zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc",
+        "SongHongEasternHan",
+        "HuanTanEasternHan",
+        "HuyangPrincessEasternHan",
+        "LiuXiu",
+        "PengChongEasternHan",
+        "ZhuFuEasternHan",
+        "GengKuangEasternHan",
+        "FoundingCommanderSuspicionManagement",
+        "ReceptiveRemonstranceGovernance",
+        "CoercedImperialMarriage",
+        "WangLangHebeiClaimant"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "hanji-687-guangwu-chimei-guanzhong-surrender-first-pacification",
       "qualifications": [
         "The Lu Zhi corpse-violation report is retained as a historical-record tradition with uncertain factual status, not as a fact asserted by the wiki.",
@@ -4243,8 +4269,8 @@
       ]
     }
   ],
-  "input_digest": "40ccf8816d28c35002a3e8843bf05904bc4b186cd2f47dec25e9b29ad8539d26",
-  "summary": "Hanji 687 now adds the earliest current Guangwu/Jianwu 2 Guanzhong layer: Chimei grave looting and the source-scoped Lu Hou corpse tradition mark ritual collapse, Deng Yu already shows command deterioration under famine pressure, Wu Han's rough Nanyang conduct helps trigger Deng Feng rebellion, and Liu Xiu centers surrender-first pacification through Feng Yi before the Hanji 688 final Chimei settlement. Hanji 688 then adds Jianwu 3 defeat, mass surrender, provisioning, Fu Long's Zhang Bu mission, and Peng Chong's exposed Yan claim; Hanji 689-1 continues the adjacent Wei Xiao courtship and multi-front cleanup layer. Hanji 689-2 and Hanji 689-3 separately form a Western Han/Niya-Jingjue evidence layer through Han documents, Niya ruins, Kharosthi materials, the five-star brocade, omen politics, Western Regions diplomacy, and qualified multi-cause decline. The Germany anthem episode adds a European historical-memory branch where Haydn melody and Hoffmann liberal lyrics move through Weimar, Nazi, West/East German, and reunification contexts, turning public anthem use into a selective-continuity problem.",
+  "input_digest": "12ee318e6bf12160b6b3021fc5d4e587e1d95060c77e17b14aaca95ce67b4c9a",
+  "summary": "Hanji 685 now adds the earliest current Guangwu/Jianwu 2 layer: Song Hong's Da Sikong appointment, Huan Tan correction, accepted Princess Huyang marriage refusal, and Peng Chong's unrewarded Youzhou resource base show moral restraint and rebellion risk forming before the later Chimei and Peng Chong endgame branches. Hanji 687 adds the adjacent Guanzhong layer: Chimei grave looting and the source-scoped Lu Hou corpse tradition mark ritual collapse, Deng Yu already shows command deterioration under famine pressure, Wu Han's rough Nanyang conduct helps trigger Deng Feng rebellion, and Liu Xiu centers surrender-first pacification through Feng Yi before the Hanji 688 final Chimei settlement. Hanji 688 then adds Jianwu 3 defeat, mass surrender, provisioning, Fu Long's Zhang Bu mission, and Peng Chong's exposed Yan claim; Hanji 689-1 continues the adjacent Wei Xiao courtship and multi-front cleanup layer. Hanji 689-2 and Hanji 689-3 separately form a Western Han/Niya-Jingjue evidence layer through Han documents, Niya ruins, Kharosthi materials, the five-star brocade, omen politics, Western Regions diplomacy, and qualified multi-cause decline. The Germany anthem episode adds a European historical-memory branch where Haydn melody and Hoffmann liberal lyrics move through Weimar, Nazi, West/East German, and reunification contexts, turning public anthem use into a selective-continuity problem.",
   "title": "History and Geopolitics",
   "topic_id": "history-and-geopolitics"
 }

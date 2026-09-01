@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-02
-as_of_overview_commit: ef639a765dc423af56fd36aaa01a74e373dd93ad
-input_digest: 2634eefb0217f2c018c487d7737177d6b5c84984b47aacdf917ba95930a020fc
+as_of_overview_commit: 0b97064206b131826b49dfb2c0204251ee918132
+input_digest: 8652f5bc1bcbf133cd14412c577723f3e160a4bca35e6ff20733b2cfc9878c0c
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 699 PLUS adds a source-scoped Guangwu governance frame: Liu Xiu ruler capacity is read through Taixue learning, broad personnel use, Wang Lang letter-burning trust repair, non-purge treatment of merit holders, and cultivation as the condition for turning ability into stable rule. The existing governance synthesis still centers on legitimacy and institutional capacity: surrender credibility, frontier diplomacy, office quality, correction mechanisms, legal and biometric boundaries, health-product identity, disaster response, sport institutions, ritual institutions, and public symbols are treated as capacity problems rather than isolated policy events. The German anthem episode adds a public-symbol governance case in which state continuity depends on selective convention: Germany keeps Das Lied der Deutschen by making the third verse the singable national settlement after Nazi contamination and division-era alternatives.
+Hanji 685 adds a source-scoped Guangwu governance frame before the later consolidation branches: Song Hong's correction of Huan Tan and accepted refusal of Princess Huyang show remonstrance and restraint working inside court favor, while Peng Chong's reward grievance, Yuyang resources, Zhu Fu conflict, summons suspicion, and Geng Kuang's refusal show how local autonomy can become rebellion risk. Hanji 699 PLUS still supplies the broader ruler-capacity frame: Liu Xiu is read through Taixue learning, broad personnel use, Wang Lang letter-burning trust repair, non-purge treatment of merit holders, and cultivation as the condition for turning ability into stable rule. The existing governance synthesis still centers on legitimacy and institutional capacity: surrender credibility, frontier diplomacy, office quality, correction mechanisms, legal and biometric boundaries, health-product identity, disaster response, sport institutions, ritual institutions, and public symbols are treated as capacity problems rather than isolated policy events. The German anthem episode adds a public-symbol governance case in which state continuity depends on selective convention: Germany keeps Das Lied der Deutschen by making the third verse the singable national settlement after Nazi contamination and division-era alternatives.
 
 ## Cross-source Findings
 
@@ -27,6 +27,18 @@ Hanji 699 PLUS adds a source-scoped Guangwu governance frame: Liu Xiu ruler capa
 - The claim is source-scoped to one narrative-history episode and does not settle German constitutional or criminal-law details.
 - First-verse legality, 1954 broadcast reports, East German public feeling, and reunification alternatives remain bounded to the source note.
 - The mechanism is selective convention, not a claim that old anthem material was erased or legally banned.
+
+### Early Eastern Han 685 Remonstrance Marriage Restraint And Rebellion Risk
+
+[[zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2|Hanji 685]] adds an early [[LiuXiu]] governance case where accepted correction and restraint coexist with reward and summons risk: [[SongHongEasternHan]] converts [[HuanTanEasternHan]]'s court music favor into [[ReceptiveRemonstranceGovernance]], Liu Xiu accepts Song Hong's refusal of [[HuyangPrincessEasternHan]] under [[CoercedImperialMarriage]] as a non-coercive boundary, while [[PengChongEasternHan]] turns unrewarded merit expectations, Yuyang iron-and-grain autonomy, conflict with [[ZhuFuEasternHan]], and [[GengKuangEasternHan]]'s refusal into a [[FoundingCommanderSuspicionManagement]] problem.
+
+**Evidence:** [[zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2]], [[LiuXiu]], [[SongHongEasternHan]], [[HuanTanEasternHan]], [[ReceptiveRemonstranceGovernance]], [[HuyangPrincessEasternHan]], [[CoercedImperialMarriage]], [[PengChongEasternHan]], [[ZhuFuEasternHan]], [[GengKuangEasternHan]], [[FoundingCommanderSuspicionManagement]]
+
+**Qualifications:**
+
+- The governance claim is source-scoped to Hanji 685's Jianwu 2 backfill and does not settle the whole Peng Chong rebellion.
+- The Song Hong marriage episode is a non-coercive contrast within Liu Xiu's court, not evidence that imperial marriage interest was structurally harmless.
+- Yuyang commandery resources, iron-office trade, grain acquisition, and summons procedure remain source-scoped pending comparison with transmitted histories.
 
 ### Early Eastern Han 699 Plus Trust And Cultivated Governance
 

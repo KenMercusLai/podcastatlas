@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9eb70e1ea6fe89aabc151042f3e3e37b6a215f75972df7e4d8be87226172b7b2",
       "207e8587f5106b7c29559ce9186b2fc9fbb301708fb4ff1fb2a3313e6e7a8b94",
       "b700e0dee012a1e272f3f6a610df05fa8fe58f55685e85e7f836bc81eee8f21b",
       "df662b6d4e1a8c65ad51d986ad3cac8a9631b14df4a8744c7c1329ce1626aa1c",
@@ -504,11 +505,39 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 502
+    "paragraph_count": 503
   },
-  "overview_commit": "705338e38ec762b1755e8ea5976bf8c105fafb44",
-  "overview_digest": "3ebf122af9dfd56da2d7839d0b9e0b38961fd856954bdf6bad95875bd490e0d8",
+  "overview_commit": "0b97064206b131826b49dfb2c0204251ee918132",
+  "overview_digest": "81df05c4631c4e47436a0c829933da1e2286086199a46887d55f971772d4c326",
   "paragraphs": [
+    {
+      "id": "9eb70e1ea6fe89aabc151042f3e3e37b6a215f75972df7e4d8be87226172b7b2",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2|《资治通鉴·汉纪》685丨东汉大臣宋弘，为何不肯做光武帝姐夫？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 2 / 26 CE immediately before [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|Hanji 686]]. It extends [[SongHongEasternHan|宋弘]], [[HuanTanEasternHan|桓谭]], [[HuyangPrincessEasternHan|湖阳公主]], [[PengChongEasternHan|彭宠]], [[ZhuFuEasternHan|朱浮]], [[GengKuangEasternHan|耿况]], [[CoercedImperialMarriage|强制赐婚]], [[ReceptiveRemonstranceGovernance|纳谏转政策式治理]], and [[FoundingCommanderSuspicionManagement|建国将领消疑]]. Its core synthesis is that early Guangwu consolidation is already balancing moral restraint and coalition suspicion: Song Hong can correct court pleasure and refuse a princess marriage without coercion, while Peng Chong's reward grievance, Yuyang resources, Zhu Fu conflict, and reinforced local advice turn a founding supporter toward rebellion. No settled contradiction is recorded; Yuyang commandery resources, Ji city, Peng Chong's wife and kinsman, and exact office mechanics remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CoercedImperialMarriage",
+        "FoundingCommanderSuspicionManagement",
+        "GengKuangEasternHan",
+        "HuanTanEasternHan",
+        "HuyangPrincessEasternHan",
+        "PengChongEasternHan",
+        "ReceptiveRemonstranceGovernance",
+        "RuiqiJiangtouZizhiTongjian",
+        "SongHongEasternHan",
+        "ZhuFuEasternHan",
+        "zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2",
+        "zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc"
+      ]
+    },
     {
       "id": "207e8587f5106b7c29559ce9186b2fc9fbb301708fb4ff1fb2a3313e6e7a8b94",
       "primary_topic": "governance-and-institutions",
