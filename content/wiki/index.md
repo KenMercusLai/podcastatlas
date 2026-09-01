@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》705-3丨古代特种兵班超，一个敢于单枪匹马深入敌背的传奇](sources/zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc.md) — 芮淇讲透资治通鉴 episode recapping Ban Chao's early Western Regions arc through Shanshan shock diplomacy, Khotan shaman politics, Shule regime restoration, and the recall crisis after Mingdi's death.
 - [《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家](sources/zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7.md) — 芮淇讲透资治通鉴 episode on Ban Chao's late Western Regions strategy, Qiuci/Yanqi key-node diagnosis, Wusun contact, Shache deception, Yuezhi/Kushan supply-line defeat, Qiuci submission, Dingyuan marquisate, and final Luoyang return.
 - [《资治通鉴·汉纪》705-5丨班昭：续编《汉书》，史笔千秋第一人](sources/zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e.md) — 芮淇讲透资治通鉴 episode on Ban Zhao's Ban-family learning, Ban Gu's unfinished `Han Shu`, Emperor He's Dongguan commission, Ma Rong's learning scene, palace teaching, and Deng Sui prelude.
 - [《资治通鉴·汉纪》705-6丨班昭：三次一鸣惊人，闺蜜干政NO.1](sources/zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm.md) — 芮淇讲透资治通鉴 episode on Ban Zhao's literary recognition, `Han Shu` teaching, Ban Chao petition, Deng-regency advice, and contested `Nujie` legacy.

@@ -5,7 +5,8 @@ knowledge_schema: synthesis-v1
 tags: [frontier, duty, governance, eastern-han, leadership]
 sources:
   - zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi
-last_updated: 2026-08-31
+  - zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc
+last_updated: 2026-09-01
 ---
 
 ## Definition
@@ -14,7 +15,7 @@ last_updated: 2026-08-31
 
 ## Current Synthesis
 
-Hanji 747 defines the concept through [[BanChaoEasternHan|Ban Chao]]'s recall crisis. The court withdraws Western Regions offices and calls him back, but the reaction in [[ShuleKingdom|Shule]] and [[KhotanKingdomLateHan|Khotan]] shows that his presence has become a practical security guarantee. Shule's duwei Li kills himself, Khotan's ruler and ministers hold Ban Chao's horse and plead for him to stay, and Shule cities begin defecting toward [[QiuciKingdom|Qiuci]] and Wutou.
+Hanji 747 defines the concept through [[BanChaoEasternHan|Ban Chao]]'s recall crisis. The court withdraws Western Regions offices and calls him back, but the reaction in [[ShuleKingdom|Shule]] and [[KhotanKingdomLateHan|Khotan]] shows that his presence has become a practical security guarantee. Shule's duwei Li kills himself, Khotan's ruler and ministers hold Ban Chao's horse and plead for him to stay, and Shule cities begin defecting toward [[QiuciKingdom|Qiuci]] and Wutou. [[zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc|Hanji 705-3]] reinforces the same judgment by placing the recall after Mingdi's death, court mourning limits, drought, and renewed Western Regions pressure.
 
 Ban Chao's return to Shule is therefore not a generic refusal to obey the center. The source frames it as responsibility to the mission's actual object: preserving a fragile frontier order after the formal support structure has been pulled away. Once back, he kills the rebels, defeats Wutou, and restores Shule's stability. The concept stays narrower than general courage or ambition; it names the moment when a capable actor refuses to let bureaucratic exit produce immediate collapse.
 
@@ -33,14 +34,16 @@ Ban Chao's return to Shule is therefore not a generic refusal to obey the center
 - Local dependency: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] records Shule's fear, duwei Li's suicide, and Khotan's plea that they depend on the Han envoy like parents.
 - Collapse signal: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says two Shule cities defect to Qiuci and align with Wutou once Ban Chao is leaving.
 - Return and stabilization: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says Ban Chao returns, kills rebels, defeats Wutou, and restores Shule's peace.
+- Recap and court-pressure frame: [[zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc|Hanji 705-3]] repeats Shule and Khotan's pleas while adding the mourning, drought, and renewed instability context behind the court's recall order.
 
 ## Counterevidence & Qualifications
 
-The concept does not claim that commanders should routinely ignore recall orders. Hanji 747 presents a specific emergency where departure immediately destabilizes local allies. Later Ban Chao sources add the qualification that personal frontier authority can be hard to transfer: [[zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd|Hanji 774]] and [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]] show the handoff and withdrawal problem after his final return.
+The concept does not claim that commanders should routinely ignore recall orders. Hanji 747 presents a specific emergency where departure immediately destabilizes local allies, and Hanji 705-3 is a corroborating recap rather than permission to generalize from heroism alone. Later Ban Chao sources add the qualification that personal frontier authority can be hard to transfer: [[zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd|Hanji 774]] and [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]] show the handoff and withdrawal problem after his final return.
 
 ## What Changed
 
 - Created the concept from Hanji 747's Ban Chao recall, local panic, return, and Shule stabilization sequence.
+- Added Hanji 705-3 as corroborating recap that clarifies the court-pressure setting behind the recall.
 
 ## Related Concepts
 

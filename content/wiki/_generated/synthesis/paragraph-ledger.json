@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "f227651f7f0ff51208dc5e295d7f48b923867b956e7cfcbbe174b8ccfa05f8bb",
       "368dd996da162a9dfaed7145238c392d7480b5aeda76c9f7519357934d13b6ca",
       "74f3b35028c007c99d975da3f803ca5de08e48ce0dd19c8d5e8d6d359798936e",
       "d66232241719a12b80772b9920915f51ac2f7f762c9f503e1a79da5858f4b1e8",
@@ -472,11 +473,38 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 470
+    "paragraph_count": 471
   },
-  "overview_commit": "1d05ead17324501a9dc887496868325e0122c9d3",
-  "overview_digest": "19f75a1c4360fc1f5af90c64e7da40160591d3ee0fd368f755479e3ee1e311fe",
+  "overview_commit": "c3157252e7ae4ab3d32d6e93cefaf382d62f28e5",
+  "overview_digest": "7beccf4a1796c3d895a444f83a493622d0ae00ee1ccc5dd38f73d6cf175b5e49",
   "paragraphs": [
+    {
+      "id": "f227651f7f0ff51208dc5e295d7f48b923867b956e7cfcbbe174b8ccfa05f8bb",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc|《资治通鉴·汉纪》705-3丨古代特种兵班超，一个敢于单枪匹马深入敌背的传奇]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode recapping [[BanChaoEasternHan|班超]]'s early Western Regions arc before the late-strategy capstone in [[zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7|Hanji 705-4]]. It extends [[BanChaoEasternHan|班超]], [[AdvantageFirstCombatDoctrine|先胜后战式兵法]], [[MissionDrivenFrontierResponsibility|使命驱动的边疆责任]], and [[FrontierProxyConquestStrategy|以夷攻夷式边疆策略]], while reinforcing [[DouGuEasternHan|窦固]], [[EmperorMingOfHan|汉明帝]], [[EmperorZhangOfHan|汉章帝]], [[ShanshanKingdomLateHan|鄯善国]], [[KhotanKingdomLateHan|于阗国]], [[ShuleKingdom|疏勒]], [[QiuciKingdom|龟兹]], and [[NorthernXiongnuLateHan|北匈奴]]. Its core synthesis is that Ban Chao's early success is not simple bravery: the episode links military preemption, psychological shock, religious-authority disruption, local legitimacy, and refusal to abandon dependent allies into one small-contingent frontier pattern. No settled contradiction is recorded; Guo Xun, Tian Lu, Duti, the unnamed Khotan shaman, exact casualty figures, and the \"two years to reopen the Silk Road\" framing remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "AdvantageFirstCombatDoctrine",
+        "BanChaoEasternHan",
+        "DouGuEasternHan",
+        "EmperorMingOfHan",
+        "EmperorZhangOfHan",
+        "FrontierProxyConquestStrategy",
+        "KhotanKingdomLateHan",
+        "MissionDrivenFrontierResponsibility",
+        "NorthernXiongnuLateHan",
+        "QiuciKingdom",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShanshanKingdomLateHan",
+        "ShuleKingdom",
+        "zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc",
+        "zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7"
+      ]
+    },
     {
       "id": "368dd996da162a9dfaed7145238c392d7480b5aeda76c9f7519357934d13b6ca",
       "primary_topic": "governance-and-institutions",

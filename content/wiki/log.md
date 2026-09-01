@@ -14627,3 +14627,11 @@ Ingested the 2026-06-18 芮淇讲透资治通鉴 episode synthesizing Ban Chao's
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 《资治通鉴·汉纪》705-3丨古代特种兵班超，一个敢于单枪匹马深入敌背的传奇
+
+Ingested the 2026-06-18 芮淇讲透资治通鉴 episode recapping Ban Chao's early Western Regions arc from Dou Gu's army through Shanshan, Khotan, Shule, and the recall crisis after Mingdi's death. Added source `zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc`; updated `BanChaoEasternHan`, `AdvantageFirstCombatDoctrine`, `MissionDrivenFrontierResponsibility`, `FrontierProxyConquestStrategy`, overview, and index. No settled contradiction found; Guo Xun, Tian Lu, Duti, the unnamed Khotan shaman, exact casualty figures, and the "two years to reopen the Silk Road" framing remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 16,730 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges while lint scanned 16,730 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL`, `ANTHROPIC_API_KEY`, and `OPENAI_API_KEY` are unset in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.

@@ -2,6 +2,33 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "late-han-705-3-ban-chao-opening-western-regions-recap",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 705-3 and functions as an integrative recap of early Ban Chao material already narrowed by Hanji 742, Hanji 743, and Hanji 747.",
+        "Guo Xun, Tian Lu, Duti, the unnamed Khotan shaman, exact casualty figures, and the two-years-to-reopen-the-Silk-Road framing remain source-scoped.",
+        "The source reinforces small-contingent frontier judgment; it does not establish a general rule that tiny envoy teams can replace armies or that recall orders should normally be ignored."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc|Hanji 705-3]] backfills [[BanChaoEasternHan]]'s early Western Regions arc before [[zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7|Hanji 705-4]]: under [[DouGuEasternHan]] and [[EmperorMingOfHan]], Ban Chao proves military judgment, uses a thirty-six-person mission to reverse [[ShanshanKingdomLateHan]] and [[KhotanKingdomLateHan]] against [[NorthernXiongnuLateHan]] through [[AdvantageFirstCombatDoctrine]], restores [[ShuleKingdom]] by exploiting [[QiuciKingdom]]-backed Duti's weak local legitimacy within [[FrontierProxyConquestStrategy]], and later treats [[EmperorZhangOfHan]]'s recall as bounded by [[MissionDrivenFrontierResponsibility]] when Shule and Khotan fear collapse.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc",
+        "zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7",
+        "BanChaoEasternHan",
+        "DouGuEasternHan",
+        "EmperorMingOfHan",
+        "EmperorZhangOfHan",
+        "ShanshanKingdomLateHan",
+        "KhotanKingdomLateHan",
+        "ShuleKingdom",
+        "QiuciKingdom",
+        "NorthernXiongnuLateHan",
+        "AdvantageFirstCombatDoctrine",
+        "FrontierProxyConquestStrategy",
+        "MissionDrivenFrontierResponsibility"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "early-eastern-han-707-security-submission-and-xicheng-reversal",
       "qualifications": [
         "This claim is source-scoped to Hanji 707 and records a chronological backfill before the already-generated Hanji 709 and Hanji 711 sequence.",
@@ -3718,7 +3745,7 @@
       ]
     }
   ],
-  "input_digest": "b123a6ad9fa3b45d2e7210f7736d68784361441831fc1f0413a76957e0b64a45",
-  "summary": "Hanji 707, Hanji 709, and Hanji 710 now move the early Eastern Han historical branch back to Jianwu 8-11 / 32-35 CE before Hanji 711: Hanji 707 frames Dou Rong's security-for-authority submission, Wei Xiao's refused surrender, Wu Han and Cen Peng's Xicheng logistics failure, Kou Xun's Yingchuan pacification, and Zhang Bu's late flight; Hanji 709 links hostage-ransom deterrence, Yin-family outer-relative restraint, Guo Ji's Yingchuan trust-based surrender policy, and the Gaoping surrender forced by Kou Xun's killing of Huangfu Wen; and Hanji 710 connects Lai Xi's Longyou road-opening and assassination, Huan An's command targeting, Bao Yong's royal-kin enforcement, and Cen Peng's water-command and bridge-breaking setup for the Shu tempo breakthrough. Hanji 712-713 then moves the branch to the Jianwu 12 / 36 CE Shu campaign: Liu Xiu diagnoses Wu Han and Liu Shang's separated-camp risk before Chengdu, Wu Han survives by restoring concentration and later accepts Zhang Kan's anti-retreat advice, Gongsun Shu relies on Yan Cen's last counterattack before the final Chengdu collapse, and Hanji 713 turns victory into a conquest-legitimacy test through surrender, post-surrender atrocity, rebuke, scholar honors, repayment, and local incorporation. Hanji 724 backfills the late Guangwu historical branch to 47-48 CE through Wuling Man, Ma Yuan, Southern Xiongnu submission, Geng Guo's buffer policy, and delayed immediate war. Hanji 726 supplies the 49 CE Ma Yuan slander, Zhu Bo corrective memorial, Zong Jun surrender settlement, and Wuhuan protector-office layer before Hanji 727. Hanji 729 backfills the 52-54 CE branch before Hanji 730 through Ban Biao's Northern Xiongnu reading and Liu Xiu's early Taishan fengshan refusal. Hanji 730 remains the next late Guangwu layer; Roman Civil War Part 1 adds a Roman-Republic crisis branch; South Africa/Mandela adds a twentieth-century reconciliation-symbol branch; Hanji 733-2 moves the Eastern Han branch back to Liu Xiu founding before Yongping; and Hanji 733-3 adds a classical-text reception branch through HanyaoFu, fate, timing, and reversal.",
+  "input_digest": "ea4b677854c074572ba18b048ea72b6c68ce35030885f37b120f332f8e5f4ce2",
+  "summary": "Hanji 705-3 and Hanji 705-4 now bracket Ban Chao's Western Regions arc: Hanji 705-3 integrates the early Shanshan, Khotan, Shule, and recall-crisis sequence as small-contingent frontier judgment, while Hanji 705-4 supplies the later key-node, proxy, supply, and diplomatic capstone. Hanji 707, Hanji 709, and Hanji 710 move the early Eastern Han historical branch back to Jianwu 8-11 / 32-35 CE before Hanji 711; Hanji 712-713 then move the branch to the Jianwu 12 / 36 CE Shu campaign and its conquest-legitimacy problem. Hanji 724, Hanji 726, Hanji 729, and Hanji 730 backfill late Guangwu frontier, Ma Yuan, Xiongnu, Wuhuan, Ban Biao, and Taishan-fengshan layers; Hanji 733-2 moves the branch back to Liu Xiu founding before Yongping; and Hanji 733-3 adds a classical-text reception branch through HanyaoFu, fate, timing, and reversal. Roman Civil War Part 1 adds a Roman-Republic crisis branch, and South Africa/Mandela adds a twentieth-century reconciliation-symbol branch.",
   "topic_id": "history-and-geopolitics"
 }
