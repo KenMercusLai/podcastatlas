@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8e22874a34a0e3b1828841ae90e95ca2709e2612a10ff3930235117f938a5086",
       "bc6d5f37a1d97fc04317ef9374b8e6c99be98feda874d44bbecc15acbf3f8f8b",
       "9265a6c707781879103b35cf5345d764ca2a294e07633a3a8e15f116e2b840e7",
       "56f3fd27cb7daf6338efa884f2103db89302d8d5ef0cd99a943521ff98ae1d31",
@@ -495,11 +496,33 @@
       "5ba1c7a478b342521c54a704f3662e19b3e2e992a9e88c2a01eb72bc8c596387",
       "9d36904e555be9bd3a64051aec40ec50d074a0fe33f5d94a41cd1392f151a764"
     ],
-    "paragraph_count": 493
+    "paragraph_count": 494
   },
-  "overview_commit": "e3d560b16619a70f934df2a160a0cd385275e487",
-  "overview_digest": "45abb95094b3783cf4c174d629a3079e195664c87f0778b8968b3d51252cefcb",
+  "overview_commit": "c6fe7d48748fefa1a1153dbfa952cc3c2c425172",
+  "overview_digest": "c7a682d1ca5eb79341190de3bbf95f81d4fe77837ad07e202cc6be31ef0aa825",
   "paragraphs": [
+    {
+      "id": "8e22874a34a0e3b1828841ae90e95ca2709e2612a10ff3930235117f938a5086",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|《资治通鉴·汉纪》691丨敢夺江山的隗嚣，为何注定输给刘秀？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the early [[WeiXiaoEasternHan|隗嚣]] alignment layer before [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|Hanji 692]] and the later Hanji 698-704 breakaway sequence. It extends [[MaYuanEasternHan|马援]], [[GongsunShuEasternHan|公孙述]], [[LiuXiu|光武帝刘秀]], [[FengYiEasternHan|冯异]], [[WeiXiaoEasternHan|隗嚣]], [[FenceSittingStrategicExposure|骑墙式战略暴露]], and [[SuspicionDrivenEliteAlienation|猜疑驱动的士族离心]]. Its core synthesis is that Wei Xiao's failure begins while he is still useful to Liu Xiu: Ma Yuan's Gongsun Shu/Liu Xiu comparison exposes the talent-attraction gap between guarded ceremonial display and unguarded imperial bearing, Liu Xiu tries to stabilize Wei Xiao with handwritten trust, and Wei Xiao's anti-Shu cooperation still lacks a durable named position. No settled contradiction is recorded; Qin Feng, Zhu Hu, Fu Jun, Li Yu, Cheng Yan, Lü Wei, Chen Jun, Taishan commandery, and exact title logistics remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "FenceSittingStrategicExposure",
+        "FengYiEasternHan",
+        "GongsunShuEasternHan",
+        "LiuXiu",
+        "MaYuanEasternHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuspicionDrivenEliteAlienation",
+        "WeiXiaoEasternHan",
+        "zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8",
+        "zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl"
+      ]
+    },
     {
       "id": "bc6d5f37a1d97fc04317ef9374b8e6c99be98feda874d44bbecc15acbf3f8f8b",
       "primary_topic": "history-and-geopolitics",

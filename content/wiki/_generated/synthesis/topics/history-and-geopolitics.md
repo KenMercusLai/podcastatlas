@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-02
-as_of_overview_commit: 8a229b0372489cd810fedc8504f6c7887baee31d
-input_digest: 361d5bc1834b4cca0dc1f2a7fd2e1b014a1ebeff6f9c72036fbd9512e8ece005
+as_of_overview_commit: c6fe7d48748fefa1a1153dbfa952cc3c2c425172
+input_digest: 470a76f2c59e5f7fe7f2db1b77c6a810d62c0591f917bafe638be3b61c66d461
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 692 now backfills Jianwu 5 before Hanji 693: Wang Ba's delayed rescue of Ma Wu, rear-cavalry strike, and fortified refusal add a morale-tempo variant to Guangwu battlefield patience, while his later frontier biography links Xiongnu/Wuhuan pressure, heqin, and logistics to northern governance. The broader history branch still reads power through legitimacy, institutions, logistics, alliances, frontier capacity, appointment quality, surrender credibility, and symbolic order, with new battle and biography details kept source-scoped.
+Hanji 691 now backfills the earliest current Wei Xiao alignment layer: Ma Yuan's Chengdu/Luoyang comparison separates Gongsun Shu's guarded display from Liu Xiu's trust signal, Feng Yi checks Shu pressure around Chen Cang and Sanfu, and Wei Xiao remains useful against Shu while still lacking a durable public position. The broader history branch continues to read power through legitimacy, institutions, logistics, alliances, frontier capacity, appointment quality, surrender credibility, and symbolic order, with the new Wei Xiao/Ma Yuan details kept source-scoped.
 
 ## Cross-source Findings
+
+### Early Eastern Han 691 Weixiao Ma Yuan Ruler Comparison
+
+[[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]] backfills the early Guangwu alignment layer before [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|Hanji 692]] and the later [[WeiXiaoEasternHan]] refusal sequence: [[MaYuanEasternHan]] compares [[GongsunShuEasternHan]]'s guarded ceremonial reception with [[LiuXiu]]'s plain trust, advises Wei Xiao toward Liu Xiu, and [[FengYiEasternHan]] checks Gongsun Shu's Chen Cang/Sanfu pressure. The source strengthens [[FenceSittingStrategicExposure]] and [[SuspicionDrivenEliteAlienation]] by showing Wei Xiao still cooperating against Shu and rejecting Gongsun Shu's titles, but lacking a durable named position.
+
+**Evidence:** [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8]], [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl]], [[WeiXiaoEasternHan]], [[MaYuanEasternHan]], [[GongsunShuEasternHan]], [[LiuXiu]], [[FengYiEasternHan]], [[FenceSittingStrategicExposure]], [[SuspicionDrivenEliteAlienation]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 691 and backfills the early Guangwu alignment layer before Hanji 692 and the later Hanji 698-704 Wei Xiao refusal sequence.
+- Wei Xiao is still a useful anti-Shu cooperator in this source; that stage is a precursor to, not a contradiction of, later refusal and rebellion.
+- Qin Feng, Zhu Hu, Fu Jun, Li Yu, Cheng Yan, Lu Wei, Chen Jun, Taishan commandery, exact title insignia, and Sanfu logistics remain source-scoped.
 
 ### Early Eastern Han 692 Wang Ba Morale Tempo And Frontier Service
 

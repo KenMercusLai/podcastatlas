@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva
   - zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz
   - zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff
-last_updated: 2026-09-01
+  - zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8
+last_updated: 2026-09-02
 ---
 
 ## Definition
@@ -15,6 +16,8 @@ last_updated: 2026-09-01
 Suspicion-driven elite alienation is the failure mode where a ruler's reaction to possible disloyalty publicly exposes insecurity, punishes or over-retains credible insiders, and pushes elite opinion closer to outside alternatives.
 
 ## Current Synthesis
+
+[[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]] supplies a pre-departure choice layer. Ma Yuan remains Wei Xiao's envoy, but his Chengdu and Luoyang observations teach him that capable insiders choose rulers by bearing, trust, and usable authority. That judgment pushes Wei Xiao toward Liu Xiu for now while also revealing why Wei Xiao's unresolved position could later lose such people.
 
 [[zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff|Hanji 698]] supplies an earlier Eastern Han version through [[WeiXiaoEasternHan|Wei Xiao]]. Wei Xiao does not yet openly punish advisers, but his refusal to decide between [[LiuXiu|Liu Xiu]] and rival claimants makes his camp unsafe enough that [[ZhengXingEasternHan|Zheng Xing]] leaves through filial framing, [[MaYuanEasternHan|Ma Yuan]] takes his household east, and other followers ask to support themselves around Chang'an. The alienation is quieter than Liu Biao's later coercion, but it still turns suspicion and indecision into personnel loss.
 
@@ -25,7 +28,7 @@ The second stage is public coercion. Han Song returns from Xudu praising the cou
 ## Key Claims
 
 - Elite alienation can begin when a ruler treats correction, exit, or role-duty warning as personal disobedience.
-- Suspicion does not need public executions to cause loss; over-retention and non-decision can also make a patron unsafe.
+- Elite alienation can begin as judgment before physical exit: capable insiders compare ruler bearing, trust, and future safety before they leave.
 - Punishing or coercing a respected insider can damage the ruler's legitimacy even when formal control remains intact.
 - Public suspicion reveals weakness because it shows the ruler fears opinion and comparison with outside powers.
 - Coercive interrogation may fail to prove betrayal while still proving that the regime is unsafe.
@@ -33,6 +36,8 @@ The second stage is public coercion. Han Song returns from Xudu praising the cou
 
 ## Evidence
 
+- Elite camp-choice judgment: [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]] has Ma Yuan say ministers also choose rulers after comparing Gongsun Shu's guarded display with Liu Xiu's plain trust.
+- Position uncertainty: [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]] frames Wei Xiao as helping Liu Xiu but not firmly following him, revealing instability before later departures.
 - Quiet exit from Wei Xiao: [[zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff|Hanji 698]] says Zheng Xing leaves Wei Xiao's side under filial-burial framing despite attempted retention.
 - Household relocation: [[zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff|Hanji 698]] says Ma Yuan takes his household east and that other followers ask to support themselves near Chang'an.
 - Ignored counsel and departure trend: [[zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff|Hanji 698]] says Shentu Gang urges submission to Liu Xiu, Wei Xiao does not listen, and more people gradually leave.
@@ -43,10 +48,11 @@ The second stage is public coercion. Han Song returns from Xudu praising the cou
 
 ## Counterevidence & Qualifications
 
-The sources are interpretive about psychological cause and downstream speed. Hanji 698 supports a quieter talent-drain pattern around Wei Xiao, but it does not show public punishment or reconstruct every follower's motive. Hanji 1036-1037 give the stronger coercive case: Liu Biao forces Han Song to go despite a duty warning, later reacts harshly to Han Song, finds no proof, and imprisons him. The broader claim is retained as a source-backed synthesis rather than as a settled measurement of every elite's motive.
+The sources are interpretive about psychological cause and downstream speed. Hanji 691 shows Ma Yuan's judgment before departure rather than a completed alienation event, so it is a precursor layer. Hanji 698 supports a quieter talent-drain pattern around Wei Xiao, but it does not show public punishment or reconstruct every follower's motive. Hanji 1036-1037 give the stronger coercive case: Liu Biao forces Han Song to go despite a duty warning, later reacts harshly to Han Song, finds no proof, and imprisons him. The broader claim is retained as a source-backed synthesis rather than as a settled measurement of every elite's motive.
 
 ## What Changed
 
+- Added Hanji 691 as the pre-departure choice layer where Ma Yuan's ruler comparison reveals alienation risk before physical exit.
 - Added Hanji 698 as a quieter Wei Xiao case where suspicion and non-decision produce adviser and household departures before open rebellion.
 - Preserved Hanji 1036 as the Liu Biao pre-coercion layer, showing that suspicion begins before Han Song's return from Xudu.
 - Preserved Hanji 1037 as the public punishment layer and kept the concept focused on ignored warning, forced exposure, and punitive reaction.

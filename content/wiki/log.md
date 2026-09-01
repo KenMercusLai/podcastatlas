@@ -14784,6 +14784,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-02] ingest | 《资治通鉴·汉纪》691丨敢夺江山的隗嚣，为何注定输给刘秀？
+
+Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling early Guangwu alignment around Ma Yuan's Chengdu/Luoyang observations, Gongsun Shu's display-oriented reception, Liu Xiu's trust signal, Wei Xiao's temporary anti-Shu cooperation, Feng Yi's Chen Cang/Sanfu counterblow, and the host's diagnosis of Wei Xiao's unclear position. Added source `zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8`; updated `WeiXiaoEasternHan`, `MaYuanEasternHan`, `GongsunShuEasternHan`, `FengYiEasternHan`, `FenceSittingStrategicExposure`, `SuspicionDrivenEliteAlienation`, `index`, and `overview`. No settled contradiction found; the source backfills a cooperative-but-unstable stage before the later Wei Xiao refusal and rebellion sequence.
+
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》693丨叛出刘秀的彭宠，如何因背叛而亡？
 
 Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 5 / 29 CE around Peng Chong's household collapse, Zi Mi's "不义侯" reward dispute, Guo Ji's Yuyang repair, Pang Meng's suspicion-driven rebellion, Liu Ping's self-sacrificial rescue of Sun Meng, Cen Peng's Shu-campaign preparation, and Ban Biao's pre-`王命论` Han-restoration argument. Added source `zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm`; created `ZiMiEasternHan`, `PangMengEasternHan`, `UnrighteousMeritReward`, and `SuspicionGeneratedRebellion`; updated `PengChongEasternHan`, `GuoJiEasternHan`, `LiuPingEasternHan`, `BanBiaoEasternHan`, `PersonalGuardAttackSurface`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 郭齐 is normalized to 郭伋, 庞蒙 to 庞萌, and minor names remain source-scoped.
@@ -14823,6 +14827,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] ingest | The Mountains Choose You: Araceli Segarra on Adventure & Resilience | Shekhar Natarajan
 
 Ingested the 2026-09-01 Tomorrow Today episode with Araceli Segarra on Everest, the 1996 IMAX expedition, fear, uncertainty, team trust, rescue, resilience, and AI-era judgment. Added source `default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757`; created `AraceliSegarra`, `DavidBreshears`, `BeckWeathers`, `ColonelMadanEverestPilot`, `EverestIMAXExpedition`, `SummitAsTransformation`, `AdventureUncertaintyReframing`, `ExpeditionTeamTrust`, and `AIHowHumanWhyBoundary`; updated `ShekharNatarajan`, `TomorrowToday`, `ExtremeEnvironmentRiskManagement`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Aracely Sagara/Aracely is normalized to Araceli Segarra, while exact rescue chronology, Colonel Madan's full identity, David Breshears details, and full climbing biography remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 

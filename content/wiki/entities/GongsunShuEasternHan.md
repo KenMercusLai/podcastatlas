@@ -11,7 +11,8 @@ sources:
   - zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz
   - zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls
   - zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv
-last_updated: 2026-09-01
+  - zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8
+last_updated: 2026-09-02
 ---
 
 ## Overview
@@ -20,6 +21,8 @@ Gongsun Shu is the Shu-based rival ruler whose current profile now begins with t
 Later notes show the consequence of that unresolved posture. [[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|Hanji 704]] makes him Wei Xiao's fallback patron, [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|Hanji 708]] shows his support keeping the Wei Xiao faction alive after Wei Xiao's death, and [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]] adds assassination and Qiang-agitation responses after western setbacks. [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]] then gives the strategic shock: [[CenPengEasternHan|Cen Peng]] breaks the long Shu defensive line, captures Wuyang, threatens Guangdu and Chengdu, and reveals the risk of relying on terrain as a shield. The following source notes add refusal of Liu Xiu's surrender offer, large counterattacks against Wu Han's Chengdu-area positions, reliance on Yan Cen's last fighting proposal, and the final defeat in [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] that ends with battlefield collapse, Yan Cen's surrender, and a post-surrender massacre by Wu Han.
 
 ## Current Profile
+[[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]] supplies an earlier talent-and-display diagnosis. When Wei Xiao sends Ma Yuan to Chengdu, Gongsun Shu receives his old acquaintance with guards, formal ritual, rows of officials, and promised title and command, but Ma Yuan reads the scene as puppet-like display and concludes Gongsun Shu cannot be a partner for great affairs. The same source later shows Gongsun Shu's northern push toward Chen Cang and Sanfu beaten by Feng Yi, and his attempt to buy Wei Xiao with Da Sikong and Fu'an Wang insignia failing when Wei Xiao kills the envoy.
+
 [[zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv|Hanji 700]] supplies the earlier direct-rule and strategic-choice layer. Liu Xiu has effectively pacified the east and writes to Gongsun Shu while letting his own commanders rest in Luoyang. The letter rejects Gongsun Shu's fuming self-authorization, reduces his imperial posture to the mocking "Gongsun emperor" label, and presses him to recognize that age, isolation, and family survival matter more than display.
 
 The same source makes Gongsun Shu's missed window concrete through [[JingHanEasternHan|Jing Han]]. Jing Han proposes using Tian Rong toward Jiangling and Wu-Chu and [[YanCenEasternHan|Yan Cen]] toward Hanzhong, Sanfu, Tianshui, and Longxi before Liu Xiu can unify the whole realm. Gongsun Shu first agrees, but after Shu generals and his brother Gongsun Guang oppose a distant all-in campaign without allies, he retreats and ignores later requests by Yan Cen and Tian Rong to command.
@@ -43,7 +46,7 @@ In the episode's bounded account, Gongsun Shu personally enters the final Chengd
 Gongsun Shu's posthumous profile is also shaped by the episode's account of coercive scholar recruitment. His regime tries to force Li Nie, Qiao Xuan, Wang Hao, Wang Jia, and others into service through poison threats, hostage families, and office/title inducements, so the fall of Shu becomes both a military defeat and a legitimacy exposure. Wu Han's subsequent killing of Gongsun Shu's household and clan then turns the surrender aftermath into a test of Liu Xiu's conquest discipline.
 
 ## Key Characteristics
-- Shu-based rival ruler who claims fuming-backed legitimacy while Liu Xiu is consolidating the east.
+- Shu-based rival ruler whose guarded ceremonial reception of Ma Yuan previews the later gap between imperial display and usable political capacity.
 - Strategic waverer who hears Jing Han's offensive-window plan but retreats after insider and family opposition.
 - Path-dependent administrator whose old local-official habits become iron-money disruption, minute control, and office-name tinkering at imperial scale.
 - Family-first and display-oriented ruler whose sons' enfeoffment and ceremonial posture damage ministerial trust before the outcome is settled.
@@ -52,6 +55,10 @@ Gongsun Shu's posthumous profile is also shaped by the episode's account of coer
 - Refuser of Liu Xiu's safe-surrender offer whose final Chengdu collapse exposes both military defeat and legitimacy weakness.
 
 ## Evidence
+- Ritualized reception: [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]] says Gongsun Shu greets Ma Yuan with guards, ceremony, officials, and promised title rather than the old-acquaintance ease Ma Yuan expected.
+- Ma Yuan's negative verdict: [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]] has Ma Yuan call Gongsun Shu a "井底之蛙" and judge him unfit for great affairs.
+- Chen Cang/Sanfu failure: [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]] says Feng Yi defeats Li Yu and Cheng Yan after Gongsun Shu sends them toward Chen Cang and Sanfu.
+- Failed title purchase: [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]] says Gongsun Shu sends high insignia to Wei Xiao, but Wei Xiao kills the envoy and keeps resisting Shu pressure.
 - Legitimacy and submission warning: [[zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv|Hanji 700]] says Liu Xiu writes to Gongsun Shu after eastern pacification, mocks his imperial self-authorization, and warns him against persisting.
 - Missed strategic window: [[zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv|Hanji 700]] says Jing Han proposes a two-line offensive before Liu Xiu can concentrate, but Gongsun Shu withdraws after Shu generals and Gongsun Guang object.
 - Governance-scale mismatch: [[zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv|Hanji 700]] links iron money, excessive administrative detail, and county/office renaming to Gongsun Shu's old Qingshui county-magistrate habits.
@@ -73,17 +80,19 @@ Gongsun Shu's posthumous profile is also shaped by the episode's account of coer
 - Surrender aftermath: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] reports that after Yan Cen surrenders Chengdu, Wu Han kills Gongsun Shu's family and announces destruction of the Gongsun clan.
 
 ## Qualifications
-This page is bounded to the listed source notes. Hanji 700 adds Gongsun Shu's strategic debate, fuming posture, iron-money policy, and internal governance diagnosis, but Jing Han's plan is still an adviser proposal rather than proof that the campaign would have succeeded. Wu Zhu, Gongsun Guang, Tian Rong, Gongsun Shu's sons, and the closing enterprise analogy remain source-scoped. Hanji 704 shows Wei Xiao turning toward Gongsun Shu but does not reconstruct Gongsun Shu's acceptance terms, hostage demand, or full western policy. Hanji 708 adds Gongsun Shu as a supporter of the surviving Wei Xiao faction, not a full account of Shu's western policy before Chengdu. Hanji 710 gives the first assassination branch against Lai Xi and the water-front defensive setup, but it does not complete Cen Peng's death and leaves several commanders and place details source-scoped. Hanji 711's overreliance-on-geography judgment is the episode's campaign interpretation and should be held to the Wuyang/Guangdu shock evidence. Hanji 712 and Hanji 713 describe Gongsun Shu through the final-war and post-conquest frame rather than offering a complete biography of his earlier rule in Shu. The source count figures and tactical sequences should be treated as episode-bounded campaign evidence, not as a complete independent order of battle.
+This page is bounded to the listed source notes. Hanji 691 supplies an early Ma Yuan-facing display diagnosis and a compact northern-pressure notice, but Li Yu, Cheng Yan, Lü Wei, Da Sikong/Fu'an Wang insignia, tower ships, and exact Sanfu logistics remain source-scoped. Hanji 700 adds Gongsun Shu's strategic debate, fuming posture, iron-money policy, and internal governance diagnosis, but Jing Han's plan is still an adviser proposal rather than proof that the campaign would have succeeded. Wu Zhu, Gongsun Guang, Tian Rong, Gongsun Shu's sons, and the closing enterprise analogy remain source-scoped. Hanji 704 shows Wei Xiao turning toward Gongsun Shu but does not reconstruct Gongsun Shu's acceptance terms, hostage demand, or full western policy. Hanji 708 adds Gongsun Shu as a supporter of the surviving Wei Xiao faction, not a full account of Shu's western policy before Chengdu. Hanji 710 gives the first assassination branch against Lai Xi and the water-front defensive setup, but it does not complete Cen Peng's death and leaves several commanders and place details source-scoped. Hanji 711's overreliance-on-geography judgment is the episode's campaign interpretation and should be held to the Wuyang/Guangdu shock evidence. Hanji 712 and Hanji 713 describe Gongsun Shu through the final-war and post-conquest frame rather than offering a complete biography of his earlier rule in Shu. The source count figures and tactical sequences should be treated as episode-bounded campaign evidence, not as a complete independent order of battle.
 
 ## What Changed
-- Added Hanji 700 as the earliest current direct Gongsun Shu layer: fuming legitimacy, Liu Xiu's warning letter, Jing Han's rejected opportunity-window plan, iron money, micro-management, and family-first rewards.
-- Reframed later western support and defensive collapse as consequences of a strategic and governance weakness visible before the final Shu campaign.
+- Added Hanji 691 as the earliest current display-and-talent layer: Ma Yuan's Chengdu judgment, failed title outreach to Wei Xiao, and Feng Yi's check against Shu's Chen Cang/Sanfu pressure.
+- Preserved Hanji 700 as the direct Gongsun Shu layer: fuming legitimacy, Liu Xiu's warning letter, Jing Han's rejected opportunity-window plan, iron money, micro-management, and family-first rewards.
 - Preserved Hanji 704 and Hanji 708 as the Wei Xiao alignment and western-support layers.
 - Preserved Hanji 710 and Hanji 711 as the assassination, water-front defense, and operational-tempo breakthrough layers.
 - Preserved Hanji 712 and Hanji 713 as the final Chengdu force, counterattack, collapse, coerced-talent, and post-surrender violence layers.
 
 ## Relationships
 - [[LiuXiu]] - conquering emperor who condemns the post-surrender violence and then repairs Shu's local-elite order.
+- [[MaYuanEasternHan|马援]] - old acquaintance whose Chengdu observation becomes a negative talent-use verdict.
+- [[FengYiEasternHan|冯异]] - Han commander who defeats Gongsun Shu's Chen Cang/Sanfu pressure in Hanji 691.
 - [[JingHanEasternHan|荆邯]] - adviser whose rejected offensive-window proposal exposes Gongsun Shu's strategic wavering.
 - [[WeiXiaoEasternHan]] - western rival whose faction continues with Gongsun Shu support after Wei Xiao's death.
 - [[LaiXiEasternHan]] - Liu Xiu-aligned planner who treats Longxi and Tianshui as the shield preserving Gongsun Shu's resistance.
