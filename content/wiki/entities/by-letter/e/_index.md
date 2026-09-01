@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 8744
+wiki_total_pages: 8749
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "EVE"
     title: "EVE"
     url: "/wiki/entities/eve/"
+  - key: "EverestIMAXExpedition"
+    title: "Everest IMAX Expedition"
+    url: "/wiki/entities/everestimaxexpedition/"
   - key: "Evergrande"
     title: "Evergrande"
     url: "/wiki/entities/evergrande/"

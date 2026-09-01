@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6222
+wiki_total_pages: 6226
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "AdvancedPackaging"
     title: "Advanced Packaging"
     url: "/wiki/concepts/advancedpackaging/"
+  - key: "AdventureUncertaintyReframing"
+    title: "Adventure-Uncertainty Reframing"
+    url: "/wiki/concepts/adventureuncertaintyreframing/"
   - key: "AdversitySilenceDiscipline"
     title: "Adversity Silence Discipline / 逆境守口"
     url: "/wiki/concepts/adversitysilencediscipline/"
@@ -782,6 +785,9 @@ wiki_pages:
   - key: "AIHomeworkTransferGap"
     title: "AI Homework Transfer Gap"
     url: "/wiki/concepts/aihomeworktransfergap/"
+  - key: "AIHowHumanWhyBoundary"
+    title: "AI How, Human Why Boundary"
+    url: "/wiki/concepts/aihowhumanwhyboundary/"
   - key: "AIHyperscalerModelChannelConflict"
     title: "AI Hyperscaler Model Channel Conflict"
     url: "/wiki/concepts/aihyperscalermodelchannelconflict/"

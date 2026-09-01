@@ -1,44 +1,46 @@
 ---
 title: "Shekhar Natarajan"
 type: entity
-tags: [podcast-host, ai, branding]
+tags: [podcast-host, ai, branding, leadership]
 sources:
   - how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast
-last_updated: 2026-08-26
+  - default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757
+last_updated: 2026-09-02
 knowledge_schema: synthesis-v1
 ---
 
 # Shekhar Natarajan
 
 ## Overview
-Shekhar Natarajan is the host of [[TomorrowToday]] in [[how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast]]. In this episode he interviews [[AndyStalman]] about branding while adding his own frames around AI alignment, organizational deliberation, actionable values, and [[AngelicIntelligence]].
+Shekhar Natarajan is the host of [[TomorrowToday]] across the wiki's current Tomorrow Today sources. He interviews [[AndyStalman]] about branding and AI in [[how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast]], then interviews [[AraceliSegarra]] about Everest, resilience, teams, risk, and AI-era judgment in [[default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757]].
 
 ## Current Profile
-The source presents Shekhar as more than a neutral interviewer. He repeatedly turns Stalman's brand claims into operating questions: how values travel through a company, why collaboration must be designed into processes, how AI agents can leak or imitate sensitive knowledge, and why technology should amplify human beauty instead of only efficiency.
+The bounded sources present Shekhar as an interviewer who turns guest biography into operating questions. With Stalman, he pushes branding toward values, process, deliberation, privacy, leakage, and [[AngelicIntelligence]]. With Segarra, he uses personal memories and founder-style analogies to connect [[EverestIMAXExpedition|Everest]], uncertainty, safe teams, risk, and the human "why" under AI.
 
 ## Key Characteristics
-- Podcast host who frames brand-building as a question of beauty, protection, purpose, and personal journey.
-- Interlocutor who pushes branding into organizational design through values, deliberation, and process.
-- AI thinker in the source through [[AngelicIntelligence]], alignment, privacy, leakage, and human-centered technology.
-- Uses concrete examples such as [[Amazon]], [[Apple]], [[Alphabet]], [[Gemini]], and [[LinkedIn]] to test brand and technology claims.
-- Treats unresolved deliberations as a management problem that can block collaboration and decision speed.
+- Podcast host who frames long-form guest stories as questions about identity, purpose, leadership, and technology.
+- Interlocutor who translates abstract values into organizational design, process, collaboration, and decision speed.
+- AI thinker in the sources through [[AngelicIntelligence]], AI leakage, human-centered technology, and [[AIHowHumanWhyBoundary]].
+- Uses concrete examples and personal memories to test claims about work, risk, uncertainty, and meaning.
+- Connects high-level strategy to human experience, including fear, beauty, vulnerability, gratitude, and trust.
 
 ## Evidence
-- Host role: [[how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast]] identifies Shekhar as the interviewer and episode framer.
+- Host role and show format: [[how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast]] and [[default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757]] identify Shekhar as the interviewer and episode framer.
 - Values and process: [[how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast]] has Shekhar contrast actionable values with vague slogans and argue that collaboration must be embedded in process.
-- AI risk: [[how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast]] records his concerns about AI agents mimicking tone, leaking information, and creating attack surfaces around executive knowledge.
-- Human-centered AI: [[how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast]] introduces [[AngelicIntelligence]] as technology that guides and amplifies human beauty.
+- AI and human purpose: [[how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast]] introduces [[AngelicIntelligence]], while [[default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757]] records the AI "how" versus human "why" leadership frame.
+- Risk and resilience framing: [[default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757]] has Shekhar connect Segarra's Everest rescue and uncertainty lessons to leadership, entrepreneurship, and his own life events.
 
 ## Qualifications
-The page is bounded to this episode. It does not infer Shekhar's broader biography, company role, or independent AI project details beyond what the source states.
+The page is bounded to the two ingested Tomorrow Today episodes. It does not infer Shekhar's broader biography, company role, or independent AI project details beyond those sources.
 
 ## What Changed
-- Initial profile created around Shekhar's role as host and source of the episode's angelic-intelligence and deliberation frames.
+- Expanded the profile from a branding-and-AI host role into a broader interviewer profile spanning organizational values, Everest risk, resilience, team trust, and AI-era purpose.
 
 ## Relationships
-- [[TomorrowToday]] - show context.
-- [[AndyStalman]] - interview guest and branding counterpart.
-- [[AngelicIntelligence]] - source-scoped concept Shekhar explains.
+- [[TomorrowToday]] - show context for both source episodes.
+- [[AndyStalman]] - branding guest and first bounded interview counterpart.
+- [[AraceliSegarra]] - mountaineering and resilience guest in the newer source.
+- [[AngelicIntelligence]] - human-centered AI term Shekhar explains in the branding source.
+- [[AIHowHumanWhyBoundary]] - AI-era purpose boundary sharpened through the Segarra interview.
 - [[ActionableOrganizationalValues]] - management frame Shekhar develops through examples.
-- [[AIAsBrandMirror]] - concept he helps connect to leakage, alignment, and executive-knowledge risk.
-- [[BrandValueProtection]] - AI-era brand-risk concept that Shekhar's questions sharpen.
+- [[AdventureUncertaintyReframing]] - uncertainty frame he helps translate from mountaineering into leadership.

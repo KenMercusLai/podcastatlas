@@ -492,12 +492,13 @@
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e",
       "669579ac551e015d5d6c20aa08ac0e7c674e0f7fafcd9adc5bebd4f22c5899ea",
       "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3",
-      "5ba1c7a478b342521c54a704f3662e19b3e2e992a9e88c2a01eb72bc8c596387"
+      "5ba1c7a478b342521c54a704f3662e19b3e2e992a9e88c2a01eb72bc8c596387",
+      "9d36904e555be9bd3a64051aec40ec50d074a0fe33f5d94a41cd1392f151a764"
     ],
-    "paragraph_count": 492
+    "paragraph_count": 493
   },
-  "overview_commit": "8a229b0372489cd810fedc8504f6c7887baee31d",
-  "overview_digest": "1868e371a358d7fddb7ffe73c1d1b27cc931b73771d1d74ccfaf5488e6594211",
+  "overview_commit": "e3d560b16619a70f934df2a160a0cd385275e487",
+  "overview_digest": "45abb95094b3783cf4c174d629a3079e195664c87f0778b8968b3d51252cefcb",
   "paragraphs": [
     {
       "id": "bc6d5f37a1d97fc04317ef9374b8e6c99be98feda874d44bbecc15acbf3f8f8b",
@@ -15080,6 +15081,32 @@
         "ZhangBuEasternHan",
         "zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody",
         "zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt"
+      ]
+    },
+    {
+      "id": "9d36904e555be9bd3a64051aec40ec50d074a0fe33f5d94a41cd1392f151a764",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The latest addition is [[default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757|The Mountains Choose You: Araceli Segarra on Adventure & Resilience | Shekhar Natarajan]], a [[TomorrowToday]] episode with [[ShekharNatarajan]] interviewing [[AraceliSegarra]] about Everest, fear, uncertainty, team trust, and AI-era judgment. It adds [[AraceliSegarra]], [[DavidBreshears]], [[BeckWeathers]], [[ColonelMadanEverestPilot]], [[EverestIMAXExpedition]], [[SummitAsTransformation]], [[AdventureUncertaintyReframing]], [[ExpeditionTeamTrust]], and [[AIHowHumanWhyBoundary]], while extending [[TomorrowToday]], [[ShekharNatarajan]], and [[ExtremeEnvironmentRiskManagement]]. Its core synthesis is that mountaineering turns uncertainty into a practical leadership language: summits orient effort but do not complete the work, risk requires acclimatization, body awareness, equipment, rescue capacity, and team trust, and AI may help with how while leaving why, judgment, and relationships with humans. No settled contradiction is recorded; Aracely Sagara/Aracely is normalized to [[AraceliSegarra]], and David Breshears, Colonel Madan, exact rescue chronology, and full climbing biography remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AIHowHumanWhyBoundary",
+        "AdventureUncertaintyReframing",
+        "AraceliSegarra",
+        "BeckWeathers",
+        "ColonelMadanEverestPilot",
+        "DavidBreshears",
+        "EverestIMAXExpedition",
+        "ExpeditionTeamTrust",
+        "ExtremeEnvironmentRiskManagement",
+        "ShekharNatarajan",
+        "SummitAsTransformation",
+        "TomorrowToday",
+        "default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757"
       ]
     }
   ],

@@ -14819,3 +14819,11 @@ Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 5 / 
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] ingest | The Mountains Choose You: Araceli Segarra on Adventure & Resilience | Shekhar Natarajan
+
+Ingested the 2026-09-01 Tomorrow Today episode with Araceli Segarra on Everest, the 1996 IMAX expedition, fear, uncertainty, team trust, rescue, resilience, and AI-era judgment. Added source `default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757`; created `AraceliSegarra`, `DavidBreshears`, `BeckWeathers`, `ColonelMadanEverestPilot`, `EverestIMAXExpedition`, `SummitAsTransformation`, `AdventureUncertaintyReframing`, `ExpeditionTeamTrust`, and `AIHowHumanWhyBoundary`; updated `ShekharNatarajan`, `TomorrowToday`, `ExtremeEnvironmentRiskManagement`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Aracely Sagara/Aracely is normalized to Araceli Segarra, while exact rescue chronology, Colonel Madan's full identity, David Breshears details, and full climbing biography remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8744
+wiki_total_pages: 8749
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -950,6 +950,9 @@ wiki_pages:
   - key: "Colombia"
     title: "Colombia"
     url: "/wiki/entities/colombia/"
+  - key: "ColonelMadanEverestPilot"
+    title: "Colonel Madan (Everest pilot)"
+    url: "/wiki/entities/colonelmadaneverestpilot/"
   - key: "ColumbiaJournalismSchool"
     title: "Columbia Journalism School"
     url: "/wiki/entities/columbiajournalismschool/"

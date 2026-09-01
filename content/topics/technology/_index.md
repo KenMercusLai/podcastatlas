@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2638
+topic_total_pages: 2640
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -445,6 +445,9 @@ topic_concepts:
   - key: "AIHomeworkTransferGap"
     title: "AI Homework Transfer Gap"
     url: "/wiki/concepts/aihomeworktransfergap/"
+  - key: "AIHowHumanWhyBoundary"
+    title: "AI How, Human Why Boundary"
+    url: "/wiki/concepts/aihowhumanwhyboundary/"
   - key: "AIHyperscalerModelChannelConflict"
     title: "AI Hyperscaler Model Channel Conflict"
     url: "/wiki/concepts/aihyperscalermodelchannelconflict/"
@@ -7620,6 +7623,9 @@ topic_sources:
   - key: "the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers"
     title: "The little-known regulatory bodies that can make or break AI data centers"
     url: "/wiki/sources/the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers/"
+  - key: "default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757"
+    title: "The Mountains Choose You: Araceli Segarra on Adventure & Resilience | Shekhar Natarajan"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757/"
   - key: "tech-20260326-0326-mp-tech-pod-128-tech-20260326-0326-mp-tech-pod-128"
     title: "The tech transforming Baltimore's Francis Scott Key Bridge"
     url: "/wiki/sources/tech-20260326-0326-mp-tech-pod-128-tech-20260326-0326-mp-tech-pod-128/"

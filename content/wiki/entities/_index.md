@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8744
+wiki_total_pages: 8749
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "AppSumo"
     title: "AppSumo"
     url: "/wiki/entities/appsumo/"
+  - key: "AraceliSegarra"
+    title: "Araceli Segarra"
+    url: "/wiki/entities/aracelisegarra/"
   - key: "AramaraCastro"
     title: "Aramara Castro"
     url: "/wiki/entities/aramaracastro/"

@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-01
-as_of_overview_commit: c3c41129e7e6e9ce9cbdf17827d39d740ed98eb7
-input_digest: a6800808d175cd26d39fdc9ff474c1d22193ef7ded4255cf4a2ffa1f7813edb8
+last_updated: 2026-09-02
+as_of_overview_commit: e3d560b16619a70f934df2a160a0cd385275e487
+input_digest: ec1d5785c2d98f50a2c757e98d1bca6673885593c847a24bc79adf24a7c5db42
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 697 adds a narrow historical self-command and status-judgment branch around Geng Yan's command composure, Liu Xiu's trust signal toward Feng Yi, Zhang Bu's constrained surrender, and Zheng Xing's warning against Wei Xiao's overreach. Hanji 699 PLUS adds a narrow historical self-command layer: Liu Xiu ruler capacity is read through emotional restraint after Liu Yan death, trust repair after Wang Lang defeat, and the broader cultivated-capacity frame. The substantive claim remains history and governance, not clinical advice. Hanji 702, Hanji 705-1, Hanji 713, Hanji 736, Hanji 744-745, Hanji 753, relationship science, workplace abuse, emotion regulation, meditation, discipline, movement practice, and AI/workplace trust remain the main existing psychology-and-personal-development branches.
+Hanji 697 adds a narrow historical self-command and status-judgment branch around Geng Yan's command composure, Liu Xiu's trust signal toward Feng Yi, Zhang Bu's constrained surrender, and Zheng Xing's warning against Wei Xiao's overreach. Hanji 699 PLUS adds a narrow historical self-command layer: Liu Xiu ruler capacity is read through emotional restraint after Liu Yan death, trust repair after Wang Lang defeat, and the broader cultivated-capacity frame. The substantive claim remains history and governance, not clinical advice. Hanji 702, Hanji 705-1, Hanji 713, Hanji 736, Hanji 744-745, Hanji 753, relationship science, workplace abuse, emotion regulation, meditation, discipline, movement practice, and AI/workplace trust remain the main existing psychology-and-personal-development branches. Araceli Segarra's Everest interview adds a mountaineering branch where fear, uncertainty, rescue capacity, team trust, and the AI how/human why boundary become practical identity-and-judgment material.
 
 ## Cross-source Findings
 
@@ -580,3 +580,14 @@ The Eastwick Huberman Lab paragraph adds a relationship-science claim: [[Idiosyn
 - The staged input is one overview paragraph rather than the full podcast transcript.
 - App-swipe rates, age-preference data, income effects, gendered support patterns, same-gender dating observations, attachment-change claims, and sexual-satisfaction claims remain source-scoped.
 - The claim should not be read as individualized dating, therapy, attachment, or sexual-health advice.
+
+### Segarra Everest Fear Trust And Transformation
+
+[[default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757|Araceli Segarra on Tomorrow Today]] adds a psychology-and-leadership branch in which [[SummitAsTransformation]], [[AdventureUncertaintyReframing]], [[ExpeditionTeamTrust]], and [[ExtremeEnvironmentRiskManagement]] frame mountaineering as identity work: fear is trained through exposure, uncertainty becomes the condition of adventure, rescue capacity and trust shape risk judgment, and the summit is less decisive than the person who returns.
+
+**Evidence:** [[default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757]], [[AraceliSegarra]], [[SummitAsTransformation]], [[AdventureUncertaintyReframing]], [[ExpeditionTeamTrust]], [[ExtremeEnvironmentRiskManagement]]
+
+**Qualifications:**
+
+- The evidence is one interview source and should not be treated as a technical mountaineering safety manual or complete Everest chronology.
+- Aracely Sagara and Aracely in the transcript are normalized to Araceli Segarra through the source metadata.

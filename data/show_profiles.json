@@ -1071,20 +1071,20 @@
       "earliest_episode_date": "2026-08-25",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "default.mp3_ywr3ahjkcgo_842831df1049b1024b0dfd8bf11ec723_108598757 [default.mp3_ywr3ahjkcgo_842831df1049b1024b0dfd8bf11ec723_108598757].md",
-      "source_note_count": 1,
-      "topic_matched_source_note_count": 1,
+      "source_note_count": 2,
+      "topic_matched_source_note_count": 2,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 1
+          "source_note_count": 2
         }
       ],
       "entities": [],
       "start_here_episode_files": [
-        "128_default_tc [128_default_tc].md",
-        "default.mp3_ywr3ahjkcgo_842831df1049b1024b0dfd8bf11ec723_108598757 [default.mp3_ywr3ahjkcgo_842831df1049b1024b0dfd8bf11ec723_108598757].md"
+        "default.mp3_ywr3ahjkcgo_842831df1049b1024b0dfd8bf11ec723_108598757 [default.mp3_ywr3ahjkcgo_842831df1049b1024b0dfd8bf11ec723_108598757].md",
+        "128_default_tc [128_default_tc].md"
       ]
     },
     "What's Next｜科技早知道": {
