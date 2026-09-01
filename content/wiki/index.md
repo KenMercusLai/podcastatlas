@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？](sources/zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq.md) — Jianwu 9 Guangwu episode on Ji Zun's death and praise-pressure after mourning, Wen Xu's loyal suicide, Goguryeo tribute recognition, Wei Xiao's continuing western faction, Wu Han/Du Mao's northern setback, Lai Xi's Longxi/Tianshui plan, and Ban Biao's Qiang-governance diagnosis.
 - [凯乐石在欧洲开店，广告首次成为 B 站第一大业务](sources/kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081.md) — 声动早咖啡 roundup on Kailas/Fuga Europe expansion, Bilibili advertising becoming its largest segment, Miniso large IP stores, BYD overseas sales, oral GLP-1 China competition, appliance exports, PayPal buyer talks, airline costs, and dairy recovery.
 - [《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？](sources/zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2.md) — Jianwu 9-10 Guangwu episode on the no-ransom hostage rule, Yin Xing's outer-relative restraint, Guo Ji's trust-based bandit surrender, Western Regions and northern campaign notices, and Kou Xun's killing of Huangfu Wen to force Gao Jun's surrender.
 - [《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？](sources/zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w.md) — Jianwu 11-12 Shu-campaign episode on Cen Peng's Wuyang/Guangdu breakthrough, Gongsun Shu's refused surrender and assassination, Zang Gong's defeat of Yan Cen, Ma Yuan's Jincheng frontier-resource governance, Guo Ji's national-staffing critique, and Wu Han's succession as Shu commander.
@@ -1832,11 +1833,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [寇恂 / Kou Xun (Eastern Han)](entities/KouXunEasternHan.md) — Guangwu-era commander whose Gao Jun mission turns Huangfu Wen's execution into a forced-surrender and "伐谋" case.
 - [高峻 / Gao Jun (Eastern Han)](entities/GaoJunEasternHan.md) — Wei Xiao-aligned holdout at Gaoping whose surrender follows Kou Xun's execution of Huangfu Wen.
 - [皇甫文 / Huangfu Wen (Eastern Han)](entities/HuangfuWenEasternHan.md) — Gao Jun's adviser and envoy whose killing becomes Hanji 709's "上兵伐谋" example.
+- [祭遵 / Ji Zun (Eastern Han)](entities/JiZunEasternHan.md) — Guangwu commander remembered as clean, disciplined, reward-sharing, and thin-burial minded after his Jianwu 9 death.
+- [姚期 / Yao Qi (Eastern Han)](entities/YaoQiEasternHan.md) — Guangwu commander who warns Liu Xiu that repeated praise of Ji Zun is frightening and shaming living ministers.
+- [温序 / Wen Xu (Eastern Han)](entities/WenXuEasternHan.md) — Liu Xiu-aligned official captured by Wei Xiao's side who kills himself rather than surrender.
+- [来歙 / Lai Xi (Eastern Han)](entities/LaiXiEasternHan.md) — Liu Xiu-aligned planner who makes Longxi and Tianshui a supply-backed western reduction target.
+- [隗嚣 / Wei Xiao (Eastern Han)](entities/WeiXiaoEasternHan.md) — Western rival whose death does not end resistance because Wei Chun continues with Gongsun Shu support.
 - [岑彭 / Cen Peng (Eastern Han)](entities/CenPengEasternHan.md) — Guangwu commander whose fast Shu breakthrough, strict no-plunder discipline, assassination, and later local memory anchor Hanji 711.
 - [臧宫 / Zang Gong (Eastern Han)](entities/ZangGongEasternHan.md) — Shu-campaign commander under Cen Peng who turns unstable surrendered troops and new supplies into a tempo-and-intimidation victory over Yan Cen.
 - [郭伋 / Guo Ji (Eastern Han)](entities/GuoJiEasternHan.md) — Bingzhou governor whose advice to Liu Xiu criticizes Nanyang-heavy appointments and argues for nationwide official selection.
 - [李通 / Li Tong (Eastern Han)](entities/LiTongEasternHan.md) — Guangwu-era founding-merit figure who returns full office but keeps honored court access, distinct from the later Cao-era Li Tong.
-- [公孙述 / Gongsun Shu (Eastern Han)](entities/GongsunShuEasternHan.md) — Shu-based rival ruler whose final Chengdu profile links refused surrender, large counterattacks, battlefield collapse, coerced talent, and post-surrender violence.
+- [公孙述 / Gongsun Shu (Eastern Han)](entities/GongsunShuEasternHan.md) — Shu-based rival ruler whose support for the Wei Xiao/Wei Chun field precedes refused surrender, Chengdu counterattacks, final battlefield collapse, and post-surrender violence.
 - [严岑 / 颜岑 / Yan Cen](entities/YanCenEasternHan.md) — Final Chengdu commander who urges continued battle, briefly defeats Wu Han through a rear-cavalry feint, then surrenders after Gongsun Shu's mortal wound.
 - [李涅 / Li Nie](entities/LiNieEasternHan.md) — Guanghan scholar who drinks poison rather than accept Gongsun Shu's coerced office summons.
 - [乔璇 / Qiao Xuan (Shu Scholar)](entities/QiaoXuanShuScholar.md) — Ba commandery scholar who refuses Gongsun Shu's office-or-poison summons and is later honored and repaid by Liu Xiu.
@@ -1853,12 +1859,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [欧阳歙 / Ouyang Xi (Eastern Han)](entities/OuyangXiEasternHan.md) — Shangshu-lineage Situ punished after Runan degree-field falsification and embezzlement charges.
 - [张堪 / Zhang Kan (Eastern Han)](entities/ZhangKanEasternHan.md) — Eastern Han official whose Chengdu anti-retreat advice, Gaoliu victory, and Yuyang tenure pair battlefield judgment with frontier local governance.
 - [马成 / Ma Cheng (Eastern Han)](entities/MaChengEasternHan.md) — Frontier commander who replaces Du Mao and strengthens border defense with regular beacon stations.
-- [杜茂 / Du Mao (Eastern Han)](entities/DuMaoEasternHan.md) — Frontier commander tied first to northern defensive infrastructure against Lu Fang/Xiongnu pressure and later to removal and troop reuse at Gaoliu.
+- [杜茂 / Du Mao (Eastern Han)](entities/DuMaoEasternHan.md) — Frontier commander tied to an unsuccessful Xiongnu-rescued northern attack, later defensive infrastructure against Lu Fang pressure, removal, and troop reuse at Gaoliu.
 - [征侧 / Zheng Ce (Jiaozhi)](entities/ZhengCeJiaozhi.md) — Jiaozhi local elite woman whose 40 CE revolt becomes a female kingship claim before Ma Yuan's suppression.
 - [征贰 / Zheng Er (Jiaozhi)](entities/ZhengErJiaozhi.md) — Zheng Ce's sister and co-leader in the Jiaozhi revolt.
 - [苏定 / Su Ding (Jiaozhi governor)](entities/SuDingJiaozhi.md) — Jiaozhi governor whose attempted punishment of Zheng Ce triggers the current revolt branch.
 - [卢芳 / Lu Fang (Eastern Han)](entities/LuFangEasternHan.md) — Xiongnu-linked claimant whose failed Yunzhong attack and Sui Yu fracture precede later surrender, reward, and renewed defection.
-- [闵堪 / Min Kan (Eastern Han)](entities/MinKanEasternHan.md) — Paired surrender actor appointed Dai Chancellor in Lu Fang's settlement.
+- [闵堪 / Min Kan (Eastern Han)](entities/MinKanEasternHan.md) — Northern frontier actor who survives an earlier Han attack through Xiongnu rescue before later surrendering and becoming Dai Chancellor in Lu Fang's settlement.
 - [Brazilian National Anthem](entities/BrazilianNationalAnthem.md) — Anthem whose tune, lyrics, and performance history carry Brazil's monarchy, republic, slavery-shadowed identity, and protest memory.
 - [Brazilian Flag](entities/BrazilianFlag.md) — National symbol whose colors, stars, Southern Cross reference, and positivist motto connect dynastic inheritance to republican symbolism.
 - [Brazilian Independence](entities/BrazilianIndependence.md) — 1822 break with Portuguese authority led by Dom Pedro I and later remembered through the anthem's Ipiranga reference.
@@ -2087,7 +2093,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [窦宪 / Dou Xian (Eastern Han)](entities/DouXianEasternHan.md) — Outer-relative powerholder whose profile now begins with Zhangdi-era estate coercion and Zheng Hong warnings before later palace access, murder, campaign redemption, Jiluoshan-Yanran victory, and palace removal.
 - [稽落山之战 / Jiluoshan Battle (late Han)](entities/JiluoshanBattleLateHan.md) — Dou Xian's Northern Xiongnu battlefield centerpiece with Hanji 761 route and cavalry detail, leading to Yanran commemoration and qualified migration-cascade framing.
 - [燕然勒石 / Yanran Inscription](entities/YanranInscription.md) — Campaign commemoration ordered by Dou Xian and written by Ban Gu after Jiluoshan, mass submission, and deep frontier pursuit.
-- [班彪 / Ban Biao (Eastern Han)](entities/BanBiaoEasternHan.md) — Eastern Han historian and frontier-policy adviser whose Wuhuan protector-office proposal and Northern Xiongnu memorial join institutional settlement with calibrated diplomacy.
+- [班彪 / Ban Biao (Eastern Han)](entities/BanBiaoEasternHan.md) — Eastern Han historian and frontier-policy adviser whose Qiang diagnosis, Wuhuan protector-office proposal, and Northern Xiongnu memorial join communication repair, institutional settlement, and calibrated diplomacy.
 - [班固 / Ban Gu (Eastern Han)](entities/BanGuEasternHan.md) — Han historian-commentator whose profile now links Western Regions strategy and cost judgment to later prison death during the Dou-family cleanup and Ban Zhao's `Han Shu` continuation.
 - [李郃 / Li He (Eastern Han)](entities/LiHeEasternHan.md) — Hanzhong official who uses a delayed gift mission to keep his administrator clear of Dou Xian's collapse.
 - [郑众 / Zheng Zhong (Eastern Han eunuch)](entities/ZhengZhongEasternHan.md) — Eunuch promoted after the Dou purge whose humility and trusted access mark the episode's beginning of eunuch power.
@@ -2160,7 +2166,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [平原王刘裔 / Liu Yi (Pingyuan Wang, late Han)](entities/LiuYiPingyuanWangLateHan.md) — Collateral royal relative treated as the alleged Deng-backed replacement claimant and kept distinct from Beixiang Hou Liu Yi.
 - [朱宠 / Zhu Chong (late Han)](entities/ZhuChongLateHan.md) — Da sinong who carries a coffin to memorial for the Deng family and forces partial correction without escaping dismissal.
 - [江京 / Jiang Jing (late Han)](entities/JiangJingLateHan.md) — Palace actor named in anti-Deng slander before being rewarded as Duxiang Hou, Zhongchangshi, and Da Changqiu after the Deng fall.
-- [高句丽 / Goguryeo (late Han)](entities/GoguryeoLateHan.md) — Frontier polity whose 121-122 CE Xuantu attack, royal succession, and later submission frame Chen Zhong's mourning-restraint advice.
+- [高句丽 / Goguryeo (late Han)](entities/GoguryeoLateHan.md) — Frontier polity whose current evidence runs from Liu Xiu's tribute/title recognition to later Liaodong and Xuantu attacks, mourning restraint, and submission.
 - [姚光 / Yao Guang (late Han)](entities/YaoGuangLateHan.md) — Xuantu administrator whose proposed attack during Goguryeo royal mourning is rejected and who is later killed by a forged edict.
 - [冯焕 / Feng Huan (late Han)](entities/FengHuanLateHan.md) — Youzhou inspector who survives the same forged-edict revenge case after his son challenges the document.
 - [张珰 / Zhang Dang (late Han)](entities/ZhangDangLateHan.md) — Dunhuang administrator whose three-plan memorial argues that abandoning the Western Regions would leave Hexi unable to stand alone.
@@ -10548,6 +10554,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [女性起义称王 / Female Rebel Sovereignty](concepts/FemaleRebelSovereignty.md) — Pattern where Zheng Ce's Jiaozhi revolt becomes a female-led ruler claim rather than only local disorder.
 - [群盗互纠式平乱 / Bandit Mutual-Reporting Pacification](concepts/BanditMutualReportingPacification.md) — Guangwu-era anti-bandit incentive design using peer reporting, pardons, official-accountability repair, shelter penalties, and resettlement.
 - [五铢钱恢复 / Wuzhu Coin Restoration](concepts/WuzhuCoinRestoration.md) — Ma Yuan's memorial and Liu Xiu's adoption of restored five-zhu coinage as practical normalization.
+- [公开称贤比较压力 / Imperial Praise Comparison Pressure](concepts/ImperialPraiseComparisonPressure.md) — Court-management pattern where a ruler's repeated praise for a dead model official makes living ministers feel implicitly judged.
 - [National Anthem Political Plasticity](concepts/NationalAnthemPoliticalPlasticity.md) — Pattern where an official anthem can be claimed by opposed movements because its emotional authority exceeds one regime.
 - [Regime Symbol Continuity](concepts/RegimeSymbolContinuity.md) — Pattern where a public symbol survives regime change because it has become usable national memory.
 - [Slavery National Identity Contradiction](concepts/SlaveryNationalIdentityContradiction.md) — Tension between national liberty or unity claims and a historical formation built on enslaved labor.
@@ -10715,7 +10722,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Palace Accusation Verification / 宫廷指控核验](concepts/PalaceAccusationVerification.md) — Governance pattern where rulers, regents, or senior court officials slow high-risk accusations, check evidentiary fit, and avoid dragnet interrogation before or after punishment expands.
 - [Disaster Omen Crisis Redirection / 灾异压力转移](concepts/DisasterOmenCrisisRedirection.md) — Crisis-management pattern where a ruler answers disaster-as-omen legitimacy pressure by converting it into visible administrative correction.
 - [官吏俸禄不足抽取风险 / Official Salary Extraction Risk](concepts/OfficialSalaryExtractionRisk.md) — Governance pattern where salary cuts and emergency fiscal stress save public funds immediately but can push underpaid officials toward bribery, fees, coercion, or hidden local extraction.
-- [Frontier Official Abuse Rebellion Spiral / 边吏侵害引发反叛螺旋](concepts/FrontierOfficialAbuseRebellionSpiral.md) — Frontier failure mode where official abuse, coercive pursuit, destructive handling, and panic convert local harm or conscription fear into expanding rebellion and state cost.
+- [Frontier Official Abuse Rebellion Spiral / 边吏侵害引发反叛螺旋](concepts/FrontierOfficialAbuseRebellionSpiral.md) — Frontier failure mode where official abuse, communication gaps, coercive pursuit, destructive handling, and panic convert local harm or conscription fear into expanding rebellion and state cost.
 - [Palace Marriage Family Mobility / 后宫婚姻式家族跃迁](concepts/PalaceMarriageFamilyMobility.md) — Family strategy where a daughter's palace selection, imperial favor, and empress title convert household preparation into outer-relative status.
 - [强迁避敌反噬 / Coercive Frontier Relocation Backfire](concepts/CoerciveFrontierRelocationBackfire.md) — Frontier failure mode where forced civilian relocation meant to deny rebels support destroys livelihood, kills or scatters civilians, and can convert protected people into rebel manpower.
 - [Family Risk Diversification / 家族风险分散](concepts/FamilyRiskDiversification.md) — Strategy or retrospective pattern where families and individuals reduce collapse exposure by not concentrating every path in one power channel.

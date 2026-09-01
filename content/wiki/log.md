@@ -14579,3 +14579,11 @@ Ingested the 2026-09-01 声动早咖啡 business-news roundup on Chinese airline
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？
+
+Ingested the 2026-06-19 芮淇讲透资治通鉴 episode backfilling Jianwu 9 / 33 CE. Created `JiZunEasternHan`, `YaoQiEasternHan`, `WenXuEasternHan`, `LaiXiEasternHan`, `WeiXiaoEasternHan`, and `ImperialPraiseComparisonPressure`; updated Liu Xiu, Wu Han, Gongsun Shu, Ban Biao, Goguryeo, Min Kan, Du Mao, frontier official-abuse rebellion spiral, overview, index, and downstream synthesis artifacts. No settled contradiction found; Gou Yu, Wei Chun, Wang Yuan, Zhou Zong, Zhao Kuang, Tian Yan, Jia Lan, Zhu Hu, Wang Chang, Hou Jin, Wang Ba, exact force counts, and minor place names remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

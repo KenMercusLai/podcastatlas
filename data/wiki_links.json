@@ -25487,6 +25487,10 @@
     "title": "Imperial Petition Offense Risk / 申冤上书冒犯风险",
     "url": "/wiki/concepts/imperialpetitionoffenserisk/"
   },
+  "ImperialPraiseComparisonPressure": {
+    "title": "公开称贤比较压力 / Imperial Praise Comparison Pressure",
+    "url": "/wiki/concepts/imperialpraisecomparisonpressure/"
+  },
   "ImperialPreferenceSpeechRisk": {
     "title": "帝王偏好下的表达风险 / Imperial Preference Speech Risk",
     "url": "/wiki/concepts/imperialpreferencespeechrisk/"
@@ -27366,6 +27370,10 @@
   "JiYun": {
     "title": "纪昀 / Ji Yun",
     "url": "/wiki/entities/jiyun/"
+  },
+  "JiZunEasternHan": {
+    "title": "祭遵 / Ji Zun (Eastern Han)",
+    "url": "/wiki/entities/jizuneasternhan/"
   },
   "JiaBaoyu": {
     "title": "贾宝玉 / Jia Baoyu",
@@ -29650,6 +29658,10 @@
   "LaiLiLateHan": {
     "title": "来历 / Lai Li (late Han)",
     "url": "/wiki/entities/laililatehan/"
+  },
+  "LaiXiEasternHan": {
+    "title": "来歙 / Lai Xi (Eastern Han)",
+    "url": "/wiki/entities/laixieasternhan/"
   },
   "LaiXinlu": {
     "title": "Lai Xinlu",
@@ -55387,6 +55399,10 @@
     "title": "魏襄王 / King Xiang of Wei",
     "url": "/wiki/entities/weixiangwang/"
   },
+  "WeiXiaoEasternHan": {
+    "title": "隗嚣 / Wei Xiao (Eastern Han)",
+    "url": "/wiki/entities/weixiaoeasternhan/"
+  },
   "WeiXiaokang": {
     "title": "魏小康 / Wei Xiaokang",
     "url": "/wiki/entities/weixiaokang/"
@@ -55490,6 +55506,10 @@
   "WenWangGuanrenFa": {
     "title": "Wen Wang Guanren Fa / 文王官人法",
     "url": "/wiki/concepts/wenwangguanrenfa/"
+  },
+  "WenXuEasternHan": {
+    "title": "温序 / Wen Xu (Eastern Han)",
+    "url": "/wiki/entities/wenxueasternhan/"
   },
   "WenYiduo": {
     "title": "闻一多 / Wen Yiduo",
@@ -57986,6 +58006,10 @@
   "YaoLi": {
     "title": "要离 / Yao Li",
     "url": "/wiki/entities/yaoli/"
+  },
+  "YaoQiEasternHan": {
+    "title": "姚期 / Yao Qi (Eastern Han)",
+    "url": "/wiki/entities/yaoqieasternhan/"
   },
   "YaoShunYuLegend": {
     "title": "尧舜禹传说 / Yao-Shun-Yu Legend",
@@ -64810,6 +64834,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq": {
+    "title": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq/"
   },
   "zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2": {
     "title": "《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？",
