@@ -14587,3 +14587,11 @@ Ingested the 2026-06-19 芮淇讲透资治通鉴 episode backfilling Jianwu 9 / 
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？
+
+Ingested the 2026-06-19 芮淇讲透资治通鉴 episode backfilling Jianwu 8 / 32 CE. Created `SecurityForAuthorityExchange`; updated Dou Rong, Wei Xiao, Wu Han, Cen Peng, Kou Xun, Zhang Bu, overview, and index. No settled contradiction found; 斗荣, 魏瑶, 张布, 寇勋, 温叙, 尹川, 龙西, and 济音 were normalized to the established Eastern Han routes, while Niu Han, Wang Zun, Wei Xun, Dou You, Wang Yuan, Xing Xun, Zhou Zong, Tian Yan, Li Yu, Gai Yan, Zhang Hong, Zhang Lan, Chen Jun, Wang Chang, exact force counts, and Xicheng/Shanggui details remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

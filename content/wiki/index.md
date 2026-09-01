@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？](sources/zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv.md) — Jianwu 8 Guangwu episode on Dou Rong's security-for-authority submission, Wei Xiao's refused surrender and Xicheng rescue, Wu Han's food-short siege failure, Kou Xun's Yingchuan pacification, Geng Chun's reputation-backed surrender, and Zhang Bu's late flight and execution.
 - [《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？](sources/zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq.md) — Jianwu 9 Guangwu episode on Ji Zun's death and praise-pressure after mourning, Wen Xu's loyal suicide, Goguryeo tribute recognition, Wei Xiao's continuing western faction, Wu Han/Du Mao's northern setback, Lai Xi's Longxi/Tianshui plan, and Ban Biao's Qiang-governance diagnosis.
 - [凯乐石在欧洲开店，广告首次成为 B 站第一大业务](sources/kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081.md) — 声动早咖啡 roundup on Kailas/Fuga Europe expansion, Bilibili advertising becoming its largest segment, Miniso large IP stores, BYD overseas sales, oral GLP-1 China competition, appliance exports, PayPal buyer talks, airline costs, and dairy recovery.
 - [《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？](sources/zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2.md) — Jianwu 9-10 Guangwu episode on the no-ransom hostage rule, Yin Xing's outer-relative restraint, Guo Ji's trust-based bandit surrender, Western Regions and northern campaign notices, and Kou Xun's killing of Huangfu Wen to force Gao Jun's surrender.
@@ -10539,6 +10540,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Security for Authority Exchange / 交权换安全](concepts/SecurityForAuthorityExchange.md) — consolidation pattern in which a regional actor trades independent authority for household security, honor, and a survivable subordinate role.
 - [Platform Advertising Monetization / 平台广告商业化](concepts/PlatformAdvertisingMonetization.md) — Bilibili case where advertising becomes the largest revenue segment through user demographics, creator recommendations, AI content, and advertiser demand.
 - [Interest Consumption Retail / 兴趣消费零售](concepts/InterestConsumptionRetail.md) — Retail strategy where IP, exclusivity, check-ins, fandom, and emotional value drive visits beyond functional product demand.
 - [Dairy Category Premiumization / 乳制品品类升级](concepts/DairyCategoryPremiumization.md) — Dairy recovery pattern linking fresh milk, cheese, functional nutrition, ice cream, and expanded consumption occasions.

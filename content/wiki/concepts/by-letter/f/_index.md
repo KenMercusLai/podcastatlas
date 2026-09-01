@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6191
+wiki_total_pages: 6192
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"

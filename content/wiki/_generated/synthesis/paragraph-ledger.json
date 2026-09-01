@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "d443e2d07d3e3bb0d935d41e5d5a12348a56349d2005038b7e12ae376c1c6ca6",
       "8881e191f20a7a53a1808c3ab8d85c3be4989ad7dd0e5766dc92231d5172c9d1",
       "a3f502dc612a49c24ea3ef01dcf62010e596307ee67761c90d6a6f4ce35a45ca",
       "f07191b9a08bddf99d02abceb078b22fd7fe7ffd031a2ce8c8c4ddb6102b8d32",
@@ -467,11 +468,33 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 465
+    "paragraph_count": 466
   },
-  "overview_commit": "9c2eb512425ce28a0b22c6a21a6a7b74eb69c97e",
-  "overview_digest": "2b6568d180c73b3afeb6286e86683724ee670aa58fd6c7529110aa75905f8874",
+  "overview_commit": "16b3a75dd9024199bb19f44dc3b001850e35fe33",
+  "overview_digest": "eebd2d0809613835f0278978a1106e8aaa38912427be9b46d7908fae3085a5b0",
   "paragraphs": [
+    {
+      "id": "d443e2d07d3e3bb0d935d41e5d5a12348a56349d2005038b7e12ae376c1c6ca6",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 8 / 32 CE before [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|Hanji 708]] and [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]]. It adds [[SecurityForAuthorityExchange|交权换安全]], while extending [[DouRongEasternHan|窦融]], [[WeiXiaoEasternHan|隗嚣]], [[WuHanEasternHan|吴汉]], [[CenPengEasternHan|岑彭]], [[KouXunEasternHan|寇恂]], and [[ZhangBuEasternHan|张步]]. Its core synthesis is that early Guangwu consolidation is a security bargain under military stress: Dou Rong survives by making submission visible and useful, while Wei Xiao and Zhang Bu show how refusal or late flight can collapse once followers, counties, supplies, and escape routes turn. No settled contradiction is recorded; Niu Han, Wang Zun, Wei Xun, Dou You, Wang Yuan, Xing Xun, Zhou Zong, Tian Yan, Li Yu, Gai Yan, Zhang Hong, Zhang Lan, Chen Jun, Wang Chang, exact force counts, and Xicheng/Shanggui details remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "CenPengEasternHan",
+        "DouRongEasternHan",
+        "KouXunEasternHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SecurityForAuthorityExchange",
+        "WeiXiaoEasternHan",
+        "WuHanEasternHan",
+        "ZhangBuEasternHan",
+        "zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv",
+        "zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq",
+        "zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2"
+      ]
+    },
     {
       "id": "8881e191f20a7a53a1808c3ab8d85c3be4989ad7dd0e5766dc92231d5172c9d1",
       "primary_topic": "business-and-markets",
