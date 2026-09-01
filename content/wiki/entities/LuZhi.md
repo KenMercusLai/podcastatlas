@@ -1,73 +1,102 @@
 ---
 title: "吕雉 / Lu Zhi"
 type: entity
-tags: [person, qin-han, family, western-han]
-sources: [zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr, zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox, zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s, zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k, zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
-last_updated: 2026-08-23
+knowledge_schema: synthesis-v1
+tags: [person, qin-han, family, western-han, regency, historical-memory]
+sources:
+  - zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr
+  - zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox
+  - zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l
+  - zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr
+  - zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb
+  - zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s
+  - zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k
+  - zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1
+  - zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym
+  - zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx
+  - zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc
+  - zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1
+  - zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj
+  - zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern
+  - zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj
+  - zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm
+  - zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j
+  - zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz
+last_updated: 2026-09-02
 ---
 
-# 吕雉 / Lu Zhi
+## Overview
 
-吕雉 / Lu Zhi enters the wiki in [[zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j|Qinji 128-6]] as [[LuGongLiuBangFatherInLaw|吕公]]'s daughter and the woman Lu Gong offers to [[LiuBang|刘邦]] after the Pei County banquet. This source does not yet narrate her later political career; it uses the marriage as evidence that Lu Gong's judgment turns Liu Bang's performed potential into a durable family alliance.
+Lu Zhi / 吕雉 is synthesized as Liu Bang's wife, Western Han founding empress, succession-protection actor, regency power center, and later target of contested historical memory. The older bounded evidence follows her from [[LuGongLiuBangFatherInLaw|吕公]]'s marriage decision through Chu captivity, heqin-family resistance, crown-prince protection, Han Xin's killing, and post-Liu-Bang fear. [[zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz|Hanji 687]] adds a posthumous memory layer: a historical-record tradition that the [[ChimeiRebellion|赤眉]] violated Western Han imperial mausoleums and allegedly humiliated Lu Zhi's corpse, while the host leaves the exact truth uncertain.
 
-The episode places Lu Zhi inside a wider Lu family network. Her brothers Lu Ze and the transcript's "吕士之" later follow Liu Bang and gain merit, while her sister Lu Xu marries [[FanKuai|樊哙]]. The source therefore treats the marriage not only as a household story but as part of the relationship web around Liu Bang's future [[WesternHanDynasty|Western Han]] founding group.
+## Current Profile
 
-[[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] shifts Lu Zhi from marriage-network setup into wartime exposure. After [[LiuBang|刘邦]] retakes the Three Qin, he sends envoys toward Chu-held territory to recover Lu Zhi, [[LiuTaigong|刘太公]], and his son; the attempt is blocked when [[XiangYu|项羽]]'s forces control the route and then use [[WangLingMother|王陵母亲]] as pressure against [[WangLingHanMinister|王陵]].
+Lu Zhi first appears as the daughter through whom Lu Gong converts his judgment of Liu Bang's unusual potential into a family alliance. The marriage ties Liu Bang to a wider Lu family network, including later military and in-law relationships, and makes Lu Zhi part of the future [[WesternHanDynasty|Western Han]] founding group before she is a visible political actor herself.
 
-[[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] narrates the capture behind that later wartime exposure. After Liu Bang flees Pengcheng, Lu Zhi, Liu Taigong, and [[ShenYiji|审食其]] try to catch up with him but are captured by Chu troops and held by [[XiangYu|项羽]]. The same episode also links Lu Zhi to [[XiahouYing|夏侯婴]]'s later honor because Xiahou Ying rescued her children [[LiuYing|刘盈]] and [[LuYuanPrincess|鲁元公主]] during the flight.
+The Chu-Han war evidence makes Lu Zhi's body and household politically exposed. She, Liu Taigong, and Shen Yiji are captured after Liu Bang's Pengcheng flight, and their later release through the Honggou settlement gives hostage recovery direct diplomatic weight. Her children [[LiuYing|刘盈]] and [[LuYuanPrincess|鲁元公主]] remain central to this household-security profile.
 
-[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] moves Lu Zhi into the later regency frame as Empress Lu. The source says [[WangLingHanMinister|王陵]] opposes making Lu-family members kings, while [[ChenPing|陈平]] and [[ZhouBo|周勃]] do not take the same open stand. The episode keeps Chen Ping's conduct source-scoped as survivalist ambiguity rather than settled Lu-faction loyalty, because after Lu Zhi's death he joins the anti-Lu restoration that brings [[LiuHeng|刘恒 / Emperor Wen of Han]] to the throne.
+The heqin and succession episodes make Lu Zhi a protector of the legitimate empress branch. She blocks sending Princess Lu Yuan to the Xiongnu while leaving the policy to proceed through a substitute princess, and she later treats Liu Ying's possible replacement by Liu Ruyi as an existential threat to her branch. Her plea during the Ying Bu crisis extends that protection into military staffing: the crown prince should not command Liu Bang's old generals in a crisis field.
 
-[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] adds the transition from Liu Bang's death into Lu Zhi's immediate power. After [[ChenPing|陈平]] and [[ZhouBo|周勃]] preserve [[FanKuai|樊哙]] alive instead of executing him, Chen Ping rushes to Liu Bang's coffin, performs grief, and lets Lu Zhi hear that Fan Kuai is not dead. In the source's reading, this information prevents Lu Zhi from killing Chen Ping and helps him remain in the capital as langzhongling for the new emperor.
+The Han Xin episodes make Lu Zhi a capital-security actor with contested moral status. One source frames her seizure and killing of Han Xin in Changle Palace as a response to a reported plot against the empress and crown prince while Liu Bang is away. A later source complicates that by making the plot accusation less certain and reading possible Lu-family factional agency through Fan Kuai's channel. The current synthesis therefore treats her Han Xin role as both succession-protective and politically contested.
 
-The same episode then treats Chen Ping's apparent cooperation under Lu Zhi as controlled camouflage. He agrees publicly, avoids open martyrdom, and hides his later coordination with Zhou Bo until the anti-Lu action becomes possible.
+The regency and fear evidence shows Lu Zhi as the expected post-Liu-Bang authority. Chen Ping's survival under her depends on information timing and tactical cooperation, Wang Ling's resistance to Lu-family kingship marks the boundary of her power, and Lu Wan's later explanation treats her as the feared eliminator of non-Liu kings and merit ministers. Hanji 191 remains evidence of Lu Wan's fear and political interpretation, not independent proof of every accusation.
 
-[[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]] ends Lu Zhi's Chu-hostage sequence. After Hou Gong secures the Honggou agreement, Xiang Yu sends Lu Zhi and Liu Taigong back with ceremony. The episode treats their return as the immediate payoff of Liu Bang's negotiation before he reverses course and pursues Xiang Yu.
+Hanji 687 extends Lu Zhi beyond her lifetime into posthumous memory. The alleged Chimei violation of her corpse, if treated as tradition rather than established fact, shows how later regime collapse could weaponize Western Han tombs, bodies, and dynastic memory. The wiki therefore keeps this layer tied to [[TombDesecrationPoliticalViolence|陵墓亵渎式政治暴力]] and [[PublicCorpseHumiliation|尸体公开羞辱]] without turning the allegation into a settled biography claim.
 
-[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] moves Lu Zhi from recovered hostage into founding empress. After [[LiuBang|刘邦]] becomes emperor, the episode says Lu Zhi is made empress while [[LiuYing|刘盈]] is made crown prince, turning the family line into part of the first [[WesternHanDynasty|西汉]] order.
+## Key Characteristics
 
-[[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]] uses Lu Zhi indirectly in the [[HanXin|韩信]]-[[FanKuai|樊哙]] scene. Because Fan Kuai is married into the Lu family through Lu Xu, the host reads any visible closeness between Han Xin and Fan Kuai as more dangerous: it could look like Han Xin's military prestige joining Fan Kuai's old-follower legitimacy and Lu-family channel.
+- Marriage-alliance figure whose household tie to Liu Bang begins as Lu Gong's political investment.
+- Wartime hostage and family-security figure during the Chu-Han struggle.
+- Maternal and dynastic protector of Princess Lu Yuan, Liu Ying, and the legitimate empress branch.
+- Capital-security actor whose role in Han Xin's killing is powerful but evidentially contested.
+- Regency power center whose authority shapes Chen Ping, Wang Ling, Zhou Bo, and Lu Wan's later calculations.
+- Feared post-Liu-Bang actor in non-Liu king and merit-minister politics.
+- Posthumous memory figure whose alleged Chimei-era corpse humiliation remains source-scoped.
 
-[[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]] keeps Lu Zhi offstage but makes her household position politically central. [[LouJing|刘敬 / 楼敬]] proposes that Liu Bang send the legitimate daughter born to Liu Bang and Lu Zhi to [[MaoDunChanyu|冒顿单于]] as the core of a new [[HanXiongnuHeqinPolicy|汉匈和亲政策]]. The episode closes before Lu Zhi's response, so the page records the issue as a source-scoped clash between frontier stabilization and the imperial household's succession/family order.
+## Evidence
 
-[[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] gives that response. When [[LiuBang|刘邦]] accepts Liu Jing's plan to send [[LuYuanPrincess|鲁元公主]] to the Xiongnu, Lu Zhi pleads that she has only this one daughter and cannot bear to send her away. The episode therefore makes Lu Zhi the immediate blocker of the first concrete heqin implementation, not because the frontier logic is answered strategically, but because imperial household affection and maternal claim override it at this point.
+- Marriage alliance: [[zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j|Qinji 128-6]] presents Lu Gong's offer of Lu Zhi to Liu Bang as a durable family alliance created from a political reading of potential.
+- Lu-family network: [[zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j|Qinji 128-6]] connects Lu Zhi to Lu brothers and Fan Kuai's later in-law channel.
+- Hostage exposure: [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] says Lu Zhi, Liu Taigong, and Shen Yiji are captured by Chu troops after Liu Bang flees Pengcheng.
+- Hostage recovery: [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]] says the Honggou agreement returns Lu Zhi and Liu Taigong before Liu Bang reverses course against Xiang Yu.
+- Founding status: [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] makes Lu Zhi empress and Liu Ying crown prince after Liu Bang's accession.
+- Heqin resistance: [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]] raises the proposal to send Liu Bang and Lu Zhi's legitimate daughter to the Xiongnu, while [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] has Lu Zhi block the concrete plan through maternal pleading.
+- Policy workaround: [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] shows the policy continuing through another woman styled as a legitimate elder princess, preserving Lu Yuan while not ending heqin.
+- Succession protection: [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]] presents Lu Zhi as the endangered empress-branch actor when Liu Bang considers replacing Liu Ying with Liu Ruyi.
+- Crown-prince command risk: [[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox|Hanji 187]] has Lu Zhi plead against sending Liu Ying to command Liu Bang's generation of generals during the Ying Bu crisis.
+- Han Xin killing: [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] says Lu Zhi consults Xiao He, uses false victory news to summon the court, and has Han Xin seized and killed in Changle Palace.
+- Succession-protective reading: [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|Hanji 182 part 3]] reads the killing as removing a future danger to Lu Zhi and Liu Ying while Liu Bang is away.
+- Contesting the accusation: [[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]] makes the Han Xin rebellion accusation less certain and suggests possible Lu-family factional initiative.
+- Regency power: [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] contrasts Wang Ling's resistance to Lu-family kingship with Chen Ping and Zhou Bo's tactical ambiguity under Lu Zhi.
+- Capital survival: [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] shows Chen Ping surviving by managing Fan Kuai information and his position before Lu Zhi.
+- Fear evidence: [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] records Lu Wan's fear that Lu Zhi will eliminate remaining non-Liu kings and merit ministers.
+- Posthumous memory: [[zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz|Hanji 687]] records the Chimei mausoleum-looting and Lu Hou corpse-violation tradition while marking its exact factual status as uncertain.
 
-[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] shows the workaround rather than a reversal of Lu Zhi's plea. Liu Bang does not send Princess Lu Yuan, but he does send another woman under the title of legitimate elder princess, so Lu Zhi's intervention protects her daughter while leaving [[HanXiongnuHeqinPolicy|汉匈和亲政策]] in force.
+## Qualifications
 
-[[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]] brings Lu Zhi directly into the succession danger around [[LiuRuyi|刘如意]]. She is not the proposer, but the episode makes her the endangered empress branch: if Liu Bang replaces [[LiuYing|刘盈]], her future security is broken. Her kneeling thanks to [[ZhouChang|周昌]] after he opposes the change shows that she sees the remonstrance as saving the crown prince; the host also frames Liu Bang's partial handling as creating the resentment and fear that later expose [[QiJi|戚姬 / 戚夫人]] and Liu Ruyi.
+Lu Zhi's current page is a synthesis of bounded source notes, not a full biography. Hanji 183 keeps the Han Xin plot accusation contested, so the page does not reduce her action to either simple self-defense or pure fabrication. Hanji 191 records Lu Wan's fear of Lu Zhi and should not be used as independent proof that every accusation was true. Hanji 687 records a later tradition about Lu Zhi's corpse but explicitly leaves the exact event uncertain; that material belongs to historical memory and tomb/corpse-violation violence unless more evidence appears.
 
-[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] moves Lu Zhi from family-protection actor into capital-security actor. While [[LiuBang|刘邦]] is away suppressing [[ChenXiRebellion|陈豨之乱]], the younger brother of a [[HanXin|韩信]] retainer reports Han Xin's alleged plan to attack the empress and crown prince. Lu Zhi consults [[XiaoHe|萧何]], uses false victory news to summon the court for congratulations, and has Han Xin seized and killed in [[ChanglePalace|长乐宫]].
+## What Changed
 
-[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|Hanji 182 part 3]] makes Lu Zhi's action more explicitly succession-protective in the host's reading. Han Xin's alleged plot threatens the empress and [[LiuYing|刘盈]] while Liu Bang is away, and Lu Zhi's killing of Han Xin is framed as removing a future danger while avoiding direct blame for Liu Bang. The bamboo-killing details remain source-scoped lore, but the episode strengthens Lu Zhi's capital-security role.
+- Migrated the page into the synthesis-v1 entity schema.
+- Added Hanji 687 as Lu Zhi's source-scoped posthumous memory and tomb/corpse-violation layer.
+- Compressed the earlier source-by-source biography into a current profile organized by role.
+- Preserved the evidence inventory exactly and appended the new source.
 
-[[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]] intensifies Lu Zhi-side agency while making the rebellion accusation less certain. The host speculates that the Lu family may have tried to pull [[HanXin|韩信]] through [[FanKuai|樊哙]]'s respectful visit and that Han Xin's insult amounted to refusal; in that reading, Lu Zhi's faction had motive and opportunity to remove him while [[LiuBang|刘邦]] was away. This does not erase Hanji 182's succession-protection frame, but it recasts Lu Zhi's action as a possible factional/capital-security initiative rather than only response to a proven plot.
+## Relationships
 
-[[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox|Hanji 187]] returns Lu Zhi to immediate crown-prince protection during the Ying Bu crisis. Liu Bang's illness makes him consider sending [[LiuYing|刘盈]] as commander, but the advice reaching Lu Zhi argues that the crown prince cannot safely command Liu Bang's generation of generals against [[YingBu|英布 / 黥布]]. Lu Zhi then pleads with Liu Bang, turning the issue from family anxiety into a military-authority argument: only Liu Bang's personal presence can make the generals fight with full effort. The source therefore extends her succession-protective role from Hanji 181-183 into campaign staffing itself.
-
-[[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]] shows Lu Zhi's position winning without her needing to act directly in the scene. [[ZhangLiang|张良]], [[ShusunTong|叔孙通]], and [[ShangshanSiHao|商山四皓]] all help make [[LiuYing|刘盈]]'s crown-prince position hard to replace, and [[LiuBang|刘邦]] tells [[QiJi|戚姬 / 戚夫人]] that Lu Zhi will be her master after his death. The episode therefore turns Lu Zhi from endangered empress branch into the expected post-Liu-Bang authority.
-
-[[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] adds Lu Zhi as the feared post-Liu-Bang power in [[LuWan|卢绾]]'s own explanation. Lu Wan tells confidants that [[HanXin|韩信]] and [[PengYue|彭越]] died through Lu Zhi's schemes and that once Liu Bang is ill and delegates government to her, she will find excuses to kill remaining non-Liu kings and merit ministers. The page records this as Lu Wan's source-scoped fear, not as independent proof of every accusation.
-
-## Connections
-- [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]], [[LuWan|卢绾]], [[HanXin|韩信]], [[PengYue|彭越]], [[LiuBang|刘邦]], and [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] - Lu Wan's fear of Lu Zhi as future eliminator of non-Liu kings and merit ministers.
-- [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]], [[LiuYing|刘盈]], [[LiuRuyi|刘如意]], [[QiJi|戚姬 / 戚夫人]], [[ShangshanSiHao|商山四皓]], and [[AlternativeHeirProtectionFailure|备位继承人保护失灵]] - final succession attempt fails, leaving Lu Zhi as the post-Liu-Bang power Qi Ji must fear.
-- [[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox|Hanji 187]], [[LiuYing|刘盈]], [[LiuBang|刘邦]], [[YingBu|英布 / 黥布]], and [[CrownPrinceCommandRisk|太子挂帅风险]] - Lu Zhi's intervention against sending the crown prince as supreme commander.
-- [[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]], [[HanXin|韩信]], [[FanKuai|樊哙]], [[LiuBang|刘邦]], and [[PublicDisavowalSelfProtection|公开切割式自保]] - source-scoped Lu-family outreach/refusal reading before Han Xin's killing.
-- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|Hanji 182 part 3]], [[HanXin|韩信]], [[XiaoHe|萧何]], [[LiuYing|刘盈]], and [[ChanglePalace|长乐宫]] - succession-protective reading and source-scoped killing lore.
-- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], [[HanXin|韩信]], [[XiaoHe|萧何]], [[ChanglePalace|长乐宫]], and [[CelebratorySummonsEntrapment|报捷祝贺式诱捕]] - informer report, false celebration, capture, and killing.
-- [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]], [[LiuYing|刘盈]], [[LiuRuyi|刘如意]], [[QiJi|戚姬 / 戚夫人]], and [[ZhouChang|周昌]] - empress-branch danger created by the proposed heir replacement.
-- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]], [[LiuBang|刘邦]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - workaround after Lu Zhi blocks sending Princess Lu Yuan.
-- [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]], [[LuYuanPrincess|鲁元公主]], [[MaoDunChanyu|冒顿单于]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - maternal resistance that blocks the first concrete heqin plan.
-- [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]], [[LiuBang|刘邦]], [[LuYuanPrincess|鲁元公主]], [[LouJing|刘敬 / 楼敬]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - source-scoped heqin proposal targeting Liu Bang and Lu Zhi's legitimate daughter.
-- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[LiuBang|刘邦]], [[LiuYing|刘盈]], and [[WesternHanDynasty|西汉]] - founding empress title and succession arrangement.
-- [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]], [[LiuTaigong|刘太公]], [[HouGongChuHan|侯公]], [[HonggouSettlement|鸿沟议和]], and [[InstrumentalTruceBreach|工具化议和毁约]] - release from Chu captivity and hostage-first negotiation reading.
-- [[LuGongLiuBangFatherInLaw|吕公]] - father and decision-maker in the source.
-- [[LiuBang|刘邦]] - husband chosen through the banquet story.
-- [[LiuTaigong|刘太公]], [[WangLingHanMinister|王陵]], and [[WangLingMother|王陵母亲]] - Hanji 148-2 family-retrieval and hostage-coercion setting.
-- [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[ShenYiji|审食其]], [[XiahouYing|夏侯婴]], [[LiuYing|刘盈]], and [[LuYuanPrincess|鲁元公主]] - family capture and later gratitude for the children's rescue.
-- [[ChenPing|陈平]], [[ZhouBo|周勃]], [[WangLingHanMinister|王陵]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - Hanji 150 part 3 regency-period contrast between open opposition and tactical ambiguity.
-- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]], [[FanKuai|樊哙]], and [[TacticalDelayRiskTransfer|延时转责式政治化解]] - post-Liu Bang information management and Chen Ping's survival under Lu Zhi.
-- [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]], [[HanXin|韩信]], [[FanKuai|樊哙]], and [[PublicDisavowalSelfProtection|公开切割式自保]] - Lu-family tie that makes a Han Xin-Fan Kuai relationship politically legible as faction risk.
-- [[FanKuai|樊哙]] - later in-law link through Lu Xu.
-- [[PeiCounty|沛县]] and [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] - local network setting.
-- [[PhysiognomicInvestmentJudgment|看相式政治投资]] - Lu Gong's basis for the marriage decision in this episode.
+- [[LiuBang|刘邦]] - husband and founding ruler whose household, succession, and posthumous order shape Lu Zhi's political role.
+- [[LuGongLiuBangFatherInLaw|吕公]] - father whose marriage decision creates the Liu-Lu alliance.
+- [[LiuYing|刘盈]] - son and crown-prince branch Lu Zhi repeatedly protects.
+- [[LuYuanPrincess|鲁元公主]] - daughter whose proposed heqin marriage Lu Zhi blocks.
+- [[HanXin|韩信]] - military founder whose killing in Changle Palace is the central contested Lu Zhi security episode.
+- [[XiaoHe|萧何]] - adviser whose coordination with Lu Zhi enables the Han Xin trap.
+- [[ChenPing|陈平]] - minister whose survival under Lu Zhi depends on tactical ambiguity and information management.
+- [[ZhouBo|周勃]] - minister linked to later anti-Lu restoration politics in the Lu Zhi regency frame.
+- [[WangLingHanMinister|王陵]] - minister whose resistance to Lu-family kingship marks one boundary of Lu Zhi's rule.
+- [[LuWan|卢绾]] - non-Liu king whose fear testimony records Lu Zhi as a perceived existential threat.
+- [[ChimeiRebellion|赤眉]] - later rebel movement tied to the source-scoped mausoleum and corpse-humiliation tradition.
+- [[TombDesecrationPoliticalViolence|陵墓亵渎式政治暴力]] - concept relationship because Lu Zhi's posthumous memory is attached to violated imperial tomb space.
+- [[PublicCorpseHumiliation|尸体公开羞辱]] - concept relationship because the alleged corpse violation is post-mortem bodily degradation.
+- [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - policy relationship because Lu Zhi blocks one implementation while the policy survives through substitution.
+- [[CrownPrinceCommandRisk|太子挂帅风险]] - military-succession relationship because Lu Zhi opposes using Liu Ying as crisis commander.

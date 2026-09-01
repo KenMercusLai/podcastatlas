@@ -7967,9 +7967,9 @@
       "url": "/wiki/entities/chesterwilliams/"
     },
     "ChimeiRebellion": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -7984,6 +7984,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？ [lhaKzy89W1L4VHAZjuYeNBJrw9IZ].md",
+          "key": "zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz/"
         }
       ],
       "updated": "2026-09-02",
@@ -11699,9 +11706,9 @@
       "url": "/wiki/entities/dengxuneasternhan/"
     },
     "DengYuEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
@@ -11730,6 +11737,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？ [lhaKzy89W1L4VHAZjuYeNBJrw9IZ].md",
+          "key": "zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz/"
         }
       ],
       "updated": "2026-09-02",
@@ -17486,9 +17500,9 @@
       "url": "/wiki/entities/fengtouquan/"
     },
     "FengYiEasternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？ [lqCkX-aClcHKZQqe3pTtnklu9Vot].md",
@@ -17538,6 +17552,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？ [lhaKzy89W1L4VHAZjuYeNBJrw9IZ].md",
+          "key": "zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz/"
         }
       ],
       "updated": "2026-09-02",
@@ -31826,6 +31847,141 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/luyuxin/"
+    },
+    "LuZhi": {
+      "episode_count": 18,
+      "show_count": 1,
+      "source_note_count": 18,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
+          "key": "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》187｜英布叛乱 刘邦为何拖病体亲征 [lvjAfoTLnvMYQMWaEAv3noVZ1dOX].md",
+          "key": "zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》187｜英布叛乱 刘邦为何拖病体亲征",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗 [lrBUCdIbtO5Zezrhl7UE0Y9vHB-L].md",
+          "key": "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（3） [lq9fiF0oW90zSyRmovHwxb7-qiCr].md",
+          "key": "zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（3）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（2） [lqk_JIFuPM9lBGHfzAF09IGfufGB].md",
+          "key": "zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因 [lgNbVNNfWxe4Weupqgz_Rh9cbp2S].md",
+          "key": "zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1） [li5U-DMsMB1Lp4NY3rk02Kaiyu4K].md",
+          "key": "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的 [lsLks-OVBoMneORnk4J-q6-ns0X1].md",
+          "key": "zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1） [lumsZkBR-kLNLODXMxdF-n8p5Wym].md",
+          "key": "zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》173｜韩信逃过胯下之辱 没躲过鸟尽弓藏（1） [ljowpzXO9u0eVOrHzbdYi2o0ShLx].md",
+          "key": "zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》173｜韩信逃过胯下之辱 没躲过鸟尽弓藏（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（2） [lqq8qhRamfziI5O5IcEsd_UaGWKC].md",
+          "key": "zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》166｜既然项羽不讲武德，看刘邦如何复仇？ [ltwwBn9rzEqZziMmXXfihB9_DrJ1].md",
+          "key": "zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》166｜既然项羽不讲武德，看刘邦如何复仇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（2） [lq9ecPjB4r-IJ0_e-Iu-EZFAVoWJ].md",
+          "key": "zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4） [lhHPrrKJCUZijGnDi2uuAzAaleRn].md",
+          "key": "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3） [lhFBm3TWyxHyvoKpHf8hC9ssBlQj].md",
+          "key": "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》148-2｜烹了王陵母亲 项羽杀人诛心 [ljyV8Bow4Rj1L5ThS3zNx2eVgVtm].md",
+          "key": "zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》148-2｜烹了王陵母亲 项羽杀人诛心",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-6｜顶级天使轮投资人 吕公 [lhQQja27ZxdiYPGf6wUv1aBGkW3J].md",
+          "key": "zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-6｜顶级天使轮投资人 吕公",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？ [lhaKzy89W1L4VHAZjuYeNBJrw9IZ].md",
+          "key": "zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/luzhi/"
     },
     "LuZhiLateHan": {
       "episode_count": 7,
@@ -48785,6 +48941,36 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/tomorton/"
+    },
+    "TombDesecrationPoliticalViolence": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
+          "key": "zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》952丨但行好事，为什么莫问前程？ [li9vVaEaues9_FXy4E4yP-F4puGJ].md",
+          "key": "zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》952丨但行好事，为什么莫问前程？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？ [lhaKzy89W1L4VHAZjuYeNBJrw9IZ].md",
+          "key": "zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/tombdesecrationpoliticalviolence/"
     },
     "TommyWood": {
       "episode_count": 1,

@@ -11,16 +11,19 @@ sources:
   - zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8
   - zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme
   - zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60
+  - zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz
 last_updated: 2026-09-02
 ---
 
 ## Overview
 
-Feng Yi / 冯异 is synthesized as a Guangwu-era Eastern Han commander whose profile now joins Chimei patience and disguised ambush, Guanzhong/Sanfu pacification, remembered founding hardship, and western terrain preemption against [[WeiXiaoEasternHan|隗嚣]]. [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] backfills the earliest current layer: Feng Yi is made Zhengxi dajiangjun, advises gradual inducement against the [[ChimeiRebellion|赤眉]], warns [[DengYuEasternHan|邓禹]] to rest hungry troops, and later defeats Chimei through same-clothes disguise and ambush. Existing later notes then show him pacifying Guanzhong under scarcity, checking [[GongsunShuEasternHan|Gongsun Shu]]'s Sanfu pressure, being publicly remembered by [[LiuXiu|光武帝刘秀]], and seizing decisive terrain before Wei Xiao's force can occupy it.
+Feng Yi / 冯异 is synthesized as a Guangwu-era Eastern Han commander whose profile now begins with surrender-first Chimei pacification and Huayin pressure, then continues through disguised ambush, Guanzhong/Sanfu stabilization, remembered founding hardship, and western terrain preemption against [[WeiXiaoEasternHan|隗嚣]]. [[zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz|Hanji 687]] supplies the earliest current layer: Liu Xiu sends Feng Yi to replace [[DengYuEasternHan|邓禹]] and tells him to destroy rebels while protecting commoners, with surrender as the primary method and battle as secondary. [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] then supplies the better-known advice, disguise, ambush, and mass-surrender layer.
 
 ## Current Profile
 
-Hanji 688 gives Feng Yi a patience-and-timing profile before his later western campaigns. Liu Xiu appoints him Zhengxi dajiangjun and sends him west after the Chimei problem grows. Feng Yi advises Deng Yu and Deng Hong to combine Liu Xiu's eastern pressure with their western pressure, use trust and gradual inducement, and avoid trying to crush the movement immediately. Deng Yu and Deng Hong ignore the counsel.
+Hanji 687 gives Feng Yi a pacification mandate before his tactical profile. Liu Xiu sends him west as Deng Yu's Guanzhong command weakens, instructs him to attack bandit violence while sheltering ordinary people, and defines the campaign as surrender-first and battle-second. Feng Yi then holds at [[HuayinLateHan|华阴]] for more than sixty days, fights repeated engagements, and receives thousands of Chimei surrenders before the final collapse.
+
+Hanji 688 continues that patience-and-timing profile. Liu Xiu appoints Feng Yi Zhengxi dajiangjun and sends him west after the Chimei problem grows. Feng Yi advises Deng Yu and Deng Hong to combine Liu Xiu's eastern pressure with their western pressure, use trust and gradual inducement, and avoid trying to crush the movement immediately. Deng Yu and Deng Hong ignore the counsel.
 
 The same source also shows Feng Yi's limits and recovery. He suffers a setback while trying to rescue Deng Hong, but he regroups at Huixi and then refuses Deng Yu's renewed haste. When Deng Yu insists on fighting with hungry, tired soldiers, Feng Yi joins but later solves the Chimei problem on different terms: he selects troops, dresses them like Chimei soldiers, hides them on the road, waits for enemy fatigue and confusion, and defeats the movement near the Xiao/Mianchi field before receiving mass surrender.
 
@@ -32,20 +35,22 @@ Hanji 701 supplies Feng Yi's court-recognition layer. When Feng Yi comes from Ch
 
 Hanji 702 gives the most complete battlefield-decision layer. After the Han army retreats from Longshan, Liu Xiu assigns Feng Yi to hold a target city. Wei Xiao sends Wang Yuan and Xing Xun down Longshan with more than 20,000 troops to seize it first. Feng Yi's officers want to stop because they are still shaken, but Feng Yi reads the city's first occupation as the decision point. He advances quickly, enters secretly, closes the gates, hides his force, then reveals drums and flags and sorties suddenly when Xing Xun arrives unaware.
 
-Hanji 705-1 and Hanji 709 keep Feng Yi visible as the western front continues. Wei Xiao's later Anding pressure fails against Feng Yi and [[JiZunEasternHan|Ji Zun]], while the Wei Chun notice preserves the downstream cost of holdout pacification without giving enough detail to become the center of the page.
+Hanji 705-1 and Hanji 709 keep Feng Yi visible as the western front continues. Wei Xiao's later Anding pressure fails against Feng Yi and [[JiZunEasternHan|祭遵]], while the Wei Chun notice preserves the downstream cost of holdout pacification without giving enough detail to become the center of the page.
 
 ## Key Characteristics
 
+- Commander whose earliest current Chimei layer emphasizes surrender-first pacification, civilian protection, and Huayin attrition.
 - Commander whose Chimei advice emphasizes gradual inducement, troop condition, and timing over immediate annihilation.
 - Recovery-oriented tactician who follows an initial setback with concealment, disguise, enemy-fatigue timing, and mass surrender.
 - Guangwu western-campaign commander whose Guanzhong and Sanfu work combines combat, surrender, scarcity management, and rival-channeling.
 - Remembered founding follower whose flight-era food support is made publicly visible by Liu Xiu.
 - Court respondent who turns praise and reward into a reminder that the ruler should preserve difficult founding memory.
 - Battlefield reader who distinguishes a decisive terrain problem from a fear-driven question of whether to fight at all.
-- Recurring anti-Wei commander who remains visible in later Anding and Wei Chun campaign notices.
 
 ## Evidence
 
+- Surrender-first mandate: [[zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz|Hanji 687]] says Liu Xiu sends Feng Yi to replace Deng Yu and instructs him to protect commoners while making surrender primary and battle secondary.
+- Huayin attrition: [[zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz|Hanji 687]] says Feng Yi holds at Huayin for more than sixty days, fights more than ten engagements, and receives 5,000 Chimei surrenders.
 - Western appointment: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Liu Xiu appoints Feng Yi Zhengxi dajiangjun and sends him west against the Chimei field.
 - Gradual inducement advice: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Feng Yi urges Deng Yu and Deng Hong to use trust, inducement, and east-west pressure rather than trying to crush Chimei immediately.
 - Rest advice and contrast with Deng Yu: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Feng Yi warns that the soldiers are hungry and tired, but Deng Yu insists on battle.
@@ -65,20 +70,22 @@ Hanji 705-1 and Hanji 709 keep Feng Yi visible as the western front continues. W
 
 ## Qualifications
 
-The current page does not reconstruct Feng Yi's full biography or broader founding-war career. Hanji 688 gives a strong Chimei command-judgment layer, but Deng Hong, exact surrender counts, and some Xiaodi/Mianchi place details remain source-scoped. Hanji 689-1 supplies a Guanzhong pacification layer, but exact surrender groups and food-price mechanics remain source-scoped. Hanji 691 supplies a compact anti-Shu Sanfu layer, but Li Yu, Cheng Yan, Lü Wei, exact routes, and surrendering camps remain source-scoped. Hanji 701 supplies a court-memory and reward scene, not the full chronology of Feng Yi's early service. Hanji 702 is strong evidence for one western campaign decision, but the target city's name and some subordinate details remain ASR-sensitive.
+The current page does not reconstruct Feng Yi's full biography or broader founding-war career. Hanji 687 gives a clear pacification mandate and Huayin standoff, but exact subordinate names and some force/casualty details remain source-scoped. Hanji 688 gives a strong Chimei command-judgment layer, but Deng Hong, exact surrender counts, and some Xiao/Mianchi place details remain source-scoped. Hanji 689-1 supplies a Guanzhong pacification layer, but exact surrender groups and food-price mechanics remain source-scoped. Hanji 691 supplies a compact anti-Shu Sanfu layer, but Li Yu, Cheng Yan, Lü Wei, exact routes, and surrendering camps remain source-scoped. Hanji 701 supplies a court-memory and reward scene, not the full chronology of Feng Yi's early service. Hanji 702 is strong evidence for one western campaign decision, but the target city's name and some subordinate details remain ASR-sensitive.
 
 ## What Changed
 
-- Added Hanji 688 as Feng Yi's Chimei patience, rest-advice, disguise, ambush, and mass-surrender layer.
-- Reframed his profile from mainly Guanzhong/Sanfu/Wei Xiao operations into a broader timing-and-recovery command profile.
+- Added Hanji 687 as Feng Yi's surrender-first mandate, civilian-protection frame, and Huayin attrition layer.
+- Reframed Hanji 688 as the next Chimei tactical and mass-surrender layer rather than the start of the Chimei profile.
 - Preserved Hanji 689-1 and Hanji 691 as western consolidation layers after the Chimei field.
 - Preserved Hanji 701 as court memory and Hanji 702 as the page's clearest decisive-terrain case.
 
 ## Relationships
 
-- [[LiuXiu|光武帝刘秀]] - ruler who appoints Feng Yi west, publicly remembers his early service, and later deploys him in the western campaign.
-- [[ChimeiRebellion|赤眉]] - enemy movement Feng Yi advises against handling rashly and later defeats through disguise and ambush.
-- [[DengYuEasternHan|邓禹]] - commander whose Chimei haste contrasts Feng Yi's timing and troop-condition judgment.
+- [[LiuXiu|光武帝刘秀]] - ruler who appoints Feng Yi west, instructs his surrender-first pacification, publicly remembers his early service, and later deploys him in the western campaign.
+- [[ChimeiRebellion|赤眉]] - enemy movement Feng Yi pressures at Huayin, advises against handling rashly, and later defeats through disguise and ambush.
+- [[DengYuEasternHan|邓禹]] - commander whose Chimei deterioration and haste contrast Feng Yi's timing and troop-condition judgment.
+- [[HuayinLateHan|华阴]] - campaign site where Feng Yi's long standoff produces early Chimei surrender.
+- [[PoliticalSurrenderCascade|招降示范级联]] - concept relationship because Feng Yi's campaign centers on induced surrender before decisive battle.
 - [[StatusDrivenCommandFailure|面子驱动的指挥失误]] - contrast concept because Feng Yi's advice names the conditions Deng Yu overlooks.
 - [[BattlefieldFeintAndLure|声东击西与诱敌]] - tactical relationship because Feng Yi uses identity confusion and concealed force against Chimei.
 - [[GuanzhongRegion|关中]] - regional field where Feng Yi's early pacification combines victory, surrender, and food scarcity.
@@ -87,6 +94,3 @@ The current page does not reconstruct Feng Yi's full biography or broader foundi
 - [[GongsunShuEasternHan|公孙述]] - rival claimant whose Chen Cang/Sanfu pressure Feng Yi checks before the later Shu campaign.
 - [[JiZunEasternHan|祭遵]] - parallel commander whose victory over Wang Yuan reinforces Feng Yi's counterblow in Hanji 702 and Anding resistance in Hanji 705-1.
 - [[DecisiveTerrainPreemption|争地抢先式决胜]] - grounding concept because Feng Yi's action turns first occupation of key terrain into tactical and political advantage.
-- [[BeidiCommandery|北地郡]] - regional result because local forces there turn away from Wei Xiao after the Han victories.
-- [[Shangjun|上郡]] - regional result because the commandery submits after Feng Yi's follow-up action.
-- [[AndingCommandery|安定郡]] - regional result and later campaign field where Feng Yi and Ji Zun block Wei Xiao's pressure.

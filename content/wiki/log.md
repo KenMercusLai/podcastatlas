@@ -14883,3 +14883,11 @@ Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 3 / 
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] ingest | 《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？
+
+Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 2 / 26 CE around Chimei's failed westward move, Western Han mausoleum looting, the source-scoped Lu Hou corpse-violation tradition, Deng Yu's Guanzhong setbacks, Liu Xiu's surrender-first instruction to Feng Yi, Sanfu famine, and the Huayin standoff. Added source `zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz`; updated `LuZhi`, `ChimeiRebellion`, `DengYuEasternHan`, `FengYiEasternHan`, `TombDesecrationPoliticalViolence`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the Lu Zhi corpse report remains source-scoped, and Liu Yong, Deng Feng, Dong Xing, Deng Long, Zhu Hu, Liao Zhan, Hou Jin, and exact force/casualty counts remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

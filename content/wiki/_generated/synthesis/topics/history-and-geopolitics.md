@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-02
-as_of_overview_commit: 14f2217998b59e4b1b59d81ed6bd6a4b5beec630
-input_digest: 6ebbcf2e2de3809abd538e9c3fc7bdbd4ce6bbdda52ef936744201cac5b8953e
+as_of_overview_commit: 6375781ed5504fff98b7a55277ca116bd95d08f6
+input_digest: 40ccf8816d28c35002a3e8843bf05904bc4b186cd2f47dec25e9b29ad8539d26
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 688 adds the earliest current Guangwu/Jianwu 3 Chimei settlement layer: Deng Yu's status-driven command failure contrasts with Feng Yi's patience and disguised ambush, while Liu Penzi's surrender, Fu Long's doomed Zhang Bu mission, and Liu Xiu's delayed response to Peng Chong connect early consolidation to timing, credible settlement, title politics, and core-before-periphery priority. Hanji 689-1 then adds the adjacent Wei Xiao courtship layer, where Liu Xiu is still clearing multiple fronts and Lai Xi opens contact to isolate Gongsun Shu while Wei Xiao remains suspicious. Hanji 689-2 and Hanji 689-3 separately form a Western Han/Niya-Jingjue evidence layer through Han documents, Niya ruins, Kharosthi materials, the five-star brocade, omen politics, Western Regions diplomacy, and qualified multi-cause decline.
+Hanji 687 now adds the earliest current Guangwu/Jianwu 2 Guanzhong layer: Chimei grave looting and the source-scoped Lu Hou corpse tradition mark ritual collapse, Deng Yu already shows command deterioration under famine pressure, Wu Han's rough Nanyang conduct helps trigger Deng Feng rebellion, and Liu Xiu centers surrender-first pacification through Feng Yi before the Hanji 688 final Chimei settlement. Hanji 688 then adds Jianwu 3 defeat, mass surrender, provisioning, Fu Long's Zhang Bu mission, and Peng Chong's exposed Yan claim; Hanji 689-1 continues the adjacent Wei Xiao courtship and multi-front cleanup layer. Hanji 689-2 and Hanji 689-3 separately form a Western Han/Niya-Jingjue evidence layer through Han documents, Niya ruins, Kharosthi materials, the five-star brocade, omen politics, Western Regions diplomacy, and qualified multi-cause decline.
 
 ## Cross-source Findings
+
+### Hanji 687 Guangwu Chimei Guanzhong Surrender First Pacification
+
+[[zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz|Hanji 687]] backfills Jianwu 2 / 26 CE into early Guangwu consolidation: [[ChimeiRebellion]] grave looting and the source-scoped [[LuZhi]] corpse tradition mark ritual collapse, [[DengYuEasternHan]] defeats and shrinking support show command failure under Sanfu famine pressure, [[WuHanEasternHan]] rough Nanyang conduct helps trigger Deng Feng rebellion, and [[LiuXiu]] makes [[FengYiEasternHan]] carry a surrender-first and civilian-protection strategy around [[GuanzhongRegion]], [[ChangAnHanCapital]], and [[HuayinLateHan]] before the final Chimei settlement in Hanji 688.
+
+**Evidence:** [[zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz]], [[RuiqiJiangtouZizhiTongjian]], [[LiuXiu]], [[LuZhi]], [[ChimeiRebellion]], [[DengYuEasternHan]], [[FengYiEasternHan]], [[WuHanEasternHan]], [[GaiYanEasternHan]], [[FuLongEasternHan]], [[CenPengEasternHan]], [[WangChangLateHan]], [[YanCenEasternHan]], [[WeiXiaoEasternHan]], [[GuanzhongRegion]], [[ChangAnHanCapital]], [[HuayinLateHan]], [[TombDesecrationPoliticalViolence]], [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60]], [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme]]
+
+**Qualifications:**
+
+- The Lu Zhi corpse-violation report is retained as a historical-record tradition with uncertain factual status, not as a fact asserted by the wiki.
+- Liu Yong, Deng Feng, Dong Xing, Deng Long, Zhu Hu, Liao Zhan, Hou Jin, exact force counts, casualty counts, and minor place readings remain source-scoped.
+- The source backfills Hanji 688 and Hanji 689-1 chronologically; it qualifies those later Chimei and multi-front layers rather than contradicting them.
 
 ### Western Han 689 Three Five Star Brocade Frontier Omen Politics
 

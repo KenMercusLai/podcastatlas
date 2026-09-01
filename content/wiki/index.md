@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？](sources/zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz.md) — Jianwu 2 Guangwu backfill on Chimei grave looting, Lu Zhi's source-scoped posthumous humiliation tradition, Deng Yu's failed Guanzhong command, Liu Xiu's surrender-first directive to Feng Yi, and Sanfu famine.
 - [《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？](sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60.md) — Jianwu 3 Guangwu episode on Deng Yu's failed Chimei campaign, Feng Yi's disguised ambush, Liu Penzi's mass surrender, Fu Long's doomed mission to Zhang Bu, and Peng Chong's exposed Yan claim.
 - [《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？](sources/zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme.md) — Jianwu 3 Guangwu backfill on multi-front cleanup, Feng Yi's Guanzhong pacification, Wu Han's injured morale recovery, Cen Peng and Gai Yan's southern/eastern pressure, Geng Yan's northern plan, and Lai Xi's first Wei Xiao courtship strategy against Gongsun Shu.
 - [《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜](sources/zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu.md) — 芮淇讲透资治通鉴 episode using Jingjue popular memory to connect Han textual records, Niya archaeology, Kharosthi documents, Stein's collecting, Supi invasion pressure, and the five-star brocade setup.
@@ -1901,7 +1902,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [任延 / Ren Yan (Eastern Han)](entities/RenYanEasternHan.md) — Jiuzhen official associated with agricultural instruction in the southern frontier.
 - [莎车王延 / King Yan of Shache (Eastern Han)](entities/ShacheKingYanEasternHan.md) — Former Chang'an hostage and Shache ruler remembered for instructing descendants to serve Han.
 - [莎车王康 / King Kang of Shache (Eastern Han)](entities/ShacheKingKangEasternHan.md) — Han-loyal Shache ruler who resists Xiongnu pressure, protects Han personnel, and receives Dou Rong's recognition.
-- [冯异 / Feng Yi (Eastern Han)](entities/FengYiEasternHan.md) — Guangwu commander whose profile joins Chimei patience and disguised ambush, Guanzhong/Sanfu pacification, remembered founding hardship, and western terrain preemption.
+- [冯异 / Feng Yi (Eastern Han)](entities/FengYiEasternHan.md) — Guangwu commander whose profile joins surrender-first Chimei pacification, Huayin pressure, disguised ambush, Guanzhong/Sanfu stabilization, remembered founding hardship, and western terrain preemption.
 - [Kailas / 凯乐石](entities/Kailas.md) — Chinese outdoor brand using Fuga, Chamonix retail, race sponsorship, and athlete credibility to enter Europe's trail-running market.
 - [Fuga](entities/Fuga.md) — Kailas-linked trail-running brand or product line used as the source's overseas market-entry wedge.
 - [Miniso / 名创优品](entities/Miniso.md) — Chinese retail company using large IP-heavy stores, emotional-value products, and slower overseas openings as a store-model quality test.
@@ -2059,7 +2060,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [寿光侯刘李 / Liu Li, Shouguang Marquis (Eastern Han)](entities/LiuLiShouguangMarquisEasternHan.md) — Liu Xuan's son whose guest-backed killing of Liu Gong triggers Guangwu's prince-guest crackdown.
 - [阴识 / Yin Shi (Eastern Han)](entities/YinShiEasternHan.md) — Crown prince's maternal uncle and Yuanlu Marquis whose careful conduct makes him useful as a kinship model before Zhang Yi redirects tutor selection to public talent.
 - [张义 / Zhang Yi (Eastern Han)](entities/ZhangYiEasternHan.md) — Doctor-scholar who turns crown-prince tutor selection from maternal-family convenience into a realm-serving appointment.
-- [邓禹 / Deng Yu (Eastern Han)](entities/DengYuEasternHan.md) — Founding commander-minister whose arc now holds the Chimei overreach and rout, Shunyang victory, postwar honored withdrawal, and Mingdi Taifu role.
+- [邓禹 / Deng Yu (Eastern Han)](entities/DengYuEasternHan.md) — Founding commander-minister whose arc now holds the Jianwu 2-3 Chimei setbacks and rout, Shunyang victory, postwar honored withdrawal, and Mingdi Taifu role.
 - [刘盆子 / Liu Penzi (Eastern Han)](entities/LiuPenziEasternHan.md) — Chimei figurehead ruler whose surrender to Liu Xiu becomes a spared, provisioned, and later pensioned settlement case.
 - [伏隆 / Fu Long (Eastern Han)](entities/FuLongEasternHan.md) — Guangwu envoy whose Zhang Bu mission fails after he rejects a Qi-holding offer and sends Liu Xiu a death-ready secret memorial.
 - [东海恭王刘强 / Liu Qiang, Donghai King](entities/LiuQiangDonghaiKing.md) — Displaced former-heir figure whose voluntary withdrawal, exceptional Guangwu honor, fief return, loyal report, final memorial, and frugal burial make succession loss compatible with royal containment.
@@ -4076,7 +4077,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [桓楚 / Huan Chu](entities/HuanChu.md) — Fugitive used as the pretext for Xiang Liang to bring armed Xiang Yu into Yin Tong's meeting.
 - [芒砀山 / Mangdang Mountain](entities/MangdangMountain.md) — Liu Bang's fugitive refuge where the white-snake and red-emperor story starts attaching sacred reputation to his outlaw group.
 - [吕公 / Lu Gong](entities/LuGongLiuBangFatherInLaw.md) — Liu Bang's future father-in-law, framed by Qinji 128-6 as an early investor who reads Liu Bang's bearing and offers Lu Zhi in marriage.
-- [吕雉 / Lu Zhi](entities/LuZhi.md) — Lu Gong's daughter, Liu Bang's wife, and later regency figure whose Lu-family kingship politics frame Chen Ping, Wang Ling, and Zhou Bo in Hanji 150 part 3.
+- [吕雉 / Lu Zhi](entities/LuZhi.md) — Liu Bang's wife, Western Han founding empress, regency and capital-security actor, now also carrying a source-scoped Chimei mausoleum-violation memory.
 - [萧何 / Xiao He](entities/XiaoHe.md) — Liu Bang's administrative anchor who captures Qin records, argues for Hanzhong base-building, and pursues Han Xin as "国士无双."
 - [沛县 / Pei County](entities/PeiCounty.md) — Liu Bang's local base and Pei Gong uprising setting, later expanded by Hanji 1009 as Liu Bei's Xiaopei regrouping point.
 - [项梁 / Xiang Liang](entities/XiangLiang.md) — Chu noble leader who uses Xiang Yu to kill Yin Tong and convert Kuaiji commandery into an anti-Qin force.
@@ -7412,7 +7413,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王郎 / Wang Lang (Hebei Claimant)](entities/WangLangHebeiClaimant.md) — Hebei claimant whose uprising redirects Geng Yan toward Liu Xiu and whose defeated Handan correspondence archive becomes Liu Xiu's trust-repair test.
 - [张步 / Zhang Bu (Eastern Han)](entities/ZhangBuEasternHan.md) — Qi-region adversary whose profile spans Liu Yong's title lure, Fu Long's failed mission, Linzi battlefield vulnerability, controlled surrender, and later failed flight.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's breakout, reinforcements, morale tactics, and later legendary mandate layer exposed the gap between Xin grandeur and usable capacity.
-- [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Xin-collapse uprising whose later Jianwu 3 defeat and mass surrender to Liu Xiu turn rebellion pressure into settlement and incorporation risk.
+- [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Xin-collapse uprising whose Jianwu 2-3 arc now spans mausoleum looting, Guanzhong famine pressure, Feng Yi's Huayin campaign, defeat, and mass surrender to Liu Xiu.
 - [Lulin / 绿林](entities/LulinRebellion.md) — Uprising force that enters Chang'an and frames the episode's narration of Wang Mang's death.
 - [Dong Zhongshu / 董仲舒](entities/DongZhongshu.md) — Western Han thinker used by episode 126 to connect Confucianism, Heaven, omens, and sacred imperial politics.
 - [Jean-Paul Marat / 让-保罗·马拉](entities/JeanPaulMarat.md) — Revolutionary journalist and agitator whose murder, martyr image, scientific grievance, and September Massacres role frame episode 125.
@@ -11358,7 +11359,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Coerced Imperial Replacement / 胁迫式废立](concepts/CoercedImperialReplacement.md) — Pattern where a military court-captor forces imperial replacement through preserved title, edict, seal, and ceremony forms.
 - [Party Prohibition Rehabilitation / 党人翻案合法性](concepts/PartyProhibitionRehabilitation.md) — Legitimacy move where a coercive ruler borrows moral credit by rehabilitating old Party Prohibition victims and appointing descendants.
 - [Prestige-Based Coalition Leadership / 名望型联盟领导](concepts/PrestigeBasedCoalitionLeadership.md) — Hanji 950 pattern where Yuan Shao's family prestige and public anti-Dong-Zhuo reputation convene a coalition without guaranteeing command capacity.
-- [Tomb-Desecration Political Violence / 陵墓亵渎式政治暴力](concepts/TombDesecrationPoliticalViolence.md) — Hanji 952 pattern where grave robbery and mausoleum destruction attack ritual order, memory, and cultural inheritance as well as seizing wealth.
+- [Tomb-Desecration Political Violence / 陵墓亵渎式政治暴力](concepts/TombDesecrationPoliticalViolence.md) — Grave robbery and mausoleum/corpse violation as political violence against wealth, memory, ritual order, ancestry, and regime legitimacy.
 - [Psychological Surrender Trap / 心理迫降陷阱](concepts/PsychologicalSurrenderTrap.md) — Hanji 956 pattern where manufactured external pressure and comparative questioning make an actor surrender real assets while imagining reputation and safety.
 - [Defensive Speech Under Tyranny / 暴政下的防御性言说](concepts/DefensiveSpeechUnderTyranny.md) — Hanji 956 pattern where officials survive a tyrant's question by redirecting it into public legitimacy, timing, or the tyrant's own declared values.
 - [Post-Power Safety Collapse / 失势后的安全崩塌](concepts/PostPowerSafetyCollapse.md) — Hanji 957 pattern where losing office, team, value, and trusted interpretation turns ordinary ambiguity into fatal panic.
