@@ -7,12 +7,13 @@ sources:
   - zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv
   - zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac
   - zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot
+  - zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c
 last_updated: 2026-09-01
 ---
 
 ## Definition
 
-Security for authority exchange / 交权换安全 is the consolidation pattern in which a regional actor accepts subordinate status and gives up independent military-political room in return for household safety, formal honor, and a survivable role under the winning regime.
+Security for authority exchange / 交权换安全 is the consolidation pattern in which a regional actor accepts subordinate status and gives up independent military-political room in return for household safety, formal honor, and a survivable role under the winning regime. The exchange can be ritualized and relatively honorable, or coercive through family retention, troop dispersal, and forced removal of independent force.
 
 ## Current Synthesis
 
@@ -22,7 +23,9 @@ Hanji 703 then supplies the pre-ritual alignment-pressure layer. Dou Rong warns 
 
 Hanji 707 then grounds the mature pattern through Dou Rong's submission to Liu Xiu. Dou Rong does not only arrive with troops; he asks how to perform imperial audience ritual, making his lower status visible. The source frames his underlying interest as family safety rather than continued regional rule, while Liu Xiu's interest is western stability rather than humiliating a useful local power-holder.
 
-The same episode clarifies the boundary by contrast. [[WeiXiaoEasternHan|隗嚣]] receives an offer that would preserve him if he comes in, but he refuses and remains dependent on outside rescue. [[ZhangBuEasternHan|张步]] flees after the broader surrender field has turned and is killed. Security is therefore not automatic; it depends on timing, credible receiver behavior, and the departing ruler's willingness to stop acting as an independent pole.
+Hanji 697 adds the coercive Zhang Bu variant. [[ZhangBuEasternHan|张步]] first survives because Liu Xiu promises reward for killing Su Mao and surrendering, [[GengYanEasternHan|耿弇]] escorts him to Liu Xiu, and Liu Xiu grants pardon and an Anqiu marquisate. The authority side is also explicit: Geng Yan disperses Zhang Bu's remaining troops and wagons, Zhang Bu's brothers are jailed before pardon, and Zhang Bu's wife and children are kept in Luoyang as a control mechanism.
+
+Hanji 707 clarifies the boundary by contrast and sequel. [[WeiXiaoEasternHan|隗嚣]] receives an offer that would preserve him if he comes in, but he refuses and remains dependent on outside rescue. Zhang Bu later flees after the broader surrender field has turned and is killed. Security is therefore not automatic; it depends on timing, credible receiver behavior, durable constraints, and the departing ruler's willingness to stop acting as an independent pole.
 
 ## Key Claims
 
@@ -30,7 +33,7 @@ The same episode clarifies the boundary by contrast. [[WeiXiaoEasternHan|隗嚣]
 - Formal submission still requires visible status reduction, not merely private intent.
 - Before formal submission, early alignment can be made credible through warnings to old allies, military coordination with the victor, and visible rewards.
 - The ruler has to give enough honor or continued role that submission does not look like immediate destruction.
-- A former regional actor may seek full exit, while the ruler may still need that actor's local authority for stabilization.
+- The security side can include coercive controls such as household retention, brother pardons, and forced troop dispersal.
 - The offer decays if the actor waits until followers, counties, supplies, and escape routes have already collapsed.
 - The pattern is more fragile than ordinary appointment because both sides are managing fear: the affiliate fears punishment, and the ruler fears renewed regional autonomy.
 
@@ -44,15 +47,18 @@ The same episode clarifies the boundary by contrast. [[WeiXiaoEasternHan|隗嚣]
 - Visible status reduction: [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|Hanji 707]] says Dou Rong asks how to conduct the audience ritual and Liu Xiu turns that ritualized deference into a model for officials.
 - Honor and usable role: [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|Hanji 707]] says Liu Xiu feasts Dou Rong, enfeoffs him, rewards related governors, and keeps him in place because the west still needs pacification.
 - Full-exit tension: [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|Hanji 707]] says Dou Rong repeatedly asks to be replaced, while Liu Xiu calls him indispensable and asks him to continue reassuring local士人 and commoners.
+- Coercive survival bargain: [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|Hanji 697]] says Zhang Bu kills Su Mao and surrenders after Liu Xiu promises enfeoffment to whichever man kills the other and submits.
+- Force and household control: [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|Hanji 697]] says Geng Yan disperses Zhang Bu's remaining troops and wagons, while Liu Xiu pardons the brothers, grants the Anqiu marquisate, and keeps Zhang Bu's wife and children in Luoyang.
 - Decaying offer: [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|Hanji 707]] contrasts Dou Rong with Wei Xiao's refusal of a survival offer and Zhang Bu's late family flight before execution.
 - Mutual fear: [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|Hanji 707]] frames both Dou Rong and Liu Xiu as seeking security, but from different sides of the new hierarchy.
 
 ## Counterevidence & Qualifications
 
-This is currently a narrow Eastern Han concept and should not be generalized into a universal rule for all surrenders. Dou Rong's case depends on his local authority still being useful and on Liu Xiu's capacity to honor him without losing control. Hanji 702 and Hanji 703 strengthen the early-alignment side but do not prove that every Wei Xiao-side actor had the same safe path. Wei Xiao and Zhang Bu show failed timing and refusal, but they do not prove that every holdout had a credible survival path. The source's ASR-sensitive names, messenger details, and office labels also require cautious normalization.
+This is currently a narrow Eastern Han concept and should not be generalized into a universal rule for all surrenders. Dou Rong's case depends on his local authority still being useful and on Liu Xiu's capacity to honor him without losing control. Zhang Bu's Hanji 697 settlement is less voluntary and more coercive than Dou Rong's ritualized submission because it follows induced killing, force dispersal, brother imprisonment/pardon, and family retention; Hanji 707's later execution shows that the first bargain did not create durable loyalty. Hanji 702 and Hanji 703 strengthen the early-alignment side but do not prove that every Wei Xiao-side actor had the same safe path. Wei Xiao and Zhang Bu show failed timing and refusal, but they do not prove that every holdout had a credible survival path. The source's ASR-sensitive names, messenger details, and office labels also require cautious normalization.
 
 ## What Changed
 
+- Added Hanji 697 as a coercive Zhang Bu variant, showing pardon and title paired with troop dispersal and family retention.
 - Added Hanji 702 as the earliest communication-and-allegiance layer before Dou Rong's formal submission.
 - Reframed Hanji 703 as the warning, coordination, and visible-reward layer after Dou Rong's Liu Xiu-facing loyalty is already in motion.
 - Preserved Hanji 707 as the mature ritualized submission and failed-alternative contrast.
@@ -63,5 +69,6 @@ This is currently a narrow Eastern Han concept and should not be generalized int
 - [[StrategicDefectorIncorporation|战略性降将吸纳]] - downstream incorporation problem after a former opponent or autonomous actor enters the regime.
 - [[PoliticalSurrenderCascade|招降示范级联]] - broader field mechanism in which visible safe submission changes other actors' expectations.
 - [[ForceBackedSurrenderPersuasion|武力背书式劝降]] - coercive counterpart where persuasion works because force and deteriorating options stand behind it.
+- [[HostageBackedDependencyTrap|家属质押式依附陷阱]] - related control mechanism when family placement makes surrender safer but dependency deeper.
 - [[FaceSavingSubmissionFailure|保面子式归降失败]] - negative contrast where a survivable route fails because authority transfer remains ambiguous.
 - [[BreachOfSurrenderTrust|受降失信]] - negative contrast where the receiver's post-surrender violence destroys the security side of the exchange.

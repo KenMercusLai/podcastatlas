@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-01] ingest | 《资治通鉴·汉纪》697丨一口气看懂东汉名将耿弇的传奇人生
+
+Ingested the 2026-06-16 芮淇讲透资治通鉴 episode backfilling the early Guangwu consolidation layer immediately before Hanji 698: Geng Yan's pursuit of Zhang Bu, Liu Xiu's inducement between Zhang Bu and Su Mao, Zhang Bu's first controlled surrender, Geng Yan's dispersal of Zhang Bu's troops and wagons, Qi pacification, Taixue restoration, Feng Yi's slander-and-trust episode, Lu Fang's Xiongnu-backed northern branch, and Zheng Xing's warning against Wei Xiao's ritual overreach. Created the source note; updated `GengYanEasternHan`, `ZhangBuEasternHan`, `BattlefieldFeintAndLure`, `SecurityForAuthorityExchange`, `index`, and `overview`. No settled contradiction found; 张布 is normalized to 张步, while Su Mao, Chen Jun, Hou Ba, Min Zhongshu, Li Xing, Sui Yu, Tian Sa, Shi Wei, Min Kan, exact force counts, and the host's Geng Yan superlatives remain source-scoped.
+
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？
 
 Ingested the 2026-06-17 芮淇讲透资治通鉴 episode backfilling the pre-Hanji 704 Guangwu western alignment layer: Dou Rong's warning to Wei Xiao, Liang Tong's public break by killing Wei Xiao's envoy and discarding the seal, Ma Yuan's old Wei-side reporting and cavalry persuasion mission, and Liu Xiu's visible reward and deployment of surrendered talent. Created the source note; updated `WeiXiaoEasternHan`, `DouRongEasternHan`, `MaYuanEasternHan`, `LiangTongEasternHan`, `YangGuangWeiXiaoRetainer`, `GaoJunEasternHan`, `SecurityForAuthorityExchange`, `FaceSavingSubmissionFailure`, `IrreversibleDefectionBinding`, `index`, `overview`, generated synthesis artifacts, and validation state. No settled contradiction found; Zhang Xue, Ren Yu, Wang Yuan's advice wording, Wei Xun's exact hostage conditions, unnamed Qiang leaders, and Dou Rong's brother remain source-scoped.
@@ -14747,6 +14751,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》698丨王朝兴衰启示录：韦敖的遗憾与今朝之镜
 
 Ingested the 2026-06-16 芮淇讲透资治通鉴 episode backfilling Jianwu 5 around Wei Xiao's noncommittal posture: refusal to attack Gongsun Shu, repeated Lai Xi/Ma Yuan persuasion, Wei Xun's hostage service in Luoyang, Zheng Xing and Ma Yuan leaving with households, Wang Yuan's terrain-and-waiting holdout advice, and Shentu Gang's ignored submission warning. Added source `zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff`; created `WeiXunEasternHan`, `WangYuanWeiXiaoRetainer`, and `ShentuGangEasternHan`; updated `WeiXiaoEasternHan`, `ZhengXingEasternHan`, `MaYuanEasternHan`, `LaiXiEasternHan`, `FaceSavingSubmissionFailure`, `FenceSittingStrategicExposure`, `SuspicionDrivenEliteAlienation`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 韦敖/韦巡 are normalized to 隗嚣/隗恂, and Liu Yong, exact court-title wording, Shanglinyuan logistics, and minor claimant lists remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] lint | Wiki health check
 

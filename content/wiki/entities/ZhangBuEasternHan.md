@@ -6,47 +6,55 @@ tags: [person, eastern-han, qi, military-opponent, founding]
 sources:
   - zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh
   - zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv
+  - zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c
 last_updated: 2026-09-01
 ---
 
 ## Overview
 
-Zhang Bu / 张步 is synthesized as a Qi-region adversary whose current profile now spans defeat, surrender, later loss of room, flight, and execution. Hanji 733-2 shows him as the opponent through whom [[GengYanEasternHan|耿弇]] demonstrates campaign deception and pursuit control; Hanji 707 shows the later negative endpoint, when Zhang Bu flees with family after the wider submission field turns toward [[LiuXiu|刘秀]] and is killed by Chen Jun.
+Zhang Bu / 张步 is synthesized as a Qi-region adversary whose current profile now spans battlefield defeat, first conditional surrender, controlled settlement, later loss of room, flight, and execution. Hanji 733-2 shows him as the opponent through whom [[GengYanEasternHan|耿弇]] demonstrates campaign deception and pursuit control; [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|Hanji 697]] clarifies the surrender bargain and force dispersal; Hanji 707 shows the later negative endpoint, when Zhang Bu flees with family after the wider submission field turns toward [[LiuXiu|刘秀]] and is killed by Chen Jun.
 
 ## Current Profile
 
 Hanji 733-2 places Zhang Bu in the Qi/Linzi campaign environment. Geng Yan attacks in ways designed to force Zhang Bu-linked forces to move under unfavorable conditions: announcing one target while striking another, fighting before Liu Xiu's arrival rather than waiting, and using enemy anger and retreat paths as campaign assets. Zhang Bu ultimately surrenders in the episode's telling, making him an adversary who marks the transition from local resistance to Liu Xiu's consolidation.
 
-Hanji 707 supplies the later collapse of that settlement. As land and officials increasingly attach to Liu Xiu, Zhang Bu can no longer operate as a durable regional actor. He flees with wife and children, joins brothers Zhang Hong and Zhang Lan, and tries to gather followers for a sea escape. Chen Jun catches and beheads him, turning Zhang Bu into the negative counterpart to [[DouRongEasternHan|Dou Rong]]'s earlier controlled submission.
+Hanji 697 makes that first settlement more coercive and more precise. Zhang Bu retreats to Pingshou, receives Su Mao's rescue force, then kills Su Mao after Liu Xiu secretly promises immediate enfeoffment to whichever man kills the other and submits. Geng Yan sends Zhang Bu to Liu Xiu, returns to Pingshou, disperses Zhang Bu's more than 100,000 troops and more than 7,000 wagons, while Liu Xiu pardons Zhang Bu's brothers, makes Zhang Bu Anqiu Marquis, and keeps Zhang Bu's wife and children in Luoyang as a control mechanism.
+
+Hanji 707 supplies the later collapse of that controlled settlement. As land and officials increasingly attach to Liu Xiu, Zhang Bu can no longer operate as a durable regional actor. He flees with wife and children, joins brothers Zhang Hong and Zhang Lan, and tries to gather followers for a sea escape. Chen Jun catches and beheads him, turning Zhang Bu into a case where an initial [[SecurityForAuthorityExchange|security-for-authority exchange]] survives long enough for pardon and title but does not create stable loyalty.
 
 ## Key Characteristics
 
 - Qi-region opponent in Geng Yan's Eastern Han founding campaign.
 - Target of deception and lure tactics rather than a purely defensive city holder.
-- Consolidation marker whose surrender follows Geng Yan's battlefield tempo.
-- Former regional actor whose later flight shows the danger of losing surrender timing and political space.
+- Conditional surrender actor whose survival begins through rival-killing inducement and submission.
+- Consolidation marker whose settlement requires troop dispersal, wagon dispersal, brother pardons, title grant, and family retention.
+- Household-security case in which wife and children in Luoyang make surrender safer but also less independent.
+- Former regional actor whose later flight shows the danger of trying to recover political space after surrender.
 
 ## Evidence
 
-- Qi/Linzi campaign role: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] ties Zhang Bu to the campaign around Linzi and the Qi region.
+- Qi/Linzi campaign role: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] ties Zhang Bu to the campaign around Linzi and the Qi region, while [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|Hanji 697]] finishes the same branch through Pingshou and Qi pacification.
 - Tactical vulnerability: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] says Geng Yan uses announcements, provocation, and retreat-path ambush to manipulate Zhang Bu-linked forces.
-- Surrender: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] presents Zhang Bu's surrender as part of the campaign outcome.
+- Kill-and-surrender inducement: [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|Hanji 697]] says Liu Xiu promises a marquisate to whichever of Zhang Bu and Su Mao kills the other and surrenders, after which Zhang Bu kills Su Mao and submits at Geng Yan's camp.
+- Controlled settlement: [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|Hanji 697]] says Geng Yan sends Zhang Bu to Liu Xiu, disperses the remaining army and wagons, Liu Xiu pardons Zhang Bu's brothers, grants Zhang Bu the Anqiu marquisate, and keeps Zhang Bu's wife and children in Luoyang.
 - Late flight and execution: [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|Hanji 707]] says Zhang Bu sees broad submission to Liu Xiu, flees with family, tries to escape by sea with his brothers, and is captured and beheaded.
 
 ## Qualifications
 
-The source transcript includes ASR-sensitive name forms and battlefield details. Zhang Bu's broad biography, exact status after first surrender, and the full legal-political basis for Chen Jun's execution should remain source-scoped. The transcript form 张布 is normalized to 张步 because the Anqiu Marquis, brothers, flight, and Guangwu consolidation context match the established Eastern Han route.
+The source transcript includes ASR-sensitive name forms and battlefield details. Hanji 697 clarifies Zhang Bu's first settlement, but the full legal-political terms of pardon, family retention, and later revocation remain source-scoped. Hanji 707 clarifies the later endpoint but not every intervening trigger between Anqiu marquisate and flight. The transcript form 张布 is normalized to 张步 because the Anqiu Marquis, brothers, flight, and Guangwu consolidation context match the established Eastern Han route.
 
 ## What Changed
 
-- Added Hanji 707 as Zhang Bu's later flight and execution layer.
-- Reframed his profile from a campaign-only adversary into a failed-late-exit contrast with Dou Rong's security-for-authority exchange.
+- Added Hanji 697 as Zhang Bu's first controlled surrender and settlement layer.
+- Reframed his profile from a campaign-only adversary into a two-stage case: survivable but constrained submission first, failed late exit afterward.
+- Preserved Hanji 707 as Zhang Bu's later flight and execution layer.
 
 ## Relationships
 
 - [[GengYanEasternHan|耿弇]] - opposing commander whose tactics shape Zhang Bu's earlier defeat.
 - [[LiuXiu|刘秀 / 光武帝]] - consolidating ruler whose expanding submission field leaves Zhang Bu without durable room.
 - [[DouRongEasternHan|窦融]] - contrast case because Dou Rong exchanges authority for security before his position collapses.
-- [[SecurityForAuthorityExchange|交权换安全]] - conceptual contrast for Zhang Bu's missed timing and unsafe flight.
+- [[SecurityForAuthorityExchange|交权换安全]] - concept Zhang Bu partly fits in Hanji 697 but fails to sustain in Hanji 707.
+- [[HostageBackedDependencyTrap|家属质押式依附陷阱]] - related control mechanism through Zhang Bu's wife and children staying in Luoyang.
 - [[Linzi|临淄]] - campaign city anchoring the earlier Qi-region fighting.
 - [[BattlefieldFeintAndLure|声东击西与诱敌]] - tactical concept illustrated by the campaign against Zhang Bu-linked forces.

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7fca9efaffda934b2463110796fbad62c8f352d25e375b24271513ad79b7e93d",
       "ae71dbdd6403a32e10267302cd073825e370d3b319cc3252cdb329bb1e7ce3a3",
       "fcccba5660d3f18e6fc8133ed6d0035e73063f41c69062b9098ceca724399c84",
       "6902b71eeb8b569ec8dc66b8118010ab7186921134cad8cf1b3f70919826a14a",
@@ -488,11 +489,41 @@
       "669579ac551e015d5d6c20aa08ac0e7c674e0f7fafcd9adc5bebd4f22c5899ea",
       "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3"
     ],
-    "paragraph_count": 486
+    "paragraph_count": 487
   },
-  "overview_commit": "dbf4ed438609750e74fdcf918ec33635584047c1",
-  "overview_digest": "db99443ccda0181ba10af16b318ee7576c4d285604eb9665a01638df11def038",
+  "overview_commit": "c3c41129e7e6e9ce9cbdf17827d39d740ed98eb7",
+  "overview_digest": "ddcccbbd0a73d86ba85a15a0e2501170f5bf692e71e98b046dee48f6652cf599",
   "paragraphs": [
+    {
+      "id": "7fca9efaffda934b2463110796fbad62c8f352d25e375b24271513ad79b7e93d",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|《资治通鉴·汉纪》697丨一口气看懂东汉名将耿弇的传奇人生]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the early Guangwu consolidation layer immediately before [[zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff|Hanji 698]]. It extends [[GengYanEasternHan|耿弇]], [[ZhangBuEasternHan|张步]], [[LiuXiu|光武帝刘秀]], [[Taixue|太学]], [[FengYiEasternHan|冯异]], [[LuFangEasternHan|卢芳]], [[Xiongnu|匈奴]], [[WeiXiaoEasternHan|隗嚣]], [[ZhengXingEasternHan|郑兴]], [[BattlefieldFeintAndLure|声东击西与诱敌]], and [[SecurityForAuthorityExchange|交权换安全]]. Its core synthesis is that battlefield closure and institutional restoration proceed together: Geng Yan turns Zhang Bu's surrender into force dispersal and Qi pacification, Liu Xiu pairs pardon and title with family retention, Taixue and Hou Ba signal civil order, Feng Yi's slander test confirms ruler trust, while Lu Fang and Wei Xiao show frontier-backed and ritual-overreach alternatives. No settled contradiction is recorded; 张布 is normalized to 张步, and Su Mao, Chen Jun, Hou Ba, Min Zhongshu, Li Xing, Sui Yu, Tian Sa, Shi Wei, Min Kan, exact force counts, and the host's \"兵仙\"/\"战神\" evaluation remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BattlefieldFeintAndLure",
+        "FengYiEasternHan",
+        "GengYanEasternHan",
+        "LiuXiu",
+        "LuFangEasternHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SecurityForAuthorityExchange",
+        "Taixue",
+        "WeiXiaoEasternHan",
+        "Xiongnu",
+        "ZhangBuEasternHan",
+        "ZhengXingEasternHan",
+        "zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c",
+        "zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff"
+      ]
+    },
     {
       "id": "ae71dbdd6403a32e10267302cd073825e370d3b319cc3252cdb329bb1e7ce3a3",
       "primary_topic": "governance-and-institutions",

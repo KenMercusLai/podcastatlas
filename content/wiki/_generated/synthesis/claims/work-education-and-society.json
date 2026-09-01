@@ -2,6 +2,26 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "hanji-697-institutional-restoration-and-role-boundary",
+      "qualifications": [
+        "This is a secondary work-and-society analogy from a historical source, not modern workplace, education, legal, military, or management advice.",
+        "The source belongs primarily to Eastern Han history and governance; this topic assignment is limited to institutional restoration, role boundaries, and trust under accusation.",
+        "Hou Ba, Min Zhongshu, exact office details, and the host management lesson remain source-scoped because they are not independently developed into canonical pages here."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|Hanji 697]] enters work-and-society as a bounded historical institution and role-boundary case: [[GengYanEasternHan]] closes the campaign field, [[Taixue]] restoration signals a shift toward civil order under [[LiuXiu]], [[FengYiEasternHan]] tests ruler-subordinate trust under accusation, and [[WeiXiaoEasternHan]] plus [[ZhengXingEasternHan]] mark role-boundary risk when a subordinate imitates kingly or imperial office forms.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c",
+        "GengYanEasternHan",
+        "Taixue",
+        "LiuXiu",
+        "FengYiEasternHan",
+        "WeiXiaoEasternHan",
+        "ZhengXingEasternHan"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "hanji-703-talent-alignment-and-role-clarity",
       "qualifications": [
         "This is a secondary work-and-society analogy from a historical source, not modern workplace, legal, military, or career advice.",
@@ -795,7 +815,7 @@
     }
   ],
   "input_digest": "30a8c93dcbb0a4c8c56ac6c7c2c5d6d26db6ac304af0ab08a21f8745b42c0d6a",
-  "summary": "Hanji 703 adds a source-scoped work-and-society analogy about talent use and role clarity: useful allegiance is rewarded and deployed, while ambiguous allegiance is pressured into public decisions. Hanji 705-5 and Hanji 705-6 together add a source-scoped Eastern Han gendered education and historiography case: [[BanZhaoLateHan]] now links Ban-family learning, [[BanGuEasternHan]]'s unfinished `Han Shu`, [[EmperorHeOfHan]]'s Dongguan commission, palace teaching, advice to [[EmpressDowagerDengLateHan]], memorial advocacy for [[BanChaoEasternHan]], [[MaRongLateHan]]'s student layer, [[BanJieyuWesternHan]] memory, [[CourtWomenHistoriography]], and the disputed [[NujieGenderNormTransmission]] afterlife. [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds an AI education qualification: AI help needs active transfer into exam performance rather than homework shortcuts. The broader topic continues to show work, education, and social capacity as institution-bound rather than trait-bound: Hanji 725-813 and 1056-1060 treat office roles, family status, counsel, succession, reputation, and access channels as sources of capability or exposure; modern workplace and labor sources connect boundaries, evidence, hidden rules, bullying, clerical organizing, creator monetization, finance-career risk, and lifestyle cost discipline; education sources emphasize self-testing, effort, fieldwork, mastery, motivation, and builder practice; AI, product, and creative-work sources show adoption requiring workflow fit, trust, distribution, verification, embodied judgment, and human taste; health and exercise sources frame public education through need assessment, risk boundaries, and clinical limits. Across the input, durable agency comes from grounded feedback loops, social trust, realistic constraints, and environments that let people act well rather than from hype, rank, followers, fluent answers, or capability claims alone. The Ring privacy episode adds a society-facing technology-adoption branch: domestic AI cameras move toward public-safety workflows only when household consent, user key control, optional sharing, and future-use anxieties are recognized.",
+  "summary": "Hanji 697 adds a source-scoped institution and role-boundary analogy: Taixue restoration, Feng Yi trust under accusation, Zhang Bu's constrained settlement, and Wei Xiao's ritual overreach show civil order and role clarity after campaign closure. Hanji 703 adds a source-scoped work-and-society analogy about talent use and role clarity: useful allegiance is rewarded and deployed, while ambiguous allegiance is pressured into public decisions. Hanji 705-5 and Hanji 705-6 together add a source-scoped Eastern Han gendered education and historiography case: [[BanZhaoLateHan]] now links Ban-family learning, [[BanGuEasternHan]]'s unfinished `Han Shu`, [[EmperorHeOfHan]]'s Dongguan commission, palace teaching, advice to [[EmpressDowagerDengLateHan]], memorial advocacy for [[BanChaoEasternHan]], [[MaRongLateHan]]'s student layer, [[BanJieyuWesternHan]] memory, [[CourtWomenHistoriography]], and the disputed [[NujieGenderNormTransmission]] afterlife. [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds an AI education qualification: AI help needs active transfer into exam performance rather than homework shortcuts. The broader topic continues to show work, education, and social capacity as institution-bound rather than trait-bound: Hanji 725-813 and 1056-1060 treat office roles, family status, counsel, succession, reputation, and access channels as sources of capability or exposure; modern workplace and labor sources connect boundaries, evidence, hidden rules, bullying, clerical organizing, creator monetization, finance-career risk, and lifestyle cost discipline; education sources emphasize self-testing, effort, fieldwork, mastery, motivation, and builder practice; AI, product, and creative-work sources show adoption requiring workflow fit, trust, distribution, verification, embodied judgment, and human taste; health and exercise sources frame public education through need assessment, risk boundaries, and clinical limits. Across the input, durable agency comes from grounded feedback loops, social trust, realistic constraints, and environments that let people act well rather than from hype, rank, followers, fluent answers, or capability claims alone. The Ring privacy episode adds a society-facing technology-adoption branch: domestic AI cameras move toward public-safety workflows only when household consent, user key control, optional sharing, and future-use anxieties are recognized.",
   "title": "Work, Education, and Society",
   "topic_id": "work-education-and-society"
 }

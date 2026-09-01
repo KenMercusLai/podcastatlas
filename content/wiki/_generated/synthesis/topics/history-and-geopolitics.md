@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-01
-as_of_overview_commit: 9453662c5656207157aa5ee73ec6d54ca693d846
-input_digest: acfd804be8ee51ef5c8888da4a3125fd7a3327124428feb2e200efa87299965f
+as_of_overview_commit: c3c41129e7e6e9ce9cbdf17827d39d740ed98eb7
+input_digest: 9a21d4fbdcc345db9ad5a431bebfe3c952fc15c8f5223da4d62f55d0d399d1be
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 699 PLUS adds a source-scoped cultivated-capacity frame for Liu Xiu: Taixue study, Kunyang battlefield initiative, Wang Lang letter-burning trust repair, non-purge treatment of merit holders, and self-command after Liu Yan death are read together as ruler formation rather than as isolated talents. The early and late Eastern Han branches otherwise continue to show power through logistics, alliances, legitimacy, institutions, frontier capacity, appointment quality, surrender credibility, and symbolic order; newer sport, state, and technology history claims remain source-scoped rather than collapsed into one model of power.
+Hanji 697 adds an early Guangwu backfill: Geng Yan's Qi finish ties battlefield deception to surrendered-force dispersal, Zhang Bu's first survival bargain to family-backed control, and Taixue/Feng Yi/Lu Fang/Wei Xiao notices to the unfinished consolidation field. Hanji 699 PLUS adds a source-scoped cultivated-capacity frame for Liu Xiu: Taixue study, Kunyang battlefield initiative, Wang Lang letter-burning trust repair, non-purge treatment of merit holders, and self-command after Liu Yan death are read together as ruler formation rather than as isolated talents. The early and late Eastern Han branches otherwise continue to show power through logistics, alliances, legitimacy, institutions, frontier capacity, appointment quality, surrender credibility, and symbolic order; newer sport, state, and technology history claims remain source-scoped rather than collapsed into one model of power.
 
 ## Cross-source Findings
+
+### Early Eastern Han 697 Geng Yan Qi Pacification And Controlled Surrender
+
+[[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|Hanji 697]] backfills the early Guangwu consolidation layer immediately before [[zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff|Hanji 698]]: [[GengYanEasternHan]] turns [[ZhangBuEasternHan]] surrender into Qi pacification through troop and wagon dispersal, [[LiuXiu]] pairs pardon and title with family retention under [[SecurityForAuthorityExchange]], [[BattlefieldFeintAndLure]] remains tied to political finish-work, and [[Taixue]], [[FengYiEasternHan]], [[LuFangEasternHan]], [[Xiongnu]], [[WeiXiaoEasternHan]], and [[ZhengXingEasternHan]] show civil restoration, ruler trust, frontier-backed challenge, and ritual-overreach boundaries around consolidation.
+
+**Evidence:** [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c]], [[zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff]], [[GengYanEasternHan]], [[ZhangBuEasternHan]], [[LiuXiu]], [[SecurityForAuthorityExchange]], [[BattlefieldFeintAndLure]], [[Taixue]], [[FengYiEasternHan]], [[LuFangEasternHan]], [[Xiongnu]], [[WeiXiaoEasternHan]], [[ZhengXingEasternHan]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 697 and functions as a backfill immediately before Hanji 698 rather than a replacement for later Hanji 707 and Hanji 715 layers.
+- Zhang Bu's first surrender and Hanji 707's later flight/execution are treated as sequential settlement and collapse, not as a contradiction.
+- Su Mao, Chen Jun, Hou Ba, Min Zhongshu, Li Xing, Sui Yu, Tian Sa, Shi Wei, Min Kan, exact force counts, and the host's Geng Yan superlatives remain source-scoped.
 
 ### Early Eastern Han 699 Plus Guangwu Cultivated Imperial Capacity
 

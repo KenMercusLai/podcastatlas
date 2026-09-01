@@ -4,17 +4,29 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-01
-as_of_overview_commit: 9453662c5656207157aa5ee73ec6d54ca693d846
-input_digest: 6a2f00980e934d516c22f2497eba62d7f12b82488e9eb935aa9aed9f2c82fa2e
+as_of_overview_commit: c3c41129e7e6e9ce9cbdf17827d39d740ed98eb7
+input_digest: a6800808d175cd26d39fdc9ff474c1d22193ef7ded4255cf4a2ffa1f7813edb8
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 699 PLUS adds a narrow historical self-command layer: Liu Xiu ruler capacity is read through emotional restraint after Liu Yan death, trust repair after Wang Lang defeat, and the broader cultivated-capacity frame. The substantive claim remains history and governance, not clinical advice. Hanji 702, Hanji 705-1, Hanji 713, Hanji 736, Hanji 744-745, Hanji 753, relationship science, workplace abuse, emotion regulation, meditation, discipline, movement practice, and AI/workplace trust remain the main existing psychology-and-personal-development branches.
+Hanji 697 adds a narrow historical self-command and status-judgment branch around Geng Yan's command composure, Liu Xiu's trust signal toward Feng Yi, Zhang Bu's constrained surrender, and Zheng Xing's warning against Wei Xiao's overreach. Hanji 699 PLUS adds a narrow historical self-command layer: Liu Xiu ruler capacity is read through emotional restraint after Liu Yan death, trust repair after Wang Lang defeat, and the broader cultivated-capacity frame. The substantive claim remains history and governance, not clinical advice. Hanji 702, Hanji 705-1, Hanji 713, Hanji 736, Hanji 744-745, Hanji 753, relationship science, workplace abuse, emotion regulation, meditation, discipline, movement practice, and AI/workplace trust remain the main existing psychology-and-personal-development branches.
 
 ## Cross-source Findings
+
+### Hanji 697 Command Composure Trust And Overreach Boundary
+
+[[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|Hanji 697]] enters psychology-and-personal-development only as a historical self-command and status-judgment case: [[GengYanEasternHan]] is framed through command composure and follow-through under [[BattlefieldFeintAndLure]], [[LiuXiu]] signals trust toward [[FengYiEasternHan]] while controlling [[ZhangBuEasternHan]] through [[SecurityForAuthorityExchange]], and [[ZhengXingEasternHan]] warns [[WeiXiaoEasternHan]] against self-inflating ritual overreach.
+
+**Evidence:** [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c]], [[GengYanEasternHan]], [[BattlefieldFeintAndLure]], [[LiuXiu]], [[FengYiEasternHan]], [[ZhangBuEasternHan]], [[SecurityForAuthorityExchange]], [[ZhengXingEasternHan]], [[WeiXiaoEasternHan]]
+
+**Qualifications:**
+
+- This is a historical political-psychology reading, not clinical or general personal-development advice.
+- The paragraph belongs primarily to history and governance; the psychology assignment is limited to composure, trust signaling, status judgment, and overreach restraint.
+- The host's '兵仙' and '战神' evaluation remains source-scoped rhetoric rather than psychological evidence.
 
 ### Hanji 699 Plus Emotional Restraint And Ruler Self Command
 
