@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6207
+wiki_total_pages: 6213
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -779,6 +779,9 @@ wiki_pages:
   - key: "AIHollowingFoundationalTraining"
     title: "AI Hollowing Foundational Training / AI导致基础训练空心化"
     url: "/wiki/concepts/aihollowingfoundationaltraining/"
+  - key: "AIHomeworkTransferGap"
+    title: "AI Homework Transfer Gap"
+    url: "/wiki/concepts/aihomeworktransfergap/"
   - key: "AIHyperscalerModelChannelConflict"
     title: "AI Hyperscaler Model Channel Conflict"
     url: "/wiki/concepts/aihyperscalermodelchannelconflict/"

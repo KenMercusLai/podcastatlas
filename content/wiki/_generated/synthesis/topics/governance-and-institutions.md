@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-01
-as_of_overview_commit: 9453662c5656207157aa5ee73ec6d54ca693d846
-input_digest: 62edc0a005b72a39be4dfbf362b4d2545215dccf7ead32e2398f968bb2aae5c0
+as_of_overview_commit: 31edc0f5c4ba356909eab51be489ec1445bdb4b0
+input_digest: c8771983a9e82ffc1268f4282bbb4444ef09fe3cb201ce62f543135c83d14d45
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 699 PLUS adds a source-scoped Guangwu governance frame: Liu Xiu ruler capacity is read through Taixue learning, broad personnel use, Wang Lang letter-burning trust repair, non-purge treatment of merit holders, and cultivation as the condition for turning ability into stable rule. The existing governance synthesis still centers on surrender credibility, frontier diplomacy, office quality, correction mechanisms, legal and biometric boundaries, health-product identity, and sport or ritual institutions as capacity problems rather than isolated policy events.
+Hanji 699 PLUS adds a source-scoped Guangwu governance frame: Liu Xiu ruler capacity is read through Taixue learning, broad personnel use, Wang Lang letter-burning trust repair, non-purge treatment of merit holders, and cultivation as the condition for turning ability into stable rule. [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds Nepal's glacial flood as a warning, rescue, infrastructure, and aid-capacity test. The existing governance synthesis still centers on surrender credibility, frontier diplomacy, office quality, correction mechanisms, legal and biometric boundaries, health-product identity, and sport or ritual institutions as capacity problems rather than isolated policy events.
 
 ## Cross-source Findings
 
@@ -1824,3 +1824,15 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 - This claim is source-scoped to The Rest Is History episode on Mussolini and the World Cup, not a complete survey of Italian sport policy.
 - The source treats bribery, referee-pressure, Brazil, and Hungary allegations as unproven or weakly specified rather than settled evidence of direct control.
 - Support for Italy or enjoyment of football is not treated as automatic fascist conversion.
+
+### Nepal Glacial Flood Turns Response Into Capacity Test
+
+[[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds a disaster-governance case: [[DisasterResponseStateCapacity]], [[DisasterReliefMismatch]], and [[ClimateAidRetrenchment]] show [[Nepal]]'s glacial flood as a rescue, warning, infrastructure, and funding-capacity problem, while [[NaturalHazardSocialDisaster]], [[HydropowerConcentrationRisk]], and [[ClimateAdaptation]] prevent treating it as only a geophysical event.
+
+**Evidence:** [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078]], [[DisasterResponseStateCapacity]], [[DisasterReliefMismatch]], [[ClimateAidRetrenchment]], [[Nepal]], [[NaturalHazardSocialDisaster]], [[HydropowerConcentrationRisk]], [[ClimateAdaptation]]
+
+**Qualifications:**
+
+- The claim is source-scoped to one September 1, 2026 rescue snapshot from The Intelligence.
+- Casualty, missing-person, and power-loss figures should be updated only from later source notes, not generalized from this episode.
+- The governance point is about warning, rescue, siting, and finance capacity rather than blame allocation for the avalanche itself.

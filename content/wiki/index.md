@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [After the flood: Nepal's ongoing rescue](sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078.md) — The Intelligence episode on Nepal's glacial-flood disaster, hydropower and aid exposure, AI homework transfer risk, and Japan-inspired listening bars.
 - [The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup](sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007.md) — The Rest Is History episode on Mussolini's 1934/1938 World Cup politics, fascist sport policy, Italy's victories, propaganda limits, and postwar memory.
 - [《资治通鉴·汉纪》699丨敢与刘秀争雄的他，为何惨淡收场？](sources/zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z.md) — Early Guangwu backfill on Wei Xiao's Longyou origin, Cen Peng's southern proclamation route, Xi Guang and Ren Yan's ritual-agricultural frontier instruction, Liu Xiu's treatment of recluses, and Shache Yan/Kang's Han-loyal Western Regions branch.
 - [《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家](sources/zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph.md) — PLUS evaluation episode on Liu Xiu's composite ruler capacity: Taixue learning, Kunyang initiative, Wang Lang letter-burning trust repair, non-purge treatment of founding merit, and cultivation as the condition for good rule.
@@ -1845,6 +1846,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [Hindu Kush Himalaya](entities/HinduKushHimalaya.md) — Regional mountain system linking warming, glacier retreat, cross-border flood hazards, and Nepal's disaster exposure.
 - [Paul Rouse](entities/PaulRouse.md) — Sports historian guiding the Mussolini World Cup episode's evidence boundaries around football, propaganda, and audience effects.
 - [Vittorio Pozzo](entities/VittorioPozzo.md) — Italy national-team manager whose 1934 and 1938 World Cup wins complicate the fascist propaganda story with real sporting competence.
 - [Italy National Football Team](entities/ItalyNationalFootballTeam.md) — National team whose 1934 and 1938 World Cup victories are read through both football quality and Mussolini-era propaganda.
@@ -4979,7 +4981,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hibatullah Akhundzada](entities/HibatullahAkhundzada.md) — Taliban amir whose Kandahar-based hardline consolidation anchors the Afghanistan segment.
 - [Nirmal Purja](entities/NirmalPurja.md) — Nepali mountaineer remembered for Project Possible, rescue claims, and contested high-altitude methods.
 - [Project Possible](entities/ProjectPossible.md) — Nirmal Purja's project to climb all fourteen 8,000-metre peaks as quickly as possible.
-- [Nepal](entities/Nepal.md) — Country context for Nirmal Purja, Project Possible, Sherpa recognition, and Himalayan mountaineering.
+- [Nepal](entities/Nepal.md) — Himalayan country context for mountaineering, rescue ethics, glacial-flood exposure, hydropower vulnerability, and aid-constrained disaster recovery.
 - [Sophie Hagney](entities/SophieHagney.md) — Critic and journalist explaining taste as embodied, social, attention-based judgment rather than only AI preference data.
 - [Taste Labs](entities/TasteLabs.md) — AI startup using vetted human tastemakers to curate training data for more tasteful generated output.
 - [Featherless AI](entities/FeatherlessAI.md) — Open-source model inference platform built around instant access to many hosted models, GPU hot swapping, flat-rate pricing, and long-tail catalog coverage.
@@ -10582,6 +10584,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Homework Transfer Gap](concepts/AIHomeworkTransferGap.md) — Gap between AI-assisted homework performance and durable learning that transfers to exams or independent problem solving.
+- [Climate Aid Retrenchment](concepts/ClimateAidRetrenchment.md) — Climate-disaster recovery gap when rising hazard costs meet shrinking foreign aid or overloaded climate-finance channels.
+- [Himalayan Glacial Flood Risk](concepts/HimalayanGlacialFloodRisk.md) — Risk that glacier collapse, temporary river dams, and rapid breaches create destructive cross-border mountain floods.
+- [Hydropower Concentration Risk](concepts/HydropowerConcentrationRisk.md) — Infrastructure risk when too much power generation sits along the same exposed river systems.
+- [Listening Bar Cultural Export](concepts/ListeningBarCulturalExport.md) — Spread of Japan-inspired venues where curated high-fidelity music listening is the central social activity.
+- [Ongaku Kissa](concepts/OngakuKissa.md) — Japanese music-cafe model built around attentive listening, audio equipment, records, and restrained social atmosphere.
 - [Authoritarian Sports Propaganda](concepts/AuthoritarianSportsPropaganda.md) — Regime use of sport, media, spectacle, infrastructure, and victory to advertise power while leaving audience effects uncertain.
 - [Fascist Sport Policy](concepts/FascistSportPolicy.md) — Mussolini-era policy apparatus linking physical education, leisure organizations, military preparation, football reform, and language politics.
 - [Sports Propaganda Effect Uncertainty](concepts/SportsPropagandaEffectUncertainty.md) — Historical-method boundary between documented propaganda intent and claims about mass persuasion or match corruption.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2150
+topic_total_pages: 2151
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -511,6 +511,9 @@ topic_concepts:
   - key: "ClimateAdaptation"
     title: "Climate Adaptation"
     url: "/wiki/concepts/climateadaptation/"
+  - key: "ClimateAidRetrenchment"
+    title: "Climate Aid Retrenchment"
+    url: "/wiki/concepts/climateaidretrenchment/"
   - key: "CoalitionSelfPreservationFailure"
     title: "Coalition Self-Preservation Failure / 联盟自保失灵"
     url: "/wiki/concepts/coalitionselfpreservationfailure/"

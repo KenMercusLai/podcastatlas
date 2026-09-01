@@ -296,8 +296,8 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
-      "source_note_count": 63,
-      "topic_matched_source_note_count": 60,
+      "source_note_count": 64,
+      "topic_matched_source_note_count": 61,
       "topics": [
         {
           "key": "politics",
@@ -309,19 +309,19 @@
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 21
+          "source_note_count": 22
         },
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 21
+          "source_note_count": 22
         },
         {
-          "key": "economics",
-          "label": "Economics",
-          "url": "/topics/economics/",
-          "source_note_count": 10
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 11
         }
       ],
       "entities": [
@@ -384,9 +384,9 @@
       ],
       "start_here_episode_files": [
         "Even-more-maximum pressure： sanctions on Iran [6a8d6a9b66c4a1e81a4c86a9].md",
+        "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
         "Stars in their AIs： tech is changing Hollywood [6a917d0b63de6f7b41319a4b].md",
-        "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md",
-        "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md"
+        "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md"
       ]
     },
     "How I Built This with Guy Raz": {

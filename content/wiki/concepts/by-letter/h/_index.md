@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6207
+wiki_total_pages: 6213
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "HikikomoriStrategicRetreat"
     title: "Hikikomori Strategic Retreat"
     url: "/wiki/concepts/hikikomoristrategicretreat/"
+  - key: "HimalayanGlacialFloodRisk"
+    title: "Himalayan Glacial Flood Risk"
+    url: "/wiki/concepts/himalayanglacialfloodrisk/"
   - key: "HindsightBias"
     title: "Hindsight Bias / 后见之明偏差"
     url: "/wiki/concepts/hindsightbias/"
@@ -620,6 +623,9 @@ wiki_pages:
   - key: "HydraulicSiegeWarfare"
     title: "Hydraulic Siege Warfare / 水攻围城"
     url: "/wiki/concepts/hydraulicsiegewarfare/"
+  - key: "HydropowerConcentrationRisk"
+    title: "Hydropower Concentration Risk"
+    url: "/wiki/concepts/hydropowerconcentrationrisk/"
   - key: "HyperscaleDataCenterMoratorium"
     title: "Hyperscale Data Center Moratorium"
     url: "/wiki/concepts/hyperscaledatacentermoratorium/"

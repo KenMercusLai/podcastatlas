@@ -3378,6 +3378,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "AIHomeworkTransferGap": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "AIHyperscalerModelChannelConflict": [
     {
       "key": "technology",
@@ -14252,6 +14264,18 @@
     }
   ],
   "ClimateAdaptation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "ClimateAidRetrenchment": [
     {
       "key": "politics",
       "label": "Politics",
@@ -28359,6 +28383,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "HimalayanGlacialFloodRisk": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Himiko": [
     {
       "key": "history",
@@ -28367,6 +28398,13 @@
     }
   ],
   "HindsightBias": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "HinduKushHimalaya": [
     {
       "key": "science",
       "label": "Science",
@@ -29842,6 +29880,18 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "HydropowerConcentrationRisk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "HyperAgent": [
@@ -36230,6 +36280,13 @@
     }
   ],
   "ListenerSupportedMedia": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ListeningBarCulturalExport": [
     {
       "key": "culture",
       "label": "Culture",
@@ -43412,6 +43469,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "OngakuKissa": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "OnlineGoldAccumulation": [
@@ -68482,6 +68546,23 @@
     }
   ],
   "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
     {
       "key": "science",
       "label": "Science",

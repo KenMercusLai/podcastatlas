@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-01
-as_of_overview_commit: de472eb9aa38d4e5a79ee704385add0b9d048aa5
-input_digest: 7cb7cb9c30215b16b6d8b887ffa4ca72dc1a459e06a45667d84ee3bcbb59bb25
+as_of_overview_commit: 31edc0f5c4ba356909eab51be489ec1445bdb4b0
+input_digest: 30a8c93dcbb0a4c8c56ac6c7c2c5d6d26db6ac304af0ab08a21f8745b42c0d6a
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Hanji 703 adds a source-scoped work-and-society analogy about talent use and role clarity: useful allegiance is rewarded and deployed, while ambiguous allegiance is pressured into public decisions. Hanji 705-5 and Hanji 705-6 together add a source-scoped Eastern Han gendered education and historiography case: [[BanZhaoLateHan]] now links Ban-family learning, [[BanGuEasternHan]]'s unfinished `Han Shu`, [[EmperorHeOfHan]]'s Dongguan commission, palace teaching, advice to [[EmpressDowagerDengLateHan]], memorial advocacy for [[BanChaoEasternHan]], [[MaRongLateHan]]'s student layer, [[BanJieyuWesternHan]] memory, [[CourtWomenHistoriography]], and the disputed [[NujieGenderNormTransmission]] afterlife. The broader topic continues to show work, education, and social capacity as institution-bound rather than trait-bound: Hanji 725-813 and 1056-1060 treat office roles, family status, counsel, succession, reputation, and access channels as sources of capability or exposure; modern workplace and labor sources connect boundaries, evidence, hidden rules, bullying, clerical organizing, creator monetization, finance-career risk, and lifestyle cost discipline; education sources emphasize self-testing, effort, fieldwork, mastery, motivation, and builder practice; AI, product, and creative-work sources show adoption requiring workflow fit, trust, distribution, verification, embodied judgment, and human taste; health and exercise sources frame public education through need assessment, risk boundaries, and clinical limits. Across the input, durable agency comes from grounded feedback loops, social trust, realistic constraints, and environments that let people act well rather than from hype, rank, followers, fluent answers, or capability claims alone.
+Hanji 703 adds a source-scoped work-and-society analogy about talent use and role clarity: useful allegiance is rewarded and deployed, while ambiguous allegiance is pressured into public decisions. Hanji 705-5 and Hanji 705-6 together add a source-scoped Eastern Han gendered education and historiography case: [[BanZhaoLateHan]] now links Ban-family learning, [[BanGuEasternHan]]'s unfinished `Han Shu`, [[EmperorHeOfHan]]'s Dongguan commission, palace teaching, advice to [[EmpressDowagerDengLateHan]], memorial advocacy for [[BanChaoEasternHan]], [[MaRongLateHan]]'s student layer, [[BanJieyuWesternHan]] memory, [[CourtWomenHistoriography]], and the disputed [[NujieGenderNormTransmission]] afterlife. [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds an AI education qualification: AI help needs active transfer into exam performance rather than homework shortcuts. The broader topic continues to show work, education, and social capacity as institution-bound rather than trait-bound: Hanji 725-813 and 1056-1060 treat office roles, family status, counsel, succession, reputation, and access channels as sources of capability or exposure; modern workplace and labor sources connect boundaries, evidence, hidden rules, bullying, clerical organizing, creator monetization, finance-career risk, and lifestyle cost discipline; education sources emphasize self-testing, effort, fieldwork, mastery, motivation, and builder practice; AI, product, and creative-work sources show adoption requiring workflow fit, trust, distribution, verification, embodied judgment, and human taste; health and exercise sources frame public education through need assessment, risk boundaries, and clinical limits. Across the input, durable agency comes from grounded feedback loops, social trust, realistic constraints, and environments that let people act well rather than from hype, rank, followers, fluent answers, or capability claims alone.
 
 ## Cross-source Findings
 
@@ -419,6 +419,18 @@ The Alpha School episode adds a modern education-institution claim: [[AIMasteryL
 - The evidence is a source-scoped Alpha School account rather than comparative school-system proof.
 - The strongest performance, SAT, voucher, learning-rate, Founder School, GT Squared, and lower-cost-school claims are not independently validated in the source.
 - The model may involve selection, family-resource, cost, implementation, and generalization issues not resolved by the episode.
+
+### Ai Homework Help Needs Transfer Not Shortcuts
+
+[[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] qualifies the AI education thread: [[AIAsTutor]] can support learning when it changes practice, but [[AIHomeworkTransferGap]] and [[AIShortcutRisk]] show that AI homework help can raise submitted work while weakening exam transfer if students outsource the effort. The [[China]] and [[Nigeria]] contrast keeps [[LearningHowToLearn]] and [[HumanJudgmentUnderAI]] focused on implementation and active practice.
+
+**Evidence:** [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078]], [[AIAsTutor]], [[AIHomeworkTransferGap]], [[AIShortcutRisk]], [[LearningHowToLearn]], [[HumanJudgmentUnderAI]], [[China]], [[Nigeria]]
+
+**Qualifications:**
+
+- The source reports the China and Nigeria education results secondhand, so study design and external validity remain bounded to the episode summary.
+- The contrast supports an implementation claim rather than a universal AI benefit or a screen-free ban.
+- Homework-score gains are weaker evidence than exam transfer when tools can complete practice work for students.
 
 ### Creative Work Repair Needs Embodied Relational Judgment
 

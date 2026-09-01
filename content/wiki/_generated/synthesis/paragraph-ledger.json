@@ -1,6 +1,9 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ae71dbdd6403a32e10267302cd073825e370d3b319cc3252cdb329bb1e7ce3a3",
+      "fcccba5660d3f18e6fc8133ed6d0035e73063f41c69062b9098ceca724399c84",
+      "6902b71eeb8b569ec8dc66b8118010ab7186921134cad8cf1b3f70919826a14a",
       "4fec77c79d5c7333086558aff9374a48a12e48f51976fceebe2421c31ab3f9f6",
       "b7a7bbc00a512b9c7b0df4c5e8035b24e53669b24c1a792d7aa460993c48ea9a",
       "238d0f237c3c8d728d2838e9003711b1ffc0d1ec089abb10d4be9e931d48c185",
@@ -484,11 +487,77 @@
       "669579ac551e015d5d6c20aa08ac0e7c674e0f7fafcd9adc5bebd4f22c5899ea",
       "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3"
     ],
-    "paragraph_count": 482
+    "paragraph_count": 485
   },
-  "overview_commit": "9453662c5656207157aa5ee73ec6d54ca693d846",
-  "overview_digest": "991a2056f110af7591ac8bd1874cb4b934ceaa1eb1d58ba85d654f4a23a93a28",
+  "overview_commit": "31edc0f5c4ba356909eab51be489ec1445bdb4b0",
+  "overview_digest": "f151384c557d302534f212bedeb990f63d68ec796536f0a58ad7bbf89e1f093c",
   "paragraphs": [
+    {
+      "id": "ae71dbdd6403a32e10267302cd073825e370d3b319cc3252cdb329bb1e7ce3a3",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "science-health-and-climate"
+      ],
+      "text": "The latest addition is [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood: Nepal's ongoing rescue]], a [[TheIntelligence]] episode whose lead segment treats [[Nepal]]'s August 26, 2026 glacial flood as a climate, energy, and disaster-response stress test. It adds [[HinduKushHimalaya]], [[HimalayanGlacialFloodRisk]], [[HydropowerConcentrationRisk]], and [[ClimateAidRetrenchment]], while extending [[DisasterResponseStateCapacity]], [[NaturalHazardSocialDisaster]], [[DisasterReliefMismatch]], and [[ClimateAdaptation]]. Its core synthesis is that warming Himalayan glaciers, steep river valleys, concentrated hydropower siting, and shrinking aid turn a natural hazard into an infrastructure and state-capacity crisis. No settled contradiction is recorded; casualty, missing-person, and power-loss figures remain a September 1, 2026 rescue snapshot.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ClimateAdaptation",
+        "ClimateAidRetrenchment",
+        "DisasterReliefMismatch",
+        "DisasterResponseStateCapacity",
+        "HimalayanGlacialFloodRisk",
+        "HinduKushHimalaya",
+        "HydropowerConcentrationRisk",
+        "NaturalHazardSocialDisaster",
+        "Nepal",
+        "TheIntelligence",
+        "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078"
+      ]
+    },
+    {
+      "id": "fcccba5660d3f18e6fc8133ed6d0035e73063f41c69062b9098ceca724399c84",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "[[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]]'s AI education segment adds [[AIHomeworkTransferGap]], while extending [[AIAsTutor]], [[AIShortcutRisk]], [[LearningHowToLearn]], [[HumanJudgmentUnderAI]], [[China]], and [[Nigeria]]. Its core synthesis is that AI help depends on active learning and transfer: a China homework study can show higher submitted-work scores but weaker exam performance, while a Nigeria chatbot pilot can improve learning when the tool changes practice rather than replaces effort. The Chinese and Nigerian education results should not be collapsed into a single pro- or anti-AI rule.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "AIAsTutor",
+        "AIHomeworkTransferGap",
+        "AIShortcutRisk",
+        "China",
+        "HumanJudgmentUnderAI",
+        "LearningHowToLearn",
+        "Nigeria",
+        "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078"
+      ]
+    },
+    {
+      "id": "6902b71eeb8b569ec8dc66b8118010ab7186921134cad8cf1b3f70919826a14a",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [],
+      "text": "[[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]]'s listening-bar segment adds [[OngakuKissa]] and [[ListeningBarCulturalExport]], while extending [[Japan]], [[SocializingDecline]], and [[TheIntelligence]]. Its core synthesis is that Japanese music-listening formats can become exportable social infrastructure when high-quality audio equipment, curated records, and restrained conversation turn listening into a shared cultural ritual rather than background media consumption.",
+      "topic_scores": {
+        "culture-and-media": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "Japan",
+        "ListeningBarCulturalExport",
+        "OngakuKissa",
+        "SocializingDecline",
+        "TheIntelligence",
+        "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078"
+      ]
+    },
     {
       "id": "4fec77c79d5c7333086558aff9374a48a12e48f51976fceebe2421c31ab3f9f6",
       "primary_topic": "psychology-and-personal-development",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6207
+wiki_total_pages: 6213
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "OneShotAICoding"
     title: "One-Shot AI Coding"
     url: "/wiki/concepts/oneshotaicoding/"
+  - key: "OngakuKissa"
+    title: "Ongaku Kissa"
+    url: "/wiki/concepts/ongakukissa/"
   - key: "OnlineAgeVerification"
     title: "Online Age Verification"
     url: "/wiki/concepts/onlineageverification/"

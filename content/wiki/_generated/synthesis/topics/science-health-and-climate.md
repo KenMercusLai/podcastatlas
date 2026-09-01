@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-01
-as_of_overview_commit: 36e5ae24c51ac9baedf530e5412972f045646fc7
-input_digest: 8217f9984a46a62411f0995ed11ae6766f9dac0a4f8bf3413b2d43b66182c0aa
+as_of_overview_commit: 31edc0f5c4ba356909eab51be489ec1445bdb4b0
+input_digest: ede7fa2c55dc59498c6b4a1f7162b3a8eac825e5cc2b21ecc0e154757ac48aa9
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-The Eastwick Huberman Lab paragraph is science-health adjacent because it models relationship advice as evidence-bounded public science: app, attachment, sexuality, similarity, and support claims require context rather than universal protocols. Science-health-and-climate now joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: measurement, mechanism, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Recent health branches cover sugar-control literacy; functional-food and supplement-claim boundaries; flexible fundamentals for sleep, circadian timing, recovery, fertility, and nutrition; male and female hormone phenotyping; exercise-risk and flexibility-stretching dose boundaries; diagnostic safety netting; spine rehabilitation; metabolic psychiatry; bipolar and OCD care; insect-bite prevention and escalation; individualized cancer vaccines; companion-animal welfare; historical death-cause inference for Liu Xiu; and evidence-bounded body-composition fundamentals. The nonclinical strands show the same pattern in space launch, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, and source-scoped medical or cultivation claims.
+The Eastwick Huberman Lab paragraph is science-health adjacent because it models relationship advice as evidence-bounded public science: app, attachment, sexuality, similarity, and support claims require context rather than universal protocols. [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds Himalayan glacial-flood risk as a climate, energy, and infrastructure-exposure problem under shrinking aid. Science-health-and-climate now joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: measurement, mechanism, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Recent health branches cover sugar-control literacy; functional-food and supplement-claim boundaries; flexible fundamentals for sleep, circadian timing, recovery, fertility, and nutrition; male and female hormone phenotyping; exercise-risk and flexibility-stretching dose boundaries; diagnostic safety netting; spine rehabilitation; metabolic psychiatry; bipolar and OCD care; insect-bite prevention and escalation; individualized cancer vaccines; companion-animal welfare; historical death-cause inference for Liu Xiu; and evidence-bounded body-composition fundamentals. The nonclinical strands show the same pattern in space launch, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, and source-scoped medical or cultivation claims.
 
 ## Cross-source Findings
 
@@ -321,3 +321,15 @@ The Eastwick paragraph extends Huberman Lab public-science boundaries into relat
 - The relationship-science assignment is weaker than the psychology assignment and comes from public-science framing in the paragraph.
 - App-swipe rates, age-preference data, income effects, attachment change, gendered support patterns, same-gender dating observations, and sexual-satisfaction claims remain source-scoped.
 - This does not convert the episode into medical, psychiatric, or individualized relationship guidance.
+
+### Himalayan Glacial Flood Risk Is Climate And Infrastructure Risk
+
+[[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds a climate-risk branch: [[HimalayanGlacialFloodRisk]] in the [[HinduKushHimalaya]] ties glacier retreat, unstable slopes, and steep river corridors to sudden flood risk, while [[HydropowerConcentrationRisk]] shows energy systems becoming exposed when generation clusters along those corridors. [[ClimateAdaptation]], [[ClimateAidRetrenchment]], [[DisasterResponseStateCapacity]], and [[Nepal]] make resilience depend on monitoring, siting, tunnel design, cross-border warning, rescue capacity, and finance rather than climate attribution alone.
+
+**Evidence:** [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078]], [[HimalayanGlacialFloodRisk]], [[HinduKushHimalaya]], [[HydropowerConcentrationRisk]], [[ClimateAdaptation]], [[ClimateAidRetrenchment]], [[DisasterResponseStateCapacity]], [[Nepal]]
+
+**Qualifications:**
+
+- The claim is grounded in a journalistic episode summary, not a full hydrological hazard model.
+- Casualty, missing-person, hydropower-loss, and recovery-cost figures are a September 1, 2026 rescue snapshot.
+- Hydropower concentration is treated as an exposure amplifier, not as the cause of the avalanche or dam breach.

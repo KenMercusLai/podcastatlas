@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8733
+wiki_total_pages: 8734
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "Himiko"
     title: "Himiko"
     url: "/wiki/entities/himiko/"
+  - key: "HinduKushHimalaya"
+    title: "Hindu Kush Himalaya"
+    url: "/wiki/entities/hindukushhimalaya/"
   - key: "HinoharaShigeaki"
     title: "Hinohara Shigeaki / 日野原重明"
     url: "/wiki/entities/hinoharashigeaki/"

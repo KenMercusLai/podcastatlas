@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6207
+wiki_total_pages: 6213
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -359,6 +359,9 @@ wiki_pages:
   - key: "ListenerSupportedMedia"
     title: "Listener-Supported Media"
     url: "/wiki/concepts/listenersupportedmedia/"
+  - key: "ListeningBarCulturalExport"
+    title: "Listening Bar Cultural Export"
+    url: "/wiki/concepts/listeningbarculturalexport/"
   - key: "ListeningTherapyBoundary"
     title: "Listening-Therapy Boundary / 倾听与心理咨询边界"
     url: "/wiki/concepts/listeningtherapyboundary/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2634
+topic_total_pages: 2637
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -442,6 +442,9 @@ topic_concepts:
   - key: "AIHollowingFoundationalTraining"
     title: "AI Hollowing Foundational Training / AI导致基础训练空心化"
     url: "/wiki/concepts/aihollowingfoundationaltraining/"
+  - key: "AIHomeworkTransferGap"
+    title: "AI Homework Transfer Gap"
+    url: "/wiki/concepts/aihomeworktransfergap/"
   - key: "AIHyperscalerModelChannelConflict"
     title: "AI Hyperscaler Model Channel Conflict"
     url: "/wiki/concepts/aihyperscalermodelchannelconflict/"
@@ -2023,6 +2026,9 @@ topic_concepts:
   - key: "HydraulicSiegeWarfare"
     title: "Hydraulic Siege Warfare / 水攻围城"
     url: "/wiki/concepts/hydraulicsiegewarfare/"
+  - key: "HydropowerConcentrationRisk"
+    title: "Hydropower Concentration Risk"
+    url: "/wiki/concepts/hydropowerconcentrationrisk/"
   - key: "HyperscaleDataCenterMoratorium"
     title: "Hyperscale Data Center Moratorium"
     url: "/wiki/concepts/hyperscaledatacentermoratorium/"
@@ -6957,6 +6963,9 @@ topic_sources:
   - key: "tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128"
     title: "A tech company that 'happens to build homes'"
     url: "/wiki/sources/tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128/"
+  - key: "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078"
+    title: "After the flood: Nepal's ongoing rescue"
+    url: "/wiki/sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078/"
   - key: "agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b"
     title: "Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？"
     url: "/wiki/sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b/"

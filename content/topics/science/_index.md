@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 866
+topic_total_pages: 871
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -235,6 +235,9 @@ topic_concepts:
   - key: "ClimateAdaptation"
     title: "Climate Adaptation"
     url: "/wiki/concepts/climateadaptation/"
+  - key: "ClimateAidRetrenchment"
+    title: "Climate Aid Retrenchment"
+    url: "/wiki/concepts/climateaidretrenchment/"
   - key: "ClimateFoodPriceTransmission"
     title: "Climate Food Price Transmission"
     url: "/wiki/concepts/climatefoodpricetransmission/"
@@ -643,6 +646,9 @@ topic_concepts:
   - key: "HighRiskSurgicalInnovation"
     title: "High-Risk Surgical Innovation"
     url: "/wiki/concepts/highrisksurgicalinnovation/"
+  - key: "HimalayanGlacialFloodRisk"
+    title: "Himalayan Glacial Flood Risk"
+    url: "/wiki/concepts/himalayanglacialfloodrisk/"
   - key: "HindsightBias"
     title: "Hindsight Bias / 后见之明偏差"
     url: "/wiki/concepts/hindsightbias/"
@@ -667,6 +673,9 @@ topic_concepts:
   - key: "HumanisticScienceCommunication"
     title: "Humanistic Science Communication"
     url: "/wiki/concepts/humanisticsciencecommunication/"
+  - key: "HydropowerConcentrationRisk"
+    title: "Hydropower Concentration Risk"
+    url: "/wiki/concepts/hydropowerconcentrationrisk/"
   - key: "IcebergClimateSymbolism"
     title: "Iceberg Climate Symbolism"
     url: "/wiki/concepts/icebergclimatesymbolism/"
@@ -1757,6 +1766,9 @@ topic_entities:
   - key: "HenryGoddard"
     title: "Henry H. Goddard / 亨利·戈达德"
     url: "/wiki/entities/henrygoddard/"
+  - key: "HinduKushHimalaya"
+    title: "Hindu Kush Himalaya"
+    url: "/wiki/entities/hindukushhimalaya/"
   - key: "HourglassClimate"
     title: "Hourglass Climate"
     url: "/wiki/entities/hourglassclimate/"
@@ -2394,6 +2406,9 @@ topic_sources:
   - key: "tsr-s2-adoracheung-v5"
     title: "Adora Cheung on Homejoy, YC, Vote-by-Mail, and Instalab"
     url: "/wiki/sources/tsr-s2-adoracheung-v5/"
+  - key: "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078"
+    title: "After the flood: Nepal's ongoing rescue"
+    url: "/wiki/sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078/"
   - key: "tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128"
     title: "An \\\"antacid\\\" to fight climate change"
     url: "/wiki/sources/tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128/"

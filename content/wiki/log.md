@@ -14496,6 +14496,10 @@ Ran health, identity validation, and lint. Health scanned 16,606 wiki pages with
 
 Ingested the 2026-08-31 The Intelligence episode on Hollywood AI production, synthetic performers, AI-assisted effects and stunts, quiet studio adoption, Big Tech entertainment pressure, Obamacare subsidy expiry, exchange death-spiral risk, and French line dancing. Created `TillyNorwood`, `EileenVanDerVelden`, `TedSarandos`, `JohnIrwin`, `YoungWashington`, `CainParsons`, `PunkyDuck`, `AmazonMGMStudios`, `A24`, `Interpositive`, `DisneylandParis`, `GenerativeAIHollywoodProduction`, `SyntheticPerformers`, `ObamacareSubsidyCliff`, `HealthInsuranceDeathSpiral`, and `FrenchLineDancingCulture`; updated overview and index. No settled contradiction found; Hollywood usage, ACA market figures, and French participation claims remain source-dated and source-scoped.
 
+## [2026-09-01] ingest | After the flood: Nepal's ongoing rescue
+
+Ingested the 2026-09-01 The Intelligence episode on Nepal's August 26, 2026 glacial-flood disaster, AI homework evidence, and Japan-inspired listening bars. Added source `after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078`; created `HinduKushHimalaya`, `HimalayanGlacialFloodRisk`, `HydropowerConcentrationRisk`, `ClimateAidRetrenchment`, `AIHomeworkTransferGap`, `OngakuKissa`, and `ListeningBarCulturalExport`; migrated and updated `Nepal`; updated index, overview, and downstream synthesis artifacts. No settled contradiction found; disaster figures remain a September 1, 2026 rescue snapshot, and AI education claims remain implementation-dependent.
+
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -14731,3 +14735,7 @@ Ingested the 2026-06-16 芮淇讲透资治通鉴 PLUS episode evaluating Liu Xiu
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

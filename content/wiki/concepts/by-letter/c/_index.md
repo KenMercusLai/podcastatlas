@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6207
+wiki_total_pages: 6213
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -782,6 +782,9 @@ wiki_pages:
   - key: "ClimateAdaptation"
     title: "Climate Adaptation"
     url: "/wiki/concepts/climateadaptation/"
+  - key: "ClimateAidRetrenchment"
+    title: "Climate Aid Retrenchment"
+    url: "/wiki/concepts/climateaidretrenchment/"
   - key: "ClimateFoodPriceTransmission"
     title: "Climate Food Price Transmission"
     url: "/wiki/concepts/climatefoodpricetransmission/"

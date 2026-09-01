@@ -1099,6 +1099,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aihardwareprivacyexchange/"
     },
+    "AIHomeworkTransferGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
+          "key": "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078",
+          "show": "Economist Podcasts",
+          "title": "After the flood: Nepal's ongoing rescue",
+          "url": "/wiki/sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/aihomeworktransfergap/"
+    },
     "AIIPOValuation": {
       "episode_count": 15,
       "show_count": 6,
@@ -8220,6 +8236,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/cleanofficialcapacitygap/"
+    },
+    "ClimateAidRetrenchment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
+          "key": "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078",
+          "show": "Economist Podcasts",
+          "title": "After the flood: Nepal's ongoing rescue",
+          "url": "/wiki/sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/climateaidretrenchment/"
     },
     "ClinicalBehaviorChangeRedFlags": {
       "episode_count": 1,
@@ -21326,6 +21358,38 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/highstatuslawenforcementsignal/"
     },
+    "HimalayanGlacialFloodRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
+          "key": "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078",
+          "show": "Economist Podcasts",
+          "title": "After the flood: Nepal's ongoing rescue",
+          "url": "/wiki/sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/himalayanglacialfloodrisk/"
+    },
+    "HinduKushHimalaya": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
+          "key": "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078",
+          "show": "Economist Podcasts",
+          "title": "After the flood: Nepal's ongoing rescue",
+          "url": "/wiki/sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/hindukushhimalaya/"
+    },
     "HistoricalComplexityAgainstLabels": {
       "episode_count": 1,
       "show_count": 1,
@@ -22977,6 +23041,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/huyangprincesseasternhan/"
+    },
+    "HydropowerConcentrationRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
+          "key": "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078",
+          "show": "Economist Podcasts",
+          "title": "After the flood: Nepal's ongoing rescue",
+          "url": "/wiki/sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/hydropowerconcentrationrisk/"
     },
     "HyperscaleDataCenterMoratorium": {
       "episode_count": 3,
@@ -28014,6 +28094,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/lisamosconi/"
+    },
+    "ListeningBarCulturalExport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
+          "key": "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078",
+          "show": "Economist Podcasts",
+          "title": "After the flood: Nepal's ongoing rescue",
+          "url": "/wiki/sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/listeningbarculturalexport/"
     },
     "LithiumBipolarTreatment": {
       "episode_count": 1,
@@ -33811,6 +33907,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/neoantigenselectiontradeoff/"
     },
+    "Nepal": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Afghanistan, five years on： our correspondent visits [6a7ee547049c692a6b3ee0a9].md",
+          "key": "afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9",
+          "show": "Economist Podcasts",
+          "title": "Afghanistan, five years on: our correspondent visits",
+          "url": "/wiki/sources/afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9/"
+        },
+        {
+          "episode_file": "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
+          "key": "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078",
+          "show": "Economist Podcasts",
+          "title": "After the flood: Nepal's ongoing rescue",
+          "url": "/wiki/sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/nepal/"
+    },
     "Netherlands": {
       "episode_count": 6,
       "show_count": 2,
@@ -35026,6 +35145,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/onex/"
+    },
+    "OngakuKissa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
+          "key": "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078",
+          "show": "Economist Podcasts",
+          "title": "After the flood: Nepal's ongoing rescue",
+          "url": "/wiki/sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/ongakukissa/"
     },
     "OpenSourceAIBanRisk": {
       "episode_count": 1,
