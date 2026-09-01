@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-01
-as_of_overview_commit: 89c83520d7ca2dcb7374d263369b62cbc475fbac
-input_digest: 1405d9fb416c9ea4de4cff41c35d8d2c19fc2dde36864914f1c793be79af48a8
+as_of_overview_commit: de472eb9aa38d4e5a79ee704385add0b9d048aa5
+input_digest: 663fe353e78ffabe4b7c8fe598e36912f9c51ccbfda7df1fbe92abac45cd87dc
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The historical and geopolitical sources trace power through logistics, alliances, legitimacy, institutions, technology ecosystems, symbolic order, and capacity limits across ancient China, early modern Europe, modern state formation, and contemporary infrastructure. The early and late Eastern Han branches repeatedly show that military success depends on timing, personnel selection, hostage and surrender credibility, frontier diplomacy, public correction, appointment quality, food, transport, local elite integration, and the ability to keep symbolic legitimacy tied to material capacity. The late-Han and Three Kingdoms branches treat title order, marriage alliance, coalition politics, base security, adviser correction, supply, local order, and delegated violence as fragile systems that can convert opportunity into exposure when feedback or restraint fails. The Elizabethan and Dutch Revolt sequence now has both an internal Low Countries origin layer and a later English intervention layer: loyal rebellion against Philip II becomes maritime revolt, abjuration, Dutch Republic formation, and symbolic memory before Antwerp and the Treaty of Nonsuch pull Elizabethan England across the threshold from cold war to open conflict. Other history-and-geopolitics claims keep contemporary digital infrastructure, AI sovereignty, technology ecosystem shifts, U.S. founding memory, civil-rights street war, environmental-health exposure, and South African reconciliation symbolics source-scoped rather than reducing them to one model of power.
+Hanji 703 backfills the pre-Hanji 704 Eastern Han western-alignment layer: Wei Xiao's camp starts breaking through Dou Rong's ignored warning, Liang Tong's public no-return break, and Ma Yuan's insider persuasion before the later apology and siege sequence. The historical and geopolitical sources trace power through logistics, alliances, legitimacy, institutions, technology ecosystems, symbolic order, and capacity limits across ancient China, early modern Europe, modern state formation, and contemporary infrastructure. The early and late Eastern Han branches repeatedly show that military success depends on timing, personnel selection, hostage and surrender credibility, frontier diplomacy, public correction, appointment quality, food, transport, local elite integration, and the ability to keep symbolic legitimacy tied to material capacity. The late-Han and Three Kingdoms branches treat title order, marriage alliance, coalition politics, base security, adviser correction, supply, local order, and delegated violence as fragile systems that can convert opportunity into exposure when feedback or restraint fails. The Elizabethan and Dutch Revolt sequence now has both an internal Low Countries origin layer and a later English intervention layer: loyal rebellion against Philip II becomes maritime revolt, abjuration, Dutch Republic formation, and symbolic memory before Antwerp and the Treaty of Nonsuch pull Elizabethan England across the threshold from cold war to open conflict. Other history-and-geopolitics claims keep contemporary digital infrastructure, AI sovereignty, technology ecosystem shifts, U.S. founding memory, civil-rights street war, environmental-health exposure, and South African reconciliation symbolics source-scoped rather than reducing them to one model of power.
 
 ## Cross-source Findings
+
+### Early Eastern Han 703 Western Alignment Fracture Before Weixiao Apology
+
+[[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac|Hanji 703]] backfills the pre-Hanji 704 western-alignment layer around [[WeiXiaoEasternHan]], [[DouRongEasternHan]], [[LiangTongEasternHan]], and [[MaYuanEasternHan]]: Dou Rong warns Wei Xiao and then aligns with Liu Xiu, Liang Tong kills Wei Xiao's envoy and discards the seal as an [[IrreversibleDefectionBinding]] signal, and Ma Yuan uses insider credibility to divide Wei-side actors including [[GaoJunEasternHan]] while pressuring [[YangGuangWeiXiaoRetainer]]. The source therefore strengthens [[SecurityForAuthorityExchange]] and [[FaceSavingSubmissionFailure]] as paired outcomes in the same Longyou field.
+
+**Evidence:** [[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac]], [[WeiXiaoEasternHan]], [[DouRongEasternHan]], [[LiangTongEasternHan]], [[MaYuanEasternHan]], [[IrreversibleDefectionBinding]], [[GaoJunEasternHan]], [[YangGuangWeiXiaoRetainer]], [[SecurityForAuthorityExchange]], [[FaceSavingSubmissionFailure]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 703 and backfills the layer before Hanji 704 and Hanji 707 rather than replacing those later stages.
+- Zhang Xue, Ren Yu, Wang Yuan's advice wording, Wei Xun's exact hostage conditions, unnamed Qiang leaders, and Dou Rong's brother remain source-scoped.
+- The source supports a camp-fracture and persuasion reading, not a complete reconstruction of Wei Xiao's earlier career or western military geography.
 
 ### Early Eastern Han 705 1 Guangwu Correction And Lueyang Attrition
 

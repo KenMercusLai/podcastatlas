@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c3805883fbca132da567ea7c70dfa308475b10ead5423c9f348d3fc5317f50ac",
       "99bffd6ea498a30fc939473aad03bb6a8047fa332ce8ec0eeb75075e246d1866",
       "b1143a42ae79f3f34ece884060b220799414166874080850f12e59d1b6684221",
       "f1228ec71688f6d09956c176a2f9c8efeb2527e40780b79680755d8942ce3a55",
@@ -478,11 +479,36 @@
       "669579ac551e015d5d6c20aa08ac0e7c674e0f7fafcd9adc5bebd4f22c5899ea",
       "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3"
     ],
-    "paragraph_count": 476
+    "paragraph_count": 477
   },
-  "overview_commit": "89c83520d7ca2dcb7374d263369b62cbc475fbac",
-  "overview_digest": "c4d86da86f452d1dc2a6628f2aad43d61cc8f61510bf02ceb357be98ae7b67e3",
+  "overview_commit": "de472eb9aa38d4e5a79ee704385add0b9d048aa5",
+  "overview_digest": "57beb501524b4b94454bcc77e23ba95988abadd9bac0d54c3eba649d1c2c19bb",
   "paragraphs": [
+    {
+      "id": "c3805883fbca132da567ea7c70dfa308475b10ead5423c9f348d3fc5317f50ac",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac|《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the pre-Hanji 704 western-alignment layer around [[WeiXiaoEasternHan|隗嚣]], [[DouRongEasternHan|窦融]], [[LiangTongEasternHan|梁统]], and [[MaYuanEasternHan|马援]]. It extends [[YangGuangWeiXiaoRetainer|杨广]], [[GaoJunEasternHan|高峻]], [[SecurityForAuthorityExchange|交权换安全]], [[FaceSavingSubmissionFailure|保面子式归降失败]], and [[IrreversibleDefectionBinding|断路式策反绑定]]. Its core synthesis is that Wei Xiao's camp begins breaking through letters, visible rewards, and exit-closing signals before the later apology and siege sequence: Dou Rong warns and then aligns with Liu Xiu, Liang Tong kills Wei Xiao's envoy and discards the seal, and Ma Yuan uses insider credibility to divide Wei Xiao-side commanders and pressure Yang Guang through strategic and family-security arguments. No settled contradiction is recorded; Zhang Xue, Ren Yu, Wang Yuan's advice wording, Wei Xun's exact hostage conditions, unnamed Qiang leaders, and Dou Rong's brother remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "DouRongEasternHan",
+        "FaceSavingSubmissionFailure",
+        "GaoJunEasternHan",
+        "IrreversibleDefectionBinding",
+        "LiangTongEasternHan",
+        "MaYuanEasternHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SecurityForAuthorityExchange",
+        "WeiXiaoEasternHan",
+        "YangGuangWeiXiaoRetainer",
+        "zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac"
+      ]
+    },
     {
       "id": "99bffd6ea498a30fc939473aad03bb6a8047fa332ce8ec0eeb75075e246d1866",
       "primary_topic": "governance-and-institutions",

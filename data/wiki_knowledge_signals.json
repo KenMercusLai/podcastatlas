@@ -11849,9 +11849,9 @@
       "url": "/wiki/entities/doumueasternhan/"
     },
     "DouRongEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
@@ -11880,6 +11880,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？ [lgG-fRA8ostP2XSuuGPh6o_ILzaC].md",
+          "key": "zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac/"
         }
       ],
       "updated": "2026-09-01",
@@ -15405,9 +15412,9 @@
       "url": "/wiki/entities/fazheneasternhan/"
     },
     "FaceSavingSubmissionFailure": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？ [lgi_cjylEDgzlDrIe6kWpvEjWsls].md",
@@ -15415,6 +15422,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？ [lgG-fRA8ostP2XSuuGPh6o_ILzaC].md",
+          "key": "zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac/"
         }
       ],
       "updated": "2026-09-01",
@@ -18197,9 +18211,9 @@
       "url": "/wiki/entities/gaofanlatehan/"
     },
     "GaoJunEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？ [lukNoR8YW839QWxOGeyZwLUO6Qe2].md",
@@ -18207,6 +18221,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？ [lgG-fRA8ostP2XSuuGPh6o_ILzaC].md",
+          "key": "zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac/"
         }
       ],
       "updated": "2026-09-01",
@@ -24055,6 +24076,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/iransanctions/"
     },
+    "IrreversibleDefectionBinding": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》158｜口才好的天花板，一人顶百万大军 [lnUp_Vmw_ff-NQmuh6-x8SI0k8zU].md",
+          "key": "zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》158｜口才好的天花板，一人顶百万大军",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？ [lgG-fRA8ostP2XSuuGPh6o_ILzaC].md",
+          "key": "zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/irreversibledefectionbinding/"
+    },
     "IsolatedRetailDemandManagement": {
       "episode_count": 1,
       "show_count": 1,
@@ -27311,9 +27355,9 @@
       "url": "/wiki/entities/liangsonglinxiangmarquis/"
     },
     "LiangTongEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？ [lqxuINBrL-rop8d9YxGWX9z4Fr4I].md",
@@ -27328,6 +27372,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》714丨是谁第一个喊出“男儿当马革裹尸”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？ [lgG-fRA8ostP2XSuuGPh6o_ILzaC].md",
+          "key": "zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac/"
         }
       ],
       "updated": "2026-09-01",
@@ -30807,9 +30858,9 @@
       "url": "/wiki/entities/maxulatehan/"
     },
     "MaYuanEasternHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂 [ltjL2bGpyyz1bMwE_4mfCYd9E6cf].md",
@@ -30880,6 +30931,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？ [lgG-fRA8ostP2XSuuGPh6o_ILzaC].md",
+          "key": "zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac/"
         }
       ],
       "updated": "2026-09-01",
@@ -40718,9 +40776,9 @@
       "url": "/wiki/concepts/secondopinionstrategy/"
     },
     "SecurityForAuthorityExchange": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？ [lnDwXM9LMCKt1PS6eowQdI_v82pv].md",
@@ -40728,6 +40786,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？ [lgG-fRA8ostP2XSuuGPh6o_ILzaC].md",
+          "key": "zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac/"
         }
       ],
       "updated": "2026-09-01",
@@ -48085,9 +48150,9 @@
       "url": "/wiki/entities/weitenglatehan/"
     },
     "WeiXiaoEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -48116,6 +48181,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？ [lgG-fRA8ostP2XSuuGPh6o_ILzaC].md",
+          "key": "zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac/"
         }
       ],
       "updated": "2026-09-01",
@@ -51101,9 +51173,9 @@
       "url": "/wiki/entities/yangfulatehan/"
     },
     "YangGuangWeiXiaoRetainer": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？ [lgi_cjylEDgzlDrIe6kWpvEjWsls].md",
@@ -51111,6 +51183,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？ [lgG-fRA8ostP2XSuuGPh6o_ILzaC].md",
+          "key": "zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac/"
         }
       ],
       "updated": "2026-09-01",

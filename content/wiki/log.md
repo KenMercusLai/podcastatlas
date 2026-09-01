@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-01] ingest | 《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？
+
+Ingested the 2026-06-17 芮淇讲透资治通鉴 episode backfilling the pre-Hanji 704 Guangwu western alignment layer: Dou Rong's warning to Wei Xiao, Liang Tong's public break by killing Wei Xiao's envoy and discarding the seal, Ma Yuan's old Wei-side reporting and cavalry persuasion mission, and Liu Xiu's visible reward and deployment of surrendered talent. Created the source note; updated `WeiXiaoEasternHan`, `DouRongEasternHan`, `MaYuanEasternHan`, `LiangTongEasternHan`, `YangGuangWeiXiaoRetainer`, `GaoJunEasternHan`, `SecurityForAuthorityExchange`, `FaceSavingSubmissionFailure`, `IrreversibleDefectionBinding`, `index`, `overview`, generated synthesis artifacts, and validation state. No settled contradiction found; Zhang Xue, Ren Yu, Wang Yuan's advice wording, Wei Xun's exact hostage conditions, unnamed Qiang leaders, and Dou Rong's brother remain source-scoped.
+
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？
 
 Ingested the 2026-06-18 芮淇讲透资治通鉴 episode on Wei Xiao's post-defeat apology test, Ma Yuan's warning to Yang Guang, Liu Xiu's conditional hostage-and-title reply, Wei Xiao's turn to Gongsun Shu, and Xiongnu/Lu Fang raids followed by Liu Sa's heqin envoy. Created the source note plus `YangGuangWeiXiaoRetainer` and `FaceSavingSubmissionFailure`; updated `WeiXiaoEasternHan`, `MaYuanEasternHan`, `GongsunShuEasternHan`, `LuFangEasternHan`, `HanXiongnuHeqinPolicy`, `index`, `overview`, generated synthesis artifacts, and validation state. No settled contradiction found; Niu Han, Wei Xun, Liu Sa, exact commandery counts, and Wei Xiao faction psychology remain source-scoped.
@@ -14672,6 +14676,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] ingest | 680. The Netherlands: The Revolt that Made The Modern World (Part 4)
 
 Ingested the 2026-06-17 The Rest Is History episode on Het Wilhelmus, William of Orange, the Dutch Revolt, loyal rebellion, Brill, the Act of Abjuration, and the Dutch Republic. Added source `680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543`; created `HetWilhelmus`, `DutchRepublic`, `SeaBeggars`, `BalthazarGerard`, `LoyalRebellion`, and `PragmaticReligiousToleration`; updated Dutch Revolt, William of Orange, Low Countries, Philip II, Netherlands, Act of Abjuration, national anthem political plasticity, regime symbol continuity, The Rest Is History, overview, index, and downstream synthesis artifacts. No settled contradiction found; confessional and regional complexities of the Dutch Revolt remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] lint | Wiki health check
 

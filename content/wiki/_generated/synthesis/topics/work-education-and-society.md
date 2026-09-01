@@ -4,17 +4,29 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-01
-as_of_overview_commit: 5276066e62678e6f98083ab547eafcf070233e09
-input_digest: e9b0e739ebf7444342f239733b03b91913d954c96dcfcc09ef7cfef21e42289c
+as_of_overview_commit: de472eb9aa38d4e5a79ee704385add0b9d048aa5
+input_digest: 7cb7cb9c30215b16b6d8b887ffa4ca72dc1a459e06a45667d84ee3bcbb59bb25
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Hanji 705-5 and Hanji 705-6 together add a source-scoped Eastern Han gendered education and historiography case: [[BanZhaoLateHan]] now links Ban-family learning, [[BanGuEasternHan]]'s unfinished `Han Shu`, [[EmperorHeOfHan]]'s Dongguan commission, palace teaching, advice to [[EmpressDowagerDengLateHan]], memorial advocacy for [[BanChaoEasternHan]], [[MaRongLateHan]]'s student layer, [[BanJieyuWesternHan]] memory, [[CourtWomenHistoriography]], and the disputed [[NujieGenderNormTransmission]] afterlife. The broader topic continues to show work, education, and social capacity as institution-bound rather than trait-bound: Hanji 725-813 and 1056-1060 treat office roles, family status, counsel, succession, reputation, and access channels as sources of capability or exposure; modern workplace and labor sources connect boundaries, evidence, hidden rules, bullying, clerical organizing, creator monetization, finance-career risk, and lifestyle cost discipline; education sources emphasize self-testing, effort, fieldwork, mastery, motivation, and builder practice; AI, product, and creative-work sources show adoption requiring workflow fit, trust, distribution, verification, embodied judgment, and human taste; health and exercise sources frame public education through need assessment, risk boundaries, and clinical limits. Across the input, durable agency comes from grounded feedback loops, social trust, realistic constraints, and environments that let people act well rather than from hype, rank, followers, fluent answers, or capability claims alone.
+Hanji 703 adds a source-scoped work-and-society analogy about talent use and role clarity: useful allegiance is rewarded and deployed, while ambiguous allegiance is pressured into public decisions. Hanji 705-5 and Hanji 705-6 together add a source-scoped Eastern Han gendered education and historiography case: [[BanZhaoLateHan]] now links Ban-family learning, [[BanGuEasternHan]]'s unfinished `Han Shu`, [[EmperorHeOfHan]]'s Dongguan commission, palace teaching, advice to [[EmpressDowagerDengLateHan]], memorial advocacy for [[BanChaoEasternHan]], [[MaRongLateHan]]'s student layer, [[BanJieyuWesternHan]] memory, [[CourtWomenHistoriography]], and the disputed [[NujieGenderNormTransmission]] afterlife. The broader topic continues to show work, education, and social capacity as institution-bound rather than trait-bound: Hanji 725-813 and 1056-1060 treat office roles, family status, counsel, succession, reputation, and access channels as sources of capability or exposure; modern workplace and labor sources connect boundaries, evidence, hidden rules, bullying, clerical organizing, creator monetization, finance-career risk, and lifestyle cost discipline; education sources emphasize self-testing, effort, fieldwork, mastery, motivation, and builder practice; AI, product, and creative-work sources show adoption requiring workflow fit, trust, distribution, verification, embodied judgment, and human taste; health and exercise sources frame public education through need assessment, risk boundaries, and clinical limits. Across the input, durable agency comes from grounded feedback loops, social trust, realistic constraints, and environments that let people act well rather than from hype, rank, followers, fluent answers, or capability claims alone.
 
 ## Cross-source Findings
+
+### Hanji 703 Talent Alignment And Role Clarity
+
+[[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac|Hanji 703]] adds a source-scoped work-and-society analogy inside the Eastern Han material: [[DouRongEasternHan]] is rewarded and used after warning [[WeiXiaoEasternHan]], [[MaYuanEasternHan]] becomes valuable because old-network knowledge can be converted into persuasion, and [[LiangTongEasternHan]] shows role clarity through a costly no-return signal. The episode's host-level lesson is bounded: talent matters when it is attached to credible alignment, timing, and deployable judgment, not as an abstract trait.
+
+**Evidence:** [[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac]], [[DouRongEasternHan]], [[WeiXiaoEasternHan]], [[MaYuanEasternHan]], [[LiangTongEasternHan]]
+
+**Qualifications:**
+
+- This is a secondary work-and-society analogy from a historical source, not modern workplace, legal, military, or career advice.
+- The claim is bounded to Hanji 703's host framing and should not be generalized into a universal rule about talent or loyalty.
+- Minor actors and exact letter details remain source-scoped to the episode.
 
 ### Consumer Health Questions Need Product Use Boundaries
 
