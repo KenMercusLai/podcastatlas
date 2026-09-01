@@ -16,6 +16,7 @@ sources:
   - vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0
   - vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o
   - vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb
+  - vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd
 last_updated: 2026-09-02
 knowledge_schema: synthesis-v1
 ---
@@ -28,7 +29,9 @@ knowledge_schema: synthesis-v1
 ## Current Profile
 The show's current wiki profile is practical rather than encyclopedic. Its clinical branch covers individualized cancer vaccines, lumbar-disc care, missed-diagnosis uncertainty, otolaryngology and headphone/hearing safety, insect-bite dermatology, sports-medicine exercise safety, cardiovascular exercise boundaries, and [[ClinicalMusicTherapy|clinical music therapy]]. In each case, specialist explanation is tied to indication, symptoms, follow-up, clinical validation, patient burden, exposure or activity history, assessment, and qualified care rather than headline certainty.
 
-Its lifestyle and consumer-literacy branch covers weight management, sugar control, food labels, functional-food identity, supplement need assessment, mosquito-repellent products, headphone and audio-device habits, dopamine and prefrontal-cortex vocabulary, adult ADHD self-labeling, exercise load, braces, kinesiology tape, stretching, electrolyte drinks, fish oil, meal replacements, sleep-deprived training, music listening, and the claim that exercise is the best medical aesthetics. Across these sources, the show repeatedly turns anxiety, internet shorthand, product claims, device habits, and self-care routines into bounded questions: what is the mechanism, what evidence is missing, what is safe to do alone, and when should care remain professional?
+Its lifestyle and consumer-literacy branch covers weight management, sugar control, food labels, functional-food identity, supplement need assessment, CGM, GLP-1 medicines, mosquito-repellent products, headphone and audio-device habits, dopamine and prefrontal-cortex vocabulary, adult ADHD self-labeling, exercise load, braces, kinesiology tape, stretching, electrolyte drinks, fish oil, meal replacements, sleep-deprived training, music listening, and the claim that exercise is the best medical aesthetics. Across these sources, the show repeatedly turns anxiety, internet shorthand, product claims, device habits, and self-care routines into bounded questions: what is the mechanism, what evidence is missing, what is safe to do alone, and when should care remain professional?
+
+VOL.221 adds a metabolic-device and medication-safety branch. [[Atang|阿汤]] and [[DabaNiuTeacher|大白牛]] treat [[ContinuousGlucoseMonitoring]] as most valuable for diabetes safety and glucose instability, while warning that healthy-person curve-watching can become [[WearableHealthDataAnxiety]]. The same episode treats [[GLP1Agonists|GLP-1]] drugs as appropriate for selected diabetes, obesity, and metabolic-risk contexts, but not as appearance shortcuts detached from adverse effects, contraindication history, muscle loss, mood, rebound, and [[LifestyleWeightManagement|long-term lifestyle change]].
 
 VOL.208 adds an otolaryngology and audio-use branch through [[LvDoctorENT|耳鼻喉吕博士]] from [[ShenzhenPeopleHospital|深圳市人民医院]]. The episode treats heavy earphone use as [[HeadphoneUseHearingRisk]] rather than a device-only question: volume, duration, source distance, sudden peaks, environmental noise, canal pressure, ventilation, cleaning, tinnitus, and [[SuddenHearingChangeEscalation]] determine the public safety boundary.
 
@@ -45,7 +48,7 @@ VOL.211 adds a preceding exercise-aesthetics and cardiovascular safety branch. [
 ## Key Characteristics
 - Uses specialist guests to explain medical, nutrition, neuroscience, otolaryngology, cardiovascular, sports-medicine, medical-aesthetic, and mental-health topics through mechanisms, cases, and accessible examples.
 - Separates public education from individualized diagnosis, treatment, rehabilitation, legal advice, workplace advice, or product prescription.
-- Keeps advanced medical technology, exercise equipment, headphones, self-care routines, supplements, special-use foods, and consumer products tied to indication, validation, use context, risk, and patient or user burden.
+- Keeps advanced medical technology, exercise equipment, headphones, self-care routines, supplements, special-use foods, GLP-1 medicines, CGM, and consumer products tied to indication, validation, use context, risk, and patient or user burden.
 - Turns common anxieties into practical questions about interpretation, follow-up, food choices, product claims, training load, headphone use, music use, self-observation, evidence, and escalation.
 - Links prevention and self-care to clinical or institutional boundaries instead of treating them as substitutes for care.
 - Treats uncertainty and conflict as something to manage through communication, systems, records, professional support, and return thresholds rather than denial, blame, or retaliation.
@@ -57,17 +60,17 @@ VOL.211 adds a preceding exercise-aesthetics and cardiovascular safety branch. [
 - Ear and audio-device safety: [[vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb]] explains headphone-heavy listening through otolaryngology, ear-canal inflammation, sound-source distance, sudden audio peaks, environmental noise, device pressure, cleaning, tinnitus interpretation, and sudden hearing-change escalation.
 - Dermatology prevention and escalation: [[vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec]] turns mosquito repellents, bite itch, antihistamines, steroids, caterpillar and rove-beetle dermatitis, tick handling, chigger fever risk, and household standing water into a practical prevention-and-care map.
 - Sports medicine, aesthetics, and movement safety: [[vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy]] turns long sitting, weekend exercise, running, swimming, cycling, tennis, HYROX, braces, tape, stretching, joint popping, knee valgus, and elderly fall prevention into load-management and escalation-boundary questions; [[vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u]] adds exercise-as-aesthetic-medicine, cardiovascular screening, overtraining, supplements, sleep, injuries, and BLS/AED readiness.
-- Lifestyle and consumer literacy: [[vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5]], [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]], and [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o]] turn weight, injections, carbohydrates, sugar, labels, sweeteners, supplements, functional-food identity, electrolyte drinks, fish oil, and meal replacements into bounded behavior and medical-risk questions.
+- Lifestyle and consumer literacy: [[vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5]], [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]], [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o]], and [[vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd]] turn weight, injections, CGM, carbohydrates, sugar, labels, sweeteners, supplements, functional-food identity, electrolyte drinks, fish oil, and meal replacements into bounded behavior and medical-risk questions.
 - Internet medical vocabulary: [[vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur]] rejects single-region or casual psychiatric explanations while preserving clinical escalation thresholds for persistent or worsening behavior change.
 - Workplace and education psychology: [[vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz]] uses school-authority drama to explain parent projection, workplace bullying, psychological boundaries, evidence preservation, complaint channels, and professional support.
 
 ## Qualifications
-The page is based only on thirteen ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes are public education, not individualized medical, psychiatric, legal, workplace, nutrition, diabetes, fatty-liver, dermatology, infection, otolaryngology, audiology, tinnitus, device-selection, rehabilitation, sports-training, music-therapy, medical-aesthetic, cardiology, emergency-care, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
+The page is based only on fourteen ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes are public education, not individualized medical, psychiatric, legal, workplace, nutrition, diabetes, obesity, fatty-liver, dermatology, infection, otolaryngology, audiology, tinnitus, device-selection, rehabilitation, sports-training, music-therapy, medical-aesthetic, cardiology, emergency-care, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
 
 ## What Changed
-- VOL.208 adds an otolaryngology branch around headphone-heavy listening, ear-canal symptoms, tinnitus, and sudden hearing-change escalation.
-- The show's consumer-health pattern now includes audio devices and sound exposure alongside food, supplements, repellents, exercise equipment, and internet medical vocabulary.
-- The synthesis treats hearing symptoms as escalation signals when sudden, unilateral, asymmetric, dizzying, or sound-distorting rather than as automatic proof of headphone damage.
+- VOL.221 adds a metabolic-device and GLP-1 branch around CGM, diabetes safety, healthy-person data anxiety, medication indications, side effects, muscle loss, and rebound.
+- The show's consumer-health pattern now includes glucose devices and medication hype alongside food, supplements, repellents, audio devices, exercise equipment, and internet medical vocabulary.
+- The synthesis treats metabolic technologies as useful only when tied to indication, context, follow-up, and long-term behavior.
 
 ## Relationships
 - [[Atang]] - recurring host voice in the ingested episodes.
@@ -82,7 +85,7 @@ The page is based only on thirteen ingested episode notes. It should not be trea
 - [[WuLaoshiZheBing]] - source-scoped speaker in the insect-bite escalation episode.
 - [[NanJiHe]] - psychiatric guest in the workplace-bullying episode.
 - [[TrueEducationKDrama]] - drama hook for the workplace and education psychology episode.
-- [[DabaNiuTeacher]] - guest voice in the individualized cancer-vaccine episode.
+- [[DabaNiuTeacher]] - guest voice in the individualized cancer-vaccine and GLP-1/CGM episodes.
 - [[MaHaoning]] - guest voice in the lumbar-disc and missed-diagnosis episodes.
 - [[YaMengDoctor]] - dermatology-side guest in the missed-diagnosis episode.
 - [[JiangYuliangDoctor]] - gastroenterology-side guest in the missed-diagnosis episode.
@@ -108,6 +111,10 @@ The page is based only on thirteen ingested episode notes. It should not be trea
 - [[InsectBiteAftercare]] - household response and medication-boundary topic developed by the show.
 - [[VectorBorneInfectionEscalation]] - infection-risk escalation topic developed by the show.
 - [[LifestyleWeightManagement]] - nutrition, exercise, sleep, and medical-boundary concept developed by the show.
+- [[GLP1Agonists]] - metabolic-drug boundary developed through the GLP-1 episode.
+- [[ContinuousGlucoseMonitoring]] - metabolic-device boundary developed through the CGM episode.
+- [[WearableHealthDataAnxiety]] - health-data overmonitoring risk developed through the CGM and sleep-tracking discussion.
+- [[MuscleAsLongevityInfrastructure]] - muscle-preservation concern reinforced by the rapid weight-loss discussion.
 - [[PracticalSugarControl]] - sugar, carbohydrate, label, and sweetener literacy concept developed by the show.
 - [[FunctionalFoodRegulatoryIdentity]] - product-identity boundary developed through the show's supplement discussion.
 - [[TargetedSupplementNeedAssessment]] - supplement need-assessment frame developed through the show.

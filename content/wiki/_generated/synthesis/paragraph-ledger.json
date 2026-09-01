@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9265a6c707781879103b35cf5345d764ca2a294e07633a3a8e15f116e2b840e7",
       "56f3fd27cb7daf6338efa884f2103db89302d8d5ef0cd99a943521ff98ae1d31",
       "9287e5576c2878262bd3a7a2580e6ed403fd10750df46953967a60782d2a7e76",
       "7fca9efaffda934b2463110796fbad62c8f352d25e375b24271513ad79b7e93d",
@@ -492,11 +493,35 @@
       "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3",
       "5ba1c7a478b342521c54a704f3662e19b3e2e992a9e88c2a01eb72bc8c596387"
     ],
-    "paragraph_count": 490
+    "paragraph_count": 491
   },
-  "overview_commit": "0eaf6c81907616b02c5ecd94094e0a1d44cd6090",
-  "overview_digest": "2b7cbc3500956cd4f52c070fa6b5d0c1fec7a83e1d135983b45710d4432235cd",
+  "overview_commit": "dae5aa11bdca95be55fc86b74211d49f7d08065c",
+  "overview_digest": "3b6b8a708f6069d3a483ee33d21938e7e47da84f8f4b80f5e1bead024e43ccd5",
   "paragraphs": [
+    {
+      "id": "9265a6c707781879103b35cf5345d764ca2a294e07633a3a8e15f116e2b840e7",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd|VOL.221对话大白牛：掉肌肉、易抑郁、停药必反弹？撕掉“神药”滤镜]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[Atang|阿汤]] and [[DabaNiuTeacher|大白牛]] on [[ContinuousGlucoseMonitoring]], [[GLP1Agonists|GLP-1]] medicines, and health-data anxiety. It adds [[WearableHealthDataAnxiety]], while extending [[ContinuousGlucoseMonitoring]], [[GLP1Agonists]], [[LifestyleWeightManagement]], [[MuscleAsLongevityInfrastructure]], [[MedicalRiskManagement]], [[PersonalHealthData]], [[InformationCocoon]], [[FemaleBeautySelfSurveillance]], [[Atang]], [[DabaNiuTeacher]], and [[ZheBingShuoLaiHuaChang]]. Its core synthesis is that metabolic tools are useful when bounded by indication and context: CGM helps diabetes patients manage glucose swings and low-glucose risk, but healthy-person score-watching can create anxiety; GLP-1 drugs can help diabetes, obesity, and related metabolic disease, but unsupervised appearance use raises side-effect, muscle-loss, contraindication, mood, rebound, and long-term lifestyle risks. No settled contradiction is recorded; the episode reinforces VOL.217's weight-management boundary while adding a sharper patient-facing GLP-1 and CGM caution.",
+      "topic_scores": {
+        "science-health-and-climate": 2
+      },
+      "wikilinks": [
+        "Atang",
+        "ContinuousGlucoseMonitoring",
+        "DabaNiuTeacher",
+        "FemaleBeautySelfSurveillance",
+        "GLP1Agonists",
+        "InformationCocoon",
+        "LifestyleWeightManagement",
+        "MedicalRiskManagement",
+        "MuscleAsLongevityInfrastructure",
+        "PersonalHealthData",
+        "WearableHealthDataAnxiety",
+        "ZheBingShuoLaiHuaChang",
+        "vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd"
+      ]
+    },
     {
       "id": "56f3fd27cb7daf6338efa884f2103db89302d8d5ef0cd99a943521ff98ae1d31",
       "primary_topic": "culture-and-media",

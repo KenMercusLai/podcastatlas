@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6221
+wiki_total_pages: 6222
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "WearableFormFactorPressure"
     title: "Wearable Form-Factor Pressure"
     url: "/wiki/concepts/wearableformfactorpressure/"
+  - key: "WearableHealthDataAnxiety"
+    title: "Wearable Health Data Anxiety / 可穿戴健康数据焦虑"
+    url: "/wiki/concepts/wearablehealthdataanxiety/"
   - key: "WebBasedSoftware"
     title: "Web-Based Software"
     url: "/wiki/concepts/webbasedsoftware/"

@@ -14803,3 +14803,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] ingest | VOL.221对话大白牛：掉肌肉、易抑郁、停药必反弹？撕掉“神药”滤镜
+
+Ingested the 2026-09-01 这病说来话长 episode with 阿汤 and 大白牛 on continuous glucose monitoring, GLP-1 medication boundaries, side effects, muscle loss, contraindications, mood watch items, rebound, and wearable-health-data anxiety. Added source `vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd`; created `WearableHealthDataAnxiety`; migrated/updated `GLP1Agonists`; updated `ContinuousGlucoseMonitoring`, `LifestyleWeightManagement`, `MuscleAsLongevityInfrastructure`, `DabaNiuTeacher`, `ZheBingShuoLaiHuaChang`, `Atang`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source reinforces earlier weight-management and medical-risk boundaries while distinguishing clinical use from consumer status tracking and appearance-driven medication use.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

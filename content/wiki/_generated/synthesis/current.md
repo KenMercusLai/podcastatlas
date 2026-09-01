@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-02
-as_of_overview_commit: 53d9ed67826bf4b010a0cf7ee8d7e1f6458c9ec9
-summary: "Capability becomes durable only when bounded by evidence, institutions, workflows, markets, culture, health risk, physical constraints, and human judgment."
-episode_count: 1844
-source_count: 1844
-paragraph_count: 490
+as_of_overview_commit: dae5aa11bdca95be55fc86b74211d49f7d08065c
+summary: "Durable capability depends on evidence, workflow fit, institutions, markets, culture, health-risk boundaries, physical constraints, and human judgment."
+episode_count: 1847
+source_count: 1847
+paragraph_count: 491
 topic_count: 8
 ---
 
@@ -22,7 +22,7 @@ topic_count: 8
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
 - [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance.
 - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] adds a functional emotion-regulation branch: [[EmotionsAsFunctionalControlStates]] treats emotions as useful control states for decision and motivation, while [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], and [[TaskSwitchingResidue]] frame regulation as monitoring, differentiating, reframing early, shaping environments, respecting body signals, and managing transition costs rather than removing emotion.
-- [[HeadphoneUseHearingRisk]] adds an otolaryngology health-literacy branch: [[LvDoctorENT]] and [[Atang]] frame earphone harm as cumulative exposure and fit rather than one device category, with [[NoiseExposureLayering]], [[EarCanalInflammationRisk]], [[TinnitusSignalBoundary]], and [[SuddenHearingChangeEscalation]] linking volume, duration, sudden peaks, environmental noise, canal ventilation, pressure, hygiene, tinnitus asymmetry, and sudden hearing change to prevention or qualified care.
+- [[ContinuousGlucoseMonitoring]] and [[GLP1Agonists]] extend the health-literacy boundary around metabolic tools: CGM is strongest as diabetes safety monitoring and contextual pattern feedback, while [[WearableHealthDataAnxiety]] warns against healthy-person score chasing; GLP-1 drugs can help selected diabetes, obesity, and metabolic-risk contexts, but [[MedicalRiskManagement]], [[LifestyleWeightManagement]], and [[MuscleAsLongevityInfrastructure]] keep appearance-driven use bounded by side effects, contraindications, muscle preservation, rebound, and long-term behavior.
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context.
 
 ## Synthesis by Domain
@@ -70,10 +70,10 @@ Psychology and personal-development claims remain bounded by state awareness, se
 
 ### Science, Health, and Climate
 
-Health and science branches emphasize measurement, mechanism, exposure dose, escalation thresholds, implementation constraints, climate risk, and qualified care; VOL.208 adds headphone harm as cumulative exposure.
+Health and science branches emphasize measurement, mechanism, exposure dose, escalation thresholds, implementation constraints, climate risk, and qualified care; VOL.221 adds metabolic-tool boundaries around CGM, GLP-1, data anxiety, muscle loss, and rebound.
 
+- [[ContinuousGlucoseMonitoring]] and [[GLP1Agonists]] extend the health-literacy boundary around metabolic tools: CGM is strongest as diabetes safety monitoring and contextual pattern feedback, while [[WearableHealthDataAnxiety]] warns against healthy-person score chasing; GLP-1 drugs can help selected diabetes, obesity, and metabolic-risk contexts, but [[MedicalRiskManagement]], [[LifestyleWeightManagement]], and [[MuscleAsLongevityInfrastructure]] keep appearance-driven use bounded by side effects, contraindications, muscle preservation, rebound, and long-term behavior. Evidence: [[vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd]], [[ContinuousGlucoseMonitoring]], [[GLP1Agonists]], [[WearableHealthDataAnxiety]], [[MedicalRiskManagement]], [[LifestyleWeightManagement]], [[MuscleAsLongevityInfrastructure]], [[PersonalHealthData]], [[InformationCocoon]], [[FemaleBeautySelfSurveillance]], [[ZheBingShuoLaiHuaChang]], [[Atang]], [[DabaNiuTeacher]].
 - [[HeadphoneUseHearingRisk]] adds an otolaryngology health-literacy branch: [[LvDoctorENT]] and [[Atang]] frame earphone harm as cumulative exposure and fit rather than one device category, with [[NoiseExposureLayering]], [[EarCanalInflammationRisk]], [[TinnitusSignalBoundary]], and [[SuddenHearingChangeEscalation]] linking volume, duration, sudden peaks, environmental noise, canal ventilation, pressure, hygiene, tinnitus asymmetry, and sudden hearing change to prevention or qualified care. Evidence: [[vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb]], [[HeadphoneUseHearingRisk]], [[LvDoctorENT]], [[Atang]], [[NoiseExposureLayering]], [[EarCanalInflammationRisk]], [[TinnitusSignalBoundary]], [[SuddenHearingChangeEscalation]], [[MedicalRiskManagement]], [[DoctorPatientCommunication]], [[MedicalKnowledgeBoundary]], [[ZheBingShuoLaiHuaChang]].
-- [[FunctionalFoodRegulatoryIdentity]], [[TargetedSupplementNeedAssessment]], [[FunctionalFoodMarketingClaimSkepticism]], [[MealReplacementNutritionBoundary]], [[ElectrolyteDrinkUseBoundary]], and [[FishOilNaturalStatinBoundary]] extend health literacy from sugar control into functional-food and supplement products: people should identify product category, actual need, ingredient and nutrition labels, use scenario, and clinical boundary before treating functional wording, naturalness, high price, medical-grade, nano, high-absorption, or natural-statin claims as health guidance. Evidence: [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o]], [[FunctionalFoodRegulatoryIdentity]], [[TargetedSupplementNeedAssessment]], [[FunctionalFoodMarketingClaimSkepticism]], [[MealReplacementNutritionBoundary]], [[ElectrolyteDrinkUseBoundary]], [[FishOilNaturalStatinBoundary]], [[YuWanrouFunctionalFoodGuest]], [[NutritionLabelSugarTraps]], [[PracticalSugarControl]], [[DietarySupplementRegulation]], [[SupplementLabelAccuracy]], [[MedicalRiskManagement]], [[ZheBingShuoLaiHuaChang]], [[Atang]], [[YueWanrou]].
 
 ### Work, Education, and Society
 

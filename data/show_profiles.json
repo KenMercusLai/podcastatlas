@@ -2775,7 +2775,7 @@
       "earliest_episode_date": "2023-05-09",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lnXbxBAUsJXttxyBA-idbidq6kPd [lnXbxBAUsJXttxyBA-idbidq6kPd].md",
-      "source_note_count": 13,
+      "source_note_count": 14,
       "topic_matched_source_note_count": 3,
       "topics": [
         {
@@ -2803,12 +2803,19 @@
           "title": "阿汤 / A Tang",
           "url": "/wiki/entities/atang/",
           "kind": "person",
-          "episode_count": 11
+          "episode_count": 12
         },
         {
           "key": "YaMengDoctor",
           "title": "亚萌 / Ya Meng",
           "url": "/wiki/entities/yamengdoctor/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "DabaNiuTeacher",
+          "title": "大白牛老师 / Daba Niu Teacher",
+          "url": "/wiki/entities/dabaniuteacher/",
           "kind": "person",
           "episode_count": 2
         },
