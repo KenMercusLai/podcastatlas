@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 8764
+wiki_total_pages: 8770
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "EmperorNaruhito"
     title: "Emperor Naruhito"
     url: "/wiki/entities/emperornaruhito/"
+  - key: "EmperorXuanOfHan"
+    title: "Emperor Xuan of Han / 汉宣帝"
+    url: "/wiki/entities/emperorxuanofhan/"
   - key: "EmpressSisi"
     title: "Empress Sisi"
     url: "/wiki/entities/empresssisi/"

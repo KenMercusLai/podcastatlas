@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8764
+wiki_total_pages: 8770
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "WesternHanDynasty"
     title: "Western Han dynasty / 西汉"
     url: "/wiki/entities/westernhandynasty/"
+  - key: "WesternRegionsProtectorate"
+    title: "Western Regions Protectorate / 西域都护府"
+    url: "/wiki/entities/westernregionsprotectorate/"
   - key: "WesternSahara"
     title: "Western Sahara"
     url: "/wiki/entities/westernsahara/"

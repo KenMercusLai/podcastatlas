@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8764
+wiki_total_pages: 8770
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "FiveGuys"
     title: "Five Guys"
     url: "/wiki/entities/fiveguys/"
+  - key: "FiveStarsOutOfTheEastBrocade"
+    title: "Five Stars Out of the East Brocade / 五星出东方织锦"
+    url: "/wiki/entities/fivestarsoutoftheeastbrocade/"
   - key: "Fivetran"
     title: "Fivetran"
     url: "/wiki/entities/fivetran/"

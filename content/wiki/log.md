@@ -14784,6 +14784,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-02] ingest | 《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读
+
+Ingested the 2026-06-15 芮淇讲透资治通鉴 episode on the Niya five-star brocade, ancient astronomy, auspicious omen politics, Zhao Chongguo's Southern Qiang campaign, Han Western Regions authority, and Jingjue's later decline. Added source `zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq`; created `FiveStarsOutOfTheEastBrocade`, `NiyaSite`, `JingjueKingdom`, `WesternRegionsProtectorate`, `ZhaoChongguoWesternHan`, and `EmperorXuanOfHan`; updated `AuspiciousOmenPolitics`, `ChineseAstrologicalPolitics`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the brocade gift/warning interpretation, right-arm armguard explanation, 2040-09-09 comparison, and exact Jingjue decline causality remain source-scoped.
+
 ## [2026-09-02] ingest | Ep 59. 2026 Agent 编程新趋势
 
 Ingested the 2026-06-15 捕蛇者说 episode with Light9M and 小 A on 2026 AI coding workflows. Added source `ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252`; created `AgentCommandCenter`, `TeamAgentMemory`, `BushezheShuo`, `Light9M`, `XiaoA`, `AntiGravity`, `JuiceCodingAgent`, `SageOx`, and `Graft`; migrated/updated `AICoworkers`, `ProactiveAgents`, `EnterpriseAgentMemory`, `IMAgentInterfaces`, `SubagentWorkflow`, `CodingDemocratization`, `Codex`, and `Cursor`. No settled contradiction found; Cursor 3, Anti-Gravity 2.0, Juice Coding Agent, Sage Ox, and Graft details remain source-scoped.
@@ -14835,6 +14839,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] ingest | The Mountains Choose You: Araceli Segarra on Adventure & Resilience | Shekhar Natarajan
 
 Ingested the 2026-09-01 Tomorrow Today episode with Araceli Segarra on Everest, the 1996 IMAX expedition, fear, uncertainty, team trust, rescue, resilience, and AI-era judgment. Added source `default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757`; created `AraceliSegarra`, `DavidBreshears`, `BeckWeathers`, `ColonelMadanEverestPilot`, `EverestIMAXExpedition`, `SummitAsTransformation`, `AdventureUncertaintyReframing`, `ExpeditionTeamTrust`, and `AIHowHumanWhyBoundary`; updated `ShekharNatarajan`, `TomorrowToday`, `ExtremeEnvironmentRiskManagement`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Aracely Sagara/Aracely is normalized to Araceli Segarra, while exact rescue chronology, Colonel Madan's full identity, David Breshears details, and full climbing biography remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 

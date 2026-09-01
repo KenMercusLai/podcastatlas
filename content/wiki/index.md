@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读](sources/zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq.md) — 芮淇讲透资治通鉴 episode using the Niya five-star brocade to connect ancient astronomy, auspicious omen politics, Zhao Chongguo's Southern Qiang campaign, Western Regions diplomacy, and Jingjue's later decline.
 - [《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！](sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk.md) — Jianwu 4 Guangwu episode on Tian Rong's failed surrender after Xin Chen's defection, Yan Cen's defeat and Hanzhong turn, Wu Han's Gexian pacification, Fu Zhan's campaign-priority advice, Gai Yan's failed Lanling rescue, Zhang Feng's fake-seal rebellion, Li Xian's siege, and Hou Ba's institutional reconstruction.
 - [《资治通鉴·汉纪》691丨敢夺江山的隗嚣，为何注定输给刘秀？](sources/zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8.md) — Early Guangwu backfill on Ma Yuan comparing Gongsun Shu and Liu Xiu, Wei Xiao's temporary anti-Shu cooperation, Liu Xiu's handwritten reassurance, Feng Yi's Chen Cang/Sanfu counterblow, and Wei Xiao's unstable positioning.
 - [《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？](sources/zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl.md) — Jianwu 5 Guangwu episode on Wang Ba's morale-tempo command: delayed rescue of Ma Wu, rear-cavalry defeat of Su Mao and Zhou Jian, fortified refusal under supply pressure, and later northern-frontier service.
@@ -1860,6 +1861,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Five Stars Out of the East Brocade / 五星出东方织锦](entities/FiveStarsOutOfTheEastBrocade.md) — Niya brocade artifact whose five-star phrase links material archaeology, Han omen language, Zhao Chongguo's campaign frame, and Western Regions memory.
+- [Niya Site / 尼雅遗址](entities/NiyaSite.md) — Minfeng-Hotan archaeological site anchoring the brocade, Jingjue tomb context, and oasis-decline reconstruction.
+- [Jingjue Kingdom / 精绝古国](entities/JingjueKingdom.md) — Western Regions oasis polity reconstructed through Niya evidence, Han protection, regional pressure, and ecological decline.
+- [Western Regions Protectorate / 西域都护府](entities/WesternRegionsProtectorate.md) — Han frontier institution used by Hanji 689-3 to frame Western Regions protection, diplomatic warning, and later capacity limits.
+- [Zhao Chongguo / 赵充国 (Western Han)](entities/ZhaoChongguoWesternHan.md) — Western Han general tied to the Southern Qiang campaign and the brocade's "讨南羌" interpretation.
+- [Emperor Xuan of Han / 汉宣帝](entities/EmperorXuanOfHan.md) — Western Han ruler associated with the five-star omen formula behind Zhao Chongguo's campaign setting.
 - [田戎 / Tian Rong (Yiling, Eastern Han)](entities/TianRongYilingEasternHan.md) — Yiling power holder whose planned surrender collapses through Xin Chen's theft, defection, suspicious letter, and divination.
 - [辛臣 / Xin Chen (Eastern Han)](entities/XinChenEasternHan.md) — Tian Rong's in-law and Yiling guard whose theft and defection to Cen Peng break the surrender channel.
 - [傅湛 / Fu Zhan (Eastern Han)](entities/FuZhanEasternHan.md) — Guangwu adviser whose remonstrance redirects Liu Xiu from distant Peng Chong toward nearer unsettled regions.
@@ -13532,7 +13539,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fangshi Fraud And Authority / 方士骗术与权威](concepts/FangshiFraudAndAuthority.md) — Specialist-authority pattern where hidden-cause claims, props, staging, and failure reinterpretation can become predatory extraction.
 - [Wugu Political Panic / 巫蛊政治恐慌](concepts/WuguPoliticalPanic.md) — Qin-Han and Eastern Han curse-accusation pattern where hidden ritual suspicion, illness, denunciation, torture, palace rivalry, and succession fear produce state violence.
 - [Fangshu Systematization / 方术系统化](concepts/FangshuSystematization.md) — Process by which omens, immortality arts, healing, talismans, alchemy, divination, and fengshui become textual and religious systems.
-- [Chinese Astrological Politics / 中国星占政治](concepts/ChineseAstrologicalPolitics.md) — Reading celestial phenomena as political evidence about rulers, ministers, war, legitimacy, and state conduct.
+- [Chinese Astrological Politics / 中国星占政治](concepts/ChineseAstrologicalPolitics.md) — Use of celestial phenomena, planetary movement, and sky-earth correspondences as political evidence about rulers, ministers, war, legitimacy, and state conduct.
 - [Daoist Alchemy / 道教炼丹](concepts/DaoistAlchemy.md) — Immortality-oriented elixir practice linking coded language, material transformation, cosmology, and textual authority.
 - [Daoist Nourishing-Life Techniques / 道教养生术](concepts/DaoistNourishingLifeTechniques.md) — Guarding the One, qi practices, fetal breathing, and daoyin as immortality-oriented body disciplines.
 - [Daoist Ritual Technology / 道教仪式技术](concepts/DaoistRitualTechnology.md) — Pacing the Dipper, talismans, spells, swords, mirrors, invisibility arts, and administrative command formulae as ritual technique.
@@ -14420,7 +14427,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mandate of Heaven Legitimacy / 天命合法性](concepts/MandateOfHeavenLegitimacy.md) — Sacred legitimacy frame where heavenly signs, people-support, ritual recognition, and claimant self-authorization are tested as grounds for rule.
 - [Dynastic Legitimacy Backfire / 王朝合法性回旋镖](concepts/DynasticLegitimacyBackfire.md) — Episode 126's mechanism where a dynasty's own sacred legitimacy logic turns into a tool for replacement.
 - [Chenwei Politics / 谶纬政治](concepts/ChenweiPolitics.md) — Prophetic and apocryphal interpretation used as political evidence in Wang Mang, Liu Xiu's fengshan, Yuan Shu, Dong Zhuo, and other sign-politics cases.
-- [Auspicious Omen Politics / 祥瑞政治](concepts/AuspiciousOmenPolitics.md) — Political use of auspicious signs, petitions, ritual projects, and omen reports to make power transfer appear Heaven-approved.
+- [Auspicious Omen Politics / 祥瑞政治](concepts/AuspiciousOmenPolitics.md) — Political use of favorable signs, portents, artifacts, and omen reports to authorize office, purge, ritual, frontier action, memory, or dynastic legitimacy.
 - [Moral Reputation as Political Capital / 道德名望政治资本](concepts/MoralReputationPoliticalCapital.md) — Pattern where visible virtue, public sympathy, self-restraint, or filial image become usable power or remembered legitimacy.
 - [Confucian Ideal Governance / 儒家理想治理](concepts/ConfucianIdealGovernance.md) — Episode 126's frame for moralized rule through ritual, hierarchy, ancient models, and scholar support.
 - [Tuogu Reform Politics / 托古改制政治](concepts/TuoguReformPolitics.md) — Reform justified by ancient models, making Wang Mang's changes radical in effect but conservative in authority language.

@@ -3891,6 +3891,85 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/attilathehun/"
     },
+    "AuspiciousOmenPolitics": {
+      "episode_count": 10,
+      "show_count": 2,
+      "source_note_count": 10,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》911丨古代公务员也能包分配？ [ls3pXu9XlPuulSDaILx8TcoYlv9e].md",
+          "key": "zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》911丨古代公务员也能包分配？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？ [lnKHah144822mC4AA9bNeZKLGvOO].md",
+          "key": "zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》126｜秦始皇死因之谜（2） [ln15p5qb7Lc20GOni1IbcPmN3wca].md",
+          "key": "zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》126｜秦始皇死因之谜（2）",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》126｜秦始皇死因之谜（1） [lgtLHAu6IXQgLk1iCt1FS0jExJwE].md",
+          "key": "zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》126｜秦始皇死因之谜（1）",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》120-2｜秦朝第一套VI设计理念 [lnO-AEljKs2VT1k3wJRiZSAnirtq].md",
+          "key": "zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》120-2｜秦朝第一套VI设计理念",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》68丨惊叹宋康王荒淫无度的狗血历史（2） [lkN073gbtpMG11hcrCm8h6uVaWZt].md",
+          "key": "zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》68丨惊叹宋康王荒淫无度的狗血历史（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt/"
+        },
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
+        },
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集） [704051550].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
+          "key": "zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/auspiciousomenpolitics/"
+    },
     "AustriaHungary": {
       "episode_count": 2,
       "show_count": 1,
@@ -8029,6 +8108,50 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/chinawomensnationalfootballteam/"
+    },
+    "ChineseAstrologicalPolitics": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？ [lnKHah144822mC4AA9bNeZKLGvOO].md",
+          "key": "zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》126｜秦始皇死因之谜（1） [lgtLHAu6IXQgLk1iCt1FS0jExJwE].md",
+          "key": "zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》126｜秦始皇死因之谜（1）",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe/"
+        },
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
+        },
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集） [704051550].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
+          "key": "zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/chineseastrologicalpolitics/"
     },
     "ChineseInternetEntryPointCompetition": {
       "episode_count": 1,
@@ -14755,6 +14878,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/emperorshunofhan/"
     },
+    "EmperorXuanOfHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
+          "key": "zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/emperorxuanofhan/"
+    },
     "EmperorZhangOfHan": {
       "episode_count": 17,
       "show_count": 1,
@@ -17686,6 +17825,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/fivemarquiseshuanera/"
+    },
+    "FiveStarsOutOfTheEastBrocade": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
+          "key": "zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/fivestarsoutoftheeastbrocade/"
     },
     "FlexibilityNeuralSafetyGating": {
       "episode_count": 1,
@@ -26275,6 +26430,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/jingyilatehan/"
+    },
+    "JingjueKingdom": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
+          "key": "zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/jingjuekingdom/"
     },
     "JizhouLateHan": {
       "episode_count": 5,
@@ -35542,6 +35713,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/nixie/"
+    },
+    "NiyaSite": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
+          "key": "zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/niyasite/"
     },
     "NkosiSikelelIAfrika": {
       "episode_count": 1,
@@ -51042,6 +51229,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/wenrenxilatehan/"
     },
+    "WesternRegionsProtectorate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
+          "key": "zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/westernregionsprotectorate/"
+    },
     "Westlaw": {
       "episode_count": 1,
       "show_count": 1,
@@ -56238,6 +56441,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhaochonglatehan/"
+    },
+    "ZhaoChongguoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
+          "key": "zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/zhaochongguowesternhan/"
     },
     "ZhaoDianLateHan": {
       "episode_count": 1,

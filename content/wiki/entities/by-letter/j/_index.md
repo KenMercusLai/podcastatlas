@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 8764
+wiki_total_pages: 8770
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -443,6 +443,9 @@ wiki_pages:
   - key: "JingdezhenImperialKilnFactory"
     title: "Jingdezhen Imperial Kiln Factory / 景德镇御窑厂"
     url: "/wiki/entities/jingdezhenimperialkilnfactory/"
+  - key: "JingjueKingdom"
+    title: "Jingjue Kingdom / 精绝古国"
+    url: "/wiki/entities/jingjuekingdom/"
   - key: "Jinjiang"
     title: "Jinjiang / 晋江"
     url: "/wiki/entities/jinjiang/"

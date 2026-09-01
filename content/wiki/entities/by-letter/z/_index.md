@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8764
+wiki_total_pages: 8770
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "ZhaoChenyang"
     title: "Zhao Chenyang / 赵晨阳"
     url: "/wiki/entities/zhaochenyang/"
+  - key: "ZhaoChongguoWesternHan"
+    title: "Zhao Chongguo / 赵充国 (Western Han)"
+    url: "/wiki/entities/zhaochongguowesternhan/"
   - key: "ZhaoDongping"
     title: "Zhao Dongping / 赵东平"
     url: "/wiki/entities/zhaodongping/"

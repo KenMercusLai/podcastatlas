@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "d628002add96e4192a2e2c689b34aa3c188be0d165b8b53afe77e8f1533974b6",
       "8e22874a34a0e3b1828841ae90e95ca2709e2612a10ff3930235117f938a5086",
       "bc6d5f37a1d97fc04317ef9374b8e6c99be98feda874d44bbecc15acbf3f8f8b",
       "9265a6c707781879103b35cf5345d764ca2a294e07633a3a8e15f116e2b840e7",
@@ -497,11 +498,41 @@
       "9d36904e555be9bd3a64051aec40ec50d074a0fe33f5d94a41cd1392f151a764",
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60"
     ],
-    "paragraph_count": 495
+    "paragraph_count": 496
   },
-  "overview_commit": "032eca018d71a1f5f1ff7a175ec5b160959ca5b5",
-  "overview_digest": "5e5e98b016ac729a6b55741e8569b87a4f6b32ddd98bf7272fd545425ae9845a",
+  "overview_commit": "0b26a0ad029c57e4b1bc1b5d69a4bada8ab92bcd",
+  "overview_digest": "0eb53ebb7f6aef6eb3dfecbf802c2471426dea62898eab6df46fa1fd2d8f6d33",
   "paragraphs": [
+    {
+      "id": "d628002add96e4192a2e2c689b34aa3c188be0d165b8b53afe77e8f1533974b6",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode using the [[FiveStarsOutOfTheEastBrocade|五星出东方织锦]] from [[NiyaSite|尼雅遗址]] as a bridge between ancient astronomy, [[ChineseAstrologicalPolitics|中国星占政治]], [[AuspiciousOmenPolitics|祥瑞政治]], [[WesternRegionsProtectorate|西域都护府]], and Western Han frontier history. It adds [[JingjueKingdom|精绝古国]], [[ZhaoChongguoWesternHan|赵充国]], and [[EmperorXuanOfHan|汉宣帝]], while connecting [[Xiongnu|匈奴]], [[ShanshanKingdomLateHan|鄯善]], [[ShacheKingdomLateHan|莎车]], [[KhotanKingdomLateHan|于阗]], [[LiuXiu|刘秀]], [[WangMang|王莽]], and [[CapacityBoundFrontierCommitment|能力约束下的边疆承诺]]. Its core synthesis is that a five-planet omen could be materialized as textile, campaign slogan, gift, warning, and later memory at once, but the source keeps the strongest inferences source-scoped: the gift/warning purpose, right-arm armguard meaning, and modern 2040-09-09 five-planet comparison do not substitute for ordinary military, ecological, and institutional explanations. No settled contradiction is recorded; Jingjue tomb identity, brocade circulation, and exact decline causality remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 3,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AuspiciousOmenPolitics",
+        "CapacityBoundFrontierCommitment",
+        "ChineseAstrologicalPolitics",
+        "EmperorXuanOfHan",
+        "FiveStarsOutOfTheEastBrocade",
+        "JingjueKingdom",
+        "KhotanKingdomLateHan",
+        "LiuXiu",
+        "NiyaSite",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShacheKingdomLateHan",
+        "ShanshanKingdomLateHan",
+        "WangMang",
+        "WesternRegionsProtectorate",
+        "Xiongnu",
+        "ZhaoChongguoWesternHan",
+        "zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq"
+      ]
+    },
     {
       "id": "8e22874a34a0e3b1828841ae90e95ca2709e2612a10ff3930235117f938a5086",
       "primary_topic": "history-and-geopolitics",
