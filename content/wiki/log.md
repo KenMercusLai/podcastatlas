@@ -14488,6 +14488,10 @@ Ingested the 2026-08-31 The Intelligence episode on Hollywood AI production, syn
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-01] ingest | 《资治通鉴·汉纪》705-6丨班昭：三次一鸣惊人，闺蜜干政NO.1
+
+Ingested the 2026-06-19 芮淇讲透资治通鉴 episode on Ban Zhao's literary recognition, `Han Shu` teaching, Ban Chao petition, Deng-regency advice, `Nujie`, and later reputation. Created `BanJieyuWesternHan` and `NujieGenderNormTransmission`; updated Ban Zhao, Ma Rong, Eastern Han female court education, overview, and index. No settled contradiction found; first-live-ostrich, first-female-teacher, unopposed-political-participation, 120 CE death, and strong `Nujie` reception claims remain source-scoped.
+
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？
 
 Ingested the 2026-06-20 芮淇讲透资治通鉴 episode backfilling the Jianwu 11-12 Shu campaign immediately before Hanji 712. Created `CenPengEasternHan`, `ZangGongEasternHan`, `GuoJiEasternHan`, and `OperationalTempoBreakthrough`; updated Liu Xiu, Gongsun Shu, Yan Cen, Wu Han, Ma Yuan, overview, and index. No settled contradiction found; 延岑 is normalized to the existing Yan Cen page, Cen Peng's humane military discipline is held beside Wu Han's later Chengdu overreach, and minor figures such as Hou Dan, Wang Yuan, Ren Gui, Chang Shao, and Zhang Long remain source-scoped.
@@ -14595,6 +14599,10 @@ Ingested the 2026-06-19 芮淇讲透资治通鉴 episode backfilling Jianwu 8 / 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件
 
 Ingested the 2026-06-19 芮淇讲透资治通鉴 episode backfilling Jianwu 10-11 / 34-35 CE between Hanji 709 and Hanji 711. Created `HuanAnEasternHan` and `BaoYongEasternHan`; updated Lai Xi, Cen Peng, Gongsun Shu, operational tempo breakthrough, wartime command decapitation, command continuity damage control, overview, and index. No settled contradiction found; Wang Yuan, Gai Yan, Liu Liang, Bao Hui, Zhang Zhan, Lu Qi, Ren Man, Cheng Fan, Liu Long, Feng Jun, Hou Dan, Lü Wei, Gongsun Hui, exact force counts, and detailed place variants remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] lint | Wiki health check
 

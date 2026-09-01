@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-01
-as_of_overview_commit: 49d0a50ca555bc43ae2a9bec5d5763df714f5478
-input_digest: 398588150fd189ce8812868e605eea8d247c315b9b0e697db49e6d10a2a47562
+as_of_overview_commit: 17b608536d47c6d7bba6517156a7098e290cb3b7
+input_digest: dcc1257ae263add731c4db96e3fdb7449add85bd45ac9da616ecac2207beaaf6
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The new The Intelligence Hollywood episode adds a source-scoped work-and-society AI-production case: generative AI enters film through previsualization, stunt and effects safety, editing, dubbing, and hidden workflow use, while synthetic performers, likeness rights, disclosure, quality, and labor backlash keep replacement claims trust-bound. EP281 adds a creative-work and relational-repair case: [[ChanDrama]], [[WuZhenyu]], [[YuanYumei]], [[EmbodiedActingImprovisation]], [[TemporaryFamilyHealing]], [[HumanImperfectionCreativeValue]], and [[LoveAsContainingFrame]] frame artistic labor and repair as embodied, imperfect, and relational, with AI treated as production assistance rather than a substitute for human emotion, taste, and scene response. Hanji 725 adds a secondary role-boundary case before Hanji 726: Ma Yuan's private warning letter teaches speech discipline and imitation risk through Long Bogao and Du Jiliang, but the same letter becomes accusation evidence after its audience changes; Liang Song and Geng Shu extend the risk through etiquette resentment, association exposure, and route-dispute reporting. Hanji 726 then adds a reputation and accountability case: Zhu Bo's defense of Ma Yuan shows public evidence repairing posthumous reputation after accusation, Zong Jun's Wuling decision shows emergency judgment returning to self-impeachment, and Ban Biao's Wuhuan advice turns frontier management into office routines. Hanji 728 adds a source-scoped status, access, and education boundary case: Fan Hong preserves high status through low display and thin burial, Wang Pan and Wang Su show elite association becoming exposure, princely guest networks turn access into violence and purge, and Zhang Yi/Huan Rong make crown-prince education a public role rather than a maternal-family appointment. Hanji 738-744 add source-scoped public-duty, family-status, and role-boundary analogies; Hanji 757, 762, 775, 785, 787, and 792 add role fit, rank proximity, female court education, mourning withdrawal, palace selection, and family-risk diversification cases. Modern health-education, labor, workplace-AI, consumer-health, fieldwork, Jefferson-Hemings, and Alpha School sources converge on a practical pattern: durable capability comes from bounded institutions, active learning, realistic workplace judgment, human feedback loops, social trust, pacing, and environments that let people act under real constraints rather than under hype.
+Hanji 705-6 adds a source-scoped Eastern Han gendered education case: [[BanZhaoLateHan]] now links palace teaching, `Han Shu` transmission, advice to [[EmpressDowagerDengLateHan]], memorial advocacy for [[BanChaoEasternHan]], [[MaRongLateHan]]'s student layer, [[BanJieyuWesternHan]] memory, and the disputed [[NujieGenderNormTransmission]] afterlife. The broader topic continues to show work, education, and social capacity as institution-bound rather than trait-bound: Hanji 725-813 and 1056-1060 treat office roles, family status, counsel, succession, reputation, and access channels as sources of capability or exposure; modern workplace and labor sources connect boundaries, evidence, hidden rules, bullying, clerical organizing, creator monetization, finance-career risk, and lifestyle cost discipline; education sources emphasize self-testing, effort, fieldwork, mastery, motivation, and builder practice; AI, product, and creative-work sources show adoption requiring workflow fit, trust, distribution, verification, embodied judgment, and human taste; health and exercise sources frame public education through need assessment, risk boundaries, and clinical limits. Across the input, durable agency comes from grounded feedback loops, social trust, realistic constraints, and environments that let people act well rather than from hype, rank, followers, fluent answers, or capability claims alone.
 
 ## Cross-source Findings
 
@@ -349,6 +349,18 @@ As a secondary work-and-society input, [[686-jefferson-the-betrayal-of-liberty-p
 - This is a historical work-and-society analogy from Hanji 775, not modern career, education, family, or gender advice.
 - The women school priority claim remains source-scoped and is not treated as independent comparative education history.
 - The source gives a favorable Deng Sui formation narrative; later regency outcomes and family-purge consequences remain handled by later Hanji notes.
+
+### Ban Zhao Court Education And Nujie Reception
+
+[[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] adds a source-scoped gendered education and reception case: [[BanZhaoLateHan]] combines `Han Shu` instruction, palace teaching, advice to [[EmpressDowagerDengLateHan]], and memorial advocacy for [[BanChaoEasternHan]] with a later [[NujieGenderNormTransmission]] afterlife; [[MaRongLateHan]], [[FemaleCourtEducationEasternHan]], and [[BanJieyuWesternHan]] keep the case tied to scholarly transmission, court education, and Western Han female-literary memory rather than private talent alone.
+
+**Evidence:** [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm]], [[BanZhaoLateHan]], [[EmpressDowagerDengLateHan]], [[BanChaoEasternHan]], [[NujieGenderNormTransmission]], [[MaRongLateHan]], [[FemaleCourtEducationEasternHan]], [[BanJieyuWesternHan]]
+
+**Qualifications:**
+
+- This is a historical work-and-society analogy from Hanji 705-6, not modern career, education, family, political, or gender advice.
+- The live-ostrich, first-female-teacher, unopposed-political-participation, 120 CE death, and strong Nujie reception claims remain source-scoped.
+- The Nujie claim records later norm-transmission reception without reducing Ban Zhao's profile to that text alone.
 
 ### Clerical Worker Organizing Frames Stalled Workplace Progress
 

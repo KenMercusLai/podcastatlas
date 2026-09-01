@@ -6187,6 +6187,10 @@
     "title": "班固 / Ban Gu (Eastern Han)",
     "url": "/wiki/entities/bangueasternhan/"
   },
+  "BanJieyuWesternHan": {
+    "title": "班婕妤 / Ban Jieyu (Western Han)",
+    "url": "/wiki/entities/banjieyuwesternhan/"
+  },
   "BanShiLateHan": {
     "title": "班始 / Ban Shi (late Han)",
     "url": "/wiki/entities/banshilatehan/"
@@ -37671,6 +37675,10 @@
     "title": "Nuestra Senora de la Concepcion",
     "url": "/wiki/entities/nuestrasenoradelaconcepcion/"
   },
+  "NujieGenderNormTransmission": {
+    "title": "《女诫》性别规范传承 / Nujie Gender Norm Transmission",
+    "url": "/wiki/concepts/nujiegendernormtransmission/"
+  },
   "NumagamiRenji": {
     "title": "沼上蓮次 / Numagami Renji",
     "url": "/wiki/entities/numagamirenji/"
@@ -64846,6 +64854,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm": {
+    "title": "《资治通鉴·汉纪》705-6丨班昭：三次一鸣惊人，闺蜜干政NO.1",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm/"
   },
   "zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv": {
     "title": "《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？",

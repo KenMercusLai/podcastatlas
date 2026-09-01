@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "d66232241719a12b80772b9920915f51ac2f7f762c9f503e1a79da5858f4b1e8",
       "d443e2d07d3e3bb0d935d41e5d5a12348a56349d2005038b7e12ae376c1c6ca6",
       "8881e191f20a7a53a1808c3ab8d85c3be4989ad7dd0e5766dc92231d5172c9d1",
       "a3f502dc612a49c24ea3ef01dcf62010e596307ee67761c90d6a6f4ce35a45ca",
@@ -469,11 +470,33 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 467
+    "paragraph_count": 468
   },
-  "overview_commit": "742c4e1dd91e94712efc2435e7979a5dfc04a5f2",
-  "overview_digest": "4ed7a1284ad16d5ed7445b95a54d43e37f044b2c2d138a834b506950f26d3b5b",
+  "overview_commit": "17b608536d47c6d7bba6517156a7098e290cb3b7",
+  "overview_digest": "7628ef92ee831fbdbf3f8ac67ad614b4cd15648e452dcedf5b7015210a910736",
   "paragraphs": [
+    {
+      "id": "d66232241719a12b80772b9920915f51ac2f7f762c9f503e1a79da5858f4b1e8",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|《资治通鉴·汉纪》705-6丨班昭：三次一鸣惊人，闺蜜干政NO.1]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode consolidating [[BanZhaoLateHan|班昭]]'s late-life court, teaching, and reception profile. It adds [[BanJieyuWesternHan|班婕妤]] and [[NujieGenderNormTransmission|《女诫》性别规范传承]], while extending [[MaRongLateHan|马融]] and [[FemaleCourtEducationEasternHan|东汉宫廷女性教育]]. Its core synthesis is that Ban Zhao's influence is not only \"才女\" memory: it joins historiographical continuation, `Han Shu` teaching to palace women and source-scoped male students, memorial advocacy for [[BanChaoEasternHan|班超]], trusted advice to [[EmpressDowagerDengLateHan|和熹邓皇后]], and a disputed `Nujie` legacy that moves from family instruction to patriarchal norm transmission. No settled contradiction is recorded; the live-ostrich, first-female-teacher, unopposed-political-participation, 120 CE death, and strong `Nujie` reception claims remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "BanChaoEasternHan",
+        "BanJieyuWesternHan",
+        "BanZhaoLateHan",
+        "EmpressDowagerDengLateHan",
+        "FemaleCourtEducationEasternHan",
+        "MaRongLateHan",
+        "NujieGenderNormTransmission",
+        "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm"
+      ]
+    },
     {
       "id": "d443e2d07d3e3bb0d935d41e5d5a12348a56349d2005038b7e12ae376c1c6ca6",
       "primary_topic": "history-and-geopolitics",

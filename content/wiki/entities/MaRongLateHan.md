@@ -8,16 +8,19 @@ sources:
   - zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh
   - zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v
   - zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p
-last_updated: 2026-08-29
+  - zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm
+last_updated: 2026-09-01
 ---
 
 ## Overview
 
-马融 / Ma Rong is a late-Han scholar-official whose current profile now begins with a 133 CE public-welfare memorial before the learned-adviser, frontier-warning, and Liang-family retaliation layers. [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] presents him as Right Fufeng merit officer arguing that people need concrete good-government benefits, not more promises; Hanji 815 pairs him with [[ZhangHengLateHan|张衡]] as a broadly learned court adviser; Hanji 821 presents him warning that [[MaXianLateHan|马贤]]'s command is wasting the chance to defeat the Qiang; Hanji 836 then shows the same learned official later punished after visiting [[LiangBuyiLateHan|梁不疑]].
+马融 / Ma Rong is a late-Han scholar-official whose current profile now begins with a source-scoped `Han Shu` learning layer under [[BanZhaoLateHan|Ban Zhao]] before the 133 CE public-welfare memorial, learned-adviser, frontier-warning, and Liang-family retaliation layers. [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] presents him as Ban Zhao's student in `Han Shu` transmission; Hanji 814 presents him as Right Fufeng merit officer arguing that people need concrete good-government benefits, not more promises; Hanji 815 pairs him with [[ZhangHengLateHan|张衡]] as a broadly learned court adviser; Hanji 821 presents him warning that [[MaXianLateHan|马贤]]'s command is wasting the chance to defeat the Qiang; Hanji 836 then shows the same learned official later punished after visiting [[LiangBuyiLateHan|梁不疑]].
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] supplies the earliest current layer. In 133 CE, after the Xuande Hall ground split, Ma Rong is identified as Right Fufeng merit officer and submits a memorial to [[EmperorShunOfHan|Emperor Shun]]. He argues that the court already has laws, regulations, and seasonal prohibitions, while the people have repeatedly heard promises of good government without receiving real benefit. His remedies are concrete: reduce marriage and funeral burdens, protect farming time, and let people form households with spouse, children, savings, and property.
+Hanji 705-6 supplies the earliest current intellectual-transmission layer. The episode says Ban Zhao teaches `Han Shu` after the text is completed or made transmissible and takes Ma Rong as a student. Because the source is Ban Zhao-centered, this is not yet a full account of Ma Rong's training; it does, however, make his later learned profile begin with a named female teacher and a historical-text transmission channel.
+
+[[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] supplies the first current office layer. In 133 CE, after the Xuande Hall ground split, Ma Rong is identified as Right Fufeng merit officer and submits a memorial to [[EmperorShunOfHan|Emperor Shun]]. He argues that the court already has laws, regulations, and seasonal prohibitions, while the people have repeatedly heard promises of good government without receiving real benefit. His remedies are concrete: reduce marriage and funeral burdens, protect farming time, and let people form households with spouse, children, savings, and property.
 
 [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] supplies the learned-adviser layer. In 133 CE, Ma Rong is named among the advisers whose counsel Emperor Shun reviews before adopting Li Gu's proposal against palace abuse. The episode also foregrounds Ma Rong's classical learning and fine prose, and records his appointment as yilang.
 
@@ -31,16 +34,17 @@ The current profile therefore treats Ma Rong as a scholar-official whose adminis
 
 ## Key Characteristics
 
+- Source-scoped `Han Shu` student of Ban Zhao, giving his learned profile an earlier textual-transmission layer.
 - Public-welfare memorialist whose 133 CE advice measures good government by delivered household benefit.
 - Learned adviser whose 133 CE profile also includes classical mastery, fine writing, and appointment as yilang.
 - Frontier remonstrant who identifies command delay and requests troops before Ma Xian's defeat.
 - Learned late-Han儒者 whose reputation combines classical study, literary ability, and official service.
 - Official punished after visiting Liang Buyi, making social contact with a monitored household politically dangerous.
-- Victim of hair-removal and flogging punishment whose humiliation carries special force because of scholar-official status.
 - Exile survivor who is later recalled and continues textual and historical work.
 
 ## Evidence
 
+- Ban Zhao student layer: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] says Ban Zhao takes Ma Rong as a student while teaching `Han Shu`.
 - Good-government delivery warning: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] says Ma Rong argues that people have repeatedly heard good-government promises without receiving concrete benefit.
 - Household-level remedies: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] says Ma Rong recommends lighter marriage rites, simpler funerals and sacrifices, protected farming time, and stable family property.
 - Rule-saturation caution: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] says Ma Rong sees existing laws and seasonal prohibitions as already adequate, making implementation and relief the problem.
@@ -56,17 +60,18 @@ The current profile therefore treats Ma Rong as a scholar-official whose adminis
 
 ## Qualifications
 
-This page is bounded to Hanji 814, Hanji 815, Hanji 821, and Hanji 836 and does not reconstruct Ma Rong's full intellectual lineage, teaching network, or complete bibliography. Hanji 814 gives a public-welfare memorial rather than an extended biography; Hanji 821's transcript form 马戎 is normalized to Ma Rong because the Wudu-commandery context matches the office path preserved in Hanji 836. Hanji 836 treats Liang Ji's accusation as retaliatory, but it does not independently adjudicate every administrative detail of the corruption charge. Later wiki sources may add Ma Rong's teacher role if they supply direct evidence.
+This page is bounded to Hanji 705-6, Hanji 814, Hanji 815, Hanji 821, and Hanji 836 and does not reconstruct Ma Rong's full intellectual lineage, later teaching network, or complete bibliography. Hanji 705-6 gives a Ban Zhao-centered student notice rather than an independent Ma Rong biography. Hanji 814 gives a public-welfare memorial rather than an extended biography; Hanji 821's transcript form 马戎 is normalized to Ma Rong because the Wudu-commandery context matches the office path preserved in Hanji 836. Hanji 836 treats Liang Ji's accusation as retaliatory, but it does not independently adjudicate every administrative detail of the corruption charge.
 
 ## What Changed
 
-- Placed Hanji 814 before Hanji 815 as Ma Rong's earliest current layer: a public-welfare memorial on delivered good government.
-- Reframed Hanji 815 as the learned-adviser, classical-literary, and yilang appointment layer.
-- Preserved Hanji 821 as the later Qiang-frontier remonstrance layer.
-- Preserved Hanji 836 as the scholar-official retaliation, humiliation, exile, and later textual-work layer.
+- Added Hanji 705-6 as the earliest current intellectual-transmission layer: Ma Rong as a source-scoped student of Ban Zhao's `Han Shu` teaching.
+- Kept Hanji 814 as the first current office layer: a public-welfare memorial on delivered good government.
+- Preserved Hanji 815, Hanji 821, and Hanji 836 as the learned-adviser, Qiang-frontier warning, and scholar-official punishment layers.
 
 ## Relationships
 
+- [[BanZhaoLateHan|班昭]] - source-scoped teacher whose `Han Shu` instruction gives Ma Rong's profile an earlier transmission layer.
+- [[FemaleCourtEducationEasternHan|东汉宫廷女性教育]] - adjacent learning context because Ban Zhao's teaching crosses gendered scholarly boundaries.
 - [[ZhangHengLateHan|张衡]] - paired learned adviser in Hanji 815's praise of talent and court counsel.
 - [[EmperorShunOfHan|汉顺帝]] - ruler who reviews Ma Rong's advice in the 133 CE correction sequence.
 - [[BeneficialGovernanceDelivery|善政实惠落地]] - concept grounded by Ma Rong's demand that good-government promises become visible household benefit.
