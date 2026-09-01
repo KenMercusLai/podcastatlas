@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6200
+wiki_total_pages: 6201
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -869,6 +869,9 @@ wiki_pages:
   - key: "ReclusionAuthenticityAssessment"
     title: "真隐士与伪隐士辨别 / Reclusion Authenticity Assessment"
     url: "/wiki/concepts/reclusionauthenticityassessment/"
+  - key: "RitualAgrarianFrontierIntegration"
+    title: "礼俗农事式边疆整合 / Ritual-Agrarian Frontier Integration"
+    url: "/wiki/concepts/ritualagrarianfrontierintegration/"
   - key: "RitualRenunciationPoliticalCapital"
     title: "礼让辞封式政治资本 / Ritual Renunciation as Political Capital"
     url: "/wiki/concepts/ritualrenunciationpoliticalcapital/"

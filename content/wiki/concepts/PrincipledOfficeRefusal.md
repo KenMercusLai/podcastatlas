@@ -7,14 +7,17 @@ sources:
   - zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf
   - zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf
   - zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje
+  - zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z
 last_updated: 2026-09-01
 ---
 
 ## Definition
 
-Principled office refusal / 原则性拒仕 is the choice by capable scholars or officials to decline office when service would require trust in a court or patronage structure they no longer regard as morally credible.
+Principled office refusal / 原则性拒仕 is the choice by capable scholars or officials to decline, avoid, or withdraw from office when service would compromise moral autonomy, timing, public usefulness, or trust in the governing order.
 
 ## Current Synthesis
+
+Hanji 699 pushes the concept back into [[LiuXiu|Liu Xiu]]'s early restoration court, where refusal is not automatically treated as treason. [[ZhouDangEasternHan|Zhou Dang]] resists full court protocol and asks to return to the mountains, while [[YanGuangEasternHan|Yan Guang]] refuses appointment despite old personal ties to Liu Xiu. [[WangLiangEasternHan|Wang Liang]] is more ambiguous: his withdrawal follows prior office and a friend's critique that high rank had not been matched by loyal counsel or unusual merit. This earlier layer broadens the concept beyond bad-court distrust into autonomy, timing, and reputation-accountability under a court still seeking legitimate talent.
 
 Hanji 713 adds the harshest current variant: principled office refusal under a coercive breakaway regime. [[GongsunShuEasternHan|Gongsun Shu]] tries to force Shu scholars and local officials into service through poison, hostage families, and title inducements. [[LiNieEasternHan|Li Nie]] drinks poison, [[QiaoXuanShuScholar|Qiao Xuan]] is saved by his son's payment, [[WangHaoShuScholar|Wang Hao]] and [[WangJiaShuScholar|Wang Jia]] kill themselves under hostage pressure, Fei Yi, Ren Yong, and Feng Xin use illness or incapacity strategies, and [[WenQiYizhouEasternHan|Wen Qi]] refuses despite family hostages while secretly submitting to Liu Xiu.
 
@@ -26,16 +29,19 @@ The concept therefore narrows reclusion into a political judgment. A court can o
 
 ## Key Claims
 
-- Office refusal can be an ethical judgment about institutional credibility, not a sign that the person lacks ability.
-- Respectful recruitment and gifts do not guarantee legitimacy when the court's broader conduct is distrusted.
+- Office refusal can be an ethical judgment about autonomy, timing, usefulness, or institutional credibility, not a sign that the person lacks ability.
+- Respectful recruitment, gifts, and personal ruler relationships do not guarantee legitimate service when the summoned person judges withdrawal more fitting.
 - Coercive summons can make refusal more, not less, ethically legible because accepting office would help launder forced legitimacy.
 - Timing matters: a capable person may judge that service before the right political moment will fail or compromise the person.
 - Illness claims, feigned incapacity, ransom-mediated survival, and refusal to let one's family decide can be tactics within principled refusal under lethal pressure.
-- The concept is distinct from total retreat because recluses can preserve work, teaching, mourning courtesy, filial service, and family duty while withholding court service.
+- The concept includes honorable withdrawal and ambiguous shame-driven nonresponse, so motive and prior office have to be separated.
 - Serving integrity and principled refusal answer the same corruption problem differently.
 
 ## Evidence
 
+- Noncoercive court refusal: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] says Zhou Dang refuses full court compliance and Liu Xiu lets him return with gifts rather than punishment.
+- Old-friend refusal: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] says Yan Guang refuses Liu Xiu's appointment despite old schoolmate ties and returns to private farming and fishing.
+- Shame-driven withdrawal: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] says Wang Liang stops answering summons after a friend argues that his high rank lacked matching counsel or merit.
 - Poison-backed refusal: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Li Nie drinks poison rather than accept Gongsun Shu's summoned office, while Qiao Xuan is prepared to do the same before his son pays to save him.
 - Hostage-backed refusal: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Wang Hao and Wang Jia kill themselves rather than serve under family-hostage pressure.
 - Tactical non-service: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Fei Yi uses lacquer-induced illness or madness and Ren Yong and Feng Xin feign illness or blindness to avoid service.
@@ -49,11 +55,12 @@ The concept therefore narrows reclusion into a political judgment. A court can o
 
 ## Counterevidence & Qualifications
 
-The concept should not be generalized into a rule that all officeholding under disorder is compromised. Hanji 799 itself places Yang Zhen's refusal of private appointment requests inside active service, and Hanji 849 gives Fan Pang as a serving integrity case. Hanji 713 reinforces the distinction: Wen Qi refuses Gongsun Shu but accepts Liu Xiu's later appointment, so the principle attaches to the regime and conditions of service rather than to officeholding as such. Ransom-mediated survival and feigned incapacity should also be read as pressure responses, not as weaker morality than martyrdom.
+The concept should not be generalized into a rule that all officeholding under disorder is compromised. Hanji 699 makes this especially clear because Liu Xiu is treated as a legitimate ruler, yet Zhou Dang and Yan Guang still withhold service. Wang Liang's case is also less cleanly principled than Zhou Dang or Yan Guang because shame and retrospective merit judgment shape his nonresponse. Hanji 799 itself places Yang Zhen's refusal of private appointment requests inside active service, and Hanji 849 gives Fan Pang as a serving integrity case. Hanji 713 reinforces the distinction: Wen Qi refuses Gongsun Shu but accepts Liu Xiu's later appointment, so the principle attaches to the regime and conditions of service rather than to officeholding as such. Ransom-mediated survival and feigned incapacity should also be read as pressure responses, not as weaker morality than martyrdom.
 
 ## What Changed
 
-- Added Hanji 713 as a coercive Shu variant: poison, hostage pressure, ransom, feigned incapacity, and loyal local refusal under Gongsun Shu.
+- Added Hanji 699 as a noncoercive Guangwu-court variant: Zhou Dang, Yan Guang, and Wang Liang show refusal under legitimate summons and reputation pressure.
+- Preserved Hanji 713 as a coercive Shu variant: poison, hostage pressure, ransom, feigned incapacity, and loyal local refusal under Gongsun Shu.
 - Preserved Hanji 799 as an earlier Zhou Xie and Feng Liang office-refusal layer under Emperor An.
 - Preserved "timing" as a central reason for refusal, not only generalized distrust.
 - Preserved Hanji 849's Fan Pang and five-recluse contrast as the concept's fuller late-Han form.
@@ -71,3 +78,6 @@ The concept should not be generalized into a rule that all officeholding under d
 - [[WangHaoShuScholar|王浩]] and [[WangJiaShuScholar|王家]] - paired hostage-backed suicide cases.
 - [[WenQiYizhouEasternHan|文齐]] - local-governance case showing refusal of one regime can coexist with later service under another.
 - [[OfficialSelectionChannelCompetition|选官通道竞争]] - broader selection field because principled refusal can appear beside reputation recommendation and private appointment pressure.
+- [[ZhouDangEasternHan|周党]] - nonconforming Guangwu-court recluse whose refusal is tolerated.
+- [[YanGuangEasternHan|严光]] - old-friend refusal case showing that personal ties need not compel service.
+- [[WangLiangEasternHan|王梁]] - ambiguous withdrawal case where reputation judgment and prior office complicate the principle.

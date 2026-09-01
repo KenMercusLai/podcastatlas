@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》699丨敢与刘秀争雄的他，为何惨淡收场？](sources/zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z.md) — Early Guangwu backfill on Wei Xiao's Longyou origin, Cen Peng's southern proclamation route, Xi Guang and Ren Yan's ritual-agricultural frontier instruction, Liu Xiu's treatment of recluses, and Shache Yan/Kang's Han-loyal Western Regions branch.
 - [《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？](sources/zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot.md) — Jianwu-era Guangwu backfill on Feng Yi's city-first ambush against Wei Xiao's Wang Yuan-Xing Xun advance, Ji Zun's parallel victory, local commandery realignment, and Dou Rong's persistent letter-based allegiance to Liu Xiu.
 - [《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？](sources/zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac.md) — Jianwu-era Guangwu backfill on Dou Rong warning Wei Xiao, Liang Tong severing ties by killing Wei Xiao's envoy and discarding the seal, Ma Yuan's old Wei-side report and cavalry persuasion mission, and Liu Xiu's talent-reward strategy.
 - [《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？](sources/zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls.md) — Jianwu-era Guangwu backfill on Wei Xiao's failed face-saving apology to Liu Xiu, Ma Yuan's warning to Yang Guang, Wei Xiao's turn toward Gongsun Shu, and Xiongnu-Lu Fang raids that trigger a renewed heqin envoy.
@@ -1840,6 +1841,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [周党 / Zhou Dang (Eastern Han)](entities/ZhouDangEasternHan.md) — Early Guangwu recluse whose nonconforming court appearance becomes a Liu Xiu tolerance test.
+- [严光 / Yan Guang (Eastern Han)](entities/YanGuangEasternHan.md) — Liu Xiu's old schoolmate who refuses appointment and returns to private farming and fishing.
+- [王梁 / Wang Liang (Eastern Han)](entities/WangLiangEasternHan.md) — Guangwu-era official whose later withdrawal follows a friend's harsh judgment that rank exceeded contribution.
+- [锡光 / Xi Guang (Eastern Han)](entities/XiGuangEasternHan.md) — Jiaozhi official associated with teaching Han ritual and social customs in the southern frontier.
+- [任延 / Ren Yan (Eastern Han)](entities/RenYanEasternHan.md) — Jiuzhen official associated with agricultural instruction in the southern frontier.
+- [莎车王延 / King Yan of Shache (Eastern Han)](entities/ShacheKingYanEasternHan.md) — Former Chang'an hostage and Shache ruler remembered for instructing descendants to serve Han.
+- [莎车王康 / King Kang of Shache (Eastern Han)](entities/ShacheKingKangEasternHan.md) — Han-loyal Shache ruler who resists Xiongnu pressure, protects Han personnel, and receives Dou Rong's recognition.
 - [冯异 / Feng Yi (Eastern Han)](entities/FengYiEasternHan.md) — Guangwu western-campaign commander whose Hanji 702 profile centers on first occupying a disputed city, hiding his force, and turning Wei Xiao's advance into a routed enemy and local realignment.
 - [Kailas / 凯乐石](entities/Kailas.md) — Chinese outdoor brand using Fuga, Chamonix retail, race sponsorship, and athlete credibility to enter Europe's trail-running market.
 - [Fuga](entities/Fuga.md) — Kailas-linked trail-running brand or product line used as the source's overseas market-entry wedge.
@@ -10563,6 +10571,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [礼俗农事式边疆整合 / Ritual-Agrarian Frontier Integration](concepts/RitualAgrarianFrontierIntegration.md) — Frontier-governance pattern where ritual, social-custom, and agricultural instruction follow formal allegiance.
 - [争地抢先式决胜 / Decisive Terrain Preemption](concepts/DecisiveTerrainPreemption.md) — Military pattern where first occupation of a key site converts an enemy advance into a defensive ambush and political realignment.
 - [Security for Authority Exchange / 交权换安全](concepts/SecurityForAuthorityExchange.md) — consolidation pattern where allegiance communication and visible submission let a regional actor trade independent authority for household security, honor, and a survivable subordinate role.
 - [保面子式归降失败 / Face-Saving Submission Failure](concepts/FaceSavingSubmissionFailure.md) — pattern where apology, justification, or delay preserves status but prevents a defeated actor from making submission credible.

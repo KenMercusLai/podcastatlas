@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 8719
+wiki_total_pages: 8726
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "XiluoSouthernXiongnu"
     title: "醯落 / Xiluo (Southern Xiongnu)"
     url: "/wiki/entities/xiluosouthernxiongnu/"
+  - key: "XiGuangEasternHan"
+    title: "锡光 / Xi Guang (Eastern Han)"
+    url: "/wiki/entities/xiguangeasternhan/"
   - key: "Xueqiu"
     title: "雪球 / Xueqiu"
     url: "/wiki/entities/xueqiu/"

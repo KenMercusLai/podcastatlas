@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8719
+wiki_total_pages: 8726
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1994,6 +1994,12 @@ wiki_pages:
   - key: "ShacheKingdomLateHan"
     title: "莎车国 / Shache Kingdom (late Han)"
     url: "/wiki/entities/shachekingdomlatehan/"
+  - key: "ShacheKingKangEasternHan"
+    title: "莎车王康 / King Kang of Shache (Eastern Han)"
+    url: "/wiki/entities/shachekingkangeasternhan/"
+  - key: "ShacheKingYanEasternHan"
+    title: "莎车王延 / King Yan of Shache (Eastern Han)"
+    url: "/wiki/entities/shachekingyaneasternhan/"
   - key: "ShuHouNingTong"
     title: "蜀侯宁通 / Shu Hou Ning Tong"
     url: "/wiki/entities/shuhouningtong/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2142
+topic_total_pages: 2143
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3490,6 +3490,9 @@ topic_concepts:
   - key: "KnownMisconductNonPunishment"
     title: "知奸不除式威慑失效 / Known-Misconduct Non-Punishment"
     url: "/wiki/concepts/knownmisconductnonpunishment/"
+  - key: "RitualAgrarianFrontierIntegration"
+    title: "礼俗农事式边疆整合 / Ritual-Agrarian Frontier Integration"
+    url: "/wiki/concepts/ritualagrarianfrontierintegration/"
   - key: "PrivateRetainerNetworkRisk"
     title: "私人宾客网络风险 / Private Retainer Network Risk"
     url: "/wiki/concepts/privateretainernetworkrisk/"

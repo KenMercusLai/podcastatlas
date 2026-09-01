@@ -14500,6 +14500,10 @@ Ingested the 2026-08-31 The Intelligence episode on Hollywood AI production, syn
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-01] ingest | 《资治通鉴·汉纪》699丨敢与刘秀争雄的他，为何惨淡收场？
+
+Ingested the 2026-06-17 芮淇讲透资治通鉴 episode backfilling Wei Xiao's Longyou elite origin, Cen Peng's Jiaozhi/Jiangnan proclamation route, Xi Guang and Ren Yan's ritual-agricultural southern governance, Liu Xiu's noncoercive handling of Zhou Dang, Yan Guang, and Wang Liang, and Shache Yan/Kang's Han-loyal Western Regions branch. Added source `zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z`; created `ZhouDangEasternHan`, `YanGuangEasternHan`, `WangLiangEasternHan`, `XiGuangEasternHan`, `RenYanEasternHan`, `ShacheKingYanEasternHan`, `ShacheKingKangEasternHan`, and `RitualAgrarianFrontierIntegration`; updated the connected Guangwu, Wei Xiao, Cen Peng, Jiaozhi, Shache, office-refusal, reclusion, overview, index, and synthesis layers. No settled contradiction found; transcript forms 韦敖/魏敖, 西光, 任炎, and 王良 are normalized or kept source-scoped.
+
 ## [2026-09-01] ingest | Essentials: Improve Flexibility with Research-Supported Stretching Protocols
 
 Ingested the 2026-06-18 Huberman Lab Essentials episode on flexibility, stretching, range of motion, and pain tolerance. Added source `essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831`; created `FlexibilityNeuralSafetyGating`, `StaticStretchingDoseProtocol`, and `InsularPainToleranceTraining`; updated `HubermanLab`, `AndrewHuberman`, `StretchingMobilitySafety`, overview, and index. No settled contradiction found; static-stretching dose, low-intensity stretching, yoga pain-tolerance, warmup, and pre-training stretching claims remain source-scoped public health education rather than individualized rehabilitation or medical advice.
@@ -14680,6 +14684,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] ingest | 680. The Netherlands: The Revolt that Made The Modern World (Part 4)
 
 Ingested the 2026-06-17 The Rest Is History episode on Het Wilhelmus, William of Orange, the Dutch Revolt, loyal rebellion, Brill, the Act of Abjuration, and the Dutch Republic. Added source `680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543`; created `HetWilhelmus`, `DutchRepublic`, `SeaBeggars`, `BalthazarGerard`, `LoyalRebellion`, and `PragmaticReligiousToleration`; updated Dutch Revolt, William of Orange, Low Countries, Philip II, Netherlands, Act of Abjuration, national anthem political plasticity, regime symbol continuity, The Rest Is History, overview, index, and downstream synthesis artifacts. No settled contradiction found; confessional and regional complexities of the Dutch Revolt remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] lint | Wiki health check
 
