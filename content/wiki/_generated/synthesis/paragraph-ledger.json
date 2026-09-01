@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "74f3b35028c007c99d975da3f803ca5de08e48ce0dd19c8d5e8d6d359798936e",
       "d66232241719a12b80772b9920915f51ac2f7f762c9f503e1a79da5858f4b1e8",
       "d443e2d07d3e3bb0d935d41e5d5a12348a56349d2005038b7e12ae376c1c6ca6",
       "8881e191f20a7a53a1808c3ab8d85c3be4989ad7dd0e5766dc92231d5172c9d1",
@@ -470,11 +471,34 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 468
+    "paragraph_count": 469
   },
-  "overview_commit": "17b608536d47c6d7bba6517156a7098e290cb3b7",
-  "overview_digest": "7628ef92ee831fbdbf3f8ac67ad614b4cd15648e452dcedf5b7015210a910736",
+  "overview_commit": "5276066e62678e6f98083ab547eafcf070233e09",
+  "overview_digest": "a6dc42d4cdebf05a4071dd44285d5bfc235e070ca7d920d4be50a8cb289f27a3",
   "paragraphs": [
+    {
+      "id": "74f3b35028c007c99d975da3f803ca5de08e48ce0dd19c8d5e8d6d359798936e",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e|《资治通鉴·汉纪》705-5丨班昭：续编《汉书》，史笔千秋第一人]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling [[BanZhaoLateHan|班昭]]'s family-learning and `Han Shu` continuation prelude before [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]]. It extends [[CourtWomenHistoriography|宫廷女性史学]] and [[FemaleCourtEducationEasternHan|东汉宫廷女性教育]], while reinforcing [[BanGuEasternHan|班固]], [[BanBiaoEasternHan|班彪]], [[EmperorHeOfHan|汉和帝]], [[MaRongLateHan|马融]], and [[EmpressDowagerDengLateHan|邓绥]]. Its core synthesis is that Ban Zhao's authority joins elite family education, an imperial need to rescue Ban Gu's unfinished `Han Shu`, Dongguan archival work, court-backed teaching of scholars and palace women, and the teacher-friend prelude to Deng Sui's later reliance on her. No settled contradiction is recorded; 邓遂 is normalized to 邓绥, and the first-royal-female-teacher, teenage-learning, and eight-tables claims remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 4
+      },
+      "wikilinks": [
+        "BanBiaoEasternHan",
+        "BanGuEasternHan",
+        "BanZhaoLateHan",
+        "CourtWomenHistoriography",
+        "EmperorHeOfHan",
+        "EmpressDowagerDengLateHan",
+        "FemaleCourtEducationEasternHan",
+        "MaRongLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e",
+        "zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm"
+      ]
+    },
     {
       "id": "d66232241719a12b80772b9920915f51ac2f7f762c9f503e1a79da5858f4b1e8",
       "primary_topic": "work-education-and-society",

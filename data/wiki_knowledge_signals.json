@@ -4287,9 +4287,9 @@
       "url": "/wiki/entities/banyonglatehan/"
     },
     "BanZhaoLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》785丨东汉邓绥：掌控欲望才能笑到最后 [llFg4KJAAUTQlFEWhpLikvU3Ry1U].md",
@@ -4325,6 +4325,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》705-6丨班昭：三次一鸣惊人，闺蜜干政NO.1",
           "url": "/wiki/sources/zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-5丨班昭：续编《汉书》，史笔千秋第一人 [ljuEol3MOGwFh_D-w4fs7jzP0H9e].md",
+          "key": "zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-5丨班昭：续编《汉书》，史笔千秋第一人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e/"
         }
       ],
       "updated": "2026-09-01",
@@ -9111,9 +9118,9 @@
       "url": "/wiki/concepts/courtlegitimacyoverpatronloyalty/"
     },
     "CourtWomenHistoriography": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
@@ -9121,9 +9128,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-5丨班昭：续编《汉书》，史笔千秋第一人 [ljuEol3MOGwFh_D-w4fs7jzP0H9e].md",
+          "key": "zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-5丨班昭：续编《汉书》，史笔千秋第一人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url": "/wiki/concepts/courtwomenhistoriography/"
     },
     "CreatineMonohydrateEvidence": {
@@ -15662,9 +15676,9 @@
       "url": "/wiki/entities/feifeili/"
     },
     "FemaleCourtEducationEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》775丨敢向命运说NO，不愧是有头脑的女主母！ [lh0erDH890ooow6DN0WVf1fbZEDf].md",
@@ -15679,6 +15693,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》705-6丨班昭：三次一鸣惊人，闺蜜干政NO.1",
           "url": "/wiki/sources/zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-5丨班昭：续编《汉书》，史笔千秋第一人 [ljuEol3MOGwFh_D-w4fs7jzP0H9e].md",
+          "key": "zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-5丨班昭：续编《汉书》，史笔千秋第一人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e/"
         }
       ],
       "updated": "2026-09-01",

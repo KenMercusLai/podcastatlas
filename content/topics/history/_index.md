@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1550
+topic_total_pages: 1551
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4413,6 +4413,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e"
+    title: "《资治通鉴·汉纪》705-5丨班昭：续编《汉书》，史笔千秋第一人"
+    url: "/wiki/sources/zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e/"
   - key: "zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm"
     title: "《资治通鉴·汉纪》705-6丨班昭：三次一鸣惊人，闺蜜干政NO.1"
     url: "/wiki/sources/zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm/"

@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-01
-as_of_overview_commit: 17b608536d47c6d7bba6517156a7098e290cb3b7
-input_digest: dcc1257ae263add731c4db96e3fdb7449add85bd45ac9da616ecac2207beaaf6
+as_of_overview_commit: 5276066e62678e6f98083ab547eafcf070233e09
+input_digest: e9b0e739ebf7444342f239733b03b91913d954c96dcfcc09ef7cfef21e42289c
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Hanji 705-6 adds a source-scoped Eastern Han gendered education case: [[BanZhaoLateHan]] now links palace teaching, `Han Shu` transmission, advice to [[EmpressDowagerDengLateHan]], memorial advocacy for [[BanChaoEasternHan]], [[MaRongLateHan]]'s student layer, [[BanJieyuWesternHan]] memory, and the disputed [[NujieGenderNormTransmission]] afterlife. The broader topic continues to show work, education, and social capacity as institution-bound rather than trait-bound: Hanji 725-813 and 1056-1060 treat office roles, family status, counsel, succession, reputation, and access channels as sources of capability or exposure; modern workplace and labor sources connect boundaries, evidence, hidden rules, bullying, clerical organizing, creator monetization, finance-career risk, and lifestyle cost discipline; education sources emphasize self-testing, effort, fieldwork, mastery, motivation, and builder practice; AI, product, and creative-work sources show adoption requiring workflow fit, trust, distribution, verification, embodied judgment, and human taste; health and exercise sources frame public education through need assessment, risk boundaries, and clinical limits. Across the input, durable agency comes from grounded feedback loops, social trust, realistic constraints, and environments that let people act well rather than from hype, rank, followers, fluent answers, or capability claims alone.
+Hanji 705-5 and Hanji 705-6 together add a source-scoped Eastern Han gendered education and historiography case: [[BanZhaoLateHan]] now links Ban-family learning, [[BanGuEasternHan]]'s unfinished `Han Shu`, [[EmperorHeOfHan]]'s Dongguan commission, palace teaching, advice to [[EmpressDowagerDengLateHan]], memorial advocacy for [[BanChaoEasternHan]], [[MaRongLateHan]]'s student layer, [[BanJieyuWesternHan]] memory, [[CourtWomenHistoriography]], and the disputed [[NujieGenderNormTransmission]] afterlife. The broader topic continues to show work, education, and social capacity as institution-bound rather than trait-bound: Hanji 725-813 and 1056-1060 treat office roles, family status, counsel, succession, reputation, and access channels as sources of capability or exposure; modern workplace and labor sources connect boundaries, evidence, hidden rules, bullying, clerical organizing, creator monetization, finance-career risk, and lifestyle cost discipline; education sources emphasize self-testing, effort, fieldwork, mastery, motivation, and builder practice; AI, product, and creative-work sources show adoption requiring workflow fit, trust, distribution, verification, embodied judgment, and human taste; health and exercise sources frame public education through need assessment, risk boundaries, and clinical limits. Across the input, durable agency comes from grounded feedback loops, social trust, realistic constraints, and environments that let people act well rather than from hype, rank, followers, fluent answers, or capability claims alone.
 
 ## Cross-source Findings
 
@@ -352,14 +352,14 @@ As a secondary work-and-society input, [[686-jefferson-the-betrayal-of-liberty-p
 
 ### Ban Zhao Court Education And Nujie Reception
 
-[[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] adds a source-scoped gendered education and reception case: [[BanZhaoLateHan]] combines `Han Shu` instruction, palace teaching, advice to [[EmpressDowagerDengLateHan]], and memorial advocacy for [[BanChaoEasternHan]] with a later [[NujieGenderNormTransmission]] afterlife; [[MaRongLateHan]], [[FemaleCourtEducationEasternHan]], and [[BanJieyuWesternHan]] keep the case tied to scholarly transmission, court education, and Western Han female-literary memory rather than private talent alone.
+[[zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e|Hanji 705-5]] and [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] together add a source-scoped gendered education and reception case: [[BanZhaoLateHan]]'s authority starts in Ban-family learning through [[BanBiaoEasternHan]], becomes public when [[EmperorHeOfHan]] summons her to Dongguan to finish [[BanGuEasternHan]]'s unfinished `Han Shu` tables and teach the text, then extends into palace women education, advice to [[EmpressDowagerDengLateHan]], memorial advocacy for [[BanChaoEasternHan]], and later [[NujieGenderNormTransmission]] afterlife. [[MaRongLateHan]], [[FemaleCourtEducationEasternHan]], [[CourtWomenHistoriography]], and [[BanJieyuWesternHan]] keep the case tied to scholarly transmission, court education, dynastic historiography, and Western Han female-literary memory rather than private talent alone.
 
-**Evidence:** [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm]], [[BanZhaoLateHan]], [[EmpressDowagerDengLateHan]], [[BanChaoEasternHan]], [[NujieGenderNormTransmission]], [[MaRongLateHan]], [[FemaleCourtEducationEasternHan]], [[BanJieyuWesternHan]]
+**Evidence:** [[zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e]], [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm]], [[BanZhaoLateHan]], [[BanBiaoEasternHan]], [[EmperorHeOfHan]], [[BanGuEasternHan]], [[EmpressDowagerDengLateHan]], [[BanChaoEasternHan]], [[NujieGenderNormTransmission]], [[MaRongLateHan]], [[FemaleCourtEducationEasternHan]], [[CourtWomenHistoriography]], [[BanJieyuWesternHan]]
 
 **Qualifications:**
 
-- This is a historical work-and-society analogy from Hanji 705-6, not modern career, education, family, political, or gender advice.
-- The live-ostrich, first-female-teacher, unopposed-political-participation, 120 CE death, and strong Nujie reception claims remain source-scoped.
+- This is a historical work-and-society analogy from Hanji 705-5 and Hanji 705-6, not modern career, education, family, political, or gender advice.
+- The eight-tables, first-royal-female-teacher, live-ostrich, first-female-teacher, unopposed-political-participation, 120 CE death, and strong Nujie reception claims remain source-scoped.
 - The Nujie claim records later norm-transmission reception without reducing Ban Zhao's profile to that text alone.
 
 ### Clerical Worker Organizing Frames Stalled Workplace Progress

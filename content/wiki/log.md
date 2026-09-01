@@ -14488,6 +14488,7 @@ Ingested the 2026-08-31 The Intelligence episode on Hollywood AI production, syn
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》705-6丨班昭：三次一鸣惊人，闺蜜干政NO.1
 
 Ingested the 2026-06-19 芮淇讲透资治通鉴 episode on Ban Zhao's literary recognition, `Han Shu` teaching, Ban Chao petition, Deng-regency advice, `Nujie`, and later reputation. Created `BanJieyuWesternHan` and `NujieGenderNormTransmission`; updated Ban Zhao, Ma Rong, Eastern Han female court education, overview, and index. No settled contradiction found; first-live-ostrich, first-female-teacher, unopposed-political-participation, 120 CE death, and strong `Nujie` reception claims remain source-scoped.
@@ -14607,6 +14608,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 《资治通鉴·汉纪》705-5丨班昭：续编《汉书》，史笔千秋第一人
+
+Ingested the 2026-06-19 芮淇讲透资治通鉴 episode backfilling Ban Zhao's family-learning and `Han Shu` continuation prelude before Hanji 705-6. Added source `zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e`; updated `BanZhaoLateHan`, `FemaleCourtEducationEasternHan`, `CourtWomenHistoriography`, overview, and index. No settled contradiction found; 邓遂 is normalized to 邓绥, and first-teacher, teenage-learning, and eight-tables claims remain source-scoped.
 
 ## [2026-09-01] lint | Wiki health check
 

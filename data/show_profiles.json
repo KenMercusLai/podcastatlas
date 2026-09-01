@@ -2432,14 +2432,14 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-08-29",
       "latest_episode_file": "《资治通鉴·汉纪》1060丨害死袁绍后，曹操为何转头支援他的长子？ [lldKbBzF8dmY21oTBtqIHc_OAFX7].md",
-      "source_note_count": 660,
-      "topic_matched_source_note_count": 298,
+      "source_note_count": 661,
+      "topic_matched_source_note_count": 299,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 264
+          "source_note_count": 265
         },
         {
           "key": "politics",
@@ -2451,7 +2451,7 @@
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 11
+          "source_note_count": 12
         },
         {
           "key": "economics",

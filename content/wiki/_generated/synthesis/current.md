@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-01
-as_of_overview_commit: 17b608536d47c6d7bba6517156a7098e290cb3b7
-summary: "The wiki maps how capability becomes durable when AI, markets, governance, history, culture, health, psychology, and work meet real constraints."
-episode_count: 1822
-source_count: 1822
-paragraph_count: 468
+as_of_overview_commit: 5276066e62678e6f98083ab547eafcf070233e09
+summary: "The wiki maps how durable capability forms when AI, markets, governance, history, culture, health, psychology, and work meet real constraints."
+episode_count: 1823
+source_count: 1823
+paragraph_count: 469
 topic_count: 8
 ---
 
@@ -77,7 +77,7 @@ Science, health, and climate claims converge on mechanism, measurement, safety-n
 
 ### Work, Education, and Society
 
-Work, education, and society sources show capability forming through effort, feedback, trust, social routines, embodied creative labor, AI verification, and institutions that connect tools to classroom, workplace, court, or community context.
+Work, education, and society sources show capability forming through effort, feedback, trust, social routines, embodied creative labor, AI verification, and institutions that connect tools, learning, and reputation to classrooms, workplaces, courts, or communities; Ban Zhao adds a source-scoped court-education and historiography case.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

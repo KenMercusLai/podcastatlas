@@ -9,64 +9,61 @@ sources:
   - zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd
   - zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq
   - zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm
+  - zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e
 last_updated: 2026-09-01
 ---
 
 ## Overview
 
-班昭 / Ban Zhao is presented in the current sources as an Eastern Han court intellectual, historiographical continuator, teacher, adviser, and disputed conduct-literature author. Her role now links [[BanGuEasternHan|Ban Gu]]'s unfinished `Han Shu`, [[BanChaoEasternHan|Ban Chao]]'s final-return petition, [[FemaleCourtEducationEasternHan|female court education]] under [[EmperorHeOfHan|Emperor He]], [[MaRongLateHan|Ma Rong]] as a source-scoped `Han Shu` student, [[EmpressDowagerDengLateHan|Empress Dowager Deng]]'s regency counsel, and the mixed legacy of [[NujieGenderNormTransmission|`Nujie` gender-norm transmission]] through [[BanJieyuWesternHan|Ban Jieyu]]'s family model.
+班昭 / Ban Zhao is now synthesized as an Eastern Han court intellectual whose authority moves from Ban-family learning into state historiography, court teaching, petitioning, regency advice, and disputed conduct-literature legacy. Her profile links [[BanBiaoEasternHan|Ban Biao]]'s scholarly household, [[BanGuEasternHan|Ban Gu]]'s unfinished `Han Shu`, [[BanChaoEasternHan|Ban Chao]]'s final-return petition, [[FemaleCourtEducationEasternHan|female court education]] under [[EmperorHeOfHan|Emperor He]], [[MaRongLateHan|Ma Rong]] as a source-scoped `Han Shu` student, [[EmpressDowagerDengLateHan|Empress Dowager Deng]]'s regency counsel, and [[NujieGenderNormTransmission|`Nujie` gender-norm transmission]] through [[BanJieyuWesternHan|Ban Jieyu]]'s family model.
 
 ## Current Profile
 
-Hanji 767 adds the earliest current Ban Zhao layer. After Ban Gu dies in prison during the [[DouXianEasternHan|Dou Xian]] cleanup, Emperor He orders Ban Zhao, identified as Ban Gu's younger sister and Cao Shishu's wife, to continue completing `Han Shu`. This makes Ban Zhao's current profile begin with historiographical succession before her later petitioning, teaching, Deng-regency advisory, and `Nujie` legacy roles.
+Ban Zhao's current profile begins with family learning under a rare elite condition. The sources present her as Ban Biao's daughter, Ban Gu and Ban Chao's sister, and Cao Shishu's widowed wife, but the durable point is not household identity alone. Ban-family scholarship gives her an educational base that the same source contrasts with the low ordinary educational access available to women in Eastern Han society.
 
-Hanji 774 adds Ban Zhao's direct petitioning role. Because Emperor He's court has invited her to teach palace women, she has a channel for memorializing on behalf of her elder brother Ban Chao. Her argument is both familial and public: Ban Chao is over seventy, frontier peoples may exploit his age, and a sudden Western Regions failure would damage the state's accumulated achievement as well as a loyal minister's life work. Emperor He accepts the petition and recalls Ban Chao.
+Her public scholarly authority crystallizes after Ban Gu dies in prison during the [[DouXianEasternHan|Dou Xian]] cleanup while `Han Shu` remains unfinished. Emperor He orders Ban Zhao to continue the work at Luoyang and gives her access to the Dongguan archive. Hanji 705-5 makes this continuation concrete by emphasizing inherited drafts, archival reading, and completion of the eight tables; Hanji 767 supplies the more annalistic political setting for the same transition.
 
-Hanji 775 supplies the court-teaching layer that explains why such access is plausible in the current wiki. The episode says Emperor He's court established North Palace women's study and invited Ban Zhao to teach palace women, with a curriculum described as classics, astronomy, and arithmetic. Hanji 705-6 extends the teaching profile beyond the palace-school frame: after `Han Shu` is completed or made transmissible, Ban Zhao teaches the work, takes Ma Rong as a source-scoped student, and opens instruction so more people can read it. The episode's "first female teacher" claim is kept as source-scoped, but it strengthens the narrower synthesis that Ban Zhao mediates historical knowledge across gendered educational boundaries.
+The teaching branch follows directly from that textual authority. Ban Zhao is said to explain `Han Shu` to scholars including Ma Rong and to teach palace women under Emperor He's sponsorship, where she is honored as Cao Da Gu. This ties her to court women education without turning the evidence into a general claim about ordinary female schooling: her channel is imperial, archival, and palace-centered.
 
-Hanji 705-6 also gives Ban Zhao a compact public-recognition and literary frame. The episode begins with the 101 CE Anxi tribute of lions and a large bird, identifies the bird as an ostrich, and says Ban Zhao's `Da Que Fu` helps bring her talent to Emperor He's attention. This is not treated as a complete literary biography, but it adds a court-performance layer before the later petition and advisory evidence.
+Ban Zhao's access also becomes political. She petitions Emperor He to recall the aged Ban Chao from the Western Regions, turning family concern into a frontier-stability argument that the ruler accepts. Under Empress Dowager Deng, she later advises that Deng-family mourning withdrawal can signal non-monopolization of power while preserving consultation through court status. The current synthesis therefore treats Ban Zhao as a court adviser through writing, education, and inner-court trust rather than through formal office command.
 
-Hanji 785 places Ban Zhao inside the Deng regency's legitimacy problem rather than only in literary or historiographical memory. After Empress Dowager Deng is constrained from staying with her gravely ill mother and the mother dies, [[DengZhiLateHan|Deng Zhi]] and other Deng brothers repeatedly request permission to leave office and observe mourning. The court problem is double-edged: keeping them at the center risks confirming accusations of natal-family dominance, while releasing them could weaken Deng's governing network.
-
-Ban Zhao advises acceptance of the mourning withdrawal as a public signal that the Han court praises non-monopolization of power. Her counsel helps convert a potentially damaging family request into a reputation-management decision: Deng can appear restrained while preserving later consultation through fengchaoqing status. Hanji 705-6 broadens this into a source-scoped image of trusted female counsel under Deng, saying Ban Zhao participates in policy discussion and is publicly praised rather than condemned.
-
-The new source also adds the most contested legacy branch. In its account, Ban Zhao writes `Nujie` at home in her final years for women in her family, using Ban Jieyu as the family exemplar. The source respects Ban Zhao's historical and literary status, but it also criticizes `Nujie` as a later instrument for making women dependent on men. Ban Zhao's current profile therefore joins unusual female political and educational agency with a text later read as constraining women's agency.
+Her literary memory remains mixed. Hanji 705-6 presents `Da Que Fu` as a public-recognition moment and `Nujie` as late family instruction rooted in Ban Jieyu's model. The same source criticizes the later reception of `Nujie` as a gender-norm instrument that constrained women. Ban Zhao's current wiki profile therefore keeps two truths together: unusual female agency in court historiography and education, and a legacy text later used to restrict female agency.
 
 ## Key Characteristics
 
-- Court intellectual whose literary talent, `Han Shu` continuation, teaching, petitioning, and advice all depend on access through writing and inner-court trust rather than formal command.
-- Historiographical continuator ordered to carry forward Ban Gu's unfinished `Han Shu` after his prison death.
-- Teacher and transmitter whose current evidence includes palace women's education and a source-scoped Ma Rong student layer.
+- Ban-family scholar whose unusual educational access is grounded in an elite historiographical household.
+- Historiographical continuator ordered by Emperor He to carry forward Ban Gu's unfinished `Han Shu`.
+- Teacher and transmitter whose current evidence includes Dongguan lectures, palace women's education, and Ma Rong as a source-scoped student.
+- Court intellectual whose literary production, teaching, petitioning, and advice all depend on writing and inner-court trust rather than formal command.
 - Petitioning advocate whose Ban Chao memorial turns family concern into a frontier-stability argument.
 - Reputation strategist who frames Deng-family resignation as evidence against monopolizing power.
-- Trusted Deng-regency adviser whose influence is praised by the new source but remains source-scoped in its broadest "participating in government" form.
 - `Nujie` author whose legacy joins family instruction, Ban Jieyu memory, literary prestige, and later gender-norm controversy.
 
 ## Evidence
 
-- Historiographical continuation: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Emperor He orders Ban Zhao to continue `Han Shu` after Ban Gu dies in prison.
+- Family-learning base: [[zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e|Hanji 705-5]] presents Ban Zhao as Ban Biao's daughter in a scholarly household and contrasts that with low ordinary female educational access.
+- Historiographical continuation: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Emperor He orders Ban Zhao to continue `Han Shu` after Ban Gu dies in prison, while [[zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e|Hanji 705-5]] specifies the Dongguan archive, inherited drafts, and eight tables.
+- Teaching and transmission: [[zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e|Hanji 705-5]] says Ma Rong and other scholars hear Ban Zhao explain `Han Shu`; [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|Hanji 775]] gives the North Palace women's study; [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] extends the student and public teaching layer.
 - Literary recognition: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] says Ban Zhao writes `Da Que Fu` after the 101 CE Anxi tribute and thereby gains Emperor He's appreciation.
 - Ban Chao petition: [[zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd|Hanji 774]] and [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] both say Ban Zhao petitions Emperor He to recall her aged brother before he dies abroad.
-- Court teaching: [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|Hanji 775]] says Emperor He's court invited Ban Zhao to teach palace women at North Palace women's study.
-- `Han Shu` transmission: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] says Ban Zhao teaches `Han Shu`, takes Ma Rong as a student, and opens instruction so more readers can understand the text.
-- Family-power legitimacy: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] reports Ban Zhao advising Deng to let the Deng brothers depart for mourning so the court can display praise for non-exclusive power.
-- Trusted regency counsel: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] describes Empress Dowager Deng as relying on Ban Zhao as an adviser during disaster and frontier pressure.
-- Mourning and regency balance: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] places the advice immediately after Deng's constrained response to her mother's illness and death and pairs acceptance of resignation with later fengchaoqing honors.
+- Deng-regency counsel: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] reports Ban Zhao advising Deng to let the Deng brothers depart for mourning, and [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] broadens that into trusted regency advice.
+- Deng relationship prelude: [[zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e|Hanji 705-5]] introduces young Deng Sui as a palace woman with a teacher-friend relationship to Ban Zhao.
 - `Nujie` origin and legacy: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] says Ban Zhao writes `Nujie` for family women, links the impulse to Ban Jieyu, and treats its later reception as both revered and oppressive.
 
 ## Qualifications
 
-The current profile remains source-bounded to five podcast source notes. It includes Ban Zhao's `Han Shu` continuation role after Ban Gu's death, her Ban Chao petition, teaching work, Deng-regency counsel, and `Nujie` legacy, but it still does not reconstruct her full bibliography, textual method, family background beyond the linked Ban-family figures, or an independent political program. Hanji 775's "world first women's school" claim, Hanji 705-6's "first female teacher" and "no public objection" claims, the ostrich-first claim, the 120 CE death notice, and the strong judgment on `Nujie`'s later oppressive function are preserved as source-scoped rather than treated as independently settled comparative history.
+The current profile remains source-bounded to six podcast source notes. It includes Ban Zhao's family-learning background, `Han Shu` continuation after Ban Gu's death, Ban Chao petition, teaching work, Deng-regency counsel, and `Nujie` legacy, but it still does not reconstruct her full bibliography, textual method, exact share of `Han Shu` completion beyond the source-described eight tables, or an independent political program. Hanji 705-5's "first royal female teacher" and teenage encyclopedic-learning claims, Hanji 775's "world first women's school" claim, Hanji 705-6's "first female teacher" and "no public objection" claims, the ostrich-first claim, the 120 CE death notice, and the strong judgment on `Nujie`'s later oppressive function are preserved as source-scoped rather than treated as independently settled comparative history.
 
 ## What Changed
 
-- Added Hanji 705-6 as an integrated Ban Zhao synthesis source linking literary recognition, `Han Shu` teaching, Deng-regency advice, `Nujie`, death notice, and later reputation.
-- Expanded the teaching layer from palace women's education to source-scoped public `Han Shu` instruction and Ma Rong as a student.
-- Added `Nujie` as the main contested legacy branch and Ban Jieyu as the family exemplar behind it.
-- Preserved Hanji 767, Hanji 774, Hanji 775, and Hanji 785 as the bounded evidence for historiography, petitioning, education, and Deng-family legitimacy management.
+- Added Hanji 705-5 as the earlier biographical and `Han Shu` continuation prelude to Hanji 705-6.
+- Reweighted the profile toward Ban-family learning, Dongguan archival work, and Emperor He's commission as the basis for later court authority.
+- Made the teaching layer more concrete by adding Ma Rong's Dongguan learning scene and the palace-women teacher role.
+- Kept first-teacher, textual-completion, and comparative education claims source-scoped.
 
 ## Relationships
 
+- [[BanBiaoEasternHan|班彪]] - father whose scholarly household gives Ban Zhao's current profile its family-learning base.
 - [[BanGuEasternHan|班固]] - elder brother whose unfinished `Han Shu` Ban Zhao is ordered to continue.
 - [[BanChaoEasternHan|班超]] - elder brother whose final return depends on Ban Zhao's petition.
 - [[EmperorHeOfHan|汉和帝]] - ruler whose court gives Ban Zhao access and accepts her petition.
