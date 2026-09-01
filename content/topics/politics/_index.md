@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2151
+topic_total_pages: 2153
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2551,6 +2551,9 @@ topic_concepts:
   - key: "RightWingMediaInfrastructure"
     title: "Right-Wing Media Infrastructure"
     url: "/wiki/concepts/rightwingmediainfrastructure/"
+  - key: "RingTakeEncryption"
+    title: "Ring TAKE Encryption"
+    url: "/wiki/concepts/ringtakeencryption/"
   - key: "RiskCostSeparation"
     title: "Risk-Cost Separation / 风险与成本分离"
     url: "/wiki/concepts/riskcostseparation/"
@@ -6027,6 +6030,9 @@ topic_sources:
   - key: "putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210"
     title: "Putin's options: an oligarch speaks out"
     url: "/wiki/sources/putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210/"
+  - key: "tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128"
+    title: "Ring Moves to Make Its Video Footage More Private"
+    url: "/wiki/sources/tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128/"
   - key: "tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128"
     title: "Robotaxis moved into the fast lane in 2025"
     url: "/wiki/sources/tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128/"

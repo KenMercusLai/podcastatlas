@@ -14504,6 +14504,10 @@ Ingested the 2026-09-01 The Intelligence episode on Nepal's August 26, 2026 glac
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-01] ingest | Ring Moves to Make Its Video Footage More Private
+
+Ingested the 2026-09-01 Marketplace Tech episode with Jamie Siminoff on Ring's default TAKE encryption, user-held keys for camera video, police community requests, Search Party backlash, and the canceled Flock community-request integration. Created source `tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128` plus `RingTakeEncryption`; updated `Ring`, `JamieSiminoff`, `RingSearchParty`, `FlockSafety`, `ConsumerCameraSurveillance`, `PublicSafetyPrivacyTradeoff`, `index`, and `overview`. No settled contradiction found; TAKE implementation details and the distinction between announced/planned Flock exploration and implementation work remain source-scoped.
+
 ## [2026-09-01] ingest | The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup
 
 Ingested the 2026-06-16 The Rest Is History episode with Paul Rouse on Mussolini's use of football and the World Cup. Added source `the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007`; created `PaulRouse`, `VittorioPozzo`, `ItalyNationalFootballTeam`, `FIFAWorldCup1934`, `FIFAWorldCup1938`, `AuthoritarianSportsPropaganda`, `FascistSportPolicy`, and `SportsPropagandaEffectUncertainty`; updated `BenitoMussolini`, `ItalianFascism`, `FIFAWorldCup`, `SportsPoliticalInterference`, `TheRestIsHistory`, overview, and index. No settled contradiction found; bribery, referee-pressure, and bought-off-opponent claims remain source-scoped or unproven.
@@ -14743,6 +14747,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》698丨王朝兴衰启示录：韦敖的遗憾与今朝之镜
 
 Ingested the 2026-06-16 芮淇讲透资治通鉴 episode backfilling Jianwu 5 around Wei Xiao's noncommittal posture: refusal to attack Gongsun Shu, repeated Lai Xi/Ma Yuan persuasion, Wei Xun's hostage service in Luoyang, Zheng Xing and Ma Yuan leaving with households, Wang Yuan's terrain-and-waiting holdout advice, and Shentu Gang's ignored submission warning. Added source `zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff`; created `WeiXunEasternHan`, `WangYuanWeiXiaoRetainer`, and `ShentuGangEasternHan`; updated `WeiXiaoEasternHan`, `ZhengXingEasternHan`, `MaYuanEasternHan`, `LaiXiEasternHan`, `FaceSavingSubmissionFailure`, `FenceSittingStrategicExposure`, `SuspicionDrivenEliteAlienation`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 韦敖/韦巡 are normalized to 隗嚣/隗恂, and Liu Yong, exact court-title wording, Shanglinyuan logistics, and minor claimant lists remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] lint | Wiki health check
 

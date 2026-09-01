@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6213
+wiki_total_pages: 6214
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "RigidObedienceCrisisFailure"
     title: "Rigid Obedience Crisis Failure / 危机僵化奉诏"
     url: "/wiki/concepts/rigidobediencecrisisfailure/"
+  - key: "RingTakeEncryption"
+    title: "Ring TAKE Encryption"
+    url: "/wiki/concepts/ringtakeencryption/"
   - key: "RiskParity"
     title: "Risk Parity"
     url: "/wiki/concepts/riskparity/"

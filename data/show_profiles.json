@@ -556,20 +556,20 @@
       "earliest_episode_date": "2025-12-08",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "tech_20260901_0901_MP_TECH_pod_128 [tech_20260901_0901_MP_TECH_pod_128].md",
-      "source_note_count": 136,
-      "topic_matched_source_note_count": 106,
+      "source_note_count": 137,
+      "topic_matched_source_note_count": 107,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 86
+          "source_note_count": 87
         },
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 22
+          "source_note_count": 23
         },
         {
           "key": "culture",
@@ -643,10 +643,10 @@
         }
       ],
       "start_here_episode_files": [
-        "tech_20260828_0828_MP_TECH_pod_128 [tech_20260828_0828_MP_TECH_pod_128].md",
-        "tech_20260820_TECH_pod_128 [tech_20260820_TECH_pod_128].md",
+        "tech_20260901_0901_MP_TECH_pod_128 [tech_20260901_0901_MP_TECH_pod_128].md",
         "tech_20260827_0827_MP_TECH_pod_128 [tech_20260827_0827_MP_TECH_pod_128].md",
-        "tech_20260818_TECH_pod_128 [tech_20260818_TECH_pod_128].md"
+        "tech_20260818_TECH_pod_128 [tech_20260818_TECH_pod_128].md",
+        "tech_20260831_0831_MP_TECH_pod_128 [tech_20260831_0831_MP_TECH_pod_128].md"
       ]
     },
     "Planet Money": {

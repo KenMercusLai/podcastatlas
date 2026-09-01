@@ -8872,6 +8872,64 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/consumeraihardwareproductfit/"
     },
+    "ConsumerCameraSurveillance": {
+      "episode_count": 7,
+      "show_count": 2,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Flock CEO Garrett Langley on Controversy, “Surveillance State” Claims, and Privacy vs Safety [42470485].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Flock CEO Garrett Langley on Controversy, \\\"Surveillance State\\\" Claims, and Privacy vs Safety",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485/"
+        },
+        {
+          "episode_file": "tech_20260109_0109_MP_TECH_pod_128 [tech_20260109_0109_MP_TECH_pod_128].md",
+          "key": "tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - New year, new state AI laws, new showdown with Trump admin.",
+          "url": "/wiki/sources/tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251225_1225_MP_TECH_pod_128 [tech_20251225_1225_MP_TECH_pod_128].md",
+          "key": "tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The year in AI wearables",
+          "url": "/wiki/sources/tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260108_0108_MP_TECH_pod_128 [tech_20260108_0108_MP_TECH_pod_128].md",
+          "key": "tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Surveillance cameras livestreamed for the internet to see",
+          "url": "/wiki/sources/tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260302_0302_MP_TECH_pod_128 [tech_20260302_0302_MP_TECH_pod_128].md",
+          "key": "tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How government uses \\\"surveillance as a service\\\" to collect data",
+          "url": "/wiki/sources/tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
+          "key": "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs",
+          "url": "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260901_0901_MP_TECH_pod_128 [tech_20260901_0901_MP_TECH_pod_128].md",
+          "key": "tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Ring Moves to Make Its Video Footage More Private",
+          "url": "/wiki/sources/tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/consumercamerasurveillance/"
+    },
     "ConsumerDataDeletion": {
       "episode_count": 2,
       "show_count": 1,
@@ -16961,6 +17019,50 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/flexiblefrontiermilitarydiscretion/"
     },
+    "FlockSafety": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Flock CEO Garrett Langley on Controversy, “Surveillance State” Claims, and Privacy vs Safety [42470485].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Flock CEO Garrett Langley on Controversy, \\\"Surveillance State\\\" Claims, and Privacy vs Safety",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485/"
+        },
+        {
+          "episode_file": "tech_20260108_0108_MP_TECH_pod_128 [tech_20260108_0108_MP_TECH_pod_128].md",
+          "key": "tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Surveillance cameras livestreamed for the internet to see",
+          "url": "/wiki/sources/tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260302_0302_MP_TECH_pod_128 [tech_20260302_0302_MP_TECH_pod_128].md",
+          "key": "tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How government uses \\\"surveillance as a service\\\" to collect data",
+          "url": "/wiki/sources/tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
+          "key": "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs",
+          "url": "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260901_0901_MP_TECH_pod_128 [tech_20260901_0901_MP_TECH_pod_128].md",
+          "key": "tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Ring Moves to Make Its Video Footage More Private",
+          "url": "/wiki/sources/tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/flocksafety/"
+    },
     "FlowClutchLearningDistinction": {
       "episode_count": 1,
       "show_count": 1,
@@ -24579,6 +24681,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/jamescallender/"
+    },
+    "JamieSiminoff": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
+          "key": "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs",
+          "url": "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260901_0901_MP_TECH_pod_128 [tech_20260901_0901_MP_TECH_pod_128].md",
+          "key": "tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Ring Moves to Make Its Video Footage More Private",
+          "url": "/wiki/sources/tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/jamiesiminoff/"
     },
     "JaneFonda": {
       "episode_count": 1,
@@ -38373,6 +38498,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/publicexerciseemergencypreparedness/"
     },
+    "PublicSafetyPrivacyTradeoff": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Flock CEO Garrett Langley on Controversy, “Surveillance State” Claims, and Privacy vs Safety [42470485].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Flock CEO Garrett Langley on Controversy, \\\"Surveillance State\\\" Claims, and Privacy vs Safety",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485/"
+        },
+        {
+          "episode_file": "tech_20260901_0901_MP_TECH_pod_128 [tech_20260901_0901_MP_TECH_pod_128].md",
+          "key": "tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Ring Moves to Make Its Video Footage More Private",
+          "url": "/wiki/sources/tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/publicsafetyprivacytradeoff/"
+    },
     "PunishmentAsMoralCredential": {
       "episode_count": 1,
       "show_count": 1,
@@ -40241,6 +40389,68 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/righteousnessoverprofit/"
+    },
+    "Ring": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
+          "key": "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs",
+          "url": "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260901_0901_MP_TECH_pod_128 [tech_20260901_0901_MP_TECH_pod_128].md",
+          "key": "tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Ring Moves to Make Its Video Footage More Private",
+          "url": "/wiki/sources/tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/ring/"
+    },
+    "RingSearchParty": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
+          "key": "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs",
+          "url": "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260901_0901_MP_TECH_pod_128 [tech_20260901_0901_MP_TECH_pod_128].md",
+          "key": "tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Ring Moves to Make Its Video Footage More Private",
+          "url": "/wiki/sources/tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/ringsearchparty/"
+    },
+    "RingTakeEncryption": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260901_0901_MP_TECH_pod_128 [tech_20260901_0901_MP_TECH_pod_128].md",
+          "key": "tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Ring Moves to Make Its Video Footage More Private",
+          "url": "/wiki/sources/tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/ringtakeencryption/"
     },
     "RiskBearingReliefGovernance": {
       "episode_count": 1,

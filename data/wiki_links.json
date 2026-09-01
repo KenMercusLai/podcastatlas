@@ -44595,6 +44595,10 @@
     "title": "Ring Search Party",
     "url": "/wiki/entities/ringsearchparty/"
   },
+  "RingTakeEncryption": {
+    "title": "Ring TAKE Encryption",
+    "url": "/wiki/concepts/ringtakeencryption/"
+  },
   "RinksCanetti": {
     "title": "Rinks Canetti",
     "url": "/wiki/entities/rinkscanetti/"
@@ -63658,6 +63662,10 @@
   "tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128": {
     "title": "ICE is collecting DNA from detainees for future policing",
     "url": "/wiki/sources/tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128/"
+  },
+  "tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128": {
+    "title": "Ring Moves to Make Its Video Footage More Private",
+    "url": "/wiki/sources/tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128/"
   },
   "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460": {
     "title": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？",

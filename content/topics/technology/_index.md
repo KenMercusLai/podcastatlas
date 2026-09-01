@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2637
+topic_total_pages: 2638
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7548,6 +7548,9 @@ topic_sources:
   - key: "tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio"
     title: "Paul Graham on Y Combinator's Growth, Myths, and the AI Era"
     url: "/wiki/sources/tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio/"
+  - key: "tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128"
+    title: "Ring Moves to Make Its Video Footage More Private"
+    url: "/wiki/sources/tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128/"
   - key: "roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674"
     title: "Roaring trades: oil majors' secret success story"
     url: "/wiki/sources/roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674/"

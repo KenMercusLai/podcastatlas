@@ -32,6 +32,7 @@
       "2bc1e83d1cf015e1bb446a799b320774dcaf7fbe58a3b4738f18cdd37aaae718",
       "cb7533d2eeb61dc89d23b9341cd2300e767ad786074dbb847f3a4008b163b152",
       "4183d42d43a1966dec7c5bbfac09d4f2c3e8f656b0f96ec851796a20d5414bb1",
+      "fcb386415e6498d7b9cc20acb63939b50f12bfab1b1ba2fd5c93ff1645e1d87e",
       "6f2decc50f7143e8a05bbc59ab1703f6672738ba27e09393ae0525b668e75826",
       "695b0bc2e7c51de7019a3589fe1de1fbccb3bf9c6f5b40a7c2fb9492430cb145",
       "733e44a61b10e6eb6a3251356cadfdc717c2d56793370e7cd1156daaf652b424",
@@ -487,10 +488,10 @@
       "669579ac551e015d5d6c20aa08ac0e7c674e0f7fafcd9adc5bebd4f22c5899ea",
       "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3"
     ],
-    "paragraph_count": 485
+    "paragraph_count": 486
   },
-  "overview_commit": "416f68fdada683633e78e70626b9bbdc622d69c1",
-  "overview_digest": "b62cb51663cdb4ce720e5a614c4aac13c75aed34efc5be1a9b0acf154efd837a",
+  "overview_commit": "dbf4ed438609750e74fdcf918ec33635584047c1",
+  "overview_digest": "db99443ccda0181ba10af16b318ee7576c4d285604eb9665a01638df11def038",
   "paragraphs": [
     {
       "id": "ae71dbdd6403a32e10267302cd073825e370d3b319cc3252cdb329bb1e7ce3a3",
@@ -1371,6 +1372,31 @@
         "USDepartmentOfHomelandSecurity",
         "USImmigrationAndCustomsEnforcement",
         "tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128"
+      ]
+    },
+    {
+      "id": "fcb386415e6498d7b9cc20acb63939b50f12bfab1b1ba2fd5c93ff1645e1d87e",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128|Ring Moves to Make Its Video Footage More Private]], a [[MarketplaceTech]] episode with [[JamieSiminoff]] on [[Ring]]'s default [[RingTakeEncryption|TAKE encryption]], police community requests, [[RingSearchParty|Ring Search Party]] backlash, and the canceled [[FlockSafety|Flock Safety]] integration. It adds [[RingTakeEncryption]], while extending [[Ring]], [[JamieSiminoff]], [[RingSearchParty]], [[FlockSafety]], [[ConsumerCameraSurveillance]], and [[PublicSafetyPrivacyTradeoff]]. Its core synthesis is that Ring is trying to turn privacy from a disabled-feature tradeoff into a default user-key control: TAKE is presented as preserving AI, sharing, and safety features while shifting footage unlocking to users, but downstream police handling, bystander consent, implementation proof, and future-use anxiety remain source-scoped qualifications. No settled contradiction is recorded; the episode narrows the Ring/Flock timeline by saying integration work never started before cancellation.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ConsumerCameraSurveillance",
+        "FlockSafety",
+        "JamieSiminoff",
+        "MarketplaceTech",
+        "PublicSafetyPrivacyTradeoff",
+        "Ring",
+        "RingSearchParty",
+        "RingTakeEncryption",
+        "tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128"
       ]
     },
     {
