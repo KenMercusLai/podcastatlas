@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！](sources/zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt.md) — Jianwu 5 Guangwu episode on Geng Yan's false Xi'an target, surprise capture of Linzi, provocation and defeat of Zhang Bu, hidden-wound morale control, retreat-path ambush, and Liu Xiu's Han Xin comparison.
 - [《资治通鉴·汉纪》697丨一口气看懂东汉名将耿弇的传奇人生](sources/zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c.md) — Jianwu-era Guangwu backfill on Geng Yan's Qi-pacification finish, Zhang Bu's induced surrender and controlled settlement, Taixue restoration, Feng Yi trust under slander, Lu Fang's Xiongnu-backed northern branch, and Wei Xiao's ritual overreach warning.
 - [After the flood: Nepal's ongoing rescue](sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078.md) — The Intelligence episode on Nepal's glacial-flood disaster, hydropower and aid exposure, AI homework transfer risk, and Japan-inspired listening bars.
 - [The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup](sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007.md) — The Rest Is History episode on Mussolini's 1934/1938 World Cup politics, fascist sport policy, Italy's victories, propaganda limits, and postwar memory.
@@ -4488,7 +4489,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [少梁 / Shaoliang](entities/Shaoliang.md) — Wei-Qin battlefield where Qin captures a Wei figure rendered as 公孙措/公孙痤 before later Qin control notices.
 - [河西 / Hexi (Warring States)](entities/HexiWarringStates.md) — Contested western Wei region whose cession to Qin appears as a continuing frontier-loss branch.
 - [函谷关 / Hangu Pass](entities/HanguPass.md) — Qin pass used by Zhouji 33 as the test point for Shiji's fifteen-year hezong efficacy claim against the coming Zizhi Tongjian sequel.
-- [临淄 / Linzi](entities/Linzi.md) — Qi capital whose earlier prosperity rhetoric is later joined by Li Shiqi's Han-facing persuasion of Tian Guang during the Chu-Han war.
+- [临淄 / Linzi](entities/Linzi.md) — Qi regional capital and campaign node spanning Warring States prosperity/Jixia, Chu-Han persuasion and kingship, and Geng Yan's Eastern Han tactical capture.
 - [《阴符》 / Yinfu Jing](entities/YinfuJing.md) — Text Su Qin studies after failure, with Zhouji 30 distinguishing Shiji's 《周书阴符》 from Zhanguo Ce's 《太公阴符之谋》.
 - [《六韬》 / Six Secret Teachings](entities/Liutao.md) — Military text used as one possible but less persuasive identification for the 《阴符》 material in Su Qin's breakthrough story.
 - [田斑 / Tian Ban](entities/TianBan.md) — Qi replacement figure invoked by Zhang Chou to persuade Chu Wei Wang that expelling Tian Ying could strengthen Qi.
@@ -7358,13 +7359,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now spans anti-Qin rise, Chu-Han victory, reward settlement, frontier suspicion, and court ritual repair.
 - [Liu Xiu / 刘秀](entities/LiuXiu.md) — Eastern Han founder synthesized through Taixue formation, Kunyang initiative, restoration warfare, early demobilization and amnesty, eclipse remonstrance, trust repair, merit settlement, frontier settlement, chenwei reliance and control, illness and succession anxiety, and Guangwu ritual memory.
 - [贾复 / Jia Fu (Eastern Han)](entities/JiaFuEasternHan.md) — Eastern Han founding general whose 55 CE death notice preserves battlefield risk, quiet merit, and Liu Xiu's recognition of service.
-- [耿弇 / Geng Yan (Eastern Han)](entities/GengYanEasternHan.md) — Eastern Han founding general whose Liu Xiu alignment, Youzhou cavalry role, Qi surrendered-force dispersal, campaign tactics, and post-merit retreat anchor the Geng Yan source cluster.
+- [耿弇 / Geng Yan (Eastern Han)](entities/GengYanEasternHan.md) — Eastern Han founding general whose Liu Xiu alignment, Youzhou cavalry role, Linzi battle tactics, Qi surrendered-force dispersal, and post-merit retreat anchor the Geng Yan source cluster.
 - [吴汉 / Wu Han (Eastern Han)](entities/WuHanEasternHan.md) — Liu Xiu founding general whose profile spans Youzhou recruitment, Qinghe operations, Chengdu overreach and recovery, post-surrender atrocity, later honor, and deathbed discipline.
 - [耿况 / Geng Kuang (Eastern Han)](entities/GengKuangEasternHan.md) — Geng Yan's father and northern military-family power broker behind the Youzhou cavalry alignment.
 - [耿国 / Geng Guo (Eastern Han)](entities/GengGuoEasternHan.md) — Geng-family figure whose wiki role now spans a court-service loyalty signal and Guangwu-era Southern Xiongnu buffer-policy advice.
 - [彭宠 / Peng Chong (Eastern Han)](entities/PengChongEasternHan.md) — Former Liu Xiu-side actor whose rebellion tests Geng-family loyalty and founding-coalition trust.
 - [王郎 / Wang Lang (Hebei Claimant)](entities/WangLangHebeiClaimant.md) — Hebei claimant whose uprising redirects Geng Yan toward Liu Xiu and whose defeated Handan correspondence archive becomes Liu Xiu's trust-repair test.
-- [张步 / Zhang Bu (Eastern Han)](entities/ZhangBuEasternHan.md) — Qi-region adversary whose profile spans Geng Yan's campaign tactics, induced surrender, controlled family-backed settlement, and later failed flight.
+- [张步 / Zhang Bu (Eastern Han)](entities/ZhangBuEasternHan.md) — Qi-region adversary whose profile spans Linzi battlefield vulnerability, induced surrender, controlled family-backed settlement, and later failed flight.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's breakout, reinforcements, morale tactics, and later legendary mandate layer exposed the gap between Xin grandeur and usable capacity.
 - [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Popular uprising named by episode 126 as part of the social collapse under Wang Mang.
 - [Lulin / 绿林](entities/LulinRebellion.md) — Uprising force that enters Chang'an and frames the episode's narration of Wang Mang's death.
@@ -10666,7 +10667,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [帝王死因史料推断 / Imperial Death-Cause Inference](concepts/ImperialDeathCauseInference.md) — Historiographic method for reading sparse imperial death notices with supplementary symptom and workload evidence without turning inference into diagnosis.
 - [继位亲族安抚与隔离 / Accession Kinship Containment](concepts/AccessionKinshipContainment.md) — Succession-risk pattern where a new ruler uses privacy, sequencing, reassurance, distance, and ritual order to contain vulnerable or dangerous royal kin.
 - [太子主动辞位自保 / Crown-Prince Voluntary Withdrawal](concepts/CrownPrinceVoluntaryWithdrawal.md) — Succession-risk pattern where an established heir repeatedly asks to leave the crown-prince position after remaining heir becomes more dangerous than yielding the claim.
-- [Battlefield Feint And Lure / 声东击西与诱敌](concepts/BattlefieldFeintAndLure.md) — Tactical pattern using false targets, controlled exits, concealed movement, frontal displays, feigned weakness, ambush, and surrender follow-through to move enemies into weaker positions.
+- [Battlefield Feint And Lure / 声东击西与诱敌](concepts/BattlefieldFeintAndLure.md) — Tactical pattern using false targets, provocation, controlled exits, concealed movement, frontal displays, feigned weakness, ambush, and surrender follow-through to move enemies into weaker positions.
 - [Power Completion Retreat / 功成退让](concepts/PowerCompletionRetreat.md) — Post-merit restraint pattern where a high-achievement actor reduces visible command or office after the central task is complete.
 - [时运制约命运 / Fate Timing External Conditions](concepts/FateTimingExternalConditions.md) — Source-scoped frame where timing and external conditions mediate ability, virtue, ambition, and visible outcomes.
 - [Institutional Trust in AI Adoption](concepts/InstitutionalTrustAIAdoption.md) — Enterprise AI adoption condition where users trust the organization enough to change daily work around a tool.

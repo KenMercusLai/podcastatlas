@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-01
-as_of_overview_commit: c3c41129e7e6e9ce9cbdf17827d39d740ed98eb7
-input_digest: 9a21d4fbdcc345db9ad5a431bebfe3c952fc15c8f5223da4d62f55d0d399d1be
+as_of_overview_commit: 4bce967b9cf9313b2dbc6696c428e445e5639dee
+input_digest: 67ba28c743d8b90fe08b16d54219d1e22f5ca380cf0680f3bae0c47146b8834e
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 697 adds an early Guangwu backfill: Geng Yan's Qi finish ties battlefield deception to surrendered-force dispersal, Zhang Bu's first survival bargain to family-backed control, and Taixue/Feng Yi/Lu Fang/Wei Xiao notices to the unfinished consolidation field. Hanji 699 PLUS adds a source-scoped cultivated-capacity frame for Liu Xiu: Taixue study, Kunyang battlefield initiative, Wang Lang letter-burning trust repair, non-purge treatment of merit holders, and self-command after Liu Yan death are read together as ruler formation rather than as isolated talents. The early and late Eastern Han branches otherwise continue to show power through logistics, alliances, legitimacy, institutions, frontier capacity, appointment quality, surrender credibility, and symbolic order; newer sport, state, and technology history claims remain source-scoped rather than collapsed into one model of power.
+Hanji 696 adds the Linzi battlefield prelude to Hanji 697: Geng Yan turns false target selection, provocation, prepared defense, hidden-wound morale control, and retreat-path ambush into a chained tactical system against Zhang Bu. Hanji 697 then adds the Qi finish through surrendered-force dispersal, family-backed control, and institutional-restoration notices. The early and late Eastern Han branches otherwise continue to show power through logistics, alliances, legitimacy, institutions, frontier capacity, appointment quality, surrender credibility, and symbolic order; newer sport, state, and technology history claims remain source-scoped rather than collapsed into one model of power.
 
 ## Cross-source Findings
+
+### Early Eastern Han 696 Geng Yan Linzi Feint And Zhang Bu Defeat
+
+[[zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt|Hanji 696]] backfills Jianwu 5 / 29 CE immediately before [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|Hanji 697]]: [[GengYanEasternHan]] defeats [[ZhangBuEasternHan]] around [[Linzi]] by reading Xi'an as stronger than Linzi, announcing one target while striking another, provoking Zhang Bu into a tired attack, showing weakness to preserve enemy confidence, hiding a thigh wound to protect morale, and placing retreat-path ambushes under [[BattlefieldFeintAndLure]]. The source also grounds a narrow [[LiuXiu]] praise-comparison layer, while keeping the stronger-than-Han-Xin title frame source-scoped.
+
+**Evidence:** [[zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt]], [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c]], [[GengYanEasternHan]], [[ZhangBuEasternHan]], [[Linzi]], [[BattlefieldFeintAndLure]], [[LiuXiu]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 696 and functions as the battlefield prelude to Hanji 697's Zhang Bu surrender and Qi pacification.
+- Zhang Bu's Linzi defeat, later first surrender, and still-later flight/execution are treated as sequential stages rather than contradictions.
+- Zhang Lan, Zhang Hong, Zhang Shou, Chong Yi, Chen Jun, Liu Xing, Ju, Xi'an, Pingshou, exact force counts, and the stronger-than-Han-Xin title claim remain source-scoped.
 
 ### Early Eastern Han 697 Geng Yan Qi Pacification And Controlled Surrender
 

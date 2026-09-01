@@ -2,6 +2,26 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "early-eastern-han-696-geng-yan-linzi-feint-and-zhang-bu-defeat",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 696 and functions as the battlefield prelude to Hanji 697's Zhang Bu surrender and Qi pacification.",
+        "Zhang Bu's Linzi defeat, later first surrender, and still-later flight/execution are treated as sequential stages rather than contradictions.",
+        "Zhang Lan, Zhang Hong, Zhang Shou, Chong Yi, Chen Jun, Liu Xing, Ju, Xi'an, Pingshou, exact force counts, and the stronger-than-Han-Xin title claim remain source-scoped."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt|Hanji 696]] backfills Jianwu 5 / 29 CE immediately before [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|Hanji 697]]: [[GengYanEasternHan]] defeats [[ZhangBuEasternHan]] around [[Linzi]] by reading Xi'an as stronger than Linzi, announcing one target while striking another, provoking Zhang Bu into a tired attack, showing weakness to preserve enemy confidence, hiding a thigh wound to protect morale, and placing retreat-path ambushes under [[BattlefieldFeintAndLure]]. The source also grounds a narrow [[LiuXiu]] praise-comparison layer, while keeping the stronger-than-Han-Xin title frame source-scoped.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt",
+        "zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c",
+        "GengYanEasternHan",
+        "ZhangBuEasternHan",
+        "Linzi",
+        "BattlefieldFeintAndLure",
+        "LiuXiu"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "early-eastern-han-697-geng-yan-qi-pacification-and-controlled-surrender",
       "qualifications": [
         "This claim is source-scoped to Hanji 697 and functions as a backfill immediately before Hanji 698 rather than a replacement for later Hanji 707 and Hanji 715 layers.",
@@ -3996,8 +4016,8 @@
       ]
     }
   ],
-  "input_digest": "acfd804be8ee51ef5c8888da4a3125fd7a3327124428feb2e200efa87299965f",
-  "summary": "Hanji 697 adds an early Guangwu backfill: Geng Yan's Qi finish ties battlefield deception to surrendered-force dispersal, Zhang Bu's first survival bargain to family-backed control, and Taixue/Feng Yi/Lu Fang/Wei Xiao notices to the unfinished consolidation field. Hanji 699 PLUS adds a source-scoped cultivated-capacity frame for Liu Xiu: Taixue study, Kunyang battlefield initiative, Wang Lang letter-burning trust repair, non-purge treatment of merit holders, and self-command after Liu Yan death are read together as ruler formation rather than as isolated talents. The early and late Eastern Han branches otherwise continue to show power through logistics, alliances, legitimacy, institutions, frontier capacity, appointment quality, surrender credibility, and symbolic order; newer sport, state, and technology history claims remain source-scoped rather than collapsed into one model of power.",
+  "input_digest": "67ba28c743d8b90fe08b16d54219d1e22f5ca380cf0680f3bae0c47146b8834e",
+  "summary": "Hanji 696 adds the Linzi battlefield prelude to Hanji 697: Geng Yan turns false target selection, provocation, prepared defense, hidden-wound morale control, and retreat-path ambush into a chained tactical system against Zhang Bu. Hanji 697 then adds the Qi finish through surrendered-force dispersal, family-backed control, and institutional-restoration notices. The early and late Eastern Han branches otherwise continue to show power through logistics, alliances, legitimacy, institutions, frontier capacity, appointment quality, surrender credibility, and symbolic order; newer sport, state, and technology history claims remain source-scoped rather than collapsed into one model of power.",
   "title": "History and Geopolitics",
   "topic_id": "history-and-geopolitics"
 }

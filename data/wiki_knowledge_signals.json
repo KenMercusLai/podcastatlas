@@ -4552,9 +4552,9 @@
       "url": "/wiki/concepts/basicresearchbreakthroughlatency/"
     },
     "BattlefieldFeintAndLure": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -4576,6 +4576,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》697丨一口气看懂东汉名将耿弇的传奇人生",
           "url": "/wiki/sources/zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！ [lkoMaa6QHwwQwmb48vxyAbAy0sKt].md",
+          "key": "zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt/"
         }
       ],
       "updated": "2026-09-01",
@@ -19160,9 +19167,9 @@
       "url": "/wiki/entities/gengshueasternhan/"
     },
     "GengYanEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -19184,6 +19191,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》697丨一口气看懂东汉名将耿弇的传奇人生",
           "url": "/wiki/sources/zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！ [lkoMaa6QHwwQwmb48vxyAbAy0sKt].md",
+          "key": "zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt/"
         }
       ],
       "updated": "2026-09-01",
@@ -28222,6 +28236,64 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/linkedin/"
+    },
+    "Linzi": {
+      "episode_count": 7,
+      "show_count": 1,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》165-1｜刘邦这句话，差点弄丢大汉江山 [llXGisOMsdo8qjEeCGdG6fRRI_xq].md",
+          "key": "zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》165-1｜刘邦这句话，差点弄丢大汉江山",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭 [lhs6miq2aA3AvnnY_pRxTVKfxGvY].md",
+          "key": "zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》162-3｜嘴炮王郦食其，不动一兵拿下70余城 [lq88alGhXQxXcDdk4zZqODkEZipx].md",
+          "key": "zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》162-3｜嘴炮王郦食其，不动一兵拿下70余城",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》70丨喜欢花样作死的齐国君主 [luuYASP5_nhnIKDCozzAuEosb_MD].md",
+          "key": "zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》70丨喜欢花样作死的齐国君主",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》08丨一代名将吴起惨死（3） [ltcA_IKuZO9Ej7a0LFrGWV2_wulB].md",
+          "key": "zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》08丨一代名将吴起惨死（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》32丨“史上首位联合国秘书长”苏秦 [lgFkk45Yq1c0YBLequ-d1T7mol3_].md",
+          "key": "zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》32丨“史上首位联合国秘书长”苏秦",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！ [lkoMaa6QHwwQwmb48vxyAbAy0sKt].md",
+          "key": "zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/linzi/"
     },
     "LiquidSugarRisk": {
       "episode_count": 1,
@@ -53731,9 +53803,9 @@
       "url": "/wiki/entities/zhangbailulatehan/"
     },
     "ZhangBuEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -53755,6 +53827,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》697丨一口气看懂东汉名将耿弇的传奇人生",
           "url": "/wiki/sources/zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！ [lkoMaa6QHwwQwmb48vxyAbAy0sKt].md",
+          "key": "zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt/"
         }
       ],
       "updated": "2026-09-01",

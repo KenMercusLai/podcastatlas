@@ -1,34 +1,68 @@
 ---
 title: "临淄 / Linzi"
 type: entity
-tags: [city, qi-state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq, zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy, zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]
-last_updated: 2026-08-23
+knowledge_schema: synthesis-v1
+tags: [city, qi-state, pre-qin, warring-states, chu-han, eastern-han, china]
+sources:
+  - zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq
+  - zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy
+  - zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx
+  - zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md
+  - zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb
+  - zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3
+  - zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt
+last_updated: 2026-09-01
 ---
 
-# 临淄 / Linzi
+## Overview
 
-临淄 / Linzi appears in [[zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3]] as [[QiState|齐国]]'s capital and the centerpiece of [[SuQin|苏秦]]'s Qi persuasion. Su Qin describes it as having seventy thousand households and enough adult male population to imply major military capacity from the city alone.
+Linzi / 临淄 is synthesized as the recurring Qi regional center whose wiki role moves across urban prosperity, scholar patronage, conquest, diplomatic surrender, kingship, and later Eastern Han campaign tactics. Earlier Warring States sources use [[Linzi|临淄]] as evidence for [[QiState|齐国]]'s wealth and intellectual infrastructure; Chu-Han sources make it the capital where Qi's allegiance and [[HanXin|韩信]]'s power become politically decisive; [[zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt|Hanji 696]] adds a Guangwu-era layer where [[GengYanEasternHan|耿弇]] treats Linzi's reputation as misleading and captures it before defeating [[ZhangBuEasternHan|张步]].
 
-The source uses Linzi for more than demographic scale. It describes a dense, prosperous city with music, games, ball play, traffic, crowds, and confident public bearing, making Linzi a case for [[WarringStatesUrbanProsperity|Warring States urban prosperity]]. In Su Qin's rhetoric, that wealth and confidence become an argument for why Qi should not submit to [[QinState|秦国]] through fear.
+## Current Profile
 
-[[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb]] adds Linzi as the urban setting for [[JixiaAcademy|稷下学宫]]. The episode explains "Jixia" as the area under or near the Ji gate of the Qi capital, with lecture spaces by the Ji water, making Linzi's urban form part of [[QiState|齐国]]'s scholar-sponsorship system.
+In the Warring States branch, Linzi appears first as a strong capital and cultural center. [[zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3|Zhouji 32]] uses [[SuQin|苏秦]]'s Qi speech to describe population, entertainment, traffic, and public confidence as signs of [[WarringStatesUrbanProsperity|Warring States urban prosperity]]. [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb|Zhouji 08 part 3]] connects the same city to [[JixiaAcademy|稷下学宫]], making Qi's urban setting part of a scholar-sponsorship system.
 
-[[zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]] adds the reversal: after [[LeYi|乐毅]] defeats [[QiMinWang|齐湣王]]'s army, he enters Linzi and sends treasure and ritual valuables back to [[YanState|燕国]]. The same city that earlier served as evidence for Qi's confidence and [[WarringStatesUrbanProsperity|Warring States urban prosperity]] becomes the visible sign of Qi's political and military center failing.
+The fall branch reverses that strength. [[zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md|Zhouji 70]] says [[LeYi|乐毅]] takes Linzi after the anti-Qi coalition defeats [[QiMinWang|齐湣王]]'s army, and the city becomes an occupation prize whose treasure and ritual objects are sent to [[YanState|燕国]]. This does not erase the earlier prosperity evidence; it shows how a prosperous capital can become the visible object of collapse when ruler legitimacy and military defense fail together.
 
-[[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] adds a Chu-Han persuasion scene at Linzi. [[LiShiqi|郦食其]] comes to the Qi capital and persuades [[TianGuangQiKing|田广]] that the world is turning toward [[LiuBang|刘邦]] rather than [[XiangYu|项羽]]. Linzi therefore becomes the place where a capital's war posture relaxes before [[HanXin|韩信]] attacks anyway.
+In the Chu-Han branch, Linzi is a point where persuasion, command, and kingship collide. [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] places [[LiShiqi|郦食其]] there persuading [[TianGuangQiKing|田广]] to submit to [[LiuBang|刘邦]], only for Han Xin's unsynchronized attack to turn the diplomatic success into danger. [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]] then shows Qi leaders abandoning Linzi after the Lixia defeat, while [[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]] makes Linzi the place where [[ZhangLiang|张良]] formally grants Han Xin real Qi kingship and [[WuShe|武涉]] tries to persuade him toward a three-way balance.
 
-[[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]] adds Linzi's abandonment after Han Xin's attack and the Lixia defeat. [[TianGuangQiKing|田广]], [[TianHeng|田横]], and the Qi leadership can no longer hold the capital, so the Tian line disperses while Qi asks [[XiangYu|项羽]] for rescue. Linzi's Chu-Han branch therefore moves from diplomatic relaxation to capital loss.
+Hanji 696 adds the Eastern Han campaign layer. Geng Yan reads the defensive system around Xi'an, Linzi, and Ju by comparing actual strength rather than inherited prestige: Xi'an is smaller but more strongly held by Zhang Lan's elite force, while Linzi can be taken quickly despite its famous name. Once Linzi falls, Zhang Lan withdraws, Zhang Bu is provoked into a field attack, and the city becomes the bait and operating base for [[BattlefieldFeintAndLure|声东击西与诱敌]].
 
-[[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]] makes Linzi the title-conferral and persuasion setting after Qi's collapse. [[ZhangLiang|张良]] is sent there to make [[HanXin|韩信]] real king of Qi, and [[WuShe|武涉]] later meets Han Xin there to argue for [[TripartiteBalanceStrategy|三分天下式制衡]].
+## Key Characteristics
 
-## Connections
-- [[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]], [[ZhangLiang|张良]], [[HanXin|韩信]], [[WuShe|武涉]], and [[TripartiteBalanceStrategy|三分天下式制衡]] - Qi kingship conferral and Chu-side persuasion scene.
-- [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]], [[HanXin|韩信]], [[TianGuangQiKing|田广]], [[TianHeng|田横]], and [[LongJuChuGeneral|龙且]] - abandonment after Lixia and the Chu rescue request.
-- [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]], [[LiShiqi|郦食其]], [[TianGuangQiKing|田广]], [[LiuBang|刘邦]], and [[HanXin|韩信]] - Chu-Han persuasion scene and broken relaxation of Qi's defenses.
-- [[QiState|齐国]] - polity whose capital the source describes.
-- [[JixiaAcademy|稷下学宫]] and [[TianQiHuanGong|田武 / 田氏齐桓公]] - Zhouji 08 part 3 academy-origin branch.
-- [[SuQin|苏秦]], [[HezongAlliance|合纵]], and [[DignityBasedPersuasion|dignity-based persuasion]] - speech setting and rhetorical use.
-- [[WarringStatesUrbanProsperity|Warring States urban prosperity]] - concept extracted from the episode's Linzi description.
-- [[JixiaAcademy|稷下学宫]] and [[WarringStatesPeriod|战国时期]] - adjacent Qi urban and intellectual-history branch in the wiki.
-- [[LeYi|乐毅]], [[YanState|燕国]], [[QiMinWang|齐湣王]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - Zhouji 70 capital fall and plunder branch.
+- Qi regional capital whose reputation carries demographic, cultural, and political weight across several historical periods.
+- Warring States urban-prosperity case used to show population density, entertainment, traffic, and confidence as state-capacity signals.
+- Intellectual patronage setting through the Jixia Academy branch.
+- Conquest prize whose capture marks the collapse of Qi Min Wang's state in the anti-Qi coalition war.
+- Chu-Han diplomatic and kingship site where Qi submission, Han Xin's military merit, and Liu Bang's forced title concession intersect.
+- Eastern Han tactical target where Geng Yan distinguishes actual defensibility from famous-city prestige.
+- Recurring marker for moments when control of Qi-region authority changes hands.
+
+## Evidence
+
+- Urban capacity and intellectual setting: [[zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3|Zhouji 32]] uses Linzi's households, entertainment, vehicles, and crowds in Su Qin's anti-Qin persuasion, while [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb|Zhouji 08 part 3]] links the city to Jixia Academy.
+- Conquest and reversal: [[zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md|Zhouji 70]] says Le Yi takes Linzi and sends Qi treasure and ritual objects back to Yan after Qi's army collapses.
+- Chu-Han persuasion and failed coordination: [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]] places Li Shiqi's persuasion of Tian Guang at Linzi and shows Han Xin's attack undoing the diplomatic channel.
+- Chu-Han capital loss and kingship politics: [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]] says Qi leaders abandon Linzi after the Lixia defeat, while [[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]] makes it the setting for Zhang Liang's formal Qi kingship grant to Han Xin and Wu She's persuasion attempt.
+- Eastern Han tactical target: [[zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt|Hanji 696]] says Geng Yan falsely announces an attack on Xi'an, then takes Linzi in half a day and uses it to draw Zhang Bu into battle.
+
+## Qualifications
+
+This page synthesizes source-note uses of Linzi rather than a continuous urban history. The Warring States, Chu-Han, and Eastern Han episodes use the same regional city in different political contexts, so shared location should not flatten the distinct Qi-state, Qi-kingdom, and Guangwu-era campaign settings. Hanji 696's Xi'an, Ju, Pingshou, and subordinate-name details remain source-scoped pending fuller corroboration, and Linzi's famous status should not be treated as proof of equal military strength in every period.
+
+## What Changed
+
+- Migrated Linzi from a legacy freeform page to the `synthesis-v1` entity schema.
+- Added Hanji 696 as the Eastern Han tactical layer, where Geng Yan captures Linzi by distinguishing reputation from actual defensibility.
+- Reframed Linzi as a recurring Qi regional authority node rather than only a Warring States and Chu-Han capital.
+
+## Relationships
+
+- [[QiState|齐国]] - polity whose capital and regional identity give Linzi most of its source roles.
+- [[JixiaAcademy|稷下学宫]] - intellectual institution tied to Linzi's urban and scholar-sponsorship profile.
+- [[SuQin|苏秦]] - persuader who uses Linzi's prosperity as an anti-Qin argument.
+- [[LiShiqi|郦食其]] - Han envoy whose Linzi persuasion temporarily shifts Qi toward Liu Bang.
+- [[HanXin|韩信]] - commander whose Qi conquest and kingship make Linzi politically decisive in the Chu-Han branch.
+- [[GengYanEasternHan|耿弇]] - Eastern Han commander who captures Linzi through false-target tactics.
+- [[ZhangBuEasternHan|张步]] - Qi-region opponent drawn into battle after Linzi falls.
+- [[BattlefieldFeintAndLure|声东击西与诱敌]] - tactical pattern grounded by Geng Yan's Hanji 696 use of Linzi as bait and operating base.

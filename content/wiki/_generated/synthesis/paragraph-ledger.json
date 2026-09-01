@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9287e5576c2878262bd3a7a2580e6ed403fd10750df46953967a60782d2a7e76",
       "7fca9efaffda934b2463110796fbad62c8f352d25e375b24271513ad79b7e93d",
       "ae71dbdd6403a32e10267302cd073825e370d3b319cc3252cdb329bb1e7ce3a3",
       "fcccba5660d3f18e6fc8133ed6d0035e73063f41c69062b9098ceca724399c84",
@@ -489,11 +490,30 @@
       "669579ac551e015d5d6c20aa08ac0e7c674e0f7fafcd9adc5bebd4f22c5899ea",
       "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3"
     ],
-    "paragraph_count": 487
+    "paragraph_count": 488
   },
-  "overview_commit": "c3c41129e7e6e9ce9cbdf17827d39d740ed98eb7",
-  "overview_digest": "ddcccbbd0a73d86ba85a15a0e2501170f5bf692e71e98b046dee48f6652cf599",
+  "overview_commit": "4bce967b9cf9313b2dbc6696c428e445e5639dee",
+  "overview_digest": "184d8a17b8e7e6481512d75bb98e38fd7f39eb2c41a0c4829a3464d466ac5d27",
   "paragraphs": [
+    {
+      "id": "9287e5576c2878262bd3a7a2580e6ed403fd10750df46953967a60782d2a7e76",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt|《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 5 / 29 CE immediately before [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|Hanji 697]]. It extends [[GengYanEasternHan|耿弇]], [[ZhangBuEasternHan|张步]], [[LiuXiu|光武帝刘秀]], [[Linzi|临淄]], and [[BattlefieldFeintAndLure|声东击西与诱敌]]. Its core synthesis is that Geng Yan's Linzi victory is a chained tactical system: he reads Xi'an as strong and Linzi as vulnerable, announces one target while striking another, captures Linzi before Zhang Lan can adjust, provokes Zhang Bu into a tired attack, shows weakness to preserve enemy confidence, hides his own wound to protect morale, and prepares ambushes for the retreat. No settled contradiction is recorded; Zhang Lan, Zhang Hong, Zhang Shou, Chong Yi, Chen Jun, Liu Xing, Ju, Xi'an, Pingshou, exact force counts, and the \"比韩信更强\" title claim remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BattlefieldFeintAndLure",
+        "GengYanEasternHan",
+        "Linzi",
+        "LiuXiu",
+        "RuiqiJiangtouZizhiTongjian",
+        "ZhangBuEasternHan",
+        "zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt",
+        "zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c"
+      ]
+    },
     {
       "id": "7fca9efaffda934b2463110796fbad62c8f352d25e375b24271513ad79b7e93d",
       "primary_topic": "history-and-geopolitics",
