@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6234
+wiki_total_pages: 6237
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -668,6 +668,9 @@ wiki_pages:
   - key: "SleepWellPortfolioTest"
     title: "Sleep-Well Portfolio Test / 睡眠理论"
     url: "/wiki/concepts/sleepwellportfoliotest/"
+  - key: "SlightlyHarderChoice"
+    title: "Slightly Harder Choice"
+    url: "/wiki/concepts/slightlyharderchoice/"
   - key: "SlowExtractionStrategy"
     title: "Slow Extraction Strategy"
     url: "/wiki/concepts/slowextractionstrategy/"

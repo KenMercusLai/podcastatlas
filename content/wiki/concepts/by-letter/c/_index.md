@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6234
+wiki_total_pages: 6237
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1079,6 +1079,9 @@ wiki_pages:
   - key: "CompensatingDifferentials"
     title: "Compensating Differentials"
     url: "/wiki/concepts/compensatingdifferentials/"
+  - key: "CompetenceStatusMentalHealthBlindSpot"
+    title: "Competence-Status Mental Health Blind Spot"
+    url: "/wiki/concepts/competencestatusmentalhealthblindspot/"
   - key: "CompetitiveBillionaireWealth"
     title: "Competitive Billionaire Wealth"
     url: "/wiki/concepts/competitivebillionairewealth/"
@@ -1145,6 +1148,9 @@ wiki_pages:
   - key: "ConceptLedHospitality"
     title: "Concept Led Hospitality"
     url: "/wiki/concepts/conceptledhospitality/"
+  - key: "ConcernInfluenceSorting"
+    title: "Concern-Influence Sorting"
+    url: "/wiki/concepts/concerninfluencesorting/"
   - key: "ConcertResidencyEconomics"
     title: "Concert Residency Economics"
     url: "/wiki/concepts/concertresidencyeconomics/"

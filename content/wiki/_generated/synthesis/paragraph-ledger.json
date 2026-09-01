@@ -496,16 +496,17 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e",
       "669579ac551e015d5d6c20aa08ac0e7c674e0f7fafcd9adc5bebd4f22c5899ea",
+      "d19d6fd687edfadf345a5ed7cdb484b12b3e094432b695266fe78b383671f29a",
       "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3",
       "5ba1c7a478b342521c54a704f3662e19b3e2e992a9e88c2a01eb72bc8c596387",
       "9d36904e555be9bd3a64051aec40ec50d074a0fe33f5d94a41cd1392f151a764",
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 500
+    "paragraph_count": 501
   },
-  "overview_commit": "6375781ed5504fff98b7a55277ca116bd95d08f6",
-  "overview_digest": "d611f46a8f89200cbeec1f5ee69e2d802823aca23e97e51f8bf483d1a15a507e",
+  "overview_commit": "16709938eda03d629cb82b519ff5da44145bb6a1",
+  "overview_digest": "5d846ba26001f88bd4a638c6404cb1a4a4bec1def09ddd83a935b045436970ca",
   "paragraphs": [
     {
       "id": "b700e0dee012a1e272f3f6a610df05fa8fe58f55685e85e7f836bc81eee8f21b",
@@ -15169,6 +15170,36 @@
         "StaticStretchingDoseProtocol",
         "StretchingMobilitySafety",
         "essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831"
+      ]
+    },
+    {
+      "id": "d19d6fd687edfadf345a5ed7cdb484b12b3e094432b695266fe78b383671f29a",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099|The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf]], a [[HubermanLab]] episode with [[AndrewHuberman]] and [[AndyStumpf]] on [[Drownproof]], attention, discipline, risk, and mental-health vulnerability. It adds [[AndyStumpf]], [[Drownproof]], [[ConcernInfluenceSorting]], [[SlightlyHarderChoice]], and [[CompetenceStatusMentalHealthBlindSpot]], while extending [[HubermanLab]], [[AndrewHuberman]], [[DisciplineOverMotivation]], [[ActionAfterAdversity]], [[ExtremeEnvironmentRiskManagement]], [[OutdoorFlowState]], and [[KnowingEnough]]. Its core synthesis is that agency is built by distinguishing concern from influence, repeatedly choosing small harder actions, treating high-risk survival as weaker evidence than honest mastery, staying open about pain and isolation, and defining enough before success damages relationships and life. No settled contradiction is recorded; social-media, alcohol, cannabis, cold-exposure, anterior mid-cingulate, suicide, wingsuiting, and daily-discipline claims remain source-scoped public conversation rather than medical, mental-health, or extreme-sport instruction.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 2,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ActionAfterAdversity",
+        "AndrewHuberman",
+        "AndyStumpf",
+        "CompetenceStatusMentalHealthBlindSpot",
+        "ConcernInfluenceSorting",
+        "DisciplineOverMotivation",
+        "Drownproof",
+        "ExtremeEnvironmentRiskManagement",
+        "HubermanLab",
+        "KnowingEnough",
+        "OutdoorFlowState",
+        "SlightlyHarderChoice",
+        "the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099"
       ]
     },
     {

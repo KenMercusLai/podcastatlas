@@ -14891,3 +14891,11 @@ Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 2 / 
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] ingest | The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf
+
+Ingested the 2026-06-15 Huberman Lab episode with Andrew Huberman and Andy Stumpf on concern versus influence, small daily discipline, wingsuit and base-jump risk, divorce, parenting estrangement, pain disclosure, suicide, veteran transition, and defining enough. Added source `the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099`; created `AndyStumpf`, `Drownproof`, `ConcernInfluenceSorting`, `SlightlyHarderChoice`, and `CompetenceStatusMentalHealthBlindSpot`; updated `HubermanLab`, `AndrewHuberman`, `DisciplineOverMotivation`, `ActionAfterAdversity`, `OutdoorFlowState`, `ExtremeEnvironmentRiskManagement`, `KnowingEnough`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; social-media, alcohol, cannabis, cold-exposure, anterior mid-cingulate, suicide, wingsuiting, and daily-discipline claims remain source-scoped public conversation rather than medical, mental-health, or extreme-sport instruction.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

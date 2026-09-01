@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-02
-as_of_overview_commit: e3d560b16619a70f934df2a160a0cd385275e487
-input_digest: ec1d5785c2d98f50a2c757e98d1bca6673885593c847a24bc79adf24a7c5db42
+as_of_overview_commit: 16709938eda03d629cb82b519ff5da44145bb6a1
+input_digest: 73d9a92bb9f4220f8035b2a0392ad615d8103f96babaef7731d0301500a2c206
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 697 adds a narrow historical self-command and status-judgment branch around Geng Yan's command composure, Liu Xiu's trust signal toward Feng Yi, Zhang Bu's constrained surrender, and Zheng Xing's warning against Wei Xiao's overreach. Hanji 699 PLUS adds a narrow historical self-command layer: Liu Xiu ruler capacity is read through emotional restraint after Liu Yan death, trust repair after Wang Lang defeat, and the broader cultivated-capacity frame. The substantive claim remains history and governance, not clinical advice. Hanji 702, Hanji 705-1, Hanji 713, Hanji 736, Hanji 744-745, Hanji 753, relationship science, workplace abuse, emotion regulation, meditation, discipline, movement practice, and AI/workplace trust remain the main existing psychology-and-personal-development branches. Araceli Segarra's Everest interview adds a mountaineering branch where fear, uncertainty, rescue capacity, team trust, and the AI how/human why boundary become practical identity-and-judgment material.
+Hanji 697, 699 PLUS, 702, 705-1, 713, 736, 744-745, 753, 798, 892, 901, 902, and late-Han/Liu Bei/Cao Cao/Yuan-family cases keep the historical side of this topic focused on self-command, status reading, loyalty, speech restraint, emotion concealment, and judgment under authority rather than clinical advice. The modern branch covers relationship science, workplace abuse boundaries, functional emotion regulation, meditation and no-self practice, music therapy, creativity, state-dependent self-control, discipline and action after adversity, movement as awareness, AI/workplace trust, sports confidence, companion-animal owner state, and Everest-style fear/team-trust judgment. Andy Stumpf adds an agency-and-vulnerability branch in which concern-influence sorting, slightly harder daily choices, Drownproof, pain disclosure, high-risk survival humility, and defining enough connect discipline to mental-health boundaries rather than simple toughness.
 
 ## Cross-source Findings
 
@@ -591,3 +591,15 @@ The Eastwick Huberman Lab paragraph adds a relationship-science claim: [[Idiosyn
 
 - The evidence is one interview source and should not be treated as a technical mountaineering safety manual or complete Everest chronology.
 - Aracely Sagara and Aracely in the transcript are normalized to Araceli Segarra through the source metadata.
+
+### Agency Practice Needs Influence Sorting And Vulnerability
+
+[[ConcernInfluenceSorting]], [[SlightlyHarderChoice]], and [[CompetenceStatusMentalHealthBlindSpot]] add an agency-and-vulnerability branch: [[AndyStumpf]] frames self-command as moving attention from concern to influence, rehearsing small harder choices through [[DisciplineOverMotivation]], treating [[Drownproof]] and wingsuit survival as weaker evidence than mastery under [[ExtremeEnvironmentRiskManagement]], and keeping pain, isolation, relationship repair, and the cost of success discussable through [[ActionAfterAdversity]], [[OutdoorFlowState]], and [[KnowingEnough]].
+
+**Evidence:** [[the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099]], [[AndyStumpf]], [[ConcernInfluenceSorting]], [[SlightlyHarderChoice]], [[CompetenceStatusMentalHealthBlindSpot]], [[DisciplineOverMotivation]], [[Drownproof]], [[ExtremeEnvironmentRiskManagement]], [[ActionAfterAdversity]], [[OutdoorFlowState]], [[KnowingEnough]], [[AndrewHuberman]], [[HubermanLab]]
+
+**Qualifications:**
+
+- The Stumpf episode is public conversation about discipline, risk, and mental-health vulnerability rather than clinical advice or a universal resilience protocol.
+- Substance, social-media, cold-exposure, anterior mid-cingulate, suicide, pain-disclosure, and parenting claims remain source-scoped and should not be converted into medical or mental-health instruction.
+- Military, divorce, wingsuiting, base-jumping, and entrepreneurial-success examples are high-context cases, not proof that hardship or extreme risk is required for agency.

@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-02
-as_of_overview_commit: dae5aa11bdca95be55fc86b74211d49f7d08065c
-input_digest: c1c1d18507ea3b0ccc910171bee877652e12ba76ccdc1a26a5b2e9b92444e41d
+as_of_overview_commit: 16709938eda03d629cb82b519ff5da44145bb6a1
+input_digest: 7eb949675c3a3b2397e7e0d7c16c6447631e157a4cc31b6dd1d2f01f51bf7120
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-VOL.221 adds a metabolic-tool boundary to science-health-and-climate: CGM is strongest for diabetes safety and contextual pattern feedback, while healthy-person metric chasing can become wearable-data anxiety; GLP-1 drugs remain useful in selected diabetes, obesity, and metabolic-risk contexts but require indication, adverse-effect, muscle-preservation, rebound, mood, contraindication, and lifestyle-maintenance boundaries. The topic now joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: measurement, mechanism, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Recent health branches cover CGM and GLP-1, headphone exposure, ear-canal inflammation, tinnitus and sudden hearing-change escalation, sugar-control literacy, functional-food and supplement-claim boundaries, flexible fundamentals for sleep, circadian timing, recovery, fertility, and nutrition, male and female hormone phenotyping, exercise-risk and flexibility-stretching dose boundaries, diagnostic safety netting, spine rehabilitation, metabolic psychiatry, bipolar and OCD care, insect-bite prevention and escalation, individualized cancer vaccines, companion-animal welfare, historical death-cause inference for Liu Xiu, and evidence-bounded body-composition fundamentals. The nonclinical strands show the same pattern in Himalayan glacial-flood risk, space launch, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped medical or cultivation claims.
+Science-health-and-climate joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: mechanism, measurement, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Health branches cover CGM and GLP-1 boundaries, headphone exposure, sugar and functional-food literacy, flexible sleep/circadian/recovery fundamentals, hormone phenotyping, exercise and flexibility safety, diagnostic safety netting, spine rehabilitation, metabolic psychiatry, bipolar and OCD care, bite escalation, individualized cancer vaccines, companion-animal welfare, and evidence-bounded body-composition fundamentals. The nonclinical strands apply the same boundary logic to Himalayan glacial floods, space launch capacity, reusable rockets, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped cultivation or historical health claims. Andy Stumpf adds a public-conversation boundary for social-media attention, substance risk, cold stress, mental-health disclosure, and extreme-environment risk, treated as source-scoped rather than medical, psychiatric, addiction, or sport instruction.
 
 ## Cross-source Findings
 
@@ -357,3 +357,15 @@ The Eastwick paragraph extends Huberman Lab public-science boundaries into relat
 - The claim is grounded in a journalistic episode summary, not a full hydrological hazard model.
 - Casualty, missing-person, hydropower-loss, and recovery-cost figures are a September 1, 2026 rescue snapshot.
 - Hydropower concentration is treated as an exposure amplifier, not as the cause of the avalanche or dam breach.
+
+### Agency And Extreme Risk Claims Need Health Boundaries
+
+[[the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099]] adds a science-health boundary around agency and risk: [[AndrewHuberman]] and [[AndyStumpf]] discuss social-media attention, alcohol and cannabis risk, cold exposure, anterior mid-cingulate/tenacity, suicide and pain disclosure, and wingsuit/base-jump danger through [[ConcernInfluenceSorting]], [[SlightlyHarderChoice]], and [[ExtremeEnvironmentRiskManagement]], but the topic treats those as source-scoped public conversation rather than medical, psychiatric, addiction, or extreme-sport instruction.
+
+**Evidence:** [[the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099]], [[AndrewHuberman]], [[AndyStumpf]], [[HubermanLab]], [[ConcernInfluenceSorting]], [[SlightlyHarderChoice]], [[ExtremeEnvironmentRiskManagement]], [[CompetenceStatusMentalHealthBlindSpot]], [[Drownproof]], [[ActionAfterAdversity]], [[OutdoorFlowState]]
+
+**Qualifications:**
+
+- The Stumpf episode is a public interview, not individualized medical, psychiatric, addiction, suicide-prevention, performance, cold-exposure, or extreme-sport advice.
+- Claims about alcohol, cannabis, social media, cold stress, anterior mid-cingulate, suicide, pain disclosure, and daily discipline remain source-scoped until grounded by stronger dedicated evidence pages.
+- Wingsuiting and base jumping are treated as extreme-environment risk narratives, not recommended stress-training or health practices.
