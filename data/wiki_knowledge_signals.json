@@ -7207,6 +7207,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/chenshoutaishilinglatehan/"
     },
+    "ChenYuanEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云 [lq2M06p7eCzJ9eBysxpL84BKzZi-].md",
+          "key": "zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/chenyuaneasternhan/"
+    },
     "ChenYuanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -12290,6 +12306,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/dushanglatehan/"
     },
+    "DuShiEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云 [lq2M06p7eCzJ9eBysxpL84BKzZi-].md",
+          "key": "zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/dushieasternhan/"
+    },
     "DuXiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -16584,9 +16616,9 @@
       "url": "/wiki/concepts/forgededictprivateextraction/"
     },
     "FortifiedAttritionPatience": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -16622,9 +16654,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》820丨职场警示！小心领导让你背黑锅",
           "url": "/wiki/sources/zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云 [lq2M06p7eCzJ9eBysxpL84BKzZi-].md",
+          "key": "zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-01",
       "url": "/wiki/concepts/fortifiedattritionpatience/"
     },
     "FortressSecurityIllusion": {
@@ -19492,9 +19531,9 @@
       "url": "/wiki/entities/guohonglatehan/"
     },
     "GuoJiEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？ [liib38zUB0_tgRBTYcmlQvOHV-w-].md",
@@ -19509,6 +19548,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云 [lq2M06p7eCzJ9eBysxpL84BKzZi-].md",
+          "key": "zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi/"
         }
       ],
       "updated": "2026-09-01",
@@ -25576,9 +25622,9 @@
       "url": "/wiki/entities/laililatehan/"
     },
     "LaiXiEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -25593,6 +25639,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件",
           "url": "/wiki/sources/zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云 [lq2M06p7eCzJ9eBysxpL84BKzZi-].md",
+          "key": "zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi/"
         }
       ],
       "updated": "2026-09-01",
@@ -26454,9 +26507,9 @@
       "url": "/wiki/entities/litanlatehan/"
     },
     "LiTongEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？ [lt7RX7TbLODJfNGqfdq33IKrcmyN].md",
@@ -26464,6 +26517,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云 [lq2M06p7eCzJ9eBysxpL84BKzZi-].md",
+          "key": "zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi/"
         }
       ],
       "updated": "2026-09-01",
@@ -28249,9 +28309,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 25,
+      "episode_count": 26,
       "show_count": 2,
-      "source_note_count": 25,
+      "source_note_count": 26,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -28427,6 +28487,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云 [lq2M06p7eCzJ9eBysxpL84BKzZi-].md",
+          "key": "zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi/"
         }
       ],
       "updated": "2026-09-01",
@@ -47596,9 +47663,9 @@
       "url": "/wiki/entities/weitenglatehan/"
     },
     "WeiXiaoEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -47613,6 +47680,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云 [lq2M06p7eCzJ9eBysxpL84BKzZi-].md",
+          "key": "zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi/"
         }
       ],
       "updated": "2026-09-01",
@@ -53301,9 +53375,9 @@
       "url": "/wiki/entities/zhengsalatehan/"
     },
     "ZhengXingEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？ [lrHWUpjmjM_hCH3usx26JfxKhOMa].md",
@@ -53311,9 +53385,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云 [lq2M06p7eCzJ9eBysxpL84BKzZi-].md",
+          "key": "zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url": "/wiki/entities/zhengxingeasternhan/"
     },
     "ZhengZhongEasternHan": {

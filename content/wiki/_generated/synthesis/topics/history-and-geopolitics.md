@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-01
-as_of_overview_commit: a199c35a478679c2eb22f547f38daa367755c9b6
-input_digest: ee33fd82c6ccdf7a5a5e4706f58abf6be3d8b1d95767c51a0eca49d6822a2c40
+as_of_overview_commit: 4dde90e51fdba1d5fbf784e27e6726a012fc39a2
+input_digest: 1a9ffe2604cad9348aa9959264b3ac5b59f724ba551d6ca1999d3f997c6d7073
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 705-2 now precedes Hanji 705-3 and Hanji 705-4 in the Ban Chao arc: it backfills Ban-family historiography, Ban Gu's early `Han Shu` crisis, copyist frustration, `投笔从戎`, and delayed readiness before the 73 CE campaign, while Hanji 705-3 integrates the early Shanshan, Khotan, Shule, and recall-crisis sequence and Hanji 705-4 supplies the later key-node, proxy, supply, and diplomatic capstone. Hanji 707, Hanji 709, and Hanji 710 move the early Eastern Han historical branch back to Jianwu 8-11 / 32-35 CE before Hanji 711; Hanji 712-713 then move the branch to the Jianwu 12 / 36 CE Shu campaign and its conquest-legitimacy problem. Hanji 724, Hanji 726, Hanji 729, and Hanji 730 backfill late Guangwu frontier, Ma Yuan, Xiongnu, Wuhuan, Ban Biao, and Taishan-fengshan layers; Hanji 733-2 moves the branch back to Liu Xiu founding before Yongping; and Hanji 733-3 adds a classical-text reception branch through HanyaoFu, fate, timing, and reversal. Roman Civil War Part 1 adds a Roman-Republic crisis branch, and South Africa/Mandela adds a twentieth-century reconciliation-symbol branch.
+Hanji 705-1 now anchors the earliest current Guangwu layer: demobilization, eclipse remonstrance, amnesty, senior-minister trust, Nanyang welfare governance, and Lüeyang attrition against Wei Xiao. Hanji 705-2 through 705-4 then build Ban Chao from family historiography and delayed readiness into Western Regions key-node, proxy, supply, and diplomatic strategy. Hanji 707-713 fill the Jianwu 8-12 Eastern Han sequence from Dou Rong security submission and Wei Xiao resistance through Lai Xi, Cen Peng, Wu Han, Shu conquest, and surrender-trust repair. Later Guangwu sources continue frontier, Ma Yuan, Xiongnu, Wuhuan, Ban Biao, Taishan-fengshan, and Geng Yan founding-coalition layers; other topic material includes Roman-Republic crisis and South Africa/Mandela reconciliation-symbol statecraft.
 
 ## Cross-source Findings
+
+### Early Eastern Han 705 1 Guangwu Correction And Lueyang Attrition
+
+[[zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi|Hanji 705-1]] backfills Jianwu 7-8 / 31-32 CE before [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|Hanji 707]] and [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|Hanji 708]]: [[LiuXiu]] lowers domestic pressure by demobilizing local soldiers, using eclipse consultation to accept [[ZhengXingEasternHan]] and [[ChenYuanEasternHan]] remonstrance, issuing amnesty, and appointing [[LiTongEasternHan]], while [[DuShiEasternHan]] shows welfare governance and [[LaiXiEasternHan]] turns Lüeyang into [[FortifiedAttritionPatience]] against [[WeiXiaoEasternHan]].
+
+**Evidence:** [[zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi]], [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv]], [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq]], [[LiuXiu]], [[ZhengXingEasternHan]], [[ChenYuanEasternHan]], [[LiTongEasternHan]], [[DuShiEasternHan]], [[LaiXiEasternHan]], [[FortifiedAttritionPatience]], [[WeiXiaoEasternHan]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 705-1 and backfills Jianwu 7-8 / 31-32 CE before Hanji 707 and Hanji 708.
+- Guo Xian, Wang Zun, Zhu Zeng, Xin Tong, named Wei/Gongsun subcommanders, exact routes, and force details remain source-scoped.
+- The source supports a correction-and-timing reading, not a claim that every amnesty, appointment, or military move was caused only by one adviser or one fortress.
 
 ### Late Han 705 2 Ban Chao Origin And Ban Family Prelude
 

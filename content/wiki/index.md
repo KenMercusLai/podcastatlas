@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云](sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi.md) — Jianwu 7-8 Guangwu episode on demobilizing local soldiers, eclipse sealed memorials, Zheng Xing and Chen Yuan remonstrances, amnesty, Li Tong's Da Sikong appointment, Du Shi's Nanyang governance, and Lai Xi's Lüeyang attrition trap against Wei Xiao.
 - [《资治通鉴·汉纪》705-2丨班超：历史上投笔从戎第一人](sources/zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb.md) — 芮淇讲透资治通鉴 episode on Ban Chao's Ban-family historiographical background, Ban Biao's restoration-era choices, Ban Gu's private-history accusation, Ban Chao's Luoyang appeal, copyist years, `投笔从戎`, and 73 CE enlistment.
 - [《资治通鉴·汉纪》705-3丨古代特种兵班超，一个敢于单枪匹马深入敌背的传奇](sources/zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc.md) — 芮淇讲透资治通鉴 episode recapping Ban Chao's early Western Regions arc through Shanshan shock diplomacy, Khotan shaman politics, Shule regime restoration, and the recall crisis after Mingdi's death.
 - [《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家](sources/zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7.md) — 芮淇讲透资治通鉴 episode on Ban Chao's late Western Regions strategy, Qiuci/Yanqi key-node diagnosis, Wusun contact, Shache deception, Yuezhi/Kushan supply-line defeat, Qiuci submission, Dingyuan marquisate, and final Luoyang return.
@@ -1843,14 +1844,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [祭遵 / Ji Zun (Eastern Han)](entities/JiZunEasternHan.md) — Guangwu commander remembered as clean, disciplined, reward-sharing, and thin-burial minded after his Jianwu 9 death.
 - [姚期 / Yao Qi (Eastern Han)](entities/YaoQiEasternHan.md) — Guangwu commander who warns Liu Xiu that repeated praise of Ji Zun is frightening and shaming living ministers.
 - [温序 / Wen Xu (Eastern Han)](entities/WenXuEasternHan.md) — Liu Xiu-aligned official captured by Wei Xiao's side who kills himself rather than surrender.
-- [来歙 / Lai Xi (Eastern Han)](entities/LaiXiEasternHan.md) — Liu Xiu-aligned planner and commander who turns Longxi/Tianshui reduction into Longyou stabilization before assassination.
+- [来歙 / Lai Xi (Eastern Han)](entities/LaiXiEasternHan.md) — Liu Xiu-aligned western commander whose Lüeyang seizure, Longxi/Tianshui planning, Longyou stabilization, and assassination frame the western campaign.
 - [环安 / Huan An (Eastern Han)](entities/HuanAnEasternHan.md) — Gongsun Shu-side commander whose Lai Xi assassination proposal pairs command targeting with Qiang agitation.
 - [鲍永 / Bao Yong (Eastern Han)](entities/BaoYongEasternHan.md) — Sili xiaowei whose impeachment of royal-kin misconduct anchors a two-Bao enforcement reputation.
-- [隗嚣 / Wei Xiao (Eastern Han)](entities/WeiXiaoEasternHan.md) — Western rival whose death does not end resistance because Wei Chun continues with Gongsun Shu support.
+- [陈元 / Chen Yuan (Eastern Han remonstrant)](entities/ChenYuanEasternHan.md) — Guangwu-era remonstrant who warns Liu Xiu against suspicious supervision of the Three Excellencies.
+- [隗嚣 / Wei Xiao (Eastern Han)](entities/WeiXiaoEasternHan.md) — Western rival drawn into Lüeyang attrition before later refusal, outside rescue, famine death, and Wei Chun continuation.
 - [岑彭 / Cen Peng (Eastern Han)](entities/CenPengEasternHan.md) — Guangwu commander whose water-command authority, bridge attack, no-plunder discipline, fast Shu breakthrough, assassination, and local memory span Hanji 710-711.
 - [臧宫 / Zang Gong (Eastern Han)](entities/ZangGongEasternHan.md) — Shu-campaign commander under Cen Peng who turns unstable surrendered troops and new supplies into a tempo-and-intimidation victory over Yan Cen.
-- [郭伋 / Guo Ji (Eastern Han)](entities/GuoJiEasternHan.md) — Bingzhou governor whose advice to Liu Xiu criticizes Nanyang-heavy appointments and argues for nationwide official selection.
-- [李通 / Li Tong (Eastern Han)](entities/LiTongEasternHan.md) — Guangwu-era founding-merit figure who returns full office but keeps honored court access, distinct from the later Cao-era Li Tong.
+- [郭伋 / Guo Ji (Eastern Han)](entities/GuoJiEasternHan.md) — Publicly trusted Da Sikong candidate, Yingchuan bandit pacifier, and Bingzhou governor arguing for nationwide official selection.
+- [李通 / Li Tong (Eastern Han)](entities/LiTongEasternHan.md) — Guangwu-era founding-merit figure appointed Da Sikong in 31 CE who later returns full office but keeps honored court access.
+- [杜诗 / Du Shi (Eastern Han)](entities/DuShiEasternHan.md) — Nanyang administrator remembered for clean rule, water works, land opening, and household prosperity under Guangwu.
 - [公孙述 / Gongsun Shu (Eastern Han)](entities/GongsunShuEasternHan.md) — Shu-based rival ruler whose western support, assassination responses, refused surrender, Chengdu counterattacks, final battlefield collapse, and post-surrender violence frame the Shu war.
 - [严岑 / 颜岑 / Yan Cen](entities/YanCenEasternHan.md) — Final Chengdu commander who urges continued battle, briefly defeats Wu Han through a rear-cavalry feint, then surrenders after Gongsun Shu's mortal wound.
 - [李涅 / Li Nie](entities/LiNieEasternHan.md) — Guanghan scholar who drinks poison rather than accept Gongsun Shu's coerced office summons.
@@ -1934,7 +1937,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [阴兴 / Yin Xing (Guangwu maternal kin)](entities/YinXingGuangwuMaternalKin.md) — Guangwu maternal relative whose crown-prince guidance, public-minded recommendations, illness-crisis trust, and great-marshalship refusal model outer-relative restraint.
 - [河东裴氏 / Hedong Pei Clan](entities/HedongPeiClan.md) — Wenxi-origin elite lineage presented through official-count scale, Pei Bai "Chancellor Village", and source-scoped family rules as a durability explanation.
 - [桓谭 / Huan Tan (Eastern Han)](entities/HuanTanEasternHan.md) — Guangwu-era scholar whose anti-chenwei remonstrance and Lingtai answer nearly lead to execution.
-- [郑兴 / Zheng Xing (Eastern Han)](entities/ZhengXingEasternHan.md) — Guangwu-era official used as a face-saving ambiguity contrast in the chenwei speech-risk comparison.
+- [郑兴 / Zheng Xing (Eastern Han)](entities/ZhengXingEasternHan.md) — Guangwu-era official whose eclipse remonstrance and chenwei ambiguity show policy correction under imperial preference.
 - [Frost & Sullivan / 弗若斯特沙利文](entities/FrostSullivan.md) — Third-party consulting and market-research provider named in the Lao Pu Gold disclosure-quality critique.
 - [South Africa](entities/SouthAfrica.md) — Post-apartheid national setting where Mandela uses rugby and anthem symbolism to stage reconciliation.
 - [Nelson Mandela](entities/NelsonMandela.md) — South African leader whose Springbok and anthem decisions anchor the episode's reconciliation-statecraft branch.
@@ -7315,7 +7318,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose failure during the succession crisis opened the way for Wang Zhengjun and Wang Mang.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated by Wang Mang, whose illness and death preceded Wang Mang's move into acting-emperor status.
 - [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now spans anti-Qin rise, Chu-Han victory, reward settlement, frontier suspicion, and court ritual repair.
-- [Liu Xiu / 刘秀](entities/LiuXiu.md) — Eastern Han founder synthesized through restoration warfare, illness and succession anxiety, capacity-bound Western Regions hostage/refusal tactics, Southern Xiongnu acceptance, Wuling and Wuhuan frontier settlement, court judgment in Ma Yuan's case, Northern Xiongnu restraint and diplomacy, chenwei reliance and control, founding coalition command, personnel recognition, tomb restraint, Taishan refusal and later fengshan, succession handoff, hostage deterrence, and Guangwu ritual memory.
+- [Liu Xiu / 刘秀](entities/LiuXiu.md) — Eastern Han founder synthesized through restoration warfare, early demobilization and amnesty, eclipse remonstrance, senior-minister trust correction, Lüeyang attrition timing, local welfare governance, illness and succession anxiety, frontier settlement, chenwei reliance and control, founding coalition command, personnel recognition, Taishan refusal and later fengshan, hostage deterrence, and Guangwu ritual memory.
 - [贾复 / Jia Fu (Eastern Han)](entities/JiaFuEasternHan.md) — Eastern Han founding general whose 55 CE death notice preserves battlefield risk, quiet merit, and Liu Xiu's recognition of service.
 - [耿弇 / Geng Yan (Eastern Han)](entities/GengYanEasternHan.md) — Eastern Han founding general whose Liu Xiu alignment, Youzhou cavalry role, campaign tactics, and post-merit retreat anchor Hanji 733-2.
 - [吴汉 / Wu Han (Eastern Han)](entities/WuHanEasternHan.md) — Liu Xiu founding general whose profile spans Youzhou recruitment, Qinghe operations, Chengdu overreach and recovery, post-surrender atrocity, later honor, and deathbed discipline.
@@ -11655,7 +11658,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Renyi-Grounded Virtue / 仁义为本的信勇](concepts/RenyiGroundedVirtue.md) — Qinji 119 standard that visible trust, courage, beneficence, and self-sacrifice count as virtue only when grounded in 仁义 and sound public judgment.
 - [Pre-Qin Surname-Clan Identity / 先秦姓氏身份](concepts/PreQinSurnameClanIdentity.md) — Identity-reading frame for using pre-Qin 姓/氏 distinctions to interpret Changping Jun/Xiong Qi's Chu royal affiliation without flattening names into modern surname logic.
 - [Conquest Commandery Transition / 灭国后的郡县化过渡](concepts/ConquestCommanderyTransition.md) — Qinji 118-2 frame for converting conquered Chu territory into temporary and then subdivided commanderies after battlefield victory.
-- [Fortified Attrition Patience / 坚壁耗敌式耐心](concepts/FortifiedAttritionPatience.md) — Strategy pattern where commanders preserve position, logistics, morale, and surrender credibility while waiting for fatigue, movement, or submission readiness.
+- [Fortified Attrition Patience / 坚壁耗敌式耐心](concepts/FortifiedAttritionPatience.md) — Strategy pattern where defended or newly captured positions, logistics, morale, and surrender credibility are used while waiting for enemy fatigue, movement, or submission readiness.
 - [Chu Three-Households Anti-Qin Memory / 楚虽三户式反秦记忆](concepts/ChuThreeHouseholdsAntiQinMemory.md) — Memory frame where Xiang Yan's defeat is tied to "楚虽三户，亡秦必楚" and later Chu-linked anti-Qin actors.
 - [Hydraulic Siege Warfare / 水攻围城](concepts/HydraulicSiegeWarfare.md) — Siege frame for Wang Ben turning Daliang's water environment into the mechanism of Wei's collapse.
 - [布衣之怒 / Cloth-Clad Anger Persuasion](concepts/ClothCladAngerPersuasion.md) — Tang Ju's scale-shifting counter-threat against Ying Zheng's "天子之怒".

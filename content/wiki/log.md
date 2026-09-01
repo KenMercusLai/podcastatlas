@@ -14643,3 +14643,11 @@ Ingested the 2026-06-18 芮淇讲透资治通鉴 episode backfilling Ban Chao's 
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云
+
+Ingested the 2026-06-18 芮淇讲透资治通鉴 episode backfilling Jianwu 7-8 / 31-32 CE: Liu Xiu's demobilization, eclipse sealed memorials, Zheng Xing and Chen Yuan remonstrances, amnesty, Li Tong's Da Sikong appointment, Du Shi's Nanyang governance, and Lai Xi's Lüeyang strike drawing Wei Xiao into attrition. Added source `zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi`; created `ChenYuanEasternHan` and `DuShiEasternHan`; updated `LiuXiu`, `ZhengXingEasternHan`, `LaiXiEasternHan`, `WeiXiaoEasternHan`, `GuoJiEasternHan`, `LiTongEasternHan`, `FortifiedAttritionPatience`, overview, and index. No settled contradiction found; Guo Xian, Wang Zun, Zhu Zeng, Xin Tong, and minor campaign figures remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

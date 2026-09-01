@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b1143a42ae79f3f34ece884060b220799414166874080850f12e59d1b6684221",
       "f1228ec71688f6d09956c176a2f9c8efeb2527e40780b79680755d8942ce3a55",
       "f227651f7f0ff51208dc5e295d7f48b923867b956e7cfcbbe174b8ccfa05f8bb",
       "368dd996da162a9dfaed7145238c392d7480b5aeda76c9f7519357934d13b6ca",
@@ -474,11 +475,38 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 472
+    "paragraph_count": 473
   },
-  "overview_commit": "a199c35a478679c2eb22f547f38daa367755c9b6",
-  "overview_digest": "24d0e59ba78dcff970722c2c394879605e2bc5c3fcb12fb941c4136801cd4f9d",
+  "overview_commit": "4dde90e51fdba1d5fbf784e27e6726a012fc39a2",
+  "overview_digest": "6733b89822c370cb2176510cce2b8e5dea043222962fdbd46677b33cf0207652",
   "paragraphs": [
+    {
+      "id": "b1143a42ae79f3f34ece884060b220799414166874080850f12e59d1b6684221",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi|《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 7-8 / 31-32 CE before [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|Hanji 707]] and [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|Hanji 708]]. It adds [[ChenYuanEasternHan|陈元]] and [[DuShiEasternHan|杜诗]], while extending [[LiuXiu|光武帝刘秀]], [[ZhengXingEasternHan|郑兴]], [[LaiXiEasternHan|来歙]], [[WeiXiaoEasternHan|隗嚣]], [[GuoJiEasternHan|郭伋]], [[LiTongEasternHan|李通]], and [[FortifiedAttritionPatience|坚壁耗敌式耐心]]. Its core synthesis is that early Guangwu consolidation moves by controlled reduction and timed correction: demobilization and amnesty lower domestic pressure, eclipse remonstrance opens personnel and senior-minister trust adjustments, Du Shi shows welfare delivery, and Lüeyang lets Liu Xiu turn Wei Xiao's anger into costly siege exhaustion. No settled contradiction is recorded; Guo Xian's chariot-stopping scene, Wang Zun, Zhu Zeng, Xin Tong, and named Wei/Gongsun subcommanders remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "ChenYuanEasternHan",
+        "DuShiEasternHan",
+        "FortifiedAttritionPatience",
+        "GuoJiEasternHan",
+        "LaiXiEasternHan",
+        "LiTongEasternHan",
+        "LiuXiu",
+        "RuiqiJiangtouZizhiTongjian",
+        "WeiXiaoEasternHan",
+        "ZhengXingEasternHan",
+        "zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi",
+        "zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv",
+        "zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq"
+      ]
+    },
     {
       "id": "f1228ec71688f6d09956c176a2f9c8efeb2527e40780b79680755d8942ce3a55",
       "primary_topic": "history-and-geopolitics",
