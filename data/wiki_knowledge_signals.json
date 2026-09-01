@@ -4122,9 +4122,9 @@
       "url": "/wiki/entities/balthazargerard/"
     },
     "BanBiaoEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？ [loADjkevHJIE2yUR8U23OX2_gMCE].md",
@@ -4153,6 +4153,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》705-2丨班超：历史上投笔从戎第一人",
           "url": "/wiki/sources/zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》694丨《王命论》揭露东汉什么隐秘？ [lvSRsEvrkj9UkCtH6qbALnt6buf8].md",
+          "key": "zizhi-tongjian-hanji-694-wangminglun-jielu-donghan-shenme-yinmi-lvsrsevrkj9ukcth6qbalnt6buf8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》694丨《王命论》揭露东汉什么隐秘？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-694-wangminglun-jielu-donghan-shenme-yinmi-lvsrsevrkj9ukcth6qbalnt6buf8/"
         }
       ],
       "updated": "2026-09-01",
@@ -47001,9 +47008,9 @@
       "url": "/wiki/entities/tiresias/"
     },
     "TitleRealityRestraint": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1001丨为什么劝你不要犯众怒？ [loLurKCjpIE14NNCZk0Tu7iQerKe].md",
@@ -47032,9 +47039,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1055丨他为表忠心，愿喝用自己儿子熬的肉汤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》694丨《王命论》揭露东汉什么隐秘？ [lvSRsEvrkj9UkCtH6qbALnt6buf8].md",
+          "key": "zizhi-tongjian-hanji-694-wangminglun-jielu-donghan-shenme-yinmi-lvsrsevrkj9ukcth6qbalnt6buf8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》694丨《王命论》揭露东汉什么隐秘？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-694-wangminglun-jielu-donghan-shenme-yinmi-lvsrsevrkj9ukcth6qbalnt6buf8/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-01",
       "url": "/wiki/concepts/titlerealityrestraint/"
     },
     "TitleSuccessionPublicDuty": {
@@ -49424,9 +49438,9 @@
       "url": "/wiki/entities/weitenglatehan/"
     },
     "WeiXiaoEasternHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -49497,6 +49511,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》698丨王朝兴衰启示录：韦敖的遗憾与今朝之镜",
           "url": "/wiki/sources/zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》694丨《王命论》揭露东汉什么隐秘？ [lvSRsEvrkj9UkCtH6qbALnt6buf8].md",
+          "key": "zizhi-tongjian-hanji-694-wangminglun-jielu-donghan-shenme-yinmi-lvsrsevrkj9ukcth6qbalnt6buf8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》694丨《王命论》揭露东汉什么隐秘？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-694-wangminglun-jielu-donghan-shenme-yinmi-lvsrsevrkj9ukcth6qbalnt6buf8/"
         }
       ],
       "updated": "2026-09-01",

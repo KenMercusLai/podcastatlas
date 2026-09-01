@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》694丨《王命论》揭露东汉什么隐秘？](sources/zizhi-tongjian-hanji-694-wangminglun-jielu-donghan-shenme-yinmi-lvsrsevrkj9ukcth6qbalnt6buf8.md) — Jianwu 5 episode on Ban Biao's `王命论`, Wei Xiao's total-victory ambition, mandate-based title restraint, Liu Bang as founding precedent, failed claimant warnings, and Ban Biao's exit to Dou Rong.
 - [VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？](sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb.md) — 这病说来话长 episode with 阿汤 and 耳鼻喉吕博士 on headphone-heavy listening, ear-canal inflammation, noise exposure, tinnitus, sudden hearing-change warning signs, and practical earphone hygiene.
 - [《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？](sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody.md) — Jianwu 5 Guangwu episode on Dou Rong's decision to submit Hexi to Liu Xiu, Liu Xiu's patient Taocheng and Dong Xian campaign timing, and Geng Yan's Zhu'a-Juli lure that kills Fei Yi before Hanji 696.
 - [《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！](sources/zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt.md) — Jianwu 5 Guangwu episode on Geng Yan's false Xi'an target, surprise capture of Linzi, provocation and defeat of Zhang Bu, hidden-wound morale control, retreat-path ambush, and Liu Xiu's Han Xin comparison.

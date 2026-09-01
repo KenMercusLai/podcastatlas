@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1554
+topic_total_pages: 1555
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4419,6 +4419,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-694-wangminglun-jielu-donghan-shenme-yinmi-lvsrsevrkj9ukcth6qbalnt6buf8"
+    title: "《资治通鉴·汉纪》694丨《王命论》揭露东汉什么隐秘？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-694-wangminglun-jielu-donghan-shenme-yinmi-lvsrsevrkj9ukcth6qbalnt6buf8/"
   - key: "zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb"
     title: "《资治通鉴·汉纪》705-2丨班超：历史上投笔从戎第一人"
     url: "/wiki/sources/zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb/"

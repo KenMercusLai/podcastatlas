@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-01] ingest | 《资治通鉴·汉纪》694丨《王命论》揭露东汉什么隐秘？
+
+Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 5 / 29 CE around Ban Biao's `王命论`: Wei Xiao's move from `求不败` toward total victory and kingship ambition, mandate-based title restraint, Liu Bang as a founding-capacity precedent, failed claimant warnings, Chen Ying and Wang Ling mother examples, and Ban Biao's exit to Dou Rong after rejected counsel. Created the source note; updated `BanBiaoEasternHan`, `WeiXiaoEasternHan`, `TitleRealityRestraint`, `index`, and `overview`. No settled contradiction found; the episode's destiny language and excerpted treatment of `王命论` remain source-scoped.
+
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！
 
 Ingested the 2026-06-16 芮淇讲透资治通鉴 episode backfilling Jianwu 5 / 29 CE immediately before Hanji 697: Geng Yan's false Xi'an target and surprise Linzi capture, no-plunder provocation of Zhang Bu, fortified defense and show-weakness lure, hidden-wound morale control, refusal to leave the battle for Liu Xiu, retreat-path ambush, and Liu Xiu's comparison with Han Xin. Created the source note; updated `GengYanEasternHan`, `ZhangBuEasternHan`, `BattlefieldFeintAndLure`, `Linzi`, `index`, and `overview`. No settled contradiction found; Zhang Lan, Zhang Hong, Zhang Shou, Chong Yi, Chen Jun, Liu Xing, Ju, Xi'an, Pingshou, exact force counts, and the "比韩信更强" claim remain source-scoped.
@@ -14783,6 +14787,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] ingest | VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？
 
 Ingested the 2026-06-16 这病说来话长 episode with 阿汤 and 耳鼻喉吕博士 on headphone-heavy listening, ear-canal inflammation, noise exposure, tinnitus, sudden hearing-change warning signs, and earphone hygiene. Added source `vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb`; created `LvDoctorENT`, `ShenzhenPeopleHospital`, `HeadphoneUseHearingRisk`, `EarCanalInflammationRisk`, `NoiseExposureLayering`, `TinnitusSignalBoundary`, and `SuddenHearingChangeEscalation`; updated `ZheBingShuoLaiHuaChang`, `Atang`, `index`, and `overview`. No settled contradiction found; headphone category rankings, active-noise-cancellation discomfort, tinnitus causes, cleaning methods, and individual treatment decisions remain source-scoped public medical education.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 
