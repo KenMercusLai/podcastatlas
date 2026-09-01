@@ -14739,3 +14739,11 @@ Ran lint after health passed. Deterministic checks found one orphan page (`wiki/
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 《资治通鉴·汉纪》698丨王朝兴衰启示录：韦敖的遗憾与今朝之镜
+
+Ingested the 2026-06-16 芮淇讲透资治通鉴 episode backfilling Jianwu 5 around Wei Xiao's noncommittal posture: refusal to attack Gongsun Shu, repeated Lai Xi/Ma Yuan persuasion, Wei Xun's hostage service in Luoyang, Zheng Xing and Ma Yuan leaving with households, Wang Yuan's terrain-and-waiting holdout advice, and Shentu Gang's ignored submission warning. Added source `zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff`; created `WeiXunEasternHan`, `WangYuanWeiXiaoRetainer`, and `ShentuGangEasternHan`; updated `WeiXiaoEasternHan`, `ZhengXingEasternHan`, `MaYuanEasternHan`, `LaiXiEasternHan`, `FaceSavingSubmissionFailure`, `FenceSittingStrategicExposure`, `SuspicionDrivenEliteAlienation`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 韦敖/韦巡 are normalized to 隗嚣/隗恂, and Liu Yong, exact court-title wording, Shanglinyuan logistics, and minor claimant lists remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

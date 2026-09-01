@@ -47159,6 +47159,10 @@
     "title": "神亭岭之战 / Shentingling Battle",
     "url": "/wiki/entities/shentinglingbattle/"
   },
+  "ShentuGangEasternHan": {
+    "title": "申屠刚 / Shentu Gang (Eastern Han)",
+    "url": "/wiki/entities/shentugangeasternhan/"
+  },
   "ShentuPanLateHan": {
     "title": "申屠蟠 / Shentu Pan (late Han)",
     "url": "/wiki/entities/shentupanlatehan/"
@@ -55075,6 +55079,10 @@
     "title": "王玉 / Wang Yu (Southern Dynasties)",
     "url": "/wiki/entities/wangyusoutherndynasties/"
   },
+  "WangYuanWeiXiaoRetainer": {
+    "title": "王元 / Wang Yuan (Wei Xiao retainer)",
+    "url": "/wiki/entities/wangyuanweixiaoretainer/"
+  },
   "WangYunLateHan": {
     "title": "王允 / Wang Yun (late Han)",
     "url": "/wiki/entities/wangyunlatehan/"
@@ -55586,6 +55594,10 @@
   "WeiXuLateHan": {
     "title": "魏续 / Wei Xu (late Han)",
     "url": "/wiki/entities/weixulatehan/"
+  },
+  "WeiXunEasternHan": {
+    "title": "隗恂 / Wei Xun (Eastern Han)",
+    "url": "/wiki/entities/weixuneasternhan/"
   },
   "WeiYuLateHan": {
     "title": "魏宇 / Wei Yu (late Han)",
@@ -65042,6 +65054,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff": {
+    "title": "《资治通鉴·汉纪》698丨王朝兴衰启示录：韦敖的遗憾与今朝之镜",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff/"
   },
   "zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z": {
     "title": "《资治通鉴·汉纪》699丨敢与刘秀争雄的他，为何惨淡收场？",

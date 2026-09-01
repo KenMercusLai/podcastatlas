@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8734
+wiki_total_pages: 8737
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -878,6 +878,9 @@ wiki_pages:
   - key: "WangYunLateHan"
     title: "王允 / Wang Yun (late Han)"
     url: "/wiki/entities/wangyunlatehan/"
+  - key: "WangYuanWeiXiaoRetainer"
+    title: "王元 / Wang Yuan (Wei Xiao retainer)"
+    url: "/wiki/entities/wangyuanweixiaoretainer/"
   - key: "WangQuanbin"
     title: "王全斌 / Wang Quanbin"
     url: "/wiki/entities/wangquanbin/"
@@ -1142,6 +1145,9 @@ wiki_pages:
   - key: "WeiXiaoEasternHan"
     title: "隗嚣 / Wei Xiao (Eastern Han)"
     url: "/wiki/entities/weixiaoeasternhan/"
+  - key: "WeiXunEasternHan"
+    title: "隗恂 / Wei Xun (Eastern Han)"
+    url: "/wiki/entities/weixuneasternhan/"
   - key: "WeiBiaoEasternHan"
     title: "韦彪 / Wei Biao (Eastern Han)"
     url: "/wiki/entities/weibiaoeasternhan/"
