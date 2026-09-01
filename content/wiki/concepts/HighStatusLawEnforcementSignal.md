@@ -11,7 +11,8 @@ sources:
   - zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc
   - zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv
   - zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli
-last_updated: 2026-08-31
+  - zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc
+last_updated: 2026-09-02
 ---
 
 ## Definition
@@ -20,39 +21,39 @@ High-status law-enforcement signal / 高位执法信号 is the pattern in which 
 
 ## Current Synthesis
 
-The concept now has seven variants. Hanji 721 adds the early Eastern Han imperial-household variant through [[DongXuanEasternHan|董宣]]. [[HuyangPrincessEasternHan|湖阳公主]]'s slave is protected by princess rank after killing someone, but Dong Xuan intercepts the princess carriage, executes the offender, refuses to apologize, and is finally released and rewarded by [[LiuXiu|光武帝刘秀]]. The signal is unusually strong because the protected household belongs to the emperor's own sister, and Liu Xiu's final backing turns one local enforcement act into a warning to Luoyang nobles.
+The concept now has eight variants. Hanji 686 adds the early Eastern Han military-protection variant through [[KouXunEasternHan|寇恂]] and [[JiaFuEasternHan|贾复]]. Jia Fu's subordinate commits murder in [[YingchuanCommandery|颍川]], but Kou Xun publicly executes him rather than treating Jia Fu's founding-general prestige as a shield. The signal becomes durable only because Kou Xun avoids a private military clash and [[LiuXiu|光武帝刘秀]] later mediates by saying that generals cannot fight privately while the realm remains unsettled.
+
+Hanji 721 gives the early Eastern Han imperial-household variant through [[DongXuanEasternHan|董宣]]. [[HuyangPrincessEasternHan|湖阳公主]]'s slave is protected by princess rank after killing someone, but Dong Xuan intercepts the princess carriage, executes the offender, refuses to apologize, and is finally released and rewarded by Liu Xiu. The signal is unusually strong because the protected household belongs to the emperor's own sister.
 
 In the late-Han direct-exposure variant, [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] shows [[ZhangGangLateHan|张纲]] burying his wheel in Luoyang and directly impeaching [[LiangJiLateHan|梁冀]] and [[LiangBuyiLateHan|梁不疑]] rather than inspecting lesser officials. The signal makes the protected center of corruption visible, but it remains bounded because [[EmperorShunOfHan|汉顺帝]] knows the charge is true yet cannot immediately punish the Liang brothers.
 
-In the late-Han proxy-enforcement variant, [[zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc|Hanji 834]] shows officials checking Liang Ji through his envoys and retainers before Liang himself is fully exposed. [[ChenFanLateHan|陈蕃]] refuses Liang's request and punishes a deceitful envoy; [[YanDuLateHan|延笃]] kills Liang's retainer for trying to profit from cow bezoar during a prince's illness. The signal is meaningful because the protected proxy is punished, but bounded because both officials remain vulnerable to career retaliation or later removal.
+In the late-Han proxy-enforcement variant, [[zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc|Hanji 834]] shows officials checking Liang Ji through his envoys and retainers before Liang himself is fully exposed. [[ChenFanLateHan|陈蕃]] refuses Liang's request and punishes a deceitful envoy; [[YanDuLateHan|延笃]] kills Liang's retainer for trying to profit from cow bezoar during a prince's illness.
 
-In the late-Han court-audience variant, [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]] shows [[ZhangLingLateHan|张陵]] rebuking Liang Ji for entering the palace audience with a sword, ordering guards to remove it, and memorializing an impeachment. The signal works because Liang kneels and apologizes in public, but it is bounded because [[EmperorHuanOfHan|汉桓帝]] converts Zhang's Tingwei request into a lighter salary forfeiture.
+In the late-Han court-audience variant, [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]] shows [[ZhangLingLateHan|张陵]] rebuking Liang Ji for entering the palace audience with a sword, ordering guards to remove it, and memorializing an impeachment. [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] gives a late-Han reputation variant through [[CaoCao|曹操]] as Luoyang north commandant, when [[JianShuoLateHan|蹇硕]]'s uncle violates the night curfew and Cao Cao punishes him with five-colored sticks.
 
-[[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] gives a late-Han reputation variant through [[CaoCao|曹操]] as [[LuoyangLateHan|洛阳]] north commandant. When [[JianShuoLateHan|蹇硕]]'s uncle violates the night curfew, Cao Cao has him beaten with five-colored sticks, making the law visible against a powerful eunuch relative. The point is not a new legal order but Cao Cao's early public status: he shows that eunuch-family connections will not define his enforcement behavior.
-
-[[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq|Zhouji 86]] gives a Zhao tax-administration variant through [[ZhaoShe|赵奢]]. Zhao She punishes [[Pingyuanjun|平原君]]'s household personnel for tax resistance, then persuades Pingyuanjun that law applied to his house protects [[ZhaoState|赵国]] and therefore his own fortune. Here the signal becomes stronger because the aristocrat accepts the state-security rationale.
-
-[[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm|Zhouji 13]] gives the reform-state variant through [[ShangYang|公孙鞅 / 商鞅]]. When [[YingSi|太子嬴驷]] violates Qin's new law, the heir cannot be punished directly, so punishment falls on [[GongziQian|公子虔]] and [[GongsunJia|公孙贾]]. The signal makes [[QinState|秦国]] elites see that the new legal order does not dissolve at the palace gate, but it also stores resentment and contributes to [[WarringStatesReformBacklash|战国变法反噬]] after ruler protection disappears.
+[[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq|Zhouji 86]] gives a Zhao tax-administration variant through [[ZhaoShe|赵奢]], who punishes [[Pingyuanjun|平原君]]'s household personnel for tax resistance and then persuades Pingyuanjun that law applied to his house protects [[ZhaoState|赵国]]. [[zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-2-lk-d9uibhneerfol6z2rrle-6ypm|Zhouji 13]] gives the reform-state variant through [[ShangYang|公孙鞅 / 商鞅]], where the heir cannot be punished directly, so punishment falls on [[GongziQian|公子虔]] and [[GongsunJia|公孙贾]].
 
 ## Key Claims
 
 - A visible enforcement act against a protected person or household can make a rule credible faster than abstract exhortation.
+- High-status signaling can operate through military patronage, imperial households, aristocratic households, court ritual, direct accusation, proxy punishment, or reputation-building office action.
 - High-status signaling is not always equal treatment: it may use substitute punishment, proxy punishment, ceremonial rebuke, or household penalties when the central offender cannot safely be punished directly.
-- The signal is strongest when the higher patron accepts the public rationale, as in Liu Xiu rewarding Dong Xuan or Pingyuanjun recommending Zhao She.
+- The signal is strongest when the higher patron accepts the public rationale, as in Liu Xiu mediating Kou Xun and Jia Fu, Liu Xiu rewarding Dong Xuan, or Pingyuanjun recommending Zhao She.
 - Direct accusation can itself be a signal when punishment is blocked, because it makes the protected center of corruption publicly legible.
-- Proxy punishment can signal that a powerful actor's private network is not wholly immune even before the powerful actor can be attacked directly.
-- The same signal can serve different systems: imperial-household discipline, reform-state law, aristocratic tax compliance, personal office reputation, or court-ritual limits on an overmighty minister.
+- The same signal can serve different systems: military-order discipline, imperial-household discipline, reform-state law, aristocratic tax compliance, personal office reputation, or court-ritual limits on an overmighty minister.
 - Visible elite punishment can build short-term credibility while creating long-term backlash among the injured high-status network.
 
 ## Evidence
 
+- Military-protection enforcement: [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|Hanji 686]] says Kou Xun publicly executes Jia Fu's subordinate for murder despite Jia Fu's command prestige.
+- Ruler-backed mediation: [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|Hanji 686]] says Liu Xiu seats Jia Fu and Kou Xun together and says generals cannot fight privately while the realm remains unsettled.
 - Princess-household enforcement: [[zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli|Hanji 721]] says Dong Xuan stops Princess Huyang's carriage, rebukes her sheltering of a murderer, and executes the slave protected by her household.
 - Ruler-backed signal: [[zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli|Hanji 721]] says Liu Xiu releases and rewards Dong Xuan after first threatening him, so Luoyang nobles and royal relatives fear Dong Xuan's enforcement.
 - Buried-wheel accusation: [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] says Zhang Gang refuses to pursue provincial "foxes" while "wolves" block the road, then impeaches Liang Ji and Liang Buyi directly.
 - Exposure without punishment: [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] says Emperor Shun knows Zhang Gang's charges are true but cannot immediately punish the Liang brothers.
 - Liang Ji envoy case: [[zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc|Hanji 834]] says Chen Fan refuses Liang Ji's request, refuses the envoy, punishes the envoy after deception, and is later demoted.
-- Liang Ji retainer case: [[zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc|Hanji 834]] says Yan Du arrests and kills Liang's retainer during the cow-bezoar medicine emergency, arguing that Liang should aid the prince rather than profit from the crisis.
-- Court-ritual enforcement: [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]] says Zhang Ling publicly rebukes Liang Ji for wearing a sword into the palace audience and orders Huben and Yulin guards to remove it.
+- Liang Ji retainer case: [[zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc|Hanji 834]] says Yan Du arrests and kills Liang's retainer during the cow-bezoar medicine emergency.
+- Court-ritual enforcement: [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]] says Zhang Ling publicly rebukes Liang Ji for wearing a sword into the palace audience and orders guards to remove it.
 - Bounded signal: [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]] says Liang kneels and apologizes, while Emperor Huan imposes only one year's salary forfeiture rather than Zhang's requested Tingwei punishment.
 - Reputation enforcement: [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] says Cao Cao beats Jian Shuo's uncle for violating Luoyang curfew, making enforcement credible against a powerful eunuch relative.
 - Elite buy-in: [[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq|Zhouji 86]] says Zhao She punishes Pingyuanjun's household personnel and then convinces Pingyuanjun that legal compliance protects Zhao and his own estate.
@@ -61,15 +62,15 @@ In the late-Han court-audience variant, [[zizhi-tongjian-hanji-835-donghan-diyi-
 
 ## Counterevidence & Qualifications
 
-This concept does not imply modern equal protection under law. In Hanji 721, Liu Xiu first threatens Dong Xuan and only later backs him, so the signal depends on imperial choice rather than independent judicial security. In the Hanji 822 direct-exposure case, Zhang Gang names Liang Ji and Liang Buyi but the ruler cannot immediately punish them, so the signal is more public diagnosis than completed enforcement. In the Hanji 834 proxy cases, punishment falls on Liang Ji's envoy or retainer rather than Liang himself, and the officials who act remain exposed to later office cost. In the Shang Yang case, punishment is substituted onto tutors rather than applied directly to the heir; in the Zhang Ling case, the emperor reduces the requested penalty; in Cao Cao's case, the enforcement doubles as a reputation-building move for a young officeholder. The current cases come from different eras and should be compared as a signaling pattern, not collapsed into one uniform doctrine.
+This concept does not imply modern equal protection under law. In Hanji 686, Kou Xun's enforcement creates a near violent conflict with Jia Fu and needs de-escalation plus Liu Xiu's mediation to survive as order rather than factional insult. In Hanji 721, Liu Xiu first threatens Dong Xuan and only later backs him, so the signal depends on imperial choice rather than independent judicial security. In the Hanji 822 direct-exposure case, Zhang Gang names Liang Ji and Liang Buyi but the ruler cannot immediately punish them. In the Hanji 834 proxy cases, punishment falls on Liang Ji's envoy or retainer rather than Liang himself. In the Shang Yang case, punishment is substituted onto tutors rather than applied directly to the heir; in the Zhang Ling case, the emperor reduces the requested penalty; in Cao Cao's case, the enforcement doubles as a reputation-building move for a young officeholder.
 
 ## What Changed
 
-- Added Hanji 721 as the imperial-household variant through Dong Xuan, Princess Huyang, and Liu Xiu's final reward.
-- Reframed the concept around the higher patron's acceptance of enforcement, not only the official's courage.
-- Preserved Hanji 822 as direct exposure, Hanji 834 as proxy enforcement, and Hanji 835 as court-ritual enforcement against Liang Ji's network and person.
-- Preserved Hanji 925 as the reputation-enforcement variant through Cao Cao's punishment of Jian Shuo's uncle.
-- Preserved Zhouji 86 and Zhouji 13 as the elite buy-in and reform-state variants.
+- Added Hanji 686 as the early Eastern Han military-protection variant through Kou Xun's execution of Jia Fu's subordinate and Liu Xiu's mediation.
+- Reframed the concept around protected status beyond kinship, including founding-general prestige and command subordinates.
+- Preserved Hanji 721 as the imperial-household variant through Dong Xuan, Princess Huyang, and Liu Xiu's final reward.
+- Preserved Hanji 822, Hanji 834, and Hanji 835 as direct exposure, proxy enforcement, and court-ritual enforcement against Liang Ji's network and person.
+- Preserved Hanji 925, Zhouji 86, and Zhouji 13 as reputation, elite buy-in, and reform-state variants.
 
 ## Related Concepts
 
@@ -80,6 +81,7 @@ This concept does not imply modern equal protection under law. In Hanji 721, Liu
 - [[PowerEtiquetteReading|权力礼仪细读]] - interpretive counterpart for reading visible etiquette breaches as political signals.
 - [[CorrectiveAdviceNonconversion|忠告不转化]] - upstream advice-failure counterpart when warning Liang Ji does not prevent later enforcement against his agents.
 - [[StatusConditionedRiskTaking|地位条件化行动尺度]] - reputation-risk counterpart in Cao Cao's late-Han enforcement case.
-- [[OuterRelativeCourtPower|外戚专权与清算]] - late-Han power context that makes Zhang Ling's action against Liang Ji both dangerous and legible.
+- [[KouXunEasternHan|寇恂]] - early Eastern Han local-law enforcement case against a commander-protected offender.
+- [[JiaFuEasternHan|贾复]] - founding-general prestige that makes the Hanji 686 enforcement politically visible.
 - [[DongXuanEasternHan|董宣]] - early Eastern Han imperial-household enforcement case.
 - [[HuyangPrincessEasternHan|湖阳公主]] - princess-household privilege case that makes Dong Xuan's enforcement visible.

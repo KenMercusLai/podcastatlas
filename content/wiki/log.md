@@ -14788,6 +14788,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-02] ingest | 《资治通鉴·汉纪》686丨刘秀发誓只爱阴丽华，为何立郭氏为后？
+
+Ingested the 2026-06-13 芮淇讲透资治通鉴 episode backfilling Jianwu 2 / 26 CE around Yan Cen's Hanzhong/Wudu pressure, Liu Jia's regional recovery, Guo Shengtong's first empress appointment, Liu Qiang's crown-prince foundation, Su Mao's Liu Yong-aligned rebellion, and Kou Xun's public execution of Jia Fu's murderer-subordinate followed by Liu Xiu's mediation. Added source `zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc`; created `LiuJiaHanzhongKingEasternHan`; updated `GuoShengtong`, `YinLihua`, `LiuQiangDonghaiKing`, `JiaFuEasternHan`, `KouXunEasternHan`, `YanCenEasternHan`, `SuMaoEasternHan`, `LiuYangZhendingKingEasternHan`, `MaternalStatusSuccessionLeverage`, `PoliticalMarriageAllianceDepreciation`, `HighStatusLawEnforcementSignal`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Liu Jia is kept distinct from `LiuJia` / 刘贾, and Li Bao, Hou Dan, Yin Zun, Bao Si, Pan Jian, Gu Chong, Liu Yong, Liu Ci, minor places, and exact force details remain source-scoped.
+
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜
 
 Ingested the 2026-06-15 芮淇讲透资治通鉴 episode on Jingjue's historical reality, Niya ruins, Kharosthi and Han document evidence, Stein's collecting, Supi pressure, Eastern Women's Kingdom memory, and the setup for the five-star brocade. Added source `zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu`; created `SupiRegime`, `KharosthiNiyaDocuments`, and `AurelStein`; updated `JingjueKingdom`, `NiyaSite`, `FiveStarsOutOfTheEastBrocade`, `index`, and `overview`. A source-note discrepancy was recorded between 689-2's "五星出东方利中国" and 689-3's "五星出东方，立中国"; no settled contradiction was found on Jingjue's disappearance, where the new source narrows emphasis toward Supi attack pressure while preserving the broader multi-cause model from Hanji 689-3.
@@ -14903,6 +14907,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] ingest | 679. Germany: The Song Hitler Stole (Part 3)
 
 Ingested the 2026-06-14 The Rest Is History episode on Das Lied der Deutschen, Haydn's imperial tune, Hoffmann's liberal nationalism, Weimar adoption, Nazi first-verse appropriation, West Germany's third-verse compromise, East Germany's Auferstanden aus Ruinen, reunification alternatives, and World Cup patriotism. Added source `679-germany-the-song-hitler-stole-part-3-glt6217148052`; created `GermanNationalAnthem`, `JosefHaydn`, `AugustHeinrichHoffmannVonFallersleben`, `WeimarRepublic`, `FriedrichEbert`, `WestGermany`, `EastGermany`, `KonradAdenauer`, `TheodorHeuss`, `AuferstandenAusRuinen`, `HorstWesselLied`, `Kinderhymne`, and `SelectiveAnthemCanonization`; updated `Germany`, `TheRestIsHistory`, `NationalAnthemPoliticalPlasticity`, `RegimeSymbolContinuity`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; first-verse legal status, 1954 broadcast details, East German public feeling, and reunification anthem alternatives remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 
