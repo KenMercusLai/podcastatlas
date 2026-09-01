@@ -8029,9 +8029,9 @@
       "url": "/wiki/entities/chesterwilliams/"
     },
     "ChimeiRebellion": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -8053,6 +8053,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地 [lt7HmrORYDSAZPKUwBY1NtD7T1eH].md",
+          "key": "zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh/"
         }
       ],
       "updated": "2026-09-02",
@@ -16795,6 +16802,36 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/fafadebelem/"
+    },
+    "FairAllocationPoliticalSkill": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（2） [lkbo2kWKN6aExYyYgV_m84FNqx2H].md",
+          "key": "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（1） [llale6fRoN0TkYE7N0e-aanoJQar].md",
+          "key": "zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地 [lt7HmrORYDSAZPKUwBY1NtD7T1eH].md",
+          "key": "zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/fairallocationpoliticalskill/"
     },
     "FamilyRiskDiversification": {
       "episode_count": 1,
@@ -30642,9 +30679,9 @@
       "url": "/wiki/entities/liumubeihaiking/"
     },
     "LiuPenziEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？ [lpabDVtmhtrF37PUwVgI4C9AjP60].md",
@@ -30652,6 +30689,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地 [lt7HmrORYDSAZPKUwBY1NtD7T1eH].md",
+          "key": "zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh/"
         }
       ],
       "updated": "2026-09-02",
@@ -37828,9 +37872,9 @@
       "url": "/wiki/concepts/outerrelativecourtpower/"
     },
     "OuterRelativePreventiveRestraint": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》748丨老祖宗的忠告： 亲戚不共财，共财两无来！ [luqVnlD4wBDgC3NRDUmyHFHSCs4Z].md",
@@ -37852,9 +37896,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地 [lt7HmrORYDSAZPKUwBY1NtD7T1eH].md",
+          "key": "zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/outerrelativepreventiverestraint/"
     },
     "OuterRelativeRecurrence": {
@@ -55398,9 +55449,9 @@
       "url": "/wiki/entities/yaoguanglatehan/"
     },
     "YaoQiEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -55408,9 +55459,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地 [lt7HmrORYDSAZPKUwBY1NtD7T1eH].md",
+          "key": "zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/yaoqieasternhan/"
     },
     "YaoSongEasternHan": {
@@ -55575,9 +55633,9 @@
       "url": "/wiki/entities/yinlihua/"
     },
     "YinShiEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂 [ltjL2bGpyyz1bMwE_4mfCYd9E6cf].md",
@@ -55592,9 +55650,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地 [lt7HmrORYDSAZPKUwBY1NtD7T1eH].md",
+          "key": "zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/yinshieasternhan/"
     },
     "YinXinDoctor": {

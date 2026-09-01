@@ -5,16 +5,21 @@ knowledge_schema: synthesis-v1
 tags: [person, eastern-han, chimei, surrender, figurehead]
 sources:
   - zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60
+  - zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh
 last_updated: 2026-09-02
 ---
 
 ## Overview
 
-Liu Penzi / 刘盆子 enters the wiki as the Chimei figurehead whose surrender to [[LiuXiu|光武帝刘秀]] turns military defeat into a mass-settlement and survivability problem. In [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]], he submits with the Chimei leadership after [[FengYiEasternHan|冯异]] breaks the remaining force, receives a spared life rather than execution, and later gets a modest court role plus subsistence support after blindness.
+Liu Penzi / 刘盆子 is synthesized as the [[ChimeiRebellion|Chimei]] figurehead whose imperial title never becomes command authority. [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] now supplies the pre-surrender layer: the former herdboy tries to return the seal and ribbon because his troops still plunder and the people do not trust them, but the commanders carry him back to the throne. [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] then shows the same figurehead submitting to [[LiuXiu|光武帝刘秀]] and surviving through controlled settlement.
 
 ## Current Profile
 
-Hanji 688 presents Liu Penzi less as an independent commander than as the human face of the [[ChimeiRebellion|赤眉]] surrender. After the Chimei force is defeated and blocked by Liu Xiu's army, Liu Penzi sends Liu Gong to seek surrender and asks how Liu Xiu will treat a ruler who brings a massive following. Liu Xiu's answer is limited but decisive: Penzi will not be killed.
+Hanji 683 presents Liu Penzi's kingship as coercive exposure rather than fortune. His brother Liu Gong sees that the Chimei regime is internally unstable and urges him to surrender the imperial symbols at the New Year assembly. Liu Penzi follows through by descending from the throne, removing the seal and ribbon, crying, and asking to be made a commoner.
+
+The speech is politically lucid but practically powerless. Liu Penzi says that although he is called emperor, the commanders continue plundering as before, so the people of the realm do not trust them. The commanders admit the fault is theirs rather than his, yet they refuse to let him leave and physically return him to the throne. Public confidence in Chang'an briefly improves, but the Chimei army soon resumes looting.
+
+Hanji 688 gives the final settlement layer after [[FengYiEasternHan|冯异]] breaks the remaining force. Liu Penzi sends surrender terms through Liu Gong and asks how Liu Xiu will treat a ruler who brings a massive following. Liu Xiu's answer is limited but decisive: Penzi will not be killed.
 
 The surrender is made public and material. Liu Penzi, Xu Xuan, and other leaders present the imperial seal and ribbon, the Chimei weapons are piled outside Yiyang, and Liu Xiu has food prepared for the remaining people. The next-day army display at the Luo River confirms that the surrender rests on overwhelming force as well as pardon.
 
@@ -22,35 +27,38 @@ Liu Penzi's later treatment shows differentiated settlement. He is made a langzh
 
 ## Key Characteristics
 
-- Chimei figurehead whose surrender marks the end of the active Jianwu 3 Chimei field.
+- Former herdboy and Chimei figurehead whose imperial title exceeds his actual control over troops.
+- Clear critic of Chimei plunder and legitimacy failure, despite lacking coercive authority to correct it.
+- Failed abdication case in which returning seal and ribbon cannot overcome commander-group interests.
+- Public confidence signal whose temporary effect collapses when military discipline does not change.
 - Surrendering ruler treated through spared life, symbolic submission, and public military display.
-- Anchor for a mass-provisioning settlement because his surrender includes a remaining force still needing food and control.
-- Former claimant incorporated into a low office rather than allowed independent rule.
-- Later recipient of subsistence support after blindness, showing personal mercy inside a controlled settlement.
+- Former claimant incorporated into low office and later subsistence support rather than autonomous rule.
 - Contrast case against Chimei leaders who later plot rebellion and are killed.
 
 ## Evidence
 
-- Surrender request: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Liu Penzi sends Liu Gong to Liu Xiu after the Chimei force meets the imperial army.
-- Spared-life answer: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] reports Liu Xiu answering Liu Penzi's question about surrender terms with a promise not to kill him.
-- Symbolic submission: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Liu Penzi and leading Chimei figures surrender with the imperial seal and ribbon.
-- Mass provisioning: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Liu Xiu prepares food for the remaining Chimei people after their weapons are piled near Yiyang.
-- Controlled incorporation: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Liu Penzi is appointed langzhong under Zhao King Liu Liang rather than preserved as an autonomous ruler.
-- Later support: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Liu Penzi later becomes blind and receives Xingyang state-held land for lifelong rent income.
-- Amnesty boundary: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Fan Chong and Feng An later plot rebellion and are killed, qualifying the scope of the settlement.
+- Figurehead origin and abdication attempt: [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] frames Liu Penzi as a former herdboy who asks to return the seal and ribbon and withdraw from the throne.
+- Legitimacy diagnosis without command power: [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] says Liu Penzi complains that the commanders still plunder and that the people do not trust them.
+- Commander refusal and short-lived effect: [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] says the commanders carry Liu Penzi back to the throne, briefly restrain themselves, and then resume plundering.
+- Final surrender request: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Liu Penzi sends Liu Gong to Liu Xiu after the Chimei force meets the imperial army.
+- Spared-life answer and symbolic submission: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] reports Liu Xiu promising not to kill Liu Penzi and receiving the imperial seal and ribbon from Chimei leaders.
+- Mass provisioning and display: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Liu Xiu prepares food for the remaining Chimei people, piles their weapons, and displays the army.
+- Controlled incorporation and later support: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Liu Penzi is appointed langzhong, later becomes blind, and receives Xingyang state-held land for lifelong rent income, while later plotting by other leaders is punished.
 
 ## Qualifications
 
-This page is bounded to Hanji 688 and does not reconstruct Liu Penzi's full pre-surrender biography, his selection by Chimei, or the detailed history of every Chimei leader. The source supports a spared-and-supported surrender profile, but it also keeps the settlement coercive: arms are surrendered, military power is displayed, households are relocated, and renewed plotting is punished.
+This page does not reconstruct Liu Penzi's full pre-Chimei biography, the complete mechanics of his selection, or every Chimei leader's role. Hanji 683 supports the figurehead-and-failed-abdication profile, while Hanji 688 supports the surrender-and-settlement profile. The evidence also keeps the settlement coercive: arms are surrendered, military power is displayed, households are relocated, and renewed plotting is punished.
 
 ## What Changed
 
-- Created Liu Penzi as the Chimei figurehead and surrender-settlement actor in the Jianwu 3 layer.
+- Added Hanji 683 as Liu Penzi's failed-abdication and hollow-authority layer.
+- Reframed Liu Penzi from only a final surrender actor into a figurehead whose lack of command was visible before Chimei's collapse.
+- Preserved Hanji 688 as the final surrender, provisioning, appointment, later support, and punishment-boundary layer.
 
 ## Relationships
 
-- [[ChimeiRebellion|赤眉]] - movement for which Liu Penzi serves as the surrendering figurehead in this source.
+- [[ChimeiRebellion|赤眉]] - movement for which Liu Penzi serves as figurehead ruler and later surrendering representative.
 - [[LiuXiu|光武帝刘秀]] - receiving ruler who spares, displays power over, appoints, and later supports Liu Penzi.
 - [[FengYiEasternHan|冯异]] - commander whose victory precedes the Chimei surrender.
-- [[PoliticalSurrenderCascade|招降示范级联]] - related mechanism because public surrender and safe treatment can affect expectations among remaining followers.
+- [[PoliticalSurrenderCascade|招降示范级联]] - related mechanism because public surrender and safe treatment affect expectations among remaining followers.
 - [[CasualtySparingSurrender|保全生灵式投降]] - adjacent ethical frame because surrender preserves many lives without restoring independent authority.
