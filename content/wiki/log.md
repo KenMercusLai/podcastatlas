@@ -14488,7 +14488,6 @@ Ingested the 2026-08-31 The Intelligence episode on Hollywood AI production, syn
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》705-6丨班昭：三次一鸣惊人，闺蜜干政NO.1
 
 Ingested the 2026-06-19 芮淇讲透资治通鉴 episode on Ban Zhao's literary recognition, `Han Shu` teaching, Ban Chao petition, Deng-regency advice, `Nujie`, and later reputation. Created `BanJieyuWesternHan` and `NujieGenderNormTransmission`; updated Ban Zhao, Ma Rong, Eastern Han female court education, overview, and index. No settled contradiction found; first-live-ostrich, first-female-teacher, unopposed-political-participation, 120 CE death, and strong `Nujie` reception claims remain source-scoped.
@@ -14616,6 +14615,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》705-5丨班昭：续编《汉书》，史笔千秋第一人
 
 Ingested the 2026-06-19 芮淇讲透资治通鉴 episode backfilling Ban Zhao's family-learning and `Han Shu` continuation prelude before Hanji 705-6. Added source `zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e`; updated `BanZhaoLateHan`, `FemaleCourtEducationEasternHan`, `CourtWomenHistoriography`, overview, and index. No settled contradiction found; 邓遂 is normalized to 邓绥, and first-teacher, teenage-learning, and eight-tables claims remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家
+
+Ingested the 2026-06-18 芮淇讲透资治通鉴 episode synthesizing Ban Chao's late Western Regions strategy from Shule stabilization through Qiuci/Yanqi key-node diagnosis, Wusun contact, Shache deception, Yuezhi/Kushan supply-line defeat, Qiuci submission, Dingyuan marquisate, light-touch governance, and final Luoyang return. Added source `zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7`; updated Ban Chao, Shule, Qiuci, Shache, Yanqi, Yuezhi, Xu Gan, Li Yi / 李邑, frontier proxy conquest strategy, overview, index, and downstream synthesis artifacts. No settled contradiction found; the 李邑/李毅 spelling is normalized to the existing stable `LiYiEasternHan` route, and Wusun coalition wording remains source-scoped.
 
 ## [2026-09-01] lint | Wiki health check
 

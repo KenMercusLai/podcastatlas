@@ -9,20 +9,21 @@ sources:
   - zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4
   - zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt
   - zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy
-last_updated: 2026-08-31
+  - zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7
+last_updated: 2026-09-01
 ---
 
 ## Overview
 
-龟兹 / Qiuci Kingdom is a Western Regions polity whose current wiki role is to show how Xiongnu-backed appointment, refusal, hostage-prince strategy, submission, imposed pro-Han kingship, protectorate placement, and regional rivalries shaped Eastern Han frontier control around [[BanChaoEasternHan|Ban Chao]].
+龟兹 / Qiuci Kingdom is a Western Regions polity whose current wiki role is to show how Xiongnu-backed appointment, refusal, key-node resistance, hostage-prince strategy, submission, imposed pro-Han kingship, protectorate placement, and regional rivalries shaped Eastern Han frontier control around [[BanChaoEasternHan|Ban Chao]].
 
 ## Current Profile
 
 Hanji 743 supplies the earliest current Qiuci layer. Qiuci king Jian, installed or backed by Xiongnu power, controls the northern route, attacks Shule, kills the Shule king, and installs his non-Shule subject Duti. Ban Chao reverses the move by arresting Duti, denouncing Qiuci's interference before Shule officials, installing Zhong from the prior Shule royal line, and then releasing Duti to display Han grace and authority. In this layer, Qiuci matters as the outside power whose proxy appointment lacks local legitimacy.
 
-Hanji 750 then turns Qiuci into the principal target of Ban Chao's explicit proxy strategy. Qiuci and Yanqi still refuse Han, so Ban Chao proposes restoring the Qiuci hostage prince Ba Ba as king and using Western Regions states against Qiuci. In that plan, Qiuci is not merely a battlefield target; it is the regime to be replaced through hostage legitimacy, local-state cooperation, and the weak support enjoyed by Qiuci-appointed rulers in Gumo and Wensu.
+Hanji 750 then turns Qiuci into the principal target of Ban Chao's explicit proxy strategy. Qiuci and Yanqi still refuse Han, so Ban Chao proposes restoring the Qiuci hostage prince Ba Ba as king and using Western Regions states against Qiuci. Hanji 705-4 restates the same judgment as a whole-program diagnosis: Ban Chao argues that the major Western Regions contradiction lies in Qiuci and that resolving Qiuci together with Yanqi can bring the wider oasis system back into Han alignment. In that plan, Qiuci is not merely a battlefield target; it is the regime to be replaced through hostage legitimacy, local-state cooperation, and the weak support enjoyed by Qiuci-appointed rulers in Gumo and Wensu.
 
-Hanji 764 supplies the later implementation layer. Qiuci, Gumo, and Wensu submit to Han, which leads the court to reestablish the Western Regions Protector and Wuji Colonel offices and appoint Ban Chao as Protector. [[YaoGuangLateHan|Yao Guang]] escorts the hostage prince Ba Ba back toward Qiuci; Ban Chao and Yao Guang then coerce Qiuci, depose the old king Youliduo, install Ba Ba, and move Youliduo to [[LuoyangLateHan|Luoyang]] as a hostage. Ban Chao's protectorate is placed at Qiuci's Taqian City, giving Qiuci early administrative centrality in the restored Han Western Regions order.
+Hanji 764 supplies the later implementation layer. Qiuci, Gumo, and Wensu submit to Han, which leads the court to reestablish the Western Regions Protector and Wuji Colonel offices and appoint Ban Chao as Protector. [[YaoGuangLateHan|Yao Guang]] escorts the hostage prince Ba Ba back toward Qiuci; Ban Chao and Yao Guang then coerce Qiuci, depose the old king Youliduo, install Ba Ba, and move Youliduo to [[LuoyangLateHan|Luoyang]] as a hostage. Hanji 705-4 adds the strategic environment around that submission: repeated Han blows and [[DouXianEasternHan|Dou Xian]]'s defeat of [[NorthernXiongnuLateHan|Northern Xiongnu]] weaken Qiuci's main external support. Ban Chao's protectorate is placed at Qiuci's Taqian City, giving Qiuci early administrative centrality in the restored Han Western Regions order.
 
 Hanji 790 first uses Qiuci as part of a regional balance field: [[ShuleKingdom|Shule]] becomes strong enough to balance Qiuci and [[KhotanKingdomLateHan|Khotan]] after succession and alignment shifts under renewed Northern Xiongnu suzerainty. In that layer, Qiuci matters as one of the major Western Regions powers affected by Han withdrawal and attempted re-entry.
 
@@ -30,8 +31,8 @@ Hanji 779 gives Qiuci the more concrete late layer. The episode says Qiuci initi
 
 ## Key Characteristics
 
-- Major Western Regions polity in the Hanji 743-790 frontier field.
-- Early Xiongnu-backed power whose Shule appointment creates a local-legitimacy problem.
+- Major Western Regions polity whose Xiongnu-backed Shule appointment creates a local-legitimacy problem.
+- Key resistance node whose defeat is treated as necessary for broad Western Regions realignment.
 - Early target of Ban Chao's hostage-prince replacement proposal.
 - Early submitter whose surrender helps justify reestablishing Han Western Regions offices.
 - Kingdom where Ban Chao and Yao Guang depose Youliduo and install the pro-Han hostage prince Ba Ba.
@@ -44,8 +45,10 @@ Hanji 779 gives Qiuci the more concrete late layer. The episode says Qiuci initi
 - Local-legitimacy vulnerability: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]] says Duti is not from Shule, which becomes the premise for Ban Chao's arrest, denunciation, and installation of Zhong.
 - Mercy as message to Qiuci: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]] says Ban Chao releases Duti to display Han grace and authority to Qiuci.
 - Refusal and replacement plan: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] says Qiuci and Yanqi refuse Han while Ban Chao proposes using the Qiuci hostage prince Ba Ba and allied Western Regions states against Qiuci.
+- Strategic diagnosis: [[zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7|Hanji 705-4]] says Ban Chao identifies Qiuci as the major Western Regions contradiction and predicts broad submission if Qiuci and Yanqi are solved.
 - Proxy vulnerability: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] says Qiuci-installed Gumo and Wensu rulers lack local support, making them vulnerable if the situation turns urgent.
 - Submission and office restoration: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] says Qiuci, Gumo, and Wensu submit, after which the court reestablishes Western Regions offices and appoints Ban Chao as Protector.
+- External-support collapse: [[zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7|Hanji 705-4]] says Qiuci's position weakens after repeated Han pressure and Northern Xiongnu defeat.
 - Ba Ba installation: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] says Ban Chao and Yao Guang coerce Qiuci, depose Youliduo, and install the pro-Han hostage prince Ba Ba.
 - Protectorate placement: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] places Ban Chao's protectorate at Qiuci's Taqian City.
 - Regional balance: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] says Shule grows strong enough to balance Qiuci and Khotan after Western Regions alignments shift.
@@ -55,7 +58,7 @@ Hanji 779 gives Qiuci the more concrete late layer. The episode says Qiuci initi
 
 ## Qualifications
 
-The page does not reconstruct Qiuci's full history or the internal politics of Jian, Duti, Ba Ba, Youliduo, Gumo, and Wensu. The current evidence is focused on Eastern Han frontier control as represented by five podcast source notes. Hanji 743 gives Qiuci's earlier external interference in Shule; Hanji 750 gives a proposal and strategic premise; Hanji 764 gives the later installation and office-restoration layer. Qiuci's pro-Han king does not mean all Qiuci elites accepted a Han protectorate seat inside the city.
+The page does not reconstruct Qiuci's full history or the internal politics of Jian, Duti, Ba Ba, Youliduo, Gumo, and Wensu. The current evidence is focused on Eastern Han frontier control as represented by six podcast source notes. Hanji 743 gives Qiuci's earlier external interference in Shule; Hanji 750 and Hanji 705-4 give a proposal and strategic premise; Hanji 764 gives the later installation and office-restoration layer. Qiuci's pro-Han king does not mean all Qiuci elites accepted a Han protectorate seat inside the city. Hanji 705-4's claim that nearly all anti-Han Western Regions actions had Qiuci behind them is treated as the source's strategic framing, not a complete independent audit of every local conflict.
 
 ## What Changed
 
@@ -63,12 +66,13 @@ The page does not reconstruct Qiuci's full history or the internal politics of J
 - Reframed Qiuci as both outside interferer in Shule and later target of Ban Chao's hostage-prince strategy.
 - Preserved Hanji 750 as the refusal, hostage-prince proposal, and proxy-vulnerability layer.
 - Preserved Hanji 764 as the early submission, Ba Ba installation, and protectorate-placement layer.
-- Kept Hanji 779's protectorate-relocation backlash as a qualification to any simple pro-Han Qiuci profile.
+- Added Hanji 705-4 as the key-node diagnosis and external-support-collapse layer while preserving Hanji 779's protectorate-relocation backlash as a qualification.
 
 ## Relationships
 
 - [[BanChaoEasternHan]] - Han protector whose Shule intervention and Qiuci kingship intervention reshape Qiuci's role.
 - [[ShuleKingdom]] - Western Regions polity first harmed by Qiuci-backed Duti and later strong enough to balance Qiuci and Khotan.
+- [[YanqiKingdomLateHan]] - paired strategic target in Ban Chao's claim that solving Qiuci and Yanqi can restore the wider Western Regions.
 - [[WangZhongShuleKing]] - Shule royal figure installed after Ban Chao reverses Qiuci's Duti appointment.
 - [[FrontierProxyConquestStrategy]] - concept modeled by Ban Chao's use of local legitimacy against Duti and later Ba Ba against Qiuci.
 - [[StrategicForbearanceGovernance]] - related concept because Duti's release is aimed at Qiuci as a mercy-and-authority signal.

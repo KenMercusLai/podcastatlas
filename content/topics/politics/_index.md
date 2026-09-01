@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2140
+topic_total_pages: 2141
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -6330,6 +6330,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7"
+    title: "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家"
+    url: "/wiki/sources/zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7/"
   - key: "zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe"
     title: "《资治通鉴·汉纪》727丨跪下！单于为何拜倒在汉使面前？"
     url: "/wiki/sources/zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe/"

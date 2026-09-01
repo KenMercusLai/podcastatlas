@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "368dd996da162a9dfaed7145238c392d7480b5aeda76c9f7519357934d13b6ca",
       "74f3b35028c007c99d975da3f803ca5de08e48ce0dd19c8d5e8d6d359798936e",
       "d66232241719a12b80772b9920915f51ac2f7f762c9f503e1a79da5858f4b1e8",
       "d443e2d07d3e3bb0d935d41e5d5a12348a56349d2005038b7e12ae376c1c6ca6",
@@ -471,11 +472,40 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 469
+    "paragraph_count": 470
   },
-  "overview_commit": "5276066e62678e6f98083ab547eafcf070233e09",
-  "overview_digest": "a6dc42d4cdebf05a4071dd44285d5bfc235e070ca7d920d4be50a8cb289f27a3",
+  "overview_commit": "1d05ead17324501a9dc887496868325e0122c9d3",
+  "overview_digest": "19f75a1c4360fc1f5af90c64e7da40160591d3ee0fd368f755479e3ee1e311fe",
   "paragraphs": [
+    {
+      "id": "368dd996da162a9dfaed7145238c392d7480b5aeda76c9f7519357934d13b6ca",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7|《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that backfills a capstone view of [[BanChaoEasternHan|班超]]'s late Western Regions strategy before the already-ingested Ban Zhao and later Ban-family layers. It extends [[ShuleKingdom|疏勒]], [[QiuciKingdom|龟兹]], [[YanqiKingdomLateHan|焉耆国]], [[ShacheKingdomLateHan|莎车国]], [[Yuezhi|月氏 / 贵霜]], [[XuGanEasternHan|徐干]], [[LiYiEasternHan|李邑]], and [[FrontierProxyConquestStrategy|以夷攻夷式边疆策略]], while reinforcing [[EmperorZhangOfHan|汉章帝]], [[NorthernXiongnuLateHan|北匈奴]], [[DouXianEasternHan|窦宪]], [[StrategicForbearanceGovernance|退让留余地式治理]], and [[LightTouchFrontierGovernance|宽简边疆治理]]. Its core synthesis is that Ban Chao's mature frontier success depends on key-node diagnosis, local supply, allied polity forces, hostage and replacement politics, deception against Shache, supply denial against Yuezhi/Kushan, and diplomatic restraint after victory rather than direct central-army saturation. No settled contradiction is recorded; 李邑 is normalized onto the existing Li Yi route, and Wusun coalition details remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BanChaoEasternHan",
+        "DouXianEasternHan",
+        "EmperorZhangOfHan",
+        "FrontierProxyConquestStrategy",
+        "LiYiEasternHan",
+        "LightTouchFrontierGovernance",
+        "NorthernXiongnuLateHan",
+        "QiuciKingdom",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShacheKingdomLateHan",
+        "ShuleKingdom",
+        "StrategicForbearanceGovernance",
+        "XuGanEasternHan",
+        "YanqiKingdomLateHan",
+        "Yuezhi",
+        "zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7"
+      ]
+    },
     {
       "id": "74f3b35028c007c99d975da3f803ca5de08e48ce0dd19c8d5e8d6d359798936e",
       "primary_topic": "work-education-and-society",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家](sources/zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7.md) — 芮淇讲透资治通鉴 episode on Ban Chao's late Western Regions strategy, Qiuci/Yanqi key-node diagnosis, Wusun contact, Shache deception, Yuezhi/Kushan supply-line defeat, Qiuci submission, Dingyuan marquisate, and final Luoyang return.
 - [《资治通鉴·汉纪》705-5丨班昭：续编《汉书》，史笔千秋第一人](sources/zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e.md) — 芮淇讲透资治通鉴 episode on Ban Zhao's Ban-family learning, Ban Gu's unfinished `Han Shu`, Emperor He's Dongguan commission, Ma Rong's learning scene, palace teaching, and Deng Sui prelude.
 - [《资治通鉴·汉纪》705-6丨班昭：三次一鸣惊人，闺蜜干政NO.1](sources/zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm.md) — 芮淇讲透资治通鉴 episode on Ban Zhao's literary recognition, `Han Shu` teaching, Ban Chao petition, Deng-regency advice, and contested `Nujie` legacy.
 - [《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？](sources/zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv.md) — Jianwu 8 Guangwu episode on Dou Rong's security-for-authority submission, Wei Xiao's refused surrender and Xicheng rescue, Wu Han's food-short siege failure, Kou Xun's Yingchuan pacification, Geng Chun's reputation-backed surrender, and Zhang Bu's late flight and execution.
@@ -2027,7 +2028,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨终 / Yang Zhong (Eastern Han)](entities/YangZhongEasternHan.md) — Zhangdi-era scholar-official whose profile joins frontier-policy remonstrance, Baihu Guan classics consensus, and Ma-family household-risk warning.
 - [沁水公主 / Qinshui Princess (Eastern Han)](entities/QinshuiPrincessEasternHan.md) — Princess whose estate seizure by Dou Xian exposes outer-relative property coercion and Zhangdi's incomplete accountability.
 - [周纡 / Zhou Yu (Luoyang magistrate, Eastern Han)](entities/ZhouYuLuoyangEasternHan.md) — Luoyang magistrate who targets imperial relatives as the real capital enforcement problem and is briefly arrested after the Dou Du night-travel case.
-- [李毅 / Li Yi (Eastern Han)](entities/LiYiEasternHan.md) — Eastern Han envoy whose slander against Ban Chao gives Emperor Zhang and Ban Chao a test of loyalty evidence, accusation handling, and non-retaliation.
+- [李邑 / Li Yi (Eastern Han)](entities/LiYiEasternHan.md) — Eastern Han envoy whose failed Wusun mission and slander against Ban Chao give Emperor Zhang and Ban Chao a test of loyalty evidence, accusation handling, and non-retaliation.
 - [韦彪 / Wei Biao (Eastern Han)](entities/WeiBiaoEasternHan.md) — Zhang-era minister who argues selection should prioritize role fit and warns that Shangshu work needs more than legal cleverness and quick replies.
 - [朱晖 / Zhu Hui (Zhang-era remonstrant)](entities/ZhuHuiZhangEraEasternHan.md) — Zhang-era former Linhuai administrator and Shangshu Pushe who resists restoring official salt monopoly and junshu despite imperial anger.
 - [梁玉 / Liang Yu (Eastern Han)](entities/LiangYuEasternHan.md) — Taixue informer whose report against Kong Xi and Cui Yin creates Hanji 754's fact-based historical-critique case.
@@ -2132,7 +2133,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lewis and Clark Expedition](entities/LewisAndClarkExpedition.md) — Jefferson-commissioned western exploration project linking scientific inquiry and imperial ambition.
 - [Democratic-Republican Party](entities/DemocraticRepublicanParty.md) — Jefferson's founding-era party vehicle, complicated by Burr's 1800 tie and later marginalization.
 - [Federalist Party](entities/FederalistParty.md) — Hamilton-associated founding-era party rival to Jefferson's Democratic-Republicans, active in the 1796, 1800, and Burr 1804 contexts.
-- [班超 / Ban Chao (Eastern Han)](entities/BanChaoEasternHan.md) — Eastern Han Western Regions commander whose profile now begins with Shanshan/Khotan shock diplomacy before Shule regime intervention, selective mercy, proxy strategy, accusation resilience, Yanqi conquest, Gan Ying mission, and final handoff.
+- [班超 / Ban Chao (Eastern Han)](entities/BanChaoEasternHan.md) — Eastern Han Western Regions commander whose profile runs from Shanshan/Khotan shock diplomacy through Shule regime intervention, proxy strategy, accusation resilience, Shache/Yuezhi/Qiuci/Yanqi consolidation, Gan Ying mission, and final handoff.
 - [甘英 / Gan Ying (Eastern Han)](entities/GanYingEasternHan.md) — Eastern Han envoy sent by Ban Chao toward Da Qin/Rome and Tiaozhi, reaching Parthia's western boundary before route warnings turned him back.
 - [大秦 / Da Qin](entities/DaQin.md) — Han-era exonym for the Roman Empire in Hanji 771, capturing Rome as a far-western polity known through mediated route reports.
 - [安息 / Parthian Empire](entities/ParthianEmpire.md) — Intermediary polity whose officials' sea-route warning stops Gan Ying's mission toward Da Qin/Rome.
@@ -3750,7 +3751,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘如意 / Liu Ruyi](entities/LiuRuyi.md) — Liu Bang's young son who moves from Dai and Zhao kingship into the politically unsupported alternative-heir branch in Hanji 181.
 - [宗正 / Zongzheng Office](entities/ZongzhengOffice.md) — Qin-Han office used to administer the imperial Liu clan.
 - [头曼单于 / Touman Chanyu](entities/ToumanChanyu.md) — Xiongnu ruler whose hostage trap against Modu triggers Modu's escape, command training, and patricidal seizure of power.
-- [月氏 / Yuezhi](entities/Yuezhi.md) — Western neighbor first used in Touman's hostage trap against Modu and later checked by Ban Chao after a failed marriage-demand attack.
+- [月氏 / Yuezhi](entities/Yuezhi.md) — Western neighbor first used in Touman's hostage trap against Modu and later treated as a Kushan-linked attacker checked by Ban Chao after a failed marriage-demand attack.
 - [鄂千秋 / E Qianqiu](entities/EQianqiu.md) — Early Han merit-ranking interpreter who defends Xiao He's first-place reward over Cao Shen and is made Anping marquis.
 - [刘交 / Liu Jiao](entities/LiuJiao.md) — Liu Bang's younger brother made king of the early Han Chu kingdom after Han Xin's former Chu territory is split.
 - [刘喜 / Liu Xi (Dai king)](entities/LiuXiDaiKing.md) — Liu-family king of early Han Dai, used by Hanji 174 to show same-surname royal placement on the northern settlement map.

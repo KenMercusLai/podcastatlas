@@ -4060,9 +4060,9 @@
       "url": "/wiki/entities/banbiaoeasternhan/"
     },
     "BanChaoEasternHan": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》780丨最多灾多难的时代：东汉 [lvGCuMRFJbLrOFER532EES3TDOa_].md",
@@ -4175,9 +4175,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》742丨班超出使西域，37人大杀四方！！！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家 [luOHuAFHLMnBwS52bYa4VjoeVrg7].md",
+          "key": "zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url": "/wiki/entities/banchaoeasternhan/"
     },
     "BanGuEasternHan": {
@@ -17421,9 +17428,9 @@
       "url": "/wiki/concepts/frontierproxycommitmentbinding/"
     },
     "FrontierProxyConquestStrategy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！ [lu-96lbDh7R0tsMiOPBQqRj0Q1gt].md",
@@ -17438,9 +17445,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦",
           "url": "/wiki/sources/zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家 [luOHuAFHLMnBwS52bYa4VjoeVrg7].md",
+          "key": "zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url": "/wiki/concepts/frontierproxyconqueststrategy/"
     },
     "FrontierRecognitionCredibilityTradeoff": {
@@ -26483,9 +26497,9 @@
       "url": "/wiki/entities/lixielatehan/"
     },
     "LiYiEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》753丨班超被告黑状 [lt-SKSxrz30sAWit81eQbeonHzV_].md",
@@ -26493,9 +26507,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》753丨班超被告黑状",
           "url": "/wiki/sources/zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家 [luOHuAFHLMnBwS52bYa4VjoeVrg7].md",
+          "key": "zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-01",
       "url": "/wiki/entities/liyieasternhan/"
     },
     "LiYingLateHan": {
@@ -37617,9 +37638,9 @@
       "url": "/wiki/entities/qiuxianglatehan/"
     },
     "QiuciKingdom": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
@@ -37655,9 +37676,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦",
           "url": "/wiki/sources/zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家 [luOHuAFHLMnBwS52bYa4VjoeVrg7].md",
+          "key": "zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url": "/wiki/entities/qiucikingdom/"
     },
     "Qiuzhen": {
@@ -40404,9 +40432,9 @@
       "url": "/wiki/concepts/sexualharassmentnaminglag/"
     },
     "ShacheKingdomLateHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
@@ -40449,6 +40477,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》719丨光武帝刘秀算不算渣男？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家 [luOHuAFHLMnBwS52bYa4VjoeVrg7].md",
+          "key": "zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7/"
         }
       ],
       "updated": "2026-09-01",
@@ -41111,9 +41146,9 @@
       "url": "/wiki/entities/shubokhotanlatehan/"
     },
     "ShuleKingdom": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？ [lvRRMkSykaZLSb7W8aBbdmNqfzQQ].md",
@@ -41149,9 +41184,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦",
           "url": "/wiki/sources/zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家 [luOHuAFHLMnBwS52bYa4VjoeVrg7].md",
+          "key": "zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url": "/wiki/entities/shulekingdom/"
     },
     "ShusunWujiLateHan": {
@@ -49393,9 +49435,9 @@
       "url": "/wiki/entities/xufengbanditlatehan/"
     },
     "XuGanEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》753丨班超被告黑状 [lt-SKSxrz30sAWit81eQbeonHzV_].md",
@@ -49410,9 +49452,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》750丨揭秘东汉完美女性，背后满是牺牲！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家 [luOHuAFHLMnBwS52bYa4VjoeVrg7].md",
+          "key": "zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url": "/wiki/entities/xuganeasternhan/"
     },
     "XuGongLateHan": {
@@ -50661,9 +50710,9 @@
       "url": "/wiki/entities/yanjinbattlelatehan/"
     },
     "YanqiKingdomLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？ [liIWGi77g2ON1z2VnWAF1_wVph2d].md",
@@ -50678,9 +50727,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你",
           "url": "/wiki/sources/zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家 [luOHuAFHLMnBwS52bYa4VjoeVrg7].md",
+          "key": "zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-01",
       "url": "/wiki/entities/yanqikingdomlatehan/"
     },
     "YanranInscription": {
@@ -51630,9 +51686,9 @@
       "url": "/wiki/entities/yuewanrou/"
     },
     "Yuezhi": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课 [loS9hsomNdNhyQpXAFSTGYQuomZF].md",
@@ -51647,9 +51703,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战",
           "url": "/wiki/sources/zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家 [luOHuAFHLMnBwS52bYa4VjoeVrg7].md",
+          "key": "zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-01",
       "url": "/wiki/entities/yuezhi/"
     },
     "YuvalNoahHarari": {
