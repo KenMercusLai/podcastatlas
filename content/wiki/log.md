@@ -14500,6 +14500,10 @@ Ingested the 2026-08-31 The Intelligence episode on Hollywood AI production, syn
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-01] ingest | 《资治通鉴·汉纪》700丨历史告诉你：别让认知偏差阻碍你的成功
+
+Ingested the 2026-06-17 芮淇讲透资治通鉴 episode backfilling the post-eastern-pacification pause before Hanji 701. Added source `zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv`; created `JingHanEasternHan` and `RulerScalePathDependence`; updated `GongsunShuEasternHan`, `WeiXiaoEasternHan`, and index. No settled contradiction found; Wu Zhu, Gongsun Guang, Tian Rong, Gongsun Shu's sons, and the incomplete enterprise analogy remain source-scoped.
+
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》699丨敢与刘秀争雄的他，为何惨淡收场？
 
 Ingested the 2026-06-17 芮淇讲透资治通鉴 episode backfilling Wei Xiao's Longyou elite origin, Cen Peng's Jiaozhi/Jiangnan proclamation route, Xi Guang and Ren Yan's ritual-agricultural southern governance, Liu Xiu's noncoercive handling of Zhou Dang, Yan Guang, and Wang Liang, and Shache Yan/Kang's Han-loyal Western Regions branch. Added source `zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z`; created `ZhouDangEasternHan`, `YanGuangEasternHan`, `WangLiangEasternHan`, `XiGuangEasternHan`, `RenYanEasternHan`, `ShacheKingYanEasternHan`, `ShacheKingKangEasternHan`, and `RitualAgrarianFrontierIntegration`; updated the connected Guangwu, Wei Xiao, Cen Peng, Jiaozhi, Shache, office-refusal, reclusion, overview, index, and synthesis layers. No settled contradiction found; transcript forms 韦敖/魏敖, 西光, 任炎, and 王良 are normalized or kept source-scoped.
@@ -14703,6 +14707,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！
 
 Ingested the 2026-06-17 芮淇讲透资治通鉴 episode backfilling Jianwu 6 / 30 CE between Hanji 699 and Hanji 702. Added source `zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q`; created `ZhuFuEasternHan` and `PostwarAdministrativeRetrenchment`; updated `WeiXiaoEasternHan`, `FengYiEasternHan`, `LaiXiEasternHan`, `LocalOfficialTenureStability`, overview, and index. No settled contradiction found; Shentu Gang, Wang Zun, Niu Han, Wang Yuan, Tian Rong, exact county-merger implementation, and Zhu Fu's full memorial wording remain source-scoped.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] lint | Wiki health check
 

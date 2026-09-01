@@ -51379,6 +51379,13 @@
       "url": "/topics/history/"
     }
   ],
+  "RulerScalePathDependence": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RulinWaishi": [
     {
       "key": "culture",
@@ -74238,6 +74245,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv": [
     {
       "key": "politics",
       "label": "Politics",

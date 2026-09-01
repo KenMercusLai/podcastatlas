@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6202
+wiki_total_pages: 6203
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -893,6 +893,9 @@ wiki_pages:
   - key: "ReceptiveRemonstranceGovernance"
     title: "纳谏转政策式治理 / Receptive Remonstrance Governance"
     url: "/wiki/concepts/receptiveremonstrancegovernance/"
+  - key: "RulerScalePathDependence"
+    title: "统治者尺度错配型路径依赖 / Ruler-Scale Path Dependence"
+    url: "/wiki/concepts/rulerscalepathdependence/"
   - key: "RumorDrivenFrontierIntervention"
     title: "谣言驱动的边疆干预 / Rumor-Driven Frontier Intervention"
     url: "/wiki/concepts/rumordrivenfrontierintervention/"

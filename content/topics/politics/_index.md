@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2145
+topic_total_pages: 2147
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3520,6 +3520,9 @@ topic_concepts:
   - key: "ZonghengjiaDiplomacy"
     title: "纵横家外交 / Zonghengjia Diplomacy"
     url: "/wiki/concepts/zonghengjiadiplomacy/"
+  - key: "RulerScalePathDependence"
+    title: "统治者尺度错配型路径依赖 / Ruler-Scale Path Dependence"
+    url: "/wiki/concepts/rulerscalepathdependence/"
   - key: "SuccessionAuthorityConsolidation"
     title: "继位权威整合 / Succession Authority Consolidation"
     url: "/wiki/concepts/successionauthorityconsolidation/"
@@ -6339,6 +6342,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv"
+    title: "《资治通鉴·汉纪》700丨历史告诉你：别让认知偏差阻碍你的成功"
+    url: "/wiki/sources/zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv/"
   - key: "zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc"
     title: "《资治通鉴·汉纪》705-3丨古代特种兵班超，一个敢于单枪匹马深入敌背的传奇"
     url: "/wiki/sources/zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc/"

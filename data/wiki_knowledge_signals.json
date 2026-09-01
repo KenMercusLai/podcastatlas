@@ -19157,9 +19157,9 @@
       "url": "/wiki/concepts/goldjewelryvalueperceptionrisk/"
     },
     "GongsunShuEasternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
@@ -19202,6 +19202,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》700丨历史告诉你：别让认知偏差阻碍你的成功 [lhGt6DYZgC4S-oSt2NBzdHfyzOfv].md",
+          "key": "zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》700丨历史告诉你：别让认知偏差阻碍你的成功",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv/"
         }
       ],
       "updated": "2026-09-01",
@@ -24821,6 +24828,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/jinwenjinglatehan/"
+    },
+    "JingHanEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》700丨历史告诉你：别让认知偏差阻碍你的成功 [lhGt6DYZgC4S-oSt2NBzdHfyzOfv].md",
+          "key": "zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》700丨历史告诉你：别让认知偏差阻碍你的成功",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/jinghaneasternhan/"
     },
     "JingYiLateHan": {
       "episode_count": 1,
@@ -40368,6 +40391,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/ruleoverkinshippower/"
     },
+    "RulerScalePathDependence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》700丨历史告诉你：别让认知偏差阻碍你的成功 [lhGt6DYZgC4S-oSt2NBzdHfyzOfv].md",
+          "key": "zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》700丨历史告诉你：别让认知偏差阻碍你的成功",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/rulerscalepathdependence/"
+    },
     "RumorDrivenFrontierIntervention": {
       "episode_count": 1,
       "show_count": 1,
@@ -48376,9 +48415,9 @@
       "url": "/wiki/entities/weitenglatehan/"
     },
     "WeiXiaoEasternHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -48435,6 +48474,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》700丨历史告诉你：别让认知偏差阻碍你的成功 [lhGt6DYZgC4S-oSt2NBzdHfyzOfv].md",
+          "key": "zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》700丨历史告诉你：别让认知偏差阻碍你的成功",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv/"
         }
       ],
       "updated": "2026-09-01",
