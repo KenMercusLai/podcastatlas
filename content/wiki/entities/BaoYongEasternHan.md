@@ -2,34 +2,42 @@
 title: "鲍永 / Bao Yong (Eastern Han)"
 type: entity
 knowledge_schema: synthesis-v1
-tags: [person, eastern-han, law, enforcement, court, royal-kin]
+tags: [person, eastern-han, surrender, loyalty, law, enforcement, court, royal-kin]
 sources:
   - zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz
-last_updated: 2026-09-01
+  - zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d
+last_updated: 2026-09-02
 ---
 
 ## Overview
 
-鲍永 / Bao Yong is an Eastern Han Sili xiaowei whose current wiki evidence comes from [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]]. He matters because the source places him in a royal-kin enforcement case after Lai Xi's funeral: he impeaches Zhao king Liu Liang for a road dispute and gate-official abuse, then becomes part of the "two Bao" reputation that makes imperial relatives wary of censorial discipline.
+鲍永 / Bao Yong is now synthesized as an Eastern Han former-Gengshi loyalist who enters [[LiuXiu|光武帝刘秀]]'s order through a morally legible surrender, and later as a Sili xiaowei whose enforcement reputation reaches royal kin. [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] gives the old-loyalty surrender layer with [[FengYanEasternHan|冯衍]], while [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]] gives the later court-law layer around Zhao king Liu Liang and the "two Bao" warning.
 
 ## Current Profile
 
-Hanji 710 introduces Bao Yong after Lai Xi's remains return to Luoyang and Liu Xiu personally mourns and escorts the funeral. On the way back, Zhao king Liu Liang disputes the road with Zhang Han and abuses gate officials. Bao Yong responds not as a court flatterer but as Sili xiaowei: he impeaches Liu Liang for violating vassal-minister decorum and committing great disrespect.
+Hanji 684 places Bao Yong beside Feng Yan after they learn that Liu Xuan has been killed. They mourn the old ruler, release people, seal insignia, disperse followers, and go to Henei to surrender. When Liu Xiu asks where Bao Yong's troops are, Bao answers that he would be ashamed to preserve old-lord troops for private wealth and rank. Liu Xiu praises the answer outwardly but is privately dissatisfied, so the source presents old loyalty as morally admirable yet politically incomplete.
 
-The source then pairs Bao Yong with Bao Hui, whom Bao Yong appoints as duguan congshi. Liu Xiu's warning to royal kin and nobles to avoid the "two Bao" gives Bao Yong's enforcement a reputation effect beyond the single case.
+The same episode later says Bao Yong is reused through military merit, while Feng Yan is gradually marginalized. That contrast is important: Bao Yong's old-ruler fidelity becomes usable under the new order only when supplemented by later service. His invocation of Liu Bang's treatment of Ji Bu and Ding Gong also makes him a bridge from Chu-Han loyalty reframing to Eastern Han founding practice.
 
-Bao Yong's profile is not only harsh enforcement. When he later pays respects at the tomb of Gengshi emperor Liu Xuan and Liu Xiu is displeased, Zhang Zhan argues that remembering an old ruler and old ties is a worthy form of loyalty. Liu Xiu accepts the explanation, so the episode frames Bao Yong as a legally severe but morally legible official rather than merely a provocateur.
+Hanji 710 introduces the later enforcement profile after Lai Xi's remains return to Luoyang and Liu Xiu personally mourns and escorts the funeral. On the way back, Zhao king Liu Liang disputes the road with Zhang Han and abuses gate officials. Bao Yong responds as Sili xiaowei by impeaching Liu Liang for violating vassal-minister decorum and committing great disrespect.
+
+The later source then pairs Bao Yong with Bao Hui, whom Bao Yong appoints as duguan congshi. Liu Xiu's warning to royal kin and nobles to avoid the "two Bao" gives Bao Yong's enforcement a reputation effect beyond the single case. When Bao Yong later pays respects at Liu Xuan's tomb and Liu Xiu is displeased, Zhang Zhan defends the act as worthy memory of an old ruler and old ties. Liu Xiu accepts the explanation, so Bao Yong's current profile joins legal severity, remembered old loyalty, and merit-backed incorporation.
 
 ## Key Characteristics
 
+- Former-Gengshi loyalist who surrenders only after mourning Liu Xuan and dispersing followers.
+- Old-loyalty speaker whose troop-dispersal answer is praised publicly but leaves Liu Xiu privately dissatisfied.
+- Reused actor whose later military merit distinguishes him from Feng Yan's marginalization.
 - Sili xiaowei whose authority is shown through impeachment of a royal kinsman.
-- Enforcement figure who treats funeral-road misconduct and gate-official abuse as a public decorum and law problem.
 - Reputation node in the "two Bao" warning to imperial relatives and nobles.
 - Official whose old-loyalty mourning initially irritates Liu Xiu but is later defended as principled memory.
-- Source-bounded actor whose current profile is court-enforcement and moral reputation rather than a full career biography.
 
 ## Evidence
 
+- Surrender posture: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Bao Yong and Feng Yan mourn Liu Xuan, release people, seal insignia, disperse followers, and go to Henei to surrender.
+- Troop-dispersal answer: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Bao Yong tells Liu Xiu he would be ashamed to use the old ruler's people for wealth and rank.
+- Merit-backed reuse: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Bao Yong is later reused through military merit while Feng Yan is gradually marginalized.
+- Loyalty precedent: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] has Bao Yong reassure Feng Yan by invoking Liu Bang's reward of Ji Bu and execution of Ding Gong.
 - Royal-kin impeachment: [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]] says Bao Yong impeaches Zhao king Liu Liang after the road dispute and gate-official abuse.
 - Enforcement rationale: [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]] frames the charge as failure to observe vassal-minister ritual and great disrespect.
 - "Two Bao" reputation: [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]] says Bao Yong appoints Bao Hui and that Liu Xiu warns powerful relatives to avoid the two Bao.
@@ -37,15 +45,19 @@ Bao Yong's profile is not only harsh enforcement. When he later pays respects at
 
 ## Qualifications
 
-This page is bounded to Hanji 710. It does not reconstruct Bao Yong's full office chronology, the formal result of the impeachment, or Bao Hui's independent career. Liu Liang, Bao Hui, Zhang Han, and Zhang Zhan remain source-scoped here because the episode uses them mainly to define Bao Yong's enforcement and reputation.
+This page is bounded to Hanji 684 and Hanji 710. It does not reconstruct Bao Yong's full office chronology, the campaigns behind his later military merit, the formal result of the Liu Liang impeachment, or Bao Hui's independent career. Liu Xuan, Liu Liang, Bao Hui, Zhang Han, and Zhang Zhan remain source-scoped here because the current evidence uses them mainly to define Bao Yong's loyalty posture, incorporation, enforcement, and reputation.
 
 ## What Changed
 
-- Created the page from Hanji 710 as an Eastern Han royal-kin enforcement and "two Bao" reputation case.
+- Added Hanji 684 as Bao Yong's old-Gengshi surrender, troop-dispersal, Ji Bu/Ding Gong precedent, and merit-backed reuse layer.
+- Reframed Bao Yong from only a Sili xiaowei enforcement figure into a combined old-loyalty, service-incorporation, and court-law profile.
+- Preserved Hanji 710 as the royal-kin enforcement, "two Bao" reputation, and old-ruler mourning defense layer.
 
 ## Relationships
 
-- [[LiuXiu|光武帝刘秀]] - ruler whose funeral, royal-kin management, and later acceptance of Zhang Zhan's explanation frame Bao Yong's source role.
+- [[FengYanEasternHan|冯衍]] - paired former-Gengshi surrenderer whose marginalization contrasts with Bao Yong's later merit-backed reuse.
+- [[LiuXiu|光武帝刘秀]] - receiving ruler whose public praise, private dissatisfaction, later use, funeral scene, and royal-kin management frame Bao Yong's source role.
+- [[FormerEnemyLoyaltyReframing|旧敌忠义重释]] - concept tested by Bao Yong's effort to turn old-lord fidelity into a virtue accepted by the new order.
 - [[HighStatusLawEnforcementSignal|高位执法信号]] - conceptual relationship because Bao Yong's impeachment makes law and decorum visible against royal kin.
 - [[LiAsPoliticalOrder|礼制政治秩序]] - related order frame because the charge turns road conduct into vassal-minister ritual discipline.
 - [[CourtLegitimacyOverPatronLoyalty|朝廷名分高于私人恩主]] - adjacent loyalty frame because Zhang Zhan defends Bao Yong's old-ruler mourning as morally coherent rather than disloyal.

@@ -4785,9 +4785,9 @@
       "url": "/wiki/entities/baojuneasternhan/"
     },
     "BaoYongEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件 [loK1AczaP1U-TMtYUTX-upOKAplZ].md",
@@ -4795,9 +4795,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件",
           "url": "/wiki/sources/zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？ [lhtdQtfxiHYUA1nj8ofsDXl8IL8D].md",
+          "key": "zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/baoyongeasternhan/"
     },
     "BaoYuEasternHan": {
@@ -8029,9 +8036,9 @@
       "url": "/wiki/entities/chesterwilliams/"
     },
     "ChimeiRebellion": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -8060,6 +8067,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地",
           "url": "/wiki/sources/zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？ [lhtdQtfxiHYUA1nj8ofsDXl8IL8D].md",
+          "key": "zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
         }
       ],
       "updated": "2026-09-02",
@@ -9193,6 +9207,36 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/commandcreditmisattribution/"
+    },
+    "CommandDisciplineAuthority": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？ [ljJT1t2mK77si6re_-WEW_hPl8qZ].md",
+          "key": "zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》936丨乱世先杀圣母心，这话对吗？ [lmL_kUyC7yYS2IJH2KT46PWNUgAR].md",
+          "key": "zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》936丨乱世先杀圣母心，这话对吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？ [lhtdQtfxiHYUA1nj8ofsDXl8IL8D].md",
+          "key": "zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/commanddisciplineauthority/"
     },
     "CommodityTrapEscape": {
       "episode_count": 1,
@@ -17683,6 +17727,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/fengtouquan/"
     },
+    "FengYanEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？ [lhtdQtfxiHYUA1nj8ofsDXl8IL8D].md",
+          "key": "zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/fengyaneasternhan/"
+    },
     "FengYiEasternHan": {
       "episode_count": 8,
       "show_count": 1,
@@ -18304,6 +18364,36 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/forgededictprivateextraction/"
+    },
+    "FormerEnemyLoyaltyReframing": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（2） [lpQTexVXjrBRPjGbw5HrGmHl9ApK].md",
+          "key": "zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（1） [lpiOQ8iZiTbA7uHBdYbP7i03DjDy].md",
+          "key": "zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？ [lhtdQtfxiHYUA1nj8ofsDXl8IL8D].md",
+          "key": "zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/formerenemyloyaltyreframing/"
     },
     "FortifiedAttritionPatience": {
       "episode_count": 8,
@@ -20348,6 +20438,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/gengchenglinruhoulatehan/"
+    },
+    "GengChunEasternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？ [lhtdQtfxiHYUA1nj8ofsDXl8IL8D].md",
+          "key": "zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？ [lnDwXM9LMCKt1PS6eowQdI_v82pv].md",
+          "key": "zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/gengchuneasternhan/"
     },
     "GengGongEasternHan": {
       "episode_count": 4,
@@ -22947,6 +23060,29 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/highstatuslawenforcementsignal/"
+    },
+    "HighTempleRite": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》121｜嬴政造世界最早高速公路 2200年荒草不生 [ls1u8Dmuvs5bbRzaDf2Dtd00js_P].md",
+          "key": "zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》121｜嬴政造世界最早高速公路 2200年荒草不生",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？ [lhtdQtfxiHYUA1nj8ofsDXl8IL8D].md",
+          "key": "zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/hightemplerite/"
     },
     "HimalayanGlacialFloodRisk": {
       "episode_count": 1,
@@ -31359,9 +31495,9 @@
       "url": "/wiki/entities/liuyanfulingkingeasternhan/"
     },
     "LiuYangZhendingKingEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》719丨光武帝刘秀算不算渣男？ [lk8emE3wWyk5qKJjfxkP0Zsc77iX].md",
@@ -31376,6 +31512,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》686丨刘秀发誓只爱阴丽华，为何立郭氏为后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？ [lhtdQtfxiHYUA1nj8ofsDXl8IL8D].md",
+          "key": "zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
         }
       ],
       "updated": "2026-09-02",
@@ -41638,6 +41781,43 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/realworldassettokenizationrisk/"
     },
+    "RebelMandateManufacture": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》128-7｜刘邦和项羽有何不同？ [llWcqaTNdck4ZitA2pIuFwhjPxP1].md",
+          "key": "zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-7｜刘邦和项羽有何不同？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-3｜陈胜吴广组队成功 [loCnaq-FO1fZtYUD5nghwktEams-].md",
+          "key": "zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-3｜陈胜吴广组队成功",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-2｜起来！被压迫的人们！ [lpx9_IICwog4NJ_nudAJ_I4Ajb25].md",
+          "key": "zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-2｜起来！被压迫的人们！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？ [lhtdQtfxiHYUA1nj8ofsDXl8IL8D].md",
+          "key": "zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/rebelmandatemanufacture/"
+    },
     "ReceptiveRemonstranceGovernance": {
       "episode_count": 6,
       "show_count": 1,
@@ -43260,9 +43440,9 @@
       "url": "/wiki/concepts/royalkinpowerwithdrawal/"
     },
     "RoyalKinTreasonLawBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
@@ -43270,9 +43450,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？ [lhtdQtfxiHYUA1nj8ofsDXl8IL8D].md",
+          "key": "zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/royalkintreasonlawboundary/"
     },
     "RoyalSociety": {
@@ -51419,9 +51606,9 @@
       "url": "/wiki/entities/wanglanghebeiclaimant/"
     },
     "WangLiangEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》699丨敢与刘秀争雄的他，为何惨淡收场？ [lth-8mnDUDj3kHf9CNsoUj86C1_z].md",
@@ -51429,9 +51616,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》699丨敢与刘秀争雄的他，为何惨淡收场？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？ [lhtdQtfxiHYUA1nj8ofsDXl8IL8D].md",
+          "key": "zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/wangliangeasternhan/"
     },
     "WangMiLateHan": {

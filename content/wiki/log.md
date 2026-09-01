@@ -14931,3 +14931,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] ingest | 《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？
+
+Ingested the 2026-06-13 芮淇讲透资治通鉴 episode backfilling Jianwu 2 / 26 CE around Liu Xiu's Luoyang ritual order, Chimei's Chang'an destruction, Liu Yang's prophecy-backed Zhending threat and Geng Chun's killing, Bao Yong and Feng Yan's former-Gengshi surrender, and Wang Liang's command-discipline crisis under Wu Han. Added source `zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d`; created `GengChunEasternHan` and `FengYanEasternHan`; updated `LiuYangZhendingKingEasternHan`, `BaoYongEasternHan`, `WangLiangEasternHan`, `ChimeiRebellion`, `RoyalKinTreasonLawBoundary`, `CommandDisciplineAuthority`, `RebelMandateManufacture`, `FormerEnemyLoyaltyReframing`, `HighTempleRite`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Liu De, Chen Fu, Deng Long, Zong Guang, exact tablet-transfer officials, and the closing music-favor setup remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
