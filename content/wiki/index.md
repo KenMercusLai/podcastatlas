@@ -26,6 +26,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》716丨乱世之中，律法有多重要？](sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i.md) — 38-39 CE Guangwu episode on Liang Tong and Du Lin's penal-law debate, Western Regions capacity refusal, Han Xin's remonstrance death, Xiongnu pressure, border relocation, and the degree-field disturbance prelude.
 - [《资治通鉴·汉纪》717丨13个字引发的帝王之怒！](sources/zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v.md) — 39 CE Guangwu episode on degree-field land registration, the Chenliu comparison note, Liu Yang's political reading, Ouyang Xi's punishment, Lu Fang's Gaoliu return, and Zhang Kan's Gaoliu/Yuyang frontier governance.
 - [《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？](sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r.md) — 40 CE Guangwu-era episode on Zheng Ce and Zheng Er's Jiaozhi revolt, land-and-grain fraud punishment, anti-bandit incentive design, Lu Fang's fragile surrender, and Ma Yuan's five-zhu coin memorial.
+- [680. The Netherlands: The Revolt that Made The Modern World (Part 4)](sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543.md) — The Rest Is History episode on Het Wilhelmus, William of Orange, loyal rebellion, the Sea Beggars, Brill, the Act of Abjuration, and the Dutch Republic.
 - [681. Brazil: The Emperor's Anthem (Part 5)](sources/681-brazil-the-emperors-anthem-part-5-glt5596929385.md) — The Rest Is History episode on Brazil's national anthem, Portuguese court in Rio, Pedro I independence, imperial slavery, republican symbol reuse, 1922 lyrics, flag imagery, and Diretas Ja protest performance.
 - [Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick](sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085.md) — Huberman Lab episode with Paul Eastwick on idiosyncratic attraction, dating-app marketplace dynamics, repeated-contact dating, perceived similarity, social support, and shared relationship narratives.
 - [Essentials: Improve Flexibility with Research-Supported Stretching Protocols](sources/essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831.md) — Huberman Lab Essentials episode on flexibility, stretching, range of motion, neural safety gating, low-intensity static holds, warmup, yoga, and pain tolerance.
@@ -3075,7 +3076,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [St Bartholomew's Day Massacre](entities/StBartholomewsDayMassacre.md) — French confessional trauma behind Walsingham, Sidney, and the three-Henry factional field.
 - [Robert Beale](entities/RobertBeale.md) — Walsingham's brother-in-law and source-linked witness to the warning and intelligence lessons drawn from Paris.
 - [War of the Three Henrys](entities/WarOfTheThreeHenrys.md) — French civil-war phase that follows Anjou's death and narrows England's diplomatic options.
-- [Act of Abjuration](entities/ActOfAbjuration.md) — Dutch renunciation of Philip II's rule before the failed Anjou solution.
+- [Act of Abjuration](entities/ActOfAbjuration.md) — Dutch renunciation of Philip II's rule that marks the break from loyal rebellion to formal sovereignty rupture.
+- [Het Wilhelmus](entities/HetWilhelmus.md) — Dutch national anthem preserving William of Orange's loyal-rebellion paradox and later resistance meaning.
+- [Dutch Republic](entities/DutchRepublic.md) — Northern Low Countries polity emerging from the Dutch Revolt and framed as an early-modern trade, finance, culture, and toleration center.
+- [Sea Beggars](entities/SeaBeggars.md) — Calvinist-leaning privateers whose capture of Brill turns the Dutch Revolt from near-defeat into a northern uprising.
+- [Balthazar Gerard](entities/BalthazarGerard.md) — Catholic assassin who kills William of Orange in Delft after Philip II's bounty.
 - [French Fury](entities/FrenchFury.md) — Anjou's failed Antwerp coup that collapses the French answer to the Dutch Revolt.
 - [Francis Throckmorton](entities/FrancisThrockmorton.md) — English Catholic link among Mary Stuart, London contacts, Paris conspirators, and embassy channels.
 - [Throckmorton Plot](entities/ThrockmortonPlot.md) — 1583 Catholic invasion conspiracy that hardens Elizabethan suspicion of Mary Stuart.
@@ -3087,11 +3092,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sir Philip Sidney](entities/PhilipSidney.md) — Elizabethan courtier, writer, and militant Protestant whose death at Zutphen becomes heroic war symbolism.
 - [Robert Dudley / Earl of Leicester](entities/RobertDudley.md) — Elizabethan favorite and Low Countries commander whose status and diplomacy shape Sidney's Dutch war role.
 - [Francis Drake](entities/FrancisDrake.md) — English slaving-linked sailor, raider, circumnavigator, and naval commander whose career exposes Spanish imperial vulnerability while creating legal and moral ambiguity.
-- [Philip II of Spain](entities/PhilipII.md) — Catholic Spanish monarch whose Low Countries campaign, English embargo, and Armada path drive Anglo-Spanish escalation.
-- [William of Orange](entities/WilliamOfOrange.md) — Dutch Revolt leader whose 1584 assassination leaves rebel provinces close to collapse.
+- [Philip II of Spain](entities/PhilipII.md) — Catholic Spanish monarch whose Dutch repression, loyal-rebellion target role, English embargo, and Armada path drive escalation.
+- [William of Orange](entities/WilliamOfOrange.md) — Dutch Revolt leader whose Habsburg-service past, religious shifts, anthem voice, and 1584 assassination define the revolt's paradox.
 - [Alexander Farnese / Duke of Parma](entities/AlexanderFarnese.md) — Spanish commander whose diplomacy and siegecraft recover the southern Low Countries and capture Antwerp.
 - [Low Countries](entities/LowCountries.md) — Strategic Elizabethan theatre where Dutch revolt, Spanish recovery, and English invasion fears converge.
-- [Dutch Revolt](entities/DutchRevolt.md) — Rebellion against Spanish rule whose near-collapse pushes Elizabeth toward the Treaty of Nonsuch.
+- [Dutch Revolt](entities/DutchRevolt.md) — Rebellion against Spanish Habsburg rule that produces the Dutch Republic and later pushes Elizabeth toward the Treaty of Nonsuch.
 - [Antwerp](entities/Antwerp.md) — Rich Low Countries city whose 1585 fall redirects Protestant merchants and capital toward Holland and Amsterdam.
 - [Amsterdam](entities/Amsterdam.md) — Northern Dutch city strengthened in the episode by Antwerp's Protestant merchant exodus.
 - [Treaty of Nonsuch](entities/TreatyOfNonsuch.md) — 1585 Elizabeth-Dutch treaty sending English troops and making Flushing Sidney's command.
@@ -7415,7 +7420,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [林优里 / Hayashi Yuri](entities/HayashiYuri.md) — Kyoto ALS patient whose death becomes episode 119's Japanese criminal-law and clinical-responsibility case.
 - [王明辰 / Wang Mingchen](entities/WangMingchen.md) — Chinese assisted-death case figure who both requested help for his mother and later wanted euthanasia for himself.
 - [蒲莲生 / Pu Liansheng](entities/PuLiansheng.md) — Physician in the Chinese 1986 assisted-death case involving Wang Mingchen's mother.
-- [Netherlands](entities/Netherlands.md) — Country and early-modern Dutch revolt branch spanning assisted-death comparisons, maritime trade, occupation data, and the Low Countries crisis.
+- [Netherlands](entities/Netherlands.md) — Country whose wiki profile spans Het Wilhelmus, the Dutch Revolt and Republic, assisted-death comparisons, maritime trade, and occupation data.
 - [Belgium](entities/Belgium.md) — European assisted-death comparison country used for psychiatric and minor eligibility controversy.
 - [《是，大臣》 / Yes Minister](entities/YesMinister.md) — British political-satire series read as a durable anatomy of elected reform colliding with permanent civil-service control.
 - [《是，首相》 / Yes, Prime Minister](entities/YesPrimeMinister.md) — Sequel extending the same minister-civil-service satire to prime-ministerial power.
@@ -10573,8 +10578,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [群盗互纠式平乱 / Bandit Mutual-Reporting Pacification](concepts/BanditMutualReportingPacification.md) — Guangwu-era anti-bandit incentive design using peer reporting, pardons, official-accountability repair, shelter penalties, and resettlement.
 - [五铢钱恢复 / Wuzhu Coin Restoration](concepts/WuzhuCoinRestoration.md) — Ma Yuan's memorial and Liu Xiu's adoption of restored five-zhu coinage as practical normalization.
 - [公开称贤比较压力 / Imperial Praise Comparison Pressure](concepts/ImperialPraiseComparisonPressure.md) — Court-management pattern where a ruler's repeated praise for a dead model official makes living ministers feel implicitly judged.
-- [National Anthem Political Plasticity](concepts/NationalAnthemPoliticalPlasticity.md) — Pattern where an official anthem can be claimed by opposed movements because its emotional authority exceeds one regime.
-- [Regime Symbol Continuity](concepts/RegimeSymbolContinuity.md) — Pattern where a public symbol survives regime change because it has become usable national memory.
+- [National Anthem Political Plasticity](concepts/NationalAnthemPoliticalPlasticity.md) — Pattern where an anthem can be claimed across opposed movements, founding ambiguities, and changing regimes.
+- [Regime Symbol Continuity](concepts/RegimeSymbolContinuity.md) — Pattern where a public symbol survives across successor orders because it has become usable national memory.
+- [Loyal Rebellion](concepts/LoyalRebellion.md) — Early-modern posture where rebels profess fidelity to a monarch while resisting officials, soldiers, or policies.
+- [Pragmatic Religious Toleration](concepts/PragmaticReligiousToleration.md) — Managed pluralism where minority religions function through civic need, discretion, or legal fiction under an established public faith.
 - [Slavery National Identity Contradiction](concepts/SlaveryNationalIdentityContradiction.md) — Tension between national liberty or unity claims and a historical formation built on enslaved labor.
 - [Political Marriage Alliance Depreciation / 政治婚姻联盟折价](concepts/PoliticalMarriageAllianceDepreciation.md) — Pattern where a marriage alliance loses central leverage after the original military or political need declines.
 - [Generative AI Hollywood Production](concepts/GenerativeAIHollywoodProduction.md) — Hollywood-specific AI adoption across synthetic scenes, stunts, effects, planning, editing, platform infrastructure, and backlash.

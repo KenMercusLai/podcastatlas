@@ -14532,6 +14532,7 @@ Ingested the 2026-06-22 Huberman Lab episode with Paul Eastwick on attraction, m
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -14663,6 +14664,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 680. The Netherlands: The Revolt that Made The Modern World (Part 4)
+
+Ingested the 2026-06-17 The Rest Is History episode on Het Wilhelmus, William of Orange, the Dutch Revolt, loyal rebellion, Brill, the Act of Abjuration, and the Dutch Republic. Added source `680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543`; created `HetWilhelmus`, `DutchRepublic`, `SeaBeggars`, `BalthazarGerard`, `LoyalRebellion`, and `PragmaticReligiousToleration`; updated Dutch Revolt, William of Orange, Low Countries, Philip II, Netherlands, Act of Abjuration, national anthem political plasticity, regime symbol continuity, The Rest Is History, overview, index, and downstream synthesis artifacts. No settled contradiction found; confessional and regional complexities of the Dutch Revolt remain source-scoped.
 
 ## [2026-09-01] lint | Wiki health check
 

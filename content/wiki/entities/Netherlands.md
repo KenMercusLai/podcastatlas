@@ -2,30 +2,64 @@
 title: "Netherlands"
 type: entity
 tags: [country, europe, healthcare, law, holocaust, maritime-history, trade]
-sources: [694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]
-last_updated: 2026-08-25
+sources:
+  - 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087
+  - 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455
+  - 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110
+  - 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087
+  - 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285
+  - 680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543
+last_updated: 2026-09-01
+knowledge_schema: synthesis-v1
 ---
 
 # Netherlands
 
-[[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] adds the Dutch sovereignty branch before English intervention. The episode explains the [[ActOfAbjuration]], [[FrancoisDukeOfAnjou|Anjou]]'s proclamation as Prince and Lord of the Netherlands, and the [[FrenchFury]] failure as a failed French solution to the [[DutchRevolt]] before [[ElizabethI|Elizabeth I]] is pushed closer to direct involvement.
+## Overview
 
-[[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] adds the early-modern revolt branch behind the later Netherlands. The episode treats the [[LowCountries|Low Countries]] as the battlefield between [[Spain]] and the [[DutchRevolt]], where [[WilliamOfOrange|William of Orange]]'s assassination, [[AlexanderFarnese|Alexander Farnese / Duke of Parma]]'s southern recovery, and [[Antwerp]]'s fall push Protestant merchants north and make [[Amsterdam]] a later commercial winner.
+The Netherlands appears in the wiki as a modern country whose sources connect early-modern revolt and maritime trade, assisted-death law, occupation-era data administration, and now national-symbol formation through [[HetWilhelmus|Het Wilhelmus]] and the [[DutchRepublic]].
 
-[[14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]] adds an early-modern maritime branch. The episode presents Dutch traders and sailors as Protestant rivals to Iberian Catholic powers in [[ConfessionalTradeConflict]], employers or partners in [[WilliamAdams|William Adams / 三浦按针]]'s final voyage, and later beneficiaries of a narrow Japanese trading permission that becomes the [[SakokuDutchWindow]].
+## Current Profile
 
-The Netherlands enters the wiki through [[119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087]] as one of the central assisted-death comparison countries in [[AnlesiXianchang|《安乐死现场》]]. The episode summarizes the 1971 Postma doctor case, the 1973 voluntary euthanasia association, and later disagreement between Dutch and Swiss approaches.
+The early-modern branch is now the strongest historical layer. The Netherlands episode treats the country through the [[LowCountries|Low Countries]], [[WilliamOfOrange|William of Orange]], [[HetWilhelmus|Het Wilhelmus]], [[LoyalRebellion]], and the [[DutchRevolt]] that eventually produces the [[DutchRepublic]]. The Elizabethan sources then show the same revolt from England's strategic angle: the [[ActOfAbjuration]], Anjou's failed French solution, the [[FrenchFury]], William's assassination, Farnese's southern recovery, Antwerp's fall, and the [[TreatyOfNonsuch]] all make the Dutch theatre part of Anglo-Spanish escalation.
 
-In the episode's comparison, the Dutch model is associated with physician-administered voluntary euthanasia, while [[Switzerland]] is associated with patient self-administration through assisted suicide. That difference makes [[AssistedDeathConceptBoundary]] and [[AssistedDeathClinicalResponsibility]] crucial rather than semantic.
+Other sources keep the country from collapsing into one origin story. The maritime Japan source presents Dutch sailors and traders as Protestant rivals to Iberian Catholic powers and later beneficiaries of Japan's narrow Dutch trading window. The assisted-death source uses the Netherlands as a physician-administered voluntary euthanasia comparison case. The IBM/Nazi source presents the Netherlands as a highly recorded occupation setting where population-registration expertise becomes part of [[DataEnabledPersecution|data-enabled persecution]].
 
-[[133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]] adds a darker wartime-administration branch. The episode presents the Netherlands as a highly recorded occupation setting where [[JacobusLentz|Jacobus Lentz]]'s population-registration expertise helped Nazi authorities identify Jewish residents, contrasting this with [[ReneCarmille|Rene Carmille]]'s sabotage in [[France]].
+## Key Characteristics
 
-## Connections
-- [[WilliamAdams|William Adams / 三浦按针]], [[England]], [[Spain]], and [[Portugal]] - early-modern maritime rivalry branch added by episode 14.
-- [[LowCountries|Low Countries]], [[DutchRevolt]], [[ActOfAbjuration]], [[FrancoisDukeOfAnjou|Francois, Duke of Anjou]], [[FrenchFury]], [[WilliamOfOrange|William of Orange]], [[AlexanderFarnese|Alexander Farnese / Duke of Parma]], [[Antwerp]], [[Amsterdam]], and [[TreatyOfNonsuch]] - revolt and intervention branch added by episodes 694-695.
-- [[ConfessionalTradeConflict]], [[EarlyModernJapanEuropeContact]], and [[SakokuDutchWindow]] - Dutch trade-window concepts added by episode 14.
-- [[AssistedDyingLaws]] - broader legal branch that already notes the Netherlands as broader than the U.S. model.
-- [[AssistedDeathConceptBoundary]] - distinction between voluntary euthanasia and assisted suicide.
-- [[CrossCulturalAssistedDeathEthics]] - comparative frame across countries.
-- [[Belgium]] and [[Switzerland]] - European comparison cases in the same source.
-- [[JacobusLentz|Jacobus Lentz / 雅各布斯·伦次]], [[PunchedCardAdministration]], [[DataEnabledPersecution]], and [[TheHolocaust|犹太人大屠杀]] - occupation-data branch added by episode 133.
+- Modern country whose early state-formation story is rooted in the Dutch Revolt and the northern outcome of the Low Countries crisis.
+- National-symbol branch anchored by Het Wilhelmus, William of Orange, loyal rebellion, and 1932 official anthem adoption.
+- Early-modern trade branch connects Dutch Protestant sailors, Iberian rivalry, and the later [[SakokuDutchWindow]] in Japan.
+- Assisted-death branch contrasts Dutch voluntary euthanasia with Swiss self-administered assisted suicide.
+- Occupation-data branch treats Dutch registration capacity as a warning about administrative expertise under violent rule.
+- Commercial and urban branch runs through Antwerp's fall, Protestant merchant movement, Amsterdam, and the Dutch Republic's finance/trade profile.
+
+## Evidence
+
+- Dutch origin and anthem: [[680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543]] connects the Netherlands to Het Wilhelmus, William of Orange, the Dutch Revolt, the Dutch Republic, and national-symbol afterlife.
+- Sovereignty and English intervention: [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] and [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] follow the Act of Abjuration, Anjou, William's assassination, Antwerp, and Nonsuch.
+- Maritime contact: [[14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]] presents Dutch traders through William Adams, Protestant-Iberian rivalry, and Japan's Dutch trading permission.
+- Assisted-death comparison: [[119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087]] distinguishes the Dutch physician-administered model from Swiss assisted suicide.
+- Occupation data: [[133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]] contrasts Jacobus Lentz in the Netherlands with Rene Carmille in France around population registration and persecution.
+
+## Qualifications
+
+The page is a cross-domain country synthesis, not a complete Netherlands history. The revolt and anthem branches are early-modern narrative history; the assisted-death, maritime, and occupation-data branches come from different shows, time periods, and analytic concerns.
+
+## What Changed
+
+- Added the Netherlands national-symbol and Dutch Republic origin branch through Het Wilhelmus, William of Orange, loyal rebellion, and religious toleration.
+- Reorganized the page into `synthesis-v1` while preserving the maritime, assisted-death, and occupation-data branches.
+
+## Relationships
+
+- [[LowCountries]] - regional setting out of which the Dutch revolt and later Netherlands emerge.
+- [[DutchRevolt]] - founding conflict behind the country's early-modern origin story.
+- [[DutchRepublic]] - northern republican polity tied to Dutch modernity, trade, finance, and toleration.
+- [[HetWilhelmus]] - national anthem carrying the revolt's paradox and later resistance meaning.
+- [[WilliamOfOrange]] - founding figure remembered through the anthem and revolt.
+- [[ActOfAbjuration]] - legal break with Philip II in the Dutch sovereignty branch.
+- [[Amsterdam]] - urban and commercial center strengthened by the northern Dutch outcome.
+- [[SakokuDutchWindow]] - Japanese trade-window branch tied to Dutch maritime contact.
+- [[AssistedDeathConceptBoundary]] - legal-medical comparison where the Netherlands helps distinguish euthanasia from assisted suicide.
+- [[DataEnabledPersecution]] - occupation-administration warning grounded partly in the Dutch registration case.

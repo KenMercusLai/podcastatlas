@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6197
+wiki_total_pages: 6199
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -668,6 +668,9 @@ wiki_pages:
   - key: "LoyalMinisterExitEthic"
     title: "Loyal Minister Exit Ethic / 忠臣去国的退场伦理"
     url: "/wiki/concepts/loyalministerexitethic/"
+  - key: "LoyalRebellion"
+    title: "Loyal Rebellion"
+    url: "/wiki/concepts/loyalrebellion/"
   - key: "LoyalServiceMoralLiability"
     title: "Loyal Service Moral Liability / 忠臣事暴政的罪责"
     url: "/wiki/concepts/loyalservicemoralliability/"

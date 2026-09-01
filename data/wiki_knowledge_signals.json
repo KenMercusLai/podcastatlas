@@ -1693,6 +1693,29 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/acquisitioncontractlanguage/"
     },
+    "ActOfAbjuration": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT4209356543 [GLT4209356543].md",
+          "key": "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543",
+          "show": "The Rest Is History",
+          "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
+          "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/actofabjuration/"
+    },
     "ActionAfterAdversity": {
       "episode_count": 1,
       "show_count": 1,
@@ -4042,6 +4065,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/baimarelieflatehan/"
+    },
+    "BalthazarGerard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4209356543 [GLT4209356543].md",
+          "key": "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543",
+          "show": "The Rest Is History",
+          "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
+          "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/balthazargerard/"
     },
     "BanBiaoEasternHan": {
       "episode_count": 4,
@@ -12576,6 +12615,52 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/dulldirtydangerousrobotics/"
     },
+    "DutchRepublic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4209356543 [GLT4209356543].md",
+          "key": "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543",
+          "show": "The Rest Is History",
+          "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
+          "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/dutchrepublic/"
+    },
+    "DutchRevolt": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT5637968455 [GLT5637968455].md",
+          "key": "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+          "show": "The Rest Is History",
+          "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+          "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+        },
+        {
+          "episode_file": "GLT4209356543 [GLT4209356543].md",
+          "key": "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543",
+          "show": "The Rest Is History",
+          "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
+          "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/dutchrevolt/"
+    },
     "DutianAccountabilityEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -20755,6 +20840,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/helios/"
+    },
+    "HetWilhelmus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4209356543 [GLT4209356543].md",
+          "key": "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543",
+          "show": "The Rest Is History",
+          "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
+          "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/hetwilhelmus/"
     },
     "HexiFourCommanderiesLateHan": {
       "episode_count": 2,
@@ -29354,9 +29455,9 @@
       "url": "/wiki/concepts/lowcostmodelposttraining/"
     },
     "LowCountries": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1627515087 [GLT1627515087].md",
@@ -29378,9 +29479,16 @@
           "show": "The Rest Is History",
           "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
           "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        },
+        {
+          "episode_file": "GLT4209356543 [GLT4209356543].md",
+          "key": "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543",
+          "show": "The Rest Is History",
+          "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
+          "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-01",
       "url": "/wiki/entities/lowcountries/"
     },
     "LowGIMarketingTrap": {
@@ -29398,6 +29506,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/lowgimarketingtrap/"
+    },
+    "LoyalRebellion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4209356543 [GLT4209356543].md",
+          "key": "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543",
+          "show": "The Rest Is History",
+          "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
+          "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/loyalrebellion/"
     },
     "LoyaltyCollateralDilemma": {
       "episode_count": 7,
@@ -33123,9 +33247,9 @@
       "url": "/wiki/entities/natesilver/"
     },
     "NationalAnthemPoliticalPlasticity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -33133,6 +33257,13 @@
           "show": "The Rest Is History",
           "title": "681. Brazil: The Emperor's Anthem (Part 5)",
           "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        },
+        {
+          "episode_file": "GLT4209356543 [GLT4209356543].md",
+          "key": "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543",
+          "show": "The Rest Is History",
+          "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
+          "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
         }
       ],
       "updated": "2026-09-01",
@@ -33238,6 +33369,57 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/neoantigenselectiontradeoff/"
+    },
+    "Netherlands": {
+      "episode_count": 6,
+      "show_count": 2,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT5637968455 [GLT5637968455].md",
+          "key": "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+          "show": "The Rest Is History",
+          "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+          "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+        },
+        {
+          "episode_file": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义 [815684110].md",
+          "key": "133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110",
+          "show": "蜜獾吃书",
+          "title": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义",
+          "url": "/wiki/sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110/"
+        },
+        {
+          "episode_file": "119.安乐死现场：正因生命如此珍贵 [770771087].md",
+          "key": "119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087",
+          "show": "蜜獾吃书",
+          "title": "119.安乐死现场：正因生命如此珍贵",
+          "url": "/wiki/sources/119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087/"
+        },
+        {
+          "episode_file": "14.武士威廉：大航海时代的日本和西方 [555771285].md",
+          "key": "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285",
+          "show": "蜜獾吃书",
+          "title": "14.武士威廉：大航海时代的日本和西方",
+          "url": "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+        },
+        {
+          "episode_file": "GLT4209356543 [GLT4209356543].md",
+          "key": "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543",
+          "show": "The Rest Is History",
+          "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
+          "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/netherlands/"
     },
     "NeuromodulatorStateToolkit": {
       "episode_count": 1,
@@ -36035,6 +36217,50 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/philiphamilton/"
     },
+    "PhilipII": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "GLT4665799025 [GLT4665799025].md",
+          "key": "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025",
+          "show": "The Rest Is History",
+          "title": "692. Elizabeth I vs The Catholics: A Massacre in Paris (Part 2)",
+          "url": "/wiki/sources/692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025/"
+        },
+        {
+          "episode_file": "GLT5069845329 [GLT5069845329].md",
+          "key": "693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329",
+          "show": "The Rest Is History",
+          "title": "693. Elizabeth I vs The Catholics: England's Greatest Hero (Part 3)",
+          "url": "/wiki/sources/693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329/"
+        },
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT5637968455 [GLT5637968455].md",
+          "key": "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+          "show": "The Rest Is History",
+          "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+          "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+        },
+        {
+          "episode_file": "GLT4209356543 [GLT4209356543].md",
+          "key": "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543",
+          "show": "The Rest Is History",
+          "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
+          "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/philipii/"
+    },
     "PhilipOfCoburg": {
       "episode_count": 1,
       "show_count": 1,
@@ -36675,6 +36901,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/pradmeshpatil/"
+    },
+    "PragmaticReligiousToleration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4209356543 [GLT4209356543].md",
+          "key": "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543",
+          "show": "The Rest Is History",
+          "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
+          "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/concepts/pragmaticreligioustoleration/"
     },
     "PredictiveWorldModelAnxiety": {
       "episode_count": 1,
@@ -38548,9 +38790,9 @@
       "url": "/wiki/concepts/regencyundercompoundcrisis/"
     },
     "RegimeSymbolContinuity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -38558,6 +38800,13 @@
           "show": "The Rest Is History",
           "title": "681. Brazil: The Emperor's Anthem (Part 5)",
           "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        },
+        {
+          "episode_file": "GLT4209356543 [GLT4209356543].md",
+          "key": "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543",
+          "show": "The Rest Is History",
+          "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
+          "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
         }
       ],
       "updated": "2026-09-01",
@@ -40403,6 +40652,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/scyllaandcharybdis/"
+    },
+    "SeaBeggars": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4209356543 [GLT4209356543].md",
+          "key": "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543",
+          "show": "The Rest Is History",
+          "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
+          "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/seabeggars/"
     },
     "SeasonalRitualConsumptionRestraint": {
       "episode_count": 1,
@@ -44853,9 +45118,9 @@
       "url": "/wiki/entities/theodyssey/"
     },
     "TheRestIsHistory": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -44975,6 +45240,13 @@
           "show": "The Rest Is History",
           "title": "681. Brazil: The Emperor's Anthem (Part 5)",
           "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        },
+        {
+          "episode_file": "GLT4209356543 [GLT4209356543].md",
+          "key": "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543",
+          "show": "The Rest Is History",
+          "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
+          "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
         }
       ],
       "updated": "2026-09-01",
@@ -48164,6 +48436,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/williamfranklin/"
+    },
+    "WilliamOfOrange": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT5637968455 [GLT5637968455].md",
+          "key": "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+          "show": "The Rest Is History",
+          "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+          "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+        },
+        {
+          "episode_file": "GLT4209356543 [GLT4209356543].md",
+          "key": "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543",
+          "show": "The Rest Is History",
+          "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
+          "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        }
+      ],
+      "updated": "2026-09-01",
+      "url": "/wiki/entities/williamoforange/"
     },
     "WillieWhitelaw": {
       "episode_count": 1,

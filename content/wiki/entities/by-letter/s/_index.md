@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8714
+wiki_total_pages: 8718
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -272,6 +272,9 @@ wiki_pages:
   - key: "ScyllaAndCharybdis"
     title: "Scylla and Charybdis"
     url: "/wiki/entities/scyllaandcharybdis/"
+  - key: "SeaBeggars"
+    title: "Sea Beggars"
+    url: "/wiki/entities/seabeggars/"
   - key: "SeaLifeTrust"
     title: "Sea Life Trust"
     url: "/wiki/entities/sealifetrust/"

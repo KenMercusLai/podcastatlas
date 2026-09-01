@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8714
+wiki_total_pages: 8718
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -707,6 +707,9 @@ wiki_pages:
   - key: "Duoshan"
     title: "Duoshan"
     url: "/wiki/entities/duoshan/"
+  - key: "DutchRepublic"
+    title: "Dutch Republic"
+    url: "/wiki/entities/dutchrepublic/"
   - key: "DutchRevolt"
     title: "Dutch Revolt"
     url: "/wiki/entities/dutchrevolt/"

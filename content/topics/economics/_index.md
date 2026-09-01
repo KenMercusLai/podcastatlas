@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1901
+topic_total_pages: 1902
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -3356,6 +3356,9 @@ topic_entities:
   - key: "Dubai"
     title: "Dubai / 迪拜"
     url: "/wiki/entities/dubai/"
+  - key: "DutchRepublic"
+    title: "Dutch Republic"
+    url: "/wiki/entities/dutchrepublic/"
   - key: "DwellTime"
     title: "Dwell Time"
     url: "/wiki/entities/dwelltime/"

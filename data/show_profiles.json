@@ -850,14 +850,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-08-30",
       "latest_episode_file": "GLT1262857909 [GLT1262857909].md",
-      "source_note_count": 21,
-      "topic_matched_source_note_count": 21,
+      "source_note_count": 22,
+      "topic_matched_source_note_count": 22,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 19
+          "source_note_count": 20
         },
         {
           "key": "culture",
@@ -888,16 +888,16 @@
           "episode_count": 6
         },
         {
-          "key": "MaryQueenOfScots",
-          "title": "Mary, Queen of Scots",
-          "url": "/wiki/entities/maryqueenofscots/",
-          "kind": "person",
-          "episode_count": 4
-        },
-        {
           "key": "PhilipII",
           "title": "Philip II of Spain",
           "url": "/wiki/entities/philipii/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
+          "key": "MaryQueenOfScots",
+          "title": "Mary, Queen of Scots",
+          "url": "/wiki/entities/maryqueenofscots/",
           "kind": "person",
           "episode_count": 4
         },

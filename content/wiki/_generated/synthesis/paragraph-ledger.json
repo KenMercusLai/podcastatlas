@@ -475,12 +475,13 @@
       "258d3cecfd602d249de03f40e3adf3020a02e0483ced5147541e8a3c20c1b13b",
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e",
-      "669579ac551e015d5d6c20aa08ac0e7c674e0f7fafcd9adc5bebd4f22c5899ea"
+      "669579ac551e015d5d6c20aa08ac0e7c674e0f7fafcd9adc5bebd4f22c5899ea",
+      "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3"
     ],
-    "paragraph_count": 475
+    "paragraph_count": 476
   },
-  "overview_commit": "36e5ae24c51ac9baedf530e5412972f045646fc7",
-  "overview_digest": "367b273ca32e16606bb1c1bdc753a341a7145cb696155fb9496b08f4573355e2",
+  "overview_commit": "89c83520d7ca2dcb7374d263369b62cbc475fbac",
+  "overview_digest": "c4d86da86f452d1dc2a6628f2aad43d61cc8f61510bf02ceb357be98ae7b67e3",
   "paragraphs": [
     {
       "id": "99bffd6ea498a30fc939473aad03bb6a8047fa332ce8ec0eeb75075e246d1866",
@@ -14627,6 +14628,38 @@
         "StaticStretchingDoseProtocol",
         "StretchingMobilitySafety",
         "essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831"
+      ]
+    },
+    {
+      "id": "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "culture-and-media"
+      ],
+      "text": "The latest addition is [[680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543|680. The Netherlands: The Revolt that Made The Modern World (Part 4)]], a [[TheRestIsHistory]] episode using [[HetWilhelmus]] to backfill the internal Dutch origin story behind the later Elizabethan [[DutchRevolt]] branch. It adds [[HetWilhelmus]], [[DutchRepublic]], [[SeaBeggars]], [[BalthazarGerard]], [[LoyalRebellion]], and [[PragmaticReligiousToleration]], while extending [[Netherlands]], [[LowCountries]], [[WilliamOfOrange]], [[PhilipII]], [[ActOfAbjuration]], [[NationalAnthemPoliticalPlasticity]], and [[RegimeSymbolContinuity]]. Its core synthesis is that the Dutch Revolt's founding symbol preserves political contradiction: William begins as a Habsburg servant and Philip's stadtholder, the anthem still professes loyalty to the King of Spain, but repression, Brill, the Act of Abjuration, and William's assassination turn restrained loyal rebellion into a Dutch Republic origin story. No settled contradiction is recorded; the source backfills rather than revises the later Anjou, Antwerp, Farnese, and Treaty of Nonsuch sequence, while confessional and provincial complexity remains source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543",
+        "ActOfAbjuration",
+        "BalthazarGerard",
+        "DutchRepublic",
+        "DutchRevolt",
+        "HetWilhelmus",
+        "LowCountries",
+        "LoyalRebellion",
+        "NationalAnthemPoliticalPlasticity",
+        "Netherlands",
+        "PhilipII",
+        "PragmaticReligiousToleration",
+        "RegimeSymbolContinuity",
+        "SeaBeggars",
+        "TheRestIsHistory",
+        "WilliamOfOrange"
       ]
     }
   ],

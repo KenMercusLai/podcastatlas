@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1552
+topic_total_pages: 1553
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -3744,6 +3744,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543"
+    title: "680. The Netherlands: The Revolt that Made The Modern World (Part 4)"
+    url: "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
   - key: "681-brazil-the-emperors-anthem-part-5-glt5596929385"
     title: "681. Brazil: The Emperor's Anthem (Part 5)"
     url: "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6197
+wiki_total_pages: 6199
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "PragmaticImmigrationCompromise"
     title: "Pragmatic Immigration Compromise"
     url: "/wiki/concepts/pragmaticimmigrationcompromise/"
+  - key: "PragmaticReligiousToleration"
+    title: "Pragmatic Religious Toleration"
+    url: "/wiki/concepts/pragmaticreligioustoleration/"
   - key: "PreCommercialSportsCommunity"
     title: "Pre-Commercial Sports Community / 商业化前小众运动社群"
     url: "/wiki/concepts/precommercialsportscommunity/"

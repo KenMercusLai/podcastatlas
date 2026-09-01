@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8714
+wiki_total_pages: 8718
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "BakerLab"
     title: "Baker Lab"
     url: "/wiki/entities/bakerlab/"
+  - key: "BalthazarGerard"
+    title: "Balthazar Gerard"
+    url: "/wiki/entities/balthazargerard/"
   - key: "BalticSea"
     title: "Baltic Sea"
     url: "/wiki/entities/balticsea/"
