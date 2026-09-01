@@ -14512,6 +14512,10 @@ Ingested the 2026-09-01 The Intelligence episode on Nepal's August 26, 2026 glac
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-01] ingest | 《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？
+
+Ingested the 2026-06-16 芮淇讲透资治通鉴 episode backfilling Jianwu 5 / 29 CE immediately before Hanji 696. Added source `zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody`; updated `DouRongEasternHan`, `GengYanEasternHan`, `ZhangBuEasternHan`, `BattlefieldFeintAndLure`, `SecurityForAuthorityExchange`, `FortifiedAttritionPatience`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Fei Yi is kept source-scoped to avoid collision with the existing Warring States [[FeiYi|肥义]] page, and Qin Feng, Zhu Hu, Pang Meng, Dong Xian, Liu Yu, Su Mao, Jiao Qiang, Taocheng, Rencheng, Zhu'a, Zhongcheng, and Juli remain source-scoped.
+
 ## [2026-09-01] ingest | Ring Moves to Make Its Video Footage More Private
 
 Ingested the 2026-09-01 Marketplace Tech episode with Jamie Siminoff on Ring's default TAKE encryption, user-held keys for camera video, police community requests, Search Party backlash, and the canceled Flock community-request integration. Created source `tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128` plus `RingTakeEncryption`; updated `Ring`, `JamieSiminoff`, `RingSearchParty`, `FlockSafety`, `ConsumerCameraSurveillance`, `PublicSafetyPrivacyTradeoff`, `index`, and `overview`. No settled contradiction found; TAKE implementation details and the distinction between announced/planned Flock exploration and implementation work remain source-scoped.
@@ -14769,5 +14773,9 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

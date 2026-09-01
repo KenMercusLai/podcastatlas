@@ -488,12 +488,13 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e",
       "669579ac551e015d5d6c20aa08ac0e7c674e0f7fafcd9adc5bebd4f22c5899ea",
-      "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3"
+      "a0393b72e25161dfa2c492be1264091d255869d314c693abcbc7dbc8ccf9d4b3",
+      "5ba1c7a478b342521c54a704f3662e19b3e2e992a9e88c2a01eb72bc8c596387"
     ],
-    "paragraph_count": 488
+    "paragraph_count": 489
   },
-  "overview_commit": "4bce967b9cf9313b2dbc6696c428e445e5639dee",
-  "overview_digest": "184d8a17b8e7e6481512d75bb98e38fd7f39eb2c41a0c4829a3464d466ac5d27",
+  "overview_commit": "8b63c815b5ebfacb53ef031272fa08bdcc709654",
+  "overview_digest": "d4ca4199f611d47dca5a470e546b518cfd497e00bd15bfaac488bdebd2d7fa3c",
   "paragraphs": [
     {
       "id": "9287e5576c2878262bd3a7a2580e6ed403fd10750df46953967a60782d2a7e76",
@@ -14973,6 +14974,29 @@
         "SeaBeggars",
         "TheRestIsHistory",
         "WilliamOfOrange"
+      ]
+    },
+    {
+      "id": "5ba1c7a478b342521c54a704f3662e19b3e2e992a9e88c2a01eb72bc8c596387",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody|《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 5 / 29 CE immediately before [[zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt|Hanji 696]]. It extends [[DouRongEasternHan|窦融]], [[GengYanEasternHan|耿弇]], [[ZhangBuEasternHan|张步]], [[SecurityForAuthorityExchange|交权换安全]], [[FortifiedAttritionPatience|坚壁耗敌式耐心]], and [[BattlefieldFeintAndLure|声东击西与诱敌]]. Its core synthesis is that early Guangwu consolidation works through shaping the field before visible decision: Dou Rong rejects a Hexi-Longxi-Shu autonomy path after weighing legitimacy and force, Liu Xiu steadies Taocheng and waits for reinforcements or enemy food shortage before attacking, and Geng Yan uses routed troops, released captives, false timing, and high ground to pull Fei Yi into defeat before Jinan pacification. No settled contradiction is recorded; Fei Yi is kept separate from the existing [[FeiYi|肥义]] page, and Qin Feng, Zhu Hu, Pang Meng, Dong Xian, Liu Yu, Su Mao, Jiao Qiang, Taocheng, Rencheng, Zhu'a, Zhongcheng, Juli, and exact force details remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BattlefieldFeintAndLure",
+        "DouRongEasternHan",
+        "FeiYi",
+        "FortifiedAttritionPatience",
+        "GengYanEasternHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SecurityForAuthorityExchange",
+        "ZhangBuEasternHan",
+        "zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody",
+        "zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt"
       ]
     }
   ],

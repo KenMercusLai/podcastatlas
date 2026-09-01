@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？](sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody.md) — Jianwu 5 Guangwu episode on Dou Rong's decision to submit Hexi to Liu Xiu, Liu Xiu's patient Taocheng and Dong Xian campaign timing, and Geng Yan's Zhu'a-Juli lure that kills Fei Yi before Hanji 696.
 - [《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！](sources/zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt.md) — Jianwu 5 Guangwu episode on Geng Yan's false Xi'an target, surprise capture of Linzi, provocation and defeat of Zhang Bu, hidden-wound morale control, retreat-path ambush, and Liu Xiu's Han Xin comparison.
 - [《资治通鉴·汉纪》697丨一口气看懂东汉名将耿弇的传奇人生](sources/zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c.md) — Jianwu-era Guangwu backfill on Geng Yan's Qi-pacification finish, Zhang Bu's induced surrender and controlled settlement, Taixue restoration, Feng Yi trust under slander, Lu Fang's Xiongnu-backed northern branch, and Wei Xiao's ritual overreach warning.
 - [After the flood: Nepal's ongoing rescue](sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078.md) — The Intelligence episode on Nepal's glacial-flood disaster, hydropower and aid exposure, AI homework transfer risk, and Japan-inspired listening bars.

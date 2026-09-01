@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-01
-as_of_overview_commit: 4bce967b9cf9313b2dbc6696c428e445e5639dee
-input_digest: 67ba28c743d8b90fe08b16d54219d1e22f5ca380cf0680f3bae0c47146b8834e
+as_of_overview_commit: 8b63c815b5ebfacb53ef031272fa08bdcc709654
+input_digest: 1019850d18b4e55ac3652c39b052c57dbdc391ae6c63c935c0c7a48325d96b81
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 696 adds the Linzi battlefield prelude to Hanji 697: Geng Yan turns false target selection, provocation, prepared defense, hidden-wound morale control, and retreat-path ambush into a chained tactical system against Zhang Bu. Hanji 697 then adds the Qi finish through surrendered-force dispersal, family-backed control, and institutional-restoration notices. The early and late Eastern Han branches otherwise continue to show power through logistics, alliances, legitimacy, institutions, frontier capacity, appointment quality, surrender credibility, and symbolic order; newer sport, state, and technology history claims remain source-scoped rather than collapsed into one model of power.
+Hanji 695 now backfills the Jianwu 5 layer before Hanji 696: Dou Rong chooses Liu Xiu over Hexi-Longxi-Shu autonomy through legitimacy-and-force assessment, Liu Xiu waits at Taocheng and against Dong Xian until morale, reinforcements, and food pressure improve the field, and Geng Yan opens the Zhang Bu campaign through fear transmission and false timing before the later Linzi feint. The early and late Eastern Han branches otherwise continue to show power through logistics, alliances, legitimacy, institutions, frontier capacity, appointment quality, surrender credibility, and symbolic order; newer sport, state, and technology history claims remain source-scoped rather than collapsed into one model of power.
 
 ## Cross-source Findings
+
+### Early Eastern Han 695 Dou Rong Submission And Jinan Lure
+
+[[zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody|Hanji 695]] backfills Jianwu 5 / 29 CE immediately before [[zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt|Hanji 696]]: [[DouRongEasternHan]] chooses [[LiuXiu]] over a Hexi-Longxi-Shu autonomy path by weighing legitimacy and force under [[SecurityForAuthorityExchange]], Liu Xiu practices [[FortifiedAttritionPatience]] at Taocheng and against Dong Xian, and [[GengYanEasternHan]] opens the [[ZhangBuEasternHan]] campaign by using routed troops, released captives, false timing, high ground, and Fei Yi's defeat under [[BattlefieldFeintAndLure]].
+
+**Evidence:** [[zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody]], [[zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt]], [[DouRongEasternHan]], [[LiuXiu]], [[SecurityForAuthorityExchange]], [[FortifiedAttritionPatience]], [[GengYanEasternHan]], [[ZhangBuEasternHan]], [[BattlefieldFeintAndLure]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 695 and functions as the Jianwu 5 prelude to Hanji 696's Linzi battle and Hanji 697's Zhang Bu surrender branch.
+- Dou Rong's submission choice is treated as earlier than the Hanji 702-707 communication, warning, and ritual-submission layers rather than as a contradiction.
+- Fei Yi is kept distinct from the existing Warring States FeiYi route; Qin Feng, Zhu Hu, Pang Meng, Dong Xian, Liu Yu, Su Mao, Jiao Qiang, Taocheng, Rencheng, Zhu'a, Zhongcheng, Juli, exact force counts, and prophecy details remain source-scoped.
 
 ### Early Eastern Han 696 Geng Yan Linzi Feint And Zhang Bu Defeat
 

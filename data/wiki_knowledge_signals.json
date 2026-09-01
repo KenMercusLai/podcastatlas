@@ -4552,9 +4552,9 @@
       "url": "/wiki/concepts/basicresearchbreakthroughlatency/"
     },
     "BattlefieldFeintAndLure": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -4583,6 +4583,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？ [lttLNOAZRrg5dtdVFqMNGCbFEoDy].md",
+          "key": "zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody/"
         }
       ],
       "updated": "2026-09-01",
@@ -12031,9 +12038,9 @@
       "url": "/wiki/entities/doumueasternhan/"
     },
     "DouRongEasternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
@@ -12076,6 +12083,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？ [lttLNOAZRrg5dtdVFqMNGCbFEoDy].md",
+          "key": "zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody/"
         }
       ],
       "updated": "2026-09-01",
@@ -17172,9 +17186,9 @@
       "url": "/wiki/concepts/forgededictprivateextraction/"
     },
     "FortifiedAttritionPatience": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -17217,6 +17231,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云",
           "url": "/wiki/sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？ [lttLNOAZRrg5dtdVFqMNGCbFEoDy].md",
+          "key": "zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody/"
         }
       ],
       "updated": "2026-09-01",
@@ -19167,9 +19188,9 @@
       "url": "/wiki/entities/gengshueasternhan/"
     },
     "GengYanEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -19198,6 +19219,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？ [lttLNOAZRrg5dtdVFqMNGCbFEoDy].md",
+          "key": "zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody/"
         }
       ],
       "updated": "2026-09-01",
@@ -41712,9 +41740,9 @@
       "url": "/wiki/concepts/secondopinionstrategy/"
     },
     "SecurityForAuthorityExchange": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？ [lnDwXM9LMCKt1PS6eowQdI_v82pv].md",
@@ -41743,6 +41771,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》697丨一口气看懂东汉名将耿弇的传奇人生",
           "url": "/wiki/sources/zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？ [lttLNOAZRrg5dtdVFqMNGCbFEoDy].md",
+          "key": "zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody/"
         }
       ],
       "updated": "2026-09-01",
@@ -53803,9 +53838,9 @@
       "url": "/wiki/entities/zhangbailulatehan/"
     },
     "ZhangBuEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -53834,6 +53869,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？ [lttLNOAZRrg5dtdVFqMNGCbFEoDy].md",
+          "key": "zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody/"
         }
       ],
       "updated": "2026-09-01",
