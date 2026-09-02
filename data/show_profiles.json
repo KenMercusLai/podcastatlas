@@ -1276,14 +1276,14 @@
       "earliest_episode_date": "2026-03-31",
       "latest_episode_date": "2026-09-02",
       "latest_episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
-      "source_note_count": 12,
-      "topic_matched_source_note_count": 5,
+      "source_note_count": 13,
+      "topic_matched_source_note_count": 6,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 3
+          "source_note_count": 4
         },
         {
           "key": "history",
@@ -1349,18 +1349,18 @@
           "episode_count": 2
         },
         {
-          "key": "Google",
-          "title": "Google",
-          "url": "/wiki/entities/google/",
-          "kind": "organization",
+          "key": "EricFeishu",
+          "title": "Eric (Feishu source)",
+          "url": "/wiki/entities/ericfeishu/",
+          "kind": "person",
           "episode_count": 2
         }
       ],
       "start_here_episode_files": [
-        "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
+        "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
         "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
         "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？ [lg3T77R6ajM31WcSdV1zE6C8hHj0].md",
-        "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md"
+        "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md"
       ]
     },
     "内核恐慌": {
@@ -2335,14 +2335,14 @@
       "earliest_episode_date": "2025-12-09",
       "latest_episode_date": "2026-09-02",
       "latest_episode_file": "ba044533d184 [ba044533d184].md",
-      "source_note_count": 23,
-      "topic_matched_source_note_count": 17,
+      "source_note_count": 24,
+      "topic_matched_source_note_count": 18,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 16
+          "source_note_count": 17
         },
         {
           "key": "economics",
@@ -2422,10 +2422,10 @@
         }
       ],
       "start_here_episode_files": [
-        "658f592c4a52 [658f592c4a52].md",
+        "ba044533d184 [ba044533d184].md",
         "期权这张饼，为什么越来越难吃了？ ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [期权这张饼，为什么越来越难吃了？-1].md",
         "把身体数据存起来，可能是普通人最划算的 AI 投资 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [把身体数据存起来，可能是普通人最划算的-ai-投资-1].md",
-        "ba044533d184 [ba044533d184].md"
+        "658f592c4a52 [658f592c4a52].md"
       ]
     },
     "芮淇讲透资治通鉴": {

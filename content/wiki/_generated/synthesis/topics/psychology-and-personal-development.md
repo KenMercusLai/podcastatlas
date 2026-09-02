@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-02
-as_of_overview_commit: 7374ace8484de6c0d67cdab39d1fac15039a49e5
-input_digest: 01063c957d83f977dd8a201c4c229f9044c48625914362e86f62f86227826d73
+last_updated: 2026-09-03
+as_of_overview_commit: aec6f401287ab5d489bceccd4f8e9ec7bd09aef5
+input_digest: 814d6938e2ccd0bc8b1fbd70473588d36d0c854c248e2ae97462c7c517486bc8
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 697, 699 PLUS, 702, 705-1, 713, 736, 744-745, 753, 798, 892, 901, 902, and late-Han/Liu Bei/Cao Cao/Yuan-family cases keep the historical side of this topic focused on self-command, status reading, loyalty, speech restraint, emotion concealment, and judgment under authority rather than clinical advice. The modern branch covers relationship science, workplace abuse boundaries, functional emotion regulation, meditation and no-self practice, music therapy, creativity, state-dependent self-control, discipline and action after adversity, movement as awareness, AI/workplace trust, sports confidence, companion-animal owner state, Everest-style fear/team-trust judgment, and a secondary KFC/McDonalds consumer-preference case. The KFC/McDonalds Africa paragraph remains secondary here because brand perception and meal preference matter, but the main synthesis belongs to business-market supply localization.
+The Doubao Work AI-office paragraph remains secondary here as a workplace trust and adoption case because agent use depends on context sharing, review behavior, and willingness to change work routines, while its main synthesis belongs to AI technology and business markets. Hanji 697, 699 PLUS, 702, 705-1, 713, 736, 744-745, 753, 798, 892, 901, 902, and late-Han/Liu Bei/Cao Cao/Yuan-family cases keep the historical side of this topic focused on self-command, status reading, loyalty, speech restraint, emotion concealment, and judgment under authority rather than clinical advice. The modern branch covers relationship science, workplace abuse boundaries, functional emotion regulation, meditation and no-self practice, music therapy, creativity, state-dependent self-control, discipline and action after adversity, movement as awareness, AI/workplace trust, sports confidence, companion-animal owner state, Everest-style fear/team-trust judgment, and a secondary KFC/McDonalds consumer-preference case. The KFC/McDonalds Africa paragraph remains secondary here because brand perception and meal preference matter, but the main synthesis belongs to business-market supply localization.
 
 ## Cross-source Findings
 
@@ -615,3 +615,15 @@ The KFC and McDonalds Africa paragraph enters psychology-and-personal-developmen
 - The paragraph belongs primarily to business-and-markets; the psychology assignment is limited to preference, brand perception, and consumer judgment.
 - The evidence is source-scoped to one podcast paragraph and is not a general psychology theory of food choice.
 - Store counts, supplier structure, and expansion plans are business evidence rather than psychological evidence.
+
+### Ai Office Adoption Is Secondary Workplace Trust Case
+
+[[272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp|Episode 272]] enters psychology-and-personal-development only as a workplace trust and adoption case: [[AIOfficeAgent]] products ask users and organizations to grant context, review outputs, and accept changed workflows, while [[OfficeAgentHarnessDesign]], [[EnterpriseConnectorContextQuality]], [[ChinaEnterpriseAISystemDebt]], and [[EnterpriseOperationalMemory]] keep the main evidence in technology and enterprise markets.
+
+**Evidence:** [[272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp]], [[AIOfficeAgent]], [[OfficeAgentHarnessDesign]], [[EnterpriseConnectorContextQuality]], [[ChinaEnterpriseAISystemDebt]], [[EnterpriseOperationalMemory]], [[DoubaoWork]], [[TencentWorkBuddy]], [[Feishu]], [[ZhongJingwei]], [[ZhongTaiAI]]
+
+**Qualifications:**
+
+- This is a workplace-adoption and trust edge, not a clinical psychology or general self-improvement claim.
+- The paragraph belongs primarily to AI-and-technology and business-and-markets; psychology relevance is limited to user trust, review behavior, and willingness to work through agents.
+- Product-test and winner-forecast details remain source-scoped to the Doubao Work episode.

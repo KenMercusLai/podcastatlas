@@ -506,6 +506,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aiassistantaugmentation/"
     },
+    "AIAssistedInfrastructureOperations": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ba044533d184 [ba044533d184].md",
+          "key": "ba044533d184-ba044533d184",
+          "show": "科技乱炖",
+          "title": "从抢 GPU 到喂 AI，互联网正在悄悄更换主人",
+          "url": "/wiki/sources/ba044533d184-ba044533d184/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/concepts/aiassistedinfrastructureoperations/"
+    },
     "AIAssistedWritingDisclosure": {
       "episode_count": 1,
       "show_count": 1,
@@ -1430,9 +1446,9 @@
       "url": "/wiki/concepts/aimodelorchestration/"
     },
     "AIOfficeAgent": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
@@ -1447,9 +1463,16 @@
           "show": "声动早咖啡",
           "title": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？",
           "url": "/wiki/sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460/"
+        },
+        {
+          "episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+          "key": "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+          "show": "乱翻书",
+          "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+          "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-09-03",
       "url": "/wiki/concepts/aiofficeagent/"
     },
     "AIOffshoringLaborResilience": {
@@ -2248,6 +2271,52 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/agentcommandcenter/"
+    },
+    "AgentPaymentInfrastructure": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿 [lr4TVDrq25bY7FUGoqkqoJW6VWDk].md",
+          "key": "11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk",
+          "show": "十字路口Crossing",
+          "title": "11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿",
+          "url": "/wiki/sources/11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk/"
+        },
+        {
+          "episode_file": "可以给你的 Agent 发一点零花钱了 ｜ S10E22 [9a652c19-ceb3-46c2-87b4-bca36e684311].md",
+          "key": "keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311",
+          "show": "What's Next｜科技早知道",
+          "title": "可以给你的 Agent 发一点零花钱了｜ S10E22",
+          "url": "/wiki/sources/keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311/"
+        },
+        {
+          "episode_file": "ba044533d184 [ba044533d184].md",
+          "key": "ba044533d184-ba044533d184",
+          "show": "科技乱炖",
+          "title": "从抢 GPU 到喂 AI，互联网正在悄悄更换主人",
+          "url": "/wiki/sources/ba044533d184-ba044533d184/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/concepts/agentpaymentinfrastructure/"
+    },
+    "AgentReadableWeb": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ba044533d184 [ba044533d184].md",
+          "key": "ba044533d184-ba044533d184",
+          "show": "科技乱炖",
+          "title": "从抢 GPU 到喂 AI，互联网正在悄悄更换主人",
+          "url": "/wiki/sources/ba044533d184-ba044533d184/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/concepts/agentreadableweb/"
     },
     "AgenticDataEngineeringHarness": {
       "episode_count": 1,
@@ -8521,6 +8590,36 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/chinaeasternairlines/"
     },
+    "ChinaEnterpriseAISystemDebt": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界 (1) [174-1].md",
+          "key": "ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1",
+          "show": "晚点聊 LateTalk",
+          "title": "174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界",
+          "url": "/wiki/sources/ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1/"
+        },
+        {
+          "episode_file": "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE [9e923c4c-1c87-499b-90a4-9a21cc83e4b1].md",
+          "key": "e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1",
+          "show": "硅谷101",
+          "title": "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊彭新宇聊聊中国式FDE",
+          "url": "/wiki/sources/e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1/"
+        },
+        {
+          "episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+          "key": "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+          "show": "乱翻书",
+          "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+          "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/concepts/chinaenterpriseaisystemdebt/"
+    },
     "ChinaHomeSharingSupplyMotivation": {
       "episode_count": 1,
       "show_count": 1,
@@ -10597,6 +10696,29 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/courtwomenhistoriography/"
+    },
+    "Coze": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
+          "key": "270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4",
+          "show": "乱翻书",
+          "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
+          "url": "/wiki/sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4/"
+        },
+        {
+          "episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+          "key": "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+          "show": "乱翻书",
+          "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+          "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/entities/coze/"
     },
     "CreatineMonohydrateEvidence": {
       "episode_count": 1,
@@ -13787,9 +13909,9 @@
       "url": "/wiki/entities/douxianeasternhan/"
     },
     "DoubaoWork": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？ [1008598460].md",
@@ -13797,10 +13919,33 @@
           "show": "声动早咖啡",
           "title": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？",
           "url": "/wiki/sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460/"
+        },
+        {
+          "episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+          "key": "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+          "show": "乱翻书",
+          "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+          "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-09-03",
       "url": "/wiki/entities/doubaowork/"
+    },
+    "DoubaoWorkPartner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+          "key": "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+          "show": "乱翻书",
+          "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+          "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/entities/doubaoworkpartner/"
     },
     "DreamFaceTechnologies": {
       "episode_count": 1,
@@ -16828,6 +16973,73 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/enterpriseagentmemory/"
     },
+    "EnterpriseConnectorContextQuality": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
+          "key": "270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4",
+          "show": "乱翻书",
+          "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
+          "url": "/wiki/sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4/"
+        },
+        {
+          "episode_file": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？ [1008598460].md",
+          "key": "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460",
+          "show": "声动早咖啡",
+          "title": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？",
+          "url": "/wiki/sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460/"
+        },
+        {
+          "episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+          "key": "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+          "show": "乱翻书",
+          "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+          "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/concepts/enterpriseconnectorcontextquality/"
+    },
+    "EnterpriseOperationalMemory": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
+          "key": "270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4",
+          "show": "乱翻书",
+          "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
+          "url": "/wiki/sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4/"
+        },
+        {
+          "episode_file": "AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界 (1) [174-1].md",
+          "key": "ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1",
+          "show": "晚点聊 LateTalk",
+          "title": "174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界",
+          "url": "/wiki/sources/ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1/"
+        },
+        {
+          "episode_file": "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE [9e923c4c-1c87-499b-90a4-9a21cc83e4b1].md",
+          "key": "e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1",
+          "show": "硅谷101",
+          "title": "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊彭新宇聊聊中国式FDE",
+          "url": "/wiki/sources/e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1/"
+        },
+        {
+          "episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+          "key": "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+          "show": "乱翻书",
+          "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+          "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/concepts/enterpriseoperationalmemory/"
+    },
     "EnterpriseOwnedModels": {
       "episode_count": 3,
       "show_count": 3,
@@ -16912,6 +17124,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/epinephrinealertnesstoolkit/"
+    },
+    "EricFeishu": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
+          "key": "270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4",
+          "show": "乱翻书",
+          "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
+          "url": "/wiki/sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4/"
+        },
+        {
+          "episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+          "key": "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+          "show": "乱翻书",
+          "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+          "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/entities/ericfeishu/"
     },
     "EricWeinstein": {
       "episode_count": 1,
@@ -18113,6 +18348,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/feifeili/"
+    },
+    "Feishu": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
+          "key": "270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4",
+          "show": "乱翻书",
+          "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
+          "url": "/wiki/sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4/"
+        },
+        {
+          "episode_file": "AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界 (1) [174-1].md",
+          "key": "ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1",
+          "show": "晚点聊 LateTalk",
+          "title": "174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界",
+          "url": "/wiki/sources/ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1/"
+        },
+        {
+          "episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+          "key": "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+          "show": "乱翻书",
+          "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+          "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/entities/feishu/"
     },
     "FemaleCourtEducationEasternHan": {
       "episode_count": 3,
@@ -20774,6 +21039,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/glp1agonists/"
+    },
+    "GPUSpotMarketTrustFriction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ba044533d184 [ba044533d184].md",
+          "key": "ba044533d184-ba044533d184",
+          "show": "科技乱炖",
+          "title": "从抢 GPU 到喂 AI，互联网正在悄悄更换主人",
+          "url": "/wiki/sources/ba044533d184-ba044533d184/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/concepts/gpuspotmarkettrustfriction/"
     },
     "GTSquared": {
       "episode_count": 1,
@@ -35644,6 +35925,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/markcarney/"
     },
+    "MarkLuanfanshu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+          "key": "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+          "show": "乱翻书",
+          "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+          "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/entities/markluanfanshu/"
+    },
     "MarquisDeLafayette": {
       "episode_count": 1,
       "show_count": 1,
@@ -39074,6 +39371,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/odysseus/"
+    },
+    "OfficeAgentHarnessDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+          "key": "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+          "show": "乱翻书",
+          "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+          "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/concepts/officeagentharnessdesign/"
     },
     "OfficeDutyExitConstraint": {
       "episode_count": 1,
@@ -43662,6 +43975,29 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/quintuscaeciliusmetellusnumidicus/"
+    },
+    "QwenOffice": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
+          "key": "270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4",
+          "show": "乱翻书",
+          "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
+          "url": "/wiki/sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4/"
+        },
+        {
+          "episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+          "key": "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+          "show": "乱翻书",
+          "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+          "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/entities/qwenoffice/"
     },
     "RP1Robot": {
       "episode_count": 1,
@@ -51461,9 +51797,9 @@
       "url": "/wiki/concepts/tenantscreeningevictionbackfire/"
     },
     "TencentWorkBuddy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
@@ -51485,9 +51821,16 @@
           "show": "声动早咖啡",
           "title": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？",
           "url": "/wiki/sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460/"
+        },
+        {
+          "episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+          "key": "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+          "show": "乱翻书",
+          "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+          "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-09-03",
       "url": "/wiki/entities/tencentworkbuddy/"
     },
     "TengFuLateHan": {
@@ -52393,6 +52736,29 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/titlesuccessionpublicduty/"
     },
+    "ToAgentDistribution": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "263.Sora死了，Adobe跌了，美图何去何从？ [lgjMYveOoC8WPzR0YvigGVZvdYfS].md",
+          "key": "263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs",
+          "show": "乱翻书",
+          "title": "263.Sora死了，Adobe跌了，美图何去何从？",
+          "url": "/wiki/sources/263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs/"
+        },
+        {
+          "episode_file": "ba044533d184 [ba044533d184].md",
+          "key": "ba044533d184-ba044533d184",
+          "show": "科技乱炖",
+          "title": "从抢 GPU 到喂 AI，互联网正在悄悄更换主人",
+          "url": "/wiki/sources/ba044533d184-ba044533d184/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/concepts/toagentdistribution/"
+    },
     "TokenRevenueBuybackModel": {
       "episode_count": 1,
       "show_count": 1,
@@ -52635,6 +53001,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/toydesignhumancreativityboundary/"
+    },
+    "Trae": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
+          "key": "270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4",
+          "show": "乱翻书",
+          "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
+          "url": "/wiki/sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4/"
+        },
+        {
+          "episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+          "key": "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+          "show": "乱翻书",
+          "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+          "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/entities/trae/"
     },
     "TrafficArbitrageToBrandBuilding": {
       "episode_count": 1,
@@ -61486,6 +61875,38 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhongjinlatehan/"
+    },
+    "ZhongJingwei": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+          "key": "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+          "show": "乱翻书",
+          "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+          "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/entities/zhongjingwei/"
+    },
+    "ZhongTaiAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+          "key": "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+          "show": "乱翻书",
+          "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+          "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/entities/zhongtaiai/"
     },
     "ZhongYao": {
       "episode_count": 5,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6273
+wiki_total_pages: 6278
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "OffensiveHumorSpeechSpace"
     title: "Offensive Humor Speech Space / 冒犯性幽默空间"
     url: "/wiki/concepts/offensivehumorspeechspace/"
+  - key: "OfficeAgentHarnessDesign"
+    title: "Office Agent Harness Design"
+    url: "/wiki/concepts/officeagentharnessdesign/"
   - key: "OfficeFitOverRoteCleverness"
     title: "Office Fit Over Rote Cleverness / 任职才具重于应对小慧"
     url: "/wiki/concepts/officefitoverrotecleverness/"

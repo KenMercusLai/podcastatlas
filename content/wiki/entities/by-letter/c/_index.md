@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8833
+wiki_total_pages: 8840
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1100,6 +1100,9 @@ wiki_pages:
   - key: "CoyoteTrickster"
     title: "Coyote / 凯奥蒂"
     url: "/wiki/entities/coyotetrickster/"
+  - key: "Coze"
+    title: "Coze / 扣子"
+    url: "/wiki/entities/coze/"
   - key: "CPGroup"
     title: "CP Group / 正大集团"
     url: "/wiki/entities/cpgroup/"

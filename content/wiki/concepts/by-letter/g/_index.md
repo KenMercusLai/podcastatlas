@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6273
+wiki_total_pages: 6278
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "GPUHotSwapping"
     title: "GPU Hot Swapping"
     url: "/wiki/concepts/gpuhotswapping/"
+  - key: "GPUSpotMarketTrustFriction"
+    title: "GPU Spot-Market Trust Friction"
+    url: "/wiki/concepts/gpuspotmarkettrustfriction/"
   - key: "GradPLUSLoans"
     title: "Grad PLUS Loans"
     url: "/wiki/concepts/gradplusloans/"

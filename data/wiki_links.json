@@ -867,6 +867,10 @@
     "title": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？",
     "url": "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
   },
+  "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp": {
+    "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
+    "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
+  },
   "28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930": {
     "title": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话",
     "url": "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"
@@ -1490,6 +1494,10 @@
   "AIAssistantServiceEntry": {
     "title": "AI Assistant Service Entry",
     "url": "/wiki/concepts/aiassistantserviceentry/"
+  },
+  "AIAssistedInfrastructureOperations": {
+    "title": "AI-Assisted Infrastructure Operations",
+    "url": "/wiki/concepts/aiassistedinfrastructureoperations/"
   },
   "AIAssistedLightCoding": {
     "title": "AI Assisted Light Coding",
@@ -3454,6 +3462,10 @@
   "AgentRL": {
     "title": "Agent RL",
     "url": "/wiki/concepts/agentrl/"
+  },
+  "AgentReadableWeb": {
+    "title": "Agent-Readable Web",
+    "url": "/wiki/concepts/agentreadableweb/"
   },
   "AgentReliabilityVerification": {
     "title": "Agent Reliability Verification",
@@ -12779,6 +12791,10 @@
     "title": "Coyote / 凯奥蒂",
     "url": "/wiki/entities/coyotetrickster/"
   },
+  "Coze": {
+    "title": "Coze / 扣子",
+    "url": "/wiki/entities/coze/"
+  },
   "Crab": {
     "title": "螃蟹 / Crab",
     "url": "/wiki/entities/crab/"
@@ -15707,6 +15723,10 @@
     "title": "Doubao Work / 豆包工作",
     "url": "/wiki/entities/doubaowork/"
   },
+  "DoubaoWorkPartner": {
+    "title": "Doubao Work Partner / 豆包工作伙伴",
+    "url": "/wiki/entities/doubaoworkpartner/"
+  },
   "DoubtAsIntelligence": {
     "title": "Doubt as Intelligence",
     "url": "/wiki/concepts/doubtasintelligence/"
@@ -17306,6 +17326,10 @@
   "EnterpriseAgentStore": {
     "title": "Enterprise Agent Store",
     "url": "/wiki/concepts/enterpriseagentstore/"
+  },
+  "EnterpriseConnectorContextQuality": {
+    "title": "Enterprise Connector Context Quality",
+    "url": "/wiki/concepts/enterpriseconnectorcontextquality/"
   },
   "EnterpriseCustomDelivery": {
     "title": "Enterprise Custom Delivery",
@@ -20818,6 +20842,10 @@
   "GPUHotSwapping": {
     "title": "GPU Hot Swapping",
     "url": "/wiki/concepts/gpuhotswapping/"
+  },
+  "GPUSpotMarketTrustFriction": {
+    "title": "GPU Spot-Market Trust Friction",
+    "url": "/wiki/concepts/gpuspotmarkettrustfriction/"
   },
   "GRASSelfCertification": {
     "title": "GRAS Self-Certification",
@@ -34131,6 +34159,10 @@
     "title": "Mark (Little Water Distillery)",
     "url": "/wiki/entities/marklittlewaterdistillery/"
   },
+  "MarkLuanfanshu": {
+    "title": "Mark (Luanfanshu AI office source)",
+    "url": "/wiki/entities/markluanfanshu/"
+  },
   "MarkRen": {
     "title": "Mark Ren",
     "url": "/wiki/entities/markren/"
@@ -38370,6 +38402,10 @@
   "OffensiveHumorSpeechSpace": {
     "title": "Offensive Humor Speech Space / 冒犯性幽默空间",
     "url": "/wiki/concepts/offensivehumorspeechspace/"
+  },
+  "OfficeAgentHarnessDesign": {
+    "title": "Office Agent Harness Design",
+    "url": "/wiki/concepts/officeagentharnessdesign/"
   },
   "OfficeBasedRebelIncorporation": {
     "title": "授官式招安 / Office-Based Rebel Incorporation",
@@ -43594,6 +43630,10 @@
   "Qwen": {
     "title": "Qwen",
     "url": "/wiki/entities/qwen/"
+  },
+  "QwenOffice": {
+    "title": "Qwen Office / 千问办公",
+    "url": "/wiki/entities/qwenoffice/"
   },
   "QwenSmartGlasses": {
     "title": "千问眼镜 / Qwen Smart Glasses",
@@ -53363,6 +53403,10 @@
     "title": "Trading Company Investment Model",
     "url": "/wiki/concepts/tradingcompanyinvestmentmodel/"
   },
+  "Trae": {
+    "title": "Trae",
+    "url": "/wiki/entities/trae/"
+  },
   "TrafficArbitrageToBrandBuilding": {
     "title": "Traffic Arbitrage to Brand Building",
     "url": "/wiki/concepts/trafficarbitragetobrandbuilding/"
@@ -60963,6 +61007,10 @@
     "title": "钟瑾 / Zhong Jin (late Han)",
     "url": "/wiki/entities/zhongjinlatehan/"
   },
+  "ZhongJingwei": {
+    "title": "钟静伟 / Zhong Jingwei",
+    "url": "/wiki/entities/zhongjingwei/"
+  },
   "ZhongKui": {
     "title": "钟馗",
     "url": "/wiki/entities/zhongkui/"
@@ -60974,6 +61022,10 @@
   "ZhongShengli": {
     "title": "钟声礼",
     "url": "/wiki/entities/zhongshengli/"
+  },
+  "ZhongTaiAI": {
+    "title": "钟泰 / Zhong Tai",
+    "url": "/wiki/entities/zhongtaiai/"
   },
   "ZhongXuegao": {
     "title": "Zhong Xuegao",
@@ -62018,6 +62070,10 @@
   "ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1": {
     "title": "把身体数据存起来，可能是普通人最划算的 AI 投资",
     "url": "/wiki/sources/ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1/"
+  },
+  "ba044533d184-ba044533d184": {
+    "title": "从抢 GPU 到喂 AI，互联网正在悄悄更换主人",
+    "url": "/wiki/sources/ba044533d184-ba044533d184/"
   },
   "baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy": {
     "title": "百万个景观社会：听说你也想当主播？",

@@ -1364,6 +1364,13 @@
       "url": "/topics/history/"
     }
   ],
+  "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930": [
     {
       "key": "culture",
@@ -2395,6 +2402,13 @@
     }
   ],
   "AIAssistantServiceEntry": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "AIAssistedInfrastructureOperations": [
     {
       "key": "technology",
       "label": "Technology",
@@ -16031,6 +16045,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "Coze": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "CrabCulturalSymbolism": [
     {
       "key": "culture",
@@ -19281,6 +19302,13 @@
     }
   ],
   "DoubaoWork": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "DoubaoWorkPartner": [
     {
       "key": "technology",
       "label": "Technology",
@@ -24974,6 +25002,13 @@
     }
   ],
   "GPUHotSwapping": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "GPUSpotMarketTrustFriction": [
     {
       "key": "technology",
       "label": "Technology",
@@ -43365,6 +43400,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "OfficeAgentHarnessDesign": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "OfficeDutyExitConstraint": [
     {
       "key": "politics",
@@ -49507,6 +49549,13 @@
     }
   ],
   "Qwen": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "QwenOffice": [
     {
       "key": "technology",
       "label": "Technology",
@@ -61147,6 +61196,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "Trae": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "TragedyOfTheCommons": [
     {
       "key": "economics",
@@ -68426,6 +68482,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ZhongTaiAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ZhongdiCommandery": [
     {
       "key": "history",
@@ -69531,6 +69594,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ba044533d184-ba044533d184": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "battlefield-rare-earths-how-the-us-lost-to-china": [

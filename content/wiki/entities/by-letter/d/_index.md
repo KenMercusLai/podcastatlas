@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8833
+wiki_total_pages: 8840
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "DoubaoWork"
     title: "Doubao Work / 豆包工作"
     url: "/wiki/entities/doubaowork/"
+  - key: "DoubaoWorkPartner"
+    title: "Doubao Work Partner / 豆包工作伙伴"
+    url: "/wiki/entities/doubaoworkpartner/"
   - key: "DougBehrens"
     title: "Doug Behrens"
     url: "/wiki/entities/dougbehrens/"

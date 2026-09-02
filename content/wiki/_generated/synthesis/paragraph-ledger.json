@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7594629577120dcb924b0474c0cb65f9ab9676616dc30e7ffa18f542e732cd37",
       "bb866cb9429a6a98da447fe67d4ce23a9585ffe79983474390538f7000317fe9",
       "c2862271dcae2ab66874c6ed54d5d25c5e6d4232daab44b43e5b42d7d5ebd167",
       "0d3384021bd06ab6ee583487ff9323bb8b81afa72a8563c05186baf485a076f8",
@@ -515,11 +516,48 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 513
+    "paragraph_count": 514
   },
-  "overview_commit": "036066a95d18aaccc38e5d89121a7f4b02a09741",
-  "overview_digest": "a5db4feb10fbe71bafac9636c278c0bab7cde384f0d1787cb8bc8fbe1e156330",
+  "overview_commit": "745554f01a285221845150dc1066192be10c8c5d",
+  "overview_digest": "b930039162aaaec0f6d296b848d10350688f363e974379c72b16bb2983b991bd",
   "paragraphs": [
+    {
+      "id": "7594629577120dcb924b0474c0cb65f9ab9676616dc30e7ffa18f542e732cd37",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp|272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy]], a [[Luanfanshu|乱翻书]] episode with [[EricFeishu|Eric]], [[MarkLuanfanshu|Mark]], [[ZhongJingwei|钟静伟]], and [[ZhongTaiAI|钟泰]] on [[DoubaoWork|豆包工作]] as [[ByteDance]]'s AI-office consolidation. It adds [[MarkLuanfanshu]], [[ZhongJingwei]], [[ZhongTaiAI]], [[DoubaoWorkPartner]], [[Trae]], [[Coze]], [[QwenOffice]], [[OfficeAgentHarnessDesign]], and [[EnterpriseConnectorContextQuality]], while extending [[DoubaoWork]], [[TencentWorkBuddy]], [[Feishu]], [[AIOfficeAgent]], [[EricFeishu]], [[ChinaEnterpriseAISystemDebt]], and [[EnterpriseOperationalMemory]]. Its core synthesis is that AI office competition is shifting from feature checklists toward first-party context, connector quality, harness design, post-training loops, token pricing, and customer AI readiness: Doubao Work gains from Feishu/Doubao integration but still shows inconsistent entry, pricing, model-selection, and multi-agent orchestration behavior, while WorkBuddy is framed as more AI-native and temporarily ahead at the harness layer. No settled contradiction is recorded; WorkBuddy/WorkBody identity, product-pricing figures, internal ByteDance organization, connector test results, and winner forecasts remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+        "AIOfficeAgent",
+        "ByteDance",
+        "ChinaEnterpriseAISystemDebt",
+        "Coze",
+        "DoubaoWork",
+        "DoubaoWorkPartner",
+        "EnterpriseConnectorContextQuality",
+        "EnterpriseOperationalMemory",
+        "EricFeishu",
+        "Feishu",
+        "Luanfanshu",
+        "MarkLuanfanshu",
+        "OfficeAgentHarnessDesign",
+        "QwenOffice",
+        "TencentWorkBuddy",
+        "Trae",
+        "ZhongJingwei",
+        "ZhongTaiAI"
+      ]
+    },
     {
       "id": "bb866cb9429a6a98da447fe67d4ce23a9585ffe79983474390538f7000317fe9",
       "primary_topic": "governance-and-institutions",

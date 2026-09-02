@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6273
+wiki_total_pages: 6278
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "AgentOptimizedModelArchitecture"
     title: "Agent-Optimized Model Architecture"
     url: "/wiki/concepts/agentoptimizedmodelarchitecture/"
+  - key: "AgentReadableWeb"
+    title: "Agent-Readable Web"
+    url: "/wiki/concepts/agentreadableweb/"
   - key: "AgenticB2BSourcing"
     title: "Agentic B2B Sourcing"
     url: "/wiki/concepts/agenticb2bsourcing/"
@@ -1178,6 +1181,9 @@ wiki_pages:
   - key: "AIWritingPedagogy"
     title: "AI Writing Pedagogy"
     url: "/wiki/concepts/aiwritingpedagogy/"
+  - key: "AIAssistedInfrastructureOperations"
+    title: "AI-Assisted Infrastructure Operations"
+    url: "/wiki/concepts/aiassistedinfrastructureoperations/"
   - key: "AIAssistedMalwareReverseEngineering"
     title: "AI-Assisted Malware Reverse Engineering"
     url: "/wiki/concepts/aiassistedmalwarereverseengineering/"

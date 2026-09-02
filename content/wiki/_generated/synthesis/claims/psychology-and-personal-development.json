@@ -1086,9 +1086,33 @@
         "SubSaharanAfrica",
         "SouthAfrica"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "ai-office-adoption-is-secondary-workplace-trust-case",
+      "qualifications": [
+        "This is a workplace-adoption and trust edge, not a clinical psychology or general self-improvement claim.",
+        "The paragraph belongs primarily to AI-and-technology and business-and-markets; psychology relevance is limited to user trust, review behavior, and willingness to work through agents.",
+        "Product-test and winner-forecast details remain source-scoped to the Doubao Work episode."
+      ],
+      "statement": "[[272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp|Episode 272]] enters psychology-and-personal-development only as a workplace trust and adoption case: [[AIOfficeAgent]] products ask users and organizations to grant context, review outputs, and accept changed workflows, while [[OfficeAgentHarnessDesign]], [[EnterpriseConnectorContextQuality]], [[ChinaEnterpriseAISystemDebt]], and [[EnterpriseOperationalMemory]] keep the main evidence in technology and enterprise markets.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp",
+        "AIOfficeAgent",
+        "OfficeAgentHarnessDesign",
+        "EnterpriseConnectorContextQuality",
+        "ChinaEnterpriseAISystemDebt",
+        "EnterpriseOperationalMemory",
+        "DoubaoWork",
+        "TencentWorkBuddy",
+        "Feishu",
+        "ZhongJingwei",
+        "ZhongTaiAI"
+      ]
     }
   ],
-  "input_digest": "01063c957d83f977dd8a201c4c229f9044c48625914362e86f62f86227826d73",
-  "summary": "Hanji 697, 699 PLUS, 702, 705-1, 713, 736, 744-745, 753, 798, 892, 901, 902, and late-Han/Liu Bei/Cao Cao/Yuan-family cases keep the historical side of this topic focused on self-command, status reading, loyalty, speech restraint, emotion concealment, and judgment under authority rather than clinical advice. The modern branch covers relationship science, workplace abuse boundaries, functional emotion regulation, meditation and no-self practice, music therapy, creativity, state-dependent self-control, discipline and action after adversity, movement as awareness, AI/workplace trust, sports confidence, companion-animal owner state, Everest-style fear/team-trust judgment, and a secondary KFC/McDonalds consumer-preference case. The KFC/McDonalds Africa paragraph remains secondary here because brand perception and meal preference matter, but the main synthesis belongs to business-market supply localization.",
+  "input_digest": "814d6938e2ccd0bc8b1fbd70473588d36d0c854c248e2ae97462c7c517486bc8",
+  "summary": "The Doubao Work AI-office paragraph remains secondary here as a workplace trust and adoption case because agent use depends on context sharing, review behavior, and willingness to change work routines, while its main synthesis belongs to AI technology and business markets. Hanji 697, 699 PLUS, 702, 705-1, 713, 736, 744-745, 753, 798, 892, 901, 902, and late-Han/Liu Bei/Cao Cao/Yuan-family cases keep the historical side of this topic focused on self-command, status reading, loyalty, speech restraint, emotion concealment, and judgment under authority rather than clinical advice. The modern branch covers relationship science, workplace abuse boundaries, functional emotion regulation, meditation and no-self practice, music therapy, creativity, state-dependent self-control, discipline and action after adversity, movement as awareness, AI/workplace trust, sports confidence, companion-animal owner state, Everest-style fear/team-trust judgment, and a secondary KFC/McDonalds consumer-preference case. The KFC/McDonalds Africa paragraph remains secondary here because brand perception and meal preference matter, but the main synthesis belongs to business-market supply localization.",
   "topic_id": "psychology-and-personal-development"
 }

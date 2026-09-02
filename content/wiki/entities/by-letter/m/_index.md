@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8833
+wiki_total_pages: 8840
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "MarkLittleWaterDistillery"
     title: "Mark (Little Water Distillery)"
     url: "/wiki/entities/marklittlewaterdistillery/"
+  - key: "MarkLuanfanshu"
+    title: "Mark (Luanfanshu AI office source)"
+    url: "/wiki/entities/markluanfanshu/"
   - key: "MarkAbbott"
     title: "Mark Abbott"
     url: "/wiki/entities/markabbott/"
