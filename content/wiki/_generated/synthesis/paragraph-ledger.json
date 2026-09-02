@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8f8f5bed55b64b3394ae346629e0df528d43f3ce7559982ae40aaf5c4d7e7cf0",
       "7594629577120dcb924b0474c0cb65f9ab9676616dc30e7ffa18f542e732cd37",
       "bb866cb9429a6a98da447fe67d4ce23a9585ffe79983474390538f7000317fe9",
       "c2862271dcae2ab66874c6ed54d5d25c5e6d4232daab44b43e5b42d7d5ebd167",
@@ -516,11 +517,34 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 514
+    "paragraph_count": 515
   },
-  "overview_commit": "957a24c822fb2313f9d4b6a37fc2e60a2ddde790",
-  "overview_digest": "b88507471dda327fae5bd2fae230d49f32bde439274294da377097a771757310",
+  "overview_commit": "e434c285a28d562c8dbb0844e1c41043267682eb",
+  "overview_digest": "f745eb7570d82b5443ce945045bfe57aebecc0ea2e0fa7931b1a3cfb409d6ee1",
   "paragraphs": [
+    {
+      "id": "8f8f5bed55b64b3394ae346629e0df528d43f3ce7559982ae40aaf5c4d7e7cf0",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp|《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Gengshi 2 / 24 CE immediately before [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]]. It extends [[WangLangHebeiClaimant|王郎]], [[LiuXiu|刘秀]], [[LiuXuanGengshiEmperor|更始帝刘玄]], [[GengYanEasternHan|耿弇]], [[RebelMandateManufacture|起义天命制造]], and [[CrisisComposureCoverStory|临场定力与借势遮掩]]. Its core synthesis is that early Hebei crisis begins as a legitimacy-and-composure test: Wang Lang's false Liu Ziyu identity turns rumor into pursuit pressure, Liu Xuan's Chang'an court shows restored-Han title outpacing governance capacity, Geng Yan rejects the claimant and points Liu Xiu toward northern cavalry, and Liu Xiu survives Jizhong/Raoyang by switching from flight to role-consistent stillness. No settled contradiction is recorded; Liu Ziyu, Zhao Meng, Li Song, Shentu Jian, Wei Ao, Sun Chang, Wei Bao, Liu Jie, Raoyang, exact offices, and force counts remain source-scoped or normalized through existing routes.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "CrisisComposureCoverStory",
+        "GengYanEasternHan",
+        "LiuXiu",
+        "LiuXuanGengshiEmperor",
+        "RebelMandateManufacture",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangLangHebeiClaimant",
+        "zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp",
+        "zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe"
+      ]
+    },
     {
       "id": "7594629577120dcb924b0474c0cb65f9ab9676616dc30e7ffa18f542e732cd37",
       "primary_topic": "ai-and-technology",

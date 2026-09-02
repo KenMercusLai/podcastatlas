@@ -3,18 +3,30 @@
 generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
-last_updated: 2026-09-02
-as_of_overview_commit: 39901a21d56bed15bac92d89960387be954186f3
-input_digest: 44f8a839e3d0bcbc42453562e0f6ae27efef9aad4854f490ca253ce8327da954
+last_updated: 2026-09-03
+as_of_overview_commit: e434c285a28d562c8dbb0844e1c41043267682eb
+input_digest: bf52db8ffc996db0220557fa502f619236c0ef93326d48dda78ca9905e4a219e
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Britain anthem episode adds a governance-symbol case to the existing claims: God Save the King works less through statute than through convention, origin ambiguity, dynastic repurposing, and monarchy-under-law language, while England and Scotland football anthem choices expose state and constituent-nation identity as different institutional layers. The existing governance synthesis continues to center on legitimacy and institutional capacity: Eastern Han accession and frontier management, surrender credibility, office quality, correction mechanisms, legal and biometric boundaries, health-product identity, disaster response, sport institutions, ritual institutions, and public symbols are treated as capacity problems rather than isolated policy events.
+Hanji 669 adds an early Eastern Han governance case before the prior Hebei sequence: Wang Lang's false Liu Ziyu identity makes legitimacy a public-pressure weapon, Liu Xuan's Chang'an court shows restored-Han title outrunning capacity, and Geng Yan plus Liu Xiu turn alignment judgment and crisis composure into survival infrastructure. Britain anthem remains a public-symbol governance case, and the broader synthesis continues to treat legitimacy, institutional capacity, surrender credibility, office quality, correction mechanisms, legal boundaries, disaster response, sport institutions, ritual institutions, and public symbols as capacity problems rather than isolated policy events.
 
 ## Cross-source Findings
+
+### Early Eastern Han 669 Legitimacy Composure And Court Capacity
+
+[[zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp|Hanji 669]] adds the earliest current Hebei-crisis governance layer before [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]]: [[WangLangHebeiClaimant]] turns false Liu Ziyu identity into public credibility under [[RebelMandateManufacture]], [[LiuXuanGengshiEmperor]] shows restored-Han title outpacing Chang'an court capacity, [[GengYanEasternHan]] rejects the manufactured claim and points [[LiuXiu]] toward northern cavalry, and [[CrisisComposureCoverStory]] captures Liu Xiu's Raoyang survival by role-consistent stillness.
+
+**Evidence:** [[zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp]], [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe]], [[WangLangHebeiClaimant]], [[RebelMandateManufacture]], [[LiuXuanGengshiEmperor]], [[GengYanEasternHan]], [[LiuXiu]], [[CrisisComposureCoverStory]], [[RuiqiJiangtouZizhiTongjian]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 669 as a Gengshi 2 / 24 CE backfill immediately before Hanji 670.
+- Liu Ziyu, Zhao Meng, Li Song, Shentu Jian, Wei Ao, Sun Chang, Wei Bao, Liu Jie, Raoyang, exact offices, and force counts remain source-scoped.
+- The governance mechanism is early legitimacy pressure and weak-center capacity, not a full reconstruction of Wang Lang's rise or Liu Xuan's whole regime.
 
 ### British Anthem Convention And Constituent Nation Symbol Governance
 

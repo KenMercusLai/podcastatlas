@@ -10,7 +10,8 @@ sources:
   - zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d
   - zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi
   - zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq
-last_updated: 2026-09-02
+  - zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp
+last_updated: 2026-09-03
 ---
 
 ## Definition
@@ -31,6 +32,8 @@ Hanji 681 adds a genealogical claimant variant through [[LuFangEasternHan|Lu Fan
 
 Hanji 678 adds a Chimei selection variant through [[ChimeiRebellion|the Red Eyebrows]]. As the army nears Chang'an, a shamanic warning attributed to Chengyang Jing King Liu Zhang and Fang Yang's advice push the commanders to seek a Liu descendant. The altar and three-lot draw turn [[LiuPenziEasternHan|Liu Penzi]]'s accidental selection into apparent heavenly choice, even though the source immediately shows the boy's terror and lack of command authority.
 
+Hanji 669 adds a Hebei claimant variant through [[WangLangHebeiClaimant|Wang Lang]]. Wang Lang does not need a chen text or lot drawing in this source; he claims to be Liu Ziyu, Emperor Cheng's son, and that dynastic identity narrative becomes believable enough that Hebei crowds treat him as more credible than [[LiuXiu|Liu Xiu]]. The mechanism is narrower than a full religious mandate, but it still manufactures political destiny by making a local claimant appear to embody restored Han succession.
+
 ## Key Claims
 
 - Survival pressure, military ambition, or royal-kin opportunity can start a challenge, but mandate stories help it scale beyond ordinary self-interest.
@@ -38,7 +41,7 @@ Hanji 678 adds a Chimei selection variant through [[ChimeiRebellion|the Red Eyeb
 - Fabricated sacred signs can work politically because they coordinate rumor, expectation, and follower confidence.
 - The sources present these signs as political devices, not as proof that the supernatural claim is true.
 - Sacred rumor can be deliberately staged, as with Chen Sheng and Liu Yang, or retrospectively attached, as with Liu Bang's white-snake story.
-- Eastern Han cases show that mandate manufacture can threaten a new restoration order before open rebellion and can make false genealogy useful to outside patrons.
+- Eastern Han cases show that mandate manufacture can threaten a new restoration order before open rebellion and can make false genealogy useful to local claimant pressure or outside patrons.
 - Hanji 678 shows that a rebel army can combine shamanic warning, royal genealogy, and ritualized random choice to make a powerless figurehead appear selected by Heaven.
 
 ## Evidence
@@ -51,6 +54,8 @@ Hanji 678 adds a Chimei selection variant through [[ChimeiRebellion|the Red Eyeb
 - Pre-rebellion risk: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Liu Yang's case is later treated as short of actual rebellion, showing that the mandate device itself can still trigger lethal state action.
 - False dynastic genealogy: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] says Lu Fang falsely claims to be Han Wudi's great-grandson Liu Wenbo and uses that identity to win support.
 - Patron-backed claimant manufacture: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] says Xiongnu treats Lu Fang's claimed Liu identity as useful enough to install him as "Han emperor."
+- Local dynastic-identity fraud: [[zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp|Hanji 669]] says Wang Lang claims to be Liu Ziyu, Emperor Cheng's son, and becomes credible enough in Hebei to endanger Liu Xiu.
+- Belief before verification: [[zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp|Hanji 669]] says Liu Xiu's market recruitment is mocked because the crowd treats Wang Lang's Handan claim as more plausible than Liu Xiu's position.
 - Shamanic pressure: [[zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq|Hanji 678]] says a Qi shaman's Chengyang Jing King warning pushes Chimei away from a thief identity and toward emperor-making.
 - Genealogical filtering: [[zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq|Hanji 678]] says Chimei searches among seized Liu descendants and treats Liu Mao and Liu Penzi as especially legitimate lines.
 - Ritualized chance: [[zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq|Hanji 678]] says three wooden lots and an altar make Liu Penzi's marked draw publicly acceptable as emperor selection.
@@ -58,11 +63,12 @@ Hanji 678 adds a Chimei selection variant through [[ChimeiRebellion|the Red Eyeb
 
 ## Counterevidence & Qualifications
 
-The concept should not collapse every omen, prophecy, genealogy, lottery, or rumor into deliberate fabrication. Qinji 128-7 is explicitly weaker on intentional staging than Qinji 128-2, Hanji 684 gives Liu Yang's device but not his full organizational plan, Hanji 681 reports Lu Fang's false ancestry without reconstructing every channel by which audiences believed it, and Hanji 678 presents Chimei's shamanic pressure and lot selection through the episode's narrative rather than proving supernatural causality. The current synthesis therefore distinguishes planned sign-making, retrospective sacral rumor, claimant self-legitimation, and ritualized selection while grouping them by political function.
+The concept should not collapse every omen, prophecy, genealogy, lottery, or rumor into deliberate fabrication. Qinji 128-7 is explicitly weaker on intentional staging than Qinji 128-2, Hanji 684 gives Liu Yang's device but not his full organizational plan, Hanji 681 reports Lu Fang's false ancestry without reconstructing every channel by which audiences believed it, Hanji 678 presents Chimei's shamanic pressure and lot selection through the episode's narrative rather than proving supernatural causality, and Hanji 669 shows Wang Lang's dynastic-lineage fraud without a developed ritual or religious sign system. The current synthesis therefore distinguishes planned sign-making, retrospective sacral rumor, claimant self-legitimation, false genealogy, and ritualized selection while grouping them by political function.
 
 ## What Changed
 
 - Added Hanji 678 as the Chimei shamanic-warning, Liu-genealogy, and lottery-selection variant.
+- Added Hanji 669 as the Wang Lang dynastic-lineage fraud variant, where a false Liu Ziyu claim creates enough public credibility to endanger Liu Xiu before military defeat.
 - Clarified that mandate manufacture can create a politically useful figurehead without creating command authority or institutional capacity.
 - Preserved the existing distinction among planned sign-making, retrospective sacred rumor, claimant self-legitimation, and outside-patron use of genealogy.
 
@@ -75,6 +81,7 @@ The concept should not collapse every omen, prophecy, genealogy, lottery, or rum
 - [[XiangYan|项燕]] - borrowed name that activates Chu anti-Qin memory.
 - [[LiuYangZhendingKingEasternHan|真定王刘杨]] - Eastern Han royal-kin claimant who uses chen text and bodily anomaly as mandate evidence.
 - [[LuFangEasternHan|卢芳]] - Eastern Han frontier claimant who turns false Liu and Xiongnu ancestry into political identity.
+- [[WangLangHebeiClaimant|王郎]] - Hebei claimant whose false Liu Ziyu identity shows local dynastic-lineage manufacture without a full omen ritual.
 - [[Xiongnu|匈奴]] - outside sponsor that weaponizes Lu Fang's manufactured identity by installing him as a rival Han emperor.
 - [[ChimeiRebellion|赤眉]] - Eastern Han rebel army that uses shamanic pressure, Liu genealogy, and lot drawing to select Liu Penzi.
 - [[LiuPenziEasternHan|刘盆子]] - powerless figurehead whose lottery selection shows the gap between mandate packaging and command authority.

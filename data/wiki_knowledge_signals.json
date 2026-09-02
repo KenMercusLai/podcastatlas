@@ -10854,9 +10854,9 @@
       "url": "/wiki/concepts/creditbasedbanditsurrender/"
     },
     "CrisisComposureCoverStory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1040丨乱世英雄，曹操为何独独看好刘备？ [lrAzZWO4BjSpvWMNkx5HOar1Iq3x].md",
@@ -10864,9 +10864,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1040丨乱世英雄，曹操为何独独看好刘备？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？ [liYgpHsrxJ01_wN3vVwoyu77-Bkp].md",
+          "key": "zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-09-03",
       "url": "/wiki/concepts/crisiscomposurecoverstory/"
     },
     "CrisisDutyContinuity": {
@@ -21777,9 +21784,9 @@
       "url": "/wiki/entities/gengshueasternhan/"
     },
     "GengYanEasternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -21829,6 +21836,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》671丨你的领导是否值得追随？进来对比下",
           "url": "/wiki/sources/zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？ [liYgpHsrxJ01_wN3vVwoyu77-Bkp].md",
+          "key": "zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp/"
         }
       ],
       "updated": "2026-09-03",
@@ -32972,9 +32986,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 33,
+      "episode_count": 34,
       "show_count": 2,
-      "source_note_count": 33,
+      "source_note_count": 34,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -33206,15 +33220,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》672丨身处职场，会“装”才是高级智慧",
           "url": "/wiki/sources/zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？ [liYgpHsrxJ01_wN3vVwoyu77-Bkp].md",
+          "key": "zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-03",
       "url": "/wiki/entities/liuxiu/"
     },
     "LiuXuanGengshiEmperor": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？ [lurTvFqErB0VF3A33msmd_TxR9Pv].md",
@@ -33271,9 +33292,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地",
           "url": "/wiki/sources/zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？ [liYgpHsrxJ01_wN3vVwoyu77-Bkp].md",
+          "key": "zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-03",
       "url": "/wiki/entities/liuxuangengshiemperor/"
     },
     "LiuXunLateHan": {
@@ -44413,9 +44441,9 @@
       "url": "/wiki/concepts/realworldassettokenizationrisk/"
     },
     "RebelMandateManufacture": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》128-7｜刘邦和项羽有何不同？ [llWcqaTNdck4ZitA2pIuFwhjPxP1].md",
@@ -44458,9 +44486,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》678丨刘盆子：我的皇帝是抓阄来的！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？ [liYgpHsrxJ01_wN3vVwoyu77-Bkp].md",
+          "key": "zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-03",
       "url": "/wiki/concepts/rebelmandatemanufacture/"
     },
     "ReceptiveRemonstranceGovernance": {
@@ -54991,9 +55026,9 @@
       "url": "/wiki/entities/wangkanglatehan/"
     },
     "WangLangHebeiClaimant": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -55029,6 +55064,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？ [liYgpHsrxJ01_wN3vVwoyu77-Bkp].md",
+          "key": "zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp/"
         }
       ],
       "updated": "2026-09-03",
