@@ -15067,3 +15067,11 @@ Ingested the 2026-06-11 芮淇讲透资治通鉴 episode backfilling the immedia
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] ingest | Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28
+
+Ingested the 2026-09-02 What's Next｜科技早知道 episode with Zhou Jiangong on Google DeepMind's reported leadership reshuffle, Demis Hassabis's reported move away from daily operations, Jeff Dean's reported Discovery Loop departure, Gemini/coding-agent pressure, DeepMind-Google organizational friction, and China/open-model competition. Added source `hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6`; created `GoogleDeepMindOrganizationalFriction`; updated `GoogleDeepMind`, `DemisHassabis`, `JeffDean`, `DiscoveryLoop`, `DavidSilver`, `JohnJumper`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source-named "Norm Salzer" identity, Hassabis motive, Discovery Loop domain, Gemini timing, stock reaction, and personnel causality remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

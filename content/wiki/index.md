@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28](sources/hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6.md) — What's Next｜科技早知道 episode on Demis Hassabis's reported Google DeepMind role shift, Jeff Dean's reported Discovery Loop move, Gemini/coding-agent pressure, AI-for-science talent, and DeepMind-Google organizational friction.
 - [《资治通鉴·汉纪》672丨身处职场，会“装”才是高级智慧](sources/zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby.md) — Gengshi 2 / post-Handan backfill on Li Li opening Handan, Wang Lang's death, Liu Xiu publicly burning the Wang Lang correspondence archive, Feng Yi's Big Tree General humility, Zhu Hu's suppressed accession talk, and Liu Xuan's demobilization-recall order that sets up Hanji 673.
 - [《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地](sources/zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd.md) — Gengshi 2 / Hebei backfill on Geng Yan urging Liu Xiu to reject Liu Xuan's recall, Wu Han and Geng Yan forcing Youzhou cavalry mobilization, Liu Xiu defeating and absorbing Tongma troops through personal-risk trust, and Xie Gong's pre-Yecheng lull.
 - [《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？](sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh.md) — Gengshi 2 backfill on Liu Xuan's failed Xiongnu hierarchy restoration, Xie Gong's Yecheng removal, Gongsun Shu's Shu-king claim, Chimei's westward cohesion decision, Deng Yu's Guanzhong delegation, Kou Xun's Henei rear base, and eastern fragmentation through Liu Yong, Qin Feng, and Tian Rong.
@@ -3095,7 +3096,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Airtable](entities/Airtable.md) — No-code SaaS company used by All-In as a post-ZIRP valuation reset and AI disruption case.
 - [Bending Spoons](entities/BendingSpoons.md) — Milan-based software acquirer framed as Airtable's cost-discipline and product-led-growth operator.
 - [Hyper Agent](entities/HyperAgent.md) — Airtable-adjacent AI-agent spinout treated as the separated AI upside branch in the Airtable sale.
-- [Discovery Loop](entities/DiscoveryLoop.md) — Reported Jeff Dean-linked self-improving-AI startup used as a Google talent and organizational-speed signal.
+- [Discovery Loop](entities/DiscoveryLoop.md) — Reported Jeff Dean-linked AI-for-science startup used as a Google AI brain-drain, smaller-team execution, and model/cloud conflict signal.
 - [Surge AI](entities/SurgeAI.md) — U.S. data-labeling company named in the episode's expert-data sales and China control debate.
 - [Mercor](entities/Mercor.md) — Expert-work data startup named in the episode's U.S.-to-China AI training-data debate.
 - [Micro1](entities/Micro1.md) — AI data supplier Jason Calacanis cites as avoiding China sales in the expert-data export debate.
@@ -5796,7 +5797,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Broadcom](entities/Broadcom.md) — TPU implementation partner in E228, tied to ICI, backend work, physical connectivity, mixed-signal expertise, and Google supplier-dependency risk.
 - [Ironwood TPU](entities/IronwoodTPU.md) — Google TPU generation discussed in E228 as a V7-era inference-oriented chip with improved FLOPS and memory bandwidth.
 - [Jonathan Ross](entities/JonathanRoss.md) — Google TPU origin-story figure in E228, linked to the cost pressure of serving deep-learning speech recognition at product scale.
-- [Jeff Dean](entities/JeffDean.md) — Google technical leader named in E228 as part of the high-level direction-setting context for future TPU workloads.
+- [Jeff Dean](entities/JeffDean.md) — Google infrastructure and AI leader whose reported Discovery Loop departure, TPU context, and agent-runtime signals connect to Google DeepMind talent friction.
 - [CUDA](entities/CUDA.md) — Nvidia software ecosystem contrasted with Google's XLA/JAX route in E228 and central to GPU substitution difficulty.
 - [JAX](entities/JAX.md) — Google-oriented ML framework route that can expose TPU performance through XLA but raises migration and debugging requirements.
 - [PyTorch](entities/PyTorch.md) — External ML framework whose TPU/XLA compatibility shapes whether Google TPUs can expand beyond Google-native teams.
@@ -6514,13 +6515,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eli Lilly](entities/EliLilly.md) — Pharmaceutical company named in E227 through a strategic AI cooperation signal with Nvidia.
 - [JP Morgan Healthcare Conference](entities/JPMorganHealthcareConference.md) — Healthcare industry conference used by Zhang Lu as the adoption-sentiment signal for AI integration becoming mandatory.
 - [DeepMind](entities/DeepMind.md) — London AI research company framed as Hassabis's reinforcement-learning AGI lab before Google acquisition and Google DeepMind consolidation.
-- [Demis Hassabis](entities/DemisHassabis.md) — DeepMind founder and Google DeepMind leader interpreted through chess, games, neuroscience, AlphaGo, AlphaFold, and science-versus-race tension.
+- [Demis Hassabis](entities/DemisHassabis.md) — DeepMind founder and Google DeepMind leader interpreted through scientist-founder ambition, AlphaGo/AlphaFold, Gemini pressure, governance proposals, and the S10E28 role-shift debate.
 - [周建功 / Zhou Jiangong](entities/ZhouJiangong.md) — Technology and financial media worker and translator interpreting Hassabis through a 2017 interview and Mallaby biography.
 - [Sebastian Mallaby](entities/SebastianMallaby.md) — Biography author whose Hassabis book grounds the episode while also raising source-tilt questions.
 - [Mustafa Suleyman](entities/MustafaSuleyman.md) — DeepMind cofounder tied to financing, applications, the NHS controversy, Inflection AI, and later Microsoft AI competition.
 - [Shane Legg](entities/ShaneLegg.md) — DeepMind cofounder connecting Hassabis to early AGI networks and nonstandard financing.
-- [David Silver](entities/DavidSilver.md) — Reinforcement-learning researcher linking Hassabis's game work to DeepMind's AlphaGo route.
-- [John Jumper](entities/JohnJumper.md) — AlphaFold figure connecting DeepMind's game AI credibility to protein-structure and AI-for-science breakthroughs.
+- [David Silver](entities/DavidSilver.md) — Reinforcement-learning researcher linking Hassabis's game work to DeepMind's AlphaGo route and later Google DeepMind talent-pressure interpretation.
+- [John Jumper](entities/JohnJumper.md) — AlphaFold figure connecting DeepMind's game AI credibility to protein-structure breakthroughs and later Google DeepMind talent-movement interpretation.
 - [周凯旋 / Zhou Kaixuan](entities/ZhouKaixuan.md) — DeepMind financing figure associated with the roughly $25 million B round in the source.
 - [Inflection AI](entities/InflectionAI.md) — Mustafa Suleyman company used as the bridge from DeepMind departure to Microsoft AI leadership.
 - [Geoff Hinton](entities/GeoffHinton.md) — Deep-learning scientist used as both a route contrast with Sutton-style RL and an AI-risk reference.
@@ -10490,7 +10491,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Huaqiangbei](entities/Huaqiangbei.md) — Shenzhen electronics-market cluster central to MediaTek-enabled shanzhai handset production and distribution.
 - [Girish Redikar](entities/GirishRedikar.md) — Founder of Sprinto and former RecruiterBox founder discussing failed ideas, validation, service productization, and AI governance.
 - [Guy Raz](entities/GuyRaz.md) — How I Built This host whose ingested episodes cover Justin's Nut Butter, e.l.f. Cosmetics, Build-A-Bear, and Advice Line cases.
-- [Google DeepMind](entities/GoogleDeepMind.md) — Google AI organization discussed through Gemini, Windsurf talent, and AI-for-math precedents such as AlphaGeometry and AlphaProof.
+- [Google DeepMind](entities/GoogleDeepMind.md) — Google frontier AI organization discussed through DeepMind research culture, Gemini/coding-agent execution, AI-for-science ambition, and leadership/talent friction.
 - [He Tao](entities/HeTao.md) — Deerflow core person discussing open-source AI workflows, codebase governance, engineering responsibility, and personal AI assistants.
 - [Hermes Agent](entities/HermesAgent.md) — Open-source agent framework discussed through persistent memory, tools, workflow skills, and self-improving harness loops.
 - [Hormel](entities/Hormel.md) — Food company that acquired Justin's Nut Butter in 2016 and later retained a significant stake under Forward Consumer Partners control.
@@ -16707,6 +16708,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Native SaaS Threat](concepts/AINativeSaaSThreat.md) — Risk that AI-native entrants challenge incumbent SaaS products built before AI became core to workflows.
 - [AI NPC Social Infrastructure](concepts/AINPCSocialInfrastructure.md) — Use of AI NPCs as hosts, social participants, and atmosphere regulators inside multiplayer scenes.
 - [AI Organization Design](concepts/AIOrganizationDesign.md) — Organizational problem of combining high talent density, agent leverage, coordination, research vitality, customer value, and result accountability in AI companies.
+- [Google DeepMind Organizational Friction](concepts/GoogleDeepMindOrganizationalFriction.md) — Source-scoped pattern linking DeepMind research culture, Google product/infrastructure pressure, Gemini/coding-agent urgency, and senior-talent exits.
 - [AI Plus Terminals](concepts/AIPlusTerminals.md) — Commercialization thesis linking models, software, hardware carriers, users, physical-world data, and mainstream phone entry points.
 - [AI Product Fragmentation](concepts/AIProductFragmentation.md) — Gap between strong model capability and a coherent product entry point across assistant, browser, search, workspace, and platform surfaces.
 - [AI Programming Engine Shift](concepts/AIProgrammingEngineShift.md) — View that AI changes programming like an engine changes manual work, shifting value toward framing, testing, and judgment.

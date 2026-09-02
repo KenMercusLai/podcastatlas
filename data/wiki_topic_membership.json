@@ -26442,6 +26442,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "GoogleDeepMindOrganizationalFriction": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "GoogleFinance": [
     {
       "key": "economics",
@@ -71045,6 +71052,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m": [

@@ -525,7 +525,7 @@ wiki_pages:
     title: "Discourse on Method / 《谈谈方法》"
     url: "/wiki/entities/discourseonmethod/"
   - key: "DiscoveryLoop"
-    title: "Discovery Loop"
+    title: "DiscoveryLoop"
     url: "/wiki/entities/discoveryloop/"
   - key: "DisneyPlus"
     title: "Disney+"

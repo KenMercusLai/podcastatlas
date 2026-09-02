@@ -15172,7 +15172,7 @@
     "url": "/wiki/concepts/discoveryleddemosprint/"
   },
   "DiscoveryLoop": {
-    "title": "Discovery Loop",
+    "title": "DiscoveryLoop",
     "url": "/wiki/entities/discoveryloop/"
   },
   "DiscoveryModel": {
@@ -22074,6 +22074,10 @@
   "GoogleDeepMind": {
     "title": "Google DeepMind",
     "url": "/wiki/entities/googledeepmind/"
+  },
+  "GoogleDeepMindOrganizationalFriction": {
+    "title": "Google DeepMind Organizational Friction",
+    "url": "/wiki/concepts/googledeepmindorganizationalfriction/"
   },
   "GoogleFinance": {
     "title": "Google Finance",
@@ -62946,6 +62950,10 @@
   "hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5": {
     "title": "Hard cedar: Lebanon seeks Trump's help",
     "url": "/wiki/sources/hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5/"
+  },
+  "hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6": {
+    "title": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28",
+    "url": "/wiki/sources/hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6/"
   },
   "he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months": {
     "title": "He demoted his SaaS to sell a service and 4x'd revenue in 12 months",

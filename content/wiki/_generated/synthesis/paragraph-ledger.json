@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "0d3384021bd06ab6ee583487ff9323bb8b81afa72a8563c05186baf485a076f8",
       "bd3a57574d3a1034587cd3edf2334598c319c12d2fc76e75bc977d55a3868bd2",
       "5971c94722f613e3c9321da1e76173682c5437619cbda835c3252cf86210ab18",
       "46ec1a2537e63930c3c0010d7f9860f384666a3c1e841d715255cf312ea28808",
@@ -512,11 +513,46 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 510
+    "paragraph_count": 511
   },
-  "overview_commit": "9a38fd31abfe664438aa09a516ef52523c309392",
-  "overview_digest": "a6d9b573472ccbb13200255ecdf7274cfb7b64e878646fbc6637ee8d04a2fac5",
+  "overview_commit": "ad1226d1f786c5e2c2dffb130fc5b866c63d0474",
+  "overview_digest": "3ec75de186d43f28c1c2e2efdfb8b6d7d433ca4be811ed7d44cc49f1aa787ad9",
   "paragraphs": [
+    {
+      "id": "0d3384021bd06ab6ee583487ff9323bb8b81afa72a8563c05186baf485a076f8",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The latest addition is [[hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6|Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28]], a [[WhatsNextKejiZaozhidao|What's Next｜科技早知道]] episode with [[ZhouJiangong|周建功 / Zhou Jiangong]] on [[GoogleDeepMind]]'s reported leadership reshuffle. It adds [[GoogleDeepMindOrganizationalFriction]], while extending [[DemisHassabis]], [[JeffDean]], [[DiscoveryLoop]], [[DavidSilver]], [[JohnJumper]], [[DeepMind]], [[GoogleBrain|Google Brain]], [[Gemini]], [[LanguageModelScalingBet]], [[AIForScience]], [[AIOrganizationDesign]], and [[CodingAgentAsUniversalActionLayer]]. Its core synthesis is that the Hassabis role shift and Dean startup move are framed less as isolated news than as a longer organization problem: DeepMind's research-first culture, Google's search and product constraints, Gemini catch-up, coding-agent commercialization, AI-for-science ambition, and U.S.-China/open-model pressure all compete for the same leadership, talent, compute, and execution focus. No settled contradiction is recorded; the source-named \"Norm Salzer\" identity, Discovery Loop domain, Hassabis motive, Gemini timing, stock reaction, and personnel causality remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 2,
+        "culture-and-media": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AIForScience",
+        "AIOrganizationDesign",
+        "CodingAgentAsUniversalActionLayer",
+        "DavidSilver",
+        "DeepMind",
+        "DemisHassabis",
+        "DiscoveryLoop",
+        "Gemini",
+        "GoogleBrain",
+        "GoogleDeepMind",
+        "GoogleDeepMindOrganizationalFriction",
+        "JeffDean",
+        "JohnJumper",
+        "LanguageModelScalingBet",
+        "WhatsNextKejiZaozhidao",
+        "ZhouJiangong",
+        "hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6"
+      ]
+    },
     {
       "id": "bd3a57574d3a1034587cd3edf2334598c319c12d2fc76e75bc977d55a3868bd2",
       "primary_topic": "governance-and-institutions",

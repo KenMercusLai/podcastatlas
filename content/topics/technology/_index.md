@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2660
+topic_total_pages: 2662
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1867,6 +1867,9 @@ topic_concepts:
   - key: "GoogleAITokenPriceLeverage"
     title: "Google AI Token Price Leverage"
     url: "/wiki/concepts/googleaitokenpriceleverage/"
+  - key: "GoogleDeepMindOrganizationalFriction"
+    title: "Google DeepMind Organizational Friction"
+    url: "/wiki/concepts/googledeepmindorganizationalfriction/"
   - key: "GovernmentAIPaceSetting"
     title: "Government AI Pace-Setting"
     url: "/wiki/concepts/governmentaipacesetting/"
@@ -4401,7 +4404,7 @@ topic_entities:
     title: "Dipsig"
     url: "/wiki/entities/dipsig/"
   - key: "DiscoveryLoop"
-    title: "Discovery Loop"
+    title: "DiscoveryLoop"
     url: "/wiki/entities/discoveryloop/"
   - key: "DJI"
     title: "DJI / 大疆"
@@ -7476,6 +7479,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555"
     title: "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555/"
+  - key: "hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6"
+    title: "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28"
+    url: "/wiki/sources/hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6/"
   - key: "tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128"
     title: "Here's how to prep for a job interview with AI"
     url: "/wiki/sources/tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128/"

@@ -1092,14 +1092,14 @@
       "earliest_episode_date": "2026-04-29",
       "latest_episode_date": "2026-09-02",
       "latest_episode_file": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28 [cec8bc7e-3408-4297-a4b8-3cb8d7632cb6].md",
-      "source_note_count": 21,
-      "topic_matched_source_note_count": 18,
+      "source_note_count": 22,
+      "topic_matched_source_note_count": 19,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 18
+          "source_note_count": 19
         },
         {
           "key": "economics",
@@ -1167,9 +1167,9 @@
         }
       ],
       "start_here_episode_files": [
-        "一个中国 FDE 的光环、落差与「救火」日常 ｜ S10E27 [587619bb-62c2-485d-9f27-f0be0115a986].md",
-        "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
         "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28 [cec8bc7e-3408-4297-a4b8-3cb8d7632cb6].md",
+        "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
+        "一个中国 FDE 的光环、落差与「救火」日常 ｜ S10E27 [587619bb-62c2-485d-9f27-f0be0115a986].md",
         "【重听】朱雀三号副总师：火箭回收只有成与败，没有中间态｜ S9E41 [d9e11e3b-7c7e-4beb-b19f-6f90fff38714].md"
       ]
     },

@@ -11648,6 +11648,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/davidhume/"
     },
+    "DavidSilver": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛 [7abda28b-99c6-4ebc-8c0d-37bcc77f6a73].md",
+          "key": "e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73",
+          "show": "硅谷101",
+          "title": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛",
+          "url": "/wiki/sources/e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73/"
+        },
+        {
+          "episode_file": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28 [cec8bc7e-3408-4297-a4b8-3cb8d7632cb6].md",
+          "key": "hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6",
+          "show": "What's Next｜科技早知道",
+          "title": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28",
+          "url": "/wiki/sources/hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/davidsilver/"
+    },
     "DavidYeager": {
       "episode_count": 1,
       "show_count": 1,
@@ -11858,9 +11881,9 @@
       "url": "/wiki/entities/deleterequestandoptoutplatform/"
     },
     "DemisHassabis": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？ [1004978054].md",
@@ -11889,9 +11912,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305/"
+        },
+        {
+          "episode_file": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28 [cec8bc7e-3408-4297-a4b8-3cb8d7632cb6].md",
+          "key": "hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6",
+          "show": "What's Next｜科技早知道",
+          "title": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28",
+          "url": "/wiki/sources/hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/demishassabis/"
     },
     "DemocraticFactionMap": {
@@ -12808,6 +12838,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/discoveryleddemosprint/"
+    },
+    "DiscoveryLoop": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI [42362555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555/"
+        },
+        {
+          "episode_file": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28 [cec8bc7e-3408-4297-a4b8-3cb8d7632cb6].md",
+          "key": "hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6",
+          "show": "What's Next｜科技早知道",
+          "title": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28",
+          "url": "/wiki/sources/hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/discoveryloop/"
     },
     "DisneylandParis": {
       "episode_count": 1,
@@ -21845,6 +21898,136 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/goodfriendsfilm/"
     },
+    "GoogleDeepMind": {
+      "episode_count": 15,
+      "show_count": 10,
+      "source_note_count": 15,
+      "sources": [
+        {
+          "episode_file": "蒸馏风暴：一场无人公开谈论的技术竞赛 (1) [179-1].md",
+          "key": "zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1",
+          "show": "晚点聊 LateTalk",
+          "title": "179: 蒸馏风暴：一场无人公开谈论的技术竞赛",
+          "url": "/wiki/sources/zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1/"
+        },
+        {
+          "episode_file": "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？ [1004978054].md",
+          "key": "kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？",
+          "url": "/wiki/sources/kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054/"
+        },
+        {
+          "episode_file": "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的 [5aeaeb64-9165-4271-9884-23329b511e11].md",
+          "key": "e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11",
+          "show": "硅谷101",
+          "title": "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的",
+          "url": "/wiki/sources/e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11/"
+        },
+        {
+          "episode_file": "tech_20260106_0106_MP_TECH_pod_128 [tech_20260106_0106_MP_TECH_pod_128].md",
+          "key": "tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How convergence will define the tech sector in 2026",
+          "url": "/wiki/sources/tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "AI4S 需要狂人与野心家｜对话英灵殿 Odin：＂如果神存在，我怎能容忍自己不是神？＂【公路播客】 [lhcEYiP6DQoMRwk38uVqJWOoMxyZ].md",
+          "key": "ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz",
+          "show": "十字路口Crossing",
+          "title": "AI4S 需要狂人与野心家｜对话英灵殿 Odin：\\\"如果神存在，我怎能容忍自己不是神？\\\"【公路播客】",
+          "url": "/wiki/sources/ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz/"
+        },
+        {
+          "episode_file": "E244｜端到端vs上下分层：机器人路径之争，正在转向？ [fc9a3737-81a9-49cf-a7d6-530c77df836e].md",
+          "key": "e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e",
+          "show": "硅谷101",
+          "title": "E244｜端到端vs上下分层：机器人路径之争，正在转向？",
+          "url": "/wiki/sources/e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e/"
+        },
+        {
+          "episode_file": "TSR-S4-SamAltman-v4 [TSR-S4-SamAltman-v4].md",
+          "key": "tsr-s4-samaltman-v4-tsr-s4-samaltman-v4",
+          "show": "The Social Radars",
+          "title": "Sam Altman on YC, OpenAI, and the Meaning of Formidable",
+          "url": "/wiki/sources/tsr-s4-samaltman-v4-tsr-s4-samaltman-v4/"
+        },
+        {
+          "episode_file": "【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人 (1) [170-1].md",
+          "key": "jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1",
+          "show": "晚点聊 LateTalk",
+          "title": "170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人",
+          "url": "/wiki/sources/jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1/"
+        },
+        {
+          "episode_file": "EP108 Vibe Coding大地震：Cursor定价争议、Windsurf收购风波，模型厂商亲儿子们又将如何进场？ [lqn_iCq1XQgK7XxxXZRPunj4fan-].md",
+          "key": "ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan",
+          "show": "硬地骇客",
+          "title": "EP108 Vibe Coding大地震：Cursor定价争议、Windsurf收购风波，模型厂商亲儿子们又将如何进场？",
+          "url": "/wiki/sources/ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan/"
+        },
+        {
+          "episode_file": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe [lkInPy65_ZR4cQmK23rmHJ_hhLVQ].md",
+          "key": "134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe",
+          "url": "/wiki/sources/134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe/"
+        },
+        {
+          "episode_file": "140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去 [ll7qIcIWWGFSsORHr4yY-UuqAe8h].md",
+          "key": "140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去",
+          "url": "/wiki/sources/140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h/"
+        },
+        {
+          "episode_file": "137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的 [lha_FAiWxTGet0QMbcOSts3cb5Vb].md",
+          "key": "137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的",
+          "url": "/wiki/sources/137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb/"
+        },
+        {
+          "episode_file": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛 [7abda28b-99c6-4ebc-8c0d-37bcc77f6a73].md",
+          "key": "e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73",
+          "show": "硅谷101",
+          "title": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛",
+          "url": "/wiki/sources/e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI [42362555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555/"
+        },
+        {
+          "episode_file": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28 [cec8bc7e-3408-4297-a4b8-3cb8d7632cb6].md",
+          "key": "hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6",
+          "show": "What's Next｜科技早知道",
+          "title": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28",
+          "url": "/wiki/sources/hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/googledeepmind/"
+    },
+    "GoogleDeepMindOrganizationalFriction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28 [cec8bc7e-3408-4297-a4b8-3cb8d7632cb6].md",
+          "key": "hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6",
+          "show": "What's Next｜科技早知道",
+          "title": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28",
+          "url": "/wiki/sources/hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/googledeepmindorganizationalfriction/"
+    },
     "Gracchi": {
       "episode_count": 2,
       "show_count": 2,
@@ -27129,6 +27312,50 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/jealousyaspoliticalviolence/"
     },
+    "JeffDean": {
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？ [1004978054].md",
+          "key": "kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？",
+          "url": "/wiki/sources/kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054/"
+        },
+        {
+          "episode_file": "E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘 [fd17090c-0d72-4c0d-aa3e-9b00bc062149].md",
+          "key": "e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149",
+          "show": "硅谷101",
+          "title": "E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘",
+          "url": "/wiki/sources/e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149/"
+        },
+        {
+          "episode_file": "「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人 [lmJsNPP7D75YHqH7boVJ1bV6YHBk].md",
+          "key": "moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk",
+          "show": "十字路口Crossing",
+          "title": "「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人",
+          "url": "/wiki/sources/moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI [42362555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555/"
+        },
+        {
+          "episode_file": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28 [cec8bc7e-3408-4297-a4b8-3cb8d7632cb6].md",
+          "key": "hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6",
+          "show": "What's Next｜科技早知道",
+          "title": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28",
+          "url": "/wiki/sources/hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/jeffdean/"
+    },
     "JeffersonianLibertyContradiction": {
       "episode_count": 1,
       "show_count": 1,
@@ -27846,6 +28073,29 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/johnirwin/"
+    },
+    "JohnJumper": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛 [7abda28b-99c6-4ebc-8c0d-37bcc77f6a73].md",
+          "key": "e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73",
+          "show": "硅谷101",
+          "title": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛",
+          "url": "/wiki/sources/e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73/"
+        },
+        {
+          "episode_file": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28 [cec8bc7e-3408-4297-a4b8-3cb8d7632cb6].md",
+          "key": "hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6",
+          "show": "What's Next｜科技早知道",
+          "title": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28",
+          "url": "/wiki/sources/hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/johnjumper/"
     },
     "JointSymptomEscalation": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6258
+wiki_total_pages: 6259
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "GoogleAITokenPriceLeverage"
     title: "Google AI Token Price Leverage"
     url: "/wiki/concepts/googleaitokenpriceleverage/"
+  - key: "GoogleDeepMindOrganizationalFriction"
+    title: "Google DeepMind Organizational Friction"
+    url: "/wiki/concepts/googledeepmindorganizationalfriction/"
   - key: "GossipAsSocialGrooming"
     title: "Gossip As Social Grooming / 八卦作为社会性梳毛"
     url: "/wiki/concepts/gossipassocialgrooming/"
