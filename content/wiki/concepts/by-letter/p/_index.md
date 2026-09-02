@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6257
+wiki_total_pages: 6258
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "PersonalRevengeThroughStatePower"
     title: "Personal Revenge Through State Power / 以国力行私仇"
     url: "/wiki/concepts/personalrevengethroughstatepower/"
+  - key: "PersonalRiskTrustSignal"
+    title: "Personal Risk Trust Signal / 亲身涉险式信任信号"
+    url: "/wiki/concepts/personalrisktrustsignal/"
   - key: "PersonalRuleLegitimacyCrisis"
     title: "Personal Rule Legitimacy Crisis / 个人统治正当性危机"
     url: "/wiki/concepts/personalrulelegitimacycrisis/"

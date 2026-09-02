@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地](sources/zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd.md) — Gengshi 2 / Hebei backfill on Geng Yan urging Liu Xiu to reject Liu Xuan's recall, Wu Han and Geng Yan forcing Youzhou cavalry mobilization, Liu Xiu defeating and absorbing Tongma troops through personal-risk trust, and Xie Gong's pre-Yecheng lull.
 - [《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？](sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh.md) — Gengshi 2 backfill on Liu Xuan's failed Xiongnu hierarchy restoration, Xie Gong's Yecheng removal, Gongsun Shu's Shu-king claim, Chimei's westward cohesion decision, Deng Yu's Guanzhong delegation, Kou Xun's Henei rear base, and eastern fragmentation through Liu Yong, Qin Feng, and Tian Rong.
 - [All-In's Best Ideas Pitch Competition: 4 Investors Present Their Top Trades Live](sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live-41618530.md) — All-In live pitch competition comparing MGM hidden assets, Talon power scarcity, Actus radiopharmaceutical optionality, GeoNet RTK token economics, and position-sizing constraints.
 - [《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？](sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo.md) — Jianwu 1 Guangwu backfill on Fang Wang's failed Ruzi Ying restoration claim, Chimei's Hongnong merger and defeats of Su Mao and Li Song, Gongsun Shu's Chengdu claim, Liu Xiu's Shunshui setback, Wu Han's morale stabilization, and Chen Jun's supply-denial plan.
@@ -1885,6 +1886,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [铜马军 / Tongma Rebel Army (Eastern Han)](entities/TongmaRebelArmyEasternHan.md) — Hebei rebel force whose surrender to Liu Xiu becomes a personal-risk trust incorporation case.
 - [谢躬 / Xie Gong (Eastern Han)](entities/XieGongEasternHan.md) — Gengshi-side Yecheng commander removed when Liu Xiu delegates Wu Han and Cen Peng to seize the city and absorb the remaining force.
 - [刘永 / Liu Yong (Eastern Han)](entities/LiuYongEasternHan.md) — Liu-clan eastern rival whose Liang base, subordinate appointments, and title offers make him a legitimacy-sensitive claimant in Guangwu consolidation.
 - [秦丰 / Qin Feng (Eastern Han)](entities/QinFengEasternHan.md) — Liqiu regional claimant whose defeat shapes Tian Rong's surrender calculation and whose final handling clarifies Liu Xiu's surrender boundary.
@@ -10707,6 +10709,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Personal Risk Trust Signal / 亲身涉险式信任信号](concepts/PersonalRiskTrustSignal.md) — Surrender-and-leadership pattern where a ruler makes promised safety credible by visibly accepting personal danger.
 - [Capacity-Backed Diplomatic Hierarchy / 实力支撑的外交名分](concepts/CapacityBackedDiplomaticHierarchy.md) — Frontier-diplomacy pattern where old status formulas, seals, and kinship arrangements fail when regime capacity cannot make counterparties accept the hierarchy.
 - [Investment Pitch Position Sizing](concepts/InvestmentPitchPositionSizing.md) — Pitch-evaluation discipline that separates idea attractiveness from capital capacity, downside, liquidity, and market impact.
 - [Hidden Asset Optionality](concepts/HiddenAssetOptionality.md) — Investment pattern where underappreciated assets, approvals, real estate, databases, or jurisdictional shifts create upside beyond headline earnings.

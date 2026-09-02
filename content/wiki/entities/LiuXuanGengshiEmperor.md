@@ -11,16 +11,19 @@ sources:
   - zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv
   - zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo
   - zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh
+  - zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd
 last_updated: 2026-09-02
 ---
 
 ## Overview
 
-更始帝刘玄 / Liu Xuan is synthesized as a Gengshi ruler whose formal restored-Han status outruns his actual capacity: he cannot restore old Xiongnu hierarchy, prevent [[GongsunShuEasternHan|公孙述]]'s Shu rise, stop [[ChimeiRebellion|赤眉]] from turning west, or block eastern regional claimants, even though his remaining authority can still suppress smaller Han-claimant moves before later collapse. [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]] now supplies the earliest current weakness layer: Liu Xuan's Xiongnu mission fails, Gongsun Shu defeats his Shu/Hanzhong expedition, Chimei chooses the westward Chang'an path, and [[LiuYongEasternHan|刘永]], [[QinFengEasternHan|秦丰]], and [[TianRongYilingEasternHan|田戎]] rise in the east and south. [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] then shows Liu Xuan sending Li Song to destroy [[FangWangGengshi|方望]]'s [[RuziYing|孺子婴]] claim while his commanders Su Mao and Li Song fail against Chimei. [[zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv|Hanji 677]] supplies the pre-captive Chang'an collapse layer, [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] supplies the living-captive layer, [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] records Sanfu sympathy, killing, burial, and family aid, [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] shows former Gengshi loyalists using mourning to make surrender morally legible, and [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] preserves a later family consequence through his son Liu Li.
+更始帝刘玄 / Liu Xuan is synthesized as a Gengshi ruler whose formal restored-Han status outruns his actual capacity: he cannot command [[LiuXiu|刘秀]] back from Hebei, restore old Xiongnu hierarchy, prevent [[GongsunShuEasternHan|公孙述]]'s Shu rise, stop [[ChimeiRebellion|赤眉]] from turning west, or block eastern regional claimants, even though his remaining authority can still suppress smaller Han-claimant moves before later collapse. [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|Hanji 673]] now supplies the earliest current weakness layer: after Wang Lang's defeat, Liu Xuan's recall and demobilization order is refused because Liu Xiu and Geng Yan judge the Gengshi center unable to handle [[TongmaRebelArmyEasternHan|Tongma]], Chimei, and other forces. [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]] then shows failed Xiongnu diplomacy, Gongsun Shu's Shu/Hanzhong resistance, Chimei's westward Chang'an path, and eastern/southern fragmentation. [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] shows residual authority against Fang Wang's [[RuziYing|孺子婴]] claim while Su Mao and Li Song fail against Chimei; later notes supply Chang'an collapse, captive danger, killing, burial, old-loyalist mourning, and descendant grievance.
 
 ## Current Profile
 
-Hanji 674 supplies the earliest current weak-center layer. Liu Xuan claims Han restoration after Wang Mang, but his attempt to send Liu Sa and Chen Zun to restore old Xiongnu hierarchy fails when the chanyu refuses the old rank order and recasts Han as owing Xiongnu gratitude. The same source shows his limited reach inside the empire: Gongsun Shu defeats Liu Xuan's Shu/Hanzhong expedition, Chimei chooses a westward path toward Chang'an, and Liu Yong, Qin Feng, and Tian Rong form regional armed fields.
+Hanji 673 supplies the earliest current weak-center layer. Liu Xuan sends a recall and demobilization order after Wang Lang's defeat, but Geng Yan argues that Tongma, Chimei, and other forces remain too strong and that Liu Xuan's generals and royal relatives have alienated the people. Liu Xiu refuses the summons by citing unsettled Hebei, marking the start of open estrangement while keeping a formal rationale.
+
+Hanji 674 supplies the next weak-center layer. Liu Xuan claims Han restoration after Wang Mang, but his attempt to send Liu Sa and Chen Zun to restore old Xiongnu hierarchy fails when the chanyu refuses the old rank order and recasts Han as owing Xiongnu gratitude. The same source shows his limited reach inside the empire: Gongsun Shu defeats Liu Xuan's Shu/Hanzhong expedition, Chimei chooses a westward path toward Chang'an, and Liu Yong, Qin Feng, and Tian Rong form regional armed fields.
 
 Hanji 675 supplies the next residual-authority layer. Liu Xuan can still use Li Song as chancellor to suppress Fang Wang and Gong Lin's installation of Ruzi Ying at Linjing, killing that claimant group. The same source immediately narrows that success: Liu Xuan sends Su Mao to resist Chimei and later sends Li Song against Chimei at Yaoxiang, but both efforts fail as Chimei merges, expands, and moves north.
 
@@ -38,7 +41,7 @@ Hanji 728 adds a later dynastic-family echo. Liu Li, identified there as Liu Xua
 
 ## Key Characteristics
 
-- Embattled Gengshi emperor whose restored-Han status cannot restore Xiongnu hierarchy, contain regional breakaways, or stop Chimei's larger military escalation.
+- Embattled Gengshi emperor whose restored-Han status cannot recall Liu Xiu from Hebei, restore Xiongnu hierarchy, contain regional breakaways, or stop Chimei's larger military escalation.
 - Fallen ruler whose person remains dangerous as a rallying figure after loss of effective power.
 - Contested living claimant whom Liu Xiu protects by edict before Chimei receives his surrender.
 - Object of Sanfu sympathy under Chimei occupation and disorder.
@@ -49,6 +52,7 @@ Hanji 728 adds a later dynastic-family echo. Liu Li, identified there as Liu Xua
 ## Evidence
 
 - Failed Xiongnu hierarchy restoration: [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]] says Liu Xuan sends Liu Sa and Chen Zun with old-style seals and returned kin, but the chanyu refuses and demands respect from Han.
+- Failed Hebei command authority: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|Hanji 673]] says Liu Xiu refuses Liu Xuan's recall by citing unsettled Hebei after Geng Yan argues that Liu Xuan cannot handle Tongma, Chimei, and other large forces.
 - Territorial reach failure: [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]] says Gongsun Shu defeats Liu Xuan's Li Bao/Li Zhong expedition into Hanzhong/Shu and then calls himself Shu King.
 - Fragmented domestic field: [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]] shows Chimei turning west while Liu Yong, Qin Feng, and Tian Rong build separate regional armed positions.
 - Small claimant suppression: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] says Liu Xuan sends Li Song against Fang Wang, Gong Lin, and Ruzi Ying, and the group is killed.
@@ -65,11 +69,11 @@ Hanji 728 adds a later dynastic-family echo. Liu Li, identified there as Liu Xua
 
 ## Qualifications
 
-This page does not reconstruct Liu Xuan's full rise, rule, deposition, or Gengshi regime. Hanji 674 supplies a weak-center and failed-diplomacy layer, but Liu Sa, Chen Zun, Li Bao, Li Zhong, Gongsun Hui, Wei Cui, Wei Yi, Jiang Qiang, exact routes, and detailed Xiongnu protocol remain source-scoped. Hanji 675 supplies the Fang Wang/Ruzi Ying suppression and failed Chimei response layer, but Li Song, Gong Lin, Linjing, Yaoxiang, Hucheng, exact force counts, and the full Gengshi command structure remain source-scoped. Hanji 677 supplies a late Chang'an crisis layer but keeps Zhang Ang, Liao Zhan, Hu Yin, Shentu Jian, Wang Kuang, Chen Mu, Cheng Dan, Zhao Meng, and exact force counts source-scoped. Hanji 679 supplies only the flight, protection, surrender, and temporary-reprieve layer before the Hanji 680 killing; Yan Ben, Xie Lu, Dingtao King Liu Zhi, and the exact Chimei decision process remain source-scoped. Hanji 680 supplies the terminal Chimei-controlled layer and family aftermath; the killer name appears in transcript form as `泄露` and remains source-scoped. Hanji 684 uses Liu Xuan as the old ruler mourned by Bao Yong and Feng Yan rather than supplying a biography. Hanji 728 uses Liu Xuan mainly to identify Liu Li's descent, so the later prince-guest purge should not be read back as Liu Xuan's own policy.
+This page does not reconstruct Liu Xuan's full rise, rule, deposition, or Gengshi regime. Hanji 673 supplies an early loss-of-command-authority layer, but the exact recall mechanics, demobilization order, abusive Gengshi relatives and commanders, and Hebei armed-force names remain source-scoped. Hanji 674 supplies a weak-center and failed-diplomacy layer, but Liu Sa, Chen Zun, Li Bao, Li Zhong, Gongsun Hui, Wei Cui, Wei Yi, Jiang Qiang, exact routes, and detailed Xiongnu protocol remain source-scoped. Hanji 675 supplies the Fang Wang/Ruzi Ying suppression and failed Chimei response layer, but Li Song, Gong Lin, Linjing, Yaoxiang, Hucheng, exact force counts, and the full Gengshi command structure remain source-scoped. Hanji 677 supplies a late Chang'an crisis layer but keeps Zhang Ang, Liao Zhan, Hu Yin, Shentu Jian, Wang Kuang, Chen Mu, Cheng Dan, Zhao Meng, and exact force counts source-scoped. Hanji 679 supplies only the flight, protection, surrender, and temporary-reprieve layer before the Hanji 680 killing; Yan Ben, Xie Lu, Dingtao King Liu Zhi, and the exact Chimei decision process remain source-scoped. Hanji 680 supplies the terminal Chimei-controlled layer and family aftermath; the killer name appears in transcript form as `泄露` and remains source-scoped. Hanji 684 uses Liu Xuan as the old ruler mourned by Bao Yong and Feng Yan rather than supplying a biography. Hanji 728 uses Liu Xuan mainly to identify Liu Li's descent, so the later prince-guest purge should not be read back as Liu Xuan's own policy.
 
 ## What Changed
 
-- Added Hanji 674 as the earliest current weak-center layer: failed Xiongnu hierarchy restoration, Gongsun Shu's successful resistance, Chimei's westward pressure, and eastern regional fragmentation.
+- Added Hanji 673 as the earliest current weak-center layer: Liu Xuan cannot make Liu Xiu demobilize or return from Hebei after Wang Lang, and Geng Yan frames Gengshi capacity as already insufficient.
 - Preserved Hanji 675 as the residual-authority layer: Liu Xuan suppresses Fang Wang's Ruzi Ying claim but fails to contain Chimei through Su Mao and Li Song.
 - Preserved Hanji 677 as the pre-captive collapse layer: Liu Xuan rejects the plunder-and-retreat plan but mishandles the counter-trap, turning internal suspicion into palace attack and further killings.
 - Preserved Hanji 679 as the pre-killing layer: Liu Xiu's protection edict, Liu Penzi's surrender terms, Liu Gong's temporary rescue, and the still-dangerous status of a fallen claimant.
@@ -78,6 +82,7 @@ This page does not reconstruct Liu Xuan's full rise, rule, deposition, or Gengsh
 ## Relationships
 
 - [[ChimeiRebellion|赤眉]] - controlling force whose leaders kill Liu Xuan when public sympathy makes him dangerous.
+- [[TongmaRebelArmyEasternHan|铜马军]] - Hebei armed force whose strength helps justify Liu Xiu's refusal of Liu Xuan's recall.
 - [[Xiongnu|匈奴]] - frontier counterpart whose chanyu rejects Liu Xuan's attempt to restore old Han hierarchy.
 - [[CapacityBackedDiplomaticHierarchy|实力支撑的外交名分]] - concept grounded by Liu Xuan's failed seals-and-kin mission to Xiongnu.
 - [[GongsunShuEasternHan|公孙述]] - Shu ruler whose early victory over Liu Xuan's expedition exposes Gengshi's territorial limits.
@@ -87,7 +92,8 @@ This page does not reconstruct Liu Xuan's full rise, rule, deposition, or Gengsh
 - [[SuMaoEasternHan|苏茂]] - commander Liu Xuan sends unsuccessfully against Chimei before Li Song's later defeat.
 - [[LiuPenziEasternHan|刘盆子]] - Chimei figurehead whose regime coexists with the captive former Gengshi emperor.
 - [[LiuGongEasternHan|刘公]] - protector and mediator who temporarily saves Liu Xuan and later hides his body.
-- [[LiuXiu|光武帝刘秀]] - rival restoration founder who later orders Liu Xuan's burial.
+- [[LiuXiu|光武帝刘秀]] - rival restoration founder who first refuses Liu Xuan's Hebei recall and later orders Liu Xuan's burial.
+- [[GengYanEasternHan|耿弇]] - adviser whose critique of Gengshi capacity frames Liu Xuan's weak-center problem before open collapse.
 - [[DengYuEasternHan|邓禹]] - commander ordered to bury Liu Xuan.
 - [[ZhaoXiEasternHan|赵熙 / 赵熹]] - official who helps Liu Xuan's hungry relatives return after the killing.
 - [[BaoYongEasternHan|鲍永]] - former Gengshi loyalist whose surrender posture begins with mourning Liu Xuan.

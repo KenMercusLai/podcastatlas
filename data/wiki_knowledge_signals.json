@@ -21153,9 +21153,9 @@
       "url": "/wiki/entities/gengshueasternhan/"
     },
     "GengYanEasternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -21191,9 +21191,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地 [lrmV_GChamVGmuI8KedUcOzwSgHd].md",
+          "key": "zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/gengyaneasternhan/"
     },
     "GenomeLanguageModels": {
@@ -31927,9 +31934,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 31,
+      "episode_count": 32,
       "show_count": 2,
-      "source_note_count": 31,
+      "source_note_count": 32,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -32147,15 +32154,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地 [lrmV_GChamVGmuI8KedUcOzwSgHd].md",
+          "key": "zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd/"
         }
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/liuxiu/"
     },
     "LiuXuanGengshiEmperor": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？ [lurTvFqErB0VF3A33msmd_TxR9Pv].md",
@@ -32205,6 +32219,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地 [lrmV_GChamVGmuI8KedUcOzwSgHd].md",
+          "key": "zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd/"
         }
       ],
       "updated": "2026-09-02",
@@ -40232,6 +40253,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/personalguardattacksurface/"
+    },
+    "PersonalRiskTrustSignal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地 [lrmV_GChamVGmuI8KedUcOzwSgHd].md",
+          "key": "zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/personalrisktrustsignal/"
     },
     "PeteNitzsche": {
       "episode_count": 1,
@@ -51371,6 +51408,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/tongzhilatehan/"
     },
+    "TongmaRebelArmyEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地 [lrmV_GChamVGmuI8KedUcOzwSgHd].md",
+          "key": "zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/tongmarebelarmyeasternhan/"
+    },
     "TopDownExemplarGovernance": {
       "episode_count": 2,
       "show_count": 1,
@@ -54646,9 +54699,9 @@
       "url": "/wiki/entities/wudaolatehan/"
     },
     "WuHanEasternHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -54719,6 +54772,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地 [lrmV_GChamVGmuI8KedUcOzwSgHd].md",
+          "key": "zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd/"
         }
       ],
       "updated": "2026-09-02",
@@ -55612,9 +55672,9 @@
       "url": "/wiki/entities/xiebilatehan/"
     },
     "XieGongEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？ [lu59asTeDslJoEFNL6yR9d4iLIrh].md",
@@ -55622,6 +55682,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地 [lrmV_GChamVGmuI8KedUcOzwSgHd].md",
+          "key": "zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd/"
         }
       ],
       "updated": "2026-09-02",
