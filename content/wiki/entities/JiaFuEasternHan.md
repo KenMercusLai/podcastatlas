@@ -8,14 +8,17 @@ sources:
   - zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu
   - zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc
   - zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii
-last_updated: 2026-09-02
+  - zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe
+last_updated: 2026-09-03
 ---
 
 ## Overview
 
-贾复 / Jia Fu is synthesized as an Eastern Han founding general whose current profile now begins with a near-fatal early wound and Liu Xiu's family-alliance promise, then runs through Jianwu 2 campaign command, legal-status conflict with [[KouXunEasternHan|寇恂]], post-unification withdrawal, and late death-memory. [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] adds the emotional and morale layer behind later notices of Jia Fu's dangerous courage.
+贾复 / Jia Fu is synthesized as an Eastern Han founding general whose current profile now begins with [[LiuJiaHanzhongKingEasternHan|汉中王刘嘉]]'s recommendation and Jia Fu's arrival at Liu Xiu's Hebei camp, then runs through a near-fatal early wound, Jianwu 2 campaign command, legal-status conflict with [[KouXunEasternHan|寇恂]], post-unification withdrawal, and late death-memory. [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] adds the talent-transfer layer before the later evidence of dangerous courage.
 
 ## Current Profile
+
+Hanji 670 places Jia Fu before Liu Xiu's accession as a recommended talent moving from Liu Jia's Hanzhong orbit into Liu Xiu's camp. Liu Jia judges Jia Fu to have broad ambition and recommends that he and [[ChenJunEasternHan|Chen Jun]] go to Liu Xiu. When Jia Fu arrives near Bairen, Liu Xiu appoints him to the Polu-general role in the source's rendering.
 
 Hanji 676 presents Jia Fu as a founding commander whose battlefield exposure becomes personal news for Liu Xiu. During the pursuit of Youlai/Wuxiao forces, Jia Fu is badly wounded in a transcript-sensitive battlefield notice. Liu Xiu grieves, says he had avoided giving Jia Fu independent command because of Jia Fu's tendency to underestimate danger, and promises a future marriage alliance with Jia Fu's unborn child. Jia Fu recovers and rejoins Liu Xiu, turning a near-death notice into a loyalty and reassurance scene.
 
@@ -27,9 +30,9 @@ Hanji 730 presents Jia Fu as the Jiaodong Ganghou whose death falls amid the lat
 
 ## Key Characteristics
 
+- Recommended talent from Liu Jia's Hanzhong-side orbit who reaches Liu Xiu before accession.
 - Early wounded commander whose survival becomes a public reassurance and attachment scene for Liu Xiu.
 - High-risk fighter whose courage is valuable but requires ruler management of battlefield exposure.
-- Eastern Han founding commander active in the Jianwu 2 consolidation campaigns.
 - High-merit general whose subordinate's crime tests whether military prestige can override local legal authority.
 - Later Jiaodong marquis who surrenders military authority without being disgraced.
 - Representative of [[HonorsWithoutOfficeSettlement|honors without office]] through retained title, honor, and limited participation.
@@ -37,6 +40,8 @@ Hanji 730 presents Jia Fu as the Jiaodong Ganghou whose death falls amid the lat
 
 ## Evidence
 
+- Recommendation and arrival: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] says Liu Jia recommends Jia Fu and Chen Jun to Liu Xiu and that Jia Fu arrives at Bairen.
+- Early appointment: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] says Liu Xiu appoints Jia Fu as Polu general in the source's rendering.
 - Severe wound and ruler grief: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says Jia Fu is badly wounded during pursuit operations and Liu Xiu reacts with grief.
 - Marriage-alliance reassurance: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says Liu Xiu promises future marriage between his child and Jia Fu's unborn child depending on the child's sex.
 - Recovery: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says Jia Fu soon recovers and catches up with Liu Xiu.
@@ -48,16 +53,19 @@ Hanji 730 presents Jia Fu as the Jiaodong Ganghou whose death falls amid the lat
 
 ## Qualifications
 
-This page remains bounded to the listed source notes rather than a complete campaign biography. Hanji 676 supplies an early wound-and-reassurance scene, but the exact battlefield location and Youlai/Wuxiao transcript forms remain source-scoped. Hanji 686's Jia Fu-Kou Xun conflict is treated as a command-and-status conflict, not as a settled moral judgment on Jia Fu's full career.
+This page remains bounded to the listed source notes rather than a complete campaign biography. Hanji 670 supplies the early recommendation and appointment layer but keeps the Bairen place form, exact office title, and Hanzhong side-branch chronology source-scoped. Hanji 676 supplies an early wound-and-reassurance scene, but the exact battlefield location and Youlai/Wuxiao transcript forms remain source-scoped. Hanji 686's Jia Fu-Kou Xun conflict is treated as a command-and-status conflict, not as a settled moral judgment on Jia Fu's full career.
 
 ## What Changed
 
-- Added Hanji 676 as Jia Fu's earliest current layer: severe wound, Liu Xiu's grief, marriage-alliance promise, and recovery.
-- Reframed his profile from battlefield merit through discipline conflict and postwar withdrawal, with the early wound explaining why Liu Xiu later manages Jia Fu's exposure.
+- Added Hanji 670 as Jia Fu's earliest current layer: Liu Jia's recommendation, arrival near Bairen, and early appointment by Liu Xiu.
+- Preserved Hanji 676 as Jia Fu's severe-wound, ruler-grief, marriage-alliance promise, and recovery layer.
+- Reframed his profile from talent transfer into battlefield merit, discipline conflict, postwar withdrawal, and death-memory.
 
 ## Relationships
 
 - [[LiuXiu|光武帝刘秀]] - ruler who grieves Jia Fu's wound, promises family alliance, assigns him, mediates his conflict with Kou Xun, rewards him, and recognizes his merit.
+- [[LiuJiaHanzhongKingEasternHan|汉中王刘嘉]] - recommender who sends Jia Fu and Chen Jun toward Liu Xiu in Hanji 670.
+- [[ChenJunEasternHan|陈俊]] - paired recommended talent who reaches Liu Xiu through the same Hanji 670 transfer.
 - [[KouXunEasternHan|寇恂]] - official whose execution of Jia Fu's subordinate creates a military-status and local-law conflict.
 - [[YingchuanCommandery|颍川]] - setting where Jia Fu's subordinate is punished and Jia Fu's anger has to be defused.
 - [[HighStatusLawEnforcementSignal|高位执法信号]] - concept illustrated by law being enforced against a commander-protected subordinate.

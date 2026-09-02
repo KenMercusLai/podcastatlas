@@ -8,14 +8,17 @@ sources:
   - zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv
   - zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii
   - zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv
+  - zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe
 last_updated: 2026-09-03
 ---
 
 ## Overview
 
-耿纯 / Geng Chun is an Eastern Han commander whose current wiki profile joins battlefield strategic correction, accession counsel, coercive royal-kin preemption, and reputation-backed pacification under [[LiuXiu|光武帝刘秀]]. [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]] now supplies the earliest current advice layer: during the stalled Julu siege, Geng Chun urges Liu Xiu to strike Handan directly because Julu will submit once [[WangLangHebeiClaimant|王郎]] is removed.
+耿纯 / Geng Chun is an Eastern Han commander whose current wiki profile joins irreversible family commitment, battlefield strategic correction, accession counsel, coercive royal-kin preemption, and reputation-backed pacification under [[LiuXiu|光武帝刘秀]]. [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] now supplies the earliest current layer: Geng Chun joins Liu Xiu with kin, guests, and a commitment signal so strong that he destroys his own retreat option before further campaign service.
 
 ## Current Profile
+
+Hanji 670 places Geng Chun inside Liu Xiu's expansion after the Xindu turn. He joins Liu Xiu with a large kin-and-guest following, including elderly and sick family members carried in coffins, and Liu Xiu appoints him in the growing Hebei force. After Liu Xiu moves through Xiaquyang and toward Zhongshan, Geng Chun orders his houses burned so his wider group cannot imagine returning to a neutral life if the campaign fails.
 
 Hanji 671 places Geng Chun inside Liu Xiu's Wang Lang campaign before Liu Xiu's accession. When the combined Liu Xiu and Gengshi forces remain stuck before Julu for more than a month, Geng Chun argues that the siege is draining morale and that the army should use its current momentum to attack Handan. Liu Xiu adopts the advice, leaves Deng Man to continue the Julu siege, and moves on Handan.
 
@@ -27,16 +30,18 @@ That case is severe and bounded. Geng Chun's effectiveness lies in neutralizing 
 
 ## Key Characteristics
 
+- Early Liu Xiu follower who converts kin, guests, and household property into an irreversible commitment signal.
 - Battlefield adviser who tells Liu Xiu to leave the stalled Julu siege and strike Handan while morale is high.
 - Accession adviser who names follower ambition and coalition cohesion as reasons to settle Liu Xiu's title.
 - Guangwu-era commander acting under Liu Xiu's direct symbol and secret order.
 - Operator in the Zhending royal-kin threat case, where ordinary summons fail before covert action.
 - Uses respectful reception and meeting control to neutralize Liu Yang without a city battle.
-- Later source-scoped pacification figure associated with reputation-backed surrender in Dong commandery.
-- Current profile combines battlefield correction, coalition counsel, coercive preemption, and non-battle local order restoration.
+- Current profile combines family commitment, battlefield correction, coalition counsel, coercive preemption, and non-battle local order restoration.
 
 ## Evidence
 
+- Family-and-guest commitment: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] says Geng Chun joins Liu Xiu with kin, guests, and vulnerable family members, making his support more than a small personal defection.
+- Retreat destroyed: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] says Geng Chun orders his houses burned so the group cannot keep a homeward fallback.
 - Handan-first advice: [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]] says Geng Chun argues that prolonged Julu siege is draining morale and that Liu Xiu should strike Handan directly.
 - Accepted strategic correction: [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]] says Liu Xiu adopts Geng Chun's advice and leaves Deng Man at Julu while marching on Handan.
 - Follower-expectation warning: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says Geng Chun warns Liu Xiu that followers joined him to attach themselves to a rising order and may scatter if the title remains undecided.
@@ -47,19 +52,21 @@ That case is severe and bounded. Geng Chun's effectiveness lies in neutralizing 
 
 ## Qualifications
 
-This page is intentionally narrow. Hanji 671 supports Geng Chun's Julu-to-Handan advice but does not reconstruct the full siege map, Deng Man's command, or the precise battle sequence outside Handan. Hanji 676 supports Geng Chun's accession counsel but not a full reconstruction of his private motives or role in the final enthronement ritual. Hanji 684 supports his role in Liu Yang's killing, while Hanji 707 gives only a compressed Dong commandery notice. Exact numbers, offices, and local actors remain source-scoped.
+This page is intentionally narrow. Hanji 670 supports Geng Chun's high-commitment arrival and retreat-destruction signal, but the exact follower count, Xiaquyang movement, appointment wording, and household-property details remain source-scoped. Hanji 671 supports Geng Chun's Julu-to-Handan advice but does not reconstruct the full siege map, Deng Man's command, or the precise battle sequence outside Handan. Hanji 676 supports Geng Chun's accession counsel but not a full reconstruction of his private motives or role in the final enthronement ritual. Hanji 684 supports his role in Liu Yang's killing, while Hanji 707 gives only a compressed Dong commandery notice. Exact numbers, offices, and local actors remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 671 as Geng Chun's earliest current layer: strategic advice to abandon a draining Julu siege and attack Handan directly.
-- Added Hanji 676 as Geng Chun's accession-counsel layer.
-- Reframed the page from a two-mode pacification profile into a profile that also includes coalition-management advice before Liu Xiu's accession.
+- Added Hanji 670 as Geng Chun's earliest current layer: kin-and-guest commitment, appointment inside Liu Xiu's force, and retreat-destroying house burning.
+- Preserved Hanji 671 as the strategic advice to abandon a draining Julu siege and attack Handan directly.
+- Preserved Hanji 676 as Geng Chun's accession-counsel layer.
+- Preserved Hanji 684 and Hanji 707 as the royal-kin preemption and later reputation-backed pacification layers.
+- Reframed the page from strategic and coercive service into a profile that begins with irreversible follower commitment.
 
 ## Relationships
 
 - [[LiuXiu|光武帝刘秀]] - ruler whose title decision, secret order, and later succession judgment frame Geng Chun's current actions.
+- [[LeaderWorthFollowingAssessment|值得追随的领导判断]] - related because Geng Chun's early commitment shows Liu Xiu attracting costly support before victory is secure.
 - [[WangLangHebeiClaimant|王郎]] - campaign target whose removal Geng Chun treats as the key to making Julu submit.
-- [[LeaderWorthFollowingAssessment|值得追随的领导判断]] - related because Liu Xiu's acceptance of Geng Chun's advice is part of the episode's worth-following ruler test.
 - [[AccessionTimingCoalitionSignal|称帝时机与拥戴信号]] - concept directly illustrated by Geng Chun's warning that delayed title settlement can scatter followers.
 - [[LiuYangZhendingKingEasternHan|真定王刘杨]] - royal-kin claimant whose killing supplies Geng Chun's main coercive case.
 - [[RoyalKinTreasonLawBoundary|宗室谋逆法度边界]] - concept illustrated by the balance between preemptive killing and preserved Zhending succession.

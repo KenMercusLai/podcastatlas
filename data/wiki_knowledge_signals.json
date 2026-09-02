@@ -7951,9 +7951,9 @@
       "url": "/wiki/entities/chenjianyuanshuretainer/"
     },
     "ChenJunEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》675丨乱世纷争之中，汉武帝如何崛起？ [lrvxU1q4-ysG4Kfxkf25HSwyGfyO].md",
@@ -7961,9 +7961,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！ [ltZ1NCiOFEv4cqjKOd-p8MmwoVhE].md",
+          "key": "zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-03",
       "url": "/wiki/entities/chenjuneasternhan/"
     },
     "ChenLinLateHan": {
@@ -21583,9 +21590,9 @@
       "url": "/wiki/entities/gengchenglinruhoulatehan/"
     },
     "GengChunEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？ [lhtdQtfxiHYUA1nj8ofsDXl8IL8D].md",
@@ -21614,6 +21621,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》671丨你的领导是否值得追随？进来对比下",
           "url": "/wiki/sources/zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！ [ltZ1NCiOFEv4cqjKOd-p8MmwoVhE].md",
+          "key": "zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe/"
         }
       ],
       "updated": "2026-09-03",
@@ -23238,9 +23252,9 @@
       "url": "/wiki/entities/guoning/"
     },
     "GuoShengtong": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》720丨东汉开国太子，为何反复打辞职报告？ [lsliZSpo8rywnf3CeByHINcDhvZ0].md",
@@ -23276,9 +23290,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》686丨刘秀发誓只爱阴丽华，为何立郭氏为后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！ [ltZ1NCiOFEv4cqjKOd-p8MmwoVhE].md",
+          "key": "zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-03",
       "url": "/wiki/entities/guoshengtong/"
     },
     "GuoTaiLateHan": {
@@ -24457,9 +24478,9 @@
       "url": "/wiki/concepts/highstatuscautionselfprotection/"
     },
     "HighStatusLawEnforcementSignal": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -24516,9 +24537,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》686丨刘秀发誓只爱阴丽华，为何立郭氏为后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！ [ltZ1NCiOFEv4cqjKOd-p8MmwoVhE].md",
+          "key": "zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-03",
       "url": "/wiki/concepts/highstatuslawenforcementsignal/"
     },
     "HighTempleRite": {
@@ -28105,9 +28133,9 @@
       "url": "/wiki/entities/jitongeasternhan/"
     },
     "JiZunEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -28122,9 +28150,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！ [ltZ1NCiOFEv4cqjKOd-p8MmwoVhE].md",
+          "key": "zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-03",
       "url": "/wiki/entities/jizuneasternhan/"
     },
     "JiaBiaoLateHan": {
@@ -28158,9 +28193,9 @@
       "url": "/wiki/entities/jiabiaolatehan/"
     },
     "JiaFuEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？ [lsm3XEAn8fzIdhhhXi6-PpPhEXXH].md",
@@ -28189,9 +28224,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
           "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！ [ltZ1NCiOFEv4cqjKOd-p8MmwoVhE].md",
+          "key": "zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-03",
       "url": "/wiki/entities/jiafueasternhan/"
     },
     "JiaKuiEasternHan": {
@@ -30276,9 +30318,9 @@
       "url": "/wiki/concepts/leaderpersonalexposure/"
     },
     "LeaderWorthFollowingAssessment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》671丨你的领导是否值得追随？进来对比下 [lrJWUs-S14Y1x2Y4r3F_dVRI1nv-].md",
@@ -30286,6 +30328,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》671丨你的领导是否值得追随？进来对比下",
           "url": "/wiki/sources/zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！ [ltZ1NCiOFEv4cqjKOd-p8MmwoVhE].md",
+          "key": "zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe/"
         }
       ],
       "updated": "2026-09-03",
@@ -32282,9 +32331,9 @@
       "url": "/wiki/entities/liuguilatehan/"
     },
     "LiuJiaHanzhongKingEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》686丨刘秀发誓只爱阴丽华，为何立郭氏为后？ [lnqLqGq54SRb1ZZzgEmfwUWUjHVc].md",
@@ -32292,9 +32341,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》686丨刘秀发誓只爱阴丽华，为何立郭氏为后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！ [ltZ1NCiOFEv4cqjKOd-p8MmwoVhE].md",
+          "key": "zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-03",
       "url": "/wiki/entities/liujiahanzhongkingeasternhan/"
     },
     "LiuJingGuanglingKingEasternHan": {
@@ -33320,9 +33376,9 @@
       "url": "/wiki/entities/liuyanfulingkingeasternhan/"
     },
     "LiuYangZhendingKingEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》719丨光武帝刘秀算不算渣男？ [lk8emE3wWyk5qKJjfxkP0Zsc77iX].md",
@@ -33344,9 +33400,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！ [ltZ1NCiOFEv4cqjKOd-p8MmwoVhE].md",
+          "key": "zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-03",
       "url": "/wiki/entities/liuyangzhendingkingeasternhan/"
     },
     "LiuYeLateHan": {
@@ -33632,6 +33695,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/liuzhenghejianking/"
+    },
+    "LiuZhiChangchengEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！ [ltZ1NCiOFEv4cqjKOd-p8MmwoVhE].md",
+          "key": "zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/entities/liuzhichangchengeasternhan/"
     },
     "LiuZhiTaiyuanLateHan": {
       "episode_count": 3,
@@ -41662,6 +41741,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/physicsstagnationclaim/"
     },
+    "PiTongEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！ [ltZ1NCiOFEv4cqjKOd-p8MmwoVhE].md",
+          "key": "zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/entities/pitongeasternhan/"
+    },
     "PianHeXianbei": {
       "episode_count": 2,
       "show_count": 1,
@@ -41796,9 +41891,9 @@
       "url": "/wiki/concepts/politicalaccentprestige/"
     },
     "PoliticalMarriageAllianceDepreciation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》719丨光武帝刘秀算不算渣男？ [lk8emE3wWyk5qKJjfxkP0Zsc77iX].md",
@@ -41813,9 +41908,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》686丨刘秀发誓只爱阴丽华，为何立郭氏为后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！ [ltZ1NCiOFEv4cqjKOd-p8MmwoVhE].md",
+          "key": "zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-03",
       "url": "/wiki/concepts/politicalmarriagealliancedepreciation/"
     },
     "Polyphemus": {
@@ -44856,6 +44958,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/renfanglatehan/"
+    },
+    "RenGuangEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！ [ltZ1NCiOFEv4cqjKOd-p8MmwoVhE].md",
+          "key": "zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe/"
+        }
+      ],
+      "updated": "2026-09-03",
+      "url": "/wiki/entities/renguangeasternhan/"
     },
     "RenJunLuoyangLateHan": {
       "episode_count": 1,
@@ -54873,9 +54991,9 @@
       "url": "/wiki/entities/wangkanglatehan/"
     },
     "WangLangHebeiClaimant": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -54904,6 +55022,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》671丨你的领导是否值得追随？进来对比下",
           "url": "/wiki/sources/zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！ [ltZ1NCiOFEv4cqjKOd-p8MmwoVhE].md",
+          "key": "zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe/"
         }
       ],
       "updated": "2026-09-03",

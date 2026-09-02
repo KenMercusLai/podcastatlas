@@ -6,14 +6,17 @@ tags: [marriage, alliance, court-politics, succession, eastern-han, harem-politi
 sources:
   - zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix
   - zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc
-last_updated: 2026-09-02
+  - zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe
+last_updated: 2026-09-03
 ---
 
 ## Definition
 
-Political marriage alliance depreciation / 政治婚姻联盟折价 is the pattern where a marriage made valuable by a military or political alliance loses protective force after the original coalition need declines.
+Political marriage alliance depreciation / 政治婚姻联盟折价 is the pattern where a marriage made valuable by a military or political alliance can first convert into formal status, then lose protective force after the original coalition need declines.
 
 ## Current Synthesis
+
+[[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] now supplies the direct origin layer for the [[GuoShengtong|郭圣通]] case. [[LiuXiu|刘秀]] is still weak in Hebei after escaping [[WangLangHebeiClaimant|王郎]]'s pursuit. [[LiuYangZhendingKingEasternHan|真定王刘杨]] initially leans toward Wang Lang, but [[LiuZhiChangchengEasternHan|刘植]] persuades him to submit, and Liu Xiu marries Liu Yang's niece Guo Shengtong to strengthen the Zhending alliance.
 
 [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|Hanji 686]] supplies an early payoff layer for [[GuoShengtong|郭圣通]]'s branch. The source says [[YinLihua|阴丽华]] refuses the empress position because Guo has already borne a son, so [[LiuXiu|刘秀]] makes Guo empress and makes [[LiuQiangDonghaiKing|刘强]] crown prince. It also identifies Guo as [[LiuYangZhendingKingEasternHan|真定王刘杨]]'s niece, keeping the appointment connected to the earlier Hebei kinship-alliance field.
 
@@ -26,15 +29,16 @@ The concept connects marriage politics to later succession risk. Guo's demotion 
 ## Key Claims
 
 - A founding marriage can be a coalition instrument when it brings troops, geography, kinship legitimacy, or local backing.
+- The initial marriage can be an explicit confirmation of a newly won alliance, not only a later retrospective explanation.
 - The marriage alliance can first succeed by converting the spouse's branch into empress status and heir status.
 - The protective value of that marriage can fall after the ruler no longer depends on the original ally.
 - Emotional preference matters politically only when changed power conditions allow it to be formalized.
 - Deposition may be softened by titles, fiefs, and public restraint without preserving the old succession leverage.
-- The children of the depreciated marriage can retain honor while losing central heir security.
 - The pattern differs from ordinary palace jealousy because alliance value and state consolidation are part of the causal field.
 
 ## Evidence
 
+- Direct alliance formation: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] says Liu Yang submits after Liu Zhi's persuasion and Liu Xiu marries Guo Shengtong to strengthen the Zhending connection.
 - Early status payoff: [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|Hanji 686]] says Guo becomes empress and Liu Qiang crown prince after Yin Lihua declines because Guo has borne a son.
 - Kinship field: [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|Hanji 686]] identifies Guo as Liu Yang's niece when explaining the empress decision.
 - Founding alliance: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] says Liu Yang's support made the Guo marriage politically valuable during Liu Xiu's Hebei weakness.
@@ -46,12 +50,13 @@ The concept connects marriage politics to later succession risk. Guo's demotion 
 
 ## Counterevidence & Qualifications
 
-The concept is currently grounded in two source notes and should not be treated as a universal rule for imperial marriages. Hanji 686 proves the early empress/crown-prince payoff but does not independently reconstruct the full Hebei alliance logic; Hanji 719 supplies that analysis more directly. Hanji 719 includes gendered and moralizing host commentary about Guo's resentment; the wiki preserves that as source-scoped interpretation, not independent evidence about Guo's inner life. Depreciation also does not mean immediate destruction: Liu Xiu gives Guo and her sons titles and status, so the branch loses central leverage while remaining honored.
+The concept is currently grounded in three source notes and should not be treated as a universal rule for imperial marriages. Hanji 670 proves the direct alliance-making moment but does not reconstruct Guo's agency or Liu Yang's full local power base. Hanji 686 proves the early empress/crown-prince payoff but does not independently reconstruct the full Hebei alliance logic; Hanji 719 supplies that analysis more directly. Hanji 719 includes gendered and moralizing host commentary about Guo's resentment; the wiki preserves that as source-scoped interpretation, not independent evidence about Guo's inner life. Depreciation also does not mean immediate destruction: Liu Xiu gives Guo and her sons titles and status, so the branch loses central leverage while remaining honored.
 
 ## What Changed
 
-- Added Hanji 686 as the early payoff layer where Guo's branch receives empress and crown-prince status.
-- Reframed the concept as both initial alliance conversion and later depreciation, rather than only the later 41 CE demotion.
+- Added Hanji 670 as the direct alliance-formation layer where Liu Xiu marries Guo after Liu Yang's Zhending submission.
+- Preserved Hanji 686 as the early payoff layer where Guo's branch receives empress and crown-prince status.
+- Reframed the concept as alliance formation, formal status conversion, and later depreciation rather than only the later 41 CE demotion.
 - Preserved Hanji 719 as the main source for the Hebei alliance and deposition interpretation.
 
 ## Related Concepts

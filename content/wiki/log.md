@@ -15120,6 +15120,14 @@ Ran health, identity validation, and lint. Health scanned 16,991 wiki pages with
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-03] ingest | 《资治通鉴·汉纪》670丨绝境求生！刘秀陷入生死大危机！
+
+Ingested the 2026-06-10 芮淇讲透资治通鉴 episode on Liu Xiu's Gengshi 2 / 24 CE Hebei survival crisis under Wang Lang pursuit and the Xindu turn into counteroffensive capacity. Added source `zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe`; created `RenGuangEasternHan`, `PiTongEasternHan`, and `LiuZhiChangchengEasternHan`; updated `WangLangHebeiClaimant`, `LiuYangZhendingKingEasternHan`, `GuoShengtong`, `GengChunEasternHan`, `JiZunEasternHan`, `JiaFuEasternHan`, `ChenJunEasternHan`, `LiuJiaHanzhongKingEasternHan`, `LeaderWorthFollowingAssessment`, `PoliticalMarriageAllianceDepreciation`, `HighStatusLawEnforcementSignal`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; transcript forms 匹荣, 刘直/刘侄, 纪尊, 冯毅, 邓于, 刘家, and 刘阳 are normalized or kept qualified.
+
+## [2026-09-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
