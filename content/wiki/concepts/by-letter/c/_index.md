@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6256
+wiki_total_pages: 6257
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "CapabilityBoundedGrowth"
     title: "Capability-Bounded Growth"
     url: "/wiki/concepts/capabilityboundedgrowth/"
+  - key: "CapacityBackedDiplomaticHierarchy"
+    title: "Capacity-Backed Diplomatic Hierarchy / 实力支撑的外交名分"
+    url: "/wiki/concepts/capacitybackeddiplomatichierarchy/"
   - key: "CapacityBoundFrontierCommitment"
     title: "Capacity-Bound Frontier Commitment / 能力约束下的边疆承诺"
     url: "/wiki/concepts/capacityboundfrontiercommitment/"

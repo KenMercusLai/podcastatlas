@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2162
+topic_total_pages: 2164
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -400,6 +400,9 @@ topic_concepts:
   - key: "CapTableLiteracy"
     title: "Cap Table Literacy"
     url: "/wiki/concepts/captableliteracy/"
+  - key: "CapacityBackedDiplomaticHierarchy"
+    title: "Capacity-Backed Diplomatic Hierarchy / 实力支撑的外交名分"
+    url: "/wiki/concepts/capacitybackeddiplomatichierarchy/"
   - key: "CapacityBoundFrontierCommitment"
     title: "Capacity-Bound Frontier Commitment / 能力约束下的边疆承诺"
     url: "/wiki/concepts/capacityboundfrontiercommitment/"
@@ -6384,6 +6387,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh"
+    title: "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
   - key: "zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8"
     title: "《资治通鉴·汉纪》691丨敢夺江山的隗嚣，为何注定输给刘秀？"
     url: "/wiki/sources/zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8/"

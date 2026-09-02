@@ -8895,6 +8895,10 @@
     "title": "Capability Overhang",
     "url": "/wiki/concepts/capabilityoverhang/"
   },
+  "CapacityBackedDiplomaticHierarchy": {
+    "title": "Capacity-Backed Diplomatic Hierarchy / 实力支撑的外交名分",
+    "url": "/wiki/concepts/capacitybackeddiplomatichierarchy/"
+  },
   "CapacityBoundFrontierCommitment": {
     "title": "Capacity-Bound Frontier Commitment / 能力约束下的边疆承诺",
     "url": "/wiki/concepts/capacityboundfrontiercommitment/"
@@ -32063,6 +32067,10 @@
     "title": "刘义逊 / Liu Yixun",
     "url": "/wiki/entities/liuyixun/"
   },
+  "LiuYongEasternHan": {
+    "title": "刘永 / Liu Yong (Eastern Han)",
+    "url": "/wiki/entities/liuyongeasternhan/"
+  },
   "LiuYouLateHan": {
     "title": "刘祐 / Liu You (late Han)",
     "url": "/wiki/entities/liuyoulatehan/"
@@ -43042,6 +43050,10 @@
   "QinFeizi": {
     "title": "非子 / Qin Feizi",
     "url": "/wiki/entities/qinfeizi/"
+  },
+  "QinFengEasternHan": {
+    "title": "秦丰 / Qin Feng (Eastern Han)",
+    "url": "/wiki/entities/qinfengeasternhan/"
   },
   "QinFourNoblesCourtPower": {
     "title": "Qin Four Nobles Court Power / 秦国四贵权力结构",
@@ -57659,6 +57671,10 @@
     "title": "谢公 / Xie Gong",
     "url": "/wiki/entities/xiegong/"
   },
+  "XieGongEasternHan": {
+    "title": "谢躬 / Xie Gong (Eastern Han)",
+    "url": "/wiki/entities/xiegongeasternhan/"
+  },
   "XieGuomin": {
     "title": "Xie Guomin / 谢国民",
     "url": "/wiki/entities/xieguomin/"
@@ -65586,6 +65602,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh": {
+    "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
   },
   "zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo": {
     "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",

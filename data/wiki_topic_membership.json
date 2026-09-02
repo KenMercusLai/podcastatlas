@@ -11902,6 +11902,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "CapacityBackedDiplomaticHierarchy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CapacityBoundFrontierCommitment": [
     {
       "key": "politics",
@@ -74772,6 +74779,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh": [
     {
       "key": "politics",
       "label": "Politics",

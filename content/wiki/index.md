@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？](sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh.md) — Gengshi 2 backfill on Liu Xuan's failed Xiongnu hierarchy restoration, Xie Gong's Yecheng removal, Gongsun Shu's Shu-king claim, Chimei's westward cohesion decision, Deng Yu's Guanzhong delegation, Kou Xun's Henei rear base, and eastern fragmentation through Liu Yong, Qin Feng, and Tian Rong.
 - [All-In's Best Ideas Pitch Competition: 4 Investors Present Their Top Trades Live](sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live-41618530.md) — All-In live pitch competition comparing MGM hidden assets, Talon power scarcity, Actus radiopharmaceutical optionality, GeoNet RTK token economics, and position-sizing constraints.
 - [《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？](sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo.md) — Jianwu 1 Guangwu backfill on Fang Wang's failed Ruzi Ying restoration claim, Chimei's Hongnong merger and defeats of Su Mao and Li Song, Gongsun Shu's Chengdu claim, Liu Xiu's Shunshui setback, Wu Han's morale stabilization, and Chen Jun's supply-denial plan.
 - [《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末](sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii.md) — Jianwu 1 Guangwu backfill on Feng Yi's Li Yi correspondence, Liu Xiu's public letter weaponization, Zhu Wei's suspicion, Kou Xun and Feng Yi's Wen/Pingyin counterblow, Jia Fu's wound, and Liu Xiu's accession after Geng Chun, Feng Yi, and Qiang Hua's 赤伏符 pressure.
@@ -1884,6 +1885,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [谢躬 / Xie Gong (Eastern Han)](entities/XieGongEasternHan.md) — Gengshi-side Yecheng commander removed when Liu Xiu delegates Wu Han and Cen Peng to seize the city and absorb the remaining force.
+- [刘永 / Liu Yong (Eastern Han)](entities/LiuYongEasternHan.md) — Liu-clan eastern rival whose Liang base, subordinate appointments, and title offers make him a legitimacy-sensitive claimant in Guangwu consolidation.
+- [秦丰 / Qin Feng (Eastern Han)](entities/QinFengEasternHan.md) — Liqiu regional claimant whose defeat shapes Tian Rong's surrender calculation and whose final handling clarifies Liu Xiu's surrender boundary.
 - [MGM Resorts](entities/MGMResorts.md) — Casino operator framed by the All-In pitch as a hidden-asset value idea with Vegas, China, Osaka, Dubai, and loyalty-program optionality.
 - [Talon Energy](entities/TalonEnergy.md) — Source-spelled power producer pitched as a scarce baseload infrastructure bet for AI-era electricity demand.
 - [Actus Oncology](entities/ActusOncology.md) — Source-spelled oncology company pitched as a binary radiopharmaceutical platform with mini-protein delivery optionality.
@@ -1918,7 +1922,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Western Regions Protectorate / 西域都护府](entities/WesternRegionsProtectorate.md) — Han frontier institution used by Hanji 689-3 to frame Western Regions protection, diplomatic warning, and later capacity limits.
 - [Zhao Chongguo / 赵充国 (Western Han)](entities/ZhaoChongguoWesternHan.md) — Western Han general tied to the Southern Qiang campaign and the brocade's "讨南羌" interpretation.
 - [Emperor Xuan of Han / 汉宣帝](entities/EmperorXuanOfHan.md) — Western Han ruler associated with the five-star omen formula behind Zhao Chongguo's campaign setting.
-- [田戎 / Tian Rong (Yiling, Eastern Han)](entities/TianRongYilingEasternHan.md) — Yiling power holder whose planned surrender collapses through Xin Chen's theft, defection, suspicious letter, and divination.
+- [田戎 / Tian Rong (Yiling, Eastern Han)](entities/TianRongYilingEasternHan.md) — Yiling regional power whose self-titled armed field later becomes a failed-surrender case through Xin Chen's theft, defection, suspicious letter, and divination.
 - [辛臣 / Xin Chen (Eastern Han)](entities/XinChenEasternHan.md) — Tian Rong's in-law and Yiling guard whose theft and defection to Cen Peng break the surrender channel.
 - [傅湛 / Fu Zhan (Eastern Han)](entities/FuZhanEasternHan.md) — Guangwu adviser whose remonstrance redirects Liu Xiu from distant Peng Chong toward nearer unsettled regions.
 - [盖延 / Gai Yan (Eastern Han)](entities/GaiYanEasternHan.md) — Han commander whose direct Lanling rescue ignores Liu Xiu's indirect Tan strategy and fails against Dong Xian.
@@ -1951,7 +1955,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kailas / 凯乐石](entities/Kailas.md) — Chinese outdoor brand using Fuga, Chamonix retail, race sponsorship, and athlete credibility to enter Europe's trail-running market.
 - [Fuga](entities/Fuga.md) — Kailas-linked trail-running brand or product line used as the source's overseas market-entry wedge.
 - [Miniso / 名创优品](entities/Miniso.md) — Chinese retail company using large IP-heavy stores, emotional-value products, and slower overseas openings as a store-model quality test.
-- [寇恂 / Kou Xun (Eastern Han)](entities/KouXunEasternHan.md) — Guangwu-era commander whose profile now joins Wen county emergency defense with Yingchuan law, popular pacification, and Gaoping forced surrender.
+- [寇恂 / Kou Xun (Eastern Han)](entities/KouXunEasternHan.md) — Guangwu-era commander whose profile now joins Henei rear-base logistics, Wen county emergency defense, Yingchuan law, popular pacification, and Gaoping forced surrender.
 - [高峻 / Gao Jun (Eastern Han)](entities/GaoJunEasternHan.md) — Wei Xiao-aligned holdout at Gaoping whose surrender follows Kou Xun's execution of Huangfu Wen.
 - [皇甫文 / Huangfu Wen (Eastern Han)](entities/HuangfuWenEasternHan.md) — Gao Jun's adviser and envoy whose killing becomes Hanji 709's "上兵伐谋" example.
 - [祭遵 / Ji Zun (Eastern Han)](entities/JiZunEasternHan.md) — Guangwu commander whose current profile joins a western victory over Wang Yuan with disciplined command and posthumous praise pressure.
@@ -1963,7 +1967,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鲍永 / Bao Yong (Eastern Han)](entities/BaoYongEasternHan.md) — Former-Gengshi surrenderer later reused through merit and remembered for Sili xiaowei enforcement against royal-kin misconduct.
 - [冯衍 / Feng Yan (Eastern Han)](entities/FengYanEasternHan.md) — Former-Gengshi surrenderer whose marginalization contrasts with Bao Yong's later merit-backed reuse.
 - [陈元 / Chen Yuan (Eastern Han remonstrant)](entities/ChenYuanEasternHan.md) — Guangwu-era remonstrant who warns Liu Xiu against suspicious supervision of the Three Excellencies.
-- [隗嚣 / Wei Xiao (Eastern Han)](entities/WeiXiaoEasternHan.md) — Western rival whose current arc now begins with a Chang'an/Gengshi exit before Tianshui scholar recruitment, Liu Xiu courtship, Jianwu 5 loyalty test, adviser/talent loss, envoy crisis, failed terrain race, face-saving apology, Lüeyang attrition, Xicheng rescue, famine death, and Wei Chun continuation.
+- [隗嚣 / Wei Xiao (Eastern Han)](entities/WeiXiaoEasternHan.md) — Western rival whose current arc now begins with Gengshi-court self-protection before Chang'an exit, Tianshui scholar recruitment, Liu Xiu courtship, loyalty testing, rebellion, rescue, famine death, and Wei Chun continuation.
 - [隗恂 / Wei Xun (Eastern Han)](entities/WeiXunEasternHan.md) — Wei Xiao's eldest son sent to Luoyang as a hostage and court-service signal while Wei Xiao preserves autonomous room.
 - [王元 / Wang Yuan (Wei Xiao retainer)](entities/WangYuanWeiXiaoRetainer.md) — Wei Xiao retainer whose holdout advice turns terrain, Hangu Pass closure, and wider claimant uncertainty into a continued-autonomy argument.
 - [申屠刚 / Shentu Gang (Eastern Han)](entities/ShentuGangEasternHan.md) — Wei Xiao adviser whose ignored submission warning frames Liu Xiu's rise as a mandate and human-support trend.
@@ -1973,7 +1977,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郭伋 / Guo Ji (Eastern Han)](entities/GuoJiEasternHan.md) — Yuyang repair official, publicly trusted Da Sikong candidate, Yingchuan bandit pacifier, and Bingzhou governor arguing for nationwide official selection.
 - [李通 / Li Tong (Eastern Han)](entities/LiTongEasternHan.md) — Guangwu-era founding-merit figure appointed Da Sikong in 31 CE who later returns full office but keeps honored court access.
 - [杜诗 / Du Shi (Eastern Han)](entities/DuShiEasternHan.md) — Nanyang administrator remembered for clean rule, water works, land opening, and household prosperity under Guangwu.
-- [公孙述 / Gongsun Shu (Eastern Han)](entities/GongsunShuEasternHan.md) — Shu-based rival ruler whose Chengdu imperial claim, fuming legitimacy, rejected Jing Han advice, path-dependent governance, western support, assassination responses, refused surrender, and Chengdu collapse frame the Shu war.
+- [公孙述 / Gongsun Shu (Eastern Han)](entities/GongsunShuEasternHan.md) — Shu-based rival ruler whose arc now starts with a Shu-king claim after defeating Gengshi forces before Chengdu imperial escalation, fuming legitimacy, western support, assassination responses, and final collapse.
 - [荆邯 / Jing Han (Eastern Han)](entities/JingHanEasternHan.md) — Gongsun Shu-side adviser whose rejected two-line offensive plan treats Liu Xiu's post-east pause as a closing opportunity window.
 - [严岑 / 颜岑 / Yan Cen](entities/YanCenEasternHan.md) — Final Chengdu commander who urges continued battle, briefly defeats Wu Han through a rear-cavalry feint, then surrenders after Gongsun Shu's mortal wound.
 - [李涅 / Li Nie](entities/LiNieEasternHan.md) — Guanghan scholar who drinks poison rather than accept Gongsun Shu's coerced office summons.
@@ -2108,13 +2112,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王肃 / Wang Su (Eastern Han)](entities/WangSuEasternHan.md) — Wang Pan's son whose continued presence in princely mansions becomes accusation evidence in the guest-network purge.
 - [郭圣通 / Guo Shengtong](entities/GuoShengtong.md) — Deposed Guangwu empress whose lost status destabilizes Liu Qiang's crown-prince position, triggers later Guo-branch compensation, and remains an accession grievance frame.
 - [沛王刘辅 / Liu Fu, Pei King (Eastern Han)](entities/LiuFuPeiKingEasternHan.md) — Liu Xiu and Guo Shengtong's son whose 44 CE re-enfeoffment explains the Pei title before his later prince-guest exposure and brief imprisonment.
-- [更始帝刘玄 / Liu Xuan (Gengshi Emperor)](entities/LiuXuanGengshiEmperor.md) — Gengshi ruler whose residual authority suppresses Fang Wang's Ruzi Ying claim but fails against Chimei before Chang'an counter-trap failure, captivity, killing, Guangwu-ordered burial, and descendant grievance.
+- [更始帝刘玄 / Liu Xuan (Gengshi Emperor)](entities/LiuXuanGengshiEmperor.md) — Gengshi ruler whose restored-Han status cannot restore Xiongnu hierarchy or contain regional breakaways before failed Chimei response, Chang'an rupture, captivity, killing, burial, and descendant grievance.
 - [方望 / Fang Wang (Gengshi)](entities/FangWangGengshi.md) — Jianwu 1 claimant organizer who uses Ruzi Ying as a Han restoration banner at Linjing before Liu Xuan's side destroys the group.
 - [孺子婴 / Ruzi Ying](entities/RuziYing.md) — Late Western Han descendant whose symbolic value under Wang Mang and Fang Wang makes royal identity a source of exposure rather than command.
 - [寿光侯刘李 / Liu Li, Shouguang Marquis (Eastern Han)](entities/LiuLiShouguangMarquisEasternHan.md) — Liu Xuan's son whose guest-backed killing of Liu Gong triggers Guangwu's prince-guest crackdown.
 - [阴识 / Yin Shi (Eastern Han)](entities/YinShiEasternHan.md) — Yin-family maternal relative who refuses added fief, models careful conduct, and later becomes the kinship candidate checked by public tutor-selection criteria.
 - [张义 / Zhang Yi (Eastern Han)](entities/ZhangYiEasternHan.md) — Doctor-scholar who turns crown-prince tutor selection from maternal-family convenience into a realm-serving appointment.
-- [邓禹 / Deng Yu (Eastern Han)](entities/DengYuEasternHan.md) — Founding commander-minister whose arc now starts with Ji Pass, Hedong, and Anyi pressure before later Hedong recovery, disciplined Guanzhong support, mission divergence, Chimei setbacks, Shunyang victory, postwar honored withdrawal, and Mingdi Taifu status.
+- [邓禹 / Deng Yu (Eastern Han)](entities/DengYuEasternHan.md) — Founding commander-minister whose arc now starts with Liu Xiu's west-through-Hangu delegation before Ji Pass, Hedong, Anyi pressure, Guanzhong support, mission divergence, Chimei setbacks, Shunyang victory, and later honors.
 - [刘盆子 / Liu Penzi (Eastern Han)](entities/LiuPenziEasternHan.md) — Chimei figurehead selected through shamanic and lottery legitimacy whose fear, palace disorder, failed abdication, and spared surrender expose title without command.
 - [王闳 / Wang Hong (Eastern Han)](entities/WangHongEasternHan.md) — Liu Xuan-appointed Langya governor whose mandate-backed personal confrontation makes Zhang Bu yield commandery affairs despite military weakness.
 - [伏隆 / Fu Long (Eastern Han)](entities/FuLongEasternHan.md) — Guangwu envoy whose Zhang Bu mission fails after he rejects a Qi-holding offer and sends Liu Xiu a death-ready secret memorial.
@@ -7471,7 +7475,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王郎 / Wang Lang (Hebei Claimant)](entities/WangLangHebeiClaimant.md) — Hebei claimant whose uprising redirects Geng Yan toward Liu Xiu and whose defeated Handan correspondence archive becomes Liu Xiu's trust-repair test.
 - [张步 / Zhang Bu (Eastern Han)](entities/ZhangBuEasternHan.md) — Qi/Langya adversary whose profile spans Wang Hong's mandate-backed Langya challenge, Liu Yong's title lure, Fu Long's failed mission, Linzi battlefield vulnerability, controlled surrender, and later failed flight.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's breakout, reinforcements, morale tactics, and later legendary mandate layer exposed the gap between Xin grandeur and usable capacity.
-- [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Xin-collapse uprising whose current arc spans Hongnong merger, defeats of Su Mao and Li Song, pre-entry pressure on Gengshi Chang'an, Liu Penzi's lottery enthronement, Changle Palace occupation, Liu Xuan's killing, palace disorder, Chang'an destruction, Guanzhong famine, Feng Yi's campaign, and mass surrender to Liu Xiu.
+- [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Xin-collapse uprising whose current arc spans westward cohesion pressure, Hongnong merger, Gengshi defeats, pre-entry Chang'an pressure, Liu Penzi's lottery enthronement, Changle Palace disorder, Chang'an destruction, Guanzhong famine, and surrender to Liu Xiu.
 - [Lulin / 绿林](entities/LulinRebellion.md) — Uprising force that enters Chang'an and frames the episode's narration of Wang Mang's death.
 - [Dong Zhongshu / 董仲舒](entities/DongZhongshu.md) — Western Han thinker used by episode 126 to connect Confucianism, Heaven, omens, and sacred imperial politics.
 - [Jean-Paul Marat / 让-保罗·马拉](entities/JeanPaulMarat.md) — Revolutionary journalist and agitator whose murder, martyr image, scientific grievance, and September Massacres role frame episode 125.
@@ -10703,6 +10707,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Capacity-Backed Diplomatic Hierarchy / 实力支撑的外交名分](concepts/CapacityBackedDiplomaticHierarchy.md) — Frontier-diplomacy pattern where old status formulas, seals, and kinship arrangements fail when regime capacity cannot make counterparties accept the hierarchy.
 - [Investment Pitch Position Sizing](concepts/InvestmentPitchPositionSizing.md) — Pitch-evaluation discipline that separates idea attractiveness from capital capacity, downside, liquidity, and market impact.
 - [Hidden Asset Optionality](concepts/HiddenAssetOptionality.md) — Investment pattern where underappreciated assets, approvals, real estate, databases, or jurisdictional shifts create upside beyond headline earnings.
 - [Power Scarcity Infrastructure Investing](concepts/PowerScarcityInfrastructureInvesting.md) — Hard-asset investment frame where constrained baseload power, replacement cost, and long-term buyers support valuation under AI demand.

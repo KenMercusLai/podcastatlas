@@ -14796,6 +14796,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-02] ingest | 《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？
+
+Ingested the 2026-06-11 芮淇讲透资治通鉴 episode backfilling Gengshi 2 / 24 CE before Hanji 675 around Liu Xuan's failed Xiongnu hierarchy restoration, Xie Gong's Yecheng removal, Chimei's westward cohesion decision, Liu Xiu's Deng Yu/Henei preparations, Gongsun Shu's Shu-king claim, Wei Xiao's pre-Tianshui self-protection, and eastern regional fragmentation. Added source `zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh`; created `XieGongEasternHan`, `LiuYongEasternHan`, `QinFengEasternHan`, and `CapacityBackedDiplomaticHierarchy`; updated `LiuXuanGengshiEmperor`, `ChimeiRebellion`, `DengYuEasternHan`, `KouXunEasternHan`, `GongsunShuEasternHan`, `WeiXiaoEasternHan`, `TianRongYilingEasternHan`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 谢躬 is disambiguated from Western Han `XieGong`, Gongsun Shu's Shu-king stage is treated as earlier than Hanji 675's Chengjia/Longxing imperial claim, and Liu Sa, Chen Zun, Li Bao, Li Zhong, Gongsun Hui, Wei Cui, Wei Yi, Jiang Qiang, and route details remain source-scoped.
+
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末
 
 Ingested the 2026-06-11 芮淇讲透资治通鉴 episode backfilling Jianwu 1 / 25 CE around Feng Yi's correspondence with Li Yi, Liu Xiu's public exposure of Li Yi's letters, Zhu Wei's suspicion and failed Wen/Pingyin pressure, Kou Xun and Feng Yi's counterblow, Jia Fu's severe wound, and Liu Xiu's accession after Geng Chun, Feng Yi, and Qiang Hua's 赤伏符 pressure. Added source `zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii`; created `LiYiGengshiGeneral`, `QiangHuaEasternHan`, and `AccessionTimingCoalitionSignal`; updated `FengYiEasternHan`, `KouXunEasternHan`, `JiaFuEasternHan`, `GengChunEasternHan`, `ZhuWeiEasternHan`, `SuMaoEasternHan`, `BorrowedKnifeKilling`, `PrivateLetterPoliticalWeaponization`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Wu Bo, Jia Qiang, exact river/county forms, and Youlai/Wuxiao pursuit details remain source-scoped.
@@ -15039,6 +15043,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？
 
 Ingested the 2026-06-11 芮淇讲透资治通鉴 episode opening the Jianwu 1 / 25 CE Guangwu backfill around Fang Wang's failed Ruzi Ying restoration claim, Chimei's Hongnong merger and defeats of Su Mao and Li Song, Gongsun Shu's Chengdu claim, Liu Xiu's Shunshui setback, Wu Han's morale stabilization, and Chen Jun's `坚壁清野` supply-denial plan. Added source `zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo`; created `RuziYing`, `FangWangGengshi`, `ChenJunEasternHan`, and `ScorchedEarthSupplyDenial`; updated `LiuXiu`, `ChimeiRebellion`, `DengYuEasternHan`, `LiuXuanGengshiEmperor`, `GongsunShuEasternHan`, `SuMaoEasternHan`, `WuHanEasternHan`, `CommandContinuityDamageControl`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source-file/frontmatter title's `汉武帝` is normalized to Liu Xiu/Guangwu, and Gong Lin, Li Song, Li Xiong, Wang Feng, Youlai/Daqiang/Wufan, exact counts, and local geography remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 

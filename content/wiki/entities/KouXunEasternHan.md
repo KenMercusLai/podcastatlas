@@ -8,14 +8,17 @@ sources:
   - zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv
   - zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc
   - zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii
+  - zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh
 last_updated: 2026-09-02
 ---
 
 ## Overview
 
-寇恂 / Kou Xun is a Guangwu-era commander and official whose current profile now begins with emergency defense of Wen county and [[HeneiCommandery|河内郡]], then continues through local legal enforcement, conflict de-escalation, hard surrender coercion, and trust-based pacification. [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] supplies the earliest current battlefield layer; Hanji 686, Hanji 707, and Hanji 709 then show law, public trust, and forced-surrender judgment.
+寇恂 / Kou Xun is a Guangwu-era commander and official whose current profile now begins with [[LiuXiu|刘秀]] entrusting him with [[HeneiCommandery|河内郡]] as a Xiao-He-like rear base on [[DengYuEasternHan|邓禹]]'s recommendation, then continues through emergency defense of Wen county, local legal enforcement, conflict de-escalation, hard surrender coercion, and trust-based pacification. [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]] supplies the earliest current appointment-and-logistics layer; [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] supplies the first battlefield layer; Hanji 686, Hanji 707, and Hanji 709 then show law, public trust, and forced-surrender judgment.
 
 ## Current Profile
+
+Hanji 674 supplies Kou Xun's earliest current rear-area layer. Deng Yu recommends him for Henei, and Liu Xiu appoints him Henei taishou with acting dajiangjun authority. The source says Liu Xiu compares entrusting Henei to Kou Xun with Gaozu entrusting Guanzhong to Xiao He, while Kou Xun gathers grain and manufactures weapons for the wider campaign field.
 
 Hanji 676 presents Kou Xun as a fast local defender. When [[ZhuWeiEasternHan|朱鲔]] sends [[SuMaoEasternHan|苏茂]] and Jia Qiang against Wen county while attacking Pingyin himself, Kou Xun treats Wen as Henei's screen and refuses to wait passively for every county force to assemble. As [[FengYiEasternHan|冯异]]'s relief and the county troops arrive, Kou Xun orders a morale shout that Liu Gong's army has arrived, shakes Su Mao's force, and attacks at the moment of confusion.
 
@@ -27,7 +30,7 @@ Hanji 709 gives Kou Xun two connected profiles. He discourages Liu Xiu from pers
 
 ## Key Characteristics
 
-- Fast emergency defender who treats Wen county as the operational screen for Henei.
+- Rear-area administrator entrusted with Henei grain and weapons before later emergency defense of Wen county.
 - Battlefield morale operator who uses Feng Yi's arriving relief as information pressure against Su Mao.
 - Yingchuan administrator who publicly executes a murderer protected by Jia Fu's command prestige.
 - De-escalator who avoids personal combat with Jia Fu while preserving the legal result.
@@ -37,6 +40,9 @@ Hanji 709 gives Kou Xun two connected profiles. He discourages Liu Xiu from pers
 
 ## Evidence
 
+- Henei appointment: [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]] says Deng Yu recommends Kou Xun and Liu Xiu appoints him Henei taishou with acting dajiangjun authority.
+- Xiao-He-like rear trust: [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]] says Liu Xiu compares entrusting Henei to Kou Xun with Gaozu's reliance on Xiao He in Guanzhong.
+- Grain and weapons: [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]] says Kou Xun gathers grain and manufactures weapons in Henei.
 - Wen county screen: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says Kou Xun rejects waiting because Wen county protects Henei.
 - Relief-and-shout tactic: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says Kou Xun orders troops to shout that Liu Gong's army has arrived, shaking Su Mao's force before the attack.
 - Public execution in Yingchuan: [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|Hanji 686]] says Kou Xun arrests and executes Jia Fu's subordinate for murder.
@@ -47,16 +53,18 @@ Hanji 709 gives Kou Xun two connected profiles. He discourages Liu Xiu from pers
 
 ## Qualifications
 
-This page is bounded to the listed source notes and does not reconstruct Kou Xun's full career. Hanji 676 is ASR-sensitive around river, county, and Jia Qiang forms; it supports Kou Xun's rapid defense and morale use but not a full independent campaign map. Huangfu Wen's killing remains an extreme forced-surrender case, not a general rule that envoys or advisers can be killed without strategic or moral cost. The transcript form 寇勋 is normalized to 寇恂.
+This page is bounded to the listed source notes and does not reconstruct Kou Xun's full career. Hanji 674 supplies the appointment, Henei logistics, and Xiao-He comparison layer but keeps exact title mechanics, office scope, and grain/weapon quantities source-scoped. Hanji 676 is ASR-sensitive around river, county, and Jia Qiang forms; it supports Kou Xun's rapid defense and morale use but not a full independent campaign map. Huangfu Wen's killing remains an extreme forced-surrender case, not a general rule that envoys or advisers can be killed without strategic or moral cost. The transcript form 寇勋 is normalized to 寇恂.
 
 ## What Changed
 
-- Added Hanji 676 as Kou Xun's earliest current layer: Wen county defense, Henei screening, and morale-timed attack against Su Mao.
-- Reframed Kou Xun as a flexible stabilizer whose methods include urgent battlefield defense, public law enforcement, hospitality-based conflict control, local pacification, and hard surrender coercion.
+- Added Hanji 674 as Kou Xun's earliest current layer: Deng Yu's recommendation, Liu Xiu's Henei appointment, Xiao-He-like rear trust, grain stockpiling, and weapons production.
+- Preserved Hanji 676 as the first battlefield layer: Wen county defense, Henei screening, and morale-timed attack against Su Mao.
+- Reframed Kou Xun as a flexible stabilizer whose methods include rear-area logistics, urgent battlefield defense, public law enforcement, hospitality-based conflict control, local pacification, and hard surrender coercion.
 
 ## Relationships
 
 - [[LiuXiu|光武帝刘秀]] - ruler whom Kou Xun serves, advises, represents at Gaoping, and relies on for command-discipline settlement.
+- [[DengYuEasternHan|邓禹]] - western commander whose recommendation helps place Kou Xun in Henei.
 - [[FengYiEasternHan|冯异]] - allied commander whose relief and counterstrike help Kou Xun defeat Su Mao and Zhu Wei's pressure.
 - [[SuMaoEasternHan|苏茂]] - opponent whose Wen attack Kou Xun breaks.
 - [[HeneiCommandery|河内郡]] - regional field protected by Kou Xun's defense of Wen county.

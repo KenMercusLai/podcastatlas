@@ -7020,6 +7020,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/caozonglatehan/"
     },
+    "CapacityBackedDiplomaticHierarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？ [lu59asTeDslJoEFNL6yR9d4iLIrh].md",
+          "key": "zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/capacitybackeddiplomatichierarchy/"
+    },
     "CapacityBoundFrontierCommitment": {
       "episode_count": 4,
       "show_count": 1,
@@ -8298,9 +8314,9 @@
       "url": "/wiki/entities/chesterwilliams/"
     },
     "ChimeiRebellion": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -8371,6 +8387,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？ [lu59asTeDslJoEFNL6yR9d4iLIrh].md",
+          "key": "zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
         }
       ],
       "updated": "2026-09-02",
@@ -12213,9 +12236,9 @@
       "url": "/wiki/entities/dengxuneasternhan/"
     },
     "DengYuEasternHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
@@ -12279,6 +12302,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？ [lu59asTeDslJoEFNL6yR9d4iLIrh].md",
+          "key": "zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
         }
       ],
       "updated": "2026-09-02",
@@ -21577,9 +21607,9 @@
       "url": "/wiki/concepts/goldjewelryvalueperceptionrisk/"
     },
     "GongsunShuEasternHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
@@ -21643,6 +21673,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？ [lu59asTeDslJoEFNL6yR9d4iLIrh].md",
+          "key": "zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
         }
       ],
       "updated": "2026-09-02",
@@ -28735,9 +28772,9 @@
       "url": "/wiki/entities/kouronglatehan/"
     },
     "KouXunEasternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？ [lukNoR8YW839QWxOGeyZwLUO6Qe2].md",
@@ -28766,6 +28803,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
           "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？ [lu59asTeDslJoEFNL6yR9d4iLIrh].md",
+          "key": "zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
         }
       ],
       "updated": "2026-09-02",
@@ -32109,9 +32153,9 @@
       "url": "/wiki/entities/liuxiu/"
     },
     "LiuXuanGengshiEmperor": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？ [lurTvFqErB0VF3A33msmd_TxR9Pv].md",
@@ -32154,6 +32198,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？ [lu59asTeDslJoEFNL6yR9d4iLIrh].md",
+          "key": "zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
         }
       ],
       "updated": "2026-09-02",
@@ -32400,6 +32451,71 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/liuyingchukingeasternhan/"
+    },
+    "LiuYongEasternHan": {
+      "episode_count": 8,
+      "show_count": 1,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？ [lu59asTeDslJoEFNL6yR9d4iLIrh].md",
+          "key": "zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？ [lurTvFqErB0VF3A33msmd_TxR9Pv].md",
+          "key": "zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》686丨刘秀发誓只爱阴丽华，为何立郭氏为后？ [lnqLqGq54SRb1ZZzgEmfwUWUjHVc].md",
+          "key": "zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》686丨刘秀发誓只爱阴丽华，为何立郭氏为后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？ [lhaKzy89W1L4VHAZjuYeNBJrw9IZ].md",
+          "key": "zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？ [lpabDVtmhtrF37PUwVgI4C9AjP60].md",
+          "key": "zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？ [lq1dq1SrOKORKZeiB_OaTtNI3sme].md",
+          "key": "zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？ [lttLNOAZRrg5dtdVFqMNGCbFEoDy].md",
+          "key": "zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》698丨王朝兴衰启示录：韦敖的遗憾与今朝之镜 [lqim2hBJtDzB0wWMsaxCyZj7U8FF].md",
+          "key": "zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》698丨王朝兴衰启示录：韦敖的遗憾与今朝之镜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/liuyongeasternhan/"
     },
     "LiuYouLateHan": {
       "episode_count": 2,
@@ -42237,6 +42353,50 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/qihoo360/"
     },
+    "QinFengEasternHan": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？ [lu59asTeDslJoEFNL6yR9d4iLIrh].md",
+          "key": "zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？ [lq1dq1SrOKORKZeiB_OaTtNI3sme].md",
+          "key": "zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
+          "key": "zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》691丨敢夺江山的隗嚣，为何注定输给刘秀？ [ljazchPQNXcGaV6CmLbM7_d-gV8_].md",
+          "key": "zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》691丨敢夺江山的隗嚣，为何注定输给刘秀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？ [lttLNOAZRrg5dtdVFqMNGCbFEoDy].md",
+          "key": "zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/qinfengeasternhan/"
+    },
     "QinGongLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -50815,9 +50975,9 @@
       "url": "/wiki/entities/tianminglatehan/"
     },
     "TianRongYilingEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
@@ -50825,6 +50985,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？ [lu59asTeDslJoEFNL6yR9d4iLIrh].md",
+          "key": "zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
         }
       ],
       "updated": "2026-09-02",
@@ -53656,9 +53823,9 @@
       "url": "/wiki/entities/weitenglatehan/"
     },
     "WeiXiaoEasternHan": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -53764,6 +53931,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？ [lu59asTeDslJoEFNL6yR9d4iLIrh].md",
+          "key": "zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
         }
       ],
       "updated": "2026-09-02",
@@ -55436,6 +55610,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/xiebilatehan/"
+    },
+    "XieGongEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？ [lu59asTeDslJoEFNL6yR9d4iLIrh].md",
+          "key": "zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/xiegongeasternhan/"
     },
     "XieHaoQingheLateHan": {
       "episode_count": 1,
