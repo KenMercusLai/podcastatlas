@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6242
+wiki_total_pages: 6247
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -965,6 +965,9 @@ wiki_pages:
   - key: "FrontierModelUsePolicyConflict"
     title: "Frontier Model Use Policy Conflict"
     url: "/wiki/concepts/frontiermodelusepolicyconflict/"
+  - key: "FrontierModelVerifiedAccess"
+    title: "Frontier Model Verified Access"
+    url: "/wiki/concepts/frontiermodelverifiedaccess/"
   - key: "FrontierTradeSystems"
     title: "Frontier Trade Systems"
     url: "/wiki/concepts/frontiertradesystems/"

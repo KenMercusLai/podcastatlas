@@ -522,6 +522,36 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/aiassistedwritingdisclosure/"
     },
+    "AIAutomationRedistribution": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260803_0803_MP_TECH_pod_128 [tech_20260803_0803_MP_TECH_pod_128].md",
+          "key": "tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Opening the curtain of AI business integration",
+          "url": "/wiki/sources/tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_2193e6c471c9f121fa5b5d7d2821def2_31077010 [default.mp3_ywr3ahjkcgo_2193e6c471c9f121fa5b5d7d2821def2_31077010].md",
+          "key": "live-anthropic-co-founder-on-ai-and-jobs",
+          "show": "Planet Money",
+          "title": "Live: Anthropic co-founder on AI and jobs",
+          "url": "/wiki/sources/live-anthropic-co-founder-on-ai-and-jobs/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections [41630275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/aiautomationredistribution/"
+    },
     "AIChipSpecialization": {
       "episode_count": 8,
       "show_count": 6,
@@ -1523,10 +1553,26 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/aiproteindesign/"
     },
-    "AIRegulatoryCaptureRisk": {
-      "episode_count": 3,
+    "AIPublicOwnershipProposal": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections [41630275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/aipublicownershipproposal/"
+    },
+    "AIRegulatoryCaptureRisk": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs： SLOW DOWN AI, Mamdani's Grocery Stores [42282790].md",
@@ -1548,9 +1594,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections [41630275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/airegulatorycapturerisk/"
     },
     "AISnowlineWorkBoundary": {
@@ -4425,6 +4478,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/baimarelieflatehan/"
     },
+    "BallotHarvestingTrustRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections [41630275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/ballotharvestingtrustrisk/"
+    },
     "BalthazarGerard": {
       "episode_count": 1,
       "show_count": 1,
@@ -5068,6 +5137,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/benjaminfranklin/"
+    },
+    "BernieSanders": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "152.关于2026年的四个猜想 [nhx-c5XJwaOVpaqjpuA24dIOhsAz].md",
+          "key": "152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz",
+          "show": "起朱楼宴宾客",
+          "title": "152.关于2026年的四个猜想",
+          "url": "/wiki/sources/152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections [41630275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/berniesanders/"
     },
     "BerntBornich": {
       "episode_count": 1,
@@ -14147,9 +14239,9 @@
       "url": "/wiki/entities/elanparadoxmachines/"
     },
     "ElectionAdministrationTrust": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
@@ -14157,9 +14249,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections [41630275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/electionadministrationtrust/"
     },
     "ElectricTwoWheelerMarketDivergence": {
@@ -16951,6 +17050,64 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/fazheneasternhan/"
     },
+    "Fable5": {
+      "episode_count": 7,
+      "show_count": 4,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
+          "key": "e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817",
+          "show": "硅谷101",
+          "title": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路",
+          "url": "/wiki/sources/e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal [41706545].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545/"
+        },
+        {
+          "episode_file": "Vol. 171 假如我们有无限 Token (1) [6682-1].md",
+          "key": "vol-171-jiaru-women-you-wuxian-token-1-6682-1",
+          "show": "枫言枫语",
+          "title": "Vol. 171 假如我们有无限 Token",
+          "url": "/wiki/sources/vol-171-jiaru-women-you-wuxian-token-1-6682-1/"
+        },
+        {
+          "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
+          "key": "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1",
+          "show": "晚点聊 LateTalk",
+          "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+          "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
+        },
+        {
+          "episode_file": "【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？ (1) [171-1].md",
+          "key": "ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1",
+          "show": "晚点聊 LateTalk",
+          "title": "171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？",
+          "url": "/wiki/sources/ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1/"
+        },
+        {
+          "episode_file": "Vol. 170 Fable 5 重出江湖，GPT 仍需努力 (1) [6674-1].md",
+          "key": "vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1",
+          "show": "枫言枫语",
+          "title": "Vol. 170 Fable 5 重出江湖，GPT 仍需努力",
+          "url": "/wiki/sources/vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections [41630275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/fable5/"
+    },
     "FaceSavingSubmissionFailure": {
       "episode_count": 3,
       "show_count": 1,
@@ -19415,6 +19572,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/frontierconscriptionbackfire/"
     },
+    "FrontierModelVerifiedAccess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections [41630275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/frontiermodelverifiedaccess/"
+    },
     "FrontierOfficialAbuseRebellionSpiral": {
       "episode_count": 3,
       "show_count": 1,
@@ -20791,6 +20964,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/gengyaneasternhan/"
+    },
+    "GenomeLanguageModels": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections [41630275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/genomelanguagemodels/"
     },
     "GeometricUnity": {
       "episode_count": 1,
@@ -46116,6 +46305,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/socialroboticseldercare/"
     },
+    "SocialSecurity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections [41630275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/socialsecurity/"
+    },
     "SocratesFootballer": {
       "episode_count": 1,
       "show_count": 1,
@@ -46522,6 +46727,29 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/spacebasedaiinfrastructure/"
+    },
+    "SpencerPratt": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Spencer Pratt on Fixing LA： Wildfires, Homelessness, Corruption & the Fight to Take It Back [41236810].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-it-back-41236810",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Spencer Pratt on Fixing LA: Wildfires, Homelessness, Corruption & the Fight to Take It Back",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-it-back-41236810/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections [41630275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/spencerpratt/"
     },
     "SpineRehabilitationProgression": {
       "episode_count": 1,
@@ -48440,6 +48668,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/symptomdrivenspinecare/"
+    },
+    "SyntheticBiologyScreeningSafeguards": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections [41630275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/syntheticbiologyscreeningsafeguards/"
     },
     "SyntheticPerformers": {
       "episode_count": 1,

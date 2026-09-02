@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6242
+wiki_total_pages: 6247
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "BalanceSheetMacroAnalysis"
     title: "Balance-Sheet Macro Analysis"
     url: "/wiki/concepts/balancesheetmacroanalysis/"
+  - key: "BallotHarvestingTrustRisk"
+    title: "Ballot Harvesting Trust Risk"
+    url: "/wiki/concepts/ballotharvestingtrustrisk/"
   - key: "BanalityOfEvil"
     title: "Banality Of Evil / 恶的平庸性"
     url: "/wiki/concepts/banalityofevil/"

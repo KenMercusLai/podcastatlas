@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2651
+topic_total_pages: 2656
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -655,6 +655,9 @@ topic_concepts:
   - key: "AIPublicLikenessGeneration"
     title: "AI Public Likeness Generation"
     url: "/wiki/concepts/aipubliclikenessgeneration/"
+  - key: "AIPublicOwnershipProposal"
+    title: "AI Public Ownership Proposal"
+    url: "/wiki/concepts/aipublicownershipproposal/"
   - key: "AIQueryPrivacyRisk"
     title: "AI Query Privacy Risk"
     url: "/wiki/concepts/aiqueryprivacyrisk/"
@@ -1813,6 +1816,9 @@ topic_concepts:
   - key: "FrontierModelUsePolicyConflict"
     title: "Frontier Model Use Policy Conflict"
     url: "/wiki/concepts/frontiermodelusepolicyconflict/"
+  - key: "FrontierModelVerifiedAccess"
+    title: "Frontier Model Verified Access"
+    url: "/wiki/concepts/frontiermodelverifiedaccess/"
   - key: "FrontlineAIEnablement"
     title: "Frontline AI Enablement"
     url: "/wiki/concepts/frontlineaienablement/"
@@ -1843,6 +1849,9 @@ topic_concepts:
   - key: "GenerativeMediaControlLayers"
     title: "Generative Media Control Layers"
     url: "/wiki/concepts/generativemediacontrollayers/"
+  - key: "GenomeLanguageModels"
+    title: "Genome Language Models"
+    url: "/wiki/concepts/genomelanguagemodels/"
   - key: "GlobalFinancialNetwork"
     title: "Global Financial Network"
     url: "/wiki/concepts/globalfinancialnetwork/"
@@ -3319,6 +3328,9 @@ topic_concepts:
   - key: "SyntheticAgentData"
     title: "Synthetic Agent Data"
     url: "/wiki/concepts/syntheticagentdata/"
+  - key: "SyntheticBiologyScreeningSafeguards"
+    title: "Synthetic Biology Screening Safeguards"
+    url: "/wiki/concepts/syntheticbiologyscreeningsafeguards/"
   - key: "SyntheticPerformers"
     title: "Synthetic Performers"
     url: "/wiki/concepts/syntheticperformers/"
@@ -7068,6 +7080,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555"
     title: "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275"
+    title: "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420"
     title: "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420/"

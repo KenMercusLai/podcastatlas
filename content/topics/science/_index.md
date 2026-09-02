@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 873
+topic_total_pages: 874
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -604,6 +604,9 @@ topic_concepts:
   - key: "GeneticCulpabilityProblem"
     title: "Genetic Culpability Problem / 遗传归责问题"
     url: "/wiki/concepts/geneticculpabilityproblem/"
+  - key: "GenomeLanguageModels"
+    title: "Genome Language Models"
+    url: "/wiki/concepts/genomelanguagemodels/"
   - key: "GeometricUnity"
     title: "Geometric Unity"
     url: "/wiki/concepts/geometricunity/"

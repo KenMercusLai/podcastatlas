@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6242
+wiki_total_pages: 6247
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1010,6 +1010,9 @@ wiki_pages:
   - key: "AIPublicLikenessGeneration"
     title: "AI Public Likeness Generation"
     url: "/wiki/concepts/aipubliclikenessgeneration/"
+  - key: "AIPublicOwnershipProposal"
+    title: "AI Public Ownership Proposal"
+    url: "/wiki/concepts/aipublicownershipproposal/"
   - key: "AIQueryPrivacyRisk"
     title: "AI Query Privacy Risk"
     url: "/wiki/concepts/aiqueryprivacyrisk/"

@@ -4116,6 +4116,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIPublicOwnershipProposal": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AIQueryPrivacyRisk": [
     {
       "key": "technology",
@@ -8973,6 +8985,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "BallotHarvestingTrustRisk": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "BalticSea": [
@@ -24501,6 +24520,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "FrontierModelVerifiedAccess": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FrontierProxyCommitmentBinding": [
     {
       "key": "politics",
@@ -25561,6 +25592,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "GenomeLanguageModels": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "GenreLiteraryLegitimacy": [
@@ -57901,6 +57944,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "SyntheticBiologyScreeningSafeguards": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "SyntheticPerformers": [
     {
       "key": "technology",
@@ -68849,6 +68904,23 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420": [

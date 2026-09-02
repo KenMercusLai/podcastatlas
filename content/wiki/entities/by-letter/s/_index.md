@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8801
+wiki_total_pages: 8802
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -797,6 +797,9 @@ wiki_pages:
   - key: "Soccernomics"
     title: "Soccernomics / 《足球经济学》"
     url: "/wiki/entities/soccernomics/"
+  - key: "SocialSecurity"
+    title: "Social Security"
+    url: "/wiki/entities/socialsecurity/"
   - key: "SocietyOfActuaries"
     title: "Society of Actuaries"
     url: "/wiki/entities/societyofactuaries/"

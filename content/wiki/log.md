@@ -14792,6 +14792,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-02] ingest | Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections
+
+Ingested the 2026-06-13 All-In episode on Anthropic's Fable 5 prompt-retention and downgrade backlash, verified frontier access, synthetic-biology screening, public AI-company ownership, Social Security equity-account alternatives, AI productivity and job-loss rhetoric, CPI/PPI and Iran energy risk, and California election-administration trust. Added source `all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275`; created `AIPublicOwnershipProposal`, `FrontierModelVerifiedAccess`, `SyntheticBiologyScreeningSafeguards`, `BallotHarvestingTrustRisk`, `GenomeLanguageModels`, and `SocialSecurity`; updated `Fable5`, `BernieSanders`, `SpencerPratt`, `AIAutomationRedistribution`, `AIRegulatoryCaptureRisk`, `ElectionAdministrationTrust`, `index`, and downstream synthesis artifacts. No settled contradiction found; the election segment remains in tension with Nate Silver's earlier cohort explanation and no-fraud-evidence caveat, later Iran pages qualify the June off-ramp discussion, and the Fable retention/downgrade, CPI/PPI, Los Angeles vote-share, and fraud-example claims remain source-scoped.
+
 ## [2026-09-02] ingest | 在非洲卖快餐，为什么肯德基比麦当劳更吃得开？
 
 Ingested the 2026-09-01 声动早咖啡 episode on why KFC has a much larger sub-Saharan African footprint than McDonald's. Added source `zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062`; created `KFC`, `SubSaharanAfrica`, `Nandos`, and `ProteinSupplyChainMarketFit`; updated `McDonalds`, `SouthAfrica`, `RestaurantSupplyChainLocalization`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; store counts, IPO and earnings figures, executive-succession claims, competition complaints, and expansion plans remain source-scoped.
@@ -14967,6 +14971,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] ingest | EP 42: When AI Meets Robotics: Building Machines That Care
 
 Ingested the 2026-06-13 Data Science With Sam episode with Mohammad H. Mahoor on Ryan, Dream Face Technologies, artificial emotional intelligence, social robotics in elder care, LLM-enabled robot conversation, dignity, consent, privacy, clinical-pilot attachment, and care augmentation. Added source `ep-42-when-ai-meets-robotics-building-machines-that-care`; created `MohammadMahoor`, `RyanSocialRobot`, `DreamFaceTechnologies`, `UniversityOfDenver`, `ArtificialEmotionalIntelligence`, and `SocialRoboticsElderCare`; updated `AIAndRoboticElderCareLimits`, `CompanionRobots`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; technical architecture, clinical outcome strength, company scale, and full guest biography remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 

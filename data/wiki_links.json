@@ -2271,6 +2271,10 @@
     "title": "AI Public Likeness Generation",
     "url": "/wiki/concepts/aipubliclikenessgeneration/"
   },
+  "AIPublicOwnershipProposal": {
+    "title": "AI Public Ownership Proposal",
+    "url": "/wiki/concepts/aipublicownershipproposal/"
+  },
   "AIQueryPrivacyRisk": {
     "title": "AI Query Privacy Risk",
     "url": "/wiki/concepts/aiqueryprivacyrisk/"
@@ -6222,6 +6226,10 @@
   "BalanceSheetMacroAnalysis": {
     "title": "Balance-Sheet Macro Analysis",
     "url": "/wiki/concepts/balancesheetmacroanalysis/"
+  },
+  "BallotHarvestingTrustRisk": {
+    "title": "Ballot Harvesting Trust Risk",
+    "url": "/wiki/concepts/ballotharvestingtrustrisk/"
   },
   "BalthazarGerard": {
     "title": "Balthazar Gerard",
@@ -20399,6 +20407,10 @@
     "title": "Frontier Model Use Policy Conflict",
     "url": "/wiki/concepts/frontiermodelusepolicyconflict/"
   },
+  "FrontierModelVerifiedAccess": {
+    "title": "Frontier Model Verified Access",
+    "url": "/wiki/concepts/frontiermodelverifiedaccess/"
+  },
   "FrontierOfficialAbuseRebellionSpiral": {
     "title": "边吏侵害引发反叛螺旋 / Frontier Official Abuse Rebellion Spiral",
     "url": "/wiki/concepts/frontierofficialabuserebellionspiral/"
@@ -21366,6 +21378,10 @@
   "Genmab": {
     "title": "Genmab",
     "url": "/wiki/entities/genmab/"
+  },
+  "GenomeLanguageModels": {
+    "title": "Genome Language Models",
+    "url": "/wiki/concepts/genomelanguagemodels/"
   },
   "GenreLiteraryLegitimacy": {
     "title": "Genre Literary Legitimacy / 类型文学正名",
@@ -48443,6 +48459,10 @@
     "title": "Social Robotics in Elder Care",
     "url": "/wiki/concepts/socialroboticseldercare/"
   },
+  "SocialSecurity": {
+    "title": "Social Security",
+    "url": "/wiki/entities/socialsecurity/"
+  },
   "SocialSignalInterpretation": {
     "title": "Social Signal Interpretation",
     "url": "/wiki/concepts/socialsignalinterpretation/"
@@ -50774,6 +50794,10 @@
   "SyntheticAgentData": {
     "title": "Synthetic Agent Data",
     "url": "/wiki/concepts/syntheticagentdata/"
+  },
+  "SyntheticBiologyScreeningSafeguards": {
+    "title": "Synthetic Biology Screening Safeguards",
+    "url": "/wiki/concepts/syntheticbiologyscreeningsafeguards/"
   },
   "SyntheticPerformers": {
     "title": "Synthetic Performers",
@@ -61582,6 +61606,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555": {
     "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275": {
+    "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420": {
     "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",

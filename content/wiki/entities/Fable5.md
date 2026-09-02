@@ -2,42 +2,61 @@
 title: "Fable 5"
 type: entity
 tags: [ai-model, coding, agents]
-sources: [e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, vol-171-jiaru-women-you-wuxian-token-1-6682-1, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
-last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
+sources:
+  - e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817
+  - all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545
+  - vol-171-jiaru-women-you-wuxian-token-1-6682-1
+  - xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1
+  - ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1
+  - vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1
+  - all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275
+last_updated: 2026-09-02
 ---
 
 # Fable 5
 
-[[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] mentions Fable/Fybe 5 in a source-scoped model-routing discussion. [[Dongxu]] says stronger models changed his view of multi-agent collaboration because a sufficiently capable single model can sometimes solve hard point problems that a group of weaker agents debates for a long time; the episode therefore reinforces [[ModelRoutingCostControl]] rather than treating Fable 5 as an always-on default.
+## Overview
+Fable 5 is an [[Anthropic]] frontier model/product in the wiki, discussed as both a high-end coding model and a release-governance controversy. Its profile combines strong planning and implementation capability with trust questions around access limits, refusal behavior, prompt retention, and possible hidden downgrades.
 
-[[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] adds the shutdown and export-control branch. The source says the U.S. government asked [[Anthropic]] to restrict Fable 5 to U.S. citizens, Anthropic shut it down globally instead, and private testers escalated jailbreak concerns to the White House after communication broke down.
+## Current Profile
+The current synthesis separates model quality from provider reliability. Fable 5 is repeatedly treated as unusually useful for planning, one-shot coding, UI generation, review triage, and long agent loops, but the same sources make it a case where frontier-model users cannot judge capability from benchmarks alone. Enterprise and research users also need stable access, clear data-retention rules, transparent routing, and guardrails that do not silently substitute weaker behavior for the model they selected.
 
-Fable 5 is the model/product discussed in [[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] after X-Rapid reopened access. [[JustinYan]] and [[Zili]] treat it less as a benchmark headline and more as a practical coding-workflow event: in their use, it can plan, clarify requirements, implement larger tasks, generate usable interfaces, and assess code-review feedback with fewer severe mistakes than prior models they were using.
+The newer All-In material shifts Fable 5 from a coding-workflow story into an institutional-control story. The model now anchors debates over [[FrontierModelAccessRestrictions]], [[AIExportControls]], [[AISafetyNarrativeBackfire]], [[AIRegulatoryCaptureRisk]], and whether narrower controls such as verified access or downstream biosecurity screening are preferable to broad model refusal.
 
-The source repeatedly separates model capability from workflow wrapper. Some of the improvement may come from stronger base-model behavior, while some may come from [[AgentHarness]] design, [[AISkills]], and the way the model is used for planning and acceptance.
+## Key Characteristics
+- High-end coding and planning model used for requirements discussion, PRD/spec work, one-shot implementation, UI generation, and review judgment.
+- Practical value is constrained by quotas, token cost, subscription limits, human review capacity, and routing decisions across [[Codex]], [[ClaudeCode]], open models, and local models.
+- Release and access history makes it a test case for citizenship filters, government pressure, shutdown decisions, and enterprise continuity risk.
+- Refusal behavior and reported silent degradation can undermine trust even when motivated by safety, policy, or bio/cyber concerns.
+- Open-weight competitors such as [[KimiK3|Kimi K3]], [[DeepSeek]], and [[GLM52|GLM 5.2]] pressure Fable 5 by offering cheaper, self-hostable, or more controllable alternatives for many tasks.
+- The model's safety controversy is now less about whether risk exists than where controls should sit: provider refusal, verified user access, release governance, hyperscaler gates, or downstream physical-world safeguards.
 
-[[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] adds the frontier-competition version. [[HenryYin]] treats Anthropic's Methos/Fable release as strong but constrained by refusal behavior, safety guardrails, and source-reported silent degradation for some AI/ML research tasks. That shifts Fable 5 from only a hands-on coding-workflow event into part of the broader [[FrontierModelAccessRestrictions]] and [[ModelProviderToolCompetition]] story.
+## Evidence
+- Coding and planning capability: [[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] describes Fable 5 as strong for planning, requirement clarification, implementation, UI generation, and code-review triage, while [[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] places it inside longer token-intensive coding workflows.
+- Workflow economics and routing: [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] and [[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] use Fable 5 as one model among frontier, open, local, and multi-agent routing choices rather than an always-on default.
+- Access and release governance: [[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] frames Fable 5 through a source-reported U.S.-citizen restriction request and global shutdown, while [[all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275]] adds prompt retention, enterprise zero-data-retention tension, and downgrade disclosure concerns.
+- Refusal and hidden-capability concerns: [[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] says Fable/Methos quality was constrained by safety guardrails and access limits, and [[all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275]] records live examples where the hosts say sensitive prompts triggered downgrades.
+- Open-model pressure: [[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] uses Kimi K3 to show why strong open weights can pressure closed-lab pricing and lock-in, while [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] treats Fable 5, DeepSeek, and GLM 5.2 as routing options in agent workflows.
+- Guardrail placement: [[all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275]] contrasts broad model downgrades with KYC-style verified access and nucleic-acid synthesis screening as more targeted safeguards.
 
-[[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] mentions Fable 5 as the frontier model comparison point for K3's perceived long-agent and coding ability. The source does not re-evaluate Fable 5 directly; it uses the comparison to show why a strong open-weight [[KimiK3|Kimi K3]] can pressure closed-model pricing, workflow choice, and [[Anthropic]] valuation narratives.
+## Qualifications
+Claims about the first "full-power" release, hidden downgrade mechanics, exact retention implications, and model benchmark superiority are source-scoped. The sources agree that Fable 5 can be highly capable, but they do not independently prove that every restriction was unnecessary or that every refusal was caused by the same policy mechanism.
 
-[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds Fable 5 as part of the host's everyday [[UnlimitedTokenWorkflow]] experiments. The episode frames high-end subscription access as a way to experience what longer, richer AI work loops make possible, while also showing that more capability increases the number of plans, reviews, and artifacts waiting for human acceptance.
+Open models are a pressure valve, not a complete substitute. The same evidence that makes them attractive for continuity and local control also raises deployment, safety, provenance, and capability-gap questions.
 
-## Source Position
-- The All-In source adds that Fable 5 is also a release-governance case: model capability, jailbreakability, nationality rules, and government escalation can become inseparable once the model is framed as cyber-relevant.
-- Fable 5 is framed as a high-end coding and reasoning model whose strongest value appears in [[OneShotAICoding]], planning, review triage, and product-quality judgment.
-- The hosts suspect the reopened version may not be the earliest "full-power" variant, but still describe it as a step change in day-to-day coding work.
-- Its practical bottleneck is not only intelligence; Fable-specific limits, subscription constraints, and API spending make [[AIInferenceCostStructure]] central to whether users can rely on it.
-- The preferred workflow is to use Fable 5 for discussion, PRD/spec/issue planning, and acceptance review, while delegating implementation or code review to [[Codex]] when appropriate.
-- The LateTalk source adds that model quality can be undermined by access limits or hidden routing behavior when the user depends on a frontier model for research or coding.
-- Vol. 171 adds that high-end model access can change the user's horizon: the point is not only faster code, but the ability to try longer loops, multiple agents, and lower-certainty work that would otherwise feel too expensive.
+## What Changed
+- Migrated the page to `synthesis-v1` and compressed source-by-source append prose into current characteristics.
+- Added the June 13 All-In episode's prompt-retention, zero-data-retention, downgrade, KYC, and synthetic-biology-screening details.
+- Rebalanced the page around the distinction between model capability and provider trust.
+- Made open-model pressure and guardrail placement explicit parts of the Fable 5 profile.
 
-## Connections
-- [[Anthropic]], [[DarioAmodei|Dario Amodei]], [[AIExportControls]], [[FrontierModelAccessRestrictions]], [[FrontierModelReleaseGovernance]], and [[HyperscalerAIGatekeeping]] - All-In shutdown and access-control branch.
-- [[Codex]] — execution and review counterpart in the described workflow.
-- [[Superpowers]] and [[GrillMeSkills]] — process wrappers whose value and token cost are reassessed in light of Fable 5 capability.
-- [[AICodingVerification]] and [[AIEngineeringThinking]] — verification and planning disciplines that remain necessary despite stronger one-shot output.
-- [[TokenDrivenSoftware]] and [[ModelRoutingCostControl]] — downstream product and cost-control ideas prompted by the model's capability jump.
-- [[Anthropic]], [[GPT56]], and [[FrontierModelAccessRestrictions]] — Q2 2026 frontier-model comparison added by the LateTalk source.
-- [[KimiK3]], [[ClosedModelAPIMoatPressure]], and [[OpenWeightReleaseBoundary]] — K3 comparison branch added by LateTalk episode 177.
-- [[UnlimitedTokenWorkflow]], [[AIUsePacing]], and [[HumanJudgmentUnderAI]] — Vol. 171's abundant-token and review-bottleneck branch.
-- [[Dongxu]], [[TokenEfficientAgentWorkflow]], and [[MultiAgentCollaboration]] — E249's source-scoped comparison of stronger single models and agent groups.
+## Relationships
+- [[Anthropic]] - model provider and governance context.
+- [[ClaudeCode]] - adjacent Anthropic coding-tool workflow.
+- [[Codex]] - execution and review counterpart in several Fable 5 workflows.
+- [[FrontierModelAccessRestrictions]] - policy category where Fable 5 is a recurring case.
+- [[AIExportControls]] - state-control frame triggered by cyber and national-security interpretations.
+- [[AIRegulatoryCaptureRisk]] - governance suspicion intensified by broad restrictions and approval-agency proposals.
+- [[FrontierModelVerifiedAccess]] - narrower access-control alternative discussed in the June 13 source.
+- [[OpenSourceAIModels]] - substitution and competitive-pressure category.

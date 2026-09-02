@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1904
+topic_total_pages: 1905
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -5145,6 +5145,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555"
     title: "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275"
+    title: "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420"
     title: "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420/"

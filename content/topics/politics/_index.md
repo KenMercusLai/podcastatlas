@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2157
+topic_total_pages: 2162
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -151,6 +151,9 @@ topic_concepts:
   - key: "AIProfessionalDataSecurity"
     title: "AI Professional Data Security"
     url: "/wiki/concepts/aiprofessionaldatasecurity/"
+  - key: "AIPublicOwnershipProposal"
+    title: "AI Public Ownership Proposal"
+    url: "/wiki/concepts/aipublicownershipproposal/"
   - key: "AIQueryPrivacyRisk"
     title: "AI Query Privacy Risk"
     url: "/wiki/concepts/aiqueryprivacyrisk/"
@@ -298,6 +301,9 @@ topic_concepts:
   - key: "BadMoney"
     title: "Bad Money"
     url: "/wiki/concepts/badmoney/"
+  - key: "BallotHarvestingTrustRisk"
+    title: "Ballot Harvesting Trust Risk"
+    url: "/wiki/concepts/ballotharvestingtrustrisk/"
   - key: "BanalityOfEvil"
     title: "Banality Of Evil / 恶的平庸性"
     url: "/wiki/concepts/banalityofevil/"
@@ -1183,6 +1189,9 @@ topic_concepts:
   - key: "FrontierModelUsePolicyConflict"
     title: "Frontier Model Use Policy Conflict"
     url: "/wiki/concepts/frontiermodelusepolicyconflict/"
+  - key: "FrontierModelVerifiedAccess"
+    title: "Frontier Model Verified Access"
+    url: "/wiki/concepts/frontiermodelverifiedaccess/"
   - key: "FugitiveTemporality"
     title: "Fugitive Temporality"
     url: "/wiki/concepts/fugitivetemporality/"
@@ -2890,6 +2899,9 @@ topic_concepts:
   - key: "SymmetricInterstateCredibility"
     title: "Symmetric Interstate Credibility / 对称外交信用"
     url: "/wiki/concepts/symmetricinterstatecredibility/"
+  - key: "SyntheticBiologyScreeningSafeguards"
+    title: "Synthetic Biology Screening Safeguards"
+    url: "/wiki/concepts/syntheticbiologyscreeningsafeguards/"
   - key: "SyntheticRiskTransfer"
     title: "Synthetic Risk Transfer / SRT"
     url: "/wiki/concepts/syntheticrisktransfer/"
@@ -5856,6 +5868,9 @@ topic_sources:
   - key: "an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c"
     title: "An interview with Yuval Noah Harari"
     url: "/wiki/sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275"
+    title: "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420"
     title: "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420/"
