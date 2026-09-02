@@ -7867,6 +7867,10 @@
     "title": "Branded Produce Differentiation",
     "url": "/wiki/concepts/brandedproducedifferentiation/"
   },
+  "BrandmauerCordonSanitaire": {
+    "title": "Brandmauer Cordon Sanitaire",
+    "url": "/wiki/concepts/brandmauercordonsanitaire/"
+  },
   "BrandonKatz": {
     "title": "Brandon Katz",
     "url": "/wiki/entities/brandonkatz/"
@@ -10739,6 +10743,10 @@
     "title": "Chinese Podcast Ecosystem / 中文播客生态",
     "url": "/wiki/concepts/chinesepodcastecosystem/"
   },
+  "ChinesePremiumChocolateLocalization": {
+    "title": "Chinese Premium Chocolate Localization",
+    "url": "/wiki/concepts/chinesepremiumchocolatelocalization/"
+  },
   "ChinesePrivateAirlineOpening": {
     "title": "Chinese Private Airline Opening",
     "url": "/wiki/concepts/chineseprivateairlineopening/"
@@ -10794,6 +10802,10 @@
   "Chobani": {
     "title": "Chobani",
     "url": "/wiki/entities/chobani/"
+  },
+  "ChocRevive": {
+    "title": "Choc Revive",
+    "url": "/wiki/entities/chocrevive/"
   },
   "ChocolateCompound": {
     "title": "Chocolate Compound",
@@ -18443,6 +18455,10 @@
     "title": "Far-Right Normalization",
     "url": "/wiki/concepts/farrightnormalization/"
   },
+  "FarRightStateGovernanceTest": {
+    "title": "Far-Right State Governance Test",
+    "url": "/wiki/concepts/farrightstategovernancetest/"
+  },
   "FarahChia": {
     "title": "Farah Chia",
     "url": "/wiki/entities/farahchia/"
@@ -18954,6 +18970,10 @@
   "FerrariPurosangue": {
     "title": "Ferrari Purosangue",
     "url": "/wiki/entities/ferraripurosangue/"
+  },
+  "Ferrero": {
+    "title": "Ferrero",
+    "url": "/wiki/entities/ferrero/"
   },
   "Ferrix": {
     "title": "Ferrix",
@@ -35179,6 +35199,10 @@
     "title": "Methodic Doubt",
     "url": "/wiki/concepts/methodicdoubt/"
   },
+  "MetropolitanPolice": {
+    "title": "Metropolitan Police",
+    "url": "/wiki/entities/metropolitanpolice/"
+  },
   "Mexico": {
     "title": "Mexico",
     "url": "/wiki/entities/mexico/"
@@ -37530,6 +37554,10 @@
   "NianNuJiaoChibiHuaiGu": {
     "title": "《念奴娇·赤壁怀古》 / Nian Nu Jiao: Reminiscence at Red Cliff",
     "url": "/wiki/entities/niannujiaochibihuaigu/"
+  },
+  "Nibbo": {
+    "title": "Nibbo",
+    "url": "/wiki/entities/nibbo/"
   },
   "NiccoloMachiavelli": {
     "title": "Niccolo Machiavelli / 马基雅维利",
@@ -42671,6 +42699,14 @@
     "title": "Public Safety Privacy Tradeoff",
     "url": "/wiki/concepts/publicsafetyprivacytradeoff/"
   },
+  "PublicSectorVendorDependence": {
+    "title": "Public-Sector Vendor Dependence",
+    "url": "/wiki/concepts/publicsectorvendordependence/"
+  },
+  "PublicServiceDataPlatformTradeoff": {
+    "title": "Public-Service Data Platform Trade-Off",
+    "url": "/wiki/concepts/publicservicedataplatformtradeoff/"
+  },
   "PublicServiceDigitalization": {
     "title": "Public Service Digitalization",
     "url": "/wiki/concepts/publicservicedigitalization/"
@@ -44274,6 +44310,10 @@
   "RemedialEducationTargeting": {
     "title": "Remedial Education Targeting",
     "url": "/wiki/concepts/remedialeducationtargeting/"
+  },
+  "RemigrationPolitics": {
+    "title": "Remigration Politics",
+    "url": "/wiki/concepts/remigrationpolitics/"
   },
   "RemnantResistanceBase": {
     "title": "Remnant Resistance Base / 残余政权根据地",
@@ -45935,6 +45975,10 @@
     "title": "Sadia Pekkanen",
     "url": "/wiki/entities/sadiapekkanen/"
   },
+  "SadiqKhan": {
+    "title": "Sadiq Khan",
+    "url": "/wiki/entities/sadiqkhan/"
+  },
   "SafeSpacesVsOctagons": {
     "title": "Safe Spaces vs Octagons",
     "url": "/wiki/concepts/safespacesvsoctagons/"
@@ -46283,6 +46327,10 @@
     "title": "Satoshi Nakamoto",
     "url": "/wiki/entities/satoshinakamoto/"
   },
+  "SaturnBird": {
+    "title": "Saturn Bird",
+    "url": "/wiki/entities/saturnbird/"
+  },
   "SatyaNadella": {
     "title": "Satya Nadella",
     "url": "/wiki/entities/satyanadella/"
@@ -46314,6 +46362,10 @@
   "SawGerrera": {
     "title": "Saw Gerrera",
     "url": "/wiki/entities/sawgerrera/"
+  },
+  "SaxonyAnhalt": {
+    "title": "Saxony-Anhalt",
+    "url": "/wiki/entities/saxonyanhalt/"
   },
   "SayaDate": {
     "title": "Saya Date",
@@ -54014,6 +54066,10 @@
   "UkraineMilitaryCommandReform": {
     "title": "Ukraine Military Command Reform",
     "url": "/wiki/concepts/ukrainemilitarycommandreform/"
+  },
+  "UlrichSiegmund": {
+    "title": "Ulrich Siegmund",
+    "url": "/wiki/entities/ulrichsiegmund/"
   },
   "UlsterDefenceAssociation": {
     "title": "Ulster Defence Association",
@@ -63402,6 +63458,10 @@
   "riding-with-the-repo-man-update": {
     "title": "Riding with the repo man (update)",
     "url": "/wiki/sources/riding-with-the-repo-man-update/"
+  },
+  "right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f": {
+    "title": "Right in front: AfD could win German state",
+    "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
   },
   "ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638": {
     "title": "日谈串台｜红楼梦：还是可以读一读的",

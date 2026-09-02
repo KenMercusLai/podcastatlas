@@ -296,20 +296,20 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-09-02",
       "latest_episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
-      "source_note_count": 64,
-      "topic_matched_source_note_count": 61,
+      "source_note_count": 65,
+      "topic_matched_source_note_count": 62,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 48
+          "source_note_count": 49
         },
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 22
+          "source_note_count": 23
         },
         {
           "key": "culture",
@@ -383,10 +383,10 @@
         }
       ],
       "start_here_episode_files": [
-        "Even-more-maximum pressure： sanctions on Iran [6a8d6a9b66c4a1e81a4c86a9].md",
-        "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
         "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
-        "Stars in their AIs： tech is changing Hollywood [6a917d0b63de6f7b41319a4b].md"
+        "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
+        "Stars in their AIs： tech is changing Hollywood [6a917d0b63de6f7b41319a4b].md",
+        "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md"
       ]
     },
     "How I Built This with Guy Raz": {

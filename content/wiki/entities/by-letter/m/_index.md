@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8819
+wiki_total_pages: 8827
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -680,6 +680,9 @@ wiki_pages:
   - key: "METR"
     title: "METR"
     url: "/wiki/entities/metr/"
+  - key: "MetropolitanPolice"
+    title: "Metropolitan Police"
+    url: "/wiki/entities/metropolitanpolice/"
   - key: "Mexico"
     title: "Mexico"
     url: "/wiki/entities/mexico/"

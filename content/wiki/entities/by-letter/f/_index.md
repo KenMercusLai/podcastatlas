@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8819
+wiki_total_pages: 8827
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "FerrariPurosangue"
     title: "Ferrari Purosangue"
     url: "/wiki/entities/ferraripurosangue/"
+  - key: "Ferrero"
+    title: "Ferrero"
+    url: "/wiki/entities/ferrero/"
   - key: "Ferrix"
     title: "Ferrix"
     url: "/wiki/entities/ferrix/"

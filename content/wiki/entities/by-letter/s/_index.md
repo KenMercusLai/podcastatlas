@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8819
+wiki_total_pages: 8827
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "SadiaPekkanen"
     title: "Sadia Pekkanen"
     url: "/wiki/entities/sadiapekkanen/"
+  - key: "SadiqKhan"
+    title: "Sadiq Khan"
+    url: "/wiki/entities/sadiqkhan/"
   - key: "SageOx"
     title: "Sage Ox"
     url: "/wiki/entities/sageox/"
@@ -203,6 +206,9 @@ wiki_pages:
   - key: "SatoshiNakamoto"
     title: "Satoshi Nakamoto"
     url: "/wiki/entities/satoshinakamoto/"
+  - key: "SaturnBird"
+    title: "Saturn Bird"
+    url: "/wiki/entities/saturnbird/"
   - key: "SatyaNadella"
     title: "Satya Nadella"
     url: "/wiki/entities/satyanadella/"
@@ -224,6 +230,9 @@ wiki_pages:
   - key: "SawGerrera"
     title: "Saw Gerrera"
     url: "/wiki/entities/sawgerrera/"
+  - key: "SaxonyAnhalt"
+    title: "Saxony-Anhalt"
+    url: "/wiki/entities/saxonyanhalt/"
   - key: "SayaDate"
     title: "Saya Date"
     url: "/wiki/entities/sayadate/"

@@ -2,44 +2,102 @@
 title: "Palantir"
 type: entity
 tags: [company, software, enterprise]
-sources: [all-in-with-chamath-jason-sacks-friedberg-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back-41552605, tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128, betty-boop-excel-olympics-penny-isms-our-2026-valentines, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, socialradarspod-garrytan-final, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]
-last_updated: 2026-08-21
+sources:
+  - all-in-with-chamath-jason-sacks-friedberg-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back-41552605
+  - tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128
+  - betty-boop-excel-olympics-penny-isms-our-2026-valentines
+  - e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d
+  - tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128
+  - tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128
+  - tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128
+  - socialradarspod-garrytan-final
+  - openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6
+  - e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde
+  - ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u
+  - right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f
+last_updated: 2026-09-02
+knowledge_schema: synthesis-v1
 ---
 
 # Palantir
 
-[[all-in-with-chamath-jason-sacks-friedberg-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back-41552605]] adds Palantir as a private-to-public exit regret in [[DanLoeb|Dan Loeb]]'s account. Loeb says [[ThirdPoint|Third Point]] sold Palantir shares in the 20s and treats that as a major example of why private investors can mishandle exceptional winners after IPO.
+## Overview
 
-[[betty-boop-excel-olympics-penny-isms-our-2026-valentines]] adds a source-scoped public-records journalism mention. [[NickFountain]] praises [[404Media|404 Media]]'s reporting on [[USImmigrationAndCustomsEnforcement|ICE]] and a Palantir-related app, while the episode also states that Palantir disputed the "Google Maps for ICE" description and framed the tool as address-data reconciliation.
+Palantir is a software and data-platform company that appears in the wiki across investment discipline, forward-deployed engineering, defense and government technology, surveillance politics, and British public-service procurement.
 
-[[e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]] adds Palantir to the [[PeterThiel]] ideology and politics branch. The [[SiliconValley101]] episode links Palantir's founding logic to [[CarlSchmitt]], 9/11, and [[ExceptionStateSurveillanceTechnology]]: in this interpretation, data search and surveillance tools become a way for government to act under exceptional conditions when liberal procedure is judged too slow or naive.
+## Current Profile
 
-Palantir is referenced in [[openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6]] as the origin context for the [[ForwardDeployedEngineer]] role. In the episode's framing, Palantir-style deployment means sending engineers into customer organizations to understand local workflows, build tailored systems, and make software operational in practice. [[e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]] reinforces this lineage through [[Jove]]'s account of complex government and enterprise customers, temporary APIs, and the need to understand data and requirements on site.
+Palantir's current profile is multi-branch. The investment branch makes it an example of an exceptional public-market winner that private investors can sell too early. The delivery branch makes it the origin reference for [[ForwardDeployedEngineer]] practice: engineers work inside customer organizations, translate workflows, build tailored systems, and then try to feed field learning back into reusable product instead of leaving every engagement as one-off services.
 
-[[ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]] adds more detail to the Palantir lineage. The [[YingdiHaike|硬地骇客]] episode describes Palantir's Echo/Delta split as a sign that forward deployment combines business interpretation and engineering delivery, then uses Chinese [[EnterpriseCustomDelivery]] to argue that Palantir's customer-specific implementation problem is not mystical. What matters is whether field learning returns to reusable product rather than remaining one-off project work.
+The politics branch is more contested. Palantir is linked to [[PeterThiel]], [[CarlSchmitt]], 9/11, and [[ExceptionStateSurveillanceTechnology]], where state data tools are interpreted as a way to act under exceptional conditions. Other sources place it in Trump-era government-technology alignment, defense procurement, model-supply-chain risk, the ICE public-records controversy, [[GarryTan]]'s early career, and [[AlexKarp]]'s cultural and political signal around the move to [[Miami]].
 
-[[socialradarspod-garrytan-final]] adds [[GarryTan]]'s early Palantir experience. Tan says he initially resisted work framed around surveillance and government agencies, later joined when the work was presented as markets and hedge-fund software, and became roughly employee number 10. The source uses Palantir less as an enterprise-deployment methodology and more as a [[BuilderCenteredInstitutions|builder-value]] lesson: software, design, recruiting pages, photography, and early credibility all mattered before the company looked inevitable.
+The British public-service branch makes Palantir a practical governance tradeoff. The episode describes Britain as Palantir's biggest foreign market, with a large local workforce and contracts across the [[NHS]], armed forces, and police. Its platforms may join fragmented data and make public services more effective, but the same footprint raises questions about privacy, lobbying, political association, procurement process, lock-in, digital sovereignty, and whether British institutions have credible domestic alternatives.
 
-[[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]] adds Palantir's announced headquarters move from Denver to [[Miami]]. [[AnitaRamaswamy]] frames the move as partly about taxes and regulation, but also as a cultural and political signal tied to [[AlexKarp]]'s earlier critique of Silicon Valley and to [[SouthFloridaTechMigration]]. The episode leaves the operational effect open because it was unclear whether employees would be required to move.
+## Key Characteristics
 
-[[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] names Palantir as an example of a defense contractor that could need to remove [[Anthropic]] technology from critical military software if [[Claude]] is treated as a [[DefenseAISupplyChainRisk]]. In this source, Palantir is not the main subject; it is the concrete contractor case showing that model-use policy disputes can become integration and replacement work.
+- Exceptional public-market winner in [[DanLoeb]]'s account of private-to-public hold discipline.
+- Origin reference for the [[ForwardDeployedEngineer]] model of embedding engineers inside customer workflows.
+- Government and defense technology company whose work is interpreted through dual-use procurement, military integration, and exceptional-state surveillance politics.
+- Public-records controversy node through reporting on a Palantir-related [[USImmigrationAndCustomsEnforcement|ICE]] app, with the app characterization disputed.
+- Builder-culture and early-company case in [[GarryTan]]'s account of joining before Palantir looked inevitable.
+- Headquarters and political-geography signal through the move to [[Miami]] and [[AlexKarp]]'s critique of Silicon Valley.
+- British public-service data-platform supplier whose utility is inseparable from procurement, privacy, lock-in, and digital-sovereignty concerns.
 
-[[tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128]] names Palantir as another newer technology company gaining ground in defense alongside [[GeckoRobotics]] and [[Anduril]]. This source shifts Palantir from the model-removal example above into the broader [[DefenseTechStartupProcurement]] frame: defense buyers are becoming more willing to use newer software and robotics companies where legacy contractors once dominated.
+## Evidence
 
-[[tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128]] adds Palantir to the Trump-era government-technology alignment story. [[SuyashPasi]] treats Palantir's rising importance as an example of [[DualUseDefenseTechnology]] and [[TechGovernmentAccommodation]], where AI, military capability, and government procurement make newer tech companies more politically salient.
+- Investment discipline: [[all-in-with-chamath-jason-sacks-friedberg-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back-41552605]] has [[DanLoeb]] say [[ThirdPoint]] sold Palantir shares in the 20s and treats that exit as a lesson in mishandling exceptional winners after IPO.
+- FDE lineage: [[openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6]], [[e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]], and [[ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]] use Palantir as the role model for engineers who translate complex enterprise and government workflows into working systems.
+- Product-versus-services tension: [[ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]] describes Palantir's Echo/Delta split as a way to combine business interpretation, engineering delivery, and reusable product learning.
+- Ideology and surveillance: [[e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]] links Palantir's founding logic to [[PeterThiel]], [[CarlSchmitt]], 9/11, and [[ExceptionStateSurveillanceTechnology]].
+- ICE controversy: [[betty-boop-excel-olympics-penny-isms-our-2026-valentines]] cites [[404Media]] reporting on an ICE-related app while noting Palantir disputed the "Google Maps for ICE" framing and described the tool as address-data reconciliation.
+- Defense and government alignment: [[tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128]], [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]], and [[tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128]] place Palantir inside [[DualUseDefenseTechnology]], [[TechGovernmentAccommodation]], [[DefenseAISupplyChainRisk]], and [[DefenseTechStartupProcurement]].
+- Early-company and geography branches: [[socialradarspod-garrytan-final]] uses [[GarryTan]]'s early Palantir experience as a builder-culture case, while [[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]] frames the move to [[Miami]] through taxes, regulation, and political-cultural signaling.
+- British public-service footprint: [[right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f]] describes Palantir as deeply embedded in Britain through the NHS, armed forces, police, a large workforce, and a 2023 NHS federated data platform contract.
+- Procurement and sovereignty tradeoff: [[right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f]] contrasts useful public-service data integration with concerns about surveillance associations, lobbying, vendor lock-in, weak domestic alternatives, and digital sovereignty.
 
-## Connections
-- [[DanLoeb|Dan Loeb]], [[ThirdPoint|Third Point]], and [[PrivateWinnerHoldDiscipline]] - Loeb's post-IPO selling regret.
-- [[ForwardDeployedEngineer]] — role associated with Palantir's enterprise implementation model.
-- [[EnterpriseCustomDelivery]] and [[CustomerSuccessEngineer]] — delivery comparison and role boundary added by the 硬地骇客 FDE episode.
-- [[PeterThiel]], [[CarlSchmitt]], and [[ExceptionStateSurveillanceTechnology]] - ideological and crisis-politics branch added by Silicon Valley 101.
-- [[JoeLonsdale]] and [[StephenCohen]] - co-founder network nodes highlighted in the same source.
-- [[GarryTan]] and [[BuilderCenteredInstitutions]] — early employee and builder-value context added by The Social Radars.
-- [[AlexKarp]], [[Miami]], [[Florida]], [[TaxFoundation]], and [[SouthFloridaTechMigration]] - headquarters move and business-geography context added by Marketplace Tech.
-- [[OpenAI]] and [[Anthropic]] — frontier AI companies now discussed as adopting or emphasizing similar enterprise-deployment roles.
-- [[Claude]], [[USDepartmentOfDefense]], and [[DefenseAISupplyChainRisk]] - defense-AI supply-chain example added by Marketplace Tech.
-- [[GeckoRobotics]], [[Anduril]], and [[DefenseTechStartupProcurement]] - newer defense technology company context added by the March 2026 Marketplace Tech Bytes episode.
-- [[SuyashPasi]], [[TechGovernmentAccommodation]], [[DualUseDefenseTechnology]], and [[DonaldTrump]] - 2025 technology-politics realignment branch added by Marketplace Tech.
-- [[404Media|404 Media]], [[NickFountain]], [[USImmigrationAndCustomsEnforcement|ICE]], and [[ProcurementRecordsJournalism]] - public-records reporting branch added by Planet Money.
-- [[RollingAI]] — company using the FDE frame for AI agents and enterprise transformation.
-- [[Cresta]] and [[Jove]] — later AI-agent deployment case that traces its role model back to Palantir.
+## Qualifications
+
+The page does not settle whether Palantir's government work is net beneficial or harmful. Several claims remain source-scoped: the disputed ICE app description, the operational effect of the Miami move, the defense model-removal scenario, the reliability of British NHS productivity statistics, and the future of Palantir's British public-sector contracts.
+
+## What Changed
+
+- Migrated Palantir from append-only source paragraphs into the synthesis schema.
+- Added the British public-services branch, connecting Palantir to the NHS, police, procurement process, lock-in, and digital sovereignty.
+- Reframed Palantir as a practical public-service data tradeoff rather than only an FDE, defense-tech, surveillance-politics, or investment case.
+
+## Relationships
+
+- [[DanLoeb]] - investor whose exit regret frames Palantir as a hold-discipline case.
+- [[ThirdPoint]] - investment firm tied to the Palantir selling-regret branch.
+- [[PrivateWinnerHoldDiscipline]] - investment concept illustrated by Loeb's Palantir example.
+- [[ForwardDeployedEngineer]] - role lineage associated with Palantir's enterprise implementation model.
+- [[EnterpriseCustomDelivery]] - adjacent delivery model compared with Palantir-style deployment.
+- [[CustomerSuccessEngineer]] - related role boundary in enterprise implementation.
+- [[PeterThiel]] - co-founder and ideological branch tied to Palantir.
+- [[CarlSchmitt]] - political theorist used in the exception-state interpretation of Palantir.
+- [[ExceptionStateSurveillanceTechnology]] - concept interpreting crisis-driven state data tools.
+- [[JoeLonsdale]] - co-founder network node highlighted in the ideology source.
+- [[StephenCohen]] - co-founder network node highlighted in the ideology source.
+- [[GarryTan]] - early employee whose account grounds the builder-culture branch.
+- [[BuilderCenteredInstitutions]] - concept illustrated by Tan's early Palantir work.
+- [[AlexKarp]] - executive associated with the Miami move and Silicon Valley critique.
+- [[Miami]] - headquarters-move destination.
+- [[SouthFloridaTechMigration]] - business-geography concept tied to the move.
+- [[Anthropic]] - frontier AI company involved in the defense-supply-chain branch.
+- [[Claude]] - model family named in the defense replacement scenario.
+- [[DefenseAISupplyChainRisk]] - risk concept where Palantir appears as a contractor example.
+- [[GeckoRobotics]] - peer newer defense-technology company named with Palantir.
+- [[Anduril]] - peer newer defense-technology company named with Palantir.
+- [[DefenseTechStartupProcurement]] - procurement frame for newer defense suppliers.
+- [[TechGovernmentAccommodation]] - political realignment frame for technology firms and government.
+- [[DualUseDefenseTechnology]] - technology category where Palantir is politically salient.
+- [[USImmigrationAndCustomsEnforcement]] - agency context for the disputed app-reporting branch.
+- [[404Media]] - publication cited in the ICE public-records branch.
+- [[ProcurementRecordsJournalism]] - reporting method tied to the ICE app story.
+- [[NHS]] - British public-service customer in the new branch.
+- [[MetropolitanPolice]] - British police force whose potential Palantir deal was blocked.
+- [[GeorgiaBanjo]] - journalist presenting the Palantir-in-Britain branch.
+- [[PublicServiceDataPlatformTradeoff]] - concept describing useful data integration versus governance risk.
+- [[PublicSectorVendorDependence]] - lock-in and supplier-dependence concept sharpened by the British case.
+- [[DigitalSovereignty]] - sovereignty frame raised by reliance on American technology.
+- [[GovernmentEnterpriseProcurement]] - procurement context for Palantir's public-sector contracts.

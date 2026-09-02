@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2662
+topic_total_pages: 2665
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2908,6 +2908,12 @@ topic_concepts:
   - key: "PublicWebArchiving"
     title: "Public Web Archiving"
     url: "/wiki/concepts/publicwebarchiving/"
+  - key: "PublicSectorVendorDependence"
+    title: "Public-Sector Vendor Dependence"
+    url: "/wiki/concepts/publicsectorvendordependence/"
+  - key: "PublicServiceDataPlatformTradeoff"
+    title: "Public-Service Data Platform Trade-Off"
+    url: "/wiki/concepts/publicservicedataplatformtradeoff/"
   - key: "PunchedCardAdministration"
     title: "Punched Card Administration / 打孔卡行政"
     url: "/wiki/concepts/punchedcardadministration/"
@@ -7617,6 +7623,9 @@ topic_sources:
   - key: "tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio"
     title: "Paul Graham on Y Combinator's Growth, Myths, and the AI Era"
     url: "/wiki/sources/tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio/"
+  - key: "right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f"
+    title: "Right in front: AfD could win German state"
+    url: "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
   - key: "tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128"
     title: "Ring Moves to Make Its Video Footage More Private"
     url: "/wiki/sources/tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Right in front: AfD could win German state](sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f.md) — The Intelligence episode on AfD's possible Saxony-Anhalt majority, Palantir's British public-service data tradeoffs, and Chinese premium chocolate localization.
 - [Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28](sources/hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6.md) — What's Next｜科技早知道 episode on Demis Hassabis's reported Google DeepMind role shift, Jeff Dean's reported Discovery Loop move, Gemini/coding-agent pressure, AI-for-science talent, and DeepMind-Google organizational friction.
 - [《资治通鉴·汉纪》672丨身处职场，会“装”才是高级智慧](sources/zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby.md) — Gengshi 2 / post-Handan backfill on Li Li opening Handan, Wang Lang's death, Liu Xiu publicly burning the Wang Lang correspondence archive, Feng Yi's Big Tree General humility, Zhu Hu's suppressed accession talk, and Liu Xuan's demobilization-recall order that sets up Hanji 673.
 - [《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地](sources/zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd.md) — Gengshi 2 / Hebei backfill on Geng Yan urging Liu Xiu to reject Liu Xuan's recall, Wu Han and Geng Yan forcing Youzhou cavalry mobilization, Liu Xiu defeating and absorbing Tongma troops through personal-risk trust, and Xie Gong's pre-Yecheng lull.
@@ -1888,6 +1889,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Ulrich Siegmund](entities/UlrichSiegmund.md) — AfD lead candidate in Saxony-Anhalt and the episode's concrete figure for a possible far-right state-government test.
+- [Saxony-Anhalt](entities/SaxonyAnhalt.md) — German state where AfD's possible majority turns far-right normalization into a state-governance question.
+- [Metropolitan Police](entities/MetropolitanPolice.md) — British police force used in the Palantir segment to contrast productivity claims with procurement-process concerns.
+- [Sadiq Khan](entities/SadiqKhan.md) — London mayor cited for blocking a Metropolitan Police Palantir deal because there was no open competition.
+- [Choc Revive](entities/ChocRevive.md) — Chinese premium chocolate retailer using local flavors, domestic processing, and rapid outlets to build a low-consumption category.
+- [Nibbo](entities/Nibbo.md) — Chinese chocolate company cited as an award-winning domestic challenger in the premium-localization branch.
+- [Saturn Bird](entities/SaturnBird.md) — Chinese chocolate company experimenting with cacao planting in southern China.
+- [Ferrero](entities/Ferrero.md) — Foreign chocolate incumbent named in the Chinese chocolate market baseline.
 - [铜马军 / Tongma Rebel Army (Eastern Han)](entities/TongmaRebelArmyEasternHan.md) — Hebei rebel force whose surrender to Liu Xiu becomes a personal-risk trust incorporation case.
 - [谢躬 / Xie Gong (Eastern Han)](entities/XieGongEasternHan.md) — Gengshi-side Yecheng commander removed when Liu Xiu delegates Wu Han and Cen Peng to seize the city and absorb the remaining force.
 - [刘永 / Liu Yong (Eastern Han)](entities/LiuYongEasternHan.md) — Liu-clan eastern rival whose Liang base, subordinate appointments, and title offers make him a legitimacy-sensitive claimant in Guangwu consolidation.
@@ -10711,6 +10720,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Brandmauer Cordon Sanitaire](concepts/BrandmauerCordonSanitaire.md) — German coalition-firewall norm meant to keep AfD out of government.
+- [Far-Right State Governance Test](concepts/FarRightStateGovernanceTest.md) — Shift from far-right outsider pressure to the practical test of executive authority, budgets, institutions, and social response.
+- [Remigration Politics](concepts/RemigrationPolitics.md) — Removal-oriented immigration politics used by AfD in the Saxony-Anhalt branch.
+- [Public-Service Data Platform Trade-Off](concepts/PublicServiceDataPlatformTradeoff.md) — Tradeoff between joining fragmented public-service data and creating governance, privacy, and legitimacy risks.
+- [Public-Sector Vendor Dependence](concepts/PublicSectorVendorDependence.md) — Risk that public agencies become reliant on hard-to-replace technology suppliers.
+- [Chinese Premium Chocolate Localization](concepts/ChinesePremiumChocolateLocalization.md) — Strategy of building Chinese chocolate demand through local flavors, supply chains, premium retail, and category education.
 - [Personal Risk Trust Signal / 亲身涉险式信任信号](concepts/PersonalRiskTrustSignal.md) — Surrender-and-leadership pattern where a ruler makes promised safety credible by visibly accepting personal danger.
 - [Capacity-Backed Diplomatic Hierarchy / 实力支撑的外交名分](concepts/CapacityBackedDiplomaticHierarchy.md) — Frontier-diplomacy pattern where old status formulas, seals, and kinship arrangements fail when regime capacity cannot make counterparties accept the hierarchy.
 - [Investment Pitch Position Sizing](concepts/InvestmentPitchPositionSizing.md) — Pitch-evaluation discipline that separates idea attractiveness from capital capacity, downside, liquidity, and market impact.

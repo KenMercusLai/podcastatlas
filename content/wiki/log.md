@@ -14796,6 +14796,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-02] ingest | Right in front: AfD could win German state
+
+Ingested the 2026-09-02 The Intelligence episode on AfD's possible Saxony-Anhalt majority, Palantir's British public-service data tradeoffs, and Chinese premium chocolate localization. Added source `right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f`; created `UlrichSiegmund`, `SaxonyAnhalt`, `MetropolitanPolice`, `SadiqKhan`, `ChocRevive`, `Nibbo`, `SaturnBird`, `Ferrero`, `BrandmauerCordonSanitaire`, `FarRightStateGovernanceTest`, `RemigrationPolitics`, `PublicServiceDataPlatformTradeoff`, `PublicSectorVendorDependence`, and `ChinesePremiumChocolateLocalization`; updated `AlternativeForGermany`, `Germany`, `Palantir`, `NHS`, `GeorgiaBanjo`, `FarRightNormalization`, `PublicServiceDigitalization`, `GovernmentEnterpriseProcurement`, `DigitalSovereignty`, `CultureLedFoodAdoption`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the Saxony-Anhalt election outcome, fiscal estimates, Palantir productivity statistics, NHS extra-operations figure, and Chinese chocolate expansion targets remain source-scoped.
+
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地
 
 Ingested the 2026-06-11 芮淇讲透资治通鉴 episode backfilling the post-Wang-Lang Hebei turning point around Geng Yan's advice that Liu Xiu refuse Liu Xuan's recall, Wu Han and Geng Yan's coercive Youzhou mobilization, Liu Xiu's defeat and personal-risk incorporation of Tongma surrendered troops, and Xie Gong's pre-Yecheng lull. Added source `zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd`; created `TongmaRebelArmyEasternHan` and `PersonalRiskTrustSignal`; updated `LiuXiu`, `GengYanEasternHan`, `WuHanEasternHan`, `LiuXuanGengshiEmperor`, `XieGongEasternHan`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Miao Zeng, Wei Shun, Cai Chong, Gaohu, Chonglian, several Hebei force names, the Henei taishou Han Xin identity, Xie Gong's wife, and exact force totals remain source-scoped.
@@ -15071,6 +15075,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] ingest | Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28
 
 Ingested the 2026-09-02 What's Next｜科技早知道 episode with Zhou Jiangong on Google DeepMind's reported leadership reshuffle, Demis Hassabis's reported move away from daily operations, Jeff Dean's reported Discovery Loop departure, Gemini/coding-agent pressure, DeepMind-Google organizational friction, and China/open-model competition. Added source `hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6`; created `GoogleDeepMindOrganizationalFriction`; updated `GoogleDeepMind`, `DemisHassabis`, `JeffDean`, `DiscoveryLoop`, `DavidSilver`, `JohnJumper`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source-named "Norm Salzer" identity, Hassabis motive, Discovery Loop domain, Gemini timing, stock reaction, and personnel causality remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6259
+wiki_total_pages: 6265
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1550,6 +1550,12 @@ wiki_pages:
   - key: "PublicSafetyFirstUrbanGovernance"
     title: "Public-Safety-First Urban Governance"
     url: "/wiki/concepts/publicsafetyfirsturbangovernance/"
+  - key: "PublicSectorVendorDependence"
+    title: "Public-Sector Vendor Dependence"
+    url: "/wiki/concepts/publicsectorvendordependence/"
+  - key: "PublicServiceDataPlatformTradeoff"
+    title: "Public-Service Data Platform Trade-Off"
+    url: "/wiki/concepts/publicservicedataplatformtradeoff/"
   - key: "PublicationBias"
     title: "Publication Bias"
     url: "/wiki/concepts/publicationbias/"

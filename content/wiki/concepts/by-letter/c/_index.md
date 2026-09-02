@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6259
+wiki_total_pages: 6265
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "ChinesePodcastEcosystem"
     title: "Chinese Podcast Ecosystem / 中文播客生态"
     url: "/wiki/concepts/chinesepodcastecosystem/"
+  - key: "ChinesePremiumChocolateLocalization"
+    title: "Chinese Premium Chocolate Localization"
+    url: "/wiki/concepts/chinesepremiumchocolatelocalization/"
   - key: "ChinesePrivateAirlineOpening"
     title: "Chinese Private Airline Opening"
     url: "/wiki/concepts/chineseprivateairlineopening/"

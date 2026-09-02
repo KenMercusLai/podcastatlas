@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6259
+wiki_total_pages: 6265
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "FarRightNormalization"
     title: "Far-Right Normalization"
     url: "/wiki/concepts/farrightnormalization/"
+  - key: "FarRightStateGovernanceTest"
+    title: "Far-Right State Governance Test"
+    url: "/wiki/concepts/farrightstategovernancetest/"
   - key: "FarmSafetyInspectionCapacity"
     title: "Farm Safety Inspection Capacity"
     url: "/wiki/concepts/farmsafetyinspectioncapacity/"

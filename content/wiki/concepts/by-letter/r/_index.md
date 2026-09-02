@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6259
+wiki_total_pages: 6265
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "RemedialEducationTargeting"
     title: "Remedial Education Targeting"
     url: "/wiki/concepts/remedialeducationtargeting/"
+  - key: "RemigrationPolitics"
+    title: "Remigration Politics"
+    url: "/wiki/concepts/remigrationpolitics/"
   - key: "RemnantResistanceBase"
     title: "Remnant Resistance Base / 残余政权根据地"
     url: "/wiki/concepts/remnantresistancebase/"

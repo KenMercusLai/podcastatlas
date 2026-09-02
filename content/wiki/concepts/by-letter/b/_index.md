@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6259
+wiki_total_pages: 6265
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -497,6 +497,9 @@ wiki_pages:
   - key: "BrandedProduceDifferentiation"
     title: "Branded Produce Differentiation"
     url: "/wiki/concepts/brandedproducedifferentiation/"
+  - key: "BrandmauerCordonSanitaire"
+    title: "Brandmauer Cordon Sanitaire"
+    url: "/wiki/concepts/brandmauercordonsanitaire/"
   - key: "Brexit"
     title: "Brexit"
     url: "/wiki/concepts/brexit/"

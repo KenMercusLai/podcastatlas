@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8819
+wiki_total_pages: 8827
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -641,6 +641,9 @@ wiki_pages:
   - key: "Chobani"
     title: "Chobani"
     url: "/wiki/entities/chobani/"
+  - key: "ChocRevive"
+    title: "Choc Revive"
+    url: "/wiki/entities/chocrevive/"
   - key: "ChrisBest"
     title: "Chris Best"
     url: "/wiki/entities/chrisbest/"

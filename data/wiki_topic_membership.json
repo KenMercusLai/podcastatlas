@@ -10886,6 +10886,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "BrandmauerCordonSanitaire": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BrandonKatz": [
     {
       "key": "culture",
@@ -22280,6 +22287,13 @@
     }
   ],
   "FarRightNormalization": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "FarRightStateGovernanceTest": [
     {
       "key": "politics",
       "label": "Politics",
@@ -48486,6 +48500,25 @@
       "url": "/topics/politics/"
     }
   ],
+  "PublicSectorVendorDependence": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "PublicServiceDataPlatformTradeoff": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PublicServiceDigitalization": [
     {
       "key": "technology",
@@ -52523,6 +52556,13 @@
     }
   ],
   "SavilleInquiry": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "SaxonyAnhalt": [
     {
       "key": "politics",
       "label": "Politics",
@@ -62091,6 +62131,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "UlrichSiegmund": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "UmbertoEco": [
@@ -71687,6 +71734,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638": [
