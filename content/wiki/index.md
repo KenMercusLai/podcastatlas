@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [在非洲卖快餐，为什么肯德基比麦当劳更吃得开？](sources/zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062.md) — 声动早咖啡 episode on why KFC scales farther than McDonald's in sub-Saharan Africa through chicken demand, poultry supply chains, South Africa timing, and regional expansion constraints.
 - [180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速](sources/jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1.md) — LateTalk episode on embodied-intelligence financing, hard-to-observe progress, local data-center revenue, supplier-customer loops, and IPO pressure in Chinese humanoid robotics.
 - [《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道](sources/zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv.md) — Jianwu 2 Guangwu episode on Deng Yu's Chang'an mission divergence and camp mutiny, Liu Xiu's Huang Fang personnel prediction, Chimei palace disorder around Liu Penzi, Yin Lihua's Luoyang recognition, and Wang Hong's mandate-backed confrontation with Zhang Bu.
 - [《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地](sources/zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh.md) — Jianwu 2 Guangwu episode on Liu Penzi's failed abdication under Chimei commanders, Yao Qi and Wu Han's Tanxiang pacification, and Liu Xiu's merit-reward allocation through Yin Shi's restraint and Feng Qin's fairness work.
@@ -1873,6 +1874,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [KFC](entities/KFC.md) — Chicken-centered fast-food chain whose sub-Saharan African footprint illustrates protein and supply-chain market fit.
+- [Sub-Saharan Africa](entities/SubSaharanAfrica.md) — Regional fast-food comparison frame for KFC's broad footprint and McDonald's narrower presence.
+- [Nando's](entities/Nandos.md) — South African chicken chain used as supporting evidence for chicken-led fast-food demand.
 - [German National Anthem / Das Lied der Deutschen](entities/GermanNationalAnthem.md) — German anthem case where Haydn's tune and Hoffmann's song survive through a postwar third-verse convention.
 - [Josef Haydn](entities/JosefHaydn.md) — Austrian composer whose 1797 imperial tune became the German anthem melody.
 - [August Heinrich Hoffmann von Fallersleben](entities/AugustHeinrichHoffmannVonFallersleben.md) — Liberal nationalist lyricist of Das Lied der Deutschen.
@@ -10671,6 +10675,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Protein Supply Chain Market Fit / 蛋白质供应链市场匹配](concepts/ProteinSupplyChainMarketFit.md) — Alignment among protein preference, ingredient cost, supplier standards, processing capacity, and fast-food brand identity.
 - [Selective Anthem Canonization](concepts/SelectiveAnthemCanonization.md) — Settlement where a state retains an anthem tradition but makes only part of it publicly authoritative.
 - [归降信任崩塌 / Surrender Trust Breakdown](concepts/SurrenderTrustBreakdown.md) — Submission failure pattern where intermediary defection, property theft, suspicious messaging, and uncertainty turn planned surrender into renewed rebellion.
 - [归咎安抚式平叛 / Local Fault Attribution Pacification](concepts/LocalFaultAttributionPacification.md) — Pacification pattern where a revolt is settled by punishing the abusive local trigger and reassuring the community instead of assaulting it.
@@ -16066,7 +16071,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robot Delivery Economics](concepts/RobotDeliveryEconomics.md) — Last-mile robot-delivery cost structure shaped by hardware, supervision, maintenance, routing, and human courier substitution.
 - [Streaming Author Brand](concepts/StreamingAuthorBrand.md) — Media pattern where an author's name becomes a platform-facing genre promise across streaming adaptations.
 - [Conveyor Belt Sushi](concepts/ConveyorBeltSushi.md) — Restaurant format where belt or screen-order delivery, freshness trust, menu cadence, local taste, and operating systems define the value.
-- [Restaurant Supply Chain Localization](concepts/RestaurantSupplyChainLocalization.md) — Chain-restaurant process of adapting sourcing, logistics, suppliers, food handling, and upstream feed exposure to a local market while preserving consistency.
+- [Restaurant Supply Chain Localization](concepts/RestaurantSupplyChainLocalization.md) — Chain-restaurant process of adapting sourcing, logistics, suppliers, food handling, protein fit, and upstream inputs while preserving consistency.
 - [Chain Restaurant Standardization](concepts/ChainRestaurantStandardization.md) — Operating discipline for reproducing a restaurant format through measurement, hygiene, training, waste handling, and localized labor design.
 - [Tactile Sensing](concepts/TactileSensing.md) — Robot ability to perceive force, contact, texture, friction, slip, softness, and hardness for embodied manipulation.
 - [Optical Tactile Sensing](concepts/OpticalTactileSensing.md) — Visual-tactile route that infers touch from contact-driven skin deformation and light changes.

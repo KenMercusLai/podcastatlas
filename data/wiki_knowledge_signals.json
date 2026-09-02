@@ -27509,6 +27509,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/jumikingdomlatehan/"
     },
+    "KFC": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？ [1010601062].md",
+          "key": "zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062",
+          "show": "声动早咖啡",
+          "title": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？",
+          "url": "/wiki/sources/zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/kfc/"
+    },
     "Kailas": {
       "episode_count": 1,
       "show_count": 1,
@@ -34362,6 +34378,50 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/mayoclinic/"
     },
+    "McDonalds": {
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线 [1004810677].md",
+          "key": "fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677",
+          "show": "声动早咖啡",
+          "title": "服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线",
+          "url": "/wiki/sources/fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677/"
+        },
+        {
+          "episode_file": "155.美貌能当饭吃吗？想赚钱该做点啥？拮据时应避免什么行为？经济学思维有什么用？ [920167210].md",
+          "key": "155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210",
+          "show": "蜜獾吃书",
+          "title": "155.美貌能当饭吃吗?想赚钱该做点啥?拮据时应避免什么行为?经济学思维有什么用？",
+          "url": "/wiki/sources/155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210/"
+        },
+        {
+          "episode_file": "Caracas under pressure： democracy in Venezuela [6a7d8bbe7d85cbdf96e00822].md",
+          "key": "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822",
+          "show": "Economist Podcasts",
+          "title": "Caracas under pressure: democracy in Venezuela",
+          "url": "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+        },
+        {
+          "episode_file": "145. 改嫁中资的餐饮洋品牌 ｜ 疯投圈 (1) [145-1].md",
+          "key": "145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1",
+          "show": "疯投圈",
+          "title": "145. 改嫁中资的餐饮洋品牌",
+          "url": "/wiki/sources/145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1/"
+        },
+        {
+          "episode_file": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？ [1010601062].md",
+          "key": "zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062",
+          "show": "声动早咖啡",
+          "title": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？",
+          "url": "/wiki/sources/zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/mcdonalds/"
+    },
     "McMurdoStation": {
       "episode_count": 1,
       "show_count": 1,
@@ -36183,6 +36243,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/nanjihe/"
+    },
+    "Nandos": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？ [1010601062].md",
+          "key": "zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062",
+          "show": "声动早咖啡",
+          "title": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？",
+          "url": "/wiki/sources/zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/nandos/"
     },
     "NatalieStokel": {
       "episode_count": 1,
@@ -40784,6 +40860,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/proteinbodycompositionlever/"
     },
+    "ProteinSupplyChainMarketFit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？ [1010601062].md",
+          "key": "zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062",
+          "show": "声动早咖啡",
+          "title": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？",
+          "url": "/wiki/sources/zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/proteinsupplychainmarketfit/"
+    },
     "ProvisionalIRA": {
       "episode_count": 2,
       "show_count": 1,
@@ -42781,6 +42873,64 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/restaurantdeliveryextension/"
+    },
+    "RestaurantSupplyChainLocalization": {
+      "episode_count": 7,
+      "show_count": 3,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？ [1004978054].md",
+          "key": "kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？",
+          "url": "/wiki/sources/kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054/"
+        },
+        {
+          "episode_file": "「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战 [1004403588].md",
+          "key": "zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588",
+          "show": "声动早咖啡",
+          "title": "「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战",
+          "url": "/wiki/sources/zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588/"
+        },
+        {
+          "episode_file": "Vol.270 大食代留在了它的时代 [1006063835].md",
+          "key": "vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835",
+          "show": "商业就是这样",
+          "title": "Vol.270 大食代留在了它的时代",
+          "url": "/wiki/sources/vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835/"
+        },
+        {
+          "episode_file": "EP260 一口肥美脂肪，藏着中国养殖的新故事 [liNJQ2fKZHqvzJcGrmHuDq12vs4j].md",
+          "key": "ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j",
+          "show": "Talk三联",
+          "title": "EP260 一口肥美脂肪，藏着中国养殖的新故事",
+          "url": "/wiki/sources/ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j/"
+        },
+        {
+          "episode_file": "Vol.263 郎的诱惑 [998128018].md",
+          "key": "vol-263-lang-de-youhuo-998128018",
+          "show": "商业就是这样",
+          "title": "Vol.263 郎的诱惑",
+          "url": "/wiki/sources/vol-263-lang-de-youhuo-998128018/"
+        },
+        {
+          "episode_file": "商业小样45 ｜ 厄尔尼诺越大，鱼越贵 [1000164352].md",
+          "key": "shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352",
+          "show": "商业就是这样",
+          "title": "商业小样45 | 厄尔尼诺越大，鱼越贵",
+          "url": "/wiki/sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352/"
+        },
+        {
+          "episode_file": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？ [1010601062].md",
+          "key": "zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062",
+          "show": "声动早咖啡",
+          "title": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？",
+          "url": "/wiki/sources/zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/restaurantsupplychainlocalization/"
     },
     "RetaliatoryPoliticalTerror": {
       "episode_count": 6,
@@ -45960,9 +46110,9 @@
       "url": "/wiki/entities/songyoueasternhan/"
     },
     "SouthAfrica": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6535658080 [GLT6535658080].md",
@@ -45970,9 +46120,16 @@
           "show": "The Rest Is History",
           "title": "682. South Africa: Mandela and the Death of Apartheid (Part 6)",
           "url": "/wiki/sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080/"
+        },
+        {
+          "episode_file": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？ [1010601062].md",
+          "key": "zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062",
+          "show": "声动早咖啡",
+          "title": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？",
+          "url": "/wiki/sources/zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/southafrica/"
     },
     "SouthernOcean": {
@@ -47069,6 +47226,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/suzhanglatehan/"
+    },
+    "SubSaharanAfrica": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？ [1010601062].md",
+          "key": "zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062",
+          "show": "声动早咖啡",
+          "title": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？",
+          "url": "/wiki/sources/zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/subsaharanafrica/"
     },
     "SubagentWorkflow": {
       "episode_count": 6,

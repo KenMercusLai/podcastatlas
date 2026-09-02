@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-02
-as_of_overview_commit: 16709938eda03d629cb82b519ff5da44145bb6a1
-input_digest: 73d9a92bb9f4220f8035b2a0392ad615d8103f96babaef7731d0301500a2c206
+as_of_overview_commit: 7374ace8484de6c0d67cdab39d1fac15039a49e5
+input_digest: 01063c957d83f977dd8a201c4c229f9044c48625914362e86f62f86227826d73
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 697, 699 PLUS, 702, 705-1, 713, 736, 744-745, 753, 798, 892, 901, 902, and late-Han/Liu Bei/Cao Cao/Yuan-family cases keep the historical side of this topic focused on self-command, status reading, loyalty, speech restraint, emotion concealment, and judgment under authority rather than clinical advice. The modern branch covers relationship science, workplace abuse boundaries, functional emotion regulation, meditation and no-self practice, music therapy, creativity, state-dependent self-control, discipline and action after adversity, movement as awareness, AI/workplace trust, sports confidence, companion-animal owner state, and Everest-style fear/team-trust judgment. Andy Stumpf adds an agency-and-vulnerability branch in which concern-influence sorting, slightly harder daily choices, Drownproof, pain disclosure, high-risk survival humility, and defining enough connect discipline to mental-health boundaries rather than simple toughness.
+Hanji 697, 699 PLUS, 702, 705-1, 713, 736, 744-745, 753, 798, 892, 901, 902, and late-Han/Liu Bei/Cao Cao/Yuan-family cases keep the historical side of this topic focused on self-command, status reading, loyalty, speech restraint, emotion concealment, and judgment under authority rather than clinical advice. The modern branch covers relationship science, workplace abuse boundaries, functional emotion regulation, meditation and no-self practice, music therapy, creativity, state-dependent self-control, discipline and action after adversity, movement as awareness, AI/workplace trust, sports confidence, companion-animal owner state, Everest-style fear/team-trust judgment, and a secondary KFC/McDonalds consumer-preference case. The KFC/McDonalds Africa paragraph remains secondary here because brand perception and meal preference matter, but the main synthesis belongs to business-market supply localization.
 
 ## Cross-source Findings
 
@@ -603,3 +603,15 @@ The Eastwick Huberman Lab paragraph adds a relationship-science claim: [[Idiosyn
 - The Stumpf episode is public conversation about discipline, risk, and mental-health vulnerability rather than clinical advice or a universal resilience protocol.
 - Substance, social-media, cold-exposure, anterior mid-cingulate, suicide, pain-disclosure, and parenting claims remain source-scoped and should not be converted into medical or mental-health instruction.
 - Military, divorce, wingsuiting, base-jumping, and entrepreneurial-success examples are high-context cases, not proof that hardship or extreme risk is required for agency.
+
+### Protein Brand Fit Is Secondary Consumer Judgment Case
+
+The KFC and McDonalds Africa paragraph enters psychology-and-personal-development only secondarily: [[ProteinSupplyChainMarketFit]] involves consumer preference and brand perception around [[KFC]] and [[McDonalds]], but its main weight is a business claim about [[RestaurantSupplyChainLocalization]] in [[SubSaharanAfrica]] and [[SouthAfrica]].
+
+**Evidence:** [[zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062]], [[ProteinSupplyChainMarketFit]], [[KFC]], [[McDonalds]], [[RestaurantSupplyChainLocalization]], [[SubSaharanAfrica]], [[SouthAfrica]]
+
+**Qualifications:**
+
+- The paragraph belongs primarily to business-and-markets; the psychology assignment is limited to preference, brand perception, and consumer judgment.
+- The evidence is source-scoped to one podcast paragraph and is not a general psychology theory of food choice.
+- Store counts, supplier structure, and expansion plans are business evidence rather than psychological evidence.

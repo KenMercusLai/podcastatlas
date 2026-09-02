@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8794
+wiki_total_pages: 8797
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1223,6 +1223,9 @@ wiki_pages:
   - key: "SuLinWong"
     title: "Su-Lin Wong"
     url: "/wiki/entities/sulinwong/"
+  - key: "SubSaharanAfrica"
+    title: "Sub-Saharan Africa"
+    url: "/wiki/entities/subsaharanafrica/"
   - key: "SubCom"
     title: "SubCom"
     url: "/wiki/entities/subcom/"

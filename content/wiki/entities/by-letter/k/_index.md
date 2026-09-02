@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 8794
+wiki_total_pages: 8797
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -254,6 +254,9 @@ wiki_pages:
   - key: "Keytruda"
     title: "Keytruda / K药"
     url: "/wiki/entities/keytruda/"
+  - key: "KFC"
+    title: "KFC"
+    url: "/wiki/entities/kfc/"
   - key: "KGB"
     title: "KGB / 克格勃"
     url: "/wiki/entities/kgb/"

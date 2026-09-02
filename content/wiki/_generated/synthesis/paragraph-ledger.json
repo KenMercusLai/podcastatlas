@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "cb2248895f6a13f4a480d0865020335c0f30ea6801397617236d26a54ea9cace",
       "7827ee72c32e6ef25350ad736e02a2a9b486267138e0d9733e632f0f1831754b",
       "9eb70e1ea6fe89aabc151042f3e3e37b6a215f75972df7e4d8be87226172b7b2",
       "207e8587f5106b7c29559ce9186b2fc9fbb301708fb4ff1fb2a3313e6e7a8b94",
@@ -506,11 +507,39 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 504
+    "paragraph_count": 505
   },
-  "overview_commit": "4ae23a227b1f11cb20ed03855477dadc1379524f",
-  "overview_digest": "a2cfd433c5f0e980fc7ff1a077ff202ec4096b5f91472a454b7ac862b3dccab3",
+  "overview_commit": "7374ace8484de6c0d67cdab39d1fac15039a49e5",
+  "overview_digest": "23ab13b9bf47b9aa7de3bc823e93e800b163edc656b81c6d61189fd5f9058316",
   "paragraphs": [
+    {
+      "id": "cb2248895f6a13f4a480d0865020335c0f30ea6801397617236d26a54ea9cace",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062|在非洲卖快餐，为什么肯德基比麦当劳更吃得开？]], a [[ShengdongZaokafei|声动早咖啡]] episode with short updates on [[SHEIN]], [[Huawei]], [[Meituan]], [[Brazil]], and [[Apple]], followed by a fast-food explainer on why [[KFC]] has a much larger [[SubSaharanAfrica|sub-Saharan Africa]] footprint than [[McDonalds|McDonald's]]. It adds [[KFC]], [[SubSaharanAfrica]], [[Nandos|Nando's]], and [[ProteinSupplyChainMarketFit]], while extending [[McDonalds]], [[SouthAfrica]], and [[RestaurantSupplyChainLocalization]]. Its core synthesis is that fast-food localization can turn on protein-market fit: chicken works as a favored, lower-cost meal protein and can be scaled through poultry producers and vertical integration, while McDonald's beef-burger identity depends on stricter cut, processing, and cattle-market standards. No direct contradiction is recorded; store counts, executive-succession claims, IPO and earnings figures, complaints, and expansion plans remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "Apple",
+        "Brazil",
+        "Huawei",
+        "KFC",
+        "McDonalds",
+        "Meituan",
+        "Nandos",
+        "ProteinSupplyChainMarketFit",
+        "RestaurantSupplyChainLocalization",
+        "SHEIN",
+        "ShengdongZaokafei",
+        "SouthAfrica",
+        "SubSaharanAfrica",
+        "zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062"
+      ]
+    },
     {
       "id": "7827ee72c32e6ef25350ad736e02a2a9b486267138e0d9733e632f0f1831754b",
       "primary_topic": "business-and-markets",
