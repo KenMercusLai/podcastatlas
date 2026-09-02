@@ -15059,3 +15059,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] ingest | 《资治通鉴·汉纪》672丨身处职场，会“装”才是高级智慧
+
+Ingested the 2026-06-11 芮淇讲透资治通鉴 episode backfilling the immediate post-Handan / pre-Hanji-673 layer: Li Li opens Handan, Wang Lang flees and is killed, Liu Xiu publicly burns the Wang Lang correspondence archive to settle wavering insiders, Feng Yi appears as the self-effacing "Big Tree General", Zhu Hu's premature accession talk is suppressed, and Liu Xuan's envoy sends a title-demobilization-recall package. Added source `zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby`; updated `LiuXiu`, `WangLangHebeiClaimant`, `FengYiEasternHan`, `PostVictoryAmnestySignal`, and `index`. No settled contradiction found; transcript forms 冯毅 and 刘璇 are normalized to existing Feng Yi and Liu Xuan routes, while Li Li, Zhu Hu, Miao Zeng, Wei Shun, Cai Chong, Wu Sangui, and the Three Feudatories analogy remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

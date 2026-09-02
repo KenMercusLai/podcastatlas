@@ -18268,9 +18268,9 @@
       "url": "/wiki/entities/fengyaneasternhan/"
     },
     "FengYiEasternHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？ [lqCkX-aClcHKZQqe3pTtnklu9Vot].md",
@@ -18334,6 +18334,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
           "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》672丨身处职场，会“装”才是高级智慧 [ls35J8plJ-cQnbLGUFC4plbzPnbY].md",
+          "key": "zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》672丨身处职场，会“装”才是高级智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby/"
         }
       ],
       "updated": "2026-09-02",
@@ -31934,9 +31941,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 32,
+      "episode_count": 33,
       "show_count": 2,
-      "source_note_count": 32,
+      "source_note_count": 33,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -32161,6 +32168,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》673丨帝王权谋施恩术 ！让下属对你死心塌地",
           "url": "/wiki/sources/zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》672丨身处职场，会“装”才是高级智慧 [ls35J8plJ-cQnbLGUFC4plbzPnbY].md",
+          "key": "zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》672丨身处职场，会“装”才是高级智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby/"
         }
       ],
       "updated": "2026-09-02",
@@ -40906,9 +40920,9 @@
       "url": "/wiki/concepts/postsuccessarrogance/"
     },
     "PostVictoryAmnestySignal": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧 [lsQG-qaxOzJPaXYUKrvXBtF-MCse].md",
@@ -40916,9 +40930,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》672丨身处职场，会“装”才是高级智慧 [ls35J8plJ-cQnbLGUFC4plbzPnbY].md",
+          "key": "zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》672丨身处职场，会“装”才是高级智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/postvictoryamnestysignal/"
     },
     "PostVictoryThreatSequencing": {
@@ -53327,9 +53348,9 @@
       "url": "/wiki/entities/wangkanglatehan/"
     },
     "WangLangHebeiClaimant": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -53344,9 +53365,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家",
           "url": "/wiki/sources/zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》672丨身处职场，会“装”才是高级智慧 [ls35J8plJ-cQnbLGUFC4plbzPnbY].md",
+          "key": "zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》672丨身处职场，会“装”才是高级智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/wanglanghebeiclaimant/"
     },
     "WangLiangEasternHan": {
