@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "bd3a57574d3a1034587cd3edf2334598c319c12d2fc76e75bc977d55a3868bd2",
       "5971c94722f613e3c9321da1e76173682c5437619cbda835c3252cf86210ab18",
       "46ec1a2537e63930c3c0010d7f9860f384666a3c1e841d715255cf312ea28808",
       "168daccffb284a5b9633e213615b38963505f1df3b3022ddd2bc3f69074bfef8",
@@ -511,11 +512,40 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 509
+    "paragraph_count": 510
   },
-  "overview_commit": "4209aa95c83197ed9f12384f4afd9329d65523ae",
-  "overview_digest": "0cc682ec3e44f1b356ae7168a6510c9479564523549232fc00a7d9946a1ed8d5",
+  "overview_commit": "0070dee2cb11d008513ea920654cf569e5000853",
+  "overview_digest": "4f956817f84e4387866eddcab7e26af588a47aea1963dbee0cb8000d23afa5b8",
   "paragraphs": [
+    {
+      "id": "bd3a57574d3a1034587cd3edf2334598c319c12d2fc76e75bc977d55a3868bd2",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 1 / 25 CE immediately before [[zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv|Hanji 677]] and before [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]]. It adds [[LiYiGengshiGeneral|李轶]], [[QiangHuaEasternHan|强华]], and [[AccessionTimingCoalitionSignal|称帝时机与拥戴信号]], while extending [[FengYiEasternHan|冯异]], [[KouXunEasternHan|寇恂]], [[JiaFuEasternHan|贾复]], [[GengChunEasternHan|耿纯]], [[ZhuWeiEasternHan|朱鲔]], [[SuMaoEasternHan|苏茂]], [[BorrowedKnifeKilling|借刀杀人]], and [[PrivateLetterPoliticalWeaponization|私人书信政治武器化]]. Its core synthesis is that Liu Xiu's accession field is built through information control and coalition timing: Li Yi's letters become a public weapon that lets Zhu Wei's suspicion damage Luoyang from inside, while Wen/Pingyin victory, Jia Fu's wound, Geng Chun's follower-cohesion warning, Feng Yi's Gengshi-failure diagnosis, and Qiang Hua's 赤伏符 make imperial-title acceptance less destabilizing than further delay. No settled contradiction is recorded; the source normalizes several ASR names and keeps Wu Bo, Jia Qiang, exact river/county forms, and Youlai/Wuxiao pursuit details source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AccessionTimingCoalitionSignal",
+        "BorrowedKnifeKilling",
+        "FengYiEasternHan",
+        "GengChunEasternHan",
+        "JiaFuEasternHan",
+        "KouXunEasternHan",
+        "LiYiGengshiGeneral",
+        "PrivateLetterPoliticalWeaponization",
+        "QiangHuaEasternHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuMaoEasternHan",
+        "ZhuWeiEasternHan",
+        "zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii",
+        "zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv",
+        "zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb"
+      ]
+    },
     {
       "id": "5971c94722f613e3c9321da1e76173682c5437619cbda835c3252cf86210ab18",
       "primary_topic": "business-and-markets",

@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-02
-as_of_overview_commit: ca33b1df113bee82e00094c42347e0b4e7163b9f
-input_digest: 9280f4e615024d0f426e4183b2bb15271720f20e5f144ed2e5524a881a8b2714
+as_of_overview_commit: 0070dee2cb11d008513ea920654cf569e5000853
+input_digest: 9386583eadf81592fa67048bb0220ce9c0605de45fe188c1ff893e276686dd41
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 677 now adds the earliest current Guangwu/Jianwu 1 layer before the Chimei occupation branch: Deng Yu's Hedong recovery sends military pressure back toward Chang'an, Chimei pressure at Zheng/Huayin makes Liu Xuan's generals propose plunder and retreat, and Liu Xuan's failed counter-trap turns palace suspicion into assault while Wei Xiao exits toward Tianshui. Hanji 680-688 then continue the adjacent Chimei, Liu Xuan, Deng Yu, Feng Yi, and surrender-settlement sequence, while Hanji 689-1 and later episodes extend the Wei Xiao courtship, western alignment, and Guangwu cleanup arcs. Hanji 689-2 and Hanji 689-3 separately form a Western Han/Niya-Jingjue evidence layer through Han documents, Niya ruins, Kharosthi materials, the five-star brocade, omen politics, Western Regions diplomacy, and qualified multi-cause decline. Later Hanji branches track Eastern Han frontier, court, eunuch, outer-relative, and command failures across the Zhangdi, He, An, Shun, Huan, Ling, Dong Zhuo, Cao Cao, Yuan Shao, Jiangdong, and Guandu sequences. Outside Han materials, the Germany anthem, Mayerling, Jefferson, Washington, Mandela, Dutch Revolt, Mussolini World Cup, and other history episodes add historical-memory and geopolitics cases where symbols, legitimacy, infrastructure, and crisis leadership remain source-scoped.
+Hanji 676 now precedes the current Guangwu/Jianwu 1 history sequence: Feng Yi opens a Li Yi correspondence channel, Liu Xiu letter exposure turns Zhu Wei suspicion into Luoyang camp damage, Kou Xun and Feng Yi convert Wen/Pingyin defense into capital pressure, Jia Fu wound management shows founding-commander attachment, and Geng Chun, Feng Yi, and Qiang Hua turn military success into accession timing. Hanji 677 through Hanji 688 then continue the adjacent Gengshi, Chimei, Liu Xuan, Deng Yu, Feng Yi, and surrender-settlement sequence, while later Hanji branches track Eastern Han frontier, court, eunuch, outer-relative, and command failures across the Zhangdi, He, An, Shun, Huan, Ling, Dong Zhuo, Cao Cao, Yuan Shao, Jiangdong, and Guandu sequences. Outside Han materials, the Germany anthem, Mayerling, Jefferson, Washington, Mandela, Dutch Revolt, Mussolini World Cup, and other history episodes add historical-memory and geopolitics cases where symbols, legitimacy, infrastructure, and crisis leadership remain source-scoped.
 
 ## Cross-source Findings
+
+### Early Eastern Han 676 Letter Exposure And Accession Timing
+
+[[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] backfills the early Guangwu historical sequence before Hanji 677 and Hanji 679: [[FengYiEasternHan]] and [[LiYiGengshiGeneral]] open a correspondence channel, [[BorrowedKnifeKilling]] and [[PrivateLetterPoliticalWeaponization]] frame letter exposure through [[ZhuWeiEasternHan]] suspicion, [[KouXunEasternHan]] and [[SuMaoEasternHan]] make Wen/Pingyin a morale-pressure branch, [[JiaFuEasternHan]] adds wounded founding-commander attachment, and [[GengChunEasternHan]], [[QiangHuaEasternHan]], and [[AccessionTimingCoalitionSignal]] turn victory into accession timing.
+
+**Evidence:** [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii]], [[zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv]], [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb]], [[FengYiEasternHan]], [[LiYiGengshiGeneral]], [[BorrowedKnifeKilling]], [[PrivateLetterPoliticalWeaponization]], [[ZhuWeiEasternHan]], [[KouXunEasternHan]], [[SuMaoEasternHan]], [[JiaFuEasternHan]], [[GengChunEasternHan]], [[QiangHuaEasternHan]], [[AccessionTimingCoalitionSignal]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 676 as a Jianwu 1 backfill before Hanji 677 and Hanji 679.
+- The source normalizes multiple ASR-sensitive person and place forms; Li Yi is kept distinct from the later Western Regions Li Yi route.
+- The claim records the episode structure without settling all historical geography or every actors inner motive.
 
 ### Early Eastern Han 677 Gengshi Command Collapse Before Chimei Entry
 

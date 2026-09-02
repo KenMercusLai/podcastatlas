@@ -4,17 +4,29 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-02
-as_of_overview_commit: d68ce133f5d451dc57a3aac96f4a8ef28914069e
-input_digest: 2a443d726f846b45d07d772a7fd197b7ae0faf0450679eef12ad1b044a64bcbc
+as_of_overview_commit: 0070dee2cb11d008513ea920654cf569e5000853
+input_digest: 68b72c7106b4f860c400b1120247f814aaeccc8200a56b49b55032a3fbbf4815
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 681 adds a source-scoped Jianwu 1 governance baseline before the later Guangwu consolidation branches: legitimacy and geography become survival infrastructure through Wei Xiao's respectful scholar reception, Ma Yuan's hardship and wealth-distribution ethic, Dou Rong's Hexi five-commandery self-preservation bloc, and Xiongnu's use of Lu Fang's false genealogy as proxy claimant legitimacy. Hanji 685 still adds a Guangwu court-governance frame where Song Hong's correction of Huan Tan and refusal of Princess Huyang show remonstrance and restraint working inside court favor, while Peng Chong's reward grievance, Yuyang resources, Zhu Fu conflict, summons suspicion, and Geng Kuang's refusal show how local autonomy can become rebellion risk. The existing governance synthesis continues to center on legitimacy and institutional capacity: surrender credibility, frontier diplomacy, office quality, correction mechanisms, legal and biometric boundaries, health-product identity, disaster response, sport institutions, ritual institutions, and public symbols are treated as capacity problems rather than isolated policy events.
+Hanji 676 adds the earliest current Guangwu accession-governance layer before the already generated Jianwu 1 collapse sequence: letter exposure turns a wavering enemy channel into Luoyang camp suspicion, Wen/Pingyin victory and Jia Fu wound management connect battlefield success to command cohesion, and Geng Chun, Feng Yi, and Qiang Hua make accession timing a coalition and symbolic-warrant problem. The existing governance synthesis continues to center on legitimacy and institutional capacity: surrender credibility, frontier diplomacy, office quality, correction mechanisms, legal and biometric boundaries, health-product identity, disaster response, sport institutions, ritual institutions, and public symbols are treated as capacity problems rather than isolated policy events.
 
 ## Cross-source Findings
+
+### Early Eastern Han 676 Letter Exposure And Accession Governance
+
+[[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] moves the early Guangwu governance branch before Hanji 677 and Hanji 679: [[FengYiEasternHan]] and [[LiYiGengshiGeneral]] create a correspondence channel, [[BorrowedKnifeKilling]] and [[PrivateLetterPoliticalWeaponization]] frame letter exposure through [[ZhuWeiEasternHan]] suspicion, [[KouXunEasternHan]], [[SuMaoEasternHan]], and [[JiaFuEasternHan]] connect battlefield pressure to commander attachment, and [[GengChunEasternHan]], [[QiangHuaEasternHan]], and [[AccessionTimingCoalitionSignal]] make accession timing a coalition and symbolic-warrant problem.
+
+**Evidence:** [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii]], [[zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv]], [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb]], [[FengYiEasternHan]], [[LiYiGengshiGeneral]], [[BorrowedKnifeKilling]], [[PrivateLetterPoliticalWeaponization]], [[ZhuWeiEasternHan]], [[KouXunEasternHan]], [[SuMaoEasternHan]], [[JiaFuEasternHan]], [[GengChunEasternHan]], [[QiangHuaEasternHan]], [[AccessionTimingCoalitionSignal]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 676 as a Jianwu 1 backfill before Hanji 677 and Hanji 679.
+- Transcript forms for Li Yi, Feng Yi, Zhu Wei, Kou Xun, Jia Fu, river names, and pursuit geography are ASR-sensitive and remain source-scoped.
+- The borrowed-knife interpretation is the episode framing; the durable governance mechanism is document exposure, coalition timing, and morale management.
 
 ### Early Eastern Han 681 Frontier Legitimacy And Regional Self Preservation
 

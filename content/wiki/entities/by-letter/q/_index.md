@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 8810
+wiki_total_pages: 8812
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "QinZhuangxiangwang"
     title: "异人 / 子楚 / 秦庄襄王 / King Zhuangxiang of Qin"
     url: "/wiki/entities/qinzhuangxiangwang/"
+  - key: "QiangHuaEasternHan"
+    title: "强华 / Qiang Hua (Eastern Han)"
+    url: "/wiki/entities/qianghuaeasternhan/"
   - key: "QianglieTan"
     title: "强烈谈 / Qianglie Tan"
     url: "/wiki/entities/qianglietan/"

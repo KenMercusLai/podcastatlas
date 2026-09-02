@@ -14796,6 +14796,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-02] ingest | 《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末
+
+Ingested the 2026-06-11 芮淇讲透资治通鉴 episode backfilling Jianwu 1 / 25 CE around Feng Yi's correspondence with Li Yi, Liu Xiu's public exposure of Li Yi's letters, Zhu Wei's suspicion and failed Wen/Pingyin pressure, Kou Xun and Feng Yi's counterblow, Jia Fu's severe wound, and Liu Xiu's accession after Geng Chun, Feng Yi, and Qiang Hua's 赤伏符 pressure. Added source `zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii`; created `LiYiGengshiGeneral`, `QiangHuaEasternHan`, and `AccessionTimingCoalitionSignal`; updated `FengYiEasternHan`, `KouXunEasternHan`, `JiaFuEasternHan`, `GengChunEasternHan`, `ZhuWeiEasternHan`, `SuMaoEasternHan`, `BorrowedKnifeKilling`, `PrivateLetterPoliticalWeaponization`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Wu Bo, Jia Qiang, exact river/county forms, and Youlai/Wuxiao pursuit details remain source-scoped.
+
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？
 
 Ingested the 2026-06-12 芮淇讲透资治通鉴 episode backfilling Jianwu 1 / 25 CE around Chimei's Changle Palace occupation under Liu Penzi, Sanfu alienation from Chimei plunder, Deng Yu's disciplined and logistics-aware wait-and-rest Guanzhong strategy, Liu Xuan's killing under Chimei control, Liu Xuan's Guangwu-ordered burial through Deng Yu, and Zhao Xi's aid to Liu Xuan's relatives. Added source `zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv`; created `LiuXuanGengshiEmperor`; updated `ChimeiRebellion`, `LiuPenziEasternHan`, `DengYuEasternHan`, `ZhaoXiEasternHan`, `CoreBeforePeripheryStrategy`, `StatusDrivenCommandFailure`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 三府 is treated as Sanfu context, 赵熹 is routed to the existing Zhao Xi page, and 泄露 plus 刘次 remain source-scoped transcript forms.
@@ -15023,6 +15027,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] ingest | All-In's Best Ideas Pitch Competition: 4 Investors Present Their Top Trades Live
 
 Ingested the 2026-06-12 All-In live pitch competition covering MGM Resorts hidden-asset value, Talon Energy power scarcity, Actus Oncology radiopharmaceutical optionality, and GeoNet RTK token economics. Added source `all-in-with-chamath-jason-sacks-friedberg-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live-41618530`; created `MGMResorts`, `TalonEnergy`, `ActusOncology`, `GeoNet`, `InvestmentPitchPositionSizing`, `HiddenAssetOptionality`, `PowerScarcityInfrastructureInvesting`, `BinaryBiotechPlatformOptionality`, `TokenRevenueBuybackModel`, and `RealTimeKinematicsLocationNetwork`; updated `PositionSizing`, `RadiopharmaceuticalDrugConjugates`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; company spellings, tickers, valuation scenarios, legal status, clinical timelines, customer references, and power-market forecasts remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 

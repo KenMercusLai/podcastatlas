@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6254
+wiki_total_pages: 6255
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2018,6 +2018,9 @@ wiki_pages:
   - key: "ArmedFollowerIntegrationCost"
     title: "武装部众整合成本 / Armed Follower Integration Cost"
     url: "/wiki/concepts/armedfollowerintegrationcost/"
+  - key: "AccessionTimingCoalitionSignal"
+    title: "称帝时机与拥戴信号 / Accession Timing Coalition Signal"
+    url: "/wiki/concepts/accessiontimingcoalitionsignal/"
   - key: "AdviceFramingUnderHierarchy"
     title: "等级场景中的进言包装 / Hierarchy-Aware Advice Framing"
     url: "/wiki/concepts/adviceframingunderhierarchy/"

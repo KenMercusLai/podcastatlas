@@ -1783,6 +1783,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/accessionkinshipcontainment/"
     },
+    "AccessionTimingCoalitionSignal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末 [luEbQLiVSTmkJAqqfdlCUKxTnmii].md",
+          "key": "zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/accessiontimingcoalitionsignal/"
+    },
     "AccusationQuotaRefusal": {
       "episode_count": 1,
       "show_count": 1,
@@ -5637,6 +5653,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/bookstoreserendipity/"
+    },
+    "BorrowedKnifeKilling": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人 [ltRzPchWDfcyp4NTmUm9Giu-5mVa].md",
+          "key": "zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末 [luEbQLiVSTmkJAqqfdlCUKxTnmii].md",
+          "key": "zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/borrowedknifekilling/"
     },
     "BostonDynamics": {
       "episode_count": 5,
@@ -18146,9 +18185,9 @@
       "url": "/wiki/entities/fengyaneasternhan/"
     },
     "FengYiEasternHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？ [lqCkX-aClcHKZQqe3pTtnklu9Vot].md",
@@ -18205,6 +18244,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末 [luEbQLiVSTmkJAqqfdlCUKxTnmii].md",
+          "key": "zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
         }
       ],
       "updated": "2026-09-02",
@@ -20858,9 +20904,9 @@
       "url": "/wiki/entities/gengchenglinruhoulatehan/"
     },
     "GengChunEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？ [lhtdQtfxiHYUA1nj8ofsDXl8IL8D].md",
@@ -20875,6 +20921,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末 [luEbQLiVSTmkJAqqfdlCUKxTnmii].md",
+          "key": "zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
         }
       ],
       "updated": "2026-09-02",
@@ -27081,9 +27134,9 @@
       "url": "/wiki/entities/jiabiaolatehan/"
     },
     "JiaFuEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？ [lsm3XEAn8fzIdhhhXi6-PpPhEXXH].md",
@@ -27105,6 +27158,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》686丨刘秀发誓只爱阴丽华，为何立郭氏为后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末 [luEbQLiVSTmkJAqqfdlCUKxTnmii].md",
+          "key": "zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
         }
       ],
       "updated": "2026-09-02",
@@ -28615,9 +28675,9 @@
       "url": "/wiki/entities/kouronglatehan/"
     },
     "KouXunEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？ [lukNoR8YW839QWxOGeyZwLUO6Qe2].md",
@@ -28639,6 +28699,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》686丨刘秀发誓只爱阴丽华，为何立郭氏为后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末 [luEbQLiVSTmkJAqqfdlCUKxTnmii].md",
+          "key": "zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
         }
       ],
       "updated": "2026-09-02",
@@ -29843,6 +29910,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/liyieasternhan/"
+    },
+    "LiYiGengshiGeneral": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末 [luEbQLiVSTmkJAqqfdlCUKxTnmii].md",
+          "key": "zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/liyigengshigeneral/"
     },
     "LiYingLateHan": {
       "episode_count": 10,
@@ -41171,9 +41254,9 @@
       "url": "/wiki/concepts/privatefavorappointmenterosion/"
     },
     "PrivateLetterPoliticalWeaponization": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》725丨东汉名将祭肜：要保家卫国，就把敌人打趴下！ [lq06WnTw8K5230zmlNCQuYKARA9y].md",
@@ -41181,9 +41264,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》725丨东汉名将祭肜：要保家卫国，就把敌人打趴下！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末 [luEbQLiVSTmkJAqqfdlCUKxTnmii].md",
+          "key": "zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/privateletterpoliticalweaponization/"
     },
     "PrivateRetainerNetworkRisk": {
@@ -41964,6 +42054,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/qixiangdong/"
+    },
+    "QiangHuaEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末 [luEbQLiVSTmkJAqqfdlCUKxTnmii].md",
+          "key": "zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/qianghuaeasternhan/"
     },
     "QiangOfficialAbuseRebellionTrigger": {
       "episode_count": 1,
@@ -48010,9 +48116,9 @@
       "url": "/wiki/entities/sukanglatehan/"
     },
     "SuMaoEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？ [lmqqtSxWEmeTQqAe-QDiERsKA9pl].md",
@@ -48027,6 +48133,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》686丨刘秀发誓只爱阴丽华，为何立郭氏为后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末 [luEbQLiVSTmkJAqqfdlCUKxTnmii].md",
+          "key": "zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
         }
       ],
       "updated": "2026-09-02",
@@ -60459,9 +60572,9 @@
       "url": "/wiki/entities/zhumulatehan/"
     },
     "ZhuWeiEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？ [lqnS6KTyM8RGv3y5TlCzCYfYZxdb].md",
@@ -60469,6 +60582,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末 [luEbQLiVSTmkJAqqfdlCUKxTnmii].md",
+          "key": "zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
         }
       ],
       "updated": "2026-09-02",

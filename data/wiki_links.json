@@ -2795,6 +2795,10 @@
     "title": "继位亲族安抚与隔离 / Accession Kinship Containment",
     "url": "/wiki/concepts/accessionkinshipcontainment/"
   },
+  "AccessionTimingCoalitionSignal": {
+    "title": "称帝时机与拥戴信号 / Accession Timing Coalition Signal",
+    "url": "/wiki/concepts/accessiontimingcoalitionsignal/"
+  },
   "AccidentalVirality": {
     "title": "Accidental Virality",
     "url": "/wiki/concepts/accidentalvirality/"
@@ -31119,6 +31123,10 @@
     "title": "李邑 / Li Yi (Eastern Han)",
     "url": "/wiki/entities/liyieasternhan/"
   },
+  "LiYiGengshiGeneral": {
+    "title": "李轶 / Li Yi (Gengshi General)",
+    "url": "/wiki/entities/liyigengshigeneral/"
+  },
   "LiYingLateHan": {
     "title": "李膺 / Li Ying (late Han)",
     "url": "/wiki/entities/liyinglatehan/"
@@ -42902,6 +42910,10 @@
   "QianTuWuLiang": {
     "title": "前途无量",
     "url": "/wiki/entities/qiantuwuliang/"
+  },
+  "QiangHuaEasternHan": {
+    "title": "强华 / Qiang Hua (Eastern Han)",
+    "url": "/wiki/entities/qianghuaeasternhan/"
   },
   "QiangOfficialAbuseRebellionTrigger": {
     "title": "羌地官吏侵扰叛乱触发 / Qiang Official Abuse Rebellion Trigger",
@@ -65558,6 +65570,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii": {
+    "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
   },
   "zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv": {
     "title": "《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂",
