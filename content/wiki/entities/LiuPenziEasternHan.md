@@ -8,16 +8,21 @@ sources:
   - zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh
   - zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv
   - zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv
+  - zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq
 last_updated: 2026-09-02
 ---
 
 ## Overview
 
-Liu Penzi / 刘盆子 is synthesized as the [[ChimeiRebellion|Chimei]] figurehead whose imperial title never becomes command authority. [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] now supplies the earliest current layer: he enters [[ChanglePalace|长乐宫]] and attracts Sanfu envoys, but Chimei plunder immediately weakens the claim's public value. [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] then shows palace disorder and Liu Penzi's fear, [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] supplies the failed-abdication layer, and [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] shows the same figurehead submitting to [[LiuXiu|光武帝刘秀]] and surviving through controlled settlement.
+Liu Penzi / 刘盆子 is synthesized as the [[ChimeiRebellion|Chimei]] figurehead whose imperial title is manufactured before it ever becomes command authority. [[zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq|Hanji 678]] supplies the origin layer: Chimei commanders turn shamanic pressure, Liu-family genealogy, and a lottery ritual into a new emperor, but the fifteen-year-old herdboy is visibly terrified and remains under a low official's control. [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] then shows palace entry and Sanfu recognition undercut by plunder, [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] shows palace disorder and fear, [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] supplies the failed-abdication layer, and [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] shows the same figurehead submitting to [[LiuXiu|光武帝刘秀]] and surviving through controlled settlement.
 
 ## Current Profile
 
-Hanji 680 presents Liu Penzi's kingship at the moment of apparent palace success. After he enters Changle Palace, Sanfu commanderies and local camp leaders send envoys, but the order never becomes stable authority. Chimei troops rob goods and sometimes kill people, causing officials and civilians to pull back toward their own camps.
+Hanji 678 presents Liu Penzi's kingship as a legitimacy device created by others. As Chimei approaches Chang'an, a Qi shaman's warning and Fang Yang's advice push Fan Chong and the other commanders to seek a Liu-family ruler. At Zheng County, the commanders choose among Liu descendants by lot; Liu Penzi draws the marked "Shangjiangjun" slip after the older candidates miss it, and the commanders worship him as emperor.
+
+The enthronement scene already shows the title's hollowness. Liu Penzi is fifteen, disheveled, barefoot, and frightened enough to tremble, sweat, cry, and bite apart the wooden lot. Although he names senior Chimei leaders to court-style offices, he still reports morning and evening to Liu Xiaqing and is mostly ignored by the commanders.
+
+Hanji 680 presents Liu Penzi's kingship at the next moment of apparent palace success. After he enters Changle Palace, Sanfu commanderies and local camp leaders send envoys, but the order never becomes stable authority. Chimei troops rob goods and sometimes kill people, causing officials and civilians to pull back toward their own camps.
 
 The same source makes Liu Penzi's regime coexist with another Liu-family claimant problem. Sanfu people suffer under Chimei and sympathize with [[LiuXuanGengshiEmperor|更始帝刘玄]], while Zhang Ang's group worries that Liu Xuan can become a rallying figure. Liu Penzi is not shown controlling the decision; the source instead reinforces the broader pattern that Chimei commanders and factions act around and over nominal imperial figures.
 
@@ -35,18 +40,21 @@ Liu Penzi's later treatment shows differentiated settlement. He is made a langzh
 
 ## Key Characteristics
 
+- Lottery-selected Liu-family figurehead whose title is wrapped in shamanic warning, genealogy, altar ritual, and chance.
+- Frightened adolescent and former herdboy whose Chimei imperial title exceeds his actual control from the moment of enthronement.
 - Palace-entering figurehead whose apparent recognition by Sanfu envoys is immediately undercut by Chimei plunder.
-- Frightened adolescent and former herdboy whose Chimei imperial title exceeds his actual control over troops.
 - Clear critic of Chimei plunder and legitimacy failure, despite lacking coercive authority to correct it.
 - Failed abdication case in which returning seal and ribbon cannot overcome commander-group interests.
-- Public confidence signal whose temporary effect collapses when military discipline does not change.
 - Surrendering ruler treated through spared life, symbolic submission, and public military display.
 - Former claimant incorporated into low office and later subsistence support rather than autonomous rule.
 
 ## Evidence
 
+- Selection manufacture: [[zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq|Hanji 678]] says Chimei commanders respond to shamanic pressure and Fang Yang's advice by searching for Liu descendants and staging a lot draw at Zheng County.
+- Frightened enthronement: [[zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq|Hanji 678]] says Liu Penzi is fifteen, poorly dressed, barefoot, trembling, sweating, crying, and resistant enough to bite and discard the wooden lot.
+- Immediate nominality: [[zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq|Hanji 678]] says Liu Penzi remains under Liu Xiaqing's control and is not consulted by Fan Chong and the other commanders after enthronement.
 - Early palace recognition: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Liu Penzi enters Changle Palace and Sanfu commandery and camp leaders send envoys.
-- Immediate authority failure: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Chimei soldiers rob goods and sometimes kill people, causing officials and civilians to return to camps.
+- Immediate palace authority failure: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Chimei soldiers rob goods and sometimes kill people, causing officials and civilians to return to camps.
 - Rival claimant danger: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Sanfu sympathy for Liu Xuan makes the fallen Gengshi emperor dangerous under Chimei control.
 - Palace-disorder exposure: [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] says Chimei soldiers fight before the laji banquet, break into the palace, seize food and wine, kill one another, and leave Liu Penzi frightened and crying.
 - Figurehead origin and abdication attempt: [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] frames Liu Penzi as a former herdboy who asks to return the seal and ribbon and withdraw from the throne.
@@ -59,15 +67,13 @@ Liu Penzi's later treatment shows differentiated settlement. He is made a langzh
 
 ## Qualifications
 
-This page does not reconstruct Liu Penzi's full pre-Chimei biography, the complete mechanics of his selection, or every Chimei leader's role. Hanji 680 supplies the palace-entry and Sanfu-alienation layer but does not show Liu Penzi making independent policy. Hanji 682 supplies the palace-disorder and fear scene, while only its closing setup notes that Liu Penzi was fifteen and selected by lot. Hanji 683 supports the figurehead-and-failed-abdication profile, while Hanji 688 supports the surrender-and-settlement profile. The evidence also keeps the settlement coercive: arms are surrendered, military power is displayed, households are relocated, and renewed plotting is punished.
+This page does not reconstruct Liu Penzi's full pre-Chimei biography, exact kinship line, or every Chimei leader's role. Hanji 678 supplies the selection mechanism and first fear scene but keeps Fang Yang, Liu Mao, Liu Xiaqing, Xu Xuan, Fan Chong, Feng An, and the office roster source-scoped. Hanji 680 supplies the palace-entry and Sanfu-alienation layer but does not show Liu Penzi making independent policy. Hanji 682 supplies the palace-disorder and fear scene, Hanji 683 supports the figurehead-and-failed-abdication profile, and Hanji 688 supports the surrender-and-settlement profile. The evidence also keeps the settlement coercive: arms are surrendered, military power is displayed, households are relocated, and renewed plotting is punished.
 
 ## What Changed
 
-- Added Hanji 680 as Liu Penzi's earliest current palace-entry, Sanfu-envoy, Chimei-plunder, and Liu Xuan danger context.
-- Preserved Hanji 682 as Liu Penzi's palace-disorder, fear, and pre-abdication powerlessness layer.
-- Preserved Hanji 683 as Liu Penzi's failed-abdication and hollow-authority layer.
-- Reframed Liu Penzi from only a final surrender actor into a figurehead whose lack of command was visible before Chimei's collapse.
-- Preserved Hanji 688 as the final surrender, provisioning, appointment, later support, and punishment-boundary layer.
+- Added Hanji 678 as Liu Penzi's origin layer: shamanic pressure, Liu-line selection, lottery enthronement, immediate fear, and nominal control.
+- Reframed Liu Penzi's powerlessness as visible at enthronement, before the later palace-entry, palace-disorder, failed-abdication, and surrender layers.
+- Preserved Hanji 680, Hanji 682, Hanji 683, and Hanji 688 as the palace recognition, disorder, abdication, surrender, and controlled-support sequence.
 
 ## Relationships
 
@@ -76,5 +82,7 @@ This page does not reconstruct Liu Penzi's full pre-Chimei biography, the comple
 - [[LiuXuanGengshiEmperor|更始帝刘玄]] - captive former ruler whose danger under Chimei control further shows that Liu-family title does not equal command authority.
 - [[LiuXiu|光武帝刘秀]] - receiving ruler who spares, displays power over, appoints, and later supports Liu Penzi.
 - [[FengYiEasternHan|冯异]] - commander whose victory precedes the Chimei surrender.
+- [[RebelMandateManufacture|起义天命制造]] - legitimacy mechanism because Liu Penzi's title is wrapped in shamanic claim, genealogy, altar ritual, and lot result.
+- [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]] - adjacent figurehead pattern that Liu Penzi's Chimei selection resembles but does not fully match.
 - [[PoliticalSurrenderCascade|招降示范级联]] - related mechanism because public surrender and safe treatment affect expectations among remaining followers.
 - [[CasualtySparingSurrender|保全生灵式投降]] - adjacent ethical frame because surrender preserves many lives without restoring independent authority.

@@ -9,12 +9,13 @@ sources:
   - zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25
   - zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d
   - zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi
+  - zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq
 last_updated: 2026-09-02
 ---
 
 ## Definition
 
-Rebel Mandate Manufacture / 起义天命制造 is the use of fabricated or sacralized signs, names, rumors, prophecies, and bodily anomalies to make a revolt or claimant bid appear destined rather than merely opportunistic.
+Rebel Mandate Manufacture / 起义天命制造 is the use of fabricated or sacralized signs, names, rumors, prophecies, bodily anomalies, genealogies, and selection rituals to make a revolt or claimant bid appear destined rather than merely opportunistic.
 
 ## Current Synthesis
 
@@ -28,6 +29,8 @@ Hanji 684 broadens the concept into an Eastern Han royal-kin setting through [[L
 
 Hanji 681 adds a genealogical claimant variant through [[LuFangEasternHan|Lu Fang]]. Lu Fang claims to be Han Wudi's great-grandson Liu Wenbo and to carry Xiongnu royal-line ancestry, then uses that invented identity to gather Sanshui Qiang/Hu support. The mechanism becomes more dangerous when [[Xiongnu|Xiongnu]] sponsors the story by installing him as a rival "Han emperor."
 
+Hanji 678 adds a Chimei selection variant through [[ChimeiRebellion|the Red Eyebrows]]. As the army nears Chang'an, a shamanic warning attributed to Chengyang Jing King Liu Zhang and Fang Yang's advice push the commanders to seek a Liu descendant. The altar and three-lot draw turn [[LiuPenziEasternHan|Liu Penzi]]'s accidental selection into apparent heavenly choice, even though the source immediately shows the boy's terror and lack of command authority.
+
 ## Key Claims
 
 - Survival pressure, military ambition, or royal-kin opportunity can start a challenge, but mandate stories help it scale beyond ordinary self-interest.
@@ -35,8 +38,8 @@ Hanji 681 adds a genealogical claimant variant through [[LuFangEasternHan|Lu Fan
 - Fabricated sacred signs can work politically because they coordinate rumor, expectation, and follower confidence.
 - The sources present these signs as political devices, not as proof that the supernatural claim is true.
 - Sacred rumor can be deliberately staged, as with Chen Sheng and Liu Yang, or retrospectively attached, as with Liu Bang's white-snake story.
-- Hanji 684 shows that mandate manufacture can threaten a new restoration order before open military rebellion occurs.
-- Hanji 681 shows that false genealogy can function like omen manufacture when ancestry claims make a frontier claimant useful to outside patrons.
+- Eastern Han cases show that mandate manufacture can threaten a new restoration order before open rebellion and can make false genealogy useful to outside patrons.
+- Hanji 678 shows that a rebel army can combine shamanic warning, royal genealogy, and ritualized random choice to make a powerless figurehead appear selected by Heaven.
 
 ## Evidence
 
@@ -48,17 +51,20 @@ Hanji 681 adds a genealogical claimant variant through [[LuFangEasternHan|Lu Fan
 - Pre-rebellion risk: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Liu Yang's case is later treated as short of actual rebellion, showing that the mandate device itself can still trigger lethal state action.
 - False dynastic genealogy: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] says Lu Fang falsely claims to be Han Wudi's great-grandson Liu Wenbo and uses that identity to win support.
 - Patron-backed claimant manufacture: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] says Xiongnu treats Lu Fang's claimed Liu identity as useful enough to install him as "Han emperor."
+- Shamanic pressure: [[zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq|Hanji 678]] says a Qi shaman's Chengyang Jing King warning pushes Chimei away from a thief identity and toward emperor-making.
+- Genealogical filtering: [[zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq|Hanji 678]] says Chimei searches among seized Liu descendants and treats Liu Mao and Liu Penzi as especially legitimate lines.
+- Ritualized chance: [[zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq|Hanji 678]] says three wooden lots and an altar make Liu Penzi's marked draw publicly acceptable as emperor selection.
+- Figurehead limitation: [[zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq|Hanji 678]] says Liu Penzi remains frightened and without real command after the selection, so the mandate device does not itself create state capacity.
 
 ## Counterevidence & Qualifications
 
-The concept should not collapse every omen, prophecy, genealogy, or rumor into deliberate fabrication. Qinji 128-7 is explicitly weaker on intentional staging than Qinji 128-2, Hanji 684 gives Liu Yang's device but not his full organizational plan, and Hanji 681 reports Lu Fang's false ancestry without reconstructing every channel by which audiences believed it. The current synthesis therefore distinguishes planned sign-making, retrospective sacral rumor, and claimant self-legitimation while grouping them by political function.
+The concept should not collapse every omen, prophecy, genealogy, lottery, or rumor into deliberate fabrication. Qinji 128-7 is explicitly weaker on intentional staging than Qinji 128-2, Hanji 684 gives Liu Yang's device but not his full organizational plan, Hanji 681 reports Lu Fang's false ancestry without reconstructing every channel by which audiences believed it, and Hanji 678 presents Chimei's shamanic pressure and lot selection through the episode's narrative rather than proving supernatural causality. The current synthesis therefore distinguishes planned sign-making, retrospective sacral rumor, claimant self-legitimation, and ritualized selection while grouping them by political function.
 
 ## What Changed
 
-- Added Hanji 684 as the Liu Yang royal-kin chen-text and bodily-anomaly case.
-- Added Hanji 681 as the Lu Fang false-genealogy and Xiongnu-sponsored claimant case.
-- Preserved Hanji 684 as the Liu Yang royal-kin chen-text and bodily-anomaly case.
-- Broadened the concept beyond mass uprising to include claimant threat inside a restoration regime and outside-patron use of dynastic ancestry.
+- Added Hanji 678 as the Chimei shamanic-warning, Liu-genealogy, and lottery-selection variant.
+- Clarified that mandate manufacture can create a politically useful figurehead without creating command authority or institutional capacity.
+- Preserved the existing distinction among planned sign-making, retrospective sacred rumor, claimant self-legitimation, and outside-patron use of genealogy.
 
 ## Related Concepts
 
@@ -70,5 +76,8 @@ The concept should not collapse every omen, prophecy, genealogy, or rumor into d
 - [[LiuYangZhendingKingEasternHan|真定王刘杨]] - Eastern Han royal-kin claimant who uses chen text and bodily anomaly as mandate evidence.
 - [[LuFangEasternHan|卢芳]] - Eastern Han frontier claimant who turns false Liu and Xiongnu ancestry into political identity.
 - [[Xiongnu|匈奴]] - outside sponsor that weaponizes Lu Fang's manufactured identity by installing him as a rival Han emperor.
+- [[ChimeiRebellion|赤眉]] - Eastern Han rebel army that uses shamanic pressure, Liu genealogy, and lot drawing to select Liu Penzi.
+- [[LiuPenziEasternHan|刘盆子]] - powerless figurehead whose lottery selection shows the gap between mandate packaging and command authority.
+- [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]] - adjacent pattern where a low-power royal descendant supplies symbolic continuity to a military organization.
 - [[ChenweiPolitics|谶纬政治]] - adjacent prophecy-politics field that overlaps with but is broader than rebel fabrication.
 - [[MandateOfHeavenLegitimacy|天命合法性]] - legitimacy frame that makes sacred signs politically useful.

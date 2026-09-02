@@ -15003,3 +15003,11 @@ Ingested the 2026-06-12 芮淇讲透资治通鉴 episode backfilling Jianwu 1 / 
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Identity validation passed. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is unset and no provider API key is configured. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-09-02] ingest | 《资治通鉴·汉纪》678丨刘盆子：我的皇帝是抓阄来的！
+
+Ingested the 2026-06-12 芮淇讲透资治通鉴 episode backfilling Jianwu 1 / 25 CE around Chimei's move from rebel force to claimant regime through shamanic pressure, Liu-family genealogy, and lottery selection of Liu Penzi. Added source `zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq`; updated `LiuPenziEasternHan`, `ChimeiRebellion`, `RebelMandateManufacture`, `index`, and downstream synthesis artifacts. No settled contradiction found; Liu Mao, Liu Xiaqing, Xu Xuan, Fan Chong, Feng An, Li Song, Wang Kuang, and related minor offices remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
