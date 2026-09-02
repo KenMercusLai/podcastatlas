@@ -11,7 +11,8 @@ sources:
   - tsr-s2-trevorblackwell-v2
   - all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680
   - bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf
-last_updated: 2026-08-29
+  - jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1
+last_updated: 2026-09-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,7 +22,7 @@ knowledge_schema: synthesis-v1
 Humanoid robot commercialization is the challenge of turning human-like robots into reliable, safe, affordable, useful products for homes, warehouses, factories, care settings, and other environments designed around human bodies.
 
 ## Current Synthesis
-The wiki's current judgment is cautious but increasingly specific. Humanoid form can be strategically attractive when robots need to use human spaces, tools, reach, balance, or social expectations, but commercial proof still depends on bounded tasks, safety, data, cost, deployment operations, and repeat demand. The All-In robotics special strengthens the case for warehouse humanoids and home-platform experiments, while the Economist episode adds China's scale push: robot games, training centers, and mass data-collection plans show industrial momentum but also confirm that today's sales can be driven by future-data infrastructure rather than present usefulness.
+The wiki's current judgment is cautious but increasingly specific. Humanoid form can be strategically attractive when robots need to use human spaces, tools, reach, balance, or social expectations, but commercial proof still depends on bounded tasks, safety, data, cost, deployment operations, and repeat demand. The China evidence now splits into two signals: production and financing momentum are real, while some near-term sales come from data centers, research/education buyers, demonstrations, and supplier-investor loops that do not yet prove scaled end-user adoption.
 
 ## Key Claims
 - Humanoid form is useful only when it solves a task-fit problem in human environments; it should not be treated as the default winning robot body.
@@ -30,7 +31,7 @@ The wiki's current judgment is cautious but increasingly specific. Humanoid form
 - Household humanoids could become more valuable if they generalize across chores and remote presence, but they carry greater privacy, safety, manipulation, and expectation risk.
 - Data remains a central bottleneck: paid human chore footage, teleoperation traces, robot-control data, and simulation all help but do not yet settle general capability.
 - China has a visible scale advantage in humanoid hardware and training infrastructure, but that advantage remains bounded by data quality, training cost, safety, and the absence of broad deployed utility.
-- Long-run abundance or hard-takeoff claims raise the upside of humanoids, but they remain source-scoped forecasts until robots prove scaled physical production, infrastructure work, and recurring demand.
+- Revenue and IPO readiness can arrive before mature deployment, so robot sales and revenue must be decomposed by buyer type, use case, utilization, and repurchase probability.
 
 ## Evidence
 - Public-market caution evidence: [[yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b]] says humanoid PMF and repeat demand remain unresolved even after Unitree's listing surge.
@@ -41,14 +42,15 @@ The wiki's current judgment is cautious but increasingly specific. Humanoid form
 - Historical caution evidence: [[tsr-s2-trevorblackwell-v2]] shows that human-sized walking robots can be technically ambitious and culturally memorable while still lacking a first market.
 - Deployment-update evidence: [[all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680]] contrasts Neo's home-platform bet, Digit's warehouse workflows, and Atlas's likely service model.
 - China scale evidence: [[bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf]] reports Chinese companies expecting roughly 50,000 humanoid sales this year, 53 existing robot training centers, 34 planned centers, and JD.com's attempt to collect millions of hours of sensor-based movement data.
+- Revenue-quality evidence: [[jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1]] says some current revenue comes from local data centers, research and education, guide/performance scenes, and manufacturing supplier-customer loops, so revenue size cannot be read as final deployment proof by itself.
 
 ## Counterevidence & Qualifications
-No source in the bounded set proves general-purpose humanoid product-market fit. The evidence is strongest for bounded logistics and industrial-adjacent workflows, weaker for home autonomy, and most speculative for recursive physical hard takeoff. Public-market enthusiasm, founder forecasts, state-supported infrastructure, and attention-grabbing demos should be kept separate from verified recurring demand. The newest source also warns that some robot purchases come from training centers, so unit sales may partly measure data-infrastructure investment rather than end-customer adoption.
+No source in the bounded set proves general-purpose humanoid product-market fit. The evidence is strongest for bounded logistics and industrial-adjacent workflows, weaker for home autonomy, and most speculative for abundance or hard-takeoff forecasts. Public-market enthusiasm, founder forecasts, state-supported infrastructure, attention-grabbing demos, and IPO-preparation revenue should be kept separate from verified recurring demand. Current sales can measure production capability, data-infrastructure investment, research demand, channel building, or supplier repositioning before they measure end-customer adoption.
 
 ## What Changed
-- Added China's robot-games and training-center scale as evidence of momentum that still depends on data quality and usable tasks.
-- Made current robot sales more qualified because training centers themselves are major buyers.
-- Strengthened the data-economics gate by adding JD.com's sensor-wearer plan and the 100-million-hour scale claim.
+- Added revenue pull-forward as a separate commercialization risk alongside technical readiness.
+- Made current robot sales and revenue more qualified because training centers, education buyers, demonstrations, and supplier loops can all create early demand.
+- Preserved China's hardware and production momentum while narrowing what that evidence proves about end-user adoption.
 
 ## Related Concepts
 - [[RobotFormFactorPragmatism]] - tests whether humanoid bodies are actually needed for a target task.
@@ -60,3 +62,4 @@ No source in the bounded set proves general-purpose humanoid product-market fit.
 - [[HumanRobotSafetyCertification]] - safety gate for humanoids operating near people.
 - [[PhysicalAIHardTakeoff]] - long-run forecast that depends on humanoid and physical automation scale.
 - [[RobotAsAService]] - business model that can reduce adoption friction for expensive robots.
+- [[RoboticsRevenuePullForward]] - explains why revenue can precede mature robot deployment.

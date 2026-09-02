@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速](sources/jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1.md) — LateTalk episode on embodied-intelligence financing, hard-to-observe progress, local data-center revenue, supplier-customer loops, and IPO pressure in Chinese humanoid robotics.
 - [《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道](sources/zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv.md) — Jianwu 2 Guangwu episode on Deng Yu's Chang'an mission divergence and camp mutiny, Liu Xiu's Huang Fang personnel prediction, Chimei palace disorder around Liu Penzi, Yin Lihua's Luoyang recognition, and Wang Hong's mandate-backed confrontation with Zhang Bu.
 - [《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地](sources/zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh.md) — Jianwu 2 Guangwu episode on Liu Penzi's failed abdication under Chimei commanders, Yao Qi and Wu Han's Tanxiang pacification, and Liu Xiu's merit-reward allocation through Yin Shi's restraint and Feng Qin's fairness work.
 - [《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？](sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d.md) — Jianwu 2 Guangwu episode on Liu Xiu's Luoyang ritual order, Chimei's Chang'an destruction, Liu Yang's prophecy-backed Zhending threat, Bao Yong and Feng Yan's former-Gengshi surrender, and Wang Liang's command-discipline crisis.
@@ -10062,8 +10063,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [光轮智能](entities/GuanglunIntelligence.md) — Robotics simulation and data-engine company building environments, evaluation, and recipe loops for embodied AI.
 - [Cruise](entities/Cruise.md) — Autonomous-driving company used as both Kyle Vogt's hard-tech startup case and Xie Chen's later simulation/data infrastructure reference.
 - [Scale AI](entities/ScaleAI.md) — Industrial AI data company used as the episode's Data Factory comparator before data-engine learning loops.
-- [Unitree Robotics](entities/UnitreeRobotics.md) — Robot-body company used as an example of hardware-layer focus and as Momenta's body-first robotics contrast.
-- [Zhiyuan Robotics](entities/ZhiyuanRobotics.md) — Robot company cited for commercialization and mass-production capability in China's embodied-AI landscape.
+- [Unitree Robotics](entities/UnitreeRobotics.md) — Chinese robot-body and hardware-platform company whose listing, sales leadership, and valuation depend on separating current business from humanoid option value.
+- [Zhiyuan Robotics](entities/ZhiyuanRobotics.md) — Chinese robotics company cited for body-company commercialization, R&D scale, top-tier sales placement, and partner-channel structure.
+- [UBTECH Robotics / 优必选](entities/UBTechRobotics.md) — Chinese humanoid-robotics company appearing in the LateTalk episode's reported top-three domestic sales snapshot.
 - [张月光](entities/ZhangYueguang.md) — Product founder whose path from ByteDance and Alibaba through Miaoya now frames AI-native product design, AI friends, AI otome games, and Docky.
 - [妙鸭](entities/Miaoya.md) — AI portrait product used by Zhang Yueguang to distinguish strong AI-powered internet products from fully AI-native products.
 - [Docky](entities/Docky.md) — Zhang Yueguang's agent product starting from PPT generation and aiming at ability expansion through an AI friend.
@@ -10939,7 +10941,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Data Agent Benchmarks](concepts/DataAgentBenchmarks.md) - Evaluation frame for comparing harness-and-model systems on agentic data engineering tasks.
 - [Technical Leadership For Technology Companies](concepts/TechnicalLeadershipForTechnologyCompanies.md) - Claim that deep technical judgment must shape long-horizon platform, manufacturing, and ecosystem bets in technology companies.
 - [Production Vibe Coding](concepts/ProductionVibeCoding.md) - Crossing point where AI-assisted coding moves from demos into hosted, secure, integrated products and business workflows.
-- [Robot Training Centers](concepts/RobotTrainingCenters.md) — Staged physical facilities that organize robots, humans, sensors, and repeatable tasks into real-world robot-data infrastructure.
+- [Robot Training Centers](concepts/RobotTrainingCenters.md) — Staged robot-data facilities that can become local-government revenue and employment infrastructure before downstream data demand is proven.
 - [Egocentric Robot Data](concepts/EgocentricRobotData.md) — Human first-person sensor data collected through wearables to broaden robot training beyond costly real-machine operation.
 - [Data Center Air Permit Participation](concepts/DataCenterAirPermitParticipation.md) — Procedural frame for whether data-center air-pollution permits include public notice and comment even when emissions standards stay unchanged.
 - [揽过式责任承担 / Blame-Absorbing Responsibility](concepts/BlameAbsorbingResponsibility.md) — Responsibility pattern where voluntary fault-taking can reduce harm only when it stays inside principle, authority, and legal-risk boundaries.
@@ -11550,7 +11552,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Microsoft 365 Copilot Adoption](concepts/Microsoft365CopilotAdoption.md) — Rollout discipline for moving Copilot from license assignment into governed, measured, role-based workflow adoption.
 - [Shadow AI](concepts/ShadowAI.md) — Employee AI use outside approved channels, treated as both governance risk and unmet workflow-demand signal.
 - [AI Adoption Baseline Measurement](concepts/AIAdoptionBaselineMeasurement.md) — Pre-rollout measurement of current workflows so enterprise AI outcomes can be compared against a real baseline.
-- [Unitree IPO Valuation / 宇树上市估值](concepts/UnitreeIPOValuation.md) — Public-market frame separating Unitree's existing robot business from future humanoid and platform option value.
+- [Unitree IPO Valuation / 宇树上市估值](concepts/UnitreeIPOValuation.md) — Public-market frame separating Unitree's existing robot business, revenue quality, and humanoid/platform option value.
+- [Robotics Revenue Pull-Forward](concepts/RoboticsRevenuePullForward.md) — Revenue-quality pattern where robot companies book early sales through data centers, education, demos, or supplier loops before scaled deployment proof.
 - [Robot Repurchase Demand / 机器人复购需求](concepts/RobotRepurchaseDemand.md) — Commercial test asking who buys a robot, what they do with it, and whether they buy again.
 - [Disney Robot Experience Commercialization / 迪士尼机器人体验商业化](concepts/DisneyRobotExperienceCommercialization.md) — Disney-style robot business model where IP, parks, character interaction, and emotional experience carry the value.
 - [AI Consciousness Boundary](concepts/AIConsciousnessBoundary.md) — Boundary between fluent chatbot simulation and evidence of subjective machine consciousness, with current LLM consciousness unproven and future systems left open.
@@ -14997,7 +15000,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robot Experience Data](concepts/RobotExperienceData.md) — Robot-owned action, failure, and correction data used to improve policies beyond human teleoperation demonstrations.
 - [Robot Reinforcement Learning](concepts/RobotReinforcementLearning.md) — Robot learning through exploration, rewards, credit assignment, and real-machine experience rather than only imitation.
 - [Robot Generalization Performance Tradeoff](concepts/RobotGeneralizationPerformanceTradeoff.md) — Robotics tension between broad scene/task transfer and concrete task throughput, speed, and reliability.
-- [Robot Evaluation Problem](concepts/RobotEvaluationProblem.md) — Difficulty of comparing robot systems when real-machine tests depend on scenes, hardware, task definitions, and private eval setups.
+- [Robot Evaluation Problem](concepts/RobotEvaluationProblem.md) — Difficulty of comparing robot systems when benchmarks, hardware, tasks, scenes, autonomy boundaries, and market signals are hard to verify.
 - [Robot Form-Factor Pragmatism](concepts/RobotFormFactorPragmatism.md) — Task-first stance on humanoid versus non-humanoid robot bodies.
 - [Office-Linked Profit Accounting](concepts/OfficeLinkedProfitAccounting.md) — Attribution method for counting private gains that likely depend on holding public office.
 - [Presidential Crypto Policy Conflict](concepts/PresidentialCryptoPolicyConflict.md) — Conflict pattern where presidential crypto-policy authority overlaps with family crypto upside.

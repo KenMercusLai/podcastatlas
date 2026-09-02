@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6238
+wiki_total_pages: 6239
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -716,6 +716,9 @@ wiki_pages:
   - key: "RobotaxiLocalAcceptance"
     title: "Robotaxi Local Acceptance"
     url: "/wiki/concepts/robotaxilocalacceptance/"
+  - key: "RoboticsRevenuePullForward"
+    title: "Robotics Revenue Pull-Forward"
+    url: "/wiki/concepts/roboticsrevenuepullforward/"
   - key: "RoboticsSimulationEvaluation"
     title: "Robotics Simulation Evaluation"
     url: "/wiki/concepts/roboticssimulationevaluation/"

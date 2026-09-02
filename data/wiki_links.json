@@ -45135,6 +45135,10 @@
     "title": "Robotaxi Local Acceptance",
     "url": "/wiki/concepts/robotaxilocalacceptance/"
   },
+  "RoboticsRevenuePullForward": {
+    "title": "Robotics Revenue Pull-Forward",
+    "url": "/wiki/concepts/roboticsrevenuepullforward/"
+  },
   "RoboticsSimulationEvaluation": {
     "title": "Robotics Simulation Evaluation",
     "url": "/wiki/concepts/roboticssimulationevaluation/"
@@ -53606,6 +53610,10 @@
   "UAPCompartmentalization": {
     "title": "UAP Compartmentalization",
     "url": "/wiki/concepts/uapcompartmentalization/"
+  },
+  "UBTechRobotics": {
+    "title": "UBTECH Robotics / 优必选",
+    "url": "/wiki/entities/ubtechrobotics/"
   },
   "UCBerkeley": {
     "title": "UC Berkeley",
@@ -62878,6 +62886,10 @@
   "jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1": {
     "title": "170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人",
     "url": "/wiki/sources/jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1/"
+  },
+  "jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1": {
+    "title": "180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速",
+    "url": "/wiki/sources/jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1/"
   },
   "jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf": {
     "title": "具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO",

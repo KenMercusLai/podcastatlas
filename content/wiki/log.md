@@ -14792,6 +14792,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-02] ingest | 180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速
+
+Ingested the 2026-09-01 LateTalk episode on China's embodied-intelligence financing, hard-to-observe robotics progress, local data-collection center revenue, research and education purchases, guide/performance scenes, supplier-customer-investor loops, and IPO pressure after Unitree's public-market moment. Added source `jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1`; created `RoboticsRevenuePullForward` and `UBTechRobotics`; updated `HumanoidRobotCommercialization`, `RobotTrainingCenters`, `UnitreeIPOValuation`, `UnitreeRobotics`, `ZhiyuanRobotics`, `RobotEvaluationProblem`, `index`, and `overview`. No settled contradiction found; compute, R&D, sales, data-hour, order, and valuation figures remain source-scoped interviewee, reporter, or investor claims until primary disclosures clarify them.
+
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地
 
 Ingested the 2026-06-13 芮淇讲透资治通鉴 episode backfilling Jianwu 2 / 26 CE before Hanji 685: Liu Penzi's failed abdication under Chimei commanders, the temporary discipline and renewed plunder that reveal hollow Chimei authority, Yao Qi's lenient Wei commandery handling of the Li Xiong/Li Lu plot, Wu Han's Tanxiang victory and three-commandery stabilization, and Liu Xiu's early merit-reward settlement through Ding Gong's objection, Yin Shi's fief refusal, Ding Ling's modest request, and Feng Qin's allocation work. Created the source note; updated `LiuPenziEasternHan`, `ChimeiRebellion`, `YaoQiEasternHan`, `YinShiEasternHan`, `OuterRelativePreventiveRestraint`, `FairAllocationPoliticalSkill`, `index`, and `overview`. No settled contradiction found; 姚琪 is normalized to 姚期, while Ding Gong, Ding Ling, Feng Qin, Li Xiong/Li Lu, Tanxiang bandits, exact fief geography, and the host's modern "知分寸" framing remain source-scoped.
@@ -14943,6 +14947,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道
 
 Ingested the 2026-06-13 芮淇讲透资治通鉴 episode backfilling Jianwu 2 / 26 CE around Deng Yu's Chang'an mission divergence, the Feng Yin-Zong Xin-Huang Fang command mutiny, Zong Guang's surrendered-general executions, Chimei palace disorder and Liu Penzi's fear, Yin Lihua's Luoyang guiren recognition, and Wang Hong's mandate-backed confrontation with Zhang Bu. Added source `zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv`; created `WangHongEasternHan`; updated `DengYuEasternHan`, `LiuPenziEasternHan`, `ChimeiRebellion`, `ZhangBuEasternHan`, `YinLihua`, `CharacterReadingDelegationTrust`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Wang Hong is disambiguated from `WangHongLateHan`, Li Tong is routed to `LiTongEasternHan`, Wang Kuang is not merged with `WangKuangLateHan`, and Feng Yin, Zong Xin, Huang Fang, Zong Guang, Hu Yin, Cheng Dan, and minor local details remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 

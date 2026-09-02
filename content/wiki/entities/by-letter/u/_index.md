@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 8793
+wiki_total_pages: 8794
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "UberEats"
     title: "Uber Eats"
     url: "/wiki/entities/ubereats/"
+  - key: "UBTechRobotics"
+    title: "UBTECH Robotics / 优必选"
+    url: "/wiki/entities/ubtechrobotics/"
   - key: "UCBerkeley"
     title: "UC Berkeley"
     url: "/wiki/entities/ucberkeley/"

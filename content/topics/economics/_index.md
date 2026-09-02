@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1902
+topic_total_pages: 1904
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -2275,6 +2275,9 @@ topic_concepts:
   - key: "RobotCommercializationNegativeFeedbackLoop"
     title: "Robot Commercialization Negative Feedback Loop"
     url: "/wiki/concepts/robotcommercializationnegativefeedbackloop/"
+  - key: "RoboticsRevenuePullForward"
+    title: "Robotics Revenue Pull-Forward"
+    url: "/wiki/concepts/roboticsrevenuepullforward/"
   - key: "RollingHoldingPeriodExperience"
     title: "Rolling Holding-Period Experience / 滚动持有期体验"
     url: "/wiki/concepts/rollingholdingperiodexperience/"
@@ -5106,6 +5109,9 @@ topic_sources:
   - key: "176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah"
     title: "176.纽约一年：一个悲观主义者的活法｜725沙龙实录"
     url: "/wiki/sources/176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah/"
+  - key: "jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1"
+    title: "180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速"
+    url: "/wiki/sources/jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1/"
   - key: "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427"
     title: "22.足球经济学：读者不必是球迷"
     url: "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"

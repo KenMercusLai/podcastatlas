@@ -1918,20 +1918,20 @@
       "earliest_episode_date": "2026-05-25",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速 (1) [180-1].md",
-      "source_note_count": 12,
-      "topic_matched_source_note_count": 11,
+      "source_note_count": 13,
+      "topic_matched_source_note_count": 12,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 10
+          "source_note_count": 11
         },
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 2
+          "source_note_count": 3
         },
         {
           "key": "politics",
@@ -1969,6 +1969,13 @@
           "episode_count": 3
         },
         {
+          "key": "UnitreeRobotics",
+          "title": "Unitree Robotics",
+          "url": "/wiki/entities/unitreerobotics/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
           "key": "GoogleDeepMind",
           "title": "Google DeepMind",
           "url": "/wiki/entities/googledeepmind/",
@@ -1983,13 +1990,6 @@
           "episode_count": 2
         },
         {
-          "key": "UnitreeRobotics",
-          "title": "Unitree Robotics",
-          "url": "/wiki/entities/unitreerobotics/",
-          "kind": "organization",
-          "episode_count": 2
-        },
-        {
           "key": "ZhipuAI",
           "title": "Zhipu AI",
           "url": "/wiki/entities/zhipuai/",
@@ -1998,10 +1998,10 @@
         }
       ],
       "start_here_episode_files": [
+        "具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速 (1) [180-1].md",
         "蒸馏风暴：一场无人公开谈论的技术竞赛 (1) [179-1].md",
-        "对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻 (1) [175-1].md",
         "洋葱学园杨临风：用AI制造捷径，是在杀死真学习 (1) [167-1].md",
-        "具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速 (1) [180-1].md"
+        "与田渊栋聊 RSI：模型自进化如何到来？ (1) [178-1].md"
       ]
     },
     "枫言枫语": {

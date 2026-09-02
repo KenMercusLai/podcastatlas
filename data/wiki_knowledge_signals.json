@@ -24746,9 +24746,9 @@
       "url": "/wiki/concepts/humanelocalgovernance/"
     },
     "HumanoidRobotCommercialization": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 7,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
@@ -24805,9 +24805,16 @@
           "show": "Economist Podcasts",
           "title": "Bots on the ground: China leads humanoid race",
           "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        },
+        {
+          "episode_file": "具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速 (1) [180-1].md",
+          "key": "jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1",
+          "show": "晚点聊 LateTalk",
+          "title": "180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速",
+          "url": "/wiki/sources/jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/humanoidrobotcommercialization/"
     },
     "HuoXuLateHan": {
@@ -43147,6 +43154,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/robotcontroldatascarcity/"
     },
+    "RobotEvaluationProblem": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角 [ljmazvdvAd7O5mD-Nuiompd6_1NV].md",
+          "key": "146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角",
+          "url": "/wiki/sources/146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv/"
+        },
+        {
+          "episode_file": "具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速 (1) [180-1].md",
+          "key": "jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1",
+          "show": "晚点聊 LateTalk",
+          "title": "180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速",
+          "url": "/wiki/sources/jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/robotevaluationproblem/"
+    },
     "RobotNavigationInfrastructure": {
       "episode_count": 1,
       "show_count": 1,
@@ -43226,9 +43256,9 @@
       "url": "/wiki/concepts/robotteleoperationandremotetakeover/"
     },
     "RobotTrainingCenters": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
@@ -43236,10 +43266,33 @@
           "show": "Economist Podcasts",
           "title": "Bots on the ground: China leads humanoid race",
           "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        },
+        {
+          "episode_file": "具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速 (1) [180-1].md",
+          "key": "jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1",
+          "show": "晚点聊 LateTalk",
+          "title": "180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速",
+          "url": "/wiki/sources/jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/robottrainingcenters/"
+    },
+    "RoboticsRevenuePullForward": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速 (1) [180-1].md",
+          "key": "jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1",
+          "show": "晚点聊 LateTalk",
+          "title": "180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速",
+          "url": "/wiki/sources/jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/roboticsrevenuepullforward/"
     },
     "RomanEmpire": {
       "episode_count": 3,
@@ -50326,6 +50379,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/uapcompartmentalization/"
     },
+    "UBTechRobotics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速 (1) [180-1].md",
+          "key": "jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1",
+          "show": "晚点聊 LateTalk",
+          "title": "180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速",
+          "url": "/wiki/sources/jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/ubtechrobotics/"
+    },
     "USChinaScienceCompetition": {
       "episode_count": 2,
       "show_count": 1,
@@ -50622,6 +50691,87 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/unitedarabemirates/"
+    },
+    "UnitreeIPOValuation": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
+          "key": "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b",
+          "show": "What's Next｜科技早知道",
+          "title": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26",
+          "url": "/wiki/sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b/"
+        },
+        {
+          "episode_file": "具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速 (1) [180-1].md",
+          "key": "jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1",
+          "show": "晚点聊 LateTalk",
+          "title": "180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速",
+          "url": "/wiki/sources/jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/unitreeipovaluation/"
+    },
+    "UnitreeRobotics": {
+      "episode_count": 7,
+      "show_count": 5,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md",
+          "key": "lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506",
+          "show": "声动早咖啡",
+          "title": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿",
+          "url": "/wiki/sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506/"
+        },
+        {
+          "episode_file": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
+          "key": "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b",
+          "show": "What's Next｜科技早知道",
+          "title": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26",
+          "url": "/wiki/sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b/"
+        },
+        {
+          "episode_file": "E244｜端到端vs上下分层：机器人路径之争，正在转向？ [fc9a3737-81a9-49cf-a7d6-530c77df836e].md",
+          "key": "e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e",
+          "show": "硅谷101",
+          "title": "E244｜端到端vs上下分层：机器人路径之争，正在转向？",
+          "url": "/wiki/sources/e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e/"
+        },
+        {
+          "episode_file": "【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人 (1) [170-1].md",
+          "key": "jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1",
+          "show": "晚点聊 LateTalk",
+          "title": "170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人",
+          "url": "/wiki/sources/jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1/"
+        },
+        {
+          "episode_file": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe [lkInPy65_ZR4cQmK23rmHJ_hhLVQ].md",
+          "key": "134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe",
+          "url": "/wiki/sources/134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe/"
+        },
+        {
+          "episode_file": "Momenta IPO后再访曹旭东：就是想做没有尽头的AI (1) [172-1].md",
+          "key": "momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1",
+          "show": "晚点聊 LateTalk",
+          "title": "Momenta IPO后再访曹旭东：就是想做没有尽头的AI",
+          "url": "/wiki/sources/momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1/"
+        },
+        {
+          "episode_file": "具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速 (1) [180-1].md",
+          "key": "jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1",
+          "show": "晚点聊 LateTalk",
+          "title": "180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速",
+          "url": "/wiki/sources/jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/unitreerobotics/"
     },
     "UniversityOfCaliforniaSanFrancisco": {
       "episode_count": 1,
@@ -58435,6 +58585,29 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/zhiyuneasternhan/"
+    },
+    "ZhiyuanRobotics": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe [lkInPy65_ZR4cQmK23rmHJ_hhLVQ].md",
+          "key": "134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe",
+          "url": "/wiki/sources/134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe/"
+        },
+        {
+          "episode_file": "具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速 (1) [180-1].md",
+          "key": "jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1",
+          "show": "晚点聊 LateTalk",
+          "title": "180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速",
+          "url": "/wiki/sources/jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/zhiyuanrobotics/"
     },
     "ZhongChuxi": {
       "episode_count": 1,

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7827ee72c32e6ef25350ad736e02a2a9b486267138e0d9733e632f0f1831754b",
       "9eb70e1ea6fe89aabc151042f3e3e37b6a215f75972df7e4d8be87226172b7b2",
       "207e8587f5106b7c29559ce9186b2fc9fbb301708fb4ff1fb2a3313e6e7a8b94",
       "b700e0dee012a1e272f3f6a610df05fa8fe58f55685e85e7f836bc81eee8f21b",
@@ -505,11 +506,35 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 503
+    "paragraph_count": 504
   },
-  "overview_commit": "bfad3b918c086e663c638abe62d4e718a082fbdf",
-  "overview_digest": "5ddf18518169a05eacaad319d7540672fa8e8bbbd4a5cd41f1711c35663fa273",
+  "overview_commit": "4ae23a227b1f11cb20ed03855477dadc1379524f",
+  "overview_digest": "a2cfd433c5f0e980fc7ff1a077ff202ec4096b5f91472a454b7ac862b3dccab3",
   "paragraphs": [
+    {
+      "id": "7827ee72c32e6ef25350ad736e02a2a9b486267138e0d9733e632f0f1831754b",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1|180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速]], a [[LateTalk]] episode on China's embodied-intelligence financing, revenue, and IPO race. It adds [[RoboticsRevenuePullForward]] and [[UBTechRobotics|UBTECH Robotics]], while extending [[UnitreeRobotics]], [[ZhiyuanRobotics]], [[HumanoidRobotCommercialization]], [[RobotTrainingCenters]], [[UnitreeIPOValuation]], and [[RobotEvaluationProblem]]. Its core synthesis is that robotics revenue can be real while still pulled forward ahead of scaled deployment: local data centers, research/education purchases, guide and performance scenes, and supplier-customer-investor loops can move companies toward IPO-relevant revenue without proving broad product-market fit. No settled contradiction is recorded; compute, R&D, sales, data-hour, order, and valuation figures remain interviewee, reporter, or investor claims until primary disclosures clarify them.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 4,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "HumanoidRobotCommercialization",
+        "LateTalk",
+        "RobotEvaluationProblem",
+        "RobotTrainingCenters",
+        "RoboticsRevenuePullForward",
+        "UBTechRobotics",
+        "UnitreeIPOValuation",
+        "UnitreeRobotics",
+        "ZhiyuanRobotics",
+        "jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1"
+      ]
+    },
     {
       "id": "9eb70e1ea6fe89aabc151042f3e3e37b6a215f75972df7e4d8be87226172b7b2",
       "primary_topic": "ai-and-technology",
