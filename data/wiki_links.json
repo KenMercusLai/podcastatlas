@@ -5375,6 +5375,10 @@
     "title": "Artificial Cognition",
     "url": "/wiki/concepts/artificialcognition/"
   },
+  "ArtificialEmotionalIntelligence": {
+    "title": "Artificial Emotional Intelligence",
+    "url": "/wiki/concepts/artificialemotionalintelligence/"
+  },
   "ArtificialHeartBridgeTherapy": {
     "title": "Artificial Heart Bridge Therapy",
     "url": "/wiki/concepts/artificialheartbridgetherapy/"
@@ -15718,6 +15722,10 @@
   "DreamBabyStory": {
     "title": "《梦宝宝》",
     "url": "/wiki/entities/dreambabystory/"
+  },
+  "DreamFaceTechnologies": {
+    "title": "Dream Face Technologies",
+    "url": "/wiki/entities/dreamfacetechnologies/"
   },
   "DreamLogicNarrative": {
     "title": "Dream Logic Narrative",
@@ -36027,6 +36035,10 @@
     "title": "Mohamed Morsi",
     "url": "/wiki/entities/mohamedmorsi/"
   },
+  "MohammadMahoor": {
+    "title": "Mohammad H. Mahoor",
+    "url": "/wiki/entities/mohammadmahoor/"
+  },
   "MohammadRezaPahlavi": {
     "title": "Mohammad Reza Pahlavi / 穆罕默德·礼萨·巴列维",
     "url": "/wiki/entities/mohammadrezapahlavi/"
@@ -45647,6 +45659,10 @@
     "title": "Ryan Seiders",
     "url": "/wiki/entities/ryanseiders/"
   },
+  "RyanSocialRobot": {
+    "title": "Ryan Social Robot",
+    "url": "/wiki/entities/ryansocialrobot/"
+  },
   "RyanSuttonGee": {
     "title": "Ryan Sutton-Gee",
     "url": "/wiki/entities/ryansuttongee/"
@@ -48422,6 +48438,10 @@
   "SocialReportingBurnout": {
     "title": "Social Reporting Burnout / 社会报道消耗",
     "url": "/wiki/concepts/socialreportingburnout/"
+  },
+  "SocialRoboticsElderCare": {
+    "title": "Social Robotics in Elder Care",
+    "url": "/wiki/concepts/socialroboticseldercare/"
   },
   "SocialSignalInterpretation": {
     "title": "Social Signal Interpretation",
@@ -54118,6 +54138,10 @@
   "UniversityOfColoradoDenver": {
     "title": "University of Colorado Denver",
     "url": "/wiki/entities/universityofcoloradodenver/"
+  },
+  "UniversityOfDenver": {
+    "title": "University of Denver",
+    "url": "/wiki/entities/universityofdenver/"
   },
   "UniversityOfIllinoisUrbanaChampaign": {
     "title": "University of Illinois Urbana-Champaign",
@@ -62230,6 +62254,10 @@
   "ep-4-a-i-talk-with-a-rocket-scientist-from-nasa": {
     "title": "EP 4: A.I. talk with a Rocket Scientist from NASA",
     "url": "/wiki/sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa/"
+  },
+  "ep-42-when-ai-meets-robotics-building-machines-that-care": {
+    "title": "EP 42: When AI Meets Robotics: Building Machines That Care",
+    "url": "/wiki/sources/ep-42-when-ai-meets-robotics-building-machines-that-care/"
   },
   "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success": {
     "title": "EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success",

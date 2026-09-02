@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6240
+wiki_total_pages: 6242
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -818,6 +818,9 @@ wiki_pages:
   - key: "SocialReportingBurnout"
     title: "Social Reporting Burnout / 社会报道消耗"
     url: "/wiki/concepts/socialreportingburnout/"
+  - key: "SocialRoboticsElderCare"
+    title: "Social Robotics in Elder Care"
+    url: "/wiki/concepts/socialroboticseldercare/"
   - key: "SocialSignalInterpretation"
     title: "Social Signal Interpretation"
     url: "/wiki/concepts/socialsignalinterpretation/"

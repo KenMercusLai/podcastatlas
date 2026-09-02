@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 8797
+wiki_total_pages: 8801
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "UniversityOfColoradoDenver"
     title: "University of Colorado Denver"
     url: "/wiki/entities/universityofcoloradodenver/"
+  - key: "UniversityOfDenver"
+    title: "University of Denver"
+    url: "/wiki/entities/universityofdenver/"
   - key: "UniversityOfIllinoisUrbanaChampaign"
     title: "University of Illinois Urbana-Champaign"
     url: "/wiki/entities/universityofillinoisurbanachampaign/"

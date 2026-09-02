@@ -7922,6 +7922,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ArtificialEmotionalIntelligence": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ArtificialHeartBridgeTherapy": [
     {
       "key": "science",
@@ -19255,6 +19262,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "DreamFaceTechnologies": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "DreamLogicNarrative": [
@@ -40679,6 +40693,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MohammadMahoor": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "MohammadRezaPahlavi": [
     {
       "key": "politics",
@@ -51785,6 +51806,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "RyanSocialRobot": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "RyanSuttonGee": [
     {
       "key": "economics",
@@ -54862,6 +54890,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "SocialRoboticsElderCare": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "SocialTrustAsStateCapacity": [
@@ -62172,6 +62207,13 @@
     }
   ],
   "UniversityOfColoradoDenver": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "UniversityOfDenver": [
     {
       "key": "technology",
       "label": "Technology",
@@ -69994,6 +70036,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ep-42-when-ai-meets-robotics-building-machines-that-care": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success": [

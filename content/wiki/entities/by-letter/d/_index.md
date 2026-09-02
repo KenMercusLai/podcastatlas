@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8797
+wiki_total_pages: 8801
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -671,6 +671,9 @@ wiki_pages:
   - key: "DragonSpacecraft"
     title: "Dragon Spacecraft"
     url: "/wiki/entities/dragonspacecraft/"
+  - key: "DreamFaceTechnologies"
+    title: "Dream Face Technologies"
+    url: "/wiki/entities/dreamfacetechnologies/"
   - key: "Dreame"
     title: "Dreame / 追觅"
     url: "/wiki/entities/dreame/"

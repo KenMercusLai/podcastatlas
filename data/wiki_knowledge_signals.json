@@ -316,6 +316,36 @@
       "updated": "2026-08-07",
       "url": "/wiki/concepts/aiagentoverseascommercialization/"
     },
+    "AIAndRoboticElderCareLimits": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士 [lgokB_l-NVNqssTFzLQWhtNKqzhp].md",
+          "key": "147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp",
+          "show": "起朱楼宴宾客",
+          "title": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士",
+          "url": "/wiki/sources/147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp/"
+        },
+        {
+          "episode_file": "EP241 校企合作是新一代的“铁饭碗”吗？ [lnmpSBVoQBexeaRdXYX88HyWUfig].md",
+          "key": "ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig",
+          "show": "Talk三联",
+          "title": "EP241 校企合作是新一代的“铁饭碗”吗？",
+          "url": "/wiki/sources/ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig/"
+        },
+        {
+          "episode_file": "E44336DBA7CA3E8529FDA1E15BA27C99~8584402_2026-08-10-213602-8787-0-0-10.128 [E44336DBA7CA3E8529FDA1E15BA27C99~8584402_2026-08-10-213602-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a933].md",
+          "key": "ep-42-when-ai-meets-robotics-building-machines-that-care",
+          "show": "Data Science With Sam",
+          "title": "EP 42: When AI Meets Robotics: Building Machines That Care",
+          "url": "/wiki/sources/ep-42-when-ai-meets-robotics-building-machines-that-care/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/aiandroboticeldercarelimits/"
+    },
     "AIAsBrandMirror": {
       "episode_count": 1,
       "show_count": 1,
@@ -3660,6 +3690,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/armedfollowerintegrationcost/"
+    },
+    "ArtificialEmotionalIntelligence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E44336DBA7CA3E8529FDA1E15BA27C99~8584402_2026-08-10-213602-8787-0-0-10.128 [E44336DBA7CA3E8529FDA1E15BA27C99~8584402_2026-08-10-213602-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a933].md",
+          "key": "ep-42-when-ai-meets-robotics-building-machines-that-care",
+          "show": "Data Science With Sam",
+          "title": "EP 42: When AI Meets Robotics: Building Machines That Care",
+          "url": "/wiki/sources/ep-42-when-ai-meets-robotics-building-machines-that-care/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/artificialemotionalintelligence/"
     },
     "ArtistRightsControl": {
       "episode_count": 1,
@@ -9342,6 +9388,50 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/companionanimalhealth/"
     },
+    "CompanionRobots": {
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
+          "key": "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b",
+          "show": "What's Next｜科技早知道",
+          "title": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26",
+          "url": "/wiki/sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b/"
+        },
+        {
+          "episode_file": "EP253 爆火的AI好物，到底是“真香”还是智商税？ [lgT0cDKoTgNZjl0MU2tx41P9fW_4].md",
+          "key": "ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4",
+          "show": "Talk三联",
+          "title": "EP253 爆火的AI好物，到底是“真香”还是智商税？",
+          "url": "/wiki/sources/ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4/"
+        },
+        {
+          "episode_file": "我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】 [lryDeLIzm0-hbk68u5CqE3TI-epB].md",
+          "key": "wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb",
+          "show": "十字路口Crossing",
+          "title": "我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】",
+          "url": "/wiki/sources/wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb/"
+        },
+        {
+          "episode_file": "具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人⧸CEO [lic8B7dkxTS3Qjrs6Af1RGBF4xRf].md",
+          "key": "jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf",
+          "show": "十字路口Crossing",
+          "title": "具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO",
+          "url": "/wiki/sources/jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf/"
+        },
+        {
+          "episode_file": "E44336DBA7CA3E8529FDA1E15BA27C99~8584402_2026-08-10-213602-8787-0-0-10.128 [E44336DBA7CA3E8529FDA1E15BA27C99~8584402_2026-08-10-213602-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a933].md",
+          "key": "ep-42-when-ai-meets-robotics-building-machines-that-care",
+          "show": "Data Science With Sam",
+          "title": "EP 42: When AI Meets Robotics: Building Machines That Care",
+          "url": "/wiki/sources/ep-42-when-ai-meets-robotics-building-machines-that-care/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/companionrobots/"
+    },
     "CompelledDNASamplingFourthAmendment": {
       "episode_count": 1,
       "show_count": 1,
@@ -13195,6 +13285,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/doubaowork/"
+    },
+    "DreamFaceTechnologies": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E44336DBA7CA3E8529FDA1E15BA27C99~8584402_2026-08-10-213602-8787-0-0-10.128 [E44336DBA7CA3E8529FDA1E15BA27C99~8584402_2026-08-10-213602-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a933].md",
+          "key": "ep-42-when-ai-meets-robotics-building-machines-that-care",
+          "show": "Data Science With Sam",
+          "title": "EP 42: When AI Meets Robotics: Building Machines That Care",
+          "url": "/wiki/sources/ep-42-when-ai-meets-robotics-building-machines-that-care/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/dreamfacetechnologies/"
     },
     "Drownproof": {
       "episode_count": 1,
@@ -35877,6 +35983,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/modularaidatacenters/"
     },
+    "MohammadMahoor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E44336DBA7CA3E8529FDA1E15BA27C99~8584402_2026-08-10-213602-8787-0-0-10.128 [E44336DBA7CA3E8529FDA1E15BA27C99~8584402_2026-08-10-213602-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a933].md",
+          "key": "ep-42-when-ai-meets-robotics-building-machines-that-care",
+          "show": "Data Science With Sam",
+          "title": "EP 42: When AI Meets Robotics: Building Machines That Care",
+          "url": "/wiki/sources/ep-42-when-ai-meets-robotics-building-machines-that-care/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/mohammadmahoor/"
+    },
     "Monticello": {
       "episode_count": 1,
       "show_count": 1,
@@ -43881,6 +44003,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/rutgersuniversity/"
     },
+    "RyanSocialRobot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E44336DBA7CA3E8529FDA1E15BA27C99~8584402_2026-08-10-213602-8787-0-0-10.128 [E44336DBA7CA3E8529FDA1E15BA27C99~8584402_2026-08-10-213602-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a933].md",
+          "key": "ep-42-when-ai-meets-robotics-building-machines-that-care",
+          "show": "Data Science With Sam",
+          "title": "EP 42: When AI Meets Robotics: Building Machines That Care",
+          "url": "/wiki/sources/ep-42-when-ai-meets-robotics-building-machines-that-care/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/ryansocialrobot/"
+    },
     "SaborAMexicoSalsas": {
       "episode_count": 1,
       "show_count": 1,
@@ -45961,6 +46099,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/socialmediaproductliability/"
+    },
+    "SocialRoboticsElderCare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E44336DBA7CA3E8529FDA1E15BA27C99~8584402_2026-08-10-213602-8787-0-0-10.128 [E44336DBA7CA3E8529FDA1E15BA27C99~8584402_2026-08-10-213602-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a933].md",
+          "key": "ep-42-when-ai-meets-robotics-building-machines-that-care",
+          "show": "Data Science With Sam",
+          "title": "EP 42: When AI Meets Robotics: Building Machines That Care",
+          "url": "/wiki/sources/ep-42-when-ai-meets-robotics-building-machines-that-care/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/socialroboticseldercare/"
     },
     "SocratesFootballer": {
       "episode_count": 1,
@@ -50977,6 +51131,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/universityofcoloradodenver/"
+    },
+    "UniversityOfDenver": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E44336DBA7CA3E8529FDA1E15BA27C99~8584402_2026-08-10-213602-8787-0-0-10.128 [E44336DBA7CA3E8529FDA1E15BA27C99~8584402_2026-08-10-213602-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a933].md",
+          "key": "ep-42-when-ai-meets-robotics-building-machines-that-care",
+          "show": "Data Science With Sam",
+          "title": "EP 42: When AI Meets Robotics: Building Machines That Care",
+          "url": "/wiki/sources/ep-42-when-ai-meets-robotics-building-machines-that-care/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/universityofdenver/"
     },
     "UniversityOfMinnesota": {
       "episode_count": 2,

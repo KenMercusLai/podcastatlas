@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6240
+wiki_total_pages: 6242
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1682,6 +1682,9 @@ wiki_pages:
   - key: "ArtificialCognition"
     title: "Artificial Cognition"
     url: "/wiki/concepts/artificialcognition/"
+  - key: "ArtificialEmotionalIntelligence"
+    title: "Artificial Emotional Intelligence"
+    url: "/wiki/concepts/artificialemotionalintelligence/"
   - key: "ArtificialHeartBridgeTherapy"
     title: "Artificial Heart Bridge Therapy"
     url: "/wiki/concepts/artificialheartbridgetherapy/"

@@ -14963,3 +14963,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] ingest | EP 42: When AI Meets Robotics: Building Machines That Care
+
+Ingested the 2026-06-13 Data Science With Sam episode with Mohammad H. Mahoor on Ryan, Dream Face Technologies, artificial emotional intelligence, social robotics in elder care, LLM-enabled robot conversation, dignity, consent, privacy, clinical-pilot attachment, and care augmentation. Added source `ep-42-when-ai-meets-robotics-building-machines-that-care`; created `MohammadMahoor`, `RyanSocialRobot`, `DreamFaceTechnologies`, `UniversityOfDenver`, `ArtificialEmotionalIntelligence`, and `SocialRoboticsElderCare`; updated `AIAndRoboticElderCareLimits`, `CompanionRobots`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; technical architecture, clinical outcome strength, company scale, and full guest biography remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

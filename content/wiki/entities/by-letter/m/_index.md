@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8797
+wiki_total_pages: 8801
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -986,6 +986,9 @@ wiki_pages:
   - key: "MohamedMorsi"
     title: "Mohamed Morsi"
     url: "/wiki/entities/mohamedmorsi/"
+  - key: "MohammadMahoor"
+    title: "Mohammad H. Mahoor"
+    url: "/wiki/entities/mohammadmahoor/"
   - key: "MohammadRezaPahlavi"
     title: "Mohammad Reza Pahlavi / 穆罕默德·礼萨·巴列维"
     url: "/wiki/entities/mohammadrezapahlavi/"
