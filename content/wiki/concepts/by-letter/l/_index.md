@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6272
+wiki_total_pages: 6273
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "LayoffBuffer"
     title: "Layoff Buffer"
     url: "/wiki/concepts/layoffbuffer/"
+  - key: "LeaderWorthFollowingAssessment"
+    title: "Leader-Worthiness Assessment / 值得追随的领导判断"
+    url: "/wiki/concepts/leaderworthfollowingassessment/"
   - key: "LeadershipEmotionalCounterweight"
     title: "Leadership Emotional Counterweight"
     url: "/wiki/concepts/leadershipemotionalcounterweight/"

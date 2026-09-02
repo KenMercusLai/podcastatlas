@@ -7,14 +7,17 @@ sources:
   - zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d
   - zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv
   - zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii
-last_updated: 2026-09-02
+  - zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv
+last_updated: 2026-09-03
 ---
 
 ## Overview
 
-耿纯 / Geng Chun is an Eastern Han commander whose current wiki profile joins accession counsel, coercive royal-kin preemption, and reputation-backed pacification under [[LiuXiu|光武帝刘秀]]. [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] now adds the earliest current political-advice layer: Geng Chun warns Liu Xiu that followers may disperse if the imperial title remains unsettled.
+耿纯 / Geng Chun is an Eastern Han commander whose current wiki profile joins battlefield strategic correction, accession counsel, coercive royal-kin preemption, and reputation-backed pacification under [[LiuXiu|光武帝刘秀]]. [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]] now supplies the earliest current advice layer: during the stalled Julu siege, Geng Chun urges Liu Xiu to strike Handan directly because Julu will submit once [[WangLangHebeiClaimant|王郎]] is removed.
 
 ## Current Profile
+
+Hanji 671 places Geng Chun inside Liu Xiu's Wang Lang campaign before Liu Xiu's accession. When the combined Liu Xiu and Gengshi forces remain stuck before Julu for more than a month, Geng Chun argues that the siege is draining morale and that the army should use its current momentum to attack Handan. Liu Xiu adopts the advice, leaves Deng Man to continue the Julu siege, and moves on Handan.
 
 Hanji 676 places Geng Chun inside Liu Xiu's accession sequence. After commanders repeatedly urge Liu Xiu to take the imperial title and he refuses, Geng Chun explains the follower-cohesion problem directly: soldiers and士大夫 have left kin and home because they expect to attach themselves to Liu Xiu's rising order and realize their ambitions. If Liu Xiu keeps delaying the title, disappointment could scatter them and make the coalition hard to reassemble.
 
@@ -24,15 +27,18 @@ That case is severe and bounded. Geng Chun's effectiveness lies in neutralizing 
 
 ## Key Characteristics
 
+- Battlefield adviser who tells Liu Xiu to leave the stalled Julu siege and strike Handan while morale is high.
 - Accession adviser who names follower ambition and coalition cohesion as reasons to settle Liu Xiu's title.
 - Guangwu-era commander acting under Liu Xiu's direct symbol and secret order.
 - Operator in the Zhending royal-kin threat case, where ordinary summons fail before covert action.
 - Uses respectful reception and meeting control to neutralize Liu Yang without a city battle.
 - Later source-scoped pacification figure associated with reputation-backed surrender in Dong commandery.
-- Current profile combines counsel, coercive preemption, and non-battle local order restoration.
+- Current profile combines battlefield correction, coalition counsel, coercive preemption, and non-battle local order restoration.
 
 ## Evidence
 
+- Handan-first advice: [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]] says Geng Chun argues that prolonged Julu siege is draining morale and that Liu Xiu should strike Handan directly.
+- Accepted strategic correction: [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]] says Liu Xiu adopts Geng Chun's advice and leaves Deng Man at Julu while marching on Handan.
 - Follower-expectation warning: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says Geng Chun warns Liu Xiu that followers joined him to attach themselves to a rising order and may scatter if the title remains undecided.
 - Secret mission: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Liu Xiu sends Geng Chun with authority through Youzhou and Jizhou while secretly ordering him to seize Liu Yang.
 - Meeting trap: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Geng Chun treats Liu Yang with courtesy, invites him to meet, and kills him and some brothers once Liu Yang arrives.
@@ -41,16 +47,19 @@ That case is severe and bounded. Geng Chun's effectiveness lies in neutralizing 
 
 ## Qualifications
 
-This page is intentionally narrow. Hanji 676 supports Geng Chun's accession counsel but not a full reconstruction of his private motives or role in the final enthronement ritual. Hanji 684 supports his role in Liu Yang's killing, while Hanji 707 gives only a compressed Dong commandery notice. Exact numbers, offices, and local actors remain source-scoped.
+This page is intentionally narrow. Hanji 671 supports Geng Chun's Julu-to-Handan advice but does not reconstruct the full siege map, Deng Man's command, or the precise battle sequence outside Handan. Hanji 676 supports Geng Chun's accession counsel but not a full reconstruction of his private motives or role in the final enthronement ritual. Hanji 684 supports his role in Liu Yang's killing, while Hanji 707 gives only a compressed Dong commandery notice. Exact numbers, offices, and local actors remain source-scoped.
 
 ## What Changed
 
+- Added Hanji 671 as Geng Chun's earliest current layer: strategic advice to abandon a draining Julu siege and attack Handan directly.
 - Added Hanji 676 as Geng Chun's accession-counsel layer.
 - Reframed the page from a two-mode pacification profile into a profile that also includes coalition-management advice before Liu Xiu's accession.
 
 ## Relationships
 
 - [[LiuXiu|光武帝刘秀]] - ruler whose title decision, secret order, and later succession judgment frame Geng Chun's current actions.
+- [[WangLangHebeiClaimant|王郎]] - campaign target whose removal Geng Chun treats as the key to making Julu submit.
+- [[LeaderWorthFollowingAssessment|值得追随的领导判断]] - related because Liu Xiu's acceptance of Geng Chun's advice is part of the episode's worth-following ruler test.
 - [[AccessionTimingCoalitionSignal|称帝时机与拥戴信号]] - concept directly illustrated by Geng Chun's warning that delayed title settlement can scatter followers.
 - [[LiuYangZhendingKingEasternHan|真定王刘杨]] - royal-kin claimant whose killing supplies Geng Chun's main coercive case.
 - [[RoyalKinTreasonLawBoundary|宗室谋逆法度边界]] - concept illustrated by the balance between preemptive killing and preserved Zhending succession.

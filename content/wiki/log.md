@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-03] ingest | 《资治通鉴·汉纪》671丨你的领导是否值得追随？进来对比下
+
+Ingested the 2026-06-10 芮淇讲透资治通鉴 episode backfilling Gengshi 2 / 24 CE before Hanji 672: Deng Yu's argument that Liu Xiu's rise depends on virtue and capacity rather than present territory, Kou Xun and Min Ye's Shanggu advice, Kou Xun and Wu Han's Yuyang brokerage, the Shanggu-Yuyang force's southward campaign, Jing Dan's cavalry role near Nanluan, Liu Xiu's immediate reward-and-command-retention policy, Geng Chun's Handan-first advice, and Wang Lang's failed surrender negotiation. Created the source note, `LeaderWorthFollowingAssessment`, and `JingDanEasternHan`; updated `BaoYongEasternHan`, `KouXunEasternHan`, `GengYanEasternHan`, `WuHanEasternHan`, `PengChongEasternHan`, `GengChunEasternHan`, `GengKuangEasternHan`, `WangLangHebeiClaimant`, `WangLiangEasternHan`, `DengYuEasternHan`, and `index`. No settled contradiction found; Lu Ping, Tian Yi, Min Ye, Ge Yan, Zhao Hong, Ma Chong, Liu Zhong, Ni Hong, Liu Feng, Deng Man, Du Wei, exact titles, county lists, force counts, and workplace-leadership framing remain source-scoped.
+
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳
 
 Ingested the 2026-06-12 芮淇讲透资治通鉴 episode backfilling Jianwu 1 / 25 CE before Hanji 682: Wei Xiao's Tianshui scholar reception and western reputation, Ma Yuan's hardship and wealth-distribution ethic, Dou Rong's Hexi five-commandery self-preservation bloc, and Lu Fang's false Liu/Xiongnu genealogy before Xiongnu installation as a rival "Han emperor." Created the source note and `RegionalSelfPreservationAlliance`; updated `WeiXiaoEasternHan`, `MaYuanEasternHan`, `DouRongEasternHan`, `LuFangEasternHan`, `RebelMandateManufacture`, `index`, and `overview`. No settled contradiction found; Liu Xuan, Lu Cheng, Fan Jun, Hunyewang ancestry, Julin/Gulin king, Zhangye shuguo troop numbers, and exact Qiang/Hu group identities remain source-scoped.
@@ -15099,3 +15103,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-03] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 16,991 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-09-02 with 16,930 nodes and 195,431 edges; current graph checks found no hub stubs, one fragile bridge, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider model/key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
