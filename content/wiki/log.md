@@ -15019,3 +15019,11 @@ Ingested the 2026-06-12 芮淇讲透资治通鉴 episode backfilling Jianwu 1 / 
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] ingest | All-In's Best Ideas Pitch Competition: 4 Investors Present Their Top Trades Live
+
+Ingested the 2026-06-12 All-In live pitch competition covering MGM Resorts hidden-asset value, Talon Energy power scarcity, Actus Oncology radiopharmaceutical optionality, and GeoNet RTK token economics. Added source `all-in-with-chamath-jason-sacks-friedberg-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live-41618530`; created `MGMResorts`, `TalonEnergy`, `ActusOncology`, `GeoNet`, `InvestmentPitchPositionSizing`, `HiddenAssetOptionality`, `PowerScarcityInfrastructureInvesting`, `BinaryBiotechPlatformOptionality`, `TokenRevenueBuybackModel`, and `RealTimeKinematicsLocationNetwork`; updated `PositionSizing`, `RadiopharmaceuticalDrugConjugates`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; company spellings, tickers, valuation scenarios, legal status, clinical timelines, customer references, and power-market forecasts remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

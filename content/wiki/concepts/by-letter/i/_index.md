@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6248
+wiki_total_pages: 6254
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -635,6 +635,9 @@ wiki_pages:
   - key: "InvestmentMasterNarrative"
     title: "Investment Master Narrative / 投资大师叙事"
     url: "/wiki/concepts/investmentmasternarrative/"
+  - key: "InvestmentPitchPositionSizing"
+    title: "Investment Pitch Position Sizing"
+    url: "/wiki/concepts/investmentpitchpositionsizing/"
   - key: "InvestmentPlanExecutionDiscipline"
     title: "Investment Plan Execution Discipline"
     url: "/wiki/concepts/investmentplanexecutiondiscipline/"

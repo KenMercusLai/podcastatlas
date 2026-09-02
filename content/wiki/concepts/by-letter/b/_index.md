@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6248
+wiki_total_pages: 6254
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "BinaryActionThinking"
     title: "Binary Action Thinking"
     url: "/wiki/concepts/binaryactionthinking/"
+  - key: "BinaryBiotechPlatformOptionality"
+    title: "Binary Biotech Platform Optionality"
+    url: "/wiki/concepts/binarybiotechplatformoptionality/"
   - key: "BingeReleaseModel"
     title: "Binge Release Model"
     url: "/wiki/concepts/bingereleasemodel/"

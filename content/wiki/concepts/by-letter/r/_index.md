@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6248
+wiki_total_pages: 6254
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "RealTimeInteractiveVideoGeneration"
     title: "Real-Time Interactive Video Generation"
     url: "/wiki/concepts/realtimeinteractivevideogeneration/"
+  - key: "RealTimeKinematicsLocationNetwork"
+    title: "Real-Time Kinematics Location Network"
+    url: "/wiki/concepts/realtimekinematicslocationnetwork/"
   - key: "RealTimeLivestreamLabor"
     title: "Real-Time Livestream Labor / 实时数据直播劳动"
     url: "/wiki/concepts/realtimelivestreamlabor/"

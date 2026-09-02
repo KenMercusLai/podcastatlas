@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8806
+wiki_total_pages: 8810
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "ActuarialDevelopment"
     title: "Actuarial Development"
     url: "/wiki/entities/actuarialdevelopment/"
+  - key: "ActusOncology"
+    title: "Actus Oncology"
+    url: "/wiki/entities/actusoncology/"
   - key: "AdaLovelace"
     title: "Ada Lovelace / 艾达·洛夫莱斯"
     url: "/wiki/entities/adalovelace/"

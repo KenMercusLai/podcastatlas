@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6248
+wiki_total_pages: 6254
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "TokenPerWatt"
     title: "Token per Watt"
     url: "/wiki/concepts/tokenperwatt/"
+  - key: "TokenRevenueBuybackModel"
+    title: "Token Revenue Buyback Model"
+    url: "/wiki/concepts/tokenrevenuebuybackmodel/"
   - key: "TokenTaxOnAI"
     title: "Token Tax On AI"
     url: "/wiki/concepts/tokentaxonai/"

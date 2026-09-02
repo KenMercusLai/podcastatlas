@@ -4,15 +4,15 @@ generated: true
 topic_id: business-and-markets
 title: "Business and Markets"
 last_updated: 2026-09-02
-as_of_overview_commit: 7374ace8484de6c0d67cdab39d1fac15039a49e5
-input_digest: 520096702901bec7bc30f788b92a0758587ab614b2920ea90366a6dc8bbddf86
+as_of_overview_commit: 4209aa95c83197ed9f12384f4afd9329d65523ae
+input_digest: 1216a60cd7de1def19465a1caae480c7946f01814bc05b41b6d5ae50aec3cc87
 ---
 
 # Business and Markets
 
 ## Current State
 
-The latest 声动早咖啡 fast-food episode adds a restaurant-localization branch: KFC sub-Saharan African advantage over McDonalds shows demand, protein cost, local poultry producers, beef standards, and South Africa platform effects can outweigh global brand scale. Across valuation, SaaS, creator marketing, retail, finance, AI infrastructure, consumer trust, robotics, and food service, business value survives when demand, distribution, payment proof, operating capacity, supply-chain fit, and risk discipline are visible.
+The latest All-In pitch competition adds deployable-capital discipline: MGM and Talon can be framed as larger hard-asset or value ideas, while Actus and GeoNet require smaller sizing because binary clinical, token-liquidity, legal, and market-impact risks dominate. Across valuation, SaaS, creator marketing, retail, finance, AI infrastructure, consumer trust, robotics, and food service, business value survives when demand, distribution, payment proof, operating capacity, supply-chain fit, and risk discipline are visible.
 
 ## Cross-source Findings
 
@@ -571,3 +571,15 @@ AI-market confidence spans [[Meta]] settlement exposure and teen-safety defaults
 - The evidence is one 声动早咖啡 episode and should not be treated as live store-count or market-share data.
 - The mechanism does not prove chicken always beats beef; income, urbanization, real estate, franchise quality, and local competitors remain underdeveloped in the source.
 - The short news items in the same paragraph are source-scoped and do not change the restaurant-localization claim.
+
+### Investment Pitches Need Deployable Capital Discipline
+
+[[all-in-with-chamath-jason-sacks-friedberg-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live-41618530|All-In's Best Ideas Pitch Competition]] adds a pitch-capacity branch: [[InvestmentPitchPositionSizing]] separates idea attractiveness from deployable capital by contrasting [[MGMResorts]] hidden-asset optionality and [[TalonEnergy]] power-scarcity infrastructure with [[ActusOncology]] binary biotech optionality and [[GeoNet]] token-revenue buyback economics, where [[PositionSizing]] must absorb clinical, token-liquidity, legal, market-impact, and downside risks.
+
+**Evidence:** [[all-in-with-chamath-jason-sacks-friedberg-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live-41618530]], [[InvestmentPitchPositionSizing]], [[MGMResorts]], [[HiddenAssetOptionality]], [[TalonEnergy]], [[PowerScarcityInfrastructureInvesting]], [[ActusOncology]], [[BinaryBiotechPlatformOptionality]], [[GeoNet]], [[TokenRevenueBuybackModel]], [[RealTimeKinematicsLocationNetwork]], [[PositionSizing]], [[RadiopharmaceuticalDrugConjugates]]
+
+**Qualifications:**
+
+- The pitch outcomes, company spellings, tickers, valuation cases, customer claims, legal treatment, clinical timelines, and power-market forecasts remain source-scoped to the All-In episode.
+- The claim compares idea quality with deployable capital; it is not a recommendation to buy the pitched securities or tokens.
+- The four pitches differ by asset class and liquidity, so the reusable lesson is position-sizing discipline rather than one valuation method.

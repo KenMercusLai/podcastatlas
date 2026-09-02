@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6248
+wiki_total_pages: 6254
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -914,6 +914,9 @@ wiki_pages:
   - key: "PowerMythDeflation"
     title: "Power Myth Deflation / 权力神话拆解"
     url: "/wiki/concepts/powermythdeflation/"
+  - key: "PowerScarcityInfrastructureInvesting"
+    title: "Power Scarcity Infrastructure Investing"
+    url: "/wiki/concepts/powerscarcityinfrastructureinvesting/"
   - key: "PowerUserDiscovery"
     title: "Power User Discovery"
     url: "/wiki/concepts/poweruserdiscovery/"

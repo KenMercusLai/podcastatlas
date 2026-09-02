@@ -5082,6 +5082,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ActusOncology": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AdaLovelace": [
     {
       "key": "technology",
@@ -10124,6 +10131,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "BinaryBiotechPlatformOptionality": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "BingMeigui": [
@@ -25627,6 +25641,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "GeoNet": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "GeoffHinton": [
     {
       "key": "technology",
@@ -28374,6 +28395,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "HiddenAssetOptionality": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "HighBandwidthFlash": [
@@ -31664,6 +31692,13 @@
     }
   ],
   "InvestmentMastersSeries": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "InvestmentPitchPositionSizing": [
     {
       "key": "economics",
       "label": "Economics",
@@ -37705,6 +37740,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "MGMResorts": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "MGX": [
@@ -47093,6 +47135,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "PowerScarcityInfrastructureInvesting": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "PowerViolenceDistinction": [
     {
       "key": "politics",
@@ -49760,6 +49814,13 @@
     }
   ],
   "RealTimeInteractiveVideoGeneration": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "RealTimeKinematicsLocationNetwork": [
     {
       "key": "technology",
       "label": "Technology",
@@ -58401,6 +58462,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "TalonEnergy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "TamenDeXing": [
     {
       "key": "culture",
@@ -60611,6 +60684,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "TokenRevenueBuybackModel": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "TokenTaxOnAI": [
@@ -68892,6 +68972,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live-41618530": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555": [

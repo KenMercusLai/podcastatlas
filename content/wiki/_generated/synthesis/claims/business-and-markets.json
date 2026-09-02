@@ -1271,9 +1271,35 @@
         "SouthAfrica",
         "Nandos"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "investment-pitches-need-deployable-capital-discipline",
+      "qualifications": [
+        "The pitch outcomes, company spellings, tickers, valuation cases, customer claims, legal treatment, clinical timelines, and power-market forecasts remain source-scoped to the All-In episode.",
+        "The claim compares idea quality with deployable capital; it is not a recommendation to buy the pitched securities or tokens.",
+        "The four pitches differ by asset class and liquidity, so the reusable lesson is position-sizing discipline rather than one valuation method."
+      ],
+      "statement": "[[all-in-with-chamath-jason-sacks-friedberg-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live-41618530|All-In's Best Ideas Pitch Competition]] adds a pitch-capacity branch: [[InvestmentPitchPositionSizing]] separates idea attractiveness from deployable capital by contrasting [[MGMResorts]] hidden-asset optionality and [[TalonEnergy]] power-scarcity infrastructure with [[ActusOncology]] binary biotech optionality and [[GeoNet]] token-revenue buyback economics, where [[PositionSizing]] must absorb clinical, token-liquidity, legal, market-impact, and downside risks.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "all-in-with-chamath-jason-sacks-friedberg-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live-41618530",
+        "InvestmentPitchPositionSizing",
+        "MGMResorts",
+        "HiddenAssetOptionality",
+        "TalonEnergy",
+        "PowerScarcityInfrastructureInvesting",
+        "ActusOncology",
+        "BinaryBiotechPlatformOptionality",
+        "GeoNet",
+        "TokenRevenueBuybackModel",
+        "RealTimeKinematicsLocationNetwork",
+        "PositionSizing",
+        "RadiopharmaceuticalDrugConjugates"
+      ]
     }
   ],
-  "input_digest": "520096702901bec7bc30f788b92a0758587ab614b2920ea90366a6dc8bbddf86",
-  "summary": "The latest 声动早咖啡 fast-food episode adds a restaurant-localization branch: KFC sub-Saharan African advantage over McDonalds shows demand, protein cost, local poultry producers, beef standards, and South Africa platform effects can outweigh global brand scale. Across valuation, SaaS, creator marketing, retail, finance, AI infrastructure, consumer trust, robotics, and food service, business value survives when demand, distribution, payment proof, operating capacity, supply-chain fit, and risk discipline are visible.",
+  "input_digest": "1216a60cd7de1def19465a1caae480c7946f01814bc05b41b6d5ae50aec3cc87",
+  "summary": "The latest All-In pitch competition adds deployable-capital discipline: MGM and Talon can be framed as larger hard-asset or value ideas, while Actus and GeoNet require smaller sizing because binary clinical, token-liquidity, legal, and market-impact risks dominate. Across valuation, SaaS, creator marketing, retail, finance, AI infrastructure, consumer trust, robotics, and food service, business value survives when demand, distribution, payment proof, operating capacity, supply-chain fit, and risk discipline are visible.",
   "topic_id": "business-and-markets"
 }

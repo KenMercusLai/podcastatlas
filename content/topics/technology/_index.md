@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2656
+topic_total_pages: 2660
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2824,6 +2824,9 @@ topic_concepts:
   - key: "PostSearchInternet"
     title: "Post-Search Internet"
     url: "/wiki/concepts/postsearchinternet/"
+  - key: "PowerScarcityInfrastructureInvesting"
+    title: "Power Scarcity Infrastructure Investing"
+    url: "/wiki/concepts/powerscarcityinfrastructureinvesting/"
   - key: "PrecisionAgriculture"
     title: "Precision Agriculture"
     url: "/wiki/concepts/precisionagriculture/"
@@ -2935,6 +2938,9 @@ topic_concepts:
   - key: "RealTimeInteractiveVideoGeneration"
     title: "Real-Time Interactive Video Generation"
     url: "/wiki/concepts/realtimeinteractivevideogeneration/"
+  - key: "RealTimeKinematicsLocationNetwork"
+    title: "Real-Time Kinematics Location Network"
+    url: "/wiki/concepts/realtimekinematicslocationnetwork/"
   - key: "RealTimeLivestreamLabor"
     title: "Real-Time Livestream Labor / 实时数据直播劳动"
     url: "/wiki/concepts/realtimelivestreamlabor/"
@@ -4604,6 +4610,9 @@ topic_entities:
   - key: "GeoffHinton"
     title: "Geoff Hinton"
     url: "/wiki/entities/geoffhinton/"
+  - key: "GeoNet"
+    title: "GeoNet"
+    url: "/wiki/entities/geonet/"
   - key: "GeorgeGeorgiadis"
     title: "George Georgiadis"
     url: "/wiki/entities/georgegeorgiadis/"
@@ -6074,6 +6083,9 @@ topic_entities:
   - key: "TalkSanlian"
     title: "Talk三联"
     url: "/wiki/entities/talksanlian/"
+  - key: "TalonEnergy"
+    title: "Talon Energy"
+    url: "/wiki/entities/talonenergy/"
   - key: "TangHaocheng"
     title: "Tang Haocheng"
     url: "/wiki/entities/tanghaocheng/"

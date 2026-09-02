@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [All-In's Best Ideas Pitch Competition: 4 Investors Present Their Top Trades Live](sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live-41618530.md) — All-In live pitch competition comparing MGM hidden assets, Talon power scarcity, Actus radiopharmaceutical optionality, GeoNet RTK token economics, and position-sizing constraints.
 - [《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂](sources/zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv.md) — Jianwu 1 Guangwu backfill on Deng Yu's Hedong victory, Chimei pressure on Chang'an, Gengshi generals' plunder-and-retreat plan, Liu Xuan's failed counter-trap, and Wei Xiao's escape to Tianshui.
 - [《资治通鉴·汉纪》678丨刘盆子：我的皇帝是抓阄来的！](sources/zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq.md) — Jianwu 1 Guangwu backfill on Chimei's shamanic and lottery-based selection of Liu Penzi, the boy's immediate figurehead status, Liu Xiu's appointment order, and Gengshi collapse at Chang'an.
 - [《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？](sources/zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb.md) — Jianwu 1 Guangwu episode on Zhu Wei's Luoyang surrender after Liu Xiu guarantees survival despite Liu Yan's murder, Zhuo Mao's virtue appointment, Du Shi's military-discipline enforcement, and Liu Xuan's contested protection under Chimei.
@@ -1881,6 +1882,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [MGM Resorts](entities/MGMResorts.md) — Casino operator framed by the All-In pitch as a hidden-asset value idea with Vegas, China, Osaka, Dubai, and loyalty-program optionality.
+- [Talon Energy](entities/TalonEnergy.md) — Source-spelled power producer pitched as a scarce baseload infrastructure bet for AI-era electricity demand.
+- [Actus Oncology](entities/ActusOncology.md) — Source-spelled oncology company pitched as a binary radiopharmaceutical platform with mini-protein delivery optionality.
+- [GeoNet](entities/GeoNet.md) — Decentralized RTK location network whose token economics are tied to enterprise location-data revenue and token buybacks.
 - [Zhu Wei / 朱鲔 (Eastern Han)](entities/ZhuWeiEasternHan.md) — Luoyang holdout whose surrender tests Liu Xiu's promise to spare a former enemy tied to Liu Yan's death.
 - [Zhuo Mao / 卓茂 (Eastern Han)](entities/ZhuoMaoEasternHan.md) — Elder virtue-official whom Liu Xiu elevates as a founding-order moral exemplar.
 - [Liu Gong / 刘公 (Eastern Han)](entities/LiuGongEasternHan.md) — Liu Penzi's kinsman and Gengshi loyalist who protects Liu Xuan through surrender, body concealment, and later revenge memory.
@@ -10691,6 +10696,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Investment Pitch Position Sizing](concepts/InvestmentPitchPositionSizing.md) — Pitch-evaluation discipline that separates idea attractiveness from capital capacity, downside, liquidity, and market impact.
+- [Hidden Asset Optionality](concepts/HiddenAssetOptionality.md) — Investment pattern where underappreciated assets, approvals, real estate, databases, or jurisdictional shifts create upside beyond headline earnings.
+- [Power Scarcity Infrastructure Investing](concepts/PowerScarcityInfrastructureInvesting.md) — Hard-asset investment frame where constrained baseload power, replacement cost, and long-term buyers support valuation under AI demand.
+- [Binary Biotech Platform Optionality](concepts/BinaryBiotechPlatformOptionality.md) — Biotech investment pattern where a cash-funded platform has discontinuous upside if one program works but severe failure and dilution risk.
+- [Token Revenue Buyback Model](concepts/TokenRevenueBuybackModel.md) — Crypto-economic model where operating revenue is converted into token demand through protocol or foundation buybacks.
+- [Real-Time Kinematics Location Network](concepts/RealTimeKinematicsLocationNetwork.md) — RTK location infrastructure model for centimeter-grade positioning built from distributed base stations and customer data services.
 - [Protein Supply Chain Market Fit / 蛋白质供应链市场匹配](concepts/ProteinSupplyChainMarketFit.md) — Alignment among protein preference, ingredient cost, supplier standards, processing capacity, and fast-food brand identity.
 - [Selective Anthem Canonization](concepts/SelectiveAnthemCanonization.md) — Settlement where a state retains an anthem tradition but makes only part of it publicly authoritative.
 - [归降信任崩塌 / Surrender Trust Breakdown](concepts/SurrenderTrustBreakdown.md) — Submission failure pattern where intermediary defection, property theft, suspicious messaging, and uncertainty turn planned surrender into renewed rebellion.

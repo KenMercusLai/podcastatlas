@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8806
+wiki_total_pages: 8810
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "TalkSanlian"
     title: "Talk三联"
     url: "/wiki/entities/talksanlian/"
+  - key: "TalonEnergy"
+    title: "Talon Energy"
+    url: "/wiki/entities/talonenergy/"
   - key: "TamaraClay"
     title: "Tamara Clay"
     url: "/wiki/entities/tamaraclay/"

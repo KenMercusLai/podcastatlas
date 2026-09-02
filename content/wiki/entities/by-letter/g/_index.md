@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8806
+wiki_total_pages: 8810
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "GeoffreyWinthropYoung"
     title: "Geoffrey Winthrop Young"
     url: "/wiki/entities/geoffreywinthropyoung/"
+  - key: "GeoNet"
+    title: "GeoNet"
+    url: "/wiki/entities/geonet/"
   - key: "GeorgSimmel"
     title: "Georg Simmel / 齐美尔"
     url: "/wiki/entities/georgsimmel/"

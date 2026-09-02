@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "5971c94722f613e3c9321da1e76173682c5437619cbda835c3252cf86210ab18",
       "46ec1a2537e63930c3c0010d7f9860f384666a3c1e841d715255cf312ea28808",
       "168daccffb284a5b9633e213615b38963505f1df3b3022ddd2bc3f69074bfef8",
       "201d62600598920da514186fc0028618b319f100e606c5a7074ad973c92381e0",
@@ -510,11 +511,39 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 508
+    "paragraph_count": 509
   },
-  "overview_commit": "ca33b1df113bee82e00094c42347e0b4e7163b9f",
-  "overview_digest": "a3333b44b079906e055ae6dd9294d8419865494014d08da256fcca3d3cd6478c",
+  "overview_commit": "4209aa95c83197ed9f12384f4afd9329d65523ae",
+  "overview_digest": "0cc682ec3e44f1b356ae7168a6510c9479564523549232fc00a7d9946a1ed8d5",
   "paragraphs": [
+    {
+      "id": "5971c94722f613e3c9321da1e76173682c5437619cbda835c3252cf86210ab18",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live-41618530|All-In's Best Ideas Pitch Competition]], a [[AllIn|All-In]] live pitch episode comparing four investable ideas across downside, catalysts, liquidity, and position size. It adds [[MGMResorts]], [[TalonEnergy]], [[ActusOncology]], [[GeoNet]], [[InvestmentPitchPositionSizing]], [[HiddenAssetOptionality]], [[PowerScarcityInfrastructureInvesting]], [[BinaryBiotechPlatformOptionality]], [[TokenRevenueBuybackModel]], and [[RealTimeKinematicsLocationNetwork]], while extending [[PositionSizing]] and [[RadiopharmaceuticalDrugConjugates]]. Its core synthesis is that pitch quality must be separated from deployable capital: MGM and Talon are framed as larger, downside-supported or hard-asset ideas, while Actus and GeoNet carry more discontinuous clinical, token-liquidity, legal, or market-impact risk. No settled contradiction is recorded; source-spelled company names, tickers, valuation scenarios, customer claims, legal treatment, clinical timelines, and power-market forecasts remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 5,
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "ActusOncology",
+        "AllIn",
+        "BinaryBiotechPlatformOptionality",
+        "GeoNet",
+        "HiddenAssetOptionality",
+        "InvestmentPitchPositionSizing",
+        "MGMResorts",
+        "PositionSizing",
+        "PowerScarcityInfrastructureInvesting",
+        "RadiopharmaceuticalDrugConjugates",
+        "RealTimeKinematicsLocationNetwork",
+        "TalonEnergy",
+        "TokenRevenueBuybackModel",
+        "all-in-with-chamath-jason-sacks-friedberg-all-ins-best-ideas-pitch-competition-4-investors-present-their-top-trades-live-41618530"
+      ]
+    },
     {
       "id": "46ec1a2537e63930c3c0010d7f9860f384666a3c1e841d715255cf312ea28808",
       "primary_topic": "history-and-geopolitics",

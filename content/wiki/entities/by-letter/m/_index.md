@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8806
+wiki_total_pages: 8810
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -683,6 +683,9 @@ wiki_pages:
   - key: "Mexico"
     title: "Mexico"
     url: "/wiki/entities/mexico/"
+  - key: "MGMResorts"
+    title: "MGM Resorts"
+    url: "/wiki/entities/mgmresorts/"
   - key: "MGX"
     title: "MGX"
     url: "/wiki/entities/mgx/"
