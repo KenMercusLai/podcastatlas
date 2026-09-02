@@ -13119,9 +13119,9 @@
       "url": "/wiki/entities/doumueasternhan/"
     },
     "DouRongEasternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年 [lisegz1IA5nAJEWgHXaqirKAFvUP].md",
@@ -13171,9 +13171,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳 [ltapKzkJGRXlZI3G4OfOnhP0ZZVi].md",
+          "key": "zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/dourongeasternhan/"
     },
     "DouWuLateHan": {
@@ -32670,9 +32677,9 @@
       "url": "/wiki/concepts/loyaltycollateraldilemma/"
     },
     "LuFangEasternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？ [liKQ4paHQ21k6bxbAOHwDHcNWg5r].md",
@@ -32708,9 +32715,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳 [ltapKzkJGRXlZI3G4OfOnhP0ZZVi].md",
+          "key": "zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/lufangeasternhan/"
     },
     "LuGongLateHan": {
@@ -34053,9 +34067,9 @@
       "url": "/wiki/entities/maxulatehan/"
     },
     "MaYuanEasternHan": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂 [ltjL2bGpyyz1bMwE_4mfCYd9E6cf].md",
@@ -34147,6 +34161,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》691丨敢夺江山的隗嚣，为何注定输给刘秀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳 [ltapKzkJGRXlZI3G4OfOnhP0ZZVi].md",
+          "key": "zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi/"
         }
       ],
       "updated": "2026-09-02",
@@ -42243,9 +42264,9 @@
       "url": "/wiki/concepts/realworldassettokenizationrisk/"
     },
     "RebelMandateManufacture": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》128-7｜刘邦和项羽有何不同？ [llWcqaTNdck4ZitA2pIuFwhjPxP1].md",
@@ -42274,6 +42295,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳 [ltapKzkJGRXlZI3G4OfOnhP0ZZVi].md",
+          "key": "zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi/"
         }
       ],
       "updated": "2026-09-02",
@@ -42572,6 +42600,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/regimesymbolcontinuity/"
+    },
+    "RegionalSelfPreservationAlliance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳 [ltapKzkJGRXlZI3G4OfOnhP0ZZVi].md",
+          "key": "zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/regionalselfpreservationalliance/"
     },
     "RegistryBasedPoliticalExclusion": {
       "episode_count": 1,
@@ -52936,9 +52980,9 @@
       "url": "/wiki/entities/weitenglatehan/"
     },
     "WeiXiaoEasternHan": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -53030,6 +53074,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳 [ltapKzkJGRXlZI3G4OfOnhP0ZZVi].md",
+          "key": "zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi/"
         }
       ],
       "updated": "2026-09-02",

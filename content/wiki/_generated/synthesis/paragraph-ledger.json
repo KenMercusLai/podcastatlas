@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "201d62600598920da514186fc0028618b319f100e606c5a7074ad973c92381e0",
       "cb2248895f6a13f4a480d0865020335c0f30ea6801397617236d26a54ea9cace",
       "7827ee72c32e6ef25350ad736e02a2a9b486267138e0d9733e632f0f1831754b",
       "9eb70e1ea6fe89aabc151042f3e3e37b6a215f75972df7e4d8be87226172b7b2",
@@ -507,11 +508,35 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 505
+    "paragraph_count": 506
   },
-  "overview_commit": "037c0c748a59c43a882ecc3566ef0a544f4bfa01",
-  "overview_digest": "2ae700ba2dc32d3a8fa02956eecca17f7ad0e952700b314c504a24d6bb23f824",
+  "overview_commit": "d68ce133f5d451dc57a3aac96f4a8ef28914069e",
+  "overview_digest": "8ec8a41e9cc976b654dd2cb20c31715701daa3e46c7782dfca7000a38746c4ec",
   "paragraphs": [
+    {
+      "id": "201d62600598920da514186fc0028618b319f100e606c5a7074ad973c92381e0",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 1 / 25 CE before [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]]. It adds [[RegionalSelfPreservationAlliance|区域自保联盟]], while extending [[WeiXiaoEasternHan|隗嚣]], [[MaYuanEasternHan|马援]], [[DouRongEasternHan|窦融]], [[LuFangEasternHan|卢芳]], [[RebelMandateManufacture|起义天命制造]], [[Xiongnu|匈奴]], [[SecurityForAuthorityExchange|交权换安全]], and [[XingshiqingStrategicAssessment|行势情战略评估]]. Its core synthesis is that Jianwu 1 frontier politics turns legitimacy and geography into survival infrastructure: Wei Xiao uses respectful reception to attract scholars, Ma Yuan's early hardship and wealth-distribution ethic explain the later frontier persona, Dou Rong builds a Hexi five-commandery self-preservation bloc before submission, and Xiongnu weaponizes Lu Fang's false Liu/Xiongnu genealogy by installing him as a rival \"Han emperor.\" No settled contradiction is recorded; Liu Xuan, Lu Cheng, Fan Jun, Hunyewang ancestry, Julin/Gulin king, Zhangye shuguo troop numbers, and exact Qiang/Hu group identities remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "DouRongEasternHan",
+        "LuFangEasternHan",
+        "MaYuanEasternHan",
+        "RebelMandateManufacture",
+        "RegionalSelfPreservationAlliance",
+        "RuiqiJiangtouZizhiTongjian",
+        "SecurityForAuthorityExchange",
+        "WeiXiaoEasternHan",
+        "XingshiqingStrategicAssessment",
+        "Xiongnu",
+        "zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi",
+        "zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv"
+      ]
+    },
     {
       "id": "cb2248895f6a13f4a480d0865020335c0f30ea6801397617236d26a54ea9cace",
       "primary_topic": "business-and-markets",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6247
+wiki_total_pages: 6248
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -227,6 +227,9 @@ wiki_pages:
   - key: "RegionalNetworkTopologyRisk"
     title: "Regional Network Topology Risk"
     url: "/wiki/concepts/regionalnetworktopologyrisk/"
+  - key: "RegionalSelfPreservationAlliance"
+    title: "Regional Self-Preservation Alliance / 区域自保联盟"
+    url: "/wiki/concepts/regionalselfpreservationalliance/"
   - key: "RegistryBasedPoliticalExclusion"
     title: "Registry-Based Political Exclusion / 登记造册式政治禁锢"
     url: "/wiki/concepts/registrybasedpoliticalexclusion/"

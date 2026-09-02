@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-02] ingest | 《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳
+
+Ingested the 2026-06-12 芮淇讲透资治通鉴 episode backfilling Jianwu 1 / 25 CE before Hanji 682: Wei Xiao's Tianshui scholar reception and western reputation, Ma Yuan's hardship and wealth-distribution ethic, Dou Rong's Hexi five-commandery self-preservation bloc, and Lu Fang's false Liu/Xiongnu genealogy before Xiongnu installation as a rival "Han emperor." Created the source note and `RegionalSelfPreservationAlliance`; updated `WeiXiaoEasternHan`, `MaYuanEasternHan`, `DouRongEasternHan`, `LuFangEasternHan`, `RebelMandateManufacture`, `index`, and `overview`. No settled contradiction found; Liu Xuan, Lu Cheng, Fan Jun, Hunyewang ancestry, Julin/Gulin king, Zhangye shuguo troop numbers, and exact Qiang/Hu group identities remain source-scoped.
+
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》685丨东汉大臣宋弘，为何不肯做光武帝姐夫？
 
 Ingested the 2026-06-13 芮淇讲透资治通鉴 episode backfilling Jianwu 2 / 26 CE around Song Hong's Da Sikong appointment, Huan Tan music-favor correction, Princess Huyang marriage test, and Peng Chong's reward grievance, Yuyang resource base, Zhu Fu conflict, summons suspicion, and first rebellion move. Created the source note; updated `SongHongEasternHan`, `HuanTanEasternHan`, `HuyangPrincessEasternHan`, `ZhuFuEasternHan`, `GengKuangEasternHan`, `PengChongEasternHan`, `CoercedImperialMarriage`, `FoundingCommanderSuspicionManagement`, `ReceptiveRemonstranceGovernance`, `index`, and `overview`. No settled contradiction found; Yuyang, Ji, Peng Chong's wife and persuading kinsman, and exact office mechanics remain source-scoped.
@@ -14971,6 +14975,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] ingest | EP 42: When AI Meets Robotics: Building Machines That Care
 
 Ingested the 2026-06-13 Data Science With Sam episode with Mohammad H. Mahoor on Ryan, Dream Face Technologies, artificial emotional intelligence, social robotics in elder care, LLM-enabled robot conversation, dignity, consent, privacy, clinical-pilot attachment, and care augmentation. Added source `ep-42-when-ai-meets-robotics-building-machines-that-care`; created `MohammadMahoor`, `RyanSocialRobot`, `DreamFaceTechnologies`, `UniversityOfDenver`, `ArtificialEmotionalIntelligence`, and `SocialRoboticsElderCare`; updated `AIAndRoboticElderCareLimits`, `CompanionRobots`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; technical architecture, clinical outcome strength, company scale, and full guest biography remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 

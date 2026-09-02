@@ -4,17 +4,29 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-02
-as_of_overview_commit: 0b97064206b131826b49dfb2c0204251ee918132
-input_digest: 8652f5bc1bcbf133cd14412c577723f3e160a4bca35e6ff20733b2cfc9878c0c
+as_of_overview_commit: d68ce133f5d451dc57a3aac96f4a8ef28914069e
+input_digest: 2a443d726f846b45d07d772a7fd197b7ae0faf0450679eef12ad1b044a64bcbc
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 685 adds a source-scoped Guangwu governance frame before the later consolidation branches: Song Hong's correction of Huan Tan and accepted refusal of Princess Huyang show remonstrance and restraint working inside court favor, while Peng Chong's reward grievance, Yuyang resources, Zhu Fu conflict, summons suspicion, and Geng Kuang's refusal show how local autonomy can become rebellion risk. Hanji 699 PLUS still supplies the broader ruler-capacity frame: Liu Xiu is read through Taixue learning, broad personnel use, Wang Lang letter-burning trust repair, non-purge treatment of merit holders, and cultivation as the condition for turning ability into stable rule. The existing governance synthesis still centers on legitimacy and institutional capacity: surrender credibility, frontier diplomacy, office quality, correction mechanisms, legal and biometric boundaries, health-product identity, disaster response, sport institutions, ritual institutions, and public symbols are treated as capacity problems rather than isolated policy events. The German anthem episode adds a public-symbol governance case in which state continuity depends on selective convention: Germany keeps Das Lied der Deutschen by making the third verse the singable national settlement after Nazi contamination and division-era alternatives.
+Hanji 681 adds a source-scoped Jianwu 1 governance baseline before the later Guangwu consolidation branches: legitimacy and geography become survival infrastructure through Wei Xiao's respectful scholar reception, Ma Yuan's hardship and wealth-distribution ethic, Dou Rong's Hexi five-commandery self-preservation bloc, and Xiongnu's use of Lu Fang's false genealogy as proxy claimant legitimacy. Hanji 685 still adds a Guangwu court-governance frame where Song Hong's correction of Huan Tan and refusal of Princess Huyang show remonstrance and restraint working inside court favor, while Peng Chong's reward grievance, Yuyang resources, Zhu Fu conflict, summons suspicion, and Geng Kuang's refusal show how local autonomy can become rebellion risk. The existing governance synthesis continues to center on legitimacy and institutional capacity: surrender credibility, frontier diplomacy, office quality, correction mechanisms, legal and biometric boundaries, health-product identity, disaster response, sport institutions, ritual institutions, and public symbols are treated as capacity problems rather than isolated policy events.
 
 ## Cross-source Findings
+
+### Early Eastern Han 681 Frontier Legitimacy And Regional Self Preservation
+
+[[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] adds a Jianwu 1 governance baseline before later Guangwu consolidation: [[WeiXiaoEasternHan]] turns respectful reception into a temporary talent-attraction field, [[MaYuanEasternHan]]'s hardship and wealth-distribution ethic explains the later frontier persona, [[DouRongEasternHan]] and [[RegionalSelfPreservationAlliance]] make Hexi security a five-commandery compact, and [[LuFangEasternHan]] / [[RebelMandateManufacture]] show [[Xiongnu]] weaponizing false Liu genealogy as proxy claimant legitimacy.
+
+**Evidence:** [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi]], [[WeiXiaoEasternHan]], [[MaYuanEasternHan]], [[DouRongEasternHan]], [[RegionalSelfPreservationAlliance]], [[LuFangEasternHan]], [[RebelMandateManufacture]], [[Xiongnu]], [[SecurityForAuthorityExchange]], [[XingshiqingStrategicAssessment]], [[RuiqiJiangtouZizhiTongjian]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 681 as a Jianwu 1 backfill before Hanji 682 and the later Wei Xiao, Dou Rong, Ma Yuan, and Lu Fang branches.
+- Liu Xuan, Lu Cheng, Fan Jun, Hunyewang ancestry, Julin/Gulin king, Zhangye shuguo troop numbers, and exact Qiang/Hu identities remain source-scoped.
+- Lu Fang's Liu and Xiongnu genealogy is treated as claimant manufacture reported by the source, not as accepted ancestry.
 
 ### German Anthem Selective Canonization Symbol Governance
 
