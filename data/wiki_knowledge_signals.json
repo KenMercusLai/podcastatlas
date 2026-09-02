@@ -8211,9 +8211,9 @@
       "url": "/wiki/entities/chesterwilliams/"
     },
     "ChimeiRebellion": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -8270,6 +8270,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》678丨刘盆子：我的皇帝是抓阄来的！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂 [lu8hiZIgjKQePs6ULQFQW9GFxnkV].md",
+          "key": "zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv/"
         }
       ],
       "updated": "2026-09-02",
@@ -12105,9 +12112,9 @@
       "url": "/wiki/entities/dengxuneasternhan/"
     },
     "DengYuEasternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
@@ -12157,6 +12164,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂 [lu8hiZIgjKQePs6ULQFQW9GFxnkV].md",
+          "key": "zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv/"
         }
       ],
       "updated": "2026-09-02",
@@ -31865,9 +31879,9 @@
       "url": "/wiki/entities/liuxiu/"
     },
     "LiuXuanGengshiEmperor": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？ [lurTvFqErB0VF3A33msmd_TxR9Pv].md",
@@ -31896,6 +31910,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂 [lu8hiZIgjKQePs6ULQFQW9GFxnkV].md",
+          "key": "zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv/"
         }
       ],
       "updated": "2026-09-02",
@@ -48747,6 +48768,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/suspiciongeneratedrebellion/"
     },
+    "SuspicionTriggeredCommandMutiny": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？ [ljJT1t2mK77si6re_-WEW_hPl8qZ].md",
+          "key": "zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂 [lu8hiZIgjKQePs6ULQFQW9GFxnkV].md",
+          "key": "zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/suspiciontriggeredcommandmutiny/"
+    },
     "SustainableHealthOptimization": {
       "episode_count": 3,
       "show_count": 1,
@@ -53131,9 +53175,9 @@
       "url": "/wiki/entities/weitenglatehan/"
     },
     "WeiXiaoEasternHan": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》708丨祭遵病逝，为何引发百官惊恐？ [lhFuVJyIiiRlAF-ugRuFkASpUaUq].md",
@@ -53232,6 +53276,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳",
           "url": "/wiki/sources/zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂 [lu8hiZIgjKQePs6ULQFQW9GFxnkV].md",
+          "key": "zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv/"
         }
       ],
       "updated": "2026-09-02",

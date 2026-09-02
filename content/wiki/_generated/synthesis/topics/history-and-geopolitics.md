@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-02
-as_of_overview_commit: d3ae7e7cf70d8911f43996fd425941e08b8bea6c
-input_digest: cb3ff54a40cfc0cbfc767d5968d395a98bf84166b8a5d0cc5d2e69436f64a726
+as_of_overview_commit: ca33b1df113bee82e00094c42347e0b4e7163b9f
+input_digest: 9280f4e615024d0f426e4183b2bb15271720f20e5f144ed2e5524a881a8b2714
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 685 now adds the earliest current Guangwu/Jianwu 2 layer: Song Hong's Da Sikong appointment, Huan Tan correction, accepted Princess Huyang marriage refusal, and Peng Chong's unrewarded Youzhou resource base show moral restraint and rebellion risk forming before the later Chimei and Peng Chong endgame branches. Hanji 687 adds the adjacent Guanzhong layer: Chimei grave looting and the source-scoped Lu Hou corpse tradition mark ritual collapse, Deng Yu already shows command deterioration under famine pressure, Wu Han's rough Nanyang conduct helps trigger Deng Feng rebellion, and Liu Xiu centers surrender-first pacification through Feng Yi before the Hanji 688 final Chimei settlement. Hanji 688 then adds Jianwu 3 defeat, mass surrender, provisioning, Fu Long's Zhang Bu mission, and Peng Chong's exposed Yan claim; Hanji 689-1 continues the adjacent Wei Xiao courtship and multi-front cleanup layer. Hanji 689-2 and Hanji 689-3 separately form a Western Han/Niya-Jingjue evidence layer through Han documents, Niya ruins, Kharosthi materials, the five-star brocade, omen politics, Western Regions diplomacy, and qualified multi-cause decline. The Germany anthem episode adds a European historical-memory branch where Haydn melody and Hoffmann liberal lyrics move through Weimar, Nazi, West/East German, and reunification contexts, turning public anthem use into a selective-continuity problem.
+Hanji 677 now adds the earliest current Guangwu/Jianwu 1 layer before the Chimei occupation branch: Deng Yu's Hedong recovery sends military pressure back toward Chang'an, Chimei pressure at Zheng/Huayin makes Liu Xuan's generals propose plunder and retreat, and Liu Xuan's failed counter-trap turns palace suspicion into assault while Wei Xiao exits toward Tianshui. Hanji 680-688 then continue the adjacent Chimei, Liu Xuan, Deng Yu, Feng Yi, and surrender-settlement sequence, while Hanji 689-1 and later episodes extend the Wei Xiao courtship, western alignment, and Guangwu cleanup arcs. Hanji 689-2 and Hanji 689-3 separately form a Western Han/Niya-Jingjue evidence layer through Han documents, Niya ruins, Kharosthi materials, the five-star brocade, omen politics, Western Regions diplomacy, and qualified multi-cause decline. Later Hanji branches track Eastern Han frontier, court, eunuch, outer-relative, and command failures across the Zhangdi, He, An, Shun, Huan, Ling, Dong Zhuo, Cao Cao, Yuan Shao, Jiangdong, and Guandu sequences. Outside Han materials, the Germany anthem, Mayerling, Jefferson, Washington, Mandela, Dutch Revolt, Mussolini World Cup, and other history episodes add historical-memory and geopolitics cases where symbols, legitimacy, infrastructure, and crisis leadership remain source-scoped.
 
 ## Cross-source Findings
+
+### Early Eastern Han 677 Gengshi Command Collapse Before Chimei Entry
+
+[[zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv|Hanji 677]] backfills Jianwu 1 / 25 CE before [[zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq|Hanji 678]] and [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]]: [[DengYuEasternHan]] recovers Hedong pressure for Guangwu, [[ChimeiRebellion]] pressure near Zheng and Huayin makes [[LiuXuanGengshiEmperor]]'s commanders propose plundering [[ChangAnHanCapital]] and retreating, and Liu Xuan's failed summons turns elite distrust into palace assault while [[WeiXiaoEasternHan]] exits toward Tianshui. The source strengthens [[SuspicionTriggeredCommandMutiny]] and [[CourtFeedbackCollapse]] by placing Gengshi collapse before Chimei's formal Chang'an entry.
+
+**Evidence:** [[zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv]], [[RuiqiJiangtouZizhiTongjian]], [[zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq]], [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv]], [[LiuXuanGengshiEmperor]], [[DengYuEasternHan]], [[ChimeiRebellion]], [[WeiXiaoEasternHan]], [[SuspicionTriggeredCommandMutiny]], [[CourtFeedbackCollapse]], [[ChangAnHanCapital]], [[WangKuangLateHan]]
+
+**Qualifications:**
+
+- The source is a chronological backfill before Hanji 678 and Hanji 680, so it adjusts the starting point of the Gengshi-Chimei collapse arc without reversing the later Changle Palace, Liu Xuan death, or Chimei surrender evidence.
+- Wang Kuang is kept distinct from the later WangKuangLateHan route; Zhang Ang, Liao Zhan, Hu Yin, Shentu Jian, Chen Mu, Cheng Dan, Liu Jun, Fan Can, Yang Bao, and exact local details remain source-scoped.
+- The palace-collapse interpretation depends on the source note and topic paragraph, not on a broader claim that every Gengshi commander defected for the same motive.
 
 ### German Anthem History Memory And Selective Continuity
 

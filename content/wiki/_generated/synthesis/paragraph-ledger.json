@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "46ec1a2537e63930c3c0010d7f9860f384666a3c1e841d715255cf312ea28808",
       "168daccffb284a5b9633e213615b38963505f1df3b3022ddd2bc3f69074bfef8",
       "201d62600598920da514186fc0028618b319f100e606c5a7074ad973c92381e0",
       "cb2248895f6a13f4a480d0865020335c0f30ea6801397617236d26a54ea9cace",
@@ -509,11 +510,33 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 507
+    "paragraph_count": 508
   },
-  "overview_commit": "9b99d0b511baa3d881a6855d7aa5f3a78a60e36b",
-  "overview_digest": "3c710b6482822d0af98b82442439ef57eab0bcb88d83d88ad235b621be74976a",
+  "overview_commit": "ca33b1df113bee82e00094c42347e0b4e7163b9f",
+  "overview_digest": "a3333b44b079906e055ae6dd9294d8419865494014d08da256fcca3d3cd6478c",
   "paragraphs": [
+    {
+      "id": "46ec1a2537e63930c3c0010d7f9860f384666a3c1e841d715255cf312ea28808",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv|《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 1 / 25 CE immediately before [[zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq|Hanji 678]] and [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]]. It extends [[LiuXuanGengshiEmperor|更始帝刘玄]], [[DengYuEasternHan|邓禹]], [[ChimeiRebellion|赤眉]], [[WeiXiaoEasternHan|隗嚣]], and [[SuspicionTriggeredCommandMutiny|猜疑触发的部下倒戈]]. Its core synthesis is that Gengshi collapse begins before Chimei formally enters [[ChangAnHanCapital|长安]]: Deng Yu's Hedong recovery sends pressure back toward the capital, Chimei pressure near Zheng and Huayin makes Zhang Ang's group seek plunder and retreat, and Liu Xuan's failed counter-trap turns suspicion into palace assault while Wei Xiao exits toward Tianshui. No settled contradiction is recorded; Wang Kuang is kept distinct from later [[WangKuangLateHan|王匡]], and minor commanders and local details remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ChangAnHanCapital",
+        "ChimeiRebellion",
+        "DengYuEasternHan",
+        "LiuXuanGengshiEmperor",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuspicionTriggeredCommandMutiny",
+        "WangKuangLateHan",
+        "WeiXiaoEasternHan",
+        "zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv",
+        "zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq",
+        "zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv"
+      ]
+    },
     {
       "id": "168daccffb284a5b9633e213615b38963505f1df3b3022ddd2bc3f69074bfef8",
       "primary_topic": "history-and-geopolitics",

@@ -15011,3 +15011,11 @@ Ingested the 2026-06-12 芮淇讲透资治通鉴 episode backfilling Jianwu 1 / 
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] ingest | 《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂
+
+Ingested the 2026-06-12 芮淇讲透资治通鉴 episode backfilling Jianwu 1 / 25 CE around Deng Yu's Hedong victory, Chimei pressure on Chang'an, Zhang Ang's plunder-and-retreat proposal, Liu Xuan's failed counter-trap against dissenting Gengshi generals, and Wei Xiao's exit toward Tianshui. Added source `zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv`; updated `LiuXuanGengshiEmperor`, `DengYuEasternHan`, `ChimeiRebellion`, `WeiXiaoEasternHan`, `SuspicionTriggeredCommandMutiny`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Wang Kuang is kept distinct from later `WangKuangLateHan`, and Zhang Ang, Liao Zhan, Hu Yin, Shentu Jian, Chen Mu, Cheng Dan, Zhao Meng, Fan Can, Yang Bao, and local place details remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
