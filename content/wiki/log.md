@@ -14796,6 +14796,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-02] ingest | Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing
+
+Ingested the 2026-06-11 Huberman Lab Essentials episode on optimizing sleep as a 24-hour timing system. Added source `essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468`; created `SleepWakeTimingToolkit`, `SleepTemperatureToolkit`, `CaffeineAdenosineSleepTiming`, `SubstanceSleepArchitectureBoundary`, `SleepSupplementBoundary`, and `TemperatureMinimumClockShifting`; updated `HubermanLab`, `AndrewHuberman`, `SleepAsDailyHealthAccount`, `MorningLightCircadianAnchoring`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; supplement, melatonin, THC, red-light, caffeine, sauna, cold-exposure, jet-lag, and shift-work claims remain source-scoped public education rather than individualized sleep-medicine advice.
+
 ## [2026-09-02] ingest | Right in front: AfD could win German state
 
 Ingested the 2026-09-02 The Intelligence episode on AfD's possible Saxony-Anhalt majority, Palantir's British public-service data tradeoffs, and Chinese premium chocolate localization. Added source `right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f`; created `UlrichSiegmund`, `SaxonyAnhalt`, `MetropolitanPolice`, `SadiqKhan`, `ChocRevive`, `Nibbo`, `SaturnBird`, `Ferrero`, `BrandmauerCordonSanitaire`, `FarRightStateGovernanceTest`, `RemigrationPolitics`, `PublicServiceDataPlatformTradeoff`, `PublicSectorVendorDependence`, and `ChinesePremiumChocolateLocalization`; updated `AlternativeForGermany`, `Germany`, `Palantir`, `NHS`, `GeorgiaBanjo`, `FarRightNormalization`, `PublicServiceDigitalization`, `GovernmentEnterpriseProcurement`, `DigitalSovereignty`, `CultureLedFoodAdoption`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the Saxony-Anhalt election outcome, fiscal estimates, Palantir productivity statistics, NHS extra-operations figure, and Chinese chocolate expansion targets remain source-scoped.
@@ -15075,6 +15079,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] ingest | Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28
 
 Ingested the 2026-09-02 What's Next｜科技早知道 episode with Zhou Jiangong on Google DeepMind's reported leadership reshuffle, Demis Hassabis's reported move away from daily operations, Jeff Dean's reported Discovery Loop departure, Gemini/coding-agent pressure, DeepMind-Google organizational friction, and China/open-model competition. Added source `hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6`; created `GoogleDeepMindOrganizationalFriction`; updated `GoogleDeepMind`, `DemisHassabis`, `JeffDean`, `DiscoveryLoop`, `DavidSilver`, `JohnJumper`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source-named "Norm Salzer" identity, Hassabis motive, Discovery Loop domain, Gemini timing, stock reaction, and personnel causality remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-02] lint | Wiki health check
 

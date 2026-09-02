@@ -3023,9 +3023,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 22,
+      "episode_count": 23,
       "show_count": 1,
-      "source_note_count": 22,
+      "source_note_count": 23,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -3180,6 +3180,13 @@
           "show": "Huberman Lab",
           "title": "The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf",
           "url": "/wiki/sources/the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099/"
+        },
+        {
+          "episode_file": "SCIM6408620468 [SCIM6408620468].md",
+          "key": "essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468",
+          "show": "Huberman Lab",
+          "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
         }
       ],
       "updated": "2026-09-02",
@@ -6380,6 +6387,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/codis/"
+    },
+    "CaffeineAdenosineSleepTiming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6408620468 [SCIM6408620468].md",
+          "key": "essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468",
+          "show": "Huberman Lab",
+          "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/caffeineadenosinesleeptiming/"
     },
     "CaiLunLateHan": {
       "episode_count": 4,
@@ -25379,9 +25402,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 22,
+      "episode_count": 23,
       "show_count": 1,
-      "source_note_count": 22,
+      "source_note_count": 23,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -25536,6 +25559,13 @@
           "show": "Huberman Lab",
           "title": "The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf",
           "url": "/wiki/sources/the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099/"
+        },
+        {
+          "episode_file": "SCIM6408620468 [SCIM6408620468].md",
+          "key": "essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468",
+          "show": "Huberman Lab",
+          "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
         }
       ],
       "updated": "2026-09-02",
@@ -37376,9 +37406,9 @@
       "url": "/wiki/concepts/moralpresencewithoutoffice/"
     },
     "MorningLightCircadianAnchoring": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -37386,9 +37416,16 @@
           "show": "Huberman Lab",
           "title": "Your Top Health Questions Answered",
           "url": "/wiki/sources/your-top-health-questions-answered-scim2882548864/"
+        },
+        {
+          "episode_file": "SCIM6408620468 [SCIM6408620468].md",
+          "key": "essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468",
+          "show": "Huberman Lab",
+          "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/morninglightcircadiananchoring/"
     },
     "MosquitoBitePrevention": {
@@ -47671,9 +47708,9 @@
       "url": "/wiki/concepts/slaverynationalidentitycontradiction/"
     },
     "SleepAsDailyHealthAccount": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 6,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -47716,9 +47753,16 @@
           "show": "Huberman Lab",
           "title": "Your Top Health Questions Answered",
           "url": "/wiki/sources/your-top-health-questions-answered-scim2882548864/"
+        },
+        {
+          "episode_file": "SCIM6408620468 [SCIM6408620468].md",
+          "key": "essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468",
+          "show": "Huberman Lab",
+          "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/sleepasdailyhealthaccount/"
     },
     "SleepImmuneRepair": {
@@ -47736,6 +47780,54 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/sleepimmunerepair/"
+    },
+    "SleepSupplementBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6408620468 [SCIM6408620468].md",
+          "key": "essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468",
+          "show": "Huberman Lab",
+          "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/sleepsupplementboundary/"
+    },
+    "SleepTemperatureToolkit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6408620468 [SCIM6408620468].md",
+          "key": "essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468",
+          "show": "Huberman Lab",
+          "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/sleeptemperaturetoolkit/"
+    },
+    "SleepWakeTimingToolkit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6408620468 [SCIM6408620468].md",
+          "key": "essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468",
+          "show": "Huberman Lab",
+          "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/sleepwaketimingtoolkit/"
     },
     "SlightlyHarderChoice": {
       "episode_count": 1,
@@ -49372,6 +49464,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/subconsciouscreativeincubation/"
+    },
+    "SubstanceSleepArchitectureBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6408620468 [SCIM6408620468].md",
+          "key": "essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468",
+          "show": "Huberman Lab",
+          "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/substancesleeparchitectureboundary/"
     },
     "SuccessfulAging": {
       "episode_count": 1,
@@ -51096,6 +51204,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/telemachus/"
+    },
+    "TemperatureMinimumClockShifting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6408620468 [SCIM6408620468].md",
+          "key": "essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468",
+          "show": "Huberman Lab",
+          "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/temperatureminimumclockshifting/"
     },
     "TemporaryFamilyHealing": {
       "episode_count": 1,

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c2862271dcae2ab66874c6ed54d5d25c5e6d4232daab44b43e5b42d7d5ebd167",
       "0d3384021bd06ab6ee583487ff9323bb8b81afa72a8563c05186baf485a076f8",
       "bd3a57574d3a1034587cd3edf2334598c319c12d2fc76e75bc977d55a3868bd2",
       "5971c94722f613e3c9321da1e76173682c5437619cbda835c3252cf86210ab18",
@@ -513,11 +514,41 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 511
+    "paragraph_count": 512
   },
-  "overview_commit": "1d9333c81a58fb836e93d81a45c8bf3c77cf031c",
-  "overview_digest": "8b3a4c1dfc45019821c3027925b60f558c408af5df59e091cc4e1f3b852f830f",
+  "overview_commit": "ce6303b8c4199b222444ad6606bd7fdaa48d502b",
+  "overview_digest": "cfdb811e4f91cbfa9e60dc26684ace84378a225b092bb9b03a5321a440de5700",
   "paragraphs": [
+    {
+      "id": "c2862271dcae2ab66874c6ed54d5d25c5e6d4232daab44b43e5b42d7d5ebd167",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468|Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing]], a [[HubermanLab]] Essentials episode with [[AndrewHuberman]] on sleep as a 24-hour timing system. It adds [[SleepWakeTimingToolkit]], [[SleepTemperatureToolkit]], [[CaffeineAdenosineSleepTiming]], [[SubstanceSleepArchitectureBoundary]], [[SleepSupplementBoundary]], and [[TemperatureMinimumClockShifting]], while extending [[SleepAsDailyHealthAccount]], [[MorningLightCircadianAnchoring]], [[SustainableHealthOptimization]], [[EnvironmentOverWillpower]], [[StateDependentSelfControl]], and [[MedicalRiskManagement]]. Its core synthesis is that sleep quality is shaped less by one bedtime trick than by coordinated daily cues: morning outdoor light, late-day sunlight, evening darkness, temperature direction, caffeine delay, alcohol/THC sleep-architecture caution, supplement hierarchy, melatonin caution, consistent wake times, and phase-shifting around the temperature minimum. No settled contradiction is recorded; supplement, melatonin, THC, red-light, caffeine, sauna, cold-exposure, jet-lag, and shift-work claims remain source-scoped public education rather than individualized sleep-medicine advice.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 3,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "CaffeineAdenosineSleepTiming",
+        "EnvironmentOverWillpower",
+        "HubermanLab",
+        "MedicalRiskManagement",
+        "MorningLightCircadianAnchoring",
+        "SleepAsDailyHealthAccount",
+        "SleepSupplementBoundary",
+        "SleepTemperatureToolkit",
+        "SleepWakeTimingToolkit",
+        "StateDependentSelfControl",
+        "SubstanceSleepArchitectureBoundary",
+        "SustainableHealthOptimization",
+        "TemperatureMinimumClockShifting",
+        "essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468"
+      ]
+    },
     {
       "id": "0d3384021bd06ab6ee583487ff9323bb8b81afa72a8563c05186baf485a076f8",
       "primary_topic": "ai-and-technology",

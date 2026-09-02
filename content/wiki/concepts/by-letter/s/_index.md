@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6265
+wiki_total_pages: 6271
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -671,6 +671,15 @@ wiki_pages:
   - key: "SleepImmuneRepair"
     title: "Sleep Immune Repair"
     url: "/wiki/concepts/sleepimmunerepair/"
+  - key: "SleepSupplementBoundary"
+    title: "Sleep Supplement Boundary"
+    url: "/wiki/concepts/sleepsupplementboundary/"
+  - key: "SleepTemperatureToolkit"
+    title: "Sleep Temperature Toolkit"
+    url: "/wiki/concepts/sleeptemperaturetoolkit/"
+  - key: "SleepWakeTimingToolkit"
+    title: "Sleep-Wake Timing Toolkit"
+    url: "/wiki/concepts/sleepwaketimingtoolkit/"
   - key: "SleepWellPortfolioTest"
     title: "Sleep-Well Portfolio Test / 睡眠理论"
     url: "/wiki/concepts/sleepwellportfoliotest/"
@@ -1517,6 +1526,9 @@ wiki_pages:
   - key: "SubstanceAndExtension"
     title: "Substance And Extension"
     url: "/wiki/concepts/substanceandextension/"
+  - key: "SubstanceSleepArchitectureBoundary"
+    title: "Substance Sleep Architecture Boundary"
+    url: "/wiki/concepts/substancesleeparchitectureboundary/"
   - key: "SubstitutionalEscapeSacrifice"
     title: "Substitutional Escape Sacrifice / 代身突围牺牲"
     url: "/wiki/concepts/substitutionalescapesacrifice/"

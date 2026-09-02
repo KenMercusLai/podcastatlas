@@ -4,17 +4,29 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-02
-as_of_overview_commit: 16709938eda03d629cb82b519ff5da44145bb6a1
-input_digest: 7eb949675c3a3b2397e7e0d7c16c6447631e157a4cc31b6dd1d2f01f51bf7120
+as_of_overview_commit: ce6303b8c4199b222444ad6606bd7fdaa48d502b
+input_digest: 827b4a630510e5369378f5a0d01fc7c6a9bfab8ad017d89100a601453f9968f5
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science-health-and-climate joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: mechanism, measurement, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Health branches cover CGM and GLP-1 boundaries, headphone exposure, sugar and functional-food literacy, flexible sleep/circadian/recovery fundamentals, hormone phenotyping, exercise and flexibility safety, diagnostic safety netting, spine rehabilitation, metabolic psychiatry, bipolar and OCD care, bite escalation, individualized cancer vaccines, companion-animal welfare, and evidence-bounded body-composition fundamentals. The nonclinical strands apply the same boundary logic to Himalayan glacial floods, space launch capacity, reusable rockets, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped cultivation or historical health claims. Andy Stumpf adds a public-conversation boundary for social-media attention, substance risk, cold stress, mental-health disclosure, and extreme-environment risk, treated as source-scoped rather than medical, psychiatric, addiction, or sport instruction.
+Science-health-and-climate joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: mechanism, measurement, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Health branches cover CGM and GLP-1 boundaries, headphone exposure, sugar and functional-food literacy, 24-hour sleep-wake timing through light, temperature, caffeine, substance, supplement, and phase-shifting boundaries, flexible sleep/circadian/recovery fundamentals, hormone phenotyping, exercise and flexibility safety, diagnostic safety netting, spine rehabilitation, metabolic psychiatry, bipolar and OCD care, bite escalation, individualized cancer vaccines, companion-animal welfare, and evidence-bounded body-composition fundamentals. The nonclinical strands apply the same boundary logic to Himalayan glacial floods, space launch capacity, reusable rockets, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped cultivation or historical health claims. Andy Stumpf adds a public-conversation boundary for social-media attention, substance risk, cold stress, mental-health disclosure, and extreme-environment risk, treated as source-scoped rather than medical, psychiatric, addiction, or sport instruction.
 
 ## Cross-source Findings
+
+### Sleep Timing Needs Coordinated Daily Cues
+
+[[SleepWakeTimingToolkit]] extends [[SleepAsDailyHealthAccount]] by treating sleep quality as a coordinated 24-hour cue system: [[MorningLightCircadianAnchoring]], [[SleepTemperatureToolkit]], [[CaffeineAdenosineSleepTiming]], [[SubstanceSleepArchitectureBoundary]], [[SleepSupplementBoundary]], and [[TemperatureMinimumClockShifting]] connect light, temperature, caffeine, substances, supplements, wake consistency, and phase shifting to sleep while [[MedicalRiskManagement]], [[SustainableHealthOptimization]], [[EnvironmentOverWillpower]], and [[StateDependentSelfControl]] keep the toolkit bounded as public education rather than individualized sleep medicine.
+
+**Evidence:** [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]], [[SleepWakeTimingToolkit]], [[SleepAsDailyHealthAccount]], [[MorningLightCircadianAnchoring]], [[SleepTemperatureToolkit]], [[CaffeineAdenosineSleepTiming]], [[SubstanceSleepArchitectureBoundary]], [[SleepSupplementBoundary]], [[TemperatureMinimumClockShifting]], [[MedicalRiskManagement]], [[SustainableHealthOptimization]], [[EnvironmentOverWillpower]], [[StateDependentSelfControl]], [[HubermanLab]], [[AndrewHuberman]]
+
+**Qualifications:**
+
+- The episode is public sleep and circadian education, not individualized sleep-medicine, pediatric, occupational, jet-lag, shift-work, psychiatric, supplement, or prescribing advice.
+- Morning light, late-day light, evening darkness, temperature tools, caffeine delay, red light, cold exposure, sauna or baths, naps, and phase-shifting around the temperature minimum remain source-scoped and context-dependent.
+- Alcohol, THC, melatonin, magnesium threonate, apigenin, and theanine are treated through sleep-architecture, hormone, side-effect, and clinician-supervision boundaries rather than as universal protocols.
 
 ### Metabolic Tools Need Indication Context And Maintenance Boundaries
 

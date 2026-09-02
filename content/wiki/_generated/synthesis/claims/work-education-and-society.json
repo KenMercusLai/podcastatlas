@@ -2,6 +2,32 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "sleep-routines-are-daily-work-infrastructure",
+      "qualifications": [
+        "This is a secondary work-and-society reading of a public sleep episode, not employment, occupational-safety, shift-work, jet-lag, or individualized medical advice.",
+        "The main evidence belongs to the health topic; the work relevance is limited to schedules, alertness, recovery, travel, and shift-work constraints.",
+        "Caffeine timing, red-light use, temperature tools, naps, supplements, melatonin, alcohol, THC, sauna, cold exposure, and phase-shifting examples remain source-scoped."
+      ],
+      "statement": "[[SleepWakeTimingToolkit]] enters work-and-society as daily infrastructure rather than productivity doctrine: [[MorningLightCircadianAnchoring]], [[SleepTemperatureToolkit]], [[CaffeineAdenosineSleepTiming]], and [[TemperatureMinimumClockShifting]] show that wake schedules, travel, shift work, caffeine, light, and temperature can affect alertness and recovery, while [[EnvironmentOverWillpower]], [[StateDependentSelfControl]], [[SustainableHealthOptimization]], and [[MedicalRiskManagement]] keep the advice adaptable and clinically bounded.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468",
+        "SleepWakeTimingToolkit",
+        "MorningLightCircadianAnchoring",
+        "SleepTemperatureToolkit",
+        "CaffeineAdenosineSleepTiming",
+        "TemperatureMinimumClockShifting",
+        "EnvironmentOverWillpower",
+        "StateDependentSelfControl",
+        "SustainableHealthOptimization",
+        "MedicalRiskManagement",
+        "SleepAsDailyHealthAccount",
+        "HubermanLab",
+        "AndrewHuberman"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "audio-work-habits-need-health-boundaries",
       "qualifications": [
         "This is a secondary work-and-society reading of a public otolaryngology episode, not workplace safety law, employment advice, or individualized medical guidance.",
@@ -838,8 +864,8 @@
       ]
     }
   ],
-  "input_digest": "bc9d1a4460245c7a0efc76e4fbd0d57681eb95598cf3f74e266c01722e2bcd9c",
-  "summary": "VOL.208 adds a narrow worker/listener health-boundary edge: headphone-heavy podcast listening and editing become work-and-society material when volume, duration, sudden audio peaks, noisy environments, device fit, canal pressure, hygiene, and warning symptoms shape whether a media habit becomes a health risk. Hanji 697 adds a source-scoped institution and role-boundary analogy: Taixue restoration, Feng Yi trust under accusation, Zhang Bu constrained settlement, and Wei Xiao ritual overreach show civil order and role clarity after campaign closure. Hanji 703 adds a source-scoped work-and-society analogy about talent use and role clarity: useful allegiance is rewarded and deployed, while ambiguous allegiance is pressured into public decisions. Hanji 705-5 and Hanji 705-6 together add a source-scoped Eastern Han gendered education and historiography case: [[BanZhaoLateHan]] now links Ban-family learning, [[BanGuEasternHan]] unfinished `Han Shu`, [[EmperorHeOfHan]] Dongguan commission, palace teaching, advice to [[EmpressDowagerDengLateHan]], memorial advocacy for [[BanChaoEasternHan]], [[MaRongLateHan]] student layer, [[BanJieyuWesternHan]] memory, [[CourtWomenHistoriography]], and the disputed [[NujieGenderNormTransmission]] afterlife. [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds an AI education qualification: AI help needs active transfer into exam performance rather than homework shortcuts. The broader topic continues to show work, education, and social capacity as institution-bound rather than trait-bound: Hanji 725-813 and 1056-1060 treat office roles, family status, counsel, succession, reputation, and access channels as sources of capability or exposure; modern workplace and labor sources connect boundaries, evidence, hidden rules, bullying, clerical organizing, creator monetization, finance-career risk, and lifestyle cost discipline; education sources emphasize self-testing, effort, fieldwork, mastery, motivation, and builder practice; AI, product, and creative-work sources show adoption requiring workflow fit, trust, distribution, verification, embodied judgment, and human taste; health and exercise sources frame public education through need assessment, risk boundaries, and clinical limits. Across the input, durable agency comes from grounded feedback loops, social trust, realistic constraints, and environments that let people act well rather than from hype, rank, followers, fluent answers, or capability claims alone. The Ring privacy episode adds a society-facing technology-adoption branch: domestic AI cameras move toward public-safety workflows only when household consent, user key control, optional sharing, and future-use anxieties are recognized.",
+  "input_digest": "01454e107170ac84eb7eb7179b919a6ed54d7b277e8378795d5022e3d0b5e955",
+  "summary": "The sleep toolkit adds a narrow work-and-society edge: wake-time consistency, morning and evening light, caffeine delay, temperature cues, naps, and phase-shifting practices shape alertness and recovery under ordinary schedules, travel, or shift work, but remain public health education rather than workplace prescription. VOL.208 adds a worker/listener health-boundary edge: headphone-heavy podcast listening and editing become work-and-society material when volume, duration, sudden audio peaks, noisy environments, device fit, canal pressure, hygiene, and warning symptoms shape whether a media habit becomes a health risk. Hanji 697 adds a source-scoped institution and role-boundary analogy: Taixue restoration, Feng Yi trust under accusation, Zhang Bu constrained settlement, and Wei Xiao ritual overreach show civil order and role clarity after campaign closure. Hanji 703 adds a source-scoped work-and-society analogy about talent use and role clarity: useful allegiance is rewarded and deployed, while ambiguous allegiance is pressured into public decisions. Hanji 705-5 and Hanji 705-6 together add a source-scoped Eastern Han gendered education and historiography case: [[BanZhaoLateHan]] now links Ban-family learning, [[BanGuEasternHan]] unfinished `Han Shu`, [[EmperorHeOfHan]] Dongguan commission, palace teaching, advice to [[EmpressDowagerDengLateHan]], memorial advocacy for [[BanChaoEasternHan]], [[MaRongLateHan]] student layer, [[BanJieyuWesternHan]] memory, [[CourtWomenHistoriography]], and the disputed [[NujieGenderNormTransmission]] afterlife. [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds an AI education qualification: AI help needs active transfer into exam performance rather than homework shortcuts. The broader topic continues to show work, education, and social capacity as institution-bound rather than trait-bound: Hanji 725-813 and 1056-1060 treat office roles, family status, counsel, succession, reputation, and access channels as sources of capability or exposure; modern workplace and labor sources connect boundaries, evidence, hidden rules, bullying, clerical organizing, creator monetization, finance-career risk, and lifestyle cost discipline; education sources emphasize self-testing, effort, fieldwork, mastery, motivation, and builder practice; AI, product, and creative-work sources show adoption requiring workflow fit, trust, distribution, verification, embodied judgment, and human taste; health and exercise sources frame public education through need assessment, risk boundaries, and clinical limits. Across the input, durable agency comes from grounded feedback loops, social trust, realistic constraints, and environments that let people act well rather than from hype, rank, followers, fluent answers, or capability claims alone. The Ring privacy episode adds a society-facing technology-adoption branch: domestic AI cameras move toward public-safety workflows only when household consent, user key control, optional sharing, and future-use anxieties are recognized.",
   "title": "Work, Education, and Society",
   "topic_id": "work-education-and-society"
 }

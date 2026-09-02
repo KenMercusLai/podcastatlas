@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6265
+wiki_total_pages: 6271
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "TemperateDrinkingSelfControl"
     title: "Temperate Drinking Self-Control / 节制饮酒与自我控制"
     url: "/wiki/concepts/temperatedrinkingselfcontrol/"
+  - key: "TemperatureMinimumClockShifting"
+    title: "Temperature Minimum Clock Shifting"
+    url: "/wiki/concepts/temperatureminimumclockshifting/"
   - key: "TemporaryFamilyHealing"
     title: "Temporary Family Healing / 临时家庭式修复"
     url: "/wiki/concepts/temporaryfamilyhealing/"
