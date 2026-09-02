@@ -4,17 +4,29 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-02
-as_of_overview_commit: 0070dee2cb11d008513ea920654cf569e5000853
-input_digest: 68b72c7106b4f860c400b1120247f814aaeccc8200a56b49b55032a3fbbf4815
+as_of_overview_commit: 39901a21d56bed15bac92d89960387be954186f3
+input_digest: 44f8a839e3d0bcbc42453562e0f6ae27efef9aad4854f490ca253ce8327da954
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 676 adds the earliest current Guangwu accession-governance layer before the already generated Jianwu 1 collapse sequence: letter exposure turns a wavering enemy channel into Luoyang camp suspicion, Wen/Pingyin victory and Jia Fu wound management connect battlefield success to command cohesion, and Geng Chun, Feng Yi, and Qiang Hua make accession timing a coalition and symbolic-warrant problem. The existing governance synthesis continues to center on legitimacy and institutional capacity: surrender credibility, frontier diplomacy, office quality, correction mechanisms, legal and biometric boundaries, health-product identity, disaster response, sport institutions, ritual institutions, and public symbols are treated as capacity problems rather than isolated policy events.
+Britain anthem episode adds a governance-symbol case to the existing claims: God Save the King works less through statute than through convention, origin ambiguity, dynastic repurposing, and monarchy-under-law language, while England and Scotland football anthem choices expose state and constituent-nation identity as different institutional layers. The existing governance synthesis continues to center on legitimacy and institutional capacity: Eastern Han accession and frontier management, surrender credibility, office quality, correction mechanisms, legal and biometric boundaries, health-product identity, disaster response, sport institutions, ritual institutions, and public symbols are treated as capacity problems rather than isolated policy events.
 
 ## Cross-source Findings
+
+### British Anthem Convention And Constituent Nation Symbol Governance
+
+[[678-britain-god-save-the-king-part-2-glt2603959218|Britain: God Save the King]] adds a public-symbol governance case in which [[GodSaveTheKing|God Save the King]] gains authority through convention, ambiguous origin, 1745 [[Jacobitism|Jacobite]] repurposing, and monarchy-under-law language rather than statute, while [[England]] and [[Scotland]] football anthem choices make [[UnitedKingdom|UK]] state identity and [[ConstituentNationSportingIdentity|constituent-nation sporting identity]] separate institutional layers.
+
+**Evidence:** [[678-britain-god-save-the-king-part-2-glt2603959218]], [[GodSaveTheKing]], [[Jacobitism]], [[England]], [[Scotland]], [[UnitedKingdom]], [[ConstituentNationSportingIdentity]], [[FlowerOfScotland]], [[JerusalemHymn]], [[NationalAnthemPoliticalPlasticity]], [[RegimeSymbolContinuity]], [[TheRestIsHistory]]
+
+**Qualifications:**
+
+- The claim is source-scoped to one The Rest Is History episode and does not settle full anthem law, authorship, or all lyric variants.
+- The episode treats pre-1745 Stuart/Jacobite use, composer theories, Scottish nationalist attitudes, and football-association adoption details as uncertain or source-bounded.
+- The governance mechanism is symbolic convention and institutional layering, not evidence that anthem choice alone determines constitutional status.
 
 ### Early Eastern Han 676 Letter Exposure And Accession Governance
 

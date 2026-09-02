@@ -10000,6 +10000,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/consortiogroupfinancing/"
     },
+    "ConstituentNationSportingIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2603959218 [GLT2603959218].md",
+          "key": "678-britain-god-save-the-king-part-2-glt2603959218",
+          "show": "The Rest Is History",
+          "title": "678. Britain: God Save the King (Part 2)",
+          "url": "/wiki/sources/678-britain-god-save-the-king-part-2-glt2603959218/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/constituentnationsportingidentity/"
+    },
     "ConsumerAIHardwareProductFit": {
       "episode_count": 3,
       "show_count": 2,
@@ -19087,6 +19103,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/flowclutchlearningdistinction/"
     },
+    "FlowerOfScotland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2603959218 [GLT2603959218].md",
+          "key": "678-britain-god-save-the-king-part-2-glt2603959218",
+          "show": "The Rest Is History",
+          "title": "678. Britain: God Save the King (Part 2)",
+          "url": "/wiki/sources/678-britain-god-save-the-king-part-2-glt2603959218/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/flowerofscotland/"
+    },
     "FoodPleasureEngineering": {
       "episode_count": 2,
       "show_count": 2,
@@ -21865,6 +21897,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/goalkeeperembodiedjudgment/"
+    },
+    "GodSaveTheKing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2603959218 [GLT2603959218].md",
+          "key": "678-britain-god-save-the-king-part-2-glt2603959218",
+          "show": "The Rest Is History",
+          "title": "678. Britain: God Save the King (Part 2)",
+          "url": "/wiki/sources/678-britain-god-save-the-king-part-2-glt2603959218/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/godsavetheking/"
     },
     "GoguryeoLateHan": {
       "episode_count": 3,
@@ -27501,6 +27549,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/jdcom/"
     },
+    "Jacobitism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2603959218 [GLT2603959218].md",
+          "key": "678-britain-god-save-the-king-part-2-glt2603959218",
+          "show": "The Rest Is History",
+          "title": "678. Britain: God Save the King (Part 2)",
+          "url": "/wiki/sources/678-britain-god-save-the-king-part-2-glt2603959218/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/jacobitism/"
+    },
     "JamesCallender": {
       "episode_count": 1,
       "show_count": 1,
@@ -27677,6 +27741,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/jenniferking/"
+    },
+    "JerusalemHymn": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2603959218 [GLT2603959218].md",
+          "key": "678-britain-god-save-the-king-part-2-glt2603959218",
+          "show": "The Rest Is History",
+          "title": "678. Britain: God Save the King (Part 2)",
+          "url": "/wiki/sources/678-britain-god-save-the-king-part-2-glt2603959218/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/jerusalemhymn/"
     },
     "JiTongEasternHan": {
       "episode_count": 3,
@@ -37766,9 +37846,9 @@
       "url": "/wiki/entities/natesilver/"
     },
     "NationalAnthemPoliticalPlasticity": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -37790,6 +37870,13 @@
           "show": "The Rest Is History",
           "title": "679. Germany: The Song Hitler Stole (Part 3)",
           "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        },
+        {
+          "episode_file": "GLT2603959218 [GLT2603959218].md",
+          "key": "678-britain-god-save-the-king-part-2-glt2603959218",
+          "show": "The Rest Is History",
+          "title": "678. Britain: God Save the King (Part 2)",
+          "url": "/wiki/sources/678-britain-god-save-the-king-part-2-glt2603959218/"
         }
       ],
       "updated": "2026-09-02",
@@ -44122,9 +44209,9 @@
       "url": "/wiki/concepts/regencyundercompoundcrisis/"
     },
     "RegimeSymbolContinuity": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -44146,6 +44233,13 @@
           "show": "The Rest Is History",
           "title": "679. Germany: The Song Hitler Stole (Part 3)",
           "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        },
+        {
+          "episode_file": "GLT2603959218 [GLT2603959218].md",
+          "key": "678-britain-god-save-the-king-part-2-glt2603959218",
+          "show": "The Rest Is History",
+          "title": "678. Britain: God Save the King (Part 2)",
+          "url": "/wiki/sources/678-britain-god-save-the-king-part-2-glt2603959218/"
         }
       ],
       "updated": "2026-09-02",
@@ -46303,6 +46397,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/scorchedearthsupplydenial/"
+    },
+    "Scotland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2603959218 [GLT2603959218].md",
+          "key": "678-britain-god-save-the-king-part-2-glt2603959218",
+          "show": "The Rest Is History",
+          "title": "678. Britain: God Save the King (Part 2)",
+          "url": "/wiki/sources/678-britain-god-save-the-king-part-2-glt2603959218/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/scotland/"
     },
     "ScottBessent": {
       "episode_count": 4,
@@ -51468,9 +51578,9 @@
       "url": "/wiki/entities/theodyssey/"
     },
     "TheRestIsHistory": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 1,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -51611,6 +51721,13 @@
           "show": "The Rest Is History",
           "title": "679. Germany: The Song Hitler Stole (Part 3)",
           "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        },
+        {
+          "episode_file": "GLT2603959218 [GLT2603959218].md",
+          "key": "678-britain-god-save-the-king-part-2-glt2603959218",
+          "show": "The Rest Is History",
+          "title": "678. Britain: God Save the King (Part 2)",
+          "url": "/wiki/sources/678-britain-god-save-the-king-part-2-glt2603959218/"
         }
       ],
       "updated": "2026-09-02",

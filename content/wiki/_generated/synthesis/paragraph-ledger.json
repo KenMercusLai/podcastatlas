@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "bb866cb9429a6a98da447fe67d4ce23a9585ffe79983474390538f7000317fe9",
       "c2862271dcae2ab66874c6ed54d5d25c5e6d4232daab44b43e5b42d7d5ebd167",
       "0d3384021bd06ab6ee583487ff9323bb8b81afa72a8563c05186baf485a076f8",
       "bd3a57574d3a1034587cd3edf2334598c319c12d2fc76e75bc977d55a3868bd2",
@@ -514,11 +515,35 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 512
+    "paragraph_count": 513
   },
-  "overview_commit": "ce6303b8c4199b222444ad6606bd7fdaa48d502b",
-  "overview_digest": "cfdb811e4f91cbfa9e60dc26684ace84378a225b092bb9b03a5321a440de5700",
+  "overview_commit": "39901a21d56bed15bac92d89960387be954186f3",
+  "overview_digest": "7b10f334086ee7378b076d206d45f698b4fb83c47d5532ff513e3646888825dd",
   "paragraphs": [
+    {
+      "id": "bb866cb9429a6a98da447fe67d4ce23a9585ffe79983474390538f7000317fe9",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[678-britain-god-save-the-king-part-2-glt2603959218|678. Britain: God Save the King (Part 2)]], a [[TheRestIsHistory]] episode on [[GodSaveTheKing|God Save the King]] as [[UnitedKingdom|Britain]]'s convention-based and origin-ambiguous anthem. It adds [[GodSaveTheKing]], [[Scotland]], [[FlowerOfScotland]], [[JerusalemHymn]], [[Jacobitism]], and [[ConstituentNationSportingIdentity]], while extending [[TheRestIsHistory]], [[NationalAnthemPoliticalPlasticity]], and [[RegimeSymbolContinuity]]. Its core synthesis is that Britain's anthem survives through ambiguity and repurposing: possible Stuart/Jacobite associations become Hanoverian loyalist ceremony in 1745, nonspecific monarch language lets the song move across rulers, a law-defending verse supports a monarchy-under-law reading, and football exposes the difference between UK state identity and England/Scotland sporting identity. No settled contradiction is recorded; composer theories, exact pre-1745 use, Scottish nationalist attitudes, and sporting anthem adoption details remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "678-britain-god-save-the-king-part-2-glt2603959218",
+        "ConstituentNationSportingIdentity",
+        "FlowerOfScotland",
+        "GodSaveTheKing",
+        "Jacobitism",
+        "JerusalemHymn",
+        "NationalAnthemPoliticalPlasticity",
+        "RegimeSymbolContinuity",
+        "Scotland",
+        "TheRestIsHistory",
+        "UnitedKingdom"
+      ]
+    },
     {
       "id": "c2862271dcae2ab66874c6ed54d5d25c5e6d4232daab44b43e5b42d7d5ebd167",
       "primary_topic": "science-health-and-climate",

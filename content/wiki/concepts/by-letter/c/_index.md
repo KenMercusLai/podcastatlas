@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6271
+wiki_total_pages: 6272
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1256,6 +1256,9 @@ wiki_pages:
   - key: "ConstantPropertyConstantHeart"
     title: "Constant Property, Constant Heart / 有恒产者有恒心"
     url: "/wiki/concepts/constantpropertyconstantheart/"
+  - key: "ConstituentNationSportingIdentity"
+    title: "Constituent Nation Sporting Identity"
+    url: "/wiki/concepts/constituentnationsportingidentity/"
   - key: "ConstitutionalRobustness"
     title: "Constitutional Robustness"
     url: "/wiki/concepts/constitutionalrobustness/"

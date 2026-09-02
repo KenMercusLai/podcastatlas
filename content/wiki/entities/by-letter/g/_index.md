@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8827
+wiki_total_pages: 8832
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "GoCyberAcademy"
     title: "GoCyber Academy"
     url: "/wiki/entities/gocyberacademy/"
+  - key: "GodSaveTheKing"
+    title: "God Save the King / Queen"
+    url: "/wiki/entities/godsavetheking/"
   - key: "GoFundMe"
     title: "GoFundMe"
     url: "/wiki/entities/gofundme/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [678. Britain: God Save the King (Part 2)](sources/678-britain-god-save-the-king-part-2-glt2603959218.md) — The Rest Is History episode on God Save the King as Britain's ambiguous, Jacobite-to-Hanoverian anthem and on England/Scotland football anthem identity.
 - [Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing](sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468.md) — Huberman Lab Essentials episode on 24-hour sleep timing through morning sunlight, evening darkness, temperature, caffeine, alcohol/THC sleep architecture, supplements, wake consistency, and temperature-minimum clock shifting.
 - [Right in front: AfD could win German state](sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f.md) — The Intelligence episode on AfD's possible Saxony-Anhalt majority, Palantir's British public-service data tradeoffs, and Chinese premium chocolate localization.
 - [Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28](sources/hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6.md) — What's Next｜科技早知道 episode on Demis Hassabis's reported Google DeepMind role shift, Jeff Dean's reported Discovery Loop move, Gemini/coding-agent pressure, AI-for-science talent, and DeepMind-Google organizational friction.
@@ -1890,6 +1891,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [God Save the King / Queen](entities/GodSaveTheKing.md) — British anthem whose uncertain origin, Jacobite-Hanoverian repurposing, and sporting use make it a flexible monarchy symbol.
+- [Scotland](entities/Scotland.md) — UK constituent nation whose sporting anthem choices expose the difference between British state identity and Scottish national feeling.
+- [Flower of Scotland](entities/FlowerOfScotland.md) — Scottish sporting anthem that turns Bannockburn memory into football and rugby identity.
+- [Jerusalem (Hymn)](entities/JerusalemHymn.md) — English anthem alternative whose Blake/Parry/Elgar lineage makes it more England-specific than God Save the King.
+- [Jacobitism](entities/Jacobitism.md) — Stuart restoration movement whose 1745 crisis frames God Save the King's breakthrough and possible turncoat prehistory.
 - [Ulrich Siegmund](entities/UlrichSiegmund.md) — AfD lead candidate in Saxony-Anhalt and the episode's concrete figure for a possible far-right state-government test.
 - [Saxony-Anhalt](entities/SaxonyAnhalt.md) — German state where AfD's possible majority turns far-right normalization into a state-governance question.
 - [Metropolitan Police](entities/MetropolitanPolice.md) — British police force used in the Palantir segment to contrast productivity claims with procurement-process concerns.
@@ -10721,6 +10727,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Constituent Nation Sporting Identity](concepts/ConstituentNationSportingIdentity.md) — Pattern where sub-state national teams use sport, anthem choice, and rivalry to express identities that do not map cleanly onto sovereignty.
 - [Brandmauer Cordon Sanitaire](concepts/BrandmauerCordonSanitaire.md) — German coalition-firewall norm meant to keep AfD out of government.
 - [Far-Right State Governance Test](concepts/FarRightStateGovernanceTest.md) — Shift from far-right outsider pressure to the practical test of executive authority, budgets, institutions, and social response.
 - [Remigration Politics](concepts/RemigrationPolitics.md) — Removal-oriented immigration politics used by AfD in the Saxony-Anhalt branch.

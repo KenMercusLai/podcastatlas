@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 8827
+wiki_total_pages: 8832
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -62,6 +62,9 @@ wiki_pages:
   - key: "JacobinClub"
     title: "Jacobin Club / 雅各宾俱乐部"
     url: "/wiki/entities/jacobinclub/"
+  - key: "Jacobitism"
+    title: "Jacobitism"
+    url: "/wiki/entities/jacobitism/"
   - key: "JacobusLentz"
     title: "Jacobus Lentz / 雅各布斯·伦次"
     url: "/wiki/entities/jacobuslentz/"
@@ -329,6 +332,9 @@ wiki_pages:
   - key: "JerryTaikongSeng"
     title: "Jerry / 太空僧"
     url: "/wiki/entities/jerrytaikongseng/"
+  - key: "JerusalemHymn"
+    title: "Jerusalem (Hymn)"
+    url: "/wiki/entities/jerusalemhymn/"
   - key: "JessJang"
     title: "Jess Jang"
     url: "/wiki/entities/jessjang/"

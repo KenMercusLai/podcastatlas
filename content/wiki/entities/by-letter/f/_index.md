@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8827
+wiki_total_pages: 8832
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "Flow"
     title: "Flow"
     url: "/wiki/entities/flow/"
+  - key: "FlowerOfScotland"
+    title: "Flower of Scotland"
+    url: "/wiki/entities/flowerofscotland/"
   - key: "Flurry"
     title: "Flurry"
     url: "/wiki/entities/flurry/"
