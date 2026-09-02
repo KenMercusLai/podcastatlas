@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？](sources/zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb.md) — Jianwu 1 Guangwu episode on Zhu Wei's Luoyang surrender after Liu Xiu guarantees survival despite Liu Yan's murder, Zhuo Mao's virtue appointment, Du Shi's military-discipline enforcement, and Liu Xuan's contested protection under Chimei.
 - [《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？](sources/zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv.md) — Jianwu 1 Guangwu backfill on Chimei's Changle Palace disorder under Liu Penzi, Deng Yu's disciplined wait-and-rest Guanzhong strategy, Liu Xuan's killing under Chimei control, and Zhao Xi's aid to Liu Xuan relatives.
 - [《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳](sources/zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi.md) — Jianwu 1 Guangwu backfill on Wei Xiao's Tianshui scholar recruitment, Ma Yuan's early hardship and wealth ethic, Dou Rong's Hexi five-commandery self-preservation bloc, and Lu Fang's false genealogy and Xiongnu-backed "Han emperor" title.
 - [在非洲卖快餐，为什么肯德基比麦当劳更吃得开？](sources/zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062.md) — 声动早咖啡 episode on why KFC scales farther than McDonald's in sub-Saharan Africa through chicken demand, poultry supply chains, South Africa timing, and regional expansion constraints.
@@ -1878,6 +1879,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Zhu Wei / 朱鲔 (Eastern Han)](entities/ZhuWeiEasternHan.md) — Luoyang holdout whose surrender tests Liu Xiu's promise to spare a former enemy tied to Liu Yan's death.
+- [Zhuo Mao / 卓茂 (Eastern Han)](entities/ZhuoMaoEasternHan.md) — Elder virtue-official whom Liu Xiu elevates as a founding-order moral exemplar.
+- [Liu Gong / 刘公 (Eastern Han)](entities/LiuGongEasternHan.md) — Liu Penzi's kinsman and Gengshi loyalist who protects Liu Xuan through surrender, body concealment, and later revenge memory.
 - [Social Security](entities/SocialSecurity.md) — U.S. retirement program used by the All-In source as a non-confiscatory vehicle for broad citizen equity ownership.
 - [KFC](entities/KFC.md) — Chicken-centered fast-food chain whose sub-Saharan African footprint illustrates protein and supply-chain market fit.
 - [Sub-Saharan Africa](entities/SubSaharanAfrica.md) — Regional fast-food comparison frame for KFC's broad footprint and McDonald's narrower presence.

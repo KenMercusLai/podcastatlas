@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8803
+wiki_total_pages: 8806
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "ZhuoRui"
     title: "卓瑞 / Zhuo Rui"
     url: "/wiki/entities/zhuorui/"
+  - key: "ZhuoMaoEasternHan"
+    title: "卓茂 / Zhuo Mao (Eastern Han)"
+    url: "/wiki/entities/zhuomaoeasternhan/"
   - key: "ZhanTeacher"
     title: "占老师 / Zhan Teacher"
     url: "/wiki/entities/zhanteacher/"
@@ -965,6 +968,9 @@ wiki_pages:
   - key: "ZhuZhenLateHan"
     title: "朱震 / Zhu Zhen (late Han)"
     url: "/wiki/entities/zhuzhenlatehan/"
+  - key: "ZhuWeiEasternHan"
+    title: "朱鲔 / Zhu Wei (Eastern Han)"
+    url: "/wiki/entities/zhuweieasternhan/"
   - key: "ZhuJishi"
     title: "朱鸡石 / 朱吉石 / Zhu Jishi"
     url: "/wiki/entities/zhujishi/"

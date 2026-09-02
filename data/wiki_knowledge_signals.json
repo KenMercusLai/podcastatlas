@@ -7223,9 +7223,9 @@
       "url": "/wiki/concepts/catholicburiallegitimacy/"
     },
     "CenPengEasternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？ [liib38zUB0_tgRBTYcmlQvOHV-w-].md",
@@ -7261,6 +7261,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？ [lqnS6KTyM8RGv3y5TlCzCYfYZxdb].md",
+          "key": "zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb/"
         }
       ],
       "updated": "2026-09-02",
@@ -13704,9 +13711,9 @@
       "url": "/wiki/entities/dushanglatehan/"
     },
     "DuShiEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云 [lq2M06p7eCzJ9eBysxpL84BKzZi-].md",
@@ -13714,9 +13721,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云",
           "url": "/wiki/sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？ [lqnS6KTyM8RGv3y5TlCzCYfYZxdb].md",
+          "key": "zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/dushieasternhan/"
     },
     "DuXiLateHan": {
@@ -30944,6 +30958,36 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/liugangeasternhan/"
     },
+    "LiuGongEasternHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？ [lqnS6KTyM8RGv3y5TlCzCYfYZxdb].md",
+          "key": "zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？ [lurTvFqErB0VF3A33msmd_TxR9Pv].md",
+          "key": "zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂 [ltjL2bGpyyz1bMwE_4mfCYd9E6cf].md",
+          "key": "zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/liugongeasternhan/"
+    },
     "LiuGuiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -31588,9 +31632,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 29,
+      "episode_count": 30,
       "show_count": 2,
-      "source_note_count": 29,
+      "source_note_count": 30,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -31794,15 +31838,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？ [lqnS6KTyM8RGv3y5TlCzCYfYZxdb].md",
+          "key": "zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/entities/liuxiu/"
     },
     "LiuXuanGengshiEmperor": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？ [lurTvFqErB0VF3A33msmd_TxR9Pv].md",
@@ -31824,6 +31875,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？ [lqnS6KTyM8RGv3y5TlCzCYfYZxdb].md",
+          "key": "zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb/"
         }
       ],
       "updated": "2026-09-02",
@@ -44834,9 +44892,9 @@
       "url": "/wiki/concepts/secondopinionstrategy/"
     },
     "SecurityForAuthorityExchange": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》707丨敢与刘秀争雄的他，为何惨淡逃亡？ [lnDwXM9LMCKt1PS6eowQdI_v82pv].md",
@@ -44872,9 +44930,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？ [lqnS6KTyM8RGv3y5TlCzCYfYZxdb].md",
+          "key": "zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/securityforauthorityexchange/"
     },
     "SeedOilEvidenceBoundary": {
@@ -60066,6 +60131,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhumulatehan/"
     },
+    "ZhuWeiEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？ [lqnS6KTyM8RGv3y5TlCzCYfYZxdb].md",
+          "key": "zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/zhuweieasternhan/"
+    },
     "ZhuYuLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -60111,6 +60192,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhuzhenlatehan/"
+    },
+    "ZhuoMaoEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？ [lqnS6KTyM8RGv3y5TlCzCYfYZxdb].md",
+          "key": "zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/zhuomaoeasternhan/"
     },
     "ZiMiEasternHan": {
       "episode_count": 1,

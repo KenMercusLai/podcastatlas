@@ -14995,3 +14995,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Identity validation passed. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is unset and LiteLLM fell back to an unqualified default model. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-09-02] ingest | 《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？
+
+Ingested the 2026-06-12 芮淇讲透资治通鉴 episode backfilling Jianwu 1 / 25 CE around Liu Xiu's promise to spare Zhu Wei despite Liu Yan's murder, Cen Peng's trust-intermediary role in the Luoyang surrender, Zhuo Mao's virtue appointment, Du Shi's killing of Xiao Guang to protect civilians, and Liu Xuan's temporary Chimei reprieve through Liu Gong. Added source `zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb`; created `ZhuWeiEasternHan`, `ZhuoMaoEasternHan`, and `LiuGongEasternHan`; updated `LiuXiu`, `CenPengEasternHan`, `DuShiEasternHan`, `LiuXuanGengshiEmperor`, `SecurityForAuthorityExchange`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Yan Ben, Cao Jing, Xiao Guang, Xie Lu, Dingtao King Liu Zhi, exact title forms, and minor offices remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Identity validation passed. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is unset and no provider API key is configured. Report returned in-session; `wiki/lint-report.md` was not saved.

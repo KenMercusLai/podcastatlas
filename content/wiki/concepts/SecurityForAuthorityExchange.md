@@ -9,7 +9,8 @@ sources:
   - zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot
   - zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c
   - zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody
-last_updated: 2026-09-01
+  - zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb
+last_updated: 2026-09-02
 ---
 
 ## Definition
@@ -17,6 +18,8 @@ last_updated: 2026-09-01
 Security for authority exchange / 交权换安全 is the consolidation pattern in which a regional actor accepts subordinate status and gives up independent military-political room in return for household safety, formal honor, and a survivable role under the winning regime. The exchange can be ritualized and relatively honorable, or coercive through family retention, troop dispersal, and forced removal of independent force.
 
 ## Current Synthesis
+
+Hanji 679 adds the earliest and most personal-risk variant. [[ZhuWeiEasternHan|朱鲔]] controls Luoyang but fears surrender because he had joined Liu Yan's killing and opposed Liu Xiu's northern mission. [[LiuXiu|刘秀]] makes survival credible through a Yellow River oath, continued office and title, and [[CenPengEasternHan|岑彭]]'s willingness to risk himself as intermediary; Zhu Wei then gives up Luoyang and arms in exchange for incorporation rather than revenge.
 
 Hanji 695 gives the choice-before-submission version. [[DouRongEasternHan|窦融]] is urged from the [[WeiXiaoEasternHan|隗嚣]] side to preserve Hexi autonomy, coordinate with Longxi and Shu, or imitate a Zhao Tuo-like separate regime instead of submitting to [[LiuXiu|刘秀]]. Dou Rong's council instead judges Liu Xiu by legitimacy, land, troops, and military discipline; Dou Rong sends Liu Jun, and Liu Xiu receives the move by honoring the envoy, naming Dou Rong's western position as strategically decisive, and appointing him Liangzhou mu.
 
@@ -35,13 +38,16 @@ Hanji 707 clarifies the boundary by contrast and sequel. [[WeiXiaoEasternHan|隗
 - The exchange can begin before physical submission when an actor first decides which future order is legitimate and survivable.
 - Formal submission still requires visible status reduction, not merely private intent.
 - Before formal submission, early alignment can be made credible through warnings to old allies, military coordination with the victor, and visible rewards.
-- The ruler has to give enough honor or continued role that submission does not look like immediate destruction.
+- The ruler has to make survival credible through oath, intermediary risk, honor, or continued role so submission does not look like immediate destruction.
 - The security side can include coercive controls such as household retention, brother pardons, and forced troop dispersal.
 - The offer decays if the actor waits until followers, counties, supplies, and escape routes have already collapsed.
 - The pattern is more fragile than ordinary appointment because both sides are managing fear: the affiliate fears punishment, and the ruler fears renewed regional autonomy.
 
 ## Evidence
 
+- Personal-risk surrender guarantee: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] says Zhu Wei fears Liu Xiu's revenge because of Liu Yan's killing, but Liu Xiu promises retained office and title and swears by the Yellow River.
+- Intermediary credibility: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] says Cen Peng, a former Zhu Wei subordinate, accepts the rope test from Luoyang's wall before Zhu Wei submits.
+- Exchange completion: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] says Liu Xiu unbinds Zhu Wei, sends him back to Luoyang, receives the army's surrender, and grants office and marquisate rather than punishment.
 - Choice before formal submission: [[zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody|Hanji 695]] says Dou Rong rejects Wei Xiao-side advice to hold Hexi with Longxi/Shu and instead sends Liu Jun after judging Liu Xiu's legitimacy, land, troops, and discipline.
 - Dignified receiving signal: [[zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody|Hanji 695]] says Liu Xiu treats Liu Jun with honor, frames Dou Rong's position as decisive for Wei Xiao and Gongsun Shu, and appoints Dou Rong Liangzhou mu.
 - Persistent allegiance message: [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]] says Dou Rong sends Dou You toward Luoyang and then uses Xi Feng by a hidden road after Wei Xiao's rebellion blocks the route.
@@ -59,11 +65,11 @@ Hanji 707 clarifies the boundary by contrast and sequel. [[WeiXiaoEasternHan|隗
 
 ## Counterevidence & Qualifications
 
-This is currently a narrow Eastern Han concept and should not be generalized into a universal rule for all surrenders. Dou Rong's case depends on his local authority still being useful and on Liu Xiu's capacity to honor him without losing control. Hanji 695 adds the pre-submission choice layer but keeps Liu Jun's exact letter, the persuader's identity, prophecy-book claims, and Hexi council factions source-scoped. Zhang Bu's Hanji 697 settlement is less voluntary and more coercive than Dou Rong's ritualized submission because it follows induced killing, force dispersal, brother imprisonment/pardon, and family retention; Hanji 707's later execution shows that the first bargain did not create durable loyalty. Hanji 702 and Hanji 703 strengthen the early-alignment side but do not prove that every Wei Xiao-side actor had the same safe path. Wei Xiao and Zhang Bu show failed timing and refusal, but they do not prove that every holdout had a credible survival path. The source's ASR-sensitive names, messenger details, and office labels also require cautious normalization.
+This is currently a narrow Eastern Han concept and should not be generalized into a universal rule for all surrenders. Zhu Wei's case is unusually clemency-heavy because Liu Xiu needs Luoyang and chooses not to avenge Liu Yan through the surrendering holdout, but it does not prove that every personal enemy had the same credible path. Dou Rong's case depends on his local authority still being useful and on Liu Xiu's capacity to honor him without losing control. Hanji 695 adds the pre-submission choice layer but keeps Liu Jun's exact letter, the persuader's identity, prophecy-book claims, and Hexi council factions source-scoped. Zhang Bu's Hanji 697 settlement is less voluntary and more coercive than Dou Rong's ritualized submission because it follows induced killing, force dispersal, brother imprisonment/pardon, and family retention; Hanji 707's later execution shows that the first bargain did not create durable loyalty. Hanji 702 and Hanji 703 strengthen the early-alignment side but do not prove that every Wei Xiao-side actor had the same safe path. Wei Xiao and Zhang Bu show failed timing and refusal, but they do not prove that every holdout had a credible survival path. The source's ASR-sensitive names, messenger details, and office labels also require cautious normalization.
 
 ## What Changed
 
-- Added Hanji 695 as the pre-submission choice layer, showing Dou Rong's security exchange beginning with legitimacy-and-force assessment before later correspondence and ritual.
+- Added Hanji 679 as the earliest personal-risk variant, while preserving Hanji 695 as the pre-submission choice layer that begins with legitimacy-and-force assessment before later correspondence and ritual.
 - Preserved Hanji 697 as a coercive Zhang Bu variant, showing pardon and title paired with troop dispersal and family retention.
 - Reframed Hanji 702 as the later communication-and-allegiance layer before Dou Rong's formal submission.
 - Reframed Hanji 703 as the warning, coordination, and visible-reward layer after Dou Rong's Liu Xiu-facing loyalty is already in motion.
