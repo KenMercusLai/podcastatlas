@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6255
+wiki_total_pages: 6256
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -230,6 +230,9 @@ wiki_pages:
   - key: "ScientistAsStateBureaucrat"
     title: "Scientist As State Bureaucrat"
     url: "/wiki/concepts/scientistasstatebureaucrat/"
+  - key: "ScorchedEarthSupplyDenial"
+    title: "Scorched-Earth Supply Denial / 坚壁清野式断粮"
+    url: "/wiki/concepts/scorchedearthsupplydenial/"
   - key: "ScreenTimeFriction"
     title: "Screen Time Friction"
     url: "/wiki/concepts/screentimefriction/"

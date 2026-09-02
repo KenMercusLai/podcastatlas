@@ -12,16 +12,19 @@ sources:
   - zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv
   - zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv
   - zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv
+  - zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo
 last_updated: 2026-09-02
 ---
 
 ## Overview
 
-Deng Yu / 邓禹 is synthesized as an Eastern Han founding minister and commander with a mixed arc: an early Hedong recovery against Gengshi forces in Jianwu 1, a disciplined Guanzhong force that wins submissions and delays premature attack, a later command marked by mission divergence and officer mutiny in Jianwu 2, subsequent [[ChimeiRebellion|赤眉]] deterioration, a more severe Chimei rout in Jianwu 3, a later Shunyang victory against [[YanCenEasternHan|延岑]], post-unification honored withdrawal, and Mingdi-era elder support. [[zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv|Hanji 677]] now supplies the earliest current layer: Deng Yu recovers from a setback at [[HedongCommandery|河东]], defeats Fan Can and then the larger Wang Kuang, Cheng Dan, and Liu Jun force, and sends pressure back toward [[ChangAnHanCapital|Chang'an]]. [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] then shows Deng Yu winning Guanzhong support through discipline and refusing a premature Chang'an attack because troops, supply, and transport are not ready. [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] then shows mission divergence and mutiny, [[zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz|Hanji 687]] shows the Chimei failure developing, and Hanji 688 shows status pressure turning that weakened position into a catastrophic attack.
+Deng Yu / 邓禹 is synthesized as an Eastern Han founding minister and commander with a mixed arc: an initial Jianwu 1 push through Ji Pass into [[HedongCommandery|Hedong]] and against Anyi, a later Hedong recovery against Gengshi forces, a disciplined Guanzhong force that wins submissions and delays premature attack, a later command marked by mission divergence and officer mutiny in Jianwu 2, subsequent [[ChimeiRebellion|赤眉]] deterioration, a more severe Chimei rout in Jianwu 3, a later Shunyang victory against [[YanCenEasternHan|延岑]], post-unification honored withdrawal, and Mingdi-era elder support. [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] now supplies the earliest current layer: Deng Yu breaks Ji Pass, defeats a Hedong commandery commandant force, and surrounds Anyi while Chimei is simultaneously expanding in Hongnong. [[zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv|Hanji 677]] then supplies the later Hedong recovery layer: Deng Yu recovers from a setback, defeats Fan Can and then the larger Wang Kuang, Cheng Dan, and Liu Jun force, and sends pressure back toward [[ChangAnHanCapital|Chang'an]]. [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] then shows Deng Yu winning Guanzhong support through discipline and refusing a premature Chang'an attack because troops, supply, and transport are not ready. [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] then shows mission divergence and mutiny, [[zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz|Hanji 687]] shows the Chimei failure developing, and Hanji 688 shows status pressure turning that weakened position into a catastrophic attack.
 
 ## Current Profile
 
-Hanji 677 now supplies the earliest current battlefield layer. After Liu Xiu proclaims himself emperor, Deng Yu is still unable to take Anyi quickly, but he defeats Fan Can's crossing force south of Xie. Wang Kuang, Cheng Dan, Liu Jun, and others gather a much larger follow-up army; Deng Yu first loses, then uses the enemy's missed attack window to regroup and breaks them the next day, killing Liu Jun and Hedong taishou Yang Bao while Wang Kuang returns to Chang'an.
+Hanji 675 supplies the earliest current battlefield layer. While Liu Xuan is sending Li Song against Fang Wang and while Chimei armies are merging in Hongnong, Deng Yu's force breaks Ji Pass, defeats a Hedong commandery commandant force, and continues forward to surround Anyi. This layer places Deng Yu inside the same Jianwu 1 multi-front competition that also weakens the Gengshi regime and lets Chimei grow.
+
+Hanji 677 supplies the next Hedong recovery layer. After Liu Xiu proclaims himself emperor, Deng Yu is still unable to take Anyi quickly, but he defeats Fan Can's crossing force south of Xie. Wang Kuang, Cheng Dan, Liu Jun, and others gather a much larger follow-up army; Deng Yu first loses, then uses the enemy's missed attack window to regroup and breaks them the next day, killing Liu Jun and Hedong taishou Yang Bao while Wang Kuang returns to Chang'an.
 
 Hanji 680 gives Deng Yu's current profile the next Guanzhong strength layer before the later command-fracture evidence. The source says his army is disciplined, does not bully civilians, and receives thousands of daily submissions while he raises the tally and comforts those who submit.
 
@@ -45,7 +48,7 @@ Hanji 733-1 frames Deng Yu through Mingdi's first political self-presentation. M
 
 ## Key Characteristics
 
-- Founding commander whose earliest current Hedong layer shows recovery after setback, defensive regrouping, and pressure against Gengshi forces before the Guanzhong patience layer.
+- Founding commander whose earliest current Hedong layer begins with Ji Pass, a commandant-force defeat, and Anyi pressure before later setback recovery and Guanzhong patience.
 - Commander whose Jianwu 2 Guanzhong command later shows mission divergence, officer violence, and Chimei deterioration under famine and defeat.
 - High-responsibility minister whose later Chimei attack becomes a warning about status-driven command under poor troop conditions.
 - Guangwu subordinate whom Liu Xiu demotes or recalls after failure while preserving a path back into service.
@@ -55,6 +58,8 @@ Hanji 733-1 frames Deng Yu through Mingdi's first political self-presentation. M
 
 ## Evidence
 
+- Early Ji Pass-Hedong push: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] says Deng Yu breaks Ji Pass, defeats a Hedong commandery commandant force, and surrounds Anyi.
+- Multi-front context: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] places Deng Yu's push beside Fang Wang's suppression and Chimei's Hongnong merger, showing Gengshi pressure on multiple fronts.
 - Hedong recovery after setback: [[zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv|Hanji 677]] says Deng Yu first loses to Wang Kuang, Cheng Dan, Liu Jun, and other Gengshi forces, then regroups when they miss an attack window and defeats them the next day.
 - Pressure against Gengshi command: [[zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv|Hanji 677]] says Deng Yu kills Liu Jun and Hedong taishou Yang Bao while Wang Kuang flees back to Chang'an, linking the Hedong victory to the capital's crisis.
 - Disciplined Guanzhong support: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Deng Yu's army attracts thousands of daily submissions because it is disciplined and does not bully civilians.
@@ -83,11 +88,11 @@ Hanji 733-1 frames Deng Yu through Mingdi's first political self-presentation. M
 
 ## Qualifications
 
-This page still does not reconstruct Deng Yu's full military or ministerial career. Hanji 677 adds a focused Hedong battle layer but keeps Fan Can, Wang Kuang, Cheng Dan, Liu Jun, Yang Bao, exact force counts, and day-name timing source-scoped. Hanji 680 adds a disciplined and capacity-aware phase but does not prove that all of Deng Yu's later delays were sound. Hanji 682 adds a command-cohesion warning through Feng Yin, Zong Xin, Huang Fang, Zong Guang, and Wei Xiao, but those minor actors and exact office mechanics remain source-scoped. Hanji 687 and Hanji 688 give vivid command-failure layers, but the "face" diagnosis in Hanji 688 is the host's interpretation of events rather than an independent psychological record. Hanji 690 gives one later battlefield result, not a complete recovery biography. Hanji 715 gives a post-unification settlement and household-discipline layer, while Hanji 733-1 gives his late symbolic role in Mingdi's accession. Exact campaign chronology, office history before the Chimei defeats, and later family consequences remain outside the current bounded evidence.
+This page still does not reconstruct Deng Yu's full military or ministerial career. Hanji 675 adds the earliest current Ji Pass-Hedong-Anyi layer but keeps Ji Pass, the Hedong commandant force, Anyi, and exact route mechanics source-scoped. Hanji 677 adds a focused Hedong battle layer but keeps Fan Can, Wang Kuang, Cheng Dan, Liu Jun, Yang Bao, exact force counts, and day-name timing source-scoped. Hanji 680 adds a disciplined and capacity-aware phase but does not prove that all of Deng Yu's later delays were sound. Hanji 682 adds a command-cohesion warning through Feng Yin, Zong Xin, Huang Fang, Zong Guang, and Wei Xiao, but those minor actors and exact office mechanics remain source-scoped. Hanji 687 and Hanji 688 give vivid command-failure layers, but the "face" diagnosis in Hanji 688 is the host's interpretation of events rather than an independent psychological record. Hanji 690 gives one later battlefield result, not a complete recovery biography. Hanji 715 gives a post-unification settlement and household-discipline layer, while Hanji 733-1 gives his late symbolic role in Mingdi's accession. Exact campaign chronology, office history before the Chimei defeats, and later family consequences remain outside the current bounded evidence.
 
 ## What Changed
 
-- Added Hanji 677 as Deng Yu's earliest current Hedong layer: first setback, regrouping, and victory over Gengshi forces before Guanzhong operations.
+- Added Hanji 675 as Deng Yu's earliest current Hedong layer: Ji Pass breakthrough, Hedong commandant-force defeat, and Anyi pressure before the later Hanji 677 recovery layer.
 - Reframed Hanji 680 as the next disciplined-support, logistics-aware delay, northern rest-and-wait, and Liu Xuan burial layer.
 - Preserved Hanji 682 as Deng Yu's Guanzhong mission-divergence, internal mutiny, and Wei Xiao delegation layer.
 - Preserved Hanji 687-688 as Deng Yu's later Guanzhong-Chimei deterioration, recall, status-driven rout, and surrender-strategy contrast.
@@ -100,7 +105,7 @@ This page still does not reconstruct Deng Yu's full military or ministerial care
 - [[ChimeiRebellion|赤眉]] - adversary whose movement, deception, famine context, and surrender frame Deng Yu's early failures.
 - [[LiuXuanGengshiEmperor|更始帝刘玄]] - fallen ruler whom Deng Yu is ordered to bury after Chimei kills him.
 - [[GuanzhongRegion|关中]] - regional field where Deng Yu's prestige and supply base collapse before Feng Yi replaces him.
-- [[HedongCommandery|河东郡]] - regional field where Deng Yu's earliest current victory sends pressure back toward Chang'an.
+- [[HedongCommandery|河东郡]] - regional field where Deng Yu's current evidence begins with Ji Pass and Anyi pressure before later victory sends pressure back toward Chang'an.
 - [[WeiXiaoEasternHan|隗嚣]] - western actor whom Deng Yu authorizes after Wei Xiao defeats Feng Yin at Gaoping.
 - [[CoreBeforePeripheryStrategy|先内后外式战略顺序]] - related because Hanji 680 shows Deng Yu delaying Chang'an attack until troop and supply conditions improve.
 - [[CharacterReadingDelegationTrust|识人授权信任]] - related because Liu Xiu's prediction about Huang Fang shows relationship-based control around Deng Yu's mutiny crisis.

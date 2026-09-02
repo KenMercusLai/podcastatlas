@@ -9,14 +9,17 @@ sources:
   - zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf
   - zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb
   - zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv
+  - zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo
 last_updated: 2026-09-02
 ---
 
 ## Overview
 
-更始帝刘玄 / Liu Xuan is synthesized as a fallen Gengshi ruler whose value after deposition lies less in command power than in dangerous residual loyalty. [[zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv|Hanji 677]] now supplies the pre-captive Chang'an collapse layer: under [[ChimeiRebellion|赤眉]] pressure, Liu Xuan rejects a plunder-and-retreat plan, mishandles a counter-trap against dissenting commanders, flees to Zhao Meng at Xinfeng, and later kills Chen Mu and Cheng Dan. [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] supplies the living-captive layer: [[LiuXiu|刘秀]] protects him by edict, [[LiuPenziEasternHan|刘盆子]] offers surrender terms through [[LiuGongEasternHan|刘公]], and Liu Gong temporarily prevents Chimei commanders from killing him. [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] records Sanfu sympathy, his later strangling under Chimei control, Liu Xiu's burial order through [[DengYuEasternHan|邓禹]], and [[ZhaoXiEasternHan|赵熙 / 赵熹]]'s aid to his relatives. [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] then shows former Gengshi loyalists using mourning for Liu Xuan to make surrender morally legible, while [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] preserves a later family consequence through his son Liu Li.
+更始帝刘玄 / Liu Xuan is synthesized as a Gengshi ruler whose remaining authority can still suppress small rival Han claims but cannot stop the larger Chimei escalation that will later make him a captive and then a dangerous residual-loyalty figure. [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] now supplies the earliest current layer: Liu Xuan sends Li Song to destroy [[FangWangGengshi|方望]]'s [[RuziYing|孺子婴]] claim, but his commanders Su Mao and Li Song then fail against [[ChimeiRebellion|赤眉]] as Chimei scales. [[zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv|Hanji 677]] supplies the pre-captive Chang'an collapse layer: under Chimei pressure, Liu Xuan rejects a plunder-and-retreat plan, mishandles a counter-trap against dissenting commanders, flees to Zhao Meng at Xinfeng, and later kills Chen Mu and Cheng Dan. [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] supplies the living-captive layer: [[LiuXiu|刘秀]] protects him by edict, [[LiuPenziEasternHan|刘盆子]] offers surrender terms through [[LiuGongEasternHan|刘公]], and Liu Gong temporarily prevents Chimei commanders from killing him. [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] records Sanfu sympathy, his later strangling under Chimei control, Liu Xiu's burial order through [[DengYuEasternHan|邓禹]], and [[ZhaoXiEasternHan|赵熙 / 赵熹]]'s aid to his relatives. [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] then shows former Gengshi loyalists using mourning for Liu Xuan to make surrender morally legible, while [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] preserves a later family consequence through his son Liu Li.
 
 ## Current Profile
+
+Hanji 675 supplies the earliest current residual-authority layer. Liu Xuan can still use Li Song as chancellor to suppress Fang Wang and Gong Lin's installation of Ruzi Ying at Linjing, killing that claimant group. The same source immediately narrows that success: Liu Xuan sends Su Mao to resist Chimei and later sends Li Song against Chimei at Yaoxiang, but both efforts fail as Chimei merges, expands, and moves north.
 
 Hanji 677 supplies the pre-captive Chang'an collapse layer. Under Chimei pressure near Zheng and Huayin, Zhang Ang's group proposes plundering Chang'an and retreating toward Nanyang. Liu Xuan refuses, but his later attempt to summon and kill suspected dissenting commanders misfires: Wei Xiao stays away and arms himself, Zhang Ang, Liao Zhan, and Hu Yin escape, Shentu Jian is killed, rebels burn the palace gate, and Liu Xuan flees to Zhao Meng at Xinfeng before killing Chen Mu and Cheng Dan in another suspected-conspiracy trap.
 
@@ -32,7 +35,7 @@ Hanji 728 adds a later dynastic-family echo. Liu Li, identified there as Liu Xua
 
 ## Key Characteristics
 
-- Embattled Gengshi emperor whose Chang'an authority collapses when refusal of a plunder-and-retreat plan turns into failed counter-trap and palace fighting.
+- Embattled Gengshi emperor whose residual authority can suppress Fang Wang's small Ruzi Ying claim but cannot stop Chimei's larger military escalation.
 - Fallen ruler whose person remains dangerous as a rallying figure after loss of effective power.
 - Contested living claimant whom Liu Xiu protects by edict before Chimei receives his surrender.
 - Object of Sanfu sympathy under Chimei occupation and disorder.
@@ -42,6 +45,8 @@ Hanji 728 adds a later dynastic-family echo. Liu Li, identified there as Liu Xua
 
 ## Evidence
 
+- Small claimant suppression: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] says Liu Xuan sends Li Song against Fang Wang, Gong Lin, and Ruzi Ying, and the group is killed.
+- Failed Chimei response: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] says Liu Xuan sends Su Mao and later Li Song against Chimei, but both efforts fail as Chimei grows.
 - Protection and reward edict: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] says Liu Xiu makes Liu Xuan Huaiyang King, forbids killing him, and offers reward for delivering him.
 - Temporary reprieve: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] says Liu Penzi offers Liu Xuan surrender terms and Liu Gong's plea and suicide attempt temporarily stop Chimei commanders from killing Liu Xuan.
 - Post-deposition sympathy: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Sanfu people suffer under Chimei, sympathize with Liu Xuan, and hope to rescue him.
@@ -54,17 +59,21 @@ Hanji 728 adds a later dynastic-family echo. Liu Li, identified there as Liu Xua
 
 ## Qualifications
 
-This page does not reconstruct Liu Xuan's full rise, rule, deposition, or Gengshi regime. Hanji 677 supplies a late Chang'an crisis layer but keeps Zhang Ang, Liao Zhan, Hu Yin, Shentu Jian, Wang Kuang, Chen Mu, Cheng Dan, Zhao Meng, and exact force counts source-scoped. Hanji 679 supplies only the flight, protection, surrender, and temporary-reprieve layer before the Hanji 680 killing; Yan Ben, Xie Lu, Dingtao King Liu Zhi, and the exact Chimei decision process remain source-scoped. Hanji 680 supplies the terminal Chimei-controlled layer and family aftermath; the killer name appears in transcript form as `泄露` and remains source-scoped. Hanji 684 uses Liu Xuan as the old ruler mourned by Bao Yong and Feng Yan rather than supplying a biography. Hanji 728 uses Liu Xuan mainly to identify Liu Li's descent, so the later prince-guest purge should not be read back as Liu Xuan's own policy.
+This page does not reconstruct Liu Xuan's full rise, rule, deposition, or Gengshi regime. Hanji 675 supplies the Fang Wang/Ruzi Ying suppression and failed Chimei response layer, but Li Song, Gong Lin, Linjing, Yaoxiang, Hucheng, exact force counts, and the full Gengshi command structure remain source-scoped. Hanji 677 supplies a late Chang'an crisis layer but keeps Zhang Ang, Liao Zhan, Hu Yin, Shentu Jian, Wang Kuang, Chen Mu, Cheng Dan, Zhao Meng, and exact force counts source-scoped. Hanji 679 supplies only the flight, protection, surrender, and temporary-reprieve layer before the Hanji 680 killing; Yan Ben, Xie Lu, Dingtao King Liu Zhi, and the exact Chimei decision process remain source-scoped. Hanji 680 supplies the terminal Chimei-controlled layer and family aftermath; the killer name appears in transcript form as `泄露` and remains source-scoped. Hanji 684 uses Liu Xuan as the old ruler mourned by Bao Yong and Feng Yan rather than supplying a biography. Hanji 728 uses Liu Xuan mainly to identify Liu Li's descent, so the later prince-guest purge should not be read back as Liu Xuan's own policy.
 
 ## What Changed
 
-- Added Hanji 677 as the pre-captive collapse layer: Liu Xuan rejects the plunder-and-retreat plan but mishandles the counter-trap, turning internal suspicion into palace attack and further killings.
+- Added Hanji 675 as the earliest current residual-authority layer: Liu Xuan suppresses Fang Wang's Ruzi Ying claim but fails to contain Chimei through Su Mao and Li Song.
+- Preserved Hanji 677 as the pre-captive collapse layer: Liu Xuan rejects the plunder-and-retreat plan but mishandles the counter-trap, turning internal suspicion into palace attack and further killings.
 - Added Hanji 679 as the pre-killing layer: Liu Xiu's protection edict, Liu Penzi's surrender terms, Liu Gong's temporary rescue, and the still-dangerous status of a fallen claimant.
 - Preserved Hanji 680, Hanji 684, and Hanji 728 as the killing, burial, old-loyalist mourning, family vulnerability, and later descendant-grievance layers.
 
 ## Relationships
 
 - [[ChimeiRebellion|赤眉]] - controlling force whose leaders kill Liu Xuan when public sympathy makes him dangerous.
+- [[FangWangGengshi|方望]] - rival restoration organizer suppressed by Liu Xuan's chancellor in Hanji 675.
+- [[RuziYing|孺子婴 / 刘婴]] - low-power Han royal descendant whose claim Liu Xuan's side destroys at Linjing.
+- [[SuMaoEasternHan|苏茂]] - commander Liu Xuan sends unsuccessfully against Chimei before Li Song's later defeat.
 - [[LiuPenziEasternHan|刘盆子]] - Chimei figurehead whose regime coexists with the captive former Gengshi emperor.
 - [[LiuGongEasternHan|刘公]] - protector and mediator who temporarily saves Liu Xuan and later hides his body.
 - [[LiuXiu|光武帝刘秀]] - rival restoration founder who later orders Liu Xuan's burial.

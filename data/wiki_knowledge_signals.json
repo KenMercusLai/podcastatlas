@@ -7796,6 +7796,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/chenjianyuanshuretainer/"
     },
+    "ChenJunEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》675丨乱世纷争之中，汉武帝如何崛起？ [lrvxU1q4-ysG4Kfxkf25HSwyGfyO].md",
+          "key": "zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/chenjuneasternhan/"
+    },
     "ChenLinLateHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -8282,9 +8298,9 @@
       "url": "/wiki/entities/chesterwilliams/"
     },
     "ChimeiRebellion": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 2,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -8348,6 +8364,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》675丨乱世纷争之中，汉武帝如何崛起？ [lrvxU1q4-ysG4Kfxkf25HSwyGfyO].md",
+          "key": "zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
         }
       ],
       "updated": "2026-09-02",
@@ -9437,9 +9460,9 @@
       "url": "/wiki/concepts/colonialloyaltyrupture/"
     },
     "CommandContinuityDamageControl": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭 [lhs6miq2aA3AvnnY_pRxTVKfxGvY].md",
@@ -9461,9 +9484,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件",
           "url": "/wiki/sources/zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》675丨乱世纷争之中，汉武帝如何崛起？ [lrvxU1q4-ysG4Kfxkf25HSwyGfyO].md",
+          "key": "zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url": "/wiki/concepts/commandcontinuitydamagecontrol/"
     },
     "CommandCreditMisattribution": {
@@ -12183,9 +12213,9 @@
       "url": "/wiki/entities/dengxuneasternhan/"
     },
     "DengYuEasternHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
@@ -12242,6 +12272,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》675丨乱世纷争之中，汉武帝如何崛起？ [lrvxU1q4-ysG4Kfxkf25HSwyGfyO].md",
+          "key": "zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
         }
       ],
       "updated": "2026-09-02",
@@ -17562,6 +17599,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/fanzhunlatehan/"
     },
+    "FangWangGengshi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》675丨乱世纷争之中，汉武帝如何崛起？ [lrvxU1q4-ysG4Kfxkf25HSwyGfyO].md",
+          "key": "zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/fangwanggengshi/"
+    },
     "FangZhiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -21524,9 +21577,9 @@
       "url": "/wiki/concepts/goldjewelryvalueperceptionrisk/"
     },
     "GongsunShuEasternHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
@@ -21583,6 +21636,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》691丨敢夺江山的隗嚣，为何注定输给刘秀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》675丨乱世纷争之中，汉武帝如何崛起？ [lrvxU1q4-ysG4Kfxkf25HSwyGfyO].md",
+          "key": "zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
         }
       ],
       "updated": "2026-09-02",
@@ -31823,9 +31883,9 @@
       "url": "/wiki/entities/liuxiaolatehan/"
     },
     "LiuXiu": {
-      "episode_count": 30,
+      "episode_count": 31,
       "show_count": 2,
-      "source_note_count": 30,
+      "source_note_count": 31,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -32036,15 +32096,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》675丨乱世纷争之中，汉武帝如何崛起？ [lrvxU1q4-ysG4Kfxkf25HSwyGfyO].md",
+          "key": "zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
         }
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/liuxiu/"
     },
     "LiuXuanGengshiEmperor": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？ [lurTvFqErB0VF3A33msmd_TxR9Pv].md",
@@ -32080,6 +32147,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》677丨刘玄帝当年真是一手好牌打稀烂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》675丨乱世纷争之中，汉武帝如何崛起？ [lrvxU1q4-ysG4Kfxkf25HSwyGfyO].md",
+          "key": "zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
         }
       ],
       "updated": "2026-09-02",
@@ -44723,6 +44797,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/rutgersuniversity/"
     },
+    "RuziYing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》675丨乱世纷争之中，汉武帝如何崛起？ [lrvxU1q4-ysG4Kfxkf25HSwyGfyO].md",
+          "key": "zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/ruziying/"
+    },
     "RyanSocialRobot": {
       "episode_count": 1,
       "show_count": 1,
@@ -45144,6 +45234,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/scipioaemilianus/"
+    },
+    "ScorchedEarthSupplyDenial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》675丨乱世纷争之中，汉武帝如何崛起？ [lrvxU1q4-ysG4Kfxkf25HSwyGfyO].md",
+          "key": "zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/scorchedearthsupplydenial/"
     },
     "ScottBessent": {
       "episode_count": 4,
@@ -48116,9 +48222,9 @@
       "url": "/wiki/entities/sukanglatehan/"
     },
     "SuMaoEasternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》692丨东汉开国大将王霸的人生，有多霸气？ [lmqqtSxWEmeTQqAe-QDiERsKA9pl].md",
@@ -48140,6 +48246,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
           "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》675丨乱世纷争之中，汉武帝如何崛起？ [lrvxU1q4-ysG4Kfxkf25HSwyGfyO].md",
+          "key": "zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
         }
       ],
       "updated": "2026-09-02",
@@ -54359,9 +54472,9 @@
       "url": "/wiki/entities/wudaolatehan/"
     },
     "WuHanEasternHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -54425,6 +54538,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》675丨乱世纷争之中，汉武帝如何崛起？ [lrvxU1q4-ysG4Kfxkf25HSwyGfyO].md",
+          "key": "zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
         }
       ],
       "updated": "2026-09-02",

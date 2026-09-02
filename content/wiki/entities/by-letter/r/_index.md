@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 8812
+wiki_total_pages: 8815
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -746,6 +746,9 @@ wiki_pages:
   - key: "RuJi"
     title: "如姬 / Ru Ji"
     url: "/wiki/entities/ruji/"
+  - key: "RuziYing"
+    title: "孺子婴 / Ruzi Ying"
+    url: "/wiki/entities/ruziying/"
   - key: "RiguangPaidui"
     title: "日光派对播客联盟"
     url: "/wiki/entities/riguangpaidui/"

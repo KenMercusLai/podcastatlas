@@ -15035,3 +15035,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] ingest | 《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？
+
+Ingested the 2026-06-11 芮淇讲透资治通鉴 episode opening the Jianwu 1 / 25 CE Guangwu backfill around Fang Wang's failed Ruzi Ying restoration claim, Chimei's Hongnong merger and defeats of Su Mao and Li Song, Gongsun Shu's Chengdu claim, Liu Xiu's Shunshui setback, Wu Han's morale stabilization, and Chen Jun's `坚壁清野` supply-denial plan. Added source `zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo`; created `RuziYing`, `FangWangGengshi`, `ChenJunEasternHan`, and `ScorchedEarthSupplyDenial`; updated `LiuXiu`, `ChimeiRebellion`, `DengYuEasternHan`, `LiuXuanGengshiEmperor`, `GongsunShuEasternHan`, `SuMaoEasternHan`, `WuHanEasternHan`, `CommandContinuityDamageControl`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source-file/frontmatter title's `汉武帝` is normalized to Liu Xiu/Guangwu, and Gong Lin, Li Song, Li Xiong, Wang Feng, Youlai/Daqiang/Wufan, exact counts, and local geography remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

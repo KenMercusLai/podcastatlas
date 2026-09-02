@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8812
+wiki_total_pages: 8815
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1700,6 +1700,9 @@ wiki_pages:
   - key: "ChenCangBattleLateHan"
     title: "陈仓之战 / Chen Cang Battle (late Han)"
     url: "/wiki/entities/chencangbattlelatehan/"
+  - key: "ChenJunEasternHan"
+    title: "陈俊 / Chen Jun (Eastern Han)"
+    url: "/wiki/entities/chenjuneasternhan/"
   - key: "ChenYuanEasternHan"
     title: "陈元 / Chen Yuan (Eastern Han remonstrant)"
     url: "/wiki/entities/chenyuaneasternhan/"
