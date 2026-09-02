@@ -14796,6 +14796,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-02] ingest | 《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？
+
+Ingested the 2026-06-12 芮淇讲透资治通鉴 episode backfilling Jianwu 1 / 25 CE around Chimei's Changle Palace occupation under Liu Penzi, Sanfu alienation from Chimei plunder, Deng Yu's disciplined and logistics-aware wait-and-rest Guanzhong strategy, Liu Xuan's killing under Chimei control, Liu Xuan's Guangwu-ordered burial through Deng Yu, and Zhao Xi's aid to Liu Xuan's relatives. Added source `zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv`; created `LiuXuanGengshiEmperor`; updated `ChimeiRebellion`, `LiuPenziEasternHan`, `DengYuEasternHan`, `ZhaoXiEasternHan`, `CoreBeforePeripheryStrategy`, `StatusDrivenCommandFailure`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 三府 is treated as Sanfu context, 赵熹 is routed to the existing Zhao Xi page, and 泄露 plus 刘次 remain source-scoped transcript forms.
+
 ## [2026-09-02] ingest | Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections
 
 Ingested the 2026-06-13 All-In episode on Anthropic's Fable 5 prompt-retention and downgrade backlash, verified frontier access, synthetic-biology screening, public AI-company ownership, Social Security equity-account alternatives, AI productivity and job-loss rhetoric, CPI/PPI and Iran energy risk, and California election-administration trust. Added source `all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275`; created `AIPublicOwnershipProposal`, `FrontierModelVerifiedAccess`, `SyntheticBiologyScreeningSafeguards`, `BallotHarvestingTrustRisk`, `GenomeLanguageModels`, and `SocialSecurity`; updated `Fable5`, `BernieSanders`, `SpencerPratt`, `AIAutomationRedistribution`, `AIRegulatoryCaptureRisk`, `ElectionAdministrationTrust`, `index`, and downstream synthesis artifacts. No settled contradiction found; the election segment remains in tension with Nate Silver's earlier cohort explanation and no-fraud-evidence caveat, later Iran pages qualify the June off-ramp discussion, and the Fable retention/downgrade, CPI/PPI, Los Angeles vote-share, and fraud-example claims remain source-scoped.
@@ -14987,3 +14991,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Identity validation passed. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is unset and LiteLLM fell back to an unqualified default model. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -10,16 +10,21 @@ sources:
   - zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60
   - zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz
   - zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv
+  - zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv
 last_updated: 2026-09-02
 ---
 
 ## Overview
 
-Deng Yu / 邓禹 is synthesized as an Eastern Han founding minister and commander with a mixed arc: an early Guanzhong command already marked by mission divergence and officer mutiny in Jianwu 2, later [[ChimeiRebellion|赤眉]] deterioration, a more severe Chimei rout in Jianwu 3, a later Shunyang victory against [[YanCenEasternHan|延岑]], post-unification honored withdrawal, and Mingdi-era elder support. [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] now supplies the earliest current layer: Liu Xiu presses Deng Yu to attack Chang'an and soothe the people, but Deng Yu redirects toward Shang commandery and then faces the Feng Yin-Zong Xin-Huang Fang mutiny problem. [[zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz|Hanji 687]] then shows the Chimei failure developing before the better-known rout, and Hanji 688 shows status pressure turning that weakened position into a catastrophic attack.
+Deng Yu / 邓禹 is synthesized as an Eastern Han founding minister and commander with a mixed arc: an early disciplined Guanzhong force that wins submissions and delays premature attack in Jianwu 1, a later command marked by mission divergence and officer mutiny in Jianwu 2, subsequent [[ChimeiRebellion|赤眉]] deterioration, a more severe Chimei rout in Jianwu 3, a later Shunyang victory against [[YanCenEasternHan|延岑]], post-unification honored withdrawal, and Mingdi-era elder support. [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] now supplies the earliest current layer: Deng Yu wins Guanzhong support through discipline and refuses a premature [[ChangAnHanCapital|Chang'an]] attack because troops, supply, and transport are not ready. [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] then shows mission divergence and mutiny, [[zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz|Hanji 687]] shows the Chimei failure developing, and Hanji 688 shows status pressure turning that weakened position into a catastrophic attack.
 
 ## Current Profile
 
-Hanji 682 gives Deng Yu's current profile an earlier Guanzhong command-fracture layer. Liu Xiu writes with reproach because Guanzhong is not yet settled and Deng Yu has not attacked Chang'an; he tells Deng Yu to seize the opportunity, attack the Chang'an adversaries, and soothe the people. Deng Yu instead attacks counties in Shang commandery, gathers troops and grain, and returns to Dayao. The same source then shows authority breaking inside his army when Feng Yin kills Zong Xin, threatens Deng Yu, is defeated by Wei Xiao at Gaoping, and is eventually seized by Huang Fang after Liu Xiu predicts that only Feng Yin's closest person can take him.
+Hanji 680 gives Deng Yu's current profile an earlier Guanzhong strength layer before the later command-fracture evidence. The source says his army is disciplined, does not bully civilians, and receives thousands of daily submissions while he raises the tally and comforts those who submit.
+
+The same source frames Deng Yu's first visible Chimei decision as capacity-aware delay. His generals urge an immediate attack on Chang'an, but Deng Yu argues that he has many attached people and few battle-ready troops, lacks forward provisions and rear transport, and faces a newly victorious Chimei force with food and goods. He therefore moves north toward Shangjun, Beidi, and Anding to gather grain and livestock, rest, train, and wait until Chimei exhausts itself.
+
+Hanji 682 gives Deng Yu's current profile the next Guanzhong command-fracture layer. Liu Xiu writes with reproach because Guanzhong is not yet settled and Deng Yu has not attacked Chang'an; he tells Deng Yu to seize the opportunity, attack the Chang'an adversaries, and soothe the people. Deng Yu instead attacks counties in Shang commandery, gathers troops and grain, and returns to Dayao. The same source then shows authority breaking inside his army when Feng Yin kills Zong Xin, threatens Deng Yu, is defeated by Wei Xiao at Gaoping, and is eventually seized by Huang Fang after Liu Xiu predicts that only Feng Yin's closest person can take him.
 
 Hanji 687 gives Deng Yu's Chimei campaign a later deterioration layer. After Chimei's failed westward move, retreat, snow losses, and Chang'an reentry, Deng Yu attacks near Yu Yi, is defeated, retreats to Yunyang, and then loses again after Feng An leaves Chang'an. The source says Deng Yu's prestige collapses after Feng An's betrayal, shortages reduce his following, and the campaign field becomes inseparable from Sanfu famine and civilian ruin.
 
@@ -37,16 +42,20 @@ Hanji 733-1 frames Deng Yu through Mingdi's first political self-presentation. M
 
 ## Key Characteristics
 
-- Founding commander whose Jianwu 2 Guanzhong command shows mission divergence, officer violence, and later Chimei deterioration under famine and defeat.
+- Founding commander whose earliest current Guanzhong layer shows civilian-protective discipline and patient logistics.
+- Commander whose Jianwu 2 Guanzhong command later shows mission divergence, officer violence, and Chimei deterioration under famine and defeat.
 - High-responsibility minister whose later Chimei attack becomes a warning about status-driven command under poor troop conditions.
 - Guangwu subordinate whom Liu Xiu demotes or recalls after failure while preserving a path back into service.
 - Early Eastern Han field commander whose later defeat of Yan Cen at Shunyang redirects a rival toward Hanzhong and Shu.
 - Founding minister rewarded as Gaomi marquis after Liu Xiu completes unification.
 - High-merit actor who accepts military authority withdrawal without public disgrace.
-- Elder founding minister used to stabilize Mingdi's accession.
 
 ## Evidence
 
+- Disciplined Guanzhong support: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Deng Yu's army attracts thousands of daily submissions because it is disciplined and does not bully civilians.
+- Capacity-aware refusal: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Deng Yu rejects an immediate Chang'an attack because battle-ready troops, forward provisions, and rear transport are inadequate.
+- Northern rest-and-wait strategy: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Deng Yu moves toward Shangjun, Beidi, and Anding to gather provisions, rest, train, and wait for Chimei exhaustion.
+- Liu Xuan burial role: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Liu Xiu later orders Deng Yu to bury Liu Xuan at Bali after Liu Gong hides the body.
 - Early mission divergence: [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] says Liu Xiu presses Deng Yu to attack Chang'an and soothe the people, while Deng Yu instead attacks Shang commandery counties, collects troops and grain, and returns to Dayao.
 - Internal command fracture: [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] says Feng Yin kills Zong Xin, threatens Deng Yu, and is later seized by Huang Fang as Liu Xiu predicted.
 - Western delegation: [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] says Deng Yu appoints Wei Xiao West State General and authorizes him to handle Liangzhou and Shuofang affairs after Wei Xiao defeats Feng Yin at Gaoping.
@@ -69,23 +78,25 @@ Hanji 733-1 frames Deng Yu through Mingdi's first political self-presentation. M
 
 ## Qualifications
 
-This page still does not reconstruct Deng Yu's full military or ministerial career. Hanji 682 adds a command-cohesion warning through Feng Yin, Zong Xin, Huang Fang, Zong Guang, and Wei Xiao, but those minor actors and exact office mechanics remain source-scoped. Hanji 687 and Hanji 688 give vivid command-failure layers, but the "face" diagnosis in Hanji 688 is the host's interpretation of events rather than an independent psychological record. Hanji 690 gives one later battlefield result, not a complete recovery biography. Hanji 715 gives a post-unification settlement and household-discipline layer, while Hanji 733-1 gives his late symbolic role in Mingdi's accession. Exact campaign chronology, office history before the Chimei defeats, and later family consequences remain outside the current bounded evidence.
+This page still does not reconstruct Deng Yu's full military or ministerial career. Hanji 680 adds a disciplined and capacity-aware phase but does not prove that all of Deng Yu's later delays were sound. Hanji 682 adds a command-cohesion warning through Feng Yin, Zong Xin, Huang Fang, Zong Guang, and Wei Xiao, but those minor actors and exact office mechanics remain source-scoped. Hanji 687 and Hanji 688 give vivid command-failure layers, but the "face" diagnosis in Hanji 688 is the host's interpretation of events rather than an independent psychological record. Hanji 690 gives one later battlefield result, not a complete recovery biography. Hanji 715 gives a post-unification settlement and household-discipline layer, while Hanji 733-1 gives his late symbolic role in Mingdi's accession. Exact campaign chronology, office history before the Chimei defeats, and later family consequences remain outside the current bounded evidence.
 
 ## What Changed
 
-- Added Hanji 682 as Deng Yu's earliest current Guanzhong mission-divergence, internal mutiny, and Wei Xiao delegation layer.
+- Added Hanji 680 as Deng Yu's earliest current disciplined-support, logistics-aware delay, northern rest-and-wait, and Liu Xuan burial layer.
+- Preserved Hanji 682 as Deng Yu's Guanzhong mission-divergence, internal mutiny, and Wei Xiao delegation layer.
 - Preserved Hanji 687 as Deng Yu's later Guanzhong-Chimei deterioration, recall, and surrender-strategy contrast.
 - Kept Hanji 688 as the sharper status-driven rout layer rather than the start of the failure.
 - Preserved Hanji 690 as later field success rather than letting the Chimei failure dominate the entire profile.
-- Preserved Hanji 715 and Hanji 733-1 as postwar honor and accession-elder layers.
 
 ## Relationships
 
 - [[LiuXiu|光武帝刘秀]] - ruler whose early campaigns, recall decisions, postwar rewards, demotion decisions, and military-authority settlement include Deng Yu.
 - [[FengYiEasternHan|冯异]] - commander whose surrender-first and troop-condition judgment contrast Deng Yu's Chimei decisions.
 - [[ChimeiRebellion|赤眉]] - adversary whose movement, deception, famine context, and surrender frame Deng Yu's early failures.
+- [[LiuXuanGengshiEmperor|更始帝刘玄]] - fallen ruler whom Deng Yu is ordered to bury after Chimei kills him.
 - [[GuanzhongRegion|关中]] - regional field where Deng Yu's prestige and supply base collapse before Feng Yi replaces him.
 - [[WeiXiaoEasternHan|隗嚣]] - western actor whom Deng Yu authorizes after Wei Xiao defeats Feng Yin at Gaoping.
+- [[CoreBeforePeripheryStrategy|先内后外式战略顺序]] - related because Hanji 680 shows Deng Yu delaying Chang'an attack until troop and supply conditions improve.
 - [[CharacterReadingDelegationTrust|识人授权信任]] - related because Liu Xiu's prediction about Huang Fang shows relationship-based control around Deng Yu's mutiny crisis.
 - [[StatusDrivenCommandFailure|面子驱动的指挥失误]] - concept grounded by Deng Yu's Chimei decisions in Hanji 688.
 - [[YanCenEasternHan|延岑 / Yan Cen]] - defeated rival commander at Shunyang in Hanji 690.

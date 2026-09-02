@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "168daccffb284a5b9633e213615b38963505f1df3b3022ddd2bc3f69074bfef8",
       "201d62600598920da514186fc0028618b319f100e606c5a7074ad973c92381e0",
       "cb2248895f6a13f4a480d0865020335c0f30ea6801397617236d26a54ea9cace",
       "7827ee72c32e6ef25350ad736e02a2a9b486267138e0d9733e632f0f1831754b",
@@ -508,11 +509,37 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 506
+    "paragraph_count": 507
   },
-  "overview_commit": "d68ce133f5d451dc57a3aac96f4a8ef28914069e",
-  "overview_digest": "8ec8a41e9cc976b654dd2cb20c31715701daa3e46c7782dfca7000a38746c4ec",
+  "overview_commit": "d3ae7e7cf70d8911f43996fd425941e08b8bea6c",
+  "overview_digest": "2e99de8a5961851b6f19a1472a5ce5b2f6789e1e0fee986777224460c9e2a1dc",
   "paragraphs": [
+    {
+      "id": "168daccffb284a5b9633e213615b38963505f1df3b3022ddd2bc3f69074bfef8",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 1 / 25 CE before [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] and [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]]. It adds [[LiuXuanGengshiEmperor|更始帝刘玄]], while extending [[ChimeiRebellion|赤眉]], [[LiuPenziEasternHan|刘盆子]], [[DengYuEasternHan|邓禹]], [[ZhaoXiEasternHan|赵熙 / 赵熹]], [[CoreBeforePeripheryStrategy|先内后外式战略顺序]], and [[StatusDrivenCommandFailure|面子驱动的指挥失误]]. Its core synthesis is that early Guangwu consolidation contrasts coercive occupation with disciplined, capacity-aware waiting: Chimei's plunder after Liu Penzi enters [[ChanglePalace|长乐宫]] drives [[GuanzhongRegion|三辅 / 关中]] actors near [[ChangAnHanCapital|长安]] back toward local self-defense, Deng Yu wins submissions but refuses a premature Chang'an attack, and Liu Xuan's killing and burial on [[LiuXiu|刘秀]]'s order show that a fallen claimant can remain dangerous as a rallying figure. No settled contradiction is recorded; 三府 is treated as Sanfu context, 赵熹 is routed to the existing Zhao Xi page, and 泄露 plus 刘次 remain source-scoped transcript forms.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ChangAnHanCapital",
+        "ChanglePalace",
+        "ChimeiRebellion",
+        "CoreBeforePeripheryStrategy",
+        "DengYuEasternHan",
+        "GuanzhongRegion",
+        "LiuPenziEasternHan",
+        "LiuXiu",
+        "LiuXuanGengshiEmperor",
+        "RuiqiJiangtouZizhiTongjian",
+        "StatusDrivenCommandFailure",
+        "ZhaoXiEasternHan",
+        "zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv",
+        "zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi",
+        "zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv"
+      ]
+    },
     {
       "id": "201d62600598920da514186fc0028618b319f100e606c5a7074ad973c92381e0",
       "primary_topic": "governance-and-institutions",

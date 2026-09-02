@@ -10,16 +10,21 @@ sources:
   - zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh
   - zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d
   - zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv
+  - zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv
 last_updated: 2026-09-02
 ---
 
 ## Overview
 
-The Red Eyebrows / 赤眉 are synthesized as a popular-revolt force that begins as a sign of [[XinDynasty|Xin dynasty]] collapse, exposes hollow regime authority through palace banquet disorder and [[LiuPenziEasternHan|刘盆子]]'s failed abdication in Jianwu 2, burns and plunders [[ChangAnHanCapital|长安]] while [[LiuXiu|光武帝刘秀]] receives Han symbolic resources into Luoyang, becomes a destructive Guanzhong military and famine problem, and ends as a Jianwu 3 surrender-settlement test. [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780|Wang Mang 126]] supplies the Xin-collapse context, [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] supplies palace-level disorder before the failed abdication, [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] supplies the internal discipline and figurehead-rule layer, [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] supplies Chang'an destruction and westward plunder, [[zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz|Hanji 687]] supplies later snow loss, Chang'an reentry, mausoleum looting, famine pressure, and Huayin attrition, and [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] supplies final defeat, mass surrender, provisioning, relocation, and punishment boundaries.
+The Red Eyebrows / 赤眉 are synthesized as a popular-revolt force that begins as a sign of [[XinDynasty|Xin dynasty]] collapse, enters [[ChanglePalace|长乐宫]] through [[LiuPenziEasternHan|刘盆子]] while alienating Sanfu through immediate plunder, kills the fallen [[LiuXuanGengshiEmperor|更始帝刘玄]] when sympathy for him becomes dangerous, exposes hollow regime authority through later palace banquet disorder and failed abdication, destroys [[ChangAnHanCapital|长安]], becomes a Guanzhong famine and attrition problem, and ends as a Jianwu 3 surrender-settlement test. [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780|Wang Mang 126]] supplies the Xin-collapse context, [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] supplies the earliest current Changle Palace, Sanfu-alienation, Liu Xuan, and [[DengYuEasternHan|邓禹]] contrast layer, Hanji 682-684 supply the palace-disorder, failed-abdication, and Chang'an destruction sequence, and Hanji 687-688 supply the famine, battlefield, surrender, provisioning, relocation, and punishment-boundary endgame.
 
 ## Current Profile
 
 Wang Mang 126 frames the Red Eyebrows as one of the popular military pressures that expose the failure of Wang Mang's ideological and administrative state project. The page's earliest role therefore remains a collapse marker: Red Eyebrows appear alongside [[LulinRebellion|绿林]] and the [[KunyangBattle|Battle of Kunyang]] as signs that legitimacy had failed at the social and military level.
+
+Hanji 680 now adds the earliest current Eastern Han restoration layer. After Liu Penzi enters Changle Palace, Sanfu commanderies and local camps send envoys, but Chimei troops rob goods and sometimes kill people. The episode contrasts that coercive occupation with Deng Yu's disciplined army, which receives thousands of daily submissions because it does not abuse civilians and because Deng Yu comforts those who come over.
+
+The same source also shows Chimei turning the deposed Liu Xuan into a liability. Sanfu people suffer under Chimei and hope to save Liu Xuan, while Zhang Ang's group worries that he will remain a rallying figure. Liu Xuan is strangled at night under Chimei control; Liu Gong hides the body, and Liu Xiu later orders Deng Yu to bury him at Bali.
 
 Hanji 682 shows the palace-level disorder before Liu Penzi's failed abdication. At Chimei's laji banquet, argument and fighting erupt before the celebration begins; soldiers leap over walls, break palace gates, seize wine and meat, and kill one another. Liu Penzi is young, frightened, and often crying alone. The source makes regime crisis visible as internal troop disorder, not only as later battlefield defeat.
 
@@ -38,17 +43,21 @@ That settlement is coercive but not indiscriminate annihilation. Leaders' househ
 ## Key Characteristics
 
 - Popular-revolt force that marks Xin collapse and the failure of Wang Mang's regime at the social level.
-- Regime-building failure whose palace disorder and Liu-family figurehead's fear precede his inability to stop commander plunder.
+- Changle Palace occupier whose immediate plunder after Liu Penzi's entry alienates Sanfu before later palace disorder.
+- Regime-building failure whose Liu-family figurehead's fear and failed abdication cannot turn imperial title into command discipline.
 - Old-capital destroyer whose Chang'an plunder, fires, and westward looting contrast with Luoyang's reception of Han ritual symbols.
-- Mobile Jianwu 2 military problem whose westward movement later fails under Wei Xiao-side interception and snow losses.
 - Destructive Guanzhong force tied to Chang'an reentry, Sanfu famine, imperial mausoleum looting, and source-scoped corpse-humiliation memory.
-- Enemy movement that exposes Deng Yu's weakening command before his larger Hanji 688 rout.
+- Enemy movement that first exposes Deng Yu's disciplined wait-and-rest strategy and later exposes his weakening command.
 - Defeated movement whose endpoint is mass surrender under overwhelming force and controlled provisioning.
 
 ## Evidence
 
 - Xin-collapse role: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780|Wang Mang 126]] names Red Eyebrows as an uprising during the unraveling of Wang Mang's state.
 - Crisis context: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780|Wang Mang 126]] connects the uprising to displacement, inflation, natural disaster, frontier stress, and popular violence under the Xin regime.
+- Early Changle Palace occupation: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Liu Penzi enters Changle Palace and Sanfu commandery and camp leaders send envoys.
+- Sanfu alienation: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Chimei troops rob goods and sometimes kill people, driving officials and civilians back toward camps.
+- Deng Yu contrast: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] contrasts Chimei disorder with Deng Yu's disciplined army and his refusal to attack Chang'an before troop and supply conditions improve.
+- Liu Xuan killing: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Sanfu sympathy for Liu Xuan makes him dangerous to Zhang Ang's group, after which he is strangled under Chimei control.
 - Palace banquet disorder: [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] says Chimei's laji banquet collapses into internal fighting, palace gate-breaking, wine-and-meat seizure, and mutual killing.
 - Liu Penzi fear: [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] says young Liu Penzi is frightened by the disorder and often cries alone while attendants pity him.
 - Figurehead-rule failure: [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] says Liu Penzi tries to return the seal and ribbon because Chimei commanders still plunder and the people do not trust them.
@@ -66,12 +75,12 @@ That settlement is coercive but not indiscriminate annihilation. Leaders' househ
 
 ## Qualifications
 
-This page does not reconstruct the full Chimei chronology, internal leadership structure, or exact force numbers. Wang Mang 126 gives the collapse-context layer rather than a Chimei-centered account. Hanji 682 gives a focused palace-disorder scene but keeps the exact banquet participants and riot mechanics source-scoped. Hanji 683 gives a focused figurehead-and-discipline scene but not a complete Chimei political institution. Hanji 684 gives an old-capital destruction and tablet-transfer juxtaposition; exact officials, numbers, and the full custody chain for the tablets remain source-scoped. Hanji 687 gives a focused Jianwu 2 Guanzhong and famine layer, but exact snow-loss numbers, force counts, and minor commanders remain source-scoped. The Lu Zhi corpse-violation report is recorded as a historical tradition but not asserted as certain. Hanji 688 gives a focused Jianwu 3 surrender layer, but Liu Gong, Xu Xuan, Yang Yin, Fan Chong, Feng An, Xie Lu, Deng Hong, and exact surrender counts remain source-scoped unless more evidence accumulates.
+This page does not reconstruct the full Chimei chronology, internal leadership structure, or exact force numbers. Wang Mang 126 gives the collapse-context layer rather than a Chimei-centered account. Hanji 680 gives an early Changle Palace and Liu Xuan death layer, but `三府`, `泄露`, `刘次`, and minor route details remain source-scoped transcript forms. Hanji 682 gives a focused palace-disorder scene but keeps the exact banquet participants and riot mechanics source-scoped. Hanji 683 gives a focused figurehead-and-discipline scene but not a complete Chimei political institution. Hanji 684 gives an old-capital destruction and tablet-transfer juxtaposition; exact officials, numbers, and the full custody chain for the tablets remain source-scoped. Hanji 687 gives a focused Jianwu 2 Guanzhong and famine layer, but exact snow-loss numbers, force counts, and minor commanders remain source-scoped. The Lu Zhi corpse-violation report is recorded as a historical tradition but not asserted as certain. Hanji 688 gives a focused Jianwu 3 surrender layer, but Xu Xuan, Yang Yin, Fan Chong, Feng An, Xie Lu, Deng Hong, and exact surrender counts remain source-scoped unless more evidence accumulates.
 
 ## What Changed
 
-- Added Hanji 682 as the palace-banquet disorder and Liu Penzi fear layer before failed abdication.
-- Preserved Hanji 683 as the failed-abdication, figurehead-rule, temporary-discipline, and renewed-plunder layer.
+- Added Hanji 680 as the earliest current Changle Palace, Sanfu-alienation, Deng Yu contrast, and Liu Xuan death layer.
+- Preserved Hanji 682-683 as the palace-disorder, Liu Penzi fear, failed-abdication, temporary-discipline, and renewed-plunder sequence.
 - Preserved Hanji 684 as the Chang'an plunder/fire, westward looting, and Western Han tablet-transfer layer.
 - Preserved Hanji 687 as the mausoleum-looting, Sanfu famine, Chang'an reentry, Deng Yu deterioration, and Huayin attrition layer.
 - Preserved Hanji 688 as the final defeat, surrender, provisioning, relocation, and punishment-boundary layer.
@@ -83,9 +92,11 @@ This page does not reconstruct the full Chimei chronology, internal leadership s
 - [[LulinRebellion|绿林]] - parallel popular-revolt pressure during Xin collapse.
 - [[KunyangBattle|Battle of Kunyang]] - restoration-conflict context near the broader collapse.
 - [[LiuXiu|光武帝刘秀]] - consolidating ruler who pressures, defeats, receives, feeds, displays force over, and relocates Chimei remnants.
-- [[DengYuEasternHan|邓禹]] - Han commander whose repeated Chimei defeats become a command-failure case.
+- [[DengYuEasternHan|邓禹]] - Han commander whose early Chimei patience later deteriorates into repeated defeats.
 - [[FengYiEasternHan|冯异]] - Han commander whose Huayin pressure, patience, and disguised ambush help break the Chimei field.
 - [[LiuPenziEasternHan|刘盆子]] - Chimei figurehead whose failed abdication and later surrender personify the movement's hollow regime authority.
+- [[LiuXuanGengshiEmperor|更始帝刘玄]] - captive former ruler whose killing shows Chimei fear of residual public sympathy.
+- [[ZhaoXiEasternHan|赵熙 / 赵熹]] - official whose aid to Liu Xuan's relatives appears in the aftermath of Chimei violence.
 - [[WeiXiaoEasternHan|隗嚣]] - western power whose side helps block Chimei's attempted move into Long.
 - [[LuZhi|吕雉]] - Western Han empress whose corpse is attached to the source-scoped Chimei mausoleum-violation tradition.
 - [[GuanzhongRegion|关中]] - regional field where Chimei pressure becomes famine, desertion, and surrender.

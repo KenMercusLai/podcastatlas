@@ -4,8 +4,8 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-02
-as_of_overview_commit: 0b97064206b131826b49dfb2c0204251ee918132
-input_digest: 12ee318e6bf12160b6b3021fc5d4e587e1d95060c77e17b14aaca95ce67b4c9a
+as_of_overview_commit: d3ae7e7cf70d8911f43996fd425941e08b8bea6c
+input_digest: cb3ff54a40cfc0cbfc767d5968d395a98bf84166b8a5d0cc5d2e69436f64a726
 ---
 
 # History and Geopolitics
@@ -27,6 +27,18 @@ Hanji 685 now adds the earliest current Guangwu/Jianwu 2 layer: Song Hong's Da S
 - The source distinguishes Hoffmann 1841 unity-over-localism meaning from later militarist and Nazi reception.
 - The 1954 World Cup broadcast story, East German popularity, and reunification-anthem proposals remain source-scoped.
 - This claim extends the anthem-history branch beside Brazil and the Netherlands rather than replacing those cases.
+
+### Early Eastern Han 680 Chimei Liu Xuan And Deng Yu Waiting Strategy
+
+[[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] backfills Jianwu 1 / 25 CE before [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] and [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]]: [[ChimeiRebellion]] plunder after [[LiuPenziEasternHan]] enters [[ChanglePalace]] damages Sanfu support around [[GuanzhongRegion]] and [[ChangAnHanCapital]], while [[DengYuEasternHan]] uses [[CoreBeforePeripheryStrategy]] by winning submissions through discipline and refusing a premature Chang'an attack. The killing and burial of [[LiuXuanGengshiEmperor]] on [[LiuXiu]]'s order, plus [[ZhaoXiEasternHan]]'s aid to relatives, make fallen-claimant risk part of early Guangwu consolidation and qualify the later [[StatusDrivenCommandFailure]] reading of Deng Yu.
+
+**Evidence:** [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv]], [[RuiqiJiangtouZizhiTongjian]], [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi]], [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv]], [[LiuXuanGengshiEmperor]], [[ChimeiRebellion]], [[LiuPenziEasternHan]], [[DengYuEasternHan]], [[ZhaoXiEasternHan]], [[CoreBeforePeripheryStrategy]], [[StatusDrivenCommandFailure]], [[ChanglePalace]], [[GuanzhongRegion]], [[ChangAnHanCapital]], [[LiuXiu]]
+
+**Qualifications:**
+
+- The source backfills Jianwu 1 / 25 CE before Hanji 681 and Hanji 682, so it adjusts the starting point of the current Chimei-Guanzhong arc without reversing the later Hanji 687-688 collapse evidence.
+- The transcript's Sanfu, Zhao Xi, killer-name, and Liu Ci forms remain source-scoped; the claim relies only on the page-level normalized routes.
+- Deng Yu's capacity-aware delay in this source qualifies, rather than cancels, the later status-driven command-failure reading from Hanji 688.
 
 ### Early Eastern Han 685 Song Hong Restraint And Peng Chong Rebellion Origin
 

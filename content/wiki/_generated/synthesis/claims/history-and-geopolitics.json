@@ -33,6 +33,34 @@
     },
     {
       "global_candidate": false,
+      "id": "early-eastern-han-680-chimei-liu-xuan-and-deng-yu-waiting-strategy",
+      "qualifications": [
+        "The source backfills Jianwu 1 / 25 CE before Hanji 681 and Hanji 682, so it adjusts the starting point of the current Chimei-Guanzhong arc without reversing the later Hanji 687-688 collapse evidence.",
+        "The transcript's Sanfu, Zhao Xi, killer-name, and Liu Ci forms remain source-scoped; the claim relies only on the page-level normalized routes.",
+        "Deng Yu's capacity-aware delay in this source qualifies, rather than cancels, the later status-driven command-failure reading from Hanji 688."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] backfills Jianwu 1 / 25 CE before [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] and [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]]: [[ChimeiRebellion]] plunder after [[LiuPenziEasternHan]] enters [[ChanglePalace]] damages Sanfu support around [[GuanzhongRegion]] and [[ChangAnHanCapital]], while [[DengYuEasternHan]] uses [[CoreBeforePeripheryStrategy]] by winning submissions through discipline and refusing a premature Chang'an attack. The killing and burial of [[LiuXuanGengshiEmperor]] on [[LiuXiu]]'s order, plus [[ZhaoXiEasternHan]]'s aid to relatives, make fallen-claimant risk part of early Guangwu consolidation and qualify the later [[StatusDrivenCommandFailure]] reading of Deng Yu.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv",
+        "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi",
+        "zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv",
+        "LiuXuanGengshiEmperor",
+        "ChimeiRebellion",
+        "LiuPenziEasternHan",
+        "DengYuEasternHan",
+        "ZhaoXiEasternHan",
+        "CoreBeforePeripheryStrategy",
+        "StatusDrivenCommandFailure",
+        "ChanglePalace",
+        "GuanzhongRegion",
+        "ChangAnHanCapital",
+        "LiuXiu"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "early-eastern-han-685-song-hong-restraint-and-peng-chong-rebellion-origin",
       "qualifications": [
         "The source backfills Jianwu 2 / 26 CE and should be read as origin context before Hanji 686-688 and Hanji 693 rather than as the full Peng Chong endgame.",

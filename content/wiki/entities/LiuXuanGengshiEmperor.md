@@ -1,0 +1,61 @@
+---
+title: "更始帝刘玄 / Liu Xuan (Gengshi Emperor)"
+type: entity
+knowledge_schema: synthesis-v1
+tags: [person, eastern-han, gengshi-regime, chimei, imperial-claimant]
+sources:
+  - zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv
+  - zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d
+  - zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf
+last_updated: 2026-09-02
+---
+
+## Overview
+
+更始帝刘玄 / Liu Xuan is synthesized as a fallen Gengshi ruler whose value after deposition lies less in command power than in dangerous residual loyalty. [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] records Sanfu sympathy, his strangling under [[ChimeiRebellion|赤眉]] control, [[LiuXiu|刘秀]]'s later order for burial through [[DengYuEasternHan|邓禹]], and [[ZhaoXiEasternHan|赵熙 / 赵熹]]'s aid to his relatives. [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] then shows former Gengshi loyalists using mourning for Liu Xuan to make surrender morally legible, while [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] preserves a later family consequence through his son Liu Li.
+
+## Current Profile
+
+Hanji 680 supplies Liu Xuan's current core profile. After Chimei occupies Chang'an, Sanfu officials and civilians suffer from plunder and killings, sympathize with the deposed Gengshi emperor, and hope to save him. Zhang Ang's group treats that sympathy as a risk and arranges Liu Xuan's night killing. Liu Gong hides the body, and Liu Xiu later orders Deng Yu to bury Liu Xuan at Bali.
+
+The same source extends Liu Xuan's posthumous profile through family vulnerability. His relatives are hungry near Wuguan, and Zhao Xi helps them with money, food, and escort arrangements. The source says Liu Ci sends people to receive them home, but that transcript form remains source-scoped here.
+
+Hanji 684 shows that Liu Xuan's death still structures surrender after the killing. Bao Yong and Feng Yan mourn their old ruler, release the people, seal official insignia, and disperse their followers before going to Henei. The wiki reads this as a loyalty-reframing moment: old allegiance can be presented as honorable mourning rather than continuing rebellion.
+
+Hanji 728 adds a later dynastic-family echo. Liu Li, identified there as Liu Xuan's son and Shouguang Marquis, is favored by Pei King Liu Fu, resents Liu Penzi, gathers guests, and kills Liu Gong. That episode belongs primarily to the prince-guest purge, but it also shows that Chimei and Gengshi grievances can remain active through Liu Xuan's descendants.
+
+## Key Characteristics
+
+- Fallen Gengshi emperor whose person remains dangerous as a rallying figure after loss of effective power.
+- Object of Sanfu sympathy under Chimei occupation and disorder.
+- Victim killed under Chimei control, then privately protected by Liu Gong and formally buried on Liu Xiu's order.
+- Old ruler whose death lets Bao Yong and Feng Yan stage a surrender as mourning rather than simple opportunism.
+- Dynastic father whose son Liu Li later reopens Chimei and Liu-family grievance through guest-backed violence.
+
+## Evidence
+
+- Post-deposition sympathy: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Sanfu people suffer under Chimei, sympathize with Liu Xuan, and hope to rescue him.
+- Killing and burial chain: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Zhang Ang's group arranges the night strangling, Liu Gong hides Liu Xuan's body, and Liu Xiu orders Deng Yu to bury him at Bali.
+- Family vulnerability: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Zhao Xi helps Liu Xuan's hungry relatives near Wuguan with money, food, and escort support.
+- Mourning before surrender: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Bao Yong and Feng Yan mourn Liu Xuan, release people, seal insignia, disperse followers, and go to Henei.
+- Son and later grievance: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] identifies Liu Li as Liu Xuan's son and says his resentment toward Liu Penzi leads to Liu Gong's killing.
+
+## Qualifications
+
+This page does not reconstruct Liu Xuan's full rise, rule, deposition, or Gengshi regime. Hanji 680 supplies only the terminal Chimei-controlled layer and family aftermath; the killer name appears in transcript form as `泄露` and remains source-scoped. Hanji 684 uses Liu Xuan as the old ruler mourned by Bao Yong and Feng Yan rather than supplying a biography. Hanji 728 uses Liu Xuan mainly to identify Liu Li's descent, so the later prince-guest purge should not be read back as Liu Xuan's own policy.
+
+## What Changed
+
+- Created the page to capture Liu Xuan's residual rallying value, killing under Chimei control, Guangwu-ordered burial, family vulnerability, and later descendant echo.
+
+## Relationships
+
+- [[ChimeiRebellion|赤眉]] - controlling force whose leaders kill Liu Xuan when public sympathy makes him dangerous.
+- [[LiuPenziEasternHan|刘盆子]] - Chimei figurehead whose regime coexists with the captive former Gengshi emperor.
+- [[LiuXiu|光武帝刘秀]] - rival restoration founder who later orders Liu Xuan's burial.
+- [[DengYuEasternHan|邓禹]] - commander ordered to bury Liu Xuan.
+- [[ZhaoXiEasternHan|赵熙 / 赵熹]] - official who helps Liu Xuan's hungry relatives return after the killing.
+- [[BaoYongEasternHan|鲍永]] - former Gengshi loyalist whose surrender posture begins with mourning Liu Xuan.
+- [[FengYanEasternHan|冯衍]] - paired former Gengshi actor who joins Bao Yong's mourning-and-surrender sequence.
+- [[LiuLiShouguangMarquisEasternHan|寿光侯刘李]] - son whose later resentment toward Liu Penzi triggers guest-backed violence.
+- [[FormerEnemyLoyaltyReframing|旧敌忠义重释]] - concept relationship because Liu Xuan's death makes old-lord mourning legible under the new order.
