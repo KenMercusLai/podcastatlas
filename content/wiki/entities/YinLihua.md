@@ -10,14 +10,17 @@ sources:
   - zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix
   - zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2
   - zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc
+  - zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv
 last_updated: 2026-09-02
 ---
 
 ## Overview
 
-阴丽华 / Yin Lihua is synthesized from six source-bounded roles. [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|Hanji 686]] now gives the earliest palace-decision layer: Liu Xiu wants to make her empress, but she declines because [[GuoShengtong|郭圣通]] has already borne a son. Hanji 719 later shows her elevation after Guo is deposed; Hanji 709 and Hanji 915 preserve her family as a hostage-ransom deterrence precedent; Hanji 732 shows [[EmperorMingOfHan|Mingdi]] honoring her as empress dowager at accession; and Hanji 737 gives her broader imperial-memory profile through death, burial, and the 光烈 posthumous title.
+阴丽华 / Yin Lihua is synthesized from seven source-bounded roles. [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] now gives the earliest Luoyang recognition layer: Liu Xiu sends for Yin Lihua, Princess Huyang, and Princess Ningping, then makes Yin Lihua a guiren. [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|Hanji 686]] then gives the palace-decision layer: Liu Xiu wants to make her empress, but she declines because [[GuoShengtong|郭圣通]] has already borne a son. Hanji 719 later shows her elevation after Guo is deposed; Hanji 709 and Hanji 915 preserve her family as a hostage-ransom deterrence precedent; Hanji 732 shows [[EmperorMingOfHan|Mingdi]] honoring her as empress dowager at accession; and Hanji 737 gives her broader imperial-memory profile through death, burial, and the 光烈 posthumous title.
 
 ## Current Profile
+
+Hanji 682 supplies the earliest current Luoyang recognition evidence. Liu Xiu sends for Yin Lihua, his elder sister Princess Huyang, and younger sister Princess Ningping to come to Luoyang, then makes Yin Lihua a guiren. The same notice summons Li Tong, who had married Ningping, into court service.
 
 Hanji 686 supplies the earliest current evidence of Yin Lihua's empress-position agency. The source says Liu Xiu had long wanted to make Yin empress, but Yin declined because Guo had already given birth to a son. That refusal makes the first Guo-Liu Qiang settlement possible: Guo becomes empress and Liu Qiang becomes crown prince in 26 CE.
 
@@ -31,7 +34,7 @@ Hanji 732 supplies the accession recognition layer. After Liu Xiu dies in 57 CE,
 
 ## Key Characteristics
 
-- Liu Xiu's long-preferred consort who declines initial empress status in 26 CE because Guo has already borne a son.
+- Liu Xiu's long-preferred consort who is brought to Luoyang as guiren before declining initial empress status in 26 CE because Guo has already borne a son.
 - Replacement empress in the 41 CE deposition settlement after Guo's position weakens.
 - Eastern Han empress dowager remembered through dynastic ritual, accession recognition, and hostage-precedent contexts.
 - Mingdi's mother and maternal legitimacy source in Hanji 732 and Hanji 737.
@@ -41,6 +44,7 @@ Hanji 732 supplies the accession recognition layer. After Liu Xiu dies in 57 CE,
 
 ## Evidence
 
+- Early Luoyang recognition: [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] says Liu Xiu sends for Yin Lihua, Princess Huyang, and Princess Ningping to come to Luoyang, then makes Yin Lihua a guiren.
 - Initial refusal: [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|Hanji 686]] says Yin Lihua refuses the empress position because Guo has already borne Liu Xiu a son.
 - Guo-Liu Qiang settlement: [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|Hanji 686]] says Guo becomes empress and Liu Qiang crown prince after Yin's refusal.
 - Direct hostage precedent: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] says Yin Lihua's mother and brother are taken hostage and killed after officials refuse to prioritize ransom or hostage safety.
@@ -54,11 +58,12 @@ Hanji 732 supplies the accession recognition layer. After Liu Xiu dies in 57 CE,
 
 ## Qualifications
 
-The page remains bounded to the six listed source notes. Hanji 686 makes Yin's refusal central to the 26 CE empress decision, but it does not establish a complete personal motive beyond the stated reason that Guo had already borne a son. Hanji 709 concerns Yin's family and the Yin household's political status more than her own decision-making. Hanji 719 and Hanji 737 include modernized and gendered source commentary; the wiki treats the durable claims as Liu Xiu's preference, Yin's refusal and later elevation, hostage precedent, and dynastic title memory.
+The page remains bounded to the seven listed source notes. Hanji 682 establishes Luoyang arrival and guiren status but not the motive behind timing, rank choice, or family summons. Hanji 686 makes Yin's refusal central to the 26 CE empress decision, but it does not establish a complete personal motive beyond the stated reason that Guo had already borne a son. Hanji 709 concerns Yin's family and the Yin household's political status more than her own decision-making. Hanji 719 and Hanji 737 include modernized and gendered source commentary; the wiki treats the durable claims as Liu Xiu's preference, Yin's refusal and later elevation, hostage precedent, and dynastic title memory.
 
 ## What Changed
 
-- Added Hanji 686 as the earliest palace-decision layer: Yin declines the empress position because Guo has already borne a son.
+- Added Hanji 682 as Yin Lihua's earliest Luoyang arrival and guiren-status layer.
+- Preserved Hanji 686 as the earliest palace-decision layer: Yin declines the empress position because Guo has already borne a son.
 - Reframed Yin's later elevation as following an earlier refusal, not simply delayed formal recognition of Liu Xiu's preference.
 - Preserved Hanji 709 as direct evidence for Yin Lihua's family hostage case and Yin-family restraint advice.
 - Preserved Hanji 719, Hanji 732, Hanji 737, and Hanji 915 as elevation, accession, title-memory, and later comparison layers.
@@ -66,6 +71,7 @@ The page remains bounded to the six listed source notes. Hanji 686 makes Yin's r
 ## Relationships
 
 - [[LiuXiu|刘秀]] - spouse and emperor whose preference for Yin is first checked by her refusal and later becomes formal empress status in 41 CE.
+- [[LiTongEasternHan|李通]] - related court-summons context because Hanji 682 pairs Yin Lihua's Luoyang arrival with Li Tong's summons through Princess Ningping.
 - [[GuoShengtong|郭圣通]] - first empress whose son-based position explains Yin's initial refusal and whose later deposition enables Yin's elevation.
 - [[LiuQiangDonghaiKing|刘强]] - Guo's son whose crown-prince status makes Yin's initial refusal politically consequential.
 - [[YinXingGuangwuMaternalKin|阴兴]] - younger brother and outer-relative restraint adviser connected to Yin's family status.

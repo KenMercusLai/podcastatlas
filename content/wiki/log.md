@@ -14939,3 +14939,11 @@ Ingested the 2026-06-13 芮淇讲透资治通鉴 episode backfilling Jianwu 2 / 
 ## [2026-09-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-02] ingest | 《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道
+
+Ingested the 2026-06-13 芮淇讲透资治通鉴 episode backfilling Jianwu 2 / 26 CE around Deng Yu's Chang'an mission divergence, the Feng Yin-Zong Xin-Huang Fang command mutiny, Zong Guang's surrendered-general executions, Chimei palace disorder and Liu Penzi's fear, Yin Lihua's Luoyang guiren recognition, and Wang Hong's mandate-backed confrontation with Zhang Bu. Added source `zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv`; created `WangHongEasternHan`; updated `DengYuEasternHan`, `LiuPenziEasternHan`, `ChimeiRebellion`, `ZhangBuEasternHan`, `YinLihua`, `CharacterReadingDelegationTrust`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Wang Hong is disambiguated from `WangHongLateHan`, Li Tong is routed to `LiTongEasternHan`, Wang Kuang is not merged with `WangKuangLateHan`, and Feng Yin, Zong Xin, Huang Fang, Zong Guang, Hu Yin, Cheng Dan, and minor local details remain source-scoped.
+
+## [2026-09-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

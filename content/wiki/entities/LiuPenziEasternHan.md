@@ -6,16 +6,19 @@ tags: [person, eastern-han, chimei, surrender, figurehead]
 sources:
   - zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60
   - zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh
+  - zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv
 last_updated: 2026-09-02
 ---
 
 ## Overview
 
-Liu Penzi / 刘盆子 is synthesized as the [[ChimeiRebellion|Chimei]] figurehead whose imperial title never becomes command authority. [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] now supplies the pre-surrender layer: the former herdboy tries to return the seal and ribbon because his troops still plunder and the people do not trust them, but the commanders carry him back to the throne. [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] then shows the same figurehead submitting to [[LiuXiu|光武帝刘秀]] and surviving through controlled settlement.
+Liu Penzi / 刘盆子 is synthesized as the [[ChimeiRebellion|Chimei]] figurehead whose imperial title never becomes command authority. [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] now supplies the earliest current palace-disorder layer: Chimei soldiers fight, break into the palace, seize banquet food and wine, and kill one another while Liu Penzi is terrified and often cries alone. [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] then supplies the failed-abdication layer, and [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] shows the same figurehead submitting to [[LiuXiu|光武帝刘秀]] and surviving through controlled settlement.
 
 ## Current Profile
 
-Hanji 683 presents Liu Penzi's kingship as coercive exposure rather than fortune. His brother Liu Gong sees that the Chimei regime is internally unstable and urges him to surrender the imperial symbols at the New Year assembly. Liu Penzi follows through by descending from the throne, removing the seal and ribbon, crying, and asking to be made a commoner.
+Hanji 682 presents Liu Penzi's kingship as visible fear before formal abdication language appears. During Chimei's laji banquet, internal argument and fighting erupt before the feast begins; soldiers leap over walls, break open palace gates, seize wine and meat, and kill one another. Liu Penzi is still young, terrified by the disorder, and often cries alone, while his attendants pity his position.
+
+Hanji 683 then presents Liu Penzi's kingship as coercive exposure rather than fortune. His brother Liu Gong sees that the Chimei regime is internally unstable and urges him to surrender the imperial symbols at the New Year assembly. Liu Penzi follows through by descending from the throne, removing the seal and ribbon, crying, and asking to be made a commoner.
 
 The speech is politically lucid but practically powerless. Liu Penzi says that although he is called emperor, the commanders continue plundering as before, so the people of the realm do not trust them. The commanders admit the fault is theirs rather than his, yet they refuse to let him leave and physically return him to the throne. Public confidence in Chang'an briefly improves, but the Chimei army soon resumes looting.
 
@@ -27,7 +30,7 @@ Liu Penzi's later treatment shows differentiated settlement. He is made a langzh
 
 ## Key Characteristics
 
-- Former herdboy and Chimei figurehead whose imperial title exceeds his actual control over troops.
+- Frightened adolescent and former herdboy whose Chimei imperial title exceeds his actual control over troops.
 - Clear critic of Chimei plunder and legitimacy failure, despite lacking coercive authority to correct it.
 - Failed abdication case in which returning seal and ribbon cannot overcome commander-group interests.
 - Public confidence signal whose temporary effect collapses when military discipline does not change.
@@ -37,6 +40,7 @@ Liu Penzi's later treatment shows differentiated settlement. He is made a langzh
 
 ## Evidence
 
+- Palace-disorder exposure: [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] says Chimei soldiers fight before the laji banquet, break into the palace, seize food and wine, kill one another, and leave Liu Penzi frightened and crying.
 - Figurehead origin and abdication attempt: [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] frames Liu Penzi as a former herdboy who asks to return the seal and ribbon and withdraw from the throne.
 - Legitimacy diagnosis without command power: [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] says Liu Penzi complains that the commanders still plunder and that the people do not trust them.
 - Commander refusal and short-lived effect: [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] says the commanders carry Liu Penzi back to the throne, briefly restrain themselves, and then resume plundering.
@@ -47,17 +51,19 @@ Liu Penzi's later treatment shows differentiated settlement. He is made a langzh
 
 ## Qualifications
 
-This page does not reconstruct Liu Penzi's full pre-Chimei biography, the complete mechanics of his selection, or every Chimei leader's role. Hanji 683 supports the figurehead-and-failed-abdication profile, while Hanji 688 supports the surrender-and-settlement profile. The evidence also keeps the settlement coercive: arms are surrendered, military power is displayed, households are relocated, and renewed plotting is punished.
+This page does not reconstruct Liu Penzi's full pre-Chimei biography, the complete mechanics of his selection, or every Chimei leader's role. Hanji 682 supplies the palace-disorder and fear scene, while only its closing setup notes that Liu Penzi was fifteen and selected by lot. Hanji 683 supports the figurehead-and-failed-abdication profile, while Hanji 688 supports the surrender-and-settlement profile. The evidence also keeps the settlement coercive: arms are surrendered, military power is displayed, households are relocated, and renewed plotting is punished.
 
 ## What Changed
 
-- Added Hanji 683 as Liu Penzi's failed-abdication and hollow-authority layer.
+- Added Hanji 682 as Liu Penzi's palace-disorder, fear, and pre-abdication powerlessness layer.
+- Preserved Hanji 683 as Liu Penzi's failed-abdication and hollow-authority layer.
 - Reframed Liu Penzi from only a final surrender actor into a figurehead whose lack of command was visible before Chimei's collapse.
 - Preserved Hanji 688 as the final surrender, provisioning, appointment, later support, and punishment-boundary layer.
 
 ## Relationships
 
 - [[ChimeiRebellion|赤眉]] - movement for which Liu Penzi serves as figurehead ruler and later surrendering representative.
+- [[ChangAnHanCapital|长安]] - palace setting where Liu Penzi's powerlessness becomes visible before his later failed abdication.
 - [[LiuXiu|光武帝刘秀]] - receiving ruler who spares, displays power over, appoints, and later supports Liu Penzi.
 - [[FengYiEasternHan|冯异]] - commander whose victory precedes the Chimei surrender.
 - [[PoliticalSurrenderCascade|招降示范级联]] - related mechanism because public surrender and safe treatment affect expectations among remaining followers.

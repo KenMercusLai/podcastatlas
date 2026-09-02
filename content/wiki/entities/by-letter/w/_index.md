@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8792
+wiki_total_pages: 8793
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1103,6 +1103,9 @@ wiki_pages:
   - key: "WangLangHebeiClaimant"
     title: "王郎 / Wang Lang (Hebei Claimant)"
     url: "/wiki/entities/wanglanghebeiclaimant/"
+  - key: "WangHongEasternHan"
+    title: "王闳 / Wang Hong (Eastern Han)"
+    url: "/wiki/entities/wanghongeasternhan/"
   - key: "WangYangming"
     title: "王阳明 / Wang Yangming"
     url: "/wiki/entities/wangyangming/"

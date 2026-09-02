@@ -7277,6 +7277,36 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/changpengzhao/"
     },
+    "CharacterReadingDelegationTrust": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
+          "key": "zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先 [lvCkWLHZ5g_oApPy89THYE9oyrTo].md",
+          "key": "zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道 [lk1eQ46vftaUl1HAzk2GGPtrtvdV].md",
+          "key": "zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/concepts/characterreadingdelegationtrust/"
+    },
     "CheNiuChanyu": {
       "episode_count": 1,
       "show_count": 1,
@@ -8036,9 +8066,9 @@
       "url": "/wiki/entities/chesterwilliams/"
     },
     "ChimeiRebellion": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -8074,6 +8104,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道 [lk1eQ46vftaUl1HAzk2GGPtrtvdV].md",
+          "key": "zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv/"
         }
       ],
       "updated": "2026-09-02",
@@ -11858,9 +11895,9 @@
       "url": "/wiki/entities/dengxuneasternhan/"
     },
     "DengYuEasternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
@@ -11896,6 +11933,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道 [lk1eQ46vftaUl1HAzk2GGPtrtvdV].md",
+          "key": "zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv/"
         }
       ],
       "updated": "2026-09-02",
@@ -30815,9 +30859,9 @@
       "url": "/wiki/entities/liumubeihaiking/"
     },
     "LiuPenziEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？ [lpabDVtmhtrF37PUwVgI4C9AjP60].md",
@@ -30832,6 +30876,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地",
           "url": "/wiki/sources/zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道 [lk1eQ46vftaUl1HAzk2GGPtrtvdV].md",
+          "key": "zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv/"
         }
       ],
       "updated": "2026-09-02",
@@ -51495,6 +51546,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/wanghaoshuscholar/"
     },
+    "WangHongEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道 [lk1eQ46vftaUl1HAzk2GGPtrtvdV].md",
+          "key": "zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv/"
+        }
+      ],
+      "updated": "2026-09-02",
+      "url": "/wiki/entities/wanghongeasternhan/"
+    },
     "WangHuanLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -55776,9 +55843,9 @@
       "url": "/wiki/entities/yinlaoshizhebing/"
     },
     "YinLihua": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？ [lgXCODJxnAOZvYEgxQUrgZjI5gUs].md",
@@ -55821,6 +55888,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》686丨刘秀发誓只爱阴丽华，为何立郭氏为后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道 [lk1eQ46vftaUl1HAzk2GGPtrtvdV].md",
+          "key": "zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv/"
         }
       ],
       "updated": "2026-09-02",
@@ -56808,9 +56882,9 @@
       "url": "/wiki/entities/zhangbailulatehan/"
     },
     "ZhangBuEasternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -56853,6 +56927,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道 [lk1eQ46vftaUl1HAzk2GGPtrtvdV].md",
+          "key": "zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》682丨揭秘古代帝皇的用人之道",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv/"
         }
       ],
       "updated": "2026-09-02",
