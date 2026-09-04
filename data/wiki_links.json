@@ -16823,6 +16823,10 @@
     "title": "Elisabeth Marie of Austria",
     "url": "/wiki/entities/elisabethmarieofaustria/"
   },
+  "ElissaEpel": {
+    "title": "Elissa Epel",
+    "url": "/wiki/entities/elissaepel/"
+  },
   "EliteCosmopolitanMobility": {
     "title": "Elite Cosmopolitan Mobility",
     "url": "/wiki/concepts/elitecosmopolitanmobility/"
@@ -35763,6 +35767,10 @@
     "title": "Mind Emulation Foundation",
     "url": "/wiki/entities/mindemulationfoundation/"
   },
+  "MindfulEatingCueControl": {
+    "title": "Mindful Eating Cue Control",
+    "url": "/wiki/concepts/mindfuleatingcuecontrol/"
+  },
   "Mindhunter": {
     "title": "Mindhunter",
     "url": "/wiki/entities/mindhunter/"
@@ -41555,6 +41563,10 @@
     "title": "Positive Journalism",
     "url": "/wiki/concepts/positivejournalism/"
   },
+  "PositiveStressBreathwork": {
+    "title": "Positive Stress Breathwork",
+    "url": "/wiki/concepts/positivestressbreathwork/"
+  },
   "PostAcquisitionFounderIdentity": {
     "title": "Post-Acquisition Founder Identity",
     "url": "/wiki/concepts/postacquisitionfounderidentity/"
@@ -43746,6 +43758,10 @@
   "RacingHeritageBrandMoat": {
     "title": "Racing Heritage Brand Moat",
     "url": "/wiki/concepts/racingheritagebrandmoat/"
+  },
+  "RadicalAcceptanceChronicStress": {
+    "title": "Radical Acceptance Chronic Stress",
+    "url": "/wiki/concepts/radicalacceptancechronicstress/"
   },
   "RadiochemistryImagingTracers": {
     "title": "Radiochemistry Imaging Tracers",
@@ -50267,6 +50283,18 @@
     "title": "Strength Training for Joint Protection / 保护关节的力量训练",
     "url": "/wiki/concepts/strengthtrainingjointprotection/"
   },
+  "StressBiologicalAging": {
+    "title": "Stress Biological Aging",
+    "url": "/wiki/concepts/stressbiologicalaging/"
+  },
+  "StressEatingRewardLoop": {
+    "title": "Stress Eating Reward Loop",
+    "url": "/wiki/concepts/stresseatingrewardloop/"
+  },
+  "StressResponseRecovery": {
+    "title": "Stress Response Recovery",
+    "url": "/wiki/concepts/stressresponserecovery/"
+  },
   "StretchingMobilitySafety": {
     "title": "Stretching and Mobility Safety / 拉伸与灵活性安全",
     "url": "/wiki/concepts/stretchingmobilitysafety/"
@@ -52635,6 +52663,10 @@
     "title": "Thorne",
     "url": "/wiki/entities/thorne/"
   },
+  "ThreatChallengeStressReappraisal": {
+    "title": "Threat Challenge Stress Reappraisal",
+    "url": "/wiki/concepts/threatchallengestressreappraisal/"
+  },
   "ThreatDrivenAllianceReversal": {
     "title": "Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转",
     "url": "/wiki/concepts/threatdrivenalliancereversal/"
@@ -54266,6 +54298,10 @@
   "UncertainEraOptionality": {
     "title": "Uncertain-Era Optionality / 乱纪元选择权",
     "url": "/wiki/concepts/uncertaineraoptionality/"
+  },
+  "UncertaintyToleranceResilience": {
+    "title": "Uncertainty Tolerance Resilience",
+    "url": "/wiki/concepts/uncertaintytoleranceresilience/"
   },
   "UndergraduateArtFieldwork": {
     "title": "Undergraduate Art Fieldwork / 本科艺术田野",
@@ -56814,6 +56850,10 @@
   "WilsonWilliams": {
     "title": "Wilson Williams",
     "url": "/wiki/entities/wilsonwilliams/"
+  },
+  "WimHof": {
+    "title": "Wim Hof",
+    "url": "/wiki/entities/wimhof/"
   },
   "Win": {
     "title": "Win",
@@ -62294,6 +62334,10 @@
   "continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e": {
     "title": "Continental Rift: NATO's Tense Summit",
     "url": "/wiki/sources/continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e/"
+  },
+  "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803": {
+    "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
+    "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
   },
   "costco-1": {
     "title": "Costco",

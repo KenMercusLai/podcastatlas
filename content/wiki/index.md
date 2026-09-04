@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel](sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803.md) — Huberman Lab episode with Elissa Epel on stress response and recovery, threat-versus-challenge appraisal, stress eating, mindful cue control, telomeres, mitochondria, acceptance, uncertainty tolerance, and positive-stress breathwork.
 - [从抢 GPU 到喂 AI，互联网正在悄悄更换主人](sources/ba044533d184-ba044533d184.md) — 科技乱炖 episode on Nvidia/CUDA moat pressure, GPU spot-market trust friction, model price routing, agent-readable web design, agent payment, MCP-style service access, and AI-assisted infrastructure operations.
 - [272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy](sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp.md) — 乱翻书 episode on Doubao Work as ByteDance's Feishu/Doubao/Trae/Coze consolidation, with WorkBuddy and Qwen Office comparisons, connector quality, office-agent harness design, token pricing, FDE, and enterprise AI readiness.
 - [678. Britain: God Save the King (Part 2)](sources/678-britain-god-save-the-king-part-2-glt2603959218.md) — The Rest Is History episode on God Save the King as Britain's ambiguous, Jacobite-to-Hanoverian anthem and on England/Scotland football anthem identity.
@@ -1897,6 +1898,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Elissa Epel](entities/ElissaEpel.md) — UCSF stress, aging, metabolism, and emotion researcher featured in the Huberman Lab stress-biology episode.
+- [Wim Hof](entities/WimHof.md) — Source-scoped breathwork figure named in Epel's positive-stress and Wim Hof method discussion.
 - [God Save the King / Queen](entities/GodSaveTheKing.md) — British anthem whose uncertain origin, Jacobite-Hanoverian repurposing, and sporting use make it a flexible monarchy symbol.
 - [Scotland](entities/Scotland.md) — UK constituent nation whose sporting anthem choices expose the difference between British state identity and Scottish national feeling.
 - [Flower of Scotland](entities/FlowerOfScotland.md) — Scottish sporting anthem that turns Bannockburn memory into football and rugby identity.
@@ -2555,7 +2558,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [MDMA](entities/MDMA.md) — Source-scoped psychedelic/entactogenic substance Harris names as important to his early interest in meditation and first-person inquiry.
 - [Jocko Willink](entities/JockoWillink.md) — Huberman Lab Essentials guest framing discipline, resilience, detachment, leadership, identity, and action after adversity through lived military and training experience.
 - [Max Krummel](entities/MaxKrummel.md) — Immunologist and cancer biologist explaining immune-system tuning, T-cell education, immune aging, sleep repair, vaccines, brain-immune coupling, and intervention caution.
-- [University of California San Francisco / UCSF](entities/UniversityOfCaliforniaSanFrancisco.md) — Biomedical-research institution named as Max Krummel's academic context in the Huberman Lab immune-system episode.
+- [University of California San Francisco / UCSF](entities/UniversityOfCaliforniaSanFrancisco.md) — Biomedical-research institution named as the academic context for Max Krummel's immunology work and Elissa Epel's stress, aging, metabolism, and emotion research.
 - [Sara Gottfried](entities/SaraGottfried.md) — Physician and Huberman Lab guest explaining female hormone phenotyping, PCOS risk, contraception tradeoffs, perimenopause brain metabolism, and midlife screening.
 - [Lisa Mosconi](entities/LisaMosconi.md) — Researcher cited in the Gottfried episode for menopause-transition brain metabolism work.
 - [Ralph Adolphs](entities/RalphAdolphs.md) — Caltech neuroscientist and Huberman Lab guest explaining emotions as functional control states, social perception, and regulation.
@@ -2595,8 +2598,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity, emotion science, hormone health, AI, immunology, leadership, health Q&A, meditation, adult learning, psychiatry, dog psychology, movement practice, body composition, AI-supported education redesign, relationship science, flexibility practice, agency/risk, and sleep-wake timing.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions, solo Essentials episodes, and listener Q&A on nutrition, motivation, attention, emotion, AI, hormone health, immunology, leadership, health routines, meditation, adult learning, psychiatry, dog psychology, movement practice, body composition, education redesign, relationship science, flexibility practice, agency/risk, and sleep-wake timing.
+- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity, emotion science, hormone health, AI, immunology, leadership, health Q&A, meditation, adult learning, psychiatry, dog psychology, movement practice, body composition, AI-supported education redesign, relationship science, flexibility, agency/risk, sleep-wake timing, and stress biology.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions, solo Essentials episodes, and listener Q&A on nutrition, motivation, attention, emotion, AI, hormone health, immunology, leadership, health routines, meditation, adult learning, psychiatry, dog psychology, movement practice, body composition, education redesign, relationship science, flexibility, agency/risk, sleep-wake timing, and stress biology.
 - [Andy Stumpf](entities/AndyStumpf.md) — Huberman Lab guest and Drownproof author connecting concern/influence sorting, small daily discipline, wingsuit risk, vulnerability, and defining enough.
 - [Drownproof](entities/Drownproof.md) — Andy Stumpf book discussed as a practical source for agency, adversity, discipline, vulnerability, and success-boundary tools.
 - [Paul Eastwick](entities/PaulEastwick.md) — Relationship psychologist explaining idiosyncratic attraction, dating apps, perceived similarity, repeated contact, and social support in the Huberman Lab source.
@@ -10746,6 +10749,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Stress Response Recovery](concepts/StressResponseRecovery.md) — Epel frame where stress outcomes depend on appraisal, body activation, recovery, coping resources, and whether the stress response remains active longer than needed.
+- [Threat Challenge Stress Reappraisal](concepts/ThreatChallengeStressReappraisal.md) — Stress-appraisal concept separating threat physiology from challenge physiology and emphasizing believable resource-backed scripts.
+- [Stress Eating Reward Loop](concepts/StressEatingRewardLoop.md) — Pattern where stress, cravings, insulin resistance, reward sensitivity, compulsive eating traits, and liquid-sugar environments can reinforce each other in some people.
+- [Mindful Eating Cue Control](concepts/MindfulEatingCueControl.md) — Practice of separating hunger, emotion, craving, and environmental triggers through mindful checks, body scans, scene changes, and cue removal.
+- [Stress Biological Aging](concepts/StressBiologicalAging.md) — Source-scoped frame linking chronic stress, recovery, meaning, telomeres, telomerase, mitochondria, inflammation, caregiving, and meditation evidence.
+- [Radical Acceptance Chronic Stress](concepts/RadicalAcceptanceChronicStress.md) — Practice of recognizing an unwanted reality that cannot currently be changed and redirecting effort toward what remains controllable or meaningful.
+- [Uncertainty Tolerance Resilience](concepts/UncertaintyToleranceResilience.md) — Capacity to stay regulated, curious, and action-ready when the future cannot be made fully predictable or controllable.
+- [Positive Stress Breathwork](concepts/PositiveStressBreathwork.md) — Source-scoped high-arousal stress-regulation branch around controlled activation, exercise, Wim Hof breathing, positive emotion, and pending biomarkers.
 - [Constituent Nation Sporting Identity](concepts/ConstituentNationSportingIdentity.md) — Pattern where sub-state national teams use sport, anthem choice, and rivalry to express identities that do not map cleanly onto sovereignty.
 - [Brandmauer Cordon Sanitaire](concepts/BrandmauerCordonSanitaire.md) — German coalition-firewall norm meant to keep AfD out of government.
 - [Far-Right State Governance Test](concepts/FarRightStateGovernanceTest.md) — Shift from far-right outsider pressure to the practical test of executive authority, budgets, institutions, and social response.
@@ -11169,7 +11180,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emotions as Functional Control States](concepts/EmotionsAsFunctionalControlStates.md) — Ralph Adolphs' frame for defining emotions by behavioral function rather than one brain region or only conscious feeling.
 - [Emotional Granularity](concepts/EmotionalGranularity.md) — Ability to differentiate emotional states finely enough for regulation, now extended through bodily resolution, ambiguity, language, and movement practice.
 - [Cognitive Reappraisal Early Intervention](concepts/CognitiveReappraisalEarlyIntervention.md) — Regulation strategy of reframing or redesigning situations before attention turns emotion into rumination.
-- [Autonomic Stress Training](concepts/AutonomicStressTraining.md) — Source-scoped idea that bounded physiological stress and deliberate discomfort can train emotional reactivity, action readiness, and resilience.
+- [Autonomic Stress Training](concepts/AutonomicStressTraining.md) — Source-scoped idea that bounded physiological stress, deliberate discomfort, and positive-stress breathwork may train emotional reactivity, action readiness, and resilience.
 - [Movement Practice as Awareness](concepts/MovementPracticeAsAwareness.md) — Portal's frame for treating movement, sport, daily action, and ordinary transitions as practice surfaces for attention, perception, emotion, and body-schema change.
 - [Will Exposure Practice](concepts/WillExposurePractice.md) — Portal's frame that will becomes visible under resistance and should be trained through adjustable tasks, softening, and return rather than brute force.
 - [Bodily Resolution](concepts/BodilyResolution.md) — Portal's granularity frame for refining bodily, emotional, conceptual, social, and spatial perception through novelty, attention, language, art, and movement.

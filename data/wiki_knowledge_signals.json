@@ -3092,9 +3092,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 23,
+      "episode_count": 24,
       "show_count": 1,
-      "source_note_count": 23,
+      "source_note_count": 24,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -3256,9 +3256,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
           "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
+        },
+        {
+          "episode_file": "SCIM4455888803 [SCIM4455888803].md",
+          "key": "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803",
+          "show": "Huberman Lab",
+          "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
+          "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-04",
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrogenInterventionClinicalBoundary": {
@@ -4419,9 +4426,9 @@
       "url": "/wiki/concepts/automotiveovercapacityrestructuring/"
     },
     "AutonomicStressTraining": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -4436,9 +4443,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
           "url": "/wiki/sources/essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799/"
+        },
+        {
+          "episode_file": "SCIM4455888803 [SCIM4455888803].md",
+          "key": "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803",
+          "show": "Huberman Lab",
+          "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
+          "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-04",
       "url": "/wiki/concepts/autonomicstresstraining/"
     },
     "AutonomousDrivingDataFlywheel": {
@@ -14953,6 +14967,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/elisabethmarieofaustria/"
+    },
+    "ElissaEpel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4455888803 [SCIM4455888803].md",
+          "key": "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803",
+          "show": "Huberman Lab",
+          "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
+          "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/elissaepel/"
     },
     "EliteEndorsementReputationMaking": {
       "episode_count": 3,
@@ -25856,9 +25886,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 23,
+      "episode_count": 24,
       "show_count": 1,
-      "source_note_count": 23,
+      "source_note_count": 24,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -26020,9 +26050,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
           "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
+        },
+        {
+          "episode_file": "SCIM4455888803 [SCIM4455888803].md",
+          "key": "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803",
+          "show": "Huberman Lab",
+          "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
+          "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-04",
       "url": "/wiki/entities/hubermanlab/"
     },
     "HuhanyeChanyuBi": {
@@ -37447,6 +37484,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/mindbodyunion/"
     },
+    "MindfulEatingCueControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4455888803 [SCIM4455888803].md",
+          "key": "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803",
+          "show": "Huberman Lab",
+          "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
+          "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/mindfuleatingcuecontrol/"
+    },
     "Miniso": {
       "episode_count": 1,
       "show_count": 1,
@@ -42231,6 +42284,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/positionsizing/"
     },
+    "PositiveStressBreathwork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4455888803 [SCIM4455888803].md",
+          "key": "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803",
+          "show": "Huberman Lab",
+          "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
+          "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/positivestressbreathwork/"
+    },
     "PostRestorationMeritThreat": {
       "episode_count": 4,
       "show_count": 1,
@@ -44256,6 +44325,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/rsffinance/"
+    },
+    "RadicalAcceptanceChronicStress": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4455888803 [SCIM4455888803].md",
+          "key": "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803",
+          "show": "Huberman Lab",
+          "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
+          "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/radicalacceptancechronicstress/"
     },
     "RadiopharmaceuticalDrugConjugates": {
       "episode_count": 2,
@@ -49960,6 +50045,54 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/strengthtrainingjointprotection/"
     },
+    "StressBiologicalAging": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4455888803 [SCIM4455888803].md",
+          "key": "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803",
+          "show": "Huberman Lab",
+          "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
+          "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/stressbiologicalaging/"
+    },
+    "StressEatingRewardLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4455888803 [SCIM4455888803].md",
+          "key": "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803",
+          "show": "Huberman Lab",
+          "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
+          "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/stresseatingrewardloop/"
+    },
+    "StressResponseRecovery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4455888803 [SCIM4455888803].md",
+          "key": "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803",
+          "show": "Huberman Lab",
+          "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
+          "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/stressresponserecovery/"
+    },
     "StretchingMobilitySafety": {
       "episode_count": 2,
       "show_count": 2,
@@ -52523,6 +52656,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/thomasjeffersonfoundation/"
     },
+    "ThreatChallengeStressReappraisal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4455888803 [SCIM4455888803].md",
+          "key": "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803",
+          "show": "Huberman Lab",
+          "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
+          "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/threatchallengestressreappraisal/"
+    },
     "ThreeExcellenciesBlameWithoutAuthority": {
       "episode_count": 2,
       "show_count": 1,
@@ -53915,6 +54064,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/uncapturedhumanexperiencedatalimit/"
     },
+    "UncertaintyToleranceResilience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4455888803 [SCIM4455888803].md",
+          "key": "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803",
+          "show": "Huberman Lab",
+          "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
+          "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/uncertaintytoleranceresilience/"
+    },
     "UndergraduateArtFieldwork": {
       "episode_count": 1,
       "show_count": 1,
@@ -54080,9 +54245,9 @@
       "url": "/wiki/entities/unitreerobotics/"
     },
     "UniversityOfCaliforniaSanFrancisco": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7009523546 [SCIM7009523546].md",
@@ -54090,9 +54255,16 @@
           "show": "Huberman Lab",
           "title": "How Your Immune System Works & How to Improve It | Dr. Max Krummel",
           "url": "/wiki/sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546/"
+        },
+        {
+          "episode_file": "SCIM4455888803 [SCIM4455888803].md",
+          "key": "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803",
+          "show": "Huberman Lab",
+          "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
+          "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-04",
       "url": "/wiki/entities/universityofcaliforniasanfrancisco/"
     },
     "UniversityOfColoradoDenver": {
@@ -56244,6 +56416,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/williewhitelaw/"
+    },
+    "WimHof": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4455888803 [SCIM4455888803].md",
+          "key": "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803",
+          "show": "Huberman Lab",
+          "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
+          "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/wimhof/"
     },
     "WishfulFrontierConciliation": {
       "episode_count": 1,

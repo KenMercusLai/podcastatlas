@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6282
+wiki_total_pages: 6290
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "MindBodyUnion"
     title: "Mind-Body Union"
     url: "/wiki/concepts/mindbodyunion/"
+  - key: "MindfulEatingCueControl"
+    title: "Mindful Eating Cue Control"
+    url: "/wiki/concepts/mindfuleatingcuecontrol/"
   - key: "MingqiLegitimacy"
     title: "Mingqi Legitimacy / 名器合法性"
     url: "/wiki/concepts/mingqilegitimacy/"

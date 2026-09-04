@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 6282
+wiki_total_pages: 6290
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "UncertainEraOptionality"
     title: "Uncertain-Era Optionality / 乱纪元选择权"
     url: "/wiki/concepts/uncertaineraoptionality/"
+  - key: "UncertaintyToleranceResilience"
+    title: "Uncertainty Tolerance Resilience"
+    url: "/wiki/concepts/uncertaintytoleranceresilience/"
   - key: "UndergraduateArtFieldwork"
     title: "Undergraduate Art Fieldwork / 本科艺术田野"
     url: "/wiki/concepts/undergraduateartfieldwork/"

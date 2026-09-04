@@ -15147,3 +15147,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-04] ingest | Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel
+
+Ingested the 2023-04-03 Huberman Lab episode with Elissa Epel on stress response and recovery, threat-versus-challenge appraisal, stress eating, mindful cue control, telomeres, mitochondria, caregiving, pregnancy mindfulness, meditation, radical acceptance, uncertainty tolerance, and positive-stress breathwork. Added source `control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803`; created `ElissaEpel`, `WimHof`, `StressResponseRecovery`, `ThreatChallengeStressReappraisal`, `StressEatingRewardLoop`, `MindfulEatingCueControl`, `StressBiologicalAging`, `RadicalAcceptanceChronicStress`, `UncertaintyToleranceResilience`, and `PositiveStressBreathwork`; updated `HubermanLab`, `AndrewHuberman`, `UniversityOfCaliforniaSanFrancisco`, `AutonomicStressTraining`, `index`, and `overview`. No settled contradiction found; the source-local "Alyssa Epple" spelling is normalized to Elissa Epel, and biomarker, pregnancy, obesity-medication, soda-policy, meditation, and Wim Hof claims remain source-scoped.
+
+## [2026-09-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

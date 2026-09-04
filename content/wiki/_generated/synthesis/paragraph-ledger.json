@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1362c5f4a6cb37a78fbe1812385e843f5dc234d5ccf6fac8542ed6cca802caed",
       "8f8f5bed55b64b3394ae346629e0df528d43f3ce7559982ae40aaf5c4d7e7cf0",
       "7594629577120dcb924b0474c0cb65f9ab9676616dc30e7ffa18f542e732cd37",
       "bb866cb9429a6a98da447fe67d4ce23a9585ffe79983474390538f7000317fe9",
@@ -517,11 +518,48 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 515
+    "paragraph_count": 516
   },
-  "overview_commit": "fe046629e5fdffa4336d8ddddf2461d0ee42f916",
-  "overview_digest": "97740873d3ec3ac053fdaca003e98d769cdc9fb1c02b32d60032e78fa3e30a5f",
+  "overview_commit": "99973777bad58c85cb75c7f0dcd772ec909500a6",
+  "overview_digest": "e0b83bf9ab01df31f2276351d4f52dfb6e8e45e83eb2e713bfdddb3575b0348b",
   "paragraphs": [
+    {
+      "id": "1362c5f4a6cb37a78fbe1812385e843f5dc234d5ccf6fac8542ed6cca802caed",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803|Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel]], a [[HubermanLab]] episode with [[ElissaEpel]] on stress, metabolism, aging biology, eating behavior, mindfulness, and resilience. It adds [[ElissaEpel]], [[WimHof]], [[StressResponseRecovery]], [[ThreatChallengeStressReappraisal]], [[StressEatingRewardLoop]], [[MindfulEatingCueControl]], [[StressBiologicalAging]], [[RadicalAcceptanceChronicStress]], [[UncertaintyToleranceResilience]], and [[PositiveStressBreathwork]], while extending [[HubermanLab]], [[AndrewHuberman]], [[UniversityOfCaliforniaSanFrancisco]], [[AutonomicStressTraining]], [[EmotionRegulationToolkit]], [[CognitiveReappraisalEarlyIntervention]], [[RuminationVsReflection]], [[BrainBodyEmotionMapping]], and [[AwarenessMeditationStoryDropping]]. Its core synthesis is that stress harm is not determined by exposure alone: threat appraisal, rumination, recovery, body-based regulation, food and safety cues, acceptance, uncertainty tolerance, and meaning-making shape whether stress becomes damaging, useful, or growth-supporting. No settled contradiction is recorded; source-local spelling is normalized from \"Alyssa Epple\" to [[ElissaEpel]], and biomarker, pregnancy, obesity-medication, soda-policy, meditation, and Wim Hof claims remain source-scoped public education rather than individualized clinical guidance.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 2,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "AutonomicStressTraining",
+        "AwarenessMeditationStoryDropping",
+        "BrainBodyEmotionMapping",
+        "CognitiveReappraisalEarlyIntervention",
+        "ElissaEpel",
+        "EmotionRegulationToolkit",
+        "HubermanLab",
+        "MindfulEatingCueControl",
+        "PositiveStressBreathwork",
+        "RadicalAcceptanceChronicStress",
+        "RuminationVsReflection",
+        "StressBiologicalAging",
+        "StressEatingRewardLoop",
+        "StressResponseRecovery",
+        "ThreatChallengeStressReappraisal",
+        "UncertaintyToleranceResilience",
+        "UniversityOfCaliforniaSanFrancisco",
+        "WimHof",
+        "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803"
+      ]
+    },
     {
       "id": "8f8f5bed55b64b3394ae346629e0df528d43f3ce7559982ae40aaf5c4d7e7cf0",
       "primary_topic": "governance-and-institutions",

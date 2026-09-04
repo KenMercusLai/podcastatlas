@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6282
+wiki_total_pages: 6290
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "RacingHeritageBrandMoat"
     title: "Racing Heritage Brand Moat"
     url: "/wiki/concepts/racingheritagebrandmoat/"
+  - key: "RadicalAcceptanceChronicStress"
+    title: "Radical Acceptance Chronic Stress"
+    url: "/wiki/concepts/radicalacceptancechronicstress/"
   - key: "RadiochemistryImagingTracers"
     title: "Radiochemistry Imaging Tracers"
     url: "/wiki/concepts/radiochemistryimagingtracers/"

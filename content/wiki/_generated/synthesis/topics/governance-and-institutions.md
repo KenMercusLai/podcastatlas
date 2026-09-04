@@ -3,18 +3,30 @@
 generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
-last_updated: 2026-09-03
-as_of_overview_commit: e434c285a28d562c8dbb0844e1c41043267682eb
-input_digest: bf52db8ffc996db0220557fa502f619236c0ef93326d48dda78ca9905e4a219e
+last_updated: 2026-09-04
+as_of_overview_commit: 99973777bad58c85cb75c7f0dcd772ec909500a6
+input_digest: e942475fd5ee3c5ba2a5d7fc8a2c3ad2bb4b15323c88767586bf91fa49b8fafb
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Hanji 669 adds an early Eastern Han governance case before the prior Hebei sequence: Wang Lang's false Liu Ziyu identity makes legitimacy a public-pressure weapon, Liu Xuan's Chang'an court shows restored-Han title outrunning capacity, and Geng Yan plus Liu Xiu turn alignment judgment and crisis composure into survival infrastructure. Britain anthem remains a public-symbol governance case, and the broader synthesis continues to treat legitimacy, institutional capacity, surrender credibility, office quality, correction mechanisms, legal boundaries, disaster response, sport institutions, ritual institutions, and public symbols as capacity problems rather than isolated policy events.
+The Epel Huberman Lab episode adds a source-scoped public-health governance boundary: stress biology, eating behavior, aging markers, and stress tools are linked to intervention targets while remaining public education rather than individualized clinical guidance. Hanji 669 adds an early Eastern Han governance case before the prior Hebei sequence: Wang Lang's false Liu Ziyu identity makes legitimacy a public-pressure weapon, Liu Xuan's Chang'an court shows restored-Han title outrunning capacity, and Geng Yan plus Liu Xiu turn alignment judgment and crisis composure into survival infrastructure. Britain anthem remains a public-symbol governance case, and the broader synthesis continues to treat legitimacy, institutional capacity, surrender credibility, office quality, correction mechanisms, legal boundaries, disaster response, sport institutions, ritual institutions, and public symbols as capacity problems rather than isolated policy events.
 
 ## Cross-source Findings
+
+### Stress Health Public Education Boundaries And Policy Context
+
+[[control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803|The Epel Huberman Lab episode]] enters governance-and-institutions as a public-health boundary case: [[ElissaEpel]] and [[UniversityOfCaliforniaSanFrancisco]] connect stress biology, eating cues, and aging to intervention targets, while [[HubermanLab]] and [[AndrewHuberman]] frame [[StressResponseRecovery]], [[StressEatingRewardLoop]], [[MindfulEatingCueControl]], [[StressBiologicalAging]], and [[PositiveStressBreathwork]] as public education rather than individualized clinical guidance.
+
+**Evidence:** [[control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803]], [[ElissaEpel]], [[UniversityOfCaliforniaSanFrancisco]], [[HubermanLab]], [[AndrewHuberman]], [[StressResponseRecovery]], [[StressEatingRewardLoop]], [[MindfulEatingCueControl]], [[StressBiologicalAging]], [[PositiveStressBreathwork]]
+
+**Qualifications:**
+
+- The governance relevance is public-health framing and intervention-boundary language from one podcast overview paragraph, not a policy evaluation or clinical guideline.
+- Biomarker, pregnancy, obesity-medication, soda-policy, meditation, and Wim Hof claims remain source-scoped public education rather than individualized clinical guidance.
+- The source-local spelling "Alyssa Epple" is normalized to Elissa Epel through the episode metadata and wiki source note.
 
 ### Early Eastern Han 669 Legitimacy Composure And Court Capacity
 

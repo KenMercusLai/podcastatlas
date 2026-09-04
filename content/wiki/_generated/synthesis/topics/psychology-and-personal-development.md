@@ -3,18 +3,30 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-03
-as_of_overview_commit: aec6f401287ab5d489bceccd4f8e9ec7bd09aef5
-input_digest: 814d6938e2ccd0bc8b1fbd70473588d36d0c854c248e2ae97462c7c517486bc8
+last_updated: 2026-09-04
+as_of_overview_commit: 99973777bad58c85cb75c7f0dcd772ec909500a6
+input_digest: 6da80d52b055ef6a86fc58714c4ae5a4c20ea995f777ec5bc94a68ac6d974c22
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-The Doubao Work AI-office paragraph remains secondary here as a workplace trust and adoption case because agent use depends on context sharing, review behavior, and willingness to change work routines, while its main synthesis belongs to AI technology and business markets. Hanji 697, 699 PLUS, 702, 705-1, 713, 736, 744-745, 753, 798, 892, 901, 902, and late-Han/Liu Bei/Cao Cao/Yuan-family cases keep the historical side of this topic focused on self-command, status reading, loyalty, speech restraint, emotion concealment, and judgment under authority rather than clinical advice. The modern branch covers relationship science, workplace abuse boundaries, functional emotion regulation, meditation and no-self practice, music therapy, creativity, state-dependent self-control, discipline and action after adversity, movement as awareness, AI/workplace trust, sports confidence, companion-animal owner state, Everest-style fear/team-trust judgment, and a secondary KFC/McDonalds consumer-preference case. The KFC/McDonalds Africa paragraph remains secondary here because brand perception and meal preference matter, but the main synthesis belongs to business-market supply localization.
+The Epel Huberman Lab episode adds a stress-regulation branch where harm depends on appraisal, rumination, recovery, body and food cues, acceptance, uncertainty tolerance, and meaning-making rather than exposure alone. The Doubao Work AI-office paragraph remains secondary here as a workplace trust and adoption case because agent use depends on context sharing, review behavior, and willingness to change work routines, while its main synthesis belongs to AI technology and business markets. Hanji 697, 699 PLUS, 702, 705-1, 713, 736, 744-745, 753, 798, 892, 901, 902, and late-Han/Liu Bei/Cao Cao/Yuan-family cases keep the historical side of this topic focused on self-command, status reading, loyalty, speech restraint, emotion concealment, and judgment under authority rather than clinical advice. The modern branch covers relationship science, workplace abuse boundaries, functional emotion regulation, meditation and no-self practice, music therapy, creativity, state-dependent self-control, discipline and action after adversity, movement as awareness, AI/workplace trust, sports confidence, companion-animal owner state, Everest-style fear/team-trust judgment, and a secondary KFC/McDonalds consumer-preference case.
 
 ## Cross-source Findings
+
+### Stress Appraisal Recovery And Acceptance Shape Resilience
+
+[[control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803|The Epel Huberman Lab episode]] adds a stress-regulation branch: [[StressResponseRecovery]], [[ThreatChallengeStressReappraisal]], [[RuminationVsReflection]], [[EmotionRegulationToolkit]], [[RadicalAcceptanceChronicStress]], and [[UncertaintyToleranceResilience]] place stress harm in appraisal, rumination, recovery, safety and food cues, acceptance, and meaning-making rather than exposure alone, with [[PositiveStressBreathwork]] and [[AutonomicStressTraining]] kept as source-scoped tools.
+
+**Evidence:** [[control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803]], [[StressResponseRecovery]], [[ThreatChallengeStressReappraisal]], [[RuminationVsReflection]], [[EmotionRegulationToolkit]], [[RadicalAcceptanceChronicStress]], [[UncertaintyToleranceResilience]], [[PositiveStressBreathwork]], [[AutonomicStressTraining]], [[MindfulEatingCueControl]], [[StressEatingRewardLoop]], [[StressBiologicalAging]], [[AwarenessMeditationStoryDropping]]
+
+**Qualifications:**
+
+- This is public education from one podcast episode, not individualized mental-health, nutrition, pregnancy, or longevity advice.
+- Biomarker, pregnancy, obesity-medication, soda-policy, meditation, and Wim Hof claims remain source-scoped and need independent evidence before being generalized.
+- Stress eating, mindful eating, and biological-aging material extend beyond personal-development framing into health and metabolic evidence.
 
 ### Hanji 697 Command Composure Trust And Overreach Boundary
 

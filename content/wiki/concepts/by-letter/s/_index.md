@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6282
+wiki_total_pages: 6290
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1442,6 +1442,15 @@ wiki_pages:
   - key: "StrengthTrainingJointProtection"
     title: "Strength Training for Joint Protection / 保护关节的力量训练"
     url: "/wiki/concepts/strengthtrainingjointprotection/"
+  - key: "StressBiologicalAging"
+    title: "Stress Biological Aging"
+    url: "/wiki/concepts/stressbiologicalaging/"
+  - key: "StressEatingRewardLoop"
+    title: "Stress Eating Reward Loop"
+    url: "/wiki/concepts/stresseatingrewardloop/"
+  - key: "StressResponseRecovery"
+    title: "Stress Response Recovery"
+    url: "/wiki/concepts/stressresponserecovery/"
   - key: "StretchingMobilitySafety"
     title: "Stretching and Mobility Safety / 拉伸与灵活性安全"
     url: "/wiki/concepts/stretchingmobilitysafety/"

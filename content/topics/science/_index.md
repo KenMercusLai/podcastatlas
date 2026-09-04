@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 881
+topic_total_pages: 884
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1390,6 +1390,12 @@ topic_concepts:
   - key: "StrengthTrainingJointProtection"
     title: "Strength Training for Joint Protection / 保护关节的力量训练"
     url: "/wiki/concepts/strengthtrainingjointprotection/"
+  - key: "StressBiologicalAging"
+    title: "Stress Biological Aging"
+    url: "/wiki/concepts/stressbiologicalaging/"
+  - key: "StressResponseRecovery"
+    title: "Stress Response Recovery"
+    url: "/wiki/concepts/stressresponserecovery/"
   - key: "StretchingMobilitySafety"
     title: "Stretching and Mobility Safety / 拉伸与灵活性安全"
     url: "/wiki/concepts/stretchingmobilitysafety/"
@@ -1727,6 +1733,9 @@ topic_entities:
   - key: "EffieDataScienceWithSam"
     title: "Effie (Data Science With Sam)"
     url: "/wiki/entities/effiedatasciencewithsam/"
+  - key: "ElissaEpel"
+    title: "Elissa Epel"
+    url: "/wiki/entities/elissaepel/"
   - key: "EmilyEnglish"
     title: "Emily English"
     url: "/wiki/entities/emilyenglish/"

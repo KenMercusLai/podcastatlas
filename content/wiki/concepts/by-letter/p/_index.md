@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6282
+wiki_total_pages: 6290
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -815,6 +815,9 @@ wiki_pages:
   - key: "PositiveJournalism"
     title: "Positive Journalism"
     url: "/wiki/concepts/positivejournalism/"
+  - key: "PositiveStressBreathwork"
+    title: "Positive Stress Breathwork"
+    url: "/wiki/concepts/positivestressbreathwork/"
   - key: "PostOwnership"
     title: "Post Ownership"
     url: "/wiki/concepts/postownership/"
