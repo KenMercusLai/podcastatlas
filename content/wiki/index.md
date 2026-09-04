@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”](sources/153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p.md) — 张小珺Jùn｜商业访谈录 episode with 曾鸣 on AI industrialization stages, agent entry points, model companies as AI infrastructure, intelligence flywheels, task-based AI-native organization, and strategic generation.
 - [Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等](sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1.md) — 枫言枫语 episode on Apple succession, Claude 5.1 quota trust, GLM 5.3 Flash routing, Codex workflows, AI infrastructure, Hugging Face acquisition risk, AI media labels, World Labs, and robots.
 - [Advice Line with Ben Goodwin of Olipop](sources/advice-line-with-ben-goodwin-of-olipop-f9d3fe17-eb2c-440d-b223-990fed970727.md) — How I Built This Advice Line episode using Olipop, Gheelish, Sarah's Gluten-Free Goods, and Bexley Natural Market to show how taste, trust, capacity, curation, and in-store experience shape food and retail growth.
 - [Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982.md) — Huberman Lab Essentials episode with Gina Poe on sleep stages, early slow-wave restoration, spindles, REM-rich creativity, alcohol-related sleep disruption, and emotional memory processing.
@@ -1912,6 +1913,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [曾鸣 / Zeng Ming](entities/ZengMing.md) — Strategy scholar and former Alibaba chief strategy officer using industry-history analogies to frame AI stages, model-company infrastructure, agent opportunities, and task-based organizations.
 - [GLM 5.3 Flash](entities/GLM53Flash.md) — Zhipu AI model used in Vol. 173 as a low-cost routing option for routine translation, extraction, summarization, mind-map, and multimodal tasks.
 - [Apple Music](entities/AppleMusic.md) — Apple music platform used in Vol. 173 as the concrete case for mandatory AI-content labeling and listener filtering questions.
 - [OpenCrawl](entities/OpenCrawl.md) — AI workflow product mentioned in Vol. 173 as a broad 2.0 release that heavy users may compare with self-built agent stacks.
@@ -10833,6 +10835,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [AI Industrialization Three Stages](concepts/AIIndustrializationThreeStages.md) — Zeng Ming framework reading AI as moving from tokenized infrastructure to agent applications and later native applications.
+- [Agent Entry Point](concepts/AgentEntryPoint.md) — Browser, directory, standard, or portal layer that lets users discover, create, invoke, and trust agents.
+- [Model Companies As AI Infrastructure](concepts/ModelCompaniesAsAIInfrastructure.md) — Thesis that model providers may become AI-cloud utilities without automatically becoming native-era application winners.
+- [Intelligence Flywheel](concepts/IntelligenceFlywheel.md) — Agent-era feedback loop where agents do real work, receive outcome feedback, and improve future task performance.
+- [Task-Based AI-Native Organization](concepts/TaskBasedAINativeOrganization.md) — Organization form where tasks, not fixed jobs, become the basic unit for human-AI collaboration.
+- [Strategic Generation](concepts/StrategicGeneration.md) — Strategy process based on context, sensing, contrarian judgment, and timed decision-making under uncertainty.
 - [AI Quota Trust Erosion](concepts/AIQuotaTrustErosion.md) — Product-trust loss when paid AI tools impose unclear or interruptive usage limits that disrupt heavy developer workflows.
 - [Model Hub Acquisition Risk](concepts/ModelHubAcquisitionRisk.md) — Strategic and governance risk created when a dominant AI infrastructure company controls a major model-hosting and distribution hub.
 - [AI Content Labeling and Filtering](concepts/AIContentLabelingAndFiltering.md) — Platform practice of marking AI-generated media and letting users or policies act on that metadata.

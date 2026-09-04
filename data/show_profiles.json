@@ -1750,14 +1750,14 @@
       "earliest_episode_date": "2026-01-22",
       "latest_episode_date": "2026-09-03",
       "latest_episode_file": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家” [luZvhPtdKotbkVR-SHFRKVVUiM2P].md",
-      "source_note_count": 23,
-      "topic_matched_source_note_count": 17,
+      "source_note_count": 24,
+      "topic_matched_source_note_count": 18,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 17
+          "source_note_count": 18
         },
         {
           "key": "economics",
@@ -1837,7 +1837,7 @@
         }
       ],
       "start_here_episode_files": [
-        "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE [lrVnGxoafcZ7vzH8HywULkwNb6n6].md",
+        "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家” [luZvhPtdKotbkVR-SHFRKVVUiM2P].md",
         "142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller [lg4SPHlAUnrJuULqRaXS_1Gc5ufZ].md",
         "151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！ [lgS-qEdm2hDrXRFKGNSPhG4I5h5U].md",
         "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？ [lua5jan_xOpZ99VwXmLshdTC-gSp].md"

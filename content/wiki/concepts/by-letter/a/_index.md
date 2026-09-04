@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6349
+wiki_total_pages: 6355
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "AgentDynamics"
     title: "Agent Dynamics"
     url: "/wiki/concepts/agentdynamics/"
+  - key: "AgentEntryPoint"
+    title: "Agent Entry Point"
+    url: "/wiki/concepts/agententrypoint/"
   - key: "AgentEnvironmentIsolation"
     title: "Agent Environment Isolation"
     url: "/wiki/concepts/agentenvironmentisolation/"
@@ -809,6 +812,9 @@ wiki_pages:
   - key: "AIImpersonationFraudRisk"
     title: "AI Impersonation Fraud Risk"
     url: "/wiki/concepts/aiimpersonationfraudrisk/"
+  - key: "AIIndustrializationThreeStages"
+    title: "AI Industrialization Three Stages"
+    url: "/wiki/concepts/aiindustrializationthreestages/"
   - key: "AIIndustrySelfRegulation"
     title: "AI Industry Self-Regulation"
     url: "/wiki/concepts/aiindustryselfregulation/"

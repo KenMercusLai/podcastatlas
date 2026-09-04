@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6349
+wiki_total_pages: 6355
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "IntelligenceFailureMassArrest"
     title: "Intelligence Failure Mass Arrest"
     url: "/wiki/concepts/intelligencefailuremassarrest/"
+  - key: "IntelligenceFlywheel"
+    title: "Intelligence Flywheel"
+    url: "/wiki/concepts/intelligenceflywheel/"
   - key: "IntelligenceLiaisonRisk"
     title: "Intelligence Liaison Risk / 情报盟友协作风险"
     url: "/wiki/concepts/intelligenceliaisonrisk/"

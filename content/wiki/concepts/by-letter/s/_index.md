@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6349
+wiki_total_pages: 6355
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1394,6 +1394,9 @@ wiki_pages:
   - key: "StrategicFrontierAbandonment"
     title: "Strategic Frontier Abandonment / 弃边失屏"
     url: "/wiki/concepts/strategicfrontierabandonment/"
+  - key: "StrategicGeneration"
+    title: "Strategic Generation"
+    url: "/wiki/concepts/strategicgeneration/"
   - key: "StrategicGoldAllocation"
     title: "Strategic Gold Allocation / 黄金战略底仓"
     url: "/wiki/concepts/strategicgoldallocation/"

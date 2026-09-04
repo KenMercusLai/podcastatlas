@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6349
+wiki_total_pages: 6355
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -125,6 +125,9 @@ wiki_pages:
   - key: "TaskSwitchingResidue"
     title: "Task Switching Residue"
     url: "/wiki/concepts/taskswitchingresidue/"
+  - key: "TaskBasedAINativeOrganization"
+    title: "Task-Based AI-Native Organization"
+    url: "/wiki/concepts/taskbasedainativeorganization/"
   - key: "TasteTraining"
     title: "Taste Training"
     url: "/wiki/concepts/tastetraining/"

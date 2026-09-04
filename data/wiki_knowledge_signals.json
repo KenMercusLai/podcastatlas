@@ -1515,6 +1515,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/aiipovaluation/"
     },
+    "AIIndustrializationThreeStages": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家” [luZvhPtdKotbkVR-SHFRKVVUiM2P].md",
+          "key": "153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”",
+          "url": "/wiki/sources/153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/aiindustrializationthreestages/"
+    },
     "AIIndustrySelfRegulation": {
       "episode_count": 2,
       "show_count": 1,
@@ -2596,6 +2612,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/agentcommandcenter/"
+    },
+    "AgentEntryPoint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家” [luZvhPtdKotbkVR-SHFRKVVUiM2P].md",
+          "key": "153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”",
+          "url": "/wiki/sources/153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/agententrypoint/"
     },
     "AgentPaymentInfrastructure": {
       "episode_count": 3,
@@ -29208,6 +29240,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/intel/"
     },
+    "IntelligenceFlywheel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家” [luZvhPtdKotbkVR-SHFRKVVUiM2P].md",
+          "key": "153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”",
+          "url": "/wiki/sources/153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/intelligenceflywheel/"
+    },
     "InterPath001": {
       "episode_count": 1,
       "show_count": 1,
@@ -40004,6 +40052,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/mobilityfirstembodiedai/"
+    },
+    "ModelCompaniesAsAIInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家” [luZvhPtdKotbkVR-SHFRKVVUiM2P].md",
+          "key": "153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”",
+          "url": "/wiki/sources/153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/modelcompaniesasaiinfrastructure/"
     },
     "ModelContextProtocol": {
       "episode_count": 6,
@@ -53345,6 +53409,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/strategicfrontierabandonment/"
     },
+    "StrategicGeneration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家” [luZvhPtdKotbkVR-SHFRKVVUiM2P].md",
+          "key": "153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”",
+          "url": "/wiki/sources/153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/strategicgeneration/"
+    },
     "StrengthTrainingJointProtection": {
       "episode_count": 1,
       "show_count": 1,
@@ -55262,6 +55342,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/targetedsupplementneedassessment/"
+    },
+    "TaskBasedAINativeOrganization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家” [luZvhPtdKotbkVR-SHFRKVVUiM2P].md",
+          "key": "153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”",
+          "url": "/wiki/sources/153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/taskbasedainativeorganization/"
     },
     "TaskSwitchingResidue": {
       "episode_count": 1,
@@ -64346,6 +64442,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/zanggongeasternhan/"
+    },
+    "ZengMing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家” [luZvhPtdKotbkVR-SHFRKVVUiM2P].md",
+          "key": "153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”",
+          "url": "/wiki/sources/153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/zengming/"
     },
     "ZeroSumConflictHesitationRisk": {
       "episode_count": 6,

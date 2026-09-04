@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6349
+wiki_total_pages: 6355
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -719,6 +719,9 @@ wiki_pages:
   - key: "ModelCollapse"
     title: "Model Collapse"
     url: "/wiki/concepts/modelcollapse/"
+  - key: "ModelCompaniesAsAIInfrastructure"
+    title: "Model Companies As AI Infrastructure"
+    url: "/wiki/concepts/modelcompaniesasaiinfrastructure/"
   - key: "ModelContainerStrategy"
     title: "Model Container Strategy"
     url: "/wiki/concepts/modelcontainerstrategy/"

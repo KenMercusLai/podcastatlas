@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1920
+topic_total_pages: 1921
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -2521,6 +2521,9 @@ topic_concepts:
   - key: "StrategicFocusUnderIncumbentPressure"
     title: "Strategic Focus Under Incumbent Pressure"
     url: "/wiki/concepts/strategicfocusunderincumbentpressure/"
+  - key: "StrategicGeneration"
+    title: "Strategic Generation"
+    url: "/wiki/concepts/strategicgeneration/"
   - key: "StrategicGoldAllocation"
     title: "Strategic Gold Allocation / 黄金战略底仓"
     url: "/wiki/concepts/strategicgoldallocation/"

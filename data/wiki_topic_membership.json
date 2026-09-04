@@ -760,6 +760,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d": [
     {
       "key": "technology",
@@ -3496,6 +3503,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIIndustrializationThreeStages": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIIndustrySelfRegulation": [
     {
       "key": "technology",
@@ -5633,6 +5647,13 @@
     }
   ],
   "AgentData": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "AgentEntryPoint": [
     {
       "key": "technology",
       "label": "Technology",
@@ -31582,6 +31603,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "IntelligenceFlywheel": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "IntelligenceTesting": [
     {
       "key": "culture",
@@ -40936,6 +40964,13 @@
     }
   ],
   "ModelCollapse": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "ModelCompaniesAsAIInfrastructure": [
     {
       "key": "technology",
       "label": "Technology",
@@ -57555,6 +57590,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "StrategicGeneration": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "StrategicGoldAllocation": [
     {
       "key": "economics",
@@ -59314,6 +59361,13 @@
     }
   ],
   "TaskAsAService": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "TaskBasedAINativeOrganization": [
     {
       "key": "technology",
       "label": "Technology",
@@ -68080,6 +68134,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "ZengMing": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ZengZhiyuan": [

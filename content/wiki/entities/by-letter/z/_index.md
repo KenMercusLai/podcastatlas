@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8917
+wiki_total_pages: 8918
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -890,6 +890,9 @@ wiki_pages:
   - key: "ZengJing"
     title: "曾静 / Zeng Jing"
     url: "/wiki/entities/zengjing/"
+  - key: "ZengMing"
+    title: "曾鸣 / Zeng Ming"
+    url: "/wiki/entities/zengming/"
   - key: "ZhaogeCountyLateHan"
     title: "朝歌县 / Zhaoge County (late Han)"
     url: "/wiki/entities/zhaogecountylatehan/"

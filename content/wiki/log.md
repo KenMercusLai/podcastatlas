@@ -15236,6 +15236,10 @@ Ingested the 2026-09-03 The Intelligence episode on Donald Trump's quieter but s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-05] ingest | 153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”
+
+Ingested the 2026-09-03 张小珺Jùn｜商业访谈录 episode with 曾鸣 on AI industrialization stages, agent entry points, model companies as AI infrastructure, intelligence flywheels, task-based AI-native organization, and strategic generation. Added source `153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p`; created `ZengMing`, `AIIndustrializationThreeStages`, `AgentEntryPoint`, `ModelCompaniesAsAIInfrastructure`, `IntelligenceFlywheel`, `TaskBasedAINativeOrganization`, and `StrategicGeneration`; updated `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; model-company winner forecasts, Agent OS timing, robotics paths, and future organization forms remain source-scoped.
+
 ## [2026-09-05] ingest | Advice Line with Ben Goodwin of Olipop
 
 Ingested the 2026-09-03 How I Built This Advice Line episode with Ben Goodwin of Olipop advising Gheelish, Sarah's Gluten-Free Goods, and Bexley Natural Market on food and retail growth. Added source `advice-line-with-ben-goodwin-of-olipop-f9d3fe17-eb2c-440d-b223-990fed970727`; created `BenGoodwin`, `Olipop`, `Gheelish`, `DarrenAlpert`, `SarahsGlutenFreeGoods`, `SarahGodfrey`, `BexleyNaturalMarket`, `JohnGroner`, `FrontPackConversionEducation`, `FreshAllergySafeProductionScaling`, and `CommunityGroceryCuration`; updated `TasteFirstCPGPositioning`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Olipop valuation/revenue targets, blood-sugar research details, Gheelish sales and store counts, Sarah's permit/commercial-kitchen constraints, Bexley sales recovery, and liability/financing details remain source-scoped.
@@ -15263,6 +15267,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-05] ingest | Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等
 
 Ingested the 2026-09-03 枫言枫语 episode with Justin Yan and 自立 on Apple succession, Claude 5.1 and Anthropic quota trust, GLM 5.3 Flash routing, OpenAI/Codex workflows, AI chips/data centers, Nvidia-Hugging Face acquisition rumor, AI content labels, World Labs, and robotics. Added source `vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1`; created `GLM53Flash`, `AppleMusic`, `OpenCrawl`, `AIQuotaTrustErosion`, `ModelHubAcquisitionRisk`, `AIContentLabelingAndFiltering`, `SelfBuiltAgentWorkflow`, and `RealTimeGeneratedWorlds`; updated `JohnTernus`, `MacMini`, `WorldLabs`, `HomeServiceRobots`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; product releases, dates, prices, model versions, data-center financing, acquisition reports, and robot timelines remain source-scoped.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-05] lint | Wiki health check
 

@@ -507,6 +507,10 @@
     "title": "152.夜色如水话七夕，牛郎原本是保安？【民俗学系列填坑啦】",
     "url": "/wiki/sources/152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062/"
   },
+  "153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p": {
+    "title": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”",
+    "url": "/wiki/sources/153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p/"
+  },
   "153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d": {
     "title": "153.全球宏观和资本市场2026展望：大年之后，仍是大年？",
     "url": "/wiki/sources/153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d/"
@@ -2007,6 +2011,10 @@
     "title": "AI Impersonation Fraud Risk",
     "url": "/wiki/concepts/aiimpersonationfraudrisk/"
   },
+  "AIIndustrializationThreeStages": {
+    "title": "AI Industrialization Three Stages",
+    "url": "/wiki/concepts/aiindustrializationthreestages/"
+  },
   "AIIndustrySelfRegulation": {
     "title": "AI Industry Self-Regulation",
     "url": "/wiki/concepts/aiindustryselfregulation/"
@@ -3422,6 +3430,10 @@
   "AgentDynamics": {
     "title": "Agent Dynamics",
     "url": "/wiki/concepts/agentdynamics/"
+  },
+  "AgentEntryPoint": {
+    "title": "Agent Entry Point",
+    "url": "/wiki/concepts/agententrypoint/"
   },
   "AgentEnvironmentIsolation": {
     "title": "Agent Environment Isolation",
@@ -26803,6 +26815,10 @@
     "title": "Intelligence Failure Mass Arrest",
     "url": "/wiki/concepts/intelligencefailuremassarrest/"
   },
+  "IntelligenceFlywheel": {
+    "title": "Intelligence Flywheel",
+    "url": "/wiki/concepts/intelligenceflywheel/"
+  },
   "IntelligenceLiaisonRisk": {
     "title": "Intelligence Liaison Risk / 情报盟友协作风险",
     "url": "/wiki/concepts/intelligenceliaisonrisk/"
@@ -36438,6 +36454,10 @@
   "ModelCollapse": {
     "title": "Model Collapse",
     "url": "/wiki/concepts/modelcollapse/"
+  },
+  "ModelCompaniesAsAIInfrastructure": {
+    "title": "Model Companies As AI Infrastructure",
+    "url": "/wiki/concepts/modelcompaniesasaiinfrastructure/"
   },
   "ModelContainerStrategy": {
     "title": "Model Container Strategy",
@@ -50667,6 +50687,10 @@
     "title": "Strategic Frontier Abandonment / 弃边失屏",
     "url": "/wiki/concepts/strategicfrontierabandonment/"
   },
+  "StrategicGeneration": {
+    "title": "Strategic Generation",
+    "url": "/wiki/concepts/strategicgeneration/"
+  },
   "StrategicGoldAllocation": {
     "title": "Strategic Gold Allocation / 黄金战略底仓",
     "url": "/wiki/concepts/strategicgoldallocation/"
@@ -52170,6 +52194,10 @@
   "TaskAsAService": {
     "title": "Task As A Service",
     "url": "/wiki/concepts/taskasaservice/"
+  },
+  "TaskBasedAINativeOrganization": {
+    "title": "Task-Based AI-Native Organization",
+    "url": "/wiki/concepts/taskbasedainativeorganization/"
   },
   "TaskSwitchingResidue": {
     "title": "Task Switching Residue",
@@ -60470,6 +60498,10 @@
   "ZengJing": {
     "title": "曾静 / Zeng Jing",
     "url": "/wiki/entities/zengjing/"
+  },
+  "ZengMing": {
+    "title": "曾鸣 / Zeng Ming",
+    "url": "/wiki/entities/zengming/"
   },
   "ZengShen": {
     "title": "曾参 / Zeng Shen",

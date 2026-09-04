@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ff4d9c3325739e6d49cb70e26df11cd60e311afe4f50bf5983b81a7e3852f6e4",
       "35a932c6a3e74d7ecd6993183b89341d6e0305e56a43657b29dd9ed38aadfef5",
       "bbd5e6d47ffaf9e15def4ddeaa6f6359f6c57d41376e95f87ccd6de1dbc7f8cc",
       "ae557f78a61d58798881300f18c4d8683c84fdbca337483e8ee005e4416f040c",
@@ -529,11 +530,40 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 527
+    "paragraph_count": 528
   },
-  "overview_commit": "fb4a91fba0b112f1f9c8090823ac5b19e3f84f25",
-  "overview_digest": "54be67800867c58e38d3100ecd74bfb75fb8cc1fb6b21c17b91c08eebee97086",
+  "overview_commit": "4b031d45ef998656422625b1ab00bb0e9c74fa6f",
+  "overview_digest": "2db6e87432a0e5b49f933098dbb9c58f3cef3613b4607b5cd51a964f21b14ed9",
   "paragraphs": [
+    {
+      "id": "ff4d9c3325739e6d49cb70e26df11cd60e311afe4f50bf5983b81a7e3852f6e4",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "[[153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p|Episode 153]] extends the AI strategy branch through [[ZengMing|曾鸣]]'s industry-history lens: [[AIIndustrializationThreeStages]] treats AI as moving from tokenized infrastructure to agent applications and later native systems, while [[ModelCompaniesAsAIInfrastructure]] and [[AgentEntryPoint]] qualify [[ModelAsOperatingSystem]] and [[FrontierModelDuopoly]] claims by separating AI-cloud providers from future native application winners. The same source links [[IntelligenceFlywheel]], [[TaskBasedAINativeOrganization]], and [[StrategicGeneration]] to company survival: durable winners need complex-task agents, outcome feedback, product originality, task-centered work, high-agency contributors, and contrarian strategic judgment, while [[OpenAI]] and [[Anthropic]] remain strong infrastructure candidates rather than guaranteed native-era application winners.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p",
+        "AIIndustrializationThreeStages",
+        "AgentEntryPoint",
+        "Anthropic",
+        "FrontierModelDuopoly",
+        "IntelligenceFlywheel",
+        "ModelAsOperatingSystem",
+        "ModelCompaniesAsAIInfrastructure",
+        "OpenAI",
+        "StrategicGeneration",
+        "TaskBasedAINativeOrganization",
+        "ZengMing"
+      ]
+    },
     {
       "id": "35a932c6a3e74d7ecd6993183b89341d6e0305e56a43657b29dd9ed38aadfef5",
       "primary_topic": "ai-and-technology",
