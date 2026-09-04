@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6380
+wiki_total_pages: 6387
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -146,6 +146,9 @@ wiki_pages:
   - key: "GeneticLineupPrivacyRisk"
     title: "Genetic Lineup Privacy Risk"
     url: "/wiki/concepts/geneticlineupprivacyrisk/"
+  - key: "GenitourinaryForeignBodyEscalation"
+    title: "Genitourinary Foreign Body Escalation / 泌尿生殖异物升级处置"
+    url: "/wiki/concepts/genitourinaryforeignbodyescalation/"
   - key: "GenomeLanguageModels"
     title: "Genome Language Models"
     url: "/wiki/concepts/genomelanguagemodels/"

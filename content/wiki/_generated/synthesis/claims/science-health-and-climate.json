@@ -780,9 +780,35 @@
         "ZheBingShuoLaiHuaChang",
         "Atang"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "male-urology-literacy-needs-context-and-escalation-boundaries",
+      "qualifications": [
+        "The episode is public urology education, not individualized diagnosis, screening, medication, surgery, infection, reproductive-health, renal, or emergency-care advice.",
+        "PSA values, urinary frequency, yellow urine, kidney-stone observation, renal-mass imaging or surgery, foreskin decisions, mumps-orchitis risk, cycling pressure, and foreign-body cases remain source-scoped and patient-contextual.",
+        "The source backfills a 2023 episode into the wiki sequence and should not be read as a current urology guideline."
+      ],
+      "statement": "[[vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y|VOL.31]] adds a male urology literacy branch: [[ZhaoDoctorUrology]] and [[ZheBingShuoLaiHuaChang]] use [[MaleUrologicalHealthMisconceptions]], [[UrologicalSymptomTriage]], [[ProstateScreeningInterpretation]], [[RenalFindingTriage]], [[ForeskinHygieneSurgeryBoundary]], and [[GenitourinaryForeignBodyEscalation]] to turn urinary frequency, yellow urine, PSA elevation, stones, renal ultrasound findings, cycling pressure, foreskin length, infection timing, and foreign bodies into context, observation, imaging, surgery, hygiene, emergency-care, or follow-up boundaries rather than folk diagnosis.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y",
+        "ZhaoDoctorUrology",
+        "ZheBingShuoLaiHuaChang",
+        "MaleUrologicalHealthMisconceptions",
+        "UrologicalSymptomTriage",
+        "ProstateScreeningInterpretation",
+        "RenalFindingTriage",
+        "ForeskinHygieneSurgeryBoundary",
+        "GenitourinaryForeignBodyEscalation",
+        "MedicalDiagnosticReasoning",
+        "PreventiveHealthScreening",
+        "MedicalRiskManagement",
+        "DoctorPatientCommunication"
+      ]
     }
   ],
   "input_digest": "9dc0bd4f58e0f8c986c4d9e4f650f2998c9e2bc30fdb99ab3f30ad8ccb92c8b0",
-  "summary": "Science-health-and-climate joins practical health literacy, anesthesiology, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, speech-language rehabilitation, and nutrition/body-composition coaching through a common boundary theme: mechanism, measurement, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Health branches cover anesthesia and perioperative recovery safety, CGM and GLP-1 boundaries, headphone exposure, sugar and functional-food literacy, 24-hour sleep-wake timing through light, temperature, caffeine, substance, supplement, and phase-shifting boundaries, flexible sleep/circadian/recovery fundamentals, hormone phenotyping, exercise and flexibility safety, diagnostic safety netting, spine rehabilitation, pediatric language-delay assessment, aphasia rhythm cueing, dysarthria capability boundaries, metabolic psychiatry, bipolar and OCD care, bite escalation, individualized cancer vaccines, companion-animal welfare, and evidence-bounded body-composition fundamentals. The nonclinical strands apply the same boundary logic to Himalayan glacial floods, space launch capacity, reusable rockets, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped cultivation or historical health claims. Andy Stumpf adds a public-conversation boundary for social-media attention, substance risk, cold stress, mental-health disclosure, and extreme-environment risk, treated as source-scoped rather than medical, psychiatric, addiction, or sport instruction.",
+  "summary": "Science-health-and-climate joins practical health literacy, anesthesiology, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, speech-language rehabilitation, and nutrition/body-composition coaching through a common boundary theme: mechanism, measurement, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Health branches cover anesthesia and perioperative recovery safety, male urology symptom and screening boundaries, CGM and GLP-1 boundaries, headphone exposure, sugar and functional-food literacy, 24-hour sleep-wake timing through light, temperature, caffeine, substance, supplement, and phase-shifting boundaries, flexible sleep/circadian/recovery fundamentals, hormone phenotyping, exercise and flexibility safety, diagnostic safety netting, spine rehabilitation, pediatric language-delay assessment, aphasia rhythm cueing, dysarthria capability boundaries, metabolic psychiatry, bipolar and OCD care, bite escalation, individualized cancer vaccines, companion-animal welfare, and evidence-bounded body-composition fundamentals. The nonclinical strands apply the same boundary logic to Himalayan glacial floods, space launch capacity, reusable rockets, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped cultivation or historical health claims. Andy Stumpf adds a public-conversation boundary for social-media attention, substance risk, cold stress, mental-health disclosure, and extreme-environment risk, treated as source-scoped rather than medical, psychiatric, addiction, or sport instruction.",
   "topic_id": "science-health-and-climate"
 }

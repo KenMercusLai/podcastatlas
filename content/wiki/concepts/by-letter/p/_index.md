@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6380
+wiki_total_pages: 6387
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1043,6 +1043,9 @@ wiki_pages:
   - key: "PremiumEverydayBrandTension"
     title: "Premium-Everyday Brand Tension"
     url: "/wiki/concepts/premiumeverydaybrandtension/"
+  - key: "PreoperativeAnesthesiaAssessment"
+    title: "Preoperative Anesthesia Assessment / 术前麻醉评估"
+    url: "/wiki/concepts/preoperativeanesthesiaassessment/"
   - key: "PreparedHighValueFoodFormats"
     title: "Prepared High-Value Food Formats / 高价值食材即食化"
     url: "/wiki/concepts/preparedhighvaluefoodformats/"
@@ -1376,6 +1379,9 @@ wiki_pages:
   - key: "ProsperityInvestingTrap"
     title: "Prosperity Investing Trap / 景气度投资陷阱"
     url: "/wiki/concepts/prosperityinvestingtrap/"
+  - key: "ProstateScreeningInterpretation"
+    title: "Prostate Screening Interpretation / 前列腺筛查解读边界"
+    url: "/wiki/concepts/prostatescreeninginterpretation/"
   - key: "ProstheticFittingConstraint"
     title: "Prosthetic Fitting Constraint"
     url: "/wiki/concepts/prostheticfittingconstraint/"

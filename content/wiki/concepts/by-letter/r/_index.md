@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6380
+wiki_total_pages: 6387
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "RemoteReportingPresence"
     title: "Remote Reporting Presence / 远程采访现场感"
     url: "/wiki/concepts/remotereportingpresence/"
+  - key: "RenalFindingTriage"
+    title: "Renal Finding Triage / 肾脏发现分层处理"
+    url: "/wiki/concepts/renalfindingtriage/"
   - key: "RenhePoliticalPower"
     title: "Renhe Political Power / 人和政治力量"
     url: "/wiki/concepts/renhepoliticalpower/"

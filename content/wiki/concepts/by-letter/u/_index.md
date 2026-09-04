@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 6380
+wiki_total_pages: 6387
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "UrbanEdgeNature"
     title: "Urban-Edge Nature / 城市边缘自然"
     url: "/wiki/concepts/urbanedgenature/"
+  - key: "UrologicalSymptomTriage"
+    title: "Urological Symptom Triage / 泌尿症状分层判断"
+    url: "/wiki/concepts/urologicalsymptomtriage/"
   - key: "UsageBasedVerticalSaaSPricing"
     title: "Usage-Based Vertical SaaS Pricing"
     url: "/wiki/concepts/usagebasedverticalsaaspricing/"

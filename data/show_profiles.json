@@ -2783,7 +2783,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lnXbxBAUsJXttxyBA-idbidq6kPd [lnXbxBAUsJXttxyBA-idbidq6kPd].md",
-      "source_note_count": 18,
+      "source_note_count": 20,
       "topic_matched_source_note_count": 3,
       "topics": [
         {
@@ -2831,6 +2831,13 @@
           "key": "LihuaSpeechTherapist",
           "title": "梨花医生 / Lihua Speech Therapist",
           "url": "/wiki/entities/lihuaspeechtherapist/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "DongXintong",
+          "title": "董心彤 / Dong Xintong",
+          "url": "/wiki/entities/dongxintong/",
           "kind": "person",
           "episode_count": 2
         },

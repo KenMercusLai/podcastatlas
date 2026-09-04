@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6380
+wiki_total_pages: 6387
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "ForensicToxicology"
     title: "Forensic Toxicology"
     url: "/wiki/concepts/forensictoxicology/"
+  - key: "ForeskinHygieneSurgeryBoundary"
+    title: "Foreskin Hygiene Surgery Boundary / 包皮清洁与手术边界"
+    url: "/wiki/concepts/foreskinhygienesurgeryboundary/"
   - key: "ForgedEdictSuccessionCoup"
     title: "Forged Edict Succession Coup / 伪诏继位政变"
     url: "/wiki/concepts/forgededictsuccessioncoup/"

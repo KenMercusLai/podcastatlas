@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8944
+wiki_total_pages: 8945
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1139,6 +1139,9 @@ wiki_pages:
   - key: "ZhaoKuangyin"
     title: "赵匡胤 / Song Taizu"
     url: "/wiki/entities/zhaokuangyin/"
+  - key: "ZhaoDoctorUrology"
+    title: "赵医生 / Doctor Zhao (Urology)"
+    url: "/wiki/entities/zhaodoctorurology/"
   - key: "ZhaoWuZhaoMinister"
     title: "赵午 / Zhao Wu (Zhao minister)"
     url: "/wiki/entities/zhaowuzhaominister/"

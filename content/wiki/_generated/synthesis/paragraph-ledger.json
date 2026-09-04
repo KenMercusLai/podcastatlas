@@ -499,6 +499,7 @@
       "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
       "feea2d50d210e6102662cda44c927b2f7b25d4a9c1910663ab0bf085b4a54550",
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
+      "2fd8483a74f1f972d41a6ac0a47bb8eb75d61e544b68253b671ad1dfdc1eaa25",
       "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401",
       "aecaaa49da936c98684cec9f1063846b0672b74bc20fcbd62311f6a489f3c810",
       "c6accb9f4bf429fa6aaab01131e5046f1f469c0e9e5d3206da2367ea70dd20c7",
@@ -537,10 +538,10 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 535
+    "paragraph_count": 536
   },
-  "overview_commit": "e877074cef54dd53537e60fc0deec52ef3367464",
-  "overview_digest": "b57de0eedecdcf8c3fcdef1db8c022b88ae5c25c83a57cc4176bef3da1e7caf6",
+  "overview_commit": "5686f961ce999bd4fbc4bac479ecd10dcd5e2689",
+  "overview_digest": "3965324adac68a261f3309525a55d88285fce41a6e989e53479621aea9325973",
   "paragraphs": [
     {
       "id": "1a2a001dd317073c398f6e5027eeb310a3043e68a7b79d141df61d64a176f558",
@@ -15332,6 +15333,32 @@
         "YinLaoshiZheBing",
         "ZheBingShuoLaiHuaChang",
         "vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec"
+      ]
+    },
+    {
+      "id": "2fd8483a74f1f972d41a6ac0a47bb8eb75d61e544b68253b671ad1dfdc1eaa25",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y|VOL.31泌尿外科｜关于尿频、尿液黄、结石、男性前列腺的那些谣言及误区]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[ZhaoDoctorUrology|赵医生]] on male urological health. It adds [[ZhaoDoctorUrology]], [[MaleUrologicalHealthMisconceptions]], [[UrologicalSymptomTriage]], [[ProstateScreeningInterpretation]], [[RenalFindingTriage]], [[ForeskinHygieneSurgeryBoundary]], and [[GenitourinaryForeignBodyEscalation]], while extending [[MedicalDiagnosticReasoning]], [[PreventiveHealthScreening]], [[MedicalRiskManagement]], and [[DoctorPatientCommunication]]. Its core synthesis is that urinary and prostate concerns should be read as context-dependent signals rather than folk rules: urinary frequency, yellow urine, PSA elevation, stones, renal ultrasound findings, cycling pressure, foreskin length, infection timing, and foreign bodies require different thresholds for observation, behavior change, imaging, surgery, emergency care, or regular follow-up. No settled contradiction is recorded; PSA reference values, mumps-orchitis proportions, calcium-stone risk, renal-mass management, foreskin choices, and individual urinary symptoms remain source-scoped public education rather than individualized urology advice.",
+      "topic_scores": {
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "DoctorPatientCommunication",
+        "ForeskinHygieneSurgeryBoundary",
+        "GenitourinaryForeignBodyEscalation",
+        "MaleUrologicalHealthMisconceptions",
+        "MedicalDiagnosticReasoning",
+        "MedicalRiskManagement",
+        "PreventiveHealthScreening",
+        "ProstateScreeningInterpretation",
+        "RenalFindingTriage",
+        "UrologicalSymptomTriage",
+        "ZhaoDoctorUrology",
+        "ZheBingShuoLaiHuaChang",
+        "vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y"
       ]
     },
     {

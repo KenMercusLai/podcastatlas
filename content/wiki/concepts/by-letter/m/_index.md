@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6380
+wiki_total_pages: 6387
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "MaleSurplusSecurityRisk"
     title: "Male Surplus Security Risk"
     url: "/wiki/concepts/malesurplussecurityrisk/"
+  - key: "MaleUrologicalHealthMisconceptions"
+    title: "Male Urological Health Misconceptions / 男性泌尿健康误区"
+    url: "/wiki/concepts/maleurologicalhealthmisconceptions/"
   - key: "MaliciousProxyNetworks"
     title: "Malicious Proxy Networks"
     url: "/wiki/concepts/maliciousproxynetworks/"
