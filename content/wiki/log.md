@@ -15120,6 +15120,10 @@ Ran health, identity validation, and lint. Health scanned 16,991 wiki pages with
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-04] ingest | VOL.36眼科｜关于干眼症、眼药水、眼底病、近视和近视手术…眼科主任有话说
+
+Ingested the 2023-04-05 这病说来话长 ophthalmology episode with 毛春杰 from 天津总医院 on diabetic fundus screening, dry eye, myopia-surgery limits, high-myopia retinal risk, stye/chalazion distinction, red-eye causes, and eye-drop self-medication. Added source `vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo`; created `MaoChunjie`, `TianjinGeneralHospital`, `DiabeticRetinopathyScreening`, `DryEyeChronicManagement`, `MyopiaSurgeryRiskBoundary`, and `EyeDropSelfMedicationRisk`; updated `ZheBingShuoLaiHuaChang`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; clinical intervals, treatments, surgery candidacy, and medication choices remain source-scoped.
+
 ## [2026-09-03] ingest | 《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？
 
 Ingested the 2026-06-10 芮淇讲透资治通鉴 episode on Wang Lang's false Liu Ziyu claimant narrative, Liu Xuan's early Chang'an court disorder, Geng Yan's refusal to follow Wang Lang and northern-route advice, and Liu Xiu's Jizhong/Raoyang survival crisis. Added source `zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp`; updated `WangLangHebeiClaimant`, `LiuXuanGengshiEmperor`, `GengYanEasternHan`, `LiuXiu`, `RebelMandateManufacture`, `CrisisComposureCoverStory`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Liu Ziyu, Zhao Meng, Li Song, Shentu Jian, Wei Ao, Sun Chang, Wei Bao, Liu Jie, route details, exact offices, and force counts remain source-scoped.
@@ -15137,5 +15141,9 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-09-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

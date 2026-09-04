@@ -17,19 +17,22 @@ sources:
   - vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o
   - vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb
   - vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd
-last_updated: 2026-09-02
+  - vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo
+last_updated: 2026-09-04
 knowledge_schema: synthesis-v1
 ---
 
 # 这病说来话长 / Zhe Bing Shuo Lai Hua Chang
 
 ## Overview
-这病说来话长 is a Chinese medical-literacy podcast in the wiki, represented by episodes that translate specialist clinical, nutrition, supplement, neuroscience, otolaryngology, musculoskeletal, cardiovascular, sports-medicine, medical-aesthetic, music-therapy, and mental-health knowledge into bounded public explanations for non-specialist listeners.
+这病说来话长 is a Chinese medical-literacy podcast in the wiki, represented by episodes that translate specialist clinical, nutrition, supplement, neuroscience, otolaryngology, ophthalmology, musculoskeletal, cardiovascular, sports-medicine, medical-aesthetic, music-therapy, and mental-health knowledge into bounded public explanations for non-specialist listeners.
 
 ## Current Profile
-The show's current wiki profile is practical rather than encyclopedic. Its clinical branch covers individualized cancer vaccines, lumbar-disc care, missed-diagnosis uncertainty, otolaryngology and headphone/hearing safety, insect-bite dermatology, sports-medicine exercise safety, cardiovascular exercise boundaries, and [[ClinicalMusicTherapy|clinical music therapy]]. In each case, specialist explanation is tied to indication, symptoms, follow-up, clinical validation, patient burden, exposure or activity history, assessment, and qualified care rather than headline certainty.
+The show's current wiki profile is practical rather than encyclopedic. Its clinical branch covers individualized cancer vaccines, lumbar-disc care, missed-diagnosis uncertainty, otolaryngology and headphone/hearing safety, ophthalmology and eye-disease screening, insect-bite dermatology, sports-medicine exercise safety, cardiovascular exercise boundaries, and [[ClinicalMusicTherapy|clinical music therapy]]. In each case, specialist explanation is tied to indication, symptoms, follow-up, clinical validation, patient burden, exposure or activity history, assessment, and qualified care rather than headline certainty.
 
-Its lifestyle and consumer-literacy branch covers weight management, sugar control, food labels, functional-food identity, supplement need assessment, CGM, GLP-1 medicines, mosquito-repellent products, headphone and audio-device habits, dopamine and prefrontal-cortex vocabulary, adult ADHD self-labeling, exercise load, braces, kinesiology tape, stretching, electrolyte drinks, fish oil, meal replacements, sleep-deprived training, music listening, and the claim that exercise is the best medical aesthetics. Across these sources, the show repeatedly turns anxiety, internet shorthand, product claims, device habits, and self-care routines into bounded questions: what is the mechanism, what evidence is missing, what is safe to do alone, and when should care remain professional?
+Its lifestyle and consumer-literacy branch covers weight management, sugar control, food labels, functional-food identity, supplement need assessment, CGM, GLP-1 medicines, mosquito-repellent products, eye drops, headphone and audio-device habits, dopamine and prefrontal-cortex vocabulary, adult ADHD self-labeling, exercise load, braces, kinesiology tape, stretching, electrolyte drinks, fish oil, meal replacements, sleep-deprived training, music listening, and the claim that exercise is the best medical aesthetics. Across these sources, the show repeatedly turns anxiety, internet shorthand, product claims, device habits, and self-care routines into bounded questions: what is the mechanism, what evidence is missing, what is safe to do alone, and when should care remain professional?
+
+VOL.36 adds an ophthalmology branch through [[MaoChunjie|毛春杰]] from [[TianjinGeneralHospital|天津总医院]]. The episode turns diabetic fundus disease, sudden visual change, neuro-ophthalmic symptoms, dry eye, high-myopia retinal risk, stye and chalazion, red eye, and eye-drop self-medication into screening and clinical-context problems. Its practical boundary is that clear vision, symptom relief, or a familiar pharmacy product should not be mistaken for disease-risk removal or diagnosis.
 
 VOL.221 adds a metabolic-device and medication-safety branch. [[Atang|阿汤]] and [[DabaNiuTeacher|大白牛]] treat [[ContinuousGlucoseMonitoring]] as most valuable for diabetes safety and glucose instability, while warning that healthy-person curve-watching can become [[WearableHealthDataAnxiety]]. The same episode treats [[GLP1Agonists|GLP-1]] drugs as appropriate for selected diabetes, obesity, and metabolic-risk contexts, but not as appearance shortcuts detached from adverse effects, contraindication history, muscle loss, mood, rebound, and [[LifestyleWeightManagement|long-term lifestyle change]].
 
@@ -46,16 +49,17 @@ VOL.212 adds the show's sports-medicine branch. [[Atang|阿汤]] and doctors fro
 VOL.211 adds a preceding exercise-aesthetics and cardiovascular safety branch. [[Atang|阿汤]], [[AnderMedicalAesthetics|Ander]], and [[DengProfessorCardiology|邓教授]] test the "exercise is the best medical aesthetics" slogan by tying appearance gains to sun exposure, facial strain, weight-change speed, sleep, supplements, heart rate, blood pressure, cardiopulmonary assessment, injury care, and BLS/AED preparedness.
 
 ## Key Characteristics
-- Uses specialist guests to explain medical, nutrition, neuroscience, otolaryngology, cardiovascular, sports-medicine, medical-aesthetic, and mental-health topics through mechanisms, cases, and accessible examples.
+- Uses specialist guests to explain medical, nutrition, neuroscience, otolaryngology, ophthalmology, cardiovascular, sports-medicine, medical-aesthetic, and mental-health topics through mechanisms, cases, and accessible examples.
 - Separates public education from individualized diagnosis, treatment, rehabilitation, legal advice, workplace advice, or product prescription.
-- Keeps advanced medical technology, exercise equipment, headphones, self-care routines, supplements, special-use foods, GLP-1 medicines, CGM, and consumer products tied to indication, validation, use context, risk, and patient or user burden.
+- Keeps advanced medical technology, exercise equipment, headphones, eye drops, self-care routines, supplements, special-use foods, GLP-1 medicines, CGM, and consumer products tied to indication, validation, use context, risk, and patient or user burden.
 - Turns common anxieties into practical questions about interpretation, follow-up, food choices, product claims, training load, headphone use, music use, self-observation, evidence, and escalation.
 - Links prevention and self-care to clinical or institutional boundaries instead of treating them as substitutes for care.
 - Treats uncertainty and conflict as something to manage through communication, systems, records, professional support, and return thresholds rather than denial, blame, or retaliation.
-- Converts everyday habit, self-regulation, supplement, nutrition-label, repellent-product, insect-bite, headphone, tinnitus, internet medical-language, workplace-pressure, appearance, emergency-response, exercise-safety, and music-therapy confusion into concrete boundaries without dismissing real clinical or social harm.
+- Converts everyday habit, self-regulation, supplement, nutrition-label, repellent-product, insect-bite, headphone, tinnitus, dry-eye, red-eye, eye-drop, myopia-surgery, internet medical-language, workplace-pressure, appearance, emergency-response, exercise-safety, and music-therapy confusion into concrete boundaries without dismissing real clinical or social harm.
 
 ## Evidence
 - Clinical translation: [[vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz]], [[vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg]], and [[vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm]] explain cancer-vaccine technology, spine symptoms, and diagnostic uncertainty through practical patient decisions and qualified-care boundaries.
+- Ophthalmology and screening: [[vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo]] explains diabetic fundus screening, dry-eye management, high-myopia retinal risk, myopia-surgery limits, red-eye causes, and eye-drop self-medication through clinical context and early-intervention boundaries.
 - Clinical music therapy: [[vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0]] explains music therapy through assessment, treatment goals, therapeutic relationship, therapist musicianship, autism and hearing-disability cases, elder memory cueing, hospital emotional support, AI-assisted sound tools, and professional boundaries.
 - Ear and audio-device safety: [[vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb]] explains headphone-heavy listening through otolaryngology, ear-canal inflammation, sound-source distance, sudden audio peaks, environmental noise, device pressure, cleaning, tinnitus interpretation, and sudden hearing-change escalation.
 - Dermatology prevention and escalation: [[vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec]] turns mosquito repellents, bite itch, antihistamines, steroids, caterpillar and rove-beetle dermatitis, tick handling, chigger fever risk, and household standing water into a practical prevention-and-care map.
@@ -65,12 +69,12 @@ VOL.211 adds a preceding exercise-aesthetics and cardiovascular safety branch. [
 - Workplace and education psychology: [[vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz]] uses school-authority drama to explain parent projection, workplace bullying, psychological boundaries, evidence preservation, complaint channels, and professional support.
 
 ## Qualifications
-The page is based only on fourteen ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes are public education, not individualized medical, psychiatric, legal, workplace, nutrition, diabetes, obesity, fatty-liver, dermatology, infection, otolaryngology, audiology, tinnitus, device-selection, rehabilitation, sports-training, music-therapy, medical-aesthetic, cardiology, emergency-care, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
+The page is based only on fifteen ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes are public education, not individualized medical, psychiatric, legal, workplace, nutrition, diabetes, obesity, fatty-liver, dermatology, ophthalmology, infection, otolaryngology, audiology, tinnitus, device-selection, surgery, rehabilitation, sports-training, music-therapy, medical-aesthetic, cardiology, emergency-care, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
 
 ## What Changed
-- VOL.221 adds a metabolic-device and GLP-1 branch around CGM, diabetes safety, healthy-person data anxiety, medication indications, side effects, muscle loss, and rebound.
-- The show's consumer-health pattern now includes glucose devices and medication hype alongside food, supplements, repellents, audio devices, exercise equipment, and internet medical vocabulary.
-- The synthesis treats metabolic technologies as useful only when tied to indication, context, follow-up, and long-term behavior.
+- VOL.36 adds an ophthalmology branch around diabetic fundus screening, dry eye, high-myopia retinal risk, myopia-surgery limits, red-eye causes, and eye-drop self-medication.
+- The show's consumer-health pattern now includes eye drops and vision-correction expectations alongside food, supplements, repellents, audio devices, glucose devices, exercise equipment, and internet medical vocabulary.
+- The synthesis now treats eye symptoms and visual correction through the same context-and-escalation logic used elsewhere in the show.
 
 ## Relationships
 - [[Atang]] - recurring host voice in the ingested episodes.
@@ -86,6 +90,8 @@ The page is based only on fourteen ingested episode notes. It should not be trea
 - [[NanJiHe]] - psychiatric guest in the workplace-bullying episode.
 - [[TrueEducationKDrama]] - drama hook for the workplace and education psychology episode.
 - [[DabaNiuTeacher]] - guest voice in the individualized cancer-vaccine and GLP-1/CGM episodes.
+- [[MaoChunjie]] - ophthalmology guest in the dry-eye, eye-drop, diabetic-fundus, and myopia-surgery episode.
+- [[TianjinGeneralHospital]] - institutional affiliation named for Mao Chunjie.
 - [[MaHaoning]] - guest voice in the lumbar-disc and missed-diagnosis episodes.
 - [[YaMengDoctor]] - dermatology-side guest in the missed-diagnosis episode.
 - [[JiangYuliangDoctor]] - gastroenterology-side guest in the missed-diagnosis episode.
@@ -127,6 +133,10 @@ The page is based only on fourteen ingested episode notes. It should not be trea
 - [[NoiseExposureLayering]] - environmental-noise and headphone-volume boundary developed through the show.
 - [[TinnitusSignalBoundary]] - tinnitus interpretation boundary developed through the show.
 - [[SuddenHearingChangeEscalation]] - urgent ear-symptom threshold developed through the show.
+- [[DiabeticRetinopathyScreening]] - diabetes-eye screening concept developed through the show.
+- [[DryEyeChronicManagement]] - dry-eye and screen-use management concept developed through the show.
+- [[MyopiaSurgeryRiskBoundary]] - high-myopia and refractive-surgery boundary developed through the show.
+- [[EyeDropSelfMedicationRisk]] - red-eye and eye-drop medication-safety boundary developed through the show.
 - [[PrefrontalCortexOverattribution]] - internet medical-vocabulary concept developed by the show.
 - [[ClinicalMusicTherapy]] - professional music-therapy intervention model explained by the show.
 - [[TherapeuticMusicalSynchrony]] - improvisational interaction mechanism explained by the show.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6278
+wiki_total_pages: 6282
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "DexterousManipulation"
     title: "Dexterous Manipulation"
     url: "/wiki/concepts/dexterousmanipulation/"
+  - key: "DiabeticRetinopathyScreening"
+    title: "Diabetic Retinopathy Screening / 糖尿病眼底筛查"
+    url: "/wiki/concepts/diabeticretinopathyscreening/"
   - key: "DiagnosticSafetyNetting"
     title: "Diagnostic Safety Netting / 诊断安全网"
     url: "/wiki/concepts/diagnosticsafetynetting/"
@@ -758,6 +761,9 @@ wiki_pages:
   - key: "DryElectrodeManufacturing"
     title: "Dry Electrode Manufacturing"
     url: "/wiki/concepts/dryelectrodemanufacturing/"
+  - key: "DryEyeChronicManagement"
+    title: "Dry Eye Chronic Management / 干眼慢性管理"
+    url: "/wiki/concepts/dryeyechronicmanagement/"
   - key: "DualExecutivePowerRisk"
     title: "Dual Executive Power Risk / 双首长权力风险"
     url: "/wiki/concepts/dualexecutivepowerrisk/"

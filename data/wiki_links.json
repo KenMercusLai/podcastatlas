@@ -14783,6 +14783,10 @@
     "title": "翟黄 / Di Huang",
     "url": "/wiki/entities/dihuang/"
   },
+  "DiabeticRetinopathyScreening": {
+    "title": "Diabetic Retinopathy Screening / 糖尿病眼底筛查",
+    "url": "/wiki/concepts/diabeticretinopathyscreening/"
+  },
   "DiagnosticSafetyNetting": {
     "title": "Diagnostic Safety Netting / 诊断安全网",
     "url": "/wiki/concepts/diagnosticsafetynetting/"
@@ -15886,6 +15890,10 @@
   "DryElectrodeManufacturing": {
     "title": "Dry Electrode Manufacturing",
     "url": "/wiki/concepts/dryelectrodemanufacturing/"
+  },
+  "DryEyeChronicManagement": {
+    "title": "Dry Eye Chronic Management / 干眼慢性管理",
+    "url": "/wiki/concepts/dryeyechronicmanagement/"
   },
   "DuChongProtectorOfXiongnu": {
     "title": "杜崇 / Du Chong (Protector of Xiongnu)",
@@ -18042,6 +18050,10 @@
   "ExxonMobil": {
     "title": "ExxonMobil",
     "url": "/wiki/entities/exxonmobil/"
+  },
+  "EyeDropSelfMedicationRisk": {
+    "title": "Eye Drop Self-Medication Risk / 眼药水自行用药风险",
+    "url": "/wiki/concepts/eyedropselfmedicationrisk/"
   },
   "EyuBattle": {
     "title": "阏与 / 燕宇之战 / Battle of Eyu",
@@ -33911,6 +33923,10 @@
     "title": "Manus",
     "url": "/wiki/entities/manus/"
   },
+  "MaoChunjie": {
+    "title": "毛春杰 / Mao Chunjie",
+    "url": "/wiki/entities/maochunjie/"
+  },
   "MaoDong": {
     "title": "毛冬 / Mao Dong",
     "url": "/wiki/entities/maodong/"
@@ -36810,6 +36826,10 @@
   "MykhailoFedorov": {
     "title": "Mykhailo Fedorov",
     "url": "/wiki/entities/mykhailofedorov/"
+  },
+  "MyopiaSurgeryRiskBoundary": {
+    "title": "Myopia Surgery Risk Boundary / 近视手术风险边界",
+    "url": "/wiki/concepts/myopiasurgeryriskboundary/"
   },
   "MysteryToyPackaging": {
     "title": "Mystery Toy Packaging",
@@ -52891,6 +52911,10 @@
     "title": "Tianjie Jack",
     "url": "/wiki/entities/tianjiejack/"
   },
+  "TianjinGeneralHospital": {
+    "title": "天津总医院 / Tianjin General Hospital",
+    "url": "/wiki/entities/tianjingeneralhospital/"
+  },
   "TianjinUniversity": {
     "title": "Tianjin University / 天津大学",
     "url": "/wiki/entities/tianjinuniversity/"
@@ -65006,6 +65030,10 @@
   "vol-272-2026-nian-le-zenme-hai-you-ren-yao-zuo-zhongguo-ban-airbnb-1008880863": {
     "title": "Vol.272 2026年了，怎么还有人要做中国版Airbnb？",
     "url": "/wiki/sources/vol-272-2026-nian-le-zenme-hai-you-ren-yao-zuo-zhongguo-ban-airbnb-1008880863/"
+  },
+  "vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo": {
+    "title": "VOL.36眼科｜关于干眼症、眼药水、眼底病、近视和近视手术…眼科主任有话说",
+    "url": "/wiki/sources/vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo/"
   },
   "waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590": {
     "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",
