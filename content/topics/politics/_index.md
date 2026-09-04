@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2172
+topic_total_pages: 2173
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -43,6 +43,9 @@ topic_concepts:
   - key: "AffordabilityDrivenSocialism"
     title: "Affordability-Driven Socialism"
     url: "/wiki/concepts/affordabilitydrivensocialism/"
+  - key: "AfricanFemaleAuthorityInstitutions"
+    title: "African Female Authority Institutions"
+    url: "/wiki/concepts/africanfemaleauthorityinstitutions/"
   - key: "AgeVerificationPatchwork"
     title: "Age Verification Patchwork"
     url: "/wiki/concepts/ageverificationpatchwork/"

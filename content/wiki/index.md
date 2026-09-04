@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [317: African Amazons](sources/317-african-amazons-glt5973082485.md) — The Rest Is History episode on African women warriors, queen mothers, female rulers, Kush, Njinga, Asante, Ranavalona I, Dahomey's Agojie, and the moral/source problems around slavery and European "Amazon" projection.
 - [VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展](sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj.md) — 这病说来话长 episode with 阿汤 and speech therapist 梨花医生 on pediatric language-delay warning signs, family communication scaffolding, adult aphasia rhythm cueing, dysarthria boundaries, and long-term speech-language rehabilitation.
 - [318: Hundred Years' War: A Game of Thrones (Part 1)](sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008.md) — The Rest Is History episode on the Hundred Years' War origins through French power, English continental vulnerability, Gascony homage, Capetian succession, Scotland, Aquitaine, and Edward III's 1337 manifesto.
 - [Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel](sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803.md) — Huberman Lab episode with Elissa Epel on stress response and recovery, threat-versus-challenge appraisal, stress eating, mindful cue control, telomeres, mitochondria, acceptance, uncertainty tolerance, and positive-stress breathwork.
@@ -3612,7 +3613,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney](entities/Sydney.md) — Australian city used as the source's beach/outdoor lifestyle and drone lifeguard case.
 - [CyberCab](entities/CyberCab.md) — Tesla dedicated robotaxi vehicle in the source's Austin rollout discussion.
 - [Gansu / 甘肃](entities/Gansu.md) — Landing setting for LandSpace's Zhuque-3 Yao-2 first-stage recovery in the source.
-- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected medieval, Elizabethan, Troubles, national-symbol, sport-politics, Habsburg, Odyssey, Founding Fathers, and Roman Civil War branches.
+- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected African female-power, medieval, Elizabethan, Troubles, national-symbol, sport-politics, Habsburg, Odyssey, Founding Fathers, and Roman Civil War branches.
+- [Luke Pepera](entities/LukePepera.md) — Historian and guest voice guiding the African Amazons episode through African female political and military authority.
+- [The Woman King](entities/TheWomanKing.md) — Film used as the source's modern controversy frame for Dahomey's women warriors, slavery, and historical distortion.
+- [Kush](entities/Kush.md) — Ancient Nubian polity used as an early case of Kandake queens exercising political and military authority.
+- [Kandake Queens](entities/KandakeQueens.md) — Kushite queen title used by the source to show institutional female military leadership.
+- [Amanirenas](entities/Amanirenas.md) — Kandake queen named as a first-century BCE example in the Kush branch.
+- [Queen Njinga](entities/QueenNjinga.md) — Ndongo and Matamba ruler framed as anti-Portuguese resister, diplomat, military actor, and coercive slaving-era sovereign.
+- [Ndongo](entities/Ndongo.md) — West Central African kingdom whose succession crisis and Portuguese pressure shaped Queen Njinga's rise.
+- [Matamba](entities/Matamba.md) — Kingdom that Queen Njinga conquered and used as a base for recognized rule.
+- [Imbangala](entities/Imbangala.md) — Military group whose alliance and contested ritual descriptions complicate the Njinga narrative.
+- [Asante](entities/Asante.md) — Matrilineal Akan polity used to explain queen-mother authority and Yaa Asantewaa's resistance.
+- [Asante Queen Mothers](entities/AsanteQueenMothers.md) — Institutional female office with king-selection, veto, counsel, and martial-resistance significance.
+- [Yaa Asantewaa](entities/YaaAsantewaa.md) — Asante queen mother remembered in the source for resisting the British during the War of the Golden Stool.
+- [War of the Golden Stool](entities/WarOfTheGoldenStool.md) — British-Asante conflict used as the episode's clearest martial queen-mother example.
+- [Ranavalona I](entities/RanavalonaI.md) — Malagasy ruler framed as anti-European sovereign whose harsh rule and reputation require source criticism.
+- [Dahomey](entities/Dahomey.md) — West African kingdom whose Agojie regiment and slavery entanglement anchor the source's popular-history controversy.
+- [Agojie](entities/Agojie.md) — Dahomey's women warrior regiment, read through palace origins, military formalization, slavery, spectacle, and European observer bias.
+- [Ghezo](entities/Ghezo.md) — Dahomey king under whom the Agojie became a more formal fighting unit in the source account.
 - [The Troubles](entities/TheTroubles.md) — Northern Ireland conflict branch framed through partition, institutional discrimination, loyalist violence, civil-rights protest, and street-war escalation.
 - [Northern Ireland](entities/NorthernIreland.md) — UK region where partition, Catholic grievances, unionist fear, policing legitimacy, and Westminster intervention converge in the sources.
 - [Edward Carson](entities/EdwardCarson.md) — Unionist leader whose 1912 covenant and volunteers supply an armed-precedent memory in the Part 1 source.
@@ -8465,7 +8483,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Northern White Rhinoceros / 北部白犀牛](entities/NorthernWhiteRhinoceros.md) — Subspecies used by episode 186 to explain functional extinction and last-chance witnessing.
 - [Baiji / 白鱀豚](entities/Baiji.md) — Yangtze river dolphin whose publicity-rich absence becomes episode 186's conservation-publicity gap.
 - [Kakapo / 宵鹦鹉](entities/Kakapo.md) — New Zealand night parrot used by episode 186 to show island vulnerability and successful intensive conservation.
-- [Madagascar / 马达加斯加](entities/Madagascar.md) — Island setting for the aye-aye section and a refuge-paradox case.
+- [Madagascar / 马达加斯加](entities/Madagascar.md) — Island setting for the aye-aye refuge-paradox branch and Ranavalona I's contested anti-European monarchy case.
 - [Komodo Island / 科莫多岛](entities/KomodoIsland.md) — Tourism and conservation setting for the Komodo dragon section.
 - [Democratic Republic of the Congo / 刚果民主共和国](entities/DemocraticRepublicOfCongo.md) — Former-Zaire setting connecting mountain gorillas, northern white rhinos, colonial history, and conservation under unstable institutions.
 - [New Zealand / 新西兰](entities/NewZealand.md) — Island ecology setting for the kakapo recovery story.
@@ -10765,6 +10783,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [African Female Authority Institutions](concepts/AfricanFemaleAuthorityInstitutions.md) — Framework for reading African female power through offices, matrilineal authority, queen mothers, ruler titles, and military regiments.
+- [European Amazon Projection](concepts/EuropeanAmazonProjection.md) — Source-critical frame for how European fascination turned African women warriors into exoticized "Amazon" spectacle.
+- [Heroic Resistance-Violence Ambiguity](concepts/HeroicResistanceViolenceAmbiguity.md) — Moral frame for rulers and regiments that resist foreign domination while remaining entangled in coercion, slavery, and harsh violence.
 - [Pediatric Language Delay Early Intervention](concepts/PediatricLanguageDelayEarlyIntervention.md) — Child-language frame rejecting passive "贵人语迟" waiting when comprehension, gesture, emotion, interaction, or expression signals are weak.
 - [Child Communication Development Signals](concepts/ChildCommunicationDevelopmentSignals.md) — Observation frame for speech, comprehension, gesture, emotion, social response, pointing, dialogue, and sentence-level communication.
 - [Family Communication Scaffolding](concepts/FamilyCommunicationScaffolding.md) — Caregiver-practice frame for creating expression opportunities, familiar cues, patient prompting, emotional safety, and home support during speech-language rehabilitation.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6300
+wiki_total_pages: 6303
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "AfricaConnectivityInfrastructure"
     title: "Africa Connectivity Infrastructure"
     url: "/wiki/concepts/africaconnectivityinfrastructure/"
+  - key: "AfricanFemaleAuthorityInstitutions"
+    title: "African Female Authority Institutions"
+    url: "/wiki/concepts/africanfemaleauthorityinstitutions/"
   - key: "AfricanMythology"
     title: "African Mythology"
     url: "/wiki/concepts/africanmythology/"

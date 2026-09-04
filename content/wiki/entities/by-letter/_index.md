@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8861
+wiki_total_pages: 8878
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "AgilityRobotics"
     title: "Agility Robotics"
     url: "/wiki/entities/agilityrobotics/"
+  - key: "Agojie"
+    title: "Agojie"
+    url: "/wiki/entities/agojie/"
   - key: "AHACreator"
     title: "AHA Creator"
     url: "/wiki/entities/ahacreator/"
@@ -668,6 +671,9 @@ wiki_pages:
   - key: "AmandaMcMaster"
     title: "Amanda McMaster"
     url: "/wiki/entities/amandamcmaster/"
+  - key: "Amanirenas"
+    title: "Amanirenas"
+    url: "/wiki/entities/amanirenas/"
   - key: "Amazon"
     title: "Amazon"
     url: "/wiki/entities/amazon/"
@@ -1181,6 +1187,12 @@ wiki_pages:
   - key: "Asana"
     title: "Asana"
     url: "/wiki/entities/asana/"
+  - key: "Asante"
+    title: "Asante"
+    url: "/wiki/entities/asante/"
+  - key: "AsanteQueenMothers"
+    title: "Asante Queen Mothers"
+    url: "/wiki/entities/asantequeenmothers/"
   - key: "ASEAN"
     title: "ASEAN"
     url: "/wiki/entities/asean/"

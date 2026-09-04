@@ -1385,6 +1385,13 @@
       "url": "/topics/history/"
     }
   ],
+  "317-african-amazons-glt5973082485": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008": [
     {
       "key": "history",
@@ -5479,6 +5486,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AfricanFemaleAuthorityInstitutions": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AfricanNationalCongress": [
     {
       "key": "politics",
@@ -6513,6 +6527,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "Amanirenas": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "Amazon": [
@@ -21557,6 +21578,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "EuropeanAmazonProjection": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "EuropeanCommission": [
     {
       "key": "politics",
@@ -28493,6 +28521,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "HeroicResistanceViolenceAmbiguity": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "HesseYouthCultureMisreading": [
     {
       "key": "culture",
@@ -34891,6 +34926,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "Kush": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "Kyiv": [
@@ -60192,6 +60234,13 @@
       "label": "History",
       "url": "/topics/history/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "TheWomanKing": [
     {
       "key": "culture",
       "label": "Culture",

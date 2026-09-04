@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8861
+wiki_total_pages: 8878
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "LuigiLucheni"
     title: "Luigi Lucheni"
     url: "/wiki/entities/luigilucheni/"
+  - key: "LukePepera"
+    title: "Luke Pepera"
+    url: "/wiki/entities/lukepepera/"
   - key: "LulinRebellion"
     title: "Lulin / 绿林"
     url: "/wiki/entities/lulinrebellion/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 8861
+wiki_total_pages: 8878
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "Kamchatka"
     title: "Kamchatka / 勘察加"
     url: "/wiki/entities/kamchatka/"
+  - key: "KandakeQueens"
+    title: "Kandake Queens"
+    url: "/wiki/entities/kandakequeens/"
   - key: "KanyeWest"
     title: "Kanye West"
     url: "/wiki/entities/kanyewest/"
@@ -467,6 +470,9 @@ wiki_pages:
   - key: "Kuse"
     title: "Kuse"
     url: "/wiki/entities/kuse/"
+  - key: "Kush"
+    title: "Kush"
+    url: "/wiki/entities/kush/"
   - key: "Kusra"
     title: "Kusra"
     url: "/wiki/entities/kusra/"

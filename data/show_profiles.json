@@ -857,14 +857,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-08-30",
       "latest_episode_file": "GLT1262857909 [GLT1262857909].md",
-      "source_note_count": 26,
-      "topic_matched_source_note_count": 26,
+      "source_note_count": 27,
+      "topic_matched_source_note_count": 27,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 24
+          "source_note_count": 25
         },
         {
           "key": "culture",

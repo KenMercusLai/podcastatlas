@@ -2,6 +2,37 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "african-female-authority-institutions-show-capacity-and-constraint",
+      "qualifications": [
+        "This claim is source-scoped to one The Rest Is History episode and uses the episode's comparative framing rather than a full survey of African political systems.",
+        "The source keeps slavery, coercion, executions, persecution, and harsh rule visible, so institutional female authority is not treated as automatic virtue.",
+        "European descriptions, missionary accounts, ritual details, population-loss claims, and battlefield spectacles remain source-scoped because the episode stresses source bias and staged-observer effects."
+      ],
+      "statement": "[[317-african-amazons-glt5973082485|African Amazons]] adds a governance case where female power works through institutions, offices, and coercive state capacity rather than symbolic status alone: [[KandakeQueens]] and [[Amanirenas]] anchor [[Kush]]ite military kingship, [[AsanteQueenMothers]] can select, veto, and counsel within [[Asante]], [[QueenNjinga]] turns [[Ndongo]], [[Matamba]], and [[Imbangala]] alliances into anti-Portuguese sovereignty, [[RanavalonaI]] makes [[Madagascar]] resistance inseparable from persecution and forced labor, and [[Dahomey]] / [[Agojie]] under [[Ghezo]] connect palace organization to slavery, spectacle, and [[EuropeanAmazonProjection]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "317-african-amazons-glt5973082485",
+        "AfricanFemaleAuthorityInstitutions",
+        "KandakeQueens",
+        "Amanirenas",
+        "Kush",
+        "AsanteQueenMothers",
+        "Asante",
+        "QueenNjinga",
+        "Ndongo",
+        "Matamba",
+        "Imbangala",
+        "RanavalonaI",
+        "Madagascar",
+        "Dahomey",
+        "Agojie",
+        "Ghezo",
+        "EuropeanAmazonProjection",
+        "HeroicResistanceViolenceAmbiguity"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "stress-health-public-education-boundaries-and-policy-context",
       "qualifications": [
         "The governance relevance is public-health framing and intervention-boundary language from one podcast overview paragraph, not a policy evaluation or clinical guideline.",
@@ -4197,7 +4228,7 @@
       ]
     }
   ],
-  "input_digest": "e942475fd5ee3c5ba2a5d7fc8a2c3ad2bb4b15323c88767586bf91fa49b8fafb",
-  "summary": "The Epel Huberman Lab episode adds a source-scoped public-health governance boundary: stress biology, eating behavior, aging markers, and stress tools are linked to intervention targets while remaining public education rather than individualized clinical guidance. Hanji 669 adds an early Eastern Han governance case before the prior Hebei sequence: Wang Lang's false Liu Ziyu identity makes legitimacy a public-pressure weapon, Liu Xuan's Chang'an court shows restored-Han title outrunning capacity, and Geng Yan plus Liu Xiu turn alignment judgment and crisis composure into survival infrastructure. Britain anthem remains a public-symbol governance case, and the broader synthesis continues to treat legitimacy, institutional capacity, surrender credibility, office quality, correction mechanisms, legal boundaries, disaster response, sport institutions, ritual institutions, and public symbols as capacity problems rather than isolated policy events.",
+  "input_digest": "c803fa69b1b4a4559aebdc5e125c4612e811e6017f77b7eaae422d4f6c43cccb",
+  "summary": "African Amazons adds a governance case where female authority is institutional rather than merely symbolic: Kushite Kandakes, Asante queen mothers, Njinga, Ranavalona I, and Dahomey's Agojie show offices, councils, diplomacy, coercive sovereignty, military regiments, and source-bias constraints. Existing governance synthesis still centers legitimacy, institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the difference between nominal authority and usable capacity.",
   "topic_id": "governance-and-institutions"
 }

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 8861
+wiki_total_pages: 8878
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -62,6 +62,9 @@ wiki_pages:
   - key: "QueenChristinaOfSweden"
     title: "Queen Christina of Sweden / 瑞典女王克里斯蒂娜"
     url: "/wiki/entities/queenchristinaofsweden/"
+  - key: "QueenNjinga"
+    title: "Queen Njinga"
+    url: "/wiki/entities/queennjinga/"
   - key: "QueenOfHearts"
     title: "Queen of Hearts / 红心王后"
     url: "/wiki/entities/queenofhearts/"

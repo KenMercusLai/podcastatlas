@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6300
+wiki_total_pages: 6303
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "HeroReturnWithBoon"
     title: "Hero Return With Boon / 英雄携赐归来"
     url: "/wiki/concepts/heroreturnwithboon/"
+  - key: "HeroicResistanceViolenceAmbiguity"
+    title: "Heroic Resistance-Violence Ambiguity"
+    url: "/wiki/concepts/heroicresistanceviolenceambiguity/"
   - key: "HesseYouthCultureMisreading"
     title: "Hesse Youth Culture Misreading / 黑塞青年文化误读"
     url: "/wiki/concepts/hesseyouthculturemisreading/"

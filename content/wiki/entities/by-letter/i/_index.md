@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 8861
+wiki_total_pages: 8878
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -62,6 +62,9 @@ wiki_pages:
   - key: "IMAX"
     title: "IMAX"
     url: "/wiki/entities/imax/"
+  - key: "Imbangala"
+    title: "Imbangala"
+    url: "/wiki/entities/imbangala/"
   - key: "ImmanuelKant"
     title: "Immanuel Kant / 康德"
     url: "/wiki/entities/immanuelkant/"

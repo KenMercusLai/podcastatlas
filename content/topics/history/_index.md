@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1569
+topic_total_pages: 1574
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -286,6 +286,9 @@ topic_concepts:
   - key: "EncirclingWeiToRescueZhao"
     title: "Encircling Wei to Rescue Zhao / 围魏救赵"
     url: "/wiki/concepts/encirclingweitorescuezhao/"
+  - key: "EuropeanAmazonProjection"
+    title: "European Amazon Projection"
+    url: "/wiki/concepts/europeanamazonprojection/"
   - key: "EverydayFoodCultureHistory"
     title: "Everyday Food Culture History"
     url: "/wiki/concepts/everydayfoodculturehistory/"
@@ -394,6 +397,9 @@ topic_concepts:
   - key: "HengshanEconomicWarfare"
     title: "Hengshan Economic Warfare / 恒山之谋"
     url: "/wiki/concepts/hengshaneconomicwarfare/"
+  - key: "HeroicResistanceViolenceAmbiguity"
+    title: "Heroic Resistance-Violence Ambiguity"
+    url: "/wiki/concepts/heroicresistanceviolenceambiguity/"
   - key: "HighGroundTimingAdvantage"
     title: "High-Ground Timing Advantage / 制高点时机优势"
     url: "/wiki/concepts/highgroundtimingadvantage/"
@@ -1439,6 +1445,9 @@ topic_entities:
   - key: "AlexisDeTocqueville"
     title: "Alexis de Tocqueville"
     url: "/wiki/entities/alexisdetocqueville/"
+  - key: "Amanirenas"
+    title: "Amanirenas"
+    url: "/wiki/entities/amanirenas/"
   - key: "Angkor"
     title: "Angkor / 吴哥"
     url: "/wiki/entities/angkor/"
@@ -1592,6 +1601,9 @@ topic_entities:
   - key: "KnossosPalace"
     title: "Knossos Palace"
     url: "/wiki/entities/knossospalace/"
+  - key: "Kush"
+    title: "Kush"
+    url: "/wiki/entities/kush/"
   - key: "LanXangKingdom"
     title: "Lan Xang Kingdom / 澜沧王国"
     url: "/wiki/entities/lanxangkingdom/"
@@ -3762,6 +3774,9 @@ topic_sources:
   - key: "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138"
     title: "30.孟子：战国愤青的赤子之心"
     url: "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+  - key: "317-african-amazons-glt5973082485"
+    title: "317: African Amazons"
+    url: "/wiki/sources/317-african-amazons-glt5973082485/"
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"

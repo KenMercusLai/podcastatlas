@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8861
+wiki_total_pages: 8878
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "TheWitchesSalem1692"
     title: "The Witches: Salem, 1692 / 《猎巫：塞勒姆1692》"
     url: "/wiki/entities/thewitchessalem1692/"
+  - key: "TheWomanKing"
+    title: "The Woman King"
+    url: "/wiki/entities/thewomanking/"
   - key: "TheWorldOfYesterday"
     title: "The World of Yesterday / 《昨日的世界》"
     url: "/wiki/entities/theworldofyesterday/"

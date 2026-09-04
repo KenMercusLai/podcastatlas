@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "6244d707513946f002e064d56d4e3f9c39375412923eed7692dcf08b68d6f8f2",
       "a4806b391272e689d44bcbe60c3a77398cc0e612bbc48ae87c5a613573d9af0b",
       "0a91738c7181c394ab64885ba1a1b7efb770c078ebae17c24c02c743b7903647",
       "1362c5f4a6cb37a78fbe1812385e843f5dc234d5ccf6fac8542ed6cca802caed",
@@ -520,11 +521,55 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 518
+    "paragraph_count": 519
   },
-  "overview_commit": "c39a570ba8e3323057705f2ae2204840165450e4",
-  "overview_digest": "0c18fec57d0d4a3c429aba488ca15f834ea88ac5aff7ca66614417f51181f98f",
+  "overview_commit": "1f81ed316c89425cfcaec7b86a1d1ffb1e3a381f",
+  "overview_digest": "d49f52cf904c8fd0dcd601c3135176f52f76be1f42844c7e43d9c7a2a6a3aeb0",
   "paragraphs": [
+    {
+      "id": "6244d707513946f002e064d56d4e3f9c39375412923eed7692dcf08b68d6f8f2",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[317-african-amazons-glt5973082485|317: African Amazons]], a [[TheRestIsHistory]] episode with [[LukePepera]] on African women warriors, queen mothers, and female rulers. It adds [[LukePepera]], [[TheWomanKing]], [[Kush]], [[KandakeQueens]], [[Amanirenas]], [[QueenNjinga]], [[Ndongo]], [[Matamba]], [[Imbangala]], [[Asante]], [[AsanteQueenMothers]], [[YaaAsantewaa]], [[WarOfTheGoldenStool]], [[RanavalonaI]], [[Dahomey]], [[Agojie]], [[Ghezo]], [[AfricanFemaleAuthorityInstitutions]], [[EuropeanAmazonProjection]], and [[HeroicResistanceViolenceAmbiguity]], while extending [[Madagascar]], [[TheRestIsHistory]], [[FemalePowerCenterPoliticalCapacity]], [[FemaleRebelSovereignty]], [[MatriarchyQuestion]], [[HistoricalMemoryContest]], [[SlaveryNationalIdentityContradiction]], and [[AtlanticSlaveTradePrivateeringLink]]. Its core synthesis is that African female power should be read through institutions and source criticism rather than European Amazon fantasy alone: Kandake queens, Asante queen mothers, Njinga, Ranavalona, and Dahomey's Agojie show political and military authority, but slavery, coercion, executions, persecution, and staged or biased accounts keep the history morally unresolved. No settled contradiction is recorded; the source's ritual, battlefield, population-loss, court-gender, and European-observer details remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 4,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "317-african-amazons-glt5973082485",
+        "AfricanFemaleAuthorityInstitutions",
+        "Agojie",
+        "Amanirenas",
+        "Asante",
+        "AsanteQueenMothers",
+        "AtlanticSlaveTradePrivateeringLink",
+        "Dahomey",
+        "EuropeanAmazonProjection",
+        "FemalePowerCenterPoliticalCapacity",
+        "FemaleRebelSovereignty",
+        "Ghezo",
+        "HeroicResistanceViolenceAmbiguity",
+        "HistoricalMemoryContest",
+        "Imbangala",
+        "KandakeQueens",
+        "Kush",
+        "LukePepera",
+        "Madagascar",
+        "Matamba",
+        "MatriarchyQuestion",
+        "Ndongo",
+        "QueenNjinga",
+        "RanavalonaI",
+        "SlaveryNationalIdentityContradiction",
+        "TheRestIsHistory",
+        "TheWomanKing",
+        "WarOfTheGoldenStool",
+        "YaaAsantewaa"
+      ]
+    },
     {
       "id": "a4806b391272e689d44bcbe60c3a77398cc0e612bbc48ae87c5a613573d9af0b",
       "primary_topic": "science-health-and-climate",

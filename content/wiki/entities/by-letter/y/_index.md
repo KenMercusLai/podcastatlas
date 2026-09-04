@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 8861
+wiki_total_pages: 8878
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
     url: "/wiki/entities/ycombinator/"
+  - key: "YaaAsantewaa"
+    title: "Yaa Asantewaa"
+    url: "/wiki/entities/yaaasantewaa/"
   - key: "Yadea"
     title: "Yadea / 雅迪"
     url: "/wiki/entities/yadea/"

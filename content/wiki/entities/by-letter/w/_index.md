@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8861
+wiki_total_pages: 8878
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "WanrunNewEnergy"
     title: "Wanrun New Energy / 万润新能源"
     url: "/wiki/entities/wanrunnewenergy/"
+  - key: "WarOfTheGoldenStool"
+    title: "War of the Golden Stool"
+    url: "/wiki/entities/warofthegoldenstool/"
   - key: "WarOfTheThreeHenrys"
     title: "War of the Three Henrys"
     url: "/wiki/entities/warofthethreehenrys/"

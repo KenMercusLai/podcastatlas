@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 8861
+wiki_total_pages: 8878
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "RanaPlaza"
     title: "Rana Plaza"
     url: "/wiki/entities/ranaplaza/"
+  - key: "RanavalonaI"
+    title: "Ranavalona I"
+    url: "/wiki/entities/ranavalonai/"
   - key: "RAND"
     title: "RAND"
     url: "/wiki/entities/rand/"

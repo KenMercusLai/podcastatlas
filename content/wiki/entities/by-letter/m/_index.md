@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8861
+wiki_total_pages: 8878
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "MasudHusain"
     title: "Masud Husain"
     url: "/wiki/entities/masudhusain/"
+  - key: "Matamba"
+    title: "Matamba"
+    url: "/wiki/entities/matamba/"
   - key: "MathieuFavasse"
     title: "Mathieu Favasse"
     url: "/wiki/entities/mathieufavasse/"

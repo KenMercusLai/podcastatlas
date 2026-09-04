@@ -25,6 +25,7 @@ sources:
   - 679-germany-the-song-hitler-stole-part-3-glt6217148052
   - 678-britain-god-save-the-king-part-2-glt2603959218
   - 318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008
+  - 317-african-amazons-glt5973082485
 last_updated: 2026-09-04
 knowledge_schema: synthesis-v1
 ---
@@ -33,27 +34,30 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, national-symbol and sport-politics episodes, literary retellings, founding and Roman political-crisis branches, and now a medieval Anglo-French origin branch for the [[HundredYearsWar|Hundred Years' War]].
+The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, national-symbol and sport-politics episodes, literary retellings, founding and Roman political-crisis branches, a medieval Anglo-French origin branch for the [[HundredYearsWar|Hundred Years' War]], and a comparative African female-power branch.
 
 ## Current Profile
 
-The current wiki profile covers thirteen show uses. The [[HundredYearsWar|Hundred Years' War]] branch uses [[England]], [[France]], [[Gascony]], [[Aquitaine]], [[Scotland]], [[EdwardIIIOfEngland|Edward III]], and [[PhilipVIOfFrance|Philip VI]] to show how dynastic claim, feudal homage, alliance pressure, trade, and national framing combine before open war. The Elizabeth I versus Catholics sequence treats court security, dynastic succession, espionage, privateering, the [[DutchRevolt|Dutch Revolt]], Mary Stuart, and the Armada path as a connected confessional-political field. The Troubles sequence treats Northern Ireland's escalation as a chain of institutional, memory, policing, paramilitary, and counterinsurgency decisions rather than timeless hatred.
+The current wiki profile now includes an African comparative branch. The [[AfricanFemaleAuthorityInstitutions]] branch uses [[Kush]], [[KandakeQueens]], [[QueenNjinga]], [[AsanteQueenMothers]], [[RanavalonaI]], [[Dahomey]], and the [[Agojie]] to show how women could hold military, royal, or counterpart authority through institutions rather than only through individual exception. It also adds a stronger source-critical and moral frame: [[EuropeanAmazonProjection]] cautions against accepting outsider fascination as neutral description, while [[HeroicResistanceViolenceAmbiguity]] keeps slavery, executions, coercion, and harsh rule visible even when the central actors resist European pressure.
+
+The [[HundredYearsWar|Hundred Years' War]] branch uses [[England]], [[France]], [[Gascony]], [[Aquitaine]], [[Scotland]], [[EdwardIIIOfEngland|Edward III]], and [[PhilipVIOfFrance|Philip VI]] to show how dynastic claim, feudal homage, alliance pressure, trade, and national framing combine before open war. The Elizabeth I versus Catholics sequence treats court security, dynastic succession, espionage, privateering, the [[DutchRevolt|Dutch Revolt]], Mary Stuart, and the Armada path as a connected confessional-political field. The Troubles sequence treats Northern Ireland's escalation as a chain of institutional, memory, policing, paramilitary, and counterinsurgency decisions rather than timeless hatred.
 
 The national-symbol and sport branches use South Africa, Brazil, the Netherlands, Germany, Britain, and Mussolini's World Cup Italy to show how anthems, sport, flags, monarchy, republic, revolt, slavery, dictatorship, propaganda, protest, postwar convention, and constituent-nation football can be inherited, staged, narrowed, or reworked. The Homeric branch retells both halves of [[TheOdyssey]], moving from nostos and fantasy geography to recognition, hospitality, domestic loyalty, and disturbing revenge. The Mayerling branch treats Habsburg scandal as family, religious, imperial, succession, and information-suppression crisis. The Founding Fathers branch starts with Washington and Franklin as military-endurance, public-dignity, diplomacy, persona, and slavery-contradiction cases. The Roman Civil War branch opens the pre-Caesar crisis through [[GaiusMarius]], outsider politics, military credit, and the early [[LuciusCorneliusSulla|Sulla]] rivalry.
 
 ## Key Characteristics
 
 - The show is used as a source of chronological narrative history with emphasis on decisions, symbols, inherited constraints, and contingency.
+- Its African female-power branch treats women rulers, queen mothers, and warriors as institutional cases while preserving slavery, coercion, and source-bias qualifications.
 - Its medieval branch treats the Hundred Years' War as a multi-causal origin problem rather than a simple throne dispute.
 - Its Elizabethan and Northern Ireland branches connect security crises to institutions, memory, legitimacy, intelligence, policing, and armed escalation.
 - Its national-symbol and sport-politics branches show public symbols as politically usable without assuming one fixed meaning.
-- Its Homeric and Mayerling branches make literary return and private scandal politically, religiously, or morally consequential.
-- Its Founding Fathers and Roman Civil War branches use individual biography to expose institutional crisis and public authority.
-- Across branches, the sources usually resist single-cause inevitability while showing how stories, laws, symbols, and institutions make private acts or inherited claims consequential.
+- Its Homeric, Mayerling, Founding Fathers, and Roman Civil War branches use literature, scandal, biography, and military career to expose institutional crisis and public authority.
+- Across branches, the sources usually resist single-cause inevitability while showing how stories, laws, symbols, and institutions make private acts, inherited claims, or reputations consequential.
 
 ## Evidence
 
 - Hundred Years' War branch: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] follows the build-up to 1337 through French power, English continental loss, Gascony homage, Capetian succession rupture, Scottish alliance pressure, Aquitaine's confiscation, and Edward III's manifesto.
+- African female-power branch: [[317-african-amazons-glt5973082485]] moves from [[TheWomanKing]] and the "African Amazons" frame through [[Kush]], [[KandakeQueens]], [[Amanirenas]], [[QueenNjinga]], [[AsanteQueenMothers]], [[YaaAsantewaa]], [[WarOfTheGoldenStool]], [[RanavalonaI]], [[Dahomey]], [[Agojie]], and [[Ghezo]] to compare female authority, military institutions, source bias, slavery, and violent rule.
 - Elizabethan security-state branch: [[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]], [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]], and [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] connect the St Bartholomew's Day Massacre, priest missions, Walsingham's intelligence work, the Throckmorton and Babington plots, Mary Stuart, trial, execution, and Armada escalation.
 - Elizabethan maritime and Dutch-war branch: [[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] and [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] connect Francis Drake, John Hawkins, privateering ambiguity, Sidney, Antwerp, the Treaty of Nonsuch, and the Low Countries intervention threshold.
 - Northern Ireland branch: [[697-the-troubles-murder-in-belfast-part-1-glt4877520736]], [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]], and [[699-the-troubles-return-of-the-ira-part-3-glt9519811642]] move from partition and institutional discrimination through civil-rights confrontation, loyalist violence, British Army deployment, the Provisional IRA, Falls Curfew, and Operation Demetrius.
@@ -66,15 +70,23 @@ The national-symbol and sport branches use South Africa, Brazil, the Netherlands
 
 ## Qualifications
 
-This page summarizes only the episodes currently ingested into the wiki. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading.
+This page summarizes only the episodes currently ingested into the wiki. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts, so vivid claims about violence and gender performance remain source-scoped.
 
 ## What Changed
 
-- Added the Hundred Years' War origin branch through England, France, Gascony, Aquitaine, Scotland, Capetian succession, and Edward III's nationalized war framing.
+- Added the African female-power branch through Kush, Njinga, Asante queen mothers, Ranavalona I, Dahomey, the Agojie, source criticism, and resistance-violence ambiguity.
 
 ## Relationships
 
 - [[HundredYearsWar]] - medieval conflict branch newly opened by episode 318.
+- [[AfricanFemaleAuthorityInstitutions]] - comparative gender-power branch newly opened by episode 317.
+- [[EuropeanAmazonProjection]] - source-critical frame for outsider fascination with African women warriors.
+- [[HeroicResistanceViolenceAmbiguity]] - moral frame for resistance, slavery, coercion, and harsh rule.
+- [[QueenNjinga]] - central 17th-century Angola ruler in the African branch.
+- [[AsanteQueenMothers]] - queen-mother institution in the African branch.
+- [[RanavalonaI]] - Malagasy ruler case in the African branch.
+- [[Dahomey]] - kingdom whose women warriors anchor the Agojie case.
+- [[Agojie]] - Dahomey women-warrior institution in the African branch.
 - [[EdwardIIIOfEngland]] - ruler whose claim and manifesto anchor the new medieval branch.
 - [[PhilipVIOfFrance]] - Valois king whose Aquitaine confiscation marks the war threshold.
 - [[Gascony]] - territorial-legal hinge in the Hundred Years' War origin episode.

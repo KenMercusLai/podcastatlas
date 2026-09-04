@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-04
-as_of_overview_commit: b9ff4567c3dabf8fb8deab8b15ddcea3ce3dadb3
-input_digest: 588861eeaca97e13983230927bfcfdf2d2e31a0b829d02a6848014223deb1c4f
+as_of_overview_commit: 1f81ed316c89425cfcaec7b86a1d1ffb1e3a381f
+input_digest: 2cc117dda2665f3fdf6bfa2f8fbd25982e0da3d2a92aba07e95f296299a3bff0
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hundred Years' War Part 1 now adds a medieval Anglo-French origin branch: the war threshold is framed through French wealth and prestige, England's reduced but persistent continental rights, Gascony and Aquitaine homage pressure, the Franco-Scottish alliance, Hallidon Hill, Capetian male-line failure, Valois accession, and Edward III's manifesto-style conversion of legal grievance into wider mobilization. Hanji 676 through Hanji 688 continue the adjacent Gengshi, Chimei, Liu Xuan, Deng Yu, Feng Yi, and surrender-settlement sequence, while later Hanji branches track Eastern Han frontier, court, eunuch, outer-relative, and command failures across the Zhangdi, He, An, Shun, Huan, Ling, Dong Zhuo, Cao Cao, Yuan Shao, Jiangdong, and Guandu sequences. Outside Han materials, the Germany anthem, Mayerling, Jefferson, Washington, Mandela, Dutch Revolt, Mussolini World Cup, and other history episodes add historical-memory and geopolitics cases where symbols, legitimacy, infrastructure, and crisis leadership remain source-scoped.
+African Amazons adds an African history-and-geopolitics branch: Kush, Njinga's Angola-era diplomacy and warfare, Asante queen mothers, Ranavalona I, Dahomey, and the Agojie are read through female authority, anti-European resistance, slavery, coercion, and European observer bias. The broader topic continues to track state formation, war origins, imperial crisis, public memory, legitimacy, infrastructure, and geopolitics as source-scoped historical systems.
 
 ## Cross-source Findings
+
+### African Amazons Branch Links Female Power Resistance And Violence
+
+[[317-african-amazons-glt5973082485|African Amazons]] adds a source-critical African history branch in which female political and military power crosses empire, resistance, slavery, and memory: [[Kush]], [[KandakeQueens]], and [[Amanirenas]] supply an early Nubian ruler case; [[QueenNjinga]] moves between [[Ndongo]], [[Matamba]], Portuguese pressure, Dutch alliance, and [[Imbangala]] ritual uncertainty; [[AsanteQueenMothers]], [[YaaAsantewaa]], and [[WarOfTheGoldenStool]] show queen-mother authority under British conflict; [[RanavalonaI]] makes [[Madagascar]] anti-European resistance morally ambiguous; and [[Dahomey]] / [[Agojie]] under [[Ghezo]] tie warrior memory to slavery and [[EuropeanAmazonProjection]].
+
+**Evidence:** [[317-african-amazons-glt5973082485]], [[TheRestIsHistory]], [[LukePepera]], [[TheWomanKing]], [[Kush]], [[KandakeQueens]], [[Amanirenas]], [[QueenNjinga]], [[Ndongo]], [[Matamba]], [[Imbangala]], [[AsanteQueenMothers]], [[YaaAsantewaa]], [[WarOfTheGoldenStool]], [[RanavalonaI]], [[Madagascar]], [[Dahomey]], [[Agojie]], [[Ghezo]], [[EuropeanAmazonProjection]], [[HeroicResistanceViolenceAmbiguity]]
+
+**Qualifications:**
+
+- This claim is source-scoped to the 2023-03-30 The Rest Is History episode and does not settle wider debates over each polity or ruler.
+- The episode explicitly resists a simple heroic reading because Dahomey, Njinga, and Ranavalona material includes slavery, coercion, executions, ordeal, persecution, and harsh state projects.
+- European Amazon language, missionary accounts, court-gender details, battlefield spectacle, and population-loss numbers remain source-scoped rather than independent historical findings.
 
 ### Hundred Years War Origin Links Dynastic Claim And Material Pressure
 
