@@ -9,7 +9,7 @@ topic_pages:
     label: "Technology"
     description: "AI, software, infrastructure, computing, robotics, security, chips, and the systems that turn technical capability into products."
     url: "/topics/technology/"
-    count: 2707
+    count: 2709
   - key: "economics"
     label: "Economics"
     description: "Markets, finance, investing, trade, companies, entrepreneurship, and the policies and incentives that shape economic activity."
@@ -29,7 +29,7 @@ topic_pages:
     label: "Culture"
     description: "Literature, media, art, film, music, books, education, sport, and the stories and practices through which societies make meaning."
     url: "/topics/culture/"
-    count: 2390
+    count: 2391
   - key: "science"
     label: "Science"
     description: "Medicine, health, biology, space, climate, environment, psychology, and the evidence and institutions behind scientific knowledge."

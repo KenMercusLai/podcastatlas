@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 8925
+wiki_total_pages: 8930
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "IgnazSemmelweis"
     title: "Ignaz Semmelweis"
     url: "/wiki/entities/ignazsemmelweis/"
+  - key: "IKEA"
+    title: "IKEA"
+    url: "/wiki/entities/ikea/"
   - key: "Illinois"
     title: "Illinois"
     url: "/wiki/entities/illinois/"

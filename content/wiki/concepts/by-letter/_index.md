@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6357
+wiki_total_pages: 6362
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "AIAnswerSourceAttribution"
     title: "AI Answer Source Attribution"
     url: "/wiki/concepts/aianswersourceattribution/"
+  - key: "AIAPIRevenueModel"
+    title: "AI API Revenue Model"
+    url: "/wiki/concepts/aiapirevenuemodel/"
   - key: "AIApplicationLayerMoat"
     title: "AI Application Layer Moat"
     url: "/wiki/concepts/aiapplicationlayermoat/"

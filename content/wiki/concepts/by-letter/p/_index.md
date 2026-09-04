@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6357
+wiki_total_pages: 6362
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "PhysicalIntelligenceSystemStack"
     title: "Physical Intelligence System Stack"
     url: "/wiki/concepts/physicalintelligencesystemstack/"
+  - key: "PhysicalMusicMediaRevival"
+    title: "Physical Music Media Revival"
+    url: "/wiki/concepts/physicalmusicmediarevival/"
   - key: "PhysicalVideoMediaRevival"
     title: "Physical Video Media Revival"
     url: "/wiki/concepts/physicalvideomediarevival/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2390
+topic_total_pages: 2391
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1645,6 +1645,9 @@ topic_concepts:
   - key: "PhysicalGameEraDecline"
     title: "Physical Game Era Decline"
     url: "/wiki/concepts/physicalgameeradecline/"
+  - key: "PhysicalMusicMediaRevival"
+    title: "Physical Music Media Revival"
+    url: "/wiki/concepts/physicalmusicmediarevival/"
   - key: "PhysicalVideoMediaRevival"
     title: "Physical Video Media Revival"
     url: "/wiki/concepts/physicalvideomediarevival/"

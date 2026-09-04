@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6357
+wiki_total_pages: 6362
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "GoldInvestmentProducts"
     title: "Gold Investment Products / 黄金投资产品"
     url: "/wiki/concepts/goldinvestmentproducts/"
+  - key: "GoldJewelryFranchiseRetrenchment"
+    title: "Gold Jewelry Franchise Retrenchment"
+    url: "/wiki/concepts/goldjewelryfranchiseretrenchment/"
   - key: "GoldJewelryValuePerceptionRisk"
     title: "Gold Jewelry Value Perception Risk"
     url: "/wiki/concepts/goldjewelryvalueperceptionrisk/"

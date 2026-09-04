@@ -2217,6 +2217,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIAPIRevenueModel": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIAbundanceNarrative": [
     {
       "key": "technology",
@@ -46413,6 +46420,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "PhysicalMusicMediaRevival": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "PhysicalVideoMediaRevival": [
     {
       "key": "culture",
@@ -70407,6 +70421,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "dang-heike-gongpo-le-riben-de-guomin-pijiu-chule-jugong-daoqian-tamen-hai-neng-zuo-shenme-feat-top-of-japan-keji-luandun": [

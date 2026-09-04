@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [戴森进入电动牙刷领域，传统金店加盟持续收缩](sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825.md) — 声动早咖啡 episode on Dyson's CameraJet oral-care bet, GoPro's optical-asset deal, Zhipu AI's API-led revenue mix, World Labs' Atlus model, NIO, Sushiro, CDs, gold jewelry, and IKEA price cuts.
 - [153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”](sources/153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p.md) — 张小珺Jùn｜商业访谈录 episode with 曾鸣 on AI industrialization stages, agent entry points, model companies as AI infrastructure, intelligence flywheels, task-based AI-native organization, and strategic generation.
 - [Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等](sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1.md) — 枫言枫语 episode on Apple succession, Claude 5.1 quota trust, GLM 5.3 Flash routing, Codex workflows, AI infrastructure, Hugging Face acquisition risk, AI media labels, World Labs, and robots.
 - [Advice Line with Ben Goodwin of Olipop](sources/advice-line-with-ben-goodwin-of-olipop-f9d3fe17-eb2c-440d-b223-990fed970727.md) — How I Built This Advice Line episode using Olipop, Gheelish, Sarah's Gluten-Free Goods, and Bexley Natural Market to show how taste, trust, capacity, curation, and in-store experience shape food and retail growth.
@@ -1914,6 +1915,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Dyson / 戴森](entities/Dyson.md) — Premium consumer-hardware company entering smart oral care through CameraJet.
+- [CameraJet](entities/CameraJet.md) — Dyson electric toothbrush combining brushing, water flossing, camera inspection, and app feedback.
+- [Storm & Optical](entities/StormOptical.md) — Optical-module company reported as GoPro's USD 285 million cash-deal counterparty.
+- [Atlus World Model](entities/AtlusWorldModel.md) — World Labs multimodal world model for scene inference and alternate-view generation.
+- [IKEA](entities/IKEA.md) — Home-furnishing retailer using European price cuts as a cost-of-living affordability reset.
 - [曾鸣 / Zeng Ming](entities/ZengMing.md) — Strategy scholar and former Alibaba chief strategy officer using industry-history analogies to frame AI stages, model-company infrastructure, agent opportunities, and task-based organizations.
 - [GLM 5.3 Flash](entities/GLM53Flash.md) — Zhipu AI model used in Vol. 173 as a low-cost routing option for routine translation, extraction, summarization, mind-map, and multimodal tasks.
 - [Apple Music](entities/AppleMusic.md) — Apple music platform used in Vol. 173 as the concrete case for mandatory AI-content labeling and listener filtering questions.
@@ -3780,7 +3786,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wang Xingxing / 王兴兴](entities/WangXingxing.md) — Unitree founder figure cited in S10E26 on incomplete humanoid robot product-market fit.
 - [Honda / 本田](entities/Honda.md) — Automotive and robotics company used in S10E26 as an early humanoid-form argument for human-built spaces.
 - [DARPA](entities/DARPA.md) — U.S. research agency used in S10E26 as a demand-shaping reference for quadruped robotics.
-- [World Labs](entities/WorldLabs.md) — Fei-Fei Li associated company focused on spatial and physical intelligence, generated worlds, creators, robotics simulation, real-time world generation, and real-world transfer questions.
+- [World Labs](entities/WorldLabs.md) — Fei-Fei Li associated company focused on spatial intelligence, generated worlds, robotics simulation, real-time worlds, and Atlus-style scene inference.
 - [Newton Physics Engine](entities/NewtonPhysicsEngine.md) — Open physics-engine project named in S10E26 as a simulation branch involving Nvidia, Google DeepMind, and Disney.
 - [Alok Jha](entities/AlokJha.md) — The Intelligence science voice mapping AI consciousness through phenomenal/access consciousness, chatbot projection, workspace theory, functionalism, and organoid computing.
 - [Blake Lemoine](entities/BlakeLemoine.md) — Google engineer used by The Intelligence as a modern case of chatbot mind projection rather than proof of machine consciousness.
@@ -5777,7 +5783,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [University of Science and Technology of China / 中国科学技术大学](entities/UniversityOfScienceAndTechnologyOfChina.md) — Scientific and talent base that the episode treats as a long-run foundation for Hefei's hard-tech industrial strategy.
 - [Chery / 奇瑞](entities/Chery.md) — Wuhu-based automaker used as an early Anhui carmaking and local industrial-upgrading case.
 - [BOE Technology / 京东方](entities/BOETechnology.md) — Display-panel company whose Hefei 6th-generation LCD line anchors the classic Hefei industrial-investment case.
-- [NIO / 蔚来](entities/NIO.md) — Electric-vehicle company tied to Hefei industrial investment and, in FengTouQuan, to premium EV branding through ES8, battery leasing, and battery-swap infrastructure.
+- [NIO / 蔚来](entities/NIO.md) — Electric-vehicle company tied to Hefei industrial investment, premium EV branding, battery swap, and source-scoped Q2 2026 financial improvement.
 - [田丰 / Tian Feng (late Han)](entities/TianFengLateHan.md) — Yuan Shao adviser disambiguated from modern researcher 田峰; repeated ignored grain, Xudu, and Cao-rear warnings culminate in a rejected hold-and-harass plan, imprisonment, and post-Guandu execution.
 - [田峰 / Tian Feng](entities/TianFeng.md) — 中国社科院 researcher explaining talent group livestreaming as guild-backed labor, real-time data, compliance, aesthetic production, and fieldwork evidence.
 - [Chinese Academy of Social Sciences / 中国社会科学院](entities/ChineseAcademyOfSocialSciences.md) — Research-institution context for Tian Feng and student fieldwork on talent group livestreaming.
@@ -9767,7 +9773,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nestle](entities/Nestle.md) — global CPG owner used to show why packaged consumer-goods capability may not fit store-led coffee expansion.
 - [DJI / 大疆](entities/DJI.md) — Chinese drone and consumer-hardware company analyzed through category definition, global brand power, portable creator cameras, regulation risk, and talent spillover.
 - [Wang Tao / 汪滔](entities/WangTao.md) — DJI founder figure tied to founder control, listing choices, and talent/liquidity pressure.
-- [GoPro](entities/GoPro.md) — Action-camera pioneer used as a hardware lifecycle warning after DJI's challenger momentum.
+- [GoPro](entities/GoPro.md) — Action-camera pioneer used as a hardware lifecycle warning and later source-scoped optical-asset deal target.
 - [Insta360 / 影石](entities/Insta360.md) — 360-degree camera company positioned as DJI's major portable-creator-camera competitor.
 - [Bambu Lab / 拓竹科技](entities/BambuLab.md) — DJI-alumni hardware company example used to explain hardware talent spillover.
 - [EcoFlow / 正浩](entities/EcoFlow.md) — DJI-alumni portable-energy company example and category-expansion contrast.
@@ -9832,7 +9838,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Haley Salmon](entities/HaleySalmon.md) — The Intelligence correspondent explaining Venezuela's first-48-hours rescue failure and public anger.
 - [Starship Technologies](entities/StarshipTechnologies.md) — Sidewalk-delivery-robot company used to examine low-speed autonomy and unit economics.
 - [Harlan Coben](entities/HarlanCoben.md) — Thriller author whose name functions as a recurring Netflix streaming brand.
-- [Sushiro / 寿司郎](entities/Sushiro.md) — Conveyor-belt sushi chain case for China expansion through supply localization, store standardization, mall positioning, and food-safety trust.
+- [Sushiro / 寿司郎](entities/Sushiro.md) — Conveyor-belt sushi chain case for China localization, seafood supply discipline, and planned New York U.S. entry.
 - [Yimu Technology / 一目科技](entities/YimuTechnology.md) — Tactile-sensing robotics company positioned as a physical access-layer infrastructure provider for embodied AI.
 - [Eric Li Zhiqiang / 李志强](entities/EricLiZhiqiang.md) — Yimu Technology founder and CEO explaining tactile sensing, optical tactile sensors, TouchNet, and touch as a robot intelligence bottleneck.
 - [FIFA](entities/FIFA.md) — International football governing body analyzed through World Cup expansion, revenue concentration, member voting, and regional power redistribution.
@@ -10358,7 +10364,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [T3 Chuxing](entities/T3Chuxing.md) — Mobility platform named beside Didi and AutoNavi in Momenta's partner-led China Robotaxi route.
 - [Project Glassfin](entities/ProjectGlassfin.md) — Anthropic security effort discussed as an AI-assisted vulnerability-discovery case with coordinated remediation implications.
 - [Dario Amodei](entities/DarioAmodei.md) — Anthropic leader used by the episode as the main case for AI safety rhetoric feeding model access restrictions.
-- [Zhipu AI](entities/ZhipuAI.md) — Chinese AI company framed through GLM 5.2 as an open-model response to closed-model access restrictions.
+- [Zhipu AI](entities/ZhipuAI.md) — Chinese AI company framed through GLM models, open-model competition, enterprise use, and API-led revenue growth.
 - [GLM 5.2](entities/GLM52.md) — Zhipu AI model release discussed through long context, coding improvement, open-weight substitution, model routing, and frontier-gap pressure.
 - [SK Telecom](entities/SKTelecom.md) — Telecom company mentioned in a rumor-level Anthropic access story illustrating partner-access sensitivity.
 - [China Unicom](entities/ChinaUnicom.md) — Telecom company named in the episode's disputed SK Telecom/Anthropic partner-access story.
@@ -10843,6 +10849,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Smart Oral Care](concepts/SmartOralCare.md) — Sensor-rich oral-care category using cameras, app feedback, and integrated brushing/flossing.
+- [AI API Revenue Model](concepts/AIAPIRevenueModel.md) — Model-provider commercialization pattern based on standardized API usage revenue.
+- [Physical Music Media Revival](concepts/PhysicalMusicMediaRevival.md) — Renewed consumer interest in CDs, vinyl, and tangible music listening experiences.
+- [Gold Jewelry Franchise Retrenchment](concepts/GoldJewelryFranchiseRetrenchment.md) — Contraction of gold-jewelry franchise stores under high gold prices and regional-brand competition.
+- [Furniture Affordability Price Reset](concepts/FurnitureAffordabilityPriceReset.md) — Broad furniture price cuts used to rebuild visible value under cost-of-living pressure.
 - [AI Industrialization Three Stages](concepts/AIIndustrializationThreeStages.md) — Zeng Ming framework reading AI as moving from tokenized infrastructure to agent applications and later native applications.
 - [Agent Entry Point](concepts/AgentEntryPoint.md) — Browser, directory, standard, or portal layer that lets users discover, create, invoke, and trust agents.
 - [Model Companies As AI Infrastructure](concepts/ModelCompaniesAsAIInfrastructure.md) — Thesis that model providers may become AI-cloud utilities without automatically becoming native-era application winners.
@@ -11394,7 +11405,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adult Toy Market Expansion](concepts/AdultToyMarketExpansion.md) — Toy-market strategy of serving adult hobby, display, fandom, and collector occasions alongside children.
 - [Automotive Overcapacity Restructuring](concepts/AutomotiveOvercapacityRestructuring.md) — Automaker restructuring problem where excess capacity, tariffs, competition, labor, and governance collide.
 - [Electric Two-Wheeler Market Divergence](concepts/ElectricTwoWheelerMarketDivergence.md) — Split between declining legacy makers and growing smart-feature challengers in Chinese electric two-wheelers.
-- [Gold Jewelry Value Perception Risk](concepts/GoldJewelryValuePerceptionRisk.md) — Risk that jewelry premiums look weak when gold-price timing and retail price increases diverge.
+- [Gold Jewelry Value Perception Risk](concepts/GoldJewelryValuePerceptionRisk.md) — Risk that jewelry premiums and franchise economics weaken when gold-price timing, retail prices, and perceived value diverge.
 - [Packaged Water Price War](concepts/PackagedWaterPriceWar.md) — Bottled-water pricing pressure that can slow growth in a mature, low-differentiation beverage category.
 - [Restaurant Delivery Extension](concepts/RestaurantDeliveryExtension.md) — Restaurant strategy of building delivery-friendly products and sites for new meal occasions.
 - [Toy Design Human Creativity Boundary](concepts/ToyDesignHumanCreativityBoundary.md) — Product-design line where AI supports standardized work while human designers retain creative judgment.

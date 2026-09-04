@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3d04d9a6a403b52fc52e87c9c6886bde68e1686c722a32f2cec58cf0d0e276ab",
       "ff4d9c3325739e6d49cb70e26df11cd60e311afe4f50bf5983b81a7e3852f6e4",
       "35a932c6a3e74d7ecd6993183b89341d6e0305e56a43657b29dd9ed38aadfef5",
       "bbd5e6d47ffaf9e15def4ddeaa6f6359f6c57d41376e95f87ccd6de1dbc7f8cc",
@@ -531,11 +532,41 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 529
+    "paragraph_count": 530
   },
-  "overview_commit": "713b06e112b7744d387ede327f74e6976cb48175",
-  "overview_digest": "a2adc77056aa621a662ccccc30f32b50e16e4400873dd6e4a9ced9f4d235c11a",
+  "overview_commit": "d2504fe0a63be3035e6e319575b2d840d1bf3f43",
+  "overview_digest": "999b293696def8c2f0525354f62f8ca0fe26a86dd639077c08628e7372e663d1",
   "paragraphs": [
+    {
+      "id": "3d04d9a6a403b52fc52e87c9c6886bde68e1686c722a32f2cec58cf0d0e276ab",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "culture-and-media"
+      ],
+      "text": "[[daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825|The 2026-09-02 声动早咖啡 roundup]] adds a cross-industry repositioning layer: [[Dyson]]'s [[CameraJet]] turns oral care into sensor-heavy personal hardware, [[GoPro]]'s [[StormOptical|Storm & Optical]] deal treats a weakened action-camera pioneer as optical IP and AI-data-center-adjacent assets, [[ZhipuAI]]'s API-heavy revenue mix strengthens [[AIAPIRevenueModel]], and [[WorldLabs]]' [[AtlusWorldModel|Atlus]] keeps world models tied to spatial inference, 3D scenes, and simulation use. The consumer side extends [[GoldJewelryValuePerceptionRisk]] and [[GoldJewelryFranchiseRetrenchment]] through franchise-store closures, while [[PhysicalMusicMediaRevival]], [[Sushiro]]'s U.S. opening, [[NIO]]'s narrowed loss, and [[IKEA]]'s European price cuts show budget, experience, channel, and affordability pressures reshaping mature categories.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 1,
+        "culture-and-media": 2
+      },
+      "wikilinks": [
+        "AIAPIRevenueModel",
+        "AtlusWorldModel",
+        "CameraJet",
+        "Dyson",
+        "GoPro",
+        "GoldJewelryFranchiseRetrenchment",
+        "GoldJewelryValuePerceptionRisk",
+        "IKEA",
+        "NIO",
+        "PhysicalMusicMediaRevival",
+        "StormOptical",
+        "Sushiro",
+        "WorldLabs",
+        "ZhipuAI",
+        "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825"
+      ]
+    },
     {
       "id": "ff4d9c3325739e6d49cb70e26df11cd60e311afe4f50bf5983b81a7e3852f6e4",
       "primary_topic": "ai-and-technology",

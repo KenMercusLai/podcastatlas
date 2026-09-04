@@ -1419,6 +1419,10 @@
     "title": "AI 3D Prototyping",
     "url": "/wiki/concepts/ai3dprototyping/"
   },
+  "AIAPIRevenueModel": {
+    "title": "AI API Revenue Model",
+    "url": "/wiki/concepts/aiapirevenuemodel/"
+  },
   "AIAbundanceNarrative": {
     "title": "AI Abundance Narrative",
     "url": "/wiki/concepts/aiabundancenarrative/"
@@ -5687,6 +5691,10 @@
     "title": "Atlas Shrugged / 《阿特拉斯耸耸肩》",
     "url": "/wiki/entities/atlasshrugged/"
   },
+  "AtlusWorldModel": {
+    "title": "Atlus World Model",
+    "url": "/wiki/entities/atlusworldmodel/"
+  },
   "AtomicCapabilityServices": {
     "title": "Atomic Capability Services",
     "url": "/wiki/concepts/atomiccapabilityservices/"
@@ -8786,6 +8794,10 @@
   "CambridgePlaza": {
     "title": "Cambridge Plaza",
     "url": "/wiki/entities/cambridgeplaza/"
+  },
+  "CameraJet": {
+    "title": "CameraJet",
+    "url": "/wiki/entities/camerajet/"
   },
   "Cameroon": {
     "title": "Cameroon / 喀麦隆",
@@ -16375,6 +16387,10 @@
     "title": "Dysarthria Capability Boundary",
     "url": "/wiki/concepts/dysarthriacapabilityboundary/"
   },
+  "Dyson": {
+    "title": "Dyson / 戴森",
+    "url": "/wiki/entities/dyson/"
+  },
   "DysphagiaRehabilitationSafety": {
     "title": "Dysphagia Rehabilitation Safety / 吞咽障碍康复安全",
     "url": "/wiki/concepts/dysphagiarehabilitationsafety/"
@@ -20987,6 +21003,10 @@
     "title": "丧葬名分僭越 / Funerary Privilege Abuse",
     "url": "/wiki/concepts/funeraryprivilegeabuse/"
   },
+  "FurnitureAffordabilityPriceReset": {
+    "title": "Furniture Affordability Price Reset",
+    "url": "/wiki/concepts/furnitureaffordabilitypricereset/"
+  },
   "FushuCity": {
     "title": "负黍 / Fushu",
     "url": "/wiki/entities/fushucity/"
@@ -22166,6 +22186,10 @@
   "GoldInvestmentProducts": {
     "title": "Gold Investment Products / 黄金投资产品",
     "url": "/wiki/concepts/goldinvestmentproducts/"
+  },
+  "GoldJewelryFranchiseRetrenchment": {
+    "title": "Gold Jewelry Franchise Retrenchment",
+    "url": "/wiki/concepts/goldjewelryfranchiseretrenchment/"
   },
   "GoldJewelryValuePerceptionRisk": {
     "title": "Gold Jewelry Value Perception Risk",
@@ -25882,6 +25906,10 @@
   "IEPATariffAuthorityLimit": {
     "title": "IEPA Tariff Authority Limit",
     "url": "/wiki/concepts/iepatariffauthoritylimit/"
+  },
+  "IKEA": {
+    "title": "IKEA",
+    "url": "/wiki/entities/ikea/"
   },
   "ILibertine": {
     "title": "I, Libertine",
@@ -41251,6 +41279,10 @@
     "title": "Physical Intelligence System Stack",
     "url": "/wiki/concepts/physicalintelligencesystemstack/"
   },
+  "PhysicalMusicMediaRevival": {
+    "title": "Physical Music Media Revival",
+    "url": "/wiki/concepts/physicalmusicmediarevival/"
+  },
   "PhysicalVideoMediaRevival": {
     "title": "Physical Video Media Revival",
     "url": "/wiki/concepts/physicalvideomediarevival/"
@@ -49091,6 +49123,10 @@
     "title": "Smart Glasses Bystander Privacy",
     "url": "/wiki/concepts/smartglassesbystanderprivacy/"
   },
+  "SmartOralCare": {
+    "title": "Smart Oral Care",
+    "url": "/wiki/concepts/smartoralcare/"
+  },
   "SmartVehicleLivingSpace": {
     "title": "Smart Vehicle Living Space / 智能汽车生活空间",
     "url": "/wiki/concepts/smartvehiclelivingspace/"
@@ -50618,6 +50654,10 @@
   "StoriesToldAMillionTimes": {
     "title": "《讲了一百万次的故事》 / Stories Told a Million Times",
     "url": "/wiki/entities/storiestoldamilliontimes/"
+  },
+  "StormOptical": {
+    "title": "Storm & Optical",
+    "url": "/wiki/entities/stormoptical/"
   },
   "Stormont": {
     "title": "Stormont",
@@ -62962,6 +63002,10 @@
   "da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf": {
     "title": "《大厂小民》：我们必须克制对系统与上岸的期待",
     "url": "/wiki/sources/da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf/"
+  },
+  "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825": {
+    "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+    "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
   },
   "dang-heike-gongpo-le-riben-de-guomin-pijiu-chule-jugong-daoqian-tamen-hai-neng-zuo-shenme-feat-top-of-japan-keji-luandun": {
     "title": "当黑客攻破了日本的国民啤酒，除了鞠躬道歉，他们还能做什么？feat.Top of Japan",

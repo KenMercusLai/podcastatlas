@@ -203,6 +203,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/ahacreator/"
     },
+    "AIAPIRevenueModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "戴森进入电动牙刷领域，传统金店加盟持续收缩 [1010976825].md",
+          "key": "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825",
+          "show": "声动早咖啡",
+          "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+          "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/aiapirevenuemodel/"
+    },
     "AIAccessToJustice": {
       "episode_count": 3,
       "show_count": 3,
@@ -4655,6 +4671,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/atlasrobot/"
     },
+    "AtlusWorldModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "戴森进入电动牙刷领域，传统金店加盟持续收缩 [1010976825].md",
+          "key": "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825",
+          "show": "声动早咖啡",
+          "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+          "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/atlusworldmodel/"
+    },
     "AtomicContentGuardrails": {
       "episode_count": 1,
       "show_count": 1,
@@ -7407,6 +7439,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/calypso/"
+    },
+    "CameraJet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "戴森进入电动牙刷领域，传统金店加盟持续收缩 [1010976825].md",
+          "key": "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825",
+          "show": "声动早咖啡",
+          "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+          "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/camerajet/"
     },
     "CampaignFinanceAccessIncentive": {
       "episode_count": 1,
@@ -15813,6 +15861,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/dysarthriacapabilityboundary/"
     },
+    "Dyson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "戴森进入电动牙刷领域，传统金店加盟持续收缩 [1010976825].md",
+          "key": "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825",
+          "show": "声动早咖啡",
+          "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+          "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/dyson/"
+    },
     "DysphagiaRehabilitationSafety": {
       "episode_count": 1,
       "show_count": 1,
@@ -22492,6 +22556,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/funeraryprivilegeabuse/"
     },
+    "FurnitureAffordabilityPriceReset": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "戴森进入电动牙刷领域，传统金店加盟持续收缩 [1010976825].md",
+          "key": "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825",
+          "show": "声动早咖啡",
+          "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+          "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/furnitureaffordabilitypricereset/"
+    },
     "FuyouTiandi": {
       "episode_count": 6,
       "show_count": 1,
@@ -23964,6 +24044,29 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/gnaeuspompeiusstrabo/"
     },
+    "GoPro": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "140. 大疆还能低空飞多久？ ｜ 疯投圈 (1) [140-1].md",
+          "key": "140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1",
+          "show": "疯投圈",
+          "title": "140. 大疆还能低空飞多久？",
+          "url": "/wiki/sources/140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1/"
+        },
+        {
+          "episode_file": "戴森进入电动牙刷领域，传统金店加盟持续收缩 [1010976825].md",
+          "key": "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825",
+          "show": "声动早咖啡",
+          "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+          "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/gopro/"
+    },
     "GoalkeeperEmbodiedJudgment": {
       "episode_count": 1,
       "show_count": 1,
@@ -24026,10 +24129,26 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/goguryeolatehan/"
     },
-    "GoldJewelryValuePerceptionRisk": {
+    "GoldJewelryFranchiseRetrenchment": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "戴森进入电动牙刷领域，传统金店加盟持续收缩 [1010976825].md",
+          "key": "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825",
+          "show": "声动早咖啡",
+          "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+          "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/goldjewelryfranchiseretrenchment/"
+    },
+    "GoldJewelryValuePerceptionRisk": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品 [1008870590].md",
@@ -24037,9 +24156,16 @@
           "show": "声动早咖啡",
           "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",
           "url": "/wiki/sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590/"
+        },
+        {
+          "episode_file": "戴森进入电动牙刷领域，传统金店加盟持续收缩 [1010976825].md",
+          "key": "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825",
+          "show": "声动早咖啡",
+          "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+          "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/goldjewelryvalueperceptionrisk/"
     },
     "GongsunShuEasternHan": {
@@ -28322,6 +28448,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/hyperscaledatacentermoratorium/"
+    },
+    "IKEA": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "戴森进入电动牙刷领域，传统金店加盟持续收缩 [1010976825].md",
+          "key": "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825",
+          "show": "声动早咖啡",
+          "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+          "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/ikea/"
     },
     "IMAgentInterfaces": {
       "episode_count": 3,
@@ -40879,6 +41021,36 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/nhs/"
     },
+    "NIO": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "No.211 徽商往事：从前世不修到最牛风投 [1002275189].md",
+          "key": "no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.211 徽商往事：从前世不修到最牛风投",
+          "url": "/wiki/sources/no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189/"
+        },
+        {
+          "episode_file": "143. 🚗「蔚小理」的高端探索 ｜ 疯投圈 (1) [143-1].md",
+          "key": "143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1",
+          "show": "疯投圈",
+          "title": "143. 「蔚小理」的高端探索",
+          "url": "/wiki/sources/143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1/"
+        },
+        {
+          "episode_file": "戴森进入电动牙刷领域，传统金店加盟持续收缩 [1010976825].md",
+          "key": "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825",
+          "show": "声动早咖啡",
+          "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+          "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/nio/"
+    },
     "NanJiHe": {
       "episode_count": 1,
       "show_count": 1,
@@ -44699,6 +44871,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/physicalaihardtakeoff/"
+    },
+    "PhysicalMusicMediaRevival": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "戴森进入电动牙刷领域，传统金店加盟持续收缩 [1010976825].md",
+          "key": "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825",
+          "show": "声动早咖啡",
+          "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+          "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/physicalmusicmediarevival/"
     },
     "PhysicsStagnationClaim": {
       "episode_count": 1,
@@ -52277,6 +52465,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/smartglassesbystanderprivacy/"
     },
+    "SmartOralCare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "戴森进入电动牙刷领域，传统金店加盟持续收缩 [1010976825].md",
+          "key": "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825",
+          "show": "声动早咖啡",
+          "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+          "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/smartoralcare/"
+    },
     "SmartVehicleLivingSpace": {
       "episode_count": 1,
       "show_count": 1,
@@ -53312,6 +53516,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/stopandshop/"
+    },
+    "StormOptical": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "戴森进入电动牙刷领域，传统金店加盟持续收缩 [1010976825].md",
+          "key": "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825",
+          "show": "声动早咖啡",
+          "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+          "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/stormoptical/"
     },
     "Stormont": {
       "episode_count": 4,
@@ -54776,6 +54996,36 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/surrendertrustbreakdown/"
+    },
+    "Sushiro": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Vol.263 郎的诱惑 [998128018].md",
+          "key": "vol-263-lang-de-youhuo-998128018",
+          "show": "商业就是这样",
+          "title": "Vol.263 郎的诱惑",
+          "url": "/wiki/sources/vol-263-lang-de-youhuo-998128018/"
+        },
+        {
+          "episode_file": "商业小样45 ｜ 厄尔尼诺越大，鱼越贵 [1000164352].md",
+          "key": "shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352",
+          "show": "商业就是这样",
+          "title": "商业小样45 | 厄尔尼诺越大，鱼越贵",
+          "url": "/wiki/sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352/"
+        },
+        {
+          "episode_file": "戴森进入电动牙刷领域，传统金店加盟持续收缩 [1010976825].md",
+          "key": "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825",
+          "show": "声动早咖啡",
+          "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+          "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/sushiro/"
     },
     "SuspicionDrivenEliteAlienation": {
       "episode_count": 5,
@@ -60777,9 +61027,9 @@
       "url": "/wiki/entities/workshopinternalcomms/"
     },
     "WorldLabs": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
@@ -60801,6 +61051,13 @@
           "show": "枫言枫语",
           "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
           "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
+        },
+        {
+          "episode_file": "戴森进入电动牙刷领域，传统金店加盟持续收缩 [1010976825].md",
+          "key": "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825",
+          "show": "声动早咖啡",
+          "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+          "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
         }
       ],
       "updated": "2026-09-05",
@@ -66377,6 +66634,71 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/zhiyuneasternhan/"
+    },
+    "ZhipuAI": {
+      "episode_count": 8,
+      "show_count": 6,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "蒸馏风暴：一场无人公开谈论的技术竞赛 (1) [179-1].md",
+          "key": "zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1",
+          "show": "晚点聊 LateTalk",
+          "title": "179: 蒸馏风暴：一场无人公开谈论的技术竞赛",
+          "url": "/wiki/sources/zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1/"
+        },
+        {
+          "episode_file": "【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？ (1) [171-1].md",
+          "key": "ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1",
+          "show": "晚点聊 LateTalk",
+          "title": "171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？",
+          "url": "/wiki/sources/ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1/"
+        },
+        {
+          "episode_file": "136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS [lh_CQyoSs_DztmYB5kmBjaPA6W9V].md",
+          "key": "136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS",
+          "url": "/wiki/sources/136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v/"
+        },
+        {
+          "episode_file": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [把-ai-吹成核武器的人，亲手拉下了新冷战铁幕-1].md",
+          "key": "ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1",
+          "show": "科技乱炖",
+          "title": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕",
+          "url": "/wiki/sources/ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1/"
+        },
+        {
+          "episode_file": "智力贬值的春节见闻录，与那场正在酝酿的优贷危机 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [智力贬值的春节见闻录，与那场正在酝酿的优贷危-1].md",
+          "key": "zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1",
+          "show": "科技乱炖",
+          "title": "智力贬值的春节见闻录，与那场正在酝酿的优贷危机",
+          "url": "/wiki/sources/zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1/"
+        },
+        {
+          "episode_file": "tech_20260710_TECH_pod_128 [tech_20260710_TECH_pod_128].md",
+          "key": "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",
+          "url": "/wiki/sources/tech-20260710-tech-pod-128-tech-20260710-tech-pod-128/"
+        },
+        {
+          "episode_file": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘 [lgTuy-EszlCI5YaGUocYNdIgwmLX].md",
+          "key": "ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx",
+          "show": "42章经",
+          "title": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘",
+          "url": "/wiki/sources/ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx/"
+        },
+        {
+          "episode_file": "戴森进入电动牙刷领域，传统金店加盟持续收缩 [1010976825].md",
+          "key": "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825",
+          "show": "声动早咖啡",
+          "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
+          "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/zhipuai/"
     },
     "ZhiyuanRobotics": {
       "episode_count": 2,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8925
+wiki_total_pages: 8930
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1244,6 +1244,9 @@ wiki_pages:
   - key: "AtlasShrugged"
     title: "Atlas Shrugged / 《阿特拉斯耸耸肩》"
     url: "/wiki/entities/atlasshrugged/"
+  - key: "AtlusWorldModel"
+    title: "Atlus World Model"
+    url: "/wiki/entities/atlusworldmodel/"
   - key: "Atoom"
     title: "Atoom"
     url: "/wiki/entities/atoom/"

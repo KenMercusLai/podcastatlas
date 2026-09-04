@@ -15236,6 +15236,10 @@ Ingested the 2026-09-03 The Intelligence episode on Donald Trump's quieter but s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-05] ingest | 戴森进入电动牙刷领域，传统金店加盟持续收缩
+
+Ingested the 2026-09-02 声动早咖啡 episode on Dyson's CameraJet oral-care bet, GoPro's Storm & Optical deal, Zhipu AI's API-led revenue mix, World Labs' Atlus model, NIO's narrowing losses, Sushiro's U.S. entry, physical music formats, gold-jewelry franchise retrenchment, and IKEA Europe price cuts. Added source `daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825`; created `Dyson`, `CameraJet`, `StormOptical`, `AtlusWorldModel`, `IKEA`, `SmartOralCare`, `AIAPIRevenueModel`, `PhysicalMusicMediaRevival`, `GoldJewelryFranchiseRetrenchment`, and `FurnitureAffordabilityPriceReset`; updated `GoPro`, `ZhipuAI`, `WorldLabs`, `NIO`, `Sushiro`, `GoldJewelryValuePerceptionRisk`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; launches, acquisition terms, company financials, model details, store closures, music revenue, and price-cut plans remain source-scoped.
+
 ## [2026-09-05] ingest | 702. Roman Civil War: The Barbarian Invasion (Part 2)
 
 Ingested the 2026-09-02 The Rest Is History episode on Marius's repeated consulships and victories over the Teutones and Cimbri, the Italian citizenship crisis and Social War, Sulla's Social War rise and Mithridatic command, and the Marius-Sulpicius maneuver that strips Sulla of command. Added source `702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089`; created `SocialWar`, `MithridatesVI`, `MarcusLiviusDrusus`, `PubliusSulpiciusRufus`, `QuintusLutatiusCatulus`, `GnaeusPompeiusStrabo`, `ManiusAquillius`, `RomanAlliedCitizenshipCrisis`, and `RepublicanCommandTransferCrisis`; updated `GaiusMarius`, `LuciusCorneliusSulla`, `TeutonesAndCimbri`, `RomanRepublic`, `LateRomanRepublicCrisis`, `MilitaryPersonalization`, `PopularisPolitics`, `RomanExpansionMoralAnxiety`, `RepublicanEmergencyViolencePrecedent`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; casualty figures, the military-revolution label, Aquillius's motives, and Sulla's response remain source-scoped or deferred.
@@ -15271,6 +15275,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-05] ingest | Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等
 
 Ingested the 2026-09-03 枫言枫语 episode with Justin Yan and 自立 on Apple succession, Claude 5.1 and Anthropic quota trust, GLM 5.3 Flash routing, OpenAI/Codex workflows, AI chips/data centers, Nvidia-Hugging Face acquisition rumor, AI content labels, World Labs, and robotics. Added source `vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1`; created `GLM53Flash`, `AppleMusic`, `OpenCrawl`, `AIQuotaTrustErosion`, `ModelHubAcquisitionRisk`, `AIContentLabelingAndFiltering`, `SelfBuiltAgentWorkflow`, and `RealTimeGeneratedWorlds`; updated `JohnTernus`, `MacMini`, `WorldLabs`, `HomeServiceRobots`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; product releases, dates, prices, model versions, data-center financing, acquisition reports, and robot timelines remain source-scoped.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-05] lint | Wiki health check
 

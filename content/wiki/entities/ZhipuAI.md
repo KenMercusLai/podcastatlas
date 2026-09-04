@@ -1,44 +1,77 @@
 ---
 title: "Zhipu AI"
 type: entity
-tags: [company, ai, open-source-ai, china]
-sources: [zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]
-last_updated: 2026-08-17
+tags: [company, ai, open-source-ai, china, api]
+sources:
+  - zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1
+  - ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1
+  - 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v
+  - ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1
+  - zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1
+  - tech-20260710-tech-pod-128-tech-20260710-tech-pod-128
+  - ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx
+  - daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825
+last_updated: 2026-09-05
+knowledge_schema: synthesis-v1
 ---
 
 # Zhipu AI
 
-[[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds a useful negative signal: the episode says Zhipu AI was not among the companies it described as publicly named by U.S. closed-model companies in the distillation dispute. The page keeps that as a source-scoped non-accusation, relevant because [[ModelDistillationEvidence]] should distinguish silence, suspicion, and proven provenance.
+## Overview
+Zhipu AI is a Chinese AI company associated with GLM models, open-source competition, enterprise adaptation, and an increasingly API-led revenue model.
 
-Zhipu AI is discussed in [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] through the release of [[GLM52]]. The hosts frame the release as a response to U.S. model-access restrictions and as part of the Chinese [[OpenSourceAIModels]] ecosystem that may benefit when closed frontier models become politically unreliable.
+## Current Profile
+Across the bounded sources, Zhipu AI appears as one of China's major GLM-family model providers. It is compared with DeepSeek, Qwen, Kimi, and Anthropic-era frontier systems on reasoning, coding, price, open-source posture, and enterprise use. The newest source adds an important commercial layer: first-half 2026 revenue reportedly exceeded full-year 2025 revenue, API revenue rose more than 27-fold, and API sales became about 90% of total revenue, shifting Zhipu AI's profile from only model capability to [[AIAPIRevenueModel]] execution.
 
-[[zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]] adds [[GLM5]] as a hands-on coding and product-building tool. The source uses the model to show that coding can become fast enough for one person to create multiple prototypes, while platform process, verification, and domain know-how remain bottlenecks.
+## Key Characteristics
+- Operates the GLM model family inside China's open-model and commercial AI landscape.
+- Competes on reasoning, coding, multimodal capability, price, and deployment flexibility.
+- Serves as a China-market alternative when access to foreign frontier models is constrained.
+- Uses API revenue as a scaling commercial model, according to the newest source.
+- Maintains enterprise relevance through vertical markets such as legal, cybersecurity, finance, and education.
+- Appears in governance and trust debates around model distillation, though accusations remain source-specific rather than adjudicated wiki facts.
+- Faces the same margin, benchmark, and cost-efficiency pressure that affects other AI model providers.
 
-[[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds Zhipu AI to the domestic companies moving toward a high-value-task and coding/agent route. The source's point is comparative rather than model-specific: Chinese model companies cannot treat coding and agents as optional if [[AGIThreeActs]] becomes the main competitive path.
+## Evidence
+- GLM and benchmark evidence: [[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]], [[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]], and [[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] situate Zhipu AI among GLM, Qwen, DeepSeek, coding, and open-model comparisons.
+- Commercialization evidence: [[daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825]] says Zhipu AI's H1 2026 revenue exceeded full-year 2025 revenue, with API revenue up more than 27-fold and about 90% of total revenue.
+- Enterprise evidence: [[zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]], [[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]], and [[daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825]] connect Zhipu AI to enterprise, legal, finance, education, and developer-use settings.
+- Market-structure evidence: [[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] and [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] place Zhipu AI inside broader competition, access, and China-AI policy debates.
+- Trust-debate evidence: [[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] records Anthropic's accusation context around Claude-derived outputs and model distillation disputes.
 
-[[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] adds a stronger enterprise and U.S.-ecosystem angle. The source says GLM-family models are being used or evaluated in legal-domain post-training through [[Harvey]] and [[AppliedCompute]], and frames [[GLM52]] as part of a Chinese open-model sequence that can substitute for expensive or restricted frontier services.
+## Qualifications
+Zhipu AI's revenue figures, growth rates, and segment mix are source-scoped to the podcast's cited interim-report discussion. The distillation-related material records allegations and industry debate, not a settled finding. Capability claims should remain benchmark- and source-specific because model performance changes quickly.
 
-[[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]] mentions ZAI as a Chinese model provider U.S. policymakers do not want domestic companies to depend on. The source adds a geopolitical-demand angle to Zhipu AI's existing [[OpenSourceAIModels]] role: cheap or capable Chinese models can become attractive to U.S. firms precisely when policy wants domestic alternatives.
+## What Changed
+- Migrated Zhipu AI to the synthesis-v1 entity schema.
+- Added API-led revenue mix as a central profile attribute.
+- Compressed prior GLM, open-source, enterprise, and distillation-debate material into a current-state synthesis.
 
-[[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] adds Zhipu AI as a market-cycle and coding-stage case. [[QuKai]] says Zhipu and [[MiniMax]] listings were read by some observers as a top signal, but he also treats Zhipu as one of the most interesting model-company examples because it moved from being doubted to a stronger stage position. The source also cites [[TangJie]]'s public-letter argument that after [[DeepSeek]] R1, Zhipu emphasized coding and reasoning.
-
-## Source Position
-- The episode says Zhipu's messaging emphasized that large-model intelligence should belong to all humanity.
-- The hosts think the release timing looked rushed because API and benchmark materials were not fully ready.
-- They still treat GLM 5.2 as meaningfully improved in practical coding and long-context tests.
-- The GLM5 source position is practical rather than benchmark-oriented: it supports [[AIProgrammingEngineShift]] and [[AIEngineeringThinking]] by showing how fast generated implementation changes the bottleneck.
-- Episode 136 places Zhipu AI inside the domestic shift toward coding, agents, and high-value task automation.
-- The LateTalk source connects Zhipu AI to [[EnterpriseOwnedModels]] and enterprise post-training rather than only general open-model substitution.
-- The 42章经 mid-year recap presents Zhipu AI as a model-company rebound case and a source for the chat-to-coding/reasoning transition.
-
-## Connections
-- [[GLM52]] — model release discussed in the episode.
-- [[GLM5]] — model used in the Spring Festival source's coding and prototype experiments.
-- [[OpenSourceAIModels]] and [[DeepSeek]] — broader Chinese/open model context.
-- [[AIExportControls]] and [[SaaSReliabilityUnderPolicyRisk]] — policy environment that makes open models more attractive.
-- [[AICommercializationPressure]] — model-company strategy and release-timing pressure.
-- [[Kimi]], [[MiniMax]], [[Doubao]], [[AGIThreeActs]], and [[ModelAsOperatingSystem]] — domestic model-company convergence frame added by episode 136.
-- [[Harvey]], [[AppliedCompute]], and [[EnterpriseOwnedModels]] — Q2 2026 domain post-training route added by LateTalk.
-- [[AIExportControls]], [[FrontierModelAccessRestrictions]], and [[UnitedStates]] - policy and dependence-risk branch added by Marketplace Tech.
-- [[TangJie]], [[AIApplicationMarketTrough]], [[MiniMax]], [[DeepSeek]], and [[ModelProviderToolCompetition]] — mid-2026 market-cycle and coding-stage frame added by 42章经.
-- [[ModelDistillationEvidence]], [[Anthropic]], [[OpenAI]], and [[ChineseOpenWeightAIStrategy]] - source-scoped non-accusation context added by LateTalk episode 179.
+## Relationships
+- [[GLM52]] - model release discussed in earlier sources.
+- [[GLM5]] - model used in the Spring Festival source's coding and prototype experiments.
+- [[OpenSourceAIModels]] - broader Chinese open-model context.
+- [[DeepSeek]] - benchmark and market comparison peer.
+- [[Qwen]] - benchmark and ecosystem comparison peer.
+- [[AIExportControls]] - policy environment that makes open models more attractive.
+- [[SaaSReliabilityUnderPolicyRisk]] - product-risk frame when frontier-model access is politically unreliable.
+- [[AICommercializationPressure]] - model-company strategy and release-timing pressure.
+- [[Kimi]] - domestic model-company convergence peer.
+- [[MiniMax]] - domestic model-company convergence and market-cycle peer.
+- [[Doubao]] - domestic model-company convergence peer.
+- [[AGIThreeActs]] - high-value-task and agentic competition frame.
+- [[ModelAsOperatingSystem]] - strategic frame for model providers becoming platform layers.
+- [[Harvey]] - enterprise legal-post-training route.
+- [[AppliedCompute]] - enterprise post-training route.
+- [[EnterpriseOwnedModels]] - private and domain-specific deployment context.
+- [[FrontierModelAccessRestrictions]] - access constraint that increases interest in domestic alternatives.
+- [[UnitedStates]] - policy and dependence-risk branch added by Marketplace Tech.
+- [[TangJie]] - source for the coding and reasoning pivot after DeepSeek R1.
+- [[AIApplicationMarketTrough]] - market-cycle context for model-company repositioning.
+- [[ModelProviderToolCompetition]] - model-company competition through tooling and coding workflows.
+- [[ModelDistillationEvidence]] - evidence-quality frame for provenance claims.
+- [[Anthropic]] - accuser context in the distillation debate.
+- [[OpenAI]] - closed-model comparison and policy context.
+- [[ChineseOpenWeightAIStrategy]] - source-scoped non-accusation and open-weight strategy context.
+- [[AIAPIRevenueModel]] - commercial model strengthened by the newest source.
+- [[APIProductDesign]] - product layer that helps turn models into API revenue.

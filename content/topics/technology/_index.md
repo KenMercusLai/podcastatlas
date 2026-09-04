@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2707
+topic_total_pages: 2709
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -133,6 +133,9 @@ topic_concepts:
   - key: "AIAnswerSourceAttribution"
     title: "AI Answer Source Attribution"
     url: "/wiki/concepts/aianswersourceattribution/"
+  - key: "AIAPIRevenueModel"
+    title: "AI API Revenue Model"
+    url: "/wiki/concepts/aiapirevenuemodel/"
   - key: "AIApplicationLayerMoat"
     title: "AI Application Layer Moat"
     url: "/wiki/concepts/aiapplicationlayermoat/"
@@ -8061,6 +8064,9 @@ topic_sources:
   - key: "wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb"
     title: "我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】"
     url: "/wiki/sources/wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb/"
+  - key: "daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825"
+    title: "戴森进入电动牙刷领域，传统金店加盟持续收缩"
+    url: "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
   - key: "ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1"
     title: "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕"
     url: "/wiki/sources/ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8925
+wiki_total_pages: 8930
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "CambridgePlaza"
     title: "Cambridge Plaza"
     url: "/wiki/entities/cambridgeplaza/"
+  - key: "CameraJet"
+    title: "CameraJet"
+    url: "/wiki/entities/camerajet/"
   - key: "Cameroon"
     title: "Cameroon / 喀麦隆"
     url: "/wiki/entities/cameroon/"
