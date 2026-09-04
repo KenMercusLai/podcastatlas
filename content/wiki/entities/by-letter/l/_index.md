@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8890
+wiki_total_pages: 8891
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1232,6 +1232,9 @@ wiki_pages:
   - key: "LiLiHanFuRetainer"
     title: "李历 / Li Li (Han Fu retainer)"
     url: "/wiki/entities/lilihanfuretainer/"
+  - key: "LiShuRitanPark"
+    title: "李叔 / Li Shu (日谈公园)"
+    url: "/wiki/entities/lishuritanpark/"
   - key: "LiShangyin"
     title: "李商隐 / Li Shangyin"
     url: "/wiki/entities/lishangyin/"

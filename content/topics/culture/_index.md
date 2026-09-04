@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2383
+topic_total_pages: 2382
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5960,9 +5960,6 @@ topic_entities:
   - key: "RiguangPaidui"
     title: "日光派对播客联盟"
     url: "/wiki/entities/riguangpaidui/"
-  - key: "Ritan"
-    title: "日谈"
-    url: "/wiki/entities/ritan/"
   - key: "Jiushidai"
     title: "旧世代"
     url: "/wiki/entities/jiushidai/"

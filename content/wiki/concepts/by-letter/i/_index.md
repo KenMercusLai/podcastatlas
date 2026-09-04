@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6325
+wiki_total_pages: 6327
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "InvestmentAdviserFiduciaryDuty"
     title: "Investment Adviser Fiduciary Duty / 投资顾问信义义务"
     url: "/wiki/concepts/investmentadviserfiduciaryduty/"
+  - key: "InvestmentAvoidanceTrauma"
+    title: "Investment Avoidance Trauma / 理财回避创伤"
+    url: "/wiki/concepts/investmentavoidancetrauma/"
   - key: "InvestmentBehaviorCoaching"
     title: "Investment Behavior Coaching / 投资行为陪伴"
     url: "/wiki/concepts/investmentbehaviorcoaching/"

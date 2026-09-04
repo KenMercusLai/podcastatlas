@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园](sources/180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb.md) — 起朱楼宴宾客 crossover with 日谈公园 on a finance-avoidant beginner using 《资产配置行动指南》 to reframe asset allocation through self-knowledge, human capital, emergency cash, housing concentration, diversification, and no-all-in redundancy.
 - [Rick Knudtson (Workshop): The Email Signal He Ignored for 9 Months](sources/rick-knudtson-workshop-the-email-signal-he-ignored-for-9-months.md) — The SaaS Podcast episode on Workshop's pivot from intranet to enterprise internal email, audience-before-product marketing, channel-native internal communications, and audience/channel pricing.
 - [NYC public schools ban AI through middle school](sources/tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128.md) — Marketplace Tech episode on Apple succession, Google antitrust remedies, New York City school AI restrictions, companion-chatbot child safety, and shopping-agent benchmarks.
 - [Bargaining chips: Nvidia is the bank of AI](sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41.md) — The Intelligence episode on Nvidia guarantees and AI infrastructure finance, British knife-crime geography, county lines, violence-reduction policy, and Frank Smith's long incarceration.
@@ -6160,7 +6161,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kyle Chayka](entities/KyleChayka.md) — Writer whose Filterworld supplies episode 159's cultural examples of algorithmic flattening, travel, music, and taste.
 - [Filterworld](entities/Filterworld.md) — Kyle Chayka book used by episode 159 as the everyday-culture companion to Gillespie's algorithm sociology.
 - [Marshall McLuhan / 麦克卢汉](entities/MarshallMcLuhan.md) — Media theorist used by episode 159 to frame algorithms as media that reshape perception and social connection.
-- [《资产配置行动指南》 / Asset Allocation Action Guide](entities/AssetAllocationActionGuide.md) — David Weng book turning the 起朱楼 asset-allocation podcast series into a written worldview, reader-stage, and action-guide object.
+- [《资产配置行动指南》 / Asset Allocation Action Guide](entities/AssetAllocationActionGuide.md) — David Weng book turning the 起朱楼 asset-allocation series into a reader-stage action guide for worldview fit, human capital, household risk, and investment-avoidant beginners.
 - [中信出版社 / CITIC Press](entities/CITICPress.md) — Publisher context for 《资产配置行动指南》, including topic selection, title positioning, editorial revision, review, and copyediting in the source.
 - [John Kenneth Galbraith](entities/JohnKennethGalbraith.md) — Economist-author whose bezzle vocabulary is used by episode 157 to frame bull-market dream-wealth traps.
 - [The Great Crash 1929 / 《1929年大崩盘》](entities/TheGreatCrash1929.md) — Galbraith book referenced by episode 157 for the bezzle idea behind bull-market narrative caution.
@@ -8961,7 +8962,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [角田光代 / Mitsuyo Kakuta](entities/KakutaMitsuyo.md) — Japanese author whose novel 《37》 is used by episode 63 to think through midlife, marriage refusal, career divergence, and adult uncertainty.
 - [《37》](entities/ThirtySeven.md) — Kakuta Mitsuyo novel used by episode 63 as a midlife mirror for unmarried life, career forks, mother-daughter understanding, and unresolved choice.
 - [李乌鸦](entities/LiWuya.md) — Book creator and guest across 蜜獾吃书 meta-reading episodes, linking reading habits, classics, public expression, creator work, bridge-style book talk, and gendered confidence.
-- [日谈](entities/Ritan.md) — Crossover context for the episode bringing Hookie, 殷姐, and 秦总 together for a Women's Day life-design conversation.
+- [日谈 / 日谈公园](entities/Ritan.md) — Crossover show context now connecting literature, life-design, and beginner asset-allocation conversations.
+- [李叔 / Li Shu (日谈公园)](entities/LiShuRitanPark.md) — 日谈公园 speaker who serves as the finance-avoidant beginner case in the 起朱楼 asset-allocation crossover.
 - [Hookie](entities/Hookie.md) — Host in the restart-life episode, linking life-science career redirection, pet grief, school confidence, and learning capacity.
 - [殷姐](entities/YinJie.md) — Host in the restart-life episode, linking Mexico hospitality life, recruiting regret, self-consistency, learning capacity, and non-attachment.
 - [秦总](entities/QinZong.md) — 蜜獾吃书 host linking life restarts, ordinary hardship, machine gambling, autism support, literary reading, publishing, and writer-gossip discussion.
@@ -12854,6 +12856,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SMT Solver](concepts/SMTSolver.md) — Formal-methods solver concept connecting Sheng Ying's Stanford verification work to later AI infrastructure rigor.
 - [New York Salad-Bowl Multiculturalism / 纽约沙拉式多元](concepts/NewYorkSaladBowlMulticulturalism.md) — New York city-diversity frame where groups coexist in one place without fully melting into one identity.
 - [Uncertain-Era Optionality / 乱纪元选择权](concepts/UncertainEraOptionality.md) — David Weng's answer to unpredictable macro conditions: preserve asset, mobility, skill, and life choices rather than relying on forecasts.
+- [Household Financial Redundancy / 家庭财务冗余](concepts/HouseholdFinancialRedundancy.md) — Household buffer strategy using cash, shelter, insurance, small test positions, and diversification to preserve action capacity under uncertain conditions.
 - [Uncaptured Human Experience Data Limit](concepts/UncapturedHumanExperienceDataLimit.md) — AI data boundary where private thought, embodied state, emotion, intuition, or lived experience remains unavailable unless captured as usable signals.
 - [Split Globalization / 分裂的全球化](concepts/SplitGlobalization.md) — Distinction between retreating production globalization and accelerating cultural circulation through social media, algorithms, and AI.
 - [Base Currency Thinking / 本币思维](concepts/BaseCurrencyThinking.md) — Household FX discipline that starts from where future spending and liabilities sit before treating currencies as investments.
@@ -16529,6 +16532,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [A-Share Valuation Indicators](concepts/AShareValuationIndicators.md) — Indicator cluster for judging A-share market heat through valuation, fund returns, deposit ratios, log charts, confidence ranges, and deviation measures.
 - [Multi-Strategy Allocation](concepts/MultiStrategyAllocation.md) — Portfolio frame that mixes value, momentum, stock-bond allocation, and multi-asset rotation to reduce dependence on one market path.
 - [Drawdown Psychology](concepts/DrawdownPsychology.md) — Investor-behavior constraint where drawdown duration, not just depth, drains patience, action capacity, and profit-capture discipline.
+- [Investment Avoidance Trauma / 理财回避创伤](concepts/InvestmentAvoidanceTrauma.md) — Behavioral pattern where regret, shame, missed gains, or frightening market anecdotes make a person avoid investment decisions until asset allocation is reframed as self-knowledge and small practice.
 - [Fresh-Made Ice Cream Retail](concepts/FreshMadeIceCreamRetail.md) — Store-based ice-cream model where final production, tasting, freshness signaling, and immediate consumption become the channel.
 - [Cold-Chain CPG Constraint](concepts/ColdChainCPGConstraint.md) — Frozen-product distribution problem where temperature control, delivery risk, and logistics cost shape pricing and channel strategy.
 - [Franchise-Led Consumer Chain Expansion](concepts/FranchiseLedConsumerChainExpansion.md) — Growth pattern where a tested store model scales through mature franchise operators and local site execution.

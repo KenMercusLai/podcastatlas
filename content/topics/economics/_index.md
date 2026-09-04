@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1917
+topic_total_pages: 1920
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -1405,6 +1405,9 @@ topic_concepts:
   - key: "HouseholdBalanceSheetRepair"
     title: "Household Balance-Sheet Repair"
     url: "/wiki/concepts/householdbalancesheetrepair/"
+  - key: "HouseholdFinancialRedundancy"
+    title: "Household Financial Redundancy / 家庭财务冗余"
+    url: "/wiki/concepts/householdfinancialredundancy/"
   - key: "HouseholdGoldSavings"
     title: "Household Gold Savings"
     url: "/wiki/concepts/householdgoldsavings/"
@@ -1507,6 +1510,9 @@ topic_concepts:
   - key: "InvestmentAdviserFiduciaryDuty"
     title: "Investment Adviser Fiduciary Duty / 投资顾问信义义务"
     url: "/wiki/concepts/investmentadviserfiduciaryduty/"
+  - key: "InvestmentAvoidanceTrauma"
+    title: "Investment Avoidance Trauma / 理财回避创伤"
+    url: "/wiki/concepts/investmentavoidancetrauma/"
   - key: "InvestmentBehaviorCoaching"
     title: "Investment Behavior Coaching / 投资行为陪伴"
     url: "/wiki/concepts/investmentbehaviorcoaching/"
@@ -5142,6 +5148,9 @@ topic_sources:
   - key: "176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah"
     title: "176.纽约一年：一个悲观主义者的活法｜725沙龙实录"
     url: "/wiki/sources/176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah/"
+  - key: "180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb"
+    title: "180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园"
+    url: "/wiki/sources/180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb/"
   - key: "jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1"
     title: "180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速"
     url: "/wiki/sources/jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1/"

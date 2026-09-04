@@ -15148,6 +15148,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-04] ingest | 180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园
+
+Ingested the 2026-09-03 起朱楼宴宾客 crossover with 日谈公园 on a finance-avoidant beginner using 《资产配置行动指南》 to consider asset allocation. Added source `180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb`; created `LiShuRitanPark`, `InvestmentAvoidanceTrauma`, and `HouseholdFinancialRedundancy`; updated `AssetAllocationActionGuide`, `Ritan`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the free-quota formula, real-estate concentration heuristic, emergency-fund amount, Korean leverage example, and Li Shu's personal investing history remain source-scoped.
+
 ## [2026-09-04] ingest | Rick Knudtson (Workshop): The Email Signal He Ignored for 9 Months
 
 Ingested the 2026-09-03 The SaaS Podcast episode with Rick Knudtson on Workshop's pivot from intranet to enterprise internal email. Added source `rick-knudtson-workshop-the-email-signal-he-ignored-for-9-months`; created `RickKnudtson`, `WorkshopInternalComms`, `FlywheelWordPressHosting`, `HappyMondayClub`, `CustomerSignalDrivenPivot`, `EnterpriseInternalEmailInfrastructure`, `ChannelNativeInternalCommunication`, and `AudienceBeforeProductMarketing`; updated `TheSaaSPodcast`, `OmerKhan`, `FounderEgo`, `CommunityLedSaaSGrowth`, `UsageBasedVerticalSaaSPricing`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Rick Knudtson/Knudsen spelling, customer-count, ARR, headcount, and design-partner details remain source-scoped.
@@ -15211,6 +15215,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-04] ingest | NYC public schools ban AI through middle school
 
 Ingested the 2026-09-04 Marketplace Tech weekend review with Joanna Stern on Apple's John Ternus transition, Google antitrust remedy limits, New York City public-school AI restrictions, companion-chatbot safety, and shopping-agent benchmarks. Added source `tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128`; created `NewYorkCityPublicSchools`, `SchoolAIBoundaries`, `ConsumerAIShoppingAgentBenchmark`, and `AICompetitionAntitrustRemedy`; updated `JohnTernus`, `TimCook`, `JoannaStern`, `Siri`, `PlatformAntitrust`, `AIGuidedLearningGuardrails`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; John Ternes/Ternus spelling, Google remedy details, NYC policy implementation, and shopping-agent rankings remain source-scoped.
+
+## [2026-09-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-04] lint | Wiki health check
 

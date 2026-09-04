@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ae557f78a61d58798881300f18c4d8683c84fdbca337483e8ee005e4416f040c",
       "65098e1cbbc6346226cc708e540c9775f8258bbfc62c6bb6c5292f94a819abd6",
       "6b56a605b7dd7a7bbe918d1f773f206df83bc522bd244f034c92ad0684dfc297",
       "74a0bbe76c4818fdf4da25aee7cdbadd4fa618bd8d43052b2e00cfbb289a99af",
@@ -526,11 +527,40 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 524
+    "paragraph_count": 525
   },
-  "overview_commit": "7149c7841ffd179f7102f6228584174af7ca734e",
-  "overview_digest": "90f7c1554f926c86fedf8a5225506c01154f29267d23966d71e672b24b0dcc63",
+  "overview_commit": "bcf03f963783df6a9cf07a9683b8cd3859d8c562",
+  "overview_digest": "e9c990cf346feef610172d030eb330daef1da015acb72aef7e077844ad76b87f",
   "paragraphs": [
+    {
+      "id": "ae557f78a61d58798881300f18c4d8683c84fdbca337483e8ee005e4416f040c",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb|180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园]], a [[QizhulouYanBinke|起朱楼宴宾客]] crossover where [[DavidWeng|大卫翁]] uses [[AssetAllocationActionGuide|《资产配置行动指南》]] to answer [[LiShuRitanPark|李叔]] of [[Ritan|日谈公园 / 日谈]] as a finance-avoidant beginner. It adds [[LiShuRitanPark|李叔]], [[InvestmentAvoidanceTrauma]], and [[HouseholdFinancialRedundancy]], while extending [[AssetAllocationActionGuide|《资产配置行动指南》]], [[AssetAllocation]], [[PortfolioSuitability]], [[InvestmentWorldviewFit]], [[InvestmentImpossibleTriangle]], [[InvestmentLiquidityTradeoff]], [[HousingExperienceInvestmentSplit]], and [[UncertainEraOptionality]]. Its core synthesis is that investing need not be compulsory, but asset allocation is already embedded in work, housing, insurance, retirement, medical risk, cash reserves, and consumption: for fearful beginners the first step is self-knowledge, balance-sheet clarity, human-capital fit, emergency cash, tiny risk probes, and redundant structures that avoid all-in bets. No settled contradiction is recorded; the free-quota formula, 30% real-estate heuristic, emergency-fund amount, Korean leverage example, and Li Shu's personal investing history remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 4,
+        "history-and-geopolitics": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb",
+        "AssetAllocation",
+        "AssetAllocationActionGuide",
+        "DavidWeng",
+        "HouseholdFinancialRedundancy",
+        "HousingExperienceInvestmentSplit",
+        "InvestmentAvoidanceTrauma",
+        "InvestmentImpossibleTriangle",
+        "InvestmentLiquidityTradeoff",
+        "InvestmentWorldviewFit",
+        "LiShuRitanPark",
+        "PortfolioSuitability",
+        "QizhulouYanBinke",
+        "Ritan",
+        "UncertainEraOptionality"
+      ]
+    },
     {
       "id": "65098e1cbbc6346226cc708e540c9775f8258bbfc62c6bb6c5292f94a819abd6",
       "primary_topic": "business-and-markets",

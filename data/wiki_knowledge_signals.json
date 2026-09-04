@@ -4185,6 +4185,36 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aspirationalemotionalpremium/"
     },
+    "AssetAllocationActionGuide": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "166.普通人能从机构投资者身上学到什么？｜串台投资ABC [lpg8ZL95KBVJVXSJr8cpB8Ogkeg6].md",
+          "key": "166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6",
+          "show": "起朱楼宴宾客",
+          "title": "166.普通人能从机构投资者身上学到什么？｜串台投资ABC",
+          "url": "/wiki/sources/166-putongren-neng-cong-jigou-touzizhe-shenshang-xuedao-shenme-chuantai-touzi-abc-lpg8zl95kbvjvxsjr8cpb8ogkeg6/"
+        },
+        {
+          "episode_file": "158. 播客里聊了四年的资产配置，我把它做成了一本《行动指南》 [ljORcjAL-gPuHmWodO1l3EFR7k29].md",
+          "key": "158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29",
+          "show": "起朱楼宴宾客",
+          "title": "158. 播客里聊了四年的资产配置，我把它做成了一本《行动指南》",
+          "url": "/wiki/sources/158-boke-li-liao-le-si-nian-de-zichan-peizhi-wo-ba-ta-zuocheng-le-yiben-xingdong-zhinan-ljorcjal-gpuhmwodo1l3efr7k29/"
+        },
+        {
+          "episode_file": "180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园 [lhRDgHShMoRU81BJMu5iHPYEFZvB].md",
+          "key": "180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb",
+          "show": "起朱楼宴宾客",
+          "title": "180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园",
+          "url": "/wiki/sources/180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/assetallocationactionguide/"
+    },
     "AssistedDrivingTrustFormation": {
       "episode_count": 1,
       "show_count": 1,
@@ -26299,6 +26329,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/houlanlatehan/"
     },
+    "HouseholdFinancialRedundancy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园 [lhRDgHShMoRU81BJMu5iHPYEFZvB].md",
+          "key": "180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb",
+          "show": "起朱楼宴宾客",
+          "title": "180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园",
+          "url": "/wiki/sources/180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/householdfinancialredundancy/"
+    },
     "HouseholdMisconductPoliticalLiability": {
       "episode_count": 2,
       "show_count": 1,
@@ -28549,6 +28595,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/interrogationtortureconstraint/"
+    },
+    "InvestmentAvoidanceTrauma": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园 [lhRDgHShMoRU81BJMu5iHPYEFZvB].md",
+          "key": "180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb",
+          "show": "起朱楼宴宾客",
+          "title": "180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园",
+          "url": "/wiki/sources/180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/investmentavoidancetrauma/"
     },
     "InvestmentPitchPositionSizing": {
       "episode_count": 1,
@@ -32267,6 +32329,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/lishulatehan/"
+    },
+    "LiShuRitanPark": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园 [lhRDgHShMoRU81BJMu5iHPYEFZvB].md",
+          "key": "180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb",
+          "show": "起朱楼宴宾客",
+          "title": "180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园",
+          "url": "/wiki/sources/180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/lishuritanpark/"
     },
     "LiSuNanCommanderyLateHan": {
       "episode_count": 1,
@@ -47705,6 +47783,36 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/riskbearingreliefgovernance/"
+    },
+    "Ritan": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "日谈串台｜红楼梦：还是可以读一读的 [587167638].md",
+          "key": "ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638",
+          "show": "蜜獾吃书",
+          "title": "日谈串台｜红楼梦：还是可以读一读的",
+          "url": "/wiki/sources/ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638/"
+        },
+        {
+          "episode_file": "日谈串台｜ 姐妹聊天会：重启人生也是我最妖娇 [616116425].md",
+          "key": "ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425",
+          "show": "蜜獾吃书",
+          "title": "日谈串台｜姐妹聊天会：重启人生也是我最妖娇",
+          "url": "/wiki/sources/ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425/"
+        },
+        {
+          "episode_file": "180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园 [lhRDgHShMoRU81BJMu5iHPYEFZvB].md",
+          "key": "180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb",
+          "show": "起朱楼宴宾客",
+          "title": "180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园",
+          "url": "/wiki/sources/180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/ritan/"
     },
     "RitualAffectiveOrder": {
       "episode_count": 3,

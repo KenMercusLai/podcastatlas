@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 884
+topic_total_pages: 885
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -736,6 +736,9 @@ topic_concepts:
   - key: "InterpersonalImageProjection"
     title: "Interpersonal Image Projection / 人际意象投射"
     url: "/wiki/concepts/interpersonalimageprojection/"
+  - key: "InvestmentAvoidanceTrauma"
+    title: "Investment Avoidance Trauma / 理财回避创伤"
+    url: "/wiki/concepts/investmentavoidancetrauma/"
   - key: "InvestmentBehaviorCoaching"
     title: "Investment Behavior Coaching / 投资行为陪伴"
     url: "/wiki/concepts/investmentbehaviorcoaching/"

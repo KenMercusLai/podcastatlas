@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 8890
+wiki_total_pages: 8891
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -771,7 +771,7 @@ wiki_pages:
     title: "日新月异 / Rixin Yiy"
     url: "/wiki/entities/rixinyiy/"
   - key: "Ritan"
-    title: "日谈"
+    title: "日谈 / 日谈公园"
     url: "/wiki/entities/ritan/"
   - key: "RunanCommanderyLateHan"
     title: "汝南郡 / Runan Commandery (late Han)"

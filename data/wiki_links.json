@@ -751,6 +751,10 @@
     "title": "180.爱丽丝梦游仙境：世界多荒诞，我也是自己的主宰（下）",
     "url": "/wiki/sources/180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611/"
   },
+  "180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb": {
+    "title": "180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园",
+    "url": "/wiki/sources/180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb/"
+  },
   "181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261": {
     "title": "181.讨好并非你的性格，坚持这么久，辛苦了",
     "url": "/wiki/sources/181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261/"
@@ -24995,6 +24999,10 @@
     "title": "Household Balance-Sheet Repair",
     "url": "/wiki/concepts/householdbalancesheetrepair/"
   },
+  "HouseholdFinancialRedundancy": {
+    "title": "Household Financial Redundancy / 家庭财务冗余",
+    "url": "/wiki/concepts/householdfinancialredundancy/"
+  },
   "HouseholdGoldSavings": {
     "title": "Household Gold Savings",
     "url": "/wiki/concepts/householdgoldsavings/"
@@ -26954,6 +26962,10 @@
   "InvestmentAdviserFiduciaryDuty": {
     "title": "Investment Adviser Fiduciary Duty / 投资顾问信义义务",
     "url": "/wiki/concepts/investmentadviserfiduciaryduty/"
+  },
+  "InvestmentAvoidanceTrauma": {
+    "title": "Investment Avoidance Trauma / 理财回避创伤",
+    "url": "/wiki/concepts/investmentavoidancetrauma/"
   },
   "InvestmentBehaviorCoaching": {
     "title": "Investment Behavior Coaching / 投资行为陪伴",
@@ -31314,6 +31326,10 @@
   "LiShuLateHan": {
     "title": "李术 / Li Shu (late Han)",
     "url": "/wiki/entities/lishulatehan/"
+  },
+  "LiShuRitanPark": {
+    "title": "李叔 / Li Shu (日谈公园)",
+    "url": "/wiki/entities/lishuritanpark/"
   },
   "LiShufu": {
     "title": "Li Shufu / 李书福",
@@ -45392,7 +45408,7 @@
     "url": "/wiki/concepts/riskperception/"
   },
   "Ritan": {
-    "title": "日谈",
+    "title": "日谈 / 日谈公园",
     "url": "/wiki/entities/ritan/"
   },
   "RitualAffectiveOrder": {

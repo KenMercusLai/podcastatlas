@@ -1216,6 +1216,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261": [
     {
       "key": "science",
@@ -29471,6 +29478,13 @@
       "url": "/topics/science/"
     }
   ],
+  "HouseholdFinancialRedundancy": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "HouseholdGoldSavings": [
     {
       "key": "economics",
@@ -31830,6 +31844,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "InvestmentAvoidanceTrauma": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "InvestmentBehaviorCoaching": [
@@ -51253,13 +51279,6 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
-    }
-  ],
-  "Ritan": [
-    {
-      "key": "culture",
-      "label": "Culture",
-      "url": "/topics/culture/"
     }
   ],
   "RitualAffectiveOrder": [
