@@ -1683,6 +1683,10 @@
     "title": "AI Content Devaluation",
     "url": "/wiki/concepts/aicontentdevaluation/"
   },
+  "AIContentLabelingAndFiltering": {
+    "title": "AI Content Labeling and Filtering",
+    "url": "/wiki/concepts/aicontentlabelingandfiltering/"
+  },
   "AIContentLicensing": {
     "title": "AI Content Licensing",
     "url": "/wiki/concepts/aicontentlicensing/"
@@ -2314,6 +2318,10 @@
   "AIQueryPrivacyRisk": {
     "title": "AI Query Privacy Risk",
     "url": "/wiki/concepts/aiqueryprivacyrisk/"
+  },
+  "AIQuotaTrustErosion": {
+    "title": "AI Quota Trust Erosion",
+    "url": "/wiki/concepts/aiquotatrusterosion/"
   },
   "AIRankingReinforcement": {
     "title": "AI Ranking Reinforcement",
@@ -5186,6 +5194,10 @@
   "AppleIntelligence": {
     "title": "Apple Intelligence",
     "url": "/wiki/entities/appleintelligence/"
+  },
+  "AppleMusic": {
+    "title": "Apple Music",
+    "url": "/wiki/entities/applemusic/"
   },
   "ApplePrivacy": {
     "title": "Apple Privacy",
@@ -21027,6 +21039,10 @@
     "title": "GLM 5.2",
     "url": "/wiki/entities/glm52/"
   },
+  "GLM53Flash": {
+    "title": "GLM 5.3 Flash",
+    "url": "/wiki/entities/glm53flash/"
+  },
   "GLP1Agonists": {
     "title": "GLP-1 Agonists",
     "url": "/wiki/concepts/glp1agonists/"
@@ -36447,6 +36463,10 @@
     "title": "Model Harness Co-Evolution",
     "url": "/wiki/concepts/modelharnesscoevolution/"
   },
+  "ModelHubAcquisitionRisk": {
+    "title": "Model Hub Acquisition Risk",
+    "url": "/wiki/concepts/modelhubacquisitionrisk/"
+  },
   "ModelIdentityDataPollution": {
     "title": "Model Identity Data Pollution / 模型身份数据污染",
     "url": "/wiki/concepts/modelidentitydatapollution/"
@@ -39246,6 +39266,10 @@
   "OpenCloud": {
     "title": "Open Cloud",
     "url": "/wiki/entities/opencloud/"
+  },
+  "OpenCrawl": {
+    "title": "OpenCrawl",
+    "url": "/wiki/entities/opencrawl/"
   },
   "OpenEvidence": {
     "title": "OpenEvidence",
@@ -44383,6 +44407,10 @@
     "title": "Real Robot Data Strategy",
     "url": "/wiki/concepts/realrobotdatastrategy/"
   },
+  "RealTimeGeneratedWorlds": {
+    "title": "Real-Time Generated Worlds",
+    "url": "/wiki/concepts/realtimegeneratedworlds/"
+  },
   "RealTimeInteractiveVideoGeneration": {
     "title": "Real-Time Interactive Video Generation",
     "url": "/wiki/concepts/realtimeinteractivevideogeneration/"
@@ -47390,6 +47418,10 @@
   "SelectiveMotionSmoothing": {
     "title": "Selective Motion Smoothing",
     "url": "/wiki/concepts/selectivemotionsmoothing/"
+  },
+  "SelfBuiltAgentWorkflow": {
+    "title": "Self-Built Agent Workflow",
+    "url": "/wiki/concepts/selfbuiltagentworkflow/"
   },
   "SelfConceptPlasticity": {
     "title": "Self-Concept Plasticity",
@@ -65498,6 +65530,10 @@
   "vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1": {
     "title": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等",
     "url": "/wiki/sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1/"
+  },
+  "vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1": {
+    "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
+    "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
   },
   "vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb": {
     "title": "VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？",

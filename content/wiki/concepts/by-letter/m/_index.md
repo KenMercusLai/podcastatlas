@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6344
+wiki_total_pages: 6349
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "ModelHarnessCoEvolution"
     title: "Model Harness Co-Evolution"
     url: "/wiki/concepts/modelharnesscoevolution/"
+  - key: "ModelHubAcquisitionRisk"
+    title: "Model Hub Acquisition Risk"
+    url: "/wiki/concepts/modelhubacquisitionrisk/"
   - key: "ModelIdentityDataPollution"
     title: "Model Identity Data Pollution / 模型身份数据污染"
     url: "/wiki/concepts/modelidentitydatapollution/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等](sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1.md) — 枫言枫语 episode on Apple succession, Claude 5.1 quota trust, GLM 5.3 Flash routing, Codex workflows, AI infrastructure, Hugging Face acquisition risk, AI media labels, World Labs, and robots.
 - [Advice Line with Ben Goodwin of Olipop](sources/advice-line-with-ben-goodwin-of-olipop-f9d3fe17-eb2c-440d-b223-990fed970727.md) — How I Built This Advice Line episode using Olipop, Gheelish, Sarah's Gluten-Free Goods, and Bexley Natural Market to show how taste, trust, capacity, curation, and in-store experience shape food and retail growth.
 - [Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982.md) — Huberman Lab Essentials episode with Gina Poe on sleep stages, early slow-wave restoration, spindles, REM-rich creativity, alcohol-related sleep disruption, and emotional memory processing.
 - [What if the AI boom never turns a profit?](sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128.md) — Marketplace Tech episode using Akron's rubber decline and radial tires as a public-finance analogy for AI labor displacement, labor-tax revenue risk, token taxes, AI equity funds, and corporate-profit tax alternatives.
@@ -1911,6 +1912,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [GLM 5.3 Flash](entities/GLM53Flash.md) — Zhipu AI model used in Vol. 173 as a low-cost routing option for routine translation, extraction, summarization, mind-map, and multimodal tasks.
+- [Apple Music](entities/AppleMusic.md) — Apple music platform used in Vol. 173 as the concrete case for mandatory AI-content labeling and listener filtering questions.
+- [OpenCrawl](entities/OpenCrawl.md) — AI workflow product mentioned in Vol. 173 as a broad 2.0 release that heavy users may compare with self-built agent stacks.
 - [Ben Goodwin](entities/BenGoodwin.md) — Olipop co-founder and Advice Line guest focused on taste-led CPG positioning, mission standards, and founder instinct.
 - [Bexley Natural Market](entities/BexleyNaturalMarket.md) — Central Ohio cooperative grocery store used as a case for community curation and in-store retail recovery.
 - [Darren Alpert](entities/DarrenAlpert.md) — Gheelish founder and CEO whose caller question centers on educating shoppers about ghee.
@@ -3773,7 +3777,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wang Xingxing / 王兴兴](entities/WangXingxing.md) — Unitree founder figure cited in S10E26 on incomplete humanoid robot product-market fit.
 - [Honda / 本田](entities/Honda.md) — Automotive and robotics company used in S10E26 as an early humanoid-form argument for human-built spaces.
 - [DARPA](entities/DARPA.md) — U.S. research agency used in S10E26 as a demand-shaping reference for quadruped robotics.
-- [World Labs](entities/WorldLabs.md) — Fei-Fei Li associated company focused on spatial and physical intelligence, generated worlds, creators, robotics simulation, and real-world transfer questions.
+- [World Labs](entities/WorldLabs.md) — Fei-Fei Li associated company focused on spatial and physical intelligence, generated worlds, creators, robotics simulation, real-time world generation, and real-world transfer questions.
 - [Newton Physics Engine](entities/NewtonPhysicsEngine.md) — Open physics-engine project named in S10E26 as a simulation branch involving Nvidia, Google DeepMind, and Disney.
 - [Alok Jha](entities/AlokJha.md) — The Intelligence science voice mapping AI consciousness through phenomenal/access consciousness, chatbot projection, workspace theory, functionalism, and organoid computing.
 - [Blake Lemoine](entities/BlakeLemoine.md) — Google engineer used by The Intelligence as a modern case of chatbot mind projection rather than proof of machine consciousness.
@@ -9091,7 +9095,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Montana](entities/Montana.md) — State cited for passing a law requiring warrants for government data purchases that would otherwise exploit the data broker loophole.
 - [Claude](entities/Claude.md) — Anthropic model at the center of the Marketplace Tech Bytes dispute over Pentagon classified use, acceptable-use limits, and defense procurement leverage.
 - [OpenAI Frontier](entities/OpenAIFrontier.md) — OpenAI business platform for building and managing AI coworkers, framed through consulting-led enterprise adoption.
-- [Mac Mini](entities/MacMini.md) — Apple desktop Mac used in the episode as a concrete but limited U.S. manufacturing reshoring case.
+- [Mac Mini](entities/MacMini.md) — Apple desktop Mac used as a limited U.S. manufacturing reshoring case and as a source-scoped local AI compute demand signal under component-price pressure.
 - [Pete Hegseth](entities/PeteHegseth.md) — Defense secretary reportedly pressing Anthropic for broader Pentagon access to Claude.
 - [Maria Curi](entities/MariaCurie.md) — Axios analyst explaining Marketplace Tech policy stories on social-media liability, worker AI literacy, prediction markets, defense AI, enterprise AI, and Apple's Houston Mac Mini plan.
 - [Vidiots](entities/Vidiots.md) — Los Angeles nonprofit video store and restored-theater case for renewed physical video rental.
@@ -9487,7 +9491,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Indeed](entities/Indeed.md) — Job-search and hiring platform whose posting data grounds the episode's tech job-posting index and narrow AI labor-demand signal.
 - [Gary Marcus](entities/GaryMarcus.md) — Cognitive scientist and NYU professor emeritus arguing in Marketplace Tech that robust AI needs world models, entity/state tracking, and causation rather than only statistical sequence prediction.
 - [Joanna Stern](entities/JoannaStern.md) — Technology columnist connecting Apple AI leadership pressure, AI hardware form factors, streaming consolidation, and AI-generated advertising backlash in the Marketplace Tech Bytes episode.
-- [John Ternus](entities/JohnTernus.md) — Apple engineering leader named in the Marketplace Tech source as the company's next CEO after Tim Cook.
+- [John Ternus](entities/JohnTernus.md) — Apple engineering leader treated by source evidence as Tim Cook's successor and then source-described CEO, with hardware credibility and continuity pressures.
 - [Jony Ive](entities/JonyIve.md) — Former Apple designer linked to OpenAI device work and Ferrari's LoveFrom-supported EV design challenge.
 - [Warner Bros. Discovery](entities/WarnerBrosDiscovery.md) — Media company whose studio and streaming assets anchor the episode's Netflix-versus-Paramount consolidation discussion.
 - [Paramount](entities/Paramount.md) — David Ellison-led bidder in the Warner Bros. Discovery streaming-consolidation segment.
@@ -10829,6 +10833,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [AI Quota Trust Erosion](concepts/AIQuotaTrustErosion.md) — Product-trust loss when paid AI tools impose unclear or interruptive usage limits that disrupt heavy developer workflows.
+- [Model Hub Acquisition Risk](concepts/ModelHubAcquisitionRisk.md) — Strategic and governance risk created when a dominant AI infrastructure company controls a major model-hosting and distribution hub.
+- [AI Content Labeling and Filtering](concepts/AIContentLabelingAndFiltering.md) — Platform practice of marking AI-generated media and letting users or policies act on that metadata.
+- [Self-Built Agent Workflow](concepts/SelfBuiltAgentWorkflow.md) — User-composed automation stack combining models, coding agents, scripts, messaging surfaces, and routing rules instead of one bundled product.
+- [Real-Time Generated Worlds](concepts/RealTimeGeneratedWorlds.md) — AI-produced spatial environments that can be navigated or interacted with continuously rather than consumed as fixed media.
 - [Community Grocery Curation](concepts/CommunityGroceryCuration.md) — Local grocery strategy based on trusted assortment, vendor stories, events, and in-store experience rather than online ordering alone.
 - [Fresh Allergy-Safe Production Scaling](concepts/FreshAllergySafeProductionScaling.md) — Scaling problem for fresh food businesses whose trust depends on allergy control, perishability, and founder capacity.
 - [Front-Pack Conversion Education](concepts/FrontPackConversionEducation.md) — CPG messaging discipline of putting the fastest purchase reason on the package front while moving deeper education to secondary surfaces.
@@ -16771,7 +16780,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Open Source Community Commercialization](concepts/OpenSourceCommunityCommercialization.md) — Pattern where a community project becomes a company, product line, and institutional business with diverging incentives.
 - [Technical Culture Sales Culture Tension](concepts/TechnicalCultureSalesCultureTension.md) — Organizational tension when engineer/open-source norms meet enterprise customers, formal presentation, delivery pressure, and hierarchy.
 - [Government Enterprise Procurement](concepts/GovernmentEnterpriseProcurement.md) — Institutional buying context where certification, support, deployment reliability, and relationships shape software demand.
-- [Home Service Robots](concepts/HomeServiceRobots.md) — Household robots designed for useful family services such as child care support, light chores, play, and home assistance.
+- [Home Service Robots](concepts/HomeServiceRobots.md) — Household robots judged by reliable chore and family-service value, with unresolved humanoid, wheeled, appliance-like, and security-first form factors.
 - [Household Robot Data Flywheel](concepts/HouseholdRobotDataFlywheel.md) — Real-home deployment loop where household tasks, corner cases, and interaction data improve robot capability and deployment value.
 - [Consumer Robotics Full Stack](concepts/ConsumerRoboticsFullStack.md) — Self-development strategy for making home robots affordable, reliable, and integrated enough for consumer deployment.
 - [MaaS Infrastructure](concepts/MaaSInfrastructure.md) — Model-as-a-service infrastructure layer that converts model capability and compute capacity into reliable tokens through cloud, chips, power, cooling, regions, and utility-regulated grid access.

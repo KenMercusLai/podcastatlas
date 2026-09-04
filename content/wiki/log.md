@@ -15259,3 +15259,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-05] ingest | Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等
+
+Ingested the 2026-09-03 枫言枫语 episode with Justin Yan and 自立 on Apple succession, Claude 5.1 and Anthropic quota trust, GLM 5.3 Flash routing, OpenAI/Codex workflows, AI chips/data centers, Nvidia-Hugging Face acquisition rumor, AI content labels, World Labs, and robotics. Added source `vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1`; created `GLM53Flash`, `AppleMusic`, `OpenCrawl`, `AIQuotaTrustErosion`, `ModelHubAcquisitionRisk`, `AIContentLabelingAndFiltering`, `SelfBuiltAgentWorkflow`, and `RealTimeGeneratedWorlds`; updated `JohnTernus`, `MacMini`, `WorldLabs`, `HomeServiceRobots`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; product releases, dates, prices, model versions, data-center financing, acquisition reports, and robot timelines remain source-scoped.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

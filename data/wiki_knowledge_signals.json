@@ -1035,6 +1035,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/aicompetitionantitrustremedy/"
     },
+    "AIContentLabelingAndFiltering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等 (1) [6689-1].md",
+          "key": "vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1",
+          "show": "枫言枫语",
+          "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
+          "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/aicontentlabelingandfiltering/"
+    },
     "AIContentLicensing": {
       "episode_count": 6,
       "show_count": 4,
@@ -1778,6 +1794,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/aipublicownershipproposal/"
+    },
+    "AIQuotaTrustErosion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等 (1) [6689-1].md",
+          "key": "vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1",
+          "show": "枫言枫语",
+          "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
+          "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/aiquotatrusterosion/"
     },
     "AIRegulatoryCaptureRisk": {
       "episode_count": 4,
@@ -4109,6 +4141,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/aphasiarhythmcueing/"
+    },
+    "AppleMusic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等 (1) [6689-1].md",
+          "key": "vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1",
+          "show": "枫言枫语",
+          "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
+          "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/applemusic/"
     },
     "ApplicationCompanyModelCapability": {
       "episode_count": 1,
@@ -22500,6 +22548,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/glm52/"
     },
+    "GLM53Flash": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等 (1) [6689-1].md",
+          "key": "vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1",
+          "show": "枫言枫语",
+          "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
+          "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/glm53flash/"
+    },
     "GLP1Agonists": {
       "episode_count": 11,
       "show_count": 6,
@@ -26403,6 +26467,50 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/hofburgpalace/"
+    },
+    "HomeServiceRobots": {
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "144. 对阳萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式 [lnjlEQjGjo1TxuPOuvYgmDV7oo8B].md",
+          "key": "144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "144. 对杨萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式",
+          "url": "/wiki/sources/144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b/"
+        },
+        {
+          "episode_file": "具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人⧸CEO [lic8B7dkxTS3Qjrs6Af1RGBF4xRf].md",
+          "key": "jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf",
+          "show": "十字路口Crossing",
+          "title": "具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO",
+          "url": "/wiki/sources/jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf/"
+        },
+        {
+          "episode_file": "143. 对何小鹏的第二次访谈：更大赌注、人形机器人Iron诞生、那场意外、技术剧变下CEO、GX和缝合怪 [ljeKstsAfrj-oVTm2bpL92S4nwoc].md",
+          "key": "143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "143. 对何小鹏的第二次访谈：更大赌注、人形机器人Iron诞生、那场意外、技术剧变下CEO、GX和缝合怪",
+          "url": "/wiki/sources/143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc/"
+        },
+        {
+          "episode_file": "许华哲再次具身创业：不想错过最大的西瓜 (1) [166-1].md",
+          "key": "166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1",
+          "show": "晚点聊 LateTalk",
+          "title": "166: 许华哲再次具身创业：不想错过最大的西瓜",
+          "url": "/wiki/sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1/"
+        },
+        {
+          "episode_file": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等 (1) [6689-1].md",
+          "key": "vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1",
+          "show": "枫言枫语",
+          "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
+          "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/homeservicerobots/"
     },
     "HomericFantasyGeography": {
       "episode_count": 1,
@@ -30836,9 +30944,9 @@
       "url": "/wiki/entities/johnjumper/"
     },
     "JohnTernus": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20260424_0424_MP_TECH_pod_128 [tech_20260424_0424_MP_TECH_pod_128].md",
@@ -30860,9 +30968,16 @@
           "show": "Marketplace Tech",
           "title": "NYC public schools ban AI through middle school",
           "url": "/wiki/sources/tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等 (1) [6689-1].md",
+          "key": "vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1",
+          "show": "枫言枫语",
+          "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
+          "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/johnternus/"
     },
     "JointSymptomEscalation": {
@@ -37979,9 +38094,9 @@
       "url": "/wiki/entities/mayuaneasternhan/"
     },
     "MacMini": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20260227_0227_MP_TECH_pod_128 [tech_20260227_0227_MP_TECH_pod_128].md",
@@ -37996,9 +38111,16 @@
           "show": "声动早咖啡",
           "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",
           "url": "/wiki/sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590/"
+        },
+        {
+          "episode_file": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等 (1) [6689-1].md",
+          "key": "vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1",
+          "show": "枫言枫语",
+          "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
+          "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/macmini/"
     },
     "MacStudio": {
@@ -39984,6 +40106,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/modeldistillation/"
+    },
+    "ModelHubAcquisitionRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等 (1) [6689-1].md",
+          "key": "vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1",
+          "show": "枫言枫语",
+          "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
+          "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/modelhubacquisitionrisk/"
     },
     "ModelInfraCoDesign": {
       "episode_count": 4,
@@ -42275,6 +42413,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/onitsukatiger/"
+    },
+    "OpenCrawl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等 (1) [6689-1].md",
+          "key": "vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1",
+          "show": "枫言枫语",
+          "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
+          "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/opencrawl/"
     },
     "OpenSourceAIBanRisk": {
       "episode_count": 1,
@@ -47245,6 +47399,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/realrobotdatastrategy/"
     },
+    "RealTimeGeneratedWorlds": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等 (1) [6689-1].md",
+          "key": "vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1",
+          "show": "枫言枫语",
+          "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
+          "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/realtimegeneratedworlds/"
+    },
     "RealTimeKinematicsLocationNetwork": {
       "episode_count": 1,
       "show_count": 1,
@@ -50319,6 +50489,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/selectiveanthemcanonization/"
+    },
+    "SelfBuiltAgentWorkflow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等 (1) [6689-1].md",
+          "key": "vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1",
+          "show": "枫言枫语",
+          "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
+          "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/selfbuiltagentworkflow/"
     },
     "SelfConceptPlasticity": {
       "episode_count": 1,
@@ -60288,9 +60474,9 @@
       "url": "/wiki/entities/workshopinternalcomms/"
     },
     "WorldLabs": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
@@ -60305,9 +60491,16 @@
           "show": "Huberman Lab",
           "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
           "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        },
+        {
+          "episode_file": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等 (1) [6689-1].md",
+          "key": "vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1",
+          "show": "枫言枫语",
+          "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
+          "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/worldlabs/"
     },
     "WuCommanderyLateHan": {

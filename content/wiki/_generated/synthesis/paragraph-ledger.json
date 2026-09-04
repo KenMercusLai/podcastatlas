@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "35a932c6a3e74d7ecd6993183b89341d6e0305e56a43657b29dd9ed38aadfef5",
       "bbd5e6d47ffaf9e15def4ddeaa6f6359f6c57d41376e95f87ccd6de1dbc7f8cc",
       "ae557f78a61d58798881300f18c4d8683c84fdbca337483e8ee005e4416f040c",
       "65098e1cbbc6346226cc708e540c9775f8258bbfc62c6bb6c5292f94a819abd6",
@@ -528,11 +529,38 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 526
+    "paragraph_count": 527
   },
-  "overview_commit": "62b6ff64aa4368147e89e937c921fe97ef82f9d6",
-  "overview_digest": "4f686348cb87896e65d7db6927bd2916b7b4851cb62c67d744bed95de1f3584d",
+  "overview_commit": "fb4a91fba0b112f1f9c8090823ac5b19e3f84f25",
+  "overview_digest": "54be67800867c58e38d3100ecd74bfb75fb8cc1fb6b21c17b91c08eebee97086",
   "paragraphs": [
+    {
+      "id": "35a932c6a3e74d7ecd6993183b89341d6e0305e56a43657b29dd9ed38aadfef5",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "culture-and-media"
+      ],
+      "text": "[[vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1|Vol. 173]] of [[FengyanFengyu]] tightens the wiki's AI operations thread: [[AIQuotaTrustErosion]], [[ModelRoutingCostControl]], [[GLM53Flash|GLM 5.3 Flash]], [[SelfBuiltAgentWorkflow]], and [[ModelHubAcquisitionRisk]] show users and providers shifting from pure model capability contests to quota clarity, cheap-task routing, custom harnesses, and infrastructure control. The same source connects [[AppleMusic|Apple Music]] labeling, [[RealTimeGeneratedWorlds]], [[WorldLabs]], and [[HomeServiceRobots]] to a broader consumer frontier where AI output must become filterable, interactive, spatially coherent, and useful in physical chores rather than merely novel.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 1,
+        "culture-and-media": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AIQuotaTrustErosion",
+        "AppleMusic",
+        "FengyanFengyu",
+        "GLM53Flash",
+        "HomeServiceRobots",
+        "ModelHubAcquisitionRisk",
+        "ModelRoutingCostControl",
+        "RealTimeGeneratedWorlds",
+        "SelfBuiltAgentWorkflow",
+        "WorldLabs",
+        "vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1"
+      ]
+    },
     {
       "id": "bbd5e6d47ffaf9e15def4ddeaa6f6359f6c57d41376e95f87ccd6de1dbc7f8cc",
       "primary_topic": "business-and-markets",

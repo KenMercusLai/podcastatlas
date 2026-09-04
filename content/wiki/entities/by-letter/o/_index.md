@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 8914
+wiki_total_pages: 8917
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "OpenClaude"
     title: "OpenClaude"
     url: "/wiki/entities/openclaude/"
+  - key: "OpenCrawl"
+    title: "OpenCrawl"
+    url: "/wiki/entities/opencrawl/"
   - key: "OpenEvidence"
     title: "OpenEvidence"
     url: "/wiki/entities/openevidence/"

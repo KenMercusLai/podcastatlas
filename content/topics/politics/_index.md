@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2178
+topic_total_pages: 2179
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -91,6 +91,9 @@ topic_concepts:
   - key: "AICompetitionAntitrustRemedy"
     title: "AI Competition Antitrust Remedy"
     url: "/wiki/concepts/aicompetitionantitrustremedy/"
+  - key: "AIContentLabelingAndFiltering"
+    title: "AI Content Labeling and Filtering"
+    url: "/wiki/concepts/aicontentlabelingandfiltering/"
   - key: "AICyberDefenseUtility"
     title: "AI Cyber-Defense Utility"
     url: "/wiki/concepts/aicyberdefenseutility/"

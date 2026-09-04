@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6344
+wiki_total_pages: 6349
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "RealWorldAssetTokenizationRisk"
     title: "Real World Asset Tokenization Risk"
     url: "/wiki/concepts/realworldassettokenizationrisk/"
+  - key: "RealTimeGeneratedWorlds"
+    title: "Real-Time Generated Worlds"
+    url: "/wiki/concepts/realtimegeneratedworlds/"
   - key: "RealTimeInteractiveVideoGeneration"
     title: "Real-Time Interactive Video Generation"
     url: "/wiki/concepts/realtimeinteractivevideogeneration/"

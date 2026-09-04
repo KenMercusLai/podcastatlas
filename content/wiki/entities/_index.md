@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8914
+wiki_total_pages: 8917
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "AppleIntelligence"
     title: "Apple Intelligence"
     url: "/wiki/entities/appleintelligence/"
+  - key: "AppleMusic"
+    title: "Apple Music"
+    url: "/wiki/entities/applemusic/"
   - key: "AppleSearchAds"
     title: "Apple Search Ads"
     url: "/wiki/entities/applesearchads/"

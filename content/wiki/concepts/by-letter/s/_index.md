@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6344
+wiki_total_pages: 6349
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "SelfDiscoveryAgainstMassConformity"
     title: "Self Discovery Against Mass Conformity / 抵抗从众的自我追寻"
     url: "/wiki/concepts/selfdiscoveryagainstmassconformity/"
+  - key: "SelfBuiltAgentWorkflow"
+    title: "Self-Built Agent Workflow"
+    url: "/wiki/concepts/selfbuiltagentworkflow/"
   - key: "SelfConceptPlasticity"
     title: "Self-Concept Plasticity"
     url: "/wiki/concepts/selfconceptplasticity/"

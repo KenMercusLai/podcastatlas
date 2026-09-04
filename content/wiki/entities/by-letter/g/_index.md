@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8914
+wiki_total_pages: 8917
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "GLM52"
     title: "GLM 5.2"
     url: "/wiki/entities/glm52/"
+  - key: "GLM53Flash"
+    title: "GLM 5.3 Flash"
+    url: "/wiki/entities/glm53flash/"
   - key: "GLM5"
     title: "GLM5"
     url: "/wiki/entities/glm5/"

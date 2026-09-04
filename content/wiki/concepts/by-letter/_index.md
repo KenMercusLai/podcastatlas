@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6344
+wiki_total_pages: 6349
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "AIContentDevaluation"
     title: "AI Content Devaluation"
     url: "/wiki/concepts/aicontentdevaluation/"
+  - key: "AIContentLabelingAndFiltering"
+    title: "AI Content Labeling and Filtering"
+    url: "/wiki/concepts/aicontentlabelingandfiltering/"
   - key: "AIContentLicensing"
     title: "AI Content Licensing"
     url: "/wiki/concepts/aicontentlicensing/"
@@ -1031,6 +1034,9 @@ wiki_pages:
   - key: "AIQueryPrivacyRisk"
     title: "AI Query Privacy Risk"
     url: "/wiki/concepts/aiqueryprivacyrisk/"
+  - key: "AIQuotaTrustErosion"
+    title: "AI Quota Trust Erosion"
+    url: "/wiki/concepts/aiquotatrusterosion/"
   - key: "AIRankingReinforcement"
     title: "AI Ranking Reinforcement"
     url: "/wiki/concepts/airankingreinforcement/"
