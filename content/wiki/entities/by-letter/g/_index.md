@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8905
+wiki_total_pages: 8906
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "Gilgamesh"
     title: "Gilgamesh / 吉尔伽美什"
     url: "/wiki/entities/gilgamesh/"
+  - key: "GinaPoe"
+    title: "Gina Poe"
+    url: "/wiki/entities/ginapoe/"
   - key: "GinnySpicer"
     title: "Ginny Spicer"
     url: "/wiki/entities/ginnyspicer/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982.md) — Huberman Lab Essentials episode with Gina Poe on sleep stages, early slow-wave restoration, spindles, REM-rich creativity, alcohol-related sleep disruption, and emotional memory processing.
 - [What if the AI boom never turns a profit?](sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128.md) — Marketplace Tech episode using Akron's rubber decline and radial tires as a public-finance analogy for AI labor displacement, labor-tax revenue risk, token taxes, AI equity funds, and corporate-profit tax alternatives.
 - [Ire and ICE: the toll of America's deportations](sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9.md) — The Intelligence episode on Trump's quieter but systematic deportation campaign, Reddit's AI-search and data-licensing exposure, and the Bayeux Tapestry's first exhibition outside France.
 - [180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园](sources/180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb.md) — 起朱楼宴宾客 crossover with 日谈公园 on a finance-avoidant beginner using 《资产配置行动指南》 to reframe asset allocation through self-knowledge, human capital, emergency cash, housing concentration, diversification, and no-all-in redundancy.
@@ -1909,6 +1910,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Gina Poe](entities/GinaPoe.md) — Sleep neuroscientist and Huberman Lab guest explaining non-REM/REM sleep, memory transfer, slow-wave restoration, and REM emotional memory processing.
 - [Akron, Ohio](entities/AkronOhio.md) — Former rubber-industry center used by Marketplace Tech as a historical warning for AI-era labor and tax disruption.
 - [Barberton, Ohio](entities/BarbertonOhio.md) — Akron-area city whose 1980 factory closure gives the episode its concrete local income-tax loss example.
 - [David Giffels](entities/DavidGiffels.md) — Akron writer whose progress-versus-human-progress frame connects radial tires to AI disruption.
@@ -10818,6 +10820,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Sleep Stage Functional Architecture](concepts/SleepStageFunctionalArchitecture.md) — Sleep-stage frame distinguishing stage one/two, slow-wave non-REM, and REM as timed brain states with different memory, restoration, creativity, and emotion functions.
+- [Slow-Wave Sleep Restoration](concepts/SlowWaveSleepRestoration.md) — Early-night deep-sleep frame tying slow waves to growth hormone pulses, energy rebuilding, and brain cleanup under circadian regularity constraints.
+- [Sleep Spindle Schema Formation](concepts/SleepSpindleSchemaFormation.md) — Stage-two/REM rhythm frame linking spindles and P-waves to hippocampal-cortical transfer, schema integration, insight, and creative association.
+- [REM Emotional Memory Separation](concepts/REMEmotionalMemorySeparation.md) — REM-sleep frame where low norepinephrine may help memories retain facts while losing overwhelming autonomic charge, with PTSD and clinical-care limits.
 - [Labor Tax Base AI Erosion](concepts/LaborTaxBaseAIErosion.md) — Public-finance risk that AI substitution reduces taxable labor income before replacement tax bases are ready.
 - [Technological Innovation Local Fiscal Shock](concepts/TechnologicalInnovationLocalFiscalShock.md) — Pattern where a consumer-benefiting technology removes a local industrial job base and municipal tax revenue.
 - [AI Profit Tax Substitution](concepts/AIProfitTaxSubstitution.md) — Policy response that replaces lost labor-tax revenue by taxing corporate profits created or enlarged by AI automation.
@@ -11220,10 +11226,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychedelic Ordinary Freedom](concepts/PsychedelicOrdinaryFreedom.md) — Psychedelic-integration frame where peak states can reveal possibilities but the lasting target is ordinary waking freedom.
 - [Sustainable Health Optimization](concepts/SustainableHealthOptimization.md) — Health-routine frame where sleep, light, exercise, nutrition hierarchy, measurement, and clinical boundaries support real life without protocol perfectionism.
 - [Morning Light Circadian Anchoring](concepts/MorningLightCircadianAnchoring.md) — Practice of using outdoor morning light, and sometimes late-day light, to set circadian timing, daytime alertness, mood, and later sleep.
-- [Sleep-Wake Timing Toolkit](concepts/SleepWakeTimingToolkit.md) — Huberman sleep-toolkit frame coordinating light, temperature, caffeine, food, substances, supplements, consistency, and clock-shifting cues across the day.
+- [Sleep-Wake Timing Toolkit](concepts/SleepWakeTimingToolkit.md) — Huberman sleep-toolkit frame coordinating light, temperature, caffeine, food, substances, supplements, consistency, clock-shifting cues, and stage-specific sleep timing across the day.
 - [Sleep Temperature Toolkit](concepts/SleepTemperatureToolkit.md) — Sleep-temperature frame distinguishing morning arousal tools from evening heat-driven cooling and cool-room sleep support.
 - [Caffeine-Adenosine Sleep Timing](concepts/CaffeineAdenosineSleepTiming.md) — Caffeine timing frame that links adenosine, delayed morning intake, late-day cutoff, tolerance, and sleep pressure.
-- [Substance Sleep Architecture Boundary](concepts/SubstanceSleepArchitectureBoundary.md) — Boundary separating alcohol or THC sedation from sleep architecture and restorative sleep quality.
+- [Substance Sleep Architecture Boundary](concepts/SubstanceSleepArchitectureBoundary.md) — Boundary separating alcohol or THC sedation from sleep architecture, including alcohol's REM suppression and THC's sedation-versus-restoration tradeoff.
 - [Sleep Supplement Boundary](concepts/SleepSupplementBoundary.md) — Sleep-aid boundary placing supplements and melatonin behind behavior, nutrition, side-effect awareness, and clinical context.
 - [Temperature Minimum Clock Shifting](concepts/TemperatureMinimumClockShifting.md) — Circadian phase-shifting rule using cues before or after estimated temperature minimum for jet lag, shift work, and early wake-ups.
 - [Self-Testing Memory Practice](concepts/SelfTestingMemoryPractice.md) — Learning method where effortful recall, active noticing, mistakes, correction, and later rest or sleep strengthen memory access.
@@ -14239,7 +14245,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bereavement Grief Work / 丧亲悲伤工作](concepts/BereavementGriefWork.md) — Process of carrying a loved one's death through truth, language, ritual, support, and professional care rather than denial or forced recovery.
 - [Child Death Education / 儿童死亡教育](concepts/ChildDeathEducation.md) — Episode 13 stance that children should receive clear, age-appropriate truth about death and be supported through mourning rituals.
 - [Grief Companion Support / 丧亲陪伴支持](concepts/GriefCompanionSupport.md) — Practical support stance centered on steady presence, listening, ordinary continuity, and handoff to professional help when grief becomes dangerous.
-- [Trauma Narrative Integration / 创伤叙事整合](concepts/TraumaNarrativeIntegration.md) — Clinical grief process of slowly joining facts, feelings, bodily alarm, and memory fragments into a tolerable story.
+- [Trauma Narrative Integration / 创伤叙事整合](concepts/TraumaNarrativeIntegration.md) — Clinical grief process of joining facts, feelings, bodily alarm, memory fragments, and bounded REM emotional-memory mechanisms into tolerable knowing.
 - [Slowness As Modernity Critique / 作为现代性批判的慢](concepts/SlownessAsModernityCritique.md) — Kundera reading frame where slowness restores body, fatigue, memory, touch, and experience against machine speed and image.
 - [Public Moral Performance / 公共道德表演](concepts/PublicMoralPerformance.md) — Pattern where public goodness becomes a media stage mixing compassion, reputation, rivalry, attention, and concrete ignorance.
 - [Kitsch As Waste Denial / 媚俗作为排泄否认](concepts/KitschAsWasteDenial.md) — Kundera aesthetic frame where kitsch denies dirt, excrement, shame, and bodily awkwardness in favor of clean sentiment.
@@ -14499,7 +14505,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Midlife Three Accounts](concepts/MidlifeThreeAccounts.md) — 面基 framework treating cash flow, muscle, and sleep as slow-feedback accounts for midlife autonomy, capacity, and recovery.
 - [Personal Cash-Flow Account](concepts/PersonalCashFlowAccount.md) — Household-finance account for inflows, recurring outflows, fixed monthly obligations, asset conversion, and retirement choice.
 - [Muscle As Longevity Infrastructure](concepts/MuscleAsLongevityInfrastructure.md) — Reframing of skeletal muscle as reserve capacity for posture, metabolism, illness recovery, fall prevention, body recomposition, and older-age independence.
-- [Sleep As Daily Health Account](concepts/SleepAsDailyHealthAccount.md) — Sleep-account frame where duration, regularity, quality, and controllable light, temperature, caffeine, substance, supplement, and schedule inputs shape next-day cognition, mood, and repair.
+- [Sleep As Daily Health Account](concepts/SleepAsDailyHealthAccount.md) — Sleep-account frame where duration, regularity, staged architecture, and controllable light, temperature, caffeine, substance, supplement, and schedule inputs shape next-day cognition, mood, and repair.
 - [Environment Over Willpower](concepts/EnvironmentOverWillpower.md) — Behavior-design principle that makes health and finance routines easier by arranging defaults, locations, schedules, and frictions.
 - [Carbon Removal](concepts/CarbonRemoval.md) — Climate-mitigation category for removing already-emitted CO2, with direct air capture as the episode's concrete case.
 - [Direct Air Capture](concepts/DirectAirCapture.md) — Carbon-removal technology that pulls CO2 from ambient air rather than from exhaust or smokestacks.
@@ -14584,7 +14590,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Microhistory From Hostile Archives](concepts/MicrohistoryFromHostileArchives.md) — Method for reconstructing marginal lives from records that preserve them mainly as legal or administrative problems.
 - [Fiction As Historical Evidence](concepts/FictionAsHistoricalEvidence.md) — Guarded method for using fiction as evidence of social imagination, reception, fear, and norms rather than direct event proof.
 - [Forgetting As Cognitive Function / 遗忘作为认知功能](concepts/ForgettingAsCognitiveFunction.md) — Episode 143 frame for forgetting as selection, energy conservation, compression, and active memory cleanup rather than only failure.
-- [Memory Consolidation Windows / 记忆巩固窗口](concepts/MemoryConsolidationWindows.md) — Study and memory timing frame where review in the first tens of minutes and first 24 hours helps selected material survive normal forgetting.
+- [Memory Consolidation Windows / 记忆巩固窗口](concepts/MemoryConsolidationWindows.md) — Study and memory timing frame where review, retrieval, sleep-stage timing, spindles, and REM-rich cycles help selected material survive forgetting and become integrated.
 - [Painful Memory Rehearsal Risk / 痛苦记忆反复咀嚼风险](concepts/PainfulMemoryRehearsalRisk.md) — Source-scoped caution that repeatedly replaying painful events can strengthen them, while gentle new experience can interrupt the loop.
 - [Focused-Diffuse Thinking Balance / 专注与发散思维均衡](concepts/FocusedDiffuseThinkingBalance.md) — Brain-use pacing frame where concentrated work and relaxed associative states both matter for learning, memory sorting, and attention health.
 - [Celtic Mythology](concepts/CelticMythology.md) — Multi-region mythology field added by episode 142 and extended by episode 31 through Children of the Forest, weirwoods, old gods, and druidic fantasy associations.

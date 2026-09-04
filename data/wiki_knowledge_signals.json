@@ -23587,6 +23587,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/giftrefusalasauthority/"
     },
+    "GinaPoe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7156610982 [SCIM7156610982].md",
+          "key": "essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982",
+          "show": "Huberman Lab",
+          "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+          "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/ginapoe/"
+    },
     "GlobalProductLocalization": {
       "episode_count": 15,
       "show_count": 9,
@@ -38604,9 +38620,9 @@
       "url": "/wiki/entities/meghirschberg/"
     },
     "MemoryConsolidationWindows": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -38628,9 +38644,16 @@
           "show": "Huberman Lab",
           "title": "Your Top Health Questions Answered",
           "url": "/wiki/sources/your-top-health-questions-answered-scim2882548864/"
+        },
+        {
+          "episode_file": "SCIM7156610982 [SCIM7156610982].md",
+          "key": "essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982",
+          "show": "Huberman Lab",
+          "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+          "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/memoryconsolidationwindows/"
     },
     "MemoryContaminationRisk": {
@@ -46758,6 +46781,22 @@
       "updated": "2026-09-03",
       "url": "/wiki/entities/qwenoffice/"
     },
+    "REMEmotionalMemorySeparation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7156610982 [SCIM7156610982].md",
+          "key": "essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982",
+          "show": "Huberman Lab",
+          "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+          "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/rememotionalmemoryseparation/"
+    },
     "RP1Robot": {
       "episode_count": 1,
       "show_count": 1,
@@ -51383,9 +51422,9 @@
       "url": "/wiki/concepts/slaverynationalidentitycontradiction/"
     },
     "SleepAsDailyHealthAccount": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 6,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -51435,9 +51474,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
           "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
+        },
+        {
+          "episode_file": "SCIM7156610982 [SCIM7156610982].md",
+          "key": "essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982",
+          "show": "Huberman Lab",
+          "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+          "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/sleepasdailyhealthaccount/"
     },
     "SleepImmuneRepair": {
@@ -51455,6 +51501,38 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/sleepimmunerepair/"
+    },
+    "SleepSpindleSchemaFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7156610982 [SCIM7156610982].md",
+          "key": "essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982",
+          "show": "Huberman Lab",
+          "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+          "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/sleepspindleschemaformation/"
+    },
+    "SleepStageFunctionalArchitecture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7156610982 [SCIM7156610982].md",
+          "key": "essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982",
+          "show": "Huberman Lab",
+          "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+          "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/sleepstagefunctionalarchitecture/"
     },
     "SleepSupplementBoundary": {
       "episode_count": 1,
@@ -51489,9 +51567,9 @@
       "url": "/wiki/concepts/sleeptemperaturetoolkit/"
     },
     "SleepWakeTimingToolkit": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -51499,9 +51577,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
           "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
+        },
+        {
+          "episode_file": "SCIM7156610982 [SCIM7156610982].md",
+          "key": "essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982",
+          "show": "Huberman Lab",
+          "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+          "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/sleepwaketimingtoolkit/"
     },
     "SlightlyHarderChoice": {
@@ -51519,6 +51604,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/slightlyharderchoice/"
+    },
+    "SlowWaveSleepRestoration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7156610982 [SCIM7156610982].md",
+          "key": "essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982",
+          "show": "Huberman Lab",
+          "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+          "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/slowwavesleeprestoration/"
     },
     "SmallRetailerChannelTest": {
       "episode_count": 1,
@@ -53212,9 +53313,9 @@
       "url": "/wiki/concepts/subconsciouscreativeincubation/"
     },
     "SubstanceSleepArchitectureBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -53222,9 +53323,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
           "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
+        },
+        {
+          "episode_file": "SCIM7156610982 [SCIM7156610982].md",
+          "key": "essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982",
+          "show": "Huberman Lab",
+          "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+          "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/substancesleeparchitectureboundary/"
     },
     "SuccessfulAging": {
@@ -56579,9 +56687,9 @@
       "url": "/wiki/concepts/trashcancorpusscientificai/"
     },
     "TraumaNarrativeIntegration": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "166.悠游长风：温柔的幻想之歌，抚平焦虑的沟壑 [948043059].md",
@@ -56610,9 +56718,16 @@
           "show": "Talk三联",
           "title": "EP281 对话吴镇宇：困在创伤里的我们，决定重新找回自己",
           "url": "/wiki/sources/ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r/"
+        },
+        {
+          "episode_file": "SCIM7156610982 [SCIM7156610982].md",
+          "key": "essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982",
+          "show": "Huberman Lab",
+          "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+          "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/traumanarrativeintegration/"
     },
     "TravisKalanick": {

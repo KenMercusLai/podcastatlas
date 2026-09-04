@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6337
+wiki_total_pages: 6341
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "ReligiousControlledSubstanceExemption"
     title: "Religious Controlled-Substance Exemption"
     url: "/wiki/concepts/religiouscontrolledsubstanceexemption/"
+  - key: "REMEmotionalMemorySeparation"
+    title: "REM Emotional Memory Separation"
+    url: "/wiki/concepts/rememotionalmemoryseparation/"
   - key: "RemedialEducationTargeting"
     title: "Remedial Education Targeting"
     url: "/wiki/concepts/remedialeducationtargeting/"

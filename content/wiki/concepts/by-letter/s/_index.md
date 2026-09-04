@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6337
+wiki_total_pages: 6341
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -677,6 +677,12 @@ wiki_pages:
   - key: "SleepImmuneRepair"
     title: "Sleep Immune Repair"
     url: "/wiki/concepts/sleepimmunerepair/"
+  - key: "SleepSpindleSchemaFormation"
+    title: "Sleep Spindle Schema Formation"
+    url: "/wiki/concepts/sleepspindleschemaformation/"
+  - key: "SleepStageFunctionalArchitecture"
+    title: "Sleep Stage Functional Architecture"
+    url: "/wiki/concepts/sleepstagefunctionalarchitecture/"
   - key: "SleepSupplementBoundary"
     title: "Sleep Supplement Boundary"
     url: "/wiki/concepts/sleepsupplementboundary/"
@@ -701,6 +707,9 @@ wiki_pages:
   - key: "SlowRuralTourism"
     title: "Slow Rural Tourism / 慢速乡村旅游"
     url: "/wiki/concepts/slowruraltourism/"
+  - key: "SlowWaveSleepRestoration"
+    title: "Slow-Wave Sleep Restoration"
+    url: "/wiki/concepts/slowwavesleeprestoration/"
   - key: "SlownessAsModernityCritique"
     title: "Slowness As Modernity Critique / 作为现代性批判的慢"
     url: "/wiki/concepts/slownessasmodernitycritique/"
