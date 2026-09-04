@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6333
+wiki_total_pages: 6337
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1001,6 +1001,12 @@ wiki_pages:
   - key: "AIProfessionalDataSecurity"
     title: "AI Professional Data Security"
     url: "/wiki/concepts/aiprofessionaldatasecurity/"
+  - key: "AIProfitTaxSubstitution"
+    title: "AI Profit Tax Substitution"
+    url: "/wiki/concepts/aiprofittaxsubstitution/"
+  - key: "AIProfitabilityUncertainty"
+    title: "AI Profitability Uncertainty"
+    url: "/wiki/concepts/aiprofitabilityuncertainty/"
   - key: "AIProgrammingEngineShift"
     title: "AI Programming Engine Shift"
     url: "/wiki/concepts/aiprogrammingengineshift/"

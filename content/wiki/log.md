@@ -15235,3 +15235,11 @@ Ingested the 2026-09-03 The Intelligence episode on Donald Trump's quieter but s
 ## [2026-09-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-05] ingest | What if the AI boom never turns a profit?
+
+Ingested the 2026-09-03 Marketplace Tech episode using Akron's rubber-industry decline and Barberton's 1980 factory closure as a historical analogy for AI labor-tax-base erosion. Added source `tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128`; created `AkronOhio`, `BarbertonOhio`, `DavidGiffels`, `LeeLockwood`, `BruceSchneier`, `JosephStiglitz`, `LaborTaxBaseAIErosion`, `TechnologicalInnovationLocalFiscalShock`, `AIProfitTaxSubstitution`, and `AIProfitabilityUncertainty`; updated `DavidBrancaccio`, `TokenTaxOnAI`, `AIPublicOwnershipProposal`, `AIAutomationRedistribution`, `index`, and `overview`. No settled contradiction found; the token-tax term now carries both direct-usage-tax and policy-cost-wedge meanings, while AI revenue-loss, profitability, and corporate-profit offset claims remain source-scoped.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

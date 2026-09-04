@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8899
+wiki_total_pages: 8905
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "BarbaraFerrer"
     title: "Barbara Ferrer"
     url: "/wiki/entities/barbaraferrer/"
+  - key: "BarbertonOhio"
+    title: "Barberton, Ohio"
+    url: "/wiki/entities/barbertonohio/"
   - key: "Barbuda"
     title: "Barbuda"
     url: "/wiki/entities/barbuda/"
@@ -752,6 +755,9 @@ wiki_pages:
   - key: "Brooks"
     title: "Brooks"
     url: "/wiki/entities/brooks/"
+  - key: "BruceSchneier"
+    title: "Bruce Schneier"
+    url: "/wiki/entities/bruceschneier/"
   - key: "BruceTaylor"
     title: "Bruce Taylor"
     url: "/wiki/entities/brucetaylor/"

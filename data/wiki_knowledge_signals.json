@@ -576,9 +576,9 @@
       "url": "/wiki/concepts/aiassistedwritingdisclosure/"
     },
     "AIAutomationRedistribution": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20260803_0803_MP_TECH_pod_128 [tech_20260803_0803_MP_TECH_pod_128].md",
@@ -600,9 +600,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        },
+        {
+          "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
+          "key": "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What if the AI boom never turns a profit?",
+          "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/aiautomationredistribution/"
     },
     "AIChipSpecialization": {
@@ -1694,6 +1701,38 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/aiprofessionaldatasecurity/"
     },
+    "AIProfitTaxSubstitution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
+          "key": "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What if the AI boom never turns a profit?",
+          "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/aiprofittaxsubstitution/"
+    },
+    "AIProfitabilityUncertainty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
+          "key": "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What if the AI boom never turns a profit?",
+          "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/aiprofitabilityuncertainty/"
+    },
     "AIProteinDesign": {
       "episode_count": 2,
       "show_count": 2,
@@ -1718,9 +1757,9 @@
       "url": "/wiki/concepts/aiproteindesign/"
     },
     "AIPublicOwnershipProposal": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections [41630275].md",
@@ -1728,9 +1767,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        },
+        {
+          "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
+          "key": "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What if the AI boom never turns a profit?",
+          "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/aipublicownershipproposal/"
     },
     "AIRegulatoryCaptureRisk": {
@@ -2814,6 +2860,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/airlineservicedifferentiation/"
+    },
+    "AkronOhio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
+          "key": "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What if the AI boom never turns a profit?",
+          "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/akronohio/"
     },
     "AlanCastel": {
       "episode_count": 1,
@@ -5578,6 +5640,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/baoyueasternhan/"
     },
+    "BarbertonOhio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
+          "key": "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What if the AI boom never turns a profit?",
+          "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/barbertonohio/"
+    },
     "BasicResearchBreakthroughLatency": {
       "episode_count": 1,
       "show_count": 1,
@@ -6859,6 +6937,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/britishmuseum/"
+    },
+    "BruceSchneier": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
+          "key": "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What if the AI boom never turns a profit?",
+          "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/bruceschneier/"
     },
     "BuYangLateHan": {
       "episode_count": 1,
@@ -12710,6 +12804,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/davidanderson/"
     },
+    "DavidBrancaccio": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260112_0112_MP_TECH_pod_128 [tech_20260112_0112_MP_TECH_pod_128].md",
+          "key": "tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Building a home with future fires in mind",
+          "url": "/wiki/sources/tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
+          "key": "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What if the AI boom never turns a profit?",
+          "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/davidbrancaccio/"
+    },
     "DavidBreshears": {
       "episode_count": 1,
       "show_count": 1,
@@ -12725,6 +12842,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/davidbreshears/"
+    },
+    "DavidGiffels": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
+          "key": "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What if the AI boom never turns a profit?",
+          "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/davidgiffels/"
     },
     "DavidHume": {
       "episode_count": 1,
@@ -30668,6 +30801,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/josefhoyos/"
     },
+    "JosephStiglitz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
+          "key": "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What if the AI boom never turns a profit?",
+          "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/josephstiglitz/"
+    },
     "JoshSpencer": {
       "episode_count": 1,
       "show_count": 1,
@@ -31680,6 +31829,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/lpddr6/"
     },
+    "LaborTaxBaseAIErosion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
+          "key": "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What if the AI boom never turns a profit?",
+          "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/labortaxbaseaierosion/"
+    },
     "Lacoste": {
       "episode_count": 1,
       "show_count": 1,
@@ -32134,6 +32299,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/leadershipemotionalcounterweight/"
+    },
+    "LeeLockwood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
+          "key": "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What if the AI boom never turns a profit?",
+          "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/leelockwood/"
     },
     "LegalAIVerificationAuditability": {
       "episode_count": 2,
@@ -54738,6 +54919,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/technicalleadershipfortechnologycompanies/"
     },
+    "TechnologicalInnovationLocalFiscalShock": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
+          "key": "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What if the AI boom never turns a profit?",
+          "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/technologicalinnovationlocalfiscalshock/"
+    },
     "TechnologyAssistedInteriorEnforcement": {
       "episode_count": 1,
       "show_count": 1,
@@ -56038,9 +56235,9 @@
       "url": "/wiki/concepts/tokenrevenuebuybackmodel/"
     },
     "TokenTaxOnAI": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists： Evictions = Violence？ [42209480].md",
@@ -56048,9 +56245,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480/"
+        },
+        {
+          "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
+          "key": "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What if the AI boom never turns a profit?",
+          "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/tokentaxonai/"
     },
     "Tokyo": {

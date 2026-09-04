@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6333
+wiki_total_pages: 6337
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "TechnologicalDisasterAsInstitutionalFailure"
     title: "Technological Disaster As Institutional Failure"
     url: "/wiki/concepts/technologicaldisasterasinstitutionalfailure/"
+  - key: "TechnologicalInnovationLocalFiscalShock"
+    title: "Technological Innovation Local Fiscal Shock"
+    url: "/wiki/concepts/technologicalinnovationlocalfiscalshock/"
   - key: "TechnologyInnovationAsScaleEconomy"
     title: "Technology Innovation As Scale Economy"
     url: "/wiki/concepts/technologyinnovationasscaleeconomy/"

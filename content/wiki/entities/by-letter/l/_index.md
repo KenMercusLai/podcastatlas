@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8899
+wiki_total_pages: 8905
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "LeborGabalaErenn"
     title: "Lebor Gabala Erenn / 《入侵之书》"
     url: "/wiki/entities/leborgabalaerenn/"
+  - key: "LeeLockwood"
+    title: "Lee Lockwood"
+    url: "/wiki/entities/leelockwood/"
   - key: "LeeWoods"
     title: "Lee Woods"
     url: "/wiki/entities/leewoods/"

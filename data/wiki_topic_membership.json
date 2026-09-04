@@ -4106,6 +4106,20 @@
       "url": "/topics/politics/"
     }
   ],
+  "AIProfitTaxSubstitution": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "AIProfitabilityUncertainty": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIProgramAdjustment": [
     {
       "key": "technology",
@@ -11247,6 +11261,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "BruceSchneier": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "BubbleFinancingStructure": [
@@ -33833,6 +33854,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "JosephStiglitz": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "JosephTurow": [
     {
       "key": "culture",
@@ -35149,6 +35177,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "LaborTaxBaseAIErosion": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "LabourLeadershipCrisis": [
     {
       "key": "politics",
@@ -35724,6 +35759,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "LeeLockwood": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "LegalAIHallucination": [
@@ -59487,6 +59529,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "TechnologicalInnovationLocalFiscalShock": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "TechnologyAssistedInteriorEnforcement": [
     {
       "key": "technology",
@@ -73552,6 +73601,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128": [

@@ -2271,6 +2271,14 @@
     "title": "AI Professional Data Security",
     "url": "/wiki/concepts/aiprofessionaldatasecurity/"
   },
+  "AIProfitTaxSubstitution": {
+    "title": "AI Profit Tax Substitution",
+    "url": "/wiki/concepts/aiprofittaxsubstitution/"
+  },
+  "AIProfitabilityUncertainty": {
+    "title": "AI Profitability Uncertainty",
+    "url": "/wiki/concepts/aiprofitabilityuncertainty/"
+  },
   "AIProgramAdjustment": {
     "title": "AI-Assisted Program Adjustment / AI辅助专业调整",
     "url": "/wiki/concepts/aiprogramadjustment/"
@@ -3694,6 +3702,10 @@
   "AkiraKurosawa": {
     "title": "黑泽明 / Akira Kurosawa",
     "url": "/wiki/entities/akirakurosawa/"
+  },
+  "AkronOhio": {
+    "title": "Akron, Ohio",
+    "url": "/wiki/entities/akronohio/"
   },
   "AkutagawaRyunosuke": {
     "title": "芥川龙之介 / Ryunosuke Akutagawa",
@@ -6531,6 +6543,10 @@
     "title": "Barbell Strategy",
     "url": "/wiki/concepts/barbellstrategy/"
   },
+  "BarbertonOhio": {
+    "title": "Barberton, Ohio",
+    "url": "/wiki/entities/barbertonohio/"
+  },
   "Barbuda": {
     "title": "Barbuda",
     "url": "/wiki/entities/barbuda/"
@@ -8138,6 +8154,10 @@
   "BrowserAsInternetUnlock": {
     "title": "Browser As Internet Unlock",
     "url": "/wiki/concepts/browserasinternetunlock/"
+  },
+  "BruceSchneier": {
+    "title": "Bruce Schneier",
+    "url": "/wiki/entities/bruceschneier/"
   },
   "BruceTaylor": {
     "title": "Bruce Taylor",
@@ -14230,6 +14250,10 @@
   "DavidFriedberg": {
     "title": "David Friedberg",
     "url": "/wiki/entities/davidfriedberg/"
+  },
+  "DavidGiffels": {
+    "title": "David Giffels",
+    "url": "/wiki/entities/davidgiffels/"
   },
   "DavidHorowitz": {
     "title": "David Horowitz",
@@ -28927,6 +28951,10 @@
     "title": "Joseph Schumpeter",
     "url": "/wiki/entities/josephschumpeter/"
   },
+  "JosephStiglitz": {
+    "title": "Joseph Stiglitz",
+    "url": "/wiki/entities/josephstiglitz/"
+  },
   "JosephStrader": {
     "title": "Joseph Strader",
     "url": "/wiki/entities/josephstrader/"
@@ -30275,6 +30303,10 @@
     "title": "Labor-Share Consumption Rebalancing",
     "url": "/wiki/concepts/laborshareconsumptionrebalancing/"
   },
+  "LaborTaxBaseAIErosion": {
+    "title": "Labor Tax Base AI Erosion",
+    "url": "/wiki/concepts/labortaxbaseaierosion/"
+  },
   "LabourLeadershipCrisis": {
     "title": "Labour Leadership Crisis",
     "url": "/wiki/concepts/labourleadershipcrisis/"
@@ -30878,6 +30910,10 @@
   "LeborGabalaErenn": {
     "title": "Lebor Gabala Erenn / 《入侵之书》",
     "url": "/wiki/entities/leborgabalaerenn/"
+  },
+  "LeeLockwood": {
+    "title": "Lee Lockwood",
+    "url": "/wiki/entities/leelockwood/"
   },
   "LeeWoods": {
     "title": "Lee Woods",
@@ -52223,6 +52259,10 @@
     "title": "Technological Disaster As Institutional Failure",
     "url": "/wiki/concepts/technologicaldisasterasinstitutionalfailure/"
   },
+  "TechnologicalInnovationLocalFiscalShock": {
+    "title": "Technological Innovation Local Fiscal Shock",
+    "url": "/wiki/concepts/technologicalinnovationlocalfiscalshock/"
+  },
   "TechnologyAssistedInteriorEnforcement": {
     "title": "Technology-Assisted Interior Enforcement",
     "url": "/wiki/concepts/technologyassistedinteriorenforcement/"
@@ -64874,6 +64914,10 @@
   "tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128": {
     "title": "Ring Moves to Make Its Video Footage More Private",
     "url": "/wiki/sources/tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128/"
+  },
+  "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128": {
+    "title": "What if the AI boom never turns a profit?",
+    "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
   },
   "tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128": {
     "title": "NYC public schools ban AI through middle school",

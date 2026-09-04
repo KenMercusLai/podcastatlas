@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [What if the AI boom never turns a profit?](sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128.md) — Marketplace Tech episode using Akron's rubber decline and radial tires as a public-finance analogy for AI labor displacement, labor-tax revenue risk, token taxes, AI equity funds, and corporate-profit tax alternatives.
 - [Ire and ICE: the toll of America's deportations](sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9.md) — The Intelligence episode on Trump's quieter but systematic deportation campaign, Reddit's AI-search and data-licensing exposure, and the Bayeux Tapestry's first exhibition outside France.
 - [180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园](sources/180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb.md) — 起朱楼宴宾客 crossover with 日谈公园 on a finance-avoidant beginner using 《资产配置行动指南》 to reframe asset allocation through self-knowledge, human capital, emergency cash, housing concentration, diversification, and no-all-in redundancy.
 - [Rick Knudtson (Workshop): The Email Signal He Ignored for 9 Months](sources/rick-knudtson-workshop-the-email-signal-he-ignored-for-9-months.md) — The SaaS Podcast episode on Workshop's pivot from intranet to enterprise internal email, audience-before-product marketing, channel-native internal communications, and audience/channel pricing.
@@ -1908,6 +1909,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Akron, Ohio](entities/AkronOhio.md) — Former rubber-industry center used by Marketplace Tech as a historical warning for AI-era labor and tax disruption.
+- [Barberton, Ohio](entities/BarbertonOhio.md) — Akron-area city whose 1980 factory closure gives the episode its concrete local income-tax loss example.
+- [David Giffels](entities/DavidGiffels.md) — Akron writer whose progress-versus-human-progress frame connects radial tires to AI disruption.
+- [Lee Lockwood](entities/LeeLockwood.md) — University of Virginia economist warning that AI labor substitution can reduce tax revenue and consumer spending.
+- [Bruce Schneier](entities/BruceSchneier.md) — Technology-policy voice questioning token-tax practicality and the profit assumptions behind public AI equity funds.
+- [Joseph Stiglitz](entities/JosephStiglitz.md) — Columbia economist arguing for corporate-profit taxation and loophole closure as an AI-era revenue response.
 - [Bayeux Tapestry](entities/BayeuxTapestry.md) — Medieval embroidered artwork narrating the Norman Conquest and serving as a durable object of political and violence memory.
 - [British Museum](entities/BritishMuseum.md) — Cultural institution hosting the Bayeux Tapestry's source-described first exhibition outside France.
 - [Edward the Confessor](entities/EdwardTheConfessor.md) — English king whose succession politics open the Bayeux Tapestry's Norman Conquest narrative.
@@ -7989,7 +7996,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eric Goldman](entities/EricGoldman.md) — Legal expert explaining platform causation, Section 230, bellwether verdicts, appeal risks, and spillover risk in social-media addiction litigation.
 - [Santa Clara University](entities/SantaClaraUniversity.md) — University affiliation for Eric Goldman in the Marketplace Tech social-media verdict and Section 230 appeal episode.
 - [High Tech Law Institute](entities/HighTechLawInstitute.md) — Santa Clara University institute anchoring Eric Goldman's technology-law expertise in the social-media verdict episode.
-- [David Brancaccio](entities/DavidBrancaccio.md) — Marketplace Tech reporter whose own post-wildfire rebuild grounds the episode's comparison of CLT, mineral wool, stucco, concrete alternatives, carbon, and neighborhood memory.
+- [David Brancaccio](entities/DavidBrancaccio.md) — Marketplace Tech reporter whose place-grounded technology stories now span wildfire rebuilding materials and Akron's AI public-finance analogy.
 - [Heidi Lewis](entities/HeidiLewis.md) — Altadena homeowner in the episode using concrete-filled wall systems as a highly fire-resistant rebuilding approach.
 - [KLH](entities/KLH.md) — European mass-timber company named as a cross-laminated timber example in a Colby College dormitory project.
 - [Mercer Mass Timber](entities/MercerMassTimber.md) — Mass-timber actor connected to off-site CLT panel manufacturing and the Teddy Roosevelt Presidential Library example.
@@ -10811,6 +10818,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Labor Tax Base AI Erosion](concepts/LaborTaxBaseAIErosion.md) — Public-finance risk that AI substitution reduces taxable labor income before replacement tax bases are ready.
+- [Technological Innovation Local Fiscal Shock](concepts/TechnologicalInnovationLocalFiscalShock.md) — Pattern where a consumer-benefiting technology removes a local industrial job base and municipal tax revenue.
+- [AI Profit Tax Substitution](concepts/AIProfitTaxSubstitution.md) — Policy response that replaces lost labor-tax revenue by taxing corporate profits created or enlarged by AI automation.
+- [AI Profitability Uncertainty](concepts/AIProfitabilityUncertainty.md) — Risk that AI capability and investment may not translate into durable profits for companies, taxes, or public equity funds.
 - [Art After Violence Memory](concepts/ArtAfterViolenceMemory.md) — Art-memory frame for how violent rupture is preserved, processed, and reinterpreted through making and exhibition.
 - [Human Community Data Licensing](concepts/HumanCommunityDataLicensing.md) — AI data-licensing pattern where human discussion and volunteer moderation become a monetizable platform corpus.
 - [Immigration Court Throughput Pressure](concepts/ImmigrationCourtThroughputPressure.md) — Procedural condition where high-volume immigration hearings, weak notice, and lack of lawyers help convert arrests into removal orders.
@@ -11352,7 +11363,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fin-de-Siecle Vienna Crisis Reading](concepts/FinDeSiecleViennaCrisisReading.md) — Interpretation of Mayerling through late nineteenth-century Viennese culture, inner-life language, and Habsburg decline.
 - [Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行](concepts/EunuchPatronageViolenceShield.md) — Pattern where eunuch access or complaint channels shield corruption, witness suppression, property extraction, servants, guests, or local violence and can turn enforcement against enforcers.
 - [Open Source AI Ban Risk](concepts/OpenSourceAIBanRisk.md) — Risk that model-provenance or national-security concerns become broad restrictions on open-weight AI models.
-- [Token Tax On AI](concepts/TokenTaxOnAI.md) — Enterprise cost penalty created when policy pushes buyers away from cheaper open models and toward closed APIs.
+- [Token Tax On AI](concepts/TokenTaxOnAI.md) — Token-linked economic frame covering direct AI-usage taxation and policy-created cost wedges from restricting cheaper models.
 - [AI Output Training Symmetry](concepts/AIOutputTrainingSymmetry.md) — Consistency problem between AI labs' fair-use claims for human works and objections to competitors training on model outputs.
 - [Tenant Screening Eviction Backfire](concepts/TenantScreeningEvictionBackfire.md) — Claim that strict screening, eviction, and rent rules can raise rents, reduce maintenance, or harm other tenants.
 - [Housing Supply Over Rent Control](concepts/HousingSupplyOverRentControl.md) — Policy preference for easing construction and permitting constraints rather than relying mainly on rent freezes or eviction limits.
@@ -14348,8 +14359,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rare Earth Export Leverage](concepts/RareEarthExportLeverage.md) — Strategic power created when rare-earth processing dependence lets export restrictions disrupt industrial and defense users.
 - [State-Backed Rare Earth Rebuilding](concepts/StateBackedRareEarthRebuilding.md) — Policy turn toward grants, loans, equity stakes, and price floors to rebuild non-Chinese rare-earth capacity.
 - [Dominant Producer Price Discipline](concepts/DominantProducerPriceDiscipline.md) — Market-structure risk that a dominant supplier can use price or output moves to make rival rare-earth capacity uneconomic.
-- [AI Automation Redistribution](concepts/AIAutomationRedistribution.md) — Policy frame for moving AI productivity, machine-economy, or AI-company ownership gains back toward people through taxes, public equity, or broad asset ownership.
-- [AI Public Ownership Proposal](concepts/AIPublicOwnershipProposal.md) — Proposal that the public receive direct ownership or governance claims on major AI companies because AI value may draw from public knowledge and infrastructure.
+- [AI Automation Redistribution](concepts/AIAutomationRedistribution.md) — Policy frame for moving AI productivity, machine-economy, tax-base, or AI-company ownership gains back toward people and public budgets.
+- [AI Public Ownership Proposal](concepts/AIPublicOwnershipProposal.md) — Proposal that the public receive ownership, governance, or investment-fund claims on major AI companies, qualified by profitability and implementation risks.
 - [AI Cyber-Defense Utility](concepts/AICyberDefenseUtility.md) — Argument that socially important cyber-capable AI may need broad, utility-like defensive access rather than ordinary margin-maximizing software pricing.
 - [Dynamic Pricing Fairness](concepts/DynamicPricingFairness.md) — Tension between price-based shortage allocation, supply response, consumer fairness, queues, and envy-free market design.
 - [Future Resident Housing Voice](concepts/FutureResidentHousingVoice.md) — Housing-policy frame asking local decisions to represent would-be residents, children, and future generations excluded from current homeowner politics.

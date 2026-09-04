@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6333
+wiki_total_pages: 6337
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "LaborSearchFrictions"
     title: "Labor Search Frictions"
     url: "/wiki/concepts/laborsearchfrictions/"
+  - key: "LaborTaxBaseAIErosion"
+    title: "Labor Tax Base AI Erosion"
+    url: "/wiki/concepts/labortaxbaseaierosion/"
   - key: "LaborShareConsumptionRebalancing"
     title: "Labor-Share Consumption Rebalancing"
     url: "/wiki/concepts/laborshareconsumptionrebalancing/"
