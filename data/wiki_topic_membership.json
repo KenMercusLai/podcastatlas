@@ -1385,6 +1385,13 @@
       "url": "/topics/history/"
     }
   ],
+  "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624": [
     {
       "key": "culture",
@@ -11958,6 +11965,13 @@
       "url": "/topics/science/"
     }
   ],
+  "CapetianSuccessionCrisis": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "CapitalAccountInvestmentRestrictions": [
     {
       "key": "economics",
@@ -13657,6 +13671,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ChivalricRomanceWarMemory": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     },
     {
       "key": "culture",
@@ -19667,6 +19693,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "DynasticClaimNationalMobilization": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "DynasticHeirRoleEntrapment": [
     {
       "key": "science",
@@ -22845,6 +22878,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "FeudalHomageSovereigntyConflict": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "FiatCapitalMarketDecentralization": [
@@ -51531,6 +51576,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "RogerMortimer": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "RogueOne": [

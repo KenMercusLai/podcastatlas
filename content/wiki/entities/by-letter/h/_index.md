@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8847
+wiki_total_pages: 8860
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "Halifax"
     title: "Halifax / 哈利法克斯"
     url: "/wiki/entities/halifax/"
+  - key: "HallidonHill"
+    title: "Hallidon Hill"
+    url: "/wiki/entities/hallidonhill/"
   - key: "Hamas"
     title: "Hamas"
     url: "/wiki/entities/hamas/"
@@ -632,6 +635,9 @@ wiki_pages:
   - key: "HunSen"
     title: "Hun Sen"
     url: "/wiki/entities/hunsen/"
+  - key: "HundredYearsWar"
+    title: "Hundred Years' War"
+    url: "/wiki/entities/hundredyearswar/"
   - key: "HurricaneIrma"
     title: "Hurricane Irma"
     url: "/wiki/entities/hurricaneirma/"

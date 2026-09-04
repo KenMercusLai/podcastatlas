@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6290
+wiki_total_pages: 6294
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "CAPERatioValuationSignal"
     title: "CAPE Ratio Valuation Signal"
     url: "/wiki/concepts/caperatiovaluationsignal/"
+  - key: "CapetianSuccessionCrisis"
+    title: "Capetian Succession Crisis"
+    url: "/wiki/concepts/capetiansuccessioncrisis/"
   - key: "CAPEXOPEXSubstitution"
     title: "CAPEX OPEX Substitution"
     url: "/wiki/concepts/capexopexsubstitution/"
@@ -650,6 +653,9 @@ wiki_pages:
   - key: "ChineseStyleFDE"
     title: "Chinese-Style FDE / 中国式 FDE"
     url: "/wiki/concepts/chinesestylefde/"
+  - key: "ChivalricRomanceWarMemory"
+    title: "Chivalric Romance War Memory"
+    url: "/wiki/concepts/chivalricromancewarmemory/"
   - key: "ChivalricTournamentCulture"
     title: "Chivalric Tournament Culture / 骑士比武文化"
     url: "/wiki/concepts/chivalrictournamentculture/"

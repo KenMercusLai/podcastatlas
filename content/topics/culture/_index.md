@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2377
+topic_total_pages: 2378
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -505,6 +505,9 @@ topic_concepts:
   - key: "ChinesePodcastEcosystem"
     title: "Chinese Podcast Ecosystem / 中文播客生态"
     url: "/wiki/concepts/chinesepodcastecosystem/"
+  - key: "ChivalricRomanceWarMemory"
+    title: "Chivalric Romance War Memory"
+    url: "/wiki/concepts/chivalricromancewarmemory/"
   - key: "CitizenJournalismAccountability"
     title: "Citizen Journalism Accountability"
     url: "/wiki/concepts/citizenjournalismaccountability/"

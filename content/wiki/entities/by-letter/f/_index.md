@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8847
+wiki_total_pages: 8860
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "FrancoAmericanAlliance1778"
     title: "Franco-American Alliance of 1778"
     url: "/wiki/entities/francoamericanalliance1778/"
+  - key: "FrancoScottishAlliance"
+    title: "Franco-Scottish Alliance"
+    url: "/wiki/entities/francoscottishalliance/"
   - key: "FrancoisPienaar"
     title: "Francois Pienaar"
     url: "/wiki/entities/francoispienaar/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 8847
+wiki_total_pages: 8860
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "IsaacNewton"
     title: "Isaac Newton / 牛顿"
     url: "/wiki/entities/isaacnewton/"
+  - key: "IsabellaOfFrance"
+    title: "Isabella of France"
+    url: "/wiki/entities/isabellaoffrance/"
   - key: "IsaoTakahata"
     title: "Isao Takahata / 高畑勋"
     url: "/wiki/entities/isaotakahata/"

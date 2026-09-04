@@ -887,6 +887,10 @@
     "title": "31.冰与火之歌：虽然从不自称历史",
     "url": "/wiki/sources/31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848/"
   },
+  "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008": {
+    "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+    "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  },
   "32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714": {
     "title": "32.印第安人《讲了一百万次的故事》是马尔克斯的老师",
     "url": "/wiki/sources/32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714/"
@@ -5203,6 +5207,10 @@
     "title": "Aquaculture Feed Dependency",
     "url": "/wiki/concepts/aquaculturefeeddependency/"
   },
+  "Aquitaine": {
+    "title": "Aquitaine",
+    "url": "/wiki/entities/aquitaine/"
+  },
   "Arabica": {
     "title": "% Arabica",
     "url": "/wiki/entities/arabica/"
@@ -8939,6 +8947,14 @@
     "title": "Caperni",
     "url": "/wiki/entities/caperni/"
   },
+  "CapetianDynasty": {
+    "title": "Capetian Dynasty",
+    "url": "/wiki/entities/capetiandynasty/"
+  },
+  "CapetianSuccessionCrisis": {
+    "title": "Capetian Succession Crisis",
+    "url": "/wiki/concepts/capetiansuccessioncrisis/"
+  },
   "CapitalAccountInvestmentRestrictions": {
     "title": "Capital Account Investment Restrictions",
     "url": "/wiki/concepts/capitalaccountinvestmentrestrictions/"
@@ -10814,6 +10830,10 @@
   "ChitingDefenseLateHan": {
     "title": "赤亭守战 / Chiting Defense (late Han)",
     "url": "/wiki/entities/chitingdefenselatehan/"
+  },
+  "ChivalricRomanceWarMemory": {
+    "title": "Chivalric Romance War Memory",
+    "url": "/wiki/concepts/chivalricromancewarmemory/"
   },
   "ChivalricTournamentCulture": {
     "title": "Chivalric Tournament Culture / 骑士比武文化",
@@ -16167,6 +16187,10 @@
     "title": "Dynamic Pricing Fairness",
     "url": "/wiki/concepts/dynamicpricingfairness/"
   },
+  "DynasticClaimNationalMobilization": {
+    "title": "Dynastic Claim National Mobilization",
+    "url": "/wiki/concepts/dynasticclaimnationalmobilization/"
+  },
   "DynasticHeirLossShock": {
     "title": "Dynastic Heir Loss Shock",
     "url": "/wiki/concepts/dynasticheirlossshock/"
@@ -16582,6 +16606,14 @@
   "EdwardHeath": {
     "title": "Edward Heath",
     "url": "/wiki/entities/edwardheath/"
+  },
+  "EdwardIIIOfEngland": {
+    "title": "Edward III of England",
+    "url": "/wiki/entities/edwardiiiofengland/"
+  },
+  "EdwardIIOfEngland": {
+    "title": "Edward II of England",
+    "url": "/wiki/entities/edwardiiofengland/"
   },
   "EdwardJonesPsychologist": {
     "title": "Edward Jones / 爱德华·琼斯",
@@ -19047,6 +19079,10 @@
     "title": "Festival Food Material History",
     "url": "/wiki/concepts/festivalfoodmaterialhistory/"
   },
+  "FeudalHomageSovereigntyConflict": {
+    "title": "Feudal Homage Sovereignty Conflict",
+    "url": "/wiki/concepts/feudalhomagesovereigntyconflict/"
+  },
   "Fiat": {
     "title": "Fiat",
     "url": "/wiki/entities/fiat/"
@@ -20235,6 +20271,10 @@
     "title": "Franco-American Alliance of 1778",
     "url": "/wiki/entities/francoamericanalliance1778/"
   },
+  "FrancoScottishAlliance": {
+    "title": "Franco-Scottish Alliance",
+    "url": "/wiki/entities/francoscottishalliance/"
+  },
   "FrancoisDukeOfAnjou": {
     "title": "Francois, Duke of Anjou",
     "url": "/wiki/entities/francoisdukeofanjou/"
@@ -21178,6 +21218,10 @@
   "GaryStark": {
     "title": "Gary Stark",
     "url": "/wiki/entities/garystark/"
+  },
+  "Gascony": {
+    "title": "Gascony",
+    "url": "/wiki/entities/gascony/"
   },
   "GaspardColigny": {
     "title": "Gaspard Coligny",
@@ -23130,6 +23174,10 @@
   "Halifax": {
     "title": "Halifax / 哈利法克斯",
     "url": "/wiki/entities/halifax/"
+  },
+  "HallidonHill": {
+    "title": "Hallidon Hill",
+    "url": "/wiki/entities/hallidonhill/"
   },
   "HaloProductStrategy": {
     "title": "Halo Product Strategy",
@@ -25495,6 +25543,10 @@
     "title": "Hun Sen",
     "url": "/wiki/entities/hunsen/"
   },
+  "HundredYearsWar": {
+    "title": "Hundred Years' War",
+    "url": "/wiki/entities/hundredyearswar/"
+  },
   "HuoXuLateHan": {
     "title": "霍谞 / Huo Xu (late Han)",
     "url": "/wiki/entities/huoxulatehan/"
@@ -26950,6 +27002,10 @@
   "IsaacNewton": {
     "title": "Isaac Newton / 牛顿",
     "url": "/wiki/entities/isaacnewton/"
+  },
+  "IsabellaOfFrance": {
+    "title": "Isabella of France",
+    "url": "/wiki/entities/isabellaoffrance/"
   },
   "IsaoTakahata": {
     "title": "Isao Takahata / 高畑勋",
@@ -40735,6 +40791,10 @@
     "title": "Philip II of Spain",
     "url": "/wiki/entities/philipii/"
   },
+  "PhilipIVOfFrance": {
+    "title": "Philip IV of France",
+    "url": "/wiki/entities/philipivoffrance/"
+  },
   "PhilipOfCoburg": {
     "title": "Philip of Coburg",
     "url": "/wiki/entities/philipofcoburg/"
@@ -40742,6 +40802,10 @@
   "PhilipSidney": {
     "title": "Sir Philip Sidney",
     "url": "/wiki/entities/philipsidney/"
+  },
+  "PhilipVIOfFrance": {
+    "title": "Philip VI of France",
+    "url": "/wiki/entities/philipvioffrance/"
   },
   "PhilipZimbardo": {
     "title": "Philip Zimbardo / 菲利普·津巴多",
@@ -45470,6 +45534,10 @@
   "RodoSayagues": {
     "title": "Rodo Sayagues",
     "url": "/wiki/entities/rodosayagues/"
+  },
+  "RogerMortimer": {
+    "title": "Roger Mortimer",
+    "url": "/wiki/entities/rogermortimer/"
   },
   "RogerSeiders": {
     "title": "Roger Seiders",
@@ -54742,6 +54810,10 @@
   "ValleyOfTheDolls": {
     "title": "Valley of the Dolls",
     "url": "/wiki/entities/valleyofthedolls/"
+  },
+  "ValoisDynasty": {
+    "title": "Valois Dynasty",
+    "url": "/wiki/entities/valoisdynasty/"
   },
   "ValueInvesting": {
     "title": "Value Investing",

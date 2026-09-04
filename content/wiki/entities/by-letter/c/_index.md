@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8847
+wiki_total_pages: 8860
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "Caperni"
     title: "Caperni"
     url: "/wiki/entities/caperni/"
+  - key: "CapetianDynasty"
+    title: "Capetian Dynasty"
+    url: "/wiki/entities/capetiandynasty/"
   - key: "CapitalCitiesABC"
     title: "Capital Cities/ABC"
     url: "/wiki/entities/capitalcitiesabc/"

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "0a91738c7181c394ab64885ba1a1b7efb770c078ebae17c24c02c743b7903647",
       "1362c5f4a6cb37a78fbe1812385e843f5dc234d5ccf6fac8542ed6cca802caed",
       "8f8f5bed55b64b3394ae346629e0df528d43f3ce7559982ae40aaf5c4d7e7cf0",
       "7594629577120dcb924b0474c0cb65f9ab9676616dc30e7ffa18f542e732cd37",
@@ -518,11 +519,48 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 516
+    "paragraph_count": 517
   },
-  "overview_commit": "99973777bad58c85cb75c7f0dcd772ec909500a6",
-  "overview_digest": "e0b83bf9ab01df31f2276351d4f52dfb6e8e45e83eb2e713bfdddb3575b0348b",
+  "overview_commit": "b9ff4567c3dabf8fb8deab8b15ddcea3ce3dadb3",
+  "overview_digest": "79144a89e427a87105af381a327a9264521fc809b5fb40b2134f9280a92ab3ca",
   "paragraphs": [
+    {
+      "id": "0a91738c7181c394ab64885ba1a1b7efb770c078ebae17c24c02c743b7903647",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008|318: Hundred Years' War: A Game of Thrones (Part 1)]], a [[TheRestIsHistory]] episode opening the [[HundredYearsWar|Hundred Years' War]] branch through [[England]], [[France]], [[Gascony]], [[Aquitaine]], [[Scotland]], and the 1337 war threshold. It adds [[HundredYearsWar]], [[EdwardIIIOfEngland]], [[PhilipVIOfFrance]], [[EdwardIIOfEngland]], [[IsabellaOfFrance]], [[RogerMortimer]], [[PhilipIVOfFrance]], [[Gascony]], [[Aquitaine]], [[CapetianDynasty]], [[ValoisDynasty]], [[FrancoScottishAlliance]], [[HallidonHill]], [[CapetianSuccessionCrisis]], [[FeudalHomageSovereigntyConflict]], [[DynasticClaimNationalMobilization]], and [[ChivalricRomanceWarMemory]], while extending [[TheRestIsHistory]], [[England]], [[France]], [[Scotland]], [[ArthurConanDoyle]], [[ChivalricTournamentCulture]], and [[HistoricalMemoryContest]]. Its core synthesis is that the war's origin is not a single denied-throne dispute: French wealth and prestige, England's reduced but persistent continental position, Gascony's homage-and-appeal structure, Scottish alliance pressure, Capetian male-line failure, and Edward III's parliamentary manifesto together turn dynastic/legal grievance into a wider English cause. No settled contradiction is recorded; Flanders and Brittany leverage, longbow military advantage, Sluys, Crecy, Poitiers, Calais, and later French recovery remain source-scoped or deferred to later episodes.",
+      "topic_scores": {
+        "culture-and-media": 2,
+        "history-and-geopolitics": 5
+      },
+      "wikilinks": [
+        "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+        "Aquitaine",
+        "ArthurConanDoyle",
+        "CapetianDynasty",
+        "CapetianSuccessionCrisis",
+        "ChivalricRomanceWarMemory",
+        "ChivalricTournamentCulture",
+        "DynasticClaimNationalMobilization",
+        "EdwardIIIOfEngland",
+        "EdwardIIOfEngland",
+        "England",
+        "FeudalHomageSovereigntyConflict",
+        "France",
+        "FrancoScottishAlliance",
+        "Gascony",
+        "HallidonHill",
+        "HistoricalMemoryContest",
+        "HundredYearsWar",
+        "IsabellaOfFrance",
+        "PhilipIVOfFrance",
+        "PhilipVIOfFrance",
+        "RogerMortimer",
+        "Scotland",
+        "TheRestIsHistory",
+        "ValoisDynasty"
+      ]
+    },
     {
       "id": "1362c5f4a6cb37a78fbe1812385e843f5dc234d5ccf6fac8542ed6cca802caed",
       "primary_topic": "governance-and-institutions",

@@ -1,10 +1,11 @@
 ---
 title: "Scotland"
 type: entity
-tags: [country, constituent-nation, united-kingdom, football]
+tags: [country, constituent-nation, united-kingdom, football, medieval-history]
 sources:
   - 678-britain-god-save-the-king-part-2-glt2603959218
-last_updated: 2026-09-02
+  - 318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008
+last_updated: 2026-09-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,44 +13,51 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Scotland appears in this source as a [[UnitedKingdom]] constituent nation whose monarchy, historical memory, and sporting anthem choices do not map neatly onto either British state identity or simple anti-English nationalism.
+Scotland appears in the wiki as both a modern [[UnitedKingdom]] constituent-nation identity case and a medieval strategic pressure point in Anglo-French conflict.
 
 ## Current Profile
 
-The episode treats Scotland mainly through the anthem problem created by British statehood and separate football identities. [[GodSaveTheKing|God Save the King]] can represent the United Kingdom and the monarch, but Scotland's football and rugby use of [[FlowerOfScotland|Flower of Scotland]] gives Scottish teams a more specific sporting identity, especially in matches against [[England]].
+The anthem source treats Scotland through the mismatch between British state identity and separate sporting identities. [[GodSaveTheKing|God Save the King]] can represent the monarch and the state, but [[FlowerOfScotland|Flower of Scotland]] gives Scottish football and rugby a more specific identity, especially when the opponent is [[England]].
 
-The source also qualifies easy historical readings. It says the 1745 [[Jacobitism|Jacobite]] campaign is often remembered as a Scottish independence struggle, while the hosts frame Culloden as a conflict between competing visions of Scotland as well as a conflict involving Britain. That makes Scotland a case where [[HistoricalMemoryContest]] and [[ConstituentNationSportingIdentity]] overlap.
+In the medieval branch, Scotland is allied with [[France]] through the [[FrancoScottishAlliance|Franco-Scottish alliance]], giving French kings a way to pressure England from the north. [[EdwardIIIOfEngland|Edward III]]'s victory at [[HallidonHill|Hallidon Hill]] sends David II to France and makes Scottish rights part of [[PhilipVIOfFrance|Philip VI]]'s conditions for any Anglo-French settlement.
 
 ## Key Characteristics
 
-- Constituent nation inside the [[UnitedKingdom]] with separate football and rugby identity.
-- Sporting setting where [[FlowerOfScotland|Flower of Scotland]] displaces [[GodSaveTheKing|God Save the King]].
-- Monarchy relationship presented as more complicated than a simple nationalist rejection.
-- Historical-memory case where the 1745 Jacobite conflict can be emotionally simplified into Scotland-versus-England.
-- Identity case where state, nation, monarchy, and sport point in different directions.
+- Constituent nation inside the United Kingdom with distinct football and rugby identity.
+- Sporting setting where Flower of Scotland can displace God Save the King.
+- Historical-memory case where monarchy, nationalism, Culloden, and football feeling do not align neatly.
+- Medieval ally of France under the source-described 1295 Franco-Scottish agreement.
+- Northern pressure point that complicates Edward III's defense of Gascony and Aquitaine.
+- Case where battlefield victory at Hallidon Hill creates wider diplomatic risk for England.
 
 ## Evidence
 
-- Separate sporting identity: [[678-britain-god-save-the-king-part-2-glt2603959218]] says England and Scotland compete separately in football even though both are within the [[UnitedKingdom]].
-- Anthem choice: [[678-britain-god-save-the-king-part-2-glt2603959218]] says Scottish rugby and football eventually adopted [[FlowerOfScotland|Flower of Scotland]] instead of [[GodSaveTheKing|God Save the King]].
-- Monarchy qualification: [[678-britain-god-save-the-king-part-2-glt2603959218]] says Scottish nationalism need not be inherently anti-monarchical and describes SNP policy, as summarized by the hosts, as retaining the monarchy in an independent Scotland.
-- Memory qualification: [[678-britain-god-save-the-king-part-2-glt2603959218]] says the Jacobite and Culloden memory is often flattened into a Scottish independence story even though the conflict was more internally divided.
-- Football affect: [[678-britain-god-save-the-king-part-2-glt2603959218]] says [[FlowerOfScotland|Flower of Scotland]] has special force against [[England]] because it invokes defeating Edward's army.
+- Separate sporting identity: [[678-britain-god-save-the-king-part-2-glt2603959218]] says England and Scotland compete separately in football even though both sit inside the United Kingdom.
+- Anthem choice: [[678-britain-god-save-the-king-part-2-glt2603959218]] says Scottish rugby and football eventually adopted Flower of Scotland instead of God Save the King.
+- Memory qualification: [[678-britain-god-save-the-king-part-2-glt2603959218]] says Jacobite and Culloden memory can be flattened into a Scotland-versus-England story despite more complicated internal divisions.
+- Alliance role: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] says Scotland and France had a 1295 agreement to pressure England if the other was attacked.
+- Hallidon Hill consequence: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] says David II flees to France after Edward III's victory, forcing Philip VI to uphold Scottish rights.
+- Strategic linkage: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] identifies Scotland and Gascony as the two sore points in Anglo-French relations.
 
 ## Qualifications
 
-This page is not a general Scotland profile. It records the Scotland-specific branch supplied by one anthem-and-football episode, with Scottish public opinion, SNP policy, Culloden memory, and football anthem adoption all kept source-scoped.
+This page covers two source-bounded branches, not a full Scotland profile. Modern SNP policy, Scottish public opinion, Culloden memory, medieval alliance terms, and David II's French refuge are all recorded only to the level supplied by these episodes.
 
 ## What Changed
 
-- Created Scotland as the constituent-nation case needed for the British anthem and football-identity branch.
+- Added the medieval alliance and Hallidon Hill branch beside the existing anthem and sporting-identity profile.
 
 ## Relationships
 
-- [[UnitedKingdom]] - state context within which Scotland's anthem problem appears.
-- [[England]] - counterpart constituent nation and football rival in the source.
-- [[GodSaveTheKing]] - British anthem whose Scottish use is politically and emotionally limited.
-- [[FlowerOfScotland]] - Scottish sporting anthem emphasized by the episode.
-- [[Jacobitism]] - historical conflict whose memory shapes Scottish discomfort with British symbolism.
+- [[UnitedKingdom]] - modern state context for Scotland's constituent-nation identity branch.
+- [[England]] - sporting counterpart and medieval rival in the two source branches.
+- [[France]] - medieval ally and diplomatic backer after Hallidon Hill.
+- [[FrancoScottishAlliance]] - agreement that makes Scotland an Anglo-French pressure point.
+- [[HallidonHill]] - battle whose aftermath sends David II to France.
+- [[HundredYearsWar]] - conflict whose origin includes Scotland as a strategic sore point.
+- [[EdwardIIIOfEngland]] - English king whose Scottish policy activates French pressure.
+- [[PhilipVIOfFrance]] - French king who insists Scottish rights be included in treaty conditions.
+- [[GodSaveTheKing]] - British anthem whose Scottish use is limited by identity and sporting context.
+- [[FlowerOfScotland]] - Scottish sporting anthem emphasized by the anthem source.
 - [[ConstituentNationSportingIdentity]] - concept grounded by Scotland's separate football identity inside the UK.
-- [[HistoricalMemoryContest]] - broader concept for the source's warning against simplified Culloden memory.
+- [[HistoricalMemoryContest]] - broader concept for simplified conflict memory.

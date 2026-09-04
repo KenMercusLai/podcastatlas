@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 8847
+wiki_total_pages: 8860
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "RodoSayagues"
     title: "Rodo Sayagues"
     url: "/wiki/entities/rodosayagues/"
+  - key: "RogerMortimer"
+    title: "Roger Mortimer"
+    url: "/wiki/entities/rogermortimer/"
   - key: "RogerSeiders"
     title: "Roger Seiders"
     url: "/wiki/entities/rogerseiders/"

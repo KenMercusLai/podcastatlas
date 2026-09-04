@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2170
+topic_total_pages: 2172
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1066,6 +1066,9 @@ topic_concepts:
   - key: "FemaleRevengeAndPoliticalOrder"
     title: "Female Revenge And Political Order"
     url: "/wiki/concepts/femalerevengeandpoliticalorder/"
+  - key: "FeudalHomageSovereigntyConflict"
+    title: "Feudal Homage Sovereignty Conflict"
+    url: "/wiki/concepts/feudalhomagesovereigntyconflict/"
   - key: "FiatCapitalMarketDecentralization"
     title: "Fiat Capital-Market Decentralization / 纸币时代的资本市场去中心化"
     url: "/wiki/concepts/fiatcapitalmarketdecentralization/"
@@ -5030,6 +5033,9 @@ topic_entities:
   - key: "RockbridgeNetwork"
     title: "Rockbridge Network"
     url: "/wiki/entities/rockbridgenetwork/"
+  - key: "RogerMortimer"
+    title: "Roger Mortimer"
+    url: "/wiki/entities/rogermortimer/"
   - key: "RonDeSantis"
     title: "Ron DeSantis"
     url: "/wiki/entities/rondesantis/"

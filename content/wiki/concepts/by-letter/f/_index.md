@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6290
+wiki_total_pages: 6294
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "FestivalFoodMaterialHistory"
     title: "Festival Food Material History"
     url: "/wiki/concepts/festivalfoodmaterialhistory/"
+  - key: "FeudalHomageSovereigntyConflict"
+    title: "Feudal Homage Sovereignty Conflict"
+    url: "/wiki/concepts/feudalhomagesovereigntyconflict/"
   - key: "FiatCapitalMarketDecentralization"
     title: "Fiat Capital-Market Decentralization / 纸币时代的资本市场去中心化"
     url: "/wiki/concepts/fiatcapitalmarketdecentralization/"

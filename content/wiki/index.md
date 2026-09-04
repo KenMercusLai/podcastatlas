@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [318: Hundred Years' War: A Game of Thrones (Part 1)](sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008.md) — The Rest Is History episode on the Hundred Years' War origins through French power, English continental vulnerability, Gascony homage, Capetian succession, Scotland, Aquitaine, and Edward III's 1337 manifesto.
 - [Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel](sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803.md) — Huberman Lab episode with Elissa Epel on stress response and recovery, threat-versus-challenge appraisal, stress eating, mindful cue control, telomeres, mitochondria, acceptance, uncertainty tolerance, and positive-stress breathwork.
 - [从抢 GPU 到喂 AI，互联网正在悄悄更换主人](sources/ba044533d184-ba044533d184.md) — 科技乱炖 episode on Nvidia/CUDA moat pressure, GPU spot-market trust friction, model price routing, agent-readable web design, agent payment, MCP-style service access, and AI-assisted infrastructure operations.
 - [272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy](sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp.md) — 乱翻书 episode on Doubao Work as ByteDance's Feishu/Doubao/Trae/Coze consolidation, with WorkBuddy and Qwen Office comparisons, connector quality, office-agent harness design, token pricing, FDE, and enterprise AI readiness.
@@ -1898,10 +1899,23 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Hundred Years' War](entities/HundredYearsWar.md) — Anglo-French conflict branch opened through dynastic succession, Gascony homage, Scotland, Aquitaine, and competing war-memory frames.
+- [Edward III of England](entities/EdwardIIIOfEngland.md) — English king whose French claim, Scottish policy, Gascon vulnerability, and 1337 manifesto open the Hundred Years' War branch.
+- [Philip VI of France](entities/PhilipVIOfFrance.md) — Valois king chosen over Edward III's claim and tied to the 1337 confiscation of Aquitaine.
+- [Edward II of England](entities/EdwardIIOfEngland.md) — Weak predecessor whose defeat, Aquitaine crisis, and deposition shape Edward III's inheritance.
+- [Isabella of France](entities/IsabellaOfFrance.md) — Capetian daughter, English queen, and maternal route for Edward III's French claim.
+- [Roger Mortimer](entities/RogerMortimer.md) — Regency power whose Scottish settlement and fall help frame Edward III's later assertion of authority.
+- [Philip IV of France](entities/PhilipIVOfFrance.md) — Capetian ruler at the episode's peak-French-power moment before succession failure.
+- [Gascony](entities/Gascony.md) — English-held French possession where homage, appeals, wine trade, and forfeiture threats collide.
+- [Aquitaine](entities/Aquitaine.md) — Duchy whose 1337 confiscation becomes the Hundred Years' War threshold in the source.
+- [Capetian Dynasty](entities/CapetianDynasty.md) — French dynasty whose long stable succession fails after Philip IV's sons.
+- [Valois Dynasty](entities/ValoisDynasty.md) — Collateral French royal line selected through Philip VI after direct Capetian male failure.
+- [Franco-Scottish Alliance](entities/FrancoScottishAlliance.md) — 1295 alliance mechanism that makes Scotland part of Anglo-French diplomacy.
+- [Hallidon Hill](entities/HallidonHill.md) — Edward III's 1333 Scottish victory whose diplomatic aftermath pulls in France.
 - [Elissa Epel](entities/ElissaEpel.md) — UCSF stress, aging, metabolism, and emotion researcher featured in the Huberman Lab stress-biology episode.
 - [Wim Hof](entities/WimHof.md) — Source-scoped breathwork figure named in Epel's positive-stress and Wim Hof method discussion.
 - [God Save the King / Queen](entities/GodSaveTheKing.md) — British anthem whose uncertain origin, Jacobite-Hanoverian repurposing, and sporting use make it a flexible monarchy symbol.
-- [Scotland](entities/Scotland.md) — UK constituent nation whose sporting anthem choices expose the difference between British state identity and Scottish national feeling.
+- [Scotland](entities/Scotland.md) — UK constituent-nation sporting identity case and medieval ally of France in the Hundred Years' War origin branch.
 - [Flower of Scotland](entities/FlowerOfScotland.md) — Scottish sporting anthem that turns Bannockburn memory into football and rugby identity.
 - [Jerusalem (Hymn)](entities/JerusalemHymn.md) — English anthem alternative whose Blake/Parry/Elgar lineage makes it more England-specific than God Save the King.
 - [Jacobitism](entities/Jacobitism.md) — Stuart restoration movement whose 1745 crisis frames God Save the King's breakthrough and possible turncoat prehistory.
@@ -3596,7 +3610,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney](entities/Sydney.md) — Australian city used as the source's beach/outdoor lifestyle and drone lifeguard case.
 - [CyberCab](entities/CyberCab.md) — Tesla dedicated robotaxi vehicle in the source's Austin rollout discussion.
 - [Gansu / 甘肃](entities/Gansu.md) — Landing setting for LandSpace's Zhuque-3 Yao-2 first-stage recovery in the source.
-- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected Germany/Brazil/Netherlands/South Africa symbol branches, Founding Fathers, Elizabethan, Troubles, Mayerling/Habsburg, Odyssey, and Roman Civil War branches.
+- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected medieval, Elizabethan, Troubles, national-symbol, sport-politics, Habsburg, Odyssey, Founding Fathers, and Roman Civil War branches.
 - [The Troubles](entities/TheTroubles.md) — Northern Ireland conflict branch framed through partition, institutional discrimination, loyalist violence, civil-rights protest, and street-war escalation.
 - [Northern Ireland](entities/NorthernIreland.md) — UK region where partition, Catholic grievances, unionist fear, policing legitimacy, and Westminster intervention converge in the sources.
 - [Edward Carson](entities/EdwardCarson.md) — Unionist leader whose 1912 covenant and volunteers supply an armed-precedent memory in the Part 1 source.
@@ -6946,7 +6960,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Sekigahara / 关原合战](entities/SekigaharaBattle.md) — regime-formation battle near Adams's arrival, used by the episode to place him at a consequential political moment.
 - [Konishi Yukinaga / 小西行长](entities/KonishiYukinaga.md) — Christian daimyo whose defeat, letter, and European afterlife show Japanese Christianity entering European imagination.
 - [Hasekura Tsunenaga / 支仓常长](entities/HasekuraTsunenaga.md) — Japanese envoy to Spain and Rome used by the episode as a failed diplomatic opening shaped by trade and Christian politics.
-- [England](entities/England.md) — Protestant maritime power whose Elizabethan branches move from Low Countries intervention to Mary Stuart security and Armada escalation.
+- [England](entities/England.md) — Historical-state node spanning medieval Hundred Years' War origins, Elizabethan confessional-maritime crisis, and William Adams's Japan contact branch.
 - [Portugal](entities/Portugal.md) — Catholic Iberian maritime power tied to Asian trade, Macau-related contact, and Jesuit influence in the episode.
 - [Jesuits / 耶稣会](entities/Jesuits.md) — Catholic missionary network in Japan whose rivalry with Adams and later expulsion anchors the episode's religious-risk branch.
 - [《土里不吐气》](entities/TuLiBuTuQi.md) — source-scoped book preview about a city-to-countryside couple farming with biology/ecology backgrounds.
@@ -9479,7 +9493,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [康宏文 Henry](entities/KangHongwen.md) — Clipto AI founder and CEO arguing that personal AI memory should be separate from cloud model world knowledge.
 - [Mem0](entities/Mem0.md) — Memory-layer startup used in S10E20 as a cloud-oriented comparison and market-validation signal.
 - [NotebookLM](entities/NotebookLM.md) — Google AI research/document tool used as a comparison point for Clipto's multimodal local memory ambitions.
-- [France](entities/France.md) — National setting for the April 2027 presidential race, Le Pen's renewed candidacy, and the two-round electoral uncertainty.
+- [France](entities/France.md) — Multi-branch national setting spanning medieval Hundred Years' War origins, Elizabethan instability, modern politics and regulation, wildfire, culture, coffee, and resistance.
 - [Marine Le Pen](entities/MarineLePen.md) — National Rally leader whose appeal ruling is framed as clearing her practical path to the 2027 French presidential election.
 - [National Rally](entities/NationalRally.md) — French populist-right party shaped by Le Pen's candidacy, Bardella's successor role, and the normalization problem.
 - [Jordan Bardella](entities/JordanBardella.md) — National Rally figure who had prepared as substitute presidential candidate before Le Pen's return put him back in second place.
@@ -10749,6 +10763,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Capetian Succession Crisis](concepts/CapetianSuccessionCrisis.md) — French succession rupture after Philip IV's sons that makes Edward III's rejected claim politically consequential.
+- [Feudal Homage Sovereignty Conflict](concepts/FeudalHomageSovereigntyConflict.md) — Pattern where a ruler is sovereign in one order but subordinate in another, grounded in Gascony and Aquitaine.
+- [Dynastic Claim National Mobilization](concepts/DynasticClaimNationalMobilization.md) — Pattern where Edward III converts a dynastic and territorial claim into parliamentary and English-cause framing.
+- [Chivalric Romance War Memory](concepts/ChivalricRomanceWarMemory.md) — War-memory frame contrasting knights, honor, and patriotic adventure with catastrophic social violence.
 - [Stress Response Recovery](concepts/StressResponseRecovery.md) — Epel frame where stress outcomes depend on appraisal, body activation, recovery, coping resources, and whether the stress response remains active longer than needed.
 - [Threat Challenge Stress Reappraisal](concepts/ThreatChallengeStressReappraisal.md) — Stress-appraisal concept separating threat physiology from challenge physiology and emphasizing believable resource-backed scripts.
 - [Stress Eating Reward Loop](concepts/StressEatingRewardLoop.md) — Pattern where stress, cravings, insulin resistance, reward sensitivity, compulsive eating traits, and liquid-sugar environments can reinforce each other in some people.

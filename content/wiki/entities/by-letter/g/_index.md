@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8847
+wiki_total_pages: 8860
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "GaryStark"
     title: "Gary Stark"
     url: "/wiki/entities/garystark/"
+  - key: "Gascony"
+    title: "Gascony"
+    url: "/wiki/entities/gascony/"
   - key: "GaspardColigny"
     title: "Gaspard Coligny"
     url: "/wiki/entities/gaspardcoligny/"

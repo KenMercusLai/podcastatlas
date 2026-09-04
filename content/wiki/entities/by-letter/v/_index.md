@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 8847
+wiki_total_pages: 8860
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "ValleyOfTheDolls"
     title: "Valley of the Dolls"
     url: "/wiki/entities/valleyofthedolls/"
+  - key: "ValoisDynasty"
+    title: "Valois Dynasty"
+    url: "/wiki/entities/valoisdynasty/"
   - key: "Vancouver"
     title: "Vancouver / 温哥华"
     url: "/wiki/entities/vancouver/"

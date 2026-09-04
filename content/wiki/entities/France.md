@@ -1,48 +1,79 @@
 ---
 title: "France"
 type: entity
-tags: [country, politics, europe, coffee, film, culture, resistance]
-sources: [692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025, 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087, 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, 21-hong-yu-hei-ta-si-yu-zhencheng-569042001, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]
-last_updated: 2026-08-25
+tags: [country, politics, europe, coffee, film, culture, resistance, medieval-history]
+sources:
+  - 692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025
+  - 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087
+  - 695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455
+  - tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128
+  - 21-hong-yu-hei-ta-si-yu-zhencheng-569042001
+  - 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110
+  - 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905
+  - marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c
+  - 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763
+  - burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b
+  - 318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008
+last_updated: 2026-09-04
+knowledge_schema: synthesis-v1
 ---
 
 # France
 
-[[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]] adds France through the [[StBartholomewsDayMassacre]] itself before the later diplomatic and three-Henry branches. The episode follows [[GaspardColigny]], [[HenryDukeOfGuise|Henry, Duke of Guise]], royal-wedding reconciliation hopes, Louvre killings, neighborhood violence, and Catholic rescue of some Huguenots as the event becomes English [[ConfessionalTraumaMemory|confessional trauma memory]].
+## Overview
 
-[[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] adds France as both [[ElizabethI|Elizabeth I]]'s hoped-for counterweight to [[Spain]] and a source of instability. [[FrancoisDukeOfAnjou|Francois, Duke of Anjou]] gives Elizabeth a possible marriage and Dutch-policy option, while [[HenryIIIOfFrance|Henry III]], [[HenryOfNavarre]], and [[HenryDukeOfGuise|Henry, Duke of Guise]] turn the post-[[StBartholomewsDayMassacre]] field into factional crisis.
+France is a multi-branch national setting in the wiki: medieval superpower and dynastic pressure field, Elizabethan confessional neighbor, modern electoral and platform-regulation case, wildfire setting, literary and film culture setting, coffeehouse-public-sphere site, and occupation-resistance comparison.
 
-The same source makes French instability directly relevant to English security. Guise's [[CatholicLeague]] network helps drive the [[ThrockmortonPlot]], but Anjou's death and the [[WarOfTheThreeHenrys]] then remove France as a stable immediate platform for invading [[England]] or containing Spanish pressure.
+## Current Profile
 
-[[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] adds France as a paralyzed great-power neighbor in the Elizabethan crisis. The episode says Dutch rebels first looked for French help, but Anjou had failed and Henry III was trapped by the War of the Three Henrys, leaving [[ElizabethI|Elizabeth I]] and [[England]] more exposed to the [[LowCountries|Low Countries]] crisis.
+The medieval branch now presents France as the stronger power before the [[HundredYearsWar|Hundred Years' War]]: richer and more populous than [[England]], administratively prestigious, culturally central to chivalry, and stabilized by the [[CapetianDynasty|Capetian]] succession until [[PhilipIVOfFrance|Philip IV]]'s sons fail to leave surviving male heirs. The choice of [[PhilipVIOfFrance|Philip VI]] over [[EdwardIIIOfEngland|Edward III]] becomes one legitimacy pressure, while French overlordship over [[Gascony]] and [[Aquitaine]] supplies the territorial-legal pressure.
 
-[[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] adds France as a recent [[ExtremeWildfire]] setting. The episode cites [[EmmanuelMacron]] describing the fires as the country's toughest situation since the Second World War, using France with [[Spain]] to open the discussion of longer fire seasons and high fire-weather risk.
+The Elizabethan branch makes France both a trauma source and an unreliable counterweight. The [[StBartholomewsDayMassacre]] hardens English Protestant security imagination, while Anjou, Guise, Henry III, Navarre, the Catholic League, and the War of the Three Henrys make France too unstable to be a dependable anti-Spanish partner. Other sources use France for modern politics, platform age bans, wildfire risk, coffeehouse public culture, French literary and film modernity, and Rene Carmille's technical resistance under occupation.
 
-[[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] adds France as the first [[EuropeanUnion|EU]] country, in the source's account, to ban social media for children younger than 15. The episode uses the policy to extend [[SocialMediaAgeBans]] into [[OnlineAgeVerification]], [[CivilLibertiesSurveillanceRisk]], and [[PlatformDefinitionConvergence]] because enforcement may require identity checks and the boundary of "social media" is increasingly unstable.
+## Key Characteristics
 
-[[21-hong-yu-hei-ta-si-yu-zhencheng-569042001]] adds a 19th-century literary branch through [[Stendhal|Stendhal]]'s [[RedAndBlackNovel|《红与黑》]]. The source uses [[FrenchRestoration|Restoration France]], [[NapoleonBonaparte|Napoleonic]] memory, aristocratic gatekeeping, and clerical ambition to explain why [[JulienSorel|Julien Sorel]]'s upward mobility has to pass through performance, resentment, and emotional rupture.
+- Medieval France is framed as a rich, populous, prestigious monarchy whose strength makes England's challenge dramatic.
+- Capetian succession stability turns into crisis when direct male succession fails after Philip IV's sons.
+- French overlordship over Gascony/Aquitaine lets homage, appeals, investigation, and forfeiture become pressure on English kings.
+- Elizabethan France is both massacre-memory source and unstable diplomatic counterweight in England's anti-Spanish crisis.
+- Modern France appears as an electoral, regulatory, and wildfire-risk setting.
+- French cultural branches include Restoration fiction, New Wave film, and coffeehouse public culture.
+- The occupation-data branch uses France as the setting for technical resistance from within.
 
-France appears in [[marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c]] as the national setting for the April 2027 presidential election and for [[MarineLePen]]'s renewed candidacy after her appeal ruling. The episode uses the French race to connect party normalization, legal eligibility, working-class economic appeals, and the uncertainty of a [[TwoRoundPresidentialElection]].
+## Evidence
 
-The source presents the field as crowded: [[EmmanuelMacron]] cannot be the same kind of centrist anchor indefinitely, while [[EdouardPhilippe]], [[GabrielAttal]], [[JeanLucMelenchon]], and many smaller candidates shape the field around [[NationalRally]] and [[MarineLePen]].
+- Medieval power and succession: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] presents France as wealthier, more populous, and more prestigious than England, then links Capetian failure to Philip VI's contested Valois accession.
+- Gascony/Aquitaine pressure: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] says French kings can use homage, appeals, investigation, and confiscation to pressure English-held lands.
+- Elizabethan trauma and instability: [[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]], [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]], and [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] connect France to massacre memory, Anjou diplomacy, Guise networks, and the War of the Three Henrys.
+- Electoral and regulatory setting: [[marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c]] frames the April 2027 presidential race around Marine Le Pen and the two-round system, while [[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] uses France for under-15 social-media age-ban enforcement tradeoffs.
+- Cultural and public-sphere setting: [[21-hong-yu-hei-ta-si-yu-zhencheng-569042001]], [[108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905]], and [[74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]] connect France to Restoration class mobility, New Wave film, Paris cultural controversy, and coffeehouse public talk.
+- Occupation and climate setting: [[133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]] contrasts Rene Carmille's French technical resistance with Dutch occupation data administration, while [[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] uses France in the wildfire-risk branch.
 
-[[74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]] adds an earlier French-history branch through [[Coffee|coffee / 咖啡]]. In that episode, Marseille's medical and trade controversies, Ottoman elite diplomacy in Paris, the rise of Paris coffeehouses, and royal attempts to monopolize and tax coffee make France a key setting for [[CoffeehousePublicSphere]] and [[CoffeeCommodityPolitics]].
+## Qualifications
 
-[[108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905]] adds a French culture and cinema branch through [[JulesAndJim|《祖与占》]], [[FrancoisTruffaut|Francois Truffaut]], and the [[FrenchNewWave|French New Wave]]. The episode uses Paris, the 2024 Olympic opening-ceremony controversy, and the film's bridge-running image to frame France as a setting where cultural self-image, artistic rebellion, sexual morality, and political argument collide.
+This page deliberately compresses distinct French branches and should not be read as a single theory of France. Medieval royal power, early-modern confessional politics, modern electoral law, platform regulation, wildfire risk, literature, film, coffee, and occupation resistance come from different source contexts with different standards of evidence.
 
-[[133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]] adds France as the occupation setting for [[ReneCarmille|Rene Carmille]]'s technical resistance. The episode contrasts France's lower punched-card modernization with the [[Netherlands]] and argues that Carmille's data sabotage and false-document work helped disrupt Nazi classification efforts.
+## What Changed
 
-## Connections
-- [[MarineLePen]] and [[NationalRally]] - central French political actors in the source.
-- [[GaspardColigny]], [[ChristopherMarlowe]], [[FrancisWalsingham]], and [[ConfessionalTraumaMemory]] - massacre and English-memory branch added by episode 692.
-- [[FrancoisDukeOfAnjou|Francois, Duke of Anjou]], [[HenryIIIOfFrance]], [[HenryOfNavarre]], [[HenryDukeOfGuise|Henry, Duke of Guise]], [[CatholicLeague]], [[StBartholomewsDayMassacre]], and [[WarOfTheThreeHenrys]] - Elizabethan French civil-war branch added by episode 694.
-- [[ThrockmortonPlot]], [[MichelDeCastelnau]], [[WilliamAllen]], and [[ConfessionalInvasionConspiracy]] - French-linked conspiracy branch.
-- [[ElizabethI|Elizabeth I]], [[England]], [[LowCountries|Low Countries]], [[DutchRevolt]], and [[StrategicInterventionThreshold]] - Elizabethan branch where French paralysis removes the preferred alternative patron.
-- [[JordanBardella]] - party successor or substitute figure affected by Le Pen's return.
-- [[FarRightNormalization]] - party-reputation project tied to French electoral viability.
-- [[TwoRoundPresidentialElection]] and [[ElectoralIneligibilityPenalty]] - electoral-system and legal eligibility frames.
-- [[Coffee]], [[CoffeehousePublicSphere]], and [[CoffeeCommodityPolitics]] - historical branch added by the coffee material-history source.
-- [[JulesAndJim|《祖与占》]], [[FrancoisTruffaut]], and [[FrenchNewWave]] - film and cultural-rebellion branch added by episode 108.
-- [[ReneCarmille|Rene Carmille / 勒内·卡米耶]], [[TechnicalResistanceFromWithin]], [[PunchedCardAdministration]], and [[DataEnabledPersecution]] - occupation-data resistance branch added by episode 133.
-- [[SocialMediaAgeBans]], [[OnlineAgeVerification]], and [[PlatformDefinitionConvergence]] - child-safety platform regulation branch added by Marketplace Tech.
-- [[ExtremeWildfire]], [[LandscapeFirePrevention]], and [[WildfireSmokeHealthBurden]] - wildfire-risk branch added by The Intelligence.
+- Migrated the page to `synthesis-v1` and added medieval France as the dominant monarchy in the Hundred Years' War origin branch.
+
+## Relationships
+
+- [[England]] - medieval rival and Elizabethan neighbor shaped by French pressure.
+- [[HundredYearsWar]] - conflict whose origin branch now anchors medieval France.
+- [[CapetianDynasty]] - royal house whose succession stability and rupture frame the medieval branch.
+- [[ValoisDynasty]] - dynasty selected after direct Capetian male failure.
+- [[PhilipIVOfFrance]] - Capetian ruler at the source's peak-of-power moment.
+- [[PhilipVIOfFrance]] - Valois ruler whose accession and Aquitaine confiscation shape the war threshold.
+- [[Gascony]] - English-held territory subject to French overlordship and appeal pressure.
+- [[Aquitaine]] - duchy whose confiscation opens war in the episode.
+- [[Scotland]] - ally whose rights Philip VI invokes in Anglo-French diplomacy.
+- [[StBartholomewsDayMassacre]] - Elizabethan trauma-memory event located in France.
+- [[WarOfTheThreeHenrys]] - instability that removes France as a reliable Elizabethan counterweight.
+- [[MarineLePen]] - modern French electoral actor in the 2027 race branch.
+- [[SocialMediaAgeBans]] - regulatory branch using France's under-15 ban as a case.
+- [[FrenchRestoration]] - literary-political setting for the Red and the Black branch.
+- [[FrenchNewWave]] - film-history branch centered on Jules and Jim.
+- [[CoffeehousePublicSphere]] - historical public-talk branch using Paris coffeehouses.
+- [[ReneCarmille|Rene Carmille / 勒内·卡米耶]] - occupation-data resistance figure.
+- [[ExtremeWildfire]] - climate-risk branch where France is a recent fire setting.

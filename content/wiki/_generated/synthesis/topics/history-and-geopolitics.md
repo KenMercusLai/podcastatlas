@@ -3,18 +3,30 @@
 generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
-last_updated: 2026-09-02
-as_of_overview_commit: 0070dee2cb11d008513ea920654cf569e5000853
-input_digest: 9386583eadf81592fa67048bb0220ce9c0605de45fe188c1ff893e276686dd41
+last_updated: 2026-09-04
+as_of_overview_commit: b9ff4567c3dabf8fb8deab8b15ddcea3ce3dadb3
+input_digest: 588861eeaca97e13983230927bfcfdf2d2e31a0b829d02a6848014223deb1c4f
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 676 now precedes the current Guangwu/Jianwu 1 history sequence: Feng Yi opens a Li Yi correspondence channel, Liu Xiu letter exposure turns Zhu Wei suspicion into Luoyang camp damage, Kou Xun and Feng Yi convert Wen/Pingyin defense into capital pressure, Jia Fu wound management shows founding-commander attachment, and Geng Chun, Feng Yi, and Qiang Hua turn military success into accession timing. Hanji 677 through Hanji 688 then continue the adjacent Gengshi, Chimei, Liu Xuan, Deng Yu, Feng Yi, and surrender-settlement sequence, while later Hanji branches track Eastern Han frontier, court, eunuch, outer-relative, and command failures across the Zhangdi, He, An, Shun, Huan, Ling, Dong Zhuo, Cao Cao, Yuan Shao, Jiangdong, and Guandu sequences. Outside Han materials, the Germany anthem, Mayerling, Jefferson, Washington, Mandela, Dutch Revolt, Mussolini World Cup, and other history episodes add historical-memory and geopolitics cases where symbols, legitimacy, infrastructure, and crisis leadership remain source-scoped.
+Hundred Years' War Part 1 now adds a medieval Anglo-French origin branch: the war threshold is framed through French wealth and prestige, England's reduced but persistent continental rights, Gascony and Aquitaine homage pressure, the Franco-Scottish alliance, Hallidon Hill, Capetian male-line failure, Valois accession, and Edward III's manifesto-style conversion of legal grievance into wider mobilization. Hanji 676 through Hanji 688 continue the adjacent Gengshi, Chimei, Liu Xuan, Deng Yu, Feng Yi, and surrender-settlement sequence, while later Hanji branches track Eastern Han frontier, court, eunuch, outer-relative, and command failures across the Zhangdi, He, An, Shun, Huan, Ling, Dong Zhuo, Cao Cao, Yuan Shao, Jiangdong, and Guandu sequences. Outside Han materials, the Germany anthem, Mayerling, Jefferson, Washington, Mandela, Dutch Revolt, Mussolini World Cup, and other history episodes add historical-memory and geopolitics cases where symbols, legitimacy, infrastructure, and crisis leadership remain source-scoped.
 
 ## Cross-source Findings
+
+### Hundred Years War Origin Links Dynastic Claim And Material Pressure
+
+[[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008|Hundred Years' War Part 1]] opens the war's origin branch as a layered statecraft problem rather than a single succession dispute: [[France]] supplies the wealth and prestige target, [[England]] retains vulnerable continental rights in [[Gascony]] and [[Aquitaine]], [[FrancoScottishAlliance]] pressure and [[HallidonHill]] make [[Scotland]] part of treaty leverage, [[CapetianSuccessionCrisis]] turns [[CapetianDynasty]] failure into [[ValoisDynasty]] accession under [[PhilipVIOfFrance]], and [[EdwardIIIOfEngland]] converts dynastic/legal grievance into [[DynasticClaimNationalMobilization]].
+
+**Evidence:** [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]], [[HundredYearsWar]], [[France]], [[England]], [[Gascony]], [[Aquitaine]], [[FrancoScottishAlliance]], [[HallidonHill]], [[Scotland]], [[CapetianSuccessionCrisis]], [[CapetianDynasty]], [[ValoisDynasty]], [[PhilipVIOfFrance]], [[EdwardIIIOfEngland]], [[DynasticClaimNationalMobilization]], [[FeudalHomageSovereigntyConflict]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Part 1 of a The Rest Is History Hundred Years' War sequence and stops at the 1337 war threshold.
+- Flanders, Brittany, the English longbow, Sluys, Crecy, Poitiers, Calais, and later French recovery are named only as deferred or source-scoped topics.
+- The episode qualifies a simple denied-throne origin story rather than denying that Edward III's claim mattered.
 
 ### Early Eastern Han 676 Letter Exposure And Accession Timing
 

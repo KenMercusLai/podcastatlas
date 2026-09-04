@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1564
+topic_total_pages: 1569
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -100,6 +100,9 @@ topic_concepts:
   - key: "BurningGalleryRoads"
     title: "Burning Gallery Roads / 烧栈道"
     url: "/wiki/concepts/burninggalleryroads/"
+  - key: "CapetianSuccessionCrisis"
+    title: "Capetian Succession Crisis"
+    url: "/wiki/concepts/capetiansuccessioncrisis/"
   - key: "CapturedRulerLegitimacyContainment"
     title: "Captured Ruler Legitimacy Containment / 生俘亡君的合法性钳制"
     url: "/wiki/concepts/capturedrulerlegitimacycontainment/"
@@ -124,6 +127,9 @@ topic_concepts:
   - key: "ChineseAstrologicalPolitics"
     title: "Chinese Astrological Politics / 中国星占政治"
     url: "/wiki/concepts/chineseastrologicalpolitics/"
+  - key: "ChivalricRomanceWarMemory"
+    title: "Chivalric Romance War Memory"
+    url: "/wiki/concepts/chivalricromancewarmemory/"
   - key: "ChivalricTournamentCulture"
     title: "Chivalric Tournament Culture / 骑士比武文化"
     url: "/wiki/concepts/chivalrictournamentculture/"
@@ -250,6 +256,9 @@ topic_concepts:
   - key: "DuyouSword"
     title: "Duyou Sword / 杜邮剑"
     url: "/wiki/concepts/duyousword/"
+  - key: "DynasticClaimNationalMobilization"
+    title: "Dynastic Claim National Mobilization"
+    url: "/wiki/concepts/dynasticclaimnationalmobilization/"
   - key: "DynasticLegitimacyBackfire"
     title: "Dynastic Legitimacy Backfire / 王朝合法性回旋镖"
     url: "/wiki/concepts/dynasticlegitimacybackfire/"
@@ -304,6 +313,9 @@ topic_concepts:
   - key: "FengshanRitualLegitimacy"
     title: "Fengshan Ritual Legitimacy / 封禅礼制合法性"
     url: "/wiki/concepts/fengshanrituallegitimacy/"
+  - key: "FeudalHomageSovereigntyConflict"
+    title: "Feudal Homage Sovereignty Conflict"
+    url: "/wiki/concepts/feudalhomagesovereigntyconflict/"
   - key: "FictionAsHistoricalEvidence"
     title: "Fiction As Historical Evidence"
     url: "/wiki/concepts/fictionashistoricalevidence/"
@@ -3750,6 +3762,9 @@ topic_sources:
   - key: "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138"
     title: "30.孟子：战国愤青的赤子之心"
     url: "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+  - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
+    title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
+    url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"

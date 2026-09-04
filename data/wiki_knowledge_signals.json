@@ -3850,6 +3850,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/apprenticeshipbeforeoriginality/"
     },
+    "Aquitaine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/aquitaine/"
+    },
     "AraceliSegarra": {
       "episode_count": 1,
       "show_count": 1,
@@ -7257,6 +7273,38 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/caperni/"
     },
+    "CapetianDynasty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/capetiandynasty/"
+    },
+    "CapetianSuccessionCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/capetiansuccessioncrisis/"
+    },
     "CapitalizedResearchProcess": {
       "episode_count": 1,
       "show_count": 1,
@@ -8972,6 +9020,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/chitingdefenselatehan/"
+    },
+    "ChivalricRomanceWarMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/chivalricromancewarmemory/"
     },
     "ChocRevive": {
       "episode_count": 1,
@@ -14643,6 +14707,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/dutianaccountabilityeasternhan/"
     },
+    "DynasticClaimNationalMobilization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/dynasticclaimnationalmobilization/"
+    },
     "DynasticHeirLossShock": {
       "episode_count": 1,
       "show_count": 1,
@@ -14825,6 +14905,38 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/edwardheath/"
+    },
+    "EdwardIIIOfEngland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/edwardiiiofengland/"
+    },
+    "EdwardIIOfEngland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/edwardiiofengland/"
     },
     "EgocentricRobotData": {
       "episode_count": 1,
@@ -16914,6 +17026,64 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/enforcementagencydatasharing/"
+    },
+    "England": {
+      "episode_count": 7,
+      "show_count": 2,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "GLT4665799025 [GLT4665799025].md",
+          "key": "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025",
+          "show": "The Rest Is History",
+          "title": "692. Elizabeth I vs The Catholics: A Massacre in Paris (Part 2)",
+          "url": "/wiki/sources/692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025/"
+        },
+        {
+          "episode_file": "GLT5069845329 [GLT5069845329].md",
+          "key": "693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329",
+          "show": "The Rest Is History",
+          "title": "693. Elizabeth I vs The Catholics: England's Greatest Hero (Part 3)",
+          "url": "/wiki/sources/693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329/"
+        },
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT5637968455 [GLT5637968455].md",
+          "key": "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+          "show": "The Rest Is History",
+          "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+          "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+        },
+        {
+          "episode_file": "GLT2334035496 [GLT2334035496].md",
+          "key": "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+          "show": "The Rest Is History",
+          "title": "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)",
+          "url": "/wiki/sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496/"
+        },
+        {
+          "episode_file": "14.武士威廉：大航海时代的日本和西方 [555771285].md",
+          "key": "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285",
+          "show": "蜜獾吃书",
+          "title": "14.武士威廉：大航海时代的日本和西方",
+          "url": "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+        },
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/england/"
     },
     "EnochSontonga": {
       "episode_count": 1,
@@ -19080,6 +19250,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/fertilityenergyavailability/"
     },
+    "FeudalHomageSovereigntyConflict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/feudalhomagesovereigntyconflict/"
+    },
     "FictionAsHistoricalEvidence": {
       "episode_count": 6,
       "show_count": 3,
@@ -20130,6 +20316,92 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/fourthamendmentdigitalprivacy/"
     },
+    "France": {
+      "episode_count": 11,
+      "show_count": 4,
+      "source_note_count": 11,
+      "sources": [
+        {
+          "episode_file": "GLT4665799025 [GLT4665799025].md",
+          "key": "692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025",
+          "show": "The Rest Is History",
+          "title": "692. Elizabeth I vs The Catholics: A Massacre in Paris (Part 2)",
+          "url": "/wiki/sources/692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025/"
+        },
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT5637968455 [GLT5637968455].md",
+          "key": "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+          "show": "The Rest Is History",
+          "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+          "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+        },
+        {
+          "episode_file": "tech_20260724_0724_MP_TECH_pod_128 [tech_20260724_0724_MP_TECH_pod_128].md",
+          "key": "tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "OpenAI model unintentionally hacks another company's system",
+          "url": "/wiki/sources/tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "21.红与黑：他死于真诚 [569042001].md",
+          "key": "21-hong-yu-hei-ta-si-yu-zhencheng-569042001",
+          "show": "蜜獾吃书",
+          "title": "21.红与黑：他死于真诚",
+          "url": "/wiki/sources/21-hong-yu-hei-ta-si-yu-zhencheng-569042001/"
+        },
+        {
+          "episode_file": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义 [815684110].md",
+          "key": "133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110",
+          "show": "蜜獾吃书",
+          "title": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义",
+          "url": "/wiki/sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110/"
+        },
+        {
+          "episode_file": "108.祖与占：爱与不爱，巴黎就在那里（耸肩） [745812905].md",
+          "key": "108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905",
+          "show": "蜜獾吃书",
+          "title": "108.祖与占：爱与不爱，巴黎就在那里（耸肩）",
+          "url": "/wiki/sources/108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905/"
+        },
+        {
+          "episode_file": "Marine warfare： Le Pen runs for president [6a4e1f2781fe1f6460b7117c].md",
+          "key": "marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c",
+          "show": "Economist Podcasts",
+          "title": "Marine warfare: Le Pen runs for president",
+          "url": "/wiki/sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c/"
+        },
+        {
+          "episode_file": "74.全球上瘾：啊，咖啡！我黑色的阿波罗！ [678615763].md",
+          "key": "74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763",
+          "show": "蜜獾吃书",
+          "title": "74.全球上瘾：啊，咖啡！我黑色的阿波罗！",
+          "url": "/wiki/sources/74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763/"
+        },
+        {
+          "episode_file": "Burning questions： a more fire-prone world [6a687ea64207b2a60119df8b].md",
+          "key": "burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b",
+          "show": "Economist Podcasts",
+          "title": "Burning questions: a more fire-prone world",
+          "url": "/wiki/sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b/"
+        },
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/france/"
+    },
     "FrancisWalsingham": {
       "episode_count": 6,
       "show_count": 1,
@@ -20219,6 +20491,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/francoamericanalliance1778/"
+    },
+    "FrancoScottishAlliance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/francoscottishalliance/"
     },
     "FrancoisPienaar": {
       "episode_count": 1,
@@ -21351,6 +21639,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/garyhirschberg/"
+    },
+    "Gascony": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/gascony/"
     },
     "GauravKarna": {
       "episode_count": 1,
@@ -23663,6 +23967,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/hainanairlines/"
+    },
+    "HallidonHill": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/hallidonhill/"
     },
     "HamiltonBurrDuel": {
       "episode_count": 1,
@@ -26367,6 +26687,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/humanoidrobotcommercialization/"
     },
+    "HundredYearsWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/hundredyearswar/"
+    },
     "HuoXuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -27883,6 +28219,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/irreversibledefectionbinding/"
+    },
+    "IsabellaOfFrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/isabellaoffrance/"
     },
     "IsolatedRetailDemandManagement": {
       "episode_count": 1,
@@ -41824,6 +42176,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/philipii/"
     },
+    "PhilipIVOfFrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/philipivoffrance/"
+    },
     "PhilipOfCoburg": {
       "episode_count": 1,
       "show_count": 1,
@@ -41839,6 +42207,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/philipofcoburg/"
+    },
+    "PhilipVIOfFrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/philipvioffrance/"
     },
     "Philippines": {
       "episode_count": 3,
@@ -46194,6 +46578,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/roboticsrevenuepullforward/"
     },
+    "RogerMortimer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/rogermortimer/"
+    },
     "RomanEmpire": {
       "episode_count": 3,
       "show_count": 2,
@@ -47134,9 +47534,9 @@
       "url": "/wiki/concepts/scorchedearthsupplydenial/"
     },
     "Scotland": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2603959218 [GLT2603959218].md",
@@ -47144,9 +47544,16 @@
           "show": "The Rest Is History",
           "title": "678. Britain: God Save the King (Part 2)",
           "url": "/wiki/sources/678-britain-god-save-the-king-part-2-glt2603959218/"
+        },
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-04",
       "url": "/wiki/entities/scotland/"
     },
     "ScottBessent": {
@@ -52368,9 +52775,9 @@
       "url": "/wiki/entities/theodyssey/"
     },
     "TheRestIsHistory": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 1,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -52518,9 +52925,16 @@
           "show": "The Rest Is History",
           "title": "678. Britain: God Save the King (Part 2)",
           "url": "/wiki/sources/678-britain-god-save-the-king-part-2-glt2603959218/"
+        },
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-04",
       "url": "/wiki/entities/therestishistory/"
     },
     "TheTroubles": {
@@ -54542,6 +54956,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/valleyforgemythlogistics/"
+    },
+    "ValoisDynasty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5584156008 [GLT5584156008].md",
+          "key": "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008",
+          "show": "The Rest Is History",
+          "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
+          "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/valoisdynasty/"
     },
     "VectorBorneInfectionEscalation": {
       "episode_count": 1,
