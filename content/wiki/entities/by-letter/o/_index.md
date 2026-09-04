@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 8906
+wiki_total_pages: 8914
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "OlinFoundation"
     title: "Olin Foundation"
     url: "/wiki/entities/olinfoundation/"
+  - key: "Olipop"
+    title: "Olipop"
+    url: "/wiki/entities/olipop/"
   - key: "OliveYoung"
     title: "OLIVE YOUNG / 올리브영"
     url: "/wiki/entities/oliveyoung/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8906
+wiki_total_pages: 8914
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "DARPA"
     title: "DARPA"
     url: "/wiki/entities/darpa/"
+  - key: "DarrenAlpert"
+    title: "Darren Alpert"
+    url: "/wiki/entities/darrenalpert/"
   - key: "DarylFairweather"
     title: "Daryl Fairweather"
     url: "/wiki/entities/darylfairweather/"

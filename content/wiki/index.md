@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Ben Goodwin of Olipop](sources/advice-line-with-ben-goodwin-of-olipop-f9d3fe17-eb2c-440d-b223-990fed970727.md) — How I Built This Advice Line episode using Olipop, Gheelish, Sarah's Gluten-Free Goods, and Bexley Natural Market to show how taste, trust, capacity, curation, and in-store experience shape food and retail growth.
 - [Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982.md) — Huberman Lab Essentials episode with Gina Poe on sleep stages, early slow-wave restoration, spindles, REM-rich creativity, alcohol-related sleep disruption, and emotional memory processing.
 - [What if the AI boom never turns a profit?](sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128.md) — Marketplace Tech episode using Akron's rubber decline and radial tires as a public-finance analogy for AI labor displacement, labor-tax revenue risk, token taxes, AI equity funds, and corporate-profit tax alternatives.
 - [Ire and ICE: the toll of America's deportations](sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9.md) — The Intelligence episode on Trump's quieter but systematic deportation campaign, Reddit's AI-search and data-licensing exposure, and the Bayeux Tapestry's first exhibition outside France.
@@ -1910,6 +1911,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Ben Goodwin](entities/BenGoodwin.md) — Olipop co-founder and Advice Line guest focused on taste-led CPG positioning, mission standards, and founder instinct.
+- [Bexley Natural Market](entities/BexleyNaturalMarket.md) — Central Ohio cooperative grocery store used as a case for community curation and in-store retail recovery.
+- [Darren Alpert](entities/DarrenAlpert.md) — Gheelish founder and CEO whose caller question centers on educating shoppers about ghee.
+- [Gheelish](entities/Gheelish.md) — Organic ghee-based snack brand advised to lead with taste and simple comparative nutrition before deeper ingredient education.
+- [John Groner](entities/JohnGroner.md) — Retired pediatric trauma surgeon and Bexley Natural Market board member seeking a co-op sales turnaround.
+- [Olipop](entities/Olipop.md) — Prebiotic soda company co-founded by Ben Goodwin and used as the mature CPG reference point in the episode.
+- [Sarah Godfrey](entities/SarahGodfrey.md) — Founder and operator of Sarah's Gluten-Free Goods, a fresh allergy-friendly bakery.
+- [Sarah's Gluten-Free Goods](entities/SarahsGlutenFreeGoods.md) — Westfield bakery case on fresh, allergy-safe production, perishability, and scale timing.
 - [Gina Poe](entities/GinaPoe.md) — Sleep neuroscientist and Huberman Lab guest explaining non-REM/REM sleep, memory transfer, slow-wave restoration, and REM emotional memory processing.
 - [Akron, Ohio](entities/AkronOhio.md) — Former rubber-industry center used by Marketplace Tech as a historical warning for AI-era labor and tax disruption.
 - [Barberton, Ohio](entities/BarbertonOhio.md) — Akron-area city whose 1980 factory closure gives the episode its concrete local income-tax loss example.
@@ -10820,6 +10829,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Community Grocery Curation](concepts/CommunityGroceryCuration.md) — Local grocery strategy based on trusted assortment, vendor stories, events, and in-store experience rather than online ordering alone.
+- [Fresh Allergy-Safe Production Scaling](concepts/FreshAllergySafeProductionScaling.md) — Scaling problem for fresh food businesses whose trust depends on allergy control, perishability, and founder capacity.
+- [Front-Pack Conversion Education](concepts/FrontPackConversionEducation.md) — CPG messaging discipline of putting the fastest purchase reason on the package front while moving deeper education to secondary surfaces.
 - [Sleep Stage Functional Architecture](concepts/SleepStageFunctionalArchitecture.md) — Sleep-stage frame distinguishing stage one/two, slow-wave non-REM, and REM as timed brain states with different memory, restoration, creativity, and emotion functions.
 - [Slow-Wave Sleep Restoration](concepts/SlowWaveSleepRestoration.md) — Early-night deep-sleep frame tying slow waves to growth hormone pulses, energy rebuilding, and brain cleanup under circadian regularity constraints.
 - [Sleep Spindle Schema Formation](concepts/SleepSpindleSchemaFormation.md) — Stage-two/REM rhythm frame linking spindles and P-waves to hippocampal-cortical transfer, schema integration, insight, and creative association.

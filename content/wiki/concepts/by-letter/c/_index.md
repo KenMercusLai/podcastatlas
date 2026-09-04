@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6341
+wiki_total_pages: 6344
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1070,6 +1070,9 @@ wiki_pages:
   - key: "CommunityFireflyProtection"
     title: "Community Firefly Protection / 社区萤火虫保护"
     url: "/wiki/concepts/communityfireflyprotection/"
+  - key: "CommunityGroceryCuration"
+    title: "Community Grocery Curation"
+    url: "/wiki/concepts/communitygrocerycuration/"
   - key: "CommunityGroupBuying"
     title: "Community Group Buying"
     url: "/wiki/concepts/communitygroupbuying/"

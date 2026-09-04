@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8906
+wiki_total_pages: 8914
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "Ghana"
     title: "Ghana"
     url: "/wiki/entities/ghana/"
+  - key: "Gheelish"
+    title: "Gheelish"
+    url: "/wiki/entities/gheelish/"
   - key: "Ghezo"
     title: "Ghezo"
     url: "/wiki/entities/ghezo/"

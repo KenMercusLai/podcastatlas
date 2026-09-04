@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8906
+wiki_total_pages: 8914
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "SarahBond"
     title: "Sarah Bond"
     url: "/wiki/entities/sarahbond/"
+  - key: "SarahGodfrey"
+    title: "Sarah Godfrey"
+    url: "/wiki/entities/sarahgodfrey/"
   - key: "SarahGonzalez"
     title: "Sarah Gonzalez"
     url: "/wiki/entities/sarahgonzalez/"
@@ -194,6 +197,9 @@ wiki_pages:
   - key: "SarahWu"
     title: "Sarah Wu"
     url: "/wiki/entities/sarahwu/"
+  - key: "SarahsGlutenFreeGoods"
+    title: "Sarah's Gluten-Free Goods"
+    url: "/wiki/entities/sarahsglutenfreegoods/"
   - key: "Saronic"
     title: "Saronic"
     url: "/wiki/entities/saronic/"

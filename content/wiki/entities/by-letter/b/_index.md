@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8906
+wiki_total_pages: 8914
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "BenGoldhersh"
     title: "Ben Goldhersh"
     url: "/wiki/entities/bengoldhersh/"
+  - key: "BenGoodwin"
+    title: "Ben Goodwin"
+    url: "/wiki/entities/bengoodwin/"
   - key: "BenHo"
     title: "Ben Ho"
     url: "/wiki/entities/benho/"
@@ -368,6 +371,9 @@ wiki_pages:
   - key: "BetyeSaar"
     title: "Betye Saar"
     url: "/wiki/entities/betyesaar/"
+  - key: "BexleyNaturalMarket"
+    title: "Bexley Natural Market"
+    url: "/wiki/entities/bexleynaturalmarket/"
   - key: "BezalelSmotrich"
     title: "Bezalel Smotrich"
     url: "/wiki/entities/bezalelsmotrich/"

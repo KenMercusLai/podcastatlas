@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6341
+wiki_total_pages: 6344
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -932,6 +932,9 @@ wiki_pages:
   - key: "FrenchNewWave"
     title: "French New Wave / 法国新浪潮"
     url: "/wiki/concepts/frenchnewwave/"
+  - key: "FreshAllergySafeProductionScaling"
+    title: "Fresh Allergy-Safe Production Scaling"
+    url: "/wiki/concepts/freshallergysafeproductionscaling/"
   - key: "FreshGroceryEcommerceEconomics"
     title: "Fresh Grocery Ecommerce Economics"
     url: "/wiki/concepts/freshgroceryecommerceeconomics/"
@@ -944,6 +947,9 @@ wiki_pages:
   - key: "FriendshipRecession"
     title: "Friendship Recession"
     url: "/wiki/concepts/friendshiprecession/"
+  - key: "FrontPackConversionEducation"
+    title: "Front-Pack Conversion Education"
+    url: "/wiki/concepts/frontpackconversioneducation/"
   - key: "FrontierAuxiliarySupplyFailure"
     title: "Frontier Auxiliary Supply Failure / 边兵粮饷供应失灵"
     url: "/wiki/concepts/frontierauxiliarysupplyfailure/"

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "bbd5e6d47ffaf9e15def4ddeaa6f6359f6c57d41376e95f87ccd6de1dbc7f8cc",
       "ae557f78a61d58798881300f18c4d8683c84fdbca337483e8ee005e4416f040c",
       "65098e1cbbc6346226cc708e540c9775f8258bbfc62c6bb6c5292f94a819abd6",
       "6b56a605b7dd7a7bbe918d1f773f206df83bc522bd244f034c92ad0684dfc297",
@@ -527,11 +528,45 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 525
+    "paragraph_count": 526
   },
-  "overview_commit": "94a92b6962b6096c3cb593d295889f5236eff9ed",
-  "overview_digest": "53fdb40b4e699784f4ea10d1fea00b38513ce5d83e3bbc1e6be1799df9b1a608",
+  "overview_commit": "62b6ff64aa4368147e89e937c921fe97ef82f9d6",
+  "overview_digest": "4f686348cb87896e65d7db6927bd2916b7b4851cb62c67d744bed95de1f3584d",
   "paragraphs": [
+    {
+      "id": "bbd5e6d47ffaf9e15def4ddeaa6f6359f6c57d41376e95f87ccd6de1dbc7f8cc",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[advice-line-with-ben-goodwin-of-olipop-f9d3fe17-eb2c-440d-b223-990fed970727|Advice Line with Ben Goodwin of Olipop]], a [[HowIBuiltThis]] Advice Line episode where [[GuyRaz]] and [[BenGoodwin]] advise [[DarrenAlpert]] of [[Gheelish]], [[SarahGodfrey]] of [[SarahsGlutenFreeGoods]], and [[JohnGroner]] of [[BexleyNaturalMarket]]. It adds [[BenGoodwin]], [[Olipop]], [[Gheelish]], [[DarrenAlpert]], [[SarahGodfrey]], [[SarahsGlutenFreeGoods]], [[BexleyNaturalMarket]], [[JohnGroner]], [[FrontPackConversionEducation]], [[FreshAllergySafeProductionScaling]], and [[CommunityGroceryCuration]], while extending [[TasteFirstCPGPositioning]], [[MissionDrivenCustomerEducation]], [[CPGManufacturingScaleUp]], [[ExperientialRetail]], [[FreshGroceryEcommerceEconomics]], [[FounderInstinct]], and [[FounderRiskCalibration]]. Its core synthesis is that early food and retail growth works best when deep mission or ingredient education follows a fast purchase reason: taste, comparative nutrition, trusted freshness, safe operations, local curation, in-store events, and founder/customer proximity. No settled contradiction is recorded; Olipop valuation/revenue targets, blood-sugar research details, Gheelish sales and store counts, Sarah's permit/commercial-kitchen constraints, Bexley sales recovery, and liability/financing details remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 4,
+        "governance-and-institutions": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BenGoodwin",
+        "BexleyNaturalMarket",
+        "CPGManufacturingScaleUp",
+        "CommunityGroceryCuration",
+        "DarrenAlpert",
+        "ExperientialRetail",
+        "FounderInstinct",
+        "FounderRiskCalibration",
+        "FreshAllergySafeProductionScaling",
+        "FreshGroceryEcommerceEconomics",
+        "FrontPackConversionEducation",
+        "Gheelish",
+        "GuyRaz",
+        "HowIBuiltThis",
+        "JohnGroner",
+        "MissionDrivenCustomerEducation",
+        "Olipop",
+        "SarahGodfrey",
+        "SarahsGlutenFreeGoods",
+        "TasteFirstCPGPositioning",
+        "advice-line-with-ben-goodwin-of-olipop-f9d3fe17-eb2c-440d-b223-990fed970727"
+      ]
+    },
     {
       "id": "ae557f78a61d58798881300f18c4d8683c84fdbca337483e8ee005e4416f040c",
       "primary_topic": "business-and-markets",

@@ -15236,6 +15236,10 @@ Ingested the 2026-09-03 The Intelligence episode on Donald Trump's quieter but s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-05] ingest | Advice Line with Ben Goodwin of Olipop
+
+Ingested the 2026-09-03 How I Built This Advice Line episode with Ben Goodwin of Olipop advising Gheelish, Sarah's Gluten-Free Goods, and Bexley Natural Market on food and retail growth. Added source `advice-line-with-ben-goodwin-of-olipop-f9d3fe17-eb2c-440d-b223-990fed970727`; created `BenGoodwin`, `Olipop`, `Gheelish`, `DarrenAlpert`, `SarahsGlutenFreeGoods`, `SarahGodfrey`, `BexleyNaturalMarket`, `JohnGroner`, `FrontPackConversionEducation`, `FreshAllergySafeProductionScaling`, and `CommunityGroceryCuration`; updated `TasteFirstCPGPositioning`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Olipop valuation/revenue targets, blood-sugar research details, Gheelish sales and store counts, Sarah's permit/commercial-kitchen constraints, Bexley sales recovery, and liability/financing details remain source-scoped.
+
 ## [2026-09-05] ingest | Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe
 
 Ingested the 2026-09-03 Huberman Lab Essentials episode with Gina Poe on sleep-stage architecture, early slow-wave restoration, spindles, REM-rich creativity, alcohol-related REM suppression, and emotional-memory processing. Added source `essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982`; created `GinaPoe`, `SleepStageFunctionalArchitecture`, `SlowWaveSleepRestoration`, `SleepSpindleSchemaFormation`, and `REMEmotionalMemorySeparation`; updated `SleepAsDailyHealthAccount`, `SleepWakeTimingToolkit`, `MemoryConsolidationWindows`, `SubstanceSleepArchitectureBoundary`, `TraumaNarrativeIntegration`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source-local Gina Po/Poe spelling, tracker accuracy, growth-hormone, spindle-density, REM creativity, and REM trauma-processing claims remain source-scoped public education rather than individualized sleep medicine or PTSD treatment.
@@ -15243,6 +15247,10 @@ Ingested the 2026-09-03 Huberman Lab Essentials episode with Gina Poe on sleep-s
 ## [2026-09-05] ingest | What if the AI boom never turns a profit?
 
 Ingested the 2026-09-03 Marketplace Tech episode using Akron's rubber-industry decline and Barberton's 1980 factory closure as a historical analogy for AI labor-tax-base erosion. Added source `tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128`; created `AkronOhio`, `BarbertonOhio`, `DavidGiffels`, `LeeLockwood`, `BruceSchneier`, `JosephStiglitz`, `LaborTaxBaseAIErosion`, `TechnologicalInnovationLocalFiscalShock`, `AIProfitTaxSubstitution`, and `AIProfitabilityUncertainty`; updated `DavidBrancaccio`, `TokenTaxOnAI`, `AIPublicOwnershipProposal`, `AIAutomationRedistribution`, `index`, and `overview`. No settled contradiction found; the token-tax term now carries both direct-usage-tax and policy-cost-wedge meanings, while AI revenue-loss, profitability, and corporate-profit offset claims remain source-scoped.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-05] lint | Wiki health check
 
