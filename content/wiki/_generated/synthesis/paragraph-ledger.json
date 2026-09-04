@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1af54047bc7a15f503195fa18b036f2fb591f1bbf827388955d23fd8207cc5fc",
       "3d04d9a6a403b52fc52e87c9c6886bde68e1686c722a32f2cec58cf0d0e276ab",
       "ff4d9c3325739e6d49cb70e26df11cd60e311afe4f50bf5983b81a7e3852f6e4",
       "35a932c6a3e74d7ecd6993183b89341d6e0305e56a43657b29dd9ed38aadfef5",
@@ -532,11 +533,32 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 530
+    "paragraph_count": 531
   },
-  "overview_commit": "d2504fe0a63be3035e6e319575b2d840d1bf3f43",
-  "overview_digest": "999b293696def8c2f0525354f62f8ca0fe26a86dd639077c08628e7372e663d1",
+  "overview_commit": "35d789dc118099485ca95a04d598dc35c541a652",
+  "overview_digest": "b6fc6108b8600278a7569eca3f7c2a30d7a4e3daab406354e0b68baded8e51a9",
   "paragraphs": [
+    {
+      "id": "1af54047bc7a15f503195fa18b036f2fb591f1bbf827388955d23fd8207cc5fc",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The Nvidia supplier-financing debate is now sharper: [[SupplierFinancing|normal vendor credit]], strategic ecosystem investment, and [[AICircularInfrastructureFinancing|circular AI infrastructure finance]] have to be separated by evidence of independent demand. [[vol-273-yingweida-ze-jianji-tianxia-1010956114]] adds [[LucentTechnologies|Lucent]] and [[GECapital|GE Capital]] as historical comparison cases, making [[GPUComputeAssetBackedFinancing|GPU depreciation and residual resale value]], purchase backstops, credit guarantees, and [[CoreWeave]]/[[LambdaLabs|Lambda Labs]] capacity leases the central tests for whether Nvidia is financing productive compute or pulling demand forward.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AICircularInfrastructureFinancing",
+        "CoreWeave",
+        "GECapital",
+        "GPUComputeAssetBackedFinancing",
+        "LambdaLabs",
+        "LucentTechnologies",
+        "SupplierFinancing",
+        "vol-273-yingweida-ze-jianji-tianxia-1010956114"
+      ]
+    },
     {
       "id": "3d04d9a6a403b52fc52e87c9c6886bde68e1686c722a32f2cec58cf0d0e276ab",
       "primary_topic": "ai-and-technology",

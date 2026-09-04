@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.273 英伟达则兼济天下？](sources/vol-273-yingweida-ze-jianji-tianxia-1010956114.md) — 商业就是这样 episode on Nvidia supplier financing, AI circular infrastructure risk, CoreWeave, Lambda Labs, Lucent, and GE Capital analogies.
 - [戴森进入电动牙刷领域，传统金店加盟持续收缩](sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825.md) — 声动早咖啡 episode on Dyson's CameraJet oral-care bet, GoPro's optical-asset deal, Zhipu AI's API-led revenue mix, World Labs' Atlus model, NIO, Sushiro, CDs, gold jewelry, and IKEA price cuts.
 - [153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”](sources/153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p.md) — 张小珺Jùn｜商业访谈录 episode with 曾鸣 on AI industrialization stages, agent entry points, model companies as AI infrastructure, intelligence flywheels, task-based AI-native organization, and strategic generation.
 - [Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等](sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1.md) — 枫言枫语 episode on Apple succession, Claude 5.1 quota trust, GLM 5.3 Flash routing, Codex workflows, AI infrastructure, Hugging Face acquisition risk, AI media labels, World Labs, and robots.
@@ -1915,6 +1916,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Lambda Labs](entities/LambdaLabs.md) — Nvidia-backed AI GPU cloud example used in the supplier-financing debate.
+- [GE Capital](entities/GECapital.md) — General Electric finance arm used as a supplier-finance and overextension comparison case.
+- [Lucent Technologies](entities/LucentTechnologies.md) — telecom vendor-finance failure case used to distinguish ordinary supplier finance from channel stuffing.
 - [Dyson / 戴森](entities/Dyson.md) — Premium consumer-hardware company entering smart oral care through CameraJet.
 - [CameraJet](entities/CameraJet.md) — Dyson electric toothbrush combining brushing, water flossing, camera inspection, and app feedback.
 - [Storm & Optical](entities/StormOptical.md) — Optical-module company reported as GoPro's USD 285 million cash-deal counterparty.
@@ -10849,6 +10853,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Supplier Financing](concepts/SupplierFinancing.md) — Vendor credit, guarantees, leases, or purchase support used to help customers buy the supplier's products.
 - [Smart Oral Care](concepts/SmartOralCare.md) — Sensor-rich oral-care category using cameras, app feedback, and integrated brushing/flossing.
 - [AI API Revenue Model](concepts/AIAPIRevenueModel.md) — Model-provider commercialization pattern based on standardized API usage revenue.
 - [Physical Music Media Revival](concepts/PhysicalMusicMediaRevival.md) — Renewed consumer interest in CDs, vinyl, and tangible music listening experiences.

@@ -15291,3 +15291,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-05] ingest | Vol.273 英伟达则兼济天下？
+
+Ingested the 2026-09-02 商业就是这样 episode on Nvidia supplier financing, AI circular infrastructure financing, CoreWeave, Lambda Labs, Lucent, and GE Capital. Added source `vol-273-yingweida-ze-jianji-tianxia-1010956114`; created `SupplierFinancing`, `LucentTechnologies`, `GECapital`, and `LambdaLabs`; updated `CoreWeave`, `GPUComputeAssetBackedFinancing`, `AICircularInfrastructureFinancing`, `AIComputePriceRisk`, `index`, and `overview`. No settled contradiction found; financing commitments, credit guarantees, residual-value estimates, depreciation arguments, and accounting signals remain source-scoped.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

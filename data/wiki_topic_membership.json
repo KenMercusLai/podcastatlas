@@ -25180,6 +25180,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "GECapital": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "GENIUSAct": [
     {
       "key": "politics",
@@ -35299,6 +35306,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "LambdaLabs": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "LanXangKingdom": [
@@ -58370,6 +58384,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "SupplierFinancing": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "SupplyChainSovereignty": [
     {
       "key": "technology",
@@ -74820,6 +74846,18 @@
     }
   ],
   "vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "vol-273-yingweida-ze-jianji-tianxia-1010956114": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
     {
       "key": "economics",
       "label": "Economics",

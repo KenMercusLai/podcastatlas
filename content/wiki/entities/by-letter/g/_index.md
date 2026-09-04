@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8930
+wiki_total_pages: 8933
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "Gaza"
     title: "Gaza"
     url: "/wiki/entities/gaza/"
+  - key: "GECapital"
+    title: "GE Capital"
+    url: "/wiki/entities/gecapital/"
   - key: "GeHong"
     title: "Ge Hong / 葛洪"
     url: "/wiki/entities/gehong/"

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1921
+topic_total_pages: 1924
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -2557,6 +2557,9 @@ topic_concepts:
   - key: "SupersonicRegulatorySpeedLimit"
     title: "Supersonic Regulatory Speed Limit"
     url: "/wiki/concepts/supersonicregulatoryspeedlimit/"
+  - key: "SupplierFinancing"
+    title: "Supplier Financing"
+    url: "/wiki/concepts/supplierfinancing/"
   - key: "SupplyChainSovereignty"
     title: "Supply Chain Sovereignty"
     url: "/wiki/concepts/supplychainsovereignty/"
@@ -3542,6 +3545,9 @@ topic_entities:
   - key: "GauravKarna"
     title: "Gaurav Karna"
     url: "/wiki/entities/gauravkarna/"
+  - key: "GECapital"
+    title: "GE Capital"
+    url: "/wiki/entities/gecapital/"
   - key: "GECAS"
     title: "GECAS"
     url: "/wiki/entities/gecas/"
@@ -5682,6 +5688,9 @@ topic_sources:
   - key: "vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119"
     title: "Vol.269 小历史 | “不要怕，是技术性调整”"
     url: "/wiki/sources/vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119/"
+  - key: "vol-273-yingweida-ze-jianji-tianxia-1010956114"
+    title: "Vol.273 英伟达则兼济天下？"
+    url: "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
   - key: "wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744"
     title: "Wake-up haul: an Ozempic moment for the brain"
     url: "/wiki/sources/wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744/"

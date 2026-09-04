@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8930
+wiki_total_pages: 8933
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "LamarHunt"
     title: "Lamar Hunt"
     url: "/wiki/entities/lamarhunt/"
+  - key: "LambdaLabs"
+    title: "Lambda Labs"
+    url: "/wiki/entities/lambdalabs/"
   - key: "LanShili"
     title: "Lan Shili / 兰世立"
     url: "/wiki/entities/lanshili/"
@@ -620,6 +623,9 @@ wiki_pages:
   - key: "Lucasfilm"
     title: "Lucasfilm"
     url: "/wiki/entities/lucasfilm/"
+  - key: "LucentTechnologies"
+    title: "Lucent Technologies"
+    url: "/wiki/entities/lucenttechnologies/"
   - key: "LuciusCorneliusSulla"
     title: "Lucius Cornelius Sulla / 苏拉"
     url: "/wiki/entities/luciuscorneliussulla/"

@@ -694,9 +694,9 @@
       "url": "/wiki/concepts/aichipspecialization/"
     },
     "AICircularInfrastructureFinancing": {
-      "episode_count": 6,
-      "show_count": 6,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 7,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -739,9 +739,16 @@
           "show": "Economist Podcasts",
           "title": "Bargaining chips: Nvidia is the bank of AI",
           "url": "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
+        },
+        {
+          "episode_file": "Vol.273 英伟达则兼济天下？ [1010956114].md",
+          "key": "vol-273-yingweida-ze-jianji-tianxia-1010956114",
+          "show": "商业就是这样",
+          "title": "Vol.273 英伟达则兼济天下？",
+          "url": "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/aicircularinfrastructurefinancing/"
     },
     "AIClinicalValidationInDrugDiscovery": {
@@ -1050,6 +1057,29 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/aicompetitionantitrustremedy/"
+    },
+    "AIComputePriceRisk": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI [42362555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555/"
+        },
+        {
+          "episode_file": "Vol.273 英伟达则兼济天下？ [1010956114].md",
+          "key": "vol-273-yingweida-ze-jianji-tianxia-1010956114",
+          "show": "商业就是这样",
+          "title": "Vol.273 英伟达则兼济天下？",
+          "url": "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/aicomputepricerisk/"
     },
     "AIContentLabelingAndFiltering": {
       "episode_count": 1,
@@ -11410,6 +11440,43 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/corebeforeperipherystrategy/"
+    },
+    "CoreWeave": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Future of Everything： What CEOs of Circle, CrowdStrike & More See Coming in 2026 [39870920].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920/"
+        },
+        {
+          "episode_file": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？｜ S10E12 [7af0955b-e3b5-4b40-9ccf-90ec061bbf52].md",
+          "key": "7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52",
+          "show": "What's Next｜科技早知道",
+          "title": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？ | S10E12",
+          "url": "/wiki/sources/7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52/"
+        },
+        {
+          "episode_file": "Vol.273 英伟达则兼济天下？ [1010956114].md",
+          "key": "vol-273-yingweida-ze-jianji-tianxia-1010956114",
+          "show": "商业就是这样",
+          "title": "Vol.273 英伟达则兼济天下？",
+          "url": "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/coreweave/"
     },
     "CoronaryArteryCalciumMidlifeScreening": {
       "episode_count": 1,
@@ -22623,6 +22690,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/fuyoutiandi/"
     },
+    "GECapital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol.273 英伟达则兼济天下？ [1010956114].md",
+          "key": "vol-273-yingweida-ze-jianji-tianxia-1010956114",
+          "show": "商业就是这样",
+          "title": "Vol.273 英伟达则兼济天下？",
+          "url": "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/gecapital/"
+    },
     "GLM52": {
       "episode_count": 4,
       "show_count": 4,
@@ -22763,9 +22846,9 @@
       "url": "/wiki/concepts/glp1agonists/"
     },
     "GPUComputeAssetBackedFinancing": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -22780,9 +22863,16 @@
           "show": "Economist Podcasts",
           "title": "Bargaining chips: Nvidia is the bank of AI",
           "url": "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
+        },
+        {
+          "episode_file": "Vol.273 英伟达则兼济天下？ [1010956114].md",
+          "key": "vol-273-yingweida-ze-jianji-tianxia-1010956114",
+          "show": "商业就是这样",
+          "title": "Vol.273 英伟达则兼济天下？",
+          "url": "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/gpucomputeassetbackedfinancing/"
     },
     "GPUSpotMarketTrustFriction": {
@@ -32460,6 +32550,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/laixieasternhan/"
     },
+    "LambdaLabs": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol.273 英伟达则兼济天下？ [1010956114].md",
+          "key": "vol-273-yingweida-ze-jianji-tianxia-1010956114",
+          "show": "商业就是这样",
+          "title": "Vol.273 英伟达则兼济天下？",
+          "url": "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/lambdalabs/"
+    },
     "LaneGreen": {
       "episode_count": 1,
       "show_count": 1,
@@ -37121,6 +37227,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/luzhilatehan/"
+    },
+    "LucentTechnologies": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol.273 英伟达则兼济天下？ [1010956114].md",
+          "key": "vol-273-yingweida-ze-jianji-tianxia-1010956114",
+          "show": "商业就是这样",
+          "title": "Vol.273 英伟达则兼济天下？",
+          "url": "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/lucenttechnologies/"
     },
     "LuciusCorneliusSulla": {
       "episode_count": 3,
@@ -54941,6 +55063,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/supiregime/"
+    },
+    "SupplierFinancing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol.273 英伟达则兼济天下？ [1010956114].md",
+          "key": "vol-273-yingweida-ze-jianji-tianxia-1010956114",
+          "show": "商业就是这样",
+          "title": "Vol.273 英伟达则兼济天下？",
+          "url": "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/supplierfinancing/"
     },
     "SupplyDepotDecisiveStrike": {
       "episode_count": 2,

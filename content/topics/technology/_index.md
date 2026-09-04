@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2709
+topic_total_pages: 2712
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3385,6 +3385,9 @@ topic_concepts:
   - key: "SupervisedFineTuning"
     title: "Supervised Fine-Tuning / SFT"
     url: "/wiki/concepts/supervisedfinetuning/"
+  - key: "SupplierFinancing"
+    title: "Supplier Financing"
+    url: "/wiki/concepts/supplierfinancing/"
   - key: "SupplyChainSovereignty"
     title: "Supply Chain Sovereignty"
     url: "/wiki/concepts/supplychainsovereignty/"
@@ -5165,6 +5168,9 @@ topic_entities:
   - key: "LamaVentures"
     title: "Lama Ventures"
     url: "/wiki/entities/lamaventures/"
+  - key: "LambdaLabs"
+    title: "Lambda Labs"
+    url: "/wiki/entities/lambdalabs/"
   - key: "Laos"
     title: "Laos / 老挝"
     url: "/wiki/entities/laos/"
@@ -7902,6 +7908,9 @@ topic_sources:
   - key: "vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591"
     title: "Vol.265 跨越50年的美国版本之子"
     url: "/wiki/sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591/"
+  - key: "vol-273-yingweida-ze-jianji-tianxia-1010956114"
+    title: "Vol.273 英伟达则兼济天下？"
+    url: "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
   - key: "tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128"
     title: "Welcome to the 'infocalypse'"
     url: "/wiki/sources/tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128/"
