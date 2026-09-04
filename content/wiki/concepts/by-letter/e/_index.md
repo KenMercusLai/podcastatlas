@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6387
+wiki_total_pages: 6395
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "EmotionalGranularity"
     title: "Emotional Granularity"
     url: "/wiki/concepts/emotionalgranularity/"
+  - key: "EmotionalHealthLongevity"
+    title: "Emotional Health Longevity"
+    url: "/wiki/concepts/emotionalhealthlongevity/"
   - key: "EmotionalInteractionModels"
     title: "Emotional Interaction Models"
     url: "/wiki/concepts/emotionalinteractionmodels/"
@@ -716,6 +719,9 @@ wiki_pages:
   - key: "ExerciseMedicalAestheticBoundary"
     title: "Exercise Medical-Aesthetic Boundary / 运动医美边界"
     url: "/wiki/concepts/exercisemedicalaestheticboundary/"
+  - key: "ExercisePillarsForLongevity"
+    title: "Exercise Pillars For Longevity"
+    url: "/wiki/concepts/exercisepillarsforlongevity/"
   - key: "ExerciseSelfMasteryForProcrastination"
     title: "Exercise Self-Mastery For Procrastination"
     url: "/wiki/concepts/exerciseselfmasteryforprocrastination/"

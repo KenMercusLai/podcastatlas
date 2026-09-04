@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia](sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956.md) — Huberman Lab episode with Peter Attia on healthspan, ApoB, blood pressure, cancer screening, dementia risk, exercise pillars, deaths of despair, and emotional health.
 - [VOL.31泌尿外科｜关于尿频、尿液黄、结石、男性前列腺的那些谣言及误区](sources/vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y.md) — 这病说来话长 episode with 赵医生 on male urinary-health misconceptions, urinary frequency and urine color, PSA interpretation, kidney stones, renal findings, foreskin hygiene, foreign-body emergencies, and when symptoms need regular clinical care.
 - [VOL.32麻醉科｜你做过手术吗？你经历过麻醉吗？关于手术前麻醉的误解和禁忌｜附患者采访录音](sources/vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn.md) — 这病说来话长 episode with 董心彤 from 深圳市人民医院 on preoperative anesthesia assessment, anesthesia clinics, post-COVID timing, airway and aspiration risk, medication handling, infection tests, blood pressure, monitoring reliability, transfusion planning, and fasting.
 - [315: Atlantis: Legacy of the Lost Empire (Part 2)](sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945.md) — The Rest Is History episode on Atlantis from Plato through Renaissance and colonial speculation, Donnelly, nationalist and esoteric appropriations, Santorini, Graham Hancock, and lost-civilization pseudohistory.
@@ -1922,6 +1923,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Peter Attia](entities/PeterAttia.md) — Physician and longevity author featured in Huberman Lab on healthspan, prevention, exercise capacity, and emotional health.
 - [赵医生 / Doctor Zhao (Urology)](entities/ZhaoDoctorUrology.md) — Source-scoped urology guest in VOL.31 explaining male urinary symptoms, prostate screening interpretation, renal findings, hygiene, and when self-care should become clinical care.
 - [Atlantis](entities/Atlantis.md) — Mythic island tracked from Plato's warning story into modern reception, pseudohistory, nationalism, esotericism, Santorini theories, and advanced lost-civilization claims.
 - [Graham Hancock](entities/GrahamHancock.md) — Modern popularizer of advanced lost-civilization claims treated by the Atlantis episode as culturally powerful but archaeologically unsupported.
@@ -7390,7 +7392,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Williams Gallery](entities/AdamWilliamsGallery.md) — Gallery used as a dealer-side observation point for renewed Old Masters demand.
 - [Patrick Williams](entities/PatrickWilliams.md) — Adam Williams Gallery speaker describing new and younger Old Masters buyers.
 - [Eight Sleep / 8Sleep](entities/EightSleep.md) — Sponsor-linked smart-bed product in the 面基 episode, used as a sleep temperature-monitoring and intervention example.
-- [超越百岁 / Outlive](entities/Outlive.md) — Longevity book cited for muscle as a reserve and strength training as retirement-saving-like preparation.
+- [超越百岁 / Outlive](entities/Outlive.md) — Peter Attia longevity book used in the wiki for muscle reserve, healthspan domains, prevention, exercise capacity, and emotional health.
 - [我们为什么要睡觉 / Why We Sleep](entities/WhyWeSleep.md) — Sleep book cited for the bedroom-temperature point inside the episode's sleep-account frame.
 - [Heirloom Carbon Technologies](entities/HeirloomCarbonTechnologies.md) — Direct-air-capture company profiled through its limestone-loop process, Tracy facility, planned Louisiana project, and corporate carbon-removal customers.
 - [Carbon180](entities/Carbon180.md) — Carbon-removal policy organization used by Marketplace Tech to explain federal funding cuts, protected DAC hubs, and bipartisan state-level support.
@@ -10871,6 +10873,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Healthspan Three Domains](concepts/HealthspanThreeDomains.md) — Longevity frame distinguishing physical, cognitive, and emotional healthspan from lifespan alone.
+- [ApoB Particle Burden](concepts/ApoBParticleBurden.md) — Cardiovascular-risk frame treating ApoB-containing particle count as the causal lipid burden to manage.
+- [Atherosclerosis Prevention Targets](concepts/AtherosclerosisPreventionTargets.md) — Prevention frame prioritizing ApoB, blood pressure, and inhaled irritant exposure before cardiovascular disease becomes symptomatic.
+- [Cancer Screening Burden Tradeoff](concepts/CancerScreeningBurdenTradeoff.md) — Early-detection frame balancing cancer-screening sensitivity against false positives, unnecessary procedures, and radiation burden.
+- [Neurodegenerative Risk Levers](concepts/NeurodegenerativeRiskLevers.md) — Dementia-risk frame combining genetic, lipid, metabolic, sleep, exercise, and head-injury levers under uncertainty.
+- [Exercise Pillars For Longevity](concepts/ExercisePillarsForLongevity.md) — Physical-healthspan frame combining strength, stability, aerobic efficiency, aerobic peak output, and power.
+- [Emotional Health Longevity](concepts/EmotionalHealthLongevity.md) — Emotional-healthspan frame tying connection, purpose, presence, therapy, self-talk, and relationship repair to longevity.
+- [Deaths Of Despair Counterfeit Pill Risk](concepts/DeathsOfDespairCounterfeitPillRisk.md) — Mortality-risk frame linking suicide, alcohol-related death, overdose, fentanyl, and counterfeit social-media pills.
 - [Male Urological Health Misconceptions / 男性泌尿健康误区](concepts/MaleUrologicalHealthMisconceptions.md) — Male urinary-health misconception frame separating symptoms, screening numbers, lifestyle, hygiene, and self-treatment myths from qualified urology care.
 - [Urological Symptom Triage / 泌尿症状分层判断](concepts/UrologicalSymptomTriage.md) — Urinary frequency, urgency, urine color, and urine-test context interpreted by pattern, volume, persistence, contamination risk, and clinical context.
 - [Prostate Screening Interpretation / 前列腺筛查解读边界](concepts/ProstateScreeningInterpretation.md) — PSA and prostate-symptom interpretation boundary keeping screening markers separate from standalone cancer diagnosis.

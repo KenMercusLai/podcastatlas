@@ -4,17 +4,29 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-05
-as_of_overview_commit: 10c793bf1817764288ea65b70b3be15d7e33ad38
-input_digest: e699f96d29fe94a83ef0b6599d0571182c2b6e20fb36da0e66b6de203f0cea86
+as_of_overview_commit: c1513ae5d51016ea0708e9e2b9902b8fd6e1209c
+input_digest: d1549bbcded73bf9b6925c4d64babbd029bfac56e9f917b2e703fcd1e6213f93
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-The Huberman dopamine episode keeps motivation tied to baseline, peaks, anticipation, and effort-as-reward, while the Epel stress branch remains anchored in appraisal, rumination, recovery, acceptance, and meaning-making. Benjamin Lay enters only secondarily as a moral-action case where inward equality, shock, boycott, and symbolic witness convert conviction into disciplined public behavior. Historical Hanji cases remain source-scoped evidence for judgment, self-command, trust, vulnerability, and behavior under pressure.
+The Huberman dopamine episode keeps motivation tied to baseline, peaks, anticipation, and effort-as-reward, while the Epel stress branch remains anchored in appraisal, rumination, recovery, acceptance, and meaning-making. The Attia longevity episode adds emotional healthspan as a personal-development branch: connection, purpose, presence, therapy, DBT, self-talk, and relationship repair are treated as part of durable health rather than optional mood work. Benjamin Lay enters only secondarily as a moral-action case where inward equality, shock, boycott, and symbolic witness convert conviction into disciplined public behavior. Historical Hanji cases remain source-scoped evidence for judgment, self-command, trust, vulnerability, and behavior under pressure.
 
 ## Cross-source Findings
+
+### Longevity Requires Emotional Healthspan And Repair Practices
+
+[[improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956|The Attia Huberman Lab episode]] adds a personal-development branch where [[HealthspanThreeDomains]] includes emotional healthspan alongside physical and cognitive capacity; [[EmotionalHealthLongevity]] treats connection, purpose, presence, therapy, DBT, self-talk, and relationship repair as part of durable health, while [[DeathsOfDespairCounterfeitPillRisk]], [[MedicalRiskManagement]], and [[EmotionRegulationToolkit]] keep despair, alcohol, overdose, fentanyl, and clinical claims bounded.
+
+**Evidence:** [[improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956]], [[HubermanLab]], [[AndrewHuberman]], [[PeterAttia]], [[HealthspanThreeDomains]], [[EmotionalHealthLongevity]], [[DeathsOfDespairCounterfeitPillRisk]], [[MedicalRiskManagement]], [[EmotionRegulationToolkit]]
+
+**Qualifications:**
+
+- The episode is public health and personal-development education, not individualized therapy, psychiatric care, addiction treatment, or medical advice.
+- Claims about therapy, DBT, self-talk, relationship repair, deaths of despair, alcohol, overdose, and counterfeit pills remain source-scoped and context-dependent.
+- The emotional-healthspan claim is linked to longevity framing but does not reduce mortality risk to individual mindset or relationship practice alone.
 
 ### Stress Appraisal Recovery And Acceptance Shape Resilience
 

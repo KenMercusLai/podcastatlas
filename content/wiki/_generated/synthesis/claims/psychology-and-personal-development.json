@@ -2,6 +2,28 @@
   "claims": [
     {
       "global_candidate": true,
+      "id": "longevity-requires-emotional-healthspan-and-repair-practices",
+      "qualifications": [
+        "The episode is public health and personal-development education, not individualized therapy, psychiatric care, addiction treatment, or medical advice.",
+        "Claims about therapy, DBT, self-talk, relationship repair, deaths of despair, alcohol, overdose, and counterfeit pills remain source-scoped and context-dependent.",
+        "The emotional-healthspan claim is linked to longevity framing but does not reduce mortality risk to individual mindset or relationship practice alone."
+      ],
+      "statement": "[[improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956|The Attia Huberman Lab episode]] adds a personal-development branch where [[HealthspanThreeDomains]] includes emotional healthspan alongside physical and cognitive capacity; [[EmotionalHealthLongevity]] treats connection, purpose, presence, therapy, DBT, self-talk, and relationship repair as part of durable health, while [[DeathsOfDespairCounterfeitPillRisk]], [[MedicalRiskManagement]], and [[EmotionRegulationToolkit]] keep despair, alcohol, overdose, fentanyl, and clinical claims bounded.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956",
+        "HubermanLab",
+        "AndrewHuberman",
+        "PeterAttia",
+        "HealthspanThreeDomains",
+        "EmotionalHealthLongevity",
+        "DeathsOfDespairCounterfeitPillRisk",
+        "MedicalRiskManagement",
+        "EmotionRegulationToolkit"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "stress-appraisal-recovery-and-acceptance-shape-resilience",
       "qualifications": [
         "This is public education from one podcast episode, not individualized mental-health, nutrition, pregnancy, or longevity advice.",
@@ -1200,7 +1222,7 @@
       ]
     }
   ],
-  "input_digest": "0d02f1e297ac02576a22184411da3c41b3878bcad936580397c679a3cec870f7",
-  "summary": "The Huberman dopamine episode keeps motivation tied to baseline, peaks, anticipation, and effort-as-reward, while the Epel stress branch remains anchored in appraisal, rumination, recovery, acceptance, and meaning-making. Benjamin Lay enters only secondarily as a moral-action case where inward equality, shock, boycott, and symbolic witness convert conviction into disciplined public behavior. Historical Hanji cases remain source-scoped evidence for judgment, self-command, trust, vulnerability, and behavior under pressure.",
+  "input_digest": "d1549bbcded73bf9b6925c4d64babbd029bfac56e9f917b2e703fcd1e6213f93",
+  "summary": "The Huberman dopamine episode keeps motivation tied to baseline, peaks, anticipation, and effort-as-reward, while the Epel stress branch remains anchored in appraisal, rumination, recovery, acceptance, and meaning-making. The Attia longevity episode adds emotional healthspan as a personal-development branch: connection, purpose, presence, therapy, DBT, self-talk, and relationship repair are treated as part of durable health rather than optional mood work. Benjamin Lay enters only secondarily as a moral-action case where inward equality, shock, boycott, and symbolic witness convert conviction into disciplined public behavior. Historical Hanji cases remain source-scoped evidence for judgment, self-command, trust, vulnerability, and behavior under pressure.",
   "topic_id": "psychology-and-personal-development"
 }

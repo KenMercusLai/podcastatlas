@@ -3566,9 +3566,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 25,
+      "episode_count": 26,
       "show_count": 1,
-      "source_note_count": 25,
+      "source_note_count": 26,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -3744,6 +3744,13 @@
           "show": "Huberman Lab",
           "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
           "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        },
+        {
+          "episode_file": "SCIM5907126956 [SCIM5907126956].md",
+          "key": "improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956",
+          "show": "Huberman Lab",
+          "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",
+          "url": "/wiki/sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956/"
         }
       ],
       "updated": "2026-09-05",
@@ -4259,6 +4266,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/aphasiarhythmcueing/"
     },
+    "ApoBParticleBurden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5907126956 [SCIM5907126956].md",
+          "key": "improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956",
+          "show": "Huberman Lab",
+          "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",
+          "url": "/wiki/sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/apobparticleburden/"
+    },
     "AppleMusic": {
       "episode_count": 1,
       "show_count": 1,
@@ -4707,6 +4730,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/athena/"
+    },
+    "AtherosclerosisPreventionTargets": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5907126956 [SCIM5907126956].md",
+          "key": "improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956",
+          "show": "Huberman Lab",
+          "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",
+          "url": "/wiki/sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/atherosclerosispreventiontargets/"
     },
     "AthletePostRetirementIdentity": {
       "episode_count": 1,
@@ -7777,6 +7816,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/cancerimmunotherapyaccess/"
+    },
+    "CancerScreeningBurdenTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5907126956 [SCIM5907126956].md",
+          "key": "improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956",
+          "show": "Huberman Lab",
+          "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",
+          "url": "/wiki/sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/cancerscreeningburdentradeoff/"
     },
     "CancerVaccinePlatform": {
       "episode_count": 9,
@@ -13352,6 +13407,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/deathgroundtacticalpreconditions/"
     },
+    "DeathsOfDespairCounterfeitPillRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5907126956 [SCIM5907126956].md",
+          "key": "improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956",
+          "show": "Huberman Lab",
+          "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",
+          "url": "/wiki/sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/deathsofdespaircounterfeitpillrisk/"
+    },
     "DeceptiveSurrenderLull": {
       "episode_count": 3,
       "show_count": 1,
@@ -16798,6 +16869,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/emotionalgranularity/"
     },
+    "EmotionalHealthLongevity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5907126956 [SCIM5907126956].md",
+          "key": "improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956",
+          "show": "Huberman Lab",
+          "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",
+          "url": "/wiki/sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/emotionalhealthlongevity/"
+    },
     "EmotionsAsFunctionalControlStates": {
       "episode_count": 1,
       "show_count": 1,
@@ -19048,6 +19135,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/exercisemedicalaestheticboundary/"
+    },
+    "ExercisePillarsForLongevity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5907126956 [SCIM5907126956].md",
+          "key": "improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956",
+          "show": "Huberman Lab",
+          "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",
+          "url": "/wiki/sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/exercisepillarsforlongevity/"
     },
     "ExerciseSelfMasteryForProcrastination": {
       "episode_count": 2,
@@ -26492,6 +26595,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/healthinsurancedeathspiral/"
     },
+    "HealthspanThreeDomains": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5907126956 [SCIM5907126956].md",
+          "key": "improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956",
+          "show": "Huberman Lab",
+          "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",
+          "url": "/wiki/sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/healthspanthreedomains/"
+    },
     "HedongPeiClan": {
       "episode_count": 1,
       "show_count": 1,
@@ -28207,9 +28326,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 25,
+      "episode_count": 26,
       "show_count": 1,
-      "source_note_count": 25,
+      "source_note_count": 26,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -28385,6 +28504,13 @@
           "show": "Huberman Lab",
           "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
           "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        },
+        {
+          "episode_file": "SCIM5907126956 [SCIM5907126956].md",
+          "key": "improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956",
+          "show": "Huberman Lab",
+          "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",
+          "url": "/wiki/sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956/"
         }
       ],
       "updated": "2026-09-05",
@@ -41878,6 +42004,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/netherlands/"
     },
+    "NeurodegenerativeRiskLevers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5907126956 [SCIM5907126956].md",
+          "key": "improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956",
+          "show": "Huberman Lab",
+          "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",
+          "url": "/wiki/sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/neurodegenerativerisklevers/"
+    },
     "NeuromodulatorStateToolkit": {
       "episode_count": 2,
       "show_count": 1,
@@ -43865,6 +44007,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/outerroundinnersquareconduct/"
     },
+    "Outlive": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "中年三账户：现金流、肌肉、睡眠 [lnyOmrU5v2YZO1-oTUyw2MDJ_VaE].md",
+          "key": "zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae",
+          "show": "面基",
+          "title": "中年三账户：现金流、肌肉、睡眠",
+          "url": "/wiki/sources/zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae/"
+        },
+        {
+          "episode_file": "SCIM5907126956 [SCIM5907126956].md",
+          "key": "improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956",
+          "show": "Huberman Lab",
+          "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",
+          "url": "/wiki/sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/outlive/"
+    },
     "OutsiderExperienceDiagnosticSkill": {
       "episode_count": 1,
       "show_count": 1,
@@ -45257,6 +45422,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/petenitzsche/"
+    },
+    "PeterAttia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5907126956 [SCIM5907126956].md",
+          "key": "improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956",
+          "show": "Huberman Lab",
+          "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",
+          "url": "/wiki/sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/peterattia/"
     },
     "PeterDawes": {
       "episode_count": 1,

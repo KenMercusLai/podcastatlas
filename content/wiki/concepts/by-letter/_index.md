@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6387
+wiki_total_pages: 6395
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1625,6 +1625,9 @@ wiki_pages:
   - key: "APIProductDesign"
     title: "API Product Design"
     url: "/wiki/concepts/apiproductdesign/"
+  - key: "ApoBParticleBurden"
+    title: "ApoB Particle Burden"
+    url: "/wiki/concepts/apobparticleburden/"
   - key: "ApocalypticLiterarySymbolism"
     title: "Apocalyptic Literary Symbolism"
     url: "/wiki/concepts/apocalypticliterarysymbolism/"
@@ -1826,6 +1829,9 @@ wiki_pages:
   - key: "AtHomePreventiveHealth"
     title: "At-Home Preventive Health"
     url: "/wiki/concepts/athomepreventivehealth/"
+  - key: "AtherosclerosisPreventionTargets"
+    title: "Atherosclerosis Prevention Targets"
+    url: "/wiki/concepts/atherosclerosispreventiontargets/"
   - key: "AthleteDataPrivacyGovernance"
     title: "Athlete Data Privacy Governance"
     url: "/wiki/concepts/athletedataprivacygovernance/"

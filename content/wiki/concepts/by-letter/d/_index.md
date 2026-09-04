@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6387
+wiki_total_pages: 6395
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "DeathPartyLoyalty"
     title: "Death-Party Loyalty vs Official Duty / 死党之义与守职奉上"
     url: "/wiki/concepts/deathpartyloyalty/"
+  - key: "DeathsOfDespairCounterfeitPillRisk"
+    title: "Deaths Of Despair Counterfeit Pill Risk"
+    url: "/wiki/concepts/deathsofdespaircounterfeitpillrisk/"
   - key: "DecentLifeAsControl"
     title: "Decent Life As Control"
     url: "/wiki/concepts/decentlifeascontrol/"

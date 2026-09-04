@@ -15240,6 +15240,10 @@ Ingested the 2026-09-03 The Intelligence episode on Donald Trump's quieter but s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-05] ingest | Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia
+
+Ingested the 2023-03-20 Huberman Lab episode with Peter Attia on lifespan, physical/cognitive/emotional healthspan, ApoB, blood pressure, cancer screening, dementia risk, exercise pillars, deaths of despair, fentanyl and counterfeit pill risk, and emotional health. Added source `improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956`; created `PeterAttia`, `HealthspanThreeDomains`, `ApoBParticleBurden`, `AtherosclerosisPreventionTargets`, `CancerScreeningBurdenTradeoff`, `NeurodegenerativeRiskLevers`, `ExercisePillarsForLongevity`, `EmotionalHealthLongevity`, and `DeathsOfDespairCounterfeitPillRisk`; updated `HubermanLab`, `AndrewHuberman`, `Outlive`, `index`, and `overview`. No settled contradiction found; ApoB targets, lipid medications, screening technologies, hyperbaric oxygen, exercise programming, alcohol risk, therapy, DBT, and overdose-risk claims remain source-scoped public education, and the source-local "Peter Atiyah" spelling is normalized to Peter Attia.
+
 ## [2026-09-05] ingest | VOL.32麻醉科｜你做过手术吗？你经历过麻醉吗？关于手术前麻醉的误解和禁忌｜附患者采访录音
 
 Ingested the 2023-03-22 这病说来话长 anesthesia episode with 董心彤 from 深圳市人民医院 on preoperative anesthesia assessment, anesthesia clinics, post-COVID timing, teeth and dentures, pulse-oximetry reliability, infection testing, medication handling, snoring, blood pressure, blood preparation, transfusion/circulation, and fasting to prevent reflux and aspiration. Added source `vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn`; created `PreoperativeAnesthesiaAssessment`; updated `DongXintong`, `ShenzhenPeopleHospital`, `ZheBingShuoLaiHuaChang`, `PerioperativeAnesthesiaSafety`, `OperatingRoomPhysiologyManagement`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; post-COVID timing, medication instructions, infection testing, blood-pressure thresholds, transfusion, fasting, and individual anesthesia decisions remain source-scoped.
@@ -15345,6 +15349,10 @@ Ran lint. Report printed in-session; wiki/lint-report.md was not updated.
 ## [2026-09-05] ingest | VOL.31泌尿外科｜关于尿频、尿液黄、结石、男性前列腺的那些谣言及误区
 
 Ingested the 2023-03-20 这病说来话长 urology episode with 赵医生 on male urinary-health misconceptions, urinary infection sex precautions, mumps-related orchitis risk, cycling pressure, prostate symptoms, PSA interpretation, urinary frequency and urine color, midstream urine tests, kidney stones, renal masses, foreskin hygiene, foreign-body emergencies, and clinical care thresholds. Added source `vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y`; created `ZhaoDoctorUrology`, `MaleUrologicalHealthMisconceptions`, `UrologicalSymptomTriage`, `ProstateScreeningInterpretation`, `RenalFindingTriage`, `ForeskinHygieneSurgeryBoundary`, and `GenitourinaryForeignBodyEscalation`; updated `ZheBingShuoLaiHuaChang`, `index`, and `overview`. No settled contradiction found; symptom interpretation, PSA values, stone and renal-mass management, foreskin choices, and individual treatment decisions remain source-scoped public medical education.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-05] lint | Wiki health check
 

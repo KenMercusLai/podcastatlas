@@ -4,17 +4,29 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-05
-as_of_overview_commit: 5686f961ce999bd4fbc4bac479ecd10dcd5e2689
-input_digest: 9d471003656a671f92dfc19978abf920225e37e580a9edd2869cf3b9425f25c3
+as_of_overview_commit: c1513ae5d51016ea0708e9e2b9902b8fd6e1209c
+input_digest: 0bccd45f2899108dbead917f27df4755a8d322392b9df8c72609ed446abfec1b
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science-health-and-climate joins practical health literacy, anesthesiology, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, speech-language rehabilitation, and nutrition/body-composition coaching through a common boundary theme: mechanism, measurement, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Health branches cover anesthesia and perioperative recovery safety, male urology symptom and screening boundaries, CGM and GLP-1 boundaries, headphone exposure, sugar and functional-food literacy, 24-hour sleep-wake timing through light, temperature, caffeine, substance, supplement, and phase-shifting boundaries, flexible sleep/circadian/recovery fundamentals, hormone phenotyping, exercise and flexibility safety, diagnostic safety netting, spine rehabilitation, pediatric language-delay assessment, aphasia rhythm cueing, dysarthria capability boundaries, metabolic psychiatry, bipolar and OCD care, bite escalation, individualized cancer vaccines, companion-animal welfare, and evidence-bounded body-composition fundamentals. The nonclinical strands apply the same boundary logic to Himalayan glacial floods, space launch capacity, reusable rockets, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped cultivation or historical health claims. Andy Stumpf adds a public-conversation boundary for social-media attention, substance risk, cold stress, mental-health disclosure, and extreme-environment risk, treated as source-scoped rather than medical, psychiatric, addiction, or sport instruction.
+Science-health-and-climate joins practical health literacy, anesthesiology, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, speech-language rehabilitation, and nutrition/body-composition coaching through a common boundary theme: mechanism, measurement, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Health branches now include Attia longevity framing around physical, cognitive, and emotional healthspan; ApoB, blood pressure, cardiovascular prevention, cancer-screening burden, neurodegenerative risk levers, exercise pillars, overdose risk, and emotional repair remain source-scoped public education alongside anesthesia and perioperative recovery safety, male urology symptom and screening boundaries, CGM and GLP-1 boundaries, headphone exposure, sugar and functional-food literacy, 24-hour sleep-wake timing through light, temperature, caffeine, substance, supplement, and phase-shifting boundaries, flexible sleep/circadian/recovery fundamentals, hormone phenotyping, exercise and flexibility safety, diagnostic safety netting, spine rehabilitation, pediatric language-delay assessment, aphasia rhythm cueing, dysarthria capability boundaries, metabolic psychiatry, bipolar and OCD care, bite escalation, individualized cancer vaccines, companion-animal welfare, and evidence-bounded body-composition fundamentals. The nonclinical strands apply the same boundary logic to Himalayan glacial floods, space launch capacity, reusable rockets, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped cultivation or historical health claims. Andy Stumpf adds a public-conversation boundary for social-media attention, substance risk, cold stress, mental-health disclosure, and extreme-environment risk, treated as source-scoped rather than medical, psychiatric, addiction, or sport instruction.
 
 ## Cross-source Findings
+
+### Preventive Longevity Needs Healthspan Measurement And Clinical Boundaries
+
+[[improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956|The Attia Huberman Lab episode]] adds a preventive-longevity health-literacy branch: [[HealthspanThreeDomains]] separates lifespan from physical, cognitive, and emotional function, while [[ApoBParticleBurden]], [[AtherosclerosisPreventionTargets]], [[CancerScreeningBurdenTradeoff]], [[NeurodegenerativeRiskLevers]], [[ExercisePillarsForLongevity]], and [[DeathsOfDespairCounterfeitPillRisk]] tie ApoB, blood pressure, screening false positives, dementia uncertainty, exercise capacity, falls, fentanyl, and overdose risk to [[MedicalRiskManagement]] and [[PreventiveHealthScreening]] rather than one-size protocols.
+
+**Evidence:** [[improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956]], [[HubermanLab]], [[AndrewHuberman]], [[PeterAttia]], [[HealthspanThreeDomains]], [[ApoBParticleBurden]], [[AtherosclerosisPreventionTargets]], [[CancerScreeningBurdenTradeoff]], [[NeurodegenerativeRiskLevers]], [[ExercisePillarsForLongevity]], [[DeathsOfDespairCounterfeitPillRisk]], [[MedicalRiskManagement]], [[PreventiveHealthScreening]]
+
+**Qualifications:**
+
+- The episode is public medical and longevity education, not individualized cardiology, oncology, neurology, addiction, exercise, psychiatric, or therapy guidance.
+- ApoB targets, lipid medications, blood-pressure interpretation, whole-body MRI, liquid biopsy, CT/PET use, cystatin C, hyperbaric oxygen, alcohol risk, and exercise programming remain source-scoped and clinician-contextual.
+- The source-local body title spells the guest as Peter Atiyah, but the page normalizes this to [[PeterAttia]] based on the episode title and wiki entity.
 
 ### Anesthesia Safety Needs Perioperative Context
 

@@ -451,7 +451,7 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-03",
       "latest_episode_file": "SCIM7156610982 [SCIM7156610982].md",
-      "source_note_count": 27,
+      "source_note_count": 28,
       "topic_matched_source_note_count": 21,
       "topics": [
         {
@@ -485,7 +485,7 @@
           "title": "Andrew Huberman",
           "url": "/wiki/entities/andrewhuberman/",
           "kind": "person",
-          "episode_count": 25
+          "episode_count": 26
         },
         {
           "key": "UniversityOfCaliforniaSanFrancisco",
