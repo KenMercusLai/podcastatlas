@@ -14938,6 +14938,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/dysarthriacapabilityboundary/"
     },
+    "DysphagiaRehabilitationSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljY1ACxQeQLYHNo1si714fe-q8OM [ljY1ACxQeQLYHNo1si714fe-q8OM].md",
+          "key": "vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om",
+          "show": "这病说来话长",
+          "title": "VOL.34康复医学科｜日本医疗剧里重建吞咽功能的治疗我们也可以",
+          "url": "/wiki/sources/vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/dysphagiarehabilitationsafety/"
+    },
     "ECTBipolarDepressionBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -21364,6 +21380,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/fugitivesheltercollateralrisk/"
+    },
+    "FunctionalArticulationDisorder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljY1ACxQeQLYHNo1si714fe-q8OM [ljY1ACxQeQLYHNo1si714fe-q8OM].md",
+          "key": "vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om",
+          "show": "这病说来话长",
+          "title": "VOL.34康复医学科｜日本医疗剧里重建吞咽功能的治疗我们也可以",
+          "url": "/wiki/sources/vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/functionalarticulationdisorder/"
     },
     "FunctionalFoodMarketingClaimSkepticism": {
       "episode_count": 1,
@@ -32457,9 +32489,9 @@
       "url": "/wiki/concepts/lighttouchfrontiergovernance/"
     },
     "LihuaSpeechTherapist": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lnmOqgfMSHs_ZzT1GXkUTV06w8Aj [lnmOqgfMSHs_ZzT1GXkUTV06w8Aj].md",
@@ -32467,6 +32499,13 @@
           "show": "这病说来话长",
           "title": "VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展",
           "url": "/wiki/sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj/"
+        },
+        {
+          "episode_file": "ljY1ACxQeQLYHNo1si714fe-q8OM [ljY1ACxQeQLYHNo1si714fe-q8OM].md",
+          "key": "vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om",
+          "show": "这病说来话长",
+          "title": "VOL.34康复医学科｜日本医疗剧里重建吞咽功能的治疗我们也可以",
+          "url": "/wiki/sources/vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om/"
         }
       ],
       "updated": "2026-09-04",
@@ -50131,9 +50170,9 @@
       "url": "/wiki/concepts/spacebasedaiinfrastructure/"
     },
     "SpeechLanguageRehabilitation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lnmOqgfMSHs_ZzT1GXkUTV06w8Aj [lnmOqgfMSHs_ZzT1GXkUTV06w8Aj].md",
@@ -50141,6 +50180,13 @@
           "show": "这病说来话长",
           "title": "VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展",
           "url": "/wiki/sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj/"
+        },
+        {
+          "episode_file": "ljY1ACxQeQLYHNo1si714fe-q8OM [ljY1ACxQeQLYHNo1si714fe-q8OM].md",
+          "key": "vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om",
+          "show": "这病说来话长",
+          "title": "VOL.34康复医学科｜日本医疗剧里重建吞咽功能的治疗我们也可以",
+          "url": "/wiki/sources/vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om/"
         }
       ],
       "updated": "2026-09-04",
@@ -62690,9 +62736,9 @@
       "url": "/wiki/entities/zhaogecountylatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -62805,6 +62851,13 @@
           "show": "这病说来话长",
           "title": "VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展",
           "url": "/wiki/sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj/"
+        },
+        {
+          "episode_file": "ljY1ACxQeQLYHNo1si714fe-q8OM [ljY1ACxQeQLYHNo1si714fe-q8OM].md",
+          "key": "vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om",
+          "show": "这病说来话长",
+          "title": "VOL.34康复医学科｜日本医疗剧里重建吞咽功能的治疗我们也可以",
+          "url": "/wiki/sources/vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om/"
         }
       ],
       "updated": "2026-09-04",

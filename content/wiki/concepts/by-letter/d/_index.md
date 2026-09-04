@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6303
+wiki_total_pages: 6305
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -830,6 +830,9 @@ wiki_pages:
   - key: "DysarthriaCapabilityBoundary"
     title: "Dysarthria Capability Boundary"
     url: "/wiki/concepts/dysarthriacapabilityboundary/"
+  - key: "DysphagiaRehabilitationSafety"
+    title: "Dysphagia Rehabilitation Safety / 吞咽障碍康复安全"
+    url: "/wiki/concepts/dysphagiarehabilitationsafety/"
   - key: "DecisiveTerrainPreemption"
     title: "争地抢先式决胜 / Decisive Terrain Preemption"
     url: "/wiki/concepts/decisiveterrainpreemption/"

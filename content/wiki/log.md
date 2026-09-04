@@ -15179,3 +15179,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-04] ingest | VOL.34康复医学科｜日本医疗剧里重建吞咽功能的治疗我们也可以
+
+Ingested the 2023-03-29 这病说来话长 rehabilitation episode with speech therapist 梨花医生/黎花 on speech therapy scope, dysphagia safety, aspiration risk, oral-motor articulation, hospital care pathways, and long-term rehabilitation expectations. Added source `vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om`; created `DysphagiaRehabilitationSafety` and `FunctionalArticulationDisorder`; updated `LihuaSpeechTherapist`, `SpeechLanguageRehabilitation`, `ZheBingShuoLaiHuaChang`, `index`, and `overview`. No settled contradiction found; botulinum-toxin, gastrostomy, thickener, feeding-texture, care-pathway, and individual prognosis claims remain source-scoped public rehabilitation education rather than individualized treatment advice.
+
+## [2026-09-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

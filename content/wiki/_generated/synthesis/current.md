@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-04
-as_of_overview_commit: 1f81ed316c89425cfcaec7b86a1d1ffb1e3a381f
-summary: "Grounded workflows, demand proof, legitimacy, female authority, source criticism, health assessment, stress recovery, active learning, and material capacity dominate."
-episode_count: 1893
-source_count: 1893
-paragraph_count: 519
+as_of_overview_commit: 6535fe364d273a42d46e887e0834ae339369dda7
+summary: "Grounded workflows, demand proof, legitimacy, source criticism, health assessment, rehabilitation boundaries, stress recovery, active learning, and material capacity dominate."
+episode_count: 1894
+source_count: 1894
+paragraph_count: 520
 topic_count: 8
 ---
 
@@ -70,14 +70,14 @@ Psychology links stress appraisal and recovery, emotion regulation, attention, r
 
 ### Science, Health, and Climate
 
-Science, health, and climate claims are strongest when mechanisms, measurements, thresholds, supervision, and implementation constraints are explicit. Sleep, stress biology, metabolic health, diagnostic reasoning, speech-language rehabilitation, nutrition, psychiatry, exercise, climate adaptation, space infrastructure, and biomedical cases stay bounded by evidence, context, and qualified care.
+Science, health, and climate claims are strongest when mechanisms, measurements, thresholds, supervision, and implementation constraints are explicit. Sleep, stress biology, metabolic health, diagnostic reasoning, speech-language and swallowing rehabilitation, nutrition, psychiatry, exercise, climate adaptation, space infrastructure, and biomedical cases stay bounded by evidence, context, and qualified care.
 
 - [[SleepWakeTimingToolkit]] extends [[SleepAsDailyHealthAccount]] by treating sleep quality as a coordinated 24-hour cue system: [[MorningLightCircadianAnchoring]], [[SleepTemperatureToolkit]], [[CaffeineAdenosineSleepTiming]], [[SubstanceSleepArchitectureBoundary]], [[SleepSupplementBoundary]], and [[TemperatureMinimumClockShifting]] connect light, temperature, caffeine, substances, supplements, wake consistency, and phase shifting to sleep while [[MedicalRiskManagement]], [[SustainableHealthOptimization]], [[EnvironmentOverWillpower]], and [[StateDependentSelfControl]] keep the toolkit bounded as public education rather than individualized sleep medicine. Evidence: [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]], [[SleepWakeTimingToolkit]], [[SleepAsDailyHealthAccount]], [[MorningLightCircadianAnchoring]], [[SleepTemperatureToolkit]], [[CaffeineAdenosineSleepTiming]], [[SubstanceSleepArchitectureBoundary]], [[SleepSupplementBoundary]], [[TemperatureMinimumClockShifting]], [[MedicalRiskManagement]], [[SustainableHealthOptimization]], [[EnvironmentOverWillpower]], [[StateDependentSelfControl]], [[HubermanLab]], [[AndrewHuberman]].
 - [[ContinuousGlucoseMonitoring]] and [[GLP1Agonists]] extend the health-literacy boundary around metabolic tools: CGM is strongest as diabetes safety monitoring and contextual pattern feedback, while [[WearableHealthDataAnxiety]] warns against healthy-person score chasing; GLP-1 drugs can help selected diabetes, obesity, and metabolic-risk contexts, but [[MedicalRiskManagement]], [[LifestyleWeightManagement]], and [[MuscleAsLongevityInfrastructure]] keep appearance-driven use bounded by side effects, contraindications, muscle preservation, rebound, and long-term behavior. Evidence: [[vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd]], [[ContinuousGlucoseMonitoring]], [[GLP1Agonists]], [[WearableHealthDataAnxiety]], [[MedicalRiskManagement]], [[LifestyleWeightManagement]], [[MuscleAsLongevityInfrastructure]], [[PersonalHealthData]], [[InformationCocoon]], [[FemaleBeautySelfSurveillance]], [[ZheBingShuoLaiHuaChang]], [[Atang]], [[DabaNiuTeacher]].
 
 ### Work, Education, and Society
 
-Work, education, and society center on feedback loops, trust, role clarity, learning transfer, family communication environments, and settings that let people act well. AI adoption, classroom redesign, labor organization, health-informed routines, and social capacity all require context, verification, and active practice rather than fluent output or status signals.
+Work, education, and society center on feedback loops, trust, role clarity, learning transfer, family communication environments, and rehabilitation settings that let people eat, speak, learn, and act well. AI adoption, classroom redesign, labor organization, health-informed routines, and social capacity all require context, verification, professional boundaries, and active practice rather than fluent output or status signals.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

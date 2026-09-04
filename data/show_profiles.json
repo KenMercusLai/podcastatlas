@@ -2783,7 +2783,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lnXbxBAUsJXttxyBA-idbidq6kPd [lnXbxBAUsJXttxyBA-idbidq6kPd].md",
-      "source_note_count": 16,
+      "source_note_count": 17,
       "topic_matched_source_note_count": 3,
       "topics": [
         {
@@ -2824,6 +2824,13 @@
           "key": "DabaNiuTeacher",
           "title": "大白牛老师 / Daba Niu Teacher",
           "url": "/wiki/entities/dabaniuteacher/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "LihuaSpeechTherapist",
+          "title": "梨花医生 / Lihua Speech Therapist",
+          "url": "/wiki/entities/lihuaspeechtherapist/",
           "kind": "person",
           "episode_count": 2
         },

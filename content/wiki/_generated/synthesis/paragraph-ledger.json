@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "a5a1e44ab38057a5af8309baac5ac3d208e0aadcd728f178e06cd9e2cef97bd4",
       "6244d707513946f002e064d56d4e3f9c39375412923eed7692dcf08b68d6f8f2",
       "a4806b391272e689d44bcbe60c3a77398cc0e612bbc48ae87c5a613573d9af0b",
       "0a91738c7181c394ab64885ba1a1b7efb770c078ebae17c24c02c743b7903647",
@@ -521,11 +522,33 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 519
+    "paragraph_count": 520
   },
-  "overview_commit": "1f81ed316c89425cfcaec7b86a1d1ffb1e3a381f",
-  "overview_digest": "d49f52cf904c8fd0dcd601c3135176f52f76be1f42844c7e43d9c7a2a6a3aeb0",
+  "overview_commit": "6535fe364d273a42d46e887e0834ae339369dda7",
+  "overview_digest": "f2dae9b541630b87a6c8797b4fab2c7d8b2e0f10c19f02394b2b76e1d3951373",
   "paragraphs": [
+    {
+      "id": "a5a1e44ab38057a5af8309baac5ac3d208e0aadcd728f178e06cd9e2cef97bd4",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om|VOL.34康复医学科｜日本医疗剧里重建吞咽功能的治疗我们也可以]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with speech therapist [[LihuaSpeechTherapist|梨花医生 / 黎花]] on speech therapy scope, dysphagia, articulation, and rehabilitative quality of life. It adds [[DysphagiaRehabilitationSafety]] and [[FunctionalArticulationDisorder]], while extending [[SpeechLanguageRehabilitation]], [[LihuaSpeechTherapist]], [[ZheBingShuoLaiHuaChang]], [[MultidisciplinaryHospitalCare]], [[MedicalRiskManagement]], and [[DoctorPatientCommunication]]. Its core synthesis is that speech therapy is not diction polish: it restores eating, swallowing, speaking, and communication through assessment, oral-motor training, posture, texture adjustment, imaging, family expectation management, and hospital-team judgment. No settled contradiction is recorded; botulinum-toxin, gastrostomy, thickener, soft-food, care-pathway, and individual prognosis claims remain source-scoped public rehabilitation education rather than individualized treatment advice.",
+      "topic_scores": {
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "DoctorPatientCommunication",
+        "DysphagiaRehabilitationSafety",
+        "FunctionalArticulationDisorder",
+        "LihuaSpeechTherapist",
+        "MedicalRiskManagement",
+        "MultidisciplinaryHospitalCare",
+        "SpeechLanguageRehabilitation",
+        "ZheBingShuoLaiHuaChang",
+        "vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om"
+      ]
+    },
     {
       "id": "6244d707513946f002e064d56d4e3f9c39375412923eed7692dcf08b68d6f8f2",
       "primary_topic": "history-and-geopolitics",
