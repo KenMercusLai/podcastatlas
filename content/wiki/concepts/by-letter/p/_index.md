@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6395
+wiki_total_pages: 6396
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "PlatformizedDramaProduction"
     title: "Platformized Drama Production"
     url: "/wiki/concepts/platformizeddramaproduction/"
+  - key: "PlatonicAtlantisPoliticalMyth"
+    title: "Platonic Atlantis Political Myth"
+    url: "/wiki/concepts/platonicatlantispoliticalmyth/"
   - key: "PlausibleMechanismPathway"
     title: "Plausible Mechanism Pathway"
     url: "/wiki/concepts/plausiblemechanismpathway/"

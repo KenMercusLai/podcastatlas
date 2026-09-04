@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1584
+topic_total_pages: 1586
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -742,6 +742,9 @@ topic_concepts:
   - key: "PersonalRevengeThroughStatePower"
     title: "Personal Revenge Through State Power / 以国力行私仇"
     url: "/wiki/concepts/personalrevengethroughstatepower/"
+  - key: "PlatonicAtlantisPoliticalMyth"
+    title: "Platonic Atlantis Political Myth"
+    url: "/wiki/concepts/platonicatlantispoliticalmyth/"
   - key: "PoetryAsElitePoliticalLanguage"
     title: "Poetry As Elite Political Language / 诗经作为贵族政治语言"
     url: "/wiki/concepts/poetryaselitepoliticallanguage/"
@@ -3795,6 +3798,9 @@ topic_sources:
   - key: "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138"
     title: "30.孟子：战国愤青的赤子之心"
     url: "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+  - key: "314-atlantis-the-legend-part-1-glt4735672898"
+    title: "314: Atlantis: The Legend (Part 1)"
+    url: "/wiki/sources/314-atlantis-the-legend-part-1-glt4735672898/"
   - key: "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945"
     title: "315: Atlantis: Legacy of the Lost Empire (Part 2)"
     url: "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"

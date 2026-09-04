@@ -4764,9 +4764,9 @@
       "url": "/wiki/concepts/athletepostretirementidentity/"
     },
     "Atlantis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2807981945 [GLT2807981945].md",
@@ -4774,15 +4774,22 @@
           "show": "The Rest Is History",
           "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
           "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        },
+        {
+          "episode_file": "GLT4735672898 [GLT4735672898].md",
+          "key": "314-atlantis-the-legend-part-1-glt4735672898",
+          "show": "The Rest Is History",
+          "title": "314: Atlantis: The Legend (Part 1)",
+          "url": "/wiki/sources/314-atlantis-the-legend-part-1-glt4735672898/"
         }
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/atlantis/"
     },
     "AtlantisReception": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2807981945 [GLT2807981945].md",
@@ -4790,6 +4797,13 @@
           "show": "The Rest Is History",
           "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
           "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        },
+        {
+          "episode_file": "GLT4735672898 [GLT4735672898].md",
+          "key": "314-atlantis-the-legend-part-1-glt4735672898",
+          "show": "The Rest Is History",
+          "title": "314: Atlantis: The Legend (Part 1)",
+          "url": "/wiki/sources/314-atlantis-the-legend-part-1-glt4735672898/"
         }
       ],
       "updated": "2026-09-05",
@@ -25089,9 +25103,9 @@
       "url": "/wiki/entities/graft/"
     },
     "GrahamHancock": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2807981945 [GLT2807981945].md",
@@ -25099,6 +25113,13 @@
           "show": "The Rest Is History",
           "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
           "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        },
+        {
+          "episode_file": "GLT4735672898 [GLT4735672898].md",
+          "key": "314-atlantis-the-legend-part-1-glt4735672898",
+          "show": "The Rest Is History",
+          "title": "314: Atlantis: The Legend (Part 1)",
+          "url": "/wiki/sources/314-atlantis-the-legend-part-1-glt4735672898/"
         }
       ],
       "updated": "2026-09-05",
@@ -37078,9 +37099,9 @@
       "url": "/wiki/concepts/longtermachievementdiscipline/"
     },
     "LostCivilizationPseudohistory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2807981945 [GLT2807981945].md",
@@ -37088,6 +37109,13 @@
           "show": "The Rest Is History",
           "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
           "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        },
+        {
+          "episode_file": "GLT4735672898 [GLT4735672898].md",
+          "key": "314-atlantis-the-legend-part-1-glt4735672898",
+          "show": "The Rest Is History",
+          "title": "314: Atlantis: The Legend (Part 1)",
+          "url": "/wiki/sources/314-atlantis-the-legend-part-1-glt4735672898/"
         }
       ],
       "updated": "2026-09-05",
@@ -45895,9 +45923,9 @@
       "url": "/wiki/concepts/platformcommunitygovernance/"
     },
     "Plato": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -45919,10 +45947,33 @@
           "show": "The Rest Is History",
           "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
           "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        },
+        {
+          "episode_file": "GLT4735672898 [GLT4735672898].md",
+          "key": "314-atlantis-the-legend-part-1-glt4735672898",
+          "show": "The Rest Is History",
+          "title": "314: Atlantis: The Legend (Part 1)",
+          "url": "/wiki/sources/314-atlantis-the-legend-part-1-glt4735672898/"
         }
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/plato/"
+    },
+    "PlatonicAtlantisPoliticalMyth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4735672898 [GLT4735672898].md",
+          "key": "314-atlantis-the-legend-part-1-glt4735672898",
+          "show": "The Rest Is History",
+          "title": "314: Atlantis: The Legend (Part 1)",
+          "url": "/wiki/sources/314-atlantis-the-legend-part-1-glt4735672898/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/platonicatlantispoliticalmyth/"
     },
     "PolicyBoundAgenticLendingSupport": {
       "episode_count": 1,
@@ -51324,9 +51375,9 @@
       "url": "/wiki/entities/santorini/"
     },
     "SantoriniAtlantisTheory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2807981945 [GLT2807981945].md",
@@ -51334,6 +51385,13 @@
           "show": "The Rest Is History",
           "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
           "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        },
+        {
+          "episode_file": "GLT4735672898 [GLT4735672898].md",
+          "key": "314-atlantis-the-legend-part-1-glt4735672898",
+          "show": "The Rest Is History",
+          "title": "314: Atlantis: The Legend (Part 1)",
+          "url": "/wiki/sources/314-atlantis-the-legend-part-1-glt4735672898/"
         }
       ],
       "updated": "2026-09-05",

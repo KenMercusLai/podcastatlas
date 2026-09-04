@@ -15357,3 +15357,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-05] ingest | 314: Atlantis: The Legend (Part 1)
+
+Ingested the 2023-03-20 The Rest Is History episode grounding Atlantis in Plato's Timaeus and Critias, the Solon-Egypt authority chain, the Athens-Atlantis war, Persia/Athens/Sparta contrasts, catastrophe, and Graham Hancock skepticism. Added source `314-atlantis-the-legend-part-1-glt4735672898`; created `PlatonicAtlantisPoliticalMyth`; updated `Atlantis`, `Plato`, `GrahamHancock`, `AtlantisReception`, `LostCivilizationPseudohistory`, `SantoriniAtlantisTheory`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Plato interpretation, the Persia/Athens/Sparta mapping, Helice, Thera deferral, early reception, and Hancock comparison remain source-scoped.

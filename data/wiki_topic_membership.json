@@ -1399,6 +1399,13 @@
       "url": "/topics/history/"
     }
   ],
+  "314-atlantis-the-legend-part-1-glt4735672898": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945": [
     {
       "key": "history",
@@ -46904,6 +46911,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PlatonicAtlantisPoliticalMyth": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "PlausibleMechanismPathway": [
