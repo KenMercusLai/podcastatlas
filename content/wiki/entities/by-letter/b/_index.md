@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8933
+wiki_total_pages: 8937
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "BarackObama"
     title: "Barack Obama"
     url: "/wiki/entities/barackobama/"
+  - key: "Barbados"
+    title: "Barbados"
+    url: "/wiki/entities/barbados/"
   - key: "BarbaraDingus"
     title: "Barbara Dingus"
     url: "/wiki/entities/barbaradingus/"
@@ -290,6 +293,9 @@ wiki_pages:
   - key: "BenjaminLarson"
     title: "Benjamin Larson"
     url: "/wiki/entities/benjaminlarson/"
+  - key: "BenjaminLay"
+    title: "Benjamin Lay"
+    url: "/wiki/entities/benjaminlay/"
   - key: "BenjaminLibet"
     title: "Benjamin Libet / 利比特"
     url: "/wiki/entities/benjaminlibet/"

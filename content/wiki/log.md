@@ -15240,6 +15240,10 @@ Ingested the 2026-09-03 The Intelligence episode on Donald Trump's quieter but s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-05] ingest | 316: The First Abolitionist
+
+Ingested the 2023-03-27 The Rest Is History episode on Benjamin Lay, Quaker radicalism, Barbados plantation slavery, ethical-consumption boycott, anti-slavery pamphleteering, public protest stunts, and Philadelphia Friends' discipline against slaveholding. Added source `316-the-first-abolitionist-glt2136062721`; created `BenjaminLay`, `SarahLay`, `Quakers`, `Barbados`, `AbolitionistPublicWitness`, `QuakerInwardEquality`, `PlantationSlaveryMoralShock`, and `SlaveProducedGoodsBoycott`; updated `BenjaminFranklin`, `TheRestIsHistory`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the first-abolitionist label, Barbados violence descriptions, Franklin sympathy, Quaker disciplinary timing, and modern protest comparisons remain source-scoped.
+
 ## [2026-09-05] ingest | 戴森进入电动牙刷领域，传统金店加盟持续收缩
 
 Ingested the 2026-09-02 声动早咖啡 episode on Dyson's CameraJet oral-care bet, GoPro's Storm & Optical deal, Zhipu AI's API-led revenue mix, World Labs' Atlus model, NIO's narrowing losses, Sushiro's U.S. entry, physical music formats, gold-jewelry franchise retrenchment, and IKEA Europe price cuts. Added source `daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825`; created `Dyson`, `CameraJet`, `StormOptical`, `AtlusWorldModel`, `IKEA`, `SmartOralCare`, `AIAPIRevenueModel`, `PhysicalMusicMediaRevival`, `GoldJewelryFranchiseRetrenchment`, and `FurnitureAffordabilityPriceReset`; updated `GoPro`, `ZhipuAI`, `WorldLabs`, `NIO`, `Sushiro`, `GoldJewelryValuePerceptionRisk`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; launches, acquisition terms, company financials, model details, store closures, music revenue, and price-cut plans remain source-scoped.
@@ -15299,6 +15303,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-05] ingest | Vol.273 英伟达则兼济天下？
 
 Ingested the 2026-09-02 商业就是这样 episode on Nvidia supplier financing, AI circular infrastructure financing, CoreWeave, Lambda Labs, Lucent, and GE Capital. Added source `vol-273-yingweida-ze-jianji-tianxia-1010956114`; created `SupplierFinancing`, `LucentTechnologies`, `GECapital`, and `LambdaLabs`; updated `CoreWeave`, `GPUComputeAssetBackedFinancing`, `AICircularInfrastructureFinancing`, `AIComputePriceRisk`, `index`, and `overview`. No settled contradiction found; financing commitments, credit guarantees, residual-value estimates, depreciation arguments, and accounting signals remain source-scoped.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-05] lint | Wiki health check
 

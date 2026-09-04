@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-05
-as_of_overview_commit: 0eeb1fa03fd4fd16c8c1cbc58429e9ac0d08edb3
-input_digest: 0d02f1e297ac02576a22184411da3c41b3878bcad936580397c679a3cec870f7
+as_of_overview_commit: 10c793bf1817764288ea65b70b3be15d7e33ad38
+input_digest: e699f96d29fe94a83ef0b6599d0571182c2b6e20fb36da0e66b6de203f0cea86
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-The Huberman dopamine episode adds a motivation branch where dopamine is tracked as baseline, peaks, troughs, anticipation, and reward-prediction learning, tying procrastination exits to baseline care, anti-stacking, effort-as-reward, and brief safe effort rather than a simple willpower model. The Epel episode keeps stress regulation anchored in appraisal, rumination, recovery, cue control, acceptance, uncertainty tolerance, and meaning-making. Historical Hanji cases remain source-scoped evidence about self-command, status reading, speech restraint, title discipline, desire, alliance trust, succession, and timed judgment under authority. Modern branches cover relationship science, workplace abuse and trust, functional emotion regulation, meditation/no-self, music and speech rehabilitation, creativity, state-dependent self-control, movement, discipline after adversity, companion-animal owner state, Everest fear/team trust, AI adoption/authorship, finance discipline, and consumer preference.
+The Huberman dopamine episode keeps motivation tied to baseline, peaks, anticipation, and effort-as-reward, while the Epel stress branch remains anchored in appraisal, rumination, recovery, acceptance, and meaning-making. Benjamin Lay enters only secondarily as a moral-action case where inward equality, shock, boycott, and symbolic witness convert conviction into disciplined public behavior. Historical Hanji cases remain source-scoped evidence for judgment, self-command, trust, vulnerability, and behavior under pressure.
 
 ## Cross-source Findings
 
@@ -663,3 +663,14 @@ VOL.35 enters psychology-and-personal-development only as a functional communica
 - This is not a clinical psychology claim or individualized child-development advice.
 - The psychology relevance is secondary to speech-language rehabilitation and limited to behavior interpretation, emotion, interaction, and family response.
 - The episode rejects folk reassurance and stigma but does not provide a full diagnostic protocol.
+
+### Benjamin Lay Moral Conviction To Public Behavior
+
+The Benjamin Lay paragraph enters psychology-and-personal-development secondarily: [[QuakerInwardEquality]], [[PlantationSlaveryMoralShock]], [[SlaveProducedGoodsBoycott]], and [[AbolitionistPublicWitness]] frame moral conviction as behavior practiced through household discipline, boycott, pamphleteering, and symbolic public action rather than private sentiment alone.
+
+**Evidence:** [[316-the-first-abolitionist-glt2136062721]], [[BenjaminLay]], [[Quakers]], [[QuakerInwardEquality]], [[PlantationSlaveryMoralShock]], [[SlaveProducedGoodsBoycott]], [[AbolitionistPublicWitness]], [[CoercedConsentUnderSlavery]]
+
+**Qualifications:**
+
+- This is a secondary psychological reading of a history episode, not a clinical or experimental psychology source.
+- Modern protest comparisons and first-abolitionist framing remain source-scoped.

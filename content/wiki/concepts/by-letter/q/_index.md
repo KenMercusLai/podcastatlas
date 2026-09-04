@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 6368
+wiki_total_pages: 6372
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "QLoRA"
     title: "QLoRA"
     url: "/wiki/concepts/qlora/"
+  - key: "QuakerInwardEquality"
+    title: "Quaker Inward Equality"
+    url: "/wiki/concepts/quakerinwardequality/"
   - key: "QualityLowPriceReasonedPremium"
     title: "Quality Low Price And Reasoned Premium / 有品质的低价与有理由的溢价"
     url: "/wiki/concepts/qualitylowpricereasonedpremium/"

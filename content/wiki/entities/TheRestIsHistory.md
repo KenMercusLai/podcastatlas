@@ -26,7 +26,8 @@ sources:
   - 678-britain-god-save-the-king-part-2-glt2603959218
   - 318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008
   - 317-african-amazons-glt5973082485
-last_updated: 2026-09-04
+  - 316-the-first-abolitionist-glt2136062721
+last_updated: 2026-09-05
 knowledge_schema: synthesis-v1
 ---
 
@@ -34,11 +35,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, national-symbol and sport-politics episodes, literary retellings, founding and Roman political-crisis branches, a medieval Anglo-French origin branch for the [[HundredYearsWar|Hundred Years' War]], and a comparative African female-power branch.
+The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, national-symbol and sport-politics episodes, literary retellings, founding and Roman political-crisis branches, a medieval Anglo-French origin branch for the [[HundredYearsWar|Hundred Years' War]], a comparative African female-power branch, and an early Quaker abolitionist activism branch.
 
 ## Current Profile
 
-The current wiki profile now includes an African comparative branch. The [[AfricanFemaleAuthorityInstitutions]] branch uses [[Kush]], [[KandakeQueens]], [[QueenNjinga]], [[AsanteQueenMothers]], [[RanavalonaI]], [[Dahomey]], and the [[Agojie]] to show how women could hold military, royal, or counterpart authority through institutions rather than only through individual exception. It also adds a stronger source-critical and moral frame: [[EuropeanAmazonProjection]] cautions against accepting outsider fascination as neutral description, while [[HeroicResistanceViolenceAmbiguity]] keeps slavery, executions, coercion, and harsh rule visible even when the central actors resist European pressure.
+The current wiki profile now includes an early abolitionist activism branch. [[BenjaminLay]]'s episode connects [[Quakers|Quaker]] inward equality, [[Barbados]] plantation slavery, [[SlaveProducedGoodsBoycott|boycott of slave-produced goods]], and [[AbolitionistPublicWitness|public witness]] to explain how moral protest could become theatrical, embodied, and socially disruptive before abolitionism became mainstream. The branch also keeps the title qualified: Lay is an early activist, not literally the first person to oppose slavery.
+
+The African comparative branch uses [[Kush]], [[KandakeQueens]], [[QueenNjinga]], [[AsanteQueenMothers]], [[RanavalonaI]], [[Dahomey]], and the [[Agojie]] to show how women could hold military, royal, or counterpart authority through institutions rather than only through individual exception. It also adds a stronger source-critical and moral frame: [[EuropeanAmazonProjection]] cautions against accepting outsider fascination as neutral description, while [[HeroicResistanceViolenceAmbiguity]] keeps slavery, executions, coercion, and harsh rule visible even when the central actors resist European pressure.
 
 The [[HundredYearsWar|Hundred Years' War]] branch uses [[England]], [[France]], [[Gascony]], [[Aquitaine]], [[Scotland]], [[EdwardIIIOfEngland|Edward III]], and [[PhilipVIOfFrance|Philip VI]] to show how dynastic claim, feudal homage, alliance pressure, trade, and national framing combine before open war. The Elizabeth I versus Catholics sequence treats court security, dynastic succession, espionage, privateering, the [[DutchRevolt|Dutch Revolt]], Mary Stuart, and the Armada path as a connected confessional-political field. The Troubles sequence treats Northern Ireland's escalation as a chain of institutional, memory, policing, paramilitary, and counterinsurgency decisions rather than timeless hatred.
 
@@ -47,15 +50,16 @@ The national-symbol and sport branches use South Africa, Brazil, the Netherlands
 ## Key Characteristics
 
 - The show is used as a source of chronological narrative history with emphasis on decisions, symbols, inherited constraints, and contingency.
+- Its abolitionist branch uses Benjamin Lay to connect Quaker equality, plantation slavery, ethical consumption, public stunts, and institutional discipline.
 - Its African female-power branch treats women rulers, queen mothers, and warriors as institutional cases while preserving slavery, coercion, and source-bias qualifications.
 - Its medieval branch treats the Hundred Years' War as a multi-causal origin problem rather than a simple throne dispute.
 - Its Elizabethan and Northern Ireland branches connect security crises to institutions, memory, legitimacy, intelligence, policing, and armed escalation.
 - Its national-symbol and sport-politics branches show public symbols as politically usable without assuming one fixed meaning.
 - Its Homeric, Mayerling, Founding Fathers, and Roman Civil War branches use literature, scandal, biography, and military career to expose institutional crisis and public authority.
-- Across branches, the sources usually resist single-cause inevitability while showing how stories, laws, symbols, and institutions make private acts, inherited claims, or reputations consequential.
 
 ## Evidence
 
+- Abolitionist activism branch: [[316-the-first-abolitionist-glt2136062721]] follows [[BenjaminLay]] and [[SarahLay]] from Colchester to [[Barbados]] and Pennsylvania, connecting [[Quakers|Quaker]] inward equality, plantation brutality, boycott, public stunts, [[BenjaminFranklin]]'s printing connection, and late Philadelphia Friends discipline against slaveholding.
 - Hundred Years' War branch: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] follows the build-up to 1337 through French power, English continental loss, Gascony homage, Capetian succession rupture, Scottish alliance pressure, Aquitaine's confiscation, and Edward III's manifesto.
 - African female-power branch: [[317-african-amazons-glt5973082485]] moves from [[TheWomanKing]] and the "African Amazons" frame through [[Kush]], [[KandakeQueens]], [[Amanirenas]], [[QueenNjinga]], [[AsanteQueenMothers]], [[YaaAsantewaa]], [[WarOfTheGoldenStool]], [[RanavalonaI]], [[Dahomey]], [[Agojie]], and [[Ghezo]] to compare female authority, military institutions, source bias, slavery, and violent rule.
 - Elizabethan security-state branch: [[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]], [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]], and [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] connect the St Bartholomew's Day Massacre, priest missions, Walsingham's intelligence work, the Throckmorton and Babington plots, Mary Stuart, trial, execution, and Armada escalation.
@@ -70,14 +74,23 @@ The national-symbol and sport branches use South Africa, Brazil, the Netherlands
 
 ## Qualifications
 
-This page summarizes only the episodes currently ingested into the wiki. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts, so vivid claims about violence and gender performance remain source-scoped.
+This page summarizes only the episodes currently ingested into the wiki. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts, so vivid claims about violence and gender performance remain source-scoped.
 
 ## What Changed
 
+- Added the Benjamin Lay abolitionist activism branch, connecting Quakers, Barbados plantation slavery, ethical-consumption boycott, public witness, and early anti-slavery discipline.
 - Added the African female-power branch through Kush, Njinga, Asante queen mothers, Ranavalona I, Dahomey, the Agojie, source criticism, and resistance-violence ambiguity.
 
 ## Relationships
 
+- [[BenjaminLay]] - central figure for the early abolitionist activism branch.
+- [[SarahLay]] - household and Barbados witness connected to Lay's moral transformation.
+- [[Quakers]] - religious community whose equality ideals and institutional inconsistency structure the branch.
+- [[Barbados]] - plantation setting for the moral shock that changes Lay's anti-slavery stance.
+- [[AbolitionistPublicWitness]] - protest-method concept grounded in Lay's stunts.
+- [[QuakerInwardEquality]] - religious equality concept behind Lay's anti-slavery reading.
+- [[SlaveProducedGoodsBoycott]] - ethical-consumption concept grounded in Lay's sugar, tea, and tobacco critique.
+- [[PlantationSlaveryMoralShock]] - experiential concept explaining the Barbados turning point.
 - [[HundredYearsWar]] - medieval conflict branch newly opened by episode 318.
 - [[AfricanFemaleAuthorityInstitutions]] - comparative gender-power branch newly opened by episode 317.
 - [[EuropeanAmazonProjection]] - source-critical frame for outsider fascination with African women warriors.

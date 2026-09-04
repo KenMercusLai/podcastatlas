@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6368
+wiki_total_pages: 6372
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "PlantVarietyIntellectualProperty"
     title: "Plant Variety Intellectual Property"
     url: "/wiki/concepts/plantvarietyintellectualproperty/"
+  - key: "PlantationSlaveryMoralShock"
+    title: "Plantation Slavery Moral Shock"
+    url: "/wiki/concepts/plantationslaverymoralshock/"
   - key: "PlasmaTVPreference"
     title: "Plasma TV Preference"
     url: "/wiki/concepts/plasmatvpreference/"

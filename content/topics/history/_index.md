@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1576
+topic_total_pages: 1577
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -3777,6 +3777,9 @@ topic_sources:
   - key: "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138"
     title: "30.孟子：战国愤青的赤子之心"
     url: "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+  - key: "316-the-first-abolitionist-glt2136062721"
+    title: "316: The First Abolitionist"
+    url: "/wiki/sources/316-the-first-abolitionist-glt2136062721/"
   - key: "317-african-amazons-glt5973082485"
     title: "317: African Amazons"
     url: "/wiki/sources/317-african-amazons-glt5973082485/"

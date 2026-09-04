@@ -4439,10 +4439,34 @@
         "RomanExpansionMoralAnxiety",
         "RepublicanEmergencyViolencePrecedent"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "benjamin-lay-abolitionist-public-witness",
+      "qualifications": [
+        "The episode frames Lay as an early activist rather than a settled literal first abolitionist.",
+        "Barbados violence details, Franklin sympathy, Quaker discipline timing, and modern protest analogies remain source-scoped."
+      ],
+      "statement": "[[316-the-first-abolitionist-glt2136062721|316: The First Abolitionist]] adds an early abolitionist branch in which [[BenjaminLay]], [[SarahLay]], [[Quakers]], and [[Barbados]] connect religious inward equality, plantation moral shock, household boycott, pamphlet circulation, and [[AbolitionistPublicWitness]] to the public scandalization of slavery before the later U.S. founding-memory branch around [[BenjaminFranklin]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "316-the-first-abolitionist-glt2136062721",
+        "BenjaminLay",
+        "SarahLay",
+        "Quakers",
+        "Barbados",
+        "QuakerInwardEquality",
+        "PlantationSlaveryMoralShock",
+        "SlaveProducedGoodsBoycott",
+        "AbolitionistPublicWitness",
+        "BenjaminFranklin",
+        "SlaveryNationalIdentityContradiction",
+        "FoundingLibertySlaverySelfCorrection"
+      ]
     }
   ],
   "input_digest": "5b2be74ba0535493c241148ebbf4dd93872f787486a41f6b1f711648d7c347e3",
-  "summary": "Roman Civil War Part 2 now extends the Rome branch from Marius-Sulla prehistory into Social War citizenship crisis, Mithridatic command competition, and the Sulpicius command-transfer rupture. African Amazons and the broader topic still track state formation, war origins, imperial crisis, public memory, legitimacy, infrastructure, and geopolitics as source-scoped historical systems.",
+  "summary": "Benjamin Lay now extends the history branch into early abolitionist activism: Quaker inward equality, Barbados plantation slavery, boycott, pamphlet publishing, and symbolic public witness made slavery a public moral scandal while first-abolitionist and Franklin details stay source-scoped. Roman Civil War Part 2, African Amazons, and the broader topic still track state formation, war origins, imperial crisis, public memory, legitimacy, infrastructure, and geopolitics as historical systems.",
   "title": "History and Geopolitics",
   "topic_id": "history-and-geopolitics"
 }

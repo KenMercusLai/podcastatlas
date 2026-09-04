@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-05
-as_of_overview_commit: 713b06e112b7744d387ede327f74e6976cb48175
-input_digest: 5b2be74ba0535493c241148ebbf4dd93872f787486a41f6b1f711648d7c347e3
+as_of_overview_commit: 10c793bf1817764288ea65b70b3be15d7e33ad38
+input_digest: 7709ffd126d45a4a6c2b86f65ce2cb60b988f03d486fa788562aa00866b9f111
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Roman Civil War Part 2 now extends the Rome branch from Marius-Sulla prehistory into Social War citizenship crisis, Mithridatic command competition, and the Sulpicius command-transfer rupture. African Amazons and the broader topic still track state formation, war origins, imperial crisis, public memory, legitimacy, infrastructure, and geopolitics as source-scoped historical systems.
+Benjamin Lay now extends the history branch into early abolitionist activism: Quaker inward equality, Barbados plantation slavery, boycott, pamphlet publishing, and symbolic public witness made slavery a public moral scandal while first-abolitionist and Franklin details stay source-scoped. Roman Civil War Part 2, African Amazons, and the broader topic still track state formation, war origins, imperial crisis, public memory, legitimacy, infrastructure, and geopolitics as historical systems.
 
 ## Cross-source Findings
 
@@ -1928,3 +1928,14 @@ The immediate Guandu setup now starts before Zhang Xiu's submission: [[zizhi-ton
 - This claim is source-scoped to Part 2 of The Rest Is History Roman Civil War sequence and stops before the next episode resolves Sulla's response after losing command.
 - Ancient casualty figures, the military-revolution label for Marius, and Manius Aquillius's motives in Asia remain source-scoped rather than settled wiki conclusions.
 - The claim extends the Part 1 Marius-Sulla prehistory rather than replacing the later Caesar-focused late-republic crisis branch.
+
+### Benjamin Lay Abolitionist Public Witness
+
+[[316-the-first-abolitionist-glt2136062721|316: The First Abolitionist]] adds an early abolitionist branch in which [[BenjaminLay]], [[SarahLay]], [[Quakers]], and [[Barbados]] connect religious inward equality, plantation moral shock, household boycott, pamphlet circulation, and [[AbolitionistPublicWitness]] to the public scandalization of slavery before the later U.S. founding-memory branch around [[BenjaminFranklin]].
+
+**Evidence:** [[316-the-first-abolitionist-glt2136062721]], [[BenjaminLay]], [[SarahLay]], [[Quakers]], [[Barbados]], [[QuakerInwardEquality]], [[PlantationSlaveryMoralShock]], [[SlaveProducedGoodsBoycott]], [[AbolitionistPublicWitness]], [[BenjaminFranklin]], [[SlaveryNationalIdentityContradiction]], [[FoundingLibertySlaverySelfCorrection]]
+
+**Qualifications:**
+
+- The episode frames Lay as an early activist rather than a settled literal first abolitionist.
+- Barbados violence details, Franklin sympathy, Quaker discipline timing, and modern protest analogies remain source-scoped.

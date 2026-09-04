@@ -2078,6 +2078,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/aaronburr/"
     },
+    "AbolitionistPublicWitness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2136062721 [GLT2136062721].md",
+          "key": "316-the-first-abolitionist-glt2136062721",
+          "show": "The Rest Is History",
+          "title": "316: The First Abolitionist",
+          "url": "/wiki/sources/316-the-first-abolitionist-glt2136062721/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/abolitionistpublicwitness/"
+    },
     "AbsoluteGuaranteeTrap": {
       "episode_count": 1,
       "show_count": 1,
@@ -5789,6 +5805,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/baoyueasternhan/"
     },
+    "Barbados": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2136062721 [GLT2136062721].md",
+          "key": "316-the-first-abolitionist-glt2136062721",
+          "show": "The Rest Is History",
+          "title": "316: The First Abolitionist",
+          "url": "/wiki/sources/316-the-first-abolitionist-glt2136062721/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/barbados/"
+    },
     "BarbertonOhio": {
       "episode_count": 1,
       "show_count": 1,
@@ -6008,9 +6040,9 @@
       "url": "/wiki/entities/benitomussolini/"
     },
     "BenjaminFranklin": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -6018,10 +6050,33 @@
           "show": "The Rest Is History",
           "title": "684. Franklin: Revenge of the American Genius (Part 2)",
           "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        },
+        {
+          "episode_file": "GLT2136062721 [GLT2136062721].md",
+          "key": "316-the-first-abolitionist-glt2136062721",
+          "show": "The Rest Is History",
+          "title": "316: The First Abolitionist",
+          "url": "/wiki/sources/316-the-first-abolitionist-glt2136062721/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/benjaminfranklin/"
+    },
+    "BenjaminLay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2136062721 [GLT2136062721].md",
+          "key": "316-the-first-abolitionist-glt2136062721",
+          "show": "The Rest Is History",
+          "title": "316: The First Abolitionist",
+          "url": "/wiki/sources/316-the-first-abolitionist-glt2136062721/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/benjaminlay/"
     },
     "BernieSanders": {
       "episode_count": 2,
@@ -45233,6 +45288,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/plantvarietyintellectualproperty/"
     },
+    "PlantationSlaveryMoralShock": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2136062721 [GLT2136062721].md",
+          "key": "316-the-first-abolitionist-glt2136062721",
+          "show": "The Rest Is History",
+          "title": "316: The First Abolitionist",
+          "url": "/wiki/sources/316-the-first-abolitionist-glt2136062721/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/plantationslaverymoralshock/"
+    },
     "PlatformAdvertisingMonetization": {
       "episode_count": 1,
       "show_count": 1,
@@ -47616,6 +47687,38 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/qizhijianxianbei/"
+    },
+    "QuakerInwardEquality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2136062721 [GLT2136062721].md",
+          "key": "316-the-first-abolitionist-glt2136062721",
+          "show": "The Rest Is History",
+          "title": "316: The First Abolitionist",
+          "url": "/wiki/sources/316-the-first-abolitionist-glt2136062721/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/quakerinwardequality/"
+    },
+    "Quakers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2136062721 [GLT2136062721].md",
+          "key": "316-the-first-abolitionist-glt2136062721",
+          "show": "The Rest Is History",
+          "title": "316: The First Abolitionist",
+          "url": "/wiki/sources/316-the-first-abolitionist-glt2136062721/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/quakers/"
     },
     "QuantileBalancing": {
       "episode_count": 2,
@@ -50679,6 +50782,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/sarahlarniuk/"
     },
+    "SarahLay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2136062721 [GLT2136062721].md",
+          "key": "316-the-first-abolitionist-glt2136062721",
+          "show": "The Rest Is History",
+          "title": "316: The First Abolitionist",
+          "url": "/wiki/sources/316-the-first-abolitionist-glt2136062721/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/sarahlay/"
+    },
     "SarahsGlutenFreeGoods": {
       "episode_count": 1,
       "show_count": 1,
@@ -52499,6 +52618,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/situationalstrictlenientgovernance/"
+    },
+    "SlaveProducedGoodsBoycott": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2136062721 [GLT2136062721].md",
+          "key": "316-the-first-abolitionist-glt2136062721",
+          "show": "The Rest Is History",
+          "title": "316: The First Abolitionist",
+          "url": "/wiki/sources/316-the-first-abolitionist-glt2136062721/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/slaveproducedgoodsboycott/"
     },
     "SlaveryNationalIdentityContradiction": {
       "episode_count": 1,
@@ -56603,9 +56738,9 @@
       "url": "/wiki/entities/theodyssey/"
     },
     "TheRestIsHistory": {
-      "episode_count": 23,
+      "episode_count": 24,
       "show_count": 1,
-      "source_note_count": 23,
+      "source_note_count": 24,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -56767,9 +56902,16 @@
           "show": "The Rest Is History",
           "title": "317: African Amazons",
           "url": "/wiki/sources/317-african-amazons-glt5973082485/"
+        },
+        {
+          "episode_file": "GLT2136062721 [GLT2136062721].md",
+          "key": "316-the-first-abolitionist-glt2136062721",
+          "show": "The Rest Is History",
+          "title": "316: The First Abolitionist",
+          "url": "/wiki/sources/316-the-first-abolitionist-glt2136062721/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/therestishistory/"
     },
     "TheSaaSPodcast": {

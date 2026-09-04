@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6368
+wiki_total_pages: 6372
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "AHShare2025Barbell"
     title: "A/H Share 2025 Barbell"
     url: "/wiki/concepts/ahshare2025barbell/"
+  - key: "AbolitionistPublicWitness"
+    title: "Abolitionist Public Witness"
+    url: "/wiki/concepts/abolitionistpublicwitness/"
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
     url: "/wiki/concepts/abraxaswholegodsymbolism/"

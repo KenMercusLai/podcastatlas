@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3b2f0e08121b8a2aa100a7f7ca89063f172e5bcb075b31cb22cb9ed82a7a33f6",
       "7836033ed72f3f37dcd29e0a64ab97438d99a59dbb9361c725522ad2777f0a60",
       "1af54047bc7a15f503195fa18b036f2fb591f1bbf827388955d23fd8207cc5fc",
       "3d04d9a6a403b52fc52e87c9c6886bde68e1686c722a32f2cec58cf0d0e276ab",
@@ -534,11 +535,41 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 532
+    "paragraph_count": 533
   },
-  "overview_commit": "0eeb1fa03fd4fd16c8c1cbc58429e9ac0d08edb3",
-  "overview_digest": "61573fb8ed3b8289e709908dbdf66ff0fb46f196c2657a5de9ae81e4769aa33a",
+  "overview_commit": "10c793bf1817764288ea65b70b3be15d7e33ad38",
+  "overview_digest": "584bb3a87a7679f562643ee2d65d2a34e3df3363658f9909921c183f6b8bbbe6",
   "paragraphs": [
+    {
+      "id": "3b2f0e08121b8a2aa100a7f7ca89063f172e5bcb075b31cb22cb9ed82a7a33f6",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[316-the-first-abolitionist-glt2136062721|316: The First Abolitionist]], a [[TheRestIsHistory]] episode on [[BenjaminLay]], [[Quakers|Quaker]] radicalism, [[Barbados]] plantation slavery, and early abolitionist activism. It adds [[BenjaminLay]], [[SarahLay]], [[Quakers]], [[Barbados]], [[AbolitionistPublicWitness]], [[QuakerInwardEquality]], [[PlantationSlaveryMoralShock]], and [[SlaveProducedGoodsBoycott]], while extending [[BenjaminFranklin]], [[TheRestIsHistory]], [[BlackLivesMatter]], [[SlaveryNationalIdentityContradiction]], [[FoundingLibertySlaverySelfCorrection]], [[RevolutionaryMilitarySlaveryContradiction]], and [[CoercedConsentUnderSlavery]]. Its core synthesis is that Lay matters less as a literal first than as an early activist: Quaker inward equality, direct exposure to Caribbean plantation violence, household boycott, pamphlet publishing, and symbolic stunts turned slavery from tolerated background into public moral scandal. No settled contradiction is recorded; the first-abolitionist label, Barbados violence descriptions, Franklin sympathy, Quaker discipline timeline, and modern protest comparisons remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "316-the-first-abolitionist-glt2136062721",
+        "AbolitionistPublicWitness",
+        "Barbados",
+        "BenjaminFranklin",
+        "BenjaminLay",
+        "BlackLivesMatter",
+        "CoercedConsentUnderSlavery",
+        "FoundingLibertySlaverySelfCorrection",
+        "PlantationSlaveryMoralShock",
+        "QuakerInwardEquality",
+        "Quakers",
+        "RevolutionaryMilitarySlaveryContradiction",
+        "SarahLay",
+        "SlaveProducedGoodsBoycott",
+        "SlaveryNationalIdentityContradiction",
+        "TheRestIsHistory"
+      ]
+    },
     {
       "id": "7836033ed72f3f37dcd29e0a64ab97438d99a59dbb9361c725522ad2777f0a60",
       "primary_topic": "psychology-and-personal-development",
