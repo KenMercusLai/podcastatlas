@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6327
+wiki_total_pages: 6333
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1685,6 +1685,9 @@ wiki_pages:
   - key: "ArmoredCombat"
     title: "Armored Combat / 盔甲格斗"
     url: "/wiki/concepts/armoredcombat/"
+  - key: "ArtAfterViolenceMemory"
+    title: "Art After Violence Memory"
+    url: "/wiki/concepts/artafterviolencememory/"
   - key: "ArtAgainstMoralInstruction"
     title: "Art Against Moral Instruction / 反道德说教的艺术"
     url: "/wiki/concepts/artagainstmoralinstruction/"

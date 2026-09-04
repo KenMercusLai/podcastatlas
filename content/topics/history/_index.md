@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1574
+topic_total_pages: 1575
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1484,6 +1484,9 @@ topic_entities:
   - key: "Brazil"
     title: "Brazil"
     url: "/wiki/entities/brazil/"
+  - key: "BritishMuseum"
+    title: "British Museum"
+    url: "/wiki/entities/britishmuseum/"
   - key: "Bucephalus"
     title: "Bucephalus / 布西法拉斯"
     url: "/wiki/entities/bucephalus/"

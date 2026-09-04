@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8891
+wiki_total_pages: 8899
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -419,6 +419,9 @@ wiki_pages:
   - key: "WilliamSomersetMaugham"
     title: "William Somerset Maugham / 毛姆"
     url: "/wiki/entities/williamsomersetmaugham/"
+  - key: "WilliamTheConqueror"
+    title: "William the Conqueror"
+    url: "/wiki/entities/williamtheconqueror/"
   - key: "WillieWhitelaw"
     title: "Willie Whitelaw"
     url: "/wiki/entities/williewhitelaw/"

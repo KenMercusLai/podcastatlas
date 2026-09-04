@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2682
+topic_total_pages: 2685
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2005,6 +2005,9 @@ topic_concepts:
   - key: "HumanAuthorshipPremium"
     title: "Human Authorship Premium"
     url: "/wiki/concepts/humanauthorshippremium/"
+  - key: "HumanCommunityDataLicensing"
+    title: "Human Community Data Licensing"
+    url: "/wiki/concepts/humancommunitydatalicensing/"
   - key: "HumanConnectionUnderAI"
     title: "Human Connection Under AI"
     url: "/wiki/concepts/humanconnectionunderai/"
@@ -3445,6 +3448,9 @@ topic_concepts:
   - key: "TechnologyRightPowerNetwork"
     title: "Technology Right Power Network"
     url: "/wiki/concepts/technologyrightpowernetwork/"
+  - key: "TechnologyAssistedInteriorEnforcement"
+    title: "Technology-Assisted Interior Enforcement"
+    url: "/wiki/concepts/technologyassistedinteriorenforcement/"
   - key: "TeenChatbotMentalHealthRisk"
     title: "Teen Chatbot Mental Health Risk"
     url: "/wiki/concepts/teenchatbotmentalhealthrisk/"
@@ -5942,6 +5948,9 @@ topic_entities:
   - key: "Shibo"
     title: "Shibo"
     url: "/wiki/entities/shibo/"
+  - key: "ShiraOvide"
+    title: "Shira Ovide"
+    url: "/wiki/entities/shiraovide/"
   - key: "ShivonZilis"
     title: "Shivon Zilis"
     url: "/wiki/entities/shivonzilis/"

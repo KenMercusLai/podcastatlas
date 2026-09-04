@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6327
+wiki_total_pages: 6333
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "TechnologyRightPowerNetwork"
     title: "Technology Right Power Network"
     url: "/wiki/concepts/technologyrightpowernetwork/"
+  - key: "TechnologyAssistedInteriorEnforcement"
+    title: "Technology-Assisted Interior Enforcement"
+    url: "/wiki/concepts/technologyassistedinteriorenforcement/"
   - key: "TeenChatbotMentalHealthRisk"
     title: "Teen Chatbot Mental Health Risk"
     url: "/wiki/concepts/teenchatbotmentalhealthrisk/"

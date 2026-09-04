@@ -5383,6 +5383,10 @@
     "title": "Arsene Wenger / 温格",
     "url": "/wiki/entities/arsenewenger/"
   },
+  "ArtAfterViolenceMemory": {
+    "title": "Art After Violence Memory",
+    "url": "/wiki/concepts/artafterviolencememory/"
+  },
   "ArtAgainstMoralInstruction": {
     "title": "Art Against Moral Instruction / 反道德说教的艺术",
     "url": "/wiki/concepts/artagainstmoralinstruction/"
@@ -6666,6 +6670,10 @@
   "BattlefieldVictoryToFoundingOrder": {
     "title": "战场胜利到建国秩序 / Battlefield Victory To Founding Order",
     "url": "/wiki/concepts/battlefieldvictorytofoundingorder/"
+  },
+  "BayeuxTapestry": {
+    "title": "Bayeux Tapestry",
+    "url": "/wiki/entities/bayeuxtapestry/"
   },
   "BaylorCollegeOfMedicine": {
     "title": "Baylor College of Medicine",
@@ -8078,6 +8086,10 @@
   "BritishColumbia": {
     "title": "British Columbia / 加拿大BC省",
     "url": "/wiki/entities/britishcolumbia/"
+  },
+  "BritishMuseum": {
+    "title": "British Museum",
+    "url": "/wiki/entities/britishmuseum/"
   },
   "BrittYoung": {
     "title": "Britt Young",
@@ -16711,6 +16723,10 @@
     "title": "Edward Lazear",
     "url": "/wiki/entities/edwardlazear/"
   },
+  "EdwardTheConfessor": {
+    "title": "Edward the Confessor",
+    "url": "/wiki/entities/edwardtheconfessor/"
+  },
   "EdwardThorp": {
     "title": "Edward Thorp",
     "url": "/wiki/entities/edwardthorp/"
@@ -23767,6 +23783,10 @@
     "title": "Harold Bloom / 哈罗德·布鲁姆",
     "url": "/wiki/entities/haroldbloom/"
   },
+  "HaroldGodwinson": {
+    "title": "Harold Godwinson",
+    "url": "/wiki/entities/haroldgodwinson/"
+  },
   "HaroldWilson": {
     "title": "Harold Wilson",
     "url": "/wiki/entities/haroldwilson/"
@@ -25567,6 +25587,10 @@
     "title": "Human-Centered AI Education",
     "url": "/wiki/concepts/humancenteredaieducation/"
   },
+  "HumanCommunityDataLicensing": {
+    "title": "Human Community Data Licensing",
+    "url": "/wiki/concepts/humancommunitydatalicensing/"
+  },
   "HumanConnectionUnderAI": {
     "title": "Human Connection Under AI",
     "url": "/wiki/concepts/humanconnectionunderai/"
@@ -25938,6 +25962,10 @@
   "ImmigrationBacklashCycle": {
     "title": "Immigration Backlash Cycle",
     "url": "/wiki/concepts/immigrationbacklashcycle/"
+  },
+  "ImmigrationCourtThroughputPressure": {
+    "title": "Immigration Court Throughput Pressure",
+    "url": "/wiki/concepts/immigrationcourtthroughputpressure/"
   },
   "ImmigrationDNADatabaseExpansion": {
     "title": "Immigration DNA Database Expansion",
@@ -35067,6 +35095,10 @@
     "title": "Medieval Urban Marginality",
     "url": "/wiki/concepts/medievalurbanmarginality/"
   },
+  "MedievalVisualPoliticalNarrative": {
+    "title": "Medieval Visual Political Narrative",
+    "url": "/wiki/concepts/medievalvisualpoliticalnarrative/"
+  },
   "MeditationsOnFirstPhilosophy": {
     "title": "Meditations on First Philosophy / 《第一哲学的沉思》",
     "url": "/wiki/entities/meditationsonfirstphilosophy/"
@@ -35654,6 +35686,10 @@
   "MichaelLaSara": {
     "title": "Michael LaSara",
     "url": "/wiki/entities/michaellasara/"
+  },
+  "MichaelLewisCurator": {
+    "title": "Michael Lewis (Curator)",
+    "url": "/wiki/entities/michaellewiscurator/"
   },
   "MichaelLynton": {
     "title": "Michael Lynton",
@@ -37935,6 +37971,10 @@
     "title": "Nick Bloom",
     "url": "/wiki/entities/nickbloom/"
   },
+  "NickCullinan": {
+    "title": "Nick Cullinan",
+    "url": "/wiki/entities/nickcullinan/"
+  },
   "NickFountain": {
     "title": "Nick Fountain",
     "url": "/wiki/entities/nickfountain/"
@@ -38330,6 +38370,10 @@
   "NormalWorkBaseline": {
     "title": "Normal Work Baseline / 正常工作基线",
     "url": "/wiki/concepts/normalworkbaseline/"
+  },
+  "NormanConquestOfEngland": {
+    "title": "Norman Conquest of England",
+    "url": "/wiki/concepts/normanconquestofengland/"
   },
   "NorseMythology": {
     "title": "Norse Mythology / 北欧神话",
@@ -48183,6 +48227,10 @@
     "title": "Shira Aviono",
     "url": "/wiki/entities/shiraaviono/"
   },
+  "ShiraOvide": {
+    "title": "Shira Ovide",
+    "url": "/wiki/entities/shiraovide/"
+  },
   "ShireenTippett": {
     "title": "Shireen Tippett",
     "url": "/wiki/entities/shireentippett/"
@@ -52174,6 +52222,10 @@
   "TechnologicalDisasterAsInstitutionalFailure": {
     "title": "Technological Disaster As Institutional Failure",
     "url": "/wiki/concepts/technologicaldisasterasinstitutionalfailure/"
+  },
+  "TechnologyAssistedInteriorEnforcement": {
+    "title": "Technology-Assisted Interior Enforcement",
+    "url": "/wiki/concepts/technologyassistedinteriorenforcement/"
   },
   "TechnologyInnovationAsScaleEconomy": {
     "title": "Technology Innovation As Scale Economy",
@@ -57162,6 +57214,10 @@
   "WilliamSomersetMaugham": {
     "title": "William Somerset Maugham / 毛姆",
     "url": "/wiki/entities/williamsomersetmaugham/"
+  },
+  "WilliamTheConqueror": {
+    "title": "William the Conqueror",
+    "url": "/wiki/entities/williamtheconqueror/"
   },
   "WillieWhitelaw": {
     "title": "Willie Whitelaw",
@@ -63642,6 +63698,10 @@
   "iran-protests-and-sanctions": {
     "title": "Iran, protests, and sanctions",
     "url": "/wiki/sources/iran-protests-and-sanctions/"
+  },
+  "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9": {
+    "title": "Ire and ICE: the toll of America's deportations",
+    "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
   },
   "its-my-tree-why-cant-i-cut-it-down": {
     "title": "It's my tree. Why can't I cut it down?",

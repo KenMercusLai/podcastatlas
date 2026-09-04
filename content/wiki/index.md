@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Ire and ICE: the toll of America's deportations](sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9.md) — The Intelligence episode on Trump's quieter but systematic deportation campaign, Reddit's AI-search and data-licensing exposure, and the Bayeux Tapestry's first exhibition outside France.
 - [180.当一个把所有钱都放活期存款的理财恐惧者开始考虑资产配置｜串台日谈公园](sources/180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb.md) — 起朱楼宴宾客 crossover with 日谈公园 on a finance-avoidant beginner using 《资产配置行动指南》 to reframe asset allocation through self-knowledge, human capital, emergency cash, housing concentration, diversification, and no-all-in redundancy.
 - [Rick Knudtson (Workshop): The Email Signal He Ignored for 9 Months](sources/rick-knudtson-workshop-the-email-signal-he-ignored-for-9-months.md) — The SaaS Podcast episode on Workshop's pivot from intranet to enterprise internal email, audience-before-product marketing, channel-native internal communications, and audience/channel pricing.
 - [NYC public schools ban AI through middle school](sources/tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128.md) — Marketplace Tech episode on Apple succession, Google antitrust remedies, New York City school AI restrictions, companion-chatbot child safety, and shopping-agent benchmarks.
@@ -1907,6 +1908,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Bayeux Tapestry](entities/BayeuxTapestry.md) — Medieval embroidered artwork narrating the Norman Conquest and serving as a durable object of political and violence memory.
+- [British Museum](entities/BritishMuseum.md) — Cultural institution hosting the Bayeux Tapestry's source-described first exhibition outside France.
+- [Edward the Confessor](entities/EdwardTheConfessor.md) — English king whose succession politics open the Bayeux Tapestry's Norman Conquest narrative.
+- [Harold Godwinson](entities/HaroldGodwinson.md) — English claimant whose oath, kingship, defeat, and death structure the Bayeux Tapestry branch.
+- [Michael Lewis (Curator)](entities/MichaelLewisCurator.md) — Curator-side speaker explaining the Bayeux Tapestry's graphic visual immediacy and violence-memory frame.
+- [Nick Cullinan](entities/NickCullinan.md) — Museum-side speaker emphasizing the Bayeux Tapestry's missing evidence, unknown makers, and interpretive openness.
+- [Shira Ovide](entities/ShiraOvide.md) — Technology-business speaker explaining Reddit's AI-era referral, licensing, and community-data exposure.
+- [William the Conqueror](entities/WilliamTheConqueror.md) — Norman claimant whose 1066 invasion and victory are narrated by the Bayeux Tapestry.
 - [Rick Knudtson](entities/RickKnudtson.md) — Repeat SaaS founder whose Workshop story shows a customer-signal-driven pivot from intranet to internal email.
 - [Workshop](entities/WorkshopInternalComms.md) — Enterprise internal communications SaaS that found product-market fit around email-centered multi-channel messaging.
 - [Flywheel (WordPress Hosting)](entities/FlywheelWordPressHosting.md) — Rick Knudtson's prior WordPress hosting company and the operating context behind Workshop's origin.
@@ -10802,6 +10811,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Art After Violence Memory](concepts/ArtAfterViolenceMemory.md) — Art-memory frame for how violent rupture is preserved, processed, and reinterpreted through making and exhibition.
+- [Human Community Data Licensing](concepts/HumanCommunityDataLicensing.md) — AI data-licensing pattern where human discussion and volunteer moderation become a monetizable platform corpus.
+- [Immigration Court Throughput Pressure](concepts/ImmigrationCourtThroughputPressure.md) — Procedural condition where high-volume immigration hearings, weak notice, and lack of lawyers help convert arrests into removal orders.
+- [Medieval Visual Political Narrative](concepts/MedievalVisualPoliticalNarrative.md) — Visual storytelling mode where medieval sequence, symbols, and material craft make political legitimacy claims.
+- [Norman Conquest of England](concepts/NormanConquestOfEngland.md) — 1066 invasion and succession conflict as narrated through the Bayeux Tapestry branch.
+- [Technology-Assisted Interior Enforcement](concepts/TechnologyAssistedInteriorEnforcement.md) — Funded, data-aided immigration enforcement inside the United States after visible raid backlash.
 - [Customer Signal Driven Pivot](concepts/CustomerSignalDrivenPivot.md) — Product-market-fit pattern where repeated customer evidence forces a product or positioning change.
 - [Enterprise Internal Email Infrastructure](concepts/EnterpriseInternalEmailInfrastructure.md) — Enterprise communications frame treating internal email as governed, measurable, deliverable infrastructure.
 - [Channel Native Internal Communication](concepts/ChannelNativeInternalCommunication.md) — Internal communications pattern for publishing through employee channels while preserving governance and analytics.

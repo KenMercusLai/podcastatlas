@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2175
+topic_total_pages: 2178
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1405,6 +1405,9 @@ topic_concepts:
   - key: "ImmigrationBacklashCycle"
     title: "Immigration Backlash Cycle"
     url: "/wiki/concepts/immigrationbacklashcycle/"
+  - key: "ImmigrationCourtThroughputPressure"
+    title: "Immigration Court Throughput Pressure"
+    url: "/wiki/concepts/immigrationcourtthroughputpressure/"
   - key: "ImmigrationDNADatabaseExpansion"
     title: "Immigration DNA Database Expansion"
     url: "/wiki/concepts/immigrationdnadatabaseexpansion/"
@@ -2980,6 +2983,9 @@ topic_concepts:
   - key: "TechnologyRightPowerNetwork"
     title: "Technology Right Power Network"
     url: "/wiki/concepts/technologyrightpowernetwork/"
+  - key: "TechnologyAssistedInteriorEnforcement"
+    title: "Technology-Assisted Interior Enforcement"
+    url: "/wiki/concepts/technologyassistedinteriorenforcement/"
   - key: "TenantScreeningEvictionBackfire"
     title: "Tenant Screening Eviction Backfire"
     url: "/wiki/concepts/tenantscreeningevictionbackfire/"
@@ -3644,6 +3650,9 @@ topic_entities:
   - key: "1A"
     title: "1A"
     url: "/wiki/entities/1a/"
+  - key: "AaronBraun"
+    title: "Aaron Braun"
+    url: "/wiki/entities/aaronbraun/"
   - key: "AaronBurr"
     title: "Aaron Burr / 阿伦·伯尔"
     url: "/wiki/entities/aaronburr/"

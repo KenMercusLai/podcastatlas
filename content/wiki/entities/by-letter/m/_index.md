@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8891
+wiki_total_pages: 8899
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -746,6 +746,9 @@ wiki_pages:
   - key: "MichaelLaSara"
     title: "Michael LaSara"
     url: "/wiki/entities/michaellasara/"
+  - key: "MichaelLewisCurator"
+    title: "Michael Lewis (Curator)"
+    url: "/wiki/entities/michaellewiscurator/"
   - key: "MichaelLynton"
     title: "Michael Lynton"
     url: "/wiki/entities/michaellynton/"

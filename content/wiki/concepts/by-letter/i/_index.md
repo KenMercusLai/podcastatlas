@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6327
+wiki_total_pages: 6333
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "ImmigrationBacklashCycle"
     title: "Immigration Backlash Cycle"
     url: "/wiki/concepts/immigrationbacklashcycle/"
+  - key: "ImmigrationCourtThroughputPressure"
+    title: "Immigration Court Throughput Pressure"
+    url: "/wiki/concepts/immigrationcourtthroughputpressure/"
   - key: "ImmigrationDetentionExpansion"
     title: "Immigration Detention Expansion"
     url: "/wiki/concepts/immigrationdetentionexpansion/"

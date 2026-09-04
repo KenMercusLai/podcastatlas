@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8891
+wiki_total_pages: 8899
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "Battlecode"
     title: "Battlecode"
     url: "/wiki/entities/battlecode/"
+  - key: "BayeuxTapestry"
+    title: "Bayeux Tapestry"
+    url: "/wiki/entities/bayeuxtapestry/"
   - key: "BaylorCollegeOfMedicine"
     title: "Baylor College of Medicine"
     url: "/wiki/entities/baylorcollegeofmedicine/"
@@ -728,6 +731,9 @@ wiki_pages:
   - key: "BritishColumbia"
     title: "British Columbia / 加拿大BC省"
     url: "/wiki/entities/britishcolumbia/"
+  - key: "BritishMuseum"
+    title: "British Museum"
+    url: "/wiki/entities/britishmuseum/"
   - key: "BrittYoung"
     title: "Britt Young"
     url: "/wiki/entities/brittyoung/"

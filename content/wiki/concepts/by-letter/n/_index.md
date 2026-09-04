@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6327
+wiki_total_pages: 6333
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "NormalWorkBaseline"
     title: "Normal Work Baseline / 正常工作基线"
     url: "/wiki/concepts/normalworkbaseline/"
+  - key: "NormanConquestOfEngland"
+    title: "Norman Conquest of England"
+    url: "/wiki/concepts/normanconquestofengland/"
   - key: "NorseMythology"
     title: "Norse Mythology / 北欧神话"
     url: "/wiki/concepts/norsemythology/"

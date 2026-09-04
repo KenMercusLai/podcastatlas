@@ -4822,6 +4822,11 @@
   ],
   "AaronBraun": [
     {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
@@ -7936,6 +7941,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ArtAfterViolenceMemory": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ArtAgainstMoralInstruction": [
     {
       "key": "culture",
@@ -9480,6 +9492,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "BayeuxTapestry": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "BaylorCollegeOfMedicine": [
@@ -11138,6 +11157,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "BritishMuseum": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "BroadcastCentralization": [
@@ -30029,6 +30060,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "HumanCommunityDataLicensing": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "HumanConnectionUnderAI": [
     {
       "key": "technology",
@@ -30587,6 +30625,13 @@
       "label": "History",
       "url": "/topics/history/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ImmigrationCourtThroughputPressure": [
     {
       "key": "politics",
       "label": "Politics",
@@ -42778,6 +42823,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "NickCullinan": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "NickSleep": [
     {
       "key": "economics",
@@ -54397,6 +54449,18 @@
       "url": "/topics/history/"
     }
   ],
+  "ShiraOvide": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ShiroAkutagawa": [
     {
       "key": "culture",
@@ -59412,6 +59476,18 @@
     }
   ],
   "TechnologicalDisasterAsInstitutionalFailure": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "TechnologyAssistedInteriorEnforcement": [
     {
       "key": "technology",
       "label": "Technology",

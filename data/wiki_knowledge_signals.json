@@ -346,6 +346,43 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/aiandroboticeldercarelimits/"
     },
+    "AIAnswerSourceAttribution": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "tech_20260106_0106_MP_TECH_pod_128 [tech_20260106_0106_MP_TECH_pod_128].md",
+          "key": "tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How convergence will define the tech sector in 2026",
+          "url": "/wiki/sources/tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260306_0306_MP_TECH_pod_128 [tech_20260306_0306_MP_TECH_pod_128].md",
+          "key": "tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Prediction markets reel amid Iran conflict, defense contractors to drop Anthropic, and Meta's AI deal with News Corp",
+          "url": "/wiki/sources/tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
+          "key": "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs",
+          "url": "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/aianswersourceattribution/"
+    },
     "AIAsBrandMirror": {
       "episode_count": 1,
       "show_count": 1,
@@ -990,6 +1027,57 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/aicompetitionantitrustremedy/"
+    },
+    "AIContentLicensing": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "不爱直播带货的欧美消费者，为何在这家平台上大把花钱？ [1007104138].md",
+          "key": "buai-zhibo-daihuo-de-oumei-xiaofeizhe-weihe-zai-zhejia-pingtai-shang-daba-huaqian-1007104138",
+          "show": "声动早咖啡",
+          "title": "不爱直播带货的欧美消费者，为何在 Whatnot 上大把花钱？",
+          "url": "/wiki/sources/buai-zhibo-daihuo-de-oumei-xiaofeizhe-weihe-zai-zhejia-pingtai-shang-daba-huaqian-1007104138/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Open Source Wins, AGI Is Here, and Scorsese’s AI Toolkit with CEOs of Cerebras & Black Forest Labs [42029880].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880/"
+        },
+        {
+          "episode_file": "tech_20260817_TECH_pod_128 [tech_20260817_TECH_pod_128].md",
+          "key": "tech-20260817-tech-pod-128-tech-20260817-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can an AI music company make nice with human artists?",
+          "url": "/wiki/sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260421_0421_MP_TECH_pod_128 [tech_20260421_0421_MP_TECH_pod_128].md",
+          "key": "tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "News sites are blocking access to Internet Archive's Wayback Machine",
+          "url": "/wiki/sources/tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260306_0306_MP_TECH_pod_128 [tech_20260306_0306_MP_TECH_pod_128].md",
+          "key": "tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Prediction markets reel amid Iran conflict, defense contractors to drop Anthropic, and Meta's AI deal with News Corp",
+          "url": "/wiki/sources/tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/aicontentlicensing/"
     },
     "AICoworkers": {
       "episode_count": 3,
@@ -1803,6 +1891,29 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/ashareauctionpricing/"
+    },
+    "AaronBraun": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "A Keir-death experience： Britain's PM clings on [698b0dc3337b2a3b2ef0aa07].md",
+          "key": "a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07",
+          "show": "Economist Podcasts",
+          "title": "A Keir-death experience: Britain's PM clings on",
+          "url": "/wiki/sources/a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07/"
+        },
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/aaronbraun/"
     },
     "AaronBurr": {
       "episode_count": 2,
@@ -2790,9 +2901,9 @@
       "url": "/wiki/entities/alexanderhamilton/"
     },
     "AlexandraSuichBass": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
@@ -2800,9 +2911,16 @@
           "show": "Economist Podcasts",
           "title": "Bots on the ground: China leads humanoid race",
           "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        },
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/alexandrasuichbass/"
     },
     "AlexandriaOcasioCortez": {
@@ -4081,6 +4199,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/armedfollowerintegrationcost/"
+    },
+    "ArtAfterViolenceMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/artafterviolencememory/"
     },
     "ArtificialEmotionalIntelligence": {
       "episode_count": 1,
@@ -5511,6 +5645,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/battlefieldfeintandlure/"
     },
+    "BayeuxTapestry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/bayeuxtapestry/"
+    },
     "BeckWeathers": {
       "episode_count": 1,
       "show_count": 1,
@@ -6693,6 +6843,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/britisharmy/"
+    },
+    "BritishMuseum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/britishmuseum/"
     },
     "BuYangLateHan": {
       "episode_count": 1,
@@ -15537,6 +15703,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/edwardiiofengland/"
     },
+    "EdwardTheConfessor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/edwardtheconfessor/"
+    },
     "EgocentricRobotData": {
       "episode_count": 1,
       "show_count": 1,
@@ -23705,6 +23887,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/goodfriendsfilm/"
     },
+    "GoogleAIOverviews": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
+          "key": "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs",
+          "url": "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/googleaioverviews/"
+    },
     "GoogleDeepMind": {
       "episode_count": 15,
       "show_count": 10,
@@ -25240,6 +25445,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/hardtechfinancingdiscipline/"
+    },
+    "HaroldGodwinson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/haroldgodwinson/"
     },
     "HeChangEasternHan": {
       "episode_count": 4,
@@ -27309,6 +27530,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/humancenteredaieducation/"
     },
+    "HumanCommunityDataLicensing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/humancommunitydatalicensing/"
+    },
     "HumanImperfectionCreativeValue": {
       "episode_count": 1,
       "show_count": 1,
@@ -27769,6 +28006,108 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/imbangala/"
+    },
+    "ImmigrationBacklashCycle": {
+      "episode_count": 11,
+      "show_count": 6,
+      "source_note_count": 11,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Mark Cuban on the AI Bubble： Who Actually Gets Wiped Out？ [42155640].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310/"
+        },
+        {
+          "episode_file": "Taken littorally： Spain’s sudden crisis in Ceuta [6a70712c034f16a52ebfaed7].md",
+          "key": "taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7",
+          "show": "Economist Podcasts",
+          "title": "Taken littorally: Spain’s sudden crisis in Ceuta",
+          "url": "/wiki/sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7/"
+        },
+        {
+          "episode_file": "The Elon game： Musk’s vision of the future [6a633594d19896314260e5c4].md",
+          "key": "the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4",
+          "show": "Economist Podcasts",
+          "title": "The Elon game: Musk's vision of the future",
+          "url": "/wiki/sources/the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4/"
+        },
+        {
+          "episode_file": "tech_20251223_1223_MP_TECH_pod_128 [tech_20251223_1223_MP_TECH_pod_128].md",
+          "key": "tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why Big Tech leaders aligned themselves with White House politics this year",
+          "url": "/wiki/sources/tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_9ba25f0acaac69bf31e4c4f4fd031a35_20625198 [default.mp3_ywr3ahjkcgo_9ba25f0acaac69bf31e4c4f4fd031a35_20625198].md",
+          "key": "the-ice-hiring-boom",
+          "show": "Planet Money",
+          "title": "The ICE hiring boom",
+          "url": "/wiki/sources/the-ice-hiring-boom/"
+        },
+        {
+          "episode_file": "sp.05 【刘擎x林垚】＂枪杀医保巨头＂案背后的思考（下）：分裂的美国会有宪政危机吗？ [790241978].md",
+          "key": "sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978",
+          "show": "蜜獾吃书",
+          "title": "sp.05 【刘擎x林垚】\\\"枪杀医保巨头\\\"案背后的思考（下）：分裂的美国会有宪政危机吗？",
+          "url": "/wiki/sources/sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978/"
+        },
+        {
+          "episode_file": "Keep qualms and carry on： a decade after Brexit [6a3a53028a3c8822ab345d4b].md",
+          "key": "keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b",
+          "show": "Economist Podcasts",
+          "title": "Keep qualms and carry on: a decade after Brexit",
+          "url": "/wiki/sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b/"
+        },
+        {
+          "episode_file": "The 250-year experiment： America’s birthday [6a477d9aecd123914320b4ad].md",
+          "key": "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad",
+          "show": "Economist Podcasts",
+          "title": "The 250-year experiment: America's birthday",
+          "url": "/wiki/sources/the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad/"
+        },
+        {
+          "episode_file": "vol.113.从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络 [lihNKnC-3oM5EVEXOcB6A6zdwueu].md",
+          "key": "vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu",
+          "show": "起朱楼宴宾客",
+          "title": "Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络",
+          "url": "/wiki/sources/vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu/"
+        },
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/immigrationbacklashcycle/"
+    },
+    "ImmigrationCourtThroughputPressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/immigrationcourtthroughputpressure/"
     },
     "ImmigrationDNADatabaseExpansion": {
       "episode_count": 1,
@@ -38051,6 +38390,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/medicaldogmatrustrepair/"
     },
+    "MedievalVisualPoliticalNarrative": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/medievalvisualpoliticalnarrative/"
+    },
     "MegHirschberg": {
       "episode_count": 1,
       "show_count": 1,
@@ -38667,6 +39022,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/michaelkratsios/"
+    },
+    "MichaelLewisCurator": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/michaellewiscurator/"
     },
     "MicronTechnology": {
       "episode_count": 7,
@@ -40339,6 +40710,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/nicheoriginstoryexpansion/"
     },
+    "NickCullinan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/nickcullinan/"
+    },
     "NicoleBernardDawes": {
       "episode_count": 1,
       "show_count": 1,
@@ -40721,6 +41108,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/nontraditionalborrowercreditaccess/"
+    },
+    "NormanConquestOfEngland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/normanconquestofengland/"
     },
     "NortheastModernityTestSite": {
       "episode_count": 1,
@@ -41586,6 +41989,64 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/opensourcerobotplatformstrategy/"
+    },
+    "OpenWebTrafficDecline": {
+      "episode_count": 7,
+      "show_count": 4,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "tech_20260106_0106_MP_TECH_pod_128 [tech_20260106_0106_MP_TECH_pod_128].md",
+          "key": "tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How convergence will define the tech sector in 2026",
+          "url": "/wiki/sources/tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260421_0421_MP_TECH_pod_128 [tech_20260421_0421_MP_TECH_pod_128].md",
+          "key": "tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "News sites are blocking access to Internet Archive's Wayback Machine",
+          "url": "/wiki/sources/tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260306_0306_MP_TECH_pod_128 [tech_20260306_0306_MP_TECH_pod_128].md",
+          "key": "tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Prediction markets reel amid Iran conflict, defense contractors to drop Anthropic, and Meta's AI deal with News Corp",
+          "url": "/wiki/sources/tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
+          "key": "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs",
+          "url": "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "当“印钞机”百度开始失血，是天灾还是人祸？ ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [当印钞机百度开始失血，是天灾还是人祸？-1].md",
+          "key": "dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun",
+          "show": "科技乱炖",
+          "title": "当“印钞机”百度开始失血，是天灾还是人祸？",
+          "url": "/wiki/sources/dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun/"
+        },
+        {
+          "episode_file": "中文播客活化石与真OG ｜ 内核恐慌 #72 (1) [72-1].md",
+          "key": "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1",
+          "show": "内核恐慌",
+          "title": "72. 中文播客活化石与真OG",
+          "url": "/wiki/sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1/"
+        },
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/openwebtrafficdecline/"
     },
     "OperationalDetachment": {
       "episode_count": 1,
@@ -43764,6 +44225,43 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/platformantitrust/"
+    },
+    "PlatformCommunityGovernance": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 ｜ 中国互联网故事 26 [1005977305].md",
+          "key": "no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 | 中国互联网故事 26",
+          "url": "/wiki/sources/no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305/"
+        },
+        {
+          "episode_file": "SocialRadarsPod-SteveHuffman-Final [SocialRadarsPod-SteveHuffman-Final].md",
+          "key": "socialradarspod-stevehuffman-final",
+          "show": "The Social Radars",
+          "title": "Steve Huffman on Reddit's Origin Story, Sale, and Return",
+          "url": "/wiki/sources/socialradarspod-stevehuffman-final/"
+        },
+        {
+          "episode_file": "No.212 曾经的精神角落：豆瓣、知乎、贴吧、虎扑 ｜ 中国互联网故事25 [1003510980].md",
+          "key": "no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.212 曾经的精神角落：豆瓣、知乎、贴吧、虎扑 | 中国互联网故事25",
+          "url": "/wiki/sources/no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980/"
+        },
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/platformcommunitygovernance/"
     },
     "PolicyBoundAgenticLendingSupport": {
       "episode_count": 1,
@@ -46629,6 +47127,71 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/recurrencefreesurvivalendpoint/"
+    },
+    "Reddit": {
+      "episode_count": 8,
+      "show_count": 4,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_4052bf0e61c266842c6603a37e5736ab_35762332 [default.mp3_ywr3ahjkcgo_4052bf0e61c266842c6603a37e5736ab_35762332].md",
+          "key": "older-workers-arent-retiring-should-they-be-forced-to",
+          "show": "Planet Money",
+          "title": "Older workers aren't retiring. Should they be forced to?",
+          "url": "/wiki/sources/older-workers-arent-retiring-should-they-be-forced-to/"
+        },
+        {
+          "episode_file": "tech_20260122_0122_MP_TECH_pod_128 [tech_20260122_0122_MP_TECH_pod_128].md",
+          "key": "tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Unraveling the complex knot of an AI-generated hoax",
+          "url": "/wiki/sources/tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "TSR-S5-Jared-v3Final [TSR-S5-Jared-v3Final].md",
+          "key": "tsr-s5-jared-v3final-tsr-s5-jared-v3final",
+          "show": "The Social Radars",
+          "title": "Jared Friedman, Partner, Y Combinator; Co-founder, Scribd",
+          "url": "/wiki/sources/tsr-s5-jared-v3final-tsr-s5-jared-v3final/"
+        },
+        {
+          "episode_file": "tech_20260304_0304_MP_TECH_pod_128 [tech_20260304_0304_MP_TECH_pod_128].md",
+          "key": "tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Brands are racing to show up in AI search",
+          "url": "/wiki/sources/tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260225_0225_MP_TECH_pod_128 [tech_20260225_0225_MP_TECH_pod_128].md",
+          "key": "tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI Meets the Search for a BA",
+          "url": "/wiki/sources/tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "SocialRadarsSeason1-PG-v4-Updated-FINALLLL [SocialRadarsSeason1-PG-v4-Updated-FINALLLL].md",
+          "key": "socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll",
+          "show": "The Social Radars",
+          "title": "Paul Graham on Viaweb, Y Combinator, and Writing",
+          "url": "/wiki/sources/socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll/"
+        },
+        {
+          "episode_file": "SocialRadarsPod-SteveHuffman-Final [SocialRadarsPod-SteveHuffman-Final].md",
+          "key": "socialradarspod-stevehuffman-final",
+          "show": "The Social Radars",
+          "title": "Steve Huffman on Reddit's Origin Story, Sale, and Return",
+          "url": "/wiki/sources/socialradarspod-stevehuffman-final/"
+        },
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/reddit/"
     },
     "RegencyUnderCompoundCrisis": {
       "episode_count": 15,
@@ -50278,6 +50841,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/shinglesvaccinedementiasignal/"
+    },
+    "ShiraOvide": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/shiraovide/"
     },
     "ShiziChanyu": {
       "episode_count": 1,
@@ -54159,6 +54738,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/technicalleadershipfortechnologycompanies/"
     },
+    "TechnologyAssistedInteriorEnforcement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/technologyassistedinteriorenforcement/"
+    },
     "TedSarandos": {
       "episode_count": 1,
       "show_count": 1,
@@ -56150,9 +56745,9 @@
       "url": "/wiki/concepts/uschinasciencecompetition/"
     },
     "USDepartmentOfHomelandSecurity": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_9ba25f0acaac69bf31e4c4f4fd031a35_20625198 [default.mp3_ywr3ahjkcgo_9ba25f0acaac69bf31e4c4f4fd031a35_20625198].md",
@@ -56181,9 +56776,16 @@
           "show": "Marketplace Tech",
           "title": "ICE is collecting DNA from detainees for future policing",
           "url": "/wiki/sources/tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/usdepartmentofhomelandsecurity/"
     },
     "USFastFoodChinaExpansion": {
@@ -56219,9 +56821,9 @@
       "url": "/wiki/concepts/usfiscaldebtspiralrisk/"
     },
     "USImmigrationAndCustomsEnforcement": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_9ba25f0acaac69bf31e4c4f4fd031a35_20625198 [default.mp3_ywr3ahjkcgo_9ba25f0acaac69bf31e4c4f4fd031a35_20625198].md",
@@ -56250,9 +56852,16 @@
           "show": "Marketplace Tech",
           "title": "ICE is collecting DNA from detainees for future policing",
           "url": "/wiki/sources/tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/usimmigrationandcustomsenforcement/"
     },
     "Uber": {
@@ -56853,6 +57462,43 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/userfeedbackvehicledefinition/"
+    },
+    "UserPoweredContentPlatform": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 ｜ 中国互联网故事 26 [1005977305].md",
+          "key": "no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 | 中国互联网故事 26",
+          "url": "/wiki/sources/no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305/"
+        },
+        {
+          "episode_file": "SocialRadarsPod-SteveHuffman-Final [SocialRadarsPod-SteveHuffman-Final].md",
+          "key": "socialradarspod-stevehuffman-final",
+          "show": "The Social Radars",
+          "title": "Steve Huffman on Reddit's Origin Story, Sale, and Return",
+          "url": "/wiki/sources/socialradarspod-stevehuffman-final/"
+        },
+        {
+          "episode_file": "No.212 曾经的精神角落：豆瓣、知乎、贴吧、虎扑 ｜ 中国互联网故事25 [1003510980].md",
+          "key": "no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.212 曾经的精神角落：豆瓣、知乎、贴吧、虎扑 | 中国互联网故事25",
+          "url": "/wiki/sources/no-212-cengjing-de-jingshen-jiaoluo-douban-zhihu-tieba-hupu-zhongguo-hulianwang-gushi-25-1003510980/"
+        },
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/userpoweredcontentplatform/"
     },
     "VaccineScheduleTrustRebuilding": {
       "episode_count": 2,
@@ -58846,6 +59492,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/williamoforange/"
+    },
+    "WilliamTheConqueror": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
+          "key": "ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9",
+          "show": "Economist Podcasts",
+          "title": "Ire and ICE: the toll of America's deportations",
+          "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/williamtheconqueror/"
     },
     "WillieWhitelaw": {
       "episode_count": 1,

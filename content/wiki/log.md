@@ -15227,3 +15227,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-05] ingest | Ire and ICE: the toll of America's deportations
+
+Ingested the 2026-09-03 The Intelligence episode on Donald Trump's quieter but systematic deportation campaign, Reddit's AI-search and community-data licensing exposure, and the Bayeux Tapestry's first exhibition outside France. Added source `ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9`; created Bayeux, British Museum, Shira Ovide, Norman Conquest, immigration-court throughput, technology-assisted interior enforcement, human community data licensing, medieval visual political narrative, and art-after-violence memory pages; updated ICE, DHS, Aaron Braun, Alexandra Suich Bass, Reddit, Google AI Overviews, AI content licensing, AI answer attribution, open web traffic decline, platform community governance, user-powered content platforms, and immigration backlash cycle. No settled contradiction found; removal totals, voluntary-departure figures, polling, Reddit traffic and deal amounts, chatbot citation claims, and Bayeux maker/ending theories remain source-scoped.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
