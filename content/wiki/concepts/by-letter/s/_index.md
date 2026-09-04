@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6318
+wiki_total_pages: 6325
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "ScholarshipInWartime"
     title: "Scholarship In Wartime / 乱世求研究"
     url: "/wiki/concepts/scholarshipinwartime/"
+  - key: "SchoolAIBoundaries"
+    title: "School AI Boundaries"
+    url: "/wiki/concepts/schoolaiboundaries/"
   - key: "SchoolEnterpriseCooperation"
     title: "School-Enterprise Cooperation / 校企合作"
     url: "/wiki/concepts/schoolenterprisecooperation/"

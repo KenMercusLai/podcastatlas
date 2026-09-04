@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8885
+wiki_total_pages: 8890
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "Flyme"
     title: "Flyme"
     url: "/wiki/entities/flyme/"
+  - key: "FlywheelWordPressHosting"
+    title: "Flywheel (WordPress Hosting)"
+    url: "/wiki/entities/flywheelwordpresshosting/"
   - key: "FNGU"
     title: "FNGU"
     url: "/wiki/entities/fngu/"

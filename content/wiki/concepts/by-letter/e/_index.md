@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6318
+wiki_total_pages: 6325
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "EnterpriseGrowthAgent"
     title: "Enterprise Growth Agent / 企业级增长 Agent"
     url: "/wiki/concepts/enterprisegrowthagent/"
+  - key: "EnterpriseInternalEmailInfrastructure"
+    title: "Enterprise Internal Email Infrastructure"
+    url: "/wiki/concepts/enterpriseinternalemailinfrastructure/"
   - key: "EnterpriseOperationalMemory"
     title: "Enterprise Operational Memory"
     url: "/wiki/concepts/enterpriseoperationalmemory/"

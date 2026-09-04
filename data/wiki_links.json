@@ -1643,6 +1643,10 @@
     "title": "AI Company Deep Well",
     "url": "/wiki/concepts/aicompanydeepwell/"
   },
+  "AICompetitionAntitrustRemedy": {
+    "title": "AI Competition Antitrust Remedy",
+    "url": "/wiki/concepts/aicompetitionantitrustremedy/"
+  },
   "AICompressedInvestmentResearchAdvantage": {
     "title": "AI-Compressed Investment Research Advantage",
     "url": "/wiki/concepts/aicompressedinvestmentresearchadvantage/"
@@ -5715,6 +5719,10 @@
     "title": "Audience-Backed Retail Pitch",
     "url": "/wiki/concepts/audiencebackedretailpitch/"
   },
+  "AudienceBeforeProductMarketing": {
+    "title": "Audience Before Product Marketing",
+    "url": "/wiki/concepts/audiencebeforeproductmarketing/"
+  },
   "AudienceVsMeetingDiplomacy": {
     "title": "Audience-Versus-Meeting Diplomacy / 朝会之别",
     "url": "/wiki/concepts/audiencevsmeetingdiplomacy/"
@@ -9727,6 +9735,10 @@
     "title": "Channel Focus Experiments",
     "url": "/wiki/concepts/channelfocusexperiments/"
   },
+  "ChannelNativeInternalCommunication": {
+    "title": "Channel Native Internal Communication",
+    "url": "/wiki/concepts/channelnativeinternalcommunication/"
+  },
   "ChaoGe": {
     "title": "超哥",
     "url": "/wiki/entities/chaoge/"
@@ -12379,6 +12391,10 @@
     "title": "Consumer AI Hardware Product Fit / 消费级AI硬件产品适配",
     "url": "/wiki/concepts/consumeraihardwareproductfit/"
   },
+  "ConsumerAIShoppingAgentBenchmark": {
+    "title": "Consumer AI Shopping Agent Benchmark",
+    "url": "/wiki/concepts/consumeraishoppingagentbenchmark/"
+  },
   "ConsumerAMLExposure": {
     "title": "Consumer AML Exposure",
     "url": "/wiki/concepts/consumeramlexposure/"
@@ -13446,6 +13462,10 @@
   "CustomerServiceSludge": {
     "title": "Customer Service Sludge",
     "url": "/wiki/concepts/customerservicesludge/"
+  },
+  "CustomerSignalDrivenPivot": {
+    "title": "Customer Signal Driven Pivot",
+    "url": "/wiki/concepts/customersignaldrivenpivot/"
   },
   "CustomerSuccessEngineer": {
     "title": "Customer Success Engineer",
@@ -17467,6 +17487,10 @@
     "title": "Enterprise Growth Agent / 企业级增长 Agent",
     "url": "/wiki/concepts/enterprisegrowthagent/"
   },
+  "EnterpriseInternalEmailInfrastructure": {
+    "title": "Enterprise Internal Email Infrastructure",
+    "url": "/wiki/concepts/enterpriseinternalemailinfrastructure/"
+  },
   "EnterpriseOperationalMemory": {
     "title": "Enterprise Operational Memory",
     "url": "/wiki/concepts/enterpriseoperationalmemory/"
@@ -19674,6 +19698,10 @@
   "Flyme": {
     "title": "Flyme",
     "url": "/wiki/entities/flyme/"
+  },
+  "FlywheelWordPressHosting": {
+    "title": "Flywheel (WordPress Hosting)",
+    "url": "/wiki/entities/flywheelwordpresshosting/"
   },
   "FocusFly": {
     "title": "FocusFly / 专注飞机",
@@ -23650,6 +23678,10 @@
   "HappyFamilyOrganics": {
     "title": "Happy Family Organics",
     "url": "/wiki/entities/happyfamilyorganics/"
+  },
+  "HappyMondayClub": {
+    "title": "Happy Monday Club",
+    "url": "/wiki/entities/happymondayclub/"
   },
   "HardAIInfrastructure": {
     "title": "Hard AI Infrastructure / 硬AI基础设施",
@@ -37755,6 +37787,10 @@
     "title": "New York City",
     "url": "/wiki/entities/newyorkcity/"
   },
+  "NewYorkCityPublicSchools": {
+    "title": "New York City Public Schools",
+    "url": "/wiki/entities/newyorkcitypublicschools/"
+  },
   "NewYorkInstituteOfTechnology": {
     "title": "New York Institute of Technology",
     "url": "/wiki/entities/newyorkinstituteoftechnology/"
@@ -45267,6 +45303,10 @@
     "title": "Rick Caruso",
     "url": "/wiki/entities/rickcaruso/"
   },
+  "RickKnudtson": {
+    "title": "Rick Knudtson",
+    "url": "/wiki/entities/rickknudtson/"
+  },
   "RickReichert": {
     "title": "Rick Reichert",
     "url": "/wiki/entities/rickreichert/"
@@ -46794,6 +46834,10 @@
   "ScholarshipInWartime": {
     "title": "Scholarship In Wartime / 乱世求研究",
     "url": "/wiki/concepts/scholarshipinwartime/"
+  },
+  "SchoolAIBoundaries": {
+    "title": "School AI Boundaries",
+    "url": "/wiki/concepts/schoolaiboundaries/"
   },
   "SchoolAreaMemoryEcology": {
     "title": "放学后记忆生态 / School-Area Memory Ecology",
@@ -57351,6 +57395,10 @@
     "title": "Workplace Relationship Boundaries",
     "url": "/wiki/concepts/workplacerelationshipboundaries/"
   },
+  "WorkshopInternalComms": {
+    "title": "Workshop",
+    "url": "/wiki/entities/workshopinternalcomms/"
+  },
   "WorldActionModels": {
     "title": "World Action Models",
     "url": "/wiki/concepts/worldactionmodels/"
@@ -63935,6 +63983,10 @@
     "title": "人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy",
     "url": "/wiki/sources/renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o/"
   },
+  "rick-knudtson-workshop-the-email-signal-he-ignored-for-9-months": {
+    "title": "Rick Knudtson (Workshop): The Email Signal He Ignored for 9 Months",
+    "url": "/wiki/sources/rick-knudtson-workshop-the-email-signal-he-ignored-for-9-months/"
+  },
   "riding-with-the-repo-man-update": {
     "title": "Riding with the repo man (update)",
     "url": "/wiki/sources/riding-with-the-repo-man-update/"
@@ -64746,6 +64798,10 @@
   "tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128": {
     "title": "Ring Moves to Make Its Video Footage More Private",
     "url": "/wiki/sources/tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128/"
+  },
+  "tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128": {
+    "title": "NYC public schools ban AI through middle school",
+    "url": "/wiki/sources/tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128/"
   },
   "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460": {
     "title": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？",

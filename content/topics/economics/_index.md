@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1915
+topic_total_pages: 1917
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -265,6 +265,9 @@ topic_concepts:
   - key: "AttractivenessLaborMarketPremium"
     title: "Attractiveness Labor-Market Premium / 外貌劳动力市场溢价"
     url: "/wiki/concepts/attractivenesslabormarketpremium/"
+  - key: "AudienceBeforeProductMarketing"
+    title: "Audience Before Product Marketing"
+    url: "/wiki/concepts/audiencebeforeproductmarketing/"
   - key: "AuditOpinionRisk"
     title: "Audit Opinion Risk"
     url: "/wiki/concepts/auditopinionrisk/"
@@ -727,6 +730,9 @@ topic_concepts:
   - key: "CustomerEvidenceStrategy"
     title: "Customer Evidence Strategy"
     url: "/wiki/concepts/customerevidencestrategy/"
+  - key: "CustomerSignalDrivenPivot"
+    title: "Customer Signal Driven Pivot"
+    url: "/wiki/concepts/customersignaldrivenpivot/"
   - key: "CycleWorldview"
     title: "Cycle Worldview / 周期世界观"
     url: "/wiki/concepts/cycleworldview/"

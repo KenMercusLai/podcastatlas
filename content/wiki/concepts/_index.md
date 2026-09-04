@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6318
+wiki_total_pages: 6325
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "AICompanyDeepWell"
     title: "AI Company Deep Well"
     url: "/wiki/concepts/aicompanydeepwell/"
+  - key: "AICompetitionAntitrustRemedy"
+    title: "AI Competition Antitrust Remedy"
+    url: "/wiki/concepts/aicompetitionantitrustremedy/"
   - key: "AICompressedValueCreation"
     title: "AI Compressed Value Creation"
     url: "/wiki/concepts/aicompressedvaluecreation/"
@@ -1844,6 +1847,9 @@ wiki_pages:
   - key: "AttractivenessLaborMarketPremium"
     title: "Attractiveness Labor-Market Premium / 外貌劳动力市场溢价"
     url: "/wiki/concepts/attractivenesslabormarketpremium/"
+  - key: "AudienceBeforeProductMarketing"
+    title: "Audience Before Product Marketing"
+    url: "/wiki/concepts/audiencebeforeproductmarketing/"
   - key: "AudienceBackedRetailPitch"
     title: "Audience-Backed Retail Pitch"
     url: "/wiki/concepts/audiencebackedretailpitch/"

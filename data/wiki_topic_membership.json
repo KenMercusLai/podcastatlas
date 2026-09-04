@@ -2708,6 +2708,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AICompetitionAntitrustRemedy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AICompressedInvestmentResearchAdvantage": [
     {
       "key": "technology",
@@ -8413,6 +8425,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "AudienceBeforeProductMarketing": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "AudienceVsMeetingDiplomacy": [
@@ -15542,6 +15561,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ConsumerAIShoppingAgentBenchmark": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ConsumerAMLExposure": [
     {
       "key": "economics",
@@ -16788,6 +16814,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "CustomerSignalDrivenPivot": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "CustomerSupportAutomation": [
@@ -42536,6 +42569,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "NewYorkCityPublicSchools": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "NewYorkInstituteOfTechnology": [
     {
       "key": "culture",
@@ -52853,6 +52893,23 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SchoolAIBoundaries": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "SchoolEnterpriseCooperation": [
@@ -73400,6 +73457,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460": [

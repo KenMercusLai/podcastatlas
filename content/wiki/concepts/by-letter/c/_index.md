@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6318
+wiki_total_pages: 6325
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "ChannelFocusExperiments"
     title: "Channel Focus Experiments"
     url: "/wiki/concepts/channelfocusexperiments/"
+  - key: "ChannelNativeInternalCommunication"
+    title: "Channel Native Internal Communication"
+    url: "/wiki/concepts/channelnativeinternalcommunication/"
   - key: "ChaoshanMaritimeCommercialCulture"
     title: "Chaoshan Maritime Commercial Culture"
     url: "/wiki/concepts/chaoshanmaritimecommercialculture/"
@@ -1301,6 +1304,9 @@ wiki_pages:
   - key: "ConsumerAIHardwareProductFit"
     title: "Consumer AI Hardware Product Fit / 消费级AI硬件产品适配"
     url: "/wiki/concepts/consumeraihardwareproductfit/"
+  - key: "ConsumerAIShoppingAgentBenchmark"
+    title: "Consumer AI Shopping Agent Benchmark"
+    url: "/wiki/concepts/consumeraishoppingagentbenchmark/"
   - key: "ConsumerAMLExposure"
     title: "Consumer AML Exposure"
     url: "/wiki/concepts/consumeramlexposure/"
@@ -1847,6 +1853,9 @@ wiki_pages:
   - key: "CustomerServiceSludge"
     title: "Customer Service Sludge"
     url: "/wiki/concepts/customerservicesludge/"
+  - key: "CustomerSignalDrivenPivot"
+    title: "Customer Signal Driven Pivot"
+    url: "/wiki/concepts/customersignaldrivenpivot/"
   - key: "CustomerSuccessEngineer"
     title: "Customer Success Engineer"
     url: "/wiki/concepts/customersuccessengineer/"

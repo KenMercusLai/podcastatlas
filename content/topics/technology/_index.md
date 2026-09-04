@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2678
+topic_total_pages: 2682
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -238,6 +238,9 @@ topic_concepts:
   - key: "AICompanyDeepWell"
     title: "AI Company Deep Well"
     url: "/wiki/concepts/aicompanydeepwell/"
+  - key: "AICompetitionAntitrustRemedy"
+    title: "AI Competition Antitrust Remedy"
+    url: "/wiki/concepts/aicompetitionantitrustremedy/"
   - key: "AICompressedValueCreation"
     title: "AI Compressed Value Creation"
     url: "/wiki/concepts/aicompressedvaluecreation/"
@@ -1234,6 +1237,9 @@ topic_concepts:
   - key: "ConsumerAIHardwareProductFit"
     title: "Consumer AI Hardware Product Fit / 消费级AI硬件产品适配"
     url: "/wiki/concepts/consumeraihardwareproductfit/"
+  - key: "ConsumerAIShoppingAgentBenchmark"
+    title: "Consumer AI Shopping Agent Benchmark"
+    url: "/wiki/concepts/consumeraishoppingagentbenchmark/"
   - key: "ConsumerCameraSurveillance"
     title: "Consumer Camera Surveillance"
     url: "/wiki/concepts/consumercamerasurveillance/"
@@ -3124,6 +3130,9 @@ topic_concepts:
   - key: "ScenarioSpecificAI"
     title: "Scenario-Specific AI"
     url: "/wiki/concepts/scenariospecificai/"
+  - key: "SchoolAIBoundaries"
+    title: "School AI Boundaries"
+    url: "/wiki/concepts/schoolaiboundaries/"
   - key: "ScienceEducationAsCivicLiteracy"
     title: "Science Education As Civic Literacy / 作为公民素养的科学教育"
     url: "/wiki/concepts/scienceeducationascivicliteracy/"
@@ -7626,6 +7635,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345"
     title: "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
+  - key: "tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128"
+    title: "NYC public schools ban AI through middle school"
+    url: "/wiki/sources/tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128/"
   - key: "omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb"
     title: "Omission accomplished: why the Iran-war cycle spins on"
     url: "/wiki/sources/omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb/"

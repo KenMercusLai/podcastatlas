@@ -2,35 +2,53 @@
 title: "Siri"
 type: entity
 tags: [ai-tool, assistant, platform]
-sources: [165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-08-06
+sources:
+  - 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646
+  - vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1
+  - vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1
+  - wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d
+  - tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128
+  - tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128
+last_updated: 2026-09-04
+knowledge_schema: synthesis-v1
 ---
 
 # Siri
 
-[[165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646]] adds a small but useful elder-access example. In the episode's [[YinfaChuanliu|《银发川柳》]] discussion, a poem jokes that only [[Siri]] will answer repeated questions without getting angry; the source uses this as part of [[ElderTechnologyExclusion]], where patient assistance helps but does not solve the broader problem of aging users facing fast digital service migration.
+## Overview
+Siri is Apple's assistant interface and a recurring test case for whether AI becomes platform-native, device-integrated, and useful across services rather than remaining a separate chatbot or voice layer.
 
-[[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] adds a Marketplace Tech Bytes update that [[Apple]] announced it would use [[Google]] [[Gemini]] for advanced AI features, including the long-awaited new Siri. [[AnitaRamaswamy]] says the updated assistant is expected to have memory and may arrive as a subtle interface change rather than a flashy redesign.
+## Current Profile
+The wiki's Siri sources move from elder-access patience and Gemini partnership speculation to a sharper Apple platform question. A stronger Siri could turn AI assistance into an operating-system capability across reminders, forms, search, scheduling, device control, and service execution. The September 2026 source adds a more optimistic near-term note: Stern says she has tested the delayed new Siri and found it promising, while still tying its success to iOS 27 timing, Apple privacy, and integration with future devices.
 
-Siri is discussed in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] as [[Apple]]'s assistant and possible carrier for stronger AI capability. The hosts treat a Gemini-enhanced Siri as strategically important because it could move agentic workflows into the phone operating system rather than leaving them in separate apps.
+## Key Characteristics
+- Siri represents platform-native AI because it can sit inside the phone and device ecosystem rather than in a separate app.
+- Its strategic value depends on memory, context, app/service access, task execution, and permission design.
+- Its weakness is delay: sources repeatedly frame Apple's assistant upgrade as arriving later than the broader agentic-software cycle.
+- Its social value includes patient repeated-question support, but this does not solve broader digital exclusion for older users.
+- Its next Apple test is whether privacy-centered device integration can become visible user value rather than an abstract brand promise.
 
-[[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds the pre-WWDC 2026 expectation version: the hosts treat a stronger Siri or [[Gemini]] partnership as Apple's chance to show whether its device-level assistant can keep pace with the faster agentic-software cycle.
+## Evidence
+- Elder-access evidence: [[165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646]] uses Siri as an example of patient repeated-question assistance in a broader discussion of older users and digital service migration.
+- Gemini-partner evidence: [[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] says Apple would use Google Gemini for advanced AI features including the long-awaited new Siri.
+- Platform strategy evidence: [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] treats Gemini-enhanced Siri as a route for agentic workflows to move into the phone operating system.
+- Pre-WWDC pressure evidence: [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] frames stronger Siri or a Gemini partnership as Apple's chance to keep pace with agentic software.
+- Assistant-completion evidence: [[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] says Siri and Apple Intelligence are more integrated but still incomplete as a true personal assistant.
+- Product-update evidence: [[tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128]] says the new Siri is expected with iOS 27, may connect to home displays and other Apple products, and was described by Stern as quite good in testing.
 
-[[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] adds the post-WWDC critique through [[DongHongguang]]. The episode says Siri and [[AppleIntelligence]] are now more integrated, but still fall short of a real personal assistant because task execution, app/service access, physical-world context, and permission design remain incomplete.
+## Qualifications
+The sources are commentary and podcast transcripts, not Apple technical documentation. They do not resolve final shipping scope, exact model architecture, regional availability, privacy implementation, or whether third-party app access will be broad enough for full assistant behavior.
 
-## Source Position
-- A stronger Siri would make AI assistance feel platform-native rather than app-native.
-- The hosts expect utility and productivity products to be vulnerable if Siri can perform reminders, form filling, search, scheduling, or app-level operations directly.
-- The same shift could create new third-party opportunities if developers build around richer operating-system context.
-- At recording time in Vol. 164, the hosts frame delayed Siri improvement as a risk because [[AgenticSoftware]] expectations are moving faster than Apple's traditional release rhythm.
-- S10E15 treats Siri as a partial platform bridge: useful if it can coordinate context and services, but vulnerable if it remains a voice interface layered on old app boundaries.
+## What Changed
+- Migrated the page to synthesis-v1.
+- Added the September 2026 source's more positive assessment of the delayed new Siri.
+- Connected Siri's near-term test to iOS 27 timing, home/device integration, privacy positioning, and John Ternus's product-leadership transition.
 
-## Connections
-- [[Apple]] — platform owner.
-- [[AppleIntelligence]] — Apple AI layer discussed with Siri in S10E15.
-- [[Gemini]] — model capability discussed as a possible Siri partner.
-- [[AgenticWorkflow]] and [[AgentFacingInterfaces]] — workflow and tool layers that a platform assistant could mediate.
-- [[AIProductFragmentation]] — product-integration frame for comparing Apple and Google AI surfaces.
-- [[AgenticSoftware]] — Vol. 164 frame for why a platform-native assistant matters.
-- [[AIAssistantServiceEntry]], [[AgentPermissionBoundaries]], and [[WearableAIAssistant]] — S10E15 assistant-completion and form-factor frames.
-- [[ElderTechnologyExclusion]] — episode 165's elder-access and repeated-question example.
+## Relationships
+- [[Apple]] - platform owner and product context.
+- [[AppleIntelligence]] - AI layer increasingly integrated with Siri.
+- [[Gemini]] - model partner discussed in multiple Siri-upgrade sources.
+- [[AIAssistantServiceEntry]] - service-execution role Siri could occupy.
+- [[AgentPermissionBoundaries]] - permission and access design needed for stronger assistant behavior.
+- [[WearableAIAssistant]] - adjacent form-factor question for device-native assistance.
+- [[ElderTechnologyExclusion]] - social-access context where patient assistance helps but remains incomplete.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2173
+topic_total_pages: 2175
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -88,6 +88,9 @@ topic_concepts:
   - key: "AIColdWar"
     title: "AI Cold War"
     url: "/wiki/concepts/aicoldwar/"
+  - key: "AICompetitionAntitrustRemedy"
+    title: "AI Competition Antitrust Remedy"
+    url: "/wiki/concepts/aicompetitionantitrustremedy/"
   - key: "AICyberDefenseUtility"
     title: "AI Cyber-Defense Utility"
     url: "/wiki/concepts/aicyberdefenseutility/"
@@ -2641,6 +2644,9 @@ topic_concepts:
   - key: "ScholarOfficialPublicDuty"
     title: "Scholar-Official Public Duty / 士大夫公共责任"
     url: "/wiki/concepts/scholarofficialpublicduty/"
+  - key: "SchoolAIBoundaries"
+    title: "School AI Boundaries"
+    url: "/wiki/concepts/schoolaiboundaries/"
   - key: "ScienceTrustPoliticization"
     title: "Science Trust Politicization"
     url: "/wiki/concepts/sciencetrustpoliticization/"

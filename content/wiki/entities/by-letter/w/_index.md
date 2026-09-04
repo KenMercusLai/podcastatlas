@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8885
+wiki_total_pages: 8890
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "Workmagic"
     title: "Workmagic"
     url: "/wiki/entities/workmagic/"
+  - key: "WorkshopInternalComms"
+    title: "Workshop"
+    url: "/wiki/entities/workshopinternalcomms/"
   - key: "WorldBank"
     title: "World Bank"
     url: "/wiki/entities/worldbank/"

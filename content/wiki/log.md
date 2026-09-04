@@ -15148,6 +15148,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-04] ingest | Rick Knudtson (Workshop): The Email Signal He Ignored for 9 Months
+
+Ingested the 2026-09-03 The SaaS Podcast episode with Rick Knudtson on Workshop's pivot from intranet to enterprise internal email. Added source `rick-knudtson-workshop-the-email-signal-he-ignored-for-9-months`; created `RickKnudtson`, `WorkshopInternalComms`, `FlywheelWordPressHosting`, `HappyMondayClub`, `CustomerSignalDrivenPivot`, `EnterpriseInternalEmailInfrastructure`, `ChannelNativeInternalCommunication`, and `AudienceBeforeProductMarketing`; updated `TheSaaSPodcast`, `OmerKhan`, `FounderEgo`, `CommunityLedSaaSGrowth`, `UsageBasedVerticalSaaSPricing`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Rick Knudtson/Knudsen spelling, customer-count, ARR, headcount, and design-partner details remain source-scoped.
+
 ## [2026-09-04] ingest | Bargaining chips: Nvidia is the bank of AI
 
 Ingested the 2026-09-04 The Intelligence episode on Nvidia's AI infrastructure finance role, British knife-crime geography, and Frank Smith's long incarceration. Added source `bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41`; created `FrankSmith`, `CountyLinesDrugTrafficking`, `RuralKnifeCrimeGeography`, `ViolenceReductionPublicHealthModel`, and `PrisonInstitutionalizationAfterLongIncarceration`; updated `ShaileshChitnis`, `SadiqKhan`, `AICircularInfrastructureFinancing`, `GPUComputeAssetBackedFinancing`, `CrimeStatisticsComparability`, `LongRunUrbanSafetyTrend`, `PardonWithoutExoneration`, `index`, and `overview`. No settled contradiction found; Nvidia obligation totals, cash-flow estimates, UK crime figures, county-lines counts, and disputed Frank Smith case details remain source-scoped.
@@ -15195,6 +15199,18 @@ Ingested the 2023-03-29 这病说来话长 rehabilitation episode with speech th
 ## [2026-09-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-04] ingest | NYC public schools ban AI through middle school
+
+Ingested the 2026-09-04 Marketplace Tech weekend review with Joanna Stern on Apple's John Ternus transition, Google antitrust remedy limits, New York City public-school AI restrictions, companion-chatbot safety, and shopping-agent benchmarks. Added source `tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128`; created `NewYorkCityPublicSchools`, `SchoolAIBoundaries`, `ConsumerAIShoppingAgentBenchmark`, and `AICompetitionAntitrustRemedy`; updated `JohnTernus`, `TimCook`, `JoannaStern`, `Siri`, `PlatformAntitrust`, `AIGuidedLearningGuardrails`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; John Ternes/Ternus spelling, Google remedy details, NYC policy implementation, and shopping-agent rankings remain source-scoped.
 
 ## [2026-09-04] lint | Wiki health check
 

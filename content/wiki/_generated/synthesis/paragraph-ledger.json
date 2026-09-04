@@ -1,6 +1,8 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "65098e1cbbc6346226cc708e540c9775f8258bbfc62c6bb6c5292f94a819abd6",
+      "6b56a605b7dd7a7bbe918d1f773f206df83bc522bd244f034c92ad0684dfc297",
       "74a0bbe76c4818fdf4da25aee7cdbadd4fa618bd8d43052b2e00cfbb289a99af",
       "4e7aba4d357e7aed6086847b7f8d126dfc6b9c3306f69d3c591f1fff1cd544f7",
       "a5a1e44ab38057a5af8309baac5ac3d208e0aadcd728f178e06cd9e2cef97bd4",
@@ -524,11 +526,68 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 522
+    "paragraph_count": 524
   },
-  "overview_commit": "b4ab144d2967e24b31e58064bc526e0c4b7feb79",
-  "overview_digest": "61bf649335064d693b5425efb632a057360ab86accfbd0298691aada46458cdf",
+  "overview_commit": "7149c7841ffd179f7102f6228584174af7ca734e",
+  "overview_digest": "90f7c1554f926c86fedf8a5225506c01154f29267d23966d71e672b24b0dcc63",
   "paragraphs": [
+    {
+      "id": "65098e1cbbc6346226cc708e540c9775f8258bbfc62c6bb6c5292f94a819abd6",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[rick-knudtson-workshop-the-email-signal-he-ignored-for-9-months|Rick Knudtson (Workshop): The email signal he ignored for 9 months]], a [[TheSaaSPodcast]] episode with [[RickKnudtson]] on [[WorkshopInternalComms|Workshop]]'s pivot from an intranet hypothesis to internal email infrastructure. It adds [[RickKnudtson]], [[WorkshopInternalComms|Workshop]], [[FlywheelWordPressHosting|Flywheel]], [[HappyMondayClub]], [[CustomerSignalDrivenPivot]], [[EnterpriseInternalEmailInfrastructure]], [[ChannelNativeInternalCommunication]], and [[AudienceBeforeProductMarketing]], while extending [[TheSaaSPodcast]], [[OmerKhan]], [[FounderEgo]], [[CommunityLedSaaSGrowth]], and [[UsageBasedVerticalSaaSPricing]]. Its core synthesis is that product-market fit can hide inside an unglamorous repeated customer complaint: Workshop ignored email for six to nine months, then saw the email product reach about 10 customers in 30 days after the intranet product had reached only about three customers in nine months. No settled contradiction is recorded; Rick Knudtson/Knudsen spelling, Workshop metrics, early-customer counts, and design-partner details remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 5,
+        "culture-and-media": 1
+      },
+      "wikilinks": [
+        "AudienceBeforeProductMarketing",
+        "ChannelNativeInternalCommunication",
+        "CommunityLedSaaSGrowth",
+        "CustomerSignalDrivenPivot",
+        "EnterpriseInternalEmailInfrastructure",
+        "FlywheelWordPressHosting",
+        "FounderEgo",
+        "HappyMondayClub",
+        "OmerKhan",
+        "RickKnudtson",
+        "TheSaaSPodcast",
+        "UsageBasedVerticalSaaSPricing",
+        "WorkshopInternalComms",
+        "rick-knudtson-workshop-the-email-signal-he-ignored-for-9-months"
+      ]
+    },
+    {
+      "id": "6b56a605b7dd7a7bbe918d1f773f206df83bc522bd244f034c92ad0684dfc297",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128|NYC public schools ban AI through middle school]], a [[MarketplaceTech]] weekend review with [[JoannaStern]] on [[Apple]] succession, [[Google]] antitrust remedies, school AI policy, and shopping agents. It adds [[NewYorkCityPublicSchools]], [[SchoolAIBoundaries]], [[ConsumerAIShoppingAgentBenchmark]], and [[AICompetitionAntitrustRemedy]], while extending [[JohnTernus]], [[TimCook]], [[Siri]], [[PlatformAntitrust]], and [[AIGuidedLearningGuardrails]]. Its core synthesis is that AI is now a cross-institutional boundary problem: Apple must turn product leadership and Siri integration into credible device value, Google can face monopoly findings without breakup remedies when courts weigh AI competition, schools can restrict classroom AI while still needing literacy plans, and shopping agents are improving quickly but remain uneven in reliability. No settled contradiction is recorded; John Ternes/Ternus spelling, Google legal details, NYC implementation, and agent product rankings remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 2,
+        "governance-and-institutions": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AICompetitionAntitrustRemedy",
+        "AIGuidedLearningGuardrails",
+        "Apple",
+        "ConsumerAIShoppingAgentBenchmark",
+        "Google",
+        "JoannaStern",
+        "JohnTernus",
+        "MarketplaceTech",
+        "NewYorkCityPublicSchools",
+        "PlatformAntitrust",
+        "SchoolAIBoundaries",
+        "Siri",
+        "TimCook",
+        "tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128"
+      ]
+    },
     {
       "id": "74a0bbe76c4818fdf4da25aee7cdbadd4fa618bd8d43052b2e00cfbb289a99af",
       "primary_topic": "ai-and-technology",

@@ -2,33 +2,50 @@
 title: "Tim Cook"
 type: entity
 tags: [person, ceo, apple, governance]
-sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
-last_updated: 2026-07-25
+sources:
+  - tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128
+  - tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128
+  - 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0
+  - tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128
+last_updated: 2026-09-04
+knowledge_schema: synthesis-v1
 ---
 
 # Tim Cook
 
-[[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] updates the succession branch from expectation to source-attributed announcement: Cook is described as stepping down as [[Apple]] CEO after about 15 years and moving into an executive chairman role. The episode says Apple revenue nearly quadrupled under Cook, while [[AnitaRamaswamy]] frames his successor [[JohnTernus]] as inheriting a harder growth environment around stagnant [[IPhone|iPhone]] sales, [[AppleIntelligence]], and the next device form factor.
+## Overview
+Tim Cook is presented as Apple's operations-centered CEO whose legacy combines massive institutional scale, values implementation, geopolitical management, and a succession handoff to hardware leader [[JohnTernus]].
 
-Tim Cook is presented in [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] as the [[Apple]] CEO whose legacy is less a single new iPhone-scale product than the institutionalization of values. The episode argues that Cook turned a personal moral compass into operational practice across [[AppleAccessibility]], [[ApplePrivacy]], environmental commitments, education, diversity, [[AppleSupplyChainResponsibility]], racial justice, and geopolitical relationship management.
+## Current Profile
+The sources contrast Cook with [[SteveJobs]] without reducing him to a failed product visionary. Jobs anchors Apple's product mythos, while Cook is described as the executive who made privacy, accessibility, environmental commitments, supply-chain responsibility, and stakeholder rhetoric into repeatable institutional practice. The Marketplace Tech sources add that this legacy now meets a harder AI-era succession test: Apple has to prove that the post-Cook leadership team can pair operational discipline with renewed device and assistant innovation.
 
-The source contrasts Cook with [[SteveJobs]] without reducing him to a lesser product visionary. Jobs is framed as the founder-artist whose "Think Different" era created the product mythos, while Cook is framed as the CEO who made values auditable, repeatable, and enforceable across a much larger global institution.
+## Key Characteristics
+- Cook's core leadership identity is operational excellence at global scale rather than founder-style product showmanship.
+- His values legacy is framed as institutionalized practice across privacy, accessibility, environmental commitments, education, diversity, and supply-chain responsibility.
+- His political role includes public moral boundaries alongside private negotiation with governments and regulators.
+- His succession is tied to Apple's need to answer slower AI perception, iPhone maturity, and next-device pressure.
+- His handoff to [[JohnTernus]] makes product innovation the visible question after an operations-dominant era.
 
-Cook's political and governance role is also central. The episode says his 2014 public coming-out, his support for the [[BusinessRoundtable]] statement, his private communication with [[DonaldTrump]] on tariffs, his public objection to the DACA cancellation, and his GDPR-era speech in the [[EuropeanUnion]] all show a pattern: business negotiation can coexist with public moral boundaries.
+## Evidence
+- Values evidence: [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] argues that Cook turned a personal moral compass into operational practice across privacy, accessibility, environment, education, diversity, labor, racial justice, and geopolitical relationship management.
+- Founder comparison evidence: [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] contrasts Cook's institutional approach with the Jobs-era product mythos.
+- Succession-pressure evidence: [[tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]] says many expected Cook to step down and connects successor speculation to Apple's need for AI-era product direction.
+- Handoff evidence: [[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] describes Cook stepping down after about 15 years and becoming executive chairman while Ternus becomes the next CEO.
+- Legacy update evidence: [[tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128]] describes Cook's legacy as making Apple a global technology superpower through operations and frames the next phase around product innovation, foldables, and Siri.
 
-[[tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]] adds a succession-pressure update. [[JoannaStern]] says many people expect Cook to step down at some point soon, while [[JohnTernus]] had appeared in reporting as a possible next CEO. The source connects that leadership planning to [[AITalentCompetition]] and Apple's need to show credible AI-era product direction.
+## Qualifications
+The Cook page synthesizes podcast and commentary sources, not primary Apple governance documents. The value-centered source argues that values and shareholder value coexisted under Cook; it does not claim Apple stopped prioritizing profit or escaped supply-chain, geopolitical, or competition tradeoffs.
 
-## Source Position
-- Cook's "moral anchor" is not described as a replacement for profit; the source says Apple still created large shareholder value under him.
-- The distinctive claim is that operational excellence gave Apple room to make non-obvious values choices in privacy, accessibility, environment, education, labor, and civil rights.
-- Cook's user-email habit is used as a symbol of maintaining contact with specific people rather than only managing aggregate market segments.
-- His China visits are interpreted as a geopolitical skill: Apple remained globally workable under U.S.-China tension partly because Cook engaged factories, stores, schools, officials, creators, and small merchants.
+## What Changed
+- Migrated the page to synthesis-v1.
+- Added the September 2026 contrast between Cook's operations legacy and the product/AI expectations facing John Ternus.
+- Clarified that Cook's legacy is both values-institutionalization and a succession problem under AI-era device pressure.
 
-## Connections
-- [[Apple]] — company whose values system Cook is said to have institutionalized.
-- [[SteveJobs]] and [[IPhone]] — comparison point for product-revolution expectations.
-- [[BusinessRoundtable]], [[StakeholderCapitalism]], and [[ShareholderPrimacy]] — governance context.
-- [[ValuesAsOperationalAsset]], [[PurposeDrivenBusiness]], [[TrustAsBusinessAsset]], and [[HumanFlourishingProfit]] — adjacent business-ethics concepts.
-- [[AppleAccessibility]], [[ApplePrivacy]], and [[AppleSupplyChainResponsibility]] — main operational domains from the source.
-- [[DonaldTrump]] and [[EuropeanUnion]] — political and regulatory contexts in the episode.
-- [[JohnTernus]], [[JoannaStern]], [[AppleIntelligence]], and [[AIPlusTerminals]] — succession, AI-leadership, and next-device pressure added by Marketplace Tech Bytes sources.
+## Relationships
+- [[Apple]] - company whose scale, values system, and succession define Cook's profile.
+- [[SteveJobs]] - founder comparison point for product-revolution expectations.
+- [[JohnTernus]] - successor whose hardware background frames the next Apple phase.
+- [[IPhone]] - mature product line central to the succession challenge.
+- [[ApplePrivacy]] - values domain strongly associated with Cook's institutional legacy.
+- [[AppleSupplyChainResponsibility]] - operational-values domain from the Cook legacy source.
+- [[AppleIntelligence]] - AI layer tied to Apple succession and post-Cook product expectations.
