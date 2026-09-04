@@ -3,18 +3,30 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-09-04
-as_of_overview_commit: c39a570ba8e3323057705f2ae2204840165450e4
-input_digest: b868aeaa42d828e038d4b35a38ed26c73558af87bbd19f74ca0b2e5bbe058de4
+last_updated: 2026-09-05
+as_of_overview_commit: ede6977371aef57029469ba6741a4a4afec91239
+input_digest: 9dc0bd4f58e0f8c986c4d9e4f650f2998c9e2bc30fdb99ab3f30ad8ccb92c8b0
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science-health-and-climate joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, speech-language rehabilitation, and nutrition/body-composition coaching through a common boundary theme: mechanism, measurement, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Health branches cover CGM and GLP-1 boundaries, headphone exposure, sugar and functional-food literacy, 24-hour sleep-wake timing through light, temperature, caffeine, substance, supplement, and phase-shifting boundaries, flexible sleep/circadian/recovery fundamentals, hormone phenotyping, exercise and flexibility safety, diagnostic safety netting, spine rehabilitation, pediatric language-delay assessment, aphasia rhythm cueing, dysarthria capability boundaries, metabolic psychiatry, bipolar and OCD care, bite escalation, individualized cancer vaccines, companion-animal welfare, and evidence-bounded body-composition fundamentals. The nonclinical strands apply the same boundary logic to Himalayan glacial floods, space launch capacity, reusable rockets, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped cultivation or historical health claims. Andy Stumpf adds a public-conversation boundary for social-media attention, substance risk, cold stress, mental-health disclosure, and extreme-environment risk, treated as source-scoped rather than medical, psychiatric, addiction, or sport instruction.
+Science-health-and-climate joins practical health literacy, anesthesiology, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, speech-language rehabilitation, and nutrition/body-composition coaching through a common boundary theme: mechanism, measurement, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Health branches cover anesthesia and perioperative recovery safety, CGM and GLP-1 boundaries, headphone exposure, sugar and functional-food literacy, 24-hour sleep-wake timing through light, temperature, caffeine, substance, supplement, and phase-shifting boundaries, flexible sleep/circadian/recovery fundamentals, hormone phenotyping, exercise and flexibility safety, diagnostic safety netting, spine rehabilitation, pediatric language-delay assessment, aphasia rhythm cueing, dysarthria capability boundaries, metabolic psychiatry, bipolar and OCD care, bite escalation, individualized cancer vaccines, companion-animal welfare, and evidence-bounded body-composition fundamentals. The nonclinical strands apply the same boundary logic to Himalayan glacial floods, space launch capacity, reusable rockets, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped cultivation or historical health claims. Andy Stumpf adds a public-conversation boundary for social-media attention, substance risk, cold stress, mental-health disclosure, and extreme-environment risk, treated as source-scoped rather than medical, psychiatric, addiction, or sport instruction.
 
 ## Cross-source Findings
+
+### Anesthesia Safety Needs Perioperative Context
+
+[[PerioperativeAnesthesiaSafety]] extends the health-literacy pattern into anesthesiology: [[DongXintong]] and [[ShenzhenPeopleHospital]] frame anesthesia as a perioperative safety system, while [[AnesthesiaDrugMythBoundary]], [[OperatingRoomPhysiologyManagement]], and [[PostAnesthesiaRecoverySafety]] keep truth-serum stories, fixed countdowns, dosing, operating-room temperature, BIS/GCS/APACHE signals, awakening, delirium, nausea, positioning, and patient-background questions bounded by [[MedicalRiskManagement]], [[MedicalDiagnosticReasoning]], [[DoctorPatientCommunication]], [[MedicalKnowledgeBoundary]], and [[MultidisciplinaryHospitalCare]].
+
+**Evidence:** [[vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr]], [[ZheBingShuoLaiHuaChang]], [[DongXintong]], [[ShenzhenPeopleHospital]], [[PerioperativeAnesthesiaSafety]], [[AnesthesiaDrugMythBoundary]], [[OperatingRoomPhysiologyManagement]], [[PostAnesthesiaRecoverySafety]], [[MedicalRiskManagement]], [[MedicalDiagnosticReasoning]], [[DoctorPatientCommunication]], [[MedicalKnowledgeBoundary]], [[MultidisciplinaryHospitalCare]]
+
+**Qualifications:**
+
+- The episode is public anesthesiology education, not individualized surgery, anesthesia, endoscopy, medication, or postoperative advice.
+- Drug effects, dreams, alcohol history, allergy, BIS/GCS/APACHE interpretation, positioning, nausea/vomiting, dosing, and awakening remain source-scoped and patient- or procedure-dependent.
+- The source backfills a 2023 episode into the wiki sequence and should not be read as a current clinical guideline.
 
 ### Sleep Timing Needs Coordinated Daily Cues
 

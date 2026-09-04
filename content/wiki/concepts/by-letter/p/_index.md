@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6372
+wiki_total_pages: 6376
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "PeriodPoverty"
     title: "Period Poverty"
     url: "/wiki/concepts/periodpoverty/"
+  - key: "PerioperativeAnesthesiaSafety"
+    title: "Perioperative Anesthesia Safety / 麻醉围手术期安全"
+    url: "/wiki/concepts/perioperativeanesthesiasafety/"
   - key: "PerioperativeCircadianRecovery"
     title: "Perioperative Circadian Recovery"
     url: "/wiki/concepts/perioperativecircadianrecovery/"
@@ -833,6 +836,9 @@ wiki_pages:
   - key: "PostAcquisitionFounderIdentity"
     title: "Post-Acquisition Founder Identity"
     url: "/wiki/concepts/postacquisitionfounderidentity/"
+  - key: "PostAnesthesiaRecoverySafety"
+    title: "Post-Anesthesia Recovery Safety / 麻醉术后苏醒与反应边界"
+    url: "/wiki/concepts/postanesthesiarecoverysafety/"
   - key: "PostApocalypticCivilizationPreservation"
     title: "Post-Apocalyptic Civilization Preservation"
     url: "/wiki/concepts/postapocalypticcivilizationpreservation/"

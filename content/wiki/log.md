@@ -15315,3 +15315,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-05] ingest | VOL.33麻醉科｜你对麻醉恐惧吗？你还记得醒来的瞬间吗？关于手术中、后麻醉的误解和禁忌｜附外科医生采访录音
+
+Ingested the 2023-03-26 这病说来话长 anesthesia episode with 董心彤 from 深圳市人民医院 on anesthesia myths, perioperative assessment, individualized dosing, operating-room temperature and monitoring, postoperative awakening, delirium, nausea/vomiting, positioning, allergy disclosure, and endoscopy aftercare. Added source `vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr`; created `DongXintong`, `PerioperativeAnesthesiaSafety`, `AnesthesiaDrugMythBoundary`, `OperatingRoomPhysiologyManagement`, and `PostAnesthesiaRecoverySafety`; updated `ShenzhenPeopleHospital`, `ZheBingShuoLaiHuaChang`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; truth-serum, dreams, alcohol effects, allergy, postoperative position, nausea, GI endoscopy eating, monitoring scores, and dosing remain source-scoped.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

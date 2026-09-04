@@ -4751,6 +4751,10 @@
     "title": "安乐",
     "url": "/wiki/entities/anerle/"
   },
+  "AnesthesiaDrugMythBoundary": {
+    "title": "Anesthesia Drug Myth Boundary / 麻醉药物误解边界",
+    "url": "/wiki/concepts/anesthesiadrugmythboundary/"
+  },
   "AnganKozo": {
     "title": "《暗眼小僧》 / Angan Kozo",
     "url": "/wiki/entities/angankozo/"
@@ -15742,6 +15746,10 @@
   "DongXianEasternHan": {
     "title": "董宪 / Dong Xian (Eastern Han)",
     "url": "/wiki/entities/dongxianeasternhan/"
+  },
+  "DongXintong": {
+    "title": "董心彤 / Dong Xintong",
+    "url": "/wiki/entities/dongxintong/"
   },
   "DongXuanEasternHan": {
     "title": "董宣 / Dong Xuan (Eastern Han)",
@@ -39467,6 +39475,10 @@
     "title": "Open-World Robot Manipulation",
     "url": "/wiki/concepts/openworldrobotmanipulation/"
   },
+  "OperatingRoomPhysiologyManagement": {
+    "title": "Operating Room Physiology Management / 手术室生理管理",
+    "url": "/wiki/concepts/operatingroomphysiologymanagement/"
+  },
   "OperationDemetrius": {
     "title": "Operation Demetrius",
     "url": "/wiki/entities/operationdemetrius/"
@@ -40899,6 +40911,10 @@
     "title": "Period Poverty",
     "url": "/wiki/concepts/periodpoverty/"
   },
+  "PerioperativeAnesthesiaSafety": {
+    "title": "Perioperative Anesthesia Safety / 麻醉围手术期安全",
+    "url": "/wiki/concepts/perioperativeanesthesiasafety/"
+  },
   "PerioperativeCircadianRecovery": {
     "title": "Perioperative Circadian Recovery",
     "url": "/wiki/concepts/perioperativecircadianrecovery/"
@@ -42086,6 +42102,10 @@
   "PostAcquisitionFounderIdentity": {
     "title": "Post-Acquisition Founder Identity",
     "url": "/wiki/concepts/postacquisitionfounderidentity/"
+  },
+  "PostAnesthesiaRecoverySafety": {
+    "title": "Post-Anesthesia Recovery Safety / 麻醉术后苏醒与反应边界",
+    "url": "/wiki/concepts/postanesthesiarecoverysafety/"
   },
   "PostApocalypticCivilizationPreservation": {
     "title": "Post-Apocalyptic Civilization Preservation",
@@ -65834,6 +65854,10 @@
   "vol-273-yingweida-ze-jianji-tianxia-1010956114": {
     "title": "Vol.273 英伟达则兼济天下？",
     "url": "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
+  },
+  "vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr": {
+    "title": "VOL.33麻醉科｜你对麻醉恐惧吗？你还记得醒来的瞬间吗？关于手术中、后麻醉的误解和禁忌｜附外科医生采访录音",
+    "url": "/wiki/sources/vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr/"
   },
   "vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om": {
     "title": "VOL.34康复医学科｜日本医疗剧里重建吞咽功能的治疗我们也可以",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6372
+wiki_total_pages: 6376
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "OpenClawMoment"
     title: "OpenClaw Moment"
     url: "/wiki/concepts/openclawmoment/"
+  - key: "OperatingRoomPhysiologyManagement"
+    title: "Operating Room Physiology Management / 手术室生理管理"
+    url: "/wiki/concepts/operatingroomphysiologymanagement/"
   - key: "OperationalCarbon"
     title: "Operational Carbon"
     url: "/wiki/concepts/operationalcarbon/"

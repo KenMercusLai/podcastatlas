@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b2ad45249bd0e71a13fd63212fafd743ad341d82e429009cb7fce0d4749edd9f",
       "3b2f0e08121b8a2aa100a7f7ca89063f172e5bcb075b31cb22cb9ed82a7a33f6",
       "7836033ed72f3f37dcd29e0a64ab97438d99a59dbb9361c725522ad2777f0a60",
       "1af54047bc7a15f503195fa18b036f2fb591f1bbf827388955d23fd8207cc5fc",
@@ -535,11 +536,35 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 533
+    "paragraph_count": 534
   },
-  "overview_commit": "10c793bf1817764288ea65b70b3be15d7e33ad38",
-  "overview_digest": "584bb3a87a7679f562643ee2d65d2a34e3df3363658f9909921c183f6b8bbbe6",
+  "overview_commit": "ede6977371aef57029469ba6741a4a4afec91239",
+  "overview_digest": "34db8b25f9030c1637443dfcbcbc50c722bb4e02f4bdfd869c100e4dbf125c0b",
   "paragraphs": [
+    {
+      "id": "b2ad45249bd0e71a13fd63212fafd743ad341d82e429009cb7fce0d4749edd9f",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr|VOL.33麻醉科｜你对麻醉恐惧吗？你还记得醒来的瞬间吗？关于手术中、后麻醉的误解和禁忌｜附外科医生采访录音]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[DongXintong|董心彤]] from [[ShenzhenPeopleHospital|深圳市人民医院]] on anesthesia myths and perioperative safety. It adds [[DongXintong]], [[PerioperativeAnesthesiaSafety]], [[AnesthesiaDrugMythBoundary]], [[OperatingRoomPhysiologyManagement]], and [[PostAnesthesiaRecoverySafety]], while extending [[ZheBingShuoLaiHuaChang]], [[ShenzhenPeopleHospital]], [[MedicalRiskManagement]], [[MedicalDiagnosticReasoning]], [[DoctorPatientCommunication]], [[MedicalKnowledgeBoundary]], and [[MultidisciplinaryHospitalCare]]. Its core synthesis is that anesthesia is a continuous safety system: anesthesiologists assess whether surgery is safe to start, maintain anesthesia for the actual operation, manage temperature and monitoring, and define recovery by breathing, muscle, consciousness, reflexes, nausea, delirium, and patient background rather than fixed countdowns or folk rules. No settled contradiction is recorded; truth-serum claims, dream experiences, alcohol effects, allergy, postoperative position, nausea, GI endoscopy eating, BIS/GCS/APACHE interpretation, and individual dosing remain source-scoped general health information rather than individualized anesthesia guidance.",
+      "topic_scores": {
+        "science-health-and-climate": 2
+      },
+      "wikilinks": [
+        "AnesthesiaDrugMythBoundary",
+        "DoctorPatientCommunication",
+        "DongXintong",
+        "MedicalDiagnosticReasoning",
+        "MedicalKnowledgeBoundary",
+        "MedicalRiskManagement",
+        "MultidisciplinaryHospitalCare",
+        "OperatingRoomPhysiologyManagement",
+        "PerioperativeAnesthesiaSafety",
+        "PostAnesthesiaRecoverySafety",
+        "ShenzhenPeopleHospital",
+        "ZheBingShuoLaiHuaChang",
+        "vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr"
+      ]
+    },
     {
       "id": "3b2f0e08121b8a2aa100a7f7ca89063f172e5bcb075b31cb22cb9ed82a7a33f6",
       "primary_topic": "history-and-geopolitics",
