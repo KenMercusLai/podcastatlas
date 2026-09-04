@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 6305
+wiki_total_pages: 6314
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "ValueInvesting"
     title: "Value Investing"
     url: "/wiki/concepts/valueinvesting/"
+  - key: "ValueSnackChannelConsolidation"
+    title: "Value Snack Channel Consolidation / 量贩零食渠道集中"
+    url: "/wiki/concepts/valuesnackchannelconsolidation/"
   - key: "ValueTrap"
     title: "Value Trap"
     url: "/wiki/concepts/valuetrap/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6305
+wiki_total_pages: 6314
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -23,6 +23,12 @@ wiki_pages:
   - key: "BalanceSheetMacroAnalysis"
     title: "Balance-Sheet Macro Analysis"
     url: "/wiki/concepts/balancesheetmacroanalysis/"
+  - key: "BalletSneakerHybrid"
+    title: "Ballet Sneaker Hybrid / 芭蕾运动鞋"
+    url: "/wiki/concepts/balletsneakerhybrid/"
+  - key: "BalletcoreFootwear"
+    title: "Balletcore Footwear / 芭蕾风鞋履"
+    url: "/wiki/concepts/balletcorefootwear/"
   - key: "BallotHarvestingTrustRisk"
     title: "Ballot Harvesting Trust Risk"
     url: "/wiki/concepts/ballotharvestingtrustrisk/"

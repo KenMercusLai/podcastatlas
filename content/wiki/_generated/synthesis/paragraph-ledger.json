@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "4e7aba4d357e7aed6086847b7f8d126dfc6b9c3306f69d3c591f1fff1cd544f7",
       "a5a1e44ab38057a5af8309baac5ac3d208e0aadcd728f178e06cd9e2cef97bd4",
       "6244d707513946f002e064d56d4e3f9c39375412923eed7692dcf08b68d6f8f2",
       "a4806b391272e689d44bcbe60c3a77398cc0e612bbc48ae87c5a613573d9af0b",
@@ -522,11 +523,53 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 520
+    "paragraph_count": 521
   },
-  "overview_commit": "6535fe364d273a42d46e887e0834ae339369dda7",
-  "overview_digest": "f2dae9b541630b87a6c8797b4fab2c7d8b2e0f10c19f02394b2b76e1d3951373",
+  "overview_commit": "fa868759a54b87c6b4b9ec71d64ce876951edfed",
+  "overview_digest": "abcfa75a3b694cde70a6cfa61c361f73f34556095e706f4be7a7441731b92f58",
   "paragraphs": [
+    {
+      "id": "4e7aba4d357e7aed6086847b7f8d126dfc6b9c3306f69d3c591f1fff1cd544f7",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166|咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？]], a [[ShengdongZaokafei|声动早咖啡]] coffee-bean episode linking short business updates with a main footwear trend explainer. It adds [[MiuMiu]], [[RockfishWeatherwear]], [[OnitsukaTiger]], [[Huaxizi]], [[MingmingHenmang]], [[WanchenGroup]], [[BalletcoreFootwear]], [[BalletSneakerHybrid]], [[ThinSoleSneakerRevival]], [[FootwearOccasionBlurring]], [[SeasonalFootwearSceneExpansion]], [[ValueSnackChannelConsolidation]], [[ChineseBeautyKoreaMarketEntry]], [[CloudSegmentRevenueDisclosure]], and [[RobotaxiPlatformDisintermediation]], while extending [[Adidas]], [[AdidasSamba]], [[Puma]], [[Birkenstock]], [[Crocs]], [[UGG]], [[ComfortLedFootwearDemand]], [[PerformanceFootwearMarket]], [[RetroProductRevival]], [[Azure]], and [[Uber]]. Its core synthesis is that ballet styling is a product-cycle and occasion-management strategy: ribbons, bows, pale pink, and soft uppers help brands refresh thin-sole and seasonal footwear while consumers seek shoes that remain comfortable but look more refined across work, school, commuting, and casual life. No settled contradiction is recorded; snack, beauty, cloud, robotaxi, sales, search, and marketplace-growth figures remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 3,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "Adidas",
+        "AdidasSamba",
+        "Azure",
+        "BalletSneakerHybrid",
+        "BalletcoreFootwear",
+        "Birkenstock",
+        "ChineseBeautyKoreaMarketEntry",
+        "CloudSegmentRevenueDisclosure",
+        "ComfortLedFootwearDemand",
+        "Crocs",
+        "FootwearOccasionBlurring",
+        "Huaxizi",
+        "MingmingHenmang",
+        "MiuMiu",
+        "OnitsukaTiger",
+        "PerformanceFootwearMarket",
+        "Puma",
+        "RetroProductRevival",
+        "RobotaxiPlatformDisintermediation",
+        "RockfishWeatherwear",
+        "SeasonalFootwearSceneExpansion",
+        "ShengdongZaokafei",
+        "ThinSoleSneakerRevival",
+        "UGG",
+        "Uber",
+        "ValueSnackChannelConsolidation",
+        "WanchenGroup",
+        "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166"
+      ]
+    },
     {
       "id": "a5a1e44ab38057a5af8309baac5ac3d208e0aadcd728f178e06cd9e2cef97bd4",
       "primary_topic": "work-education-and-society",

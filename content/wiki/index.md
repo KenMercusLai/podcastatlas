@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？](sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166.md) — 声动早咖啡 coffee-bean episode on balletcore footwear, thin-sole sneaker revival, ballet-sneaker hybrids, seasonal footwear scene expansion, and short updates on value snacks, Chinese beauty in Korea, Azure disclosure, and Uber restructuring.
 - [VOL.34康复医学科｜日本医疗剧里重建吞咽功能的治疗我们也可以](sources/vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om.md) — 这病说来话长 episode with speech therapist 梨花医生/黎花 on speech therapy scope, dysphagia safety, aspiration risk, oral-motor articulation, care pathways, and long-term rehabilitation expectations.
 - [317: African Amazons](sources/317-african-amazons-glt5973082485.md) — The Rest Is History episode on African women warriors, queen mothers, female rulers, Kush, Njinga, Asante, Ranavalona I, Dahomey's Agojie, and the moral/source problems around slavery and European "Amazon" projection.
 - [VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展](sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj.md) — 这病说来话长 episode with 阿汤 and speech therapist 梨花医生 on pediatric language-delay warning signs, family communication scaffolding, adult aphasia rhythm cueing, dysarthria boundaries, and long-term speech-language rehabilitation.
@@ -1902,6 +1903,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Miu Miu](entities/MiuMiu.md) — Luxury fashion brand treated as the 2022 catalyst for the current ballet-flat and balletcore footwear revival.
+- [Rockfish Weatherwear](entities/RockfishWeatherwear.md) — Weatherwear and footwear brand used as a case of spring/fall ballet shoes and functional ballet footwear expanding a rain-boot-origin brand.
+- [Onitsuka Tiger](entities/OnitsukaTiger.md) — Sportswear footwear brand named among companies applying ballet-inspired details to sneaker designs.
+- [Huaxizi / 花西子](entities/Huaxizi.md) — Chinese beauty brand whose Korean pop-up and store-channel entry illustrate Chinese beauty localization in Korea.
+- [Mingming Henmang / 鸣鸣很忙](entities/MingmingHenmang.md) — Chinese value snack chain used as evidence for discount-snack store growth and channel concentration.
+- [Wanchen Group / 万辰集团](entities/WanchenGroup.md) — Chinese value snack chain operator used as evidence for discount-snack revenue growth and consolidation.
 - [Hundred Years' War](entities/HundredYearsWar.md) — Anglo-French conflict branch opened through dynastic succession, Gascony homage, Scotland, Aquitaine, and competing war-memory frames.
 - [Edward III of England](entities/EdwardIIIOfEngland.md) — English king whose French claim, Scottish policy, Gascon vulnerability, and 1337 manifesto open the Hundred Years' War branch.
 - [Philip VI of France](entities/PhilipVIOfFrance.md) — Valois king chosen over Edward III's claim and tied to the 1337 confiscation of Aquitaine.
@@ -4939,7 +4946,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Community Notes](entities/CommunityNotes.md) — X fact-checking feature praised in the Rogers episode as transparent counterspeech rather than regulator-controlled labeling.
 - [NRA v. Vullo](entities/NRAVullo.md) — Supreme Court case used by Rogers to explain viewpoint-based debanking and indirect regulatory coercion.
 - [Satya Nadella](entities/SatyaNadella.md) — Microsoft CEO explaining AI strategy across Copilot, Agent 365, Azure, Foundry, Windows, OpenAI, model orchestration, diffusion, and workforce redesign.
-- [Azure](entities/Azure.md) — Microsoft cloud platform framed by Nadella as token-factory infrastructure for heterogeneous AI model and agent workloads.
+- [Azure](entities/Azure.md) — Microsoft cloud platform framed as AI token-factory infrastructure and as a cloud segment whose separate disclosure improves revenue legibility.
 - [GitHub Copilot](entities/GitHubCopilot.md) — Microsoft/GitHub coding assistant used by Nadella as the clearest path from next-edit suggestions to chat, actions, agents, and work-context integration.
 - [Agent 365](entities/Agent365.md) — Microsoft enterprise-agent identity product named by Nadella for provenance, permissions, traceability, and endpoint-style governance of agents.
 - [Microsoft Foundry](entities/MicrosoftFoundry.md) — Microsoft AI application/server layer for model orchestration, agent apps, evals, RL gyms, and enterprise-specific AI workflows.
@@ -5079,8 +5086,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chuck Taylor](entities/ChuckTaylor.md) — Converse figure whose basketball-camp feedback and signature helped make the All Star shoe family a named cultural product.
 - [Sun Choe](entities/SunChoe.md) — Former Lululemon product leader brought in to lead Vans' product, store, marketing, and Warped Tour recovery work.
 - [Salomon](entities/Salomon.md) — Outdoor and trail-linked footwear brand used as a comfort/function contrast to classic canvas shoes.
-- [Birkenstock](entities/Birkenstock.md) — Comfort-forward footwear brand used as evidence that relaxed fit and support have become style-compatible demand.
-- [Crocs](entities/Crocs.md) — Comfort-first clog brand used as a contrast to flat canvas shoes in the source's footwear-demand shift.
+- [Birkenstock](entities/Birkenstock.md) — Comfort-forward footwear brand linking relaxed support with seasonal and ballet-coded scene expansion.
+- [Crocs](entities/Crocs.md) — Comfort-first clog brand linking relaxed wearability with seasonal and ballet-coded scene expansion.
 - [DeepSeek Harness](entities/DeepSeekHarness.md) — DeepSeek developer-preview agent scheduling system described as a plugin-oriented harness layer.
 - [Lancôme / 兰蔻](entities/Lancome.md) — L'Oreal prestige-beauty brand used by the refill episode to show why high-material beauty packaging can become a reusable asset.
 - [YSL Beauty / 圣罗兰美妆](entities/YSLBeauty.md) — L'Oreal beauty brand whose cushion refill example broadens refillable beauty packaging beyond jars and bottles.
@@ -9936,12 +9943,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jianying / 剪映](entities/Jianying.md) — Video-editing competitor used to clarify Meitu's narrower workflow defensibility.
 - [盖德](entities/Gaide.md) — Running-shoe reviewer and former sports-industry product manager explaining materials, fit, sponsorship, and marathon performance in E241.
 - [Nike](entities/Nike.md) — Sportswear and footwear company framed through Vaporfly, Alphafly, carbon-plate racing, and the missed official sub-2 marathon narrative.
-- [Adidas](entities/Adidas.md) — Sportswear and footwear company framed through Ultra Boost, Adios Pro Evo 3, Samba, World Cup marketing, inventory repair, China recovery, and race-to-lifestyle demand.
+- [Adidas](entities/Adidas.md) — Sportswear and footwear company framed through running tech, Samba, World Cup marketing, inventory repair, China recovery, and ballet-coded sneaker refresh.
 - [Bjørn Gulden / 古尔登](entities/BjornGulden.md) — Adidas CEO in the Vol.271 turnaround source, associated with Yeezy inventory handling, channel repair, regional autonomy, and retro-product revival.
-- [Puma](entities/Puma.md) — Sportswear competitor used in Vol.271 as Bjørn Gulden's prior company before he became Adidas CEO.
+- [Puma](entities/Puma.md) — Sportswear competitor linked to Bjørn Gulden's prior company and named as a ballet-sneaker trend participant.
 - [Kanye West](entities/KanyeWest.md) — Artist and Yeezy collaborator whose 2022 break with Adidas becomes a celebrity-collaboration and inventory-risk case.
 - [Yeezy](entities/Yeezy.md) — Adidas-Kanye West collaboration framed by Vol.271 as both a profit engine and abrupt post-termination inventory problem.
-- [Adidas Samba](entities/AdidasSamba.md) — Retro Adidas shoe line used in Vol.271 as a Samba-led archive revival supporting Adidas' recovery.
+- [Adidas Samba](entities/AdidasSamba.md) — Retro Adidas shoe line anchoring Adidas' archive revival and the wider thin-sole sneaker cycle.
 - [New Balance](entities/NewBalance.md) — Running and lifestyle footwear brand discussed through comfort, fit, width options, running-fashion growth, and shelf-space opportunity.
 - [ASICS](entities/ASICS.md) — Running-footwear brand discussed through GEL history, slow-running comfort, and lifestyle demand.
 - [Brooks](entities/Brooks.md) — Running-footwear brand discussed as a comfort-oriented slow-running shoe company pressured by carbon-plate racing competition.
@@ -10289,7 +10296,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Xu Huazhe](entities/XuHuazhe.md) — Scientist whose planned departure from Xinghaitu frames the algorithm-versus-value-chain discussion.
 - [Zhao Hang](entities/ZhaoHang.md) — Gao Jiyang collaborator at Waymo and early Xinghaitu participant.
 - [Yang Zeyi](entities/YangZeyi.md) — Robotics hardware-system partner who helped Xinghaitu fill whole-machine capability gaps.
-- [Uber](entities/Uber.md) — Ride-hailing company whose Marketplace Tech segment argues for hybrid robotaxi deployment while Waymo supports a D.C. driverless-car bill.
+- [Uber](entities/Uber.md) — Ride-hailing platform framed through hybrid robotaxi deployment, enterprise-agent adoption, and robotaxi disintermediation pressure.
 - [Cao Xudong](entities/CaoXudong.md) — Momenta founder whose method combines data-driven autonomous driving, physical-AI ambition, customer value, and short-cycle validation.
 - [SenseTime](entities/SenseTime.md) — AI company where Gao Jiyang and Cao Xudong encountered deep-learning commercialization before later autonomous-driving and robotics work.
 - [Microsoft Research Asia](entities/MicrosoftResearchAsia.md) — Research lab where Cao Xudong worked in Sun Jian's group and absorbed experiment-centered computer-vision discipline.
@@ -10348,7 +10355,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [China Farmers Bank](entities/ChinaFarmersBank.md) — Republican-era bank named in EP23's "four banks" structure, showing differentiated institutional mandates.
 - [Standard Chartered](entities/StandardChartered.md) — Foreign-bank example in EP23's Bund and Shanghai financial-geography discussion.
 - [Russo-Chinese Bank](entities/RussoChineseBank.md) — Foreign-bank case used by EP23 to connect Shanghai finance with colonial, FX, speculative, and institutional risk.
-- [UGG](entities/UGG.md) — Sheepskin footwear brand built by Brian Smith from surf-culture traction and later scaled globally by Deckers.
+- [UGG](entities/UGG.md) — Sheepskin footwear brand built from surf-culture traction and later included in seasonal ballet-coded scene expansion.
 - [Brian Smith](entities/BrianSmith.md) — Australian founder who brought sheepskin boots to the U.S., built UGG, and sold the company to Deckers in 1995.
 - [Deckers](entities/Deckers.md) — Footwear company that acquired UGG and later scaled the brand through fashion, retail, and celebrity positioning.
 - [Charles Ponzi](entities/CharlesPonzi.md) — Historical figure used by EP28 to explain the classic new-investor-pays-old-investor fraud structure.
@@ -10784,6 +10791,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Balletcore Footwear / 芭蕾风鞋履](concepts/BalletcoreFootwear.md) — Cross-category footwear aesthetic using satin ribbons, bows, pale pink, straps, soft uppers, and ballet-flat references.
+- [Ballet-Sneaker Hybrid / 芭蕾运动鞋](concepts/BalletSneakerHybrid.md) — Hybrid product form that keeps sneaker comfort and soles while adding ballet-coded uppers and refined styling.
+- [Thin-Sole Sneaker Revival / 薄底运动鞋回潮](concepts/ThinSoleSneakerRevival.md) — Post-dad-shoe shift toward slim terrace and retro sneakers such as Samba, Gazelle, and Spezial.
+- [Footwear Occasion Blurring / 鞋履场景边界模糊](concepts/FootwearOccasionBlurring.md) — Consumer pattern of wearing athletic and comfort footwear across sport, work, school, commute, and casual settings.
+- [Seasonal Footwear Scene Expansion / 季节鞋履场景扩张](concepts/SeasonalFootwearSceneExpansion.md) — Strategy where sandals, clogs, boots, and weather footwear use design cues to broaden beyond their original season or utility.
+- [Value Snack Channel Consolidation / 量贩零食渠道集中](concepts/ValueSnackChannelConsolidation.md) — Discount snack retail pattern where fast-growing chain stores raise channel concentration and pressure old snack brands.
+- [Chinese Beauty Korea Market Entry / 中国美妆入韩](concepts/ChineseBeautyKoreaMarketEntry.md) — Pattern where Chinese beauty brands enter Korean beauty channels through design differentiation, pop-ups, and youth-oriented positioning.
+- [Cloud Segment Revenue Disclosure / 云业务分部收入披露](concepts/CloudSegmentRevenueDisclosure.md) — Financial-legibility pattern where cloud revenue is separated to help investors evaluate AI infrastructure demand.
+- [Robotaxi Platform Disintermediation / 自动驾驶平台去中介化](concepts/RobotaxiPlatformDisintermediation.md) — Risk that robotaxi suppliers can reduce ride-hailing platforms' intermediary role by reaching riders directly.
 - [African Female Authority Institutions](concepts/AfricanFemaleAuthorityInstitutions.md) — Framework for reading African female power through offices, matrilineal authority, queen mothers, ruler titles, and military regiments.
 - [European Amazon Projection](concepts/EuropeanAmazonProjection.md) — Source-critical frame for how European fascination turned African women warriors into exoticized "Amazon" spectacle.
 - [Heroic Resistance-Violence Ambiguity](concepts/HeroicResistanceViolenceAmbiguity.md) — Moral frame for rulers and regiments that resist foreign domination while remaining entangled in coercion, slavery, and harsh violence.
@@ -12547,9 +12563,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [WIC Formula Contracting](concepts/WICFormulaContracting.md) — Public-benefit contracting structure that can shape formula choice and reinforce incumbent scale.
 - [Infant Formula Market Concentration](concepts/InfantFormulaMarketConcentration.md) — Market-structure pattern where a few formula brands dominate a regulated, supply-sensitive category.
 - [Sportswear Inventory Cycle](concepts/SportswearInventoryCycle.md) — Sportswear operating pattern where long production lead times, shipping delays, regional demand swings, event years, and channel incentives turn stock into margin and cash-flow risk.
-- [Retro Product Revival](concepts/RetroProductRevival.md) — Product strategy of reactivating a recognizable archive line through current styling, social circulation, scarcity, and portfolio focus.
+- [Retro Product Revival](concepts/RetroProductRevival.md) — Product strategy of reactivating archive lines through current styling, social circulation, scarcity, and later aesthetic variation.
 - [Classic Canvas Shoe Decline](concepts/ClassicCanvasShoeDecline.md) — Pattern where famous canvas-shoe brands lose momentum as comfort demand, identity dilution, and product innovation debt compound.
-- [Comfort-Led Footwear Demand](concepts/ComfortLedFootwearDemand.md) — Consumer shift toward daily shoes that combine comfort, function, and style, pressuring flat canvas classics.
+- [Comfort-Led Footwear Demand](concepts/ComfortLedFootwearDemand.md) — Consumer shift toward daily shoes that combine comfort, function, style, and multi-occasion refinement.
 - [Subculture Mainstreaming Dilution](concepts/SubcultureMainstreamingDilution.md) — Brand failure mode where a once-subcultural product loses identity premium after broad mainstream distribution.
 - [Heritage Product Innovation Debt](concepts/HeritageProductInnovationDebt.md) — Product-strategy risk where old hero products remain recognizable but stop supplying enough fresh reasons to buy.
 - [Vulcanized Sole Tradeoff](concepts/VulcanizedSoleTradeoff.md) — Footwear design tension where durable flat soles give sport feel but weaker everyday cushioning and support.
@@ -16336,7 +16352,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Supercritical Foam Midsole](concepts/SupercriticalFoamMidsole.md) — Running-shoe foam process using gas-based foaming of TPU/TPEE/PEBA-like materials to improve cushioning, rebound, and weight.
 - [Carbon Plate Racing Shoes](concepts/CarbonPlateRacingShoes.md) — Road-racing shoe category where carbon structures, super foam, geometry, weight, and fit work as one performance system.
 - [Marathon Performance Ecosystem](concepts/MarathonPerformanceEcosystem.md) — Combined system of athlete talent, training, monitoring, recovery, footwear, sponsorship, and race attention behind marathon records.
-- [Performance Footwear Market](concepts/PerformanceFootwearMarket.md) — Market where running shoes sell through race proof, comfort, fit, materials, lifestyle adoption, channels, and price-performance.
+- [Performance Footwear Market](concepts/PerformanceFootwearMarket.md) — Market where shoes sell through race proof, comfort, fit, materials, lifestyle adoption, channels, events, and fashion-cycle refresh.
 - [Athlete Sponsorship Strategy](concepts/AthleteSponsorshipStrategy.md) — Brand strategy for backing athletes whose performance validates products, while managing rumor and incumbent-sponsor uncertainty.
 - [Forward Deployed Product Manager](concepts/ForwardDeployedProductManager.md) — Product/customer counterpart to FDE, responsible for agent behavior, quality expectations, requirements, and trust during deployment.
 - [AI Workflow Triage](concepts/AIWorkflowTriage.md) — Workflow decomposition discipline that separates deterministic, AI-suitable, and human-review steps before enterprise AI implementation.

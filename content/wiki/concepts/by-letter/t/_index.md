@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6305
+wiki_total_pages: 6314
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "ThinDiplomaticFrameworks"
     title: "Thin Diplomatic Frameworks"
     url: "/wiki/concepts/thindiplomaticframeworks/"
+  - key: "ThinSoleSneakerRevival"
+    title: "Thin-Sole Sneaker Revival / 薄底鞋回潮"
+    url: "/wiki/concepts/thinsolesneakerrevival/"
   - key: "ThirdFrontConstruction"
     title: "Third Front Construction / 三线建设"
     url: "/wiki/concepts/thirdfrontconstruction/"

@@ -15148,6 +15148,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-04] ingest | 咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？
+
+Ingested the 2026-09-04 声动早咖啡 coffee-bean episode on value-snack channel consolidation, Chinese beauty brands entering Korea, Azure revenue disclosure, Uber restructuring, and the main explainer on balletcore footwear. Added source `kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166`; created `MiuMiu`, `RockfishWeatherwear`, `OnitsukaTiger`, `Huaxizi`, `MingmingHenmang`, `WanchenGroup`, `BalletcoreFootwear`, `BalletSneakerHybrid`, `ThinSoleSneakerRevival`, `FootwearOccasionBlurring`, `SeasonalFootwearSceneExpansion`, `ValueSnackChannelConsolidation`, `ChineseBeautyKoreaMarketEntry`, `CloudSegmentRevenueDisclosure`, and `RobotaxiPlatformDisintermediation`; updated and migrated `Adidas`, `AdidasSamba`, `Puma`, `Birkenstock`, `Crocs`, `UGG`, `ComfortLedFootwearDemand`, `PerformanceFootwearMarket`, `RetroProductRevival`, `Azure`, and `Uber`; updated `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; market figures and current-event claims remain source-scoped.
+
 ## [2026-09-04] ingest | 317: African Amazons
 
 Ingested the 2023-03-30 The Rest Is History episode with Luke Pepera on African women warriors, queen mothers, and female rulers through Kush, Queen Njinga, Asante queen mothers, Ranavalona I, Dahomey, and the Agojie. Added source `317-african-amazons-glt5973082485`; created `LukePepera`, `TheWomanKing`, `Kush`, `KandakeQueens`, `Amanirenas`, `QueenNjinga`, `Ndongo`, `Matamba`, `Imbangala`, `Asante`, `AsanteQueenMothers`, `YaaAsantewaa`, `WarOfTheGoldenStool`, `RanavalonaI`, `Dahomey`, `Agojie`, `Ghezo`, `AfricanFemaleAuthorityInstitutions`, `EuropeanAmazonProjection`, and `HeroicResistanceViolenceAmbiguity`; updated `Madagascar`, `TheRestIsHistory`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; ritual violence, battlefield spectacle, population-loss, court-gender, and European-observer details remain source-scoped.
@@ -15183,6 +15187,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-04] ingest | VOL.34康复医学科｜日本医疗剧里重建吞咽功能的治疗我们也可以
 
 Ingested the 2023-03-29 这病说来话长 rehabilitation episode with speech therapist 梨花医生/黎花 on speech therapy scope, dysphagia safety, aspiration risk, oral-motor articulation, hospital care pathways, and long-term rehabilitation expectations. Added source `vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om`; created `DysphagiaRehabilitationSafety` and `FunctionalArticulationDisorder`; updated `LihuaSpeechTherapist`, `SpeechLanguageRehabilitation`, `ZheBingShuoLaiHuaChang`, `index`, and `overview`. No settled contradiction found; botulinum-toxin, gastrostomy, thickener, feeding-texture, care-pathway, and individual prognosis claims remain source-scoped public rehabilitation education rather than individualized treatment advice.
+
+## [2026-09-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-04] lint | Wiki health check
 

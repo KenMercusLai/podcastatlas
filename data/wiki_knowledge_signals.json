@@ -2003,6 +2003,73 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/addedfreesugardistinction/"
     },
+    "Adidas": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
+          "key": "vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155",
+          "show": "商业就是这样",
+          "title": "Vol.271 阿迪达斯如何触底反弹？",
+          "url": "/wiki/sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155/"
+        },
+        {
+          "episode_file": "「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战 [1004403588].md",
+          "key": "zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588",
+          "show": "声动早咖啡",
+          "title": "「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战",
+          "url": "/wiki/sources/zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588/"
+        },
+        {
+          "episode_file": "E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？ [c38d5df5-2eb3-46d3-8437-892593599d29].md",
+          "key": "e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie",
+          "show": "硅谷101",
+          "title": "E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？",
+          "url": "/wiki/sources/e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie/"
+        },
+        {
+          "episode_file": "Vol.264 把世界杯作为方法 [999416048].md",
+          "key": "vol-264-ba-shijiebei-zuowei-fangfa-999416048",
+          "show": "商业就是这样",
+          "title": "Vol.264 把世界杯作为方法",
+          "url": "/wiki/sources/vol-264-ba-shijiebei-zuowei-fangfa-999416048/"
+        },
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/adidas/"
+    },
+    "AdidasSamba": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
+          "key": "vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155",
+          "show": "商业就是这样",
+          "title": "Vol.271 阿迪达斯如何触底反弹？",
+          "url": "/wiki/sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155/"
+        },
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/adidassamba/"
+    },
     "AdultToyMarketExpansion": {
       "episode_count": 1,
       "show_count": 1,
@@ -4657,6 +4724,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/awarenessmeditationstorydropping/"
     },
+    "Azure": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Microsoft CEO Satya Nadella on AI’s Business Revolution： What Happens to SaaS, OpenAI, and Microsoft？ ｜ LIVE from Davos [39818140].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"
+        },
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/azure/"
+    },
     "BaCommanderyLateHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -4741,6 +4831,38 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/baimarelieflatehan/"
+    },
+    "BalletSneakerHybrid": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/balletsneakerhybrid/"
+    },
+    "BalletcoreFootwear": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/balletcorefootwear/"
     },
     "BallotHarvestingTrustRisk": {
       "episode_count": 1,
@@ -5630,6 +5752,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/bipolarmaniahypomaniaspectrum/"
+    },
+    "Birkenstock": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？ [1006742982].md",
+          "key": "vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982",
+          "show": "声动早咖啡",
+          "title": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？",
+          "url": "/wiki/sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982/"
+        },
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/birkenstock/"
     },
     "BirthrightCitizenshipDebate": {
       "episode_count": 1,
@@ -8965,6 +9110,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/chineseastrologicalpolitics/"
     },
+    "ChineseBeautyKoreaMarketEntry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/chinesebeautykoreamarketentry/"
+    },
     "ChineseInternetEntryPointCompetition": {
       "episode_count": 1,
       "show_count": 1,
@@ -9466,6 +9627,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/clinicalmusictherapy/"
     },
+    "CloudSegmentRevenueDisclosure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/cloudsegmentrevenuedisclosure/"
+    },
     "CoalitionFractureExploitation": {
       "episode_count": 4,
       "show_count": 1,
@@ -9885,6 +10062,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/colonialloyaltyrupture/"
+    },
+    "ComfortLedFootwearDemand": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？ [1006742982].md",
+          "key": "vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982",
+          "show": "声动早咖啡",
+          "title": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？",
+          "url": "/wiki/sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982/"
+        },
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/comfortledfootweardemand/"
     },
     "CommandContinuityDamageControl": {
       "episode_count": 4,
@@ -11141,6 +11341,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/crisiswithdrawalselfprotection/"
+    },
+    "Crocs": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？ [1006742982].md",
+          "key": "vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982",
+          "show": "声动早咖啡",
+          "title": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？",
+          "url": "/wiki/sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982/"
+        },
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/crocs/"
     },
     "CrossCoalitionCulturalIcon": {
       "episode_count": 1,
@@ -19898,6 +20121,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/foodpleasureengineering/"
     },
+    "FootwearOccasionBlurring": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/footwearoccasionblurring/"
+    },
     "ForceBackedSurrenderPersuasion": {
       "episode_count": 2,
       "show_count": 1,
@@ -26435,6 +26674,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/huaweismartselectioncarmodel/"
+    },
+    "Huaxizi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/huaxizi/"
     },
     "HubeiHumanoidInnovationCenter": {
       "episode_count": 1,
@@ -38225,6 +38480,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/mindfuleatingcuecontrol/"
     },
+    "MingmingHenmang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/mingminghenmang/"
+    },
     "Miniso": {
       "episode_count": 1,
       "show_count": 1,
@@ -38398,6 +38669,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/mitzikaspar/"
+    },
+    "MiuMiu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/miumiu/"
     },
     "MobilityFirstEmbodiedAI": {
       "episode_count": 1,
@@ -40677,6 +40964,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/ongakukissa/"
     },
+    "OnitsukaTiger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/onitsukatiger/"
+    },
     "OpenSourceAIBanRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -42300,6 +42603,57 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/perceivedsimilarityinrelationships/"
+    },
+    "PerformanceFootwearMarket": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "商业小样47 ｜ “健身做题家”的新欢HYROX，到底有什么护城河？ [1008179335].md",
+          "key": "shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335",
+          "show": "商业就是这样",
+          "title": "商业小样47 | “健身做题家”的新欢HYROX，到底有什么护城河？",
+          "url": "/wiki/sources/shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335/"
+        },
+        {
+          "episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
+          "key": "vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155",
+          "show": "商业就是这样",
+          "title": "Vol.271 阿迪达斯如何触底反弹？",
+          "url": "/wiki/sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155/"
+        },
+        {
+          "episode_file": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？ [1006742982].md",
+          "key": "vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982",
+          "show": "声动早咖啡",
+          "title": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？",
+          "url": "/wiki/sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982/"
+        },
+        {
+          "episode_file": "E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？ [c38d5df5-2eb3-46d3-8437-892593599d29].md",
+          "key": "e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie",
+          "show": "硅谷101",
+          "title": "E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？",
+          "url": "/wiki/sources/e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie/"
+        },
+        {
+          "episode_file": "138. 👟昂跑中国重直营、🦍超级猩猩不办卡 ｜ 疯投圈 (1) [138-1].md",
+          "key": "138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1",
+          "show": "疯投圈",
+          "title": "138. 昂跑中国重直营、超级猩猩不办卡",
+          "url": "/wiki/sources/138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1/"
+        },
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/performancefootwearmarket/"
     },
     "PerformanceLinkedAdSpendPricing": {
       "episode_count": 1,
@@ -44447,6 +44801,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/publicservicedigitalization/"
     },
+    "Puma": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
+          "key": "vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155",
+          "show": "商业就是这样",
+          "title": "Vol.271 阿迪达斯如何触底反弹？",
+          "url": "/wiki/sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155/"
+        },
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/puma/"
+    },
     "PunishmentAsMoralCredential": {
       "episode_count": 1,
       "show_count": 1,
@@ -46554,6 +46931,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/retaliatorypoliticalterror/"
     },
+    "RetroProductRevival": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
+          "key": "vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155",
+          "show": "商业就是这样",
+          "title": "Vol.271 阿迪达斯如何触底反弹？",
+          "url": "/wiki/sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155/"
+        },
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/retroproductrevival/"
+    },
     "ReturningArmyInterdictionRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -46999,6 +47399,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/robottrainingcenters/"
     },
+    "RobotaxiPlatformDisintermediation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/robotaxiplatformdisintermediation/"
+    },
     "RoboticsRevenuePullForward": {
       "episode_count": 1,
       "show_count": 1,
@@ -47014,6 +47430,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/roboticsrevenuepullforward/"
+    },
+    "RockfishWeatherwear": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/rockfishweatherwear/"
     },
     "RogerMortimer": {
       "episode_count": 1,
@@ -48061,6 +48493,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/seabeggars/"
+    },
+    "SeasonalFootwearSceneExpansion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/seasonalfootwearsceneexpansion/"
     },
     "SeasonalRitualConsumptionRestraint": {
       "episode_count": 1,
@@ -53489,6 +53937,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/therapeuticmusicalsynchrony/"
     },
+    "ThinSoleSneakerRevival": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/thinsolesneakerrevival/"
+    },
     "ThomasHowardDukeOfNorfolk": {
       "episode_count": 1,
       "show_count": 1,
@@ -54731,6 +55195,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/ubtechrobotics/"
     },
+    "UGG": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "UGG： Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company. [56230048-59d6-43c2-b386-7d06ea89f939].md",
+          "key": "ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939",
+          "show": "How I Built This with Guy Raz",
+          "title": "UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.",
+          "url": "/wiki/sources/ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939/"
+        },
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/ugg/"
+    },
     "USChinaScienceCompetition": {
       "episode_count": 2,
       "show_count": 1,
@@ -54859,6 +55346,57 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/usimmigrationandcustomsenforcement/"
+    },
+    "Uber": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "tech_20260821_MP_TECH_pod_128 [tech_20260821_MP_TECH_pod_128].md",
+          "key": "tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Marketplace Tech Bytes Week in Review: AI Safety, Data Center Cargo Theft, and Drone Delivery",
+          "url": "/wiki/sources/tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "tech_20251229_1229_MP_TECH_pod_128 [tech_20251229_1229_MP_TECH_pod_128].md",
+          "key": "tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Robotaxis moved into the fast lane in 2025",
+          "url": "/wiki/sources/tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260717_0717_MP_TECH_pod_128 [tech_20260717_0717_MP_TECH_pod_128].md",
+          "key": "tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The Apple vs. OpenAI legal showdown",
+          "url": "/wiki/sources/tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "期权这张饼，为什么越来越难吃了？ ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [期权这张饼，为什么越来越难吃了？-1].md",
+          "key": "qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1",
+          "show": "科技乱炖",
+          "title": "期权这张饼，为什么越来越难吃了？",
+          "url": "/wiki/sources/qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1/"
+        },
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/uber/"
     },
     "UlrichSiegmund": {
       "episode_count": 1,
@@ -55456,6 +55994,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/valoisdynasty/"
     },
+    "ValueSnackChannelConsolidation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/valuesnackchannelconsolidation/"
+    },
     "VectorBorneInfectionEscalation": {
       "episode_count": 1,
       "show_count": 1,
@@ -55848,6 +56402,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/wanchenglujiang/"
+    },
+    "WanchenGroup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
+          "key": "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+          "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/wanchengroup/"
     },
     "WangBaEasternHan": {
       "episode_count": 1,

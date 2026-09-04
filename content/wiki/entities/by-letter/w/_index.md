@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8878
+wiki_total_pages: 8884
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "WAMU"
     title: "WAMU"
     url: "/wiki/entities/wamu/"
+  - key: "WanchenGroup"
+    title: "Wanchen Group / 万辰集团"
+    url: "/wiki/entities/wanchengroup/"
   - key: "WandaJablonski"
     title: "Wanda Jablonski"
     url: "/wiki/entities/wandajablonski/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2675
+topic_total_pages: 2676
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1162,6 +1162,9 @@ topic_concepts:
   - key: "ClosedModelAPIMoatPressure"
     title: "Closed Model API Moat Pressure"
     url: "/wiki/concepts/closedmodelapimoatpressure/"
+  - key: "CloudSegmentRevenueDisclosure"
+    title: "Cloud Segment Revenue Disclosure / 云业务分部收入披露"
+    url: "/wiki/concepts/cloudsegmentrevenuedisclosure/"
   - key: "CloudStoragePhysicality"
     title: "Cloud Storage Physicality"
     url: "/wiki/concepts/cloudstoragephysicality/"

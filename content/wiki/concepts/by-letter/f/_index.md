@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6305
+wiki_total_pages: 6314
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -599,6 +599,9 @@ wiki_pages:
   - key: "FootballTransferReceivablesFinance"
     title: "Football Transfer Receivables Finance"
     url: "/wiki/concepts/footballtransferreceivablesfinance/"
+  - key: "FootwearOccasionBlurring"
+    title: "Footwear Occasion Blurring / 鞋履场景界线消融"
+    url: "/wiki/concepts/footwearoccasionblurring/"
   - key: "ForCauseRemovalStandard"
     title: "For-Cause Removal Standard"
     url: "/wiki/concepts/forcauseremovalstandard/"

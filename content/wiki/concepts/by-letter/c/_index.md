@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6305
+wiki_total_pages: 6314
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -551,6 +551,9 @@ wiki_pages:
   - key: "ChineseBankWealthManagement"
     title: "Chinese Bank Wealth Management / 中国式银行理财"
     url: "/wiki/concepts/chinesebankwealthmanagement/"
+  - key: "ChineseBeautyKoreaMarketEntry"
+    title: "Chinese Beauty Korea Market Entry / 中国美妆进入韩国市场"
+    url: "/wiki/concepts/chinesebeautykoreamarketentry/"
   - key: "ChineseBistroLocalization"
     title: "Chinese Bistro Localization / 中式小酒馆本土化"
     url: "/wiki/concepts/chinesebistrolocalization/"
@@ -833,6 +836,9 @@ wiki_pages:
   - key: "ClosedSiteAutonomousDriving"
     title: "Closed-Site Autonomous Driving"
     url: "/wiki/concepts/closedsiteautonomousdriving/"
+  - key: "CloudSegmentRevenueDisclosure"
+    title: "Cloud Segment Revenue Disclosure / 云业务分部收入披露"
+    url: "/wiki/concepts/cloudsegmentrevenuedisclosure/"
   - key: "CloudStoragePhysicality"
     title: "Cloud Storage Physicality"
     url: "/wiki/concepts/cloudstoragephysicality/"

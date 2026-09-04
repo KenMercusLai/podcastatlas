@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8878
+wiki_total_pages: 8884
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -959,6 +959,9 @@ wiki_pages:
   - key: "MitziKaspar"
     title: "Mitzi Kaspar"
     url: "/wiki/entities/mitzikaspar/"
+  - key: "MiuMiu"
+    title: "Miu Miu"
+    url: "/wiki/entities/miumiu/"
   - key: "MIUI"
     title: "MIUI"
     url: "/wiki/entities/miui/"
@@ -1580,6 +1583,9 @@ wiki_pages:
   - key: "MalingBattle"
     title: "马陵之战 / Battle of Maling"
     url: "/wiki/entities/malingbattle/"
+  - key: "MingmingHenmang"
+    title: "鸣鸣很忙 / Mingming Henmang"
+    url: "/wiki/entities/mingminghenmang/"
   - key: "MecoxLane"
     title: "麦考林 / Mecox Lane"
     url: "/wiki/entities/mecoxlane/"

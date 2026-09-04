@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 8878
+wiki_total_pages: 8884
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "RockbridgeNetwork"
     title: "Rockbridge Network"
     url: "/wiki/entities/rockbridgenetwork/"
+  - key: "RockfishWeatherwear"
+    title: "Rockfish Weatherwear"
+    url: "/wiki/entities/rockfishweatherwear/"
   - key: "RodEggert"
     title: "Rod Eggert"
     url: "/wiki/entities/rodeggert/"

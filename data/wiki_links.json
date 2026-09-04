@@ -6287,6 +6287,14 @@
     "title": "Balance-Sheet Macro Analysis",
     "url": "/wiki/concepts/balancesheetmacroanalysis/"
   },
+  "BalletSneakerHybrid": {
+    "title": "Ballet Sneaker Hybrid / 芭蕾运动鞋",
+    "url": "/wiki/concepts/balletsneakerhybrid/"
+  },
+  "BalletcoreFootwear": {
+    "title": "Balletcore Footwear / 芭蕾风鞋履",
+    "url": "/wiki/concepts/balletcorefootwear/"
+  },
   "BallotHarvestingTrustRisk": {
     "title": "Ballot Harvesting Trust Risk",
     "url": "/wiki/concepts/ballotharvestingtrustrisk/"
@@ -10683,6 +10691,10 @@
     "title": "中国男子篮球职业联赛 / Chinese Basketball Association",
     "url": "/wiki/entities/chinesebasketballassociation/"
   },
+  "ChineseBeautyKoreaMarketEntry": {
+    "title": "Chinese Beauty Korea Market Entry / 中国美妆进入韩国市场",
+    "url": "/wiki/concepts/chinesebeautykoreamarketentry/"
+  },
   "ChineseBistroLocalization": {
     "title": "Chinese Bistro Localization / 中式小酒馆本土化",
     "url": "/wiki/concepts/chinesebistrolocalization/"
@@ -11546,6 +11558,10 @@
   "CloudCowork": {
     "title": "Cloud Cowork",
     "url": "/wiki/entities/cloudcowork/"
+  },
+  "CloudSegmentRevenueDisclosure": {
+    "title": "Cloud Segment Revenue Disclosure / 云业务分部收入披露",
+    "url": "/wiki/concepts/cloudsegmentrevenuedisclosure/"
   },
   "CloudStoragePhysicality": {
     "title": "Cloud Storage Physicality",
@@ -19811,6 +19827,10 @@
     "title": "Football Transfer Receivables Finance",
     "url": "/wiki/concepts/footballtransferreceivablesfinance/"
   },
+  "FootwearOccasionBlurring": {
+    "title": "Footwear Occasion Blurring / 鞋履场景界线消融",
+    "url": "/wiki/concepts/footwearoccasionblurring/"
+  },
   "ForABreathITarry": {
     "title": "《趁生命气息逗留》 / For a Breath I Tarry",
     "url": "/wiki/entities/forabreathitarry/"
@@ -25362,6 +25382,10 @@
   "HuaweiSmartSelectionCarModel": {
     "title": "Huawei Smart Selection Car Model / 华为智选车模式",
     "url": "/wiki/concepts/huaweismartselectioncarmodel/"
+  },
+  "Huaxizi": {
+    "title": "Florasis / 花西子",
+    "url": "/wiki/entities/huaxizi/"
   },
   "HuayangBattle": {
     "title": "华阳之战 / Battle of Huayang",
@@ -35939,6 +35963,10 @@
     "title": "名辩 / Mingjia Disputation",
     "url": "/wiki/concepts/mingjiadisputation/"
   },
+  "MingmingHenmang": {
+    "title": "鸣鸣很忙 / Mingming Henmang",
+    "url": "/wiki/entities/mingminghenmang/"
+  },
   "MingqiLegitimacy": {
     "title": "Mingqi Legitimacy / 名器合法性",
     "url": "/wiki/concepts/mingqilegitimacy/"
@@ -36138,6 +36166,10 @@
   "MiuLiu": {
     "title": "谬刘 / Miu Liu",
     "url": "/wiki/entities/miuliu/"
+  },
+  "MiuMiu": {
+    "title": "Miu Miu",
+    "url": "/wiki/entities/miumiu/"
   },
   "MiuXian": {
     "title": "缪贤 / Miu Xian",
@@ -38934,6 +38966,10 @@
   "OngakuKissa": {
     "title": "Ongaku Kissa",
     "url": "/wiki/concepts/ongakukissa/"
+  },
+  "OnitsukaTiger": {
+    "title": "Onitsuka Tiger / 鬼冢虎",
+    "url": "/wiki/entities/onitsukatiger/"
   },
   "OnlineAgeVerification": {
     "title": "Online Age Verification",
@@ -45591,6 +45627,10 @@
     "title": "Robotaxi Local Acceptance",
     "url": "/wiki/concepts/robotaxilocalacceptance/"
   },
+  "RobotaxiPlatformDisintermediation": {
+    "title": "Robotaxi Platform Disintermediation / 自动驾驶出租车平台去中介化",
+    "url": "/wiki/concepts/robotaxiplatformdisintermediation/"
+  },
   "RoboticsRevenuePullForward": {
     "title": "Robotics Revenue Pull-Forward",
     "url": "/wiki/concepts/roboticsrevenuepullforward/"
@@ -45626,6 +45666,10 @@
   "RocketRecoveryRouteChoice": {
     "title": "Rocket Recovery Route Choice",
     "url": "/wiki/concepts/rocketrecoveryroutechoice/"
+  },
+  "RockfishWeatherwear": {
+    "title": "Rockfish Weatherwear",
+    "url": "/wiki/entities/rockfishweatherwear/"
   },
   "RodEggert": {
     "title": "Rod Eggert",
@@ -46970,6 +47014,10 @@
   "SeasonalBurningAgriculture": {
     "title": "Seasonal Burning Agriculture / 季节性烧山农业",
     "url": "/wiki/concepts/seasonalburningagriculture/"
+  },
+  "SeasonalFootwearSceneExpansion": {
+    "title": "Seasonal Footwear Scene Expansion / 季节性鞋履场景扩展",
+    "url": "/wiki/concepts/seasonalfootwearsceneexpansion/"
   },
   "SeasonalInventoryFinancing": {
     "title": "Seasonal Inventory Financing",
@@ -52751,6 +52799,10 @@
     "title": "Thin Diplomatic Frameworks",
     "url": "/wiki/concepts/thindiplomaticframeworks/"
   },
+  "ThinSoleSneakerRevival": {
+    "title": "Thin-Sole Sneaker Revival / 薄底鞋回潮",
+    "url": "/wiki/concepts/thinsolesneakerrevival/"
+  },
   "ThinkReasonLtd": {
     "title": "思考理性有限公司 / Think Reason Ltd.",
     "url": "/wiki/entities/thinkreasonltd/"
@@ -54931,6 +54983,10 @@
     "title": "Value Investing",
     "url": "/wiki/concepts/valueinvesting/"
   },
+  "ValueSnackChannelConsolidation": {
+    "title": "Value Snack Channel Consolidation / 量贩零食渠道集中",
+    "url": "/wiki/concepts/valuesnackchannelconsolidation/"
+  },
   "ValueTrap": {
     "title": "Value Trap",
     "url": "/wiki/concepts/valuetrap/"
@@ -55570,6 +55626,10 @@
   "WanbiGuizhaoDiplomacy": {
     "title": "Wanbi Guizhao Diplomacy / 完璧归赵式外交",
     "url": "/wiki/concepts/wanbiguizhaodiplomacy/"
+  },
+  "WanchenGroup": {
+    "title": "Wanchen Group / 万辰集团",
+    "url": "/wiki/entities/wanchengroup/"
   },
   "WandaGroup": {
     "title": "万达集团 / Wanda Group",
@@ -63558,6 +63618,10 @@
   "kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406": {
     "title": "咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？",
     "url": "/wiki/sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406/"
+  },
+  "kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166": {
+    "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
+    "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
   },
   "kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081": {
     "title": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务",
