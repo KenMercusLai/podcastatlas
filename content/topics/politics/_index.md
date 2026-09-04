@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2181
+topic_total_pages: 2182
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -4394,6 +4394,9 @@ topic_entities:
   - key: "IfYouCanKeepIt"
     title: "If You Can Keep It"
     url: "/wiki/entities/ifyoucankeepit/"
+  - key: "IgnatiusDonnelly"
+    title: "Ignatius Donnelly"
+    url: "/wiki/entities/ignatiusdonnelly/"
   - key: "ImmanuelKant"
     title: "Immanuel Kant / 康德"
     url: "/wiki/entities/immanuelkant/"

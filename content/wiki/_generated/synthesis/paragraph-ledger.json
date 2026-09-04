@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1a2a001dd317073c398f6e5027eeb310a3043e68a7b79d141df61d64a176f558",
       "b2ad45249bd0e71a13fd63212fafd743ad341d82e429009cb7fce0d4749edd9f",
       "3b2f0e08121b8a2aa100a7f7ca89063f172e5bcb075b31cb22cb9ed82a7a33f6",
       "7836033ed72f3f37dcd29e0a64ab97438d99a59dbb9361c725522ad2777f0a60",
@@ -536,11 +537,47 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 534
+    "paragraph_count": 535
   },
-  "overview_commit": "ede6977371aef57029469ba6741a4a4afec91239",
-  "overview_digest": "34db8b25f9030c1637443dfcbcbc50c722bb4e02f4bdfd869c100e4dbf125c0b",
+  "overview_commit": "e877074cef54dd53537e60fc0deec52ef3367464",
+  "overview_digest": "b57de0eedecdcf8c3fcdef1db8c022b88ae5c25c83a57cc4176bef3da1e7caf6",
   "paragraphs": [
+    {
+      "id": "1a2a001dd317073c398f6e5027eeb310a3043e68a7b79d141df61d64a176f558",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945|315: Atlantis: Legacy of the Lost Empire (Part 2)]], a [[TheRestIsHistory]] episode tracing [[Atlantis]] from [[Plato]] through Renaissance and colonial speculation, utopian island writing, [[IgnatiusDonnelly]]'s diffusion theory, [[NationalistAtlantisMythmaking]], [[EdgarCayce]]'s esoteric technology claims, [[SantoriniAtlantisTheory]], and [[GrahamHancock]]'s advanced lost-civilization media. It adds [[Atlantis]], [[IgnatiusDonnelly]], [[EdgarCayce]], [[GrahamHancock]], [[ThuleSociety]], [[Santorini]], [[AtlantisReception]], [[LostCivilizationPseudohistory]], [[NationalistAtlantisMythmaking]], and [[SantoriniAtlantisTheory]], while extending [[Plato]], [[MinoanCivilization]], [[PseudoHistoryConspiracy|伪史论]], [[GreekMythology]], [[MythAsHistoricalEvidence]], [[ScientificSkepticism]], [[ProfessionalCommunityTrust]], and [[ObservationBeforeInference]]. Its core synthesis is that Atlantis survives less as a location problem than as a reusable reception machine: later writers repeatedly turn Plato's hubristic imperial warning into a lost utopia, civilizing source, racial or national origin, hidden technology storehouse, archaeological resemblance, or environmental-catastrophe parable. No settled contradiction is recorded; Plato interpretation, Donnelly's race language, Thule/Nazi interest, Cayce's claims, Santorini parallels, Hancock's media framing, and archaeological criticism remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "culture-and-media": 1,
+        "history-and-geopolitics": 3,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945",
+        "Atlantis",
+        "AtlantisReception",
+        "EdgarCayce",
+        "GrahamHancock",
+        "GreekMythology",
+        "IgnatiusDonnelly",
+        "LostCivilizationPseudohistory",
+        "MinoanCivilization",
+        "MythAsHistoricalEvidence",
+        "NationalistAtlantisMythmaking",
+        "ObservationBeforeInference",
+        "Plato",
+        "ProfessionalCommunityTrust",
+        "PseudoHistoryConspiracy",
+        "Santorini",
+        "SantoriniAtlantisTheory",
+        "ScientificSkepticism",
+        "TheRestIsHistory",
+        "ThuleSociety"
+      ]
+    },
     {
       "id": "b2ad45249bd0e71a13fd63212fafd743ad341d82e429009cb7fce0d4749edd9f",
       "primary_topic": "science-health-and-climate",

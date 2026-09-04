@@ -1399,6 +1399,13 @@
       "url": "/topics/history/"
     }
   ],
+  "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "316-the-first-abolitionist-glt2136062721": [
     {
       "key": "history",
@@ -8413,6 +8420,20 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "Atlantis": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "AtlantisReception": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "AtlasRobot": [
@@ -26964,6 +26985,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "GrahamHancock": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "GrahamSteele": [
     {
       "key": "economics",
@@ -30687,6 +30715,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "IgnatiusDonnelly": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "IgnazSemmelweis": [
@@ -37589,6 +37624,13 @@
       "url": "/topics/science/"
     }
   ],
+  "LostCivilizationPseudohistory": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "LottePotteryWorkshop": [
     {
       "key": "culture",
@@ -42408,6 +42450,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "NationalistAtlantisMythmaking": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "NaturalDisasterPoliticalOmen": [
@@ -52989,6 +53038,20 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "Santorini": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "SantoriniAtlantisTheory": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "SapnaMaheshwari": [

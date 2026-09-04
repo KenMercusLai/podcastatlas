@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 8938
+wiki_total_pages: 8944
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1238,6 +1238,9 @@ wiki_pages:
   - key: "AtlanticAvenueBarclaysCenter"
     title: "Atlantic Avenue-Barclays Center"
     url: "/wiki/entities/atlanticavenuebarclayscenter/"
+  - key: "Atlantis"
+    title: "Atlantis"
+    url: "/wiki/entities/atlantis/"
   - key: "AtlasRobot"
     title: "Atlas Robot"
     url: "/wiki/entities/atlasrobot/"

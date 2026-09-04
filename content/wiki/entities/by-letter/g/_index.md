@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8938
+wiki_total_pages: 8944
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "GrahamAllison"
     title: "Graham Allison"
     url: "/wiki/entities/grahamallison/"
+  - key: "GrahamHancock"
+    title: "Graham Hancock"
+    url: "/wiki/entities/grahamhancock/"
   - key: "GrahamSteele"
     title: "Graham Steele"
     url: "/wiki/entities/grahamsteele/"

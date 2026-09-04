@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6376
+wiki_total_pages: 6380
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1838,6 +1838,9 @@ wiki_pages:
   - key: "AtlanticSlaveTradePrivateeringLink"
     title: "Atlantic Slave Trade-Privateering Link"
     url: "/wiki/concepts/atlanticslavetradeprivateeringlink/"
+  - key: "AtlantisReception"
+    title: "Atlantis Reception"
+    url: "/wiki/concepts/atlantisreception/"
   - key: "ATMOperations"
     title: "ATM Operations"
     url: "/wiki/concepts/atmoperations/"

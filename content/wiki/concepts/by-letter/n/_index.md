@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6376
+wiki_total_pages: 6380
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "NationalGoodsBranding"
     title: "National Goods Branding"
     url: "/wiki/concepts/nationalgoodsbranding/"
+  - key: "NationalistAtlantisMythmaking"
+    title: "Nationalist Atlantis Mythmaking"
+    url: "/wiki/concepts/nationalistatlantismythmaking/"
   - key: "NativeAmericanOralLiterature"
     title: "Native American Oral Literature / 美洲原住民口头文学"
     url: "/wiki/concepts/nativeamericanoralliterature/"

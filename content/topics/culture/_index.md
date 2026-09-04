@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2391
+topic_total_pages: 2392
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3299,6 +3299,9 @@ topic_entities:
   - key: "GoodFriendsFilm"
     title: "Good Friends / 好朋友们"
     url: "/wiki/entities/goodfriendsfilm/"
+  - key: "GrahamHancock"
+    title: "Graham Hancock"
+    url: "/wiki/entities/grahamhancock/"
   - key: "GreenlightAnalytics"
     title: "Greenlight Analytics"
     url: "/wiki/entities/greenlightanalytics/"

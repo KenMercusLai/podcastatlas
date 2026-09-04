@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 8938
+wiki_total_pages: 8944
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "EdgarAllanPoe"
     title: "Edgar Allan Poe / 爱伦·坡"
     url: "/wiki/entities/edgarallanpoe/"
+  - key: "EdgarCayce"
+    title: "Edgar Cayce"
+    url: "/wiki/entities/edgarcayce/"
   - key: "EdithElliott"
     title: "Edith Elliott"
     url: "/wiki/entities/edithelliott/"

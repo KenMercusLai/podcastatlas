@@ -895,6 +895,10 @@
     "title": "31.冰与火之歌：虽然从不自称历史",
     "url": "/wiki/sources/31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848/"
   },
+  "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945": {
+    "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
+    "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+  },
   "316-the-first-abolitionist-glt2136062721": {
     "title": "316: The First Abolitionist",
     "url": "/wiki/sources/316-the-first-abolitionist-glt2136062721/"
@@ -5694,6 +5698,14 @@
   "AtlanticSlaveTradePrivateeringLink": {
     "title": "Atlantic Slave Trade-Privateering Link",
     "url": "/wiki/concepts/atlanticslavetradeprivateeringlink/"
+  },
+  "Atlantis": {
+    "title": "Atlantis",
+    "url": "/wiki/entities/atlantis/"
+  },
+  "AtlantisReception": {
+    "title": "Atlantis Reception",
+    "url": "/wiki/concepts/atlantisreception/"
   },
   "AtlasRobot": {
     "title": "Atlas Robot",
@@ -16751,6 +16763,10 @@
     "title": "Edgar Allan Poe / 爱伦·坡",
     "url": "/wiki/entities/edgarallanpoe/"
   },
+  "EdgarCayce": {
+    "title": "Edgar Cayce",
+    "url": "/wiki/entities/edgarcayce/"
+  },
   "EdgeCloudAIBoundary": {
     "title": "Edge-Cloud AI Boundary",
     "url": "/wiki/concepts/edgecloudaiboundary/"
@@ -22619,6 +22635,10 @@
     "title": "Graham Allison",
     "url": "/wiki/entities/grahamallison/"
   },
+  "GrahamHancock": {
+    "title": "Graham Hancock",
+    "url": "/wiki/entities/grahamhancock/"
+  },
   "GrahamSteele": {
     "title": "Graham Steele",
     "url": "/wiki/entities/grahamsteele/"
@@ -26066,6 +26086,10 @@
   "IgnacioPalacioHuerta": {
     "title": "Ignacio Palacio Huerta",
     "url": "/wiki/entities/ignaciopalaciohuerta/"
+  },
+  "IgnatiusDonnelly": {
+    "title": "Ignatius Donnelly",
+    "url": "/wiki/entities/ignatiusdonnelly/"
   },
   "IgnazSemmelweis": {
     "title": "Ignaz Semmelweis",
@@ -33123,6 +33147,10 @@
     "title": "Loss Aversion / 损失厌恶",
     "url": "/wiki/concepts/lossaversion/"
   },
+  "LostCivilizationPseudohistory": {
+    "title": "Lost Civilization Pseudohistory",
+    "url": "/wiki/concepts/lostcivilizationpseudohistory/"
+  },
   "LottePotteryWorkshop": {
     "title": "Lotte Pottery Workshop / 乐天陶社",
     "url": "/wiki/entities/lottepotteryworkshop/"
@@ -37702,6 +37730,10 @@
   "NationalWomensSoccerLeague": {
     "title": "National Women's Soccer League",
     "url": "/wiki/entities/nationalwomenssoccerleague/"
+  },
+  "NationalistAtlantisMythmaking": {
+    "title": "Nationalist Atlantis Mythmaking",
+    "url": "/wiki/concepts/nationalistatlantismythmaking/"
   },
   "NationalistGovernment": {
     "title": "Nationalist Government / 国民政府",
@@ -46987,6 +47019,14 @@
     "title": "三台子 / Santai Zi Catholic Village",
     "url": "/wiki/entities/santaizicatholicvillage/"
   },
+  "Santorini": {
+    "title": "Santorini",
+    "url": "/wiki/entities/santorini/"
+  },
+  "SantoriniAtlantisTheory": {
+    "title": "Santorini Atlantis Theory",
+    "url": "/wiki/concepts/santoriniatlantistheory/"
+  },
   "SapnaMaheshwari": {
     "title": "Sapna Maheshwari",
     "url": "/wiki/entities/sapnamaheshwari/"
@@ -53462,6 +53502,10 @@
   "Throughline": {
     "title": "Throughline",
     "url": "/wiki/entities/throughline/"
+  },
+  "ThuleSociety": {
+    "title": "Thule Society",
+    "url": "/wiki/entities/thulesociety/"
   },
   "TiDB": {
     "title": "TiDB",

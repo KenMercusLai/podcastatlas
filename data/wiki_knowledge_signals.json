@@ -4724,6 +4724,38 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/athletepostretirementidentity/"
     },
+    "Atlantis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2807981945 [GLT2807981945].md",
+          "key": "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945",
+          "show": "The Rest Is History",
+          "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
+          "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/atlantis/"
+    },
+    "AtlantisReception": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2807981945 [GLT2807981945].md",
+          "key": "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945",
+          "show": "The Rest Is History",
+          "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
+          "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/atlantisreception/"
+    },
     "AtlasRobot": {
       "episode_count": 1,
       "show_count": 1,
@@ -16180,6 +16212,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/echomind/"
     },
+    "EdgarCayce": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2807981945 [GLT2807981945].md",
+          "key": "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945",
+          "show": "The Rest Is History",
+          "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
+          "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/edgarcayce/"
+    },
     "EducationMotivationArchitecture": {
       "episode_count": 1,
       "show_count": 1,
@@ -24898,6 +24946,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/graft/"
     },
+    "GrahamHancock": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2807981945 [GLT2807981945].md",
+          "key": "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945",
+          "show": "The Rest Is History",
+          "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
+          "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/grahamhancock/"
+    },
     "Grokbot": {
       "episode_count": 2,
       "show_count": 1,
@@ -28802,6 +28866,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/idoportal/"
+    },
+    "IgnatiusDonnelly": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2807981945 [GLT2807981945].md",
+          "key": "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945",
+          "show": "The Rest Is History",
+          "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
+          "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/ignatiusdonnelly/"
     },
     "ImageNet": {
       "episode_count": 3,
@@ -36832,6 +36912,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/longtermachievementdiscipline/"
     },
+    "LostCivilizationPseudohistory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2807981945 [GLT2807981945].md",
+          "key": "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945",
+          "show": "The Rest Is History",
+          "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
+          "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/lostcivilizationpseudohistory/"
+    },
     "LotusEaters": {
       "episode_count": 1,
       "show_count": 1,
@@ -40405,6 +40501,36 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/ministerialdignityprotection/"
     },
+    "MinoanCivilization": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "178.母权论：伟大的错误or深刻的洞见？母权社会存在过吗？ [974657368].md",
+          "key": "178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368",
+          "show": "蜜獾吃书",
+          "title": "178.母权论：伟大的错误or深刻的洞见？母权社会存在过吗？",
+          "url": "/wiki/sources/178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368/"
+        },
+        {
+          "episode_file": "59.克里特岛：阳光、海龟、神话和二战战场 [646904469].md",
+          "key": "59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469",
+          "show": "蜜獾吃书",
+          "title": "59.克里特岛：阳光、海龟、神话和二战战场",
+          "url": "/wiki/sources/59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469/"
+        },
+        {
+          "episode_file": "GLT2807981945 [GLT2807981945].md",
+          "key": "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945",
+          "show": "The Rest Is History",
+          "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
+          "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/minoancivilization/"
+    },
     "MissedDiagnosisRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -41542,6 +41668,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/nationalsciencefoundation/"
+    },
+    "NationalistAtlantisMythmaking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2807981945 [GLT2807981945].md",
+          "key": "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945",
+          "show": "The Rest Is History",
+          "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
+          "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/nationalistatlantismythmaking/"
     },
     "Ndongo": {
       "episode_count": 1,
@@ -45502,6 +45644,36 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/platformcommunitygovernance/"
     },
+    "Plato": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
+          "key": "167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja",
+          "show": "起朱楼宴宾客",
+          "title": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林",
+          "url": "/wiki/sources/167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja/"
+        },
+        {
+          "episode_file": "92.柏拉图上班记：用哲学搞笑职场 [716822350].md",
+          "key": "92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350",
+          "show": "蜜獾吃书",
+          "title": "92.柏拉图上班记：用哲学搞笑职场",
+          "url": "/wiki/sources/92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350/"
+        },
+        {
+          "episode_file": "GLT2807981945 [GLT2807981945].md",
+          "key": "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945",
+          "show": "The Rest Is History",
+          "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
+          "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/plato/"
+    },
     "PolicyBoundAgenticLendingSupport": {
       "episode_count": 1,
       "show_count": 1,
@@ -46910,6 +47082,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/prudentambiguityselfprotection/"
+    },
+    "PseudoHistoryConspiracy": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
+          "key": "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un",
+          "show": "乱翻书",
+          "title": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？",
+          "url": "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
+        },
+        {
+          "episode_file": "GLT2807981945 [GLT2807981945].md",
+          "key": "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945",
+          "show": "The Rest Is History",
+          "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
+          "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/pseudohistoryconspiracy/"
     },
     "PsychedelicOrdinaryFreedom": {
       "episode_count": 1,
@@ -50813,6 +51008,38 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/santaizicatholicvillage/"
+    },
+    "Santorini": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2807981945 [GLT2807981945].md",
+          "key": "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945",
+          "show": "The Rest Is History",
+          "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
+          "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/santorini/"
+    },
+    "SantoriniAtlantisTheory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2807981945 [GLT2807981945].md",
+          "key": "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945",
+          "show": "The Rest Is History",
+          "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
+          "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/santoriniatlantistheory/"
     },
     "SaraGottfried": {
       "episode_count": 1,
@@ -57382,6 +57609,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/threerefusalsintegrity/"
+    },
+    "ThuleSociety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2807981945 [GLT2807981945].md",
+          "key": "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945",
+          "show": "The Rest Is History",
+          "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
+          "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/thulesociety/"
     },
     "TianFengLateHan": {
       "episode_count": 6,

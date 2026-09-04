@@ -2,6 +2,37 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "atlantis-reception-turns-location-question-into-reusable-origin-machine",
+      "qualifications": [
+        "This claim is source-scoped to the 2023-03-23 The Rest Is History episode and does not adjudicate a real Atlantis location.",
+        "Santorini and Minoan parallels remain qualified because Plato places Atlantis beyond the Pillars of Hercules and the source flags timing, volcanic-silence, transmission, and detail mismatches.",
+        "Donnelly, Thule/Nazi interest, Cayce, and Hancock are treated as reception and pseudohistory patterns rather than as validated historical reconstructions."
+      ],
+      "statement": "[[315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945|Atlantis: Legacy of the Lost Empire Part 2]] makes [[Atlantis]] a reception-history case rather than only a search for a site: [[Plato]]'s imperial warning is repeatedly remade through Renaissance and colonial speculation, utopian island writing, [[IgnatiusDonnelly]] diffusion, [[NationalistAtlantisMythmaking]] and [[ThuleSociety]], [[EdgarCayce]] esotericism, [[SantoriniAtlantisTheory]] around [[Santorini]] and [[MinoanCivilization]], and [[GrahamHancock]]'s [[LostCivilizationPseudohistory]] challenged by [[ScientificSkepticism]] and [[ProfessionalCommunityTrust]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945",
+        "Atlantis",
+        "Plato",
+        "AtlantisReception",
+        "IgnatiusDonnelly",
+        "NationalistAtlantisMythmaking",
+        "ThuleSociety",
+        "EdgarCayce",
+        "SantoriniAtlantisTheory",
+        "Santorini",
+        "MinoanCivilization",
+        "GrahamHancock",
+        "LostCivilizationPseudohistory",
+        "ScientificSkepticism",
+        "ProfessionalCommunityTrust",
+        "PseudoHistoryConspiracy",
+        "MythAsHistoricalEvidence",
+        "ObservationBeforeInference"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "african-amazons-branch-links-female-power-resistance-and-violence",
       "qualifications": [
         "This claim is source-scoped to the 2023-03-30 The Rest Is History episode and does not settle wider debates over each polity or ruler.",
@@ -4465,8 +4496,8 @@
       ]
     }
   ],
-  "input_digest": "5b2be74ba0535493c241148ebbf4dd93872f787486a41f6b1f711648d7c347e3",
-  "summary": "Benjamin Lay now extends the history branch into early abolitionist activism: Quaker inward equality, Barbados plantation slavery, boycott, pamphlet publishing, and symbolic public witness made slavery a public moral scandal while first-abolitionist and Franklin details stay source-scoped. Roman Civil War Part 2, African Amazons, and the broader topic still track state formation, war origins, imperial crisis, public memory, legitimacy, infrastructure, and geopolitics as historical systems.",
+  "input_digest": "5fe1f6b503c53df6d0c4c4c862ed6e4390aae553c7ca9147f79a3e606b8172c0",
+  "summary": "Atlantis now extends the history branch into reception and pseudohistory: Plato's imperial warning is repeatedly repurposed as utopia, origin myth, esoteric technology, Santorini resemblance, or lost-civilization media while archaeological criticism remains source-scoped. Benjamin Lay, Roman Civil War Part 2, African Amazons, and the broader topic still track state formation, war origins, imperial crisis, public memory, legitimacy, infrastructure, and geopolitics as historical systems.",
   "title": "History and Geopolitics",
   "topic_id": "history-and-geopolitics"
 }

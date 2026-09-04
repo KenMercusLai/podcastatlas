@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6376
+wiki_total_pages: 6380
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "LossAversion"
     title: "Loss Aversion / 损失厌恶"
     url: "/wiki/concepts/lossaversion/"
+  - key: "LostCivilizationPseudohistory"
+    title: "Lost Civilization Pseudohistory"
+    url: "/wiki/concepts/lostcivilizationpseudohistory/"
   - key: "LotteryGamblingPlatformFraud"
     title: "Lottery Gambling Platform Fraud"
     url: "/wiki/concepts/lotterygamblingplatformfraud/"

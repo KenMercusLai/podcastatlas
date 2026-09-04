@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [315: Atlantis: Legacy of the Lost Empire (Part 2)](sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945.md) — The Rest Is History episode on Atlantis from Plato through Renaissance and colonial speculation, Donnelly, nationalist and esoteric appropriations, Santorini, Graham Hancock, and lost-civilization pseudohistory.
 - [VOL.33麻醉科｜你对麻醉恐惧吗？你还记得醒来的瞬间吗？关于手术中、后麻醉的误解和禁忌｜附外科医生采访录音](sources/vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr.md) — 这病说来话长 episode with 董心彤 from 深圳市人民医院 on anesthesia myths, perioperative assessment, individualized dosing, operating-room physiology, postoperative awakening, nausea, delirium, positioning, allergy disclosure, and monitoring boundaries.
 - [Leverage Dopamine to Overcome Procrastination & Optimize Effort](sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288.md) — Huberman Lab solo episode on dopamine baseline/peaks/troughs, reward prediction error, addiction narrowing, baseline maintenance, intrinsic motivation, effort as reward, and safe effortful resets for procrastination.
 - [Vol.273 英伟达则兼济天下？](sources/vol-273-yingweida-ze-jianji-tianxia-1010956114.md) — 商业就是这样 episode on Nvidia supplier financing, AI circular infrastructure risk, CoreWeave, Lambda Labs, Lucent, and GE Capital analogies.
@@ -1919,6 +1920,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Atlantis](entities/Atlantis.md) — Mythic island tracked from Plato's warning story into modern reception, pseudohistory, nationalism, esotericism, Santorini theories, and advanced lost-civilization claims.
+- [Graham Hancock](entities/GrahamHancock.md) — Modern popularizer of advanced lost-civilization claims treated by the Atlantis episode as culturally powerful but archaeologically unsupported.
+- [Edgar Cayce](entities/EdgarCayce.md) — Esoteric Atlantis interpreter whose crystal-energy, prophecy, and Bermuda Triangle claims show Atlantis becoming hidden-technology myth.
+- [Ignatius Donnelly](entities/IgnatiusDonnelly.md) — Nineteenth-century Atlantis popularizer whose diffusion theory made Atlantis a source for civilizations, writing, myths, and racial-origin claims.
+- [Santorini](entities/Santorini.md) — Aegean island used as the strongest archaeology-adjacent Atlantis comparison case, while still failing the episode's Plato and evidence tests.
+- [Thule Society](entities/ThuleSociety.md) — German nationalist and esoteric organization used by the episode to show northern Aryan relocation of Atlantis.
 - [Lambda Labs](entities/LambdaLabs.md) — Nvidia-backed AI GPU cloud example used in the supplier-financing debate.
 - [GE Capital](entities/GECapital.md) — General Electric finance arm used as a supplier-finance and overextension comparison case.
 - [Lucent Technologies](entities/LucentTechnologies.md) — telecom vendor-finance failure case used to distinguish ordinary supplier finance from channel stuffing.
@@ -10861,6 +10868,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Atlantis Reception](concepts/AtlantisReception.md) — Reception-history pattern showing how Plato's Atlantis is repeatedly remade as utopia, origin story, nationalist myth, esoteric technology, archaeology-adjacent hypothesis, and catastrophe parable.
+- [Lost Civilization Pseudohistory](concepts/LostCivilizationPseudohistory.md) — Pattern of explaining real ancient complexity through an unsupported vanished advanced society that seeded later cultures.
+- [Nationalist Atlantis Mythmaking](concepts/NationalistAtlantisMythmaking.md) — Use of Atlantis to manufacture flattering national, racial, or civilizational origin stories.
+- [Santorini Atlantis Theory](concepts/SantoriniAtlantisTheory.md) — Archaeology-adjacent identification of Atlantis with Santorini, ancient Thera, Akrotiri, or Minoan catastrophe, kept bounded by textual and material mismatches.
 - [Supplier Financing](concepts/SupplierFinancing.md) — Vendor credit, guarantees, leases, or purchase support used to help customers buy the supplier's products.
 - [Smart Oral Care](concepts/SmartOralCare.md) — Sensor-rich oral-care category using cameras, app feedback, and integrated brushing/flossing.
 - [AI API Revenue Model](concepts/AIAPIRevenueModel.md) — Model-provider commercialization pattern based on standardized API usage revenue.

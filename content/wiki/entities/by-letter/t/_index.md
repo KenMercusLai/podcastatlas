@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 8938
+wiki_total_pages: 8944
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -512,6 +512,9 @@ wiki_pages:
   - key: "Throughline"
     title: "Throughline"
     url: "/wiki/entities/throughline/"
+  - key: "ThuleSociety"
+    title: "Thule Society"
+    url: "/wiki/entities/thulesociety/"
   - key: "TianKaiLateHan"
     title: "Tian Kai (Late Han)"
     url: "/wiki/entities/tiankailatehan/"

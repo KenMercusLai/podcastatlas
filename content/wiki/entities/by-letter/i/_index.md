@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 8938
+wiki_total_pages: 8944
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "IgnacioPalacioHuerta"
     title: "Ignacio Palacio Huerta"
     url: "/wiki/entities/ignaciopalaciohuerta/"
+  - key: "IgnatiusDonnelly"
+    title: "Ignatius Donnelly"
+    url: "/wiki/entities/ignatiusdonnelly/"
   - key: "IgnazSemmelweis"
     title: "Ignaz Semmelweis"
     url: "/wiki/entities/ignazsemmelweis/"
