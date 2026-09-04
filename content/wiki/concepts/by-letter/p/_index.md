@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6314
+wiki_total_pages: 6318
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1103,6 +1103,9 @@ wiki_pages:
   - key: "PrintingSignatureConstraint"
     title: "Printing Signature Constraint"
     url: "/wiki/concepts/printingsignatureconstraint/"
+  - key: "PrisonInstitutionalizationAfterLongIncarceration"
+    title: "Prison Institutionalization After Long Incarceration"
+    url: "/wiki/concepts/prisoninstitutionalizationafterlongincarceration/"
   - key: "PrisonRitualLegitimacyRefusal"
     title: "Prison Ritual Legitimacy Refusal / 冤狱仪式合法性拒绝"
     url: "/wiki/concepts/prisonrituallegitimacyrefusal/"

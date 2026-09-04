@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bargaining chips: Nvidia is the bank of AI](sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41.md) — The Intelligence episode on Nvidia guarantees and AI infrastructure finance, British knife-crime geography, county lines, violence-reduction policy, and Frank Smith's long incarceration.
 - [咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？](sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166.md) — 声动早咖啡 coffee-bean episode on balletcore footwear, thin-sole sneaker revival, ballet-sneaker hybrids, seasonal footwear scene expansion, and short updates on value snacks, Chinese beauty in Korea, Azure disclosure, and Uber restructuring.
 - [VOL.34康复医学科｜日本医疗剧里重建吞咽功能的治疗我们也可以](sources/vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om.md) — 这病说来话长 episode with speech therapist 梨花医生/黎花 on speech therapy scope, dysphagia safety, aspiration risk, oral-motor articulation, care pathways, and long-term rehabilitation expectations.
 - [317: African Amazons](sources/317-african-amazons-glt5973082485.md) — The Rest Is History episode on African women warriors, queen mothers, female rulers, Kush, Njinga, Asante, Ranavalona I, Dahomey's Agojie, and the moral/source problems around slavery and European "Amazon" projection.
@@ -1932,7 +1933,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ulrich Siegmund](entities/UlrichSiegmund.md) — AfD lead candidate in Saxony-Anhalt and the episode's concrete figure for a possible far-right state-government test.
 - [Saxony-Anhalt](entities/SaxonyAnhalt.md) — German state where AfD's possible majority turns far-right normalization into a state-governance question.
 - [Metropolitan Police](entities/MetropolitanPolice.md) — British police force used in the Palantir segment to contrast productivity claims with procurement-process concerns.
-- [Sadiq Khan](entities/SadiqKhan.md) — London mayor cited for blocking a Metropolitan Police Palantir deal because there was no open competition.
+- [Sadiq Khan](entities/SadiqKhan.md) — London mayor cited for Palantir procurement intervention and a Glasgow-inspired violence-reduction approach to knife crime.
+- [Frank Smith](entities/FrankSmith.md) — Long-serving American prisoner whose commuted death sentence and unresolved innocence claim frame mercy without exoneration.
 - [Choc Revive](entities/ChocRevive.md) — Chinese premium chocolate retailer using local flavors, domestic processing, and rapid outlets to build a low-consumption category.
 - [Nibbo](entities/Nibbo.md) — Chinese chocolate company cited as an award-winning domestic challenger in the premium-localization branch.
 - [Saturn Bird](entities/SaturnBird.md) — Chinese chocolate company experimenting with cacao planting in southern China.
@@ -3599,7 +3601,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jessie (North Korea entrepreneur)](entities/JessieNorthKorea.md) — Source-scoped North Korean trader whose confiscated business illustrates weak property rights.
 - [Manmulsang](entities/Manmulsang.md) — North Korean Amazon-like company named as part of the limited domestic intranet commerce branch.
 - [Dong Kai / 董凯](entities/DongKai.md) — LandSpace Zhuque-3 overall deputy chief designer explaining reusable-rocket design, recovery standards, and launch-cadence constraints.
-- [Shailesh Chitnis](entities/ShaileshChitnis.md) — The Intelligence voice explaining orexin agonists, narcolepsy, and the source's cautious GLP-1 analogy.
+- [Shailesh Chitnis](entities/ShaileshChitnis.md) — The Intelligence correspondent explaining orexin drug uncertainty and Nvidia's AI infrastructure financing commitments.
 - [Ovoperextone](entities/Ovoperextone.md) — Takeda orexin agonist named as the source's concrete narcolepsy drug case.
 - [Alkermes](entities/Alkermes.md) — Pharmaceutical company named as working on orexin-agonist drugs.
 - [Sentessa Pharmaceuticals](entities/SentessaPharmaceuticals.md) — Company named through Eli Lilly's source-reported orexin-category acquisition.
@@ -12120,7 +12122,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [High-Ground Timing Advantage / 制高点时机优势](concepts/HighGroundTimingAdvantage.md) — Tactical principle where reaching decisive terrain first, as Xu Li advises at Eyu, converts timing into battlefield advantage.
 - [Elite Fiscal-Law Compliance / 贵族税法同遵](concepts/EliteFiscalLawCompliance.md) — State-capacity pattern where tax and law must bind elite households, not only ordinary subjects, if public authority is to hold.
 - [Interest Reframing Persuasion / 利益重构式说服](concepts/InterestReframingPersuasion.md) — Persuasion pattern where a request or defection is translated into the target's own risk, legitimacy, and material-interest map.
-- [GPU Compute Asset-Backed Financing](concepts/GPUComputeAssetBackedFinancing.md) — Nvidia-centered financing frame where GPU clusters are treated as cash-flowing collateral backed by utilization, residual value, and compute demand.
+- [GPU Compute Asset-Backed Financing](concepts/GPUComputeAssetBackedFinancing.md) — Nvidia-centered financing frame where GPU clusters are treated as cash-flowing collateral, with residual-value and compute backstops shifting risk toward the supplier.
 - [Decentralized AI Control](concepts/DecentralizedAIControl.md) — Argument that AI power should be distributed through open models, personal agents, and competing providers rather than centralized in a few frontier labs or regulators.
 - [Amazon DSP Labor Model](concepts/AmazonDSPLaborModel.md) — Amazon delivery subcontractor structure as a tradeoff between logistics flexibility, labor responsibility, liability, and political legitimacy.
 - [Allied Economic Bloc Against China](concepts/AlliedEconomicBlocAgainstChina.md) — Emanuel's proposal to aggregate U.S. allies and partners into a coordinated economic bloc that can counter Chinese dependency strategy and overcapacity.
@@ -12696,8 +12698,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Exchange-Rate Flexibility](concepts/ExchangeRateFlexibility.md) — Capacity for a currency to adjust to real shocks without becoming chaotic volatility.
 - [Post-Arab Spring Islamist Decline](concepts/PostArabSpringIslamistDecline.md) — Pattern where the Brotherhood's democratic opening gives way to repression, exile, fragmentation, and lost political space.
 - [Islamist Democratic Trust Problem](concepts/IslamistDemocraticTrustProblem.md) — Suspicion that an Islamist movement may use democracy tactically before narrowing pluralism once in power.
-- [Crime Statistics Comparability](concepts/CrimeStatisticsComparability.md) — Methodological problem of comparing crime across countries with different definitions, reporting behavior, and city boundaries.
-- [Long-Run Urban Safety Trend](concepts/LongRunUrbanSafetyTrend.md) — Preference for comparing a city's own safety trend over time rather than relying only on viral cross-city rankings.
+- [Crime Statistics Comparability](concepts/CrimeStatisticsComparability.md) — Methodological problem of comparing crime across countries, cities, counties, measures, definitions, reporting behavior, and boundaries.
+- [Long-Run Urban Safety Trend](concepts/LongRunUrbanSafetyTrend.md) — Preference for comparing a city's own safety trend over time while preserving local qualifications such as county-level knife-crime deterioration.
+- [Rural Knife-Crime Geography](concepts/RuralKnifeCrimeGeography.md) — Pattern where sharp-object violence becomes more visible in counties and smaller places even as large cities improve.
+- [County Lines Drug Trafficking](concepts/CountyLinesDrugTrafficking.md) — Drug-distribution mechanism using vulnerable couriers and localized county networks that complicates rural knife-crime prevention.
+- [Violence Reduction Public-Health Model](concepts/ViolenceReductionPublicHealthModel.md) — Multi-agency prevention model treating serious youth violence as an early-intervention public-health problem.
 - [Padel Participation Boom](concepts/PadelParticipationBoom.md) — Rapid global growth of padel through easy rules, social doubles play, court expansion, and professional ambition.
 - [Padel Court Economics](concepts/PadelCourtEconomics.md) — Business and access tension created by small padel-court footprints, high booking demand, and expensive urban facilities.
 - [Ningen Dock / 人间 Dock](concepts/NingenDock.md) — Japanese comprehensive-checkup tradition that begins as high-end systematic examination and later feeds broader preventive-screening culture.
@@ -13980,7 +13985,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Domain Know-How Moat](concepts/DomainKnowHowMoat.md) — AI-era expertise moat built from cross-chain engineering knowledge, interface understanding, process quirks, communication, and judgment.
 - [AI Capex Return Window](concepts/AICapexReturnWindow.md) — One-to-three-year public-market test for whether AI infrastructure spending becomes visible revenue, cost reduction, or strategic control.
 - [AI Revenue Legibility](concepts/AIRevenueLegibility.md) — Bright-line/dark-line framework for whether investors can observe AI's contribution in reported business lines.
-- [AI Circular Infrastructure Financing](concepts/AICircularInfrastructureFinancing.md) — Diagnostic frame for supplier investment, compute leases, GPU orders, and customer support before independent third-party AI demand is fully proven.
+- [AI Circular Infrastructure Financing](concepts/AICircularInfrastructureFinancing.md) — Diagnostic frame for supplier investment, compute leases, GPU orders, guarantees, and customer support before independent third-party AI demand is fully proven.
 - [China-U.S. AI Valuation Asymmetry](concepts/ChinaUSAIValuationAsymmetry.md) — Market frame where U.S. investors tend to believe AI capex first while Chinese large-internet investors first question governance, spending, and return discipline.
 - [Hacker House Startup Infrastructure](concepts/HackerHouseStartupInfrastructure.md) — Live-work founder spaces becoming part of startup selection, community, fundraising, and early value capture.
 - [Equity Hacker House Model](concepts/EquityHackerHouseModel.md) — Hacker-house model where housing, food, community, and investor access are exchanged for startup equity.
@@ -15454,7 +15459,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Filial Revenge Public Sympathy](concepts/FilialRevengePublicSympathy.md) — How daughterly revenge for a humiliated father became a morally compelling public narrative.
 - [Judicial Independence And Public Opinion](concepts/JudicialIndependencePublicOpinion.md) — Legal-professional anxiety that sympathy, media pressure, and party-state power would weaken courts.
 - [Pardon As State Power](concepts/PardonAsStatePower.md) — Executive clemency as public-emotion management, sovereign assertion, and targeted repair of political trust after dangerous punishment.
-- [Pardon Without Exoneration / 赦免不等于昭雪](concepts/PardonWithoutExoneration.md) — Legal-reputation gap where amnesty releases a person from punishment but does not prove innocence or remove implied guilt.
+- [Pardon Without Exoneration / 赦免不等于昭雪](concepts/PardonWithoutExoneration.md) — Legal-reputation gap where amnesty, pardon, or commutation relieves punishment without proving innocence or clearing implied guilt.
+- [Prison Institutionalization After Long Incarceration](concepts/PrisonInstitutionalizationAfterLongIncarceration.md) — Reentry problem where prison routines and constraints become more familiar than ordinary freedom after decades in custody.
 - [身后功过昭雪 / Posthumous Merit Vindication](concepts/PosthumousMeritVindication.md) — Court-politics pattern where a dead official's damaged reputation is repaired by weighing lifetime service, conditions, death circumstances, and proportional judgment.
 - [Gendered Nationalist Heroism](concepts/GenderedNationalistHeroism.md) — Recasting Shi Jianqiao from filial daughter into modern woman, revenge heroine, and patriotic mobilization symbol.
 - [Dimensional Allegory](concepts/DimensionalAllegory.md) — Literary use of geometric dimensions to make cognition, authority, theology, and social order visible.

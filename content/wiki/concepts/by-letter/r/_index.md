@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6314
+wiki_total_pages: 6318
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -827,6 +827,9 @@ wiki_pages:
   - key: "RuralInfrastructureTransition"
     title: "Rural Infrastructure Transition / 乡村基础设施转折"
     url: "/wiki/concepts/ruralinfrastructuretransition/"
+  - key: "RuralKnifeCrimeGeography"
+    title: "Rural Knife-Crime Geography"
+    url: "/wiki/concepts/ruralknifecrimegeography/"
   - key: "RuralParentChildReading"
     title: "Rural Parent-Child Reading / 乡村亲子阅读"
     url: "/wiki/concepts/ruralparentchildreading/"

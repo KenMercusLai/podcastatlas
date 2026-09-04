@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6314
+wiki_total_pages: 6318
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1508,6 +1508,9 @@ wiki_pages:
   - key: "CountertransferenceBoundaryRisk"
     title: "Countertransference Boundary Risk"
     url: "/wiki/concepts/countertransferenceboundaryrisk/"
+  - key: "CountyLinesDrugTrafficking"
+    title: "County Lines Drug Trafficking"
+    url: "/wiki/concepts/countylinesdrugtrafficking/"
   - key: "CountyPlatformLabor"
     title: "County Platform Labor / 县域平台劳动"
     url: "/wiki/concepts/countyplatformlabor/"

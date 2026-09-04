@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "74a0bbe76c4818fdf4da25aee7cdbadd4fa618bd8d43052b2e00cfbb289a99af",
       "4e7aba4d357e7aed6086847b7f8d126dfc6b9c3306f69d3c591f1fff1cd544f7",
       "a5a1e44ab38057a5af8309baac5ac3d208e0aadcd728f178e06cd9e2cef97bd4",
       "6244d707513946f002e064d56d4e3f9c39375412923eed7692dcf08b68d6f8f2",
@@ -523,11 +524,43 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 521
+    "paragraph_count": 522
   },
-  "overview_commit": "fa868759a54b87c6b4b9ec71d64ce876951edfed",
-  "overview_digest": "abcfa75a3b694cde70a6cfa61c361f73f34556095e706f4be7a7441731b92f58",
+  "overview_commit": "b4ab144d2967e24b31e58064bc526e0c4b7feb79",
+  "overview_digest": "61bf649335064d693b5425efb632a057360ab86accfbd0298691aada46458cdf",
   "paragraphs": [
+    {
+      "id": "74a0bbe76c4818fdf4da25aee7cdbadd4fa618bd8d43052b2e00cfbb289a99af",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The latest addition is [[bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41|Bargaining chips: Nvidia is the bank of AI]], a [[TheIntelligence]] episode on [[Nvidia]]'s AI financing role, British knife-crime geography, and [[FrankSmith]]'s long incarceration. It adds [[FrankSmith]], [[RuralKnifeCrimeGeography]], [[CountyLinesDrugTrafficking]], [[ViolenceReductionPublicHealthModel]], and [[PrisonInstitutionalizationAfterLongIncarceration]], while extending [[OpenAI]], [[ShaileshChitnis]], [[SadiqKhan]], [[AICircularInfrastructureFinancing]], [[GPUComputeAssetBackedFinancing]], [[CrimeStatisticsComparability]], [[LongRunUrbanSafetyTrend]], and [[PardonWithoutExoneration]]. Its core synthesis is that financial, crime-data, and clemency stories all turn on hidden support structures: Nvidia's guarantees can make AI demand financeable but harder to interpret; British knife-crime data improves in cities while county lines and rural geography complicate policy; and Smith's commutation spared life without resolving innocence or undoing institutionalization. No settled contradiction is recorded; obligation totals, UK crime figures, county-lines counts, and Smith case details remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 2,
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AICircularInfrastructureFinancing",
+        "CountyLinesDrugTrafficking",
+        "CrimeStatisticsComparability",
+        "FrankSmith",
+        "GPUComputeAssetBackedFinancing",
+        "LongRunUrbanSafetyTrend",
+        "Nvidia",
+        "OpenAI",
+        "PardonWithoutExoneration",
+        "PrisonInstitutionalizationAfterLongIncarceration",
+        "RuralKnifeCrimeGeography",
+        "SadiqKhan",
+        "ShaileshChitnis",
+        "TheIntelligence",
+        "ViolenceReductionPublicHealthModel",
+        "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41"
+      ]
+    },
     {
       "id": "4e7aba4d357e7aed6086847b7f8d126dfc6b9c3306f69d3c591f1fff1cd544f7",
       "primary_topic": "business-and-markets",

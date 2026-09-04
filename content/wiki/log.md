@@ -15148,6 +15148,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-04] ingest | Bargaining chips: Nvidia is the bank of AI
+
+Ingested the 2026-09-04 The Intelligence episode on Nvidia's AI infrastructure finance role, British knife-crime geography, and Frank Smith's long incarceration. Added source `bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41`; created `FrankSmith`, `CountyLinesDrugTrafficking`, `RuralKnifeCrimeGeography`, `ViolenceReductionPublicHealthModel`, and `PrisonInstitutionalizationAfterLongIncarceration`; updated `ShaileshChitnis`, `SadiqKhan`, `AICircularInfrastructureFinancing`, `GPUComputeAssetBackedFinancing`, `CrimeStatisticsComparability`, `LongRunUrbanSafetyTrend`, `PardonWithoutExoneration`, `index`, and `overview`. No settled contradiction found; Nvidia obligation totals, cash-flow estimates, UK crime figures, county-lines counts, and disputed Frank Smith case details remain source-scoped.
+
 ## [2026-09-04] ingest | 咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？
 
 Ingested the 2026-09-04 声动早咖啡 coffee-bean episode on value-snack channel consolidation, Chinese beauty brands entering Korea, Azure revenue disclosure, Uber restructuring, and the main explainer on balletcore footwear. Added source `kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166`; created `MiuMiu`, `RockfishWeatherwear`, `OnitsukaTiger`, `Huaxizi`, `MingmingHenmang`, `WanchenGroup`, `BalletcoreFootwear`, `BalletSneakerHybrid`, `ThinSoleSneakerRevival`, `FootwearOccasionBlurring`, `SeasonalFootwearSceneExpansion`, `ValueSnackChannelConsolidation`, `ChineseBeautyKoreaMarketEntry`, `CloudSegmentRevenueDisclosure`, and `RobotaxiPlatformDisintermediation`; updated and migrated `Adidas`, `AdidasSamba`, `Puma`, `Birkenstock`, `Crocs`, `UGG`, `ComfortLedFootwearDemand`, `PerformanceFootwearMarket`, `RetroProductRevival`, `Azure`, and `Uber`; updated `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; market figures and current-event claims remain source-scoped.
@@ -15187,6 +15191,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-04] ingest | VOL.34康复医学科｜日本医疗剧里重建吞咽功能的治疗我们也可以
 
 Ingested the 2023-03-29 这病说来话长 rehabilitation episode with speech therapist 梨花医生/黎花 on speech therapy scope, dysphagia safety, aspiration risk, oral-motor articulation, hospital care pathways, and long-term rehabilitation expectations. Added source `vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om`; created `DysphagiaRehabilitationSafety` and `FunctionalArticulationDisorder`; updated `LihuaSpeechTherapist`, `SpeechLanguageRehabilitation`, `ZheBingShuoLaiHuaChang`, `index`, and `overview`. No settled contradiction found; botulinum-toxin, gastrostomy, thickener, feeding-texture, care-pathway, and individual prognosis claims remain source-scoped public rehabilitation education rather than individualized treatment advice.
+
+## [2026-09-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-04] lint | Wiki health check
 

@@ -634,9 +634,9 @@
       "url": "/wiki/concepts/aichipspecialization/"
     },
     "AICircularInfrastructureFinancing": {
-      "episode_count": 5,
-      "show_count": 5,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 6,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -672,9 +672,16 @@
           "show": "Marketplace Tech",
           "title": "Meta's landmark social media settlement",
           "url": "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Bargaining chips： Nvidia is the bank of AI [6a9a86ffe7a9fe2478c4fc41].md",
+          "key": "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41",
+          "show": "Economist Podcasts",
+          "title": "Bargaining chips: Nvidia is the bank of AI",
+          "url": "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-04",
       "url": "/wiki/concepts/aicircularinfrastructurefinancing/"
     },
     "AIClinicalValidationInDrugDiscovery": {
@@ -10977,6 +10984,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/countessmariefestetics/"
     },
+    "CountyLinesDrugTrafficking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bargaining chips： Nvidia is the bank of AI [6a9a86ffe7a9fe2478c4fc41].md",
+          "key": "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41",
+          "show": "Economist Podcasts",
+          "title": "Bargaining chips: Nvidia is the bank of AI",
+          "url": "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/countylinesdrugtrafficking/"
+    },
     "CoupCreditAllocationRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -11249,6 +11272,29 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/creditbasedbanditsurrender/"
+    },
+    "CrimeStatisticsComparability": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Spring, then fall： a weakened Muslim Brotherhood [6a7aef1b616564bf00d9b354].md",
+          "key": "spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354",
+          "show": "Economist Podcasts",
+          "title": "Spring, then fall: a weakened Muslim Brotherhood",
+          "url": "/wiki/sources/spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354/"
+        },
+        {
+          "episode_file": "Bargaining chips： Nvidia is the bank of AI [6a9a86ffe7a9fe2478c4fc41].md",
+          "key": "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41",
+          "show": "Economist Podcasts",
+          "title": "Bargaining chips: Nvidia is the bank of AI",
+          "url": "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/crimestatisticscomparability/"
     },
     "CrisisComposureCoverStory": {
       "episode_count": 2,
@@ -20962,6 +21008,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/francoispienaar/"
     },
+    "FrankSmith": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bargaining chips： Nvidia is the bank of AI [6a9a86ffe7a9fe2478c4fc41].md",
+          "key": "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41",
+          "show": "Economist Podcasts",
+          "title": "Bargaining chips: Nvidia is the bank of AI",
+          "url": "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/franksmith/"
+    },
     "FranzFerdinand": {
       "episode_count": 1,
       "show_count": 1,
@@ -21873,6 +21935,29 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/glp1agonists/"
+    },
+    "GPUComputeAssetBackedFinancing": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+        },
+        {
+          "episode_file": "Bargaining chips： Nvidia is the bank of AI [6a9a86ffe7a9fe2478c4fc41].md",
+          "key": "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41",
+          "show": "Economist Podcasts",
+          "title": "Bargaining chips: Nvidia is the bank of AI",
+          "url": "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/gpucomputeassetbackedfinancing/"
     },
     "GPUSpotMarketTrustFriction": {
       "episode_count": 1,
@@ -35026,6 +35111,29 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/longbogaoeasternhan/"
     },
+    "LongRunUrbanSafetyTrend": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Spring, then fall： a weakened Muslim Brotherhood [6a7aef1b616564bf00d9b354].md",
+          "key": "spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354",
+          "show": "Economist Podcasts",
+          "title": "Spring, then fall: a weakened Muslim Brotherhood",
+          "url": "/wiki/sources/spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354/"
+        },
+        {
+          "episode_file": "Bargaining chips： Nvidia is the bank of AI [6a9a86ffe7a9fe2478c4fc41].md",
+          "key": "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41",
+          "show": "Economist Podcasts",
+          "title": "Bargaining chips: Nvidia is the bank of AI",
+          "url": "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/longrunurbansafetytrend/"
+    },
     "LongTermAchievementDiscipline": {
       "episode_count": 4,
       "show_count": 1,
@@ -41981,9 +42089,9 @@
       "url": "/wiki/entities/paradoxmachines/"
     },
     "PardonWithoutExoneration": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
@@ -41991,9 +42099,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击",
           "url": "/wiki/sources/zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk/"
+        },
+        {
+          "episode_file": "Bargaining chips： Nvidia is the bank of AI [6a9a86ffe7a9fe2478c4fc41].md",
+          "key": "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41",
+          "show": "Economist Podcasts",
+          "title": "Bargaining chips: Nvidia is the bank of AI",
+          "url": "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-04",
       "url": "/wiki/concepts/pardonwithoutexoneration/"
     },
     "ParentalEmbodiedModeling": {
@@ -44001,6 +44116,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/principledworkplacenonalignment/"
+    },
+    "PrisonInstitutionalizationAfterLongIncarceration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bargaining chips： Nvidia is the bank of AI [6a9a86ffe7a9fe2478c4fc41].md",
+          "key": "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41",
+          "show": "Economist Podcasts",
+          "title": "Bargaining chips: Nvidia is the bank of AI",
+          "url": "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/prisoninstitutionalizationafterlongincarceration/"
     },
     "PrisonRitualLegitimacyRefusal": {
       "episode_count": 1,
@@ -47868,6 +47999,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/runancommanderylatehan/"
     },
+    "RuralKnifeCrimeGeography": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bargaining chips： Nvidia is the bank of AI [6a9a86ffe7a9fe2478c4fc41].md",
+          "key": "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41",
+          "show": "Economist Podcasts",
+          "title": "Bargaining chips: Nvidia is the bank of AI",
+          "url": "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/ruralknifecrimegeography/"
+    },
     "RussellWilder": {
       "episode_count": 1,
       "show_count": 1,
@@ -47949,9 +48096,9 @@
       "url": "/wiki/entities/saboramexicosalsas/"
     },
     "SadiqKhan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
@@ -47959,9 +48106,16 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "Bargaining chips： Nvidia is the bank of AI [6a9a86ffe7a9fe2478c4fc41].md",
+          "key": "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41",
+          "show": "Economist Podcasts",
+          "title": "Bargaining chips: Nvidia is the bank of AI",
+          "url": "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-04",
       "url": "/wiki/entities/sadiqkhan/"
     },
     "SageOx": {
@@ -48934,6 +49088,29 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/shachekingdomlatehan/"
+    },
+    "ShaileshChitnis": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
+          "key": "wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744",
+          "show": "Economist Podcasts",
+          "title": "Wake-up haul: an Ozempic moment for the brain",
+          "url": "/wiki/sources/wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744/"
+        },
+        {
+          "episode_file": "Bargaining chips： Nvidia is the bank of AI [6a9a86ffe7a9fe2478c4fc41].md",
+          "key": "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41",
+          "show": "Economist Podcasts",
+          "title": "Bargaining chips: Nvidia is the bank of AI",
+          "url": "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/shaileshchitnis/"
     },
     "ShakeShack": {
       "episode_count": 1,
@@ -56250,6 +56427,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/viennasocialhousingscale/"
+    },
+    "ViolenceReductionPublicHealthModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Bargaining chips： Nvidia is the bank of AI [6a9a86ffe7a9fe2478c4fc41].md",
+          "key": "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41",
+          "show": "Economist Podcasts",
+          "title": "Bargaining chips: Nvidia is the bank of AI",
+          "url": "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/violencereductionpublichealthmodel/"
     },
     "VishnuPadmanabhan": {
       "episode_count": 1,

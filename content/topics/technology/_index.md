@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2676
+topic_total_pages: 2678
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3094,6 +3094,9 @@ topic_concepts:
   - key: "RuralInfrastructureTransition"
     title: "Rural Infrastructure Transition / 乡村基础设施转折"
     url: "/wiki/concepts/ruralinfrastructuretransition/"
+  - key: "RuralKnifeCrimeGeography"
+    title: "Rural Knife-Crime Geography"
+    url: "/wiki/concepts/ruralknifecrimegeography/"
   - key: "RussianHybridPressure"
     title: "Russian Hybrid Pressure"
     url: "/wiki/concepts/russianhybridpressure/"
@@ -7146,6 +7149,9 @@ topic_sources:
   - key: "tech-20260818-tech-pod-128-tech-20260818-tech-pod-128"
     title: "As space launches increase, there aren't enough spaceports"
     url: "/wiki/sources/tech-20260818-tech-pod-128-tech-20260818-tech-pod-128/"
+  - key: "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41"
+    title: "Bargaining chips: Nvidia is the bank of AI"
+    url: "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010"
     title: "Bill Maris: How Google Could Crush AI Competitors, Why Small Funds Win, and AI's Atari Stage"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010/"

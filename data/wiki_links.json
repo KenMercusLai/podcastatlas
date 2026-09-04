@@ -12783,6 +12783,10 @@
     "title": "Countess Marie Festetics",
     "url": "/wiki/entities/countessmariefestetics/"
   },
+  "CountyLinesDrugTrafficking": {
+    "title": "County Lines Drug Trafficking",
+    "url": "/wiki/concepts/countylinesdrugtrafficking/"
+  },
   "CountyPlatformLabor": {
     "title": "County Platform Labor / 县域平台劳动",
     "url": "/wiki/concepts/countyplatformlabor/"
@@ -20370,6 +20374,10 @@
   "FrankLifeSettlementSeller": {
     "title": "Frank (life-settlement seller)",
     "url": "/wiki/entities/franklifesettlementseller/"
+  },
+  "FrankSmith": {
+    "title": "Frank Smith",
+    "url": "/wiki/entities/franksmith/"
   },
   "FrankWells": {
     "title": "Frank Wells",
@@ -42275,6 +42283,10 @@
     "title": "Pripyat",
     "url": "/wiki/entities/pripyat/"
   },
+  "PrisonInstitutionalizationAfterLongIncarceration": {
+    "title": "Prison Institutionalization After Long Incarceration",
+    "url": "/wiki/concepts/prisoninstitutionalizationafterlongincarceration/"
+  },
   "PrisonRitualLegitimacyRefusal": {
     "title": "Prison Ritual Legitimacy Refusal / 冤狱仪式合法性拒绝",
     "url": "/wiki/concepts/prisonrituallegitimacyrefusal/"
@@ -46066,6 +46078,10 @@
   "RuralInfrastructureTransition": {
     "title": "Rural Infrastructure Transition / 乡村基础设施转折",
     "url": "/wiki/concepts/ruralinfrastructuretransition/"
+  },
+  "RuralKnifeCrimeGeography": {
+    "title": "Rural Knife-Crime Geography",
+    "url": "/wiki/concepts/ruralknifecrimegeography/"
   },
   "RuralParentChildReading": {
     "title": "Rural Parent-Child Reading / 乡村亲子阅读",
@@ -55323,6 +55339,10 @@
     "title": "Vingeru Makandewiri",
     "url": "/wiki/entities/vingerumakandewiri/"
   },
+  "ViolenceReductionPublicHealthModel": {
+    "title": "Violence Reduction Public-Health Model",
+    "url": "/wiki/concepts/violencereductionpublichealthmodel/"
+  },
   "Vipshop": {
     "title": "唯品会 / Vipshop",
     "url": "/wiki/entities/vipshop/"
@@ -62410,6 +62430,10 @@
   "bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453": {
     "title": "巴黎水和圣培露还能赚钱，雀巢为何要剥离水业务？",
     "url": "/wiki/sources/bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453/"
+  },
+  "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41": {
+    "title": "Bargaining chips: Nvidia is the bank of AI",
+    "url": "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
   },
   "battlefield-rare-earths-how-the-us-lost-to-china": {
     "title": "Battlefield rare earths: How the U.S. lost to China",
