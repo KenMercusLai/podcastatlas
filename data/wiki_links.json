@@ -5075,6 +5075,10 @@
     "title": "APEX Digital",
     "url": "/wiki/entities/apexdigital/"
   },
+  "AphasiaRhythmCueing": {
+    "title": "Aphasia Rhythm Cueing",
+    "url": "/wiki/concepts/aphasiarhythmcueing/"
+  },
   "ApocalypticLiterarySymbolism": {
     "title": "Apocalyptic Literary Symbolism",
     "url": "/wiki/concepts/apocalypticliterarysymbolism/"
@@ -10310,6 +10314,10 @@
   "ChildBedroomDataPrivacy": {
     "title": "Child Bedroom Data Privacy",
     "url": "/wiki/concepts/childbedroomdataprivacy/"
+  },
+  "ChildCommunicationDevelopmentSignals": {
+    "title": "Child Communication Development Signals",
+    "url": "/wiki/concepts/childcommunicationdevelopmentsignals/"
   },
   "ChildCompetenceWishFulfillment": {
     "title": "Child Competence Wish Fulfillment",
@@ -16211,6 +16219,10 @@
     "title": "Dynastic Scandal Suppression",
     "url": "/wiki/concepts/dynasticscandalsuppression/"
   },
+  "DysarthriaCapabilityBoundary": {
+    "title": "Dysarthria Capability Boundary",
+    "url": "/wiki/concepts/dysarthriacapabilityboundary/"
+  },
   "EAB": {
     "title": "EAB",
     "url": "/wiki/entities/eab/"
@@ -18338,6 +18350,10 @@
   "FamilyCaregiverTraining": {
     "title": "Family Caregiver Training",
     "url": "/wiki/concepts/familycaregivertraining/"
+  },
+  "FamilyCommunicationScaffolding": {
+    "title": "Family Communication Scaffolding",
+    "url": "/wiki/concepts/familycommunicationscaffolding/"
   },
   "FamilyDollar": {
     "title": "Family Dollar",
@@ -31611,6 +31627,10 @@
     "title": "Light-Touch Frontier Governance / 宽简边疆治理",
     "url": "/wiki/concepts/lighttouchfrontiergovernance/"
   },
+  "LihuaSpeechTherapist": {
+    "title": "梨花医生 / Lihua Speech Therapist",
+    "url": "/wiki/entities/lihuaspeechtherapist/"
+  },
   "LihunNovel": {
     "title": "《离婚》 / Divorce",
     "url": "/wiki/entities/lihunnovel/"
@@ -40282,6 +40302,10 @@
   "PedestrianProject": {
     "title": "Pedestrian Project",
     "url": "/wiki/entities/pedestrianproject/"
+  },
+  "PediatricLanguageDelayEarlyIntervention": {
+    "title": "Pediatric Language Delay Early Intervention",
+    "url": "/wiki/concepts/pediatriclanguagedelayearlyintervention/"
   },
   "PedroSanchez": {
     "title": "Pedro Sanchez",
@@ -49302,6 +49326,10 @@
   "SpeechAsMoralDiagnostic": {
     "title": "Speech As Moral Diagnostic / 言语作为德行信号",
     "url": "/wiki/concepts/speechasmoraldiagnostic/"
+  },
+  "SpeechLanguageRehabilitation": {
+    "title": "Speech-Language Rehabilitation",
+    "url": "/wiki/concepts/speechlanguagerehabilitation/"
   },
   "SpeechToTextCostOptimization": {
     "title": "Speech To Text Cost Optimization",
@@ -65146,6 +65174,10 @@
   "vol-272-2026-nian-le-zenme-hai-you-ren-yao-zuo-zhongguo-ban-airbnb-1008880863": {
     "title": "Vol.272 2026年了，怎么还有人要做中国版Airbnb？",
     "url": "/wiki/sources/vol-272-2026-nian-le-zenme-hai-you-ren-yao-zuo-zhongguo-ban-airbnb-1008880863/"
+  },
+  "vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj": {
+    "title": "VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展",
+    "url": "/wiki/sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj/"
   },
   "vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo": {
     "title": "VOL.36眼科｜关于干眼症、眼药水、眼底病、近视和近视手术…眼科主任有话说",

@@ -15148,6 +15148,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-04] ingest | VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展
+
+Ingested the 2023-04-02 这病说来话长 rehabilitation episode with 阿汤 and speech therapist 梨花医生 on pediatric language disorders, adult aphasia, dysarthria, family communication scaffolding, music/rhythm cueing, imitation, and long-term speech-language rehabilitation. Added source `vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj`; created `LihuaSpeechTherapist`, `PediatricLanguageDelayEarlyIntervention`, `ChildCommunicationDevelopmentSignals`, `FamilyCommunicationScaffolding`, `SpeechLanguageRehabilitation`, `AphasiaRhythmCueing`, and `DysarthriaCapabilityBoundary`; updated `ZheBingShuoLaiHuaChang`, `Atang`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; age signals, family training choices, costs, music-cue methods, dysarthria examples, and individual prognosis remain source-scoped public education rather than individualized speech-language therapy advice.
+
 ## [2026-09-04] ingest | 318: Hundred Years' War: A Game of Thrones (Part 1)
 
 Ingested the 2023-04-03 The Rest Is History episode opening the Hundred Years' War sequence through French royal power, England's reduced continental position, Gascony and Aquitaine homage pressure, the Capetian-to-Valois succession crisis, the Franco-Scottish alliance, Hallidon Hill, and Edward III's 1337 parliamentary/manifesto framing. Added source `318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008`; created `HundredYearsWar`, `EdwardIIIOfEngland`, `PhilipVIOfFrance`, `EdwardIIOfEngland`, `IsabellaOfFrance`, `RogerMortimer`, `PhilipIVOfFrance`, `Gascony`, `Aquitaine`, `CapetianDynasty`, `ValoisDynasty`, `FrancoScottishAlliance`, `HallidonHill`, `CapetianSuccessionCrisis`, `FeudalHomageSovereigntyConflict`, `DynasticClaimNationalMobilization`, and `ChivalricRomanceWarMemory`; updated `TheRestIsHistory`, `England`, `France`, `Scotland`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; military details around the longbow, Sluys, Crecy, Poitiers, Calais, and later French recovery remain outside this source's complete evidence.
@@ -15155,6 +15159,10 @@ Ingested the 2023-04-03 The Rest Is History episode opening the Hundred Years' W
 ## [2026-09-04] ingest | Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel
 
 Ingested the 2023-04-03 Huberman Lab episode with Elissa Epel on stress response and recovery, threat-versus-challenge appraisal, stress eating, mindful cue control, telomeres, mitochondria, caregiving, pregnancy mindfulness, meditation, radical acceptance, uncertainty tolerance, and positive-stress breathwork. Added source `control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803`; created `ElissaEpel`, `WimHof`, `StressResponseRecovery`, `ThreatChallengeStressReappraisal`, `StressEatingRewardLoop`, `MindfulEatingCueControl`, `StressBiologicalAging`, `RadicalAcceptanceChronicStress`, `UncertaintyToleranceResilience`, and `PositiveStressBreathwork`; updated `HubermanLab`, `AndrewHuberman`, `UniversityOfCaliforniaSanFrancisco`, `AutonomicStressTraining`, `index`, and `overview`. No settled contradiction found; the source-local "Alyssa Epple" spelling is normalized to Elissa Epel, and biomarker, pregnancy, obesity-medication, soda-policy, meditation, and Wim Hof claims remain source-scoped.
+
+## [2026-09-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-04] lint | Wiki health check
 

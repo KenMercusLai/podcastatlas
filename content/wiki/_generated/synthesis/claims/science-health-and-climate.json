@@ -727,9 +727,36 @@
         "ActionAfterAdversity",
         "OutdoorFlowState"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "speech-language-rehabilitation-needs-functional-assessment-and-family-support",
+      "qualifications": [
+        "This is grounded in one rehabilitation podcast episode and should remain public health and medicine education, not individualized diagnosis, treatment planning, or speech-language therapy advice.",
+        "Age signals, music-cue methods, home-training choices, cost/travel burdens, and prognosis vary by child, adult patient, impairment type, family context, and clinician assessment.",
+        "The rhythm-cueing material connects to music-memory and clinical-music-therapy pages only as a rehabilitation cueing overlap, not as a claim that music alone treats aphasia."
+      ],
+      "statement": "[[vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj|VOL.35]] adds a speech-language rehabilitation branch: [[PediatricLanguageDelayEarlyIntervention]], [[ChildCommunicationDevelopmentSignals]], [[FamilyCommunicationScaffolding]], [[SpeechLanguageRehabilitation]], [[AphasiaRhythmCueing]], and [[DysarthriaCapabilityBoundary]] frame late speech, unclear articulation, adult aphasia, and dysarthria through functional assessment, family interaction, repeated practice, rhythm or familiar-scene cueing, and professional judgment rather than folk reassurance or social labeling.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj",
+        "LihuaSpeechTherapist",
+        "PediatricLanguageDelayEarlyIntervention",
+        "ChildCommunicationDevelopmentSignals",
+        "FamilyCommunicationScaffolding",
+        "SpeechLanguageRehabilitation",
+        "AphasiaRhythmCueing",
+        "DysarthriaCapabilityBoundary",
+        "ClinicalMusicTherapy",
+        "MusicMemoryCueing",
+        "MedicalRiskManagement",
+        "DoctorPatientCommunication",
+        "ZheBingShuoLaiHuaChang",
+        "Atang"
+      ]
     }
   ],
   "input_digest": "827b4a630510e5369378f5a0d01fc7c6a9bfab8ad017d89100a601453f9968f5",
-  "summary": "Science-health-and-climate joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: mechanism, measurement, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Health branches cover CGM and GLP-1 boundaries, headphone exposure, sugar and functional-food literacy, 24-hour sleep-wake timing through light, temperature, caffeine, substance, supplement, and phase-shifting boundaries, flexible sleep/circadian/recovery fundamentals, hormone phenotyping, exercise and flexibility safety, diagnostic safety netting, spine rehabilitation, metabolic psychiatry, bipolar and OCD care, bite escalation, individualized cancer vaccines, companion-animal welfare, and evidence-bounded body-composition fundamentals. The nonclinical strands apply the same boundary logic to Himalayan glacial floods, space launch capacity, reusable rockets, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped cultivation or historical health claims. Andy Stumpf adds a public-conversation boundary for social-media attention, substance risk, cold stress, mental-health disclosure, and extreme-environment risk, treated as source-scoped rather than medical, psychiatric, addiction, or sport instruction.",
+  "summary": "Science-health-and-climate joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, speech-language rehabilitation, and nutrition/body-composition coaching through a common boundary theme: mechanism, measurement, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Health branches cover CGM and GLP-1 boundaries, headphone exposure, sugar and functional-food literacy, 24-hour sleep-wake timing through light, temperature, caffeine, substance, supplement, and phase-shifting boundaries, flexible sleep/circadian/recovery fundamentals, hormone phenotyping, exercise and flexibility safety, diagnostic safety netting, spine rehabilitation, pediatric language-delay assessment, aphasia rhythm cueing, dysarthria capability boundaries, metabolic psychiatry, bipolar and OCD care, bite escalation, individualized cancer vaccines, companion-animal welfare, and evidence-bounded body-composition fundamentals. The nonclinical strands apply the same boundary logic to Himalayan glacial floods, space launch capacity, reusable rockets, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped cultivation or historical health claims. Andy Stumpf adds a public-conversation boundary for social-media attention, substance risk, cold stress, mental-health disclosure, and extreme-environment risk, treated as source-scoped rather than medical, psychiatric, addiction, or sport instruction.",
   "topic_id": "science-health-and-climate"
 }

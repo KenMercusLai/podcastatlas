@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6294
+wiki_total_pages: 6300
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "PearlRiverDeltaManufacturingTransformation"
     title: "Pearl River Delta Manufacturing Transformation / 珠三角制造业变迁"
     url: "/wiki/concepts/pearlriverdeltamanufacturingtransformation/"
+  - key: "PediatricLanguageDelayEarlyIntervention"
+    title: "Pediatric Language Delay Early Intervention"
+    url: "/wiki/concepts/pediatriclanguagedelayearlyintervention/"
   - key: "PeerToPeerMarketplaceTrust"
     title: "Peer-to-Peer Marketplace Trust"
     url: "/wiki/concepts/peertopeermarketplacetrust/"

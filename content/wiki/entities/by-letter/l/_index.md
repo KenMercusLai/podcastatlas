@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 8860
+wiki_total_pages: 8861
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1526,6 +1526,9 @@ wiki_pages:
   - key: "LiangLongLateHan"
     title: "梁龙 / Liang Long (late Han)"
     url: "/wiki/entities/lianglonglatehan/"
+  - key: "LihuaSpeechTherapist"
+    title: "梨花医生 / Lihua Speech Therapist"
+    url: "/wiki/entities/lihuaspeechtherapist/"
   - key: "LouJing"
     title: "楼敬 / Lou Jing"
     url: "/wiki/entities/loujing/"

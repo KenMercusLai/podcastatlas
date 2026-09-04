@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6294
+wiki_total_pages: 6300
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -827,6 +827,9 @@ wiki_pages:
   - key: "DynasticScandalSuppression"
     title: "Dynastic Scandal Suppression"
     url: "/wiki/concepts/dynasticscandalsuppression/"
+  - key: "DysarthriaCapabilityBoundary"
+    title: "Dysarthria Capability Boundary"
+    url: "/wiki/concepts/dysarthriacapabilityboundary/"
   - key: "DecisiveTerrainPreemption"
     title: "争地抢先式决胜 / Decisive Terrain Preemption"
     url: "/wiki/concepts/decisiveterrainpreemption/"

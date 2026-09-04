@@ -15,17 +15,20 @@ sources:
   - vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o
   - vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb
   - vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd
-last_updated: 2026-09-02
+  - vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj
+last_updated: 2026-09-04
 knowledge_schema: synthesis-v1
 ---
 
 # 阿汤 / A Tang
 
 ## Overview
-阿汤 is a host voice in ingested [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on medical uncertainty, lifestyle health, GLP-1 medicines, CGM, supplements, functional-food claims, headphone and hearing safety, internet medical vocabulary, insect-bite prevention, exercise safety, exercise aesthetics, cardiovascular boundaries, music therapy, workplace bullying, and psychological boundaries.
+阿汤 is a host voice in ingested [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on medical uncertainty, lifestyle health, GLP-1 medicines, CGM, supplements, functional-food claims, headphone and hearing safety, speech-language rehabilitation, internet medical vocabulary, insect-bite prevention, exercise safety, exercise aesthetics, cardiovascular boundaries, music therapy, workplace bullying, and psychological boundaries.
 
 ## Current Profile
-Across the current source set, 阿汤's role is to turn expert knowledge into concrete listener-facing questions. In clinical and health-literacy episodes, he asks how ordinary patients should understand uncertain first visits, imaging reports, second opinions, surgery thresholds, weight-loss interventions, sugar claims, supplement claims, functional-food categories, headphone habits, tinnitus, sudden hearing symptoms, online neuroscience labels, mosquito repellent claims, insect-bite aftercare, exercise injury prevention, exercise-as-medical-aesthetics claims, and clinical music therapy without converting public discussion into self-treatment.
+Across the current source set, 阿汤's role is to turn expert knowledge into concrete listener-facing questions. In clinical and health-literacy episodes, he asks how ordinary patients should understand uncertain first visits, imaging reports, second opinions, surgery thresholds, speech-language development, adult aphasia, dysarthria, weight-loss interventions, sugar claims, supplement claims, functional-food categories, headphone habits, tinnitus, sudden hearing symptoms, online neuroscience labels, mosquito repellent claims, insect-bite aftercare, exercise injury prevention, exercise-as-medical-aesthetics claims, and clinical music therapy without converting public discussion into self-treatment.
+
+VOL.35 adds a speech-language rehabilitation branch to his host profile. 阿汤 starts from the difference between ordinary expression difficulty and pathological inability to express, then asks [[LihuaSpeechTherapist|梨花医生]] how families should understand children's late speech, gestures, comprehension, emotional response, passive screens, household overcare, adult aphasia, music and rhythm cueing, dysarthria, and long-term rehabilitation expectations.
 
 VOL.221 adds a CGM and GLP-1 branch to his host profile. 阿汤 starts from everyday worries about glucose curves, sleep scores, muscle loss, appearance pressure, online dieting discourse, and "weight-loss injection" shortcuts, then asks [[DabaNiuTeacher|大白牛]] to distinguish diabetes safety monitoring, healthy-person overtracking, [[GLP1Agonists|GLP-1]] indication boundaries, adverse effects, contraindication history, mood watch items, rebound, and [[LifestyleWeightManagement|long-term lifestyle change]].
 
@@ -42,16 +45,17 @@ VOL.212 adds a strongly embodied branch to his host profile. 阿汤 starts from 
 The same hosting pattern extends into mental-health and workplace pressure. In the workplace-bullying episode, he uses audience extensions of [[TrueEducationKDrama|《铁拳教育》/《真教育》]] into "铁拳职场" to ask how adults should understand PUA, suppression, humiliation, hidden exclusion, and self-doubt at work. His contribution remains framing: he surfaces the everyday fear, prompts specialist distinctions from [[NanJiHe|南基贺]], and turns the dramatic "iron fist" into nonviolent [[PsychologicalBoundaryProtection|psychological boundary protection]].
 
 ## Key Characteristics
-- Hosts specialist medical, health-literacy, otolaryngology, cardiovascular, sports-medicine, medical-aesthetic, and mental-health conversations for lay listeners.
+- Hosts specialist medical, health-literacy, otolaryngology, speech-language rehabilitation, cardiovascular, sports-medicine, medical-aesthetic, and mental-health conversations for lay listeners.
 - Translates clinician reasoning, consumer-health claims, supplement questions, and device habits into patient questions, product-use questions, training questions, workplace questions, and follow-up actions.
 - Frames uncertainty, hype, anxiety, coercion, pain, or "智商税" claims as practical boundary problems rather than simple blame contests.
 - Uses personal, media, audio-editing, earphone, gym, and everyday examples to make abstract clinical or social distinctions concrete.
-- Keeps ordinary listener advice inside qualified medical, otolaryngology, audiology, psychiatric, psychological, rehabilitation, emergency-care, medical-aesthetic, cardiovascular, and institutional boundaries.
-- Turns food-label, supplement, functional-food, CGM, GLP-1, headphone, tinnitus, internet-vocabulary, insect-bite, exercise-safety, appearance, music-therapy, emergency-response, and workplace-pressure confusion into usable distinctions without flattening them into self-diagnosis.
+- Keeps ordinary listener advice inside qualified medical, otolaryngology, audiology, speech-language therapy, psychiatric, psychological, rehabilitation, emergency-care, medical-aesthetic, cardiovascular, and institutional boundaries.
+- Turns food-label, supplement, functional-food, CGM, GLP-1, headphone, tinnitus, child-language, aphasia, dysarthria, internet-vocabulary, insect-bite, exercise-safety, appearance, music-therapy, emergency-response, and workplace-pressure confusion into usable distinctions without flattening them into self-diagnosis.
 - Uses prevention and escalation questions to separate ordinary self-care from situations that require professional help.
 
 ## Evidence
 - Clinical uncertainty framing: [[vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm]] has 阿汤 ask doctors how patients should handle "observe," report tracking, second opinions, and worsening symptoms after uncertain first visits.
+- Speech-language rehabilitation framing: [[vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj]] has 阿汤 move from pathological expression limits into questions about late-speaking children, "贵人语迟," gesture and comprehension signals, family overcare, passive screens, adult aphasia, dysarthria, rhythm cueing, and rehabilitation patience.
 - Music-therapy framing: [[vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0]] has 阿汤 move from white noise, spa music, podcast voice, old songs, and emotion-tagged playlists into questions about clinical music therapy, therapist role, professional boundaries, memory, autism support, hospital care, and everyday emotion regulation.
 - Headphone and hearing-safety framing: [[vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb]] has 阿汤 move from podcast listening, audio editing, single-ear monitoring, in-ear and semi-in-ear use, noise cancellation, commuting noise, earphone cleaning, and sudden peaks into questions about hearing risk, ear-canal inflammation, tinnitus, and warning signs.
 - Lifestyle-health framing: [[vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5]], [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]], [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o]], [[vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u]], and [[vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd]] have him move from ordinary anxiety about weight, injections, CGM curves, sugar, staple foods, labels, supplements, exercise appearance, heart rate, coffee, muscle loss, and sleep into qualified nutrition, cardiology, metabolic-health, and medical boundaries.
@@ -61,18 +65,19 @@ The same hosting pattern extends into mental-health and workplace pressure. In t
 - Bite-prevention and aftercare framing: [[vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec]] has him help turn mosquito attraction, repellent products, allergic itch, antihistamines, steroids, tick handling, chigger fever risk, and household source control into ordinary listener questions.
 
 ## Qualifications
-The wiki has no independent biographical evidence for 阿汤 beyond these episode notes. His identity, host role, and personal examples should remain source-scoped until more episodes or external sources are ingested. The episodes are public education and discussion, not individualized medical, diabetes, obesity, medication, device-use, otolaryngology, audiology, tinnitus, device-selection, psychiatric, legal, nutritional, dermatology, infection, supplement, product-safety, rehabilitation, music-therapy, sports-training, cardiology, medical-aesthetic, emergency-care, or workplace advice.
+The wiki has no independent biographical evidence for 阿汤 beyond these episode notes. His identity, host role, and personal examples should remain source-scoped until more episodes or external sources are ingested. The episodes are public education and discussion, not individualized medical, diabetes, obesity, medication, device-use, otolaryngology, audiology, tinnitus, device-selection, pediatric, autism, aphasia, dysarthria, speech-language therapy, psychiatric, legal, nutritional, dermatology, infection, supplement, product-safety, rehabilitation, music-therapy, sports-training, cardiology, medical-aesthetic, emergency-care, or workplace advice.
 
 ## What Changed
-- VOL.221 adds CGM, GLP-1, health-data anxiety, muscle-loss, rebound, and appearance-pressure questions to 阿汤's recorded host role.
-- The profile now treats metabolic devices and medication hype as another branch of his recurring boundary-setting work.
-- The page keeps his device, body, and lifestyle examples source-scoped rather than treating them as biographical evidence beyond the episode.
+- VOL.35 adds pediatric language delay, adult aphasia, dysarthria, family communication scaffolding, and speech-language rehabilitation expectations to 阿汤's recorded host role.
+- The profile now treats late speech and unclear articulation as another branch of his recurring boundary-setting work between ordinary worry, internet shorthand, and professional care.
+- The page keeps his speech-rehabilitation questions source-scoped rather than treating them as biographical evidence beyond the episode.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - show where he appears as host.
 - [[LvDoctorENT]] - otolaryngology guest he hosts in the VOL.208 episode.
 - [[ShenzhenPeopleHospital]] - hospital affiliation named for the ENT guest he hosts.
 - [[GuoMusicTherapyGuest]] - music-therapy guest he hosts in the VOL.210 episode.
+- [[LihuaSpeechTherapist]] - speech therapist guest he hosts in the VOL.35 episode.
 - [[AnderMedicalAesthetics]] - medical-aesthetics guest he hosts in the exercise-as-aesthetic-medicine episode.
 - [[DengProfessorCardiology]] - cardiovascular-medicine guest he hosts in the exercise-risk episode.
 - [[LiuZimingSportsMedicine]] - sports-medicine doctor he hosts in the exercise-safety episode.
@@ -114,6 +119,12 @@ The wiki has no independent biographical evidence for 阿汤 beyond these episod
 - [[NoiseExposureLayering]] - environmental-noise and headphone-volume frame he prompts through commuting and work-location examples.
 - [[TinnitusSignalBoundary]] - tinnitus interpretation boundary he asks the guest to explain.
 - [[SuddenHearingChangeEscalation]] - urgent hearing-symptom threshold he asks the guest to make concrete.
+- [[PediatricLanguageDelayEarlyIntervention]] - child-language early-intervention frame he prompts through late-speech questions.
+- [[ChildCommunicationDevelopmentSignals]] - developmental observation frame he asks the guest to make concrete.
+- [[FamilyCommunicationScaffolding]] - caregiver-practice frame he prompts through household examples.
+- [[SpeechLanguageRehabilitation]] - broader rehabilitation frame he prompts through pediatric and adult cases.
+- [[AphasiaRhythmCueing]] - music and rhythm cueing branch he asks about in adult aphasia.
+- [[DysarthriaCapabilityBoundary]] - articulation and capability distinction he raises through dysarthria examples.
 - [[PrefrontalCortexOverattribution]] - neuroscience-language boundary he turns into listener scenarios.
 - [[ClinicalMusicTherapy]] - clinical music-therapy boundary he prompts through wellness-listening examples.
 - [[TherapeuticMusicalSynchrony]] - interaction mechanism he asks the guest to unpack.

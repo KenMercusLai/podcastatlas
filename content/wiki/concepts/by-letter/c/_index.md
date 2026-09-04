@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6294
+wiki_total_pages: 6300
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "ChildBedroomDataPrivacy"
     title: "Child Bedroom Data Privacy"
     url: "/wiki/concepts/childbedroomdataprivacy/"
+  - key: "ChildCommunicationDevelopmentSignals"
+    title: "Child Communication Development Signals"
+    url: "/wiki/concepts/childcommunicationdevelopmentsignals/"
   - key: "ChildCompetenceWishFulfillment"
     title: "Child Competence Wish Fulfillment"
     url: "/wiki/concepts/childcompetencewishfulfillment/"

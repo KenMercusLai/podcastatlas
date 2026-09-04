@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2378
+topic_total_pages: 2379
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -256,6 +256,9 @@ topic_concepts:
   - key: "AntiheroMisreading"
     title: "Antihero Misreading"
     url: "/wiki/concepts/antiheromisreading/"
+  - key: "AphasiaRhythmCueing"
+    title: "Aphasia Rhythm Cueing"
+    url: "/wiki/concepts/aphasiarhythmcueing/"
   - key: "ApocalypticLiterarySymbolism"
     title: "Apocalyptic Literary Symbolism"
     url: "/wiki/concepts/apocalypticliterarysymbolism/"

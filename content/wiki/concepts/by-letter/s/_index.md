@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6294
+wiki_total_pages: 6300
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -971,6 +971,9 @@ wiki_pages:
   - key: "SpeechToTextCostOptimization"
     title: "Speech To Text Cost Optimization"
     url: "/wiki/concepts/speechtotextcostoptimization/"
+  - key: "SpeechLanguageRehabilitation"
+    title: "Speech-Language Rehabilitation"
+    url: "/wiki/concepts/speechlanguagerehabilitation/"
   - key: "SpineRehabilitationProgression"
     title: "Spine Rehabilitation Progression / 脊柱康复循序渐进"
     url: "/wiki/concepts/spinerehabilitationprogression/"

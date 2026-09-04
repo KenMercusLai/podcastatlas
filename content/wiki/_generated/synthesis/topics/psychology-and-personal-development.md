@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-04
-as_of_overview_commit: 99973777bad58c85cb75c7f0dcd772ec909500a6
-input_digest: 6da80d52b055ef6a86fc58714c4ae5a4c20ea995f777ec5bc94a68ac6d974c22
+as_of_overview_commit: c39a570ba8e3323057705f2ae2204840165450e4
+input_digest: dcafd8ece99da99ad5db650ad6f2c3df54a0f50c7b0dc9cb03aa224294175439
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-The Epel Huberman Lab episode adds a stress-regulation branch where harm depends on appraisal, rumination, recovery, body and food cues, acceptance, uncertainty tolerance, and meaning-making rather than exposure alone. The Doubao Work AI-office paragraph remains secondary here as a workplace trust and adoption case because agent use depends on context sharing, review behavior, and willingness to change work routines, while its main synthesis belongs to AI technology and business markets. Hanji 697, 699 PLUS, 702, 705-1, 713, 736, 744-745, 753, 798, 892, 901, 902, and late-Han/Liu Bei/Cao Cao/Yuan-family cases keep the historical side of this topic focused on self-command, status reading, loyalty, speech restraint, emotion concealment, and judgment under authority rather than clinical advice. The modern branch covers relationship science, workplace abuse boundaries, functional emotion regulation, meditation and no-self practice, music therapy, creativity, state-dependent self-control, discipline and action after adversity, movement as awareness, AI/workplace trust, sports confidence, companion-animal owner state, Everest-style fear/team-trust judgment, and a secondary KFC/McDonalds consumer-preference case.
+The Epel Huberman Lab episode adds a stress-regulation branch where harm depends on appraisal, rumination, recovery, body and food cues, acceptance, uncertainty tolerance, and meaning-making rather than exposure alone. The Doubao Work AI-office paragraph remains secondary here as a workplace trust and adoption case because agent use depends on context sharing, review behavior, and willingness to change work routines, while its main synthesis belongs to AI technology and business markets. Hanji 697, 699 PLUS, 702, 705-1, 713, 736, 744-745, 753, 798, 892, 901, 902, and late-Han/Liu Bei/Cao Cao/Yuan-family cases keep the historical side of this topic focused on self-command, status reading, loyalty, speech restraint, emotion concealment, and judgment under authority rather than clinical advice. The modern branch covers relationship science, workplace abuse boundaries, functional emotion regulation, meditation and no-self practice, music therapy, speech-language rehabilitation as a communication-behavior boundary, creativity, state-dependent self-control, discipline and action after adversity, movement as awareness, AI/workplace trust, sports confidence, companion-animal owner state, Everest-style fear/team-trust judgment, and a secondary KFC/McDonalds consumer-preference case.
 
 ## Cross-source Findings
 
@@ -639,3 +639,15 @@ The KFC and McDonalds Africa paragraph enters psychology-and-personal-developmen
 - This is a workplace-adoption and trust edge, not a clinical psychology or general self-improvement claim.
 - The paragraph belongs primarily to AI-and-technology and business-and-markets; psychology relevance is limited to user trust, review behavior, and willingness to work through agents.
 - Product-test and winner-forecast details remain source-scoped to the Doubao Work episode.
+
+### Speech Rehabilitation Is Secondary Communication Behavior Case
+
+VOL.35 enters psychology-and-personal-development only as a functional communication behavior case: [[ChildCommunicationDevelopmentSignals]], [[FamilyCommunicationScaffolding]], [[BehaviorAsCommunication]], and [[AutismAsHumanDifference]] make late speech or unclear articulation legible through comprehension, gesture, emotion, interaction, screens, and family response, while [[SpeechLanguageRehabilitation]] and [[DysarthriaCapabilityBoundary]] keep the main claim in clinical rehabilitation rather than personality judgment.
+
+**Evidence:** [[vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj]], [[ChildCommunicationDevelopmentSignals]], [[FamilyCommunicationScaffolding]], [[BehaviorAsCommunication]], [[AutismAsHumanDifference]], [[PediatricLanguageDelayEarlyIntervention]], [[SpeechLanguageRehabilitation]], [[DysarthriaCapabilityBoundary]], [[LihuaSpeechTherapist]], [[DoctorPatientCommunication]]
+
+**Qualifications:**
+
+- This is not a clinical psychology claim or individualized child-development advice.
+- The psychology relevance is secondary to speech-language rehabilitation and limited to behavior interpretation, emotion, interaction, and family response.
+- The episode rejects folk reassurance and stigma but does not provide a full diagnostic protocol.

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "a4806b391272e689d44bcbe60c3a77398cc0e612bbc48ae87c5a613573d9af0b",
       "0a91738c7181c394ab64885ba1a1b7efb770c078ebae17c24c02c743b7903647",
       "1362c5f4a6cb37a78fbe1812385e843f5dc234d5ccf6fac8542ed6cca802caed",
       "8f8f5bed55b64b3394ae346629e0df528d43f3ce7559982ae40aaf5c4d7e7cf0",
@@ -519,11 +520,44 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 517
+    "paragraph_count": 518
   },
-  "overview_commit": "b9ff4567c3dabf8fb8deab8b15ddcea3ce3dadb3",
-  "overview_digest": "79144a89e427a87105af381a327a9264521fc809b5fb40b2134f9280a92ab3ca",
+  "overview_commit": "c39a570ba8e3323057705f2ae2204840165450e4",
+  "overview_digest": "0c18fec57d0d4a3c429aba488ca15f834ea88ac5aff7ca66614417f51181f98f",
   "paragraphs": [
+    {
+      "id": "a4806b391272e689d44bcbe60c3a77398cc0e612bbc48ae87c5a613573d9af0b",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "work-education-and-society",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj|VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[Atang|阿汤]] and speech therapist [[LihuaSpeechTherapist|梨花医生]] on pediatric language delay, adult aphasia, dysarthria, and speech-language rehabilitation. It adds [[LihuaSpeechTherapist]], [[PediatricLanguageDelayEarlyIntervention]], [[ChildCommunicationDevelopmentSignals]], [[FamilyCommunicationScaffolding]], [[SpeechLanguageRehabilitation]], [[AphasiaRhythmCueing]], and [[DysarthriaCapabilityBoundary]], while extending [[ZheBingShuoLaiHuaChang]], [[Atang]], [[ClinicalMusicTherapy]], [[MusicMemoryCueing]], [[BehaviorAsCommunication]], [[AutismAsHumanDifference]], [[MedicalRiskManagement]], and [[DoctorPatientCommunication]]. Its core synthesis is that late speech and unclear articulation should be read through communication function and professional assessment rather than folk reassurance or social judgment: children need early attention to comprehension, gesture, emotion, pointing, dialogue, screens, and family interaction, while adults with aphasia or dysarthria may benefit from repeated training, imitation, rhythm, familiar life scenes, and caregiver support. No settled contradiction is recorded; age signals, music-cue methods, costs, family training choices, and individual prognosis remain source-scoped public health and medicine education rather than individualized speech-language therapy advice.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "psychology-and-personal-development": 3,
+        "science-health-and-climate": 3,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "AphasiaRhythmCueing",
+        "Atang",
+        "AutismAsHumanDifference",
+        "BehaviorAsCommunication",
+        "ChildCommunicationDevelopmentSignals",
+        "ClinicalMusicTherapy",
+        "DoctorPatientCommunication",
+        "DysarthriaCapabilityBoundary",
+        "FamilyCommunicationScaffolding",
+        "LihuaSpeechTherapist",
+        "MedicalRiskManagement",
+        "MusicMemoryCueing",
+        "PediatricLanguageDelayEarlyIntervention",
+        "SpeechLanguageRehabilitation",
+        "ZheBingShuoLaiHuaChang",
+        "vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj"
+      ]
+    },
     {
       "id": "0a91738c7181c394ab64885ba1a1b7efb770c078ebae17c24c02c743b7903647",
       "primary_topic": "history-and-geopolitics",

@@ -3,16 +3,16 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-09-02
-as_of_overview_commit: ce6303b8c4199b222444ad6606bd7fdaa48d502b
-input_digest: 827b4a630510e5369378f5a0d01fc7c6a9bfab8ad017d89100a601453f9968f5
+last_updated: 2026-09-04
+as_of_overview_commit: c39a570ba8e3323057705f2ae2204840165450e4
+input_digest: b868aeaa42d828e038d4b35a38ed26c73558af87bbd19f74ca0b2e5bbe058de4
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science-health-and-climate joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, and nutrition/body-composition coaching through a common boundary theme: mechanism, measurement, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Health branches cover CGM and GLP-1 boundaries, headphone exposure, sugar and functional-food literacy, 24-hour sleep-wake timing through light, temperature, caffeine, substance, supplement, and phase-shifting boundaries, flexible sleep/circadian/recovery fundamentals, hormone phenotyping, exercise and flexibility safety, diagnostic safety netting, spine rehabilitation, metabolic psychiatry, bipolar and OCD care, bite escalation, individualized cancer vaccines, companion-animal welfare, and evidence-bounded body-composition fundamentals. The nonclinical strands apply the same boundary logic to Himalayan glacial floods, space launch capacity, reusable rockets, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped cultivation or historical health claims. Andy Stumpf adds a public-conversation boundary for social-media attention, substance risk, cold stress, mental-health disclosure, and extreme-environment risk, treated as source-scoped rather than medical, psychiatric, addiction, or sport instruction.
+Science-health-and-climate joins practical health literacy, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, speech-language rehabilitation, and nutrition/body-composition coaching through a common boundary theme: mechanism, measurement, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Health branches cover CGM and GLP-1 boundaries, headphone exposure, sugar and functional-food literacy, 24-hour sleep-wake timing through light, temperature, caffeine, substance, supplement, and phase-shifting boundaries, flexible sleep/circadian/recovery fundamentals, hormone phenotyping, exercise and flexibility safety, diagnostic safety netting, spine rehabilitation, pediatric language-delay assessment, aphasia rhythm cueing, dysarthria capability boundaries, metabolic psychiatry, bipolar and OCD care, bite escalation, individualized cancer vaccines, companion-animal welfare, and evidence-bounded body-composition fundamentals. The nonclinical strands apply the same boundary logic to Himalayan glacial floods, space launch capacity, reusable rockets, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped cultivation or historical health claims. Andy Stumpf adds a public-conversation boundary for social-media attention, substance risk, cold stress, mental-health disclosure, and extreme-environment risk, treated as source-scoped rather than medical, psychiatric, addiction, or sport instruction.
 
 ## Cross-source Findings
 
@@ -381,3 +381,15 @@ The Eastwick paragraph extends Huberman Lab public-science boundaries into relat
 - The Stumpf episode is a public interview, not individualized medical, psychiatric, addiction, suicide-prevention, performance, cold-exposure, or extreme-sport advice.
 - Claims about alcohol, cannabis, social media, cold stress, anterior mid-cingulate, suicide, pain disclosure, and daily discipline remain source-scoped until grounded by stronger dedicated evidence pages.
 - Wingsuiting and base jumping are treated as extreme-environment risk narratives, not recommended stress-training or health practices.
+
+### Speech Language Rehabilitation Needs Functional Assessment And Family Support
+
+[[vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj|VOL.35]] adds a speech-language rehabilitation branch: [[PediatricLanguageDelayEarlyIntervention]], [[ChildCommunicationDevelopmentSignals]], [[FamilyCommunicationScaffolding]], [[SpeechLanguageRehabilitation]], [[AphasiaRhythmCueing]], and [[DysarthriaCapabilityBoundary]] frame late speech, unclear articulation, adult aphasia, and dysarthria through functional assessment, family interaction, repeated practice, rhythm or familiar-scene cueing, and professional judgment rather than folk reassurance or social labeling.
+
+**Evidence:** [[vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj]], [[LihuaSpeechTherapist]], [[PediatricLanguageDelayEarlyIntervention]], [[ChildCommunicationDevelopmentSignals]], [[FamilyCommunicationScaffolding]], [[SpeechLanguageRehabilitation]], [[AphasiaRhythmCueing]], [[DysarthriaCapabilityBoundary]], [[ClinicalMusicTherapy]], [[MusicMemoryCueing]], [[MedicalRiskManagement]], [[DoctorPatientCommunication]], [[ZheBingShuoLaiHuaChang]], [[Atang]]
+
+**Qualifications:**
+
+- This is grounded in one rehabilitation podcast episode and should remain public health and medicine education, not individualized diagnosis, treatment planning, or speech-language therapy advice.
+- Age signals, music-cue methods, home-training choices, cost/travel burdens, and prognosis vary by child, adult patient, impairment type, family context, and clinician assessment.
+- The rhythm-cueing material connects to music-memory and clinical-music-therapy pages only as a rehabilitation cueing overlap, not as a claim that music alone treats aphasia.

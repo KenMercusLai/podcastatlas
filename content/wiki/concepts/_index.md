@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6294
+wiki_total_pages: 6300
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1586,6 +1586,9 @@ wiki_pages:
   - key: "ApathyActionInitiation"
     title: "Apathy Action Initiation"
     url: "/wiki/concepts/apathyactioninitiation/"
+  - key: "AphasiaRhythmCueing"
+    title: "Aphasia Rhythm Cueing"
+    url: "/wiki/concepts/aphasiarhythmcueing/"
   - key: "APIProductDesign"
     title: "API Product Design"
     url: "/wiki/concepts/apiproductdesign/"

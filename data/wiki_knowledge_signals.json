@@ -3746,6 +3746,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/apathyactioninitiation/"
     },
+    "AphasiaRhythmCueing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnmOqgfMSHs_ZzT1GXkUTV06w8Aj [lnmOqgfMSHs_ZzT1GXkUTV06w8Aj].md",
+          "key": "vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj",
+          "show": "这病说来话长",
+          "title": "VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展",
+          "url": "/wiki/sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/aphasiarhythmcueing/"
+    },
     "ApplicationCompanyModelCapability": {
       "episode_count": 1,
       "show_count": 1,
@@ -3986,9 +4002,9 @@
       "url": "/wiki/concepts/assisteddrivingtrustformation/"
     },
     "Atang": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -4073,9 +4089,16 @@
           "show": "这病说来话长",
           "title": "VOL.221对话大白牛：掉肌肉、易抑郁、停药必反弹？撕掉“神药”滤镜",
           "url": "/wiki/sources/vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd/"
+        },
+        {
+          "episode_file": "lnmOqgfMSHs_ZzT1GXkUTV06w8Aj [lnmOqgfMSHs_ZzT1GXkUTV06w8Aj].md",
+          "key": "vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj",
+          "show": "这病说来话长",
+          "title": "VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展",
+          "url": "/wiki/sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-04",
       "url": "/wiki/entities/atang/"
     },
     "Athena": {
@@ -8519,6 +8542,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/chesterwilliams/"
+    },
+    "ChildCommunicationDevelopmentSignals": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnmOqgfMSHs_ZzT1GXkUTV06w8Aj [lnmOqgfMSHs_ZzT1GXkUTV06w8Aj].md",
+          "key": "vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj",
+          "show": "这病说来话长",
+          "title": "VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展",
+          "url": "/wiki/sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/childcommunicationdevelopmentsignals/"
     },
     "ChimeiRebellion": {
       "episode_count": 11,
@@ -14787,6 +14826,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/dynasticscandalsuppression/"
     },
+    "DysarthriaCapabilityBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnmOqgfMSHs_ZzT1GXkUTV06w8Aj [lnmOqgfMSHs_ZzT1GXkUTV06w8Aj].md",
+          "key": "vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj",
+          "show": "这病说来话长",
+          "title": "VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展",
+          "url": "/wiki/sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/dysarthriacapabilityboundary/"
+    },
     "ECTBipolarDepressionBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -18111,6 +18166,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/fairallocationpoliticalskill/"
+    },
+    "FamilyCommunicationScaffolding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnmOqgfMSHs_ZzT1GXkUTV06w8Aj [lnmOqgfMSHs_ZzT1GXkUTV06w8Aj].md",
+          "key": "vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj",
+          "show": "这病说来话长",
+          "title": "VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展",
+          "url": "/wiki/sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/familycommunicationscaffolding/"
     },
     "FamilyRiskDiversification": {
       "episode_count": 1,
@@ -32193,6 +32264,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/lighttouchfrontiergovernance/"
     },
+    "LihuaSpeechTherapist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnmOqgfMSHs_ZzT1GXkUTV06w8Aj [lnmOqgfMSHs_ZzT1GXkUTV06w8Aj].md",
+          "key": "vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj",
+          "show": "这病说来话长",
+          "title": "VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展",
+          "url": "/wiki/sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/entities/lihuaspeechtherapist/"
+    },
     "LiminalSleepTransitionPractice": {
       "episode_count": 1,
       "show_count": 1,
@@ -41726,6 +41813,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/peacefultransferofpower/"
     },
+    "PediatricLanguageDelayEarlyIntervention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnmOqgfMSHs_ZzT1GXkUTV06w8Aj [lnmOqgfMSHs_ZzT1GXkUTV06w8Aj].md",
+          "key": "vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj",
+          "show": "这病说来话长",
+          "title": "VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展",
+          "url": "/wiki/sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/pediatriclanguagedelayearlyintervention/"
+    },
     "PeiZunEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -49731,6 +49834,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/spacebasedaiinfrastructure/"
+    },
+    "SpeechLanguageRehabilitation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnmOqgfMSHs_ZzT1GXkUTV06w8Aj [lnmOqgfMSHs_ZzT1GXkUTV06w8Aj].md",
+          "key": "vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj",
+          "show": "这病说来话长",
+          "title": "VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展",
+          "url": "/wiki/sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj/"
+        }
+      ],
+      "updated": "2026-09-04",
+      "url": "/wiki/concepts/speechlanguagerehabilitation/"
     },
     "SpencerPratt": {
       "episode_count": 2,
@@ -62221,9 +62340,9 @@
       "url": "/wiki/entities/zhaogecountylatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -62329,6 +62448,13 @@
           "show": "这病说来话长",
           "title": "VOL.36眼科｜关于干眼症、眼药水、眼底病、近视和近视手术…眼科主任有话说",
           "url": "/wiki/sources/vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo/"
+        },
+        {
+          "episode_file": "lnmOqgfMSHs_ZzT1GXkUTV06w8Aj [lnmOqgfMSHs_ZzT1GXkUTV06w8Aj].md",
+          "key": "vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj",
+          "show": "这病说来话长",
+          "title": "VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展",
+          "url": "/wiki/sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj/"
         }
       ],
       "updated": "2026-09-04",
