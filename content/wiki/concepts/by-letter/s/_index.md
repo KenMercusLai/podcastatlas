@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6363
+wiki_total_pages: 6368
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "SacrificingOthersEthics"
     title: "Sacrificing Others Ethics"
     url: "/wiki/concepts/sacrificingothersethics/"
+  - key: "SafeEffortProcrastinationReset"
+    title: "Safe Effort Procrastination Reset"
+    url: "/wiki/concepts/safeeffortprocrastinationreset/"
   - key: "SafeSpacesVsOctagons"
     title: "Safe Spaces vs Octagons"
     url: "/wiki/concepts/safespacesvsoctagons/"

@@ -27,6 +27,25 @@
       ]
     },
     {
+      "global_candidate": true,
+      "id": "dopamine-dynamics-bound-procrastination-and-effort-tools",
+      "qualifications": [
+        "The evidence is one public neuroscience podcast episode, not individualized treatment for ADHD, addiction, depression, medication use, or withdrawal.",
+        "Prescription stimulant, supplement, cold-exposure, NSDR, addiction-recovery, and training-timing claims remain source-scoped and require medical or context-specific judgment before use.",
+        "The claim strengthens effort and procrastination synthesis but does not reduce motivation to dopamine alone."
+      ],
+      "statement": "[[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288|The Huberman dopamine episode]] adds a motivation branch in which [[DopaminePeakTroughBaseline]], [[RewardPredictionErrorLearning]], [[DopamineBaselineMaintenance]], [[SafeEffortProcrastinationReset]], and [[EffortAsReward]] frame procrastination as a state-and-learning problem: protect baseline capacity, avoid stacked sharp reward peaks, learn from anticipation and prediction error, and use brief safe effort to leave low-motivation troughs.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288",
+        "DopaminePeakTroughBaseline",
+        "RewardPredictionErrorLearning",
+        "DopamineBaselineMaintenance",
+        "SafeEffortProcrastinationReset",
+        "EffortAsReward"
+      ]
+    },
+    {
       "global_candidate": false,
       "id": "hanji-697-command-composure-trust-and-overreach-boundary",
       "qualifications": [
@@ -1161,7 +1180,7 @@
       ]
     }
   ],
-  "input_digest": "6da80d52b055ef6a86fc58714c4ae5a4c20ea995f777ec5bc94a68ac6d974c22",
-  "summary": "The Epel Huberman Lab episode adds a stress-regulation branch where harm depends on appraisal, rumination, recovery, body and food cues, acceptance, uncertainty tolerance, and meaning-making rather than exposure alone. The Doubao Work AI-office paragraph remains secondary here as a workplace trust and adoption case because agent use depends on context sharing, review behavior, and willingness to change work routines, while its main synthesis belongs to AI technology and business markets. Hanji 697, 699 PLUS, 702, 705-1, 713, 736, 744-745, 753, 798, 892, 901, 902, and late-Han/Liu Bei/Cao Cao/Yuan-family cases keep the historical side of this topic focused on self-command, status reading, loyalty, speech restraint, emotion concealment, and judgment under authority rather than clinical advice. The modern branch covers relationship science, workplace abuse boundaries, functional emotion regulation, meditation and no-self practice, music therapy, speech-language rehabilitation as a communication-behavior boundary, creativity, state-dependent self-control, discipline and action after adversity, movement as awareness, AI/workplace trust, sports confidence, companion-animal owner state, Everest-style fear/team-trust judgment, and a secondary KFC/McDonalds consumer-preference case.",
+  "input_digest": "0d02f1e297ac02576a22184411da3c41b3878bcad936580397c679a3cec870f7",
+  "summary": "The Huberman dopamine episode adds a motivation branch where dopamine is tracked as baseline, peaks, troughs, anticipation, and reward-prediction learning, tying procrastination exits to baseline care, anti-stacking, effort-as-reward, and brief safe effort rather than a simple willpower model. The Epel episode keeps stress regulation anchored in appraisal, rumination, recovery, cue control, acceptance, uncertainty tolerance, and meaning-making. Historical Hanji cases remain source-scoped evidence about self-command, status reading, speech restraint, title discipline, desire, alliance trust, succession, and timed judgment under authority. Modern branches cover relationship science, workplace abuse and trust, functional emotion regulation, meditation/no-self, music and speech rehabilitation, creativity, state-dependent self-control, movement, discipline after adversity, companion-animal owner state, Everest fear/team trust, AI adoption/authorship, finance discipline, and consumer preference.",
   "topic_id": "psychology-and-personal-development"
 }

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7836033ed72f3f37dcd29e0a64ab97438d99a59dbb9361c725522ad2777f0a60",
       "1af54047bc7a15f503195fa18b036f2fb591f1bbf827388955d23fd8207cc5fc",
       "3d04d9a6a403b52fc52e87c9c6886bde68e1686c722a32f2cec58cf0d0e276ab",
       "ff4d9c3325739e6d49cb70e26df11cd60e311afe4f50bf5983b81a7e3852f6e4",
@@ -533,11 +534,29 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 531
+    "paragraph_count": 532
   },
-  "overview_commit": "35d789dc118099485ca95a04d598dc35c541a652",
-  "overview_digest": "b6fc6108b8600278a7569eca3f7c2a30d7a4e3daab406354e0b68baded8e51a9",
+  "overview_commit": "0eeb1fa03fd4fd16c8c1cbc58429e9ac0d08edb3",
+  "overview_digest": "61573fb8ed3b8289e709908dbdf66ff0fb46f196c2657a5de9ae81e4769aa33a",
   "paragraphs": [
+    {
+      "id": "7836033ed72f3f37dcd29e0a64ab97438d99a59dbb9361c725522ad2777f0a60",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "[[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] adds a psychology/neuroscience branch in which [[DopaminePeakTroughBaseline]] and [[RewardPredictionErrorLearning]] track dopamine as baseline capacity, peaks, troughs, anticipation, cue learning, and prediction updating rather than as a simple motivation quantity. It strengthens existing procrastination and motivation pages by pairing [[DopamineBaselineMaintenance]] with [[SafeEffortProcrastinationReset]] and [[EffortAsReward]]: protect sleep/rest/light/exercise foundations, avoid stacking extra stimulation around already-valued activities, and use brief safe effort to move out of low-motivation troughs. The addition reinforces the wiki's broader pattern that useful tools remain bounded by source scope, clinical risk, and context instead of becoming universal protocols.",
+      "topic_scores": {
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "DopamineBaselineMaintenance",
+        "DopaminePeakTroughBaseline",
+        "EffortAsReward",
+        "RewardPredictionErrorLearning",
+        "SafeEffortProcrastinationReset",
+        "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288"
+      ]
+    },
     {
       "id": "1af54047bc7a15f503195fa18b036f2fb591f1bbf827388955d23fd8207cc5fc",
       "primary_topic": "business-and-markets",

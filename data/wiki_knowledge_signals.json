@@ -3550,9 +3550,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 24,
+      "episode_count": 25,
       "show_count": 1,
-      "source_note_count": 24,
+      "source_note_count": 25,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -3721,9 +3721,16 @@
           "show": "Huberman Lab",
           "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
           "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        },
+        {
+          "episode_file": "SCIM2602950288 [SCIM2602950288].md",
+          "key": "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288",
+          "show": "Huberman Lab",
+          "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+          "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrogenInterventionClinicalBoundary": {
@@ -14713,6 +14720,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/dongqianglatehan/"
     },
+    "DopamineBaselineMaintenance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2602950288 [SCIM2602950288].md",
+          "key": "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288",
+          "show": "Huberman Lab",
+          "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+          "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/dopaminebaselinemaintenance/"
+    },
     "DopamineInvertedU": {
       "episode_count": 1,
       "show_count": 1,
@@ -14729,10 +14752,26 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/dopamineinvertedu/"
     },
-    "DopamineToolTiming": {
+    "DopaminePeakTroughBaseline": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2602950288 [SCIM2602950288].md",
+          "key": "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288",
+          "show": "Huberman Lab",
+          "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+          "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/dopaminepeaktroughbaseline/"
+    },
+    "DopamineToolTiming": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -14740,15 +14779,22 @@
           "show": "Huberman Lab",
           "title": "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being",
           "url": "/wiki/sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379/"
+        },
+        {
+          "episode_file": "SCIM2602950288 [SCIM2602950288].md",
+          "key": "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288",
+          "show": "Huberman Lab",
+          "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+          "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/dopaminetooltiming/"
     },
     "DopamineWantingLoop": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "E46 我们从未看见彼此 [lmLikSaiWXAKmjBn_p2VoaaOENXH].md",
@@ -14763,9 +14809,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
           "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
+        },
+        {
+          "episode_file": "SCIM2602950288 [SCIM2602950288].md",
+          "key": "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288",
+          "show": "Huberman Lab",
+          "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+          "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/dopaminewantingloop/"
     },
     "DouDuEasternHan": {
@@ -16126,6 +16179,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/edwardtheconfessor/"
+    },
+    "EffortAsReward": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2602950288 [SCIM2602950288].md",
+          "key": "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288",
+          "show": "Huberman Lab",
+          "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+          "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/effortasreward/"
     },
     "EgocentricRobotData": {
       "episode_count": 1,
@@ -18837,6 +18906,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/exercisemedicalaestheticboundary/"
+    },
+    "ExerciseSelfMasteryForProcrastination": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
+          "key": "wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744",
+          "show": "Economist Podcasts",
+          "title": "Wake-up haul: an Ozempic moment for the brain",
+          "url": "/wiki/sources/wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744/"
+        },
+        {
+          "episode_file": "SCIM2602950288 [SCIM2602950288].md",
+          "key": "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288",
+          "show": "Huberman Lab",
+          "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+          "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/exerciseselfmasteryforprocrastination/"
     },
     "ExerciseSpecificBrainAdaptation": {
       "episode_count": 1,
@@ -27925,9 +28017,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 24,
+      "episode_count": 25,
       "show_count": 1,
-      "source_note_count": 24,
+      "source_note_count": 25,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -28096,9 +28188,16 @@
           "show": "Huberman Lab",
           "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
           "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        },
+        {
+          "episode_file": "SCIM2602950288 [SCIM2602950288].md",
+          "key": "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288",
+          "show": "Huberman Lab",
+          "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+          "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/hubermanlab/"
     },
     "HuhanyeChanyuBi": {
@@ -40900,10 +40999,33 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/motherhoodbeyondchildbirth/"
     },
+    "MotivationCrowdingOut": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "79.各位领导，但凡咱学点博弈论… … [690004262].md",
+          "key": "79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262",
+          "show": "蜜獾吃书",
+          "title": "79.各位领导，但凡咱学点博弈论：契约理论如何解释职场管理",
+          "url": "/wiki/sources/79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262/"
+        },
+        {
+          "episode_file": "SCIM2602950288 [SCIM2602950288].md",
+          "key": "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288",
+          "show": "Huberman Lab",
+          "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+          "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/motivationcrowdingout/"
+    },
     "MotivationRewardEffortCalculation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3386045656 [SCIM3386045656].md",
@@ -40911,9 +41033,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
           "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
+        },
+        {
+          "episode_file": "SCIM2602950288 [SCIM2602950288].md",
+          "key": "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288",
+          "show": "Huberman Lab",
+          "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+          "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/motivationrewardeffortcalculation/"
     },
     "MouDestructionStrike": {
@@ -41466,9 +41595,9 @@
       "url": "/wiki/entities/netherlands/"
     },
     "NeuromodulatorStateToolkit": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -41476,9 +41605,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being",
           "url": "/wiki/sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379/"
+        },
+        {
+          "episode_file": "SCIM2602950288 [SCIM2602950288].md",
+          "key": "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288",
+          "show": "Huberman Lab",
+          "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+          "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
     },
     "Neuroplasticity": {
@@ -46379,9 +46515,9 @@
       "url": "/wiki/concepts/processingspeedtrainingdementiasignal/"
     },
     "ProcrastinationSelfRegulationFailure": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
@@ -46396,9 +46532,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
           "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
+        },
+        {
+          "episode_file": "SCIM2602950288 [SCIM2602950288].md",
+          "key": "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288",
+          "show": "Huberman Lab",
+          "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+          "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/procrastinationselfregulationfailure/"
     },
     "ProductCategoryVelocity": {
@@ -49246,6 +49389,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/revolutionarymilitaryslaverycontradiction/"
     },
+    "RewardPredictionErrorLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2602950288 [SCIM2602950288].md",
+          "key": "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288",
+          "show": "Huberman Lab",
+          "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+          "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/rewardpredictionerrorlearning/"
+    },
     "RickKnudtson": {
       "episode_count": 1,
       "show_count": 1,
@@ -50306,6 +50465,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/sadiqkhan/"
+    },
+    "SafeEffortProcrastinationReset": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2602950288 [SCIM2602950288].md",
+          "key": "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288",
+          "show": "Huberman Lab",
+          "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+          "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/safeeffortprocrastinationreset/"
     },
     "SageOx": {
       "episode_count": 1,
@@ -55249,9 +55424,9 @@
       "url": "/wiki/concepts/suspiciontriggeredcommandmutiny/"
     },
     "SustainableHealthOptimization": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -55273,9 +55448,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
           "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+        },
+        {
+          "episode_file": "SCIM2602950288 [SCIM2602950288].md",
+          "key": "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288",
+          "show": "Huberman Lab",
+          "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+          "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/sustainablehealthoptimization/"
     },
     "SweetenerUncertainty": {

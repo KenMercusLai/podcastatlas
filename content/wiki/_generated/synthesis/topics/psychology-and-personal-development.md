@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-04
-as_of_overview_commit: c39a570ba8e3323057705f2ae2204840165450e4
-input_digest: dcafd8ece99da99ad5db650ad6f2c3df54a0f50c7b0dc9cb03aa224294175439
+last_updated: 2026-09-05
+as_of_overview_commit: 0eeb1fa03fd4fd16c8c1cbc58429e9ac0d08edb3
+input_digest: 0d02f1e297ac02576a22184411da3c41b3878bcad936580397c679a3cec870f7
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-The Epel Huberman Lab episode adds a stress-regulation branch where harm depends on appraisal, rumination, recovery, body and food cues, acceptance, uncertainty tolerance, and meaning-making rather than exposure alone. The Doubao Work AI-office paragraph remains secondary here as a workplace trust and adoption case because agent use depends on context sharing, review behavior, and willingness to change work routines, while its main synthesis belongs to AI technology and business markets. Hanji 697, 699 PLUS, 702, 705-1, 713, 736, 744-745, 753, 798, 892, 901, 902, and late-Han/Liu Bei/Cao Cao/Yuan-family cases keep the historical side of this topic focused on self-command, status reading, loyalty, speech restraint, emotion concealment, and judgment under authority rather than clinical advice. The modern branch covers relationship science, workplace abuse boundaries, functional emotion regulation, meditation and no-self practice, music therapy, speech-language rehabilitation as a communication-behavior boundary, creativity, state-dependent self-control, discipline and action after adversity, movement as awareness, AI/workplace trust, sports confidence, companion-animal owner state, Everest-style fear/team-trust judgment, and a secondary KFC/McDonalds consumer-preference case.
+The Huberman dopamine episode adds a motivation branch where dopamine is tracked as baseline, peaks, troughs, anticipation, and reward-prediction learning, tying procrastination exits to baseline care, anti-stacking, effort-as-reward, and brief safe effort rather than a simple willpower model. The Epel episode keeps stress regulation anchored in appraisal, rumination, recovery, cue control, acceptance, uncertainty tolerance, and meaning-making. Historical Hanji cases remain source-scoped evidence about self-command, status reading, speech restraint, title discipline, desire, alliance trust, succession, and timed judgment under authority. Modern branches cover relationship science, workplace abuse and trust, functional emotion regulation, meditation/no-self, music and speech rehabilitation, creativity, state-dependent self-control, movement, discipline after adversity, companion-animal owner state, Everest fear/team trust, AI adoption/authorship, finance discipline, and consumer preference.
 
 ## Cross-source Findings
 
@@ -27,6 +27,18 @@ The Epel Huberman Lab episode adds a stress-regulation branch where harm depends
 - This is public education from one podcast episode, not individualized mental-health, nutrition, pregnancy, or longevity advice.
 - Biomarker, pregnancy, obesity-medication, soda-policy, meditation, and Wim Hof claims remain source-scoped and need independent evidence before being generalized.
 - Stress eating, mindful eating, and biological-aging material extend beyond personal-development framing into health and metabolic evidence.
+
+### Dopamine Dynamics Bound Procrastination And Effort Tools
+
+[[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288|The Huberman dopamine episode]] adds a motivation branch in which [[DopaminePeakTroughBaseline]], [[RewardPredictionErrorLearning]], [[DopamineBaselineMaintenance]], [[SafeEffortProcrastinationReset]], and [[EffortAsReward]] frame procrastination as a state-and-learning problem: protect baseline capacity, avoid stacked sharp reward peaks, learn from anticipation and prediction error, and use brief safe effort to leave low-motivation troughs.
+
+**Evidence:** [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]], [[DopaminePeakTroughBaseline]], [[RewardPredictionErrorLearning]], [[DopamineBaselineMaintenance]], [[SafeEffortProcrastinationReset]], [[EffortAsReward]]
+
+**Qualifications:**
+
+- The evidence is one public neuroscience podcast episode, not individualized treatment for ADHD, addiction, depression, medication use, or withdrawal.
+- Prescription stimulant, supplement, cold-exposure, NSDR, addiction-recovery, and training-timing claims remain source-scoped and require medical or context-specific judgment before use.
+- The claim strengthens effort and procrastination synthesis but does not reduce motivation to dopamine alone.
 
 ### Hanji 697 Command Composure Trust And Overreach Boundary
 

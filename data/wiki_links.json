@@ -15843,9 +15843,17 @@
     "title": "DoorDash",
     "url": "/wiki/entities/doordash/"
   },
+  "DopamineBaselineMaintenance": {
+    "title": "Dopamine Baseline Maintenance",
+    "url": "/wiki/concepts/dopaminebaselinemaintenance/"
+  },
   "DopamineInvertedU": {
     "title": "Dopamine Inverted U",
     "url": "/wiki/concepts/dopamineinvertedu/"
+  },
+  "DopaminePeakTroughBaseline": {
+    "title": "Dopamine Peak-Trough Baseline",
+    "url": "/wiki/concepts/dopaminepeaktroughbaseline/"
   },
   "DopamineToolTiming": {
     "title": "Dopamine Tool Timing",
@@ -16854,6 +16862,10 @@
   "EffieDataScienceWithSam": {
     "title": "Effie (Data Science With Sam)",
     "url": "/wiki/entities/effiedatasciencewithsam/"
+  },
+  "EffortAsReward": {
+    "title": "Effort As Reward",
+    "url": "/wiki/concepts/effortasreward/"
   },
   "EffortNarrativeInterrogation": {
     "title": "努力叙事追问 / Effort Narrative Interrogation",
@@ -45475,6 +45487,10 @@
     "title": "Reward Allocation Backlash / 分配反噬",
     "url": "/wiki/concepts/rewardallocationbacklash/"
   },
+  "RewardPredictionErrorLearning": {
+    "title": "Reward Prediction Error Learning",
+    "url": "/wiki/concepts/rewardpredictionerrorlearning/"
+  },
   "RewindAI": {
     "title": "Rewind AI",
     "url": "/wiki/entities/rewindai/"
@@ -46642,6 +46658,10 @@
   "SadiqKhan": {
     "title": "Sadiq Khan",
     "url": "/wiki/entities/sadiqkhan/"
+  },
+  "SafeEffortProcrastinationReset": {
+    "title": "Safe Effort Procrastination Reset",
+    "url": "/wiki/concepts/safeeffortprocrastinationreset/"
   },
   "SafeSpacesVsOctagons": {
     "title": "Safe Spaces vs Octagons",
@@ -64098,6 +64118,10 @@
   "latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d": {
     "title": "Latin lessons: the Donroe-doctrine boost",
     "url": "/wiki/sources/latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d/"
+  },
+  "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288": {
+    "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
+    "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
   },
   "live-anthropic-co-founder-on-ai-and-jobs": {
     "title": "Live: Anthropic co-founder on AI and jobs",

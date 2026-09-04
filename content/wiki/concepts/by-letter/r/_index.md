@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6363
+wiki_total_pages: 6368
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "RewardAllocationBacklash"
     title: "Reward Allocation Backlash / 分配反噬"
     url: "/wiki/concepts/rewardallocationbacklash/"
+  - key: "RewardPredictionErrorLearning"
+    title: "Reward Prediction Error Learning"
+    url: "/wiki/concepts/rewardpredictionerrorlearning/"
   - key: "RFIDCheckout"
     title: "RFID Checkout"
     url: "/wiki/concepts/rfidcheckout/"

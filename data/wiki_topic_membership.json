@@ -19450,7 +19450,21 @@
       "url": "/topics/politics/"
     }
   ],
+  "DopamineBaselineMaintenance": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "DopamineInvertedU": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "DopaminePeakTroughBaseline": [
     {
       "key": "science",
       "label": "Science",
@@ -20496,6 +20510,13 @@
     }
   ],
   "EffieDataScienceWithSam": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "EffortAsReward": [
     {
       "key": "science",
       "label": "Science",
@@ -51275,6 +51296,13 @@
       "url": "/topics/history/"
     }
   ],
+  "RewardPredictionErrorLearning": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "RewindAI": [
     {
       "key": "technology",
@@ -72157,6 +72185,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "live-anthropic-co-founder-on-ai-and-jobs": [

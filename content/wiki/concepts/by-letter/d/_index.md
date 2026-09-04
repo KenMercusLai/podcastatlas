@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6363
+wiki_total_pages: 6368
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -695,9 +695,15 @@ wiki_pages:
   - key: "DonroeDoctrine"
     title: "Donroe Doctrine"
     url: "/wiki/concepts/donroedoctrine/"
+  - key: "DopamineBaselineMaintenance"
+    title: "Dopamine Baseline Maintenance"
+    url: "/wiki/concepts/dopaminebaselinemaintenance/"
   - key: "DopamineInvertedU"
     title: "Dopamine Inverted U"
     url: "/wiki/concepts/dopamineinvertedu/"
+  - key: "DopaminePeakTroughBaseline"
+    title: "Dopamine Peak-Trough Baseline"
+    url: "/wiki/concepts/dopaminepeaktroughbaseline/"
   - key: "DopamineToolTiming"
     title: "Dopamine Tool Timing"
     url: "/wiki/concepts/dopaminetooltiming/"

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-05] ingest | Leverage Dopamine to Overcome Procrastination & Optimize Effort
+
+Ingested the 2023-03-27 Huberman Lab solo episode on dopamine baseline, peaks, troughs, anticipation, reward prediction error, addiction narrowing, baseline maintenance, intrinsic motivation, and procrastination. Created source `leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288` plus `DopaminePeakTroughBaseline`, `RewardPredictionErrorLearning`, `DopamineBaselineMaintenance`, `SafeEffortProcrastinationReset`, and `EffortAsReward`; updated `HubermanLab`, `AndrewHuberman`, `DopamineToolTiming`, `DopamineWantingLoop`, `MotivationRewardEffortCalculation`, `ProcrastinationSelfRegulationFailure`, `ExerciseSelfMasteryForProcrastination`, `MotivationCrowdingOut`, `NeuromodulatorStateToolkit`, `SustainableHealthOptimization`, `index`, and `overview`. No settled contradiction found; addiction recovery, alcohol/opiate withdrawal, prescription stimulants, L-tyrosine, mucuna pruriens, NSDR, cold exposure, and training-timing claims remain source-scoped and medically context-dependent.
+
 ## [2026-09-03] ingest | 从抢 GPU 到喂 AI，互联网正在悄悄更换主人
 
 Ingested the 2026-09-02 科技乱炖 episode on Nvidia/CUDA moat pressure, GPU scarcity and spot-market verification, domestic GPU/model substitution, model price routing, agent-readable web design, agent payment, MCP-style service access, and AI-assisted infrastructure operations. Created `ba044533d184-ba044533d184`, `GPUSpotMarketTrustFriction`, `AgentReadableWeb`, and `AIAssistedInfrastructureOperations`; updated `AgentPaymentInfrastructure`, `ToAgentDistribution`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; GPU price, model score, margin, domestic compute efficiency, and market-impact claims remain source-scoped.
@@ -15295,6 +15299,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-05] ingest | Vol.273 英伟达则兼济天下？
 
 Ingested the 2026-09-02 商业就是这样 episode on Nvidia supplier financing, AI circular infrastructure financing, CoreWeave, Lambda Labs, Lucent, and GE Capital. Added source `vol-273-yingweida-ze-jianji-tianxia-1010956114`; created `SupplierFinancing`, `LucentTechnologies`, `GECapital`, and `LambdaLabs`; updated `CoreWeave`, `GPUComputeAssetBackedFinancing`, `AICircularInfrastructureFinancing`, `AIComputePriceRisk`, `index`, and `overview`. No settled contradiction found; financing commitments, credit guarantees, residual-value estimates, depreciation arguments, and accounting signals remain source-scoped.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-05] lint | Wiki health check
 
