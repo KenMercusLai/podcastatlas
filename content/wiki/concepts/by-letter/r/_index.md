@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6355
+wiki_total_pages: 6357
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "RepublicanChinaBankingSystem"
     title: "Republican China Banking System"
     url: "/wiki/concepts/republicanchinabankingsystem/"
+  - key: "RepublicanCommandTransferCrisis"
+    title: "Republican Command Transfer Crisis / 共和军事指挥权转移危机"
+    url: "/wiki/concepts/republicancommandtransfercrisis/"
   - key: "RepublicanEmergencyViolencePrecedent"
     title: "Republican Emergency Violence Precedent / 共和紧急暴力先例"
     url: "/wiki/concepts/republicanemergencyviolenceprecedent/"
@@ -764,6 +767,9 @@ wiki_pages:
   - key: "RollingHoldingPeriodExperience"
     title: "Rolling Holding-Period Experience / 滚动持有期体验"
     url: "/wiki/concepts/rollingholdingperiodexperience/"
+  - key: "RomanAlliedCitizenshipCrisis"
+    title: "Roman Allied Citizenship Crisis / 罗马同盟者公民权危机"
+    url: "/wiki/concepts/romanalliedcitizenshipcrisis/"
   - key: "RomanExpansionMoralAnxiety"
     title: "Roman Expansion Moral Anxiety / 罗马扩张的道德焦虑"
     url: "/wiki/concepts/romanexpansionmoralanxiety/"

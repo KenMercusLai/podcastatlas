@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2179
+topic_total_pages: 2181
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -4688,6 +4688,9 @@ topic_entities:
   - key: "MarcoRubio"
     title: "Marco Rubio"
     url: "/wiki/entities/marcorubio/"
+  - key: "MarcusLiviusDrusus"
+    title: "Marcus Livius Drusus / 马库斯·李维乌斯·德鲁苏斯"
+    url: "/wiki/entities/marcusliviusdrusus/"
   - key: "MargaretThatcher"
     title: "Margaret Thatcher / 玛格丽特·撒切尔"
     url: "/wiki/entities/margaretthatcher/"
@@ -4979,6 +4982,9 @@ topic_entities:
   - key: "Project2025"
     title: "Project 2025"
     url: "/wiki/entities/project2025/"
+  - key: "PubliusSulpiciusRufus"
+    title: "Publius Sulpicius Rufus / 普布利乌斯·苏尔皮基乌斯·鲁弗斯"
+    url: "/wiki/entities/publiussulpiciusrufus/"
   - key: "PyTorchFoundation"
     title: "PyTorch Foundation"
     url: "/wiki/entities/pytorchfoundation/"

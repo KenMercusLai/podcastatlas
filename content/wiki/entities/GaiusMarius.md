@@ -5,7 +5,8 @@ tags: [person, rome, military-history, politics]
 sources:
   - 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361
   - 701-roman-civil-war-rise-of-the-general-part-1-glt1262857909
-last_updated: 2026-08-31
+  - 702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089
+last_updated: 2026-09-05
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,47 +14,54 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Gaius Marius / 马略 is now the wiki's main pre-Caesar example of how a talented military outsider could expose the [[RomanRepublic|Roman Republic]]'s weakening relationship among office, patronage, popular legitimacy, and army command.
+Gaius Marius / 马略 is the wiki's central pre-Caesar example of a military outsider whose competence made him indispensable to the [[RomanRepublic|Roman Republic]] while also weakening the boundary among office, army command, popular legitimacy, and personal rivalry.
 
 ## Current Profile
 
-Marius appears first as an earlier cause of the [[LateRomanRepublicCrisis]], because his military reforms and conflict with [[LuciusCorneliusSulla]] help explain why soldiers, commanders, veterans, and death-list violence were already part of Roman politics before [[JuliusCaesar|Caesar]]. Episode 701 expands that compressed role into a career profile: Marius comes from Arpinum, rises as a tough soldier at Numantia, navigates the [[CursusHonorum|cursus honorum]] as a [[NovusHomoOutsiderPolitics|novus homo]], uses the tribunate to gain [[PopularisPolitics|popularis]] credibility, breaks and later rebuilds Metellan patronage, and wins the 107 BC consulship by attacking [[QuintusCaeciliusMetellusNumidicus|Metellus]] over the Jugurthine War.
+The Caesar source first makes Marius an earlier cause of the [[LateRomanRepublicCrisis]] because his reforms and conflict with [[LuciusCorneliusSulla]] help explain why soldiers, commanders, veterans, and civil violence mattered before [[JuliusCaesar|Caesar]]. Episode 701 expands the early career: Marius comes from Arpinum, rises through military reputation at Numantia, navigates the [[CursusHonorum|cursus honorum]] as a [[NovusHomoOutsiderPolitics|novus homo]], uses the tribunate for [[PopularisPolitics|popularis]] credibility, breaks with Metellan patronage, wins the 107 BC consulship, and takes the Jugurthine command.
 
-His current profile is therefore not just "army reformer." He is the hinge between social mobility and institutional strain: provincial citizenship, aristocratic patronage, plebeian tribunate politics, African command, and Sulla's credit claim around [[Jugurtha]] all show how a new man could become indispensable while making republican rules harder to contain.
+Episode 702 turns that setup into high crisis. Marius returns from the Jugurthine War as Rome panics over the [[TeutonesAndCimbri]], receives repeated consulships, drills soldiers through disciplined routine, and defeats the northern threat. That emergency glory makes him a savior figure but also normalizes exceptional officeholding. Later, Marius remains relevant through the [[SocialWar]], the [[RomanAlliedCitizenshipCrisis]], and his alliance with [[PubliusSulpiciusRufus]] to take the Mithridatic command from Sulla. His profile is therefore not simply "reformer" or "great general"; he is the hinge where merit, emergency, citizenship politics, and command ambition strain republican containment.
 
 ## Key Characteristics
 
 - Provincial-outsider status made Marius both disadvantaged in elite competition and able to claim plain-soldier authenticity.
-- Military reputation, not lineage, supplied the strongest proof of his public value.
-- His career depended on aristocratic patronage but also on public conflict with patrons when office and ambition required it.
-- Marius used popularis-style voting reform and anti-elite rhetoric without becoming a simple modern democrat.
-- His African command made military victory, electoral legitimacy, and personal rivalry difficult to separate.
-- His relationship with Sulla begins inside shared military success before becoming a future civil-war axis.
+- Military reputation, discipline, and practical command supplied the strongest proof of his public value.
+- Emergency victories against the Teutones and Cimbri made repeated consulships politically acceptable despite republican tradition.
+- His citizenship gestures and Social War role connect him to the Italian-rights crisis as well as army reform.
+- Marius used popularis-style legitimacy without becoming a simple modern democrat or anti-elite outsider.
+- His rivalry with Sulla develops from Jugurthine credit tension into a direct struggle over the Mithridatic command and six legions.
+- His career shows how a republic can reward indispensable service in ways that make later institutional obedience harder.
 
 ## Evidence
 
 - Outsider ascent and office pressure: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] places Marius's birth in Arpinum, lack of high-office ancestry, and improbable path to consulship inside [[NovusHomoOutsiderPolitics]] and [[CursusHonorum]].
-- Soldierly credibility: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] describes Marius impressing [[ScipioAemilianus]] at Numantia through discipline, toughness, and combat performance before his later political rise.
-- Patronage and popularis politics: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] shows Marius relying on the Metelli, angering them with voting-pen reform as tribune, and later attacking Metellus's African command as out of touch.
-- Military personalization prehistory: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] treats Marius's reforms as a key shift toward soldiers' loyalty to commanders, while [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] supplies the earlier career and command-politics setting.
-- Marius-Sulla rivalry seed: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] presents [[LuciusCorneliusSulla|Sulla]] as Marius's subordinate in the Jugurthine settlement whose signet-ring self-advertising irritated Marius and foreshadowed later conflict.
+- Soldierly credibility: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] describes Marius impressing [[ScipioAemilianus]] at Numantia, while [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] presents his later method as discipline, camps, marches, digging, and routine.
+- Emergency indispensability: [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] says Roman panic after Arausio and the terror Cimbricus made even enemies accept Marius as the one man Rome needed.
+- Northern victories and office exception: [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] records repeated consulships, the defeat of the Teutones near Aix-en-Provence, and the defeat of the Cimbri in northern Italy.
+- Citizenship and Social War link: [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] says Marius illegally granted citizenship to about a thousand Italian allies and later remained active during the Social War.
+- Military personalization prehistory: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] treats Marius's reforms as a shift toward commander loyalty, while [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] and [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] trace that problem through command credit, repeated consulships, and the eastern command fight.
+- Marius-Sulla rivalry: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] presents Sulla's Jugurthine credit claim as the seed, while [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] shows Marius using Sulpicius to remove Sulla from the Mithridatic command.
 
 ## Qualifications
 
-Episode 701 is the first part of a sequence. It sets up Marius's later northern victories, Social War role, reforms, and rivalry with Sulla but does not fully narrate them. Plutarch's eagle omen is preserved as a biographical memory claim rather than treated as evidence of destiny.
+The page preserves source boundaries. Episode 702 treats the "military revolution" label as contested, gives Roman casualty figures for the northern victories as likely exaggerated, and stops before Sulla's response to losing command. Marius's popular support and citizenship positions also remain mixed with elite ambition, office competition, and personal command-seeking.
 
 ## What Changed
 
-- Expanded Marius from a brief pre-Caesar reformer into the central career case for late-republic social mobility and command politics.
-- Added Arpinum, Numantia, Metellan patronage, the tribunate, the Jugurthine War, and Sulla's early credit claim to the profile.
-- Narrowed the reform story by noting that episode 701 foreshadows later military reforms rather than narrating them in full.
+- Moved Marius from setup figure to emergency savior whose repeated consulships and northern victories stretch republican norms.
+- Added his disciplined military method, the Teutones-Cimbri victories, and the disputed "military revolution" boundary.
+- Connected Marius to Italian citizenship politics, the Social War, and the Sulpicius bargain.
+- Reframed the Sulla rivalry as a live command-transfer crisis rather than only a foreshadowed later conflict.
 
 ## Relationships
 
-- [[LuciusCorneliusSulla]] - subordinate turned rival whose later conflict with Marius deepens republican crisis.
-- [[RomanRepublic]] - institutional order strained by Marius's outsider ascent, tribunate politics, and command victories.
+- [[LuciusCorneliusSulla]] - subordinate turned rival whose command Marius tries to take in the Mithridatic crisis.
+- [[TeutonesAndCimbri]] - northern opponents whose defeat makes Marius an emergency savior.
+- [[SocialWar]] - Italian conflict in which Marius remains a still-relevant older commander.
+- [[PubliusSulpiciusRufus]] - tribune whose citizenship politics Marius supports in exchange for command-transfer backing.
+- [[RomanAlliedCitizenshipCrisis]] - rights crisis sharpened by Marius's selective citizenship grant and later alliance politics.
+- [[RepublicanCommandTransferCrisis]] - command-allocation failure where Marius's ambition collides with Sulla's consular assignment.
+- [[MilitaryPersonalization]] - army-and-command mechanism that Marius helps introduce into the late republic.
 - [[LateRomanRepublicCrisis]] - structural crisis for which Marius is now a primary pre-Caesar case.
-- [[MilitaryPersonalization]] - army-and-command mechanism that the earlier Caesar source ties to Marius and that episode 701 prepares biographically.
 - [[Jugurtha]] - African opponent whose war creates Marius's consulship and command opportunity.
-- [[QuintusCaeciliusMetellusNumidicus]] - patron and commander whom Marius politically outmaneuvers.
-- [[PopularisPolitics]] - public-political mode Marius uses through voting reform and anti-elite positioning.
+- [[PopularisPolitics]] - public-political mode Marius uses through voting reform and later Sulpician alliance.

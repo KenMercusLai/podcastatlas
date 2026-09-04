@@ -4,7 +4,8 @@ type: entity
 tags: [collective, migration, rome, military-history]
 sources:
   - 701-roman-civil-war-rise-of-the-general-part-1-glt1262857909
-last_updated: 2026-08-31
+  - 702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089
+last_updated: 2026-09-05
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,39 +13,44 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Teutones and Cimbri / 条顿人与辛布里人 are the northern migrating peoples episode 701 uses as the external military crisis that will make [[GaiusMarius]] appear indispensable to the [[RomanRepublic|Roman Republic]].
+The Teutones and Cimbri / 条顿人与辛布里人 are the northern migrating peoples whose repeated defeats of Roman armies make [[GaiusMarius]] indispensable before episode 702 resolves the crisis through his victories.
 
 ## Current Profile
 
-Episode 701 opens and closes with the Teutones and Cimbri rather than treating them as background. Plutarch's account presents them as a vast moving force of warriors, women, and children approaching Italy by 113 BC, probably from Jutland and nearby northern regions. The hosts use this threat as a dramatic frame for why Rome turns to Marius: after his African triumph, he is seen as the city's greatest soldier at the moment Roman armies have already suffered repeated northern defeats, including Arausio in 105 BC.
+Episode 701 opens and closes with the Teutones and Cimbri rather than treating them as background. Plutarch's account presents them as a vast moving force of warriors, women, and children approaching Italy by 113 BC, probably from Jutland and nearby northern regions. The hosts use this threat as a dramatic frame for why Rome turns to Marius after his African triumph.
 
-The page therefore records them as a future-facing pressure in this source. Their full wars with Marius are foreshadowed, not narrated in detail.
+Episode 702 supplies the crisis payoff. Roman armies have suffered repeated defeats in 113, 109, 107, and 105 BC, with Arausio producing the panic remembered as the terror Cimbricus. Marius receives repeated consulships, trains soldiers through camps, marches, digging, and discipline, and defeats the Teutones near Aix-en-Provence before defeating the Cimbri in northern Italy in 101 BC. The page therefore moves them from foreshadowed pressure into the foreign emergency that turns Marius's reputation into exceptional Roman officeholding.
 
 ## Key Characteristics
 
 - The Teutones and Cimbri function as an external shock that raises the value of Marius's military reputation.
 - Roman sources portray them as terrifying migrants accompanied by noncombatants, not just as a conventional army.
-- Their probable northern origin lets the hosts frame the crisis as a Jutland-to-Rome migration threat.
-- Their appearance links foreign military danger to domestic command politics in Rome.
+- Repeated Roman defeats make the crisis existential enough to produce the terror Cimbricus.
+- Their split movement lets Marius defeat them separately rather than as one combined force.
+- Their defeat turns external danger into domestic prestige for Marius and therefore into late-republic command politics.
 
 ## Evidence
 
 - Migration frame: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] summarizes Plutarch's account of a large migrating force approaching Roman Italy by 113 BC.
 - Geographic framing: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] identifies the groups as probably from Jutland and nearby northern regions.
-- Marius's indispensability: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] says the northern threat looms as Marius returns from African success and is expected to save Rome.
-- Foreshadowed disaster: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] previews repeated Roman defeats, including Arausio in 105 BC, as the context for Marius's next role.
+- Roman defeats: [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] lists major Roman setbacks in 113, 109, 107, and 105 BC, including Arausio.
+- Marius's indispensability: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] says the northern threat looms as Marius returns from African success, while [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] says even his enemies accept that Rome needs him.
+- Separate defeats: [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] says Marius defeated the Teutones near Aix-en-Provence and the Cimbri in northern Italy in 101 BC.
+- Crisis-to-prestige mechanism: [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] connects the victories to Marius's sixth consulship and extraordinary public standing.
 
 ## Qualifications
 
-Episode 701 uses Roman-source descriptions as part of the narrative frame and does not independently settle ethnography, migration scale, or the full military chronology. The "proto-Viking" label is host shorthand rather than a technical identity claim.
+The page keeps Roman-source ethnography and casualty figures bounded. Episode 702 treats the victories as monumental while also noting that ancient casualty numbers are probably exaggerated. The "barbarian invasion" and earlier "proto-Viking" labels are narrative shorthand rather than neutral technical identities.
 
 ## What Changed
 
-- Created the Teutones and Cimbri as the external crisis that makes Marius's next phase politically decisive.
+- Moved the Teutones and Cimbri from foreshadowed threat to narrated crisis and defeat.
+- Added Arausio, terror Cimbricus, Marius's repeated consulships, and the separate Teutones/Cimbri victories.
 
 ## Relationships
 
-- [[GaiusMarius]] - Roman commander whose later northern victories are foreshadowed by this threat.
-- [[RomanRepublic]] - polity endangered by the migration and repeated military defeats.
+- [[GaiusMarius]] - Roman commander whose northern victories make him an exceptional savior figure.
+- [[RomanRepublic]] - polity endangered by repeated defeats and willing to stretch office norms in response.
 - [[LateRomanRepublicCrisis]] - domestic crisis intensified by external military shock.
 - [[MilitaryPersonalization]] - command mechanism strengthened when Rome looks to an indispensable general.
+- [[QuintusLutatiusCatulus]] - Marius's aristocratic colleague and shared-triumph counterweight after the Cimbri victory.

@@ -3,16 +3,16 @@
 generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
-last_updated: 2026-09-04
-as_of_overview_commit: 1f81ed316c89425cfcaec7b86a1d1ffb1e3a381f
-input_digest: 2cc117dda2665f3fdf6bfa2f8fbd25982e0da3d2a92aba07e95f296299a3bff0
+last_updated: 2026-09-05
+as_of_overview_commit: 713b06e112b7744d387ede327f74e6976cb48175
+input_digest: 5b2be74ba0535493c241148ebbf4dd93872f787486a41f6b1f711648d7c347e3
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-African Amazons adds an African history-and-geopolitics branch: Kush, Njinga's Angola-era diplomacy and warfare, Asante queen mothers, Ranavalona I, Dahomey, and the Agojie are read through female authority, anti-European resistance, slavery, coercion, and European observer bias. The broader topic continues to track state formation, war origins, imperial crisis, public memory, legitimacy, infrastructure, and geopolitics as source-scoped historical systems.
+Roman Civil War Part 2 now extends the Rome branch from Marius-Sulla prehistory into Social War citizenship crisis, Mithridatic command competition, and the Sulpicius command-transfer rupture. African Amazons and the broader topic still track state formation, war origins, imperial crisis, public memory, legitimacy, infrastructure, and geopolitics as source-scoped historical systems.
 
 ## Cross-source Findings
 
@@ -1916,3 +1916,15 @@ The immediate Guandu setup now starts before Zhang Xiu's submission: [[zizhi-ton
 - The claim is source-scoped to one episode and does not resolve all 1930s football historiography.
 - Bribery, referee-pressure, Brazil, and Hungary stories remain source-scoped or unproven rather than settled contradictions.
 - Postwar memory is treated as selective downplaying, not complete erasure of the fascist context.
+
+### Roman Civil War Part Two Links Citizenship War And Command Transfer
+
+[[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089|Roman Civil War Part 2]] extends the late-Republic branch from Marius's rise into institutional rupture: [[GaiusMarius]] turns victories over [[TeutonesAndCimbri]] and repeated consulships into emergency indispensability, [[SocialWar]] and [[RomanAlliedCitizenshipCrisis]] make Italian allied exclusion a domestic war, [[LuciusCorneliusSulla]] rises through that war and receives the Mithridatic command against [[MithridatesVI]], and [[PubliusSulpiciusRufus]]'s street-backed vote creates [[RepublicanCommandTransferCrisis]] by transferring Sulla's eastern command to Marius while six legions remain attached to Sulla.
+
+**Evidence:** [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]], [[TheRestIsHistory]], [[RomanRepublic]], [[GaiusMarius]], [[LuciusCorneliusSulla]], [[TeutonesAndCimbri]], [[SocialWar]], [[MithridatesVI]], [[PubliusSulpiciusRufus]], [[RomanAlliedCitizenshipCrisis]], [[RepublicanCommandTransferCrisis]], [[LateRomanRepublicCrisis]], [[MilitaryPersonalization]], [[PopularisPolitics]], [[RomanExpansionMoralAnxiety]], [[RepublicanEmergencyViolencePrecedent]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Part 2 of The Rest Is History Roman Civil War sequence and stops before the next episode resolves Sulla's response after losing command.
+- Ancient casualty figures, the military-revolution label for Marius, and Manius Aquillius's motives in Asia remain source-scoped rather than settled wiki conclusions.
+- The claim extends the Part 1 Marius-Sulla prehistory rather than replacing the later Caesar-focused late-republic crisis branch.

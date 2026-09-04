@@ -81,6 +81,7 @@
       "12fcd2361e57100445bf354b0eb7575c15cf3f1b1a480263e5f7305fe6d2cc3f",
       "3e56e9e9ac6b0033635b07c4c1faca2ab76abcae9f6925f9bdb82a6baf74e945",
       "5b34a941f30837a088f50a54d9bf9c3cade0c94d22881580c0deac8064eadaea",
+      "c5a4579c4ed68588debf68e4b0cd1ae966604958091b8787e29d2e8d7e4f7525",
       "833c2c740e742ba106ef9b64e4f17428fbdd380980f1e7dd49bdbbfbddd48425",
       "5fac9c90d9086301afdb70bdae4dd076f54a6c5ee81f98bd5dc2fbaa714c363e",
       "841684bf4eae908daccc2a6e679b9d575732db0c38a70b9d0ff2fd3c721edcf7",
@@ -530,10 +531,10 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 528
+    "paragraph_count": 529
   },
-  "overview_commit": "4b031d45ef998656422625b1ab00bb0e9c74fa6f",
-  "overview_digest": "2db6e87432a0e5b49f933098dbb9c58f3cef3613b4607b5cd51a964f21b14ed9",
+  "overview_commit": "713b06e112b7744d387ede327f74e6976cb48175",
+  "overview_digest": "a2adc77056aa621a662ccccc30f32b50e16e4400873dd6e4a9ced9f4d235c11a",
   "paragraphs": [
     {
       "id": "ff4d9c3325739e6d49cb70e26df11cd60e311afe4f50bf5983b81a7e3852f6e4",
@@ -2826,6 +2827,39 @@
         "MixueBingcheng",
         "ShengdongZaokafei",
         "nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273"
+      ]
+    },
+    {
+      "id": "c5a4579c4ed68588debf68e4b0cd1ae966604958091b8787e29d2e8d7e4f7525",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089|702. Roman Civil War: The Barbarian Invasion (Part 2)]], a [[TheRestIsHistory]] episode continuing the Roman Civil War branch through [[GaiusMarius]], [[LuciusCorneliusSulla]], the [[TeutonesAndCimbri]], the [[SocialWar]], [[MithridatesVI]], [[PubliusSulpiciusRufus]], and the command fight before Sulla's march on Rome. It adds [[SocialWar]], [[MithridatesVI]], [[MarcusLiviusDrusus]], [[PubliusSulpiciusRufus]], [[QuintusLutatiusCatulus]], [[GnaeusPompeiusStrabo]], [[ManiusAquillius]], [[RomanAlliedCitizenshipCrisis]], and [[RepublicanCommandTransferCrisis]], while extending [[RomanRepublic]], [[GaiusMarius]], [[LuciusCorneliusSulla]], [[TeutonesAndCimbri]], [[LateRomanRepublicCrisis]], [[MilitaryPersonalization]], [[PopularisPolitics]], [[RomanExpansionMoralAnxiety]], and [[RepublicanEmergencyViolencePrecedent]]. Its core synthesis is that Rome's crisis now moves from pre-Caesar setup into active institutional rupture: emergency victories make repeated consulships tolerable, Italian allied exclusion turns into the Social War, Asian extraction and Mithridates make the eastern command a prize, and Sulpicius's street-backed plebiscite turns procedure into a six-legion command crisis. No settled contradiction is recorded; ancient casualty figures, the military-revolution label, Aquillius's motives, and Sulla's response after losing command remain source-scoped or deferred to the next part.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+        "GaiusMarius",
+        "GnaeusPompeiusStrabo",
+        "LateRomanRepublicCrisis",
+        "LuciusCorneliusSulla",
+        "ManiusAquillius",
+        "MarcusLiviusDrusus",
+        "MilitaryPersonalization",
+        "MithridatesVI",
+        "PopularisPolitics",
+        "PubliusSulpiciusRufus",
+        "QuintusLutatiusCatulus",
+        "RepublicanCommandTransferCrisis",
+        "RepublicanEmergencyViolencePrecedent",
+        "RomanAlliedCitizenshipCrisis",
+        "RomanExpansionMoralAnxiety",
+        "RomanRepublic",
+        "SocialWar",
+        "TeutonesAndCimbri",
+        "TheRestIsHistory"
       ]
     },
     {

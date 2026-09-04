@@ -22754,9 +22754,9 @@
       "url": "/wiki/entities/gaiyaneasternhan/"
     },
     "GaiusMarius": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -22771,9 +22771,16 @@
           "show": "The Rest Is History",
           "title": "701. Roman Civil War: Rise of the General (Part 1)",
           "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        },
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/gaiusmarius/"
     },
     "GanYingEasternHan": {
@@ -23940,6 +23947,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/glycationskinanxiety/"
+    },
+    "GnaeusPompeiusStrabo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/gnaeuspompeiusstrabo/"
     },
     "GoalkeeperEmbodiedJudgment": {
       "episode_count": 1,
@@ -32445,9 +32468,9 @@
       "url": "/wiki/entities/latejulysnacks/"
     },
     "LateRomanRepublicCrisis": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -32462,9 +32485,16 @@
           "show": "The Rest Is History",
           "title": "701. Roman Civil War: Rise of the General (Part 1)",
           "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        },
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/lateromanrepubliccrisis/"
     },
     "LatentMoE": {
@@ -36951,9 +36981,9 @@
       "url": "/wiki/entities/luzhilatehan/"
     },
     "LuciusCorneliusSulla": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -36968,9 +36998,16 @@
           "show": "The Rest Is History",
           "title": "701. Roman Civil War: Rise of the General (Part 1)",
           "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        },
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/luciuscorneliussulla/"
     },
     "LuigiLucheni": {
@@ -38306,6 +38343,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/managedserviceautomationlayer/"
     },
+    "ManiusAquillius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/maniusaquillius/"
+    },
     "MaoChunjie": {
       "episode_count": 1,
       "show_count": 1,
@@ -38369,6 +38422,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/maoyieasternhan/"
+    },
+    "MarcusLiviusDrusus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/marcusliviusdrusus/"
     },
     "MariaLeopoldina": {
       "episode_count": 1,
@@ -39696,9 +39765,9 @@
       "url": "/wiki/concepts/militaryfinancecorruption/"
     },
     "MilitaryPersonalization": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》134｜你不知道的“破釜沉舟”版本 [ltnry1fva2HZPLW4ft8NRFpOIoLW].md",
@@ -39734,9 +39803,16 @@
           "show": "The Rest Is History",
           "title": "701. Roman Civil War: Rise of the General (Part 1)",
           "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        },
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/militarypersonalization/"
     },
     "MilitaryRewardEunuchGatekeeping": {
@@ -39988,6 +40064,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/missionarymapknowledgeproduction/"
+    },
+    "MithridatesVI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/mithridatesvi/"
     },
     "MitochondrialMentalHealthModel": {
       "episode_count": 1,
@@ -44940,9 +45032,9 @@
       "url": "/wiki/entities/popeyes/"
     },
     "PopularisPolitics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1262857909 [GLT1262857909].md",
@@ -44950,9 +45042,16 @@
           "show": "The Rest Is History",
           "title": "701. Roman Civil War: Rise of the General (Part 1)",
           "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        },
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/popularispolitics/"
     },
     "PopulistDemocraticEnergy": {
@@ -46484,6 +46583,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/publicservicedigitalization/"
     },
+    "PubliusSulpiciusRufus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/publiussulpiciusrufus/"
+    },
     "Puma": {
       "episode_count": 2,
       "show_count": 2,
@@ -47119,6 +47234,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/quintuscaeciliusmetellusnumidicus/"
+    },
+    "QuintusLutatiusCatulus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/quintuslutatiuscatulus/"
     },
     "QwenOffice": {
       "episode_count": 2,
@@ -48351,10 +48482,26 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/reproductiveattritionstrategy/"
     },
-    "RepublicanEmergencyViolencePrecedent": {
+    "RepublicanCommandTransferCrisis": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/republicancommandtransfercrisis/"
+    },
+    "RepublicanEmergencyViolencePrecedent": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1262857909 [GLT1262857909].md",
@@ -48362,9 +48509,16 @@
           "show": "The Rest Is History",
           "title": "701. Roman Civil War: Rise of the General (Part 1)",
           "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        },
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/republicanemergencyviolenceprecedent/"
     },
     "RepublicanRestraintLeadership": {
@@ -49289,6 +49443,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/rogermortimer/"
     },
+    "RomanAlliedCitizenshipCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/romanalliedcitizenshipcrisis/"
+    },
     "RomanEmpire": {
       "episode_count": 3,
       "show_count": 2,
@@ -49320,9 +49490,9 @@
       "url": "/wiki/entities/romanempire/"
     },
     "RomanExpansionMoralAnxiety": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1262857909 [GLT1262857909].md",
@@ -49330,15 +49500,22 @@
           "show": "The Rest Is History",
           "title": "701. Roman Civil War: Rise of the General (Part 1)",
           "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        },
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/romanexpansionmoralanxiety/"
     },
     "RomanRepublic": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -49353,9 +49530,16 @@
           "show": "The Rest Is History",
           "title": "701. Roman Civil War: Rise of the General (Part 1)",
           "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        },
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/romanrepublic/"
     },
     "RomanceOfTheThreeKingdoms": {
@@ -52274,6 +52458,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/socialsecurity/"
+    },
+    "SocialWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/socialwar/"
     },
     "SocratesFootballer": {
       "episode_count": 1,
@@ -55713,9 +55913,9 @@
       "url": "/wiki/concepts/terminalvaluenarrative/"
     },
     "TeutonesAndCimbri": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1262857909 [GLT1262857909].md",
@@ -55723,9 +55923,16 @@
           "show": "The Rest Is History",
           "title": "701. Roman Civil War: Rise of the General (Part 1)",
           "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
+        },
+        {
+          "episode_file": "GLT3336491089 [GLT3336491089].md",
+          "key": "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089",
+          "show": "The Rest Is History",
+          "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+          "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/teutonesandcimbri/"
     },
     "TexasChicken": {

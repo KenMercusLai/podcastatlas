@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8918
+wiki_total_pages: 8925
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -146,6 +146,9 @@ wiki_pages:
   - key: "ManiSkill"
     title: "ManiSkill"
     url: "/wiki/entities/maniskill/"
+  - key: "ManiusAquillius"
+    title: "Manius Aquillius / 马尼乌斯·阿奎利乌斯"
+    url: "/wiki/entities/maniusaquillius/"
   - key: "Manmulsang"
     title: "Manmulsang"
     url: "/wiki/entities/manmulsang/"
@@ -194,6 +197,9 @@ wiki_pages:
   - key: "MarcusLiciniusCrassus"
     title: "Marcus Licinius Crassus / 克拉苏"
     url: "/wiki/entities/marcusliciniuscrassus/"
+  - key: "MarcusLiviusDrusus"
+    title: "Marcus Livius Drusus / 马库斯·李维乌斯·德鲁苏斯"
+    url: "/wiki/entities/marcusliviusdrusus/"
   - key: "MargaretMead"
     title: "Margaret Mead / 米德"
     url: "/wiki/entities/margaretmead/"
@@ -944,6 +950,9 @@ wiki_pages:
   - key: "MitchMorando"
     title: "Mitch Morando"
     url: "/wiki/entities/mitchmorando/"
+  - key: "MithridatesVI"
+    title: "Mithridates VI / 米特里达梯六世"
+    url: "/wiki/entities/mithridatesvi/"
   - key: "MithrilCapital"
     title: "Mithril Capital"
     url: "/wiki/entities/mithrilcapital/"

@@ -1195,6 +1195,10 @@
     "title": "701. Roman Civil War: Rise of the General (Part 1)",
     "url": "/wiki/sources/701-roman-civil-war-rise-of-the-general-part-1-glt1262857909/"
   },
+  "702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089": {
+    "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
+    "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+  },
   "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384": {
     "title": "71.美妆帝国蝴蝶牌：言情小说家的国货创业往事",
     "url": "/wiki/sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384/"
@@ -22111,6 +22115,10 @@
     "title": "Gmail",
     "url": "/wiki/entities/gmail/"
   },
+  "GnaeusPompeiusStrabo": {
+    "title": "Gnaeus Pompeius Strabo / 格奈乌斯·庞培乌斯·斯特拉波",
+    "url": "/wiki/entities/gnaeuspompeiusstrabo/"
+  },
   "Gnosticism": {
     "title": "Gnosticism / 诺斯替主义",
     "url": "/wiki/concepts/gnosticism/"
@@ -34203,6 +34211,10 @@
     "title": "明教 / 摩尼教在中国",
     "url": "/wiki/concepts/manichaeisminchina/"
   },
+  "ManiusAquillius": {
+    "title": "Manius Aquillius / 马尼乌斯·阿奎利乌斯",
+    "url": "/wiki/entities/maniusaquillius/"
+  },
   "Manmulsang": {
     "title": "Manmulsang",
     "url": "/wiki/entities/manmulsang/"
@@ -34390,6 +34402,10 @@
   "MarcusLiciniusCrassus": {
     "title": "Marcus Licinius Crassus / 克拉苏",
     "url": "/wiki/entities/marcusliciniuscrassus/"
+  },
+  "MarcusLiviusDrusus": {
+    "title": "Marcus Livius Drusus / 马库斯·李维乌斯·德鲁苏斯",
+    "url": "/wiki/entities/marcusliviusdrusus/"
   },
   "MargaretMead": {
     "title": "Margaret Mead / 米德",
@@ -36322,6 +36338,10 @@
   "MitchMorando": {
     "title": "Mitch Morando",
     "url": "/wiki/entities/mitchmorando/"
+  },
+  "MithridatesVI": {
+    "title": "Mithridates VI / 米特里达梯六世",
+    "url": "/wiki/entities/mithridatesvi/"
   },
   "MithrilCapital": {
     "title": "Mithril Capital",
@@ -43279,6 +43299,10 @@
     "title": "Publishing Portfolio Risk",
     "url": "/wiki/concepts/publishingportfoliorisk/"
   },
+  "PubliusSulpiciusRufus": {
+    "title": "Publius Sulpicius Rufus / 普布利乌斯·苏尔皮基乌斯·鲁弗斯",
+    "url": "/wiki/entities/publiussulpiciusrufus/"
+  },
   "PuerAeternus": {
     "title": "Puer Aeternus / 永恒少年",
     "url": "/wiki/concepts/pueraeternus/"
@@ -44074,6 +44098,10 @@
   "QuintusCaeciliusMetellusNumidicus": {
     "title": "Quintus Caecilius Metellus Numidicus / 梅特鲁斯",
     "url": "/wiki/entities/quintuscaeciliusmetellusnumidicus/"
+  },
+  "QuintusLutatiusCatulus": {
+    "title": "Quintus Lutatius Catulus / 昆图斯·卢塔提乌斯·卡图卢斯",
+    "url": "/wiki/entities/quintuslutatiuscatulus/"
   },
   "QuizParty": {
     "title": "QuizParty",
@@ -45030,6 +45058,10 @@
   "RepublicanChinaBankingSystem": {
     "title": "Republican China Banking System",
     "url": "/wiki/concepts/republicanchinabankingsystem/"
+  },
+  "RepublicanCommandTransferCrisis": {
+    "title": "Republican Command Transfer Crisis / 共和军事指挥权转移危机",
+    "url": "/wiki/concepts/republicancommandtransfercrisis/"
   },
   "RepublicanEmergencyViolencePrecedent": {
     "title": "Republican Emergency Violence Precedent / 共和紧急暴力先例",
@@ -46002,6 +46034,10 @@
   "RomainRolland": {
     "title": "Romain Rolland / 罗曼·罗兰",
     "url": "/wiki/entities/romainrolland/"
+  },
+  "RomanAlliedCitizenshipCrisis": {
+    "title": "Roman Allied Citizenship Crisis / 罗马同盟者公民权危机",
+    "url": "/wiki/concepts/romanalliedcitizenshipcrisis/"
   },
   "RomanEmpire": {
     "title": "Roman Empire / 罗马帝国",
@@ -49258,6 +49294,10 @@
   "SocialTrustAsStateCapacity": {
     "title": "Social Trust As State Capacity",
     "url": "/wiki/concepts/socialtrustasstatecapacity/"
+  },
+  "SocialWar": {
+    "title": "Social War / 同盟者战争",
+    "url": "/wiki/entities/socialwar/"
   },
   "SocializingDecline": {
     "title": "Socializing Decline",

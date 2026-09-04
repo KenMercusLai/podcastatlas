@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8918
+wiki_total_pages: 8925
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -821,6 +821,9 @@ wiki_pages:
   - key: "SocialSecurity"
     title: "Social Security"
     url: "/wiki/entities/socialsecurity/"
+  - key: "SocialWar"
+    title: "Social War / 同盟者战争"
+    url: "/wiki/entities/socialwar/"
   - key: "SocietyOfActuaries"
     title: "Society of Actuaries"
     url: "/wiki/entities/societyofactuaries/"
