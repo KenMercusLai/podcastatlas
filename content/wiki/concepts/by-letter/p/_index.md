@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6396
+wiki_total_pages: 6400
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1028,6 +1028,9 @@ wiki_pages:
   - key: "PregnancySuccessionSubstitution"
     title: "Pregnancy Succession Substitution / 孕身继承替换"
     url: "/wiki/concepts/pregnancysuccessionsubstitution/"
+  - key: "PregnancyUrinalysisTriage"
+    title: "Pregnancy Urinalysis Triage / 孕期尿常规分层判断"
+    url: "/wiki/concepts/pregnancyurinalysistriage/"
   - key: "PremarketFoodSafetyReview"
     title: "Premarket Food Safety Review"
     url: "/wiki/concepts/premarketfoodsafetyreview/"

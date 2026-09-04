@@ -501,6 +501,7 @@
       "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
       "feea2d50d210e6102662cda44c927b2f7b25d4a9c1910663ab0bf085b4a54550",
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
+      "dfa6e756a54a876838e996e92d476a19ba3764f2717f4610748124213a153ccc",
       "2fd8483a74f1f972d41a6ac0a47bb8eb75d61e544b68253b671ad1dfdc1eaa25",
       "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401",
       "aecaaa49da936c98684cec9f1063846b0672b74bc20fcbd62311f6a489f3c810",
@@ -540,10 +541,10 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 538
+    "paragraph_count": 539
   },
-  "overview_commit": "af21497b70f51da1c0b8ef0f5af591db29213f0d",
-  "overview_digest": "d4ecdfb7321bdc1cfe60826cee9685b3debcf549e3394ef7c47849c5b53e4607",
+  "overview_commit": "cb51339db7c11d87a34bee9f2a08800926f30453",
+  "overview_digest": "50f810ff2152b9e12801c43426f02581e6db522c770f0306a10266844bd9126f",
   "paragraphs": [
     {
       "id": "91ba8d7c6da0e00c3508fc20994cd1fceca39f376d3b94165e6e3b85215fd831",
@@ -15401,6 +15402,28 @@
         "YinLaoshiZheBing",
         "ZheBingShuoLaiHuaChang",
         "vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec"
+      ]
+    },
+    {
+      "id": "dfa6e756a54a876838e996e92d476a19ba3764f2717f4610748124213a153ccc",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[vol-30-miniao-waike-nvxing-miniao-xitong-de-changjian-wenti-yaoyan-ji-wuqu-lmeg-qk-dio77mj7retw0qoyoop-o|VOL.30泌尿外科｜女性泌尿系统的常见问题、谣言及误区]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[ZhaoDoctorUrology|赵医生]] on female urinary health. It adds [[FemaleUrologicalHealthMisconceptions]], [[StressUrinaryIncontinence]], [[UrinaryTractInfectionBehaviorBoundary]], and [[PregnancyUrinalysisTriage]], while extending [[ZhaoDoctorUrology]], [[ZheBingShuoLaiHuaChang]], and [[UrologicalSymptomTriage]]. Its core synthesis is that female urinary symptoms should be treated as context-dependent signals rather than shame or single-rule self-diagnosis: stress leakage, pregnancy urinalysis, acute UTI behavior, clothing and tampon hygiene myths, and abdominal-pain department choice require different thresholds for self-care, urology or obstetric consultation, gynecology consideration, or urgent clinical evaluation. No settled contradiction is recorded; incidence estimates, urine markers, infection behavior, product and hygiene claims, and abdominal-pain sorting remain source-scoped public education rather than individualized medical advice.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "FemaleUrologicalHealthMisconceptions",
+        "PregnancyUrinalysisTriage",
+        "StressUrinaryIncontinence",
+        "UrinaryTractInfectionBehaviorBoundary",
+        "UrologicalSymptomTriage",
+        "ZhaoDoctorUrology",
+        "ZheBingShuoLaiHuaChang",
+        "vol-30-miniao-waike-nvxing-miniao-xitong-de-changjian-wenti-yaoyan-ji-wuqu-lmeg-qk-dio77mj7retw0qoyoop-o"
       ]
     },
     {

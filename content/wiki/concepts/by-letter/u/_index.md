@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 6396
+wiki_total_pages: 6400
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "UrbanEdgeNature"
     title: "Urban-Edge Nature / 城市边缘自然"
     url: "/wiki/concepts/urbanedgenature/"
+  - key: "UrinaryTractInfectionBehaviorBoundary"
+    title: "Urinary Tract Infection Behavior Boundary / 泌尿道感染行为边界"
+    url: "/wiki/concepts/urinarytractinfectionbehaviorboundary/"
   - key: "UrologicalSymptomTriage"
     title: "Urological Symptom Triage / 泌尿症状分层判断"
     url: "/wiki/concepts/urologicalsymptomtriage/"
