@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？](sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet.md) — 芮淇讲透资治通鉴 episode on Zhang Yan's Black Mountain alignment with Cao Cao, Cao Cao's moat-and-water siege of Ye, and Li Fu's disguised messenger infiltration.
 - [《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？](sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r.md) — 芮淇讲透资治通鉴 episode on Yuan Tan's secret seal-lure, Cao Zheng's marriage tie, Yuan Shang's exposed Ye defense, Sun Quan's Shanyue pacification, and Xu Huang's surrender-reward advice.
 - [Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia](sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956.md) — Huberman Lab episode with Peter Attia on healthspan, ApoB, blood pressure, cancer screening, dementia risk, exercise pillars, deaths of despair, and emotional health.
 - [VOL.30泌尿外科｜女性泌尿系统的常见问题、谣言及误区](sources/vol-30-miniao-waike-nvxing-miniao-xitong-de-changjian-wenti-yaoyan-ji-wuqu-lmeg-qk-dio77mj7retw0qoyoop-o.md) — 这病说来话长 episode with 赵医生 on female urinary-health misconceptions, stress urinary incontinence, pregnancy urinalysis, urinary-tract infection behavior, clothing and tampon myths, hydration, and when abdominal or urinary symptoms need clinical care.
@@ -1931,6 +1932,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吕旷 / Lyu Kuang (late Han)](entities/LyuKuangLateHan.md) — Yuan Shang subordinate who defects to Cao Cao and becomes part of Yuan Tan's secret seal-lure episode.
 - [高翔 / Gao Xiang (late Han)](entities/GaoXiangLateHan.md) — Yuan Shang subordinate paired with Lyu Kuang in the defection and seal-lure episode.
 - [苏由 / Su You (late Han)](entities/SuYouLateHan.md) — Ye defender whose failed insider plan for Cao Cao exposes internal weakness in Yuan Shang's city defense.
+- [李孚 / Li Fu (late Han)](entities/LiFuLateHan.md) — Yuan Shang messenger who enters isolated Ye by performing Cao-side command authority and escapes under old-weak surrender cover.
 - [韩范 / Han Fan (late Han)](entities/HanFanLateHan.md) — Yiyang county chief whose surrender is rewarded after Xu Huang argues that other counties are watching.
 - [梁岐 / Liang Qi (late Han)](entities/LiangQiLateHan.md) — She county chief whose surrender is paired with Han Fan in Cao Cao's Ye-campaign reward signal.
 - [Peter Attia](entities/PeterAttia.md) — Physician and longevity author featured in Huberman Lab on healthspan, prevention, exercise capacity, and emotional health.
@@ -3429,8 +3431,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [陈温 / Chen Wen (late Han)](entities/ChenWenLateHan.md) — Yangzhou inspector whose death opens the Yuan-family office fight over the province.
 - [江陵 / Jiangling (late Han)](entities/JianglingLateHan.md) — Jingzhou corridor-control node linking upstream Yizhou and downstream Yangzhou strategy.
 - [袁绍刺吕布未遂 / Yuan Shao-Lü Bu Assassination Attempt](entities/YuanShaoLyuBuAssassinationAttempt.md) — Failed late-Han killing attempt in which Yuan Shao uses appointment and escort cover against Lü Bu, who survives through suspicion, sound decoy, and a prepared escape route.
-- [黑山军 / Heishan Army](entities/HeishanArmy.md) — Late-Han mountain-force network whose pre-origin notice starts with Zhang Niujiao and Chu Feiyan after Yellow Turban disorder before later threatening Yuan Shao's Ye base.
-- [张燕 / Zhang Yan (Late Han)](entities/ZhangYanLateHan.md) — Chu Feiyan/Zhang Yan figure first listed among post-Yellow-Turban groups, then developed as the Black Mountain leader whose campaign makes Yuan Shao and Lü Bu temporary allies.
+- [黑山军 / Heishan Army](entities/HeishanArmy.md) — Late-Han mountain-force network that moves from Yellow Turban aftermath and court incorporation through Yuan Shao pressure into Zhang Yan's final Cao-side bargaining value.
+- [张燕 / Zhang Yan (Late Han)](entities/ZhangYanLateHan.md) — Chu Feiyan/Zhang Yan figure who becomes Black Mountain leader, survives through mountain optionality, and later aligns with Cao Cao against the Yuan heirs.
 - [于毒 / Yu Du (Late Han)](entities/YuDuLateHan.md) — Black Mountain figure tied to Cao Cao's Dong Wuyang-Neihuang maneuver and Yuan Shao's later retaliatory mountain campaign.
 - [陶生 / Tao Sheng (Late Han)](entities/TaoShengLateHan.md) — Black Mountain-linked commander who protects Yuan Shao's household and state officials' families during the Ye crisis.
 - [魏郡 / Wei Commandery (Late Han)](entities/WeiCommanderyLateHan.md) — Commandery whose soldier revolt joins Yu Du's Black Mountain force and attacks Yuan Shao's Ye base.
@@ -11703,7 +11705,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宫市游乐式权力错位 / Palace Market Theater](concepts/PalaceMarketTheater.md) — Hanji 920 pattern where rulers stage or capture marketplace life inside palace space, confusing office, household, play, and extraction.
 - [帝王私库进奉盘剥 / Imperial Private Treasury Extraction](concepts/ImperialPrivateTreasuryExtraction.md) — Late-Han pattern where Emperor Ling's Xidi office-sale proceeds and palace-market/private-store logic convert public authority and local supply into extra extraction.
 - [修宫钱转嫁盘剥 / Palace Construction Fee Extraction](concepts/PalaceConstructionFeeExtraction.md) — Late-Han pattern where palace-construction and office-entry charges move through eunuch and appointment channels until local officials push the cost onto the people.
-- [授官式招安 / Office-Based Rebel Incorporation](concepts/OfficeBasedRebelIncorporation.md) — Late-Han pattern where the court converts an unsuppressed rebel force into delegated order by granting the leader office.
+- [授官式招安 / Office-Based Rebel Incorporation](concepts/OfficeBasedRebelIncorporation.md) — Late-Han pattern where office and title convert an armed rebel network into delegated or subordinate order when suppression is costly.
+- [山地根据地战略余地 / Mountain Base Strategic Optionality](concepts/MountainBaseStrategicOptionality.md) — Strategy pattern where a hard-to-clear mountain base preserves bargaining room by keeping an armed actor costly to eliminate and useful to incorporate.
+- [官威伪装渗透 / Authority Disguise Infiltration](concepts/AuthorityDisguiseInfiltration.md) — Deception pattern where an operative passes a hostile perimeter by performing recognized command authority.
 - [买官名节损耗 / Office-Sale Legitimacy Damage](concepts/OfficeSaleLegitimacyDamage.md) — Pattern where Xidi public office pricing, purchased high office, or fee-burdened appointments damage institutional credibility, officeholder reputation, or both.
 - [Autonomous Naval Vessels](concepts/AutonomousNavalVessels.md) — Uncrewed naval platforms where autonomy changes mission risk, vessel architecture, scale, and hybrid fleet design.
 - [Naval Shipbuilding Throughput](concepts/NavalShipbuildingThroughput.md) — Strategic-capacity frame comparing shipbuilding output, cost, build time, and yearly firepower rather than ship prestige alone.
@@ -12161,7 +12165,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fortified Attrition Patience / 坚壁耗敌式耐心](concepts/FortifiedAttritionPatience.md) — Strategy pattern where defended or newly captured positions, rescue timing, logistics, morale, and surrender credibility are used while waiting for enemy fatigue, movement, or submission readiness.
 - [Scorched-Earth Supply Denial / 坚壁清野式断粮](concepts/ScorchedEarthSupplyDenial.md) — Military logistics pattern where light cavalry and fortified local clearing deny plunderable food to a moving enemy until supply failure breaks the force.
 - [Chu Three-Households Anti-Qin Memory / 楚虽三户式反秦记忆](concepts/ChuThreeHouseholdsAntiQinMemory.md) — Memory frame where Xiang Yan's defeat is tied to "楚虽三户，亡秦必楚" and later Chu-linked anti-Qin actors.
-- [Hydraulic Siege Warfare / 水攻围城](concepts/HydraulicSiegeWarfare.md) — Siege frame for Wang Ben turning Daliang's water environment into the mechanism of Wei's collapse.
+- [Hydraulic Siege Warfare / 水攻围城](concepts/HydraulicSiegeWarfare.md) — Siege frame where rivers, moats, and waterworks create wall failure, morale strain, supply isolation, or communication breakdown.
 - [布衣之怒 / Cloth-Clad Anger Persuasion](concepts/ClothCladAngerPersuasion.md) — Tang Ju's scale-shifting counter-threat against Ying Zheng's "天子之怒".
 - [Face-Slapping Reversal Narrative / 打脸反杀叙事](concepts/FaceSlappingReversalNarrative.md) — Narrative pattern connecting Tang Ju's direct confrontation with earlier Su Qin "爽文" status reversals.
 - [Heir Sacrifice Appeasement / 杀储求和式保祀](concepts/HeirSacrificeAppeasement.md) — Pattern where a weak ruler kills the crown prince as appeasement to preserve ancestral sacrifice but misreads a conquest-minded enemy.

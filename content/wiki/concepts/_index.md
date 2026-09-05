@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6400
+wiki_total_pages: 6402
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2072,6 +2072,9 @@ wiki_pages:
   - key: "AmnestyTimedPacification"
     title: "大赦定时安抚 / Amnesty-Timed Pacification"
     url: "/wiki/concepts/amnestytimedpacification/"
+  - key: "AuthorityDisguiseInfiltration"
+    title: "官威伪装渗透 / Authority Disguise Infiltration"
+    url: "/wiki/concepts/authoritydisguiseinfiltration/"
   - key: "ArmedFollowerIntegrationCost"
     title: "武装部众整合成本 / Armed Follower Integration Cost"
     url: "/wiki/concepts/armedfollowerintegrationcost/"

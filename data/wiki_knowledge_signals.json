@@ -5087,6 +5087,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/authoritariansportspropaganda/"
     },
+    "AuthorityDisguiseInfiltration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？ [lvkHmEzD68kEy-p-KUP55ZYpBjET].md",
+          "key": "zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/authoritydisguiseinfiltration/"
+    },
     "AutoRLProductionLoop": {
       "episode_count": 1,
       "show_count": 1,
@@ -26827,6 +26843,78 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/heirloomimperialseal/"
     },
+    "HeishanArmy": {
+      "episode_count": 9,
+      "show_count": 1,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？ [lpKntYOv4viqYzGXgcUjN36qHv8_].md",
+          "key": "zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》932丨为什么人越好，越难当大官？ [lvwZeL782wCxS1lPt3Rg2vmKdy29].md",
+          "key": "zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》932丨为什么人越好，越难当大官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》933丨为官之道：有所为，有所不为 [loPULnUFsaGOqYx7nNgVcQI2NHRJ].md",
+          "key": "zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》933丨为官之道：有所为，有所不为",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝 [liU-FqIz9pI7U6ClTrn-cJmjz__r].md",
+          "key": "zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？ [lnKHah144822mC4AA9bNeZKLGvOO].md",
+          "key": "zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒 [ljdLt6kIU8tg0Qws_jlYEJ_YhGXr].md",
+          "key": "zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
+          "key": "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》970丨袁绍暗杀吕布，为何会失败？ [ln2pnVIt_qgpNHN-PnE7o-P1IRrS].md",
+          "key": "zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》970丨袁绍暗杀吕布，为何会失败？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？ [lvkHmEzD68kEy-p-KUP55ZYpBjET].md",
+          "key": "zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/heishanarmy/"
+    },
     "HelenBlairSimpson": {
       "episode_count": 1,
       "show_count": 1,
@@ -29015,6 +29103,36 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/huyangprincesseasternhan/"
+    },
+    "HydraulicSiegeWarfare": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？ [ljJT1t2mK77si6re_-WEW_hPl8qZ].md",
+          "key": "zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》117-1｜啪啪打脸！历史上“爽文”的开山鼻祖 [lr0h-kfEGUvATatTnJ--MZ8fgVnC].md",
+          "key": "zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》117-1｜啪啪打脸！历史上“爽文”的开山鼻祖",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？ [lvkHmEzD68kEy-p-KUP55ZYpBjET].md",
+          "key": "zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/hydraulicsiegewarfare/"
     },
     "HydropowerConcentrationRisk": {
       "episode_count": 1,
@@ -33705,6 +33823,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/lidulatehan/"
+    },
+    "LiFuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？ [lvkHmEzD68kEy-p-KUP55ZYpBjET].md",
+          "key": "zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/lifulatehan/"
     },
     "LiGaoRunanLateHan": {
       "episode_count": 1,
@@ -41625,6 +41759,36 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/moudestructionstrike/"
     },
+    "MountainBaseStrategicOptionality": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》933丨为官之道：有所为，有所不为 [loPULnUFsaGOqYx7nNgVcQI2NHRJ].md",
+          "key": "zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》933丨为官之道：有所为，有所不为",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》970丨袁绍暗杀吕布，为何会失败？ [ln2pnVIt_qgpNHN-PnE7o-P1IRrS].md",
+          "key": "zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》970丨袁绍暗杀吕布，为何会失败？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？ [lvkHmEzD68kEy-p-KUP55ZYpBjET].md",
+          "key": "zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/mountainbasestrategicoptionality/"
+    },
     "MourningDiplomaticRestraint": {
       "episode_count": 1,
       "show_count": 1,
@@ -43204,6 +43368,29 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/concepts/officeagentharnessdesign/"
+    },
+    "OfficeBasedRebelIncorporation": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》933丨为官之道：有所为，有所不为 [loPULnUFsaGOqYx7nNgVcQI2NHRJ].md",
+          "key": "zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》933丨为官之道：有所为，有所不为",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？ [lvkHmEzD68kEy-p-KUP55ZYpBjET].md",
+          "key": "zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/officebasedrebelincorporation/"
     },
     "OfficeDutyExitConstraint": {
       "episode_count": 1,
@@ -52861,9 +53048,9 @@
       "url": "/wiki/entities/shenjinglatehan/"
     },
     "ShenPeiLateHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？ [lnKHah144822mC4AA9bNeZKLGvOO].md",
@@ -52906,9 +53093,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1056丨袁绍死后，他的儿子们直接反目成仇？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？ [lvkHmEzD68kEy-p-KUP55ZYpBjET].md",
+          "key": "zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/shenpeilatehan/"
     },
     "ShenYueFDE": {
@@ -65376,9 +65570,9 @@
       "url": "/wiki/entities/yaosongeasternhan/"
     },
     "YeLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？ [lphEE8cJ_7GcMG-CyNpIPHJVaUuF].md",
@@ -65400,6 +65594,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？ [lvkHmEzD68kEy-p-KUP55ZYpBjET].md",
+          "key": "zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet/"
         }
       ],
       "updated": "2026-09-05",
@@ -66136,9 +66337,9 @@
       "url": "/wiki/entities/yuanlanglatehan/"
     },
     "YuanShang": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
@@ -66174,6 +66375,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？ [lvkHmEzD68kEy-p-KUP55ZYpBjET].md",
+          "key": "zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet/"
         }
       ],
       "updated": "2026-09-05",
@@ -67330,6 +67538,43 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangxiu/"
+    },
+    "ZhangYanLateHan": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》932丨为什么人越好，越难当大官？ [lvwZeL782wCxS1lPt3Rg2vmKdy29].md",
+          "key": "zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》932丨为什么人越好，越难当大官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》933丨为官之道：有所为，有所不为 [loPULnUFsaGOqYx7nNgVcQI2NHRJ].md",
+          "key": "zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》933丨为官之道：有所为，有所不为",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》970丨袁绍暗杀吕布，为何会失败？ [ln2pnVIt_qgpNHN-PnE7o-P1IRrS].md",
+          "key": "zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》970丨袁绍暗杀吕布，为何会失败？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？ [lvkHmEzD68kEy-p-KUP55ZYpBjET].md",
+          "key": "zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/zhangyanlatehan/"
     },
     "ZhangYiEasternHan": {
       "episode_count": 1,

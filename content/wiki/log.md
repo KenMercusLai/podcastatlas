@@ -15240,6 +15240,10 @@ Ingested the 2026-09-03 The Intelligence episode on Donald Trump's quieter but s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-05] ingest | 《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？
+
+Ingested the 2026-09-04 芮淇讲透资治通鉴 episode on Zhang Yan's Black Mountain alignment with Cao Cao, Cao Cao's moat-and-water siege of Ye, and Li Fu's disguised messenger run into and out of Ye. Added source `zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet`; created `LiFuLateHan`, `MountainBaseStrategicOptionality`, and `AuthorityDisguiseInfiltration`; updated `ZhangYanLateHan`, `HeishanArmy`, `ShenPeiLateHan`, `YuanShang`, `YeLateHan`, `HydraulicSiegeWarfare`, `OfficeBasedRebelIncorporation`, `index`, and `overview`. No settled contradiction found; 夜城/沈佩/李福 are normalized to 邺城/审配/李孚, and the engineering details, starvation scale, Li Fu costume props, Cao Cao's reported reaction, and Zhang Yan title sequence remain source-scoped.
+
 ## [2026-09-05] ingest | 《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？
 
 Ingested the 2026-09-04 芮淇讲透资治通鉴 episode on Yuan Tan's secret seal-lure after Lyu Kuang and Gao Xiang defect, Cao Cao's Cao Zheng marriage tie, Sun Quan's Huang Zu attack and Shanyue pacification through He Qi and county-level commanders, Cao Cao's Ye logistics, and Xu Huang's surrender-reward advice. Added source `zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r`; created `CaoZhengLateHan`, `HeQiLateHan`, `LyuKuangLateHan`, `GaoXiangLateHan`, `SuYouLateHan`, `HanFanLateHan`, and `LiangQiLateHan`; updated `YuanTan`, `YuanShang`, `SunQuan`, `HuangZu`, `XuHuangCaoGeneral`, `YeLateHan`, `Shanyue`, `SuccessionAuthorityConsolidation`, `MarriageAllianceWarExposure`, `TacticalCredibilityCost`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; minor place names, exact local-office readings, Cao Zheng's broader biography, and transcript-sensitive local details remain source-scoped.
@@ -15283,8 +15287,6 @@ Ingested the 2026-09-03 Marketplace Tech episode using Akron's rubber-industry d
 ## [2026-09-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
-
-
 
 ## [2026-09-05] lint | Wiki health check
 
@@ -15377,3 +15379,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 17,276 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-09-02 with 16,930 nodes and 195,431 edges while lint scanned 17,276 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, one fragile bridge, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider variables are configured in this shell; a bounded in-session review of the script sample plus orphan and fragile-bridge endpoint pages found no direct contradictions, with legacy depth/schema drift noted for `ExportPorcelainCustomization` and `BobosOatBars`. Report returned in-session; `wiki/lint-report.md` was not updated.

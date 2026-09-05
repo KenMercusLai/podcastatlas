@@ -9,13 +9,14 @@ sources:
   - zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye
   - zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7
   - zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r
+  - zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet
 last_updated: 2026-09-05
 ---
 
 # 袁尚 / Yuan Shang
 
 ## Overview
-[[YuanShang|袁尚]] is presented as the favored but contested son of [[YuanShao|袁绍]]. His bounded wiki profile begins with Hanji 1056's fast installation after Yuan Shao dies without a public heir, then follows his rivalry with [[YuanTan|袁谭]] as it moves from tense cooperation under [[CaoCao|曹操]]'s attack into open conflict and a strategic opening for Cao. Hanji 1061 shows that opening materializing when Yuan Shang alternates between retreating to Ye and attacking Yuan Tan while Cao advances.
+[[YuanShang|袁尚]] is presented as the favored but contested son of [[YuanShao|袁绍]]. His bounded wiki profile begins with Hanji 1056's fast installation after Yuan Shao dies without a public heir, then follows his rivalry with [[YuanTan|袁谭]] as it moves from tense cooperation under [[CaoCao|曹操]]'s attack into open conflict and a strategic opening for Cao. Hanji 1061 shows that opening materializing when Yuan Shang alternates between retreating to Ye and attacking Yuan Tan while Cao advances; Hanji 1062 adds his attempt to recontact the isolated city through [[LiFuLateHan|李孚]].
 
 ## Current Profile
 Hanji 1056 gives Yuan Shang's origin as successor claimant. Yuan Shao prefers him privately, with support from Yuan Shao's later wife Liu, but does not make the choice public. When Yuan Shao dies, many people initially expect Yuan Tan to succeed because he is the eldest son. [[ShenPeiLateHan|审配]] and [[FengJiLateHan|逢纪]] fear retaliation from Yuan Tan's allies, so they claim Yuan Shao left instructions and install Yuan Shang before Yuan Tan returns for mourning.
@@ -32,6 +33,8 @@ Hanji 1060 makes Yuan Shang's position part of [[XinPiLateHan|辛毗]]'s argumen
 
 Hanji 1061 then supplies the next campaign layer. When Cao Cao crosses the Yellow River to support Yuan Tan, Yuan Shang withdraws from Pingyuan toward Ye, and subordinates [[LyuKuangLateHan|吕旷]] and [[GaoXiangLateHan|高翔]] defect to Cao. In Jian'an 9, Yuan Shang again attacks Yuan Tan at Pingyuan, leaving [[ShenPeiLateHan|审配]] and [[SuYouLateHan|苏由]] to defend Ye, which lets Cao Cao make the Yuan base itself the siege target.
 
+Hanji 1062 follows that exposed-base problem. After Cao Cao deepens the moat and diverts water around Ye, normal communication between Yuan Shang outside and Shen Pei inside becomes impossible. Yuan Shang returns with about ten thousand troops and sends Li Fu into Ye as a messenger, showing that his relief problem is not only military contact with Cao Cao but also information contact with his own defender.
+
 ## Key Characteristics
 - Favored younger son whose claim depends on private preference and factional installation rather than a clear public succession settlement.
 - Successor claimant backed by Shen Pei and Feng Ji before Yuan Tan can return to Ye.
@@ -39,7 +42,7 @@ Hanji 1061 then supplies the next campaign layer. When Cao Cao crosses the Yello
 - Capable of temporary anti-Cao cooperation with Yuan Tan while external pressure is direct.
 - Attempts to widen the anti-Cao field through Guo Yuan, Gao Gan, the Southern Xiongnu, and Ma Teng.
 - Suspicious of Yuan Tan's military requests, treating an anti-Cao pursuit proposal as a possible threat to himself.
-- Target of outside strategic readings: Liu Biao asks him to subordinate rivalry to anti-Cao coalition logic, Xin Pi treats his Ye-defense dilemma as Cao Cao's intervention opening, and Hanji 1061 shows the dilemma turning into actual retreat, defection, and exposed city defense.
+- Target of outside strategic readings: Liu Biao asks him to subordinate rivalry to anti-Cao coalition logic, Xin Pi treats his Ye-defense dilemma as Cao Cao's intervention opening, and Hanji 1061-1062 show the dilemma turning into retreat, defection, exposed city defense, and a risky messenger attempt.
 
 ## Evidence
 - Private preference and factional installation: [[zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye|Hanji 1056]] says Yuan Shao favors Yuan Shang but leaves no public will, after which Shen Pei and Feng Ji install Yuan Shang through a claimed final order.
@@ -51,16 +54,15 @@ Hanji 1061 then supplies the next campaign layer. When Cao Cao crosses the Yello
 - Failed mediation: [[zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos|Hanji 1059]] records Liu Biao's letter urging Yuan Shang to tolerate Yuan Tan and unite against Cao Cao, while the brothers do not accept the warning.
 - Exhaustion and Ye dilemma: [[zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7|Hanji 1060]] has Xin Pi argue that Yuan Shang's failure to destroy desperate Yuan Tan shows exhaustion, and that Cao Cao can attack Ye to force Yuan Shang between home defense and rear attack.
 - Retreat, defection, and exposed Ye: [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|Hanji 1061]] has Yuan Shang withdraw from Pingyuan to Ye when Cao advances, lose Lyu Kuang and Gao Xiang to Cao, and later attack Yuan Tan again while Shen Pei and Su You defend Ye.
+- Relief communication attempt: [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|Hanji 1062]] says Yuan Shang returns with about ten thousand troops and sends Li Fu into water-isolated Ye to inform Shen Pei of the outside situation.
 
 ## Qualifications
-This page currently rests on adjacent source notes and should not be treated as a complete biography of Yuan Shang. The episodes emphasize how Yuan Shang functions inside the Yuan-family succession breakdown rather than his full administrative or military career. Hanji 1056 gives the strongest claim that his succession was factionally engineered, while Hanji 1060 gives Xin Pi's interested assessment of Yuan Shang's exhaustion. Hanji 1061 adds campaign behavior consistent with that assessment but still filters the events through Cao-side opportunity.
+This page currently rests on adjacent source notes and should not be treated as a complete biography of Yuan Shang. The episodes emphasize how Yuan Shang functions inside the Yuan-family succession breakdown rather than his full administrative or military career. Hanji 1056 gives the strongest claim that his succession was factionally engineered, while Hanji 1060 gives Xin Pi's interested assessment of Yuan Shang's exhaustion. Hanji 1061 and Hanji 1062 add campaign behavior consistent with that assessment but still filter events through Cao-side opportunity and siege narrative.
 
 ## What Changed
-- Added Hanji 1056's origin layer for Yuan Shang's succession: private preference, claimed last order, and installation by Shen Pei and Feng Ji.
-- Added the first Yuan Tan conflict sequence, including troop restriction, Feng Ji's supervision, and Yuan Shang's later rescue of Yuan Tan under Cao Cao's attack.
-- Added Yuan Shang's western pressure plan through Guo Yuan, Gao Gan, the Southern Xiongnu, and Ma Teng.
-- Added Hanji 1060's reading of Yuan Shang as exhausted and vulnerable to a Ye-centered dilemma.
-- Added Hanji 1061's campaign evidence: retreat to Ye, defections to Cao, renewed attack on Yuan Tan, and exposed Ye defense.
+- Added Hanji 1062's relief-communication layer: Yuan Shang returns toward Ye with troops but must send Li Fu through Cao Cao's siege perimeter to reach Shen Pei.
+- Extended the Hanji 1061 exposed-Ye evidence from initial siege works into water-backed isolation.
+- Reframed Yuan Shang's Ye problem as both a home-defense dilemma and a communication failure under siege.
 
 ## Relationships
 - [[YuanShao|袁绍]] - father whose non-designation leaves Yuan Shang's claim exposed to rivalry.
@@ -76,6 +78,7 @@ This page currently rests on adjacent source notes and should not be treated as 
 - [[LyuKuangLateHan|吕旷]] - subordinate whose defection to Cao signals Yuan Shang's weakening position.
 - [[GaoXiangLateHan|高翔]] - paired subordinate who defects to Cao in the same episode.
 - [[SuYouLateHan|苏由]] - Ye defender left behind while Yuan Shang attacks Yuan Tan again.
+- [[LiFuLateHan|李孚]] - messenger Yuan Shang sends into isolated Ye.
 - [[LiyangYellowRiverLateHan|黎阳]] - campaign setting in which Yuan Shang reinforces Yuan Tan against Cao Cao.
 - [[YeLateHan|邺城]] - Yuan-family base near which Yuan Shang defeats Yuan Tan.
 - [[SuccessionNonDesignationRisk|未定继承人风险]] - conceptual pattern explaining why Yuan Shang's claim becomes unstable.

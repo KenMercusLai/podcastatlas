@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6400
+wiki_total_pages: 6402
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1109,6 +1109,9 @@ wiki_pages:
   - key: "MamaHui"
     title: "妈妈会 / Mama Hui"
     url: "/wiki/concepts/mamahui/"
+  - key: "MountainBaseStrategicOptionality"
+    title: "山地根据地战略余地 / Mountain Base Strategic Optionality"
+    url: "/wiki/concepts/mountainbasestrategicoptionality/"
   - key: "MourningMingReading"
     title: "悼明读法 / Mourning Ming Reading"
     url: "/wiki/concepts/mourningmingreading/"
