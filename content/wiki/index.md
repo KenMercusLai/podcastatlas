@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Trump drinks Venezuela's milkshake](sources/trump-drinks-venezuelas-milkshake.md) — Planet Money episode on Venezuela's Trump-era oil reopening, José Ángel Pereira, Apertura, PDVSA underinvestment, Citgo imprisonment, and the foreign-capital-versus-national-control cycle.
 - [《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？](sources/zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc.md) — 芮淇讲透资治通鉴 episode on Cao Cao judging Yuan Shang's relief route, defeating the rescue attempt, showing captured spoils to Ye's defenders, Shen Rong opening the east gate, and Shen Pei's execution.
 - [《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？](sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet.md) — 芮淇讲透资治通鉴 episode on Zhang Yan's Black Mountain alignment with Cao Cao, Cao Cao's moat-and-water siege of Ye, and Li Fu's disguised messenger infiltration.
 - [《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？](sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r.md) — 芮淇讲透资治通鉴 episode on Yuan Tan's secret seal-lure, Cao Zheng's marriage tie, Yuan Shang's exposed Ye defense, Sun Quan's Shanyue pacification, and Xu Huang's surrender-reward advice.
@@ -1928,6 +1929,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [José Ángel Pereira](entities/JoseAngelPereira.md) — Venezuelan oil executive and former Citgo CEO whose career links Apertura, PDVSA renationalization, and geopolitical imprisonment risk.
 - [曹整 / Cao Zheng (late Han)](entities/CaoZhengLateHan.md) — Cao Cao's son used as the marriage tie that temporarily stabilizes Yuan Tan after Cao detects Yuan Tan's secret seal-lure.
 - [贺齐 / He Qi (late Han)](entities/HeQiLateHan.md) — Sun Quan's pacification officer who suppresses Jian'an, Hanxing, and Nanping rebellions, rebuilds county seats, selects troops, and strengthens Jiangdong control.
 - [吕旷 / Lyu Kuang (late Han)](entities/LyuKuangLateHan.md) — Yuan Shang subordinate who defects to Cao Cao and becomes part of Yuan Tan's secret seal-lure episode.
@@ -10887,6 +10889,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Oil Reopening Backlash](concepts/OilReopeningBacklash.md) — Cycle where a weakened oil state reopens to foreign capital and technology, then faces legitimacy backlash when terms look unfair, imposed, or sovereignty-threatening.
 - [Healthspan Three Domains](concepts/HealthspanThreeDomains.md) — Longevity frame distinguishing physical, cognitive, and emotional healthspan from lifespan alone.
 - [ApoB Particle Burden](concepts/ApoBParticleBurden.md) — Cardiovascular-risk frame treating ApoB-containing particle count as the causal lipid burden to manage.
 - [Atherosclerosis Prevention Targets](concepts/AtherosclerosisPreventionTargets.md) — Prevention frame prioritizing ApoB, blood pressure, and inhaled irritant exposure before cardiovascular disease becomes symptomatic.

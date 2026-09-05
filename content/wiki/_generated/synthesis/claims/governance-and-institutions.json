@@ -1,6 +1,28 @@
 {
   "claims": [
     {
+      "global_candidate": true,
+      "id": "venezuela-oil-reopening-shows-resource-sovereignty-legitimacy-risk",
+      "qualifications": [
+        "The governance concern is grounded in Pereira's account and the episode's summary of constitutional issues; it is not a full legal analysis of Venezuelan oil law.",
+        "The announced 17-field and 100-year terms remain source-scoped until supported by additional sources."
+      ],
+      "statement": "[[trump-drinks-venezuelas-milkshake]] adds a resource-sovereignty governance case: [[Venezuela]] may need outside capital to revive [[PDVSA]], but [[OilReopeningBacklash]], [[OilNationalization]], [[OilConcessionBargaining]], and [[PoliticalResourceCurse]] show why 17-field, 100-year, externally imposed terms can turn economic repair into constitutional and legitimacy risk.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "trump-drinks-venezuelas-milkshake",
+        "Venezuela",
+        "PDVSA",
+        "OilReopeningBacklash",
+        "OilNationalization",
+        "OilConcessionBargaining",
+        "PoliticalResourceCurse",
+        "HugoChavez",
+        "NicolasMaduro",
+        "JoseAngelPereira"
+      ]
+    },
+    {
       "global_candidate": false,
       "id": "african-female-authority-institutions-show-capacity-and-constraint",
       "qualifications": [
@@ -4228,7 +4250,8 @@
       ]
     }
   ],
-  "input_digest": "c803fa69b1b4a4559aebdc5e125c4612e811e6017f77b7eaae422d4f6c43cccb",
-  "summary": "African Amazons adds a governance case where female authority is institutional rather than merely symbolic: Kushite Kandakes, Asante queen mothers, Njinga, Ranavalona I, and Dahomey's Agojie show offices, councils, diplomacy, coercive sovereignty, military regiments, and source-bias constraints. Existing governance synthesis still centers legitimacy, institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the difference between nominal authority and usable capacity.",
+  "input_digest": "78a9614ddbd6f0f153f83d5d273c0b9b0a5a8d10f6870bc45b7ff3d6743ff01f",
+  "summary": "The Venezuela oil-reopening episode adds a governance-legitimacy case: state resource ownership, PDVSA operating capacity, foreign capital, constitutional claims, and executive detention risk can collide inside one oil bargain. African Amazons adds a governance case where female authority is institutional rather than merely symbolic: Kushite Kandakes, Asante queen mothers, Njinga, Ranavalona I, and Dahomey's Agojie show offices, councils, diplomacy, coercive sovereignty, military regiments, and source-bias constraints. Existing governance synthesis still centers legitimacy, institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the difference between nominal authority and usable capacity.",
+  "title": "Governance and Institutions",
   "topic_id": "governance-and-institutions"
 }

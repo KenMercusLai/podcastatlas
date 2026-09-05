@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6403
+wiki_total_pages: 6404
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "OilProducerSupplyCoordination"
     title: "Oil Producer Supply Coordination"
     url: "/wiki/concepts/oilproducersupplycoordination/"
+  - key: "OilReopeningBacklash"
+    title: "Oil Reopening Backlash"
+    url: "/wiki/concepts/oilreopeningbacklash/"
   - key: "OilRevenueDependence"
     title: "Oil Revenue Dependence"
     url: "/wiki/concepts/oilrevenuedependence/"

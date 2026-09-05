@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b892ce8a9243c203d55252e85b64d8fed4e1a22b7cb251fe99d196b7b92609a1",
       "20ffd4e2c9777a972d516c79adc43584f0c18333fc6dce03f70e0f27471a6dc7",
       "91ba8d7c6da0e00c3508fc20994cd1fceca39f376d3b94165e6e3b85215fd831",
       "1a2a001dd317073c398f6e5027eeb310a3043e68a7b79d141df61d64a176f558",
@@ -542,11 +543,44 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 540
+    "paragraph_count": 541
   },
-  "overview_commit": "2fec51167606e2621eedeae863e73ff4b16c041b",
-  "overview_digest": "85f072154535b8f043e843a9199dc9f4e81a88fadb841139ba653dec0b507582",
+  "overview_commit": "412c537fca588af254471c25fe3bec7d4bfc35bc",
+  "overview_digest": "3c9f59da9bb1206c43200045253188f86610050cd11b58e3dac81766f8f23685",
   "paragraphs": [
+    {
+      "id": "b892ce8a9243c203d55252e85b64d8fed4e1a22b7cb251fe99d196b7b92609a1",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "business-and-markets",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[trump-drinks-venezuelas-milkshake|Trump drinks Venezuela's milkshake]], a [[PlanetMoney]] episode on [[Venezuela]]'s Trump-era oil reopening through [[JoseAngelPereira|José Ángel Pereira]]'s family and career history. It adds [[JoseAngelPereira|José Ángel Pereira]] and [[OilReopeningBacklash]], while extending [[PDVSA]], [[Citgo]], [[HugoChavez]], [[NicolasMaduro]], [[Chevron]], [[OilConcessionBargaining]], [[OilNationalization]], [[OilRevenueDependence]], and [[PoliticalResourceCurse]]. Its core synthesis is that Venezuela's oil problem is not simply foreign capital versus national control: underinvested fields, heavy-oil technology, state-company politics, and executive safety can force reopening, while imposed or unfair terms can recreate the backlash that made earlier Apertura gains politically unstable. No settled contradiction is recorded; the announced 17-field, 100-year, possible U.S.-backed deal, investment figures, constitutional concern, and Pereira's judgment remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "Chevron",
+        "Citgo",
+        "HugoChavez",
+        "JoseAngelPereira",
+        "NicolasMaduro",
+        "OilConcessionBargaining",
+        "OilNationalization",
+        "OilReopeningBacklash",
+        "OilRevenueDependence",
+        "PDVSA",
+        "PlanetMoney",
+        "PoliticalResourceCurse",
+        "Venezuela",
+        "trump-drinks-venezuelas-milkshake"
+      ]
+    },
     {
       "id": "20ffd4e2c9777a972d516c79adc43584f0c18333fc6dce03f70e0f27471a6dc7",
       "primary_topic": "history-and-geopolitics",

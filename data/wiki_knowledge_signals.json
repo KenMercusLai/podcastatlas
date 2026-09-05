@@ -10235,6 +10235,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/circe/"
     },
+    "Citgo": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ee9c680c4f023a27ab50db1b774d6ff0_24044984 [default.mp3_ywr3ahjkcgo_ee9c680c4f023a27ab50db1b774d6ff0_24044984].md",
+          "key": "venezuelas-recent-economic-history-update",
+          "show": "Planet Money",
+          "title": "Venezuela's recent economic history (Update)",
+          "url": "/wiki/sources/venezuelas-recent-economic-history-update/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098 [default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098].md",
+          "key": "trump-drinks-venezuelas-milkshake",
+          "show": "Planet Money",
+          "title": "Trump drinks Venezuela's milkshake",
+          "url": "/wiki/sources/trump-drinks-venezuelas-milkshake/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/citgo/"
+    },
     "CityPlacePremium": {
       "episode_count": 1,
       "show_count": 1,
@@ -28712,6 +28735,36 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/hubermanlab/"
     },
+    "HugoChavez": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586 [default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586].md",
+          "key": "chevron-venezuela-and-the-paradox-of-plenty",
+          "show": "Planet Money",
+          "title": "Chevron, Venezuela and the Paradox of Plenty",
+          "url": "/wiki/sources/chevron-venezuela-and-the-paradox-of-plenty/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ee9c680c4f023a27ab50db1b774d6ff0_24044984 [default.mp3_ywr3ahjkcgo_ee9c680c4f023a27ab50db1b774d6ff0_24044984].md",
+          "key": "venezuelas-recent-economic-history-update",
+          "show": "Planet Money",
+          "title": "Venezuela's recent economic history (Update)",
+          "url": "/wiki/sources/venezuelas-recent-economic-history-update/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098 [default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098].md",
+          "key": "trump-drinks-venezuelas-milkshake",
+          "show": "Planet Money",
+          "title": "Trump drinks Venezuela's milkshake",
+          "url": "/wiki/sources/trump-drinks-venezuelas-milkshake/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/hugochavez/"
+    },
     "HuhanyeChanyuBi": {
       "episode_count": 1,
       "show_count": 1,
@@ -31971,6 +32024,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/jonathanhurst/"
+    },
+    "JoseAngelPereira": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098 [default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098].md",
+          "key": "trump-drinks-venezuelas-milkshake",
+          "show": "Planet Money",
+          "title": "Trump drinks Venezuela's milkshake",
+          "url": "/wiki/sources/trump-drinks-venezuelas-milkshake/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/joseangelpereira/"
     },
     "JosefBratfisch": {
       "episode_count": 1,
@@ -42542,6 +42611,43 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/nickcullinan/"
     },
+    "NicolasMaduro": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586 [default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586].md",
+          "key": "chevron-venezuela-and-the-paradox-of-plenty",
+          "show": "Planet Money",
+          "title": "Chevron, Venezuela and the Paradox of Plenty",
+          "url": "/wiki/sources/chevron-venezuela-and-the-paradox-of-plenty/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ee9c680c4f023a27ab50db1b774d6ff0_24044984 [default.mp3_ywr3ahjkcgo_ee9c680c4f023a27ab50db1b774d6ff0_24044984].md",
+          "key": "venezuelas-recent-economic-history-update",
+          "show": "Planet Money",
+          "title": "Venezuela's recent economic history (Update)",
+          "url": "/wiki/sources/venezuelas-recent-economic-history-update/"
+        },
+        {
+          "episode_file": "Caracas under pressure： democracy in Venezuela [6a7d8bbe7d85cbdf96e00822].md",
+          "key": "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822",
+          "show": "Economist Podcasts",
+          "title": "Caracas under pressure: democracy in Venezuela",
+          "url": "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098 [default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098].md",
+          "key": "trump-drinks-venezuelas-milkshake",
+          "show": "Planet Money",
+          "title": "Trump drinks Venezuela's milkshake",
+          "url": "/wiki/sources/trump-drinks-venezuelas-milkshake/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/nicolasmaduro/"
+    },
     "NicoleBernardDawes": {
       "episode_count": 1,
       "show_count": 1,
@@ -43525,6 +43631,112 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/officialsalaryextractionrisk/"
     },
+    "OilConcessionBargaining": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586 [default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586].md",
+          "key": "chevron-venezuela-and-the-paradox-of-plenty",
+          "show": "Planet Money",
+          "title": "Chevron, Venezuela and the Paradox of Plenty",
+          "url": "/wiki/sources/chevron-venezuela-and-the-paradox-of-plenty/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098 [default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098].md",
+          "key": "trump-drinks-venezuelas-milkshake",
+          "show": "Planet Money",
+          "title": "Trump drinks Venezuela's milkshake",
+          "url": "/wiki/sources/trump-drinks-venezuelas-milkshake/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/oilconcessionbargaining/"
+    },
+    "OilNationalization": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586 [default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586].md",
+          "key": "chevron-venezuela-and-the-paradox-of-plenty",
+          "show": "Planet Money",
+          "title": "Chevron, Venezuela and the Paradox of Plenty",
+          "url": "/wiki/sources/chevron-venezuela-and-the-paradox-of-plenty/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098 [default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098].md",
+          "key": "trump-drinks-venezuelas-milkshake",
+          "show": "Planet Money",
+          "title": "Trump drinks Venezuela's milkshake",
+          "url": "/wiki/sources/trump-drinks-venezuelas-milkshake/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/oilnationalization/"
+    },
+    "OilReopeningBacklash": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098 [default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098].md",
+          "key": "trump-drinks-venezuelas-milkshake",
+          "show": "Planet Money",
+          "title": "Trump drinks Venezuela's milkshake",
+          "url": "/wiki/sources/trump-drinks-venezuelas-milkshake/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/oilreopeningbacklash/"
+    },
+    "OilRevenueDependence": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fea94a12969d7eefd0d673f9158b9260_40560920 [default.mp3_ywr3ahjkcgo_fea94a12969d7eefd0d673f9158b9260_40560920].md",
+          "key": "how-to-beat-the-resource-curse-in-norway-summer-school",
+          "show": "Planet Money",
+          "title": "How to beat the resource curse in Norway (Summer School)",
+          "url": "/wiki/sources/how-to-beat-the-resource-curse-in-norway-summer-school/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586 [default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586].md",
+          "key": "chevron-venezuela-and-the-paradox-of-plenty",
+          "show": "Planet Money",
+          "title": "Chevron, Venezuela and the Paradox of Plenty",
+          "url": "/wiki/sources/chevron-venezuela-and-the-paradox-of-plenty/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ee9c680c4f023a27ab50db1b774d6ff0_24044984 [default.mp3_ywr3ahjkcgo_ee9c680c4f023a27ab50db1b774d6ff0_24044984].md",
+          "key": "venezuelas-recent-economic-history-update",
+          "show": "Planet Money",
+          "title": "Venezuela's recent economic history (Update)",
+          "url": "/wiki/sources/venezuelas-recent-economic-history-update/"
+        },
+        {
+          "episode_file": "Caracas under pressure： democracy in Venezuela [6a7d8bbe7d85cbdf96e00822].md",
+          "key": "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822",
+          "show": "Economist Podcasts",
+          "title": "Caracas under pressure: democracy in Venezuela",
+          "url": "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098 [default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098].md",
+          "key": "trump-drinks-venezuelas-milkshake",
+          "show": "Planet Money",
+          "title": "Trump drinks Venezuela's milkshake",
+          "url": "/wiki/sources/trump-drinks-venezuelas-milkshake/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/oilrevenuedependence/"
+    },
     "OilRevenueSanctionsLeverage": {
       "episode_count": 2,
       "show_count": 1,
@@ -44480,6 +44692,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/pcoscardiometabolicrisk/"
+    },
+    "PDVSA": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586 [default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586].md",
+          "key": "chevron-venezuela-and-the-paradox-of-plenty",
+          "show": "Planet Money",
+          "title": "Chevron, Venezuela and the Paradox of Plenty",
+          "url": "/wiki/sources/chevron-venezuela-and-the-paradox-of-plenty/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098 [default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098].md",
+          "key": "trump-drinks-venezuelas-milkshake",
+          "show": "Planet Money",
+          "title": "Trump drinks Venezuela's milkshake",
+          "url": "/wiki/sources/trump-drinks-venezuelas-milkshake/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/pdvsa/"
     },
     "POINTERTrial": {
       "episode_count": 1,
@@ -46365,6 +46600,36 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/concepts/politicalmarriagealliancedepreciation/"
+    },
+    "PoliticalResourceCurse": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fea94a12969d7eefd0d673f9158b9260_40560920 [default.mp3_ywr3ahjkcgo_fea94a12969d7eefd0d673f9158b9260_40560920].md",
+          "key": "how-to-beat-the-resource-curse-in-norway-summer-school",
+          "show": "Planet Money",
+          "title": "How to beat the resource curse in Norway (Summer School)",
+          "url": "/wiki/sources/how-to-beat-the-resource-curse-in-norway-summer-school/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586 [default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586].md",
+          "key": "chevron-venezuela-and-the-paradox-of-plenty",
+          "show": "Planet Money",
+          "title": "Chevron, Venezuela and the Paradox of Plenty",
+          "url": "/wiki/sources/chevron-venezuela-and-the-paradox-of-plenty/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098 [default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098].md",
+          "key": "trump-drinks-venezuelas-milkshake",
+          "show": "Planet Money",
+          "title": "Trump drinks Venezuela's milkshake",
+          "url": "/wiki/sources/trump-drinks-venezuelas-milkshake/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/politicalresourcecurse/"
     },
     "Polyphemus": {
       "episode_count": 1,
@@ -60548,6 +60813,78 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/vectorborneinfectionescalation/"
+    },
+    "Venezuela": {
+      "episode_count": 9,
+      "show_count": 4,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "153.全球宏观和资本市场2026展望：大年之后，仍是大年？ [luPeQjDszON-wp5zdq06w3ustw2d].md",
+          "key": "153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d",
+          "show": "起朱楼宴宾客",
+          "title": "153.全球宏观和资本市场2026展望：大年之后，仍是大年？",
+          "url": "/wiki/sources/153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586 [default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586].md",
+          "key": "chevron-venezuela-and-the-paradox-of-plenty",
+          "show": "Planet Money",
+          "title": "Chevron, Venezuela and the Paradox of Plenty",
+          "url": "/wiki/sources/chevron-venezuela-and-the-paradox-of-plenty/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ee9c680c4f023a27ab50db1b774d6ff0_24044984 [default.mp3_ywr3ahjkcgo_ee9c680c4f023a27ab50db1b774d6ff0_24044984].md",
+          "key": "venezuelas-recent-economic-history-update",
+          "show": "Planet Money",
+          "title": "Venezuela's recent economic history (Update)",
+          "url": "/wiki/sources/venezuelas-recent-economic-history-update/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_994393ee1ed8674343c10f953b381597_29731599 [default.mp3_ywr3ahjkcgo_994393ee1ed8674343c10f953b381597_29731599].md",
+          "key": "dark-times-for-cubas-economic-experiment",
+          "show": "Planet Money",
+          "title": "Dark times for Cuba's economic experiment",
+          "url": "/wiki/sources/dark-times-for-cubas-economic-experiment/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6de40aadb0709698bbe625e5508949b5_29033608 [default.mp3_ywr3ahjkcgo_6de40aadb0709698bbe625e5508949b5_29033608].md",
+          "key": "the-secret-meeting-that-launched-opec",
+          "show": "Planet Money",
+          "title": "The secret meeting that launched OPEC",
+          "url": "/wiki/sources/the-secret-meeting-that-launched-opec/"
+        },
+        {
+          "episode_file": "tech_20260212_0212_MP_TECH_pod_128 [tech_20260212_0212_MP_TECH_pod_128].md",
+          "key": "tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Crypto's big growth on the books and in the shadows",
+          "url": "/wiki/sources/tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Fault lines： Venezuela’s paltry earthquake response [6a44e38375e7a3e96111931b].md",
+          "key": "fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b",
+          "show": "Economist Podcasts",
+          "title": "Fault lines: Venezuela's paltry earthquake response",
+          "url": "/wiki/sources/fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b/"
+        },
+        {
+          "episode_file": "Caracas under pressure： democracy in Venezuela [6a7d8bbe7d85cbdf96e00822].md",
+          "key": "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822",
+          "show": "Economist Podcasts",
+          "title": "Caracas under pressure: democracy in Venezuela",
+          "url": "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098 [default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098].md",
+          "key": "trump-drinks-venezuelas-milkshake",
+          "show": "Planet Money",
+          "title": "Trump drinks Venezuela's milkshake",
+          "url": "/wiki/sources/trump-drinks-venezuelas-milkshake/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/venezuela/"
     },
     "VernacularFemaleReligiousWriting": {
       "episode_count": 1,

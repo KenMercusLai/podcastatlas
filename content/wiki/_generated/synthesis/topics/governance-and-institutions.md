@@ -3,18 +3,29 @@
 generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
-last_updated: 2026-09-04
-as_of_overview_commit: 1f81ed316c89425cfcaec7b86a1d1ffb1e3a381f
-input_digest: c803fa69b1b4a4559aebdc5e125c4612e811e6017f77b7eaae422d4f6c43cccb
+last_updated: 2026-09-05
+as_of_overview_commit: 412c537fca588af254471c25fe3bec7d4bfc35bc
+input_digest: 78a9614ddbd6f0f153f83d5d273c0b9b0a5a8d10f6870bc45b7ff3d6743ff01f
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-African Amazons adds a governance case where female authority is institutional rather than merely symbolic: Kushite Kandakes, Asante queen mothers, Njinga, Ranavalona I, and Dahomey's Agojie show offices, councils, diplomacy, coercive sovereignty, military regiments, and source-bias constraints. Existing governance synthesis still centers legitimacy, institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the difference between nominal authority and usable capacity.
+The Venezuela oil-reopening episode adds a governance-legitimacy case: state resource ownership, PDVSA operating capacity, foreign capital, constitutional claims, and executive detention risk can collide inside one oil bargain. African Amazons adds a governance case where female authority is institutional rather than merely symbolic: Kushite Kandakes, Asante queen mothers, Njinga, Ranavalona I, and Dahomey's Agojie show offices, councils, diplomacy, coercive sovereignty, military regiments, and source-bias constraints. Existing governance synthesis still centers legitimacy, institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the difference between nominal authority and usable capacity.
 
 ## Cross-source Findings
+
+### Venezuela Oil Reopening Shows Resource Sovereignty Legitimacy Risk
+
+[[trump-drinks-venezuelas-milkshake]] adds a resource-sovereignty governance case: [[Venezuela]] may need outside capital to revive [[PDVSA]], but [[OilReopeningBacklash]], [[OilNationalization]], [[OilConcessionBargaining]], and [[PoliticalResourceCurse]] show why 17-field, 100-year, externally imposed terms can turn economic repair into constitutional and legitimacy risk.
+
+**Evidence:** [[trump-drinks-venezuelas-milkshake]], [[Venezuela]], [[PDVSA]], [[OilReopeningBacklash]], [[OilNationalization]], [[OilConcessionBargaining]], [[PoliticalResourceCurse]], [[HugoChavez]], [[NicolasMaduro]], [[JoseAngelPereira]]
+
+**Qualifications:**
+
+- The governance concern is grounded in Pereira's account and the episode's summary of constitutional issues; it is not a full legal analysis of Venezuelan oil law.
+- The announced 17-field and 100-year terms remain source-scoped until supported by additional sources.
 
 ### African Female Authority Institutions Show Capacity And Constraint
 

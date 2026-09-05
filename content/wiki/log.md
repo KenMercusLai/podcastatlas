@@ -15395,3 +15395,11 @@ Ingested the 2026-09-04 芮淇讲透资治通鉴 episode on Cao Cao judging Yuan
 ## [2026-09-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-05] ingest | Trump drinks Venezuela's milkshake
+
+Ingested the 2026-09-05 Planet Money episode on Venezuela's oil reopening, José Ángel Pereira's family and executive history, the 1990s Apertura, PDVSA underinvestment and production decline, Chevron's continuity, Citgo imprisonment risk, and the political legitimacy problem around externally imposed oil terms. Added source `trump-drinks-venezuelas-milkshake`; created `JoseAngelPereira` and `OilReopeningBacklash`; updated `Venezuela`, `PDVSA`, `Citgo`, `HugoChavez`, `NicolasMaduro`, `OilConcessionBargaining`, `OilNationalization`, `OilRevenueDependence`, `PoliticalResourceCurse`, `index`, and `overview`. No settled contradiction found; the announced field rights, investment figures, constitutional concern, and Pereira's judgment remain source-scoped.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 17,282 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-09-02 with 16,930 nodes and 195,431 edges while lint scanned 17,282 pages, so the fragile-bridge finding is advisory until the graph is rebuilt; current graph checks found no hub stubs, one fragile bridge, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; a bounded in-session review of the reported orphan and fragile-bridge endpoint pages found no direct contradiction, with `BobosOatBars` still showing legacy schema/depth drift. Report returned in-session; `wiki/lint-report.md` was not updated.
