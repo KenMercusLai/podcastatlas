@@ -50414,9 +50414,9 @@
       "url": "/wiki/concepts/retroproductrevival/"
     },
     "ReturningArmyInterdictionRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈 [lpHbNmFDU0x5W7ZjrA7K0O8cyEL4].md",
@@ -50424,9 +50424,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？ [llz3VbevWMRQVgVsf4gYgr2HkBVC].md",
+          "key": "zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/returningarmyinterdictionrisk/"
     },
     "RevelPharma": {
@@ -53048,9 +53055,9 @@
       "url": "/wiki/entities/shenjinglatehan/"
     },
     "ShenPeiLateHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？ [lnKHah144822mC4AA9bNeZKLGvOO].md",
@@ -53100,10 +53107,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？ [llz3VbevWMRQVgVsf4gYgr2HkBVC].md",
+          "key": "zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc/"
         }
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/shenpeilatehan/"
+    },
+    "ShenRongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？ [llz3VbevWMRQVgVsf4gYgr2HkBVC].md",
+          "key": "zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/shenronglatehan/"
     },
     "ShenYueFDE": {
       "episode_count": 1,
@@ -54647,6 +54677,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/spoilslossmobilization/"
+    },
+    "SpoilsProofDemoralization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？ [llz3VbevWMRQVgVsf4gYgr2HkBVC].md",
+          "key": "zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/spoilsproofdemoralization/"
     },
     "SportAsReconciliationRitual": {
       "episode_count": 1,
@@ -63850,9 +63896,9 @@
       "url": "/wiki/entities/xinpilatehan/"
     },
     "XinPingLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？ [lphEE8cJ_7GcMG-CyNpIPHJVaUuF].md",
@@ -63867,9 +63913,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？ [llz3VbevWMRQVgVsf4gYgr2HkBVC].md",
+          "key": "zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/xinpinglatehan/"
     },
     "XinyeLateHan": {
@@ -65570,9 +65623,9 @@
       "url": "/wiki/entities/yaosongeasternhan/"
     },
     "YeLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？ [lphEE8cJ_7GcMG-CyNpIPHJVaUuF].md",
@@ -65601,6 +65654,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？ [llz3VbevWMRQVgVsf4gYgr2HkBVC].md",
+          "key": "zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc/"
         }
       ],
       "updated": "2026-09-05",
@@ -66337,9 +66397,9 @@
       "url": "/wiki/entities/yuanlanglatehan/"
     },
     "YuanShang": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
@@ -66382,6 +66442,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？ [llz3VbevWMRQVgVsf4gYgr2HkBVC].md",
+          "key": "zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc/"
         }
       ],
       "updated": "2026-09-05",

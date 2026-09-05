@@ -15387,3 +15387,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-05] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 17,276 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-09-02 with 16,930 nodes and 195,431 edges while lint scanned 17,276 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, one fragile bridge, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider variables are configured in this shell; a bounded in-session review of the script sample plus orphan and fragile-bridge endpoint pages found no direct contradictions, with legacy depth/schema drift noted for `ExportPorcelainCustomization` and `BobosOatBars`. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-09-05] ingest | 《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？
+
+Ingested the 2026-09-04 芮淇讲透资治通鉴 episode on Cao Cao judging Yuan Shang's Ye-relief route, defeating the rescue attempt, displaying captured Yuan Shang goods to city defenders, Shen Rong opening Ye's east gate, Shen Pei's capture and execution, and Cao Cao's post-victory treatment of Yuan Shao's household. Added source `zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc`; created `ShenRongLateHan` and `SpoilsProofDemoralization`; updated `YuanShang`, `ShenPeiLateHan`, `YeLateHan`, `XinPingLateHan`, `ReturningArmyInterdictionRisk`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 沈沛/沈荣/新萍, minor names, local placements, object lists, and exact troop details remain transcript-scoped or normalized where the established Ye-siege route is clear.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

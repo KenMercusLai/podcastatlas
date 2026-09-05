@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？](sources/zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc.md) — 芮淇讲透资治通鉴 episode on Cao Cao judging Yuan Shang's relief route, defeating the rescue attempt, showing captured spoils to Ye's defenders, Shen Rong opening the east gate, and Shen Pei's execution.
 - [《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？](sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet.md) — 芮淇讲透资治通鉴 episode on Zhang Yan's Black Mountain alignment with Cao Cao, Cao Cao's moat-and-water siege of Ye, and Li Fu's disguised messenger infiltration.
 - [《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？](sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r.md) — 芮淇讲透资治通鉴 episode on Yuan Tan's secret seal-lure, Cao Zheng's marriage tie, Yuan Shang's exposed Ye defense, Sun Quan's Shanyue pacification, and Xu Huang's surrender-reward advice.
 - [Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia](sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956.md) — Huberman Lab episode with Peter Attia on healthspan, ApoB, blood pressure, cancer screening, dementia risk, exercise pillars, deaths of despair, and emotional health.
@@ -3295,7 +3296,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [襄阳 / Xiangyang (late Han)](entities/XiangyangLateHan.md) — Liu Biao's Jingzhou administrative base after the initial consolidation in Hanji 953.
 - [新野 / Xinye (late Han)](entities/XinyeLateHan.md) — Northern Jingzhou post where Liu Biao stations Liu Bei after defeat, functioning as both refuge and frontline buffer.
 - [高干 / Gao Gan (late Han)](entities/GaoGanLateHan.md) — Yuan Shao's nephew sent with Han Fu insiders to pressure Han Fu into yielding Jizhou.
-- [辛评 / Xin Ping (late Han)](entities/XinPingLateHan.md) — Yuan-side adviser who moves from Jizhou insider persuasion to factional provocation in Yuan Tan's break with Yuan Shang.
+- [辛评 / Xin Ping (late Han)](entities/XinPingLateHan.md) — Yuan-side adviser who moves from Jizhou insider persuasion and Yuan Tan factional provocation to family-victim grievance when Ye falls.
 - [耿武 / Geng Wu (late Han)](entities/GengWuLateHan.md) — Han Fu subordinate who argues against yielding Jizhou and dies trying to block Yuan Shao.
 - [闵纯 / Min Chun (late Han)](entities/MinChunLateHan.md) — Han Fu subordinate who resists the Jizhou transfer and is killed at Yuan Shao's entry.
 - [李历 / Li Li (Han Fu retainer)](entities/LiLiHanFuRetainer.md) — Han Fu retainer disambiguated from Li Jue's nephew, warning that Jizhou's resources can outlast Yuan Shao.
@@ -3306,7 +3307,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张温 / Zhang Wen (late Han)](entities/ZhangWenLateHan.md) — late-Han minister whom Dong Zhuo kills by wrapping accusation and private resentment in celestial-omen language.
 - [白绕 / Bai Rao (late Han)](entities/BaiRaoLateHan.md) — Black Mountain-linked commander defeated by Cao Cao at Puyang during the East Commandery opening.
 - [王肱 / Wang Gong (late Han)](entities/WangGongLateHan.md) — Dong Commandery administrator unable to resist Yu Du, Bai Rao, and Sui Gu before Cao Cao enters the field.
-- [审配 / Shen Pei (late Han)](entities/ShenPeiLateHan.md) — Yuan Shao adviser whose profile runs from Jizhou personnel absorption and pre-Guandu pro-war counsel to Ye-based succession action for Yuan Shang.
+- [审配 / Shen Pei (late Han)](entities/ShenPeiLateHan.md) — Yuan Shao adviser whose profile runs from Jizhou personnel absorption and pre-Guandu pro-war counsel to Ye defense, gate betrayal, and execution.
+- [审荣 / Shen Rong (late Han)](entities/ShenRongLateHan.md) — Shen Pei's nephew and Ye east-gate commandant whose night gate opening lets Cao Cao's army enter the city.
 - [逢纪 / Feng Ji (late Han)](entities/FengJiLateHan.md) — Yuan Shao adviser who slanders Tian Feng, defends Shen Pei, helps install Yuan Shang, and is killed by Yuan Tan.
 - [荀谌 / Xun Chen (late Han)](entities/XunChenLateHan.md) — Xun-family figure and Yuan Shao-side adviser placed in the Jizhou talent field.
 - [反董卓联盟 / Anti-Dong Zhuo Coalition](entities/AntiDongZhuoCoalition.md) — late-Han common-enemy coalition whose active Sun Jian front is already constrained by Yuan Shu's suspicion before Hanji 958 shows open allied rupture.
@@ -3436,7 +3438,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [于毒 / Yu Du (Late Han)](entities/YuDuLateHan.md) — Black Mountain figure tied to Cao Cao's Dong Wuyang-Neihuang maneuver and Yuan Shao's later retaliatory mountain campaign.
 - [陶生 / Tao Sheng (Late Han)](entities/TaoShengLateHan.md) — Black Mountain-linked commander who protects Yuan Shao's household and state officials' families during the Ye crisis.
 - [魏郡 / Wei Commandery (Late Han)](entities/WeiCommanderyLateHan.md) — Commandery whose soldier revolt joins Yu Du's Black Mountain force and attacks Yuan Shao's Ye base.
-- [邺城 / Ye (Late Han)](entities/YeLateHan.md) — Yuan Shao's late-Han headquarters city, first threatened by Wei Commandery and Black Mountain violence and later besieged by Cao Cao during the Yuan split.
+- [邺城 / Ye (Late Han)](entities/YeLateHan.md) — Yuan Shao's late-Han headquarters city, first threatened by Wei Commandery and Black Mountain violence and later isolated, demoralized, and breached during Cao Cao's Yuan-split campaign.
 - [长平观之战 / Changpingguan Battle (late Han)](entities/ChangpingguanBattleLateHan.md) — 194 CE battle where Li Jue's side defeats Ma Teng and Han Sui, after which Han Sui's friendly contact with Fan Chou becomes a later suspicion seed.
 - [王美人 / 灵怀皇后 (late Han)](entities/WangMeirenLateHan.md) — Emperor Xian's mother, reburied and posthumously honored in Hanji 973 before the court's military weakness becomes the main story.
 - [田楷 / Tian Kai (late Han)](entities/TianKaiLateHan.md) — Gongsun Zan-aligned Qingzhou inspector whose Yuan-side proxy war ends in defeat and death.
@@ -3873,7 +3875,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [洛阳 / Luoyang (late Han)](entities/LuoyangLateHan.md) — Damaged imperial city whose burned palaces, starving officials, weak supplies, and unstable military surroundings make the Xu relocation plausible.
 - [孙静 / Sun Jing (late Han)](entities/SunJingLateHan.md) — Sun Ce's uncle and Kuaiji campaign adviser whose detour-and-rear-attack plan breaks Wang Lang's Guling defense.
 - [袁谭 / Yuan Tan](entities/YuanTan.md) — Yuan Shao son whose Qingzhou base, succession grievance, outside-aid request, and secret seal-lure make him Cao Cao's useful but distrusted wedge against Yuan Shang.
-- [袁尚 / Yuan Shang](entities/YuanShang.md) — Yuan Shao son privately favored and factionally installed, whose rivalry with Yuan Tan turns into retreat, defection, and exposed Ye defense under Cao Cao's pressure.
+- [袁尚 / Yuan Shang](entities/YuanShang.md) — Yuan Shao son privately favored and factionally installed, whose rivalry with Yuan Tan turns into retreat, exposed Ye defense, failed relief, and flight under Cao Cao's pressure.
 - [王修 / Wang Xiu (late Han)](entities/WangXiuLateHan.md) — Yuan Tan-side adviser who urges reconciliation with Yuan Shang before the fraternal split hardens.
 - [管统 / Guan Tong (late Han)](entities/GuanTongLateHan.md) — Donglai official whose costly loyalty to Yuan Tan survives a Qingzhou defection wave.
 - [辛毗 / Xin Pi (late Han)](entities/XinPiLateHan.md) — Xin Ping's younger brother and Yuan Tan envoy who persuades Cao Cao to exploit Yuan-family exhaustion through the Hebei opening.
@@ -12034,7 +12036,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Victory Deterrence Diplomacy / 胜势威慑外交](concepts/VictoryDeterrenceDiplomacy.md) — Pattern where battlefield or regime victory is converted into envoy-backed surrender pressure, from Han Xin's Yan/Qi sequence to Lu Jia's Nanyue mission.
 - [背水一战 / Backwater Battle](concepts/BackwaterBattle.md) — Han Xin's Jingxing battle pattern joining backwater formation, hidden red-flag cavalry, Zhao morale collapse, and later victory-to-diplomacy conversion.
 - [Death-Ground Tactical Preconditions / 死地战术前提](concepts/DeathGroundTacticalPreconditions.md) — Sunzi-style no-retreat tactics work only when intelligence, enemy-choice confirmation, terrain, morale, route pressure, and surprise have made forced commitment usable.
-- [Returning Army Interdiction Risk / 归师勿遏式追击风险](concepts/ReturningArmyInterdictionRisk.md) — Hanji 1023 pursuit-risk concept where blocking a returning or retreating force can create death-ground resolve and ambush danger unless commander position and rear-guard timing have changed.
+- [Returning Army Interdiction Risk / 归师勿遏式追击风险](concepts/ReturningArmyInterdictionRisk.md) — Pursuit and rescue-army risk concept where blocking a returning force can create death-ground resolve unless route choice, commander position, and fallback behavior show weak commitment.
+- [Captured-Spoils Proof Demoralization / 战利品实证瓦解士气](concepts/SpoilsProofDemoralization.md) — Morale tactic where captured official and personal goods prove an expected commander or rescuer has fled or lost control.
 - [Moralized Anti-Deception Command / 道德化拒诈指挥](concepts/MoralizedAntiDeceptionCommand.md) — Chen Yu's Jingxing failure mode where righteous-army language rejects a practical supply-line stratagem and preserves face over position.
 - [River Crossing Deception / 渡河欺敌](concepts/RiverCrossingDeception.md) — Han Xin's West Wei tactic: visible crossing preparations at Linjin/Puban hide the real Xiayang crossing and Anyi strike.
 - [Crossing Vulnerability Strike / 半渡击敌](concepts/CrossingVulnerabilityStrike.md) — Tactic of attacking an enemy during an incomplete river crossing, when formation, command continuity, and force concentration are temporarily broken.

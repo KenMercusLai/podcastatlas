@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-05
-as_of_overview_commit: cb51339db7c11d87a34bee9f2a08800926f30453
-summary: "The corpus treats capability as bounded work: AI, markets, institutions, history, health, culture, work, and psychology need evidence, context, measurement, and governance."
-episode_count: 1917
-source_count: 1917
-paragraph_count: 539
+as_of_overview_commit: 2fec51167606e2621eedeae863e73ff4b16c041b
+summary: "The corpus treats capability as bounded work: evidence, context, measurement, governance, and role access decide whether tools, markets, history, or health claims hold."
+episode_count: 1920
+source_count: 1920
+paragraph_count: 540
 topic_count: 8
 ---
 
@@ -57,7 +57,7 @@ Governance claims tie rules to capacity: privacy, biometric policing, markets, A
 
 ### History and Geopolitics
 
-History-geopolitics treats power, legitimacy, violence, infrastructure, and memory as systems, from Atlantis reception and Roman civil war to African female power, Late Han politics, and digital infrastructure.
+History-geopolitics now includes Hanji 1063 as a Ye-siege completion case, while the broader topic treats legitimacy, infrastructure, violence, memory, and doctrine as systems.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
@@ -71,14 +71,14 @@ Psychology-personal development centers bounded agency: dopamine, stress, emotio
 
 ### Science, Health, and Climate
 
-Science-health-climate joins preventive longevity, medical literacy, female and male urology, sleep, nutrition, exercise, psychiatry, rehabilitation, cancer, health AI, climate, and space through measurement, escalation, and qualified-care boundaries.
+Science-health-climate joins prevention, medical literacy, sleep, nutrition, exercise, psychiatry, rehabilitation, cancer, climate, health AI, and space through measurement and escalation boundaries.
 
 - [[improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956|The Attia Huberman Lab episode]] adds a preventive-longevity health-literacy branch: [[HealthspanThreeDomains]] separates lifespan from physical, cognitive, and emotional function, while [[ApoBParticleBurden]], [[AtherosclerosisPreventionTargets]], [[CancerScreeningBurdenTradeoff]], [[NeurodegenerativeRiskLevers]], [[ExercisePillarsForLongevity]], and [[DeathsOfDespairCounterfeitPillRisk]] tie ApoB, blood pressure, screening false positives, dementia uncertainty, exercise capacity, falls, fentanyl, and overdose risk to [[MedicalRiskManagement]] and [[PreventiveHealthScreening]] rather than one-size protocols. Evidence: [[improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956]], [[HubermanLab]], [[AndrewHuberman]], [[PeterAttia]], [[HealthspanThreeDomains]], [[ApoBParticleBurden]], [[AtherosclerosisPreventionTargets]], [[CancerScreeningBurdenTradeoff]], [[NeurodegenerativeRiskLevers]], [[ExercisePillarsForLongevity]], [[DeathsOfDespairCounterfeitPillRisk]], [[MedicalRiskManagement]], [[PreventiveHealthScreening]].
 - [[PerioperativeAnesthesiaSafety]] extends the health-literacy pattern into anesthesiology: [[DongXintong]] and [[ShenzhenPeopleHospital]] frame anesthesia as a perioperative safety system, while [[AnesthesiaDrugMythBoundary]], [[OperatingRoomPhysiologyManagement]], and [[PostAnesthesiaRecoverySafety]] keep truth-serum stories, fixed countdowns, dosing, operating-room temperature, BIS/GCS/APACHE signals, awakening, delirium, nausea, positioning, and patient-background questions bounded by [[MedicalRiskManagement]], [[MedicalDiagnosticReasoning]], [[DoctorPatientCommunication]], [[MedicalKnowledgeBoundary]], and [[MultidisciplinaryHospitalCare]]. Evidence: [[vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr]], [[ZheBingShuoLaiHuaChang]], [[DongXintong]], [[ShenzhenPeopleHospital]], [[PerioperativeAnesthesiaSafety]], [[AnesthesiaDrugMythBoundary]], [[OperatingRoomPhysiologyManagement]], [[PostAnesthesiaRecoverySafety]], [[MedicalRiskManagement]], [[MedicalDiagnosticReasoning]], [[DoctorPatientCommunication]], [[MedicalKnowledgeBoundary]], [[MultidisciplinaryHospitalCare]].
 
 ### Work, Education, and Society
 
-Work-education-society treats tools and learning as context-bound systems: AI policy, tutoring, workplace adoption, power imbalance, routines, and human judgment need evidence and transfer.
+Work-education-society treats tools and learning as context-bound systems: AI policy, tutoring, workplace adoption, routines, evidence, role access, and human judgment need transfer.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

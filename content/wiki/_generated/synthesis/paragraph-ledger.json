@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "20ffd4e2c9777a972d516c79adc43584f0c18333fc6dce03f70e0f27471a6dc7",
       "91ba8d7c6da0e00c3508fc20994cd1fceca39f376d3b94165e6e3b85215fd831",
       "1a2a001dd317073c398f6e5027eeb310a3043e68a7b79d141df61d64a176f558",
       "72b0bb3947c27d93b942d6ffd9aea46dd6271920e7a6201e78caf97e9e89486c",
@@ -541,11 +542,35 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 539
+    "paragraph_count": 540
   },
-  "overview_commit": "b62419b1a4096cd5c670e65bc4ec35b45c21e5f9",
-  "overview_digest": "762ce05d33f28efe0ef4eee530ee6564b48ec7870ca0e144dddccddc2d2a3ae2",
+  "overview_commit": "2fec51167606e2621eedeae863e73ff4b16c041b",
+  "overview_digest": "85f072154535b8f043e843a9199dc9f4e81a88fadb841139ba653dec0b507582",
   "paragraphs": [
+    {
+      "id": "20ffd4e2c9777a972d516c79adc43584f0c18333fc6dce03f70e0f27471a6dc7",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc|《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continuing the Jian'an 9 Yuan-family and Ye-siege branch after [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|Hanji 1062]]. It adds [[ShenRongLateHan|审荣]] and [[SpoilsProofDemoralization|战利品实证瓦解士气]], while extending [[YuanShang|袁尚]], [[ShenPeiLateHan|审配]], [[YeLateHan|邺城]], [[XinPingLateHan|辛评]], and [[ReturningArmyInterdictionRisk|归师勿遏式追击风险]]. Its core synthesis is that Cao Cao treats doctrine as a condition test rather than a slogan: Yuan Shang's western-mountain route, quick surrender request, and night flight show missing death-fight resolve, while captured supplies displayed to Ye make the failed relief visible and help collapse the city's morale before Shen Rong opens the east gate. No settled contradiction is recorded; 沈沛/沈荣/新萍/马炎/张乙 are normalized or kept source-scoped as transcript-sensitive forms.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ReturningArmyInterdictionRisk",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShenPeiLateHan",
+        "ShenRongLateHan",
+        "SpoilsProofDemoralization",
+        "XinPingLateHan",
+        "YeLateHan",
+        "YuanShang",
+        "zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet",
+        "zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc"
+      ]
+    },
     {
       "id": "91ba8d7c6da0e00c3508fc20994cd1fceca39f376d3b94165e6e3b85215fd831",
       "primary_topic": "science-health-and-climate",

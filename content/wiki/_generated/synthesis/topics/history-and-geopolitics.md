@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-05
-as_of_overview_commit: af21497b70f51da1c0b8ef0f5af591db29213f0d
-input_digest: 1be6dbe96255fa66c2f992c5fbae797cf8a856f9f6ce9bfc79733481fedba602
+as_of_overview_commit: 2fec51167606e2621eedeae863e73ff4b16c041b
+input_digest: 83c5a3dd5e90b4ba7d1b3a4fd0768e8bc9a69f7738df0796d5da0bdb4bff7fdf
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Atlantis now extends the history branch into reception and pseudohistory: Plato's imperial warning is repeatedly repurposed as utopia, origin myth, esoteric technology, Santorini resemblance, or lost-civilization media while archaeological criticism remains source-scoped. Benjamin Lay, Roman Civil War Part 2, African Amazons, and the broader topic still track state formation, war origins, imperial crisis, public memory, legitimacy, infrastructure, and geopolitics as historical systems.
+Hanji 1063 now completes the Ye-siege relief branch: Cao Cao treats returning-army doctrine as a route-and-resolve test, turns Yuan Shang's flight into spoils proof against Ye, and the city falls through Shen Rong's gate opening while Shen Pei's loyalist death remains source-scoped. Atlantis, Benjamin Lay, Roman Civil War Part 2, African Amazons, and the broader topic still track state formation, war origins, imperial crisis, public memory, legitimacy, infrastructure, and geopolitics as historical systems.
 
 ## Cross-source Findings
 
@@ -1844,6 +1844,18 @@ The immediate Guandu setup now starts before Zhang Xiu's submission: [[zizhi-ton
 - Hanji 1059 keeps Liu Biao's character labels, opening relationship advice, Xiping location detail, and Hanlu-Dongguo application source-scoped.
 - Hanji 1060's easy-victory forecast remains source-scoped until later campaign notes test how costly Cao Cao's intervention was.
 - The Yuan-family split is treated as a pressure-revealed succession fracture, not as something Cao Cao created from nothing.
+
+### Late Han 1063 Ye Relief Collapse And Spoils Proof
+
+[[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc|Hanji 1063]] completes the current Ye-siege relief branch after [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|Hanji 1062]]: [[CaoCao]] treats [[ReturningArmyInterdictionRisk]] as a condition test by reading [[YuanShang]]'s western-mountain route as fallback preservation, then turns Yuan Shang's failed surrender and night flight into [[SpoilsProofDemoralization]] for [[YeLateHan]]'s defenders. The city still falls through insider gate control when [[ShenRongLateHan]] opens the east gate, while [[ShenPeiLateHan]]'s execution and [[XinPingLateHan]]'s family grievance keep loyalist resistance, coercion, and factional blame source-scoped.
+
+**Evidence:** [[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc]], [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet]], [[CaoCao]], [[ReturningArmyInterdictionRisk]], [[YuanShang]], [[SpoilsProofDemoralization]], [[YeLateHan]], [[ShenRongLateHan]], [[ShenPeiLateHan]], [[XinPingLateHan]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 1063 as a continuation of the Hanji 1061-1062 Ye siege branch; it confirms rather than replaces earlier Yuan-family exhaustion readings.
+- The route-choice interpretation is the episode's reading of Cao Cao's decision and should not be generalized into a universal rejection of Sunzi's returning-army maxim.
+- Transcript-sensitive names and minor military details remain source-scoped: Shen Pei, Shen Rong, and Xin Ping are normalized, while Ma Yan, Zhang Yi, Zhang Ziqian, Yangpingting, Qishan, and exact object lists need corroboration.
 
 ### Late Han 775 Deng He Harem And Education Prelude
 
