@@ -11,13 +11,14 @@ sources:
   - zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos
   - zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye
   - zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7
-last_updated: 2026-08-30
+  - zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r
+last_updated: 2026-09-05
 ---
 
 # 袁谭 / Yuan Tan
 
 ## Overview
-袁谭 / Yuan Tan is a [[YuanShao|袁绍]] son whose wiki profile spans Qingzhou proxy-war expansion, reputation decay after early success, pre-[[GuanduCampaign|官渡]] eastern pressure against [[CaoCao|曹操]], and the post-Yuan Shao succession conflict with [[YuanShang|袁尚]].
+袁谭 / Yuan Tan is a [[YuanShao|袁绍]] son whose wiki profile spans Qingzhou proxy-war expansion, reputation decay after early success, pre-[[GuanduCampaign|官渡]] eastern pressure against [[CaoCao|曹操]], and the post-Yuan Shao succession conflict with [[YuanShang|袁尚]]. Hanji 1061 adds that his outside-aid role becomes visibly distrusted when he secretly tries to pull Cao-side defectors toward himself.
 
 ## Current Profile
 Hanji 969 and Hanji 1007 introduce Yuan Tan as Yuan Shao's [[QingzhouLateHan|青州]]-side appointee. He fights [[TianKaiLateHan|田楷]], the [[GongsunZan|公孙瓒]]-aligned inspector, and later attacks [[KongRong|孔融]] in [[BeihaiCommandery|北海郡]]. Hanji 1007 says he first holds little more than the Pingyuan area but builds reputation through fighting Tian Kai and taking Beihai; the host then warns that pride, poor companions, and petty counsel damage that reputation.
@@ -34,6 +35,8 @@ Hanji 1059 keeps Yuan Tan at the point where fraternal rivalry has become outsid
 
 Hanji 1060 sharpens that route. [[XinPiLateHan|辛毗]] tells Cao Cao not to decide on the basis of Yuan Tan's trustworthiness; the request matters because it proves Yuan Tan is near collapse. Yuan Tan becomes the rear-pressure wedge in Xin Pi's plan: if Cao attacks [[YeLateHan|邺城]], Yuan Shang must either abandon the Yuan base or return and let Yuan Tan threaten him from behind.
 
+Hanji 1061 shows the trust problem becoming explicit. Cao Cao supports Yuan Tan, Yuan Shang withdraws toward Ye, and [[LyuKuangLateHan|吕旷]] with [[GaoXiangLateHan|高翔]] defect from Yuan Shang to Cao. Yuan Tan then secretly gives the defectors general seals to lure them toward himself. Cao Cao discovers the move, reads Yuan Tan as deceptive, and stabilizes him through the marriage of [[CaoZhengLateHan|曹整]] to Yuan Tan's daughter rather than through genuine confidence.
+
 ## Key Characteristics
 - Yuan Shao son and Qingzhou-side appointee whose early rise is tied to the Yuan Shao-Gongsun Zan rivalry.
 - Builds battlefield reputation through Tian Kai and Beihai operations, then loses moral-political credibility through pride and poor adviser selection.
@@ -41,7 +44,7 @@ Hanji 1060 sharpens that route. [[XinPiLateHan|辛毗]] tells Cao Cao not to dec
 - Eldest-son claimant disadvantaged by adoption out of the direct succession line and by Yuan Shang's fast installation at Ye.
 - Turns grievance into first open violence by killing Feng Ji after a troop request is refused.
 - Cooperates with Yuan Shang under Cao Cao's direct pressure, then resumes rivalry when trust and material support break down.
-- Becomes the claimant whose outside-aid request lets Cao Cao turn Yuan-family civil conflict into intervention, less as a trusted ally than as a desperate wedge against Yuan Shang.
+- Becomes the claimant whose outside-aid request lets Cao Cao turn Yuan-family civil conflict into intervention, and whose later secret seal-lure makes him a distrusted collaborator rather than a reliable ally.
 
 ## Evidence
 - Qingzhou appointment and proxy war: [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] places Yuan Tan as Yuan Shao's son and Qingzhou-side actor fighting Tian Kai.
@@ -52,15 +55,17 @@ Hanji 1060 sharpens that route. [[XinPiLateHan|辛毗]] tells Cao Cao not to dec
 - Temporary cooperation under pressure: [[zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye|Hanji 1056]] has Yuan Tan ask Yuan Shang for help when Cao Cao attacks, and Yuan Shang personally reinforces him.
 - Succession fault line and outside-aid threshold: [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] and [[zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos|Hanji 1059]] show the later armor dispute, ignored reconciliation counsel, and Xin Pi mission to Cao Cao.
 - Desperation as strategic evidence: [[zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7|Hanji 1060]] has Xin Pi argue that Yuan Tan's request proves he is at the end of his options and can be used to threaten Yuan Shang's rear if Cao Cao attacks Ye.
+- Distrusted collaboration: [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|Hanji 1061]] says Yuan Tan secretly grants seals to Lyu Kuang and Gao Xiang after they defect to Cao Cao; Cao discovers it and uses the Cao Zheng marriage tie to hold Yuan Tan temporarily.
 
 ## Qualifications
-Yuan Tan's page is not a full biography. The sources select him for Qingzhou proxy politics, reputation loss, Cao-side security calculations, and the later succession split. Hanji 1056 and Hanji 1058 show loyal figures and rational grievances around him, so his collapse should not be reduced to simple disloyalty; the stronger claim is that he cannot turn grievance, loyalty, and advice into a stable settlement. Hanji 1060 also does not prove Cao Cao trusts him; it uses his appeal as evidence of dependency and exhaustion.
+Yuan Tan's page is not a full biography. The sources select him for Qingzhou proxy politics, reputation loss, Cao-side security calculations, and the later succession split. Hanji 1056 and Hanji 1058 show loyal figures and rational grievances around him, so his collapse should not be reduced to simple disloyalty; the stronger claim is that he cannot turn grievance, loyalty, and advice into a stable settlement. Hanji 1060 also does not prove Cao Cao trusts him; it uses his appeal as evidence of dependency and exhaustion. Hanji 1061 confirms that Cao can use Yuan Tan while still distrusting him.
 
 ## What Changed
 - Added Hanji 1056's missing succession-origin layer: adoption out, distance from Ye, Yuan Shang's installation, and Yuan Tan's self-styled Liyang command.
 - Added Feng Ji's killing as Yuan Tan's first open violent break with Yuan Shang's camp.
 - Added temporary cooperation under Cao Cao's attack as the precondition for the later pressure-release reading.
 - Added Hanji 1060's refinement that Yuan Tan's request matters less as alliance trust than as proof of desperation and as a rear-pressure lever against Yuan Shang.
+- Added Hanji 1061's refinement that Yuan Tan's secret seal-lure damages Cao-side trust and turns the Cao Zheng marriage into tactical stabilization.
 
 ## Relationships
 - [[YuanShao|袁绍]] - father and power base behind Yuan Tan's Qingzhou appointment and later succession claim.
@@ -73,6 +78,9 @@ Yuan Tan's page is not a full biography. The sources select him for Qingzhou pro
 - [[QingzhouLateHan|青州]] - provincial base and later defection-anxiety setting.
 - [[LiyangYellowRiverLateHan|黎阳]] - Yellow River base where Yuan Tan holds the front after Yuan Shao's death.
 - [[CaoCao|曹操]] - enemy who becomes Yuan Tan's requested outside helper after the fraternal split.
+- [[LyuKuangLateHan|吕旷]] - defector Yuan Tan secretly tries to lure with a general seal.
+- [[GaoXiangLateHan|高翔]] - paired defector in Yuan Tan's secret seal maneuver.
+- [[CaoZhengLateHan|曹整]] - Cao Cao's son married to Yuan Tan's daughter as a stabilizing bond.
 - [[GuoJia|郭嘉]] - strategist who predicts Yuan Tan will fight Yuan Shang when pressure relaxes.
 - [[GuoTu|郭图]] - adviser who deepens Yuan Tan's resentment in Hanji 1058.
 - [[XinPingLateHan|辛评]] - adviser who helps blame Shen Pei for Yuan Tan's succession disadvantage.
@@ -82,3 +90,5 @@ Yuan Tan's page is not a full biography. The sources select him for Qingzhou pro
 - [[PressureReleaseInfightingStrategy|撤压诱发内斗]] - strategy that exploits Yuan Tan's rivalry with Yuan Shang.
 - [[MutualExhaustionThirdPartyGain|两败俱伤、旁人得利]] - pattern Liu Biao invokes to warn that Yuan Tan and Yuan Shang's fighting benefits Cao Cao.
 - [[DisorderCollapseExploitation|取乱侮亡]] - Hanji 1060 pattern that treats Yuan Tan's dependence as one sign of Yuan-family collapse.
+- [[MarriageAllianceWarExposure|联姻同盟战场暴露]] - concept extended by Cao Cao's use of Cao Zheng's marriage to manage Yuan Tan.
+- [[TacticalCredibilityCost|战术信用成本]] - concept illustrated by Yuan Tan's small maneuver spending future trust.

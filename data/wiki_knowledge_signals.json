@@ -8141,6 +8141,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/caotenglatehan/"
     },
+    "CaoZhengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/caozhenglatehan/"
+    },
     "CaoZongLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -23446,6 +23462,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/gaolunlatehan/"
     },
+    "GaoXiangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/gaoxianglatehan/"
+    },
     "Gaode": {
       "episode_count": 2,
       "show_count": 2,
@@ -26063,6 +26095,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/hancavalryformation/"
     },
+    "HanFanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/hanfanlatehan/"
+    },
     "HanLengEasternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -26539,6 +26587,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/hekui/"
+    },
+    "HeQiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/heqilatehan/"
     },
     "HeSongEasternHan": {
       "episode_count": 1,
@@ -28174,9 +28238,9 @@
       "url": "/wiki/entities/huangyunlatehan/"
     },
     "HuangZu": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人 [ltRzPchWDfcyp4NTmUm9Giu-5mVa].md",
@@ -28198,9 +28262,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/huangzu/"
     },
     "HuangfuGuiLateHan": {
@@ -34485,6 +34556,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/liangjinlatehan/"
     },
+    "LiangQiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/liangqilatehan/"
+    },
     "LiangShangLateHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -38251,6 +38338,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/lyubu/"
     },
+    "LyuKuangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/lyukuanglatehan/"
+    },
     "LyuMeng": {
       "episode_count": 1,
       "show_count": 1,
@@ -39280,6 +39383,29 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/marquisdelafayette/"
+    },
+    "MarriageAllianceWarExposure": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1016丨三国乱世里，陈珪家族的命运抉择 [ltUckdCxpYxK-XmzP8Rt_2gJfZcs].md",
+          "key": "zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1016丨三国乱世里，陈珪家族的命运抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/marriagealliancewarexposure/"
     },
     "MarthaWashington": {
       "episode_count": 1,
@@ -52568,6 +52694,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/shanxiayousong/"
     },
+    "Shanyue": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
+          "key": "zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/shanyue/"
+    },
     "ShaodangQiang": {
       "episode_count": 8,
       "show_count": 1,
@@ -55232,6 +55381,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/sumaoeasternhan/"
     },
+    "SuYouLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/suyoulatehan/"
+    },
     "SuZhangLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -55371,9 +55536,9 @@
       "url": "/wiki/concepts/successfulaging/"
     },
     "SuccessionAuthorityConsolidation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
@@ -55395,9 +55560,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/successionauthorityconsolidation/"
     },
     "SuccessionLegitimacyPurge": {
@@ -55900,9 +56072,9 @@
       "url": "/wiki/entities/sunfulatehan/"
     },
     "SunQuan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
@@ -55945,9 +56117,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/sunquan/"
     },
     "SunShengEasternJin": {
@@ -56502,6 +56681,50 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/tacitgratituderestraint/"
+    },
+    "TacticalCredibilityCost": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》74丨还原完璧归赵真相！ [lg1IrVBBC1Wp8oPh2kMpAtfoXebK].md",
+          "key": "zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》74丨还原完璧归赵真相！",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》62丨稷儿，诓你舅舅的“腿”啊 [luMcH-iBj8M94ABJH5Nvr3qHIQFf].md",
+          "key": "zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》62丨稷儿，诓你舅舅的“腿”啊",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》50丨张仪是怎样把楚怀王忽悠瘸的 [loXg3yLHmSkVdM_axtCo5Y-acEgE].md",
+          "key": "zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》50丨张仪是怎样把楚怀王忽悠瘸的",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》23丨魏惠王 悔不用公叔之言 [lveaQKLo7OnCMQUdGmDk7l03qhSF].md",
+          "key": "zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》23丨魏惠王 悔不用公叔之言",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/tacticalcredibilitycost/"
     },
     "TacticalDelayRiskTransfer": {
       "episode_count": 2,
@@ -63740,9 +63963,9 @@
       "url": "/wiki/entities/xugonglatehan/"
     },
     "XuHuangCaoGeneral": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
@@ -63750,9 +63973,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/xuhuangcaogeneral/"
     },
     "XuHuangLateHan": {
@@ -65145,6 +65375,36 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/yaosongeasternhan/"
     },
+    "YeLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？ [lphEE8cJ_7GcMG-CyNpIPHJVaUuF].md",
+          "key": "zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》970丨袁绍暗杀吕布，为何会失败？ [ln2pnVIt_qgpNHN-PnE7o-P1IRrS].md",
+          "key": "zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》970丨袁绍暗杀吕布，为何会失败？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/yelatehan/"
+    },
     "YidaiZhao": {
       "episode_count": 1,
       "show_count": 1,
@@ -65876,9 +66136,9 @@
       "url": "/wiki/entities/yuanlanglatehan/"
     },
     "YuanShang": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
@@ -65907,15 +66167,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1060丨害死袁绍后，曹操为何转头支援他的长子？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/yuanshang/"
     },
     "YuanTan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
@@ -65965,9 +66232,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1060丨害死袁绍后，曹操为何转头支援他的长子？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
+          "key": "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/yuantan/"
     },
     "YuanYinLateHan": {

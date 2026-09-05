@@ -9083,6 +9083,10 @@
     "title": "曹寅 / Cao Yin (late Han)",
     "url": "/wiki/entities/caoyinlatehan/"
   },
+  "CaoZhengLateHan": {
+    "title": "曹整 / Cao Zheng (late Han)",
+    "url": "/wiki/entities/caozhenglatehan/"
+  },
   "CaoZongLateHan": {
     "title": "曹宗 / Cao Zong (late Han)",
     "url": "/wiki/entities/caozonglatehan/"
@@ -21455,6 +21459,10 @@
     "title": "高顺 / Gao Shun",
     "url": "/wiki/entities/gaoshun/"
   },
+  "GaoXiangLateHan": {
+    "title": "高翔 / Gao Xiang (late Han)",
+    "url": "/wiki/entities/gaoxianglatehan/"
+  },
   "GaoXinWarringStates": {
     "title": "高信 / Gao Xin (Warring States)",
     "url": "/wiki/entities/gaoxinwarringstates/"
@@ -23595,6 +23603,10 @@
     "title": "韩当 / Han Dang",
     "url": "/wiki/entities/handang/"
   },
+  "HanFanLateHan": {
+    "title": "韩范 / Han Fan (late Han)",
+    "url": "/wiki/entities/hanfanlatehan/"
+  },
   "HanFei": {
     "title": "Han Fei / 韩非",
     "url": "/wiki/entities/hanfei/"
@@ -24098,6 +24110,10 @@
   "HeMiaoLateHan": {
     "title": "何苗 / He Miao (late Han)",
     "url": "/wiki/entities/hemiaolatehan/"
+  },
+  "HeQiLateHan": {
+    "title": "贺齐 / He Qi (late Han)",
+    "url": "/wiki/entities/heqilatehan/"
   },
   "HeQianran": {
     "title": "何倩然 / He Qianran",
@@ -31839,6 +31855,10 @@
     "title": "梁龙 / Liang Long (late Han)",
     "url": "/wiki/entities/lianglonglatehan/"
   },
+  "LiangQiLateHan": {
+    "title": "梁岐 / Liang Qi (late Han)",
+    "url": "/wiki/entities/liangqilatehan/"
+  },
   "LiangQichao": {
     "title": "梁启超",
     "url": "/wiki/entities/liangqichao/"
@@ -33794,6 +33814,10 @@
   "LyuBuFactionalBalance": {
     "title": "Lü Bu Factional Balance / 吕布集团派系平衡",
     "url": "/wiki/concepts/lyubufactionalbalance/"
+  },
+  "LyuKuangLateHan": {
+    "title": "吕旷 / Lyu Kuang (late Han)",
+    "url": "/wiki/entities/lyukuanglatehan/"
   },
   "LyuMeng": {
     "title": "吕蒙 / Lyu Meng",
@@ -51219,6 +51243,10 @@
     "title": "苏洵 / Su Xun",
     "url": "/wiki/entities/suxun/"
   },
+  "SuYouLateHan": {
+    "title": "苏由 / Su You (late Han)",
+    "url": "/wiki/entities/suyoulatehan/"
+  },
   "SuYu": {
     "title": "Su Yu / 苏煜",
     "url": "/wiki/entities/suyu/"
@@ -66478,6 +66506,10 @@
   "zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7": {
     "title": "《资治通鉴·汉纪》1060丨害死袁绍后，曹操为何转头支援他的长子？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7/"
+  },
+  "zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r": {
+    "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
   },
   "zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo": {
     "title": "《资治通鉴·汉纪》139｜“他”再次影响“汉朝”",

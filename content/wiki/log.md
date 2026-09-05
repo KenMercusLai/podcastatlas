@@ -15240,6 +15240,10 @@ Ingested the 2026-09-03 The Intelligence episode on Donald Trump's quieter but s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-05] ingest | 《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？
+
+Ingested the 2026-09-04 芮淇讲透资治通鉴 episode on Yuan Tan's secret seal-lure after Lyu Kuang and Gao Xiang defect, Cao Cao's Cao Zheng marriage tie, Sun Quan's Huang Zu attack and Shanyue pacification through He Qi and county-level commanders, Cao Cao's Ye logistics, and Xu Huang's surrender-reward advice. Added source `zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r`; created `CaoZhengLateHan`, `HeQiLateHan`, `LyuKuangLateHan`, `GaoXiangLateHan`, `SuYouLateHan`, `HanFanLateHan`, and `LiangQiLateHan`; updated `YuanTan`, `YuanShang`, `SunQuan`, `HuangZu`, `XuHuangCaoGeneral`, `YeLateHan`, `Shanyue`, `SuccessionAuthorityConsolidation`, `MarriageAllianceWarExposure`, `TacticalCredibilityCost`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; minor place names, exact local-office readings, Cao Zheng's broader biography, and transcript-sensitive local details remain source-scoped.
+
 ## [2026-09-05] ingest | Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia
 
 Ingested the 2023-03-20 Huberman Lab episode with Peter Attia on lifespan, physical/cognitive/emotional healthspan, ApoB, blood pressure, cancer screening, dementia risk, exercise pillars, deaths of despair, fentanyl and counterfeit pill risk, and emotional health. Added source `improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956`; created `PeterAttia`, `HealthspanThreeDomains`, `ApoBParticleBurden`, `AtherosclerosisPreventionTargets`, `CancerScreeningBurdenTradeoff`, `NeurodegenerativeRiskLevers`, `ExercisePillarsForLongevity`, `EmotionalHealthLongevity`, and `DeathsOfDespairCounterfeitPillRisk`; updated `HubermanLab`, `AndrewHuberman`, `Outlive`, `index`, and `overview`. No settled contradiction found; ApoB targets, lipid medications, screening technologies, hyperbaric oxygen, exercise programming, alcohol risk, therapy, DBT, and overdose-risk claims remain source-scoped public education, and the source-local "Peter Atiyah" spelling is normalized to Peter Attia.
@@ -15365,6 +15369,10 @@ Ingested the 2023-03-20 The Rest Is History episode grounding Atlantis in Plato'
 ## [2026-09-05] ingest | VOL.30泌尿外科｜女性泌尿系统的常见问题、谣言及误区
 
 Ingested the 2023-03-16 这病说来话长 urology episode with 赵医生 on female urinary-health misconceptions, stress urinary incontinence, pregnancy urinalysis, urinary-tract infection behavior, clothing and tampon myths, hydration, abdominal-pain sorting, and clinical-care thresholds. Added source `vol-30-miniao-waike-nvxing-miniao-xitong-de-changjian-wenti-yaoyan-ji-wuqu-lmeg-qk-dio77mj7retw0qoyoop-o`; created `FemaleUrologicalHealthMisconceptions`, `StressUrinaryIncontinence`, `UrinaryTractInfectionBehaviorBoundary`, and `PregnancyUrinalysisTriage`; updated `ZhaoDoctorUrology`, `ZheBingShuoLaiHuaChang`, `UrologicalSymptomTriage`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; incidence estimates, urine markers, infection behavior, hygiene and product claims, and abdominal-pain sorting remain source-scoped.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-05] lint | Wiki health check
 

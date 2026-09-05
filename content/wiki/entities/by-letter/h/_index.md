@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8946
+wiki_total_pages: 8953
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1088,6 +1088,9 @@ wiki_pages:
   - key: "Haoda"
     title: "豪大"
     url: "/wiki/entities/haoda/"
+  - key: "HeQiLateHan"
+    title: "贺齐 / He Qi (late Han)"
+    url: "/wiki/entities/heqilatehan/"
   - key: "Handan"
     title: "邯郸 / Handan"
     url: "/wiki/entities/handan/"
@@ -1199,6 +1202,9 @@ wiki_pages:
   - key: "HanYinLateHan"
     title: "韩胤 / Han Yin (late Han)"
     url: "/wiki/entities/hanyinlatehan/"
+  - key: "HanFanLateHan"
+    title: "韩范 / Han Fan (late Han)"
+    url: "/wiki/entities/hanfanlatehan/"
   - key: "HanRongLateHan"
     title: "韩融 / Han Rong (late Han)"
     url: "/wiki/entities/hanronglatehan/"

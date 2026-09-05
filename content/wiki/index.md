@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？](sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r.md) — 芮淇讲透资治通鉴 episode on Yuan Tan's secret seal-lure, Cao Zheng's marriage tie, Yuan Shang's exposed Ye defense, Sun Quan's Shanyue pacification, and Xu Huang's surrender-reward advice.
 - [Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia](sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956.md) — Huberman Lab episode with Peter Attia on healthspan, ApoB, blood pressure, cancer screening, dementia risk, exercise pillars, deaths of despair, and emotional health.
 - [VOL.30泌尿外科｜女性泌尿系统的常见问题、谣言及误区](sources/vol-30-miniao-waike-nvxing-miniao-xitong-de-changjian-wenti-yaoyan-ji-wuqu-lmeg-qk-dio77mj7retw0qoyoop-o.md) — 这病说来话长 episode with 赵医生 on female urinary-health misconceptions, stress urinary incontinence, pregnancy urinalysis, urinary-tract infection behavior, clothing and tampon myths, hydration, and when abdominal or urinary symptoms need clinical care.
 - [VOL.31泌尿外科｜关于尿频、尿液黄、结石、男性前列腺的那些谣言及误区](sources/vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y.md) — 这病说来话长 episode with 赵医生 on male urinary-health misconceptions, urinary frequency and urine color, PSA interpretation, kidney stones, renal findings, foreskin hygiene, foreign-body emergencies, and when symptoms need regular clinical care.
@@ -1925,6 +1926,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [曹整 / Cao Zheng (late Han)](entities/CaoZhengLateHan.md) — Cao Cao's son used as the marriage tie that temporarily stabilizes Yuan Tan after Cao detects Yuan Tan's secret seal-lure.
+- [贺齐 / He Qi (late Han)](entities/HeQiLateHan.md) — Sun Quan's pacification officer who suppresses Jian'an, Hanxing, and Nanping rebellions, rebuilds county seats, selects troops, and strengthens Jiangdong control.
+- [吕旷 / Lyu Kuang (late Han)](entities/LyuKuangLateHan.md) — Yuan Shang subordinate who defects to Cao Cao and becomes part of Yuan Tan's secret seal-lure episode.
+- [高翔 / Gao Xiang (late Han)](entities/GaoXiangLateHan.md) — Yuan Shang subordinate paired with Lyu Kuang in the defection and seal-lure episode.
+- [苏由 / Su You (late Han)](entities/SuYouLateHan.md) — Ye defender whose failed insider plan for Cao Cao exposes internal weakness in Yuan Shang's city defense.
+- [韩范 / Han Fan (late Han)](entities/HanFanLateHan.md) — Yiyang county chief whose surrender is rewarded after Xu Huang argues that other counties are watching.
+- [梁岐 / Liang Qi (late Han)](entities/LiangQiLateHan.md) — She county chief whose surrender is paired with Han Fan in Cao Cao's Ye-campaign reward signal.
 - [Peter Attia](entities/PeterAttia.md) — Physician and longevity author featured in Huberman Lab on healthspan, prevention, exercise capacity, and emotional health.
 - [赵医生 / Doctor Zhao (Urology)](entities/ZhaoDoctorUrology.md) — Source-scoped urology guest in VOL.30 and VOL.31 explaining female and male urinary symptoms, pregnancy urinalysis, prostate screening interpretation, renal findings, hygiene, and when self-care should become clinical care.
 - [Atlantis](entities/Atlantis.md) — Mythic island tracked from Plato's political warning into reception, pseudohistory, nationalism, esotericism, Santorini theories, and advanced lost-civilization claims.
@@ -3043,7 +3051,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [官渡之战 / Guandu Campaign](entities/GuanduCampaign.md) — Cao Cao-Yuan Shao confrontation spanning prewar setup, White Horse/Yanjin preliminary shocks, the Wuchao logistics strike, Zhang He and Gao Lan's surrender, and post-victory stabilization.
 - [乌巢夜袭 / Wuchao Raid (late Han)](entities/WuchaoRaidLateHan.md) — Decisive Guandu raid where Cao Cao uses Xu You's intelligence to burn Yuan Shao's grain depot and trigger Yuan-camp collapse.
 - [韩猛 / Han Meng (late Han)](entities/HanMengLateHan.md) — Yuan Shao convoy commander defeated by Xu Huang and Shi Huan in the pre-Wuchao Guandu logistics struggle.
-- [徐晃 / Xu Huang (Cao general)](entities/XuHuangCaoGeneral.md) — Cao-side general who helps intercept Han Meng's convoy at Guandu, disambiguated from the eunuch 徐璜.
+- [徐晃 / Xu Huang (Cao general)](entities/XuHuangCaoGeneral.md) — Cao-side general who intercepts Han Meng's convoy at Guandu and later advises rewarding county surrenders during the Ye campaign.
 - [史涣 / Shi Huan (late Han)](entities/ShiHuanLateHan.md) — Cao-side officer paired with Xu Huang in the attack on Han Meng's convoy.
 - [蒋奇 / Jiang Qi (late Han)](entities/JiangQiLateHan.md) — Yuan-side commander named in Ju Shou's unadopted proposal to guard Chunyu Qiong's grain convoy.
 - [白马之围 / White Horse Relief (late Han)](entities/BaimaReliefLateHan.md) — Pre-Guandu relief action where Cao Cao uses a Yellow River rear-threat feint to divide Yuan Shao's force before Guan Yu kills Yan Liang.
@@ -3057,7 +3065,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨阜 / Yang Fu (late Han)](entities/YangFuLateHan.md) — Liangzhou/Guanzhong official whose pre-Guandu assessment favors Cao Cao over Yuan Shao on decisiveness, law, army strength, and talent use.
 - [魏觊 / Wei Ji (late Han)](entities/WeiJiLateHan.md) — Hedong official whose Guanzhong plan uses salt revenue, farming tools, oxen, and Sili Xiaowei presence to settle refugees and limit local generals before Guandu.
 - [鲁肃 / Lu Su](entities/LuSu.md) — Future Eastern Wu adviser whose profile runs from leaving Yuan Shu with Zhou Yu to presenting Sun Quan with the Ta Shang Ce two-part Yangtze strategy.
-- [山越 / Shanyue](entities/Shanyue.md) — Mountain-based Jiangdong local-force field that Yuan Shu tries to mobilize through Zu Lang and that also supports Taishi Ci before Sun Ce's consolidation.
+- [山越 / Shanyue](entities/Shanyue.md) — Mountain-based Jiangdong local-force field that supports resistance and later forces Sun Quan into county-level pacification through officers and He Qi.
 - [孙翊 / Sun Yi (late Han)](entities/SunYiLateHan.md) — Sun-family son named in Hanji 982 and added by Hanji 1028 to Cao Cao's hostage-like court-service leverage over Sun Ce.
 - [关静 / Guan Jing (Late Han)](entities/GuanJingLateHan.md) — Gongsun Zan adviser whose Yijing warning and final loyalist death expose command trust after the fortress falls.
 - [公孙旭 / Gongsun Xu (Late Han)](entities/GongsunXuLateHan.md) — Gongsun Zan's son sent for Black Mountain help and later tied to the failed fire-signal relief plan at Yijing.
@@ -3426,7 +3434,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [于毒 / Yu Du (Late Han)](entities/YuDuLateHan.md) — Black Mountain figure tied to Cao Cao's Dong Wuyang-Neihuang maneuver and Yuan Shao's later retaliatory mountain campaign.
 - [陶生 / Tao Sheng (Late Han)](entities/TaoShengLateHan.md) — Black Mountain-linked commander who protects Yuan Shao's household and state officials' families during the Ye crisis.
 - [魏郡 / Wei Commandery (Late Han)](entities/WeiCommanderyLateHan.md) — Commandery whose soldier revolt joins Yu Du's Black Mountain force and attacks Yuan Shao's Ye base.
-- [邺城 / Ye (Late Han)](entities/YeLateHan.md) — Yuan Shao's late-Han headquarters city threatened during the Wei Commandery and Black Mountain crisis.
+- [邺城 / Ye (Late Han)](entities/YeLateHan.md) — Yuan Shao's late-Han headquarters city, first threatened by Wei Commandery and Black Mountain violence and later besieged by Cao Cao during the Yuan split.
 - [长平观之战 / Changpingguan Battle (late Han)](entities/ChangpingguanBattleLateHan.md) — 194 CE battle where Li Jue's side defeats Ma Teng and Han Sui, after which Han Sui's friendly contact with Fan Chou becomes a later suspicion seed.
 - [王美人 / 灵怀皇后 (late Han)](entities/WangMeirenLateHan.md) — Emperor Xian's mother, reburied and posthumously honored in Hanji 973 before the court's military weakness becomes the main story.
 - [田楷 / Tian Kai (late Han)](entities/TianKaiLateHan.md) — Gongsun Zan-aligned Qingzhou inspector whose Yuan-side proxy war ends in defeat and death.
@@ -3499,7 +3507,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吴夫人 / Lady Wu (Sun Jian)](entities/LadyWuSunJian.md) — Sun Jian's Qiantang Wu-clan wife who bridges Jiangdong resources, restrains Sun Ce, stabilizes Sun Quan's succession, and endorses Zhou Yu's anti-hostage counsel.
 - [钱塘吴氏 / Qiantang Wu Clan](entities/QiantangWuClan.md) — Lady Wu's family network linking Qiantang trade, water routes, gentry standing, and Danyang military resources to the Sun household.
 - [董袭 / Dong Xi (late Han)](entities/DongXiLateHan.md) — Sun-family military officer whose reassurance to Lady Wu makes Jiangdong's succession confidence legible after Sun Ce's death.
-- [孙权 / Sun Quan](entities/SunQuan.md) — Sun Jian and Lady Wu's son whose profile moves from protected young successor into autonomy-preserving, talent-aware ruler and internal threat suppressor.
+- [孙权 / Sun Quan](entities/SunQuan.md) — Sun Jian and Lady Wu's son whose profile moves from protected young successor into autonomy-preserving, talent-aware ruler, internal threat suppressor, and Jiangdong pacifier.
 - [吕蒙 / Lyu Meng](entities/LyuMeng.md) — Sun Quan subordinate whose early profile comes from inspected troop discipline and promotion after Sun Quan reviews inherited commanders.
 - [骆统 / Luo Tong](entities/LuoTong.md) — Luo Jun's son and Jiangdong adviser whose counsel turns respect, feasts, inquiry, and speech into a talent-observation channel for Sun Quan.
 - [吴郡 / Wu Commandery (late Han)](entities/WuCommanderyLateHan.md) — Late-Han Jiangdong commandery and Sun-family transition center where Zhou Yu remains with Zhang Zhao after Sun Ce's death.
@@ -3862,8 +3870,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [董承 / Dong Cheng (late Han)](entities/DongChengLateHan.md) — Court-side actor who remains with Han Xian in ruined Luoyang, later appeals against him, and gives Cao Cao an overt reason to enter.
 - [洛阳 / Luoyang (late Han)](entities/LuoyangLateHan.md) — Damaged imperial city whose burned palaces, starving officials, weak supplies, and unstable military surroundings make the Xu relocation plausible.
 - [孙静 / Sun Jing (late Han)](entities/SunJingLateHan.md) — Sun Ce's uncle and Kuaiji campaign adviser whose detour-and-rear-attack plan breaks Wang Lang's Guling defense.
-- [袁谭 / Yuan Tan](entities/YuanTan.md) — Yuan Shao son whose Qingzhou base, succession grievance, and desperate request for Cao Cao's aid make him a wedge against Yuan Shang.
-- [袁尚 / Yuan Shang](entities/YuanShang.md) — Yuan Shao son privately favored and factionally installed, whose rivalry with Yuan Tan leaves him vulnerable to Xin Pi's Ye-centered dilemma.
+- [袁谭 / Yuan Tan](entities/YuanTan.md) — Yuan Shao son whose Qingzhou base, succession grievance, outside-aid request, and secret seal-lure make him Cao Cao's useful but distrusted wedge against Yuan Shang.
+- [袁尚 / Yuan Shang](entities/YuanShang.md) — Yuan Shao son privately favored and factionally installed, whose rivalry with Yuan Tan turns into retreat, defection, and exposed Ye defense under Cao Cao's pressure.
 - [王修 / Wang Xiu (late Han)](entities/WangXiuLateHan.md) — Yuan Tan-side adviser who urges reconciliation with Yuan Shang before the fraternal split hardens.
 - [管统 / Guan Tong (late Han)](entities/GuanTongLateHan.md) — Donglai official whose costly loyalty to Yuan Tan survives a Qingzhou defection wave.
 - [辛毗 / Xin Pi (late Han)](entities/XinPiLateHan.md) — Xin Ping's younger brother and Yuan Tan envoy who persuades Cao Cao to exploit Yuan-family exhaustion through the Hebei opening.
@@ -3885,7 +3893,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [安重 / Anzhong (late Han)](entities/AnzhongLateHan.md) — Late-Han battlefield-place where Zhang Xiu and Liu Biao block Cao Cao's retreat before Cao Cao turns the pressure into a false-escape ambush.
 - [穰城 / Rangcheng](entities/Rangcheng.md) — Nanyang city where Zhang Ji dies attacking in Hanji 1010, opening Liu Biao's mourning-framed absorption of the remaining troops.
 - [祢衡 / Mi Heng (Late Han)](entities/MiHengLateHan.md) — Late-Han scholar whose talent, insults, naked drumming, and death through Cao Cao-Liu Biao-Huang Zu transfer anchor the Hanji 1011 borrowed-knife case.
-- [黄祖 / Huang Zu](entities/HuangZu.md) — Jiangxia official in Liu Biao's orbit, endpoint of the Mi Heng borrowed-knife chain and later defeated by Sun Ce after aiding Liu Xun.
+- [黄祖 / Huang Zu](entities/HuangZu.md) — Jiangxia official in Liu Biao's orbit, endpoint of the Mi Heng borrowed-knife chain, defeated by Sun Ce, and later spared by Shanyue disruption of Sun Quan's attack.
 - [蒯越 / Kuai Yue](entities/KuaiYue.md) — Jingzhou elite figure normalized from "款越/款月", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the offended circle around 祢衡.
 - [蔡瑁 / Cai Mao](entities/CaiMao.md) — Jingzhou elite figure normalized from "蔡茂", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the local pressure before 祢衡's transfer to Huang Zu.
 - [关羽 / Guan Yu](entities/GuanYu.md) — Liu Bei-aligned general whose Romance memory is source-bounded, while Hanji 1041-1044 frame his Cao-camp period as captive service, White Horse repayment, gift sealing, and return toward Liu Bei.
@@ -11949,7 +11957,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mingqi Legitimacy / 名器合法性](concepts/MingqiLegitimacy.md) — Late-Han title-and-symbol legitimacy frame where prophecies, seals, imperial names, official appointments, and refusal of office alter political risk.
 - [朝廷名义高于主君私属 / Court Legitimacy Over Patron Loyalty](concepts/CourtLegitimacyOverPatronLoyalty.md) — Hanji 1036-1037 loyalty-priority conflict where Han Song treats the recognized court's duty as higher than Liu Biao's personal authority.
 - [守职胜私命 / Official Duty Over Patron Command](concepts/OfficialDutyOverPatronCommand.md) — Cheng Ji pattern where official duty blocks an immediate patron's unrighteous mobilization order.
-- [Marriage Alliance War Exposure / 联姻同盟战场暴露](concepts/MarriageAllianceWarExposure.md) — Hanji 1016 pattern where a marriage alliance would move Yuan Shu's war and legitimacy costs onto Lü Bu and Xuzhou.
+- [Marriage Alliance War Exposure / 联姻同盟战场暴露](concepts/MarriageAllianceWarExposure.md) — Pattern where marriage alliance changes military and political risk, either moving exposure onto a recipient or stabilizing a mistrusted collaborator.
 - [轻于去就 / Qing Yu Qu Jiu](concepts/QingYuQuJiu.md) — Hanji 1017 unstable-affiliation concept where a capable actor treats camps, patrons, jobs, or commitments too lightly.
 - [饥附饱扬 / Ji Fu Bao Yang](concepts/JiFuBaoYang.md) — Hanji 1018 dependency pattern where a dangerous actor attaches while needy and leaves once secure.
 - [Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性](concepts/InterestStructuredAllianceFragility.md) — Pattern where coalitions with troops and commanders remain brittle because prestige, suspicion, scarcity, legitimacy, and spoils can re-sort members.
@@ -11993,7 +12001,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Conceded Kingship Stabilization / 让封真王式稳局](concepts/ConcededKingshipStabilization.md) — Liu Bang's forced title concession to Han Xin, granting real Qi kingship to preserve alignment when denial would expose weakness.
 - [Tripartite Balance Strategy / 三分天下式制衡](concepts/TripartiteBalanceStrategy.md) — Wu She and Kuai Che's Hanji 165 proposal that Han Xin preserve Qi, Zhao, and Yan as a third pole between Liu Bang and Xiang Yu for self-protection.
 - [统帅连续性危机处置 / Command Continuity Damage Control](concepts/CommandContinuityDamageControl.md) — pattern where injury, disappearance, assassination, rumored death, or death of a commander is prevented from becoming command collapse by concealment, rumor control, field handoff, proxy visibility, or successor action.
-- [继位权威整合 / Succession Authority Consolidation](concepts/SuccessionAuthorityConsolidation.md) — Pattern where a new ruler turns inherited title into practical control through external breathing room, adviser support, autonomy choices, talent recognition, and selective coercion.
+- [继位权威整合 / Succession Authority Consolidation](concepts/SuccessionAuthorityConsolidation.md) — Pattern where a new ruler turns inherited title into practical control through breathing room, adviser support, autonomy choices, talent recognition, coercion, and local pacification.
 - [榻上策二分天下 / Ta Shang Ce Bipartite Strategy](concepts/TaShangCeBipartiteStrategy.md) — Lu Su's Hanji 1052 plan for Sun Quan to hold Jiangdong, control the Yangtze, and pursue a two-part天下 before later three-kingdom constraints.
 - [名声约束下的战争节制 / Reputation-Constrained War Restraint](concepts/ReputationConstrainedWarRestraint.md) — Pattern where mourning, reputation, public burden, disaster anxiety, fiscal strain, frontier balance, and enemy-creation risk delay, restrain, or argue against opportunistic attack.
 - [Legitimacy Indictment Warfare / 正当性控诉战](concepts/LegitimacyIndictmentWarfare.md) — Pattern where spoken or written accusations recast a rival as a public wrongdoer, from Liu Bang's anti-Xiang Yu speech to Chen Lin's anti-Cao proclamation.
@@ -12418,7 +12426,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [People-Based Political Security / 民心型政治安全](concepts/PeopleBasedPoliticalSecurity.md) — Pattern where popular regard, local protection, elite acceptance, and internal adviser support become practical safety infrastructure, with Xuzhou as a negative late-Han atrocity case.
 - [Power Exit Trap / 权力退场困境](concepts/PowerExitTrap.md) — Pattern where disruptive success, partial abdication, ruler suspicion, exposed humiliations, decisive military merit, or late recognition of missed exits make staying, leaving, or appearing fully capable dangerous.
 - [Textual Variant Political Stakes / 史书异文政治重量](concepts/TextualVariantPoliticalStakes.md) — Source-critical concept for wording and narrative differences that alter political diagnosis, responsibility, legitimacy, or harm.
-- [Tactical Credibility Cost / 战术信用成本](concepts/TacticalCredibilityCost.md) — Strategy concept distinguishing reusable deception from one-shot tricks that spend down the deceiver's personal trust.
+- [Tactical Credibility Cost / 战术信用成本](concepts/TacticalCredibilityCost.md) — Strategy concept distinguishing reusable deception from tricks, promises, and alliance maneuvers that spend down future trust.
 - [Legalist Self-Binding Backfire / 作法自毙](concepts/LegalistSelfBindingBackfire.md) — Legalist irony where harsh, low-discretion rules later trap the reformer who designed them.
 - [Peace-Parley Entrapment / 和谈诱捕](concepts/PeaceParleyEntrapment.md) — Battlefield-deception pattern where friendship, oath, banquet, and peace language isolate a commander for capture.
 - [Farming-War Statecraft / 耕战逻辑](concepts/FarmingWarStatecraft.md) — Qin reform logic routing state capacity and elite advancement through agriculture and war, with battlefield merit as the higher-reward channel.
