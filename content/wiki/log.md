@@ -15428,6 +15428,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-06] ingest | 《资治通鉴·汉纪》1064丨许攸之死：功高震主与性格缺陷的悲歌
+
+Ingested the 2026-09-04 芮淇讲透资治通鉴 episode on Qian Zhao's submission after Yuan Shang's flight, Cui Yan's people-first rebuke of Cao Cao's Jizhou conscription priority, and Xu You's death after publicly overclaiming credit for Cao Cao's acquisition of Jizhou. Added source `zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth`; updated `XuYouLateHan`, `CuiYanLateHan`, `QianZhaoLateHan`, `SuperiorCreditConflictRisk`, `index`, and `overview`. No settled contradiction found; the workplace-boundary framing, Cao Cao's exact legal pretext against Xu You, Cui Yan's later death preview, and Qian Zhao's broader frontier biography remain source-scoped.
+
 ## [2026-09-06] ingest | 《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？
 
 Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Wang Xiu burying Yuan Tan after defeat, protecting Guan Tong as a loyal former retainer, Cao Cao recruiting former Yuan-side regional talent, and Chen Lin surrendering after the anti-Cao proclamation. Added source `zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf`; updated `ChenLinLateHan`, `WangXiuLateHan`, `GuanTongLateHan`, `CapturedOpponentTalentIncorporation`, and `index`. No settled contradiction found; the leadership "three degrees" frame, Wang Xiu's act as political performance, and Cao Cao's motives in pardon and appointment remain source-scoped.
@@ -15443,6 +15447,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-06] ingest | 《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操
 
 Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Yuan Xi and Yuan Shang fleeing toward Wuhuan, Jiao Chu and Zhang Nan coercing Youzhou officials into a Cao-side blood oath, Han Heng refusing the oath, Zhang Yan's formal Black Mountain surrender, Youzhou/Wuhuan instability, Gao Gan's renewed Bingzhou rebellion, and Xun Yu recommending Du Ji for Hedong. Added source `zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o`; created `YuanXiLateHan`, `LiuFangLateHan`, `WangSongLateHan`, `JiaoChuLateHan`, `ZhangNanLateHan`, `HanHengLateHan`, `ZhaoDuLateHan`, `HuoNuLateHan`, `DuJiLateHan`, `WangYiHedongLateHan`, `WeiGuLateHan`, `FanXianLateHan`, `ZhangShengLateHan`, `ZhangYanHedongLateHan`, `LoyalRefusalLegitimacySignal`, and `TransitHubCommanderyControl`; updated `GaoGanLateHan`, `ZhangYanLateHan`, and `index`. No settled contradiction found; 张南/张衍/王邑 are disambiguated from existing routes, and minor official identities, Kuangping geography, and motive readings remain source-scoped.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-06] lint | Wiki health check
 

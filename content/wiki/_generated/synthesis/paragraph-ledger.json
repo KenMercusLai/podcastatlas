@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "2fabc9556d637f66f8554a09deea7153cb19cbd74cad3d1dcef7fe29c53af29a",
       "6dfa974bf238032d37185ab962468f4159fa3b71b3c1e5919c7f138095ee6c16",
       "d15d79f2729610864208ba297a4a892d589c48a1e42026732d0579b1deb686cb",
       "3185684dd262b765f009960f1ad8e99033098a66e14a6da3b4565bc239213c78",
@@ -546,11 +547,31 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 544
+    "paragraph_count": 545
   },
-  "overview_commit": "a5d941535c807f249abec02d889dec6954bdf99b",
-  "overview_digest": "f8cf33cf7297ea230357600a28685deca8c248a57c9c43c0abcd6b9202740d0f",
+  "overview_commit": "48238b44cc2a67e221c7daa0e13b09b8dd9a940c",
+  "overview_digest": "3750020fcc89b20a804d3a682897a475f648b7c01967c0d716fc1301dd241a8a",
   "paragraphs": [
+    {
+      "id": "2fabc9556d637f66f8554a09deea7153cb19cbd74cad3d1dcef7fe29c53af29a",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth|《资治通鉴·汉纪》1064丨许攸之死：功高震主与性格缺陷的悲歌]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continuing the Jian'an 9 post-[[YeLateHan|邺城]] settlement before the later [[zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft|Hanji 1066]] Wuhuan mission. It extends [[QianZhaoLateHan|牵招]], [[CuiYanLateHan|崔琰]], [[XuYouLateHan|许攸]], and [[SuperiorCreditConflictRisk|与上争功风险]]. Its core synthesis is that Cao Cao's Jizhou victory becomes a hierarchy and speech-management test: Qian Zhao moves from Yuan-side transport work into Cao-side service, Cui Yan's severe remonstrance redirects Cao from conscription to civilian suffering, and Xu You's real Guandu merit becomes lethal when he publicly turns credit into superiority over Cao Cao. No settled contradiction is recorded; the workplace-boundary frame, Cao Cao's exact legal pretext, Cui Yan's later death preview, and Qian Zhao's broader frontier career remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "CuiYanLateHan",
+        "QianZhaoLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuperiorCreditConflictRisk",
+        "XuYouLateHan",
+        "YeLateHan",
+        "zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth",
+        "zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft"
+      ]
+    },
     {
       "id": "6dfa974bf238032d37185ab962468f4159fa3b71b3c1e5919c7f138095ee6c16",
       "primary_topic": "science-health-and-climate",

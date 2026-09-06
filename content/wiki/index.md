@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1064丨许攸之死：功高震主与性格缺陷的悲歌](sources/zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth.md) — 芮淇讲透资治通鉴 episode on Qian Zhao's submission, Cui Yan's people-first remonstrance, and Xu You's death after public credit overreach toward Cao Cao.
 - [EP282 不完美的共存：当“野生动物”成为城市“新居民”](sources/ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a.md) — Talk三联 episode on urban wildlife coexistence, feeding feedback loops, Qianling Mountain macaques, Nanjing wild boars, Shanghai raccoon dogs, city planning, animal welfare, and public-health risk.
 - [《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？](sources/zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o.md) — 芮淇讲透资治通鉴 episode on Sun Shao inheriting Sun He's troops, Cao Chun urging a quick Nanpi assault, Yuan Tan's death, Li Fu's city pacification, and Guo Tu's execution.
 - [《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？](sources/zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf.md) — 芮淇讲透资治通鉴 episode on Wang Xiu burying Yuan Tan, protecting Guan Tong, Cao Cao recruiting former Yuan-side talent, and Chen Lin's pardon after the anti-Cao proclamation.
@@ -2899,7 +2900,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [舞阴 / Wuyin (late Han)](entities/WuyinLateHan.md) — Nanyang-front place attacked after Huyang in Cao Cao's 197 CE pressure campaign against Zhang Xiu and Liu Biao.
 - [魏种 / Wei Zhong (Late Han)](entities/WeiZhongLateHan.md) — Cao Cao's former recommendee who fled during the Yanzhou crisis but was pardoned and appointed after capture at Shequan.
 - [射犬 / Shequan (Late Han)](entities/ShequanLateHan.md) — Yellow River north-bank site where Cao Cao's campaign against Sui Gu produced surrender, Wei Zhong's capture, and the Aocang pre-Guandu positioning.
-- [牵招 / Qian Zhao (late Han)](entities/QianZhaoLateHan.md) — Cao-side frontier envoy whose public confrontation with Liaodong's Han Zhong prevents Wuhuan cavalry from rescuing Yuan Tan.
+- [牵招 / Qian Zhao (late Han)](entities/QianZhaoLateHan.md) — Yuan-to-Cao frontier official whose Jizhou submission and public confrontation with Liaodong's Han Zhong prevent Wuhuan cavalry from rescuing Yuan Tan.
 - [公孙康 / Gongsun Kang (late Han)](entities/GongsunKangLateHan.md) — Liaodong successor who sends Han Zhong with a chanyu seal to influence Wuhuan during the Yuan-family collapse.
 - [韩中 / Han Zhong (Liaodong envoy)](entities/HanZhongLiaodongLateHan.md) — Gongsun Kang's Liaodong envoy, kept distinct from the Yellow Turban Han Zhong, whose Wuhuan mission fails after Qian Zhao's public coercion.
 - [田豫 / Tian Yu (Late Han)](entities/TianYuLateHan.md) — Yuyang adviser whose argument for Xianyu Fu's submission reads Cao Cao's emperor-backed legitimacy in Hanji 1032.
@@ -2907,7 +2908,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [陈简 / Chen Jian (Yuan Shu retainer)](entities/ChenJianYuanShuRetainer.md) — Yuan Shu old retainer who refuses to shelter him during the final collapse.
 - [雷波 / Lei Bo (Yuan Shu retainer)](entities/LeiBoYuanShuRetainer.md) — Yuan Shu old retainer whose refusal marks the collapse of Yuan Shu's usable refuge network.
 - [耿包 / Geng Bao (late Han)](entities/GengBaoLateHan.md) — Yuan Shao subordinate whose imperial-title proposal becomes a title-test casualty after official rejection.
-- [崔琰 / Cui Yan (late Han)](entities/CuiYanLateHan.md) — Yuan Shao-side cautioning voice who warns against attacking while Emperor Xian is recognized at Xudu.
+- [崔琰 / Cui Yan (late Han)](entities/CuiYanLateHan.md) — Severe late-Han remonstrator who warns Yuan Shao on Xudu legitimacy and later rebukes Cao Cao's Jizhou conscription priority.
 - [徐秋 / Xu Qiu (Guangling late Han)](entities/XuQiuGuanglingLateHan.md) — Former Guangling administrator who returns the Heirloom Imperial Seal to the court after Yuan Shu's death.
 - [Jennifer King](entities/JenniferKing.md) — Stanford HAI privacy researcher explaining California data-broker compliance failures, deletion friction, enforcement limits, and AI data-broker demand.
 - [Stanford Institute for Human-Centered AI](entities/StanfordInstituteForHumanCenteredAI.md) — Stanford policy and research context for Jennifer King's data-broker compliance report.
@@ -3593,7 +3594,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [韩当 / Han Dang](entities/HanDang.md) — Veteran rider named among Sun Ce's thirteen followers at Shentingling in Hanji 993.
 - [黄盖 / Huang Gai](entities/HuangGai.md) — Veteran rider named with Han Dang in Sun Ce's Shentingling retinue.
 - [沮授 / Ju Shou](entities/JuShou.md) — Yuan Shao adviser whose correct counsel spans emperor-welcome, pre-Guandu recovery, White Horse/Yanjin warnings, and a captured-loyalist ending after Wuchao.
-- [许攸 / Xu You (late Han)](entities/XuYouLateHan.md) — Yuan Shao adviser and Guandu defector whose Wuchao intelligence lets Cao Cao strike Yuan Shao's grain depot.
+- [许攸 / Xu You (late Han)](entities/XuYouLateHan.md) — Yuan Shao adviser and Guandu defector whose Wuchao intelligence aids Cao Cao but whose public post-Jizhou credit overreach ends in death.
 - [甘宁 / Gan Ning](entities/GanNing.md) — Liu Biao-side military talent invoked by Hanji 993 as a comparator for distrusted or underused ability.
 - [吕范 / Lu Fan](entities/LuFan.md) — Sun Ce follower who volunteers for low-status military-discipline work in Hanji 994, making him a case of operational gap ownership.
 - [张昭 / Zhang Zhao (late Han)](entities/ZhangZhaoLateHan.md) — Jiangdong adviser entrusted by Sun Ce, made a public stabilizer for Sun Quan, and later shown as a senior critic of Lu Su.
@@ -11283,7 +11284,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Defeated Dowager Legitimacy Management / 失势太后名分处置](concepts/DefeatedDowagerLegitimacyManagement.md) — Pattern where a winning succession camp protects its own legitimacy by ritually honoring a defeated dowager while containing her former power network.
 - [绝对保证陷阱 / Absolute Guarantee Trap](concepts/AbsoluteGuaranteeTrap.md) — Communication trap where opponents demand impossible certainty about a risky policy and shift future blame unless the standard is reframed.
 - [军功归属错置 / Command Credit Misattribution](concepts/CommandCreditMisattribution.md) — Failure mode where visible surrender timing and reporting assign campaign credit or blame away from the underlying plan and incentives.
-- [与上争功风险 / Superior Credit Conflict Risk](concepts/SuperiorCreditConflictRisk.md) — Pattern where real contribution becomes exposure when a subordinate contests credit with a superior or superior-linked powerholder who controls protection and reporting.
+- [与上争功风险 / Superior Credit Conflict Risk](concepts/SuperiorCreditConflictRisk.md) — Pattern where real contribution becomes exposure when a subordinate contests credit with, or publicly diminishes, a superior who controls protection and punishment.
 - [边疆代理承诺绑定 / Frontier Proxy Commitment Binding](concepts/FrontierProxyCommitmentBinding.md) — Frontier strategy where a submitting outside actor or dependent polity proves alignment through costly action against a rival power.
 - [不依附式朝廷生存 / Nonaligned Court Survival](concepts/NonalignedCourtSurvival.md) — Political-survival pattern where avoiding dependence on dominant factions preserves later trust after those factions fall.
 - [真隐士与伪隐士辨别 / Reclusion Authenticity Assessment](concepts/ReclusionAuthenticityAssessment.md) — Judgment frame distinguishing principled withdrawal, honorable but limited virtue, and false reclusion that arbitrages reputation.

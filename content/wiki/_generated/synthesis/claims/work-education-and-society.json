@@ -2,6 +2,27 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "late-han-1064-credit-speech-boundary-risk",
+      "qualifications": [
+        "This is a source-scoped historical hierarchy and workplace-boundary analogy, not modern workplace, legal, or career advice.",
+        "The primary evidence belongs to late-Han history; the work-and-society relevance is limited to role transfer, public remonstrance, speech discipline, and public credit claims under hierarchy.",
+        "Cao Cao's exact legal pretext against Xu You, Cui Yan's later death preview, Qian Zhao's broader frontier biography, and the host's workplace analogy remain source-scoped."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth|Hanji 1064]] enters work-and-society as a bounded late-Han hierarchy and speech-boundary analogy: [[QianZhaoLateHan]] shows role transfer from Yuan-side transport work into Cao-side service, [[CuiYanLateHan]] shows severe remonstrance tolerated when aimed at civilian suffering, and [[XuYouLateHan]] plus [[SuperiorCreditConflictRisk]] show real Guandu merit becoming lethal when public credit is performed as superiority over Cao Cao after the Jizhou victory.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth",
+        "QianZhaoLateHan",
+        "CuiYanLateHan",
+        "XuYouLateHan",
+        "SuperiorCreditConflictRisk",
+        "GuanduCampaign",
+        "YeLateHan",
+        "RuiqiJiangtouZizhiTongjian"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-1070-role-credibility-and-local-access-control",
       "qualifications": [
         "This is a secondary work-and-society analogy from a historical source, not modern workplace, legal, military, or career advice.",
@@ -990,8 +1011,8 @@
       ]
     }
   ],
-  "input_digest": "d56e4848b54e9a31a72db1e0ed0e4e61a54b456717630ca11cdd15874820979c",
-  "summary": "Hanji 1070 adds a source-scoped historical role-and-institution analogy: oath compliance, loyal refusal, title incorporation, and Hedong appointment show how work inside public institutions depends on role credibility, transfer procedures, and local access control rather than rank labels alone. Existing work, education, and society synthesis still treats capability as environment-bound: workplace AI needs trust and behavioral evidence, education AI needs transfer rather than shortcuts, creative and health work require embodied or clinical judgment, and modern social capacity depends on grounded feedback loops rather than fluent claims or nominal status.",
+  "input_digest": "70b49f8a1d055dabb7059d515c11520f3798e802d24ac4ef02286d3157ce6a1a",
+  "summary": "Work, education, and society sources converge on a practical boundary problem: learning, career growth, institutional role transfer, creative and technical adoption, health routines, and historical hierarchy cases all depend on fitting tools, status, incentives, evidence, and communication to the actual setting. AI tutors, enterprise tools, creator platforms, health practices, finance careers, and late-Han analogies repeatedly show that capability or merit only becomes durable when embedded in trust, workload, public legitimacy, role clarity, and safeguards against overclaiming, coercion, or shallow performance metrics.",
   "title": "Work, Education, and Society",
   "topic_id": "work-education-and-society"
 }
