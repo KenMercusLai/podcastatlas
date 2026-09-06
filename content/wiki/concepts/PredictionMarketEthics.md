@@ -22,7 +22,7 @@ Prediction market ethics is the problem of deciding which real-world events shou
 ## Current Synthesis
 The concept began with harmful-event boundaries. [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] uses [[Kalshi]] markets tied to [[AliKhamenei]] and [[Polymarket]] nuclear-weapons markets to show why death, war, terrorism, assassination, and nuclear escalation are ethically and regulatorily dangerous event categories.
 
-Later sources broaden the ethics problem. Integrity oversight and self-regulation matter when insiders, athletes, officials, or military actors can influence or privately know outcomes. Historical election markets show that useful forecasting has always been near gambling and political theater. State gambling classification adds public-finance questions about taxes, addiction programs, and public-benefit obligations.
+Later sources broaden the ethics problem. Oversight by the [[CommodityFuturesTradingCommission|CFTC]] and platform self-regulation matter when insiders, athletes, officials, or military actors can influence or privately know outcomes. Historical election markets show that useful forecasting has always been near gambling and political theater. State gambling classification adds public-finance questions about taxes, addiction programs, and public-benefit obligations.
 
 The Duanwen episode adds an attention and culture layer. A market need not reference catastrophe to be ethically charged: it can compress complex public realities into brittle Yes/No settlement rules, turn news into personal position anxiety, or make women celebrities' bodies and private lives into tradable objects. Prediction-market ethics therefore includes content categories, integrity controls, settlement definitions, user experience, and cultural targeting.
 
@@ -37,7 +37,7 @@ The Duanwen episode adds an attention and culture layer. A market need not refer
 
 ## Evidence
 - Harmful-event boundary: [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] discusses Kalshi's Khamenei-related market and Polymarket's removal of nuclear-weapons markets.
-- Integrity and sportsbook comparison: [[tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]] uses the [[JontayPorter]] case and alleged classified-information trading to argue for stronger oversight.
+- Integrity and sportsbook comparison: [[tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]] uses the [[JontayPorter]] [[NationalBasketballAssociation|NBA]] case and alleged classified-information trading to argue for stronger oversight.
 - Self-regulation limits: [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] records Kalshi guardrails while emphasizing identity and scale problems.
 - History and public-value critique: [[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] places event markets near gambling and political theater, while [[do-prediction-market-bettors-make-anything-better]] tests truth-machine claims against app behavior and trader incentives.
 - Federalism and public finance: [[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds New York's gambling-law and tax-benefit argument.

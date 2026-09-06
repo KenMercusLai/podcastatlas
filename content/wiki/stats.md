@@ -17,7 +17,7 @@ outputs: ["html"]
 - Total wiki content pages: 17443
 
 ## Links
-- Wiki link references: 477470
+- Wiki link references: 477472
 - Unique wiki link targets: 17441
 - Missing targets: 0
 - Exact duplicate keys: 0
