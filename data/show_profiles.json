@@ -1606,8 +1606,8 @@
       ]
     },
     "博物志": {
-      "episode_count": 1,
-      "earliest_episode_date": "2026-08-18",
+      "episode_count": 2,
+      "earliest_episode_date": "2026-06-21",
       "latest_episode_date": "2026-08-18",
       "latest_episode_file": "8212963740_775078 [8212963740_775078].md",
       "source_note_count": 0,
@@ -1615,7 +1615,8 @@
       "topics": [],
       "entities": [],
       "start_here_episode_files": [
-        "8212963740_775078 [8212963740_775078].md"
+        "8212963740_775078 [8212963740_775078].md",
+        "8217911423_973793 [8217911423_973793].md"
       ]
     },
     "史蒂夫说": {
