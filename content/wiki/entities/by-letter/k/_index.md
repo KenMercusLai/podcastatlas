@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 9112
+wiki_total_pages: 9115
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -443,6 +443,9 @@ wiki_pages:
   - key: "Ku6"
     title: "Ku6 / 酷六"
     url: "/wiki/entities/ku6/"
+  - key: "KuaikanManhua"
+    title: "Kuaikan Manhua / 快看漫画"
+    url: "/wiki/entities/kuaikanmanhua/"
   - key: "Kuaishou"
     title: "Kuaishou"
     url: "/wiki/entities/kuaishou/"

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-07] ingest | 她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮
+
+Ingested the 2026-09-06 十字路口Crossing interview with Chen Anni on Kuaikan Manhua's LIVO, AI-native narrative worlds, agentic character subjectivity, fate-centered interaction, content taste under recommendation pressure, commercialization as protection for creative ideals, game-spirit organization, and retro humanist AI content. Added source `ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof`; created `ChenAnni`, `KuaikanManhua`, `LIVO`, `AINativeNarrativeWorlds`, `AgenticCharacterSubjectivity`, `NarrativeFateInteraction`, `ContentAestheticOverMetrics`, `CommercializationProtectsCreativeIdeals`, `GameSpiritOrganization`, and `RetroHumanistAIContent`; updated `index` and `overview`. No settled contradiction found; LIVO product-market fit, technical architecture, user data, funding claims, and IP-revenue causality remain source-scoped.
+
 ## [2026-09-07] ingest | 史蒂夫说472期 - 赵今朝 - 化解焦虑最佳方法：拆解问题，温柔相待
 
 Ingested the 2026-08-29 史蒂夫说 episode with Zhao Jinzhao / Dr. Claire on anxiety as anticipatory fear, demand-resource mismatch, body arousal, family transmission, old-age and death anxiety, shame, self-affirmation, and gentle support. Added source `shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh`; created `ShiDiFuShuo`, `SteveShiDiFuShuoHost`, `ZhaoJinzhao`, `AnxietyDecomposition`, `GentleAnxietySupport`, `EmbodiedAnxietyRegulation`, and `FamilyAnxietyTransmission`; updated `index` and `overview`. No settled contradiction found; the title/body name variant between 赵今朝 and 赵金昭 is preserved as source-scoped.
@@ -15627,6 +15631,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | 说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？
 
 Ingested the 2026-08-26 说得好听 episode with Mureka product lead 叶律 and ACR Cloud co-founder Tony on AI music after basic generation becomes ordinary. Added source `shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc`; created `ShuoDeHaoTing`, `Mureka`, `ACRCloud`, `YeLuMureka`, `TonyACRCloud`, `AIMusicWorkflowIntegration`, `AIMusicDetectionAndLabeling`, and `AIMusicSettlementParity`; updated `GenerativeAIMusic`, `MusicIndustryAIResponse`, `index`, and `overview`. No settled contradiction found; detection accuracy, exact AI participation percentages, DSP payout policy, training-data compensation, and long-term AI classic-song potential remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

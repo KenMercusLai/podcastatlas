@@ -1279,8 +1279,8 @@
       ]
     },
     "三五环": {
-      "episode_count": 8,
-      "earliest_episode_date": "2026-07-19",
+      "episode_count": 9,
+      "earliest_episode_date": "2026-07-07",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
       "source_note_count": 1,
@@ -1440,20 +1440,20 @@
       "earliest_episode_date": "2026-03-08",
       "latest_episode_date": "2026-09-06",
       "latest_episode_file": "她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮 [loMvN15fklK80bHKREiEd1iOtUOf].md",
-      "source_note_count": 27,
-      "topic_matched_source_note_count": 24,
+      "source_note_count": 28,
+      "topic_matched_source_note_count": 25,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 24
+          "source_note_count": 25
         },
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 2
+          "source_note_count": 3
         }
       ],
       "entities": [
@@ -1501,8 +1501,8 @@
         }
       ],
       "start_here_episode_files": [
-        "对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！ [lh4SK1Hb1cwhPR-tTGQrbIQ-psOP].md",
         "她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮 [loMvN15fklK80bHKREiEd1iOtUOf].md",
+        "对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！ [lh4SK1Hb1cwhPR-tTGQrbIQ-psOP].md",
         "AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人⧸CEO [lsQ-rKE8nfRBI5xaLGst3A8uncfD].md",
         "22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人⧸CEO [ljW_dMOCRyibLF0k3Rkz8EoNKQOx].md"
       ]

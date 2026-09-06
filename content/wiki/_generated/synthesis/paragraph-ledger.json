@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b3cbca70b251a2c2f5030fe6a363c8958514f3624b7c9a2b7be5d475065b691f",
       "ea4d055294733a028d61596483e9fff86bc6afa9235899b304649b11ee92a556",
       "fb5fc116f0863304bb2f80654112e430701be3452fe78412731a0fdf13eddc54",
       "f16f081698deab1f8c03274c799d0a2cdec4d918db2e50f99afa82efdff678c0",
@@ -555,11 +556,44 @@
       "7aedd968f8b89040d8bacab2545ab2c77f01a1e9fd0bfca68a06280e10b552e8",
       "ba7d5a4b2effc25ea8893c2adaf8d069d7e26a7909c0818f6c652ebda5aa350a"
     ],
-    "paragraph_count": 553
+    "paragraph_count": 554
   },
-  "overview_commit": "6b271f5ef0fae656888c892d1038a13c3568273e",
-  "overview_digest": "a21c47d195c0a3b56e766d9736a6732244d4bade44a4e33ced23d7daffdb65e2",
+  "overview_commit": "b6909f426865a76d63741428fbadc7d801742191",
+  "overview_digest": "7025cbe0a55ed3354ad3a5f90741f8d7e17e17d30c529949337a98acb6b88f9a",
   "paragraphs": [
+    {
+      "id": "b3cbca70b251a2c2f5030fe6a363c8958514f3624b7c9a2b7be5d475065b691f",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The latest addition is [[ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof|她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮]], a [[ShizilukouCrossing]] interview with [[ChenAnni|陈安妮]] on [[KuaikanManhua|快看漫画]], [[LIVO]], and AI-native content. It adds [[ChenAnni]], [[KuaikanManhua]], [[LIVO]], [[AINativeNarrativeWorlds]], [[AgenticCharacterSubjectivity]], [[NarrativeFateInteraction]], [[ContentAestheticOverMetrics]], [[CommercializationProtectsCreativeIdeals]], [[GameSpiritOrganization]], and [[RetroHumanistAIContent]], while connecting [[AIInteractiveEntertainment]], [[AISimulationContent]], [[AIInteractiveContentPlatforms]], [[AINativeProductDesign]], [[AIFriendProducts]], and [[AIOrganizationDesign]]. Its core synthesis is that AI-native entertainment should not be judged by agent simulation alone: Chen frames the durable product unit as authored fate, character subjectivity, shared experience, premium IP, cost-aware commercialization, and a humanist creative intention to move users. No settled contradiction is recorded; LIVO's product-market fit, technical architecture, user data, funding claims, and IP-revenue causality remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 2,
+        "culture-and-media": 1
+      },
+      "wikilinks": [
+        "AIFriendProducts",
+        "AIInteractiveContentPlatforms",
+        "AIInteractiveEntertainment",
+        "AINativeNarrativeWorlds",
+        "AINativeProductDesign",
+        "AIOrganizationDesign",
+        "AISimulationContent",
+        "AgenticCharacterSubjectivity",
+        "ChenAnni",
+        "CommercializationProtectsCreativeIdeals",
+        "ContentAestheticOverMetrics",
+        "GameSpiritOrganization",
+        "KuaikanManhua",
+        "LIVO",
+        "NarrativeFateInteraction",
+        "RetroHumanistAIContent",
+        "ShizilukouCrossing",
+        "ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof"
+      ]
+    },
     {
       "id": "ea4d055294733a028d61596483e9fff86bc6afa9235899b304649b11ee92a556",
       "primary_topic": "history-and-geopolitics",

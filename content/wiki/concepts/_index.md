@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6508
+wiki_total_pages: 6515
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "AgenticB2BSourcing"
     title: "Agentic B2B Sourcing"
     url: "/wiki/concepts/agenticb2bsourcing/"
+  - key: "AgenticCharacterSubjectivity"
+    title: "Agentic Character Subjectivity"
+    url: "/wiki/concepts/agenticcharactersubjectivity/"
   - key: "AgenticCommerce"
     title: "Agentic Commerce"
     url: "/wiki/concepts/agenticcommerce/"
@@ -1301,6 +1304,9 @@ wiki_pages:
   - key: "AINativeInvestingWorkflow"
     title: "AI-Native Investing Workflow"
     url: "/wiki/concepts/ainativeinvestingworkflow/"
+  - key: "AINativeNarrativeWorlds"
+    title: "AI-Native Narrative Worlds"
+    url: "/wiki/concepts/ainativenarrativeworlds/"
   - key: "AINativeWorkspace"
     title: "AI-Native Workspace"
     url: "/wiki/concepts/ainativeworkspace/"
