@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9138
+wiki_total_pages: 9145
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "CapeCodChips"
     title: "Cape Cod Chips"
     url: "/wiki/entities/capecodchips/"
+  - key: "CapeTown"
+    title: "Cape Town"
+    url: "/wiki/entities/capetown/"
   - key: "Caperni"
     title: "Caperni"
     url: "/wiki/entities/caperni/"
@@ -1016,6 +1019,9 @@ wiki_pages:
   - key: "ConstellationEnergy"
     title: "Constellation Energy"
     url: "/wiki/entities/constellationenergy/"
+  - key: "ConstitutionHillJohannesburg"
+    title: "Constitution Hill Johannesburg"
+    url: "/wiki/entities/constitutionhilljohannesburg/"
   - key: "ConsueloDeSaintExupery"
     title: "Consuelo de Saint-Exupery / 康苏爱萝"
     url: "/wiki/entities/consuelodesaintexupery/"

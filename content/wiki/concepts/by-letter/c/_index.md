@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6533
+wiki_total_pages: 6535
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1151,6 +1151,9 @@ wiki_pages:
   - key: "ComplementaryRelationshipSupport"
     title: "Complementary Relationship Support / 互补式关系支持"
     url: "/wiki/concepts/complementaryrelationshipsupport/"
+  - key: "ComplexDestinationTravelRisk"
+    title: "Complex Destination Travel Risk"
+    url: "/wiki/concepts/complexdestinationtravelrisk/"
   - key: "ComplexTraumaRecognition"
     title: "Complex Trauma Recognition"
     url: "/wiki/concepts/complextraumarecognition/"

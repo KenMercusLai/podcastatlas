@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9138
+wiki_total_pages: 9145
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -932,6 +932,9 @@ wiki_pages:
   - key: "SovietUnion"
     title: "Soviet Union"
     url: "/wiki/entities/sovietunion/"
+  - key: "Soweto"
+    title: "Soweto"
+    url: "/wiki/entities/soweto/"
   - key: "Soylent"
     title: "Soylent"
     url: "/wiki/entities/soylent/"

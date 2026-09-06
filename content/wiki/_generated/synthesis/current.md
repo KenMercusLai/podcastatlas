@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-07
-as_of_overview_commit: 3f7af4c8a725010b7c6c38a0560bce8bdaae585c
+as_of_overview_commit: 3097609984f4e73abe0981fcfed36e2e0a8b29cb
 summary: "The wiki frames AI, markets, institutions, culture, health, psychology, work, and history as systems where value depends on trust, evidence, boundaries, and implementation."
-episode_count: 1957
-source_count: 1957
-paragraph_count: 558
+episode_count: 1958
+source_count: 1958
+paragraph_count: 559
 topic_count: 8
 ---
 
@@ -78,7 +78,7 @@ Science, health, and climate synthesis is organized around mechanism, measuremen
 
 ### Work, Education, and Society
 
-Work, education, and society sources treat capability as contextual: learning, careers, AI adoption, creator work, health routines, and institutions need trust, feedback, safeguards, role clarity, and transfer evidence.
+Work, education, and society sources treat capability as contextual: learning, careers, AI adoption, creator work, travel competence, public memory, health routines, and institutions need trust, feedback, safeguards, role clarity, and transfer evidence.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2210
+topic_total_pages: 2211
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2272,6 +2272,9 @@ topic_concepts:
   - key: "PostAcquisitionFounderIdentity"
     title: "Post-Acquisition Founder Identity"
     url: "/wiki/concepts/postacquisitionfounderidentity/"
+  - key: "PostApartheidStructuralInequality"
+    title: "Post-Apartheid Structural Inequality"
+    url: "/wiki/concepts/postapartheidstructuralinequality/"
   - key: "PostArabSpringIslamistDecline"
     title: "Post-Arab Spring Islamist Decline"
     url: "/wiki/concepts/postarabspringislamistdecline/"

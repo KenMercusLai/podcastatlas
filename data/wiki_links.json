@@ -5287,6 +5287,10 @@
     "title": "Apartheid",
     "url": "/wiki/concepts/apartheid/"
   },
+  "ApartheidMuseumJohannesburg": {
+    "title": "Apartheid Museum Johannesburg",
+    "url": "/wiki/entities/apartheidmuseumjohannesburg/"
+  },
   "ApathyActionInitiation": {
     "title": "Apathy Action Initiation",
     "url": "/wiki/concepts/apathyactioninitiation/"
@@ -9323,6 +9327,10 @@
     "title": "Cape Cod Chips",
     "url": "/wiki/entities/capecodchips/"
   },
+  "CapeTown": {
+    "title": "Cape Town",
+    "url": "/wiki/entities/capetown/"
+  },
   "Caperni": {
     "title": "Caperni",
     "url": "/wiki/entities/caperni/"
@@ -12507,6 +12515,10 @@
     "title": "Complementary Relationship Support / 互补式关系支持",
     "url": "/wiki/concepts/complementaryrelationshipsupport/"
   },
+  "ComplexDestinationTravelRisk": {
+    "title": "Complex Destination Travel Risk",
+    "url": "/wiki/concepts/complexdestinationtravelrisk/"
+  },
   "ComplexTraumaRecognition": {
     "title": "Complex Trauma Recognition",
     "url": "/wiki/concepts/complextraumarecognition/"
@@ -12758,6 +12770,10 @@
   "ConstituentNationSportingIdentity": {
     "title": "Constituent Nation Sporting Identity",
     "url": "/wiki/concepts/constituentnationsportingidentity/"
+  },
+  "ConstitutionHillJohannesburg": {
+    "title": "Constitution Hill Johannesburg",
+    "url": "/wiki/entities/constitutionhilljohannesburg/"
   },
   "ConstitutionalRobustness": {
     "title": "Constitutional Robustness",
@@ -29471,6 +29487,10 @@
     "title": "Johann Loschek",
     "url": "/wiki/entities/johannloschek/"
   },
+  "Johannesburg": {
+    "title": "Johannesburg",
+    "url": "/wiki/entities/johannesburg/"
+  },
   "JohnAdams": {
     "title": "John Adams",
     "url": "/wiki/entities/johnadams/"
@@ -30942,6 +30962,10 @@
   "KroenkeSportsEntertainment": {
     "title": "Kroenke Sports & Entertainment",
     "url": "/wiki/entities/kroenkesportsentertainment/"
+  },
+  "KrugerNationalPark": {
+    "title": "Kruger National Park",
+    "url": "/wiki/entities/krugernationalpark/"
   },
   "Ku6": {
     "title": "Ku6 / 酷六",
@@ -43099,6 +43123,10 @@
     "title": "Post-Anesthesia Recovery Safety / 麻醉术后苏醒与反应边界",
     "url": "/wiki/concepts/postanesthesiarecoverysafety/"
   },
+  "PostApartheidStructuralInequality": {
+    "title": "Post-Apartheid Structural Inequality",
+    "url": "/wiki/concepts/postapartheidstructuralinequality/"
+  },
   "PostApocalypticCivilizationPreservation": {
     "title": "Post-Apocalyptic Civilization Preservation",
     "url": "/wiki/concepts/postapocalypticcivilizationpreservation/"
@@ -46874,6 +46902,10 @@
   "RobRhinehart": {
     "title": "Rob Rhinehart",
     "url": "/wiki/entities/robrhinehart/"
+  },
+  "RobbenIsland": {
+    "title": "Robben Island",
+    "url": "/wiki/entities/robbenisland/"
   },
   "RobbieMcCluskey": {
     "title": "Robbie McCluskey",
@@ -50970,6 +51002,10 @@
   "SovietUnion": {
     "title": "Soviet Union",
     "url": "/wiki/entities/sovietunion/"
+  },
+  "Soweto": {
+    "title": "Soweto",
+    "url": "/wiki/entities/soweto/"
   },
   "Soylent": {
     "title": "Soylent",
@@ -65214,6 +65250,10 @@
   "ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9": {
     "title": "EP38 风满楼！全球资本市场巨幅动荡，腥风血雨时刻近在咫尺",
     "url": "/wiki/sources/ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9/"
+  },
+  "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk": {
+    "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+    "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
   },
   "ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy": {
     "title": "EP384-普通人也能打得起的“司美格鲁肽”，减肥针“一针瘦十斤”背后的真相与代",

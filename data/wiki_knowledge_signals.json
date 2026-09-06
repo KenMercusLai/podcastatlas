@@ -4866,9 +4866,9 @@
       "url": "/wiki/entities/anzhonglatehan/"
     },
     "Apartheid": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6535658080 [GLT6535658080].md",
@@ -4876,10 +4876,33 @@
           "show": "The Rest Is History",
           "title": "682. South Africa: Mandela and the Death of Apartheid (Part 6)",
           "url": "/wiki/sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080/"
+        },
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/apartheid/"
+    },
+    "ApartheidMuseumJohannesburg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/apartheidmuseumjohannesburg/"
     },
     "ApathyActionInitiation": {
       "episode_count": 1,
@@ -9198,6 +9221,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/capecodchips/"
     },
+    "CapeTown": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/capetown/"
+    },
     "Caperni": {
       "episode_count": 1,
       "show_count": 1,
@@ -12503,6 +12542,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/competencestatusmentalhealthblindspot/"
     },
+    "ComplexDestinationTravelRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/complexdestinationtravelrisk/"
+    },
     "ComprehensiveConsumerDataPrivacy": {
       "episode_count": 4,
       "show_count": 1,
@@ -12732,6 +12787,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/constituentnationsportingidentity/"
+    },
+    "ConstitutionHillJohannesburg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/constitutionhilljohannesburg/"
     },
     "ConsumerAIHardwareProductFit": {
       "episode_count": 3,
@@ -34971,6 +35042,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/johannloschek/"
     },
+    "Johannesburg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/johannesburg/"
+    },
     "JohnAdams": {
       "episode_count": 1,
       "show_count": 1,
@@ -36195,6 +36282,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/kouxuneasternhan/"
+    },
+    "KrugerNationalPark": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/krugernationalpark/"
     },
     "KuaikanManhua": {
       "episode_count": 1,
@@ -46334,9 +46437,9 @@
       "url": "/wiki/entities/ndongo/"
     },
     "NelsonMandela": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6535658080 [GLT6535658080].md",
@@ -46344,9 +46447,16 @@
           "show": "The Rest Is History",
           "title": "682. South Africa: Mandela and the Death of Apartheid (Part 6)",
           "url": "/wiki/sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080/"
+        },
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/nelsonmandela/"
     },
     "NeoRobot": {
@@ -51385,6 +51495,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/postanesthesiarecoverysafety/"
     },
+    "PostApartheidStructuralInequality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/postapartheidstructuralinequality/"
+    },
     "PostRestorationMeritThreat": {
       "episode_count": 4,
       "show_count": 1,
@@ -55989,6 +56115,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/ritualrenunciationpoliticalcapital/"
     },
+    "RobbenIsland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/robbenisland/"
+    },
     "RobertoRidolfi": {
       "episode_count": 1,
       "show_count": 1,
@@ -60022,9 +60164,9 @@
       "url": "/wiki/entities/songyoueasternhan/"
     },
     "SouthAfrica": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6535658080 [GLT6535658080].md",
@@ -60039,9 +60181,16 @@
           "show": "声动早咖啡",
           "title": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？",
           "url": "/wiki/sources/zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062/"
+        },
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/southafrica/"
     },
     "SouthSudan": {
@@ -60231,6 +60380,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/southernxiongnu/"
+    },
+    "Soweto": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/soweto/"
     },
     "SpaceBasedAIInfrastructure": {
       "episode_count": 8,
@@ -69949,9 +70114,9 @@
       "url": "/wiki/entities/wurenzhixiao/"
     },
     "WushichaYanjiusuo": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GKwRIDoObJ-fAi177wTQizMF [GKwRIDoObJ-fAi177wTQizMF].md",
@@ -69966,6 +70131,13 @@
           "show": "无时差研究所",
           "title": "EP384-普通人也能打得起的“司美格鲁肽”，减肥针“一针瘦十斤”背后的真相与代",
           "url": "/wiki/sources/ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy/"
+        },
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
         }
       ],
       "updated": "2026-09-07",

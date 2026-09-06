@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？](sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk.md) — 无时差研究所 episode using a South Africa trip to connect travel safety, Johannesburg, Soweto, apartheid memory, Mandela, Robben Island, Safari, Cape Town, and post-apartheid inequality.
 - [vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切](sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i.md) — 天真不天真 return conversation with Song Jia on pausing work, acting through transmission and scent, inward self-cultivation, benevolent speech, relationships, sincere emotional support, travel, and detaching from praise or criticism.
 - [#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？](sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05.md) — 声东击西 episode with Yang Bin on the 1956 Dartmouth AI workshop, slow gathering improvisation, peripheral innovation fields, psychological safety, counterculture, Patagonia, and AI-era university reform.
 - [494 张诗坪谈战争史视角下的秦末汉初混战](sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj.md) — 忽左忽右 episode with Zhang Shiping on Qin collapse, Xiang Yu, Liu Bang, Julu, Xinan, Pengcheng, Han Xin, cavalry tactics, and Eurasian military comparison.
@@ -1965,6 +1966,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Johannesburg](entities/Johannesburg.md) — South African arrival city where EP383 makes travel safety and apartheid-memory routes visible.
+- [Soweto](entities/Soweto.md) — Johannesburg-area township in EP383, read through apartheid housing, education memory, class variation, and tourism ethics.
+- [Constitution Hill Johannesburg](entities/ConstitutionHillJohannesburg.md) — Former prison-memory site where EP383 connects apartheid hierarchy, pass-law punishment, Mandela, Gandhi, and guide interpretation.
+- [Apartheid Museum Johannesburg](entities/ApartheidMuseumJohannesburg.md) — Johannesburg museum EP383 recommends as the key curated entry into apartheid history and transition violence.
+- [Robben Island](entities/RobbenIsland.md) — Cape Town-area prison island where EP383 turns Mandela and apartheid memory into living-witness testimony.
+- [Cape Town](entities/CapeTown.md) — Scenic South African city and Robben Island gateway in EP383's travel route.
+- [Kruger National Park](entities/KrugerNationalPark.md) — Safari setting in EP383, used for wildlife experience and tourism-labor observations.
 - [宋佳 / 小花老师 / Song Jia](entities/SongJia.md) — Returning 天真不天真 guest whose episode profile centers on acting, work pauses, benevolent speech, relationship boundaries, and inward self-cultivation.
 - [天真不天真](entities/TianzhenButianzhen.md) — Conversation-led podcast represented by the Song Jia return episode on self-knowledge, relationships, acting, travel, and podcast authenticity.
 - [杨彬 / Yang Bin](entities/YangBin.md) — Tsinghua professor and former administrator interpreting Dartmouth as a slow, peripheral, psychologically safe innovation field.
@@ -11107,6 +11115,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Post-Apartheid Structural Inequality](concepts/PostApartheidStructuralInequality.md) — EP383 frame for durable education, wealth, space, service, safety, and governance gaps after apartheid's legal end.
+- [Complex Destination Travel Risk](concepts/ComplexDestinationTravelRisk.md) — Travel-planning risk frame for high-reward destinations that require safety preparation, route discipline, local norms, and historical attention.
 - [Evaluation Attachment Release / 放下评价执念](concepts/EvaluationAttachmentRelease.md) — Practice of not building self-worth from praise, criticism, friendship ranking, or another person's failure to meet an imagined script.
 - [Sincere Emotional Support / 真诚的情绪价值](concepts/SincereEmotionalSupport.md) — Emotional encouragement grounded in real recognition rather than interpersonal manipulation or scripted praise.
 - [Benevolent Speech Practice / 善语结善缘](concepts/BenevolentSpeechPractice.md) — Speech practice that checks words against the intention that produced them because language reveals inner posture and shapes relationship conditions.

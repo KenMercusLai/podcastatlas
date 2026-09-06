@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9138
+wiki_total_pages: 9145
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1055,6 +1055,9 @@ wiki_pages:
   - key: "AOL"
     title: "AOL"
     url: "/wiki/entities/aol/"
+  - key: "ApartheidMuseumJohannesburg"
+    title: "Apartheid Museum Johannesburg"
+    url: "/wiki/entities/apartheidmuseumjohannesburg/"
   - key: "ApexDigital"
     title: "APEX Digital"
     url: "/wiki/entities/apexdigital/"

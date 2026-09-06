@@ -48341,6 +48341,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "PostApartheidStructuralInequality": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "PostArabSpringIslamistDecline": [
     {
       "key": "politics",

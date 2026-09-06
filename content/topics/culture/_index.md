@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2467
+topic_total_pages: 2468
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1768,6 +1768,9 @@ topic_concepts:
   - key: "PostOwnership"
     title: "Post Ownership"
     url: "/wiki/concepts/postownership/"
+  - key: "PostApartheidStructuralInequality"
+    title: "Post-Apartheid Structural Inequality"
+    url: "/wiki/concepts/postapartheidstructuralinequality/"
   - key: "PostRevengeEmptiness"
     title: "Post-Revenge Emptiness / 复仇之后的虚无"
     url: "/wiki/concepts/postrevengeemptiness/"
