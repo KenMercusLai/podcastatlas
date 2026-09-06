@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9071
+wiki_total_pages: 9075
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1448,6 +1448,9 @@ wiki_pages:
   - key: "AnQi"
     title: "安琪"
     url: "/wiki/entities/anqi/"
+  - key: "AhnPanSeok"
+    title: "安盼熙 / Ahn Pan-seok"
+    url: "/wiki/entities/ahnpanseok/"
   - key: "Anbi"
     title: "安碧 / Anbi"
     url: "/wiki/entities/anbi/"

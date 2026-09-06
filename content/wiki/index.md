@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [八月广播电视报：怎么所有人的青铜时代都在崩溃](sources/bayue-guangbo-dianshibao-zenme-suoyouren-de-qingtongshidai-dou-zai-bengkui-gkwrijioazzebf7pfatp6hhf.md) — 展开讲讲 culture-review episode linking creator obituaries, summer films, dramas, variety shows, stranger ethics, public participation, minority safety, and midlife body adjustments.
 - [手工耿×罗永浩！“村口的五金店里，出现了一个达达主义艺术家”](sources/shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1.md) — 罗永浩的十字路口 interview on 手工耿's welded inventions, manual craft path, short-video creator work, commercial restraint, and useful/useless art-adjacent value.
 - [No.232 吴汉坤：AI 时代，演员第一个丢饭碗？](sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj.md) — 三五环 interview with Wu Hankun on acting, AI short films, Frederick AI, performance rhythm, likeness authorization, and hands-on AI practice as an antidote to vague creator anxiety.
 - [EP385-《我的前半生》翻红：从“寄生虫”到“独立女性”，罗子君的逆袭成立吗？](sources/ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf.md) — 无时差研究所 episode rereading 《我的前半生》 through Yi Shu's novel, short-video revival, male-mentor independence critique, consulting-era urban fantasy, and late-2010s economic memory.
@@ -1950,6 +1951,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [展开讲讲 / Zhankai Jiangjiang](entities/ZhankaiJiangjiang.md) — culture-commentary podcast show using a "电视报" format to connect media reviews, creator memory, public mood, and everyday life.
+- [安盼熙 / Ahn Pan-seok](entities/AhnPanSeok.md) — Korean television director remembered for literary realism, women's subjectivity, class detail, and the hosts' early viewing language.
+- [东野圭吾 / Higashino Keigo](entities/HigashinoKeigo.md) — Japanese mystery writer framed through Chinese reader memory, clean prose, moral ambiguity, and crime's social causes.
+- [施南生 / Nansun Shi](entities/NansunShi.md) — Hong Kong film figure represented through memorial-site form, affectionate testimony, and public creator remembrance.
 - [手工耿 / Shougong Geng](entities/ShougongGeng.md) — Chinese maker and short-video creator whose welded inventions sit between usefulness, comedy, craft, and art interpretation.
 - [罗永浩的十字路口 / Luo Yonghao's Crossroads](entities/LuoyonghaosCrossroads.md) — long-form interview show context for Luo Yonghao's creator, craft, and cultural-framing conversation with 手工耿.
 - [吴瀚坤](entities/WuHankun.md) — actor, AI entrepreneur, and AI short-film creator interviewed by 三五环.
@@ -11025,6 +11030,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Culture-Review TV Report Format / 文化电视报式评论](concepts/CultureReviewTvReportFormat.md) — podcast review structure that uses many works and life fragments as one cultural weather report.
+- [Creator Obituary Memory / 创作者讣告记忆](concepts/CreatorObituaryMemory.md) — public remembrance frame linking creator deaths to audience memory, biography form, and health reflection.
+- [Stranger Hospitality Ethics / 陌生人宾客伦理](concepts/StrangerHospitalityEthics.md) — cross-work ethics of how stories test societies through guests, outsiders, refugees, children, and unknown others.
+- [Cultural Participation Event / 文化参与事件](concepts/CulturalParticipationEvent.md) — popular-entertainment moment whose meaning includes the audience's act of joining, laughing, mocking, and recognizing a shared ritual.
+- [Queer Safety Retreat / 少数群体安全退让](concepts/QueerSafetyRetreat.md) — guarded self-reduction that appears when minority joy, visibility, and neighbor trust become newly dangerous.
+- [Midlife Body Alarm Adjustment / 中年身体报警调整](concepts/MidlifeBodyAlarmAdjustment.md) — routine recalibration forced by stomach, dental, posture, caffeine, and work-tool discomfort.
 - [Useless Invention Value / 无用发明价值](concepts/UselessInventionValue.md) — framework separating entertainment value, playful function, and serious utility in seemingly impractical maker objects.
 - [Short-Video Craft Creator Path / 短视频手艺创作者路径](concepts/ShortVideoCraftCreatorPath.md) — route where manual skill, material transformation, testing, and audience response become platform-native creator work.
 - [Folk Maker Art Interpretation / 民间手艺艺术化解读](concepts/FolkMakerArtInterpretation.md) — reading self-taught craft objects through art language without erasing labor, humor, materiality, and maker intent.

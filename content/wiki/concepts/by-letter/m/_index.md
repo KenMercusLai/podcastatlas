@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6479
+wiki_total_pages: 6485
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "MidlifeAsGift"
     title: "Midlife As Gift"
     url: "/wiki/concepts/midlifeasgift/"
+  - key: "MidlifeBodyAlarmAdjustment"
+    title: "Midlife Body Alarm Adjustment / 中年身体报警调整"
+    url: "/wiki/concepts/midlifebodyalarmadjustment/"
   - key: "MidlifeThreeAccounts"
     title: "Midlife Three Accounts"
     url: "/wiki/concepts/midlifethreeaccounts/"

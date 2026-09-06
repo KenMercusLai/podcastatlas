@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 6479
+wiki_total_pages: 6485
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "QueenMotherRegency"
     title: "Queen-Mother Regency / 太后摄政"
     url: "/wiki/concepts/queenmotherregency/"
+  - key: "QueerSafetyRetreat"
+    title: "Queer Safety Retreat / 少数群体安全退让"
+    url: "/wiki/concepts/queersafetyretreat/"
   - key: "QuietAIAdoptionDeparture"
     title: "Quiet AI Adoption Departure"
     url: "/wiki/concepts/quietaiadoptiondeparture/"

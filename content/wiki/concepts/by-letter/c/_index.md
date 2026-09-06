@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6479
+wiki_total_pages: 6485
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1622,6 +1622,9 @@ wiki_pages:
   - key: "CreatorGiftingDemandManufacture"
     title: "Creator Gifting Demand Manufacture"
     url: "/wiki/concepts/creatorgiftingdemandmanufacture/"
+  - key: "CreatorObituaryMemory"
+    title: "Creator Obituary Memory / 创作者讣告记忆"
+    url: "/wiki/concepts/creatorobituarymemory/"
   - key: "CreatorResponsibilityEthics"
     title: "Creator Responsibility Ethics / 创造者责任伦理"
     url: "/wiki/concepts/creatorresponsibilityethics/"
@@ -1826,6 +1829,9 @@ wiki_pages:
   - key: "CulturalBiasInTesting"
     title: "Cultural Bias In Testing / 测试中的文化偏差"
     url: "/wiki/concepts/culturalbiasintesting/"
+  - key: "CulturalParticipationEvent"
+    title: "Cultural Participation Event / 文化参与事件"
+    url: "/wiki/concepts/culturalparticipationevent/"
   - key: "CulturalRelativismVictimProtectionBoundary"
     title: "Cultural Relativism Victim Protection Boundary"
     url: "/wiki/concepts/culturalrelativismvictimprotectionboundary/"
@@ -1835,6 +1841,9 @@ wiki_pages:
   - key: "CultureLedLaborOrganizing"
     title: "Culture-Led Labor Organizing"
     url: "/wiki/concepts/cultureledlabororganizing/"
+  - key: "CultureReviewTvReportFormat"
+    title: "Culture-Review TV Report Format / 文化电视报式评论"
+    url: "/wiki/concepts/culturereviewtvreportformat/"
   - key: "CurrencyAnchorTransition"
     title: "Currency Anchor Transition / 货币锚转换"
     url: "/wiki/concepts/currencyanchortransition/"
