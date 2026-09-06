@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6529
+wiki_total_pages: 6533
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -647,6 +647,9 @@ wiki_pages:
   - key: "EVAGloveInspectionAI"
     title: "EVA Glove Inspection AI"
     url: "/wiki/concepts/evagloveinspectionai/"
+  - key: "EvaluationAttachmentRelease"
+    title: "Evaluation Attachment Release / 放下评价执念"
+    url: "/wiki/concepts/evaluationattachmentrelease/"
   - key: "EventContractManipulationRisk"
     title: "Event Contract Manipulation Risk"
     url: "/wiki/concepts/eventcontractmanipulationrisk/"

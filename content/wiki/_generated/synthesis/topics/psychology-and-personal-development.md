@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-07
-as_of_overview_commit: db37aaa3ed599bbd6a45ca12dcf0892ad561545d
-input_digest: 8bb0fefd868ebcbbf1a51fbba9ba9179c1ffc0449220a9f785ce92ec8fd75dbe
+as_of_overview_commit: 3f7af4c8a725010b7c6c38a0560bce8bdaae585c
+input_digest: 4e20fba18f3d654c51ae63f8d9ad509ffdf0e9dfe716531b98c99242cdc7b972
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 1047 enters this topic only secondarily as a historical judgment and self-protection case: controlled exit from a still-powerful patron is framed through safety, character reading, and future risk. The Huberman dopamine episode keeps motivation tied to baseline, peaks, anticipation, and effort-as-reward, while the Epel stress branch remains anchored in appraisal, rumination, recovery, acceptance, and meaning-making. The Culture Limited therapy-book episode adds a source-scoped psychotherapy-change branch: relationship safety, defense work, insight, action, and Gottman-style repair language are treated as public psychology interpretation rather than individualized treatment advice. The Attia longevity episode adds emotional healthspan as a personal-development branch: connection, purpose, presence, therapy, DBT, self-talk, and relationship repair are treated as part of durable health rather than optional mood work. Benjamin Lay enters only secondarily as a moral-action case where inward equality, shock, boycott, and symbolic witness convert conviction into disciplined public behavior. Historical Hanji cases remain source-scoped evidence for judgment, self-command, trust, vulnerability, and behavior under pressure.
+The TianzhenButianzhen/Song Jia source adds a personal conversation branch to psychology and personal development: inward-looking self-cultivation links first reactions, speech intention, relationship need expression, apology, sincere emotional support, and detachment from praise or criticism. Hanji 1047 enters this topic only secondarily as a historical judgment and self-protection case: controlled exit from a still-powerful patron is framed through safety, character reading, and future risk. The Huberman dopamine episode keeps motivation tied to baseline, peaks, anticipation, and effort-as-reward, while the Epel stress branch remains anchored in appraisal, rumination, recovery, acceptance, and meaning-making. The Culture Limited therapy-book episode adds a source-scoped psychotherapy-change branch: relationship safety, defense work, insight, action, and Gottman-style repair language are treated as public psychology interpretation rather than individualized treatment advice. The Attia longevity episode adds emotional healthspan as a personal-development branch: connection, purpose, presence, therapy, DBT, self-talk, and relationship repair are treated as part of durable health rather than optional mood work. Historical Hanji cases remain source-scoped evidence for judgment, self-command, trust, vulnerability, and behavior under pressure.
 
 ## Cross-source Findings
 
@@ -719,3 +719,13 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 
 - The episode summarizes Gottman language for a general audience and does not validate the framework or replace couple therapy.
 - The frame should not flatten coercion or abuse into symmetrical communication problems.
+
+### Inward Response Links Speech Relationships And Evaluation
+
+[[vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i|The TianzhenButianzhen Song Jia episode]] adds a psychology-and-personal-development branch where [[InwardLookingSelfCultivation]], [[BenevolentSpeechPractice]], [[SincereEmotionalSupport]], and [[EvaluationAttachmentRelease]] frame growth as revising personal response: notice first reactions, inspect speech intention, express needs without controlling others, repair through apology, and loosen identity attachment to praise or criticism.
+
+**Evidence:** [[vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i]], [[TianzhenButianzhen]], [[SongJia]], [[InwardLookingSelfCultivation]], [[BenevolentSpeechPractice]], [[SincereEmotionalSupport]], [[EvaluationAttachmentRelease]], [[SincerityAsRelationshipTrust]], [[RelationshipNeedDiversification]], [[EmotionRegulationToolkit]]
+
+**Qualifications:**
+
+- The source is a personal podcast conversation, so spiritual language, relationship advice, and self-cultivation claims remain source-scoped rather than clinical guidance or universal prescription.

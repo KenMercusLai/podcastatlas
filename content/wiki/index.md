@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切](sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i.md) — 天真不天真 return conversation with Song Jia on pausing work, acting through transmission and scent, inward self-cultivation, benevolent speech, relationships, sincere emotional support, travel, and detaching from praise or criticism.
 - [#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？](sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05.md) — 声东击西 episode with Yang Bin on the 1956 Dartmouth AI workshop, slow gathering improvisation, peripheral innovation fields, psychological safety, counterculture, Patagonia, and AI-era university reform.
 - [494 张诗坪谈战争史视角下的秦末汉初混战](sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj.md) — 忽左忽右 episode with Zhang Shiping on Qin collapse, Xiang Yu, Liu Bang, Julu, Xinan, Pengcheng, Han Xin, cavalry tactics, and Eurasian military comparison.
 - [Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气](sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv.md) — 文化有限 episode on Lori Gottlieb's Maybe You Should Talk to Someone, psychotherapy as relational change, defense work, insight-to-action gaps, and Gottman relationship warnings.
@@ -1964,6 +1965,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [宋佳 / 小花老师 / Song Jia](entities/SongJia.md) — Returning 天真不天真 guest whose episode profile centers on acting, work pauses, benevolent speech, relationship boundaries, and inward self-cultivation.
+- [天真不天真](entities/TianzhenButianzhen.md) — Conversation-led podcast represented by the Song Jia return episode on self-knowledge, relationships, acting, travel, and podcast authenticity.
 - [杨彬 / Yang Bin](entities/YangBin.md) — Tsinghua professor and former administrator interpreting Dartmouth as a slow, peripheral, psychologically safe innovation field.
 - [Dartmouth AI Workshop / 达特茅斯 AI 夏季研讨会](entities/DartmouthAIWorkshop.md) — 1956 AI-history workshop framed by the episode as a possibility-preserving field rather than a consensus conference.
 - [Dartmouth College / 达特茅斯学院](entities/DartmouthCollege.md) — New England university setting whose peripheral position supports the episode's innovation-field argument.
@@ -11104,6 +11107,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Evaluation Attachment Release / 放下评价执念](concepts/EvaluationAttachmentRelease.md) — Practice of not building self-worth from praise, criticism, friendship ranking, or another person's failure to meet an imagined script.
+- [Sincere Emotional Support / 真诚的情绪价值](concepts/SincereEmotionalSupport.md) — Emotional encouragement grounded in real recognition rather than interpersonal manipulation or scripted praise.
+- [Benevolent Speech Practice / 善语结善缘](concepts/BenevolentSpeechPractice.md) — Speech practice that checks words against the intention that produced them because language reveals inner posture and shapes relationship conditions.
+- [Inward-Looking Self-Cultivation / 向内求式自我修行](concepts/InwardLookingSelfCultivation.md) — Practice of shifting attention from how the outside world treats the self toward one's own motives, reactions, speech, needs, and choices.
 - [Slow Gathering Improvisation / 慢聚慢奏](concepts/SlowGatheringImprovisation.md) — Yang Bin's name for loose, slow, improvisational innovation fields where unclear questions can remain open.
 - [Peripheral Innovation Field / 边域式创新场域](concepts/PeripheralInnovationField.md) — edge-of-mainstream setting where heterogeneous participants can define new problems with less authority pressure.
 - [Tolerance of Difference / 容差异](concepts/ToleranceOfDifference.md) — norm of protecting divergent people and ideas before they can be judged right, wrong, useful, or wasteful.

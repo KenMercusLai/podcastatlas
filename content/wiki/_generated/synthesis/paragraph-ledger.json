@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "bca3f6642e8b64dca6b9dd788bccff3eeb61f2a75fd6f726d4d9163440111666",
       "b26998ed8105fc9962ce7130dcda6f4f84a26ac4ad79ef59cb8aaa27adc82847",
       "b3cbca70b251a2c2f5030fe6a363c8958514f3624b7c9a2b7be5d475065b691f",
       "ea4d055294733a028d61596483e9fff86bc6afa9235899b304649b11ee92a556",
@@ -559,11 +560,43 @@
       "92bc6e5245c1759f79ec6d1c56938dc9f6333c7144493e722e6253eed2bec08c",
       "528281743cf61adfbb2f8e222f1a77c3c4cc419c782293135402187a6ed7cdda"
     ],
-    "paragraph_count": 557
+    "paragraph_count": 558
   },
-  "overview_commit": "a3eda51db9d85cb387d92cc6640eab66deedce1a",
-  "overview_digest": "0d32b33eac817ab888a446597d8910316328cbc53637fb3bedce31b4340087ab",
+  "overview_commit": "3f7af4c8a725010b7c6c38a0560bce8bdaae585c",
+  "overview_digest": "e7ed1740796df804a02499c1274642b98945d98d3c0b957a628b07a9e9cd2e3e",
   "paragraphs": [
+    {
+      "id": "bca3f6642e8b64dca6b9dd788bccff3eeb61f2a75fd6f726d4d9163440111666",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i|vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切]], a [[TianzhenButianzhen|天真不天真]] return conversation with [[SongJia|宋佳 / 小花老师]] on acting, work pauses, language, relationships, and self-cultivation. It adds [[TianzhenButianzhen]], [[SongJia]], [[InwardLookingSelfCultivation]], [[BenevolentSpeechPractice]], [[SincereEmotionalSupport]], and [[EvaluationAttachmentRelease]], while connecting [[EmbodiedActingImprovisation]], [[OlfactoryTraining]], [[TravelSensoryRecovery]], [[ActiveSoloLiving]], [[PodcastAuthenticityBoundary]], [[PodcastCommercializationFragmentation]], [[SincerityAsRelationshipTrust]], [[RelationshipNeedDiversification]], and [[EmotionRegulationToolkit]]. Its core synthesis is that the source treats growth as a shift from external control toward inward response: notice first reactions, inspect speech intention, express needs without trying to change others, apologize after old inertia appears, and stop building identity from praise or criticism. No settled contradiction is recorded; career uncertainty, spiritual language, relationship advice, and English-podcast plans remain source-scoped personal conversation rather than universal prescription.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 4,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "ActiveSoloLiving",
+        "BenevolentSpeechPractice",
+        "EmbodiedActingImprovisation",
+        "EmotionRegulationToolkit",
+        "EvaluationAttachmentRelease",
+        "InwardLookingSelfCultivation",
+        "OlfactoryTraining",
+        "PodcastAuthenticityBoundary",
+        "PodcastCommercializationFragmentation",
+        "RelationshipNeedDiversification",
+        "SincereEmotionalSupport",
+        "SincerityAsRelationshipTrust",
+        "SongJia",
+        "TianzhenButianzhen",
+        "TravelSensoryRecovery",
+        "vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i"
+      ]
+    },
     {
       "id": "b26998ed8105fc9962ce7130dcda6f4f84a26ac4ad79ef59cb8aaa27adc82847",
       "primary_topic": "culture-and-media",

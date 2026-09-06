@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6529
+wiki_total_pages: 6533
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "InvisibleClassicalAI"
     title: "Invisible Classical AI"
     url: "/wiki/concepts/invisibleclassicalai/"
+  - key: "InwardLookingSelfCultivation"
+    title: "Inward-Looking Self-Cultivation / 向内求式自我修行"
+    url: "/wiki/concepts/inwardlookingselfcultivation/"
   - key: "IoTBotnetRisk"
     title: "IoT Botnet Risk"
     url: "/wiki/concepts/iotbotnetrisk/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2464
+topic_total_pages: 2467
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2047,6 +2047,9 @@ topic_concepts:
   - key: "SichuanCuisine"
     title: "Sichuan Cuisine / 川菜"
     url: "/wiki/concepts/sichuancuisine/"
+  - key: "SincereEmotionalSupport"
+    title: "Sincere Emotional Support / 真诚的情绪价值"
+    url: "/wiki/concepts/sincereemotionalsupport/"
   - key: "SincerityAgainstSocialHypocrisy"
     title: "Sincerity Against Social Hypocrisy / 以真诚抵抗社会虚伪"
     url: "/wiki/concepts/sincerityagainstsocialhypocrisy/"
@@ -5981,6 +5984,9 @@ topic_entities:
   - key: "TiancaiBushou"
     title: "天才捕手 / Tiancai Bushou"
     url: "/wiki/entities/tiancaibushou/"
+  - key: "TianzhenButianzhen"
+    title: "天真不天真"
+    url: "/wiki/entities/tianzhenbutianzhen/"
   - key: "OrhanPamuk"
     title: "奥尔罕·帕慕克 / Orhan Pamuk"
     url: "/wiki/entities/orhanpamuk/"
@@ -7287,6 +7293,9 @@ topic_sources:
   - key: "vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr"
     title: "Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”"
     url: "/wiki/sources/vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr/"
+  - key: "vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i"
+    title: "vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切"
+    url: "/wiki/sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i/"
   - key: "tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128"
     title: "What do students lose when they rely on AI for homework?"
     url: "/wiki/sources/tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128/"

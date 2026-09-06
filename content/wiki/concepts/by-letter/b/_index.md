@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6529
+wiki_total_pages: 6533
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "BenevolentCommandExecutionGap"
     title: "Benevolent Command Execution Gap / 仁厚指挥执行缺口"
     url: "/wiki/concepts/benevolentcommandexecutiongap/"
+  - key: "BenevolentSpeechPractice"
+    title: "Benevolent Speech Practice / 善语结善缘"
+    url: "/wiki/concepts/benevolentspeechpractice/"
   - key: "Benfen"
     title: "Benfen / 本分"
     url: "/wiki/concepts/benfen/"

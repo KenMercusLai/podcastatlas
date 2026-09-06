@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 913
+topic_total_pages: 914
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -766,6 +766,9 @@ topic_concepts:
   - key: "InvestmentBehaviorCoaching"
     title: "Investment Behavior Coaching / 投资行为陪伴"
     url: "/wiki/concepts/investmentbehaviorcoaching/"
+  - key: "InwardLookingSelfCultivation"
+    title: "Inward-Looking Self-Cultivation / 向内求式自我修行"
+    url: "/wiki/concepts/inwardlookingselfcultivation/"
   - key: "JapanRiceSupplyFragility"
     title: "Japan Rice Supply Fragility / 日本大米供应脆弱性"
     url: "/wiki/concepts/japanricesupplyfragility/"
