@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 from typing import Any
@@ -46,6 +47,12 @@ def _canonical_title(path: Path) -> str:
             if line.startswith("title:"):
                 return line.split(":", 1)[1].strip().strip("\"'")
     return path.stem
+
+
+def _canonical_title_initialism(title: str) -> str | None:
+    if re.fullmatch(r"[A-Za-z]+(?: [A-Za-z]+)+", title) is None:
+        return None
+    return "".join(part[0].upper() for part in title.split(" "))
 
 
 def validate_registry(root: Path, registry_path: Path) -> list[str]:
@@ -130,6 +137,31 @@ def validate_registry(root: Path, registry_path: Path) -> list[str]:
             for item in evidence:
                 if not isinstance(item, dict):
                     errors.append(f"alias evidence must be an object: {value!r}")
+                    continue
+                if "canonical_title_initialism" in item:
+                    if item["canonical_title_initialism"] is not True:
+                        errors.append(
+                            "canonical title initialism evidence must be true: "
+                            f"{value!r}"
+                        )
+                        continue
+                    if set(item) != {"canonical_title_initialism"}:
+                        errors.append(
+                            "canonical title initialism evidence must not contain other fields: "
+                            f"{value!r}"
+                        )
+                        continue
+                    initialism = _canonical_title_initialism(target_title)
+                    if initialism is None:
+                        errors.append(
+                            "canonical title does not support initialism evidence: "
+                            f"{target_title!r} for content/{target_path}"
+                        )
+                    elif value != initialism:
+                        errors.append(
+                            f"alias is not the canonical title initialism {initialism!r}: "
+                            f"{value!r} for content/{target_path}"
+                        )
                     continue
                 evidence_path = item.get("path")
                 wikilink = item.get("wikilink")
