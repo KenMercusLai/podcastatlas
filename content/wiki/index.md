@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [史蒂夫说472期 - 赵今朝 - 化解焦虑最佳方法：拆解问题，温柔相待](sources/shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh.md) — 史蒂夫说 interview with Zhao Jinzhao / Dr. Claire on anxiety as demand-resource mismatch, body arousal, family transmission, and gentle support through decomposition.
 - [Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”](sources/vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr.md) — 文化有限 episode rereading Where the Crawdads Sing through marsh marginality, female growth, film adaptation, legal justice, natural law, wild-child motifs, and victim-held forgiveness.
 - [八月广播电视报：怎么所有人的青铜时代都在崩溃](sources/bayue-guangbo-dianshibao-zenme-suoyouren-de-qingtongshidai-dou-zai-bengkui-gkwrijioazzebf7pfatp6hhf.md) — 展开讲讲 culture-review episode linking creator obituaries, summer films, dramas, variety shows, stranger ethics, public participation, minority safety, and midlife body adjustments.
 - [手工耿×罗永浩！“村口的五金店里，出现了一个达达主义艺术家”](sources/shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1.md) — 罗永浩的十字路口 interview on 手工耿's welded inventions, manual craft path, short-video creator work, commercial restraint, and useful/useless art-adjacent value.
@@ -1952,6 +1953,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [史蒂夫说](entities/ShiDiFuShuo.md) — psychology and relationships podcast/show context for episode 472's anxiety conversation.
+- [Steve (史蒂夫说 host)](entities/SteveShiDiFuShuoHost.md) — host who grounds episode 472's anxiety conversation in personal body, shame, family, and relationship examples.
+- [赵金昭 / Dr. Claire](entities/ZhaoJinzhao.md) — counseling psychologist and Texas clinical psychologist interviewed about anxiety decomposition and gentle support.
 - [《蝲蛄吟唱的地方》 / Where the Crawdads Sing](entities/WhereTheCrawdadsSing.md) — Delia Owens novel read by Culture Limited as a female-growth, marsh-marginality, nature-writing, mystery, and justice-ambiguity case.
 - [《沼泽深处的女孩》 / Where the Crawdads Sing Film](entities/WhereTheCrawdadsSingFilm.md) — Film adaptation critiqued for prettifying Kya's poverty, compressing childhood, simplifying poetry, and weakening point-of-view coherence.
 - [Delia Owens / 迪利亚·欧文斯](entities/DeliaOwens.md) — Author of Where the Crawdads Sing whose scientific nature-writing and contested Zambia background are kept as source-scoped reading context.
@@ -11039,6 +11043,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Anxiety Decomposition / 焦虑拆解](concepts/AnxietyDecomposition.md) — method for turning diffuse anxiety into smaller body, situation, expectation, history, and support components.
+- [Gentle Anxiety Support / 温柔靠近焦虑](concepts/GentleAnxietySupport.md) — relationship posture for approaching anxiety without adding urgency or stimulation.
+- [Embodied Anxiety Regulation / 身体化焦虑调节](concepts/EmbodiedAnxietyRegulation.md) — body-first anxiety stabilization through breath, posture, grounding, muscle relaxation, and arousal interpretation.
+- [Family Anxiety Transmission / 家庭焦虑传递](concepts/FamilyAnxietyTransmission.md) — household and intergenerational pattern by which anxiety is absorbed, learned, or defended before it is named.
 - [Wetland Marginal Space / 湿地边缘空间](concepts/WetlandMarginalSpace.md) — Literary-social frame where a marsh shelters excluded people while also marking them as outside school, property, law, and respectability.
 - [Nature-Law / Legal-Justice Conflict / 自然法则与法律正义冲突](concepts/NatureLawLegalJustice.md) — Narrative tension between ecological survival logic and human law's evidentiary, procedural, and moral judgment demands.
 - [Victim Forgiveness Agency / 受害者原谅主动权](concepts/VictimForgivenessAgency.md) — Ethical frame that treats forgiveness as the harmed person's right rather than a duty imposed by perpetrators or bystanders.

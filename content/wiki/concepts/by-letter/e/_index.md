@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6490
+wiki_total_pages: 6494
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "EmbodiedAIValueChain"
     title: "Embodied AI Value Chain"
     url: "/wiki/concepts/embodiedaivaluechain/"
+  - key: "EmbodiedAnxietyRegulation"
+    title: "Embodied Anxiety Regulation / 身体化焦虑调节"
+    url: "/wiki/concepts/embodiedanxietyregulation/"
   - key: "EmbodiedCarbonBuildingCode"
     title: "Embodied Carbon Building Code"
     url: "/wiki/concepts/embodiedcarbonbuildingcode/"
