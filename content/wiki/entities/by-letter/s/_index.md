@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9097
+wiki_total_pages: 9101
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1940,6 +1940,9 @@ wiki_pages:
   - key: "Shaqiu"
     title: "沙丘 / Shaqiu"
     url: "/wiki/entities/shaqiu/"
+  - key: "ShaqiuGuanduLateHan"
+    title: "沙丘 / Shaqiu (Guandu theater)"
+    url: "/wiki/entities/shaqiuguandulatehan/"
   - key: "ShaqiuCrisis"
     title: "沙丘之变 / Shaqiu Crisis"
     url: "/wiki/entities/shaqiucrisis/"

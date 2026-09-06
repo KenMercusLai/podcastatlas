@@ -8859,6 +8859,10 @@
     "title": "蔡小川 / Cai Xiaochuan",
     "url": "/wiki/entities/caixiaochuan/"
   },
+  "CaiYangLateHan": {
+    "title": "蔡阳 / Cai Yang (late Han)",
+    "url": "/wiki/entities/caiyanglatehan/"
+  },
   "CaiYong": {
     "title": "蔡邕 / Cai Yong",
     "url": "/wiki/entities/caiyong/"
@@ -20047,6 +20051,10 @@
     "title": "Fivetran",
     "url": "/wiki/entities/fivetran/"
   },
+  "FixedCampSiegeEngineering": {
+    "title": "Fixed-Camp Siege Engineering / 营垒攻防工程",
+    "url": "/wiki/concepts/fixedcampsiegeengineering/"
+  },
   "FixedHumanNaturePolitics": {
     "title": "Fixed Human Nature Politics",
     "url": "/wiki/concepts/fixedhumannaturepolitics/"
@@ -22666,6 +22674,10 @@
   "GongCha": {
     "title": "Gong Cha / 共茶",
     "url": "/wiki/entities/gongcha/"
+  },
+  "GongDuLateHan": {
+    "title": "龚都 / Gong Du (late Han)",
+    "url": "/wiki/entities/gongdulatehan/"
   },
   "GongWei": {
     "title": "共尉 / Gong Wei",
@@ -49075,6 +49087,10 @@
     "title": "沙丘之变 / Shaqiu Crisis",
     "url": "/wiki/entities/shaqiucrisis/"
   },
+  "ShaqiuGuanduLateHan": {
+    "title": "沙丘 / Shaqiu (Guandu theater)",
+    "url": "/wiki/entities/shaqiuguandulatehan/"
+  },
   "ShareAI": {
     "title": "Share AI",
     "url": "/wiki/entities/shareai/"
@@ -51826,6 +51842,10 @@
   "StrategicPassControl": {
     "title": "Strategic Pass Control / 兵家必争通道控制",
     "url": "/wiki/concepts/strategicpasscontrol/"
+  },
+  "StrategicPatronExitJudgment": {
+    "title": "Strategic Patron Exit Judgment / 主公前途与安全退出判断",
+    "url": "/wiki/concepts/strategicpatronexitjudgment/"
   },
   "StrategicRecognitionAlignment": {
     "title": "Strategic Recognition Alignment / 谋略知己式归附",
@@ -60707,6 +60727,10 @@
     "title": "Yangtze River / 长江",
     "url": "/wiki/entities/yangtzeriver/"
   },
+  "YangwuGuanduLateHan": {
+    "title": "阳武 / Yangwu (Guandu theater)",
+    "url": "/wiki/entities/yangwuguandulatehan/"
+  },
   "YangzhouLateHan": {
     "title": "扬州 / Yangzhou (late Han province)",
     "url": "/wiki/entities/yangzhoulatehan/"
@@ -67494,6 +67518,10 @@
   "zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b": {
     "title": "《资治通鉴·汉纪》1046丨他凭什么被称作“三国隐藏最深的牛人”？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b/"
+  },
+  "zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm": {
+    "title": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm/"
   },
   "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju": {
     "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",

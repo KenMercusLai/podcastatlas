@@ -4,17 +4,28 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-07
-as_of_overview_commit: ef10920f101c993dd43954a6a74fa8165eb8560b
-input_digest: 623b4bfabb17b4b42ffdfd150d25b1d28dd3cd9cc29eff8ceeffd8695fb30f45
+as_of_overview_commit: b390facee248b324274e83f6599d0660467c8ac6
+input_digest: b6f02f505058ceec5df08366592009af5264f083b8bd51169c0867214ca8f4ac
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-History and geopolitics synthesis explains power through routes, borderlands, legitimacy claims, frontier command, institutional capacity, and public memory. The current topic spans physical chokepoints and cables, Eastern Han and late-Han court strategy, revolutionary and imperial state formation, and Ceuta's layered role as a Mediterranean-Atlantic enclave where ancient rule, Portuguese expansion, Spanish sovereignty, Moroccan claims, and migration pressure converge.
+Hanji 1047 strengthens the Guandu branch by adding Liu Bei's Runan exit, Cao Ren's counterstrike, Ju Shou's rejected Yangwu attrition advice, and the Shaqiu camp-engineering standoff before Wuchao. History and geopolitics synthesis explains power through routes, borderlands, legitimacy claims, frontier command, institutional capacity, and public memory. The current topic spans physical chokepoints and cables, Eastern Han and late-Han court strategy, revolutionary and imperial state formation, and Ceuta's layered role as a Mediterranean-Atlantic enclave where ancient rule, Portuguese expansion, Spanish sovereignty, Moroccan claims, and migration pressure converge.
 
 ## Cross-source Findings
+
+### Guandu Bridge Turns Scale Into Command Logistics Test
+
+[[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone.
+
+**Evidence:** [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], [[FixedCampSiegeEngineering]]
+
+**Qualifications:**
+
+- Liu Bei's motive is an episode-level interpretation rather than direct proof of his internal reasoning.
+- The transcript's place wording and the Yangwu/Shaqiu identities remain source-scoped or disambiguated.
 
 ### Borderlands Accumulate Historical Layers
 

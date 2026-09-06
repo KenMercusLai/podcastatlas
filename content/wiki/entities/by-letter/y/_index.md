@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 9097
+wiki_total_pages: 9101
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -890,6 +890,9 @@ wiki_pages:
   - key: "YangjinWarringStates"
     title: "阳晋 / Yangjin (Warring States)"
     url: "/wiki/entities/yangjinwarringstates/"
+  - key: "YangwuGuanduLateHan"
+    title: "阳武 / Yangwu (Guandu theater)"
+    url: "/wiki/entities/yangwuguandulatehan/"
   - key: "YangquanJun"
     title: "阳泉君 / Lord Yangquan"
     url: "/wiki/entities/yangquanjun/"

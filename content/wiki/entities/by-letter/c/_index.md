@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9097
+wiki_total_pages: 9101
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1658,6 +1658,9 @@ wiki_pages:
   - key: "CaiYong"
     title: "蔡邕 / Cai Yong"
     url: "/wiki/entities/caiyong/"
+  - key: "CaiYangLateHan"
+    title: "蔡阳 / Cai Yang (late Han)"
+    url: "/wiki/entities/caiyanglatehan/"
   - key: "Crab"
     title: "螃蟹 / Crab"
     url: "/wiki/entities/crab/"

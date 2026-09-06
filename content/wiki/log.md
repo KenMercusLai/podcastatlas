@@ -15600,9 +15600,17 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-07] ingest | 《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？
+
+Ingested the 2026-08-27 芮淇讲透资治通鉴 episode on Liu Bei's Runan pressure and exit from Yuan Shao, Cao Ren's counterattack, Gong Du and Cai Yang, Ju Shou's rejected long-war advice at Yangwu, and the Shaqiu-to-Guandu camp engineering standoff. Added source `zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm`; created `GongDuLateHan`, `CaiYangLateHan`, `YangwuGuanduLateHan`, `ShaqiuGuanduLateHan`, `StrategicPatronExitJudgment`, and `FixedCampSiegeEngineering`; updated `GuanduCampaign`, `RunanCommanderyLateHan`, `CaoRen`, `ResourceAsymmetryAttrition`, `index`, and `overview`. No settled contradiction found; Liu Bei's motive explanation, 尹川/颍川 wording, and Shaqiu/Yangwu place identities remain source-scoped or disambiguated.
+
 ## [2026-09-07] ingest | 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
 
 Ingested the 2026-08-28 忽左忽右 episode using Ceuta to connect Moroccan migration crossings, Strait of Gibraltar geography, ancient and medieval Mediterranean rule, Portuguese expansion, Spanish sovereignty, and migration weaponization. Added source `496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw`; created `LuDapeng`, `StraitOfGibraltar`, `Gibraltar`, `IberianPeninsula`, `VandalKingdom`, `ByzantineEmpire`, `AlAndalus`, `CordobaCaliphate`, `AlIdrisi`, `JohnIOfPortugal`, `HenryTheNavigator`, `CeutaImperialBorderland`, `IberianReconquista`, and `PortugueseMaritimeExpansion`; updated `Ceuta`, `Morocco`, `Portugal`, `MigrationWeaponization`, `BorderLegalSignal`, `HuzuoHuyou`, `ChengYanliang`, `index`, and `overview`. No settled contradiction found; Count Julian, the southern Pillar of Hercules identification, Moroccan intent in the 2026 crossings, and the 1415-as-Age-of-Discovery-origin claim remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6497
+wiki_total_pages: 6499
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1454,6 +1454,9 @@ wiki_pages:
   - key: "StrategicPassControl"
     title: "Strategic Pass Control / 兵家必争通道控制"
     url: "/wiki/concepts/strategicpasscontrol/"
+  - key: "StrategicPatronExitJudgment"
+    title: "Strategic Patron Exit Judgment / 主公前途与安全退出判断"
+    url: "/wiki/concepts/strategicpatronexitjudgment/"
   - key: "StrategicRecognitionAlignment"
     title: "Strategic Recognition Alignment / 谋略知己式归附"
     url: "/wiki/concepts/strategicrecognitionalignment/"
