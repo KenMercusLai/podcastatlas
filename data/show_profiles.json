@@ -1992,9 +1992,16 @@
       "earliest_episode_date": "2026-08-24",
       "latest_episode_date": "2026-08-31",
       "latest_episode_file": "GKwRIDoOapxPAz2h0wTPhrfr [GKwRIDoOapxPAz2h0wTPhrfr].md",
-      "source_note_count": 0,
-      "topic_matched_source_note_count": 0,
-      "topics": [],
+      "source_note_count": 1,
+      "topic_matched_source_note_count": 1,
+      "topics": [
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
+        }
+      ],
       "entities": [],
       "start_here_episode_files": [
         "GKwRIDoOapxPAz2h0wTPhrfr [GKwRIDoOapxPAz2h0wTPhrfr].md",
@@ -2650,8 +2657,8 @@
       ]
     },
     "纵横四海": {
-      "episode_count": 1,
-      "earliest_episode_date": "2026-08-29",
+      "episode_count": 2,
+      "earliest_episode_date": "2026-07-25",
       "latest_episode_date": "2026-08-29",
       "latest_episode_file": "GKwRIMAOaD7VBjtRSQTOtC4k [GKwRIMAOaD7VBjtRSQTOtC4k].md",
       "source_note_count": 0,
@@ -2659,12 +2666,13 @@
       "topics": [],
       "entities": [],
       "start_here_episode_files": [
-        "GKwRIMAOaD7VBjtRSQTOtC4k [GKwRIMAOaD7VBjtRSQTOtC4k].md"
+        "GKwRIMAOaD7VBjtRSQTOtC4k [GKwRIMAOaD7VBjtRSQTOtC4k].md",
+        "GKwRIMAOOMQ_BvEJTAS8O50a [GKwRIMAOOMQ_BvEJTAS8O50a].md"
       ]
     },
     "罗永浩的十字路口": {
-      "episode_count": 3,
-      "earliest_episode_date": "2026-07-31",
+      "episode_count": 4,
+      "earliest_episode_date": "2026-07-24",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
       "source_note_count": 1,
@@ -2681,7 +2689,8 @@
       "start_here_episode_files": [
         "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
         "lhKQsZ8pkcBLnmAEBsZ1m50TYSoS [lhKQsZ8pkcBLnmAEBsZ1m50TYSoS].md",
-        "lheI72y0MlQRh2XXbetNqdp_0Stb [lheI72y0MlQRh2XXbetNqdp_0Stb].md"
+        "lheI72y0MlQRh2XXbetNqdp_0Stb [lheI72y0MlQRh2XXbetNqdp_0Stb].md",
+        "liR8W53XeWCMvbqRB1x1osaiRaFg [liR8W53XeWCMvbqRB1x1osaiRaFg].md"
       ]
     },
     "芮淇讲透资治通鉴": {

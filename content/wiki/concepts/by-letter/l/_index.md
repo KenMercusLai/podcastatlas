@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6485
+wiki_total_pages: 6490
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "LiteAppGrowth"
     title: "Lite App Growth"
     url: "/wiki/concepts/liteappgrowth/"
+  - key: "LiteraryAdaptationTextureLoss"
+    title: "Literary Adaptation Texture Loss / 文学改编质感流失"
+    url: "/wiki/concepts/literaryadaptationtextureloss/"
   - key: "LiteraryAgentJudgment"
     title: "Literary Agent Judgment"
     url: "/wiki/concepts/literaryagentjudgment/"

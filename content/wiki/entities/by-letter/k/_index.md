@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 9075
+wiki_total_pages: 9083
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "KweichowMoutai"
     title: "Kweichow Moutai / 贵州茅台"
     url: "/wiki/entities/kweichowmoutai/"
+  - key: "KyaClark"
+    title: "Kya Clark / 基亚"
+    url: "/wiki/entities/kyaclark/"
   - key: "Kyiv"
     title: "Kyiv"
     url: "/wiki/entities/kyiv/"

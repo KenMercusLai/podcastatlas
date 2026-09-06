@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9075
+wiki_total_pages: 9083
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -125,6 +125,9 @@ wiki_pages:
   - key: "TasteOfNature"
     title: "Taste of Nature"
     url: "/wiki/entities/tasteofnature/"
+  - key: "TateWalker"
+    title: "Tate Walker / 泰特"
+    url: "/wiki/entities/tatewalker/"
   - key: "TatianaCirasano"
     title: "Tatiana Cirasano"
     url: "/wiki/entities/tatianacirasano/"

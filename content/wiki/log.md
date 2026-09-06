@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-06] ingest | Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”
+
+Ingested the 2026-08-31 文化有限 episode on 《蝲蛄吟唱的地方》 / Where the Crawdads Sing and 《沼泽深处的女孩》, reading Kya's marsh life through abandonment, female growth, nature writing, murder suspense, legal justice, forgiveness, and wild-child marginality. Added source `vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr`; created `WhereTheCrawdadsSing`, `WhereTheCrawdadsSingFilm`, `DeliaOwens`, `KyaClark`, `TateWalker`, `ChaseAndrews`, `DaLaoshiCultureLimited`, `XingguangCultureLimited`, `WetlandMarginalSpace`, `NatureLawLegalJustice`, `VictimForgivenessAgency`, `WildChildMarginality`, and `LiteraryAdaptationTextureLoss`; updated `CultureLimited`, `ChaoGe`, `index`, and `overview`. No settled contradiction found; Delia Owens's Zambia controversy, film reception, and the final justice interpretation remain source-scoped literary commentary.
+
 ## [2026-09-06] ingest | No.232 吴汉坤：AI 时代，演员第一个丢饭碗？
 
 Added 三五环 source on Wu Hankun, AI short films, actor performance boundaries, likeness authorization, Frederick AI, and hands-on AI practice as a response to creator anxiety.
@@ -15567,6 +15571,10 @@ Health and identity validation passed. Deterministic lint scanned 17,464 pages a
 ## [2026-09-06] ingest | EP385-《我的前半生》翻红：从“寄生虫”到“独立女性”，罗子君的逆袭成立吗？
 
 Ingested the 2026-09-01 无时差研究所 episode rereading 《我的前半生》 through Yi Shu's novel, the 2017 TV adaptation, short-video revival, female-supported growth, He Han's male-mentor role, consulting-era urban fantasy, and late-2010s economic memory. Added source `ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf`; created `WushichaYanjiusuo`, `YiShu`, `MyFirstHalfLife`, `LuoZijun`, `TangJing`, `HeHan`, `ChenJunsheng`, `LinglingMyFirstHalfLife`, `XueZhenzhuMyFirstHalfLife`, `MaleMentorFemaleGrowthNarrative`, `FemaleSupportDrivenGrowthNarrative`, `ShortVideoOldDramaRediscovery`, `EconomicUpswingUrbanDramaMemory`, and `PseudoIndependentWomenNarrative`; updated `index` and `overview`. No settled contradiction found; consulting layoffs, housing-price discussion, actor-reception claims, and audience-shift claims remain source-scoped cultural commentary.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-06] lint | Wiki health check
 
