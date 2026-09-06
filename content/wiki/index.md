@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？](sources/zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17.md) — 芮淇讲透资治通鉴 episode turning Xu You's fatal public credit overreach into a broader workplace and power-field lesson on high-merit threat, hierarchy boundaries, visibility reduction, and command surrender.
 - [《资治通鉴·汉纪》1064丨许攸之死：功高震主与性格缺陷的悲歌](sources/zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth.md) — 芮淇讲透资治通鉴 episode on Qian Zhao's submission, Cui Yan's people-first remonstrance, and Xu You's death after public credit overreach toward Cao Cao.
 - [EP282 不完美的共存：当“野生动物”成为城市“新居民”](sources/ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a.md) — Talk三联 episode on urban wildlife coexistence, feeding feedback loops, Qianling Mountain macaques, Nanjing wild boars, Shanghai raccoon dogs, city planning, animal welfare, and public-health risk.
 - [《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？](sources/zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o.md) — 芮淇讲透资治通鉴 episode on Sun Shao inheriting Sun He's troops, Cao Chun urging a quick Nanpi assault, Yuan Tan's death, Li Fu's city pacification, and Guo Tu's execution.
@@ -1937,6 +1938,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [郭子仪 / Guo Ziyi](entities/GuoZiyi.md) — Tang commander used in Hanji 1065 as a source-scoped model of reducing ruler suspicion through command surrender and low-threat conduct after great merit.
+- [卫青 / Wei Qing (Han general)](entities/WeiQingHanGeneral.md) — Western Han commander used in Hanji 1065 as a source-scoped model of humility and credit-sharing after high military achievement.
 - [Dwarkesh Patel](entities/DwarkeshPatel.md) — Source-scoped media reference cited for the "agent civilizations" framing in the All-In AI-agent narrative discussion.
 - [Qianling Mountain Macaques / 黔灵山猕猴](entities/QianlingMountainMacaques.md) — Urban-park macaque population used by EP282 to connect tourism feeding, habituation, carrying capacity, bites, and relocation uncertainty.
 - [Nanjing Wild Boars / 南京野猪](entities/NanjingWildBoars.md) — Urban and peri-urban boar case where visibility gaps, crop damage, feeding risk, ecological role, and culling controversy intersect.
@@ -10931,6 +10934,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [High Merit Threat Management / 功高不震主](concepts/HighMeritThreatManagement.md) — Hanji 1065 pattern for keeping real contribution from becoming a superior-facing threat through credit return, low visibility, retreat, humility, or command surrender.
 - [Urban Wildlife Coexistence / 城市野生动物共存](concepts/UrbanWildlifeCoexistence.md) — City-wildlife frame for animals becoming everyday urban neighbors through habitat change, feeding, affection, fear, planning, and public management.
 - [Wildlife Feeding Feedback Loop / 野生动物投喂反馈回路](concepts/WildlifeFeedingFeedbackLoop.md) — Mechanism where intentional or indirect feeding reduces wildlife avoidance and turns care, content, garbage, and pet food into conflict drivers.
 - [Urban Wildlife Conflict Management / 城市野生动物冲突治理](concepts/UrbanWildlifeConflictManagement.md) — Governance frame for bans, enforcement, relocation, contraception, hunting, welfare, public health, and design responses to city wildlife conflict.

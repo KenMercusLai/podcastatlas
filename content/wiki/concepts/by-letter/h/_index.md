@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6414
+wiki_total_pages: 6415
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "HighGeneralLowSpecificExpectations"
     title: "High General, Low Specific Expectations"
     url: "/wiki/concepts/highgenerallowspecificexpectations/"
+  - key: "HighMeritThreatManagement"
+    title: "High Merit Threat Management / 功高不震主"
+    url: "/wiki/concepts/highmeritthreatmanagement/"
   - key: "HighResponsibilityDensity"
     title: "High Responsibility Density"
     url: "/wiki/concepts/highresponsibilitydensity/"

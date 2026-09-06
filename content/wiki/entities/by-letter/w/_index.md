@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8990
+wiki_total_pages: 8992
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -659,6 +659,9 @@ wiki_pages:
   - key: "WeyChenggong"
     title: "卫成公 / 卫成侯 / Duke-Marquis Cheng of Wey"
     url: "/wiki/entities/weychenggong/"
+  - key: "WeiQingHanGeneral"
+    title: "卫青 / Wei Qing (Han general)"
+    url: "/wiki/entities/weiqinghangeneral/"
   - key: "WusiSouthernXiongnu"
     title: "句龙王吾斯 / Wusi (Southern Xiongnu)"
     url: "/wiki/entities/wusisouthernxiongnu/"

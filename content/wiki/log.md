@@ -15244,6 +15244,10 @@ Ran lint. See lint-report.md for details.
 
 Ingested the 2026-09-03 The Intelligence episode on Donald Trump's quieter but systematic deportation campaign, Reddit's AI-search and community-data licensing exposure, and the Bayeux Tapestry's first exhibition outside France. Added source `ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9`; created Bayeux, British Museum, Shira Ovide, Norman Conquest, immigration-court throughput, technology-assisted interior enforcement, human community data licensing, medieval visual political narrative, and art-after-violence memory pages; updated ICE, DHS, Aaron Braun, Alexandra Suich Bass, Reddit, Google AI Overviews, AI content licensing, AI answer attribution, open web traffic decline, platform community governance, user-powered content platforms, and immigration backlash cycle. No settled contradiction found; removal totals, voluntary-departure figures, polling, Reddit traffic and deal amounts, chatbot citation claims, and Bayeux maker/ending theories remain source-scoped.
 
+## [2026-09-06] ingest | 《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？
+
+Ingested the 2026-09-04 芮淇讲透资治通鉴 episode that extends Xu You's public credit overreach into a broader power-field and workplace synthesis: old merit decays as protection, public hierarchy remains active in front of third parties, and safety depends on keeping current indispensability higher than perceived threat. Added source `zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17`; created `HighMeritThreatManagement`, `GuoZiyi`, and `WeiQingHanGeneral`; updated `SuperiorCreditConflictRisk` and `index`. No settled contradiction found; the later historical comparisons and the indispensability/threat formula remain source-scoped.
+
 ## [2026-09-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -15447,6 +15451,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-06] ingest | 《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操
 
 Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Yuan Xi and Yuan Shang fleeing toward Wuhuan, Jiao Chu and Zhang Nan coercing Youzhou officials into a Cao-side blood oath, Han Heng refusing the oath, Zhang Yan's formal Black Mountain surrender, Youzhou/Wuhuan instability, Gao Gan's renewed Bingzhou rebellion, and Xun Yu recommending Du Ji for Hedong. Added source `zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o`; created `YuanXiLateHan`, `LiuFangLateHan`, `WangSongLateHan`, `JiaoChuLateHan`, `ZhangNanLateHan`, `HanHengLateHan`, `ZhaoDuLateHan`, `HuoNuLateHan`, `DuJiLateHan`, `WangYiHedongLateHan`, `WeiGuLateHan`, `FanXianLateHan`, `ZhangShengLateHan`, `ZhangYanHedongLateHan`, `LoyalRefusalLegitimacySignal`, and `TransitHubCommanderyControl`; updated `GaoGanLateHan`, `ZhangYanLateHan`, and `index`. No settled contradiction found; 张南/张衍/王邑 are disambiguated from existing routes, and minor official identities, Kuangping geography, and motive readings remain source-scoped.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-06] lint | Wiki health check
 

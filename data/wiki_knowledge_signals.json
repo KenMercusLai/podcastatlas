@@ -26389,6 +26389,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/guozhenlatehan/"
     },
+    "GuoZiyi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
+          "key": "zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/guoziyi/"
+    },
     "HYROX": {
       "episode_count": 2,
       "show_count": 2,
@@ -27585,6 +27601,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/highbetasciencefunding/"
+    },
+    "HighMeritThreatManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
+          "key": "zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/highmeritthreatmanagement/"
     },
     "HighStatusCautionSelfProtection": {
       "episode_count": 2,
@@ -57616,9 +57648,9 @@
       "url": "/wiki/entities/suobanlatehan/"
     },
     "SuperiorCreditConflictRisk": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
@@ -57633,6 +57665,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1064丨许攸之死：功高震主与性格缺陷的悲歌",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
+          "key": "zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17/"
         }
       ],
       "updated": "2026-09-06",
@@ -63271,6 +63310,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/weiqiansanlian/"
+    },
+    "WeiQingHanGeneral": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
+          "key": "zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/weiqinghangeneral/"
     },
     "WeiTengLateHan": {
       "episode_count": 1,
