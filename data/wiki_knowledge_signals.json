@@ -1211,9 +1211,9 @@
       "url": "/wiki/concepts/aicoworkers/"
     },
     "AICreativeCollaboration": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128 [BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8389b3].md",
@@ -1228,9 +1228,16 @@
           "show": "Huberman Lab",
           "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
           "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        },
+        {
+          "episode_file": "GKwRIJEOY3bQAZ64EATMgX81 [GKwRIJEOY3bQAZ64EATMgX81].md",
+          "key": "no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81",
+          "show": "三五环",
+          "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
+          "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/aicreativecollaboration/"
     },
     "AICreditAccessBias": {
@@ -1308,6 +1315,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/aidatareadiness/"
+    },
+    "AIDirectorCoreWorkflow": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 ｜ S10E11 [3c05e3d5-d8f6-44c1-97ca-698261d7b2bc].md",
+          "key": "cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc",
+          "show": "What's Next｜科技早知道",
+          "title": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11",
+          "url": "/wiki/sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc/"
+        },
+        {
+          "episode_file": "GKwRIJEOY3bQAZ64EATMgX81 [GKwRIJEOY3bQAZ64EATMgX81].md",
+          "key": "no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81",
+          "show": "三五环",
+          "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
+          "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/aidirectorcoreworkflow/"
     },
     "AIDrivenCreatorMarketing": {
       "episode_count": 1,
@@ -11260,6 +11290,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/chocrevive/"
     },
+    "Chouxiangzai": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 ｜ S10E11 [3c05e3d5-d8f6-44c1-97ca-698261d7b2bc].md",
+          "key": "cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc",
+          "show": "What's Next｜科技早知道",
+          "title": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11",
+          "url": "/wiki/sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc/"
+        },
+        {
+          "episode_file": "GKwRIJEOY3bQAZ64EATMgX81 [GKwRIJEOY3bQAZ64EATMgX81].md",
+          "key": "no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81",
+          "show": "三五环",
+          "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
+          "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/chouxiangzai/"
+    },
     "ChrisPalmer": {
       "episode_count": 1,
       "show_count": 1,
@@ -20939,6 +20992,36 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/experienceformingeducation/"
+    },
+    "ExpertiseAmplifiedAIUse": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP242 独立游戏，是一条搞钱好赛道吗？ [lrqbZrCEumbuGGzuERo5QB4Jv3zu].md",
+          "key": "ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu",
+          "show": "Talk三联",
+          "title": "EP242 独立游戏，是一条搞钱好赛道吗？",
+          "url": "/wiki/sources/ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu/"
+        },
+        {
+          "episode_file": "tech_20260202_0202_MP_TECH_pod_128 [tech_20260202_0202_MP_TECH_pod_128].md",
+          "key": "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Making the most of AI, without the hype",
+          "url": "/wiki/sources/tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "GKwRIJEOY3bQAZ64EATMgX81 [GKwRIJEOY3bQAZ64EATMgX81].md",
+          "key": "no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81",
+          "show": "三五环",
+          "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
+          "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/expertiseamplifiedaiuse/"
     },
     "ExplainableAILending": {
       "episode_count": 2,
@@ -38490,9 +38573,9 @@
       "url": "/wiki/entities/liufanglatehan/"
     },
     "LiuFei": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -38507,9 +38590,16 @@
           "show": "三五环",
           "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
           "url": "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
+        },
+        {
+          "episode_file": "GKwRIJEOY3bQAZ64EATMgX81 [GKwRIJEOY3bQAZ64EATMgX81].md",
+          "key": "no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81",
+          "show": "三五环",
+          "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
+          "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/liufei/"
     },
     "LiuFuLateHan": {
@@ -56383,9 +56473,9 @@
       "url": "/wiki/entities/samueljohnson/"
     },
     "SanWuHuan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -56400,9 +56490,16 @@
           "show": "三五环",
           "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
           "url": "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
+        },
+        {
+          "episode_file": "GKwRIJEOY3bQAZ64EATMgX81 [GKwRIJEOY3bQAZ64EATMgX81].md",
+          "key": "no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81",
+          "show": "三五环",
+          "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
+          "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/sanwuhuan/"
     },
     "Sanguozhi": {
@@ -69814,6 +69911,29 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/xinpinglatehan/"
+    },
+    "XinYuanYangHuDieMeng": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 ｜ S10E11 [3c05e3d5-d8f6-44c1-97ca-698261d7b2bc].md",
+          "key": "cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc",
+          "show": "What's Next｜科技早知道",
+          "title": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11",
+          "url": "/wiki/sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc/"
+        },
+        {
+          "episode_file": "GKwRIJEOY3bQAZ64EATMgX81 [GKwRIJEOY3bQAZ64EATMgX81].md",
+          "key": "no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81",
+          "show": "三五环",
+          "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
+          "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/xinyuanyanghudiemeng/"
     },
     "XingguangCultureLimited": {
       "episode_count": 1,

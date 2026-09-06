@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达](sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81.md) — 三五环 interview with Chouxiangzai on CCTV documentary training, AI-video virality, internet expression, Kanye-style cultural contrast, short-drama workflow, and C-side attention becoming B-side service work.
 - [EP384-普通人也能打得起的“司美格鲁肽”，减肥针“一针瘦十斤”背后的真相与代](sources/ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy.md) — 无时差研究所 episode with Guo Haotian on GLP-1 weight-loss drugs, semaglutide, tirzepatide, side effects, rebound, muscle preservation, pricing, patents, China pipelines, and research-use peptide risk.
 - [她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮](sources/ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof.md) — 十字路口Crossing interview with Chen Anni on Kuaikan Manhua's LIVO, AI-native narrative worlds, agentic characters, fate-centered interaction, content taste, commercialization discipline, and game-spirit organization.
 - [说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？](sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc.md) — 说得好听 episode with Mureka and ACR Cloud on AI music after the demo stage: workflow integration, copyright detection, AI labeling, DSP settlement, bulk generation, and platform governance.
@@ -7188,9 +7189,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bafang Electric / 八方股份](entities/BafangElectric.md) — Chinese E-bike motor company used by the episode to illustrate value-chain shift toward electric-assist systems.
 - [李诞](entities/LiDan.md) — Comedian and creator guest explaining podcast intimacy, AI-assisted adult learning, AI creation disclosure, and middle-age technology memory in the Banlatte special.
 - [肖磊](entities/XiaoLei.md) — Banlatte host whose radio-to-podcast path and preparation-heavy work describe Chinese podcast production from the media-worker side.
-- [刘飞](entities/LiuFei.md) — Banlatte host and former product manager connecting business storytelling, 三五环, podcast commerce, and ecosystem relationships.
+- [刘飞](entities/LiuFei.md) — Banlatte host and former product manager connecting business storytelling, 三五环, podcast commerce, AI-video creator interviews, and ecosystem relationships.
 - [小宇宙](entities/Xiaoyuzhou.md) — Chinese podcast-platform context for podcast ecosystem discussion, platform-affordance examples, education projects, and the 面基 talent group livestreaming episode.
-- [三五环](entities/SanWuHuan.md) — Liu Fei's other podcast context, used to locate his product-to-podcast path around Banlatte.
+- [三五环](entities/SanWuHuan.md) — Liu Fei podcast context now represented as a practitioner-interview venue for AI video, creator work, internet expression, and product-cultural questions.
 - [朱晓东 / Zhu Xiaodong](entities/ZhuXiaodongSportsRights.md) — Sports-rights specialist and Lizan Sports CEO explaining World Cup rights pricing, packaging, and buyer capacity in E237.
 - [张斌 / Zhang Bin](entities/ZhangBinSportsMedia.md) — Sports media figure explaining platform and China-market implications of CCTV-FIFA rights negotiation in E237.
 - [力赞体育 / Lizan Sports](entities/LizanSports.md) — Sports-rights company context for Zhu Xiaodong in E237.
@@ -10187,12 +10188,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刚刚好影视 / Gangganghao Yingshi](entities/GangganghaoYingshi.md) — Live-action short-drama company contrasted with Rixin Yiy through higher-budget, story-led, single-project production.
 - [苏太太高调离婚了 / Su Taitai Gaodiao Lihunle](entities/SuTaitaiGaodiaoLihunle.md) — Live-action short-drama work used as an episode 269 example of completion, immersion, and story-driven free-platform performance.
 - [甄千金他是学霸 / Zhen Qianjin Ta Shi Xueba](entities/ZhenQianjinTaShiXueba.md) — Live-action short-drama example used to explain why changed character relationships change motivation and story events.
-- [抽象仔 / Chouxiangzai](entities/Chouxiangzai.md) — Former CCTV documentary director and AI short-drama creator explaining director-core workflows, C-DANCE/Seedance use, and overseas audience fit.
+- [抽象仔 / 抽象宅 / Chouxiangzai](entities/Chouxiangzai.md) — Former CCTV documentary director and AI-video creator explaining director-core workflows, viral internet expression, C-side attention, and B-side service translation.
 - [台台 / Taitai](entities/Taitai.md) — AI short-drama producer and creator explaining cost structure, platform policy risk, paid traffic, and author-centered studio strategy.
 - [Rodeo.ai](entities/RodeoAI.md) — Overseas AI short-drama platform named as the release context for 《五个哥哥都宠我》.
 - [五个哥哥都宠我](entities/WuGeGeGeDouChongWo.md) — Early overseas AI short-drama project used to show localization, budget imagination, and slow first-generation workflows.
 - [亿万富翁回归](entities/YiWanFuWengHuiGui.md) — Overseas AI short-drama monetization case used to show why story and audience psychology can beat visible AI flaws.
-- [新鸳鸯蝴蝶梦](entities/XinYuanYangHuDieMeng.md) — AI-video work used as a realism example after C-DANCE/Seedance-style model improvement.
+- [新鸳鸯蝴蝶梦](entities/XinYuanYangHuDieMeng.md) — AI-video work used as a realism, fan-culture, and cross-cultural virality example in Chouxiangzai's public creator track.
 - [西宋风云](entities/XiSongFengyun.md) — AI work used to discuss director-selected generated performance and the boundary around live human feeling.
 - [酱油文化 / Jiangyou Wenhua](entities/JiangyouWenhua.md) — High-volume short-drama production benchmark contrasted with a smaller author-centered AI studio route.
 - [YouTube](entities/YouTube.md) — Video platform discussed through social-media product liability verdicts, media dominance, short-drama distribution, Social Radars clips, and Google's acquisition as legal-risk acquirer fit.
@@ -12885,7 +12886,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vaccine Schedule Trust Rebuilding](concepts/VaccineScheduleTrustRebuilding.md) — Public-health trust frame for preserving vaccine uptake while making schedule priority, timing, combination, adverse-experience, and evidence questions discussable.
 - [Root-Cause Public Health Research](concepts/RootCausePublicHealthResearch.md) — Research-priority frame around food, school lunches, microbiome, sleep, environment, inflammation, and chronic-disease causes.
 - [Consumer Health AI Governance](concepts/ConsumerHealthAIGovernance.md) — FDA boundary between consumer health information tools and AI or wearable systems that claim medical-grade intervention or measurement.
-- [AI Creative Collaboration](concepts/AICreativeCollaboration.md) — Use of AI for drafts, media, variations, and video shots while human creators keep intention, taste, editing, and authorship.
+- [AI Creative Collaboration](concepts/AICreativeCollaboration.md) — Use of AI for drafts, media, variations, video shots, and internet-native visual ideas while human creators keep intention, taste, editing, audience insight, and authorship.
 - [AI First-Draft Generation](concepts/AIFirstDraftGeneration.md) — Workflow where AI creates a starting draft that a human then verifies, edits, personalizes, and owns.
 - [AI Professional Data Security](concepts/AIProfessionalDataSecurity.md) — Workplace boundary around what employer, client, competitor, or proprietary context may be entered into AI tools.
 - [AI Assisted Light Coding](concepts/AIAssistedLightCoding.md) — Non-specialist use of AI-generated snippets and small automations, bounded by local context, testing, and responsibility.
@@ -16166,7 +16167,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Intermittent Reinforcement](concepts/IntermittentReinforcement.md) — Variable reward pattern where uncertain payoff drives repeated behavior more strongly than predictable reward.
 - [AI Assistant Augmentation](concepts/AIAssistantAugmentation.md) — Practical frame that treats AI as an assistant for tasks, learning, creativity, and decisions while humans retain intent, expertise, agency, and review.
 - [Ambient AI Interface](concepts/AmbientAIInterface.md) — Interface shift where AI moves beyond a standalone chatbot into devices, apps, services, microphones, and operating systems.
-- [Expertise-Amplified AI Use](concepts/ExpertiseAmplifiedAIUse.md) — Claim that experts may benefit most from AI because they know what to ask, what quality looks like, and how to catch errors.
+- [Expertise-Amplified AI Use](concepts/ExpertiseAmplifiedAIUse.md) — Claim that experts may benefit most from AI because prior craft helps them ask, judge, correct, and turn model output into usable work.
 - [Mundane AI Use Cases](concepts/MundaneAIUseCases.md) — Everyday AI adoption pattern focused on summarizing, dictating, scheduling, and document discussion rather than spectacular demos.
 - [AI Hallucination](concepts/AIHallucination.md) — General reliability failure where AI produces plausible but false or unsupported output, requiring verification and judgment.
 - [Information Apocalypse](concepts/InformationApocalypse.md) — Aviv Ovadia's frame for AI-accelerated collapse in people's ability to trust what they see and hear.
@@ -16806,7 +16807,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Short Drama Economics](concepts/ShortDramaEconomics.md) — Cost, paid-traffic, IAP-to-IAA, ad-yield, and single-minute-cost frame behind short drama and AI short drama.
 - [Short Drama Paid-Traffic Distribution](concepts/ShortDramaPaidTrafficDistribution.md) — Distributor, ad-buying, ROI, ad-placement, and delayed settlement mechanism behind some short-drama scale-ups.
 - [AI Video Production Workflow](concepts/AIVideoProductionWorkflow.md) — Practical AI-video creation process involving scripts, prompts, image/video generation, repeated draws, editing, localization, and rights checks.
-- [AI Director-Core Workflow](concepts/AIDirectorCoreWorkflow.md) — AI short-drama production pattern centered on director intent, scripts, asset libraries, storyboards, model-specific generation, and human performance judgment.
+- [AI Director-Core Workflow](concepts/AIDirectorCoreWorkflow.md) — AI video and short-drama production pattern centered on director intent, scripts, assets, storyboards, model-specific generation, client translation, and human performance judgment.
 - [AI Short Drama Overseas Localization](concepts/AIShortDramaOverseasLocalization.md) — Outbound AI short-drama localization frame covering story resonance, fantasy/status symbols, payment behavior, and platform distribution.
 - [Platformized Drama Production](concepts/PlatformizedDramaProduction.md) — Shift from producer-led long-video commissioning toward open submission, fast feedback, platform governance, and market-tested drama supply.
 - [Live-Action Short Drama](concepts/LiveActionShortDrama.md) — Human-cast short-drama category whose value depends on actor fit, relationship nuance, collaborative production craft, and AI-assisted rather than AI-replaced workflows.

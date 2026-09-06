@@ -1422,7 +1422,7 @@ wiki_pages:
     title: "成龙 / Cheng Long (Late Han)"
     url: "/wiki/entities/chenglonglatehan/"
   - key: "Chouxiangzai"
-    title: "抽象仔 / Chouxiangzai"
+    title: "抽象仔 / 抽象宅 / Chouxiangzai"
     url: "/wiki/entities/chouxiangzai/"
   - key: "ChinaMerchantsFund"
     title: "招商基金 / China Merchants Fund"

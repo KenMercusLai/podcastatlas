@@ -15604,6 +15604,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-07] ingest | No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达
+
+Ingested the 2026-08-25 三五环 episode with Chouxiangzai on moving from CCTV documentary and commercial-video work into AI-video creation, viral internet expression, Kanye-related cultural contrast, AI short-drama workflow, client communication, and C-side attention feeding B-side services. Added source `no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81`; updated `Chouxiangzai`, `LiuFei`, `SanWuHuan`, `XinYuanYangHuDieMeng`, `AIDirectorCoreWorkflow`, `ExpertiseAmplifiedAIUse`, `AICreativeCollaboration`, `index`, and `overview`. No settled contradiction found; 抽象仔/抽象宅 naming, client/resource names, viral figures, project timing, and ROI observations remain source-scoped.
+
 ## [2026-09-07] ingest | EP384-普通人也能打得起的“司美格鲁肽”，减肥针“一针瘦十斤”背后的真相与代
 
 Ingested the 2026-08-25 无时差研究所 episode with Guo Haotian on GLP-1 weight-loss drugs, semaglutide, tirzepatide, personal response variation, side effects, rebound, muscle preservation, pregnancy caution, pricing, patents, China pipelines, and research-use peptide risk. Added source `ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy`; created `GuoHaotian`; updated `WushichaYanjiusuo`, `GLP1Agonists`, `LifestyleWeightManagement`, `MuscleAsLongevityInfrastructure`, `GrayMarketPeptides`, `index`, and `overview`. No settled contradiction found; atypical hunger response, exact clinical trial figures, pregnancy and thyroid concerns, pricing, patent timing, drug pipelines, and stock-market interpretations remain source-scoped public medical-literacy and industry commentary.
@@ -15635,6 +15639,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | 说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？
 
 Ingested the 2026-08-26 说得好听 episode with Mureka product lead 叶律 and ACR Cloud co-founder Tony on AI music after basic generation becomes ordinary. Added source `shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc`; created `ShuoDeHaoTing`, `Mureka`, `ACRCloud`, `YeLuMureka`, `TonyACRCloud`, `AIMusicWorkflowIntegration`, `AIMusicDetectionAndLabeling`, and `AIMusicSettlementParity`; updated `GenerativeAIMusic`, `MusicIndustryAIResponse`, `index`, and `overview`. No settled contradiction found; detection accuracy, exact AI participation percentages, DSP payout policy, training-data compensation, and long-term AI classic-song potential remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 
