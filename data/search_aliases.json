@@ -20,8 +20,7 @@
           "value": "CFTC",
           "evidence": [
             {
-              "path": "content/wiki/concepts/PredictionMarketEthics.md",
-              "wikilink": "[[CommodityFuturesTradingCommission|CFTC]]"
+              "canonical_title_initialism": true
             }
           ]
         }
@@ -85,8 +84,7 @@
           "value": "NBA",
           "evidence": [
             {
-              "path": "content/wiki/concepts/PredictionMarketEthics.md",
-              "wikilink": "[[NationalBasketballAssociation|NBA]]"
+              "canonical_title_initialism": true
             }
           ]
         }

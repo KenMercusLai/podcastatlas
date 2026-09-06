@@ -76,6 +76,181 @@ class SearchAliasRegistryTest(unittest.TestCase):
 
             self.assertEqual([], validator.validate_registry(root, registry))
 
+    def test_accepts_an_alias_derived_from_the_canonical_title_initialism(self):
+        validator = load_validator()
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            write(
+                root / "content/wiki/entities/NationalBasketballAssociation.md",
+                '---\ntitle: "National Basketball Association"\ntype: entity\n---\n',
+            )
+            registry = root / "data/search_aliases.json"
+            write(
+                registry,
+                json.dumps(
+                    {
+                        "version": 1,
+                        "entries": {
+                            "wiki/entities/NationalBasketballAssociation.md": {
+                                "aliases": [
+                                    {
+                                        "value": "NBA",
+                                        "evidence": [{"canonical_title_initialism": True}],
+                                    }
+                                ]
+                            }
+                        },
+                    }
+                ),
+            )
+
+            self.assertEqual([], validator.validate_registry(root, registry))
+
+    def test_rejects_an_alias_that_is_not_the_canonical_title_initialism(self):
+        validator = load_validator()
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            write(
+                root / "content/wiki/entities/NationalBasketballAssociation.md",
+                '---\ntitle: "National Basketball Association"\ntype: entity\n---\n',
+            )
+            registry = root / "data/search_aliases.json"
+            write(
+                registry,
+                json.dumps(
+                    {
+                        "version": 1,
+                        "entries": {
+                            "wiki/entities/NationalBasketballAssociation.md": {
+                                "aliases": [
+                                    {
+                                        "value": "WNBA",
+                                        "evidence": [{"canonical_title_initialism": True}],
+                                    }
+                                ]
+                            }
+                        },
+                    }
+                ),
+            )
+
+            errors = validator.validate_registry(root, registry)
+
+        self.assertTrue(any("canonical title initialism" in error for error in errors), errors)
+
+    def test_rejects_initialism_evidence_for_a_punctuated_title(self):
+        validator = load_validator()
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            write(
+                root / "content/wiki/entities/ChildrensHospitalOfPhiladelphia.md",
+                '---\ntitle: "Children\'s Hospital of Philadelphia"\ntype: entity\n---\n',
+            )
+            registry = root / "data/search_aliases.json"
+            write(
+                registry,
+                json.dumps(
+                    {
+                        "version": 1,
+                        "entries": {
+                            "wiki/entities/ChildrensHospitalOfPhiladelphia.md": {
+                                "aliases": [
+                                    {
+                                        "value": "CSHOP",
+                                        "evidence": [{"canonical_title_initialism": True}],
+                                    }
+                                ]
+                            }
+                        },
+                    }
+                ),
+            )
+
+            errors = validator.validate_registry(root, registry)
+
+        self.assertTrue(
+            any("does not support initialism evidence" in error for error in errors), errors
+        )
+
+    def test_rejects_non_true_initialism_markers_instead_of_legacy_dispatch(self):
+        validator = load_validator()
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            write(
+                root / "content/wiki/entities/NationalBasketballAssociation.md",
+                '---\ntitle: "National Basketball Association"\ntype: entity\n---\n',
+            )
+            write(
+                root / "content/wiki/concepts/Basketball.md",
+                "[[NationalBasketballAssociation|NBA]]\n",
+            )
+            registry = root / "data/search_aliases.json"
+            for marker in (False, None, 1, "true"):
+                with self.subTest(marker=marker):
+                    evidence = {
+                        "canonical_title_initialism": marker,
+                        "path": "content/wiki/concepts/Basketball.md",
+                        "wikilink": "[[NationalBasketballAssociation|NBA]]",
+                    }
+                    write(
+                        registry,
+                        json.dumps(
+                            {
+                                "version": 1,
+                                "entries": {
+                                    "wiki/entities/NationalBasketballAssociation.md": {
+                                        "aliases": [{"value": "NBA", "evidence": [evidence]}]
+                                    }
+                                },
+                            }
+                        ),
+                    )
+
+                    errors = validator.validate_registry(root, registry)
+
+                    self.assertTrue(
+                        any("initialism evidence must be true" in error for error in errors),
+                        errors,
+                    )
+
+    def test_rejects_initialism_evidence_mixed_with_legacy_fields(self):
+        validator = load_validator()
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            write(
+                root / "content/wiki/entities/NationalBasketballAssociation.md",
+                '---\ntitle: "National Basketball Association"\ntype: entity\n---\n',
+            )
+            registry = root / "data/search_aliases.json"
+            write(
+                registry,
+                json.dumps(
+                    {
+                        "version": 1,
+                        "entries": {
+                            "wiki/entities/NationalBasketballAssociation.md": {
+                                "aliases": [
+                                    {
+                                        "value": "NBA",
+                                        "evidence": [
+                                            {
+                                                "canonical_title_initialism": True,
+                                                "path": "content/wiki/concepts/Basketball.md",
+                                                "wikilink": "[[NationalBasketballAssociation|NBA]]",
+                                            }
+                                        ],
+                                    }
+                                ]
+                            }
+                        },
+                    }
+                ),
+            )
+
+            errors = validator.validate_registry(root, registry)
+
+        self.assertTrue(any("must not contain other fields" in error for error in errors), errors)
+
     def test_rejects_generated_overview_as_alias_evidence(self):
         validator = load_validator()
         with tempfile.TemporaryDirectory() as directory:
