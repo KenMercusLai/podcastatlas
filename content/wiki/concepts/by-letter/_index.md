@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6417
+wiki_total_pages: 6424
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1532,6 +1532,12 @@ wiki_pages:
   - key: "AnimalMoralProjection"
     title: "Animal Moral Projection"
     url: "/wiki/concepts/animalmoralprojection/"
+  - key: "AnimalPainLegalRecognition"
+    title: "Animal Pain Legal Recognition / 动物痛苦的法律承认"
+    url: "/wiki/concepts/animalpainlegalrecognition/"
+  - key: "AnimalProtectionCodedExpression"
+    title: "Animal Protection Coded Expression / 动保暗语表达"
+    url: "/wiki/concepts/animalprotectioncodedexpression/"
   - key: "AnimalReproductiveStrategies"
     title: "Animal Reproductive Strategies"
     url: "/wiki/concepts/animalreproductivestrategies/"

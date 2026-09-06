@@ -7308,6 +7308,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AnimalPainLegalRecognition": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AnimalReproductiveStrategies": [
     {
       "key": "science",
@@ -13391,6 +13398,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ChildAnimalCrueltyLifeEducation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ChildCompetenceWishFulfillment": [
     {
       "key": "culture",
@@ -13512,6 +13526,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ChinaAnimalProtectionLawGap": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ChinaAsTrumpNarrativeEnemy": [
@@ -16778,6 +16799,13 @@
       "label": "Politics",
       "url": "/topics/politics/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "CrueltyFootageVisibilityDilemma": [
     {
       "key": "culture",
       "label": "Culture",
@@ -38642,6 +38670,13 @@
     }
   ],
   "MajoritarianLegalUniformity": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "MakChiHoAnimalAdvocate": [
     {
       "key": "politics",
       "label": "Politics",
@@ -68476,6 +68511,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ZhangBoAnimalLaw": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ZhangBohouJerry": [
     {
       "key": "culture",
@@ -72392,6 +72434,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "live-anthropic-co-founder-on-ai-and-jobs": [

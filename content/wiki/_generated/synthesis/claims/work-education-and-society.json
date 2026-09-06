@@ -1009,6 +1009,29 @@
         "SchoolAIBoundaries",
         "AIGuidedLearningGuardrails"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "animal-protection-expression-shows-civic-action-under-constraint",
+      "qualifications": [
+        "This is a secondary work-and-society reading of an animal-protection episode, not a complete theory of mainland or Hong Kong civic space.",
+        "Platform moderation, police contact, venue pressure, advertising review, and organizational caution remain source-scoped because the episode reports effects and interpretations rather than full institutional decision records.",
+        "Hong Kong solidarity actions show low-claim memorial and awareness tactics; they do not establish that all animal-protection campaigns face the same constraints or opportunities."
+      ],
+      "statement": "[[liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan|流浪犬「旺旺」之死和一場跨境動保聲援]] enters work-and-society through [[AnimalProtectionCodedExpression]], [[HongKongAnimalSolidarity]], and [[LowClaimCivicAction]]: coded mainland posting, removed displays, police and venue pressure, crowdfunding tram ads, street signs, memorial rituals, and the [[HongKongSPCA]] footage dispute show how public action can shift into careful education, mourning, and awareness forms when direct contention is costly.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan",
+        "AnimalProtectionCodedExpression",
+        "HongKongAnimalSolidarity",
+        "LowClaimCivicAction",
+        "HongKongSPCA",
+        "CrueltyFootageVisibilityDilemma",
+        "DuanwenNewsPodcast",
+        "JiangHongAnimalVolunteer",
+        "MakChiHoAnimalAdvocate",
+        "MavisDuanReporter"
+      ]
     }
   ],
   "input_digest": "70b49f8a1d055dabb7059d515c11520f3798e802d24ac4ef02286d3157ce6a1a",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6417
+wiki_total_pages: 6424
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -368,6 +368,9 @@ wiki_pages:
   - key: "HoneyQualityStandards"
     title: "Honey Quality Standards"
     url: "/wiki/concepts/honeyqualitystandards/"
+  - key: "HongKongAnimalSolidarity"
+    title: "Hong Kong Animal Solidarity / 香港动物保护声援"
+    url: "/wiki/concepts/hongkonganimalsolidarity/"
   - key: "HongKongDollarHotMoneyCycle"
     title: "Hong Kong Dollar Hot-Money Cycle / 港元热钱周期"
     url: "/wiki/concepts/hongkongdollarhotmoneycycle/"

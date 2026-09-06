@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8996
+wiki_total_pages: 9003
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1106,6 +1106,9 @@ wiki_pages:
   - key: "DouRongEasternHan"
     title: "窦融 / Dou Rong (Eastern Han)"
     url: "/wiki/entities/dourongeasternhan/"
+  - key: "DuanwenNewsPodcast"
+    title: "端闻 / 端传媒新闻播客"
+    url: "/wiki/entities/duanwennewspodcast/"
   - key: "DiHuang"
     title: "翟黄 / Di Huang"
     url: "/wiki/entities/dihuang/"

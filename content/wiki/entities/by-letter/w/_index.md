@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8996
+wiki_total_pages: 9003
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "WangZhengjun"
     title: "Wang Zhengjun / 王政君"
     url: "/wiki/entities/wangzhengjun/"
+  - key: "WangwangDog"
+    title: "Wangwang / 旺旺"
+    url: "/wiki/entities/wangwangdog/"
   - key: "WanhuaChemical"
     title: "Wanhua Chemical"
     url: "/wiki/entities/wanhuachemical/"

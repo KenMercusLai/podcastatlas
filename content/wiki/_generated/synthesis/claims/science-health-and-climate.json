@@ -882,6 +882,27 @@
         "MedicalRiskManagement",
         "DoctorPatientCommunication"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "companion-animal-cruelty-needs-public-health-law-and-education-boundaries",
+      "qualifications": [
+        "The episode is public journalism and advocacy reporting, not a legal brief, veterinary investigation, psychological assessment, or complete account of police, platform, school, or advertiser decisions.",
+        "The 旺旺 case supports a source-scoped link between animal abuse, childhood cruelty response, legal recognition, and civic concern; it does not prove a deterministic path from animal cruelty to interpersonal violence.",
+        "Animal-welfare law gaps, punishment thresholds, and life-education claims remain jurisdiction-specific and mediated through the episode's speakers."
+      ],
+      "statement": "[[liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan|流浪犬「旺旺」之死和一場跨境動保聲援]] extends [[AnimalWelfareAsPublicHealth]] through [[WangwangDog]]: [[AnimalAbuseViolenceLink]], [[ChildAnimalCrueltyLifeEducation]], [[AnimalPainLegalRecognition]], and [[ChinaAnimalProtectionLawGap]] show companion-animal cruelty becoming a public-health and social-order concern when legal systems mainly recognize animal suffering through human-interest proxies, property loss, disease risk, or juvenile-education failure.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan",
+        "WangwangDog",
+        "AnimalAbuseViolenceLink",
+        "ChildAnimalCrueltyLifeEducation",
+        "AnimalPainLegalRecognition",
+        "ChinaAnimalProtectionLawGap",
+        "AnimalWelfareAsPublicHealth",
+        "CompanionAnimalHealth"
+      ]
     }
   ],
   "input_digest": "6b8b8b160c5cf7d9396ba3004d7cc6c440e605e377e4835cacb21623376d1aa2",

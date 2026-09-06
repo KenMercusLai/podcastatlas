@@ -4,8 +4,8 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-06
-as_of_overview_commit: a5d941535c807f249abec02d889dec6954bdf99b
-input_digest: 6b8b8b160c5cf7d9396ba3004d7cc6c440e605e377e4835cacb21623376d1aa2
+as_of_overview_commit: 9568c9005ef5d1798d0766b7ea3490eb0b68ccb0
+input_digest: b2663edb6363d5d6ed304f2b1f93fc09564f254ed84e269ac2f3a907f1402fd8
 ---
 
 # Science, Health, and Climate
@@ -453,3 +453,15 @@ The Eastwick paragraph extends Huberman Lab public-science boundaries into relat
 - The episode is public urology education, not individualized diagnosis, screening, medication, surgery, infection, reproductive-health, renal, or emergency-care advice.
 - PSA values, urinary frequency, yellow urine, kidney-stone observation, renal-mass imaging or surgery, foreskin decisions, mumps-orchitis risk, cycling pressure, and foreign-body cases remain source-scoped and patient-contextual.
 - The source backfills a 2023 episode into the wiki sequence and should not be read as a current urology guideline.
+
+### Companion Animal Cruelty Needs Public Health Law And Education Boundaries
+
+[[liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan|流浪犬「旺旺」之死和一場跨境動保聲援]] extends [[AnimalWelfareAsPublicHealth]] through [[WangwangDog]]: [[AnimalAbuseViolenceLink]], [[ChildAnimalCrueltyLifeEducation]], [[AnimalPainLegalRecognition]], and [[ChinaAnimalProtectionLawGap]] show companion-animal cruelty becoming a public-health and social-order concern when legal systems mainly recognize animal suffering through human-interest proxies, property loss, disease risk, or juvenile-education failure.
+
+**Evidence:** [[liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan]], [[WangwangDog]], [[AnimalAbuseViolenceLink]], [[ChildAnimalCrueltyLifeEducation]], [[AnimalPainLegalRecognition]], [[ChinaAnimalProtectionLawGap]], [[AnimalWelfareAsPublicHealth]], [[CompanionAnimalHealth]]
+
+**Qualifications:**
+
+- The episode is public journalism and advocacy reporting, not a legal brief, veterinary investigation, psychological assessment, or complete account of police, platform, school, or advertiser decisions.
+- The 旺旺 case supports a source-scoped link between animal abuse, childhood cruelty response, legal recognition, and civic concern; it does not prove a deterministic path from animal cruelty to interpersonal violence.
+- Animal-welfare law gaps, punishment thresholds, and life-education claims remain jurisdiction-specific and mediated through the episode's speakers.

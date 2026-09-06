@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2189
+topic_total_pages: 2193
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -211,6 +211,9 @@ topic_concepts:
   - key: "AngerDrivenWarDecision"
     title: "Anger-Driven War Decision / 因怒兴师"
     url: "/wiki/concepts/angerdrivenwardecision/"
+  - key: "AnimalPainLegalRecognition"
+    title: "Animal Pain Legal Recognition / 动物痛苦的法律承认"
+    url: "/wiki/concepts/animalpainlegalrecognition/"
   - key: "AnimalSpiritsOpportunityActivation"
     title: "Animal Spirits Opportunity Activation / 动物精神与机会激活"
     url: "/wiki/concepts/animalspiritsopportunityactivation/"
@@ -460,6 +463,9 @@ topic_concepts:
   - key: "ChildrensMediaValuesDebate"
     title: "Children's Media Values Debate"
     url: "/wiki/concepts/childrensmediavaluesdebate/"
+  - key: "ChinaAnimalProtectionLawGap"
+    title: "China Animal Protection Law Gap / 中国动物保护立法空白"
+    url: "/wiki/concepts/chinaanimalprotectionlawgap/"
   - key: "ChinaAsTrumpNarrativeEnemy"
     title: "China as Trump Narrative Enemy"
     url: "/wiki/concepts/chinaastrumpnarrativeenemy/"
@@ -4685,6 +4691,9 @@ topic_entities:
   - key: "MagnaCarta"
     title: "Magna Carta / 大宪章"
     url: "/wiki/entities/magnacarta/"
+  - key: "MakChiHoAnimalAdvocate"
+    title: "Mak Chi-ho / 麦志豪"
+    url: "/wiki/entities/makchihoanimaladvocate/"
   - key: "Malaysia"
     title: "Malaysia"
     url: "/wiki/entities/malaysia/"
@@ -6573,6 +6582,9 @@ topic_sources:
   - key: "qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1"
     title: "期权这张饼，为什么越来越难吃了？"
     url: "/wiki/sources/qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1/"
+  - key: "liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan"
+    title: "流浪犬「旺旺」之死和一場跨境動保聲援"
+    url: "/wiki/sources/liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan/"
   - key: "chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun"
     title: "除了石油和海峡，这届伊朗战争开始算计你的服务器了"
     url: "/wiki/sources/chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun/"

@@ -4,8 +4,8 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-06
-as_of_overview_commit: 48238b44cc2a67e221c7daa0e13b09b8dd9a940c
-input_digest: 70b49f8a1d055dabb7059d515c11520f3798e802d24ac4ef02286d3157ce6a1a
+as_of_overview_commit: 9568c9005ef5d1798d0766b7ea3490eb0b68ccb0
+input_digest: 549b365a18f3be4966256572daf8924caca3f24dad65e987d872ffdf209e4f6a
 ---
 
 # Work, Education, and Society
@@ -582,3 +582,15 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 
 - The episode summarizes policy contours rather than the complete official rule, enforcement design, vendor policy, or teacher-training plan.
 - The claim is an education-governance synthesis, not evidence that school AI restrictions improve outcomes by themselves.
+
+### Animal Protection Expression Shows Civic Action Under Constraint
+
+[[liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan|流浪犬「旺旺」之死和一場跨境動保聲援]] enters work-and-society through [[AnimalProtectionCodedExpression]], [[HongKongAnimalSolidarity]], and [[LowClaimCivicAction]]: coded mainland posting, removed displays, police and venue pressure, crowdfunding tram ads, street signs, memorial rituals, and the [[HongKongSPCA]] footage dispute show how public action can shift into careful education, mourning, and awareness forms when direct contention is costly.
+
+**Evidence:** [[liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan]], [[AnimalProtectionCodedExpression]], [[HongKongAnimalSolidarity]], [[LowClaimCivicAction]], [[HongKongSPCA]], [[CrueltyFootageVisibilityDilemma]], [[DuanwenNewsPodcast]], [[JiangHongAnimalVolunteer]], [[MakChiHoAnimalAdvocate]], [[MavisDuanReporter]]
+
+**Qualifications:**
+
+- This is a secondary work-and-society reading of an animal-protection episode, not a complete theory of mainland or Hong Kong civic space.
+- Platform moderation, police contact, venue pressure, advertising review, and organizational caution remain source-scoped because the episode reports effects and interpretations rather than full institutional decision records.
+- Hong Kong solidarity actions show low-claim memorial and awareness tactics; they do not establish that all animal-protection campaigns face the same constraints or opportunities.

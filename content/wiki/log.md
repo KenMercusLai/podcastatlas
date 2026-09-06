@@ -15436,6 +15436,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-06] ingest | 流浪犬「旺旺」之死和一場跨境動保聲援
+
+Ingested the 2026-09-04 端闻 episode on the killing of Guangdong stray dog 旺旺, mainland coded animal-protection expression, child animal cruelty and life education, China's dedicated animal-protection law gap, Hong Kong memorials and ads, low-claim civic action, and the cruelty-footage visibility dilemma. Added source `liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan`; created `DuanwenNewsPodcast`, `WangwangDog`, `JiangHongAnimalVolunteer`, `ZhangBoAnimalLaw`, `MavisDuanReporter`, `MakChiHoAnimalAdvocate`, `HongKongSPCA`, `ChinaAnimalProtectionLawGap`, `AnimalProtectionCodedExpression`, `ChildAnimalCrueltyLifeEducation`, `AnimalPainLegalRecognition`, `HongKongAnimalSolidarity`, `LowClaimCivicAction`, and `CrueltyFootageVisibilityDilemma`; updated `AnimalAbuseViolenceLink`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; exact platform moderation chains, police-contact motives, advertising-review decisions, and individual minor-perpetrator handling remain source-scoped.
+
 ## [2026-09-06] ingest | 《资治通鉴·汉纪》1064丨许攸之死：功高震主与性格缺陷的悲歌
 
 Ingested the 2026-09-04 芮淇讲透资治通鉴 episode on Qian Zhao's submission after Yuan Shang's flight, Cui Yan's people-first rebuke of Cao Cao's Jizhou conscription priority, and Xu You's death after publicly overclaiming credit for Cao Cao's acquisition of Jizhou. Added source `zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth`; updated `XuYouLateHan`, `CuiYanLateHan`, `QianZhaoLateHan`, `SuperiorCreditConflictRisk`, `index`, and `overview`. No settled contradiction found; the workplace-boundary framing, Cao Cao's exact legal pretext against Xu You, Cui Yan's later death preview, and Qian Zhao's broader frontier biography remain source-scoped.
@@ -15455,6 +15459,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-06] ingest | 《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操
 
 Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Yuan Xi and Yuan Shang fleeing toward Wuhuan, Jiao Chu and Zhang Nan coercing Youzhou officials into a Cao-side blood oath, Han Heng refusing the oath, Zhang Yan's formal Black Mountain surrender, Youzhou/Wuhuan instability, Gao Gan's renewed Bingzhou rebellion, and Xun Yu recommending Du Ji for Hedong. Added source `zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o`; created `YuanXiLateHan`, `LiuFangLateHan`, `WangSongLateHan`, `JiaoChuLateHan`, `ZhangNanLateHan`, `HanHengLateHan`, `ZhaoDuLateHan`, `HuoNuLateHan`, `DuJiLateHan`, `WangYiHedongLateHan`, `WeiGuLateHan`, `FanXianLateHan`, `ZhangShengLateHan`, `ZhangYanHedongLateHan`, `LoyalRefusalLegitimacySignal`, and `TransitHubCommanderyControl`; updated `GaoGanLateHan`, `ZhangYanLateHan`, and `index`. No settled contradiction found; 张南/张衍/王邑 are disambiguated from existing routes, and minor official identities, Kuangping geography, and motive readings remain source-scoped.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-06] lint | Wiki health check
 

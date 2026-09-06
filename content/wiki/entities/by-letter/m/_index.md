@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 8996
+wiki_total_pages: 9003
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "MajorProjectsOfficeCanada"
     title: "Major Projects Office (Canada)"
     url: "/wiki/entities/majorprojectsofficecanada/"
+  - key: "MakChiHoAnimalAdvocate"
+    title: "Mak Chi-ho / 麦志豪"
+    url: "/wiki/entities/makchihoanimaladvocate/"
   - key: "MakeMyTrip"
     title: "MakeMyTrip"
     url: "/wiki/entities/makemytrip/"
@@ -497,6 +500,9 @@ wiki_pages:
   - key: "Maveron"
     title: "Maveron"
     url: "/wiki/entities/maveron/"
+  - key: "MavisDuanReporter"
+    title: "Mavis"
+    url: "/wiki/entities/mavisduanreporter/"
   - key: "MawuLisa"
     title: "Mawu-Lisa"
     url: "/wiki/entities/mawulisa/"

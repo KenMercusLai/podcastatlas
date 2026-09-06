@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2395
+topic_total_pages: 2398
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -487,6 +487,9 @@ topic_concepts:
   - key: "CharacterRelationshipStoryLogic"
     title: "Character Relationship Story Logic"
     url: "/wiki/concepts/characterrelationshipstorylogic/"
+  - key: "ChildAnimalCrueltyLifeEducation"
+    title: "Child Animal Cruelty Life Education / 未成年人虐待动物与生命教育"
+    url: "/wiki/concepts/childanimalcrueltylifeeducation/"
   - key: "ChildCompetenceWishFulfillment"
     title: "Child Competence Wish Fulfillment"
     url: "/wiki/concepts/childcompetencewishfulfillment/"
@@ -676,6 +679,9 @@ topic_concepts:
   - key: "CrosstalkLiteraryRhythm"
     title: "Crosstalk Literary Rhythm"
     url: "/wiki/concepts/crosstalkliteraryrhythm/"
+  - key: "CrueltyFootageVisibilityDilemma"
+    title: "Cruelty Footage Visibility Dilemma / 残忍影像可见性两难"
+    url: "/wiki/concepts/crueltyfootagevisibilitydilemma/"
   - key: "CSIEffect"
     title: "CSI Effect"
     url: "/wiki/concepts/csieffect/"
@@ -4718,6 +4724,9 @@ topic_entities:
   - key: "ZannyMintonBeddoes"
     title: "Zanny Minton Beddoes"
     url: "/wiki/entities/zannymintonbeddoes/"
+  - key: "ZhangBoAnimalLaw"
+    title: "Zhang Bo / 张博"
+    url: "/wiki/entities/zhangboanimallaw/"
   - key: "ZhangHua"
     title: "Zhang Hua / 张华"
     url: "/wiki/entities/zhanghua/"

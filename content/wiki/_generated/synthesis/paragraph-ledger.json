@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "6384941179f91a79832010fdfa34af1287826a7db0a91c28414171eb2c389428",
       "2fabc9556d637f66f8554a09deea7153cb19cbd74cad3d1dcef7fe29c53af29a",
       "6dfa974bf238032d37185ab962468f4159fa3b71b3c1e5919c7f138095ee6c16",
       "d15d79f2729610864208ba297a4a892d589c48a1e42026732d0579b1deb686cb",
@@ -547,11 +548,47 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 545
+    "paragraph_count": 546
   },
-  "overview_commit": "880902bf01a35611202a5b0a71cd91ced0265956",
-  "overview_digest": "4fa4ac8d0b3f241e240961e8725805c79cba2a6570f3139e6d46d18b2300736d",
+  "overview_commit": "9568c9005ef5d1798d0766b7ea3490eb0b68ccb0",
+  "overview_digest": "4b9462b316025b18a81f870e07c9c70aa1106473994107bc04842ae3923dbb31",
   "paragraphs": [
+    {
+      "id": "6384941179f91a79832010fdfa34af1287826a7db0a91c28414171eb2c389428",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan|流浪犬「旺旺」之死和一場跨境動保聲援]], a [[DuanwenNewsPodcast|端闻 / 端传媒新闻播客]] episode on [[WangwangDog|旺旺]], mainland animal-protection expression, and Hong Kong solidarity. It adds [[DuanwenNewsPodcast|端闻 / 端传媒新闻播客]], [[WangwangDog|旺旺]], [[JiangHongAnimalVolunteer|江宏]], [[ZhangBoAnimalLaw|张博]], [[MavisDuanReporter|Mavis]], [[MakChiHoAnimalAdvocate|麦志豪]], [[HongKongSPCA|香港爱护动物协会]], [[ChinaAnimalProtectionLawGap|中国动物保护立法空白]], [[AnimalProtectionCodedExpression|动保暗语表达]], [[ChildAnimalCrueltyLifeEducation|未成年人虐待动物与生命教育]], [[AnimalPainLegalRecognition|动物痛苦的法律承认]], [[HongKongAnimalSolidarity|香港动物保护声援]], [[LowClaimCivicAction|低诉求公共行动]], and [[CrueltyFootageVisibilityDilemma|残忍影像可见性两难]], while extending [[AnimalAbuseViolenceLink]], [[AnimalWelfareAsPublicHealth]], [[CompanionAnimalHealth]], and [[EmpathyCircleExpansion]]. Its core synthesis is that the 旺旺 case turns animal cruelty into a wider social-structure problem: coded mainland speech, venue and police pressure, juvenile cruelty and life-education failure, legal categories that see animal suffering mostly through human-interest proxies, and Hong Kong's cautious leaderless memorial actions together show how animal protection becomes public memory under constraint. No settled contradiction is recorded; platform moderation chains, police-contact motives, advertising-review decisions, and individual minor-perpetrator handling remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AnimalAbuseViolenceLink",
+        "AnimalPainLegalRecognition",
+        "AnimalProtectionCodedExpression",
+        "AnimalWelfareAsPublicHealth",
+        "ChildAnimalCrueltyLifeEducation",
+        "ChinaAnimalProtectionLawGap",
+        "CompanionAnimalHealth",
+        "CrueltyFootageVisibilityDilemma",
+        "DuanwenNewsPodcast",
+        "EmpathyCircleExpansion",
+        "HongKongAnimalSolidarity",
+        "HongKongSPCA",
+        "JiangHongAnimalVolunteer",
+        "LowClaimCivicAction",
+        "MakChiHoAnimalAdvocate",
+        "MavisDuanReporter",
+        "WangwangDog",
+        "ZhangBoAnimalLaw",
+        "liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan"
+      ]
+    },
     {
       "id": "2fabc9556d637f66f8554a09deea7153cb19cbd74cad3d1dcef7fe29c53af29a",
       "primary_topic": "work-education-and-society",

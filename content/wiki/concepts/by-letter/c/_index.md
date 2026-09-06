@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6417
+wiki_total_pages: 6424
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "ChenweiPolitics"
     title: "Chenwei Politics / 谶纬政治"
     url: "/wiki/concepts/chenweipolitics/"
+  - key: "ChildAnimalCrueltyLifeEducation"
+    title: "Child Animal Cruelty Life Education / 未成年人虐待动物与生命教育"
+    url: "/wiki/concepts/childanimalcrueltylifeeducation/"
   - key: "ChildBedroomDataPrivacy"
     title: "Child Bedroom Data Privacy"
     url: "/wiki/concepts/childbedroomdataprivacy/"
@@ -437,6 +440,9 @@ wiki_pages:
   - key: "ChinaAIExportLeverage"
     title: "China AI Export Leverage / 中国AI出口杠杆"
     url: "/wiki/concepts/chinaaiexportleverage/"
+  - key: "ChinaAnimalProtectionLawGap"
+    title: "China Animal Protection Law Gap / 中国动物保护立法空白"
+    url: "/wiki/concepts/chinaanimalprotectionlawgap/"
   - key: "ChinaAsTrumpNarrativeEnemy"
     title: "China as Trump Narrative Enemy"
     url: "/wiki/concepts/chinaastrumpnarrativeenemy/"
@@ -1760,6 +1766,9 @@ wiki_pages:
   - key: "CrownPrinceCommandRisk"
     title: "Crown-Prince Command Risk / 太子挂帅风险"
     url: "/wiki/concepts/crownprincecommandrisk/"
+  - key: "CrueltyFootageVisibilityDilemma"
+    title: "Cruelty Footage Visibility Dilemma / 残忍影像可见性两难"
+    url: "/wiki/concepts/crueltyfootagevisibilitydilemma/"
   - key: "CrueltyUsedWell"
     title: "Cruelty Used Well"
     url: "/wiki/concepts/crueltyusedwell/"

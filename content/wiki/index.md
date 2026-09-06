@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [流浪犬「旺旺」之死和一場跨境動保聲援](sources/liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan.md) — 端闻 episode on the 旺旺 stray-dog killing, mainland coded animal-protection expression, child cruelty and life education, China's animal-protection law gap, Hong Kong solidarity, and cautious low-claim civic action.
 - [2026秋季篇E01 血液之灾！日本艾滋血液药剂事件](sources/2026-qiuji-pian-e01-xueye-zhi-zai-riben-aizi-xueye-yaoji-shijian-fv-j4cvvj0tnhfhdinjtcmudcirj.md) — 日谈物语 autumn opener setting a social-history direction, introducing hemophilia, and announcing the Japanese AIDS blood-products incident while the available transcript ends before case details.
 - [《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？](sources/zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17.md) — 芮淇讲透资治通鉴 episode turning Xu You's fatal public credit overreach into a broader workplace and power-field lesson on high-merit threat, hierarchy boundaries, visibility reduction, and command surrender.
 - [《资治通鉴·汉纪》1064丨许攸之死：功高震主与性格缺陷的悲歌](sources/zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth.md) — 芮淇讲透资治通鉴 episode on Qian Zhao's submission, Cui Yan's people-first remonstrance, and Xu You's death after public credit overreach toward Cao Cao.
@@ -1939,6 +1940,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [端闻 / 端传媒新闻播客](entities/DuanwenNewsPodcast.md) — News podcast that reports the 旺旺 case through mainland expression constraints, animal-law expertise, and Hong Kong solidarity.
+- [Wangwang / 旺旺](entities/WangwangDog.md) — Stray dog whose killing became a public-memory symbol for animal cruelty, legal absence, and cross-border animal-protection solidarity.
+- [Jiang Hong / 江宏](entities/JiangHongAnimalVolunteer.md) — Mainland animal-welfare volunteer describing coded posting, attempted projections, venue refusals, takedowns, and police contact around the 旺旺 case.
+- [Zhang Bo / 张博](entities/ZhangBoAnimalLaw.md) — Animal-law scholar grounding the episode's life-education, animal-pain, and mainland legal-gap analysis.
+- [Mavis](entities/MavisDuanReporter.md) — Reporter who frames Hong Kong's 旺旺 response as both animal solidarity and a test of changed public-action space.
+- [Mak Chi-ho / 麦志豪](entities/MakChiHoAnimalAdvocate.md) — Hong Kong animal-welfare advocate comparing earlier mainland-facing campaigns with the cautious 2026 旺旺 response.
+- [Hong Kong SPCA / 香港爱护动物协会](entities/HongKongSPCA.md) — Mainstream Hong Kong animal-protection body discussed through its statement and cruelty-footage takedown controversy.
 - [日谈物语 / Nittan Wuyu](entities/NittanWuyu.md) — Podcast show whose autumn opener frames cases as social-history reflection on groups, eras, and present uncertainty.
 - [淼叔 / Miao Shu](entities/MiaoShuNittanWuyu.md) — 日谈物语 host who carries the transition from seasonal conversation into social-history framing in the current source.
 - [小伙子 / Xiao Huozi](entities/XiaoHuoziNittanWuyu.md) — 日谈物语 co-host who reinforces the source's rapid-social-change and listener-facing setup.
@@ -10939,6 +10947,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [China Animal Protection Law Gap / 中国动物保护立法空白](concepts/ChinaAnimalProtectionLawGap.md) — Legal gap where mainland animal harm is handled indirectly through human-interest categories rather than a dedicated animal-protection baseline.
+- [Animal Protection Coded Expression / 动保暗语表达](concepts/AnimalProtectionCodedExpression.md) — Euphemism, homophone, image, and softened-slogan pattern used when animal-protection speech is filtered or discouraged.
+- [Child Animal Cruelty Life Education / 未成年人虐待动物与生命教育](concepts/ChildAnimalCrueltyLifeEducation.md) — Prevention frame connecting juvenile animal cruelty to punishment debates, family environment, imitation, empathy, and school life education.
+- [Animal Pain Legal Recognition / 动物痛苦的法律承认](concepts/AnimalPainLegalRecognition.md) — Normative frame that animal suffering should matter legally and morally without always being converted into human property, health, or order concerns.
+- [Hong Kong Animal Solidarity / 香港动物保护声援](concepts/HongKongAnimalSolidarity.md) — Hong Kong memorial, fundraising, advertising, and street-action response to animal-protection cases originating in mainland China.
+- [Low-Claim Civic Action / 低诉求公共行动](concepts/LowClaimCivicAction.md) — Civic-action style with loose organization, soft demands, careful symbols, and memory-oriented visibility under uncertainty.
+- [Cruelty Footage Visibility Dilemma / 残忍影像可见性两难](concepts/CrueltyFootageVisibilityDilemma.md) — Advocacy tradeoff where graphic cruelty footage preserves evidence and memory while risking trauma, youth harm, and imitation.
 - [Hemophilia / 血友病](concepts/Hemophilia.md) — Disease named as the entry point into the announced Japanese AIDS blood-products episode topic.
 - [Social History Case Framing / 社会史案件叙事](concepts/SocialHistoryCaseFraming.md) — Narrative method of using cases to reveal groups, historical conditions, and contemporary social anxieties.
 - [High Merit Threat Management / 功高不震主](concepts/HighMeritThreatManagement.md) — Hanji 1065 pattern for keeping real contribution from becoming a superior-facing threat through credit return, low visibility, retreat, humility, or command surrender.
