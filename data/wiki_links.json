@@ -1027,6 +1027,10 @@
     "title": "49.李乌鸦来了！聊聊我们为啥爱阅读",
     "url": "/wiki/sources/49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098/"
   },
+  "495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo": {
+    "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
+    "url": "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
+  },
   "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw": {
     "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
     "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
@@ -22607,6 +22611,10 @@
     "title": "Globalstar",
     "url": "/wiki/entities/globalstar/"
   },
+  "GlobeTheatre": {
+    "title": "Globe Theatre / 环球剧院",
+    "url": "/wiki/entities/globetheatre/"
+  },
   "GlycationSkinAnxiety": {
     "title": "Glycation Skin Anxiety / 糖化皮肤焦虑",
     "url": "/wiki/concepts/glycationskinanxiety/"
@@ -24890,6 +24898,10 @@
   "HenryTheNavigator": {
     "title": "Henry the Navigator / 恩里克王子",
     "url": "/wiki/entities/henrythenavigator/"
+  },
+  "HenryVPlay": {
+    "title": "Henry V / 《亨利五世》",
+    "url": "/wiki/entities/henryvplay/"
   },
   "HenryYin": {
     "title": "Henry Yin",
@@ -33996,7 +34008,7 @@
     "url": "/wiki/entities/lucountychuhan/"
   },
   "LuDapeng": {
-    "title": "路大鹏 / Lu Dapeng",
+    "title": "陆大鹏 / 路大鹏 / Lu Dapeng",
     "url": "/wiki/entities/ludapeng/"
   },
   "LuFan": {
@@ -46555,6 +46567,10 @@
     "title": "Richard III / 理查三世",
     "url": "/wiki/entities/richardiii/"
   },
+  "RichardIIIPlay": {
+    "title": "Richard III / 《理查三世》",
+    "url": "/wiki/entities/richardiiiplay/"
+  },
   "RichardJewell": {
     "title": "Richard Jewell / 理查德·朱维尔",
     "url": "/wiki/entities/richardjewell/"
@@ -48926,6 +48942,10 @@
   "ShakespeareAndCompany": {
     "title": "Shakespeare and Company",
     "url": "/wiki/entities/shakespeareandcompany/"
+  },
+  "ShakespeareHistoryPlayPoliticalMemory": {
+    "title": "Shakespeare History Play Political Memory / 莎剧历史剧政治记忆",
+    "url": "/wiki/concepts/shakespearehistoryplaypoliticalmemory/"
   },
   "ShakyamuniBuddha": {
     "title": "释迦牟尼佛 / Shakyamuni Buddha",

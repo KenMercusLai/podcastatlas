@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9116
+wiki_total_pages: 9119
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1664,9 +1664,6 @@ wiki_pages:
   - key: "LaiJingping"
     title: "赖靖平 / Lai Jingping"
     url: "/wiki/entities/laijingping/"
-  - key: "LuDapeng"
-    title: "路大鹏 / Lu Dapeng"
-    url: "/wiki/entities/ludapeng/"
   - key: "LiaochengWarringStates"
     title: "辽城 / Liao City (Warring States)"
     url: "/wiki/entities/liaochengwarringstates/"
@@ -1697,6 +1694,9 @@ wiki_pages:
   - key: "LiuYanFulingKingEasternHan"
     title: "阜陵王刘延 / Liu Yan (Fuling King, Eastern Han)"
     url: "/wiki/entities/liuyanfulingkingeasternhan/"
+  - key: "LuDapeng"
+    title: "陆大鹏 / 路大鹏 / Lu Dapeng"
+    url: "/wiki/entities/ludapeng/"
   - key: "LuChuan"
     title: "陆川 / Lu Chuan"
     url: "/wiki/entities/luchuan/"

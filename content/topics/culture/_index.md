@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2453
+topic_total_pages: 2455
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6563,6 +6563,9 @@ topic_entities:
   - key: "AdsoOfMelk"
     title: "阿德索 / Adso of Melk"
     url: "/wiki/entities/adsoofmelk/"
+  - key: "LuDapeng"
+    title: "陆大鹏 / 路大鹏 / Lu Dapeng"
+    url: "/wiki/entities/ludapeng/"
   - key: "LuChuan"
     title: "陆川 / Lu Chuan"
     url: "/wiki/entities/luchuan/"
@@ -6888,6 +6891,9 @@ topic_sources:
   - key: "49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098"
     title: "49.李乌鸦来了！聊聊我们为啥爱阅读"
     url: "/wiki/sources/49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098/"
+  - key: "495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo"
+    title: "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响"
+    url: "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
   - key: "51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320"
     title: "51.厌世？反人类？童话故事？…格列佛游记可深了去了"
     url: "/wiki/sources/51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响](sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo.md) — 忽左忽右 episode with Lu Dapeng on Shakespeare's literary ambiguity, mixed early-modern theatre, English idiom, history plays, Tudor legitimacy memory, the Globe Theatre, and global adaptation.
 - [No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达](sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81.md) — 三五环 interview with Chouxiangzai on CCTV documentary training, AI-video virality, internet expression, Kanye-style cultural contrast, short-drama workflow, and C-side attention becoming B-side service work.
 - [EP384-普通人也能打得起的“司美格鲁肽”，减肥针“一针瘦十斤”背后的真相与代](sources/ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy.md) — 无时差研究所 episode with Guo Haotian on GLP-1 weight-loss drugs, semaglutide, tirzepatide, side effects, rebound, muscle preservation, pricing, patents, China pipelines, and research-use peptide risk.
 - [她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮](sources/ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof.md) — 十字路口Crossing interview with Chen Anni on Kuaikan Manhua's LIVO, AI-native narrative worlds, agentic characters, fate-centered interaction, content taste, commercialization discipline, and game-spirit organization.
@@ -1960,6 +1961,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Globe Theatre / 环球剧院](entities/GlobeTheatre.md) — Shakespearean theatre institution linking live staging, mixed audiences, performance practice, and the modern reconstruction.
+- [Henry V / 《亨利五世》](entities/HenryVPlay.md) — Shakespeare history play used by the episode to show ideal-king construction, succession anxiety, and adaptation politics.
+- [Richard III / 《理查三世》](entities/RichardIIIPlay.md) — Shakespeare history play used by the episode to show Tudor legitimacy work and the theatrical hardening of Richard III's villain image.
 - [郭昊天 / Guo Haotian](entities/GuoHaotian.md) — 无时差研究所 EP384 guest explaining GLP-1 weight-loss drugs through personal-use, mechanism, biotech, and safety-boundary context.
 - [Chen Anni / 陈安妮](entities/ChenAnni.md) — Kuaikan founder and CEO linking content-platform entrepreneurship, IP taste, commercialization discipline, and the LIVO AI-native content bet.
 - [Kuaikan Manhua / 快看漫画](entities/KuaikanManhua.md) — Comics and content-platform company founded by Chen Anni and now investing in LIVO as an AI-native narrative-world product.
@@ -1975,7 +1979,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王洪瑞 / Wang Hongrui](entities/WangHongrui.md) — WFP staff member and 声东击西 guest witnessing South Sudan refugee hunger and aid-delivery limits.
 - [Wedweil Refugee Camp / 维德维尔难民营](entities/WedweilRefugeeCamp.md) — South Sudan camp near Aweil where the episode observes registration waits, food aid cuts, nutrition screening, and school meals.
 - [Aweil / 阿维尔](entities/Aweil.md) — South Sudan field gateway to Wedweil refugee camp and nearby Sudanese refugee flows.
-- [路大鹏 / Lu Dapeng](entities/LuDapeng.md) — 忽左忽右 guest explaining Ceuta through Mediterranean, Iberian, North African, Portuguese, Spanish, and migration history.
+- [陆大鹏 / 路大鹏 / Lu Dapeng](entities/LuDapeng.md) — 忽左忽右 guest explaining Ceuta, Shakespeare, English theatre, and historical memory through long-span cultural history; source notes differ on Chinese surname spelling.
 - [Strait of Gibraltar / 直布罗陀海峡](entities/StraitOfGibraltar.md) — Maritime passage whose North Africa-Iberia geography gives Ceuta and Gibraltar strategic value.
 - [Gibraltar / 直布罗陀](entities/Gibraltar.md) — European-side strait counterpart to Ceuta, tied to Islamic-conquest naming and later British control in the source.
 - [Iberian Peninsula / 伊比利亚半岛](entities/IberianPeninsula.md) — Regional setting connecting Spain, Portugal, al-Andalus, Reconquista, and Ceuta's North African crossing field.
@@ -2057,7 +2061,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kai Tak Airport / 启德机场](entities/KaiTakAirport.md) — Former Hong Kong airport used to explain capacity, approach constraints, and airport migration.
 - [International Air Transport Association / IATA](entities/InternationalAirTransportAssociation.md) — Aviation-industry organization cited for the air-cargo weight-versus-value contrast.
 - [Swire Group / 太古集团](entities/SwireGroup.md) — Hong Kong-linked corporate context for Zhang Jin's airline backstage and catering observations.
-- [成言梁 / Cheng Yanliang](entities/ChengYanliang.md) — 忽左忽右 host framing long-form cultural-history episodes through Shanghai architecture and Ceuta historical geography.
+- [成言梁 / Cheng Yanliang](entities/ChengYanliang.md) — 忽左忽右 host framing long-form cultural-history episodes through Shanghai architecture, Ceuta historical geography, and Shakespeare theatre history.
 - [吴飞鹏 / Wu Feipeng](entities/WuFeipeng.md) — Architectural culture researcher reconstructing Lai An's Shanghai corpus through archives, newspapers, family lists, and field investigation.
 - [赉安 / 赖安 / Lai An (architect)](entities/LaiAnArchitect.md) — French architect presented as a major shaper of the former Shanghai French Concession and Hengfu architectural landscape.
 - [乌达克 / Hudec (Shanghai architect)](entities/HudecShanghaiArchitect.md) — Better-known Shanghai architect used as the comparison point for Lai An's underrecognized role.
@@ -6460,7 +6464,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zhejiang / 浙江](entities/Zhejiang.md) — Coastal province used by episode 150 to contrast early private-economy formation with later inland catch-up.
 - [杨一 / Yang Yi](entities/YangYi.md) — Early Chinese podcast practitioner and 忽左忽右 speaker explaining market education, brand-podcast services, and the Chinese-vs-U.S. podcast path.
 - [欧阳斌 / Ouyang Bin](entities/OuyangBin.md) — 去现场 and 725沙龙-side speaker framing the episode from listener, media-observer, and cultural-dialogue perspectives.
-- [忽左忽右 / Huzuo Huyou](entities/HuzuoHuyou.md) — Chinese podcast show tracked through podcast ecosystem-building, Shanghai architecture, and Ceuta historical-geography interviews.
+- [忽左忽右 / Huzuo Huyou](entities/HuzuoHuyou.md) — Chinese podcast show tracked through podcast ecosystem-building, Shanghai architecture, Ceuta historical geography, and Shakespeare theatre-history interviews.
 - [去现场 / Qu Xianchang](entities/QuXianchang.md) — Crossover context for 欧阳斌 in episode 149's podcast and media-ecosystem discussion.
 - [725沙龙 / 725 Salon](entities/725Salon.md) — New York Chinese cultural-dialogue project testing a purely online podcast format in episode 149.
 - [Ueno Chizuko / 上野千鹤子](entities/UenoChizuko.md) — Care-sociology author whose work anchors 琼琼's translation path and episode 147's care-socialization frame.
@@ -7884,7 +7888,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gnaeus Pompeius Strabo / 格奈乌斯·庞培乌斯·斯特拉波](entities/GnaeusPompeiusStrabo.md) — Social War commander whose Asculum siege illustrates the mixed incentives of prestige, citizenship, and bargaining during the allied revolt.
 - [Manius Aquillius / 马尼乌斯·阿奎利乌斯](entities/ManiusAquillius.md) — Roman envoy and commander whose pressure on Mithridates helps turn Asia into an eastern war and lucrative command prize.
 - [The Gracchi / 格拉古兄弟](entities/Gracchi.md) — Reforming brothers whose deaths and followers' executions make the tribunate dangerous before Marius.
-- [William Shakespeare / 威廉·莎士比亚](entities/WilliamShakespeare.md) — Dramatist whose Julius Caesar reshapes public memory of Caesar's last words and Brutus's betrayal.
+- [William Shakespeare / 威廉·莎士比亚](entities/WilliamShakespeare.md) — Dramatist tracked through literary ambiguity, public memory, Globe theatre practice, history plays, and cross-cultural adaptation.
 - [Julius Caesar / 《尤里乌斯·恺撒》](entities/JuliusCaesarPlay.md) — Shakespeare play used by episode 124 to show literary memory competing with ancient evidence.
 - [Solomon Asch / 所罗门·阿希](entities/SolomonAsch.md) — Social-psychology reference point for conformity and group-pressure experiments in episode 123's setup.
 - [Stanley Milgram / 斯坦利·米尔格拉姆](entities/StanleyMilgram.md) — Classic obedience-experiment figure used by episode 123 as background for social psychology's postwar experimental canon.
@@ -8411,7 +8415,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《历史播客》](entities/LishiBoke.md) — History podcast represented by 张志浩 in the 蜜獾吃书 episode on detective fiction and historical method.
 - [Josephine Tey / 约瑟芬·铁伊](entities/JosephineTey.md) — Detective novelist whose 《时间的女儿》 is defended as evidence-centered historical mystery.
 - [《时间的女儿》 / The Daughter of Time](entities/TheDaughterOfTime.md) — Josephine Tey novel used by the episode to connect fair-play detection with Richard III historical revision.
-- [Richard III / 理查三世](entities/RichardIII.md) — English king whose inherited villain image becomes the episode's case for evidence-bound historical revision.
+- [Richard III / 理查三世](entities/RichardIII.md) — English king whose inherited villain image becomes a case for evidence-bound revision and Shakespearean-Tudor political memory.
 - [Princes in the Tower / 塔中王子案](entities/PrincesInTheTower.md) — Historical disappearance case reopened through 《时间的女儿》 as an archive-based mystery and used by episode 31 as a Stark-children plot echo.
 - [曹操墓](entities/CaoCaoTomb.md) — Archaeology case used to show material evidence contending with literary and popular memory.
 - [《螺丝在拧紧》 / The Turn of the Screw](entities/TheTurnOfTheScrew.md) — Gothic novella used as a mystery-origin case around ambiguity, psychology, and interpretive pressure.
@@ -11080,6 +11084,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Shakespeare History Play Political Memory / 莎剧历史剧政治记忆](concepts/ShakespeareHistoryPlayPoliticalMemory.md) — Pattern where Shakespeare's English history plays turn dynastic conflict, legitimacy anxiety, and national feeling into repeatable theatre.
 - [AI-Native Narrative Worlds](concepts/AINativeNarrativeWorlds.md) — Content products where AI is the base layer for world state, character behavior, story progression, and user participation.
 - [Agentic Character Subjectivity](concepts/AgenticCharacterSubjectivity.md) — Design claim that AI characters feel alive through goals, boundaries, continuity, evolving choices, and inner direction.
 - [Commercialization Protects Creative Ideals](concepts/CommercializationProtectsCreativeIdeals.md) — Claim that mission-driven content companies need monetization and profit discipline to preserve creators, employees, products, and long-term creative value.
