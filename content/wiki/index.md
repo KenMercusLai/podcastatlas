@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [史蒂夫说471期 - 咨询师回信：万事只讲逻辑的人，都成长于理性为名的压迫](sources/shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi.md) — 史蒂夫说 counselor-letter episode on CPTSD-like hypervigilance, toxic shame, overusing psychoanalytic concepts, unsafe therapy experiences, ambiguous attraction, logic-driven self-doubt, and body-based self-trust.
 - [Episode 225: 一袋一录](sources/episode-225-yidai-yilu-8212959555-438866.md) — 迟早更新 episode on Ursula K. Le Guin's carrier-bag theory, Chinese container-like literary forms, Donna Haraway, river personhood, Robert Macfarlane, and narrative pluralism.
 - [No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理](sources/no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil.md) — 三五环 crossover with Zhang Hongliang on sleep rhythm, deep sleep, REM, caffeine, alcohol, 8Sleep dynamic temperature, bed-based sensing, and consumer sleep-hardware subscriptions.
 - [与段志强谈崇明乡野博物志：《我住长江尾》](sources/yu-duan-zhiqiang-tan-chongming-xiangye-bowuzhi-wo-zhu-changjiang-wei-8212963740-775078.md) — 博物志 episode with Duan Zhiqiang on Chongming farming, rural neighbor order, amateur versus livelihood agriculture, the writing of 《我住长江尾》, and practice-based reading of agricultural texts.
@@ -2035,8 +2036,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [al-Idrisi / 伊德里希](entities/AlIdrisi.md) — Ceuta-born medieval geographer used to show the city's role in Mediterranean knowledge circulation.
 - [John I of Portugal / 若昂一世](entities/JohnIOfPortugal.md) — Aviz monarch under whom Portugal captured Ceuta in 1415.
 - [Henry the Navigator / 恩里克王子](entities/HenryTheNavigator.md) — Portuguese prince associated with the 1415 Ceuta campaign and later expansion memory.
-- [史蒂夫说](entities/ShiDiFuShuo.md) — psychology and relationships podcast/show context for episode 472's anxiety conversation.
-- [Steve (史蒂夫说 host)](entities/SteveShiDiFuShuoHost.md) — host who grounds episode 472's anxiety conversation in personal body, shame, family, and relationship examples.
+- [史蒂夫说](entities/ShiDiFuShuo.md) — psychology and relationships podcast/show context for anxiety interviews and counselor-letter episodes on trauma, overthinking, body, and care.
+- [Steve (史蒂夫说 host)](entities/SteveShiDiFuShuoHost.md) — host who grounds 史蒂夫说 psychology conversations in personal body, shame, family, relationship, and listener-letter examples.
 - [赵金昭 / Dr. Claire](entities/ZhaoJinzhao.md) — counseling psychologist and Texas clinical psychologist interviewed about anxiety decomposition and gentle support.
 - [《蝲蛄吟唱的地方》 / Where the Crawdads Sing](entities/WhereTheCrawdadsSing.md) — Delia Owens novel read by Culture Limited as a female-growth, marsh-marginality, nature-writing, mystery, and justice-ambiguity case.
 - [《沼泽深处的女孩》 / Where the Crawdads Sing Film](entities/WhereTheCrawdadsSingFilm.md) — Film adaptation critiqued for prettifying Kya's poverty, compressing childhood, simplifying poetry, and weakening point-of-view coherence.
@@ -11180,7 +11181,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Portuguese Maritime Expansion / 葡萄牙海上扩张](concepts/PortugueseMaritimeExpansion.md) — Qualified expansion narrative in which the 1415 conquest of Ceuta becomes the conventional first station.
 - [Anxiety Decomposition / 焦虑拆解](concepts/AnxietyDecomposition.md) — method for turning diffuse anxiety into smaller body, situation, expectation, history, and support components.
 - [Gentle Anxiety Support / 温柔靠近焦虑](concepts/GentleAnxietySupport.md) — relationship posture for approaching anxiety without adding urgency or stimulation.
-- [Embodied Anxiety Regulation / 身体化焦虑调节](concepts/EmbodiedAnxietyRegulation.md) — body-first anxiety stabilization through breath, posture, grounding, muscle relaxation, and arousal interpretation.
+- [Embodied Anxiety Regulation / 身体化焦虑调节](concepts/EmbodiedAnxietyRegulation.md) — body-first anxiety and safety stabilization through breath, posture, grounding, warmth, contact, muscle relaxation, and arousal interpretation.
+- [Overintellectualized Relationship Analysis / 过度理性化关系分析](concepts/OverintellectualizedRelationshipAnalysis.md) — Pattern where intimacy is handled mainly through concepts, certainty, and language while feeling, body, and lived interaction are underused.
+- [Psychology Concept Self-Punishment / 心理学概念自我压榨](concepts/PsychologyConceptSelfPunishment.md) — Misuse of psychological vocabulary as self-doubt, self-surveillance, or self-attack instead of bounded care.
+- [Body-Based Self-Trust / 身体化自我信任](concepts/BodyBasedSelfTrust.md) — Confidence that body signals, movement, touch, anger, and physical soothing can carry useful judgment and action capacity.
 - [Family Anxiety Transmission / 家庭焦虑传递](concepts/FamilyAnxietyTransmission.md) — household and intergenerational pattern by which anxiety is absorbed, learned, or defended before it is named.
 - [Wetland Marginal Space / 湿地边缘空间](concepts/WetlandMarginalSpace.md) — Literary-social frame where a marsh shelters excluded people while also marking them as outside school, property, law, and respectability.
 - [Nature-Law / Legal-Justice Conflict / 自然法则与法律正义冲突](concepts/NatureLawLegalJustice.md) — Narrative tension between ecological survival logic and human law's evidentiary, procedural, and moral judgment demands.
@@ -15883,7 +15887,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mother Tongue Awareness](concepts/MotherTongueAwareness.md) — Language-consciousness frame linking dialect, Mandarin, French, poetry, translation, and respect for one's own and others' mother tongues.
 - [Fawn Response](concepts/FawnResponse.md) — Episode 181 frame for appeasing, managing, or over-attuning to threat as a survival response rather than a fixed personality trait.
 - [4F Trauma Response](concepts/FourFTraumaResponse.md) — Fight, flight, freeze, and fawn framework used by episode 181 to locate fawning inside body-level survival mechanisms.
-- [Complex Trauma Recognition](concepts/ComplexTraumaRecognition.md) — Episode 181 practice of seeing repeated hidden relational harm as real injury even when outward life looks successful or respectable.
+- [Complex Trauma Recognition](concepts/ComplexTraumaRecognition.md) — Practice of seeing repeated hidden relational harm, safety behavior, toxic shame, and body-level alarm as real injury even when outward life looks successful or respectable.
 - [Traumatic Attachment](concepts/TraumaticAttachment.md) — Episode 181 relationship pattern where fear, intermittent comfort, and self-blame bind someone to a harmful partner.
 - [Unfawning Boundary Practice](concepts/UnfawningBoundaryPractice.md) — Episode 181 recovery frame around seeing the wound, feeling pain, practicing refusal, and becoming less governed by imagined judgment.
 - [Nonsense Logic](concepts/NonsenseLogic.md) — Episodes 179 and 180 frame for rule-governed absurdity in Wonderland rather than random weirdness.

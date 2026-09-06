@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6545
+wiki_total_pages: 6548
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1502,6 +1502,9 @@ wiki_pages:
   - key: "PsychologicalSurrenderTrap"
     title: "Psychological Surrender Trap / 心理迫降陷阱"
     url: "/wiki/concepts/psychologicalsurrendertrap/"
+  - key: "PsychologyConceptSelfPunishment"
+    title: "Psychology Concept Self-Punishment / 心理学概念自我压榨"
+    url: "/wiki/concepts/psychologyconceptselfpunishment/"
   - key: "PsychometricSocialSorting"
     title: "Psychometric Social Sorting / 心理测量式社会分层"
     url: "/wiki/concepts/psychometricsocialsorting/"

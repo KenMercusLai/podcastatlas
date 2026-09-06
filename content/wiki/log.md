@@ -15608,6 +15608,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-07] ingest | 史蒂夫说471期 - 咨询师回信：万事只讲逻辑的人，都成长于理性为名的压迫
+
+Ingested the 2026-08-17 史蒂夫说 counselor-letter episode on CPTSD-like hypervigilance, toxic shame, emotional flashbacks, psychoanalytic overuse, unsafe therapy experiences, ambiguous attraction, online-argument self-doubt, and body-based self-trust. Added source `shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi`; created `OverintellectualizedRelationshipAnalysis`, `PsychologyConceptSelfPunishment`, and `BodyBasedSelfTrust`; updated `ShiDiFuShuo`, `SteveShiDiFuShuoHost`, `EmbodiedAnxietyRegulation`, `ComplexTraumaRecognition`, `index`, and `overview`. No settled contradiction found; CPTSD, therapy-quality, romance, and body-practice claims remain source-scoped public psychoeducation.
+
 ## [2026-09-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -15711,6 +15715,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？
 
 Ingested the 2026-08-18 无时差研究所 episode using 王妈妈's South Africa trip to connect travel safety, Johannesburg, Soweto, Constitution Hill, the Apartheid Museum, Robben Island, Kruger Safari, Cape Town, Mandela memory, and post-apartheid structural inequality. Added source `ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk`; created `Johannesburg`, `Soweto`, `ConstitutionHillJohannesburg`, `ApartheidMuseumJohannesburg`, `RobbenIsland`, `CapeTown`, `KrugerNationalPark`, `PostApartheidStructuralInequality`, and `ComplexDestinationTravelRisk`; updated `SouthAfrica`, `Apartheid`, `NelsonMandela`, `WushichaYanjiusuo`, `index`, and `overview`. No settled contradiction found; crime, corruption, education-ratio, labor-pattern, migration, and local-opinion claims remain source-scoped travel observations and conversations.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

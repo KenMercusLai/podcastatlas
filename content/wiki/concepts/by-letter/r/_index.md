@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6545
+wiki_total_pages: 6548
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"

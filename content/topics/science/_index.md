@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 916
+topic_total_pages: 920
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -175,6 +175,9 @@ topic_concepts:
   - key: "BloodBrainBarrierPrediction"
     title: "Blood-Brain Barrier Prediction"
     url: "/wiki/concepts/bloodbrainbarrierprediction/"
+  - key: "BodyBasedSelfTrust"
+    title: "Body-Based Self-Trust / 身体化自我信任"
+    url: "/wiki/concepts/bodybasedselftrust/"
   - key: "BoxingAsEmbodiedAgency"
     title: "Boxing As Embodied Agency"
     url: "/wiki/concepts/boxingasembodiedagency/"
@@ -1039,6 +1042,9 @@ topic_concepts:
   - key: "OrnithologicalFieldwork"
     title: "Ornithological Fieldwork"
     url: "/wiki/concepts/ornithologicalfieldwork/"
+  - key: "OverintellectualizedRelationshipAnalysis"
+    title: "Overintellectualized Relationship Analysis / 过度理性化关系分析"
+    url: "/wiki/concepts/overintellectualizedrelationshipanalysis/"
   - key: "PainfulMemoryRehearsalRisk"
     title: "Painful Memory Rehearsal Risk / 痛苦记忆反复咀嚼风险"
     url: "/wiki/concepts/painfulmemoryrehearsalrisk/"
@@ -1153,6 +1159,9 @@ topic_concepts:
   - key: "PsychologicalRealism"
     title: "Psychological Realism / 心理现实主义"
     url: "/wiki/concepts/psychologicalrealism/"
+  - key: "PsychologyConceptSelfPunishment"
+    title: "Psychology Concept Self-Punishment / 心理学概念自我压榨"
+    url: "/wiki/concepts/psychologyconceptselfpunishment/"
   - key: "PsychometricSocialSorting"
     title: "Psychometric Social Sorting / 心理测量式社会分层"
     url: "/wiki/concepts/psychometricsocialsorting/"
@@ -2748,6 +2757,9 @@ topic_sources:
   - key: "zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae"
     title: "中年三账户：现金流、肌肉、睡眠"
     url: "/wiki/sources/zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae/"
+  - key: "shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi"
+    title: "史蒂夫说471期 - 咨询师回信：万事只讲逻辑的人，都成长于理性为名的压迫"
+    url: "/wiki/sources/shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi/"
   - key: "shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh"
     title: "史蒂夫说472期 - 赵今朝 - 化解焦虑最佳方法：拆解问题，温柔相待"
     url: "/wiki/sources/shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh/"

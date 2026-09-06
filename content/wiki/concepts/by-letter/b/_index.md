@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6545
+wiki_total_pages: 6548
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "BodyFarmForensicResearch"
     title: "Body Farm Forensic Research"
     url: "/wiki/concepts/bodyfarmforensicresearch/"
+  - key: "BodyBasedSelfTrust"
+    title: "Body-Based Self-Trust / 身体化自我信任"
+    url: "/wiki/concepts/bodybasedselftrust/"
   - key: "BondFundReturnExpectationReset"
     title: "Bond Fund Return Expectation Reset"
     url: "/wiki/concepts/bondfundreturnexpectationreset/"

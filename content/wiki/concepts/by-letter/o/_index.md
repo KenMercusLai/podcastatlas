@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6545
+wiki_total_pages: 6548
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -515,6 +515,9 @@ wiki_pages:
   - key: "OverextendedFrontierExpedition"
     title: "Overextended Frontier Expedition / 边境远征过度"
     url: "/wiki/concepts/overextendedfrontierexpedition/"
+  - key: "OverintellectualizedRelationshipAnalysis"
+    title: "Overintellectualized Relationship Analysis / 过度理性化关系分析"
+    url: "/wiki/concepts/overintellectualizedrelationshipanalysis/"
   - key: "OverseasBriberyExportSales"
     title: "Overseas Bribery Export Sales"
     url: "/wiki/concepts/overseasbriberyexportsales/"

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "5a5401156e42ac54bdb8ac1f79fed28a6d6902f1e64e18ba6a3c34c5c5549939",
       "f8696f49f84ba3bd8d4aec8e12e8fa2f3d873b4fb737ede0a6e157fa605f82d5",
       "bca3f6642e8b64dca6b9dd788bccff3eeb61f2a75fd6f726d4d9163440111666",
       "b26998ed8105fc9962ce7130dcda6f4f84a26ac4ad79ef59cb8aaa27adc82847",
@@ -563,11 +564,39 @@
       "013189bd78693c4f9ddd24154fb4e85b4d94868b1b336af988b43dbee9411c03",
       "ed605f497963461eb9bc9c968de448aa46b9f90dddac4016b47d57e3c144fc1a"
     ],
-    "paragraph_count": 561
+    "paragraph_count": 562
   },
-  "overview_commit": "1aed10b6bd334db008c650a80fc3a5c61bfb395e",
-  "overview_digest": "a7b4226dc523c32ddbc39bd5fee596993505b75e535ee4f9c1d815e122b578a6",
+  "overview_commit": "2e6630664104c674e358ebd77f528237748c04c0",
+  "overview_digest": "2a31b86e56596f041980bceae5225c4ffa25a2398c61e52f21d208f0681e034c",
   "paragraphs": [
+    {
+      "id": "5a5401156e42ac54bdb8ac1f79fed28a6d6902f1e64e18ba6a3c34c5c5549939",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The latest addition is [[shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi|史蒂夫说471期 - 咨询师回信：万事只讲逻辑的人，都成长于理性为名的压迫]], a [[ShiDiFuShuo|史蒂夫说]] counselor-letter episode where [[SteveShiDiFuShuoHost|Steve]] connects listener letters about workplace hypervigilance, CPTSD-like safety behavior, psychoanalytic overuse, bad therapy experiences, ambiguous attraction, and online-argument self-doubt. It adds [[OverintellectualizedRelationshipAnalysis]], [[PsychologyConceptSelfPunishment]], and [[BodyBasedSelfTrust]], while extending [[ComplexTraumaRecognition]], [[EmbodiedAnxietyRegulation]], [[TherapyRelationshipAndBoundaries]], [[ShameBasedSelfConcept]], [[FourFTraumaResponse]], [[FawnResponse]], [[PureRationalityTrap]], [[EmotionalGranularity]], and [[EmotionRegulationToolkit]]. Its core synthesis is that psychological knowledge and logic are useful only when they return a person to safety, care, body, boundary, and action; when they become endless self-proof or self-surveillance, they can reproduce the pressure they were meant to relieve. No settled contradiction is recorded; CPTSD, therapy-quality, romantic-strategy, and body-practice claims remain source-scoped public psychoeducation rather than individualized clinical guidance.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 5,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BodyBasedSelfTrust",
+        "ComplexTraumaRecognition",
+        "EmbodiedAnxietyRegulation",
+        "EmotionRegulationToolkit",
+        "EmotionalGranularity",
+        "FawnResponse",
+        "FourFTraumaResponse",
+        "OverintellectualizedRelationshipAnalysis",
+        "PsychologyConceptSelfPunishment",
+        "PureRationalityTrap",
+        "ShameBasedSelfConcept",
+        "ShiDiFuShuo",
+        "SteveShiDiFuShuoHost",
+        "TherapyRelationshipAndBoundaries",
+        "shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi"
+      ]
+    },
     {
       "id": "f8696f49f84ba3bd8d4aec8e12e8fa2f3d873b4fb737ede0a6e157fa605f82d5",
       "primary_topic": "culture-and-media",

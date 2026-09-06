@@ -11017,6 +11017,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "BodyBasedSelfTrust": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Bogside": [
     {
       "key": "history",
@@ -45855,6 +45862,13 @@
       "url": "/topics/science/"
     }
   ],
+  "OverintellectualizedRelationshipAnalysis": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "OverseasChineseMutualAidNetworks": [
     {
       "key": "politics",
@@ -49754,6 +49768,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "PsychologyConceptSelfPunishment": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "PsychometricSocialSorting": [
@@ -74132,6 +74153,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh": [

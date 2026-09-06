@@ -1,6 +1,151 @@
 {
   "claims": [
     {
+      "global_candidate": true,
+      "id": "psychological-knowledge-needs-care-boundaries",
+      "qualifications": [
+        "The warning is source-scoped to a counseling-letter episode and should not be generalized into a rejection of psychological reflection itself.",
+        "Analysis remains useful when it supports regulation, choice, and relational repair rather than self-accusation."
+      ],
+      "statement": "[[OverintellectualizedRelationshipAnalysis]] shows that psychological knowledge can become a self-surveillance tool when it is used to explain every feeling logically instead of reconnecting the person with present safety, affect, and embodied trust.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "OverintellectualizedRelationshipAnalysis",
+        "PsychologyConceptSelfPunishment",
+        "PureRationalityTrap",
+        "BodyBasedSelfTrust",
+        "ShiDiFuShuo",
+        "SteveShiDiFuShuoHost"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "complex-trauma-reframes-safety-behavior",
+      "qualifications": [
+        "The pattern is heuristic and cannot substitute for clinical assessment.",
+        "A trauma frame should reduce shame, not become another identity label or total explanation."
+      ],
+      "statement": "[[ComplexTraumaRecognition]] reframes overthinking, people-pleasing, and self-blame as possible safety strategies formed under chronic relational pressure rather than as fixed character flaws.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "ComplexTraumaRecognition",
+        "FourFTraumaResponse",
+        "FawnResponse",
+        "ShameBasedSelfConcept",
+        "OverintellectualizedRelationshipAnalysis"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "body-and-movement-build-regulation-and-self-trust",
+      "qualifications": [
+        "Embodied practices work best as repeated regulation habits, not one-time fixes.",
+        "Physical approaches should be adapted to health status and are not replacements for needed professional care."
+      ],
+      "statement": "[[EmbodiedAnxietyRegulation]] and [[BodyBasedSelfTrust]] present bodily sensation, movement, breath, warmth, contact, and present-oriented grounding as routes for rebuilding self-trust after anxiety or chronic alarm.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "EmbodiedAnxietyRegulation",
+        "BodyBasedSelfTrust",
+        "EmotionRegulationToolkit",
+        "ActionAgainstAnxiety",
+        "BrainBodyEmotionMapping"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "emotion-regulation-starts-with-noticing-pausing-and-support",
+      "qualifications": [
+        "Supportive co-regulation depends on fit, consent, and relational safety.",
+        "Naming emotions is useful when paired with regulation and choice rather than rumination."
+      ],
+      "statement": "[[EmotionRegulationToolkit]] links practical change to noticing emotion earlier, naming it with more precision, pausing before escalation, and seeking co-regulation when self-regulation is insufficient.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "EmotionRegulationToolkit",
+        "EmotionalGranularity",
+        "SincereEmotionalSupport",
+        "EmbodiedAnxietyRegulation",
+        "ComplementaryRelationshipSupport"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "therapy-change-requires-relational-safety-and-action",
+      "qualifications": [
+        "Therapy effectiveness depends on fit, ethics, and the client's context.",
+        "Insight without action can stall, while action without adequate safety can feel punitive or premature."
+      ],
+      "statement": "[[TherapyRelationshipAndBoundaries]] and [[TherapyInsightActionGap]] treat therapy as a bounded relationship where insight must be converted into action, limits, and changed patterns outside the session.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "TherapyRelationshipAndBoundaries",
+        "TherapyInsightActionGap",
+        "PsychologicalBoundaryProtection",
+        "ActionAgainstAnxiety"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "stress-and-motivation-tools-remain-state-bound",
+      "qualifications": [
+        "Motivation techniques can fail or backfire when the nervous system is already overloaded.",
+        "Longevity and productivity advice should not override clinical needs, grief, trauma, or material constraints."
+      ],
+      "statement": "Stress, motivation, and longevity-oriented sources describe useful tools for appraisal, recovery, dopamine management, and healthspan, but their effects remain state-bound and must be adjusted to the person's current capacity.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "EmbodiedAnxietyRegulation",
+        "EmotionRegulationToolkit",
+        "ActionAgainstAnxiety"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "personal-growth-shifts-from-external-evaluation-to-inward-response",
+      "qualifications": [
+        "This is a cross-source synthesis rather than a single-source doctrine.",
+        "Inward response still needs social feedback and accountability to avoid becoming avoidance."
+      ],
+      "statement": "The personal-growth cluster frames maturity as a shift from external evaluation and idealized self-performance toward inward response, owned choice, and ordinary embodied participation.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "BodyBasedSelfTrust",
+        "EmotionRegulationToolkit",
+        "PsychologicalBoundaryProtection"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "historical-psychology-cases-are-source-scoped",
+      "qualifications": [
+        "Narrative historical cases can illuminate patterns but should not be treated as diagnostic evidence.",
+        "These examples need separation from clinical and therapeutic claims."
+      ],
+      "statement": "Historical and cultural psychology examples in the topic function mainly as source-scoped illustrations of ambition, shame, self-command, dependence, and political survival rather than as general psychological laws.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "ShameBasedSelfConcept",
+        "PsychologicalBoundaryProtection"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "mental-health-and-crisis-boundaries-remain-clinical",
+      "qualifications": [
+        "The corpus can synthesize patterns and cautions, but it does not provide diagnosis or emergency guidance.",
+        "Escalating symptoms, safety risk, or functional collapse require appropriate professional or crisis support."
+      ],
+      "statement": "Across [[ComplexTraumaRecognition]], [[TherapyRelationshipAndBoundaries]], and regulation-oriented pages, the wiki distinguishes self-help practices from clinical care when risk, trauma severity, or crisis conditions exceed ordinary coping tools.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "ComplexTraumaRecognition",
+        "TherapyRelationshipAndBoundaries",
+        "EmbodiedAnxietyRegulation",
+        "EmotionRegulationToolkit"
+      ]
+    },
+    {
       "global_candidate": false,
       "id": "strategic-patron-exit-is-source-scoped-self-protection-case",
       "qualifications": [
@@ -1296,6 +1441,6 @@
     }
   ],
   "input_digest": "8bb0fefd868ebcbbf1a51fbba9ba9179c1ffc0449220a9f785ce92ec8fd75dbe",
-  "summary": "The TianzhenButianzhen/Song Jia source adds a personal conversation branch to psychology and personal development: inward-looking self-cultivation links first reactions, speech intention, relationship need expression, apology, sincere emotional support, and detachment from praise or criticism. Hanji 1047 enters this topic only secondarily as a historical judgment and self-protection case: controlled exit from a still-powerful patron is framed through safety, character reading, and future risk. The Huberman dopamine episode keeps motivation tied to baseline, peaks, anticipation, and effort-as-reward, while the Epel stress branch remains anchored in appraisal, rumination, recovery, acceptance, and meaning-making. The Culture Limited therapy-book episode adds a source-scoped psychotherapy-change branch: relationship safety, defense work, insight, action, and Gottman-style repair language are treated as public psychology interpretation rather than individualized treatment advice. The Attia longevity episode adds emotional healthspan as a personal-development branch: connection, purpose, presence, therapy, DBT, self-talk, and relationship repair are treated as part of durable health rather than optional mood work. Historical Hanji cases remain source-scoped evidence for judgment, self-command, trust, vulnerability, and behavior under pressure.",
+  "summary": "Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, and careful boundaries around self-interpretation. The newer Steve Says material adds that psychological language can become self-punitive when it is used to monitor the self from a detached, purely logical stance rather than to restore present safety and trustworthy bodily contact.",
   "topic_id": "psychology-and-personal-development"
 }

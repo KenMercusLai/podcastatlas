@@ -7554,6 +7554,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/bodilyresolution/"
     },
+    "BodyBasedSelfTrust": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrsK_0kNOOXxA_TwM1CI5DfhldXI [lrsK_0kNOOXxA_TwM1CI5DfhldXI].md",
+          "key": "shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说471期 - 咨询师回信：万事只讲逻辑的人，都成长于理性为名的压迫",
+          "url": "/wiki/sources/shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/bodybasedselftrust/"
+    },
     "Bogside": {
       "episode_count": 2,
       "show_count": 1,
@@ -12692,6 +12708,71 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/complexdestinationtravelrisk/"
+    },
+    "ComplexTraumaRecognition": {
+      "episode_count": 8,
+      "show_count": 2,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "88.别认输，惠子：在听不到喝彩的世界里，挥拳！ [708510803].md",
+          "key": "88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803",
+          "show": "蜜獾吃书",
+          "title": "88.别认输，惠子：在听不到喝彩的世界里，挥拳！",
+          "url": "/wiki/sources/88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803/"
+        },
+        {
+          "episode_file": "84.冰路狂花：好姑娘，你只是忘了勇敢 [699443676].md",
+          "key": "84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676",
+          "show": "蜜獾吃书",
+          "title": "84.冰路狂花：好姑娘，你只是忘了勇敢",
+          "url": "/wiki/sources/84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676/"
+        },
+        {
+          "episode_file": "18.如何识别、逃离并避免成为《精神吸血鬼》 [563629000].md",
+          "key": "18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000",
+          "show": "蜜獾吃书",
+          "title": "18.如何识别、逃离并避免成为《精神吸血鬼》",
+          "url": "/wiki/sources/18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000/"
+        },
+        {
+          "episode_file": "13.悲伤的力量：谈谈丧亲之痛 [551507792].md",
+          "key": "13-beishang-de-liliang-tantan-sangqin-zhitong-551507792",
+          "show": "蜜獾吃书",
+          "title": "13.悲伤的力量：谈谈丧亲之痛",
+          "url": "/wiki/sources/13-beishang-de-liliang-tantan-sangqin-zhitong-551507792/"
+        },
+        {
+          "episode_file": "143.遗忘的脑力：记性不好可咋整啊？ [869667634].md",
+          "key": "143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634",
+          "show": "蜜獾吃书",
+          "title": "143.遗忘的脑力：记性不好可咋整啊？",
+          "url": "/wiki/sources/143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634/"
+        },
+        {
+          "episode_file": "181.讨好并非你的性格，坚持这么久，辛苦了 [979027261].md",
+          "key": "181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261",
+          "show": "蜜獾吃书",
+          "title": "181.讨好并非你的性格，坚持这么久，辛苦了",
+          "url": "/wiki/sources/181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261/"
+        },
+        {
+          "episode_file": "151.早安,怪物：祝你战胜恐惧，祝你获得康复 [900179286].md",
+          "key": "151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286",
+          "show": "蜜獾吃书",
+          "title": "151.早安,怪物：祝你战胜恐惧，祝你获得康复",
+          "url": "/wiki/sources/151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286/"
+        },
+        {
+          "episode_file": "lrsK_0kNOOXxA_TwM1CI5DfhldXI [lrsK_0kNOOXxA_TwM1CI5DfhldXI].md",
+          "key": "shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说471期 - 咨询师回信：万事只讲逻辑的人，都成长于理性为名的压迫",
+          "url": "/wiki/sources/shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/complextraumarecognition/"
     },
     "ComprehensiveConsumerDataPrivacy": {
       "episode_count": 4,
@@ -18852,9 +18933,9 @@
       "url": "/wiki/concepts/embodiedactingimprovisation/"
     },
     "EmbodiedAnxietyRegulation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -18862,6 +18943,13 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说472期 - 赵今朝 - 化解焦虑最佳方法：拆解问题，温柔相待",
           "url": "/wiki/sources/shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh/"
+        },
+        {
+          "episode_file": "lrsK_0kNOOXxA_TwM1CI5DfhldXI [lrsK_0kNOOXxA_TwM1CI5DfhldXI].md",
+          "key": "shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说471期 - 咨询师回信：万事只讲逻辑的人，都成长于理性为名的压迫",
+          "url": "/wiki/sources/shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi/"
         }
       ],
       "updated": "2026-09-07",
@@ -49261,6 +49349,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/overextendedfrontierexpedition/"
     },
+    "OverintellectualizedRelationshipAnalysis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrsK_0kNOOXxA_TwM1CI5DfhldXI [lrsK_0kNOOXxA_TwM1CI5DfhldXI].md",
+          "key": "shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说471期 - 咨询师回信：万事只讲逻辑的人，都成长于理性为名的压迫",
+          "url": "/wiki/sources/shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/overintellectualizedrelationshipanalysis/"
+    },
     "OverseasCreatorMarketingPlatform": {
       "episode_count": 1,
       "show_count": 1,
@@ -53237,6 +53341,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/psychologicalboundaryprotection/"
+    },
+    "PsychologyConceptSelfPunishment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrsK_0kNOOXxA_TwM1CI5DfhldXI [lrsK_0kNOOXxA_TwM1CI5DfhldXI].md",
+          "key": "shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说471期 - 咨询师回信：万事只讲逻辑的人，都成长于理性为名的压迫",
+          "url": "/wiki/sources/shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/psychologyconceptselfpunishment/"
     },
     "PublicAgriculturalResearchCommercialization": {
       "episode_count": 1,
@@ -59255,9 +59375,9 @@
       "url": "/wiki/entities/shibilatehan/"
     },
     "ShiDiFuShuo": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -59265,6 +59385,13 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说472期 - 赵今朝 - 化解焦虑最佳方法：拆解问题，温柔相待",
           "url": "/wiki/sources/shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh/"
+        },
+        {
+          "episode_file": "lrsK_0kNOOXxA_TwM1CI5DfhldXI [lrsK_0kNOOXxA_TwM1CI5DfhldXI].md",
+          "key": "shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说471期 - 咨询师回信：万事只讲逻辑的人，都成长于理性为名的压迫",
+          "url": "/wiki/sources/shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi/"
         }
       ],
       "updated": "2026-09-07",
@@ -61169,9 +61296,9 @@
       "url": "/wiki/entities/stevebernard/"
     },
     "SteveShiDiFuShuoHost": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -61179,6 +61306,13 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说472期 - 赵今朝 - 化解焦虑最佳方法：拆解问题，温柔相待",
           "url": "/wiki/sources/shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh/"
+        },
+        {
+          "episode_file": "lrsK_0kNOOXxA_TwM1CI5DfhldXI [lrsK_0kNOOXxA_TwM1CI5DfhldXI].md",
+          "key": "shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说471期 - 咨询师回信：万事只讲逻辑的人，都成长于理性为名的压迫",
+          "url": "/wiki/sources/shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi/"
         }
       ],
       "updated": "2026-09-07",
