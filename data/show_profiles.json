@@ -3222,9 +3222,15 @@
       "earliest_episode_date": "2026-05-26",
       "latest_episode_date": "2026-08-18",
       "latest_episode_file": "8212959555_438866 [8212959555_438866].md",
-      "source_note_count": 1,
-      "topic_matched_source_note_count": 1,
+      "source_note_count": 2,
+      "topic_matched_source_note_count": 2,
       "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 1
+        },
         {
           "key": "culture",
           "label": "Culture",
@@ -3234,8 +3240,8 @@
       ],
       "entities": [],
       "start_here_episode_files": [
-        "8212959555_438866 [8212959555_438866].md",
         "8213451338_252768 [8213451338_252768].md",
+        "8212959555_438866 [8212959555_438866].md",
         "8220234869_014847 [8220234869_014847].md"
       ]
     },

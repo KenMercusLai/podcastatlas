@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6548
+wiki_total_pages: 6554
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -767,6 +767,9 @@ wiki_pages:
   - key: "ExperienceLedBrand"
     title: "Experience-Led Brand"
     url: "/wiki/concepts/experienceledbrand/"
+  - key: "ExperientialAssociation"
+    title: "Experiential Association / 经验联想"
+    url: "/wiki/concepts/experientialassociation/"
   - key: "ExperientialRetail"
     title: "Experiential Retail"
     url: "/wiki/concepts/experientialretail/"

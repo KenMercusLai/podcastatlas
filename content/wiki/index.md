@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Episode 224: 不是不识不时不适](sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768.md) — 迟早更新 episode with Ren Ning on book-review misreading, reading decline, Luria and Ong's literacy theories, Bush's Memex, AI statistical association, and embodied literary experience.
 - [#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？](sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4.md) — 声东击西 episode with Xu Tao and Fang Kecheng on youth social-media age bans, product-design liability, internal platform evidence, Section 230, and the Big Tobacco analogy.
 - [史蒂夫说471期 - 咨询师回信：万事只讲逻辑的人，都成长于理性为名的压迫](sources/shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi.md) — 史蒂夫说 counselor-letter episode on CPTSD-like hypervigilance, toxic shame, overusing psychoanalytic concepts, unsafe therapy experiences, ambiguous attraction, logic-driven self-doubt, and body-based self-trust.
 - [Episode 225: 一袋一录](sources/episode-225-yidai-yilu-8212959555-438866.md) — 迟早更新 episode on Ursula K. Le Guin's carrier-bag theory, Chinese container-like literary forms, Donna Haraway, river personhood, Robert Macfarlane, and narrative pluralism.
@@ -1971,6 +1972,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Alexander Luria / 亚历山大·卢里亚](entities/AlexanderLuria.md) — Neuropsychologist used by Episode 224 to distinguish practical experience-bound reasoning from text-shaped abstraction.
+- [Walter Ong / 沃尔特·翁](entities/WalterOng.md) — Orality and literacy theorist used by Episode 224 to frame literacy as a cognitive environment.
+- [Vannevar Bush](entities/VannevarBush.md) — Computing-history figure whose Memex proposal anchors Episode 224's associative knowledge-systems branch.
+- [Memex](entities/Memex.md) — Bush's conceptual information device used by Episode 224 to contrast human associative trails with AI-generated associations.
+- [The End of Reading Is Here](entities/TheEndOfReadingIsHere.md) — Atlantic article used by Episode 224 as the contemporary reading-decline reference.
 - [方可诚](entities/FangKecheng.md) — Communication scholar and 声东击西 guest explaining youth social-media regulation, platform responsibility, evidence disputes, and the Big Tobacco analogy.
 - [Frances Haugen](entities/FrancesHaugen.md) — Facebook whistleblower used here as an internal-document evidence node in youth social-media product-liability debates.
 - [Sophie Zhang](entities/SophieZhang.md) — Former Facebook data scientist and whistleblower named as part of the internal-evidence layer around platform accountability.
@@ -11136,6 +11142,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Reading Comprehension Fragility / 阅读理解脆弱性](concepts/ReadingComprehensionFragility.md) — Episode 224 concern that readers may lose the stamina and interpretive habits needed for metaphor, qualification, and uncomfortable bodily writing.
+- [Text-Shaped Cognition / 文本塑造的认知方式](concepts/TextShapedCognition.md) — Literacy-formed cognitive habits of abstraction, formal inference, definition, and self-analysis developed through Luria and Ong in Episode 224.
+- [Associative Knowledge Systems / 联想式知识系统](concepts/AssociativeKnowledgeSystems.md) — Knowledge organization by trails, links, and relations, developed through Bush's Memex and contrasted with AI association.
+- [AI Statistical Association / AI 统计联想](concepts/AIStatisticalAssociation.md) — Machine-generated concept and pattern linkage contrasted with embodied literary association in Episode 224.
+- [Experiential Association / 经验联想](concepts/ExperientialAssociation.md) — Human literary capacity to connect lived bodily and sensory experience to language before it exists as a common text pattern.
+- [Secondary Orality In AI Era / AI 时代的次生口语文化](concepts/SecondaryOralityInAIEra.md) — Episode 224 extension of Ong's secondary orality to short video, feeds, and large language models.
 - [Carrier-Bag Narrative / 载物袋叙事](concepts/CarrierBagNarrative.md) — Narrative form that gathers people, objects, memories, places, and knowledge into meaningful relation instead of relying only on hero, enemy, conflict, and victory.
 - [Narrative Pluralism / 叙事多样性](concepts/NarrativePluralism.md) — Position that cultures need multiple legitimate story shapes and that the problem is narrative monopoly rather than scale itself.
 - [River As Living Entity / 河流作为生命](concepts/RiverAsLivingEntity.md) — Legal-ecological and nature-writing frame treating rivers as living relational systems rather than only resources, scenery, or infrastructure.

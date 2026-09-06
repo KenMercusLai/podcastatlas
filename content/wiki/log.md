@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-07] ingest | Episode 224: 不是不识不时不适
+
+Ingested the 2026-08-13 迟早更新 episode with Ren Ning on book-review misreading, bodily writing, reading-comprehension fragility, Luria's practical-reasoning cases, Walter Ong's literacy theory, Vannevar Bush's Memex, AI statistical association, and experiential association as a possible human literary advantage. Added source `episode-224-bushi-bushi-bushi-bushi-8213451338-252768`; created `AlexanderLuria`, `WalterOng`, `VannevarBush`, `Memex`, `TheEndOfReadingIsHere`, `ReadingComprehensionFragility`, `TextShapedCognition`, `AssociativeKnowledgeSystems`, `AIStatisticalAssociation`, `ExperientialAssociation`, and `SecondaryOralityInAIEra`; updated `ChizaoGengxin`, `RenNing`, `HopeIsTheThingWithFeathersBook`, `index`, and `overview`. No settled contradiction found; reading-decline causality, the Atlantic article's research claims, and the future human-AI creative division remain source-scoped.
+
 ## [2026-09-07] ingest | No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理
 
 Ingested the 2026-08-18 三五环 crossover with Zhang Hongliang / 玉米 from 万物生长 on sleep rhythm, deep sleep, REM, caffeine, alcohol, morning light, sleep-score anxiety, 8Sleep dynamic temperature, bed-based sensing, and consumer sleep-hardware subscription economics. Added source `no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil`; created `ZhangHongliang`, `WanwuShengzhang`, `BedBasedSleepSensing`, and `ConsumerSleepHardwareSubscription`; updated `EightSleep`, `SleepTemperatureToolkit`, `SleepStageFunctionalArchitecture`, `SubstanceSleepArchitectureBoundary`, `WearableHealthDataAnxiety`, `CaffeineAdenosineSleepTiming`, `SleepWakeTimingToolkit`, `index`, and `overview`. No settled contradiction found; 8Sleep effect claims, sleep-stage estimates, referral/adoption figures, and sleep-medicine suggestions remain source-scoped.
@@ -15739,6 +15743,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | #400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？
 
 Ingested the 2026-08-13 声东击西 episode with Xu Tao and Fang Kecheng on youth social-media age bans, product-design liability, internal platform evidence, Section 230, and the Big Tobacco analogy. Added source `400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4`; created `FangKecheng`, `FrancesHaugen`, `SophieZhang`, `MarkLanier`, and `UnitedNationsChildrenFund`; updated `ShengdongJixi`, `XuTao`, `SocialMediaProductLiability`, `SocialMediaAgeBans`, `SocialMediaCausationScienceWars`, `BigTobaccoPlatformAnalogy`, `InternalSafetyResearchExposure`, `index`, and `overview`. No settled contradiction found; France implementation details, Australian evasion estimates, Meta internal-study claims, clinical-study figures, and user lifetime-value numbers remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

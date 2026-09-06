@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 920
+topic_total_pages: 921
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1622,6 +1622,9 @@ topic_entities:
   - key: "AlessandroVolta"
     title: "Alessandro Volta / 亚历山德罗·伏打"
     url: "/wiki/entities/alessandrovolta/"
+  - key: "AlexanderLuria"
+    title: "Alexander Luria / 亚历山大·卢里亚"
+    url: "/wiki/entities/alexanderluria/"
   - key: "AlfredAdler"
     title: "Alfred Adler / 阿尔弗雷德·阿德勒"
     url: "/wiki/entities/alfredadler/"

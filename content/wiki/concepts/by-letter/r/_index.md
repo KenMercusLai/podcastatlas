@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6548
+wiki_total_pages: 6554
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "ReadingAsLifeExperience"
     title: "Reading As Life Experience"
     url: "/wiki/concepts/readingaslifeexperience/"
+  - key: "ReadingComprehensionFragility"
+    title: "Reading Comprehension Fragility / 阅读理解脆弱性"
+    url: "/wiki/concepts/readingcomprehensionfragility/"
   - key: "ReadingListPointerEpisode"
     title: "Reading List Pointer Episode"
     url: "/wiki/concepts/readinglistpointerepisode/"

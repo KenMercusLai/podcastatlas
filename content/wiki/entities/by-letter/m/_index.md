@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9161
+wiki_total_pages: 9166
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -665,6 +665,9 @@ wiki_pages:
   - key: "Mem0"
     title: "Mem0"
     url: "/wiki/entities/mem0/"
+  - key: "Memex"
+    title: "Memex"
+    url: "/wiki/entities/memex/"
   - key: "MemoVR"
     title: "Memo VR"
     url: "/wiki/entities/memovr/"

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "89fb39ee3458c07f54166f321ade0c95f2ff4679255bd5f2731469e5b1175b23",
       "5a5401156e42ac54bdb8ac1f79fed28a6d6902f1e64e18ba6a3c34c5c5549939",
       "f8696f49f84ba3bd8d4aec8e12e8fa2f3d873b4fb737ede0a6e157fa605f82d5",
       "bca3f6642e8b64dca6b9dd788bccff3eeb61f2a75fd6f726d4d9163440111666",
@@ -564,11 +565,43 @@
       "013189bd78693c4f9ddd24154fb4e85b4d94868b1b336af988b43dbee9411c03",
       "ed605f497963461eb9bc9c968de448aa46b9f90dddac4016b47d57e3c144fc1a"
     ],
-    "paragraph_count": 562
+    "paragraph_count": 563
   },
-  "overview_commit": "5b7f6664159cb42cdab4de56c29a90d466c190ad",
-  "overview_digest": "84a047d0316d6b0675346ebf845f213b521e062b23d416525dcc810fb2f02dc1",
+  "overview_commit": "1ea8dd3f4c4e1f73a69b0a3e408edc7c76dee46c",
+  "overview_digest": "cf9b28ab519890ac838580d4f6403e5de6bbc794d88595822dfb622df8fd0ca6",
   "paragraphs": [
+    {
+      "id": "89fb39ee3458c07f54166f321ade0c95f2ff4679255bd5f2731469e5b1175b23",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [],
+      "text": "The latest addition is [[episode-224-bushi-bushi-bushi-bushi-8213451338-252768|Episode 224: 不是不识不时不适]], a [[ChizaoGengxin|迟早更新]] episode where [[RenNing|任宁]] turns reader responses to [[HopeIsTheThingWithFeathersBook|《希望是那长着羽毛的小东西》]] into a media-theory argument about reading, literacy, and AI. It adds [[AlexanderLuria|Alexander Luria / 亚历山大·卢里亚]], [[WalterOng|Walter Ong / 沃尔特·翁]], [[VannevarBush|Vannevar Bush]], [[Memex]], [[TheEndOfReadingIsHere|The End of Reading Is Here]], [[ReadingComprehensionFragility|阅读理解脆弱性]], [[TextShapedCognition|文本塑造的认知方式]], [[AssociativeKnowledgeSystems|联想式知识系统]], [[AIStatisticalAssociation|AI 统计联想]], [[ExperientialAssociation|经验联想]], and [[SecondaryOralityInAIEra|AI 时代的次生口语文化]], while extending [[NatureWriting]], [[ReadingAsLifeExperience]], [[AIAssistedReading]], and [[EmbodiedJudgment]]. Its core synthesis is that AI may become better at concept-to-concept association while humans remain responsible for first world-to-language connections grounded in body, nature, discomfort, and lived perception. No settled contradiction is recorded; reading-decline causality, the article's research claims, and the future human-AI creative division remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "culture-and-media": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AIAssistedReading",
+        "AIStatisticalAssociation",
+        "AlexanderLuria",
+        "AssociativeKnowledgeSystems",
+        "ChizaoGengxin",
+        "EmbodiedJudgment",
+        "ExperientialAssociation",
+        "HopeIsTheThingWithFeathersBook",
+        "Memex",
+        "NatureWriting",
+        "ReadingAsLifeExperience",
+        "ReadingComprehensionFragility",
+        "RenNing",
+        "SecondaryOralityInAIEra",
+        "TextShapedCognition",
+        "TheEndOfReadingIsHere",
+        "VannevarBush",
+        "WalterOng",
+        "episode-224-bushi-bushi-bushi-bushi-8213451338-252768"
+      ]
+    },
     {
       "id": "5a5401156e42ac54bdb8ac1f79fed28a6d6902f1e64e18ba6a3c34c5c5549939",
       "primary_topic": "psychology-and-personal-development",

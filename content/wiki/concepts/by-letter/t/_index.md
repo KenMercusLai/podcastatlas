@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6548
+wiki_total_pages: 6554
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -272,6 +272,9 @@ wiki_pages:
   - key: "TestTimeScaling"
     title: "Test-Time Scaling"
     url: "/wiki/concepts/testtimescaling/"
+  - key: "TextShapedCognition"
+    title: "Text-Shaped Cognition / 文本塑造的认知方式"
+    url: "/wiki/concepts/textshapedcognition/"
   - key: "TextbookExcerptFlattening"
     title: "Textbook Excerpt Flattening / 教材删节造成的文本扁平化"
     url: "/wiki/concepts/textbookexcerptflattening/"

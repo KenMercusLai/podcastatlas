@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6548
+wiki_total_pages: 6554
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1160,6 +1160,9 @@ wiki_pages:
   - key: "AIStartupUnitEconomics"
     title: "AI Startup Unit Economics"
     url: "/wiki/concepts/aistartupuniteconomics/"
+  - key: "AIStatisticalAssociation"
+    title: "AI Statistical Association / AI 统计联想"
+    url: "/wiki/concepts/aistatisticalassociation/"
   - key: "AIStorageSupercycle"
     title: "AI Storage Supercycle"
     url: "/wiki/concepts/aistoragesupercycle/"
@@ -1889,6 +1892,9 @@ wiki_pages:
   - key: "AssistiveDeviceClassification"
     title: "Assistive Device Classification"
     url: "/wiki/concepts/assistivedeviceclassification/"
+  - key: "AssociativeKnowledgeSystems"
+    title: "Associative Knowledge Systems / 联想式知识系统"
+    url: "/wiki/concepts/associativeknowledgesystems/"
   - key: "AsymmetricInformation"
     title: "Asymmetric Information"
     url: "/wiki/concepts/asymmetricinformation/"

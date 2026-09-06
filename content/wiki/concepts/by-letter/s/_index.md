@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6548
+wiki_total_pages: 6554
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "SecondTimeFounderOperatingJudgment"
     title: "Second-Time Founder Operating Judgment"
     url: "/wiki/concepts/secondtimefounderoperatingjudgment/"
+  - key: "SecondaryOralityInAIEra"
+    title: "Secondary Orality In AI Era / AI 时代的次生口语文化"
+    url: "/wiki/concepts/secondaryoralityinaiera/"
   - key: "SecondhandGameEconomy"
     title: "Secondhand Game Economy"
     url: "/wiki/concepts/secondhandgameeconomy/"

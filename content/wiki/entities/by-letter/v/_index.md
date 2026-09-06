@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 9161
+wiki_total_pages: 9166
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "VannetteHo"
     title: "Vannette Ho"
     url: "/wiki/entities/vannetteho/"
+  - key: "VannevarBush"
+    title: "Vannevar Bush"
+    url: "/wiki/entities/vannevarbush/"
   - key: "Vans"
     title: "Vans"
     url: "/wiki/entities/vans/"

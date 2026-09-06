@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9161
+wiki_total_pages: 9166
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "TheDagda"
     title: "The Dagda / 达格达"
     url: "/wiki/entities/thedagda/"
+  - key: "TheEndOfReadingIsHere"
+    title: "The End of Reading Is Here"
+    url: "/wiki/entities/theendofreadingishere/"
   - key: "TheEpicOfGilgamesh"
     title: "The Epic of Gilgamesh / 吉尔伽美什史诗"
     url: "/wiki/entities/theepicofgilgamesh/"

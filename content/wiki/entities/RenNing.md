@@ -2,28 +2,47 @@
 title: "任宁 / Ren Ning"
 type: entity
 tags: [person, birdwatching, nature-writing]
-sources: [ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779]
-last_updated: 2026-07-09
+sources:
+  - ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779
+  - episode-224-bushi-bushi-bushi-bushi-8213451338-252768
+last_updated: 2026-09-07
+knowledge_schema: synthesis-v1
 ---
 
 # 任宁 / Ren Ning
 
-Ren Ning is the birdwatcher and nature writer interviewed in [[ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779]]. The episode presents him through his book [[HopeIsTheThingWithFeathersBook]], his field experience with garbage-dump black kites, island tern conservation, urban wasteland, ringing records, and his broader argument that birdwatching opens sensory layers of the world.
+## Overview
+Ren Ning is the birdwatcher, nature writer, and 迟早更新 host represented through an interview on birdwatching and a later essay episode on reading, AI, and embodied literary association.
 
-His position is not that nature is pure escape. He treats birdwatching as [[BirdwatchingAsAttention]] and [[EmbodiedJudgment]]: knowledge, patient looking, hearing, photographs, lists, memory, and bodily exposure all matter. He also resists two common reductions of nature, arguing against treating it only as therapy or only as sacred scenery.
+## Current Profile
+The current sources present Ren Ning as a writer whose authority comes from trained attention to nature and from reflecting on how bodily experience becomes prose. His birdwatching practice joins taxonomy, ecology, behavior, memory, and field exposure; his later 迟早更新 episode turns reader responses to [[HopeIsTheThingWithFeathersBook]] into a wider claim that AI may be strong at concept-to-concept association but weak at first world-to-language connection.
 
-## Source Position
-- Birdwatching is a disciplined way to notice taxonomy, ecology, behavior, habitat, and human disturbance at once.
-- [[CitizenScience]] lets ordinary observers contribute data through ring readings, photographs, bird lists, and sighting platforms.
-- [[NatureWriting]] should include the observer's body, psychology, memory, and people encountered in the field instead of pretending to be fully impersonal.
-- Freedom comes from entering a complex natural system with one's own senses rather than being driven by industry trend speed or external comparison.
+## Key Characteristics
+- Treats birdwatching as disciplined perception rather than simple leisure or scenery consumption.
+- Writes nature with the observer's body, memory, psychology, and field conditions still present.
+- Resists reducing nature to therapy, sacred scenery, or useful information.
+- Uses personal discomfort and reader misinterpretation as material for broader media and cognition arguments.
+- Frames human creative value in the AI era around [[ExperientialAssociation|experience-based association]].
 
-## Connections
-- [[FuyouTiandi]] - interview context.
-- [[HopeIsTheThingWithFeathersBook]] - book discussed in the episode.
-- [[BirdwatchingAsAttention]] - core practice.
-- [[CitizenScience]] - observer-data contribution.
-- [[NatureWriting]] - writing mode.
-- [[ConservationIntervention]] - tern-project discussion.
-- [[UrbanEcology]] - city and wasteland habitat frame.
-- [[AIRecognitionBias]] - bird-recognition tool caution.
+## Evidence
+- Birdwatching method: [[ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779]] presents Ren Ning's three-part attention to taxonomy, ecology, and behavior.
+- Nature writing: [[ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779]] says his prose keeps body, memory, mood, city life, and psychological truth inside natural observation.
+- Anti-reduction stance: [[ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779]] records his rejection of nature as only hospital or church.
+- Book-response pivot: [[episode-224-bushi-bushi-bushi-bushi-8213451338-252768]] uses reviews of his book's bodily passage to discuss misreading, discomfort, and literary intent.
+- AI-era writing claim: [[episode-224-bushi-bushi-bushi-bushi-8213451338-252768]] argues that bodily and natural encounters may remain a human source of associations AI cannot directly experience.
+
+## Qualifications
+The profile is grounded in two sources and should not be treated as a full biography. Episode 224 is reflective and speculative, so its AI-era division between human and machine association remains a source-scoped thesis.
+
+## What Changed
+- Migrated Ren Ning to the synthesis-first entity schema.
+- Added his host role in the reading, literacy, and AI-era association episode.
+- Connected his birdwatching and nature-writing practice to experiential association.
+
+## Relationships
+- [[HopeIsTheThingWithFeathersBook]] - his nature-writing book discussed in both represented sources.
+- [[ChizaoGengxin|迟早更新]] - show context for his essay episode.
+- [[BirdwatchingAsAttention]] - core practice grounding his nature work.
+- [[NatureWriting]] - literary mode shaped by his field notes, body, and memory.
+- [[ExperientialAssociation]] - AI-era writing concept his episode develops.
+- [[AIRecognitionBias]] - technical caution adjacent to his bird-recognition discussion.

@@ -2172,6 +2172,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aisnowlineworkboundary/"
     },
+    "AIStatisticalAssociation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8213451338_252768 [8213451338_252768].md",
+          "key": "episode-224-bushi-bushi-bushi-bushi-8213451338-252768",
+          "show": "迟早更新",
+          "title": "Episode 224: 不是不识不时不适",
+          "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/aistatisticalassociation/"
+    },
     "AITO": {
       "episode_count": 2,
       "show_count": 2,
@@ -3633,6 +3649,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/alexanderhamilton/"
+    },
+    "AlexanderLuria": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8213451338_252768 [8213451338_252768].md",
+          "key": "episode-224-bushi-bushi-bushi-bushi-8213451338-252768",
+          "show": "迟早更新",
+          "title": "Episode 224: 不是不识不时不适",
+          "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/alexanderluria/"
     },
     "AlexandraSuichBass": {
       "episode_count": 2,
@@ -5364,6 +5396,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/assisteddrivingtrustformation/"
+    },
+    "AssociativeKnowledgeSystems": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8213451338_252768 [8213451338_252768].md",
+          "key": "episode-224-bushi-bushi-bushi-bushi-8213451338-252768",
+          "show": "迟早更新",
+          "title": "Episode 224: 不是不识不时不适",
+          "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/associativeknowledgesystems/"
     },
     "Atang": {
       "episode_count": 13,
@@ -11518,9 +11566,9 @@
       "url": "/wiki/concepts/chivalricromancewarmemory/"
     },
     "ChizaoGengxin": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "8212959555_438866 [8212959555_438866].md",
@@ -11528,6 +11576,13 @@
           "show": "迟早更新",
           "title": "Episode 225: 一袋一录",
           "url": "/wiki/sources/episode-225-yidai-yilu-8212959555-438866/"
+        },
+        {
+          "episode_file": "8213451338_252768 [8213451338_252768].md",
+          "key": "episode-224-bushi-bushi-bushi-bushi-8213451338-252768",
+          "show": "迟早更新",
+          "title": "Episode 224: 不是不识不时不适",
+          "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
         }
       ],
       "updated": "2026-09-07",
@@ -21546,6 +21601,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/experienceformingeducation/"
     },
+    "ExperientialAssociation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8213451338_252768 [8213451338_252768].md",
+          "key": "episode-224-bushi-bushi-bushi-bushi-8213451338-252768",
+          "show": "迟早更新",
+          "title": "Episode 224: 不是不识不时不适",
+          "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/experientialassociation/"
+    },
     "ExpertiseAmplifiedAIUse": {
       "episode_count": 3,
       "show_count": 3,
@@ -30784,6 +30855,29 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/honorswithoutofficesettlement/"
+    },
+    "HopeIsTheThingWithFeathersBook": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
+          "key": "ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 18: 感官放大世界：和任宁聊观鸟、自然与自由",
+          "url": "/wiki/sources/ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779/"
+        },
+        {
+          "episode_file": "8213451338_252768 [8213451338_252768].md",
+          "key": "episode-224-bushi-bushi-bushi-bushi-8213451338-252768",
+          "show": "迟早更新",
+          "title": "Episode 224: 不是不识不时不适",
+          "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/hopeisthethingwithfeathersbook/"
     },
     "HoratioGates": {
       "episode_count": 1,
@@ -44327,6 +44421,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/meghirschberg/"
     },
+    "Memex": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8213451338_252768 [8213451338_252768].md",
+          "key": "episode-224-bushi-bushi-bushi-bushi-8213451338-252768",
+          "show": "迟早更新",
+          "title": "Episode 224: 不是不识不时不适",
+          "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/memex/"
+    },
     "MemoryConsolidationWindows": {
       "episode_count": 4,
       "show_count": 3,
@@ -54710,6 +54820,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/raysolomonoff/"
     },
+    "ReadingComprehensionFragility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8213451338_252768 [8213451338_252768].md",
+          "key": "episode-224-bushi-bushi-bushi-bushi-8213451338-252768",
+          "show": "迟早更新",
+          "title": "Episode 224: 不是不识不时不适",
+          "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/readingcomprehensionfragility/"
+    },
     "RealEstateHighTurnoverLeverage": {
       "episode_count": 1,
       "show_count": 1,
@@ -55588,6 +55714,29 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/renlifeng/"
+    },
+    "RenNing": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
+          "key": "ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 18: 感官放大世界：和任宁聊观鸟、自然与自由",
+          "url": "/wiki/sources/ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779/"
+        },
+        {
+          "episode_file": "8213451338_252768 [8213451338_252768].md",
+          "key": "episode-224-bushi-bushi-bushi-bushi-8213451338-252768",
+          "show": "迟早更新",
+          "title": "Episode 224: 不是不识不时不适",
+          "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/renning/"
     },
     "RenShangLateHan": {
       "episode_count": 8,
@@ -58257,6 +58406,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/secondopinionstrategy/"
+    },
+    "SecondaryOralityInAIEra": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8213451338_252768 [8213451338_252768].md",
+          "key": "episode-224-bushi-bushi-bushi-bushi-8213451338-252768",
+          "show": "迟早更新",
+          "title": "Episode 224: 不是不识不时不适",
+          "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/secondaryoralityinaiera/"
     },
     "SecurityForAuthorityExchange": {
       "episode_count": 6,
@@ -64641,6 +64806,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/texaschicken/"
     },
+    "TextShapedCognition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8213451338_252768 [8213451338_252768].md",
+          "key": "episode-224-bushi-bushi-bushi-bushi-8213451338-252768",
+          "show": "迟早更新",
+          "title": "Episode 224: 不是不识不时不适",
+          "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/textshapedcognition/"
+    },
     "TeyanaTaylor": {
       "episode_count": 1,
       "show_count": 1,
@@ -64672,6 +64853,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/thecarrierbagtheoryoffiction/"
+    },
+    "TheEndOfReadingIsHere": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8213451338_252768 [8213451338_252768].md",
+          "key": "episode-224-bushi-bushi-bushi-bushi-8213451338-252768",
+          "show": "迟早更新",
+          "title": "Episode 224: 不是不识不时不适",
+          "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/theendofreadingishere/"
     },
     "TheOdyssey": {
       "episode_count": 8,
@@ -67690,6 +67887,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/vandalkingdom/"
     },
+    "VannevarBush": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8213451338_252768 [8213451338_252768].md",
+          "key": "episode-224-bushi-bushi-bushi-bushi-8213451338-252768",
+          "show": "迟早更新",
+          "title": "Episode 224: 不是不识不时不适",
+          "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/vannevarbush/"
+    },
     "VectorBorneInfectionEscalation": {
       "episode_count": 1,
       "show_count": 1,
@@ -68170,6 +68383,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/volkswagengroup/"
+    },
+    "WalterOng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8213451338_252768 [8213451338_252768].md",
+          "key": "episode-224-bushi-bushi-bushi-bushi-8213451338-252768",
+          "show": "迟早更新",
+          "title": "Episode 224: 不是不识不时不适",
+          "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/walterong/"
     },
     "WanChengLujiang": {
       "episode_count": 1,
