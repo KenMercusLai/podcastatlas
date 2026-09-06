@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9086
+wiki_total_pages: 9097
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1235,6 +1235,9 @@ wiki_pages:
   - key: "StorytimeToys"
     title: "Storytime Toys"
     url: "/wiki/entities/storytimetoys/"
+  - key: "StraitOfGibraltar"
+    title: "Strait of Gibraltar / 直布罗陀海峡"
+    url: "/wiki/entities/straitofgibraltar/"
   - key: "StraitOfHormuz"
     title: "Strait of Hormuz"
     url: "/wiki/entities/straitofhormuz/"

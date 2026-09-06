@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9086
+wiki_total_pages: 9097
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1049,6 +1049,9 @@ wiki_pages:
   - key: "CooperKatzMcKim"
     title: "Cooper Katz-McKim"
     url: "/wiki/entities/cooperkatzmckim/"
+  - key: "CordobaCaliphate"
+    title: "Cordoba Caliphate / 科尔多瓦哈里发国"
+    url: "/wiki/entities/cordobacaliphate/"
   - key: "CoreWeave"
     title: "CoreWeave"
     url: "/wiki/entities/coreweave/"

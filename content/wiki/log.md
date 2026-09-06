@@ -15599,3 +15599,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-07] ingest | 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
+
+Ingested the 2026-08-28 忽左忽右 episode using Ceuta to connect Moroccan migration crossings, Strait of Gibraltar geography, ancient and medieval Mediterranean rule, Portuguese expansion, Spanish sovereignty, and migration weaponization. Added source `496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw`; created `LuDapeng`, `StraitOfGibraltar`, `Gibraltar`, `IberianPeninsula`, `VandalKingdom`, `ByzantineEmpire`, `AlAndalus`, `CordobaCaliphate`, `AlIdrisi`, `JohnIOfPortugal`, `HenryTheNavigator`, `CeutaImperialBorderland`, `IberianReconquista`, and `PortugueseMaritimeExpansion`; updated `Ceuta`, `Morocco`, `Portugal`, `MigrationWeaponization`, `BorderLegalSignal`, `HuzuoHuyou`, `ChengYanliang`, `index`, and `overview`. No settled contradiction found; Count Julian, the southern Pillar of Hercules identification, Moroccan intent in the 2026 crossings, and the 1415-as-Age-of-Discovery-origin claim remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

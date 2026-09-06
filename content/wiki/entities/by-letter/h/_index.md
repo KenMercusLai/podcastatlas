@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9086
+wiki_total_pages: 9097
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "HenryRoyce"
     title: "Henry Royce"
     url: "/wiki/entities/henryroyce/"
+  - key: "HenryTheNavigator"
+    title: "Henry the Navigator / 恩里克王子"
+    url: "/wiki/entities/henrythenavigator/"
   - key: "HenryYin"
     title: "Henry Yin"
     url: "/wiki/entities/henryyin/"

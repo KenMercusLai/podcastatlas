@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9086
+wiki_total_pages: 9097
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "ByteDanceFLOW"
     title: "ByteDance FLOW"
     url: "/wiki/entities/bytedanceflow/"
+  - key: "ByzantineEmpire"
+    title: "Byzantine Empire / 拜占庭帝国"
+    url: "/wiki/entities/byzantineempire/"
   - key: "BuChengWenTiDeWenTi"
     title: "《不成问题的问题》"
     url: "/wiki/entities/buchengwentidewenti/"

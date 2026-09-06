@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6494
+wiki_total_pages: 6497
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "CeramicLivestreamCommerceRisk"
     title: "Ceramic Livestream Commerce Risk / 陶瓷直播电商风险"
     url: "/wiki/concepts/ceramiclivestreamcommercerisk/"
+  - key: "CeutaImperialBorderland"
+    title: "Ceuta Imperial Borderland / 休达帝国边地"
+    url: "/wiki/concepts/ceutaimperialborderland/"
   - key: "ChainRestaurantStandardization"
     title: "Chain Restaurant Standardization"
     url: "/wiki/concepts/chainrestaurantstandardization/"

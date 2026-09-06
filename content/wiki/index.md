@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海](sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw.md) — 忽左忽右 episode using Ceuta to connect Moroccan migration crossings, Strait of Gibraltar geography, ancient and medieval Mediterranean rule, Portuguese expansion, Spanish sovereignty, and migration weaponization.
 - [史蒂夫说472期 - 赵今朝 - 化解焦虑最佳方法：拆解问题，温柔相待](sources/shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh.md) — 史蒂夫说 interview with Zhao Jinzhao / Dr. Claire on anxiety as demand-resource mismatch, body arousal, family transmission, and gentle support through decomposition.
 - [Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”](sources/vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr.md) — 文化有限 episode rereading Where the Crawdads Sing through marsh marginality, female growth, film adaptation, legal justice, natural law, wild-child motifs, and victim-held forgiveness.
 - [八月广播电视报：怎么所有人的青铜时代都在崩溃](sources/bayue-guangbo-dianshibao-zenme-suoyouren-de-qingtongshidai-dou-zai-bengkui-gkwrijioazzebf7pfatp6hhf.md) — 展开讲讲 culture-review episode linking creator obituaries, summer films, dramas, variety shows, stranger ethics, public participation, minority safety, and midlife body adjustments.
@@ -1953,6 +1954,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [路大鹏 / Lu Dapeng](entities/LuDapeng.md) — 忽左忽右 guest explaining Ceuta through Mediterranean, Iberian, North African, Portuguese, Spanish, and migration history.
+- [Strait of Gibraltar / 直布罗陀海峡](entities/StraitOfGibraltar.md) — Maritime passage whose North Africa-Iberia geography gives Ceuta and Gibraltar strategic value.
+- [Gibraltar / 直布罗陀](entities/Gibraltar.md) — European-side strait counterpart to Ceuta, tied to Islamic-conquest naming and later British control in the source.
+- [Iberian Peninsula / 伊比利亚半岛](entities/IberianPeninsula.md) — Regional setting connecting Spain, Portugal, al-Andalus, Reconquista, and Ceuta's North African crossing field.
+- [Vandal Kingdom / 汪达尔王国](entities/VandalKingdom.md) — Late-antique North African polity that disrupted Roman networks and forms one Ceuta control layer.
+- [Byzantine Empire / 拜占庭帝国](entities/ByzantineEmpire.md) — Eastern Roman power that reconquered North Africa and held Ceuta as a far-western frontier.
+- [al-Andalus / 安达卢斯](entities/AlAndalus.md) — Islamic Iberian world connected to Ceuta, North Africa, Cordoba, and the later Reconquista frame.
+- [Cordoba Caliphate / 科尔多瓦哈里发国](entities/CordobaCaliphate.md) — Iberian Islamic polity and cultural center that extended influence to Ceuta and Melilla.
+- [al-Idrisi / 伊德里希](entities/AlIdrisi.md) — Ceuta-born medieval geographer used to show the city's role in Mediterranean knowledge circulation.
+- [John I of Portugal / 若昂一世](entities/JohnIOfPortugal.md) — Aviz monarch under whom Portugal captured Ceuta in 1415.
+- [Henry the Navigator / 恩里克王子](entities/HenryTheNavigator.md) — Portuguese prince associated with the 1415 Ceuta campaign and later expansion memory.
 - [史蒂夫说](entities/ShiDiFuShuo.md) — psychology and relationships podcast/show context for episode 472's anxiety conversation.
 - [Steve (史蒂夫说 host)](entities/SteveShiDiFuShuoHost.md) — host who grounds episode 472's anxiety conversation in personal body, shame, family, and relationship examples.
 - [赵金昭 / Dr. Claire](entities/ZhaoJinzhao.md) — counseling psychologist and Texas clinical psychologist interviewed about anxiety decomposition and gentle support.
@@ -2024,7 +2036,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kai Tak Airport / 启德机场](entities/KaiTakAirport.md) — Former Hong Kong airport used to explain capacity, approach constraints, and airport migration.
 - [International Air Transport Association / IATA](entities/InternationalAirTransportAssociation.md) — Aviation-industry organization cited for the air-cargo weight-versus-value contrast.
 - [Swire Group / 太古集团](entities/SwireGroup.md) — Hong Kong-linked corporate context for Zhang Jin's airline backstage and catering observations.
-- [成言梁 / Cheng Yanliang](entities/ChengYanliang.md) — 忽左忽右 host framing the Lai An architecture episode through Shanghai streets, styles, preservation, and urban memory.
+- [成言梁 / Cheng Yanliang](entities/ChengYanliang.md) — 忽左忽右 host framing long-form cultural-history episodes through Shanghai architecture and Ceuta historical geography.
 - [吴飞鹏 / Wu Feipeng](entities/WuFeipeng.md) — Architectural culture researcher reconstructing Lai An's Shanghai corpus through archives, newspapers, family lists, and field investigation.
 - [赉安 / 赖安 / Lai An (architect)](entities/LaiAnArchitect.md) — French architect presented as a major shaper of the former Shanghai French Concession and Hengfu architectural landscape.
 - [乌达克 / Hudec (Shanghai architect)](entities/HudecShanghaiArchitect.md) — Better-known Shanghai architect used as the comparison point for Lai An's underrecognized role.
@@ -5683,8 +5695,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Redix ARK / Radix ARC](entities/RadixARC.md) — AI infrastructure company/source-scoped organization tied to Sheng Ying, SGLang, and an earlier Radix/Ridix transcript spelling ambiguity.
 - [AgentIn](entities/AgentIn.md) — Kimi K3 open agent environment connecting sandbox isolation, partial rollout, Agent RL, and train/deploy consistency.
 - [Kimi Linear](entities/KimiLinear.md) — Smaller Kimi model/predecessor whose linear-attention and NoPE experiments informed Kimi K3's hybrid attention scale-up.
-- [Ceuta](entities/Ceuta.md) — Spanish enclave where a court ruling, Moroccan border pressure, and EU migration politics converged.
-- [Morocco](entities/Morocco.md) — State whose border cooperation around Ceuta is framed as possible migration leverage against Spain and the EU.
+- [Ceuta](entities/Ceuta.md) — Spanish North African enclave where imperial borderland history, Portuguese expansion memory, Moroccan claims, and EU migration politics converge.
+- [Morocco](entities/Morocco.md) — North African state tied to Gaza stabilization capacity, Ceuta border leverage, Western Sahara diplomacy, and post-independence enclave claims.
 - [Algeria](entities/Algeria.md) — Morocco rival angered by Spain's Western Sahara shift, making Ceuta part of triangular diplomacy.
 - [Western Sahara](entities/WesternSahara.md) — Disputed territory behind Spain's shift toward Morocco's autonomy plan and Algerian anger.
 - [Polisario Front](entities/PolisarioFront.md) — Western Sahara movement whose leader's 2021 Spanish medical treatment anchors the Ceuta precedent.
@@ -6423,7 +6435,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zhejiang / 浙江](entities/Zhejiang.md) — Coastal province used by episode 150 to contrast early private-economy formation with later inland catch-up.
 - [杨一 / Yang Yi](entities/YangYi.md) — Early Chinese podcast practitioner and 忽左忽右 speaker explaining market education, brand-podcast services, and the Chinese-vs-U.S. podcast path.
 - [欧阳斌 / Ouyang Bin](entities/OuyangBin.md) — 去现场 and 725沙龙-side speaker framing the episode from listener, media-observer, and cultural-dialogue perspectives.
-- [忽左忽右 / Huzuo Huyou](entities/HuzuoHuyou.md) — Yang Yi's podcast context used by episode 149 to discuss Chinese podcast ecosystem-building.
+- [忽左忽右 / Huzuo Huyou](entities/HuzuoHuyou.md) — Chinese podcast show tracked through podcast ecosystem-building, Shanghai architecture, and Ceuta historical-geography interviews.
 - [去现场 / Qu Xianchang](entities/QuXianchang.md) — Crossover context for 欧阳斌 in episode 149's podcast and media-ecosystem discussion.
 - [725沙龙 / 725 Salon](entities/725Salon.md) — New York Chinese cultural-dialogue project testing a purely online podcast format in episode 149.
 - [Ueno Chizuko / 上野千鹤子](entities/UenoChizuko.md) — Care-sociology author whose work anchors 琼琼's translation path and episode 147's care-socialization frame.
@@ -7233,7 +7245,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Konishi Yukinaga / 小西行长](entities/KonishiYukinaga.md) — Christian daimyo whose defeat, letter, and European afterlife show Japanese Christianity entering European imagination.
 - [Hasekura Tsunenaga / 支仓常长](entities/HasekuraTsunenaga.md) — Japanese envoy to Spain and Rome used by the episode as a failed diplomatic opening shaped by trade and Christian politics.
 - [England](entities/England.md) — Historical-state node spanning medieval Hundred Years' War origins, Elizabethan confessional-maritime crisis, and William Adams's Japan contact branch.
-- [Portugal](entities/Portugal.md) — Catholic Iberian maritime power tied to Asian trade, Macau-related contact, and Jesuit influence in the episode.
+- [Portugal](entities/Portugal.md) — Iberian maritime power tied to post-Reconquista Ceuta conquest, Age of Discovery memory, Asian trade, and Jesuit influence.
 - [Jesuits / 耶稣会](entities/Jesuits.md) — Catholic missionary network in Japan whose rivalry with Adams and later expulsion anchors the episode's religious-risk branch.
 - [《土里不吐气》](entities/TuLiBuTuQi.md) — source-scoped book preview about a city-to-countryside couple farming with biology/ecology backgrounds.
 - [《悲伤的力量》 / Grief Works](entities/BeishangDeLiliang.md) — Julia Samuel bereavement-counseling book used by episode 13 to discuss grief work, child death education, companionship, rituals, and traumatic grief.
@@ -11043,6 +11055,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Ceuta Imperial Borderland / 休达帝国边地](concepts/CeutaImperialBorderland.md) — Pattern where Ceuta's geography lets imperial, commercial, scholarly, military, and migration layers accumulate.
+- [Iberian Reconquista / 伊比利亚收复失地运动](concepts/IberianReconquista.md) — Iberian Christian expansion frame used to explain Portugal's post-1249 turn toward North Africa and the Atlantic.
+- [Portuguese Maritime Expansion / 葡萄牙海上扩张](concepts/PortugueseMaritimeExpansion.md) — Qualified expansion narrative in which the 1415 conquest of Ceuta becomes the conventional first station.
 - [Anxiety Decomposition / 焦虑拆解](concepts/AnxietyDecomposition.md) — method for turning diffuse anxiety into smaller body, situation, expectation, history, and support components.
 - [Gentle Anxiety Support / 温柔靠近焦虑](concepts/GentleAnxietySupport.md) — relationship posture for approaching anxiety without adding urgency or stimulation.
 - [Embodied Anxiety Regulation / 身体化焦虑调节](concepts/EmbodiedAnxietyRegulation.md) — body-first anxiety stabilization through breath, posture, grounding, muscle relaxation, and arousal interpretation.
@@ -13289,8 +13304,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VIE Employee Equity Mismatch / VIE 员工股权主体错位](concepts/VIEEmployeeEquityMismatch.md) — Risk created when offshore option grants and domestic labor contracts sit in different entities.
 - [Option Pool Recapture Incentive / 期权池回收激励](concepts/OptionPoolRecaptureIncentive.md) — Management incentive to recover, renegotiate, or reallocate employee options once a pool becomes valuable.
 - [Restricted Stock Units / RSU](concepts/RestrictedStockUnits.md) — Equity-compensation units closer to stock-linked grants than exercise-price options, still constrained by vesting, lockup, tax, and liquidity.
-- [Migration Weaponization](concepts/MigrationWeaponization.md) — Use of cross-border migrant flows as diplomatic pressure, grounded in Morocco-Spain Ceuta tensions.
-- [Border Legal Signal](concepts/BorderLegalSignal.md) — Court ruling or enforcement interpretation that reshapes migrant behavior at a border.
+- [Migration Weaponization](concepts/MigrationWeaponization.md) — Use of cross-border migrant flows as diplomatic pressure, grounded in Morocco-Spain Ceuta tensions and qualified by uncertainty over intent.
+- [Border Legal Signal](concepts/BorderLegalSignal.md) — Court ruling, enforcement interpretation, or policy rumor that reshapes migrant behavior at a border.
 - [Falling Object Public Safety](concepts/FallingObjectPublicSafety.md) — India's lethal pattern of billboards, roofs, trees, structures, and other objects falling under weak safety governance.
 - [Infrastructure Accountability Gap](concepts/InfrastructureAccountabilityGap.md) — Gap between formal safety rules and actual prevention through enforcement, maintenance, and data.
 - [AI Writing Detection](concepts/AIWritingDetection.md) — Identifying AI prose through detectors, stylistic traces, and editorial judgment.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 9086
+wiki_total_pages: 9097
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "VandaIlsonSiqueira"
     title: "Vanda Ilson Siqueira"
     url: "/wiki/entities/vandailsonsiqueira/"
+  - key: "VandalKingdom"
+    title: "Vandal Kingdom / 汪达尔王国"
+    url: "/wiki/entities/vandalkingdom/"
   - key: "VandenbergSpaceForceBase"
     title: "Vandenberg Space Force Base"
     url: "/wiki/entities/vandenbergspaceforcebase/"

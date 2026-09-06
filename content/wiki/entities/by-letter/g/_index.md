@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9086
+wiki_total_pages: 9097
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "GiantBicycles"
     title: "Giant Bicycles / 捷安特"
     url: "/wiki/entities/giantbicycles/"
+  - key: "Gibraltar"
+    title: "Gibraltar / 直布罗陀"
+    url: "/wiki/entities/gibraltar/"
   - key: "GilLuria"
     title: "Gil Luria"
     url: "/wiki/entities/gilluria/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6494
+wiki_total_pages: 6497
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -827,6 +827,9 @@ wiki_pages:
   - key: "PortfolioSuitability"
     title: "Portfolio Suitability"
     url: "/wiki/concepts/portfoliosuitability/"
+  - key: "PortugueseMaritimeExpansion"
+    title: "Portuguese Maritime Expansion / 葡萄牙海上扩张"
+    url: "/wiki/concepts/portuguesemaritimeexpansion/"
   - key: "PositionSizing"
     title: "Position Sizing"
     url: "/wiki/concepts/positionsizing/"

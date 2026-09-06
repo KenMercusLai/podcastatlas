@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1586
+topic_total_pages: 1589
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -466,6 +466,9 @@ topic_concepts:
   - key: "HydraulicSiegeWarfare"
     title: "Hydraulic Siege Warfare / 水攻围城"
     url: "/wiki/concepts/hydraulicsiegewarfare/"
+  - key: "IberianReconquista"
+    title: "Iberian Reconquista / 伊比利亚收复失地运动"
+    url: "/wiki/concepts/iberianreconquista/"
   - key: "IdiomOriginSkepticism"
     title: "Idiom Origin Skepticism / 典故来源辨伪"
     url: "/wiki/concepts/idiomoriginskepticism/"
@@ -3371,6 +3374,9 @@ topic_entities:
   - key: "YueWangWujiang"
     title: "越王无疆 / Yue Wang Wujiang"
     url: "/wiki/entities/yuewangwujiang/"
+  - key: "LuDapeng"
+    title: "路大鹏 / Lu Dapeng"
+    url: "/wiki/entities/ludapeng/"
   - key: "LiaochengWarringStates"
     title: "辽城 / Liao City (Warring States)"
     url: "/wiki/entities/liaochengwarringstates/"
@@ -3816,6 +3822,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw"
+    title: "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海"
+    url: "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
   - key: "59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469"
     title: "59.克里特岛：阳光、海龟、神话和二战战场"
     url: "/wiki/sources/59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469/"
