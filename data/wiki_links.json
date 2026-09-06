@@ -1023,6 +1023,10 @@
     "title": "49.李乌鸦来了！聊聊我们为啥爱阅读",
     "url": "/wiki/sources/49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098/"
   },
+  "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw": {
+    "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+    "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+  },
   "498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be": {
     "title": "498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师",
     "url": "/wiki/sources/498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be/"
@@ -3819,9 +3823,17 @@
     "title": "Akutagawa Salvation Problem / 芥川式救赎问题",
     "url": "/wiki/concepts/akutagawasalvationproblem/"
   },
+  "AlAndalus": {
+    "title": "al-Andalus / 安达卢斯",
+    "url": "/wiki/entities/alandalus/"
+  },
   "AlDavis": {
     "title": "Al Davis",
     "url": "/wiki/entities/aldavis/"
+  },
+  "AlIdrisi": {
+    "title": "al-Idrisi / 伊德里希",
+    "url": "/wiki/entities/alidrisi/"
   },
   "Alabama": {
     "title": "Alabama",
@@ -8619,6 +8631,10 @@
     "title": "ByteDance Growth System",
     "url": "/wiki/concepts/bytedancegrowthsystem/"
   },
+  "ByzantineEmpire": {
+    "title": "Byzantine Empire / 拜占庭帝国",
+    "url": "/wiki/entities/byzantineempire/"
+  },
   "CAA": {
     "title": "CAA",
     "url": "/wiki/entities/caa/"
@@ -9858,6 +9874,10 @@
   "Ceuta": {
     "title": "Ceuta",
     "url": "/wiki/entities/ceuta/"
+  },
+  "CeutaImperialBorderland": {
+    "title": "Ceuta Imperial Borderland / 休达帝国边地",
+    "url": "/wiki/concepts/ceutaimperialborderland/"
   },
   "ChaSheng": {
     "title": "查晟 / Cha Sheng",
@@ -12942,6 +12962,10 @@
   "CopyrightPlatformConflict": {
     "title": "Copyright Platform Conflict",
     "url": "/wiki/concepts/copyrightplatformconflict/"
+  },
+  "CordobaCaliphate": {
+    "title": "Cordoba Caliphate / 科尔多瓦哈里发国",
+    "url": "/wiki/entities/cordobacaliphate/"
   },
   "CoreBeforePeripheryStrategy": {
     "title": "先内后外式战略顺序 / Core-Before-Periphery Strategy",
@@ -22367,6 +22391,10 @@
     "title": "Giant Bicycles / 捷安特",
     "url": "/wiki/entities/giantbicycles/"
   },
+  "Gibraltar": {
+    "title": "Gibraltar / 直布罗陀",
+    "url": "/wiki/entities/gibraltar/"
+  },
   "GiftRefusalAsAuthority": {
     "title": "Gift Refusal As Authority / 拒礼立威",
     "url": "/wiki/concepts/giftrefusalasauthority/"
@@ -24791,6 +24819,10 @@
     "title": "Henry (TPU engineer)",
     "url": "/wiki/entities/henrytpuengineer/"
   },
+  "HenryTheNavigator": {
+    "title": "Henry the Navigator / 恩里克王子",
+    "url": "/wiki/entities/henrythenavigator/"
+  },
   "HenryYin": {
     "title": "Henry Yin",
     "url": "/wiki/entities/henryyin/"
@@ -26442,6 +26474,14 @@
   "IanPaisley": {
     "title": "Ian Paisley",
     "url": "/wiki/entities/ianpaisley/"
+  },
+  "IberianPeninsula": {
+    "title": "Iberian Peninsula / 伊比利亚半岛",
+    "url": "/wiki/entities/iberianpeninsula/"
+  },
+  "IberianReconquista": {
+    "title": "Iberian Reconquista / 伊比利亚收复失地运动",
+    "url": "/wiki/concepts/iberianreconquista/"
   },
   "IbrahimAlmohanna": {
     "title": "Ibrahim Almohanna",
@@ -29366,6 +29406,10 @@
   "JohnHunter": {
     "title": "John Hunter / 约翰·亨特",
     "url": "/wiki/entities/johnhunter/"
+  },
+  "JohnIOfPortugal": {
+    "title": "John I of Portugal / 若昂一世",
+    "url": "/wiki/entities/johniofportugal/"
   },
   "JohnIcabone": {
     "title": "John Icabone",
@@ -33866,6 +33910,10 @@
   "LuCountyChuHan": {
     "title": "鲁县 / Lu County (Chu-Han)",
     "url": "/wiki/entities/lucountychuhan/"
+  },
+  "LuDapeng": {
+    "title": "路大鹏 / Lu Dapeng",
+    "url": "/wiki/entities/ludapeng/"
   },
   "LuFan": {
     "title": "吕范 / Lu Fan",
@@ -42815,6 +42863,10 @@
     "title": "Portugal",
     "url": "/wiki/entities/portugal/"
   },
+  "PortugueseMaritimeExpansion": {
+    "title": "Portuguese Maritime Expansion / 葡萄牙海上扩张",
+    "url": "/wiki/concepts/portuguesemaritimeexpansion/"
+  },
   "Poseidon": {
     "title": "Poseidon",
     "url": "/wiki/entities/poseidon/"
@@ -51663,6 +51715,10 @@
     "title": "以直报怨式平反 / Straight Redress Without Revenge",
     "url": "/wiki/concepts/straightredresswithoutrevenge/"
   },
+  "StraitOfGibraltar": {
+    "title": "Strait of Gibraltar / 直布罗陀海峡",
+    "url": "/wiki/entities/straitofgibraltar/"
+  },
   "StraitOfHormuz": {
     "title": "Strait of Hormuz",
     "url": "/wiki/entities/straitofhormuz/"
@@ -56430,6 +56486,10 @@
   "VandaIlsonSiqueira": {
     "title": "Vanda Ilson Siqueira",
     "url": "/wiki/entities/vandailsonsiqueira/"
+  },
+  "VandalKingdom": {
+    "title": "Vandal Kingdom / 汪达尔王国",
+    "url": "/wiki/entities/vandalkingdom/"
   },
   "VandenbergSpaceForceBase": {
     "title": "Vandenberg Space Force Base",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9086
+wiki_total_pages: 9097
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1661,6 +1661,9 @@ wiki_pages:
   - key: "LaiJingping"
     title: "赖靖平 / Lai Jingping"
     url: "/wiki/entities/laijingping/"
+  - key: "LuDapeng"
+    title: "路大鹏 / Lu Dapeng"
+    url: "/wiki/entities/ludapeng/"
   - key: "LiaochengWarringStates"
     title: "辽城 / Liao City (Warring States)"
     url: "/wiki/entities/liaochengwarringstates/"

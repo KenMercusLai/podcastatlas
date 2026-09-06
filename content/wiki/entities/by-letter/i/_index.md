@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 9086
+wiki_total_pages: 9097
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "IanPaisley"
     title: "Ian Paisley"
     url: "/wiki/entities/ianpaisley/"
+  - key: "IberianPeninsula"
+    title: "Iberian Peninsula / 伊比利亚半岛"
+    url: "/wiki/entities/iberianpeninsula/"
   - key: "IBM"
     title: "IBM"
     url: "/wiki/entities/ibm/"

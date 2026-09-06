@@ -3359,6 +3359,38 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/akronohio/"
     },
+    "AlAndalus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/alandalus/"
+    },
+    "AlIdrisi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/alidrisi/"
+    },
     "AlanCastel": {
       "episode_count": 1,
       "show_count": 1,
@@ -7335,6 +7367,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/bookstoreserendipity/"
     },
+    "BorderLegalSignal": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Taken littorally： Spain’s sudden crisis in Ceuta [6a70712c034f16a52ebfaed7].md",
+          "key": "taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7",
+          "show": "Economist Podcasts",
+          "title": "Taken littorally: Spain’s sudden crisis in Ceuta",
+          "url": "/wiki/sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7/"
+        },
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/borderlegalsignal/"
+    },
     "BorrowedKnifeKilling": {
       "episode_count": 2,
       "show_count": 1,
@@ -8031,6 +8086,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/bushezheshuo/"
+    },
+    "ByzantineEmpire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/byzantineempire/"
     },
     "CHIPSAct": {
       "episode_count": 2,
@@ -9318,6 +9389,45 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/cesarmillan/"
     },
+    "Ceuta": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Taken littorally： Spain’s sudden crisis in Ceuta [6a70712c034f16a52ebfaed7].md",
+          "key": "taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7",
+          "show": "Economist Podcasts",
+          "title": "Taken littorally: Spain’s sudden crisis in Ceuta",
+          "url": "/wiki/sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7/"
+        },
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/ceuta/"
+    },
+    "CeutaImperialBorderland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/ceutaimperialborderland/"
+    },
     "ChanDrama": {
       "episode_count": 1,
       "show_count": 1,
@@ -10103,9 +10213,9 @@
       "url": "/wiki/entities/chengjinlatehan/"
     },
     "ChengYanliang": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lskF8BdKhS71LbWJOmt3gU1kO8BE [lskF8BdKhS71LbWJOmt3gU1kO8BE].md",
@@ -10113,9 +10223,16 @@
           "show": "忽左忽右",
           "title": "498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师",
           "url": "/wiki/sources/498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be/"
+        },
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/chengyanliang/"
     },
     "ChengYishiLateHan": {
@@ -12582,6 +12699,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/cooley/"
+    },
+    "CordobaCaliphate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/cordobacaliphate/"
     },
     "CoreBeforePeripheryStrategy": {
       "episode_count": 3,
@@ -26008,6 +26141,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/ghezo/"
     },
+    "Gibraltar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/gibraltar/"
+    },
     "GiftRefusalAsAuthority": {
       "episode_count": 3,
       "show_count": 1,
@@ -28756,6 +28905,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/hengfuhistoricdistrict/"
     },
+    "HenryTheNavigator": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/henrythenavigator/"
+    },
     "HeroicResistanceViolenceAmbiguity": {
       "episode_count": 1,
       "show_count": 1,
@@ -31123,9 +31288,9 @@
       "url": "/wiki/entities/huyangprincesseasternhan/"
     },
     "HuzuoHuyou": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来 [liHbq8vuJSQXvB7h2_pZ2xM-eQGA].md",
@@ -31140,9 +31305,16 @@
           "show": "忽左忽右",
           "title": "498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师",
           "url": "/wiki/sources/498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be/"
+        },
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/huzuohuyou/"
     },
     "HydraulicSiegeWarfare": {
@@ -31266,6 +31438,38 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/imagentinterfaces/"
+    },
+    "IberianPeninsula": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/iberianpeninsula/"
+    },
+    "IberianReconquista": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/iberianreconquista/"
     },
     "IdentityResolutionError": {
       "episode_count": 1,
@@ -34039,6 +34243,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/johngroner/"
+    },
+    "JohnIOfPortugal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/johniofportugal/"
     },
     "JohnIrwin": {
       "episode_count": 1,
@@ -40046,6 +40266,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/loyaltycollateraldilemma/"
     },
+    "LuDapeng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/ludapeng/"
+    },
     "LuFangEasternHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -43470,6 +43706,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/midtermbacklashforecasting/"
     },
+    "MigrationWeaponization": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Taken littorally： Spain’s sudden crisis in Ceuta [6a70712c034f16a52ebfaed7].md",
+          "key": "taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7",
+          "show": "Economist Podcasts",
+          "title": "Taken littorally: Spain’s sudden crisis in Ceuta",
+          "url": "/wiki/sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7/"
+        },
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/migrationweaponization/"
+    },
     "MiguelGomez": {
       "episode_count": 1,
       "show_count": 1,
@@ -44437,6 +44696,36 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/morninglightcircadiananchoring/"
+    },
+    "Morocco": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "In arms’ way： Gaza-deal sticking points [6a71b49647235c354d3c9b74].md",
+          "key": "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74",
+          "show": "Economist Podcasts",
+          "title": "In arms’ way: Gaza-deal sticking points",
+          "url": "/wiki/sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74/"
+        },
+        {
+          "episode_file": "Taken littorally： Spain’s sudden crisis in Ceuta [6a70712c034f16a52ebfaed7].md",
+          "key": "taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7",
+          "show": "Economist Podcasts",
+          "title": "Taken littorally: Spain’s sudden crisis in Ceuta",
+          "url": "/wiki/sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7/"
+        },
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/morocco/"
     },
     "MosquitoBitePrevention": {
       "episode_count": 1,
@@ -49943,6 +50232,52 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/portenabledmanufacturingcity/"
+    },
+    "Portugal": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "14.武士威廉：大航海时代的日本和西方 [555771285].md",
+          "key": "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285",
+          "show": "蜜獾吃书",
+          "title": "14.武士威廉：大航海时代的日本和西方",
+          "url": "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+        },
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/portugal/"
+    },
+    "PortugueseMaritimeExpansion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/portuguesemaritimeexpansion/"
     },
     "Poseidon": {
       "episode_count": 1,
@@ -59233,6 +59568,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/straightredresswithoutrevenge/"
     },
+    "StraitOfGibraltar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/straitofgibraltar/"
+    },
     "StrangerHospitalityEthics": {
       "episode_count": 1,
       "show_count": 1,
@@ -64998,6 +65349,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/valuesbasedaigovernance/"
+    },
+    "VandalKingdom": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
+          "key": "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw",
+          "show": "忽左忽右",
+          "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+          "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/vandalkingdom/"
     },
     "VectorBorneInfectionEscalation": {
       "episode_count": 1,
