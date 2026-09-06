@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6476
+wiki_total_pages: 6479
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "ShortTermStatisticalArbitrage"
     title: "Short-Term Statistical Arbitrage"
     url: "/wiki/concepts/shorttermstatisticalarbitrage/"
+  - key: "ShortVideoCraftCreatorPath"
+    title: "Short-Video Craft Creator Path / 短视频手艺创作者路径"
+    url: "/wiki/concepts/shortvideocraftcreatorpath/"
   - key: "ShortVideoCreationTools"
     title: "Short-Video Creation Tools"
     url: "/wiki/concepts/shortvideocreationtools/"

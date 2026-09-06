@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [手工耿×罗永浩！“村口的五金店里，出现了一个达达主义艺术家”](sources/shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1.md) — 罗永浩的十字路口 interview on 手工耿's welded inventions, manual craft path, short-video creator work, commercial restraint, and useful/useless art-adjacent value.
 - [No.232 吴汉坤：AI 时代，演员第一个丢饭碗？](sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj.md) — 三五环 interview with Wu Hankun on acting, AI short films, Frederick AI, performance rhythm, likeness authorization, and hands-on AI practice as an antidote to vague creator anxiety.
 - [EP385-《我的前半生》翻红：从“寄生虫”到“独立女性”，罗子君的逆袭成立吗？](sources/ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf.md) — 无时差研究所 episode rereading 《我的前半生》 through Yi Shu's novel, short-video revival, male-mentor independence critique, consulting-era urban fantasy, and late-2010s economic memory.
 - [Love in the time of Palantir](sources/default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515.md) — Planet Money episode on a Palantir-themed dating event, data operationalization, identity-resolution errors, consentless facial search, and ICE/DHS data-silo surveillance concerns.
@@ -1949,6 +1950,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [手工耿 / Shougong Geng](entities/ShougongGeng.md) — Chinese maker and short-video creator whose welded inventions sit between usefulness, comedy, craft, and art interpretation.
+- [罗永浩的十字路口 / Luo Yonghao's Crossroads](entities/LuoyonghaosCrossroads.md) — long-form interview show context for Luo Yonghao's creator, craft, and cultural-framing conversation with 手工耿.
 - [吴瀚坤](entities/WuHankun.md) — actor, AI entrepreneur, and AI short-film creator interviewed by 三五环.
 - [Frederick AI](entities/FrederickAI.md) — Wu Hankun's source-reported early agent project for founder task execution.
 - [《粉色悖论》 / Pink Paradox](entities/PinkParadox.md) — Wu Hankun's first AI short-film case, begun as a role-farewell project.
@@ -8402,7 +8405,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Huang Zhang](entities/HuangZhang.md) — Meizu founder whose enthusiast product culture shaped early Chinese smartphone community and design.
 - [Lei Jun](entities/LeiJun.md) — Xiaomi founder whose MIUI-first path, 1999-yuan Xiaomi 1, and Redmi line anchor the internet-phone model.
 - [Lens Technology](entities/LensTechnology.md) — Zhou Qunfei's cover-glass supplier used by episode 210 to show the hidden component side of the smartphone era.
-- [Luo Yonghao](entities/LuoYonghao.md) — Smartisan founder used by episode 210 to contrast founder taste and public attention with supply-chain execution.
+- [Luo Yonghao](entities/LuoYonghao.md) — Smartisan founder and 罗永浩的十字路口 host whose current wiki profile links founder taste, hardware execution limits, and long-form creator interviewing.
 - [Luxshare Precision](entities/LuxsharePrecision.md) — Wang Laichun's consumer-electronics supplier, moving from connectors into major Apple-era assembly and component work.
 - [Meizu](entities/Meizu.md) — Early Chinese enthusiast smartphone company moving from MP3 players to the M8, Flyme, and community-led product culture.
 - [MIUI](entities/MIUI.md) — Xiaomi's Android-based software system that created users and community before Xiaomi launched its own phones.
@@ -11022,6 +11025,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Useless Invention Value / 无用发明价值](concepts/UselessInventionValue.md) — framework separating entertainment value, playful function, and serious utility in seemingly impractical maker objects.
+- [Short-Video Craft Creator Path / 短视频手艺创作者路径](concepts/ShortVideoCraftCreatorPath.md) — route where manual skill, material transformation, testing, and audience response become platform-native creator work.
+- [Folk Maker Art Interpretation / 民间手艺艺术化解读](concepts/FolkMakerArtInterpretation.md) — reading self-taught craft objects through art language without erasing labor, humor, materiality, and maker intent.
 - [Actor AI Performance Boundary / 演员与 AI 表演边界](concepts/ActorAIPerformanceBoundary.md) — distinction between generated motion and human-authored timing, emotion, and embodied acting.
 - [Actor Likeness Authorization / 演员脸部授权](concepts/ActorLikenessAuthorization.md) — commercial face authorization separated from an actor's own artistic performance.
 - [Hands-On AI Anxiety Reduction / 亲手使用 AI 缓解焦虑](concepts/HandsOnAIAnxietyReduction.md) — reducing vague AI fear by direct tool use, boundary discovery, and self-defined creative goals.

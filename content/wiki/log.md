@@ -15444,6 +15444,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-06] ingest | 手工耿×罗永浩！“村口的五金店里，出现了一个达达主义艺术家”
+
+Ingested the 2026-09-01 罗永浩的十字路口 interview with 手工耿 on useful versus useless inventions, welding and stainless-steel craft, short-video creator work, selective commercialization, update pressure, safety risk, fan interaction, and folk/modern-art interpretation. Added source `shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1`; created `ShougongGeng`, `LuoyonghaosCrossroads`, `UselessInventionValue`, `ShortVideoCraftCreatorPath`, and `FolkMakerArtInterpretation`; updated `LuoYonghao`, `index`, and `overview`. No settled contradiction found; exact revenue, platform statistics, full work catalog, art-historical status, and offline theme-park feasibility remain source-scoped.
+
 ## [2026-09-06] ingest | Love in the time of Palantir
 
 Ingested the 2026-09-02 Planet Money episode on a Palantir-themed dating event, data operationalization, identity-resolution error, consentless facial search, and ICE/DHS data integration. Added source `default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515`; created `JamesSteinberg`, `MikeSteinberger`, `PalantirDatingEvent`, `DataOperationalization`, `IdentityResolutionError`, `ConsentlessFacialSearch`, `GovernmentDataSiloCollapse`, and `PrivacyAct1974`; updated `Palantir`, `USImmigrationAndCustomsEnforcement`, `USDepartmentOfHomelandSecurity`, `TechnologyAssistedInteriorEnforcement`, `index`, and `overview`. No settled contradiction found; Palantir, ICE, and DHS non-response leaves dataset counts, database scale, and operational-speed claims source-scoped.
@@ -15559,6 +15563,10 @@ Health and identity validation passed. Deterministic lint scanned 17,464 pages a
 ## [2026-09-06] ingest | EP385-《我的前半生》翻红：从“寄生虫”到“独立女性”，罗子君的逆袭成立吗？
 
 Ingested the 2026-09-01 无时差研究所 episode rereading 《我的前半生》 through Yi Shu's novel, the 2017 TV adaptation, short-video revival, female-supported growth, He Han's male-mentor role, consulting-era urban fantasy, and late-2010s economic memory. Added source `ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf`; created `WushichaYanjiusuo`, `YiShu`, `MyFirstHalfLife`, `LuoZijun`, `TangJing`, `HeHan`, `ChenJunsheng`, `LinglingMyFirstHalfLife`, `XueZhenzhuMyFirstHalfLife`, `MaleMentorFemaleGrowthNarrative`, `FemaleSupportDrivenGrowthNarrative`, `ShortVideoOldDramaRediscovery`, `EconomicUpswingUrbanDramaMemory`, and `PseudoIndependentWomenNarrative`; updated `index` and `overview`. No settled contradiction found; consulting layoffs, housing-price discussion, actor-reception claims, and audience-shift claims remain source-scoped cultural commentary.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-06] lint | Wiki health check
 
