@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6542
+wiki_total_pages: 6545
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "NarrativeMisdirection"
     title: "Narrative Misdirection / 叙事误导"
     url: "/wiki/concepts/narrativemisdirection/"
+  - key: "NarrativePluralism"
+    title: "Narrative Pluralism / 叙事多样性"
+    url: "/wiki/concepts/narrativepluralism/"
   - key: "NASACareerPathways"
     title: "NASA Career Pathways"
     url: "/wiki/concepts/nasacareerpathways/"

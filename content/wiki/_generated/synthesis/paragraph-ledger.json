@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "f8696f49f84ba3bd8d4aec8e12e8fa2f3d873b4fb737ede0a6e157fa605f82d5",
       "bca3f6642e8b64dca6b9dd788bccff3eeb61f2a75fd6f726d4d9163440111666",
       "b26998ed8105fc9962ce7130dcda6f4f84a26ac4ad79ef59cb8aaa27adc82847",
       "b3cbca70b251a2c2f5030fe6a363c8958514f3624b7c9a2b7be5d475065b691f",
@@ -562,11 +563,43 @@
       "013189bd78693c4f9ddd24154fb4e85b4d94868b1b336af988b43dbee9411c03",
       "ed605f497963461eb9bc9c968de448aa46b9f90dddac4016b47d57e3c144fc1a"
     ],
-    "paragraph_count": 560
+    "paragraph_count": 561
   },
-  "overview_commit": "24a2805147b059b7e174c82212d804f9e0689670",
-  "overview_digest": "f371caa6d78a731463c1a27ca137b46c87bda45d0824bd514ba399f9e315ca96",
+  "overview_commit": "1aed10b6bd334db008c650a80fc3a5c61bfb395e",
+  "overview_digest": "a7b4226dc523c32ddbc39bd5fee596993505b75e535ee4f9c1d815e122b578a6",
   "paragraphs": [
+    {
+      "id": "f8696f49f84ba3bd8d4aec8e12e8fa2f3d873b4fb737ede0a6e157fa605f82d5",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [
+        "science-health-and-climate"
+      ],
+      "text": "The latest addition is [[episode-225-yidai-yilu-8212959555-438866|Episode 225: 一袋一录]], a [[ChizaoGengxin|迟早更新]] episode on [[UrsulaKLeGuin|Ursula K. Le Guin / 厄休拉·勒古恩]]'s [[TheCarrierBagTheoryOfFiction|The Carrier Bag Theory of Fiction]]. It adds [[ChizaoGengxin|迟早更新]], [[TheCarrierBagTheoryOfFiction]], [[DonnaHaraway|Donna Haraway / 唐娜·哈拉维]], [[RobertMacfarlane|Robert Macfarlane / 罗伯特·麦克法伦]], [[IsARiverAlive|Is a River Alive? / 《活水》]], [[CarrierBagNarrative|载物袋叙事]], [[NarrativePluralism|叙事多样性]], and [[RiverAsLivingEntity|河流作为生命]], while extending [[TheLeftHandOfDarkness|《黑暗的左手》]], [[AnthropologicalScienceFictionWorldbuilding]], [[NatureWriting]], [[HeroJourneyNarrative]], [[FictionalHistoriography]], [[Shijing|《诗经》]], [[RulinWaishi|《儒林外史》]], and [[HongLouMeng|《红楼梦》]]. Its core synthesis is that container-like narrative is not shapeless accumulation: it works when gathered people, objects, memories, landscapes, and knowledge generate relation, care, coexistence, and meaning beyond a single hero-conflict-victory arc. No settled contradiction is recorded; the legal-personhood examples, Colombian movement details, Macfarlane translation title, and literary judgments remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AnthropologicalScienceFictionWorldbuilding",
+        "CarrierBagNarrative",
+        "ChizaoGengxin",
+        "DonnaHaraway",
+        "FictionalHistoriography",
+        "HeroJourneyNarrative",
+        "HongLouMeng",
+        "IsARiverAlive",
+        "NarrativePluralism",
+        "NatureWriting",
+        "RiverAsLivingEntity",
+        "RobertMacfarlane",
+        "RulinWaishi",
+        "Shijing",
+        "TheCarrierBagTheoryOfFiction",
+        "TheLeftHandOfDarkness",
+        "UrsulaKLeGuin",
+        "episode-225-yidai-yilu-8212959555-438866"
+      ]
+    },
     {
       "id": "bca3f6642e8b64dca6b9dd788bccff3eeb61f2a75fd6f726d4d9163440111666",
       "primary_topic": "psychology-and-personal-development",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6542
+wiki_total_pages: 6545
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "CareerShoreMyth"
     title: "Career Shore Myth"
     url: "/wiki/concepts/careershoremyth/"
+  - key: "CarrierBagNarrative"
+    title: "Carrier-Bag Narrative / 载物袋叙事"
+    url: "/wiki/concepts/carrierbagnarrative/"
   - key: "CarryTradeUnwind"
     title: "Carry Trade Unwind"
     url: "/wiki/concepts/carrytradeunwind/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 9151
+wiki_total_pages: 9156
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "IrvingFisher"
     title: "Irving Fisher / 欧文·费雪"
     url: "/wiki/entities/irvingfisher/"
+  - key: "IsARiverAlive"
+    title: "Is a River Alive? / 《活水》"
+    url: "/wiki/entities/isariveralive/"
   - key: "IsaacAsimov"
     title: "Isaac Asimov / 艾萨克·阿西莫夫"
     url: "/wiki/entities/isaacasimov/"

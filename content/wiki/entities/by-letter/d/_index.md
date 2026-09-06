@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9151
+wiki_total_pages: 9156
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "DongtingLake"
     title: "Dongting Lake / 洞庭湖"
     url: "/wiki/entities/dongtinglake/"
+  - key: "DonnaHaraway"
+    title: "Donna Haraway / 唐娜·哈拉维"
+    url: "/wiki/entities/donnaharaway/"
   - key: "DoorDash"
     title: "DoorDash"
     url: "/wiki/entities/doordash/"

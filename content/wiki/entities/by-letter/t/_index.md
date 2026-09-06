@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9151
+wiki_total_pages: 9156
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "TheCantos"
     title: "The Cantos"
     url: "/wiki/entities/thecantos/"
+  - key: "TheCarrierBagTheoryOfFiction"
+    title: "The Carrier Bag Theory of Fiction / 《小说的载物袋理论》"
+    url: "/wiki/entities/thecarrierbagtheoryoffiction/"
   - key: "TheCenturyTrilogy"
     title: "The Century Trilogy / 世纪三部曲"
     url: "/wiki/entities/thecenturytrilogy/"

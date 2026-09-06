@@ -3216,9 +3216,16 @@
       "earliest_episode_date": "2026-08-13",
       "latest_episode_date": "2026-08-18",
       "latest_episode_file": "8212959555_438866 [8212959555_438866].md",
-      "source_note_count": 0,
-      "topic_matched_source_note_count": 0,
-      "topics": [],
+      "source_note_count": 1,
+      "topic_matched_source_note_count": 1,
+      "topics": [
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
+        }
+      ],
       "entities": [],
       "start_here_episode_files": [
         "8212959555_438866 [8212959555_438866].md",

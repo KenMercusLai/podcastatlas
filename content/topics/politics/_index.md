@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2211
+topic_total_pages: 2214
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1909,6 +1909,9 @@ topic_concepts:
   - key: "MyersTest"
     title: "Myers Test"
     url: "/wiki/concepts/myerstest/"
+  - key: "NarrativePluralism"
+    title: "Narrative Pluralism / 叙事多样性"
+    url: "/wiki/concepts/narrativepluralism/"
   - key: "NATOAllianceCredibility"
     title: "NATO Alliance Credibility"
     url: "/wiki/concepts/natoalliancecredibility/"
@@ -2638,6 +2641,9 @@ topic_concepts:
   - key: "RiskCostSeparation"
     title: "Risk-Cost Separation / 风险与成本分离"
     url: "/wiki/concepts/riskcostseparation/"
+  - key: "RiverAsLivingEntity"
+    title: "River As Living Entity / 河流作为生命"
+    url: "/wiki/concepts/riveraslivingentity/"
   - key: "RobotSovereigntyAndDataTrust"
     title: "Robot Sovereignty and Data Trust"
     url: "/wiki/concepts/robotsovereigntyanddatatrust/"
@@ -4481,6 +4487,9 @@ topic_entities:
   - key: "Iran"
     title: "Iran"
     url: "/wiki/entities/iran/"
+  - key: "IsARiverAlive"
+    title: "Is a River Alive? / 《活水》"
+    url: "/wiki/entities/isariveralive/"
   - key: "ISIS"
     title: "ISIS"
     url: "/wiki/entities/isis/"

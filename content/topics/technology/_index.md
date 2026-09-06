@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2777
+topic_total_pages: 2778
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7058,6 +7058,9 @@ topic_entities:
   - key: "LianMin"
     title: "连敏 / Lian Min"
     url: "/wiki/entities/lianmin/"
+  - key: "ChizaoGengxin"
+    title: "迟早更新 / Chizao Gengxin"
+    url: "/wiki/entities/chizaogengxin/"
   - key: "SuduTechnology"
     title: "速度科技 / Sudu Technology"
     url: "/wiki/entities/sudutechnology/"

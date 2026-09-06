@@ -15640,6 +15640,10 @@ Ingested the 2026-08-25 无时差研究所 episode with Guo Haotian on GLP-1 wei
 
 Ingested the 2026-08-27 芮淇讲透资治通鉴 episode on Liu Bei's Runan pressure and exit from Yuan Shao, Cao Ren's counterattack, Gong Du and Cai Yang, Ju Shou's rejected long-war advice at Yangwu, and the Shaqiu-to-Guandu camp engineering standoff. Added source `zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm`; created `GongDuLateHan`, `CaiYangLateHan`, `YangwuGuanduLateHan`, `ShaqiuGuanduLateHan`, `StrategicPatronExitJudgment`, and `FixedCampSiegeEngineering`; updated `GuanduCampaign`, `RunanCommanderyLateHan`, `CaoRen`, `ResourceAsymmetryAttrition`, `index`, and `overview`. No settled contradiction found; Liu Bei's motive explanation, 尹川/颍川 wording, and Shaqiu/Yangwu place identities remain source-scoped or disambiguated.
 
+## [2026-09-07] ingest | Episode 225: 一袋一录
+
+Ingested the 2026-08-18 迟早更新 episode on Ursula K. Le Guin's carrier-bag theory, Chinese container-like literary forms, Donna Haraway, river-personhood examples, Robert Macfarlane, and narrative pluralism. Added source `episode-225-yidai-yilu-8212959555-438866`; created `ChizaoGengxin`, `TheCarrierBagTheoryOfFiction`, `DonnaHaraway`, `RobertMacfarlane`, `IsARiverAlive`, `CarrierBagNarrative`, `NarrativePluralism`, and `RiverAsLivingEntity`; updated `UrsulaKLeGuin`, `index`, and `overview`. No settled contradiction found; the episode's legal-personhood examples, Colombian movement details, Macfarlane translation title, and host-level literary judgments remain source-scoped.
+
 ## [2026-09-07] ingest | 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
 
 Ingested the 2026-08-28 忽左忽右 episode using Ceuta to connect Moroccan migration crossings, Strait of Gibraltar geography, ancient and medieval Mediterranean rule, Portuguese expansion, Spanish sovereignty, and migration weaponization. Added source `496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw`; created `LuDapeng`, `StraitOfGibraltar`, `Gibraltar`, `IberianPeninsula`, `VandalKingdom`, `ByzantineEmpire`, `AlAndalus`, `CordobaCaliphate`, `AlIdrisi`, `JohnIOfPortugal`, `HenryTheNavigator`, `CeutaImperialBorderland`, `IberianReconquista`, and `PortugueseMaritimeExpansion`; updated `Ceuta`, `Morocco`, `Portugal`, `MigrationWeaponization`, `BorderLegalSignal`, `HuzuoHuyou`, `ChengYanliang`, `index`, and `overview`. No settled contradiction found; Count Julian, the southern Pillar of Hercules identification, Moroccan intent in the 2026 crossings, and the 1415-as-Age-of-Discovery-origin claim remain source-scoped.
@@ -15707,6 +15711,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？
 
 Ingested the 2026-08-18 无时差研究所 episode using 王妈妈's South Africa trip to connect travel safety, Johannesburg, Soweto, Constitution Hill, the Apartheid Museum, Robben Island, Kruger Safari, Cape Town, Mandela memory, and post-apartheid structural inequality. Added source `ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk`; created `Johannesburg`, `Soweto`, `ConstitutionHillJohannesburg`, `ApartheidMuseumJohannesburg`, `RobbenIsland`, `CapeTown`, `KrugerNationalPark`, `PostApartheidStructuralInequality`, and `ComplexDestinationTravelRisk`; updated `SouthAfrica`, `Apartheid`, `NelsonMandela`, `WushichaYanjiusuo`, `index`, and `overview`. No settled contradiction found; crime, corruption, education-ratio, labor-pattern, migration, and local-opinion claims remain source-scoped travel observations and conversations.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 
