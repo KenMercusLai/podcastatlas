@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6468
+wiki_total_pages: 6476
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "EconomicWayOfThinking"
     title: "Economic Way Of Thinking"
     url: "/wiki/concepts/economicwayofthinking/"
+  - key: "EconomicUpswingUrbanDramaMemory"
+    title: "Economic-Upswing Urban Drama Memory / 经济上行期都市剧记忆"
+    url: "/wiki/concepts/economicupswingurbandramamemory/"
   - key: "EconomistTrustCrisis"
     title: "Economist Trust Crisis"
     url: "/wiki/concepts/economisttrustcrisis/"

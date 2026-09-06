@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-06
-as_of_overview_commit: 9568c9005ef5d1798d0766b7ea3490eb0b68ccb0
-input_digest: 549b365a18f3be4966256572daf8924caca3f24dad65e987d872ffdf209e4f6a
+as_of_overview_commit: f82cc6bfc68cc3b82619441e1c77347a87fde40a
+input_digest: 36c1880523e20701b6525681e2cd871c1ea4eddc8da6d55fa32fd20b65c5ba08
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Work, education, and society sources converge on a practical boundary problem: learning, career growth, institutional role transfer, creative and technical adoption, health routines, and historical hierarchy cases all depend on fitting tools, status, incentives, evidence, and communication to the actual setting. AI tutors, enterprise tools, creator platforms, health practices, finance careers, and late-Han analogies repeatedly show that capability or merit only becomes durable when embedded in trust, workload, public legitimacy, role clarity, and safeguards against overclaiming, coercion, or shallow performance metrics.
+The Wu Hankun / 三五环 source adds a creator-work case: hands-on AI use can turn vague job-security anxiety into practical workflow knowledge, but the same episode keeps actor substitution, likeness authorization, industry protection, and self-defined creative purpose as work-and-society questions rather than pure model-capability questions. Work, education, and society sources converge on a practical boundary problem: learning, career growth, institutional role transfer, creative and technical adoption, health routines, and historical hierarchy cases all depend on fitting tools, status, incentives, evidence, and communication to the actual setting. AI tutors, enterprise tools, creator platforms, health practices, finance careers, and late-Han analogies repeatedly show that capability or merit only becomes durable when embedded in trust, workload, public legitimacy, role clarity, and safeguards against overclaiming, coercion, or shallow performance metrics.
 
 ## Cross-source Findings
 
@@ -594,3 +594,15 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 - This is a secondary work-and-society reading of an animal-protection episode, not a complete theory of mainland or Hong Kong civic space.
 - Platform moderation, police contact, venue pressure, advertising review, and organizational caution remain source-scoped because the episode reports effects and interpretations rather than full institutional decision records.
 - Hong Kong solidarity actions show low-claim memorial and awareness tactics; they do not establish that all animal-protection campaigns face the same constraints or opportunities.
+
+### Hands On Ai Practice Turns Creator Anxiety Into Workflow Judgment
+
+[[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj|No.232 吴汉坤]] adds a creator-work AI anxiety case: [[WuHankun]] and [[LiuFei]] frame [[HandsOnAIAnxietyReduction]] as learning through direct use of AI tools, while [[ActorAIPerformanceBoundary]], [[ActorLikenessAuthorization]], [[AIVideoProductionWorkflow]], and [[AIJobSecurityAnxiety]] show that acting work is being renegotiated through workflow knowledge, performance authorship, consent, industry rules, and the creator's own purpose.
+
+**Evidence:** [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]], [[WuHankun]], [[LiuFei]], [[SanWuHuan]], [[HandsOnAIAnxietyReduction]], [[ActorAIPerformanceBoundary]], [[ActorLikenessAuthorization]], [[AIVideoProductionWorkflow]], [[AIJobSecurityAnxiety]], [[AICreativeCollaboration]]
+
+**Qualifications:**
+
+- Hands-on use improves situated judgment but does not remove labor-market risk, platform power, rights disputes, or unequal access to tools.
+- The industry-protection and actor-replacement claims are practitioner observations from the episode, not settled policy or labor-market data.
+- The source frames anxiety reduction through making and evaluation, not through reassurance that creative jobs are unaffected.

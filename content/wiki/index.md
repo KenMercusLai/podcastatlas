@@ -6,6 +6,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.232 吴汉坤：AI 时代，演员第一个丢饭碗？](sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj.md) — 三五环 interview with Wu Hankun on acting, AI short films, Frederick AI, performance rhythm, likeness authorization, and hands-on AI practice as an antidote to vague creator anxiety.
+- [EP385-《我的前半生》翻红：从“寄生虫”到“独立女性”，罗子君的逆袭成立吗？](sources/ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf.md) — 无时差研究所 episode rereading 《我的前半生》 through Yi Shu's novel, short-video revival, male-mentor independence critique, consulting-era urban fantasy, and late-2010s economic memory.
 - [Love in the time of Palantir](sources/default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515.md) — Planet Money episode on a Palantir-themed dating event, data operationalization, identity-resolution errors, consentless facial search, and ICE/DHS data-silo surveillance concerns.
 - [AI in banking: the good, the bad, and the efficient](sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128.md) — Marketplace Tech episode on smaller banks using AI for reporting, loan-document review, borrower-meeting preparation, bias control, privacy, and third-party vendor oversight.
 - [當新聞成為賭盤，記者可以大賺一筆嗎？](sources/dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79.md) — 端闻 episode on a reporter's simulated Polymarket month, prediction-market settlement power, news-as-position attention, public-good claims, and gendered market culture.
@@ -1947,6 +1949,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [吴瀚坤](entities/WuHankun.md) — actor, AI entrepreneur, and AI short-film creator interviewed by 三五环.
+- [Frederick AI](entities/FrederickAI.md) — Wu Hankun's source-reported early agent project for founder task execution.
+- [《粉色悖论》 / Pink Paradox](entities/PinkParadox.md) — Wu Hankun's first AI short-film case, begun as a role-farewell project.
+- [《人口异常》 / Population Anomaly](entities/PopulationAnomaly.md) — Wu Hankun's later science-fiction AI short-film experiment.
+- [无时差研究所 / Wushicha Yanjiusuo](entities/WushichaYanjiusuo.md) — Culture-commentary podcast show using the 《我的前半生》 revival to examine gender, adaptation, class taste, workplace fantasy, and economic memory.
+- [亦舒 / Yi Shu](entities/YiShu.md) — Authorial baseline for EP385's comparison between the 《我的前半生》 novel's female-supported rebuilding and the TV drama's male-mentor rewrite.
+- [《我的前半生》 / My First Half Life](entities/MyFirstHalfLife.md) — Yi Shu novel and 2017 TV adaptation reread as an old-drama revival, gender-narrative, and economic-memory case.
+- [罗子君 / Luo Zijun](entities/LuoZijun.md) — 《我的前半生》 heroine whose divorce, work return, and claimed independence test the difference between supported agency and male-authorized growth.
+- [唐晶 / Tang Jing](entities/TangJing.md) — Career-woman and friend figure used by EP385 to contrast female-support structure with a TV triangle pulled toward He Han.
+- [贺涵 / He Han](entities/HeHan.md) — TV-drama elite male mentor criticized as the character who makes Luo Zijun's independence depend on guidance, resources, and romantic authorization.
+- [陈俊生 / Chen Junsheng](entities/ChenJunsheng.md) — Luo Zijun's ex-husband, read as responsible for betrayal while remaining a vivid weak, tired, and socially plausible character.
+- [玲玲 / Lingling (《我的前半生》)](entities/LinglingMyFirstHalfLife.md) — Ordinary-coworker third-party figure whose early realism and later over-villainization shape the drama's affair conflict.
+- [薛珍珠 / Xue Zhenzhu (《我的前半生》)](entities/XueZhenzhuMyFirstHalfLife.md) — Clip-friendly family-emotion anchor whose confrontation and domestic scenes help the old drama recirculate.
 - [James Steinberg](entities/JamesSteinberg.md) — Cybersecurity-experienced organizer of the Palantir-themed dating event demonstrating how scattered personal data can become profiles.
 - [Mike Steinberger](entities/MikeSteinberger.md) — Reporter/explainer distinguishing Palantir's data-ownership claims from its ability to operationalize customer-held data.
 - [Singles Dating Matching Using Palantir Data](entities/PalantirDatingEvent.md) — Satirical dating event used by Planet Money to make surveillance, data enrichment, and face-searchability personal.
@@ -11007,6 +11022,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Actor AI Performance Boundary / 演员与 AI 表演边界](concepts/ActorAIPerformanceBoundary.md) — distinction between generated motion and human-authored timing, emotion, and embodied acting.
+- [Actor Likeness Authorization / 演员脸部授权](concepts/ActorLikenessAuthorization.md) — commercial face authorization separated from an actor's own artistic performance.
+- [Hands-On AI Anxiety Reduction / 亲手使用 AI 缓解焦虑](concepts/HandsOnAIAnxietyReduction.md) — reducing vague AI fear by direct tool use, boundary discovery, and self-defined creative goals.
+- [Male-Mentor Female-Growth Narrative / 男性导师式女性成长叙事](concepts/MaleMentorFemaleGrowthNarrative.md) — Narrative pattern where a woman's apparent independence is made legible through a powerful man's instruction, resources, taste, or romantic validation.
+- [Female-Support-Driven Growth Narrative / 女性支持驱动的成长叙事](concepts/FemaleSupportDrivenGrowthNarrative.md) — Women-centered rebuilding structure where friends, daughters, family, coworkers, and work routines carry growth rather than a dominant male rescuer.
+- [Short-Video Old-Drama Rediscovery / 短视频旧剧翻红](concepts/ShortVideoOldDramaRediscovery.md) — Revival of older long-form dramas through clipped scenes, imitations, commentary, and renewed social comparison.
+- [Economic-Upswing Urban Drama Memory / 经济上行期都市剧记忆](concepts/EconomicUpswingUrbanDramaMemory.md) — Retrospective feeling that an urban drama preserves a period of stronger career, housing, consumption, and class-mobility expectations.
+- [Pseudo-Independent Women Narrative / 伪独立女性叙事](concepts/PseudoIndependentWomenNarrative.md) — Story pattern that announces female independence while making success depend on rescue, elite access, romantic validation, or implausibly smooth career conversion.
 - [Data Operationalization](concepts/DataOperationalization.md) — Process of turning scattered or siloed data into searchable, linkable, decision-supporting systems without necessarily owning the underlying data.
 - [Identity Resolution Error](concepts/IdentityResolutionError.md) — Failure mode where data systems link records, photos, names, or attributes to the wrong person while producing an actionable-looking profile.
 - [Consentless Facial Search](concepts/ConsentlessFacialSearch.md) — Privacy problem where public or third-party photos become searchable by face without meaningful consent to later identification.

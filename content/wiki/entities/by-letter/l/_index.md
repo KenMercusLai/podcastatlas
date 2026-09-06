@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9056
+wiki_total_pages: 9069
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1589,6 +1589,9 @@ wiki_pages:
   - key: "LiuQingQingheKing"
     title: "清河王刘庆 / Liu Qing (Qinghe king)"
     url: "/wiki/entities/liuqingqingheking/"
+  - key: "LinglingMyFirstHalfLife"
+    title: "玲玲 / Lingling (《我的前半生》)"
+    url: "/wiki/entities/linglingmyfirsthalflife/"
   - key: "Lingyang"
     title: "瓴羊 / Lingyang"
     url: "/wiki/entities/lingyang/"
@@ -1598,6 +1601,9 @@ wiki_pages:
   - key: "LaughingMan"
     title: "笑脸男 / Laughing Man"
     url: "/wiki/entities/laughingman/"
+  - key: "LuoZijun"
+    title: "罗子君 / Luo Zijun"
+    url: "/wiki/entities/luozijun/"
   - key: "LuoXuan"
     title: "罗玄 / Luo Xuan"
     url: "/wiki/entities/luoxuan/"

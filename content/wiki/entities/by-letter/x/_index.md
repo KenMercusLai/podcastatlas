@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9056
+wiki_total_pages: 9069
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -470,6 +470,9 @@ wiki_pages:
   - key: "XueXiaofan"
     title: "薛小凡 / Xue Xiaofan"
     url: "/wiki/entities/xuexiaofan/"
+  - key: "XueZhenzhuMyFirstHalfLife"
+    title: "薛珍珠 / Xue Zhenzhu (《我的前半生》)"
+    url: "/wiki/entities/xuezhenzhumyfirsthalflife/"
   - key: "XueLiLateHan"
     title: "薛礼 / Xue Li (late Han)"
     url: "/wiki/entities/xuelilatehan/"

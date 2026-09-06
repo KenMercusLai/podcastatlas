@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "fb5fc116f0863304bb2f80654112e430701be3452fe78412731a0fdf13eddc54",
       "f16f081698deab1f8c03274c799d0a2cdec4d918db2e50f99afa82efdff678c0",
       "6384941179f91a79832010fdfa34af1287826a7db0a91c28414171eb2c389428",
       "2fabc9556d637f66f8554a09deea7153cb19cbd74cad3d1dcef7fe29c53af29a",
@@ -552,11 +553,42 @@
       "c2a1ffb4efb621f087dd97557d056c5029b11e1d2b0c3360529b1b3ffa40a8a8",
       "7aedd968f8b89040d8bacab2545ab2c77f01a1e9fd0bfca68a06280e10b552e8"
     ],
-    "paragraph_count": 550
+    "paragraph_count": 551
   },
-  "overview_commit": "cbde739dea1e256f4eb1189d18e969d08c751154",
-  "overview_digest": "9966fbd13334d3798efcc7865348d897b5fb9d364d15bd362a5b7e3048faca13",
+  "overview_commit": "f82cc6bfc68cc3b82619441e1c77347a87fde40a",
+  "overview_digest": "1b143b7e718cac4d204e4d977c67b0e860796c49487ccd2993b22bde0b89ec0c",
   "paragraphs": [
+    {
+      "id": "fb5fc116f0863304bb2f80654112e430701be3452fe78412731a0fdf13eddc54",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "The latest addition is [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj|No.232 吴汉坤：AI 时代，演员第一个丢饭碗？]], a [[SanWuHuan|三五环]] episode with [[LiuFei|刘飞]] interviewing [[WuHankun|吴瀚坤]] on acting, AI short films, coding, and creator anxiety. It adds [[WuHankun|吴瀚坤]], [[FrederickAI]], [[PinkParadox|《粉色悖论》]], [[PopulationAnomaly|《人口异常》]], [[ActorAIPerformanceBoundary]], [[ActorLikenessAuthorization]], and [[HandsOnAIAnxietyReduction]], while extending [[SanWuHuan|三五环]], [[LiuFei|刘飞]], [[AIVideoProductionWorkflow]], [[AICreativeCollaboration]], [[SyntheticPerformers]], [[HumanImperfectionCreativeValue]], [[AIAuthorshipPresence]], and [[AIJobSecurityAnxiety]]. Its core synthesis is that AI video lowers production thresholds but does not erase human authorship: actor timing, embodied emotion, intentional imperfection, consent over likeness, and self-defined creative purpose remain decisive even as AI handles images, backgrounds, transitions, and some simpler acting labor. No settled contradiction is recorded; the title/body spelling variance for Wu's name, Cdance tool naming, replacement timing, and industry-protection claims remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "AIAuthorshipPresence",
+        "AICreativeCollaboration",
+        "AIJobSecurityAnxiety",
+        "AIVideoProductionWorkflow",
+        "ActorAIPerformanceBoundary",
+        "ActorLikenessAuthorization",
+        "FrederickAI",
+        "HandsOnAIAnxietyReduction",
+        "HumanImperfectionCreativeValue",
+        "LiuFei",
+        "PinkParadox",
+        "PopulationAnomaly",
+        "SanWuHuan",
+        "SyntheticPerformers",
+        "WuHankun",
+        "no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj"
+      ]
+    },
     {
       "id": "f16f081698deab1f8c03274c799d0a2cdec4d918db2e50f99afa82efdff678c0",
       "primary_topic": "ai-and-technology",

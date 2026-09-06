@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 9056
+wiki_total_pages: 9069
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -791,6 +791,9 @@ wiki_pages:
   - key: "ProseEdda"
     title: "The Prose Edda / 散文埃达"
     url: "/wiki/entities/proseedda/"
+  - key: "PopulationAnomaly"
+    title: "《人口异常》 / Population Anomaly"
+    url: "/wiki/entities/populationanomaly/"
   - key: "PerfectDays"
     title: "《完美的日子》 / Perfect Days"
     url: "/wiki/entities/perfectdays/"
@@ -815,6 +818,9 @@ wiki_pages:
   - key: "PlagueNights"
     title: "《瘟疫之夜》 / Nights of Plague"
     url: "/wiki/entities/plaguenights/"
+  - key: "PinkParadox"
+    title: "《粉色悖论》 / Pink Paradox"
+    url: "/wiki/entities/pinkparadox/"
   - key: "PiedPiperMedievalEurope"
     title: "《花衣魔笛手：传说背后的欧洲中世纪》"
     url: "/wiki/entities/piedpipermedievaleurope/"
