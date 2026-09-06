@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9119
+wiki_total_pages: 9123
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "GordonMoore"
     title: "Gordon Moore"
     url: "/wiki/entities/gordonmoore/"
+  - key: "GottmanInstitute"
+    title: "Gottman Institute / 哥特曼研究所"
+    url: "/wiki/entities/gottmaninstitute/"
   - key: "GPTWork"
     title: "GPT Work"
     url: "/wiki/entities/gptwork/"

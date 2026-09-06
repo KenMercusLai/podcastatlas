@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9119
+wiki_total_pages: 9123
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "MayaraFelix"
     title: "Mayara Felix"
     url: "/wiki/entities/mayarafelix/"
+  - key: "MaybeYouShouldTalkToSomeone"
+    title: "Maybe You Should Talk to Someone / 《也许你该找个人聊聊》"
+    url: "/wiki/entities/maybeyoushouldtalktosomeone/"
   - key: "MayerlingIncident"
     title: "Mayerling Incident"
     url: "/wiki/entities/mayerlingincident/"

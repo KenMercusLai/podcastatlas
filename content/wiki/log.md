@@ -15608,6 +15608,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-07] ingest | Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气
+
+Ingested the 2026-08-24 文化有限 episode on Lori Gottlieb's Maybe You Should Talk to Someone, psychotherapy as relational change, defense work, insight-to-action gaps, and Gottman relationship warning patterns. Added source `vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv`; created `MaybeYouShouldTalkToSomeone`, `LoriGottlieb`, `JohnGottman`, `GottmanInstitute`, `TherapeuticDefenseWork`, `TherapyInsightActionGap`, `GottmanMethod`, and `RelationshipFourHorsemen`; updated `CultureLimited`, `TherapyRelationshipAndBoundaries`, `index`, and `overview`. No settled contradiction found; book-case details, clinical-method summaries, and relationship-framework claims remain source-scoped public book discussion.
+
 ## [2026-09-07] ingest | No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达
 
 Ingested the 2026-08-25 三五环 episode with Chouxiangzai on moving from CCTV documentary and commercial-video work into AI-video creation, viral internet expression, Kanye-related cultural contrast, AI short-drama workflow, client communication, and C-side attention feeding B-side services. Added source `no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81`; updated `Chouxiangzai`, `LiuFei`, `SanWuHuan`, `XinYuanYangHuDieMeng`, `AIDirectorCoreWorkflow`, `ExpertiseAmplifiedAIUse`, `AICreativeCollaboration`, `index`, and `overview`. No settled contradiction found; 抽象仔/抽象宅 naming, client/resource names, viral figures, project timing, and ROI observations remain source-scoped.
@@ -15643,6 +15647,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | 说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？
 
 Ingested the 2026-08-26 说得好听 episode with Mureka product lead 叶律 and ACR Cloud co-founder Tony on AI music after basic generation becomes ordinary. Added source `shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc`; created `ShuoDeHaoTing`, `Mureka`, `ACRCloud`, `YeLuMureka`, `TonyACRCloud`, `AIMusicWorkflowIntegration`, `AIMusicDetectionAndLabeling`, and `AIMusicSettlementParity`; updated `GenerativeAIMusic`, `MusicIndustryAIResponse`, `index`, and `overview`. No settled contradiction found; detection accuracy, exact AI participation percentages, DSP payout policy, training-data compensation, and long-term AI classic-song potential remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

@@ -13940,9 +13940,9 @@
       "url": "/wiki/concepts/cultureledlabororganizing/"
     },
     "CultureLimited": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "sp.06 串台｜ 和李乌鸦＆超哥high聊：做读书博主的“守墓心得” [819825708].md",
@@ -13957,9 +13957,16 @@
           "show": "文化有限",
           "title": "Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”",
           "url": "/wiki/sources/vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr/"
+        },
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/culturelimited/"
     },
     "CultureReviewTvReportFormat": {
@@ -27273,6 +27280,38 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/googledeepmindorganizationalfriction/"
     },
+    "GottmanInstitute": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/gottmaninstitute/"
+    },
+    "GottmanMethod": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/gottmanmethod/"
+    },
     "GovernmentDataSiloCollapse": {
       "episode_count": 1,
       "show_count": 1,
@@ -34735,6 +34774,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/johncade/"
     },
+    "JohnGottman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/johngottman/"
+    },
     "JohnGroner": {
       "episode_count": 1,
       "show_count": 1,
@@ -40520,6 +40575,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/longhuaairport/"
     },
+    "LoriGottlieb": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/lorigottlieb/"
+    },
     "LostCivilizationPseudohistory": {
       "episode_count": 2,
       "show_count": 1,
@@ -43248,6 +43319,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/maxkrummel/"
+    },
+    "MaybeYouShouldTalkToSomeone": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/maybeyoushouldtalktosomeone/"
     },
     "MayerlingDeathPact": {
       "episode_count": 2,
@@ -54422,6 +54509,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/rejectedcounseldefectioncascade/"
     },
+    "RelationshipFourHorsemen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/relationshipfourhorsemen/"
+    },
     "RelationshipNeedDiversification": {
       "episode_count": 3,
       "show_count": 3,
@@ -63788,6 +63891,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/theodorheuss/"
     },
+    "TherapeuticDefenseWork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/therapeuticdefensework/"
+    },
     "TherapeuticMusicalSynchrony": {
       "episode_count": 1,
       "show_count": 1,
@@ -63803,6 +63922,73 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/therapeuticmusicalsynchrony/"
+    },
+    "TherapyInsightActionGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/therapyinsightactiongap/"
+    },
+    "TherapyRelationshipAndBoundaries": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "EP273 NPC还是NPD，都别想拿走我们人生的遥控器 [lqqnd-e29XVhx2mTF6uUZX13wwvF].md",
+          "key": "ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf",
+          "show": "Talk三联",
+          "title": "EP273 NPC还是NPD，都别想拿走我们人生的遥控器",
+          "url": "/wiki/sources/ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf/"
+        },
+        {
+          "episode_file": "EP236 唠五块钱心里话，付费的陪伴是真的吗？ [ltVuoEluOEu4-a3j3lAmHc3Buudx].md",
+          "key": "ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx",
+          "show": "Talk三联",
+          "title": "EP236 唠五块钱心里话，付费的陪伴是真的吗？",
+          "url": "/wiki/sources/ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx/"
+        },
+        {
+          "episode_file": "13.悲伤的力量：谈谈丧亲之痛 [551507792].md",
+          "key": "13-beishang-de-liliang-tantan-sangqin-zhitong-551507792",
+          "show": "蜜獾吃书",
+          "title": "13.悲伤的力量：谈谈丧亲之痛",
+          "url": "/wiki/sources/13-beishang-de-liliang-tantan-sangqin-zhitong-551507792/"
+        },
+        {
+          "episode_file": "151.早安,怪物：祝你战胜恐惧，祝你获得康复 [900179286].md",
+          "key": "151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286",
+          "show": "蜜獾吃书",
+          "title": "151.早安,怪物：祝你战胜恐惧，祝你获得康复",
+          "url": "/wiki/sources/151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286/"
+        },
+        {
+          "episode_file": "Bombs and bombshells： Zelensky under pressure [6a86d3561ad8716bb64646f0].md",
+          "key": "bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0",
+          "show": "Economist Podcasts",
+          "title": "Bombs and bombshells: Zelensky under pressure",
+          "url": "/wiki/sources/bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0/"
+        },
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/therapyrelationshipandboundaries/"
     },
     "ThinSoleSneakerRevival": {
       "episode_count": 1,

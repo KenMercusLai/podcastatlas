@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9119
+wiki_total_pages: 9123
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "LoriGoodman"
     title: "Lori Goodman"
     url: "/wiki/entities/lorigoodman/"
+  - key: "LoriGottlieb"
+    title: "Lori Gottlieb / 洛莉·戈特利布"
+    url: "/wiki/entities/lorigottlieb/"
   - key: "LosAngeles"
     title: "Los Angeles"
     url: "/wiki/entities/losangeles/"

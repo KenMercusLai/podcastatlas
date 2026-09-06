@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b26998ed8105fc9962ce7130dcda6f4f84a26ac4ad79ef59cb8aaa27adc82847",
       "b3cbca70b251a2c2f5030fe6a363c8958514f3624b7c9a2b7be5d475065b691f",
       "ea4d055294733a028d61596483e9fff86bc6afa9235899b304649b11ee92a556",
       "fb5fc116f0863304bb2f80654112e430701be3452fe78412731a0fdf13eddc54",
@@ -557,11 +558,43 @@
       "ba7d5a4b2effc25ea8893c2adaf8d069d7e26a7909c0818f6c652ebda5aa350a",
       "92bc6e5245c1759f79ec6d1c56938dc9f6333c7144493e722e6253eed2bec08c"
     ],
-    "paragraph_count": 555
+    "paragraph_count": 556
   },
-  "overview_commit": "c0d127d17590bcd3e273d9e26e7b32aa9efa2181",
-  "overview_digest": "4667114b769812eff64719ad4724e2866dfbf0cbcf9869664a6a0fda4898eafd",
+  "overview_commit": "db37aaa3ed599bbd6a45ca12dcf0892ad561545d",
+  "overview_digest": "683b78ebae77b08cc83b7e3cfcdd465f7a2264927fb9188f1f756db154d9e21d",
   "paragraphs": [
+    {
+      "id": "b26998ed8105fc9962ce7130dcda6f4f84a26ac4ad79ef59cb8aaa27adc82847",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv|Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气]], a [[CultureLimited|文化有限]] episode on [[LoriGottlieb|洛莉·戈特利布]]'s [[MaybeYouShouldTalkToSomeone|《也许你该找个人聊聊》 / Maybe You Should Talk to Someone]]. It adds [[LoriGottlieb]], [[MaybeYouShouldTalkToSomeone]], [[JohnGottman]], [[GottmanInstitute]], [[TherapeuticDefenseWork]], [[TherapyInsightActionGap]], [[GottmanMethod]], and [[RelationshipFourHorsemen]], while extending [[CultureLimited]], [[TherapyRelationshipAndBoundaries]], [[EmotionalGranularity]], [[EmotionRegulationToolkit]], [[TraumaNarrativeIntegration]], and [[ComplexTraumaRecognition]]. Its core synthesis is that therapy-centered change is relational and slow: surface symptoms protect deeper grief or fear, defenses loosen through trustworthy contact, pain becomes speakable, and insight matters only when it produces different action outside the consulting room. No settled contradiction is recorded; the episode's book cases, clinical-method summaries, and Gottman framework are kept source-scoped rather than treated as individualized mental-health advice.",
+      "topic_scores": {
+        "culture-and-media": 2,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 2,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ComplexTraumaRecognition",
+        "CultureLimited",
+        "EmotionRegulationToolkit",
+        "EmotionalGranularity",
+        "GottmanInstitute",
+        "GottmanMethod",
+        "JohnGottman",
+        "LoriGottlieb",
+        "MaybeYouShouldTalkToSomeone",
+        "RelationshipFourHorsemen",
+        "TherapeuticDefenseWork",
+        "TherapyInsightActionGap",
+        "TherapyRelationshipAndBoundaries",
+        "TraumaNarrativeIntegration",
+        "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv"
+      ]
+    },
     {
       "id": "b3cbca70b251a2c2f5030fe6a363c8958514f3624b7c9a2b7be5d475065b691f",
       "primary_topic": "ai-and-technology",

@@ -27353,6 +27353,20 @@
       "url": "/topics/technology/"
     }
   ],
+  "GottmanInstitute": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "GottmanMethod": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "GouBian": [
     {
       "key": "history",
@@ -34313,6 +34327,13 @@
       "url": "/topics/science/"
     }
   ],
+  "JohnGottman": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "JohnGraham": [
     {
       "key": "technology",
@@ -38166,6 +38187,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "LoriGottlieb": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "LosAngeles": [
     {
       "key": "politics",
@@ -40154,6 +40182,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "MaybeYouShouldTalkToSomeone": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "MayerlingDeathPact": [
@@ -51696,6 +51736,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "RelationshipFourHorsemen": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "RelationshipLedSales": [
     {
       "key": "economics",
@@ -61751,6 +61798,20 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "TherapeuticDefenseWork": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "TherapyInsightActionGap": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "TherapyRelationshipAndBoundaries": [
@@ -76184,6 +76245,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr": [

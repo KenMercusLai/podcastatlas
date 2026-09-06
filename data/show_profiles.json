@@ -2013,13 +2013,19 @@
       "earliest_episode_date": "2026-08-24",
       "latest_episode_date": "2026-08-31",
       "latest_episode_file": "GKwRIDoOapxPAz2h0wTPhrfr [GKwRIDoOapxPAz2h0wTPhrfr].md",
-      "source_note_count": 1,
-      "topic_matched_source_note_count": 1,
+      "source_note_count": 2,
+      "topic_matched_source_note_count": 2,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
+          "source_note_count": 2
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
           "source_note_count": 1
         }
       ],
