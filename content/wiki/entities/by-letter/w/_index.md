@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 8956
+wiki_total_pages: 8990
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -641,6 +641,9 @@ wiki_pages:
   - key: "WeySijun"
     title: "卫嗣君 / Wey Sijun"
     url: "/wiki/entities/weysijun/"
+  - key: "WeiGuLateHan"
+    title: "卫固 / Wei Gu (late Han)"
+    url: "/wiki/entities/weigulatehan/"
   - key: "WeyState"
     title: "卫国 / Wey State"
     url: "/wiki/entities/weystate/"
@@ -980,6 +983,9 @@ wiki_pages:
   - key: "WangXiaoshu"
     title: "王小叔"
     url: "/wiki/entities/wangxiaoshu/"
+  - key: "WangSongLateHan"
+    title: "王嵩 / Wang Song (late Han)"
+    url: "/wiki/entities/wangsonglatehan/"
   - key: "WangYinglin"
     title: "王应麟 / Wang Yinglin"
     url: "/wiki/entities/wangyinglin/"
@@ -1115,6 +1121,9 @@ wiki_pages:
   - key: "WangBenQin"
     title: "王贲 / Wang Ben (Qin)"
     url: "/wiki/entities/wangbenqin/"
+  - key: "WangYiHedongLateHan"
+    title: "王邑 / Wang Yi (Hedong administrator)"
+    url: "/wiki/entities/wangyihedonglatehan/"
   - key: "WangLangHebeiClaimant"
     title: "王郎 / Wang Lang (Hebei Claimant)"
     url: "/wiki/entities/wanglanghebeiclaimant/"

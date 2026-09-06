@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 8956
+wiki_total_pages: 8990
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "QianliTechnology"
     title: "Qianli Technology"
     url: "/wiki/entities/qianlitechnology/"
+  - key: "QianlingMountainMacaques"
+    title: "Qianling Mountain Macaques / 黔灵山猕猴"
+    url: "/wiki/entities/qianlingmountainmacaques/"
   - key: "QiaoFamilyCompound"
     title: "Qiao Family Compound / 乔家大院"
     url: "/wiki/entities/qiaofamilycompound/"
@@ -239,6 +242,9 @@ wiki_pages:
   - key: "QuMuLateHan"
     title: "渠穆 / Qu Mu (late Han)"
     url: "/wiki/entities/qumulatehan/"
+  - key: "QianZhaoLateHan"
+    title: "牵招 / Qian Zhao (late Han)"
+    url: "/wiki/entities/qianzhaolatehan/"
   - key: "QianweiCommanderyLateHan"
     title: "犍为郡 / Qianwei Commandery (late Han)"
     url: "/wiki/entities/qianweicommanderylatehan/"

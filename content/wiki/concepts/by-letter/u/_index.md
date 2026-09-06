@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 6404
+wiki_total_pages: 6414
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -185,6 +185,12 @@ wiki_pages:
   - key: "UrbanNicheSports"
     title: "Urban Niche Sports / 城市小众运动"
     url: "/wiki/concepts/urbannichesports/"
+  - key: "UrbanWildlifeCoexistence"
+    title: "Urban Wildlife Coexistence / 城市野生动物共存"
+    url: "/wiki/concepts/urbanwildlifecoexistence/"
+  - key: "UrbanWildlifeConflictManagement"
+    title: "Urban Wildlife Conflict Management / 城市野生动物冲突治理"
+    url: "/wiki/concepts/urbanwildlifeconflictmanagement/"
   - key: "UrbanEdgeNature"
     title: "Urban-Edge Nature / 城市边缘自然"
     url: "/wiki/concepts/urbanedgenature/"

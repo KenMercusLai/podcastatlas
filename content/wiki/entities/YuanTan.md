@@ -12,7 +12,8 @@ sources:
   - zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye
   - zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7
   - zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r
-last_updated: 2026-09-05
+  - zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o
+last_updated: 2026-09-06
 ---
 
 # 袁谭 / Yuan Tan
@@ -37,6 +38,8 @@ Hanji 1060 sharpens that route. [[XinPiLateHan|辛毗]] tells Cao Cao not to dec
 
 Hanji 1061 shows the trust problem becoming explicit. Cao Cao supports Yuan Tan, Yuan Shang withdraws toward Ye, and [[LyuKuangLateHan|吕旷]] with [[GaoXiangLateHan|高翔]] defect from Yuan Shang to Cao. Yuan Tan then secretly gives the defectors general seals to lure them toward himself. Cao Cao discovers the move, reads Yuan Tan as deceptive, and stabilizes him through the marriage of [[CaoZhengLateHan|曹整]] to Yuan Tan's daughter rather than through genuine confidence.
 
+Hanji 1068 closes Yuan Tan's claimant arc. By Jian'an 10 / 205 CE, Cao Cao attacks Yuan Tan at [[NanpiLateHan|南皮]]. After costly fighting, [[CaoChunLateHan|曹淳]] argues that a deep operation must be finished quickly, Cao Cao renews the assault, and Nanpi falls. Yuan Tan flees but Cao Chun pursues and kills him, turning the earlier Cao-side use of Yuan Tan as a wedge against Yuan Shang into Yuan Tan's own elimination.
+
 ## Key Characteristics
 - Yuan Shao son and Qingzhou-side appointee whose early rise is tied to the Yuan Shao-Gongsun Zan rivalry.
 - Builds battlefield reputation through Tian Kai and Beihai operations, then loses moral-political credibility through pride and poor adviser selection.
@@ -44,7 +47,7 @@ Hanji 1061 shows the trust problem becoming explicit. Cao Cao supports Yuan Tan,
 - Eldest-son claimant disadvantaged by adoption out of the direct succession line and by Yuan Shang's fast installation at Ye.
 - Turns grievance into first open violence by killing Feng Ji after a troop request is refused.
 - Cooperates with Yuan Shang under Cao Cao's direct pressure, then resumes rivalry when trust and material support break down.
-- Becomes the claimant whose outside-aid request lets Cao Cao turn Yuan-family civil conflict into intervention, and whose later secret seal-lure makes him a distrusted collaborator rather than a reliable ally.
+- Becomes the claimant whose outside-aid request lets Cao Cao turn Yuan-family civil conflict into intervention, whose secret seal-lure makes him a distrusted collaborator, and whose final defense at Nanpi ends with Cao Chun killing him.
 
 ## Evidence
 - Qingzhou appointment and proxy war: [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] places Yuan Tan as Yuan Shao's son and Qingzhou-side actor fighting Tian Kai.
@@ -56,16 +59,15 @@ Hanji 1061 shows the trust problem becoming explicit. Cao Cao supports Yuan Tan,
 - Succession fault line and outside-aid threshold: [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] and [[zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos|Hanji 1059]] show the later armor dispute, ignored reconciliation counsel, and Xin Pi mission to Cao Cao.
 - Desperation as strategic evidence: [[zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7|Hanji 1060]] has Xin Pi argue that Yuan Tan's request proves he is at the end of his options and can be used to threaten Yuan Shang's rear if Cao Cao attacks Ye.
 - Distrusted collaboration: [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|Hanji 1061]] says Yuan Tan secretly grants seals to Lyu Kuang and Gao Xiang after they defect to Cao Cao; Cao discovers it and uses the Cao Zheng marriage tie to hold Yuan Tan temporarily.
+- Final defeat and death: [[zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o|Hanji 1068]] says Cao Cao attacks Yuan Tan at Nanpi, takes the city after Cao Chun's tempo warning, and has Cao Chun pursue and kill Yuan Tan.
 
 ## Qualifications
-Yuan Tan's page is not a full biography. The sources select him for Qingzhou proxy politics, reputation loss, Cao-side security calculations, and the later succession split. Hanji 1056 and Hanji 1058 show loyal figures and rational grievances around him, so his collapse should not be reduced to simple disloyalty; the stronger claim is that he cannot turn grievance, loyalty, and advice into a stable settlement. Hanji 1060 also does not prove Cao Cao trusts him; it uses his appeal as evidence of dependency and exhaustion. Hanji 1061 confirms that Cao can use Yuan Tan while still distrusting him.
+Yuan Tan's page is not a full biography. The sources select him for Qingzhou proxy politics, reputation loss, Cao-side security calculations, succession split, and final defeat. Hanji 1056 and Hanji 1058 show loyal figures and rational grievances around him, so his collapse should not be reduced to simple disloyalty; the stronger claim is that he cannot turn grievance, loyalty, and advice into a stable settlement. Hanji 1060 also does not prove Cao Cao trusts him; it uses his appeal as evidence of dependency and exhaustion. Hanji 1061 confirms that Cao can use Yuan Tan while still distrusting him, and Hanji 1068 shows the alliance ending in direct elimination once Cao's campaign reaches Nanpi.
 
 ## What Changed
-- Added Hanji 1056's missing succession-origin layer: adoption out, distance from Ye, Yuan Shang's installation, and Yuan Tan's self-styled Liyang command.
-- Added Feng Ji's killing as Yuan Tan's first open violent break with Yuan Shang's camp.
-- Added temporary cooperation under Cao Cao's attack as the precondition for the later pressure-release reading.
 - Added Hanji 1060's refinement that Yuan Tan's request matters less as alliance trust than as proof of desperation and as a rear-pressure lever against Yuan Shang.
 - Added Hanji 1061's refinement that Yuan Tan's secret seal-lure damages Cao-side trust and turns the Cao Zheng marriage into tactical stabilization.
+- Added Hanji 1068's endpoint: Cao Cao's Nanpi assault, Cao Chun's pursuit, and Yuan Tan's death.
 
 ## Relationships
 - [[YuanShao|袁绍]] - father and power base behind Yuan Tan's Qingzhou appointment and later succession claim.
@@ -78,6 +80,8 @@ Yuan Tan's page is not a full biography. The sources select him for Qingzhou pro
 - [[QingzhouLateHan|青州]] - provincial base and later defection-anxiety setting.
 - [[LiyangYellowRiverLateHan|黎阳]] - Yellow River base where Yuan Tan holds the front after Yuan Shao's death.
 - [[CaoCao|曹操]] - enemy who becomes Yuan Tan's requested outside helper after the fraternal split.
+- [[NanpiLateHan|南皮]] - final defensive site where Yuan Tan loses the city before fleeing.
+- [[CaoChunLateHan|曹淳]] - Cao-family commander who pursues and kills Yuan Tan.
 - [[LyuKuangLateHan|吕旷]] - defector Yuan Tan secretly tries to lure with a general seal.
 - [[GaoXiangLateHan|高翔]] - paired defector in Yuan Tan's secret seal maneuver.
 - [[CaoZhengLateHan|曹整]] - Cao Cao's son married to Yuan Tan's daughter as a stabilizing bond.

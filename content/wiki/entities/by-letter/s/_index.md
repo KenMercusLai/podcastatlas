@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 8956
+wiki_total_pages: 8990
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -509,6 +509,9 @@ wiki_pages:
   - key: "ShanghaiQizhiInstitute"
     title: "Shanghai Qi Zhi Institute / 上海期智研究院"
     url: "/wiki/entities/shanghaiqizhiinstitute/"
+  - key: "ShanghaiRaccoonDogs"
+    title: "Shanghai Raccoon Dogs / 上海貉"
+    url: "/wiki/entities/shanghairaccoondogs/"
   - key: "ShanghaiStockExchange"
     title: "Shanghai Stock Exchange"
     url: "/wiki/entities/shanghaistockexchange/"
@@ -1733,6 +1736,12 @@ wiki_pages:
   - key: "SunJingLateHan"
     title: "孙静 / Sun Jing (late Han)"
     url: "/wiki/entities/sunjinglatehan/"
+  - key: "SunShaoLateHan"
+    title: "孙韶 / Sun Shao (late Han)"
+    url: "/wiki/entities/sunshaolatehan/"
+  - key: "SunGaoLateHan"
+    title: "孙高 / Sun Gao (late Han)"
+    url: "/wiki/entities/sungaolatehan/"
   - key: "SongYi"
     title: "宋义 / Song Yi"
     url: "/wiki/entities/songyi/"

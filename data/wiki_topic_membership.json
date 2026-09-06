@@ -4690,6 +4690,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AIWealthHousingScarcity": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIWeirdnessBlog": [
     {
       "key": "technology",
@@ -5675,6 +5682,13 @@
     }
   ],
   "AgentAsAService": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "AgentCivilizationNarrative": [
     {
       "key": "technology",
       "label": "Technology",
@@ -10626,6 +10640,18 @@
       "url": "/topics/science/"
     }
   ],
+  "BloomTwoSigmaProblem": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Bloomberg": [
     {
       "key": "economics",
@@ -12974,6 +13000,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ChatGPT6Astra": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ChatGPTForHealthcare": [
@@ -19905,6 +19938,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "DwarkeshPatel": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "DwellTime": [
@@ -31503,6 +31548,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "InstinctPersonalAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "InstituteOfHistoryAndPhilology": [
     {
       "key": "history",
@@ -42200,6 +42252,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "NanjingWildBoars": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "NanyangCommandery": [
     {
       "key": "history",
@@ -44302,6 +44361,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "OpenClosedAIMarketStructure": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "OpenCrawl": [
@@ -63341,6 +63412,20 @@
       "url": "/topics/culture/"
     }
   ],
+  "UrbanWildlifeCoexistence": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "UrbanWildlifeConflictManagement": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "UseStrengthsOverFaults": [
     {
       "key": "history",
@@ -65460,6 +65545,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "WildlifeFeedingFeedbackLoop": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "WillGottsagen": [
@@ -70018,6 +70110,23 @@
       "url": "/topics/economics/"
     }
   ],
+  "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255": [
     {
       "key": "economics",
@@ -71542,6 +71651,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43": [
@@ -75316,6 +75432,13 @@
     }
   ],
   "zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft": [
     {
       "key": "politics",
       "label": "Politics",

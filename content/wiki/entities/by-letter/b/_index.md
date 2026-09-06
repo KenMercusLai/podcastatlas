@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 8956
+wiki_total_pages: 8990
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -1070,6 +1070,9 @@ wiki_pages:
   - key: "BianRangLateHan"
     title: "边让 / Bian Rang (Late Han)"
     url: "/wiki/entities/bianranglatehan/"
+  - key: "BianHongLateHan"
+    title: "边鸿 / Bian Hong (late Han)"
+    url: "/wiki/entities/bianhonglatehan/"
   - key: "BoraChung"
     title: "郑宝拉 / Bora Chung"
     url: "/wiki/entities/borachung/"

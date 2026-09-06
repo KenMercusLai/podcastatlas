@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 8956
+wiki_total_pages: 8990
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "Instalab"
     title: "Instalab"
     url: "/wiki/entities/instalab/"
+  - key: "InstinctPersonalAI"
+    title: "Instinct Personal AI"
+    url: "/wiki/entities/instinctpersonalai/"
   - key: "InstituteForAdvancedStudy"
     title: "Institute for Advanced Study / 普林斯顿高等研究院"
     url: "/wiki/entities/instituteforadvancedstudy/"

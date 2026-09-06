@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 8956
+wiki_total_pages: 8990
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "DVD"
     title: "DVD"
     url: "/wiki/entities/dvd/"
+  - key: "DwarkeshPatel"
+    title: "Dwarkesh Patel"
+    url: "/wiki/entities/dwarkeshpatel/"
   - key: "DwellTime"
     title: "Dwell Time"
     url: "/wiki/entities/dwelltime/"
@@ -869,6 +872,9 @@ wiki_pages:
   - key: "DanyangCommandery"
     title: "丹阳郡 / Danyang Commandery"
     url: "/wiki/entities/danyangcommandery/"
+  - key: "DanyangCoupLateHan"
+    title: "丹阳郡变 / Danyang Coup (late Han)"
+    url: "/wiki/entities/danyangcouplatehan/"
   - key: "DaiKingdomEarlyHan"
     title: "代国 / Dai Kingdom (early Han)"
     url: "/wiki/entities/daikingdomearlyhan/"
@@ -959,6 +965,9 @@ wiki_pages:
   - key: "DaiGuanlan"
     title: "戴冠兰 / Dai Guanlan"
     url: "/wiki/entities/daiguanlan/"
+  - key: "DaiYuanLateHan"
+    title: "戴员 / Dai Yuan (late Han)"
+    url: "/wiki/entities/daiyuanlatehan/"
   - key: "DaiLiangLateHan"
     title: "戴良 / Dai Liang (late Han)"
     url: "/wiki/entities/dailianglatehan/"
@@ -1001,6 +1010,9 @@ wiki_pages:
   - key: "DuFu"
     title: "杜甫 / Du Fu"
     url: "/wiki/entities/dufu/"
+  - key: "DuJiLateHan"
+    title: "杜畿 / Du Ji (late Han)"
+    url: "/wiki/entities/dujilatehan/"
   - key: "DuSujuan"
     title: "杜素娟 / Du Sujuan"
     url: "/wiki/entities/dusujuan/"

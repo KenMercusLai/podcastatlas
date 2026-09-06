@@ -12,12 +12,13 @@ sources:
   - zizhi-tongjian-hanji-765-donghan-fengyun-nengchen-nengbuneng-gandiao-bahu-waiqi-ltnvdqnyofuelaklssbquguwivan
   - zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu
   - zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj
-last_updated: 2026-08-31
+  - zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft
+last_updated: 2026-09-06
 ---
 
 ## Overview
 
-乌桓 / Wuhuan is a northern frontier group whose current wiki profile now begins with 46 CE pressure against famine-weakened [[Xiongnu|Xiongnu]], followed by 49 CE submission and institutional settlement under [[LiuXiu|Liu Xiu]]. Hanji 723 adds the pre-submission military-pressure layer: Wuhuan defeats Xiongnu, helps push them north, and causes Han to reduce some border watch infrastructure while using money and silk to attract Wuhuan. Later sources show Wuhuan as a recognition-risk audience, coalition component, auxiliary cavalry, deserter population, pacified group, local-order contact, and anti-[[GongsunZan|Gongsun Zan]] force.
+乌桓 / Wuhuan is a northern frontier group whose current wiki profile now begins with 46 CE pressure against famine-weakened [[Xiongnu|Xiongnu]], followed by 49 CE submission and institutional settlement under [[LiuXiu|Liu Xiu]]. Hanji 723 adds the pre-submission military-pressure layer: Wuhuan defeats Xiongnu, helps push them north, and causes Han to reduce some border watch infrastructure while using money and silk to attract Wuhuan. Later sources show Wuhuan as a recognition-risk audience, coalition component, auxiliary cavalry, deserter population, pacified group, local-order contact, anti-[[GongsunZan|Gongsun Zan]] force, and finally a Jian'an 9 frontier audience forced by [[QianZhaoLateHan|牵招]] to abandon aid for [[YuanTan|袁谭]].
 
 ## Current Profile
 
@@ -29,12 +30,14 @@ Hanji 765 turns Wuhuan into a recognition-risk audience. [[YuanAnEasternHan|Yuan
 
 The later 187-188 CE sources show why Wuhuan alignment remains brittle. Hanji 938 says [[ZhangWenLateHan|Zhang Wen]] recruits Wuhuan cavalry under Gongsun Zan, but supply and pay failures near Ji cause desertion and feed the disorder around [[ZhangChunLateHan|Zhang Chun]], [[ZhangJuLateHan|Zhang Ju]], and [[QiuLijuLateHan|Qiu Liju]]. Hanji 942 then shows [[LiuYuLateHan|Liu Yu]] inducing submission through envoys and rewards rather than Gongsun Zan's over-deep pursuit. Hanji 972 and Hanji 998 add quiet local order around [[TianChou|Tian Chou]] and later coalition politics through [[YanRou|Yan Rou]]'s Wuhuan-sima prestige.
 
+Hanji 1066 adds the Jian'an 9 Cao-Yuan frontier layer after the fall of Ye. Wuhuan leaders have prepared five thousand cavalry to rescue [[YuanTan|Yuan Tan]], while [[GongsunKangLateHan|Gongsun Kang]] sends [[HanZhongLiaodongLateHan|Han Zhong]] with a chanyu seal. [[QianZhaoLateHan|Qian Zhao]] turns the meeting into a public authority test, rejects Liaodong's right to confer titles, overawes the chiefs by nearly killing Han Zhong, and persuades them to accept the court order, dismiss Liaodong's envoy, and disband the cavalry.
+
 ## Key Characteristics
 
 - Relationship-sensitive frontier group whose alignment shifts with military opportunity, titles, provisioning, office oversight, recognition choices, inducement, supply, reputation, and security conditions.
 - Early pressure actor that defeats weakened Xiongnu before later submitting to Han management.
 - Submitted group in 49 CE that becomes governable through inside-frontier relocation, material support, sentry roles, and a dedicated protector office.
-- Diplomatic-risk audience whose reaction can constrain Han recognition of Northern Xiongnu claimants.
+- Diplomatic-risk audience whose reaction can constrain Han recognition of Northern Xiongnu claimants and whose aid can later be redirected when rival title-recognition claims collide.
 - Coalition actor that can be split away from Xiongnu pressure by trusted envoys and reconciliation.
 - Auxiliary cavalry source whose usefulness can collapse when supply and pay fail.
 - Frontier population that responds to envoys, rewards, reassurance, and credible local order more durably than to overextended pursuit alone.
@@ -50,16 +53,17 @@ The later 187-188 CE sources show why Wuhuan alignment remains brittle. Hanji 93
 - Failed auxiliary supply: [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] links Wuhuan cavalry recruitment, Gongsun Zan's command, desertion after supply/pay failure, and the wider Zhang Chun-Zhang Ju-Qiu Liju crisis.
 - Pacification and local order: [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]] shows Liu Yu inducing Wuhuan submission through envoys and rewards, while [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]] shows Wuhuan respecting Tian Chou's Xu Wu Mountain settlement.
 - Anti-Gongsun coalition: [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] says Yan Rou's Wuhuan-sima prestige helps gather mixed Hu and Han forces against Gongsun Zan.
+- Jian'an 9 aid cancellation: [[zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft|Hanji 1066]] says Wuhuan leaders dismiss Gongsun Kang's Liaodong envoy and disband five thousand cavalry after Qian Zhao's public confrontation.
 
 ## Qualifications
 
-This page remains bounded to the listed source notes and does not provide a full ethnographic or dynastic history of Wuhuan. The frontmatter source list preserves ingest order, so Hanji 723 appears last even though it is the earliest current chronology. The 46 CE pressure layer does not mean Wuhuan is already a settled Han partner; the 49 CE submission and office restoration are separate later steps. Later sources show Wuhuan alignment remains situational and depends on continuing credibility, supply, and local authority.
+This page remains bounded to the listed source notes and does not provide a full ethnographic or dynastic history of Wuhuan. The frontmatter source list preserves ingest order, so Hanji 723 appears late even though it is the earliest current chronology. The 46 CE pressure layer does not mean Wuhuan is already a settled Han partner; the 49 CE submission and office restoration are separate later steps. Later sources show Wuhuan alignment remains situational and depends on continuing credibility, supply, local authority, and competing recognition claims. Hanji 1066 does not name the Wuhuan leader, so this page does not identify him with [[TadunLateHan|Tadun]] without stronger evidence.
 
 ## What Changed
 
-- Added Hanji 723 as the earliest current Wuhuan layer: attack on weakened Xiongnu, Xiongnu northward retreat, Han border reduction, and money/silk inducement.
-- Reframed Hanji 726's Wuhuan submission as a second step after earlier Wuhuan pressure opens the northeastern frontier.
-- Preserved later recognition, coalition, supply, pacification, and anti-Gongsun layers as continuing evidence that Wuhuan alignment remains situational.
+- Added Hanji 1066's Jian'an 9 layer: Wuhuan's planned rescue of Yuan Tan, Liaodong's chanyu-seal intervention, Qian Zhao's public coercion, and cancellation of the five-thousand-cavalry aid.
+- Reframed Wuhuan alignment as vulnerable not only to supply and local-order incentives but also to rival title-recognition claims.
+- Preserved the caution that the unnamed Wuhuan leader should not be merged with Tadun from Hanji 1032 without explicit support.
 
 ## Relationships
 
@@ -77,6 +81,9 @@ This page remains bounded to the listed source notes and does not provide a full
 - [[TianChou|田筹]] - local-order builder whose Xu Wu Mountain settlement earns Wuhuan respect.
 - [[YanRou|阎柔]] - Wuhuan sima whose prestige supports the anti-Gongsun coalition.
 - [[GongsunZan|公孙瓒]] - commander and later enemy whose actions repeatedly shape Wuhuan alignment.
+- [[QianZhaoLateHan|牵招]] - Cao-side envoy who blocks Wuhuan aid to Yuan Tan.
+- [[YuanTan|袁谭]] - Yuan-family claimant whom Wuhuan cavalry was prepared to rescue in Hanji 1066.
+- [[GongsunKangLateHan|公孙康]] - Liaodong ruler whose envoy brings a contested chanyu seal to Wuhuan.
 - [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]] - concept using Wuhuan reaction as part of recognition-cost calculation.
 - [[FrontierAuxiliarySupplyFailure|边兵粮饷供应失灵]] - concept explaining why recruited Wuhuan cavalry become unstable.
 - [[CoalitionFractureExploitation|联盟裂缝利用]] - concept explaining Zhang Huan's use of Wuhuan against their former alignment.

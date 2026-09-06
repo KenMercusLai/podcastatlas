@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 8956
+wiki_total_pages: 8990
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "Nanit"
     title: "Nanit"
     url: "/wiki/entities/nanit/"
+  - key: "NanjingWildBoars"
+    title: "Nanjing Wild Boars / 南京野猪"
+    url: "/wiki/entities/nanjingwildboars/"
   - key: "NapoleonBonaparte"
     title: "Napoleon Bonaparte / 拿破仑"
     url: "/wiki/entities/napoleonbonaparte/"
@@ -521,6 +524,9 @@ wiki_pages:
   - key: "NORAID"
     title: "NORAID"
     url: "/wiki/entities/noraid/"
+  - key: "NorthAmericanBlueEnergyPartners"
+    title: "North American Blue Energy Partners"
+    url: "/wiki/entities/northamericanblueenergypartners/"
   - key: "NorthKorea"
     title: "North Korea"
     url: "/wiki/entities/northkorea/"
@@ -659,6 +665,9 @@ wiki_pages:
   - key: "NanhaiCommandery"
     title: "南海郡 / Nanhai Commandery"
     url: "/wiki/entities/nanhaicommandery/"
+  - key: "NanpiLateHan"
+    title: "南皮 / Nanpi (late Han)"
+    url: "/wiki/entities/nanpilatehan/"
   - key: "Nanyue"
     title: "南越 / Nanyue"
     url: "/wiki/entities/nanyue/"

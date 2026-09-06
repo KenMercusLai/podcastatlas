@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 8956
+wiki_total_pages: 8990
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1109,9 +1109,15 @@ wiki_pages:
   - key: "HaodaiBattle"
     title: "鄗代之战 / Battle of Hao-Dai"
     url: "/wiki/entities/haodaibattle/"
+  - key: "HuoNuLateHan"
+    title: "霍奴 / Huo Nu (late Han)"
+    url: "/wiki/entities/huonulatehan/"
   - key: "HuoXuLateHan"
     title: "霍谞 / Huo Xu (late Han)"
     url: "/wiki/entities/huoxulatehan/"
+  - key: "HanZhongLiaodongLateHan"
+    title: "韩中 / Han Zhong (Liaodong envoy)"
+    url: "/wiki/entities/hanzhongliaodonglatehan/"
   - key: "HanXin"
     title: "韩信 / Han Xin"
     url: "/wiki/entities/hanxin/"
@@ -1148,6 +1154,9 @@ wiki_pages:
   - key: "HanZhongLateHan"
     title: "韩忠 / Han Zhong (late Han)"
     url: "/wiki/entities/hanzhonglatehan/"
+  - key: "HanHengLateHan"
+    title: "韩恒 / Han Heng (late Han)"
+    url: "/wiki/entities/hanhenglatehan/"
   - key: "HanYihou"
     title: "韩懿侯 / Marquis Yi of Han"
     url: "/wiki/entities/hanyihou/"

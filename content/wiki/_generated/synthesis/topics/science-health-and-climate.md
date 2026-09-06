@@ -3,18 +3,30 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-09-05
-as_of_overview_commit: cb51339db7c11d87a34bee9f2a08800926f30453
-input_digest: 3421eeea9791477a17ef84257687648947aa19b07c26a204eaade7840eb6353d
+last_updated: 2026-09-06
+as_of_overview_commit: a5d941535c807f249abec02d889dec6954bdf99b
+input_digest: 6b8b8b160c5cf7d9396ba3004d7cc6c440e605e377e4835cacb21623376d1aa2
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science-health-and-climate joins practical health literacy, anesthesiology, medicine, animal welfare, climate and space infrastructure, biomedical governance, historical health inference, speech-language rehabilitation, and nutrition/body-composition coaching through a common boundary theme: mechanism, measurement, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Health branches now include Attia longevity framing around physical, cognitive, and emotional healthspan; ApoB, blood pressure, cardiovascular prevention, cancer-screening burden, neurodegenerative risk levers, exercise pillars, overdose risk, and emotional repair remain source-scoped public education alongside anesthesia and perioperative recovery safety, female and male urology symptom, leakage, pregnancy urine-test, infection-behavior, and screening boundaries, CGM and GLP-1 boundaries, headphone exposure, sugar and functional-food literacy, 24-hour sleep-wake timing through light, temperature, caffeine, substance, supplement, and phase-shifting boundaries, flexible sleep/circadian/recovery fundamentals, hormone phenotyping, exercise and flexibility safety, diagnostic safety netting, spine rehabilitation, pediatric language-delay assessment, aphasia rhythm cueing, dysarthria capability boundaries, metabolic psychiatry, bipolar and OCD care, bite escalation, individualized cancer vaccines, companion-animal welfare, and evidence-bounded body-composition fundamentals. The nonclinical strands apply the same boundary logic to Himalayan glacial floods, space launch capacity, reusable rockets, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped cultivation or historical health claims. Andy Stumpf adds a public-conversation boundary for social-media attention, substance risk, cold stress, mental-health disclosure, and extreme-environment risk, treated as source-scoped rather than medical, psychiatric, addiction, or sport instruction.
+Science-health-and-climate joins practical health literacy, anesthesiology, medicine, animal welfare, urban wildlife coexistence, climate and space infrastructure, biomedical governance, historical health inference, speech-language rehabilitation, and nutrition/body-composition coaching through a common boundary theme: mechanism, measurement, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Health branches now include Attia longevity framing around physical, cognitive, and emotional healthspan; ApoB, blood pressure, cardiovascular prevention, cancer-screening burden, neurodegenerative risk levers, exercise pillars, overdose risk, and emotional repair remain source-scoped public education alongside anesthesia and perioperative recovery safety, female and male urology symptom, leakage, pregnancy urine-test, infection-behavior, and screening boundaries, CGM and GLP-1 boundaries, headphone exposure, sugar and functional-food literacy, 24-hour sleep-wake timing through light, temperature, caffeine, substance, supplement, and phase-shifting boundaries, flexible sleep/circadian/recovery fundamentals, hormone phenotyping, exercise and flexibility safety, diagnostic safety netting, spine rehabilitation, pediatric language-delay assessment, aphasia rhythm cueing, dysarthria capability boundaries, metabolic psychiatry, bipolar and OCD care, bite escalation, individualized cancer vaccines, companion-animal welfare, urban wildlife feeding and conflict management, and evidence-bounded body-composition fundamentals. The nonclinical strands apply the same boundary logic to Himalayan glacial floods, space launch capacity, reusable rockets, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped cultivation or historical health claims. Andy Stumpf adds a public-conversation boundary for social-media attention, substance risk, cold stress, mental-health disclosure, and extreme-environment risk, treated as source-scoped rather than medical, psychiatric, addiction, or sport instruction.
 
 ## Cross-source Findings
+
+### Urban Wildlife Coexistence Needs Feeding Distance And Public Health Boundaries
+
+[[UrbanWildlifeCoexistence]] adds an urban-wildlife public-health branch: [[QianlingMountainMacaques]], [[NanjingWildBoars]], and [[ShanghaiRaccoonDogs]] show that feeding, garbage, cat food, tourism, missing predators, fragmented habitat, media attention, affection, fear, injury, disease risk, and city planning decide whether wildlife overlap becomes tolerable coexistence or conflict. [[WildlifeFeedingFeedbackLoop]] and [[UrbanWildlifeConflictManagement]] connect the episode to [[UrbanEcology]], [[UrbanEdgeNature]], [[ConservationIntervention]], [[WildReleaseHumanAvoidance]], [[ConservationPublicityGap]], and [[AnimalWelfareAsPublicHealth]] rather than to a simple protect-or-remove answer.
+
+**Evidence:** [[ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a]], [[UrbanWildlifeCoexistence]], [[QianlingMountainMacaques]], [[NanjingWildBoars]], [[ShanghaiRaccoonDogs]], [[WildlifeFeedingFeedbackLoop]], [[UrbanWildlifeConflictManagement]], [[UrbanEcology]], [[UrbanEdgeNature]], [[ConservationIntervention]], [[WildReleaseHumanAvoidance]], [[ConservationPublicityGap]], [[AnimalWelfareAsPublicHealth]]
+
+**Qualifications:**
+
+- The episode is a reported public conversation, not a complete ecological census, veterinary assessment, epidemiological model, or local wildlife-management guideline.
+- Animal counts, disease pathways, culling thresholds, relocation feasibility, and intervention efficacy remain source-scoped and locality-dependent.
+- The claim treats animal welfare and human safety as linked governance boundaries, not as proof that one intervention fits macaques, boars, raccoon dogs, birds, and other city wildlife equally.
 
 ### Preventive Longevity Needs Healthspan Measurement And Clinical Boundaries
 

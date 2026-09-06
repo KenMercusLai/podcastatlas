@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 8956
+wiki_total_pages: 8990
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -659,6 +659,9 @@ wiki_pages:
   - key: "FuLongEasternHan"
     title: "伏隆 / Fu Long (Eastern Han)"
     url: "/wiki/entities/fulongeasternhan/"
+  - key: "FuYingLateHan"
+    title: "傅婴 / Fu Ying (late Han)"
+    url: "/wiki/entities/fuyinglatehan/"
   - key: "FuYu"
     title: "傅宇 / Fu Yu"
     url: "/wiki/entities/fuyu/"
@@ -848,6 +851,9 @@ wiki_pages:
   - key: "FanYiLateHan"
     title: "范仪 / Fan Yi (Late Han)"
     url: "/wiki/entities/fanyilatehan/"
+  - key: "FanXianLateHan"
+    title: "范先 / Fan Xian (late Han)"
+    url: "/wiki/entities/fanxianlatehan/"
   - key: "FanCountyLateHan"
     title: "范县 / Fan County (Late Han)"
     url: "/wiki/entities/fancountylatehan/"

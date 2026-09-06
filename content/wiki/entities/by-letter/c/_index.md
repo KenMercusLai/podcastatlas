@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 8956
+wiki_total_pages: 8990
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -491,6 +491,9 @@ wiki_pages:
   - key: "ChatGPT"
     title: "ChatGPT"
     url: "/wiki/entities/chatgpt/"
+  - key: "ChatGPT6Astra"
+    title: "ChatGPT 6 / Astra"
+    url: "/wiki/entities/chatgpt6astra/"
   - key: "ChatGPTForHealthcare"
     title: "ChatGPT for Healthcare"
     url: "/wiki/entities/chatgptforhealthcare/"
@@ -1478,6 +1481,9 @@ wiki_pages:
   - key: "CaoHong"
     title: "曹洪 / Cao Hong"
     url: "/wiki/entities/caohong/"
+  - key: "CaoChunLateHan"
+    title: "曹淳 / Cao Chun (late Han)"
+    url: "/wiki/entities/caochunlatehan/"
   - key: "CaoShaoLateHan"
     title: "曹绍 / Cao Shao (late Han)"
     url: "/wiki/entities/caoshaolatehan/"

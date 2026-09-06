@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj
   - zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs
   - zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet
-last_updated: 2026-09-05
+  - zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o
+last_updated: 2026-09-06
 ---
 
 # 张燕 / Zhang Yan (Late Han)
@@ -23,7 +24,7 @@ His early political path is not simple outlawry. Hanji 933 says [[EmperorLingOfH
 
 Hanji 970 shows the limits and value of that base. [[YuanShao|袁绍]] campaigns against [[YuDuLateHan|于毒]] and then Zhang Yan after Black Mountain pressure threatens [[YeLateHan|邺城]]. Zhang Yan's force is large enough that Yuan Shao and [[LyuBu|吕布]] cooperate temporarily against him, but the exhausted post-campaign relationship between Yuan and Lü collapses almost immediately.
 
-Hanji 1062 adds the final alignment layer. After Yuan Shao's sons weaken each other, Zhang Yan approaches [[CaoCao|曹操]] and offers help against the Yuan brothers. The episode reads this as strategic timing: Zhang Yan remains hard to eliminate because of his mountain base, but also valuable enough to recruit. Cao Cao's appointment of him as Pingbei general, and the source's later marquis/title framing, convert Zhang Yan's remaining military value into security under the stronger hierarchy.
+Hanji 1062 adds the final alignment opening. After Yuan Shao's sons weaken each other, Zhang Yan approaches [[CaoCao|曹操]] and offers help against the Yuan brothers. The episode reads this as strategic timing: Zhang Yan remains hard to eliminate because of his mountain base, but also valuable enough to recruit. Hanji 1070 then records the formal surrender layer: Zhang Yan brings more than a hundred thousand people to Cao Cao and receives An Guo tinghou status, converting preserved Black Mountain capacity into recognized rank under the stronger hierarchy.
 
 ## Key Characteristics
 - Post-Yellow-Turban mountain leader whose identity shifts from Chu Yan / Chu Feiyan to Zhang Yan through succession from Zhang Niujiao.
@@ -32,6 +33,7 @@ Hanji 1062 adds the final alignment layer. After Yuan Shao's sons weaken each ot
 - Strategic nuisance and military target for Yuan Shao, strong enough to draw Lü Bu into a temporary anti-Zhang Yan campaign.
 - Terrain-backed survivor whose Taihang-area base gives him bargaining room across changing warlord alignments.
 - Late convert to Cao Cao's side after the Yuan-family split makes Cao the more credible future patron.
+- Formal surrender leader whose large following and marquis reward complete the Cao-side incorporation arc.
 
 ## Evidence
 - Origin field: [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]] names Chu Feiyan / Zhang Yan alongside Zhang Niujiao in the armed-disorder field following Zhang Jiao's uprising.
@@ -41,14 +43,16 @@ Hanji 1062 adds the final alignment layer. After Yuan Shao's sons weaken each ot
 - Alliance side effect: [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]] shows Yuan Shao and Lü Bu cooperating against Zhang Yan for more than ten days before their relationship deteriorates.
 - Cao-side alignment: [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|Hanji 1062]] says Zhang Yan sends envoys to Cao Cao, offers help against the Yuan brothers, and receives a Pingbei-general appointment.
 - Mountain optionality: [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|Hanji 1062]] interprets Zhang Yan's survival through mountain position, farming-fighting durability, and continued recruitability.
+- Formal surrender and title: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] says Zhang Yan leads more than a hundred thousand people to submit to Cao Cao and receives An Guo tinghou status.
 
 ## Qualifications
-The page remains bounded by podcast source notes rather than a full transmitted-history biography. Hanji 933's nearly million-person scale, Hanji 970's force figures, and Hanji 1062's exact title sequence should remain source-scoped. The wiki normalizes Chu Yan, Chu Feiyan, and Zhang Yan as one late-Han route, while preserving that the name change is part of the episode's succession interpretation.
+The page remains bounded by podcast source notes rather than a full transmitted-history biography. Hanji 933's nearly million-person scale, Hanji 970's force figures, Hanji 1062's exact appointment sequence, and Hanji 1070's surrender following and title details should remain source-scoped. The wiki normalizes Chu Yan, Chu Feiyan, and Zhang Yan as one late-Han route, while preserving that the name change is part of the episode's succession interpretation.
 
 ## What Changed
 - Migrated the page from legacy notes and `Connections` to the `synthesis-v1` entity contract.
 - Added Hanji 1062's Cao-side alignment layer: Zhang Yan offers help against the Yuan brothers and receives appointment under Cao Cao.
-- Reframed Zhang Yan's durable importance through [[MountainBaseStrategicOptionality|山地根据地战略余地]] rather than only rebel origin or Yuan Shao opposition.
+- Added Hanji 1070's formal surrender and An Guo tinghou reward as the completion of the Cao-side incorporation arc.
+- Reframed Zhang Yan's durable importance through [[MountainBaseStrategicOptionality|山地根据地战略余地]] and [[OfficeBasedRebelIncorporation|授官式招安]] rather than only rebel origin or Yuan Shao opposition.
 
 ## Relationships
 - [[ZhangNiujiaoLateHan|张牛角]] - predecessor whose death and succession request create Zhang Yan's new surname and leadership claim.

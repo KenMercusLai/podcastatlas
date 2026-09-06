@@ -7,19 +7,22 @@ sources:
   - zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl
   - zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76
   - zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna
+  - zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-27
+last_updated: 2026-09-06
 ---
 
 # 陈琳 / Chen Lin (Late Han)
 
 ## Overview
-陈琳 / Chen Lin (Late Han) is a late-Han writer and official whose wiki profile now has two connected roles: he warns [[HeJin|何进]] against turning an anti-eunuch palace action into an outside-army crisis, and later serves [[YuanShao|袁绍]] as a writer of coercive political texts against [[ZangHong|臧洪]] and [[CaoCao|曹操]].
+陈琳 / Chen Lin (Late Han) is a late-Han writer and official whose wiki profile now has three connected roles: he warns [[HeJin|何进]] against turning an anti-eunuch palace action into an outside-army crisis, serves [[YuanShao|袁绍]] as a writer of coercive political texts against [[ZangHong|臧洪]] and [[CaoCao|曹操]], and later survives surrender because Cao Cao converts his hostile writing talent into Cao-side service.
 
 ## Current Profile
 Chen Lin is not yet a full literary biography in the bounded evidence. In the He Jin branch, he appears as a decision-support voice who sees that summoning outside troops will change the conflict's scale and hand leverage to armed outsiders. That warning links him to [[ExternalTroopInvitationRisk|外兵入京升级风险]] and [[LethalPlanLeakageRisk|致命计划泄露风险]] because the plan's danger grows once force and secrecy leave the palace center.
 
 In the Yuan Shao branch, Chen Lin's role shifts from warning against escalation to writing inside escalation. Against Zang Hong, Yuan Shao uses him to articulate the costs of resistance after the failed rescue of [[ZhangChaoLateHan|张超]]. Before Guandu, Yuan Shao orders him to write the anti-Cao proclamation that attacks Cao Cao's treatment of loyal officials, control of the emperor, Xuzhou violence, tomb-robbing offices, and eunuch-descended ingratitude. The current synthesis therefore treats Chen Lin as a text-power figure: writing can clarify a conflict's moral and strategic stakes, but it cannot substitute for command ability or ruler judgment.
+
+Hanji 1069 adds the surrender side of the same proclamation. After Yuan Shao's camp loses and Yuan Tan is defeated, Chen Lin submits to Cao Cao. Cao Cao questions why the proclamation attacked his father and grandfather as well as himself, but Chen Lin explains it as compelled service to his former patron. The page now reads Chen Lin as a reusable literary asset: his earlier hostility makes Cao Cao's later pardon more visible, while his writing skill becomes part of Cao's post-Yuan talent absorption.
 
 ## Key Characteristics
 - Late-Han document and advice figure tied to high-risk political escalation.
@@ -27,6 +30,7 @@ In the Yuan Shao branch, Chen Lin's role shifts from warning against escalation 
 - Yuan Shao-side writer used to pressure opponents through argument rather than direct force.
 - Produces legitimacy-indictment rhetoric that turns Cao Cao's public standing into campaign terrain.
 - Shows the limit of rhetoric: even a powerful proclamation does not prove Yuan Shao can execute the war better than Cao Cao.
+- Becomes a surrender-and-reuse case when Cao Cao pardons him and keeps his pen inside the new hierarchy.
 
 ## Evidence
 - Anti-escalation warning: [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]] gives Chen Lin's detailed warning that He Jin already controls enough force and should not invite outside armies into the eunuch conflict.
@@ -34,22 +38,24 @@ In the Yuan Shao branch, Chen Lin's role shifts from warning against escalation 
 - Persuasion letter: [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] has Yuan Shao ask Chen Lin to write to Zang Hong after Zang Hong refuses Yuan over Zhang Chao's destruction.
 - Anti-Cao proclamation: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] says Yuan Shao orders Chen Lin, named as 主簿, to write a proclamation listing Cao Cao's major crimes and circulating the indictment through the realm.
 - Rhetoric versus command: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] reports Cao Cao's response that strong writing still has to be matched by real ability and military command.
+- Surrender explanation: [[zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf|Hanji 1069]] revisits the proclamation after Chen Lin's surrender and records his "arrow on the string" explanation as compelled service to Yuan Shao.
+- Talent conversion: [[zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf|Hanji 1069]] says Cao Cao pardons Chen Lin and continues to use him for official writing, turning an enemy propaganda asset into Cao-side capacity.
 
 ## Qualifications
-The sources do not reconstruct Chen Lin's full career or corpus. Hanji 1043's headache-cure story is kept as episode-level framing for the proclamation's force, not independent proof of Cao Cao's medical condition or private fear. The content of the anti-Cao indictment is politically polemical, so this page records its function and claims without treating every accusation as neutral fact.
+The sources do not reconstruct Chen Lin's full career or corpus. Hanji 1043's headache-cure story is kept as episode-level framing for the proclamation's force, not independent proof of Cao Cao's medical condition or private fear. The content of the anti-Cao indictment is politically polemical, so this page records its function and claims without treating every accusation as neutral fact. Hanji 1069's account of Cao Cao's laughter and motive is likewise treated as episode-level interpretation of pardon and talent use.
 
 ## What Changed
-- Migrated Chen Lin from legacy append prose to the synthesis-v1 entity schema.
-- Added the Guandu proclamation as a second Yuan Shao writing case, distinct from the earlier Zang Hong persuasion letter.
-- Reframed Chen Lin as a text-power figure whose writing can sharpen legitimacy conflict but cannot replace strategy or command.
+- Added Hanji 1069's surrender-and-reuse angle after the Guandu proclamation.
+- Reframed Chen Lin's hostile writing as a talent asset that Cao Cao can absorb after victory.
 
 ## Relationships
 - [[HeJin|何进]] - early patron-side decision maker whom Chen Lin warns against inviting outside troops.
 - [[YuanShao|袁绍]] - later powerholder who deploys Chen Lin's writing against Zang Hong and Cao Cao.
-- [[CaoCao|曹操]] - target of Chen Lin's Guandu proclamation and earlier co-warning voice in the He Jin branch.
+- [[CaoCao|曹操]] - target of Chen Lin's Guandu proclamation, earlier co-warning voice in the He Jin branch, and later victor who pardons and reuses him.
 - [[ZangHong|臧洪]] - target of Chen Lin's persuasion letter during the Zhang Chao grievance conflict.
 - [[ZhangChaoLateHan|张超]] - destroyed old superior whose fate anchors Zang Hong's reply to Yuan Shao's persuasion channel.
 - [[ExternalTroopInvitationRisk|外兵入京升级风险]] - concept supported by Chen Lin's warning against summoning armies into Luoyang.
 - [[LethalPlanLeakageRisk|致命计划泄露风险]] - secrecy-risk concept attached to the He Jin anti-eunuch planning failure.
 - [[LegitimacyIndictmentWarfare|正当性控诉战]] - concept extended by Chen Lin's anti-Cao proclamation.
+- [[CapturedOpponentTalentIncorporation|降敌任用式立威]] - adjacent concept for Cao Cao's later conversion of Chen Lin's hostile talent.
 - [[GuanduCampaign|官渡之战]] - campaign context in which Chen Lin's proclamation becomes Yuan-side pre-battle rhetoric.

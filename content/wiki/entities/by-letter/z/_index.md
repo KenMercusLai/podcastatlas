@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 8956
+wiki_total_pages: 8990
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -569,6 +569,9 @@ wiki_pages:
   - key: "ZhangXunYuanShu"
     title: "张勋 / Zhang Xun (Yuan Shu general)"
     url: "/wiki/entities/zhangxunyuanshu/"
+  - key: "ZhangNanLateHan"
+    title: "张南 / Zhang Nan (late Han)"
+    url: "/wiki/entities/zhangnanlatehan/"
   - key: "ZhangChangNanyangLateHan"
     title: "张厂 / Zhang Chang (Nanyang, late Han)"
     url: "/wiki/entities/zhangchangnanyanglatehan/"
@@ -734,6 +737,9 @@ wiki_pages:
   - key: "ZhangHaoRemonstratorLateHan"
     title: "张皓 / Zhang Hao (late Han remonstrator)"
     url: "/wiki/entities/zhanghaoremonstratorlatehan/"
+  - key: "ZhangShengLateHan"
+    title: "张盛 / Zhang Sheng (late Han)"
+    url: "/wiki/entities/zhangshenglatehan/"
   - key: "ZhangShuoLateHan"
     title: "张硕 / Zhang Shuo (late Han)"
     url: "/wiki/entities/zhangshuolatehan/"
@@ -779,6 +785,9 @@ wiki_pages:
   - key: "ZhangFanLateHan"
     title: "张范 / Zhang Fan (late Han)"
     url: "/wiki/entities/zhangfanlatehan/"
+  - key: "ZhangYanHedongLateHan"
+    title: "张衍 / Zhang Yan (Hedong-Hongnong actor)"
+    url: "/wiki/entities/zhangyanhedonglatehan/"
   - key: "ZhangHengLateHan"
     title: "张衡 / Zhang Heng (late Han)"
     url: "/wiki/entities/zhanghenglatehan/"
@@ -1250,6 +1259,9 @@ wiki_pages:
   - key: "ZhaoXiEasternHan"
     title: "赵熙 / 赵熹 / Zhao Xi (Eastern Han)"
     url: "/wiki/entities/zhaoxieasternhan/"
+  - key: "ZhaoDuLateHan"
+    title: "赵独 / Zhao Du (late Han)"
+    url: "/wiki/entities/zhaodulatehan/"
   - key: "ZhaoXianzi"
     title: "赵献子 / Zhao Xianzi"
     url: "/wiki/entities/zhaoxianzi/"

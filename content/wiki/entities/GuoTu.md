@@ -11,7 +11,8 @@ sources:
   - zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4
   - zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m
   - zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg
-last_updated: 2026-08-30
+  - zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o
+last_updated: 2026-09-06
 ---
 
 # 郭图 / Guo Tu
@@ -28,6 +29,8 @@ Hanji 1049 makes Guo Tu's risk visible at the campaign climax. When Cao Cao raid
 
 Hanji 1058 adds Guo Tu's post-Guandu factional role. After Yuan Shao's death leaves [[YuanTan|袁谭]] and [[YuanShang|袁尚]] in rivalry, Guo Tu and [[XinPingLateHan|辛评]] tell Yuan Tan that his adoption out to an elder line and succession disadvantage were Shen Pei's doing. In the episode's sequence, that counsel helps convert the armor dispute and suspicion into direct attack on Yuan Shang.
 
+Hanji 1068 supplies Guo Tu's endpoint in this source chain. After [[CaoCao|曹操]] takes [[NanpiLateHan|南皮]] and Yuan Tan is killed, Cao Cao executes Guo Tu and his household. The episode then retrospectively concentrates blame on Guo Tu: Wuchao misjudgment, slander against Zhang He and Gao Lan, and provocation of Yuan-family infighting are treated as one pattern of factional ambition and self-protective bad counsel.
+
 ## Key Characteristics
 - Yuan Shao-side adviser active in persuasion, elite-camp formation, and high-stakes strategic debate.
 - Constraint-avoidant voice in the emperor-welcome decision, preferring Yuan Shao's freedom of action over imperial-hosting leverage.
@@ -35,7 +38,7 @@ Hanji 1058 adds Guo Tu's post-Guandu factional role. After Yuan Shao's death lea
 - Participant in the power-allocation attack that reduces Ju Shou's command authority.
 - Wuchao response voice whose attack-Cao-camp advice misreads the decisive logistics point.
 - Self-protective blame shifter whose slander helps push Zhang He and Gao Lan into surrender.
-- Post-Yuan Shao factional provoker who deepens Yuan Tan's resentment toward Yuan Shang and Shen Pei.
+- Post-Yuan Shao factional provoker whose Yuan Tan-side role ends with execution after Nanpi.
 
 ## Evidence
 - Jizhou pressure channel: [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] names Guo Tu with [[GaoGanLateHan|高干]], [[XinPingLateHan|辛评]], and [[XunChenLateHan|荀谌]] in the mission that helps turn Han Fu's fear into surrender of Jizhou.
@@ -46,13 +49,15 @@ Hanji 1058 adds Guo Tu's post-Guandu factional role. After Yuan Shao's death lea
 - Wuchao misallocation: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m|Hanji 1049]] contrasts Zhang He's rescue-Wuchao advice with Guo Tu's proposal to attack Cao Cao's camp, after which Yuan Shao sends insufficient force to the decisive depot.
 - Blame-driven defection: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m|Hanji 1049]] says Guo Tu slanders Zhang He after the failed camp attack, prompting Zhang He and Gao Lan to burn equipment and surrender to Cao.
 - Yuan-family provocation: [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] has Guo Tu and Xin Ping tell Yuan Tan that Shen Pei caused his succession disadvantage, helping harden Yuan Tan's break with Yuan Shang.
+- Final punishment and retrospective judgment: [[zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o|Hanji 1068]] says Cao Cao executes Guo Tu and his family after Nanpi, and the host links that outcome to Guo Tu's earlier Wuchao blame-shifting and Yuan-family provocation.
 
 ## Qualifications
-This is not a full biography of Guo Tu. The sources make him legible through selected decision scenes and do not independently audit his whole career. The Guandu and post-Guandu sources criticize his flattering, self-protective, and provocation-oriented choices, but the page keeps that judgment source-scoped rather than making Guo Tu a generic villain.
+This is not a full biography of Guo Tu. The sources make him legible through selected decision scenes and do not independently audit his whole career. The Guandu and post-Guandu sources criticize his flattering, self-protective, and provocation-oriented choices, and Hanji 1068 intensifies the moral verdict after his execution. The page keeps that judgment source-scoped rather than making Guo Tu a generic villain beyond the evidence inventory.
 
 ## What Changed
 - Added Hanji 1058's Yuan Tan-Yuan Shang provocation scene.
 - Extended Guo Tu's profile from Wuchao blame-shifting into post-Yuan Shao faction hardening.
+- Added Hanji 1068's endpoint: execution after Nanpi and the episode's retrospective blame frame.
 - Preserved the existing judgment that Guo Tu is most visible where adviser competition fails to improve Yuan Shao-side decision quality.
 
 ## Relationships
@@ -67,6 +72,8 @@ This is not a full biography of Guo Tu. The sources make him legible through sel
 - [[GaoLanLateHan|高览]] - paired defector whose surrender follows the Guo Tu-Zhang He blame crisis.
 - [[YuanTan|袁谭]] - claimant whose resentment Guo Tu amplifies after Yuan Shao's death.
 - [[YuanShang|袁尚]] - rival whom Guo Tu helps Yuan Tan turn against.
+- [[CaoCao|曹操]] - victor who executes Guo Tu after Nanpi.
+- [[NanpiLateHan|南皮]] - final campaign setting before Guo Tu's execution.
 - [[XinPingLateHan|辛评]] - adviser paired with Guo Tu in the Hanji 1058 provocation.
 - [[SupplyDepotDecisiveStrike|粮草命门打击]] - strategic pattern Guo Tu fails to prioritize when Wuchao is threatened.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - broader pattern in which advice competition does not produce better ruler judgment.

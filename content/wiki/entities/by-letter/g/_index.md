@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 8956
+wiki_total_pages: 8990
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -809,6 +809,9 @@ wiki_pages:
   - key: "GongsunDuLateHan"
     title: "公孙度 / Gongsun Du (late Han)"
     url: "/wiki/entities/gongsundulatehan/"
+  - key: "GongsunKangLateHan"
+    title: "公孙康 / Gongsun Kang (late Han)"
+    url: "/wiki/entities/gongsunkanglatehan/"
   - key: "GongsunHong"
     title: "公孙弘 / Gongsun Hong"
     url: "/wiki/entities/gongsunhong/"
@@ -890,6 +893,9 @@ wiki_pages:
   - key: "GreatWildGoosePagoda"
     title: "大雁塔 / Great Wild Goose Pagoda"
     url: "/wiki/entities/greatwildgoosepagoda/"
+  - key: "GuiLanLateHan"
+    title: "妫览 / Gui Lan (late Han)"
+    url: "/wiki/entities/guilanlatehan/"
   - key: "GuanduCampaign"
     title: "官渡之战 / Guandu Campaign"
     url: "/wiki/entities/guanducampaign/"

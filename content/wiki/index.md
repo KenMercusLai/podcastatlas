@@ -6,6 +6,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP282 不完美的共存：当“野生动物”成为城市“新居民”](sources/ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a.md) — Talk三联 episode on urban wildlife coexistence, feeding feedback loops, Qianling Mountain macaques, Nanjing wild boars, Shanghai raccoon dogs, city planning, animal welfare, and public-health risk.
+- [《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？](sources/zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o.md) — 芮淇讲透资治通鉴 episode on Sun Shao inheriting Sun He's troops, Cao Chun urging a quick Nanpi assault, Yuan Tan's death, Li Fu's city pacification, and Guo Tu's execution.
+- [《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？](sources/zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf.md) — 芮淇讲透资治通鉴 episode on Wang Xiu burying Yuan Tan, protecting Guan Tong, Cao Cao recruiting former Yuan-side talent, and Chen Lin's pardon after the anti-Cao proclamation.
+- [《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操](sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o.md) — 芮淇讲透资治通鉴 episode on Jiao Chu's coerced Cao-side surrender, Han Heng's loyal refusal, Zhang Yan's formal submission, Youzhou/Wuhuan disorder, Gao Gan's renewed rebellion, and Du Ji's Hedong appointment.
+- [《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！](sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho.md) — 芮淇讲透资治通鉴 episode on Sun Yi's Danyang assassination, Lady Xu's staged remarriage trap, Gui Lan and Dai Yuan's deaths, and Sun Quan's punitive cleanup.
+- [《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？](sources/zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft.md) — 芮淇讲透资治通鉴 episode on Qian Zhao blocking Yuan Tan's Wuhuan rescue by confronting Liaodong envoy Han Zhong, rejecting Gongsun Kang's chanyu seal, and forcing Wuhuan to dismiss the envoy and disband five thousand cavalry.
+- [GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal](sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250.md) — All-In episode on frontier AI rollouts, AI market euphoria, agent-security narratives, NYC school AI boundaries, SF housing scarcity, data-center politics, and a source-scoped Venezuela oil concession.
 - [Trump drinks Venezuela's milkshake](sources/trump-drinks-venezuelas-milkshake.md) — Planet Money episode on Venezuela's Trump-era oil reopening, José Ángel Pereira, Apertura, PDVSA underinvestment, Citgo imprisonment, and the foreign-capital-versus-national-control cycle.
 - [《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？](sources/zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc.md) — 芮淇讲透资治通鉴 episode on Cao Cao judging Yuan Shang's relief route, defeating the rescue attempt, showing captured spoils to Ye's defenders, Shen Rong opening the east gate, and Shen Pei's execution.
 - [《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？](sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet.md) — 芮淇讲透资治通鉴 episode on Zhang Yan's Black Mountain alignment with Cao Cao, Cao Cao's moat-and-water siege of Ye, and Li Fu's disguised messenger infiltration.
@@ -1929,8 +1936,30 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Dwarkesh Patel](entities/DwarkeshPatel.md) — Source-scoped media reference cited for the "agent civilizations" framing in the All-In AI-agent narrative discussion.
+- [Qianling Mountain Macaques / 黔灵山猕猴](entities/QianlingMountainMacaques.md) — Urban-park macaque population used by EP282 to connect tourism feeding, habituation, carrying capacity, bites, and relocation uncertainty.
+- [Nanjing Wild Boars / 南京野猪](entities/NanjingWildBoars.md) — Urban and peri-urban boar case where visibility gaps, crop damage, feeding risk, ecological role, and culling controversy intersect.
+- [Shanghai Raccoon Dogs / 上海貉](entities/ShanghaiRaccoonDogs.md) — Residential wildlife case where old-building shelter, garbage, cat food, health signs, and indirect feeding complicate coexistence.
+- [袁熙 / Yuan Xi (late Han)](entities/YuanXiLateHan.md) — Yuan-family Youzhou refuge figure displaced by Jiao Chu and Zhang Nan into Wuhuan dependence.
+- [刘放 / Liu Fang (late Han)](entities/LiuFangLateHan.md) — Yuyang adviser who persuades Wang Song to submit Zhuo commandery to Cao Cao.
+- [王嵩 / Wang Song (late Han)](entities/WangSongLateHan.md) — Zhuo commandery local holder who submits to Cao Cao after Liu Fang's advice.
+- [焦触 / Jiao Chu (late Han)](entities/JiaoChuLateHan.md) — Yuan-side subordinate who attacks Yuan Xi and coerces Youzhou officials into a Cao-side blood oath.
+- [张南 / Zhang Nan (late Han)](entities/ZhangNanLateHan.md) — Late-Han Yuan-side actor paired with Jiao Chu in the Youzhou reversal against Yuan Xi.
+- [韩恒 / Han Heng (late Han)](entities/HanHengLateHan.md) — Loyal refusal figure who declines Jiao Chu's Cao-side oath and is released.
+- [赵独 / Zhao Du (late Han)](entities/ZhaoDuLateHan.md) — Youzhou rebel suppressed by Cao Cao after the surrender wave.
+- [霍奴 / Huo Nu (late Han)](entities/HuoNuLateHan.md) — Youzhou rebel paired with Zhao Du in killing local officials.
+- [杜畿 / Du Ji (late Han)](entities/DuJiLateHan.md) — Xun Yu-recommended administrator appointed to hold Hedong during western instability.
+- [王邑 / Wang Yi (Hedong administrator)](entities/WangYiHedongLateHan.md) — Outgoing Hedong administrator whose handoff to Du Ji becomes contested.
+- [卫固 / Wei Gu (late Han)](entities/WeiGuLateHan.md) — Hedong local actor whose Wang Yi retention request is linked to Gao Gan.
+- [范先 / Fan Xian (late Han)](entities/FanXianLateHan.md) — Hedong zhonglangjiang paired with Wei Gu in the suspicious Wang Yi retention request.
+- [张盛 / Zhang Sheng (late Han)](entities/ZhangShengLateHan.md) — Henei armed actor active around Xiaoshan and Mianchi in the post-Ye instability chain.
+- [张衍 / Zhang Yan (Hedong-Hongnong actor)](entities/ZhangYanHedongLateHan.md) — Hongnong-area actor rising in response to Zhang Sheng, distinct from Black Mountain Zhang Yan.
+- [ChatGPT 6 / Astra](entities/ChatGPT6Astra.md) — Source-scoped OpenAI frontier-model rollout discussed as a near-AGI trigger in the All-In episode.
+- [Instinct Personal AI](entities/InstinctPersonalAI.md) — Personal-AI private beta whose value depends on user-data access and reliable task execution.
+- [North American Blue Energy Partners](entities/NorthAmericanBlueEnergyPartners.md) — Source-scoped Venezuelan oil-concession vehicle named in the All-In episode.
 - [José Ángel Pereira](entities/JoseAngelPereira.md) — Venezuelan oil executive and former Citgo CEO whose career links Apertura, PDVSA renationalization, and geopolitical imprisonment risk.
 - [曹整 / Cao Zheng (late Han)](entities/CaoZhengLateHan.md) — Cao Cao's son used as the marriage tie that temporarily stabilizes Yuan Tan after Cao detects Yuan Tan's secret seal-lure.
+- [曹淳 / Cao Chun (late Han)](entities/CaoChunLateHan.md) — Cao-family cavalry commander whose Nanpi tempo advice and pursuit close Yuan Tan's claimant arc.
 - [贺齐 / He Qi (late Han)](entities/HeQiLateHan.md) — Sun Quan's pacification officer who suppresses Jian'an, Hanxing, and Nanping rebellions, rebuilds county seats, selects troops, and strengthens Jiangdong control.
 - [吕旷 / Lyu Kuang (late Han)](entities/LyuKuangLateHan.md) — Yuan Shang subordinate who defects to Cao Cao and becomes part of Yuan Tan's secret seal-lure episode.
 - [高翔 / Gao Xiang (late Han)](entities/GaoXiangLateHan.md) — Yuan Shang subordinate paired with Lyu Kuang in the defection and seal-lure episode.
@@ -2870,6 +2899,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [舞阴 / Wuyin (late Han)](entities/WuyinLateHan.md) — Nanyang-front place attacked after Huyang in Cao Cao's 197 CE pressure campaign against Zhang Xiu and Liu Biao.
 - [魏种 / Wei Zhong (Late Han)](entities/WeiZhongLateHan.md) — Cao Cao's former recommendee who fled during the Yanzhou crisis but was pardoned and appointed after capture at Shequan.
 - [射犬 / Shequan (Late Han)](entities/ShequanLateHan.md) — Yellow River north-bank site where Cao Cao's campaign against Sui Gu produced surrender, Wei Zhong's capture, and the Aocang pre-Guandu positioning.
+- [牵招 / Qian Zhao (late Han)](entities/QianZhaoLateHan.md) — Cao-side frontier envoy whose public confrontation with Liaodong's Han Zhong prevents Wuhuan cavalry from rescuing Yuan Tan.
+- [公孙康 / Gongsun Kang (late Han)](entities/GongsunKangLateHan.md) — Liaodong successor who sends Han Zhong with a chanyu seal to influence Wuhuan during the Yuan-family collapse.
+- [韩中 / Han Zhong (Liaodong envoy)](entities/HanZhongLiaodongLateHan.md) — Gongsun Kang's Liaodong envoy, kept distinct from the Yellow Turban Han Zhong, whose Wuhuan mission fails after Qian Zhao's public coercion.
 - [田豫 / Tian Yu (Late Han)](entities/TianYuLateHan.md) — Yuyang adviser whose argument for Xianyu Fu's submission reads Cao Cao's emperor-backed legitimacy in Hanji 1032.
 - [蹋顿 / Tadun (Late Han)](entities/TadunLateHan.md) — Wuhuan leader favored by Yuan Shao after Gongsun Zan's fall and tied to the chanyu-seal frontier settlement.
 - [陈简 / Chen Jian (Yuan Shu retainer)](entities/ChenJianYuanShuRetainer.md) — Yuan Shu old retainer who refuses to shelter him during the final collapse.
@@ -3071,7 +3103,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魏觊 / Wei Ji (late Han)](entities/WeiJiLateHan.md) — Hedong official whose Guanzhong plan uses salt revenue, farming tools, oxen, and Sili Xiaowei presence to settle refugees and limit local generals before Guandu.
 - [鲁肃 / Lu Su](entities/LuSu.md) — Future Eastern Wu adviser whose profile runs from leaving Yuan Shu with Zhou Yu to presenting Sun Quan with the Ta Shang Ce two-part Yangtze strategy.
 - [山越 / Shanyue](entities/Shanyue.md) — Mountain-based Jiangdong local-force field that supports resistance and later forces Sun Quan into county-level pacification through officers and He Qi.
-- [孙翊 / Sun Yi (late Han)](entities/SunYiLateHan.md) — Sun-family son named in Hanji 982 and added by Hanji 1028 to Cao Cao's hostage-like court-service leverage over Sun Ce.
+- [孙翊 / Sun Yi (late Han)](entities/SunYiLateHan.md) — Sun-family son later murdered in the Danyang coup, prompting Lady Xu's staged revenge against Gui Lan and Dai Yuan.
+- [徐夫人 / Lady Xu (Sun Yi)](entities/LadyXuSunYi.md) — Sun Yi's wife who uses mourning delay, staged remarriage, and loyalist coordination to avenge his murder; distinct from the Jing Ke dagger-maker Xu Furen.
+- [丹阳郡变 / Danyang Coup (late Han)](entities/DanyangCoupLateHan.md) — Jian'an 9 Danyang assassination-and-revenge event involving Sun Yi, Sun He, Lady Xu, Gui Lan, Dai Yuan, Bian Hong, Sun Gao, and Fu Ying.
+- [妫览 / Gui Lan (late Han)](entities/GuiLanLateHan.md) — Danyang conspirator who helps murder Sun Yi, demands Lady Xu as wife, and is killed in her revenge trap.
+- [戴员 / Dai Yuan (late Han)](entities/DaiYuanLateHan.md) — Gui Lan's Danyang co-conspirator in Sun Yi's murder, killed during Lady Xu's coordinated revenge action.
+- [边鸿 / Bian Hong (late Han)](entities/BianHongLateHan.md) — Sun Yi intimate bought off by Gui Lan and Dai Yuan to carry out the banquet assassination.
+- [孙高 / Sun Gao (late Han)](entities/SunGaoLateHan.md) — Sun Yi loyalist secretly mobilized by Lady Xu and later rewarded by Sun Quan after killing Gui Lan.
+- [傅婴 / Fu Ying (late Han)](entities/FuYingLateHan.md) — Sun Yi loyalist paired with Sun Gao in Lady Xu's room ambush against Gui Lan.
 - [关静 / Guan Jing (Late Han)](entities/GuanJingLateHan.md) — Gongsun Zan adviser whose Yijing warning and final loyalist death expose command trust after the fortress falls.
 - [公孙旭 / Gongsun Xu (Late Han)](entities/GongsunXuLateHan.md) — Gongsun Zan's son sent for Black Mountain help and later tied to the failed fire-signal relief plan at Yijing.
 - [Mark Carney](entities/MarkCarney.md) — Canadian prime minister tied to U.S. tariff response, trade diversification constraints, energy independence, and the Major Projects Office.
@@ -3519,6 +3558,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吴郡 / Wu Commandery (late Han)](entities/WuCommanderyLateHan.md) — Late-Han Jiangdong commandery and Sun-family transition center where Zhou Yu remains with Zhang Zhao after Sun Ce's death.
 - [孙贲 / Sun Ben (late Han)](entities/SunBenLateHan.md) — Sun-family actor who links Danyang recruitment infrastructure to Sun Ce's later Yuzhang administration.
 - [孙河 / Sun He (late Han)](entities/SunHeLateHan.md) — Early Sun Ce companion named with Lu Fan during the Danyang recruitment phase.
+- [孙韶 / Sun Shao (late Han)](entities/SunShaoLateHan.md) — Sun He's young son who gathers remaining troops, defends Jing County, and receives formal command after Sun Quan's readiness test.
 - [陆康 / Lu Kang (late Han)](entities/LuKangLateHan.md) — Clean late-Han official whose Le'an remonstrance against palace-construction taxes precedes his later Lujiang refusal of Yuan Shu's grain demand.
 - [庐江郡 / Lujiang Commandery](entities/LujiangCommandery.md) — Commandery promised to Sun Ce, awarded to Liu Xun, and later exposed when Sun Ce lures Liu Xun out and captures Wan City.
 - [李术 / Li Shu (late Han)](entities/LiShuLateHan.md) — Lujiang administrator whose resistance to Sun Quan ends in the Wan City campaign after Cao Cao declines to rescue him.
@@ -3584,7 +3624,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [臧洪 / Zang Hong](entities/ZangHong.md) — Late-Han official whose 996-997 branch ties old-superior loyalty to failed rescue, East Commandery starvation, final refusal, and emotion-driven political rigidity.
 - [张超 / Zhang Chao (Late Han)](entities/ZhangChaoLateHan.md) — Zang Hong's old Guangling superior, trapped at Yongqiu by Cao Cao, whose death and family destruction become the moral grievance behind Hanji 996-997.
 - [张邈 / Zhang Miao (Late Han)](entities/ZhangMiaoLateHan.md) — Cao Cao's trusted friend turned Yanzhou betrayer, later remembered through Zhang Chao and Zang Hong's failed-rescue grievance.
-- [陈琳 / Chen Lin (Late Han)](entities/ChenLinLateHan.md) — Late-Han adviser and writer who warns He Jin against outside-troop escalation, writes Yuan Shao's Zang Hong persuasion letter, and composes the anti-Cao proclamation before Guandu.
+- [陈琳 / Chen Lin (Late Han)](entities/ChenLinLateHan.md) — Late-Han adviser and writer whose anti-Cao proclamation later becomes a Cao-side talent-conversion case after surrender.
 - [朱治 / Zhu Zhi (Late Han)](entities/ZhuZhiLateHan.md) — Danyang officer in Hanji 996 whose move into Wu shows Jiangdong local authority fragmenting.
 - [严白虎 / Yan Baihu](entities/YanBaihu.md) — Wu-region local strongman who functions as refuge, secondary threat, and defeated remnant in Sun Ce's Jiangdong consolidation.
 - [雍丘 / Yongqiu (Late Han)](entities/YongqiuLateHan.md) — Siege setting where Zhang Chao falls to Cao Cao, triggering Zang Hong's break with Yuan Shao.
@@ -3601,7 +3641,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [阎柔 / Yan Rou](entities/YanRou.md) — Wuhuan sima whose mixed Hu-Han prestige supports anti-Gongsun action, Yuan's northern settlement, and later submission to Cao Cao as Wuhuan commandant.
 - [周丹 / Zhou Dan (Late Han)](entities/ZhouDanLateHan.md) — Gongsun Zan's Yuyang taishou defeated and killed by Yan Rou in the Youzhou backlash.
 - [刘和 / Liu He (Late Han)](entities/LiuHeLateHan.md) — Liu Yu's son welcomed as a banner by the anti-Gongsun coalition.
-- [乌桓 / Wuhuan](entities/Wuhuan.md) — Northern frontier group whose branch now starts with 46 CE pressure against weakened Xiongnu before 49 CE submission, title grants, inside-frontier settlement, protector-office routines, and later recognition-risk or auxiliary roles.
+- [乌桓 / Wuhuan](entities/Wuhuan.md) — Northern frontier group whose branch runs from 46 CE pressure and 49 CE settlement through recognition-risk, auxiliary, coalition, local-order, and Jian'an 9 aid-cancellation roles.
 - [赵苞 / 赵包 / Zhao Bao (Late Han)](entities/ZhaoBaoLateHan.md) — Liaoxi official whose mother and wife become Xianbei hostages in Hanji 910, creating a loyal-minister versus family-rescue dilemma distinct from Warring States Zhao Bao.
 - [鲜卑 / Xianbei](entities/Xianbei.md) — Northern frontier people whose bounded profile now starts as pressure on Northern Xiongnu and a recognition-risk audience before repeated incursions, Zhao Bao's hostage battle, Tanshihuai succession, Liu Yu outreach, and the anti-Gongsun coalition.
 - [檀石槐 / Tanshihuai (Xianbei)](entities/TanshihuaiXianbei.md) — Xianbei leader whose profile spans refusing Han title/marriage recognition, organizing eastern/central/western commands, defeating the 177 CE expedition, hostage pressure, and weaker succession.
@@ -3877,9 +3917,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [洛阳 / Luoyang (late Han)](entities/LuoyangLateHan.md) — Damaged imperial city whose burned palaces, starving officials, weak supplies, and unstable military surroundings make the Xu relocation plausible.
 - [孙静 / Sun Jing (late Han)](entities/SunJingLateHan.md) — Sun Ce's uncle and Kuaiji campaign adviser whose detour-and-rear-attack plan breaks Wang Lang's Guling defense.
 - [袁谭 / Yuan Tan](entities/YuanTan.md) — Yuan Shao son whose Qingzhou base, succession grievance, outside-aid request, and secret seal-lure make him Cao Cao's useful but distrusted wedge against Yuan Shang.
+- [南皮 / Nanpi (late Han)](entities/NanpiLateHan.md) — Yuan Tan's final defensive site, later treated as a post-capture pacification and burial-aftermath setting.
 - [袁尚 / Yuan Shang](entities/YuanShang.md) — Yuan Shao son privately favored and factionally installed, whose rivalry with Yuan Tan turns into retreat, exposed Ye defense, failed relief, and flight under Cao Cao's pressure.
-- [王修 / Wang Xiu (late Han)](entities/WangXiuLateHan.md) — Yuan Tan-side adviser who urges reconciliation with Yuan Shang before the fraternal split hardens.
-- [管统 / Guan Tong (late Han)](entities/GuanTongLateHan.md) — Donglai official whose costly loyalty to Yuan Tan survives a Qingzhou defection wave.
+- [王修 / Wang Xiu (late Han)](entities/WangXiuLateHan.md) — Yuan Tan-side adviser who urges reconciliation, buries Yuan Tan, and protects Guan Tong as a loyal former retainer.
+- [管统 / Guan Tong (late Han)](entities/GuanTongLateHan.md) — Donglai/Le'an official whose costly loyalty to Yuan Tan survives defection, defeat, and Cao-side pardon.
 - [辛毗 / Xin Pi (late Han)](entities/XinPiLateHan.md) — Xin Ping's younger brother and Yuan Tan envoy who persuades Cao Cao to exploit Yuan-family exhaustion through the Hebei opening.
 - [郑玄 / Zheng Xuan](entities/ZhengXuan.md) — Late-Han Confucian scholar honored by Kong Rong, used in Hanji 1007 to separate scholarly prestige from actual governing capacity.
 - [左承祖 / Zuo Chengzu](entities/ZuoChengzu.md) — Beihai adviser whose realistic advice to rely on a stronger power is rejected and punished by Kong Rong.
@@ -10889,6 +10930,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Urban Wildlife Coexistence / 城市野生动物共存](concepts/UrbanWildlifeCoexistence.md) — City-wildlife frame for animals becoming everyday urban neighbors through habitat change, feeding, affection, fear, planning, and public management.
+- [Wildlife Feeding Feedback Loop / 野生动物投喂反馈回路](concepts/WildlifeFeedingFeedbackLoop.md) — Mechanism where intentional or indirect feeding reduces wildlife avoidance and turns care, content, garbage, and pet food into conflict drivers.
+- [Urban Wildlife Conflict Management / 城市野生动物冲突治理](concepts/UrbanWildlifeConflictManagement.md) — Governance frame for bans, enforcement, relocation, contraception, hunting, welfare, public health, and design responses to city wildlife conflict.
+- [降人传令式安民 / Surrendered Local Messenger Pacification](concepts/SurrenderedLocalMessengerPacification.md) — Post-capture order tactic where a surrendered but locally trusted intermediary carries the victor's commands to calm a newly taken city.
+- [忠臣拒降合法性信号 / Loyal Refusal Legitimacy Signal](concepts/LoyalRefusalLegitimacySignal.md) — Pattern where tolerating a loyal refusal during surrender strengthens the victor's legitimacy image.
+- [交通枢纽郡控制 / Transit-Hub Commandery Control](concepts/TransitHubCommanderyControl.md) — Commandery-control problem where route position, local elites, and nearby rebels make governor selection strategic.
+- [Agent Civilization Narrative](concepts/AgentCivilizationNarrative.md) — Anthropomorphic framing of AI-agent security incidents as emergent agent societies, contested by sandbox and operational-security explanations.
+- [Open-Closed AI Market Structure](concepts/OpenClosedAIMarketStructure.md) — AI competition frame between closed frontier labs, open-weight or open-market alternatives, and cheap commodity-capable models.
+- [AI Wealth Housing Scarcity](concepts/AIWealthHousingScarcity.md) — Dynamic where concentrated AI liquidity events collide with scarce high-end housing supply.
+- [Bloom Two Sigma Problem](concepts/BloomTwoSigmaProblem.md) — Education benchmark in which one-on-one tutoring produces large learning gains but is hard to scale without technology.
 - [Oil Reopening Backlash](concepts/OilReopeningBacklash.md) — Cycle where a weakened oil state reopens to foreign capital and technology, then faces legitimacy backlash when terms look unfair, imposed, or sovereignty-threatening.
 - [Healthspan Three Domains](concepts/HealthspanThreeDomains.md) — Longevity frame distinguishing physical, cognitive, and emotional healthspan from lifespan alone.
 - [ApoB Particle Burden](concepts/ApoBParticleBurden.md) — Cardiovascular-risk frame treating ApoB-containing particle count as the causal lipid burden to manage.
@@ -11660,7 +11711,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [派系站队退出资本 / Factional Alignment Exit Capital](concepts/FactionalAlignmentExitCapital.md) — Hanji 1027 workplace frame for reading informal power while building portable professional value and exit options.
 - [骑墙式战略暴露 / Fence-Sitting Strategic Exposure](concepts/FenceSittingStrategicExposure.md) — Wei Xiao and Liu Biao pattern where short-term neutrality becomes exploitable through hostage-only signals, local fissures, external patrons, and envoy loyalty traps.
 - [猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation](concepts/SuspicionDrivenEliteAlienation.md) — Wei Xiao and Liu Biao pattern where insecure handling of adviser exit, duty warnings, and court-facing insiders damages elite confidence.
-- [降敌任用式立威 / Captured Opponent Talent Incorporation](concepts/CapturedOpponentTalentIncorporation.md) — Hanji 1028 pattern where Sun Ce turns captured rivals such as Zu Lang and Taishi Ci into visible proof of authority, restraint, and usable talent.
+- [降敌任用式立威 / Captured Opponent Talent Incorporation](concepts/CapturedOpponentTalentIncorporation.md) — Pattern where victors turn captured or hostile defeated-camp talent into visible proof of authority, restraint, and usable capacity.
 - [Rescue Reciprocity Command Trust / 救援互惠式统帅信任](concepts/RescueReciprocityCommandTrust.md) — Command-trust pattern where actual rescue and recognition make endurance rational, while repeated non-rescue makes later relief brittle.
 - [Trade Diversification Stability Paradox](concepts/TradeDiversificationStabilityParadox.md) — Pattern where escaping dependence on a dominant trade partner first requires enough stability with that partner to attract investment.
 - [Entry-Cohort Labor Market Scarring](concepts/EntryCohortLaborMarketScarring.md) — Long-run wage, pension, and housing damage from entering the workforce during a weak hiring regime.
@@ -11956,7 +12007,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [丧礼化收编 / Mourning-Framed Military Absorption](concepts/MourningFramedMilitaryAbsorption.md) — Hanji 1010 pattern where Liu Biao turns Zhang Ji's death from a victory celebration into mourning language that lets leaderless troops submit without public humiliation.
 - [趁丧不伐 / Mourning Diplomatic Restraint](concepts/MourningDiplomaticRestraint.md) — Hanji 797 norm that rejects attacking a frontier opponent during royal mourning and turns condolence, rebuke, and pardon into statecraft.
 - [保境安民式守成治理 / Defensive Local Governance](concepts/DefensiveLocalGovernance.md) — Hanji 1010 Liu Biao pattern where real local stability, scholar attraction, and ritual restraint protect Jingzhou but do not equal conquest-level strategic capacity.
-- [Desire-Driven Command Exposure / 私欲驱动的统帅暴露](concepts/DesireDrivenCommandExposure.md) — Hanji 1012-1013 Wancheng pattern where private desire, surrendered-force humiliation, subordinate-poaching anxiety, guard disarming, and night attack become one command-security failure.
+- [Desire-Driven Command Exposure / 私欲驱动的统帅暴露](concepts/DesireDrivenCommandExposure.md) — Pattern where private desire distorts command security or access judgment, from Cao Cao's Wancheng exposure to Gui Lan entering Lady Xu's trap.
 - [Wei-Jin Style Cultural Afterlife / 魏晋风度文化后效](concepts/WeiJinStyleCulturalAfterlife.md) — Hanji 1013 bridge from He Yan's Cao-household position to later Wei-Jin elite style, xuanxue, drug use, fragrance, appearance, and qingtan.
 - [Ten Victories and Ten Defeats / 十胜十败论](concepts/TenVictoriesTenDefeats.md) — Hanji 1014 frame comparing Cao Cao and Yuan Shao by leadership system, legitimacy, discipline, talent use, reward/punishment, and military judgment.
 - [Command Discipline Authority / 军法威严](concepts/CommandDisciplineAuthority.md) — Command-law pattern where high-status disobedience, public contempt, or benevolent non-control can erode enforceable military authority.
@@ -12035,7 +12086,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [行势情战略评估 / Xingshiqing Strategic Assessment](concepts/XingshiqingStrategicAssessment.md) — Xun Yue-derived framework for judging strategy by gains/losses, legitimacy windows, geography, situational timing, actor commitments, alliance incentives, local-capacity limits, and historical-fit limits.
 - [Proactive Adviser Initiative / 主动补位式谋臣](concepts/ProactiveAdviserInitiative.md) — Dong Zhao pattern where an adviser recognizes a future patron's bottleneck and acts before formal instruction by joining strategic assessment with calibrated persuasion.
 - [Status Suppression Then Equal Treatment / 先挫锐气后同等厚待](concepts/StatusSuppressionThenEqualTreatment.md) — Liu Bang pattern where a proud defector is first status-lowered, then reassured through equal material treatment.
-- [Irreversible Defection Binding / 断路式策反绑定](concepts/IrreversibleDefectionBinding.md) — Sui He pattern where private persuasion is followed by public exposure and an exit-closing act so a wavering defector cannot quietly return to the old camp.
+- [Irreversible Defection Binding / 断路式策反绑定](concepts/IrreversibleDefectionBinding.md) — Pattern where private or ambiguous alignment is forced into a public no-return signal, from Sui He's envoy-killing case to Qian Zhao's non-killing Wuhuan aid cancellation.
 - [Victory Deterrence Diplomacy / 胜势威慑外交](concepts/VictoryDeterrenceDiplomacy.md) — Pattern where battlefield or regime victory is converted into envoy-backed surrender pressure, from Han Xin's Yan/Qi sequence to Lu Jia's Nanyue mission.
 - [背水一战 / Backwater Battle](concepts/BackwaterBattle.md) — Han Xin's Jingxing battle pattern joining backwater formation, hidden red-flag cavalry, Zhao morale collapse, and later victory-to-diplomacy conversion.
 - [Death-Ground Tactical Preconditions / 死地战术前提](concepts/DeathGroundTacticalPreconditions.md) — Sunzi-style no-retreat tactics work only when intelligence, enemy-choice confirmation, terrain, morale, route pressure, and surprise have made forced commitment usable.
@@ -12353,7 +12404,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Surveillance-Based Ruler Control / 窥察制衡式君术](concepts/SurveillanceBasedRulerControl.md) — Ruler technique based on hidden observation, staged tests, and counterweights rather than open institutional reform.
 - [Post-Coalition Spoils Imbalance / 联军战后利益失衡](concepts/PostCoalitionSpoilsImbalance.md) — Post-victory payoff problem where Qin treats treasure as inadequate and attacks Wei after the anti-Qi coalition.
 - [Crisis Autonomous Marriage / 患难自主婚姻](concepts/CrisisAutonomousMarriage.md) — Relationship pattern where Tian Fazhang and Jun Wang Hou's private crisis bond precedes restored royal marriage.
-- [Retainer Revenge Mobilization / 臣下复仇动员](concepts/RetainerRevengeMobilization.md) — Wang Sun Gu's conversion of subject-duty shame into a public revenge force against Zhuo Chi.
+- [Retainer Revenge Mobilization / 臣下复仇动员](concepts/RetainerRevengeMobilization.md) — Pattern where loyalty to a killed ruler or commander becomes organized revenge, from Wang Sun Gu's public pledge to Lady Xu's covert Sun Gao-Fu Ying ambush.
 - [Loyalty-Collateral Dilemma / 忠义牵连困境](concepts/LoyaltyCollateralDilemma.md) — Pattern where loyalty, duty, refuge, or honor shifts danger onto family, hosts, followers, civilians, or local people.
 - [Xunzian Wangba Three Paths / 荀子王霸三分法](concepts/XunzianWangbaThreePaths.md) — Xunzi-derived framework where ritual-righteous rule becomes kingly rule, credible trust supports hegemony, and profit-first deception leads toward ruin.
 - [Xing'e Theory / 性恶论](concepts/XingETheory.md) — Source-scoped Xunzi human-nature doctrine used to explain why ritual, law, education, and credible institutions are needed for political order.
@@ -12361,7 +12412,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ruler Non-Natural Death Typology / 帝王非命死法类型](concepts/RulerNonNaturalDeathTypology.md) — Source-scoped grouping of ruler deaths by poisoning, strangling, weapons, and starvation, used to preview Qi Min Wang's end.
 - [Moralized War Pretext / 道德化战争借口](concepts/MoralizedWarPretext.md) — Pattern where states convert a target ruler's cruelty reputation into public justification and coordination cover for war.
 - [Vanquished Ruler Reputation Construction / 亡国君污名建构](concepts/VanquishedRulerReputationConstruction.md) — Historiographical caution that defeated rulers' atrocity lists can preserve real violence while also reflecting later enemy, moral, or narrative amplification.
-- [Coalition Fracture Exploitation / 联盟裂缝利用](concepts/CoalitionFractureExploitation.md) — Strategy pattern where a commander or state actor converts allied disunity into separate action, from Bai Qi's Yique sequencing to Guan You's Qiang split and Zhang Huan's later frontier diplomacy.
+- [Coalition Fracture Exploitation / 联盟裂缝利用](concepts/CoalitionFractureExploitation.md) — Strategy pattern where a commander or envoy converts allied disunity into separated action, from Bai Qi's Yique sequencing to Qian Zhao's Wuhuan-Liaodong aid rupture.
 - [Responsibility-Avoidant Killing / 避责式杀害](concepts/ResponsibilityAvoidantKilling.md) — Pattern where actors avoid a direct killing act while deliberately arranging confinement, deprivation, or other conditions that make death predictable.
 - [Partial Abdication Power Split / 退位留权式权力分裂](concepts/PartialAbdicationPowerSplit.md) — Governance failure where an incumbent yields formal title but keeps enough authority to leave command, loyalty, and succession power divided.
 - [Rule-Breaking Abdication / 破坏规则式禅让](concepts/RuleBreakingAbdication.md) — Succession failure where a ruler treats the state as transferable moral capital and hands real authority to a non-dynastic minister.
@@ -15251,7 +15302,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Experimental Failure As Knowledge](concepts/ExperimentalFailureAsKnowledge.md) — Pattern where failed, lucky, or inconclusive experiments still clarify limits when interpreted honestly.
 - [Greek Tragedy](concepts/GreekTragedy.md) — Dramatic and civic form tied to Dionysian ritual, Athenian public education, myth, chorus, restraint, and political reflection.
 - [Tragic Modernity](concepts/TragicModernity.md) — Euripidean pattern where ancient myth feels modern through psychology, moral ambiguity, hero deconstruction, and unresolved endings.
-- [Female Revenge And Political Order](concepts/FemaleRevengeAndPoliticalOrder.md) — Pattern where Medea's revenge exposes real gender injury while destroying family, city, and human relation.
+- [Female Revenge And Political Order](concepts/FemaleRevengeAndPoliticalOrder.md) — Pattern sorting women's revenge by its relation to order, from Medea's anti-political rupture and Corday's assassination to Lady Xu's targeted Danyang restoration.
 - [Sichuan Cuisine / 川菜](concepts/SichuanCuisine.md) — Food system centered on Chengdu, huajiao, street food, markets, offal, texture, learned appetite, and internal technical renewal.
 - [Culinary Grammar](concepts/CulinaryGrammar.md) — Idea that cuisines have learned sensory, social, freshness, texture, etiquette, and restaurant-format rules before fair judgment is possible.
 - [Food Texture Aesthetics](concepts/FoodTextureAesthetics.md) — Mouthfeel-centered food value around crunch, bounce, gelatinousness, tenderness, and other texture categories.

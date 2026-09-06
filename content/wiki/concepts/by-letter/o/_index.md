@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6404
+wiki_total_pages: 6414
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "OpenWeightReleaseBoundary"
     title: "Open Weight Release Boundary"
     url: "/wiki/concepts/openweightreleaseboundary/"
+  - key: "OpenClosedAIMarketStructure"
+    title: "Open-Closed AI Market Structure"
+    url: "/wiki/concepts/openclosedaimarketstructure/"
   - key: "OpenSourceAIDemocratization"
     title: "Open-Source AI Democratization"
     url: "/wiki/concepts/opensourceaidemocratization/"

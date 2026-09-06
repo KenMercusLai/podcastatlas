@@ -1,6 +1,9 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "6dfa974bf238032d37185ab962468f4159fa3b71b3c1e5919c7f138095ee6c16",
+      "d15d79f2729610864208ba297a4a892d589c48a1e42026732d0579b1deb686cb",
+      "3185684dd262b765f009960f1ad8e99033098a66e14a6da3b4565bc239213c78",
       "b892ce8a9243c203d55252e85b64d8fed4e1a22b7cb251fe99d196b7b92609a1",
       "20ffd4e2c9777a972d516c79adc43584f0c18333fc6dce03f70e0f27471a6dc7",
       "91ba8d7c6da0e00c3508fc20994cd1fceca39f376d3b94165e6e3b85215fd831",
@@ -543,11 +546,116 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 541
+    "paragraph_count": 544
   },
-  "overview_commit": "412c537fca588af254471c25fe3bec7d4bfc35bc",
-  "overview_digest": "3c9f59da9bb1206c43200045253188f86610050cd11b58e3dac81766f8f23685",
+  "overview_commit": "a5d941535c807f249abec02d889dec6954bdf99b",
+  "overview_digest": "f8cf33cf7297ea230357600a28685deca8c248a57c9c43c0abcd6b9202740d0f",
   "paragraphs": [
+    {
+      "id": "6dfa974bf238032d37185ab962468f4159fa3b71b3c1e5919c7f138095ee6c16",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a|EP282 不完美的共存：当“野生动物”成为城市“新居民”]], a [[TalkSanlian|Talk三联]] episode on animals becoming city \"new residents\" through [[QianlingMountainMacaques|黔灵山猕猴]], [[NanjingWildBoars|南京野猪]], [[ShanghaiRaccoonDogs|上海貉]], balcony doves, birds, squirrels, and other urban wildlife. It adds [[UrbanWildlifeCoexistence|城市野生动物共存]], [[WildlifeFeedingFeedbackLoop|野生动物投喂反馈回路]], [[UrbanWildlifeConflictManagement|城市野生动物冲突治理]], [[QianlingMountainMacaques|黔灵山猕猴]], [[NanjingWildBoars|南京野猪]], and [[ShanghaiRaccoonDogs|上海貉]], while extending [[UrbanEcology]], [[UrbanEdgeNature]], [[ConservationIntervention]], [[WildReleaseHumanAvoidance]], [[ConservationPublicityGap]], and [[AnimalWelfareAsPublicHealth]]. Its core synthesis is that urban wildlife coexistence is an imperfect public-management problem: feeding, garbage, cat food, tourism, missing predators, fragmented habitat, media attention, public affection, fear, injury, disease risk, animal welfare, and city planning all decide whether ordinary overlap becomes tolerable coexistence or conflict. No settled contradiction is recorded; exact animal counts, disease pathways, culling thresholds, relocation feasibility, and intervention efficacy remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "science-health-and-climate": 2
+      },
+      "wikilinks": [
+        "AnimalWelfareAsPublicHealth",
+        "ConservationIntervention",
+        "ConservationPublicityGap",
+        "NanjingWildBoars",
+        "QianlingMountainMacaques",
+        "ShanghaiRaccoonDogs",
+        "TalkSanlian",
+        "UrbanEcology",
+        "UrbanEdgeNature",
+        "UrbanWildlifeCoexistence",
+        "UrbanWildlifeConflictManagement",
+        "WildReleaseHumanAvoidance",
+        "WildlifeFeedingFeedbackLoop",
+        "ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a"
+      ]
+    },
+    {
+      "id": "d15d79f2729610864208ba297a4a892d589c48a1e42026732d0579b1deb686cb",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode extending the post-[[YeLateHan|邺城]] northern settlement after [[zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft|Hanji 1066]] and the Yuan-family collapse sequence. It adds [[YuanXiLateHan|袁熙]], [[LiuFangLateHan|刘放]], [[WangSongLateHan|王嵩]], [[JiaoChuLateHan|焦触]], [[ZhangNanLateHan|张南]], [[HanHengLateHan|韩恒]], [[ZhaoDuLateHan|赵独]], [[HuoNuLateHan|霍奴]], [[DuJiLateHan|杜畿]], [[WangYiHedongLateHan|王邑]], [[WeiGuLateHan|卫固]], [[FanXianLateHan|范先]], [[ZhangShengLateHan|张盛]], [[ZhangYanHedongLateHan|张衍]], [[LoyalRefusalLegitimacySignal|忠臣拒降合法性信号]], and [[TransitHubCommanderyControl|交通枢纽郡控制]], while extending [[GaoGanLateHan|高干]] and [[ZhangYanLateHan|张燕]]. Its core synthesis is that Cao Cao's Hebei advantage becomes a settlement problem rather than a finished conquest: coercive surrender and loyal refusal shape public legitimacy, Black Mountain capacity is formally absorbed, Youzhou and Wuhuan still require force, and Hedong's route position turns Du Ji's appointment into a test of local elite control. No settled contradiction is recorded; 张南, 张衍, and 王邑 are disambiguated from existing routes, while minor official identities, Kuangping geography, and Cao Cao's image-management motives remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "DuJiLateHan",
+        "FanXianLateHan",
+        "GaoGanLateHan",
+        "HanHengLateHan",
+        "HuoNuLateHan",
+        "JiaoChuLateHan",
+        "LiuFangLateHan",
+        "LoyalRefusalLegitimacySignal",
+        "RuiqiJiangtouZizhiTongjian",
+        "TransitHubCommanderyControl",
+        "WangSongLateHan",
+        "WangYiHedongLateHan",
+        "WeiGuLateHan",
+        "YeLateHan",
+        "YuanXiLateHan",
+        "ZhangNanLateHan",
+        "ZhangShengLateHan",
+        "ZhangYanHedongLateHan",
+        "ZhangYanLateHan",
+        "ZhaoDuLateHan",
+        "zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft",
+        "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o"
+      ]
+    },
+    {
+      "id": "3185684dd262b765f009960f1ad8e99033098a66e14a6da3b4565bc239213c78",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250|GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal]], an [[AllIn|All-In]] episode linking frontier AI claims, market euphoria, agent-security framing, school AI policy, data-center politics, San Francisco asset scarcity, and Venezuelan oil bargaining. It adds [[ChatGPT6Astra|ChatGPT 6 / Astra]], [[InstinctPersonalAI|Instinct Personal AI]], [[NorthAmericanBlueEnergyPartners]], [[AgentCivilizationNarrative]], [[OpenClosedAIMarketStructure]], [[AIWealthHousingScarcity]], and [[BloomTwoSigmaProblem]], while extending [[FrontierModelDuopoly]], [[TechBubbleConditions]], [[LateStagePrivateCompanyValuationRisk]], [[AgentEnvironmentIsolation]], [[SchoolAIBoundaries]], [[HumanCenteredAIEducation]], [[NewYorkCityPublicSchools]], [[ZohranMamdani]], [[OilConcessionBargaining]], and [[OilReopeningBacklash]]. Its core synthesis is that cheaper intelligence, [[Nvidia]] and [[HuggingFace]] as open-model alternatives, agent security, school AI rules, data-center siting, local housing scarcity, and energy access are now interacting policy surfaces rather than separate AI or oil stories. No settled contradiction is recorded; the ChatGPT 6/Astra rollout, Instinct operations, [[OpenAI]]/[[HuggingFace]] incident mechanics, foreign-influence claims, NYC student counts, and [[MariaCorinaMachado]]'s objection to Venezuela deal terms remain source-scoped host claims.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 2,
+        "governance-and-institutions": 2,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "AIWealthHousingScarcity",
+        "AgentCivilizationNarrative",
+        "AgentEnvironmentIsolation",
+        "AllIn",
+        "BloomTwoSigmaProblem",
+        "ChatGPT6Astra",
+        "FrontierModelDuopoly",
+        "HuggingFace",
+        "HumanCenteredAIEducation",
+        "InstinctPersonalAI",
+        "LateStagePrivateCompanyValuationRisk",
+        "MariaCorinaMachado",
+        "NewYorkCityPublicSchools",
+        "NorthAmericanBlueEnergyPartners",
+        "Nvidia",
+        "OilConcessionBargaining",
+        "OilReopeningBacklash",
+        "OpenAI",
+        "OpenClosedAIMarketStructure",
+        "SchoolAIBoundaries",
+        "TechBubbleConditions",
+        "ZohranMamdani",
+        "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250"
+      ]
+    },
     {
       "id": "b892ce8a9243c203d55252e85b64d8fed4e1a22b7cb251fe99d196b7b92609a1",
       "primary_topic": "governance-and-institutions",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6404
+wiki_total_pages: 6414
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1880,6 +1880,9 @@ wiki_pages:
   - key: "StrategicForbearanceGovernance"
     title: "退让留余地式治理 / Strategic Forbearance Governance"
     url: "/wiki/concepts/strategicforbearancegovernance/"
+  - key: "SurrenderedLocalMessengerPacification"
+    title: "降人传令式安民 / Surrendered Local Messenger Pacification"
+    url: "/wiki/concepts/surrenderedlocalmessengerpacification/"
   - key: "StatusDrivenCommandFailure"
     title: "面子驱动的指挥失误 / Status-Driven Command Failure"
     url: "/wiki/concepts/statusdrivencommandfailure/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6404
+wiki_total_pages: 6414
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "WildfireSmokeHealthBurden"
     title: "Wildfire Smoke Health Burden"
     url: "/wiki/concepts/wildfiresmokehealthburden/"
+  - key: "WildlifeFeedingFeedbackLoop"
+    title: "Wildlife Feeding Feedback Loop / 野生动物投喂反馈回路"
+    url: "/wiki/concepts/wildlifefeedingfeedbackloop/"
   - key: "WildlifeTourismSpectacle"
     title: "Wildlife Tourism Spectacle"
     url: "/wiki/concepts/wildlifetourismspectacle/"

@@ -4,43 +4,54 @@ type: entity
 tags: [education, public-schools, new-york-city, ai-policy]
 sources:
   - tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128
-last_updated: 2026-09-04
+  - all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250
+last_updated: 2026-09-05
 knowledge_schema: synthesis-v1
 ---
-
 # New York City Public Schools
 
 ## Overview
-New York City Public Schools is the public school system used in this source as a concrete institutional actor setting classroom boundaries around AI, screen use, grading, and companion chatbots for younger students.
+New York City Public Schools is the public school system used in the bounded sources as a concrete institutional actor setting classroom boundaries around AI, screen use, grading, companion chatbots, and student-facing generative AI access.
 
 ## Current Profile
-In the Marketplace Tech discussion, New York City's policy is important less as a complete national model than as a visible school-system intervention. It tries to separate educational technology that supports instruction from tools that substitute for student work, shape social-emotional attachment, or let automated systems grade students without adequate human judgment.
+New York City Public Schools is now tracked as a high-signal public education actor experimenting with restrictive but not fully prohibitive AI governance. The Marketplace Tech source emphasizes child-safety, teacher judgment, and boundaries around tools that substitute for learning. The All-In episode adds a source-scoped policy update under [[ZohranMamdani]]: a one-year K-8 student-facing generative AI moratorium, high schools exempted, and a 50,000-student high-school AI learning pilot. The system's profile is therefore mixed: it is cautious about younger students while still acknowledging that older students need AI literacy.
 
 ## Key Characteristics
-- The system is presented as a large, high-signal public education actor whose AI policy can influence how technology companies approach schools.
-- Its policy draws age-based boundaries, especially through middle school, around AI access and individual screens.
+- The system is presented as a large public education actor whose AI policy can influence school technology norms.
+- Its policy draws age-based boundaries, especially through middle school and K-8, around AI access and individual screens.
 - It restricts teacher AI use for grading, preserving human responsibility for evaluation.
 - It treats companion chatbots as a distinct child-safety risk rather than ordinary educational software.
-- It still faces an AI-literacy gap because restricting classwork use does not by itself teach students how AI works.
+- It pairs a younger-student moratorium with a high-school AI learning pilot, creating a split between protection and literacy.
+- It still faces an AI-literacy gap because restricting classwork use does not by itself teach students how AI works or when to rely on it.
 
 ## Evidence
-- Policy signal evidence: [[tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128]] says the New York City policy is an important statement that can limit what technology companies distribute inside schools.
-- Age-boundary evidence: [[tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128]] describes limits on AI and some individual screens through middle school.
-- Grading evidence: [[tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128]] says teachers are barred from using AI to grade assignments.
-- Companion-chatbot evidence: [[tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128]] highlights a ban on companionship chatbots as a child-safety boundary.
-- Literacy evidence: [[tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128]] records Stern's uncertainty about how the policy will handle AI-specific education and digital literacy.
+Policy signal and child-safety boundaries:
+- [[tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128]] says the New York City policy is an important statement that can limit what technology companies distribute inside schools.
+- [[tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128]] describes limits on AI and some individual screens through middle school, a no-AI-grading rule for teachers, and a companion-chatbot boundary.
+
+Moratorium and high-school pilot:
+- [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]] says the system has roughly 600,000 affected K-8 students under a one-year student-facing generative AI moratorium.
+- [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]] says high schools are exempt and 50,000 high-school students are part of an AI learning pilot.
+
+Literacy tension:
+- [[tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128]] records uncertainty about AI-specific education and digital literacy.
+- [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]] records concern that literacy language could focus more on risk, bias, ethics, supervision, and vetted tools than on practical fluency.
 
 ## Qualifications
-The source summarizes the policy but does not provide the complete official text, enforcement procedures, grade-by-grade details, vendor rules, or teacher-training plan. It also notes that school rules do not control what children do at home on smartphones, tablets, or other devices.
+The sources summarize policy rather than providing the complete official text, enforcement procedures, vendor rules, teacher-training plan, or outcome evidence. Student counts, high-school pilot numbers, and the exact moratorium scope are source-scoped to the All-In episode until corroborated.
 
 ## What Changed
-- Created the page as a school-system policy node for AI restrictions, grading limits, and companion-chatbot safety.
+- Added the K-8 student-facing generative AI moratorium as the system's latest policy layer.
+- Added the high-school exemption and AI learning pilot.
+- Reframed the profile as a protection-versus-literacy tradeoff rather than only a restriction policy.
 
 ## Relationships
 - [[NewYorkCity]] - municipal setting for the school system.
-- [[SchoolAIBoundaries]] - policy concept the episode grounds through this school system.
+- [[ZohranMamdani]] - mayoral/policy relationship in the All-In source.
+- [[SchoolAIBoundaries]] - policy concept the sources ground through this school system.
 - [[HumanCenteredAIEducation]] - broader education frame that the policy qualifies.
 - [[AIGuidedLearningGuardrails]] - learning-design boundary reinforced by classroom AI limits.
 - [[TeacherAIAugmentation]] - teacher-support concept constrained by the no-AI-grading boundary.
 - [[AICompanionAttentionRisk]] - companion-chatbot concern behind part of the policy.
 - [[TeenChatbotMentalHealthRisk]] - adjacent safety frame for minors using emotionally responsive AI.
+- [[BloomTwoSigmaProblem]] - tutoring benchmark that makes access restrictions educationally consequential.

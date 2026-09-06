@@ -149,20 +149,20 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-09-04",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
-      "source_note_count": 43,
-      "topic_matched_source_note_count": 39,
+      "source_note_count": 44,
+      "topic_matched_source_note_count": 40,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 29
+          "source_note_count": 30
         },
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 16
+          "source_note_count": 17
         },
         {
           "key": "politics",
@@ -236,10 +236,10 @@
         }
       ],
       "start_here_episode_files": [
-        "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
-        "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
+        "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
-        "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md"
+        "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+        "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md"
       ]
     },
     "Data Science With Sam": {
@@ -759,8 +759,8 @@
       "earliest_episode_date": "2025-12-20",
       "latest_episode_date": "2026-09-05",
       "latest_episode_file": "EP282 不完美的共存：当“野生动物”成为城市“新居民” [lg31_8lAjMed4k4MHg5iz7hh8r1a].md",
-      "source_note_count": 46,
-      "topic_matched_source_note_count": 30,
+      "source_note_count": 47,
+      "topic_matched_source_note_count": 31,
       "topics": [
         {
           "key": "technology",
@@ -2598,8 +2598,8 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-09-05",
       "latest_episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
-      "source_note_count": 707,
-      "topic_matched_source_note_count": 309,
+      "source_note_count": 712,
+      "topic_matched_source_note_count": 310,
       "topics": [
         {
           "key": "history",
@@ -2611,7 +2611,7 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 94
+          "source_note_count": 95
         },
         {
           "key": "culture",
@@ -2686,7 +2686,7 @@
       ],
       "start_here_episode_files": [
         "《资治通鉴·汉纪》963丨史上被“点天灯”的第一人，是他！ [lkPkhlpKV3Xpw-hUR4b7SH-3DRUk].md",
-        "《资治通鉴·汉纪》1046丨他凭什么被称作“三国隐藏最深的牛人”？ [liMiqXjqZBK4fTtL8d6Rviqwwe3b].md",
+        "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？ [ll17spcH6X4ZYO61VnO-Oi0lk7fT].md",
         "《资治通鉴·汉纪》911丨古代公务员也能包分配？ [ls3pXu9XlPuulSDaILx8TcoYlv9e].md",
         "《资治通鉴·汉纪》927丨做生意的最高境界是什么？ [lnGFBjN6Xui9K_9LP-IHdQKhpBpR].md"
       ]

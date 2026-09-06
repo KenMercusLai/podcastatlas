@@ -3,18 +3,30 @@
 generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
-last_updated: 2026-09-05
-as_of_overview_commit: 2fec51167606e2621eedeae863e73ff4b16c041b
-input_digest: 83c5a3dd5e90b4ba7d1b3a4fd0768e8bc9a69f7738df0796d5da0bdb4bff7fdf
+last_updated: 2026-09-06
+as_of_overview_commit: d8541a0252f3173cdf81c347ad69909e6a3c8249
+input_digest: 7fad5ba32fcd9566be5a6d9a952738ad8a9b18ed51cb7584bf82b2c665c250d0
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 1063 now completes the Ye-siege relief branch: Cao Cao treats returning-army doctrine as a route-and-resolve test, turns Yuan Shang's flight into spoils proof against Ye, and the city falls through Shen Rong's gate opening while Shen Pei's loyalist death remains source-scoped. Atlantis, Benjamin Lay, Roman Civil War Part 2, African Amazons, and the broader topic still track state formation, war origins, imperial crisis, public memory, legitimacy, infrastructure, and geopolitics as historical systems.
+Hanji 1070 extends the post-Ye northern-settlement branch: Yuan Xi and Yuan Shang flee toward Wuhuan, Jiao Chu and Zhang Nan organize a coerced Youzhou surrender, Han Heng turns loyal refusal into a legitimacy signal, Zhang Yan and the Black Mountain capacity are formally absorbed, Youzhou/Wuhuan violence remains unsettled, and Gao Gan reopens the Bing-Hedong flank where Du Ji becomes the route-control appointment. Hanji 1063 still completes the Ye-siege relief branch, while Atlantis, Benjamin Lay, Roman Civil War Part 2, African Amazons, and the broader topic continue to track state formation, war origins, imperial crisis, public memory, legitimacy, infrastructure, and geopolitics as historical systems.
 
 ## Cross-source Findings
+
+### Late Han 1070 Northern Settlement And Hedong Control
+
+[[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] extends the post-[[YeLateHan|Ye]] northern-settlement branch after [[zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft|Hanji 1066]]: [[YuanXiLateHan]] joins the Yuan-family flight toward Wuhuan, [[JiaoChuLateHan]] and [[ZhangNanLateHan]] turn Youzhou allegiance into a coerced blood-oath cascade, [[HanHengLateHan]] makes loyal refusal a public legitimacy signal, [[ZhangYanLateHan]] is formally absorbed after Black Mountain survival, and [[GaoGanLateHan]] reopens the Bing-Hedong flank where [[DuJiLateHan]] and [[TransitHubCommanderyControl]] become route-security instruments against [[WangYiHedongLateHan]], [[WeiGuLateHan]], and [[FanXianLateHan]] uncertainty.
+
+**Evidence:** [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o]], [[zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft]], [[RuiqiJiangtouZizhiTongjian]], [[YeLateHan]], [[YuanXiLateHan]], [[LiuFangLateHan]], [[WangSongLateHan]], [[JiaoChuLateHan]], [[ZhangNanLateHan]], [[HanHengLateHan]], [[ZhaoDuLateHan]], [[HuoNuLateHan]], [[DuJiLateHan]], [[WangYiHedongLateHan]], [[WeiGuLateHan]], [[FanXianLateHan]], [[ZhangShengLateHan]], [[ZhangYanHedongLateHan]], [[LoyalRefusalLegitimacySignal]], [[TransitHubCommanderyControl]], [[GaoGanLateHan]], [[ZhangYanLateHan]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 1070 as a continuation of the Hanji 1066 Yuan-family collapse and northern-settlement sequence.
+- The source records coercive surrender and loyal refusal without proving every Youzhou official motive or Cao Cao image-management motive.
+- Zhang Nan, Zhang Yan, and Wang Yi are disambiguated through narrow late-Han routes; minor official identities, Kuangping geography, force counts, and Zhang Sheng/Zhang Yan Hedong details remain source-scoped.
 
 ### Atlantis Reception Turns Location Question Into Reusable Origin Machine
 

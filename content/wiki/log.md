@@ -8,6 +8,14 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-06] ingest | EP282 不完美的共存：当“野生动物”成为城市“新居民”
+
+Ingested the 2026-09-05 Talk三联 episode on urban wildlife becoming city "new residents" through Qianling Mountain macaques, Nanjing wild boars, Shanghai raccoon dogs, balcony doves, birds, squirrels, feeding, media attention, city planning, disease risk, animal welfare, and public management. Created source `ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a`, concepts `UrbanWildlifeCoexistence`, `WildlifeFeedingFeedbackLoop`, `UrbanWildlifeConflictManagement`, and case entities `QianlingMountainMacaques`, `NanjingWildBoars`, and `ShanghaiRaccoonDogs`; updated `index`. No settled contradiction found; exact population counts, disease pathways, culling thresholds, and intervention efficacy remain source-scoped.
+
+## [2026-09-06] ingest | 《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？
+
+Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Sun Shao gathering Sun He's remaining troops, Cao Chun urging Cao Cao to finish the deep Nanpi assault, Yuan Tan's flight and death, Li Fu calming the newly captured city through a surrendered local messenger role, and Cao Cao's execution of Guo Tu. Created `zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o`, `CaoChunLateHan`, `SunShaoLateHan`, `NanpiLateHan`, and `SurrenderedLocalMessengerPacification`; updated `YuanTan`, `GuoTu`, `LiFuLateHan`, `SunHeLateHan`, and `index`. No settled contradiction found; the transcript's Nanping/Sun Xuan/Li Fu name forms and Cao Chun battlefield details remain source-scoped.
+
 ## [2026-09-05] ingest | Leverage Dopamine to Overcome Procrastination & Optimize Effort
 
 Ingested the 2023-03-27 Huberman Lab solo episode on dopamine baseline, peaks, troughs, anticipation, reward prediction error, addiction narrowing, baseline maintenance, intrinsic motivation, and procrastination. Created source `leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288` plus `DopaminePeakTroughBaseline`, `RewardPredictionErrorLearning`, `DopamineBaselineMaintenance`, `SafeEffortProcrastinationReset`, and `EffortAsReward`; updated `HubermanLab`, `AndrewHuberman`, `DopamineToolTiming`, `DopamineWantingLoop`, `MotivationRewardEffortCalculation`, `ProcrastinationSelfRegulationFailure`, `ExerciseSelfMasteryForProcrastination`, `MotivationCrowdingOut`, `NeuromodulatorStateToolkit`, `SustainableHealthOptimization`, `index`, and `overview`. No settled contradiction found; addiction recovery, alcohol/opiate withdrawal, prescription stimulants, L-tyrosine, mucuna pruriens, NSDR, cold exposure, and training-timing claims remain source-scoped and medically context-dependent.
@@ -15240,6 +15248,10 @@ Ingested the 2026-09-03 The Intelligence episode on Donald Trump's quieter but s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-06] ingest | 《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？
+
+Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Qian Zhao's Jian'an 9 Wuhuan mission after Yuan-family collapse around Ye. Added source `zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft`; created `QianZhaoLateHan`, `GongsunKangLateHan`, and `HanZhongLiaodongLateHan`; updated `Wuhuan`, `CoalitionFractureExploitation`, `IrreversibleDefectionBinding`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the unnamed Wuhuan leader is not merged with Tadun, and the Liaodong envoy Han Zhong is kept separate from the Yellow Turban Han Zhong page.
+
 ## [2026-09-05] ingest | 《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？
 
 Ingested the 2026-09-04 芮淇讲透资治通鉴 episode on Zhang Yan's Black Mountain alignment with Cao Cao, Cao Cao's moat-and-water siege of Ye, and Li Fu's disguised messenger run into and out of Ye. Added source `zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet`; created `LiFuLateHan`, `MountainBaseStrategicOptionality`, and `AuthorityDisguiseInfiltration`; updated `ZhangYanLateHan`, `HeishanArmy`, `ShenPeiLateHan`, `YuanShang`, `YeLateHan`, `HydraulicSiegeWarfare`, `OfficeBasedRebelIncorporation`, `index`, and `overview`. No settled contradiction found; 夜城/沈佩/李福 are normalized to 邺城/审配/李孚, and the engineering details, starvation scale, Li Fu costume props, Cao Cao's reported reaction, and Zhang Yan title sequence remain source-scoped.
@@ -15403,3 +15415,47 @@ Ingested the 2026-09-05 Planet Money episode on Venezuela's oil reopening, José
 ## [2026-09-05] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 17,282 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-09-02 with 16,930 nodes and 195,431 edges while lint scanned 17,282 pages, so the fragile-bridge finding is advisory until the graph is rebuilt; current graph checks found no hub stubs, one fragile bridge, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; a bounded in-session review of the reported orphan and fragile-bridge endpoint pages found no direct contradiction, with `BobosOatBars` still showing legacy schema/depth drift. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-09-05] ingest | GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal
+
+Ingested the 2026-09-04 All-In episode on ChatGPT 6/Astra claims, AI market euphoria, Instinct personal AI, agent-security narratives, open-versus-closed AI markets, San Francisco AI wealth and housing scarcity, data-center politics, New York City school AI boundaries, and a source-scoped Venezuelan oil concession. Added source `all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250`; created `ChatGPT6Astra`, `InstinctPersonalAI`, `NorthAmericanBlueEnergyPartners`, `AgentCivilizationNarrative`, `OpenClosedAIMarketStructure`, `AIWealthHousingScarcity`, and `BloomTwoSigmaProblem`; updated `AgentEnvironmentIsolation`, `FrontierModelDuopoly`, `TechBubbleConditions`, `LateStagePrivateCompanyValuationRisk`, `SchoolAIBoundaries`, `NewYorkCityPublicSchools`, `HumanCenteredAIEducation`, `ZohranMamdani`, `OilConcessionBargaining`, `OilReopeningBacklash`, `index`, and `overview`. No settled contradiction found; the ChatGPT 6/Astra rollout, Instinct implementation, OpenAI/Hugging Face incident mechanics, foreign-influence claims around data-center opposition, New York City counts, and Venezuela deal terms remain source-scoped.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-06] ingest | 《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？
+
+Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Wang Xiu burying Yuan Tan after defeat, protecting Guan Tong as a loyal former retainer, Cao Cao recruiting former Yuan-side regional talent, and Chen Lin surrendering after the anti-Cao proclamation. Added source `zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf`; updated `ChenLinLateHan`, `WangXiuLateHan`, `GuanTongLateHan`, `CapturedOpponentTalentIncorporation`, and `index`. No settled contradiction found; the leadership "three degrees" frame, Wang Xiu's act as political performance, and Cao Cao's motives in pardon and appointment remain source-scoped.
+
+## [2026-09-06] ingest | 《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！
+
+Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Sun Yi's Danyang assassination, Lady Xu's staged remarriage trap, Sun Gao and Fu Ying's loyalist ambush, Gui Lan and Dai Yuan's deaths, and Sun Quan's subsequent punitive cleanup. Added source `zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho`; created `LadyXuSunYi`, `GuiLanLateHan`, `DaiYuanLateHan`, `BianHongLateHan`, `SunGaoLateHan`, `FuYingLateHan`, and `DanyangCoupLateHan`; updated `SunYiLateHan`, `SunHeLateHan`, `DesireDrivenCommandExposure`, `FemaleRevengeAndPoliticalOrder`, `RetainerRevengeMobilization`, `index`, and `overview`. No settled contradiction found; transcript spellings 孙逸/归岚/代元/边红/傅英 are normalized to 孙翊/妫览/戴员/边鸿/傅婴 as source-scoped variants.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-06] ingest | 《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操
+
+Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Yuan Xi and Yuan Shang fleeing toward Wuhuan, Jiao Chu and Zhang Nan coercing Youzhou officials into a Cao-side blood oath, Han Heng refusing the oath, Zhang Yan's formal Black Mountain surrender, Youzhou/Wuhuan instability, Gao Gan's renewed Bingzhou rebellion, and Xun Yu recommending Du Ji for Hedong. Added source `zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o`; created `YuanXiLateHan`, `LiuFangLateHan`, `WangSongLateHan`, `JiaoChuLateHan`, `ZhangNanLateHan`, `HanHengLateHan`, `ZhaoDuLateHan`, `HuoNuLateHan`, `DuJiLateHan`, `WangYiHedongLateHan`, `WeiGuLateHan`, `FanXianLateHan`, `ZhangShengLateHan`, `ZhangYanHedongLateHan`, `LoyalRefusalLegitimacySignal`, and `TransitHubCommanderyControl`; updated `GaoGanLateHan`, `ZhangYanLateHan`, and `index`. No settled contradiction found; 张南/张衍/王邑 are disambiguated from existing routes, and minor official identities, Kuangping geography, and motive readings remain source-scoped.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

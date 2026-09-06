@@ -2016,6 +2016,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/aivoicecloningrights/"
     },
+    "AIWealthHousingScarcity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/aiwealthhousingscarcity/"
+    },
     "AShareAuctionPricing": {
       "episode_count": 1,
       "show_count": 1,
@@ -2659,6 +2675,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/afrikaners/"
     },
+    "AgentCivilizationNarrative": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/agentcivilizationnarrative/"
+    },
     "AgentCommandCenter": {
       "episode_count": 1,
       "show_count": 1,
@@ -2690,6 +2722,29 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/agententrypoint/"
+    },
+    "AgentEnvironmentIsolation": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
+          "key": "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1",
+          "show": "晚点聊 LateTalk",
+          "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+          "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/agentenvironmentisolation/"
     },
     "AgentPaymentInfrastructure": {
       "episode_count": 3,
@@ -6266,6 +6321,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/bexleynaturalmarket/"
     },
+    "BianHongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！ [lqC9lVeVe1_DCayvUtDhx4AH3lHo].md",
+          "key": "zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/bianhonglatehan/"
+    },
     "BianquHydraulicGovernance": {
       "episode_count": 1,
       "show_count": 1,
@@ -6581,6 +6652,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/bloodysunday/"
+    },
+    "BloomTwoSigmaProblem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/bloomtwosigmaproblem/"
     },
     "BoRongLateHan": {
       "episode_count": 3,
@@ -7981,6 +8068,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/caobaoeasternhan/"
     },
+    "CaoChunLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？ [llebQJK-Dz18AJvgcjkUt7-QhA1o].md",
+          "key": "zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/caochunlatehan/"
+    },
     "CaoFengLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -8358,6 +8461,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/captivesubmissionresidualloyalty/"
+    },
+    "CapturedOpponentTalentIncorporation": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
+          "key": "zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
+          "key": "zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？ [lh9UzRZKGCAZ45H_WinqUox_7JXF].md",
+          "key": "zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/capturedopponenttalentincorporation/"
     },
     "CapuchinCrypt": {
       "episode_count": 1,
@@ -8763,6 +8896,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/characterreadingdelegationtrust/"
     },
+    "ChatGPT6Astra": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/chatgpt6astra/"
+    },
     "CheNiuChanyu": {
       "episode_count": 1,
       "show_count": 1,
@@ -9060,9 +9209,9 @@
       "url": "/wiki/entities/chenjuneasternhan/"
     },
     "ChenLinLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》944丨想在乱世中存活，先管住嘴 [lp7OmIak9MPCIGrJ4F1NUMmFwnTr].md",
@@ -9091,9 +9240,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1043丨袁绍痛骂曹操，竟治好了他的偏头疼？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？ [lh9UzRZKGCAZ45H_WinqUox_7JXF].md",
+          "key": "zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-06",
       "url": "/wiki/entities/chenlinlatehan/"
     },
     "ChenQiuLateHan": {
@@ -10443,9 +10599,9 @@
       "url": "/wiki/concepts/cloudsegmentrevenuedisclosure/"
     },
     "CoalitionFractureExploitation": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》67丨战国“灭霸”白起的军事才能究竟如何 [ljw0lLToWxd4qZ75V-wcNlKwQSkv].md",
@@ -10474,9 +10630,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》768丨历史告诉你：嫉妒是杀心！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？ [ll17spcH6X4ZYO61VnO-Oi0lk7fT].md",
+          "key": "zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-06",
       "url": "/wiki/concepts/coalitionfractureexploitation/"
     },
     "Codex": {
@@ -12798,6 +12961,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/dailianglatehan/"
     },
+    "DaiYuanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！ [lqC9lVeVe1_DCayvUtDhx4AH3lHo].md",
+          "key": "zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/daiyuanlatehan/"
+    },
     "DairyCategoryPremiumization": {
       "episode_count": 1,
       "show_count": 1,
@@ -12861,6 +13040,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/dangerousknowledgesecrecy/"
+    },
+    "DanyangCoupLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！ [lqC9lVeVe1_DCayvUtDhx4AH3lHo].md",
+          "key": "zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/danyangcouplatehan/"
     },
     "DarcyRaisedNutrition": {
       "episode_count": 1,
@@ -14258,6 +14453,36 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/desirabledifficulty/"
     },
+    "DesireDrivenCommandExposure": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事 [llvRUCIhUV2bUvp1-lISZ4uSBPrh].md",
+          "key": "zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？ [lhe6jrPJP3cfbdhvJTdIeziJfnOH].md",
+          "key": "zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！ [lqC9lVeVe1_DCayvUtDhx4AH3lHo].md",
+          "key": "zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/desiredrivencommandexposure/"
+    },
     "DeterministicDataAgentValidation": {
       "episode_count": 1,
       "show_count": 1,
@@ -15609,6 +15834,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/dugenlatehan/"
     },
+    "DuJiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/dujilatehan/"
+    },
     "DuJigongLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -16150,6 +16391,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/dutianaccountabilityeasternhan/"
+    },
+    "DwarkeshPatel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/dwarkeshpatel/"
     },
     "DynasticClaimNationalMobilization": {
       "episode_count": 1,
@@ -19953,6 +20210,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/fantiaoeasternhan/"
     },
+    "FanXianLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/fanxianlatehan/"
+    },
     "FanYingLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -20405,6 +20678,43 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/femalereligiouslifespace/"
+    },
+    "FemaleRevengeAndPoliticalOrder": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "67.美狄亚：古希腊秦香莲的复仇及其现代性 [662400556].md",
+          "key": "67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556",
+          "show": "蜜獾吃书",
+          "title": "67.美狄亚：古希腊秦香莲的复仇及其现代性",
+          "url": "/wiki/sources/67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556/"
+        },
+        {
+          "episode_file": "117.诅咒兔：怪谈文学也要上桌吃饭 [766574341].md",
+          "key": "117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341",
+          "show": "蜜獾吃书",
+          "title": "117.诅咒兔：怪谈文学也要上桌吃饭",
+          "url": "/wiki/sources/117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341/"
+        },
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！ [lqC9lVeVe1_DCayvUtDhx4AH3lHo].md",
+          "key": "zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/femalerevengeandpoliticalorder/"
     },
     "FemaleUrologicalHealthMisconceptions": {
       "episode_count": 1,
@@ -22555,6 +22865,36 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/frontierconscriptionbackfire/"
     },
+    "FrontierModelDuopoly": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs： SLOW DOWN AI, Mamdani's Grocery Stores [42282790].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI [42362555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/frontiermodelduopoly/"
+    },
     "FrontierModelVerifiedAccess": {
       "episode_count": 1,
       "show_count": 1,
@@ -22886,6 +23226,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/furonglatehan/"
+    },
+    "FuYingLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！ [lqC9lVeVe1_DCayvUtDhx4AH3lHo].md",
+          "key": "zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/fuyinglatehan/"
     },
     "FuYuEasternHan": {
       "episode_count": 1,
@@ -23445,6 +23801,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/gaofanlatehan/"
+    },
+    "GaoGanLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？ [lphEE8cJ_7GcMG-CyNpIPHJVaUuF].md",
+          "key": "zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/gaoganlatehan/"
     },
     "GaoJunEasternHan": {
       "episode_count": 2,
@@ -24728,6 +25107,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/goldjewelryvalueperceptionrisk/"
     },
+    "GongsunKangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？ [ll17spcH6X4ZYO61VnO-Oi0lk7fT].md",
+          "key": "zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/gongsunkanglatehan/"
+    },
     "GongsunShuEasternHan": {
       "episode_count": 10,
       "show_count": 1,
@@ -25305,9 +25700,9 @@
       "url": "/wiki/entities/guanjinglatehan/"
     },
     "GuanTongLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
@@ -25315,9 +25710,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？ [lh9UzRZKGCAZ45H_WinqUox_7JXF].md",
+          "key": "zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-06",
       "url": "/wiki/entities/guantonglatehan/"
     },
     "GuanYouLateHan": {
@@ -25497,6 +25899,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/guaranteedhomedeliverycrisis/"
+    },
+    "GuiLanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！ [lqC9lVeVe1_DCayvUtDhx4AH3lHo].md",
+          "key": "zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/guilanlatehan/"
     },
     "GuideRobotDogs": {
       "episode_count": 1,
@@ -25845,9 +26263,9 @@
       "url": "/wiki/entities/guotailatehan/"
     },
     "GuoTu": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？ [lphEE8cJ_7GcMG-CyNpIPHJVaUuF].md",
@@ -25897,9 +26315,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？ [llebQJK-Dz18AJvgcjkUt7-QhA1o].md",
+          "key": "zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-06",
       "url": "/wiki/entities/guotu/"
     },
     "GuoYiLateHan": {
@@ -26149,6 +26574,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/hanfanlatehan/"
+    },
+    "HanHengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/hanhenglatehan/"
     },
     "HanLengEasternHan": {
       "episode_count": 3,
@@ -26424,6 +26865,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/hanxiongnuheqinpolicy/"
+    },
+    "HanZhongLiaodongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？ [ll17spcH6X4ZYO61VnO-Oi0lk7fT].md",
+          "key": "zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/hanzhongliaodonglatehan/"
     },
     "HanyangCommanderyLateHan": {
       "episode_count": 3,
@@ -28798,9 +29255,9 @@
       "url": "/wiki/concepts/humancenteredaiaugmentation/"
     },
     "HumanCenteredAIEducation": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "2D9F56B455380537845C7BFE321174F4~8584437_2026-08-10-210237-8787-0-0-10.128 [2D9F56B455380537845C7BFE321174F4~8584437_2026-08-10-210237-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8384b0].md",
@@ -28829,9 +29286,16 @@
           "show": "Huberman Lab",
           "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
           "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/humancenteredaieducation/"
     },
     "HumanCommunityDataLicensing": {
@@ -29101,6 +29565,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/hundredyearswar/"
+    },
+    "HuoNuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/huonulatehan/"
     },
     "HuoXuLateHan": {
       "episode_count": 1,
@@ -30044,6 +30524,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/insectbitedermatitis/"
     },
+    "InstinctPersonalAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/instinctpersonalai/"
+    },
     "InstitutionalPolicyPluralism": {
       "episode_count": 1,
       "show_count": 1,
@@ -30809,9 +31305,9 @@
       "url": "/wiki/concepts/iransanctions/"
     },
     "IrreversibleDefectionBinding": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》158｜口才好的天花板，一人顶百万大军 [lnUp_Vmw_ff-NQmuh6-x8SI0k8zU].md",
@@ -30826,9 +31322,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？ [ll17spcH6X4ZYO61VnO-Oi0lk7fT].md",
+          "key": "zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-06",
       "url": "/wiki/concepts/irreversibledefectionbinding/"
     },
     "IsabellaOfFrance": {
@@ -31523,6 +32026,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/jiangyuliangdoctor/"
+    },
+    "JiaoChuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/jiaochulatehan/"
     },
     "JiaoZhongShuleKing": {
       "episode_count": 1,
@@ -33186,6 +33705,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/ladywusunjian/"
     },
+    "LadyXuSunYi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！ [lqC9lVeVe1_DCayvUtDhx4AH3lHo].md",
+          "key": "zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/ladyxusunyi/"
+    },
     "Laestrygonians": {
       "episode_count": 1,
       "show_count": 1,
@@ -33470,6 +34005,36 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/lateromanrepubliccrisis/"
+    },
+    "LateStagePrivateCompanyValuationRisk": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal [41706545].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside the Private Stock Market Boom： SpaceX, Anthropic, OpenAI & the Rise of Secondaries [41564170].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/latestageprivatecompanyvaluationrisk/"
     },
     "LatentMoE": {
       "episode_count": 1,
@@ -33894,9 +34459,9 @@
       "url": "/wiki/entities/lidulatehan/"
     },
     "LiFuLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？ [lvkHmEzD68kEy-p-KUP55ZYpBjET].md",
@@ -33904,9 +34469,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？ [llebQJK-Dz18AJvgcjkUt7-QhA1o].md",
+          "key": "zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-06",
       "url": "/wiki/entities/lifulatehan/"
     },
     "LiGaoRunanLateHan": {
@@ -35563,6 +36135,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/liudulatehan/"
+    },
+    "LiuFangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/liufanglatehan/"
     },
     "LiuFuLateHan": {
       "episode_count": 1,
@@ -37612,6 +38200,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/loyalrebellion/"
+    },
+    "LoyalRefusalLegitimacySignal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/loyalrefusallegitimacysignal/"
     },
     "LoyaltyCollateralDilemma": {
       "episode_count": 7,
@@ -42131,6 +42735,45 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/nandos/"
     },
+    "NanjingWildBoars": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP282 不完美的共存：当“野生动物”成为城市“新居民” [lg31_8lAjMed4k4MHg5iz7hh8r1a].md",
+          "key": "ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a",
+          "show": "Talk三联",
+          "title": "EP282 不完美的共存：当“野生动物”成为城市“新居民”",
+          "url": "/wiki/sources/ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/nanjingwildboars/"
+    },
+    "NanpiLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？ [llebQJK-Dz18AJvgcjkUt7-QhA1o].md",
+          "key": "zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？ [lh9UzRZKGCAZ45H_WinqUox_7JXF].md",
+          "key": "zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/nanpilatehan/"
+    },
     "NatalieStokel": {
       "episode_count": 1,
       "show_count": 1,
@@ -42500,9 +43143,9 @@
       "url": "/wiki/concepts/newgoldenagescienceagenda/"
     },
     "NewYorkCityPublicSchools": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260904_0904_MP_TECH_pod_128 [tech_20260904_0904_MP_TECH_pod_128].md",
@@ -42510,9 +43153,16 @@
           "show": "Marketplace Tech",
           "title": "NYC public schools ban AI through middle school",
           "url": "/wiki/sources/tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/newyorkcitypublicschools/"
     },
     "NewYorkMagazine": {
@@ -43046,6 +43696,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/normanconquestofengland/"
+    },
+    "NorthAmericanBlueEnergyPartners": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/entities/northamericanblueenergypartners/"
     },
     "NortheastModernityTestSite": {
       "episode_count": 1,
@@ -43632,9 +44298,9 @@
       "url": "/wiki/concepts/officialsalaryextractionrisk/"
     },
     "OilConcessionBargaining": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586 [default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586].md",
@@ -43649,6 +44315,13 @@
           "show": "Planet Money",
           "title": "Trump drinks Venezuela's milkshake",
           "url": "/wiki/sources/trump-drinks-venezuelas-milkshake/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
         }
       ],
       "updated": "2026-09-05",
@@ -43678,9 +44351,9 @@
       "url": "/wiki/concepts/oilnationalization/"
     },
     "OilReopeningBacklash": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098 [default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098].md",
@@ -43688,6 +44361,13 @@
           "show": "Planet Money",
           "title": "Trump drinks Venezuela's milkshake",
           "url": "/wiki/sources/trump-drinks-venezuelas-milkshake/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
         }
       ],
       "updated": "2026-09-05",
@@ -43994,6 +44674,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/onitsukatiger/"
+    },
+    "OpenClosedAIMarketStructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/openclosedaimarketstructure/"
     },
     "OpenCrawl": {
       "episode_count": 1,
@@ -48540,6 +49236,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/qixiangdong/"
     },
+    "QianZhaoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？ [ll17spcH6X4ZYO61VnO-Oi0lk7fT].md",
+          "key": "zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/qianzhaolatehan/"
+    },
     "QiangHuaEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -48571,6 +49283,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/qiangofficialabuserebelliontrigger/"
+    },
+    "QianlingMountainMacaques": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP282 不完美的共存：当“野生动物”成为城市“新居民” [lg31_8lAjMed4k4MHg5iz7hh8r1a].md",
+          "key": "ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a",
+          "show": "Talk三联",
+          "title": "EP282 不完美的共存：当“野生动物”成为城市“新居民”",
+          "url": "/wiki/sources/ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/qianlingmountainmacaques/"
     },
     "QiaoXuanLateHan": {
       "episode_count": 5,
@@ -50604,6 +51332,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/restaurantsupplychainlocalization/"
     },
+    "RetainerRevengeMobilization": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》73丨历史上自由恋爱的开创者是谁？ [lkumfSFialQGDL6QPb3C_hnz7H9U].md",
+          "key": "zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》73丨历史上自由恋爱的开创者是谁？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！ [lqC9lVeVe1_DCayvUtDhx4AH3lHo].md",
+          "key": "zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/retainerrevengemobilization/"
+    },
     "RetaliatoryPoliticalTerror": {
       "episode_count": 6,
       "show_count": 1,
@@ -52226,9 +52977,9 @@
       "url": "/wiki/concepts/scholarofficialpublicduty/"
     },
     "SchoolAIBoundaries": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260904_0904_MP_TECH_pod_128 [tech_20260904_0904_MP_TECH_pod_128].md",
@@ -52236,9 +52987,16 @@
           "show": "Marketplace Tech",
           "title": "NYC public schools ban AI through middle school",
           "url": "/wiki/sources/tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url": "/wiki/concepts/schoolaiboundaries/"
     },
     "ScienceCommunicationTrustRepair": {
@@ -53069,6 +53827,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/shangxiabanchang/"
+    },
+    "ShanghaiRaccoonDogs": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP282 不完美的共存：当“野生动物”成为城市“新居民” [lg31_8lAjMed4k4MHg5iz7hh8r1a].md",
+          "key": "ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a",
+          "show": "Talk三联",
+          "title": "EP282 不完美的共存：当“野生动物”成为城市“新居民”",
+          "url": "/wiki/sources/ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/shanghairaccoondogs/"
     },
     "ShangshuTaiImperialAccess": {
       "episode_count": 3,
@@ -56576,6 +57350,52 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/sunfulatehan/"
     },
+    "SunGaoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！ [lqC9lVeVe1_DCayvUtDhx4AH3lHo].md",
+          "key": "zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/sungaolatehan/"
+    },
+    "SunHeLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板 [lkNR2zyDwjYTjo7Od_rT3Zi_4k_s].md",
+          "key": "zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！ [lqC9lVeVe1_DCayvUtDhx4AH3lHo].md",
+          "key": "zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？ [llebQJK-Dz18AJvgcjkUt7-QhA1o].md",
+          "key": "zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/sunhelatehan/"
+    },
     "SunQuan": {
       "episode_count": 7,
       "show_count": 1,
@@ -56633,6 +57453,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/sunquan/"
+    },
+    "SunShaoLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？ [llebQJK-Dz18AJvgcjkUt7-QhA1o].md",
+          "key": "zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/sunshaolatehan/"
     },
     "SunShengEasternJin": {
       "episode_count": 1,
@@ -56695,6 +57531,36 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/sunsonglatehan/"
+    },
+    "SunYiLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
+          "key": "zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争 [ljAjdC95XTyLHkn5TeEFz26Yyyz1].md",
+          "key": "zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！ [lqC9lVeVe1_DCayvUtDhx4AH3lHo].md",
+          "key": "zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/sunyilatehan/"
     },
     "SunYutao": {
       "episode_count": 1,
@@ -56853,6 +57719,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/surrendertrustbreakdown/"
+    },
+    "SurrenderedLocalMessengerPacification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？ [llebQJK-Dz18AJvgcjkUt7-QhA1o].md",
+          "key": "zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/surrenderedlocalmessengerpacification/"
     },
     "Sushiro": {
       "episode_count": 3,
@@ -57833,6 +58715,36 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/teamagentmemory/"
+    },
+    "TechBubbleConditions": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside the Private Stock Market Boom： SpaceX, Anthropic, OpenAI & the Rise of Secondaries [41564170].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170/"
+        },
+        {
+          "episode_file": "tech_20260130_0130_MP_TECH_pod_128 [tech_20260130_0130_MP_TECH_pod_128].md",
+          "key": "tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Are we in an AI bubble?",
+          "url": "/wiki/sources/tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
+        }
+      ],
+      "updated": "2026-09-05",
+      "url": "/wiki/concepts/techbubbleconditions/"
     },
     "TechnicalLeadershipForTechnologyCompanies": {
       "episode_count": 1,
@@ -59507,6 +60419,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/transmountainexpansion/"
     },
+    "TransitHubCommanderyControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/transithubcommanderycontrol/"
+    },
     "TransportRouteBurdenRelief": {
       "episode_count": 1,
       "show_count": 1,
@@ -60595,6 +61523,38 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/uplane/"
+    },
+    "UrbanWildlifeCoexistence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP282 不完美的共存：当“野生动物”成为城市“新居民” [lg31_8lAjMed4k4MHg5iz7hh8r1a].md",
+          "key": "ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a",
+          "show": "Talk三联",
+          "title": "EP282 不完美的共存：当“野生动物”成为城市“新居民”",
+          "url": "/wiki/sources/ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/urbanwildlifecoexistence/"
+    },
+    "UrbanWildlifeConflictManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP282 不完美的共存：当“野生动物”成为城市“新居民” [lg31_8lAjMed4k4MHg5iz7hh8r1a].md",
+          "key": "ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a",
+          "show": "Talk三联",
+          "title": "EP282 不完美的共存：当“野生动物”成为城市“新居民”",
+          "url": "/wiki/sources/ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/urbanwildlifeconflictmanagement/"
     },
     "UrinaryTractInfectionBehaviorBoundary": {
       "episode_count": 1,
@@ -61809,6 +62769,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/wangshengpalaceactorlatehan/"
     },
+    "WangSongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/wangsonglatehan/"
+    },
     "WangSuEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -61842,9 +62818,9 @@
       "url": "/wiki/entities/wangtiaoligustudent/"
     },
     "WangXiuLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
@@ -61852,10 +62828,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？ [lh9UzRZKGCAZ45H_WinqUox_7JXF].md",
+          "key": "zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-06",
       "url": "/wiki/entities/wangxiulatehan/"
+    },
+    "WangYiHedongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/wangyihedonglatehan/"
     },
     "WangYuanWeiXiaoRetainer": {
       "episode_count": 1,
@@ -62138,6 +63137,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/weibiaoeasternhan/"
+    },
+    "WeiGuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/weigulatehan/"
     },
     "WeiHuanLateHan": {
       "episode_count": 1,
@@ -62683,6 +63698,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/widgeryinquiry/"
+    },
+    "WildlifeFeedingFeedbackLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP282 不完美的共存：当“野生动物”成为城市“新居民” [lg31_8lAjMed4k4MHg5iz7hh8r1a].md",
+          "key": "ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a",
+          "show": "Talk三联",
+          "title": "EP282 不完美的共存：当“野生动物”成为城市“新居民”",
+          "url": "/wiki/sources/ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/wildlifefeedingfeedbackloop/"
     },
     "WillExposurePractice": {
       "episode_count": 1,
@@ -63456,9 +64487,9 @@
       "url": "/wiki/concepts/wugupoliticalpanic/"
     },
     "Wuhuan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱 [lnlNrkETgFbADHFJbZDJjtrMQFsH].md",
@@ -63515,9 +64546,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？ [ll17spcH6X4ZYO61VnO-Oi0lk7fT].md",
+          "key": "zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-06",
       "url": "/wiki/entities/wuhuan/"
     },
     "WuhuanProtectorateInstitutionalization": {
@@ -66792,9 +67830,9 @@
       "url": "/wiki/entities/yuanshang/"
     },
     "YuanTan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
@@ -66851,10 +67889,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？ [llebQJK-Dz18AJvgcjkUt7-QhA1o].md",
+          "key": "zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-06",
       "url": "/wiki/entities/yuantan/"
+    },
+    "YuanXiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/yuanxilatehan/"
     },
     "YuanYinLateHan": {
       "episode_count": 2,
@@ -67793,6 +68854,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhangmulatehan/"
     },
+    "ZhangNanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/zhangnanlatehan/"
+    },
     "ZhangPanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -67876,6 +68953,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhangqiaolatehan/"
     },
+    "ZhangShengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/zhangshenglatehan/"
+    },
     "ZhangShuoLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -67943,10 +69036,26 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangxiu/"
     },
-    "ZhangYanLateHan": {
-      "episode_count": 4,
+    "ZhangYanHedongLateHan": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/zhangyanhedonglatehan/"
+    },
+    "ZhangYanLateHan": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》932丨为什么人越好，越难当大官？ [lvwZeL782wCxS1lPt3Rg2vmKdy29].md",
@@ -67975,9 +69084,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-06",
       "url": "/wiki/entities/zhangyanlatehan/"
     },
     "ZhangYiEasternHan": {
@@ -68165,6 +69281,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/zhaodoctorurology/"
+    },
+    "ZhaoDuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
+          "key": "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/zhaodulatehan/"
     },
     "ZhaoJinLateHan": {
       "episode_count": 1,
@@ -69820,9 +70952,9 @@
       "url": "/wiki/entities/zimieasternhan/"
     },
     "ZohranMamdani": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs： SLOW DOWN AI, Mamdani's Grocery Stores [42282790].md",
@@ -69844,9 +70976,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-05",
       "url": "/wiki/entities/zohranmamdani/"
     },
     "ZongJunEasternHan": {

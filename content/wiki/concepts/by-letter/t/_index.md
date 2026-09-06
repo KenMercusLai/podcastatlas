@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6404
+wiki_total_pages: 6414
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "TemporaryFrontierRetrenchment"
     title: "临时边防收缩 / Temporary Frontier Retrenchment"
     url: "/wiki/concepts/temporaryfrontierretrenchment/"
+  - key: "TransitHubCommanderyControl"
+    title: "交通枢纽郡控制 / Transit-Hub Commandery Control"
+    url: "/wiki/concepts/transithubcommanderycontrol/"
   - key: "TrustedEunuchPowerFormation"
     title: "信任型宦官权力形成 / Trusted Eunuch Power Formation"
     url: "/wiki/concepts/trustedeunuchpowerformation/"
