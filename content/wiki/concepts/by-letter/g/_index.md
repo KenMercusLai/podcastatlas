@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6463
+wiki_total_pages: 6468
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "GovernmentDataBrokerAccess"
     title: "Government Data Broker Access"
     url: "/wiki/concepts/governmentdatabrokeraccess/"
+  - key: "GovernmentDataSiloCollapse"
+    title: "Government Data Silo Collapse"
+    url: "/wiki/concepts/governmentdatasilocollapse/"
   - key: "GovernmentEnterpriseProcurement"
     title: "Government Enterprise Procurement"
     url: "/wiki/concepts/governmententerpriseprocurement/"

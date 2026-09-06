@@ -661,8 +661,8 @@
       "earliest_episode_date": "2025-07-18",
       "latest_episode_date": "2026-09-05",
       "latest_episode_file": "default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098 [default.mp3_ywr3ahjkcgo_bfb62e359f32dc9c36d668b3cc1b6b9d_27360098].md",
-      "source_note_count": 77,
-      "topic_matched_source_note_count": 44,
+      "source_note_count": 78,
+      "topic_matched_source_note_count": 45,
       "topics": [
         {
           "key": "economics",
@@ -674,7 +674,7 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 17
+          "source_note_count": 18
         },
         {
           "key": "culture",
@@ -749,7 +749,7 @@
       ],
       "start_here_episode_files": [
         "default.mp3_ywr3ahjkcgo_fb83612e726fa5aa682874e780f8cc1f_42235685 [default.mp3_ywr3ahjkcgo_fb83612e726fa5aa682874e780f8cc1f_42235685].md",
-        "default.mp3_ywr3ahjkcgo_703b184afdfd58f0b2a7bbfd6feeaec2_27253518 [default.mp3_ywr3ahjkcgo_703b184afdfd58f0b2a7bbfd6feeaec2_27253518].md",
+        "default.mp3_ywr3ahjkcgo_8eb9e254581eaa220d9428df389214d5_27844515 [default.mp3_ywr3ahjkcgo_8eb9e254581eaa220d9428df389214d5_27844515].md",
         "default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177 [default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177].md",
         "default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297 [default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297].md"
       ]

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6463
+wiki_total_pages: 6468
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1271,6 +1271,9 @@ wiki_pages:
   - key: "ConsentBasedRecording"
     title: "Consent-Based Recording"
     url: "/wiki/concepts/consentbasedrecording/"
+  - key: "ConsentlessFacialSearch"
+    title: "Consentless Facial Search"
+    url: "/wiki/concepts/consentlessfacialsearch/"
   - key: "ConservationIntervention"
     title: "Conservation Intervention"
     url: "/wiki/concepts/conservationintervention/"

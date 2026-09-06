@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6463
+wiki_total_pages: 6468
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1148,6 +1148,9 @@ wiki_pages:
   - key: "PrisonersDilemma"
     title: "Prisoner's Dilemma / 囚徒困境"
     url: "/wiki/concepts/prisonersdilemma/"
+  - key: "PrivacyAct1974"
+    title: "Privacy Act of 1974"
+    url: "/wiki/concepts/privacyact1974/"
   - key: "PrivacyUnderPublicGaze"
     title: "Privacy Under Public Gaze / 公共凝视下的隐私"
     url: "/wiki/concepts/privacyunderpublicgaze/"

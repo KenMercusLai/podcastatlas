@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9053
+wiki_total_pages: 9056
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -890,6 +890,9 @@ wiki_pages:
   - key: "MikeSolana"
     title: "Mike Solana"
     url: "/wiki/entities/mikesolana/"
+  - key: "MikeSteinberger"
+    title: "Mike Steinberger"
+    url: "/wiki/entities/mikesteinberger/"
   - key: "MikhailGorbachev"
     title: "Mikhail Gorbachev / 米哈伊尔·戈尔巴乔夫"
     url: "/wiki/entities/mikhailgorbachev/"
