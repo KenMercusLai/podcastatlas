@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 9071
+wiki_total_pages: 9075
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -698,6 +698,9 @@ wiki_pages:
   - key: "NianGengyao"
     title: "年羹尧 / Nian Gengyao"
     url: "/wiki/entities/niangengyao/"
+  - key: "NansunShi"
+    title: "施南生 / Nansun Shi"
+    url: "/wiki/entities/nansunshi/"
   - key: "NittanWuyu"
     title: "日谈物语 / Nittan Wuyu"
     url: "/wiki/entities/nittanwuyu/"

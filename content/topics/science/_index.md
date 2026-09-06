@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 896
+topic_total_pages: 897
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -868,6 +868,9 @@ topic_concepts:
   - key: "MeritocraticArrogance"
     title: "Meritocratic Arrogance / 绩优主义傲慢"
     url: "/wiki/concepts/meritocraticarrogance/"
+  - key: "MidlifeBodyAlarmAdjustment"
+    title: "Midlife Body Alarm Adjustment / 中年身体报警调整"
+    url: "/wiki/concepts/midlifebodyalarmadjustment/"
   - key: "MidlifeThreeAccounts"
     title: "Midlife Three Accounts"
     url: "/wiki/concepts/midlifethreeaccounts/"

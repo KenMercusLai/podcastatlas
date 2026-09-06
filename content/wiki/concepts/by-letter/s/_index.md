@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6479
+wiki_total_pages: 6485
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1391,6 +1391,9 @@ wiki_pages:
   - key: "StrangeTaleSocialCritique"
     title: "Strange Tale Social Critique"
     url: "/wiki/concepts/strangetalesocialcritique/"
+  - key: "StrangerHospitalityEthics"
+    title: "Stranger Hospitality Ethics / 陌生人宾客伦理"
+    url: "/wiki/concepts/strangerhospitalityethics/"
   - key: "StrangerTrustSixthRelation"
     title: "Stranger Trust Sixth Relation / 陌生人第六伦"
     url: "/wiki/concepts/strangertrustsixthrelation/"

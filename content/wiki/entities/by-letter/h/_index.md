@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9071
+wiki_total_pages: 9075
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -731,6 +731,9 @@ wiki_pages:
   - key: "HongmenYan"
     title: "《鸿门宴》"
     url: "/wiki/entities/hongmenyan/"
+  - key: "HigashinoKeigo"
+    title: "东野圭吾 / Higashino Keigo"
+    url: "/wiki/entities/higashinokeigo/"
   - key: "HudecShanghaiArchitect"
     title: "乌达克 / Hudec (Shanghai architect)"
     url: "/wiki/entities/hudecshanghaiarchitect/"
