@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6490
+wiki_total_pages: 6494
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "GenreLiteraryLegitimacy"
     title: "Genre Literary Legitimacy / 类型文学正名"
     url: "/wiki/concepts/genreliterarylegitimacy/"
+  - key: "GentleAnxietySupport"
+    title: "Gentle Anxiety Support / 温柔靠近焦虑"
+    url: "/wiki/concepts/gentleanxietysupport/"
   - key: "GentleSpeculativeAmbiguity"
     title: "Gentle Speculative Ambiguity / 温柔的科幻暧昧"
     url: "/wiki/concepts/gentlespeculativeambiguity/"

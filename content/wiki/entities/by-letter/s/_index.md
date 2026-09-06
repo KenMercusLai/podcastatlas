@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9083
+wiki_total_pages: 9086
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1166,6 +1166,9 @@ wiki_pages:
   - key: "StephenWestaby"
     title: "Stephen Westaby / 史蒂芬·维斯塔比"
     url: "/wiki/entities/stephenwestaby/"
+  - key: "SteveShiDiFuShuoHost"
+    title: "Steve (史蒂夫说 host)"
+    url: "/wiki/entities/steveshidifushuohost/"
   - key: "SteveBannon"
     title: "Steve Bannon"
     url: "/wiki/entities/stevebannon/"
@@ -1613,6 +1616,9 @@ wiki_pages:
   - key: "ShiXiangyun"
     title: "史湘云 / Shi Xiangyun"
     url: "/wiki/entities/shixiangyun/"
+  - key: "ShiDiFuShuo"
+    title: "史蒂夫说"
+    url: "/wiki/entities/shidifushuo/"
   - key: "SimaGuang"
     title: "司马光 / Sima Guang"
     url: "/wiki/entities/simaguang/"

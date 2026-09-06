@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-07] ingest | 史蒂夫说472期 - 赵今朝 - 化解焦虑最佳方法：拆解问题，温柔相待
+
+Ingested the 2026-08-29 史蒂夫说 episode with Zhao Jinzhao / Dr. Claire on anxiety as anticipatory fear, demand-resource mismatch, body arousal, family transmission, old-age and death anxiety, shame, self-affirmation, and gentle support. Added source `shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh`; created `ShiDiFuShuo`, `SteveShiDiFuShuoHost`, `ZhaoJinzhao`, `AnxietyDecomposition`, `GentleAnxietySupport`, `EmbodiedAnxietyRegulation`, and `FamilyAnxietyTransmission`; updated `index` and `overview`. No settled contradiction found; the title/body name variant between 赵今朝 and 赵金昭 is preserved as source-scoped.
+
 ## [2026-09-06] ingest | Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”
 
 Ingested the 2026-08-31 文化有限 episode on 《蝲蛄吟唱的地方》 / Where the Crawdads Sing and 《沼泽深处的女孩》, reading Kya's marsh life through abandonment, female growth, nature writing, murder suspense, legal justice, forgiveness, and wild-child marginality. Added source `vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr`; created `WhereTheCrawdadsSing`, `WhereTheCrawdadsSingFilm`, `DeliaOwens`, `KyaClark`, `TateWalker`, `ChaseAndrews`, `DaLaoshiCultureLimited`, `XingguangCultureLimited`, `WetlandMarginalSpace`, `NatureLawLegalJustice`, `VictimForgivenessAgency`, `WildChildMarginality`, and `LiteraryAdaptationTextureLoss`; updated `CultureLimited`, `ChaoGe`, `index`, and `overview`. No settled contradiction found; Delia Owens's Zambia controversy, film reception, and the final justice interpretation remain source-scoped literary commentary.
@@ -15589,5 +15593,9 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

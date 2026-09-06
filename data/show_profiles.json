@@ -1279,8 +1279,8 @@
       ]
     },
     "三五环": {
-      "episode_count": 6,
-      "earliest_episode_date": "2026-07-28",
+      "episode_count": 8,
+      "earliest_episode_date": "2026-07-19",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
       "source_note_count": 1,
@@ -1619,18 +1619,26 @@
       ]
     },
     "史蒂夫说": {
-      "episode_count": 3,
-      "earliest_episode_date": "2026-08-06",
+      "episode_count": 4,
+      "earliest_episode_date": "2026-07-18",
       "latest_episode_date": "2026-08-29",
       "latest_episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
-      "source_note_count": 0,
-      "topic_matched_source_note_count": 0,
-      "topics": [],
+      "source_note_count": 1,
+      "topic_matched_source_note_count": 1,
+      "topics": [
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 1
+        }
+      ],
       "entities": [],
       "start_here_episode_files": [
         "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
         "lrsK_0kNOOXxA_TwM1CI5DfhldXI [lrsK_0kNOOXxA_TwM1CI5DfhldXI].md",
-        "ltqPE_vydMWJ62BjdGnRx73-HAAa [ltqPE_vydMWJ62BjdGnRx73-HAAa].md"
+        "ltqPE_vydMWJ62BjdGnRx73-HAAa [ltqPE_vydMWJ62BjdGnRx73-HAAa].md",
+        "lmQ6ET15-mLUqYUUav7Z4jpx4hcb [lmQ6ET15-mLUqYUUav7Z4jpx4hcb].md"
       ]
     },
     "商业就是这样": {

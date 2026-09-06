@@ -7740,6 +7740,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AnxietyDecomposition": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AnyangQinRebellion": [
     {
       "key": "history",
@@ -21191,6 +21198,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "EmbodiedAnxietyRegulation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "EmbodiedCarbonBuildingCode": [
     {
       "key": "politics",
@@ -22824,6 +22838,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "FamilyAnxietyTransmission": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "FamilyBusinessSuccessionOpacity": [
@@ -26364,6 +26385,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "GentleAnxietySupport": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "GentleSpeculativeAmbiguity": [
@@ -55275,6 +55303,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ShiDiFuShuo": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ShiJianqiao": [
     {
       "key": "history",
@@ -58195,6 +58230,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "SteveShiDiFuShuoHost": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "StevenPinker": [
@@ -73609,6 +73651,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1": [
