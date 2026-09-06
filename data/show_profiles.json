@@ -1283,9 +1283,22 @@
       "earliest_episode_date": "2026-08-11",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
-      "source_note_count": 0,
-      "topic_matched_source_note_count": 0,
-      "topics": [],
+      "source_note_count": 1,
+      "topic_matched_source_note_count": 1,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 1
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
+        }
+      ],
       "entities": [],
       "start_here_episode_files": [
         "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",

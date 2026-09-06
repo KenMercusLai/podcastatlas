@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-06] ingest | No.232 吴汉坤：AI 时代，演员第一个丢饭碗？
+
+Added 三五环 source on Wu Hankun, AI short films, actor performance boundaries, likeness authorization, Frederick AI, and hands-on AI practice as a response to creator anxiety.
+
 ## [2026-09-06] ingest | 对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！
 
 Added source page for a Shizilukou Crossing interview with Ren Lifeng on moving from ByteDance and early Douyin product work into Shumei Wanwu's AI 3D manufacturing strategy. Created pages for Ren Lifeng, Shumei Wanwu, Hi3D, Zaohaowu, Bambu MakerRoad, AI 3D Manufacturing Pipeline, Production-Grade AI 3D, Maker Operating System, Physical Manufacturing Application Moat, Desktop 3D Printing Economy, and Product Variable Judgment. No settled contradiction found; the source qualifies model-as-operating-system and AI application moat debates by arguing that physical production preserves workflow, format, material, device, supplier, and delivery constraints that generic foundation models may not absorb directly.
@@ -15555,6 +15559,10 @@ Health and identity validation passed. Deterministic lint scanned 17,464 pages a
 ## [2026-09-06] ingest | EP385-《我的前半生》翻红：从“寄生虫”到“独立女性”，罗子君的逆袭成立吗？
 
 Ingested the 2026-09-01 无时差研究所 episode rereading 《我的前半生》 through Yi Shu's novel, the 2017 TV adaptation, short-video revival, female-supported growth, He Han's male-mentor role, consulting-era urban fantasy, and late-2010s economic memory. Added source `ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf`; created `WushichaYanjiusuo`, `YiShu`, `MyFirstHalfLife`, `LuoZijun`, `TangJing`, `HeHan`, `ChenJunsheng`, `LinglingMyFirstHalfLife`, `XueZhenzhuMyFirstHalfLife`, `MaleMentorFemaleGrowthNarrative`, `FemaleSupportDrivenGrowthNarrative`, `ShortVideoOldDramaRediscovery`, `EconomicUpswingUrbanDramaMemory`, and `PseudoIndependentWomenNarrative`; updated `index` and `overview`. No settled contradiction found; consulting layoffs, housing-price discussion, actor-reception claims, and audience-shift claims remain source-scoped cultural commentary.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-06] lint | Wiki health check
 

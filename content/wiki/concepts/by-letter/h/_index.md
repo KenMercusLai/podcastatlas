@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6473
+wiki_total_pages: 6476
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "HanXiongnuHeqinPolicy"
     title: "Han-Xiongnu Heqin Policy / 汉匈和亲政策"
     url: "/wiki/concepts/hanxiongnuheqinpolicy/"
+  - key: "HandsOnAIAnxietyReduction"
+    title: "Hands-On AI Anxiety Reduction / 亲手使用 AI 缓解焦虑"
+    url: "/wiki/concepts/handsonaianxietyreduction/"
   - key: "HandsetMarketConcentration"
     title: "Handset Market Concentration"
     url: "/wiki/concepts/handsetmarketconcentration/"

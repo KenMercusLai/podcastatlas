@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-06
-as_of_overview_commit: cbde739dea1e256f4eb1189d18e969d08c751154
-summary: "The wiki maps capability to accountable use: tools, markets, institutions, health, learning, and infrastructure work when context, evidence, and limits hold."
-episode_count: 1939
-source_count: 1939
-paragraph_count: 550
+as_of_overview_commit: f82cc6bfc68cc3b82619441e1c77347a87fde40a
+summary: "The wiki maps capability to accountable use: tools, markets, institutions, health, learning, and creative work need context, evidence, limits, and consent."
+episode_count: 1941
+source_count: 1941
+paragraph_count: 551
 topic_count: 8
 ---
 
@@ -23,13 +23,13 @@ topic_count: 8
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations.
 - [[control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803|The Epel Huberman Lab episode]] adds a stress-regulation branch: [[StressResponseRecovery]], [[ThreatChallengeStressReappraisal]], [[RuminationVsReflection]], [[EmotionRegulationToolkit]], [[RadicalAcceptanceChronicStress]], and [[UncertaintyToleranceResilience]] place stress harm in appraisal, rumination, recovery, safety and food cues, acceptance, and meaning-making rather than exposure alone, with [[PositiveStressBreathwork]] and [[AutonomicStressTraining]] kept as source-scoped tools.
 - [[improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956|The Attia Huberman Lab episode]] adds a preventive-longevity health-literacy branch: [[HealthspanThreeDomains]] separates lifespan from physical, cognitive, and emotional function, while [[ApoBParticleBurden]], [[AtherosclerosisPreventionTargets]], [[CancerScreeningBurdenTradeoff]], [[NeurodegenerativeRiskLevers]], [[ExercisePillarsForLongevity]], and [[DeathsOfDespairCounterfeitPillRisk]] tie ApoB, blood pressure, screening false positives, dementia uncertainty, exercise capacity, falls, fentanyl, and overdose risk to [[MedicalRiskManagement]] and [[PreventiveHealthScreening]] rather than one-size protocols.
-- [[tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128]] adds a school-system AI policy case: [[NewYorkCityPublicSchools]], [[SchoolAIBoundaries]], and [[AIGuidedLearningGuardrails]] show that education institutions may restrict AI access, screens, grading, and companion-style use to preserve student work and adult judgment, while the same source keeps AI literacy and home-device exposure unresolved.
+- [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj|No.232 吴汉坤]] adds a creator-work AI anxiety case: [[WuHankun]] and [[LiuFei]] frame [[HandsOnAIAnxietyReduction]] as learning through direct use of AI tools, while [[ActorAIPerformanceBoundary]], [[ActorLikenessAuthorization]], [[AIVideoProductionWorkflow]], and [[AIJobSecurityAnxiety]] show that acting work is being renegotiated through workflow knowledge, performance authorship, consent, industry rules, and the creator's own purpose.
 
 ## Synthesis by Domain
 
 ### AI and Technology
 
-AI and technology synthesis now centers operational fit: models, agents, infrastructure, data integration, verification, permissions, and human accountability determine whether capability becomes value or risk.
+AI and technology synthesis now centers operational fit: models, agents, infrastructure, data integration, verification, permissions, creative authorship, and human accountability determine whether capability becomes value or risk.
 
 - [[153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p|Episode 153]] adds a staged AI-industrialization frame: [[AIIndustrializationThreeStages]] treats tokenized model access as infrastructure, [[AgentEntryPoint]] treats the next layer as agent discovery and invocation, and [[ModelCompaniesAsAIInfrastructure]] qualifies [[ModelAsOperatingSystem]] and [[FrontierModelDuopoly]] by separating AI-cloud providers from future native application winners; [[IntelligenceFlywheel]], [[TaskBasedAINativeOrganization]], and [[StrategicGeneration]] make outcome feedback, task-centered work, and contrarian strategy part of AI capability capture. Evidence: [[153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p]], [[ZengMing]], [[AIIndustrializationThreeStages]], [[ModelCompaniesAsAIInfrastructure]], [[AgentEntryPoint]], [[ModelAsOperatingSystem]], [[FrontierModelDuopoly]], [[IntelligenceFlywheel]], [[TaskBasedAINativeOrganization]], [[StrategicGeneration]], [[OpenAI]], [[Anthropic]].
 - [[vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1|Vol. 173]] adds an operational AI-competition layer: [[AIQuotaTrustErosion]], [[ModelRoutingCostControl]], [[GLM53Flash|GLM 5.3 Flash]], [[SelfBuiltAgentWorkflow]], and [[ModelHubAcquisitionRisk]] show users and providers shifting from pure model capability contests toward predictable quotas, cheap-task routing, custom harnesses, and infrastructure control across chips, data centers, and model hubs. Evidence: [[vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1]], [[AIQuotaTrustErosion]], [[ModelRoutingCostControl]], [[GLM53Flash]], [[SelfBuiltAgentWorkflow]], [[ModelHubAcquisitionRisk]], [[FengyanFengyu]].
@@ -78,7 +78,7 @@ Science, health, and climate synthesis emphasizes mechanism, measurement, thresh
 
 ### Work, Education, and Society
 
-Work, education, and society synthesis tests tools, learning, career growth, routines, civic action, and institutions by trust, role clarity, transfer, evidence, and safeguards.
+Work, education, and society synthesis tests tools, learning, career growth, routines, civic action, institutions, and AI-era role anxiety by trust, role clarity, transfer, evidence, and safeguards.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

@@ -3007,6 +3007,14 @@
     "title": "Activist Investor Pressure",
     "url": "/wiki/concepts/activistinvestorpressure/"
   },
+  "ActorAIPerformanceBoundary": {
+    "title": "Actor AI Performance Boundary / 演员与 AI 表演边界",
+    "url": "/wiki/concepts/actoraiperformanceboundary/"
+  },
+  "ActorLikenessAuthorization": {
+    "title": "Actor Likeness Authorization / 演员脸部授权",
+    "url": "/wiki/concepts/actorlikenessauthorization/"
+  },
   "ActorObserverBias": {
     "title": "Actor-Observer Bias / 行动者-观察者偏差",
     "url": "/wiki/concepts/actorobserverbias/"
@@ -20879,6 +20887,10 @@
     "title": "Freddie Mac",
     "url": "/wiki/entities/freddiemac/"
   },
+  "FrederickAI": {
+    "title": "Frederick AI",
+    "url": "/wiki/entities/frederickai/"
+  },
   "FreeCashFlowIndexing": {
     "title": "Free Cash Flow Indexing",
     "url": "/wiki/concepts/freecashflowindexing/"
@@ -24050,6 +24062,10 @@
   "HandanShangLateHan": {
     "title": "邯郸商 / Handan Shang (late Han)",
     "url": "/wiki/entities/handanshanglatehan/"
+  },
+  "HandsOnAIAnxietyReduction": {
+    "title": "Hands-On AI Anxiety Reduction / 亲手使用 AI 缓解焦虑",
+    "url": "/wiki/concepts/handsonaianxietyreduction/"
   },
   "HandsetChipCoDesign": {
     "title": "Handset-Chip Co-Design",
@@ -42107,6 +42123,10 @@
     "title": "Pininfarina",
     "url": "/wiki/entities/pininfarina/"
   },
+  "PinkParadox": {
+    "title": "《粉色悖论》 / Pink Paradox",
+    "url": "/wiki/entities/pinkparadox/"
+  },
   "Pinocchio": {
     "title": "Pinocchio / 匹诺曹",
     "url": "/wiki/entities/pinocchio/"
@@ -42654,6 +42674,10 @@
   "PopularisPolitics": {
     "title": "Popularis Politics / 民众派政治",
     "url": "/wiki/concepts/popularispolitics/"
+  },
+  "PopulationAnomaly": {
+    "title": "《人口异常》 / Population Anomaly",
+    "url": "/wiki/entities/populationanomaly/"
   },
   "PopulationCoding": {
     "title": "Population Coding",
@@ -58775,6 +58799,10 @@
     "title": "吴汉 / Wu Han (Eastern Han)",
     "url": "/wiki/entities/wuhaneasternhan/"
   },
+  "WuHankun": {
+    "title": "吴瀚坤",
+    "url": "/wiki/entities/wuhankun/"
+  },
   "WuJingLateHan": {
     "title": "吴景 / Wu Jing (late Han)",
     "url": "/wiki/entities/wujinglatehan/"
@@ -65270,6 +65298,10 @@
   "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666": {
     "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
     "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+  },
+  "no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj": {
+    "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
+    "url": "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
   },
   "older-workers-arent-retiring-should-they-be-forced-to": {
     "title": "Older workers aren't retiring. Should they be forced to?",

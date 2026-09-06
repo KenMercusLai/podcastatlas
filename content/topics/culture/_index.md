@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2414
+topic_total_pages: 2417
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -31,6 +31,9 @@ topic_concepts:
   - key: "ActionableOrganizationalValues"
     title: "Actionable Organizational Values"
     url: "/wiki/concepts/actionableorganizationalvalues/"
+  - key: "ActorAIPerformanceBoundary"
+    title: "Actor AI Performance Boundary / 演员与 AI 表演边界"
+    url: "/wiki/concepts/actoraiperformanceboundary/"
   - key: "ActuarialSelfStudyCareerPath"
     title: "Actuarial Self-Study Career Path"
     url: "/wiki/concepts/actuarialselfstudycareerpath/"
@@ -5393,6 +5396,9 @@ topic_entities:
   - key: "GuanziText"
     title: "《管子》 / Guanzi"
     url: "/wiki/entities/guanzitext/"
+  - key: "PinkParadox"
+    title: "《粉色悖论》 / Pink Paradox"
+    url: "/wiki/entities/pinkparadox/"
   - key: "JingguaiGushiji"
     title: "《精怪故事集》"
     url: "/wiki/entities/jingguaigushiji/"
@@ -7050,6 +7056,9 @@ topic_sources:
   - key: "no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194"
     title: "No.204 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21"
     url: "/wiki/sources/no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194/"
+  - key: "no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj"
+    title: "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？"
+    url: "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
   - key: "tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128"
     title: "NYC public schools ban AI through middle school"
     url: "/wiki/sources/tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128/"

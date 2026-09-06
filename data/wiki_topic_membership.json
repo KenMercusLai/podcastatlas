@@ -5221,6 +5221,25 @@
       "url": "/topics/politics/"
     }
   ],
+  "ActorAIPerformanceBoundary": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ActorLikenessAuthorization": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ActorObserverBias": [
     {
       "key": "science",
@@ -24926,6 +24945,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "FrederickAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "FreeCashFlowIndexing": [
     {
       "key": "economics",
@@ -28419,6 +28445,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "HandsOnAIAnxietyReduction": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "HandsetChipCoDesign": [
@@ -47067,6 +47100,18 @@
       "url": "/topics/history/"
     }
   ],
+  "PinkParadox": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "PiotrZilevsky": [
     {
       "key": "politics",
@@ -47827,6 +47872,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "PopulationAnomaly": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "PopulationCoding": [
@@ -73043,6 +73095,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb": [

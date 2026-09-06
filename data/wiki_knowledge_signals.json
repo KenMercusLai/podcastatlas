@@ -2459,6 +2459,38 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/activepoliticaldormancy/"
     },
+    "ActorAIPerformanceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
+          "key": "no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj",
+          "show": "三五环",
+          "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
+          "url": "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/actoraiperformanceboundary/"
+    },
+    "ActorLikenessAuthorization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
+          "key": "no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj",
+          "show": "三五环",
+          "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
+          "url": "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/actorlikenessauthorization/"
+    },
     "ActusOncology": {
       "episode_count": 1,
       "show_count": 1,
@@ -23548,6 +23580,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/frasermcilwraith/"
     },
+    "FrederickAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
+          "key": "no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj",
+          "show": "三五环",
+          "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
+          "url": "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/frederickai/"
+    },
     "FreeDerry": {
       "episode_count": 1,
       "show_count": 1,
@@ -27853,6 +27901,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/hanzhongliaodonglatehan/"
+    },
+    "HandsOnAIAnxietyReduction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
+          "key": "no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj",
+          "show": "三五环",
+          "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
+          "url": "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/handsonaianxietyreduction/"
     },
     "HanyangCommanderyLateHan": {
       "episode_count": 3,
@@ -37494,6 +37558,29 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/liufanglatehan/"
+    },
+    "LiuFei": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
+          "key": "fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "番外 14：跟李诞聊聊播客、创作、AI 与中年",
+          "url": "/wiki/sources/fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552/"
+        },
+        {
+          "episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
+          "key": "no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj",
+          "show": "三五环",
+          "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
+          "url": "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/liufei/"
     },
     "LiuFuLateHan": {
       "episode_count": 1,
@@ -48901,6 +48988,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/pingyangdefenselatehan/"
     },
+    "PinkParadox": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
+          "key": "no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj",
+          "show": "三五环",
+          "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
+          "url": "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/pinkparadox/"
+    },
     "PlantVarietyIntellectualProperty": {
       "episode_count": 1,
       "show_count": 1,
@@ -49377,6 +49480,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/popularispolitics/"
+    },
+    "PopulationAnomaly": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
+          "key": "no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj",
+          "show": "三五环",
+          "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
+          "url": "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/populationanomaly/"
     },
     "PopulistDemocraticEnergy": {
       "episode_count": 6,
@@ -54990,6 +55109,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/samueljohnson/"
+    },
+    "SanWuHuan": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
+          "key": "fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "番外 14：跟李诞聊聊播客、创作、AI 与中年",
+          "url": "/wiki/sources/fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552/"
+        },
+        {
+          "episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
+          "key": "no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj",
+          "show": "三五环",
+          "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
+          "url": "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/sanwuhuan/"
     },
     "Sanguozhi": {
       "episode_count": 2,
@@ -66899,6 +67041,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/wuhaneasternhan/"
+    },
+    "WuHankun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
+          "key": "no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj",
+          "show": "三五环",
+          "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
+          "url": "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/wuhankun/"
     },
     "WuLaoshiSanlianEditor": {
       "episode_count": 1,
