@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6468
+wiki_total_pages: 6473
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "FemaleFriendlyBistro"
     title: "Female-Friendly Bistro / 女性友好小酒馆"
     url: "/wiki/concepts/femalefriendlybistro/"
+  - key: "FemaleSupportDrivenGrowthNarrative"
+    title: "Female-Support-Driven Growth Narrative / 女性支持驱动的成长叙事"
+    url: "/wiki/concepts/femalesupportdrivengrowthnarrative/"
   - key: "FeministFairyTaleRewriting"
     title: "Feminist Fairy-Tale Rewriting / 女性主义童话改写"
     url: "/wiki/concepts/feministfairytalerewriting/"

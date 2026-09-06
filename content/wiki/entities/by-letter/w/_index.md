@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9056
+wiki_total_pages: 9065
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "Wuzhiqi"
     title: "无支祁"
     url: "/wiki/entities/wuzhiqi/"
+  - key: "WushichaYanjiusuo"
+    title: "无时差研究所 / Wushicha Yanjiusuo"
+    url: "/wiki/entities/wushichayanjiusuo/"
   - key: "WuyanCounty"
     title: "无盐县 / Wuyan County"
     url: "/wiki/entities/wuyancounty/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9056
+wiki_total_pages: 9065
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1262,6 +1262,9 @@ wiki_pages:
   - key: "MukashiMukashiAruTokoroNiShitaiGaArimashita"
     title: "《很久很久以前，在某个地方有一具尸体》"
     url: "/wiki/entities/mukashimukashiarutokoronishitaigaarimashita/"
+  - key: "MyFirstHalfLife"
+    title: "《我的前半生》 / My First Half Life"
+    url: "/wiki/entities/myfirsthalflife/"
   - key: "MyNameIsRed"
     title: "《我的名字叫红》 / My Name Is Red"
     url: "/wiki/entities/mynameisred/"

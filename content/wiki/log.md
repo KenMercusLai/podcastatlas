@@ -15551,3 +15551,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-06] lint | Wiki health check
 
 Health and identity validation passed. Deterministic lint scanned 17,464 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, one fragile bridge (`entities/CatholicChurch` → `concepts/ReligiousControlledSubstanceExemption`), and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` was configured in the environment. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-09-06] ingest | EP385-《我的前半生》翻红：从“寄生虫”到“独立女性”，罗子君的逆袭成立吗？
+
+Ingested the 2026-09-01 无时差研究所 episode rereading 《我的前半生》 through Yi Shu's novel, the 2017 TV adaptation, short-video revival, female-supported growth, He Han's male-mentor role, consulting-era urban fantasy, and late-2010s economic memory. Added source `ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf`; created `WushichaYanjiusuo`, `YiShu`, `MyFirstHalfLife`, `LuoZijun`, `TangJing`, `HeHan`, `ChenJunsheng`, `LinglingMyFirstHalfLife`, `XueZhenzhuMyFirstHalfLife`, `MaleMentorFemaleGrowthNarrative`, `FemaleSupportDrivenGrowthNarrative`, `ShortVideoOldDramaRediscovery`, `EconomicUpswingUrbanDramaMemory`, and `PseudoIndependentWomenNarrative`; updated `index` and `overview`. No settled contradiction found; consulting layoffs, housing-price discussion, actor-reception claims, and audience-shift claims remain source-scoped cultural commentary.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
