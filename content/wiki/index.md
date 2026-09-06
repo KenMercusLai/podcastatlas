@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP384-普通人也能打得起的“司美格鲁肽”，减肥针“一针瘦十斤”背后的真相与代](sources/ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy.md) — 无时差研究所 episode with Guo Haotian on GLP-1 weight-loss drugs, semaglutide, tirzepatide, side effects, rebound, muscle preservation, pricing, patents, China pipelines, and research-use peptide risk.
 - [她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮](sources/ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof.md) — 十字路口Crossing interview with Chen Anni on Kuaikan Manhua's LIVO, AI-native narrative worlds, agentic characters, fate-centered interaction, content taste, commercialization discipline, and game-spirit organization.
 - [说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？](sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc.md) — 说得好听 episode with Mureka and ACR Cloud on AI music after the demo stage: workflow integration, copyright detection, AI labeling, DSP settlement, bulk generation, and platform governance.
 - [#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿](sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de.md) — 声东击西 episode with WFP worker Wang Hongrui on South Sudan refugee hunger, registration gaps, cash-aid cuts, nutrition triage, funding shortfalls, and school meals.
@@ -1958,6 +1959,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [郭昊天 / Guo Haotian](entities/GuoHaotian.md) — 无时差研究所 EP384 guest explaining GLP-1 weight-loss drugs through personal-use, mechanism, biotech, and safety-boundary context.
 - [Chen Anni / 陈安妮](entities/ChenAnni.md) — Kuaikan founder and CEO linking content-platform entrepreneurship, IP taste, commercialization discipline, and the LIVO AI-native content bet.
 - [Kuaikan Manhua / 快看漫画](entities/KuaikanManhua.md) — Comics and content-platform company founded by Chen Anni and now investing in LIVO as an AI-native narrative-world product.
 - [LIVO](entities/LIVO.md) — Kuaikan AI-native content product framed as a real-time living AI world with agentic characters and user-influenced fate.
@@ -2004,7 +2006,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frederick AI](entities/FrederickAI.md) — Wu Hankun's source-reported early agent project for founder task execution.
 - [《粉色悖论》 / Pink Paradox](entities/PinkParadox.md) — Wu Hankun's first AI short-film case, begun as a role-farewell project.
 - [《人口异常》 / Population Anomaly](entities/PopulationAnomaly.md) — Wu Hankun's later science-fiction AI short-film experiment.
-- [无时差研究所 / Wushicha Yanjiusuo](entities/WushichaYanjiusuo.md) — Culture-commentary podcast show using the 《我的前半生》 revival to examine gender, adaptation, class taste, workplace fantasy, and economic memory.
+- [无时差研究所 / Wushicha Yanjiusuo](entities/WushichaYanjiusuo.md) — Conversational podcast show represented by culture commentary on 《我的前半生》 and public medical-literacy discussion of GLP-1 weight-loss drugs.
 - [亦舒 / Yi Shu](entities/YiShu.md) — Authorial baseline for EP385's comparison between the 《我的前半生》 novel's female-supported rebuilding and the TV drama's male-mentor rewrite.
 - [《我的前半生》 / My First Half Life](entities/MyFirstHalfLife.md) — Yi Shu novel and 2017 TV adaptation reread as an old-drama revival, gender-narrative, and economic-memory case.
 - [罗子君 / Luo Zijun](entities/LuoZijun.md) — 《我的前半生》 heroine whose divorce, work return, and claimed independence test the difference between supported agency and male-authorized growth.

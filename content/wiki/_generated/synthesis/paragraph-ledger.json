@@ -554,12 +554,13 @@
       "0ee3f66cbd06ecca38d41c798b94ab8c895672ce4f1af7437cfd461772ee6910",
       "c2a1ffb4efb621f087dd97557d056c5029b11e1d2b0c3360529b1b3ffa40a8a8",
       "7aedd968f8b89040d8bacab2545ab2c77f01a1e9fd0bfca68a06280e10b552e8",
-      "ba7d5a4b2effc25ea8893c2adaf8d069d7e26a7909c0818f6c652ebda5aa350a"
+      "ba7d5a4b2effc25ea8893c2adaf8d069d7e26a7909c0818f6c652ebda5aa350a",
+      "92bc6e5245c1759f79ec6d1c56938dc9f6333c7144493e722e6253eed2bec08c"
     ],
-    "paragraph_count": 554
+    "paragraph_count": 555
   },
-  "overview_commit": "b6909f426865a76d63741428fbadc7d801742191",
-  "overview_digest": "7025cbe0a55ed3354ad3a5f90741f8d7e17e17d30c529949337a98acb6b88f9a",
+  "overview_commit": "490547aeb4fe5d081aa68d7c4fe1500421fac188",
+  "overview_digest": "b546653809b886d4d36859bc06b92b47e88f2a89cf4379dda6160964ced94a14",
   "paragraphs": [
     {
       "id": "b3cbca70b251a2c2f5030fe6a363c8958514f3624b7c9a2b7be5d475065b691f",
@@ -17007,6 +17008,32 @@
         "PortugueseMaritimeExpansion",
         "StraitOfGibraltar",
         "VandalKingdom"
+      ]
+    },
+    {
+      "id": "92bc6e5245c1759f79ec6d1c56938dc9f6333c7144493e722e6253eed2bec08c",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "science-health-and-climate"
+      ],
+      "text": "The latest addition is [[ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy|EP384-普通人也能打得起的“司美格鲁肽”，减肥针“一针瘦十斤”背后的真相与代]], a [[WushichaYanjiusuo|无时差研究所]] episode with [[GuoHaotian|郭昊天]] on [[GLP1Agonists|GLP-1]] weight-loss drugs, [[Ozempic|司美格鲁肽]], [[Mounjaro|替尔泊肽]], and the boundary between serious metabolic medicine and consumer optimization. It adds [[GuoHaotian|郭昊天]], while extending [[GLP1Agonists]], [[LifestyleWeightManagement]], [[MuscleAsLongevityInfrastructure]], [[GrayMarketPeptides]], and [[WushichaYanjiusuo|无时差研究所]]. Its core synthesis is that technology-assisted weight loss can be effective without becoming casual self-optimization: mechanism, prescription access, individual response variation, side effects, pregnancy uncertainty, muscle preservation, rebound, patent and China pipeline context, and research-use peptide self-injection all keep the category inside [[MedicalRiskManagement]]. No settled contradiction is recorded; atypical hunger response, pricing, patent timing, drug pipeline, pregnancy, thyroid, mood, and stock-market interpretations remain source-scoped public medical-literacy and industry commentary.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 3,
+        "history-and-geopolitics": 1,
+        "science-health-and-climate": 2
+      },
+      "wikilinks": [
+        "GLP1Agonists",
+        "GrayMarketPeptides",
+        "GuoHaotian",
+        "LifestyleWeightManagement",
+        "MedicalRiskManagement",
+        "Mounjaro",
+        "MuscleAsLongevityInfrastructure",
+        "Ozempic",
+        "WushichaYanjiusuo",
+        "ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy"
       ]
     }
   ],
