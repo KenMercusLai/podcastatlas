@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6463
+wiki_total_pages: 6468
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "DataFoundationFirstAIStrategy"
     title: "Data Foundation-First AI Strategy"
     url: "/wiki/concepts/datafoundationfirstaistrategy/"
+  - key: "DataOperationalization"
+    title: "Data Operationalization"
+    url: "/wiki/concepts/dataoperationalization/"
   - key: "DataPortabilityAndSustainableTools"
     title: "Data Portability And Sustainable Tools"
     url: "/wiki/concepts/dataportabilityandsustainabletools/"

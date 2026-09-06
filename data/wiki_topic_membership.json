@@ -15795,6 +15795,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ConsentlessFacialSearch": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ConservationPublicityGap": [
     {
       "key": "culture",
@@ -17820,6 +17827,18 @@
     }
   ],
   "DataFoundationFirstAIStrategy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "DataOperationalization": [
     {
       "key": "technology",
       "label": "Technology",
@@ -27153,6 +27172,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "GovernmentDataSiloCollapse": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GovernmentShutdownDataBlindness": [
     {
       "key": "technology",
@@ -30904,6 +30930,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "IdentityResolutionError": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "IdeologicalDefection": [
     {
       "key": "politics",
@@ -32907,6 +32945,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "JamesSteinberg": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "JaneFonda": [
@@ -40903,6 +40948,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MikeSteinberger": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "MikhailGorbachev": [
     {
       "key": "politics",
@@ -45471,6 +45523,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "PalantirDatingEvent": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PaleRiderBook": [
     {
       "key": "history",
@@ -48483,6 +48542,13 @@
     }
   ],
   "PrisonRitualLegitimacyRefusal": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PrivacyAct1974": [
     {
       "key": "politics",
       "label": "Politics",
@@ -71107,6 +71173,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d": [

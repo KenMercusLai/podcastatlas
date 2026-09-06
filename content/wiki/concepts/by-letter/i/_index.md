@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6463
+wiki_total_pages: 6468
 wiki_pages:
   - key: "ICEWorkforceExpansion"
     title: "ICE Workforce Expansion"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "IdentityPoliticsAsPoliticalSorting"
     title: "Identity Politics As Political Sorting"
     url: "/wiki/concepts/identitypoliticsaspoliticalsorting/"
+  - key: "IdentityResolutionError"
+    title: "Identity Resolution Error"
+    url: "/wiki/concepts/identityresolutionerror/"
   - key: "IdeologicalDefection"
     title: "Ideological Defection / 意识形态叛逃"
     url: "/wiki/concepts/ideologicaldefection/"

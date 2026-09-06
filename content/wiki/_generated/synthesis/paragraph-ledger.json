@@ -549,12 +549,13 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03",
       "0ee3f66cbd06ecca38d41c798b94ab8c895672ce4f1af7437cfd461772ee6910",
-      "c2a1ffb4efb621f087dd97557d056c5029b11e1d2b0c3360529b1b3ffa40a8a8"
+      "c2a1ffb4efb621f087dd97557d056c5029b11e1d2b0c3360529b1b3ffa40a8a8",
+      "7aedd968f8b89040d8bacab2545ab2c77f01a1e9fd0bfca68a06280e10b552e8"
     ],
-    "paragraph_count": 549
+    "paragraph_count": 550
   },
-  "overview_commit": "e4baeb803f489f8acd288fa8e8945b2d2f699db9",
-  "overview_digest": "b544abda4aeedafcb9e58c9f00ac0cfc5556fc0911156d7733ecd6246cdf673e",
+  "overview_commit": "cbde739dea1e256f4eb1189d18e969d08c751154",
+  "overview_digest": "9966fbd13334d3798efcc7865348d897b5fb9d364d15bd362a5b7e3048faca13",
   "paragraphs": [
     {
       "id": "f16f081698deab1f8c03274c799d0a2cdec4d918db2e50f99afa82efdff678c0",
@@ -16845,6 +16846,38 @@
         "ThirdPartyAIVendorOversight",
         "ValuesBasedAIGovernance",
         "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128"
+      ]
+    },
+    {
+      "id": "7aedd968f8b89040d8bacab2545ab2c77f01a1e9fd0bfca68a06280e10b552e8",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515|Love in the time of Palantir]], a [[PlanetMoney]] episode using [[PalantirDatingEvent|Singles Dating Matching Using Palantir Data]] to make surveillance anxiety personal. It adds [[JamesSteinberg]], [[MikeSteinberger]], [[PalantirDatingEvent]], [[DataOperationalization]], [[IdentityResolutionError]], [[ConsentlessFacialSearch]], [[GovernmentDataSiloCollapse]], and [[PrivacyAct1974]], while extending [[Palantir]], [[USImmigrationAndCustomsEnforcement]], [[USDepartmentOfHomelandSecurity]], [[TechnologyAssistedInteriorEnforcement]], [[CrossDatasetPrivacyLinkage]], [[GovernmentDataBrokerAccess]], [[SurveillanceAsAService]], and [[CivilLibertiesSurveillanceRisk]]. Its core synthesis is that privacy risk is not limited to who owns the data: software, facial search, public records, brokered tools, leaked data, and agency-held datasets can make scattered information searchable and actionable, producing value in industrial settings such as [[Airbus]] and civil-liberties risk in ICE-style enforcement. No settled contradiction is recorded; Palantir, ICE, and DHS did not directly answer all source claims, so database scale, dataset counts, and operational-speed claims remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "Airbus",
+        "CivilLibertiesSurveillanceRisk",
+        "ConsentlessFacialSearch",
+        "CrossDatasetPrivacyLinkage",
+        "DataOperationalization",
+        "GovernmentDataBrokerAccess",
+        "GovernmentDataSiloCollapse",
+        "IdentityResolutionError",
+        "JamesSteinberg",
+        "MikeSteinberger",
+        "Palantir",
+        "PalantirDatingEvent",
+        "PlanetMoney",
+        "PrivacyAct1974",
+        "SurveillanceAsAService",
+        "TechnologyAssistedInteriorEnforcement",
+        "USDepartmentOfHomelandSecurity",
+        "USImmigrationAndCustomsEnforcement",
+        "default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515"
       ]
     }
   ],

@@ -12591,6 +12591,10 @@
     "title": "Consent-Based Recording",
     "url": "/wiki/concepts/consentbasedrecording/"
   },
+  "ConsentlessFacialSearch": {
+    "title": "Consentless Facial Search",
+    "url": "/wiki/concepts/consentlessfacialsearch/"
+  },
   "ConservationIntervention": {
     "title": "Conservation Intervention",
     "url": "/wiki/concepts/conservationintervention/"
@@ -14374,6 +14378,10 @@
   "DataFoundationFirstAIStrategy": {
     "title": "Data Foundation-First AI Strategy",
     "url": "/wiki/concepts/datafoundationfirstaistrategy/"
+  },
+  "DataOperationalization": {
+    "title": "Data Operationalization",
+    "url": "/wiki/concepts/dataoperationalization/"
   },
   "DataPortabilityAndSustainableTools": {
     "title": "Data Portability And Sustainable Tools",
@@ -22851,6 +22859,10 @@
     "title": "Government Data Broker Access",
     "url": "/wiki/concepts/governmentdatabrokeraccess/"
   },
+  "GovernmentDataSiloCollapse": {
+    "title": "Government Data Silo Collapse",
+    "url": "/wiki/concepts/governmentdatasilocollapse/"
+  },
   "GovernmentEnterpriseProcurement": {
     "title": "Government Enterprise Procurement",
     "url": "/wiki/concepts/governmententerpriseprocurement/"
@@ -26379,6 +26391,10 @@
     "title": "《身份政治》",
     "url": "/wiki/entities/identitypoliticsbook/"
   },
+  "IdentityResolutionError": {
+    "title": "Identity Resolution Error",
+    "url": "/wiki/concepts/identityresolutionerror/"
+  },
   "IdeologicalDefection": {
     "title": "Ideological Defection / 意识形态叛逃",
     "url": "/wiki/concepts/ideologicaldefection/"
@@ -28010,6 +28026,10 @@
   "JamesMeade": {
     "title": "James Meade",
     "url": "/wiki/entities/jamesmeade/"
+  },
+  "JamesSteinberg": {
+    "title": "James Steinberg",
+    "url": "/wiki/entities/jamessteinberg/"
   },
   "JamieSiminoff": {
     "title": "Jamie Siminoff",
@@ -36591,6 +36611,10 @@
     "title": "Mike Solana",
     "url": "/wiki/entities/mikesolana/"
   },
+  "MikeSteinberger": {
+    "title": "Mike Steinberger",
+    "url": "/wiki/entities/mikesteinberger/"
+  },
   "MikhailGorbachev": {
     "title": "Mikhail Gorbachev / 米哈伊尔·戈尔巴乔夫",
     "url": "/wiki/entities/mikhailgorbachev/"
@@ -40707,6 +40731,10 @@
     "title": "Palantir",
     "url": "/wiki/entities/palantir/"
   },
+  "PalantirDatingEvent": {
+    "title": "Singles Dating Matching Using Palantir Data",
+    "url": "/wiki/entities/palantirdatingevent/"
+  },
   "PaleRiderBook": {
     "title": "《苍白的骑士》 / Pale Rider",
     "url": "/wiki/entities/paleriderbook/"
@@ -43226,6 +43254,10 @@
   "PrisonersDilemma": {
     "title": "Prisoner's Dilemma / 囚徒困境",
     "url": "/wiki/concepts/prisonersdilemma/"
+  },
+  "PrivacyAct1974": {
+    "title": "Privacy Act of 1974",
+    "url": "/wiki/concepts/privacyact1974/"
   },
   "PrivacyUnderPublicGaze": {
     "title": "Privacy Under Public Gaze / 公共凝视下的隐私",
@@ -63982,6 +64014,10 @@
   "default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757": {
     "title": "The Mountains Choose You: Araceli Segarra on Adventure & Resilience | Shekhar Natarajan",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757/"
+  },
+  "default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515": {
+    "title": "Love in the time of Palantir",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515/"
   },
   "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d": {
     "title": "Dhaka matters: an election for Bangladesh",

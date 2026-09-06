@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Love in the time of Palantir](sources/default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515.md) — Planet Money episode on a Palantir-themed dating event, data operationalization, identity-resolution errors, consentless facial search, and ICE/DHS data-silo surveillance concerns.
 - [AI in banking: the good, the bad, and the efficient](sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128.md) — Marketplace Tech episode on smaller banks using AI for reporting, loan-document review, borrower-meeting preparation, bias control, privacy, and third-party vendor oversight.
 - [當新聞成為賭盤，記者可以大賺一筆嗎？](sources/dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79.md) — 端闻 episode on a reporter's simulated Polymarket month, prediction-market settlement power, news-as-position attention, public-good claims, and gendered market culture.
 - [No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头](sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666.md) — 半拿铁 episode on Ningbo manufacturing depth through Fangtai, Shenzhou, Yunsheng, Mideer, Boyang, single champions, family succession, and port-enabled industrial clusters.
@@ -1946,6 +1947,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [James Steinberg](entities/JamesSteinberg.md) — Cybersecurity-experienced organizer of the Palantir-themed dating event demonstrating how scattered personal data can become profiles.
+- [Mike Steinberger](entities/MikeSteinberger.md) — Reporter/explainer distinguishing Palantir's data-ownership claims from its ability to operationalize customer-held data.
+- [Singles Dating Matching Using Palantir Data](entities/PalantirDatingEvent.md) — Satirical dating event used by Planet Money to make surveillance, data enrichment, and face-searchability personal.
 - [American Pride Bank](entities/AmericanPrideBank.md) — Macon, Georgia small lender used as the episode's internal AI reporting, budgeting, review, and market-research example.
 - [Dominic Miarten](entities/DominicMiarten.md) — American Pride Bank CEO describing AI-prepared executive scorecards for loans, interest income, and deposits.
 - [First Southwest Bank](entities/FirstSouthwestBank.md) — Colorado bank using AI for loan-document review and borrower-meeting preparation while preserving human loan decisions.
@@ -9260,7 +9264,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jeremy Scott](entities/JeremyScott.md) — EPIC Surveillance Oversight Program expert explaining DHS access to private-sector data, administrative subpoenas, data brokers, and surveillance-as-a-service systems.
 - [Electronic Privacy Information Center](entities/ElectronicPrivacyInformationCenter.md) — Privacy and civil-liberties organization represented by Jeremy Scott in the Marketplace Tech surveillance-data episode.
 - [U.S. Department of Homeland Security](entities/USDepartmentOfHomelandSecurity.md) — Agency at the center of Marketplace Tech discussions of private-sector data access, surveillance tools, enforcement-agency sharing, and public trust.
-- [U.S. Immigration and Customs Enforcement](entities/USImmigrationAndCustomsEnforcement.md) — DHS-linked enforcement agency named in the surveillance-as-a-service discussion, kept distinct from the unrelated ICE investor page.
+- [U.S. Immigration and Customs Enforcement](entities/USImmigrationAndCustomsEnforcement.md) — DHS-linked enforcement agency connected to hiring, detention, surveillance-as-a-service, DNA collection, interior enforcement, and multi-dataset integration concerns.
 - [Ron Wyden](entities/RonWyden.md) — Senator associated with the federal Fourth Amendment is Not For Sale Act referenced in the data broker loophole episode.
 - [Montana](entities/Montana.md) — State cited for passing a law requiring warrants for government data purchases that would otherwise exploit the data broker loophole.
 - [Claude](entities/Claude.md) — Anthropic model at the center of the Marketplace Tech Bytes dispute over Pentagon classified use, acceptable-use limits, and defense procurement leverage.
@@ -10875,7 +10879,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Open Cloud](entities/OpenCloud.md) — Domestic agent-era project/event discussed through skills, CLI friction, ecosystem consensus, and scheduled routines.
 - [Outrank](entities/Outrank.md) — SEO product discussed as part of Tea Maker's AI-era distribution playbook.
 - [Paperboy](entities/Paperboy.md) — AI-agent startup exploring OS-level context, persistent memory, proactive agents, and IM/inbox-style collaboration interfaces.
-- [Palantir](entities/Palantir.md) — Enterprise software company referenced as the origin context for forward-deployed engineering.
+- [Palantir](entities/Palantir.md) — Enterprise software and data-platform company connecting FDE lineage, defense and public-sector procurement, public-service data integration, and data-operationalization surveillance concerns.
 - [Party Guitar](entities/PartyGuitar.md) — Winning portable chord-based music prototype from the Xiaohongshu hackathon.
 - [Peak AI](entities/PeakAI.md) — AI search analytics SaaS company discussed through rapid validation, GEO, and mid-market pricing.
 - [Perplexity](entities/Perplexity.md) — AI search tool discussed as one of the surfaces monitored by Peak AI.
@@ -11003,6 +11007,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Data Operationalization](concepts/DataOperationalization.md) — Process of turning scattered or siloed data into searchable, linkable, decision-supporting systems without necessarily owning the underlying data.
+- [Identity Resolution Error](concepts/IdentityResolutionError.md) — Failure mode where data systems link records, photos, names, or attributes to the wrong person while producing an actionable-looking profile.
+- [Consentless Facial Search](concepts/ConsentlessFacialSearch.md) — Privacy problem where public or third-party photos become searchable by face without meaningful consent to later identification.
+- [Government Data Silo Collapse](concepts/GovernmentDataSiloCollapse.md) — Weakening of legal, institutional, or technical separation between government datasets collected for different purposes.
+- [Privacy Act of 1974](concepts/PrivacyAct1974.md) — U.S. federal privacy law used in the source to frame purpose limits on agency data repurposing.
 - [Community Bank AI Adoption](concepts/CommunityBankAIAdoption.md) — Smaller-bank AI adoption frame linking reporting, budgeting, document review, borrower relationships, and regulated accountability.
 - [AI Credit Access Bias](concepts/AICreditAccessBias.md) — Fair-lending risk where AI systems can exclude worthy borrowers through proxy variables such as geography or income context.
 - [Third-Party AI Vendor Oversight](concepts/ThirdPartyAIVendorOversight.md) — Governance of outside AI software providers whose tools affect regulated institutional workflows and consumer outcomes.
@@ -11116,7 +11125,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Immigration Court Throughput Pressure](concepts/ImmigrationCourtThroughputPressure.md) — Procedural condition where high-volume immigration hearings, weak notice, and lack of lawyers help convert arrests into removal orders.
 - [Medieval Visual Political Narrative](concepts/MedievalVisualPoliticalNarrative.md) — Visual storytelling mode where medieval sequence, symbols, and material craft make political legitimacy claims.
 - [Norman Conquest of England](concepts/NormanConquestOfEngland.md) — 1066 invasion and succession conflict as narrated through the Bayeux Tapestry branch.
-- [Technology-Assisted Interior Enforcement](concepts/TechnologyAssistedInteriorEnforcement.md) — Funded, data-aided immigration enforcement inside the United States after visible raid backlash.
+- [Technology-Assisted Interior Enforcement](concepts/TechnologyAssistedInteriorEnforcement.md) — Funded, data-aided immigration enforcement inside the United States through target-listing tools, multi-dataset integration, and downstream court pressure.
 - [Customer Signal Driven Pivot](concepts/CustomerSignalDrivenPivot.md) — Product-market-fit pattern where repeated customer evidence forces a product or positioning change.
 - [Enterprise Internal Email Infrastructure](concepts/EnterpriseInternalEmailInfrastructure.md) — Enterprise communications frame treating internal email as governed, measurable, deliverable infrastructure.
 - [Channel Native Internal Communication](concepts/ChannelNativeInternalCommunication.md) — Internal communications pattern for publishing through employee channels while preserving governance and analytics.

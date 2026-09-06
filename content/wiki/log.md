@@ -15440,6 +15440,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-06] ingest | Love in the time of Palantir
+
+Ingested the 2026-09-02 Planet Money episode on a Palantir-themed dating event, data operationalization, identity-resolution error, consentless facial search, and ICE/DHS data integration. Added source `default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515`; created `JamesSteinberg`, `MikeSteinberger`, `PalantirDatingEvent`, `DataOperationalization`, `IdentityResolutionError`, `ConsentlessFacialSearch`, `GovernmentDataSiloCollapse`, and `PrivacyAct1974`; updated `Palantir`, `USImmigrationAndCustomsEnforcement`, `USDepartmentOfHomelandSecurity`, `TechnologyAssistedInteriorEnforcement`, `index`, and `overview`. No settled contradiction found; Palantir, ICE, and DHS non-response leaves dataset counts, database scale, and operational-speed claims source-scoped.
+
 ## [2026-09-06] ingest | 當新聞成為賭盤，記者可以大賺一筆嗎？
 
 Ingested the 2026-09-02 端闻 episode on Xiaowei's simulated Polymarket month, prediction-market Yes/No mechanics, Hormuz and 2028 election trades, forecast-market-versus-poll claims, settlement-definition power, gendered celebrity-body markets, Chinese nationalist war-betting examples, and news attention turning into position anxiety. Added source `dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79`; created `XiaoweiDuanwenReporter`, `PolySimulator`, `PredictionMarketSettlementPower`, `NewsAsTradingPosition`, and `PredictionMarketGenderedAttention`; updated `DuanwenNewsPodcast`, `Polymarket`, `AdvanceNewsTradingExperiment`, `PredictionMarketTraderAlpha`, `PredictionMarketPublicGoodClaim`, `PredictionMarketEthics`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; forecast accuracy, traffic demographics, market volume, and simulated-trading results remain source-scoped.
@@ -15543,3 +15547,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-06] lint | Wiki health check
+
+Health and identity validation passed. Deterministic lint scanned 17,464 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, one fragile bridge (`entities/CatholicChurch` → `concepts/ReligiousControlledSubstanceExemption`), and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` was configured in the environment. Report returned in-session; `wiki/lint-report.md` was not updated.

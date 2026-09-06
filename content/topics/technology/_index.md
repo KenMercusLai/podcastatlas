@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2746
+topic_total_pages: 2750
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1447,6 +1447,9 @@ topic_concepts:
   - key: "DataFoundationFirstAIStrategy"
     title: "Data Foundation-First AI Strategy"
     url: "/wiki/concepts/datafoundationfirstaistrategy/"
+  - key: "DataOperationalization"
+    title: "Data Operationalization"
+    url: "/wiki/concepts/dataoperationalization/"
   - key: "DataPortabilityAndSustainableTools"
     title: "Data Portability And Sustainable Tools"
     url: "/wiki/concepts/dataportabilityandsustainabletools/"
@@ -2116,6 +2119,9 @@ topic_concepts:
   - key: "HyperscalerAIGatekeeping"
     title: "Hyperscaler AI Gatekeeping"
     url: "/wiki/concepts/hyperscaleraigatekeeping/"
+  - key: "IdentityResolutionError"
+    title: "Identity Resolution Error"
+    url: "/wiki/concepts/identityresolutionerror/"
   - key: "IllinoisAILiabilityBill"
     title: "Illinois AI Liability Bill"
     url: "/wiki/concepts/illinoisailiabilitybill/"
@@ -5030,6 +5036,9 @@ topic_entities:
   - key: "JakeHeller"
     title: "Jake Heller"
     url: "/wiki/entities/jakeheller/"
+  - key: "JamesSteinberg"
+    title: "James Steinberg"
+    url: "/wiki/entities/jamessteinberg/"
   - key: "JanelleShane"
     title: "Janelle Shane"
     url: "/wiki/entities/janelleshane/"
@@ -5507,6 +5516,9 @@ topic_entities:
   - key: "MikePavelko"
     title: "Mike Pavelko"
     url: "/wiki/entities/mikepavelko/"
+  - key: "MikeSteinberger"
+    title: "Mike Steinberger"
+    url: "/wiki/entities/mikesteinberger/"
   - key: "MinKao"
     title: "Min Kao / 高明环"
     url: "/wiki/entities/minkao/"
