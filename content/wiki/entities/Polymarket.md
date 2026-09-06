@@ -2,46 +2,61 @@
 title: "Polymarket"
 type: entity
 tags: [prediction-market, markets, probability]
-sources: [all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]
-last_updated: 2026-08-24
+sources:
+  - all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830
+  - all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390
+  - all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260
+  - before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets
+  - tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128
+  - tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128
+  - e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0
+  - dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi
+  - dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79
+last_updated: 2026-09-06
+knowledge_schema: synthesis-v1
 ---
 
 # Polymarket
 
-[[all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]] adds Polymarket as a 2026 midterm probability signal. [[JasonCalacanis|Jason Calacanis]] cites a market showing Democrats near even odds to take the Senate, while [[DavidSacks|David Sacks]] treats the Senate as a toss-up but says polling error makes him lean toward Republicans holding it.
+## Overview
+Polymarket is a crypto-linked prediction-market platform tracked in the wiki as a price-as-probability example, a modern successor to older election markets, a speculative media-infrastructure bet, and a recurring case in prediction-market ethics and integrity debates.
 
-[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds Polymarket as a noisy market signal for AI IPO timing. [[JasonCalacanis|Jason Calacanis]] cites a roughly 65% Anthropic IPO probability while also noting light volume, making this a source-scoped example of prediction markets as context rather than proof.
+## Current Profile
+The current synthesis is deliberately mixed. Several sources use Polymarket optimistically: it can summarize distributed expectations, give election or IPO context, and attract investors who imagine prediction markets becoming news or market infrastructure. The [[IowaElectronicMarkets]] history source also makes Polymarket less novel by placing it in a long lineage of election betting and academic market experiments.
 
-[[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds a bullish investor-media version of Polymarket. Friedberg names it as both a business winner and best-performing-asset candidate, arguing that it could move from a quirky prediction market toward market and news infrastructure; Jason separately groups it with wagering-adjacent assets such as [[Robinhood]] and [[Coinbase]].
+The risk profile has become stronger over time. [[MarketplaceTech]] sources connect Polymarket to harmful-event market boundaries and alleged classified-information trading, while the [[DuanwenNewsPodcast|端闻]] episode adds a reporter-side critique: even when prices are useful, platform settlement definitions, already-priced expectations, gendered market culture, and trader attention can distort how news is understood.
 
-[[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] adds a historical comparison through [[RobertForsythe]] and the [[IowaElectronicMarkets]]. The source treats Polymarket as a modern, larger-scale platform using the same broad prediction-market logic that Iowa tested under academic and regulatory limits.
+## Key Characteristics
+- Price-as-probability platform used by multiple sources to illustrate market aggregation.
+- Commercial-scale successor to older election-betting and academic prediction-market experiments.
+- Investor-media object framed by some All-In sources as a potential business winner or news-infrastructure layer.
+- Ethics and integrity case when markets involve nuclear weapons, war, classified information, or manipulable events.
+- Trading-edge testbed where correct news judgment can still fail because timing, pricing, and settlement rules matter.
+- Cultural platform whose market selection can financialize gendered attention and reduce complex events to binary contracts.
 
-[[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] adds Polymarket as a [[PredictionMarketEthics]] case rather than only a price-as-probability example. The episode says Polymarket removed markets that let traders bet on whether and when a nuclear weapon would be detonated, using that decision to show why some event contracts become ethically and regulatorily unsafe even if prediction markets can aggregate information.
+## Evidence
+- Price signal and market lineage: [[e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]] uses Polymarket to explain price-as-probability thinking, while [[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] compares it with the Iowa Electronic Markets and older election betting.
+- Investor and media-infrastructure claims: [[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] names Polymarket as a possible 2026 business and asset winner, [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] uses it as noisy IPO-odds context, and [[all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]] uses it as midterm context.
+- Ethics and integrity limits: [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] says Polymarket removed nuclear-weapons markets, while [[tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]] cites alleged classified military information being used to profit on Polymarket.
+- AI-era trading speculation: [[dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]] places Polymarket inside a speculative [[OnePersonFund]] loop where coding agents might gather public signals for trading strategies.
+- Journalist simulation and critique: [[dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79]] follows [[XiaoweiDuanwenReporter|小薇]] through a simulated Polymarket month that loses money and foregrounds [[PredictionMarketSettlementPower]], [[NewsAsTradingPosition]], and [[PredictionMarketGenderedAttention]].
 
-[[tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]] adds a [[PredictionMarketIntegrityOversight]] angle. The episode says Israeli authorities arrested two people accused of using classified military information to profit on Polymarket, making the platform part of the wiki's [[EventContractManipulationRisk]] branch around war, military action, and non-public information.
+## Qualifications
+Polymarket prices are evidence of participant expectations, not proof that the priced event will happen. All-In's bullish asset and infrastructure claims are investor-media forecasts, not recommendations. The episode-level IPO, election, volume, demographic, and forecast-accuracy claims are source-scoped unless independently verified. The Duanwen experiment used virtual funds and cannot establish real-money profitability or platform-wide user behavior.
 
-Polymarket appears in [[e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]] as the episode's concrete example of price-as-probability thinking. The source uses it to explain why a market price can be treated as the current aggregate odds implied by participants who update their positions as new information arrives.
+## What Changed
+- Migrated the page to the synthesis-first entity schema.
+- Added the Duanwen reporter experiment as evidence that Polymarket can change news attention even when no real money is used.
+- Added settlement-definition and gendered-attention risks to the platform profile.
+- Preserved the prior price-signal, historical-lineage, investor-upside, ethics, and integrity claims while compressing repeated source-led prose.
 
-Polymarket also appears in [[dang-ruanjian-rongyi-bei-chuangzuo-xin-shidai-de-chanpin-chang-shenme-yang-duitan-albert-ltgalbpl0p41d33vvsbaczqrcbdi]] as a possible market for [[OnePersonFund]] speculation. The source uses it to ask whether AI coding and public-information analysis can shorten the path from token consumption to economic payoff, not to recommend trading or prove that individual AI strategies have durable edge.
-
-## Source Position
-- The Marketplace Tech source treats nuclear-weapons wagers as a boundary case for prediction markets, not as a normal financial or forecasting product.
-- The later Marketplace Tech source treats classified military information as a market-integrity risk, not only an ethical content-boundary problem.
-- The episode uses [[Polymarket]] as an analogy for [[MarketEfficiency]], not as a platform recommendation.
-- The point is that price can summarize distributed views and capital-weighted information better than a single person's private opinion.
-- The guest dislikes treating near-resolution tiny spreads as riskless because even a small residual probability can still matter.
-- In the episode's trading frame, prediction-market prices illustrate why [[NoPredictionTrading]] starts from observed odds and payoff, not from proving one's opinion correct.
-- The Planet Money history source makes Polymarket part of a longer [[PredictionMarketHistory]] rather than only a current crypto or event-contract platform.
-- The later Albert source treats Polymarket as a possible OPF feedback loop, but the claim remains speculative and exposed to [[InvestmentRiskManagement]] concerns.
-- The All-In prediction source is a bullish asset and infrastructure call, so it should be read beside the page's existing ethics, integrity, and suitability caveats.
-- The August 21 All-In source uses Polymarket as election context, not as proof of final 2026 Senate outcomes.
-
-## Connections
-- [[PredictionMarketEthics]], [[Kalshi]], and [[CommodityFuturesTradingCommission|CFTC]] - harmful-event market and regulatory frame added by Marketplace Tech.
-- [[PredictionMarketIntegrityOversight]], [[EventContractManipulationRisk]], and [[Israel]] - classified-information and conflict-market extension.
-- [[MarketEfficiency]] — price as an information aggregation mechanism.
-- [[NoPredictionTrading]] — trading posture that observes probabilities without needing single-event certainty.
-- [[InvestmentEdge]] and [[PositionSizing]] — probability and payoff still need disciplined exposure.
-- [[IowaElectronicMarkets]], [[ElectionBettingMarkets]], and [[AcademicPredictionMarketSandbox]] - historical comparison branch.
-- [[OnePersonFund]], [[TokenMaxxing]], and [[PredictionMarketTraderAlpha]] — AI-assisted trading speculation added by the later Albert source.
-- [[PredictionMarketPublicGoodClaim]], [[Robinhood]], [[Coinbase]], and [[InvestmentRiskManagement]] - All-In's media-infrastructure and wagering-asset branch.
+## Relationships
+- [[PredictionMarketEthics]] - boundary concept for harmful, intimate, war-linked, and socially corrosive event contracts.
+- [[PredictionMarketIntegrityOversight]] - control problem around insider information, manipulation, and public trust.
+- [[PredictionMarketPublicGoodClaim]] - optimistic information-infrastructure argument that Polymarket both supports and complicates.
+- [[PredictionMarketTraderAlpha]] - private-edge question tested by traders, AI-builder speculation, and Xiaowei's simulation.
+- [[PredictionMarketSettlementPower]] - platform-definition risk added by the Duanwen episode.
+- [[PredictionMarketGenderedAttention]] - gendered market-culture risk added by the Duanwen episode.
+- [[NewsAsTradingPosition]] - journalism-attention shift shown by the simulated trading month.
+- [[IowaElectronicMarkets]] - historical comparison for modern event markets.
+- [[Kalshi]] - adjacent prediction-market platform in the same regulatory and cultural field.

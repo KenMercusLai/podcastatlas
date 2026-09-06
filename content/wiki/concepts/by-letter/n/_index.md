@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6456
+wiki_total_pages: 6459
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "NewYorkTimesBestsellerList"
     title: "New York Times Bestseller List"
     url: "/wiki/concepts/newyorktimesbestsellerlist/"
+  - key: "NewsAsTradingPosition"
+    title: "News As Trading Position"
+    url: "/wiki/concepts/newsastradingposition/"
   - key: "NewsFindsMe"
     title: "News Finds Me / 新闻找到我"
     url: "/wiki/concepts/newsfindsme/"

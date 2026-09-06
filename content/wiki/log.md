@@ -15440,6 +15440,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-06] ingest | 當新聞成為賭盤，記者可以大賺一筆嗎？
+
+Ingested the 2026-09-02 端闻 episode on Xiaowei's simulated Polymarket month, prediction-market Yes/No mechanics, Hormuz and 2028 election trades, forecast-market-versus-poll claims, settlement-definition power, gendered celebrity-body markets, Chinese nationalist war-betting examples, and news attention turning into position anxiety. Added source `dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79`; created `XiaoweiDuanwenReporter`, `PolySimulator`, `PredictionMarketSettlementPower`, `NewsAsTradingPosition`, and `PredictionMarketGenderedAttention`; updated `DuanwenNewsPodcast`, `Polymarket`, `AdvanceNewsTradingExperiment`, `PredictionMarketTraderAlpha`, `PredictionMarketPublicGoodClaim`, `PredictionMarketEthics`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; forecast accuracy, traffic demographics, market volume, and simulated-trading results remain source-scoped.
+
 ## [2026-09-06] ingest | No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头
 
 Ingested the 2026-09-02 半拿铁 episode on Ningbo manufacturing depth, following Fangtai, Shenzhou International, Ningbo Yunsheng, Mideer, Boyang Home Textile, NFCC, and Ningbo Zhoushan Port. Added source `no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666`; created Ningbo, Fangtai, Mao Lixiang, Mao Zhongqun, AUX, Ningbo Yunsheng, Zhu Yunde, Zhu Xiaodong (Yunsheng), Ma Baoxing, Ma Jianrong, Mideer, Qin Qiangfeng, Boyang, Rong Junchuan, NFCC, Ningbo Zhoushan Port, and nine manufacturing concepts; updated Shenzhou International, Chinese Family Business Succession, index, and overview. No settled contradiction found; company figures, rankings, market shares, port statistics, and listing claims remain source-scoped.
@@ -15523,3 +15527,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-06] lint | Wiki health check
+
+Health and identity validation passed. Deterministic lint scanned 17,443 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-09-02 with 16,930 nodes and 195,431 edges while the wiki scan covered 17,443 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, one fragile bridge, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` without provider configuration. Report returned in-session; `wiki/lint-report.md` was not updated.

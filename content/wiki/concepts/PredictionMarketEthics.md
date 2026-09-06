@@ -2,49 +2,62 @@
 title: "Prediction Market Ethics"
 type: concept
 tags: [markets, regulation, ethics, risk]
-sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, do-prediction-market-bettors-make-anything-better, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
-last_updated: 2026-08-14
+sources:
+  - tech-20260814-tech-pod-128-tech-20260814-tech-pod-128
+  - before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets
+  - do-prediction-market-bettors-make-anything-better
+  - tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128
+  - tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128
+  - tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128
+  - dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79
+last_updated: 2026-09-06
+knowledge_schema: synthesis-v1
 ---
 
 # Prediction Market Ethics
 
-[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds the state-tax and public-benefit version of the ethics problem. [[MariaCurie|Maria Curi]] says [[NewYorkState|New York State]] argues that treating prediction markets as gambling would subject them to taxes that can support gambling-addiction programs, after-school sports, and other public uses. This does not settle whether the markets should exist, but it adds a public-finance question to [[PredictionMarketFederalism]].
+## Definition
+Prediction market ethics is the problem of deciding which real-world events should be tradable, under what controls, and with what public meaning, even if event markets can aggregate useful information about probabilities.
 
-Prediction market ethics is the problem of deciding which real-world events should be tradable even if markets can aggregate useful information about probabilities. [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] adds the concept through [[Kalshi]] markets tied to [[AliKhamenei]] and [[Polymarket]] markets tied to nuclear-weapons detonation.
+## Current Synthesis
+The concept began with harmful-event boundaries. [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] uses [[Kalshi]] markets tied to [[AliKhamenei]] and [[Polymarket]] nuclear-weapons markets to show why death, war, terrorism, assassination, and nuclear escalation are ethically and regulatorily dangerous event categories.
 
-The episode's tension is that prediction prices can reveal distributed expectations, fears, and information. But when a contract references death, assassination, war, terrorism, or nuclear escalation, the market can appear to normalize harmful outcomes, create incentives around catastrophe, invite manipulation, or violate regulatory boundaries.
+Later sources broaden the ethics problem. Integrity oversight and self-regulation matter when insiders, athletes, officials, or military actors can influence or privately know outcomes. Historical election markets show that useful forecasting has always been near gambling and political theater. State gambling classification adds public-finance questions about taxes, addiction programs, and public-benefit obligations.
 
-[[tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]] adds the operational version of the same ethics problem. It compares prediction markets with licensed sports betting after the [[JontayPorter]] [[NationalBasketballAssociation|NBA]] scandal, arguing that prediction markets may need [[PredictionMarketIntegrityOversight]] and [[SportsbookIntegrityMonitoring]] when contracts involve sports, war, military action, government information, or other easily manipulated events.
-
-[[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds the self-regulation version. [[Kalshi]]'s candidate and sports-insider guardrails respond to the ethical problem from the platform side: users may not trust a market if politicians, athletes, coaches, referees, or war insiders can trade on information or influence that ordinary participants do not have.
-
-[[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] adds the historical layer. It shows that prediction markets have long sat between useful forecasting, gambling, political theater, and regulatory discomfort: older [[ElectionBettingMarkets]] could be informative, while the [[IowaElectronicMarkets]] needed an [[AcademicPredictionMarketSandbox]] to remain acceptable as teaching and research rather than ordinary wagering.
-
-[[do-prediction-market-bettors-make-anything-better]] adds the app-behavior and public-value layer. [[TarekMansour]] defends [[Kalshi]] as a money-backed "truth machine," but [[BobbyAllen]] and [[MaryChilds]]'s speech-betting experiment shows how the same product can feel like gambling, narrow civic attention to settlement words, and encourage loss-chasing. The source therefore separates [[PredictionMarketPublicGoodClaim]] from the ethics of particular market designs.
+The Duanwen episode adds an attention and culture layer. A market need not reference catastrophe to be ethically charged: it can compress complex public realities into brittle Yes/No settlement rules, turn news into personal position anxiety, or make women celebrities' bodies and private lives into tradable objects. Prediction-market ethics therefore includes content categories, integrity controls, settlement definitions, user experience, and cultural targeting.
 
 ## Key Claims
-- Useful probability aggregation does not automatically make an event morally or legally appropriate to trade.
-- Death, war, terrorism, assassination, and nuclear-weapons contracts are especially risky because they can turn public harm into a speculative payoff.
-- Market-resolution timing matters: Kalshi's reimbursement of post-death trades shows that knowledge asymmetry can become a fairness issue immediately.
-- Insider trading and event manipulation can damage prediction-market legitimacy even when the underlying topic is not inherently prohibited.
-- Regulatory status matters because platforms may present themselves as information markets while states or regulators may treat parts of the activity as gambling or prohibited event contracts.
-- Integrity controls matter because an event market can be ethically risky through manipulation or insider information even when the event category is not obviously prohibited.
-- The line between prediction market and sportsbook is strategically important: stronger sportsbook-like controls may improve trust while also strengthening gambling-law claims.
-- Self-regulation is ethically relevant only if it can reliably identify prohibited traders and sensitive markets before harm or unfair trading occurs.
-- The ethical boundary has a history: even accurate election markets can be treated as gambling, political signaling, or unacceptable media material depending on context.
-- A market can be informative for traders and profitable for platforms without making the public better informed.
-- Speech-word bets, sports markets, and pop-culture markets test the gap between probability aggregation and civic usefulness.
-- The legal claim that an event contract is a derivative does not resolve whether the user experience functions like gambling.
-- State gambling classification can also be an ethical funding argument if public harms are offset through gambling taxes and treatment programs.
+- Useful probability aggregation does not automatically make an event morally, legally, or journalistically appropriate to trade.
+- Catastrophe-linked contracts are especially risky because they can turn public harm into speculative payoff.
+- Insider trading, event manipulation, and non-public information can damage legitimacy even when the event category is not inherently prohibited.
+- Platform self-regulation matters but depends on identifying traders, classifying markets, and enforcing rules before harm or unfair trading.
+- The legal claim that an event contract is a derivative does not settle whether the user experience functions like gambling.
+- Settlement wording and binary resolution can become ethical problems when they erase ambiguity or human stakes.
+- Gendered and intimate-life markets show that social harm can arise from attention and objectification, not only from death or war incentives.
 
-## Connections
-- [[Kalshi]], [[Polymarket]], and [[CommodityFuturesTradingCommission|CFTC]] - source platforms and regulator.
-- [[BobbyAllen]], [[MaryChilds]], [[TarekMansour]], [[AmandaFisher]], and [[BetterMarkets]] - April 2026 Planet Money reporting and critique branch.
-- [[PredictionMarketLegalBoundary]], [[PredictionMarketPublicGoodClaim]], and [[PredictionMarketTraderAlpha]] - new concepts connected to the ethics layer.
-- [[AliKhamenei]] and [[Iran]] - disputed event-market context.
-- [[NoPredictionTrading]] - adjacent probability frame qualified by ethics and regulation.
-- [[PolicyAnnouncementTradingRisk]] - related risk where event-linked trading depends on policy timing, information, and interpretation.
-- [[PredictionMarketIntegrityOversight]], [[PredictionMarketSelfRegulation]], [[SportsbookIntegrityMonitoring]], and [[EventContractManipulationRisk]] - integrity concepts added by later Marketplace Tech episodes.
-- [[JontayPorter]], [[NationalBasketballAssociation|NBA]], [[DraftKings]], [[BenSchifrin]], and [[JohnHolden]] - sports case and expert context for the oversight extension.
-- [[IowaElectronicMarkets]], [[PredictionMarketHistory]], [[ElectionBettingMarkets]], and [[AcademicPredictionMarketSandbox]] - historical branch added by Planet Money.
-- [[PredictionMarketFederalism]], [[LetitiaJames]], and [[NewYorkState|New York State]] - public-benefit and gambling-tax branch added by Marketplace Tech.
+## Evidence
+- Harmful-event boundary: [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] discusses Kalshi's Khamenei-related market and Polymarket's removal of nuclear-weapons markets.
+- Integrity and sportsbook comparison: [[tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]] uses the [[JontayPorter]] case and alleged classified-information trading to argue for stronger oversight.
+- Self-regulation limits: [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] records Kalshi guardrails while emphasizing identity and scale problems.
+- History and public-value critique: [[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] places event markets near gambling and political theater, while [[do-prediction-market-bettors-make-anything-better]] tests truth-machine claims against app behavior and trader incentives.
+- Federalism and public finance: [[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds New York's gambling-law and tax-benefit argument.
+- Settlement, journalism, and gender: [[dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79]] argues that Polymarket can flatten reality into binary settlement, alter news attention, and financialize gendered gaze.
+
+## Counterevidence & Qualifications
+- Some prediction markets may be useful, low-stakes, clearly worded, and socially acceptable; the concept is not a blanket rejection of event markets.
+- Ethical categories differ. War manipulation, sports insider trading, speech-word gambling, state tax policy, and celebrity-body markets require different controls.
+- The Duanwen demographic and culture claims rely on the source's web-traffic and qualitative observations rather than platform-internal datasets.
+
+## What Changed
+- Migrated the page to the synthesis-first concept schema.
+- Added settlement-definition, journalism-attention, and gendered-market-content risks from the Duanwen episode.
+- Compressed older source-led append prose into grouped evidence while preserving the original source order.
+
+## Related Concepts
+- [[PredictionMarketLegalBoundary]] - legal classification question that shapes ethical treatment.
+- [[PredictionMarketPublicGoodClaim]] - information-value claim constrained by event selection and use.
+- [[PredictionMarketTraderAlpha]] - private edge that can conflict with public fairness or civic value.
+- [[PredictionMarketIntegrityOversight]] - governance tools for manipulation and insider-information risk.
+- [[PredictionMarketSelfRegulation]] - platform-led guardrail model with limits.
+- [[PredictionMarketSettlementPower]] - definition and resolution authority added by the Duanwen episode.
+- [[PredictionMarketGenderedAttention]] - gendered-content extension of prediction-market ethics.

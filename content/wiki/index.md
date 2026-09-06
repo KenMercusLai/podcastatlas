@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [當新聞成為賭盤，記者可以大賺一筆嗎？](sources/dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79.md) — 端闻 episode on a reporter's simulated Polymarket month, prediction-market settlement power, news-as-position attention, public-good claims, and gendered market culture.
 - [No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头](sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666.md) — 半拿铁 episode on Ningbo manufacturing depth through Fangtai, Shenzhou, Yunsheng, Mideer, Boyang, single champions, family succession, and port-enabled industrial clusters.
 - [对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！](sources/dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop.md) — 十字路口Crossing interview with Ren Lifeng on Douyin product judgment, Shumei Wanwu, AI 3D manufacturing pipelines, production-grade 3D output, Maker OS ambition, and why foundation models may not absorb physical-production workflows.
 - [#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西](sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d.md) — 声东击西 live roundtable with Cathay Pacific, Ma Xiao, and Zhang Jin on aviation as infrastructure for cities, cargo, geopolitics, Hong Kong, the Greater Bay Area, and passenger life radius.
@@ -1985,7 +1986,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [花园饭店 / Garden Hotel Shanghai](entities/GardenHotelShanghai.md) — Former French Club building used as evidence of Lai An's durable construction and mixed classical/Art Deco design.
 - [盖斯康公寓 / Gascoigne Apartments](entities/GascoigneApartments.md) — Lai An apartment example showing modern form, high-end residential hierarchy, and service circulation.
 - [迈奇公寓 / Majestic Apartments (Shanghai)](entities/MajesticApartmentsShanghai.md) — Lai An apartment example tied to rounded balcony and curved-corner design vocabulary.
-- [端闻 / 端传媒新闻播客](entities/DuanwenNewsPodcast.md) — News podcast that reports the 旺旺 case through mainland expression constraints, animal-law expertise, and Hong Kong solidarity.
+- [端闻 / 端传媒新闻播客](entities/DuanwenNewsPodcast.md) — News podcast using reported explainers and first-person experiments to examine civic action, platform incentives, and journalism ethics.
+- [小薇 / Xiaowei (Duanwen reporter)](entities/XiaoweiDuanwenReporter.md) — Reporter whose simulated Polymarket month tests whether news judgment can become prediction-market edge.
+- [PolySimulator](entities/PolySimulator.md) — Polymarket-linked simulation tool used for virtual prediction-market trading in the Duanwen episode.
 - [Wangwang / 旺旺](entities/WangwangDog.md) — Stray dog whose killing became a public-memory symbol for animal cruelty, legal absence, and cross-border animal-protection solidarity.
 - [Jiang Hong / 江宏](entities/JiangHongAnimalVolunteer.md) — Mainland animal-welfare volunteer describing coded posting, attempted projections, venue refusals, takedowns, and police contact around the 旺旺 case.
 - [Zhang Bo / 张博](entities/ZhangBoAnimalLaw.md) — Animal-law scholar grounding the episode's life-education, animal-pain, and mainland legal-gap analysis.
@@ -10312,7 +10315,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for grounded business explainers across city commerce, food, sports, AI infrastructure, aviation history, ETFs, and refillable beauty packaging.
 - [Grundfos / 格兰富](entities/Grundfos.md) — Pump, water, and cooling-infrastructure company case used to explain AI data-center thermal management.
 - [河南智能超算中心 / Henan Smart Supercomputing Center](entities/HenanSmartSupercomputingCenter.md) — Supercomputing-center case for prefabricated, container-style integrated cooling deployment.
-- [Polymarket](entities/Polymarket.md) — Prediction-market platform used for price-as-probability thinking, ethics and integrity cases, and AI-era one-person fund speculation.
+- [Polymarket](entities/Polymarket.md) — Prediction-market platform used for price-as-probability thinking, ethics and integrity cases, investor-infrastructure claims, settlement-power critique, and news-as-position attention.
 - [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for Latin America investment, jollof-price inflation, BBC longwave shutdown, Starmer's resignation, Brexit, Gulf stability, America at 250, U.S.-Iran diplomacy, NATO stress, Colombia security politics, and other magazine-style segments.
 - [NATO](entities/NATO.md) — Alliance context for defence spending, Ukraine support, European defence autonomy, Russian hybrid pressure, American commitment doubts, and Britain's post-Brexit defence role.
 - [Anton LaGuardia](entities/AntonLaGuardia.md) — The Intelligence diplomatic editor explaining NATO's tense summit, European defence autonomy, and alliance credibility risks.
@@ -13329,7 +13332,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Native Worker](concepts/AINativeWorker.md) — Behavior-based label for workers who use AI to design, execute, and scale workflows end to end, not simply a demographic label.
 - [Managerial AI Fluency Gap](concepts/ManagerialAIFluencyGap.md) — Management-side blocker where managers lack the AI understanding needed to lead, evaluate, or learn from more AI-fluent employees.
 - [AI Job Security Anxiety](concepts/AIJobSecurityAnxiety.md) — Worker and graduate hesitation that AI productivity, automated screening, and junior-role compression may weaken employment security.
-- [Advance News Trading Experiment](concepts/AdvanceNewsTradingExperiment.md) — Trading experiment showing that tomorrow’s headlines still fail without expectation reading, sizing discipline, and abstention.
+- [Advance News Trading Experiment](concepts/AdvanceNewsTradingExperiment.md) — Trading experiments showing that better news or news habits still fail without expectation reading, timing, sizing discipline, and abstention.
 - [Cockroach Movement](concepts/CockroachMovement.md) — Youth-led Indian protest wave that converted a cockroach insult into meme identity, education grievance, and ministerial pressure.
 - [Dissent Space Compression](concepts/DissentSpaceCompression.md) — Pattern where protest remains possible but becomes costlier through patriotic loyalty tests, police force, and infrastructure restrictions.
 - [Education Accountability Protest](concepts/EducationAccountabilityProtest.md) — Protest frame where exam leaks, public education quality, youth unemployment, and ministerial responsibility converge.
@@ -14656,8 +14659,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dynamic Pricing Fairness](concepts/DynamicPricingFairness.md) — Tension between price-based shortage allocation, supply response, consumer fairness, queues, and envy-free market design.
 - [Future Resident Housing Voice](concepts/FutureResidentHousingVoice.md) — Housing-policy frame asking local decisions to represent would-be residents, children, and future generations excluded from current homeowner politics.
 - [Prediction Market Legal Boundary](concepts/PredictionMarketLegalBoundary.md) — Whether yes-or-no event contracts are federally regulated derivatives or state-regulated gambling products.
-- [Prediction Market Public-Good Claim](concepts/PredictionMarketPublicGoodClaim.md) — Argument that event markets improve public knowledge by turning dispersed beliefs into money-backed prices.
-- [Prediction Market Trader Alpha](concepts/PredictionMarketTraderAlpha.md) — Private edge traders seek in event markets through research, speed, niche expertise, physical observation, or settlement-rule interpretation.
+- [Prediction Market Public-Good Claim](concepts/PredictionMarketPublicGoodClaim.md) — Argument that event markets improve public knowledge, qualified by settlement definitions, market selection, integrity, and journalism-attention effects.
+- [Prediction Market Trader Alpha](concepts/PredictionMarketTraderAlpha.md) — Private edge traders seek in event markets through research, speed, niche expertise, physical observation, settlement-rule interpretation, automation, sizing, or abstention.
+- [Prediction Market Settlement Power](concepts/PredictionMarketSettlementPower.md) — Authority created when event-market wording and resolution decide which messy real-world facts count as tradable Yes or No.
+- [News As Trading Position](concepts/NewsAsTradingPosition.md) — Attention shift where public events are first experienced as portfolio exposure rather than civic information or human stories.
 - [Maritime Chokepoint Tolling](concepts/MaritimeChokepointTolling.md) — Use of narrow passage control to screen, charge, or condition vessel movement during conflict.
 - [General Average](concepts/GeneralAverage.md) — Maritime-law risk-sharing principle that can make cargo owners liable for ship or voyage-saving costs.
 - [Freedom of Navigation Trade Order](concepts/FreedomOfNavigationTradeOrder.md) — Trade-order assumption that commercial vessels can use key sea lanes without coercive ad hoc permission.
@@ -16083,7 +16088,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Consumer Data Deletion](concepts/ConsumerDataDeletion.md) — Privacy mechanism for removing broker-held personal information, now framed through centralized requests, broker friction, and enforcement scale.
 - [California Delete Act](concepts/CaliforniaDeleteAct.md) — California law turning data-broker deletion rights into DROP/DROPS workflows, registration duties, compliance checks, and AI-buyer disclosure.
 - [AI-Enabled Spam](concepts/AIEnabledSpam.md) — Unwanted outreach made more scalable, adaptive, or ambiguous by AI, only partly mitigated by data-broker deletion.
-- [Prediction Market Ethics](concepts/PredictionMarketEthics.md) — Boundary problem for event markets that may aggregate information while monetizing harmful outcomes or inviting insider-informed trading.
+- [Prediction Market Ethics](concepts/PredictionMarketEthics.md) — Boundary problem for event markets that may aggregate information while monetizing harm, insider advantage, settlement compression, or gendered attention.
+- [Prediction Market Gendered Attention](concepts/PredictionMarketGenderedAttention.md) — Pattern where event markets price pregnancy, clothing, relationships, bodies, and other gendered celebrity-surveillance topics.
 - [AI Content Licensing](concepts/AIContentLicensing.md) — AI-company payments to publishers or content owners for current information, archives, training data, grounding, attribution, or answer visibility.
 - [Defense AI Supply Chain Risk](concepts/DefenseAISupplyChainRisk.md) — Contractor and procurement risk created when a defense customer treats an AI vendor, model, or integration as unacceptable for critical military systems.
 - [Iran-Linked Cyber Operations](concepts/IranLinkedCyberOperations.md) — State-linked cyber activity described as evolving from DDoS and website defacement toward phishing, vulnerability scanning, data theft, leaks, and industrial-control targeting.

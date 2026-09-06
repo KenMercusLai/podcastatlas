@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2401
+topic_total_pages: 2403
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1747,9 +1747,15 @@ topic_concepts:
   - key: "PredestinedChoice"
     title: "Predestined Choice"
     url: "/wiki/concepts/predestinedchoice/"
+  - key: "PredictionMarketGenderedAttention"
+    title: "Prediction Market Gendered Attention"
+    url: "/wiki/concepts/predictionmarketgenderedattention/"
   - key: "PredictionMarketPublicGoodClaim"
     title: "Prediction Market Public-Good Claim"
     url: "/wiki/concepts/predictionmarketpublicgoodclaim/"
+  - key: "PredictionMarketSettlementPower"
+    title: "Prediction Market Settlement Power"
+    url: "/wiki/concepts/predictionmarketsettlementpower/"
   - key: "PrintingSignatureConstraint"
     title: "Printing Signature Constraint"
     url: "/wiki/concepts/printingsignatureconstraint/"

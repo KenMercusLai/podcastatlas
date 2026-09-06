@@ -38571,6 +38571,10 @@
     "title": "新附地区宽缓治理 / Newly Attached Region Leniency",
     "url": "/wiki/concepts/newlyattachedregionleniency/"
   },
+  "NewsAsTradingPosition": {
+    "title": "News As Trading Position",
+    "url": "/wiki/concepts/newsastradingposition/"
+  },
   "NewsCorp": {
     "title": "News Corp",
     "url": "/wiki/entities/newscorp/"
@@ -42507,6 +42511,10 @@
     "title": "Pollination Service Market",
     "url": "/wiki/concepts/pollinationservicemarket/"
   },
+  "PolySimulator": {
+    "title": "PolySimulator",
+    "url": "/wiki/entities/polysimulator/"
+  },
   "Polymarket": {
     "title": "Polymarket",
     "url": "/wiki/entities/polymarket/"
@@ -42899,6 +42907,10 @@
     "title": "Prediction Market Federalism",
     "url": "/wiki/concepts/predictionmarketfederalism/"
   },
+  "PredictionMarketGenderedAttention": {
+    "title": "Prediction Market Gendered Attention",
+    "url": "/wiki/concepts/predictionmarketgenderedattention/"
+  },
   "PredictionMarketHistory": {
     "title": "Prediction Market History",
     "url": "/wiki/concepts/predictionmarkethistory/"
@@ -42918,6 +42930,10 @@
   "PredictionMarketSelfRegulation": {
     "title": "Prediction Market Self-Regulation",
     "url": "/wiki/concepts/predictionmarketselfregulation/"
+  },
+  "PredictionMarketSettlementPower": {
+    "title": "Prediction Market Settlement Power",
+    "url": "/wiki/concepts/predictionmarketsettlementpower/"
   },
   "PredictionMarketTraderAlpha": {
     "title": "Prediction Market Trader Alpha",
@@ -59311,6 +59327,10 @@
     "title": "小平津 / Xiaopingjin",
     "url": "/wiki/entities/xiaopingjin/"
   },
+  "XiaoweiDuanwenReporter": {
+    "title": "小薇 / Xiaowei (Duanwen reporter)",
+    "url": "/wiki/entities/xiaoweiduanwenreporter/"
+  },
   "XiaoyaoAsNonDependence": {
     "title": "Xiaoyao As Non-Dependence / 逍遥作为不被外物左右",
     "url": "/wiki/concepts/xiaoyaoasnondependence/"
@@ -63890,6 +63910,10 @@
   "dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd": {
     "title": "当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: MiniMax × Hermes Agent",
     "url": "/wiki/sources/dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd/"
+  },
+  "dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79": {
+    "title": "當新聞成為賭盤，記者可以大賺一筆嗎？",
+    "url": "/wiki/sources/dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79/"
   },
   "dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun": {
     "title": "当“印钞机”百度开始失血，是天灾还是人祸？",

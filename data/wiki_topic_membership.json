@@ -48064,6 +48064,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PredictionMarketGenderedAttention": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "PredictionMarketHistory": [
     {
       "key": "economics",
@@ -48107,6 +48114,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "PredictionMarketSettlementPower": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "PrefixCaching": [

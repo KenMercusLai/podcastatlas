@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2196
+topic_total_pages: 2197
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2320,6 +2320,9 @@ topic_concepts:
   - key: "PredictionMarketSelfRegulation"
     title: "Prediction Market Self-Regulation"
     url: "/wiki/concepts/predictionmarketselfregulation/"
+  - key: "PredictionMarketSettlementPower"
+    title: "Prediction Market Settlement Power"
+    url: "/wiki/concepts/predictionmarketsettlementpower/"
   - key: "PremarketFoodSafetyReview"
     title: "Premarket Food Safety Review"
     url: "/wiki/concepts/premarketfoodsafetyreview/"

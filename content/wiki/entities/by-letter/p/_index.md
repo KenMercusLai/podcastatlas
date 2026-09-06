@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 9044
+wiki_total_pages: 9046
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "Polyphemus"
     title: "Polyphemus"
     url: "/wiki/entities/polyphemus/"
+  - key: "PolySimulator"
+    title: "PolySimulator"
+    url: "/wiki/entities/polysimulator/"
   - key: "Pompey"
     title: "Pompey / 庞培"
     url: "/wiki/entities/pompey/"

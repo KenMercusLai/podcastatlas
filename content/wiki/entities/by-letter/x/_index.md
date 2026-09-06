@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9044
+wiki_total_pages: 9046
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "XiaomiYoupin"
     title: "小米有品 / Xiaomi Youpin"
     url: "/wiki/entities/xiaomiyoupin/"
+  - key: "XiaoweiDuanwenReporter"
+    title: "小薇 / Xiaowei (Duanwen reporter)"
+    url: "/wiki/entities/xiaoweiduanwenreporter/"
   - key: "XiaoZhaoLihun"
     title: "小赵（《离婚》） / Xiao Zhao"
     url: "/wiki/entities/xiaozhaolihun/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6456
+wiki_total_pages: 6459
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1004,6 +1004,9 @@ wiki_pages:
   - key: "PredictionMarketFederalism"
     title: "Prediction Market Federalism"
     url: "/wiki/concepts/predictionmarketfederalism/"
+  - key: "PredictionMarketGenderedAttention"
+    title: "Prediction Market Gendered Attention"
+    url: "/wiki/concepts/predictionmarketgenderedattention/"
   - key: "PredictionMarketHistory"
     title: "Prediction Market History"
     url: "/wiki/concepts/predictionmarkethistory/"
@@ -1019,6 +1022,9 @@ wiki_pages:
   - key: "PredictionMarketSelfRegulation"
     title: "Prediction Market Self-Regulation"
     url: "/wiki/concepts/predictionmarketselfregulation/"
+  - key: "PredictionMarketSettlementPower"
+    title: "Prediction Market Settlement Power"
+    url: "/wiki/concepts/predictionmarketsettlementpower/"
   - key: "PredictionMarketTraderAlpha"
     title: "Prediction Market Trader Alpha"
     url: "/wiki/concepts/predictionmarkettraderalpha/"
