@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 9119
+wiki_total_pages: 9145
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "JohannLoschek"
     title: "Johann Loschek"
     url: "/wiki/entities/johannloschek/"
+  - key: "Johannesburg"
+    title: "Johannesburg"
+    url: "/wiki/entities/johannesburg/"
   - key: "JohnAdams"
     title: "John Adams"
     url: "/wiki/entities/johnadams/"
@@ -572,6 +575,9 @@ wiki_pages:
   - key: "JohnGodfrey"
     title: "John Godfrey"
     url: "/wiki/entities/johngodfrey/"
+  - key: "JohnGottman"
+    title: "John Gottman / 约翰·哥特曼"
+    url: "/wiki/entities/johngottman/"
   - key: "JohnGraham"
     title: "John Graham"
     url: "/wiki/entities/johngraham/"
@@ -623,6 +629,9 @@ wiki_pages:
   - key: "JohnMaynardKeynes"
     title: "John Maynard Keynes / 凯恩斯"
     url: "/wiki/entities/johnmaynardkeynes/"
+  - key: "JohnMcCarthy"
+    title: "John McCarthy / 约翰·麦卡锡"
+    url: "/wiki/entities/johnmccarthy/"
   - key: "JohnMussington"
     title: "John Mussington"
     url: "/wiki/entities/johnmussington/"

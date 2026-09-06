@@ -6,6 +6,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？](sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk.md) — 无时差研究所 episode using a South Africa trip to connect travel safety, Johannesburg, Soweto, apartheid memory, Mandela, Robben Island, Safari, Cape Town, and post-apartheid inequality.
+- [vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切](sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i.md) — 天真不天真 return conversation with Song Jia on pausing work, acting through transmission and scent, inward self-cultivation, benevolent speech, relationships, sincere emotional support, travel, and detaching from praise or criticism.
+- [#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？](sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05.md) — 声东击西 episode with Yang Bin on the 1956 Dartmouth AI workshop, slow gathering improvisation, peripheral innovation fields, psychological safety, counterculture, Patagonia, and AI-era university reform.
+- [494 张诗坪谈战争史视角下的秦末汉初混战](sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj.md) — 忽左忽右 episode with Zhang Shiping on Qin collapse, Xiang Yu, Liu Bang, Julu, Xinan, Pengcheng, Han Xin, cavalry tactics, and Eurasian military comparison.
+- [Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气](sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv.md) — 文化有限 episode on Lori Gottlieb's Maybe You Should Talk to Someone, psychotherapy as relational change, defense work, insight-to-action gaps, and Gottman relationship warnings.
 - [495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响](sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo.md) — 忽左忽右 episode with Lu Dapeng on Shakespeare's literary ambiguity, mixed early-modern theatre, English idiom, history plays, Tudor legitimacy memory, the Globe Theatre, and global adaptation.
 - [No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达](sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81.md) — 三五环 interview with Chouxiangzai on CCTV documentary training, AI-video virality, internet expression, Kanye-style cultural contrast, short-drama workflow, and C-side attention becoming B-side service work.
 - [EP384-普通人也能打得起的“司美格鲁肽”，减肥针“一针瘦十斤”背后的真相与代](sources/ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy.md) — 无时差研究所 episode with Guo Haotian on GLP-1 weight-loss drugs, semaglutide, tirzepatide, side effects, rebound, muscle preservation, pricing, patents, China pipelines, and research-use peptide risk.
@@ -1961,6 +1966,32 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Johannesburg](entities/Johannesburg.md) — South African arrival city where EP383 makes travel safety and apartheid-memory routes visible.
+- [Soweto](entities/Soweto.md) — Johannesburg-area township in EP383, read through apartheid housing, education memory, class variation, and tourism ethics.
+- [Constitution Hill Johannesburg](entities/ConstitutionHillJohannesburg.md) — Former prison-memory site where EP383 connects apartheid hierarchy, pass-law punishment, Mandela, Gandhi, and guide interpretation.
+- [Apartheid Museum Johannesburg](entities/ApartheidMuseumJohannesburg.md) — Johannesburg museum EP383 recommends as the key curated entry into apartheid history and transition violence.
+- [Robben Island](entities/RobbenIsland.md) — Cape Town-area prison island where EP383 turns Mandela and apartheid memory into living-witness testimony.
+- [Cape Town](entities/CapeTown.md) — Scenic South African city and Robben Island gateway in EP383's travel route.
+- [Kruger National Park](entities/KrugerNationalPark.md) — Safari setting in EP383, used for wildlife experience and tourism-labor observations.
+- [宋佳 / 小花老师 / Song Jia](entities/SongJia.md) — Returning 天真不天真 guest whose episode profile centers on acting, work pauses, benevolent speech, relationship boundaries, and inward self-cultivation.
+- [天真不天真](entities/TianzhenButianzhen.md) — Conversation-led podcast represented by the Song Jia return episode on self-knowledge, relationships, acting, travel, and podcast authenticity.
+- [杨彬 / Yang Bin](entities/YangBin.md) — Tsinghua professor and former administrator interpreting Dartmouth as a slow, peripheral, psychologically safe innovation field.
+- [Dartmouth AI Workshop / 达特茅斯 AI 夏季研讨会](entities/DartmouthAIWorkshop.md) — 1956 AI-history workshop framed by the episode as a possibility-preserving field rather than a consensus conference.
+- [Dartmouth College / 达特茅斯学院](entities/DartmouthCollege.md) — New England university setting whose peripheral position supports the episode's innovation-field argument.
+- [John McCarthy / 约翰·麦卡锡](entities/JohnMcCarthy.md) — Dartmouth assistant professor and proposal figure tied to the naming and convening of artificial intelligence.
+- [Herbert Simon / 赫伯特·西蒙](entities/HerbertSimon.md) — cross-disciplinary early AI figure representing the symbolic reasoning path around Dartmouth.
+- [Allen Newell](entities/AllenNewell.md) — Herbert Simon collaborator representing the symbolic AI route in the source's Dartmouth contrast.
+- [Ray Solomonoff / 芮](entities/RaySolomonoff.md) — Dartmouth participant used by the source to represent probabilistic reasoning and delayed recognition.
+- [University of Chicago / 芝加哥大学](entities/UniversityOfChicago.md) — analogical university field for loose disciplinary boundaries, general education, and open intellectual exchange.
+- [Yvon Chouinard / 伊冯·乔伊纳德](entities/YvonChouinard.md) — climber-founder used to connect Yosemite climbing culture, Patagonia, and non-academic innovation fields.
+- [Stewart Brand](entities/StewartBrand.md) — counterculture figure used to connect alternative cultural scenes with Steve Jobs and technology creativity.
+- [Henry Mintzberg](entities/HenryMintzberg.md) — management thinker invoked by Yang Bin for emergent strategy over planned innovation.
+- [张诗平 / 张诗坪 / Zhang Shiping](entities/ZhangShiping.md) — 忽左忽右 guest using military history and source criticism to reinterpret Qin collapse and Chu-Han war.
+- [《逐鹿：神话与预言背后的秦亡汉兴》](entities/ZhuluQinHanBook.md) — Zhang Shiping book discussed through Qin-Han military history, myth, prophecy, and source-critical interpretation.
+- [Maybe You Should Talk to Someone / 《也许你该找个人聊聊》](entities/MaybeYouShouldTalkToSomeone.md) — Lori Gottlieb psychotherapy memoir read by 文化有限 as a story-driven account of pain, defense, relationship, and change.
+- [Lori Gottlieb / 洛莉·戈特利布](entities/LoriGottlieb.md) — therapist-author whose book is read through her double role as clinician and client.
+- [John Gottman / 约翰·哥特曼](entities/JohnGottman.md) — relationship researcher figure behind the source's Gottman method and four-horsemen discussion.
+- [Gottman Institute / 哥特曼研究所](entities/GottmanInstitute.md) — institutional context for the Gottman relationship-method branch introduced by Vol.349.
 - [Globe Theatre / 环球剧院](entities/GlobeTheatre.md) — Shakespearean theatre institution linking live staging, mixed audiences, performance practice, and the modern reconstruction.
 - [Henry V / 《亨利五世》](entities/HenryVPlay.md) — Shakespeare history play used by the episode to show ideal-king construction, succession anxiety, and adaptation politics.
 - [Richard III / 《理查三世》](entities/RichardIIIPlay.md) — Shakespeare history play used by the episode to show Tudor legitimacy work and the theatrical hardening of Richard III's villain image.
@@ -11084,6 +11115,25 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Post-Apartheid Structural Inequality](concepts/PostApartheidStructuralInequality.md) — EP383 frame for durable education, wealth, space, service, safety, and governance gaps after apartheid's legal end.
+- [Complex Destination Travel Risk](concepts/ComplexDestinationTravelRisk.md) — Travel-planning risk frame for high-reward destinations that require safety preparation, route discipline, local norms, and historical attention.
+- [Evaluation Attachment Release / 放下评价执念](concepts/EvaluationAttachmentRelease.md) — Practice of not building self-worth from praise, criticism, friendship ranking, or another person's failure to meet an imagined script.
+- [Sincere Emotional Support / 真诚的情绪价值](concepts/SincereEmotionalSupport.md) — Emotional encouragement grounded in real recognition rather than interpersonal manipulation or scripted praise.
+- [Benevolent Speech Practice / 善语结善缘](concepts/BenevolentSpeechPractice.md) — Speech practice that checks words against the intention that produced them because language reveals inner posture and shapes relationship conditions.
+- [Inward-Looking Self-Cultivation / 向内求式自我修行](concepts/InwardLookingSelfCultivation.md) — Practice of shifting attention from how the outside world treats the self toward one's own motives, reactions, speech, needs, and choices.
+- [Slow Gathering Improvisation / 慢聚慢奏](concepts/SlowGatheringImprovisation.md) — Yang Bin's name for loose, slow, improvisational innovation fields where unclear questions can remain open.
+- [Peripheral Innovation Field / 边域式创新场域](concepts/PeripheralInnovationField.md) — edge-of-mainstream setting where heterogeneous participants can define new problems with less authority pressure.
+- [Tolerance of Difference / 容差异](concepts/ToleranceOfDifference.md) — norm of protecting divergent people and ideas before they can be judged right, wrong, useful, or wasteful.
+- [Emergent Innovation Strategy / 涌现式创新战略](concepts/EmergentInnovationStrategy.md) — innovation stance that trusts local exploration and internal usefulness before top-down plans can define the target.
+- [Face-to-Face Creative Exchange / 面对面创造性交流](concepts/FaceToFaceCreativeExchange.md) — co-present collaboration pattern most valuable when goals and evaluation frames are still unclear.
+- [AI University Campus Reframing / AI 时代大学校园重构](concepts/AIUniversityCampusReframing.md) — claim that AI shifts university value from lectures and assignments toward campus life, mentorship, apprenticeship, and oral defense.
+- [Qin Collapse Overextension / 秦亡多因素解释](concepts/QinCollapseOverextension.md) — source-scoped explanation of Qin's fall through overextension, direct-rule brittleness, court conflict, and eastern-state coalition pressure.
+- [Chu-Han War Demythologizing / 楚汉战争去神话化](concepts/ChuHanWarDemythologizing.md) — method for rereading Chu-Han stories through logistics, politics, troop quality, source criticism, and battle conditions.
+- [Eurasian Military Technology Exchange / 欧亚军事技术交流](concepts/EurasianMilitaryTechnologyExchange.md) — qualified comparative frame for Qin-Han cavalry and ancient Eurasian military technology movement.
+- [Therapeutic Defense Work / 治疗中的防御工作](concepts/TherapeuticDefenseWork.md) — Psychotherapy process of noticing and loosening protective defenses slowly enough that hidden pain can become speakable.
+- [Therapy Insight-Action Gap / 治疗中的洞察行动落差](concepts/TherapyInsightActionGap.md) — Distance between understanding a psychological pattern and doing something different after the insight.
+- [Gottman Method / 哥特曼方法](concepts/GottmanMethod.md) — Relationship-therapy framework using love maps, repair, influence, gridlock work, shared meaning, and four-horsemen warnings.
+- [Relationship Four Horsemen / 关系四骑士](concepts/RelationshipFourHorsemen.md) — Criticism, contempt, defensiveness, and stonewalling as destructive relationship communication habits.
 - [Shakespeare History Play Political Memory / 莎剧历史剧政治记忆](concepts/ShakespeareHistoryPlayPoliticalMemory.md) — Pattern where Shakespeare's English history plays turn dynastic conflict, legitimacy anxiety, and national feeling into repeatable theatre.
 - [AI-Native Narrative Worlds](concepts/AINativeNarrativeWorlds.md) — Content products where AI is the base layer for world state, character behavior, story progression, and user participation.
 - [Agentic Character Subjectivity](concepts/AgenticCharacterSubjectivity.md) — Design claim that AI characters feel alive through goals, boundaries, continuity, evolving choices, and inner direction.

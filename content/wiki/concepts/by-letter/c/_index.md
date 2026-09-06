@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6516
+wiki_total_pages: 6535
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -713,6 +713,9 @@ wiki_pages:
   - key: "ChuThreeHouseholdsAntiQinMemory"
     title: "Chu Three-Households Anti-Qin Memory / 楚虽三户式反秦记忆"
     url: "/wiki/concepts/chuthreehouseholdsantiqinmemory/"
+  - key: "ChuHanWarDemythologizing"
+    title: "Chu-Han War Demythologizing / 楚汉战争去神话化"
+    url: "/wiki/concepts/chuhanwardemythologizing/"
   - key: "CircadianRhythmExperimentation"
     title: "Circadian Rhythm Experimentation"
     url: "/wiki/concepts/circadianrhythmexperimentation/"
@@ -1148,6 +1151,9 @@ wiki_pages:
   - key: "ComplementaryRelationshipSupport"
     title: "Complementary Relationship Support / 互补式关系支持"
     url: "/wiki/concepts/complementaryrelationshipsupport/"
+  - key: "ComplexDestinationTravelRisk"
+    title: "Complex Destination Travel Risk"
+    url: "/wiki/concepts/complexdestinationtravelrisk/"
   - key: "ComplexTraumaRecognition"
     title: "Complex Trauma Recognition"
     url: "/wiki/concepts/complextraumarecognition/"

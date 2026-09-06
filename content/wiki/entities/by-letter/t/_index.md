@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9119
+wiki_total_pages: 9145
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1157,6 +1157,9 @@ wiki_pages:
   - key: "TianjinGeneralHospital"
     title: "天津总医院 / Tianjin General Hospital"
     url: "/wiki/entities/tianjingeneralhospital/"
+  - key: "TianzhenButianzhen"
+    title: "天真不天真"
+    url: "/wiki/entities/tianzhenbutianzhen/"
   - key: "TianxianBaobaoLynx"
     title: "天线宝宝猞猁 / Tianxian Baobao Lynx"
     url: "/wiki/entities/tianxianbaobaolynx/"

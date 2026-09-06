@@ -15608,6 +15608,18 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-07] ingest | vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切
+
+Ingested the 2026-08-19 天真不天真 return conversation with Song Jia / 小花老师 on pausing work, acting through scent and transmission, inward self-cultivation, benevolent speech, relationship needs, sincere emotional support, travel, podcast method, and detaching from praise or criticism. Added source `vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i`; created `TianzhenButianzhen`, `SongJia`, `InwardLookingSelfCultivation`, `BenevolentSpeechPractice`, `SincereEmotionalSupport`, and `EvaluationAttachmentRelease`; updated `index` and `overview`. No settled contradiction found; career uncertainty, spiritual language, relationship advice, and English-podcast plans remain source-scoped.
+
+## [2026-09-07] ingest | 494 张诗坪谈战争史视角下的秦末汉初混战
+
+Ingested the 2026-08-21 忽左忽右 episode with Zhang Shiping on 《逐鹿：神话与预言背后的秦亡汉兴》, Qin collapse, Xiang Yu, Liu Bang, Julu, Xinan, Pengcheng, Han Xin, cavalry tactics, and Eurasian military comparison. Added source `494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj`; created `ZhangShiping`, `ZhuluQinHanBook`, `QinCollapseOverextension`, `ChuHanWarDemythologizing`, and `EurasianMilitaryTechnologyExchange`; updated `HuzuoHuyou`, `ChengYanliang`, `HanCavalryFormation`, `index`, and `overview`. No settled contradiction found; 张诗平/张诗坪, 陈彦良/成言梁, force counts, and cavalry-technology exchange claims remain source-scoped or qualified.
+
+## [2026-09-07] ingest | Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气
+
+Ingested the 2026-08-24 文化有限 episode on Lori Gottlieb's Maybe You Should Talk to Someone, psychotherapy as relational change, defense work, insight-to-action gaps, and Gottman relationship warning patterns. Added source `vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv`; created `MaybeYouShouldTalkToSomeone`, `LoriGottlieb`, `JohnGottman`, `GottmanInstitute`, `TherapeuticDefenseWork`, `TherapyInsightActionGap`, `GottmanMethod`, and `RelationshipFourHorsemen`; updated `CultureLimited`, `TherapyRelationshipAndBoundaries`, `index`, and `overview`. No settled contradiction found; book-case details, clinical-method summaries, and relationship-framework claims remain source-scoped public book discussion.
+
 ## [2026-09-07] ingest | No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达
 
 Ingested the 2026-08-25 三五环 episode with Chouxiangzai on moving from CCTV documentary and commercial-video work into AI-video creation, viral internet expression, Kanye-related cultural contrast, AI short-drama workflow, client communication, and C-side attention feeding B-side services. Added source `no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81`; updated `Chouxiangzai`, `LiuFei`, `SanWuHuan`, `XinYuanYangHuDieMeng`, `AIDirectorCoreWorkflow`, `ExpertiseAmplifiedAIUse`, `AICreativeCollaboration`, `index`, and `overview`. No settled contradiction found; 抽象仔/抽象宅 naming, client/resource names, viral figures, project timing, and ROI observations remain source-scoped.
@@ -15659,6 +15671,34 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-07] ingest | #401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？
+
+Ingested the 2026-08-20 声东击西 episode with Yang Bin on the 1956 Dartmouth AI workshop, AI naming, slow gathering improvisation, peripheral innovation fields, psychological safety, tolerance of difference, Patagonia's climbing-culture roots, counterculture, face-to-face creativity, and AI-era university reform. Added source `401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05`; created `YangBin`, `DartmouthAIWorkshop`, `DartmouthCollege`, `JohnMcCarthy`, `HerbertSimon`, `AllenNewell`, `RaySolomonoff`, `UniversityOfChicago`, `YvonChouinard`, `StewartBrand`, `HenryMintzberg`, `SlowGatheringImprovisation`, `PeripheralInnovationField`, `ToleranceOfDifference`, `EmergentInnovationStrategy`, `FaceToFaceCreativeExchange`, and `AIUniversityCampusReframing`; updated `index` and `overview`. No settled contradiction found; exact Dartmouth participant counts, Ray/token-prediction lineage, the symbolic-versus-probabilistic AI balance, and Dartmouth-to-Patagonia/university analogies remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-07] ingest | EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？
+
+Ingested the 2026-08-18 无时差研究所 episode using 王妈妈's South Africa trip to connect travel safety, Johannesburg, Soweto, Constitution Hill, the Apartheid Museum, Robben Island, Kruger Safari, Cape Town, Mandela memory, and post-apartheid structural inequality. Added source `ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk`; created `Johannesburg`, `Soweto`, `ConstitutionHillJohannesburg`, `ApartheidMuseumJohannesburg`, `RobbenIsland`, `CapeTown`, `KrugerNationalPark`, `PostApartheidStructuralInequality`, and `ComplexDestinationTravelRisk`; updated `SouthAfrica`, `Apartheid`, `NelsonMandela`, `WushichaYanjiusuo`, `index`, and `overview`. No settled contradiction found; crime, corruption, education-ratio, labor-pattern, migration, and local-opinion claims remain source-scoped travel observations and conversations.
 
 ## [2026-09-07] lint | Wiki health check
 

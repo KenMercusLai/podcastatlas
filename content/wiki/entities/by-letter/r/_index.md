@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 9119
+wiki_total_pages: 9145
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "RaySmith"
     title: "Ray Smith"
     url: "/wiki/entities/raysmith/"
+  - key: "RaySolomonoff"
+    title: "Ray Solomonoff / 芮"
+    url: "/wiki/entities/raysolomonoff/"
   - key: "RayBanSmartGlasses"
     title: "Ray-Ban Smart Glasses"
     url: "/wiki/entities/raybansmartglasses/"
@@ -377,6 +380,9 @@ wiki_pages:
   - key: "RobRhinehart"
     title: "Rob Rhinehart"
     url: "/wiki/entities/robrhinehart/"
+  - key: "RobbenIsland"
+    title: "Robben Island"
+    url: "/wiki/entities/robbenisland/"
   - key: "RobbieMcCluskey"
     title: "Robbie McCluskey"
     url: "/wiki/entities/robbiemccluskey/"

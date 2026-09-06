@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6516
+wiki_total_pages: 6535
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "PerioperativeCircadianRecovery"
     title: "Perioperative Circadian Recovery"
     url: "/wiki/concepts/perioperativecircadianrecovery/"
+  - key: "PeripheralInnovationField"
+    title: "Peripheral Innovation Field / 边域式创新场域"
+    url: "/wiki/concepts/peripheralinnovationfield/"
   - key: "PermissionlessAIInnovation"
     title: "Permissionless AI Innovation"
     url: "/wiki/concepts/permissionlessaiinnovation/"
@@ -854,6 +857,9 @@ wiki_pages:
   - key: "PostAnesthesiaRecoverySafety"
     title: "Post-Anesthesia Recovery Safety / 麻醉术后苏醒与反应边界"
     url: "/wiki/concepts/postanesthesiarecoverysafety/"
+  - key: "PostApartheidStructuralInequality"
+    title: "Post-Apartheid Structural Inequality"
+    url: "/wiki/concepts/postapartheidstructuralinequality/"
   - key: "PostApocalypticCivilizationPreservation"
     title: "Post-Apocalyptic Civilization Preservation"
     url: "/wiki/concepts/postapocalypticcivilizationpreservation/"

@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-07
-as_of_overview_commit: b390facee248b324274e83f6599d0660467c8ac6
-input_digest: b6f02f505058ceec5df08366592009af5264f083b8bd51169c0867214ca8f4ac
+as_of_overview_commit: dc035cfee61c241f0883093d7ad823f90bd9487c
+input_digest: ce369ccc758871bf8f2d02521645015dff23e25d001d41bf5ec838c4e33fba3d
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 1047 strengthens the Guandu branch by adding Liu Bei's Runan exit, Cao Ren's counterstrike, Ju Shou's rejected Yangwu attrition advice, and the Shaqiu camp-engineering standoff before Wuchao. History and geopolitics synthesis explains power through routes, borderlands, legitimacy claims, frontier command, institutional capacity, and public memory. The current topic spans physical chokepoints and cables, Eastern Han and late-Han court strategy, revolutionary and imperial state formation, and Ceuta's layered role as a Mediterranean-Atlantic enclave where ancient rule, Portuguese expansion, Spanish sovereignty, Moroccan claims, and migration pressure converge.
+History and geopolitics synthesis explains power through routes, borderlands, legitimacy claims, frontier command, institutional capacity, military organization, and public memory. The current topic spans physical chokepoints and cables, Eastern Han and late-Han court strategy, revolutionary and imperial state formation, Ceuta's layered role as a Mediterranean-Atlantic enclave, Guandu's command-logistics threshold, and a Qin-Han military-history branch that reads Qin collapse and Chu-Han war through state capacity, coalition structure, logistics, cavalry, and source criticism.
 
 ## Cross-source Findings
 
@@ -26,6 +26,17 @@ Hanji 1047 strengthens the Guandu branch by adding Liu Bei's Runan exit, Cao Ren
 
 - Liu Bei's motive is an episode-level interpretation rather than direct proof of his internal reasoning.
 - The transcript's place wording and the Yangwu/Shaqiu identities remain source-scoped or disambiguated.
+
+### Qin Han Demythologizing Ties State Capacity To Military Analysis
+
+[[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]] adds a Qin-Han branch where [[QinCollapseOverextension]] and [[ChuHanWarDemythologizing]] read empire failure and war outcomes through state capacity, court conflict, coalition structure, logistics, troop quality, cavalry, and source criticism rather than through heroic shorthand.
+
+**Evidence:** [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]], [[QinCollapseOverextension]], [[ChuHanWarDemythologizing]], [[EurasianMilitaryTechnologyExchange]], [[ZhangShiping]], [[ZhuluQinHanBook]], [[HanCavalryFormation]]
+
+**Qualifications:**
+
+- The source-name variants 张诗平/张诗坪 and 陈彦良/成言梁 remain unresolved but non-contradictory in the wiki.
+- The cavalry-technology exchange layer is explicitly inferential and should not be treated as proof of direct one-way transmission.
 
 ### Borderlands Accumulate Historical Layers
 

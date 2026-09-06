@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9119
+wiki_total_pages: 9145
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "ZhaoZhengShu"
     title: "《赵正书》 / Zhao Zheng Shu"
     url: "/wiki/entities/zhaozhengshu/"
+  - key: "ZhuluQinHanBook"
+    title: "《逐鹿：神话与预言背后的秦亡汉兴》"
+    url: "/wiki/entities/zhuluqinhanbook/"
   - key: "ZhongdiCommandery"
     title: "中地郡 / Zhongdi Commandery"
     url: "/wiki/entities/zhongdicommandery/"
@@ -809,6 +812,9 @@ wiki_pages:
   - key: "ZhangRangLateHan"
     title: "张让 / Zhang Rang (late Han)"
     url: "/wiki/entities/zhangranglatehan/"
+  - key: "ZhangShiping"
+    title: "张诗平 / 张诗坪 / Zhang Shiping"
+    url: "/wiki/entities/zhangshiping/"
   - key: "ZhangFu"
     title: "张负 / Zhang Fu"
     url: "/wiki/entities/zhangfu/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6516
+wiki_total_pages: 6535
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1199,6 +1199,9 @@ wiki_pages:
   - key: "AIUniversityAssessmentReform"
     title: "AI University Assessment Reform"
     url: "/wiki/concepts/aiuniversityassessmentreform/"
+  - key: "AIUniversityCampusReframing"
+    title: "AI University Campus Reframing / AI 时代大学校园重构"
+    url: "/wiki/concepts/aiuniversitycampusreframing/"
   - key: "AIUsePacing"
     title: "AI Use Pacing"
     url: "/wiki/concepts/aiusepacing/"

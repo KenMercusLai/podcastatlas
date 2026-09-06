@@ -1,6 +1,8 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "bca3f6642e8b64dca6b9dd788bccff3eeb61f2a75fd6f726d4d9163440111666",
+      "b26998ed8105fc9962ce7130dcda6f4f84a26ac4ad79ef59cb8aaa27adc82847",
       "b3cbca70b251a2c2f5030fe6a363c8958514f3624b7c9a2b7be5d475065b691f",
       "ea4d055294733a028d61596483e9fff86bc6afa9235899b304649b11ee92a556",
       "fb5fc116f0863304bb2f80654112e430701be3452fe78412731a0fdf13eddc54",
@@ -555,13 +557,79 @@
       "c2a1ffb4efb621f087dd97557d056c5029b11e1d2b0c3360529b1b3ffa40a8a8",
       "7aedd968f8b89040d8bacab2545ab2c77f01a1e9fd0bfca68a06280e10b552e8",
       "ba7d5a4b2effc25ea8893c2adaf8d069d7e26a7909c0818f6c652ebda5aa350a",
-      "92bc6e5245c1759f79ec6d1c56938dc9f6333c7144493e722e6253eed2bec08c"
+      "92bc6e5245c1759f79ec6d1c56938dc9f6333c7144493e722e6253eed2bec08c",
+      "528281743cf61adfbb2f8e222f1a77c3c4cc419c782293135402187a6ed7cdda",
+      "013189bd78693c4f9ddd24154fb4e85b4d94868b1b336af988b43dbee9411c03"
     ],
-    "paragraph_count": 555
+    "paragraph_count": 559
   },
-  "overview_commit": "c0d127d17590bcd3e273d9e26e7b32aa9efa2181",
-  "overview_digest": "4667114b769812eff64719ad4724e2866dfbf0cbcf9869664a6a0fda4898eafd",
+  "overview_commit": "3097609984f4e73abe0981fcfed36e2e0a8b29cb",
+  "overview_digest": "4f64108651f2bc40dfb6262b6ace8a37011dcd7af33cee31e30ae171970c2433",
   "paragraphs": [
+    {
+      "id": "bca3f6642e8b64dca6b9dd788bccff3eeb61f2a75fd6f726d4d9163440111666",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i|vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切]], a [[TianzhenButianzhen|天真不天真]] return conversation with [[SongJia|宋佳 / 小花老师]] on acting, work pauses, language, relationships, and self-cultivation. It adds [[TianzhenButianzhen]], [[SongJia]], [[InwardLookingSelfCultivation]], [[BenevolentSpeechPractice]], [[SincereEmotionalSupport]], and [[EvaluationAttachmentRelease]], while connecting [[EmbodiedActingImprovisation]], [[OlfactoryTraining]], [[TravelSensoryRecovery]], [[ActiveSoloLiving]], [[PodcastAuthenticityBoundary]], [[PodcastCommercializationFragmentation]], [[SincerityAsRelationshipTrust]], [[RelationshipNeedDiversification]], and [[EmotionRegulationToolkit]]. Its core synthesis is that the source treats growth as a shift from external control toward inward response: notice first reactions, inspect speech intention, express needs without trying to change others, apologize after old inertia appears, and stop building identity from praise or criticism. No settled contradiction is recorded; career uncertainty, spiritual language, relationship advice, and English-podcast plans remain source-scoped personal conversation rather than universal prescription.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 4,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "ActiveSoloLiving",
+        "BenevolentSpeechPractice",
+        "EmbodiedActingImprovisation",
+        "EmotionRegulationToolkit",
+        "EvaluationAttachmentRelease",
+        "InwardLookingSelfCultivation",
+        "OlfactoryTraining",
+        "PodcastAuthenticityBoundary",
+        "PodcastCommercializationFragmentation",
+        "RelationshipNeedDiversification",
+        "SincereEmotionalSupport",
+        "SincerityAsRelationshipTrust",
+        "SongJia",
+        "TianzhenButianzhen",
+        "TravelSensoryRecovery",
+        "vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i"
+      ]
+    },
+    {
+      "id": "b26998ed8105fc9962ce7130dcda6f4f84a26ac4ad79ef59cb8aaa27adc82847",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv|Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气]], a [[CultureLimited|文化有限]] episode on [[LoriGottlieb|洛莉·戈特利布]]'s [[MaybeYouShouldTalkToSomeone|《也许你该找个人聊聊》 / Maybe You Should Talk to Someone]]. It adds [[LoriGottlieb]], [[MaybeYouShouldTalkToSomeone]], [[JohnGottman]], [[GottmanInstitute]], [[TherapeuticDefenseWork]], [[TherapyInsightActionGap]], [[GottmanMethod]], and [[RelationshipFourHorsemen]], while extending [[CultureLimited]], [[TherapyRelationshipAndBoundaries]], [[EmotionalGranularity]], [[EmotionRegulationToolkit]], [[TraumaNarrativeIntegration]], and [[ComplexTraumaRecognition]]. Its core synthesis is that therapy-centered change is relational and slow: surface symptoms protect deeper grief or fear, defenses loosen through trustworthy contact, pain becomes speakable, and insight matters only when it produces different action outside the consulting room. No settled contradiction is recorded; the episode's book cases, clinical-method summaries, and Gottman framework are kept source-scoped rather than treated as individualized mental-health advice.",
+      "topic_scores": {
+        "culture-and-media": 2,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 2,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ComplexTraumaRecognition",
+        "CultureLimited",
+        "EmotionRegulationToolkit",
+        "EmotionalGranularity",
+        "GottmanInstitute",
+        "GottmanMethod",
+        "JohnGottman",
+        "LoriGottlieb",
+        "MaybeYouShouldTalkToSomeone",
+        "RelationshipFourHorsemen",
+        "TherapeuticDefenseWork",
+        "TherapyInsightActionGap",
+        "TherapyRelationshipAndBoundaries",
+        "TraumaNarrativeIntegration",
+        "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv"
+      ]
+    },
     {
       "id": "b3cbca70b251a2c2f5030fe6a363c8958514f3624b7c9a2b7be5d475065b691f",
       "primary_topic": "ai-and-technology",
@@ -17034,6 +17102,54 @@
         "Ozempic",
         "WushichaYanjiusuo",
         "ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy"
+      ]
+    },
+    {
+      "id": "528281743cf61adfbb2f8e222f1a77c3c4cc419c782293135402187a6ed7cdda",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]], a [[HuzuoHuyou|忽左忽右]] episode with [[ZhangShiping|张诗平 / 张诗坪]] on [[ZhuluQinHanBook|《逐鹿：神话与预言背后的秦亡汉兴》]], [[QinCollapseOverextension|秦亡多因素解释]], and [[ChuHanWarDemythologizing|楚汉战争去神话化]]. It adds [[ZhangShiping]], [[ZhuluQinHanBook]], [[QinCollapseOverextension]], [[ChuHanWarDemythologizing]], and [[EurasianMilitaryTechnologyExchange]], while extending [[HuzuoHuyou]], [[ChengYanliang]], and [[HanCavalryFormation]]. Its core synthesis is that the Qin-Han transition should be read through state capacity, court conflict, coalition structure, logistics, troop quality, and source criticism rather than through a simple heroic tale of Xiang Yu's bravery, Liu Bang's luck, or Han Xin's miraculous strategy. No settled contradiction is recorded; 张诗平/张诗坪 and 陈彦良/成言梁 are kept as source-name variants, and cavalry-technology exchange remains explicitly qualified.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 4
+      },
+      "wikilinks": [
+        "494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj",
+        "ChengYanliang",
+        "ChuHanWarDemythologizing",
+        "EurasianMilitaryTechnologyExchange",
+        "HanCavalryFormation",
+        "HuzuoHuyou",
+        "QinCollapseOverextension",
+        "ZhangShiping",
+        "ZhuluQinHanBook"
+      ]
+    },
+    {
+      "id": "013189bd78693c4f9ddd24154fb4e85b4d94868b1b336af988b43dbee9411c03",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk|EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？]], a [[WushichaYanjiusuo|无时差研究所]] episode using 王妈妈's [[SouthAfrica]] trip to connect [[ComplexDestinationTravelRisk|complex destination travel risk]] with apartheid memory and current inequality. It adds [[Johannesburg]], [[Soweto]], [[ConstitutionHillJohannesburg|Constitution Hill Johannesburg]], [[ApartheidMuseumJohannesburg|Apartheid Museum Johannesburg]], [[RobbenIsland]], [[CapeTown]], [[KrugerNationalPark]], [[PostApartheidStructuralInequality]], and [[ComplexDestinationTravelRisk]], while extending [[SouthAfrica]], [[Apartheid]], [[NelsonMandela]], and [[WushichaYanjiusuo|无时差研究所]]. Its core synthesis is that South Africa can be highly rewarding without being casual: Safari, coastline, food, wine, museums, prisons, local guides, and cross-cultural conversation all deepen the trip, but hotel security, guided-route choices, township tourism, tipping norms, education gaps, racialized labor observations, and contested Mandela memory keep the country inside a cautious, historically informed travel frame. No settled contradiction is recorded; crime, corruption, education, labor-pattern, migration, and local-opinion claims remain source-scoped travel observations rather than complete national analysis.",
+      "topic_scores": {
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "Apartheid",
+        "ApartheidMuseumJohannesburg",
+        "CapeTown",
+        "ComplexDestinationTravelRisk",
+        "ConstitutionHillJohannesburg",
+        "Johannesburg",
+        "KrugerNationalPark",
+        "NelsonMandela",
+        "PostApartheidStructuralInequality",
+        "RobbenIsland",
+        "SouthAfrica",
+        "Soweto",
+        "WushichaYanjiusuo",
+        "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk"
       ]
     }
   ],

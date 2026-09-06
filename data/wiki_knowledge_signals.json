@@ -2232,6 +2232,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aitrainingcopyrightdispute/"
     },
+    "AIUniversityCampusReframing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/aiuniversitycampusreframing/"
+    },
     "AIVoiceCloningRights": {
       "episode_count": 3,
       "show_count": 3,
@@ -3673,6 +3689,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/alicefullwood/"
     },
+    "AllenNewell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/allennewell/"
+    },
     "AlphaFold": {
       "episode_count": 4,
       "show_count": 4,
@@ -4834,9 +4866,9 @@
       "url": "/wiki/entities/anzhonglatehan/"
     },
     "Apartheid": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6535658080 [GLT6535658080].md",
@@ -4844,10 +4876,33 @@
           "show": "The Rest Is History",
           "title": "682. South Africa: Mandela and the Death of Apartheid (Part 6)",
           "url": "/wiki/sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080/"
+        },
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/apartheid/"
+    },
+    "ApartheidMuseumJohannesburg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/apartheidmuseumjohannesburg/"
     },
     "ApathyActionInitiation": {
       "episode_count": 1,
@@ -6875,6 +6930,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/beneficialstatebank/"
+    },
+    "BenevolentSpeechPractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luES_M_6btM17a5qt6kB1khR5S6i [luES_M_6btM17a5qt6kB1khR5S6i].md",
+          "key": "vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i",
+          "show": "天真不天真",
+          "title": "vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切",
+          "url": "/wiki/sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/benevolentspeechpractice/"
     },
     "BenitoMussolini": {
       "episode_count": 2,
@@ -9150,6 +9221,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/capecodchips/"
     },
+    "CapeTown": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/capetown/"
+    },
     "Caperni": {
       "episode_count": 1,
       "show_count": 1,
@@ -10410,9 +10497,9 @@
       "url": "/wiki/entities/chengjinlatehan/"
     },
     "ChengYanliang": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lskF8BdKhS71LbWJOmt3gU1kO8BE [lskF8BdKhS71LbWJOmt3gU1kO8BE].md",
@@ -10434,6 +10521,13 @@
           "show": "忽左忽右",
           "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
           "url": "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
+        },
+        {
+          "episode_file": "lrc9hn-yRw9lKWUJL65UMmq_QYkJ [lrc9hn-yRw9lKWUJL65UMmq_QYkJ].md",
+          "key": "494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj",
+          "show": "忽左忽右",
+          "title": "494 张诗坪谈战争史视角下的秦末汉初混战",
+          "url": "/wiki/sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj/"
         }
       ],
       "updated": "2026-09-07",
@@ -11383,6 +11477,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/chroniclepolicycompression/"
+    },
+    "ChuHanWarDemythologizing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrc9hn-yRw9lKWUJL65UMmq_QYkJ [lrc9hn-yRw9lKWUJL65UMmq_QYkJ].md",
+          "key": "494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj",
+          "show": "忽左忽右",
+          "title": "494 张诗坪谈战争史视角下的秦末汉初混战",
+          "url": "/wiki/sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/chuhanwardemythologizing/"
     },
     "ChuantouGuzhi": {
       "episode_count": 1,
@@ -12432,6 +12542,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/competencestatusmentalhealthblindspot/"
     },
+    "ComplexDestinationTravelRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/complexdestinationtravelrisk/"
+    },
     "ComprehensiveConsumerDataPrivacy": {
       "episode_count": 4,
       "show_count": 1,
@@ -12661,6 +12787,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/constituentnationsportingidentity/"
+    },
+    "ConstitutionHillJohannesburg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/constitutionhilljohannesburg/"
     },
     "ConsumerAIHardwareProductFit": {
       "episode_count": 3,
@@ -13940,9 +14082,9 @@
       "url": "/wiki/concepts/cultureledlabororganizing/"
     },
     "CultureLimited": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "sp.06 串台｜ 和李乌鸦＆超哥high聊：做读书博主的“守墓心得” [819825708].md",
@@ -13957,9 +14099,16 @@
           "show": "文化有限",
           "title": "Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”",
           "url": "/wiki/sources/vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr/"
+        },
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/culturelimited/"
     },
     "CultureReviewTvReportFormat": {
@@ -14365,6 +14514,38 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/darrenalpert/"
+    },
+    "DartmouthAIWorkshop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/dartmouthaiworkshop/"
+    },
+    "DartmouthCollege": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/dartmouthcollege/"
     },
     "DataAgentBenchmarks": {
       "episode_count": 1,
@@ -18563,6 +18744,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/emergencycashassistance/"
     },
+    "EmergentInnovationStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/emergentinnovationstrategy/"
+    },
     "EmotionAttentionalCapture": {
       "episode_count": 1,
       "show_count": 1,
@@ -20764,6 +20961,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/eunuchpatronageviolenceshield/"
     },
+    "EurasianMilitaryTechnologyExchange": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrc9hn-yRw9lKWUJL65UMmq_QYkJ [lrc9hn-yRw9lKWUJL65UMmq_QYkJ].md",
+          "key": "494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj",
+          "show": "忽左忽右",
+          "title": "494 张诗坪谈战争史视角下的秦末汉初混战",
+          "url": "/wiki/sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/eurasianmilitarytechnologyexchange/"
+    },
     "EuropeanAmazonProjection": {
       "episode_count": 1,
       "show_count": 1,
@@ -20779,6 +20992,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/europeanamazonprojection/"
+    },
+    "EvaluationAttachmentRelease": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luES_M_6btM17a5qt6kB1khR5S6i [luES_M_6btM17a5qt6kB1khR5S6i].md",
+          "key": "vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i",
+          "show": "天真不天真",
+          "title": "vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切",
+          "url": "/wiki/sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/evaluationattachmentrelease/"
     },
     "EverestIMAXExpedition": {
       "episode_count": 1,
@@ -21437,6 +21666,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/facesavingsubmissionfailure/"
+    },
+    "FaceToFaceCreativeExchange": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/facetofacecreativeexchange/"
     },
     "FafaDeBelem": {
       "episode_count": 1,
@@ -27273,6 +27518,38 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/googledeepmindorganizationalfriction/"
     },
+    "GottmanInstitute": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/gottmaninstitute/"
+    },
+    "GottmanMethod": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/gottmanmethod/"
+    },
     "GovernmentDataSiloCollapse": {
       "episode_count": 1,
       "show_count": 1,
@@ -28403,9 +28680,9 @@
       "url": "/wiki/concepts/hamiltonianeconomicnationalism/"
     },
     "HanCavalryFormation": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（2） [ll_RvX07PyW_qG1JofkJro_qfLLU].md",
@@ -28420,9 +28697,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》788丨令敌人破大防！玩战术的心真脏？！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0/"
+        },
+        {
+          "episode_file": "lrc9hn-yRw9lKWUJL65UMmq_QYkJ [lrc9hn-yRw9lKWUJL65UMmq_QYkJ].md",
+          "key": "494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj",
+          "show": "忽左忽右",
+          "title": "494 张诗坪谈战争史视角下的秦末汉初混战",
+          "url": "/wiki/sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/hancavalryformation/"
     },
     "HanFanLateHan": {
@@ -29357,6 +29641,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/hengfuhistoricdistrict/"
     },
+    "HenryMintzberg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/henrymintzberg/"
+    },
     "HenryTheNavigator": {
       "episode_count": 1,
       "show_count": 1,
@@ -29388,6 +29688,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/henryvplay/"
+    },
+    "HerbertSimon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/herbertsimon/"
     },
     "HeroicResistanceViolenceAmbiguity": {
       "episode_count": 1,
@@ -31788,9 +32104,9 @@
       "url": "/wiki/entities/huyangprincesseasternhan/"
     },
     "HuzuoHuyou": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来 [liHbq8vuJSQXvB7h2_pZ2xM-eQGA].md",
@@ -31819,6 +32135,13 @@
           "show": "忽左忽右",
           "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
           "url": "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
+        },
+        {
+          "episode_file": "lrc9hn-yRw9lKWUJL65UMmq_QYkJ [lrc9hn-yRw9lKWUJL65UMmq_QYkJ].md",
+          "key": "494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj",
+          "show": "忽左忽右",
+          "title": "494 张诗坪谈战争史视角下的秦末汉初混战",
+          "url": "/wiki/sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj/"
         }
       ],
       "updated": "2026-09-07",
@@ -33518,6 +33841,22 @@
       "updated": "2026-08-17",
       "url": "/wiki/concepts/investmentriskmanagement/"
     },
+    "InwardLookingSelfCultivation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luES_M_6btM17a5qt6kB1khR5S6i [luES_M_6btM17a5qt6kB1khR5S6i].md",
+          "key": "vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i",
+          "show": "天真不天真",
+          "title": "vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切",
+          "url": "/wiki/sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/inwardlookingselfcultivation/"
+    },
     "IranSanctions": {
       "episode_count": 4,
       "show_count": 3,
@@ -34703,6 +35042,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/johannloschek/"
     },
+    "Johannesburg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/johannesburg/"
+    },
     "JohnAdams": {
       "episode_count": 1,
       "show_count": 1,
@@ -34734,6 +35089,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/johncade/"
+    },
+    "JohnGottman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/johngottman/"
     },
     "JohnGroner": {
       "episode_count": 1,
@@ -34805,6 +35176,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/johnjumper/"
+    },
+    "JohnMcCarthy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/johnmccarthy/"
     },
     "JohnTernus": {
       "episode_count": 4,
@@ -35895,6 +36282,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/kouxuneasternhan/"
+    },
+    "KrugerNationalPark": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/krugernationalpark/"
     },
     "KuaikanManhua": {
       "episode_count": 1,
@@ -40520,6 +40923,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/longhuaairport/"
     },
+    "LoriGottlieb": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/lorigottlieb/"
+    },
     "LostCivilizationPseudohistory": {
       "episode_count": 2,
       "show_count": 1,
@@ -43248,6 +43667,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/maxkrummel/"
+    },
+    "MaybeYouShouldTalkToSomeone": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/maybeyoushouldtalktosomeone/"
     },
     "MayerlingDeathPact": {
       "episode_count": 2,
@@ -46002,9 +46437,9 @@
       "url": "/wiki/entities/ndongo/"
     },
     "NelsonMandela": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6535658080 [GLT6535658080].md",
@@ -46012,9 +46447,16 @@
           "show": "The Rest Is History",
           "title": "682. South Africa: Mandela and the Death of Apartheid (Part 6)",
           "url": "/wiki/sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080/"
+        },
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/nelsonmandela/"
     },
     "NeoRobot": {
@@ -49857,6 +50299,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/perioperativecircadianrecovery/"
     },
+    "PeripheralInnovationField": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/peripheralinnovationfield/"
+    },
     "PerishableTributeLaborBurden": {
       "episode_count": 2,
       "show_count": 1,
@@ -51036,6 +51494,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/postanesthesiarecoverysafety/"
+    },
+    "PostApartheidStructuralInequality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/postapartheidstructuralinequality/"
     },
     "PostRestorationMeritThreat": {
       "episode_count": 4,
@@ -53072,6 +53546,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/qihoo360/"
     },
+    "QinCollapseOverextension": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrc9hn-yRw9lKWUJL65UMmq_QYkJ [lrc9hn-yRw9lKWUJL65UMmq_QYkJ].md",
+          "key": "494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj",
+          "show": "忽左忽右",
+          "title": "494 张诗坪谈战争史视角下的秦末汉初混战",
+          "url": "/wiki/sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/qincollapseoverextension/"
+    },
     "QinFengEasternHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -53752,6 +54242,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/raybansmartglasses/"
     },
+    "RaySolomonoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/raysolomonoff/"
+    },
     "RealEstateHighTurnoverLeverage": {
       "episode_count": 1,
       "show_count": 1,
@@ -54421,6 +54927,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/rejectedcounseldefectioncascade/"
+    },
+    "RelationshipFourHorsemen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/relationshipfourhorsemen/"
     },
     "RelationshipNeedDiversification": {
       "episode_count": 3,
@@ -55592,6 +56114,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/ritualrenunciationpoliticalcapital/"
+    },
+    "RobbenIsland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/robbenisland/"
     },
     "RobertoRidolfi": {
       "episode_count": 1,
@@ -58779,6 +59317,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/simajunlatehan/"
     },
+    "SincereEmotionalSupport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luES_M_6btM17a5qt6kB1khR5S6i [luES_M_6btM17a5qt6kB1khR5S6i].md",
+          "key": "vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i",
+          "show": "天真不天真",
+          "title": "vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切",
+          "url": "/wiki/sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/sincereemotionalsupport/"
+    },
     "SingleAuthorInstitutionalCodification": {
       "episode_count": 1,
       "show_count": 1,
@@ -59137,6 +59691,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/slightlyharderchoice/"
+    },
+    "SlowGatheringImprovisation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/slowgatheringimprovisation/"
     },
     "SlowWaveSleepRestoration": {
       "episode_count": 1,
@@ -59538,6 +60108,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/songhongeasternhan/"
     },
+    "SongJia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luES_M_6btM17a5qt6kB1khR5S6i [luES_M_6btM17a5qt6kB1khR5S6i].md",
+          "key": "vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i",
+          "show": "天真不天真",
+          "title": "vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切",
+          "url": "/wiki/sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/songjia/"
+    },
     "SongYiEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -59578,9 +60164,9 @@
       "url": "/wiki/entities/songyoueasternhan/"
     },
     "SouthAfrica": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6535658080 [GLT6535658080].md",
@@ -59595,9 +60181,16 @@
           "show": "声动早咖啡",
           "title": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？",
           "url": "/wiki/sources/zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062/"
+        },
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/southafrica/"
     },
     "SouthSudan": {
@@ -59787,6 +60380,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/southernxiongnu/"
+    },
+    "Soweto": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/soweto/"
     },
     "SpaceBasedAIInfrastructure": {
       "episode_count": 8,
@@ -60283,6 +60892,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/steviegleiberson/"
+    },
+    "StewartBrand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/stewartbrand/"
     },
     "Stonyfield": {
       "episode_count": 1,
@@ -63788,6 +64413,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/theodorheuss/"
     },
+    "TherapeuticDefenseWork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/therapeuticdefensework/"
+    },
     "TherapeuticMusicalSynchrony": {
       "episode_count": 1,
       "show_count": 1,
@@ -63803,6 +64444,73 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/therapeuticmusicalsynchrony/"
+    },
+    "TherapyInsightActionGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/therapyinsightactiongap/"
+    },
+    "TherapyRelationshipAndBoundaries": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "EP273 NPC还是NPD，都别想拿走我们人生的遥控器 [lqqnd-e29XVhx2mTF6uUZX13wwvF].md",
+          "key": "ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf",
+          "show": "Talk三联",
+          "title": "EP273 NPC还是NPD，都别想拿走我们人生的遥控器",
+          "url": "/wiki/sources/ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf/"
+        },
+        {
+          "episode_file": "EP236 唠五块钱心里话，付费的陪伴是真的吗？ [ltVuoEluOEu4-a3j3lAmHc3Buudx].md",
+          "key": "ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx",
+          "show": "Talk三联",
+          "title": "EP236 唠五块钱心里话，付费的陪伴是真的吗？",
+          "url": "/wiki/sources/ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx/"
+        },
+        {
+          "episode_file": "13.悲伤的力量：谈谈丧亲之痛 [551507792].md",
+          "key": "13-beishang-de-liliang-tantan-sangqin-zhitong-551507792",
+          "show": "蜜獾吃书",
+          "title": "13.悲伤的力量：谈谈丧亲之痛",
+          "url": "/wiki/sources/13-beishang-de-liliang-tantan-sangqin-zhitong-551507792/"
+        },
+        {
+          "episode_file": "151.早安,怪物：祝你战胜恐惧，祝你获得康复 [900179286].md",
+          "key": "151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286",
+          "show": "蜜獾吃书",
+          "title": "151.早安,怪物：祝你战胜恐惧，祝你获得康复",
+          "url": "/wiki/sources/151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286/"
+        },
+        {
+          "episode_file": "Bombs and bombshells： Zelensky under pressure [6a86d3561ad8716bb64646f0].md",
+          "key": "bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0",
+          "show": "Economist Podcasts",
+          "title": "Bombs and bombshells: Zelensky under pressure",
+          "url": "/wiki/sources/bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0/"
+        },
+        {
+          "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+          "key": "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv",
+          "show": "文化有限",
+          "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+          "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/therapyrelationshipandboundaries/"
     },
     "ThinSoleSneakerRevival": {
       "episode_count": 1,
@@ -64254,6 +64962,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/tianjingeneralhospital/"
     },
+    "TianzhenButianzhen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luES_M_6btM17a5qt6kB1khR5S6i [luES_M_6btM17a5qt6kB1khR5S6i].md",
+          "key": "vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i",
+          "show": "天真不天真",
+          "title": "vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切",
+          "url": "/wiki/sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/tianzhenbutianzhen/"
+    },
     "TiaozhiKingdom": {
       "episode_count": 1,
       "show_count": 1,
@@ -64508,6 +65232,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/tokyo/"
+    },
+    "ToleranceOfDifference": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/toleranceofdifference/"
     },
     "TomOrton": {
       "episode_count": 1,
@@ -65727,6 +66467,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/universityofcaliforniasanfrancisco/"
+    },
+    "UniversityOfChicago": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/universityofchicago/"
     },
     "UniversityOfColoradoDenver": {
       "episode_count": 1,
@@ -69358,9 +70114,9 @@
       "url": "/wiki/entities/wurenzhixiao/"
     },
     "WushichaYanjiusuo": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GKwRIDoObJ-fAi177wTQizMF [GKwRIDoObJ-fAi177wTQizMF].md",
@@ -69375,6 +70131,13 @@
           "show": "无时差研究所",
           "title": "EP384-普通人也能打得起的“司美格鲁肽”，减肥针“一针瘦十斤”背后的真相与代",
           "url": "/wiki/sources/ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy/"
+        },
+        {
+          "episode_file": "GKwRIRwOWku-AnEkIQTItfZk [GKwRIRwOWku-AnEkIQTItfZk].md",
+          "key": "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk",
+          "show": "无时差研究所",
+          "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+          "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
         }
       ],
       "updated": "2026-09-07",
@@ -71285,6 +72048,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/yangbiao/"
     },
+    "YangBin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/yangbin/"
+    },
     "YangBingLateHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -72968,6 +73747,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/yuzhangcommandery/"
     },
+    "YvonChouinard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
+          "key": "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05",
+          "show": "声东击西",
+          "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+          "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/yvonchouinard/"
+    },
     "ZangBaLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -73920,6 +74715,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/zhangshenglatehan/"
+    },
+    "ZhangShiping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrc9hn-yRw9lKWUJL65UMmq_QYkJ [lrc9hn-yRw9lKWUJL65UMmq_QYkJ].md",
+          "key": "494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj",
+          "show": "忽左忽右",
+          "title": "494 张诗坪谈战争史视角下的秦末汉初混战",
+          "url": "/wiki/sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/zhangshiping/"
     },
     "ZhangShuoLateHan": {
       "episode_count": 1,
@@ -75934,6 +76745,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhuzhenlatehan/"
+    },
+    "ZhuluQinHanBook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrc9hn-yRw9lKWUJL65UMmq_QYkJ [lrc9hn-yRw9lKWUJL65UMmq_QYkJ].md",
+          "key": "494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj",
+          "show": "忽左忽右",
+          "title": "494 张诗坪谈战争史视角下的秦末汉初混战",
+          "url": "/wiki/sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/zhuluqinhanbook/"
     },
     "ZhuoMaoEasternHan": {
       "episode_count": 1,

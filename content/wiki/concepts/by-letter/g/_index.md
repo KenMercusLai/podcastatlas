@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6516
+wiki_total_pages: 6535
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "GossipAsSocialGrooming"
     title: "Gossip As Social Grooming / 八卦作为社会性梳毛"
     url: "/wiki/concepts/gossipassocialgrooming/"
+  - key: "GottmanMethod"
+    title: "Gottman Method / 哥特曼方法"
+    url: "/wiki/concepts/gottmanmethod/"
   - key: "GovernmentAIPaceSetting"
     title: "Government AI Pace-Setting"
     url: "/wiki/concepts/governmentaipacesetting/"

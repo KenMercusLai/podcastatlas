@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9119
+wiki_total_pages: 9145
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "HenryMcMaster"
     title: "Henry McMaster"
     url: "/wiki/entities/henrymcmaster/"
+  - key: "HenryMintzberg"
+    title: "Henry Mintzberg"
+    url: "/wiki/entities/henrymintzberg/"
   - key: "HenryOfNavarre"
     title: "Henry of Navarre"
     url: "/wiki/entities/henryofnavarre/"
@@ -359,6 +362,9 @@ wiki_pages:
   - key: "Heraclitus"
     title: "Heraclitus / 赫拉克利特"
     url: "/wiki/entities/heraclitus/"
+  - key: "HerbertSimon"
+    title: "Herbert Simon / 赫伯特·西蒙"
+    url: "/wiki/entities/herbertsimon/"
   - key: "HeritageFoundation"
     title: "Heritage Foundation"
     url: "/wiki/entities/heritagefoundation/"

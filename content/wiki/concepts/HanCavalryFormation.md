@@ -6,7 +6,8 @@ tags: [warfare, cavalry, organization, chu-han, late-han]
 sources:
   - zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu
   - zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0
-last_updated: 2026-08-30
+  - 494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj
+last_updated: 2026-09-07
 ---
 
 ## Definition
@@ -17,7 +18,9 @@ Han Cavalry Formation / 汉军骑兵建设 is the state or army-level process of
 
 The concept first enters through Liu Bang's post-Pengcheng recovery in Hanji 153 part 2. After [[XiangYu|项羽]]'s cavalry shock exposes the weakness of Liu Bang's infantry-heavy coalition, Liu Bang begins building his own mounted force around Guanzhong troops. [[LiBiQinCavalry|李璧]] and [[LuoJiaQinCavalry|骆甲]] know cavalry but warn that their Qin background may not convince Han troops, so [[GuanYing|灌婴]] becomes the trusted visible commander while they serve as technical deputies.
 
-Hanji 788 adds a later Eastern Han frontier variant. [[YuXuEasternHan|虞诩]] argues that infantry cannot catch mounted Qiang enemies, even if the Han side gathers a large number of foot soldiers. His answer is narrower and more urgent than Liu Bang's post-defeat force build: send local soldiers back to farming while using pooled money to buy horses, then let [[RenShangLateHan|任尚]] use light cavalry to pursue the enemy. Together the sources show that cavalry formation is not only about shock action; it is also about matching enemy mobility so pursuit and response become physically possible.
+Hanji 788 adds a later Eastern Han frontier variant. [[YuXuEasternHan|虞诩]] argues that infantry cannot catch mounted Qiang enemies, even if the Han side gathers a large number of foot soldiers. His answer is narrower and more urgent than Liu Bang's post-defeat force build: send local soldiers back to farming while using pooled money to buy horses, then let [[RenShangLateHan|任尚]] use light cavalry to pursue the enemy.
+
+At the Qin-Han scale, cavalry formation also has a technology-history dimension. Chu-Han cavalry traces can be read as possible signs of early impact-cavalry development connected to [[EurasianMilitaryTechnologyExchange|欧亚军事技术交流]], but that connection remains inferential. Together the sources show that cavalry formation is not only about shock action; it is also about matching enemy mobility, organizing trained mounted forces, and placing Chinese battlefield adaptation inside wider Eurasian military change.
 
 ## Key Claims
 
@@ -26,6 +29,7 @@ Hanji 788 adds a later Eastern Han frontier variant. [[YuXuEasternHan|虞诩]] a
 - It can also be a frontier mobility-matching response, as in Yu Xu's answer to mounted Qiang raiding.
 - Technical cavalry expertise and visible command legitimacy may need to be separated across different people.
 - Building or fielding cavalry changes strategic tempo: it can blunt enemy shock, make pursuit possible, and reduce the asymmetry of mounted opponents.
+- Interpreting cavalry formation at Qin-Han scale requires caution because tactical clues can suggest broader technology exchange without proving direct transmission.
 
 ## Evidence
 
@@ -34,22 +38,23 @@ Hanji 788 adds a later Eastern Han frontier variant. [[YuXuEasternHan|虞诩]] a
 - First payoff: [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]] records Guan Ying's cavalry victory east of Xingyang as part of Liu Bang's recovery.
 - Mobility diagnosis: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|Hanji 788]] says Yu Xu argues that infantry cannot pursue mounted Qiang forces that can move hundreds of li per day.
 - Light-cavalry implementation: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|Hanji 788]] says the court accepts Yu Xu's proposal and Ren Shang uses light cavalry to win.
+- Eurasian comparison: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]] argues that Chu-Han cavalry clues may belong to a wider Eurasian no-stirrup cavalry development field, while preserving uncertainty about direct influence.
 
 ## Counterevidence & Qualifications
 
-These sources do not make cavalry a universal solution. Liu Bang's case requires political trust, deputies, Guanzhong manpower, and a defensive line around Xingyang; Yu Xu's case solves a pursuit-speed problem but does not remove the need for deception and defensive tactics at Wudu. Cavalry formation should therefore be read as one adaptation inside a broader command system, not as speed alone.
+These sources do not make cavalry a universal solution. Liu Bang's case requires political trust, deputies, Guanzhong manpower, and a defensive line around Xingyang; Yu Xu's case solves a pursuit-speed problem but does not remove the need for deception and defensive tactics at Wudu. Zhang Shiping's Eurasian comparison is explicitly inferential, so it should guide comparative questioning rather than be treated as proof of a direct Hellenistic-to-Chu-Han transmission line. Cavalry formation should therefore be read as one adaptation inside a broader command system, not as speed alone.
 
 ## What Changed
 
-- Migrated the legacy Han Cavalry Formation page into the synthesis-v1 concept schema.
-- Added Hanji 788's Eastern Han frontier variant, where cavalry formation is a mobility-matching answer to mounted Qiang enemies.
-- Reframed the concept to include both shock-response organization and pursuit-capability repair.
+- Added the Huzuo Huyou Qin-Han military-history source's qualified Eurasian cavalry-comparison layer.
+- Reframed the concept to include shock-response organization, pursuit-capability repair, and cautious technology-history comparison.
 
 ## Related Concepts
 
 - [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]] - enemy capability that forces Liu Bang's post-Pengcheng cavalry learning.
 - [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]] - broader frontier-mobility problem that explains why infantry pursuit can fail.
 - [[ShieldCrossbowAntiCavalry|盾弩反骑兵战术]] - tactical counterpart showing how disciplined infantry and crossbows can defeat cavalry under specific conditions.
+- [[EurasianMilitaryTechnologyExchange|欧亚军事技术交流]] - wider comparative frame for Qin-Han cavalry development and later two-way military technology movement.
 - [[IncreasingStovesDeception|增灶示强]] - adjacent Yu Xu tactic that compensates for force inferiority after the mobility problem is partly addressed.
 - [[YuXuEasternHan|虞诩]] - Eastern Han adviser who gives the light-cavalry recommendation.
 - [[RenShangLateHan|任尚]] - commander who implements the light-cavalry answer in Hanji 788.

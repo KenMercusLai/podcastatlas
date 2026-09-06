@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2774
+topic_total_pages: 2777
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -829,6 +829,9 @@ topic_concepts:
   - key: "AIUniversityAssessmentReform"
     title: "AI University Assessment Reform"
     url: "/wiki/concepts/aiuniversityassessmentreform/"
+  - key: "AIUniversityCampusReframing"
+    title: "AI University Campus Reframing / AI 时代大学校园重构"
+    url: "/wiki/concepts/aiuniversitycampusreframing/"
   - key: "AIUsePacing"
     title: "AI Use Pacing"
     url: "/wiki/concepts/aiusepacing/"
@@ -1717,6 +1720,9 @@ topic_concepts:
   - key: "EmergencyWarningInfrastructure"
     title: "Emergency Warning Infrastructure"
     url: "/wiki/concepts/emergencywarninginfrastructure/"
+  - key: "EmergentInnovationStrategy"
+    title: "Emergent Innovation Strategy / 涌现式创新战略"
+    url: "/wiki/concepts/emergentinnovationstrategy/"
   - key: "EmotionalInteractionModels"
     title: "Emotional Interaction Models"
     url: "/wiki/concepts/emotionalinteractionmodels/"
@@ -6272,6 +6278,9 @@ topic_entities:
   - key: "SteveShaw"
     title: "Steve Shaw"
     url: "/wiki/entities/steveshaw/"
+  - key: "StewartBrand"
+    title: "Stewart Brand"
+    url: "/wiki/entities/stewartbrand/"
   - key: "StoryStorm"
     title: "StoryStorm"
     url: "/wiki/entities/storystorm/"

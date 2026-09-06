@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6516
+wiki_total_pages: 6535
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -299,9 +299,15 @@ wiki_pages:
   - key: "TheoreticalOperatingStandard"
     title: "Theoretical Operating Standard / 理论上该有的样子"
     url: "/wiki/concepts/theoreticaloperatingstandard/"
+  - key: "TherapeuticDefenseWork"
+    title: "Therapeutic Defense Work / 治疗中的防御工作"
+    url: "/wiki/concepts/therapeuticdefensework/"
   - key: "TherapeuticMusicalSynchrony"
     title: "Therapeutic Musical Synchrony"
     url: "/wiki/concepts/therapeuticmusicalsynchrony/"
+  - key: "TherapyInsightActionGap"
+    title: "Therapy Insight-Action Gap / 治疗中的洞察行动落差"
+    url: "/wiki/concepts/therapyinsightactiongap/"
   - key: "TherapyRelationshipAndBoundaries"
     title: "Therapy Relationship And Boundaries"
     url: "/wiki/concepts/therapyrelationshipandboundaries/"
@@ -413,6 +419,9 @@ wiki_pages:
   - key: "TokugawaForeignTradeAmbivalence"
     title: "Tokugawa Foreign-Trade Ambivalence"
     url: "/wiki/concepts/tokugawaforeigntradeambivalence/"
+  - key: "ToleranceOfDifference"
+    title: "Tolerance of Difference / 容差异"
+    url: "/wiki/concepts/toleranceofdifference/"
   - key: "TombDesecrationPoliticalViolence"
     title: "Tomb-Desecration Political Violence / 陵墓亵渎式政治暴力"
     url: "/wiki/concepts/tombdesecrationpoliticalviolence/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 6516
+wiki_total_pages: 6535
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "QinAdministrativeStandardization"
     title: "Qin Administrative Standardization / 秦国行政标准化"
     url: "/wiki/concepts/qinadministrativestandardization/"
+  - key: "QinCollapseOverextension"
+    title: "Qin Collapse Overextension / 秦亡多因素解释"
+    url: "/wiki/concepts/qincollapseoverextension/"
   - key: "QinCosmicCapitalPlanning"
     title: "Qin Cosmic Capital Planning / 秦代宇宙化都城规划"
     url: "/wiki/concepts/qincosmiccapitalplanning/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6516
+wiki_total_pages: 6535
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "RelationalIsolationControl"
     title: "Relational Isolation Control / 关系孤立控制"
     url: "/wiki/concepts/relationalisolationcontrol/"
+  - key: "RelationshipFourHorsemen"
+    title: "Relationship Four Horsemen / 关系四骑士"
+    url: "/wiki/concepts/relationshipfourhorsemen/"
   - key: "RelationshipNeedDiversification"
     title: "Relationship Need Diversification / 关系需求分散"
     url: "/wiki/concepts/relationshipneeddiversification/"

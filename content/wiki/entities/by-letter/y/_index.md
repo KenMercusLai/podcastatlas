@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 9119
+wiki_total_pages: 9145
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "YuvalNoahHarari"
     title: "Yuval Noah Harari"
     url: "/wiki/entities/yuvalnoahharari/"
+  - key: "YvonChouinard"
+    title: "Yvon Chouinard / 伊冯·乔伊纳德"
+    url: "/wiki/entities/yvonchouinard/"
   - key: "YiGeAfuhanNvrenDeLaixin"
     title: "《一个阿富汗女人的来信》"
     url: "/wiki/entities/yigeafuhannvrendelaixin/"
@@ -581,6 +584,9 @@ wiki_pages:
   - key: "YangBiao"
     title: "杨彪 / Yang Biao"
     url: "/wiki/entities/yangbiao/"
+  - key: "YangBin"
+    title: "杨彬 / Yang Bin"
+    url: "/wiki/entities/yangbin/"
   - key: "YangShen"
     title: "杨慎"
     url: "/wiki/entities/yangshen/"

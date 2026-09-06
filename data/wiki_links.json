@@ -967,6 +967,10 @@
     "title": "40.平面国：禁止染色/女人危险/向上不是向北！",
     "url": "/wiki/sources/40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366/"
   },
+  "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05": {
+    "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+    "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+  },
   "401KPlan": {
     "title": "401(k) Plan",
     "url": "/wiki/concepts/401kplan/"
@@ -1026,6 +1030,10 @@
   "49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098": {
     "title": "49.李乌鸦来了！聊聊我们为啥爱阅读",
     "url": "/wiki/sources/49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098/"
+  },
+  "494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj": {
+    "title": "494 张诗坪谈战争史视角下的秦末汉初混战",
+    "url": "/wiki/sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj/"
   },
   "495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo": {
     "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
@@ -2570,6 +2578,10 @@
   "AIUniversityAssessmentReform": {
     "title": "AI University Assessment Reform",
     "url": "/wiki/concepts/aiuniversityassessmentreform/"
+  },
+  "AIUniversityCampusReframing": {
+    "title": "AI University Campus Reframing / AI 时代大学校园重构",
+    "url": "/wiki/concepts/aiuniversitycampusreframing/"
   },
   "AIUsePacing": {
     "title": "AI Use Pacing",
@@ -4287,6 +4299,10 @@
     "title": "All Seasons Hotel / 全季酒店",
     "url": "/wiki/entities/allseasonshotel/"
   },
+  "AllenNewell": {
+    "title": "Allen Newell",
+    "url": "/wiki/entities/allennewell/"
+  },
   "AllergyAsImmuneResponse": {
     "title": "Allergy As Immune Response",
     "url": "/wiki/concepts/allergyasimmuneresponse/"
@@ -5270,6 +5286,10 @@
   "Apartheid": {
     "title": "Apartheid",
     "url": "/wiki/concepts/apartheid/"
+  },
+  "ApartheidMuseumJohannesburg": {
+    "title": "Apartheid Museum Johannesburg",
+    "url": "/wiki/entities/apartheidmuseumjohannesburg/"
   },
   "ApathyActionInitiation": {
     "title": "Apathy Action Initiation",
@@ -7182,6 +7202,10 @@
   "BenevolentCommandExecutionGap": {
     "title": "Benevolent Command Execution Gap / 仁厚指挥执行缺口",
     "url": "/wiki/concepts/benevolentcommandexecutiongap/"
+  },
+  "BenevolentSpeechPractice": {
+    "title": "Benevolent Speech Practice / 善语结善缘",
+    "url": "/wiki/concepts/benevolentspeechpractice/"
   },
   "Benfen": {
     "title": "Benfen / 本分",
@@ -9302,6 +9326,10 @@
   "CapeCodChips": {
     "title": "Cape Cod Chips",
     "url": "/wiki/entities/capecodchips/"
+  },
+  "CapeTown": {
+    "title": "Cape Town",
+    "url": "/wiki/entities/capetown/"
   },
   "Caperni": {
     "title": "Caperni",
@@ -11443,6 +11471,10 @@
     "title": "熊负刍 / 楚王负刍 / Xiong Fuchu",
     "url": "/wiki/entities/chufuchu/"
   },
+  "ChuHanWarDemythologizing": {
+    "title": "Chu-Han War Demythologizing / 楚汉战争去神话化",
+    "url": "/wiki/concepts/chuhanwardemythologizing/"
+  },
   "ChuHuaiwang": {
     "title": "楚怀王 / King Huai of Chu",
     "url": "/wiki/entities/chuhuaiwang/"
@@ -12483,6 +12515,10 @@
     "title": "Complementary Relationship Support / 互补式关系支持",
     "url": "/wiki/concepts/complementaryrelationshipsupport/"
   },
+  "ComplexDestinationTravelRisk": {
+    "title": "Complex Destination Travel Risk",
+    "url": "/wiki/concepts/complexdestinationtravelrisk/"
+  },
   "ComplexTraumaRecognition": {
     "title": "Complex Trauma Recognition",
     "url": "/wiki/concepts/complextraumarecognition/"
@@ -12734,6 +12770,10 @@
   "ConstituentNationSportingIdentity": {
     "title": "Constituent Nation Sporting Identity",
     "url": "/wiki/concepts/constituentnationsportingidentity/"
+  },
+  "ConstitutionHillJohannesburg": {
+    "title": "Constitution Hill Johannesburg",
+    "url": "/wiki/entities/constitutionhilljohannesburg/"
   },
   "ConstitutionalRobustness": {
     "title": "Constitutional Robustness",
@@ -14366,6 +14406,14 @@
   "DarrenAlpert": {
     "title": "Darren Alpert",
     "url": "/wiki/entities/darrenalpert/"
+  },
+  "DartmouthAIWorkshop": {
+    "title": "Dartmouth AI Workshop / 达特茅斯 AI 夏季研讨会",
+    "url": "/wiki/entities/dartmouthaiworkshop/"
+  },
+  "DartmouthCollege": {
+    "title": "Dartmouth College / 达特茅斯学院",
+    "url": "/wiki/entities/dartmouthcollege/"
   },
   "DarylFairweather": {
     "title": "Daryl Fairweather",
@@ -17583,6 +17631,10 @@
     "title": "Emergency Warning Infrastructure",
     "url": "/wiki/concepts/emergencywarninginfrastructure/"
   },
+  "EmergentInnovationStrategy": {
+    "title": "Emergent Innovation Strategy / 涌现式创新战略",
+    "url": "/wiki/concepts/emergentinnovationstrategy/"
+  },
   "EmilSinclair": {
     "title": "Emil Sinclair / 辛克莱尔",
     "url": "/wiki/entities/emilsinclair/"
@@ -18287,6 +18339,10 @@
     "title": "Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行",
     "url": "/wiki/concepts/eunuchpatronageviolenceshield/"
   },
+  "EurasianMilitaryTechnologyExchange": {
+    "title": "Eurasian Military Technology Exchange / 欧亚军事技术交流",
+    "url": "/wiki/concepts/eurasianmilitarytechnologyexchange/"
+  },
   "EurekaTherapeutics": {
     "title": "Eureka Therapeutics",
     "url": "/wiki/entities/eurekatherapeutics/"
@@ -18362,6 +18418,10 @@
   "EvaLeilaPesaran": {
     "title": "Eva Leila Pesaran",
     "url": "/wiki/entities/evaleilapesaran/"
+  },
+  "EvaluationAttachmentRelease": {
+    "title": "Evaluation Attachment Release / 放下评价执念",
+    "url": "/wiki/concepts/evaluationattachmentrelease/"
   },
   "EvanMoore": {
     "title": "Evan Moore",
@@ -18810,6 +18870,10 @@
   "FaceSlappingReversalNarrative": {
     "title": "Face-Slapping Reversal Narrative / 打脸反杀叙事",
     "url": "/wiki/concepts/faceslappingreversalnarrative/"
+  },
+  "FaceToFaceCreativeExchange": {
+    "title": "Face-to-Face Creative Exchange / 面对面创造性交流",
+    "url": "/wiki/concepts/facetofacecreativeexchange/"
   },
   "Facebook": {
     "title": "Facebook",
@@ -23007,6 +23071,14 @@
     "title": "Gossip As Social Grooming / 八卦作为社会性梳毛",
     "url": "/wiki/concepts/gossipassocialgrooming/"
   },
+  "GottmanInstitute": {
+    "title": "Gottman Institute / 哥特曼研究所",
+    "url": "/wiki/entities/gottmaninstitute/"
+  },
+  "GottmanMethod": {
+    "title": "Gottman Method / 哥特曼方法",
+    "url": "/wiki/concepts/gottmanmethod/"
+  },
   "GouBian": {
     "title": "苟变 / Gou Bian",
     "url": "/wiki/entities/goubian/"
@@ -24883,6 +24955,10 @@
     "title": "Henry McMaster",
     "url": "/wiki/entities/henrymcmaster/"
   },
+  "HenryMintzberg": {
+    "title": "Henry Mintzberg",
+    "url": "/wiki/entities/henrymintzberg/"
+  },
   "HenryOfNavarre": {
     "title": "Henry of Navarre",
     "url": "/wiki/entities/henryofnavarre/"
@@ -24922,6 +24998,10 @@
   "HerbalSupplementLiverToxicity": {
     "title": "Herbal Supplement Liver Toxicity",
     "url": "/wiki/concepts/herbalsupplementlivertoxicity/"
+  },
+  "HerbertSimon": {
+    "title": "Herbert Simon / 赫伯特·西蒙",
+    "url": "/wiki/entities/herbertsimon/"
   },
   "HeritageFoundation": {
     "title": "Heritage Foundation",
@@ -27855,6 +27935,10 @@
     "title": "invoko.ai / Invoqo",
     "url": "/wiki/entities/invokoai/"
   },
+  "InwardLookingSelfCultivation": {
+    "title": "Inward-Looking Self-Cultivation / 向内求式自我修行",
+    "url": "/wiki/concepts/inwardlookingselfcultivation/"
+  },
   "IoTBotnetRisk": {
     "title": "IoT Botnet Risk",
     "url": "/wiki/concepts/iotbotnetrisk/"
@@ -29403,6 +29487,10 @@
     "title": "Johann Loschek",
     "url": "/wiki/entities/johannloschek/"
   },
+  "Johannesburg": {
+    "title": "Johannesburg",
+    "url": "/wiki/entities/johannesburg/"
+  },
   "JohnAdams": {
     "title": "John Adams",
     "url": "/wiki/entities/johnadams/"
@@ -29462,6 +29550,10 @@
   "JohnGodfrey": {
     "title": "John Godfrey",
     "url": "/wiki/entities/johngodfrey/"
+  },
+  "JohnGottman": {
+    "title": "John Gottman / 约翰·哥特曼",
+    "url": "/wiki/entities/johngottman/"
   },
   "JohnGraham": {
     "title": "John Graham",
@@ -29530,6 +29622,10 @@
   "JohnMaynardKeynes": {
     "title": "John Maynard Keynes / 凯恩斯",
     "url": "/wiki/entities/johnmaynardkeynes/"
+  },
+  "JohnMcCarthy": {
+    "title": "John McCarthy / 约翰·麦卡锡",
+    "url": "/wiki/entities/johnmccarthy/"
   },
   "JohnMussington": {
     "title": "John Mussington",
@@ -30866,6 +30962,10 @@
   "KroenkeSportsEntertainment": {
     "title": "Kroenke Sports & Entertainment",
     "url": "/wiki/entities/kroenkesportsentertainment/"
+  },
+  "KrugerNationalPark": {
+    "title": "Kruger National Park",
+    "url": "/wiki/entities/krugernationalpark/"
   },
   "Ku6": {
     "title": "Ku6 / 酷六",
@@ -33763,6 +33863,10 @@
     "title": "Lori Goodman",
     "url": "/wiki/entities/lorigoodman/"
   },
+  "LoriGottlieb": {
+    "title": "Lori Gottlieb / 洛莉·戈特利布",
+    "url": "/wiki/entities/lorigottlieb/"
+  },
   "LosAngeles": {
     "title": "Los Angeles",
     "url": "/wiki/entities/losangeles/"
@@ -35846,6 +35950,10 @@
   "MayaraFelix": {
     "title": "Mayara Felix",
     "url": "/wiki/entities/mayarafelix/"
+  },
+  "MaybeYouShouldTalkToSomeone": {
+    "title": "Maybe You Should Talk to Someone / 《也许你该找个人聊聊》",
+    "url": "/wiki/entities/maybeyoushouldtalktosomeone/"
   },
   "MayerlingDeathPact": {
     "title": "Mayerling Death Pact",
@@ -41791,6 +41899,10 @@
     "title": "Perioperative Circadian Recovery",
     "url": "/wiki/concepts/perioperativecircadianrecovery/"
   },
+  "PeripheralInnovationField": {
+    "title": "Peripheral Innovation Field / 边域式创新场域",
+    "url": "/wiki/concepts/peripheralinnovationfield/"
+  },
   "PerishableTributeLaborBurden": {
     "title": "鲜贡劳役负担 / Perishable Tribute Labor Burden",
     "url": "/wiki/concepts/perishabletributelaborburden/"
@@ -43010,6 +43122,10 @@
   "PostAnesthesiaRecoverySafety": {
     "title": "Post-Anesthesia Recovery Safety / 麻醉术后苏醒与反应边界",
     "url": "/wiki/concepts/postanesthesiarecoverysafety/"
+  },
+  "PostApartheidStructuralInequality": {
+    "title": "Post-Apartheid Structural Inequality",
+    "url": "/wiki/concepts/postapartheidstructuralinequality/"
   },
   "PostApocalypticCivilizationPreservation": {
     "title": "Post-Apocalyptic Civilization Preservation",
@@ -44675,6 +44791,10 @@
     "title": "秦出公 / Qin Chugong",
     "url": "/wiki/entities/qinchugong/"
   },
+  "QinCollapseOverextension": {
+    "title": "Qin Collapse Overextension / 秦亡多因素解释",
+    "url": "/wiki/concepts/qincollapseoverextension/"
+  },
   "QinCosmicCapitalPlanning": {
     "title": "Qin Cosmic Capital Planning / 秦代宇宙化都城规划",
     "url": "/wiki/concepts/qincosmiccapitalplanning/"
@@ -45467,6 +45587,10 @@
     "title": "Ray Smith",
     "url": "/wiki/entities/raysmith/"
   },
+  "RaySolomonoff": {
+    "title": "Ray Solomonoff / 芮",
+    "url": "/wiki/entities/raysolomonoff/"
+  },
   "Raytheon": {
     "title": "Raytheon",
     "url": "/wiki/entities/raytheon/"
@@ -45926,6 +46050,10 @@
   "RelationalIsolationControl": {
     "title": "Relational Isolation Control / 关系孤立控制",
     "url": "/wiki/concepts/relationalisolationcontrol/"
+  },
+  "RelationshipFourHorsemen": {
+    "title": "Relationship Four Horsemen / 关系四骑士",
+    "url": "/wiki/concepts/relationshipfourhorsemen/"
   },
   "RelationshipLedGrowth": {
     "title": "Relationship-Led Growth",
@@ -46774,6 +46902,10 @@
   "RobRhinehart": {
     "title": "Rob Rhinehart",
     "url": "/wiki/entities/robrhinehart/"
+  },
+  "RobbenIsland": {
+    "title": "Robben Island",
+    "url": "/wiki/entities/robbenisland/"
   },
   "RobbieMcCluskey": {
     "title": "Robbie McCluskey",
@@ -49979,6 +50111,10 @@
     "title": "Sinak Village Site and High-Rise Development",
     "url": "/wiki/entities/sinakvillagesite/"
   },
+  "SincereEmotionalSupport": {
+    "title": "Sincere Emotional Support / 真诚的情绪价值",
+    "url": "/wiki/concepts/sincereemotionalsupport/"
+  },
   "SincerityAgainstSocialHypocrisy": {
     "title": "Sincerity Against Social Hypocrisy / 以真诚抵抗社会虚伪",
     "url": "/wiki/concepts/sincerityagainstsocialhypocrisy/"
@@ -50194,6 +50330,10 @@
   "SlowExtractionStrategy": {
     "title": "Slow Extraction Strategy",
     "url": "/wiki/concepts/slowextractionstrategy/"
+  },
+  "SlowGatheringImprovisation": {
+    "title": "Slow Gathering Improvisation / 慢聚慢奏",
+    "url": "/wiki/concepts/slowgatheringimprovisation/"
   },
   "SlowKundera": {
     "title": "《慢》 / Slowness",
@@ -50639,6 +50779,10 @@
     "title": "宋弘 / Song Hong (Eastern Han)",
     "url": "/wiki/entities/songhongeasternhan/"
   },
+  "SongJia": {
+    "title": "宋佳 / 小花老师 / Song Jia",
+    "url": "/wiki/entities/songjia/"
+  },
   "SongJunYan": {
     "title": "宋康王 / 宋君偃 / King Kang of Song",
     "url": "/wiki/entities/songjunyan/"
@@ -50858,6 +51002,10 @@
   "SovietUnion": {
     "title": "Soviet Union",
     "url": "/wiki/entities/sovietunion/"
+  },
+  "Soweto": {
+    "title": "Soweto",
+    "url": "/wiki/entities/soweto/"
   },
   "Soylent": {
     "title": "Soylent",
@@ -51762,6 +51910,10 @@
   "StewardOwnership": {
     "title": "Steward Ownership",
     "url": "/wiki/concepts/stewardownership/"
+  },
+  "StewartBrand": {
+    "title": "Stewart Brand",
+    "url": "/wiki/entities/stewartbrand/"
   },
   "StirFryRevival": {
     "title": "Stir-Fry Revival / 爆炒与小炒回潮",
@@ -54355,6 +54507,10 @@
     "title": "Theranos",
     "url": "/wiki/entities/theranos/"
   },
+  "TherapeuticDefenseWork": {
+    "title": "Therapeutic Defense Work / 治疗中的防御工作",
+    "url": "/wiki/concepts/therapeuticdefensework/"
+  },
   "TherapeuticInnovationCenter": {
     "title": "Therapeutic Innovation Center",
     "url": "/wiki/entities/therapeuticinnovationcenter/"
@@ -54362,6 +54518,10 @@
   "TherapeuticMusicalSynchrony": {
     "title": "Therapeutic Musical Synchrony",
     "url": "/wiki/concepts/therapeuticmusicalsynchrony/"
+  },
+  "TherapyInsightActionGap": {
+    "title": "Therapy Insight-Action Gap / 治疗中的洞察行动落差",
+    "url": "/wiki/concepts/therapyinsightactiongap/"
   },
   "TherapyRelationshipAndBoundaries": {
     "title": "Therapy Relationship And Boundaries",
@@ -54783,6 +54943,10 @@
     "title": "天线宝宝猞猁 / Tianxian Baobao Lynx",
     "url": "/wiki/entities/tianxianbaobaolynx/"
   },
+  "TianzhenButianzhen": {
+    "title": "天真不天真",
+    "url": "/wiki/entities/tianzhenbutianzhen/"
+  },
   "TiaozhiKingdom": {
     "title": "条支国 / Tiaozhi Kingdom",
     "url": "/wiki/entities/tiaozhikingdom/"
@@ -54978,6 +55142,10 @@
   "TokyoStockExchange": {
     "title": "Tokyo Stock Exchange",
     "url": "/wiki/entities/tokyostockexchange/"
+  },
+  "ToleranceOfDifference": {
+    "title": "Tolerance of Difference / 容差异",
+    "url": "/wiki/concepts/toleranceofdifference/"
   },
   "TomBlomfield": {
     "title": "Tom Blomfield",
@@ -56326,6 +56494,10 @@
   "UniversityOfCambridge": {
     "title": "University of Cambridge",
     "url": "/wiki/entities/universityofcambridge/"
+  },
+  "UniversityOfChicago": {
+    "title": "University of Chicago / 芝加哥大学",
+    "url": "/wiki/entities/universityofchicago/"
   },
   "UniversityOfColoradoDenver": {
     "title": "University of Colorado Denver",
@@ -60671,6 +60843,10 @@
     "title": "杨彪 / Yang Biao",
     "url": "/wiki/entities/yangbiao/"
   },
+  "YangBin": {
+    "title": "杨彬 / Yang Bin",
+    "url": "/wiki/entities/yangbin/"
+  },
   "YangBing": {
     "title": "杨冰 / Yang Bing",
     "url": "/wiki/entities/yangbing/"
@@ -61843,6 +62019,10 @@
     "title": "豫章郡 / Yuzhang Commandery",
     "url": "/wiki/entities/yuzhangcommandery/"
   },
+  "YvonChouinard": {
+    "title": "Yvon Chouinard / 伊冯·乔伊纳德",
+    "url": "/wiki/entities/yvonchouinard/"
+  },
   "ZTE": {
     "title": "ZTE",
     "url": "/wiki/entities/zte/"
@@ -62366,6 +62546,10 @@
   "ZhangShi": {
     "title": "张时 / Zhang Shi",
     "url": "/wiki/entities/zhangshi/"
+  },
+  "ZhangShiping": {
+    "title": "张诗平 / 张诗坪 / Zhang Shiping",
+    "url": "/wiki/entities/zhangshiping/"
   },
   "ZhangShuguangRailway": {
     "title": "Zhang Shuguang / 张曙光",
@@ -63626,6 +63810,10 @@
   "ZhuiguangAnimation": {
     "title": "追光动画 / Zhuiguang Animation",
     "url": "/wiki/entities/zhuiguanganimation/"
+  },
+  "ZhuluQinHanBook": {
+    "title": "《逐鹿：神话与预言背后的秦亡汉兴》",
+    "url": "/wiki/entities/zhuluqinhanbook/"
   },
   "ZhuoChi": {
     "title": "淖齿 / 卓齿 / Zhuo Chi",
@@ -65062,6 +65250,10 @@
   "ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9": {
     "title": "EP38 风满楼！全球资本市场巨幅动荡，腥风血雨时刻近在咫尺",
     "url": "/wiki/sources/ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9/"
+  },
+  "ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk": {
+    "title": "EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？",
+    "url": "/wiki/sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk/"
   },
   "ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy": {
     "title": "EP384-普通人也能打得起的“司美格鲁肽”，减肥针“一针瘦十斤”背后的真相与代",
@@ -67267,6 +67459,10 @@
     "title": "VOL.34康复医学科｜日本医疗剧里重建吞咽功能的治疗我们也可以",
     "url": "/wiki/sources/vol-34-kangfu-yixueke-riben-yiliao-ju-li-chongjian-tunyan-gongneng-de-zhiliao-women-ye-keyi-ljy1acxqeqlyhno1si714fe-q8om/"
   },
+  "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv": {
+    "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
+    "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+  },
   "vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj": {
     "title": "VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展",
     "url": "/wiki/sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj/"
@@ -67278,6 +67474,10 @@
   "vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo": {
     "title": "VOL.36眼科｜关于干眼症、眼药水、眼底病、近视和近视手术…眼科主任有话说",
     "url": "/wiki/sources/vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo/"
+  },
+  "vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i": {
+    "title": "vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切",
+    "url": "/wiki/sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i/"
   },
   "waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590": {
     "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",

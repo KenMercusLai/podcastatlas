@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 9119
+wiki_total_pages: 9145
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -440,6 +440,9 @@ wiki_pages:
   - key: "KroenkeSportsEntertainment"
     title: "Kroenke Sports & Entertainment"
     url: "/wiki/entities/kroenkesportsentertainment/"
+  - key: "KrugerNationalPark"
+    title: "Kruger National Park"
+    url: "/wiki/entities/krugernationalpark/"
   - key: "Ku6"
     title: "Ku6 / 酷六"
     url: "/wiki/entities/ku6/"
