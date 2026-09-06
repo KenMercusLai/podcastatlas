@@ -548,12 +548,13 @@
       "9d36904e555be9bd3a64051aec40ec50d074a0fe33f5d94a41cd1392f151a764",
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03",
-      "0ee3f66cbd06ecca38d41c798b94ab8c895672ce4f1af7437cfd461772ee6910"
+      "0ee3f66cbd06ecca38d41c798b94ab8c895672ce4f1af7437cfd461772ee6910",
+      "c2a1ffb4efb621f087dd97557d056c5029b11e1d2b0c3360529b1b3ffa40a8a8"
     ],
-    "paragraph_count": 548
+    "paragraph_count": 549
   },
-  "overview_commit": "aebc83621a6b09ece083795fba29eee77dba5f1e",
-  "overview_digest": "01d514fb8d70eb80b08a0587de4aabb832eaadc9598c6bca028a9cbac0cd1e44",
+  "overview_commit": "e4baeb803f489f8acd288fa8e8945b2d2f699db9",
+  "overview_digest": "b544abda4aeedafcb9e58c9f00ac0cfc5556fc0911156d7733ecd6246cdf673e",
   "paragraphs": [
     {
       "id": "f16f081698deab1f8c03274c799d0a2cdec4d918db2e50f99afa82efdff678c0",
@@ -16810,6 +16811,40 @@
         "ZhuXiaodongYunsheng",
         "ZhuYunde",
         "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666"
+      ]
+    },
+    {
+      "id": "c2a1ffb4efb621f087dd97557d056c5029b11e1d2b0c3360529b1b3ffa40a8a8",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "ai-and-technology",
+        "business-and-markets"
+      ],
+      "text": "The latest addition is [[tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128|AI in banking: the good, the bad, and the efficient]], a [[MarketplaceTech]] episode on smaller banks adopting AI. It adds [[AmericanPrideBank]], [[DominicMiarten]], [[FirstSouthwestBank]], [[ChristyEscobel]], [[CatherineJudge]], [[BeneficialStateBank]], [[SajitChanna]], [[CommunityBankAIAdoption]], [[AICreditAccessBias]], [[ThirdPartyAIVendorOversight]], and [[ValuesBasedAIGovernance]], while extending [[AIEnabledLoanDocumentAnalysis]], [[AIModelBiasGovernance]], [[ExplainableAILending]], [[PolicyBoundAgenticLendingSupport]], and [[NontraditionalBorrowerCreditAccess]]. Its core synthesis is that small-bank AI has practical value as a staff-capacity and preparation layer, but it remains bounded by human credit decisions, proxy-bias control, privacy, vendor oversight, and values-based institutional guidelines. No settled contradiction is recorded; vendor identities, model validation, speed claims, borrower outcomes, and exact regulatory mechanisms remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 2,
+        "governance-and-institutions": 3
+      },
+      "wikilinks": [
+        "AICreditAccessBias",
+        "AIEnabledLoanDocumentAnalysis",
+        "AIModelBiasGovernance",
+        "AmericanPrideBank",
+        "BeneficialStateBank",
+        "CatherineJudge",
+        "ChristyEscobel",
+        "CommunityBankAIAdoption",
+        "DominicMiarten",
+        "ExplainableAILending",
+        "FirstSouthwestBank",
+        "MarketplaceTech",
+        "NontraditionalBorrowerCreditAccess",
+        "PolicyBoundAgenticLendingSupport",
+        "SajitChanna",
+        "ThirdPartyAIVendorOversight",
+        "ValuesBasedAIGovernance",
+        "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128"
       ]
     }
   ],

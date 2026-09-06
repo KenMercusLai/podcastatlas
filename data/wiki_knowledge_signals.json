@@ -1217,6 +1217,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aicreativecollaboration/"
     },
+    "AICreditAccessBias": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
+          "key": "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI in banking: the good, the bad, and the efficient",
+          "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/aicreditaccessbias/"
+    },
     "AIDataBrokerDemand": {
       "episode_count": 1,
       "show_count": 1,
@@ -1308,6 +1324,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aiempiresovereigntyrisk/"
+    },
+    "AIEnabledLoanDocumentAnalysis": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "39ADD5FCDC6997BBA7B53F822E6A5B5A~8584417_2026-08-10-214817-8787-0-0-10.128 [39ADD5FCDC6997BBA7B53F822E6A5B5A~8584417_2026-08-10-214817-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a839553].md",
+          "key": "ep-28-the-ai-revolution-redefining-healthcare-financing",
+          "show": "Data Science With Sam",
+          "title": "EP 28: The AI Revolution: Redefining Healthcare Financing",
+          "url": "/wiki/sources/ep-28-the-ai-revolution-redefining-healthcare-financing/"
+        },
+        {
+          "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
+          "key": "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI in banking: the good, the bad, and the efficient",
+          "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/aienabledloandocumentanalysis/"
     },
     "AIEraMajorChoice": {
       "episode_count": 2,
@@ -1663,6 +1702,50 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/aimasterylearningmodel/"
+    },
+    "AIModelBiasGovernance": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "E69ADA8664814B454CA68D0D8A92C90~8584430_2026-08-10-215630-8787-0-0-10.128 [E69ADA8664814B454CA68D0D8A92C90~8584430_2026-08-10-215630-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83899e].md",
+          "key": "ep-16-data-decoded-navigating-the-ai-revolution",
+          "show": "Data Science With Sam",
+          "title": "EP 16: Data Decoded: Navigating the AI Revolution",
+          "url": "/wiki/sources/ep-16-data-decoded-navigating-the-ai-revolution/"
+        },
+        {
+          "episode_file": "5FFBCBA249308864A778B57B7C271199~8584428_2026-08-10-215528-8787-0-0-10.128 [5FFBCBA249308864A778B57B7C271199~8584428_2026-08-10-215528-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a8387e9].md",
+          "key": "ep-15-unveiling-data-scientists-role-in-the-generative-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 15: Unveiling Data Scientist's Role in the Generative AI Era",
+          "url": "/wiki/sources/ep-15-unveiling-data-scientists-role-in-the-generative-ai-era/"
+        },
+        {
+          "episode_file": "761BEEA78D77239641201EADE216A504~8584442_2026-08-10-210742-8787-0-0-1.128 [761BEEA78D77239641201EADE216A504~8584442_2026-08-10-210742-8787-0-0-1.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a83834b].md",
+          "key": "ep-4-a-i-talk-with-a-rocket-scientist-from-nasa",
+          "show": "Data Science With Sam",
+          "title": "EP 4: A.I. talk with a Rocket Scientist from NASA",
+          "url": "/wiki/sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa/"
+        },
+        {
+          "episode_file": "AA65A060D65530808855564AD78269~8584434_2026-08-10-210034-8787-0-0-10.128 [AA65A060D65530808855564AD78269~8584434_2026-08-10-210034-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83862c].md",
+          "key": "ep-11-growing-technology-footprints-in-insurance-sector",
+          "show": "Data Science With Sam",
+          "title": "EP 11: Growing Technology Footprints in Insurance Sector",
+          "url": "/wiki/sources/ep-11-growing-technology-footprints-in-insurance-sector/"
+        },
+        {
+          "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
+          "key": "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI in banking: the good, the bad, and the efficient",
+          "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/aimodelbiasgovernance/"
     },
     "AIModelOrchestration": {
       "episode_count": 2,
@@ -3601,6 +3684,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/americanculturalexports/"
+    },
+    "AmericanPrideBank": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
+          "key": "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI in banking: the good, the bad, and the efficient",
+          "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/americanpridebank/"
     },
     "AmericanRevolution": {
       "episode_count": 2,
@@ -6523,6 +6622,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/beneficialgovernancedelivery/"
     },
+    "BeneficialStateBank": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
+          "key": "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI in banking: the good, the bad, and the efficient",
+          "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/beneficialstatebank/"
+    },
     "BenitoMussolini": {
       "episode_count": 2,
       "show_count": 2,
@@ -9001,6 +9116,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/cathaypacific/"
     },
+    "CatherineJudge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
+          "key": "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI in banking: the good, the bad, and the efficient",
+          "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/catherinejudge/"
+    },
     "CatholicBurialLegitimacy": {
       "episode_count": 1,
       "show_count": 1,
@@ -10751,6 +10882,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/christophernavarro/"
     },
+    "ChristyEscobel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
+          "key": "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI in banking: the good, the bad, and the efficient",
+          "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/christyescobel/"
+    },
     "ChroniclePolicyCompression": {
       "episode_count": 1,
       "show_count": 1,
@@ -11616,6 +11763,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/commoditytrapescape/"
+    },
+    "CommunityBankAIAdoption": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
+          "key": "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI in banking: the good, the bad, and the efficient",
+          "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/communitybankaiadoption/"
     },
     "CommunityGroceryCuration": {
       "episode_count": 1,
@@ -15542,6 +15705,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/domesticbagsupplychainupgrade/"
+    },
+    "DominicMiarten": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
+          "key": "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI in banking: the good, the bad, and the efficient",
+          "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/dominicmiarten/"
     },
     "DonWeinland": {
       "episode_count": 2,
@@ -20121,9 +20300,9 @@
       "url": "/wiki/concepts/experienceformingeducation/"
     },
     "ExplainableAILending": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "E94FB25FB925FBF7518D4DD62303CE5F~8584398_2026-08-10-213438-8787-0-0-10.128 [E94FB25FB925FBF7518D4DD62303CE5F~8584398_2026-08-10-213438-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83ad47].md",
@@ -20131,9 +20310,16 @@
           "show": "Data Science With Sam",
           "title": "EP 44: Human-Centered Credit - Building Explainable AI for Lending in an Agentic World",
           "url": "/wiki/sources/ep-44-human-centered-credit-building-explainable-ai-for-lending-in-an-agentic-world/"
+        },
+        {
+          "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
+          "key": "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI in banking: the good, the bad, and the efficient",
+          "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-06",
       "url": "/wiki/concepts/explainableailending/"
     },
     "ExposureResponsePreventionForOCD": {
@@ -22047,6 +22233,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/firstpartysystem/"
+    },
+    "FirstSouthwestBank": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
+          "key": "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI in banking: the good, the bad, and the efficient",
+          "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/firstsouthwestbank/"
     },
     "FishOilNaturalStatinBoundary": {
       "episode_count": 1,
@@ -45063,9 +45265,9 @@
       "url": "/wiki/entities/nongfuspring/"
     },
     "NontraditionalBorrowerCreditAccess": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "E94FB25FB925FBF7518D4DD62303CE5F~8584398_2026-08-10-213438-8787-0-0-10.128 [E94FB25FB925FBF7518D4DD62303CE5F~8584398_2026-08-10-213438-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83ad47].md",
@@ -45073,9 +45275,16 @@
           "show": "Data Science With Sam",
           "title": "EP 44: Human-Centered Credit - Building Explainable AI for Lending in an Agentic World",
           "url": "/wiki/sources/ep-44-human-centered-credit-building-explainable-ai-for-lending-in-an-agentic-world/"
+        },
+        {
+          "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
+          "key": "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI in banking: the good, the bad, and the efficient",
+          "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-06",
       "url": "/wiki/concepts/nontraditionalborrowercreditaccess/"
     },
     "NormanConquestOfEngland": {
@@ -48665,9 +48874,9 @@
       "url": "/wiki/concepts/platonicatlantispoliticalmyth/"
     },
     "PolicyBoundAgenticLendingSupport": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "E94FB25FB925FBF7518D4DD62303CE5F~8584398_2026-08-10-213438-8787-0-0-10.128 [E94FB25FB925FBF7518D4DD62303CE5F~8584398_2026-08-10-213438-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83ad47].md",
@@ -48675,9 +48884,16 @@
           "show": "Data Science With Sam",
           "title": "EP 44: Human-Centered Credit - Building Explainable AI for Lending in an Agentic World",
           "url": "/wiki/sources/ep-44-human-centered-credit-building-explainable-ai-for-lending-in-an-agentic-world/"
+        },
+        {
+          "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
+          "key": "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI in banking: the good, the bad, and the efficient",
+          "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-06",
       "url": "/wiki/concepts/policyboundagenticlendingsupport/"
     },
     "PoliticalAccentPrestige": {
@@ -54385,6 +54601,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/sageox/"
+    },
+    "SajitChanna": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
+          "key": "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI in banking: the good, the bad, and the efficient",
+          "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/sajitchanna/"
     },
     "Salesforce": {
       "episode_count": 3,
@@ -61452,6 +61684,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/thinsolesneakerrevival/"
     },
+    "ThirdPartyAIVendorOversight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
+          "key": "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI in banking: the good, the bad, and the efficient",
+          "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/thirdpartyaivendoroversight/"
+    },
     "ThomasHowardDukeOfNorfolk": {
       "episode_count": 1,
       "show_count": 1,
@@ -63752,6 +64000,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/valuesnackchannelconsolidation/"
+    },
+    "ValuesBasedAIGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
+          "key": "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI in banking: the good, the bad, and the efficient",
+          "url": "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/valuesbasedaigovernance/"
     },
     "VectorBorneInfectionEscalation": {
       "episode_count": 1,

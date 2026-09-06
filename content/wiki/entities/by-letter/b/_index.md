@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9046
+wiki_total_pages: 9053
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "BenedettoVigna"
     title: "Benedetto Vigna"
     url: "/wiki/entities/benedettovigna/"
+  - key: "BeneficialStateBank"
+    title: "Beneficial State Bank"
+    url: "/wiki/entities/beneficialstatebank/"
   - key: "BenitoMussolini"
     title: "Benito Mussolini"
     url: "/wiki/entities/benitomussolini/"

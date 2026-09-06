@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9046
+wiki_total_pages: 9053
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -743,6 +743,9 @@ wiki_pages:
   - key: "AmericanMoment"
     title: "American Moment"
     url: "/wiki/entities/americanmoment/"
+  - key: "AmericanPrideBank"
+    title: "American Pride Bank"
+    url: "/wiki/entities/americanpridebank/"
   - key: "AmericanPublicMedia"
     title: "American Public Media"
     url: "/wiki/entities/americanpublicmedia/"

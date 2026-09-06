@@ -2923,6 +2923,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AICreditAccessBias": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AICyberDefenseUtility": [
     {
       "key": "technology",
@@ -6899,6 +6911,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "AmericanPrideBank": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AmericanProtectionistTradition": [
     {
       "key": "economics",
@@ -9987,6 +10011,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BeneficialStateBank": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "Benfen": [
     {
       "key": "politics",
@@ -12672,6 +12703,23 @@
       "url": "/topics/science/"
     }
   ],
+  "CatherineJudge": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CatherineJulesAndJim": [
     {
       "key": "culture",
@@ -14141,6 +14189,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ChristyEscobel": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "ChristyGerdhary": [
     {
       "key": "technology",
@@ -15349,6 +15404,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "CommunityBankAIAdoption": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "CommunityEmbeddedBusiness": [
@@ -19421,6 +19488,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "DominicMiarten": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "DominicanRepublic": [
@@ -23716,6 +23795,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "FirstSouthwestBank": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "FisherNash": [
@@ -53041,6 +53132,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "SajitChanna": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "SajithWickramasekara": [
     {
       "key": "economics",
@@ -61178,6 +61276,23 @@
       "url": "/topics/technology/"
     }
   ],
+  "ThirdPartyAIVendorOversight": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ThirdPartyDoctrine": [
     {
       "key": "technology",
@@ -63746,6 +63861,23 @@
     }
   ],
   "ValuesAsOperationalAsset": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ValuesBasedAIGovernance": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
     {
       "key": "politics",
       "label": "Politics",
@@ -74312,6 +74444,23 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     },
     {
       "key": "politics",

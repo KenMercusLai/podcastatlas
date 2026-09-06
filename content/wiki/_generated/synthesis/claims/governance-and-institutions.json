@@ -4317,10 +4317,31 @@
         "AirportAsUrbanMicrocosm",
         "CathayPacific"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "community-bank-ai-governance-bounds-efficiency",
+      "qualifications": [
+        "The source reports specific bank examples but does not identify vendors, model architectures, or validation procedures.",
+        "The regulatory-overseer role is a proposal from Catherine Judge in this episode rather than a documented enacted regime."
+      ],
+      "statement": "[[tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128|Marketplace Tech]] adds a community-bank AI governance case: [[CommunityBankAIAdoption]] can compress reporting and lending preparation at [[AmericanPrideBank]] and [[FirstSouthwestBank]], but [[AICreditAccessBias]], [[ThirdPartyAIVendorOversight]], [[ValuesBasedAIGovernance]], and [[AIModelBiasGovernance]] keep small-bank AI bounded by fair-lending, privacy, vendor, and human-accountability requirements.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128",
+        "MarketplaceTech",
+        "CommunityBankAIAdoption",
+        "AmericanPrideBank",
+        "FirstSouthwestBank",
+        "AICreditAccessBias",
+        "ThirdPartyAIVendorOversight",
+        "ValuesBasedAIGovernance",
+        "AIModelBiasGovernance"
+      ]
     }
   ],
-  "input_digest": "f23301295e40f8e09da11aed722713f7eebb8900c8f565a2a2438efeed2a9874",
-  "summary": "The Cathay Pacific / 声东击西 roundtable adds an aviation-governance branch: airport approvals, airspace limits, route subsidies, cargo infrastructure, and hub planning show infrastructure as a governing allocation system for city access, not just a transport market. Hanji 1070 adds a late-Han governance case in which post-victory rule depends on turning military advantage into credible settlement: coerced oath-taking, loyal refusal, formal title rewards, rebel-force incorporation, renewed Youzhou violence, and Hedong commandery handoff all test whether nominal submission becomes usable authority. The latest All-In episode still extends governance synthesis through Venezuelan oil legitimacy risk and New York City school AI boundaries; broader governance synthesis continues to center institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the gap between nominal authority and usable capacity.",
+  "input_digest": "4893fe50561a59355b454c2ce1898cbd18f4b699ebeeeddadfe5eeccd3a9c2af",
+  "summary": "The Cathay Pacific / 声东击西 roundtable adds an aviation-governance branch: airport approvals, airspace limits, route subsidies, cargo infrastructure, and hub planning show infrastructure as a governing allocation system for city access, not just a transport market. Hanji 1070 adds a late-Han governance case in which post-victory rule depends on turning military advantage into credible settlement: coerced oath-taking, loyal refusal, formal title rewards, rebel-force incorporation, renewed Youzhou violence, and Hedong commandery handoff all test whether nominal submission becomes usable authority. The latest All-In episode still extends governance synthesis through Venezuelan oil legitimacy risk and New York City school AI boundaries; broader governance synthesis continues to center institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the gap between nominal authority and usable capacity. The community-banking AI episode adds a private-sector governance branch in which small-bank efficiency gains are bounded by fair-lending proxy risk, privacy, third-party vendor oversight, institutional values, and human accountability for credit decisions.",
   "title": "Governance and Institutions",
   "topic_id": "governance-and-institutions"
 }

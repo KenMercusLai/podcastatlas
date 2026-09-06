@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-06
-as_of_overview_commit: 755027a4b7df17b023eb7bb682285a65365f7507
-input_digest: f23301295e40f8e09da11aed722713f7eebb8900c8f565a2a2438efeed2a9874
+as_of_overview_commit: e4baeb803f489f8acd288fa8e8945b2d2f699db9
+input_digest: 4893fe50561a59355b454c2ce1898cbd18f4b699ebeeeddadfe5eeccd3a9c2af
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-The Cathay Pacific / 声东击西 roundtable adds an aviation-governance branch: airport approvals, airspace limits, route subsidies, cargo infrastructure, and hub planning show infrastructure as a governing allocation system for city access, not just a transport market. Hanji 1070 adds a late-Han governance case in which post-victory rule depends on turning military advantage into credible settlement: coerced oath-taking, loyal refusal, formal title rewards, rebel-force incorporation, renewed Youzhou violence, and Hedong commandery handoff all test whether nominal submission becomes usable authority. The latest All-In episode still extends governance synthesis through Venezuelan oil legitimacy risk and New York City school AI boundaries; broader governance synthesis continues to center institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the gap between nominal authority and usable capacity.
+The Cathay Pacific / 声东击西 roundtable adds an aviation-governance branch: airport approvals, airspace limits, route subsidies, cargo infrastructure, and hub planning show infrastructure as a governing allocation system for city access, not just a transport market. Hanji 1070 adds a late-Han governance case in which post-victory rule depends on turning military advantage into credible settlement: coerced oath-taking, loyal refusal, formal title rewards, rebel-force incorporation, renewed Youzhou violence, and Hedong commandery handoff all test whether nominal submission becomes usable authority. The latest All-In episode still extends governance synthesis through Venezuelan oil legitimacy risk and New York City school AI boundaries; broader governance synthesis continues to center institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the gap between nominal authority and usable capacity. The community-banking AI episode adds a private-sector governance branch in which small-bank efficiency gains are bounded by fair-lending proxy risk, privacy, third-party vendor oversight, institutional values, and human accountability for credit decisions.
 
 ## Cross-source Findings
 
@@ -1979,3 +1979,14 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 
 - The source raises route-subsidy and airspace-allocation claims as episode synthesis rather than as audited policy data.
 - Cathay/Hong Kong institutional advantages remain source-scoped because the setting is a Cathay anniversary event.
+
+### Community Bank Ai Governance Bounds Efficiency
+
+[[tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128|Marketplace Tech]] adds a community-bank AI governance case: [[CommunityBankAIAdoption]] can compress reporting and lending preparation at [[AmericanPrideBank]] and [[FirstSouthwestBank]], but [[AICreditAccessBias]], [[ThirdPartyAIVendorOversight]], [[ValuesBasedAIGovernance]], and [[AIModelBiasGovernance]] keep small-bank AI bounded by fair-lending, privacy, vendor, and human-accountability requirements.
+
+**Evidence:** [[tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128]], [[MarketplaceTech]], [[CommunityBankAIAdoption]], [[AmericanPrideBank]], [[FirstSouthwestBank]], [[AICreditAccessBias]], [[ThirdPartyAIVendorOversight]], [[ValuesBasedAIGovernance]], [[AIModelBiasGovernance]]
+
+**Qualifications:**
+
+- The source reports specific bank examples but does not identify vendors, model architectures, or validation procedures.
+- The regulatory-overseer role is a proposal from Catherine Judge in this episode rather than a documented enacted regime.

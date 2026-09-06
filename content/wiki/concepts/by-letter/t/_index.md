@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6459
+wiki_total_pages: 6463
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "ThirdTypeCompany"
     title: "Third Type Company"
     url: "/wiki/concepts/thirdtypecompany/"
+  - key: "ThirdPartyAIVendorOversight"
+    title: "Third-Party AI Vendor Oversight"
+    url: "/wiki/concepts/thirdpartyaivendoroversight/"
   - key: "ThirdPartyDoctrine"
     title: "Third-Party Doctrine"
     url: "/wiki/concepts/thirdpartydoctrine/"

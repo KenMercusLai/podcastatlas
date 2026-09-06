@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9046
+wiki_total_pages: 9053
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -575,6 +575,9 @@ wiki_pages:
   - key: "DomPedroII"
     title: "Dom Pedro II"
     url: "/wiki/entities/dompedroii/"
+  - key: "DominicMiarten"
+    title: "Dominic Miarten"
+    url: "/wiki/entities/dominicmiarten/"
   - key: "DominicWindhamGiddens"
     title: "Dominic Windham-Giddens"
     url: "/wiki/entities/dominicwindhamgiddens/"
