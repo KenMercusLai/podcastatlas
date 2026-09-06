@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9023
+wiki_total_pages: 9028
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1337,6 +1337,9 @@ wiki_pages:
   - key: "ZhuiguangAnimation"
     title: "追光动画 / Zhuiguang Animation"
     url: "/wiki/entities/zhuiguanganimation/"
+  - key: "Zaohaowu"
+    title: "造好物 / Zaohaowu"
+    url: "/wiki/entities/zaohaowu/"
   - key: "ZaoFu"
     title: "造父 / Zaofu"
     url: "/wiki/entities/zaofu/"

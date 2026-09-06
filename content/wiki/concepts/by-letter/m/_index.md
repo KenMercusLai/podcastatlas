@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6441
+wiki_total_pages: 6447
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "MakerCommunity"
     title: "Maker Community"
     url: "/wiki/concepts/makercommunity/"
+  - key: "MakerOperatingSystem"
+    title: "Maker Operating System"
+    url: "/wiki/concepts/makeroperatingsystem/"
   - key: "MaleHormoneHealthPhenotyping"
     title: "Male Hormone Health Phenotyping"
     url: "/wiki/concepts/malehormonehealthphenotyping/"

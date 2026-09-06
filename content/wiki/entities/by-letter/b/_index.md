@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9023
+wiki_total_pages: 9028
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "BambuLab"
     title: "Bambu Lab / 拓竹科技"
     url: "/wiki/entities/bambulab/"
+  - key: "BambuMakerRoad"
+    title: "Bambu MakerRoad / 拓竹 MakerRoad"
+    url: "/wiki/entities/bambumakerroad/"
   - key: "BAMTech"
     title: "BAMTech"
     url: "/wiki/entities/bamtech/"

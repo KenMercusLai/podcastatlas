@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6441
+wiki_total_pages: 6447
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -473,6 +473,9 @@ wiki_pages:
   - key: "PhysicalIntelligenceSystemStack"
     title: "Physical Intelligence System Stack"
     url: "/wiki/concepts/physicalintelligencesystemstack/"
+  - key: "PhysicalManufacturingApplicationMoat"
+    title: "Physical Manufacturing Application Moat"
+    url: "/wiki/concepts/physicalmanufacturingapplicationmoat/"
   - key: "PhysicalMusicMediaRevival"
     title: "Physical Music Media Revival"
     url: "/wiki/concepts/physicalmusicmediarevival/"
@@ -1274,6 +1277,9 @@ wiki_pages:
   - key: "ProductRoast"
     title: "Product Roast"
     url: "/wiki/concepts/productroast/"
+  - key: "ProductVariableJudgment"
+    title: "Product Variable Judgment"
+    url: "/wiki/concepts/productvariablejudgment/"
   - key: "ProductVisionDrift"
     title: "Product Vision Drift"
     url: "/wiki/concepts/productvisiondrift/"
@@ -1298,6 +1304,9 @@ wiki_pages:
   - key: "ProductionVibeCoding"
     title: "Production Vibe Coding"
     url: "/wiki/concepts/productionvibecoding/"
+  - key: "ProductionGradeAI3D"
+    title: "Production-Grade AI 3D"
+    url: "/wiki/concepts/productiongradeai3d/"
   - key: "ProductiveBubbleSpillovers"
     title: "Productive Bubble Spillovers"
     url: "/wiki/concepts/productivebubblespillovers/"

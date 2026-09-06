@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9023
+wiki_total_pages: 9028
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "HF0"
     title: "HF0"
     url: "/wiki/entities/hf0/"
+  - key: "Hi3D"
+    title: "Hi3D"
+    url: "/wiki/entities/hi3d/"
   - key: "HibatullahAkhundzada"
     title: "Hibatullah Akhundzada"
     url: "/wiki/entities/hibatullahakhundzada/"

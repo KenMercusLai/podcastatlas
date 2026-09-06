@@ -2238,6 +2238,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AI3DManufacturingPipeline": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AI3DPrototyping": [
     {
       "key": "technology",
@@ -18595,6 +18602,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "Desktop3DPrintingEconomy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "DeterministicAIVerification": [
     {
       "key": "technology",
@@ -28930,6 +28944,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "Hi3D": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "HiSilicon": [
     {
       "key": "technology",
@@ -38758,6 +38779,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MakerOperatingSystem": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "MakingFrankensteinBook": [
     {
       "key": "culture",
@@ -46699,6 +46727,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "PhysicalManufacturingApplicationMoat": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "PhysicalMusicMediaRevival": [
     {
       "key": "culture",
@@ -48617,6 +48652,25 @@
     }
   ],
   "ProductLedWillingnessToPay": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "ProductVariableJudgment": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "ProductionGradeAI3D": [
     {
       "key": "technology",
       "label": "Technology",
@@ -51116,6 +51170,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "RenLifeng": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "RenShiQinMerchant": [
@@ -55177,6 +55238,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ShumeiWanwu": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ShuojieHanzi150Jiang": [
@@ -70908,6 +70976,18 @@
     }
   ],
   "dont-hate-the-replicator-hate-the-game": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
     {
       "key": "economics",
       "label": "Economics",

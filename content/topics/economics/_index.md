@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1926
+topic_total_pages: 1928
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -2140,6 +2140,9 @@ topic_concepts:
   - key: "ProductLaunchUnderConstraint"
     title: "Product Launch Under Constraint"
     url: "/wiki/concepts/productlaunchunderconstraint/"
+  - key: "ProductVariableJudgment"
+    title: "Product Variable Judgment"
+    url: "/wiki/concepts/productvariablejudgment/"
   - key: "ProductionInvestmentCity"
     title: "Production Investment City / 产投城市"
     url: "/wiki/concepts/productioninvestmentcity/"
@@ -5769,6 +5772,9 @@ topic_sources:
   - key: "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b"
     title: "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26"
     url: "/wiki/sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b/"
+  - key: "dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop"
+    title: "对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！"
+    url: "/wiki/sources/dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop/"
   - key: "shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud"
     title: "少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康"
     url: "/wiki/sources/shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud/"

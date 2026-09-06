@@ -1439,6 +1439,10 @@
     "title": "AH Share Discount Repricing",
     "url": "/wiki/concepts/ahsharediscountrepricing/"
   },
+  "AI3DManufacturingPipeline": {
+    "title": "AI 3D Manufacturing Pipeline",
+    "url": "/wiki/concepts/ai3dmanufacturingpipeline/"
+  },
   "AI3DPrototyping": {
     "title": "AI 3D Prototyping",
     "url": "/wiki/concepts/ai3dprototyping/"
@@ -6474,6 +6478,10 @@
   "BambuLab": {
     "title": "Bambu Lab / 拓竹科技",
     "url": "/wiki/entities/bambulab/"
+  },
+  "BambuMakerRoad": {
+    "title": "Bambu MakerRoad / 拓竹 MakerRoad",
+    "url": "/wiki/entities/bambumakerroad/"
   },
   "BanBiaoEasternHan": {
     "title": "班彪 / Ban Biao (Eastern Han)",
@@ -15050,6 +15058,10 @@
   "DesireDrivenCommandExposure": {
     "title": "Desire-Driven Command Exposure / 私欲驱动的统帅暴露",
     "url": "/wiki/concepts/desiredrivencommandexposure/"
+  },
+  "Desktop3DPrintingEconomy": {
+    "title": "Desktop 3D Printing Economy",
+    "url": "/wiki/concepts/desktop3dprintingeconomy/"
   },
   "DesmondShum": {
     "title": "Desmond Shum",
@@ -24730,6 +24742,10 @@
   "HezongAlliance": {
     "title": "合纵 / Hezong Alliance",
     "url": "/wiki/concepts/hezongalliance/"
+  },
+  "Hi3D": {
+    "title": "Hi3D",
+    "url": "/wiki/entities/hi3d/"
   },
   "HiSilicon": {
     "title": "HiSilicon",
@@ -34503,6 +34519,10 @@
     "title": "Maker Community",
     "url": "/wiki/concepts/makercommunity/"
   },
+  "MakerOperatingSystem": {
+    "title": "Maker Operating System",
+    "url": "/wiki/concepts/makeroperatingsystem/"
+  },
   "MakingFrankensteinBook": {
     "title": "《制造弗兰肯斯坦：玛丽·雪莱背后的科学》",
     "url": "/wiki/entities/makingfrankensteinbook/"
@@ -41771,6 +41791,10 @@
     "title": "Physical Intelligence System Stack",
     "url": "/wiki/concepts/physicalintelligencesystemstack/"
   },
+  "PhysicalManufacturingApplicationMoat": {
+    "title": "Physical Manufacturing Application Moat",
+    "url": "/wiki/concepts/physicalmanufacturingapplicationmoat/"
+  },
   "PhysicalMusicMediaRevival": {
     "title": "Physical Music Media Revival",
     "url": "/wiki/concepts/physicalmusicmediarevival/"
@@ -43303,9 +43327,17 @@
     "title": "Product Roast",
     "url": "/wiki/concepts/productroast/"
   },
+  "ProductVariableJudgment": {
+    "title": "Product Variable Judgment",
+    "url": "/wiki/concepts/productvariablejudgment/"
+  },
   "ProductVisionDrift": {
     "title": "Product Vision Drift",
     "url": "/wiki/concepts/productvisiondrift/"
+  },
+  "ProductionGradeAI3D": {
+    "title": "Production-Grade AI 3D",
+    "url": "/wiki/concepts/productiongradeai3d/"
   },
   "ProductionInvestmentCity": {
     "title": "Production Investment City / 产投城市",
@@ -45502,6 +45534,10 @@
   "RenKuiEasternHan": {
     "title": "任隗 / Ren Kui (Eastern Han)",
     "url": "/wiki/entities/renkuieasternhan/"
+  },
+  "RenLifeng": {
+    "title": "任立峰 / 卷卷",
+    "url": "/wiki/entities/renlifeng/"
   },
   "RenNing": {
     "title": "任宁 / Ren Ning",
@@ -49198,6 +49234,10 @@
   "ShulouDodo": {
     "title": "《书楼吊堂》",
     "url": "/wiki/entities/shuloudodo/"
+  },
+  "ShumeiWanwu": {
+    "title": "树美万物 / Shumei Wanwu",
+    "url": "/wiki/entities/shumeiwanwu/"
   },
   "Shunde": {
     "title": "Shunde / 顺德",
@@ -61227,6 +61267,10 @@
     "title": "枣祗 / Zao Zhi",
     "url": "/wiki/entities/zaozhi/"
   },
+  "Zaohaowu": {
+    "title": "造好物 / Zaohaowu",
+    "url": "/wiki/entities/zaohaowu/"
+  },
   "ZeRong": {
     "title": "笮融 / Ze Rong",
     "url": "/wiki/entities/zerong/"
@@ -63790,6 +63834,10 @@
   "dont-hate-the-replicator-hate-the-game": {
     "title": "Don't hate the replicator, hate the game",
     "url": "/wiki/sources/dont-hate-the-replicator-hate-the-game/"
+  },
+  "dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop": {
+    "title": "对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！",
+    "url": "/wiki/sources/dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop/"
   },
   "duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1": {
     "title": "175: 对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻",

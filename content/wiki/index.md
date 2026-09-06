@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！](sources/dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop.md) — 十字路口Crossing interview with Ren Lifeng on Douyin product judgment, Shumei Wanwu, AI 3D manufacturing pipelines, production-grade 3D output, Maker OS ambition, and why foundation models may not absorb physical-production workflows.
 - [#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西](sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d.md) — 声东击西 live roundtable with Cathay Pacific, Ma Xiao, and Zhang Jin on aviation as infrastructure for cities, cargo, geopolitics, Hong Kong, the Greater Bay Area, and passenger life radius.
 - [498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师](sources/498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be.md) — 忽左忽右 episode with 吴飞鹏 on French architect 赉安/赖安, Shanghai French Concession architecture, Art Deco, Hengfu memory, archival attribution, and the multicultural reality behind old Shanghai.
 - [流浪犬「旺旺」之死和一場跨境動保聲援](sources/liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan.md) — 端闻 episode on the 旺旺 stray-dog killing, mainland coded animal-protection expression, child cruelty and life education, China's animal-protection law gap, Hong Kong solidarity, and cautious low-claim civic action.
@@ -1942,6 +1943,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [任立峰 / 卷卷](entities/RenLifeng.md) — Shumei Wanwu founder and CEO, former ByteDance executive, and early Douyin product lead explaining AI 3D manufacturing and founder judgment.
+- [树美万物 / Shumei Wanwu](entities/ShumeiWanwu.md) — AI 3D company building model, workflow, and physical manufacturing products such as Hi3D and Zaohaowu.
+- [Hi3D](entities/Hi3D.md) — Shumei Wanwu product for AI 3D generation, model preparation, production parameters, and manufacturing workflow integration.
+- [造好物 / Zaohaowu](entities/Zaohaowu.md) — Shumei Wanwu consumer product turning personalized concepts and images into physical goods.
+- [Bambu MakerRoad / 拓竹 MakerRoad](entities/BambuMakerRoad.md) — Bambu Lab-associated 3D-printing/Maker platform context where Shumei Wanwu provides model-interface service.
 - [Cathay Pacific / 国泰航空](entities/CathayPacific.md) — Hong Kong-based airline anchoring the aviation-history, hub, cargo, and passenger-experience branch of the Shengdong Jixi roundtable.
 - [Longhua Airport / 龙华机场](entities/LonghuaAirport.md) — Former Shanghai airport site used as the place-based opening for aviation history and urban memory.
 - [马晓 / Ma Xiao (Peking University)](entities/MaXiaoPekingUniversity.md) — Peking University speaker explaining aviation through infrastructure, cities, cargo, regulation, and hub networks.
@@ -10969,6 +10975,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [AI 3D Manufacturing Pipeline](concepts/AI3DManufacturingPipeline.md) — Workflow connecting AI-generated 3D models to manufacturable physical goods through formats, materials, devices, suppliers, and fulfillment.
+- [Production-Grade AI 3D](concepts/ProductionGradeAI3D.md) — Quality standard for generated 3D output that can move into downstream production with minimal manual repair.
+- [Maker Operating System](concepts/MakerOperatingSystem.md) — Platform ambition to coordinate creators, AI 3D generation, devices, materials, fulfillment, and monetization for physical makers.
+- [Physical Manufacturing Application Moat](concepts/PhysicalManufacturingApplicationMoat.md) — Application-layer defensibility from production workflow, device integration, material/process knowledge, and delivery reliability.
+- [Desktop 3D Printing Economy](concepts/Desktop3DPrintingEconomy.md) — Market pattern where desktop printers, printing farms, Makers, social sharing, and AI model tools make personalized goods easier to create and order.
+- [Product Variable Judgment](concepts/ProductVariableJudgment.md) — Product strategy practice of asking which underlying technical, infrastructural, behavioral, cost, or supply-chain variable has changed enough to create a new opportunity.
 - [Aviation Infrastructure Urban Development / 航空基础设施与城市发展](concepts/AviationInfrastructureUrbanDevelopment.md) — Frame for airports, airlines, airspace, cargo, routes, and passenger flows reshaping city position and space.
 - [Air Cargo Value Density / 航空货运价值密度](concepts/AirCargoValueDensity.md) — Logistics lens where aviation matters because it carries high-value and time-sensitive goods despite low tonnage share.
 - [Aviation Hub City Strategy / 航空枢纽城市策略](concepts/AviationHubCityStrategy.md) — City-network strategy using passenger transfer, freight, route geography, regulation, and geopolitics to create hub value.

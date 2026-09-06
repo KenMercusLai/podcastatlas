@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6441
+wiki_total_pages: 6447
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -431,6 +431,9 @@ wiki_pages:
   - key: "AHShareDiscountRepricing"
     title: "AH Share Discount Repricing"
     url: "/wiki/concepts/ahsharediscountrepricing/"
+  - key: "AI3DManufacturingPipeline"
+    title: "AI 3D Manufacturing Pipeline"
+    url: "/wiki/concepts/ai3dmanufacturingpipeline/"
   - key: "AI3DPrototyping"
     title: "AI 3D Prototyping"
     url: "/wiki/concepts/ai3dprototyping/"
