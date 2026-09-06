@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6432
+wiki_total_pages: 6441
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "GreatRecoinage"
     title: "Great Recoinage / 大重铸"
     url: "/wiki/concepts/greatrecoinage/"
+  - key: "GreaterBayAreaAirportCluster"
+    title: "Greater Bay Area Airport Cluster / 大湾区机场群"
+    url: "/wiki/concepts/greaterbayareaairportcluster/"
   - key: "GreedPersonaSelfProtection"
     title: "Greed Persona Self-Protection / 贪财人设式自保"
     url: "/wiki/concepts/greedpersonaselfprotection/"

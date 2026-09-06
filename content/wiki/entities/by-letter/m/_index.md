@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9013
+wiki_total_pages: 9023
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "MemoVR"
     title: "Memo VR"
     url: "/wiki/entities/memovr/"
+  - key: "Memphis"
+    title: "Memphis / 孟菲斯"
+    url: "/wiki/entities/memphis/"
   - key: "MengFanqing"
     title: "Meng Fanqing / 孟繁青"
     url: "/wiki/entities/mengfanqing/"
@@ -1571,6 +1574,9 @@ wiki_pages:
   - key: "MaRidiLateHan"
     title: "马日磾 / Ma Ridi (late Han)"
     url: "/wiki/entities/maridilatehan/"
+  - key: "MaXiaoPekingUniversity"
+    title: "马晓 / Ma Xiao (Peking University)"
+    url: "/wiki/entities/maxiaopekinguniversity/"
   - key: "MaWuEasternHan"
     title: "马武 / Ma Wu (Eastern Han)"
     url: "/wiki/entities/mawueasternhan/"

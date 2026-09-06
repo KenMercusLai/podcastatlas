@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9013
+wiki_total_pages: 9023
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "HongKongExchangesAndClearing"
     title: "Hong Kong Exchanges and Clearing"
     url: "/wiki/entities/hongkongexchangesandclearing/"
+  - key: "HongKongInternationalAirport"
+    title: "Hong Kong International Airport / 香港国际机场 / 赤鱲角机场"
+    url: "/wiki/entities/hongkonginternationalairport/"
   - key: "HongKongSPCA"
     title: "Hong Kong SPCA / 香港爱护动物协会"
     url: "/wiki/entities/hongkongspca/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2193
+topic_total_pages: 2196
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -181,6 +181,12 @@ topic_concepts:
   - key: "AIVoiceCloningRights"
     title: "AI Voice Cloning Rights"
     url: "/wiki/concepts/aivoicecloningrights/"
+  - key: "AirportApprovalAirspaceConstraint"
+    title: "Airport Approval Airspace Constraint / 机场审批与空域约束"
+    url: "/wiki/concepts/airportapprovalairspaceconstraint/"
+  - key: "AirportRouteSubsidyUrbanBranding"
+    title: "Airport Route Subsidy Urban Branding / 航线补贴与城市国际化"
+    url: "/wiki/concepts/airportroutesubsidyurbanbranding/"
   - key: "AlgorithmicTrustMigration"
     title: "Algorithmic Trust Migration"
     url: "/wiki/concepts/algorithmictrustmigration/"
@@ -307,6 +313,9 @@ topic_concepts:
   - key: "AviationFuelSurcharge"
     title: "Aviation Fuel Surcharge / 航空燃油附加费"
     url: "/wiki/concepts/aviationfuelsurcharge/"
+  - key: "AviationHubCityStrategy"
+    title: "Aviation Hub City Strategy / 航空枢纽城市策略"
+    url: "/wiki/concepts/aviationhubcitystrategy/"
   - key: "AviationSafetyRules"
     title: "Aviation Safety Rules"
     url: "/wiki/concepts/aviationsafetyrules/"

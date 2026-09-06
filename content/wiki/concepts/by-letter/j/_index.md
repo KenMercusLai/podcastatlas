@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 6432
+wiki_total_pages: 6441
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "JeffersonianLibertyContradiction"
     title: "Jeffersonian Liberty Contradiction"
     url: "/wiki/concepts/jeffersonianlibertycontradiction/"
+  - key: "JetLagJetAgeEmbodiment"
+    title: "Jet Lag Jet Age Embodiment / 喷气时代的时差身体感"
+    url: "/wiki/concepts/jetlagjetageembodiment/"
   - key: "JevonsParadoxInAI"
     title: "Jevons Paradox In AI"
     url: "/wiki/concepts/jevonsparadoxinai/"

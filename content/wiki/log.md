@@ -15436,6 +15436,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-06] ingest | #403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西
+
+Ingested the 2026-09-03 声东击西 live roundtable recorded at the former Longhua Airport site for Cathay Pacific's 80th anniversary, covering aviation as infrastructure, cargo value density, airport and route approvals, hub-city strategy, Hong Kong and the Greater Bay Area airport cluster, route subsidies, jet lag, and passenger experience. Added source `403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d`; created `CathayPacific`, `LonghuaAirport`, `MaXiaoPekingUniversity`, `ZhangJinZhihu`, `Atlanta`, `Memphis`, `HongKongInternationalAirport`, `KaiTakAirport`, `InternationalAirTransportAssociation`, `SwireGroup`, `AviationInfrastructureUrbanDevelopment`, `AirCargoValueDensity`, `AviationHubCityStrategy`, `AirportApprovalAirspaceConstraint`, `AirportRouteSubsidyUrbanBranding`, `PassengerAviationExperienceRadius`, `AirportAsUrbanMicrocosm`, `GreaterBayAreaAirportCluster`, and `JetLagJetAgeEmbodiment`; updated `HongKong`, `FedEx`, `Dubai`, `AirlineServiceDifferentiation`, `AirlineMealIndustrialization`, `AIResistantExperientialConsumption`, `ShengdongJixi`, `XuTao`, `index`, and `overview`. No settled contradiction found; Cathay/Hong Kong advantages, IATA cargo figures, route-subsidy value, and passenger-experience claims remain source-scoped because the episode is a branded anniversary live event.
+
 ## [2026-09-06] ingest | 498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师
 
 Ingested the 2026-09-04 忽左忽右 episode with 吴飞鹏 on French architect 赉安/赖安, Shanghai French Concession architecture, Hengfu-area apartments and villas, Shanghai Art Deco and modernism, archival attribution, multicultural old Shanghai, and modernist heritage recognition risk. Added source `498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be`; created `ChengYanliang`, `WuFeipeng`, `LaiAnArchitect`, `HudecShanghaiArchitect`, `LeCorbusier`, `ShanghaiFrenchConcession`, `HengfuHistoricDistrict`, `GardenHotelShanghai`, `GascoigneApartments`, `MajesticApartmentsShanghai`, `ShanghaiFrenchConcessionArchitecture`, `ShanghaiArtDecoArchitecture`, `ModernistArchitecture`, `UrbanArchitecturalMemory`, `ArchitecturalArchiveResearch`, `ModernistHeritageRecognitionGap`, `ShanghaiMulticulturalUrbanCulture`, and `ChineseModernistArchitectsInShanghai`; updated `HuzuoHuyou`, `index`, and `overview`. No settled contradiction found; candidate Lai An attributions, Lai An-Le Corbusier counterfactuals, Anna identity confusion, and Lai An's final months remain source-scoped.
@@ -15463,6 +15467,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-06] ingest | 《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操
 
 Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Yuan Xi and Yuan Shang fleeing toward Wuhuan, Jiao Chu and Zhang Nan coercing Youzhou officials into a Cao-side blood oath, Han Heng refusing the oath, Zhang Yan's formal Black Mountain surrender, Youzhou/Wuhuan instability, Gao Gan's renewed Bingzhou rebellion, and Xun Yu recommending Du Ji for Hedong. Added source `zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o`; created `YuanXiLateHan`, `LiuFangLateHan`, `WangSongLateHan`, `JiaoChuLateHan`, `ZhangNanLateHan`, `HanHengLateHan`, `ZhaoDuLateHan`, `HuoNuLateHan`, `DuJiLateHan`, `WangYiHedongLateHan`, `WeiGuLateHan`, `FanXianLateHan`, `ZhangShengLateHan`, `ZhangYanHedongLateHan`, `LoyalRefusalLegitimacySignal`, and `TransitHubCommanderyControl`; updated `GaoGanLateHan`, `ZhangYanLateHan`, and `index`. No settled contradiction found; 张南/张衍/王邑 are disambiguated from existing routes, and minor official identities, Kuangping geography, and motive readings remain source-scoped.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-06] lint | Wiki health check
 

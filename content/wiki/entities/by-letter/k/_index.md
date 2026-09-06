@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 9013
+wiki_total_pages: 9023
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "KaiAirwallex"
     title: "Kai (Airwallex)"
     url: "/wiki/entities/kaiairwallex/"
+  - key: "KaiTakAirport"
+    title: "Kai Tak Airport / 启德机场"
+    url: "/wiki/entities/kaitakairport/"
   - key: "KaidenBooth"
     title: "Kaiden Booth"
     url: "/wiki/entities/kaidenbooth/"

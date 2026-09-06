@@ -1,25 +1,49 @@
 ---
 title: "Dubai / 迪拜"
 type: entity
-tags: [city, uae, business, finance, real-estate]
-sources: [vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8]
-last_updated: 2026-07-15
+tags: [city, uae, business, finance, real-estate, aviation]
+knowledge_schema: synthesis-v1
+sources:
+  - vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8
+  - 403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d
+last_updated: 2026-09-06
 ---
 
 # Dubai / 迪拜
 
-Dubai is the central city in [[vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8]], where [[Ricky]] describes it to [[DavidWeng|大卫翁]] as a fast-growing international business hub rather than only a luxury-tourism symbol. The episode contrasts Dubai with [[AbuDhabi|Abu Dhabi]]: Abu Dhabi carries more political and oil-resource weight, while Dubai is presented as more commercial, private-capital-facing, service-oriented, and open to global residents.
+## Overview
+Dubai / 迪拜 is a UAE commercial hub in the wiki, appearing through business, real estate, migration, finance, logistics, and now aviation rerouting.
 
-In the source, Dubai's opportunity stack includes low taxes, visible safety, international population flow, real estate demand, crypto activity, logistics, tourism, finance, high-end services, and Chinese outbound-business presence. The same source also warns that brokers, scams, gray industries, government relationships, climate, and incomplete market data make due diligence central.
+## Current Profile
+The Dubai business source presents the city as a low-tax, internationally staffed, policy-open, service-heavy hub that attracts capital, crypto services, property demand, tourism, logistics, and Chinese outbound business. That opportunity frame is paired with caution about brokers, scams, gray industries, government access claims, climate, and incomplete due diligence.
 
-The wiki's broader role for Dubai is now split across two frames. It is a concrete example of [[DubaiBusinessHubModel]] and [[DubaiRealEstateMarket]], but it also sits inside [[GulfStabilityRisk]] because finance, migration, logistics, and property demand depend on confidence that the city remains safe and predictable.
+The aviation roundtable extends Dubai's hub profile from business and finance into long-haul aviation. It compares Dubai with Hong Kong and Singapore as a city with little domestic aviation but strong international transfer value, and it links Russian-airspace disruption after the Russia-Ukraine war to the rising aviation role of Dubai, Istanbul, and other Middle East nodes.
 
-## Connections
-- [[UnitedArabEmirates|United Arab Emirates]] — national context.
-- [[AbuDhabi|Abu Dhabi]] — contrast city in the episode.
-- [[DubaiBusinessHubModel]] — low-tax, open, international hub logic.
-- [[DubaiGoldenVisaResidency]] — residency route discussed through Dubai property and setup options.
-- [[DubaiRealEstateMarket]] — property and rent cycle discussed in the source.
-- [[GulfStabilityRisk]] and [[GulfStrategicDiversification]] — regional confidence and post-oil development context.
-- [[RegionalNetworkTopologyRisk]] — existing infrastructure concept where Dubai appears as a Middle East network node.
+## Key Characteristics
+- Low-tax international business and service hub.
+- Real-estate and residency opportunity case with due-diligence warnings.
+- Logistics and tourism center whose value depends on safety and regional confidence.
+- International aviation-transfer hub whose position can improve when geopolitical routing changes.
 
+## Evidence
+- Business-hub model: [[vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8]] describes Dubai through low taxes, capital openness, international residents, logistics, finance, tourism, safety, and Chinese outbound business.
+- Due-diligence boundary: [[vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8]] warns that broker-heavy information, scams, gray industries, off-plan property, and uncertain data make investment and residency claims risky.
+- Aviation-transfer role: [[403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d]] compares Dubai with Hong Kong and Singapore as a hub with little domestic flying but strong international transfer function.
+- Geopolitical rerouting: [[403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d]] says Russian-airspace restrictions after the Russia-Ukraine war contributed to Dubai and Istanbul gaining aviation importance.
+
+## Qualifications
+Dubai's safe-haven and aviation-rerouting benefits remain exposed to regional security, geopolitics, airline strategy, and confidence risk. Neither source proves a durable investment outcome or airport-ranking conclusion.
+
+## What Changed
+- Migrated the page to `synthesis-v1`.
+- Added Dubai's international aviation-transfer and geopolitical rerouting role.
+- Preserved due-diligence warnings from the business and real-estate source.
+
+## Relationships
+- [[UnitedArabEmirates]] - national context.
+- [[AbuDhabi]] - UAE capital and resource-state contrast.
+- [[DubaiBusinessHubModel]] - business and migration hub concept.
+- [[DubaiRealEstateMarket]] - property opportunity and risk branch.
+- [[AviationHubCityStrategy]] - aviation-transfer hub concept strengthened by the new source.
+- [[GulfStabilityRisk]] - regional confidence risk qualifying Dubai's hub role.
+- [[WarSpilloverHubOpportunity]] - adjacent concept for cities benefiting from conflict-driven rerouting.

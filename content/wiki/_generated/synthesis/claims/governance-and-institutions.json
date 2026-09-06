@@ -4299,10 +4299,28 @@
         "BloomTwoSigmaProblem",
         "ZohranMamdani"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "aviation-infrastructure-governance-allocates-city-access",
+      "qualifications": [
+        "The source raises route-subsidy and airspace-allocation claims as episode synthesis rather than as audited policy data.",
+        "Cathay/Hong Kong institutional advantages remain source-scoped because the setting is a Cathay anniversary event."
+      ],
+      "statement": "[[403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d|#403 从八十年飞行史]] makes aviation a governance-and-institutions case: [[AviationInfrastructureUrbanDevelopment]], [[AirportApprovalAirspaceConstraint]], and [[AirportRouteSubsidyUrbanBranding]] show that airport approvals, airspace allocation, route subsidies, and airline-hub choices shape which cities gain global access and how public spending is justified.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+        "AviationInfrastructureUrbanDevelopment",
+        "AirportApprovalAirspaceConstraint",
+        "AirportRouteSubsidyUrbanBranding",
+        "AirportAsUrbanMicrocosm",
+        "CathayPacific"
+      ]
     }
   ],
-  "input_digest": "e0d03871260aad4ac784e19062f8d577c67673116f8d64788c8375996dc3bbec",
-  "summary": "Hanji 1070 adds a late-Han governance case in which post-victory rule depends on turning military advantage into credible settlement: coerced oath-taking, loyal refusal, formal title rewards, rebel-force incorporation, renewed Youzhou violence, and Hedong commandery handoff all test whether nominal submission becomes usable authority. The latest All-In episode still extends governance synthesis through Venezuelan oil legitimacy risk and New York City school AI boundaries; broader governance synthesis continues to center institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the gap between nominal authority and usable capacity.",
+  "input_digest": "f23301295e40f8e09da11aed722713f7eebb8900c8f565a2a2438efeed2a9874",
+  "summary": "The Cathay Pacific / 声东击西 roundtable adds an aviation-governance branch: airport approvals, airspace limits, route subsidies, cargo infrastructure, and hub planning show infrastructure as a governing allocation system for city access, not just a transport market. Hanji 1070 adds a late-Han governance case in which post-victory rule depends on turning military advantage into credible settlement: coerced oath-taking, loyal refusal, formal title rewards, rebel-force incorporation, renewed Youzhou violence, and Hedong commandery handoff all test whether nominal submission becomes usable authority. The latest All-In episode still extends governance synthesis through Venezuelan oil legitimacy risk and New York City school AI boundaries; broader governance synthesis continues to center institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the gap between nominal authority and usable capacity.",
   "title": "Governance and Institutions",
   "topic_id": "governance-and-institutions"
 }

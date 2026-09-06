@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9013
+wiki_total_pages: 9023
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1394,6 +1394,9 @@ wiki_pages:
   - key: "SwingSculpt"
     title: "Swing Sculpt"
     url: "/wiki/entities/swingsculpt/"
+  - key: "SwireGroup"
+    title: "Swire Group / 太古集团"
+    url: "/wiki/entities/swiregroup/"
   - key: "Switzerland"
     title: "Switzerland"
     url: "/wiki/entities/switzerland/"

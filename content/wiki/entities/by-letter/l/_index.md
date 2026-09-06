@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9013
+wiki_total_pages: 9023
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -518,6 +518,9 @@ wiki_pages:
   - key: "Longbridge"
     title: "Longbridge"
     url: "/wiki/entities/longbridge/"
+  - key: "LonghuaAirport"
+    title: "Longhua Airport / 龙华机场"
+    url: "/wiki/entities/longhuaairport/"
   - key: "Longma"
     title: "Longma / 龙马"
     url: "/wiki/entities/longma/"

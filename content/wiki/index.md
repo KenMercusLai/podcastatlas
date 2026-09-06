@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西](sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d.md) — 声东击西 live roundtable with Cathay Pacific, Ma Xiao, and Zhang Jin on aviation as infrastructure for cities, cargo, geopolitics, Hong Kong, the Greater Bay Area, and passenger life radius.
 - [498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师](sources/498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be.md) — 忽左忽右 episode with 吴飞鹏 on French architect 赉安/赖安, Shanghai French Concession architecture, Art Deco, Hengfu memory, archival attribution, and the multicultural reality behind old Shanghai.
 - [流浪犬「旺旺」之死和一場跨境動保聲援](sources/liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan.md) — 端闻 episode on the 旺旺 stray-dog killing, mainland coded animal-protection expression, child cruelty and life education, China's animal-protection law gap, Hong Kong solidarity, and cautious low-claim civic action.
 - [2026秋季篇E01 血液之灾！日本艾滋血液药剂事件](sources/2026-qiuji-pian-e01-xueye-zhi-zai-riben-aizi-xueye-yaoji-shijian-fv-j4cvvj0tnhfhdinjtcmudcirj.md) — 日谈物语 autumn opener setting a social-history direction, introducing hemophilia, and announcing the Japanese AIDS blood-products incident while the available transcript ends before case details.
@@ -1941,6 +1942,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Cathay Pacific / 国泰航空](entities/CathayPacific.md) — Hong Kong-based airline anchoring the aviation-history, hub, cargo, and passenger-experience branch of the Shengdong Jixi roundtable.
+- [Longhua Airport / 龙华机场](entities/LonghuaAirport.md) — Former Shanghai airport site used as the place-based opening for aviation history and urban memory.
+- [马晓 / Ma Xiao (Peking University)](entities/MaXiaoPekingUniversity.md) — Peking University speaker explaining aviation through infrastructure, cities, cargo, regulation, and hub networks.
+- [张金 / Zhang Jin (Zhihu)](entities/ZhangJinZhihu.md) — Zhihu vice president supplying the passenger-experience, Hong Kong, and airport-culture layer in the aviation roundtable.
+- [Atlanta / 亚特兰大](entities/Atlanta.md) — Passenger-hub city case showing how airport network position can raise urban importance.
+- [Memphis / 孟菲斯](entities/Memphis.md) — FedEx-centered multimodal freight hub where aviation amplifies river, rail, road, and continental logistics.
+- [Hong Kong International Airport / 香港国际机场 / 赤鱲角机场](entities/HongKongInternationalAirport.md) — Current Hong Kong airport infrastructure behind the hub, cargo, and Greater Bay Area aviation branch.
+- [Kai Tak Airport / 启德机场](entities/KaiTakAirport.md) — Former Hong Kong airport used to explain capacity, approach constraints, and airport migration.
+- [International Air Transport Association / IATA](entities/InternationalAirTransportAssociation.md) — Aviation-industry organization cited for the air-cargo weight-versus-value contrast.
+- [Swire Group / 太古集团](entities/SwireGroup.md) — Hong Kong-linked corporate context for Zhang Jin's airline backstage and catering observations.
 - [成言梁 / Cheng Yanliang](entities/ChengYanliang.md) — 忽左忽右 host framing the Lai An architecture episode through Shanghai streets, styles, preservation, and urban memory.
 - [吴飞鹏 / Wu Feipeng](entities/WuFeipeng.md) — Architectural culture researcher reconstructing Lai An's Shanghai corpus through archives, newspapers, family lists, and field investigation.
 - [赉安 / 赖安 / Lai An (architect)](entities/LaiAnArchitect.md) — French architect presented as a major shaper of the former Shanghai French Concession and Hengfu architectural landscape.
@@ -10958,6 +10969,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Aviation Infrastructure Urban Development / 航空基础设施与城市发展](concepts/AviationInfrastructureUrbanDevelopment.md) — Frame for airports, airlines, airspace, cargo, routes, and passenger flows reshaping city position and space.
+- [Air Cargo Value Density / 航空货运价值密度](concepts/AirCargoValueDensity.md) — Logistics lens where aviation matters because it carries high-value and time-sensitive goods despite low tonnage share.
+- [Aviation Hub City Strategy / 航空枢纽城市策略](concepts/AviationHubCityStrategy.md) — City-network strategy using passenger transfer, freight, route geography, regulation, and geopolitics to create hub value.
+- [Airport Approval Airspace Constraint / 机场审批与空域约束](concepts/AirportApprovalAirspaceConstraint.md) — Planning constraint where airport ambition depends on central approval, airspace, nearby airports, military coordination, and airline participation.
+- [Airport Route Subsidy Urban Branding / 航线补贴与城市国际化](concepts/AirportRouteSubsidyUrbanBranding.md) — Route-opening strategy where public support for international flights becomes city connectivity and brand investment.
+- [Passenger Aviation Experience Radius / 飞行扩大生活半径](concepts/PassengerAviationExperienceRadius.md) — Passenger-level frame for flight expanding work, travel, face-to-face contact, and sensory experience.
+- [Airport As Urban Microcosm / 机场作为城市小世界](concepts/AirportAsUrbanMicrocosm.md) — Cultural frame for airports as condensed city-like spaces of mobility, security, commerce, service, waiting, and narrative.
+- [Greater Bay Area Airport Cluster / 大湾区机场群](concepts/GreaterBayAreaAirportCluster.md) — Regional aviation pattern linking Hong Kong, Guangzhou, Shenzhen, Pearl River Delta manufacturing, cargo, and passenger access.
+- [Jet Lag Jet Age Embodiment / 喷气时代的时差身体感](concepts/JetLagJetAgeEmbodiment.md) — Body-level concept for jet-age speed becoming perceptible through time-zone mismatch and long-haul comfort.
 - [Shanghai French Concession Architecture / 上海法租界建筑](concepts/ShanghaiFrenchConcessionArchitecture.md) — Built-environment frame combining Lai An, Hudec, Chinese architects, public-board patronage, mixed styles, and later interpretation.
 - [Shanghai Art Deco Architecture / 上海装饰艺术派建筑](concepts/ShanghaiArtDecoArchitecture.md) — Shanghai branch of geometric, machine-age decorative modernity explained through Lai An, cinemas, apartments, and hotel interiors.
 - [Modernist Architecture / 现代主义建筑](concepts/ModernistArchitecture.md) — Broad architectural shift from historical ornament toward new materials, simpler forms, and modern living arrangements.

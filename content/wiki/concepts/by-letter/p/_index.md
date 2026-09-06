@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6432
+wiki_total_pages: 6441
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -161,6 +161,9 @@ wiki_pages:
   - key: "PartyBanCrisisAmnesty"
     title: "Party-Ban Crisis Amnesty / 党锢危机赦免"
     url: "/wiki/concepts/partybancrisisamnesty/"
+  - key: "PassengerAviationExperienceRadius"
+    title: "Passenger Aviation Experience Radius / 飞行扩大生活半径"
+    url: "/wiki/concepts/passengeraviationexperienceradius/"
   - key: "PassengerComplaintHandling"
     title: "Passenger Complaint Handling"
     url: "/wiki/concepts/passengercomplainthandling/"

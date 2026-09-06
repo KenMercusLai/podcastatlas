@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "f16f081698deab1f8c03274c799d0a2cdec4d918db2e50f99afa82efdff678c0",
       "6384941179f91a79832010fdfa34af1287826a7db0a91c28414171eb2c389428",
       "2fabc9556d637f66f8554a09deea7153cb19cbd74cad3d1dcef7fe29c53af29a",
       "6dfa974bf238032d37185ab962468f4159fa3b71b3c1e5919c7f138095ee6c16",
@@ -548,11 +549,56 @@
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
       "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
     ],
-    "paragraph_count": 546
+    "paragraph_count": 547
   },
-  "overview_commit": "629488ff2364e9c814040028c2b805ff1080db6f",
-  "overview_digest": "2b1666f7d06a5a7afaae17d74fbeee6f7a9df0d09095794a7f88e1646a96d41b",
+  "overview_commit": "755027a4b7df17b023eb7bb682285a65365f7507",
+  "overview_digest": "9cffe016e39ac0b4351476f30b70e515435189c02874942fffc740dbdfd38928",
   "paragraphs": [
+    {
+      "id": "f16f081698deab1f8c03274c799d0a2cdec4d918db2e50f99afa82efdff678c0",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d|#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西]], a [[ShengdongJixi|声东击西]] live roundtable at [[LonghuaAirport|龙华机场旧址]] with [[XuTao|徐涛]], [[MaXiaoPekingUniversity|马晓]], and [[ZhangJinZhihu|张金]] on flight as city and social infrastructure. It adds [[CathayPacific|国泰航空]], [[LonghuaAirport|龙华机场]], [[MaXiaoPekingUniversity|马晓]], [[ZhangJinZhihu|张金]], [[Atlanta]], [[Memphis]], [[HongKongInternationalAirport|香港国际机场]], [[KaiTakAirport|启德机场]], [[InternationalAirTransportAssociation|IATA]], [[SwireGroup|太古集团]], [[AviationInfrastructureUrbanDevelopment|航空基础设施与城市发展]], [[AirCargoValueDensity|航空货运价值密度]], [[AviationHubCityStrategy|航空枢纽城市策略]], [[AirportApprovalAirspaceConstraint|机场审批与空域约束]], [[AirportRouteSubsidyUrbanBranding|航线补贴与城市国际化]], [[PassengerAviationExperienceRadius|飞行扩大生活半径]], [[AirportAsUrbanMicrocosm|机场作为城市小世界]], [[GreaterBayAreaAirportCluster|大湾区机场群]], and [[JetLagJetAgeEmbodiment|喷气时代的时差身体感]], while extending [[HongKong]], [[Dubai]], [[FedEx]], [[AirlineServiceDifferentiation]], [[AirlineMealIndustrialization]], and [[AIResistantExperientialConsumption]]. Its core synthesis is that aviation is not just transport consumption: airports, airlines, cargo value, route subsidies, airspace regulation, hub geography, geopolitics, and passenger comfort jointly reshape cities and personal life radius. No settled contradiction is recorded; Cathay/Hong Kong advantages, IATA cargo figures, route-subsidy value, and passenger-experience claims remain source-scoped because the episode is a branded anniversary live event.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+        "AIResistantExperientialConsumption",
+        "AirCargoValueDensity",
+        "AirlineMealIndustrialization",
+        "AirlineServiceDifferentiation",
+        "AirportApprovalAirspaceConstraint",
+        "AirportAsUrbanMicrocosm",
+        "AirportRouteSubsidyUrbanBranding",
+        "Atlanta",
+        "AviationHubCityStrategy",
+        "AviationInfrastructureUrbanDevelopment",
+        "CathayPacific",
+        "Dubai",
+        "FedEx",
+        "GreaterBayAreaAirportCluster",
+        "HongKong",
+        "HongKongInternationalAirport",
+        "InternationalAirTransportAssociation",
+        "JetLagJetAgeEmbodiment",
+        "KaiTakAirport",
+        "LonghuaAirport",
+        "MaXiaoPekingUniversity",
+        "Memphis",
+        "PassengerAviationExperienceRadius",
+        "ShengdongJixi",
+        "SwireGroup",
+        "XuTao",
+        "ZhangJinZhihu"
+      ]
+    },
     {
       "id": "6384941179f91a79832010fdfa34af1287826a7db0a91c28414171eb2c389428",
       "primary_topic": "science-health-and-climate",

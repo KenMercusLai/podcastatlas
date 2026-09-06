@@ -1,37 +1,51 @@
 ---
 title: "AI Resistant Experiential Consumption"
 type: concept
-tags: [ai, consumer, travel, hospitality, community]
-sources: [137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]
-last_updated: 2026-08-16
+tags: [ai, consumer, travel, hospitality, community, aviation]
+knowledge_schema: synthesis-v1
+sources:
+  - 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1
+  - 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1
+  - kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684
+  - 403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d
+last_updated: 2026-09-06
 ---
 
 # AI Resistant Experiential Consumption
 
-AI resistant experiential consumption is the source's thesis that offline activities requiring bodily presence, shared atmosphere, trust, and emotional connection are harder for AI to replace than digital content or standardized knowledge work. In [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]], [[FengTouQuan]] applies this to travel, restaurants, concerts, sports matches, city districts, coffee shops, beauty retail, and offline member activities.
+## Definition
+AI resistant experiential consumption is the pattern where offline activities requiring bodily presence, shared atmosphere, local texture, trust, and emotional connection retain value even as AI makes information and digital production cheaper.
 
-The concept extends [[ExperientialRetail]] and [[HumanConnectionUnderAI]]. AI can summarize, generate, recommend, and automate parts of discovery or service, but the episode argues that a meal in [[Shunde]], a visit to [[SeongsuDong]], a live fitness class, a member gathering, or a housing experience still depends on being there with other people and paying attention to physical surroundings.
+## Current Synthesis
+The concept began with food tourism, city districts, retail, offline communities, and live sports. The durable claim is that AI can reduce the scarcity of content and recommendations while raising the relative value of being somewhere with other people, perceiving the environment directly, and participating in events whose value cannot be fully generated or summarized.
 
-[[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] adds a Japan-centered version. [[KiyosumiShirakawa]], [[TokyoDisneyResort]], [[Kyoto]], and [[Sanrio]] show that experience resistance can come from slow neighborhood discovery, long-term theme-park operation, cultural atmosphere, and small emotional goods, not only from restaurants or Korean retail districts.
-
-[[kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]] adds the live-sports capital-market version through the [[LosAngelesLakers|Los Angeles Lakers]]. The source says some investors view sports teams as assets that can hedge AI disruption because live offline entertainment is difficult for AI to substitute and may benefit if automation gives people more leisure time.
+The aviation roundtable extends the concept from destinations to mobility itself. Flight expands the radius of embodied experience, and the source explicitly argues that AI efficiency does not remove the value of visiting places, meeting locals, sensing the journey, and sharing face-to-face contact.
 
 ## Key Claims
 - AI can reduce the scarcity of information while increasing the relative scarcity of embodied, social, and place-based experience.
-- Experience consumption scales with time and money more than with physical stomach capacity; travel and entertainment can expand beyond functional need.
-- Digital humans and generated content fit standardized low-emotion cases better than cases where people want a trusted host, community, or real conversation.
-- Content can amplify offline demand, as [[XunweiShunde]] does for [[Shunde]], but the final value is tested in the actual visit.
-- The more a consumer product depends on mood, crowd, design, service, local context, and identity, the less it can be evaluated as a pure information good.
-- AI resistance does not mean immunity from operations: queues, leases, staff, rent, location, supply chain, and service consistency still determine whether the experience holds up.
-- Experience can be weakened by over-marketing when the consumer's main job becomes producing social-media content rather than inhabiting the place.
-- Live sports can become an AI-resistant asset class when scarcity, place, fandom, and media rights compound around physical events.
+- Experience consumption depends on mood, crowd, design, service, local context, and identity rather than pure functional utility.
+- Content and platforms can amplify offline demand, but the final value is tested in the actual visit or event.
+- Live sports, destination restaurants, theme parks, neighborhoods, and travel all rely on forms of scarcity that AI cannot simply copy.
+- Aviation becomes part of AI-resistant consumption when it makes place-based encounters and journey experience possible at larger geographic scale.
 
-## Connections
+## Evidence
+- Offline experience thesis: [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] frames tourism, restaurants, concerts, sports matches, city walks, and offline communities as experience value that depends on bodily presence and human connection.
+- Japan and Korea comparison: [[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] uses neighborhoods, Disney, Kyoto, Sanrio, and Korean marketing to separate lived experience from purely internet-famous traffic.
+- Live-sports asset branch: [[kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]] links Los Angeles Lakers valuation to live offline entertainment scarcity and media-rights expectations.
+- Aviation extension: [[403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d]] says AI may improve efficiency, but going to a place, meeting people, and experiencing travel directly remains valuable.
+
+## Counterevidence & Qualifications
+AI resistance is not immunity from operations. Queues, leases, staff, rent, supply chains, safety, visas, travel costs, and service consistency still determine whether an experience holds up. The aviation source also underplays environmental cost and unequal access to flight.
+
+## What Changed
+- Migrated the page to `synthesis-v1`.
+- Added aviation as a mobility layer that enables embodied place-based experience.
+- Preserved operational and access limits rather than treating offline experience as automatically defensible.
+
+## Related Concepts
+- [[PassengerAviationExperienceRadius]] - aviation-specific extension of embodied travel value.
 - [[ExperientialRetail]] - broader store and service-experience frame.
 - [[RestaurantExperienceDesign]] - hospitality branch of the concept.
 - [[HumanConnectionUnderAI]] - relationship and community version.
-- [[AIContentDevaluation]] and [[IntelligenceDevaluation]] - AI pressure that makes experience relatively scarcer.
-- [[Shunde]], [[Zhuroupo]], [[SeongsuDong]], [[GentleMonster]], and [[HongKong]] - source cases.
-- [[HousingExperienceInvestmentSplit]] - boundary case where lived experience should not be confused with asset return.
-- [[ExperienceLedBrand]], [[AuthenticNeighborhoodExperience]], [[LongTermPlaceOperation]], [[KiyosumiShirakawa]], and [[TokyoDisneyResort]] - Japan-centered extension added by episode 142.
-- [[LosAngelesLakers]], [[NationalBasketballAssociation|NBA]], [[SportsEntertainmentFlywheel]], and [[SportsMediaRights]] - sports-team valuation branch added by 声动早咖啡.
+- [[TravelSensoryRecovery]] - adjacent travel concept about direct perception and local contact.
+- [[AIContentDevaluation]] - pressure that can make embodied experience relatively scarcer.

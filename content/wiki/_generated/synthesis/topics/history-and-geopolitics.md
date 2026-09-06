@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-06
-as_of_overview_commit: d8541a0252f3173cdf81c347ad69909e6a3c8249
-input_digest: 7fad5ba32fcd9566be5a6d9a952738ad8a9b18ed51cb7584bf82b2c665c250d0
+as_of_overview_commit: 755027a4b7df17b023eb7bb682285a65365f7507
+input_digest: 31f80955ece32c16c9be61da2ceaf7f6a0c39f2e528ed2d947068b367818876a
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 1070 extends the post-Ye northern-settlement branch: Yuan Xi and Yuan Shang flee toward Wuhuan, Jiao Chu and Zhang Nan organize a coerced Youzhou surrender, Han Heng turns loyal refusal into a legitimacy signal, Zhang Yan and the Black Mountain capacity are formally absorbed, Youzhou/Wuhuan violence remains unsettled, and Gao Gan reopens the Bing-Hedong flank where Du Ji becomes the route-control appointment. Hanji 1063 still completes the Ye-siege relief branch, while Atlantis, Benjamin Lay, Roman Civil War Part 2, African Amazons, and the broader topic continue to track state formation, war origins, imperial crisis, public memory, legitimacy, infrastructure, and geopolitics as historical systems.
+The Cathay Pacific / 声东击西 aviation source adds a hub-geography and geopolitical-route layer: Hong Kong, Dubai, Atlanta, Memphis, cargo density, airport moves, and wartime airspace rerouting show city power being redistributed through aviation networks. Hanji 1070 extends the post-Ye northern-settlement branch: Yuan Xi and Yuan Shang flee toward Wuhuan, Jiao Chu and Zhang Nan organize a coerced Youzhou surrender, Han Heng turns loyal refusal into a legitimacy signal, Zhang Yan and the Black Mountain capacity are formally absorbed, Youzhou/Wuhuan violence remains unsettled, and Gao Gan reopens the Bing-Hedong flank where Du Ji becomes the route-control appointment. Hanji 1063 still completes the Ye-siege relief branch, while Atlantis, Benjamin Lay, Roman Civil War Part 2, African Amazons, and the broader topic continue to track state formation, war origins, imperial crisis, public memory, legitimacy, infrastructure, and geopolitics as historical systems.
 
 ## Cross-source Findings
 
@@ -1976,3 +1976,14 @@ The immediate Guandu setup now starts before Zhang Xiu's submission: [[zizhi-ton
 
 - The episode frames Lay as an early activist rather than a settled literal first abolitionist.
 - Barbados violence details, Franklin sympathy, Quaker discipline timing, and modern protest analogies remain source-scoped.
+
+### Aviation Hub Geography Redistributes City Power
+
+[[403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d|#403 从八十年飞行史]] adds a geopolitics-of-routes branch: [[AviationHubCityStrategy]], [[AirCargoValueDensity]], and [[GreaterBayAreaAirportCluster]] link [[HongKong]], [[Dubai]], [[Atlanta]], and [[Memphis]] to transfer hubs, cargo specialization, airport relocation, regional airport clusters, and airspace rerouting as mechanisms that redistribute city importance.
+
+**Evidence:** [[403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d]], [[AviationHubCityStrategy]], [[AirCargoValueDensity]], [[GreaterBayAreaAirportCluster]], [[HongKong]], [[Dubai]], [[Atlanta]], [[Memphis]]
+
+**Qualifications:**
+
+- The episode offers examples and analogies rather than a systematic comparative dataset for hub performance.
+- Claims about Hong Kong/Cathay advantages and Russia-Ukraine airspace effects remain source-scoped to the episode.

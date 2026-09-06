@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1925
+topic_total_pages: 1926
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -190,6 +190,9 @@ topic_concepts:
   - key: "AINativeInvestingWorkflow"
     title: "AI-Native Investing Workflow"
     url: "/wiki/concepts/ainativeinvestingworkflow/"
+  - key: "AirCargoValueDensity"
+    title: "Air Cargo Value Density / 航空货运价值密度"
+    url: "/wiki/concepts/aircargovaluedensity/"
   - key: "AlgorithmicDispersedKnowledge"
     title: "Algorithmic Dispersed Knowledge / 算法分散知识聚合"
     url: "/wiki/concepts/algorithmicdispersedknowledge/"

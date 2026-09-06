@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9013
+wiki_total_pages: 9023
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1235,6 +1235,9 @@ wiki_pages:
   - key: "ATL"
     title: "ATL / Amperex Technology Limited"
     url: "/wiki/entities/atl/"
+  - key: "Atlanta"
+    title: "Atlanta / 亚特兰大"
+    url: "/wiki/entities/atlanta/"
   - key: "AtlanticAvenueBarclaysCenter"
     title: "Atlantic Avenue-Barclays Center"
     url: "/wiki/entities/atlanticavenuebarclayscenter/"

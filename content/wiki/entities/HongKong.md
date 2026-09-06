@@ -1,36 +1,54 @@
 ---
 title: "Hong Kong / 香港"
 type: entity
-tags: [city, real-estate, finance, housing, china]
-sources: [vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046]
-last_updated: 2026-08-08
+tags: [city, real-estate, finance, housing, china, aviation]
+knowledge_schema: synthesis-v1
+sources:
+  - vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119
+  - 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1
+  - vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90
+  - no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046
+  - 403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d
+last_updated: 2026-09-06
 ---
 
 # Hong Kong / 香港
 
-Hong Kong is the housing and offline-community case in [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]]. The hosts describe holding a [[FengTouQuan]] member event there, then use Hong Kong's small homes and apparently underdeveloped land to discuss the difference between living experience and real-estate investment.
+## Overview
+Hong Kong / 香港 is a recurring city node in the wiki, appearing through housing, equity markets, overseas Chinese networks, financial history, and now aviation hub infrastructure.
 
-The source's main wiki contribution is [[HousingExperienceInvestmentSplit]]. Hong Kong makes the problem vivid because housing can be an intense lived experience while also being treated as an asset. The episode argues those two roles should be separated more carefully, especially when the investment side is illiquid, leveraged, non-standardized, and hard to divide.
+## Current Profile
+Hong Kong's current profile is a city where lived experience, capital markets, cross-border networks, and transport infrastructure overlap. Earlier sources use it as a housing-experience case, a difficult but opportunity-rich equity market, a node in Chaoshan remittance and special-zone comparisons, and a colonial financial-history setting.
 
-[[vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]] adds Hong Kong as an equity-market setting. [[DavidWeng|大卫翁]] and [[Haoge|浩哥]] describe it as a market that offers many China assets unavailable or less accessible in A-shares, while also requiring [[HongKongRetailInvestorSurvival]] because liquidity, management alignment, sell-side incentives, old-thousand stocks, and sudden forced selling are recurring hazards.
+The aviation roundtable introduces a new role: Hong Kong as an East-West aviation hub whose value comes from Cathay Pacific, cargo, long-haul routes, free-port status, institutional environment, and Greater Bay Area manufacturing connectivity. This makes Hong Kong more than a market or housing case; it is also an infrastructure gateway whose airport and airline system reshape city space and regional access.
 
-[[no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046]] adds Hong Kong as both a node in [[QiaopiRemittanceNetworks]] and the external-capital neighbor that made [[Shenzhen]] structurally different from [[ShantouSpecialEconomicZone]]. The episode uses Hong Kong proximity to explain why special-zone labels did not imply equal development conditions.
+## Key Characteristics
+- Dense lived-experience and housing case where home as consumption must be separated from home as investment.
+- Offshore China equity market with liquidity, governance, sell-side, and old-thousand risks.
+- Cross-border finance and industrial-transfer node in Chaoshan/Shenzhen special-zone comparison.
+- Colonial financial-history setting where conglomerate control, exchange fragmentation, hot money, and retail psychology interacted.
+- Aviation and cargo hub linking mainland China, East Asia, Australia, Europe, and North America through airport, airline, and free-port advantages.
 
-[[vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119]] adds a financial-history layer through the [[HongkongLandDairyFarmTakeover|置地饮牛奶]] case and the [[HongKong1973StockMarketCrash|1973年香港股灾]]. The episode uses [[HongkongLand|香港置地]], [[DairyFarmInternational|牛奶公司]], [[JardineMatheson|怡和]], the [[HangSengIndex|恒生指数]], [[FourExchangeHongKongMarketFragmentation|四会并列]], and [[HongKongDollarHotMoneyCycle|港元热钱]] to show Hong Kong as a market where colonial conglomerate control, retail participation, exchange fragmentation, and currency shifts interacted.
+## Evidence
+- Housing and lived experience: [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] uses Hong Kong's small homes and land-supply puzzle to separate lived housing experience from real-estate investment.
+- Equity-market survival: [[vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]] treats Hong Kong equities as a harsh offshore market where liquidity, management alignment, old-thousand stocks, and forced selling shape ordinary-investor risk.
+- Diaspora and special-zone comparison: [[no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046]] places Hong Kong in qiaopi finance and explains why Shenzhen's adjacency to Hong Kong differed from Shantou's overseas-Chinese orientation.
+- Financial-history structure: [[vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119]] uses the Hongkong Land-Dairy Farm takeover and 1973 stock-market crash to connect colonial conglomerate control, retail shareholders, exchange fragmentation, and hot money.
+- Aviation hub role: [[403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d]] presents Hong Kong as a cargo, transfer, free-port, and institutional hub supported by Cathay Pacific, Chek Lap Kok, and Greater Bay Area manufacturing flows.
 
-## Source Position
-- The episode says Hong Kong's housing pressure is visible in high prices and small living spaces.
-- The hosts mention a reported split where only about a quarter of land is developed, while leaving the reasons unresolved.
-- Hong Kong is compared with [[Shenzhen]] and [[Guangzhou]] to show how land supply and development possibility change housing economics.
-- Vol.104 treats Hong Kong equities as part of the broader China asset map, alongside the [[ShanghaiStockExchange|Shanghai Stock Exchange]] and Shenzhen market, but with a distinct offshore liquidity and governance risk structure.
-- Banlatte episode 205 uses Hong Kong as the nearby industrial-transfer and capital channel that Shantou lacked.
-- The same episode also places Hong Kong in overseas Chaoshan merchant networks such as the [[ChenCihong]] family route.
-- Vol.269 uses Hong Kong as a historical securities-market setting where a takeover battle helped convert company-story excitement into wider speculative pressure.
+## Qualifications
+The aviation source is a branded Cathay anniversary event, so Hong Kong's aviation advantages should be read as source-scoped rather than as a full comparison against Guangzhou, Shenzhen, Singapore, Dubai, or other hubs. The finance and housing sources likewise represent podcast analysis, not complete market or planning studies.
 
-## Connections
-- [[Shenzhen]] and [[Guangzhou]] - comparison cities in the source.
-- [[HousingExperienceInvestmentSplit]], [[AssetAllocation]], and [[InvestmentRiskManagement]] - main real-estate concepts tied to the episode.
-- [[HumanConnectionUnderAI]] - Hong Kong also appears through offline member activities.
-- [[HongKongMarketStructure]], [[HongKongStockConnect]], and [[HongKongRetailInvestorSurvival]] - finance-market context added by vol.104.
-- [[Shantou]], [[ShantouSpecialEconomicZone]], [[ChinaSpecialEconomicZoneAsymmetry]], and [[QiaopiRemittanceNetworks]] - Chaoshan comparison and diaspora-finance context.
-- [[HongKong1973StockMarketCrash]], [[HongkongLandDairyFarmTakeover]], [[FourExchangeHongKongMarketFragmentation]], and [[HongKongDollarHotMoneyCycle]] - financial-history branch added by Vol.269.
+## What Changed
+- Migrated the page to `synthesis-v1`.
+- Added Hong Kong's aviation-hub and high-value cargo role.
+- Integrated the older housing, market, diaspora, and financial-history branches into one current profile.
+
+## Relationships
+- [[CathayPacific]] - Hong Kong-based airline anchoring the aviation source.
+- [[HongKongInternationalAirport]] - airport infrastructure behind the current hub role.
+- [[KaiTakAirport]] - former airport in the city-space migration story.
+- [[GreaterBayAreaAirportCluster]] - regional airport competition and complementarity context.
+- [[HongKongMarketStructure]] - equity-market mechanism where Hong Kong appears as an offshore venue.
+- [[HousingExperienceInvestmentSplit]] - housing concept grounded partly in Hong Kong.
+- [[Shenzhen]] - comparison city for special-zone adjacency, housing, and Greater Bay Area access.

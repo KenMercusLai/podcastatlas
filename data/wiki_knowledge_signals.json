@@ -1910,6 +1910,43 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/airegulatorycapturerisk/"
     },
+    "AIResistantExperientialConsumption": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费 ｜ 疯投圈 (1) [137-1].md",
+          "key": "137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1",
+          "show": "疯投圈",
+          "title": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费",
+          "url": "/wiki/sources/137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1/"
+        },
+        {
+          "episode_file": "142. 产品体验学日本、全球营销学韩国 ｜ 疯投圈 (1) [142-1].md",
+          "key": "142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1",
+          "show": "疯投圈",
+          "title": "142. 产品体验学日本、全球营销学韩国",
+          "url": "/wiki/sources/142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1/"
+        },
+        {
+          "episode_file": "咖啡豆｜两次遭遇苹果冲击，运动手表佳明为何还能增长？ [1006272684].md",
+          "key": "kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜两次遭遇苹果冲击，运动手表佳明为何还能增长？",
+          "url": "/wiki/sources/kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684/"
+        },
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/airesistantexperientialconsumption/"
+    },
     "AISnowlineWorkBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -2936,6 +2973,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/aimatechnology/"
     },
+    "AirCargoValueDensity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/aircargovaluedensity/"
+    },
     "AirChina": {
       "episode_count": 4,
       "show_count": 2,
@@ -2974,9 +3027,9 @@
       "url": "/wiki/entities/airchina/"
     },
     "AirlineMealIndustrialization": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "难以影响购票决策的飞机餐，为何成为航司升级重点？ [1009809273].md",
@@ -2984,9 +3037,16 @@
           "show": "声动早咖啡",
           "title": "难以影响购票决策的飞机餐，为何成为航司升级重点？",
           "url": "/wiki/sources/nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273/"
+        },
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-06",
       "url": "/wiki/concepts/airlinemealindustrialization/"
     },
     "AirlineMealMonetization": {
@@ -3006,9 +3066,9 @@
       "url": "/wiki/concepts/airlinemealmonetization/"
     },
     "AirlineServiceDifferentiation": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md",
@@ -3037,10 +3097,65 @@
           "show": "声动早咖啡",
           "title": "难以影响购票决策的飞机餐，为何成为航司升级重点？",
           "url": "/wiki/sources/nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273/"
+        },
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-06",
       "url": "/wiki/concepts/airlineservicedifferentiation/"
+    },
+    "AirportApprovalAirspaceConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/airportapprovalairspaceconstraint/"
+    },
+    "AirportAsUrbanMicrocosm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/airportasurbanmicrocosm/"
+    },
+    "AirportRouteSubsidyUrbanBranding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/airportroutesubsidyurbanbranding/"
     },
     "AkronOhio": {
       "episode_count": 1,
@@ -4903,6 +5018,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/athletepostretirementidentity/"
     },
+    "Atlanta": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/atlanta/"
+    },
     "Atlantis": {
       "episode_count": 2,
       "show_count": 1,
@@ -5417,6 +5548,38 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/autonomousdrivingresponsibilityboundary/"
+    },
+    "AviationHubCityStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/aviationhubcitystrategy/"
+    },
+    "AviationInfrastructureUrbanDevelopment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/aviationinfrastructureurbandevelopment/"
     },
     "AwarenessMeditationStoryDropping": {
       "episode_count": 2,
@@ -8718,6 +8881,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/carriebatten/"
+    },
+    "CathayPacific": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/cathaypacific/"
     },
     "CatholicBurialLegitimacy": {
       "episode_count": 1,
@@ -16479,6 +16658,29 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/duanwennewspodcast/"
     },
+    "Dubai": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "vol.106.迪拜，真的遍地是黄金？ [lpXchuTXf7yOMjDfyKwZvVNmBaQ8].md",
+          "key": "vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8",
+          "show": "起朱楼宴宾客",
+          "title": "vol.106.迪拜，真的遍地是黄金？",
+          "url": "/wiki/sources/vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8/"
+        },
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/dubai/"
+    },
     "DuliaoCampEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -20601,6 +20803,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/fatherlinnortheastmission/"
+    },
+    "FedEx": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260723_0723_MP_TECH_pod_128 [tech_20260723_0723_MP_TECH_pod_128].md",
+          "key": "tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "A modern-day odyssey through AI chatbot hellscape",
+          "url": "/wiki/sources/tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/fedex/"
     },
     "FederalBureauOfInvestigation": {
       "episode_count": 1,
@@ -25827,6 +26052,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/grahamhancock/"
     },
+    "GreaterBayAreaAirportCluster": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/greaterbayareaairportcluster/"
+    },
     "Grokbot": {
       "episode_count": 2,
       "show_count": 1,
@@ -28224,6 +28465,50 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/honeycrisp/"
     },
+    "HongKong": {
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "Vol.269 小历史 ｜ “不要怕，是技术性调整” [1004793119].md",
+          "key": "vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119",
+          "show": "商业就是这样",
+          "title": "Vol.269 小历史 | “不要怕，是技术性调整”",
+          "url": "/wiki/sources/vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119/"
+        },
+        {
+          "episode_file": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费 ｜ 疯投圈 (1) [137-1].md",
+          "key": "137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1",
+          "show": "疯投圈",
+          "title": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费",
+          "url": "/wiki/sources/137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1/"
+        },
+        {
+          "episode_file": "vol.104.普通人港股完全生存指南 ｜ 串台三点下班 [lmzivGi6D3gUV7WAJYjw9Cv9ZZ90].md",
+          "key": "vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90",
+          "show": "起朱楼宴宾客",
+          "title": "vol.104.普通人港股完全生存指南 | 串台三点下班",
+          "url": "/wiki/sources/vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90/"
+        },
+        {
+          "episode_file": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹 [989721046].md",
+          "key": "no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹",
+          "url": "/wiki/sources/no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046/"
+        },
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/hongkong/"
+    },
     "HongKongAnimalSolidarity": {
       "episode_count": 1,
       "show_count": 1,
@@ -28239,6 +28524,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/hongkonganimalsolidarity/"
+    },
+    "HongKongInternationalAirport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/hongkonginternationalairport/"
     },
     "HongKongSPCA": {
       "episode_count": 1,
@@ -31120,6 +31421,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/intermediaryroutegatekeeping/"
     },
+    "InternationalAirTransportAssociation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/internationalairtransportassociation/"
+    },
     "InterpersonalImageProjection": {
       "episode_count": 1,
       "show_count": 1,
@@ -32037,6 +32354,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/jerusalemhymn/"
+    },
+    "JetLagJetAgeEmbodiment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/jetlagjetageembodiment/"
     },
     "JiTongEasternHan": {
       "episode_count": 3,
@@ -33217,6 +33550,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/kfc/"
+    },
+    "KaiTakAirport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/kaitakairport/"
     },
     "Kailas": {
       "episode_count": 1,
@@ -38411,6 +38760,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/longtermachievementdiscipline/"
     },
+    "LonghuaAirport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/longhuaairport/"
+    },
     "LostCivilizationPseudohistory": {
       "episode_count": 2,
       "show_count": 1,
@@ -40141,6 +40506,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/maxianlatehan/"
     },
+    "MaXiaoPekingUniversity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/maxiaopekinguniversity/"
+    },
     "MaXuLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -41239,6 +41620,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/memorycontaminationrisk/"
+    },
+    "Memphis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/memphis/"
     },
     "MengMinLateHan": {
       "episode_count": 1,
@@ -46621,6 +47018,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/partyprohibitionkinshipexpansion/"
+    },
+    "PassengerAviationExperienceRadius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/passengeraviationexperienceradius/"
     },
     "PassionDiscoveryThroughEngagement": {
       "episode_count": 1,
@@ -54831,6 +55244,36 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/shendiqiang/"
     },
+    "ShengdongJixi": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24 [a3884ade-4669-4d5c-ab2e-f98aa580f429].md",
+          "key": "jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429",
+          "show": "What's Next｜科技早知道",
+          "title": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24",
+          "url": "/wiki/sources/jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429/"
+        },
+        {
+          "episode_file": "Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维-来自小白、创业者和工程师不同视角的讨论 (1) [6642-1].md",
+          "key": "vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1",
+          "show": "枫言枫语",
+          "title": "Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维",
+          "url": "/wiki/sources/vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1/"
+        },
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/shengdongjixi/"
+    },
     "ShentuGangEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -58556,6 +58999,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/sweeteneruncertainty/"
+    },
+    "SwireGroup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/swiregroup/"
     },
     "SylviaBeach": {
       "episode_count": 1,
@@ -66436,6 +66895,43 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/xutalatehan/"
     },
+    "XuTao": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "Trailer ｜叮！下周一早晨，来杯「声动早咖啡」吧！ [431629439].md",
+          "key": "trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439",
+          "show": "声动早咖啡",
+          "title": "Trailer ｜叮！下周一早晨，来杯「声动早咖啡」吧！",
+          "url": "/wiki/sources/trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439/"
+        },
+        {
+          "episode_file": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24 [a3884ade-4669-4d5c-ab2e-f98aa580f429].md",
+          "key": "jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429",
+          "show": "What's Next｜科技早知道",
+          "title": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24",
+          "url": "/wiki/sources/jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429/"
+        },
+        {
+          "episode_file": "Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维-来自小白、创业者和工程师不同视角的讨论 (1) [6642-1].md",
+          "key": "vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1",
+          "show": "枫言枫语",
+          "title": "Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维",
+          "url": "/wiki/sources/vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1/"
+        },
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/xutao/"
+    },
     "XuXuanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -69427,6 +69923,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhangjianlatehan/"
+    },
+    "ZhangJinZhihu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
+          "key": "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d",
+          "show": "声东击西",
+          "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+          "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/zhangjinzhihu/"
     },
     "ZhangJunAnEraLateHan": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9013
+wiki_total_pages: 9023
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -272,6 +272,9 @@ wiki_pages:
   - key: "CathalGoulding"
     title: "Cathal Goulding"
     url: "/wiki/entities/cathalgoulding/"
+  - key: "CathayPacific"
+    title: "Cathay Pacific / 国泰航空"
+    url: "/wiki/entities/cathaypacific/"
   - key: "CatherineJulesAndJim"
     title: "Catherine / 凯瑟琳"
     url: "/wiki/entities/catherinejulesandjim/"
