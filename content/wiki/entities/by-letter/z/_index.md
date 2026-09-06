@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9028
+wiki_total_pages: 9044
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -161,6 +161,12 @@ wiki_pages:
   - key: "ZhouyiCantongqi"
     title: "Zhouyi Cantongqi / 《周易参同契》"
     url: "/wiki/entities/zhouyicantongqi/"
+  - key: "ZhuXiaodongYunsheng"
+    title: "Zhu Xiaodong / 竺晓冬 (Yunsheng)"
+    url: "/wiki/entities/zhuxiaodongyunsheng/"
+  - key: "ZhuYunde"
+    title: "Zhu Yunde / 竺韵德"
+    url: "/wiki/entities/zhuyunde/"
   - key: "ZhuangChenchao"
     title: "Zhuang Chenchao"
     url: "/wiki/entities/zhuangchenchao/"

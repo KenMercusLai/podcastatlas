@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6447
+wiki_total_pages: 6456
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1676,6 +1676,9 @@ wiki_pages:
   - key: "AppStoreRatingsAndReviews"
     title: "App Store Ratings And Reviews"
     url: "/wiki/concepts/appstoreratingsandreviews/"
+  - key: "ApparelOEMVerticalIntegration"
+    title: "Apparel OEM Vertical Integration / 服装代工纵向一体化"
+    url: "/wiki/concepts/appareloemverticalintegration/"
   - key: "AppealToIgnorance"
     title: "Appeal To Ignorance"
     url: "/wiki/concepts/appealtoignorance/"

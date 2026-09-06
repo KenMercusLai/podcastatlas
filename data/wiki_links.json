@@ -2699,6 +2699,10 @@
     "title": "AT&T",
     "url": "/wiki/entities/att/"
   },
+  "AUXGroup": {
+    "title": "AUX Group / 奥克斯",
+    "url": "/wiki/entities/auxgroup/"
+  },
   "AVRide": {
     "title": "AV Ride",
     "url": "/wiki/entities/avride/"
@@ -5259,6 +5263,10 @@
     "title": "AppSumo Lifetime Deal Tradeoff",
     "url": "/wiki/concepts/appsumolifetimedealtradeoff/"
   },
+  "ApparelOEMVerticalIntegration": {
+    "title": "Apparel OEM Vertical Integration / 服装代工纵向一体化",
+    "url": "/wiki/concepts/appareloemverticalintegration/"
+  },
   "AppealToIgnorance": {
     "title": "Appeal To Ignorance",
     "url": "/wiki/concepts/appealtoignorance/"
@@ -7274,6 +7282,10 @@
   "BexleyNaturalMarket": {
     "title": "Bexley Natural Market",
     "url": "/wiki/entities/bexleynaturalmarket/"
+  },
+  "BeyondHomeTextile": {
+    "title": "Beyond Home Textile / 博洋家纺",
+    "url": "/wiki/entities/beyondhometextile/"
   },
   "BezalelSmotrich": {
     "title": "Bezalel Smotrich",
@@ -11579,6 +11591,10 @@
     "title": "Civilized Body Discipline / 文明身体规训",
     "url": "/wiki/concepts/civilizedbodydiscipline/"
   },
+  "CixiHomeApplianceCluster": {
+    "title": "Cixi Home Appliance Cluster / 慈溪家电产业链",
+    "url": "/wiki/concepts/cixihomeappliancecluster/"
+  },
   "CizhiShangShan": {
     "title": "《辞职上山》",
     "url": "/wiki/entities/cizhishangshan/"
@@ -15034,6 +15050,10 @@
   "DeshGarments": {
     "title": "Desh Garments",
     "url": "/wiki/entities/deshgarments/"
+  },
+  "DesignBrandManufacturingUpgrade": {
+    "title": "Design Brand Manufacturing Upgrade / 设计品牌化制造升级",
+    "url": "/wiki/concepts/designbrandmanufacturingupgrade/"
   },
   "DesignForOnePerson": {
     "title": "Design For One Person",
@@ -18938,6 +18958,10 @@
   "FangshuSystematization": {
     "title": "Fangshu Systematization / 方术系统化",
     "url": "/wiki/concepts/fangshusystematization/"
+  },
+  "FangtaiGroup": {
+    "title": "Fangtai / 方太",
+    "url": "/wiki/entities/fangtaigroup/"
   },
   "FangxuehouDeXiaoxiang": {
     "title": "《放学后的小巷》",
@@ -33231,6 +33255,10 @@
     "title": "Localized Innovation Advantage",
     "url": "/wiki/concepts/localizedinnovationadvantage/"
   },
+  "LocalizedProductDefinition": {
+    "title": "Localized Product Definition / 本土场景产品定义",
+    "url": "/wiki/concepts/localizedproductdefinition/"
+  },
   "LocardsExchangePrinciple": {
     "title": "Locard's Exchange Principle",
     "url": "/wiki/concepts/locardsexchangeprinciple/"
@@ -34219,6 +34247,10 @@
     "title": "MVP Investment Framework / 宏观-估值-政策框架",
     "url": "/wiki/concepts/mvpinvestmentframework/"
   },
+  "MaBaoxing": {
+    "title": "Ma Baoxing / 马宝兴",
+    "url": "/wiki/entities/mabaoxing/"
+  },
   "MaChengEasternHan": {
     "title": "马成 / Ma Cheng (Eastern Han)",
     "url": "/wiki/entities/machengeasternhan/"
@@ -34238,6 +34270,10 @@
   "MaHaoning": {
     "title": "马浩宁 / Ma Haoning",
     "url": "/wiki/entities/mahaoning/"
+  },
+  "MaJianrong": {
+    "title": "Ma Jianrong / 马建荣",
+    "url": "/wiki/entities/majianrong/"
   },
   "MaLiaoEasternHan": {
     "title": "马廖 / Ma Liao (Eastern Han)",
@@ -34751,6 +34787,10 @@
     "title": "Manufacturing Sales Shift / 制造业销售重心转移",
     "url": "/wiki/concepts/manufacturingsalesshift/"
   },
+  "ManufacturingSingleChampion": {
+    "title": "Manufacturing Single Champion / 制造业单项冠军",
+    "url": "/wiki/concepts/manufacturingsinglechampion/"
+  },
   "ManufacturingWorkforcePipeline": {
     "title": "Manufacturing Workforce Pipeline",
     "url": "/wiki/concepts/manufacturingworkforcepipeline/"
@@ -34791,6 +34831,10 @@
     "title": "毛玠 / Mao Jie",
     "url": "/wiki/entities/maojie/"
   },
+  "MaoLixiang": {
+    "title": "Mao Lixiang / 毛李翔",
+    "url": "/wiki/entities/maolixiang/"
+  },
   "MaoQinLateHan": {
     "title": "毛钦 / Mao Qin (late Han)",
     "url": "/wiki/entities/maoqinlatehan/"
@@ -34814,6 +34858,10 @@
   "MaoYiEasternHan": {
     "title": "毛毅 / Mao Yi (Eastern Han)",
     "url": "/wiki/entities/maoyieasternhan/"
+  },
+  "MaoZhongqun": {
+    "title": "Mao Zhongqun / 毛中群",
+    "url": "/wiki/entities/maozhongqun/"
   },
   "MaocaoYuanxingzhe": {
     "title": "猫草 / Maocao",
@@ -36418,6 +36466,10 @@
   "MideaGroup": {
     "title": "Midea Group",
     "url": "/wiki/entities/mideagroup/"
+  },
+  "Mideer": {
+    "title": "Mideer / 迷鹿",
+    "url": "/wiki/entities/mideer/"
   },
   "Midjourney": {
     "title": "Midjourney",
@@ -38754,6 +38806,30 @@
   "Ninety": {
     "title": "Ninety",
     "url": "/wiki/entities/ninety/"
+  },
+  "Ningbo": {
+    "title": "Ningbo / 宁波",
+    "url": "/wiki/entities/ningbo/"
+  },
+  "NingboBoardGameSupplyChain": {
+    "title": "Ningbo Board Game Supply Chain / 宁波桌游供应链",
+    "url": "/wiki/concepts/ningboboardgamesupplychain/"
+  },
+  "NingboFashionCreativeCenter": {
+    "title": "Ningbo Fashion Creative Center / NFCC 宁波时尚创意中心",
+    "url": "/wiki/entities/ningbofashioncreativecenter/"
+  },
+  "NingboManufacturingDepth": {
+    "title": "Ningbo Manufacturing Depth / 一米宽，万米深",
+    "url": "/wiki/concepts/ningbomanufacturingdepth/"
+  },
+  "NingboYunsheng": {
+    "title": "Ningbo Yunsheng / 宁波韵生",
+    "url": "/wiki/entities/ningboyunsheng/"
+  },
+  "NingboZhoushanPort": {
+    "title": "Ningbo Zhoushan Port / 宁波舟山港",
+    "url": "/wiki/entities/ningbozhoushanport/"
   },
   "NingenDock": {
     "title": "Ningen Dock / 人间 Dock",
@@ -42507,6 +42583,10 @@
     "title": "Port Chibatao",
     "url": "/wiki/entities/portchibatao/"
   },
+  "PortEnabledManufacturingCity": {
+    "title": "Port Enabled Manufacturing City / 港口型制造城市",
+    "url": "/wiki/concepts/portenabledmanufacturingcity/"
+  },
   "PortOfBaltimore": {
     "title": "Port of Baltimore",
     "url": "/wiki/entities/portofbaltimore/"
@@ -44311,6 +44391,10 @@
     "title": "秦穆公 / Duke Mu of Qin",
     "url": "/wiki/entities/qinmugong/"
   },
+  "QinQiangfeng": {
+    "title": "Qin Qiangfeng / 秦强峰",
+    "url": "/wiki/entities/qinqiangfeng/"
+  },
   "QinShiHuang": {
     "title": "Qin Shi Huang / 秦始皇",
     "url": "/wiki/entities/qinshihuang/"
@@ -44938,6 +45022,10 @@
   "RareEarthExportLeverage": {
     "title": "Rare Earth Export Leverage",
     "url": "/wiki/concepts/rareearthexportleverage/"
+  },
+  "RareEarthPermanentMagnetManufacturing": {
+    "title": "Rare Earth Permanent Magnet Manufacturing / 稀土永磁材料制造",
+    "url": "/wiki/concepts/rareearthpermanentmagnetmanufacturing/"
   },
   "RareEarthProcessingBottleneck": {
     "title": "Rare Earth Processing Bottleneck",
@@ -46698,6 +46786,10 @@
   "RonaldReagan": {
     "title": "Ronald Reagan / 罗纳德·里根",
     "url": "/wiki/entities/ronaldreagan/"
+  },
+  "RongJunchuan": {
+    "title": "Rong Junchuan / 容俊川",
+    "url": "/wiki/entities/rongjunchuan/"
   },
   "RongzhongGroup": {
     "title": "Rongzhong Group / 荣众集团",
@@ -62923,6 +63015,10 @@
     "title": "朱晓东 / Zhu Xiaodong",
     "url": "/wiki/entities/zhuxiaodongsportsrights/"
   },
+  "ZhuXiaodongYunsheng": {
+    "title": "Zhu Xiaodong / 竺晓冬 (Yunsheng)",
+    "url": "/wiki/entities/zhuxiaodongyunsheng/"
+  },
   "ZhuYingWarringStates": {
     "title": "朱英 / Zhu Ying (Warring States)",
     "url": "/wiki/entities/zhuyingwarringstates/"
@@ -62930,6 +63026,10 @@
   "ZhuYuLateHan": {
     "title": "朱瑀 / Zhu Yu (late Han)",
     "url": "/wiki/entities/zhuyulatehan/"
+  },
+  "ZhuYunde": {
+    "title": "Zhu Yunde / 竺韵德",
+    "url": "/wiki/entities/zhuyunde/"
   },
   "ZhuZhenLateHan": {
     "title": "朱震 / Zhu Zhen (late Han)",
@@ -65002,6 +65102,10 @@
   "no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437": {
     "title": "No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27",
     "url": "/wiki/sources/no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437/"
+  },
+  "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666": {
+    "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+    "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
   },
   "older-workers-arent-retiring-should-they-be-forced-to": {
     "title": "Older workers aren't retiring. Should they be forced to?",

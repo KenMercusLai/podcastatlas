@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 9028
+wiki_total_pages: 9044
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "QilinRansomwareGroup"
     title: "Qilin Ransomware Group"
     url: "/wiki/entities/qilinransomwaregroup/"
+  - key: "QinQiangfeng"
+    title: "Qin Qiangfeng / 秦强峰"
+    url: "/wiki/entities/qinqiangfeng/"
   - key: "QinShiHuang"
     title: "Qin Shi Huang / 秦始皇"
     url: "/wiki/entities/qinshihuang/"

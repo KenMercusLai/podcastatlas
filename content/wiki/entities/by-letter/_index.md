@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9028
+wiki_total_pages: 9044
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1313,6 +1313,9 @@ wiki_pages:
   - key: "AutoNavi"
     title: "AutoNavi / Gaode"
     url: "/wiki/entities/autonavi/"
+  - key: "AUXGroup"
+    title: "AUX Group / 奥克斯"
+    url: "/wiki/entities/auxgroup/"
   - key: "AVRide"
     title: "AV Ride"
     url: "/wiki/entities/avride/"

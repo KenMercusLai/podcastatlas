@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6447
+wiki_total_pages: 6456
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "LocalizedInnovationAdvantage"
     title: "Localized Innovation Advantage"
     url: "/wiki/concepts/localizedinnovationadvantage/"
+  - key: "LocalizedProductDefinition"
+    title: "Localized Product Definition / 本土场景产品定义"
+    url: "/wiki/concepts/localizedproductdefinition/"
   - key: "LocardsExchangePrinciple"
     title: "Locard's Exchange Principle"
     url: "/wiki/concepts/locardsexchangeprinciple/"

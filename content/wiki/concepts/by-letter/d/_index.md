@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6447
+wiki_total_pages: 6456
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "DerivativeAmplifiedVolatility"
     title: "Derivative Amplified Volatility"
     url: "/wiki/concepts/derivativeamplifiedvolatility/"
+  - key: "DesignBrandManufacturingUpgrade"
+    title: "Design Brand Manufacturing Upgrade / 设计品牌化制造升级"
+    url: "/wiki/concepts/designbrandmanufacturingupgrade/"
   - key: "DesignForOnePerson"
     title: "Design For One Person"
     url: "/wiki/concepts/designforoneperson/"

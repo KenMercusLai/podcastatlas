@@ -2101,6 +2101,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/ashareauctionpricing/"
     },
+    "AUXGroup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/auxgroup/"
+    },
     "AaronBraun": {
       "episode_count": 2,
       "show_count": 1,
@@ -4537,6 +4553,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/apobparticleburden/"
     },
+    "ApparelOEMVerticalIntegration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/appareloemverticalintegration/"
+    },
     "AppleMusic": {
       "episode_count": 1,
       "show_count": 1,
@@ -6600,6 +6632,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/bexleynaturalmarket/"
+    },
+    "BeyondHomeTextile": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/beyondhometextile/"
     },
     "BianHongLateHan": {
       "episode_count": 1,
@@ -10402,6 +10450,29 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/chinesebeautykoreamarketentry/"
     },
+    "ChineseFamilyBusinessSuccession": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？ [likvzmPGwXneTPaeZxCLsX4s_HkW].md",
+          "key": "ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw",
+          "show": "Talk三联",
+          "title": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？",
+          "url": "/wiki/sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw/"
+        },
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/chinesefamilybusinesssuccession/"
+    },
     "ChineseInternetEntryPointCompetition": {
       "episode_count": 1,
       "show_count": 1,
@@ -10861,6 +10932,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/civillibertiessurveillancerisk/"
+    },
+    "CixiHomeApplianceCluster": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/cixihomeappliancecluster/"
     },
     "ClassicalExaminationOrthodoxy": {
       "episode_count": 1,
@@ -14791,6 +14878,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/derry/"
+    },
+    "DesignBrandManufacturingUpgrade": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/designbrandmanufacturingupgrade/"
     },
     "DesirableDifficulty": {
       "episode_count": 5,
@@ -20741,6 +20844,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/fangzhilatehan/"
+    },
+    "FangtaiGroup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/fangtaigroup/"
     },
     "FarRightNormalization": {
       "episode_count": 3,
@@ -38748,6 +38867,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/localprivateai/"
     },
+    "LocalizedProductDefinition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/localizedproductdefinition/"
+    },
     "LongBogaoEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -40121,6 +40256,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/mpwrai/"
     },
+    "MaBaoxing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/mabaoxing/"
+    },
     "MaChengEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -40247,6 +40398,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/mahaoning/"
+    },
+    "MaJianrong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/majianrong/"
     },
     "MaLiaoEasternHan": {
       "episode_count": 5,
@@ -40968,6 +41135,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/maniusaquillius/"
     },
+    "ManufacturingSingleChampion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/manufacturingsinglechampion/"
+    },
     "MaoChunjie": {
       "episode_count": 1,
       "show_count": 1,
@@ -40983,6 +41166,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/maochunjie/"
+    },
+    "MaoLixiang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/maolixiang/"
     },
     "MaoQinLateHan": {
       "episode_count": 1,
@@ -41031,6 +41230,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/maoyieasternhan/"
+    },
+    "MaoZhongqun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/maozhongqun/"
     },
     "MarcusLiviusDrusus": {
       "episode_count": 1,
@@ -42363,6 +42578,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/midmarketdatatalentgap/"
+    },
+    "Mideer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/mideer/"
     },
     "MidtermBacklashForecasting": {
       "episode_count": 1,
@@ -44408,6 +44639,102 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/ninebot/"
+    },
+    "Ningbo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/ningbo/"
+    },
+    "NingboBoardGameSupplyChain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/ningboboardgamesupplychain/"
+    },
+    "NingboFashionCreativeCenter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/ningbofashioncreativecenter/"
+    },
+    "NingboManufacturingDepth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/ningbomanufacturingdepth/"
+    },
+    "NingboYunsheng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/ningboyunsheng/"
+    },
+    "NingboZhoushanPort": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/ningbozhoushanport/"
     },
     "NittanWuyu": {
       "episode_count": 1,
@@ -48505,6 +48832,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/populistdemocraticenergy/"
     },
+    "PortEnabledManufacturingCity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/portenabledmanufacturingcity/"
+    },
     "Poseidon": {
       "episode_count": 1,
       "show_count": 1,
@@ -50531,6 +50874,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/qingonglatehan/"
     },
+    "QinQiangfeng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/qinqiangfeng/"
+    },
     "QinSi": {
       "episode_count": 2,
       "show_count": 1,
@@ -51058,6 +51417,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/ranksaledisasterfinance/"
+    },
+    "RareEarthPermanentMagnetManufacturing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/concepts/rareearthpermanentmagnetmanufacturing/"
     },
     "RayBanSmartGlasses": {
       "episode_count": 5,
@@ -53253,6 +53628,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/romanceofthethreekingdoms/"
+    },
+    "RongJunchuan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/rongjunchuan/"
     },
     "RootCausePacification": {
       "episode_count": 9,
@@ -55493,6 +55884,36 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/shenzhenpeoplehospital/"
+    },
+    "ShenzhouInternational": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP271 探访“柔性制造”工厂：是谁让你“想要就能买到”？ [lqYrioPtGgnBb8hl_Llej0_5OW0V].md",
+          "key": "ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v",
+          "show": "Talk三联",
+          "title": "EP271 探访“柔性制造”工厂：是谁让你“想要就能买到”？",
+          "url": "/wiki/sources/ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v/"
+        },
+        {
+          "episode_file": "165.年报季中的真实中国2026 [lpredEVU_gAKn92dwutMuLYtMsLo].md",
+          "key": "165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo",
+          "show": "起朱楼宴宾客",
+          "title": "165.年报季中的真实中国2026",
+          "url": "/wiki/sources/165-nianbaoji-zhong-de-zhenshi-zhongguo-2026-lpredevu-gakn92dwutmulytmslo/"
+        },
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/shenzhouinternational/"
     },
     "ShequanLateHan": {
       "episode_count": 1,
@@ -72312,6 +72733,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/zhuweieasternhan/"
     },
+    "ZhuXiaodongYunsheng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/zhuxiaodongyunsheng/"
+    },
     "ZhuYuLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -72341,6 +72778,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhuyulatehan/"
+    },
+    "ZhuYunde": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头 [1010906666].md",
+          "key": "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+          "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        }
+      ],
+      "updated": "2026-09-06",
+      "url": "/wiki/entities/zhuyunde/"
     },
     "ZhuZhenLateHan": {
       "episode_count": 1,

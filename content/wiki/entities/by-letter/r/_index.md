@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 9028
+wiki_total_pages: 9044
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "RonaldReagan"
     title: "Ronald Reagan / 罗纳德·里根"
     url: "/wiki/entities/ronaldreagan/"
+  - key: "RongJunchuan"
+    title: "Rong Junchuan / 容俊川"
+    url: "/wiki/entities/rongjunchuan/"
   - key: "RongzhongGroup"
     title: "Rongzhong Group / 荣众集团"
     url: "/wiki/entities/rongzhonggroup/"

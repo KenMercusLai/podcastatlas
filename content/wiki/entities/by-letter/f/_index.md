@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9028
+wiki_total_pages: 9044
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "FanMin"
     title: "Fan Min"
     url: "/wiki/entities/fanmin/"
+  - key: "FangtaiGroup"
+    title: "Fangtai / 方太"
+    url: "/wiki/entities/fangtaigroup/"
   - key: "FangyuanCapital"
     title: "Fangyuan Capital / 方圆资本"
     url: "/wiki/entities/fangyuancapital/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6447
+wiki_total_pages: 6456
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -161,6 +161,9 @@ wiki_pages:
   - key: "ManufacturingSalesShift"
     title: "Manufacturing Sales Shift / 制造业销售重心转移"
     url: "/wiki/concepts/manufacturingsalesshift/"
+  - key: "ManufacturingSingleChampion"
+    title: "Manufacturing Single Champion / 制造业单项冠军"
+    url: "/wiki/concepts/manufacturingsinglechampion/"
   - key: "ManufacturingWorkforcePipeline"
     title: "Manufacturing Workforce Pipeline"
     url: "/wiki/concepts/manufacturingworkforcepipeline/"

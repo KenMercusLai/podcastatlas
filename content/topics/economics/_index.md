@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1928
+topic_total_pages: 1930
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -2068,6 +2068,9 @@ topic_concepts:
   - key: "PonziScheme"
     title: "Ponzi Scheme"
     url: "/wiki/concepts/ponzischeme/"
+  - key: "PortEnabledManufacturingCity"
+    title: "Port Enabled Manufacturing City / 港口型制造城市"
+    url: "/wiki/concepts/portenabledmanufacturingcity/"
   - key: "PortfolioSuitability"
     title: "Portfolio Suitability"
     url: "/wiki/concepts/portfoliosuitability/"
@@ -4085,6 +4088,9 @@ topic_entities:
   - key: "Nigeria"
     title: "Nigeria"
     url: "/wiki/entities/nigeria/"
+  - key: "NingboZhoushanPort"
+    title: "Ningbo Zhoushan Port / 宁波舟山港"
+    url: "/wiki/entities/ningbozhoushanport/"
   - key: "Nishire"
     title: "Nishire"
     url: "/wiki/entities/nishire/"

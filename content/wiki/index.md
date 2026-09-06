@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头](sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666.md) — 半拿铁 episode on Ningbo manufacturing depth through Fangtai, Shenzhou, Yunsheng, Mideer, Boyang, single champions, family succession, and port-enabled industrial clusters.
 - [对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！](sources/dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop.md) — 十字路口Crossing interview with Ren Lifeng on Douyin product judgment, Shumei Wanwu, AI 3D manufacturing pipelines, production-grade 3D output, Maker OS ambition, and why foundation models may not absorb physical-production workflows.
 - [#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西](sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d.md) — 声东击西 live roundtable with Cathay Pacific, Ma Xiao, and Zhang Jin on aviation as infrastructure for cities, cargo, geopolitics, Hong Kong, the Greater Bay Area, and passenger life radius.
 - [498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师](sources/498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be.md) — 忽左忽右 episode with 吴飞鹏 on French architect 赉安/赖安, Shanghai French Concession architecture, Art Deco, Hengfu memory, archival attribution, and the multicultural reality behind old Shanghai.
@@ -1943,6 +1944,22 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Ningbo / 宁波](entities/Ningbo.md) — Port-enabled Chinese manufacturing city used by episode 217 to connect industrial breadth, hidden champions, private firms, design upgrade, and export learning.
+- [Fangtai / 方太](entities/FangtaiGroup.md) — Ningbo home-appliance company showing succession-led movement from lighter exports into localized range-hood product definition, brand, channel, and service.
+- [Mao Lixiang / 毛李翔](entities/MaoLixiang.md) — First-generation Ningbo entrepreneur behind the lighter-to-Fangtai transition and later private-firm successor education.
+- [Mao Zhongqun / 毛中群](entities/MaoZhongqun.md) — Fangtai successor-founder who rejected the inherited lighter business and built range hoods around Chinese kitchen needs.
+- [AUX Group / 奥克斯](entities/AUXGroup.md) — Ningbo appliance comparison case representing scale, cost control, and channel efficiency inside the Cixi appliance cluster.
+- [Ningbo Yunsheng / 宁波韵生](entities/NingboYunsheng.md) — Precision manufacturer moving from music-box movements into sintered NdFeB rare-earth permanent magnets.
+- [Zhu Yunde / 竺韵德](entities/ZhuYunde.md) — Yunsheng founder who built domestic music-box movement capability and chose autonomous rare-earth magnet R&D.
+- [Zhu Xiaodong / 竺晓冬 (Yunsheng)](entities/ZhuXiaodongYunsheng.md) — Disambiguated Yunsheng successor whose handoff progressed from company entry to board, general manager, and chairmanship.
+- [Ma Baoxing / 马宝兴](entities/MaBaoxing.md) — Early Shenzhou technical and organizational figure who brought textile experience, training, and quality discipline into Ningbo.
+- [Ma Jianrong / 马建荣](entities/MaJianrong.md) — Shenzhou successor-operator tied to environmental investment, Uniqlo delivery, vertical integration, and global customer trust.
+- [Mideer / 迷鹿](entities/Mideer.md) — Ningbo children's toy and puzzle brand using illustration, safety, packaging, and overseas channels to turn manufacturing into design-led products.
+- [Qin Qiangfeng / 秦强峰](entities/QinQiangfeng.md) — Mideer founder figure connecting children's spaces, product standardization, art, international packaging, and retail channels.
+- [Beyond Home Textile / 博洋家纺](entities/BeyondHomeTextile.md) — Ningbo home-textile company linking old textile manufacturing, domestic category creation, and creative-space renewal.
+- [Rong Junchuan / 容俊川](entities/RongJunchuan.md) — Boyang chairman voice for Ningbo's aspiration to grow a modern fashion industry from city-center manufacturing resources.
+- [Ningbo Fashion Creative Center / NFCC 宁波时尚创意中心](entities/NingboFashionCreativeCenter.md) — Creative-space node connecting Boyang's old factory resources with design, fashion, entrepreneurs, and young talent.
+- [Ningbo Zhoushan Port / 宁波舟山港](entities/NingboZhoushanPort.md) — Logistics and foreign-trade infrastructure behind Ningbo's port-enabled manufacturing city profile.
 - [任立峰 / 卷卷](entities/RenLifeng.md) — Shumei Wanwu founder and CEO, former ByteDance executive, and early Douyin product lead explaining AI 3D manufacturing and founder judgment.
 - [树美万物 / Shumei Wanwu](entities/ShumeiWanwu.md) — AI 3D company building model, workflow, and physical manufacturing products such as Hi3D and Zaohaowu.
 - [Hi3D](entities/Hi3D.md) — Shumei Wanwu product for AI 3D generation, model preparation, production parameters, and manufacturing workflow integration.
@@ -6313,7 +6330,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Amy / 投资ABC](entities/AmyInvestmentABC.md) — 投资ABC speaker keeping episode 166 anchored in ordinary-investor questions about goals, costs, emotions, and asset allocation.
 - [陈博士 / 投资ABC](entities/ChenDoctorInvestmentABC.md) — 投资ABC speaker explaining short-term market-counterparty logic, institutional data teams, and cost/behavior effects in episode 166.
 - [Haier Smart Home / 海尔智家](entities/HaierSmartHome.md) — Listed appliance company used by episode 165 to frame tariff, supply-chain reconfiguration, regional protection, and geopolitical pressure.
-- [Shenzhou International / 申洲国际](entities/ShenzhouInternational.md) — Textile and apparel manufacturer used by episode 165 to show exporter margin pressure and the limits of simple overseas production.
+- [Shenzhou International / 申洲国际](entities/ShenzhouInternational.md) — Ningbo textile and apparel manufacturer whose wiki profile now covers flexible manufacturing, exporter pressure, and vertically integrated OEM capability.
 - [Foxconn Industrial Internet / 工业富联](entities/FoxconnIndustrialInternet.md) — AI server manufacturer used by episode 165 as the clearest hard-AI infrastructure company case.
 - [Red Star Macalline / 美凯龙](entities/RedStarMacalline.md) — Home-furnishing mall and commercial-property company used by episode 165 to show property-chain loss amplification.
 - [黄圣淳 / Shengchun Huang](entities/HuangShengchun.md) — Media and journalism scholar whose 起朱楼 episode complicates filter-bubble panic while adding YouTube entertainment redirect, platform affordance, and algorithmic media literacy.
@@ -10975,6 +10992,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Ningbo Manufacturing Depth / 一米宽，万米深](concepts/NingboManufacturingDepth.md) — Strategy frame for Ningbo firms building defensible depth inside narrow products, processes, materials, OEM systems, or design-led goods.
+- [Manufacturing Single Champion / 制造业单项冠军](concepts/ManufacturingSingleChampion.md) — Institutional specialization label used by episode 217 to make Ningbo's hidden manufacturing leaders visible.
+- [Localized Product Definition / 本土场景产品定义](concepts/LocalizedProductDefinition.md) — Product strategy of redesigning hardware around local use conditions, illustrated by Fangtai range hoods for Chinese kitchens.
+- [Cixi Home Appliance Cluster / 慈溪家电产业链](concepts/CixiHomeApplianceCluster.md) — Local appliance manufacturing base around Cixi that supports different routes such as Fangtai's product premium and AUX's cost/channel efficiency.
+- [Apparel OEM Vertical Integration / 服装代工纵向一体化](concepts/ApparelOEMVerticalIntegration.md) — Shenzhou-style strategy of controlling textile and garment stages to deliver speed, quality, compliance, and customer coordination.
+- [Rare Earth Permanent Magnet Manufacturing / 稀土永磁材料制造](concepts/RareEarthPermanentMagnetManufacturing.md) — Process-intensive manufacturing of sintered NdFeB magnets for motors, electronics, EVs, industrial equipment, and robots.
+- [Ningbo Board Game Supply Chain / 宁波桌游供应链](concepts/NingboBoardGameSupplyChain.md) — Local board-game, puzzle, printing, molding, injection, and packaging supply base behind design-led toy products.
+- [Design Brand Manufacturing Upgrade / 设计品牌化制造升级](concepts/DesignBrandManufacturingUpgrade.md) — Move from manufacturing execution into aesthetics, category meaning, retail presentation, brand trust, and creative-city infrastructure.
+- [Port Enabled Manufacturing City / 港口型制造城市](concepts/PortEnabledManufacturingCity.md) — Regional-development pattern where port logistics and foreign-trade routines amplify manufacturing specialization and customer access.
 - [AI 3D Manufacturing Pipeline](concepts/AI3DManufacturingPipeline.md) — Workflow connecting AI-generated 3D models to manufacturable physical goods through formats, materials, devices, suppliers, and fulfillment.
 - [Production-Grade AI 3D](concepts/ProductionGradeAI3D.md) — Quality standard for generated 3D output that can move into downstream production with minimal manual repair.
 - [Maker Operating System](concepts/MakerOperatingSystem.md) — Platform ambition to coordinate creators, AI 3D generation, devices, materials, fulfillment, and monetization for physical makers.
@@ -13619,7 +13645,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Embodied Intelligence / 具身智能](concepts/EmbodiedIntelligence.md) — Body, sensing, motion, emotion, and physical feedback as parts of intelligence rather than add-ons.
 - [AI Free-Will Risk / AI自由意志风险](concepts/AIFreeWillRisk.md) — Conditional AI-alignment risk if future systems develop their own goals, meaning, and freedom to act.
 - [Factory Second Generation / 厂二代](concepts/FactorySecondGeneration.md) — EP255 concept for children of Chinese family-business founders who inherit factories, brands, operating systems, and unfinished market transitions rather than only wealth.
-- [Chinese Family Business Succession / 中国家族企业接班](concepts/ChineseFamilyBusinessSuccession.md) — EP255 frame for reform-era private firms entering a concentrated founder-to-child handoff with limited domestic multigenerational precedent.
+- [Chinese Family Business Succession / 中国家族企业接班](concepts/ChineseFamilyBusinessSuccession.md) — Synthesis of Chinese private-firm succession as authority, tacit judgment, relationships, and operating responsibility move from founders to successors.
 - [Second-Generation Business Entry Routes / 二代接班切入路径](concepts/SecondGenerationBusinessEntryRoutes.md) — EP255 framework for successors entering through new business, digital/intelligent transformation, and foreign trade or overseas expansion.
 - [Manufacturing Sales Shift / 制造业销售重心转移](concepts/ManufacturingSalesShift.md) — EP255 diagnosis that many manufacturers now compete around sales, channel, brand, attention, inventory, and consumer trust as much as production.
 - [Tacit Management Knowledge / 默会知识](concepts/TacitManagementKnowledge.md) — EP255 concept for practice-based management judgment that successors cannot learn only from formal education.

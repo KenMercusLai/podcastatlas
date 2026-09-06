@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6447
+wiki_total_pages: 6456
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -773,6 +773,9 @@ wiki_pages:
   - key: "CivilizedBodyDiscipline"
     title: "Civilized Body Discipline / 文明身体规训"
     url: "/wiki/concepts/civilizedbodydiscipline/"
+  - key: "CixiHomeApplianceCluster"
+    title: "Cixi Home Appliance Cluster / 慈溪家电产业链"
+    url: "/wiki/concepts/cixihomeappliancecluster/"
   - key: "ClaimRestraintThroughAttachment"
     title: "Claim Restraint Through Attachment / 有所归属式名位节制"
     url: "/wiki/concepts/claimrestraintthroughattachment/"

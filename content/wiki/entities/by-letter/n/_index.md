@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 9028
+wiki_total_pages: 9044
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -455,6 +455,18 @@ wiki_pages:
   - key: "Ninety"
     title: "Ninety"
     url: "/wiki/entities/ninety/"
+  - key: "Ningbo"
+    title: "Ningbo / 宁波"
+    url: "/wiki/entities/ningbo/"
+  - key: "NingboFashionCreativeCenter"
+    title: "Ningbo Fashion Creative Center / NFCC 宁波时尚创意中心"
+    url: "/wiki/entities/ningbofashioncreativecenter/"
+  - key: "NingboYunsheng"
+    title: "Ningbo Yunsheng / 宁波韵生"
+    url: "/wiki/entities/ningboyunsheng/"
+  - key: "NingboZhoushanPort"
+    title: "Ningbo Zhoushan Port / 宁波舟山港"
+    url: "/wiki/entities/ningbozhoushanport/"
   - key: "Ningji"
     title: "Ningji / 宁记"
     url: "/wiki/entities/ningji/"

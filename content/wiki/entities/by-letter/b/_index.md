@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9028
+wiki_total_pages: 9044
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "BexleyNaturalMarket"
     title: "Bexley Natural Market"
     url: "/wiki/entities/bexleynaturalmarket/"
+  - key: "BeyondHomeTextile"
+    title: "Beyond Home Textile / 博洋家纺"
+    url: "/wiki/entities/beyondhometextile/"
   - key: "BezalelSmotrich"
     title: "Bezalel Smotrich"
     url: "/wiki/entities/bezalelsmotrich/"

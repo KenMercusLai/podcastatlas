@@ -547,12 +547,13 @@
       "5ba1c7a478b342521c54a704f3662e19b3e2e992a9e88c2a01eb72bc8c596387",
       "9d36904e555be9bd3a64051aec40ec50d074a0fe33f5d94a41cd1392f151a764",
       "e708b389fe71a3c02a2029c8d623a62da243cccfc3d8dafa86d43e0b0131cc60",
-      "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03"
+      "dc5120f02d4d0d2ffd0bb8be836b85b6944a1971854ff337121f22b24697bc03",
+      "0ee3f66cbd06ecca38d41c798b94ab8c895672ce4f1af7437cfd461772ee6910"
     ],
-    "paragraph_count": 547
+    "paragraph_count": 548
   },
-  "overview_commit": "f12f540eb75fef529ca7ccffbe88075a9ad1db21",
-  "overview_digest": "478dcd78774355305f5230b872bf1b6727b699ee5b3c7a03b3c1c63ffd86c42c",
+  "overview_commit": "8f0450de685f5d685ab15bc13f1d10721cd80cb3",
+  "overview_digest": "aa3007774584e5161d3afbf0b166f58546a451c4baf05c046f3728a2809d6398",
   "paragraphs": [
     {
       "id": "f16f081698deab1f8c03274c799d0a2cdec4d918db2e50f99afa82efdff678c0",
@@ -16765,6 +16766,50 @@
         "SupiRegime",
         "zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu",
         "zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq"
+      ]
+    },
+    {
+      "id": "0ee3f66cbd06ecca38d41c798b94ab8c895672ce4f1af7437cfd461772ee6910",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666|No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头]], a [[Banlatte|半拿铁]] episode using [[Ningbo|宁波]] to explain [[NingboManufacturingDepth|一米宽，万米深]] manufacturing. It adds [[Ningbo]], [[FangtaiGroup|方太]], [[MaoLixiang|毛李翔]], [[MaoZhongqun|毛中群]], [[AUXGroup|奥克斯]], [[NingboYunsheng|宁波韵生]], [[ZhuYunde|竺韵德]], [[ZhuXiaodongYunsheng|竺晓冬]], [[MaBaoxing|马宝兴]], [[MaJianrong|马建荣]], [[Mideer|迷鹿]], [[QinQiangfeng|秦强峰]], [[BeyondHomeTextile|博洋家纺]], [[RongJunchuan|容俊川]], [[NingboFashionCreativeCenter|NFCC 宁波时尚创意中心]], [[NingboZhoushanPort|宁波舟山港]], [[ManufacturingSingleChampion]], [[LocalizedProductDefinition]], [[CixiHomeApplianceCluster]], [[ApparelOEMVerticalIntegration]], [[RareEarthPermanentMagnetManufacturing]], [[NingboBoardGameSupplyChain]], [[DesignBrandManufacturingUpgrade]], and [[PortEnabledManufacturingCity]], while extending [[ShenzhouInternational|申洲国际]] and [[ChineseFamilyBusinessSuccession|中国家族企业接班]]. Its core synthesis is that Ningbo manufacturing is a portfolio of upgrade routes: Fangtai builds localized consumer-product and brand capability, Shenzhou deepens OEM through quality and vertical integration, Yunsheng moves from precision mechanisms to magnetic materials, Mideer and Boyang add design and space, and the port plus merchant tradition connect narrow specialization to global demand. No settled contradiction is recorded; company rankings, financial figures, port statistics, market shares, and listing/application details remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 7,
+        "culture-and-media": 1,
+        "history-and-geopolitics": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AUXGroup",
+        "ApparelOEMVerticalIntegration",
+        "Banlatte",
+        "BeyondHomeTextile",
+        "ChineseFamilyBusinessSuccession",
+        "CixiHomeApplianceCluster",
+        "DesignBrandManufacturingUpgrade",
+        "FangtaiGroup",
+        "LocalizedProductDefinition",
+        "MaBaoxing",
+        "MaJianrong",
+        "ManufacturingSingleChampion",
+        "MaoLixiang",
+        "MaoZhongqun",
+        "Mideer",
+        "Ningbo",
+        "NingboBoardGameSupplyChain",
+        "NingboFashionCreativeCenter",
+        "NingboManufacturingDepth",
+        "NingboYunsheng",
+        "NingboZhoushanPort",
+        "PortEnabledManufacturingCity",
+        "QinQiangfeng",
+        "RareEarthPermanentMagnetManufacturing",
+        "RongJunchuan",
+        "ShenzhouInternational",
+        "ZhuXiaodongYunsheng",
+        "ZhuYunde",
+        "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666"
       ]
     }
   ],
