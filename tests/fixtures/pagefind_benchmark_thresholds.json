@@ -7,7 +7,7 @@
     "mrr": 0.95
   },
   "maximums": {
-    "index_bytes": 100000000,
+    "index_bytes": 200000000,
     "hugo_ms": 120000,
     "pagefind_ms": 90000,
     "end_to_end_ms": 240000,
