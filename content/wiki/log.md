@@ -15624,6 +15624,10 @@ Ingested the 2026-08-24 文化有限 episode on Lori Gottlieb's Maybe You Should
 
 Ingested the 2026-08-25 三五环 episode with Chouxiangzai on moving from CCTV documentary and commercial-video work into AI-video creation, viral internet expression, Kanye-related cultural contrast, AI short-drama workflow, client communication, and C-side attention feeding B-side services. Added source `no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81`; updated `Chouxiangzai`, `LiuFei`, `SanWuHuan`, `XinYuanYangHuDieMeng`, `AIDirectorCoreWorkflow`, `ExpertiseAmplifiedAIUse`, `AICreativeCollaboration`, `index`, and `overview`. No settled contradiction found; 抽象仔/抽象宅 naming, client/resource names, viral figures, project timing, and ROI observations remain source-scoped.
 
+## [2026-09-07] ingest | 与段志强谈崇明乡野博物志：《我住长江尾》
+
+Ingested the 2026-08-18 博物志 episode with Duan Zhiqiang on farming in Chongming, rural neighbor order, weather, childhood agricultural memory, 《我住长江尾》, anti-thesis writing, and practice-based reading of agricultural texts. Added source `yu-duan-zhiqiang-tan-chongming-xiangye-bowuzhi-wo-zhu-changjiang-wei-8212963740-775078`; created `DuanZhiqiang`, `WoZhuChangjiangWei`, `BowuzhiPodcast`, `Chongming`, `AmateurFarmingVsLivelihoodAgriculture`, `RuralCircularUseEconomy`, `AgriculturalPracticeAsTextualEntry`, `AntiThesisWriting`, and `RuralBoundaryAndNeighborOrder`; updated `index` and `overview`. No settled contradiction found; crop outcomes, village anecdotes, edible jingjie history, AI proofreading, signed-copy counts, and the book's future documentary value remain source-scoped.
+
 ## [2026-09-07] ingest | EP384-普通人也能打得起的“司美格鲁肽”，减肥针“一针瘦十斤”背后的真相与代
 
 Ingested the 2026-08-25 无时差研究所 episode with Guo Haotian on GLP-1 weight-loss drugs, semaglutide, tirzepatide, personal response variation, side effects, rebound, muscle preservation, pregnancy caution, pricing, patents, China pipelines, and research-use peptide risk. Added source `ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy`; created `GuoHaotian`; updated `WushichaYanjiusuo`, `GLP1Agonists`, `LifestyleWeightManagement`, `MuscleAsLongevityInfrastructure`, `GrayMarketPeptides`, `index`, and `overview`. No settled contradiction found; atypical hunger response, exact clinical trial figures, pregnancy and thyroid concerns, pricing, patent timing, drug pipelines, and stock-market interpretations remain source-scoped public medical-literacy and industry commentary.
@@ -15699,6 +15703,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？
 
 Ingested the 2026-08-18 无时差研究所 episode using 王妈妈's South Africa trip to connect travel safety, Johannesburg, Soweto, Constitution Hill, the Apartheid Museum, Robben Island, Kruger Safari, Cape Town, Mandela memory, and post-apartheid structural inequality. Added source `ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk`; created `Johannesburg`, `Soweto`, `ConstitutionHillJohannesburg`, `ApartheidMuseumJohannesburg`, `RobbenIsland`, `CapeTown`, `KrugerNationalPark`, `PostApartheidStructuralInequality`, and `ComplexDestinationTravelRisk`; updated `SouthAfrica`, `Apartheid`, `NelsonMandela`, `WushichaYanjiusuo`, `index`, and `overview`. No settled contradiction found; crime, corruption, education-ratio, labor-pattern, migration, and local-opinion claims remain source-scoped travel observations and conversations.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

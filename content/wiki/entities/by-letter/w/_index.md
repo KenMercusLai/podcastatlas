@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9145
+wiki_total_pages: 9149
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -569,6 +569,9 @@ wiki_pages:
   - key: "WoBuXiangxinShenhua"
     title: "《我不相信神话》"
     url: "/wiki/entities/wobuxiangxinshenhua/"
+  - key: "WoZhuChangjiangWei"
+    title: "《我住长江尾》 / Wo Zhu Changjiang Wei"
+    url: "/wiki/entities/wozhuchangjiangwei/"
   - key: "WoYouZijiDeYuzhou"
     title: "《我有自己的宇宙》"
     url: "/wiki/entities/woyouzijideyuzhou/"

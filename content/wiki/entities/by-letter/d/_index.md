@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9145
+wiki_total_pages: 9149
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "DuanGanmu"
     title: "段干木 / Duan Ganmu"
     url: "/wiki/entities/duanganmu/"
+  - key: "DuanZhiqiang"
+    title: "段志强 / Duan Zhiqiang"
+    url: "/wiki/entities/duanzhiqiang/"
   - key: "DuanGongchengLateHan"
     title: "段恭诚 / Duan Gongcheng (late Han)"
     url: "/wiki/entities/duangongchenglatehan/"

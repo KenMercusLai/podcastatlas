@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6535
+wiki_total_pages: 6540
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -854,6 +854,12 @@ wiki_pages:
   - key: "RunningShoeTechnology"
     title: "Running Shoe Technology"
     url: "/wiki/concepts/runningshoetechnology/"
+  - key: "RuralBoundaryAndNeighborOrder"
+    title: "Rural Boundary And Neighbor Order / 乡村边界与邻里秩序"
+    url: "/wiki/concepts/ruralboundaryandneighbororder/"
+  - key: "RuralCircularUseEconomy"
+    title: "Rural Circular Use Economy / 乡村循环利用经济"
+    url: "/wiki/concepts/ruralcircularuseeconomy/"
   - key: "RuralInfrastructureTransition"
     title: "Rural Infrastructure Transition / 乡村基础设施转折"
     url: "/wiki/concepts/ruralinfrastructuretransition/"
