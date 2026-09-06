@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2214
+topic_total_pages: 2215
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -5907,6 +5907,9 @@ topic_entities:
     title: "黄棘 / Huangji"
     url: "/wiki/entities/huangji/"
 topic_sources:
+  - key: "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4"
+    title: "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？"
+    url: "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
   - key: "100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302"
     title: "100.法律的悖论：谢天谢地，幸好我们还有罗翔"
     url: "/wiki/sources/100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302/"

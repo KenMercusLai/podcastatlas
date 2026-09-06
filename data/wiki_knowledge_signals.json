@@ -7192,6 +7192,29 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/bianquhydraulicgovernance/"
     },
+    "BigTobaccoPlatformAnalogy": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260716_0716_MP_TECH_pod_128 [tech_20260716_0716_MP_TECH_pod_128].md",
+          "key": "tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why state AGs are taking Meta to court",
+          "url": "/wiki/sources/tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "32ada8c4-0584-42b5-a062-a336275a2cb5 [32ada8c4-0584-42b5-a062-a336275a2cb5].md",
+          "key": "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4",
+          "show": "声东击西",
+          "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
+          "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/bigtobaccoplatformanalogy/"
+    },
     "Bilibili": {
       "episode_count": 2,
       "show_count": 2,
@@ -22315,6 +22338,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/fanzhunlatehan/"
     },
+    "FangKecheng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "32ada8c4-0584-42b5-a062-a336275a2cb5 [32ada8c4-0584-42b5-a062-a336275a2cb5].md",
+          "key": "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4",
+          "show": "声东击西",
+          "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
+          "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/fangkecheng/"
+    },
     "FangWangGengshi": {
       "episode_count": 1,
       "show_count": 1,
@@ -24608,6 +24647,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/france/"
+    },
+    "FrancesHaugen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "32ada8c4-0584-42b5-a062-a336275a2cb5 [32ada8c4-0584-42b5-a062-a336275a2cb5].md",
+          "key": "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4",
+          "show": "声东击西",
+          "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
+          "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/franceshaugen/"
     },
     "FrancisWalsingham": {
       "episode_count": 6,
@@ -33616,6 +33671,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/intermediaryroutegatekeeping/"
+    },
+    "InternalSafetyResearchExposure": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260812_0812_MP_TECH_pod_128 [tech_20260812_0812_MP_TECH_pod_128].md",
+          "key": "tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "TikTok excluded millions from crucial safety guardrails",
+          "url": "/wiki/sources/tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "32ada8c4-0584-42b5-a062-a336275a2cb5 [32ada8c4-0584-42b5-a062-a336275a2cb5].md",
+          "key": "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4",
+          "show": "声东击西",
+          "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
+          "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/internalsafetyresearchexposure/"
     },
     "InternationalAirTransportAssociation": {
       "episode_count": 1,
@@ -43669,6 +43747,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/markcarney/"
+    },
+    "MarkLanier": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "32ada8c4-0584-42b5-a062-a336275a2cb5 [32ada8c4-0584-42b5-a062-a336275a2cb5].md",
+          "key": "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4",
+          "show": "声东击西",
+          "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
+          "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/marklanier/"
     },
     "MarkLuanfanshu": {
       "episode_count": 1,
@@ -59193,9 +59287,9 @@
       "url": "/wiki/entities/shendiqiang/"
     },
     "ShengdongJixi": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24 [a3884ade-4669-4d5c-ab2e-f98aa580f429].md",
@@ -59224,6 +59318,13 @@
           "show": "声东击西",
           "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
           "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        },
+        {
+          "episode_file": "32ada8c4-0584-42b5-a062-a336275a2cb5 [32ada8c4-0584-42b5-a062-a336275a2cb5].md",
+          "key": "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4",
+          "show": "声东击西",
+          "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
+          "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
         }
       ],
       "updated": "2026-09-07",
@@ -60316,10 +60417,70 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/socialhistorycaseframing/"
     },
+    "SocialMediaAgeBans": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260724_0724_MP_TECH_pod_128 [tech_20260724_0724_MP_TECH_pod_128].md",
+          "key": "tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "OpenAI model unintentionally hacks another company's system",
+          "url": "/wiki/sources/tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "32ada8c4-0584-42b5-a062-a336275a2cb5 [32ada8c4-0584-42b5-a062-a336275a2cb5].md",
+          "key": "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4",
+          "show": "声东击西",
+          "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
+          "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/socialmediaagebans/"
+    },
+    "SocialMediaCausationScienceWars": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "tech_20260812_0812_MP_TECH_pod_128 [tech_20260812_0812_MP_TECH_pod_128].md",
+          "key": "tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "TikTok excluded millions from crucial safety guardrails",
+          "url": "/wiki/sources/tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260205_0205_MP_TECH_pod_128 [tech_20260205_0205_MP_TECH_pod_128].md",
+          "key": "tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is social media addictive? And are social media companies liable?",
+          "url": "/wiki/sources/tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260716_0716_MP_TECH_pod_128 [tech_20260716_0716_MP_TECH_pod_128].md",
+          "key": "tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why state AGs are taking Meta to court",
+          "url": "/wiki/sources/tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "32ada8c4-0584-42b5-a062-a336275a2cb5 [32ada8c4-0584-42b5-a062-a336275a2cb5].md",
+          "key": "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4",
+          "show": "声东击西",
+          "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
+          "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/socialmediacausationsciencewars/"
+    },
     "SocialMediaProductLiability": {
-      "episode_count": 11,
-      "show_count": 3,
-      "source_note_count": 11,
+      "episode_count": 12,
+      "show_count": 4,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits [40647420].md",
@@ -60397,9 +60558,16 @@
           "show": "Economist Podcasts",
           "title": "Bots on the ground: China leads humanoid race",
           "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        },
+        {
+          "episode_file": "32ada8c4-0584-42b5-a062-a336275a2cb5 [32ada8c4-0584-42b5-a062-a336275a2cb5].md",
+          "key": "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4",
+          "show": "声东击西",
+          "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
+          "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/socialmediaproductliability/"
     },
     "SocialRoboticsElderCare": {
@@ -60612,6 +60780,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/songyoueasternhan/"
+    },
+    "SophieZhang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "32ada8c4-0584-42b5-a062-a336275a2cb5 [32ada8c4-0584-42b5-a062-a336275a2cb5].md",
+          "key": "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4",
+          "show": "声东击西",
+          "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
+          "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/sophiezhang/"
     },
     "SouthAfrica": {
       "episode_count": 3,
@@ -66844,6 +67028,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/unitedarabemirates/"
     },
+    "UnitedNationsChildrenFund": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "32ada8c4-0584-42b5-a062-a336275a2cb5 [32ada8c4-0584-42b5-a062-a336275a2cb5].md",
+          "key": "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4",
+          "show": "声东击西",
+          "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
+          "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/unitednationschildrenfund/"
+    },
     "UnitreeIPOValuation": {
       "episode_count": 2,
       "show_count": 2,
@@ -71810,9 +72010,9 @@
       "url": "/wiki/entities/xutalatehan/"
     },
     "XuTao": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Trailer ｜叮！下周一早晨，来杯「声动早咖啡」吧！ [431629439].md",
@@ -71841,9 +72041,16 @@
           "show": "声东击西",
           "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
           "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        },
+        {
+          "episode_file": "32ada8c4-0584-42b5-a062-a336275a2cb5 [32ada8c4-0584-42b5-a062-a336275a2cb5].md",
+          "key": "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4",
+          "show": "声东击西",
+          "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
+          "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/xutao/"
     },
     "XuXuanLateHan": {

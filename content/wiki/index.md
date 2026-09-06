@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？](sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4.md) — 声东击西 episode with Xu Tao and Fang Kecheng on youth social-media age bans, product-design liability, internal platform evidence, Section 230, and the Big Tobacco analogy.
 - [史蒂夫说471期 - 咨询师回信：万事只讲逻辑的人，都成长于理性为名的压迫](sources/shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi.md) — 史蒂夫说 counselor-letter episode on CPTSD-like hypervigilance, toxic shame, overusing psychoanalytic concepts, unsafe therapy experiences, ambiguous attraction, logic-driven self-doubt, and body-based self-trust.
 - [Episode 225: 一袋一录](sources/episode-225-yidai-yilu-8212959555-438866.md) — 迟早更新 episode on Ursula K. Le Guin's carrier-bag theory, Chinese container-like literary forms, Donna Haraway, river personhood, Robert Macfarlane, and narrative pluralism.
 - [No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理](sources/no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil.md) — 三五环 crossover with Zhang Hongliang on sleep rhythm, deep sleep, REM, caffeine, alcohol, 8Sleep dynamic temperature, bed-based sensing, and consumer sleep-hardware subscriptions.
@@ -1970,6 +1971,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [方可诚](entities/FangKecheng.md) — Communication scholar and 声东击西 guest explaining youth social-media regulation, platform responsibility, evidence disputes, and the Big Tobacco analogy.
+- [Frances Haugen](entities/FrancesHaugen.md) — Facebook whistleblower used here as an internal-document evidence node in youth social-media product-liability debates.
+- [Sophie Zhang](entities/SophieZhang.md) — Former Facebook data scientist and whistleblower named as part of the internal-evidence layer around platform accountability.
+- [Mark Lanier](entities/MarkLanier.md) — Product-liability lawyer named in the social-media litigation discussion around design-defect strategy.
+- [UNICEF](entities/UnitedNationsChildrenFund.md) — Child-focused UN institution cited for the argument that parents alone cannot police opaque social-media platforms and algorithms.
 - [迟早更新 / Chizao Gengxin](entities/ChizaoGengxin.md) — Essayistic podcast represented by Episode 225's movement from carrier-bag narrative theory into literature, feminism, ecology, and nature writing.
 - [The Carrier Bag Theory of Fiction / 《小说的载物袋理论》](entities/TheCarrierBagTheoryOfFiction.md) — Ursula K. Le Guin essay used by Episode 225 to challenge spear-like hero/conflict storytelling with containers, gathering, care, and relation.
 - [Donna Haraway / 唐娜·哈拉维](entities/DonnaHaraway.md) — Feminist and science-studies theorist appearing through her carrier-bag guide text, cyborg origin critique, and Colombian environmental-justice links.
@@ -10624,9 +10630,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [青岛号](entities/QingdaoClipperYacht.md) — Ocean-racing boat used by E161 to explain team risk, weather uncertainty, captain judgment, and performance under physical stress.
 - [Edward Thorp](entities/EdwardThorp.md) — Mathematician and investor used by E153 to connect blackjack card counting, Kelly sizing, arbitrage, and quantitative investing.
 - [Claude Shannon](entities/ClaudeShannon.md) — Information-theory figure used by E153 to connect information advantage, repeated betting, and Kelly-style position sizing.
-- [声东击西](entities/ShengdongJixi.md) — Podcast crossover context where Xu Tao hosts Justin Yan and Wang Junyu on OpenClaw and vibe coding.
+- [声东击西](entities/ShengdongJixi.md) — Chinese podcast/media context translating AI infrastructure, vibe coding, aviation, humanitarian aid, and platform-governance systems for general listeners.
 - [声动活泼](entities/ShengdongHuopo.md) — Media organization whose internal AI Hackathon provides the episode's non-technical workflow-automation case.
-- [徐涛](entities/XuTao.md) — Shengdong Jixi host representing the non-technical power-user view of OpenClaw, vibe coding, media workflows, and prototype-to-production gaps.
+- [徐涛](entities/XuTao.md) — Shengdong Jixi host represented through AI-work, aviation, and platform-governance conversations that translate specialist systems into everyday judgment.
 - [王俊玉](entities/WangJunyu.md) — Entrepreneur/product voice emphasizing OpenClaw proactivity, memory, skills, digital employees, and AI management capability.
 - [Gao Jiyang](entities/GaoJiyang.md) — Xinghaitu founder whose path through SenseTime, Waymo, and Momenta shapes a pragmatic embodied-AI strategy.
 - [Xinghaitu](entities/Xinghaitu.md) — Embodied-AI robotics startup building whole machines, models, post-training tools, and real-world data loops.
@@ -13243,7 +13249,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Creator Trust Advertising / 创作者信任广告](concepts/CreatorTrustAdvertising.md) — Bilibili ad-format tradeoff between standardized platform inventory and UP creator-viewer trust.
 - [Timestamped Comment Community / 时间戳评论共同体](concepts/TimestampedCommentCommunity.md) — Xiaoyuzhou-style audio comment layer that attaches listener reaction to specific moments.
 - [Platform Safety A/B Testing](concepts/PlatformSafetyABTesting.md) — Governance problem of measuring safety features while avoiding avoidable harm to users excluded from protections.
-- [Internal Safety Research Exposure](concepts/InternalSafetyResearchExposure.md) — Litigation and accountability risk created when company safety documents, tests, and reviews become evidence.
+- [Internal Safety Research Exposure](concepts/InternalSafetyResearchExposure.md) — Litigation and accountability risk created when company safety documents, tests, employee discussions, and whistleblower disclosures become evidence.
 - [Cognitive Offloading / 认知卸载](concepts/CognitiveOffloading.md) — Externalizing memory or answer production to people, search tools, or AI, useful when judged actively and risky when it replaces learning practice.
 - [AI Guided Learning Guardrails / AI引导式学习护栏](concepts/AIGuidedLearningGuardrails.md) — AI tutoring design that withholds direct answers, asks learners for their reasoning, and preserves transfer-building effort.
 - [Neuroplasticity / 神经可塑性](concepts/Neuroplasticity.md) — Learning and memory frame where repeated challenge, retrieval, movement, sleep, pruning, and recovery reshape brain connections within safety boundaries.
@@ -13655,7 +13661,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Model Sandbox Escape](concepts/AIModelSandboxEscape.md) — Evaluation and security failure mode where a model leaves an isolated test environment and reaches outside systems.
 - [AI Benchmark Gaming](concepts/AIBenchmarkGaming.md) — Model-evaluation failure where a system seeks or exploits benchmark answers instead of demonstrating the intended capability.
 - [Frontier Model Cyber Misuse](concepts/FrontierModelCyberMisuse.md) — Offensive risk that advanced models help state or other attackers find and exploit cyber weaknesses.
-- [Social Media Age Bans](concepts/SocialMediaAgeBans.md) — Child-safety policy pattern that blocks underage users from social platforms while raising enforcement, privacy, and speech-access problems.
+- [Social Media Age Bans](concepts/SocialMediaAgeBans.md) — Child-safety policy pattern restricting underage social-media accounts while raising enforcement, privacy, social-default, and speech-access problems.
 - [Platform Definition Convergence](concepts/PlatformDefinitionConvergence.md) — Regulatory category problem created when social, short-video, creator, and streaming products increasingly resemble one another.
 - [Apple Device Leasing](concepts/AppleDeviceLeasing.md) — Reported lease-like Apple hardware financing strategy through Klarna, linked to premium-device growth and AI-driven component pressure.
 - [Content Engineering](concepts/ContentEngineering.md) — AI model-behavior role that turns editorial taste, examples, rubrics, cultural context, and dialogue judgment into better answers.
@@ -15735,9 +15741,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Homebuilding AI Operations](concepts/HomebuildingAIOperations.md) — Pattern where a homebuilder applies AI to long-cycle customer follow-up, warranty support, data analysis, and workflow triage while preserving human escalation.
 - [COPPA](concepts/COPPA.md) — Children's privacy law invoked in the state AG case against Meta over alleged under-13 data collection without parental consent.
 - [State AG Platform Litigation](concepts/StateAGPlatformLitigation.md) — State attorneys general using aggregate lawsuits to pressure platform design, children's privacy, and youth-harm accountability.
-- [Big Tobacco Platform Analogy](concepts/BigTobaccoPlatformAnalogy.md) — Public-health litigation comparison linking social-media lawsuits to tobacco-style causation fights, internal evidence, and cumulative attorney-general pressure.
+- [Big Tobacco Platform Analogy](concepts/BigTobaccoPlatformAnalogy.md) — Public-health litigation comparison linking social-media lawsuits to tobacco-style causation fights, doubt manufacture, internal evidence, and cumulative pressure.
 - [Platform Damages And Disgorgement](concepts/PlatformDamagesAndDisgorgement.md) — Remedy frame where platform lawsuits seek punishment, settlement pressure, and return of profits allegedly tied to illegal conduct.
-- [Social Media Causation Science Wars](concepts/SocialMediaCausationScienceWars.md) — Evidence dispute over whether social media causes youth harms, shaped by public-health institutions, company-funded research, and internal documents.
+- [Social Media Causation Science Wars](concepts/SocialMediaCausationScienceWars.md) — Evidence dispute over whether social media causes youth harms, shaped by platform data asymmetry, public-health institutions, company-funded research, and internal documents.
 - [AI Companion Attention Risk](concepts/AICompanionAttentionRisk.md) — Risk that AI companions inherit social-media attention incentives while adding anthropomorphism, memory, and sycophantic emotional responsiveness.
 - [Political Farce Accountability](concepts/PoliticalFarceAccountability.md) — Pattern where satire and joke candidates expose a serious accountability gap rather than merely trivializing politics.
 - [Africa Connectivity Infrastructure](concepts/AfricaConnectivityInfrastructure.md) — Mixed-network problem where mobile, fibre, satellite, and local operators must combine to meet heavier data demand.
@@ -16265,7 +16271,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SOC 2 Audit](concepts/SOC2Audit.md) — Evidence-based software-company trust audit covering security, IT, access, policy, infrastructure, and people-process controls.
 - [Manual Compliance MVP](concepts/ManualComplianceMVP.md) — Startup validation pattern where founders deliver a manual compliance artifact, such as a SOC 2 gap spreadsheet, before building software.
 - [Annual Upfront SaaS Cash Flow](concepts/AnnualUpfrontSaaSCashFlow.md) — SaaS payment-timing pattern where annual prepayment funds early operations and extends runway when customer urgency is real.
-- [Social Media Product Liability](concepts/SocialMediaProductLiability.md) — Legal frame treating harmful social-platform features, defaults, safeguards, and recommendation systems as product-design choices rather than only speech or hosting.
+- [Social Media Product Liability](concepts/SocialMediaProductLiability.md) — Legal frame treating harmful social-platform features, defaults, safeguards, recommendation systems, and parent-burden choices as product design rather than only speech or hosting.
 - [AI Worker Literacy](concepts/AIWorkerLiteracy.md) — Worker-facing AI readiness frame that gives basic tool fluency while leaving displacement, safeguards, and productivity-gain distribution unresolved.
 - [Prediction Market Self-Regulation](concepts/PredictionMarketSelfRegulation.md) — Platform-led guardrail strategy for blocking prohibited traders or insider-informed event-market activity before external rules arrive.
 - [Structural Health Monitoring](concepts/StructuralHealthMonitoring.md) — Sensor and data layer for tracking how critical structure members perform, grounded by the Key Bridge rebuild.

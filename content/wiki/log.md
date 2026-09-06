@@ -15735,3 +15735,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-07] ingest | #400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？
+
+Ingested the 2026-08-13 声东击西 episode with Xu Tao and Fang Kecheng on youth social-media age bans, product-design liability, internal platform evidence, Section 230, and the Big Tobacco analogy. Added source `400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4`; created `FangKecheng`, `FrancesHaugen`, `SophieZhang`, `MarkLanier`, and `UnitedNationsChildrenFund`; updated `ShengdongJixi`, `XuTao`, `SocialMediaProductLiability`, `SocialMediaAgeBans`, `SocialMediaCausationScienceWars`, `BigTobaccoPlatformAnalogy`, `InternalSafetyResearchExposure`, `index`, and `overview`. No settled contradiction found; France implementation details, Australian evasion estimates, Meta internal-study claims, clinical-study figures, and user lifetime-value numbers remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

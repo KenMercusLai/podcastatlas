@@ -967,6 +967,10 @@
     "title": "40.平面国：禁止染色/女人危险/向上不是向北！",
     "url": "/wiki/sources/40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366/"
   },
+  "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4": {
+    "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
+    "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
+  },
   "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05": {
     "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
     "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
@@ -19223,6 +19227,10 @@
     "title": "樊准 / Fan Zhun (late Han)",
     "url": "/wiki/entities/fanzhunlatehan/"
   },
+  "FangKecheng": {
+    "title": "方可诚",
+    "url": "/wiki/entities/fangkecheng/"
+  },
   "FangWangGengshi": {
     "title": "方望 / Fang Wang (Gengshi)",
     "url": "/wiki/entities/fangwanggengshi/"
@@ -20994,6 +21002,10 @@
   "France": {
     "title": "France",
     "url": "/wiki/entities/france/"
+  },
+  "FrancesHaugen": {
+    "title": "Frances Haugen",
+    "url": "/wiki/entities/franceshaugen/"
   },
   "FrancescoBaracca": {
     "title": "Francesco Baracca",
@@ -35518,6 +35530,10 @@
   "MarkJohnson": {
     "title": "Mark Johnson",
     "url": "/wiki/entities/markjohnson/"
+  },
+  "MarkLanier": {
+    "title": "Mark Lanier",
+    "url": "/wiki/entities/marklanier/"
   },
   "MarkLindsay": {
     "title": "Mark Lindsay",
@@ -50983,6 +50999,10 @@
     "title": "Sophie Pedder",
     "url": "/wiki/entities/sophiepedder/"
   },
+  "SophieZhang": {
+    "title": "Sophie Zhang",
+    "url": "/wiki/entities/sophiezhang/"
+  },
   "Sophos": {
     "title": "Sophos",
     "url": "/wiki/entities/sophos/"
@@ -56502,6 +56522,10 @@
   "UnitedNations": {
     "title": "United Nations",
     "url": "/wiki/entities/unitednations/"
+  },
+  "UnitedNationsChildrenFund": {
+    "title": "UNICEF",
+    "url": "/wiki/entities/unitednationschildrenfund/"
   },
   "UnitedStates": {
     "title": "United States",

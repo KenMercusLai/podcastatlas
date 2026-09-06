@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9156
+wiki_total_pages: 9161
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "France"
     title: "France"
     url: "/wiki/entities/france/"
+  - key: "FrancesHaugen"
+    title: "Frances Haugen"
+    url: "/wiki/entities/franceshaugen/"
   - key: "FrancescoBaracca"
     title: "Francesco Baracca"
     url: "/wiki/entities/francescobaracca/"
@@ -770,6 +773,9 @@ wiki_pages:
   - key: "FuSu"
     title: "扶苏 / Fu Su"
     url: "/wiki/entities/fusu/"
+  - key: "FangKecheng"
+    title: "方可诚"
+    url: "/wiki/entities/fangkecheng/"
   - key: "FangWangGengshi"
     title: "方望 / Fang Wang (Gengshi)"
     url: "/wiki/entities/fangwanggengshi/"
