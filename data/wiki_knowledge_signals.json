@@ -5870,6 +5870,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/awarenessmeditationstorydropping/"
     },
+    "Aweil": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/aweil/"
+    },
     "Azure": {
       "episode_count": 2,
       "show_count": 2,
@@ -18326,6 +18342,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/embodiedtrainingagainstfear/"
+    },
+    "EmergencyCashAssistance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/emergencycashassistance/"
     },
     "EmotionAttentionalCapture": {
       "episode_count": 1,
@@ -31205,6 +31237,38 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/humanelocalgovernance/"
+    },
+    "HumanitarianAidFundingShortfall": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/humanitarianaidfundingshortfall/"
+    },
+    "HumanitarianWitnessingBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/humanitarianwitnessingboundary/"
     },
     "HumanoidRobotCommercialization": {
       "episode_count": 9,
@@ -46640,6 +46704,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/nutritionmentalhealth/"
     },
+    "NutritionTriageThreshold": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/nutritiontriagethreshold/"
+    },
     "OCDCompulsionReinforcementLoop": {
       "episode_count": 1,
       "show_count": 1,
@@ -53608,6 +53688,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/reddit/"
     },
+    "RefugeeAidRegistrationGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/refugeeaidregistrationgap/"
+    },
     "RegencyUnderCompoundCrisis": {
       "episode_count": 15,
       "show_count": 1,
@@ -56268,6 +56364,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/schoolaiboundaries/"
     },
+    "SchoolMealsAsEducationAccess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/schoolmealsaseducationaccess/"
+    },
     "ScienceCommunicationTrustRepair": {
       "episode_count": 1,
       "show_count": 1,
@@ -57563,9 +57675,9 @@
       "url": "/wiki/entities/shendiqiang/"
     },
     "ShengdongJixi": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24 [a3884ade-4669-4d5c-ab2e-f98aa580f429].md",
@@ -57587,9 +57699,16 @@
           "show": "声东击西",
           "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
           "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        },
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/shengdongjixi/"
     },
     "ShentuGangEasternHan": {
@@ -58906,6 +59025,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/southafrica/"
+    },
+    "SouthSudan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/southsudan/"
     },
     "SouthernOcean": {
       "episode_count": 1,
@@ -64475,6 +64610,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/ugg/"
     },
+    "UNHCR": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/unhcr/"
+    },
     "USChinaScienceCompetition": {
       "episode_count": 2,
       "show_count": 1,
@@ -66273,6 +66424,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/wanghongeasternhan/"
     },
+    "WangHongrui": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/wanghongrui/"
+    },
     "WangHuanLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -66885,6 +67052,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/wearablehealthdataanxiety/"
+    },
+    "WedweilRefugeeCamp": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/wedweilrefugeecamp/"
     },
     "WeiBiaoEasternHan": {
       "episode_count": 1,
@@ -67942,6 +68125,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/workshopinternalcomms/"
+    },
+    "WorldFoodProgramme": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/worldfoodprogramme/"
     },
     "WorldLabs": {
       "episode_count": 4,

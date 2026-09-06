@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6499
+wiki_total_pages: 6505
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "EmbodiedTrainingAgainstFear"
     title: "Embodied Training Against Fear / 反本能身体训练"
     url: "/wiki/concepts/embodiedtrainingagainstfear/"
+  - key: "EmergencyCashAssistance"
+    title: "Emergency Cash Assistance / 紧急现金援助"
+    url: "/wiki/concepts/emergencycashassistance/"
   - key: "EmergencySuccessionLegitimation"
     title: "Emergency Succession Legitimation / 临终就近立储"
     url: "/wiki/concepts/emergencysuccessionlegitimation/"

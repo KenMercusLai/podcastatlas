@@ -971,6 +971,10 @@
     "title": "401(k) Plan",
     "url": "/wiki/concepts/401kplan/"
   },
+  "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de": {
+    "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+    "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+  },
   "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d": {
     "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
     "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
@@ -6226,6 +6230,10 @@
   "AwarenessMeditationStoryDropping": {
     "title": "Awareness Meditation Story Dropping",
     "url": "/wiki/concepts/awarenessmeditationstorydropping/"
+  },
+  "Aweil": {
+    "title": "Aweil / 阿维尔",
+    "url": "/wiki/entities/aweil/"
   },
   "Axio": {
     "title": "Axio",
@@ -17523,6 +17531,10 @@
     "title": "Embodied Training Against Fear / 反本能身体训练",
     "url": "/wiki/concepts/embodiedtrainingagainstfear/"
   },
+  "EmergencyCashAssistance": {
+    "title": "Emergency Cash Assistance / 紧急现金援助",
+    "url": "/wiki/concepts/emergencycashassistance/"
+  },
   "EmergencySuccessionLegitimation": {
     "title": "Emergency Succession Legitimation / 临终就近立储",
     "url": "/wiki/concepts/emergencysuccessionlegitimation/"
@@ -26315,9 +26327,17 @@
     "title": "Humanistic Science Communication",
     "url": "/wiki/concepts/humanisticsciencecommunication/"
   },
+  "HumanitarianAidFundingShortfall": {
+    "title": "Humanitarian Aid Funding Shortfall / 人道援助资金缺口",
+    "url": "/wiki/concepts/humanitarianaidfundingshortfall/"
+  },
   "HumanitarianIsolation": {
     "title": "Humanitarian Isolation",
     "url": "/wiki/concepts/humanitarianisolation/"
+  },
+  "HumanitarianWitnessingBoundary": {
+    "title": "Humanitarian Witnessing Boundary / 人道见证边界",
+    "url": "/wiki/concepts/humanitarianwitnessingboundary/"
   },
   "HumanoidRobotCommercialization": {
     "title": "Humanoid Robot Commercialization",
@@ -39483,6 +39503,10 @@
     "title": "Nutrition and Mental Health",
     "url": "/wiki/concepts/nutritionmentalhealth/"
   },
+  "NutritionTriageThreshold": {
+    "title": "Nutrition Triage Threshold / 营养不良分诊门槛",
+    "url": "/wiki/concepts/nutritiontriagethreshold/"
+  },
   "Nvidia": {
     "title": "Nvidia",
     "url": "/wiki/entities/nvidia/"
@@ -45715,6 +45739,10 @@
     "title": "Reform Without Popular Deliberation / 不与民虑始",
     "url": "/wiki/concepts/reformwithoutpopulardeliberation/"
   },
+  "RefugeeAidRegistrationGap": {
+    "title": "Refugee Aid Registration Gap / 难民登记援助空窗",
+    "url": "/wiki/concepts/refugeeaidregistrationgap/"
+  },
   "RegalCinemas": {
     "title": "Regal Cinemas",
     "url": "/wiki/entities/regalcinemas/"
@@ -48082,6 +48110,10 @@
   "SchoolEnterpriseCooperation": {
     "title": "School-Enterprise Cooperation / 校企合作",
     "url": "/wiki/concepts/schoolenterprisecooperation/"
+  },
+  "SchoolMealsAsEducationAccess": {
+    "title": "School Meals as Education Access / 校餐作为教育入口",
+    "url": "/wiki/concepts/schoolmealsaseducationaccess/"
   },
   "SchoolSafeCPGPositioning": {
     "title": "School-Safe CPG Positioning",
@@ -50686,6 +50718,10 @@
   "SouthSeaCompany": {
     "title": "South Sea Company / 南海公司",
     "url": "/wiki/entities/southseacompany/"
+  },
+  "SouthSudan": {
+    "title": "South Sudan / 南苏丹",
+    "url": "/wiki/entities/southsudan/"
   },
   "SouthToNorthWaterTransferProject": {
     "title": "South-to-North Water Transfer Project / 南水北调",
@@ -55747,6 +55783,10 @@
     "title": "UNFI",
     "url": "/wiki/entities/unfi/"
   },
+  "UNHCR": {
+    "title": "UNHCR / 联合国难民署",
+    "url": "/wiki/entities/unhcr/"
+  },
   "UNTUCKit": {
     "title": "UNTUCKit",
     "url": "/wiki/entities/untuckit/"
@@ -57263,6 +57303,10 @@
     "title": "王洪杰 / Wang Hongjie",
     "url": "/wiki/entities/wanghongjie/"
   },
+  "WangHongrui": {
+    "title": "王洪瑞 / Wang Hongrui",
+    "url": "/wiki/entities/wanghongrui/"
+  },
   "WangHuanLateHan": {
     "title": "王涣 / Wang Huan (late Han)",
     "url": "/wiki/entities/wanghuanlatehan/"
@@ -57938,6 +57982,10 @@
   "Webnovel": {
     "title": "Webnovel / 起点国际版",
     "url": "/wiki/entities/webnovel/"
+  },
+  "WedweilRefugeeCamp": {
+    "title": "Wedweil Refugee Camp / 维德维尔难民营",
+    "url": "/wiki/entities/wedweilrefugeecamp/"
   },
   "Weebly": {
     "title": "Weebly",
@@ -58910,6 +58958,10 @@
   "WorldCupHydrationPauseAdInventory": {
     "title": "World Cup Hydration Pause Ad Inventory",
     "url": "/wiki/concepts/worldcuphydrationpauseadinventory/"
+  },
+  "WorldFoodProgramme": {
+    "title": "World Food Programme / 世界粮食计划署",
+    "url": "/wiki/entities/worldfoodprogramme/"
   },
   "WorldFoundationModels": {
     "title": "World Foundation Models",

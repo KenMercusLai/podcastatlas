@@ -15612,6 +15612,14 @@ Ingested the 2026-08-28 忽左忽右 episode using Ceuta to connect Moroccan mig
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-07] ingest | #402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿
+
+Ingested the 2026-08-27 声东击西 episode with WFP worker Wang Hongrui on South Sudan refugee hunger, Wedweil camp registration gaps, reduced emergency cash assistance, nutrition triage, humanitarian funding shortfalls, and school meals as an education-access channel. Added source `402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de`; created `SouthSudan`, `WorldFoodProgramme`, `UNHCR`, `WangHongrui`, `WedweilRefugeeCamp`, `Aweil`, `RefugeeAidRegistrationGap`, `EmergencyCashAssistance`, `NutritionTriageThreshold`, `HumanitarianAidFundingShortfall`, `SchoolMealsAsEducationAccess`, and `HumanitarianWitnessingBoundary`; updated `ShengdongJixi` and `index`. No settled contradiction found; population counts, funding amounts, October-aid-cancellation timing, election-security forecasts, and individual refugee accounts remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

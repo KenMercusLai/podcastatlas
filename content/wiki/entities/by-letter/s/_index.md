@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9101
+wiki_total_pages: 9107
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -920,6 +920,9 @@ wiki_pages:
   - key: "SouthSeaCompany"
     title: "South Sea Company / 南海公司"
     url: "/wiki/entities/southseacompany/"
+  - key: "SouthSudan"
+    title: "South Sudan / 南苏丹"
+    url: "/wiki/entities/southsudan/"
   - key: "SouthToNorthWaterTransferProject"
     title: "South-to-North Water Transfer Project / 南水北调"
     url: "/wiki/entities/southtonorthwatertransferproject/"

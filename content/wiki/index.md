@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿](sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de.md) — 声东击西 episode with WFP worker Wang Hongrui on South Sudan refugee hunger, registration gaps, cash-aid cuts, nutrition triage, funding shortfalls, and school meals.
 - [496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海](sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw.md) — 忽左忽右 episode using Ceuta to connect Moroccan migration crossings, Strait of Gibraltar geography, ancient and medieval Mediterranean rule, Portuguese expansion, Spanish sovereignty, and migration weaponization.
 - [史蒂夫说472期 - 赵今朝 - 化解焦虑最佳方法：拆解问题，温柔相待](sources/shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh.md) — 史蒂夫说 interview with Zhao Jinzhao / Dr. Claire on anxiety as demand-resource mismatch, body arousal, family transmission, and gentle support through decomposition.
 - [Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”](sources/vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr.md) — 文化有限 episode rereading Where the Crawdads Sing through marsh marginality, female growth, film adaptation, legal justice, natural law, wild-child motifs, and victim-held forgiveness.
@@ -1955,6 +1956,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [South Sudan / 南苏丹](entities/SouthSudan.md) — Country setting for WFP refugee-food-aid cuts, compound humanitarian crisis, and Sudanese displacement into camps near Aweil.
+- [World Food Programme / 世界粮食计划署](entities/WorldFoodProgramme.md) — UN food-aid agency represented through emergency cash, nutrition support, school meals, and funding-constrained South Sudan operations.
+- [UNHCR / 联合国难民署](entities/UNHCR.md) — UN refugee agency whose registration work gates the aid sequence for newly arrived Sudanese refugees in Wedweil.
+- [王洪瑞 / Wang Hongrui](entities/WangHongrui.md) — WFP staff member and 声东击西 guest witnessing South Sudan refugee hunger and aid-delivery limits.
+- [Wedweil Refugee Camp / 维德维尔难民营](entities/WedweilRefugeeCamp.md) — South Sudan camp near Aweil where the episode observes registration waits, food aid cuts, nutrition screening, and school meals.
+- [Aweil / 阿维尔](entities/Aweil.md) — South Sudan field gateway to Wedweil refugee camp and nearby Sudanese refugee flows.
 - [路大鹏 / Lu Dapeng](entities/LuDapeng.md) — 忽左忽右 guest explaining Ceuta through Mediterranean, Iberian, North African, Portuguese, Spanish, and migration history.
 - [Strait of Gibraltar / 直布罗陀海峡](entities/StraitOfGibraltar.md) — Maritime passage whose North Africa-Iberia geography gives Ceuta and Gibraltar strategic value.
 - [Gibraltar / 直布罗陀](entities/Gibraltar.md) — European-side strait counterpart to Ceuta, tied to Islamic-conquest naming and later British control in the source.
@@ -11060,6 +11067,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Refugee Aid Registration Gap / 难民登记援助空窗](concepts/RefugeeAidRegistrationGap.md) — Interval between camp arrival and aid eligibility where necessary identity checks can still leave hungry families without immediate support.
+- [Emergency Cash Assistance / 紧急现金援助](concepts/EmergencyCashAssistance.md) — Humanitarian cash support that becomes fragile when it replaces a fuller food basket under weak livelihoods and funding cuts.
+- [Nutrition Triage Threshold / 营养不良分诊门槛](concepts/NutritionTriageThreshold.md) — Clinical eligibility cutoff for scarce fortified nutrition support, exposing painful edge cases around visible hunger.
+- [Humanitarian Aid Funding Shortfall / 人道援助资金缺口](concepts/HumanitarianAidFundingShortfall.md) — Gap between assessed need and donor resources that converts global budget pressure into camp-level food-aid cuts.
+- [School Meals as Education Access / 校餐作为教育入口](concepts/SchoolMealsAsEducationAccess.md) — Pattern where meals make school attendance possible for children whose hunger would otherwise push them out of class.
+- [Humanitarian Witnessing Boundary / 人道见证边界](concepts/HumanitarianWitnessingBoundary.md) — Ethical limit of carrying suffering outward when testimony cannot solve immediate hunger.
 - [Ceuta Imperial Borderland / 休达帝国边地](concepts/CeutaImperialBorderland.md) — Pattern where Ceuta's geography lets imperial, commercial, scholarly, military, and migration layers accumulate.
 - [Iberian Reconquista / 伊比利亚收复失地运动](concepts/IberianReconquista.md) — Iberian Christian expansion frame used to explain Portugal's post-1249 turn toward North Africa and the Atlantic.
 - [Portuguese Maritime Expansion / 葡萄牙海上扩张](concepts/PortugueseMaritimeExpansion.md) — Qualified expansion narrative in which the 1415 conquest of Ceuta becomes the conventional first station.

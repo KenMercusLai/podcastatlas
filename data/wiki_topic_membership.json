@@ -30787,6 +30787,13 @@
       "url": "/topics/science/"
     }
   ],
+  "HumanitarianAidFundingShortfall": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HumanitarianIsolation": [
     {
       "key": "politics",
@@ -53968,6 +53975,13 @@
     }
   ],
   "SchoolEnterpriseCooperation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "SchoolMealsAsEducationAccess": [
     {
       "key": "culture",
       "label": "Culture",

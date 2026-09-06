@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2444
+topic_total_pages: 2445
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1933,6 +1933,9 @@ topic_concepts:
   - key: "SchoolAIBoundaries"
     title: "School AI Boundaries"
     url: "/wiki/concepts/schoolaiboundaries/"
+  - key: "SchoolMealsAsEducationAccess"
+    title: "School Meals as Education Access / 校餐作为教育入口"
+    url: "/wiki/concepts/schoolmealsaseducationaccess/"
   - key: "SchoolEnterpriseCooperation"
     title: "School-Enterprise Cooperation / 校企合作"
     url: "/wiki/concepts/schoolenterprisecooperation/"

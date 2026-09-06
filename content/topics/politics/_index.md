@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2209
+topic_total_pages: 2210
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1402,6 +1402,9 @@ topic_concepts:
   - key: "HumanValueAIDeployment"
     title: "Human-Value AI Deployment / 提高人的价值以部署 AI"
     url: "/wiki/concepts/humanvalueaideployment/"
+  - key: "HumanitarianAidFundingShortfall"
+    title: "Humanitarian Aid Funding Shortfall / 人道援助资金缺口"
+    url: "/wiki/concepts/humanitarianaidfundingshortfall/"
   - key: "HumanitarianIsolation"
     title: "Humanitarian Isolation"
     url: "/wiki/concepts/humanitarianisolation/"
