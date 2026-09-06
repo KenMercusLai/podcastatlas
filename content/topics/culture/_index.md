@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2458
+topic_total_pages: 2464
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -925,6 +925,9 @@ topic_concepts:
   - key: "FaceSlappingReversalNarrative"
     title: "Face-Slapping Reversal Narrative / 打脸反杀叙事"
     url: "/wiki/concepts/faceslappingreversalnarrative/"
+  - key: "FaceToFaceCreativeExchange"
+    title: "Face-to-Face Creative Exchange / 面对面创造性交流"
+    url: "/wiki/concepts/facetofacecreativeexchange/"
   - key: "FairyTaleDeathAndSpirituality"
     title: "Fairy-Tale Death And Spirituality"
     url: "/wiki/concepts/fairytaledeathandspirituality/"
@@ -2290,6 +2293,9 @@ topic_concepts:
   - key: "TimeStasisSystem"
     title: "Time-Stasis System"
     url: "/wiki/concepts/timestasissystem/"
+  - key: "ToleranceOfDifference"
+    title: "Tolerance of Difference / 容差异"
+    url: "/wiki/concepts/toleranceofdifference/"
   - key: "ToolRationalitySpillover"
     title: "Tool Rationality Spillover"
     url: "/wiki/concepts/toolrationalityspillover/"
@@ -3137,6 +3143,9 @@ topic_entities:
   - key: "DanMoriarty"
     title: "Dan Moriarty"
     url: "/wiki/entities/danmoriarty/"
+  - key: "DartmouthCollege"
+    title: "Dartmouth College / 达特茅斯学院"
+    url: "/wiki/entities/dartmouthcollege/"
   - key: "DaveBaldwin"
     title: "Dave Baldwin"
     url: "/wiki/entities/davebaldwin/"
@@ -4424,6 +4433,9 @@ topic_entities:
   - key: "StevenSpielberg"
     title: "Steven Spielberg / 斯皮尔伯格"
     url: "/wiki/entities/stevenspielberg/"
+  - key: "StewartBrand"
+    title: "Stewart Brand"
+    url: "/wiki/entities/stewartbrand/"
   - key: "StudioGhibli"
     title: "Studio Ghibli / 吉卜力工作室"
     url: "/wiki/entities/studioghibli/"
@@ -4691,6 +4703,9 @@ topic_entities:
   - key: "UniversalMusicGroup"
     title: "Universal Music Group"
     url: "/wiki/entities/universalmusicgroup/"
+  - key: "UniversityOfChicago"
+    title: "University of Chicago / 芝加哥大学"
+    url: "/wiki/entities/universityofchicago/"
   - key: "ValleyOfTheDolls"
     title: "Valley of the Dolls"
     url: "/wiki/entities/valleyofthedolls/"
@@ -6657,6 +6672,9 @@ topic_entities:
     title: "龚自珍 / Gong Zizhen"
     url: "/wiki/entities/gongzizhen/"
 topic_sources:
+  - key: "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05"
+    title: "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？"
+    url: "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
   - key: "01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422"
     title: "01.麦田守望者：20世纪的美国贾宝玉"
     url: "/wiki/sources/01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422/"

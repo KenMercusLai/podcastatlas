@@ -967,6 +967,10 @@
     "title": "40.平面国：禁止染色/女人危险/向上不是向北！",
     "url": "/wiki/sources/40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366/"
   },
+  "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05": {
+    "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+    "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+  },
   "401KPlan": {
     "title": "401(k) Plan",
     "url": "/wiki/concepts/401kplan/"
@@ -2574,6 +2578,10 @@
   "AIUniversityAssessmentReform": {
     "title": "AI University Assessment Reform",
     "url": "/wiki/concepts/aiuniversityassessmentreform/"
+  },
+  "AIUniversityCampusReframing": {
+    "title": "AI University Campus Reframing / AI 时代大学校园重构",
+    "url": "/wiki/concepts/aiuniversitycampusreframing/"
   },
   "AIUsePacing": {
     "title": "AI Use Pacing",
@@ -4290,6 +4298,10 @@
   "AllSeasonsHotel": {
     "title": "All Seasons Hotel / 全季酒店",
     "url": "/wiki/entities/allseasonshotel/"
+  },
+  "AllenNewell": {
+    "title": "Allen Newell",
+    "url": "/wiki/entities/allennewell/"
   },
   "AllergyAsImmuneResponse": {
     "title": "Allergy As Immune Response",
@@ -14375,6 +14387,14 @@
     "title": "Darren Alpert",
     "url": "/wiki/entities/darrenalpert/"
   },
+  "DartmouthAIWorkshop": {
+    "title": "Dartmouth AI Workshop / 达特茅斯 AI 夏季研讨会",
+    "url": "/wiki/entities/dartmouthaiworkshop/"
+  },
+  "DartmouthCollege": {
+    "title": "Dartmouth College / 达特茅斯学院",
+    "url": "/wiki/entities/dartmouthcollege/"
+  },
   "DarylFairweather": {
     "title": "Daryl Fairweather",
     "url": "/wiki/entities/darylfairweather/"
@@ -17591,6 +17611,10 @@
     "title": "Emergency Warning Infrastructure",
     "url": "/wiki/concepts/emergencywarninginfrastructure/"
   },
+  "EmergentInnovationStrategy": {
+    "title": "Emergent Innovation Strategy / 涌现式创新战略",
+    "url": "/wiki/concepts/emergentinnovationstrategy/"
+  },
   "EmilSinclair": {
     "title": "Emil Sinclair / 辛克莱尔",
     "url": "/wiki/entities/emilsinclair/"
@@ -18822,6 +18846,10 @@
   "FaceSlappingReversalNarrative": {
     "title": "Face-Slapping Reversal Narrative / 打脸反杀叙事",
     "url": "/wiki/concepts/faceslappingreversalnarrative/"
+  },
+  "FaceToFaceCreativeExchange": {
+    "title": "Face-to-Face Creative Exchange / 面对面创造性交流",
+    "url": "/wiki/concepts/facetofacecreativeexchange/"
   },
   "Facebook": {
     "title": "Facebook",
@@ -24903,6 +24931,10 @@
     "title": "Henry McMaster",
     "url": "/wiki/entities/henrymcmaster/"
   },
+  "HenryMintzberg": {
+    "title": "Henry Mintzberg",
+    "url": "/wiki/entities/henrymintzberg/"
+  },
   "HenryOfNavarre": {
     "title": "Henry of Navarre",
     "url": "/wiki/entities/henryofnavarre/"
@@ -24942,6 +24974,10 @@
   "HerbalSupplementLiverToxicity": {
     "title": "Herbal Supplement Liver Toxicity",
     "url": "/wiki/concepts/herbalsupplementlivertoxicity/"
+  },
+  "HerbertSimon": {
+    "title": "Herbert Simon / 赫伯特·西蒙",
+    "url": "/wiki/entities/herbertsimon/"
   },
   "HeritageFoundation": {
     "title": "Heritage Foundation",
@@ -29554,6 +29590,10 @@
   "JohnMaynardKeynes": {
     "title": "John Maynard Keynes / 凯恩斯",
     "url": "/wiki/entities/johnmaynardkeynes/"
+  },
+  "JohnMcCarthy": {
+    "title": "John McCarthy / 约翰·麦卡锡",
+    "url": "/wiki/entities/johnmccarthy/"
   },
   "JohnMussington": {
     "title": "John Mussington",
@@ -41823,6 +41863,10 @@
     "title": "Perioperative Circadian Recovery",
     "url": "/wiki/concepts/perioperativecircadianrecovery/"
   },
+  "PeripheralInnovationField": {
+    "title": "Peripheral Innovation Field / 边域式创新场域",
+    "url": "/wiki/concepts/peripheralinnovationfield/"
+  },
   "PerishableTributeLaborBurden": {
     "title": "鲜贡劳役负担 / Perishable Tribute Labor Burden",
     "url": "/wiki/concepts/perishabletributelaborburden/"
@@ -45502,6 +45546,10 @@
   "RaySmith": {
     "title": "Ray Smith",
     "url": "/wiki/entities/raysmith/"
+  },
+  "RaySolomonoff": {
+    "title": "Ray Solomonoff / 芮",
+    "url": "/wiki/entities/raysolomonoff/"
   },
   "Raytheon": {
     "title": "Raytheon",
@@ -50235,6 +50283,10 @@
     "title": "Slow Extraction Strategy",
     "url": "/wiki/concepts/slowextractionstrategy/"
   },
+  "SlowGatheringImprovisation": {
+    "title": "Slow Gathering Improvisation / 慢聚慢奏",
+    "url": "/wiki/concepts/slowgatheringimprovisation/"
+  },
   "SlowKundera": {
     "title": "《慢》 / Slowness",
     "url": "/wiki/entities/slowkundera/"
@@ -51802,6 +51854,10 @@
   "StewardOwnership": {
     "title": "Steward Ownership",
     "url": "/wiki/concepts/stewardownership/"
+  },
+  "StewartBrand": {
+    "title": "Stewart Brand",
+    "url": "/wiki/entities/stewartbrand/"
   },
   "StirFryRevival": {
     "title": "Stir-Fry Revival / 爆炒与小炒回潮",
@@ -55027,6 +55083,10 @@
     "title": "Tokyo Stock Exchange",
     "url": "/wiki/entities/tokyostockexchange/"
   },
+  "ToleranceOfDifference": {
+    "title": "Tolerance of Difference / 容差异",
+    "url": "/wiki/concepts/toleranceofdifference/"
+  },
   "TomBlomfield": {
     "title": "Tom Blomfield",
     "url": "/wiki/entities/tomblomfield/"
@@ -56374,6 +56434,10 @@
   "UniversityOfCambridge": {
     "title": "University of Cambridge",
     "url": "/wiki/entities/universityofcambridge/"
+  },
+  "UniversityOfChicago": {
+    "title": "University of Chicago / 芝加哥大学",
+    "url": "/wiki/entities/universityofchicago/"
   },
   "UniversityOfColoradoDenver": {
     "title": "University of Colorado Denver",
@@ -60719,6 +60783,10 @@
     "title": "杨彪 / Yang Biao",
     "url": "/wiki/entities/yangbiao/"
   },
+  "YangBin": {
+    "title": "杨彬 / Yang Bin",
+    "url": "/wiki/entities/yangbin/"
+  },
   "YangBing": {
     "title": "杨冰 / Yang Bing",
     "url": "/wiki/entities/yangbing/"
@@ -61890,6 +61958,10 @@
   "YuzhangCommandery": {
     "title": "豫章郡 / Yuzhang Commandery",
     "url": "/wiki/entities/yuzhangcommandery/"
+  },
+  "YvonChouinard": {
+    "title": "Yvon Chouinard / 伊冯·乔伊纳德",
+    "url": "/wiki/entities/yvonchouinard/"
   },
   "ZTE": {
     "title": "ZTE",

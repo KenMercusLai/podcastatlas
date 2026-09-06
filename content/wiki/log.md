@@ -15679,3 +15679,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-07] ingest | #401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？
+
+Ingested the 2026-08-20 声东击西 episode with Yang Bin on the 1956 Dartmouth AI workshop, AI naming, slow gathering improvisation, peripheral innovation fields, psychological safety, tolerance of difference, Patagonia's climbing-culture roots, counterculture, face-to-face creativity, and AI-era university reform. Added source `401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05`; created `YangBin`, `DartmouthAIWorkshop`, `DartmouthCollege`, `JohnMcCarthy`, `HerbertSimon`, `AllenNewell`, `RaySolomonoff`, `UniversityOfChicago`, `YvonChouinard`, `StewartBrand`, `HenryMintzberg`, `SlowGatheringImprovisation`, `PeripheralInnovationField`, `ToleranceOfDifference`, `EmergentInnovationStrategy`, `FaceToFaceCreativeExchange`, and `AIUniversityCampusReframing`; updated `index` and `overview`. No settled contradiction found; exact Dartmouth participant counts, Ray/token-prediction lineage, the symbolic-versus-probabilistic AI balance, and Dartmouth-to-Patagonia/university analogies remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

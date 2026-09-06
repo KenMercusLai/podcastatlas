@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6523
+wiki_total_pages: 6529
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -419,6 +419,9 @@ wiki_pages:
   - key: "TokugawaForeignTradeAmbivalence"
     title: "Tokugawa Foreign-Trade Ambivalence"
     url: "/wiki/concepts/tokugawaforeigntradeambivalence/"
+  - key: "ToleranceOfDifference"
+    title: "Tolerance of Difference / 容差异"
+    url: "/wiki/concepts/toleranceofdifference/"
   - key: "TombDesecrationPoliticalViolence"
     title: "Tomb-Desecration Political Violence / 陵墓亵渎式政治暴力"
     url: "/wiki/concepts/tombdesecrationpoliticalviolence/"

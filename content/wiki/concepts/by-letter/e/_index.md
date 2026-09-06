@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6523
+wiki_total_pages: 6529
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "EmergencyWarningInfrastructure"
     title: "Emergency Warning Infrastructure"
     url: "/wiki/concepts/emergencywarninginfrastructure/"
+  - key: "EmergentInnovationStrategy"
+    title: "Emergent Innovation Strategy / 涌现式创新战略"
+    url: "/wiki/concepts/emergentinnovationstrategy/"
   - key: "EmoRevivalIdentityCulture"
     title: "Emo Revival Identity Culture"
     url: "/wiki/concepts/emorevivalidentityculture/"

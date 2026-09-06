@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9125
+wiki_total_pages: 9136
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -179,6 +179,12 @@ wiki_pages:
   - key: "DarrenAlpert"
     title: "Darren Alpert"
     url: "/wiki/entities/darrenalpert/"
+  - key: "DartmouthAIWorkshop"
+    title: "Dartmouth AI Workshop / 达特茅斯 AI 夏季研讨会"
+    url: "/wiki/entities/dartmouthaiworkshop/"
+  - key: "DartmouthCollege"
+    title: "Dartmouth College / 达特茅斯学院"
+    url: "/wiki/entities/dartmouthcollege/"
   - key: "DarylFairweather"
     title: "Daryl Fairweather"
     url: "/wiki/entities/darylfairweather/"
