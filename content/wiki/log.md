@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-07] ingest | No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理
+
+Ingested the 2026-08-18 三五环 crossover with Zhang Hongliang / 玉米 from 万物生长 on sleep rhythm, deep sleep, REM, caffeine, alcohol, morning light, sleep-score anxiety, 8Sleep dynamic temperature, bed-based sensing, and consumer sleep-hardware subscription economics. Added source `no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil`; created `ZhangHongliang`, `WanwuShengzhang`, `BedBasedSleepSensing`, and `ConsumerSleepHardwareSubscription`; updated `EightSleep`, `SleepTemperatureToolkit`, `SleepStageFunctionalArchitecture`, `SubstanceSleepArchitectureBoundary`, `WearableHealthDataAnxiety`, `CaffeineAdenosineSleepTiming`, `SleepWakeTimingToolkit`, `index`, and `overview`. No settled contradiction found; 8Sleep effect claims, sleep-stage estimates, referral/adoption figures, and sleep-medicine suggestions remain source-scoped.
+
 ## [2026-09-07] ingest | 她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮
 
 Ingested the 2026-09-06 十字路口Crossing interview with Chen Anni on Kuaikan Manhua's LIVO, AI-native narrative worlds, agentic character subjectivity, fate-centered interaction, content taste under recommendation pressure, commercialization as protection for creative ideals, game-spirit organization, and retro humanist AI content. Added source `ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof`; created `ChenAnni`, `KuaikanManhua`, `LIVO`, `AINativeNarrativeWorlds`, `AgenticCharacterSubjectivity`, `NarrativeFateInteraction`, `ContentAestheticOverMetrics`, `CommercializationProtectsCreativeIdeals`, `GameSpiritOrganization`, and `RetroHumanistAIContent`; updated `index` and `overview`. No settled contradiction found; LIVO product-market fit, technical architecture, user data, funding claims, and IP-revenue causality remain source-scoped.
@@ -15703,6 +15707,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？
 
 Ingested the 2026-08-18 无时差研究所 episode using 王妈妈's South Africa trip to connect travel safety, Johannesburg, Soweto, Constitution Hill, the Apartheid Museum, Robben Island, Kruger Safari, Cape Town, Mandela memory, and post-apartheid structural inequality. Added source `ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk`; created `Johannesburg`, `Soweto`, `ConstitutionHillJohannesburg`, `ApartheidMuseumJohannesburg`, `RobbenIsland`, `CapeTown`, `KrugerNationalPark`, `PostApartheidStructuralInequality`, and `ComplexDestinationTravelRisk`; updated `SouthAfrica`, `Apartheid`, `NelsonMandela`, `WushichaYanjiusuo`, `index`, and `overview`. No settled contradiction found; crime, corruption, education-ratio, labor-pattern, migration, and local-opinion claims remain source-scoped travel observations and conversations.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

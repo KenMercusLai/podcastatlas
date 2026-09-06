@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 914
+topic_total_pages: 916
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2363,6 +2363,9 @@ topic_entities:
   - key: "TheDemonHauntedWorld"
     title: "《魔鬼出没的世界》 / The Demon-Haunted World"
     url: "/wiki/entities/thedemonhauntedworld/"
+  - key: "WanwuShengzhang"
+    title: "万物生长"
+    url: "/wiki/entities/wanwushengzhang/"
   - key: "SanlianLifeWeekly"
     title: "三联生活周刊 / Sanlian Life Weekly"
     url: "/wiki/entities/sanlianlifeweekly/"
@@ -2384,6 +2387,9 @@ topic_entities:
   - key: "SunRuoxi"
     title: "孙若曦 / Sun Ruoxi"
     url: "/wiki/entities/sunruoxi/"
+  - key: "ZhangHongliang"
+    title: "张弘亮 / 玉米"
+    url: "/wiki/entities/zhanghongliang/"
   - key: "ZhangWenhong"
     title: "张文宏 / Zhang Wenhong"
     url: "/wiki/entities/zhangwenhong/"

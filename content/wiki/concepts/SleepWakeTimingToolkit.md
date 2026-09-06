@@ -5,7 +5,8 @@ tags: [sleep, circadian-rhythm, health, behavior-change]
 sources:
   - essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468
   - essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982
-last_updated: 2026-09-05
+  - no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil
+last_updated: 2026-09-07
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,14 +20,16 @@ The current evidence makes sleep a 24-hour systems problem. The dedicated toolki
 
 Sleep-stage architecture supplies the internal layer behind that timing advice. A regular bedtime matters because early slow-wave sleep is tied to growth hormone, energy rebuilding, brain cleanup, and memory processing, while later REM-rich cycles support creativity and emotional memory. This does not force one universal bedtime: stable shifted circadian rhythms can change how a sleep window should be interpreted, while occasional delay may still miss the usual early-night window.
 
+The 三五环 crossover adds a Chinese consumer-health version of the same hierarchy. The hosts treat stable rhythm as more basic than one-night duration, use morning sunlight to anchor cortisol and alertness, and use daytime energy as a practical check on whether timing is working. They also show why timing tools can become commercial products: [[EightSleep|8Sleep]] turns temperature timing and wake timing into an automated environment rather than a manual nightly routine.
+
 ## Key Claims
 - Sleep is framed as the output of a full-day timing system rather than a bedtime-only behavior.
 - Morning outdoor light, especially within 30-60 minutes after waking, is the strongest external anchor in the sleep-toolkit source.
-- Light, temperature, caffeine, food, movement, naps, exercise, and social timing can either reinforce or disrupt sleep-wake timing.
+- Light, temperature, caffeine, food, movement, naps, exercise, and social timing can either reinforce or disrupt sleep-wake timing, including during jet lag, shift work, or unusually early wake-ups.
 - Evening darkness, reduced overhead light, calming routines, and a cool sleep environment protect the sleep side of the cycle.
 - Consistent sleep timing matters because early slow-wave and later REM-rich windows have different functions.
 - Alcohol, THC, supplements, and melatonin are treated as bounded interventions, not replacements for circadian, behavioral, and stage-architecture cues.
-- Clock-shifting for jet lag, shift work, or early wake-ups depends on timing relative to the temperature minimum and the person's actual circadian rhythm.
+- Stable rhythm is presented as more important than irregular catch-up sleep, and daytime energy, attention, yawning, nap need, or coffee dependence can indicate misalignment.
 
 ## Evidence
 - Full-day system - [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]] frames sleep as a 24-hour cycle shaped by morning light, temperature, caffeine, meals, naps, late-day light, evening darkness, substances, supplements, and consistency.
@@ -35,6 +38,8 @@ Sleep-stage architecture supplies the internal layer behind that timing advice. 
 - Clock shifting - [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]] uses the temperature minimum to explain why the same light, movement, food, or caffeine cue can delay or advance the clock.
 - Stage timing - [[essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982]] links early-night slow-wave sleep with restoration and memory processing, and later-night REM sleep with creativity and emotional memory.
 - Regularity boundary - [[essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982]] says sleeping later than usual may miss the normal early-night washout window, while a stably shifted circadian rhythm may change that interpretation.
+- Rhythm and daytime function - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] prioritizes stable sleep rhythm and uses daytime energy as a sleep-quality signal.
+- Product automation - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] describes 8Sleep automating temperature and wake timing after learning the user's sleep habits.
 
 ## Counterevidence & Qualifications
 The sources are public sleep education, not clinical sleep-medicine protocols. They do not settle individual treatment for insomnia, sleep apnea, psychiatric illness, medication effects, pregnancy, pediatric sleep, shift-work safety, trauma-related nightmares, or serious circadian disorders. The supplement, red-light, THC, alcohol, sauna, cold-exposure, tracker, growth-hormone, REM, and travel claims remain source-scoped.
@@ -43,6 +48,7 @@ The sources are public sleep education, not clinical sleep-medicine protocols. T
 - Added Gina Poe's sleep-stage timing layer to the existing 24-hour cue toolkit.
 - Clarified that consistency matters because the night contains different physiological windows, not only because routines are behaviorally convenient.
 - Qualified bedtime advice for stably shifted circadian rhythms.
+- Added the 三五环 crossover's rhythm-first, morning-light, daytime-energy, and automated sleep-environment examples.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account that this toolkit operationalizes.
@@ -54,3 +60,4 @@ The sources are public sleep education, not clinical sleep-medicine protocols. T
 - [[SubstanceSleepArchitectureBoundary]] - sedation-versus-sleep-quality boundary inside the toolkit.
 - [[SleepSupplementBoundary]] - supplement and melatonin boundary inside the toolkit.
 - [[TemperatureMinimumClockShifting]] - travel, shift-work, and phase-shifting branch inside the toolkit.
+- [[BedBasedSleepSensing]] - home sensing branch that can automate sleep-environment timing.

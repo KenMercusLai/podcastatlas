@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6540
+wiki_total_pages: 6542
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1376,6 +1376,9 @@ wiki_pages:
   - key: "ConsumerSentimentIndicator"
     title: "Consumer Sentiment Indicator"
     url: "/wiki/concepts/consumersentimentindicator/"
+  - key: "ConsumerSleepHardwareSubscription"
+    title: "Consumer Sleep Hardware Subscription / 消费级睡眠硬件订阅"
+    url: "/wiki/concepts/consumersleephardwaresubscription/"
   - key: "ConsumerTrendSpotting"
     title: "Consumer Trend Spotting"
     url: "/wiki/concepts/consumertrendspotting/"

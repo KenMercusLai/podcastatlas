@@ -65601,6 +65601,13 @@
       "url": "/topics/history/"
     }
   ],
+  "WanwuShengzhang": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "WarAndIntimacyBreakdown": [
     {
       "key": "culture",
@@ -69693,6 +69700,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ZhangHongliang": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ZhangHua": [

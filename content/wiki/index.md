@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理](sources/no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil.md) — 三五环 crossover with Zhang Hongliang on sleep rhythm, deep sleep, REM, caffeine, alcohol, 8Sleep dynamic temperature, bed-based sensing, and consumer sleep-hardware subscriptions.
 - [与段志强谈崇明乡野博物志：《我住长江尾》](sources/yu-duan-zhiqiang-tan-chongming-xiangye-bowuzhi-wo-zhu-changjiang-wei-8212963740-775078.md) — 博物志 episode with Duan Zhiqiang on Chongming farming, rural neighbor order, amateur versus livelihood agriculture, the writing of 《我住长江尾》, and practice-based reading of agricultural texts.
 - [EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？](sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk.md) — 无时差研究所 episode using a South Africa trip to connect travel safety, Johannesburg, Soweto, apartheid memory, Mandela, Robben Island, Safari, Cape Town, and post-apartheid inequality.
 - [vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切](sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i.md) — 天真不天真 return conversation with Song Jia on pausing work, acting through transmission and scent, inward self-cultivation, benevolent speech, relationships, sincere emotional support, travel, and detaching from praise or criticism.
@@ -1967,6 +1968,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [张弘亮 / 玉米](entities/ZhangHongliang.md) — 万物生长 host appearing in the 三五环 sleep crossover with a practical lens on rhythm, sleep stages, 8Sleep, and Chinese health-tech adoption.
+- [万物生长](entities/WanwuShengzhang.md) — Podcast represented here by Zhang Hongliang's crossover appearance on sleep management, 8Sleep, and consumer health technology.
 - [段志强 / Duan Zhiqiang](entities/DuanZhiqiang.md) — Writer and farming practitioner using Chongming rural life to connect labor, classical reading, food history, and nonfiction.
 - [《我住长江尾》 / Wo Zhu Changjiang Wei](entities/WoZhuChangjiangWei.md) — Duan Zhiqiang's rural-life nonfiction book formed from farming notes, textual reflection, and Chongming observation.
 - [博物志 / Bowuzhi Podcast](entities/BowuzhiPodcast.md) — Podcast show route disambiguated from the older 《博物志》 text and grounded here by the Duan Zhiqiang episode.
@@ -11120,6 +11123,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Bed-Based Sleep Sensing / 床面睡眠传感](concepts/BedBasedSleepSensing.md) — Consumer sleep-tech approach using bed-surface signals to estimate sleep state and feed environmental interventions such as dynamic temperature.
+- [Consumer Sleep Hardware Subscription / 消费级睡眠硬件订阅](concepts/ConsumerSleepHardwareSubscription.md) — Business-model pattern for high-priced sleep hardware that relies on ongoing software, personalization, health services, and subscription acceptance.
 - [Amateur Farming Vs Livelihood Agriculture / 业余种地与生计农业](concepts/AmateurFarmingVsLivelihoodAgriculture.md) — Distinction between farming as chosen experience and farming as income-dependent survival.
 - [Rural Circular Use Economy / 乡村循环利用经济](concepts/RuralCircularUseEconomy.md) — Practice of keeping crop residues, soil, water, scrap, furniture, and space moving through additional rural uses.
 - [Agricultural Practice As Textual Entry / 农业实践作为文本入场券](concepts/AgriculturalPracticeAsTextualEntry.md) — Method where doing farm work changes how a reader approaches agricultural books, classical texts, food history, and older writers.
