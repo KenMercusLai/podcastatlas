@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9112
+wiki_total_pages: 9115
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -515,6 +515,9 @@ wiki_pages:
   - key: "ChelseaFC"
     title: "Chelsea FC"
     url: "/wiki/entities/chelseafc/"
+  - key: "ChenAnni"
+    title: "Chen Anni / 陈安妮"
+    url: "/wiki/entities/chenanni/"
   - key: "ChenCihong"
     title: "Chen Cihong / 陈慈黉"
     url: "/wiki/entities/chencihong/"

@@ -2239,6 +2239,10 @@
     "title": "AI-Native Investing Workflow",
     "url": "/wiki/concepts/ainativeinvestingworkflow/"
   },
+  "AINativeNarrativeWorlds": {
+    "title": "AI-Native Narrative Worlds",
+    "url": "/wiki/concepts/ainativenarrativeworlds/"
+  },
   "AINativeProductDesign": {
     "title": "AI Native Product Design",
     "url": "/wiki/concepts/ainativeproductdesign/"
@@ -3634,6 +3638,10 @@
   "AgenticB2BSourcing": {
     "title": "Agentic B2B Sourcing",
     "url": "/wiki/concepts/agenticb2bsourcing/"
+  },
+  "AgenticCharacterSubjectivity": {
+    "title": "Agentic Character Subjectivity",
+    "url": "/wiki/concepts/agenticcharactersubjectivity/"
   },
   "AgenticCommerce": {
     "title": "Agentic Commerce",
@@ -10283,6 +10291,10 @@
     "title": "Chemosensation",
     "url": "/wiki/concepts/chemosensation/"
   },
+  "ChenAnni": {
+    "title": "Chen Anni / 陈安妮",
+    "url": "/wiki/entities/chenanni/"
+  },
   "ChenBaoLateHan": {
     "title": "陈鲍 / Chen Bao (late Han)",
     "url": "/wiki/entities/chenbaolatehan/"
@@ -12339,6 +12351,10 @@
     "title": "Commercial Vehicle Industrial Base",
     "url": "/wiki/concepts/commercialvehicleindustrialbase/"
   },
+  "CommercializationProtectsCreativeIdeals": {
+    "title": "Commercialization Protects Creative Ideals",
+    "url": "/wiki/concepts/commercializationprotectscreativeideals/"
+  },
   "CommodityFuturesTradingCommission": {
     "title": "Commodity Futures Trading Commission",
     "url": "/wiki/entities/commodityfuturestradingcommission/"
@@ -12826,6 +12842,10 @@
   "ContactNovel": {
     "title": "《接触》 / Contact",
     "url": "/wiki/entities/contactnovel/"
+  },
+  "ContentAestheticOverMetrics": {
+    "title": "Content Aesthetic Over Metrics",
+    "url": "/wiki/concepts/contentaestheticovermetrics/"
   },
   "ContentCredentials": {
     "title": "Content Credentials",
@@ -21686,6 +21706,10 @@
   "GamePreservation": {
     "title": "Game Preservation",
     "url": "/wiki/concepts/gamepreservation/"
+  },
+  "GameSpiritOrganization": {
+    "title": "Game Spirit Organization",
+    "url": "/wiki/concepts/gamespiritorganization/"
   },
   "GameStop": {
     "title": "GameStop",
@@ -30855,6 +30879,10 @@
     "title": "会稽郡守府夺权 / Kuaiji Commandery Coup",
     "url": "/wiki/concepts/kuaijicommanderycoup/"
   },
+  "KuaikanManhua": {
+    "title": "Kuaikan Manhua / 快看漫画",
+    "url": "/wiki/entities/kuaikanmanhua/"
+  },
   "Kuaishou": {
     "title": "Kuaishou",
     "url": "/wiki/entities/kuaishou/"
@@ -30966,6 +30994,10 @@
   "LDesign": {
     "title": "L-Design",
     "url": "/wiki/entities/ldesign/"
+  },
+  "LIVO": {
+    "title": "LIVO",
+    "url": "/wiki/entities/livo/"
   },
   "LLMStatisticalBoundary": {
     "title": "LLM Statistical Boundary",
@@ -38290,6 +38322,10 @@
   "NarkinaFive": {
     "title": "Narkina Five",
     "url": "/wiki/entities/narkinafive/"
+  },
+  "NarrativeFateInteraction": {
+    "title": "Narrative Fate Interaction",
+    "url": "/wiki/concepts/narrativefateinteraction/"
   },
   "NarrativeMisdirection": {
     "title": "Narrative Misdirection / 叙事误导",
@@ -46374,6 +46410,10 @@
   "RetrievalAugmentedGeneration": {
     "title": "Retrieval-Augmented Generation",
     "url": "/wiki/concepts/retrievalaugmentedgeneration/"
+  },
+  "RetroHumanistAIContent": {
+    "title": "Retro Humanist AI Content",
+    "url": "/wiki/concepts/retrohumanistaicontent/"
   },
   "RetroProductRevival": {
     "title": "Retro Product Revival",
@@ -65986,6 +66026,10 @@
   "sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908": {
     "title": "Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.",
     "url": "/wiki/sources/sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908/"
+  },
+  "ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof": {
+    "title": "她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮",
+    "url": "/wiki/sources/ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof/"
   },
   "ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec": {
     "title": "她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO",

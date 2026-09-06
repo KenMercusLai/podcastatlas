@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9112
+wiki_total_pages: 9115
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "LiverpoolFC"
     title: "Liverpool FC"
     url: "/wiki/entities/liverpoolfc/"
+  - key: "LIVO"
+    title: "LIVO"
+    url: "/wiki/entities/livo/"
   - key: "Livora"
     title: "Livora"
     url: "/wiki/entities/livora/"

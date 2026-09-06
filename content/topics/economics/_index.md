@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1942
+topic_total_pages: 1945
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -583,6 +583,9 @@ topic_concepts:
   - key: "CoffeeCommodityPolitics"
     title: "Coffee Commodity Politics"
     url: "/wiki/concepts/coffeecommoditypolitics/"
+  - key: "CommercializationProtectsCreativeIdeals"
+    title: "Commercialization Protects Creative Ideals"
+    url: "/wiki/concepts/commercializationprotectscreativeideals/"
   - key: "CommodityTimeHorizonFramework"
     title: "Commodity Time-Horizon Framework"
     url: "/wiki/concepts/commoditytimehorizonframework/"
@@ -1267,6 +1270,9 @@ topic_concepts:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
     url: "/wiki/concepts/gainconversionassetform/"
+  - key: "GameSpiritOrganization"
+    title: "Game Spirit Organization"
+    url: "/wiki/concepts/gamespiritorganization/"
   - key: "GameTheory"
     title: "Game Theory"
     url: "/wiki/concepts/gametheory/"
@@ -5811,6 +5817,9 @@ topic_sources:
   - key: "shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716"
     title: "商业小样48 | 不要在财报中创造指标"
     url: "/wiki/sources/shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716/"
+  - key: "ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof"
+    title: "她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮"
+    url: "/wiki/sources/ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof/"
   - key: "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b"
     title: "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26"
     url: "/wiki/sources/yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b/"

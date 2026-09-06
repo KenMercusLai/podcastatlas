@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6508
+wiki_total_pages: 6515
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "NarcolepsyWakeSleepBoundary"
     title: "Narcolepsy Wake-Sleep Boundary"
     url: "/wiki/concepts/narcolepsywakesleepboundary/"
+  - key: "NarrativeFateInteraction"
+    title: "Narrative Fate Interaction"
+    url: "/wiki/concepts/narrativefateinteraction/"
   - key: "NarrativeMisdirection"
     title: "Narrative Misdirection / 叙事误导"
     url: "/wiki/concepts/narrativemisdirection/"

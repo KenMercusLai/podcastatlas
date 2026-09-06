@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6508
+wiki_total_pages: 6515
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "CommercialVehicleIndustrialBase"
     title: "Commercial Vehicle Industrial Base"
     url: "/wiki/concepts/commercialvehicleindustrialbase/"
+  - key: "CommercializationProtectsCreativeIdeals"
+    title: "Commercialization Protects Creative Ideals"
+    url: "/wiki/concepts/commercializationprotectscreativeideals/"
   - key: "CommodityPriceExposure"
     title: "Commodity Price Exposure"
     url: "/wiki/concepts/commoditypriceexposure/"
@@ -1376,6 +1379,9 @@ wiki_pages:
   - key: "ContactCenterAI"
     title: "Contact Center AI"
     url: "/wiki/concepts/contactcenterai/"
+  - key: "ContentAestheticOverMetrics"
+    title: "Content Aesthetic Over Metrics"
+    url: "/wiki/concepts/contentaestheticovermetrics/"
   - key: "ContentCredentials"
     title: "Content Credentials"
     url: "/wiki/concepts/contentcredentials/"
