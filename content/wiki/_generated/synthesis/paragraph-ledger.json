@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ea4d055294733a028d61596483e9fff86bc6afa9235899b304649b11ee92a556",
       "fb5fc116f0863304bb2f80654112e430701be3452fe78412731a0fdf13eddc54",
       "f16f081698deab1f8c03274c799d0a2cdec4d918db2e50f99afa82efdff678c0",
       "6384941179f91a79832010fdfa34af1287826a7db0a91c28414171eb2c389428",
@@ -554,11 +555,37 @@
       "7aedd968f8b89040d8bacab2545ab2c77f01a1e9fd0bfca68a06280e10b552e8",
       "ba7d5a4b2effc25ea8893c2adaf8d069d7e26a7909c0818f6c652ebda5aa350a"
     ],
-    "paragraph_count": 552
+    "paragraph_count": 553
   },
-  "overview_commit": "ef10920f101c993dd43954a6a74fa8165eb8560b",
-  "overview_digest": "0d9124f43baee871a286dfe0926ba6a1dda9e91eca26e43fb0623fadcc94de70",
+  "overview_commit": "6b271f5ef0fae656888c892d1038a13c3568273e",
+  "overview_digest": "a21c47d195c0a3b56e766d9736a6732244d4bade44a4e33ced23d7daffdb65e2",
   "paragraphs": [
+    {
+      "id": "ea4d055294733a028d61596483e9fff86bc6afa9235899b304649b11ee92a556",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode filling the Guandu transition between the White Horse/Yanjin shocks and the later Wuchao supply crisis. It adds [[GongDuLateHan|龚都]], [[CaiYangLateHan|蔡阳]], [[YangwuGuanduLateHan|阳武]], [[ShaqiuGuanduLateHan|沙丘]], [[StrategicPatronExitJudgment|主公前途与安全退出判断]], and [[FixedCampSiegeEngineering|营垒攻防工程]], while extending [[GuanduCampaign|官渡之战]], [[RunanCommanderyLateHan|汝南郡]], [[CaoRen|曹仁]], and [[ResourceAsymmetryAttrition|资源不对称消耗战]]. Its core synthesis is that Liu Bei's departure from Yuan Shao is framed as a controlled patron-exit judgment, while Ju Shou's rejected Yangwu advice and the Shaqiu camp-engineering standoff show Yuan failing to convert superior resources into time pressure before Cao Cao's supply crisis. No settled contradiction is recorded; Liu Bei's motive, the transcript's \"尹川\" wording, and Shaqiu/Yangwu place identities remain source-scoped or disambiguated.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "CaiYangLateHan",
+        "CaoRen",
+        "FixedCampSiegeEngineering",
+        "GongDuLateHan",
+        "GuanduCampaign",
+        "ResourceAsymmetryAttrition",
+        "RuiqiJiangtouZizhiTongjian",
+        "RunanCommanderyLateHan",
+        "ShaqiuGuanduLateHan",
+        "StrategicPatronExitJudgment",
+        "YangwuGuanduLateHan",
+        "zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm"
+      ]
+    },
     {
       "id": "fb5fc116f0863304bb2f80654112e430701be3452fe78412731a0fdf13eddc54",
       "primary_topic": "work-education-and-society",

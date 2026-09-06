@@ -15600,9 +15600,33 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-07] ingest | 《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？
+
+Ingested the 2026-08-27 芮淇讲透资治通鉴 episode on Liu Bei's Runan pressure and exit from Yuan Shao, Cao Ren's counterattack, Gong Du and Cai Yang, Ju Shou's rejected long-war advice at Yangwu, and the Shaqiu-to-Guandu camp engineering standoff. Added source `zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm`; created `GongDuLateHan`, `CaiYangLateHan`, `YangwuGuanduLateHan`, `ShaqiuGuanduLateHan`, `StrategicPatronExitJudgment`, and `FixedCampSiegeEngineering`; updated `GuanduCampaign`, `RunanCommanderyLateHan`, `CaoRen`, `ResourceAsymmetryAttrition`, `index`, and `overview`. No settled contradiction found; Liu Bei's motive explanation, 尹川/颍川 wording, and Shaqiu/Yangwu place identities remain source-scoped or disambiguated.
+
 ## [2026-09-07] ingest | 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
 
 Ingested the 2026-08-28 忽左忽右 episode using Ceuta to connect Moroccan migration crossings, Strait of Gibraltar geography, ancient and medieval Mediterranean rule, Portuguese expansion, Spanish sovereignty, and migration weaponization. Added source `496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw`; created `LuDapeng`, `StraitOfGibraltar`, `Gibraltar`, `IberianPeninsula`, `VandalKingdom`, `ByzantineEmpire`, `AlAndalus`, `CordobaCaliphate`, `AlIdrisi`, `JohnIOfPortugal`, `HenryTheNavigator`, `CeutaImperialBorderland`, `IberianReconquista`, and `PortugueseMaritimeExpansion`; updated `Ceuta`, `Morocco`, `Portugal`, `MigrationWeaponization`, `BorderLegalSignal`, `HuzuoHuyou`, `ChengYanliang`, `index`, and `overview`. No settled contradiction found; Count Julian, the southern Pillar of Hercules identification, Moroccan intent in the 2026 crossings, and the 1415-as-Age-of-Discovery-origin claim remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-07] ingest | #402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿
+
+Ingested the 2026-08-27 声东击西 episode with WFP worker Wang Hongrui on South Sudan refugee hunger, Wedweil camp registration gaps, reduced emergency cash assistance, nutrition triage, humanitarian funding shortfalls, and school meals as an education-access channel. Added source `402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de`; created `SouthSudan`, `WorldFoodProgramme`, `UNHCR`, `WangHongrui`, `WedweilRefugeeCamp`, `Aweil`, `RefugeeAidRegistrationGap`, `EmergencyCashAssistance`, `NutritionTriageThreshold`, `HumanitarianAidFundingShortfall`, `SchoolMealsAsEducationAccess`, and `HumanitarianWitnessingBoundary`; updated `ShengdongJixi` and `index`. No settled contradiction found; population counts, funding amounts, October-aid-cancellation timing, election-security forecasts, and individual refugee accounts remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-07] ingest | 说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？
+
+Ingested the 2026-08-26 说得好听 episode with Mureka product lead 叶律 and ACR Cloud co-founder Tony on AI music after basic generation becomes ordinary. Added source `shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc`; created `ShuoDeHaoTing`, `Mureka`, `ACRCloud`, `YeLuMureka`, `TonyACRCloud`, `AIMusicWorkflowIntegration`, `AIMusicDetectionAndLabeling`, and `AIMusicSettlementParity`; updated `GenerativeAIMusic`, `MusicIndustryAIResponse`, `index`, and `overview`. No settled contradiction found; detection accuracy, exact AI participation percentages, DSP payout policy, training-data compensation, and long-term AI classic-song potential remain source-scoped.
 
 ## [2026-09-07] lint | Wiki health check
 

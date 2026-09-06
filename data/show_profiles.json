@@ -1436,10 +1436,10 @@
       ]
     },
     "十字路口Crossing": {
-      "episode_count": 27,
+      "episode_count": 28,
       "earliest_episode_date": "2026-03-08",
-      "latest_episode_date": "2026-09-02",
-      "latest_episode_file": "对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！ [lh4SK1Hb1cwhPR-tTGQrbIQ-psOP].md",
+      "latest_episode_date": "2026-09-06",
+      "latest_episode_file": "她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮 [loMvN15fklK80bHKREiEd1iOtUOf].md",
       "source_note_count": 27,
       "topic_matched_source_note_count": 24,
       "topics": [
@@ -1502,9 +1502,9 @@
       ],
       "start_here_episode_files": [
         "对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！ [lh4SK1Hb1cwhPR-tTGQrbIQ-psOP].md",
+        "她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮 [loMvN15fklK80bHKREiEd1iOtUOf].md",
         "AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人⧸CEO [lsQ-rKE8nfRBI5xaLGst3A8uncfD].md",
-        "22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人⧸CEO [ljW_dMOCRyibLF0k3Rkz8EoNKQOx].md",
-        "「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人 [lmJsNPP7D75YHqH7boVJ1bV6YHBk].md"
+        "22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人⧸CEO [ljW_dMOCRyibLF0k3Rkz8EoNKQOx].md"
       ]
     },
     "半拿铁 | 商业沉浮录": {
@@ -1619,8 +1619,8 @@
       ]
     },
     "史蒂夫说": {
-      "episode_count": 4,
-      "earliest_episode_date": "2026-07-18",
+      "episode_count": 5,
+      "earliest_episode_date": "2026-07-08",
       "latest_episode_date": "2026-08-29",
       "latest_episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
       "source_note_count": 1,
@@ -1719,11 +1719,11 @@
       ]
     },
     "声东击西": {
-      "episode_count": 6,
-      "earliest_episode_date": "2026-07-16",
+      "episode_count": 8,
+      "earliest_episode_date": "2026-07-09",
       "latest_episode_date": "2026-09-03",
       "latest_episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
-      "source_note_count": 1,
+      "source_note_count": 2,
       "topic_matched_source_note_count": 1,
       "topics": [
         {
@@ -2283,6 +2283,20 @@
         "Vol. 170 Fable 5 重出江湖，GPT 仍需努力 (1) [6674-1].md"
       ]
     },
+    "独树不成林": {
+      "episode_count": 2,
+      "earliest_episode_date": "2026-07-15",
+      "latest_episode_date": "2026-07-15",
+      "latest_episode_file": "luvc8M2kuqKYv2hddFCsE_6ogxym [luvc8M2kuqKYv2hddFCsE_6ogxym].md",
+      "source_note_count": 0,
+      "topic_matched_source_note_count": 0,
+      "topics": [],
+      "entities": [],
+      "start_here_episode_files": [
+        "luvc8M2kuqKYv2hddFCsE_6ogxym [luvc8M2kuqKYv2hddFCsE_6ogxym].md",
+        "FqgvBt9nAq3U9DkDAbVCzVW-3-u5 [FqgvBt9nAq3U9DkDAbVCzVW-3-u5].md"
+      ]
+    },
     "电影巨辩": {
       "episode_count": 3,
       "earliest_episode_date": "2026-07-28",
@@ -2686,8 +2700,8 @@
       ]
     },
     "罗永浩的十字路口": {
-      "episode_count": 4,
-      "earliest_episode_date": "2026-07-24",
+      "episode_count": 6,
+      "earliest_episode_date": "2026-07-10",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
       "source_note_count": 1,
@@ -2713,7 +2727,7 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-09-05",
       "latest_episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
-      "source_note_count": 714,
+      "source_note_count": 715,
       "topic_matched_source_note_count": 310,
       "topics": [
         {
@@ -2958,9 +2972,22 @@
       "earliest_episode_date": "2026-08-26",
       "latest_episode_date": "2026-08-26",
       "latest_episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
-      "source_note_count": 0,
-      "topic_matched_source_note_count": 0,
-      "topics": [],
+      "source_note_count": 1,
+      "topic_matched_source_note_count": 1,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 1
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
+        }
+      ],
       "entities": [],
       "start_here_episode_files": [
         "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md"

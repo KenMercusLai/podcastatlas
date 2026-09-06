@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9097
+wiki_total_pages: 9112
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "Acquired"
     title: "Acquired"
     url: "/wiki/entities/acquired/"
+  - key: "ACRCloud"
+    title: "ACR Cloud"
+    url: "/wiki/entities/acrcloud/"
   - key: "ActForTheQueensSafety"
     title: "Act for the Queen's Safety"
     url: "/wiki/entities/actforthequeenssafety/"
@@ -1346,6 +1349,9 @@ wiki_pages:
   - key: "AWEChina"
     title: "AWE China / 中国家电及消费电子博览会"
     url: "/wiki/entities/awechina/"
+  - key: "Aweil"
+    title: "Aweil / 阿维尔"
+    url: "/wiki/entities/aweil/"
   - key: "Axio"
     title: "Axio"
     url: "/wiki/entities/axio/"

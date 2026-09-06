@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6497
+wiki_total_pages: 6508
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -638,9 +638,15 @@ wiki_pages:
   - key: "HumanisticScienceCommunication"
     title: "Humanistic Science Communication"
     url: "/wiki/concepts/humanisticsciencecommunication/"
+  - key: "HumanitarianAidFundingShortfall"
+    title: "Humanitarian Aid Funding Shortfall / 人道援助资金缺口"
+    url: "/wiki/concepts/humanitarianaidfundingshortfall/"
   - key: "HumanitarianIsolation"
     title: "Humanitarian Isolation"
     url: "/wiki/concepts/humanitarianisolation/"
+  - key: "HumanitarianWitnessingBoundary"
+    title: "Humanitarian Witnessing Boundary / 人道见证边界"
+    url: "/wiki/concepts/humanitarianwitnessingboundary/"
   - key: "HumanoidRobotCommercialization"
     title: "Humanoid Robot Commercialization"
     url: "/wiki/concepts/humanoidrobotcommercialization/"

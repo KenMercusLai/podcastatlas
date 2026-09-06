@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9097
+wiki_total_pages: 9112
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -695,6 +695,9 @@ wiki_pages:
   - key: "TonleSapLake"
     title: "Tonle Sap Lake / 洞里萨湖"
     url: "/wiki/entities/tonlesaplake/"
+  - key: "TonyACRCloud"
+    title: "Tony / ACR Cloud"
+    url: "/wiki/entities/tonyacrcloud/"
   - key: "TonyDeRosa"
     title: "Tony DeRosa"
     url: "/wiki/entities/tonyderosa/"

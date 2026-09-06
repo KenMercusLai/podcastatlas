@@ -2191,6 +2191,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ACRCloud": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AFTRA": [
     {
       "key": "culture",
@@ -3940,6 +3947,42 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "AIMusicDetectionAndLabeling": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "AIMusicSettlementParity": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "AIMusicWorkflowIntegration": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "AINPCSocialInfrastructure": [
@@ -30787,6 +30830,13 @@
       "url": "/topics/science/"
     }
   ],
+  "HumanitarianAidFundingShortfall": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HumanitarianIsolation": [
     {
       "key": "politics",
@@ -42385,6 +42435,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "Mureka": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "MuscleAsLongevityInfrastructure": [
     {
       "key": "science",
@@ -53974,6 +54036,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "SchoolMealsAsEducationAccess": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ScienceCommunicationDisadvantage": [
     {
       "key": "culture",
@@ -55702,6 +55771,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ShuoDeHaoTing": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ShuojieHanzi150Jiang": [
@@ -62400,6 +62476,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "TonyACRCloud": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TonyContentEngineer": [
     {
       "key": "technology",
@@ -68377,6 +68465,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "YeLuMureka": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "YeWarringStates": [
     {
       "key": "history",
@@ -73682,6 +73782,18 @@
     }
   ],
   "shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
     {
       "key": "culture",
       "label": "Culture",

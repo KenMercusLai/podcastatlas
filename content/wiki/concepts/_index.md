@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6497
+wiki_total_pages: 6508
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -953,6 +953,15 @@ wiki_pages:
   - key: "AIModelValueSurveying"
     title: "AI Model Value Surveying"
     url: "/wiki/concepts/aimodelvaluesurveying/"
+  - key: "AIMusicDetectionAndLabeling"
+    title: "AI Music Detection and Labeling"
+    url: "/wiki/concepts/aimusicdetectionandlabeling/"
+  - key: "AIMusicSettlementParity"
+    title: "AI Music Settlement Parity"
+    url: "/wiki/concepts/aimusicsettlementparity/"
+  - key: "AIMusicWorkflowIntegration"
+    title: "AI Music Workflow Integration"
+    url: "/wiki/concepts/aimusicworkflowintegration/"
   - key: "AINativeProductDesign"
     title: "AI Native Product Design"
     url: "/wiki/concepts/ainativeproductdesign/"

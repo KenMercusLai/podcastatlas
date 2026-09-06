@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9097
+wiki_total_pages: 9112
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "WEDEnterprises"
     title: "WED Enterprises"
     url: "/wiki/entities/wedenterprises/"
+  - key: "WedweilRefugeeCamp"
+    title: "Wedweil Refugee Camp / 维德维尔难民营"
+    url: "/wiki/entities/wedweilrefugeecamp/"
   - key: "Weebly"
     title: "Weebly"
     url: "/wiki/entities/weebly/"
@@ -497,6 +500,9 @@ wiki_pages:
   - key: "WorldBank"
     title: "World Bank"
     url: "/wiki/entities/worldbank/"
+  - key: "WorldFoodProgramme"
+    title: "World Food Programme / 世界粮食计划署"
+    url: "/wiki/entities/worldfoodprogramme/"
   - key: "WorldGoldCouncil"
     title: "World Gold Council / 世界黄金协会"
     url: "/wiki/entities/worldgoldcouncil/"
@@ -1067,6 +1073,9 @@ wiki_pages:
   - key: "WangHongjie"
     title: "王洪杰 / Wang Hongjie"
     url: "/wiki/entities/wanghongjie/"
+  - key: "WangHongrui"
+    title: "王洪瑞 / Wang Hongrui"
+    url: "/wiki/entities/wanghongrui/"
   - key: "WangHaoShuScholar"
     title: "王浩 / Wang Hao (Shu Scholar)"
     url: "/wiki/entities/wanghaoshuscholar/"

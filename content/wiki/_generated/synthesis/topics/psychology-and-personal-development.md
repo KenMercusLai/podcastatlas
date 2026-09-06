@@ -3,18 +3,29 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-05
-as_of_overview_commit: c1513ae5d51016ea0708e9e2b9902b8fd6e1209c
-input_digest: d1549bbcded73bf9b6925c4d64babbd029bfac56e9f917b2e703fcd1e6213f93
+last_updated: 2026-09-07
+as_of_overview_commit: b390facee248b324274e83f6599d0660467c8ac6
+input_digest: 2294896dae52fec8ecebed2acaf9c22e4e28bfcb4f218ce0be2b03be541bedfd
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-The Huberman dopamine episode keeps motivation tied to baseline, peaks, anticipation, and effort-as-reward, while the Epel stress branch remains anchored in appraisal, rumination, recovery, acceptance, and meaning-making. The Attia longevity episode adds emotional healthspan as a personal-development branch: connection, purpose, presence, therapy, DBT, self-talk, and relationship repair are treated as part of durable health rather than optional mood work. Benjamin Lay enters only secondarily as a moral-action case where inward equality, shock, boycott, and symbolic witness convert conviction into disciplined public behavior. Historical Hanji cases remain source-scoped evidence for judgment, self-command, trust, vulnerability, and behavior under pressure.
+Hanji 1047 enters this topic only secondarily as a historical judgment and self-protection case: controlled exit from a still-powerful patron is framed through safety, character reading, and future risk. The Huberman dopamine episode keeps motivation tied to baseline, peaks, anticipation, and effort-as-reward, while the Epel stress branch remains anchored in appraisal, rumination, recovery, acceptance, and meaning-making. The Attia longevity episode adds emotional healthspan as a personal-development branch: connection, purpose, presence, therapy, DBT, self-talk, and relationship repair are treated as part of durable health rather than optional mood work. Benjamin Lay enters only secondarily as a moral-action case where inward equality, shock, boycott, and symbolic witness convert conviction into disciplined public behavior. Historical Hanji cases remain source-scoped evidence for judgment, self-command, trust, vulnerability, and behavior under pressure.
 
 ## Cross-source Findings
+
+### Strategic Patron Exit Is Source Scoped Self Protection Case
+
+[[StrategicPatronExitJudgment]] enters psychology-and-personal-development as a source-scoped self-protection and judgment case: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] treats departure from a still-powerful patron as controlled risk management, while [[GuanduCampaign]], [[RunanCommanderyLateHan]], and [[CaoRen]] keep the main evidence anchored in military-political history.
+
+**Evidence:** [[StrategicPatronExitJudgment]], [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]]
+
+**Qualifications:**
+
+- This is a historical political-psychology reading, not a general personal-development rule.
+- The episode does not prove internal motive; it frames the departure as a plausible survival judgment.
 
 ### Longevity Requires Emotional Healthspan And Repair Practices
 

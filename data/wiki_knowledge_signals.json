@@ -171,6 +171,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/abriefhistoryofintelligence/"
     },
+    "ACRCloud": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/acrcloud/"
+    },
     "ADHDSelfDiagnosisBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -1769,6 +1785,54 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/aimodelorchestration/"
+    },
+    "AIMusicDetectionAndLabeling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/aimusicdetectionandlabeling/"
+    },
+    "AIMusicSettlementParity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/aimusicsettlementparity/"
+    },
+    "AIMusicWorkflowIntegration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/aimusicworkflowintegration/"
     },
     "AIOfficeAgent": {
       "episode_count": 3,
@@ -5870,6 +5934,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/awarenessmeditationstorydropping/"
     },
+    "Aweil": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/aweil/"
+    },
     "Azure": {
       "episode_count": 2,
       "show_count": 2,
@@ -8195,6 +8275,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/cailunlatehan/"
     },
+    "CaiYangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？ [lh5ItbQQqD54APJ7uoGyXV4BF3wM].md",
+          "key": "zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/caiyanglatehan/"
+    },
     "CainParsons": {
       "episode_count": 1,
       "show_count": 1,
@@ -8807,6 +8903,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/caojielatehan/"
+    },
+    "CaoRen": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？ [lhFAbaB7xv2vFSgnHr9ozwqHMHd-].md",
+          "key": "zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？ [lh5ItbQQqD54APJ7uoGyXV4BF3wM].md",
+          "key": "zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/caoren/"
     },
     "CaoShaoLateHan": {
       "episode_count": 1,
@@ -18288,6 +18407,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/embodiedtrainingagainstfear/"
     },
+    "EmergencyCashAssistance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/emergencycashassistance/"
+    },
     "EmotionAttentionalCapture": {
       "episode_count": 1,
       "show_count": 1,
@@ -22807,6 +22942,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/fivestarsoutoftheeastbrocade/"
     },
+    "FixedCampSiegeEngineering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？ [lh5ItbQQqD54APJ7uoGyXV4BF3wM].md",
+          "key": "zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/fixedcampsiegeengineering/"
+    },
     "FlexibilityNeuralSafetyGating": {
       "episode_count": 1,
       "show_count": 1,
@@ -25448,6 +25599,36 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/generativeaihollywoodproduction/"
     },
+    "GenerativeAIMusic": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128 [BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8389b3].md",
+          "key": "ep-17-ais-impact-on-creativity-a-consumers-perspective",
+          "show": "Data Science With Sam",
+          "title": "EP 17: AI's Impact on Creativity: A Consumer's Perspective",
+          "url": "/wiki/sources/ep-17-ais-impact-on-creativity-a-consumers-perspective/"
+        },
+        {
+          "episode_file": "tech_20260817_TECH_pod_128 [tech_20260817_TECH_pod_128].md",
+          "key": "tech-20260817-tech-pod-128-tech-20260817-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can an AI music company make nice with human artists?",
+          "url": "/wiki/sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128/"
+        },
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/generativeaimusic/"
+    },
     "GenesisMission": {
       "episode_count": 2,
       "show_count": 1,
@@ -26473,6 +26654,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/goldjewelryvalueperceptionrisk/"
     },
+    "GongDuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？ [lh5ItbQQqD54APJ7uoGyXV4BF3wM].md",
+          "key": "zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/gongdulatehan/"
+    },
     "GongsunKangLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -27181,9 +27378,9 @@
       "url": "/wiki/entities/guanyu/"
     },
     "GuanduCampaign": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
@@ -27261,9 +27458,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？ [lh5ItbQQqD54APJ7uoGyXV4BF3wM].md",
+          "key": "zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/guanducampaign/"
     },
     "GuangzhouAcademyOfFineArts": {
@@ -31127,6 +31331,38 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/humanelocalgovernance/"
+    },
+    "HumanitarianAidFundingShortfall": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/humanitarianaidfundingshortfall/"
+    },
+    "HumanitarianWitnessingBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/humanitarianwitnessingboundary/"
     },
     "HumanoidRobotCommercialization": {
       "episode_count": 9,
@@ -44952,6 +45188,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/multimodaladultneuroplasticity/"
     },
+    "Mureka": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/mureka/"
+    },
     "MuscleAsLongevityInfrastructure": {
       "episode_count": 3,
       "show_count": 3,
@@ -44997,6 +45249,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/musicbasedemotionregulation/"
+    },
+    "MusicIndustryAIResponse": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260817_TECH_pod_128 [tech_20260817_TECH_pod_128].md",
+          "key": "tech-20260817-tech-pod-128-tech-20260817-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can an AI music company make nice with human artists?",
+          "url": "/wiki/sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128/"
+        },
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/musicindustryairesponse/"
     },
     "MusicMemoryCueing": {
       "episode_count": 1,
@@ -46561,6 +46836,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/nutritionmentalhealth/"
+    },
+    "NutritionTriageThreshold": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/nutritiontriagethreshold/"
     },
     "OCDCompulsionReinforcementLoop": {
       "episode_count": 1,
@@ -53530,6 +53821,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/reddit/"
     },
+    "RefugeeAidRegistrationGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/refugeeaidregistrationgap/"
+    },
     "RegencyUnderCompoundCrisis": {
       "episode_count": 15,
       "show_count": 1,
@@ -54358,9 +54665,9 @@
       "url": "/wiki/concepts/researchinstitutionsasstrategiccapacity/"
     },
     "ResourceAsymmetryAttrition": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》964丨别骄傲！别骄傲！别骄傲！ [lo2_eDzFFU0v9iXoabC06rX_OqoQ].md",
@@ -54375,9 +54682,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？ [lh5ItbQQqD54APJ7uoGyXV4BF3wM].md",
+          "key": "zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/resourceasymmetryattrition/"
     },
     "RestaurantDeliveryExtension": {
@@ -55565,9 +55879,9 @@
       "url": "/wiki/concepts/rumordrivenfrontierintervention/"
     },
     "RunanCommanderyLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊 [lgjJDmcfw1QKUBA2xBLgVVlFPy9d].md",
@@ -55575,9 +55889,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？ [lh5ItbQQqD54APJ7uoGyXV4BF3wM].md",
+          "key": "zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/runancommanderylatehan/"
     },
     "RuralKnifeCrimeGeography": {
@@ -56175,6 +56496,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/schoolaiboundaries/"
+    },
+    "SchoolMealsAsEducationAccess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/schoolmealsaseducationaccess/"
     },
     "ScienceCommunicationTrustRepair": {
       "episode_count": 1,
@@ -57256,6 +57593,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/shaodangqiang/"
     },
+    "ShaqiuGuanduLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？ [lh5ItbQQqD54APJ7uoGyXV4BF3wM].md",
+          "key": "zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/shaqiuguandulatehan/"
+    },
     "SharedRelationshipNarrative": {
       "episode_count": 1,
       "show_count": 1,
@@ -57455,9 +57808,9 @@
       "url": "/wiki/entities/shendiqiang/"
     },
     "ShengdongJixi": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24 [a3884ade-4669-4d5c-ab2e-f98aa580f429].md",
@@ -57479,9 +57832,16 @@
           "show": "声东击西",
           "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
           "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        },
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/shengdongjixi/"
     },
     "ShentuGangEasternHan": {
@@ -57922,6 +58282,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/shumeiwanwu/"
+    },
+    "ShuoDeHaoTing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/shuodehaoting/"
     },
     "ShusunWujiLateHan": {
       "episode_count": 2,
@@ -58798,6 +59174,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/southafrica/"
+    },
+    "SouthSudan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/southsudan/"
     },
     "SouthernOcean": {
       "episode_count": 1,
@@ -59858,6 +60250,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/strategicgeneration/"
+    },
+    "StrategicPatronExitJudgment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？ [lh5ItbQQqD54APJ7uoGyXV4BF3wM].md",
+          "key": "zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/strategicpatronexitjudgment/"
     },
     "StrengthTrainingJointProtection": {
       "episode_count": 1,
@@ -63800,6 +64208,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/tongmarebelarmyeasternhan/"
     },
+    "TonyACRCloud": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/tonyacrcloud/"
+    },
     "TopDownExemplarGovernance": {
       "episode_count": 2,
       "show_count": 1,
@@ -64350,6 +64774,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/ugg/"
+    },
+    "UNHCR": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/unhcr/"
     },
     "USChinaScienceCompetition": {
       "episode_count": 2,
@@ -66149,6 +66589,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/wanghongeasternhan/"
     },
+    "WangHongrui": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/wanghongrui/"
+    },
     "WangHuanLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -66761,6 +67217,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/wearablehealthdataanxiety/"
+    },
+    "WedweilRefugeeCamp": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/wedweilrefugeecamp/"
     },
     "WeiBiaoEasternHan": {
       "episode_count": 1,
@@ -67818,6 +68290,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/workshopinternalcomms/"
+    },
+    "WorldFoodProgramme": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
+          "key": "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de",
+          "show": "声东击西",
+          "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+          "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/worldfoodprogramme/"
     },
     "WorldLabs": {
       "episode_count": 4,
@@ -70726,6 +71214,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/yangzhongeasternhan/"
     },
+    "YangwuGuanduLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？ [lh5ItbQQqD54APJ7uoGyXV4BF3wM].md",
+          "key": "zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/yangwuguandulatehan/"
+    },
     "YangzhouLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -70916,6 +71420,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/yelatehan/"
+    },
+    "YeLuMureka": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/yelumureka/"
     },
     "YiShu": {
       "episode_count": 1,

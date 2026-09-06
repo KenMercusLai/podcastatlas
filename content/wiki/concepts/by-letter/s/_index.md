@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6497
+wiki_total_pages: 6508
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "SchoolAIBoundaries"
     title: "School AI Boundaries"
     url: "/wiki/concepts/schoolaiboundaries/"
+  - key: "SchoolMealsAsEducationAccess"
+    title: "School Meals as Education Access / 校餐作为教育入口"
+    url: "/wiki/concepts/schoolmealsaseducationaccess/"
   - key: "SchoolEnterpriseCooperation"
     title: "School-Enterprise Cooperation / 校企合作"
     url: "/wiki/concepts/schoolenterprisecooperation/"
@@ -1454,6 +1457,9 @@ wiki_pages:
   - key: "StrategicPassControl"
     title: "Strategic Pass Control / 兵家必争通道控制"
     url: "/wiki/concepts/strategicpasscontrol/"
+  - key: "StrategicPatronExitJudgment"
+    title: "Strategic Patron Exit Judgment / 主公前途与安全退出判断"
+    url: "/wiki/concepts/strategicpatronexitjudgment/"
   - key: "StrategicRecognitionAlignment"
     title: "Strategic Recognition Alignment / 谋略知己式归附"
     url: "/wiki/concepts/strategicrecognitionalignment/"

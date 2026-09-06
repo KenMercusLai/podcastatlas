@@ -971,6 +971,10 @@
     "title": "401(k) Plan",
     "url": "/wiki/concepts/401kplan/"
   },
+  "402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de": {
+    "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+    "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+  },
   "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d": {
     "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
     "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
@@ -1398,6 +1402,10 @@
   "ACLUOfNewMexico": {
     "title": "ACLU of New Mexico",
     "url": "/wiki/entities/acluofnewmexico/"
+  },
+  "ACRCloud": {
+    "title": "ACR Cloud",
+    "url": "/wiki/entities/acrcloud/"
   },
   "ACuo": {
     "title": "阿错 / Acuo",
@@ -2210,6 +2218,18 @@
   "AIModelValueSurveying": {
     "title": "AI Model Value Surveying",
     "url": "/wiki/concepts/aimodelvaluesurveying/"
+  },
+  "AIMusicDetectionAndLabeling": {
+    "title": "AI Music Detection and Labeling",
+    "url": "/wiki/concepts/aimusicdetectionandlabeling/"
+  },
+  "AIMusicSettlementParity": {
+    "title": "AI Music Settlement Parity",
+    "url": "/wiki/concepts/aimusicsettlementparity/"
+  },
+  "AIMusicWorkflowIntegration": {
+    "title": "AI Music Workflow Integration",
+    "url": "/wiki/concepts/aimusicworkflowintegration/"
   },
   "AINPCSocialInfrastructure": {
     "title": "AI NPC Social Infrastructure",
@@ -6227,6 +6247,10 @@
     "title": "Awareness Meditation Story Dropping",
     "url": "/wiki/concepts/awarenessmeditationstorydropping/"
   },
+  "Aweil": {
+    "title": "Aweil / 阿维尔",
+    "url": "/wiki/entities/aweil/"
+  },
   "Axio": {
     "title": "Axio",
     "url": "/wiki/entities/axio/"
@@ -8858,6 +8882,10 @@
   "CaiXiaochuan": {
     "title": "蔡小川 / Cai Xiaochuan",
     "url": "/wiki/entities/caixiaochuan/"
+  },
+  "CaiYangLateHan": {
+    "title": "蔡阳 / Cai Yang (late Han)",
+    "url": "/wiki/entities/caiyanglatehan/"
   },
   "CaiYong": {
     "title": "蔡邕 / Cai Yong",
@@ -17519,6 +17547,10 @@
     "title": "Embodied Training Against Fear / 反本能身体训练",
     "url": "/wiki/concepts/embodiedtrainingagainstfear/"
   },
+  "EmergencyCashAssistance": {
+    "title": "Emergency Cash Assistance / 紧急现金援助",
+    "url": "/wiki/concepts/emergencycashassistance/"
+  },
   "EmergencySuccessionLegitimation": {
     "title": "Emergency Succession Legitimation / 临终就近立储",
     "url": "/wiki/concepts/emergencysuccessionlegitimation/"
@@ -20046,6 +20078,10 @@
   "Fivetran": {
     "title": "Fivetran",
     "url": "/wiki/entities/fivetran/"
+  },
+  "FixedCampSiegeEngineering": {
+    "title": "Fixed-Camp Siege Engineering / 营垒攻防工程",
+    "url": "/wiki/concepts/fixedcampsiegeengineering/"
   },
   "FixedHumanNaturePolitics": {
     "title": "Fixed Human Nature Politics",
@@ -22666,6 +22702,10 @@
   "GongCha": {
     "title": "Gong Cha / 共茶",
     "url": "/wiki/entities/gongcha/"
+  },
+  "GongDuLateHan": {
+    "title": "龚都 / Gong Du (late Han)",
+    "url": "/wiki/entities/gongdulatehan/"
   },
   "GongWei": {
     "title": "共尉 / Gong Wei",
@@ -26303,9 +26343,17 @@
     "title": "Humanistic Science Communication",
     "url": "/wiki/concepts/humanisticsciencecommunication/"
   },
+  "HumanitarianAidFundingShortfall": {
+    "title": "Humanitarian Aid Funding Shortfall / 人道援助资金缺口",
+    "url": "/wiki/concepts/humanitarianaidfundingshortfall/"
+  },
   "HumanitarianIsolation": {
     "title": "Humanitarian Isolation",
     "url": "/wiki/concepts/humanitarianisolation/"
+  },
+  "HumanitarianWitnessingBoundary": {
+    "title": "Humanitarian Witnessing Boundary / 人道见证边界",
+    "url": "/wiki/concepts/humanitarianwitnessingboundary/"
   },
   "HumanoidRobotCommercialization": {
     "title": "Humanoid Robot Commercialization",
@@ -37895,6 +37943,10 @@
     "title": "Moura Budberg / 穆拉·巴德伯格",
     "url": "/wiki/entities/murabudberg/"
   },
+  "Mureka": {
+    "title": "Mureka",
+    "url": "/wiki/entities/mureka/"
+  },
   "MurrayDarlingBasin": {
     "title": "Murray-Darling Basin",
     "url": "/wiki/entities/murraydarlingbasin/"
@@ -39470,6 +39522,10 @@
   "NutritionMentalHealth": {
     "title": "Nutrition and Mental Health",
     "url": "/wiki/concepts/nutritionmentalhealth/"
+  },
+  "NutritionTriageThreshold": {
+    "title": "Nutrition Triage Threshold / 营养不良分诊门槛",
+    "url": "/wiki/concepts/nutritiontriagethreshold/"
   },
   "Nvidia": {
     "title": "Nvidia",
@@ -45703,6 +45759,10 @@
     "title": "Reform Without Popular Deliberation / 不与民虑始",
     "url": "/wiki/concepts/reformwithoutpopulardeliberation/"
   },
+  "RefugeeAidRegistrationGap": {
+    "title": "Refugee Aid Registration Gap / 难民登记援助空窗",
+    "url": "/wiki/concepts/refugeeaidregistrationgap/"
+  },
   "RegalCinemas": {
     "title": "Regal Cinemas",
     "url": "/wiki/entities/regalcinemas/"
@@ -48071,6 +48131,10 @@
     "title": "School-Enterprise Cooperation / 校企合作",
     "url": "/wiki/concepts/schoolenterprisecooperation/"
   },
+  "SchoolMealsAsEducationAccess": {
+    "title": "School Meals as Education Access / 校餐作为教育入口",
+    "url": "/wiki/concepts/schoolmealsaseducationaccess/"
+  },
   "SchoolSafeCPGPositioning": {
     "title": "School-Safe CPG Positioning",
     "url": "/wiki/concepts/schoolsafecpgpositioning/"
@@ -49075,6 +49139,10 @@
     "title": "沙丘之变 / Shaqiu Crisis",
     "url": "/wiki/entities/shaqiucrisis/"
   },
+  "ShaqiuGuanduLateHan": {
+    "title": "沙丘 / Shaqiu (Guandu theater)",
+    "url": "/wiki/entities/shaqiuguandulatehan/"
+  },
   "ShareAI": {
     "title": "Share AI",
     "url": "/wiki/entities/shareai/"
@@ -49630,6 +49698,10 @@
   "ShunliuErshangDocumentary": {
     "title": "《顺流而上》 / Upstream Documentary",
     "url": "/wiki/entities/shunliuershangdocumentary/"
+  },
+  "ShuoDeHaoTing": {
+    "title": "说得好听 / Shuo De Hao Ting",
+    "url": "/wiki/entities/shuodehaoting/"
   },
   "ShuojieHanzi150Jiang": {
     "title": "《说解汉字150讲》",
@@ -50670,6 +50742,10 @@
   "SouthSeaCompany": {
     "title": "South Sea Company / 南海公司",
     "url": "/wiki/entities/southseacompany/"
+  },
+  "SouthSudan": {
+    "title": "South Sudan / 南苏丹",
+    "url": "/wiki/entities/southsudan/"
   },
   "SouthToNorthWaterTransferProject": {
     "title": "South-to-North Water Transfer Project / 南水北调",
@@ -51826,6 +51902,10 @@
   "StrategicPassControl": {
     "title": "Strategic Pass Control / 兵家必争通道控制",
     "url": "/wiki/concepts/strategicpasscontrol/"
+  },
+  "StrategicPatronExitJudgment": {
+    "title": "Strategic Patron Exit Judgment / 主公前途与安全退出判断",
+    "url": "/wiki/concepts/strategicpatronexitjudgment/"
   },
   "StrategicRecognitionAlignment": {
     "title": "Strategic Recognition Alignment / 谋略知己式归附",
@@ -54943,6 +55023,10 @@
     "title": "Tonle Sap Lake / 洞里萨湖",
     "url": "/wiki/entities/tonlesaplake/"
   },
+  "TonyACRCloud": {
+    "title": "Tony / ACR Cloud",
+    "url": "/wiki/entities/tonyacrcloud/"
+  },
   "TonyContentEngineer": {
     "title": "东尼 / Tony (content engineer)",
     "url": "/wiki/entities/tonycontentengineer/"
@@ -55726,6 +55810,10 @@
   "UNFI": {
     "title": "UNFI",
     "url": "/wiki/entities/unfi/"
+  },
+  "UNHCR": {
+    "title": "UNHCR / 联合国难民署",
+    "url": "/wiki/entities/unhcr/"
   },
   "UNTUCKit": {
     "title": "UNTUCKit",
@@ -57243,6 +57331,10 @@
     "title": "王洪杰 / Wang Hongjie",
     "url": "/wiki/entities/wanghongjie/"
   },
+  "WangHongrui": {
+    "title": "王洪瑞 / Wang Hongrui",
+    "url": "/wiki/entities/wanghongrui/"
+  },
   "WangHuanLateHan": {
     "title": "王涣 / Wang Huan (late Han)",
     "url": "/wiki/entities/wanghuanlatehan/"
@@ -57918,6 +58010,10 @@
   "Webnovel": {
     "title": "Webnovel / 起点国际版",
     "url": "/wiki/entities/webnovel/"
+  },
+  "WedweilRefugeeCamp": {
+    "title": "Wedweil Refugee Camp / 维德维尔难民营",
+    "url": "/wiki/entities/wedweilrefugeecamp/"
   },
   "Weebly": {
     "title": "Weebly",
@@ -58890,6 +58986,10 @@
   "WorldCupHydrationPauseAdInventory": {
     "title": "World Cup Hydration Pause Ad Inventory",
     "url": "/wiki/concepts/worldcuphydrationpauseadinventory/"
+  },
+  "WorldFoodProgramme": {
+    "title": "World Food Programme / 世界粮食计划署",
+    "url": "/wiki/entities/worldfoodprogramme/"
   },
   "WorldFoundationModels": {
     "title": "World Foundation Models",
@@ -60707,6 +60807,10 @@
     "title": "Yangtze River / 长江",
     "url": "/wiki/entities/yangtzeriver/"
   },
+  "YangwuGuanduLateHan": {
+    "title": "阳武 / Yangwu (Guandu theater)",
+    "url": "/wiki/entities/yangwuguandulatehan/"
+  },
   "YangzhouLateHan": {
     "title": "扬州 / Yangzhou (late Han province)",
     "url": "/wiki/entities/yangzhoulatehan/"
@@ -60810,6 +60914,10 @@
   "YeLateHan": {
     "title": "邺城 / Ye (Late Han)",
     "url": "/wiki/entities/yelatehan/"
+  },
+  "YeLuMureka": {
+    "title": "叶律 / Ye Lu",
+    "url": "/wiki/entities/yelumureka/"
   },
   "YeWarringStates": {
     "title": "邺城 / Ye (Warring States)",
@@ -65715,6 +65823,10 @@
     "title": "手工耿×罗永浩！“村口的五金店里，出现了一个达达主义艺术家”",
     "url": "/wiki/sources/shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1/"
   },
+  "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc": {
+    "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+    "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+  },
   "slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a": {
     "title": "Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip",
     "url": "/wiki/sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a/"
@@ -67494,6 +67606,10 @@
   "zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b": {
     "title": "《资治通鉴·汉纪》1046丨他凭什么被称作“三国隐藏最深的牛人”？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b/"
+  },
+  "zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm": {
+    "title": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm/"
   },
   "zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju": {
     "title": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数",

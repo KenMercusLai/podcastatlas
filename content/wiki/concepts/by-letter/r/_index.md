@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6497
+wiki_total_pages: 6508
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "ReformWithoutPopularDeliberation"
     title: "Reform Without Popular Deliberation / 不与民虑始"
     url: "/wiki/concepts/reformwithoutpopulardeliberation/"
+  - key: "RefugeeAidRegistrationGap"
+    title: "Refugee Aid Registration Gap / 难民登记援助空窗"
+    url: "/wiki/concepts/refugeeaidregistrationgap/"
   - key: "RegencyUnderCompoundCrisis"
     title: "Regency Under Compound Crisis / 复合危机下的摄政"
     url: "/wiki/concepts/regencyundercompoundcrisis/"

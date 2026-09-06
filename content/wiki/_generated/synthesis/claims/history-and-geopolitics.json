@@ -2,6 +2,25 @@
   "claims": [
     {
       "global_candidate": true,
+      "id": "guandu-bridge-turns-scale-into-command-logistics-test",
+      "qualifications": [
+        "Liu Bei's motive is an episode-level interpretation rather than direct proof of his internal reasoning.",
+        "The transcript's place wording and the Yangwu/Shaqiu identities remain source-scoped or disambiguated."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm",
+        "GuanduCampaign",
+        "RunanCommanderyLateHan",
+        "CaoRen",
+        "StrategicPatronExitJudgment",
+        "ResourceAsymmetryAttrition",
+        "FixedCampSiegeEngineering"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "borderlands-accumulate-historical-layers",
       "qualifications": [
         "The Ceuta source keeps Count Julian, the Pillars of Hercules identification, Moroccan intent, and the 1415 Age of Discovery origin claim source-scoped or qualified."
@@ -92,6 +111,7 @@
       ]
     }
   ],
-  "summary": "History and geopolitics synthesis explains power through routes, borderlands, legitimacy claims, frontier command, institutional capacity, and public memory. The current topic spans physical chokepoints and cables, Eastern Han and late-Han court strategy, revolutionary and imperial state formation, and Ceuta's layered role as a Mediterranean-Atlantic enclave where ancient rule, Portuguese expansion, Spanish sovereignty, Moroccan claims, and migration pressure converge.",
+  "input_digest": "b6f02f505058ceec5df08366592009af5264f083b8bd51169c0867214ca8f4ac",
+  "summary": "Hanji 1047 strengthens the Guandu branch by adding Liu Bei's Runan exit, Cao Ren's counterstrike, Ju Shou's rejected Yangwu attrition advice, and the Shaqiu camp-engineering standoff before Wuchao. History and geopolitics synthesis explains power through routes, borderlands, legitimacy claims, frontier command, institutional capacity, and public memory. The current topic spans physical chokepoints and cables, Eastern Han and late-Han court strategy, revolutionary and imperial state formation, and Ceuta's layered role as a Mediterranean-Atlantic enclave where ancient rule, Portuguese expansion, Spanish sovereignty, Moroccan claims, and migration pressure converge.",
   "topic_id": "history-and-geopolitics"
 }

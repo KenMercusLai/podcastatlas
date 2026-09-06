@@ -6,6 +6,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？](sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc.md) — 说得好听 episode with Mureka and ACR Cloud on AI music after the demo stage: workflow integration, copyright detection, AI labeling, DSP settlement, bulk generation, and platform governance.
+- [#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿](sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de.md) — 声东击西 episode with WFP worker Wang Hongrui on South Sudan refugee hunger, registration gaps, cash-aid cuts, nutrition triage, funding shortfalls, and school meals.
 - [496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海](sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw.md) — 忽左忽右 episode using Ceuta to connect Moroccan migration crossings, Strait of Gibraltar geography, ancient and medieval Mediterranean rule, Portuguese expansion, Spanish sovereignty, and migration weaponization.
 - [史蒂夫说472期 - 赵今朝 - 化解焦虑最佳方法：拆解问题，温柔相待](sources/shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh.md) — 史蒂夫说 interview with Zhao Jinzhao / Dr. Claire on anxiety as demand-resource mismatch, body arousal, family transmission, and gentle support through decomposition.
 - [Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”](sources/vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr.md) — 文化有限 episode rereading Where the Crawdads Sing through marsh marginality, female growth, film adaptation, legal justice, natural law, wild-child motifs, and victim-held forgiveness.
@@ -434,6 +436,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？](sources/zizhi-tongjian-hanji-1044-guanyu-qianli-zou-danqi-xu-ganxie-caocao-busha-enqing-lpptlnc-e4zu4lcjr49bquxdw0pm.md) — 芮淇讲透资治通鉴 episode on Yuan Shao's angry Yellow River crossing after Yan Liang, Ju Shou's stripped command, Cao Cao and Xun You's Yanjin baiting defeat of Wen Chou, Guan Yu sealing Cao's rewards and leaving for Liu Bei, and Yan Rou/Xianyu Fu moving toward Cao.
 - [《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊](sources/zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d.md) — 芮淇讲透资治通鉴 episode on Sun Ce's fatal hunting exposure, the Xu Gong retainer ambush, the deathbed handoff to Sun Quan, Zhang Zhao and Zhou Yu stabilizing Jiangdong, and Li Tong rejecting Yuan Shao in the Runan branch.
 - [《资治通鉴·汉纪》1046丨他凭什么被称作“三国隐藏最深的牛人”？](sources/zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b.md) — 芮淇讲透资治通鉴 episode on Zhao Yan warning Li Tong against destabilizing Yang'an through urgent cotton-silk levies, Cao Cao returning the tax goods through Xun Yu's channel, and He Kui's light-tax flexible-law advice for newly attached regions.
+- [《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？](sources/zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm.md) — 芮淇讲透资治通鉴 episode on Liu Bei's Runan attack and exit from Yuan Shao, Cao Ren's counterstrike, Gong Du and Cai Yang, Ju Shou's rejected long-war advice, and the Guandu camp-engineering standoff before the Wuchao crisis.
 - [《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数](sources/zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju.md) — 芮淇讲透资治通鉴 episode on Cao Cao's depleted Guandu supply position, Xun Yu's hold-fast counsel, Xun You's Han Meng convoy strike, Ju Shou's ignored protection warning, Xu You's rejected Xudu raid proposal, and the family-arrest-triggered defection that exposes Wuchao.
 - [《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强](sources/zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m.md) — 芮淇讲透资治通鉴 episode on Cao Cao's Wuchao night raid, Yuan Shao's mistaken allocation between rescue and Cao-camp attack, Chunyu Qiong's capture and execution, Guo Tu's slander, Zhang He and Gao Lan's surrender, Yuan Shao's flight, and Ju Shou's captured-loyalist ending.
 - [《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧](sources/zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse.md) — 芮淇讲透资治通鉴 episode on Cao Cao burning insider letters after Guandu, Tian Feng's death after Feng Ji's slander, Liu Bang's correction after Lou Jing's warning, and Shen Pei's captured-sons suspicion.
@@ -1954,6 +1957,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [说得好听 / Shuo De Hao Ting](entities/ShuoDeHaoTing.md) — Music podcast entering the wiki through EP56's discussion of AI music industry rules after generation becomes ordinary.
+- [Mureka](entities/Mureka.md) — AI music generation product represented by Ye Lu in EP56, grounding workflow integration and copyright-check claims.
+- [ACR Cloud](entities/ACRCloud.md) — Audio recognition and fingerprinting API company represented by Tony in EP56, grounding AI music detection and copyright infrastructure.
+- [叶律 / Ye Lu](entities/YeLuMureka.md) — Mureka product lead arguing that AI music has crossed ordinary listenability while workflow, professional quality, copyright checks, and payout rules remain unsettled.
+- [Tony / ACR Cloud](entities/TonyACRCloud.md) — ACR Cloud co-founder explaining audio fingerprinting, model-pattern detection, and the equal-value argument for AI music settlement.
+- [South Sudan / 南苏丹](entities/SouthSudan.md) — Country setting for WFP refugee-food-aid cuts, compound humanitarian crisis, and Sudanese displacement into camps near Aweil.
+- [World Food Programme / 世界粮食计划署](entities/WorldFoodProgramme.md) — UN food-aid agency represented through emergency cash, nutrition support, school meals, and funding-constrained South Sudan operations.
+- [UNHCR / 联合国难民署](entities/UNHCR.md) — UN refugee agency whose registration work gates the aid sequence for newly arrived Sudanese refugees in Wedweil.
+- [王洪瑞 / Wang Hongrui](entities/WangHongrui.md) — WFP staff member and 声东击西 guest witnessing South Sudan refugee hunger and aid-delivery limits.
+- [Wedweil Refugee Camp / 维德维尔难民营](entities/WedweilRefugeeCamp.md) — South Sudan camp near Aweil where the episode observes registration waits, food aid cuts, nutrition screening, and school meals.
+- [Aweil / 阿维尔](entities/Aweil.md) — South Sudan field gateway to Wedweil refugee camp and nearby Sudanese refugee flows.
 - [路大鹏 / Lu Dapeng](entities/LuDapeng.md) — 忽左忽右 guest explaining Ceuta through Mediterranean, Iberian, North African, Portuguese, Spanish, and migration history.
 - [Strait of Gibraltar / 直布罗陀海峡](entities/StraitOfGibraltar.md) — Maritime passage whose North Africa-Iberia geography gives Ceuta and Gibraltar strategic value.
 - [Gibraltar / 直布罗陀](entities/Gibraltar.md) — European-side strait counterpart to Ceuta, tied to Islamic-conquest naming and later British control in the source.
@@ -3210,7 +3224,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [沙摩柯 / Sha Moke](entities/ShaMoke.md) — Wuxi Man leader Liu Biao tries to draw in as a reactive support channel.
 - [王夫之 / Wang Fuzhi](entities/WangFuzhi.md) — Later commentator cited by Hanji 1027 to sharpen the negative judgment of Liu Biao's Jingzhou strategy.
 - [庞统 / Pang Tong](entities/PangTong.md) — Jingzhou talent used source-scopedly as a later consequence of Liu Biao's weak correction/talent channel.
-- [官渡之战 / Guandu Campaign](entities/GuanduCampaign.md) — Cao Cao-Yuan Shao confrontation spanning prewar setup, White Horse/Yanjin preliminary shocks, the Wuchao logistics strike, Zhang He and Gao Lan's surrender, and post-victory stabilization.
+- [官渡之战 / Guandu Campaign](entities/GuanduCampaign.md) — Cao Cao-Yuan Shao confrontation spanning prewar setup, White Horse/Yanjin preliminary shocks, Liu Bei's Runan branch, the camp-engineering standoff, the Wuchao logistics strike, and post-victory stabilization.
+- [龚都 / Gong Du (late Han)](entities/GongDuLateHan.md) — Runan rebel leader whom Liu Bei joins after leaving Yuan Shao during the Guandu prelude.
+- [蔡阳 / Cai Yang (late Han)](entities/CaiYangLateHan.md) — Cao-side commander sent against Liu Bei after the Gong Du connection and killed in the Runan branch.
+- [阳武 / Yangwu (Guandu theater)](entities/YangwuGuanduLateHan.md) — Guandu-theater Yuan camp location where Ju Shou gives the rejected long-war advice.
+- [沙丘 / Shaqiu (Guandu theater)](entities/ShaqiuGuanduLateHan.md) — Guandu-theater position where Yuan Shao's August camp line hardens into an engineering standoff with Cao Cao.
 - [乌巢夜袭 / Wuchao Raid (late Han)](entities/WuchaoRaidLateHan.md) — Decisive Guandu raid where Cao Cao uses Xu You's intelligence to burn Yuan Shao's grain depot and trigger Yuan-camp collapse.
 - [韩猛 / Han Meng (late Han)](entities/HanMengLateHan.md) — Yuan Shao convoy commander defeated by Xu Huang and Shi Huan in the pre-Wuchao Guandu logistics struggle.
 - [徐晃 / Xu Huang (Cao general)](entities/XuHuangCaoGeneral.md) — Cao-side general who intercepts Han Meng's convoy at Guandu and later advises rewarding county surrenders during the Ye campaign.
@@ -3614,7 +3632,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [高柔 / Gao Rou (Late Han)](entities/GaoRouLateHan.md) — Chenliu observer who predicts that Cao Cao's ambition and Zhang Miao's local base will eventually destabilize their friendship.
 - [许汜 / Xu Si (Late Han)](entities/XuSiLateHan.md) — Yanzhou plotting-group participant named with Chen Gong, Wang Kai, and Zhang Chao before Lü Bu is invited into the province.
 - [王楷 / Wang Kai (Late Han)](entities/WangKaiLateHan.md) — Yanzhou plotting-group participant whose source role marks the rebellion as a networked local-adviser move.
-- [曹仁 / Cao Ren](entities/CaoRen.md) — Cao-clan commander used by Hanji 974 as a marker of Cao Cao's post-Yanzhou-betrayal move toward tighter core military control.
+- [曹仁 / Cao Ren](entities/CaoRen.md) — Cao-clan commander whose wiki role now spans post-Yanzhou trusted military control and Cao Ren's cavalry counterstrike against Liu Bei before Guandu.
 - [Mary, Queen of Scots](entities/MaryQueenOfScots.md) — Catholic dynastic claimant and English captive whose Babington correspondence leads to trial and execution at Fotheringhay.
 - [Elizabeth I](entities/ElizabethI.md) — Protestant English queen balancing Mary Stuart's danger against the precedent and diplomatic risk of executing an anointed queen.
 - [Francis Walsingham](entities/FrancisWalsingham.md) — Elizabethan spymaster whose turned courier and cryptanalysis operation exposes the Babington Plot.
@@ -11055,6 +11073,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [AI Music Workflow Integration](concepts/AIMusicWorkflowIntegration.md) — Shift from one-prompt AI song generation toward embedded musician workflows, skill-like assets, agent-style tools, and release checks.
+- [AI Music Detection and Labeling](concepts/AIMusicDetectionAndLabeling.md) — Audio-specific provenance problem around copyright checks, model-pattern detection, AI-use labels, and unclear participation thresholds.
+- [AI Music Settlement Parity](concepts/AIMusicSettlementParity.md) — Dispute over whether AI-generated tracks should receive equal platform payout when listener or DSP value appears equivalent.
+- [Refugee Aid Registration Gap / 难民登记援助空窗](concepts/RefugeeAidRegistrationGap.md) — Interval between camp arrival and aid eligibility where necessary identity checks can still leave hungry families without immediate support.
+- [Emergency Cash Assistance / 紧急现金援助](concepts/EmergencyCashAssistance.md) — Humanitarian cash support that becomes fragile when it replaces a fuller food basket under weak livelihoods and funding cuts.
+- [Nutrition Triage Threshold / 营养不良分诊门槛](concepts/NutritionTriageThreshold.md) — Clinical eligibility cutoff for scarce fortified nutrition support, exposing painful edge cases around visible hunger.
+- [Humanitarian Aid Funding Shortfall / 人道援助资金缺口](concepts/HumanitarianAidFundingShortfall.md) — Gap between assessed need and donor resources that converts global budget pressure into camp-level food-aid cuts.
+- [School Meals as Education Access / 校餐作为教育入口](concepts/SchoolMealsAsEducationAccess.md) — Pattern where meals make school attendance possible for children whose hunger would otherwise push them out of class.
+- [Humanitarian Witnessing Boundary / 人道见证边界](concepts/HumanitarianWitnessingBoundary.md) — Ethical limit of carrying suffering outward when testimony cannot solve immediate hunger.
 - [Ceuta Imperial Borderland / 休达帝国边地](concepts/CeutaImperialBorderland.md) — Pattern where Ceuta's geography lets imperial, commercial, scholarly, military, and migration layers accumulate.
 - [Iberian Reconquista / 伊比利亚收复失地运动](concepts/IberianReconquista.md) — Iberian Christian expansion frame used to explain Portugal's post-1249 turn toward North Africa and the Atlantic.
 - [Portuguese Maritime Expansion / 葡萄牙海上扩张](concepts/PortugueseMaritimeExpansion.md) — Qualified expansion narrative in which the 1415 conquest of Ceuta becomes the conventional first station.
@@ -12027,7 +12054,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Personal Guard Attack Surface / 贴身侍卫反噬](concepts/PersonalGuardAttackSurface.md) — Close-access security pattern where bodyguards, household servants, or gate-control insiders can become assassination exposure or restored protection.
 - [Public Corpse Humiliation / 公开尸体羞辱](concepts/PublicCorpseHumiliation.md) — After-death violence and public spectacle used to intimidate survivors, insult enemies, or mark reversal, with Li Gu and Du Qiao showing how display can backfire into defiant mourning.
 - [Post-Success Arrogance / 得势后的骄傲](concepts/PostSuccessArrogance.md) — Hanji 964-965 pattern where victory, office, status, or merit makes leaders less able to hear advice, preserve proportion, or protect relationships.
-- [Resource-Asymmetry Attrition / 资源不对称消耗战](concepts/ResourceAsymmetryAttrition.md) — Strategy pattern linking Bao Xin's Yanzhou hungry-raider exhaustion logic with Tian Feng's pre-Guandu hold-and-harass plan against Cao Cao.
+- [Resource-Asymmetry Attrition / 资源不对称消耗战](concepts/ResourceAsymmetryAttrition.md) — Strategy pattern linking Bao Xin's hungry-raider exhaustion logic with Tian Feng and Ju Shou's pre-Guandu plans to turn Yuan Shao's larger base into time pressure.
+- [Strategic Patron Exit Judgment / 主公前途与安全退出判断](concepts/StrategicPatronExitJudgment.md) — Pattern where a dependent actor leaves a still-powerful patron because the patron's judgment, personnel treatment, and future safety look worse than a controlled exit.
+- [Fixed-Camp Siege Engineering / 营垒攻防工程](concepts/FixedCampSiegeEngineering.md) — Pattern where opposing field camps harden into towers, counter-artillery, tunnels, trenches, and supply pressure.
 - [Discreet Benefaction Dignity / 沉默施恩的尊严保护](concepts/DiscreetBenefactionDignity.md) — Frame where help preserves dignity by avoiding public display, gratitude extraction, and repeated reminders of dependence.
 - [Military Camp Panic / 军营夜惊群体恐慌](concepts/MilitaryCampPanic.md) — Command-and-morale pattern where stress, rumor, sleep, environment, and camp design shape collective panic.
 - [Rigid Obedience Crisis Failure / 危机僵化奉诏](concepts/RigidObedienceCrisisFailure.md) — Hanji 966 pattern where formal obedience to a captured command channel destroys practical leverage in a crisis.

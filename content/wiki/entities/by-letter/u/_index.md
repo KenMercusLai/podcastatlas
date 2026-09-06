@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 9097
+wiki_total_pages: 9112
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "UNFI"
     title: "UNFI"
     url: "/wiki/entities/unfi/"
+  - key: "UNHCR"
+    title: "UNHCR / 联合国难民署"
+    url: "/wiki/entities/unhcr/"
   - key: "UniPresidentEnterprises"
     title: "Uni-President Enterprises / 统一集团"
     url: "/wiki/entities/unipresidententerprises/"
