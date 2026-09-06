@@ -1019,6 +1019,10 @@
     "title": "49.李乌鸦来了！聊聊我们为啥爱阅读",
     "url": "/wiki/sources/49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098/"
   },
+  "498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be": {
+    "title": "498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师",
+    "url": "/wiki/sources/498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be/"
+  },
   "50-cents-a-pool-the-pricing-model-behind-a-saas-exit": {
     "title": "50 Cents a Pool: The Pricing Model Behind a SaaS Exit",
     "url": "/wiki/sources/50-cents-a-pool-the-pricing-model-behind-a-saas-exit/"
@@ -5358,6 +5362,10 @@
   "ArcheryFlow": {
     "title": "Archery Flow / 射箭专注体验",
     "url": "/wiki/concepts/archeryflow/"
+  },
+  "ArchitecturalArchiveResearch": {
+    "title": "Architectural Archive Research / 建筑档案研究",
+    "url": "/wiki/concepts/architecturalarchiveresearch/"
   },
   "ArchiveAccessTradeoff": {
     "title": "Archive Access Tradeoff",
@@ -10439,6 +10447,10 @@
     "title": "程球 / Cheng Qiu",
     "url": "/wiki/entities/chengqiu/"
   },
+  "ChengYanliang": {
+    "title": "成言梁 / Cheng Yanliang",
+    "url": "/wiki/entities/chengyanliang/"
+  },
   "ChengYishiLateHan": {
     "title": "成翊世 / Cheng Yishi (late Han)",
     "url": "/wiki/entities/chengyishilatehan/"
@@ -10982,6 +10994,10 @@
   "ChineseModelLiberalArtsConstraint": {
     "title": "Chinese Model Liberal Arts Constraint",
     "url": "/wiki/concepts/chinesemodelliberalartsconstraint/"
+  },
+  "ChineseModernistArchitectsInShanghai": {
+    "title": "Chinese Modernist Architects in Shanghai / 上海华人现代建筑师",
+    "url": "/wiki/concepts/chinesemodernistarchitectsinshanghai/"
   },
   "ChineseModernizationCulturalGap": {
     "title": "Chinese Modernization Cultural Gap / 中国现代化的文化短板",
@@ -21575,6 +21591,10 @@
     "title": "Garage Dragon Test",
     "url": "/wiki/concepts/garagedragontest/"
   },
+  "GardenHotelShanghai": {
+    "title": "花园饭店 / Garden Hotel Shanghai",
+    "url": "/wiki/entities/gardenhotelshanghai/"
+  },
   "GarethBrown": {
     "title": "Gareth Brown",
     "url": "/wiki/entities/garethbrown/"
@@ -21630,6 +21650,10 @@
   "GaryStark": {
     "title": "Gary Stark",
     "url": "/wiki/entities/garystark/"
+  },
+  "GascoigneApartments": {
+    "title": "盖斯康公寓 / Gascoigne Apartments",
+    "url": "/wiki/entities/gascoigneapartments/"
   },
   "Gascony": {
     "title": "Gascony",
@@ -24467,6 +24491,10 @@
     "title": "恒安集团",
     "url": "/wiki/entities/hengangroup/"
   },
+  "HengfuHistoricDistrict": {
+    "title": "衡复风貌区 / Hengfu Historic District",
+    "url": "/wiki/entities/hengfuhistoricdistrict/"
+  },
   "HengjiangLateHan": {
     "title": "横江 / Hengjiang (late Han)",
     "url": "/wiki/entities/hengjianglatehan/"
@@ -25846,6 +25874,10 @@
   "HuckleberryFinn": {
     "title": "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》",
     "url": "/wiki/entities/huckleberryfinn/"
+  },
+  "HudecShanghaiArchitect": {
+    "title": "乌达克 / Hudec (Shanghai architect)",
+    "url": "/wiki/entities/hudecshanghaiarchitect/"
   },
   "HufuQishe": {
     "title": "胡服骑射 / Hu Fu Qi She",
@@ -30731,6 +30763,10 @@
     "title": "Laestrygonians",
     "url": "/wiki/entities/laestrygonians/"
   },
+  "LaiAnArchitect": {
+    "title": "赉安 / 赖安 / Lai An (architect)",
+    "url": "/wiki/entities/laianarchitect/"
+  },
   "LaiJingping": {
     "title": "赖靖平 / Lai Jingping",
     "url": "/wiki/entities/laijingping/"
@@ -31186,6 +31222,10 @@
   "LeCheng": {
     "title": "乐乘 / Le Cheng",
     "url": "/wiki/entities/lecheng/"
+  },
+  "LeCorbusier": {
+    "title": "柯布西耶 / Le Corbusier",
+    "url": "/wiki/entities/lecorbusier/"
   },
   "LeEco": {
     "title": "LeEco / 乐视",
@@ -34355,6 +34395,10 @@
     "title": "Majestic 12 Documents / MJ-12文件",
     "url": "/wiki/entities/majestic12documents/"
   },
+  "MajesticApartmentsShanghai": {
+    "title": "迈奇公寓 / Majestic Apartments (Shanghai)",
+    "url": "/wiki/entities/majesticapartmentsshanghai/"
+  },
   "MajorEventAttentionConversion": {
     "title": "Major-Event Attention Conversion",
     "url": "/wiki/concepts/majoreventattentionconversion/"
@@ -36942,6 +36986,14 @@
   "Moderna": {
     "title": "Moderna",
     "url": "/wiki/entities/moderna/"
+  },
+  "ModernistArchitecture": {
+    "title": "Modernist Architecture / 现代主义建筑",
+    "url": "/wiki/concepts/modernistarchitecture/"
+  },
+  "ModernistHeritageRecognitionGap": {
+    "title": "Modernist Heritage Recognition Gap / 现代主义遗产识别落差",
+    "url": "/wiki/concepts/modernistheritagerecognitiongap/"
   },
   "ModernizationAsCompoundGrowth": {
     "title": "Modernization As Compound Growth / 复合增长式现代化",
@@ -48395,9 +48447,21 @@
     "title": "上党 / Shangdang",
     "url": "/wiki/entities/shangdang/"
   },
+  "ShanghaiArtDecoArchitecture": {
+    "title": "Shanghai Art Deco Architecture / 上海装饰艺术派建筑",
+    "url": "/wiki/concepts/shanghaiartdecoarchitecture/"
+  },
   "ShanghaiForeignBanks": {
     "title": "Shanghai Foreign Banks",
     "url": "/wiki/concepts/shanghaiforeignbanks/"
+  },
+  "ShanghaiFrenchConcession": {
+    "title": "上海法租界 / Shanghai French Concession",
+    "url": "/wiki/entities/shanghaifrenchconcession/"
+  },
+  "ShanghaiFrenchConcessionArchitecture": {
+    "title": "Shanghai French Concession Architecture / 上海法租界建筑",
+    "url": "/wiki/concepts/shanghaifrenchconcessionarchitecture/"
   },
   "ShanghaiGoldExchange": {
     "title": "Shanghai Gold Exchange / 上海黄金交易所",
@@ -48406,6 +48470,10 @@
   "ShanghaiMaglev": {
     "title": "Shanghai Maglev / 上海磁悬浮",
     "url": "/wiki/entities/shanghaimaglev/"
+  },
+  "ShanghaiMulticulturalUrbanCulture": {
+    "title": "Shanghai Multicultural Urban Culture / 上海多元城市文化",
+    "url": "/wiki/concepts/shanghaimulticulturalurbanculture/"
   },
   "ShanghaiPudongDevelopmentBank": {
     "title": "Shanghai Pudong Development Bank / 浦发银行",
@@ -55703,6 +55771,10 @@
     "title": "Upward Management",
     "url": "/wiki/concepts/upwardmanagement/"
   },
+  "UrbanArchitecturalMemory": {
+    "title": "Urban Architectural Memory / 城市建筑记忆",
+    "url": "/wiki/concepts/urbanarchitecturalmemory/"
+  },
   "UrbanCanopyExternalities": {
     "title": "Urban Canopy Externalities",
     "url": "/wiki/concepts/urbancanopyexternalities/"
@@ -58338,6 +58410,10 @@
   "WuDunLateHan": {
     "title": "吴敦 / Wu Dun (late Han)",
     "url": "/wiki/entities/wudunlatehan/"
+  },
+  "WuFeipeng": {
+    "title": "吴飞鹏 / Wu Feipeng",
+    "url": "/wiki/entities/wufeipeng/"
   },
   "WuGeGeGeDouChongWo": {
     "title": "五个哥哥都宠我",

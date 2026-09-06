@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9003
+wiki_total_pages: 9013
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -974,6 +974,9 @@ wiki_pages:
   - key: "Gaide"
     title: "盖德"
     url: "/wiki/entities/gaide/"
+  - key: "GascoigneApartments"
+    title: "盖斯康公寓 / Gascoigne Apartments"
+    url: "/wiki/entities/gascoigneapartments/"
   - key: "GuanZhong"
     title: "管仲 / Guan Zhong"
     url: "/wiki/entities/guanzhong/"
@@ -1028,6 +1031,9 @@ wiki_pages:
   - key: "GengBiLateHan"
     title: "耿鄙 / Geng Bi (late Han)"
     url: "/wiki/entities/gengbilatehan/"
+  - key: "GardenHotelShanghai"
+    title: "花园饭店 / Garden Hotel Shanghai"
+    url: "/wiki/entities/gardenhotelshanghai/"
   - key: "GouBian"
     title: "苟变 / Gou Bian"
     url: "/wiki/entities/goubian/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6424
+wiki_total_pages: 6432
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -503,9 +503,18 @@ wiki_pages:
   - key: "ShangRemnantStateLegitimacy"
     title: "Shang-Remnant State Legitimacy / 商裔封国合法性"
     url: "/wiki/concepts/shangremnantstatelegitimacy/"
+  - key: "ShanghaiArtDecoArchitecture"
+    title: "Shanghai Art Deco Architecture / 上海装饰艺术派建筑"
+    url: "/wiki/concepts/shanghaiartdecoarchitecture/"
   - key: "ShanghaiForeignBanks"
     title: "Shanghai Foreign Banks"
     url: "/wiki/concepts/shanghaiforeignbanks/"
+  - key: "ShanghaiFrenchConcessionArchitecture"
+    title: "Shanghai French Concession Architecture / 上海法租界建筑"
+    url: "/wiki/concepts/shanghaifrenchconcessionarchitecture/"
+  - key: "ShanghaiMulticulturalUrbanCulture"
+    title: "Shanghai Multicultural Urban Culture / 上海多元城市文化"
+    url: "/wiki/concepts/shanghaimulticulturalurbanculture/"
   - key: "ShanxiCoalEconomy"
     title: "Shanxi Coal Economy"
     url: "/wiki/concepts/shanxicoaleconomy/"

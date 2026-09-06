@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9003
+wiki_total_pages: 9013
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1523,6 +1523,9 @@ wiki_pages:
   - key: "MiuLiu"
     title: "谬刘 / Miu Liu"
     url: "/wiki/entities/miuliu/"
+  - key: "MajesticApartmentsShanghai"
+    title: "迈奇公寓 / Majestic Apartments (Shanghai)"
+    url: "/wiki/entities/majesticapartmentsshanghai/"
   - key: "MeiwuFortress"
     title: "郿坞 / Meiwu Fortress"
     url: "/wiki/entities/meiwufortress/"

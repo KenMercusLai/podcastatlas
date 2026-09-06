@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 6424
+wiki_total_pages: 6432
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "UpwardManagement"
     title: "Upward Management"
     url: "/wiki/concepts/upwardmanagement/"
+  - key: "UrbanArchitecturalMemory"
+    title: "Urban Architectural Memory / 城市建筑记忆"
+    url: "/wiki/concepts/urbanarchitecturalmemory/"
   - key: "UrbanCanopyExternalities"
     title: "Urban Canopy Externalities"
     url: "/wiki/concepts/urbancanopyexternalities/"

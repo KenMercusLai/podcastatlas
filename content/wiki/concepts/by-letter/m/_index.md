@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6424
+wiki_total_pages: 6432
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -800,6 +800,12 @@ wiki_pages:
   - key: "ModernUrbanDisasterRisk"
     title: "Modern Urban Disaster Risk"
     url: "/wiki/concepts/modernurbandisasterrisk/"
+  - key: "ModernistArchitecture"
+    title: "Modernist Architecture / 现代主义建筑"
+    url: "/wiki/concepts/modernistarchitecture/"
+  - key: "ModernistHeritageRecognitionGap"
+    title: "Modernist Heritage Recognition Gap / 现代主义遗产识别落差"
+    url: "/wiki/concepts/modernistheritagerecognitiongap/"
   - key: "ModernizationAsCompoundGrowth"
     title: "Modernization As Compound Growth / 复合增长式现代化"
     url: "/wiki/concepts/modernizationascompoundgrowth/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9003
+wiki_total_pages: 9013
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1550,6 +1550,9 @@ wiki_pages:
   - key: "Shangyong"
     title: "上庸 / Shangyong"
     url: "/wiki/entities/shangyong/"
+  - key: "ShanghaiFrenchConcession"
+    title: "上海法租界 / Shanghai French Concession"
+    url: "/wiki/entities/shanghaifrenchconcession/"
   - key: "Shangcai"
     title: "上蔡 / Shangcai"
     url: "/wiki/entities/shangcai/"

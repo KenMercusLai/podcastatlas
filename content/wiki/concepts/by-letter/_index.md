@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6424
+wiki_total_pages: 6432
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1706,6 +1706,9 @@ wiki_pages:
   - key: "ArcheryFlow"
     title: "Archery Flow / 射箭专注体验"
     url: "/wiki/concepts/archeryflow/"
+  - key: "ArchitecturalArchiveResearch"
+    title: "Architectural Archive Research / 建筑档案研究"
+    url: "/wiki/concepts/architecturalarchiveresearch/"
   - key: "ArchiveAccessTradeoff"
     title: "Archive Access Tradeoff"
     url: "/wiki/concepts/archiveaccesstradeoff/"

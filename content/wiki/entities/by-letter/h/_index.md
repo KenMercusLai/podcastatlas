@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9003
+wiki_total_pages: 9013
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -725,6 +725,9 @@ wiki_pages:
   - key: "HongmenYan"
     title: "《鸿门宴》"
     url: "/wiki/entities/hongmenyan/"
+  - key: "HudecShanghaiArchitect"
+    title: "乌达克 / Hudec (Shanghai architect)"
+    url: "/wiki/entities/hudecshanghaiarchitect/"
   - key: "HeirloomImperialSeal"
     title: "传国玉玺 / Heirloom Imperial Seal"
     url: "/wiki/entities/heirloomimperialseal/"
@@ -1088,6 +1091,9 @@ wiki_pages:
   - key: "Hupu"
     title: "虎扑 / Hupu"
     url: "/wiki/entities/hupu/"
+  - key: "HengfuHistoricDistrict"
+    title: "衡复风貌区 / Hengfu Historic District"
+    url: "/wiki/entities/hengfuhistoricdistrict/"
   - key: "Haoda"
     title: "豪大"
     url: "/wiki/entities/haoda/"

@@ -15436,6 +15436,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-06] ingest | 498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师
+
+Ingested the 2026-09-04 忽左忽右 episode with 吴飞鹏 on French architect 赉安/赖安, Shanghai French Concession architecture, Hengfu-area apartments and villas, Shanghai Art Deco and modernism, archival attribution, multicultural old Shanghai, and modernist heritage recognition risk. Added source `498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be`; created `ChengYanliang`, `WuFeipeng`, `LaiAnArchitect`, `HudecShanghaiArchitect`, `LeCorbusier`, `ShanghaiFrenchConcession`, `HengfuHistoricDistrict`, `GardenHotelShanghai`, `GascoigneApartments`, `MajesticApartmentsShanghai`, `ShanghaiFrenchConcessionArchitecture`, `ShanghaiArtDecoArchitecture`, `ModernistArchitecture`, `UrbanArchitecturalMemory`, `ArchitecturalArchiveResearch`, `ModernistHeritageRecognitionGap`, `ShanghaiMulticulturalUrbanCulture`, and `ChineseModernistArchitectsInShanghai`; updated `HuzuoHuyou`, `index`, and `overview`. No settled contradiction found; candidate Lai An attributions, Lai An-Le Corbusier counterfactuals, Anna identity confusion, and Lai An's final months remain source-scoped.
+
 ## [2026-09-06] ingest | 流浪犬「旺旺」之死和一場跨境動保聲援
 
 Ingested the 2026-09-04 端闻 episode on the killing of Guangdong stray dog 旺旺, mainland coded animal-protection expression, child animal cruelty and life education, China's dedicated animal-protection law gap, Hong Kong memorials and ads, low-claim civic action, and the cruelty-footage visibility dilemma. Added source `liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan`; created `DuanwenNewsPodcast`, `WangwangDog`, `JiangHongAnimalVolunteer`, `ZhangBoAnimalLaw`, `MavisDuanReporter`, `MakChiHoAnimalAdvocate`, `HongKongSPCA`, `ChinaAnimalProtectionLawGap`, `AnimalProtectionCodedExpression`, `ChildAnimalCrueltyLifeEducation`, `AnimalPainLegalRecognition`, `HongKongAnimalSolidarity`, `LowClaimCivicAction`, and `CrueltyFootageVisibilityDilemma`; updated `AnimalAbuseViolenceLink`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; exact platform moderation chains, police-contact motives, advertising-review decisions, and individual minor-perpetrator handling remain source-scoped.
@@ -15459,6 +15463,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-06] ingest | 《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操
 
 Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Yuan Xi and Yuan Shang fleeing toward Wuhuan, Jiao Chu and Zhang Nan coercing Youzhou officials into a Cao-side blood oath, Han Heng refusing the oath, Zhang Yan's formal Black Mountain surrender, Youzhou/Wuhuan instability, Gao Gan's renewed Bingzhou rebellion, and Xun Yu recommending Du Ji for Hedong. Added source `zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o`; created `YuanXiLateHan`, `LiuFangLateHan`, `WangSongLateHan`, `JiaoChuLateHan`, `ZhangNanLateHan`, `HanHengLateHan`, `ZhaoDuLateHan`, `HuoNuLateHan`, `DuJiLateHan`, `WangYiHedongLateHan`, `WeiGuLateHan`, `FanXianLateHan`, `ZhangShengLateHan`, `ZhangYanHedongLateHan`, `LoyalRefusalLegitimacySignal`, and `TransitHubCommanderyControl`; updated `GaoGanLateHan`, `ZhangYanLateHan`, and `index`. No settled contradiction found; 张南/张衍/王邑 are disambiguated from existing routes, and minor official identities, Kuangping geography, and motive readings remain source-scoped.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-06] lint | Wiki health check
 

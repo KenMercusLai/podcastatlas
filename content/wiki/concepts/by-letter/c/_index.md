@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6424
+wiki_total_pages: 6432
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -629,6 +629,9 @@ wiki_pages:
   - key: "ChineseModelLiberalArtsConstraint"
     title: "Chinese Model Liberal Arts Constraint"
     url: "/wiki/concepts/chinesemodelliberalartsconstraint/"
+  - key: "ChineseModernistArchitectsInShanghai"
+    title: "Chinese Modernist Architects in Shanghai / 上海华人现代建筑师"
+    url: "/wiki/concepts/chinesemodernistarchitectsinshanghai/"
   - key: "ChineseModernizationCulturalGap"
     title: "Chinese Modernization Cultural Gap / 中国现代化的文化短板"
     url: "/wiki/concepts/chinesemodernizationculturalgap/"

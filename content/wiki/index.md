@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师](sources/498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be.md) — 忽左忽右 episode with 吴飞鹏 on French architect 赉安/赖安, Shanghai French Concession architecture, Art Deco, Hengfu memory, archival attribution, and the multicultural reality behind old Shanghai.
 - [流浪犬「旺旺」之死和一場跨境動保聲援](sources/liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan.md) — 端闻 episode on the 旺旺 stray-dog killing, mainland coded animal-protection expression, child cruelty and life education, China's animal-protection law gap, Hong Kong solidarity, and cautious low-claim civic action.
 - [2026秋季篇E01 血液之灾！日本艾滋血液药剂事件](sources/2026-qiuji-pian-e01-xueye-zhi-zai-riben-aizi-xueye-yaoji-shijian-fv-j4cvvj0tnhfhdinjtcmudcirj.md) — 日谈物语 autumn opener setting a social-history direction, introducing hemophilia, and announcing the Japanese AIDS blood-products incident while the available transcript ends before case details.
 - [《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？](sources/zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17.md) — 芮淇讲透资治通鉴 episode turning Xu You's fatal public credit overreach into a broader workplace and power-field lesson on high-merit threat, hierarchy boundaries, visibility reduction, and command surrender.
@@ -1940,6 +1941,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [成言梁 / Cheng Yanliang](entities/ChengYanliang.md) — 忽左忽右 host framing the Lai An architecture episode through Shanghai streets, styles, preservation, and urban memory.
+- [吴飞鹏 / Wu Feipeng](entities/WuFeipeng.md) — Architectural culture researcher reconstructing Lai An's Shanghai corpus through archives, newspapers, family lists, and field investigation.
+- [赉安 / 赖安 / Lai An (architect)](entities/LaiAnArchitect.md) — French architect presented as a major shaper of the former Shanghai French Concession and Hengfu architectural landscape.
+- [乌达克 / Hudec (Shanghai architect)](entities/HudecShanghaiArchitect.md) — Better-known Shanghai architect used as the comparison point for Lai An's underrecognized role.
+- [柯布西耶 / Le Corbusier](entities/LeCorbusier.md) — Modernist architect connected in the source to Lai An's Paris-period network and recommendation to Shanghai.
+- [上海法租界 / Shanghai French Concession](entities/ShanghaiFrenchConcession.md) — Historical Shanghai district whose architecture and culture the Lai An episode reads as mixed rather than simply French.
+- [衡复风貌区 / Hengfu Historic District](entities/HengfuHistoricDistrict.md) — Present-day historic district used as the walking map for Lai An's former French Concession works.
+- [花园饭店 / Garden Hotel Shanghai](entities/GardenHotelShanghai.md) — Former French Club building used as evidence of Lai An's durable construction and mixed classical/Art Deco design.
+- [盖斯康公寓 / Gascoigne Apartments](entities/GascoigneApartments.md) — Lai An apartment example showing modern form, high-end residential hierarchy, and service circulation.
+- [迈奇公寓 / Majestic Apartments (Shanghai)](entities/MajesticApartmentsShanghai.md) — Lai An apartment example tied to rounded balcony and curved-corner design vocabulary.
 - [端闻 / 端传媒新闻播客](entities/DuanwenNewsPodcast.md) — News podcast that reports the 旺旺 case through mainland expression constraints, animal-law expertise, and Hong Kong solidarity.
 - [Wangwang / 旺旺](entities/WangwangDog.md) — Stray dog whose killing became a public-memory symbol for animal cruelty, legal absence, and cross-border animal-protection solidarity.
 - [Jiang Hong / 江宏](entities/JiangHongAnimalVolunteer.md) — Mainland animal-welfare volunteer describing coded posting, attempted projections, venue refusals, takedowns, and police contact around the 旺旺 case.
@@ -10947,6 +10958,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Shanghai French Concession Architecture / 上海法租界建筑](concepts/ShanghaiFrenchConcessionArchitecture.md) — Built-environment frame combining Lai An, Hudec, Chinese architects, public-board patronage, mixed styles, and later interpretation.
+- [Shanghai Art Deco Architecture / 上海装饰艺术派建筑](concepts/ShanghaiArtDecoArchitecture.md) — Shanghai branch of geometric, machine-age decorative modernity explained through Lai An, cinemas, apartments, and hotel interiors.
+- [Modernist Architecture / 现代主义建筑](concepts/ModernistArchitecture.md) — Broad architectural shift from historical ornament toward new materials, simpler forms, and modern living arrangements.
+- [Urban Architectural Memory / 城市建筑记忆](concepts/UrbanArchitecturalMemory.md) — Memory process where buildings, streets, plaques, books, demolition debates, and everyday use become public city knowledge.
+- [Architectural Archive Research / 建筑档案研究](concepts/ArchitecturalArchiveResearch.md) — Attribution method using archives, newspapers, family lists, field checks, plaques, and later correction.
+- [Modernist Heritage Recognition Gap / 现代主义遗产识别落差](concepts/ModernistHeritageRecognitionGap.md) — Preservation problem where simple modernist buildings are undervalued because they do not look old or ornate.
+- [Shanghai Multicultural Urban Culture / 上海多元城市文化](concepts/ShanghaiMulticulturalUrbanCulture.md) — Corrective frame for old Shanghai as a mixed product of French administration, Russian and Jewish migration, Chinese architects, and local adaptation.
+- [Chinese Modernist Architects in Shanghai / 上海华人现代建筑师](concepts/ChineseModernistArchitectsInShanghai.md) — Branch for Chinese architects whose modernist work in Shanghai complicates foreign-architect-only accounts.
 - [China Animal Protection Law Gap / 中国动物保护立法空白](concepts/ChinaAnimalProtectionLawGap.md) — Legal gap where mainland animal harm is handled indirectly through human-interest categories rather than a dedicated animal-protection baseline.
 - [Animal Protection Coded Expression / 动保暗语表达](concepts/AnimalProtectionCodedExpression.md) — Euphemism, homophone, image, and softened-slogan pattern used when animal-protection speech is filtered or discouraged.
 - [Child Animal Cruelty Life Education / 未成年人虐待动物与生命教育](concepts/ChildAnimalCrueltyLifeEducation.md) — Prevention frame connecting juvenile animal cruelty to punishment debates, family environment, imitation, empathy, and school life education.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9003
+wiki_total_pages: 9013
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1481,6 +1481,9 @@ wiki_pages:
   - key: "LinDaiyu"
     title: "林黛玉 / Lin Daiyu"
     url: "/wiki/entities/lindaiyu/"
+  - key: "LeCorbusier"
+    title: "柯布西耶 / Le Corbusier"
+    url: "/wiki/entities/lecorbusier/"
   - key: "LiyangQinHan"
     title: "栎阳 / Liyang (Qin-Han)"
     url: "/wiki/entities/liyangqinhan/"
@@ -1640,6 +1643,9 @@ wiki_pages:
   - key: "LinXiangru"
     title: "蔺相如 / Lin Xiangru"
     url: "/wiki/entities/linxiangru/"
+  - key: "LaiAnArchitect"
+    title: "赉安 / 赖安 / Lai An (architect)"
+    url: "/wiki/entities/laianarchitect/"
   - key: "LaiJingping"
     title: "赖靖平 / Lai Jingping"
     url: "/wiki/entities/laijingping/"
