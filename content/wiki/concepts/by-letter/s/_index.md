@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6515
+wiki_total_pages: 6516
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -491,6 +491,9 @@ wiki_pages:
   - key: "ShadowAI"
     title: "Shadow AI"
     url: "/wiki/concepts/shadowai/"
+  - key: "ShakespeareHistoryPlayPoliticalMemory"
+    title: "Shakespeare History Play Political Memory / 莎剧历史剧政治记忆"
+    url: "/wiki/concepts/shakespearehistoryplaypoliticalmemory/"
   - key: "ShallowProductMarketFit"
     title: "Shallow Product-Market Fit"
     url: "/wiki/concepts/shallowproductmarketfit/"

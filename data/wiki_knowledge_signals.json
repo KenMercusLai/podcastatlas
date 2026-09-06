@@ -1211,9 +1211,9 @@
       "url": "/wiki/concepts/aicoworkers/"
     },
     "AICreativeCollaboration": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128 [BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8389b3].md",
@@ -1228,9 +1228,16 @@
           "show": "Huberman Lab",
           "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
           "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        },
+        {
+          "episode_file": "GKwRIJEOY3bQAZ64EATMgX81 [GKwRIJEOY3bQAZ64EATMgX81].md",
+          "key": "no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81",
+          "show": "三五环",
+          "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
+          "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/aicreativecollaboration/"
     },
     "AICreditAccessBias": {
@@ -1308,6 +1315,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/aidatareadiness/"
+    },
+    "AIDirectorCoreWorkflow": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 ｜ S10E11 [3c05e3d5-d8f6-44c1-97ca-698261d7b2bc].md",
+          "key": "cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc",
+          "show": "What's Next｜科技早知道",
+          "title": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11",
+          "url": "/wiki/sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc/"
+        },
+        {
+          "episode_file": "GKwRIJEOY3bQAZ64EATMgX81 [GKwRIJEOY3bQAZ64EATMgX81].md",
+          "key": "no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81",
+          "show": "三五环",
+          "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
+          "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/aidirectorcoreworkflow/"
     },
     "AIDrivenCreatorMarketing": {
       "episode_count": 1,
@@ -10380,9 +10410,9 @@
       "url": "/wiki/entities/chengjinlatehan/"
     },
     "ChengYanliang": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lskF8BdKhS71LbWJOmt3gU1kO8BE [lskF8BdKhS71LbWJOmt3gU1kO8BE].md",
@@ -10397,6 +10427,13 @@
           "show": "忽左忽右",
           "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
           "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        },
+        {
+          "episode_file": "lthQTLI5T6jSfN38mjTITZpOq3Oo [lthQTLI5T6jSfN38mjTITZpOq3Oo].md",
+          "key": "495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo",
+          "show": "忽左忽右",
+          "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
+          "url": "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
         }
       ],
       "updated": "2026-09-07",
@@ -11259,6 +11296,29 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/chocrevive/"
+    },
+    "Chouxiangzai": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 ｜ S10E11 [3c05e3d5-d8f6-44c1-97ca-698261d7b2bc].md",
+          "key": "cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc",
+          "show": "What's Next｜科技早知道",
+          "title": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11",
+          "url": "/wiki/sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc/"
+        },
+        {
+          "episode_file": "GKwRIJEOY3bQAZ64EATMgX81 [GKwRIJEOY3bQAZ64EATMgX81].md",
+          "key": "no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81",
+          "show": "三五环",
+          "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
+          "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/chouxiangzai/"
     },
     "ChrisPalmer": {
       "episode_count": 1,
@@ -20940,6 +21000,36 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/experienceformingeducation/"
     },
+    "ExpertiseAmplifiedAIUse": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP242 独立游戏，是一条搞钱好赛道吗？ [lrqbZrCEumbuGGzuERo5QB4Jv3zu].md",
+          "key": "ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu",
+          "show": "Talk三联",
+          "title": "EP242 独立游戏，是一条搞钱好赛道吗？",
+          "url": "/wiki/sources/ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu/"
+        },
+        {
+          "episode_file": "tech_20260202_0202_MP_TECH_pod_128 [tech_20260202_0202_MP_TECH_pod_128].md",
+          "key": "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Making the most of AI, without the hype",
+          "url": "/wiki/sources/tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "GKwRIJEOY3bQAZ64EATMgX81 [GKwRIJEOY3bQAZ64EATMgX81].md",
+          "key": "no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81",
+          "show": "三五环",
+          "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
+          "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/expertiseamplifiedaiuse/"
+    },
     "ExplainableAILending": {
       "episode_count": 2,
       "show_count": 2,
@@ -26601,6 +26691,22 @@
       "updated": "2026-08-24",
       "url": "/wiki/concepts/globalproductlocalization/"
     },
+    "GlobeTheatre": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lthQTLI5T6jSfN38mjTITZpOq3Oo [lthQTLI5T6jSfN38mjTITZpOq3Oo].md",
+          "key": "495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo",
+          "show": "忽左忽右",
+          "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
+          "url": "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/globetheatre/"
+    },
     "GlycationSkinAnxiety": {
       "episode_count": 1,
       "show_count": 1,
@@ -29267,6 +29373,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/henrythenavigator/"
     },
+    "HenryVPlay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lthQTLI5T6jSfN38mjTITZpOq3Oo [lthQTLI5T6jSfN38mjTITZpOq3Oo].md",
+          "key": "495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo",
+          "show": "忽左忽右",
+          "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
+          "url": "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/henryvplay/"
+    },
     "HeroicResistanceViolenceAmbiguity": {
       "episode_count": 1,
       "show_count": 1,
@@ -31666,9 +31788,9 @@
       "url": "/wiki/entities/huyangprincesseasternhan/"
     },
     "HuzuoHuyou": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来 [liHbq8vuJSQXvB7h2_pZ2xM-eQGA].md",
@@ -31690,6 +31812,13 @@
           "show": "忽左忽右",
           "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
           "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        },
+        {
+          "episode_file": "lthQTLI5T6jSfN38mjTITZpOq3Oo [lthQTLI5T6jSfN38mjTITZpOq3Oo].md",
+          "key": "495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo",
+          "show": "忽左忽右",
+          "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
+          "url": "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
         }
       ],
       "updated": "2026-09-07",
@@ -38490,9 +38619,9 @@
       "url": "/wiki/entities/liufanglatehan/"
     },
     "LiuFei": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -38507,9 +38636,16 @@
           "show": "三五环",
           "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
           "url": "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
+        },
+        {
+          "episode_file": "GKwRIJEOY3bQAZ64EATMgX81 [GKwRIJEOY3bQAZ64EATMgX81].md",
+          "key": "no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81",
+          "show": "三五环",
+          "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
+          "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/liufei/"
     },
     "LiuFuLateHan": {
@@ -40684,9 +40820,9 @@
       "url": "/wiki/concepts/loyaltycollateraldilemma/"
     },
     "LuDapeng": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -40694,6 +40830,13 @@
           "show": "忽左忽右",
           "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
           "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        },
+        {
+          "episode_file": "lthQTLI5T6jSfN38mjTITZpOq3Oo [lthQTLI5T6jSfN38mjTITZpOq3Oo].md",
+          "key": "495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo",
+          "show": "忽左忽右",
+          "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
+          "url": "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
         }
       ],
       "updated": "2026-09-07",
@@ -55156,6 +55299,45 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/rewardpredictionerrorlearning/"
     },
+    "RichardIII": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "69.闲聊推理文学：历史学者可不就是侦探吗！ [666244465].md",
+          "key": "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465",
+          "show": "蜜獾吃书",
+          "title": "69.闲聊推理文学：历史学者可不就是侦探吗！",
+          "url": "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
+        },
+        {
+          "episode_file": "lthQTLI5T6jSfN38mjTITZpOq3Oo [lthQTLI5T6jSfN38mjTITZpOq3Oo].md",
+          "key": "495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo",
+          "show": "忽左忽右",
+          "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
+          "url": "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/richardiii/"
+    },
+    "RichardIIIPlay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lthQTLI5T6jSfN38mjTITZpOq3Oo [lthQTLI5T6jSfN38mjTITZpOq3Oo].md",
+          "key": "495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo",
+          "show": "忽左忽右",
+          "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
+          "url": "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/richardiiiplay/"
+    },
     "RickKnudtson": {
       "episode_count": 1,
       "show_count": 1,
@@ -56383,9 +56565,9 @@
       "url": "/wiki/entities/samueljohnson/"
     },
     "SanWuHuan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -56400,9 +56582,16 @@
           "show": "三五环",
           "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
           "url": "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
+        },
+        {
+          "episode_file": "GKwRIJEOY3bQAZ64EATMgX81 [GKwRIJEOY3bQAZ64EATMgX81].md",
+          "key": "no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81",
+          "show": "三五环",
+          "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
+          "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/sanwuhuan/"
     },
     "Sanguozhi": {
@@ -57462,6 +57651,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/shakespeareandcompany/"
+    },
+    "ShakespeareHistoryPlayPoliticalMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lthQTLI5T6jSfN38mjTITZpOq3Oo [lthQTLI5T6jSfN38mjTITZpOq3Oo].md",
+          "key": "495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo",
+          "show": "忽左忽右",
+          "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
+          "url": "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/shakespearehistoryplaypoliticalmemory/"
     },
     "ShanBingLateHan": {
       "episode_count": 2,
@@ -68219,6 +68424,43 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/williamoforange/"
     },
+    "WilliamShakespeare": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》19丨马陵之战 [lhBAPt09X2PtdQx0uoPkP8APBaDA].md",
+          "key": "zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》19丨马陵之战",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada/"
+        },
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使 [545332195].md",
+          "key": "10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195",
+          "show": "蜜獾吃书",
+          "title": "10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使",
+          "url": "/wiki/sources/10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195/"
+        },
+        {
+          "episode_file": "lthQTLI5T6jSfN38mjTITZpOq3Oo [lthQTLI5T6jSfN38mjTITZpOq3Oo].md",
+          "key": "495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo",
+          "show": "忽左忽右",
+          "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
+          "url": "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/williamshakespeare/"
+    },
     "WilliamTheConqueror": {
       "episode_count": 1,
       "show_count": 1,
@@ -69814,6 +70056,29 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/xinpinglatehan/"
+    },
+    "XinYuanYangHuDieMeng": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 ｜ S10E11 [3c05e3d5-d8f6-44c1-97ca-698261d7b2bc].md",
+          "key": "cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc",
+          "show": "What's Next｜科技早知道",
+          "title": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11",
+          "url": "/wiki/sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc/"
+        },
+        {
+          "episode_file": "GKwRIJEOY3bQAZ64EATMgX81 [GKwRIJEOY3bQAZ64EATMgX81].md",
+          "key": "no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81",
+          "show": "三五环",
+          "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
+          "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/xinyuanyanghudiemeng/"
     },
     "XingguangCultureLimited": {
       "episode_count": 1,

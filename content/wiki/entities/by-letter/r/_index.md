@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 9116
+wiki_total_pages: 9119
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "RichardDorson"
     title: "Richard Dorson / 理查德·多尔森"
     url: "/wiki/entities/richarddorson/"
+  - key: "RichardIIIPlay"
+    title: "Richard III / 《理查三世》"
+    url: "/wiki/entities/richardiiiplay/"
   - key: "RichardIII"
     title: "Richard III / 理查三世"
     url: "/wiki/entities/richardiii/"

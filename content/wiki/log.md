@@ -15576,6 +15576,10 @@ Ran lint. See lint-report.md for details.
 
 Health and identity validation passed. Deterministic lint scanned 17,464 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, one fragile bridge (`entities/CatholicChurch` → `concepts/ReligiousControlledSubstanceExemption`), and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` was configured in the environment. Report returned in-session; `wiki/lint-report.md` was not updated.
 
+## [2026-09-07] ingest | 495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响
+
+Ingested the 2026-08-25 忽左忽右 episode with Lu Dapeng on Shakespeare as literature, theatre, English-language inheritance, and historical memory. Added source `495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo`; created `GlobeTheatre`, `HenryVPlay`, `RichardIIIPlay`, and `ShakespeareHistoryPlayPoliticalMemory`; updated `LuDapeng`, `WilliamShakespeare`, `RichardIII`, `HuzuoHuyou`, `ChengYanliang`, `index`, and `overview`. No settled contradiction found; Shakespeare biography, authorship/coauthorship speculation, history-play accuracy, idiom-origin claims, and modern theatre-quality claims remain source-scoped.
+
 ## [2026-09-06] ingest | EP385-《我的前半生》翻红：从“寄生虫”到“独立女性”，罗子君的逆袭成立吗？
 
 Ingested the 2026-09-01 无时差研究所 episode rereading 《我的前半生》 through Yi Shu's novel, the 2017 TV adaptation, short-video revival, female-supported growth, He Han's male-mentor role, consulting-era urban fantasy, and late-2010s economic memory. Added source `ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf`; created `WushichaYanjiusuo`, `YiShu`, `MyFirstHalfLife`, `LuoZijun`, `TangJing`, `HeHan`, `ChenJunsheng`, `LinglingMyFirstHalfLife`, `XueZhenzhuMyFirstHalfLife`, `MaleMentorFemaleGrowthNarrative`, `FemaleSupportDrivenGrowthNarrative`, `ShortVideoOldDramaRediscovery`, `EconomicUpswingUrbanDramaMemory`, and `PseudoIndependentWomenNarrative`; updated `index` and `overview`. No settled contradiction found; consulting layoffs, housing-price discussion, actor-reception claims, and audience-shift claims remain source-scoped cultural commentary.
@@ -15603,6 +15607,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-07] ingest | No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达
+
+Ingested the 2026-08-25 三五环 episode with Chouxiangzai on moving from CCTV documentary and commercial-video work into AI-video creation, viral internet expression, Kanye-related cultural contrast, AI short-drama workflow, client communication, and C-side attention feeding B-side services. Added source `no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81`; updated `Chouxiangzai`, `LiuFei`, `SanWuHuan`, `XinYuanYangHuDieMeng`, `AIDirectorCoreWorkflow`, `ExpertiseAmplifiedAIUse`, `AICreativeCollaboration`, `index`, and `overview`. No settled contradiction found; 抽象仔/抽象宅 naming, client/resource names, viral figures, project timing, and ROI observations remain source-scoped.
 
 ## [2026-09-07] ingest | EP384-普通人也能打得起的“司美格鲁肽”，减肥针“一针瘦十斤”背后的真相与代
 
@@ -15635,6 +15643,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | 说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？
 
 Ingested the 2026-08-26 说得好听 episode with Mureka product lead 叶律 and ACR Cloud co-founder Tony on AI music after basic generation becomes ordinary. Added source `shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc`; created `ShuoDeHaoTing`, `Mureka`, `ACRCloud`, `YeLuMureka`, `TonyACRCloud`, `AIMusicWorkflowIntegration`, `AIMusicDetectionAndLabeling`, and `AIMusicSettlementParity`; updated `GenerativeAIMusic`, `MusicIndustryAIResponse`, `index`, and `overview`. No settled contradiction found; detection accuracy, exact AI participation percentages, DSP payout policy, training-data compensation, and long-term AI classic-song potential remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 
