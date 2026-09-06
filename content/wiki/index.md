@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [2026秋季篇E01 血液之灾！日本艾滋血液药剂事件](sources/2026-qiuji-pian-e01-xueye-zhi-zai-riben-aizi-xueye-yaoji-shijian-fv-j4cvvj0tnhfhdinjtcmudcirj.md) — 日谈物语 autumn opener setting a social-history direction, introducing hemophilia, and announcing the Japanese AIDS blood-products incident while the available transcript ends before case details.
 - [《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？](sources/zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17.md) — 芮淇讲透资治通鉴 episode turning Xu You's fatal public credit overreach into a broader workplace and power-field lesson on high-merit threat, hierarchy boundaries, visibility reduction, and command surrender.
 - [《资治通鉴·汉纪》1064丨许攸之死：功高震主与性格缺陷的悲歌](sources/zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth.md) — 芮淇讲透资治通鉴 episode on Qian Zhao's submission, Cui Yan's people-first remonstrance, and Xu You's death after public credit overreach toward Cao Cao.
 - [EP282 不完美的共存：当“野生动物”成为城市“新居民”](sources/ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a.md) — Talk三联 episode on urban wildlife coexistence, feeding feedback loops, Qianling Mountain macaques, Nanjing wild boars, Shanghai raccoon dogs, city planning, animal welfare, and public-health risk.
@@ -1938,6 +1939,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [日谈物语 / Nittan Wuyu](entities/NittanWuyu.md) — Podcast show whose autumn opener frames cases as social-history reflection on groups, eras, and present uncertainty.
+- [淼叔 / Miao Shu](entities/MiaoShuNittanWuyu.md) — 日谈物语 host who carries the transition from seasonal conversation into social-history framing in the current source.
+- [小伙子 / Xiao Huozi](entities/XiaoHuoziNittanWuyu.md) — 日谈物语 co-host who reinforces the source's rapid-social-change and listener-facing setup.
+- [Japan AIDS Blood Products Incident / 日本艾滋血液药剂事件](entities/JapanAIDSBloodProductsIncident.md) — Announced public-health topic in the 日谈物语 autumn opener, currently source-limited to the title and hemophilia entry setup.
 - [郭子仪 / Guo Ziyi](entities/GuoZiyi.md) — Tang commander used in Hanji 1065 as a source-scoped model of reducing ruler suspicion through command surrender and low-threat conduct after great merit.
 - [卫青 / Wei Qing (Han general)](entities/WeiQingHanGeneral.md) — Western Han commander used in Hanji 1065 as a source-scoped model of humility and credit-sharing after high military achievement.
 - [Dwarkesh Patel](entities/DwarkeshPatel.md) — Source-scoped media reference cited for the "agent civilizations" framing in the All-In AI-agent narrative discussion.
@@ -10934,6 +10939,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Hemophilia / 血友病](concepts/Hemophilia.md) — Disease named as the entry point into the announced Japanese AIDS blood-products episode topic.
+- [Social History Case Framing / 社会史案件叙事](concepts/SocialHistoryCaseFraming.md) — Narrative method of using cases to reveal groups, historical conditions, and contemporary social anxieties.
 - [High Merit Threat Management / 功高不震主](concepts/HighMeritThreatManagement.md) — Hanji 1065 pattern for keeping real contribution from becoming a superior-facing threat through credit return, low visibility, retreat, humility, or command surrender.
 - [Urban Wildlife Coexistence / 城市野生动物共存](concepts/UrbanWildlifeCoexistence.md) — City-wildlife frame for animals becoming everyday urban neighbors through habitat change, feeding, affection, fear, planning, and public management.
 - [Wildlife Feeding Feedback Loop / 野生动物投喂反馈回路](concepts/WildlifeFeedingFeedbackLoop.md) — Mechanism where intentional or indirect feeding reduces wildlife avoidance and turns care, content, garbage, and pet food into conflict drivers.

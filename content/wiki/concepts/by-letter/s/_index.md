@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6415
+wiki_total_pages: 6417
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "SocialGrooming"
     title: "Social Grooming / 社会性梳毛"
     url: "/wiki/concepts/socialgrooming/"
+  - key: "SocialHistoryCaseFraming"
+    title: "Social History Case Framing / 社会史案件叙事"
+    url: "/wiki/concepts/socialhistorycaseframing/"
   - key: "SocialHospitalization"
     title: "Social Hospitalization / 社会性住院"
     url: "/wiki/concepts/socialhospitalization/"

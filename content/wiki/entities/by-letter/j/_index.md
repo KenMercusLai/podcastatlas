@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 8992
+wiki_total_pages: 8996
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "Japan"
     title: "Japan"
     url: "/wiki/entities/japan/"
+  - key: "JapanAIDSBloodProductsIncident"
+    title: "Japan AIDS Blood Products Incident / 日本艾滋血液药剂事件"
+    url: "/wiki/entities/japanaidsbloodproductsincident/"
   - key: "JapaneseImperialFamily"
     title: "Japanese Imperial Family"
     url: "/wiki/entities/japaneseimperialfamily/"
