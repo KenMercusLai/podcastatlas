@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI in banking: the good, the bad, and the efficient](sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128.md) — Marketplace Tech episode on smaller banks using AI for reporting, loan-document review, borrower-meeting preparation, bias control, privacy, and third-party vendor oversight.
 - [當新聞成為賭盤，記者可以大賺一筆嗎？](sources/dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79.md) — 端闻 episode on a reporter's simulated Polymarket month, prediction-market settlement power, news-as-position attention, public-good claims, and gendered market culture.
 - [No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头](sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666.md) — 半拿铁 episode on Ningbo manufacturing depth through Fangtai, Shenzhou, Yunsheng, Mideer, Boyang, single champions, family succession, and port-enabled industrial clusters.
 - [对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！](sources/dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop.md) — 十字路口Crossing interview with Ren Lifeng on Douyin product judgment, Shumei Wanwu, AI 3D manufacturing pipelines, production-grade 3D output, Maker OS ambition, and why foundation models may not absorb physical-production workflows.
@@ -1945,6 +1946,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [American Pride Bank](entities/AmericanPrideBank.md) — Macon, Georgia small lender used as the episode's internal AI reporting, budgeting, review, and market-research example.
+- [Dominic Miarten](entities/DominicMiarten.md) — American Pride Bank CEO describing AI-prepared executive scorecards for loans, interest income, and deposits.
+- [First Southwest Bank](entities/FirstSouthwestBank.md) — Colorado bank using AI for loan-document review and borrower-meeting preparation while preserving human loan decisions.
+- [Christy Escobel](entities/ChristyEscobel.md) — First Southwest Bank chief credit officer framing AI lending support around speed, relationships, bias, privacy, and accountability.
+- [Catherine Judge](entities/CatherineJudge.md) — Columbia law professor arguing for stronger direct oversight of third-party AI software vendors in banking.
+- [Beneficial State Bank](entities/BeneficialStateBank.md) — California bank represented in the episode by Sajit Channa's values-based AI governance argument.
+- [Sajit Channa](entities/SajitChanna.md) — Beneficial State Bank voice connecting AI guidelines to labor, privacy, credit access, and nondiscrimination.
 - [Ningbo / 宁波](entities/Ningbo.md) — Port-enabled Chinese manufacturing city used by episode 217 to connect industrial breadth, hidden champions, private firms, design upgrade, and export learning.
 - [Fangtai / 方太](entities/FangtaiGroup.md) — Ningbo home-appliance company showing succession-led movement from lighter exports into localized range-hood product definition, brand, channel, and service.
 - [Mao Lixiang / 毛李翔](entities/MaoLixiang.md) — First-generation Ningbo entrepreneur behind the lighter-to-Fangtai transition and later private-firm successor education.
@@ -10995,6 +11003,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Community Bank AI Adoption](concepts/CommunityBankAIAdoption.md) — Smaller-bank AI adoption frame linking reporting, budgeting, document review, borrower relationships, and regulated accountability.
+- [AI Credit Access Bias](concepts/AICreditAccessBias.md) — Fair-lending risk where AI systems can exclude worthy borrowers through proxy variables such as geography or income context.
+- [Third-Party AI Vendor Oversight](concepts/ThirdPartyAIVendorOversight.md) — Governance of outside AI software providers whose tools affect regulated institutional workflows and consumer outcomes.
+- [Values-Based AI Governance](concepts/ValuesBasedAIGovernance.md) — AI governance approach that makes institutional values, labor effects, privacy, access, and nondiscrimination explicit.
 - [Ningbo Manufacturing Depth / 一米宽，万米深](concepts/NingboManufacturingDepth.md) — Strategy frame for Ningbo firms building defensible depth inside narrow products, processes, materials, OEM systems, or design-led goods.
 - [Manufacturing Single Champion / 制造业单项冠军](concepts/ManufacturingSingleChampion.md) — Institutional specialization label used by episode 217 to make Ningbo's hidden manufacturing leaders visible.
 - [Localized Product Definition / 本土场景产品定义](concepts/LocalizedProductDefinition.md) — Product strategy of redesigning hardware around local use conditions, illustrated by Fangtai range hoods for Chinese kitchens.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2197
+topic_total_pages: 2201
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3019,6 +3019,9 @@ topic_concepts:
   - key: "ThinDiplomaticFrameworks"
     title: "Thin Diplomatic Frameworks"
     url: "/wiki/concepts/thindiplomaticframeworks/"
+  - key: "ThirdPartyAIVendorOversight"
+    title: "Third-Party AI Vendor Oversight"
+    url: "/wiki/concepts/thirdpartyaivendoroversight/"
   - key: "ThirdPartyDoctrine"
     title: "Third-Party Doctrine"
     url: "/wiki/concepts/thirdpartydoctrine/"
@@ -3151,6 +3154,9 @@ topic_concepts:
   - key: "ValuesAsOperationalAsset"
     title: "Values As Operational Asset"
     url: "/wiki/concepts/valuesasoperationalasset/"
+  - key: "ValuesBasedAIGovernance"
+    title: "Values-Based AI Governance"
+    url: "/wiki/concepts/valuesbasedaigovernance/"
   - key: "VariableInterestEntity"
     title: "Variable Interest Entity / VIE 架构"
     url: "/wiki/concepts/variableinterestentity/"
@@ -3968,6 +3974,9 @@ topic_entities:
   - key: "CassSunstein"
     title: "Cass Sunstein"
     url: "/wiki/entities/casssunstein/"
+  - key: "CatherineJudge"
+    title: "Catherine Judge"
+    url: "/wiki/entities/catherinejudge/"
   - key: "CatholicChurch"
     title: "Catholic Church"
     url: "/wiki/entities/catholicchurch/"
@@ -5943,6 +5952,9 @@ topic_sources:
   - key: "tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128"
     title: "AI firms are going back on their safety promises"
     url: "/wiki/sources/tech-20260720-0720-mp-tech-pod-128-tech-20260720-0720-mp-tech-pod-128/"
+  - key: "tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128"
+    title: "AI in banking: the good, the bad, and the efficient"
+    url: "/wiki/sources/tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585"
     title: "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585/"

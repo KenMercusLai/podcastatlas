@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 6459
+wiki_total_pages: 6463
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "ValuesAsOperationalAsset"
     title: "Values As Operational Asset"
     url: "/wiki/concepts/valuesasoperationalasset/"
+  - key: "ValuesBasedAIGovernance"
+    title: "Values-Based AI Governance"
+    url: "/wiki/concepts/valuesbasedaigovernance/"
   - key: "ValuesFirstTalent"
     title: "Values-First Talent"
     url: "/wiki/concepts/valuesfirsttalent/"

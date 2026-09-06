@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6459
+wiki_total_pages: 6463
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -641,6 +641,9 @@ wiki_pages:
   - key: "AICreativeCollaboration"
     title: "AI Creative Collaboration"
     url: "/wiki/concepts/aicreativecollaboration/"
+  - key: "AICreditAccessBias"
+    title: "AI Credit Access Bias"
+    url: "/wiki/concepts/aicreditaccessbias/"
   - key: "AICyberDefenseUtility"
     title: "AI Cyber-Defense Utility"
     url: "/wiki/concepts/aicyberdefenseutility/"

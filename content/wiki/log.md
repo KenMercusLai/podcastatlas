@@ -15531,3 +15531,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-06] lint | Wiki health check
 
 Health and identity validation passed. Deterministic lint scanned 17,443 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-09-02 with 16,930 nodes and 195,431 edges while the wiki scan covered 17,443 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, one fragile bridge, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` without provider configuration. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-09-06] ingest | AI in banking: the good, the bad, and the efficient
+
+Ingested the 2026-09-02 Marketplace Tech episode on smaller banks using AI for executive scorecards, budgeting, market research, loan-document review, and borrower-meeting preparation while avoiding AI-made loan decisions. Added source `tech-20260902-0902-mp-tech-pod-128-tech-20260902-0902-mp-tech-pod-128`; created `AmericanPrideBank`, `DominicMiarten`, `FirstSouthwestBank`, `ChristyEscobel`, `CatherineJudge`, `BeneficialStateBank`, `SajitChanna`, `CommunityBankAIAdoption`, `AICreditAccessBias`, `ThirdPartyAIVendorOversight`, and `ValuesBasedAIGovernance`; updated `AIEnabledLoanDocumentAnalysis`, `AIModelBiasGovernance`, `ExplainableAILending`, `PolicyBoundAgenticLendingSupport`, `NontraditionalBorrowerCreditAccess`, `index`, and `overview`. No settled contradiction found; vendor identities, model validation, speed claims, borrower outcomes, and exact regulatory mechanisms remain source-scoped.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

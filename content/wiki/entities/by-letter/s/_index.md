@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9046
+wiki_total_pages: 9053
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "SainteBeuve"
     title: "Sainte-Beuve / 圣伯夫"
     url: "/wiki/entities/saintebeuve/"
+  - key: "SajitChanna"
+    title: "Sajit Channa"
+    url: "/wiki/entities/sajitchanna/"
   - key: "SajithWickramasekara"
     title: "Sajith Wickramasekara"
     url: "/wiki/entities/sajithwickramasekara/"
