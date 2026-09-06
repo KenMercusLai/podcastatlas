@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9069
+wiki_total_pages: 9071
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1880,6 +1880,9 @@ wiki_pages:
   - key: "ShiYiguanLateHan"
     title: "师宜官 / Shi Yiguan"
     url: "/wiki/entities/shiyiguanlatehan/"
+  - key: "ShougongGeng"
+    title: "手工耿 / Shougong Geng"
+    url: "/wiki/entities/shougonggeng/"
   - key: "SohuVideo"
     title: "搜狐视频 / Sohu Video"
     url: "/wiki/entities/sohuvideo/"

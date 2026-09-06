@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6476
+wiki_total_pages: 6479
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "FolkCharacterEtymologyRisk"
     title: "Folk Character Etymology Risk"
     url: "/wiki/concepts/folkcharacteretymologyrisk/"
+  - key: "FolkMakerArtInterpretation"
+    title: "Folk Maker Art Interpretation / 民间手艺艺术化解读"
+    url: "/wiki/concepts/folkmakerartinterpretation/"
   - key: "FolkReligionDisasterPolitics"
     title: "Folk Religion Disaster Politics"
     url: "/wiki/concepts/folkreligiondisasterpolitics/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2417
+topic_total_pages: 2421
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -982,6 +982,9 @@ topic_concepts:
   - key: "FixedHumanNaturePolitics"
     title: "Fixed Human Nature Politics"
     url: "/wiki/concepts/fixedhumannaturepolitics/"
+  - key: "FolkMakerArtInterpretation"
+    title: "Folk Maker Art Interpretation / 民间手艺艺术化解读"
+    url: "/wiki/concepts/folkmakerartinterpretation/"
   - key: "FoodCulturalBias"
     title: "Food Cultural Bias"
     url: "/wiki/concepts/foodculturalbias/"
@@ -2317,6 +2320,9 @@ topic_concepts:
   - key: "UsefulWorkCareerCompounding"
     title: "Useful Work Career Compounding"
     url: "/wiki/concepts/usefulworkcareercompounding/"
+  - key: "UselessInventionValue"
+    title: "Useless Invention Value / 无用发明价值"
+    url: "/wiki/concepts/uselessinventionvalue/"
   - key: "UserModalityContentFit"
     title: "User-Modality-Content Fit"
     url: "/wiki/concepts/usermodalitycontentfit/"
@@ -6272,6 +6278,9 @@ topic_entities:
   - key: "LuoZijun"
     title: "罗子君 / Luo Zijun"
     url: "/wiki/entities/luozijun/"
+  - key: "LuoyonghaosCrossroads"
+    title: "罗永浩的十字路口 / Luo Yonghao's Crossroads"
+    url: "/wiki/entities/luoyonghaoscrossroads/"
   - key: "LuojiSiwei"
     title: "罗辑思维"
     url: "/wiki/entities/luojisiwei/"
@@ -7236,6 +7245,9 @@ topic_sources:
   - key: "kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080"
     title: "开天窗｜指路兼推荐几本书"
     url: "/wiki/sources/kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080/"
+  - key: "shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1"
+    title: "手工耿×罗永浩！“村口的五金店里，出现了一个达达主义艺术家”"
+    url: "/wiki/sources/shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1/"
   - key: "ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1"
     title: "把身体数据存起来，可能是普通人最划算的 AI 投资"
     url: "/wiki/sources/ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1/"

@@ -24091,6 +24091,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "FolkMakerArtInterpretation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "FolkReligionDisasterPolitics": [
     {
       "key": "politics",
@@ -38511,6 +38518,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "LuoyonghaosCrossroads": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "LureEnemyOutOfPosition": [
@@ -63950,6 +63964,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "UselessInventionValue": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "UserGeneratedContentCopyrightRisk": [
     {
       "key": "economics",
@@ -73418,6 +73439,13 @@
     }
   ],
   "shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1": [
     {
       "key": "culture",
       "label": "Culture",

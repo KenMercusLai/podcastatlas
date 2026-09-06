@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9069
+wiki_total_pages: 9071
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1604,6 +1604,9 @@ wiki_pages:
   - key: "LuoZijun"
     title: "罗子君 / Luo Zijun"
     url: "/wiki/entities/luozijun/"
+  - key: "LuoyonghaosCrossroads"
+    title: "罗永浩的十字路口 / Luo Yonghao's Crossroads"
+    url: "/wiki/entities/luoyonghaoscrossroads/"
   - key: "LuoXuan"
     title: "罗玄 / Luo Xuan"
     url: "/wiki/entities/luoxuan/"
