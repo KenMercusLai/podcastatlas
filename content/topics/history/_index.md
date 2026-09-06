@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1589
+topic_total_pages: 1593
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -148,6 +148,9 @@ topic_concepts:
   - key: "ChuThreeHouseholdsAntiQinMemory"
     title: "Chu Three-Households Anti-Qin Memory / 楚虽三户式反秦记忆"
     url: "/wiki/concepts/chuthreehouseholdsantiqinmemory/"
+  - key: "ChuHanWarDemythologizing"
+    title: "Chu-Han War Demythologizing / 楚汉战争去神话化"
+    url: "/wiki/concepts/chuhanwardemythologizing/"
   - key: "CivilizationBarbarismFrame"
     title: "Civilization-Barbarism Frame / 文明-野蛮框架"
     url: "/wiki/concepts/civilizationbarbarismframe/"
@@ -832,6 +835,9 @@ topic_concepts:
   - key: "QinAdministrativeStandardization"
     title: "Qin Administrative Standardization / 秦国行政标准化"
     url: "/wiki/concepts/qinadministrativestandardization/"
+  - key: "QinCollapseOverextension"
+    title: "Qin Collapse Overextension / 秦亡多因素解释"
+    url: "/wiki/concepts/qincollapseoverextension/"
   - key: "QinDiplomaticExclusion"
     title: "Qin Diplomatic Exclusion / 秦国外交排斥"
     url: "/wiki/concepts/qindiplomaticexclusion/"
@@ -1928,6 +1934,9 @@ topic_entities:
   - key: "GuoQinLun"
     title: "《过秦论》 / Guo Qin Lun"
     url: "/wiki/entities/guoqinlun/"
+  - key: "ZhuluQinHanBook"
+    title: "《逐鹿：神话与预言背后的秦亡汉兴》"
+    url: "/wiki/entities/zhuluqinhanbook/"
   - key: "TheSpyAndTheTraitor"
     title: "《间谍与叛徒》 / The Spy and the Traitor"
     url: "/wiki/entities/thespyandthetraitor/"
@@ -3822,6 +3831,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj"
+    title: "494 张诗坪谈战争史视角下的秦末汉初混战"
+    url: "/wiki/sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj/"
   - key: "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw"
     title: "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海"
     url: "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"

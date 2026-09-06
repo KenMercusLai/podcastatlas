@@ -1970,14 +1970,14 @@
       "earliest_episode_date": "2026-08-21",
       "latest_episode_date": "2026-09-04",
       "latest_episode_file": "lskF8BdKhS71LbWJOmt3gU1kO8BE [lskF8BdKhS71LbWJOmt3gU1kO8BE].md",
-      "source_note_count": 3,
-      "topic_matched_source_note_count": 2,
+      "source_note_count": 4,
+      "topic_matched_source_note_count": 3,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 1
+          "source_note_count": 2
         },
         {
           "key": "culture",

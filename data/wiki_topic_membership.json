@@ -1592,6 +1592,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo": [
     {
       "key": "culture",
@@ -14374,6 +14381,13 @@
     }
   ],
   "ChuFuchu": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "ChuHanWarDemythologizing": [
     {
       "key": "history",
       "label": "History",
@@ -50381,6 +50395,13 @@
       "url": "/topics/history/"
     }
   ],
+  "QinCollapseOverextension": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "QinDaotaizi": [
     {
       "key": "history",
@@ -70598,6 +70619,18 @@
     }
   ],
   "ZhuiguangAnimation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ZhuluQinHanBook": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
     {
       "key": "culture",
       "label": "Culture",

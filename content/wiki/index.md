@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [494 张诗坪谈战争史视角下的秦末汉初混战](sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj.md) — 忽左忽右 episode with Zhang Shiping on Qin collapse, Xiang Yu, Liu Bang, Julu, Xinan, Pengcheng, Han Xin, cavalry tactics, and Eurasian military comparison.
 - [Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气](sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv.md) — 文化有限 episode on Lori Gottlieb's Maybe You Should Talk to Someone, psychotherapy as relational change, defense work, insight-to-action gaps, and Gottman relationship warnings.
 - [495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响](sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo.md) — 忽左忽右 episode with Lu Dapeng on Shakespeare's literary ambiguity, mixed early-modern theatre, English idiom, history plays, Tudor legitimacy memory, the Globe Theatre, and global adaptation.
 - [No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达](sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81.md) — 三五环 interview with Chouxiangzai on CCTV documentary training, AI-video virality, internet expression, Kanye-style cultural contrast, short-drama workflow, and C-side attention becoming B-side service work.
@@ -1962,6 +1963,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [张诗平 / 张诗坪 / Zhang Shiping](entities/ZhangShiping.md) — 忽左忽右 guest using military history and source criticism to reinterpret Qin collapse and Chu-Han war.
+- [《逐鹿：神话与预言背后的秦亡汉兴》](entities/ZhuluQinHanBook.md) — Zhang Shiping book discussed through Qin-Han military history, myth, prophecy, and source-critical interpretation.
 - [Maybe You Should Talk to Someone / 《也许你该找个人聊聊》](entities/MaybeYouShouldTalkToSomeone.md) — Lori Gottlieb psychotherapy memoir read by 文化有限 as a story-driven account of pain, defense, relationship, and change.
 - [Lori Gottlieb / 洛莉·戈特利布](entities/LoriGottlieb.md) — therapist-author whose book is read through her double role as clinician and client.
 - [John Gottman / 约翰·哥特曼](entities/JohnGottman.md) — relationship researcher figure behind the source's Gottman method and four-horsemen discussion.
@@ -11089,6 +11092,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Qin Collapse Overextension / 秦亡多因素解释](concepts/QinCollapseOverextension.md) — source-scoped explanation of Qin's fall through overextension, direct-rule brittleness, court conflict, and eastern-state coalition pressure.
+- [Chu-Han War Demythologizing / 楚汉战争去神话化](concepts/ChuHanWarDemythologizing.md) — method for rereading Chu-Han stories through logistics, politics, troop quality, source criticism, and battle conditions.
+- [Eurasian Military Technology Exchange / 欧亚军事技术交流](concepts/EurasianMilitaryTechnologyExchange.md) — qualified comparative frame for Qin-Han cavalry and ancient Eurasian military technology movement.
 - [Therapeutic Defense Work / 治疗中的防御工作](concepts/TherapeuticDefenseWork.md) — Psychotherapy process of noticing and loosening protective defenses slowly enough that hidden pain can become speakable.
 - [Therapy Insight-Action Gap / 治疗中的洞察行动落差](concepts/TherapyInsightActionGap.md) — Distance between understanding a psychological pattern and doing something different after the insight.
 - [Gottman Method / 哥特曼方法](concepts/GottmanMethod.md) — Relationship-therapy framework using love maps, repair, influence, gridlock work, shared meaning, and four-horsemen warnings.

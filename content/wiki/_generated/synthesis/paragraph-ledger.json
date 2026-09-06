@@ -556,12 +556,13 @@
       "c2a1ffb4efb621f087dd97557d056c5029b11e1d2b0c3360529b1b3ffa40a8a8",
       "7aedd968f8b89040d8bacab2545ab2c77f01a1e9fd0bfca68a06280e10b552e8",
       "ba7d5a4b2effc25ea8893c2adaf8d069d7e26a7909c0818f6c652ebda5aa350a",
-      "92bc6e5245c1759f79ec6d1c56938dc9f6333c7144493e722e6253eed2bec08c"
+      "92bc6e5245c1759f79ec6d1c56938dc9f6333c7144493e722e6253eed2bec08c",
+      "528281743cf61adfbb2f8e222f1a77c3c4cc419c782293135402187a6ed7cdda"
     ],
-    "paragraph_count": 556
+    "paragraph_count": 557
   },
-  "overview_commit": "db37aaa3ed599bbd6a45ca12dcf0892ad561545d",
-  "overview_digest": "683b78ebae77b08cc83b7e3cfcdd465f7a2264927fb9188f1f756db154d9e21d",
+  "overview_commit": "dc035cfee61c241f0883093d7ad823f90bd9487c",
+  "overview_digest": "4c35628e0400805c70b130ddc8c665855953379f0d19c1ef2d1630077e886437",
   "paragraphs": [
     {
       "id": "b26998ed8105fc9962ce7130dcda6f4f84a26ac4ad79ef59cb8aaa27adc82847",
@@ -17067,6 +17068,29 @@
         "Ozempic",
         "WushichaYanjiusuo",
         "ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy"
+      ]
+    },
+    {
+      "id": "528281743cf61adfbb2f8e222f1a77c3c4cc419c782293135402187a6ed7cdda",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]], a [[HuzuoHuyou|忽左忽右]] episode with [[ZhangShiping|张诗平 / 张诗坪]] on [[ZhuluQinHanBook|《逐鹿：神话与预言背后的秦亡汉兴》]], [[QinCollapseOverextension|秦亡多因素解释]], and [[ChuHanWarDemythologizing|楚汉战争去神话化]]. It adds [[ZhangShiping]], [[ZhuluQinHanBook]], [[QinCollapseOverextension]], [[ChuHanWarDemythologizing]], and [[EurasianMilitaryTechnologyExchange]], while extending [[HuzuoHuyou]], [[ChengYanliang]], and [[HanCavalryFormation]]. Its core synthesis is that the Qin-Han transition should be read through state capacity, court conflict, coalition structure, logistics, troop quality, and source criticism rather than through a simple heroic tale of Xiang Yu's bravery, Liu Bang's luck, or Han Xin's miraculous strategy. No settled contradiction is recorded; 张诗平/张诗坪 and 陈彦良/成言梁 are kept as source-name variants, and cavalry-technology exchange remains explicitly qualified.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 4
+      },
+      "wikilinks": [
+        "494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj",
+        "ChengYanliang",
+        "ChuHanWarDemythologizing",
+        "EurasianMilitaryTechnologyExchange",
+        "HanCavalryFormation",
+        "HuzuoHuyou",
+        "QinCollapseOverextension",
+        "ZhangShiping",
+        "ZhuluQinHanBook"
       ]
     }
   ],

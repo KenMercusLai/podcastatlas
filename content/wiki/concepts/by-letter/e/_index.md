@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6520
+wiki_total_pages: 6523
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "EunuchPatronageViolenceShield"
     title: "Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行"
     url: "/wiki/concepts/eunuchpatronageviolenceshield/"
+  - key: "EurasianMilitaryTechnologyExchange"
+    title: "Eurasian Military Technology Exchange / 欧亚军事技术交流"
+    url: "/wiki/concepts/eurasianmilitarytechnologyexchange/"
   - key: "EuropeanAIIndustrialConstraints"
     title: "European AI Industrial Constraints"
     url: "/wiki/concepts/europeanaiindustrialconstraints/"

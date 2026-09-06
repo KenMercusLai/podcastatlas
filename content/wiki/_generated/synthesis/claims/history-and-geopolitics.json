@@ -21,6 +21,25 @@
     },
     {
       "global_candidate": true,
+      "id": "qin-han-demythologizing-ties-state-capacity-to-military-analysis",
+      "qualifications": [
+        "The source-name variants 张诗平/张诗坪 and 陈彦良/成言梁 remain unresolved but non-contradictory in the wiki.",
+        "The cavalry-technology exchange layer is explicitly inferential and should not be treated as proof of direct one-way transmission."
+      ],
+      "statement": "[[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]] adds a Qin-Han branch where [[QinCollapseOverextension]] and [[ChuHanWarDemythologizing]] read empire failure and war outcomes through state capacity, court conflict, coalition structure, logistics, troop quality, cavalry, and source criticism rather than through heroic shorthand.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj",
+        "QinCollapseOverextension",
+        "ChuHanWarDemythologizing",
+        "EurasianMilitaryTechnologyExchange",
+        "ZhangShiping",
+        "ZhuluQinHanBook",
+        "HanCavalryFormation"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "borderlands-accumulate-historical-layers",
       "qualifications": [
         "The Ceuta source keeps Count Julian, the Pillars of Hercules identification, Moroccan intent, and the 1415 Age of Discovery origin claim source-scoped or qualified."
@@ -111,7 +130,6 @@
       ]
     }
   ],
-  "input_digest": "b6f02f505058ceec5df08366592009af5264f083b8bd51169c0867214ca8f4ac",
-  "summary": "Hanji 1047 strengthens the Guandu branch by adding Liu Bei's Runan exit, Cao Ren's counterstrike, Ju Shou's rejected Yangwu attrition advice, and the Shaqiu camp-engineering standoff before Wuchao. History and geopolitics synthesis explains power through routes, borderlands, legitimacy claims, frontier command, institutional capacity, and public memory. The current topic spans physical chokepoints and cables, Eastern Han and late-Han court strategy, revolutionary and imperial state formation, and Ceuta's layered role as a Mediterranean-Atlantic enclave where ancient rule, Portuguese expansion, Spanish sovereignty, Moroccan claims, and migration pressure converge.",
+  "summary": "History and geopolitics synthesis explains power through routes, borderlands, legitimacy claims, frontier command, institutional capacity, military organization, and public memory. The current topic spans physical chokepoints and cables, Eastern Han and late-Han court strategy, revolutionary and imperial state formation, Ceuta's layered role as a Mediterranean-Atlantic enclave, Guandu's command-logistics threshold, and a Qin-Han military-history branch that reads Qin collapse and Chu-Han war through state capacity, coalition structure, logistics, cavalry, and source criticism.",
   "topic_id": "history-and-geopolitics"
 }

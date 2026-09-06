@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-07
-as_of_overview_commit: db37aaa3ed599bbd6a45ca12dcf0892ad561545d
-summary: "The wiki emphasizes AI, institutions, markets, culture, health, and psychology as operating systems constrained by trust, evidence, boundaries, and implementation."
-episode_count: 1954
-source_count: 1954
-paragraph_count: 556
+as_of_overview_commit: dc035cfee61c241f0883093d7ad823f90bd9487c
+summary: "The wiki emphasizes AI, institutions, markets, culture, health, psychology, and history as systems constrained by trust, evidence, capacity, boundaries, and implementation."
+episode_count: 1955
+source_count: 1955
+paragraph_count: 557
 topic_count: 8
 ---
 
@@ -20,10 +20,10 @@ topic_count: 8
 - [[shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716|商业小样48]] adds that investor-facing operating metrics need traceable denominators, comparable peer sets, historical continuity, and accessible base data: [[FinancialReportOperatingMetricIntegrity]] shows how [[LaoPuGold]]'s shifting third-party rankings through [[FrostSullivan]] can turn a luxury-positioning story into hard-to-verify market confidence theater.
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, public performance, rule systems, and dependency reshape human behavior.
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
+- [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]] adds a Qin-Han branch where [[QinCollapseOverextension]] and [[ChuHanWarDemythologizing]] read empire failure and war outcomes through state capacity, court conflict, coalition structure, logistics, troop quality, cavalry, and source criticism rather than through heroic shorthand.
 - Strategic routes become political infrastructure when control over cables, straits, ports, or enclave crossings changes what states, markets, and migrants can do.
 - [[TherapyRelationshipAndBoundaries]], [[TherapeuticDefenseWork]], and [[TherapyInsightActionGap]] add a therapy-change frame: psychological change begins when a reliable relationship lets defenses loosen and pain become speakable, but it remains incomplete until insight turns into different action outside the session.
 - [[improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956|The Attia Huberman Lab episode]] adds a preventive-longevity health-literacy branch: [[HealthspanThreeDomains]] separates lifespan from physical, cognitive, and emotional function, while [[ApoBParticleBurden]], [[AtherosclerosisPreventionTargets]], [[CancerScreeningBurdenTradeoff]], [[NeurodegenerativeRiskLevers]], [[ExercisePillarsForLongevity]], and [[DeathsOfDespairCounterfeitPillRisk]] tie ApoB, blood pressure, screening false positives, dementia uncertainty, exercise capacity, falls, fentanyl, and overdose risk to [[MedicalRiskManagement]] and [[PreventiveHealthScreening]] rather than one-size protocols.
-- Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
 
 ## Synthesis by Domain
 
@@ -57,10 +57,10 @@ Governance synthesis centers the gap between nominal authority and usable capaci
 
 ### History and Geopolitics
 
-History and geopolitics explain power through routes, borderlands, logistics, legitimacy, frontier command, institutional capacity, and memory, with recent Guandu material strengthening the command-and-logistics branch.
+History and geopolitics explain power through routes, borderlands, logistics, legitimacy, frontier command, institutional capacity, military organization, and memory; the Qin-Han branch now adds source-critical military history around state capacity, coalition structure, cavalry, and battle conditions.
 
 - [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone. Evidence: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], [[FixedCampSiegeEngineering]].
-- Borderlands such as [[Ceuta]] accumulate commercial, military, religious, sovereign, and migration layers, making present crises hard to explain through a single legal or diplomatic trigger. Evidence: [[Ceuta]], [[CeutaImperialBorderland]], [[Morocco]], [[Spain]], [[MigrationWeaponization]], [[BorderLegalSignal]], [[PortugueseMaritimeExpansion]], [[IberianReconquista]].
+- [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]] adds a Qin-Han branch where [[QinCollapseOverextension]] and [[ChuHanWarDemythologizing]] read empire failure and war outcomes through state capacity, court conflict, coalition structure, logistics, troop quality, cavalry, and source criticism rather than through heroic shorthand. Evidence: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]], [[QinCollapseOverextension]], [[ChuHanWarDemythologizing]], [[EurasianMilitaryTechnologyExchange]], [[ZhangShiping]], [[ZhuluQinHanBook]], [[HanCavalryFormation]].
 
 ### Psychology and Personal Development
 

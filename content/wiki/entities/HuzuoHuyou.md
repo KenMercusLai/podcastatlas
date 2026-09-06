@@ -7,6 +7,7 @@ sources:
   - 498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be
   - 496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw
   - 495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo
+  - 494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj
 last_updated: 2026-09-07
 knowledge_schema: synthesis-v1
 ---
@@ -17,14 +18,14 @@ knowledge_schema: synthesis-v1
 忽左忽右 is a Chinese podcast show that appears in the wiki as [[YangYi|杨一]]'s early podcasting context and as a venue for long-form cultural, urban, world-history, and theatre-history interviews hosted by [[ChengYanliang|成言梁]].
 
 ## Current Profile
-The current sources show two sides of 忽左忽右. In the podcast-ecosystem source, it is evidence for early Chinese podcast practice, market education, personal voice, communities, brand services, events, and fragmented monetization. In the 2026 topic episodes, it functions as a long-form cultural explanation venue: one interview uses [[WuFeipeng|吴飞鹏]]'s research to explain [[LaiAnArchitect|赉安 / 赖安]], [[ShanghaiFrenchConcessionArchitecture]], and [[UrbanArchitecturalMemory]], while two [[LuDapeng|Lu Dapeng]] conversations move from [[Ceuta]]'s borderland history into [[WilliamShakespeare|Shakespeare]], English theatre, and [[ShakespeareHistoryPlayPoliticalMemory]].
+The current sources show two sides of 忽左忽右. In the podcast-ecosystem source, it is evidence for early Chinese podcast practice, market education, personal voice, communities, brand services, events, and fragmented monetization. In the 2026 topic episodes, it functions as a long-form cultural explanation venue: one interview uses [[WuFeipeng|吴飞鹏]]'s research to explain [[LaiAnArchitect|赉安 / 赖安]], [[ShanghaiFrenchConcessionArchitecture]], and [[UrbanArchitecturalMemory]], two [[LuDapeng|Lu Dapeng]] conversations move from [[Ceuta]]'s borderland history into [[WilliamShakespeare|Shakespeare]], English theatre, and [[ShakespeareHistoryPlayPoliticalMemory]], and one [[ZhangShiping|Zhang Shiping]] conversation rereads Qin-Han war through [[ChuHanWarDemythologizing|楚汉战争去神话化]] and [[EurasianMilitaryTechnologyExchange|欧亚军事技术交流]].
 
 ## Key Characteristics
 - The show launched in February 2018 in a Chinese podcast market that still required listener and client education.
 - It is associated with long-form conversation and cultural explanation rather than short-feed media alone.
 - It serves media-industry self-reflection, urban-history interviews, and world-history/geography explanation.
 - Its ecosystem value includes personal voice, creator community, branded work, offline activity, and fragmented commercial surfaces.
-- Its 2026 source profile includes Shanghai architectural memory, Ceuta's imperial-borderland history, and Shakespeare as theatre-history and political-memory material.
+- Its 2026 source profile includes Shanghai architectural memory, Ceuta's imperial-borderland history, Shakespeare as theatre-history and political-memory material, and Qin-Han warfare as military-history reinterpretation.
 
 ## Evidence
 - Launch evidence: [[149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga]] says 杨一 launched 忽左忽右 in February 2018 when Chinese podcasting still needed basic market education.
@@ -33,21 +34,25 @@ The current sources show two sides of 忽左忽右. In the podcast-ecosystem sou
 - Topic evidence: [[498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be]] extends the show's wiki role from podcast-industry history into urban history and architecture memory.
 - World-history evidence: [[496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw]] presents 忽左忽右 as the venue for a historical-geography conversation on Ceuta, migration, the Strait of Gibraltar, and Portuguese maritime expansion.
 - Theatre-history evidence: [[495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo]] presents 忽左忽右 as the venue for a Shakespeare discussion that connects literature, early-modern theatre, English monarchy, and global adaptation.
+- Military-history evidence: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]] presents 忽左忽右 as the venue for a Qin-Han war discussion that connects source criticism, logistics, state capacity, cavalry, and Eurasian military comparison.
 
 ## Qualifications
-The page remains source-bounded and does not attempt a complete show catalog. The first source discusses the show through 杨一 and Chinese podcasting; the later sources discuss Cheng Yanliang-hosted cultural-history episodes.
+The page remains source-bounded and does not attempt a complete show catalog. The first source discusses the show through 杨一 and Chinese podcasting; the later sources discuss Cheng Yanliang-hosted cultural-history episodes. The Qin-Han source writes the host as 陈彦良, while existing wiki sources use 成言梁.
 
 ## What Changed
 - Added the Ceuta episode as evidence that the show also functions as a world-history and geography interview venue.
 - Added the Shakespeare episode as evidence that the show also handles theatre history and literary-political memory.
+- Added the Qin-Han episode as evidence that the show also handles military-history and source-critical reinterpretation.
 
 ## Relationships
 - [[YangYi]] - early podcast practitioner associated with the show's launch and ecosystem role.
 - [[ChengYanliang]] - host of the Lai An architecture episode.
 - [[WuFeipeng]] - guest in the Lai An episode.
 - [[LuDapeng]] - guest in the Ceuta historical-geography episode.
+- [[ZhangShiping]] - guest in the Qin-Han military-history episode.
 - [[WilliamShakespeare]] - central figure in the Shakespeare theatre-history episode.
 - [[ChinesePodcastEcosystem]] - media ecosystem branch informed by the earlier source.
 - [[ShanghaiFrenchConcessionArchitecture]] - architecture branch added by the Lai An episode.
 - [[CeutaImperialBorderland]] - world-history branch added by the Ceuta episode.
 - [[ShakespeareHistoryPlayPoliticalMemory]] - theatre-history branch added by the Shakespeare episode.
+- [[ChuHanWarDemythologizing]] - military-history branch added by the Qin-Han episode.
