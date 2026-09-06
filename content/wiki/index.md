@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [与段志强谈崇明乡野博物志：《我住长江尾》](sources/yu-duan-zhiqiang-tan-chongming-xiangye-bowuzhi-wo-zhu-changjiang-wei-8212963740-775078.md) — 博物志 episode with Duan Zhiqiang on Chongming farming, rural neighbor order, amateur versus livelihood agriculture, the writing of 《我住长江尾》, and practice-based reading of agricultural texts.
 - [EP383-王妈妈勇闯南非｜种族隔离废除30年后的今天，它真的“重生”了吗？](sources/ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk.md) — 无时差研究所 episode using a South Africa trip to connect travel safety, Johannesburg, Soweto, apartheid memory, Mandela, Robben Island, Safari, Cape Town, and post-apartheid inequality.
 - [vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切](sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i.md) — 天真不天真 return conversation with Song Jia on pausing work, acting through transmission and scent, inward self-cultivation, benevolent speech, relationships, sincere emotional support, travel, and detaching from praise or criticism.
 - [#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？](sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05.md) — 声东击西 episode with Yang Bin on the 1956 Dartmouth AI workshop, slow gathering improvisation, peripheral innovation fields, psychological safety, counterculture, Patagonia, and AI-era university reform.
@@ -1966,6 +1967,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [段志强 / Duan Zhiqiang](entities/DuanZhiqiang.md) — Writer and farming practitioner using Chongming rural life to connect labor, classical reading, food history, and nonfiction.
+- [《我住长江尾》 / Wo Zhu Changjiang Wei](entities/WoZhuChangjiangWei.md) — Duan Zhiqiang's rural-life nonfiction book formed from farming notes, textual reflection, and Chongming observation.
+- [博物志 / Bowuzhi Podcast](entities/BowuzhiPodcast.md) — Podcast show route disambiguated from the older 《博物志》 text and grounded here by the Duan Zhiqiang episode.
+- [崇明 / Chongming](entities/Chongming.md) — Rural place case for farming practice, neighbor boundaries, reuse, weather, and writing in the Duan Zhiqiang episode.
 - [Johannesburg](entities/Johannesburg.md) — South African arrival city where EP383 makes travel safety and apartheid-memory routes visible.
 - [Soweto](entities/Soweto.md) — Johannesburg-area township in EP383, read through apartheid housing, education memory, class variation, and tourism ethics.
 - [Constitution Hill Johannesburg](entities/ConstitutionHillJohannesburg.md) — Former prison-memory site where EP383 connects apartheid hierarchy, pass-law punishment, Mandela, Gandhi, and guide interpretation.
@@ -11115,6 +11120,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Amateur Farming Vs Livelihood Agriculture / 业余种地与生计农业](concepts/AmateurFarmingVsLivelihoodAgriculture.md) — Distinction between farming as chosen experience and farming as income-dependent survival.
+- [Rural Circular Use Economy / 乡村循环利用经济](concepts/RuralCircularUseEconomy.md) — Practice of keeping crop residues, soil, water, scrap, furniture, and space moving through additional rural uses.
+- [Agricultural Practice As Textual Entry / 农业实践作为文本入场券](concepts/AgriculturalPracticeAsTextualEntry.md) — Method where doing farm work changes how a reader approaches agricultural books, classical texts, food history, and older writers.
+- [Anti-Thesis Writing / 反中心思想写作](concepts/AntiThesisWriting.md) — Nonfiction form that preserves lived simultaneity instead of forcing every scene into one central argument.
+- [Rural Boundary And Neighbor Order / 乡村边界与邻里秩序](concepts/RuralBoundaryAndNeighborOrder.md) — Rural social pattern where sharing, help, scrutiny, property limits, and field boundaries coexist.
 - [Post-Apartheid Structural Inequality](concepts/PostApartheidStructuralInequality.md) — EP383 frame for durable education, wealth, space, service, safety, and governance gaps after apartheid's legal end.
 - [Complex Destination Travel Risk](concepts/ComplexDestinationTravelRisk.md) — Travel-planning risk frame for high-reward destinations that require safety preparation, route discipline, local norms, and historical attention.
 - [Evaluation Attachment Release / 放下评价执念](concepts/EvaluationAttachmentRelease.md) — Practice of not building self-worth from praise, criticism, friendship ranking, or another person's failure to meet an imagined script.

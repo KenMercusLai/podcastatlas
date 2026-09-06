@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-07
-as_of_overview_commit: 3097609984f4e73abe0981fcfed36e2e0a8b29cb
-input_digest: 18383d2bc85faff53ee5d270d4bdf94133dca5dc70da90641e6740f5cac9e6ce
+as_of_overview_commit: a605f30cb12e720ff6624bd8248a41dee1b61ad2
+input_digest: 3f7350a505a2a74cd4ddb883077da3a1cd3c32343302b89cca0f2a3ba3a825d5
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The Song Jia return conversation adds a work-and-society case where career pause, acting purpose, sensory character work, study-abroad disruption, and podcast process all become role-identity experiments rather than simple productivity stories. The Wu Hankun / 三五环 source adds a creator-work case: hands-on AI use can turn vague job-security anxiety into practical workflow knowledge, but actor substitution, likeness authorization, industry protection, and self-defined creative purpose remain work-and-society questions rather than pure model-capability questions. EP383 adds a travel-and-society case: South Africa is presented as a high-reward but complex destination where safety planning, museums, township tourism, Safari labor, education gaps, and contested Mandela memory make post-apartheid inequality visible without becoming a complete national diagnosis. Work, education, and society sources converge on a practical boundary problem: learning, career growth, institutional role transfer, creative and technical adoption, health routines, travel competence, and historical hierarchy cases all depend on fitting tools, status, incentives, evidence, and communication to the actual setting.
+The Song Jia return conversation adds a work-and-society case where career pause, acting purpose, sensory character work, study-abroad disruption, and podcast process all become role-identity experiments rather than simple productivity stories. The Wu Hankun / 三五环 source adds a creator-work case: hands-on AI use can turn vague job-security anxiety into practical workflow knowledge, but actor substitution, likeness authorization, industry protection, and self-defined creative purpose remain work-and-society questions rather than pure model-capability questions. EP383 adds a travel-and-society case: South Africa is presented as a high-reward but complex destination where safety planning, museums, township tourism, Safari labor, education gaps, and contested Mandela memory make post-apartheid inequality visible without becoming a complete national diagnosis. Work, education, and society sources converge on a practical boundary problem: learning, career growth, institutional role transfer, creative and technical adoption, health routines, travel competence, and historical hierarchy cases all depend on fitting tools, status, incentives, evidence, and communication to the actual setting. The Duan Zhiqiang Bowuzhi episode adds a work-and-society labor boundary: chosen amateur farming can produce situated knowledge and writing material, but livelihood agriculture changes the stakes through crop loss, timing pressure, injury, neighbor judgment, and self-blame.
 
 ## Cross-source Findings
 
@@ -628,3 +628,15 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 - This is source-scoped to one travel episode and should not be treated as a complete South Africa country study, safety advisory, or social-science account.
 - Crime, corruption, education-ratio, migration, labor-pattern, and local-opinion claims are travel observations and conversations that need systematic sources before becoming broader factual conclusions.
 - The claim enters work-and-society through travel competence, education inheritance, service labor, museum memory, and inequality visibility rather than through formal labor-market measurement.
+
+### Amateur Farming Shows Labor Knowledge Boundaries
+
+[[yu-duan-zhiqiang-tan-chongming-xiangye-bowuzhi-wo-zhu-changjiang-wei-8212963740-775078|The Duan Zhiqiang Bowuzhi episode]] adds a work-and-society labor boundary: [[AmateurFarmingVsLivelihoodAgriculture]], [[AgriculturalSystemsReality]], [[RuralCircularUseEconomy]], [[RuralBoundaryAndNeighborOrder]], [[Chongming]], and [[DuanZhiqiang]] show that farming knowledge can come from practice while livelihood dependence changes timing, injury, yield, neighbor judgment, and self-blame.
+
+**Evidence:** [[yu-duan-zhiqiang-tan-chongming-xiangye-bowuzhi-wo-zhu-changjiang-wei-8212963740-775078]], [[AmateurFarmingVsLivelihoodAgriculture]], [[AgriculturalSystemsReality]], [[RuralCircularUseEconomy]], [[RuralBoundaryAndNeighborOrder]], [[Chongming]], [[DuanZhiqiang]], [[Xiaohongshu]], [[FieldworkAsKnowledgeMethod]]
+
+**Qualifications:**
+
+- The labor contrast is grounded in Duan Zhiqiang's self-description and examples, not in comparative agricultural economics.
+- Crop failures, land-security anecdotes, neighbor assessments, and family labor patterns should remain local and source-scoped.
+- The claim distinguishes practice-derived knowledge from livelihood dependence without implying amateur farming is socially equivalent to farmer work.

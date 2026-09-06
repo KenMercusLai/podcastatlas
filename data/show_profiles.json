@@ -1279,8 +1279,8 @@
       ]
     },
     "三五环": {
-      "episode_count": 11,
-      "earliest_episode_date": "2026-06-18",
+      "episode_count": 12,
+      "earliest_episode_date": "2026-05-27",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
       "source_note_count": 2,
@@ -1610,9 +1610,16 @@
       "earliest_episode_date": "2026-06-21",
       "latest_episode_date": "2026-08-18",
       "latest_episode_file": "8212963740_775078 [8212963740_775078].md",
-      "source_note_count": 0,
-      "topic_matched_source_note_count": 0,
-      "topics": [],
+      "source_note_count": 1,
+      "topic_matched_source_note_count": 1,
+      "topics": [
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
+        }
+      ],
       "entities": [],
       "start_here_episode_files": [
         "8212963740_775078 [8212963740_775078].md",
@@ -2728,8 +2735,8 @@
       ]
     },
     "罗永浩的十字路口": {
-      "episode_count": 8,
-      "earliest_episode_date": "2026-06-11",
+      "episode_count": 9,
+      "earliest_episode_date": "2026-05-29",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
       "source_note_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6535
+wiki_total_pages: 6540
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -431,6 +431,9 @@ wiki_pages:
   - key: "AgingInPlaceSupportSystem"
     title: "Aging-In-Place Support System / 居家养老支持系统"
     url: "/wiki/concepts/aginginplacesupportsystem/"
+  - key: "AgriculturalPracticeAsTextualEntry"
+    title: "Agricultural Practice As Textual Entry / 农业实践作为文本入场券"
+    url: "/wiki/concepts/agriculturalpracticeastextualentry/"
   - key: "AgriculturalReliefStatecraft"
     title: "Agricultural Relief Statecraft / 农政救荒"
     url: "/wiki/concepts/agriculturalreliefstatecraft/"
@@ -1472,6 +1475,9 @@ wiki_pages:
   - key: "AlzheimerDrugEfficacyGap"
     title: "Alzheimer Drug Efficacy Gap"
     url: "/wiki/concepts/alzheimerdrugefficacygap/"
+  - key: "AmateurFarmingVsLivelihoodAgriculture"
+    title: "Amateur Farming Vs Livelihood Agriculture / 业余种地与生计农业"
+    url: "/wiki/concepts/amateurfarmingvslivelihoodagriculture/"
   - key: "AmazonDSPLaborModel"
     title: "Amazon DSP Labor Model"
     url: "/wiki/concepts/amazondsplabormodel/"
@@ -1652,6 +1658,9 @@ wiki_pages:
   - key: "AntiQinCoalitionFragmentation"
     title: "Anti-Qin Coalition Fragmentation / 反秦阵营诸侯化分裂"
     url: "/wiki/concepts/antiqincoalitionfragmentation/"
+  - key: "AntiThesisWriting"
+    title: "Anti-Thesis Writing / 反中心思想写作"
+    url: "/wiki/concepts/antithesiswriting/"
   - key: "AntiUsurpationCoalitionPressure"
     title: "Anti-Usurpation Coalition Pressure / 讨逆同盟压力"
     url: "/wiki/concepts/antiusurpationcoalitionpressure/"

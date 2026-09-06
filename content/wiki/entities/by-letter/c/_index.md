@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9145
+wiki_total_pages: 9149
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1382,6 +1382,9 @@ wiki_pages:
   - key: "CenZhiLateHan"
     title: "岑晊 / Cen Zhi (late Han)"
     url: "/wiki/entities/cenzhilatehan/"
+  - key: "Chongming"
+    title: "崇明 / Chongming"
+    url: "/wiki/entities/chongming/"
   - key: "CuiJian"
     title: "崔健 / Cui Jian"
     url: "/wiki/entities/cuijian/"

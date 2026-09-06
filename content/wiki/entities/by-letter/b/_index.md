@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9145
+wiki_total_pages: 9149
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -926,6 +926,9 @@ wiki_pages:
   - key: "Bolangsha"
     title: "博浪沙 / Bolangsha"
     url: "/wiki/entities/bolangsha/"
+  - key: "BowuzhiPodcast"
+    title: "博物志 / Bowuzhi Podcast"
+    url: "/wiki/entities/bowuzhipodcast/"
   - key: "BoJing"
     title: "博靖 / Bo Jing"
     url: "/wiki/entities/bojing/"
