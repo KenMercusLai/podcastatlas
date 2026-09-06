@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？](sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc.md) — 说得好听 episode with Mureka and ACR Cloud on AI music after the demo stage: workflow integration, copyright detection, AI labeling, DSP settlement, bulk generation, and platform governance.
 - [#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿](sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de.md) — 声东击西 episode with WFP worker Wang Hongrui on South Sudan refugee hunger, registration gaps, cash-aid cuts, nutrition triage, funding shortfalls, and school meals.
 - [496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海](sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw.md) — 忽左忽右 episode using Ceuta to connect Moroccan migration crossings, Strait of Gibraltar geography, ancient and medieval Mediterranean rule, Portuguese expansion, Spanish sovereignty, and migration weaponization.
 - [史蒂夫说472期 - 赵今朝 - 化解焦虑最佳方法：拆解问题，温柔相待](sources/shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh.md) — 史蒂夫说 interview with Zhao Jinzhao / Dr. Claire on anxiety as demand-resource mismatch, body arousal, family transmission, and gentle support through decomposition.
@@ -1956,6 +1957,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [说得好听 / Shuo De Hao Ting](entities/ShuoDeHaoTing.md) — Music podcast entering the wiki through EP56's discussion of AI music industry rules after generation becomes ordinary.
+- [Mureka](entities/Mureka.md) — AI music generation product represented by Ye Lu in EP56, grounding workflow integration and copyright-check claims.
+- [ACR Cloud](entities/ACRCloud.md) — Audio recognition and fingerprinting API company represented by Tony in EP56, grounding AI music detection and copyright infrastructure.
+- [叶律 / Ye Lu](entities/YeLuMureka.md) — Mureka product lead arguing that AI music has crossed ordinary listenability while workflow, professional quality, copyright checks, and payout rules remain unsettled.
+- [Tony / ACR Cloud](entities/TonyACRCloud.md) — ACR Cloud co-founder explaining audio fingerprinting, model-pattern detection, and the equal-value argument for AI music settlement.
 - [South Sudan / 南苏丹](entities/SouthSudan.md) — Country setting for WFP refugee-food-aid cuts, compound humanitarian crisis, and Sudanese displacement into camps near Aweil.
 - [World Food Programme / 世界粮食计划署](entities/WorldFoodProgramme.md) — UN food-aid agency represented through emergency cash, nutrition support, school meals, and funding-constrained South Sudan operations.
 - [UNHCR / 联合国难民署](entities/UNHCR.md) — UN refugee agency whose registration work gates the aid sequence for newly arrived Sudanese refugees in Wedweil.
@@ -11067,6 +11073,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [AI Music Workflow Integration](concepts/AIMusicWorkflowIntegration.md) — Shift from one-prompt AI song generation toward embedded musician workflows, skill-like assets, agent-style tools, and release checks.
+- [AI Music Detection and Labeling](concepts/AIMusicDetectionAndLabeling.md) — Audio-specific provenance problem around copyright checks, model-pattern detection, AI-use labels, and unclear participation thresholds.
+- [AI Music Settlement Parity](concepts/AIMusicSettlementParity.md) — Dispute over whether AI-generated tracks should receive equal platform payout when listener or DSP value appears equivalent.
 - [Refugee Aid Registration Gap / 难民登记援助空窗](concepts/RefugeeAidRegistrationGap.md) — Interval between camp arrival and aid eligibility where necessary identity checks can still leave hungry families without immediate support.
 - [Emergency Cash Assistance / 紧急现金援助](concepts/EmergencyCashAssistance.md) — Humanitarian cash support that becomes fragile when it replaces a fuller food basket under weak livelihoods and funding cuts.
 - [Nutrition Triage Threshold / 营养不良分诊门槛](concepts/NutritionTriageThreshold.md) — Clinical eligibility cutoff for scarce fortified nutrition support, exposing painful edge cases around visible hunger.

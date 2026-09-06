@@ -171,6 +171,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/abriefhistoryofintelligence/"
     },
+    "ACRCloud": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/acrcloud/"
+    },
     "ADHDSelfDiagnosisBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -1769,6 +1785,54 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/aimodelorchestration/"
+    },
+    "AIMusicDetectionAndLabeling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/aimusicdetectionandlabeling/"
+    },
+    "AIMusicSettlementParity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/aimusicsettlementparity/"
+    },
+    "AIMusicWorkflowIntegration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/aimusicworkflowintegration/"
     },
     "AIOfficeAgent": {
       "episode_count": 3,
@@ -25535,6 +25599,36 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/generativeaihollywoodproduction/"
     },
+    "GenerativeAIMusic": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128 [BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8389b3].md",
+          "key": "ep-17-ais-impact-on-creativity-a-consumers-perspective",
+          "show": "Data Science With Sam",
+          "title": "EP 17: AI's Impact on Creativity: A Consumer's Perspective",
+          "url": "/wiki/sources/ep-17-ais-impact-on-creativity-a-consumers-perspective/"
+        },
+        {
+          "episode_file": "tech_20260817_TECH_pod_128 [tech_20260817_TECH_pod_128].md",
+          "key": "tech-20260817-tech-pod-128-tech-20260817-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can an AI music company make nice with human artists?",
+          "url": "/wiki/sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128/"
+        },
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/generativeaimusic/"
+    },
     "GenesisMission": {
       "episode_count": 2,
       "show_count": 1,
@@ -45094,6 +45188,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/multimodaladultneuroplasticity/"
     },
+    "Mureka": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/mureka/"
+    },
     "MuscleAsLongevityInfrastructure": {
       "episode_count": 3,
       "show_count": 3,
@@ -45139,6 +45249,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/musicbasedemotionregulation/"
+    },
+    "MusicIndustryAIResponse": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260817_TECH_pod_128 [tech_20260817_TECH_pod_128].md",
+          "key": "tech-20260817-tech-pod-128-tech-20260817-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can an AI music company make nice with human artists?",
+          "url": "/wiki/sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128/"
+        },
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/musicindustryairesponse/"
     },
     "MusicMemoryCueing": {
       "episode_count": 1,
@@ -58150,6 +58283,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/shumeiwanwu/"
     },
+    "ShuoDeHaoTing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/shuodehaoting/"
+    },
     "ShusunWujiLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -64058,6 +64207,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/tongmarebelarmyeasternhan/"
+    },
+    "TonyACRCloud": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/tonyacrcloud/"
     },
     "TopDownExemplarGovernance": {
       "episode_count": 2,
@@ -71255,6 +71420,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/yelatehan/"
+    },
+    "YeLuMureka": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "6c1b89cdfc157b23f26fac509d36d7fc [6c1b89cdfc157b23f26fac509d36d7fc].md",
+          "key": "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc",
+          "show": "说得好听",
+          "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+          "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/yelumureka/"
     },
     "YiShu": {
       "episode_count": 1,

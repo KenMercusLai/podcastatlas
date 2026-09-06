@@ -1403,6 +1403,10 @@
     "title": "ACLU of New Mexico",
     "url": "/wiki/entities/acluofnewmexico/"
   },
+  "ACRCloud": {
+    "title": "ACR Cloud",
+    "url": "/wiki/entities/acrcloud/"
+  },
   "ACuo": {
     "title": "阿错 / Acuo",
     "url": "/wiki/entities/acuo/"
@@ -2214,6 +2218,18 @@
   "AIModelValueSurveying": {
     "title": "AI Model Value Surveying",
     "url": "/wiki/concepts/aimodelvaluesurveying/"
+  },
+  "AIMusicDetectionAndLabeling": {
+    "title": "AI Music Detection and Labeling",
+    "url": "/wiki/concepts/aimusicdetectionandlabeling/"
+  },
+  "AIMusicSettlementParity": {
+    "title": "AI Music Settlement Parity",
+    "url": "/wiki/concepts/aimusicsettlementparity/"
+  },
+  "AIMusicWorkflowIntegration": {
+    "title": "AI Music Workflow Integration",
+    "url": "/wiki/concepts/aimusicworkflowintegration/"
   },
   "AINPCSocialInfrastructure": {
     "title": "AI NPC Social Infrastructure",
@@ -37927,6 +37943,10 @@
     "title": "Moura Budberg / 穆拉·巴德伯格",
     "url": "/wiki/entities/murabudberg/"
   },
+  "Mureka": {
+    "title": "Mureka",
+    "url": "/wiki/entities/mureka/"
+  },
   "MurrayDarlingBasin": {
     "title": "Murray-Darling Basin",
     "url": "/wiki/entities/murraydarlingbasin/"
@@ -49679,6 +49699,10 @@
     "title": "《顺流而上》 / Upstream Documentary",
     "url": "/wiki/entities/shunliuershangdocumentary/"
   },
+  "ShuoDeHaoTing": {
+    "title": "说得好听 / Shuo De Hao Ting",
+    "url": "/wiki/entities/shuodehaoting/"
+  },
   "ShuojieHanzi150Jiang": {
     "title": "《说解汉字150讲》",
     "url": "/wiki/entities/shuojiehanzi150jiang/"
@@ -54998,6 +55022,10 @@
   "TonleSapLake": {
     "title": "Tonle Sap Lake / 洞里萨湖",
     "url": "/wiki/entities/tonlesaplake/"
+  },
+  "TonyACRCloud": {
+    "title": "Tony / ACR Cloud",
+    "url": "/wiki/entities/tonyacrcloud/"
   },
   "TonyContentEngineer": {
     "title": "东尼 / Tony (content engineer)",
@@ -60887,6 +60915,10 @@
     "title": "邺城 / Ye (Late Han)",
     "url": "/wiki/entities/yelatehan/"
   },
+  "YeLuMureka": {
+    "title": "叶律 / Ye Lu",
+    "url": "/wiki/entities/yelumureka/"
+  },
   "YeWarringStates": {
     "title": "邺城 / Ye (Warring States)",
     "url": "/wiki/entities/yewarringstates/"
@@ -65790,6 +65822,10 @@
   "shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1": {
     "title": "手工耿×罗永浩！“村口的五金店里，出现了一个达达主义艺术家”",
     "url": "/wiki/sources/shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1/"
+  },
+  "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc": {
+    "title": "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？",
+    "url": "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"
   },
   "slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a": {
     "title": "Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip",

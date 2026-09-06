@@ -15623,3 +15623,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-07] ingest | 说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？
+
+Ingested the 2026-08-26 说得好听 episode with Mureka product lead 叶律 and ACR Cloud co-founder Tony on AI music after basic generation becomes ordinary. Added source `shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc`; created `ShuoDeHaoTing`, `Mureka`, `ACRCloud`, `YeLuMureka`, `TonyACRCloud`, `AIMusicWorkflowIntegration`, `AIMusicDetectionAndLabeling`, and `AIMusicSettlementParity`; updated `GenerativeAIMusic`, `MusicIndustryAIResponse`, `index`, and `overview`. No settled contradiction found; detection accuracy, exact AI participation percentages, DSP payout policy, training-data compensation, and long-term AI classic-song potential remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9107
+wiki_total_pages: 9112
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2108,6 +2108,9 @@ wiki_pages:
   - key: "SouthwestAssociatedUniversity"
     title: "西南联大"
     url: "/wiki/entities/southwestassociateduniversity/"
+  - key: "ShuoDeHaoTing"
+    title: "说得好听 / Shuo De Hao Ting"
+    url: "/wiki/entities/shuodehaoting/"
   - key: "ShuboKhotanLateHan"
     title: "输僰 / Shubo (Khotan, late Han)"
     url: "/wiki/entities/shubokhotanlatehan/"
