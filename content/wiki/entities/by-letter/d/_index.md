@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9075
+wiki_total_pages: 9083
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "Delhi"
     title: "Delhi"
     url: "/wiki/entities/delhi/"
+  - key: "DeliaOwens"
+    title: "Delia Owens / 迪利亚·欧文斯"
+    url: "/wiki/entities/deliaowens/"
   - key: "Delicious"
     title: "Delicious"
     url: "/wiki/entities/delicious/"
@@ -935,6 +938,9 @@ wiki_pages:
   - key: "Dalaoshi"
     title: "大老师 / Dalaoshi"
     url: "/wiki/entities/dalaoshi/"
+  - key: "DaLaoshiCultureLimited"
+    title: "大老师（文化有限）"
+    url: "/wiki/entities/dalaoshiculturelimited/"
   - key: "Daxiong"
     title: "大雄"
     url: "/wiki/entities/daxiong/"

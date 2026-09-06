@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9075
+wiki_total_pages: 9083
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "XinYuanYangHuDieMeng"
     title: "新鸳鸯蝴蝶梦"
     url: "/wiki/entities/xinyuanyanghudiemeng/"
+  - key: "XingguangCultureLimited"
+    title: "星光（文化有限）"
+    url: "/wiki/entities/xingguangculturelimited/"
   - key: "XiangJun"
     title: "湘君 / Xiangjun"
     url: "/wiki/entities/xiangjun/"

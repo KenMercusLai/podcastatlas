@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2208
+topic_total_pages: 2209
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1912,6 +1912,9 @@ topic_concepts:
   - key: "NaturalHazardSocialDisaster"
     title: "Natural Hazard As Social Disaster"
     url: "/wiki/concepts/naturalhazardsocialdisaster/"
+  - key: "NatureLawLegalJustice"
+    title: "Nature-Law / Legal-Justice Conflict / 自然法则与法律正义冲突"
+    url: "/wiki/concepts/naturelawlegaljustice/"
   - key: "NewOrderAssetPricing"
     title: "New Order Asset Pricing"
     url: "/wiki/concepts/neworderassetpricing/"

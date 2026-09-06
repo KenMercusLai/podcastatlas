@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”](sources/vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr.md) — 文化有限 episode rereading Where the Crawdads Sing through marsh marginality, female growth, film adaptation, legal justice, natural law, wild-child motifs, and victim-held forgiveness.
 - [八月广播电视报：怎么所有人的青铜时代都在崩溃](sources/bayue-guangbo-dianshibao-zenme-suoyouren-de-qingtongshidai-dou-zai-bengkui-gkwrijioazzebf7pfatp6hhf.md) — 展开讲讲 culture-review episode linking creator obituaries, summer films, dramas, variety shows, stranger ethics, public participation, minority safety, and midlife body adjustments.
 - [手工耿×罗永浩！“村口的五金店里，出现了一个达达主义艺术家”](sources/shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1.md) — 罗永浩的十字路口 interview on 手工耿's welded inventions, manual craft path, short-video creator work, commercial restraint, and useful/useless art-adjacent value.
 - [No.232 吴汉坤：AI 时代，演员第一个丢饭碗？](sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj.md) — 三五环 interview with Wu Hankun on acting, AI short films, Frederick AI, performance rhythm, likeness authorization, and hands-on AI practice as an antidote to vague creator anxiety.
@@ -1951,6 +1952,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [《蝲蛄吟唱的地方》 / Where the Crawdads Sing](entities/WhereTheCrawdadsSing.md) — Delia Owens novel read by Culture Limited as a female-growth, marsh-marginality, nature-writing, mystery, and justice-ambiguity case.
+- [《沼泽深处的女孩》 / Where the Crawdads Sing Film](entities/WhereTheCrawdadsSingFilm.md) — Film adaptation critiqued for prettifying Kya's poverty, compressing childhood, simplifying poetry, and weakening point-of-view coherence.
+- [Delia Owens / 迪利亚·欧文斯](entities/DeliaOwens.md) — Author of Where the Crawdads Sing whose scientific nature-writing and contested Zambia background are kept as source-scoped reading context.
+- [Kya Clark / 基亚](entities/KyaClark.md) — Marsh-raised protagonist used by the episode to connect abandonment, self-rule, love-learning, social exclusion, justice, and selective forgiveness.
+- [Tate Walker / 泰特](entities/TateWalker.md) — Character whose literacy, care, and publication help make him Kya's intimacy-and-learning counterpart.
+- [Chase Andrews / 蔡司](entities/ChaseAndrews.md) — Murder-case and threat figure whose death turns Kya's marginality into a law, evidence, and moral-judgment problem.
+- [大老师（文化有限）](entities/DaLaoshiCultureLimited.md) — Culture Limited host voice foregrounding nature/civilization conflict, evidentiary collision, and wild-child marginality in the Crawdads episode.
+- [星光（文化有限）](entities/XingguangCultureLimited.md) — Culture Limited host voice foregrounding southern wetland history, legal justice, childhood abandonment, and victim-held forgiveness.
 - [展开讲讲 / Zhankai Jiangjiang](entities/ZhankaiJiangjiang.md) — culture-commentary podcast show using a "电视报" format to connect media reviews, creator memory, public mood, and everyday life.
 - [安盼熙 / Ahn Pan-seok](entities/AhnPanSeok.md) — Korean television director remembered for literary realism, women's subjectivity, class detail, and the hosts' early viewing language.
 - [东野圭吾 / Higashino Keigo](entities/HigashinoKeigo.md) — Japanese mystery writer framed through Chinese reader memory, clean prose, moral ambiguity, and crime's social causes.
@@ -11030,6 +11039,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Wetland Marginal Space / 湿地边缘空间](concepts/WetlandMarginalSpace.md) — Literary-social frame where a marsh shelters excluded people while also marking them as outside school, property, law, and respectability.
+- [Nature-Law / Legal-Justice Conflict / 自然法则与法律正义冲突](concepts/NatureLawLegalJustice.md) — Narrative tension between ecological survival logic and human law's evidentiary, procedural, and moral judgment demands.
+- [Victim Forgiveness Agency / 受害者原谅主动权](concepts/VictimForgivenessAgency.md) — Ethical frame that treats forgiveness as the harmed person's right rather than a duty imposed by perpetrators or bystanders.
+- [Wild-Child Marginality / 野孩子边缘性](concepts/WildChildMarginality.md) — Motif where a child formed outside ordinary society tests whether nature, reason, affection, and civilization can be reconciled.
+- [Literary Adaptation Texture Loss / 文学改编质感流失](concepts/LiteraryAdaptationTextureLoss.md) — Adaptation pattern where a film preserves plot while losing roughness, duration, material pressure, ambiguity, or point-of-view discipline.
 - [Culture-Review TV Report Format / 文化电视报式评论](concepts/CultureReviewTvReportFormat.md) — podcast review structure that uses many works and life fragments as one cultural weather report.
 - [Creator Obituary Memory / 创作者讣告记忆](concepts/CreatorObituaryMemory.md) — public remembrance frame linking creator deaths to audience memory, biography form, and health reflection.
 - [Stranger Hospitality Ethics / 陌生人宾客伦理](concepts/StrangerHospitalityEthics.md) — cross-work ethics of how stories test societies through guests, outsiders, refugees, children, and unknown others.

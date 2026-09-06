@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9075
+wiki_total_pages: 9083
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -581,9 +581,15 @@ wiki_pages:
   - key: "WumingXianjing"
     title: "《污名陷阱》"
     url: "/wiki/entities/wumingxianjing/"
+  - key: "WhereTheCrawdadsSingFilm"
+    title: "《沼泽深处的女孩》 / Where the Crawdads Sing Film"
+    url: "/wiki/entities/wherethecrawdadssingfilm/"
   - key: "WildeStrangeStories"
     title: "《王尔德奇异故事集》 / Wilde Strange Stories"
     url: "/wiki/entities/wildestrangestories/"
+  - key: "WhereTheCrawdadsSing"
+    title: "《蝲蛄吟唱的地方》 / Where the Crawdads Sing"
+    url: "/wiki/entities/wherethecrawdadssing/"
   - key: "Wanjiu"
     title: "万九 / Wanjiu"
     url: "/wiki/entities/wanjiu/"

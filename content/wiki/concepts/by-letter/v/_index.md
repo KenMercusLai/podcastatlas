@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 6485
+wiki_total_pages: 6490
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "VictimBlamingAsInstitutionalDefense"
     title: "Victim Blaming As Institutional Defense"
     url: "/wiki/concepts/victimblamingasinstitutionaldefense/"
+  - key: "VictimForgivenessAgency"
+    title: "Victim Forgiveness Agency / 受害者原谅主动权"
+    url: "/wiki/concepts/victimforgivenessagency/"
   - key: "VictimStigmaInTrueCrime"
     title: "Victim Stigma In True Crime"
     url: "/wiki/concepts/victimstigmaintruecrime/"

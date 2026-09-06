@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6485
+wiki_total_pages: 6490
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "NatureCityProximity"
     title: "Nature-City Proximity / 城市自然邻近"
     url: "/wiki/concepts/naturecityproximity/"
+  - key: "NatureLawLegalJustice"
+    title: "Nature-Law / Legal-Justice Conflict / 自然法则与法律正义冲突"
+    url: "/wiki/concepts/naturelawlegaljustice/"
   - key: "NavalShipbuildingThroughput"
     title: "Naval Shipbuilding Throughput"
     url: "/wiki/concepts/navalshipbuildingthroughput/"

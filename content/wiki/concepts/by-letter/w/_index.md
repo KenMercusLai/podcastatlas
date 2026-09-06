@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6485
+wiki_total_pages: 6490
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "WetlandAdaptation"
     title: "Wetland Adaptation"
     url: "/wiki/concepts/wetlandadaptation/"
+  - key: "WetlandMarginalSpace"
+    title: "Wetland Marginal Space / 湿地边缘空间"
+    url: "/wiki/concepts/wetlandmarginalspace/"
   - key: "WhatOverHowWorkShift"
     title: "What Over How Work Shift"
     url: "/wiki/concepts/whatoverhowworkshift/"
@@ -239,6 +242,9 @@ wiki_pages:
   - key: "WildAnimalRescueResponsibility"
     title: "Wild-Animal Rescue Responsibility"
     url: "/wiki/concepts/wildanimalrescueresponsibility/"
+  - key: "WildChildMarginality"
+    title: "Wild-Child Marginality / 野孩子边缘性"
+    url: "/wiki/concepts/wildchildmarginality/"
   - key: "WildfireClimateFeedback"
     title: "Wildfire Climate Feedback"
     url: "/wiki/concepts/wildfireclimatefeedback/"

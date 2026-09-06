@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9075
+wiki_total_pages: 9083
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -488,6 +488,9 @@ wiki_pages:
   - key: "ChartleyManor"
     title: "Chartley Manor"
     url: "/wiki/entities/chartleymanor/"
+  - key: "ChaseAndrews"
+    title: "Chase Andrews / 蔡司"
+    url: "/wiki/entities/chaseandrews/"
   - key: "ChaseKoch"
     title: "Chase Koch"
     url: "/wiki/entities/chasekoch/"
