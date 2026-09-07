@@ -15948,6 +15948,10 @@ Ingested the 2026-07-25 纵横四海 Mini MBA episode on marketing management as
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-08] ingest | 史蒂夫说467期 - Joan姐 - 看清自我后，就没人能阻挡你活出自我了
+
+Added source note for Steve's long interview on psychology, Wenchuan crisis intervention, love, vulnerability, father-son repair, parenting, Innerworld, and self-understanding as vitality. Updated the Steve / 史蒂夫说 cluster, created Innerworld, and added self-understanding/vulnerability concepts. No settled contradiction found.
+
 ## [2026-09-08] ingest | No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？
 
 Ingested the 2026-07-07 三五环 episode on AI-enabled celebrity voice and likeness infringement in Douyin ecommerce. Added source `no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d`; created `DouyinEcommerce`, `ZhuWeiLegalScholar`, `JiaxuDouyinEcommerce`, `AIEcommerceInfringementGovernance`, `PlatformRightsPreReview`, and `PlatformAuthorizationBoundary`; updated `SanWuHuan`, `LiuFei`, `ActorLikenessAuthorization`, `AIVoiceCloningRights`, `AIPublicLikenessGeneration`, `index`, and `log`. No settled contradiction found; enforcement figures, authorization disputes, and celebrity examples remain source-scoped.
@@ -15967,6 +15971,10 @@ Ingested the 2026-07-15 独树不成林 episode on Jonathan Haidt, The Anxious G
 ## [2026-09-08] ingest | #398 一场美国观察漫谈：世界杯红牌、南非白人劳工
 
 Ingested the 2026-07-16 声东击西 episode with Xu Tao and Liu Xiaoqian on Trump's World Cup red-card intervention, American exceptionalism, white South African workers in Mississippi agriculture, selective refugee/immigration policy, white-victimhood narratives, and foreign-reporting distance. Added source `398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7`; created `LiuXiaoqian`, `AmericanExceptionalism`, `SouthAfricanWhiteMigrantLabor`, `SelectiveWhiteRefugeeException`, `WhiteVictimhoodNarrative`, and `EmbeddedForeignReporting`; updated `SouthAfrica`, `Mississippi`, `IdentityPoliticsAsPoliticalSorting`, `SportsPoliticalInterference`, `ShengdongJixi`, `XuTao`, `index`, and `overview`. No settled contradiction found; visa categories, quota figures, wage claims, local pay-disparity allegations, and worker motives remain source-scoped.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-08] lint | Wiki health check
 

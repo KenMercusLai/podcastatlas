@@ -581,12 +581,13 @@
       "cbbe62c03d8335e2e5dca77db200eb628895d1c17f7e2e8fee61cb7f8f0291ae",
       "5f42ccecf5aba2d7233c6344ba2eaf2864f133e18d0af4d0c92d5bc37ee4d5dc",
       "d8d7ba16097695a34f30d301f24adcba5812c1f4801c4f85c3ab1b1f88697cb4",
-      "50c10ede37a5054232536c4055debd33554deb141412a8be7da09db5505c5e9c"
+      "50c10ede37a5054232536c4055debd33554deb141412a8be7da09db5505c5e9c",
+      "84dd49ac166e4697c7944d5e84ddfcbab4c58fe49670c3ea55a8fcc24b4214bf"
     ],
-    "paragraph_count": 581
+    "paragraph_count": 582
   },
-  "overview_commit": "ee2e442a5f90628725b1c81e7d51a72356377e94",
-  "overview_digest": "e3edccbcecb8bbb411d9b289ce1ce337209f248e4f73257c2efe07048b7cc777",
+  "overview_commit": "4c4ed167fee58fac7f7fcd7a7db1e368f7939471",
+  "overview_digest": "3ab88177fcf9adcd81755152007f9a43db4a54d10a382767b26a237490a13924",
   "paragraphs": [
     {
       "id": "934678f21fc5dae88ac422035cc7224a0cce38c899ba484c6a245e74426573b7",
@@ -17809,6 +17810,27 @@
         "ShiDiFuShuo",
         "SteveShiDiFuShuoHost",
         "shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j"
+      ]
+    },
+    {
+      "id": "84dd49ac166e4697c7944d5e84ddfcbab4c58fe49670c3ea55a8fcc24b4214bf",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The latest addition is [[shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg|史蒂夫说467期 - Joan姐 - 看清自我后，就没人能阻挡你活出自我了]], a [[ShiDiFuShuo|史蒂夫说]] interview that backfills [[SteveShiDiFuShuoHost|Steve]]'s biographical psychology frame before the later counselor-letter and anxiety episodes. It adds [[Innerworld]], [[SelfUnderstandingAsVitality]], and [[VulnerabilityAsLoveSource]], while extending [[BodyBasedSelfTrust]], [[BoxingAsEmbodiedAgency]], [[IntergenerationalPatternPause]], and [[MaleEmotionalIntimacyNeed]]. Its core synthesis is that vitality grows when people can narrate who they are, be seen in concrete relationships, touch vulnerability without turning it into shame, and use body/community practices to exit head-only rumination. No settled contradiction is recorded; Innerworld's outcomes, youth-depression prevalence, and gendered love-inability claims remain source-scoped.",
+      "topic_scores": {
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "BodyBasedSelfTrust",
+        "BoxingAsEmbodiedAgency",
+        "Innerworld",
+        "IntergenerationalPatternPause",
+        "MaleEmotionalIntimacyNeed",
+        "SelfUnderstandingAsVitality",
+        "ShiDiFuShuo",
+        "SteveShiDiFuShuoHost",
+        "VulnerabilityAsLoveSource",
+        "shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg"
       ]
     }
   ],

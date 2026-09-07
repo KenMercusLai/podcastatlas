@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 6664
+wiki_total_pages: 6666
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -227,6 +227,9 @@ wiki_pages:
   - key: "VulcanizedSoleTradeoff"
     title: "Vulcanized Sole Tradeoff"
     url: "/wiki/concepts/vulcanizedsoletradeoff/"
+  - key: "VulnerabilityAsLoveSource"
+    title: "Vulnerability As Love Source / 脆弱作为爱的源泉"
+    url: "/wiki/concepts/vulnerabilityaslovesource/"
   - key: "VernacularFemaleReligiousWriting"
     title: "女性宗教白话书写 / Vernacular Female Religious Writing"
     url: "/wiki/concepts/vernacularfemalereligiouswriting/"

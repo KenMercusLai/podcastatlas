@@ -90,16 +90,20 @@
       "id": "body-and-movement-build-regulation-and-self-trust",
       "qualifications": [
         "Embodied practices work best as repeated regulation habits, not one-time fixes.",
-        "Physical approaches should be adapted to health status and are not replacements for needed professional care."
+        "Physical approaches should be adapted to health status and are not replacements for needed professional care.",
+        "Sparring, ritual, and intense body practice require consent, coaching, and community safety rather than generic toughness."
       ],
-      "statement": "[[EmbodiedAnxietyRegulation]] and [[BodyBasedSelfTrust]] present bodily sensation, movement, breath, warmth, contact, and present-oriented grounding as routes for rebuilding self-trust after anxiety or chronic alarm.",
+      "statement": "[[EmbodiedAnxietyRegulation]], [[BodyBasedSelfTrust]], and [[BoxingAsEmbodiedAgency]] present bodily sensation, movement, breath, warmth, contact, sparring, ritual, and present-oriented grounding as routes for rebuilding self-trust after anxiety, chronic alarm, or head-only rumination.",
       "status": "supported",
       "supporting_wikilinks": [
         "EmbodiedAnxietyRegulation",
         "BodyBasedSelfTrust",
+        "BoxingAsEmbodiedAgency",
+        "Innerworld",
         "EmotionRegulationToolkit",
         "ActionAgainstAnxiety",
-        "BrainBodyEmotionMapping"
+        "BrainBodyEmotionMapping",
+        "shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg"
       ]
     },
     {
@@ -165,6 +169,29 @@
         "BodyBasedSelfTrust",
         "EmotionRegulationToolkit",
         "PsychologicalBoundaryProtection"
+      ]
+    },
+    {
+      "global_candidate": true,
+      "id": "self-understanding-vulnerability-and-community-generate-vitality",
+      "qualifications": [
+        "The claim is grounded in Steve's public interview and should not be generalized into a universal theory of depression, motivation, social class, or gender.",
+        "Self-narration and vulnerability do not replace material support, clinical care, safety planning, or boundaries in unsafe relationships.",
+        "Innerworld's effects and safety profile remain source-scoped to Steve's account."
+      ],
+      "statement": "[[SelfUnderstandingAsVitality]] and [[VulnerabilityAsLoveSource]] add that vitality can grow when people narrate who they are, are seen in concrete relationships, contact softness without shame, and use embodied communities such as [[Innerworld]] to make self-contact practical.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "SelfUnderstandingAsVitality",
+        "VulnerabilityAsLoveSource",
+        "Innerworld",
+        "ShiDiFuShuo",
+        "SteveShiDiFuShuoHost",
+        "BodyBasedSelfTrust",
+        "BoxingAsEmbodiedAgency",
+        "IntergenerationalPatternPause",
+        "MaleEmotionalIntimacyNeed",
+        "shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg"
       ]
     },
     {
@@ -1514,8 +1541,8 @@
       ]
     }
   ],
-  "input_digest": "255a40b4a85be759bbaf3e456dd95feb1c3ec2aec050d15c5fcefc3395fb8731",
-  "summary": "Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, and careful boundaries around self-interpretation. The newer Steve Says material adds that psychological language can become self-punitive when it is used to monitor the self from a detached, purely logical stance, and episode 468 extends this by showing how omnipotent self-blame can make distress feel controllable while obscuring context, memory, body state, and other people. Across the topic, body contact, emotional granularity, relational support, proportional responsibility, and concrete grounding practices help move pain from defective identity toward workable information. The AHA Creator paragraph remains a secondary work-judgment case: stronger AI can automate repeated workflow steps, but founders and customers still need field exposure, budget judgment, and final approval responsibility. The Tong Li episode adds a sex-psychology branch: life-course sex education, nonjudgmental counseling boundaries, embodied self-knowledge, and relationship-context sexual function extend the same pattern into intimacy, shame, pleasure, responsibility, and male vulnerability.",
+  "input_digest": "1c2bf76d3be7a272bf79329c7ed29b5cb2df25192df3de10b336f4198c243b97",
+  "summary": "Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation. The Steve Says cluster now spans counselor letters, sex education, anxiety interviews, and Steve's own biography: psychological language can become self-punitive when it is detached from body and care, while self-understanding, vulnerability, and being seen can restore vitality when they remain bounded by consent, context, and clinical humility. Across the topic, body contact, emotional granularity, relational support, proportional responsibility, and concrete grounding practices help move pain from defective identity toward workable information. The Tong Li episode adds a sex-psychology branch: life-course sex education, nonjudgmental counseling boundaries, embodied self-knowledge, and relationship-context sexual function extend the same pattern into intimacy, shame, pleasure, responsibility, and male vulnerability. The AHA Creator paragraph remains a secondary work-judgment case: stronger AI can automate repeated workflow steps, but founders and customers still need field exposure, budget judgment, and final approval responsibility.",
   "title": "Psychology and Personal Development",
   "topic_id": "psychology-and-personal-development"
 }

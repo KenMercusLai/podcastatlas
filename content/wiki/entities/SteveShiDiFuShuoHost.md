@@ -7,6 +7,7 @@ sources:
   - shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi
   - shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb
   - shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j
+  - shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg
 last_updated: 2026-09-08
 knowledge_schema: synthesis-v1
 ---
@@ -14,10 +15,10 @@ knowledge_schema: synthesis-v1
 # Steve (史蒂夫说 host)
 
 ## Overview
-Steve is the host of [[ShiDiFuShuo|史蒂夫说]] in [[shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh]], where he interviews [[ZhaoJinzhao|赵金昭 / Dr. Claire]] about anxiety, in [[shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi]] and [[shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j]], where he answers listener letters about trauma, self-blame, overthinking, flashbacks, loneliness, and body-based self-trust, and in [[shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb]], where he interviews [[TongLiSexEducator|童立 / Tong Li]] about sex, relationships, and exploration.
+Steve is the host of [[ShiDiFuShuo|史蒂夫说]] in [[shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh]], where he interviews [[ZhaoJinzhao|赵金昭 / Dr. Claire]] about anxiety, in [[shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi]] and [[shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j]], where he answers listener letters about trauma, self-blame, overthinking, flashbacks, loneliness, and body-based self-trust, in [[shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb]], where he interviews [[TongLiSexEducator|童立 / Tong Li]] about sex, relationships, and exploration, and in [[shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg]], where he gives a long self-reflective interview about psychology, love, vulnerability, family repair, parenting, and [[Innerworld]].
 
 ## Current Profile
-Across the current sources, Steve functions as a reflective psychology host who moves between clinical language and ordinary life. In the Claire interview, he brings personal examples of anxiety signals, body tension, shame sensitivity, family dynamics, and relationship repair. In the counselor-letter episodes, he interprets listener experiences while repeatedly warning against turning psychological insight into self-surveillance, omnipotent self-blame, or endless reasoning. In the Tong Li interview, he moves sex away from taboo spectacle and toward body, relationship, male vulnerability, safety, AI-era connection, and the life meaning of exploration.
+Across the current sources, Steve functions as a reflective psychology host who moves between clinical language, ordinary life, and his own biography. In the Claire interview, he brings personal examples of anxiety signals, body tension, shame sensitivity, family dynamics, and relationship repair. In the counselor-letter episodes, he interprets listener experiences while repeatedly warning against turning psychological insight into self-surveillance, omnipotent self-blame, or endless reasoning. In the Tong Li interview, he moves sex away from taboo spectacle and toward body, relationship, male vulnerability, safety, AI-era connection, and the life meaning of exploration. Episode 467 supplies the backstory behind that posture: psychology gave him a way to narrate himself, crisis intervention gave his work social responsibility, fatherhood and marriage deepened his vulnerability frame, and Innerworld turned body practice and community into a growth environment.
 
 ## Key Characteristics
 - Uses self-observation as interview material, including facial tension, urgency, shallow breathing, and bodily release.
@@ -25,7 +26,7 @@ Across the current sources, Steve functions as a reflective psychology host who 
 - Frames the episode around making anxiety concrete enough to name, de-escalate, and approach gently.
 - Uses listener letters to distinguish trauma-linked safety adaptations and self-blame from moral weakness or personality defect.
 - Treats body, feeling, anger, touch, and self-care as necessary counterparts to rational explanation.
-- Keeps therapy and psychological vocabulary bounded by comfort, safety, and actual care.
+- Keeps therapy and psychological vocabulary bounded by comfort, safety, actual care, and the goal of restored vitality.
 - Uses sex, parenting, and boxing examples to connect relationship safety, embodied self-knowledge, vulnerability, slowing down, and responsible exploration.
 
 ## Evidence
@@ -37,14 +38,15 @@ Across the current sources, Steve functions as a reflective psychology host who 
 - Body route - [[shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi]] recommends bodily soothing, relational touch, movement, and boxing-like practice as ways to reduce over-dependence on thought.
 - Sex and relationship framing - [[shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb]] has Steve connect sexual recession, parenting fatigue, boxing vulnerability, safe crying, AI-era relationship scarcity, podcast expression, and exploration as life meaning.
 - Self-blame and flashback framing - [[shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j]] has Steve distinguish situational hardship from personal failure, introduce [[OmnipotentSelfBlame]] and [[PainOrientation]], and teach [[EmotionalFlashbackGrounding]] through body cues, present-safety language, and multiple interpretations.
+- Biographical self-understanding - [[shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg]] has Steve connect psychology study, a personal-growth paper, parent interviews, Wenchuan crisis intervention, father-son repair, intimate surrender, parenting, and Innerworld to [[SelfUnderstandingAsVitality]] and [[VulnerabilityAsLoveSource]].
 
 ## Qualifications
-The page disambiguates this Steve from other entities named Steve in the wiki. His full legal name, credentials, and broader hosting history are not established by the current sources.
+The page disambiguates this Steve from other entities named Steve in the wiki. His full legal name, credential history, Innerworld operating details, and broader hosting history are not established by the current sources.
 
 ## What Changed
-- Added Steve's counselor-letter role and his caution against head-only psychology use.
-- Added Steve's sex-and-exploration framing from the Tong Li interview.
-- Added episode 468's self-blame, pain-orientation, loneliness, intrusive-thought, and emotional-flashback branch.
+- Added Steve's biographical episode 467 frame around self-understanding, crisis intervention, love, vulnerability, parenting, and Innerworld.
+- Clarified that his body-and-relationship orientation now spans counseling letters, sex education, anxiety interviews, and community practice.
+- Preserved the existing counselor-letter and sex-exploration profile while making vitality and self-narration explicit.
 
 ## Relationships
 - [[ShiDiFuShuo|史蒂夫说]] - show he hosts in the current source.
@@ -61,3 +63,6 @@ The page disambiguates this Steve from other entities named Steve in the wiki. H
 - [[OmnipotentSelfBlame]] - self-blame pattern he identifies in episode 468.
 - [[PainOrientation]] - coping-experiment frame he proposes for unavoidable loneliness and uncertainty.
 - [[EmotionalFlashbackGrounding]] - trauma-grounding practice he explains through listener examples.
+- [[Innerworld]] - boxing-and-psychology community he describes and co-founded with his wife.
+- [[SelfUnderstandingAsVitality]] - self-knowledge and vitality frame grounded in his biographical interview.
+- [[VulnerabilityAsLoveSource]] - love, softness, and strength frame he develops across family, partnership, parenting, and masculinity.

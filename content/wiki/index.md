@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [史蒂夫说467期 - Joan姐 - 看清自我后，就没人能阻挡你活出自我了](sources/shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg.md) — 史蒂夫说 interview on Steve's psychology origin, Wenchuan crisis intervention, love, vulnerability, father-son repair, parenting, Innerworld boxing community, and self-understanding as vitality.
 - [No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？](sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d.md) — 三五环 episode on AI-enabled celebrity voice and likeness infringement in Douyin ecommerce, platform pre-review, authorization boundaries, false positives, and consumer confusion.
 - [史蒂夫说468期 - 咨询师回信：独自努力长大的人容易陷入全能自恋的陷阱](sources/shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j.md) — 史蒂夫说 counselor-letter episode on study-abroad loneliness, creator anxiety, intrusive thoughts, negative narrative, emotional flashbacks, omnipotent self-blame, pain orientation, and grounding.
 - [#396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？](sources/396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a.md) — 声东击西 episode on Brexit ten years later, British post-imperial identity, economic stagnation, social ritual, nationalism, and Global Britain.
@@ -2004,6 +2005,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Innerworld](entities/Innerworld.md) — boxing-and-psychology community described by Steve as a growth environment for embodied self-contact, ritual, vulnerability, and peer support.
 - [Douyin E-commerce / 抖音电商](entities/DouyinEcommerce.md) — Douyin commerce layer discussed through AI-enabled celebrity voice and likeness infringement, rights pre-review, product/account/live-room confusion, and authorization maintenance.
 - [Zhu Wei / 朱威 (legal scholar)](entities/ZhuWeiLegalScholar.md) — Communication-law and internet-law scholar explaining rights, protected interests, consumer confusion, and authorization boundaries in the Douyin ecommerce infringement episode.
 - [Jiaxu / 嘉旭 (Douyin E-commerce)](entities/JiaxuDouyinEcommerce.md) — Douyin ecommerce platform operator explaining AI-enabled infringement detection, reporting, appeals, authorization records, and false-positive risks.
@@ -11269,6 +11271,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Self-Understanding As Vitality / 看清自己带来的生命力](concepts/SelfUnderstandingAsVitality.md) — Frame that life energy grows when a person can narrate, understand, and be witnessed in their own story.
+- [Vulnerability As Love Source / 脆弱作为爱的源泉](concepts/VulnerabilityAsLoveSource.md) — Claim that love depends on contact with softness, need, grief, fear, and imperfection rather than invulnerability.
 - [AI E-commerce Infringement Governance / AI电商侵权治理](concepts/AIEcommerceInfringementGovernance.md) — Platform practice of detecting and adjudicating AI-assisted voice, face, name, trademark, account, live-room, and product-page misuse in commerce.
 - [Platform Rights Pre-Review / 平台权利前置审查](concepts/PlatformRightsPreReview.md) — Upstream rights-protection mechanism using rights-owner data and automated detection before content, accounts, products, or live-selling reaches consumers.
 - [Platform Authorization Boundary / 平台授权边界](concepts/PlatformAuthorizationBoundary.md) — Scope limit for using another party's portrait, voice, name, trademark, content, or synthetic likeness across platform, time, category, account, and use mode.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6664
+wiki_total_pages: 6666
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "SelfTestingMemoryPractice"
     title: "Self-Testing Memory Practice"
     url: "/wiki/concepts/selftestingmemorypractice/"
+  - key: "SelfUnderstandingAsVitality"
+    title: "Self-Understanding As Vitality / 看清自己带来的生命力"
+    url: "/wiki/concepts/selfunderstandingasvitality/"
   - key: "SelfWorthJudgmentRecovery"
     title: "Self-Worth Judgment Recovery / 价值判断权收回"
     url: "/wiki/concepts/selfworthjudgmentrecovery/"
