@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [351-西方政府禁止青少年使用社交媒体走到哪步了？](sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym.md) — 独树不成林 episode on Jonathan Haidt, youth social-media age bans, Australian age-gating, minimum-information verification, design regulation, and civil-liberties boundaries.
 - [罗永浩的X字路口！一年一度装x大会](sources/luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx.md) — 罗永浩的十字路口 panel episode using "装逼" to analyze class, education, taste, social media, cultural distance, and stand-up comedy as social signaling.
 - [#398 一场美国观察漫谈：世界杯红牌、南非白人劳工](sources/398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7.md) — 声东击西 episode connecting Trump's World Cup red-card intervention, American exceptionalism, white South African farm workers in Mississippi, selective immigration policy, and white-victimhood narratives.
 - [史蒂夫说469期 - 童立 - 最好的关系是在爱人怀里尽情阳w早x](sources/shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb.md) — 史蒂夫说 interview with Tong Li on sexual recession, lifelong sex education, sexual exploration, male vulnerability, sexual-function relationship context, counseling boundaries, AI companionship, and adult products as relationship tools.
@@ -1999,6 +2000,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Jonathan Haidt](entities/JonathanHaidt.md) — Psychologist and public advocate whose The Anxious Generation frames the youth social-media restriction branch.
+- [The Anxious Generation](entities/TheAnxiousGeneration.md) — Jonathan Haidt book used to connect teen mental health, smartphones, social media, childhood independence, and policy restrictions.
 - [小齐 / Xiao Qi (Stand-Up Comedian)](entities/XiaoQiStandup.md) — Stand-up comedian whose self-mocking low-education posture anchors the episode's implicit status-performance case.
 - [张俊 / Zhang Jun (Stand-Up Comedian)](entities/ZhangJunStandup.md) — Stand-up comedian whose elite education, accent, vocabulary, and analytic language anchor the episode's explicit status-display case.
 - [史礼芬 / Shi Lifen](entities/ShiLifen.md) — Media creator and panelist used in the episode to discuss knowledge-world vocabulary, phonetics, literary-youth taste, and cultural display.
@@ -16501,6 +16504,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Manual Compliance MVP](concepts/ManualComplianceMVP.md) — Startup validation pattern where founders deliver a manual compliance artifact, such as a SOC 2 gap spreadsheet, before building software.
 - [Annual Upfront SaaS Cash Flow](concepts/AnnualUpfrontSaaSCashFlow.md) — SaaS payment-timing pattern where annual prepayment funds early operations and extends runway when customer urgency is real.
 - [Social Media Product Liability](concepts/SocialMediaProductLiability.md) — Legal frame treating harmful social-platform features, defaults, safeguards, recommendation systems, and parent-burden choices as product design rather than only speech or hosting.
+- [Social Media Design Regulation](concepts/SocialMediaDesignRegulation.md) — Policy frame targeting manipulative platform architecture while preserving lawful speech and open information access.
 - [AI Worker Literacy](concepts/AIWorkerLiteracy.md) — Worker-facing AI readiness frame that gives basic tool fluency while leaving displacement, safeguards, and productivity-gain distribution unresolved.
 - [Prediction Market Self-Regulation](concepts/PredictionMarketSelfRegulation.md) — Platform-led guardrail strategy for blocking prohibited traders or insider-informed event-market activity before external rules arrive.
 - [Structural Health Monitoring](concepts/StructuralHealthMonitoring.md) — Sensor and data layer for tracking how critical structure members perform, grounded by the Key Bridge rebuild.

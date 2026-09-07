@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9256
+wiki_total_pages: 9258
 wiki_pages:
   - key: "BlueMarblePhoto"
     title: "1967 Whole-Earth Color Image / Blue Marble Source-Scoped"

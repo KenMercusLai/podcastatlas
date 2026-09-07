@@ -34927,6 +34927,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "JonathanHaidt": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "JonathanHurst": [
     {
       "key": "technology",
@@ -61852,6 +61859,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "TheAnxiousGeneration": [
     {
       "key": "culture",
       "label": "Culture",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9256
+wiki_total_pages: 9258
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "TheAITurningPoint"
     title: "The AI Turning Point"
     url: "/wiki/entities/theaiturningpoint/"
+  - key: "TheAnxiousGeneration"
+    title: "The Anxious Generation"
+    url: "/wiki/entities/theanxiousgeneration/"
   - key: "TheArtOfInsubordination"
     title: "The Art of Insubordination / 不服从的艺术"
     url: "/wiki/entities/theartofinsubordination/"

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3d1b6566fbfbb91214a3a381be53924349a5d6b793491de8d50216d7c9c9370a",
       "d66bf76f63a54f6d0c888a125471cc6b4924d5d75d0afdc05503088901bb06b5",
       "1c4c81d2f81d19c9d1729c8d925bf8b7ebea82d9bd235775df205554ce76e233",
       "73a0796fef8f07ea5fe826d0489cd461be04f03b0c915241ec019258fb08734e",
@@ -579,11 +580,45 @@
       "5f42ccecf5aba2d7233c6344ba2eaf2864f133e18d0af4d0c92d5bc37ee4d5dc",
       "d8d7ba16097695a34f30d301f24adcba5812c1f4801c4f85c3ab1b1f88697cb4"
     ],
-    "paragraph_count": 577
+    "paragraph_count": 578
   },
-  "overview_commit": "ab2543d9aa9fca6816c85394ad0b8de87bd57d7b",
-  "overview_digest": "b968407654da51b0d86fc666632dbf997fd04fab1b86a8114b781326463ac602",
+  "overview_commit": "fcb3004a78b14d09c3fe5fa9a67651e76e3c8384",
+  "overview_digest": "7a050356465a7a31da9fc99df23ea77a269405a619819e898ff5da7e64eb8af9",
   "paragraphs": [
+    {
+      "id": "3d1b6566fbfbb91214a3a381be53924349a5d6b793491de8d50216d7c9c9370a",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym|351-西方政府禁止青少年使用社交媒体走到哪步了？]], a [[DushuBuchenglin|独树不成林]] episode connecting [[JonathanHaidt]], [[TheAnxiousGeneration]], youth social-media age bans, platform design, and age verification. It adds [[JonathanHaidt]], [[TheAnxiousGeneration]], and [[SocialMediaDesignRegulation]], while extending [[SocialMediaAgeBans]], [[OnlineAgeVerification]], [[SocialMediaAgeGateSpeechBurden]], [[AddictiveInteractionDesign]], [[PlatformDataRegulation]], [[YouthOnlineSpeechRights]], [[CrossBorderPlatformSpeechRegulation]], [[Australia]], [[France]], [[UnitedKingdom]], [[EuropeanUnion]], [[UnitedStates]], [[Apple]], [[Google]], and [[YouTube]]. Its core synthesis is that youth social-media regulation is moving from a simple access-ban debate toward a design-and-infrastructure problem: account creation turns platform use into a data contract, parents face collective-action pressure, minimum-information age checks may be less invasive than repeated platform-by-platform ID demands, and product-design rules can target addictive architectures without making the state decide acceptable speech. No settled contradiction is recorded; Australian usage-decline reports, implementation details, age-assurance routing, and country-specific legal limits remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym",
+        "AddictiveInteractionDesign",
+        "Apple",
+        "Australia",
+        "CrossBorderPlatformSpeechRegulation",
+        "DushuBuchenglin",
+        "EuropeanUnion",
+        "France",
+        "Google",
+        "JonathanHaidt",
+        "OnlineAgeVerification",
+        "PlatformDataRegulation",
+        "SocialMediaAgeBans",
+        "SocialMediaAgeGateSpeechBurden",
+        "SocialMediaDesignRegulation",
+        "TheAnxiousGeneration",
+        "UnitedKingdom",
+        "UnitedStates",
+        "YouTube",
+        "YouthOnlineSpeechRights"
+      ]
+    },
     {
       "id": "d66bf76f63a54f6d0c888a125471cc6b4924d5d75d0afdc05503088901bb06b5",
       "primary_topic": "work-education-and-society",

@@ -38024,6 +38024,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/jointsymptomescalation/"
     },
+    "JonathanHaidt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luvc8M2kuqKYv2hddFCsE_6ogxym [luvc8M2kuqKYv2hddFCsE_6ogxym].md",
+          "key": "351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym",
+          "show": "独树不成林",
+          "title": "351-西方政府禁止青少年使用社交媒体走到哪步了？",
+          "url": "/wiki/sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/jonathanhaidt/"
+    },
     "JonathanHurst": {
       "episode_count": 1,
       "show_count": 1,
@@ -51969,6 +51985,43 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/onitsukatiger/"
     },
+    "OnlineAgeVerification": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits [40647420].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420/"
+        },
+        {
+          "episode_file": "tech_20260724_0724_MP_TECH_pod_128 [tech_20260724_0724_MP_TECH_pod_128].md",
+          "key": "tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "OpenAI model unintentionally hacks another company's system",
+          "url": "/wiki/sources/tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251226_1226_MP_TECH_pod_128 [tech_20251226_1226_MP_TECH_pod_128].md",
+          "key": "tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How online age-gating laws went mainstream this year",
+          "url": "/wiki/sources/tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "luvc8M2kuqKYv2hddFCsE_6ogxym [luvc8M2kuqKYv2hddFCsE_6ogxym].md",
+          "key": "351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym",
+          "show": "独树不成林",
+          "title": "351-西方政府禁止青少年使用社交媒体走到哪步了？",
+          "url": "/wiki/sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/onlineageverification/"
+    },
     "OpenClosedAIMarketStructure": {
       "episode_count": 1,
       "show_count": 1,
@@ -64363,9 +64416,9 @@
       "url": "/wiki/concepts/socialhistorycaseframing/"
     },
     "SocialMediaAgeBans": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20260724_0724_MP_TECH_pod_128 [tech_20260724_0724_MP_TECH_pod_128].md",
@@ -64380,9 +64433,16 @@
           "show": "声东击西",
           "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
           "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
+        },
+        {
+          "episode_file": "luvc8M2kuqKYv2hddFCsE_6ogxym [luvc8M2kuqKYv2hddFCsE_6ogxym].md",
+          "key": "351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym",
+          "show": "独树不成林",
+          "title": "351-西方政府禁止青少年使用社交媒体走到哪步了？",
+          "url": "/wiki/sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/socialmediaagebans/"
     },
     "SocialMediaCausationScienceWars": {
@@ -64421,6 +64481,29 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/socialmediacausationsciencewars/"
+    },
+    "SocialMediaDesignRegulation": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "32ada8c4-0584-42b5-a062-a336275a2cb5 [32ada8c4-0584-42b5-a062-a336275a2cb5].md",
+          "key": "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4",
+          "show": "声东击西",
+          "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
+          "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
+        },
+        {
+          "episode_file": "luvc8M2kuqKYv2hddFCsE_6ogxym [luvc8M2kuqKYv2hddFCsE_6ogxym].md",
+          "key": "351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym",
+          "show": "独树不成林",
+          "title": "351-西方政府禁止青少年使用社交媒体走到哪步了？",
+          "url": "/wiki/sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/socialmediadesignregulation/"
     },
     "SocialMediaProductLiability": {
       "episode_count": 12,
@@ -68925,6 +69008,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/teyanataylor/"
+    },
+    "TheAnxiousGeneration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luvc8M2kuqKYv2hddFCsE_6ogxym [luvc8M2kuqKYv2hddFCsE_6ogxym].md",
+          "key": "351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym",
+          "show": "独树不成林",
+          "title": "351-西方政府禁止青少年使用社交媒体走到哪步了？",
+          "url": "/wiki/sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/theanxiousgeneration/"
     },
     "TheBeatles": {
       "episode_count": 1,
