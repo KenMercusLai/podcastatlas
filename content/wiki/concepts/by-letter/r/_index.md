@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6594
+wiki_total_pages: 6599
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -590,6 +590,9 @@ wiki_pages:
   - key: "ReuseFirstRocketDesign"
     title: "Reuse-First Rocket Design"
     url: "/wiki/concepts/reusefirstrocketdesign/"
+  - key: "ReverseJointVentureEVGlobalization"
+    title: "Reverse Joint-Venture EV Globalization / 反向合资电动车出海"
+    url: "/wiki/concepts/reversejointventureevglobalization/"
   - key: "ReverseNewCoBiotechModel"
     title: "Reverse NewCo Biotech Model"
     url: "/wiki/concepts/reversenewcobiotechmodel/"

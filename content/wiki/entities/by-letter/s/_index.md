@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9208
+wiki_total_pages: 9217
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1127,6 +1127,9 @@ wiki_pages:
   - key: "Stelato"
     title: "Stelato / 享界"
     url: "/wiki/entities/stelato/"
+  - key: "Stellantis"
+    title: "Stellantis"
+    url: "/wiki/entities/stellantis/"
   - key: "StellersSeaCow"
     title: "Steller's Sea Cow / 斯特勒海牛"
     url: "/wiki/entities/stellersseacow/"

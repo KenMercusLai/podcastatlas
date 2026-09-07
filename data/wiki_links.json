@@ -14227,6 +14227,10 @@
     "title": "Dahomey",
     "url": "/wiki/entities/dahomey/"
   },
+  "DahuaTechnology": {
+    "title": "Dahua Technology / 大华",
+    "url": "/wiki/entities/dahuatechnology/"
+  },
   "DaiChengjun": {
     "title": "代成君 / Dai Chengjun",
     "url": "/wiki/entities/daichengjun/"
@@ -17111,6 +17115,10 @@
     "title": "EVO2",
     "url": "/wiki/entities/evo2/"
   },
+  "EVProductFailureRecovery": {
+    "title": "EV Product Failure Recovery / 电动车产品失败后的恢复",
+    "url": "/wiki/concepts/evproductfailurerecovery/"
+  },
   "EVProductLineClarity": {
     "title": "EV Product Line Clarity / 电动车产品线清晰度",
     "url": "/wiki/concepts/evproductlineclarity/"
@@ -17122,6 +17130,10 @@
   "EVTaxCreditCliff": {
     "title": "EV Tax Credit Cliff",
     "url": "/wiki/concepts/evtaxcreditcliff/"
+  },
+  "EVValueForMoneyCostDiscipline": {
+    "title": "EV Value-for-Money Cost Discipline / 电动车性价比成本纪律",
+    "url": "/wiki/concepts/evvalueformoneycostdiscipline/"
   },
   "EachNet": {
     "title": "易趣 / EachNet",
@@ -18150,6 +18162,10 @@
   "EngineeringCompetition": {
     "title": "Engineering Competition",
     "url": "/wiki/concepts/engineeringcompetition/"
+  },
+  "EngineeringFounderAutomotiveTransition": {
+    "title": "Engineering Founder Automotive Transition / 工程师创始人跨界造车",
+    "url": "/wiki/concepts/engineeringfounderautomotivetransition/"
   },
   "EngineeringState": {
     "title": "Engineering State",
@@ -32038,6 +32054,34 @@
   "LeapForward": {
     "title": "Leap Forward",
     "url": "/wiki/entities/leapforward/"
+  },
+  "Leapmotor": {
+    "title": "Leapmotor / 零跑汽车",
+    "url": "/wiki/entities/leapmotor/"
+  },
+  "LeapmotorC11": {
+    "title": "Leapmotor C11 / 零跑 C11",
+    "url": "/wiki/entities/leapmotorc11/"
+  },
+  "LeapmotorD99": {
+    "title": "Leapmotor D99 / 零跑 D99",
+    "url": "/wiki/entities/leapmotord99/"
+  },
+  "LeapmotorFullStackSelfResearch": {
+    "title": "Leapmotor Full-Stack Self-Research / 零跑全域自研",
+    "url": "/wiki/concepts/leapmotorfullstackselfresearch/"
+  },
+  "LeapmotorInternational": {
+    "title": "Leapmotor International / 零跑国际",
+    "url": "/wiki/entities/leapmotorinternational/"
+  },
+  "LeapmotorS01": {
+    "title": "Leapmotor S01 / 零跑 S01",
+    "url": "/wiki/entities/leapmotors01/"
+  },
+  "LeapmotorT03": {
+    "title": "Leapmotor T03 / 零跑 T03",
+    "url": "/wiki/entities/leapmotort03/"
   },
   "LearnClaudeCode": {
     "title": "Learn Claude Code",
@@ -46959,6 +47003,10 @@
     "title": "Revel Pharma",
     "url": "/wiki/entities/revelpharma/"
   },
+  "ReverseJointVentureEVGlobalization": {
+    "title": "Reverse Joint-Venture EV Globalization / 反向合资电动车出海",
+    "url": "/wiki/concepts/reversejointventureevglobalization/"
+  },
   "ReverseNewCoBiotechModel": {
     "title": "Reverse NewCo Biotech Model",
     "url": "/wiki/concepts/reversenewcobiotechmodel/"
@@ -52178,6 +52226,10 @@
   "Stelato": {
     "title": "Stelato / 享界",
     "url": "/wiki/entities/stelato/"
+  },
+  "Stellantis": {
+    "title": "Stellantis",
+    "url": "/wiki/entities/stellantis/"
   },
   "StellersSeaCow": {
     "title": "Steller's Sea Cow / 斯特勒海牛",
@@ -64207,6 +64259,10 @@
     "title": "朱家 / Zhu Jia (Lu)",
     "url": "/wiki/entities/zhujialu/"
   },
+  "ZhuJiangming": {
+    "title": "Zhu Jiangming / 朱江明",
+    "url": "/wiki/entities/zhujiangming/"
+  },
   "ZhuJishi": {
     "title": "朱鸡石 / 朱吉石 / Zhu Jishi",
     "url": "/wiki/entities/zhujishi/"
@@ -66250,6 +66306,10 @@
   "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288": {
     "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
     "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+  },
+  "lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb": {
+    "title": "零跑汽车朱江明×罗永浩！零跑汽车十年：不会讲故事的人，如何卖成了第一",
+    "url": "/wiki/sources/lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb/"
   },
   "liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan": {
     "title": "流浪犬「旺旺」之死和一場跨境動保聲援",

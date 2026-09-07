@@ -4,42 +4,45 @@ type: entity
 tags: [podcast, interview, china, media]
 sources:
   - shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1
-last_updated: 2026-09-06
+  - lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb
+last_updated: 2026-09-07
 knowledge_schema: synthesis-v1
 ---
 
 # 罗永浩的十字路口 / Luo Yonghao's Crossroads
 
 ## Overview
-罗永浩的十字路口 / Luo Yonghao's Crossroads enters the wiki as the interview show context for [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], where [[LuoYonghao]] interviews [[ShougongGeng|手工耿]] about craft, short-video fame, commercial restraint, and useful versus useless inventions.
+罗永浩的十字路口 / Luo Yonghao's Crossroads is represented as a long-form interview show hosted by [[LuoYonghao|罗永浩]], currently covering creator craft through [[ShougongGeng|手工耿]] and engineering-led EV entrepreneurship through [[ZhuJiangming|朱江明]] and [[Leapmotor|零跑汽车]].
 
 ## Current Profile
-In this source, the show functions as a long-form creator interview rather than a simple celebrity chat. The host repeatedly returns to a conceptual question, asks for concrete production details, and uses comparison, product language, and art language to clarify why a handmade object can be funny and serious at the same time.
+Across the current sources, the show works by turning biography into operating logic. In the 手工耿 episode, Luo uses product, craft, utility, comedy, and art language to clarify why a handmade object can be funny and serious at the same time. In the Zhu Jiangming episode, the same long-form style follows an engineering founder from electronics and Dahua into Leapmotor, using concrete product mistakes, capital pressure, manufacturing choices, and globalization structure to explain why a low-profile automaker can become commercially visible.
 
 ## Key Characteristics
-- Long-form interview venue centered on creator biography, work methods, and public interpretation.
-- Host-led conceptual framing that turns "useful versus useless" into a recurring analytic thread.
-- Product-minded questioning about materials, pricing, reliability, tools, commercialization, and customer fit.
-- Culture-facing format willing to compare internet craft with modern art and folk artist identity.
-- Source-scoped show page limited to the 手工耿 episode until more episodes are ingested.
+- Long-form interview venue centered on biography, work methods, product judgment, and public interpretation.
+- Host-led conceptual framing that turns a guest's personal story into an analyzable operating problem.
+- Product-minded questioning about materials, pricing, reliability, technical systems, commercialization, channels, and customer fit.
+- Culture-facing format that can move between craft/art interpretation and industrial-company strategy.
+- Source-scoped show page limited to two ingested episodes rather than the full program catalog.
 
 ## Evidence
 - Long-form creator interview: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] follows 手工耿 from childhood and manual work into self-media, business choices, tool use, safety incidents, and public evaluation.
-- Conceptual framing: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] opens with whether any work is truly useless and closes by separating entertainment, playful function, and serious function.
-- Product-minded questioning: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] asks about stainless-steel properties, cost control, handwork pricing, brand-deal standards, tools, and why objects must be sturdy enough to film.
-- Culture-facing format: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] compares 手工耿's work with Dadaist and modern-art readings while letting the guest keep a maker's own vocabulary.
-- Source scope: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] supplies one episode only and does not describe the full program catalog.
+- Founder-company interview: [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]] follows Zhu Jiangming through Yiwu, electronics, Dahua, Leapmotor startup, S01 failure, C11 turning point, Stellantis partnership, and world-class automaker goals.
+- Conceptual framing: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] turns useful/useless into the analytic thread, while [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]] turns "不会讲故事的人" into a question about product, cost, and organizational capability.
+- Product-minded questioning: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] asks about materials and craft commercialization, while [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]] asks about vehicle configuration, platform coverage, lifetime warranty, marketing conversion, capital needs, and overseas channels.
+- Source scope: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] and [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]] supply two episodes and do not define the whole program catalog.
 
 ## Qualifications
-This page should not infer the show's full editorial mission, release cadence, audience, or business model from one episode.
+This page should not infer the show's full editorial mission, release cadence, audience, or business model from two episodes. Both current sources are long-form interviews and may overrepresent Luo's interest in product, craft, and founder operating details.
 
 ## What Changed
-- Created the show page as the source venue for the 手工耿 interview.
-- Connected the show to creator biography, product judgment, craft value, and art interpretation.
+- Expanded the show profile from one creator-craft episode to include an EV founder/company interview.
+- Clarified that the show's current wiki role is biography-to-operating-logic interviewing across craft and industrial entrepreneurship.
 
 ## Relationships
 - [[LuoYonghao]] - host and framing interviewer in the source.
-- [[ShougongGeng|手工耿]] - guest and main subject of the episode.
-- [[UselessInventionValue]] - recurring analytic thread in the conversation.
-- [[FolkMakerArtInterpretation]] - art-language frame explored by the host.
+- [[ShougongGeng|手工耿]] - guest and main subject of the creator-craft episode.
+- [[ZhuJiangming]] - guest and main subject of the Leapmotor founder episode.
+- [[Leapmotor]] - company case discussed through Zhu Jiangming's founder story.
+- [[UselessInventionValue]] - recurring analytic thread in the 手工耿 conversation.
+- [[LeapmotorFullStackSelfResearch]] - recurring analytic thread in the Leapmotor conversation.
 - [[CreatorCulture]] - adjacent wiki theme around creators as value-producing subjects.

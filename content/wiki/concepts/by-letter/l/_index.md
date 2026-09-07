@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6594
+wiki_total_pages: 6599
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "LeanVersusCleanBubblePolicy"
     title: "Lean Versus Clean Bubble Policy"
     url: "/wiki/concepts/leanversuscleanbubblepolicy/"
+  - key: "LeapmotorFullStackSelfResearch"
+    title: "Leapmotor Full-Stack Self-Research / 零跑全域自研"
+    url: "/wiki/concepts/leapmotorfullstackselfresearch/"
   - key: "LearnableEmotionalIntelligence"
     title: "Learnable Emotional Intelligence"
     url: "/wiki/concepts/learnableemotionalintelligence/"

@@ -2831,9 +2831,15 @@
       "earliest_episode_date": "2026-03-05",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
-      "source_note_count": 1,
-      "topic_matched_source_note_count": 1,
+      "source_note_count": 2,
+      "topic_matched_source_note_count": 2,
       "topics": [
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 1
+        },
         {
           "key": "culture",
           "label": "Culture",
@@ -2843,9 +2849,9 @@
       ],
       "entities": [],
       "start_here_episode_files": [
+        "lheI72y0MlQRh2XXbetNqdp_0Stb [lheI72y0MlQRh2XXbetNqdp_0Stb].md",
         "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
         "lhKQsZ8pkcBLnmAEBsZ1m50TYSoS [lhKQsZ8pkcBLnmAEBsZ1m50TYSoS].md",
-        "lheI72y0MlQRh2XXbetNqdp_0Stb [lheI72y0MlQRh2XXbetNqdp_0Stb].md",
         "liR8W53XeWCMvbqRB1x1osaiRaFg [liR8W53XeWCMvbqRB1x1osaiRaFg].md"
       ]
     },

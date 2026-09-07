@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6594
+wiki_total_pages: 6599
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "EngineeringCompetition"
     title: "Engineering Competition"
     url: "/wiki/concepts/engineeringcompetition/"
+  - key: "EngineeringFounderAutomotiveTransition"
+    title: "Engineering Founder Automotive Transition / 工程师创始人跨界造车"
+    url: "/wiki/concepts/engineeringfounderautomotivetransition/"
   - key: "EngineeringState"
     title: "Engineering State"
     url: "/wiki/concepts/engineeringstate/"
@@ -638,12 +641,18 @@ wiki_pages:
   - key: "EVChargingInfrastructure"
     title: "EV Charging Infrastructure"
     url: "/wiki/concepts/evcharginginfrastructure/"
+  - key: "EVProductFailureRecovery"
+    title: "EV Product Failure Recovery / 电动车产品失败后的恢复"
+    url: "/wiki/concepts/evproductfailurerecovery/"
   - key: "EVProductLineClarity"
     title: "EV Product Line Clarity / 电动车产品线清晰度"
     url: "/wiki/concepts/evproductlineclarity/"
   - key: "EVTaxCreditCliff"
     title: "EV Tax Credit Cliff"
     url: "/wiki/concepts/evtaxcreditcliff/"
+  - key: "EVValueForMoneyCostDiscipline"
+    title: "EV Value-for-Money Cost Discipline / 电动车性价比成本纪律"
+    url: "/wiki/concepts/evvalueformoneycostdiscipline/"
   - key: "EVAGloveInspectionAI"
     title: "EVA Glove Inspection AI"
     url: "/wiki/concepts/evagloveinspectionai/"

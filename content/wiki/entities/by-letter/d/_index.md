@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9208
+wiki_total_pages: 9217
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "Dahomey"
     title: "Dahomey"
     url: "/wiki/entities/dahomey/"
+  - key: "DahuaTechnology"
+    title: "Dahua Technology / 大华"
+    url: "/wiki/entities/dahuatechnology/"
   - key: "DaiYusen"
     title: "Dai Yusen / 戴雨森"
     url: "/wiki/entities/daiyusen/"

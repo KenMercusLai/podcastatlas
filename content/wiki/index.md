@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [零跑汽车朱江明×罗永浩！零跑汽车十年：不会讲故事的人，如何卖成了第一](sources/lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb.md) — 罗永浩的十字路口 interview with Zhu Jiangming on Leapmotor's engineering-founder path, full-stack self-research, S01/T03/C11/D99 product arc, cost discipline, Stellantis partnership, and Chinese EV globalization.
 - [No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全](sources/no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi.md) — 三五环 interview with Didi ride-hailing safety lead Xu Xiaonan / Qu Xiaonan on post-2018 safety rebuilding, high-recall AI warning, human review, privacy controls, drunk and minor passenger risks, and offline ride-safety gaps.
 - [#399 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨十周年特别节目](sources/399-jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-shizhounian-tebie-jiemu-b8cd9085-c37e-4dd3-92d7-5d7be257f078.md) — 声东击西 tenth-anniversary special with Jia Yangqing on AI's path from unfashionable research label to infrastructure, cloud, startup, and agent-verification platform, corroborating the earlier crossover source.
 - [当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来](sources/dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue.md) — 电影巨辩 episode reading Christopher Nolan's The Odyssey through auteur power, Homeric modernization, PTSD homecoming, Zeus-law trust, metis/kleos, IMAX authenticity, and polarized political reception.
@@ -1985,6 +1986,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Zhu Jiangming / 朱江明](entities/ZhuJiangming.md) — Leapmotor founder and engineering entrepreneur whose Dahua experience informs Leapmotor's self-research and cost-discipline strategy.
+- [Leapmotor / 零跑汽车](entities/Leapmotor.md) — Chinese EV maker built around full-stack self-research, value-for-money pricing, product-line recovery, and Stellantis-linked globalization.
+- [Dahua Technology / 大华](entities/DahuaTechnology.md) — Security-video hardware company used as Zhu Jiangming's predecessor venture and capability base before Leapmotor.
+- [Stellantis](entities/Stellantis.md) — Automotive group investing in Leapmotor and providing overseas-market channels through Leapmotor International.
+- [Leapmotor International / 零跑国际](entities/LeapmotorInternational.md) — Stellantis-Leapmotor joint venture responsible for Leapmotor business outside Greater China.
+- [Leapmotor S01 / 零跑 S01](entities/LeapmotorS01.md) — First Leapmotor vehicle and formative two-door-coupe product-definition failure.
+- [Leapmotor T03 / 零跑 T03](entities/LeapmotorT03.md) — Small EV that helped Leapmotor recover sales momentum after S01.
+- [Leapmotor C11 / 零跑 C11](entities/LeapmotorC11.md) — Mid-price SUV turning point pushed forward during Leapmotor's funding squeeze.
+- [Leapmotor D99 / 零跑 D99](entities/LeapmotorD99.md) — Upper-price-band Leapmotor model used to test brand expansion beyond low-price value perception.
 - [徐晓楠 / 曲晓楠](entities/XuXiaonan.md) — Didi ride-hailing safety lead in the 三五环 episode on platform safety operations, high-recall intervention, privacy, drunk passengers, minors, and offline ride risks.
 - [电影巨辩](entities/DianyingJubian.md) — Film-discussion podcast represented here by a dense Nolan Odyssey episode linking cinema, classics, mythology, politics, and IMAX technology.
 - [Emma Thomas](entities/EmmaThomas.md) — Producer and Syncopy partner used in the Nolan Odyssey episode to explain Nolan's project-centered production leverage.
@@ -11197,6 +11207,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Leapmotor Full-Stack Self-Research / 零跑全域自研](concepts/LeapmotorFullStackSelfResearch.md) — EV strategy of controlling core technology, self-manufacturing, platforms, and selected components to support cost and quality.
+- [EV Value-for-Money Cost Discipline / 电动车性价比成本纪律](concepts/EVValueForMoneyCostDiscipline.md) — EV pricing and manufacturing pattern built around low premium, visible configuration, quality trust, and supplier-margin compression.
+- [Engineering Founder Automotive Transition / 工程师创始人跨界造车](concepts/EngineeringFounderAutomotiveTransition.md) — Technical founder path from electronics and hardware into much heavier auto manufacturing.
+- [EV Product Failure Recovery / 电动车产品失败后的恢复](concepts/EVProductFailureRecovery.md) — Startup automaker recovery sequence from a poorly defined first product to later market-fit and capital-survival products.
+- [Reverse Joint-Venture EV Globalization / 反向合资电动车出海](concepts/ReverseJointVentureEVGlobalization.md) — Chinese EV globalization model where local technology and products use a foreign automaker's overseas channels and service systems.
 - [Ride-Hailing Safety Operations / 网约车安全运营](concepts/RideHailingSafetyOperations.md) — Layered platform workflow for reducing ride-hailing risk from order matching through safe driver-passenger separation.
 - [High-Recall Safety Intervention / 高召回安全干预](concepts/HighRecallSafetyIntervention.md) — Safety posture that accepts false alarms, interruptions, and review burden to reduce missed severe incidents.
 - [Offline Platform Safety Boundary / 线下平台安全边界](concepts/OfflinePlatformSafetyBoundary.md) — Limit of platform safety visibility when a physical service moves offline, becomes silent, hides the true user, or continues after the transaction.

@@ -17646,6 +17646,13 @@
       "url": "/topics/science/"
     }
   ],
+  "DahuaTechnology": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "DaiState": [
     {
       "key": "history",
@@ -20665,6 +20672,13 @@
       "url": "/topics/science/"
     }
   ],
+  "EVProductFailureRecovery": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "EVTOLCertificationRamp": [
     {
       "key": "politics",
@@ -21859,6 +21873,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "EngineeringFounderAutomotiveTransition": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "EngineeringState": [
@@ -73995,6 +74021,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan": [

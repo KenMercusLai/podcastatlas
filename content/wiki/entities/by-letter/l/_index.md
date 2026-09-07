@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9208
+wiki_total_pages: 9217
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -173,6 +173,24 @@ wiki_pages:
   - key: "LeapForward"
     title: "Leap Forward"
     url: "/wiki/entities/leapforward/"
+  - key: "Leapmotor"
+    title: "Leapmotor / 零跑汽车"
+    url: "/wiki/entities/leapmotor/"
+  - key: "LeapmotorC11"
+    title: "Leapmotor C11 / 零跑 C11"
+    url: "/wiki/entities/leapmotorc11/"
+  - key: "LeapmotorD99"
+    title: "Leapmotor D99 / 零跑 D99"
+    url: "/wiki/entities/leapmotord99/"
+  - key: "LeapmotorInternational"
+    title: "Leapmotor International / 零跑国际"
+    url: "/wiki/entities/leapmotorinternational/"
+  - key: "LeapmotorS01"
+    title: "Leapmotor S01 / 零跑 S01"
+    url: "/wiki/entities/leapmotors01/"
+  - key: "LeapmotorT03"
+    title: "Leapmotor T03 / 零跑 T03"
+    url: "/wiki/entities/leapmotort03/"
   - key: "LearnClaudeCode"
     title: "Learn Claude Code"
     url: "/wiki/entities/learnclaudecode/"

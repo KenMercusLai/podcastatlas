@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2789
+topic_total_pages: 2791
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1747,6 +1747,9 @@ topic_concepts:
   - key: "EnforceableCommunityBenefits"
     title: "Enforceable Community Benefits"
     url: "/wiki/concepts/enforceablecommunitybenefits/"
+  - key: "EngineeringFounderAutomotiveTransition"
+    title: "Engineering Founder Automotive Transition / 工程师创始人跨界造车"
+    url: "/wiki/concepts/engineeringfounderautomotivetransition/"
   - key: "EngineeringState"
     title: "Engineering State"
     url: "/wiki/concepts/engineeringstate/"
@@ -4547,6 +4550,9 @@ topic_entities:
   - key: "DaVinciSurgicalSystem"
     title: "Da Vinci Surgical System"
     url: "/wiki/entities/davincisurgicalsystem/"
+  - key: "DahuaTechnology"
+    title: "Dahua Technology / 大华"
+    url: "/wiki/entities/dahuatechnology/"
   - key: "DaiYusen"
     title: "Dai Yusen / 戴雨森"
     url: "/wiki/entities/daiyusen/"

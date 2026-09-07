@@ -15700,6 +15700,10 @@ Ingested the 2026-08-28 忽左忽右 episode using Ceuta to connect Moroccan mig
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-07] ingest | 零跑汽车朱江明×罗永浩！零跑汽车十年：不会讲故事的人，如何卖成了第一
+
+Added source note for Luo Yonghao's interview with Zhu Jiangming, plus new Leapmotor, Dahua, Stellantis, Leapmotor product, self-research, cost-discipline, recovery, and reverse-joint-venture globalization pages.
+
 ## [2026-09-07] ingest | #402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿
 
 Ingested the 2026-08-27 声东击西 episode with WFP worker Wang Hongrui on South Sudan refugee hunger, Wedweil camp registration gaps, reduced emergency cash assistance, nutrition triage, humanitarian funding shortfalls, and school meals as an education-access channel. Added source `402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de`; created `SouthSudan`, `WorldFoodProgramme`, `UNHCR`, `WangHongrui`, `WedweilRefugeeCamp`, `Aweil`, `RefugeeAidRegistrationGap`, `EmergencyCashAssistance`, `NutritionTriageThreshold`, `HumanitarianAidFundingShortfall`, `SchoolMealsAsEducationAccess`, and `HumanitarianWitnessingBoundary`; updated `ShengdongJixi` and `index`. No settled contradiction found; population counts, funding amounts, October-aid-cancellation timing, election-security forecasts, and individual refugee accounts remain source-scoped.
@@ -15851,6 +15855,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全
 
 Ingested the 2026-08-04 三五环 episode with Didi ride-hailing safety lead Xu Xiaonan / Qu Xiaonan on post-2018 safety rebuilding, safety boundaries from order matching to safe separation, driver admission, safety dispatch, AI and human warning, high-recall intervention, drunk and minor passenger risks, offline transactions, recording privacy, and user-side self-protection. Added source `no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi`; created `XuXiaonan`, `RideHailingSafetyOperations`, `HighRecallSafetyIntervention`, and `OfflinePlatformSafetyBoundary`; updated `Didi`, `LiuFei`, `SanWuHuan`, `PublicSafetyPrivacyTradeoff`, `index`, and downstream synthesis artifacts. No settled contradiction found; the source title/body name mismatch and Didi's safety metrics remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 
