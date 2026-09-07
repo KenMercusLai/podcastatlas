@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6584
+wiki_total_pages: 6591
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1499,6 +1499,9 @@ wiki_pages:
   - key: "PsychologicalFlexibilityForDissent"
     title: "Psychological Flexibility For Dissent / 不服从中的心理灵活性"
     url: "/wiki/concepts/psychologicalflexibilityfordissent/"
+  - key: "PsychologicalMythModernization"
+    title: "Psychological Myth Modernization / 神话心理化改编"
+    url: "/wiki/concepts/psychologicalmythmodernization/"
   - key: "PsychologicalRealism"
     title: "Psychological Realism / 心理现实主义"
     url: "/wiki/concepts/psychologicalrealism/"
@@ -1511,6 +1514,9 @@ wiki_pages:
   - key: "PsychometricSocialSorting"
     title: "Psychometric Social Sorting / 心理测量式社会分层"
     url: "/wiki/concepts/psychometricsocialsorting/"
+  - key: "PTSDHomecomingNarrative"
+    title: "PTSD Homecoming Narrative / 创伤版回家叙事"
+    url: "/wiki/concepts/ptsdhomecomingnarrative/"
   - key: "PublicAgriculturalResearchCommercialization"
     title: "Public Agricultural Research Commercialization"
     url: "/wiki/concepts/publicagriculturalresearchcommercialization/"

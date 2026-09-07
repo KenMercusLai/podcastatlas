@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2220
+topic_total_pages: 2221
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -6657,6 +6657,9 @@ topic_sources:
   - key: "shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014"
     title: "商业小样46 | 买机票时，为什么总要多交两笔钱？"
     url: "/wiki/sources/shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014/"
+  - key: "dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue"
+    title: "当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来"
+    url: "/wiki/sources/dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue/"
   - key: "ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1"
     title: "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕"
     url: "/wiki/sources/ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1/"

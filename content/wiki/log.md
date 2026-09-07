@@ -15831,3 +15831,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] lint | Wiki health check
 
 Health and identity validation passed. Deterministic lint scanned 17,762 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-09-02 with 16,930 nodes and 195,431 edges; current graph checks found no hub stubs, one fragile bridge (`entities/CatholicChurch` -> `concepts/ReligiousControlledSubstanceExemption`), and no isolated communities, but the graph is stale relative to the 17,762-page wiki scan. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API key variables are unset. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-09-07] ingest | 当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来
+
+Ingested the 2026-08-08 电影巨辩 episode on Christopher Nolan's The Odyssey, auteur power, Homeric modernization, PTSD homecoming, Zeus-law trust, metis, kleos, IMAX authenticity, and political reception. Added source `dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue`; created `DianyingJubian`, `EmmaThomas`, `Syncopy`, `OppenheimerFilm`, `NolanRealitySpectacle`, `PsychologicalMythModernization`, `PTSDHomecomingNarrative`, `ZeusLawTrustEthic`, `MetisHeroicCunning`, `KleosHeroicGlory`, and `IMAXAuthenticityAesthetic`; updated `ChristopherNolan`, `TheOdyssey`, `Odysseus`, `IMAX`, `HomericAdaptationModernization`, `HomericNostos`, `HomericHospitalityTest`, `StrangerHospitalityEthics`, `CivilizationalSelfDestructionCycle`, `index`, and `overview`. No settled contradiction found; the source qualifies earlier Nolan-modernization criticism by treating the adaptation as internally coherent while still marking losses around ancient metis, kleos, identity recognition, and institutional justice.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

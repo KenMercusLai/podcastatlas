@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6584
+wiki_total_pages: 6591
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "NoiseExposureLayering"
     title: "Noise Exposure Layering"
     url: "/wiki/concepts/noiseexposurelayering/"
+  - key: "NolanRealitySpectacle"
+    title: "Nolan Reality Spectacle / 诺兰真实奇观"
+    url: "/wiki/concepts/nolanrealityspectacle/"
   - key: "NomadicCavalryRaidingAsymmetry"
     title: "Nomadic Cavalry Raiding Asymmetry / 游牧骑兵劫掠不对称"
     url: "/wiki/concepts/nomadiccavalryraidingasymmetry/"

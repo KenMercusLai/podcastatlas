@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2786
+topic_total_pages: 2787
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2173,6 +2173,9 @@ topic_concepts:
   - key: "ImageSensorAssetLightManufacturing"
     title: "Image Sensor Asset-Light Manufacturing"
     url: "/wiki/concepts/imagesensorassetlightmanufacturing/"
+  - key: "IMAXAuthenticityAesthetic"
+    title: "IMAX Authenticity Aesthetic / IMAX真实美学"
+    url: "/wiki/concepts/imaxauthenticityaesthetic/"
   - key: "ImmigrationDetentionExpansion"
     title: "Immigration Detention Expansion"
     url: "/wiki/concepts/immigrationdetentionexpansion/"

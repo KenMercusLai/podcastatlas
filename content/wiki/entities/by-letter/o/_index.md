@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 9203
+wiki_total_pages: 9207
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "OPEX"
     title: "OPEX"
     url: "/wiki/entities/opex/"
+  - key: "OppenheimerFilm"
+    title: "Oppenheimer"
+    url: "/wiki/entities/oppenheimerfilm/"
   - key: "OPPO"
     title: "OPPO"
     url: "/wiki/entities/oppo/"

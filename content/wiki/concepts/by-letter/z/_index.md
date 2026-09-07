@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "z"
-wiki_total_pages: 6584
+wiki_total_pages: 6591
 wiki_pages:
   - key: "ZeroTrustSecurity"
     title: "Zero Trust Security"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "ZeroSumConflictHesitationRisk"
     title: "Zero-Sum Conflict Hesitation Risk / 死斗局优柔寡断风险"
     url: "/wiki/concepts/zerosumconflicthesitationrisk/"
+  - key: "ZeusLawTrustEthic"
+    title: "Zeus Law Trust Ethic / 宙斯法则信任伦理"
+    url: "/wiki/concepts/zeuslawtrustethic/"
   - key: "ZhiguaiArchiveValue"
     title: "Zhiguai Archive Value"
     url: "/wiki/concepts/zhiguaiarchivevalue/"

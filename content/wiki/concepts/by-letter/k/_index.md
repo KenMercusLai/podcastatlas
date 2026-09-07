@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 6584
+wiki_total_pages: 6591
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -62,6 +62,9 @@ wiki_pages:
   - key: "KitschAsWasteDenial"
     title: "Kitsch As Waste Denial / 媚俗作为排泄否认"
     url: "/wiki/concepts/kitschaswastedenial/"
+  - key: "KleosHeroicGlory"
+    title: "Kleos Heroic Glory / 克莱奥斯英雄声名"
+    url: "/wiki/concepts/kleosheroicglory/"
   - key: "KnowingEnough"
     title: "Knowing Enough"
     url: "/wiki/concepts/knowingenough/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9203
+wiki_total_pages: 9207
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1106,6 +1106,9 @@ wiki_pages:
   - key: "DushuBuchenglin"
     title: "独树不成林 / Dushu Buchenglin"
     url: "/wiki/entities/dushubuchenglin/"
+  - key: "DianyingJubian"
+    title: "电影巨辩"
+    url: "/wiki/entities/dianyingjubian/"
   - key: "DuKangMap"
     title: "督亢地图 / Du Kang Map"
     url: "/wiki/entities/dukangmap/"

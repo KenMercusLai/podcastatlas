@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1594
+topic_total_pages: 1595
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1676,6 +1676,9 @@ topic_entities:
   - key: "NorthernIreland"
     title: "Northern Ireland"
     url: "/wiki/entities/northernireland/"
+  - key: "OppenheimerFilm"
+    title: "Oppenheimer"
+    url: "/wiki/entities/oppenheimerfilm/"
   - key: "OttomanEmpire"
     title: "Ottoman Empire / 奥斯曼帝国"
     url: "/wiki/entities/ottomanempire/"

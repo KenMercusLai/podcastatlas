@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来](sources/dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue.md) — 电影巨辩 episode reading Christopher Nolan's The Odyssey through auteur power, Homeric modernization, PTSD homecoming, Zeus-law trust, metis/kleos, IMAX authenticity, and polarized political reception.
 - [风味吃喝：娃哈哈，宗庆后的三次赌局](sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx.md) — 大小电波 episode tracing Wahaha and Zong Qinghou through children's nutrition products, AD钙奶, pure water, 非常可乐, 营养快线, 联销体, 销地产, the Danone dispute, diversification, e-commerce delay, and Zong Fuli succession.
 - [总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的](sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht.md) — 读报teleread fifth-anniversary special on AI in creator workflows, voice-first podcast scripting, authorship, show notes, video podcasting, and correct but expensive creative choices.
 - [Vol.224 阿迪vs耐克：时代错配与 DNA之战](sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15.md) — 不懂球 episode comparing Adidas and Nike through brand DNA, retro consumer mood, football lifestyle apparel, DTC/channel pressure, Samba saturation, and running-shoe technology momentum.
@@ -1982,6 +1983,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [电影巨辩](entities/DianyingJubian.md) — Film-discussion podcast represented here by a dense Nolan Odyssey episode linking cinema, classics, mythology, politics, and IMAX technology.
+- [Emma Thomas](entities/EmmaThomas.md) — Producer and Syncopy partner used in the Nolan Odyssey episode to explain Nolan's project-centered production leverage.
+- [Syncopy](entities/Syncopy.md) — Nolan-associated production company framed as a lean control vehicle for project-by-project studio negotiation.
+- [Oppenheimer](entities/OppenheimerFilm.md) — Nolan film used as the comparison for reading the Trojan Horse as an ancient destructive-tool responsibility problem.
 - [读报teleread / 独报](entities/DuBaoTeleread.md) — Chinese podcast show represented by a fifth-anniversary special on AI, creator workflow, voice-first scripting, podcast form, and long-term creative sustainability.
 - [大小电波](entities/DaxiaoDianbo.md) — Chinese podcast show represented by Yunnan coffee sourcing and Wahaha beverage-business history episodes.
 - [娃哈哈AD钙奶 / Wahaha AD Calcium Milk](entities/WahahaADCalciumMilk.md) — Wahaha children's beverage product tied to calcium/vitamin positioning, school-side channels, and durable childhood product memory.
@@ -11189,6 +11194,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Nolan Reality Spectacle / 诺兰真实奇观](concepts/NolanRealitySpectacle.md) — Nolan-specific combination of practical large-format spectacle and intellectual structure that makes films feel like theatrical events.
+- [Psychological Myth Modernization / 神话心理化改编](concepts/PsychologicalMythModernization.md) — Adaptation strategy that translates gods, magic, monsters, and fate into ambiguous subjective experience, trauma, memory, and guilt.
+- [PTSD Homecoming Narrative / 创伤版回家叙事](concepts/PTSDHomecomingNarrative.md) — War-return pattern where reaching home depends on surviving guilt, memory, violence, and damaged worthiness.
+- [Zeus Law Trust Ethic / 宙斯法则信任伦理](concepts/ZeusLawTrustEthic.md) — Nolan Odyssey frame expanding Homeric guest-host duty into a minimum civilizational trust rule.
+- [Metis Heroic Cunning / 莫提斯英雄狡智](concepts/MetisHeroicCunning.md) — Homeric intelligence of disguise, deception, improvisation, tactical speech, and adaptive action.
+- [Kleos Heroic Glory / 克莱奥斯英雄声名](concepts/KleosHeroicGlory.md) — Homeric value of enduring fame through great deeds, deconstructed in the Nolan Odyssey reading.
+- [IMAX Authenticity Aesthetic / IMAX真实美学](concepts/IMAXAuthenticityAesthetic.md) — Large-format film aesthetic that creates physical immersion while constraining camera movement, sound, lighting, take length, and staging.
 - [联销体模式 / Lianxiaoti Distribution](concepts/LianxiaotiDistribution.md) — Wahaha distributor alliance model using deposits, advance payment, territorial discipline, and tiered wholesale to solve cash-flow and lower-tier channel reach.
 - [销地产模式 / Sales-Based Production Localization](concepts/SalesBasedProductionLocalization.md) — Wahaha-style strategy of building production close to regional sales markets to lower logistics costs and align with local demand and employment.
 - [Product-Brand / Company-Brand Separation](concepts/ProductBrandCompanyBrandSeparation.md) — Consumer-brand pattern where individual products are remembered more strongly than the parent company, limiting cross-category brand transfer.

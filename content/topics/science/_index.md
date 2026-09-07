@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 921
+topic_total_pages: 922
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1156,6 +1156,9 @@ topic_concepts:
   - key: "PsychologicalFlexibilityForDissent"
     title: "Psychological Flexibility For Dissent / 不服从中的心理灵活性"
     url: "/wiki/concepts/psychologicalflexibilityfordissent/"
+  - key: "PsychologicalMythModernization"
+    title: "Psychological Myth Modernization / 神话心理化改编"
+    url: "/wiki/concepts/psychologicalmythmodernization/"
   - key: "PsychologicalRealism"
     title: "Psychological Realism / 心理现实主义"
     url: "/wiki/concepts/psychologicalrealism/"

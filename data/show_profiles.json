@@ -2413,13 +2413,26 @@
       "earliest_episode_date": "2026-06-02",
       "latest_episode_date": "2026-08-30",
       "latest_episode_file": "GKwRIUEOafW5AYwNyATPX3K1 [GKwRIUEOafW5AYwNyATPX3K1].md",
-      "source_note_count": 0,
-      "topic_matched_source_note_count": 0,
-      "topics": [],
+      "source_note_count": 1,
+      "topic_matched_source_note_count": 1,
+      "topics": [
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 1
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
+        }
+      ],
       "entities": [],
       "start_here_episode_files": [
-        "GKwRIUEOafW5AYwNyATPX3K1 [GKwRIUEOafW5AYwNyATPX3K1].md",
         "GKwRIJIOV2xKBTdKNQTHj-ue [GKwRIJIOV2xKBTdKNQTHj-ue].md",
+        "GKwRIUEOafW5AYwNyATPX3K1 [GKwRIUEOafW5AYwNyATPX3K1].md",
         "GKwRIJIOPjPGA1chAgS-XwP_ [GKwRIJIOPjPGA1chAgS-XwP_].md",
         "GKwRIW4OEFk6BNp1EQSshjXF [GKwRIW4OEFk6BNp1EQSshjXF].md"
       ]

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6584
+wiki_total_pages: 6591
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "MethodicDoubt"
     title: "Methodic Doubt"
     url: "/wiki/concepts/methodicdoubt/"
+  - key: "MetisHeroicCunning"
+    title: "Metis Heroic Cunning / 莫提斯英雄狡智"
+    url: "/wiki/concepts/metisheroiccunning/"
   - key: "MicroHappiness"
     title: "Micro-Happiness"
     url: "/wiki/concepts/microhappiness/"
