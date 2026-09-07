@@ -243,8 +243,8 @@
       ]
     },
     "Anyway.FM 设计杂谈": {
-      "episode_count": 1,
-      "earliest_episode_date": "2026-08-26",
+      "episode_count": 2,
+      "earliest_episode_date": "2026-06-03",
       "latest_episode_date": "2026-08-26",
       "latest_episode_file": "anyway-195 [anyway-195].md",
       "source_note_count": 0,
@@ -252,7 +252,8 @@
       "topics": [],
       "entities": [],
       "start_here_episode_files": [
-        "anyway-195 [anyway-195].md"
+        "anyway-195 [anyway-195].md",
+        "anyway-194 [anyway-194].md"
       ]
     },
     "Data Science With Sam": {
