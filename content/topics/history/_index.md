@@ -1464,7 +1464,7 @@ topic_entities:
     title: "Afrikaners"
     url: "/wiki/entities/afrikaners/"
   - key: "AlbertPattySimon"
-    title: "Albert \\\"Patty\\\" Simon"
+    title: "Albert \"Patty\" Simon"
     url: "/wiki/entities/albertpattysimon/"
   - key: "AlexisDeTocqueville"
     title: "Alexis de Tocqueville"

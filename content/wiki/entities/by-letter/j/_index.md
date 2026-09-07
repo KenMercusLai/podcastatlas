@@ -798,7 +798,7 @@ wiki_pages:
     title: "Jove"
     url: "/wiki/entities/jove/"
   - key: "JoyWiebe"
-    title: "Joy \\\"Joey\\\" Wiebe / Joey"
+    title: "Joy \"Joey\" Wiebe / Joey"
     url: "/wiki/entities/joywiebe/"
   - key: "JoyFM"
     title: "Joy FM"

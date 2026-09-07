@@ -417,7 +417,7 @@ wiki_pages:
     title: "Albert"
     url: "/wiki/entities/albert/"
   - key: "AlbertPattySimon"
-    title: "Albert \\\"Patty\\\" Simon"
+    title: "Albert \"Patty\" Simon"
     url: "/wiki/entities/albertpattysimon/"
   - key: "AlbertEinstein"
     title: "Albert Einstein / 阿尔伯特·爱因斯坦"
