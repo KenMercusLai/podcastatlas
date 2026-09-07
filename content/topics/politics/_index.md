@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2232
+topic_total_pages: 2236
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -211,6 +211,9 @@ topic_concepts:
   - key: "AmericanDemocraticResilience"
     title: "American Democratic Resilience"
     url: "/wiki/concepts/americandemocraticresilience/"
+  - key: "AmericanExceptionalism"
+    title: "American Exceptionalism"
+    url: "/wiki/concepts/americanexceptionalism/"
   - key: "AmnestyExploitationCrime"
     title: "Amnesty Exploitation Crime / 大赦预期犯罪"
     url: "/wiki/concepts/amnestyexploitationcrime/"
@@ -5705,6 +5708,9 @@ topic_entities:
   - key: "Niesang"
     title: "啮桑 / Nie Sang"
     url: "/wiki/entities/niesang/"
+  - key: "ShengdongJixi"
+    title: "声东击西"
+    url: "/wiki/entities/shengdongjixi/"
   - key: "LouChang"
     title: "娄昌 / Lou Chang"
     url: "/wiki/entities/louchang/"
@@ -5738,6 +5744,9 @@ topic_entities:
   - key: "Xuzhou"
     title: "徐州 / Xuzhou"
     url: "/wiki/entities/xuzhou/"
+  - key: "XuTao"
+    title: "徐涛"
+    url: "/wiki/entities/xutao/"
   - key: "Huizhou"
     title: "惠州 / Huizhou"
     url: "/wiki/entities/huizhou/"
@@ -5949,6 +5958,9 @@ topic_entities:
     title: "黄棘 / Huangji"
     url: "/wiki/entities/huangji/"
 topic_sources:
+  - key: "398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7"
+    title: "#398 一场美国观察漫谈：世界杯红牌、南非白人劳工"
+    url: "/wiki/sources/398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7/"
   - key: "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4"
     title: "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？"
     url: "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"

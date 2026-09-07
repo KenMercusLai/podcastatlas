@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6640
+wiki_total_pages: 6651
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "LifeSettlementPricingOpacity"
     title: "Life Settlement Pricing Opacity"
     url: "/wiki/concepts/lifesettlementpricingopacity/"
+  - key: "LifelongSexEducation"
+    title: "Lifelong Sex Education / 终身性教育"
+    url: "/wiki/concepts/lifelongsexeducation/"
   - key: "LifestyleCostRationalization"
     title: "Lifestyle Cost Rationalization"
     url: "/wiki/concepts/lifestylecostrationalization/"

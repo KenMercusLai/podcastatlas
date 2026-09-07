@@ -1696,14 +1696,14 @@
       "earliest_episode_date": "2026-05-17",
       "latest_episode_date": "2026-08-29",
       "latest_episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
-      "source_note_count": 2,
-      "topic_matched_source_note_count": 2,
+      "source_note_count": 3,
+      "topic_matched_source_note_count": 3,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 2
+          "source_note_count": 3
         }
       ],
       "entities": [],
@@ -1796,8 +1796,8 @@
       "earliest_episode_date": "2026-07-09",
       "latest_episode_date": "2026-09-03",
       "latest_episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
-      "source_note_count": 5,
-      "topic_matched_source_note_count": 4,
+      "source_note_count": 6,
+      "topic_matched_source_note_count": 5,
       "topics": [
         {
           "key": "technology",
@@ -1809,13 +1809,13 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 1
+          "source_note_count": 2
         },
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 1
+          "source_note_count": 2
         }
       ],
       "entities": [],
@@ -2834,8 +2834,8 @@
       ]
     },
     "罗永浩的十字路口": {
-      "episode_count": 26,
-      "earliest_episode_date": "2025-11-28",
+      "episode_count": 27,
+      "earliest_episode_date": "2025-11-20",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
       "source_note_count": 2,

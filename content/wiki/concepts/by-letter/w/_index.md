@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6640
+wiki_total_pages: 6651
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "WhiteBearEffect"
     title: "White Bear Effect / 白熊效应"
     url: "/wiki/concepts/whitebeareffect/"
+  - key: "WhiteVictimhoodNarrative"
+    title: "White Victimhood Narrative"
+    url: "/wiki/concepts/whitevictimhoodnarrative/"
   - key: "WholeCompanyBranding"
     title: "Whole-Company Branding"
     url: "/wiki/concepts/wholecompanybranding/"

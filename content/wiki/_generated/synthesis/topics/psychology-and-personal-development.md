@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-07
-as_of_overview_commit: a828b98e4758fb46df3851b4a0604dbd749bee19
-input_digest: c9a3960d74955d570e2ad15db36ff5aa0693f2048b51cad5ce919fc8ec9222e3
+last_updated: 2026-09-08
+as_of_overview_commit: 7e44af1c90871253a2c6de396ec45a3b6844d94d
+input_digest: 255a40b4a85be759bbaf3e456dd95feb1c3ec2aec050d15c5fcefc3395fb8731
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, and careful boundaries around self-interpretation. The newer Steve Says material adds that psychological language can become self-punitive when it is used to monitor the self from a detached, purely logical stance rather than to restore present safety and trustworthy bodily contact. The AHA Creator paragraph adds a secondary work-judgment case: stronger AI can automate repeated workflow steps, but founders and customers still need field exposure, budget judgment, and final approval responsibility.
+Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, and careful boundaries around self-interpretation. The newer Steve Says material adds that psychological language can become self-punitive when it is used to monitor the self from a detached, purely logical stance rather than to restore present safety and trustworthy bodily contact. The AHA Creator paragraph adds a secondary work-judgment case: stronger AI can automate repeated workflow steps, but founders and customers still need field exposure, budget judgment, and final approval responsibility. The Tong Li episode adds a sex-psychology branch: life-course sex education, nonjudgmental counseling boundaries, embodied self-knowledge, and relationship-context sexual function extend the same pattern into intimacy, shame, pleasure, responsibility, and male vulnerability.
 
 ## Cross-source Findings
 
@@ -26,6 +26,17 @@ Psychology and personal development sources converge on a practical synthesis: e
 
 - The warning is source-scoped to a counseling-letter episode and should not be generalized into a rejection of psychological reflection itself.
 - Analysis remains useful when it supports regulation, choice, and relational repair rather than self-accusation.
+
+### Sexual Exploration Needs Body Relationship And Boundaries
+
+[[SexualExplorationAsSelfKnowledge]] adds a sex-psychology branch where sexual learning works best as life-course exploration of body, shame, pleasure, relationship safety, and responsibility rather than as taboo spectacle or performance proof.
+
+**Evidence:** [[SexualExplorationAsSelfKnowledge]], [[LifelongSexEducation]], [[SexCounselingNonjudgmentalBoundary]], [[SexualFunctionRelationshipContext]], [[MaleEmotionalIntimacyNeed]], [[AdultProductsRelationshipSupport]], [[BodyBasedSelfTrust]], [[TherapyRelationshipAndBoundaries]], [[shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb]]
+
+**Qualifications:**
+
+- The source is public psychoeducation and counseling reflection, not individualized clinical, medical, or legal advice.
+- Charged topics such as sexual dysfunction, infidelity, sex work, adult products, and AI intimacy remain bounded by consent, law, health care, and relationship context.
 
 ### Complex Trauma Reframes Safety Behavior
 
