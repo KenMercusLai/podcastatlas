@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "z"
-wiki_total_pages: 6651
+wiki_total_pages: 6654
 wiki_pages:
   - key: "ZeroTrustSecurity"
     title: "Zero Trust Security"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "ZhouyiDivination"
     title: "Zhouyi Divination / 《周易》占卜"
     url: "/wiki/concepts/zhouyidivination/"
+  - key: "ZhuangbiAsSocialSignaling"
+    title: "Zhuangbi As Social Signaling / 装逼作为社会信号"
+    url: "/wiki/concepts/zhuangbiassocialsignaling/"
   - key: "ZoneOfPossibleAgreement"
     title: "Zone Of Possible Agreement / 协议区间"
     url: "/wiki/concepts/zoneofpossibleagreement/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9252
+wiki_total_pages: 9256
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "Xiaodai"
     title: "小黛"
     url: "/wiki/entities/xiaodai/"
+  - key: "XiaoQiStandup"
+    title: "小齐 / Xiao Qi (Stand-Up Comedian)"
+    url: "/wiki/entities/xiaoqistandup/"
   - key: "XiaolongWeightManagementGuest"
     title: "小龙 / Xiaolong (Weight-Management Guest)"
     url: "/wiki/entities/xiaolongweightmanagementguest/"

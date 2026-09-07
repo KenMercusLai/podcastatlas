@@ -14023,6 +14023,10 @@
     "title": "Cultural Bias In Testing / 测试中的文化偏差",
     "url": "/wiki/concepts/culturalbiasintesting/"
   },
+  "CulturalGapStatusSignaling": {
+    "title": "Cultural Gap Status Signaling / 文化隔阂式地位信号",
+    "url": "/wiki/concepts/culturalgapstatussignaling/"
+  },
   "CulturalParticipationEvent": {
     "title": "Cultural Participation Event / 文化参与事件",
     "url": "/wiki/concepts/culturalparticipationevent/"
@@ -50323,6 +50327,10 @@
     "title": "时雷 / Shi Lei",
     "url": "/wiki/entities/shilei/"
   },
+  "ShiLifen": {
+    "title": "史礼芬 / Shi Lifen",
+    "url": "/wiki/entities/shilifen/"
+  },
   "ShiShouxin": {
     "title": "石守信 / Shi Shouxin",
     "url": "/wiki/entities/shishouxin/"
@@ -52206,6 +52214,10 @@
   "StandardsBasedInnovation": {
     "title": "Standards-Based Innovation",
     "url": "/wiki/concepts/standardsbasedinnovation/"
+  },
+  "StandupClassPositionEqualization": {
+    "title": "Stand-Up Class Position Equalization / 脱口秀中的阶层位置重组",
+    "url": "/wiki/concepts/standupclasspositionequalization/"
   },
   "StanfordInstituteForHumanCenteredAI": {
     "title": "Stanford Institute for Human-Centered AI",
@@ -60791,6 +60803,10 @@
     "title": "小P老师 / Xiao P Teacher",
     "url": "/wiki/entities/xiaopteacher/"
   },
+  "XiaoQiStandup": {
+    "title": "小齐 / Xiao Qi (Stand-Up Comedian)",
+    "url": "/wiki/entities/xiaoqistandup/"
+  },
   "XiaoS": {
     "title": "小S / Xiao S",
     "url": "/wiki/entities/xiaos/"
@@ -62487,6 +62503,10 @@
     "title": "尤妈妈 / 猫猫",
     "url": "/wiki/entities/youmamamaomao/"
   },
+  "YoumeiyouWenhuaXianxiang": {
+    "title": "有没有文化现象 / Youmeiyou Wenhua Xianxiang",
+    "url": "/wiki/entities/youmeiyouwenhuaxianxiang/"
+  },
   "YoungWashington": {
     "title": "Young Washington",
     "url": "/wiki/entities/youngwashington/"
@@ -63290,6 +63310,10 @@
   "ZhangJunLateHan": {
     "title": "张钧 / Zhang Jun (late Han)",
     "url": "/wiki/entities/zhangjunlatehan/"
+  },
+  "ZhangJunStandup": {
+    "title": "张俊 / Zhang Jun (Stand-Up Comedian)",
+    "url": "/wiki/entities/zhangjunstandup/"
   },
   "ZhangKaiAssassin": {
     "title": "张闿 / Zhang Kai (assassin)",
@@ -64694,6 +64718,10 @@
   "ZhuangXin": {
     "title": "庄辛 / Zhuang Xin",
     "url": "/wiki/entities/zhuangxin/"
+  },
+  "ZhuangbiAsSocialSignaling": {
+    "title": "Zhuangbi As Social Signaling / 装逼作为社会信号",
+    "url": "/wiki/concepts/zhuangbiassocialsignaling/"
   },
   "Zhuangzi": {
     "title": "庄子",
@@ -66694,6 +66722,10 @@
   "live-anthropic-co-founder-on-ai-and-jobs": {
     "title": "Live: Anthropic co-founder on AI and jobs",
     "url": "/wiki/sources/live-anthropic-co-founder-on-ai-and-jobs/"
+  },
+  "luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx": {
+    "title": "罗永浩的X字路口！一年一度装x大会",
+    "url": "/wiki/sources/luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx/"
   },
   "lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937": {
     "title": "绿点小样 | 要推广替换芯，得把美妆重做一遍",

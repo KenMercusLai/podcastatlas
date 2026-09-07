@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9252
+wiki_total_pages: 9256
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "ZhangJunAnEraLateHan"
     title: "张俊 / Zhang Jun (An-era late Han)"
     url: "/wiki/entities/zhangjunaneralatehan/"
+  - key: "ZhangJunStandup"
+    title: "张俊 / Zhang Jun (Stand-Up Comedian)"
+    url: "/wiki/entities/zhangjunstandup/"
   - key: "ZhangJianLateHan"
     title: "张俭 / Zhang Jian (late Han)"
     url: "/wiki/entities/zhangjianlatehan/"
