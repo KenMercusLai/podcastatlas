@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6613
+wiki_total_pages: 6616
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "PodcastEnabledCareerPath"
     title: "Podcast-Enabled Career Path / 播客带来的职业路径"
     url: "/wiki/concepts/podcastenabledcareerpath/"
+  - key: "PoeticCausality"
+    title: "Poetic Causality / 诗性因果"
+    url: "/wiki/concepts/poeticcausality/"
   - key: "PoeticWineCulture"
     title: "Poetic Wine Culture / 诗酒文化"
     url: "/wiki/concepts/poeticwineculture/"

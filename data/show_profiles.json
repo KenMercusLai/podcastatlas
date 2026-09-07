@@ -3342,28 +3342,36 @@
       "earliest_episode_date": "2026-05-26",
       "latest_episode_date": "2026-09-07",
       "latest_episode_file": "8211256494_013318 [8211256494_013318].md",
-      "source_note_count": 2,
-      "topic_matched_source_note_count": 2,
+      "source_note_count": 3,
+      "topic_matched_source_note_count": 3,
       "topics": [
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 2
+        },
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
           "source_note_count": 1
-        },
-        {
-          "key": "culture",
-          "label": "Culture",
-          "url": "/topics/culture/",
-          "source_note_count": 1
         }
       ],
-      "entities": [],
+      "entities": [
+        {
+          "key": "RenNing",
+          "title": "任宁 / Ren Ning",
+          "url": "/wiki/entities/renning/",
+          "kind": "person",
+          "episode_count": 2
+        }
+      ],
       "start_here_episode_files": [
+        "8211241331_711602 [8211241331_711602].md",
         "8213451338_252768 [8213451338_252768].md",
-        "8212959555_438866 [8212959555_438866].md",
         "8211256494_013318 [8211256494_013318].md",
-        "8211241331_711602 [8211241331_711602].md"
+        "8211230332_278487 [8211230332_278487].md"
       ]
     },
     "面基": {

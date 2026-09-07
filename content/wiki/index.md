@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Episode 228: 所以，奥德赛](sources/episode-228-suoyi-aodesai-8211241331-711602.md) — 迟早更新 episode connecting the Beatles' "Because", Luo Dayou's 《所以》, Homer/Nolan's Odyssey, Earthrise, Whole Earth Catalog, AI, poetic causality, and responsibility after expanded technical power.
 - [Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘](sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw.md) — 不懂球 episode with Li Junrong on Hong Kong football professionalization, the Seiko dynasty, foreign-player escalation, commercial-team membership, and owner-control governance.
 - [How Mitochondria Control Your Metabolism | Dr. Jared Rutter](sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664.md) — Huberman Lab episode with Jared Rutter on mitochondria, cell-specific metabolism, pyruvate routing, MPC1/MPC2, lactate as fuel, cancer metabolic reprogramming, ROS stress, and biomedical uncertainty boundaries.
 - [Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned](sources/bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee.md) — How I Built This episode on Kim Vaccarella building Bogg Bag through beach-bag product insight, patents, defective inventory, Sandy relief demand, trade shows, wholesale partners, COVID growth, and control-preserving investment.
@@ -2043,7 +2044,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sophie Zhang](entities/SophieZhang.md) — Former Facebook data scientist and whistleblower named as part of the internal-evidence layer around platform accountability.
 - [Mark Lanier](entities/MarkLanier.md) — Product-liability lawyer named in the social-media litigation discussion around design-defect strategy.
 - [UNICEF](entities/UnitedNationsChildrenFund.md) — Child-focused UN institution cited for the argument that parents alone cannot police opaque social-media platforms and algorithms.
-- [迟早更新 / Chizao Gengxin](entities/ChizaoGengxin.md) — Essayistic podcast represented by Episode 225's movement from carrier-bag narrative theory into literature, feminism, ecology, and nature writing.
+- [迟早更新 / Chizao Gengxin](entities/ChizaoGengxin.md) — Essayistic podcast represented by episodes on carrier-bag narrative, embodied reading, AI-era association, music, classics, and technology responsibility.
+- [罗大佑 / Luo Dayou](entities/LuoDayou.md) — Songwriter represented through 《所以》 as a mature response to "Because" and a meditation on AI-era consequence.
+- [The Beatles / 披头士](entities/TheBeatles.md) — Band represented through "Because" as the earlier song in Episode 228's because/so poetic-causality comparison.
+- ["Because" / Beatles Song](entities/BecauseSong.md) — Beatles song read as using a logical connective poetically to connect world, wind, sky, love, and feeling.
+- [《所以》 / Suoyi](entities/SuoyiSong.md) — Luo Dayou song read as a dense modern "so" sequence through AI, GPT, satellites, data, climate, capital, and home.
 - [The Carrier Bag Theory of Fiction / 《小说的载物袋理论》](entities/TheCarrierBagTheoryOfFiction.md) — Ursula K. Le Guin essay used by Episode 225 to challenge spear-like hero/conflict storytelling with containers, gathering, care, and relation.
 - [Donna Haraway / 唐娜·哈拉维](entities/DonnaHaraway.md) — Feminist and science-studies theorist appearing through her carrier-bag guide text, cyborg origin critique, and Colombian environmental-justice links.
 - [Robert Macfarlane / 罗伯特·麦克法伦](entities/RobertMacfarlane.md) — Nature writer represented by Is a River Alive? and the episode's defense of bag-like, layered river writing.
@@ -2072,7 +2077,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ray Solomonoff / 芮](entities/RaySolomonoff.md) — Dartmouth participant used by the source to represent probabilistic reasoning and delayed recognition.
 - [University of Chicago / 芝加哥大学](entities/UniversityOfChicago.md) — analogical university field for loose disciplinary boundaries, general education, and open intellectual exchange.
 - [Yvon Chouinard / 伊冯·乔伊纳德](entities/YvonChouinard.md) — climber-founder used to connect Yosemite climbing culture, Patagonia, and non-academic innovation fields.
-- [Stewart Brand](entities/StewartBrand.md) — counterculture figure used to connect alternative cultural scenes with Steve Jobs and technology creativity.
+- [Stewart Brand](entities/StewartBrand.md) — counterculture and media figure connecting alternative culture, Steve Jobs, whole-Earth imagery, and responsibility for enlarged technical power.
+- [Whole Earth Catalog / 《全球目录》](entities/WholeEarthCatalog.md) — Counterculture publication used by Episode 228 to connect whole-Earth imagery, tools, Steve Jobs, and technology responsibility.
+- [Earthrise Photo](entities/EarthrisePhoto.md) — Apollo 8 Earth image used as a seeing-home-from-away hinge between spaceflight, environmental perception, and Odyssey-like return.
+- [1967 Whole-Earth Color Image / Blue Marble Source-Scoped](entities/BlueMarblePhoto.md) — Source-scoped satellite whole-Earth image linked to Stewart Brand and the Whole Earth Catalog cover.
 - [Henry Mintzberg](entities/HenryMintzberg.md) — management thinker invoked by Yang Bin for emergent strategy over planned innovation.
 - [张诗平 / 张诗坪 / Zhang Shiping](entities/ZhangShiping.md) — 忽左忽右 guest using military history and source criticism to reinterpret Qin collapse and Chu-Han war.
 - [《逐鹿：神话与预言背后的秦亡汉兴》](entities/ZhuluQinHanBook.md) — Zhang Shiping book discussed through Qin-Han military history, myth, prophecy, and source-critical interpretation.
@@ -8733,11 +8741,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Clacton](entities/Clacton.md) — UK by-election setting where Farage, Reform UK strength, and Count Binface's satire converge.
 - [Kemi Badenoch](entities/KemiBadenoch.md) — Conservative Party figure tied by the source to a modest Conservative revival during Reform UK pressure.
 - [Eutelsat](entities/Eutelsat.md) — Satellite company named as part of the mixed connectivity future for African internet access.
-- [Christopher Nolan](entities/ChristopherNolan.md) — Director whose Odyssey adaptation is used by the source to examine modernized classical storytelling.
-- [The Odyssey](entities/TheOdyssey.md) — Homeric epic represented through first-half wandering, second-half homecoming, adaptation debate, metaphor, and commercial afterlife.
+- [Christopher Nolan](entities/ChristopherNolan.md) — Director whose Odyssey adaptation is used to examine modernized classical storytelling, event cinema, guilt, and post-victory responsibility.
+- [The Odyssey](entities/TheOdyssey.md) — Homeric epic represented through wandering, homecoming, recognition, adaptation, metaphor, commercial afterlife, and consequence after victory.
 - [Homer](entities/Homer.md) — Ancient epic poet invoked by the source as the tradition behind The Odyssey and its later remakings.
 - [Trojan Horse](entities/TrojanHorse.md) — Stratagem credited to Odysseus that brings Troy down before the Odyssey's return voyage begins.
-- [Odysseus](entities/Odysseus.md) — Odyssey hero whose cunning, pride, crew losses, and desire for mortal homecoming structure the ingested retellings.
+- [Odysseus](entities/Odysseus.md) — Odyssey hero whose cunning, pride, crew losses, mortal homecoming, and inability to leave consequences behind structure the ingested retellings.
 - [Polyphemus](entities/Polyphemus.md) — Cyclops whose cannibal anti-hospitality and curse turn Odysseus' successful escape into delayed suffering.
 - [Aeolus](entities/Aeolus.md) — Wind-god host whose bag of winds nearly returns Odysseus home before crew mistrust reverses the voyage.
 - [Laestrygonians](entities/Laestrygonians.md) — Giant cannibal people whose perfect harbor destroys eleven of Odysseus' twelve ships.
@@ -11245,7 +11253,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychological Myth Modernization / 神话心理化改编](concepts/PsychologicalMythModernization.md) — Adaptation strategy that translates gods, magic, monsters, and fate into ambiguous subjective experience, trauma, memory, and guilt.
 - [PTSD Homecoming Narrative / 创伤版回家叙事](concepts/PTSDHomecomingNarrative.md) — War-return pattern where reaching home depends on surviving guilt, memory, violence, and damaged worthiness.
 - [Zeus Law Trust Ethic / 宙斯法则信任伦理](concepts/ZeusLawTrustEthic.md) — Nolan Odyssey frame expanding Homeric guest-host duty into a minimum civilizational trust rule.
-- [Metis Heroic Cunning / 莫提斯英雄狡智](concepts/MetisHeroicCunning.md) — Homeric intelligence of disguise, deception, improvisation, tactical speech, and adaptive action.
+- [Metis Heroic Cunning / 莫提斯英雄狡智](concepts/MetisHeroicCunning.md) — Homeric intelligence of disguise, deception, improvisation, tactical speech, adaptive action, and responsibility-shadowed tool use.
+- [Technological Responsibility Radius / 技术责任半径](concepts/TechnologicalResponsibilityRadius.md) — Ethical frame where expanded tools, AI, data, satellites, war, and capital enlarge the consequences humans must answer for.
+- [Poetic Causality / 诗性因果](concepts/PoeticCausality.md) — Poetic use of causal connectives such as "because" and "所以" to join images and consequences without formal proof.
+- [Classic Revoicing From New Position / 新位置重述经典](concepts/ClassicRevoicingFromNewPosition.md) — Reception pattern where later creators honor old works by speaking them again from changed historical, technological, and ethical positions.
 - [Kleos Heroic Glory / 克莱奥斯英雄声名](concepts/KleosHeroicGlory.md) — Homeric value of enduring fame through great deeds, deconstructed in the Nolan Odyssey reading.
 - [IMAX Authenticity Aesthetic / IMAX真实美学](concepts/IMAXAuthenticityAesthetic.md) — Large-format film aesthetic that creates physical immersion while constraining camera movement, sound, lighting, take length, and staging.
 - [联销体模式 / Lianxiaoti Distribution](concepts/LianxiaotiDistribution.md) — Wahaha distributor alliance model using deposits, advance payment, territorial discipline, and tiered wholesale to solve cash-flow and lower-tier channel reach.
@@ -15202,7 +15213,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Oral Epic Repetition](concepts/OralEpicRepetition.md) — Cross-epic poetics frame from EP269 for repetition as memory, breath, chorus, and emotional accumulation.
 - [Epic Hero Human Limits](concepts/EpicHeroHumanLimits.md) — Cross-epic frame for reading heroic greatness through mortality, grief, sleep, failed immortality, homecoming, and failed command.
 - [Ancient Greek Honor Community](concepts/AncientGreekHonorCommunity.md) — Homeric social frame where gifts, spoils, hospitality, household order, naming, and recognition define heroic status.
-- [Homeric Nostos](concepts/HomericNostos.md) — Odyssey homecoming drive tested by forgetfulness, appetite, pleasure, delay, hunger, and divine hostility.
+- [Homeric Nostos](concepts/HomericNostos.md) — Odyssey homecoming drive tested by forgetfulness, appetite, pleasure, delay, hunger, divine hostility, trauma, and altered return.
 - [Homeric Homecoming Recognition](concepts/HomericHomecomingRecognition.md) — Odyssey pattern where return becomes complete only through staged proofs by place, kin, servants, body, bow, and marriage bed.
 - [Homeric Hospitality Test](concepts/HomericHospitalityTest.md) — Odyssey guest-host pattern spanning Polyphemus' anti-hospitality, Aeolus' failed aid, Phaeacian welcome, Eumaeus' loyalty, and suitor violation.
 - [Homeric Fantasy Geography](concepts/HomericFantasyGeography.md) — Odyssey reading frame for mythic islands and sea hazards as seafaring, colonial, and cultural-boundary anxieties.
@@ -15891,7 +15902,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Companion Attention Risk](concepts/AICompanionAttentionRisk.md) — Risk that AI companions inherit social-media attention incentives while adding anthropomorphism, memory, and sycophantic emotional responsiveness.
 - [Political Farce Accountability](concepts/PoliticalFarceAccountability.md) — Pattern where satire and joke candidates expose a serious accountability gap rather than merely trivializing politics.
 - [Africa Connectivity Infrastructure](concepts/AfricaConnectivityInfrastructure.md) — Mixed-network problem where mobile, fibre, satellite, and local operators must combine to meet heavier data demand.
-- [Homeric Adaptation Modernization](concepts/HomericAdaptationModernization.md) — Pattern where Odyssey adaptations reveal modern values while risking the loss of ancient moral strangeness.
+- [Homeric Adaptation Modernization](concepts/HomericAdaptationModernization.md) — Pattern where Odyssey adaptations reveal modern values, later reader positions, and the risk of losing ancient moral strangeness.
 - [Hair As Biosocial Signal](concepts/HairAsBiosocialSignal.md) — Frame for hair as evolved body structure, social surface, identity marker, ritual object, and evidence trace.
 - [Hair Loss And Follicle Cycle](concepts/HairLossFollicleCycle.md) — Medical frame separating visible shedding from follicle growth, rest, miniaturization, damage, and recovery.
 - [Hair As Political Identity](concepts/HairAsPoliticalIdentity.md) — Pattern where queues, shaved heads, beards, and hairstyles become signs of obedience, rebellion, ritual, or humiliation.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9226
+wiki_total_pages: 9233
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1631,6 +1631,9 @@ wiki_pages:
   - key: "LaughingMan"
     title: "笑脸男 / Laughing Man"
     url: "/wiki/entities/laughingman/"
+  - key: "LuoDayou"
+    title: "罗大佑 / Luo Dayou"
+    url: "/wiki/entities/luodayou/"
   - key: "LuoZijun"
     title: "罗子君 / Luo Zijun"
     url: "/wiki/entities/luozijun/"

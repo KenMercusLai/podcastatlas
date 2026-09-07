@@ -6,8 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9226
+wiki_total_pages: 9233
 wiki_pages:
+  - key: "BlueMarblePhoto"
+    title: "1967 Whole-Earth Color Image / Blue Marble Source-Scoped"
+    url: "/wiki/entities/bluemarblephoto/"
+  - key: "BecauseSong"
+    title: "\\\"Because\\\" / Beatles Song"
+    url: "/wiki/entities/becausesong/"
   - key: "BSpecials"
     title: "B Specials"
     url: "/wiki/entities/bspecials/"

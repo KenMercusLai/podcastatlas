@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6613
+wiki_total_pages: 6616
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "TechnologicalInnovationLocalFiscalShock"
     title: "Technological Innovation Local Fiscal Shock"
     url: "/wiki/concepts/technologicalinnovationlocalfiscalshock/"
+  - key: "TechnologicalResponsibilityRadius"
+    title: "Technological Responsibility Radius / 技术责任半径"
+    url: "/wiki/concepts/technologicalresponsibilityradius/"
   - key: "TechnologyInnovationAsScaleEconomy"
     title: "Technology Innovation As Scale Economy"
     url: "/wiki/concepts/technologyinnovationasscaleeconomy/"

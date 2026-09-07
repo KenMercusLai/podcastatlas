@@ -5,6 +5,7 @@ tags: [classics, literature, epic, homecoming]
 sources:
   - 687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423
   - dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue
+  - episode-228-suoyi-aodesai-8211241331-711602
 last_updated: 2026-09-07
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ Nostos is not passive homesickness. In the first-half retelling, it organizes th
 
 The Nolan adaptation reading adds a modern psychological pressure: getting home is no longer only a problem of delay, geography, gods, appetite, and recognition. Under [[PTSDHomecomingNarrative]], Odysseus also doubts whether he deserves home after the [[TrojanHorse]], crew deaths, and survivor guilt. Nostos becomes a moral permission problem as well as a homeward drive.
 
+Episode 228 adds a distance-and-consequence version. Return is meaningful because departure changes what can be seen: Earthrise lets humans see Earth as home from far away, and Odysseus' long return makes war's consequences follow him. Nostos becomes not only wanting home, but returning after action has made both the returner and home different.
+
 ## Key Claims
 
 - Nostos gives the wandering episodes a fixed direction even when the route is geographically and narratively unstable.
@@ -29,6 +32,7 @@ The Nolan adaptation reading adds a modern psychological pressure: getting home 
 - Delay scenes such as Circe's island and Calypso's island test whether survival without return still counts as success.
 - Nostos remains tied to social recognition, so the first-half voyage prepares the second-half return to household, name, bed, and community.
 - Modern trauma adaptation can convert nostos from "how to get home" into "whether the survivor is worthy of home."
+- Later cultural readings can make nostos a responsibility problem: return requires facing what departure, war, and tool use have changed.
 
 ## Evidence
 
@@ -37,6 +41,7 @@ The Nolan adaptation reading adds a modern psychological pressure: getting home 
 - Appetite and distrust: [[687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423]] shows Ismarus feasting, Aeolus' opened bag, and Helios' cattle all obstructing homecoming.
 - Delay without death: [[687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423]] makes Circe's year and Calypso's later confinement homecoming problems rather than simple rest.
 - Trauma and worthiness pressure: [[dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue]] reads Nolan's Odysseus as a veteran who may physically seek home while psychologically feeling unfit to return.
+- Distance and altered home: [[episode-228-suoyi-aodesai-8211241331-711602]] connects Odysseus as returner with Earthrise's seeing-home-from-away paradox and with the idea that the scene of harm continues to follow the hero.
 
 ## Counterevidence & Qualifications
 
@@ -45,6 +50,7 @@ The concept is grounded in podcast retellings and adaptation analysis, not a com
 ## What Changed
 
 - Added the Nolan adaptation layer where nostos becomes a trauma-linked worthiness problem.
+- Added Episode 228's distance, home, and consequence reading of nostos.
 
 ## Related Concepts
 
@@ -54,3 +60,4 @@ The concept is grounded in podcast retellings and adaptation analysis, not a com
 - [[HomericHospitalityTest]] - social-order test that decides whether strangers can move safely toward home.
 - [[EpicHeroHumanLimits]] - broader epic frame because homecoming matters precisely under mortality, loss, and finite life.
 - [[AncientGreekHonorCommunity]] - social frame where home is a community that can name and rank the returning person.
+- [[TechnologicalResponsibilityRadius]] - modern consequence frame attached to return after expanded action.

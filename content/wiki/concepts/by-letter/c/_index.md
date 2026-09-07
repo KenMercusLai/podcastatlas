@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6613
+wiki_total_pages: 6616
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -812,6 +812,9 @@ wiki_pages:
   - key: "ClassicReadingComplexity"
     title: "Classic Reading Complexity"
     url: "/wiki/concepts/classicreadingcomplexity/"
+  - key: "ClassicRevoicingFromNewPosition"
+    title: "Classic Revoicing From New Position / 新位置重述经典"
+    url: "/wiki/concepts/classicrevoicingfromnewposition/"
   - key: "ClassicalPoeticIntertextuality"
     title: "Classical Poetic Intertextuality"
     url: "/wiki/concepts/classicalpoeticintertextuality/"

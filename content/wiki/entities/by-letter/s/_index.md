@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9226
+wiki_total_pages: 9233
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1517,6 +1517,9 @@ wiki_pages:
   - key: "SlowKundera"
     title: "《慢》 / Slowness"
     url: "/wiki/entities/slowkundera/"
+  - key: "SuoyiSong"
+    title: "《所以》 / Suoyi"
+    url: "/wiki/entities/suoyisong/"
   - key: "SouShenJi"
     title: "《搜神记》"
     url: "/wiki/entities/soushenji/"

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 922
+topic_total_pages: 925
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1598,6 +1598,9 @@ topic_concepts:
     title: "面子驱动的指挥失误 / Status-Driven Command Failure"
     url: "/wiki/concepts/statusdrivencommandfailure/"
 topic_entities:
+  - key: "BlueMarblePhoto"
+    title: "1967 Whole-Earth Color Image / Blue Marble Source-Scoped"
+    url: "/wiki/entities/bluemarblephoto/"
   - key: "5MeODMT"
     title: "5-MeO-DMT"
     url: "/wiki/entities/5meodmt/"
@@ -1799,6 +1802,9 @@ topic_entities:
   - key: "DominicanRepublic"
     title: "Dominican Republic"
     url: "/wiki/entities/dominicanrepublic/"
+  - key: "EarthrisePhoto"
+    title: "Earthrise Photo"
+    url: "/wiki/entities/earthrisephoto/"
   - key: "EdwardJonesPsychologist"
     title: "Edward Jones / 爱德华·琼斯"
     url: "/wiki/entities/edwardjonespsychologist/"
@@ -2279,6 +2285,9 @@ topic_entities:
   - key: "WallyFunk"
     title: "Wally Funk"
     url: "/wiki/entities/wallyfunk/"
+  - key: "WholeEarthCatalog"
+    title: "Whole Earth Catalog / 《全球目录》"
+    url: "/wiki/entities/wholeearthcatalog/"
   - key: "Whoop"
     title: "Whoop"
     url: "/wiki/entities/whoop/"

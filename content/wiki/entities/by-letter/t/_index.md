@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9226
+wiki_total_pages: 9233
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "TheBearFactory"
     title: "The Bear Factory"
     url: "/wiki/entities/thebearfactory/"
+  - key: "TheBeatles"
+    title: "The Beatles / 披头士"
+    url: "/wiki/entities/thebeatles/"
   - key: "TheBeauCollective"
     title: "The Beau Collective"
     url: "/wiki/entities/thebeaucollective/"

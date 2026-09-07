@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2791
+topic_total_pages: 2793
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3598,6 +3598,9 @@ topic_concepts:
   - key: "TechnologicalInnovationLocalFiscalShock"
     title: "Technological Innovation Local Fiscal Shock"
     url: "/wiki/concepts/technologicalinnovationlocalfiscalshock/"
+  - key: "TechnologicalResponsibilityRadius"
+    title: "Technological Responsibility Radius / 技术责任半径"
+    url: "/wiki/concepts/technologicalresponsibilityradius/"
   - key: "TechnologyInnovationAsScaleEconomy"
     title: "Technology Innovation As Scale Economy"
     url: "/wiki/concepts/technologyinnovationasscaleeconomy/"
@@ -6683,6 +6686,9 @@ topic_entities:
   - key: "WhatsNextKejiZaozhidao"
     title: "What's Next｜科技早知道"
     url: "/wiki/entities/whatsnextkejizaozhidao/"
+  - key: "WholeEarthCatalog"
+    title: "Whole Earth Catalog / 《全球目录》"
+    url: "/wiki/entities/wholeearthcatalog/"
   - key: "WillGottsagen"
     title: "Will Gottsagen"
     url: "/wiki/entities/willgottsagen/"

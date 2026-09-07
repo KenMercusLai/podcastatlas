@@ -8,6 +8,7 @@ sources:
   - 688-the-odyssey-return-of-the-king-part-2-glt2882541084
   - 687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423
   - dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue
+  - episode-228-suoyi-aodesai-8211241331-711602
 last_updated: 2026-09-07
 knowledge_schema: synthesis-v1
 ---
@@ -28,6 +29,8 @@ The adaptation branch keeps a warning attached to him. Modern retellings may wan
 
 The Nolan-focused episode makes that tension explicit. Its Odysseus is less a triumphant master of [[MetisHeroicCunning]] than a veteran undergoing [[PTSDHomecomingNarrative]]: the [[TrojanHorse]] becomes his original guilt, sea adventures become unreliable trauma memories, the Sirens expose his secret unworthiness, and the ending's departure from rule turns homecoming toward ethical self-exile rather than full restoration.
 
+Episode 228 adds a compact ethical formula: Odysseus is a returner who has not really left the scene of action. From this angle, the ten-year delay after Troy is not only adventure or divine obstruction; it is a sign that the war, wooden horse, and slaughter continue to travel with him.
+
 ## Key Characteristics
 
 - Odysseus is goal-directed toward mortal homecoming, but the first-half voyage shows that desire under pressure from pleasure, hunger, delay, fear, and divine hostility.
@@ -36,7 +39,7 @@ The Nolan-focused episode makes that tension explicit. Its Odysseus is less a tr
 - His return depends on allies and guides, including Athena, Circe, Tiresias, Telemachus, Penelope, Eumaeus, Philoteus, Eurycleia, and the Phaeacians.
 - His restoration of order is violent and morally difficult, centered on killing the suitors and punishing disloyal household figures.
 - He is hard to modernize cleanly because ancient heroism, cunning, cruelty, grief, and social recognition do not map onto a simple good-person protagonist.
-- Nolan's version weakens metis and kleos to foreground guilt, survivor responsibility, and the question of whether he deserves to return.
+- Nolan's version weakens metis and kleos to foreground guilt, survivor responsibility, and the impossibility of leaving the scene after successful but violent action.
 
 ## Evidence
 
@@ -46,6 +49,7 @@ The Nolan-focused episode makes that tension explicit. Its Odysseus is less a tr
 - Dependence on allies and guides: [[687-the-odyssey-hero-of-the-trojan-horse-part-1-glt2393125423]] gives Circe and Tiresias key advisory roles, and [[688-the-odyssey-return-of-the-king-part-2-glt2882541084]] gives Athena, the Phaeacians, Telemachus, Eumaeus, Philoteus, Eurycleia, and Penelope distinct roles in the return's completion.
 - Moral difficulty and adaptation risk: [[in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]] frames modern smoothing of Odysseus as a [[HomericAdaptationModernization]] problem, while [[688-the-odyssey-return-of-the-king-part-2-glt2882541084]] keeps the slaughter and punishments explicit.
 - Nolan's guilt-centered Odysseus: [[dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue]] reads the film figure through PTSD homecoming, Trojan Horse responsibility, weakened metis, anti-kleos, survivor guilt, and the refusal to make restored kingship the final moral answer.
+- Staying with consequences: [[episode-228-suoyi-aodesai-8211241331-711602]] links Odysseus to the command not to flee the scene after harm, because the Trojan Horse, war, and destruction remain with him even when he tries to sail home.
 
 ## Qualifications
 
@@ -56,6 +60,7 @@ This page follows the ingested sources rather than offering a total Homeric char
 - Added Nolan's PTSD-homecoming Odysseus while preserving the ancient cunning and recognition profile.
 - Qualified modern moral legibility by marking losses around metis, kleos, Penelope recognition, and restored rule.
 - Connected the Trojan Horse to tool guilt and survivor self-judgment in the modern film reading.
+- Added Episode 228's reading of Odysseus as a figure for responsibility after violent capability succeeds.
 
 ## Relationships
 
@@ -67,3 +72,4 @@ This page follows the ingested sources rather than offering a total Homeric char
 - [[TrojanHorse]], [[Polyphemus]], [[Circe]], [[Tiresias]], [[Aeolus]], [[Helios]], and [[ScyllaAndCharybdis]] - first-half stratagem, obstacle, warning, and loss network.
 - [[Calypso]], [[Phaeacians]], [[Ithaca]], [[Eumaeus]], and [[SuitorsOfPenelope]] - major return-sequence actors and settings.
 - [[HomericNostos]], [[HomericHomecomingRecognition]], [[HomericHospitalityTest]], [[OdysseanLeadershipTrustFailure]], [[AncientGreekHonorCommunity]], [[HomericAdaptationModernization]], [[PsychologicalMythModernization]], [[PTSDHomecomingNarrative]], [[MetisHeroicCunning]], [[KleosHeroicGlory]], and [[EpicHeroHumanLimits]] - interpretive frames for his role.
+- [[TechnologicalResponsibilityRadius]] - modern ethical frame that Episode 228 draws from his postwar return.

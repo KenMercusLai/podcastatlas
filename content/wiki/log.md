@@ -15644,6 +15644,10 @@ Ingested the 2026-08-11 大小电波 episode on Wahaha and Zong Qinghou as the o
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-07] ingest | Episode 228: 所以，奥德赛
+
+Ingested the 2026-09-07 迟早更新 episode connecting the Beatles' "Because", Luo Dayou's 《所以》, Homer and Nolan's Odyssey, Earthrise, Stewart Brand, Whole Earth Catalog, GPT, AI, data, chips, classic revoicing, poetic causality, and responsibility after expanded technical power. Added source `episode-228-suoyi-aodesai-8211241331-711602`; created `LuoDayou`, `TheBeatles`, `BecauseSong`, `SuoyiSong`, `WholeEarthCatalog`, `EarthrisePhoto`, `BlueMarblePhoto`, `PoeticCausality`, `TechnologicalResponsibilityRadius`, and `ClassicRevoicingFromNewPosition`; updated `RenNing`, `ChizaoGengxin`, `StewartBrand`, `ChristopherNolan`, `TheOdyssey`, `Odysseus`, `HomericAdaptationModernization`, `MetisHeroicCunning`, `HomericNostos`, `index`, and `overview`. No settled contradiction found; the episode's song and film connections are kept source-scoped where they are interpretive rather than documentary influence claims.
+
 ## [2026-09-07] ingest | Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned
 
 Ingested the 2026-09-07 How I Built This episode on Kim Vaccarella building Bogg Bag through beach-bag product insight, patents, a rejected Crocs pitch, defective manufacturing, Superstorm Sandy relief use, renewed customer pull, trade-show selling, wholesale relationships, COVID-era demand, a rejected majority acquisition offer, and later control-preserving investment. Added source `bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee`; created `BoggBag`, `KimVaccarella`, `PinkBungalow`, `DefectiveInventoryDemandSignal`, `WholesaleRetailerAmplification`, `TradeShowBoothSharing`, `ControlPreservingGrowthCapital`, and `FounderRestartAfterFailure`; updated `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; exact sales, investor terms, factory terms, and operating metrics remain source-scoped to the episode.
@@ -15879,6 +15883,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | How Mitochondria Control Your Metabolism | Dr. Jared Rutter
 
 Ingested the 2026-09-07 Huberman Lab episode with Jared Rutter on mitochondria, cell-specific metabolism, pyruvate routing, MPC1/MPC2, lactate as fuel, fuel prioritization, cancer metabolic reprogramming, reactive oxygen species, aging uncertainty, and future diagnostics. Added source `how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664`; created `JaredRutter`, `CellularMetabolismMosaic`, `MitochondrialEnergyAllocation`, `MitochondrialPyruvateCarrier`, `LactateMetabolicShuttle`, `CancerMetabolicReprogramming`, and `ReactiveOxygenSpeciesMetabolicStress`; updated `index`. No settled contradiction found; aging mechanisms, ROS causality, metabolic imaging, breath/scent diagnostics, KRAS and combination cancer therapy, fuel-prioritization, and lactic-acidosis claims remain source-scoped public biomedical education.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

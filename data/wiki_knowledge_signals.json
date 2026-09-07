@@ -7382,6 +7382,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/beautyaccessorization/"
     },
+    "BecauseSong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/becausesong/"
+    },
     "BeckWeathers": {
       "episode_count": 1,
       "show_count": 1,
@@ -8045,6 +8061,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/bloomtwosigmaproblem/"
+    },
+    "BlueMarblePhoto": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/bluemarblephoto/"
     },
     "BoRongLateHan": {
       "episode_count": 3,
@@ -12258,9 +12290,9 @@
       "url": "/wiki/concepts/chivalricromancewarmemory/"
     },
     "ChizaoGengxin": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "8212959555_438866 [8212959555_438866].md",
@@ -12275,6 +12307,13 @@
           "show": "迟早更新",
           "title": "Episode 224: 不是不识不时不适",
           "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+        },
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
         }
       ],
       "updated": "2026-09-07",
@@ -12368,9 +12407,9 @@
       "url": "/wiki/entities/christophernavarro/"
     },
     "ChristopherNolan": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md",
@@ -12392,6 +12431,13 @@
           "show": "电影巨辩",
           "title": "当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来",
           "url": "/wiki/sources/dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue/"
+        },
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
         }
       ],
       "updated": "2026-09-07",
@@ -12672,6 +12718,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/cixihomeappliancecluster/"
+    },
+    "ClassicRevoicingFromNewPosition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/classicrevoicingfromnewposition/"
     },
     "ClassicalExaminationOrthodoxy": {
       "episode_count": 1,
@@ -19570,6 +19632,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/earlychinesebuddhismcourttransmission/"
+    },
+    "EarthrisePhoto": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/earthrisephoto/"
     },
     "EastGermany": {
       "episode_count": 1,
@@ -32086,9 +32164,9 @@
       "url": "/wiki/concepts/homeservicerobots/"
     },
     "HomericAdaptationModernization": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？ [ltKLOTheqpuP6oaMYflFzpXTIPsW].md",
@@ -32110,6 +32188,13 @@
           "show": "电影巨辩",
           "title": "当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来",
           "url": "/wiki/sources/dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue/"
+        },
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
         }
       ],
       "updated": "2026-09-07",
@@ -32178,9 +32263,9 @@
       "url": "/wiki/concepts/homerichospitalitytest/"
     },
     "HomericNostos": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2393125423 [GLT2393125423].md",
@@ -32195,6 +32280,13 @@
           "show": "电影巨辩",
           "title": "当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来",
           "url": "/wiki/sources/dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue/"
+        },
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
         }
       ],
       "updated": "2026-09-07",
@@ -44242,6 +44334,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/lumbarneutralposition/"
     },
+    "LuoDayou": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/luodayou/"
+    },
     "LuoTong": {
       "episode_count": 1,
       "show_count": 1,
@@ -46814,9 +46922,9 @@
       "url": "/wiki/concepts/metabolicpsychiatry/"
     },
     "MetisHeroicCunning": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIJIOV2xKBTdKNQTHj-ue [GKwRIJIOV2xKBTdKNQTHj-ue].md",
@@ -46824,6 +46932,13 @@
           "show": "电影巨辩",
           "title": "当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来",
           "url": "/wiki/sources/dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue/"
+        },
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
         }
       ],
       "updated": "2026-09-07",
@@ -50504,9 +50619,9 @@
       "url": "/wiki/concepts/odysseanleadershiptrustfailure/"
     },
     "Odysseus": {
-      "episode_count": 5,
-      "show_count": 4,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？ [ltKLOTheqpuP6oaMYflFzpXTIPsW].md",
@@ -50542,6 +50657,13 @@
           "show": "电影巨辩",
           "title": "当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来",
           "url": "/wiki/sources/dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue/"
+        },
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
         }
       ],
       "updated": "2026-09-07",
@@ -53938,6 +54060,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/podcastproductionworkflow/"
+    },
+    "PoeticCausality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/poeticcausality/"
     },
     "PolicyBoundAgenticLendingSupport": {
       "episode_count": 2,
@@ -58215,9 +58353,9 @@
       "url": "/wiki/entities/renlifeng/"
     },
     "RenNing": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
@@ -58232,6 +58370,13 @@
           "show": "迟早更新",
           "title": "Episode 224: 不是不识不时不适",
           "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+        },
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
         }
       ],
       "updated": "2026-09-07",
@@ -64489,9 +64634,9 @@
       "url": "/wiki/entities/steviegleiberson/"
     },
     "StewartBrand": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "f7495e05-2c4d-4f21-9814-ffdc997630d3 [f7495e05-2c4d-4f21-9814-ffdc997630d3].md",
@@ -64499,6 +64644,13 @@
           "show": "声东击西",
           "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
           "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
+        },
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
         }
       ],
       "updated": "2026-09-07",
@@ -66113,6 +66265,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/suobanlatehan/"
     },
+    "SuoyiSong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/suoyisong/"
+    },
     "SuperiorCreditConflictRisk": {
       "episode_count": 3,
       "show_count": 1,
@@ -67384,6 +67552,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/technologicalinnovationlocalfiscalshock/"
     },
+    "TechnologicalResponsibilityRadius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/technologicalresponsibilityradius/"
+    },
     "TechnologyAssistedInteriorEnforcement": {
       "episode_count": 2,
       "show_count": 2,
@@ -67666,6 +67850,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/teyanataylor/"
     },
+    "TheBeatles": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/thebeatles/"
+    },
     "TheCarrierBagTheoryOfFiction": {
       "episode_count": 1,
       "show_count": 1,
@@ -67699,9 +67899,9 @@
       "url": "/wiki/entities/theendofreadingishere/"
     },
     "TheOdyssey": {
-      "episode_count": 9,
-      "show_count": 6,
-      "source_note_count": 9,
+      "episode_count": 10,
+      "show_count": 7,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md",
@@ -67765,6 +67965,13 @@
           "show": "电影巨辩",
           "title": "当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来",
           "url": "/wiki/sources/dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue/"
+        },
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
         }
       ],
       "updated": "2026-09-07",
@@ -73045,6 +73252,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/wholecompanybranding/"
+    },
+    "WholeEarthCatalog": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211241331_711602 [8211241331_711602].md",
+          "key": "episode-228-suoyi-aodesai-8211241331-711602",
+          "show": "迟早更新",
+          "title": "Episode 228: 所以，奥德赛",
+          "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/wholeearthcatalog/"
     },
     "WholesaleRetailerAmplification": {
       "episode_count": 1,
