@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6571
+wiki_total_pages: 6574
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1214,6 +1214,9 @@ wiki_pages:
   - key: "AIUsePacing"
     title: "AI Use Pacing"
     url: "/wiki/concepts/aiusepacing/"
+  - key: "AIUXDesignValueCompression"
+    title: "AI UX Design Value Compression / AI 对 UX 设计价值的压缩"
+    url: "/wiki/concepts/aiuxdesignvaluecompression/"
   - key: "AIVerification"
     title: "AI Verification"
     url: "/wiki/concepts/aiverification/"

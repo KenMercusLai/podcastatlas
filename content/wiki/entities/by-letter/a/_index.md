@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9189
+wiki_total_pages: 9191
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1055,6 +1055,9 @@ wiki_pages:
   - key: "AnyueLemonProductionArea"
     title: "Anyue Lemon Production Area / 安岳柠檬产区"
     url: "/wiki/entities/anyuelemonproductionarea/"
+  - key: "AnywayFM"
+    title: "Anyway.FM 设计杂谈"
+    url: "/wiki/entities/anywayfm/"
   - key: "AOL"
     title: "AOL"
     url: "/wiki/entities/aol/"

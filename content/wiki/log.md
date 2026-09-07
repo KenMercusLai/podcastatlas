@@ -15624,6 +15624,10 @@ Ingested the 2026-09-06 声动早咖啡 episode on mini beauty products becoming
 
 Ingested the 2026-08-28 不懂球 episode with Pan Weili on Evergrande Football School, Guangzhou FC's legacy, the Chinese football golden-yuan era, Guangzhou Sport University's takeover of the school, Guangzhou Leopard and Guangdong Chenxing Juli as post-Evergrande continuity tests, and club-national-team boundary blur around Lippi and naturalized players. Added source `vol-225-hengda-de-zuqiu-yichan-ft-panweili-gkwrijeozrpkafcpbatn-ivb`; created `Budongqiu`, `Ximalaya`, `PanWeili`, `EvergrandeFootballSchool`, `GuangzhouSportUniversity`, `GuangzhouFC`, `GuangdongChenxingJuli`, `GuangzhouLeopard`, `AFCChampionsLeague`, `MarcelloLippi`, `ChineseFootballGoldenYuanEra`, `FootballYouthAcademyContinuity`, `FootballClubLegacyTransfer`, `ClubNationalTeamBoundaryBlur`, and `NaturalizedPlayerPolicyInChineseFootball`; updated `Evergrande`, `XuJiayin`, `ChineseSuperLeague`, `index`, and `overview`. No settled contradiction found; future team relocation or merger possibilities, supporter-share forecasts, naturalization cost details, and exact institutional motives remain source-scoped.
 
+## [2026-09-07] ingest | №195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」
+
+Ingested the 2026-08-26 Anyway.FM crossover with UX Coffee on post-2022 life changes, a U.S. Chinese-language bookstore, cultural retail, AI pressure on UI/UX designers, reduced overwork intensity, and AI-enabled small tools as a personal outlet. Added source `anyway-195-anyway-195`; created `AnywayFM`, `UXCoffee`, `ChineseBookstoreCulturalWindow`, `ScreenExitCreativePractice`, and `AIUXDesignValueCompression`; updated `BookstoreSerendipity`, `AIJobSecurityAnxiety`, `AIEnabledSelfEmployment`, `AIAssistedLightCoding`, `index`, and `overview`. No settled contradiction found; AI replacement ratios, UI/UX golden-age claims, bookstore demand, and long-term project sustainability remain source-scoped.
+
 ## [2026-09-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -15779,6 +15783,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | 703. Roman Civil War: Marching on the Senate (Part 3)
 
 Ingested the 2026-09-06 The Rest Is History episode on Sulla's first march on Rome, Senate-backed public-enemy outlawry, Marius's exile and armed return, Cinna and Octavius, Pompeius Strabo's army brokerage, Mithridates's anti-Roman campaign, Athens under Aristion, and the imminent full civil war. Added source `703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511`; created `LuciusCorneliusCinna`, `GnaeusOctaviusRomanConsul`, `AristionAthens`, `Athens`, and `FirstMarchOnRome`; updated `GaiusMarius`, `LuciusCorneliusSulla`, `RomanRepublic`, `MithridatesVI`, `PubliusSulpiciusRufus`, `GnaeusPompeiusStrabo`, `ManiusAquillius`, `LateRomanRepublicCrisis`, `MilitaryPersonalization`, `RepublicanCommandTransferCrisis`, `RepublicanEmergencyViolencePrecedent`, `RomanExpansionMoralAnxiety`, and `index`. No settled contradiction found; the Asian massacre figure, Marius exile traditions, Aristion's full political program, and the exact causality between Sulla's personality and structural military change remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」](sources/anyway-195-anyway-195.md) — Anyway.FM crossover with UX Coffee on a U.S. Chinese-language bookstore, leaving screen-centered design, AI pressure on UI/UX work, and AI-enabled small tools as personal outlets.
 - [Vol.225 恒大的足球遗产 ft.潘伟力](sources/vol-225-hengda-de-zuqiu-yichan-ft-panweili-gkwrijeozrpkafcpbatn-ivb.md) — 不懂球 episode with Pan Weili on Evergrande Football School, Guangzhou FC's legacy, the Chinese football golden-yuan era, club-national-team boundary blur, and post-Evergrande Guangzhou supporter continuity.
 - [美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？](sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226.md) — 声动早咖啡 episode on mini beauty products becoming standalone merchandise through lower trial cost, faster trend cycles, fragrance wardrobes, accessorization, retail display, and supply-chain complexity.
 - [漫长的告别：失智症、照护者与终将老去的我们](sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez.md) — 不合时宜 episode with 唐勇 on dementia care, family caregiver burden, Shenzhen elder-care services, the Hogeweyk dementia village, and China's long-term-care-insurance limits.
@@ -10814,6 +10815,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ABC](entities/ABC.md) — Television partner that financed and promoted Disneyland while gaining breakout programming.
 - [WED Enterprises](entities/WEDEnterprises.md) — Walt Disney's personal company that designed Disneyland and retained valuable park rights before buyouts.
 - [Buena Vista Distribution](entities/BuenaVistaDistribution.md) — Disney distribution arm that reduced reliance on outside film distributors.
+- [Anyway.FM 设计杂谈](entities/AnywayFM.md) — Design podcast context for the UX Coffee crossover on AI, bookstores, work, and leaving screen-centered practice.
+- [UX Coffee](entities/UXCoffee.md) — Design podcast and bookstore-project context shifting from UI/UX media toward Chinese cultural retail and maker/craft interests.
 - [大琪](entities/Daqi.md) — Independent designer connecting Alibaba, Lazada, TikTok, Product Roast, landing-page conversion, and design-led growth.
 - [Lazada](entities/Lazada.md) — Southeast Asian ecommerce company used through Daqi's design-team experience and cross-cultural product-design lessons.
 - [TikTok](entities/TikTok.md) — Global short-video platform formed from Musical.ly plus ByteDance systems, linked to creator tools, recommendation, safety, localization, design practice, regulatory stress, and possible social-media liability pressure.
@@ -13026,6 +13029,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI First-Draft Generation](concepts/AIFirstDraftGeneration.md) — Workflow where AI creates a starting draft that a human then verifies, edits, personalizes, and owns.
 - [AI Professional Data Security](concepts/AIProfessionalDataSecurity.md) — Workplace boundary around what employer, client, competitor, or proprietary context may be entered into AI tools.
 - [AI Assisted Light Coding](concepts/AIAssistedLightCoding.md) — Non-specialist use of AI-generated snippets and small automations, bounded by local context, testing, and responsibility.
+- [AI UX Design Value Compression / AI 对 UX 设计价值的压缩](concepts/AIUXDesignValueCompression.md) — Claim that AI may reduce routine UI/UX labor scarcity when product value shifts toward model quality and automated execution.
 - [California Post-Fire Rebuilding Delay](concepts/CaliforniaPostFireRebuildingDelay.md) — Recovery bottleneck where permitting, appeals, insurance, skilled labor, and leadership incentives can prevent burned homes from returning quickly.
 - [Safety Tradeoff Blindness](concepts/SafetyTradeoffBlindness.md) — Governance pattern where visible safety goals crowd out cost, delay, affordability, learning loss, and other second-order harms.
 - [Safe Spaces vs Octagons](concepts/SafeSpacesVsOctagons.md) — Carolla's source-scoped cultural geography contrasting high-protection cities with lower-regulation, consequence-oriented migration destinations.
@@ -15209,6 +15213,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Epistolary Friendship / 书信友谊](concepts/EpistolaryFriendship.md) — Relationship form built through repeated letters, delay, tone, address, and composed attention rather than immediate co-presence.
 - [Old Book Materiality / 旧书物质性](concepts/OldBookMateriality.md) — Value of old books as handled objects with paper, binding, marginalia, previous-reader traces, scarcity, and search labor.
 - [Bookstore Serendipity / 书店偶遇感](concepts/BookstoreSerendipity.md) — Discovery value created by physical bookshops, owner taste, local inventory, browsing accidents, and place memory.
+- [Chinese Bookstore Cultural Window / 中文书店文化窗口](concepts/ChineseBookstoreCulturalWindow.md) — Overseas Chinese bookstore and cultural-retail pattern using books, design titles, crafts, and objects to make contemporary culture browsable.
+- [Screen Exit Creative Practice / 离开屏幕的创作实践](concepts/ScreenExitCreativePractice.md) — Turn from digital work toward physical spaces, objects, retail, markets, or craft as a personal and creative outlet.
 - [Dignity Through Small Gifts / 小礼物中的尊严](concepts/DignityThroughSmallGifts.md) — Pattern where practical gifts preserve beauty, pleasure, reciprocity, and self-respect under constraint.
 - [Book Creator Work](concepts/BookCreatorWork.md) — Labor of turning books into public explanation, recommendation, conversation, or performance under deadlines, media constraints, audience fit, and platform data.
 - [Bridge-Style Reading Content](concepts/BridgeStyleReadingContent.md) — Book talk that helps people approach or resume reading without requiring the creator to perform maximum literary authority.

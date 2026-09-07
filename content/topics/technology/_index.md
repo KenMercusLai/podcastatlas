@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2783
+topic_total_pages: 2785
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -838,6 +838,9 @@ topic_concepts:
   - key: "AIUsePacing"
     title: "AI Use Pacing"
     url: "/wiki/concepts/aiusepacing/"
+  - key: "AIUXDesignValueCompression"
+    title: "AI UX Design Value Compression / AI 对 UX 设计价值的压缩"
+    url: "/wiki/concepts/aiuxdesignvaluecompression/"
   - key: "AIVerification"
     title: "AI Verification"
     url: "/wiki/concepts/aiverification/"
@@ -8145,6 +8148,9 @@ topic_sources:
   - key: "agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq"
     title: "“AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人"
     url: "/wiki/sources/agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq/"
+  - key: "anyway-195-anyway-195"
+    title: "№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」"
+    url: "/wiki/sources/anyway-195-anyway-195/"
   - key: "zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p"
     title: "《资治通鉴·秦纪》121｜嬴政造世界最早高速公路 2200年荒草不生"
     url: "/wiki/sources/zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p/"

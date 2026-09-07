@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6571
+wiki_total_pages: 6574
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "ChineseBistroLocalization"
     title: "Chinese Bistro Localization / 中式小酒馆本土化"
     url: "/wiki/concepts/chinesebistrolocalization/"
+  - key: "ChineseBookstoreCulturalWindow"
+    title: "Chinese Bookstore Cultural Window / 中文书店文化窗口"
+    url: "/wiki/concepts/chinesebookstoreculturalwindow/"
   - key: "ChineseCharacterEvidenceDiscipline"
     title: "Chinese Character Evidence Discipline"
     url: "/wiki/concepts/chinesecharacterevidencediscipline/"

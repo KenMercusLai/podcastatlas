@@ -623,6 +623,29 @@
       "updated": "2026-09-03",
       "url": "/wiki/concepts/aiassistedinfrastructureoperations/"
     },
+    "AIAssistedLightCoding": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128 [BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8389b3].md",
+          "key": "ep-17-ais-impact-on-creativity-a-consumers-perspective",
+          "show": "Data Science With Sam",
+          "title": "EP 17: AI's Impact on Creativity: A Consumer's Perspective",
+          "url": "/wiki/sources/ep-17-ais-impact-on-creativity-a-consumers-perspective/"
+        },
+        {
+          "episode_file": "anyway-195 [anyway-195].md",
+          "key": "anyway-195-anyway-195",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」",
+          "url": "/wiki/sources/anyway-195-anyway-195/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/aiassistedlightcoding/"
+    },
     "AIAssistedWritingDisclosure": {
       "episode_count": 1,
       "show_count": 1,
@@ -1410,6 +1433,29 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/aienabledloandocumentanalysis/"
     },
+    "AIEnabledSelfEmployment": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "In arms’ way： Gaza-deal sticking points [6a71b49647235c354d3c9b74].md",
+          "key": "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74",
+          "show": "Economist Podcasts",
+          "title": "In arms’ way: Gaza-deal sticking points",
+          "url": "/wiki/sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74/"
+        },
+        {
+          "episode_file": "anyway-195 [anyway-195].md",
+          "key": "anyway-195-anyway-195",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」",
+          "url": "/wiki/sources/anyway-195-anyway-195/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/aienabledselfemployment/"
+    },
     "AIEraMajorChoice": {
       "episode_count": 2,
       "show_count": 1,
@@ -1732,6 +1778,57 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aiinevitabilityresponsibilityevasion/"
+    },
+    "AIJobSecurityAnxiety": {
+      "episode_count": 6,
+      "show_count": 6,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01 [lgNagVELl4JyVv7EejrCgNO2Xjsr].md",
+          "key": "ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr",
+          "show": "Talk三联",
+          "title": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01",
+          "url": "/wiki/sources/ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Mark Cuban on the AI Bubble： Who Actually Gets Wiped Out？ [42155640].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640/"
+        },
+        {
+          "episode_file": "tech_20260803_0803_MP_TECH_pod_128 [tech_20260803_0803_MP_TECH_pod_128].md",
+          "key": "tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Opening the curtain of AI business integration",
+          "url": "/wiki/sources/tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Brave New whirl： Turkey’s opposition overhaul [6a69c7766043035f89eb097f].md",
+          "key": "brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f",
+          "show": "Economist Podcasts",
+          "title": "Brave New whirl: Turkey's opposition overhaul",
+          "url": "/wiki/sources/brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f/"
+        },
+        {
+          "episode_file": "151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！ [lgS-qEdm2hDrXRFKGNSPhG4I5h5U].md",
+          "key": "151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！",
+          "url": "/wiki/sources/151-17sui-bei-2026-nian-icml-shoulu-lunwen-de-xiao-shaonian-wo-bet-kaixin-kaixin-kaixin-lgs-qedm2hdrxrfkgnsphg4i5h5u/"
+        },
+        {
+          "episode_file": "anyway-195 [anyway-195].md",
+          "key": "anyway-195-anyway-195",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」",
+          "url": "/wiki/sources/anyway-195-anyway-195/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/aijobsecurityanxiety/"
     },
     "AILegalPersonhoodRisk": {
       "episode_count": 1,
@@ -2263,6 +2360,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aitrainingcopyrightdispute/"
+    },
+    "AIUXDesignValueCompression": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "anyway-195 [anyway-195].md",
+          "key": "anyway-195-anyway-195",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」",
+          "url": "/wiki/sources/anyway-195-anyway-195/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/aiuxdesignvaluecompression/"
     },
     "AIUniversityCampusReframing": {
       "episode_count": 1,
@@ -4960,6 +5073,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/anybotics/"
+    },
+    "AnywayFM": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "anyway-195 [anyway-195].md",
+          "key": "anyway-195-anyway-195",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」",
+          "url": "/wiki/sources/anyway-195-anyway-195/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/anywayfm/"
     },
     "AnzhongLateHan": {
       "episode_count": 1,
@@ -7906,9 +8035,9 @@
       "url": "/wiki/entities/bohaikingdomlatehan/"
     },
     "BookstoreSerendipity": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "EP258 我们如何重拾睡前读书？ [lobyZXqK2oaoV0v51cm355U8NoiX].md",
@@ -7937,9 +8066,16 @@
           "show": "Economist Podcasts",
           "title": "Bots on the ground: China leads humanoid race",
           "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        },
+        {
+          "episode_file": "anyway-195 [anyway-195].md",
+          "key": "anyway-195-anyway-195",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」",
+          "url": "/wiki/sources/anyway-195-anyway-195/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/bookstoreserendipity/"
     },
     "BorderLegalSignal": {
@@ -11630,6 +11766,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/chinesebeautykoreamarketentry/"
+    },
+    "ChineseBookstoreCulturalWindow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "anyway-195 [anyway-195].md",
+          "key": "anyway-195-anyway-195",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」",
+          "url": "/wiki/sources/anyway-195-anyway-195/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/chinesebookstoreculturalwindow/"
     },
     "ChineseFamilyBusinessSuccession": {
       "episode_count": 2,
@@ -59334,6 +59486,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/scottbessent/"
     },
+    "ScreenExitCreativePractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "anyway-195 [anyway-195].md",
+          "key": "anyway-195-anyway-195",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」",
+          "url": "/wiki/sources/anyway-195-anyway-195/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/screenexitcreativepractice/"
+    },
     "ScyllaAndCharybdis": {
       "episode_count": 1,
       "show_count": 1,
@@ -68049,6 +68217,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/usimmigrationandcustomsenforcement/"
+    },
+    "UXCoffee": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "anyway-195 [anyway-195].md",
+          "key": "anyway-195-anyway-195",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」",
+          "url": "/wiki/sources/anyway-195-anyway-195/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/uxcoffee/"
     },
     "Uber": {
       "episode_count": 6,
