@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！](sources/luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f.md) — 罗永浩的十字路口 live panel with 四孝喜剧 on trend-following, friend lending, campus-loan chains, Smartisan debt repayment, collection pressure, and money's effect on relationships.
 - [No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？](sources/no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna.md) — 三五环 interview with Liu Xiaowei on Kuaishou marketing science, content seeding, R3 seeded audiences, search/live/store paths, and brand-performance integration.
 - [史蒂夫说467期 - Joan姐 - 看清自我后，就没人能阻挡你活出自我了](sources/shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg.md) — 史蒂夫说 interview on Steve's psychology origin, Wenchuan crisis intervention, love, vulnerability, father-son repair, parenting, Innerworld boxing community, and self-understanding as vitality.
 - [No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？](sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d.md) — 三五环 episode on AI-enabled celebrity voice and likeness infringement in Douyin ecommerce, platform pre-review, authorization boundaries, false positives, and consumer confusion.
@@ -2006,6 +2007,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [四孝喜剧 / Sixiao Comedy](entities/SixiaoComedy.md) — Live-comedy collaborator for the Luo Yonghao money-and-debt panel, represented through audience interaction, advertising jokes, and personal borrowing stories.
+- [咸鱼 / Xianyu (Stand-up Comedian)](entities/XianyuStandup.md) — Comedian whose panel stories link trend-following consumption, 500-yuan friend debt, new-income awkwardness, and commercial collection.
+- [王季叶 / Wang Jiye](entities/WangJiye.md) — Panel participant whose campus-loan chain, Zhihu payment mistake, and indirect collection tactics ground debt psychology.
+- [小四爷 / Xiao Siye](entities/XiaoSiye.md) — Comedian whose fundraiser-verification, family-borrowing, and visible-consumption examples show public trust and money pressure.
+- [草薇 / Cao Wei (Luo Yonghao Colleague)](entities/CaoWeiLuoyonghaoColleague.md) — Long-term Luo Yonghao collaborator who provides company-cycle and colleague-observation context in the money panel.
 - [刘晓微 / Liu Xiaowei](entities/LiuXiaoweiMarketing.md) — Kuaishou marketing-science practitioner explaining content seeding, R3 audience assets, and brand-performance path construction.
 - [Innerworld](entities/Innerworld.md) — boxing-and-psychology community described by Steve as a growth environment for embodied self-contact, ritual, vulnerability, and peer support.
 - [Douyin E-commerce / 抖音电商](entities/DouyinEcommerce.md) — Douyin commerce layer discussed through AI-enabled celebrity voice and likeness infringement, rights pre-review, product/account/live-room confusion, and authorization maintenance.
@@ -2178,7 +2184,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [东野圭吾 / Higashino Keigo](entities/HigashinoKeigo.md) — Japanese mystery writer framed through Chinese reader memory, clean prose, moral ambiguity, and crime's social causes.
 - [施南生 / Nansun Shi](entities/NansunShi.md) — Hong Kong film figure represented through memorial-site form, affectionate testimony, and public creator remembrance.
 - [手工耿 / Shougong Geng](entities/ShougongGeng.md) — Chinese maker and short-video creator whose welded inventions sit between usefulness, comedy, craft, and art interpretation.
-- [罗永浩的十字路口 / Luo Yonghao's Crossroads](entities/LuoyonghaosCrossroads.md) — long-form interview show context for Luo Yonghao's creator, craft, and cultural-framing conversation with 手工耿.
+- [罗永浩的十字路口 / Luo Yonghao's Crossroads](entities/LuoyonghaosCrossroads.md) — long-form interview show context for Luo Yonghao's creator, engineering-founder, status-signaling, and money-and-debt conversations.
 - [吴瀚坤](entities/WuHankun.md) — actor, AI entrepreneur, and AI short-film creator interviewed by 三五环.
 - [Frederick AI](entities/FrederickAI.md) — Wu Hankun's source-reported early agent project for founder task execution.
 - [《粉色悖论》 / Pink Paradox](entities/PinkParadox.md) — Wu Hankun's first AI short-film case, begun as a role-farewell project.
@@ -8640,7 +8646,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Huang Zhang](entities/HuangZhang.md) — Meizu founder whose enthusiast product culture shaped early Chinese smartphone community and design.
 - [Lei Jun](entities/LeiJun.md) — Xiaomi founder whose MIUI-first path, 1999-yuan Xiaomi 1, and Redmi line anchor the internet-phone model.
 - [Lens Technology](entities/LensTechnology.md) — Zhou Qunfei's cover-glass supplier used by episode 210 to show the hidden component side of the smartphone era.
-- [Luo Yonghao](entities/LuoYonghao.md) — Smartisan founder and 罗永浩的十字路口 host whose current wiki profile links founder taste, hardware execution limits, and long-form creator interviewing.
+- [Luo Yonghao](entities/LuoYonghao.md) — Smartisan founder and 罗永浩的十字路口 host whose current profile links founder taste, hardware execution limits, cultural framing, and debt-repayment explanation.
 - [Luxshare Precision](entities/LuxsharePrecision.md) — Wang Laichun's consumer-electronics supplier, moving from connectors into major Apple-era assembly and component work.
 - [Meizu](entities/Meizu.md) — Early Chinese enthusiast smartphone company moving from MP3 players to the M8, Flyme, and community-led product culture.
 - [MIUI](entities/MIUI.md) — Xiaomi's Android-based software system that created users and community before Xiaomi launched its own phones.
@@ -11273,6 +11279,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Friend Lending Boundary / 朋友借钱边界](concepts/FriendLendingBoundary.md) — Boundary between helping friends with money and creating ambiguous debt, disguised gifting, repayment pressure, or reputation risk.
 - [Content Seeding Marketing / 内容种草](concepts/ContentSeedingMarketing.md) — Marketing path where content, creators, search, livestreams, stores, and delayed buying build product understanding and demand beyond same-session purchase.
 - [Brand-Performance Integration / 品效合一](concepts/BrandPerformanceIntegration.md) — Advertising frame linking brand exposure, seeded audiences, ecommerce traffic, and conversion without pretending every impression is causally provable.
 - [Marketing Science User Path / 营销科学用户路径](concepts/MarketingScienceUserPath.md) — Reconstruction of exposure, search, live-room, store, coupon, delayed purchase, and off-platform behavior as partial marketing-path signals.
@@ -17562,7 +17569,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Financial Power And State Capacity](concepts/FinancialPowerAndStateCapacity.md) — EP23 frame tying banks, accounting, currency, bonds, taxes, and resource trade to the ability to organize or exploit an economy.
 - [Mortgage Approval](concepts/MortgageApproval.md) — Bank review of property collateral, down-payment source, income stability, existing debt, co-repayment, credit history, and mortgage-rate choice.
 - [Personal Credit Record](concepts/PersonalCreditRecord.md) — Borrower history built from credit use, repayment, overdue records, inquiries, utilization, identity/account handling, and repossession events.
-- [Consumer Loan Risk](concepts/ConsumerLoanRisk.md) — Risk that car loans, consumer loans, online loans, campus loans, installments, and haircut loans become hidden repayment pressure rather than harmless liquidity.
+- [Consumer Loan Risk](concepts/ConsumerLoanRisk.md) — Risk that consumer credit, installments, online loans, campus loans, peer credit routing, and auto loans become hidden repayment pressure rather than harmless liquidity.
 - [Loan Intermediary Risk](concepts/LoanIntermediaryRisk.md) — Borrower risk from brokers, bank-adjacent marketing, service fees, staged approvals, AB loans, and personal-information exposure.
 - [Credit Card Debt Mechanics](concepts/CreditCardDebtMechanics.md) — Interest, fee, repayment, installment, minimum-payment, cash-withdrawal, cash-out, and card-security rules behind credit-card debt.
 - [Subculture Led Marketing](concepts/SubcultureLedMarketing.md) — Consumer-brand pattern where authentic early users make a product credible before mass-market positioning works.

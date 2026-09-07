@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9263
+wiki_total_pages: 9268
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "Xianyang"
     title: "咸阳 / Xianyang"
     url: "/wiki/entities/xianyang/"
+  - key: "XianyuStandup"
+    title: "咸鱼 / Xianyu (Stand-up Comedian)"
+    url: "/wiki/entities/xianyustandup/"
   - key: "Ximalaya"
     title: "喜马拉雅 / Ximalaya"
     url: "/wiki/entities/ximalaya/"
@@ -251,6 +254,9 @@ wiki_pages:
   - key: "XiaoSiFarewellMyConcubine"
     title: "小四 / Xiao Si"
     url: "/wiki/entities/xiaosifarewellmyconcubine/"
+  - key: "XiaoSiye"
+    title: "小四爷 / Xiao Siye"
+    url: "/wiki/entities/xiaosiye/"
   - key: "XiaoSun"
     title: "小孙"
     url: "/wiki/entities/xiaosun/"

@@ -10225,6 +10225,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/caotenglatehan/"
     },
+    "CaoWeiLuoyonghaoColleague": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ls3BbpqjtmtIJ4QdD5B0aL07GM_f [ls3BbpqjtmtIJ4QdD5B0aL07GM_f].md",
+          "key": "luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/caoweiluoyonghaocolleague/"
+    },
     "CaoZhengLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -14511,6 +14527,43 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/consumerdatadeletion/"
+    },
+    "ConsumerLoanRisk": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0aa756cbdd3c3e8e0b2c86f2d3b1612a_31499257 [default.mp3_ywr3ahjkcgo_0aa756cbdd3c3e8e0b2c86f2d3b1612a_31499257].md",
+          "key": "riding-with-the-repo-man-update",
+          "show": "Planet Money",
+          "title": "Riding with the repo man (update)",
+          "url": "/wiki/sources/riding-with-the-repo-man-update/"
+        },
+        {
+          "episode_file": "EP24 房贷车贷消费贷，贷贷为奴，代代还 [lswnAA7X8BiKu9ouyV-_C1DKF439].md",
+          "key": "ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439",
+          "show": "一劳永逸",
+          "title": "EP24 房贷车贷消费贷，贷贷为奴，代代还",
+          "url": "/wiki/sources/ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439/"
+        },
+        {
+          "episode_file": "智力贬值的春节见闻录，与那场正在酝酿的优贷危机 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [智力贬值的春节见闻录，与那场正在酝酿的优贷危-1].md",
+          "key": "zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1",
+          "show": "科技乱炖",
+          "title": "智力贬值的春节见闻录，与那场正在酝酿的优贷危机",
+          "url": "/wiki/sources/zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1/"
+        },
+        {
+          "episode_file": "ls3BbpqjtmtIJ4QdD5B0aL07GM_f [ls3BbpqjtmtIJ4QdD5B0aL07GM_f].md",
+          "key": "luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/consumerloanrisk/"
     },
     "ConsumerSleepHardwareSubscription": {
       "episode_count": 1,
@@ -27095,6 +27148,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/friedrichwilhelmvonsteuben/"
+    },
+    "FriendLendingBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ls3BbpqjtmtIJ4QdD5B0aL07GM_f [ls3BbpqjtmtIJ4QdD5B0aL07GM_f].md",
+          "key": "luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/friendlendingboundary/"
     },
     "FrontPackConversionEducation": {
       "episode_count": 1,
@@ -45394,9 +45463,9 @@
       "url": "/wiki/entities/luotong/"
     },
     "LuoYonghao": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 ｜ 中国互联网故事24 [1000932027].md",
@@ -45418,6 +45487,13 @@
           "show": "罗永浩的十字路口",
           "title": "罗永浩的X字路口！一年一度装x大会",
           "url": "/wiki/sources/luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx/"
+        },
+        {
+          "episode_file": "ls3BbpqjtmtIJ4QdD5B0aL07GM_f [ls3BbpqjtmtIJ4QdD5B0aL07GM_f].md",
+          "key": "luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f/"
         }
       ],
       "updated": "2026-09-08",
@@ -45456,9 +45532,9 @@
       "url": "/wiki/entities/luobopaidui/"
     },
     "LuoyonghaosCrossroads": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
@@ -45480,6 +45556,13 @@
           "show": "罗永浩的十字路口",
           "title": "罗永浩的X字路口！一年一度装x大会",
           "url": "/wiki/sources/luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx/"
+        },
+        {
+          "episode_file": "ls3BbpqjtmtIJ4QdD5B0aL07GM_f [ls3BbpqjtmtIJ4QdD5B0aL07GM_f].md",
+          "key": "luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f/"
         }
       ],
       "updated": "2026-09-08",
@@ -64697,6 +64780,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/situationalstrictlenientgovernance/"
     },
+    "SixiaoComedy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ls3BbpqjtmtIJ4QdD5B0aL07GM_f [ls3BbpqjtmtIJ4QdD5B0aL07GM_f].md",
+          "key": "luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/sixiaocomedy/"
+    },
     "SlaveProducedGoodsBoycott": {
       "episode_count": 1,
       "show_count": 1,
@@ -74023,6 +74122,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/wangjingxiyulatehan/"
     },
+    "WangJiye": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ls3BbpqjtmtIJ4QdD5B0aL07GM_f [ls3BbpqjtmtIJ4QdD5B0aL07GM_f].md",
+          "key": "luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/wangjiye/"
+    },
     "WangKangLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -76832,6 +76947,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/xianyufu/"
     },
+    "XianyuStandup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ls3BbpqjtmtIJ4QdD5B0aL07GM_f [ls3BbpqjtmtIJ4QdD5B0aL07GM_f].md",
+          "key": "luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/xianyustandup/"
+    },
     "XiaoA": {
       "episode_count": 1,
       "show_count": 1,
@@ -76895,6 +77026,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/xiaoqistandup/"
+    },
+    "XiaoSiye": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ls3BbpqjtmtIJ4QdD5B0aL07GM_f [ls3BbpqjtmtIJ4QdD5B0aL07GM_f].md",
+          "key": "luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/xiaosiye/"
     },
     "XiaolongWeightManagementGuest": {
       "episode_count": 1,

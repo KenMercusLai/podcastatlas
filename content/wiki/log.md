@@ -16023,3 +16023,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-08] ingest | 罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！
+
+Ingested the 2026-06-26 罗永浩的十字路口 live panel with 四孝喜剧 on trend-following, friend lending, campus-loan chains, Smartisan debt repayment, collection pressure, and money's effect on relationships. Added source `luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f`; created `FriendLendingBoundary`, `SixiaoComedy`, `XianyuStandup`, `WangJiye`, `XiaoSiye`, and `CaoWeiLuoyonghaoColleague`; updated `LuoYonghao`, `LuoyonghaosCrossroads`, and `ConsumerLoanRisk`. No settled contradiction found; exact debt amounts, friend-loan recovery, and comedy-persona details remain source-scoped.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

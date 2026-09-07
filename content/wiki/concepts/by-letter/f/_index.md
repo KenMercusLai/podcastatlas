@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6669
+wiki_total_pages: 6670
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -980,6 +980,9 @@ wiki_pages:
   - key: "FreshMadeIceCreamRetail"
     title: "Fresh-Made Ice Cream Retail"
     url: "/wiki/concepts/freshmadeicecreamretail/"
+  - key: "FriendLendingBoundary"
+    title: "Friend Lending Boundary / 朋友借钱边界"
+    url: "/wiki/concepts/friendlendingboundary/"
   - key: "FriendshipRecession"
     title: "Friendship Recession"
     url: "/wiki/concepts/friendshiprecession/"

@@ -9439,6 +9439,10 @@
     "title": "曹腾 / Cao Teng (late Han)",
     "url": "/wiki/entities/caotenglatehan/"
   },
+  "CaoWeiLuoyonghaoColleague": {
+    "title": "草薇 / Cao Wei (Luo Yonghao Colleague)",
+    "url": "/wiki/entities/caoweiluoyonghaocolleague/"
+  },
   "CaoWushang": {
     "title": "曹无伤 / Cao Wushang",
     "url": "/wiki/entities/caowushang/"
@@ -21590,6 +21594,10 @@
   "FriendFeed": {
     "title": "FriendFeed",
     "url": "/wiki/entities/friendfeed/"
+  },
+  "FriendLendingBoundary": {
+    "title": "Friend Lending Boundary / 朋友借钱边界",
+    "url": "/wiki/concepts/friendlendingboundary/"
   },
   "FriendshipRecession": {
     "title": "Friendship Recession",
@@ -51031,6 +51039,10 @@
     "title": "Six-State Restoration Anti-Qin Strategy / 六国复国式反秦策略",
     "url": "/wiki/concepts/sixstaterestorationantiqinstrategy/"
   },
+  "SixiaoComedy": {
+    "title": "四孝喜剧 / Sixiao Comedy",
+    "url": "/wiki/entities/sixiaocomedy/"
+  },
   "SixtyFortyPortfolio": {
     "title": "60/40 Portfolio",
     "url": "/wiki/concepts/sixtyfortyportfolio/"
@@ -58563,6 +58575,10 @@
     "title": "Wang Jiping",
     "url": "/wiki/entities/wangjiping/"
   },
+  "WangJiye": {
+    "title": "王季叶 / Wang Jiye",
+    "url": "/wiki/entities/wangjiye/"
+  },
   "WangJunyu": {
     "title": "王俊玉",
     "url": "/wiki/entities/wangjunyu/"
@@ -60851,6 +60867,10 @@
     "title": "鲜于辅 / Xianyu Fu",
     "url": "/wiki/entities/xianyufu/"
   },
+  "XianyuStandup": {
+    "title": "咸鱼 / Xianyu (Stand-up Comedian)",
+    "url": "/wiki/entities/xianyustandup/"
+  },
   "XiaoA": {
     "title": "小 A / Xiao A",
     "url": "/wiki/entities/xiaoa/"
@@ -60914,6 +60934,10 @@
   "XiaoSiFarewellMyConcubine": {
     "title": "小四 / Xiao Si",
     "url": "/wiki/entities/xiaosifarewellmyconcubine/"
+  },
+  "XiaoSiye": {
+    "title": "小四爷 / Xiao Siye",
+    "url": "/wiki/entities/xiaosiye/"
   },
   "XiaoSun": {
     "title": "小孙",
@@ -66822,6 +66846,10 @@
   "live-anthropic-co-founder-on-ai-and-jobs": {
     "title": "Live: Anthropic co-founder on AI and jobs",
     "url": "/wiki/sources/live-anthropic-co-founder-on-ai-and-jobs/"
+  },
+  "luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f": {
+    "title": "罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！",
+    "url": "/wiki/sources/luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f/"
   },
   "luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx": {
     "title": "罗永浩的X字路口！一年一度装x大会",

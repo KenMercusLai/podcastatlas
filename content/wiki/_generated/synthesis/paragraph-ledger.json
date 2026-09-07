@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e8622d38f13ea2358ddce386a71a855756d6b16ff37d750e1c143956989294e2",
       "a425088a8a63cb4953aa8d3b827e2adc1d5f50a4ff37a75e56d1135b549692a6",
       "934678f21fc5dae88ac422035cc7224a0cce38c899ba484c6a245e74426573b7",
       "cc2b930daa4779c99a5c189b0a0b83d4519658b9d4998861355bbec0cf4fbff0",
@@ -585,11 +586,39 @@
       "50c10ede37a5054232536c4055debd33554deb141412a8be7da09db5505c5e9c",
       "84dd49ac166e4697c7944d5e84ddfcbab4c58fe49670c3ea55a8fcc24b4214bf"
     ],
-    "paragraph_count": 583
+    "paragraph_count": 584
   },
-  "overview_commit": "02f1bd90b76bced9349df482488be45e52c00b4f",
-  "overview_digest": "0699ef6525e0bba75f181f7a703764ed1804d6eff0d6d715410e976ca88bf602",
+  "overview_commit": "9ce16721dc0586ac415c50e1c7db5c59a7fbe0d7",
+  "overview_digest": "f5295b37abf54a81eb6bb1ccdf6d155c3bd580a967dbe1a1babb9b23538b98b8",
   "paragraphs": [
+    {
+      "id": "e8622d38f13ea2358ddce386a71a855756d6b16ff37d750e1c143956989294e2",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f|罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！]], a [[LuoyonghaosCrossroads|罗永浩的十字路口]] live panel with [[SixiaoComedy|四孝喜剧]] on trend-following, borrowing, debt repayment, collection pressure, and money's effect on relationships. It adds [[SixiaoComedy|四孝喜剧]], [[XianyuStandup|咸鱼]], [[WangJiye|王季叶]], [[XiaoSiye|小四爷]], [[CaoWeiLuoyonghaoColleague|草薇]], and [[FriendLendingBoundary|朋友借钱边界]], while extending [[LuoYonghao]], [[LuoyonghaosCrossroads|罗永浩的十字路口]], [[ConsumerLoanRisk]], [[MoneyAsFlow|货币是流量]], [[SocialComparisonPressure|社会比较压力]], and [[MiddleClassConsumptionPressure]]. Its core synthesis is that borrowing among friends is neither simple generosity nor simple financial irrationality: lender capacity, borrower distress, relationship closeness, platform credit, legal exposure, public trust, supplier harm, and collection pressure determine whether money preserves trust or corrodes it. No settled contradiction is recorded; debt amounts, repayment timing, friend-loan recovery rates, and comedy-persona details remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CaoWeiLuoyonghaoColleague",
+        "ConsumerLoanRisk",
+        "FriendLendingBoundary",
+        "LuoYonghao",
+        "LuoyonghaosCrossroads",
+        "MiddleClassConsumptionPressure",
+        "MoneyAsFlow",
+        "SixiaoComedy",
+        "SocialComparisonPressure",
+        "WangJiye",
+        "XianyuStandup",
+        "XiaoSiye",
+        "luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f"
+      ]
+    },
     {
       "id": "a425088a8a63cb4953aa8d3b827e2adc1d5f50a4ff37a75e56d1135b549692a6",
       "primary_topic": "ai-and-technology",
