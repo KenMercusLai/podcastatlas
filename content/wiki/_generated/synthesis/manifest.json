@@ -1,27 +1,27 @@
 {
   "content_date": "2026-09-07",
   "corpus": {
-    "episode_count": 1965,
-    "source_count": 1965
+    "episode_count": 1966,
+    "source_count": 1966
   },
   "generated": true,
   "global": {
-    "candidate_digest": "53ead3da58f4b6ccb7beb24018085dec6d4d4798f9bba4aefcf6f616e078c4c0",
-    "compacted_at": "2026-09-07T00:40:03.931533Z",
+    "candidate_digest": "f3c78cc50d86be432466b853d5abca76f8603c95a9303b362e476dbe878a195a",
+    "compacted_at": "2026-09-07T01:16:20.352730Z",
     "content_date": "2026-09-07",
     "corpus": {
-      "episode_count": 1965,
-      "source_count": 1965
+      "episode_count": 1966,
+      "source_count": 1966
     },
-    "output_digest": "2f1be8075493ee1f5ec828e78a6aca77376a20492c7460991197aad990af3f89",
-    "overview_commit": "c01afd665d9775ebd71e025e6fb3cbc041f36281",
-    "overview_digest": "968e21f9f652ee9873c5bbed3772eba7adfee4c2f65cfc09d9a54d2fccef82e9",
+    "output_digest": "c3975ba319aaf11e381b432a81228963c60f993e145d007efb9dc2fda0819b59",
+    "overview_commit": "bdce551e9270d739aa23105514d524cc4eae96e4",
+    "overview_digest": "920e55fe12348671237909530c65ef4d027c21b11c6af8a909f980bd29502e72",
     "pending_ingests": 0,
     "pending_topics": []
   },
-  "overview_commit": "c01afd665d9775ebd71e025e6fb3cbc041f36281",
-  "overview_digest": "968e21f9f652ee9873c5bbed3772eba7adfee4c2f65cfc09d9a54d2fccef82e9",
-  "paragraph_count": 564,
+  "overview_commit": "bdce551e9270d739aa23105514d524cc4eae96e4",
+  "overview_digest": "920e55fe12348671237909530c65ef4d027c21b11c6af8a909f980bd29502e72",
+  "paragraph_count": 565,
   "schema_version": 1,
   "topics": {
     "ai-and-technology": {
@@ -31,9 +31,9 @@
       "title": "AI and Technology"
     },
     "business-and-markets": {
-      "claim_digest": "7e375811ce3e4e45818caa0cd4e8c8b2c26d09acb43a11d667f21903967a776b",
-      "input_digest": "d32cbb00dce359f7ca21eab2898c49d6433f2a126e75caf4bc6cd25f1556229f",
-      "output_digest": "e84877262703a2e4d0567d4cfa53b4f94173b5607f0d3dc9ee4ccd03dd0a994a",
+      "claim_digest": "f69ac05c4e69d2222b1959c4085fb46bb7fed39aec04f21ad505ed61ed3db0f8",
+      "input_digest": "72b69cacb2811666ad3a202b23a039c7e77e85c26b59e29c49e8ea087123b744",
+      "output_digest": "d276e8c15d9401f1761d476fef32fcaec1c7a343018c9c4e6ca1982eddcad188",
       "title": "Business and Markets"
     },
     "culture-and-media": {

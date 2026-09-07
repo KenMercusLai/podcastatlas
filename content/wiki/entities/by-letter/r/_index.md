@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 9170
+wiki_total_pages: 9171
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "RezaPahlavi"
     title: "Reza Pahlavi"
     url: "/wiki/entities/rezapahlavi/"
+  - key: "RhodeBeauty"
+    title: "Rhode Beauty"
+    url: "/wiki/entities/rhodebeauty/"
   - key: "RhondaConger"
     title: "Rhonda Conger"
     url: "/wiki/entities/rhondaconger/"

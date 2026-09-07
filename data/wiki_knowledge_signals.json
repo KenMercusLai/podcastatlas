@@ -6915,6 +6915,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/bayeuxtapestry/"
     },
+    "BeautyAccessorization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？ [1011859226].md",
+          "key": "meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226",
+          "show": "声动早咖啡",
+          "title": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？",
+          "url": "/wiki/sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/beautyaccessorization/"
+    },
     "BeckWeathers": {
       "episode_count": 1,
       "show_count": 1,
@@ -24808,6 +24824,59 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/fourthamendmentdigitalprivacy/"
     },
+    "FragranceProductStorytelling": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "EP263 线香崛起：发现中式香气的魅力 [lq1LsqCPrqYR7aUO5gslwYymuIv_].md",
+          "key": "ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv",
+          "show": "Talk三联",
+          "title": "EP263 线香崛起：发现中式香气的魅力",
+          "url": "/wiki/sources/ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv/"
+        },
+        {
+          "episode_file": "144. 国货出海新趋势：山下有松、观夏、PANE ｜ 疯投圈 (1) [144-1].md",
+          "key": "144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1",
+          "show": "疯投圈",
+          "title": "144 ✪ 国货出海新趋势：山下有松、观夏、PANE",
+          "url": "/wiki/sources/144-guohuo-chuhai-xinqushi-shanxia-yousong-guanxia-pane-feng-tou-quan-1-144-1/"
+        },
+        {
+          "episode_file": "145. 改嫁中资的餐饮洋品牌 ｜ 疯投圈 (1) [145-1].md",
+          "key": "145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1",
+          "show": "疯投圈",
+          "title": "145. 改嫁中资的餐饮洋品牌",
+          "url": "/wiki/sources/145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1/"
+        },
+        {
+          "episode_file": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？ [1011859226].md",
+          "key": "meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226",
+          "show": "声动早咖啡",
+          "title": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？",
+          "url": "/wiki/sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/fragranceproductstorytelling/"
+    },
+    "FragranceWardrobe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？ [1011859226].md",
+          "key": "meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226",
+          "show": "声动早咖啡",
+          "title": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？",
+          "url": "/wiki/sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/fragrancewardrobe/"
+    },
     "France": {
       "episode_count": 11,
       "show_count": 4,
@@ -37091,6 +37160,43 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/livo/"
     },
+    "LOreal": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "绿点小样 ｜ 要推广替换芯，得把美妆重做一遍 [1006757937].md",
+          "key": "lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937",
+          "show": "商业就是这样",
+          "title": "绿点小样 | 要推广替换芯，得把美妆重做一遍",
+          "url": "/wiki/sources/lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937/"
+        },
+        {
+          "episode_file": "美妆巨头集体盯上头发，洗护生意为何又热起来？ [1005860109].md",
+          "key": "meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109",
+          "show": "声动早咖啡",
+          "title": "美妆巨头集体盯上头发，洗护生意为何又热起来？",
+          "url": "/wiki/sources/meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109/"
+        },
+        {
+          "episode_file": "e.l.f. Cosmetics： Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant [bbc71e65-9e47-41cb-8dd4-c61fcfc2572e].md",
+          "key": "e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e",
+          "show": "How I Built This with Guy Raz",
+          "title": "e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant",
+          "url": "/wiki/sources/e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e/"
+        },
+        {
+          "episode_file": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？ [1011859226].md",
+          "key": "meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226",
+          "show": "声动早咖啡",
+          "title": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？",
+          "url": "/wiki/sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/loreal/"
+    },
     "LPDDR6": {
       "episode_count": 1,
       "show_count": 1,
@@ -45712,6 +45818,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/mingminghenmang/"
     },
+    "MiniBeautyStandaloneProduct": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？ [1011859226].md",
+          "key": "meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226",
+          "show": "声动早咖啡",
+          "title": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？",
+          "url": "/wiki/sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/minibeautystandaloneproduct/"
+    },
     "Miniso": {
       "episode_count": 1,
       "show_count": 1,
@@ -48902,6 +49024,29 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/olipop/"
+    },
+    "OliveYoung": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "142. 产品体验学日本、全球营销学韩国 ｜ 疯投圈 (1) [142-1].md",
+          "key": "142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1",
+          "show": "疯投圈",
+          "title": "142. 产品体验学日本、全球营销学韩国",
+          "url": "/wiki/sources/142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1/"
+        },
+        {
+          "episode_file": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？ [1011859226].md",
+          "key": "meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226",
+          "show": "声动早咖啡",
+          "title": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？",
+          "url": "/wiki/sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/oliveyoung/"
     },
     "OmenCodedRemonstrance": {
       "episode_count": 8,
@@ -56473,6 +56618,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/restaurantsupplychainlocalization/"
     },
+    "RetailDisplayAsBrandSurface": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Sun Bum： Tom Rinks. The Secrets of a Master Brand Builder (2023) [77ab41eb-99a8-4dd2-ae39-d066818afc21].md",
+          "key": "sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21",
+          "show": "How I Built This with Guy Raz",
+          "title": "Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)",
+          "url": "/wiki/sources/sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21/"
+        },
+        {
+          "episode_file": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？ [1011859226].md",
+          "key": "meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226",
+          "show": "声动早咖啡",
+          "title": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？",
+          "url": "/wiki/sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/retaildisplayasbrandsurface/"
+    },
     "RetainerRevengeMobilization": {
       "episode_count": 2,
       "show_count": 1,
@@ -56656,6 +56824,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/rewardpredictionerrorlearning/"
+    },
+    "RhodeBeauty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？ [1011859226].md",
+          "key": "meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226",
+          "show": "声动早咖啡",
+          "title": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？",
+          "url": "/wiki/sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/rhodebeauty/"
     },
     "RichardIII": {
       "episode_count": 2,
@@ -66804,6 +66988,43 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/treatyofparis1783/"
     },
+    "TrialSizeProduct": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Bobbi Brown of Jones Road Beauty (September 2025) [427590c2-11bc-43fa-9c92-d1eccf05842a].md",
+          "key": "advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Bobbi Brown of Jones Road Beauty (September 2025)",
+          "url": "/wiki/sources/advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a/"
+        },
+        {
+          "episode_file": "Justin’s Nut Butter： Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter. [b456c4b4-0243-4e46-9460-d0de7cf5d98b].md",
+          "key": "justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b",
+          "show": "How I Built This with Guy Raz",
+          "title": "Justin's Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.",
+          "url": "/wiki/sources/justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b/"
+        },
+        {
+          "episode_file": "Advice Line with Jeffrey Hollender of Seventh Generation [f8ce2410-1176-47d9-be44-03f9fa945714].md",
+          "key": "advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Jeffrey Hollender of Seventh Generation",
+          "url": "/wiki/sources/advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714/"
+        },
+        {
+          "episode_file": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？ [1011859226].md",
+          "key": "meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226",
+          "show": "声动早咖啡",
+          "title": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？",
+          "url": "/wiki/sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/trialsizeproduct/"
+    },
     "TrojanHorse": {
       "episode_count": 1,
       "show_count": 1,
@@ -67314,6 +67535,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/ulsterdefenceassociation/"
+    },
+    "UltaBeauty": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "不爱直播带货的欧美消费者，为何在这家平台上大把花钱？ [1007104138].md",
+          "key": "buai-zhibo-daihuo-de-oumei-xiaofeizhe-weihe-zai-zhejia-pingtai-shang-daba-huaqian-1007104138",
+          "show": "声动早咖啡",
+          "title": "不爱直播带货的欧美消费者，为何在 Whatnot 上大把花钱？",
+          "url": "/wiki/sources/buai-zhibo-daihuo-de-oumei-xiaofeizhe-weihe-zai-zhejia-pingtai-shang-daba-huaqian-1007104138/"
+        },
+        {
+          "episode_file": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？ [1011859226].md",
+          "key": "meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226",
+          "show": "声动早咖啡",
+          "title": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？",
+          "url": "/wiki/sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/ultabeauty/"
     },
     "UnauthorizedFrontierCommandIntervention": {
       "episode_count": 3,

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b7698ced008e75103ebeaf37b643a21559bd84c3347ebb363160cff2e24ff992",
       "33cce1ac0b363bdc5c3e1b5568de2dc9816db4cea40dc459a5073223be5a7c39",
       "89fb39ee3458c07f54166f321ade0c95f2ff4679255bd5f2731469e5b1175b23",
       "5a5401156e42ac54bdb8ac1f79fed28a6d6902f1e64e18ba6a3c34c5c5549939",
@@ -566,11 +567,37 @@
       "013189bd78693c4f9ddd24154fb4e85b4d94868b1b336af988b43dbee9411c03",
       "ed605f497963461eb9bc9c968de448aa46b9f90dddac4016b47d57e3c144fc1a"
     ],
-    "paragraph_count": 564
+    "paragraph_count": 565
   },
-  "overview_commit": "c01afd665d9775ebd71e025e6fb3cbc041f36281",
-  "overview_digest": "968e21f9f652ee9873c5bbed3772eba7adfee4c2f65cfc09d9a54d2fccef82e9",
+  "overview_commit": "bdce551e9270d739aa23105514d524cc4eae96e4",
+  "overview_digest": "920e55fe12348671237909530c65ef4d027c21b11c6af8a909f980bd29502e72",
   "paragraphs": [
+    {
+      "id": "b7698ced008e75103ebeaf37b643a21559bd84c3347ebb363160cff2e24ff992",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226|美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？]], a [[ShengdongZaokafei|声动早咖啡]] episode on mini beauty products becoming standalone merchandise. It adds [[MiniBeautyStandaloneProduct|迷你美妆独立商品]], [[BeautyAccessorization|美妆配饰化]], [[FragranceWardrobe|香水衣橱]], and [[RhodeBeauty|Rhode Beauty]], while extending [[TrialSizeProduct]], [[RetailDisplayAsBrandSurface]], [[FragranceProductStorytelling]], [[LOreal|L'Oreal / 欧莱雅]], [[UltaBeauty|Ulta Beauty]], and [[OliveYoung|OLIVE YOUNG]]. Its core synthesis is that small makeup and fragrance formats are no longer only samples or travel sizes: lower total price, faster social-media trend cycles, scent rotation, visible bag and phone styling, and dedicated retail display can make minis independent products, while supply-chain complexity, homogeneity, cannibalization, repeat-purchase weakness, and waste remain real constraints. No settled contradiction is recorded; Lululemon, CyberCab, OpenAI, Chinese model-company ecommerce, survey, search-volume, and product-performance claims remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 4,
+        "culture-and-media": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BeautyAccessorization",
+        "FragranceProductStorytelling",
+        "FragranceWardrobe",
+        "LOreal",
+        "MiniBeautyStandaloneProduct",
+        "OliveYoung",
+        "RetailDisplayAsBrandSurface",
+        "RhodeBeauty",
+        "ShengdongZaokafei",
+        "TrialSizeProduct",
+        "UltaBeauty",
+        "meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226"
+      ]
+    },
     {
       "id": "33cce1ac0b363bdc5c3e1b5568de2dc9816db4cea40dc459a5073223be5a7c39",
       "primary_topic": "work-education-and-society",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6558
+wiki_total_pages: 6561
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "MingqiLegitimacy"
     title: "Mingqi Legitimacy / 名器合法性"
     url: "/wiki/concepts/mingqilegitimacy/"
+  - key: "MiniBeautyStandaloneProduct"
+    title: "Mini Beauty Standalone Product / 迷你美妆独立商品"
+    url: "/wiki/concepts/minibeautystandaloneproduct/"
   - key: "MiniProgramGameMonetization"
     title: "Mini-Program Game Monetization / 小程序游戏变现"
     url: "/wiki/concepts/miniprogramgamemonetization/"

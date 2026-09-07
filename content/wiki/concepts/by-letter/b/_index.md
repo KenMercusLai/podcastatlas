@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6558
+wiki_total_pages: 6561
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "BattlefieldInformationControl"
     title: "Battlefield Information Control / 战场信息控制"
     url: "/wiki/concepts/battlefieldinformationcontrol/"
+  - key: "BeautyAccessorization"
+    title: "Beauty Accessorization / 美妆配饰化"
+    url: "/wiki/concepts/beautyaccessorization/"
   - key: "BeautyEconomics"
     title: "Beauty Economics / 美貌经济学"
     url: "/wiki/concepts/beautyeconomics/"

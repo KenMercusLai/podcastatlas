@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？](sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226.md) — 声动早咖啡 episode on mini beauty products becoming standalone merchandise through lower trial cost, faster trend cycles, fragrance wardrobes, accessorization, retail display, and supply-chain complexity.
 - [漫长的告别：失智症、照护者与终将老去的我们](sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez.md) — 不合时宜 episode with 唐勇 on dementia care, family caregiver burden, Shenzhen elder-care services, the Hogeweyk dementia village, and China's long-term-care-insurance limits.
 - [Episode 224: 不是不识不时不适](sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768.md) — 迟早更新 episode with Ren Ning on book-review misreading, reading decline, Luria and Ong's literacy theories, Bush's Memex, AI statistical association, and embodied literary experience.
 - [#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？](sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4.md) — 声东击西 episode with Xu Tao and Fang Kecheng on youth social-media age bans, product-design liability, internal platform evidence, Section 230, and the Big Tobacco analogy.
@@ -1973,6 +1974,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Rhode Beauty](entities/RhodeBeauty.md) — Hailey Bieber-linked beauty brand used here as a source-scoped example of lip-product phone-case accessorization.
 - [不合时宜 / Bu He Shi Yi](entities/BuHeShiYi.md) — Chinese podcast represented here by a dementia-care episode linking family caregivers, social support, and elder-care policy.
 - [Tang Yong / 唐勇](entities/TangYongSociologist.md) — Shenzhen University sociologist whose dementia-care fieldwork and book anchor the episode.
 - [《遗忘的世界：失智老人的照护图景》](entities/YiWangDeShiJieDementiaCareBook.md) — Tang Yong book on Shenzhen dementia older adults and their family caregivers.
@@ -11147,6 +11149,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Mini Beauty Standalone Product / 迷你美妆独立商品](concepts/MiniBeautyStandaloneProduct.md) — Small-format makeup and fragrance strategy where minis become independently named, packaged, priced, displayed, and accessorized products.
+- [Beauty Accessorization / 美妆配饰化](concepts/BeautyAccessorization.md) — Shift where makeup and fragrance products are designed to be visibly carried, hung, photographed, or styled like accessories.
+- [Fragrance Wardrobe / 香水衣橱](concepts/FragranceWardrobe.md) — Pattern of owning and rotating multiple scents by mood, season, occasion, identity, or layering need.
 - [Dementia Care Social Support System / 失智照护社会支持系统](concepts/DementiaCareSocialSupportSystem.md) — Coordinated dementia-care support across family, community, trained workers, institutions, insurance, and dignity-centered environments.
 - [Dementia Caregiver Burden / 失智照护者负担](concepts/DementiaCaregiverBurden.md) — Long-term emotional, relational, labor, career, housing, and financial load carried by dementia family caregivers.
 - [Dementia Personhood And Memory / 失智者人格与记忆](concepts/DementiaPersonhoodMemory.md) — Care principle that cognitive decline does not erase biography, habits, feelings, dignity, or remaining memory connections.
@@ -17667,7 +17672,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Treasury Duration Risk](concepts/TreasuryDurationRisk.md) — Bond risk from rate sensitivity, long-bond supply, fiscal pressure, and currency effects despite a rate-cut-cycle setup.
 - [Token-Driven Software](concepts/TokenDrivenSoftware.md) — Software whose behavior, interface, content, or world rules are generated at use time by models rather than fully fixed ahead of time.
 - [Trend Following](concepts/TrendFollowing.md) — Trading discipline that waits for market confirmation through trend, volume, leadership, and higher-timeframe evidence.
-- [Trial Size Product](concepts/TrialSizeProduct.md) — Smaller, lower-commitment format that lets customers test a product before buying the full version.
+- [Trial Size Product](concepts/TrialSizeProduct.md) — Smaller, lower-commitment format that lets customers test an unfamiliar product, with mini beauty now qualifying when small formats become standalone goods.
 - [Turnkey Handset Solutions](concepts/TurnkeyHandsetSolutions.md) — Integrated chipset and phone-design packages that lowered the barrier to building feature phones.
 - [U.S. Recession Risk](concepts/USRecessionRisk.md) — Macro-risk frame using labor, manufacturing, consumption, leverage, policy, and market valuation signals.
 - [Underground Money Transfer Risk](concepts/UndergroundMoneyTransferRisk.md) — Risk from overseas trading or investment platforms that route RMB and withdrawals through unrelated domestic accounts or informal exchange chains.

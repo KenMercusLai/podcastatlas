@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6558
+wiki_total_pages: 6561
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -896,6 +896,9 @@ wiki_pages:
   - key: "FragranceSupplyChainMoat"
     title: "Fragrance Supply-Chain Moat / 香味供应链壁垒"
     url: "/wiki/concepts/fragrancesupplychainmoat/"
+  - key: "FragranceWardrobe"
+    title: "Fragrance Wardrobe / 香水衣橱"
+    url: "/wiki/concepts/fragrancewardrobe/"
   - key: "FrameworkLedSaaS"
     title: "Framework-Led SaaS"
     url: "/wiki/concepts/frameworkledsaas/"
