@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 936
+topic_total_pages: 937
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1967,6 +1967,9 @@ topic_entities:
   - key: "JohnJumper"
     title: "John Jumper"
     url: "/wiki/entities/johnjumper/"
+  - key: "JonathanHaidt"
+    title: "Jonathan Haidt"
+    url: "/wiki/entities/jonathanhaidt/"
   - key: "JunhaoWen"
     title: "Junhao Wen"
     url: "/wiki/entities/junhaowen/"

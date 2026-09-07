@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6654
+wiki_total_pages: 6656
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "SocialMediaCausationScienceWars"
     title: "Social Media Causation Science Wars"
     url: "/wiki/concepts/socialmediacausationsciencewars/"
+  - key: "SocialMediaDesignRegulation"
+    title: "Social Media Design Regulation"
+    url: "/wiki/concepts/socialmediadesignregulation/"
   - key: "SocialMediaProductLiability"
     title: "Social Media Product Liability"
     url: "/wiki/concepts/socialmediaproductliability/"

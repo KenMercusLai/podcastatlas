@@ -15944,9 +15944,25 @@ Ingested the 2026-07-25 纵横四海 Mini MBA episode on marketing management as
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-08] ingest | 350-马基雅维利为何认为人民再蠢也比精英可靠？
+
+Ingested the 2026-07-15 独树不成林 short episode on Machiavelli between classical and modern political thought. Added source `350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5`; created `ModernPoliticalWritingPosture`; updated `DushuBuchenglin`, `NiccoloMachiavelli`, `ThePrince`, `DiscoursesOnLivy`, `NonMoralPoliticalAnalysis`, `index`, and `overview`. No settled contradiction found; the title's people-versus-elite claim remains underdeveloped in the available transcript.
+
+## [2026-09-08] ingest | 351-西方政府禁止青少年使用社交媒体走到哪步了？
+
+Ingested the 2026-07-15 独树不成林 episode on Jonathan Haidt, The Anxious Generation, youth social-media restrictions, Australia's account-ban experiment, minimum-information age verification, design-versus-content regulation, parent collective-action problems, and civil-liberties boundaries. Added source `351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym`; created `JonathanHaidt`, `TheAnxiousGeneration`, and `SocialMediaDesignRegulation`; updated `SocialMediaAgeBans`, `OnlineAgeVerification`, `index`, and `log`. No settled contradiction found; Australian effectiveness figures and implementation details remain source-scoped.
+
 ## [2026-09-08] ingest | #398 一场美国观察漫谈：世界杯红牌、南非白人劳工
 
 Ingested the 2026-07-16 声东击西 episode with Xu Tao and Liu Xiaoqian on Trump's World Cup red-card intervention, American exceptionalism, white South African workers in Mississippi agriculture, selective refugee/immigration policy, white-victimhood narratives, and foreign-reporting distance. Added source `398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7`; created `LiuXiaoqian`, `AmericanExceptionalism`, `SouthAfricanWhiteMigrantLabor`, `SelectiveWhiteRefugeeException`, `WhiteVictimhoodNarrative`, and `EmbeddedForeignReporting`; updated `SouthAfrica`, `Mississippi`, `IdentityPoliticsAsPoliticalSorting`, `SportsPoliticalInterference`, `ShengdongJixi`, `XuTao`, `index`, and `overview`. No settled contradiction found; visa categories, quota figures, wage claims, local pay-disparity allegations, and worker motives remain source-scoped.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-08] lint | Wiki health check
 

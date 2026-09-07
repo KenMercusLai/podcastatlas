@@ -6,6 +6,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [350-马基雅维利为何认为人民再蠢也比精英可靠？](sources/350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5.md) — 独树不成林 short episode on Machiavelli between classical and modern political thought, The Prince as modern political writing, and Discourses on Livy as Roman-historical continuity.
+- [351-西方政府禁止青少年使用社交媒体走到哪步了？](sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym.md) — 独树不成林 episode on Jonathan Haidt, youth social-media age bans, Australian age-gating, minimum-information verification, design regulation, and civil-liberties boundaries.
 - [罗永浩的X字路口！一年一度装x大会](sources/luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx.md) — 罗永浩的十字路口 panel episode using "装逼" to analyze class, education, taste, social media, cultural distance, and stand-up comedy as social signaling.
 - [#398 一场美国观察漫谈：世界杯红牌、南非白人劳工](sources/398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7.md) — 声东击西 episode connecting Trump's World Cup red-card intervention, American exceptionalism, white South African farm workers in Mississippi, selective immigration policy, and white-victimhood narratives.
 - [史蒂夫说469期 - 童立 - 最好的关系是在爱人怀里尽情阳w早x](sources/shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb.md) — 史蒂夫说 interview with Tong Li on sexual recession, lifelong sex education, sexual exploration, male vulnerability, sexual-function relationship context, counseling boundaries, AI companionship, and adult products as relationship tools.
@@ -1999,6 +2001,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Jonathan Haidt](entities/JonathanHaidt.md) — Psychologist and public advocate whose The Anxious Generation frames the youth social-media restriction branch.
+- [The Anxious Generation](entities/TheAnxiousGeneration.md) — Jonathan Haidt book used to connect teen mental health, smartphones, social media, childhood independence, and policy restrictions.
 - [小齐 / Xiao Qi (Stand-Up Comedian)](entities/XiaoQiStandup.md) — Stand-up comedian whose self-mocking low-education posture anchors the episode's implicit status-performance case.
 - [张俊 / Zhang Jun (Stand-Up Comedian)](entities/ZhangJunStandup.md) — Stand-up comedian whose elite education, accent, vocabulary, and analytic language anchor the episode's explicit status-display case.
 - [史礼芬 / Shi Lifen](entities/ShiLifen.md) — Media creator and panelist used in the episode to discuss knowledge-world vocabulary, phonetics, literary-youth taste, and cultural display.
@@ -6575,7 +6579,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hawaii / 夏威夷](entities/Hawaii.md) — Plantation-labor and remittance node linking Japanese contract migration, sugar production, Yokohama Specie Bank, and later U.S. West Coast movement.
 - [Yokohama Specie Bank / 横滨正金银行](entities/YokohamaSpecieBank.md) — Semi-official Japanese bank that made overseas labor remittances legible through consulate-adjacent banking and foreign-exchange infrastructure.
 - [Dillingham Commission](entities/DillinghamCommission.md) — U.S. immigration investigation used by episode 168 to show how remittances became racialized as wealth drain and loyalty threat.
-- [独树不成林 / Dushu Buchenglin](entities/DushuBuchenglin.md) — Podcast crossover partner in episode 167, bringing political-philosophy framing to the 起朱楼 algorithm series.
+- [独树不成林 / Dushu Buchenglin](entities/DushuBuchenglin.md) — Political-philosophy podcast context linking the 起朱楼 algorithm crossover with a direct Machiavelli reading.
 - [投资ABC / Investment ABC](entities/InvestmentABC.md) — Podcast crossover partner in episode 166, used to translate institutional investing into ordinary-investor education.
 - [Amy / 投资ABC](entities/AmyInvestmentABC.md) — 投资ABC speaker keeping episode 166 anchored in ordinary-investor questions about goals, costs, emotions, and asset allocation.
 - [陈博士 / 投资ABC](entities/ChenDoctorInvestmentABC.md) — 投资ABC speaker explaining short-term market-counterparty logic, institutional data teams, and cost/behavior effects in episode 166.
@@ -9093,8 +9097,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tsathoggua / 萨托古雅](entities/Tsathoggua.md) — Smith mythos being used by episode 73 to show both cosmic threat and comic practical refusal.
 - [《通往土星之门》 / The Door to Saturn](entities/TheDoorToSaturn.md) — Smith story thread where Eibon's escape turns persecution, alien social norms, and prophecy into horror-humor weird fiction.
 - [《前往斯法诺莫埃的旅途》 / The Journey to Sfanomoë](entities/TheJourneyToSfanomoe.md) — Poseidonis story used by episode 73 to connect Smith's lost-world fantasy with alien travel and transformation.
-- [《君主论》 / The Prince](entities/ThePrince.md) — Machiavelli's political manual read by episode 72 as a dangerous but clarifying text about power, order, fear, fortune, and political technique.
-- [《论李维》 / Discourses on Livy](entities/DiscoursesOnLivy.md) — Machiavelli's republican text used by episode 72 to complicate the idea that he was simply an adviser to tyrants.
+- [《君主论》 / The Prince](entities/ThePrince.md) — Machiavelli's political manual read as both dangerous realism and an early model of modern political writing.
+- [《论李维》 / Discourses on Livy](entities/DiscoursesOnLivy.md) — Machiavelli's republican and Roman-historical text used to complicate clean modern-break or tyrant-adviser readings.
 - [Florentine Republic / 佛罗伦萨共和国](entities/FlorentineRepublic.md) — Machiavelli's republican service context, connecting Florence, military organization, mercenary risk, and the fall back to Medici power.
 - [House of Medici / 美第奇家族](entities/HouseOfMedici.md) — Renaissance Florentine family whose patronage, violence, return, and rule frame Machiavelli's exile and The Prince.
 - [Girolamo Savonarola / 萨沃纳罗拉](entities/GirolamoSavonarola.md) — Religious-political ruler of Florence used by episode 72 to show moral zeal, popular belief, and unstable political authority.
@@ -9271,7 +9275,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Harold Bloom / 哈罗德·布鲁姆](entities/HaroldBloom.md) — Literary critic used by the episode to read the Houyhnhnms and Laputa philosophers as pure reason without care for human affairs.
 - [洪涛](entities/HongTaoPoliticalTheory.md) — Scholar whose 《格列佛游记与古今政治》 frames the episode's political reading of Swift beyond simple misanthropy.
 - [Thomas Hobbes / 托马斯·霍布斯](entities/ThomasHobbes.md) — Political philosopher used by the episode to connect Leviathan-style sovereignty and fixed-human-nature politics to Swift's satire.
-- [Niccolo Machiavelli / 马基雅维利](entities/NiccoloMachiavelli.md) — Political theorist used by the episode as part of the modern politics frame around fixed human badness.
+- [Niccolo Machiavelli / 马基雅维利](entities/NiccoloMachiavelli.md) — Transitional political thinker linking realism, non-moral analysis, Roman historical reasoning, and modern political writing.
 - [斯坦尼斯拉夫·莱姆 / Stanislaw Lem](entities/StanislawLem.md) — Author read by 蜜獾吃书 through cybernetic machine satire, ChatGPT-era AI anxiety, and science-fiction realism.
 - [《机器人大师》 / The Cyberiad](entities/TheCyberiad.md) — Lem story cycle about Trurl and Klapaucius, used to discuss machine creativity, information overload, truth, and technical satire.
 - [《索拉里斯星》 / Solaris](entities/Solaris.md) — Better-known Lem work used as a contrast to the more comic and satirical 《机器人大师》.
@@ -11259,6 +11263,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Modern Political Writing Posture / 现代政治写作姿态](concepts/ModernPoliticalWritingPosture.md) — Machiavelli-focused frame where political thought begins from live power, state, and action problems rather than inherited moral or theological derivation.
 - [Zhuangbi As Social Signaling / 装逼作为社会信号](concepts/ZhuangbiAsSocialSignaling.md) — Relational frame where pretension is co-produced by display, observer expectation, class position, scene, and social-media exposure.
 - [Cultural Gap Status Signaling / 文化隔阂式地位信号](concepts/CulturalGapStatusSignaling.md) — Claim that status display works only when audiences partly understand the sign's prestige without fully neutralizing or puncturing it.
 - [Stand-Up Class Position Equalization / 脱口秀中的阶层位置重组](concepts/StandupClassPositionEqualization.md) — Comedy-field mechanism where ordinary-life status advantages and disadvantages become mutually attackable stage material.
@@ -16209,7 +16214,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Horror-Humor Weird Fiction](concepts/HorrorHumorWeirdFiction.md) — Smith pattern where terrible supernatural premises become funny through deadpan practical logic without losing horror.
 - [Anti-Anthropocentric Satire](concepts/AntiAnthropocentricSatire.md) — Satirical cosmic demotion of human greed, doctrine, rationality, and self-importance under older or alien systems.
 - [Machiavellian Realism](concepts/MachiavellianRealism.md) — Political-realist frame where judgment begins from actual power, institutions, fear, fortune, and human unreliability rather than moral self-description.
-- [Non-Moral Political Analysis](concepts/NonMoralPoliticalAnalysis.md) — Episode 72's distinction between analyzing political reality before moral judgment and simply recommending immoral action.
+- [Non-Moral Political Analysis](concepts/NonMoralPoliticalAnalysis.md) — Machiavelli-linked method for describing political mechanisms before moral judgment without treating effectiveness as innocence.
 - [Virtù And Fortuna Political Agency](concepts/VirtuFortunaPoliticalAgency.md) — Machiavellian frame for capacity, judgment, timing, and action struggling with fortune and contingency.
 - [Cruelty Used Well](concepts/CrueltyUsedWell.md) — Dangerous Machiavellian idea that political violence, if used at all, should be limited, fast, and ordered toward stability rather than repeated terror.
 - [Legalist-Machiavelli Comparison](concepts/LegalistMachiavelliComparison.md) — Comparative frame that uses Han Fei and Shang Yang while resisting a reduction of Machiavelli to Chinese Legalism or 厚黑学.
@@ -16501,6 +16506,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Manual Compliance MVP](concepts/ManualComplianceMVP.md) — Startup validation pattern where founders deliver a manual compliance artifact, such as a SOC 2 gap spreadsheet, before building software.
 - [Annual Upfront SaaS Cash Flow](concepts/AnnualUpfrontSaaSCashFlow.md) — SaaS payment-timing pattern where annual prepayment funds early operations and extends runway when customer urgency is real.
 - [Social Media Product Liability](concepts/SocialMediaProductLiability.md) — Legal frame treating harmful social-platform features, defaults, safeguards, recommendation systems, and parent-burden choices as product design rather than only speech or hosting.
+- [Social Media Design Regulation](concepts/SocialMediaDesignRegulation.md) — Policy frame targeting manipulative platform architecture while preserving lawful speech and open information access.
 - [AI Worker Literacy](concepts/AIWorkerLiteracy.md) — Worker-facing AI readiness frame that gives basic tool fluency while leaving displacement, safeguards, and productivity-gain distribution unresolved.
 - [Prediction Market Self-Regulation](concepts/PredictionMarketSelfRegulation.md) — Platform-led guardrail strategy for blocking prohibited traders or insider-informed event-market activity before external rules arrive.
 - [Structural Health Monitoring](concepts/StructuralHealthMonitoring.md) — Sensor and data layer for tracking how critical structure members perform, grounded by the Key Bridge rebuild.
