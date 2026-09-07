@@ -1310,14 +1310,14 @@
       "earliest_episode_date": "2025-12-23",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
-      "source_note_count": 4,
-      "topic_matched_source_note_count": 1,
+      "source_note_count": 5,
+      "topic_matched_source_note_count": 2,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 1
+          "source_note_count": 2
         },
         {
           "key": "culture",
@@ -2834,8 +2834,8 @@
       ]
     },
     "罗永浩的十字路口": {
-      "episode_count": 24,
-      "earliest_episode_date": "2025-12-17",
+      "episode_count": 26,
+      "earliest_episode_date": "2025-11-28",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
       "source_note_count": 2,

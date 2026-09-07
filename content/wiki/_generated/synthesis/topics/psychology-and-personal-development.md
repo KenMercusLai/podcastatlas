@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-07
-as_of_overview_commit: 2e6630664104c674e358ebd77f528237748c04c0
-input_digest: fa155b077253bf3e8bfb7746510f4dac8b2bbeec90dbf4174a6d854d677ac52b
+as_of_overview_commit: a828b98e4758fb46df3851b4a0604dbd749bee19
+input_digest: c9a3960d74955d570e2ad15db36ff5aa0693f2048b51cad5ce919fc8ec9222e3
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, and careful boundaries around self-interpretation. The newer Steve Says material adds that psychological language can become self-punitive when it is used to monitor the self from a detached, purely logical stance rather than to restore present safety and trustworthy bodily contact.
+Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, and careful boundaries around self-interpretation. The newer Steve Says material adds that psychological language can become self-punitive when it is used to monitor the self from a detached, purely logical stance rather than to restore present safety and trustworthy bodily contact. The AHA Creator paragraph adds a secondary work-judgment case: stronger AI can automate repeated workflow steps, but founders and customers still need field exposure, budget judgment, and final approval responsibility.
 
 ## Cross-source Findings
 
@@ -828,3 +828,15 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 **Qualifications:**
 
 - The source is a personal podcast conversation, so spiritual language, relationship advice, and self-cultivation claims remain source-scoped rather than clinical guidance or universal prescription.
+
+### Ai Workflow Judgment Still Needs Field Exposure
+
+[[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt|No.226]] enters psychology-and-personal-development only as a secondary work-judgment case: [[KateAHA|Kate]] and [[LiuFei|刘飞]] frame stronger AI as increasing the need for field exposure to users, because [[AHACreator]] still leaves budget, creative direction, final creator choice, and content approval with humans even when [[AIDrivenCreatorMarketing]] automates repeated workflow steps.
+
+**Evidence:** [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]], [[KateAHA]], [[LiuFei]], [[AHACreator]], [[AIDrivenCreatorMarketing]], [[SanWuHuan]]
+
+**Qualifications:**
+
+- The paragraph belongs primarily to business-and-markets; psychology relevance is limited to human judgment, field exposure, and approval responsibility under AI automation.
+- The source is a founder interview and does not provide independent evidence about user psychology or workplace behavior.
+- The transcript gap prevents promotion of broader claims about 2B AI product direction.

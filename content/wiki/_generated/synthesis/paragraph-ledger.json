@@ -575,12 +575,13 @@
       "ed605f497963461eb9bc9c968de448aa46b9f90dddac4016b47d57e3c144fc1a",
       "c9cfc14b34adf74d0fb27e2d54c10a5bddbdd34955b5df371daa272496423cc4",
       "cbbe62c03d8335e2e5dca77db200eb628895d1c17f7e2e8fee61cb7f8f0291ae",
-      "5f42ccecf5aba2d7233c6344ba2eaf2864f133e18d0af4d0c92d5bc37ee4d5dc"
+      "5f42ccecf5aba2d7233c6344ba2eaf2864f133e18d0af4d0c92d5bc37ee4d5dc",
+      "d8d7ba16097695a34f30d301f24adcba5812c1f4801c4f85c3ab1b1f88697cb4"
     ],
-    "paragraph_count": 575
+    "paragraph_count": 576
   },
-  "overview_commit": "8bb31fca44989052d1ecbd6656267e4ddbfb51b9",
-  "overview_digest": "4365a718f9877d7a862b0739a7602174e6c9b147754d3b2b6606a2d04df4a367",
+  "overview_commit": "a828b98e4758fb46df3851b4a0604dbd749bee19",
+  "overview_digest": "4fd081787bb0ea4adff8bf72fff55ee9558488441e13c939a357359f6f1d26cd",
   "paragraphs": [
     {
       "id": "1c4c81d2f81d19c9d1729c8d925bf8b7ebea82d9bd235775df205554ce76e233",
@@ -17637,6 +17638,30 @@
         "SeikoFootballClub",
         "SouthChinaAA",
         "vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw"
+      ]
+    },
+    {
+      "id": "d8d7ba16097695a34f30d301f24adcba5812c1f4801c4f85c3ab1b1f88697cb4",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt|No.226 AI 越强，创业者越要回到用户现场]], a [[SanWuHuan|三五环]] episode with [[LiuFei|刘飞]] interviewing [[KateAHA|Kate]] of [[AHACreator|AHA Creator]] on AI-enabled overseas creator marketing. It extends [[AIDrivenCreatorMarketing]], [[OverseasCreatorMarketingPlatform]], [[CreatorTrustAdvertising]], [[SanWuHuan|三五环]], and [[LiuFei|刘飞]] by showing that AI is strongest in repetitive but judgment-heavy workflow: creator/product matching, authenticity and audience-region checks, PR-risk monitoring, multilingual follow-up, payment and contract friction, Feishu-group progress reporting, and first-pass brief review. Its core synthesis is that stronger AI does not remove the need for founder and customer field judgment: budget, creative direction, final creator choice, and content approval remain human responsibilities, while native creator-product fit distinguishes overseas sponsorship from mechanical ad inventory. No settled contradiction is recorded; service-fee, token-cost, matching-accuracy, creator-performance, and customer-response claims remain founder-reported and source-scoped, and the transcript's late 2B AI question is cut off before Kate's answer.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 3,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AHACreator",
+        "AIDrivenCreatorMarketing",
+        "CreatorTrustAdvertising",
+        "KateAHA",
+        "LiuFei",
+        "OverseasCreatorMarketingPlatform",
+        "SanWuHuan",
+        "no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt"
       ]
     }
   ],

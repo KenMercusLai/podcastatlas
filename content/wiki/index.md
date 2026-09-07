@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.226 AI 越强，创业者越要回到用户现场](sources/no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt.md) — 三五环 interview with AHA Creator founder Kate on using AI for overseas creator matching, authenticity checks, multilingual outreach, workflow follow-up, first-pass brief review, and human-retained budget and creative approval.
 - [EP85 营销管理：Mini MBA 第一课](sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a.md) — 纵横四海 Mini MBA episode on marketing as a strategy-STP-4P chain, covering marketing ethics, brand belief, core competence, segmentation, targeting, positioning, value-based pricing, and channel risk.
 - [All right on the night: AfD's victory](sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f.md) — The Intelligence episode on AfD's 44% Saxony-Anhalt win, CDU collapse, BSW kingmaker arithmetic, contrail mitigation through Operation Blue Skies, and young South Koreans' renewed interest in Buddhism.
 - [时代症候，与安定此心](sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql.md) — 面基 episode with psychiatrist Jiang Tao on schizophrenia family caregiving, psychiatric diagnosis by function, somatization, mental-illness stigma, psychotherapy boundaries, and desire-capacity fit under contemporary anxiety.
