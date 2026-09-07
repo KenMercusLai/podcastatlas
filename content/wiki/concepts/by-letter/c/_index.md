@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6604
+wiki_total_pages: 6610
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "CancerImmunotherapyAccess"
     title: "Cancer Immunotherapy Access"
     url: "/wiki/concepts/cancerimmunotherapyaccess/"
+  - key: "CancerMetabolicReprogramming"
+    title: "Cancer Metabolic Reprogramming"
+    url: "/wiki/concepts/cancermetabolicreprogramming/"
   - key: "CancerScreeningBurdenTradeoff"
     title: "Cancer Screening Burden Tradeoff"
     url: "/wiki/concepts/cancerscreeningburdentradeoff/"
@@ -299,6 +302,9 @@ wiki_pages:
   - key: "CellToCellLogicStacking"
     title: "Cell-to-Cell Logic Stacking"
     url: "/wiki/concepts/celltocelllogicstacking/"
+  - key: "CellularMetabolismMosaic"
+    title: "Cellular Metabolism Mosaic"
+    url: "/wiki/concepts/cellularmetabolismmosaic/"
   - key: "CellularReprogrammingControlProblem"
     title: "Cellular Reprogramming Control Problem"
     url: "/wiki/concepts/cellularreprogrammingcontrolproblem/"

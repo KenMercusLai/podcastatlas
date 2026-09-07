@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6604
+wiki_total_pages: 6610
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -683,9 +683,15 @@ wiki_pages:
   - key: "MistrustTriggeredMissionLaunch"
     title: "Mistrust-Triggered Mission Launch / 疑忌触发式出发"
     url: "/wiki/concepts/mistrusttriggeredmissionlaunch/"
+  - key: "MitochondrialEnergyAllocation"
+    title: "Mitochondrial Energy Allocation"
+    url: "/wiki/concepts/mitochondrialenergyallocation/"
   - key: "MitochondrialMentalHealthModel"
     title: "Mitochondrial Mental Health Model"
     url: "/wiki/concepts/mitochondrialmentalhealthmodel/"
+  - key: "MitochondrialPyruvateCarrier"
+    title: "Mitochondrial Pyruvate Carrier"
+    url: "/wiki/concepts/mitochondrialpyruvatecarrier/"
   - key: "MitochondrialTherapy"
     title: "Mitochondrial Therapy"
     url: "/wiki/concepts/mitochondrialtherapy/"

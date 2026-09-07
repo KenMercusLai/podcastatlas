@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "81e1ad2a6a08ad9550530f6c94d2fccff737e9e399c820a452a4a5f31acef870",
       "f8da211aee39297c6b4860b92efc30f878e755c6f76cd6e299f828dff8b86b77",
       "80a18079d91f460f9ec1e2691d193ccb4526c63384a58cb05f375280083edcef",
       "33bf7b8f8185cbf348e28988e7cf1d0930e32a6021b63ec3c20458673a508a39",
@@ -573,11 +574,41 @@
       "c9cfc14b34adf74d0fb27e2d54c10a5bddbdd34955b5df371daa272496423cc4",
       "cbbe62c03d8335e2e5dca77db200eb628895d1c17f7e2e8fee61cb7f8f0291ae"
     ],
-    "paragraph_count": 571
+    "paragraph_count": 572
   },
-  "overview_commit": "8ec80e68eab964494395b5ac84ad1d38298b68a6",
-  "overview_digest": "66f9ef016aefdd5f423f35dfa6aa55e4ced5b8a0b45196b493d5ee1eec40f391",
+  "overview_commit": "1ba16cd00e91c2632241e754e99f781d6f318b23",
+  "overview_digest": "d473c6f8102114c9b336ce017f2cc2b6ab3b986bc8be7415731f18c3c9e39104",
   "paragraphs": [
+    {
+      "id": "81e1ad2a6a08ad9550530f6c94d2fccff737e9e399c820a452a4a5f31acef870",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664|How Mitochondria Control Your Metabolism | Dr. Jared Rutter]], a [[HubermanLab]] episode with [[AndrewHuberman]] interviewing [[JaredRutter]] on mitochondria and cell-level metabolism. It adds [[JaredRutter]], [[CellularMetabolismMosaic]], [[MitochondrialEnergyAllocation]], [[MitochondrialPyruvateCarrier]], [[LactateMetabolicShuttle]], [[CancerMetabolicReprogramming]], and [[ReactiveOxygenSpeciesMetabolicStress]], while connecting [[EnergyBalanceAccounting]], [[MitochondrialMentalHealthModel]], [[StressBiologicalAging]], [[CancerImmuneRecognitionProblem]], and [[MedicalRiskManagement]]. Its core synthesis is that metabolism is not one body-wide rate: cells route glucose-derived pyruvate, lactate, fats, ketones, amino acids, and mitochondrial outputs toward ATP, biomass, repair, or pathological growth according to cell identity and state. No settled contradiction is recorded; aging mechanisms, ROS causality, metabolic imaging, breath or scent diagnostics, KRAS and combination cancer therapy, fuel-prioritization, and lactic-acidosis claims remain source-scoped public biomedical education.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "CancerImmuneRecognitionProblem",
+        "CancerMetabolicReprogramming",
+        "CellularMetabolismMosaic",
+        "EnergyBalanceAccounting",
+        "HubermanLab",
+        "JaredRutter",
+        "LactateMetabolicShuttle",
+        "MedicalRiskManagement",
+        "MitochondrialEnergyAllocation",
+        "MitochondrialMentalHealthModel",
+        "MitochondrialPyruvateCarrier",
+        "ReactiveOxygenSpeciesMetabolicStress",
+        "StressBiologicalAging",
+        "how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664"
+      ]
+    },
     {
       "id": "f8da211aee39297c6b4860b92efc30f878e755c6f76cd6e299f828dff8b86b77",
       "primary_topic": "business-and-markets",

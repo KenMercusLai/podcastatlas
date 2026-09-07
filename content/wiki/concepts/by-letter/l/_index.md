@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6604
+wiki_total_pages: 6610
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "LabourLeadershipCrisis"
     title: "Labour Leadership Crisis"
     url: "/wiki/concepts/labourleadershipcrisis/"
+  - key: "LactateMetabolicShuttle"
+    title: "Lactate Metabolic Shuttle"
+    url: "/wiki/concepts/lactatemetabolicshuttle/"
   - key: "LandReformEqualityDevelopment"
     title: "Land Reform And Equality In Development"
     url: "/wiki/concepts/landreformequalitydevelopment/"

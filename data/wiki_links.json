@@ -9219,6 +9219,10 @@
     "title": "Cancer Immunotherapy Access",
     "url": "/wiki/concepts/cancerimmunotherapyaccess/"
   },
+  "CancerMetabolicReprogramming": {
+    "title": "Cancer Metabolic Reprogramming",
+    "url": "/wiki/concepts/cancermetabolicreprogramming/"
+  },
   "CancerScreeningBurdenTradeoff": {
     "title": "Cancer Screening Burden Tradeoff",
     "url": "/wiki/concepts/cancerscreeningburdentradeoff/"
@@ -9926,6 +9930,10 @@
   "CellToCellLogicStacking": {
     "title": "Cell-to-Cell Logic Stacking",
     "url": "/wiki/concepts/celltocelllogicstacking/"
+  },
+  "CellularMetabolismMosaic": {
+    "title": "Cellular Metabolism Mosaic",
+    "url": "/wiki/concepts/cellularmetabolismmosaic/"
   },
   "CellularReprogrammingControlProblem": {
     "title": "Cellular Reprogramming Control Problem",
@@ -28855,6 +28863,10 @@
     "title": "Jared Reichert",
     "url": "/wiki/entities/jaredreichert/"
   },
+  "JaredRutter": {
+    "title": "Jared Rutter",
+    "url": "/wiki/entities/jaredrutter/"
+  },
   "JargonBoundaryMaking": {
     "title": "Jargon Boundary Making",
     "url": "/wiki/concepts/jargonboundarymaking/"
@@ -31502,6 +31514,10 @@
   "Lacoste": {
     "title": "Lacoste",
     "url": "/wiki/entities/lacoste/"
+  },
+  "LactateMetabolicShuttle": {
+    "title": "Lactate Metabolic Shuttle",
+    "url": "/wiki/concepts/lactatemetabolicshuttle/"
   },
   "LadyBianCaoCao": {
     "title": "卞夫人 / Lady Bian (Cao Cao)",
@@ -37667,9 +37683,17 @@
     "title": "Mito Habe Evans",
     "url": "/wiki/entities/mitohabeevans/"
   },
+  "MitochondrialEnergyAllocation": {
+    "title": "Mitochondrial Energy Allocation",
+    "url": "/wiki/concepts/mitochondrialenergyallocation/"
+  },
   "MitochondrialMentalHealthModel": {
     "title": "Mitochondrial Mental Health Model",
     "url": "/wiki/concepts/mitochondrialmentalhealthmodel/"
+  },
+  "MitochondrialPyruvateCarrier": {
+    "title": "Mitochondrial Pyruvate Carrier",
+    "url": "/wiki/concepts/mitochondrialpyruvatecarrier/"
   },
   "MitochondrialTherapy": {
     "title": "Mitochondrial Therapy",
@@ -46030,6 +46054,10 @@
   "ReactionChoiceFrame": {
     "title": "Reaction Choice Frame / 反应选择框架",
     "url": "/wiki/concepts/reactionchoiceframe/"
+  },
+  "ReactiveOxygenSpeciesMetabolicStress": {
+    "title": "Reactive Oxygen Species Metabolic Stress",
+    "url": "/wiki/concepts/reactiveoxygenspeciesmetabolicstress/"
   },
   "ReadingAsCognitiveRestoration": {
     "title": "Reading As Cognitive Restoration",
@@ -66126,6 +66154,10 @@
   "how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m": {
     "title": "How Danny Jenkins Bootstrapped ThreatLocker From $150K Debt to $200M",
     "url": "/wiki/sources/how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m/"
+  },
+  "how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664": {
+    "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
+    "url": "/wiki/sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664/"
   },
   "how-modern-brands-build-loyalty-purpose-and-identity-andy-stalman-shekhar-natarajan-podcast": {
     "title": "How Modern Brands Build Loyalty, Purpose, and Identity | Andy Stalman | Shekhar Natarajan Podcast",

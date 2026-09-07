@@ -9490,6 +9490,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/cancerimmunotherapyaccess/"
     },
+    "CancerMetabolicReprogramming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5888935664 [SCIM5888935664].md",
+          "key": "how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664",
+          "show": "Huberman Lab",
+          "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
+          "url": "/wiki/sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/cancermetabolicreprogramming/"
+    },
     "CancerScreeningBurdenTradeoff": {
       "episode_count": 1,
       "show_count": 1,
@@ -10322,6 +10338,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/catholicburiallegitimacy/"
+    },
+    "CellularMetabolismMosaic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5888935664 [SCIM5888935664].md",
+          "key": "how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664",
+          "show": "Huberman Lab",
+          "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
+          "url": "/wiki/sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/cellularmetabolismmosaic/"
     },
     "CenPengEasternHan": {
       "episode_count": 6,
@@ -36186,6 +36218,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/japanaidsbloodproductsincident/"
     },
+    "JaredRutter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5888935664 [SCIM5888935664].md",
+          "key": "how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664",
+          "show": "Huberman Lab",
+          "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
+          "url": "/wiki/sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/jaredrutter/"
+    },
     "JayBhattacharya": {
       "episode_count": 3,
       "show_count": 1,
@@ -38569,6 +38617,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/lacoste/"
+    },
+    "LactateMetabolicShuttle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5888935664 [SCIM5888935664].md",
+          "key": "how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664",
+          "show": "Huberman Lab",
+          "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
+          "url": "/wiki/sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/lactatemetabolicshuttle/"
     },
     "LadyWuSunJian": {
       "episode_count": 4,
@@ -47588,6 +47652,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/mithridatesvi/"
     },
+    "MitochondrialEnergyAllocation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5888935664 [SCIM5888935664].md",
+          "key": "how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664",
+          "show": "Huberman Lab",
+          "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
+          "url": "/wiki/sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/mitochondrialenergyallocation/"
+    },
     "MitochondrialMentalHealthModel": {
       "episode_count": 1,
       "show_count": 1,
@@ -47603,6 +47683,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/mitochondrialmentalhealthmodel/"
+    },
+    "MitochondrialPyruvateCarrier": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5888935664 [SCIM5888935664].md",
+          "key": "how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664",
+          "show": "Huberman Lab",
+          "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
+          "url": "/wiki/sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/mitochondrialpyruvatecarrier/"
     },
     "MitziKaspar": {
       "episode_count": 1,
@@ -57096,6 +57192,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/raysolomonoff/"
+    },
+    "ReactiveOxygenSpeciesMetabolicStress": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5888935664 [SCIM5888935664].md",
+          "key": "how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664",
+          "show": "Huberman Lab",
+          "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
+          "url": "/wiki/sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/reactiveoxygenspeciesmetabolicstress/"
     },
     "ReadingComprehensionFragility": {
       "episode_count": 1,

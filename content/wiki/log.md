@@ -15871,3 +15871,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-07] ingest | How Mitochondria Control Your Metabolism | Dr. Jared Rutter
+
+Ingested the 2026-09-07 Huberman Lab episode with Jared Rutter on mitochondria, cell-specific metabolism, pyruvate routing, MPC1/MPC2, lactate as fuel, fuel prioritization, cancer metabolic reprogramming, reactive oxygen species, aging uncertainty, and future diagnostics. Added source `how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664`; created `JaredRutter`, `CellularMetabolismMosaic`, `MitochondrialEnergyAllocation`, `MitochondrialPyruvateCarrier`, `LactateMetabolicShuttle`, `CancerMetabolicReprogramming`, and `ReactiveOxygenSpeciesMetabolicStress`; updated `index`. No settled contradiction found; aging mechanisms, ROS causality, metabolic imaging, breath/scent diagnostics, KRAS and combination cancer therapy, fuel-prioritization, and lactic-acidosis claims remain source-scoped public biomedical education.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

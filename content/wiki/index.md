@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Mitochondria Control Your Metabolism | Dr. Jared Rutter](sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664.md) — Huberman Lab episode with Jared Rutter on mitochondria, cell-specific metabolism, pyruvate routing, MPC1/MPC2, lactate as fuel, cancer metabolic reprogramming, ROS stress, and biomedical uncertainty boundaries.
 - [Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned](sources/bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee.md) — How I Built This episode on Kim Vaccarella building Bogg Bag through beach-bag product insight, patents, defective inventory, Sandy relief demand, trade shows, wholesale partners, COVID growth, and control-preserving investment.
 - [零跑汽车朱江明×罗永浩！零跑汽车十年：不会讲故事的人，如何卖成了第一](sources/lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb.md) — 罗永浩的十字路口 interview with Zhu Jiangming on Leapmotor's engineering-founder path, full-stack self-research, S01/T03/C11/D99 product arc, cost discipline, Stellantis partnership, and Chinese EV globalization.
 - [No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全](sources/no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi.md) — 三五环 interview with Didi ride-hailing safety lead Xu Xiaonan / Qu Xiaonan on post-2018 safety rebuilding, high-recall AI warning, human review, privacy controls, drunk and minor passenger risks, and offline ride-safety gaps.
@@ -1987,6 +1988,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Jared Rutter](entities/JaredRutter.md) — University of Utah and HHMI mitochondrial metabolism researcher featured on Huberman Lab explaining cellular energy allocation, MPC1/MPC2, lactate, cancer metabolism, and ROS stress.
 - [Bogg Bag](entities/BoggBag.md) — Washable beach-and-everyday bag brand whose How I Built This episode shows demand emerging after defective inventory, relief-use proof, wholesale amplification, and control-preserving investment.
 - [Kim Vaccarella](entities/KimVaccarella.md) — Bogg Bag founder whose story connects practical product insight, factory failure, restart after customer pull, trade-show selling, wholesale growth, and control-sensitive scaling.
 - [Pink Bungalow](entities/PinkBungalow.md) — Ridgewood boutique that supplied Bogg Bag's first retail order and early reorder validation.
@@ -11211,6 +11213,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Cellular Metabolism Mosaic](concepts/CellularMetabolismMosaic.md) — Whole-body metabolism frame that treats the body as many cell-specific metabolic programs rather than one uniform calorie-rate system.
+- [Mitochondrial Energy Allocation](concepts/MitochondrialEnergyAllocation.md) — Burn-versus-build model in which cells route nutrients toward ATP, biomass, lactate export, or disease-linked growth depending on cell identity and state.
+- [Mitochondrial Pyruvate Carrier](concepts/MitochondrialPyruvateCarrier.md) — MPC1/MPC2 transporter mechanism that lets pyruvate enter mitochondria and shapes glucose oxidation and heart-metabolism consequences.
+- [Lactate Metabolic Shuttle](concepts/LactateMetabolicShuttle.md) — Updated lactate frame treating lactate as exportable and burnable fuel while preserving lactic-acidosis toxicity boundaries.
+- [Cancer Metabolic Reprogramming](concepts/CancerMetabolicReprogramming.md) — Cancer metabolism frame in which mutated self cells reallocate glucose, oxygen use, and mitochondrial output toward growth and survival.
+- [Reactive Oxygen Species Metabolic Stress](concepts/ReactiveOxygenSpeciesMetabolicStress.md) — Excess-energy and mitochondrial ROS hypothesis linking reactive species to protein, genome, aging, and disease risks.
 - [Control-Preserving Growth Capital](concepts/ControlPreservingGrowthCapital.md) — Funding pattern where a founder accepts scale capital or expertise while retaining enough authority to keep directing the company.
 - [Defective Inventory Demand Signal](concepts/DefectiveInventoryDemandSignal.md) — Physical-product validation pattern where flawed but usable inventory reveals real customer demand after actual use.
 - [Founder Restart After Failure](concepts/FounderRestartAfterFailure.md) — Returning to a venture after an apparent ending because new customer evidence, financing, or operating options change the meaning of the failure.
