@@ -3331,10 +3331,10 @@
       ]
     },
     "迟早更新": {
-      "episode_count": 3,
+      "episode_count": 4,
       "earliest_episode_date": "2026-05-26",
-      "latest_episode_date": "2026-08-18",
-      "latest_episode_file": "8212959555_438866 [8212959555_438866].md",
+      "latest_episode_date": "2026-09-07",
+      "latest_episode_file": "8211241331_711602 [8211241331_711602].md",
       "source_note_count": 2,
       "topic_matched_source_note_count": 2,
       "topics": [
@@ -3355,6 +3355,7 @@
       "start_here_episode_files": [
         "8213451338_252768 [8213451338_252768].md",
         "8212959555_438866 [8212959555_438866].md",
+        "8211241331_711602 [8211241331_711602].md",
         "8220234869_014847 [8220234869_014847].md"
       ]
     },
