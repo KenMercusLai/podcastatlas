@@ -1438,9 +1438,29 @@
         "RelationshipNeedDiversification",
         "EmotionRegulationToolkit"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "ai-workflow-judgment-still-needs-field-exposure",
+      "qualifications": [
+        "The paragraph belongs primarily to business-and-markets; psychology relevance is limited to human judgment, field exposure, and approval responsibility under AI automation.",
+        "The source is a founder interview and does not provide independent evidence about user psychology or workplace behavior.",
+        "The transcript gap prevents promotion of broader claims about 2B AI product direction."
+      ],
+      "statement": "[[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt|No.226]] enters psychology-and-personal-development only as a secondary work-judgment case: [[KateAHA|Kate]] and [[LiuFei|刘飞]] frame stronger AI as increasing the need for field exposure to users, because [[AHACreator]] still leaves budget, creative direction, final creator choice, and content approval with humans even when [[AIDrivenCreatorMarketing]] automates repeated workflow steps.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt",
+        "KateAHA",
+        "LiuFei",
+        "AHACreator",
+        "AIDrivenCreatorMarketing",
+        "SanWuHuan"
+      ]
     }
   ],
-  "input_digest": "8bb0fefd868ebcbbf1a51fbba9ba9179c1ffc0449220a9f785ce92ec8fd75dbe",
-  "summary": "Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, and careful boundaries around self-interpretation. The newer Steve Says material adds that psychological language can become self-punitive when it is used to monitor the self from a detached, purely logical stance rather than to restore present safety and trustworthy bodily contact.",
+  "input_digest": "c9a3960d74955d570e2ad15db36ff5aa0693f2048b51cad5ce919fc8ec9222e3",
+  "summary": "Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, and careful boundaries around self-interpretation. The newer Steve Says material adds that psychological language can become self-punitive when it is used to monitor the self from a detached, purely logical stance rather than to restore present safety and trustworthy bodily contact. The AHA Creator paragraph adds a secondary work-judgment case: stronger AI can automate repeated workflow steps, but founders and customers still need field exposure, budget judgment, and final approval responsibility.",
+  "title": "Psychology and Personal Development",
   "topic_id": "psychology-and-personal-development"
 }
