@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [All right on the night: AfD's victory](sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f.md) — The Intelligence episode on AfD's 44% Saxony-Anhalt win, CDU collapse, BSW kingmaker arithmetic, contrail mitigation through Operation Blue Skies, and young South Koreans' renewed interest in Buddhism.
 - [时代症候，与安定此心](sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql.md) — 面基 episode with psychiatrist Jiang Tao on schizophrenia family caregiving, psychiatric diagnosis by function, somatization, mental-illness stigma, psychotherapy boundaries, and desire-capacity fit under contemporary anxiety.
 - [Episode 226: 说出口的话，正在塑造你的世界](sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318.md) — 迟早更新 crossover with 恰恰小豹 on birdsong playback ethics, human extraction from nature, ritualized apology, いただきます, Confucian form, speech acts, sincerity, and words training restraint.
 - [Episode 228: 所以，奥德赛](sources/episode-228-suoyi-aodesai-8211241331-711602.md) — 迟早更新 episode connecting the Beatles' "Because", Luo Dayou's 《所以》, Homer/Nolan's Odyssey, Earthrise, Whole Earth Catalog, AI, poetic causality, and responsibility after expanded technical power.
@@ -1992,6 +1993,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Tom Nuttall](entities/TomNuttall.md) — The Intelligence participant reporting from AfD's Saxony-Anhalt election-night party and explaining the post-election arithmetic.
+- [Bündnis Sahra Wagenknecht / BSW](entities/BundnisSahraWagenknecht.md) — Populist-left German party that becomes a possible Saxony-Anhalt kingmaker after AfD's large plurality.
+- [Sven Schulze](entities/SvenSchulze.md) — CDU Saxony-Anhalt premier whose weakened incumbent position anchors the caretaker-stalemate scenario.
+- [Operation Blue Skies](entities/OperationBlueSkies.md) — North Atlantic trial testing whether small flight-altitude changes can reduce warming aircraft contrails.
+- [Jogye Order](entities/JogyeOrder.md) — Korean Buddhist organization behind the Seoul expo used to study modern Buddhist outreach.
+- [Soobin Kim](entities/SoobinKim.md) — Reporter covering the Seoul Buddhist expo and young South Koreans' renewed interest in Buddhism.
+- [Venerable Seowon](entities/VenerableSeowon.md) — Korean Buddhist monk who presents modern religious adaptations as possible entry points into Buddhism.
 - [江涛 / Jiang Tao (Psychiatrist)](entities/JiangTaoPsychiatrist.md) — Beijing Anding Hospital psychiatrist explaining severe mental illness, diagnosis, family care, somatization, and destigmatization in the 面基 episode.
 - [北京市安定医院 / Beijing Anding Hospital](entities/BeijingAndingHospital.md) — Psychiatric-care institution named as Jiang Tao's affiliation and source context for the 面基 mental-health episode.
 - [李峻嵘 / 李俊仁 / Li Junrong](entities/LiJunrongFootballHistorian.md) — Guest historian/commentator for the Hong Kong football professionalization and club-governance episode.
@@ -11234,6 +11242,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Contrail Climate Mitigation](concepts/ContrailClimateMitigation.md) — Aviation climate intervention focused on reducing persistent warming contrails through targeted flight-altitude changes.
+- [Climate Externality Cost Allocation](concepts/ClimateExternalityCostAllocation.md) — Policy problem of assigning small operational costs that reduce diffuse climate harm.
+- [German Caretaker Stalemate](concepts/GermanCaretakerStalemate.md) — Saxony-Anhalt scenario where AfD's large plurality does not immediately produce a stable executive.
+- [Secular Buddhism Appeal](concepts/SecularBuddhismAppeal.md) — Pattern where Buddhist practices attract young secular Koreans by offering calm and perspective without deity-centered belief.
+- [Commercialized Religious Adaptation](concepts/CommercializedReligiousAdaptation.md) — Use of events, merchandise, media formats, and paid experiences to make religious traditions accessible to new audiences.
 - [Psychiatric Functional Diagnosis / 精神科功能受损诊断](concepts/PsychiatricFunctionalDiagnosis.md) — Diagnostic-literacy frame that psychiatric assessment depends on symptoms, course, context, and functional impairment rather than online scales or self-labeling.
 - [Serious Mental Illness Family Care Boundary / 重性精神障碍家属照护边界](concepts/SeriousMentalIllnessFamilyCareBoundary.md) — Family-care boundary separating treatment support and safety from guilt-driven unlimited sacrifice.
 - [Mental Illness Destigmatization / 精神疾病去污名化](concepts/MentalIllnessDestigmatization.md) — Anti-shame frame for treating psychiatric disorders as illnesses while preserving risk, treatment, privacy, and diagnostic boundaries.

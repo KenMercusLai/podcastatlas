@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 9238
+wiki_total_pages: 9245
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "VelvetRevolution"
     title: "Velvet Revolution / 天鹅绒革命"
     url: "/wiki/entities/velvetrevolution/"
+  - key: "VenerableSeowon"
+    title: "Venerable Seowon"
+    url: "/wiki/entities/venerableseowon/"
   - key: "Venezuela"
     title: "Venezuela"
     url: "/wiki/entities/venezuela/"

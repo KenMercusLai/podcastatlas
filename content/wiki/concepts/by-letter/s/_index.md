@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6626
+wiki_total_pages: 6631
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "Section232TariffAuthority"
     title: "Section 232 Tariff Authority"
     url: "/wiki/concepts/section232tariffauthority/"
+  - key: "SecularBuddhismAppeal"
+    title: "Secular Buddhism Appeal"
+    url: "/wiki/concepts/secularbuddhismappeal/"
   - key: "SecularHappinessAgainstIdeology"
     title: "Secular Happiness Against Ideology"
     url: "/wiki/concepts/secularhappinessagainstideology/"

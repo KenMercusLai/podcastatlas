@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6626
+wiki_total_pages: 6631
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "ClimateAidRetrenchment"
     title: "Climate Aid Retrenchment"
     url: "/wiki/concepts/climateaidretrenchment/"
+  - key: "ClimateExternalityCostAllocation"
+    title: "Climate Externality Cost Allocation"
+    url: "/wiki/concepts/climateexternalitycostallocation/"
   - key: "ClimateFoodPriceTransmission"
     title: "Climate Food Price Transmission"
     url: "/wiki/concepts/climatefoodpricetransmission/"
@@ -1097,6 +1100,9 @@ wiki_pages:
   - key: "CommercializationProtectsCreativeIdeals"
     title: "Commercialization Protects Creative Ideals"
     url: "/wiki/concepts/commercializationprotectscreativeideals/"
+  - key: "CommercializedReligiousAdaptation"
+    title: "Commercialized Religious Adaptation"
+    url: "/wiki/concepts/commercializedreligiousadaptation/"
   - key: "CommodityPriceExposure"
     title: "Commodity Price Exposure"
     url: "/wiki/concepts/commoditypriceexposure/"
@@ -1469,6 +1475,9 @@ wiki_pages:
   - key: "ContractualFundGovernanceGap"
     title: "Contractual Fund Governance Gap / 契约型基金治理缺口"
     url: "/wiki/concepts/contractualfundgovernancegap/"
+  - key: "ContrailClimateMitigation"
+    title: "Contrail Climate Mitigation"
+    url: "/wiki/concepts/contrailclimatemitigation/"
   - key: "ContrarianSentimentIndicators"
     title: "Contrarian Sentiment Indicators"
     url: "/wiki/concepts/contrariansentimentindicators/"

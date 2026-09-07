@@ -323,14 +323,14 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-09-07",
       "latest_episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
-      "source_note_count": 67,
-      "topic_matched_source_note_count": 63,
+      "source_note_count": 68,
+      "topic_matched_source_note_count": 64,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 49
+          "source_note_count": 50
         },
         {
           "key": "technology",
@@ -348,7 +348,7 @@
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 11
+          "source_note_count": 12
         }
       ],
       "entities": [
@@ -410,10 +410,10 @@
         }
       ],
       "start_here_episode_files": [
-        "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
+        "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
         "Bargaining chips： Nvidia is the bank of AI [6a9a86ffe7a9fe2478c4fc41].md",
         "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
-        "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md"
+        "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md"
       ]
     },
     "How I Built This with Guy Raz": {

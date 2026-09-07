@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 9238
+wiki_total_pages: 9245
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "JoeyShamah"
     title: "Joey Shamah"
     url: "/wiki/entities/joeyshamah/"
+  - key: "JogyeOrder"
+    title: "Jogye Order"
+    url: "/wiki/entities/jogyeorder/"
   - key: "JohannConradDippel"
     title: "Johann Conrad Dippel / 约翰·康拉德·迪佩尔"
     url: "/wiki/entities/johannconraddippel/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2505
+topic_total_pages: 2506
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -604,6 +604,9 @@ topic_concepts:
   - key: "CommercialMenstrualEducation"
     title: "Commercial Menstrual Education"
     url: "/wiki/concepts/commercialmenstrualeducation/"
+  - key: "CommercializedReligiousAdaptation"
+    title: "Commercialized Religious Adaptation"
+    url: "/wiki/concepts/commercializedreligiousadaptation/"
   - key: "CommunityFeeling"
     title: "Community Feeling"
     url: "/wiki/concepts/communityfeeling/"

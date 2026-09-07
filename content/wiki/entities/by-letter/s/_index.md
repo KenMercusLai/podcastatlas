@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9238
+wiki_total_pages: 9245
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "SonyTSMCImageSensorJV"
     title: "Sony-TSMC Image Sensor Joint Venture"
     url: "/wiki/entities/sonytsmcimagesensorjv/"
+  - key: "SoobinKim"
+    title: "Soobin Kim"
+    url: "/wiki/entities/soobinkim/"
   - key: "SophiaTolstaya"
     title: "Sophia Tolstaya / 索菲亚"
     url: "/wiki/entities/sophiatolstaya/"
@@ -1406,6 +1409,9 @@ wiki_pages:
   - key: "SVAngel"
     title: "SV Angel"
     url: "/wiki/entities/svangel/"
+  - key: "SvenSchulze"
+    title: "Sven Schulze"
+    url: "/wiki/entities/svenschulze/"
   - key: "Sweden"
     title: "Sweden"
     url: "/wiki/entities/sweden/"

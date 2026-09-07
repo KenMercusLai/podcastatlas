@@ -15652,6 +15652,10 @@ Ingested the 2026-08-11 大小电波 episode on Wahaha and Zong Qinghou as the o
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-07] ingest | All right on the night: AfD's victory
+
+Ingested the 2026-09-07 The Intelligence episode on AfD's 44% Saxony-Anhalt victory, CDU collapse, BSW kingmaker arithmetic, Operation Blue Skies contrail mitigation, and young South Koreans' renewed interest in Buddhism. Added source `all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f`; created `TomNuttall`, `BundnisSahraWagenknecht`, `SvenSchulze`, `OperationBlueSkies`, `JogyeOrder`, `SoobinKim`, `VenerableSeowon`, `ContrailClimateMitigation`, `ClimateExternalityCostAllocation`, `GermanCaretakerStalemate`, `SecularBuddhismAppeal`, and `CommercializedReligiousAdaptation`; updated `AlternativeForGermany`, `SaxonyAnhalt`, `UlrichSiegmund`, `BrandmauerCordonSanitaire`, `FarRightStateGovernanceTest`, `RemigrationPolitics`, `FriedrichMerz`, and `ChristianDemocraticUnionGermany`. No settled contradiction found; the source qualifies the earlier pre-election Saxony-Anhalt branch by turning possible AfD majority into reported AfD plurality plus BSW/minority/caretaker uncertainty.
+
 ## [2026-09-07] ingest | Episode 228: 所以，奥德赛
 
 Ingested the 2026-09-07 迟早更新 episode connecting the Beatles' "Because", Luo Dayou's 《所以》, Homer and Nolan's Odyssey, Earthrise, Stewart Brand, Whole Earth Catalog, GPT, AI, data, chips, classic revoicing, poetic causality, and responsibility after expanded technical power. Added source `episode-228-suoyi-aodesai-8211241331-711602`; created `LuoDayou`, `TheBeatles`, `BecauseSong`, `SuoyiSong`, `WholeEarthCatalog`, `EarthrisePhoto`, `BlueMarblePhoto`, `PoeticCausality`, `TechnologicalResponsibilityRadius`, and `ClassicRevoicingFromNewPosition`; updated `RenNing`, `ChizaoGengxin`, `StewartBrand`, `ChristopherNolan`, `TheOdyssey`, `Odysseus`, `HomericAdaptationModernization`, `MetisHeroicCunning`, `HomericNostos`, `index`, and `overview`. No settled contradiction found; the episode's song and film connections are kept source-scoped where they are interpretive rather than documentary influence claims.
@@ -15891,6 +15895,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | How Mitochondria Control Your Metabolism | Dr. Jared Rutter
 
 Ingested the 2026-09-07 Huberman Lab episode with Jared Rutter on mitochondria, cell-specific metabolism, pyruvate routing, MPC1/MPC2, lactate as fuel, fuel prioritization, cancer metabolic reprogramming, reactive oxygen species, aging uncertainty, and future diagnostics. Added source `how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664`; created `JaredRutter`, `CellularMetabolismMosaic`, `MitochondrialEnergyAllocation`, `MitochondrialPyruvateCarrier`, `LactateMetabolicShuttle`, `CancerMetabolicReprogramming`, and `ReactiveOxygenSpeciesMetabolicStress`; updated `index`. No settled contradiction found; aging mechanisms, ROS causality, metabolic imaging, breath/scent diagnostics, KRAS and combination cancer therapy, fuel-prioritization, and lactic-acidosis claims remain source-scoped public biomedical education.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

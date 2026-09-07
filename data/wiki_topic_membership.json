@@ -15065,6 +15065,23 @@
       "url": "/topics/science/"
     }
   ],
+  "ClimateExternalityCostAllocation": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ClimateFoodPriceTransmission": [
     {
       "key": "science",
@@ -15641,6 +15658,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "CommercializedReligiousAdaptation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "CommodityFuturesTradingCommission": [
@@ -16392,6 +16416,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ContrailClimateMitigation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ContrarianSentimentIndicators": [
@@ -26937,6 +26968,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "GermanCaretakerStalemate": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "GermanSwissInternationalSchool": [
@@ -45601,6 +45639,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "OperationBlueSkies": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "OperationForrestGump": [
     {
       "key": "politics",
@@ -60111,6 +60156,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "SvenSchulze": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Sweetwater": [
     {
       "key": "culture",
@@ -63124,6 +63176,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "TomNuttall": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TomerLondon": [
@@ -71990,6 +72049,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c": [

@@ -4054,9 +4054,9 @@
       "url": "/wiki/entities/alphaschool/"
     },
     "AlternativeForGermany": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Brave New whirl： Turkey’s opposition overhaul [6a69c7766043035f89eb097f].md",
@@ -4071,9 +4071,16 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/alternativeforgermany/"
     },
     "AlternativePaymentStackConsolidation": {
@@ -8633,9 +8640,9 @@
       "url": "/wiki/concepts/brandedproducedifferentiation/"
     },
     "BrandmauerCordonSanitaire": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
@@ -8643,9 +8650,16 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/brandmauercordonsanitaire/"
     },
     "Brazil": {
@@ -9057,6 +9071,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/builderbasedschoolday/"
+    },
+    "BundnisSahraWagenknecht": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/bundnissahrawagenknecht/"
     },
     "BuqiaoQiangLeader": {
       "episode_count": 1,
@@ -12429,6 +12459,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/chrispalmer/"
     },
+    "ChristianDemocraticUnionGermany": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Brave New whirl： Turkey’s opposition overhaul [6a69c7766043035f89eb097f].md",
+          "key": "brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f",
+          "show": "Economist Podcasts",
+          "title": "Brave New whirl: Turkey's opposition overhaul",
+          "url": "/wiki/sources/brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f/"
+        },
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/christiandemocraticuniongermany/"
+    },
     "ChristopherNavarro": {
       "episode_count": 1,
       "show_count": 1,
@@ -12821,6 +12874,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/climateaidretrenchment/"
+    },
+    "ClimateExternalityCostAllocation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/climateexternalitycostallocation/"
     },
     "ClinicalBehaviorChangeRedFlags": {
       "episode_count": 1,
@@ -13482,6 +13551,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/commercializationprotectscreativeideals/"
+    },
+    "CommercializedReligiousAdaptation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/commercializedreligiousadaptation/"
     },
     "CommodityTrapEscape": {
       "episode_count": 1,
@@ -14258,6 +14343,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/continuousglucosemonitoring/"
+    },
+    "ContrailClimateMitigation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/contrailclimatemitigation/"
     },
     "ControlPreservingGrowthCapital": {
       "episode_count": 1,
@@ -23848,9 +23949,9 @@
       "url": "/wiki/concepts/farrightnormalization/"
     },
     "FarRightStateGovernanceTest": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
@@ -23858,9 +23959,16 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/farrightstategovernancetest/"
     },
     "FascistSportPolicy": {
@@ -26485,6 +26593,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/friedrichebert/"
     },
+    "FriedrichMerz": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Brave New whirl： Turkey’s opposition overhaul [6a69c7766043035f89eb097f].md",
+          "key": "brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f",
+          "show": "Economist Podcasts",
+          "title": "Brave New whirl: Turkey's opposition overhaul",
+          "url": "/wiki/sources/brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f/"
+        },
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/friedrichmerz/"
+    },
     "FriedrichWilhelmVonSteuben": {
       "episode_count": 1,
       "show_count": 1,
@@ -28580,6 +28711,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/georgiabanjo/"
+    },
+    "GermanCaretakerStalemate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/germancaretakerstalemate/"
     },
     "GermanNationalAnthem": {
       "episode_count": 1,
@@ -37404,6 +37551,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/joeliemandt/"
+    },
+    "JogyeOrder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/jogyeorder/"
     },
     "JohannLoschek": {
       "episode_count": 1,
@@ -51591,6 +51754,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/operatingroomphysiologymanagement/"
     },
+    "OperationBlueSkies": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/operationblueskies/"
+    },
     "OperationalDetachment": {
       "episode_count": 1,
       "show_count": 1,
@@ -58426,9 +58605,9 @@
       "url": "/wiki/concepts/remedialeducationtargeting/"
     },
     "RemigrationPolitics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
@@ -58436,9 +58615,16 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/remigrationpolitics/"
     },
     "RenFangLateHan": {
@@ -60990,9 +61176,9 @@
       "url": "/wiki/entities/savilleinquiry/"
     },
     "SaxonyAnhalt": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
@@ -61000,9 +61186,16 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/saxonyanhalt/"
     },
     "ScarletSunrise": {
@@ -61440,6 +61633,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/secondaryoralityinaiera/"
+    },
+    "SecularBuddhismAppeal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/secularbuddhismappeal/"
     },
     "SecurityForAuthorityExchange": {
       "episode_count": 6,
@@ -64011,6 +64220,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/songyoueasternhan/"
+    },
+    "SoobinKim": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/soobinkim/"
     },
     "SophieZhang": {
       "episode_count": 1,
@@ -66841,6 +67066,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/sustainablehealthoptimization/"
     },
+    "SvenSchulze": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/svenschulze/"
+    },
     "SweetenerUncertainty": {
       "episode_count": 2,
       "show_count": 2,
@@ -69420,6 +69661,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/toleranceofdifference/"
     },
+    "TomNuttall": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/tomnuttall/"
+    },
     "TomOrton": {
       "episode_count": 1,
       "show_count": 1,
@@ -70405,9 +70662,9 @@
       "url": "/wiki/entities/uber/"
     },
     "UlrichSiegmund": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
@@ -70415,9 +70672,16 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/ulrichsiegmund/"
     },
     "UlsterDefenceAssociation": {
@@ -71320,6 +71584,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/vectorborneinfectionescalation/"
+    },
+    "VenerableSeowon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/venerableseowon/"
     },
     "Venezuela": {
       "episode_count": 9,

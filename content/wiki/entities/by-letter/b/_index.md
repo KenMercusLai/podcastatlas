@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9238
+wiki_total_pages: 9245
 wiki_pages:
   - key: "BlueMarblePhoto"
     title: "1967 Whole-Earth Color Image / Blue Marble Source-Scoped"
@@ -860,6 +860,9 @@ wiki_pages:
   - key: "ByzantineEmpire"
     title: "Byzantine Empire / 拜占庭帝国"
     url: "/wiki/entities/byzantineempire/"
+  - key: "BundnisSahraWagenknecht"
+    title: "Bündnis Sahra Wagenknecht / BSW"
+    url: "/wiki/entities/bundnissahrawagenknecht/"
   - key: "BuChengWenTiDeWenTi"
     title: "《不成问题的问题》"
     url: "/wiki/entities/buchengwentidewenti/"
