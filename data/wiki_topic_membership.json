@@ -2719,6 +2719,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AICharacterPersonalitySystem": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIChipSpecialization": [
     {
       "key": "technology",
@@ -4074,6 +4081,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AINativeVirtualIdol": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "AINativeWorker": [
     {
       "key": "technology",
@@ -4686,6 +4705,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "AITalk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "AITasteSimulation": [
@@ -29020,6 +29051,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "HanqingUrey": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "HansChristianAndersen": [
     {
       "key": "culture",
@@ -45290,6 +45328,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "OmniHuman": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "OnDeviceAI": [
@@ -64988,6 +65033,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "UreyVirtualIdol": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "UseStrengthsOverFaults": [
     {
       "key": "history",
@@ -74351,6 +74408,13 @@
     }
   ],
   "no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj": [
     {
       "key": "technology",
       "label": "Technology",

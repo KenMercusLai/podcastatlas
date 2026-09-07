@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 9246
+wiki_total_pages: 9250
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -125,6 +125,9 @@ wiki_pages:
   - key: "OmidKordestani"
     title: "Omid Kordestani"
     url: "/wiki/entities/omidkordestani/"
+  - key: "OmniHuman"
+    title: "Omni-Human"
+    url: "/wiki/entities/omnihuman/"
   - key: "Omnidocs"
     title: "Omnidocs"
     url: "/wiki/entities/omnidocs/"

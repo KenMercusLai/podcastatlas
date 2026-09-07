@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9246
+wiki_total_pages: 9250
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "AIAndDemocracyFoundation"
     title: "AI and Democracy Foundation"
     url: "/wiki/entities/aianddemocracyfoundation/"
+  - key: "AITalk"
+    title: "AI Talk"
+    url: "/wiki/entities/aitalk/"
   - key: "AIWeirdnessBlog"
     title: "AI Weirdness Blog"
     url: "/wiki/entities/aiweirdnessblog/"

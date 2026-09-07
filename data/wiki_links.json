@@ -1663,6 +1663,10 @@
     "title": "AI Capex Return Window",
     "url": "/wiki/concepts/aicapexreturnwindow/"
   },
+  "AICharacterPersonalitySystem": {
+    "title": "AI Character Personality System / AI 角色人格系统",
+    "url": "/wiki/concepts/aicharacterpersonalitysystem/"
+  },
   "AIChipSpecialization": {
     "title": "AI Chip Specialization",
     "url": "/wiki/concepts/aichipspecialization/"
@@ -2283,6 +2287,10 @@
     "title": "AI Native SaaS Threat",
     "url": "/wiki/concepts/ainativesaasthreat/"
   },
+  "AINativeVirtualIdol": {
+    "title": "AI-Native Virtual Idol / AI 原生虚拟偶像",
+    "url": "/wiki/concepts/ainativevirtualidol/"
+  },
   "AINativeWorker": {
     "title": "AI Native Worker",
     "url": "/wiki/concepts/ainativeworker/"
@@ -2558,6 +2566,10 @@
   "AITalentCompetition": {
     "title": "AI Talent Competition",
     "url": "/wiki/concepts/aitalentcompetition/"
+  },
+  "AITalk": {
+    "title": "AI Talk",
+    "url": "/wiki/entities/aitalk/"
   },
   "AITasteSimulation": {
     "title": "AI Taste Simulation",
@@ -24683,6 +24695,10 @@
     "title": "《汉娜·阿伦特：爱与恶》 / Hannah Arendt: Love and Evil",
     "url": "/wiki/entities/hannaharendtloveandevil/"
   },
+  "HanqingUrey": {
+    "title": "汗青 / Hanqing",
+    "url": "/wiki/entities/hanqingurey/"
+  },
   "HansChristianAndersen": {
     "title": "安徒生 / Hans Christian Andersen",
     "url": "/wiki/entities/hanschristianandersen/"
@@ -40698,6 +40714,10 @@
   "OmidKordestani": {
     "title": "Omid Kordestani",
     "url": "/wiki/entities/omidkordestani/"
+  },
+  "OmniHuman": {
+    "title": "Omni-Human",
+    "url": "/wiki/entities/omnihuman/"
   },
   "Omnidocs": {
     "title": "Omnidocs",
@@ -57399,6 +57419,10 @@
     "title": "Urban Wildlife Conflict Management / 城市野生动物冲突治理",
     "url": "/wiki/concepts/urbanwildlifeconflictmanagement/"
   },
+  "UreyVirtualIdol": {
+    "title": "Yuri / 尤栗 / 优瑞",
+    "url": "/wiki/entities/ureyvirtualidol/"
+  },
   "UrinaryTractInfectionBehaviorBoundary": {
     "title": "Urinary Tract Infection Behavior Boundary / 泌尿道感染行为边界",
     "url": "/wiki/concepts/urinarytractinfectionbehaviorboundary/"
@@ -66762,6 +66786,10 @@
   "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666": {
     "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
     "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+  },
+  "no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj": {
+    "title": "No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？",
+    "url": "/wiki/sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj/"
   },
   "no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt": {
     "title": "No.226 AI 越强，创业者越要回到用户现场",

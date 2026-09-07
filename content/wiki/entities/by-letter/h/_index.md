@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9246
+wiki_total_pages: 9250
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -965,6 +965,9 @@ wiki_pages:
   - key: "HanyangCommanderyLateHan"
     title: "汉阳郡 / Hanyang Commandery (late Han)"
     url: "/wiki/entities/hanyangcommanderylatehan/"
+  - key: "HanqingUrey"
+    title: "汗青 / Hanqing"
+    url: "/wiki/entities/hanqingurey/"
   - key: "HedongPeiClan"
     title: "河东裴氏 / Hedong Pei Clan"
     url: "/wiki/entities/hedongpeiclan/"

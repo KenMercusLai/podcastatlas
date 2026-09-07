@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6638
+wiki_total_pages: 6640
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "AICapexReturnWindow"
     title: "AI Capex Return Window"
     url: "/wiki/concepts/aicapexreturnwindow/"
+  - key: "AICharacterPersonalitySystem"
+    title: "AI Character Personality System / AI 角色人格系统"
+    url: "/wiki/concepts/aicharacterpersonalitysystem/"
   - key: "AIChipSpecialization"
     title: "AI Chip Specialization"
     url: "/wiki/concepts/aichipspecialization/"
@@ -1322,6 +1325,9 @@ wiki_pages:
   - key: "AINativeNarrativeWorlds"
     title: "AI-Native Narrative Worlds"
     url: "/wiki/concepts/ainativenarrativeworlds/"
+  - key: "AINativeVirtualIdol"
+    title: "AI-Native Virtual Idol / AI 原生虚拟偶像"
+    url: "/wiki/concepts/ainativevirtualidol/"
   - key: "AINativeWorkspace"
     title: "AI-Native Workspace"
     url: "/wiki/concepts/ainativeworkspace/"

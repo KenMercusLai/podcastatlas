@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2507
+topic_total_pages: 2510
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -199,6 +199,9 @@ topic_concepts:
   - key: "AIEraMajorChoice"
     title: "AI-Era Major Choice / AI时代专业选择"
     url: "/wiki/concepts/aieramajorchoice/"
+  - key: "AINativeVirtualIdol"
+    title: "AI-Native Virtual Idol / AI 原生虚拟偶像"
+    url: "/wiki/concepts/ainativevirtualidol/"
   - key: "AINativeYouthResearch"
     title: "AI-Native Youth Research"
     url: "/wiki/concepts/ainativeyouthresearch/"
@@ -2756,6 +2759,9 @@ topic_entities:
   - key: "Agamemnon"
     title: "Agamemnon"
     url: "/wiki/entities/agamemnon/"
+  - key: "AITalk"
+    title: "AI Talk"
+    url: "/wiki/entities/aitalk/"
   - key: "AlDavis"
     title: "Al Davis"
     url: "/wiki/entities/aldavis/"
@@ -4904,6 +4910,9 @@ topic_entities:
   - key: "YouTubeTV"
     title: "YouTube TV"
     url: "/wiki/entities/youtubetv/"
+  - key: "UreyVirtualIdol"
+    title: "Yuri / 尤栗 / 优瑞"
+    url: "/wiki/entities/ureyvirtualidol/"
   - key: "ZachLowe"
     title: "Zach Lowe"
     url: "/wiki/entities/zachlowe/"
