@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6616
+wiki_total_pages: 6621
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -488,6 +488,9 @@ wiki_pages:
   - key: "MentalHealthServiceRegulationGap"
     title: "Mental Health Service Regulation Gap"
     url: "/wiki/concepts/mentalhealthserviceregulationgap/"
+  - key: "MentalIllnessDestigmatization"
+    title: "Mental Illness Destigmatization / 精神疾病去污名化"
+    url: "/wiki/concepts/mentalillnessdestigmatization/"
   - key: "MentalizingProjection"
     title: "Mentalizing Projection / 心智化投射"
     url: "/wiki/concepts/mentalizingprojection/"

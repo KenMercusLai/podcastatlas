@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6616
+wiki_total_pages: 6621
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -470,6 +470,9 @@ wiki_pages:
   - key: "SequencingDataPipeline"
     title: "Sequencing Data Pipeline"
     url: "/wiki/concepts/sequencingdatapipeline/"
+  - key: "SeriousMentalIllnessFamilyCareBoundary"
+    title: "Serious Mental Illness Family Care Boundary / 重性精神障碍家属照护边界"
+    url: "/wiki/concepts/seriousmentalillnessfamilycareboundary/"
   - key: "SerotoninSocialWellbeingTools"
     title: "Serotonin Social Wellbeing Tools"
     url: "/wiki/concepts/serotoninsocialwellbeingtools/"
@@ -965,6 +968,9 @@ wiki_pages:
   - key: "SoloFounderFundraisingBias"
     title: "Solo Founder Fundraising Bias"
     url: "/wiki/concepts/solofounderfundraisingbias/"
+  - key: "SomatizationAsBodyAlarm"
+    title: "Somatization As Body Alarm / 躯体化作为身体报警"
+    url: "/wiki/concepts/somatizationasbodyalarm/"
   - key: "SongYuanMaritimeTradeCenter"
     title: "Song-Yuan Maritime Trade Center"
     url: "/wiki/concepts/songyuanmaritimetradecenter/"

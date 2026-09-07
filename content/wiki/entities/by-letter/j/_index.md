@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 9233
+wiki_total_pages: 9235
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1118,6 +1118,9 @@ wiki_pages:
   - key: "JiangXiaoyu"
     title: "江小鱼"
     url: "/wiki/entities/jiangxiaoyu/"
+  - key: "JiangTaoPsychiatrist"
+    title: "江涛 / Jiang Tao (Psychiatrist)"
+    url: "/wiki/entities/jiangtaopsychiatrist/"
   - key: "JiangmenUndergroundNeutrinoObservatory"
     title: "江门中微子实验 / Jiangmen Underground Neutrino Observatory"
     url: "/wiki/entities/jiangmenundergroundneutrinoobservatory/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9233
+wiki_total_pages: 9235
 wiki_pages:
   - key: "BlueMarblePhoto"
     title: "1967 Whole-Earth Color Image / Blue Marble Source-Scoped"
@@ -920,6 +920,9 @@ wiki_pages:
   - key: "BeijingOrientalPlaza"
     title: "北京东方新天地 / Beijing Oriental Plaza"
     url: "/wiki/entities/beijingorientalplaza/"
+  - key: "BeijingAndingHospital"
+    title: "北京市安定医院 / Beijing Anding Hospital"
+    url: "/wiki/entities/beijingandinghospital/"
   - key: "BeidiCommandery"
     title: "北地郡 / Beidi Commandery"
     url: "/wiki/entities/beidicommandery/"

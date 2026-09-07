@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6616
+wiki_total_pages: 6621
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1487,6 +1487,9 @@ wiki_pages:
   - key: "PsychedelicOrdinaryFreedom"
     title: "Psychedelic Ordinary Freedom"
     url: "/wiki/concepts/psychedelicordinaryfreedom/"
+  - key: "PsychiatricFunctionalDiagnosis"
+    title: "Psychiatric Functional Diagnosis / 精神科功能受损诊断"
+    url: "/wiki/concepts/psychiatricfunctionaldiagnosis/"
   - key: "PsychiatricMedicationSupervisionBoundary"
     title: "Psychiatric Medication Supervision Boundary"
     url: "/wiki/concepts/psychiatricmedicationsupervisionboundary/"

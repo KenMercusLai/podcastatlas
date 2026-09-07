@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 925
+topic_total_pages: 926
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -355,6 +355,9 @@ topic_concepts:
   - key: "Deindividuation"
     title: "Deindividuation / 去个体化"
     url: "/wiki/concepts/deindividuation/"
+  - key: "DesireCapacityFit"
+    title: "Desire-Capacity Fit / 欲望与能力匹配"
+    url: "/wiki/concepts/desirecapacityfit/"
   - key: "DewormingAsHumanCapitalInvestment"
     title: "Deworming as Human Capital Investment"
     url: "/wiki/concepts/dewormingashumancapitalinvestment/"

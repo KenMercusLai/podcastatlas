@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [时代症候，与安定此心](sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql.md) — 面基 episode with psychiatrist Jiang Tao on schizophrenia family caregiving, psychiatric diagnosis by function, somatization, mental-illness stigma, psychotherapy boundaries, and desire-capacity fit under contemporary anxiety.
 - [Episode 228: 所以，奥德赛](sources/episode-228-suoyi-aodesai-8211241331-711602.md) — 迟早更新 episode connecting the Beatles' "Because", Luo Dayou's 《所以》, Homer/Nolan's Odyssey, Earthrise, Whole Earth Catalog, AI, poetic causality, and responsibility after expanded technical power.
 - [Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘](sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw.md) — 不懂球 episode with Li Junrong on Hong Kong football professionalization, the Seiko dynasty, foreign-player escalation, commercial-team membership, and owner-control governance.
 - [How Mitochondria Control Your Metabolism | Dr. Jared Rutter](sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664.md) — Huberman Lab episode with Jared Rutter on mitochondria, cell-specific metabolism, pyruvate routing, MPC1/MPC2, lactate as fuel, cancer metabolic reprogramming, ROS stress, and biomedical uncertainty boundaries.
@@ -1990,6 +1991,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [江涛 / Jiang Tao (Psychiatrist)](entities/JiangTaoPsychiatrist.md) — Beijing Anding Hospital psychiatrist explaining severe mental illness, diagnosis, family care, somatization, and destigmatization in the 面基 episode.
+- [北京市安定医院 / Beijing Anding Hospital](entities/BeijingAndingHospital.md) — Psychiatric-care institution named as Jiang Tao's affiliation and source context for the 面基 mental-health episode.
 - [李峻嵘 / 李俊仁 / Li Junrong](entities/LiJunrongFootballHistorian.md) — Guest historian/commentator for the Hong Kong football professionalization and club-governance episode.
 - [香港足球总会 / Hong Kong Football Association](entities/HongKongFootballAssociation.md) — Governing-body node for Hong Kong's 1968 professionalization turn, foreign-player rules, and membership mechanisms.
 - [精工足球队 / Seiko Football Club](entities/SeikoFootballClub.md) — Hong Kong football dynasty disambiguated from the watchmaker, used to explain capital-backed import-player escalation.
@@ -11227,6 +11230,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Psychiatric Functional Diagnosis / 精神科功能受损诊断](concepts/PsychiatricFunctionalDiagnosis.md) — Diagnostic-literacy frame that psychiatric assessment depends on symptoms, course, context, and functional impairment rather than online scales or self-labeling.
+- [Serious Mental Illness Family Care Boundary / 重性精神障碍家属照护边界](concepts/SeriousMentalIllnessFamilyCareBoundary.md) — Family-care boundary separating treatment support and safety from guilt-driven unlimited sacrifice.
+- [Mental Illness Destigmatization / 精神疾病去污名化](concepts/MentalIllnessDestigmatization.md) — Anti-shame frame for treating psychiatric disorders as illnesses while preserving risk, treatment, privacy, and diagnostic boundaries.
+- [Somatization As Body Alarm / 躯体化作为身体报警](concepts/SomatizationAsBodyAlarm.md) — Body-emotion frame for distress appearing as physical symptoms while still requiring medical exclusion and clinical judgment.
+- [Desire-Capacity Fit / 欲望与能力匹配](concepts/DesireCapacityFit.md) — Life-regulation principle that steadiness can require recalibrating desires to actual ability, temperament, family conditions, role, and pressure.
 - [香港足球职业化 / Hong Kong Football Professionalization](concepts/HongKongFootballProfessionalization.md) — 1968 Hong Kong football shift from nominal amateurism to permitted professionalism after Olympic eligibility conflict exposed paid-player reality.
 - [香港足球外援升级 / Hong Kong Football Foreign-Player Escalation](concepts/HongKongFootballForeignPlayerEscalation.md) — Hong Kong professional-football import-player market from regional sources to Seiko/Bulova higher-profile recruitment and later foreign-player limits.
 - [香港商业球队治理 / Hong Kong Commercial Football Club Governance](concepts/HongKongFootballCommercialClubGovernance.md) — Governance frame for commercial teams, association membership borrowing, traditional sports clubs, owner control, and long-term planning.

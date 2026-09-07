@@ -7478,6 +7478,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/beijing/"
     },
+    "BeijingAndingHospital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
+          "key": "shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql",
+          "show": "面基",
+          "title": "时代症候，与安定此心",
+          "url": "/wiki/sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/beijingandinghospital/"
+    },
     "BenGoodwin": {
       "episode_count": 1,
       "show_count": 1,
@@ -17297,6 +17313,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/desirabledifficulty/"
+    },
+    "DesireCapacityFit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
+          "key": "shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql",
+          "show": "面基",
+          "title": "时代症候，与安定此心",
+          "url": "/wiki/sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/desirecapacityfit/"
     },
     "DesireDrivenCommandExposure": {
       "episode_count": 3,
@@ -36918,6 +36950,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/jiangqilatehan/"
     },
+    "JiangTaoPsychiatrist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
+          "key": "shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql",
+          "show": "面基",
+          "title": "时代症候，与安定此心",
+          "url": "/wiki/sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/jiangtaopsychiatrist/"
+    },
     "JiangYuliangDoctor": {
       "episode_count": 1,
       "show_count": 1,
@@ -46822,6 +46870,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/menopauseinformationtriage/"
     },
+    "MentalIllnessDestigmatization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
+          "key": "shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql",
+          "show": "面基",
+          "title": "时代症候，与安定此心",
+          "url": "/wiki/sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/mentalillnessdestigmatization/"
+    },
     "MentalizingProjection": {
       "episode_count": 1,
       "show_count": 1,
@@ -56029,6 +56093,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/psychedelicordinaryfreedom/"
     },
+    "PsychiatricFunctionalDiagnosis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
+          "key": "shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql",
+          "show": "面基",
+          "title": "时代症候，与安定此心",
+          "url": "/wiki/sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/psychiatricfunctionaldiagnosis/"
+    },
     "PsychiatricMedicationSupervisionBoundary": {
       "episode_count": 3,
       "show_count": 1,
@@ -61492,6 +61572,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/separatedcampmutualsupportrisk/"
     },
+    "SeriousMentalIllnessFamilyCareBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
+          "key": "shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql",
+          "show": "面基",
+          "title": "时代症候，与安定此心",
+          "url": "/wiki/sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/seriousmentalillnessfamilycareboundary/"
+    },
     "SerotoninSocialWellbeingTools": {
       "episode_count": 1,
       "show_count": 1,
@@ -63619,6 +63715,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/socratesfootballer/"
+    },
+    "SomatizationAsBodyAlarm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
+          "key": "shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql",
+          "show": "面基",
+          "title": "时代症候，与安定此心",
+          "url": "/wiki/sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/somatizationasbodyalarm/"
     },
     "SongChongLateHan": {
       "episode_count": 1,

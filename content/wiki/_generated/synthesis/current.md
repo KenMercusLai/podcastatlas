@@ -4,10 +4,10 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-07
-as_of_overview_commit: 3f1bb76289116b110a8b691725621d895a69fbfd
+as_of_overview_commit: 9f2334e3fa7f637b334fb7c509efe88ed313ae51
 summary: "Podcast Atlas maps how capability becomes durable systems across AI, markets, governance, health, culture, education, psychology, history, and geopolitics."
-episode_count: 1981
-source_count: 1981
+episode_count: 1983
+source_count: 1983
 paragraph_count: 573
 topic_count: 8
 ---
