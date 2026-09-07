@@ -22,6 +22,18 @@ SPEC.loader.exec_module(prepare)
 
 
 class ControlledWikiTopicsTest(unittest.TestCase):
+    def test_reads_json_quoted_front_matter_titles_before_sorting(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "QuotedTitle.md"
+            path.write_text(
+                '---\ntitle: "\\"Because\\" / Beatles Song"\n---\n',
+                encoding="utf-8",
+            )
+
+            title = prepare.read_title(path)
+
+        self.assertEqual('"Because" / Beatles Song', title)
+
     def test_registry_exposes_exactly_the_six_stable_topic_families(self):
         topics = prepare.load_topics(ROOT / "data" / "wiki_topics.json")
 

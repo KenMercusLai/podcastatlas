@@ -301,7 +301,15 @@ def read_title(path: Path) -> str:
 
     for line in front_matter:
         if line.startswith("title:"):
-            title = strip_quotes(line.split(":", 1)[1])
+            raw_title = line.split(":", 1)[1].strip()
+            if raw_title.startswith('"') and raw_title.endswith('"'):
+                try:
+                    decoded_title = json.loads(raw_title)
+                except json.JSONDecodeError:
+                    decoded_title = None
+                if isinstance(decoded_title, str) and decoded_title:
+                    return decoded_title
+            title = strip_quotes(raw_title)
             if title:
                 return title
 
