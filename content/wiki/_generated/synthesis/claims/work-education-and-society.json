@@ -2,6 +2,28 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "football-academy-continuity-requires-education-and-outlet-infrastructure",
+      "qualifications": [
+        "This claim is bounded to the source episode and does not prove long-term academy graduation, employment, or professional-conversion outcomes.",
+        "Possible team relocation, merger, and league-placement paths remain speculative in the source.",
+        "Youth academy continuity can preserve opportunity while still needing public-access football outside elite selection systems."
+      ],
+      "statement": "[[vol-225-hengda-de-zuqiu-yichan-ft-panweili-gkwrijeozrpkafcpbatn-ivb|Vol.225]] adds a work-education-and-society case where [[EvergrandeFootballSchool]] survives only if institution, education, and career outlet stay connected: [[GuangzhouSportUniversity]] preserves schooling and campus routines, [[FootballYouthAcademyContinuity]] keeps students, coaches, and elite teams visible, [[GuangdongChenxingJuli]] represents a possible professional pathway, and [[FootballClubLegacyTransfer]] shows why academy players and supporter chants can carry [[GuangzhouFC]] identity after the original club collapses.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "vol-225-hengda-de-zuqiu-yichan-ft-panweili-gkwrijeozrpkafcpbatn-ivb",
+        "EvergrandeFootballSchool",
+        "GuangzhouSportUniversity",
+        "FootballYouthAcademyContinuity",
+        "GuangdongChenxingJuli",
+        "FootballClubLegacyTransfer",
+        "GuangzhouFC",
+        "PanWeili",
+        "YouthFootballPublicAccess"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-1064-credit-speech-boundary-risk",
       "qualifications": [
         "This is a source-scoped historical hierarchy and workplace-boundary analogy, not modern workplace, legal, or career advice.",
@@ -1149,8 +1171,8 @@
       ]
     }
   ],
-  "input_digest": "aeaffb62f4b7d0f6d6fc92d95d4842ac01fcca69e8943e6db7357bed7ef92124",
-  "summary": "The Bu He Shi Yi dementia-care episode adds a China-facing elder-care capacity case: family caregivers need public support, people with dementia retain dignity and biography, and care systems need trained labor, community services, environments, and insurance payment rather than sacrifice alone. The Song Jia return conversation adds a work-and-society case where career pause, acting purpose, sensory character work, study-abroad disruption, and podcast process all become role-identity experiments rather than simple productivity stories. The Wu Hankun / 三五环 source adds a creator-work case: hands-on AI use can turn vague job-security anxiety into practical workflow knowledge, but actor substitution, likeness authorization, industry protection, and self-defined creative purpose remain work-and-society questions rather than pure model-capability questions. EP383 adds a travel-and-society case: South Africa is presented as a high-reward but complex destination where safety planning, museums, township tourism, Safari labor, education gaps, and contested Mandela memory make post-apartheid inequality visible without becoming a complete national diagnosis. Work, education, and society sources converge on a practical boundary problem: learning, career growth, institutional role transfer, creative and technical adoption, health routines, travel competence, and historical hierarchy cases all depend on fitting tools, status, incentives, evidence, and communication to the actual setting. The Duan Zhiqiang Bowuzhi episode adds a work-and-society labor boundary: chosen amateur farming can produce situated knowledge and writing material, but livelihood agriculture changes the stakes through crop loss, timing pressure, injury, neighbor judgment, and self-blame.",
+  "input_digest": "a3ae41ba547cd8dc6b5b71e68281dd07e5f011001522b9a1480c44fd4b4be027",
+  "summary": "The Evergrande football legacy source adds a work-education-and-society case around youth academy continuity: football-school survival depends on students, coaches, daily routines, education pathways, family trust, professional outlets, and supporter identity, not only pitches or corporate ownership. The Bu He Shi Yi dementia-care episode adds a China-facing elder-care capacity case: family caregivers need public support, people with dementia retain dignity and biography, and care systems need trained labor, community services, environments, and insurance payment rather than sacrifice alone. The Song Jia return conversation adds a work-and-society case where career pause, acting purpose, sensory character work, study-abroad disruption, and podcast process all become role-identity experiments rather than simple productivity stories. Work, education, and society sources converge on a practical boundary problem: learning, career growth, institutional role transfer, creative and technical adoption, health routines, travel competence, and historical hierarchy cases all depend on fitting tools, status, incentives, evidence, and communication to the actual setting.",
   "title": "Work, Education, and Society",
   "topic_id": "work-education-and-society"
 }

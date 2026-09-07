@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9179
+wiki_total_pages: 9189
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -920,9 +920,21 @@ wiki_pages:
   - key: "Guangdong"
     title: "广东 / Guangdong"
     url: "/wiki/entities/guangdong/"
+  - key: "GuangdongChenxingJuli"
+    title: "广东陈兴聚力 / Guangdong Chenxing Juli"
+    url: "/wiki/entities/guangdongchenxingjuli/"
+  - key: "GuangzhouSportUniversity"
+    title: "广州体育学院 / Guangzhou Sport University"
+    url: "/wiki/entities/guangzhousportuniversity/"
   - key: "GuangzhouAcademyOfFineArts"
     title: "广州美术学院 / Guangzhou Academy of Fine Arts"
     url: "/wiki/entities/guangzhouacademyoffinearts/"
+  - key: "GuangzhouLeopard"
+    title: "广州豹 / Guangzhou Leopard"
+    url: "/wiki/entities/guangzhouleopard/"
+  - key: "GuangzhouFC"
+    title: "广州队 / Guangzhou FC"
+    url: "/wiki/entities/guangzhoufc/"
   - key: "GuangwuChuHan"
     title: "广武 / Guangwu (Chu-Han)"
     url: "/wiki/entities/guangwuchuhan/"

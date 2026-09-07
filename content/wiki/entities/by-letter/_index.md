@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9179
+wiki_total_pages: 9189
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1430,6 +1430,9 @@ wiki_pages:
   - key: "AssetAllocationActionGuide"
     title: "《资产配置行动指南》 / Asset Allocation Action Guide"
     url: "/wiki/entities/assetallocationactionguide/"
+  - key: "AFCChampionsLeague"
+    title: "亚冠 / AFC Champions League"
+    url: "/wiki/entities/afcchampionsleague/"
   - key: "AristotlePoeticsBookTwo"
     title: "亚里士多德《诗学》第二卷 / Aristotle's Poetics Book II"
     url: "/wiki/entities/aristotlepoeticsbooktwo/"

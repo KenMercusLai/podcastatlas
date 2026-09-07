@@ -15115,6 +15115,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ClubNationalTeamBoundaryBlur": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CoCounsel": [
     {
       "key": "technology",
@@ -24534,6 +24541,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "FootballYouthAcademyContinuity": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ForABreathITarry": [
     {
       "key": "culture",
@@ -28024,6 +28038,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "GuangzhouSportUniversity": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "GuanzhongRegion": [
@@ -43413,6 +43434,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "NaturalizedPlayerPolicyInChineseFootball": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "NatureLawLegalJustice": [

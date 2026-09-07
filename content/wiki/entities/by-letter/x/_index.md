@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9179
+wiki_total_pages: 9189
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "Xianyang"
     title: "咸阳 / Xianyang"
     url: "/wiki/entities/xianyang/"
+  - key: "Ximalaya"
+    title: "喜马拉雅 / Ximalaya"
+    url: "/wiki/entities/ximalaya/"
   - key: "XiahouYing"
     title: "夏侯婴 / Xiahou Ying"
     url: "/wiki/entities/xiahouying/"

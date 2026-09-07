@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6566
+wiki_total_pages: 6571
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -872,6 +872,9 @@ wiki_pages:
   - key: "CloudStoragePhysicality"
     title: "Cloud Storage Physicality"
     url: "/wiki/concepts/cloudstoragephysicality/"
+  - key: "ClubNationalTeamBoundaryBlur"
+    title: "Club-National Team Boundary Blur"
+    url: "/wiki/concepts/clubnationalteamboundaryblur/"
   - key: "CoFounderAlignmentLoop"
     title: "Co-Founder Alignment Loop"
     url: "/wiki/concepts/cofounderalignmentloop/"
@@ -1955,6 +1958,9 @@ wiki_pages:
   - key: "CytokineReleaseSyndrome"
     title: "Cytokine Release Syndrome"
     url: "/wiki/concepts/cytokinereleasesyndrome/"
+  - key: "ChineseFootballGoldenYuanEra"
+    title: "中国足球金元时代 / Chinese Football Golden-Yuan Era"
+    url: "/wiki/concepts/chinesefootballgoldenyuanera/"
   - key: "CapitalPoetrySociality"
     title: "京城诗社交性 / Capital Poetry Sociality"
     url: "/wiki/concepts/capitalpoetrysociality/"

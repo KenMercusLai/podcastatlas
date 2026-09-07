@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6566
+wiki_total_pages: 6571
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -599,6 +599,9 @@ wiki_pages:
   - key: "FootballClubFinancialEngineering"
     title: "Football Club Financial Engineering"
     url: "/wiki/concepts/footballclubfinancialengineering/"
+  - key: "FootballClubLegacyTransfer"
+    title: "Football Club Legacy Transfer"
+    url: "/wiki/concepts/footballclublegacytransfer/"
   - key: "FootballCommercializationFanConflict"
     title: "Football Commercialization Fan Conflict"
     url: "/wiki/concepts/footballcommercializationfanconflict/"
@@ -620,6 +623,9 @@ wiki_pages:
   - key: "FootballTransferReceivablesFinance"
     title: "Football Transfer Receivables Finance"
     url: "/wiki/concepts/footballtransferreceivablesfinance/"
+  - key: "FootballYouthAcademyContinuity"
+    title: "Football Youth Academy Continuity"
+    url: "/wiki/concepts/footballyouthacademycontinuity/"
   - key: "FootwearOccasionBlurring"
     title: "Footwear Occasion Blurring / 鞋履场景界线消融"
     url: "/wiki/concepts/footwearoccasionblurring/"

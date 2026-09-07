@@ -1443,6 +1443,10 @@
     "title": "ADNOC",
     "url": "/wiki/entities/adnoc/"
   },
+  "AFCChampionsLeague": {
+    "title": "亚冠 / AFC Champions League",
+    "url": "/wiki/entities/afcchampionsleague/"
+  },
   "AFTRA": {
     "title": "AFTRA / American Federation of Television and Radio Artists",
     "url": "/wiki/entities/aftra/"
@@ -8587,6 +8591,10 @@
     "title": "Budokan",
     "url": "/wiki/entities/budokan/"
   },
+  "Budongqiu": {
+    "title": "不懂球 / Budongqiu",
+    "url": "/wiki/entities/budongqiu/"
+  },
   "BuenaVistaDistribution": {
     "title": "Buena Vista Distribution",
     "url": "/wiki/entities/buenavistadistribution/"
@@ -11227,6 +11235,10 @@
     "title": "Chinese Folk Religion Layering",
     "url": "/wiki/concepts/chinesefolkreligionlayering/"
   },
+  "ChineseFootballGoldenYuanEra": {
+    "title": "中国足球金元时代 / Chinese Football Golden-Yuan Era",
+    "url": "/wiki/concepts/chinesefootballgoldenyuanera/"
+  },
   "ChineseFragrance": {
     "title": "Chinese Fragrance / 中式香气",
     "url": "/wiki/concepts/chinesefragrance/"
@@ -12070,6 +12082,10 @@
   "Cloudflare": {
     "title": "Cloudflare",
     "url": "/wiki/entities/cloudflare/"
+  },
+  "ClubNationalTeamBoundaryBlur": {
+    "title": "Club-National Team Boundary Blur",
+    "url": "/wiki/concepts/clubnationalteamboundaryblur/"
   },
   "CoCounsel": {
     "title": "Co-Counsel",
@@ -18563,6 +18579,10 @@
     "title": "Evergrande",
     "url": "/wiki/entities/evergrande/"
   },
+  "EvergrandeFootballSchool": {
+    "title": "恒大足校 / Evergrande Football School",
+    "url": "/wiki/entities/evergrandefootballschool/"
+  },
   "EvergrandeWealth": {
     "title": "Evergrande Wealth / 恒大财富",
     "url": "/wiki/entities/evergrandewealth/"
@@ -20563,6 +20583,10 @@
     "title": "Football Club Financial Engineering",
     "url": "/wiki/concepts/footballclubfinancialengineering/"
   },
+  "FootballClubLegacyTransfer": {
+    "title": "Football Club Legacy Transfer",
+    "url": "/wiki/concepts/footballclublegacytransfer/"
+  },
   "FootballCommercializationFanConflict": {
     "title": "Football Commercialization Fan Conflict",
     "url": "/wiki/concepts/footballcommercializationfanconflict/"
@@ -20590,6 +20614,10 @@
   "FootballTransferReceivablesFinance": {
     "title": "Football Transfer Receivables Finance",
     "url": "/wiki/concepts/footballtransferreceivablesfinance/"
+  },
+  "FootballYouthAcademyContinuity": {
+    "title": "Football Youth Academy Continuity",
+    "url": "/wiki/concepts/footballyouthacademycontinuity/"
   },
   "FootwearOccasionBlurring": {
     "title": "Footwear Occasion Blurring / 鞋履场景界线消融",
@@ -23627,6 +23655,10 @@
     "title": "广东 / Guangdong",
     "url": "/wiki/entities/guangdong/"
   },
+  "GuangdongChenxingJuli": {
+    "title": "广东陈兴聚力 / Guangdong Chenxing Juli",
+    "url": "/wiki/entities/guangdongchenxingjuli/"
+  },
   "GuangfanTechnology": {
     "title": "Guangfan Technology / 光帆科技",
     "url": "/wiki/entities/guangfantechnology/"
@@ -23662,6 +23694,18 @@
   "GuangzhouAcademyOfFineArts": {
     "title": "广州美术学院 / Guangzhou Academy of Fine Arts",
     "url": "/wiki/entities/guangzhouacademyoffinearts/"
+  },
+  "GuangzhouFC": {
+    "title": "广州队 / Guangzhou FC",
+    "url": "/wiki/entities/guangzhoufc/"
+  },
+  "GuangzhouLeopard": {
+    "title": "广州豹 / Guangzhou Leopard",
+    "url": "/wiki/entities/guangzhouleopard/"
+  },
+  "GuangzhouSportUniversity": {
+    "title": "广州体育学院 / Guangzhou Sport University",
+    "url": "/wiki/entities/guangzhousportuniversity/"
   },
   "GuantanamoBay": {
     "title": "Guantanamo Bay",
@@ -35463,6 +35507,10 @@
     "title": "Marc Raibert",
     "url": "/wiki/entities/marcraibert/"
   },
+  "MarcelloLippi": {
+    "title": "Marcello Lippi / 里皮",
+    "url": "/wiki/entities/marcellolippi/"
+  },
   "MarchHare": {
     "title": "March Hare / 三月兔",
     "url": "/wiki/entities/marchhare/"
@@ -38831,6 +38879,10 @@
     "title": "Natural Wine",
     "url": "/wiki/concepts/naturalwine/"
   },
+  "NaturalizedPlayerPolicyInChineseFootball": {
+    "title": "Naturalized Player Policy In Chinese Football",
+    "url": "/wiki/concepts/naturalizedplayerpolicyinchinesefootball/"
+  },
   "NatureCityProximity": {
     "title": "Nature-City Proximity / 城市自然邻近",
     "url": "/wiki/concepts/naturecityproximity/"
@@ -41338,6 +41390,10 @@
   "PanMei": {
     "title": "潘美 / Pan Mei",
     "url": "/wiki/entities/panmei/"
+  },
+  "PanWeili": {
+    "title": "潘伟力 / Pan Weili",
+    "url": "/wiki/entities/panweili/"
   },
   "PanXulun": {
     "title": "潘序伦",
@@ -60359,6 +60415,10 @@
     "title": "醯落 / Xiluo (Southern Xiongnu)",
     "url": "/wiki/entities/xiluosouthernxiongnu/"
   },
+  "Ximalaya": {
+    "title": "喜马拉雅 / Ximalaya",
+    "url": "/wiki/entities/ximalaya/"
+  },
   "XimenBao": {
     "title": "西门豹 / Ximen Bao",
     "url": "/wiki/entities/ximenbao/"
@@ -67682,6 +67742,10 @@
   "vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd": {
     "title": "VOL.221对话大白牛：掉肌肉、易抑郁、停药必反弹？撕掉“神药”滤镜",
     "url": "/wiki/sources/vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd/"
+  },
+  "vol-225-hengda-de-zuqiu-yichan-ft-panweili-gkwrijeozrpkafcpbatn-ivb": {
+    "title": "Vol.225 恒大的足球遗产 ft.潘伟力",
+    "url": "/wiki/sources/vol-225-hengda-de-zuqiu-yichan-ft-panweili-gkwrijeozrpkafcpbatn-ivb/"
   },
   "vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244": {
     "title": "Vol.245 五周年，你身边的商业就是这样",

@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-07
-as_of_overview_commit: f3843c915af1f8957374681190a0172aa41e6a54
+as_of_overview_commit: 8ab9f3b43ed7621a2fc520e04515faa4441cd8c0
 summary: "Across AI, markets, culture, governance, health, work, and history, value depends on evidence, fit, capacity, trust, boundaries, and accountable judgment."
-episode_count: 1968
-source_count: 1968
-paragraph_count: 567
+episode_count: 1969
+source_count: 1969
+paragraph_count: 568
 topic_count: 8
 ---
 
@@ -50,7 +50,7 @@ Culture and media sources emphasize authorship, identity, attention, embodied ex
 
 ### Governance and Institutions
 
-Governance becomes real through process boundaries, accountability, correction mechanisms, implementation capacity, and legitimacy checks across privacy, policing, AI rules, and public infrastructure.
+Governance becomes real through process boundaries, accountability, correction mechanisms, implementation capacity, and legitimacy checks across privacy, policing, AI rules, public infrastructure, and sports institutions.
 
 - [[trump-drinks-venezuelas-milkshake]] and [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]] now make Venezuela oil reopening a resource-sovereignty governance case with both historical and current stakes: [[Venezuela]] may need outside capital to revive [[PDVSA]], but [[OilReopeningBacklash]], [[OilNationalization]], [[OilConcessionBargaining]], [[PoliticalResourceCurse]], [[NorthAmericanBlueEnergyPartners]], and [[MariaCorinaMachado]] show why long, U.S.-linked concession terms can turn economic repair into authority, constitutional, and legitimacy risk. Evidence: [[trump-drinks-venezuelas-milkshake]], [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]], [[Venezuela]], [[PDVSA]], [[OilReopeningBacklash]], [[OilNationalization]], [[OilConcessionBargaining]], [[PoliticalResourceCurse]], [[NorthAmericanBlueEnergyPartners]], [[MariaCorinaMachado]], [[HugoChavez]], [[NicolasMaduro]], [[JoseAngelPereira]].
 - Federal biometric policing needs sharper process boundaries when civil detention becomes criminal database infrastructure: [[USDepartmentOfHomelandSecurity]] and [[USImmigrationAndCustomsEnforcement]] DNA collection feeding [[CODIS]] through [[FederalBureauOfInvestigation]] turns [[ImmigrationDNADatabaseExpansion]] into an [[EnforcementAgencyDataSharing]] and [[CivilLibertiesSurveillanceRisk]] problem, while [[CompelledDNASamplingFourthAmendment]], [[MarylandVKing]], and [[BriggsVMullen]] keep legality contested around probable cause, retention, age-threshold compliance, and future police searches. Evidence: [[tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128]], [[USDepartmentOfHomelandSecurity]], [[USImmigrationAndCustomsEnforcement]], [[FederalBureauOfInvestigation]], [[CODIS]], [[ImmigrationDNADatabaseExpansion]], [[EnforcementAgencyDataSharing]], [[CivilLibertiesSurveillanceRisk]], [[CompelledDNASamplingFourthAmendment]], [[MarylandVKing]], [[BriggsVMullen]], [[GeneticLineupPrivacyRisk]], [[FourthAmendmentDigitalPrivacy]], [[GeorgetownLawCenterOnPrivacyTechnology]], [[StevieGleiberson]].
@@ -78,7 +78,7 @@ Science, health, and climate findings require mechanism, measurement, escalation
 
 ### Work, Education, and Society
 
-Work, education, and society claims treat learning, careers, AI practice, travel competence, and care labor as systems of tools, roles, incentives, trust, communication, and public support.
+Work, education, and society claims treat learning, careers, AI practice, travel competence, care labor, and youth-development pathways as systems of tools, roles, incentives, trust, communication, and public support.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

@@ -3,18 +3,30 @@
 generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
-last_updated: 2026-09-06
-as_of_overview_commit: e4baeb803f489f8acd288fa8e8945b2d2f699db9
-input_digest: 4893fe50561a59355b454c2ce1898cbd18f4b699ebeeeddadfe5eeccd3a9c2af
+last_updated: 2026-09-07
+as_of_overview_commit: 8ab9f3b43ed7621a2fc520e04515faa4441cd8c0
+input_digest: 63166038d92941a84533d38bcbe267fe2cc5b63ebf7baeb6216905a04be50296
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-The Cathay Pacific / 声东击西 roundtable adds an aviation-governance branch: airport approvals, airspace limits, route subsidies, cargo infrastructure, and hub planning show infrastructure as a governing allocation system for city access, not just a transport market. Hanji 1070 adds a late-Han governance case in which post-victory rule depends on turning military advantage into credible settlement: coerced oath-taking, loyal refusal, formal title rewards, rebel-force incorporation, renewed Youzhou violence, and Hedong commandery handoff all test whether nominal submission becomes usable authority. The latest All-In episode still extends governance synthesis through Venezuelan oil legitimacy risk and New York City school AI boundaries; broader governance synthesis continues to center institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the gap between nominal authority and usable capacity. The community-banking AI episode adds a private-sector governance branch in which small-bank efficiency gains are bounded by fair-lending proxy risk, privacy, third-party vendor oversight, institutional values, and human accountability for credit decisions.
+The Evergrande football legacy source adds a sports-governance boundary case: Guangzhou FC and Evergrande Football School show how corporate collapse, youth-development assets, supporter identity, salary escalation, commercial norms, national-team pressure, and naturalized-player spending can remain entangled after the original developer project fails. The Cathay Pacific / 声东击西 roundtable adds an aviation-governance branch: airport approvals, airspace limits, route subsidies, cargo infrastructure, and hub planning show infrastructure as a governing allocation system for city access, not just a transport market. Hanji 1070 adds a late-Han governance case in which post-victory rule depends on turning military advantage into credible settlement: coerced oath-taking, loyal refusal, formal title rewards, rebel-force incorporation, renewed Youzhou violence, and Hedong commandery handoff all test whether nominal submission becomes usable authority. Broader governance synthesis continues to center institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the gap between nominal authority and usable capacity.
 
 ## Cross-source Findings
+
+### Evergrande Football Legacy Splits Assets From Institutional Damage
+
+[[vol-225-hengda-de-zuqiu-yichan-ft-panweili-gkwrijeozrpkafcpbatn-ivb|Vol.225]] adds a sports-governance case where [[Evergrande]] football must be split into assets and institutional damage: [[GuangzhouFC]] and [[AFCChampionsLeague]] preserve sporting achievement, [[EvergrandeFootballSchool]] and [[GuangzhouSportUniversity]] preserve youth-development infrastructure, while [[ChineseFootballGoldenYuanEra]], [[ClubNationalTeamBoundaryBlur]], [[NaturalizedPlayerPolicyInChineseFootball]], and [[MarcelloLippi]] show how spending, salary expectations, commercial-contract norms, and national-team demands can distort professional football institutions.
+
+**Evidence:** [[vol-225-hengda-de-zuqiu-yichan-ft-panweili-gkwrijeozrpkafcpbatn-ivb]], [[Evergrande]], [[GuangzhouFC]], [[AFCChampionsLeague]], [[EvergrandeFootballSchool]], [[GuangzhouSportUniversity]], [[ChineseFootballGoldenYuanEra]], [[ClubNationalTeamBoundaryBlur]], [[NaturalizedPlayerPolicyInChineseFootball]], [[MarcelloLippi]], [[ChineseSuperLeague]], [[FootballClubAsCommunityAsset]], [[SoftBudgetFootballClubs]]
+
+**Qualifications:**
+
+- This is source-scoped to one football podcast episode and should not be treated as a complete official history of Evergrande football or Chinese football governance.
+- Future Guangzhou team relocation or merger possibilities, supporter-share forecasts, naturalization costs, and precise institutional motives remain source-scoped.
+- The claim separates football assets and achievements from corporate/legal wrongdoing without excusing the latter.
 
 ### Late Han 1070 Surrender Legitimacy And Commandery Handoff
 

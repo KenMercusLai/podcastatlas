@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2482
+topic_total_pages: 2484
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1036,6 +1036,9 @@ topic_concepts:
   - key: "FootballPlayerSafetyTrustRisk"
     title: "Football Player Safety Trust Risk"
     url: "/wiki/concepts/footballplayersafetytrustrisk/"
+  - key: "FootballYouthAcademyContinuity"
+    title: "Football Youth Academy Continuity"
+    url: "/wiki/concepts/footballyouthacademycontinuity/"
   - key: "FounderIdentityNarrativeRisk"
     title: "Founder Identity Narrative Risk"
     url: "/wiki/concepts/founderidentitynarrativerisk/"
@@ -6104,6 +6107,9 @@ topic_entities:
   - key: "PingyaoInternationalFilmFestival"
     title: "平遥国际电影展 / Pingyao International Film Festival"
     url: "/wiki/entities/pingyaointernationalfilmfestival/"
+  - key: "GuangzhouSportUniversity"
+    title: "广州体育学院 / Guangzhou Sport University"
+    url: "/wiki/entities/guangzhousportuniversity/"
   - key: "PangLuan"
     title: "庞乱 / Pang Luan"
     url: "/wiki/entities/pangluan/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.225 恒大的足球遗产 ft.潘伟力](sources/vol-225-hengda-de-zuqiu-yichan-ft-panweili-gkwrijeozrpkafcpbatn-ivb.md) — 不懂球 episode with Pan Weili on Evergrande Football School, Guangzhou FC's legacy, the Chinese football golden-yuan era, club-national-team boundary blur, and post-Evergrande Guangzhou supporter continuity.
 - [美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？](sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226.md) — 声动早咖啡 episode on mini beauty products becoming standalone merchandise through lower trial cost, faster trend cycles, fragrance wardrobes, accessorization, retail display, and supply-chain complexity.
 - [漫长的告别：失智症、照护者与终将老去的我们](sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez.md) — 不合时宜 episode with 唐勇 on dementia care, family caregiver burden, Shenzhen elder-care services, the Hogeweyk dementia village, and China's long-term-care-insurance limits.
 - [从基因编辑女童之死说起：自闭症不是需要被修复的错误](sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b.md) — 不合时宜 episode with Xu Yue on the Xiaomei gene-editing case, ableist cure pressure, autism as difference, early intervention, and support systems.
@@ -8562,9 +8563,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hoover Institution](entities/HooverInstitution.md) — Policy research institution named as Dan Wang's affiliation.
 - [Desmond Shum](entities/DesmondShum.md) — Property developer whose airport-logistics deal grounds the real-estate boom case.
 - [Whitney Duan](entities/WhitneyDuan.md) — Desmond Shum's business partner in the airport-logistics development story.
-- [Evergrande](entities/Evergrande.md) — Chinese property developer used as the central high-turnover, hidden-debt, wealth-product, and home-delivery crisis case.
-- [Xu Jiayin](entities/XuJiayin.md) — Evergrande founder whose rise, richest-person peak, financing model, and reported legal endpoint symbolize property-boom excess.
+- [Evergrande](entities/Evergrande.md) — Chinese property developer used as the central high-turnover, hidden-debt, wealth-product, home-delivery crisis, and football-legacy case.
+- [Xu Jiayin](entities/XuJiayin.md) — Evergrande founder whose rise, financing model, reported legal endpoint, football patronage, and overextension symbolize boom-era excess.
 - [Evergrande Wealth / 恒大财富](entities/EvergrandeWealth.md) — Evergrande-linked wealth-product arm whose failed repayment spread the developer crisis to employees, owners, and retail investors.
+- [不懂球 / Budongqiu](entities/Budongqiu.md) — Football podcast context for the Evergrande football legacy conversation.
+- [喜马拉雅 / Ximalaya](entities/Ximalaya.md) — Chinese audio platform used as the source URL and podcast distribution context for the Budongqiu episode.
+- [潘伟力 / Pan Weili](entities/PanWeili.md) — Football reporter and commentator interpreting Evergrande Football School, Guangzhou FC memory, and post-Evergrande supporter continuity.
+- [恒大足校 / Evergrande Football School](entities/EvergrandeFootballSchool.md) — Surviving Evergrande football academy asset now tied to Guangzhou Sport University and youth-development continuity.
+- [广州体育学院 / Guangzhou Sport University](entities/GuangzhouSportUniversity.md) — Sports-education institution that acquired and stabilized the former Evergrande Football School in the source.
+- [广州队 / Guangzhou FC](entities/GuangzhouFC.md) — Evergrande-era club whose titles, academy pipeline, disappearance, and supporter memory anchor the football legacy discussion.
+- [广东陈兴聚力 / Guangdong Chenxing Juli](entities/GuangdongChenxingJuli.md) — Lower-tier team carrying former academy players and partial Guangzhou FC supporter continuity.
+- [广州豹 / Guangzhou Leopard](entities/GuangzhouLeopard.md) — New Guangzhou club whose promotion path raises the difference between city-football return and Guangzhou FC lineage.
+- [亚冠 / AFC Champions League](entities/AFCChampionsLeague.md) — Continental benchmark for Guangzhou FC's two Asian titles and hard-to-repeat Evergrande-era achievement.
+- [Marcello Lippi / 里皮](entities/MarcelloLippi.md) — Coach figure used by the source to show Evergrande's club model crossing into China national-team governance.
 - [Ren Zeping / 任泽平](entities/RenZeping.md) — Economist used by EP93 as a boom-era housing-price confidence signal during Evergrande's 2017 peak.
 - [Xi Jinping](entities/XiJinping.md) — Chinese leader whose anti-speculation housing line marks the policy pivot in the episode.
 - [Nancy Qian](entities/NancyQian.md) — Economist explaining China's youth unemployment, job scarcity, and productivity risk.
@@ -14767,6 +14778,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Football Manager Myth Deflation](concepts/FootballManagerMythDeflation.md) — Challenge to treating most coaches as decisive geniuses or scapegoats when outcomes also reflect squads, finance, data, and regression.
 - [Open Football Talent Markets](concepts/OpenFootballTalentMarkets.md) — Argument that open player, coach, capital, and knowledge flows can raise domestic football quality rather than simply displace locals.
 - [Soft-Budget Football Clubs](concepts/SoftBudgetFootballClubs.md) — Club-finance pattern where community identity, owner status, political access, and rescue expectations soften ordinary budget discipline.
+- [中国足球金元时代 / Chinese Football Golden-Yuan Era](concepts/ChineseFootballGoldenYuanEra.md) — Chinese professional-football spending era where multi-club arms races reset transfers, wages, and expectations.
+- [Football Youth Academy Continuity](concepts/FootballYouthAcademyContinuity.md) — Problem of preserving players, coaching, education, and professional outlets when a club or sponsor collapses.
+- [Football Club Legacy Transfer](concepts/FootballClubLegacyTransfer.md) — Contested movement of fan identity, academy lineage, and city football memory from a defunct club to successor institutions.
+- [Club-National Team Boundary Blur](concepts/ClubNationalTeamBoundaryBlur.md) — Governance risk when club resources and decisions become instruments of national-team or political goals.
+- [Naturalized Player Policy In Chinese Football](concepts/NaturalizedPlayerPolicyInChineseFootball.md) — Chinese football policy branch where foreign-born player recruitment becomes a national-team and club-incentive issue.
 - [Sports Mega-Event Welfare Accounting](concepts/SportsMegaEventWelfareAccounting.md) — Distinction between weak GDP-stimulus claims and broader welfare effects such as happiness, public rhythm, image, and uneven household risks.
 - [Psychological Realism / 心理现实主义](concepts/PsychologicalRealism.md) — Literary method where inner movement, motive, shame, desire, and contradiction drive plot rather than merely decorating it.
 - [Class Mobility Performance / 阶级上升表演](concepts/ClassMobilityPerformance.md) — Pattern where upward movement requires higher-status codes or, in Su Qin's adjacent case, becomes visible through public rank and wealth.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9179
+wiki_total_pages: 9189
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -896,6 +896,9 @@ wiki_pages:
   - key: "BuHeShiYi"
     title: "不合时宜 / Bu He Shi Yi"
     url: "/wiki/entities/buheshiyi/"
+  - key: "Budongqiu"
+    title: "不懂球 / Budongqiu"
+    url: "/wiki/entities/budongqiu/"
   - key: "Buxideng"
     title: "不熄灯 / Buxideng"
     url: "/wiki/entities/buxideng/"

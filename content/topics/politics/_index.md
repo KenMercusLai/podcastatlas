@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2218
+topic_total_pages: 2220
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -550,6 +550,9 @@ topic_concepts:
   - key: "ClimateAidRetrenchment"
     title: "Climate Aid Retrenchment"
     url: "/wiki/concepts/climateaidretrenchment/"
+  - key: "ClubNationalTeamBoundaryBlur"
+    title: "Club-National Team Boundary Blur"
+    url: "/wiki/concepts/clubnationalteamboundaryblur/"
   - key: "CoalitionSelfPreservationFailure"
     title: "Coalition Self-Preservation Failure / 联盟自保失灵"
     url: "/wiki/concepts/coalitionselfpreservationfailure/"
@@ -1918,6 +1921,9 @@ topic_concepts:
   - key: "NaturalHazardSocialDisaster"
     title: "Natural Hazard As Social Disaster"
     url: "/wiki/concepts/naturalhazardsocialdisaster/"
+  - key: "NaturalizedPlayerPolicyInChineseFootball"
+    title: "Naturalized Player Policy In Chinese Football"
+    url: "/wiki/concepts/naturalizedplayerpolicyinchinesefootball/"
   - key: "NatureLawLegalJustice"
     title: "Nature-Law / Legal-Justice Conflict / 自然法则与法律正义冲突"
     url: "/wiki/concepts/naturelawlegaljustice/"

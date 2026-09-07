@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 9179
+wiki_total_pages: 9189
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -914,6 +914,9 @@ wiki_pages:
   - key: "PeiCounty"
     title: "沛县 / Pei County"
     url: "/wiki/entities/peicounty/"
+  - key: "PanWeili"
+    title: "潘伟力 / Pan Weili"
+    url: "/wiki/entities/panweili/"
   - key: "PanXulun"
     title: "潘序伦"
     url: "/wiki/entities/panxulun/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6566
+wiki_total_pages: 6571
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "NaturalWine"
     title: "Natural Wine"
     url: "/wiki/concepts/naturalwine/"
+  - key: "NaturalizedPlayerPolicyInChineseFootball"
+    title: "Naturalized Player Policy In Chinese Football"
+    url: "/wiki/concepts/naturalizedplayerpolicyinchinesefootball/"
   - key: "NatureContactSelfPerception"
     title: "Nature Contact And Self-Perception"
     url: "/wiki/concepts/naturecontactselfperception/"
