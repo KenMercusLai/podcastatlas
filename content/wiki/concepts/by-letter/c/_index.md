@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6554
+wiki_total_pages: 6558
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -515,6 +515,9 @@ wiki_pages:
   - key: "ChinaLocalDebtResolution"
     title: "China Local Debt Resolution"
     url: "/wiki/concepts/chinalocaldebtresolution/"
+  - key: "ChinaLongTermCareInsurance"
+    title: "China Long-Term Care Insurance / 中国长期护理险"
+    url: "/wiki/concepts/chinalongtermcareinsurance/"
   - key: "ChinaLowRedistributionState"
     title: "China Low-Redistribution State"
     url: "/wiki/concepts/chinalowredistributionstate/"

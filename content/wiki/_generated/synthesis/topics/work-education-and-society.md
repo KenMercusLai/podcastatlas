@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-07
-as_of_overview_commit: a605f30cb12e720ff6624bd8248a41dee1b61ad2
-input_digest: 3f7350a505a2a74cd4ddb883077da3a1cd3c32343302b89cca0f2a3ba3a825d5
+as_of_overview_commit: c01afd665d9775ebd71e025e6fb3cbc041f36281
+input_digest: aeaffb62f4b7d0f6d6fc92d95d4842ac01fcca69e8943e6db7357bed7ef92124
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The Song Jia return conversation adds a work-and-society case where career pause, acting purpose, sensory character work, study-abroad disruption, and podcast process all become role-identity experiments rather than simple productivity stories. The Wu Hankun / 三五环 source adds a creator-work case: hands-on AI use can turn vague job-security anxiety into practical workflow knowledge, but actor substitution, likeness authorization, industry protection, and self-defined creative purpose remain work-and-society questions rather than pure model-capability questions. EP383 adds a travel-and-society case: South Africa is presented as a high-reward but complex destination where safety planning, museums, township tourism, Safari labor, education gaps, and contested Mandela memory make post-apartheid inequality visible without becoming a complete national diagnosis. Work, education, and society sources converge on a practical boundary problem: learning, career growth, institutional role transfer, creative and technical adoption, health routines, travel competence, and historical hierarchy cases all depend on fitting tools, status, incentives, evidence, and communication to the actual setting. The Duan Zhiqiang Bowuzhi episode adds a work-and-society labor boundary: chosen amateur farming can produce situated knowledge and writing material, but livelihood agriculture changes the stakes through crop loss, timing pressure, injury, neighbor judgment, and self-blame.
+The Bu He Shi Yi dementia-care episode adds a China-facing elder-care capacity case: family caregivers need public support, people with dementia retain dignity and biography, and care systems need trained labor, community services, environments, and insurance payment rather than sacrifice alone. The Song Jia return conversation adds a work-and-society case where career pause, acting purpose, sensory character work, study-abroad disruption, and podcast process all become role-identity experiments rather than simple productivity stories. The Wu Hankun / 三五环 source adds a creator-work case: hands-on AI use can turn vague job-security anxiety into practical workflow knowledge, but actor substitution, likeness authorization, industry protection, and self-defined creative purpose remain work-and-society questions rather than pure model-capability questions. EP383 adds a travel-and-society case: South Africa is presented as a high-reward but complex destination where safety planning, museums, township tourism, Safari labor, education gaps, and contested Mandela memory make post-apartheid inequality visible without becoming a complete national diagnosis. Work, education, and society sources converge on a practical boundary problem: learning, career growth, institutional role transfer, creative and technical adoption, health routines, travel competence, and historical hierarchy cases all depend on fitting tools, status, incentives, evidence, and communication to the actual setting. The Duan Zhiqiang Bowuzhi episode adds a work-and-society labor boundary: chosen amateur farming can produce situated knowledge and writing material, but livelihood agriculture changes the stakes through crop loss, timing pressure, injury, neighbor judgment, and self-blame.
 
 ## Cross-source Findings
 
@@ -640,3 +640,15 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 - The labor contrast is grounded in Duan Zhiqiang's self-description and examples, not in comparative agricultural economics.
 - Crop failures, land-security anecdotes, neighbor assessments, and family labor patterns should remain local and source-scoped.
 - The claim distinguishes practice-derived knowledge from livelihood dependence without implying amateur farming is socially equivalent to farmer work.
+
+### Dementia Care Turns Family Duty Into Public Care Capacity
+
+[[manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez|The Bu He Shi Yi dementia-care episode]] turns family aging anxiety into a public care-capacity claim: [[TangYongSociologist]], [[DementiaCareSocialSupportSystem]], [[DementiaCaregiverBurden]], [[DementiaPersonhoodMemory]], and [[ChinaLongTermCareInsurance]] show that dementia support requires trained labor, community services, care environments, insurance payment, and dignity rather than family sacrifice alone.
+
+**Evidence:** [[manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez]], [[BuHeShiYi]], [[TangYongSociologist]], [[YiWangDeShiJieDementiaCareBook]], [[HogeweykDementiaVillage]], [[DementiaCareSocialSupportSystem]], [[DementiaCaregiverBurden]], [[DementiaPersonhoodMemory]], [[ChinaLongTermCareInsurance]], [[CareSocialization]], [[ElderCareStateCapacity]], [[LongTermCareInsurancePlanning]]
+
+**Qualifications:**
+
+- The source is a podcast summary centered on Tang Yong and Shenzhen-linked dementia-care fieldwork, not a national service-capacity survey.
+- Shenzhen service observations and 2026 long-term-care-insurance implementation details remain source-scoped.
+- The claim belongs to elder-care and public support systems rather than individualized medical or legal advice.

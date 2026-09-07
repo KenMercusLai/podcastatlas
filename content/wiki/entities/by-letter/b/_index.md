@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9166
+wiki_total_pages: 9170
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -893,6 +893,9 @@ wiki_pages:
   - key: "BirdsAreInteresting"
     title: "《鸟有什么好看的》 / Birds Are Interesting"
     url: "/wiki/entities/birdsareinteresting/"
+  - key: "BuHeShiYi"
+    title: "不合时宜 / Bu He Shi Yi"
+    url: "/wiki/entities/buheshiyi/"
   - key: "Buxideng"
     title: "不熄灯 / Buxideng"
     url: "/wiki/entities/buxideng/"

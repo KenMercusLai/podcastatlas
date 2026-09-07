@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "33cce1ac0b363bdc5c3e1b5568de2dc9816db4cea40dc459a5073223be5a7c39",
       "89fb39ee3458c07f54166f321ade0c95f2ff4679255bd5f2731469e5b1175b23",
       "5a5401156e42ac54bdb8ac1f79fed28a6d6902f1e64e18ba6a3c34c5c5549939",
       "f8696f49f84ba3bd8d4aec8e12e8fa2f3d873b4fb737ede0a6e157fa605f82d5",
@@ -565,11 +566,37 @@
       "013189bd78693c4f9ddd24154fb4e85b4d94868b1b336af988b43dbee9411c03",
       "ed605f497963461eb9bc9c968de448aa46b9f90dddac4016b47d57e3c144fc1a"
     ],
-    "paragraph_count": 563
+    "paragraph_count": 564
   },
-  "overview_commit": "1ea8dd3f4c4e1f73a69b0a3e408edc7c76dee46c",
-  "overview_digest": "cf9b28ab519890ac838580d4f6403e5de6bbc794d88595822dfb622df8fd0ca6",
+  "overview_commit": "c01afd665d9775ebd71e025e6fb3cbc041f36281",
+  "overview_digest": "968e21f9f652ee9873c5bbed3772eba7adfee4c2f65cfc09d9a54d2fccef82e9",
   "paragraphs": [
+    {
+      "id": "33cce1ac0b363bdc5c3e1b5568de2dc9816db4cea40dc459a5073223be5a7c39",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez|漫长的告别：失智症、照护者与终将老去的我们]], a [[BuHeShiYi|不合时宜]] episode with [[TangYongSociologist|唐勇]] on [[YiWangDeShiJieDementiaCareBook|《遗忘的世界：失智老人的照护图景》]], dementia older adults, family caregivers, and China-facing elder-care systems. It adds [[BuHeShiYi|不合时宜]], [[TangYongSociologist|唐勇]], [[YiWangDeShiJieDementiaCareBook|《遗忘的世界：失智老人的照护图景》]], [[HogeweykDementiaVillage|Hogeweyk dementia village]], [[DementiaCareSocialSupportSystem|失智照护社会支持系统]], [[DementiaCaregiverBurden|失智照护者负担]], [[DementiaPersonhoodMemory|失智者人格与记忆]], and [[ChinaLongTermCareInsurance|中国长期护理险]], while extending [[CareSocialization]], [[ElderCareStateCapacity]], and [[LongTermCareInsurancePlanning]]. Its core synthesis is that dementia care cannot be reduced to family sacrifice, drug treatment, or institutional placement: people with dementia retain biography and dignity, caregivers need relief and knowledge, and usable support requires trained labor, community services, care environments, insurance payment, and public capacity. No settled contradiction is recorded; the episode complements dementia-prevention pages by focusing on care after decline appears, and keeps Shenzhen service observations and 2026 long-term-care-insurance implementation claims source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "BuHeShiYi",
+        "CareSocialization",
+        "ChinaLongTermCareInsurance",
+        "DementiaCareSocialSupportSystem",
+        "DementiaCaregiverBurden",
+        "DementiaPersonhoodMemory",
+        "ElderCareStateCapacity",
+        "HogeweykDementiaVillage",
+        "LongTermCareInsurancePlanning",
+        "TangYongSociologist",
+        "YiWangDeShiJieDementiaCareBook",
+        "manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez"
+      ]
+    },
     {
       "id": "89fb39ee3458c07f54166f321ade0c95f2ff4679255bd5f2731469e5b1175b23",
       "primary_topic": "culture-and-media",

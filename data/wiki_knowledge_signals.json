@@ -8359,6 +8359,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/bruceschneier/"
     },
+    "BuHeShiYi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
+          "key": "manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez",
+          "show": "不合时宜",
+          "title": "漫长的告别：失智症、照护者与终将老去的我们",
+          "url": "/wiki/sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/buheshiyi/"
+    },
     "BuYangLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -9605,6 +9621,36 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/cardiovascularexerciseriskboundary/"
+    },
+    "CareSocialization": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士 [lgokB_l-NVNqssTFzLQWhtNKqzhp].md",
+          "key": "147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp",
+          "show": "起朱楼宴宾客",
+          "title": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士",
+          "url": "/wiki/sources/147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp/"
+        },
+        {
+          "episode_file": "EP241 校企合作是新一代的“铁饭碗”吗？ [lnmpSBVoQBexeaRdXYX88HyWUfig].md",
+          "key": "ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig",
+          "show": "Talk三联",
+          "title": "EP241 校企合作是新一代的“铁饭碗”吗？",
+          "url": "/wiki/sources/ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig/"
+        },
+        {
+          "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
+          "key": "manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez",
+          "show": "不合时宜",
+          "title": "漫长的告别：失智症、照护者与终将老去的我们",
+          "url": "/wiki/sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/caresocialization/"
     },
     "CareerCognitionEducation": {
       "episode_count": 2,
@@ -11177,6 +11223,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/chinahomesharingsupplymotivation/"
+    },
+    "ChinaLongTermCareInsurance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
+          "key": "manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez",
+          "show": "不合时宜",
+          "title": "漫长的告别：失智症、照护者与终将老去的我们",
+          "url": "/wiki/sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/chinalongtermcareinsurance/"
     },
     "ChinaRealEstateDebtCycle": {
       "episode_count": 5,
@@ -15611,6 +15673,54 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/deliaowens/"
     },
+    "DementiaCareSocialSupportSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
+          "key": "manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez",
+          "show": "不合时宜",
+          "title": "漫长的告别：失智症、照护者与终将老去的我们",
+          "url": "/wiki/sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/dementiacaresocialsupportsystem/"
+    },
+    "DementiaCaregiverBurden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
+          "key": "manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez",
+          "show": "不合时宜",
+          "title": "漫长的告别：失智症、照护者与终将老去的我们",
+          "url": "/wiki/sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/dementiacaregiverburden/"
+    },
+    "DementiaPersonhoodMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
+          "key": "manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez",
+          "show": "不合时宜",
+          "title": "漫长的告别：失智症、照护者与终将老去的我们",
+          "url": "/wiki/sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/dementiapersonhoodmemory/"
+    },
     "DemisHassabis": {
       "episode_count": 5,
       "show_count": 4,
@@ -18747,6 +18857,71 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/elanparadoxmachines/"
+    },
+    "ElderCareStateCapacity": {
+      "episode_count": 8,
+      "show_count": 5,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士 [lgokB_l-NVNqssTFzLQWhtNKqzhp].md",
+          "key": "147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp",
+          "show": "起朱楼宴宾客",
+          "title": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士",
+          "url": "/wiki/sources/147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp/"
+        },
+        {
+          "episode_file": "vol.120.日本医疗体系的崩溃与重生：医院、药品、医保三角困局的一种解法 [lp_p5p1cybBLdPHe0QajtegGSiTt].md",
+          "key": "vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt",
+          "show": "起朱楼宴宾客",
+          "title": "vol.120.日本医疗体系的崩溃与重生：医院、药品、医保三角困局的一种解法",
+          "url": "/wiki/sources/vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt/"
+        },
+        {
+          "episode_file": "vol.118.单身人士养老指南：不是孤独的代名词，是更早掌握人生的主动权 [lhVKuvEzNxd4CItLwf5MArZAJ_WT].md",
+          "key": "vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt",
+          "show": "起朱楼宴宾客",
+          "title": "vol.118.单身人士养老指南：不是孤独的代名词，是更早掌握人生的主动权",
+          "url": "/wiki/sources/vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt/"
+        },
+        {
+          "episode_file": "165.银发川柳：用幽默面对老年，咱们来写打油诗 [944213646].md",
+          "key": "165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646",
+          "show": "蜜獾吃书",
+          "title": "165.银发川柳：用幽默面对老年，咱们来写打油诗",
+          "url": "/wiki/sources/165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646/"
+        },
+        {
+          "episode_file": "Peace fire： further US-Iran strikes [6a4f7acffe878dc8e27e6fbf].md",
+          "key": "peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf",
+          "show": "Economist Podcasts",
+          "title": "Peace fire: further US-Iran strikes",
+          "url": "/wiki/sources/peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf/"
+        },
+        {
+          "episode_file": "EP241 校企合作是新一代的“铁饭碗”吗？ [lnmpSBVoQBexeaRdXYX88HyWUfig].md",
+          "key": "ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig",
+          "show": "Talk三联",
+          "title": "EP241 校企合作是新一代的“铁饭碗”吗？",
+          "url": "/wiki/sources/ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig/"
+        },
+        {
+          "episode_file": "Working memory： the surprising decline of dementia [6a6b0eeca585d3be78cd9d1b].md",
+          "key": "working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b",
+          "show": "Economist Podcasts",
+          "title": "Working memory: the surprising decline of dementia",
+          "url": "/wiki/sources/working-memory-the-surprising-decline-of-dementia-6a6b0eeca585d3be78cd9d1b/"
+        },
+        {
+          "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
+          "key": "manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez",
+          "show": "不合时宜",
+          "title": "漫长的告别：失智症、照护者与终将老去的我们",
+          "url": "/wiki/sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/eldercarestatecapacity/"
     },
     "ElectionAdministrationTrust": {
       "episode_count": 2,
@@ -30555,6 +30730,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/hofburgpalace/"
     },
+    "HogeweykDementiaVillage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
+          "key": "manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez",
+          "show": "不合时宜",
+          "title": "漫长的告别：失智症、照护者与终将老去的我们",
+          "url": "/wiki/sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/hogeweykdementiavillage/"
+    },
     "HomeServiceRobots": {
       "episode_count": 5,
       "show_count": 4,
@@ -41388,6 +41579,50 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/longtermachievementdiscipline/"
+    },
+    "LongTermCareInsurancePlanning": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士 [lgokB_l-NVNqssTFzLQWhtNKqzhp].md",
+          "key": "147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp",
+          "show": "起朱楼宴宾客",
+          "title": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士",
+          "url": "/wiki/sources/147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp/"
+        },
+        {
+          "episode_file": "vol.120.日本医疗体系的崩溃与重生：医院、药品、医保三角困局的一种解法 [lp_p5p1cybBLdPHe0QajtegGSiTt].md",
+          "key": "vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt",
+          "show": "起朱楼宴宾客",
+          "title": "vol.120.日本医疗体系的崩溃与重生：医院、药品、医保三角困局的一种解法",
+          "url": "/wiki/sources/vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt/"
+        },
+        {
+          "episode_file": "vol.118.单身人士养老指南：不是孤独的代名词，是更早掌握人生的主动权 [lhVKuvEzNxd4CItLwf5MArZAJ_WT].md",
+          "key": "vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt",
+          "show": "起朱楼宴宾客",
+          "title": "vol.118.单身人士养老指南：不是孤独的代名词，是更早掌握人生的主动权",
+          "url": "/wiki/sources/vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt/"
+        },
+        {
+          "episode_file": "137. 三更半夜居然要吃香蕉：是的，再来一根 [835431951].md",
+          "key": "137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951",
+          "show": "蜜獾吃书",
+          "title": "137. 三更半夜居然要吃香蕉：是的，再来一根",
+          "url": "/wiki/sources/137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951/"
+        },
+        {
+          "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
+          "key": "manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez",
+          "show": "不合时宜",
+          "title": "漫长的告别：失智症、照护者与终将老去的我们",
+          "url": "/wiki/sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/longtermcareinsuranceplanning/"
     },
     "LonghuaAirport": {
       "episode_count": 1,
@@ -64285,6 +64520,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/tangxuanlatehan/"
     },
+    "TangYongSociologist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
+          "key": "manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez",
+          "show": "不合时宜",
+          "title": "漫长的告别：失智症、照护者与终将老去的我们",
+          "url": "/wiki/sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/tangyongsociologist/"
+    },
     "TanshihuaiXianbei": {
       "episode_count": 5,
       "show_count": 1,
@@ -73701,6 +73952,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/yishu/"
+    },
+    "YiWangDeShiJieDementiaCareBook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
+          "key": "manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez",
+          "show": "不合时宜",
+          "title": "漫长的告别：失智症、照护者与终将老去的我们",
+          "url": "/wiki/sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/yiwangdeshijiedementiacarebook/"
     },
     "YidaiZhao": {
       "episode_count": 1,

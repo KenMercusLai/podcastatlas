@@ -2,29 +2,51 @@
 title: "Care Socialization / 照护社会化"
 type: concept
 tags: [care, aging, labor, family, social-policy]
-sources: [147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp, ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]
-last_updated: 2026-08-07
+sources:
+  - 147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp
+  - ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig
+  - manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez
+knowledge_schema: synthesis-v1
+last_updated: 2026-09-07
 ---
 
 # Care Socialization / 照护社会化
 
-Care socialization is the shift from treating care as a private family duty toward making it a shared social, professional, and institutional responsibility. [[147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp]] develops the concept through [[QiongQiong|琼琼]]'s Japanese nursing experience, [[ChudongZahuopu|触动杂货铺]], and her interest in [[CareSociology]].
+## Definition
+Care socialization / 照护社会化 is the shift from treating care as a private family duty toward making care a socially recognized, trained, paid, accountable, and publicly supported responsibility.
 
-The source contrasts Japanese hospital and care practice with Chinese settings where relatives or third-party caregivers often absorb bedside work. Socialization does not mean care becomes cold or purely bureaucratic; it means responsibility, training, pay, staffing, equipment, rights, and accountability become visible enough to be discussed and improved.
+## Current Synthesis
+The bounded evidence now spans Japanese hospital and long-term-care practice, Chinese vocational elder-care training, and China-facing dementia family fieldwork. Across those settings, the same pattern holds: family affection can motivate care, but it cannot substitute for staffing, training, payment, equipment, respite, community services, and the cared-for person's own voice.
 
-[[ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]] adds the vocational-training pipeline. [[ElderCareWorkforce|养老照护人才]] requires students to meet real older people earlier because classroom simulation cannot fully teach refusal, emotion, dementia, bodily assistance, and the everyday work that family members or untrained carers often absorb.
+The current synthesis is that socialized care should not mean cold institutional control. It should make invisible labor visible enough to fund, train, coordinate, and supervise, while protecting the person receiving care from both family exhaustion and institutional convenience. Dementia care sharpens this claim because long decline, behavioral change, and non-recognition can overwhelm even loving families when external supports are thin.
 
 ## Key Claims
 - Family care can contain love, but it can also contain hierarchy, exhaustion, emotional debt, and invisible labor.
-- Moving care into social systems can protect both the cared-for person and relatives, but only if the work is funded, staffed, and respected.
-- Care labor's low pay and heavy workload can damage care quality by producing resentment that falls back on vulnerable people.
-- The cared-for person's agency remains essential; socialized care should support [[SubjectLedCare]], not just replace family control with institutional control.
-- Professionalization depends on making elder-care work trainable, paid, and socially recognized enough for students to remain in it.
+- Socialized care protects both the cared-for person and relatives only when the work is funded, staffed, trained, and respected.
+- Professionalization depends on real care exposure, not just classroom simulation, because refusal, dementia, emotion, toileting, feeding, and bodily help are learned in practice.
+- Care systems must preserve [[SubjectLedCare]] and [[PatientDignityInDailyCare]], not simply replace family control with institutional control.
+- Dementia care shows why sacrifice cannot be the default long-term solution: families need community services, specialist labor, respite, institutions, and payment support.
 
-## Connections
-- [[CareSociology]], [[UenoChizuko|上野千鹤子]], and [[ChudongZahuopu|触动杂货铺]] - intellectual and media branch.
-- [[JapaneseNoFamilyAttendantCare]] and [[MedicalSocialWorkDischargeCoordination]] - hospital-practice branch.
-- [[PatientDignityInDailyCare]] and [[SubjectLedCare]] - ethics branch.
-- [[ElderCareStateCapacity]], [[AgingInPlaceSupportSystem]], and [[LongTermCareInsurancePlanning]] - system-capacity and financing branch.
-- [[China]] and [[Japan]] - comparison settings.
-- [[ElderCareWorkforce]], [[MinzhengVocationalUniversity]], [[TaikangHome]], and [[SchoolEnterpriseCooperation]] - EP241's vocational elder-care pipeline.
+## Evidence
+- Japanese ward and discharge practice - [[147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp]] shows how no-family-attendant care, multidisciplinary teams, medical social work, bathing, eating, and discharge coordination move practical care out of invisible household improvisation.
+- Care ethics and subjecthood - [[147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp]] ties socialized care to [[CareSociology]], [[SubjectLedCare]], and daily dignity rather than to family replacement alone.
+- Workforce pipeline - [[ep241-xiaoqi-hezuo-shi-xinyidai-de-tiefanwan-ma-lnmpsbvoqbexeardxyx88hywufig]] argues that elder-care students need real settings because mannequins and peer simulation cannot fully teach frailty, dementia, refusal, emotion, and intimate daily assistance.
+- Dementia family burden - [[manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez]] describes caregivers facing job exit, depression, divorce, housing costs, professional-service gaps, and the emotional strain of gradual recognition loss.
+- Financing and service access - [[manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez]] links dementia care socialization to long-term-care insurance, assessment, service payment, and the availability of trained workers and specialized places.
+
+## Counterevidence & Qualifications
+The evidence is qualitative and source-scoped. Japanese examples should not be copied as a solved model without attention to payment, staffing, and local institutions. Chinese vocational and dementia examples show need and mechanisms, but they do not provide national measurement of service quality, coverage, wages, or family outcomes.
+
+## What Changed
+- Migrated the page to synthesis-v1 while preserving the original source order.
+- Added the dementia-care episode as evidence that family-only sacrifice becomes unsustainable when long cognitive decline requires specialized support.
+- Tightened the concept around labor visibility, dignity, and service financing rather than a simple family-versus-institution contrast.
+
+## Related Concepts
+- [[CareSociology]] - intellectual frame for analyzing care as social organization.
+- [[PatientDignityInDailyCare]] - ethical boundary for whether socialized care remains humane.
+- [[SubjectLedCare]] - agency principle that care systems must preserve.
+- [[ElderCareWorkforce]] - labor pipeline needed for socialized care to exist in practice.
+- [[DementiaCareSocialSupportSystem]] - dementia-specific application of socialized care.
+- [[DementiaCaregiverBurden]] - household pressure that care socialization is meant to reduce.
+- [[LongTermCareInsurancePlanning]] - financing and service-access branch.

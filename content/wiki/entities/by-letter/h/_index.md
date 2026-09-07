@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9166
+wiki_total_pages: 9170
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "HofburgPalace"
     title: "Hofburg Palace"
     url: "/wiki/entities/hofburgpalace/"
+  - key: "HogeweykDementiaVillage"
+    title: "Hogeweyk Dementia Village / 荷兰失智小镇"
+    url: "/wiki/entities/hogeweykdementiavillage/"
   - key: "HOKA"
     title: "HOKA"
     url: "/wiki/entities/hoka/"

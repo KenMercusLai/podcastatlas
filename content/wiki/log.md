@@ -15620,6 +15620,10 @@ Ingested the 2026-08-17 史蒂夫说 counselor-letter episode on CPTSD-like hype
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-07] ingest | 漫长的告别：失智症、照护者与终将老去的我们
+
+Ingested the 2026-08-31 不合时宜 episode with 唐勇 on dementia care, family caregivers, Shenzhen elder-care services, the Hogeweyk dementia village, and China's long-term-care-insurance development. Added source `manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez`; created `BuHeShiYi`, `TangYongSociologist`, `YiWangDeShiJieDementiaCareBook`, `HogeweykDementiaVillage`, `DementiaCareSocialSupportSystem`, `DementiaCaregiverBurden`, `DementiaPersonhoodMemory`, and `ChinaLongTermCareInsurance`; updated `CareSocialization`, `ElderCareStateCapacity`, `LongTermCareInsurancePlanning`, `index`, and `overview`. No settled contradiction found; Shenzhen service observations, dementia-care family cases, and 2026 long-term-care-insurance coverage claims remain source-scoped.
+
 ## [2026-09-07] ingest | vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切
 
 Ingested the 2026-08-19 天真不天真 return conversation with Song Jia / 小花老师 on pausing work, acting through scent and transmission, inward self-cultivation, benevolent speech, relationship needs, sincere emotional support, travel, podcast method, and detaching from praise or criticism. Added source `vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i`; created `TianzhenButianzhen`, `SongJia`, `InwardLookingSelfCultivation`, `BenevolentSpeechPractice`, `SincereEmotionalSupport`, and `EvaluationAttachmentRelease`; updated `index` and `overview`. No settled contradiction found; career uncertainty, spiritual language, relationship advice, and English-podcast plans remain source-scoped.
@@ -15743,6 +15747,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | #400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？
 
 Ingested the 2026-08-13 声东击西 episode with Xu Tao and Fang Kecheng on youth social-media age bans, product-design liability, internal platform evidence, Section 230, and the Big Tobacco analogy. Added source `400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4`; created `FangKecheng`, `FrancesHaugen`, `SophieZhang`, `MarkLanier`, and `UnitedNationsChildrenFund`; updated `ShengdongJixi`, `XuTao`, `SocialMediaProductLiability`, `SocialMediaAgeBans`, `SocialMediaCausationScienceWars`, `BigTobaccoPlatformAnalogy`, `InternalSafetyResearchExposure`, `index`, and `overview`. No settled contradiction found; France implementation details, Australian evasion estimates, Meta internal-study claims, clinical-study figures, and user lifetime-value numbers remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

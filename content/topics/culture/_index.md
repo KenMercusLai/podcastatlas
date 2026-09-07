@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2480
+topic_total_pages: 2481
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5717,6 +5717,9 @@ topic_entities:
   - key: "ThePictureOfDorianGray"
     title: "《道连·格雷的画像》 / The Picture of Dorian Gray"
     url: "/wiki/entities/thepictureofdoriangray/"
+  - key: "YiWangDeShiJieDementiaCareBook"
+    title: "《遗忘的世界：失智老人的照护图景》"
+    url: "/wiki/entities/yiwangdeshijiedementiacarebook/"
   - key: "YiwangDeNaoli"
     title: "《遗忘的脑力》"
     url: "/wiki/entities/yiwangdenaoli/"

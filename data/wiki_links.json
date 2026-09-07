@@ -8499,6 +8499,10 @@
     "title": "《不成问题的问题》",
     "url": "/wiki/entities/buchengwentidewenti/"
   },
+  "BuHeShiYi": {
+    "title": "不合时宜 / Bu He Shi Yi",
+    "url": "/wiki/entities/buheshiyi/"
+  },
   "BuYangLateHan": {
     "title": "卜阳 / Bu Yang (late Han)",
     "url": "/wiki/entities/buyanglatehan/"
@@ -10998,6 +11002,10 @@
   "ChinaLocalDebtResolution": {
     "title": "China Local Debt Resolution",
     "url": "/wiki/concepts/chinalocaldebtresolution/"
+  },
+  "ChinaLongTermCareInsurance": {
+    "title": "China Long-Term Care Insurance / 中国长期护理险",
+    "url": "/wiki/concepts/chinalongtermcareinsurance/"
   },
   "ChinaLowRedistributionState": {
     "title": "China Low-Redistribution State",
@@ -15130,6 +15138,18 @@
   "DemandSupplyChainControlFrame": {
     "title": "Demand-Supply Chain Control Frame / 需求-供应链控制框架",
     "url": "/wiki/concepts/demandsupplychaincontrolframe/"
+  },
+  "DementiaCareSocialSupportSystem": {
+    "title": "Dementia Care Social Support System / 失智照护社会支持系统",
+    "url": "/wiki/concepts/dementiacaresocialsupportsystem/"
+  },
+  "DementiaCaregiverBurden": {
+    "title": "Dementia Caregiver Burden / 失智照护者负担",
+    "url": "/wiki/concepts/dementiacaregiverburden/"
+  },
+  "DementiaPersonhoodMemory": {
+    "title": "Dementia Personhood And Memory / 失智者人格与记忆",
+    "url": "/wiki/concepts/dementiapersonhoodmemory/"
   },
   "DemianNovel": {
     "title": "《德米安》 / Demian",
@@ -25422,6 +25442,10 @@
   "HofburgPalace": {
     "title": "Hofburg Palace",
     "url": "/wiki/entities/hofburgpalace/"
+  },
+  "HogeweykDementiaVillage": {
+    "title": "Hogeweyk Dementia Village / 荷兰失智小镇",
+    "url": "/wiki/entities/hogeweykdementiavillage/"
   },
   "HoldenCaulfield": {
     "title": "Holden Caulfield / 霍尔顿",
@@ -53619,6 +53643,10 @@
     "title": "Tang Ying / 唐英",
     "url": "/wiki/entities/tangying/"
   },
+  "TangYongSociologist": {
+    "title": "Tang Yong / 唐勇",
+    "url": "/wiki/entities/tangyongsociologist/"
+  },
   "TangZhenLateHan": {
     "title": "唐珍 / Tang Zhen (late Han)",
     "url": "/wiki/entities/tangzhenlatehan/"
@@ -61399,6 +61427,10 @@
     "title": "亿万富翁回归",
     "url": "/wiki/entities/yiwanfuwenghuigui/"
   },
+  "YiWangDeShiJieDementiaCareBook": {
+    "title": "《遗忘的世界：失智老人的照护图景》",
+    "url": "/wiki/entities/yiwangdeshijiedementiacarebook/"
+  },
   "Yibin": {
     "title": "Yibin / 宜宾",
     "url": "/wiki/entities/yibin/"
@@ -65914,6 +65946,10 @@
   "mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131": {
     "title": "卖香皂起家的百年花王，为什么成了半导体制造的关键企业？",
     "url": "/wiki/sources/mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131/"
+  },
+  "manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez": {
+    "title": "漫长的告别：失智症、照护者与终将老去的我们",
+    "url": "/wiki/sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez/"
   },
   "marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c": {
     "title": "Marine warfare: Le Pen runs for president",

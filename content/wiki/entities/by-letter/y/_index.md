@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 9166
+wiki_total_pages: 9170
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "YueNvJian"
     title: "《越女剑》"
     url: "/wiki/entities/yuenvjian/"
+  - key: "YiWangDeShiJieDementiaCareBook"
+    title: "《遗忘的世界：失智老人的照护图景》"
+    url: "/wiki/entities/yiwangdeshijiedementiacarebook/"
   - key: "YiwangDeNaoli"
     title: "《遗忘的脑力》"
     url: "/wiki/entities/yiwangdenaoli/"

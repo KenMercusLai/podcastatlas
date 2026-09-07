@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6554
+wiki_total_pages: 6558
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -314,6 +314,15 @@ wiki_pages:
   - key: "DemandSupplyChainControlFrame"
     title: "Demand-Supply Chain Control Frame / 需求-供应链控制框架"
     url: "/wiki/concepts/demandsupplychaincontrolframe/"
+  - key: "DementiaCareSocialSupportSystem"
+    title: "Dementia Care Social Support System / 失智照护社会支持系统"
+    url: "/wiki/concepts/dementiacaresocialsupportsystem/"
+  - key: "DementiaCaregiverBurden"
+    title: "Dementia Caregiver Burden / 失智照护者负担"
+    url: "/wiki/concepts/dementiacaregiverburden/"
+  - key: "DementiaPersonhoodMemory"
+    title: "Dementia Personhood And Memory / 失智者人格与记忆"
+    url: "/wiki/concepts/dementiapersonhoodmemory/"
   - key: "DemocracyInAmerica"
     title: "Democracy in America"
     url: "/wiki/concepts/democracyinamerica/"
