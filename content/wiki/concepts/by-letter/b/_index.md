@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6621
+wiki_total_pages: 6638
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "BirdDinosaurContinuity"
     title: "Bird-Dinosaur Continuity / 鸟类-恐龙连续性"
     url: "/wiki/concepts/birddinosaurcontinuity/"
+  - key: "BirdsongPlaybackEthics"
+    title: "Birdsong Playback Ethics / 鸣声回放伦理"
+    url: "/wiki/concepts/birdsongplaybackethics/"
   - key: "BirdwatchingAsAttention"
     title: "Birdwatching As Attention"
     url: "/wiki/concepts/birdwatchingasattention/"
@@ -497,6 +500,9 @@ wiki_pages:
   - key: "BrainImmuneStateCoupling"
     title: "Brain-Immune State Coupling"
     url: "/wiki/concepts/brainimmunestatecoupling/"
+  - key: "BrandBelief"
+    title: "Brand Belief / 品牌信念"
+    url: "/wiki/concepts/brandbelief/"
   - key: "BrandDNAConsumerCycleFit"
     title: "Brand DNA Consumer Cycle Fit"
     url: "/wiki/concepts/branddnaconsumercyclefit/"

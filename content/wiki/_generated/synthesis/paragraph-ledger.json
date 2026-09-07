@@ -1,6 +1,8 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1c4c81d2f81d19c9d1729c8d925bf8b7ebea82d9bd235775df205554ce76e233",
+      "73a0796fef8f07ea5fe826d0489cd461be04f03b0c915241ec019258fb08734e",
       "81e1ad2a6a08ad9550530f6c94d2fccff737e9e399c820a452a4a5f31acef870",
       "f8da211aee39297c6b4860b92efc30f878e755c6f76cd6e299f828dff8b86b77",
       "80a18079d91f460f9ec1e2691d193ccb4526c63384a58cb05f375280083edcef",
@@ -575,11 +577,68 @@
       "cbbe62c03d8335e2e5dca77db200eb628895d1c17f7e2e8fee61cb7f8f0291ae",
       "5f42ccecf5aba2d7233c6344ba2eaf2864f133e18d0af4d0c92d5bc37ee4d5dc"
     ],
-    "paragraph_count": 573
+    "paragraph_count": 575
   },
-  "overview_commit": "9f2334e3fa7f637b334fb7c509efe88ed313ae51",
-  "overview_digest": "5c0e87a55a4ced8767111bbc7df3b373d2815d084098c47b1474fec40d4ffbc5",
+  "overview_commit": "8bb31fca44989052d1ecbd6656267e4ddbfb51b9",
+  "overview_digest": "4365a718f9877d7a862b0739a7602174e6c9b147754d3b2b6606a2d04df4a367",
   "paragraphs": [
+    {
+      "id": "1c4c81d2f81d19c9d1729c8d925bf8b7ebea82d9bd235775df205554ce76e233",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f|All right on the night: AfD's victory]], a [[TheIntelligence]] episode linking [[AlternativeForGermany|AfD]]'s 44% [[SaxonyAnhalt|Saxony-Anhalt]] breakthrough, [[OperationBlueSkies]] contrail reduction, and [[SecularBuddhismAppeal|young South Koreans' renewed interest in Buddhism]]. It adds [[TomNuttall]], [[BundnisSahraWagenknecht|BSW]], [[SvenSchulze]], [[OperationBlueSkies]], [[JogyeOrder]], [[SoobinKim]], [[VenerableSeowon]], [[ContrailClimateMitigation]], [[ClimateExternalityCostAllocation]], [[GermanCaretakerStalemate]], [[SecularBuddhismAppeal]], and [[CommercializedReligiousAdaptation]], while extending [[FriedrichMerz]], [[ChristianDemocraticUnionGermany|CDU]], [[UlrichSiegmund]], [[BrandmauerCordonSanitaire]], [[FarRightStateGovernanceTest]], and [[RemigrationPolitics]]. Its core synthesis is that technical and institutional fixes rarely end with a headline result: AfD's large plurality creates BSW/minority/caretaker arithmetic rather than immediate stable rule, contrail mitigation depends on air-traffic-control coordination and cost allocation, and Buddhist modernization can widen entry while leaving durability and dilution unresolved. No settled contradiction is recorded; the source qualifies the earlier pre-election AfD majority scenario and keeps election-night arithmetic, contrail-impact estimates, flight-cost estimates, and South Korean event-attendance claims source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AlternativeForGermany",
+        "BrandmauerCordonSanitaire",
+        "BundnisSahraWagenknecht",
+        "ChristianDemocraticUnionGermany",
+        "ClimateExternalityCostAllocation",
+        "CommercializedReligiousAdaptation",
+        "ContrailClimateMitigation",
+        "FarRightStateGovernanceTest",
+        "FriedrichMerz",
+        "GermanCaretakerStalemate",
+        "JogyeOrder",
+        "OperationBlueSkies",
+        "RemigrationPolitics",
+        "SaxonyAnhalt",
+        "SecularBuddhismAppeal",
+        "SoobinKim",
+        "SvenSchulze",
+        "TheIntelligence",
+        "TomNuttall",
+        "UlrichSiegmund",
+        "VenerableSeowon",
+        "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f"
+      ]
+    },
+    {
+      "id": "73a0796fef8f07ea5fe826d0489cd461be04f03b0c915241ec019258fb08734e",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [],
+      "text": "The latest addition is [[episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318|Episode 226: 说出口的话，正在塑造你的世界]], a [[ChizaoGengxin|迟早更新]] crossover with [[QiaQiaXiaoBao|恰恰小豹]] where [[RenNing]] turns [[BirdsongPlaybackEthics|birdsong playback / 声诱]] into a wider account of [[HumanExtractionPosture]], ritual, language, and restraint. It adds [[QiaQiaXiaoBao]], [[JLAustin]], [[LionelTrilling]], [[BirdsongPlaybackEthics]], [[HumanExtractionPosture]], [[RitualizedApologyGratitude]], [[SpeechActRitual]], and [[ItadakimasuEverydayRitual]], while extending [[RenNing]], [[ChizaoGengxin]], and [[HopeIsTheThingWithFeathersBook]]. Its core synthesis is that modern ethics can say \"do not disturb,\" but human life still involves taking from nature, so repeated words such as thanks and apology can slow action, preserve contradiction, and train future restraint without becoming permission or absolution. No settled contradiction is recorded; the episode explicitly keeps its playback advice philosophical and ritual-oriented rather than a species-specific field protocol.",
+      "topic_scores": {
+        "culture-and-media": 1
+      },
+      "wikilinks": [
+        "BirdsongPlaybackEthics",
+        "ChizaoGengxin",
+        "HopeIsTheThingWithFeathersBook",
+        "HumanExtractionPosture",
+        "ItadakimasuEverydayRitual",
+        "JLAustin",
+        "LionelTrilling",
+        "QiaQiaXiaoBao",
+        "RenNing",
+        "RitualizedApologyGratitude",
+        "SpeechActRitual",
+        "episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318"
+      ]
+    },
     {
       "id": "81e1ad2a6a08ad9550530f6c94d2fccff737e9e399c820a452a4a5f31acef870",
       "primary_topic": "science-health-and-climate",

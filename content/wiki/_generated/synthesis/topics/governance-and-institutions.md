@@ -4,17 +4,53 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-07
-as_of_overview_commit: 3f1bb76289116b110a8b691725621d895a69fbfd
-input_digest: 96eb5b6b0cb14c448642f2f11492461f06f23c3d5351a9a80b178e1df9a84239
+as_of_overview_commit: 773ae1e0fb0587e09f91424bf8d94de54867ef1f
+input_digest: 09d45e6803beb1ce8bbe6e7238ebc5b7902bb70f32a869e3db19085c5faf8dd1
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-The Hong Kong football source adds a sports-governance case in which professionalization, labor status, import-player rules, commercial-team membership, and owner-control preferences all shape institutional capacity: Hong Kong's 1968 shift from amateurism to professionalism was reactive, and later Seiko/Bulova spending, foreign-player limits, membership borrowing, South China, and Kitchee show why football governance depends on both league ecology and club-control structure. The Evergrande football legacy source remains a mainland sports-governance boundary case around corporate collapse, youth-development assets, supporter identity, salary escalation, commercial norms, national-team pressure, and naturalized-player spending. The Cathay Pacific / 声东击西 roundtable adds an aviation-governance branch: airport approvals, airspace limits, route subsidies, cargo infrastructure, and hub planning show infrastructure as a governing allocation system for city access, not just a transport market. Hanji 1070 adds a late-Han governance case in which post-victory rule depends on turning military advantage into credible settlement. Broader governance synthesis continues to center institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the gap between nominal authority and usable capacity.
+Governance synthesis now spans electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, and boundary-setting across historical and contemporary cases. The Saxony-Anhalt update adds a live far-right state-governance problem: AfD's 44% plurality confirms the electoral shock, but BSW leverage, minority-government reluctance, Brandmauer politics, and caretaker rules make executive transfer uncertain rather than automatic. Operation Blue Skies adds a climate-governance case in which a comparatively small technical flight adjustment still needs air-traffic-control coordination and cost allocation because contrail harms are externalized. The South Korean Buddhism segment adds an institutional-culture case where religious outreach can lower barriers through events and products while preserving concerns about durability and misrepresentation. Across the full topic, usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy.
 
 ## Cross-source Findings
+
+### Afd Saxony Anhalt Breakthrough Creates Firewall Stalemate Test
+
+[[all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f|AfD's Saxony-Anhalt victory]] turns [[FarRightStateGovernanceTest]] into a government-formation problem rather than a simple breakthrough story: [[AlternativeForGermany|AfD]] reaches 44% and the [[ChristianDemocraticUnionGermany|CDU]] falls to 17%, but [[BundnisSahraWagenknecht|BSW]] leverage, [[UlrichSiegmund]]'s minority-government reluctance, the [[BrandmauerCordonSanitaire|Brandmauer]], and [[SvenSchulze]]'s possible acting-premier continuity make [[GermanCaretakerStalemate]] a live institutional outcome.
+
+**Evidence:** [[all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f]], [[FarRightStateGovernanceTest]], [[AlternativeForGermany]], [[ChristianDemocraticUnionGermany]], [[BundnisSahraWagenknecht]], [[UlrichSiegmund]], [[BrandmauerCordonSanitaire]], [[SvenSchulze]], [[GermanCaretakerStalemate]], [[SaxonyAnhalt]], [[FriedrichMerz]], [[RemigrationPolitics]]
+
+**Qualifications:**
+
+- The claim is grounded in one election-night podcast source and does not settle final certified results, coalition negotiations, or whether AfD will enter executive office.
+- It qualifies the earlier pre-election Saxony-Anhalt majority scenario without erasing the broader far-right governance risk.
+- The extremist classification, BSW seat count, and caretaker path remain source-scoped pending later sources.
+
+### Contrail Mitigation Turns Aviation Externality Into Coordination Problem
+
+[[ContrailClimateMitigation]] adds a climate-governance case where technical feasibility does not remove institutional friction: [[OperationBlueSkies]] tests small altitude changes and measurement, while [[ClimateExternalityCostAllocation]] captures why airline fuel costs, passenger benefits, route geography, and diffuse climate harms may require coordinated air-traffic-control or regulatory action.
+
+**Evidence:** [[ContrailClimateMitigation]], [[OperationBlueSkies]], [[ClimateExternalityCostAllocation]], [[all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f]], [[TheIntelligence]]
+
+**Qualifications:**
+
+- The source describes a trial and estimates, not a completed global operating regime.
+- Contrail impact shares, affected-flight percentages, cost estimates, and regional concentration remain source-scoped.
+- The claim treats contrail reduction as mitigation governance, not as proof that aviation decarbonization is solved.
+
+### Religious Outreach Adaptation Balances Access And Dilution
+
+[[SecularBuddhismAppeal]] and [[CommercializedReligiousAdaptation]] add an institutional-culture governance case: the [[JogyeOrder]] expo, [[SoobinKim]]'s reporting, and [[VenerableSeowon]]'s optimism show how religious institutions can use events, products, temple stays, and AI-inflected formats to reach secular young people while preserving concern that commercialization may dilute or misrepresent teaching.
+
+**Evidence:** [[SecularBuddhismAppeal]], [[CommercializedReligiousAdaptation]], [[JogyeOrder]], [[SoobinKim]], [[VenerableSeowon]], [[all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f]]
+
+**Qualifications:**
+
+- The source does not show whether expo attendance or merchandise use becomes sustained Buddhist practice.
+- The youth trend, attendance figures, poll claim, and temple-stay record remain source-scoped.
+- The claim is about institutional adaptation, not a general account of Korean Buddhism.
 
 ### Evergrande Football Legacy Splits Assets From Institutional Damage
 

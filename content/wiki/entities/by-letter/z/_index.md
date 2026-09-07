@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9235
+wiki_total_pages: 9246
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1091,6 +1091,9 @@ wiki_pages:
   - key: "ZiMiEasternHan"
     title: "紫密 / Zi Mi (Eastern Han)"
     url: "/wiki/entities/zimieasternhan/"
+  - key: "ZongHengSiHai"
+    title: "纵横四海 / Zong Heng Si Hai"
+    url: "/wiki/entities/zonghengsihai/"
   - key: "ZhiZaoLaoYe"
     title: "纸造 / 老爷"
     url: "/wiki/entities/zhizaolaoye/"

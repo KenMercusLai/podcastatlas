@@ -7759,6 +7759,10 @@
     "title": "《鸟有什么好看的》 / Birds Are Interesting",
     "url": "/wiki/entities/birdsareinteresting/"
   },
+  "BirdsongPlaybackEthics": {
+    "title": "Birdsong Playback Ethics / 鸣声回放伦理",
+    "url": "/wiki/concepts/birdsongplaybackethics/"
+  },
   "BirdwatchingAsAttention": {
     "title": "Birdwatching As Attention",
     "url": "/wiki/concepts/birdwatchingasattention/"
@@ -8323,6 +8327,10 @@
     "title": "Braintree",
     "url": "/wiki/entities/braintree/"
   },
+  "BrandBelief": {
+    "title": "Brand Belief / 品牌信念",
+    "url": "/wiki/concepts/brandbelief/"
+  },
   "BrandControlledAuthentication": {
     "title": "Brand-Controlled Authentication",
     "url": "/wiki/concepts/brandcontrolledauthentication/"
@@ -8698,6 +8706,10 @@
   "Bump": {
     "title": "Bump",
     "url": "/wiki/entities/bump/"
+  },
+  "BundnisSahraWagenknecht": {
+    "title": "Bündnis Sahra Wagenknecht / BSW",
+    "url": "/wiki/entities/bundnissahrawagenknecht/"
   },
   "BuqiaoQiangLeader": {
     "title": "布桥 / Buqiao (Qiang leader)",
@@ -10222,6 +10234,10 @@
   "ChannelFocusExperiments": {
     "title": "Channel Focus Experiments",
     "url": "/wiki/concepts/channelfocusexperiments/"
+  },
+  "ChannelLengthRisk": {
+    "title": "Channel Length Risk / 渠道长度风险",
+    "url": "/wiki/concepts/channellengthrisk/"
   },
   "ChannelNativeInternalCommunication": {
     "title": "Channel Native Internal Communication",
@@ -12059,6 +12075,10 @@
     "title": "Climate Aid Retrenchment",
     "url": "/wiki/concepts/climateaidretrenchment/"
   },
+  "ClimateExternalityCostAllocation": {
+    "title": "Climate Externality Cost Allocation",
+    "url": "/wiki/concepts/climateexternalitycostallocation/"
+  },
   "ClimateFoodPriceTransmission": {
     "title": "Climate Food Price Transmission",
     "url": "/wiki/concepts/climatefoodpricetransmission/"
@@ -12562,6 +12582,10 @@
   "CommercializationProtectsCreativeIdeals": {
     "title": "Commercialization Protects Creative Ideals",
     "url": "/wiki/concepts/commercializationprotectscreativeideals/"
+  },
+  "CommercializedReligiousAdaptation": {
+    "title": "Commercialized Religious Adaptation",
+    "url": "/wiki/concepts/commercializedreligiousadaptation/"
   },
   "CommodityFuturesTradingCommission": {
     "title": "Commodity Futures Trading Commission",
@@ -13139,6 +13163,10 @@
     "title": "Contractual Fund Governance Gap / 契约型基金治理缺口",
     "url": "/wiki/concepts/contractualfundgovernancegap/"
   },
+  "ContrailClimateMitigation": {
+    "title": "Contrail Climate Mitigation",
+    "url": "/wiki/concepts/contrailclimatemitigation/"
+  },
   "ContrarianSentimentIndicators": {
     "title": "Contrarian Sentiment Indicators",
     "url": "/wiki/concepts/contrariansentimentindicators/"
@@ -13242,6 +13270,10 @@
   "CoreBeforePeripheryStrategy": {
     "title": "先内后外式战略顺序 / Core-Before-Periphery Strategy",
     "url": "/wiki/concepts/corebeforeperipherystrategy/"
+  },
+  "CoreCompetenceStrategy": {
+    "title": "Core Competence Strategy / 核心竞争力战略",
+    "url": "/wiki/concepts/corecompetencestrategy/"
   },
   "CoreTribePositioning": {
     "title": "Core Tribe Positioning",
@@ -14102,6 +14134,10 @@
   "CustomerSupportAutomation": {
     "title": "Customer Support Automation",
     "url": "/wiki/concepts/customersupportautomation/"
+  },
+  "CustomerValueBasedPricing": {
+    "title": "Customer Value-Based Pricing / 消费者价值定价",
+    "url": "/wiki/concepts/customervaluebasedpricing/"
   },
   "CyberAvatars": {
     "title": "Cyber Avatars",
@@ -22747,6 +22783,10 @@
     "title": "Gerard Way",
     "url": "/wiki/entities/gerardway/"
   },
+  "GermanCaretakerStalemate": {
+    "title": "German Caretaker Stalemate",
+    "url": "/wiki/concepts/germancaretakerstalemate/"
+  },
   "GermanLuxuryCarChinaPressure": {
     "title": "German Luxury Car China Pressure / 德系豪华车中国压力",
     "url": "/wiki/concepts/germanluxurycarchinapressure/"
@@ -26727,6 +26767,10 @@
     "title": "Human-Driven Scientific AI",
     "url": "/wiki/concepts/humandrivenscientificai/"
   },
+  "HumanExtractionPosture": {
+    "title": "Human Extraction Posture / 人向自然索取的姿态",
+    "url": "/wiki/concepts/humanextractionposture/"
+  },
   "HumanFlourishingProfit": {
     "title": "Human Flourishing Profit",
     "url": "/wiki/concepts/humanflourishingprofit/"
@@ -28415,6 +28459,10 @@
     "title": "Istanbul Financial Center",
     "url": "/wiki/entities/istanbulfinancialcenter/"
   },
+  "ItadakimasuEverydayRitual": {
+    "title": "Itadakimasu Everyday Ritual / いただきます日常仪式",
+    "url": "/wiki/concepts/itadakimasueverydayritual/"
+  },
   "ItaiTaeko": {
     "title": "板井太子",
     "url": "/wiki/entities/itaitaeko/"
@@ -28494,6 +28542,10 @@
   "JKMolina": {
     "title": "JK Molina",
     "url": "/wiki/entities/jkmolina/"
+  },
+  "JLAustin": {
+    "title": "J. L. Austin / 奥斯丁",
+    "url": "/wiki/entities/jlaustin/"
   },
   "JPMorgan": {
     "title": "J.P. Morgan",
@@ -29822,6 +29874,10 @@
   "JoeyShamah": {
     "title": "Joey Shamah",
     "url": "/wiki/entities/joeyshamah/"
+  },
+  "JogyeOrder": {
+    "title": "Jogye Order",
+    "url": "/wiki/entities/jogyeorder/"
   },
   "JohannAdamSchallVonBell": {
     "title": "汤若望 / Johann Adam Schall von Bell",
@@ -33291,6 +33347,10 @@
     "title": "Lionel Messi",
     "url": "/wiki/entities/lionelmessi/"
   },
+  "LionelTrilling": {
+    "title": "Lionel Trilling / 莱昂内尔·特里林",
+    "url": "/wiki/entities/lioneltrilling/"
+  },
   "LiquidSugarRisk": {
     "title": "Liquid Sugar Risk / 液体糖风险",
     "url": "/wiki/concepts/liquidsugarrisk/"
@@ -35974,6 +36034,14 @@
   "MarketSpeculation": {
     "title": "Market Speculation",
     "url": "/wiki/concepts/marketspeculation/"
+  },
+  "MarketingEthics": {
+    "title": "Marketing Ethics / 营销伦理",
+    "url": "/wiki/concepts/marketingethics/"
+  },
+  "MarketingManagementChain": {
+    "title": "Marketing Management Chain / 营销管理链路",
+    "url": "/wiki/concepts/marketingmanagementchain/"
   },
   "MarketplaceFrictionReduction": {
     "title": "Marketplace Friction Reduction",
@@ -40915,6 +40983,10 @@
     "title": "Operating Room Physiology Management / 手术室生理管理",
     "url": "/wiki/concepts/operatingroomphysiologymanagement/"
   },
+  "OperationBlueSkies": {
+    "title": "Operation Blue Skies",
+    "url": "/wiki/entities/operationblueskies/"
+  },
   "OperationDemetrius": {
     "title": "Operation Demetrius",
     "url": "/wiki/entities/operationdemetrius/"
@@ -45179,6 +45251,10 @@
     "title": "齐宣王 / King Xuan of Qi",
     "url": "/wiki/entities/qixuanwang/"
   },
+  "QiaQiaXiaoBao": {
+    "title": "恰恰小豹 / Qia Qia Xiao Bao",
+    "url": "/wiki/entities/qiaqiaxiaobao/"
+  },
   "QianCangshui": {
     "title": "钱苍水",
     "url": "/wiki/entities/qiancangshui/"
@@ -47403,6 +47479,10 @@
     "title": "Ritual Tourism Authenticity Tension / 仪式文旅真实性张力",
     "url": "/wiki/concepts/ritualtourismauthenticitytension/"
   },
+  "RitualizedApologyGratitude": {
+    "title": "Ritualized Apology And Gratitude / 仪式化抱歉与感谢",
+    "url": "/wiki/concepts/ritualizedapologygratitude/"
+  },
   "RitualizedCommandAppointment": {
     "title": "Ritualized Command Appointment / 仪式化拜将留才",
     "url": "/wiki/concepts/ritualizedcommandappointment/"
@@ -48319,6 +48399,10 @@
     "title": "STI Public Health Response",
     "url": "/wiki/concepts/stipublichealthresponse/"
   },
+  "STPMarketingFramework": {
+    "title": "STP Marketing Framework / STP营销框架",
+    "url": "/wiki/concepts/stpmarketingframework/"
+  },
   "SVAngel": {
     "title": "SV Angel",
     "url": "/wiki/entities/svangel/"
@@ -49230,6 +49314,10 @@
   "Section32": {
     "title": "Section 32",
     "url": "/wiki/entities/section32/"
+  },
+  "SecularBuddhismAppeal": {
+    "title": "Secular Buddhism Appeal",
+    "url": "/wiki/concepts/secularbuddhismappeal/"
   },
   "SecularHappinessAgainstIdeology": {
     "title": "Secular Happiness Against Ideology",
@@ -51467,6 +51555,10 @@
     "title": "Sony-TSMC Image Sensor Joint Venture",
     "url": "/wiki/entities/sonytsmcimagesensorjv/"
   },
+  "SoobinKim": {
+    "title": "Soobin Kim",
+    "url": "/wiki/entities/soobinkim/"
+  },
   "SoongAiLing": {
     "title": "宋爱玲",
     "url": "/wiki/entities/soongailing/"
@@ -51690,6 +51782,10 @@
   "SpeculativeBubblePsychology": {
     "title": "Speculative Bubble Psychology",
     "url": "/wiki/concepts/speculativebubblepsychology/"
+  },
+  "SpeechActRitual": {
+    "title": "Speech Act Ritual / 言语行为仪式",
+    "url": "/wiki/concepts/speechactritual/"
   },
   "SpeechAsMoralDiagnostic": {
     "title": "Speech As Moral Diagnostic / 言语作为德行信号",
@@ -53530,6 +53626,10 @@
   "SuyashPasi": {
     "title": "Suyash Pasi",
     "url": "/wiki/entities/suyashpasi/"
+  },
+  "SvenSchulze": {
+    "title": "Sven Schulze",
+    "url": "/wiki/entities/svenschulze/"
   },
   "SwanMaidenMotif": {
     "title": "Swan Maiden Motif",
@@ -55803,6 +55903,10 @@
     "title": "Tom Minelli",
     "url": "/wiki/entities/tomminelli/"
   },
+  "TomNuttall": {
+    "title": "Tom Nuttall",
+    "url": "/wiki/entities/tomnuttall/"
+  },
   "TomOrton": {
     "title": "Tom Orton",
     "url": "/wiki/entities/tomorton/"
@@ -57526,6 +57630,10 @@
   "VelvetRevolution": {
     "title": "Velvet Revolution / 天鹅绒革命",
     "url": "/wiki/entities/velvetrevolution/"
+  },
+  "VenerableSeowon": {
+    "title": "Venerable Seowon",
+    "url": "/wiki/entities/venerableseowon/"
   },
   "Venezuela": {
     "title": "Venezuela",
@@ -64655,6 +64763,10 @@
     "title": "宗馥莉 / Zong Fuli",
     "url": "/wiki/entities/zongfuli/"
   },
+  "ZongHengSiHai": {
+    "title": "纵横四海 / Zong Heng Si Hai",
+    "url": "/wiki/entities/zonghengsihai/"
+  },
   "ZongJunEasternHan": {
     "title": "宗均 / Zong Jun (Eastern Han)",
     "url": "/wiki/entities/zongjuneasternhan/"
@@ -65082,6 +65194,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545": {
     "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545/"
+  },
+  "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f": {
+    "title": "All right on the night: AfD's victory",
+    "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
   },
   "an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c": {
     "title": "An interview with Elon Musk",
@@ -66043,6 +66159,10 @@
     "title": "EP80 与查理·芒格的跨时空对话：当眼睛失明时，我们看见什么？",
     "url": "/wiki/sources/ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i/"
   },
+  "ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a": {
+    "title": "EP85 营销管理：Mini MBA 第一课",
+    "url": "/wiki/sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a/"
+  },
   "ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj": {
     "title": "EP86 面子、底子、日子：财报只讲这三件事",
     "url": "/wiki/sources/ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj/"
@@ -66078,6 +66198,10 @@
   "episode-225-yidai-yilu-8212959555-438866": {
     "title": "Episode 225: 一袋一录",
     "url": "/wiki/sources/episode-225-yidai-yilu-8212959555-438866/"
+  },
+  "episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318": {
+    "title": "Episode 226: 说出口的话，正在塑造你的世界",
+    "url": "/wiki/sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318/"
   },
   "episode-228-suoyi-aodesai-8211241331-711602": {
     "title": "Episode 228: 所以，奥德赛",

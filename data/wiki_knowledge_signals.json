@@ -4054,9 +4054,9 @@
       "url": "/wiki/entities/alphaschool/"
     },
     "AlternativeForGermany": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Brave New whirl： Turkey’s opposition overhaul [6a69c7766043035f89eb097f].md",
@@ -4071,9 +4071,16 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/alternativeforgermany/"
     },
     "AlternativePaymentStackConsolidation": {
@@ -7913,6 +7920,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/bipolarmaniahypomaniaspectrum/"
     },
+    "BirdsongPlaybackEthics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211256494_013318 [8211256494_013318].md",
+          "key": "episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318",
+          "show": "迟早更新",
+          "title": "Episode 226: 说出口的话，正在塑造你的世界",
+          "url": "/wiki/sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/birdsongplaybackethics/"
+    },
     "Birkenstock": {
       "episode_count": 2,
       "show_count": 1,
@@ -8536,6 +8559,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/brainimmunestatecoupling/"
     },
+    "BrandBelief": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOOMQ_BvEJTAS8O50a [GKwRIMAOOMQ_BvEJTAS8O50a].md",
+          "key": "ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a",
+          "show": "纵横四海",
+          "title": "EP85 营销管理：Mini MBA 第一课",
+          "url": "/wiki/sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/brandbelief/"
+    },
     "BrandDNAConsumerCycleFit": {
       "episode_count": 1,
       "show_count": 1,
@@ -8617,9 +8656,9 @@
       "url": "/wiki/concepts/brandedproducedifferentiation/"
     },
     "BrandmauerCordonSanitaire": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
@@ -8627,9 +8666,16 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/brandmauercordonsanitaire/"
     },
     "Brazil": {
@@ -9041,6 +9087,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/builderbasedschoolday/"
+    },
+    "BundnisSahraWagenknecht": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/bundnissahrawagenknecht/"
     },
     "BuqiaoQiangLeader": {
       "episode_count": 1,
@@ -10648,6 +10710,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/changpengzhao/"
+    },
+    "ChannelLengthRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOOMQ_BvEJTAS8O50a [GKwRIMAOOMQ_BvEJTAS8O50a].md",
+          "key": "ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a",
+          "show": "纵横四海",
+          "title": "EP85 营销管理：Mini MBA 第一课",
+          "url": "/wiki/sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/channellengthrisk/"
     },
     "ChannelNativeInternalCommunication": {
       "episode_count": 1,
@@ -12306,9 +12384,9 @@
       "url": "/wiki/concepts/chivalricromancewarmemory/"
     },
     "ChizaoGengxin": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "8212959555_438866 [8212959555_438866].md",
@@ -12330,6 +12408,13 @@
           "show": "迟早更新",
           "title": "Episode 228: 所以，奥德赛",
           "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
+        },
+        {
+          "episode_file": "8211256494_013318 [8211256494_013318].md",
+          "key": "episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318",
+          "show": "迟早更新",
+          "title": "Episode 226: 说出口的话，正在塑造你的世界",
+          "url": "/wiki/sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318/"
         }
       ],
       "updated": "2026-09-07",
@@ -12405,6 +12490,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/chrispalmer/"
+    },
+    "ChristianDemocraticUnionGermany": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Brave New whirl： Turkey’s opposition overhaul [6a69c7766043035f89eb097f].md",
+          "key": "brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f",
+          "show": "Economist Podcasts",
+          "title": "Brave New whirl: Turkey's opposition overhaul",
+          "url": "/wiki/sources/brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f/"
+        },
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/christiandemocraticuniongermany/"
     },
     "ChristopherNavarro": {
       "episode_count": 1,
@@ -12798,6 +12906,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/climateaidretrenchment/"
+    },
+    "ClimateExternalityCostAllocation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/climateexternalitycostallocation/"
     },
     "ClinicalBehaviorChangeRedFlags": {
       "episode_count": 1,
@@ -13459,6 +13583,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/commercializationprotectscreativeideals/"
+    },
+    "CommercializedReligiousAdaptation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/commercializedreligiousadaptation/"
     },
     "CommodityTrapEscape": {
       "episode_count": 1,
@@ -14236,6 +14376,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/continuousglucosemonitoring/"
     },
+    "ContrailClimateMitigation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/contrailclimatemitigation/"
+    },
     "ControlPreservingGrowthCapital": {
       "episode_count": 1,
       "show_count": 1,
@@ -14359,6 +14515,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/corebeforeperipherystrategy/"
+    },
+    "CoreCompetenceStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOOMQ_BvEJTAS8O50a [GKwRIMAOOMQ_BvEJTAS8O50a].md",
+          "key": "ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a",
+          "show": "纵横四海",
+          "title": "EP85 营销管理：Mini MBA 第一课",
+          "url": "/wiki/sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/corecompetencestrategy/"
     },
     "CoreWeave": {
       "episode_count": 4,
@@ -15457,6 +15629,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/customersignaldrivenpivot/"
+    },
+    "CustomerValueBasedPricing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOOMQ_BvEJTAS8O50a [GKwRIMAOOMQ_BvEJTAS8O50a].md",
+          "key": "ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a",
+          "show": "纵横四海",
+          "title": "EP85 营销管理：Mini MBA 第一课",
+          "url": "/wiki/sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/customervaluebasedpricing/"
     },
     "DCFValuationAsNarrative": {
       "episode_count": 1,
@@ -23825,9 +24013,9 @@
       "url": "/wiki/concepts/farrightnormalization/"
     },
     "FarRightStateGovernanceTest": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
@@ -23835,9 +24023,16 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/farrightstategovernancetest/"
     },
     "FascistSportPolicy": {
@@ -26462,6 +26657,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/friedrichebert/"
     },
+    "FriedrichMerz": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Brave New whirl： Turkey’s opposition overhaul [6a69c7766043035f89eb097f].md",
+          "key": "brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f",
+          "show": "Economist Podcasts",
+          "title": "Brave New whirl: Turkey's opposition overhaul",
+          "url": "/wiki/sources/brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f/"
+        },
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/friedrichmerz/"
+    },
     "FriedrichWilhelmVonSteuben": {
       "episode_count": 1,
       "show_count": 1,
@@ -28557,6 +28775,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/georgiabanjo/"
+    },
+    "GermanCaretakerStalemate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/germancaretakerstalemate/"
     },
     "GermanNationalAnthem": {
       "episode_count": 1,
@@ -32605,9 +32839,9 @@
       "url": "/wiki/concepts/honorswithoutofficesettlement/"
     },
     "HopeIsTheThingWithFeathersBook": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
@@ -32622,6 +32856,13 @@
           "show": "迟早更新",
           "title": "Episode 224: 不是不识不时不适",
           "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
+        },
+        {
+          "episode_file": "8211256494_013318 [8211256494_013318].md",
+          "key": "episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318",
+          "show": "迟早更新",
+          "title": "Episode 226: 说出口的话，正在塑造你的世界",
+          "url": "/wiki/sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318/"
         }
       ],
       "updated": "2026-09-07",
@@ -33938,6 +34179,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/humancommunitydatalicensing/"
+    },
+    "HumanExtractionPosture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211256494_013318 [8211256494_013318].md",
+          "key": "episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318",
+          "show": "迟早更新",
+          "title": "Episode 226: 说出口的话，正在塑造你的世界",
+          "url": "/wiki/sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/humanextractionposture/"
     },
     "HumanImperfectionCreativeValue": {
       "episode_count": 1,
@@ -36225,6 +36482,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/isolatedretaildemandmanagement/"
     },
+    "ItadakimasuEverydayRitual": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211256494_013318 [8211256494_013318].md",
+          "key": "episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318",
+          "show": "迟早更新",
+          "title": "Episode 226: 说出口的话，正在塑造你的世界",
+          "url": "/wiki/sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/itadakimasueverydayritual/"
+    },
     "ItalianFascism": {
       "episode_count": 2,
       "show_count": 2,
@@ -36316,6 +36589,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/jdcom/"
+    },
+    "JLAustin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211256494_013318 [8211256494_013318].md",
+          "key": "episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318",
+          "show": "迟早更新",
+          "title": "Episode 226: 说出口的话，正在塑造你的世界",
+          "url": "/wiki/sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/jlaustin/"
     },
     "Jacobitism": {
       "episode_count": 1,
@@ -37326,6 +37615,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/joeliemandt/"
+    },
+    "JogyeOrder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/jogyeorder/"
     },
     "JohannLoschek": {
       "episode_count": 1,
@@ -41211,6 +41516,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/linzi/"
+    },
+    "LionelTrilling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211256494_013318 [8211256494_013318].md",
+          "key": "episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318",
+          "show": "迟早更新",
+          "title": "Episode 226: 说出口的话，正在塑造你的世界",
+          "url": "/wiki/sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/lioneltrilling/"
     },
     "LiquidSugarRisk": {
       "episode_count": 1,
@@ -46080,6 +46401,38 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/markluanfanshu/"
+    },
+    "MarketingEthics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOOMQ_BvEJTAS8O50a [GKwRIMAOOMQ_BvEJTAS8O50a].md",
+          "key": "ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a",
+          "show": "纵横四海",
+          "title": "EP85 营销管理：Mini MBA 第一课",
+          "url": "/wiki/sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/marketingethics/"
+    },
+    "MarketingManagementChain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOOMQ_BvEJTAS8O50a [GKwRIMAOOMQ_BvEJTAS8O50a].md",
+          "key": "ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a",
+          "show": "纵横四海",
+          "title": "EP85 营销管理：Mini MBA 第一课",
+          "url": "/wiki/sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/marketingmanagementchain/"
     },
     "MarquisDeLafayette": {
       "episode_count": 1,
@@ -51497,6 +51850,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/operatingroomphysiologymanagement/"
     },
+    "OperationBlueSkies": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/operationblueskies/"
+    },
     "OperationalDetachment": {
       "episode_count": 1,
       "show_count": 1,
@@ -56646,6 +57015,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/qixiangdong/"
     },
+    "QiaQiaXiaoBao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211256494_013318 [8211256494_013318].md",
+          "key": "episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318",
+          "show": "迟早更新",
+          "title": "Episode 226: 说出口的话，正在塑造你的世界",
+          "url": "/wiki/sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/qiaqiaxiaobao/"
+    },
     "QianZhaoLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -58316,9 +58701,9 @@
       "url": "/wiki/concepts/remedialeducationtargeting/"
     },
     "RemigrationPolitics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
@@ -58326,9 +58711,16 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/remigrationpolitics/"
     },
     "RenFangLateHan": {
@@ -58433,9 +58825,9 @@
       "url": "/wiki/entities/renlifeng/"
     },
     "RenNing": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
@@ -58457,6 +58849,13 @@
           "show": "迟早更新",
           "title": "Episode 228: 所以，奥德赛",
           "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
+        },
+        {
+          "episode_file": "8211256494_013318 [8211256494_013318].md",
+          "key": "episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318",
+          "show": "迟早更新",
+          "title": "Episode 226: 说出口的话，正在塑造你的世界",
+          "url": "/wiki/sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318/"
         }
       ],
       "updated": "2026-09-07",
@@ -59532,6 +59931,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/ritualrenunciationpoliticalcapital/"
     },
+    "RitualizedApologyGratitude": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211256494_013318 [8211256494_013318].md",
+          "key": "episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318",
+          "show": "迟早更新",
+          "title": "Episode 226: 说出口的话，正在塑造你的世界",
+          "url": "/wiki/sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/ritualizedapologygratitude/"
+    },
     "RiverAsLivingEntity": {
       "episode_count": 1,
       "show_count": 1,
@@ -60416,6 +60831,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/ryansocialrobot/"
     },
+    "STPMarketingFramework": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOOMQ_BvEJTAS8O50a [GKwRIMAOOMQ_BvEJTAS8O50a].md",
+          "key": "ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a",
+          "show": "纵横四海",
+          "title": "EP85 营销管理：Mini MBA 第一课",
+          "url": "/wiki/sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/stpmarketingframework/"
+    },
     "SaborAMexicoSalsas": {
       "episode_count": 1,
       "show_count": 1,
@@ -60857,9 +61288,9 @@
       "url": "/wiki/entities/savilleinquiry/"
     },
     "SaxonyAnhalt": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
@@ -60867,9 +61298,16 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/saxonyanhalt/"
     },
     "ScarletSunrise": {
@@ -61307,6 +61745,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/secondaryoralityinaiera/"
+    },
+    "SecularBuddhismAppeal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/secularbuddhismappeal/"
     },
     "SecurityForAuthorityExchange": {
       "episode_count": 6,
@@ -63879,6 +64333,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/songyoueasternhan/"
     },
+    "SoobinKim": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/soobinkim/"
+    },
     "SophieZhang": {
       "episode_count": 1,
       "show_count": 1,
@@ -64209,6 +64679,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/spacebasedaiinfrastructure/"
+    },
+    "SpeechActRitual": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211256494_013318 [8211256494_013318].md",
+          "key": "episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318",
+          "show": "迟早更新",
+          "title": "Episode 226: 说出口的话，正在塑造你的世界",
+          "url": "/wiki/sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/speechactritual/"
     },
     "SpeechLanguageRehabilitation": {
       "episode_count": 2,
@@ -66691,6 +67177,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/sustainablehealthoptimization/"
+    },
+    "SvenSchulze": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/svenschulze/"
     },
     "SweetenerUncertainty": {
       "episode_count": 2,
@@ -69271,6 +69773,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/toleranceofdifference/"
     },
+    "TomNuttall": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/tomnuttall/"
+    },
     "TomOrton": {
       "episode_count": 1,
       "show_count": 1,
@@ -70256,9 +70774,9 @@
       "url": "/wiki/entities/uber/"
     },
     "UlrichSiegmund": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Right in front： AfD could win German state [6a97f0a5a4a22c581728b85f].md",
@@ -70266,9 +70784,16 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/ulrichsiegmund/"
     },
     "UlsterDefenceAssociation": {
@@ -71171,6 +71696,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/vectorborneinfectionescalation/"
+    },
+    "VenerableSeowon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+          "key": "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f",
+          "show": "Economist Podcasts",
+          "title": "All right on the night: AfD's victory",
+          "url": "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/venerableseowon/"
     },
     "Venezuela": {
       "episode_count": 9,
@@ -81400,6 +81941,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/zongfuli/"
+    },
+    "ZongHengSiHai": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOOMQ_BvEJTAS8O50a [GKwRIMAOOMQ_BvEJTAS8O50a].md",
+          "key": "ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a",
+          "show": "纵横四海",
+          "title": "EP85 营销管理：Mini MBA 第一课",
+          "url": "/wiki/sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/zonghengsihai/"
     },
     "ZongJunEasternHan": {
       "episode_count": 2,

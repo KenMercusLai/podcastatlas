@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 926
+topic_total_pages: 930
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -250,6 +250,9 @@ topic_concepts:
   - key: "ClimateAidRetrenchment"
     title: "Climate Aid Retrenchment"
     url: "/wiki/concepts/climateaidretrenchment/"
+  - key: "ClimateExternalityCostAllocation"
+    title: "Climate Externality Cost Allocation"
+    url: "/wiki/concepts/climateexternalitycostallocation/"
   - key: "ClimateFoodPriceTransmission"
     title: "Climate Food Price Transmission"
     url: "/wiki/concepts/climatefoodpricetransmission/"
@@ -319,6 +322,9 @@ topic_concepts:
   - key: "ContextDependentBiomedicalInterventions"
     title: "Context-Dependent Biomedical Interventions"
     url: "/wiki/concepts/contextdependentbiomedicalinterventions/"
+  - key: "ContrailClimateMitigation"
+    title: "Contrail Climate Mitigation"
+    url: "/wiki/concepts/contrailclimatemitigation/"
   - key: "CoolingAsPublicHealth"
     title: "Cooling As Public Health"
     url: "/wiki/concepts/coolingaspublichealth/"
@@ -2057,6 +2063,9 @@ topic_entities:
   - key: "OliverMorton"
     title: "Oliver Morton"
     url: "/wiki/entities/olivermorton/"
+  - key: "OperationBlueSkies"
+    title: "Operation Blue Skies"
+    url: "/wiki/entities/operationblueskies/"
   - key: "OuraRing"
     title: "Oura Ring"
     url: "/wiki/entities/ouraring/"
@@ -2556,6 +2565,9 @@ topic_sources:
   - key: "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078"
     title: "After the flood: Nepal's ongoing rescue"
     url: "/wiki/sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078/"
+  - key: "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f"
+    title: "All right on the night: AfD's victory"
+    url: "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
   - key: "tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128"
     title: "An \"antacid\" to fight climate change"
     url: "/wiki/sources/tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128/"

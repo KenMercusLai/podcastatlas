@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-07] ingest | Episode 226: 说出口的话，正在塑造你的世界
+
+Ingested the 2026-09-07 迟早更新 crossover with 恰恰小豹 on birdsong playback / 声诱, birdwatching ethics, human extraction from nature, hunting and meal rituals, いただきます, Confucian ritual form, Austin's performative utterances, Trilling/Foucault/Rousseau sincerity context, and saying thanks/apology as a restraint-training ritual. Added source `episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318`; created `QiaQiaXiaoBao`, `JLAustin`, `LionelTrilling`, `BirdsongPlaybackEthics`, `HumanExtractionPosture`, `RitualizedApologyGratitude`, `SpeechActRitual`, and `ItadakimasuEverydayRitual`; updated `RenNing`, `ChizaoGengxin`, `HopeIsTheThingWithFeathersBook`, `index`, and `overview`. No settled contradiction found; the playback ritual is recorded as a philosophical restraint practice, not as permission or a field protocol.
+
 ## [2026-09-07] ingest | 时代症候，与安定此心
 
 Ingested the 2026-09-07 面基 episode with Beijing Anding Hospital psychiatrist Jiang Tao on schizophrenia family caregiving, insight and hospitalization, functional psychiatric diagnosis, psychotherapy and online-scale boundaries, somatization, mental-illness destigmatization, long-term medication, and desire-capacity fit under contemporary anxiety and achievement pressure. Added source `shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql`; created `JiangTaoPsychiatrist`, `BeijingAndingHospital`, `PsychiatricFunctionalDiagnosis`, `SeriousMentalIllnessFamilyCareBoundary`, `MentalIllnessDestigmatization`, `SomatizationAsBodyAlarm`, and `DesireCapacityFit`; updated `index`. No settled contradiction found; the episode remains public psychoeducation and family-perspective discussion rather than individualized diagnosis, medication, hospitalization, psychotherapy, or crisis-intervention guidance.
@@ -15648,6 +15652,10 @@ Ingested the 2026-08-11 大小电波 episode on Wahaha and Zong Qinghou as the o
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-07] ingest | All right on the night: AfD's victory
+
+Ingested the 2026-09-07 The Intelligence episode on AfD's 44% Saxony-Anhalt victory, CDU collapse, BSW kingmaker arithmetic, Operation Blue Skies contrail mitigation, and young South Koreans' renewed interest in Buddhism. Added source `all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f`; created `TomNuttall`, `BundnisSahraWagenknecht`, `SvenSchulze`, `OperationBlueSkies`, `JogyeOrder`, `SoobinKim`, `VenerableSeowon`, `ContrailClimateMitigation`, `ClimateExternalityCostAllocation`, `GermanCaretakerStalemate`, `SecularBuddhismAppeal`, and `CommercializedReligiousAdaptation`; updated `AlternativeForGermany`, `SaxonyAnhalt`, `UlrichSiegmund`, `BrandmauerCordonSanitaire`, `FarRightStateGovernanceTest`, `RemigrationPolitics`, `FriedrichMerz`, and `ChristianDemocraticUnionGermany`. No settled contradiction found; the source qualifies the earlier pre-election Saxony-Anhalt branch by turning possible AfD majority into reported AfD plurality plus BSW/minority/caretaker uncertainty.
+
 ## [2026-09-07] ingest | Episode 228: 所以，奥德赛
 
 Ingested the 2026-09-07 迟早更新 episode connecting the Beatles' "Because", Luo Dayou's 《所以》, Homer and Nolan's Odyssey, Earthrise, Stewart Brand, Whole Earth Catalog, GPT, AI, data, chips, classic revoicing, poetic causality, and responsibility after expanded technical power. Added source `episode-228-suoyi-aodesai-8211241331-711602`; created `LuoDayou`, `TheBeatles`, `BecauseSong`, `SuoyiSong`, `WholeEarthCatalog`, `EarthrisePhoto`, `BlueMarblePhoto`, `PoeticCausality`, `TechnologicalResponsibilityRadius`, and `ClassicRevoicingFromNewPosition`; updated `RenNing`, `ChizaoGengxin`, `StewartBrand`, `ChristopherNolan`, `TheOdyssey`, `Odysseus`, `HomericAdaptationModernization`, `MetisHeroicCunning`, `HomericNostos`, `index`, and `overview`. No settled contradiction found; the episode's song and film connections are kept source-scoped where they are interpretive rather than documentary influence claims.
@@ -15901,5 +15909,21 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-08] ingest | EP85 营销管理：Mini MBA 第一课
+
+Ingested the 2026-07-25 纵横四海 Mini MBA episode on marketing management as a strategy-STP-4P chain. Added source `ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a`; created `ZongHengSiHai`, `MarketingManagementChain`, `MarketingEthics`, `BrandBelief`, `CoreCompetenceStrategy`, `STPMarketingFramework`, `CustomerValueBasedPricing`, and `ChannelLengthRisk`. No settled contradiction found; the episode complements existing consumer-brand, willingness-to-pay, and channel-control pages by making their management sequence explicit.
+
+## [2026-09-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

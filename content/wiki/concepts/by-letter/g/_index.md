@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6621
+wiki_total_pages: 6638
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "GeopoliticalCycleMacro"
     title: "Geopolitical Cycle Macro"
     url: "/wiki/concepts/geopoliticalcyclemacro/"
+  - key: "GermanCaretakerStalemate"
+    title: "German Caretaker Stalemate"
+    url: "/wiki/concepts/germancaretakerstalemate/"
   - key: "GermanLuxuryCarChinaPressure"
     title: "German Luxury Car China Pressure / 德系豪华车中国压力"
     url: "/wiki/concepts/germanluxurycarchinapressure/"

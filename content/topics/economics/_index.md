@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1949
+topic_total_pages: 1951
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -568,6 +568,9 @@ topic_concepts:
   - key: "ClientCenteredWealthManagement"
     title: "Client-Centered Wealth Management / 以客户为中心的财富管理"
     url: "/wiki/concepts/clientcenteredwealthmanagement/"
+  - key: "ClimateExternalityCostAllocation"
+    title: "Climate Externality Cost Allocation"
+    url: "/wiki/concepts/climateexternalitycostallocation/"
   - key: "CloudSegmentRevenueDisclosure"
     title: "Cloud Segment Revenue Disclosure / 云业务分部收入披露"
     url: "/wiki/concepts/cloudsegmentrevenuedisclosure/"
@@ -5018,6 +5021,9 @@ topic_entities:
   - key: "HongseHuojianIndexTool"
     title: "红色火箭 / Hongse Huojian"
     url: "/wiki/entities/hongsehuojianindextool/"
+  - key: "ZongHengSiHai"
+    title: "纵横四海 / Zong Heng Si Hai"
+    url: "/wiki/entities/zonghengsihai/"
   - key: "MeilunMeihuan"
     title: "美轮美换 / Meilun Meihuan"
     url: "/wiki/entities/meilunmeihuan/"

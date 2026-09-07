@@ -6,7 +6,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP85 营销管理：Mini MBA 第一课](sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a.md) — 纵横四海 Mini MBA episode on marketing as a strategy-STP-4P chain, covering marketing ethics, brand belief, core competence, segmentation, targeting, positioning, value-based pricing, and channel risk.
+- [All right on the night: AfD's victory](sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f.md) — The Intelligence episode on AfD's 44% Saxony-Anhalt win, CDU collapse, BSW kingmaker arithmetic, contrail mitigation through Operation Blue Skies, and young South Koreans' renewed interest in Buddhism.
 - [时代症候，与安定此心](sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql.md) — 面基 episode with psychiatrist Jiang Tao on schizophrenia family caregiving, psychiatric diagnosis by function, somatization, mental-illness stigma, psychotherapy boundaries, and desire-capacity fit under contemporary anxiety.
+- [Episode 226: 说出口的话，正在塑造你的世界](sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318.md) — 迟早更新 crossover with 恰恰小豹 on birdsong playback ethics, human extraction from nature, ritualized apology, いただきます, Confucian form, speech acts, sincerity, and words training restraint.
 - [Episode 228: 所以，奥德赛](sources/episode-228-suoyi-aodesai-8211241331-711602.md) — 迟早更新 episode connecting the Beatles' "Because", Luo Dayou's 《所以》, Homer/Nolan's Odyssey, Earthrise, Whole Earth Catalog, AI, poetic causality, and responsibility after expanded technical power.
 - [Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘](sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw.md) — 不懂球 episode with Li Junrong on Hong Kong football professionalization, the Seiko dynasty, foreign-player escalation, commercial-team membership, and owner-control governance.
 - [How Mitochondria Control Your Metabolism | Dr. Jared Rutter](sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664.md) — Huberman Lab episode with Jared Rutter on mitochondria, cell-specific metabolism, pyruvate routing, MPC1/MPC2, lactate as fuel, cancer metabolic reprogramming, ROS stress, and biomedical uncertainty boundaries.
@@ -1991,6 +1994,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [纵横四海 / Zong Heng Si Hai](entities/ZongHengSiHai.md) — Chinese podcast show represented here by a Mini MBA marketing-management episode that connects strategy, STP, 4P, consumer ethics, brand belief, and personal positioning.
+- [Tom Nuttall](entities/TomNuttall.md) — The Intelligence participant reporting from AfD's Saxony-Anhalt election-night party and explaining the post-election arithmetic.
+- [Bündnis Sahra Wagenknecht / BSW](entities/BundnisSahraWagenknecht.md) — Populist-left German party that becomes a possible Saxony-Anhalt kingmaker after AfD's large plurality.
+- [Sven Schulze](entities/SvenSchulze.md) — CDU Saxony-Anhalt premier whose weakened incumbent position anchors the caretaker-stalemate scenario.
+- [Operation Blue Skies](entities/OperationBlueSkies.md) — North Atlantic trial testing whether small flight-altitude changes can reduce warming aircraft contrails.
+- [Jogye Order](entities/JogyeOrder.md) — Korean Buddhist organization behind the Seoul expo used to study modern Buddhist outreach.
+- [Soobin Kim](entities/SoobinKim.md) — Reporter covering the Seoul Buddhist expo and young South Koreans' renewed interest in Buddhism.
+- [Venerable Seowon](entities/VenerableSeowon.md) — Korean Buddhist monk who presents modern religious adaptations as possible entry points into Buddhism.
 - [江涛 / Jiang Tao (Psychiatrist)](entities/JiangTaoPsychiatrist.md) — Beijing Anding Hospital psychiatrist explaining severe mental illness, diagnosis, family care, somatization, and destigmatization in the 面基 episode.
 - [北京市安定医院 / Beijing Anding Hospital](entities/BeijingAndingHospital.md) — Psychiatric-care institution named as Jiang Tao's affiliation and source context for the 面基 mental-health episode.
 - [李峻嵘 / 李俊仁 / Li Junrong](entities/LiJunrongFootballHistorian.md) — Guest historian/commentator for the Hong Kong football professionalization and club-governance episode.
@@ -2048,6 +2059,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Lanier](entities/MarkLanier.md) — Product-liability lawyer named in the social-media litigation discussion around design-defect strategy.
 - [UNICEF](entities/UnitedNationsChildrenFund.md) — Child-focused UN institution cited for the argument that parents alone cannot police opaque social-media platforms and algorithms.
 - [迟早更新 / Chizao Gengxin](entities/ChizaoGengxin.md) — Essayistic podcast represented by episodes on carrier-bag narrative, embodied reading, AI-era association, music, classics, and technology responsibility.
+- [恰恰小豹 / Qia Qia Xiao Bao](entities/QiaQiaXiaoBao.md) — Birdwatching podcast represented through a 迟早更新 crossover on birdsong playback, field ethics, ritual speech, and observer responsibility.
+- [J. L. Austin / 奥斯丁](entities/JLAustin.md) — Language philosopher used by Episode 226 to explain performative utterances, speech-act ritual, and apology or promise as action.
+- [Lionel Trilling / 莱昂内尔·特里林](entities/LionelTrilling.md) — Literary critic used by Episode 226 to historicize sincerity and qualify the dismissal of ritual speech as fake.
 - [罗大佑 / Luo Dayou](entities/LuoDayou.md) — Songwriter represented through 《所以》 as a mature response to "Because" and a meditation on AI-era consequence.
 - [The Beatles / 披头士](entities/TheBeatles.md) — Band represented through "Because" as the earlier song in Episode 228's because/so poetic-causality comparison.
 - ["Because" / Beatles Song](entities/BecauseSong.md) — Beatles song read as using a logical connective poetically to connect world, wind, sky, love, and feeling.
@@ -11230,6 +11244,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Brand Belief / 品牌信念](concepts/BrandBelief.md) — Consumer-held belief structure that defines what a brand means beyond logo, product feature, or internal business-unit boundary.
+- [Channel Length Risk / 渠道长度风险](concepts/ChannelLengthRisk.md) — Distribution risk where more intermediaries can expand reach while weakening price control, authenticity, feedback, service, and brand coherence.
+- [Core Competence Strategy / 核心竞争力战略](concepts/CoreCompetenceStrategy.md) — Strategy discipline of finding the durable capability behind visible assets and choosing goals, markets, and resources around that capability.
+- [Customer Value-Based Pricing / 消费者价值定价](concepts/CustomerValueBasedPricing.md) — Pricing frame that ties price and promotion to consumer value, surplus recognition, retention, and ethical limits.
+- [Marketing Ethics / 营销伦理](concepts/MarketingEthics.md) — Boundary discipline for using targeting, persuasion, pricing, channels, and promotion to create real value rather than manipulate consumers.
+- [Marketing Management Chain / 营销管理链路](concepts/MarketingManagementChain.md) — Integrated strategy-STP-4P route for making marketing decisions coherent from identity and capability through execution.
+- [STP Marketing Framework / STP营销框架](concepts/STPMarketingFramework.md) — Segmentation, targeting, and positioning bridge that turns strategy into customer definition and belief-change positioning.
+- [Contrail Climate Mitigation](concepts/ContrailClimateMitigation.md) — Aviation climate intervention focused on reducing persistent warming contrails through targeted flight-altitude changes.
+- [Climate Externality Cost Allocation](concepts/ClimateExternalityCostAllocation.md) — Policy problem of assigning small operational costs that reduce diffuse climate harm.
+- [German Caretaker Stalemate](concepts/GermanCaretakerStalemate.md) — Saxony-Anhalt scenario where AfD's large plurality does not immediately produce a stable executive.
+- [Secular Buddhism Appeal](concepts/SecularBuddhismAppeal.md) — Pattern where Buddhist practices attract young secular Koreans by offering calm and perspective without deity-centered belief.
+- [Commercialized Religious Adaptation](concepts/CommercializedReligiousAdaptation.md) — Use of events, merchandise, media formats, and paid experiences to make religious traditions accessible to new audiences.
 - [Psychiatric Functional Diagnosis / 精神科功能受损诊断](concepts/PsychiatricFunctionalDiagnosis.md) — Diagnostic-literacy frame that psychiatric assessment depends on symptoms, course, context, and functional impairment rather than online scales or self-labeling.
 - [Serious Mental Illness Family Care Boundary / 重性精神障碍家属照护边界](concepts/SeriousMentalIllnessFamilyCareBoundary.md) — Family-care boundary separating treatment support and safety from guilt-driven unlimited sacrifice.
 - [Mental Illness Destigmatization / 精神疾病去污名化](concepts/MentalIllnessDestigmatization.md) — Anti-shame frame for treating psychiatric disorders as illnesses while preserving risk, treatment, privacy, and diagnostic boundaries.
@@ -15478,6 +15504,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Crab Cultural Symbolism](concepts/CrabCulturalSymbolism.md) — Frame for how crabs become delicacy, pest, monster, literary object, proverb, ethical problem, and folk-story actor.
 - [Animal Moral Projection](concepts/AnimalMoralProjection.md) — Pattern where humans read animal bodies and behavior as moral lessons, insults, defenses, or social commentary.
 - [Eating And Killing Moral Ambivalence](concepts/EatingAndKillingMoralAmbivalence.md) — Tension between culinary pleasure and awareness of animal killing, grounded by Huang Tingjian's crab poems and Buddhist hesitation.
+- [Birdsong Playback Ethics / 鸣声回放伦理](concepts/BirdsongPlaybackEthics.md) — Birdwatching ethics frame separating the conduct rule from post-action self-accounting and treating ritualized apology as restraint rather than permission.
+- [Human Extraction Posture / 人向自然索取的姿态](concepts/HumanExtractionPosture.md) — Ethical frame for acknowledging everyday taking from nature without treating acknowledgment as compensation.
+- [Ritualized Apology And Gratitude / 仪式化抱歉与感谢](concepts/RitualizedApologyGratitude.md) — Small speech practice of thanking and apologizing after disturbance so the contradiction remains visible and can train later restraint.
+- [Speech Act Ritual / 言语行为仪式](concepts/SpeechActRitual.md) — Language-ritual frame where words matter through what they perform, bind, and train, not only through inner sincerity.
+- [Itadakimasu Everyday Ritual / いただきます日常仪式](concepts/ItadakimasuEverydayRitual.md) — Everyday meal phrase used by Episode 226 to show how repeated speech can preserve attention to food, life, labor, and receiving.
 - [New Wave Science Fiction / 科幻新浪潮](concepts/ScienceFictionNewWave.md) — Literary-history frame for Zelazny's experimental but still humanistic science-fiction position.
 - [Mythic Science Fiction Style](concepts/MythicScienceFictionStyle.md) — Zelazny-style fusion of speculative premises with myth, scripture, poetry, art, and epic emotional scale.
 - [Robot-Human Boundary](concepts/RobotHumanBoundary.md) — Question of how machines become person-like and people become machine-like through body, trauma, upload, and agency.

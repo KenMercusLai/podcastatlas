@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2227
+topic_total_pages: 2232
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -550,6 +550,9 @@ topic_concepts:
   - key: "ClimateAidRetrenchment"
     title: "Climate Aid Retrenchment"
     url: "/wiki/concepts/climateaidretrenchment/"
+  - key: "ClimateExternalityCostAllocation"
+    title: "Climate Externality Cost Allocation"
+    url: "/wiki/concepts/climateexternalitycostallocation/"
   - key: "ClubNationalTeamBoundaryBlur"
     title: "Club-National Team Boundary Blur"
     url: "/wiki/concepts/clubnationalteamboundaryblur/"
@@ -1279,6 +1282,9 @@ topic_concepts:
   - key: "GeopoliticalCycleMacro"
     title: "Geopolitical Cycle Macro"
     url: "/wiki/concepts/geopoliticalcyclemacro/"
+  - key: "GermanCaretakerStalemate"
+    title: "German Caretaker Stalemate"
+    url: "/wiki/concepts/germancaretakerstalemate/"
   - key: "GiftRefusalAsAuthority"
     title: "Gift Refusal As Authority / 拒礼立威"
     url: "/wiki/concepts/giftrefusalasauthority/"
@@ -5327,6 +5333,9 @@ topic_entities:
   - key: "SuyashPasi"
     title: "Suyash Pasi"
     url: "/wiki/entities/suyashpasi/"
+  - key: "SvenSchulze"
+    title: "Sven Schulze"
+    url: "/wiki/entities/svenschulze/"
   - key: "Switzerland"
     title: "Switzerland"
     url: "/wiki/entities/switzerland/"
@@ -5411,6 +5420,9 @@ topic_entities:
   - key: "TomGardner"
     title: "Tom Gardner"
     url: "/wiki/entities/tomgardner/"
+  - key: "TomNuttall"
+    title: "Tom Nuttall"
+    url: "/wiki/entities/tomnuttall/"
   - key: "TonyPippa"
     title: "Tony Pippa"
     url: "/wiki/entities/tonypippa/"
@@ -6030,6 +6042,9 @@ topic_sources:
   - key: "tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128"
     title: "AI-driven law could be an answer to accessible legal help"
     url: "/wiki/sources/tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128/"
+  - key: "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f"
+    title: "All right on the night: AfD's victory"
+    url: "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260"
     title: "All-In's 2026 Predictions"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260/"
