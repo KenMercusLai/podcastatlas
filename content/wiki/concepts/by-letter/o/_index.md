@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6591
+wiki_total_pages: 6594
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -125,6 +125,9 @@ wiki_pages:
   - key: "OfflineHandsetChannelSystem"
     title: "Offline Handset Channel System"
     url: "/wiki/concepts/offlinehandsetchannelsystem/"
+  - key: "OfflinePlatformSafetyBoundary"
+    title: "Offline Platform Safety Boundary / 线下平台安全边界"
+    url: "/wiki/concepts/offlineplatformsafetyboundary/"
   - key: "OilCompanyEnclave"
     title: "Oil Company Enclave"
     url: "/wiki/concepts/oilcompanyenclave/"

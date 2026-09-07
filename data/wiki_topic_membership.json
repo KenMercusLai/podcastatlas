@@ -29593,6 +29593,13 @@
       "url": "/topics/history/"
     }
   ],
+  "HighRecallSafetyIntervention": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "HighRiskSurgicalInnovation": [
     {
       "key": "science",

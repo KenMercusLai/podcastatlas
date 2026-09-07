@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全](sources/no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi.md) — 三五环 interview with Didi ride-hailing safety lead Xu Xiaonan / Qu Xiaonan on post-2018 safety rebuilding, high-recall AI warning, human review, privacy controls, drunk and minor passenger risks, and offline ride-safety gaps.
 - [#399 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨十周年特别节目](sources/399-jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-shizhounian-tebie-jiemu-b8cd9085-c37e-4dd3-92d7-5d7be257f078.md) — 声东击西 tenth-anniversary special with Jia Yangqing on AI's path from unfashionable research label to infrastructure, cloud, startup, and agent-verification platform, corroborating the earlier crossover source.
 - [当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来](sources/dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue.md) — 电影巨辩 episode reading Christopher Nolan's The Odyssey through auteur power, Homeric modernization, PTSD homecoming, Zeus-law trust, metis/kleos, IMAX authenticity, and polarized political reception.
 - [风味吃喝：娃哈哈，宗庆后的三次赌局](sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx.md) — 大小电波 episode tracing Wahaha and Zong Qinghou through children's nutrition products, AD钙奶, pure water, 非常可乐, 营养快线, 联销体, 销地产, the Danone dispute, diversification, e-commerce delay, and Zong Fuli succession.
@@ -1984,6 +1985,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [徐晓楠 / 曲晓楠](entities/XuXiaonan.md) — Didi ride-hailing safety lead in the 三五环 episode on platform safety operations, high-recall intervention, privacy, drunk passengers, minors, and offline ride risks.
 - [电影巨辩](entities/DianyingJubian.md) — Film-discussion podcast represented here by a dense Nolan Odyssey episode linking cinema, classics, mythology, politics, and IMAX technology.
 - [Emma Thomas](entities/EmmaThomas.md) — Producer and Syncopy partner used in the Nolan Odyssey episode to explain Nolan's project-centered production leverage.
 - [Syncopy](entities/Syncopy.md) — Nolan-associated production company framed as a lean control vehicle for project-by-project studio negotiation.
@@ -7288,9 +7290,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bafang Electric / 八方股份](entities/BafangElectric.md) — Chinese E-bike motor company used by the episode to illustrate value-chain shift toward electric-assist systems.
 - [李诞](entities/LiDan.md) — Comedian and creator guest explaining podcast intimacy, AI-assisted adult learning, AI creation disclosure, and middle-age technology memory in the Banlatte special.
 - [肖磊](entities/XiaoLei.md) — Banlatte host whose radio-to-podcast path and preparation-heavy work describe Chinese podcast production from the media-worker side.
-- [刘飞](entities/LiuFei.md) — Banlatte host and former product manager connecting business storytelling, 三五环, podcast commerce, AI-video creator interviews, and ecosystem relationships.
+- [刘飞](entities/LiuFei.md) — Banlatte host and former product manager connecting business storytelling, 三五环, podcast commerce, AI-video creator interviews, and platform safety operations.
 - [小宇宙](entities/Xiaoyuzhou.md) — Chinese podcast-platform context for podcast ecosystem discussion, platform-affordance examples, education projects, and the 面基 talent group livestreaming episode.
-- [三五环](entities/SanWuHuan.md) — Liu Fei podcast context now represented as a practitioner-interview venue for AI video, creator work, internet expression, and product-cultural questions.
+- [三五环](entities/SanWuHuan.md) — Liu Fei podcast context represented through practitioner interviews on AI video, creator work, internet expression, product-cultural questions, and ride-hailing safety operations.
 - [朱晓东 / Zhu Xiaodong](entities/ZhuXiaodongSportsRights.md) — Sports-rights specialist and Lizan Sports CEO explaining World Cup rights pricing, packaging, and buyer capacity in E237.
 - [张斌 / Zhang Bin](entities/ZhangBinSportsMedia.md) — Sports media figure explaining platform and China-market implications of CCTV-FIFA rights negotiation in E237.
 - [力赞体育 / Lizan Sports](entities/LizanSports.md) — Sports-rights company context for Zhu Xiaodong in E237.
@@ -10703,7 +10705,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SenseTime](entities/SenseTime.md) — AI company where Gao Jiyang and Cao Xudong encountered deep-learning commercialization before later autonomous-driving and robotics work.
 - [Microsoft Research Asia](entities/MicrosoftResearchAsia.md) — Research lab where Cao Xudong worked in Sun Jian's group and absorbed experiment-centered computer-vision discipline.
 - [Sun Jian](entities/SunJian.md) — Computer-vision researcher whose MSRA group influenced Cao Xudong's experimental and empirical working style.
-- [Didi](entities/Didi.md) — Mobility platform named as a potential Robotaxi ecosystem partner for Momenta's ASG supplier route in China.
+- [Didi](entities/Didi.md) — Mobility platform represented through Robotaxi ecosystem positioning, operating updates, and a detailed ride-hailing safety-operations account.
 - [AutoNavi / Gaode](entities/AutoNavi.md) — Map and mobility platform named as a potential Robotaxi ecosystem partner for Momenta in China.
 - [T3 Chuxing](entities/T3Chuxing.md) — Mobility platform named beside Didi and AutoNavi in Momenta's partner-led China Robotaxi route.
 - [Project Glassfin](entities/ProjectGlassfin.md) — Anthropic security effort discussed as an AI-assisted vulnerability-discovery case with coordinated remediation implications.
@@ -11195,6 +11197,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Ride-Hailing Safety Operations / 网约车安全运营](concepts/RideHailingSafetyOperations.md) — Layered platform workflow for reducing ride-hailing risk from order matching through safe driver-passenger separation.
+- [High-Recall Safety Intervention / 高召回安全干预](concepts/HighRecallSafetyIntervention.md) — Safety posture that accepts false alarms, interruptions, and review burden to reduce missed severe incidents.
+- [Offline Platform Safety Boundary / 线下平台安全边界](concepts/OfflinePlatformSafetyBoundary.md) — Limit of platform safety visibility when a physical service moves offline, becomes silent, hides the true user, or continues after the transaction.
 - [Nolan Reality Spectacle / 诺兰真实奇观](concepts/NolanRealitySpectacle.md) — Nolan-specific combination of practical large-format spectacle and intellectual structure that makes films feel like theatrical events.
 - [Psychological Myth Modernization / 神话心理化改编](concepts/PsychologicalMythModernization.md) — Adaptation strategy that translates gods, magic, monsters, and fate into ambiguous subjective experience, trauma, memory, and guilt.
 - [PTSD Homecoming Narrative / 创伤版回家叙事](concepts/PTSDHomecomingNarrative.md) — War-return pattern where reaching home depends on surviving guilt, memory, violence, and damaged worthiness.
@@ -12297,7 +12302,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [China Burger Expansion / 中国汉堡开店潮](concepts/ChinaBurgerExpansion.md) — Restaurant-market pattern where foreign burger chains, adjacent Chinese brands, and existing operators test burgers as meal occasions with value and premium variants.
 - [Yellow Lemon Price Cycle / 黄柠檬价格周期](concepts/YellowLemonPriceCycle.md) — Supply-demand pattern where better Anyue output, export disruption, inventory, and weaker tea-drink procurement push domestic yellow-lemon prices down.
 - [Soft-Discount Retail / 软折扣零售](concepts/SoftDiscountRetail.md) — Discount format based on close-dated, overstock, and tail-goods supply, contrasted with hard discount's structural operating efficiency.
-- [Public Safety Privacy Tradeoff](concepts/PublicSafetyPrivacyTradeoff.md) — Governance problem balancing crime-solving and safety benefits against retention, abuse, tracking, user control, transparency, and police-trust risks.
+- [Public Safety Privacy Tradeoff](concepts/PublicSafetyPrivacyTradeoff.md) — Governance problem balancing crime-solving, emergency response, and ride-hailing harm prevention against retention, tracking, recording, user control, access, and trust risks.
 - [Automatic License Plate Reader](concepts/AutomaticLicensePlateReader.md) — Camera-and-software pattern that turns vehicle plates and attributes into searchable public-safety records.
 - [Police Data Access Audit](concepts/PoliceDataAccessAudit.md) — Accountability layer for detecting and disciplining misuse of police-accessible surveillance databases.
 - [Local Surveillance Governance](concepts/LocalSurveillanceGovernance.md) — City, state, transparency, and retention-control model for public-safety surveillance deployments.

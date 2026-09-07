@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6591
+wiki_total_pages: 6594
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -620,6 +620,9 @@ wiki_pages:
   - key: "RFIDCheckout"
     title: "RFID Checkout"
     url: "/wiki/concepts/rfidcheckout/"
+  - key: "RideHailingSafetyOperations"
+    title: "Ride-Hailing Safety Operations / 网约车安全运营"
+    url: "/wiki/concepts/ridehailingsafetyoperations/"
   - key: "RightWingMediaInfrastructure"
     title: "Right-Wing Media Infrastructure"
     url: "/wiki/concepts/rightwingmediainfrastructure/"

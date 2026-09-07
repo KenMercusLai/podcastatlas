@@ -25403,6 +25403,10 @@
     "title": "High Merit Threat Management / 功高不震主",
     "url": "/wiki/concepts/highmeritthreatmanagement/"
   },
+  "HighRecallSafetyIntervention": {
+    "title": "High-Recall Safety Intervention / 高召回安全干预",
+    "url": "/wiki/concepts/highrecallsafetyintervention/"
+  },
   "HighResponsibilityDensity": {
     "title": "High Responsibility Density",
     "url": "/wiki/concepts/highresponsibilitydensity/"
@@ -40299,6 +40303,10 @@
     "title": "Offline Handset Channel System",
     "url": "/wiki/concepts/offlinehandsetchannelsystem/"
   },
+  "OfflinePlatformSafetyBoundary": {
+    "title": "Offline Platform Safety Boundary / 线下平台安全边界",
+    "url": "/wiki/concepts/offlineplatformsafetyboundary/"
+  },
   "Ofo": {
     "title": "OFO / 小黄车",
     "url": "/wiki/entities/ofo/"
@@ -47114,6 +47122,10 @@
   "RickyAlam": {
     "title": "Ricky Alam",
     "url": "/wiki/entities/rickyalam/"
+  },
+  "RideHailingSafetyOperations": {
+    "title": "Ride-Hailing Safety Operations / 网约车安全运营",
+    "url": "/wiki/concepts/ridehailingsafetyoperations/"
   },
   "RidolfiPlot": {
     "title": "Ridolfi Plot",
@@ -60883,6 +60895,10 @@
     "title": "许相 / Xu Xiang (late Han)",
     "url": "/wiki/entities/xuxianglatehan/"
   },
+  "XuXiaonan": {
+    "title": "徐晓楠 / 曲晓楠",
+    "url": "/wiki/entities/xuxiaonan/"
+  },
   "XuXiyuan": {
     "title": "徐熙元",
     "url": "/wiki/entities/xuxiyuan/"
@@ -66390,6 +66406,10 @@
   "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666": {
     "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
     "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+  },
+  "no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi": {
+    "title": "No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全",
+    "url": "/wiki/sources/no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi/"
   },
   "no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil": {
     "title": "No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理",

@@ -17305,6 +17305,36 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/dianyingjubian/"
     },
+    "Didi": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？ [1006742982].md",
+          "key": "vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982",
+          "show": "声动早咖啡",
+          "title": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？",
+          "url": "/wiki/sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982/"
+        },
+        {
+          "episode_file": "Momenta IPO后再访曹旭东：就是想做没有尽头的AI (1) [172-1].md",
+          "key": "momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1",
+          "show": "晚点聊 LateTalk",
+          "title": "Momenta IPO后再访曹旭东：就是想做没有尽头的AI",
+          "url": "/wiki/sources/momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1/"
+        },
+        {
+          "episode_file": "GKwRIUEOR0J1AYQKYATBzBPI [GKwRIUEOR0J1AYQKYATBzBPI].md",
+          "key": "no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi",
+          "show": "三五环",
+          "title": "No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全",
+          "url": "/wiki/sources/no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/didi/"
+    },
     "DieStemVanSuidAfrika": {
       "episode_count": 1,
       "show_count": 1,
@@ -31582,6 +31612,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/highmeritthreatmanagement/"
     },
+    "HighRecallSafetyIntervention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOR0J1AYQKYATBzBPI [GKwRIUEOR0J1AYQKYATBzBPI].md",
+          "key": "no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi",
+          "show": "三五环",
+          "title": "No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全",
+          "url": "/wiki/sources/no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/highrecallsafetyintervention/"
+    },
     "HighStatusCautionSelfProtection": {
       "episode_count": 2,
       "show_count": 1,
@@ -40959,9 +41005,9 @@
       "url": "/wiki/entities/liufanglatehan/"
     },
     "LiuFei": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -40983,6 +41029,13 @@
           "show": "三五环",
           "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
           "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
+        },
+        {
+          "episode_file": "GKwRIUEOR0J1AYQKYATBzBPI [GKwRIUEOR0J1AYQKYATBzBPI].md",
+          "key": "no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi",
+          "show": "三五环",
+          "title": "No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全",
+          "url": "/wiki/sources/no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi/"
         }
       ],
       "updated": "2026-09-07",
@@ -50197,6 +50250,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/officialsalaryextractionrisk/"
     },
+    "OfflinePlatformSafetyBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOR0J1AYQKYATBzBPI [GKwRIUEOR0J1AYQKYATBzBPI].md",
+          "key": "no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi",
+          "show": "三五环",
+          "title": "No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全",
+          "url": "/wiki/sources/no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/offlineplatformsafetyboundary/"
+    },
     "OilConcessionBargaining": {
       "episode_count": 3,
       "show_count": 2,
@@ -55531,9 +55600,9 @@
       "url": "/wiki/concepts/publicexerciseemergencypreparedness/"
     },
     "PublicSafetyPrivacyTradeoff": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Flock CEO Garrett Langley on Controversy, “Surveillance State” Claims, and Privacy vs Safety [42470485].md",
@@ -55548,9 +55617,16 @@
           "show": "Marketplace Tech",
           "title": "Ring Moves to Make Its Video Footage More Private",
           "url": "/wiki/sources/tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "GKwRIUEOR0J1AYQKYATBzBPI [GKwRIUEOR0J1AYQKYATBzBPI].md",
+          "key": "no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi",
+          "show": "三五环",
+          "title": "No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全",
+          "url": "/wiki/sources/no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/publicsafetyprivacytradeoff/"
     },
     "PublicSectorVendorDependence": {
@@ -58482,6 +58558,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/rickrubin/"
     },
+    "RideHailingSafetyOperations": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOR0J1AYQKYATBzBPI [GKwRIUEOR0J1AYQKYATBzBPI].md",
+          "key": "no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi",
+          "show": "三五环",
+          "title": "No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全",
+          "url": "/wiki/sources/no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/ridehailingsafetyoperations/"
+    },
     "RidolfiPlot": {
       "episode_count": 1,
       "show_count": 1,
@@ -59780,9 +59872,9 @@
       "url": "/wiki/entities/samueljohnson/"
     },
     "SanWuHuan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -59804,6 +59896,13 @@
           "show": "三五环",
           "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
           "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
+        },
+        {
+          "episode_file": "GKwRIUEOR0J1AYQKYATBzBPI [GKwRIUEOR0J1AYQKYATBzBPI].md",
+          "key": "no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi",
+          "show": "三五环",
+          "title": "No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全",
+          "url": "/wiki/sources/no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi/"
         }
       ],
       "updated": "2026-09-07",
@@ -74691,6 +74790,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/xutao/"
+    },
+    "XuXiaonan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOR0J1AYQKYATBzBPI [GKwRIUEOR0J1AYQKYATBzBPI].md",
+          "key": "no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi",
+          "show": "三五环",
+          "title": "No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全",
+          "url": "/wiki/sources/no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/xuxiaonan/"
     },
     "XuXuanLateHan": {
       "episode_count": 1,

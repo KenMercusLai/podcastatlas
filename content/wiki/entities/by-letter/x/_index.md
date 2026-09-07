@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9207
+wiki_total_pages: 9208
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -347,6 +347,9 @@ wiki_pages:
   - key: "XuHuangCaoGeneral"
     title: "徐晃 / Xu Huang (Cao general)"
     url: "/wiki/entities/xuhuangcaogeneral/"
+  - key: "XuXiaonan"
+    title: "徐晓楠 / 曲晓楠"
+    url: "/wiki/entities/xuxiaonan/"
   - key: "XuTao"
     title: "徐涛"
     url: "/wiki/entities/xutao/"

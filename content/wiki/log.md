@@ -15847,3 +15847,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-07] ingest | No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全
+
+Ingested the 2026-08-04 三五环 episode with Didi ride-hailing safety lead Xu Xiaonan / Qu Xiaonan on post-2018 safety rebuilding, safety boundaries from order matching to safe separation, driver admission, safety dispatch, AI and human warning, high-recall intervention, drunk and minor passenger risks, offline transactions, recording privacy, and user-side self-protection. Added source `no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi`; created `XuXiaonan`, `RideHailingSafetyOperations`, `HighRecallSafetyIntervention`, and `OfflinePlatformSafetyBoundary`; updated `Didi`, `LiuFei`, `SanWuHuan`, `PublicSafetyPrivacyTradeoff`, `index`, and downstream synthesis artifacts. No settled contradiction found; the source title/body name mismatch and Didi's safety metrics remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

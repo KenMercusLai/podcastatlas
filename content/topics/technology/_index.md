@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2788
+topic_total_pages: 2789
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2041,6 +2041,9 @@ topic_concepts:
   - key: "HighBandwidthMemory"
     title: "High Bandwidth Memory"
     url: "/wiki/concepts/highbandwidthmemory/"
+  - key: "HighRecallSafetyIntervention"
+    title: "High-Recall Safety Intervention / 高召回安全干预"
+    url: "/wiki/concepts/highrecallsafetyintervention/"
   - key: "HighSpeedRailSystemIntegration"
     title: "High-Speed Rail System Integration"
     url: "/wiki/concepts/highspeedrailsystemintegration/"
