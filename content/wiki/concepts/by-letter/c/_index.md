@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6651
+wiki_total_pages: 6654
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1895,6 +1895,9 @@ wiki_pages:
   - key: "CulturalBiasInTesting"
     title: "Cultural Bias In Testing / 测试中的文化偏差"
     url: "/wiki/concepts/culturalbiasintesting/"
+  - key: "CulturalGapStatusSignaling"
+    title: "Cultural Gap Status Signaling / 文化隔阂式地位信号"
+    url: "/wiki/concepts/culturalgapstatussignaling/"
   - key: "CulturalParticipationEvent"
     title: "Cultural Participation Event / 文化参与事件"
     url: "/wiki/concepts/culturalparticipationevent/"

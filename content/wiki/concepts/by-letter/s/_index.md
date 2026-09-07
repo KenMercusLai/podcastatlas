@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6651
+wiki_total_pages: 6654
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1232,6 +1232,9 @@ wiki_pages:
   - key: "StandUpAsSelfNarration"
     title: "Stand-Up As Self-Narration"
     url: "/wiki/concepts/standupasselfnarration/"
+  - key: "StandupClassPositionEqualization"
+    title: "Stand-Up Class Position Equalization / 脱口秀中的阶层位置重组"
+    url: "/wiki/concepts/standupclasspositionequalization/"
   - key: "StandUpPaddleboarding"
     title: "Stand-Up Paddleboarding / 桨板"
     url: "/wiki/concepts/standuppaddleboarding/"
