@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "d66bf76f63a54f6d0c888a125471cc6b4924d5d75d0afdc05503088901bb06b5",
       "1c4c81d2f81d19c9d1729c8d925bf8b7ebea82d9bd235775df205554ce76e233",
       "73a0796fef8f07ea5fe826d0489cd461be04f03b0c915241ec019258fb08734e",
       "81e1ad2a6a08ad9550530f6c94d2fccff737e9e399c820a452a4a5f31acef870",
@@ -578,11 +579,42 @@
       "5f42ccecf5aba2d7233c6344ba2eaf2864f133e18d0af4d0c92d5bc37ee4d5dc",
       "d8d7ba16097695a34f30d301f24adcba5812c1f4801c4f85c3ab1b1f88697cb4"
     ],
-    "paragraph_count": 576
+    "paragraph_count": 577
   },
-  "overview_commit": "b3ac367a55dc0f707ab6fa6cf5bbbaac61e7b34e",
-  "overview_digest": "d1360ef3da49b30327336bb8097c3cc43a88a394d3e033a132d9d6086d63cef7",
+  "overview_commit": "7e44af1c90871253a2c6de396ec45a3b6844d94d",
+  "overview_digest": "4814bac33a1c6e5d084ee50c27503418bd7c57091fda22d3f2ab62fa3d6c4afa",
   "paragraphs": [
+    {
+      "id": "d66bf76f63a54f6d0c888a125471cc6b4924d5d75d0afdc05503088901bb06b5",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb|史蒂夫说469期 - 童立 - 最好的关系是在爱人怀里尽情阳w早x]], a [[ShiDiFuShuo|史蒂夫说]] episode where [[SteveShiDiFuShuoHost|Steve]] interviews [[TongLiSexEducator|童立 / Tong Li]] on sexual recession, sex education, intimacy, counseling, male vulnerability, AI companionship, and adult products. It adds [[TongLiSexEducator|童立 / Tong Li]], [[LifelongSexEducation]], [[SexualExplorationAsSelfKnowledge]], [[SexCounselingNonjudgmentalBoundary]], [[SexualFunctionRelationshipContext]], [[MaleEmotionalIntimacyNeed]], and [[AdultProductsRelationshipSupport]], while extending [[ShiDiFuShuo|史蒂夫说]], [[SteveShiDiFuShuoHost|Steve]], [[BodyBasedSelfTrust]], [[TherapyRelationshipAndBoundaries]], [[HumanConnectionUnderAI]], and [[AICompanionAttentionRisk]]. Its core synthesis is that sex should be understood as life-course exploration involving body, shame, pleasure, relationship safety, law, social norms, and responsibility rather than as mere performance or taboo spectacle. No settled contradiction is recorded; the title/body name variant for Tong Li, counseling cases, adult-products claims, and AI-intimacy forecasts remain source-scoped public psychoeducation rather than individualized clinical, medical, or legal advice.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 2,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AICompanionAttentionRisk",
+        "AdultProductsRelationshipSupport",
+        "BodyBasedSelfTrust",
+        "HumanConnectionUnderAI",
+        "LifelongSexEducation",
+        "MaleEmotionalIntimacyNeed",
+        "SexCounselingNonjudgmentalBoundary",
+        "SexualExplorationAsSelfKnowledge",
+        "SexualFunctionRelationshipContext",
+        "ShiDiFuShuo",
+        "SteveShiDiFuShuoHost",
+        "TherapyRelationshipAndBoundaries",
+        "TongLiSexEducator",
+        "shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb"
+      ]
+    },
     {
       "id": "1c4c81d2f81d19c9d1729c8d925bf8b7ebea82d9bd235775df205554ce76e233",
       "primary_topic": "governance-and-institutions",

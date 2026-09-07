@@ -20,6 +20,27 @@
     },
     {
       "global_candidate": true,
+      "id": "sexual-exploration-needs-body-relationship-and-boundaries",
+      "qualifications": [
+        "The source is public psychoeducation and counseling reflection, not individualized clinical, medical, or legal advice.",
+        "Charged topics such as sexual dysfunction, infidelity, sex work, adult products, and AI intimacy remain bounded by consent, law, health care, and relationship context."
+      ],
+      "statement": "[[SexualExplorationAsSelfKnowledge]] adds a sex-psychology branch where sexual learning works best as life-course exploration of body, shame, pleasure, relationship safety, and responsibility rather than as taboo spectacle or performance proof.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "SexualExplorationAsSelfKnowledge",
+        "LifelongSexEducation",
+        "SexCounselingNonjudgmentalBoundary",
+        "SexualFunctionRelationshipContext",
+        "MaleEmotionalIntimacyNeed",
+        "AdultProductsRelationshipSupport",
+        "BodyBasedSelfTrust",
+        "TherapyRelationshipAndBoundaries",
+        "shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "complex-trauma-reframes-safety-behavior",
       "qualifications": [
         "The pattern is heuristic and cannot substitute for clinical assessment.",
@@ -1459,8 +1480,8 @@
       ]
     }
   ],
-  "input_digest": "c9a3960d74955d570e2ad15db36ff5aa0693f2048b51cad5ce919fc8ec9222e3",
-  "summary": "Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, and careful boundaries around self-interpretation. The newer Steve Says material adds that psychological language can become self-punitive when it is used to monitor the self from a detached, purely logical stance rather than to restore present safety and trustworthy bodily contact. The AHA Creator paragraph adds a secondary work-judgment case: stronger AI can automate repeated workflow steps, but founders and customers still need field exposure, budget judgment, and final approval responsibility.",
+  "input_digest": "255a40b4a85be759bbaf3e456dd95feb1c3ec2aec050d15c5fcefc3395fb8731",
+  "summary": "Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, and careful boundaries around self-interpretation. The newer Steve Says material adds that psychological language can become self-punitive when it is used to monitor the self from a detached, purely logical stance rather than to restore present safety and trustworthy bodily contact. The AHA Creator paragraph adds a secondary work-judgment case: stronger AI can automate repeated workflow steps, but founders and customers still need field exposure, budget judgment, and final approval responsibility. The Tong Li episode adds a sex-psychology branch: life-course sex education, nonjudgmental counseling boundaries, embodied self-knowledge, and relationship-context sexual function extend the same pattern into intimacy, shame, pleasure, responsibility, and male vulnerability.",
   "title": "Psychology and Personal Development",
   "topic_id": "psychology-and-personal-development"
 }

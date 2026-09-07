@@ -3,18 +3,29 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-09-07
-as_of_overview_commit: 3f1bb76289116b110a8b691725621d895a69fbfd
-input_digest: b040fe1028c472f3f0c0f82e90cec97f0f4937d7c6f7cfd6fd837fd756303ed7
+last_updated: 2026-09-08
+as_of_overview_commit: 7e44af1c90871253a2c6de396ec45a3b6844d94d
+input_digest: 5f61b30cb7ef881346984fa3d02fbcd2e151e101046063e9ab032b9307b6dea9
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The Hong Kong football source adds a work-and-society case in which early professional sport remained partly semi-professional: paid players, signing fees, club wages, stable jobs arranged by corporate teams, and owner-control preferences all shaped labor and institutional identity. The broader topic continues to synthesize how work, education, care, creator labor, travel, and social institutions depend on practical routines, trust, incentives, and human judgment rather than formal labels alone.
+The Hong Kong football source adds a work-and-society case in which early professional sport remained partly semi-professional: paid players, signing fees, club wages, stable jobs arranged by corporate teams, and owner-control preferences all shaped labor and institutional identity. The broader topic continues to synthesize how work, education, care, creator labor, travel, and social institutions depend on practical routines, trust, incentives, and human judgment rather than formal labels alone. The Tong Li episode enters this topic only as a source-scoped public-education case: sex education is framed as life-course learning that needs safety, consent, law, relationship context, and age-appropriate boundaries rather than a fixed school-only information transfer.
 
 ## Cross-source Findings
+
+### Lifelong Sex Education Is Source Scoped Public Education Need
+
+[[LifelongSexEducation]] enters work-education-and-society as a source-scoped public-education case: [[shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb]] frames sexual knowledge as life-course learning while [[SexCounselingNonjudgmentalBoundary]], [[SexualExplorationAsSelfKnowledge]], and [[AdultProductsRelationshipSupport]] keep implementation tied to safety, consent, law, relationship context, and age-appropriate boundaries.
+
+**Evidence:** [[LifelongSexEducation]], [[shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb]], [[SexCounselingNonjudgmentalBoundary]], [[SexualExplorationAsSelfKnowledge]], [[AdultProductsRelationshipSupport]], [[TongLiSexEducator]]
+
+**Qualifications:**
+
+- The source does not provide a school curriculum, policy design, or empirical program evaluation.
+- Sex education implementation depends on age, jurisdiction, safeguarding standards, parents, medical care, and local culture.
 
 ### Football Academy Continuity Requires Education And Outlet Infrastructure
 

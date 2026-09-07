@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6640
+wiki_total_pages: 6646
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "AdultIndependenceFromFamily"
     title: "Adult Independence From Family"
     url: "/wiki/concepts/adultindependencefromfamily/"
+  - key: "AdultProductsRelationshipSupport"
+    title: "Adult Products As Relationship Support / 成人用品作为关系支持"
+    url: "/wiki/concepts/adultproductsrelationshipsupport/"
   - key: "AdultSatiricalChildrensClassics"
     title: "Adult Satire In Children's Classics"
     url: "/wiki/concepts/adultsatiricalchildrensclassics/"

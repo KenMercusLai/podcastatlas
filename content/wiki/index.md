@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [史蒂夫说469期 - 童立 - 最好的关系是在爱人怀里尽情阳w早x](sources/shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb.md) — 史蒂夫说 interview with Tong Li on sexual recession, lifelong sex education, sexual exploration, male vulnerability, sexual-function relationship context, counseling boundaries, AI companionship, and adult products as relationship tools.
 - [No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？](sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj.md) — 三五环 interview with Hanqing on AI Talk, Yuri / 尤栗 / 优瑞, AI-native virtual idols, multi-model music/video workflow, personality systems, and real-time AI character risk.
 - [No.226 AI 越强，创业者越要回到用户现场](sources/no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt.md) — 三五环 interview with AHA Creator founder Kate on using AI for overseas creator matching, authenticity checks, multilingual outreach, workflow follow-up, first-pass brief review, and human-retained budget and creative approval.
 - [EP85 营销管理：Mini MBA 第一课](sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a.md) — 纵横四海 Mini MBA episode on marketing as a strategy-STP-4P chain, covering marketing ethics, brand belief, core competence, segmentation, targeting, positioning, value-based pricing, and channel risk.
@@ -1996,6 +1997,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [童立 / Tong Li](entities/TongLiSexEducator.md) — Sex-education communicator and sex-psychology counselor in the 史蒂夫说 episode on sexual exploration, nonjudgmental counseling, male vulnerability, and adult-products relationship support.
 - [汗青 / Hanqing](entities/HanqingUrey.md) — AI Talk founder and Yuri / 尤栗 / 优瑞 creator who frames AI-native idol value around personality, taste, workflow orchestration, and original IP.
 - [Yuri / 尤栗 / 优瑞](entities/UreyVirtualIdol.md) — AI-native virtual idol and digital singer built through multi-model music, image, video, voice, and personality-system workflow.
 - [AI Talk](entities/AITalk.md) — Hanqing's early synthetic virtual-conversation project and training ground before the shift toward original AI-native IP.
@@ -11250,6 +11252,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Lifelong Sex Education / 终身性教育](concepts/LifelongSexEducation.md) — Sex-education frame treating sexual learning as a life-course need across body, pleasure, identity, communication, safety, and changing relationship stages.
+- [Sexual Exploration As Self-Knowledge / 性探索作为自我认识](concepts/SexualExplorationAsSelfKnowledge.md) — View that sexual exploration can reveal body, desire, shame, identity, values, relationship safety, and the balance between impulse and responsibility.
+- [Sex Counseling Nonjudgmental Boundary / 性咨询中的非评判边界](concepts/SexCounselingNonjudgmentalBoundary.md) — Professional counseling posture that makes sexual material speakable without erasing legal, ethical, health, consent, and relational boundaries.
+- [Sexual Function Relationship Context / 性功能的关系语境](concepts/SexualFunctionRelationshipContext.md) — Frame that sexual-function problems often mix physiology, fatigue, stress, shame, communication, partner response, and relationship safety.
+- [Male Emotional Intimacy Need / 男性情感亲密需要](concepts/MaleEmotionalIntimacyNeed.md) — Claim that men often need love, deep intimacy, vulnerability, and safe emotional expression despite scripts that reduce them to sex or performance.
+- [Adult Products As Relationship Support / 成人用品作为关系支持](concepts/AdultProductsRelationshipSupport.md) — Adult-products frame where toys, condoms, BDSM knowledge, cards, and communities matter most when they support safety, imagination, education, and human connection.
 - [AI-Native Virtual Idol / AI 原生虚拟偶像](concepts/AINativeVirtualIdol.md) — Character-IP pattern where AI is part of the idol's identity, production workflow, narrative, and interaction risk boundary.
 - [AI Character Personality System / AI 角色人格系统](concepts/AICharacterPersonalitySystem.md) — Structured identity, tone, visual continuity, values, and narrative direction that make an AI character recognizable beyond any single generated output.
 - [Brand Belief / 品牌信念](concepts/BrandBelief.md) — Consumer-held belief structure that defines what a brand means beyond logo, product feature, or internal business-unit boundary.

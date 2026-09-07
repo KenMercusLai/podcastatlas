@@ -5623,6 +5623,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AdultProductsRelationshipSupport": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "AdultSatiricalChildrensClassics": [
     {
       "key": "culture",
@@ -37724,6 +37731,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "LifelongSexEducation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "LightAndDarkWorldDuality": [
     {
       "key": "culture",
@@ -39702,6 +39716,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "MaleEmotionalIntimacyNeed": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "MaleMenopauseVisibility": [
@@ -55612,6 +55633,20 @@
       "url": "/topics/politics/"
     }
   ],
+  "SexualExplorationAsSelfKnowledge": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "SexualFunctionRelationshipContext": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ShaQingqing": [
     {
       "key": "culture",
@@ -63261,6 +63296,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "TongLiSexEducator": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "TongWarringStates": [
@@ -74753,6 +74795,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi": [

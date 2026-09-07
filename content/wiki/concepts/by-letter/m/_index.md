@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6640
+wiki_total_pages: 6646
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "MakerOperatingSystem"
     title: "Maker Operating System"
     url: "/wiki/concepts/makeroperatingsystem/"
+  - key: "MaleEmotionalIntimacyNeed"
+    title: "Male Emotional Intimacy Need / 男性情感亲密需要"
+    url: "/wiki/concepts/maleemotionalintimacyneed/"
   - key: "MaleHormoneHealthPhenotyping"
     title: "Male Hormone Health Phenotyping"
     url: "/wiki/concepts/malehormonehealthphenotyping/"

@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-08] ingest | 史蒂夫说469期 - 童立 - 最好的关系是在爱人怀里尽情阳w早x
+
+Added source note, Tong Li entity profile, and concepts for lifelong sex education, sexual exploration as self-knowledge, nonjudgmental sex counseling boundaries, sexual-function relationship context, male emotional intimacy need, and adult products as relationship support. No settled contradiction with existing wiki content is recorded.
+
 ## [2026-09-08] ingest | No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？
 
 Ingested the 2026-07-19 三五环 episode with Hanqing on AI Talk, Yuri / 尤栗 / 优瑞, AI-native virtual idols, multi-model music/video workflow, character personality systems, public-figure authorization boundaries, and real-time AI interaction risk. Added source `no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj`; created `HanqingUrey`, `UreyVirtualIdol`, `AITalk`, `OmniHuman`, `AINativeVirtualIdol`, and `AICharacterPersonalitySystem`; updated `SanWuHuan`, `LiuFei`, `index`, and `overview`. No settled contradiction found; Yuri / 尤栗 / 优瑞 naming variants, launch dates, view counts, copyright registration, cash-flow status, model usage, and future narrative plans remain source-scoped.
@@ -15931,6 +15935,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] ingest | EP85 营销管理：Mini MBA 第一课
 
 Ingested the 2026-07-25 纵横四海 Mini MBA episode on marketing management as a strategy-STP-4P chain. Added source `ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a`; created `ZongHengSiHai`, `MarketingManagementChain`, `MarketingEthics`, `BrandBelief`, `CoreCompetenceStrategy`, `STPMarketingFramework`, `CustomerValueBasedPricing`, and `ChannelLengthRisk`. No settled contradiction found; the episode complements existing consumer-brand, willingness-to-pay, and channel-control pages by making their management sequence explicit.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-08] lint | Wiki health check
 
