@@ -40,6 +40,28 @@
     },
     {
       "global_candidate": true,
+      "id": "late-republican-breakdown-turns-law-into-army-backed-precedent",
+      "qualifications": [
+        "The current claim is anchored in The Rest Is History's Roman Civil War sequence and should not be treated as a full comparative theory of republican collapse.",
+        "The Asian massacre figure, Marius exile traditions, Aristion's full program, and Sulla personality-versus-structure causality remain source-scoped."
+      ],
+      "statement": "[[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511|703 Roman Civil War Part 3]] extends [[LateRomanRepublicCrisis]] by showing command transfer hardening into [[FirstMarchOnRome|the first march on Rome]]: [[LuciusCorneliusSulla]] seizes the city under legal language, public-enemy declarations normalize killable opponents, [[LuciusCorneliusCinna]] and [[GaiusMarius]] repeat army-backed outlawry, and [[MithridatesVI]]'s Asian revolt links imperial extraction abroad to civil-war formation at home.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+        "LateRomanRepublicCrisis",
+        "FirstMarchOnRome",
+        "LuciusCorneliusSulla",
+        "LuciusCorneliusCinna",
+        "GaiusMarius",
+        "MithridatesVI",
+        "RepublicanCommandTransferCrisis",
+        "RepublicanEmergencyViolencePrecedent",
+        "MilitaryPersonalization"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "borderlands-accumulate-historical-layers",
       "qualifications": [
         "The Ceuta source keeps Count Julian, the Pillars of Hercules identification, Moroccan intent, and the 1415 Age of Discovery origin claim source-scoped or qualified."
@@ -130,6 +152,6 @@
       ]
     }
   ],
-  "summary": "History and geopolitics synthesis explains power through routes, borderlands, legitimacy claims, frontier command, institutional capacity, military organization, and public memory. The current topic spans physical chokepoints and cables, Eastern Han and late-Han court strategy, revolutionary and imperial state formation, Ceuta's layered role as a Mediterranean-Atlantic enclave, Guandu's command-logistics threshold, and a Qin-Han military-history branch that reads Qin collapse and Chu-Han war through state capacity, coalition structure, logistics, cavalry, and source criticism.",
+  "summary": "History and geopolitics synthesis explains power through routes, borderlands, legitimacy claims, frontier command, institutional capacity, military organization, and public memory. The current topic spans physical chokepoints and cables, Eastern Han and late-Han court strategy, revolutionary and imperial state formation, Ceuta's layered role as a Mediterranean-Atlantic enclave, Guandu's command-logistics threshold, a Qin-Han military-history branch, and a Roman Civil War branch where late-republican legality is increasingly fused to personal armies and emergency outlawry.",
   "topic_id": "history-and-geopolitics"
 }

@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-07
-as_of_overview_commit: dc035cfee61c241f0883093d7ad823f90bd9487c
-input_digest: ce369ccc758871bf8f2d02521645015dff23e25d001d41bf5ec838c4e33fba3d
+as_of_overview_commit: 8c7da14ca5afab830fcbc3a88f2de9b1059cd3d7
+input_digest: 9a2b309c926bbf2719c886fdc3b189d6a4fe50883464c2e705606d4d2737a111
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-History and geopolitics synthesis explains power through routes, borderlands, legitimacy claims, frontier command, institutional capacity, military organization, and public memory. The current topic spans physical chokepoints and cables, Eastern Han and late-Han court strategy, revolutionary and imperial state formation, Ceuta's layered role as a Mediterranean-Atlantic enclave, Guandu's command-logistics threshold, and a Qin-Han military-history branch that reads Qin collapse and Chu-Han war through state capacity, coalition structure, logistics, cavalry, and source criticism.
+History and geopolitics synthesis explains power through routes, borderlands, legitimacy claims, frontier command, institutional capacity, military organization, and public memory. The current topic spans physical chokepoints and cables, Eastern Han and late-Han court strategy, revolutionary and imperial state formation, Ceuta's layered role as a Mediterranean-Atlantic enclave, Guandu's command-logistics threshold, a Qin-Han military-history branch, and a Roman Civil War branch where late-republican legality is increasingly fused to personal armies and emergency outlawry.
 
 ## Cross-source Findings
 
@@ -37,6 +37,17 @@ History and geopolitics synthesis explains power through routes, borderlands, le
 
 - The source-name variants 张诗平/张诗坪 and 陈彦良/成言梁 remain unresolved but non-contradictory in the wiki.
 - The cavalry-technology exchange layer is explicitly inferential and should not be treated as proof of direct one-way transmission.
+
+### Late Republican Breakdown Turns Law Into Army Backed Precedent
+
+[[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511|703 Roman Civil War Part 3]] extends [[LateRomanRepublicCrisis]] by showing command transfer hardening into [[FirstMarchOnRome|the first march on Rome]]: [[LuciusCorneliusSulla]] seizes the city under legal language, public-enemy declarations normalize killable opponents, [[LuciusCorneliusCinna]] and [[GaiusMarius]] repeat army-backed outlawry, and [[MithridatesVI]]'s Asian revolt links imperial extraction abroad to civil-war formation at home.
+
+**Evidence:** [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]], [[LateRomanRepublicCrisis]], [[FirstMarchOnRome]], [[LuciusCorneliusSulla]], [[LuciusCorneliusCinna]], [[GaiusMarius]], [[MithridatesVI]], [[RepublicanCommandTransferCrisis]], [[RepublicanEmergencyViolencePrecedent]], [[MilitaryPersonalization]]
+
+**Qualifications:**
+
+- The current claim is anchored in The Rest Is History's Roman Civil War sequence and should not be treated as a full comparative theory of republican collapse.
+- The Asian massacre figure, Marius exile traditions, Aristion's full program, and Sulla personality-versus-structure causality remain source-scoped.
 
 ### Borderlands Accumulate Historical Layers
 

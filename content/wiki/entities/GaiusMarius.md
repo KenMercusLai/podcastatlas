@@ -6,7 +6,8 @@ sources:
   - 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361
   - 701-roman-civil-war-rise-of-the-general-part-1-glt1262857909
   - 702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089
-last_updated: 2026-09-05
+  - 703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511
+last_updated: 2026-09-07
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,13 +15,15 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Gaius Marius / 马略 is the wiki's central pre-Caesar example of a military outsider whose competence made him indispensable to the [[RomanRepublic|Roman Republic]] while also weakening the boundary among office, army command, popular legitimacy, and personal rivalry.
+Gaius Marius / 马略 is the wiki's central pre-Caesar example of a military outsider whose competence made him indispensable to the [[RomanRepublic|Roman Republic]] while also weakening the boundary among office, army command, popular legitimacy, revenge, and civil violence.
 
 ## Current Profile
 
 The Caesar source first makes Marius an earlier cause of the [[LateRomanRepublicCrisis]] because his reforms and conflict with [[LuciusCorneliusSulla]] help explain why soldiers, commanders, veterans, and civil violence mattered before [[JuliusCaesar|Caesar]]. Episode 701 expands the early career: Marius comes from Arpinum, rises through military reputation at Numantia, navigates the [[CursusHonorum|cursus honorum]] as a [[NovusHomoOutsiderPolitics|novus homo]], uses the tribunate for [[PopularisPolitics|popularis]] credibility, breaks with Metellan patronage, wins the 107 BC consulship, and takes the Jugurthine command.
 
-Episode 702 turns that setup into high crisis. Marius returns from the Jugurthine War as Rome panics over the [[TeutonesAndCimbri]], receives repeated consulships, drills soldiers through disciplined routine, and defeats the northern threat. That emergency glory makes him a savior figure but also normalizes exceptional officeholding. Later, Marius remains relevant through the [[SocialWar]], the [[RomanAlliedCitizenshipCrisis]], and his alliance with [[PubliusSulpiciusRufus]] to take the Mithridatic command from Sulla. His profile is therefore not simply "reformer" or "great general"; he is the hinge where merit, emergency, citizenship politics, and command ambition strain republican containment.
+Episode 702 turns that setup into high crisis. Marius returns from the Jugurthine War as Rome panics over the [[TeutonesAndCimbri]], receives repeated consulships, drills soldiers through disciplined routine, defeats the northern threat, stays relevant in the [[SocialWar]], and allies with [[PubliusSulpiciusRufus]] to take the Mithridatic command from Sulla. Episode 703 then shows the cost of that move: Sulla marches on Rome, Marius is declared a public enemy, Sulpicius is killed, and Marius survives a humiliating exile before returning with [[LuciusCorneliusCinna]] to besiege Rome. He enters the city, takes revenge on enemies, reaches the prophesied seventh consulship, and dies two weeks later.
+
+Marius's profile is therefore not simply "reformer" or "great general." He is the hinge where merit, emergency, citizenship politics, personal humiliation, command ambition, outlawry, and revenge strain republican containment from both sides of the Marius-Sulla rivalry.
 
 ## Key Characteristics
 
@@ -29,8 +32,8 @@ Episode 702 turns that setup into high crisis. Marius returns from the Jugurthin
 - Emergency victories against the Teutones and Cimbri made repeated consulships politically acceptable despite republican tradition.
 - His citizenship gestures and Social War role connect him to the Italian-rights crisis as well as army reform.
 - Marius used popularis-style legitimacy without becoming a simple modern democrat or anti-elite outsider.
-- His rivalry with Sulla develops from Jugurthine credit tension into a direct struggle over the Mithridatic command and six legions.
-- His career shows how a republic can reward indispensable service in ways that make later institutional obedience harder.
+- His rivalry with Sulla develops from Jugurthine credit tension into a direct struggle over the Mithridatic command and then a revenge cycle after Sulla's march.
+- His final return shows how a savior's prestige can survive disgrace and turn into armed reprisal when republican politics has become outlawry.
 
 ## Evidence
 
@@ -39,26 +42,28 @@ Episode 702 turns that setup into high crisis. Marius returns from the Jugurthin
 - Emergency indispensability: [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] says Roman panic after Arausio and the terror Cimbricus made even enemies accept Marius as the one man Rome needed.
 - Northern victories and office exception: [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] records repeated consulships, the defeat of the Teutones near Aix-en-Provence, and the defeat of the Cimbri in northern Italy.
 - Citizenship and Social War link: [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] says Marius illegally granted citizenship to about a thousand Italian allies and later remained active during the Social War.
-- Military personalization prehistory: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] treats Marius's reforms as a shift toward commander loyalty, while [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] and [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] trace that problem through command credit, repeated consulships, and the eastern command fight.
-- Marius-Sulla rivalry: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] presents Sulla's Jugurthine credit claim as the seed, while [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] shows Marius using Sulpicius to remove Sulla from the Mithridatic command.
+- Military personalization prehistory: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] treats Marius's reforms as a shift toward commander loyalty, while [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]], [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]], and [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] trace that problem through command credit, repeated consulships, command seizure, and retaliatory army politics.
+- Marius-Sulla rivalry: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] presents Sulla's Jugurthine credit claim as the seed, [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] shows Marius using Sulpicius to remove Sulla from command, and [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] shows Sulla outlawing Marius after marching on Rome.
+- Exile, return, and death: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] narrates Marius's escape, Carthage exile image, return from Africa, private army, alliance with Cinna, revenge killings, seventh consulship, and death after two weeks.
 
 ## Qualifications
 
-The page preserves source boundaries. Episode 702 treats the "military revolution" label as contested, gives Roman casualty figures for the northern victories as likely exaggerated, and stops before Sulla's response to losing command. Marius's popular support and citizenship positions also remain mixed with elite ambition, office competition, and personal command-seeking.
+The page preserves source boundaries. Episode 702 treats the "military revolution" label as contested and gives Roman casualty figures for the northern victories as likely exaggerated. Episode 703 uses vivid exile traditions, prophecy, and moralized revenge scenes as narrative evidence for Marius's public memory, not as a complete independent biography of his final months.
 
 ## What Changed
 
-- Moved Marius from setup figure to emergency savior whose repeated consulships and northern victories stretch republican norms.
-- Added his disciplined military method, the Teutones-Cimbri victories, and the disputed "military revolution" boundary.
-- Connected Marius to Italian citizenship politics, the Social War, and the Sulpicius bargain.
-- Reframed the Sulla rivalry as a live command-transfer crisis rather than only a foreshadowed later conflict.
+- Added Marius's outlawry, exile, return from Africa, private recruitment, Cinna alliance, revenge killings, seventh consulship, and death.
+- Reframed the Sulla rivalry as a reciprocal cycle: Marius's command grab triggers Sulla's march, and Sulla's outlawry helps create Marius's armed return.
+- Changed Marius from a threshold command claimant into a full civil-violence actor in the Roman branch.
 
 ## Relationships
 
-- [[LuciusCorneliusSulla]] - subordinate turned rival whose command Marius tries to take in the Mithridatic crisis.
+- [[LuciusCorneliusSulla]] - subordinate turned rival whose command Marius tries to take and whose march drives Marius into exile.
+- [[LuciusCorneliusCinna]] - consul and ally who brings Marius back into the armed struggle for Rome.
+- [[PubliusSulpiciusRufus]] - tribune whose citizenship politics Marius supports in exchange for command-transfer backing.
+- [[GnaeusOctaviusRomanConsul]] - conservative consul killed by Marius's men after Cinna and Marius take Rome.
 - [[TeutonesAndCimbri]] - northern opponents whose defeat makes Marius an emergency savior.
 - [[SocialWar]] - Italian conflict in which Marius remains a still-relevant older commander.
-- [[PubliusSulpiciusRufus]] - tribune whose citizenship politics Marius supports in exchange for command-transfer backing.
 - [[RomanAlliedCitizenshipCrisis]] - rights crisis sharpened by Marius's selective citizenship grant and later alliance politics.
 - [[RepublicanCommandTransferCrisis]] - command-allocation failure where Marius's ambition collides with Sulla's consular assignment.
 - [[MilitaryPersonalization]] - army-and-command mechanism that Marius helps introduce into the late republic.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9171
+wiki_total_pages: 9175
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1148,6 +1148,9 @@ wiki_pages:
   - key: "ArinDube"
     title: "Arin Dube / Arindrajit Dube"
     url: "/wiki/entities/arindube/"
+  - key: "AristionAthens"
+    title: "Aristion of Athens / 雅典的阿里斯提昂"
+    url: "/wiki/entities/aristionathens/"
   - key: "Aristotle"
     title: "Aristotle / 亚里士多德"
     url: "/wiki/entities/aristotle/"
@@ -1250,6 +1253,9 @@ wiki_pages:
   - key: "AtheneHolding"
     title: "Athene Holding / 雅典娜保险"
     url: "/wiki/entities/atheneholding/"
+  - key: "Athens"
+    title: "Athens / 雅典"
+    url: "/wiki/entities/athens/"
   - key: "AthleticBilbao"
     title: "Athletic Bilbao"
     url: "/wiki/entities/athleticbilbao/"

@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-07
-as_of_overview_commit: bdce551e9270d739aa23105514d524cc4eae96e4
-summary: "Value across AI, markets, culture, governance, health, work, and history resolves into proof: evidence, fit, capacity, trust, and accountable judgment."
-episode_count: 1966
-source_count: 1966
-paragraph_count: 565
+as_of_overview_commit: 8c7da14ca5afab830fcbc3a88f2de9b1059cd3d7
+summary: "Value across AI, markets, culture, governance, health, work, and history resolves into proof: evidence, fit, capacity, trust, enforceable boundaries, and accountable judgment."
+episode_count: 1967
+source_count: 1967
+paragraph_count: 566
 topic_count: 8
 ---
 
@@ -20,7 +20,7 @@ topic_count: 8
 - [[meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226|The mini-beauty episode]] adds that [[MiniBeautyStandaloneProduct]] can turn samples and travel sizes into independent merchandise when lower absolute trial cost, fast social trend cycles, [[BeautyAccessorization]], [[FragranceWardrobe]], and [[RetailDisplayAsBrandSurface]] make small formats desirable, while [[TrialSizeProduct]] still needs proof against packaging complexity, product homogeneity, cannibalization, weak repeat purchase, and waste.
 - [[episode-224-bushi-bushi-bushi-bushi-8213451338-252768|Episode 224]] adds [[ExperientialAssociation]] as a culture-and-media boundary for AI-era creativity: [[RenNing]], [[HopeIsTheThingWithFeathersBook]], [[ReadingComprehensionFragility]], [[TextShapedCognition]], [[AssociativeKnowledgeSystems]], [[AIStatisticalAssociation]], [[WalterOng]], [[AlexanderLuria]], [[VannevarBush]], and [[Memex]] show reading and literary value depending on both text-trained abstraction and bodily world-to-language connections that AI cannot directly experience.
 - Federal biometric policing needs sharper process boundaries when civil detention becomes criminal database infrastructure: [[USDepartmentOfHomelandSecurity]] and [[USImmigrationAndCustomsEnforcement]] DNA collection feeding [[CODIS]] through [[FederalBureauOfInvestigation]] turns [[ImmigrationDNADatabaseExpansion]] into an [[EnforcementAgencyDataSharing]] and [[CivilLibertiesSurveillanceRisk]] problem, while [[CompelledDNASamplingFourthAmendment]], [[MarylandVKing]], and [[BriggsVMullen]] keep legality contested around probable cause, retention, age-threshold compliance, and future police searches.
-- Strategic routes become political infrastructure when control over cables, straits, ports, or enclave crossings changes what states, markets, and migrants can do.
+- [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511|703 Roman Civil War Part 3]] extends [[LateRomanRepublicCrisis]] by showing command transfer hardening into [[FirstMarchOnRome|the first march on Rome]]: [[LuciusCorneliusSulla]] seizes the city under legal language, public-enemy declarations normalize killable opponents, [[LuciusCorneliusCinna]] and [[GaiusMarius]] repeat army-backed outlawry, and [[MithridatesVI]]'s Asian revolt links imperial extraction abroad to civil-war formation at home.
 - [[OverintellectualizedRelationshipAnalysis]] shows that psychological knowledge can become a self-surveillance tool when it is used to explain every feeling logically instead of reconnecting the person with present safety, affect, and embodied trust.
 - [[improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956|The Attia Huberman Lab episode]] adds a preventive-longevity health-literacy branch: [[HealthspanThreeDomains]] separates lifespan from physical, cognitive, and emotional function, while [[ApoBParticleBurden]], [[AtherosclerosisPreventionTargets]], [[CancerScreeningBurdenTradeoff]], [[NeurodegenerativeRiskLevers]], [[ExercisePillarsForLongevity]], and [[DeathsOfDespairCounterfeitPillRisk]] tie ApoB, blood pressure, screening false positives, dementia uncertainty, exercise capacity, falls, fentanyl, and overdose risk to [[MedicalRiskManagement]] and [[PreventiveHealthScreening]] rather than one-size protocols.
 - [[manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez|The Bu He Shi Yi dementia-care episode]] turns family aging anxiety into a public care-capacity claim: [[TangYongSociologist]], [[DementiaCareSocialSupportSystem]], [[DementiaCaregiverBurden]], [[DementiaPersonhoodMemory]], and [[ChinaLongTermCareInsurance]] show that dementia support requires trained labor, community services, care environments, insurance payment, and dignity rather than family sacrifice alone.
@@ -57,14 +57,14 @@ Governance becomes real through process boundaries, correction mechanisms, accou
 
 ### History and Geopolitics
 
-Historical and geopolitical power turns on routes, borderlands, legitimacy, command logistics, institutional capacity, military organization, and public memory rather than simple leader-centered narratives.
+History and geopolitics synthesis explains power through routes, borderlands, legitimacy claims, frontier command, institutional capacity, military organization, public memory, and late-republican legality fused to personal armies and emergency outlawry.
 
 - [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone. Evidence: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], [[FixedCampSiegeEngineering]].
 - [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]] adds a Qin-Han branch where [[QinCollapseOverextension]] and [[ChuHanWarDemythologizing]] read empire failure and war outcomes through state capacity, court conflict, coalition structure, logistics, troop quality, cavalry, and source criticism rather than through heroic shorthand. Evidence: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]], [[QinCollapseOverextension]], [[ChuHanWarDemythologizing]], [[EurasianMilitaryTechnologyExchange]], [[ZhangShiping]], [[ZhuluQinHanBook]], [[HanCavalryFormation]].
 
 ### Psychology and Personal Development
 
-Psychology sources converge on embodied regulation, relational safety, calibrated action, and careful self-interpretation that returns insight to body, boundaries, care, and change.
+Psychology and personal development sources converge on embodied regulation, relational safety, calibrated action, and careful self-interpretation that returns insight to body, boundaries, care, and change.
 
 - [[OverintellectualizedRelationshipAnalysis]] shows that psychological knowledge can become a self-surveillance tool when it is used to explain every feeling logically instead of reconnecting the person with present safety, affect, and embodied trust. Evidence: [[OverintellectualizedRelationshipAnalysis]], [[PsychologyConceptSelfPunishment]], [[PureRationalityTrap]], [[BodyBasedSelfTrust]], [[ShiDiFuShuo]], [[SteveShiDiFuShuoHost]].
 - [[ComplexTraumaRecognition]] reframes overthinking, people-pleasing, and self-blame as possible safety strategies formed under chronic relational pressure rather than as fixed character flaws. Evidence: [[ComplexTraumaRecognition]], [[FourFTraumaResponse]], [[FawnResponse]], [[ShameBasedSelfConcept]], [[OverintellectualizedRelationshipAnalysis]].

@@ -15767,3 +15767,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-07] ingest | 703. Roman Civil War: Marching on the Senate (Part 3)
+
+Ingested the 2026-09-06 The Rest Is History episode on Sulla's first march on Rome, Senate-backed public-enemy outlawry, Marius's exile and armed return, Cinna and Octavius, Pompeius Strabo's army brokerage, Mithridates's anti-Roman campaign, Athens under Aristion, and the imminent full civil war. Added source `703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511`; created `LuciusCorneliusCinna`, `GnaeusOctaviusRomanConsul`, `AristionAthens`, `Athens`, and `FirstMarchOnRome`; updated `GaiusMarius`, `LuciusCorneliusSulla`, `RomanRepublic`, `MithridatesVI`, `PubliusSulpiciusRufus`, `GnaeusPompeiusStrabo`, `ManiusAquillius`, `LateRomanRepublicCrisis`, `MilitaryPersonalization`, `RepublicanCommandTransferCrisis`, `RepublicanEmergencyViolencePrecedent`, `RomanExpansionMoralAnxiety`, and `index`. No settled contradiction found; the Asian massacre figure, Marius exile traditions, Aristion's full political program, and the exact causality between Sulla's personality and structural military change remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

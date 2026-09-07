@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2215
+topic_total_pages: 2218
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3863,6 +3863,9 @@ topic_entities:
   - key: "AriRedbord"
     title: "Ari Redbord"
     url: "/wiki/entities/ariredbord/"
+  - key: "AristionAthens"
+    title: "Aristion of Athens / 雅典的阿里斯提昂"
+    url: "/wiki/entities/aristionathens/"
   - key: "ArkadyOstrovsky"
     title: "Arkady Ostrovsky"
     url: "/wiki/entities/arkadyostrovsky/"
@@ -4355,6 +4358,9 @@ topic_entities:
   - key: "GirolamoSavonarola"
     title: "Girolamo Savonarola / 萨沃纳罗拉"
     url: "/wiki/entities/girolamosavonarola/"
+  - key: "GnaeusOctaviusRomanConsul"
+    title: "Gnaeus Octavius / 格奈乌斯·屋大维"
+    url: "/wiki/entities/gnaeusoctaviusromanconsul/"
   - key: "GracelandBaskaran"
     title: "Graceland Baskaran"
     url: "/wiki/entities/gracelandbaskaran/"
@@ -4730,6 +4736,9 @@ topic_entities:
   - key: "LosAngeles"
     title: "Los Angeles"
     url: "/wiki/entities/losangeles/"
+  - key: "LuciusCorneliusCinna"
+    title: "Lucius Cornelius Cinna / 卢基乌斯·科尔内利乌斯·秦纳"
+    url: "/wiki/entities/luciuscorneliuscinna/"
   - key: "LuigiCaseSuspect"
     title: "Luigi Case Suspect"
     url: "/wiki/entities/luigicasesuspect/"

@@ -108,6 +108,7 @@
       "3e56e9e9ac6b0033635b07c4c1faca2ab76abcae9f6925f9bdb82a6baf74e945",
       "5b34a941f30837a088f50a54d9bf9c3cade0c94d22881580c0deac8064eadaea",
       "c5a4579c4ed68588debf68e4b0cd1ae966604958091b8787e29d2e8d7e4f7525",
+      "ba355287a7c2315dea2c5ab3d66f5c038ca0d26624739a553167e8dcc8565816",
       "833c2c740e742ba106ef9b64e4f17428fbdd380980f1e7dd49bdbbfbddd48425",
       "5fac9c90d9086301afdb70bdae4dd076f54a6c5ee81f98bd5dc2fbaa714c363e",
       "841684bf4eae908daccc2a6e679b9d575732db0c38a70b9d0ff2fd3c721edcf7",
@@ -567,10 +568,10 @@
       "013189bd78693c4f9ddd24154fb4e85b4d94868b1b336af988b43dbee9411c03",
       "ed605f497963461eb9bc9c968de448aa46b9f90dddac4016b47d57e3c144fc1a"
     ],
-    "paragraph_count": 565
+    "paragraph_count": 566
   },
-  "overview_commit": "bdce551e9270d739aa23105514d524cc4eae96e4",
-  "overview_digest": "920e55fe12348671237909530c65ef4d027c21b11c6af8a909f980bd29502e72",
+  "overview_commit": "8c7da14ca5afab830fcbc3a88f2de9b1059cd3d7",
+  "overview_digest": "1240982aeb0629fed1056c06469d4b10d34c60b86c4911306aeb2d8973ae2a47",
   "paragraphs": [
     {
       "id": "b7698ced008e75103ebeaf37b643a21559bd84c3347ebb363160cff2e24ff992",
@@ -3681,6 +3682,36 @@
         "RomanRepublic",
         "SocialWar",
         "TeutonesAndCimbri",
+        "TheRestIsHistory"
+      ]
+    },
+    {
+      "id": "ba355287a7c2315dea2c5ab3d66f5c038ca0d26624739a553167e8dcc8565816",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511|703. Roman Civil War: Marching on the Senate (Part 3)]], a [[TheRestIsHistory]] episode resolving the Part 2 threshold through [[LuciusCorneliusSulla]]'s [[FirstMarchOnRome|first march on Rome]], [[GaiusMarius]]'s exile and return, [[LuciusCorneliusCinna]]'s anti-Sulla regime, [[GnaeusPompeiusStrabo]]'s retained legions, [[MithridatesVI]]'s Asian campaign, and [[Athens]] under [[AristionAthens]]. It adds [[LuciusCorneliusCinna]], [[GnaeusOctaviusRomanConsul]], [[AristionAthens]], [[Athens]], and [[FirstMarchOnRome]], while extending [[RomanRepublic]], [[GaiusMarius]], [[LuciusCorneliusSulla]], [[MithridatesVI]], [[PubliusSulpiciusRufus]], [[GnaeusPompeiusStrabo]], [[ManiusAquillius]], [[LateRomanRepublicCrisis]], [[MilitaryPersonalization]], [[RepublicanCommandTransferCrisis]], [[RepublicanEmergencyViolencePrecedent]], and [[RomanExpansionMoralAnxiety]]. Its core synthesis is that Rome's crisis crosses from coercive command transfer into army-backed precedent: Sulla claims legality after seizing Rome, public-enemy declarations turn opponents into killable outlaws, Cinna and Marius repeat the army-and-outlawry logic, and the eastern war shows Roman imperial extraction provoking revolt abroad while civil war forms at home. No settled contradiction is recorded; the Asian massacre figure, Marius exile traditions, Aristion's full program, and Sulla personality-versus-structure causality remain source-scoped, while Sulla's return and dictatorship remain deferred to the next part.",
+      "topic_scores": {
+        "history-and-geopolitics": 3
+      },
+      "wikilinks": [
+        "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+        "AristionAthens",
+        "Athens",
+        "FirstMarchOnRome",
+        "GaiusMarius",
+        "GnaeusOctaviusRomanConsul",
+        "GnaeusPompeiusStrabo",
+        "LateRomanRepublicCrisis",
+        "LuciusCorneliusCinna",
+        "LuciusCorneliusSulla",
+        "ManiusAquillius",
+        "MilitaryPersonalization",
+        "MithridatesVI",
+        "PubliusSulpiciusRufus",
+        "RepublicanCommandTransferCrisis",
+        "RepublicanEmergencyViolencePrecedent",
+        "RomanExpansionMoralAnxiety",
+        "RomanRepublic",
         "TheRestIsHistory"
       ]
     },

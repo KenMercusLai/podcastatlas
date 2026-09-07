@@ -5216,6 +5216,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/architecturalarchiveresearch/"
     },
+    "AristionAthens": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/aristionathens/"
+    },
     "ArmedFollowerIntegrationCost": {
       "episode_count": 1,
       "show_count": 1,
@@ -5528,6 +5544,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/athena/"
+    },
+    "Athens": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/athens/"
     },
     "AtherosclerosisPreventionTargets": {
       "episode_count": 1,
@@ -23814,6 +23846,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/financialreportoperatingmetricintegrity/"
     },
+    "FirstMarchOnRome": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/firstmarchonrome/"
+    },
     "FirstPartySystem": {
       "episode_count": 2,
       "show_count": 1,
@@ -26257,9 +26305,9 @@
       "url": "/wiki/entities/gaiyaneasternhan/"
     },
     "GaiusMarius": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -26281,9 +26329,16 @@
           "show": "The Rest Is History",
           "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
           "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        },
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/gaiusmarius/"
     },
     "GameSpiritOrganization": {
@@ -27632,10 +27687,26 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/glycationskinanxiety/"
     },
-    "GnaeusPompeiusStrabo": {
+    "GnaeusOctaviusRomanConsul": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/gnaeusoctaviusromanconsul/"
+    },
+    "GnaeusPompeiusStrabo": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3336491089 [GLT3336491089].md",
@@ -27643,9 +27714,16 @@
           "show": "The Rest Is History",
           "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
           "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        },
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/gnaeuspompeiusstrabo/"
     },
     "GoPro": {
@@ -37570,9 +37648,9 @@
       "url": "/wiki/entities/latejulysnacks/"
     },
     "LateRomanRepublicCrisis": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -37594,9 +37672,16 @@
           "show": "The Rest Is History",
           "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
           "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        },
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/lateromanrepubliccrisis/"
     },
     "LateStagePrivateCompanyValuationRisk": {
@@ -42438,10 +42523,26 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/lucenttechnologies/"
     },
+    "LuciusCorneliusCinna": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/luciuscorneliuscinna/"
+    },
     "LuciusCorneliusSulla": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -42463,9 +42564,16 @@
           "show": "The Rest Is History",
           "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
           "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        },
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/luciuscorneliussulla/"
     },
     "LuigiLucheni": {
@@ -44001,9 +44109,9 @@
       "url": "/wiki/concepts/managedserviceautomationlayer/"
     },
     "ManiusAquillius": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3336491089 [GLT3336491089].md",
@@ -44011,9 +44119,16 @@
           "show": "The Rest Is History",
           "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
           "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        },
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/maniusaquillius/"
     },
     "ManufacturingSingleChampion": {
@@ -45660,9 +45775,9 @@
       "url": "/wiki/concepts/militaryfinancecorruption/"
     },
     "MilitaryPersonalization": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》134｜你不知道的“破釜沉舟”版本 [ltnry1fva2HZPLW4ft8NRFpOIoLW].md",
@@ -45705,9 +45820,16 @@
           "show": "The Rest Is History",
           "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
           "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        },
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/militarypersonalization/"
     },
     "MilitaryRewardEunuchGatekeeping": {
@@ -46007,9 +46129,9 @@
       "url": "/wiki/concepts/missionarymapknowledgeproduction/"
     },
     "MithridatesVI": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3336491089 [GLT3336491089].md",
@@ -46017,9 +46139,16 @@
           "show": "The Rest Is History",
           "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
           "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        },
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/mithridatesvi/"
     },
     "MitochondrialMentalHealthModel": {
@@ -54127,9 +54256,9 @@
       "url": "/wiki/concepts/publicservicedigitalization/"
     },
     "PubliusSulpiciusRufus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3336491089 [GLT3336491089].md",
@@ -54137,9 +54266,16 @@
           "show": "The Rest Is History",
           "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
           "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        },
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/publiussulpiciusrufus/"
     },
     "Puma": {
@@ -56280,9 +56416,9 @@
       "url": "/wiki/concepts/reproductiveattritionstrategy/"
     },
     "RepublicanCommandTransferCrisis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3336491089 [GLT3336491089].md",
@@ -56290,15 +56426,22 @@
           "show": "The Rest Is History",
           "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
           "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        },
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/republicancommandtransfercrisis/"
     },
     "RepublicanEmergencyViolencePrecedent": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1262857909 [GLT1262857909].md",
@@ -56313,9 +56456,16 @@
           "show": "The Rest Is History",
           "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
           "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        },
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/republicanemergencyviolenceprecedent/"
     },
     "RepublicanRestraintLeadership": {
@@ -57482,9 +57632,9 @@
       "url": "/wiki/entities/romanempire/"
     },
     "RomanExpansionMoralAnxiety": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1262857909 [GLT1262857909].md",
@@ -57499,15 +57649,22 @@
           "show": "The Rest Is History",
           "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
           "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        },
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/romanexpansionmoralanxiety/"
     },
     "RomanRepublic": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -57529,9 +57686,16 @@
           "show": "The Rest Is History",
           "title": "702. Roman Civil War: The Barbarian Invasion (Part 2)",
           "url": "/wiki/sources/702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089/"
+        },
+        {
+          "episode_file": "GLT3125075511 [GLT3125075511].md",
+          "key": "703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511",
+          "show": "The Rest Is History",
+          "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
+          "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/romanrepublic/"
     },
     "RomanceOfTheThreeKingdoms": {

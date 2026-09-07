@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9171
+wiki_total_pages: 9175
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -635,6 +635,9 @@ wiki_pages:
   - key: "LucentTechnologies"
     title: "Lucent Technologies"
     url: "/wiki/entities/lucenttechnologies/"
+  - key: "LuciusCorneliusCinna"
+    title: "Lucius Cornelius Cinna / 卢基乌斯·科尔内利乌斯·秦纳"
+    url: "/wiki/entities/luciuscorneliuscinna/"
   - key: "LuciusCorneliusSulla"
     title: "Lucius Cornelius Sulla / 苏拉"
     url: "/wiki/entities/luciuscorneliussulla/"
