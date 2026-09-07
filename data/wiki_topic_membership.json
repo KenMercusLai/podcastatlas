@@ -1474,6 +1474,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7": [
     {
       "key": "politics",
@@ -48933,6 +48940,13 @@
     }
   ],
   "PostHarmFoodRegulation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PostImperialIdentityGap": [
     {
       "key": "politics",
       "label": "Politics",

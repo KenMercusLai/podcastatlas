@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "934678f21fc5dae88ac422035cc7224a0cce38c899ba484c6a245e74426573b7",
       "cc2b930daa4779c99a5c189b0a0b83d4519658b9d4998861355bbec0cf4fbff0",
       "3d1b6566fbfbb91214a3a381be53924349a5d6b793491de8d50216d7c9c9370a",
       "d66bf76f63a54f6d0c888a125471cc6b4924d5d75d0afdc05503088901bb06b5",
@@ -581,11 +582,43 @@
       "5f42ccecf5aba2d7233c6344ba2eaf2864f133e18d0af4d0c92d5bc37ee4d5dc",
       "d8d7ba16097695a34f30d301f24adcba5812c1f4801c4f85c3ab1b1f88697cb4"
     ],
-    "paragraph_count": 579
+    "paragraph_count": 580
   },
-  "overview_commit": "92eebdb1e694ec7d9a7a68be8d440f85af7e94eb",
-  "overview_digest": "e83a20561e1eba8b1f73e4260b9694b45d61dc81a531cdb32330864bfe8cbe21",
+  "overview_commit": "b924ebf3c67555fa6c3eb94100726a6d8a7bc9f5",
+  "overview_digest": "3752bff96ea8eba56739345b200d7b37e4e0939f06d5a5ca5c195ac6c5f1a0c8",
   "paragraphs": [
+    {
+      "id": "934678f21fc5dae88ac422035cc7224a0cce38c899ba484c6a245e74426573b7",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a|#396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？]], a [[ShengdongJixi|声东击西]] episode on [[Brexit]], British post-imperial identity, economic stagnation, and ritualized social boundaries. It adds [[PostImperialIdentityGap]] and [[RitualizedSocialBoundary]], while extending [[UnitedKingdom]], [[EuropeanUnion]], [[Brexit]], [[BrexitEconomicFriction]], [[PostBrexitImmigrationPolitics]], [[PostBrexitStrategicIdentity]], [[BrexitRegulatoryDividend]], [[IdentityPoliticsAsPoliticalSorting]], [[PoliticalDeliveryGap]], [[GroupBoundaryLanguage]], [[EuropeanIdentityClassGradient]], [[SplitGlobalization]], [[EuropeanAIIndustrialConstraints]], and [[EuropeanDefenseAutonomy]]. Its core synthesis is that Britain's post-Brexit malaise is not only a measurable trade or GDP problem: weak growth after 2008, regional divergence, imperial memory, monarchy and religion losing authority, Oxford-style social ritual, and \"take back control\" sovereignty language together turn economic disappointment into a search for boundaries and dignity. No settled contradiction is recorded; the episode relies heavily on personal observation and broad macro interpretation, so detailed economic figures, public-opinion measures, and exact institutional-causality claims remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a",
+        "Brexit",
+        "BrexitEconomicFriction",
+        "BrexitRegulatoryDividend",
+        "EuropeanAIIndustrialConstraints",
+        "EuropeanDefenseAutonomy",
+        "EuropeanIdentityClassGradient",
+        "EuropeanUnion",
+        "GroupBoundaryLanguage",
+        "IdentityPoliticsAsPoliticalSorting",
+        "PoliticalDeliveryGap",
+        "PostBrexitImmigrationPolitics",
+        "PostBrexitStrategicIdentity",
+        "PostImperialIdentityGap",
+        "RitualizedSocialBoundary",
+        "ShengdongJixi",
+        "SplitGlobalization",
+        "UnitedKingdom"
+      ]
+    },
     {
       "id": "cc2b930daa4779c99a5c189b0a0b83d4519658b9d4998861355bbec0cf4fbff0",
       "primary_topic": "governance-and-institutions",

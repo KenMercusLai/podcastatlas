@@ -8952,6 +8952,52 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/breachofsurrendertrust/"
     },
+    "Brexit": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Keep qualms and carry on： a decade after Brexit [6a3a53028a3c8822ab345d4b].md",
+          "key": "keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b",
+          "show": "Economist Podcasts",
+          "title": "Keep qualms and carry on: a decade after Brexit",
+          "url": "/wiki/sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b/"
+        },
+        {
+          "episode_file": "92f097c7-3ae4-4a2b-87d0-e23b518b590a [92f097c7-3ae4-4a2b-87d0-e23b518b590a].md",
+          "key": "396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a",
+          "show": "声东击西",
+          "title": "#396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？",
+          "url": "/wiki/sources/396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/brexit/"
+    },
+    "BrexitEconomicFriction": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Keep qualms and carry on： a decade after Brexit [6a3a53028a3c8822ab345d4b].md",
+          "key": "keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b",
+          "show": "Economist Podcasts",
+          "title": "Keep qualms and carry on: a decade after Brexit",
+          "url": "/wiki/sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b/"
+        },
+        {
+          "episode_file": "92f097c7-3ae4-4a2b-87d0-e23b518b590a [92f097c7-3ae4-4a2b-87d0-e23b518b590a].md",
+          "key": "396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a",
+          "show": "声东击西",
+          "title": "#396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？",
+          "url": "/wiki/sources/396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/brexiteconomicfriction/"
+    },
     "BrianFaulkner": {
       "episode_count": 2,
       "show_count": 1,
@@ -55509,6 +55555,52 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/postapartheidstructuralinequality/"
     },
+    "PostBrexitStrategicIdentity": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Keep qualms and carry on： a decade after Brexit [6a3a53028a3c8822ab345d4b].md",
+          "key": "keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b",
+          "show": "Economist Podcasts",
+          "title": "Keep qualms and carry on: a decade after Brexit",
+          "url": "/wiki/sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b/"
+        },
+        {
+          "episode_file": "Starmergeddon： British PM resigns [6a390b674a8189f2c3b4e6f1].md",
+          "key": "starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1",
+          "show": "Economist Podcasts",
+          "title": "Starmergeddon: British PM resigns",
+          "url": "/wiki/sources/starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1/"
+        },
+        {
+          "episode_file": "92f097c7-3ae4-4a2b-87d0-e23b518b590a [92f097c7-3ae4-4a2b-87d0-e23b518b590a].md",
+          "key": "396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a",
+          "show": "声东击西",
+          "title": "#396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？",
+          "url": "/wiki/sources/396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/postbrexitstrategicidentity/"
+    },
+    "PostImperialIdentityGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "92f097c7-3ae4-4a2b-87d0-e23b518b590a [92f097c7-3ae4-4a2b-87d0-e23b518b590a].md",
+          "key": "396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a",
+          "show": "声东击西",
+          "title": "#396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？",
+          "url": "/wiki/sources/396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/postimperialidentitygap/"
+    },
     "PostRestorationMeritThreat": {
       "episode_count": 4,
       "show_count": 1,
@@ -60422,6 +60514,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/ritualizedapologygratitude/"
+    },
+    "RitualizedSocialBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "92f097c7-3ae4-4a2b-87d0-e23b518b590a [92f097c7-3ae4-4a2b-87d0-e23b518b590a].md",
+          "key": "396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a",
+          "show": "声东击西",
+          "title": "#396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？",
+          "url": "/wiki/sources/396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/ritualizedsocialboundary/"
     },
     "RiverAsLivingEntity": {
       "episode_count": 1,

@@ -2,6 +2,29 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "brexit-post-imperial-identity-turns-economic-drag-into-boundary-politics",
+      "qualifications": [
+        "The claim is grounded in one Shengdong Jixi episode plus existing Brexit synthesis and should not be treated as a complete economic or polling account of Britain.",
+        "Detailed economic figures, public-opinion measures, institutional-causality claims, AUKUS and AI-regulation effects, and the Oxford observations remain source-scoped.",
+        "The claim does not deny British strengths in finance, education, life sciences, creative industries, AI, or defence; it says those strengths have not yet become a broad replacement national story."
+      ],
+      "statement": "[[396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a|#396 脱欧十年]] adds a British governance case where [[Brexit]] is not only [[BrexitEconomicFriction]] but a [[PostImperialIdentityGap]]: weak growth after 2008, regional divergence, monarchy/religion/government authority loss, [[RitualizedSocialBoundary]], and \"take back control\" sovereignty language turn economic disappointment into boundary and dignity politics, while [[PostBrexitStrategicIdentity]] remains unresolved despite Global Britain, AI regulation, finance, education, life sciences, creative industries, and defence strengths.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a",
+        "Brexit",
+        "BrexitEconomicFriction",
+        "PostImperialIdentityGap",
+        "RitualizedSocialBoundary",
+        "PostBrexitStrategicIdentity",
+        "UnitedKingdom",
+        "EuropeanUnion",
+        "IdentityPoliticsAsPoliticalSorting",
+        "PoliticalDeliveryGap"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "youth-social-media-regulation-shifts-from-access-ban-to-design-infrastructure",
       "qualifications": [
         "The claim is source-scoped to one Dushu Buchenglin episode and should not be treated as a final assessment of Australia, France, the United Kingdom, European Union, or United States law.",
@@ -4500,7 +4523,7 @@
     }
   ],
   "input_digest": "80534eddb56fe419f25ec71c3705367b23c9836ed8bbb03942b65a40cbcb8256",
-  "summary": "Governance synthesis now spans youth platform policy, electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, political-theory method, and boundary-setting across historical and contemporary cases. The youth social-media update adds a child-safety governance problem where access bans, parental coordination, age assurance, privacy, platform design, and speech boundaries must be handled together rather than reduced to a simple underage-account rule. The Machiavelli update adds a writing-method case: politics can be treated as an observable action field of power, state maintenance, armies, nobles, people, allies, and enemies without pretending that political order is deduced from theology, natural law, or inherited moral hierarchy. The Saxony-Anhalt update adds a live far-right state-governance problem: AfD plurality confirms the electoral shock, but BSW leverage, minority-government reluctance, Brandmauer politics, and caretaker rules make executive transfer uncertain rather than automatic. Contrail mitigation, religious outreach, sports institutions, public-health education, AI governance, surveillance, and historical court cases all reinforce the same broad finding: usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy.",
+  "summary": "Governance synthesis now spans youth platform policy, electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, political-theory method, and boundary-setting across historical and contemporary cases. The youth social-media update adds a child-safety governance problem where access bans, parental coordination, age assurance, privacy, platform design, and speech boundaries must be handled together rather than reduced to a simple underage-account rule. The Machiavelli update adds a writing-method case: politics can be treated as an observable action field of power, state maintenance, armies, nobles, people, allies, and enemies without pretending that political order is deduced from theology, natural law, or inherited moral hierarchy. The Saxony-Anhalt update adds a live far-right state-governance problem: AfD plurality confirms the electoral shock, but BSW leverage, minority-government reluctance, Brandmauer politics, and caretaker rules make executive transfer uncertain rather than automatic. Contrail mitigation, religious outreach, sports institutions, public-health education, AI governance, surveillance, and historical court cases all reinforce the same broad finding: usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy. The Brexit identity update adds a post-imperial governance case: economic friction, institutional authority loss, social ritual, and sovereignty language can convert material stagnation into boundary politics when no credible replacement national role exists.",
   "title": "Governance and Institutions",
   "topic_id": "governance-and-institutions"
 }

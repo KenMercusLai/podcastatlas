@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2236
+topic_total_pages: 2238
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2314,6 +2314,9 @@ topic_concepts:
   - key: "PostHarmFoodRegulation"
     title: "Post-Harm Food Regulation"
     url: "/wiki/concepts/postharmfoodregulation/"
+  - key: "PostImperialIdentityGap"
+    title: "Post-Imperial Identity Gap / 后帝国身份落差"
+    url: "/wiki/concepts/postimperialidentitygap/"
   - key: "PostMarketDrugSurveillance"
     title: "Post-Market Drug Surveillance"
     url: "/wiki/concepts/postmarketdrugsurveillance/"
@@ -5958,6 +5961,9 @@ topic_entities:
     title: "黄棘 / Huangji"
     url: "/wiki/entities/huangji/"
 topic_sources:
+  - key: "396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a"
+    title: "#396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？"
+    url: "/wiki/sources/396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a/"
   - key: "398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7"
     title: "#398 一场美国观察漫谈：世界杯红牌、南非白人劳工"
     url: "/wiki/sources/398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7/"

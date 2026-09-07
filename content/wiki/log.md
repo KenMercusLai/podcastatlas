@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-08] ingest | #396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？
+
+Added source note for the 声东击西 Brexit retrospective. Key claims: Britain's post-Brexit malaise combines cumulative economic friction, post-imperial identity gap, ritualized social boundaries, political delivery limits, and a weak replacement story for Global Britain.
+
 ## [2026-09-08] ingest | 罗永浩的X字路口！一年一度装x大会
 
 Ingested the 2026-07-15 罗永浩的十字路口 panel episode with 罗永浩, 小齐, 张俊, and 史礼芬 on "装逼" as social signaling across education, class, taste, social media, reading, and stand-up comedy. Added source `luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx`; created `XiaoQiStandup`, `ZhangJunStandup`, `ShiLifen`, `YoumeiyouWenhuaXianxiang`, `ZhuangbiAsSocialSignaling`, `CulturalGapStatusSignaling`, and `StandupClassPositionEqualization`; updated `LuoYonghao`, `LuoyonghaosCrossroads`, `index`, and `overview`. No settled contradiction found; guest personas, education/status jokes, reading motives, and future podcast plans remain source-scoped.
@@ -15955,6 +15959,10 @@ Ingested the 2026-07-15 独树不成林 episode on Jonathan Haidt, The Anxious G
 ## [2026-09-08] ingest | #398 一场美国观察漫谈：世界杯红牌、南非白人劳工
 
 Ingested the 2026-07-16 声东击西 episode with Xu Tao and Liu Xiaoqian on Trump's World Cup red-card intervention, American exceptionalism, white South African workers in Mississippi agriculture, selective refugee/immigration policy, white-victimhood narratives, and foreign-reporting distance. Added source `398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7`; created `LiuXiaoqian`, `AmericanExceptionalism`, `SouthAfricanWhiteMigrantLabor`, `SelectiveWhiteRefugeeException`, `WhiteVictimhoodNarrative`, and `EmbeddedForeignReporting`; updated `SouthAfrica`, `Mississippi`, `IdentityPoliticsAsPoliticalSorting`, `SportsPoliticalInterference`, `ShengdongJixi`, `XuTao`, `index`, and `overview`. No settled contradiction found; visa categories, quota figures, wage claims, local pay-disparity allegations, and worker motives remain source-scoped.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-08] lint | Wiki health check
 

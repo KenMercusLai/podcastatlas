@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [#396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？](sources/396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a.md) — 声东击西 episode on Brexit ten years later, British post-imperial identity, economic stagnation, social ritual, nationalism, and Global Britain.
 - [350-马基雅维利为何认为人民再蠢也比精英可靠？](sources/350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5.md) — 独树不成林 short episode on Machiavelli between classical and modern political thought, The Prince as modern political writing, and Discourses on Livy as Roman-historical continuity.
 - [351-西方政府禁止青少年使用社交媒体走到哪步了？](sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym.md) — 独树不成林 episode on Jonathan Haidt, youth social-media age bans, Australian age-gating, minimum-information verification, design regulation, and civil-liberties boundaries.
 - [罗永浩的X字路口！一年一度装x大会](sources/luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx.md) — 罗永浩的十字路口 panel episode using "装逼" to analyze class, education, taste, social media, cultural distance, and stand-up comedy as social signaling.
@@ -11263,6 +11264,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Post-Imperial Identity Gap / 后帝国身份落差](concepts/PostImperialIdentityGap.md) — mismatch between inherited imperial identity and present material or institutional capacity.
+- [Ritualized Social Boundary / 仪式化社会边界](concepts/RitualizedSocialBoundary.md) — formal rituals, dress, accent, and etiquette as visible markers of belonging and distinction.
 - [Modern Political Writing Posture / 现代政治写作姿态](concepts/ModernPoliticalWritingPosture.md) — Machiavelli-focused frame where political thought begins from live power, state, and action problems rather than inherited moral or theological derivation.
 - [Zhuangbi As Social Signaling / 装逼作为社会信号](concepts/ZhuangbiAsSocialSignaling.md) — Relational frame where pretension is co-produced by display, observer expectation, class position, scene, and social-media exposure.
 - [Cultural Gap Status Signaling / 文化隔阂式地位信号](concepts/CulturalGapStatusSignaling.md) — Claim that status display works only when audiences partly understand the sign's prestige without fully neutralizing or puncturing it.

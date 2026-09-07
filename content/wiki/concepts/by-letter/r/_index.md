@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6656
+wiki_total_pages: 6658
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -677,6 +677,9 @@ wiki_pages:
   - key: "RitualizedMinisterHumiliation"
     title: "Ritualized Minister Humiliation / 礼节化臣属羞辱"
     url: "/wiki/concepts/ritualizedministerhumiliation/"
+  - key: "RitualizedSocialBoundary"
+    title: "Ritualized Social Boundary / 仪式化社会边界"
+    url: "/wiki/concepts/ritualizedsocialboundary/"
   - key: "RiverAsLivingEntity"
     title: "River As Living Entity / 河流作为生命"
     url: "/wiki/concepts/riveraslivingentity/"
