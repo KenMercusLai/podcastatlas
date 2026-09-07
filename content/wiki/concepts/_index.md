@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6646
+wiki_total_pages: 6651
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1517,6 +1517,9 @@ wiki_pages:
   - key: "AmericanDemocraticResilience"
     title: "American Democratic Resilience"
     url: "/wiki/concepts/americandemocraticresilience/"
+  - key: "AmericanExceptionalism"
+    title: "American Exceptionalism"
+    url: "/wiki/concepts/americanexceptionalism/"
   - key: "AmericanJiaBaoyuComparison"
     title: "American Jia Baoyu Comparison"
     url: "/wiki/concepts/americanjiabaoyucomparison/"

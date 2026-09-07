@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6646
+wiki_total_pages: 6651
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "ElizabethanRecusancySecurityState"
     title: "Elizabethan Recusancy Security State"
     url: "/wiki/concepts/elizabethanrecusancysecuritystate/"
+  - key: "EmbeddedForeignReporting"
+    title: "Embedded Foreign Reporting"
+    url: "/wiki/concepts/embeddedforeignreporting/"
   - key: "EmbodiedActingImprovisation"
     title: "Embodied Acting Improvisation / 具身表演即兴"
     url: "/wiki/concepts/embodiedactingimprovisation/"

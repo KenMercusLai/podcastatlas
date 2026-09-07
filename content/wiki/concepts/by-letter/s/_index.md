@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6646
+wiki_total_pages: 6651
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "SelectiveMotionSmoothing"
     title: "Selective Motion Smoothing"
     url: "/wiki/concepts/selectivemotionsmoothing/"
+  - key: "SelectiveWhiteRefugeeException"
+    title: "Selective White Refugee Exception"
+    url: "/wiki/concepts/selectivewhiterefugeeexception/"
   - key: "SelfDiscoveryAgainstMassConformity"
     title: "Self Discovery Against Mass Conformity / 抵抗从众的自我追寻"
     url: "/wiki/concepts/selfdiscoveryagainstmassconformity/"
@@ -986,6 +989,9 @@ wiki_pages:
   - key: "SongYuanMaritimeTradeCenter"
     title: "Song-Yuan Maritime Trade Center"
     url: "/wiki/concepts/songyuanmaritimetradecenter/"
+  - key: "SouthAfricanWhiteMigrantLabor"
+    title: "South African White Migrant Labor"
+    url: "/wiki/concepts/southafricanwhitemigrantlabor/"
   - key: "SouthFloridaTechMigration"
     title: "South Florida Tech Migration"
     url: "/wiki/concepts/southfloridatechmigration/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [#398 一场美国观察漫谈：世界杯红牌、南非白人劳工](sources/398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7.md) — 声东击西 episode connecting Trump's World Cup red-card intervention, American exceptionalism, white South African farm workers in Mississippi, selective immigration policy, and white-victimhood narratives.
 - [史蒂夫说469期 - 童立 - 最好的关系是在爱人怀里尽情阳w早x](sources/shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb.md) — 史蒂夫说 interview with Tong Li on sexual recession, lifelong sex education, sexual exploration, male vulnerability, sexual-function relationship context, counseling boundaries, AI companionship, and adult products as relationship tools.
 - [No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？](sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj.md) — 三五环 interview with Hanqing on AI Talk, Yuri / 尤栗 / 优瑞, AI-native virtual idols, multi-model music/video workflow, personality systems, and real-time AI character risk.
 - [No.226 AI 越强，创业者越要回到用户现场](sources/no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt.md) — 三五环 interview with AHA Creator founder Kate on using AI for overseas creator matching, authenticity checks, multilingual outreach, workflow follow-up, first-pass brief review, and human-retained budget and creative approval.
@@ -2536,7 +2537,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [桓谭 / Huan Tan (Eastern Han)](entities/HuanTanEasternHan.md) — Guangwu-era scholar corrected by Song Hong over court music favor and later nearly executed over anti-chenwei remonstrance and Lingtai answer.
 - [郑兴 / Zheng Xing (Eastern Han)](entities/ZhengXingEasternHan.md) — Guangwu-era adviser and official whose exit from Wei Xiao's camp, eclipse remonstrance, and chenwei ambiguity show careful speech under insecure patrons and imperial preference.
 - [Frost & Sullivan / 弗若斯特沙利文](entities/FrostSullivan.md) — Third-party consulting and market-research provider named in the Lao Pu Gold disclosure-quality critique.
-- [South Africa](entities/SouthAfrica.md) — Post-apartheid national setting where Mandela uses rugby and anthem symbolism to stage reconciliation.
+- [South Africa](entities/SouthAfrica.md) — Post-apartheid national setting, fast-food gateway, complex travel destination, and origin country in a U.S. white-migrant-labor controversy.
 - [Nelson Mandela](entities/NelsonMandela.md) — South African leader whose Springbok and anthem decisions anchor the episode's reconciliation-statecraft branch.
 - [African National Congress](entities/AfricanNationalCongress.md) — Anti-apartheid movement and governing party tied to Nkosi, Mandela, and post-1994 symbol compromise.
 - [Afrikaners](entities/Afrikaners.md) — White South African community whose rugby and anthem attachments make the Mandela reconciliation strategy politically charged.
@@ -9930,7 +9931,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Drew Harwell](entities/DrewHarwell.md) — Washington Post technology reporter explaining Marketplace Tech's online age-verification episode through state laws, contractors, privacy risk, and platform responsibility.
 - [Bluesky](entities/Bluesky.md) — Social platform used by Marketplace Tech as a state-patchwork access case after Mississippi age-verification legal exposure.
 - [MySpace](entities/MySpace.md) — Legacy social network used by Marketplace Tech as a nostalgia signal for chronological, friend-centered, less algorithmic social media.
-- [Mississippi](entities/Mississippi.md) — U.S. state in the Marketplace Tech age-verification episode where legal exposure affected Bluesky service availability.
+- [Mississippi](entities/Mississippi.md) — U.S. state used as both an online age-verification access case and a field site for white South African farm labor.
 - [Aviv Ovadia](entities/AvivOvadia.md) — AI and Democracy Foundation founder warning that generative AI can push media distrust into information apocalypse and reality apathy.
 - [AI and Democracy Foundation](entities/AIAndDemocracyFoundation.md) — Organization represented by Aviv Ovadia in the Marketplace Tech infocalypse episode, focused on AI-resilient democratic governance.
 - [LinkedIn](entities/LinkedIn.md) — Professional platform used in the wiki as a provenance adopter, AI-slop pressure case, Microsoft organization example, and city-wage research dataset.
@@ -10744,9 +10745,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [青岛号](entities/QingdaoClipperYacht.md) — Ocean-racing boat used by E161 to explain team risk, weather uncertainty, captain judgment, and performance under physical stress.
 - [Edward Thorp](entities/EdwardThorp.md) — Mathematician and investor used by E153 to connect blackjack card counting, Kelly sizing, arbitrage, and quantitative investing.
 - [Claude Shannon](entities/ClaudeShannon.md) — Information-theory figure used by E153 to connect information advantage, repeated betting, and Kelly-style position sizing.
-- [声东击西](entities/ShengdongJixi.md) — Chinese podcast/media context translating AI infrastructure, vibe coding, aviation, humanitarian aid, and platform-governance systems for general listeners.
+- [声东击西](entities/ShengdongJixi.md) — Chinese podcast/media context translating AI infrastructure, vibe coding, aviation, humanitarian aid, platform governance, and U.S. political field reporting for general listeners.
 - [声动活泼](entities/ShengdongHuopo.md) — Media organization whose internal AI Hackathon provides the episode's non-technical workflow-automation case.
-- [徐涛](entities/XuTao.md) — Shengdong Jixi host represented through AI-work, aviation, and platform-governance conversations that translate specialist systems into everyday judgment.
+- [徐涛](entities/XuTao.md) — Shengdong Jixi host represented through AI-work, aviation, platform-governance, and U.S.-politics conversations that translate specialist systems into everyday judgment.
+- [Liu Xiaoqian / 刘萧千](entities/LiuXiaoqian.md) — 声东击西 U.S.-based speaker whose Mississippi reporting grounds the white South African migrant-labor episode.
 - [王俊玉](entities/WangJunyu.md) — Entrepreneur/product voice emphasizing OpenClaw proactivity, memory, skills, digital employees, and AI management capability.
 - [Gao Jiyang](entities/GaoJiyang.md) — Xinghaitu founder whose path through SenseTime, Waymo, and Momenta shapes a pragmatic embodied-AI strategy.
 - [Xinghaitu](entities/Xinghaitu.md) — Embodied-AI robotics startup building whole machines, models, post-training tools, and real-world data loops.
@@ -15406,7 +15408,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [U.S. Constitutional Crisis Risk](concepts/USConstitutionalCrisisRisk.md) — sp.05 frame for chronic U.S. institutional disorder under presidentialism, hard amendment rules, polarization, and uncertain post-Trump movement politics.
 - [U.S. Constitutional Reform Constraint](concepts/USConstitutionalReformConstraint.md) — sp.05 explanation of how Article V thresholds, slavery-era compromises, federalism, and presidentialism make structural reform hard.
 - [MAGA Coalition Fracture](concepts/MAGACoalitionFracture.md) — sp.05 concept for the split between grassroots nativism, Silicon Valley labor demand, Trump politics, and narrow Republican governing margins.
-- [Identity Politics As Political Sorting](concepts/IdentityPoliticsAsPoliticalSorting.md) — sp.05 account of how welfare, race, immigration, MAGA, BLM, media, and party identities sort political judgment.
+- [Identity Politics As Political Sorting](concepts/IdentityPoliticsAsPoliticalSorting.md) — Account of how welfare, race, immigration, refugee deservingness, MAGA, BLM, media, and party identities sort political judgment.
+- [American Exceptionalism](concepts/AmericanExceptionalism.md) — Source frame for U.S. rule-exception habits made visible through Trump's World Cup red-card pressure.
+- [South African White Migrant Labor](concepts/SouthAfricanWhiteMigrantLabor.md) — Field-reporting concept for white South Africans working as seasonal, employer-dependent farm laborers in Mississippi.
+- [Selective White Refugee Exception](concepts/SelectiveWhiteRefugeeException.md) — Immigration-politics pattern where restrictionist policy opens favored pathways for white migrants who fit a persecution narrative.
+- [White Victimhood Narrative](concepts/WhiteVictimhoodNarrative.md) — Race-and-grievance story in which loss of historical advantage is recoded as discrimination or persecution.
+- [Embedded Foreign Reporting](concepts/EmbeddedForeignReporting.md) — Journalism method of combining local participation, field access, and outsider analytical distance.
 - [Institutional Speech Punishment](concepts/InstitutionalSpeechPunishment.md) — sp.05 distinction between ordinary harsh public criticism and procedure-bypassing punishment by public or quasi-public institutions.
 - [U.S. Health Insurance Denial Politics](concepts/USHealthInsuranceDenialPolitics.md) — Frame for how employer insurance, networks, billing fragmentation, denial opacity, and private insurer power produce public rage.
 - [U.S. Federalism Veto Points](concepts/USFederalismVetoPoints.md) — Institutional explanation for why U.S. health-care anger is hard to convert into nationwide reform.
@@ -15769,7 +15776,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Israeli Election 2026](concepts/IsraeliElection2026.md) — Election frame for post-October-7 judgment on Netanyahu, war leadership, opposition coalition viability, conscription, education, and strategic avoidance.
 - [Haredi Conscription](concepts/HarediConscription.md) — Israeli burden-sharing dispute over ultra-Orthodox military-service exemptions and their campaign role.
 - [Palestinian Question in Israeli Politics](concepts/PalestinianQuestionInIsraeliPolitics.md) — Source frame for the central Palestinian issue being avoided in Israeli election campaigning despite West Bank risk.
-- [Sports Political Interference](concepts/SportsPoliticalInterference.md) — Governance risk where political leaders pressure sporting decisions such as discipline, refereeing, or tournament access.
+- [Sports Political Interference](concepts/SportsPoliticalInterference.md) — Governance risk where political leaders pressure sporting decisions such as discipline, refereeing, tournament access, or rule exceptions.
 - [Iceberg Climate Symbolism](concepts/IcebergClimateSymbolism.md) — Media and climate frame where a named iceberg's breakup carries natural-cycle, ecological, and warming-sea meanings at once.
 - [Usage-Based Vertical SaaS Pricing](concepts/UsageBasedVerticalSaaSPricing.md) — Pricing pattern where a vertical software product charges against a domain-specific value metric, such as Skimmer's serviced-customer count, rather than generic seats.
 - [Field-First Vertical SaaS](concepts/FieldFirstVerticalSaaS.md) — Vertical software strategy that designs around frontline field workers, mobile devices, offline use, and fast repeated data entry rather than only office dashboards.

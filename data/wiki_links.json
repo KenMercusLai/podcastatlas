@@ -959,6 +959,10 @@
     "title": "39.哲学家与狼：在朗格多克永恒的夏天",
     "url": "/wiki/sources/39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065/"
   },
+  "398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7": {
+    "title": "#398 一场美国观察漫谈：世界杯红牌、南非白人劳工",
+    "url": "/wiki/sources/398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7/"
+  },
   "399-jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-shizhounian-tebie-jiemu-b8cd9085-c37e-4dd3-92d7-5d7be257f078": {
     "title": "#399 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨十周年特别节目",
     "url": "/wiki/sources/399-jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-shizhounian-tebie-jiemu-b8cd9085-c37e-4dd3-92d7-5d7be257f078/"
@@ -4586,6 +4590,10 @@
   "AmericanEnterpriseInstitute": {
     "title": "American Enterprise Institute",
     "url": "/wiki/entities/americanenterpriseinstitute/"
+  },
+  "AmericanExceptionalism": {
+    "title": "American Exceptionalism",
+    "url": "/wiki/concepts/americanexceptionalism/"
   },
   "AmericanExpress": {
     "title": "American Express",
@@ -17846,6 +17854,10 @@
   "Elys": {
     "title": "Elys",
     "url": "/wiki/entities/elys/"
+  },
+  "EmbeddedForeignReporting": {
+    "title": "Embedded Foreign Reporting",
+    "url": "/wiki/concepts/embeddedforeignreporting/"
   },
   "EmbeddedPodcast": {
     "title": "Embedded podcast",
@@ -33775,6 +33787,10 @@
     "title": "刘嚣 / Liu Xiao (late Han)",
     "url": "/wiki/entities/liuxiaolatehan/"
   },
+  "LiuXiaoqian": {
+    "title": "Liu Xiaoqian / 刘萧千",
+    "url": "/wiki/entities/liuxiaoqian/"
+  },
   "LiuXiu": {
     "title": "Liu Xiu / 刘秀",
     "url": "/wiki/entities/liuxiu/"
@@ -49415,6 +49431,10 @@
     "title": "Selective Motion Smoothing",
     "url": "/wiki/concepts/selectivemotionsmoothing/"
   },
+  "SelectiveWhiteRefugeeException": {
+    "title": "Selective White Refugee Exception",
+    "url": "/wiki/concepts/selectivewhiterefugeeexception/"
+  },
   "SelfBuiltAgentWorkflow": {
     "title": "Self-Built Agent Workflow",
     "url": "/wiki/concepts/selfbuiltagentworkflow/"
@@ -51654,6 +51674,10 @@
   "SouthAfrica": {
     "title": "South Africa",
     "url": "/wiki/entities/southafrica/"
+  },
+  "SouthAfricanWhiteMigrantLabor": {
+    "title": "South African White Migrant Labor",
+    "url": "/wiki/concepts/southafricanwhitemigrantlabor/"
   },
   "SouthChinaAA": {
     "title": "南华 / South China Athletic Association",
@@ -59562,6 +59586,10 @@
   "WhiteSnakeLegend": {
     "title": "White Snake Legend / 白蛇传",
     "url": "/wiki/entities/whitesnakelegend/"
+  },
+  "WhiteVictimhoodNarrative": {
+    "title": "White Victimhood Narrative",
+    "url": "/wiki/concepts/whitevictimhoodnarrative/"
   },
   "WhitneyDuan": {
     "title": "Whitney Duan",
