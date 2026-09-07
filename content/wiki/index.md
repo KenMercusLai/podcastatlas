@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？](sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj.md) — 三五环 interview with Hanqing on AI Talk, Yuri / 尤栗 / 优瑞, AI-native virtual idols, multi-model music/video workflow, personality systems, and real-time AI character risk.
 - [No.226 AI 越强，创业者越要回到用户现场](sources/no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt.md) — 三五环 interview with AHA Creator founder Kate on using AI for overseas creator matching, authenticity checks, multilingual outreach, workflow follow-up, first-pass brief review, and human-retained budget and creative approval.
 - [EP85 营销管理：Mini MBA 第一课](sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a.md) — 纵横四海 Mini MBA episode on marketing as a strategy-STP-4P chain, covering marketing ethics, brand belief, core competence, segmentation, targeting, positioning, value-based pricing, and channel risk.
 - [All right on the night: AfD's victory](sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f.md) — The Intelligence episode on AfD's 44% Saxony-Anhalt win, CDU collapse, BSW kingmaker arithmetic, contrail mitigation through Operation Blue Skies, and young South Koreans' renewed interest in Buddhism.
@@ -1995,6 +1996,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [汗青 / Hanqing](entities/HanqingUrey.md) — AI Talk founder and Yuri / 尤栗 / 优瑞 creator who frames AI-native idol value around personality, taste, workflow orchestration, and original IP.
+- [Yuri / 尤栗 / 优瑞](entities/UreyVirtualIdol.md) — AI-native virtual idol and digital singer built through multi-model music, image, video, voice, and personality-system workflow.
+- [AI Talk](entities/AITalk.md) — Hanqing's early synthetic virtual-conversation project and training ground before the shift toward original AI-native IP.
+- [Omni-Human](entities/OmniHuman.md) — Model named in the Yuri source as enabling more expressive AI singing and virtual-idol performance.
 - [纵横四海 / Zong Heng Si Hai](entities/ZongHengSiHai.md) — Chinese podcast show represented here by a Mini MBA marketing-management episode that connects strategy, STP, 4P, consumer ethics, brand belief, and personal positioning.
 - [Tom Nuttall](entities/TomNuttall.md) — The Intelligence participant reporting from AfD's Saxony-Anhalt election-night party and explaining the post-election arithmetic.
 - [Bündnis Sahra Wagenknecht / BSW](entities/BundnisSahraWagenknecht.md) — Populist-left German party that becomes a possible Saxony-Anhalt kingmaker after AfD's large plurality.
@@ -11245,6 +11250,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [AI-Native Virtual Idol / AI 原生虚拟偶像](concepts/AINativeVirtualIdol.md) — Character-IP pattern where AI is part of the idol's identity, production workflow, narrative, and interaction risk boundary.
+- [AI Character Personality System / AI 角色人格系统](concepts/AICharacterPersonalitySystem.md) — Structured identity, tone, visual continuity, values, and narrative direction that make an AI character recognizable beyond any single generated output.
 - [Brand Belief / 品牌信念](concepts/BrandBelief.md) — Consumer-held belief structure that defines what a brand means beyond logo, product feature, or internal business-unit boundary.
 - [Channel Length Risk / 渠道长度风险](concepts/ChannelLengthRisk.md) — Distribution risk where more intermediaries can expand reach while weakening price control, authenticity, feedback, service, and brand coherence.
 - [Core Competence Strategy / 核心竞争力战略](concepts/CoreCompetenceStrategy.md) — Strategy discipline of finding the durable capability behind visible assets and choosing goals, markets, and resources around that capability.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 9246
+wiki_total_pages: 9250
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "UXCoffee"
     title: "UX Coffee"
     url: "/wiki/entities/uxcoffee/"
+  - key: "UreyVirtualIdol"
+    title: "Yuri / 尤栗 / 优瑞"
+    url: "/wiki/entities/ureyvirtualidol/"
   - key: "UglyFrogGame"
     title: "丑蛙 / Ugly Frog game"
     url: "/wiki/entities/uglyfroggame/"

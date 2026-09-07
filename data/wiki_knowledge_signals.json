@@ -750,6 +750,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/aiautomationredistribution/"
     },
+    "AICharacterPersonalitySystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOMqFBAZCGTAS5lERj [GKwRIUEOMqFBAZCGTAS5lERj].md",
+          "key": "no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj",
+          "show": "三五环",
+          "title": "No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？",
+          "url": "/wiki/sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/aicharacterpersonalitysystem/"
+    },
     "AIChipSpecialization": {
       "episode_count": 8,
       "show_count": 6,
@@ -2088,6 +2104,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/ainativenarrativeworlds/"
     },
+    "AINativeVirtualIdol": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOMqFBAZCGTAS5lERj [GKwRIUEOMqFBAZCGTAS5lERj].md",
+          "key": "no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj",
+          "show": "三五环",
+          "title": "No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？",
+          "url": "/wiki/sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/ainativevirtualidol/"
+    },
     "AIOfficeAgent": {
       "episode_count": 3,
       "show_count": 2,
@@ -2418,6 +2450,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/aito/"
+    },
+    "AITalk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOMqFBAZCGTAS5lERj [GKwRIUEOMqFBAZCGTAS5lERj].md",
+          "key": "no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj",
+          "show": "三五环",
+          "title": "No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？",
+          "url": "/wiki/sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/aitalk/"
     },
     "AITrainingCopyrightDispute": {
       "episode_count": 4,
@@ -31287,6 +31335,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/handsonaianxietyreduction/"
     },
+    "HanqingUrey": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOMqFBAZCGTAS5lERj [GKwRIUEOMqFBAZCGTAS5lERj].md",
+          "key": "no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj",
+          "show": "三五环",
+          "title": "No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？",
+          "url": "/wiki/sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/hanqingurey/"
+    },
     "HanyangCommanderyLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -41924,9 +41988,9 @@
       "url": "/wiki/entities/liufanglatehan/"
     },
     "LiuFei": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -41962,6 +42026,13 @@
           "show": "三五环",
           "title": "No.226 AI 越强，创业者越要回到用户现场",
           "url": "/wiki/sources/no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt/"
+        },
+        {
+          "episode_file": "GKwRIUEOMqFBAZCGTAS5lERj [GKwRIUEOMqFBAZCGTAS5lERj].md",
+          "key": "no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj",
+          "show": "三五环",
+          "title": "No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？",
+          "url": "/wiki/sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj/"
         }
       ],
       "updated": "2026-09-08",
@@ -51639,6 +51710,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/omerkhan/"
     },
+    "OmniHuman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOMqFBAZCGTAS5lERj [GKwRIUEOMqFBAZCGTAS5lERj].md",
+          "key": "no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj",
+          "show": "三五环",
+          "title": "No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？",
+          "url": "/wiki/sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/omnihuman/"
+    },
     "OnPolicyDistillation": {
       "episode_count": 2,
       "show_count": 2,
@@ -61087,9 +61174,9 @@
       "url": "/wiki/entities/samueljohnson/"
     },
     "SanWuHuan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -61125,6 +61212,13 @@
           "show": "三五环",
           "title": "No.226 AI 越强，创业者越要回到用户现场",
           "url": "/wiki/sources/no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt/"
+        },
+        {
+          "episode_file": "GKwRIUEOMqFBAZCGTAS5lERj [GKwRIUEOMqFBAZCGTAS5lERj].md",
+          "key": "no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj",
+          "show": "三五环",
+          "title": "No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？",
+          "url": "/wiki/sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj/"
         }
       ],
       "updated": "2026-09-08",
@@ -71440,6 +71534,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/urbanwildlifeconflictmanagement/"
+    },
+    "UreyVirtualIdol": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEOMqFBAZCGTAS5lERj [GKwRIUEOMqFBAZCGTAS5lERj].md",
+          "key": "no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj",
+          "show": "三五环",
+          "title": "No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？",
+          "url": "/wiki/sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/ureyvirtualidol/"
     },
     "UrinaryTractInfectionBehaviorBoundary": {
       "episode_count": 1,
