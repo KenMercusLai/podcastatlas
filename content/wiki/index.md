@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？](sources/no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna.md) — 三五环 interview with Liu Xiaowei on Kuaishou marketing science, content seeding, R3 seeded audiences, search/live/store paths, and brand-performance integration.
 - [史蒂夫说467期 - Joan姐 - 看清自我后，就没人能阻挡你活出自我了](sources/shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg.md) — 史蒂夫说 interview on Steve's psychology origin, Wenchuan crisis intervention, love, vulnerability, father-son repair, parenting, Innerworld boxing community, and self-understanding as vitality.
 - [No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？](sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d.md) — 三五环 episode on AI-enabled celebrity voice and likeness infringement in Douyin ecommerce, platform pre-review, authorization boundaries, false positives, and consumer confusion.
 - [史蒂夫说468期 - 咨询师回信：独自努力长大的人容易陷入全能自恋的陷阱](sources/shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j.md) — 史蒂夫说 counselor-letter episode on study-abroad loneliness, creator anxiety, intrusive thoughts, negative narrative, emotional flashbacks, omnipotent self-blame, pain orientation, and grounding.
@@ -2005,6 +2006,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [刘晓微 / Liu Xiaowei](entities/LiuXiaoweiMarketing.md) — Kuaishou marketing-science practitioner explaining content seeding, R3 audience assets, and brand-performance path construction.
 - [Innerworld](entities/Innerworld.md) — boxing-and-psychology community described by Steve as a growth environment for embodied self-contact, ritual, vulnerability, and peer support.
 - [Douyin E-commerce / 抖音电商](entities/DouyinEcommerce.md) — Douyin commerce layer discussed through AI-enabled celebrity voice and likeness infringement, rights pre-review, product/account/live-room confusion, and authorization maintenance.
 - [Zhu Wei / 朱威 (legal scholar)](entities/ZhuWeiLegalScholar.md) — Communication-law and internet-law scholar explaining rights, protected interests, consumer confusion, and authorization boundaries in the Douyin ecommerce infringement episode.
@@ -11271,6 +11273,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Content Seeding Marketing / 内容种草](concepts/ContentSeedingMarketing.md) — Marketing path where content, creators, search, livestreams, stores, and delayed buying build product understanding and demand beyond same-session purchase.
+- [Brand-Performance Integration / 品效合一](concepts/BrandPerformanceIntegration.md) — Advertising frame linking brand exposure, seeded audiences, ecommerce traffic, and conversion without pretending every impression is causally provable.
+- [Marketing Science User Path / 营销科学用户路径](concepts/MarketingScienceUserPath.md) — Reconstruction of exposure, search, live-room, store, coupon, delayed purchase, and off-platform behavior as partial marketing-path signals.
 - [Self-Understanding As Vitality / 看清自己带来的生命力](concepts/SelfUnderstandingAsVitality.md) — Frame that life energy grows when a person can narrate, understand, and be witnessed in their own story.
 - [Vulnerability As Love Source / 脆弱作为爱的源泉](concepts/VulnerabilityAsLoveSource.md) — Claim that love depends on contact with softness, need, grief, fear, and imperfection rather than invulnerability.
 - [AI E-commerce Infringement Governance / AI电商侵权治理](concepts/AIEcommerceInfringementGovernance.md) — Platform practice of detecting and adjudicating AI-assisted voice, face, name, trademark, account, live-room, and product-page misuse in commerce.

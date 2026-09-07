@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6666
+wiki_total_pages: 6669
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1439,6 +1439,9 @@ wiki_pages:
   - key: "ContentEngineering"
     title: "Content Engineering"
     url: "/wiki/concepts/contentengineering/"
+  - key: "ContentSeedingMarketing"
+    title: "Content Seeding Marketing / 内容种草"
+    url: "/wiki/concepts/contentseedingmarketing/"
   - key: "ContentOverMotiveRemonstrance"
     title: "Content-Over-Motive Remonstrance / 只问对错不问动机的纳谏"
     url: "/wiki/concepts/contentovermotiveremonstrance/"

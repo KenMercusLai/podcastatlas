@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6666
+wiki_total_pages: 6669
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "BrandControlledAuthentication"
     title: "Brand-Controlled Authentication"
     url: "/wiki/concepts/brandcontrolledauthentication/"
+  - key: "BrandPerformanceIntegration"
+    title: "Brand-Performance Integration / 品效合一"
+    url: "/wiki/concepts/brandperformanceintegration/"
   - key: "BrandedProduceDifferentiation"
     title: "Branded Produce Differentiation"
     url: "/wiki/concepts/brandedproducedifferentiation/"

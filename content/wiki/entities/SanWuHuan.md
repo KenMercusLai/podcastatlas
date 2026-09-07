@@ -10,6 +10,7 @@ sources:
   - no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt
   - no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj
   - no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d
+  - no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna
 last_updated: 2026-09-08
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,7 @@ knowledge_schema: synthesis-v1
 # 三五环
 
 ## Overview
-三五环 is [[LiuFei|刘飞]]'s podcast context in the wiki, now represented as an ecosystem reference and a recurring venue for practitioner interviews about AI-era creation, internet expression, platform operations, original IP, and productized business workflows.
+三五环 is [[LiuFei|刘飞]]'s podcast context in the wiki, now represented as an ecosystem reference and a recurring venue for practitioner interviews about AI-era creation, internet expression, platform operations, original IP, productized business workflows, commerce rights, and marketing science.
 
 ## Current Profile
 The earlier source only located 三五环 as Liu's adjacent show beside [[Banlatte|半拿铁]]. The Wu Hankun and Chouxiangzai episodes give it a concrete editorial surface for long-form conversations about product work, AI tools, creator identity, internet expression, and industry change through practitioner experience rather than news roundup alone.
@@ -32,14 +33,16 @@ The [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]] episode adds an AI-native IP and 
 
 The Douyin ecommerce infringement episode adds a platform-rights governance branch through [[ZhuWeiLegalScholar|朱威]] and [[JiaxuDouyinEcommerce|嘉旭]]. Here 三五环 uses the same practitioner-interview format to turn AI celebrity voice and likeness misuse into concrete questions about [[DouyinEcommerce|抖音电商]], [[AIEcommerceInfringementGovernance]], [[PlatformRightsPreReview]], authorization records, false positives, and consumer confusion.
 
+The Kuaishou seeding episode adds a platform-marketing science branch through [[LiuXiaoweiMarketing|刘晓微]]. It treats "种草" as a concrete user-path problem: content exposure, search, live-room explanation, store visits, coupons, delayed purchase, and off-platform transactions become the operating details behind [[ContentSeedingMarketing|内容种草]], [[BrandPerformanceIntegration|品效合一]], and [[MarketingScienceUserPath|marketing science user-path reconstruction]].
+
 ## Key Characteristics
 - It is associated with [[LiuFei|刘飞]] as a host/creator context.
-- It can serve as a practitioner-interview venue for AI, creativity, and product work.
 - Its Wu Hankun episode treats AI through workflow detail rather than only capability hype.
 - Its Chouxiangzai episode treats AI video through internet expression, virality, sincerity, and commercialization rather than only tool novelty.
 - Its Hanqing episode treats AI-native virtual idols through original IP, personality systems, music/video workflow, and interaction risk.
 - Its Douyin ecommerce episode treats AI-enabled infringement as a platform operations, rights, authorization, and consumer-confusion problem.
-- It can use former internet-company and founder-operator context to explain platform safety, governance, customer workflow, and user responsibility.
+- Its Kuaishou episode treats content seeding as marketing science, user-path reconstruction, and brand-performance integration rather than only advertising jargon.
+- It can use former internet-company and founder-operator context to explain platform safety, governance, customer workflow, marketing paths, and user responsibility.
 
 ## Evidence
 - Show association - [[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] names 三五环 as Liu Fei's other podcast context.
@@ -49,6 +52,7 @@ The Douyin ecommerce infringement episode adds a platform-rights governance bran
 - Founder-operator interview - [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]] is a 三五环 episode with Liu interviewing [[KateAHA|Kate]] on [[AHACreator|AHA Creator]], [[AIDrivenCreatorMarketing]], AI employee workflows, and overseas creator marketing.
 - AI-native IP interview - [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]] is a 三五环 episode with Liu interviewing [[HanqingUrey|汗青]] on [[AITalk|AI Talk]], [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]], [[AINativeVirtualIdol]], and [[AICharacterPersonalitySystem]].
 - Platform-rights governance interview - [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]] is a 三五环 episode with Liu interviewing [[ZhuWeiLegalScholar|朱威]] and [[JiaxuDouyinEcommerce|嘉旭]] on [[DouyinEcommerce|抖音电商]], AI-enabled likeness and voice infringement, pre-review, authorization, and consumer confusion.
+- Marketing-science interview - [[no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna]] is a 三五环 episode with Liu interviewing [[LiuXiaoweiMarketing|刘晓微]] on [[Kuaishou]], seeded audiences, search/store/live-room signals, and brand-performance integration.
 - Workflow focus - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] uses concrete production details around [[PinkParadox|《粉色悖论》]] and [[PopulationAnomaly|《人口异常》]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]] uses concrete account, team, client, and short-drama workflow examples, and [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]] uses concrete model-orchestration, personality, music, image, and dialogue-risk examples.
 - Product-cultural bridge - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]], [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]], [[no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi]], [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]], and [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]] connect tools, product thinking, platform behavior, human judgment, user responsibility, customer workflow, original IP, and rights governance.
 
@@ -56,11 +60,11 @@ The Douyin ecommerce infringement episode adds a platform-rights governance bran
 The page remains source-limited. It does not claim a complete history, format taxonomy, audience profile, or release schedule for 三五环.
 
 ## What Changed
-- Added the Chouxiangzai episode, reframing 三五环 as a recurring practitioner-interview venue for AI video, creator work, and internet-cultural production.
 - Added the Didi safety episode, extending the show profile into platform safety operations and offline-service governance.
 - Added the AHA Creator episode, extending the show profile into AI commercialization through concrete overseas creator-marketing workflow.
 - Added the Hanqing/Yuri episode, extending the show profile into AI-native virtual idols, personality systems, and original IP risk.
 - Added the Douyin ecommerce infringement episode, extending the show profile into AI-enabled commerce rights governance and platform authorization operations.
+- Added the Kuaishou seeding episode, extending the show profile into platform marketing science, content commerce, and brand-performance path construction.
 
 ## Relationships
 - [[LiuFei|刘飞]] - host associated with the show across the source set.
@@ -71,6 +75,8 @@ The page remains source-limited. It does not claim a complete history, format ta
 - [[ZhuWeiLegalScholar|朱威]] - legal scholar who grounds the show's AI ecommerce infringement branch.
 - [[JiaxuDouyinEcommerce|嘉旭]] - platform operator who grounds the show's Douyin ecommerce infringement branch.
 - [[DouyinEcommerce|抖音电商]] - commerce platform case discussed in the show's rights-governance branch.
+- [[LiuXiaoweiMarketing|刘晓微]] - guest who grounds the show's Kuaishou content-seeding branch.
+- [[Kuaishou]] - platform case discussed in the show's marketing-science branch.
 - [[XuXiaonan|徐晓楠 / 曲晓楠]] - guest who grounds the show's ride-hailing safety operations branch.
 - [[KateAHA|Kate]] - guest who grounds the show's AI-driven creator-marketing branch.
 - [[AHACreator|AHA Creator]] - company case discussed in the show's overseas creator-marketing branch.
@@ -82,3 +88,4 @@ The page remains source-limited. It does not claim a complete history, format ta
 - [[AIDrivenCreatorMarketing]] - AI commercialization and workflow branch surfaced by the AHA Creator episode.
 - [[AINativeVirtualIdol]] - AI-native character IP branch surfaced by the Hanqing episode.
 - [[AIEcommerceInfringementGovernance]] - AI commerce rights-governance branch surfaced by the Douyin ecommerce episode.
+- [[ContentSeedingMarketing]] - content-commerce and demand-path branch surfaced by the Kuaishou episode.

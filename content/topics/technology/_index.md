@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2805
+topic_total_pages: 2806
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2494,6 +2494,9 @@ topic_concepts:
   - key: "ManufacturingDigitalThread"
     title: "Manufacturing Digital Thread / 制造数字主线"
     url: "/wiki/concepts/manufacturingdigitalthread/"
+  - key: "MarketingScienceUserPath"
+    title: "Marketing Science User Path / 营销科学用户路径"
+    url: "/wiki/concepts/marketingscienceuserpath/"
   - key: "MassProducedAIIntimacy"
     title: "Mass-Produced AI Intimacy"
     url: "/wiki/concepts/massproducedaiintimacy/"

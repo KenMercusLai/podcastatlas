@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-08
-as_of_overview_commit: 4c4ed167fee58fac7f7fcd7a7db1e368f7939471
-summary: "Podcast Atlas synthesizes how AI, markets, culture, institutions, history, health, psychology, and work turn capability into trustworthy practice."
-episode_count: 1997
-source_count: 1997
-paragraph_count: 582
+as_of_overview_commit: 02f1bd90b76bced9349df482488be45e52c00b4f
+summary: "Podcast Atlas maps how capability becomes trustworthy practice through workflows, institutions, markets, evidence, bodies, and social context."
+episode_count: 1998
+source_count: 1998
+paragraph_count: 583
 topic_count: 8
 ---
 
@@ -17,7 +17,7 @@ topic_count: 8
 ## Executive Summary
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[OfficeAgentHarnessDesign]], [[EnterpriseConnectorContextQuality]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[PersistentCloudAgents]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[AgentReliabilityVerification]], [[AgentCommandCenter]], [[TeamAgentMemory]], [[AgenticDataEngineeringHarness]], [[PolicyBoundAgenticLendingSupport]], [[ExplainableAILending]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation.
-- Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[ChineseStyleFDE]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[EnterpriseAIROIAudit]], [[AIDataReadiness]], [[DataFoundationFirstAIStrategy]], [[MidMarketDataTalentGap]], [[DataTeamAsBusinessPartner]], [[DataSovereignty]], [[ApplicationCompanyModelCapability]], [[LowCostModelPostTraining]], [[DataFirstPostTraining]], [[SupervisedFineTuning]], [[QLoRA]], [[AutoRLProductionLoop]], [[ScenarioLevelRewardSignal]], [[IndustrialAIROIFilter]], [[WorkerBaseModelRouting]], [[ParadoxMachines]], [[RetrievalAugmentedGeneration]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AIOfficeAgent]], [[OfficeAgentHarnessDesign]], [[EnterpriseConnectorContextQuality]], [[AgentHarness]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[MPWRAI]], [[ExplainableAILending]], [[PolicyBoundAgenticLendingSupport]], [[HumanInTheLoopCreditDecisioning]], [[NontraditionalBorrowerCreditAccess]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], [[HumanoidRobotCommercialization]], [[RealRobotDataStrategy]], [[RobotTrainingCenters]], and [[EgocentricRobotData]] all make capability depend on workflow fit, customer authority, evidence, verification, interfaces, prepared data, ownership, senior expertise, application-specific training targets, experiments, grounded data, scene fit, measurable reward, routing economics, or repeated use.
+- [[no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna]] adds that [[ContentSeedingMarketing]] and [[BrandPerformanceIntegration]] should be judged as path construction: [[Kuaishou]] uses R3 seeded audiences, search, live-room explanation, store visits, coupons, delayed purchase, and off-platform conversion signals to bridge brand exposure with ecommerce traffic rather than treating same-session purchase as the only proof.
 - Fiction, folklore, and popular memory are useful cultural entry points only when evidence boundaries stay visible: [[FictionAsHistoricalEvidence]], [[EvidenceBoundFolkloreInquiry]], [[SettingBasedMystery]], [[HuaXiongLateHan]], [[JingjueKingdom]], and [[NiyaSite]] separate reception, motif, and puzzle design from direct event proof.
 - Trust and mission are governance assets only when protected by structures: customer reliability, private standards, benefit trusts, stewardship ownership, AI alignment governance, post-acquisition identity, greenhushing, and growth pace all show that values can attract pressure as well as loyalty.
 - Formal legitimacy only matters when it is paired with material capacity, timing, and enforceable alliances rather than title or moral claim alone.
@@ -36,7 +36,7 @@ AI value depends on models being embedded in workflows, verification, permission
 
 ### Business and Markets
 
-Market value emerges when capability is translated into demand, distribution, payment, trust, operational fit, capital discipline, and defensible execution.
+Market value emerges when capability is translated into demand, distribution, payment, trust, operational fit, capital discipline, and defensible execution; content seeding adds a path-based bridge between brand exposure and commerce conversion.
 
 - [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee|The Bogg Bag episode]] adds that physical consumer-brand recovery can depend on actual use overriding founder despair: [[DefectiveInventoryDemandSignal]] turned black-streaked inventory into customer-pull evidence, while [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], and [[FounderRestartAfterFailure]] show that restart still needed channels, capital, and governance fit before [[BoggBag]] could scale. Evidence: [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee]], [[BoggBag]], [[KimVaccarella]], [[DefectiveInventoryDemandSignal]], [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], [[FounderRestartAfterFailure]], [[HardwareInventoryRisk]], [[InventoryHeavyConsumerBrandFinancing]], [[WholesaleAsMarketing]], [[FastProductValidation]], [[StartupGovernance]], [[ConsumerBrandMoat]].
 - [[trump-drinks-venezuelas-milkshake]] and [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]] now frame Venezuela oil reopening as a market test of capital, technology, legitimacy, and enforceable property rights at once: [[PDVSA]] underinvestment and heavy-oil needs make foreign capacity useful, while [[OilReopeningBacklash]], [[OilConcessionBargaining]], [[OilRevenueDependence]], [[JoseAngelPereira|José Ángel Pereira]]'s Citgo imprisonment, and the source-scoped [[NorthAmericanBlueEnergyPartners]] concession make contract credibility, authority, and executive safety part of the investment case. Evidence: [[trump-drinks-venezuelas-milkshake]], [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]], [[Venezuela]], [[JoseAngelPereira]], [[OilReopeningBacklash]], [[NorthAmericanBlueEnergyPartners]], [[PDVSA]], [[Citgo]], [[Chevron]], [[OilConcessionBargaining]], [[OilRevenueDependence]], [[PoliticalResourceCurse]].

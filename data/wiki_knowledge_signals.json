@@ -8814,6 +8814,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/brandnarrativehomogenizationrisk/"
     },
+    "BrandPerformanceIntegration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OGWlOAbcXcQSvisnA [GKwRIW4OGWlOAbcXcQSvisnA].md",
+          "key": "no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna",
+          "show": "三五环",
+          "title": "No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？",
+          "url": "/wiki/sources/no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/brandperformanceintegration/"
+    },
     "BrandValueProtection": {
       "episode_count": 1,
       "show_count": 1,
@@ -14528,6 +14544,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/contentaestheticovermetrics/"
     },
+    "ContentSeedingMarketing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OGWlOAbcXcQSvisnA [GKwRIW4OGWlOAbcXcQSvisnA].md",
+          "key": "no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna",
+          "show": "三五环",
+          "title": "No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？",
+          "url": "/wiki/sources/no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/contentseedingmarketing/"
+    },
     "ContextDependentBiomedicalInterventions": {
       "episode_count": 2,
       "show_count": 1,
@@ -15236,9 +15268,9 @@
       "url": "/wiki/concepts/creatorobituarymemory/"
     },
     "CreatorTrustAdvertising": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 ｜ 中国互联网故事 26 [1005977305].md",
@@ -15260,6 +15292,13 @@
           "show": "三五环",
           "title": "No.226 AI 越强，创业者越要回到用户现场",
           "url": "/wiki/sources/no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt/"
+        },
+        {
+          "episode_file": "GKwRIW4OGWlOAbcXcQSvisnA [GKwRIW4OGWlOAbcXcQSvisnA].md",
+          "key": "no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna",
+          "show": "三五环",
+          "title": "No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？",
+          "url": "/wiki/sources/no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna/"
         }
       ],
       "updated": "2026-09-08",
@@ -39447,6 +39486,71 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/kuaikanmanhua/"
     },
+    "Kuaishou": {
+      "episode_count": 8,
+      "show_count": 5,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？ [1007530222].md",
+          "key": "kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？",
+          "url": "/wiki/sources/kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222/"
+        },
+        {
+          "episode_file": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 ｜ 中国互联网故事 26 [1005977305].md",
+          "key": "no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 | 中国互联网故事 26",
+          "url": "/wiki/sources/no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305/"
+        },
+        {
+          "episode_file": "141.加更：因为播客，我受邀去哥伦比亚大学做访问学者了 [llUK9KruHVEoKkBMFo0aDrJ7EtpJ].md",
+          "key": "141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj",
+          "show": "起朱楼宴宾客",
+          "title": "141.加更：因为播客，我受邀去哥伦比亚大学做访问学者了",
+          "url": "/wiki/sources/141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj/"
+        },
+        {
+          "episode_file": "Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集 [ludFlvAw7lId_tCi9GaGBbXOBVtz].md",
+          "key": "musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz",
+          "show": "乱翻书",
+          "title": "Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集",
+          "url": "/wiki/sources/musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz/"
+        },
+        {
+          "episode_file": "266.从红果到AI短剧：谁在革谁的命？ [lgZf6BU7bfaLR5QvNhlFZkuFAHOb].md",
+          "key": "266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob",
+          "show": "乱翻书",
+          "title": "266.从红果到AI短剧：谁在革谁的命？",
+          "url": "/wiki/sources/266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob/"
+        },
+        {
+          "episode_file": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集 [lqSZvMuR6JV8b9XT8rJgmWFdQtEc].md",
+          "key": "quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec",
+          "show": "乱翻书",
+          "title": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集",
+          "url": "/wiki/sources/quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec/"
+        },
+        {
+          "episode_file": "发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集 [lijPz1zGy9H2k4qd0C45ixweNU-0].md",
+          "key": "faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0",
+          "show": "乱翻书",
+          "title": "发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集",
+          "url": "/wiki/sources/faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0/"
+        },
+        {
+          "episode_file": "GKwRIW4OGWlOAbcXcQSvisnA [GKwRIW4OGWlOAbcXcQSvisnA].md",
+          "key": "no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna",
+          "show": "三五环",
+          "title": "No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？",
+          "url": "/wiki/sources/no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/kuaishou/"
+    },
     "KunyangBattle": {
       "episode_count": 2,
       "show_count": 2,
@@ -42390,9 +42494,9 @@
       "url": "/wiki/entities/liufanglatehan/"
     },
     "LiuFei": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -42442,6 +42546,13 @@
           "show": "三五环",
           "title": "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？",
           "url": "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"
+        },
+        {
+          "episode_file": "GKwRIW4OGWlOAbcXcQSvisnA [GKwRIW4OGWlOAbcXcQSvisnA].md",
+          "key": "no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna",
+          "show": "三五环",
+          "title": "No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？",
+          "url": "/wiki/sources/no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna/"
         }
       ],
       "updated": "2026-09-08",
@@ -43211,6 +43322,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/liuxiaoqian/"
+    },
+    "LiuXiaoweiMarketing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OGWlOAbcXcQSvisnA [GKwRIW4OGWlOAbcXcQSvisnA].md",
+          "key": "no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna",
+          "show": "三五环",
+          "title": "No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？",
+          "url": "/wiki/sources/no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/liuxiaoweimarketing/"
     },
     "LiuXiu": {
       "episode_count": 34,
@@ -47001,6 +47128,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/marketingmanagementchain/"
+    },
+    "MarketingScienceUserPath": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OGWlOAbcXcQSvisnA [GKwRIW4OGWlOAbcXcQSvisnA].md",
+          "key": "no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna",
+          "show": "三五环",
+          "title": "No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？",
+          "url": "/wiki/sources/no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/marketingscienceuserpath/"
     },
     "MarquisDeLafayette": {
       "episode_count": 1,
@@ -61905,9 +62048,9 @@
       "url": "/wiki/entities/samueljohnson/"
     },
     "SanWuHuan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -61957,6 +62100,13 @@
           "show": "三五环",
           "title": "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？",
           "url": "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"
+        },
+        {
+          "episode_file": "GKwRIW4OGWlOAbcXcQSvisnA [GKwRIW4OGWlOAbcXcQSvisnA].md",
+          "key": "no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna",
+          "show": "三五环",
+          "title": "No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？",
+          "url": "/wiki/sources/no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna/"
         }
       ],
       "updated": "2026-09-08",

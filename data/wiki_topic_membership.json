@@ -40314,6 +40314,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "MarketingScienceUserPath": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "MarketplaceFrictionReduction": [
     {
       "key": "economics",

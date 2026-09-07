@@ -10,6 +10,7 @@ sources:
   - no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt
   - no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj
   - no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d
+  - no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna
 last_updated: 2026-09-08
 knowledge_schema: synthesis-v1
 ---
@@ -20,7 +21,7 @@ knowledge_schema: synthesis-v1
 刘飞 is a Chinese podcast host and former internet product manager connected to [[Banlatte|半拿铁]] and [[SanWuHuan|三五环]].
 
 ## Current Profile
-The current wiki profile presents Liu as a product-minded interviewer whose podcast work spans business storytelling, media-form reflection, AI-era creator questions, platform operations, founder workflow, and AI-native IP. In the 半拿铁 special, he helps explain podcast production, audience trust, and brand communication. In the 三五环 interviews with [[WuHankun|吴瀚坤]], [[Chouxiangzai|抽象仔 / 抽象宅]], and [[HanqingUrey|汗青]], he moves that product lens into AI filmmaking, actor displacement anxiety, prompt communication, internet expression, traffic, virtual-idol personality systems, and the question of what creators want to express when tools lower execution barriers.
+The current wiki profile presents Liu as a product-minded interviewer whose podcast work spans business storytelling, media-form reflection, AI-era creator questions, platform operations, founder workflow, AI-native IP, commerce rights, and platform marketing science. In the 半拿铁 special, he helps explain podcast production, audience trust, and brand communication. In the 三五环 interviews with [[WuHankun|吴瀚坤]], [[Chouxiangzai|抽象仔 / 抽象宅]], and [[HanqingUrey|汗青]], he moves that product lens into AI filmmaking, actor displacement anxiety, prompt communication, internet expression, traffic, virtual-idol personality systems, and the question of what creators want to express when tools lower execution barriers.
 
 The [[Didi]] safety episode adds a different version of the same interviewer profile. Liu uses prior coworker context and product intuition to draw [[XuXiaonan|徐晓楠 / 曲晓楠]] from abstract platform safety into concrete workflows: where a ride's safety boundary begins and ends, why late-night phone calls happen, what AI can and cannot infer, and how users affect the platform's ability to intervene.
 
@@ -30,6 +31,8 @@ The [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]] episode adds Liu's AI-native cont
 
 The [[DouyinEcommerce|抖音电商]] infringement episode adds Liu's platform-governance questioning around AI impersonation. He uses concrete live-room, celebrity voice, product-detail, account, and authorization examples to pull [[ZhuWeiLegalScholar|朱威]] and [[JiaxuDouyinEcommerce|嘉旭]] into the practical boundary between AI as a commerce tool and AI as rights misuse or consumer deception.
 
+The [[Kuaishou]] seeding episode adds Liu's marketing-science questioning. With [[LiuXiaoweiMarketing|刘晓微]], he pushes from the surface language of "种草" into user paths: whether search, store browsing, live-room explanation, off-platform purchase, delayed conversion, and podcast advertising can be understood as positive signals inside [[BrandPerformanceIntegration|品效合一]] rather than only as failed immediate ROI.
+
 ## Key Characteristics
 - He connects internet product experience with long-form podcast interviewing.
 - He is associated with both [[Banlatte|半拿铁]] and [[SanWuHuan|三五环]] in the wiki's source set.
@@ -37,7 +40,7 @@ The [[DouyinEcommerce|抖音电商]] infringement episode adds Liu's platform-go
 - He uses product and workflow questions to make AI's effect on creators concrete.
 - He often turns technical change back toward human purpose, audience expectation, and creator agency.
 - He can translate AI-enabled rights infringement into user-facing questions about consumer trust, authorization, and platform responsibility.
-- He can translate platform safety, AI commercialization, virtual-idol risk, and original-IP work into user-facing questions about trust, workflow, interaction, and responsibility.
+- He can translate platform safety, AI commercialization, virtual-idol risk, marketing science, and original-IP work into user-facing questions about trust, workflow, interaction, demand, and responsibility.
 
 ## Evidence
 - Podcast-production role - [[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] presents Liu with [[XiaoLei|肖磊]] and [[LiDan|李诞]] discussing 半拿铁's research, transcript, brand, and audience-trust choices.
@@ -49,16 +52,17 @@ The [[DouyinEcommerce|抖音电商]] infringement episode adds Liu's platform-go
 - Founder-workflow interviewing - [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]] has Liu interview [[KateAHA|Kate]] about [[AHACreator|AHA Creator]], AI-driven creator matching, AI employee interfaces, customer approval, and the difference between overseas native creative and domestic channel-style placement.
 - AI-native IP interviewing - [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]] has Liu interview [[HanqingUrey|汗青]] about [[AITalk|AI Talk]], [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]], [[AINativeVirtualIdol]], personality, model workflow, and AI character interaction risk.
 - AI commerce-rights interviewing - [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]] has Liu interview [[ZhuWeiLegalScholar|朱威]] and [[JiaxuDouyinEcommerce|嘉旭]] about [[DouyinEcommerce|抖音电商]], AI voice and likeness infringement, authorization records, pre-review, appeal, and consumer confusion.
+- Marketing-science interviewing - [[no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna]] has Liu interview [[LiuXiaoweiMarketing|刘晓微]] about [[Kuaishou]], content seeding, R3 seeded audiences, search/store/live-room behavior, and brand-performance integration.
 
 ## Qualifications
 The wiki profile is source-limited to podcast appearances and does not attempt a full biography. Liu Fei is distinct from [[LiuFeiQiKing|刘肥]], the historical Qi king page with a semantic suffix.
 
 ## What Changed
-- Added Liu's second 三五环 AI-creator interview, extending his profile from actor-side AI anxiety to AI-video virality, internet expression, and account-to-service commercialization.
 - Added the [[Didi]] safety episode, broadening Liu's 三五环 profile from AI creator work into platform safety operations.
 - Added the AHA Creator episode, extending Liu's profile into AI commercialization and user-site workflow questioning.
 - Added the Hanqing/Yuri episode, extending Liu's profile into AI-native virtual idols, original IP, and personality-system risk.
 - Added the Douyin ecommerce episode, extending Liu's profile into AI-enabled rights governance and platform authorization boundaries.
+- Added the Kuaishou seeding episode, extending Liu's profile into marketing science, content commerce, and brand-performance path questioning.
 
 ## Relationships
 - [[Banlatte|半拿铁]] - cohost and business-storytelling context.
@@ -71,6 +75,8 @@ The wiki profile is source-limited to podcast appearances and does not attempt a
 - [[ZhuWeiLegalScholar|朱威]] - guest in Liu's AI ecommerce infringement interview.
 - [[JiaxuDouyinEcommerce|嘉旭]] - guest in Liu's Douyin ecommerce infringement interview.
 - [[DouyinEcommerce|抖音电商]] - platform case in Liu's rights-governance interview.
+- [[LiuXiaoweiMarketing|刘晓微]] - guest in Liu's Kuaishou content-seeding and marketing-science interview.
+- [[Kuaishou]] - platform case in Liu's seeding-marketing interview.
 - [[XuXiaonan|徐晓楠 / 曲晓楠]] - guest in Liu's ride-hailing safety interview.
 - [[KateAHA|Kate]] - guest in Liu's AI-driven overseas creator-marketing interview.
 - [[AHACreator|AHA Creator]] - company case in Liu's founder-workflow interview.
@@ -81,3 +87,4 @@ The wiki profile is source-limited to podcast appearances and does not attempt a
 - [[AIDrivenCreatorMarketing]] - creator-marketing workflow concept Liu helps unpack in the AHA Creator episode.
 - [[AINativeVirtualIdol]] - AI-native character IP concept Liu helps unpack in the Hanqing episode.
 - [[AIEcommerceInfringementGovernance]] - commerce rights-governance concept Liu helps unpack in the Douyin ecommerce episode.
+- [[ContentSeedingMarketing]] - content-commerce demand path concept Liu helps unpack in the Kuaishou episode.

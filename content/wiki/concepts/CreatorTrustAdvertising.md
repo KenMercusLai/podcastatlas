@@ -7,6 +7,7 @@ sources:
   - no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305
   - kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081
   - no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt
+  - no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna
 last_updated: 2026-09-08
 ---
 
@@ -22,6 +23,8 @@ The Bilibili earnings segment adds a stronger commercial test. Advertising becam
 
 The AHA Creator interview adds an overseas creator-marketing branch. Kate argues that overseas campaigns more often depend on native creative, creator-product fit, and creator freedom: the ad works when it becomes part of an interesting video, tutorial, Vlog, or character world rather than an abrupt script read. This extends the concept from Bilibili community ad format into cross-platform influencer marketing.
 
+The Kuaishou seeding episode adds a live-commerce and product-explanation branch. Creator trust is not only about whether an ad feels acceptable; it can reduce decision friction by making product quality, use scene, regional supply, and brand difference legible before the user searches, enters a live room, visits a store, or buys later.
+
 ## Key Claims
 - Advertising format signals who controls the viewing experience: platform, creator, advertiser, or viewer.
 - Forced pre-roll may be economically simple but can damage a community's browsing rhythm and trust identity.
@@ -29,6 +32,7 @@ The AHA Creator interview adds an overseas creator-marketing branch. Kate argues
 - Creator trust can become a monetization asset when users are willing to buy through creator recommendations.
 - Trust-based ads can still produce head-creator concentration, sponsor-mismatch risk, and eventual audience fatigue.
 - Overseas creator marketing tests trust through natural product use and creative fit; poor fit can make the same sponsorship feel like generic performance inventory.
+- In content seeding, creator and live-room trust can turn product explanation into a bridge between brand exposure and later search, store, or transaction behavior.
 
 ## Evidence
 - No-forced-pre-roll tradeoff: [[no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305]] uses Bilibili to contrast standardized ad inventory with creator-viewer trust and community browsing rhythm.
@@ -37,14 +41,16 @@ The AHA Creator interview adds an overseas creator-marketing branch. Kate argues
 - Revenue-scale pressure: [[kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081]] says advertising became Bilibili's largest revenue segment, making trust preservation a larger business constraint.
 - Overseas native creative: [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]] contrasts natural creator-product fit overseas with domestic placements that can look like abrupt channel inventory.
 - Positive ad experience: [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]] uses an AI product and comics creator example to show a sponsorship becoming a content idea that drew positive comments.
+- Live-room explanation and seeding: [[no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna]] uses Kuaishou creator and live-room cases to show how product detail, quality explanation, regional supply stories, and community trust can support later search, store visits, and conversion.
 
 ## Counterevidence & Qualifications
-Creator trust does not make advertising frictionless. It may concentrate revenue among the most visible creators, create sponsor-fit conflicts, and become less trusted if audiences feel recommendations are too commercial. The Bilibili earnings source does not prove that Bilibili's ad growth is caused mainly by creator trust; it also cites platform demographics, AI content, and advertiser demand. The AHA Creator source is founder testimony and should not be treated as independent proof that overseas campaigns always perform better when creators receive more freedom.
+Creator trust does not make advertising frictionless. It may concentrate revenue among the most visible creators, create sponsor-fit conflicts, and become less trusted if audiences feel recommendations are too commercial. The Bilibili earnings source does not prove that Bilibili's ad growth is caused mainly by creator trust; it also cites platform demographics, AI content, and advertiser demand. The AHA Creator source is founder testimony, and the Kuaishou seeding source is platform-practitioner testimony, so both should remain bounded rather than treated as independent proof of universal campaign lift.
 
 ## What Changed
 - Added the AHA Creator / 三五环 source as an overseas creator-marketing branch.
 - Extended creator trust from Bilibili ad-format governance into creator-product fit and native creative.
-- Kept performance and cross-market superiority claims source-scoped.
+- Added the Kuaishou content-seeding source as a live-room explanation and user-path branch.
+- Kept performance, cross-market superiority, and platform-lift claims source-scoped.
 
 ## Related Concepts
 - [[Bilibili]] - core platform case for creator trust and advertising growth.
@@ -55,3 +61,5 @@ Creator trust does not make advertising frictionless. It may concentrate revenue
 - [[ChineseLongVideoPlatformEconomics]] - comparison frame for video revenue pressure outside Bilibili's community model.
 - [[AIDrivenCreatorMarketing]] - AI workflow category that tries to scale creator trust and product fit without reducing creators to inventory.
 - [[OverseasCreatorMarketingPlatform]] - platform category where trust-preserving creator collaboration becomes operational infrastructure.
+- [[ContentSeedingMarketing]] - marketing use case where creator trust helps move users from exposure into search, live rooms, stores, and eventual purchase.
+- [[BrandPerformanceIntegration]] - broader advertising goal that creator trust can support when brand exposure needs conversion bridges.
