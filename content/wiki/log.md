@@ -15636,6 +15636,10 @@ Ingested the 2026-08-26 Anyway.FM crossover with UX Coffee on post-2022 life cha
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-07] ingest | 总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的
+
+Ingested the 2026-08-17 读报teleread / 独报 fifth-anniversary special on AI in creator workflows, voice-first podcast scripting, authorship, show notes, video podcasting, and correct but expensive creative choices. Added source `zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht`; created `DuBaoTeleread`; updated `AICreativeCollaboration`, `AIAuthorshipPresence`, `AIGeneratedContentQualityGap`, `PodcastProductionWorkflow`, `PodcastAuthenticityBoundary`, `VideoPodcastAffordance`, `index`, and `overview`. No settled contradiction found; show naming, host identities, listener counts, and exact workflow generalizability remain source-scoped.
+
 ## [2026-09-07] ingest | Vol.224 阿迪vs耐克：时代错配与 DNA之战
 
 Ingested the 2026-08-20 不懂球 sports-business episode comparing Adidas and Nike through brand DNA, practical retro consumer mood, football lifestyle apparel, DTC/channel pressure, Samba saturation, and running-shoe technology momentum. Added source `vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15`; created `BrandDNAConsumerCycleFit`; migrated `Nike`, `SportswearInventoryCycle`, and `SportsLifestyleConsumption` into synthesis-v1; updated `Adidas`, `Budongqiu`, `AdidasSamba`, `RetroProductRevival`, `ThinSoleSneakerRevival`, and `PerformanceFootwearMarket`. No settled contradiction found; revenue, regional growth, sales, and race-performance figures remain source-scoped, and the episode's conclusion is cycle-fit analysis rather than permanent Adidas superiority or Nike decline.
@@ -15791,6 +15795,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | 703. Roman Civil War: Marching on the Senate (Part 3)
 
 Ingested the 2026-09-06 The Rest Is History episode on Sulla's first march on Rome, Senate-backed public-enemy outlawry, Marius's exile and armed return, Cinna and Octavius, Pompeius Strabo's army brokerage, Mithridates's anti-Roman campaign, Athens under Aristion, and the imminent full civil war. Added source `703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511`; created `LuciusCorneliusCinna`, `GnaeusOctaviusRomanConsul`, `AristionAthens`, `Athens`, and `FirstMarchOnRome`; updated `GaiusMarius`, `LuciusCorneliusSulla`, `RomanRepublic`, `MithridatesVI`, `PubliusSulpiciusRufus`, `GnaeusPompeiusStrabo`, `ManiusAquillius`, `LateRomanRepublicCrisis`, `MilitaryPersonalization`, `RepublicanCommandTransferCrisis`, `RepublicanEmergencyViolencePrecedent`, `RomanExpansionMoralAnxiety`, and `index`. No settled contradiction found; the Asian massacre figure, Marius exile traditions, Aristion's full political program, and the exact causality between Sulla's personality and structural military change remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

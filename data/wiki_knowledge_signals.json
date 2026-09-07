@@ -662,6 +662,50 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/aiassistedwritingdisclosure/"
     },
+    "AIAuthorshipPresence": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "tech_20260814_TECH_pod_128 [tech_20260814_TECH_pod_128].md",
+          "key": "tech-20260814-tech-pod-128-tech-20260814-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "States rush to police AI deepfakes ahead of midterm elections",
+          "url": "/wiki/sources/tech-20260814-tech-pod-128-tech-20260814-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260810_0810_MP_TECH_pod_128 [tech_20260810_0810_MP_TECH_pod_128].md",
+          "key": "tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Substack CEO on the platform's new AI detector",
+          "url": "/wiki/sources/tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260413_0413_MP_TECH_pod_128 [tech_20260413_0413_MP_TECH_pod_128].md",
+          "key": "tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is \\\"made by humans\\\" the new premium label?",
+          "url": "/wiki/sources/tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "读书，就是在读一个人的 F [li4Qt9Zs2BsS4tKLNJ3Yg9y_quo1].md",
+          "key": "dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1",
+          "show": "面基",
+          "title": "读书，就是在读一个人的 F",
+          "url": "/wiki/sources/dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1/"
+        },
+        {
+          "episode_file": "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
+          "key": "zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht",
+          "show": "读报teleread",
+          "title": "总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的",
+          "url": "/wiki/sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/aiauthorshippresence/"
+    },
     "AIAutomationRedistribution": {
       "episode_count": 4,
       "show_count": 3,
@@ -1250,9 +1294,9 @@
       "url": "/wiki/concepts/aicoworkers/"
     },
     "AICreativeCollaboration": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128 [BD321FADF98CA4618FFBA3661B038738~8584427_2026-08-10-215527-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8389b3].md",
@@ -1274,6 +1318,13 @@
           "show": "三五环",
           "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
           "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
+        },
+        {
+          "episode_file": "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
+          "key": "zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht",
+          "show": "读报teleread",
+          "title": "总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的",
+          "url": "/wiki/sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht/"
         }
       ],
       "updated": "2026-09-07",
@@ -1494,6 +1545,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aiexpressionbaseline/"
+    },
+    "AIGeneratedContentQualityGap": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260813_0813_MP_TECH_pod_128 [tech_20260813_0813_MP_TECH_pod_128].md",
+          "key": "tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can Silicon Valley give AI good taste?",
+          "url": "/wiki/sources/tech-20260813-0813-mp-tech-pod-128-tech-20260813-0813-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert [lu0VAMAaWCTwVa3qbLNsf99esAR2].md",
+          "key": "youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2",
+          "show": "42章经",
+          "title": "优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert",
+          "url": "/wiki/sources/youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2/"
+        },
+        {
+          "episode_file": "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
+          "key": "zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht",
+          "show": "读报teleread",
+          "title": "总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的",
+          "url": "/wiki/sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/aigeneratedcontentqualitygap/"
     },
     "AIGlassesProductFit": {
       "episode_count": 2,
@@ -18335,6 +18416,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/dryeyechronicmanagement/"
+    },
+    "DuBaoTeleread": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
+          "key": "zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht",
+          "show": "读报teleread",
+          "title": "总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的",
+          "url": "/wiki/sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/dubaoteleread/"
     },
     "DuChongProtectorOfXiongnu": {
       "episode_count": 2,
@@ -52865,6 +52962,59 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/platonicatlantispoliticalmyth/"
     },
+    "PodcastAuthenticityBoundary": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "141.加更：因为播客，我受邀去哥伦比亚大学做访问学者了 [llUK9KruHVEoKkBMFo0aDrJ7EtpJ].md",
+          "key": "141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj",
+          "show": "起朱楼宴宾客",
+          "title": "141.加更：因为播客，我受邀去哥伦比亚大学做访问学者了",
+          "url": "/wiki/sources/141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj/"
+        },
+        {
+          "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
+          "key": "fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "番外 14：跟李诞聊聊播客、创作、AI 与中年",
+          "url": "/wiki/sources/fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552/"
+        },
+        {
+          "episode_file": "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
+          "key": "zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht",
+          "show": "读报teleread",
+          "title": "总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的",
+          "url": "/wiki/sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/podcastauthenticityboundary/"
+    },
+    "PodcastProductionWorkflow": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
+          "key": "fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "番外 14：跟李诞聊聊播客、创作、AI 与中年",
+          "url": "/wiki/sources/fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552/"
+        },
+        {
+          "episode_file": "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
+          "key": "zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht",
+          "show": "读报teleread",
+          "title": "总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的",
+          "url": "/wiki/sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/podcastproductionworkflow/"
+    },
     "PolicyBoundAgenticLendingSupport": {
       "episode_count": 2,
       "show_count": 2,
@@ -69827,6 +69977,36 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/victimforgivenessagency/"
+    },
+    "VideoPodcastAffordance": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "TSR-S5-CatchUp2-v1 [TSR-S5-CatchUp2-v1].md",
+          "key": "tsr-s5-catchup2-v1-tsr-s5-catchup2-v1",
+          "show": "The Social Radars",
+          "title": "The Social Radars Season Five Update",
+          "url": "/wiki/sources/tsr-s5-catchup2-v1-tsr-s5-catchup2-v1/"
+        },
+        {
+          "episode_file": "汉洋：挖坑、媒介枷锁、好内容、对谈、为什么做蜉蝣天地 [59b766f5-ee1d-4040-a650-a96b7b4b70d5].md",
+          "key": "hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5",
+          "show": "蜉蝣天地 Meanders",
+          "title": "汉洋：为什么做《蜉蝣天地》",
+          "url": "/wiki/sources/hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5/"
+        },
+        {
+          "episode_file": "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
+          "key": "zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht",
+          "show": "读报teleread",
+          "title": "总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的",
+          "url": "/wiki/sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/videopodcastaffordance/"
     },
     "Vienna": {
       "episode_count": 5,

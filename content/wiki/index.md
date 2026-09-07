@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的](sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht.md) — 读报teleread fifth-anniversary special on AI in creator workflows, voice-first podcast scripting, authorship, show notes, video podcasting, and correct but expensive creative choices.
 - [Vol.224 阿迪vs耐克：时代错配与 DNA之战](sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15.md) — 不懂球 episode comparing Adidas and Nike through brand DNA, retro consumer mood, football lifestyle apparel, DTC/channel pressure, Samba saturation, and running-shoe technology momentum.
 - [咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆](sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e.md) — 大小电波 episode with Yu Wenjie on Yunnan coffee sourcing, Mangshi and Dehong origin work, Sarchimor variety fit, processing boundaries, and farmer-income mechanics.
 - [№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」](sources/anyway-195-anyway-195.md) — Anyway.FM crossover with UX Coffee on a U.S. Chinese-language bookstore, leaving screen-centered design, AI pressure on UI/UX work, and AI-enabled small tools as personal outlets.
@@ -1980,6 +1981,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [读报teleread / 独报](entities/DuBaoTeleread.md) — Chinese podcast show represented by a fifth-anniversary special on AI, creator workflow, voice-first scripting, podcast form, and long-term creative sustainability.
 - [大小电波](entities/DaxiaoDianbo.md) — Podcast show hosting the Yunnan coffee sourcing conversation with Yu Wenjie.
 - [余文杰 / Yu Wenjie](entities/YuWenjie.md) — Babbitt Coffee practitioner grounding the Yunnan coffee episode in sourcing, cupping, and origin fieldwork.
 - [巴比特咖啡 / Babbitt Coffee](entities/BabbittCoffee.md) — Coffee company associated with Yu Wenjie's Yunnan sourcing and Mangshi origin relationship.
