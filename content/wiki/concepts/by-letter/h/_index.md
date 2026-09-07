@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6610
+wiki_total_pages: 6613
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -722,6 +722,15 @@ wiki_pages:
   - key: "HufuQishe"
     title: "胡服骑射 / Hu Fu Qi She"
     url: "/wiki/concepts/hufuqishe/"
+  - key: "HongKongFootballCommercialClubGovernance"
+    title: "香港商业球队治理 / Hong Kong Commercial Football Club Governance"
+    url: "/wiki/concepts/hongkongfootballcommercialclubgovernance/"
+  - key: "HongKongFootballForeignPlayerEscalation"
+    title: "香港足球外援升级 / Hong Kong Football Foreign-Player Escalation"
+    url: "/wiki/concepts/hongkongfootballforeignplayerescalation/"
+  - key: "HongKongFootballProfessionalization"
+    title: "香港足球职业化 / Hong Kong Football Professionalization"
+    url: "/wiki/concepts/hongkongfootballprofessionalization/"
   - key: "HorsehideBurialResolve"
     title: "马革裹尸式边将生死观 / Horsehide Burial Resolve"
     url: "/wiki/concepts/horsehideburialresolve/"

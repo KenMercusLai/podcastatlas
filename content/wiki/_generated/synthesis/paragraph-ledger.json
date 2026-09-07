@@ -572,12 +572,13 @@
       "013189bd78693c4f9ddd24154fb4e85b4d94868b1b336af988b43dbee9411c03",
       "ed605f497963461eb9bc9c968de448aa46b9f90dddac4016b47d57e3c144fc1a",
       "c9cfc14b34adf74d0fb27e2d54c10a5bddbdd34955b5df371daa272496423cc4",
-      "cbbe62c03d8335e2e5dca77db200eb628895d1c17f7e2e8fee61cb7f8f0291ae"
+      "cbbe62c03d8335e2e5dca77db200eb628895d1c17f7e2e8fee61cb7f8f0291ae",
+      "5f42ccecf5aba2d7233c6344ba2eaf2864f133e18d0af4d0c92d5bc37ee4d5dc"
     ],
-    "paragraph_count": 572
+    "paragraph_count": 573
   },
-  "overview_commit": "1ba16cd00e91c2632241e754e99f781d6f318b23",
-  "overview_digest": "d473c6f8102114c9b336ce017f2cc2b6ab3b986bc8be7415731f18c3c9e39104",
+  "overview_commit": "3f1bb76289116b110a8b691725621d895a69fbfd",
+  "overview_digest": "eedf0f42514c9e3d0c2c624481caf513a3775ee4f0eebe5d312d0dcd42c18a90",
   "paragraphs": [
     {
       "id": "81e1ad2a6a08ad9550530f6c94d2fccff737e9e399c820a452a4a5f31acef870",
@@ -17550,6 +17551,33 @@
         "SportswearInventoryCycle",
         "ThinSoleSneakerRevival",
         "vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15"
+      ]
+    },
+    {
+      "id": "5f42ccecf5aba2d7233c6344ba2eaf2864f133e18d0af4d0c92d5bc37ee4d5dc",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw|Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代]], a [[Budongqiu|不懂球]] episode with [[LiJunrongFootballHistorian|李峻嵘 / 李俊仁]] on postwar [[HongKong|Hong Kong]] football. It adds [[HongKongFootballAssociation|香港足球总会]], [[SeikoFootballClub|精工足球队]], [[SouthChinaAA|南华]], [[KitcheeSC|杰志]], [[HongKongFootballProfessionalization|香港足球职业化]], [[HongKongFootballForeignPlayerEscalation|香港足球外援升级]], and [[HongKongFootballCommercialClubGovernance|香港商业球队治理]], while extending [[HongKong]] and [[Budongqiu]]. Its core synthesis is that Hong Kong football's 1968 professionalization was a reactive settlement between amateur-status rules and already-paid labor, after which corporate patrons, semi-professional jobs, imported players, membership borrowing, and owner-control preferences shaped the limits of long-term club planning. No settled contradiction is recorded; the title/body guest-name variant and the transcript gap from about 41:25 to 57:02 remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "Budongqiu",
+        "HongKong",
+        "HongKongFootballAssociation",
+        "HongKongFootballCommercialClubGovernance",
+        "HongKongFootballForeignPlayerEscalation",
+        "HongKongFootballProfessionalization",
+        "KitcheeSC",
+        "LiJunrongFootballHistorian",
+        "SeikoFootballClub",
+        "SouthChinaAA",
+        "vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw"
       ]
     }
   ],

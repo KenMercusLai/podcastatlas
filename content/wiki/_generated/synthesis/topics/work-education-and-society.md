@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-07
-as_of_overview_commit: 8ab9f3b43ed7621a2fc520e04515faa4441cd8c0
-input_digest: a3ae41ba547cd8dc6b5b71e68281dd07e5f011001522b9a1480c44fd4b4be027
+as_of_overview_commit: 3f1bb76289116b110a8b691725621d895a69fbfd
+input_digest: b040fe1028c472f3f0c0f82e90cec97f0f4937d7c6f7cfd6fd837fd756303ed7
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The Evergrande football legacy source adds a work-education-and-society case around youth academy continuity: football-school survival depends on students, coaches, daily routines, education pathways, family trust, professional outlets, and supporter identity, not only pitches or corporate ownership. The Bu He Shi Yi dementia-care episode adds a China-facing elder-care capacity case: family caregivers need public support, people with dementia retain dignity and biography, and care systems need trained labor, community services, environments, and insurance payment rather than sacrifice alone. The Song Jia return conversation adds a work-and-society case where career pause, acting purpose, sensory character work, study-abroad disruption, and podcast process all become role-identity experiments rather than simple productivity stories. Work, education, and society sources converge on a practical boundary problem: learning, career growth, institutional role transfer, creative and technical adoption, health routines, travel competence, and historical hierarchy cases all depend on fitting tools, status, incentives, evidence, and communication to the actual setting.
+The Hong Kong football source adds a work-and-society case in which early professional sport remained partly semi-professional: paid players, signing fees, club wages, stable jobs arranged by corporate teams, and owner-control preferences all shaped labor and institutional identity. The broader topic continues to synthesize how work, education, care, creator labor, travel, and social institutions depend on practical routines, trust, incentives, and human judgment rather than formal labels alone.
 
 ## Cross-source Findings
 
@@ -664,3 +664,15 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 - The source is a podcast summary centered on Tang Yong and Shenzhen-linked dementia-care fieldwork, not a national service-capacity survey.
 - Shenzhen service observations and 2026 long-term-care-insurance implementation details remain source-scoped.
 - The claim belongs to elder-care and public support systems rather than individualized medical or legal advice.
+
+### Hong Kong Football Shows Semi Professional Labor And Club Identity
+
+[[vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw|Vol.222]] adds a work-and-society sports labor case: [[HongKongFootballProfessionalization]] did not immediately erase semi-professional arrangements, because paid players could still rely on employer-arranged jobs, while [[HongKongFootballCommercialClubGovernance]], [[SouthChinaAA]], and [[KitcheeSC]] show club identity and long-term planning depending on who controls the organization.
+
+**Evidence:** [[vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw]], [[HongKongFootballProfessionalization]], [[HongKongFootballCommercialClubGovernance]], [[SouthChinaAA]], [[KitcheeSC]], [[HongKongFootballAssociation]], [[SeikoFootballClub]], [[HongKong]], [[Budongqiu]]
+
+**Qualifications:**
+
+- The labor claim is based on the episode examples of wages, signing fees, bonuses, and arranged employment rather than a full wage dataset.
+- The page does not establish current Hong Kong player labor conditions or South China and Kitchee complete organizational histories.
+- The middle transcript gap leaves part of the commercial-team discussion incomplete.

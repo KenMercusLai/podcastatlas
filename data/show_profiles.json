@@ -1353,14 +1353,21 @@
       "earliest_episode_date": "2026-07-29",
       "latest_episode_date": "2026-08-28",
       "latest_episode_file": "GKwRIJEOZrpkAfcPbATN_iVB [GKwRIJEOZrpkAfcPbATN_iVB].md",
-      "source_note_count": 2,
-      "topic_matched_source_note_count": 0,
-      "topics": [],
+      "source_note_count": 3,
+      "topic_matched_source_note_count": 1,
+      "topics": [
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
+          "source_note_count": 1
+        }
+      ],
       "entities": [],
       "start_here_episode_files": [
+        "GKwRIJIOP2mLAcAqgQS-06ZW [GKwRIJIOP2mLAcAqgQS-06ZW].md",
         "GKwRIJEOZrpkAfcPbATN_iVB [GKwRIJEOZrpkAfcPbATN_iVB].md",
-        "GKwRIW4OXFnYAUm6QwTJeJ15 [GKwRIW4OXFnYAUm6QwTJeJ15].md",
-        "GKwRIJIOP2mLAcAqgQS-06ZW [GKwRIJIOP2mLAcAqgQS-06ZW].md"
+        "GKwRIW4OXFnYAUm6QwTJeJ15 [GKwRIW4OXFnYAUm6QwTJeJ15].md"
       ]
     },
     "乱翻书": {

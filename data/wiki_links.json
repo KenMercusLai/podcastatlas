@@ -25767,6 +25767,22 @@
     "title": "Hong Kong Exchanges and Clearing",
     "url": "/wiki/entities/hongkongexchangesandclearing/"
   },
+  "HongKongFootballAssociation": {
+    "title": "香港足球总会 / Hong Kong Football Association",
+    "url": "/wiki/entities/hongkongfootballassociation/"
+  },
+  "HongKongFootballCommercialClubGovernance": {
+    "title": "香港商业球队治理 / Hong Kong Commercial Football Club Governance",
+    "url": "/wiki/concepts/hongkongfootballcommercialclubgovernance/"
+  },
+  "HongKongFootballForeignPlayerEscalation": {
+    "title": "香港足球外援升级 / Hong Kong Football Foreign-Player Escalation",
+    "url": "/wiki/concepts/hongkongfootballforeignplayerescalation/"
+  },
+  "HongKongFootballProfessionalization": {
+    "title": "香港足球职业化 / Hong Kong Football Professionalization",
+    "url": "/wiki/concepts/hongkongfootballprofessionalization/"
+  },
   "HongKongIPOLiquidityPath": {
     "title": "Hong Kong IPO Liquidity Path",
     "url": "/wiki/concepts/hongkongipoliquiditypath/"
@@ -31055,6 +31071,10 @@
     "title": "Kissmetrics",
     "url": "/wiki/entities/kissmetrics/"
   },
+  "KitcheeSC": {
+    "title": "杰志 / Kitchee SC",
+    "url": "/wiki/entities/kitcheesc/"
+  },
   "KitschAsWasteDenial": {
     "title": "Kitsch As Waste Denial / 媚俗作为排泄否认",
     "url": "/wiki/concepts/kitschaswastedenial/"
@@ -32526,6 +32546,10 @@
   "LiJueLateHan": {
     "title": "李傕 / Li Jue (late Han)",
     "url": "/wiki/entities/lijuelatehan/"
+  },
+  "LiJunrongFootballHistorian": {
+    "title": "李峻嵘 / 李俊仁 / Li Junrong",
+    "url": "/wiki/entities/lijunrongfootballhistorian/"
   },
   "LiKaShing": {
     "title": "Li Ka-shing / 李嘉诚",
@@ -49207,6 +49231,10 @@
     "title": "Seiko",
     "url": "/wiki/entities/seiko/"
   },
+  "SeikoFootballClub": {
+    "title": "精工足球队 / Seiko Football Club",
+    "url": "/wiki/entities/seikofootballclub/"
+  },
   "SeizedDigitalAssetCustody": {
     "title": "Seized Digital Asset Custody",
     "url": "/wiki/concepts/seizeddigitalassetcustody/"
@@ -51438,6 +51466,10 @@
   "SouthAfrica": {
     "title": "South Africa",
     "url": "/wiki/entities/southafrica/"
+  },
+  "SouthChinaAA": {
+    "title": "南华 / South China Athletic Association",
+    "url": "/wiki/entities/southchinaaa/"
   },
   "SouthChinaMorningPost": {
     "title": "South China Morning Post / 南华早报",
@@ -68062,6 +68094,10 @@
   "vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd": {
     "title": "VOL.221对话大白牛：掉肌肉、易抑郁、停药必反弹？撕掉“神药”滤镜",
     "url": "/wiki/sources/vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd/"
+  },
+  "vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw": {
+    "title": "Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘",
+    "url": "/wiki/sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw/"
   },
   "vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15": {
     "title": "Vol.224 阿迪vs耐克：时代错配与 DNA之战",

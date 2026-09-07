@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-07
-as_of_overview_commit: 8ab9f3b43ed7621a2fc520e04515faa4441cd8c0
-input_digest: 63166038d92941a84533d38bcbe267fe2cc5b63ebf7baeb6216905a04be50296
+as_of_overview_commit: 3f1bb76289116b110a8b691725621d895a69fbfd
+input_digest: 96eb5b6b0cb14c448642f2f11492461f06f23c3d5351a9a80b178e1df9a84239
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-The Evergrande football legacy source adds a sports-governance boundary case: Guangzhou FC and Evergrande Football School show how corporate collapse, youth-development assets, supporter identity, salary escalation, commercial norms, national-team pressure, and naturalized-player spending can remain entangled after the original developer project fails. The Cathay Pacific / 声东击西 roundtable adds an aviation-governance branch: airport approvals, airspace limits, route subsidies, cargo infrastructure, and hub planning show infrastructure as a governing allocation system for city access, not just a transport market. Hanji 1070 adds a late-Han governance case in which post-victory rule depends on turning military advantage into credible settlement: coerced oath-taking, loyal refusal, formal title rewards, rebel-force incorporation, renewed Youzhou violence, and Hedong commandery handoff all test whether nominal submission becomes usable authority. Broader governance synthesis continues to center institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the gap between nominal authority and usable capacity.
+The Hong Kong football source adds a sports-governance case in which professionalization, labor status, import-player rules, commercial-team membership, and owner-control preferences all shape institutional capacity: Hong Kong's 1968 shift from amateurism to professionalism was reactive, and later Seiko/Bulova spending, foreign-player limits, membership borrowing, South China, and Kitchee show why football governance depends on both league ecology and club-control structure. The Evergrande football legacy source remains a mainland sports-governance boundary case around corporate collapse, youth-development assets, supporter identity, salary escalation, commercial norms, national-team pressure, and naturalized-player spending. The Cathay Pacific / 声东击西 roundtable adds an aviation-governance branch: airport approvals, airspace limits, route subsidies, cargo infrastructure, and hub planning show infrastructure as a governing allocation system for city access, not just a transport market. Hanji 1070 adds a late-Han governance case in which post-victory rule depends on turning military advantage into credible settlement. Broader governance synthesis continues to center institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the gap between nominal authority and usable capacity.
 
 ## Cross-source Findings
 
@@ -2002,3 +2002,15 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 
 - The source reports specific bank examples but does not identify vendors, model architectures, or validation procedures.
 - The regulatory-overseer role is a proposal from Catherine Judge in this episode rather than a documented enacted regime.
+
+### Hong Kong Football Professionalization Shows Reactive Sports Governance
+
+[[vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw|Vol.222]] adds a Hong Kong sports-governance case where [[HongKongFootballProfessionalization]] emerges from amateur-status conflict rather than planned modernization, while [[HongKongFootballAssociation]], [[HongKongFootballForeignPlayerEscalation]], [[HongKongFootballCommercialClubGovernance]], [[SeikoFootballClub]], [[SouthChinaAA]], and [[KitcheeSC]] show how paid labor, import-player rules, association membership, traditional club structures, and owner-control preferences shaped professional football institutions.
+
+**Evidence:** [[vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw]], [[HongKongFootballProfessionalization]], [[HongKongFootballAssociation]], [[HongKongFootballForeignPlayerEscalation]], [[HongKongFootballCommercialClubGovernance]], [[SeikoFootballClub]], [[SouthChinaAA]], [[KitcheeSC]], [[HongKong]], [[Budongqiu]], [[LiJunrongFootballHistorian]]
+
+**Qualifications:**
+
+- This is source-scoped to one Budongqiu episode and should not be treated as a complete official history of Hong Kong football governance.
+- The transcript has a visible gap from about 41:25 to 57:02, so the commercial-team and industrial-change discussion is incomplete.
+- The title/body guest-name variant between 李峻嵘 and 李俊仁 is preserved as source-scoped.

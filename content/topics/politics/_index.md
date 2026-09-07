@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2222
+topic_total_pages: 2227
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3715,6 +3715,12 @@ topic_concepts:
   - key: "ProphecyFulfillmentDisplacement"
     title: "预言兑现错位 / Prophecy Fulfillment Displacement"
     url: "/wiki/concepts/prophecyfulfillmentdisplacement/"
+  - key: "HongKongFootballCommercialClubGovernance"
+    title: "香港商业球队治理 / Hong Kong Commercial Football Club Governance"
+    url: "/wiki/concepts/hongkongfootballcommercialclubgovernance/"
+  - key: "HongKongFootballProfessionalization"
+    title: "香港足球职业化 / Hong Kong Football Professionalization"
+    url: "/wiki/concepts/hongkongfootballprofessionalization/"
   - key: "PerishableTributeLaborBurden"
     title: "鲜贡劳役负担 / Perishable Tribute Labor Burden"
     url: "/wiki/concepts/perishabletributelaborburden/"
@@ -5741,6 +5747,9 @@ topic_entities:
   - key: "Hangzhou"
     title: "杭州 / Hangzhou"
     url: "/wiki/entities/hangzhou/"
+  - key: "KitcheeSC"
+    title: "杰志 / Kitchee SC"
+    url: "/wiki/entities/kitcheesc/"
   - key: "LinYao"
     title: "林垚 / Lin Yao"
     url: "/wiki/entities/linyao/"
@@ -5909,6 +5918,9 @@ topic_entities:
   - key: "YongzhengEmperor"
     title: "雍正 / Yongzheng Emperor"
     url: "/wiki/entities/yongzhengemperor/"
+  - key: "HongKongFootballAssociation"
+    title: "香港足球总会 / Hong Kong Football Association"
+    url: "/wiki/entities/hongkongfootballassociation/"
   - key: "LuoJun"
     title: "骆俊 / Luo Jun"
     url: "/wiki/entities/luojun/"
@@ -6342,6 +6354,9 @@ topic_sources:
   - key: "vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb"
     title: "vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？| 狂喜播客节·对话仲树&Talich"
     url: "/wiki/sources/vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb/"
+  - key: "vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw"
+    title: "Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘"
+    url: "/wiki/sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw/"
   - key: "vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591"
     title: "Vol.265 跨越50年的美国版本之子"
     url: "/wiki/sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591/"

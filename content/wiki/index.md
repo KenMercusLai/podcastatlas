@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘](sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw.md) — 不懂球 episode with Li Junrong on Hong Kong football professionalization, the Seiko dynasty, foreign-player escalation, commercial-team membership, and owner-control governance.
 - [How Mitochondria Control Your Metabolism | Dr. Jared Rutter](sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664.md) — Huberman Lab episode with Jared Rutter on mitochondria, cell-specific metabolism, pyruvate routing, MPC1/MPC2, lactate as fuel, cancer metabolic reprogramming, ROS stress, and biomedical uncertainty boundaries.
 - [Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned](sources/bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee.md) — How I Built This episode on Kim Vaccarella building Bogg Bag through beach-bag product insight, patents, defective inventory, Sandy relief demand, trade shows, wholesale partners, COVID growth, and control-preserving investment.
 - [零跑汽车朱江明×罗永浩！零跑汽车十年：不会讲故事的人，如何卖成了第一](sources/lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb.md) — 罗永浩的十字路口 interview with Zhu Jiangming on Leapmotor's engineering-founder path, full-stack self-research, S01/T03/C11/D99 product arc, cost discipline, Stellantis partnership, and Chinese EV globalization.
@@ -1988,6 +1989,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [李峻嵘 / 李俊仁 / Li Junrong](entities/LiJunrongFootballHistorian.md) — Guest historian/commentator for the Hong Kong football professionalization and club-governance episode.
+- [香港足球总会 / Hong Kong Football Association](entities/HongKongFootballAssociation.md) — Governing-body node for Hong Kong's 1968 professionalization turn, foreign-player rules, and membership mechanisms.
+- [精工足球队 / Seiko Football Club](entities/SeikoFootballClub.md) — Hong Kong football dynasty disambiguated from the watchmaker, used to explain capital-backed import-player escalation.
+- [南华 / South China Athletic Association](entities/SouthChinaAA.md) — Traditional Hong Kong sports-association and football-brand case in the club-governance branch.
+- [杰志 / Kitchee SC](entities/KitcheeSC.md) — Modern Hong Kong football club used as the owner-control and corporatized-operation contrast.
 - [Jared Rutter](entities/JaredRutter.md) — University of Utah and HHMI mitochondrial metabolism researcher featured on Huberman Lab explaining cellular energy allocation, MPC1/MPC2, lactate, cancer metabolism, and ROS stress.
 - [Bogg Bag](entities/BoggBag.md) — Washable beach-and-everyday bag brand whose How I Built This episode shows demand emerging after defective inventory, relief-use proof, wholesale amplification, and control-preserving investment.
 - [Kim Vaccarella](entities/KimVaccarella.md) — Bogg Bag founder whose story connects practical product insight, factory failure, restart after customer pull, trade-show selling, wholesale growth, and control-sensitive scaling.
@@ -11213,6 +11219,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [香港足球职业化 / Hong Kong Football Professionalization](concepts/HongKongFootballProfessionalization.md) — 1968 Hong Kong football shift from nominal amateurism to permitted professionalism after Olympic eligibility conflict exposed paid-player reality.
+- [香港足球外援升级 / Hong Kong Football Foreign-Player Escalation](concepts/HongKongFootballForeignPlayerEscalation.md) — Hong Kong professional-football import-player market from regional sources to Seiko/Bulova higher-profile recruitment and later foreign-player limits.
+- [香港商业球队治理 / Hong Kong Commercial Football Club Governance](concepts/HongKongFootballCommercialClubGovernance.md) — Governance frame for commercial teams, association membership borrowing, traditional sports clubs, owner control, and long-term planning.
 - [Cellular Metabolism Mosaic](concepts/CellularMetabolismMosaic.md) — Whole-body metabolism frame that treats the body as many cell-specific metabolic programs rather than one uniform calorie-rate system.
 - [Mitochondrial Energy Allocation](concepts/MitochondrialEnergyAllocation.md) — Burn-versus-build model in which cells route nutrients toward ATP, biomass, lactate export, or disease-linked growth depending on cell identity and state.
 - [Mitochondrial Pyruvate Carrier](concepts/MitochondrialPyruvateCarrier.md) — MPC1/MPC2 transporter mechanism that lets pyruvate enter mitochondria and shapes glucose oxidation and heart-metabolism consequences.

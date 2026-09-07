@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 9221
+wiki_total_pages: 9226
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "KeikoBoxer"
     title: "惠子 / Keiko (boxer)"
     url: "/wiki/entities/keikoboxer/"
+  - key: "KitcheeSC"
+    title: "杰志 / Kitchee SC"
+    url: "/wiki/entities/kitcheesc/"
   - key: "KeZiHost"
     title: "柯子"
     url: "/wiki/entities/kezihost/"

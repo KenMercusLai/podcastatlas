@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9221
+wiki_total_pages: 9226
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1271,6 +1271,9 @@ wiki_pages:
   - key: "HanFuLateHan"
     title: "韩馥 / Han Fu (late Han)"
     url: "/wiki/entities/hanfulatehan/"
+  - key: "HongKongFootballAssociation"
+    title: "香港足球总会 / Hong Kong Football Association"
+    url: "/wiki/entities/hongkongfootballassociation/"
   - key: "HonggouSettlement"
     title: "鸿沟议和 / Honggou Settlement"
     url: "/wiki/entities/honggousettlement/"

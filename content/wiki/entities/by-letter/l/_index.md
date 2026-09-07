@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9221
+wiki_total_pages: 9226
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1325,6 +1325,9 @@ wiki_pages:
   - key: "LiXiaojie"
     title: "李小杰 / Li Xiaojie"
     url: "/wiki/entities/lixiaojie/"
+  - key: "LiJunrongFootballHistorian"
+    title: "李峻嵘 / 李俊仁 / Li Junrong"
+    url: "/wiki/entities/lijunrongfootballhistorian/"
   - key: "LiZuoChe"
     title: "李左车 / Li Zuoche"
     url: "/wiki/entities/lizuoche/"

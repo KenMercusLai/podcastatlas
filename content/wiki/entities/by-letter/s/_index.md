@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9221
+wiki_total_pages: 9226
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1604,6 +1604,9 @@ wiki_pages:
   - key: "SouthernXiongnu"
     title: "南匈奴 / Southern Xiongnu"
     url: "/wiki/entities/southernxiongnu/"
+  - key: "SouthChinaAA"
+    title: "南华 / South China Athletic Association"
+    url: "/wiki/entities/southchinaaa/"
   - key: "SouthernTang"
     title: "南唐 / Southern Tang"
     url: "/wiki/entities/southerntang/"
@@ -2039,6 +2042,9 @@ wiki_pages:
   - key: "ShentinglingBattle"
     title: "神亭岭之战 / Shentingling Battle"
     url: "/wiki/entities/shentinglingbattle/"
+  - key: "SeikoFootballClub"
+    title: "精工足球队 / Seiko Football Club"
+    url: "/wiki/entities/seikofootballclub/"
   - key: "Su"
     title: "素 / Su"
     url: "/wiki/entities/su/"

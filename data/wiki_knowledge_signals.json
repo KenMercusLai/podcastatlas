@@ -8949,9 +8949,9 @@
       "url": "/wiki/concepts/budgetedfrontiersuppression/"
     },
     "Budongqiu": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GKwRIJEOZrpkAfcPbATN_iVB [GKwRIJEOZrpkAfcPbATN_iVB].md",
@@ -8966,6 +8966,13 @@
           "show": "不懂球",
           "title": "Vol.224 阿迪vs耐克：时代错配与 DNA之战",
           "url": "/wiki/sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15/"
+        },
+        {
+          "episode_file": "GKwRIJIOP2mLAcAqgQS-06ZW [GKwRIJIOP2mLAcAqgQS-06ZW].md",
+          "key": "vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw",
+          "show": "不懂球",
+          "title": "Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘",
+          "url": "/wiki/sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw/"
         }
       ],
       "updated": "2026-09-07",
@@ -32210,9 +32217,9 @@
       "url": "/wiki/entities/honeycrisp/"
     },
     "HongKong": {
-      "episode_count": 5,
-      "show_count": 5,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 6,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "Vol.269 小历史 ｜ “不要怕，是技术性调整” [1004793119].md",
@@ -32248,9 +32255,16 @@
           "show": "声东击西",
           "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
           "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
+        },
+        {
+          "episode_file": "GKwRIJIOP2mLAcAqgQS-06ZW [GKwRIJIOP2mLAcAqgQS-06ZW].md",
+          "key": "vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw",
+          "show": "不懂球",
+          "title": "Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘",
+          "url": "/wiki/sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/hongkong/"
     },
     "HongKongAnimalSolidarity": {
@@ -32268,6 +32282,70 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/hongkonganimalsolidarity/"
+    },
+    "HongKongFootballAssociation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOP2mLAcAqgQS-06ZW [GKwRIJIOP2mLAcAqgQS-06ZW].md",
+          "key": "vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw",
+          "show": "不懂球",
+          "title": "Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘",
+          "url": "/wiki/sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/hongkongfootballassociation/"
+    },
+    "HongKongFootballCommercialClubGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOP2mLAcAqgQS-06ZW [GKwRIJIOP2mLAcAqgQS-06ZW].md",
+          "key": "vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw",
+          "show": "不懂球",
+          "title": "Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘",
+          "url": "/wiki/sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/hongkongfootballcommercialclubgovernance/"
+    },
+    "HongKongFootballForeignPlayerEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOP2mLAcAqgQS-06ZW [GKwRIJIOP2mLAcAqgQS-06ZW].md",
+          "key": "vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw",
+          "show": "不懂球",
+          "title": "Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘",
+          "url": "/wiki/sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/hongkongfootballforeignplayerescalation/"
+    },
+    "HongKongFootballProfessionalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOP2mLAcAqgQS-06ZW [GKwRIJIOP2mLAcAqgQS-06ZW].md",
+          "key": "vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw",
+          "show": "不懂球",
+          "title": "Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘",
+          "url": "/wiki/sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/hongkongfootballprofessionalization/"
     },
     "HongKongInternationalAirport": {
       "episode_count": 1,
@@ -38124,6 +38202,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/kirklandellis/"
     },
+    "KitcheeSC": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOP2mLAcAqgQS-06ZW [GKwRIJIOP2mLAcAqgQS-06ZW].md",
+          "key": "vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw",
+          "show": "不懂球",
+          "title": "Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘",
+          "url": "/wiki/sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/kitcheesc/"
+    },
     "KleosHeroicGlory": {
       "episode_count": 1,
       "show_count": 1,
@@ -39782,6 +39876,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/lijinwulinglatehan/"
+    },
+    "LiJunrongFootballHistorian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOP2mLAcAqgQS-06ZW [GKwRIJIOP2mLAcAqgQS-06ZW].md",
+          "key": "vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw",
+          "show": "不懂球",
+          "title": "Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘",
+          "url": "/wiki/sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/lijunrongfootballhistorian/"
     },
     "LiNieEasternHan": {
       "episode_count": 1,
@@ -61056,6 +61166,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/seemasanghavi/"
     },
+    "SeikoFootballClub": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOP2mLAcAqgQS-06ZW [GKwRIJIOP2mLAcAqgQS-06ZW].md",
+          "key": "vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw",
+          "show": "不懂球",
+          "title": "Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘",
+          "url": "/wiki/sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/seikofootballclub/"
+    },
     "SelectiveAnthemCanonization": {
       "episode_count": 1,
       "show_count": 1,
@@ -63541,6 +63667,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/southafrica/"
+    },
+    "SouthChinaAA": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOP2mLAcAqgQS-06ZW [GKwRIJIOP2mLAcAqgQS-06ZW].md",
+          "key": "vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw",
+          "show": "不懂球",
+          "title": "Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘",
+          "url": "/wiki/sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/southchinaaa/"
     },
     "SouthSudan": {
       "episode_count": 1,

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-07] ingest | Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘
+
+Ingested the 2026-07-29 不懂球 episode with Li Junrong on postwar Hong Kong football, 1968 professionalization, semi-professional player labor, the Seiko dynasty, foreign-player escalation, Bulova and foreign-player limits, commercial-team membership borrowing, and traditional sports-club governance. Added source `vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw`; created `LiJunrongFootballHistorian`, `HongKongFootballAssociation`, `SeikoFootballClub`, `SouthChinaAA`, `KitcheeSC`, `HongKongFootballProfessionalization`, `HongKongFootballForeignPlayerEscalation`, and `HongKongFootballCommercialClubGovernance`; updated `HongKong`, `Budongqiu`, `index`, and `overview`. No settled contradiction found; the title/body guest-name variant and the transcript gap from about 41:25 to 57:02 remain source-scoped.
+
 ## [2026-09-07] ingest | 咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆
 
 Ingested the 2026-08-25 大小电波 episode with Yu Wenjie of Babbitt Coffee on Yunnan coffee, Mangshi and Dehong origin work, old Yunnan flavor stereotypes, blind cupping, Sarchimor variety fit, processing and fermentation boundaries, smallholder income, fresh-cherry prices, and cafe or tourism changes in Mangshi. Added source `kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e`; created `DaxiaoDianbo`, `YuWenjie`, `BabbittCoffee`, `Mangshi`, `Dehong`, `PuerYunnan`, `BaoshanYunnan`, `YunnanCoffeeOriginDevelopment`, `CoffeeSourcingWork`, `OriginBiasInCoffeeEvaluation`, `SarchimorYunnanCoffee`, `CoffeeProcessingTechnologyBoundary`, and `CoffeeFarmerIncomeMechanics`; updated `index` and `overview`. No settled contradiction found; competition scores, high-altitude lot quality, yield examples, cafe counts, price figures, and future product plans remain source-scoped.
@@ -15875,6 +15879,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | How Mitochondria Control Your Metabolism | Dr. Jared Rutter
 
 Ingested the 2026-09-07 Huberman Lab episode with Jared Rutter on mitochondria, cell-specific metabolism, pyruvate routing, MPC1/MPC2, lactate as fuel, fuel prioritization, cancer metabolic reprogramming, reactive oxygen species, aging uncertainty, and future diagnostics. Added source `how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664`; created `JaredRutter`, `CellularMetabolismMosaic`, `MitochondrialEnergyAllocation`, `MitochondrialPyruvateCarrier`, `LactateMetabolicShuttle`, `CancerMetabolicReprogramming`, and `ReactiveOxygenSpeciesMetabolicStress`; updated `index`. No settled contradiction found; aging mechanisms, ROS causality, metabolic imaging, breath/scent diagnostics, KRAS and combination cancer therapy, fuel-prioritization, and lactic-acidosis claims remain source-scoped public biomedical education.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 
