@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "80a18079d91f460f9ec1e2691d193ccb4526c63384a58cb05f375280083edcef",
       "33bf7b8f8185cbf348e28988e7cf1d0930e32a6021b63ec3c20458673a508a39",
       "b7698ced008e75103ebeaf37b643a21559bd84c3347ebb363160cff2e24ff992",
       "33cce1ac0b363bdc5c3e1b5568de2dc9816db4cea40dc459a5073223be5a7c39",
@@ -571,11 +572,39 @@
       "c9cfc14b34adf74d0fb27e2d54c10a5bddbdd34955b5df371daa272496423cc4",
       "cbbe62c03d8335e2e5dca77db200eb628895d1c17f7e2e8fee61cb7f8f0291ae"
     ],
-    "paragraph_count": 569
+    "paragraph_count": 570
   },
-  "overview_commit": "3d877aee1cd304771a45e54ed6f50d6269b7b90e",
-  "overview_digest": "639d92bd7d5dbc2795215c48b8e55b3b87dd4b13c244ff37e6b8dfc66ff13a67",
+  "overview_commit": "902c15937459d45b20e646b93363e8353734b693",
+  "overview_digest": "3e88cd9f1bac33a04a47d2b85c2fccbb393b9f209fd51045abc9ecb841c5866f",
   "paragraphs": [
+    {
+      "id": "80a18079d91f460f9ec1e2691d193ccb4526c63384a58cb05f375280083edcef",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[399-jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-shizhounian-tebie-jiemu-b8cd9085-c37e-4dd3-92d7-5d7be257f078|#399 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨十周年特别节目]], a [[ShengdongJixi|声东击西]] publication of substantially the same [[JiaYangqing|贾扬清]] interview already represented by the [[jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429|What's Next｜科技早知道 crossover source]]. It reinforces [[AIInfrastructureAsProduct]], [[NeoCloud]], [[LeptonAI]], [[AgentReliabilityVerification]], [[AgentHarness]], [[AICodingVerification]], [[MultiAgentCollaboration]], [[WhatOverHowWorkShift]], [[HumanJudgmentUnderAI]], and [[AIOrganizationDesign]] without adding a new independent claim set. Its core synthesis remains that AI capability becomes economically useful through compute infrastructure, product loops, external verification, and human-defined goals; no settled contradiction is recorded, and this ingest is treated as duplicate/cross-post corroboration rather than a change in judgment.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "399-jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-shizhounian-tebie-jiemu-b8cd9085-c37e-4dd3-92d7-5d7be257f078",
+        "AICodingVerification",
+        "AIInfrastructureAsProduct",
+        "AIOrganizationDesign",
+        "AgentHarness",
+        "AgentReliabilityVerification",
+        "HumanJudgmentUnderAI",
+        "JiaYangqing",
+        "LeptonAI",
+        "MultiAgentCollaboration",
+        "NeoCloud",
+        "ShengdongJixi",
+        "WhatOverHowWorkShift",
+        "jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429"
+      ]
+    },
     {
       "id": "33bf7b8f8185cbf348e28988e7cf1d0930e32a6021b63ec3c20458673a508a39",
       "primary_topic": "governance-and-institutions",

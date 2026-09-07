@@ -15640,6 +15640,10 @@ Ingested the 2026-08-11 大小电波 episode on Wahaha and Zong Qinghou as the o
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-07] ingest | #399 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨十周年特别节目
+
+Ingested the 2026-08-06 声东击西 tenth-anniversary special with Jia Yangqing on AI's shift from an unfashionable research label to infrastructure, cloud, startup execution, and agent verification. Added source `399-jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-shizhounian-tebie-jiemu-b8cd9085-c37e-4dd3-92d7-5d7be257f078`; treated it as a duplicate/cross-post corroboration of the earlier What's Next｜科技早知道 crossover source rather than a new independent claim set; updated `index` and `overview`. No settled contradiction found.
+
 ## [2026-09-07] ingest | 总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的
 
 Ingested the 2026-08-17 读报teleread / 独报 fifth-anniversary special on AI in creator workflows, voice-first podcast scripting, authorship, show notes, video podcasting, and correct but expensive creative choices. Added source `zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht`; created `DuBaoTeleread`; updated `AICreativeCollaboration`, `AIAuthorshipPresence`, `AIGeneratedContentQualityGap`, `PodcastProductionWorkflow`, `PodcastAuthenticityBoundary`, `VideoPodcastAffordance`, `index`, and `overview`. No settled contradiction found; show naming, host identities, listener counts, and exact workflow generalizability remain source-scoped.
@@ -15835,6 +15839,10 @@ Health and identity validation passed. Deterministic lint scanned 17,762 pages a
 ## [2026-09-07] ingest | 当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来
 
 Ingested the 2026-08-08 电影巨辩 episode on Christopher Nolan's The Odyssey, auteur power, Homeric modernization, PTSD homecoming, Zeus-law trust, metis, kleos, IMAX authenticity, and political reception. Added source `dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue`; created `DianyingJubian`, `EmmaThomas`, `Syncopy`, `OppenheimerFilm`, `NolanRealitySpectacle`, `PsychologicalMythModernization`, `PTSDHomecomingNarrative`, `ZeusLawTrustEthic`, `MetisHeroicCunning`, `KleosHeroicGlory`, and `IMAXAuthenticityAesthetic`; updated `ChristopherNolan`, `TheOdyssey`, `Odysseus`, `IMAX`, `HomericAdaptationModernization`, `HomericNostos`, `HomericHospitalityTest`, `StrangerHospitalityEthics`, `CivilizationalSelfDestructionCycle`, `index`, and `overview`. No settled contradiction found; the source qualifies earlier Nolan-modernization criticism by treating the adaptation as internally coherent while still marking losses around ancient metis, kleos, identity recognition, and institutional justice.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

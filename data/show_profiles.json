@@ -1788,14 +1788,14 @@
       "earliest_episode_date": "2026-07-09",
       "latest_episode_date": "2026-09-03",
       "latest_episode_file": "53eaa77d-973d-4ad2-b733-cc55e586497a [53eaa77d-973d-4ad2-b733-cc55e586497a].md",
-      "source_note_count": 4,
-      "topic_matched_source_note_count": 3,
+      "source_note_count": 5,
+      "topic_matched_source_note_count": 4,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 1
+          "source_note_count": 2
         },
         {
           "key": "politics",

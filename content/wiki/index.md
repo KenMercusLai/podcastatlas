@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [#399 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨十周年特别节目](sources/399-jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-shizhounian-tebie-jiemu-b8cd9085-c37e-4dd3-92d7-5d7be257f078.md) — 声东击西 tenth-anniversary special with Jia Yangqing on AI's path from unfashionable research label to infrastructure, cloud, startup, and agent-verification platform, corroborating the earlier crossover source.
 - [当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来](sources/dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue.md) — 电影巨辩 episode reading Christopher Nolan's The Odyssey through auteur power, Homeric modernization, PTSD homecoming, Zeus-law trust, metis/kleos, IMAX authenticity, and polarized political reception.
 - [风味吃喝：娃哈哈，宗庆后的三次赌局](sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx.md) — 大小电波 episode tracing Wahaha and Zong Qinghou through children's nutrition products, AD钙奶, pure water, 非常可乐, 营养快线, 联销体, 销地产, the Danone dispute, diversification, e-commerce delay, and Zong Fuli succession.
 - [总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的](sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht.md) — 读报teleread fifth-anniversary special on AI in creator workflows, voice-first podcast scripting, authorship, show notes, video podcasting, and correct but expensive creative choices.

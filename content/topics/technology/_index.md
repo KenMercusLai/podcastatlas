@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2787
+topic_total_pages: 2788
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7143,6 +7143,9 @@ topic_entities:
     title: "齐向东 / Qi Xiangdong"
     url: "/wiki/entities/qixiangdong/"
 topic_sources:
+  - key: "399-jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-shizhounian-tebie-jiemu-b8cd9085-c37e-4dd3-92d7-5d7be257f078"
+    title: "#399 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨十周年特别节目"
+    url: "/wiki/sources/399-jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-shizhounian-tebie-jiemu-b8cd9085-c37e-4dd3-92d7-5d7be257f078/"
   - key: "403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d"
     title: "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西"
     url: "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
