@@ -4,8 +4,9 @@ type: concept
 tags: [footwear, fashion, sneakers, consumer-brands]
 sources:
   - kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166
+  - vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-04
+last_updated: 2026-09-07
 ---
 
 # Thin-Sole Sneaker Revival / 薄底鞋回潮
@@ -20,6 +21,8 @@ The episode treats thin-sole revival as the market condition that made ballet-co
 
 The business implication is cycle management. Brands can revive archival silhouettes such as [[AdidasSamba|Samba]], Gazelle, Spezial, or terrace-style lines, but when those shapes become widely available, ballet derivatives offer another way to extend attention without inventing an entirely new platform.
 
+At the economic-mood layer, thin soles are not only a silhouette turn; they also express a lower-risk, practical, daily-wear preference in a moment when consumers are less patient with hype-driven, hard-to-style, high-premium sneakers.
+
 ## Key Claims
 
 - Thin-sole revival is described as a post-2022-to-2023 response to fatigue with bulky sneakers.
@@ -27,22 +30,25 @@ The business implication is cycle management. Brands can revive archival silhoue
 - Thin-sole revival creates favorable proportions for [[BalletcoreFootwear]] and ballet-sneaker variants.
 - The trend links [[RetroProductRevival]] to fashion-cycle timing rather than only archive nostalgia.
 - Product derivatives become more important after scarcity falls and basic silhouettes saturate.
+- The trend fits a wider shift toward practical classics and away from conspicuous sneaker hype.
 
 ## Evidence
 
 - **Cycle shift:** [[kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166]] describes a move from years of bulky dad-shoe popularity toward slimmer thin-sole shoes around 2022-2023.
 - **Adidas example:** [[kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166]] treats Adidas Samba and related terrace-style models as representative of the thin-sole cycle.
 - **Derivative logic:** [[kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166]] argues that ballet variants can extend the product cycle after retro shoes become less scarce.
+- **Consumption mood:** [[vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15]] links thin-sole and Samba-like demand to economic caution, daily wearability, and lower tolerance for resale-driven sneaker spectacle.
 
 ## Counterevidence & Qualifications
 
 - Thin-sole revival is a fashion-cycle claim, not a permanent replacement for cushioned or bulky footwear.
 - The episode does not provide a full model-by-model sales comparison across brands.
 - The trend can coexist with comfort-led demand, but very thin products may still face functional limits if comfort disappoints.
+- The source treats thin-sole demand as cyclical, not as a permanent rejection of bulky or performance-led footwear.
 
 ## What Changed
 
-- Initial synthesis created thin-sole sneaker revival as the cycle context behind ballet-coded footwear.
+- Added practical-consumption mood and anti-hype framing to the existing thin-sole fashion-cycle synthesis.
 
 ## Related Concepts
 
@@ -51,3 +57,4 @@ The business implication is cycle management. Brands can revive archival silhoue
 - [[BalletcoreFootwear]] - aesthetic layer that fits thinner silhouettes.
 - [[BalletSneakerHybrid]] - derivative category that can extend the thin-sole cycle.
 - [[ComfortLedFootwearDemand]] - demand constraint because slimmer styling still has to satisfy everyday wear.
+- [[BrandDNAConsumerCycleFit]] - brand-level explanation for why Adidas benefits more naturally from the thin-sole cycle than Nike in the source.

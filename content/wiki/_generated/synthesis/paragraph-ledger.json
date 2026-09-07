@@ -568,12 +568,13 @@
       "528281743cf61adfbb2f8e222f1a77c3c4cc419c782293135402187a6ed7cdda",
       "013189bd78693c4f9ddd24154fb4e85b4d94868b1b336af988b43dbee9411c03",
       "ed605f497963461eb9bc9c968de448aa46b9f90dddac4016b47d57e3c144fc1a",
-      "c9cfc14b34adf74d0fb27e2d54c10a5bddbdd34955b5df371daa272496423cc4"
+      "c9cfc14b34adf74d0fb27e2d54c10a5bddbdd34955b5df371daa272496423cc4",
+      "cbbe62c03d8335e2e5dca77db200eb628895d1c17f7e2e8fee61cb7f8f0291ae"
     ],
-    "paragraph_count": 568
+    "paragraph_count": 569
   },
-  "overview_commit": "1238291c53d6b9c294106f3ae09ab5eb3cc05b8b",
-  "overview_digest": "7862f0a02580e92dd888f285e6e3cdd86bb07b997f4386f6ed7345e1c7949d9b",
+  "overview_commit": "6ed6c73c88b971c964d2b5fe80dac73ab457cee7",
+  "overview_digest": "600b9497e58a4895aa3421d1dae5eaaf8ef42087e2268c77e862f243bd9bb915",
   "paragraphs": [
     {
       "id": "33bf7b8f8185cbf348e28988e7cf1d0930e32a6021b63ec3c20458673a508a39",
@@ -17430,6 +17431,30 @@
         "XiaoMeiGeneEditingCase",
         "XuYueAutismScholar",
         "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b"
+      ]
+    },
+    {
+      "id": "cbbe62c03d8335e2e5dca77db200eb628895d1c17f7e2e8fee61cb7f8f0291ae",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15|Vol.224 阿迪vs耐克：时代错配与 DNA之战]], a [[Budongqiu|不懂球]] sports-business episode comparing [[Adidas]] and [[Nike]] through channel pressure, product appeal, football and basketball scenes, retro aesthetics, jersey design, and running-shoe technology. It adds [[BrandDNAConsumerCycleFit]], while extending [[Adidas]], [[Nike]], [[AdidasSamba]], [[RetroProductRevival]], [[ThinSoleSneakerRevival]], [[SportsLifestyleConsumption]], [[SportswearInventoryCycle]], and [[PerformanceFootwearMarket]]. Its core synthesis is that Adidas' current advantage is period fit rather than permanent superiority: archive depth, trefoil football apparel, Samba-style thin soles, fashion collaborations, and practical daily wear match a cautious retro consumer mood, while Nike's future-facing, basketball, performance, and scarcity-coded identity is temporarily less aligned despite retained North American, basketball, pricing, and running-shoe assets. No settled contradiction is recorded; revenue, product-sales, regional growth, and race-performance figures remain source-scoped, and both Adidas' thin-sole saturation risk and Nike's possible future cycle recovery stay explicit.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 6,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "Adidas",
+        "AdidasSamba",
+        "BrandDNAConsumerCycleFit",
+        "Budongqiu",
+        "Nike",
+        "PerformanceFootwearMarket",
+        "RetroProductRevival",
+        "SportsLifestyleConsumption",
+        "SportswearInventoryCycle",
+        "ThinSoleSneakerRevival",
+        "vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15"
       ]
     }
   ],

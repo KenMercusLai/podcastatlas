@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.224 阿迪vs耐克：时代错配与 DNA之战](sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15.md) — 不懂球 episode comparing Adidas and Nike through brand DNA, retro consumer mood, football lifestyle apparel, DTC/channel pressure, Samba saturation, and running-shoe technology momentum.
 - [咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆](sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e.md) — 大小电波 episode with Yu Wenjie on Yunnan coffee sourcing, Mangshi and Dehong origin work, Sarchimor variety fit, processing boundaries, and farmer-income mechanics.
 - [№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」](sources/anyway-195-anyway-195.md) — Anyway.FM crossover with UX Coffee on a U.S. Chinese-language bookstore, leaving screen-centered design, AI pressure on UI/UX work, and AI-enabled small tools as personal outlets.
 - [Vol.225 恒大的足球遗产 ft.潘伟力](sources/vol-225-hengda-de-zuqiu-yichan-ft-panweili-gkwrijeozrpkafcpbatn-ivb.md) — 不懂球 episode with Pan Weili on Evergrande Football School, Guangzhou FC's legacy, the Chinese football golden-yuan era, club-national-team boundary blur, and post-Evergrande Guangzhou supporter continuity.
@@ -8575,7 +8576,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Evergrande](entities/Evergrande.md) — Chinese property developer used as the central high-turnover, hidden-debt, wealth-product, home-delivery crisis, and football-legacy case.
 - [Xu Jiayin](entities/XuJiayin.md) — Evergrande founder whose rise, financing model, reported legal endpoint, football patronage, and overextension symbolize boom-era excess.
 - [Evergrande Wealth / 恒大财富](entities/EvergrandeWealth.md) — Evergrande-linked wealth-product arm whose failed repayment spread the developer crisis to employees, owners, and retail investors.
-- [不懂球 / Budongqiu](entities/Budongqiu.md) — Football podcast context for the Evergrande football legacy conversation.
+- [不懂球 / Budongqiu](entities/Budongqiu.md) — Football podcast context for Evergrande legacy analysis and an Adidas-versus-Nike sportswear business comparison.
 - [喜马拉雅 / Ximalaya](entities/Ximalaya.md) — Chinese audio platform used as the source URL and podcast distribution context for the Budongqiu episode.
 - [潘伟力 / Pan Weili](entities/PanWeili.md) — Football reporter and commentator interpreting Evergrande Football School, Guangzhou FC memory, and post-Evergrande supporter continuity.
 - [恒大足校 / Evergrande Football School](entities/EvergrandeFootballSchool.md) — Surviving Evergrande football academy asset now tied to Guangzhou Sport University and youth-development continuity.
@@ -10330,13 +10331,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wink](entities/Wink.md) — Meitu image/video product discussed through beauty-detail and video-editing differentiation.
 - [Jianying / 剪映](entities/Jianying.md) — Video-editing competitor used to clarify Meitu's narrower workflow defensibility.
 - [盖德](entities/Gaide.md) — Running-shoe reviewer and former sports-industry product manager explaining materials, fit, sponsorship, and marathon performance in E241.
-- [Nike](entities/Nike.md) — Sportswear and footwear company framed through Vaporfly, Alphafly, carbon-plate racing, and the missed official sub-2 marathon narrative.
-- [Adidas](entities/Adidas.md) — Sportswear and footwear company framed through running tech, Samba, World Cup marketing, inventory repair, China recovery, and ballet-coded sneaker refresh.
+- [Nike](entities/Nike.md) — Sportswear and footwear company framed through Vaporfly, DTC/channel risk, Converse ownership, and current cycle mismatch against Adidas.
+- [Adidas](entities/Adidas.md) — Sportswear and footwear company framed through running tech, Samba, World Cup marketing, inventory repair, China recovery, and retro-football lifestyle fit.
 - [Bjørn Gulden / 古尔登](entities/BjornGulden.md) — Adidas CEO in the Vol.271 turnaround source, associated with Yeezy inventory handling, channel repair, regional autonomy, and retro-product revival.
 - [Puma](entities/Puma.md) — Sportswear competitor linked to Bjørn Gulden's prior company and named as a ballet-sneaker trend participant.
 - [Kanye West](entities/KanyeWest.md) — Artist and Yeezy collaborator whose 2022 break with Adidas becomes a celebrity-collaboration and inventory-risk case.
 - [Yeezy](entities/Yeezy.md) — Adidas-Kanye West collaboration framed by Vol.271 as both a profit engine and abrupt post-termination inventory problem.
-- [Adidas Samba](entities/AdidasSamba.md) — Retro Adidas shoe line anchoring Adidas' archive revival and the wider thin-sole sneaker cycle.
+- [Adidas Samba](entities/AdidasSamba.md) — Retro Adidas shoe line anchoring archive revival, thin-sole sneaker demand, brand-cycle fit, and saturation risk.
 - [New Balance](entities/NewBalance.md) — Running and lifestyle footwear brand discussed through comfort, fit, width options, running-fashion growth, and shelf-space opportunity.
 - [ASICS](entities/ASICS.md) — Running-footwear brand discussed through GEL history, slow-running comfort, and lifestyle demand.
 - [Brooks](entities/Brooks.md) — Running-footwear brand discussed as a comfort-oriented slow-running shoe company pressured by carbon-plate racing competition.
@@ -11406,7 +11407,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [School AI Boundaries](concepts/SchoolAIBoundaries.md) — School-policy frame for AI access, screen limits, automated grading, companion chatbots, and AI-literacy tradeoffs.
 - [Balletcore Footwear / 芭蕾风鞋履](concepts/BalletcoreFootwear.md) — Cross-category footwear aesthetic using satin ribbons, bows, pale pink, straps, soft uppers, and ballet-flat references.
 - [Ballet-Sneaker Hybrid / 芭蕾运动鞋](concepts/BalletSneakerHybrid.md) — Hybrid product form that keeps sneaker comfort and soles while adding ballet-coded uppers and refined styling.
-- [Thin-Sole Sneaker Revival / 薄底运动鞋回潮](concepts/ThinSoleSneakerRevival.md) — Post-dad-shoe shift toward slim terrace and retro sneakers such as Samba, Gazelle, and Spezial.
+- [Thin-Sole Sneaker Revival / 薄底运动鞋回潮](concepts/ThinSoleSneakerRevival.md) — Post-dad-shoe shift toward slim terrace and retro sneakers tied to practical daily wear and reduced sneaker-hype tolerance.
+- [Brand DNA Consumer Cycle Fit](concepts/BrandDNAConsumerCycleFit.md) — Consumer-brand pattern where inherited product language and emotional code align with, or miss, the current fashion and economic mood.
 - [Footwear Occasion Blurring / 鞋履场景边界模糊](concepts/FootwearOccasionBlurring.md) — Consumer pattern of wearing athletic and comfort footwear across sport, work, school, commute, and casual settings.
 - [Seasonal Footwear Scene Expansion / 季节鞋履场景扩张](concepts/SeasonalFootwearSceneExpansion.md) — Strategy where sandals, clogs, boots, and weather footwear use design cues to broaden beyond their original season or utility.
 - [Value Snack Channel Consolidation / 量贩零食渠道集中](concepts/ValueSnackChannelConsolidation.md) — Discount snack retail pattern where fast-growing chain stores raise channel concentration and pressure old snack brands.
@@ -13195,8 +13197,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Formula Supply Chain Resilience](concepts/FormulaSupplyChainResilience.md) — Manufacturing and inventory capacity needed to keep serving parents despite long lead times, recalls, and concentrated supply.
 - [WIC Formula Contracting](concepts/WICFormulaContracting.md) — Public-benefit contracting structure that can shape formula choice and reinforce incumbent scale.
 - [Infant Formula Market Concentration](concepts/InfantFormulaMarketConcentration.md) — Market-structure pattern where a few formula brands dominate a regulated, supply-sensitive category.
-- [Sportswear Inventory Cycle](concepts/SportswearInventoryCycle.md) — Sportswear operating pattern where long production lead times, shipping delays, regional demand swings, event years, and channel incentives turn stock into margin and cash-flow risk.
-- [Retro Product Revival](concepts/RetroProductRevival.md) — Product strategy of reactivating archive lines through current styling, social circulation, scarcity, and later aesthetic variation.
+- [Sportswear Inventory Cycle](concepts/SportswearInventoryCycle.md) — Sportswear operating pattern where lead times, channel incentives, product-cycle misses, discounting, and over-distribution turn stock into margin and brand risk.
+- [Retro Product Revival](concepts/RetroProductRevival.md) — Product strategy of reactivating archive lines through current styling, social circulation, scarcity, aesthetic variation, and brand-DNA fit.
 - [Classic Canvas Shoe Decline](concepts/ClassicCanvasShoeDecline.md) — Pattern where famous canvas-shoe brands lose momentum as comfort demand, identity dilution, and product innovation debt compound.
 - [Comfort-Led Footwear Demand](concepts/ComfortLedFootwearDemand.md) — Consumer shift toward daily shoes that combine comfort, function, style, and multi-occasion refinement.
 - [Subculture Mainstreaming Dilution](concepts/SubcultureMainstreamingDilution.md) — Brand failure mode where a once-subcultural product loses identity premium after broad mainstream distribution.
@@ -16684,7 +16686,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sports Rights Growth Engine](concepts/SportsRightsGrowthEngine.md) — Pattern where live sports rights are bought for platform growth, legitimacy, demographics, and cultural presence more than direct ad ROI.
 - [Offline Brand Activation](concepts/OfflineBrandActivation.md) — Time-bound physical campaign strategy using events, pop-ups, commercial districts, and crowds to make brand moments tangible.
 - [Global Sports Sponsorship](concepts/GlobalSportsSponsorship.md) — Use of worldwide sports events to build overseas brand trust, market presence, and technology credibility.
-- [Sports Lifestyle Consumption](concepts/SportsLifestyleConsumption.md) — Sports events and apparel becoming daily fashion, identity, and atmosphere consumption beyond core fans.
+- [Sports Lifestyle Consumption](concepts/SportsLifestyleConsumption.md) — Sports events, apparel, footwear, venues, rankings, and participation rituals becoming daily fashion and identity beyond core fans.
 - [Shanxi Piaohao](concepts/ShanxiPiaohao.md) — Private Shanxi draft-bank/remittance institutions that reduced silver-transport risk through branch trust, codebooks, verification, and reputation.
 - [Frontier Trade Systems](concepts/FrontierTradeSystems.md) — Borderland trade arrangements linking military provisioning, salt permits, Mongolian trade, guarantees, routes, and branch networks.
 - [Jin Merchant Governance](concepts/JinMerchantGovernance.md) — Shanxi merchant-house incentive system using competence-based promotion, ownership discipline, and profit participation to manage distant operations.
@@ -17007,7 +17009,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Supercritical Foam Midsole](concepts/SupercriticalFoamMidsole.md) — Running-shoe foam process using gas-based foaming of TPU/TPEE/PEBA-like materials to improve cushioning, rebound, and weight.
 - [Carbon Plate Racing Shoes](concepts/CarbonPlateRacingShoes.md) — Road-racing shoe category where carbon structures, super foam, geometry, weight, and fit work as one performance system.
 - [Marathon Performance Ecosystem](concepts/MarathonPerformanceEcosystem.md) — Combined system of athlete talent, training, monitoring, recovery, footwear, sponsorship, and race attention behind marathon records.
-- [Performance Footwear Market](concepts/PerformanceFootwearMarket.md) — Market where shoes sell through race proof, comfort, fit, materials, lifestyle adoption, channels, events, and fashion-cycle refresh.
+- [Performance Footwear Market](concepts/PerformanceFootwearMarket.md) — Market where shoes sell through race proof, comfort, fit, materials, lifestyle adoption, channels, events, fashion-cycle refresh, and technology momentum.
 - [Athlete Sponsorship Strategy](concepts/AthleteSponsorshipStrategy.md) — Brand strategy for backing athletes whose performance validates products, while managing rumor and incumbent-sponsor uncertainty.
 - [Forward Deployed Product Manager](concepts/ForwardDeployedProductManager.md) — Product/customer counterpart to FDE, responsible for agent behavior, quality expectations, requirements, and trust during deployment.
 - [AI Workflow Triage](concepts/AIWorkflowTriage.md) — Workflow decomposition discipline that separates deterministic, AI-suitable, and human-review steps before enterprise AI implementation.

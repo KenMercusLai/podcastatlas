@@ -2811,9 +2811,9 @@
       "url": "/wiki/concepts/addedfreesugardistinction/"
     },
     "Adidas": {
-      "episode_count": 5,
-      "show_count": 3,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
@@ -2849,15 +2849,22 @@
           "show": "声动早咖啡",
           "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
           "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        },
+        {
+          "episode_file": "GKwRIW4OXFnYAUm6QwTJeJ15 [GKwRIW4OXFnYAUm6QwTJeJ15].md",
+          "key": "vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15",
+          "show": "不懂球",
+          "title": "Vol.224 阿迪vs耐克：时代错配与 DNA之战",
+          "url": "/wiki/sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/adidas/"
     },
     "AdidasSamba": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
@@ -2872,9 +2879,16 @@
           "show": "声动早咖啡",
           "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
           "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        },
+        {
+          "episode_file": "GKwRIW4OXFnYAUm6QwTJeJ15 [GKwRIW4OXFnYAUm6QwTJeJ15].md",
+          "key": "vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15",
+          "show": "不懂球",
+          "title": "Vol.224 阿迪vs耐克：时代错配与 DNA之战",
+          "url": "/wiki/sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-07",
       "url": "/wiki/entities/adidassamba/"
     },
     "AdultToyMarketExpansion": {
@@ -8377,6 +8391,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/brainimmunestatecoupling/"
     },
+    "BrandDNAConsumerCycleFit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OXFnYAUm6QwTJeJ15 [GKwRIW4OXFnYAUm6QwTJeJ15].md",
+          "key": "vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15",
+          "show": "不懂球",
+          "title": "Vol.224 阿迪vs耐克：时代错配与 DNA之战",
+          "url": "/wiki/sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/branddnaconsumercyclefit/"
+    },
     "BrandDoing": {
       "episode_count": 1,
       "show_count": 1,
@@ -8822,9 +8852,9 @@
       "url": "/wiki/concepts/budgetedfrontiersuppression/"
     },
     "Budongqiu": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIJEOZrpkAfcPbATN_iVB [GKwRIJEOZrpkAfcPbATN_iVB].md",
@@ -8832,6 +8862,13 @@
           "show": "不懂球",
           "title": "Vol.225 恒大的足球遗产 ft.潘伟力",
           "url": "/wiki/sources/vol-225-hengda-de-zuqiu-yichan-ft-panweili-gkwrijeozrpkafcpbatn-ivb/"
+        },
+        {
+          "episode_file": "GKwRIW4OXFnYAUm6QwTJeJ15 [GKwRIW4OXFnYAUm6QwTJeJ15].md",
+          "key": "vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15",
+          "show": "不懂球",
+          "title": "Vol.224 阿迪vs耐克：时代错配与 DNA之战",
+          "url": "/wiki/sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15/"
         }
       ],
       "updated": "2026-09-07",
@@ -48588,6 +48625,64 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/nighttimeeconomygovernance/"
     },
+    "Nike": {
+      "episode_count": 7,
+      "show_count": 6,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
+          "key": "vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155",
+          "show": "商业就是这样",
+          "title": "Vol.271 阿迪达斯如何触底反弹？",
+          "url": "/wiki/sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155/"
+        },
+        {
+          "episode_file": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？ [1006742982].md",
+          "key": "vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982",
+          "show": "声动早咖啡",
+          "title": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？",
+          "url": "/wiki/sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982/"
+        },
+        {
+          "episode_file": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约 [1006054195].md",
+          "key": "xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195",
+          "show": "声动早咖啡",
+          "title": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约",
+          "url": "/wiki/sources/xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195/"
+        },
+        {
+          "episode_file": "E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？ [c38d5df5-2eb3-46d3-8437-892593599d29].md",
+          "key": "e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie",
+          "show": "硅谷101",
+          "title": "E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？",
+          "url": "/wiki/sources/e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie/"
+        },
+        {
+          "episode_file": "138. 👟昂跑中国重直营、🦍超级猩猩不办卡 ｜ 疯投圈 (1) [138-1].md",
+          "key": "138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1",
+          "show": "疯投圈",
+          "title": "138. 昂跑中国重直营、超级猩猩不办卡",
+          "url": "/wiki/sources/138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1/"
+        },
+        {
+          "episode_file": "16.时尚受害者：惊！绿色或为最毒颜色 [559889282].md",
+          "key": "16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282",
+          "show": "蜜獾吃书",
+          "title": "16.时尚受害者：惊！绿色或为最毒颜色",
+          "url": "/wiki/sources/16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282/"
+        },
+        {
+          "episode_file": "GKwRIW4OXFnYAUm6QwTJeJ15 [GKwRIW4OXFnYAUm6QwTJeJ15].md",
+          "key": "vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15",
+          "show": "不懂球",
+          "title": "Vol.224 阿迪vs耐克：时代错配与 DNA之战",
+          "url": "/wiki/sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/nike/"
+    },
     "NineToFiveFilm": {
       "episode_count": 1,
       "show_count": 1,
@@ -51946,9 +52041,9 @@
       "url": "/wiki/concepts/perceivedsimilarityinrelationships/"
     },
     "PerformanceFootwearMarket": {
-      "episode_count": 6,
-      "show_count": 4,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 5,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "商业小样47 ｜ “健身做题家”的新欢HYROX，到底有什么护城河？ [1008179335].md",
@@ -51991,9 +52086,16 @@
           "show": "声动早咖啡",
           "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
           "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        },
+        {
+          "episode_file": "GKwRIW4OXFnYAUm6QwTJeJ15 [GKwRIW4OXFnYAUm6QwTJeJ15].md",
+          "key": "vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15",
+          "show": "不懂球",
+          "title": "Vol.224 阿迪vs耐克：时代错配与 DNA之战",
+          "url": "/wiki/sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/performancefootwearmarket/"
     },
     "PerformanceLinkedAdSpendPricing": {
@@ -57634,9 +57736,9 @@
       "url": "/wiki/concepts/retrohumanistaicontent/"
     },
     "RetroProductRevival": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
@@ -57651,9 +57753,16 @@
           "show": "声动早咖啡",
           "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
           "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        },
+        {
+          "episode_file": "GKwRIW4OXFnYAUm6QwTJeJ15 [GKwRIW4OXFnYAUm6QwTJeJ15].md",
+          "key": "vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15",
+          "show": "不懂球",
+          "title": "Vol.224 阿迪vs耐克：时代错配与 DNA之战",
+          "url": "/wiki/sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/retroproductrevival/"
     },
     "ReturningArmyInterdictionRisk": {
@@ -62738,6 +62847,64 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/sportasreconciliationritual/"
     },
+    "SportsLifestyleConsumption": {
+      "episode_count": 7,
+      "show_count": 4,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "商业小样47 ｜ “健身做题家”的新欢HYROX，到底有什么护城河？ [1008179335].md",
+          "key": "shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335",
+          "show": "商业就是这样",
+          "title": "商业小样47 | “健身做题家”的新欢HYROX，到底有什么护城河？",
+          "url": "/wiki/sources/shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335/"
+        },
+        {
+          "episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
+          "key": "vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155",
+          "show": "商业就是这样",
+          "title": "Vol.271 阿迪达斯如何触底反弹？",
+          "url": "/wiki/sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155/"
+        },
+        {
+          "episode_file": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？ [1006742982].md",
+          "key": "vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982",
+          "show": "声动早咖啡",
+          "title": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？",
+          "url": "/wiki/sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982/"
+        },
+        {
+          "episode_file": "EP250 走进山野，顺流而上：寻找户外运动中的心流时刻 [lpV4EGUMBXCJRxK3jYPehYXcqFUo].md",
+          "key": "ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo",
+          "show": "Talk三联",
+          "title": "EP250 走进山野，顺流而上：寻找户外运动中的心流时刻",
+          "url": "/wiki/sources/ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo/"
+        },
+        {
+          "episode_file": "EP238 2025年，你玩过怎样的“小众运动”？ [lpAW-keLa5vk6Avl_S11H_yexwLg].md",
+          "key": "ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg",
+          "show": "Talk三联",
+          "title": "EP238 2025年，你玩过怎样的“小众运动”？",
+          "url": "/wiki/sources/ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg/"
+        },
+        {
+          "episode_file": "Vol.264 把世界杯作为方法 [999416048].md",
+          "key": "vol-264-ba-shijiebei-zuowei-fangfa-999416048",
+          "show": "商业就是这样",
+          "title": "Vol.264 把世界杯作为方法",
+          "url": "/wiki/sources/vol-264-ba-shijiebei-zuowei-fangfa-999416048/"
+        },
+        {
+          "episode_file": "GKwRIW4OXFnYAUm6QwTJeJ15 [GKwRIW4OXFnYAUm6QwTJeJ15].md",
+          "key": "vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15",
+          "show": "不懂球",
+          "title": "Vol.224 阿迪vs耐克：时代错配与 DNA之战",
+          "url": "/wiki/sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/sportslifestyleconsumption/"
+    },
     "SportsParticipationOverWinning": {
       "episode_count": 1,
       "show_count": 1,
@@ -62792,6 +62959,29 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/sportspropagandaeffectuncertainty/"
+    },
+    "SportswearInventoryCycle": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
+          "key": "vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155",
+          "show": "商业就是这样",
+          "title": "Vol.271 阿迪达斯如何触底反弹？",
+          "url": "/wiki/sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155/"
+        },
+        {
+          "episode_file": "GKwRIW4OXFnYAUm6QwTJeJ15 [GKwRIW4OXFnYAUm6QwTJeJ15].md",
+          "key": "vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15",
+          "show": "不懂球",
+          "title": "Vol.224 阿迪vs耐克：时代错配与 DNA之战",
+          "url": "/wiki/sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/sportswearinventorycycle/"
     },
     "SpotRobot": {
       "episode_count": 1,
@@ -66757,9 +66947,9 @@
       "url": "/wiki/concepts/therapyrelationshipandboundaries/"
     },
     "ThinSoleSneakerRevival": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
@@ -66767,9 +66957,16 @@
           "show": "声动早咖啡",
           "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
           "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        },
+        {
+          "episode_file": "GKwRIW4OXFnYAUm6QwTJeJ15 [GKwRIW4OXFnYAUm6QwTJeJ15].md",
+          "key": "vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15",
+          "show": "不懂球",
+          "title": "Vol.224 阿迪vs耐克：时代错配与 DNA之战",
+          "url": "/wiki/sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-07",
       "url": "/wiki/concepts/thinsolesneakerrevival/"
     },
     "ThirdPartyAIVendorOversight": {
