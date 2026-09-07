@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6599
+wiki_total_pages: 6604
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "WholesaleAsMarketing"
     title: "Wholesale As Marketing"
     url: "/wiki/concepts/wholesaleasmarketing/"
+  - key: "WholesaleRetailerAmplification"
+    title: "Wholesale Retailer Amplification"
+    url: "/wiki/concepts/wholesaleretaileramplification/"
   - key: "WholesaleToDirectCustomerBridge"
     title: "Wholesale-To-Direct Customer Bridge"
     url: "/wiki/concepts/wholesaletodirectcustomerbridge/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2221
+topic_total_pages: 2222
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -649,6 +649,9 @@ topic_concepts:
   - key: "ContractualFundGovernanceGap"
     title: "Contractual Fund Governance Gap / 契约型基金治理缺口"
     url: "/wiki/concepts/contractualfundgovernancegap/"
+  - key: "ControlPreservingGrowthCapital"
+    title: "Control-Preserving Growth Capital"
+    url: "/wiki/concepts/controlpreservinggrowthcapital/"
   - key: "ControlPreservingIncentives"
     title: "Control-Preserving Incentives"
     url: "/wiki/concepts/controlpreservingincentives/"

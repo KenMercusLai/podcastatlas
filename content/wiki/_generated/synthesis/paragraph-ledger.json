@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "f8da211aee39297c6b4860b92efc30f878e755c6f76cd6e299f828dff8b86b77",
       "80a18079d91f460f9ec1e2691d193ccb4526c63384a58cb05f375280083edcef",
       "33bf7b8f8185cbf348e28988e7cf1d0930e32a6021b63ec3c20458673a508a39",
       "b7698ced008e75103ebeaf37b643a21559bd84c3347ebb363160cff2e24ff992",
@@ -572,11 +573,45 @@
       "c9cfc14b34adf74d0fb27e2d54c10a5bddbdd34955b5df371daa272496423cc4",
       "cbbe62c03d8335e2e5dca77db200eb628895d1c17f7e2e8fee61cb7f8f0291ae"
     ],
-    "paragraph_count": 570
+    "paragraph_count": 571
   },
-  "overview_commit": "b438627efb0f33caf6234ad93ec230acd5ef8c31",
-  "overview_digest": "3e88cd9f1bac33a04a47d2b85c2fccbb393b9f209fd51045abc9ecb841c5866f",
+  "overview_commit": "8ec80e68eab964494395b5ac84ad1d38298b68a6",
+  "overview_digest": "66f9ef016aefdd5f423f35dfa6aa55e4ced5b8a0b45196b493d5ee1eec40f391",
   "paragraphs": [
+    {
+      "id": "f8da211aee39297c6b4860b92efc30f878e755c6f76cd6e299f828dff8b86b77",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee|Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned]], a [[HowIBuiltThis]] episode with [[GuyRaz]] interviewing [[KimVaccarella]] about turning [[BoggBag]] from a washable beach-bag idea into a consumer brand the host frames as doing more than $100 million in annual sales. It adds [[KimVaccarella]], [[BoggBag]], [[PinkBungalow]], [[DefectiveInventoryDemandSignal]], [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], and [[FounderRestartAfterFailure]], while extending [[Crocs]], [[HardwareInventoryRisk]], [[InventoryHeavyConsumerBrandFinancing]], [[WholesaleAsMarketing]], [[RelationshipLedGrowth]], [[FastProductValidation]], [[StartupGovernance]], [[StageAppropriateHiring]], [[ConsumerBrandMoat]], and [[ProductLedWillingnessToPay]]. Its core synthesis is that a physical consumer brand can restart when actual customer use contradicts the founder's sense of failure: black-streaked bags nearly ended Bogg Bag, but Sandy relief recipients later supplied demand evidence, and the company scaled through retailer relationships, trade-show access, COVID-era use cases, community virality, and capital that preserved founder control. No settled contradiction is recorded; exact sales, factory terms, investor rights, and operating metrics remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 8,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BoggBag",
+        "ConsumerBrandMoat",
+        "ControlPreservingGrowthCapital",
+        "Crocs",
+        "DefectiveInventoryDemandSignal",
+        "FastProductValidation",
+        "FounderRestartAfterFailure",
+        "GuyRaz",
+        "HardwareInventoryRisk",
+        "HowIBuiltThis",
+        "InventoryHeavyConsumerBrandFinancing",
+        "KimVaccarella",
+        "PinkBungalow",
+        "ProductLedWillingnessToPay",
+        "RelationshipLedGrowth",
+        "StageAppropriateHiring",
+        "StartupGovernance",
+        "TradeShowBoothSharing",
+        "WholesaleAsMarketing",
+        "WholesaleRetailerAmplification",
+        "bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee"
+      ]
+    },
     {
       "id": "80a18079d91f460f9ec1e2691d193ccb4526c63384a58cb05f375280083edcef",
       "primary_topic": "ai-and-technology",

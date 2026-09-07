@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1948
+topic_total_pages: 1949
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -2704,6 +2704,9 @@ topic_concepts:
   - key: "TradeReciprocityProtectionism"
     title: "Trade Reciprocity Protectionism"
     url: "/wiki/concepts/tradereciprocityprotectionism/"
+  - key: "TradeShowBoothSharing"
+    title: "Trade Show Booth Sharing"
+    url: "/wiki/concepts/tradeshowboothsharing/"
   - key: "TradeHubStatecraft"
     title: "Trade-Hub Statecraft / 商贸枢纽型治国"
     url: "/wiki/concepts/tradehubstatecraft/"

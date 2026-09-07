@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6599
+wiki_total_pages: 6604
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1463,6 +1463,9 @@ wiki_pages:
   - key: "ContrarianSentimentIndicators"
     title: "Contrarian Sentiment Indicators"
     url: "/wiki/concepts/contrariansentimentindicators/"
+  - key: "ControlPreservingGrowthCapital"
+    title: "Control-Preserving Growth Capital"
+    url: "/wiki/concepts/controlpreservinggrowthcapital/"
   - key: "ControlPreservingIncentives"
     title: "Control-Preserving Incentives"
     url: "/wiki/concepts/controlpreservingincentives/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9217
+wiki_total_pages: 9220
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -599,6 +599,9 @@ wiki_pages:
   - key: "Boeing"
     title: "Boeing"
     url: "/wiki/entities/boeing/"
+  - key: "BoggBag"
+    title: "Bogg Bag"
+    url: "/wiki/entities/boggbag/"
   - key: "Bogside"
     title: "Bogside"
     url: "/wiki/entities/bogside/"

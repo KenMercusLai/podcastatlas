@@ -8051,6 +8051,10 @@
     "title": "Boeing",
     "url": "/wiki/entities/boeing/"
   },
+  "BoggBag": {
+    "title": "Bogg Bag",
+    "url": "/wiki/entities/boggbag/"
+  },
   "Bogside": {
     "title": "Bogside",
     "url": "/wiki/entities/bogside/"
@@ -13115,6 +13119,10 @@
     "title": "Contrarian Sentiment Indicators",
     "url": "/wiki/concepts/contrariansentimentindicators/"
   },
+  "ControlPreservingGrowthCapital": {
+    "title": "Control-Preserving Growth Capital",
+    "url": "/wiki/concepts/controlpreservinggrowthcapital/"
+  },
   "ControlPreservingIncentives": {
     "title": "Control-Preserving Incentives",
     "url": "/wiki/concepts/controlpreservingincentives/"
@@ -15110,6 +15118,10 @@
   "DefeatedPopulationConversion": {
     "title": "Defeated Population Conversion / 降众资源化",
     "url": "/wiki/concepts/defeatedpopulationconversion/"
+  },
+  "DefectiveInventoryDemandSignal": {
+    "title": "Defective Inventory Demand Signal",
+    "url": "/wiki/concepts/defectiveinventorydemandsignal/"
   },
   "DefendingJacob": {
     "title": "《捍卫雅各布》 / Defending Jacob",
@@ -21038,6 +21050,10 @@
   "FounderResilience": {
     "title": "Founder Resilience",
     "url": "/wiki/concepts/founderresilience/"
+  },
+  "FounderRestartAfterFailure": {
+    "title": "Founder Restart After Failure",
+    "url": "/wiki/concepts/founderrestartafterfailure/"
   },
   "FounderReturnCrisis": {
     "title": "Founder Return Crisis",
@@ -30926,6 +30942,10 @@
   "KimPhilby": {
     "title": "Kim Philby / 金·菲尔比",
     "url": "/wiki/entities/kimphilby/"
+  },
+  "KimVaccarella": {
+    "title": "Kim Vaccarella",
+    "url": "/wiki/entities/kimvaccarella/"
   },
   "KimWolfBotnet": {
     "title": "KimWolf Botnet",
@@ -42846,6 +42866,10 @@
   "Pininfarina": {
     "title": "Pininfarina",
     "url": "/wiki/entities/pininfarina/"
+  },
+  "PinkBungalow": {
+    "title": "Pink Bungalow",
+    "url": "/wiki/entities/pinkbungalow/"
   },
   "PinkParadox": {
     "title": "《粉色悖论》 / Pink Paradox",
@@ -55927,6 +55951,10 @@
     "title": "Trade Reciprocity Protectionism",
     "url": "/wiki/concepts/tradereciprocityprotectionism/"
   },
+  "TradeShowBoothSharing": {
+    "title": "Trade Show Booth Sharing",
+    "url": "/wiki/concepts/tradeshowboothsharing/"
+  },
   "TrademarkBasedEventProtection": {
     "title": "Trademark-Based Event Protection",
     "url": "/wiki/concepts/trademarkbasedeventprotection/"
@@ -59270,6 +59298,10 @@
   "WholesaleAsMarketing": {
     "title": "Wholesale As Marketing",
     "url": "/wiki/concepts/wholesaleasmarketing/"
+  },
+  "WholesaleRetailerAmplification": {
+    "title": "Wholesale Retailer Amplification",
+    "url": "/wiki/concepts/wholesaleretaileramplification/"
   },
   "WholesaleToDirectCustomerBridge": {
     "title": "Wholesale-To-Direct Customer Bridge",
@@ -65010,6 +65042,10 @@
   "bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69": {
     "title": "Bobbie: Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants",
     "url": "/wiki/sources/bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69/"
+  },
+  "bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee": {
+    "title": "Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned",
+    "url": "/wiki/sources/bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee/"
   },
   "bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0": {
     "title": "Bombs and bombshells: Zelensky under pressure",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 9217
+wiki_total_pages: 9220
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -473,6 +473,9 @@ wiki_pages:
   - key: "Pininfarina"
     title: "Pininfarina"
     url: "/wiki/entities/pininfarina/"
+  - key: "PinkBungalow"
+    title: "Pink Bungalow"
+    url: "/wiki/entities/pinkbungalow/"
   - key: "Pinocchio"
     title: "Pinocchio / 匹诺曹"
     url: "/wiki/entities/pinocchio/"

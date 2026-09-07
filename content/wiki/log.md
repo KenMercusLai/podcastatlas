@@ -15640,6 +15640,10 @@ Ingested the 2026-08-11 大小电波 episode on Wahaha and Zong Qinghou as the o
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-07] ingest | Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned
+
+Ingested the 2026-09-07 How I Built This episode on Kim Vaccarella building Bogg Bag through beach-bag product insight, patents, a rejected Crocs pitch, defective manufacturing, Superstorm Sandy relief use, renewed customer pull, trade-show selling, wholesale relationships, COVID-era demand, a rejected majority acquisition offer, and later control-preserving investment. Added source `bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee`; created `BoggBag`, `KimVaccarella`, `PinkBungalow`, `DefectiveInventoryDemandSignal`, `WholesaleRetailerAmplification`, `TradeShowBoothSharing`, `ControlPreservingGrowthCapital`, and `FounderRestartAfterFailure`; updated `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; exact sales, investor terms, factory terms, and operating metrics remain source-scoped to the episode.
+
 ## [2026-09-07] ingest | #399 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨十周年特别节目
 
 Ingested the 2026-08-06 声东击西 tenth-anniversary special with Jia Yangqing on AI's shift from an unfashionable research label to infrastructure, cloud, startup execution, and agent verification. Added source `399-jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-shizhounian-tebie-jiemu-b8cd9085-c37e-4dd3-92d7-5d7be257f078`; treated it as a duplicate/cross-post corroboration of the earlier What's Next｜科技早知道 crossover source rather than a new independent claim set; updated `index` and `overview`. No settled contradiction found.
@@ -15855,6 +15859,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全
 
 Ingested the 2026-08-04 三五环 episode with Didi ride-hailing safety lead Xu Xiaonan / Qu Xiaonan on post-2018 safety rebuilding, safety boundaries from order matching to safe separation, driver admission, safety dispatch, AI and human warning, high-recall intervention, drunk and minor passenger risks, offline transactions, recording privacy, and user-side self-protection. Added source `no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi`; created `XuXiaonan`, `RideHailingSafetyOperations`, `HighRecallSafetyIntervention`, and `OfflinePlatformSafetyBoundary`; updated `Didi`, `LiuFei`, `SanWuHuan`, `PublicSafetyPrivacyTradeoff`, `index`, and downstream synthesis artifacts. No settled contradiction found; the source title/body name mismatch and Didi's safety metrics remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

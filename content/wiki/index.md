@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned](sources/bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee.md) — How I Built This episode on Kim Vaccarella building Bogg Bag through beach-bag product insight, patents, defective inventory, Sandy relief demand, trade shows, wholesale partners, COVID growth, and control-preserving investment.
 - [零跑汽车朱江明×罗永浩！零跑汽车十年：不会讲故事的人，如何卖成了第一](sources/lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb.md) — 罗永浩的十字路口 interview with Zhu Jiangming on Leapmotor's engineering-founder path, full-stack self-research, S01/T03/C11/D99 product arc, cost discipline, Stellantis partnership, and Chinese EV globalization.
 - [No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全](sources/no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi.md) — 三五环 interview with Didi ride-hailing safety lead Xu Xiaonan / Qu Xiaonan on post-2018 safety rebuilding, high-recall AI warning, human review, privacy controls, drunk and minor passenger risks, and offline ride-safety gaps.
 - [#399 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨十周年特别节目](sources/399-jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-shizhounian-tebie-jiemu-b8cd9085-c37e-4dd3-92d7-5d7be257f078.md) — 声东击西 tenth-anniversary special with Jia Yangqing on AI's path from unfashionable research label to infrastructure, cloud, startup, and agent-verification platform, corroborating the earlier crossover source.
@@ -1986,6 +1987,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Bogg Bag](entities/BoggBag.md) — Washable beach-and-everyday bag brand whose How I Built This episode shows demand emerging after defective inventory, relief-use proof, wholesale amplification, and control-preserving investment.
+- [Kim Vaccarella](entities/KimVaccarella.md) — Bogg Bag founder whose story connects practical product insight, factory failure, restart after customer pull, trade-show selling, wholesale growth, and control-sensitive scaling.
+- [Pink Bungalow](entities/PinkBungalow.md) — Ridgewood boutique that supplied Bogg Bag's first retail order and early reorder validation.
 - [Zhu Jiangming / 朱江明](entities/ZhuJiangming.md) — Leapmotor founder and engineering entrepreneur whose Dahua experience informs Leapmotor's self-research and cost-discipline strategy.
 - [Leapmotor / 零跑汽车](entities/Leapmotor.md) — Chinese EV maker built around full-stack self-research, value-for-money pricing, product-line recovery, and Stellantis-linked globalization.
 - [Dahua Technology / 大华](entities/DahuaTechnology.md) — Security-video hardware company used as Zhu Jiangming's predecessor venture and capability base before Leapmotor.
@@ -11207,6 +11211,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Control-Preserving Growth Capital](concepts/ControlPreservingGrowthCapital.md) — Funding pattern where a founder accepts scale capital or expertise while retaining enough authority to keep directing the company.
+- [Defective Inventory Demand Signal](concepts/DefectiveInventoryDemandSignal.md) — Physical-product validation pattern where flawed but usable inventory reveals real customer demand after actual use.
+- [Founder Restart After Failure](concepts/FounderRestartAfterFailure.md) — Returning to a venture after an apparent ending because new customer evidence, financing, or operating options change the meaning of the failure.
+- [Trade Show Booth Sharing](concepts/TradeShowBoothSharing.md) — Low-cost market-access tactic where small brands split trade-show booth space to reach wholesale buyers before affording a standalone presence.
+- [Wholesale Retailer Amplification](concepts/WholesaleRetailerAmplification.md) — Consumer-brand growth pattern where independent retailers validate, contextualize, and locally amplify demand.
 - [Leapmotor Full-Stack Self-Research / 零跑全域自研](concepts/LeapmotorFullStackSelfResearch.md) — EV strategy of controlling core technology, self-manufacturing, platforms, and selected components to support cost and quality.
 - [EV Value-for-Money Cost Discipline / 电动车性价比成本纪律](concepts/EVValueForMoneyCostDiscipline.md) — EV pricing and manufacturing pattern built around low premium, visible configuration, quality trust, and supplier-margin compression.
 - [Engineering Founder Automotive Transition / 工程师创始人跨界造车](concepts/EngineeringFounderAutomotiveTransition.md) — Technical founder path from electronics and hardware into much heavier auto manufacturing.

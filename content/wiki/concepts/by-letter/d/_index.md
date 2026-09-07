@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6599
+wiki_total_pages: 6604
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "DefeatedPopulationConversion"
     title: "Defeated Population Conversion / 降众资源化"
     url: "/wiki/concepts/defeatedpopulationconversion/"
+  - key: "DefectiveInventoryDemandSignal"
+    title: "Defective Inventory Demand Signal"
+    url: "/wiki/concepts/defectiveinventorydemandsignal/"
   - key: "DefenseAIProcurement"
     title: "Defense AI Procurement"
     url: "/wiki/concepts/defenseaiprocurement/"

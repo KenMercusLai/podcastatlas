@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6599
+wiki_total_pages: 6604
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -497,6 +497,9 @@ wiki_pages:
   - key: "TradeReciprocityProtectionism"
     title: "Trade Reciprocity Protectionism"
     url: "/wiki/concepts/tradereciprocityprotectionism/"
+  - key: "TradeShowBoothSharing"
+    title: "Trade Show Booth Sharing"
+    url: "/wiki/concepts/tradeshowboothsharing/"
   - key: "TradeHubStatecraft"
     title: "Trade-Hub Statecraft / 商贸枢纽型治国"
     url: "/wiki/concepts/tradehubstatecraft/"

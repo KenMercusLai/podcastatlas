@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6599
+wiki_total_pages: 6604
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -815,6 +815,9 @@ wiki_pages:
   - key: "FounderResilience"
     title: "Founder Resilience"
     url: "/wiki/concepts/founderresilience/"
+  - key: "FounderRestartAfterFailure"
+    title: "Founder Restart After Failure"
+    url: "/wiki/concepts/founderrestartafterfailure/"
   - key: "FounderReturnCrisis"
     title: "Founder Return Crisis"
     url: "/wiki/concepts/founderreturncrisis/"

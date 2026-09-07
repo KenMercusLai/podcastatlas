@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 9217
+wiki_total_pages: 9220
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "KimPhilby"
     title: "Kim Philby / 金·菲尔比"
     url: "/wiki/entities/kimphilby/"
+  - key: "KimVaccarella"
+    title: "Kim Vaccarella"
+    url: "/wiki/entities/kimvaccarella/"
   - key: "KimberlyBecker"
     title: "Kimberly Becker"
     url: "/wiki/entities/kimberlybecker/"
