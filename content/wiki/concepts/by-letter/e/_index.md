@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6658
+wiki_total_pages: 6661
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "EmotionalEnergyExtraction"
     title: "Emotional Energy Extraction / 情绪能量掠夺"
     url: "/wiki/concepts/emotionalenergyextraction/"
+  - key: "EmotionalFlashbackGrounding"
+    title: "Emotional Flashback Grounding / 情绪闪回回到当下"
+    url: "/wiki/concepts/emotionalflashbackgrounding/"
   - key: "EmotionalGranularity"
     title: "Emotional Granularity"
     url: "/wiki/concepts/emotionalgranularity/"

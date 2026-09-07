@@ -21812,6 +21812,13 @@
       "url": "/topics/science/"
     }
   ],
+  "EmotionalFlashbackGrounding": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "EmotionalGranularity": [
     {
       "key": "politics",
@@ -45403,6 +45410,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "OmnipotentSelfBlame": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "OnDeviceAI": [
     {
       "key": "technology",
@@ -46436,6 +46450,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PainOrientation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "PainfulMemoryRehearsalRisk": [
@@ -74892,6 +74913,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb": [

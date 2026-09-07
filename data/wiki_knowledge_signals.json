@@ -13955,9 +13955,9 @@
       "url": "/wiki/concepts/complexdestinationtravelrisk/"
     },
     "ComplexTraumaRecognition": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "88.别认输，惠子：在听不到喝彩的世界里，挥拳！ [708510803].md",
@@ -14014,9 +14014,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说471期 - 咨询师回信：万事只讲逻辑的人，都成长于理性为名的压迫",
           "url": "/wiki/sources/shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi/"
+        },
+        {
+          "episode_file": "llwrA0A8mT-oCndm9EokzXaRYB-j [llwrA0A8mT-oCndm9EokzXaRYB-j].md",
+          "key": "shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说468期 - 咨询师回信：独自努力长大的人容易陷入全能自恋的陷阱",
+          "url": "/wiki/sources/shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/complextraumarecognition/"
     },
     "ComprehensiveConsumerDataPrivacy": {
@@ -20856,6 +20863,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/emotionregulationtoolkit/"
+    },
+    "EmotionalFlashbackGrounding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llwrA0A8mT-oCndm9EokzXaRYB-j [llwrA0A8mT-oCndm9EokzXaRYB-j].md",
+          "key": "shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说468期 - 咨询师回信：独自努力长大的人容易陷入全能自恋的陷阱",
+          "url": "/wiki/sources/shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/emotionalflashbackgrounding/"
     },
     "EmotionalGranularity": {
       "episode_count": 2,
@@ -47603,9 +47626,9 @@
       "url": "/wiki/concepts/mentalillnessdestigmatization/"
     },
     "MentalizingProjection": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "E46 我们从未看见彼此 [lmLikSaiWXAKmjBn_p2VoaaOENXH].md",
@@ -47613,9 +47636,16 @@
           "show": "无人知晓",
           "title": "E46 我们从未看见彼此",
           "url": "/wiki/sources/e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh/"
+        },
+        {
+          "episode_file": "llwrA0A8mT-oCndm9EokzXaRYB-j [llwrA0A8mT-oCndm9EokzXaRYB-j].md",
+          "key": "shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说468期 - 咨询师回信：独自努力长大的人容易陷入全能自恋的陷阱",
+          "url": "/wiki/sources/shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/mentalizingprojection/"
     },
     "Merck": {
@@ -52082,6 +52112,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/omnihuman/"
     },
+    "OmnipotentSelfBlame": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llwrA0A8mT-oCndm9EokzXaRYB-j [llwrA0A8mT-oCndm9EokzXaRYB-j].md",
+          "key": "shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说468期 - 咨询师回信：独自努力长大的人容易陷入全能自恋的陷阱",
+          "url": "/wiki/sources/shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/omnipotentselfblame/"
+    },
     "OnPolicyDistillation": {
       "episode_count": 2,
       "show_count": 2,
@@ -53045,6 +53091,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/packagedwaterpricewar/"
+    },
+    "PainOrientation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llwrA0A8mT-oCndm9EokzXaRYB-j [llwrA0A8mT-oCndm9EokzXaRYB-j].md",
+          "key": "shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说468期 - 咨询师回信：独自努力长大的人容易陷入全能自恋的陷阱",
+          "url": "/wiki/sources/shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/painorientation/"
     },
     "PalaceAccusationVerification": {
       "episode_count": 2,
@@ -63681,9 +63743,9 @@
       "url": "/wiki/entities/shibilatehan/"
     },
     "ShiDiFuShuo": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -63705,6 +63767,13 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说469期 - 童立 - 最好的关系是在爱人怀里尽情阳w早x",
           "url": "/wiki/sources/shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb/"
+        },
+        {
+          "episode_file": "llwrA0A8mT-oCndm9EokzXaRYB-j [llwrA0A8mT-oCndm9EokzXaRYB-j].md",
+          "key": "shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说468期 - 咨询师回信：独自努力长大的人容易陷入全能自恋的陷阱",
+          "url": "/wiki/sources/shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j/"
         }
       ],
       "updated": "2026-09-08",
@@ -65945,9 +66014,9 @@
       "url": "/wiki/entities/stevebernard/"
     },
     "SteveShiDiFuShuoHost": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -65969,6 +66038,13 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说469期 - 童立 - 最好的关系是在爱人怀里尽情阳w早x",
           "url": "/wiki/sources/shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb/"
+        },
+        {
+          "episode_file": "llwrA0A8mT-oCndm9EokzXaRYB-j [llwrA0A8mT-oCndm9EokzXaRYB-j].md",
+          "key": "shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说468期 - 咨询师回信：独自努力长大的人容易陷入全能自恋的陷阱",
+          "url": "/wiki/sources/shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j/"
         }
       ],
       "updated": "2026-09-08",

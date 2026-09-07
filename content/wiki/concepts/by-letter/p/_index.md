@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6658
+wiki_total_pages: 6661
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "PainAndMoralResponsibility"
     title: "Pain And Moral Responsibility"
     url: "/wiki/concepts/painandmoralresponsibility/"
+  - key: "PainOrientation"
+    title: "Pain Orientation / 痛苦观"
+    url: "/wiki/concepts/painorientation/"
   - key: "PainfulMemoryRehearsalRisk"
     title: "Painful Memory Rehearsal Risk / 痛苦记忆反复咀嚼风险"
     url: "/wiki/concepts/painfulmemoryrehearsalrisk/"

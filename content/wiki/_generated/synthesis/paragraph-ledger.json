@@ -580,12 +580,13 @@
       "c9cfc14b34adf74d0fb27e2d54c10a5bddbdd34955b5df371daa272496423cc4",
       "cbbe62c03d8335e2e5dca77db200eb628895d1c17f7e2e8fee61cb7f8f0291ae",
       "5f42ccecf5aba2d7233c6344ba2eaf2864f133e18d0af4d0c92d5bc37ee4d5dc",
-      "d8d7ba16097695a34f30d301f24adcba5812c1f4801c4f85c3ab1b1f88697cb4"
+      "d8d7ba16097695a34f30d301f24adcba5812c1f4801c4f85c3ab1b1f88697cb4",
+      "50c10ede37a5054232536c4055debd33554deb141412a8be7da09db5505c5e9c"
     ],
-    "paragraph_count": 580
+    "paragraph_count": 581
   },
-  "overview_commit": "b924ebf3c67555fa6c3eb94100726a6d8a7bc9f5",
-  "overview_digest": "3752bff96ea8eba56739345b200d7b37e4e0939f06d5a5ca5c195ac6c5f1a0c8",
+  "overview_commit": "702ce9ef14e34f3f57465d52af1da117fc7a52bb",
+  "overview_digest": "e3edccbcecb8bbb411d9b289ce1ce337209f248e4f73257c2efe07048b7cc777",
   "paragraphs": [
     {
       "id": "934678f21fc5dae88ac422035cc7224a0cce38c899ba484c6a245e74426573b7",
@@ -17783,6 +17784,31 @@
         "OverseasCreatorMarketingPlatform",
         "SanWuHuan",
         "no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt"
+      ]
+    },
+    {
+      "id": "50c10ede37a5054232536c4055debd33554deb141412a8be7da09db5505c5e9c",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The latest addition is [[shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j|史蒂夫说468期 - 咨询师回信：独自努力长大的人容易陷入全能自恋的陷阱]], a [[ShiDiFuShuo|史蒂夫说]] public psychology and relationship episode where [[SteveShiDiFuShuoHost|Steve]] connects study-abroad loneliness, creator anxiety, intrusive thoughts, negative life narrative, emotional flashbacks, and solitude. It adds [[OmnipotentSelfBlame]], [[PainOrientation]], and [[EmotionalFlashbackGrounding]], while extending [[ComplexTraumaRecognition]], [[MentalizingProjection]], [[ShameBasedSelfConcept]], [[PainfulMemoryRehearsalRisk]], [[AnxietyDecomposition]], and [[EmotionRegulationToolkit]]. Its core synthesis is that emotion and distress should not be collapsed into defective identity: difficult contexts and old safety responses can make self-blame feel like control, while pain orientation, body-signal awareness, 54321 grounding, and multiple explanations help return pain to a more realistic mix of situation, memory, other people, body, and action. No settled contradiction is recorded; bipolar, OCD-like, anxiety, depression, trauma, stress, and ADHD screening comments remain source-scoped public psychology rather than diagnosis or treatment.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 4,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AnxietyDecomposition",
+        "ComplexTraumaRecognition",
+        "EmotionRegulationToolkit",
+        "EmotionalFlashbackGrounding",
+        "MentalizingProjection",
+        "OmnipotentSelfBlame",
+        "PainOrientation",
+        "PainfulMemoryRehearsalRisk",
+        "ShameBasedSelfConcept",
+        "ShiDiFuShuo",
+        "SteveShiDiFuShuoHost",
+        "shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j"
       ]
     }
   ],

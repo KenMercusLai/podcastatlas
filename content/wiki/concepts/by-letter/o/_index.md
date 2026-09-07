@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6658
+wiki_total_pages: 6661
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "OmenLaunderedPurge"
     title: "Omen-Laundered Purge / 天象包装式清洗"
     url: "/wiki/concepts/omenlaunderedpurge/"
+  - key: "OmnipotentSelfBlame"
+    title: "Omnipotent Self-Blame / 全能自恋式归因"
+    url: "/wiki/concepts/omnipotentselfblame/"
   - key: "OnDeviceFastSlowBrain"
     title: "On Device Fast Slow Brain"
     url: "/wiki/concepts/ondevicefastslowbrain/"

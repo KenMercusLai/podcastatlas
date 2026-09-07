@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 937
+topic_total_pages: 941
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -454,6 +454,9 @@ topic_concepts:
   - key: "EmotionalEnergyExtraction"
     title: "Emotional Energy Extraction / 情绪能量掠夺"
     url: "/wiki/concepts/emotionalenergyextraction/"
+  - key: "EmotionalFlashbackGrounding"
+    title: "Emotional Flashback Grounding / 情绪闪回回到当下"
+    url: "/wiki/concepts/emotionalflashbackgrounding/"
   - key: "EmotionalGranularity"
     title: "Emotional Granularity"
     url: "/wiki/concepts/emotionalgranularity/"
@@ -1027,6 +1030,9 @@ topic_concepts:
   - key: "OlivineCarbonRemoval"
     title: "Olivine Carbon Removal"
     url: "/wiki/concepts/olivinecarbonremoval/"
+  - key: "OmnipotentSelfBlame"
+    title: "Omnipotent Self-Blame / 全能自恋式归因"
+    url: "/wiki/concepts/omnipotentselfblame/"
   - key: "OperationalCarbon"
     title: "Operational Carbon"
     url: "/wiki/concepts/operationalcarbon/"
@@ -1060,6 +1066,9 @@ topic_concepts:
   - key: "OverintellectualizedRelationshipAnalysis"
     title: "Overintellectualized Relationship Analysis / 过度理性化关系分析"
     url: "/wiki/concepts/overintellectualizedrelationshipanalysis/"
+  - key: "PainOrientation"
+    title: "Pain Orientation / 痛苦观"
+    url: "/wiki/concepts/painorientation/"
   - key: "PainfulMemoryRehearsalRisk"
     title: "Painful Memory Rehearsal Risk / 痛苦记忆反复咀嚼风险"
     url: "/wiki/concepts/painfulmemoryrehearsalrisk/"
@@ -2805,6 +2814,9 @@ topic_sources:
   - key: "zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae"
     title: "中年三账户：现金流、肌肉、睡眠"
     url: "/wiki/sources/zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae/"
+  - key: "shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j"
+    title: "史蒂夫说468期 - 咨询师回信：独自努力长大的人容易陷入全能自恋的陷阱"
+    url: "/wiki/sources/shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j/"
   - key: "shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb"
     title: "史蒂夫说469期 - 童立 - 最好的关系是在爱人怀里尽情阳w早x"
     url: "/wiki/sources/shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb/"

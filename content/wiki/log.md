@@ -15948,6 +15948,10 @@ Ingested the 2026-07-25 纵横四海 Mini MBA episode on marketing management as
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-08] ingest | 史蒂夫说468期 - 咨询师回信：独自努力长大的人容易陷入全能自恋的陷阱
+
+Ingested the 2026-07-08 史蒂夫说 counselor-letter episode on study-abroad loneliness, self-media anxiety, intrusive thoughts, negative life narrative, emotional flashbacks, solitude, omnipotent self-blame, and pain orientation. Added source `shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j`; created `OmnipotentSelfBlame`, `PainOrientation`, and `EmotionalFlashbackGrounding`; updated `ShiDiFuShuo`, `SteveShiDiFuShuoHost`, `ComplexTraumaRecognition`, `MentalizingProjection`, `index`, and `log`. No settled contradiction found; psychiatric screening comments and listener-letter interpretations remain source-scoped public psychoeducation rather than diagnosis or treatment.
+
 ## [2026-09-08] ingest | 350-马基雅维利为何认为人民再蠢也比精英可靠？
 
 Ingested the 2026-07-15 独树不成林 short episode on Machiavelli between classical and modern political thought. Added source `350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5`; created `ModernPoliticalWritingPosture`; updated `DushuBuchenglin`, `NiccoloMachiavelli`, `ThePrince`, `DiscoursesOnLivy`, `NonMoralPoliticalAnalysis`, `index`, and `overview`. No settled contradiction found; the title's people-versus-elite claim remains underdeveloped in the available transcript.
@@ -15959,6 +15963,10 @@ Ingested the 2026-07-15 独树不成林 episode on Jonathan Haidt, The Anxious G
 ## [2026-09-08] ingest | #398 一场美国观察漫谈：世界杯红牌、南非白人劳工
 
 Ingested the 2026-07-16 声东击西 episode with Xu Tao and Liu Xiaoqian on Trump's World Cup red-card intervention, American exceptionalism, white South African workers in Mississippi agriculture, selective refugee/immigration policy, white-victimhood narratives, and foreign-reporting distance. Added source `398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7`; created `LiuXiaoqian`, `AmericanExceptionalism`, `SouthAfricanWhiteMigrantLabor`, `SelectiveWhiteRefugeeException`, `WhiteVictimhoodNarrative`, and `EmbeddedForeignReporting`; updated `SouthAfrica`, `Mississippi`, `IdentityPoliticsAsPoliticalSorting`, `SportsPoliticalInterference`, `ShengdongJixi`, `XuTao`, `index`, and `overview`. No settled contradiction found; visa categories, quota figures, wage claims, local pay-disparity allegations, and worker motives remain source-scoped.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-08] lint | Wiki health check
 

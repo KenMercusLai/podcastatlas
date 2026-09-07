@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [史蒂夫说468期 - 咨询师回信：独自努力长大的人容易陷入全能自恋的陷阱](sources/shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j.md) — 史蒂夫说 counselor-letter episode on study-abroad loneliness, creator anxiety, intrusive thoughts, negative narrative, emotional flashbacks, omnipotent self-blame, pain orientation, and grounding.
 - [#396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？](sources/396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a.md) — 声东击西 episode on Brexit ten years later, British post-imperial identity, economic stagnation, social ritual, nationalism, and Global Britain.
 - [350-马基雅维利为何认为人民再蠢也比精英可靠？](sources/350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5.md) — 独树不成林 short episode on Machiavelli between classical and modern political thought, The Prince as modern political writing, and Discourses on Livy as Roman-historical continuity.
 - [351-西方政府禁止青少年使用社交媒体走到哪步了？](sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym.md) — 独树不成林 episode on Jonathan Haidt, youth social-media age bans, Australian age-gating, minimum-information verification, design regulation, and civil-liberties boundaries.
@@ -11400,6 +11401,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Portuguese Maritime Expansion / 葡萄牙海上扩张](concepts/PortugueseMaritimeExpansion.md) — Qualified expansion narrative in which the 1415 conquest of Ceuta becomes the conventional first station.
 - [Anxiety Decomposition / 焦虑拆解](concepts/AnxietyDecomposition.md) — method for turning diffuse anxiety into smaller body, situation, expectation, history, and support components.
 - [Gentle Anxiety Support / 温柔靠近焦虑](concepts/GentleAnxietySupport.md) — relationship posture for approaching anxiety without adding urgency or stimulation.
+- [Omnipotent Self-Blame / 全能自恋式归因](concepts/OmnipotentSelfBlame.md) — attribution pattern where hardship, system pressure, or relational ambiguity becomes total self-causation.
+- [Pain Orientation / 痛苦观](concepts/PainOrientation.md) — personal framework for interpreting unavoidable pain and testing what makes it workable.
+- [Emotional Flashback Grounding / 情绪闪回回到当下](concepts/EmotionalFlashbackGrounding.md) — practice for returning from old danger states through body cues, present safety, sensory grounding, and multiple explanations.
 - [Embodied Anxiety Regulation / 身体化焦虑调节](concepts/EmbodiedAnxietyRegulation.md) — body-first anxiety and safety stabilization through breath, posture, grounding, warmth, contact, muscle relaxation, and arousal interpretation.
 - [Overintellectualized Relationship Analysis / 过度理性化关系分析](concepts/OverintellectualizedRelationshipAnalysis.md) — Pattern where intimacy is handled mainly through concepts, certainty, and language while feeling, body, and lived interaction are underused.
 - [Psychology Concept Self-Punishment / 心理学概念自我压榨](concepts/PsychologyConceptSelfPunishment.md) — Misuse of psychological vocabulary as self-doubt, self-surveillance, or self-attack instead of bounded care.
