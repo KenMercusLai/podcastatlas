@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6655
+wiki_total_pages: 6656
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -827,6 +827,9 @@ wiki_pages:
   - key: "ModernPoetryForChildren"
     title: "Modern Poetry For Children"
     url: "/wiki/concepts/modernpoetryforchildren/"
+  - key: "ModernPoliticalWritingPosture"
+    title: "Modern Political Writing Posture / 现代政治写作姿态"
+    url: "/wiki/concepts/modernpoliticalwritingposture/"
   - key: "ModernPrometheusReading"
     title: "Modern Prometheus Reading / 现代普罗米修斯读法"
     url: "/wiki/concepts/modernprometheusreading/"

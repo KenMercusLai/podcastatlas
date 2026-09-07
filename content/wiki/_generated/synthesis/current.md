@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-08
-as_of_overview_commit: fcb3004a78b14d09c3fe5fa9a67651e76e3c8384
-summary: "The corpus centers grounded judgment: AI, markets, governance, health, culture, psychology, history, and work all need context, trust, boundaries, and proof."
-episode_count: 1992
-source_count: 1992
-paragraph_count: 578
+as_of_overview_commit: 92eebdb1e694ec7d9a7a68be8d440f85af7e94eb
+summary: "The corpus centers grounded judgment: AI, markets, governance, health, culture, psychology, history, and work need context, trust, boundaries, and proof."
+episode_count: 1993
+source_count: 1993
+paragraph_count: 579
 topic_count: 8
 ---
 
@@ -29,14 +29,14 @@ topic_count: 8
 
 ### AI and Technology
 
-AI value depends on workflow integration, data control, verification, distribution, physical infrastructure, safety defaults, and human judgment rather than model capability alone.
+AI value depends on workflow integration, data control, verification, distribution, infrastructure, safety defaults, and human judgment rather than model capability alone.
 
 - [[153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p|Episode 153]] adds a staged AI-industrialization frame: [[AIIndustrializationThreeStages]] treats tokenized model access as infrastructure, [[AgentEntryPoint]] treats the next layer as agent discovery and invocation, and [[ModelCompaniesAsAIInfrastructure]] qualifies [[ModelAsOperatingSystem]] and [[FrontierModelDuopoly]] by separating AI-cloud providers from future native application winners; [[IntelligenceFlywheel]], [[TaskBasedAINativeOrganization]], and [[StrategicGeneration]] make outcome feedback, task-centered work, and contrarian strategy part of AI capability capture. Evidence: [[153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p]], [[ZengMing]], [[AIIndustrializationThreeStages]], [[ModelCompaniesAsAIInfrastructure]], [[AgentEntryPoint]], [[ModelAsOperatingSystem]], [[FrontierModelDuopoly]], [[IntelligenceFlywheel]], [[TaskBasedAINativeOrganization]], [[StrategicGeneration]], [[OpenAI]], [[Anthropic]].
 - [[vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1|Vol. 173]] adds an operational AI-competition layer: [[AIQuotaTrustErosion]], [[ModelRoutingCostControl]], [[GLM53Flash|GLM 5.3 Flash]], [[SelfBuiltAgentWorkflow]], and [[ModelHubAcquisitionRisk]] show users and providers shifting from pure model capability contests toward predictable quotas, cheap-task routing, custom harnesses, and infrastructure control across chips, data centers, and model hubs. Evidence: [[vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1]], [[AIQuotaTrustErosion]], [[ModelRoutingCostControl]], [[GLM53Flash]], [[SelfBuiltAgentWorkflow]], [[ModelHubAcquisitionRisk]], [[FengyanFengyu]].
 
 ### Business and Markets
 
-Markets reward visible demand, distribution, operating capacity, capital discipline, and trust; AI, consumer products, finance, and resource deals still require proof beyond narrative momentum.
+Markets reward visible demand, distribution, operating capacity, capital discipline, and trust; AI, consumer products, finance, and resource deals still need proof beyond narrative momentum.
 
 - [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee|The Bogg Bag episode]] adds that physical consumer-brand recovery can depend on actual use overriding founder despair: [[DefectiveInventoryDemandSignal]] turned black-streaked inventory into customer-pull evidence, while [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], and [[FounderRestartAfterFailure]] show that restart still needed channels, capital, and governance fit before [[BoggBag]] could scale. Evidence: [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee]], [[BoggBag]], [[KimVaccarella]], [[DefectiveInventoryDemandSignal]], [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], [[FounderRestartAfterFailure]], [[HardwareInventoryRisk]], [[InventoryHeavyConsumerBrandFinancing]], [[WholesaleAsMarketing]], [[FastProductValidation]], [[StartupGovernance]], [[ConsumerBrandMoat]].
 - [[trump-drinks-venezuelas-milkshake]] and [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]] now frame Venezuela oil reopening as a market test of capital, technology, legitimacy, and enforceable property rights at once: [[PDVSA]] underinvestment and heavy-oil needs make foreign capacity useful, while [[OilReopeningBacklash]], [[OilConcessionBargaining]], [[OilRevenueDependence]], [[JoseAngelPereira|José Ángel Pereira]]'s Citgo imprisonment, and the source-scoped [[NorthAmericanBlueEnergyPartners]] concession make contract credibility, authority, and executive safety part of the investment case. Evidence: [[trump-drinks-venezuelas-milkshake]], [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]], [[Venezuela]], [[JoseAngelPereira]], [[OilReopeningBacklash]], [[NorthAmericanBlueEnergyPartners]], [[PDVSA]], [[Citgo]], [[Chevron]], [[OilConcessionBargaining]], [[OilRevenueDependence]], [[PoliticalResourceCurse]].
@@ -50,14 +50,14 @@ Culture and media sources show attention, ritual, authorship, narrative form, an
 
 ### Governance and Institutions
 
-Governance depends on procedures, incentives, institutional capacity, evidence, and legitimacy: youth platform policy, elections, AI, surveillance, infrastructure, religion, sport, and historical statecraft all fail when formal authority outruns implementation.
+Governance depends on procedures, incentives, institutional capacity, evidence, legitimacy, and method; formal authority fails when it outruns implementation or bounded judgment.
 
 - [[all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f|AfD's Saxony-Anhalt victory]] turns [[FarRightStateGovernanceTest]] into a government-formation problem rather than a simple breakthrough story: [[AlternativeForGermany|AfD]] reaches 44% and the [[ChristianDemocraticUnionGermany|CDU]] falls to 17%, but [[BundnisSahraWagenknecht|BSW]] leverage, [[UlrichSiegmund]]'s minority-government reluctance, the [[BrandmauerCordonSanitaire|Brandmauer]], and [[SvenSchulze]]'s possible acting-premier continuity make [[GermanCaretakerStalemate]] a live institutional outcome. Evidence: [[all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f]], [[FarRightStateGovernanceTest]], [[AlternativeForGermany]], [[ChristianDemocraticUnionGermany]], [[BundnisSahraWagenknecht]], [[UlrichSiegmund]], [[BrandmauerCordonSanitaire]], [[SvenSchulze]], [[GermanCaretakerStalemate]], [[SaxonyAnhalt]], [[FriedrichMerz]], [[RemigrationPolitics]].
 - [[trump-drinks-venezuelas-milkshake]] and [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]] now make Venezuela oil reopening a resource-sovereignty governance case with both historical and current stakes: [[Venezuela]] may need outside capital to revive [[PDVSA]], but [[OilReopeningBacklash]], [[OilNationalization]], [[OilConcessionBargaining]], [[PoliticalResourceCurse]], [[NorthAmericanBlueEnergyPartners]], and [[MariaCorinaMachado]] show why long, U.S.-linked concession terms can turn economic repair into authority, constitutional, and legitimacy risk. Evidence: [[trump-drinks-venezuelas-milkshake]], [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]], [[Venezuela]], [[PDVSA]], [[OilReopeningBacklash]], [[OilNationalization]], [[OilConcessionBargaining]], [[PoliticalResourceCurse]], [[NorthAmericanBlueEnergyPartners]], [[MariaCorinaMachado]], [[HugoChavez]], [[NicolasMaduro]], [[JoseAngelPereira]].
 
 ### History and Geopolitics
 
-Historical and geopolitical sources explain states, borders, wars, symbols, cities, and institutions through concrete episodes where logistics, legitimacy, memory, and strategic position matter.
+Historical and geopolitical sources explain states, borders, wars, symbols, cities, and institutions through episodes where logistics, legitimacy, memory, and strategic position matter.
 
 - [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone. Evidence: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], [[FixedCampSiegeEngineering]].
 - [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]] adds a Qin-Han branch where [[QinCollapseOverextension]] and [[ChuHanWarDemythologizing]] read empire failure and war outcomes through state capacity, court conflict, coalition structure, logistics, troop quality, cavalry, and source criticism rather than through heroic shorthand. Evidence: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]], [[QinCollapseOverextension]], [[ChuHanWarDemythologizing]], [[EurasianMilitaryTechnologyExchange]], [[ZhangShiping]], [[ZhuluQinHanBook]], [[HanCavalryFormation]].
@@ -78,7 +78,7 @@ Science and health synthesis emphasizes mechanism, measurement, escalation thres
 
 ### Work, Education, and Society
 
-Work, education, care, creator labor, travel, sport, and social institutions depend on routines, incentives, trust, human judgment, and boundary-aware learning rather than formal labels alone.
+Work and education sources treat durable capability as active practice supported by feedback, trust, human judgment, routines, and institutional design rather than fluent outputs alone.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

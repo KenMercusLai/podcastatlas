@@ -18074,6 +18074,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/disciplineovermotivation/"
     },
+    "DiscoursesOnLivy": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "72.君主论：读它是一场危险的冒险 [673440837].md",
+          "key": "72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837",
+          "show": "蜜獾吃书",
+          "title": "72.君主论：读它是一场危险的冒险",
+          "url": "/wiki/sources/72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837/"
+        },
+        {
+          "episode_file": "FqgvBt9nAq3U9DkDAbVCzVW-3-u5 [FqgvBt9nAq3U9DkDAbVCzVW-3-u5].md",
+          "key": "350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5",
+          "show": "独树不成林",
+          "title": "350-马基雅维利为何认为人民再蠢也比精英可靠？",
+          "url": "/wiki/sources/350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/discoursesonlivy/"
+    },
     "DiscoveryLedDemoSprint": {
       "episode_count": 1,
       "show_count": 1,
@@ -19676,6 +19699,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/dulldirtydangerousrobotics/"
+    },
+    "DushuBuchenglin": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
+          "key": "167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja",
+          "show": "起朱楼宴宾客",
+          "title": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林",
+          "url": "/wiki/sources/167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja/"
+        },
+        {
+          "episode_file": "FqgvBt9nAq3U9DkDAbVCzVW-3-u5 [FqgvBt9nAq3U9DkDAbVCzVW-3-u5].md",
+          "key": "350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5",
+          "show": "独树不成林",
+          "title": "350-马基雅维利为何认为人民再蠢也比精英可靠？",
+          "url": "/wiki/sources/350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/dushubuchenglin/"
     },
     "DutchRepublic": {
       "episode_count": 1,
@@ -48922,6 +48968,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/modelsovereignty/"
     },
+    "ModernPoliticalWritingPosture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FqgvBt9nAq3U9DkDAbVCzVW-3-u5 [FqgvBt9nAq3U9DkDAbVCzVW-3-u5].md",
+          "key": "350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5",
+          "show": "独树不成林",
+          "title": "350-马基雅维利为何认为人民再蠢也比精英可靠？",
+          "url": "/wiki/sources/350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/modernpoliticalwritingposture/"
+    },
     "Moderna": {
       "episode_count": 5,
       "show_count": 5,
@@ -50261,6 +50323,43 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/nibbo/"
     },
+    "NiccoloMachiavelli": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "51.厌世？反人类？童话故事？…格列佛游记可深了去了 [632315320].md",
+          "key": "51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320",
+          "show": "蜜獾吃书",
+          "title": "51.厌世？反人类？童话故事？…格列佛游记可深了去了",
+          "url": "/wiki/sources/51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320/"
+        },
+        {
+          "episode_file": "72.君主论：读它是一场危险的冒险 [673440837].md",
+          "key": "72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837",
+          "show": "蜜獾吃书",
+          "title": "72.君主论：读它是一场危险的冒险",
+          "url": "/wiki/sources/72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837/"
+        },
+        {
+          "episode_file": "92.柏拉图上班记：用哲学搞笑职场 [716822350].md",
+          "key": "92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350",
+          "show": "蜜獾吃书",
+          "title": "92.柏拉图上班记：用哲学搞笑职场",
+          "url": "/wiki/sources/92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350/"
+        },
+        {
+          "episode_file": "FqgvBt9nAq3U9DkDAbVCzVW-3-u5 [FqgvBt9nAq3U9DkDAbVCzVW-3-u5].md",
+          "key": "350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5",
+          "show": "独树不成林",
+          "title": "350-马基雅维利为何认为人民再蠢也比精英可靠？",
+          "url": "/wiki/sources/350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/niccolomachiavelli/"
+    },
     "NicheOriginStoryExpansion": {
       "episode_count": 1,
       "show_count": 1,
@@ -50834,6 +50933,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/nonmarketenvironmentalvaluation/"
+    },
+    "NonMoralPoliticalAnalysis": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "72.君主论：读它是一场危险的冒险 [673440837].md",
+          "key": "72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837",
+          "show": "蜜獾吃书",
+          "title": "72.君主论：读它是一场危险的冒险",
+          "url": "/wiki/sources/72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837/"
+        },
+        {
+          "episode_file": "FqgvBt9nAq3U9DkDAbVCzVW-3-u5 [FqgvBt9nAq3U9DkDAbVCzVW-3-u5].md",
+          "key": "350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5",
+          "show": "独树不成林",
+          "title": "350-马基雅维利为何认为人民再蠢也比精英可靠？",
+          "url": "/wiki/sources/350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
     },
     "NonStandardLodgingSearch": {
       "episode_count": 1,
@@ -69151,6 +69273,29 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/theodyssey/"
+    },
+    "ThePrince": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "72.君主论：读它是一场危险的冒险 [673440837].md",
+          "key": "72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837",
+          "show": "蜜獾吃书",
+          "title": "72.君主论：读它是一场危险的冒险",
+          "url": "/wiki/sources/72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837/"
+        },
+        {
+          "episode_file": "FqgvBt9nAq3U9DkDAbVCzVW-3-u5 [FqgvBt9nAq3U9DkDAbVCzVW-3-u5].md",
+          "key": "350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5",
+          "show": "独树不成林",
+          "title": "350-马基雅维利为何认为人民再蠢也比精英可靠？",
+          "url": "/wiki/sources/350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/theprince/"
     },
     "TheRestIsHistory": {
       "episode_count": 24,
