@@ -3342,7 +3342,7 @@
       "earliest_episode_date": "2026-05-26",
       "latest_episode_date": "2026-09-07",
       "latest_episode_file": "8211256494_013318 [8211256494_013318].md",
-      "source_note_count": 3,
+      "source_note_count": 4,
       "topic_matched_source_note_count": 3,
       "topics": [
         {
@@ -3364,7 +3364,7 @@
           "title": "任宁 / Ren Ning",
           "url": "/wiki/entities/renning/",
           "kind": "person",
-          "episode_count": 2
+          "episode_count": 3
         }
       ],
       "start_here_episode_files": [

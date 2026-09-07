@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6621
+wiki_total_pages: 6626
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "IsraeliElection2026"
     title: "Israeli Election 2026"
     url: "/wiki/concepts/israelielection2026/"
+  - key: "ItadakimasuEverydayRitual"
+    title: "Itadakimasu Everyday Ritual / いただきます日常仪式"
+    url: "/wiki/concepts/itadakimasueverydayritual/"
   - key: "IvyLeagueMeritocracy"
     title: "Ivy League Meritocracy"
     url: "/wiki/concepts/ivyleaguemeritocracy/"

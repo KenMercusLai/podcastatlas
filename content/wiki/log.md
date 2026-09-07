@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-07] ingest | Episode 226: 说出口的话，正在塑造你的世界
+
+Ingested the 2026-09-07 迟早更新 crossover with 恰恰小豹 on birdsong playback / 声诱, birdwatching ethics, human extraction from nature, hunting and meal rituals, いただきます, Confucian ritual form, Austin's performative utterances, Trilling/Foucault/Rousseau sincerity context, and saying thanks/apology as a restraint-training ritual. Added source `episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318`; created `QiaQiaXiaoBao`, `JLAustin`, `LionelTrilling`, `BirdsongPlaybackEthics`, `HumanExtractionPosture`, `RitualizedApologyGratitude`, `SpeechActRitual`, and `ItadakimasuEverydayRitual`; updated `RenNing`, `ChizaoGengxin`, `HopeIsTheThingWithFeathersBook`, `index`, and `overview`. No settled contradiction found; the playback ritual is recorded as a philosophical restraint practice, not as permission or a field protocol.
+
 ## [2026-09-07] ingest | 时代症候，与安定此心
 
 Ingested the 2026-09-07 面基 episode with Beijing Anding Hospital psychiatrist Jiang Tao on schizophrenia family caregiving, insight and hospitalization, functional psychiatric diagnosis, psychotherapy and online-scale boundaries, somatization, mental-illness destigmatization, long-term medication, and desire-capacity fit under contemporary anxiety and achievement pressure. Added source `shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql`; created `JiangTaoPsychiatrist`, `BeijingAndingHospital`, `PsychiatricFunctionalDiagnosis`, `SeriousMentalIllnessFamilyCareBoundary`, `MentalIllnessDestigmatization`, `SomatizationAsBodyAlarm`, and `DesireCapacityFit`; updated `index`. No settled contradiction found; the episode remains public psychoeducation and family-perspective discussion rather than individualized diagnosis, medication, hospitalization, psychotherapy, or crisis-intervention guidance.
@@ -15887,6 +15891,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | How Mitochondria Control Your Metabolism | Dr. Jared Rutter
 
 Ingested the 2026-09-07 Huberman Lab episode with Jared Rutter on mitochondria, cell-specific metabolism, pyruvate routing, MPC1/MPC2, lactate as fuel, fuel prioritization, cancer metabolic reprogramming, reactive oxygen species, aging uncertainty, and future diagnostics. Added source `how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664`; created `JaredRutter`, `CellularMetabolismMosaic`, `MitochondrialEnergyAllocation`, `MitochondrialPyruvateCarrier`, `LactateMetabolicShuttle`, `CancerMetabolicReprogramming`, and `ReactiveOxygenSpeciesMetabolicStress`; updated `index`. No settled contradiction found; aging mechanisms, ROS causality, metabolic imaging, breath/scent diagnostics, KRAS and combination cancer therapy, fuel-prioritization, and lactic-acidosis claims remain source-scoped public biomedical education.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

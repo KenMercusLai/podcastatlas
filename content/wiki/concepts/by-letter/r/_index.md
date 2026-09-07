@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6621
+wiki_total_pages: 6626
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -668,6 +668,9 @@ wiki_pages:
   - key: "RitualTourSummonsEntrapment"
     title: "Ritual-Tour Summons Entrapment / 巡游会侯式诱捕"
     url: "/wiki/concepts/ritualtoursummonsentrapment/"
+  - key: "RitualizedApologyGratitude"
+    title: "Ritualized Apology And Gratitude / 仪式化抱歉与感谢"
+    url: "/wiki/concepts/ritualizedapologygratitude/"
   - key: "RitualizedCommandAppointment"
     title: "Ritualized Command Appointment / 仪式化拜将留才"
     url: "/wiki/concepts/ritualizedcommandappointment/"

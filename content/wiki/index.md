@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [时代症候，与安定此心](sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql.md) — 面基 episode with psychiatrist Jiang Tao on schizophrenia family caregiving, psychiatric diagnosis by function, somatization, mental-illness stigma, psychotherapy boundaries, and desire-capacity fit under contemporary anxiety.
+- [Episode 226: 说出口的话，正在塑造你的世界](sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318.md) — 迟早更新 crossover with 恰恰小豹 on birdsong playback ethics, human extraction from nature, ritualized apology, いただきます, Confucian form, speech acts, sincerity, and words training restraint.
 - [Episode 228: 所以，奥德赛](sources/episode-228-suoyi-aodesai-8211241331-711602.md) — 迟早更新 episode connecting the Beatles' "Because", Luo Dayou's 《所以》, Homer/Nolan's Odyssey, Earthrise, Whole Earth Catalog, AI, poetic causality, and responsibility after expanded technical power.
 - [Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘](sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw.md) — 不懂球 episode with Li Junrong on Hong Kong football professionalization, the Seiko dynasty, foreign-player escalation, commercial-team membership, and owner-control governance.
 - [How Mitochondria Control Your Metabolism | Dr. Jared Rutter](sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664.md) — Huberman Lab episode with Jared Rutter on mitochondria, cell-specific metabolism, pyruvate routing, MPC1/MPC2, lactate as fuel, cancer metabolic reprogramming, ROS stress, and biomedical uncertainty boundaries.
@@ -2048,6 +2049,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Lanier](entities/MarkLanier.md) — Product-liability lawyer named in the social-media litigation discussion around design-defect strategy.
 - [UNICEF](entities/UnitedNationsChildrenFund.md) — Child-focused UN institution cited for the argument that parents alone cannot police opaque social-media platforms and algorithms.
 - [迟早更新 / Chizao Gengxin](entities/ChizaoGengxin.md) — Essayistic podcast represented by episodes on carrier-bag narrative, embodied reading, AI-era association, music, classics, and technology responsibility.
+- [恰恰小豹 / Qia Qia Xiao Bao](entities/QiaQiaXiaoBao.md) — Birdwatching podcast represented through a 迟早更新 crossover on birdsong playback, field ethics, ritual speech, and observer responsibility.
+- [J. L. Austin / 奥斯丁](entities/JLAustin.md) — Language philosopher used by Episode 226 to explain performative utterances, speech-act ritual, and apology or promise as action.
+- [Lionel Trilling / 莱昂内尔·特里林](entities/LionelTrilling.md) — Literary critic used by Episode 226 to historicize sincerity and qualify the dismissal of ritual speech as fake.
 - [罗大佑 / Luo Dayou](entities/LuoDayou.md) — Songwriter represented through 《所以》 as a mature response to "Because" and a meditation on AI-era consequence.
 - [The Beatles / 披头士](entities/TheBeatles.md) — Band represented through "Because" as the earlier song in Episode 228's because/so poetic-causality comparison.
 - ["Because" / Beatles Song](entities/BecauseSong.md) — Beatles song read as using a logical connective poetically to connect world, wind, sky, love, and feeling.
@@ -15478,6 +15482,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Crab Cultural Symbolism](concepts/CrabCulturalSymbolism.md) — Frame for how crabs become delicacy, pest, monster, literary object, proverb, ethical problem, and folk-story actor.
 - [Animal Moral Projection](concepts/AnimalMoralProjection.md) — Pattern where humans read animal bodies and behavior as moral lessons, insults, defenses, or social commentary.
 - [Eating And Killing Moral Ambivalence](concepts/EatingAndKillingMoralAmbivalence.md) — Tension between culinary pleasure and awareness of animal killing, grounded by Huang Tingjian's crab poems and Buddhist hesitation.
+- [Birdsong Playback Ethics / 鸣声回放伦理](concepts/BirdsongPlaybackEthics.md) — Birdwatching ethics frame separating the conduct rule from post-action self-accounting and treating ritualized apology as restraint rather than permission.
+- [Human Extraction Posture / 人向自然索取的姿态](concepts/HumanExtractionPosture.md) — Ethical frame for acknowledging everyday taking from nature without treating acknowledgment as compensation.
+- [Ritualized Apology And Gratitude / 仪式化抱歉与感谢](concepts/RitualizedApologyGratitude.md) — Small speech practice of thanking and apologizing after disturbance so the contradiction remains visible and can train later restraint.
+- [Speech Act Ritual / 言语行为仪式](concepts/SpeechActRitual.md) — Language-ritual frame where words matter through what they perform, bind, and train, not only through inner sincerity.
+- [Itadakimasu Everyday Ritual / いただきます日常仪式](concepts/ItadakimasuEverydayRitual.md) — Everyday meal phrase used by Episode 226 to show how repeated speech can preserve attention to food, life, labor, and receiving.
 - [New Wave Science Fiction / 科幻新浪潮](concepts/ScienceFictionNewWave.md) — Literary-history frame for Zelazny's experimental but still humanistic science-fiction position.
 - [Mythic Science Fiction Style](concepts/MythicScienceFictionStyle.md) — Zelazny-style fusion of speculative premises with myth, scripture, poetry, art, and epic emotional scale.
 - [Robot-Human Boundary](concepts/RobotHumanBoundary.md) — Question of how machines become person-like and people become machine-like through body, trauma, upload, and agency.

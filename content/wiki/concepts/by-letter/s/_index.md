@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6621
+wiki_total_pages: 6626
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1043,6 +1043,9 @@ wiki_pages:
   - key: "SpeculativeBubblePsychology"
     title: "Speculative Bubble Psychology"
     url: "/wiki/concepts/speculativebubblepsychology/"
+  - key: "SpeechActRitual"
+    title: "Speech Act Ritual / 言语行为仪式"
+    url: "/wiki/concepts/speechactritual/"
   - key: "SpeechAsMoralDiagnostic"
     title: "Speech As Moral Diagnostic / 言语作为德行信号"
     url: "/wiki/concepts/speechasmoraldiagnostic/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9235
+wiki_total_pages: 9238
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "LionelMessi"
     title: "Lionel Messi"
     url: "/wiki/entities/lionelmessi/"
+  - key: "LionelTrilling"
+    title: "Lionel Trilling / 莱昂内尔·特里林"
+    url: "/wiki/entities/lioneltrilling/"
   - key: "LisaCook"
     title: "Lisa Cook"
     url: "/wiki/entities/lisacook/"
