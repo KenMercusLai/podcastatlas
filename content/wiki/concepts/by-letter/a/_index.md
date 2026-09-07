@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6661
+wiki_total_pages: 6664
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -719,6 +719,9 @@ wiki_pages:
   - key: "AIDubbing"
     title: "AI Dubbing"
     url: "/wiki/concepts/aidubbing/"
+  - key: "AIEcommerceInfringementGovernance"
+    title: "AI E-commerce Infringement Governance / AI电商侵权治理"
+    url: "/wiki/concepts/aiecommerceinfringementgovernance/"
   - key: "AIEconomicDiffusion"
     title: "AI Economic Diffusion"
     url: "/wiki/concepts/aieconomicdiffusion/"

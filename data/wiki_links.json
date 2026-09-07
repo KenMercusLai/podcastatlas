@@ -1891,6 +1891,10 @@
     "title": "AI Dubbing",
     "url": "/wiki/concepts/aidubbing/"
   },
+  "AIEcommerceInfringementGovernance": {
+    "title": "AI E-commerce Infringement Governance / AI电商侵权治理",
+    "url": "/wiki/concepts/aiecommerceinfringementgovernance/"
+  },
   "AIEconomicDiffusion": {
     "title": "AI Economic Diffusion",
     "url": "/wiki/concepts/aieconomicdiffusion/"
@@ -16663,6 +16667,10 @@
     "title": "Douyin",
     "url": "/wiki/entities/douyin/"
   },
+  "DouyinEcommerce": {
+    "title": "Douyin E-commerce / 抖音电商",
+    "url": "/wiki/entities/douyinecommerce/"
+  },
   "DouyinLite": {
     "title": "Douyin Lite",
     "url": "/wiki/entities/douyinlite/"
@@ -29542,6 +29550,10 @@
   "JiatingGongyeshe": {
     "title": "家庭工业社",
     "url": "/wiki/entities/jiatinggongyeshe/"
+  },
+  "JiaxuDouyinEcommerce": {
+    "title": "Jiaxu / 嘉旭 (Douyin E-commerce)",
+    "url": "/wiki/entities/jiaxudouyinecommerce/"
   },
   "JidduKrishnamurti": {
     "title": "Jiddu Krishnamurti / 克里希那穆提",
@@ -43235,6 +43247,10 @@
     "title": "Platform Antitrust",
     "url": "/wiki/concepts/platformantitrust/"
   },
+  "PlatformAuthorizationBoundary": {
+    "title": "Platform Authorization Boundary / 平台授权边界",
+    "url": "/wiki/concepts/platformauthorizationboundary/"
+  },
   "PlatformCanteen": {
     "title": "Platform Canteen / 平台食堂",
     "url": "/wiki/concepts/platformcanteen/"
@@ -43298,6 +43314,10 @@
   "PlatformPipelineBiotechStrategy": {
     "title": "Platform-Pipeline Biotech Strategy",
     "url": "/wiki/concepts/platformpipelinebiotechstrategy/"
+  },
+  "PlatformRightsPreReview": {
+    "title": "Platform Rights Pre-Review / 平台权利前置审查",
+    "url": "/wiki/concepts/platformrightsprereview/"
   },
   "PlatformSafetyABTesting": {
     "title": "Platform Safety A/B Testing",
@@ -64719,6 +64739,10 @@
     "title": "朱鲔 / Zhu Wei (Eastern Han)",
     "url": "/wiki/entities/zhuweieasternhan/"
   },
+  "ZhuWeiLegalScholar": {
+    "title": "Zhu Wei / 朱威 (legal scholar)",
+    "url": "/wiki/entities/zhuweilegalscholar/"
+  },
   "ZhuXi": {
     "title": "朱熹 / Zhu Xi",
     "url": "/wiki/entities/zhuxi/"
@@ -66922,6 +66946,10 @@
   "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666": {
     "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
     "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+  },
+  "no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d": {
+    "title": "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？",
+    "url": "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"
   },
   "no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj": {
     "title": "No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？",

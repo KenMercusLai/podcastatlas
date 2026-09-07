@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？](sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d.md) — 三五环 episode on AI-enabled celebrity voice and likeness infringement in Douyin ecommerce, platform pre-review, authorization boundaries, false positives, and consumer confusion.
 - [史蒂夫说468期 - 咨询师回信：独自努力长大的人容易陷入全能自恋的陷阱](sources/shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j.md) — 史蒂夫说 counselor-letter episode on study-abroad loneliness, creator anxiety, intrusive thoughts, negative narrative, emotional flashbacks, omnipotent self-blame, pain orientation, and grounding.
 - [#396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？](sources/396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a.md) — 声东击西 episode on Brexit ten years later, British post-imperial identity, economic stagnation, social ritual, nationalism, and Global Britain.
 - [350-马基雅维利为何认为人民再蠢也比精英可靠？](sources/350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5.md) — 独树不成林 short episode on Machiavelli between classical and modern political thought, The Prince as modern political writing, and Discourses on Livy as Roman-historical continuity.
@@ -2003,6 +2004,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Douyin E-commerce / 抖音电商](entities/DouyinEcommerce.md) — Douyin commerce layer discussed through AI-enabled celebrity voice and likeness infringement, rights pre-review, product/account/live-room confusion, and authorization maintenance.
+- [Zhu Wei / 朱威 (legal scholar)](entities/ZhuWeiLegalScholar.md) — Communication-law and internet-law scholar explaining rights, protected interests, consumer confusion, and authorization boundaries in the Douyin ecommerce infringement episode.
+- [Jiaxu / 嘉旭 (Douyin E-commerce)](entities/JiaxuDouyinEcommerce.md) — Douyin ecommerce platform operator explaining AI-enabled infringement detection, reporting, appeals, authorization records, and false-positive risks.
 - [Jonathan Haidt](entities/JonathanHaidt.md) — Psychologist and public advocate whose The Anxious Generation frames the youth social-media restriction branch.
 - [The Anxious Generation](entities/TheAnxiousGeneration.md) — Jonathan Haidt book used to connect teen mental health, smartphones, social media, childhood independence, and policy restrictions.
 - [小齐 / Xiao Qi (Stand-Up Comedian)](entities/XiaoQiStandup.md) — Stand-up comedian whose self-mocking low-education posture anchors the episode's implicit status-performance case.
@@ -11265,6 +11269,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [AI E-commerce Infringement Governance / AI电商侵权治理](concepts/AIEcommerceInfringementGovernance.md) — Platform practice of detecting and adjudicating AI-assisted voice, face, name, trademark, account, live-room, and product-page misuse in commerce.
+- [Platform Rights Pre-Review / 平台权利前置审查](concepts/PlatformRightsPreReview.md) — Upstream rights-protection mechanism using rights-owner data and automated detection before content, accounts, products, or live-selling reaches consumers.
+- [Platform Authorization Boundary / 平台授权边界](concepts/PlatformAuthorizationBoundary.md) — Scope limit for using another party's portrait, voice, name, trademark, content, or synthetic likeness across platform, time, category, account, and use mode.
 - [Post-Imperial Identity Gap / 后帝国身份落差](concepts/PostImperialIdentityGap.md) — mismatch between inherited imperial identity and present material or institutional capacity.
 - [Ritualized Social Boundary / 仪式化社会边界](concepts/RitualizedSocialBoundary.md) — formal rituals, dress, accent, and etiquette as visible markers of belonging and distinction.
 - [Modern Political Writing Posture / 现代政治写作姿态](concepts/ModernPoliticalWritingPosture.md) — Machiavelli-focused frame where political thought begins from live power, state, and action problems rather than inherited moral or theological derivation.

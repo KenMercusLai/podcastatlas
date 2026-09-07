@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2801
+topic_total_pages: 2805
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -358,6 +358,9 @@ topic_concepts:
   - key: "AIDubbing"
     title: "AI Dubbing"
     url: "/wiki/concepts/aidubbing/"
+  - key: "AIEcommerceInfringementGovernance"
+    title: "AI E-commerce Infringement Governance / AI电商侵权治理"
+    url: "/wiki/concepts/aiecommerceinfringementgovernance/"
   - key: "AIEconomicDiffusion"
     title: "AI Economic Diffusion"
     url: "/wiki/concepts/aieconomicdiffusion/"
@@ -2962,9 +2965,15 @@ topic_concepts:
   - key: "PlanetarySelfAwareness"
     title: "Planetary Self-Awareness"
     url: "/wiki/concepts/planetaryselfawareness/"
+  - key: "PlatformAuthorizationBoundary"
+    title: "Platform Authorization Boundary / 平台授权边界"
+    url: "/wiki/concepts/platformauthorizationboundary/"
   - key: "PlatformDataRegulation"
     title: "Platform Data Regulation"
     url: "/wiki/concepts/platformdataregulation/"
+  - key: "PlatformRightsPreReview"
+    title: "Platform Rights Pre-Review / 平台权利前置审查"
+    url: "/wiki/concepts/platformrightsprereview/"
   - key: "PodcastAuthenticityBoundary"
     title: "Podcast Authenticity Boundary"
     url: "/wiki/concepts/podcastauthenticityboundary/"
@@ -7953,6 +7962,9 @@ topic_sources:
   - key: "no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437"
     title: "No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27"
     url: "/wiki/sources/no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437/"
+  - key: "no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d"
+    title: "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？"
+    url: "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"
   - key: "no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj"
     title: "No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？"
     url: "/wiki/sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj/"

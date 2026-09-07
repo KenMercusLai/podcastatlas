@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6661
+wiki_total_pages: 6664
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -557,6 +557,9 @@ wiki_pages:
   - key: "PlatformAntitrust"
     title: "Platform Antitrust"
     url: "/wiki/concepts/platformantitrust/"
+  - key: "PlatformAuthorizationBoundary"
+    title: "Platform Authorization Boundary / 平台授权边界"
+    url: "/wiki/concepts/platformauthorizationboundary/"
   - key: "PlatformCanteen"
     title: "Platform Canteen / 平台食堂"
     url: "/wiki/concepts/platformcanteen/"
@@ -599,6 +602,9 @@ wiki_pages:
   - key: "PlatformOwnershipTransition"
     title: "Platform Ownership Transition"
     url: "/wiki/concepts/platformownershiptransition/"
+  - key: "PlatformRightsPreReview"
+    title: "Platform Rights Pre-Review / 平台权利前置审查"
+    url: "/wiki/concepts/platformrightsprereview/"
   - key: "PlatformSafetyABTesting"
     title: "Platform Safety A/B Testing"
     url: "/wiki/concepts/platformsafetyabtesting/"

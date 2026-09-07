@@ -1475,6 +1475,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/aidrivencreatormarketing/"
     },
+    "AIEcommerceInfringementGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOIo1WAWwtsASyzh1d [GKwRIJIOIo1WAWwtsASyzh1d].md",
+          "key": "no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d",
+          "show": "三五环",
+          "title": "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？",
+          "url": "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/aiecommerceinfringementgovernance/"
+    },
     "AIEmpireSovereigntyRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -2283,6 +2299,43 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/aiproteindesign/"
     },
+    "AIPublicLikenessGeneration": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能 [lqprBTGi7PKCh3hJ3wXa1Q8WoVox].md",
+          "key": "ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox",
+          "show": "Talk三联",
+          "title": "EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能",
+          "url": "/wiki/sources/ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox/"
+        },
+        {
+          "episode_file": "E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由 [b2be7093-3366-4ee2-8a7a-625f06206ae5].md",
+          "key": "e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5",
+          "show": "硅谷101",
+          "title": "E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由",
+          "url": "/wiki/sources/e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5/"
+        },
+        {
+          "episode_file": "tech_20260710_TECH_pod_128 [tech_20260710_TECH_pod_128].md",
+          "key": "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",
+          "url": "/wiki/sources/tech-20260710-tech-pod-128-tech-20260710-tech-pod-128/"
+        },
+        {
+          "episode_file": "GKwRIJIOIo1WAWwtsASyzh1d [GKwRIJIOIo1WAWwtsASyzh1d].md",
+          "key": "no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d",
+          "show": "三五环",
+          "title": "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？",
+          "url": "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/aipubliclikenessgeneration/"
+    },
     "AIPublicOwnershipProposal": {
       "episode_count": 2,
       "show_count": 2,
@@ -2537,9 +2590,9 @@
       "url": "/wiki/concepts/aiuniversitycampusreframing/"
     },
     "AIVoiceCloningRights": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -2561,9 +2614,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        },
+        {
+          "episode_file": "GKwRIJIOIo1WAWwtsASyzh1d [GKwRIJIOIo1WAWwtsASyzh1d].md",
+          "key": "no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d",
+          "show": "三五环",
+          "title": "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？",
+          "url": "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/aivoicecloningrights/"
     },
     "AIWealthHousingScarcity": {
@@ -2906,9 +2966,9 @@
       "url": "/wiki/concepts/actoraiperformanceboundary/"
     },
     "ActorLikenessAuthorization": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
@@ -2916,9 +2976,16 @@
           "show": "三五环",
           "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
           "url": "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
+        },
+        {
+          "episode_file": "GKwRIJIOIo1WAWwtsASyzh1d [GKwRIJIOIo1WAWwtsASyzh1d].md",
+          "key": "no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d",
+          "show": "三五环",
+          "title": "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？",
+          "url": "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/actorlikenessauthorization/"
     },
     "ActusOncology": {
@@ -19075,6 +19142,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/doubaoworkpartner/"
+    },
+    "DouyinEcommerce": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOIo1WAWwtsASyzh1d [GKwRIJIOIo1WAWwtsASyzh1d].md",
+          "key": "no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d",
+          "show": "三五环",
+          "title": "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？",
+          "url": "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/douyinecommerce/"
     },
     "DreamFaceTechnologies": {
       "episode_count": 1,
@@ -37634,6 +37717,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/jiaozhicommandery/"
     },
+    "JiaxuDouyinEcommerce": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOIo1WAWwtsASyzh1d [GKwRIJIOIo1WAWwtsASyzh1d].md",
+          "key": "no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d",
+          "show": "三五环",
+          "title": "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？",
+          "url": "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/jiaxudouyinecommerce/"
+    },
     "JidduKrishnamurti": {
       "episode_count": 1,
       "show_count": 1,
@@ -42222,9 +42321,9 @@
       "url": "/wiki/entities/liufanglatehan/"
     },
     "LiuFei": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -42267,6 +42366,13 @@
           "show": "三五环",
           "title": "No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？",
           "url": "/wiki/sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj/"
+        },
+        {
+          "episode_file": "GKwRIJIOIo1WAWwtsASyzh1d [GKwRIJIOIo1WAWwtsASyzh1d].md",
+          "key": "no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d",
+          "show": "三五环",
+          "title": "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？",
+          "url": "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"
         }
       ],
       "updated": "2026-09-08",
@@ -54935,6 +55041,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/platformantitrust/"
     },
+    "PlatformAuthorizationBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOIo1WAWwtsASyzh1d [GKwRIJIOIo1WAWwtsASyzh1d].md",
+          "key": "no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d",
+          "show": "三五环",
+          "title": "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？",
+          "url": "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/platformauthorizationboundary/"
+    },
     "PlatformCommunityGovernance": {
       "episode_count": 4,
       "show_count": 3,
@@ -54971,6 +55093,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/platformcommunitygovernance/"
+    },
+    "PlatformRightsPreReview": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOIo1WAWwtsASyzh1d [GKwRIJIOIo1WAWwtsASyzh1d].md",
+          "key": "no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d",
+          "show": "三五环",
+          "title": "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？",
+          "url": "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/platformrightsprereview/"
     },
     "Plato": {
       "episode_count": 4,
@@ -61691,9 +61829,9 @@
       "url": "/wiki/entities/samueljohnson/"
     },
     "SanWuHuan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -61736,6 +61874,13 @@
           "show": "三五环",
           "title": "No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？",
           "url": "/wiki/sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj/"
+        },
+        {
+          "episode_file": "GKwRIJIOIo1WAWwtsASyzh1d [GKwRIJIOIo1WAWwtsASyzh1d].md",
+          "key": "no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d",
+          "show": "三五环",
+          "title": "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？",
+          "url": "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"
         }
       ],
       "updated": "2026-09-08",
@@ -82748,6 +82893,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/zhuweieasternhan/"
+    },
+    "ZhuWeiLegalScholar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOIo1WAWwtsASyzh1d [GKwRIJIOIo1WAWwtsASyzh1d].md",
+          "key": "no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d",
+          "show": "三五环",
+          "title": "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？",
+          "url": "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/zhuweilegalscholar/"
     },
     "ZhuXiaodongYunsheng": {
       "episode_count": 1,

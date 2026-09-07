@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2238
+topic_total_pages: 2239
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -5606,6 +5606,9 @@ topic_entities:
   - key: "Zeiss"
     title: "Zeiss"
     url: "/wiki/entities/zeiss/"
+  - key: "ZhuWeiLegalScholar"
+    title: "Zhu Wei / 朱威 (legal scholar)"
+    url: "/wiki/entities/zhuweilegalscholar/"
   - key: "ZohranMamdani"
     title: "Zohran Mamdani"
     url: "/wiki/entities/zohranmamdani/"

@@ -9,6 +9,7 @@ sources:
   - no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi
   - no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt
   - no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj
+  - no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d
 last_updated: 2026-09-08
 knowledge_schema: synthesis-v1
 ---
@@ -27,13 +28,15 @@ The [[AHACreator|AHA Creator]] episode adds Liu's founder-operator questioning a
 
 The [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]] episode adds Liu's AI-native content and original-IP questioning. He draws [[HanqingUrey|汗青]] from [[AITalk|AI Talk]]'s viral public-figure dialogue experiments into the harder questions of why an AI idol can move people, when realism becomes collapse risk, and why personality, narrative, and judgment remain scarce after model output becomes abundant.
 
+The [[DouyinEcommerce|抖音电商]] infringement episode adds Liu's platform-governance questioning around AI impersonation. He uses concrete live-room, celebrity voice, product-detail, account, and authorization examples to pull [[ZhuWeiLegalScholar|朱威]] and [[JiaxuDouyinEcommerce|嘉旭]] into the practical boundary between AI as a commerce tool and AI as rights misuse or consumer deception.
+
 ## Key Characteristics
 - He connects internet product experience with long-form podcast interviewing.
 - He is associated with both [[Banlatte|半拿铁]] and [[SanWuHuan|三五环]] in the wiki's source set.
 - He frames podcasts as relationship and trust media rather than only information delivery.
 - He uses product and workflow questions to make AI's effect on creators concrete.
 - He often turns technical change back toward human purpose, audience expectation, and creator agency.
-- He uses practitioner interviews to compare AI tool capability with business translation, platform behavior, and creator intention.
+- He can translate AI-enabled rights infringement into user-facing questions about consumer trust, authorization, and platform responsibility.
 - He can translate platform safety, AI commercialization, virtual-idol risk, and original-IP work into user-facing questions about trust, workflow, interaction, and responsibility.
 
 ## Evidence
@@ -45,6 +48,7 @@ The [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]] episode adds Liu's AI-native cont
 - Platform-safety interviewing - [[no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi]] has Liu interview [[XuXiaonan|徐晓楠 / 曲晓楠]] about [[Didi]]'s ride-hailing safety boundary, AI warning funnel, false alarms, privacy controls, and passenger self-protection.
 - Founder-workflow interviewing - [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]] has Liu interview [[KateAHA|Kate]] about [[AHACreator|AHA Creator]], AI-driven creator matching, AI employee interfaces, customer approval, and the difference between overseas native creative and domestic channel-style placement.
 - AI-native IP interviewing - [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]] has Liu interview [[HanqingUrey|汗青]] about [[AITalk|AI Talk]], [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]], [[AINativeVirtualIdol]], personality, model workflow, and AI character interaction risk.
+- AI commerce-rights interviewing - [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]] has Liu interview [[ZhuWeiLegalScholar|朱威]] and [[JiaxuDouyinEcommerce|嘉旭]] about [[DouyinEcommerce|抖音电商]], AI voice and likeness infringement, authorization records, pre-review, appeal, and consumer confusion.
 
 ## Qualifications
 The wiki profile is source-limited to podcast appearances and does not attempt a full biography. Liu Fei is distinct from [[LiuFeiQiKing|刘肥]], the historical Qi king page with a semantic suffix.
@@ -54,6 +58,7 @@ The wiki profile is source-limited to podcast appearances and does not attempt a
 - Added the [[Didi]] safety episode, broadening Liu's 三五环 profile from AI creator work into platform safety operations.
 - Added the AHA Creator episode, extending Liu's profile into AI commercialization and user-site workflow questioning.
 - Added the Hanqing/Yuri episode, extending Liu's profile into AI-native virtual idols, original IP, and personality-system risk.
+- Added the Douyin ecommerce episode, extending Liu's profile into AI-enabled rights governance and platform authorization boundaries.
 
 ## Relationships
 - [[Banlatte|半拿铁]] - cohost and business-storytelling context.
@@ -63,6 +68,9 @@ The wiki profile is source-limited to podcast appearances and does not attempt a
 - [[Chouxiangzai|抽象仔 / 抽象宅]] - guest in Liu's AI-video creator and commercialization interview.
 - [[HanqingUrey|汗青]] - guest in Liu's AI-native virtual-idol interview.
 - [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]] - virtual-idol case discussed in Liu's interview.
+- [[ZhuWeiLegalScholar|朱威]] - guest in Liu's AI ecommerce infringement interview.
+- [[JiaxuDouyinEcommerce|嘉旭]] - guest in Liu's Douyin ecommerce infringement interview.
+- [[DouyinEcommerce|抖音电商]] - platform case in Liu's rights-governance interview.
 - [[XuXiaonan|徐晓楠 / 曲晓楠]] - guest in Liu's ride-hailing safety interview.
 - [[KateAHA|Kate]] - guest in Liu's AI-driven overseas creator-marketing interview.
 - [[AHACreator|AHA Creator]] - company case in Liu's founder-workflow interview.
@@ -72,3 +80,4 @@ The wiki profile is source-limited to podcast appearances and does not attempt a
 - [[RideHailingSafetyOperations]] - platform operations concept Liu helps unpack in the Didi episode.
 - [[AIDrivenCreatorMarketing]] - creator-marketing workflow concept Liu helps unpack in the AHA Creator episode.
 - [[AINativeVirtualIdol]] - AI-native character IP concept Liu helps unpack in the Hanqing episode.
+- [[AIEcommerceInfringementGovernance]] - commerce rights-governance concept Liu helps unpack in the Douyin ecommerce episode.

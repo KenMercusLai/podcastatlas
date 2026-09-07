@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9258
+wiki_total_pages: 9261
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "ZhuJiangming"
     title: "Zhu Jiangming / 朱江明"
     url: "/wiki/entities/zhujiangming/"
+  - key: "ZhuWeiLegalScholar"
+    title: "Zhu Wei / 朱威 (legal scholar)"
+    url: "/wiki/entities/zhuweilegalscholar/"
   - key: "ZhuXiaodongYunsheng"
     title: "Zhu Xiaodong / 竺晓冬 (Yunsheng)"
     url: "/wiki/entities/zhuxiaodongyunsheng/"

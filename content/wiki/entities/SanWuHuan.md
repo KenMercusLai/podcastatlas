@@ -9,6 +9,7 @@ sources:
   - no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi
   - no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt
   - no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj
+  - no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d
 last_updated: 2026-09-08
 knowledge_schema: synthesis-v1
 ---
@@ -29,13 +30,15 @@ The [[AHACreator|AHA Creator]] episode adds a founder-operator AI commercializat
 
 The [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]] episode adds an AI-native IP and virtual-idol branch through [[HanqingUrey|汗青]]. It keeps the show's pattern of concrete practitioner inquiry but shifts the object from short-film or service workflow into character systems: AI content becomes durable only when personality, music, image, narrative, rights boundaries, and interaction risk are designed together.
 
+The Douyin ecommerce infringement episode adds a platform-rights governance branch through [[ZhuWeiLegalScholar|朱威]] and [[JiaxuDouyinEcommerce|嘉旭]]. Here 三五环 uses the same practitioner-interview format to turn AI celebrity voice and likeness misuse into concrete questions about [[DouyinEcommerce|抖音电商]], [[AIEcommerceInfringementGovernance]], [[PlatformRightsPreReview]], authorization records, false positives, and consumer confusion.
+
 ## Key Characteristics
 - It is associated with [[LiuFei|刘飞]] as a host/creator context.
 - It can serve as a practitioner-interview venue for AI, creativity, and product work.
 - Its Wu Hankun episode treats AI through workflow detail rather than only capability hype.
 - Its Chouxiangzai episode treats AI video through internet expression, virality, sincerity, and commercialization rather than only tool novelty.
 - Its Hanqing episode treats AI-native virtual idols through original IP, personality systems, music/video workflow, and interaction risk.
-- It connects podcast-form trust to creator self-reflection and industry anxiety.
+- Its Douyin ecommerce episode treats AI-enabled infringement as a platform operations, rights, authorization, and consumer-confusion problem.
 - It can use former internet-company and founder-operator context to explain platform safety, governance, customer workflow, and user responsibility.
 
 ## Evidence
@@ -45,8 +48,9 @@ The [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]] episode adds an AI-native IP and 
 - Platform-operations interview - [[no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi]] is a 三五环 episode with Liu interviewing [[XuXiaonan|徐晓楠 / 曲晓楠]] on [[Didi]] ride-hailing safety operations, AI warning, false alarms, privacy, drunk passengers, minors, and offline rides.
 - Founder-operator interview - [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]] is a 三五环 episode with Liu interviewing [[KateAHA|Kate]] on [[AHACreator|AHA Creator]], [[AIDrivenCreatorMarketing]], AI employee workflows, and overseas creator marketing.
 - AI-native IP interview - [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]] is a 三五环 episode with Liu interviewing [[HanqingUrey|汗青]] on [[AITalk|AI Talk]], [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]], [[AINativeVirtualIdol]], and [[AICharacterPersonalitySystem]].
+- Platform-rights governance interview - [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]] is a 三五环 episode with Liu interviewing [[ZhuWeiLegalScholar|朱威]] and [[JiaxuDouyinEcommerce|嘉旭]] on [[DouyinEcommerce|抖音电商]], AI-enabled likeness and voice infringement, pre-review, authorization, and consumer confusion.
 - Workflow focus - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] uses concrete production details around [[PinkParadox|《粉色悖论》]] and [[PopulationAnomaly|《人口异常》]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]] uses concrete account, team, client, and short-drama workflow examples, and [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]] uses concrete model-orchestration, personality, music, image, and dialogue-risk examples.
-- Product-cultural bridge - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]], [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]], [[no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi]], and [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]] connect tools, product thinking, platform behavior, human judgment, user responsibility, customer workflow, and original IP.
+- Product-cultural bridge - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]], [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]], [[no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi]], [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]], and [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]] connect tools, product thinking, platform behavior, human judgment, user responsibility, customer workflow, original IP, and rights governance.
 
 ## Qualifications
 The page remains source-limited. It does not claim a complete history, format taxonomy, audience profile, or release schedule for 三五环.
@@ -56,6 +60,7 @@ The page remains source-limited. It does not claim a complete history, format ta
 - Added the Didi safety episode, extending the show profile into platform safety operations and offline-service governance.
 - Added the AHA Creator episode, extending the show profile into AI commercialization through concrete overseas creator-marketing workflow.
 - Added the Hanqing/Yuri episode, extending the show profile into AI-native virtual idols, personality systems, and original IP risk.
+- Added the Douyin ecommerce infringement episode, extending the show profile into AI-enabled commerce rights governance and platform authorization operations.
 
 ## Relationships
 - [[LiuFei|刘飞]] - host associated with the show across the source set.
@@ -63,6 +68,9 @@ The page remains source-limited. It does not claim a complete history, format ta
 - [[Chouxiangzai|抽象仔 / 抽象宅]] - guest who grounds the show's viral AI-video and creator-commercialization branch.
 - [[HanqingUrey|汗青]] - guest who grounds the show's AI-native virtual-idol and original-IP branch.
 - [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]] - virtual-idol case discussed in the show.
+- [[ZhuWeiLegalScholar|朱威]] - legal scholar who grounds the show's AI ecommerce infringement branch.
+- [[JiaxuDouyinEcommerce|嘉旭]] - platform operator who grounds the show's Douyin ecommerce infringement branch.
+- [[DouyinEcommerce|抖音电商]] - commerce platform case discussed in the show's rights-governance branch.
 - [[XuXiaonan|徐晓楠 / 曲晓楠]] - guest who grounds the show's ride-hailing safety operations branch.
 - [[KateAHA|Kate]] - guest who grounds the show's AI-driven creator-marketing branch.
 - [[AHACreator|AHA Creator]] - company case discussed in the show's overseas creator-marketing branch.
@@ -73,3 +81,4 @@ The page remains source-limited. It does not claim a complete history, format ta
 - [[RideHailingSafetyOperations]] - platform safety operations branch surfaced by the Didi episode.
 - [[AIDrivenCreatorMarketing]] - AI commercialization and workflow branch surfaced by the AHA Creator episode.
 - [[AINativeVirtualIdol]] - AI-native character IP branch surfaced by the Hanqing episode.
+- [[AIEcommerceInfringementGovernance]] - AI commerce rights-governance branch surfaced by the Douyin ecommerce episode.
