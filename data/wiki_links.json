@@ -21747,6 +21747,10 @@
     "title": "Futu Securities",
     "url": "/wiki/entities/futusecurities/"
   },
+  "FutureCola": {
+    "title": "非常可乐 / Future Cola",
+    "url": "/wiki/entities/futurecola/"
+  },
   "FutureOfLifeInstitute": {
     "title": "Future of Life Institute",
     "url": "/wiki/entities/futureoflifeinstitute/"
@@ -32822,6 +32826,10 @@
   "LianhengStrategy": {
     "title": "连横 / Lianheng Strategy",
     "url": "/wiki/concepts/lianhengstrategy/"
+  },
+  "LianxiaotiDistribution": {
+    "title": "联销体模式 / Lianxiaoti Distribution",
+    "url": "/wiki/concepts/lianxiaotidistribution/"
   },
   "LiaoJieyuan": {
     "title": "廖杰远",
@@ -44147,6 +44155,10 @@
     "title": "Product Analytics",
     "url": "/wiki/concepts/productanalytics/"
   },
+  "ProductBrandCompanyBrandSeparation": {
+    "title": "Product-Brand / Company-Brand Separation",
+    "url": "/wiki/concepts/productbrandcompanybrandseparation/"
+  },
   "ProductCategoryVelocity": {
     "title": "Product Category Velocity",
     "url": "/wiki/concepts/productcategoryvelocity/"
@@ -48222,6 +48234,10 @@
   "SalesAsLearnableSkill": {
     "title": "Sales As Learnable Skill",
     "url": "/wiki/concepts/salesaslearnableskill/"
+  },
+  "SalesBasedProductionLocalization": {
+    "title": "销地产模式 / Sales-Based Production Localization",
+    "url": "/wiki/concepts/salesbasedproductionlocalization/"
   },
   "SalesEngineerModel": {
     "title": "Sales Engineer Model",
@@ -57719,9 +57735,21 @@
     "title": "Wagyu Premium Branding / 和牛贵价光环",
     "url": "/wiki/concepts/wagyupremiumbranding/"
   },
+  "WahahaADCalciumMilk": {
+    "title": "娃哈哈AD钙奶 / Wahaha AD Calcium Milk",
+    "url": "/wiki/entities/wahahaadcalciummilk/"
+  },
   "WahahaGroup": {
     "title": "娃哈哈 / Wahaha Group",
     "url": "/wiki/entities/wahahagroup/"
+  },
+  "WahahaNutriExpress": {
+    "title": "营养快线 / Wahaha Nutri-Express",
+    "url": "/wiki/entities/wahahanutriexpress/"
+  },
+  "WahahaPureWater": {
+    "title": "娃哈哈纯净水 / Wahaha Pure Water",
+    "url": "/wiki/entities/wahahapurewater/"
   },
   "WaitlistInvitationGrowth": {
     "title": "Waitlist Invitation Growth",
@@ -65854,6 +65882,10 @@
   "featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup": {
     "title": "Featherless AI: When Your Weekend Experiment Makes More Than Your Startup",
     "url": "/wiki/sources/featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup/"
+  },
+  "fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx": {
+    "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",
+    "url": "/wiki/sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx/"
   },
   "ferrari-1": {
     "title": "Ferrari",

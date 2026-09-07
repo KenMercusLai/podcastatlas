@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [风味吃喝：娃哈哈，宗庆后的三次赌局](sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx.md) — 大小电波 episode tracing Wahaha and Zong Qinghou through children's nutrition products, AD钙奶, pure water, 非常可乐, 营养快线, 联销体, 销地产, the Danone dispute, diversification, e-commerce delay, and Zong Fuli succession.
 - [总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的](sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht.md) — 读报teleread fifth-anniversary special on AI in creator workflows, voice-first podcast scripting, authorship, show notes, video podcasting, and correct but expensive creative choices.
 - [Vol.224 阿迪vs耐克：时代错配与 DNA之战](sources/vol-224-a-di-vs-nai-ke-shidai-cuopei-yu-dna-zhi-zhan-gkwriw4oxfnyaum6qwtjej15.md) — 不懂球 episode comparing Adidas and Nike through brand DNA, retro consumer mood, football lifestyle apparel, DTC/channel pressure, Samba saturation, and running-shoe technology momentum.
 - [咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆](sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e.md) — 大小电波 episode with Yu Wenjie on Yunnan coffee sourcing, Mangshi and Dehong origin work, Sarchimor variety fit, processing boundaries, and farmer-income mechanics.
@@ -1982,7 +1983,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [读报teleread / 独报](entities/DuBaoTeleread.md) — Chinese podcast show represented by a fifth-anniversary special on AI, creator workflow, voice-first scripting, podcast form, and long-term creative sustainability.
-- [大小电波](entities/DaxiaoDianbo.md) — Podcast show hosting the Yunnan coffee sourcing conversation with Yu Wenjie.
+- [大小电波](entities/DaxiaoDianbo.md) — Chinese podcast show represented by Yunnan coffee sourcing and Wahaha beverage-business history episodes.
+- [娃哈哈AD钙奶 / Wahaha AD Calcium Milk](entities/WahahaADCalciumMilk.md) — Wahaha children's beverage product tied to calcium/vitamin positioning, school-side channels, and durable childhood product memory.
+- [娃哈哈纯净水 / Wahaha Pure Water](entities/WahahaPureWater.md) — Wahaha bottled-water product marking the company's 1996 transition into high-frequency beverages.
+- [非常可乐 / Future Cola](entities/FutureCola.md) — Wahaha domestic cola product showing lower-tier channel advantage and the limits of channel-led brand longevity.
+- [营养快线 / Wahaha Nutri-Express](entities/WahahaNutriExpress.md) — Wahaha breakfast-positioned beverage used as a peak single-SKU success and rumor-crisis case.
 - [余文杰 / Yu Wenjie](entities/YuWenjie.md) — Babbitt Coffee practitioner grounding the Yunnan coffee episode in sourcing, cupping, and origin fieldwork.
 - [巴比特咖啡 / Babbitt Coffee](entities/BabbittCoffee.md) — Coffee company associated with Yu Wenjie's Yunnan sourcing and Mangshi origin relationship.
 - [芒市 / Mangshi](entities/Mangshi.md) — Yunnan city used as a coffee-origin work base and changing border-city destination.
@@ -6567,11 +6572,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [不熄灯 / Buxideng](entities/Buxideng.md) — Three-host current-events podcast context for David Weng, Yubai, and Xiaobao's cross-location discussion of politics, markets, credit, and Chinese business governance.
 - [小宝 / Xiaobao](entities/XiaobaoQizhulou.md) — 不熄灯 host connecting Japan observations, crypto liquidity mechanics, First Brands, and private-credit risk.
 - [First Brands](entities/FirstBrands.md) — U.S. auto-parts company whose bankruptcy is used by 不熄灯 E02 as a private-credit and receivables-opacity warning case.
-- [娃哈哈 / Wahaha Group](entities/WahahaGroup.md) — Chinese beverage company used by 不熄灯 E02 to examine family-business succession, trademarks, national-brand narrative, and opaque affiliate networks.
-- [宗馥莉 / Zong Fuli](entities/ZongFuli.md) — 娃哈哈 successor figure whose resignation and trademark disputes anchor the episode's family-business succession-opacity frame.
-- [宗庆后 / Zong Qinghou](entities/ZongQinghou.md) — 娃哈哈 founder whose authority and national-brand rhetoric frame the later succession and public-opinion conflict.
-- [红盛系 / Hongsheng System](entities/HongshengSystem.md) — Family-linked Wahaha supply-chain and channel network used to show how operating control can diverge from a unified consumer brand.
-- [Danone / 达能](entities/Danone.md) — Foreign shareholder/conflict counterpart in the older Wahaha national-brand story.
+- [娃哈哈 / Wahaha Group](entities/WahahaGroup.md) — Chinese beverage company whose growth, channels, products, Danone dispute, and succession opacity now anchor a fuller business-history case.
+- [宗馥莉 / Zong Fuli](entities/ZongFuli.md) — Wahaha successor figure balancing product/channel reform, Hongsheng operating background, founder-legitimacy inheritance, and governance controversy.
+- [宗庆后 / Zong Qinghou](entities/ZongQinghou.md) — Wahaha founder-operator associated with late entrepreneurship, beverage product bets, 联销体, 销地产, Danone litigation, and succession legacy.
+- [红盛系 / Hongsheng System](entities/HongshengSystem.md) — Family-linked Wahaha operating network tied to Zong Fuli's background and later succession-opacity disputes.
+- [Danone / 达能](entities/Danone.md) — Foreign shareholder and joint-venture dispute counterpart in Wahaha's trademark, non-JV-company, and national-brand story.
 - [Komeito / 公明党](entities/Komeito.md) — Japanese coalition party whose exit from the LDP alliance made Takaichi Sanae's source-dated path to power uncertain.
 - [Changpeng Zhao / 赵长鹏](entities/ChangpengZhao.md) — Crypto-industry founder associated with Binance, now covered through Hong Kong policy signaling, regulatory hindsight, founder pressure handling, team operating style, and education motivation.
 - [Binance](entities/Binance.md) — Global crypto exchange case for CZ's regulatory-boundary hindsight, product-speed tradeoffs, crisis pressure, and blockchain-finance reflections.
@@ -11184,6 +11189,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [联销体模式 / Lianxiaoti Distribution](concepts/LianxiaotiDistribution.md) — Wahaha distributor alliance model using deposits, advance payment, territorial discipline, and tiered wholesale to solve cash-flow and lower-tier channel reach.
+- [销地产模式 / Sales-Based Production Localization](concepts/SalesBasedProductionLocalization.md) — Wahaha-style strategy of building production close to regional sales markets to lower logistics costs and align with local demand and employment.
+- [Product-Brand / Company-Brand Separation](concepts/ProductBrandCompanyBrandSeparation.md) — Consumer-brand pattern where individual products are remembered more strongly than the parent company, limiting cross-category brand transfer.
 - [Yunnan Coffee Origin Development / 云南咖啡产区发展](concepts/YunnanCoffeeOriginDevelopment.md) — Frame for evaluating Yunnan coffee through local variety, terroir, processing, sourcing, commercial scale, and farmer income.
 - [Coffee Sourcing Work / 寻豆工作](concepts/CoffeeSourcingWork.md) — Repeated operational practice of finding, testing, comparing, and buying green coffee through samples, cupping, producer contact, and trade judgment.
 - [Origin Bias in Coffee Evaluation / 咖啡产区偏见](concepts/OriginBiasInCoffeeEvaluation.md) — Sensory-evaluation problem where origin stereotypes shape perceived cup quality before tasting is independently tested.
@@ -14215,7 +14223,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Government Shutdown Data Blindness](concepts/GovernmentShutdownDataBlindness.md) — Shutdown risk where delayed CPI/jobs/operations data weakens Fed and market decision quality.
 - [Private Credit Receivables Opacity](concepts/PrivateCreditReceivablesOpacity.md) — First Brands lesson that receivables financing and off-balance-sheet credit can hide cash-control and collateral uncertainty.
 - [Real World Asset Tokenization Risk](concepts/RealWorldAssetTokenizationRisk.md) — RWA opportunity-and-risk frame where tokenization can improve distribution while leaving asset opacity, valuation, and enforceability unresolved.
-- [Family Business Succession Opacity](concepts/FamilyBusinessSuccessionOpacity.md) — Wahaha governance frame for succession conflicts across family, state, employee, brand, and affiliate interests.
+- [Family Business Succession Opacity](concepts/FamilyBusinessSuccessionOpacity.md) — Family-firm succession problem where ownership, tacit knowledge, channels, brand legitimacy, affiliates, and stakeholder rights transfer less cleanly than formal roles.
 - [National Brand Narrative Backfire](concepts/NationalBrandNarrativeBackfire.md) — Risk that patriotic brand rhetoric later turns into harsher scrutiny of ownership, trademarks, and asset transfer.
 - [Market Pullback vs Trend End](concepts/MarketPullbackVsTrendEnd.md) — Episode 143 framework for distinguishing stock, sector, and market pullbacks from thesis-ending breaks through fundamentals, leaders, observation windows, and sizing rules.
 - [Bubble Financing Structure](concepts/BubbleFinancingStructure.md) — Productive/nonproductive and equity/debt bubble taxonomy used by episode 143 to locate AI risk and the danger of debt/private-credit financing channels.

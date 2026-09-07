@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6581
+wiki_total_pages: 6584
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1304,6 +1304,9 @@ wiki_pages:
   - key: "ProductVisionDrift"
     title: "Product Vision Drift"
     url: "/wiki/concepts/productvisiondrift/"
+  - key: "ProductBrandCompanyBrandSeparation"
+    title: "Product-Brand / Company-Brand Separation"
+    url: "/wiki/concepts/productbrandcompanybrandseparation/"
   - key: "ProductLedBrandLongevity"
     title: "Product-Led Brand Longevity"
     url: "/wiki/concepts/productledbrandlongevity/"

@@ -15632,6 +15632,10 @@ Ingested the 2026-08-28 不懂球 episode with Pan Weili on Evergrande Football 
 
 Ingested the 2026-08-26 Anyway.FM crossover with UX Coffee on post-2022 life changes, a U.S. Chinese-language bookstore, cultural retail, AI pressure on UI/UX designers, reduced overwork intensity, and AI-enabled small tools as a personal outlet. Added source `anyway-195-anyway-195`; created `AnywayFM`, `UXCoffee`, `ChineseBookstoreCulturalWindow`, `ScreenExitCreativePractice`, and `AIUXDesignValueCompression`; updated `BookstoreSerendipity`, `AIJobSecurityAnxiety`, `AIEnabledSelfEmployment`, `AIAssistedLightCoding`, `index`, and `overview`. No settled contradiction found; AI replacement ratios, UI/UX golden-age claims, bookstore demand, and long-term project sustainability remain source-scoped.
 
+## [2026-09-07] ingest | 风味吃喝：娃哈哈，宗庆后的三次赌局
+
+Ingested the 2026-08-11 大小电波 episode on Wahaha and Zong Qinghou as the opening of a Chinese beverage-history series. Added source `fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx`; created `WahahaADCalciumMilk`, `WahahaPureWater`, `FutureCola`, `WahahaNutriExpress`, `LianxiaotiDistribution`, `SalesBasedProductionLocalization`, and `ProductBrandCompanyBrandSeparation`; updated `WahahaGroup`, `ZongQinghou`, `ZongFuli`, `Danone`, `HongshengSystem`, `DaxiaoDianbo`, `FamilyBusinessSuccessionOpacity`, `index`, and `overview`. No settled contradiction found; estate litigation, trust claims, non-marital-children allegations, Danone audit-memo details, Nongfu Spring backlash figures, and rumor-damage numbers remain source-scoped.
+
 ## [2026-09-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -15823,3 +15827,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-07] lint | Wiki health check
+
+Health and identity validation passed. Deterministic lint scanned 17,762 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-09-02 with 16,930 nodes and 195,431 edges; current graph checks found no hub stubs, one fragile bridge (`entities/CatholicChurch` -> `concepts/ReligiousControlledSubstanceExemption`), and no isolated communities, but the graph is stale relative to the 17,762-page wiki scan. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API key variables are unset. Report returned in-session; `wiki/lint-report.md` was not updated.

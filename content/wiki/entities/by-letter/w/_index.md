@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9199
+wiki_total_pages: 9203
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -800,6 +800,12 @@ wiki_pages:
   - key: "WahahaGroup"
     title: "娃哈哈 / Wahaha Group"
     url: "/wiki/entities/wahahagroup/"
+  - key: "WahahaADCalciumMilk"
+    title: "娃哈哈AD钙奶 / Wahaha AD Calcium Milk"
+    url: "/wiki/entities/wahahaadcalciummilk/"
+  - key: "WahahaPureWater"
+    title: "娃哈哈纯净水 / Wahaha Pure Water"
+    url: "/wiki/entities/wahahapurewater/"
   - key: "WanCounty"
     title: "宛县 / Wan County"
     url: "/wiki/entities/wancounty/"
@@ -1205,6 +1211,9 @@ wiki_pages:
   - key: "WuyinLateHan"
     title: "舞阴 / Wuyin (late Han)"
     url: "/wiki/entities/wuyinlatehan/"
+  - key: "WahahaNutriExpress"
+    title: "营养快线 / Wahaha Nutri-Express"
+    url: "/wiki/entities/wahahanutriexpress/"
   - key: "WesternZhouPolity"
     title: "西周国 / Western Zhou Polity"
     url: "/wiki/entities/westernzhoupolity/"

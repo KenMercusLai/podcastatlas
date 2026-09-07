@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6581
+wiki_total_pages: 6584
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1925,6 +1925,9 @@ wiki_pages:
   - key: "StrategicForbearanceGovernance"
     title: "退让留余地式治理 / Strategic Forbearance Governance"
     url: "/wiki/concepts/strategicforbearancegovernance/"
+  - key: "SalesBasedProductionLocalization"
+    title: "销地产模式 / Sales-Based Production Localization"
+    url: "/wiki/concepts/salesbasedproductionlocalization/"
   - key: "SurrenderedLocalMessengerPacification"
     title: "降人传令式安民 / Surrendered Local Messenger Pacification"
     url: "/wiki/concepts/surrenderedlocalmessengerpacification/"

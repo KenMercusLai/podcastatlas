@@ -15478,6 +15478,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/dangerousknowledgesecrecy/"
     },
+    "Danone": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "不熄灯E02 币圈闪崩、美国政府关门、First Brands破产、娃哈哈风波 [lt-ghzGmIRoo9a-ODaIH4xkhsuLu].md",
+          "key": "bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu",
+          "show": "起朱楼宴宾客",
+          "title": "不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波",
+          "url": "/wiki/sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu/"
+        },
+        {
+          "episode_file": "GKwRIJIOUQOSA60omATFV8YX [GKwRIJIOUQOSA60omATFV8YX].md",
+          "key": "fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx",
+          "show": "大小电波",
+          "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",
+          "url": "/wiki/sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/danone/"
+    },
     "DanyangCoupLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -16088,9 +16111,9 @@
       "url": "/wiki/entities/davidyeager/"
     },
     "DaxiaoDianbo": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
@@ -16098,6 +16121,13 @@
           "show": "大小电波",
           "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
           "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        },
+        {
+          "episode_file": "GKwRIJIOUQOSA60omATFV8YX [GKwRIJIOUQOSA60omATFV8YX].md",
+          "key": "fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx",
+          "show": "大小电波",
+          "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",
+          "url": "/wiki/sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx/"
         }
       ],
       "updated": "2026-09-07",
@@ -23018,6 +23048,36 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/familyanxietytransmission/"
     },
+    "FamilyBusinessSuccessionOpacity": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？ [likvzmPGwXneTPaeZxCLsX4s_HkW].md",
+          "key": "ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw",
+          "show": "Talk三联",
+          "title": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？",
+          "url": "/wiki/sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw/"
+        },
+        {
+          "episode_file": "不熄灯E02 币圈闪崩、美国政府关门、First Brands破产、娃哈哈风波 [lt-ghzGmIRoo9a-ODaIH4xkhsuLu].md",
+          "key": "bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu",
+          "show": "起朱楼宴宾客",
+          "title": "不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波",
+          "url": "/wiki/sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu/"
+        },
+        {
+          "episode_file": "GKwRIJIOUQOSA60omATFV8YX [GKwRIJIOUQOSA60omATFV8YX].md",
+          "key": "fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx",
+          "show": "大小电波",
+          "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",
+          "url": "/wiki/sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/familybusinesssuccessionopacity/"
+    },
     "FamilyCommunicationScaffolding": {
       "episode_count": 1,
       "show_count": 1,
@@ -26706,6 +26766,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/furnitureaffordabilitypricereset/"
+    },
+    "FutureCola": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOUQOSA60omATFV8YX [GKwRIJIOUQOSA60omATFV8YX].md",
+          "key": "fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx",
+          "show": "大小电波",
+          "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",
+          "url": "/wiki/sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/futurecola/"
     },
     "FuyouTiandi": {
       "episode_count": 6,
@@ -31928,6 +32004,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/hongmengzhixingg9/"
+    },
+    "HongshengSystem": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "不熄灯E02 币圈闪崩、美国政府关门、First Brands破产、娃哈哈风波 [lt-ghzGmIRoo9a-ODaIH4xkhsuLu].md",
+          "key": "bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu",
+          "show": "起朱楼宴宾客",
+          "title": "不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波",
+          "url": "/wiki/sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu/"
+        },
+        {
+          "episode_file": "GKwRIJIOUQOSA60omATFV8YX [GKwRIJIOUQOSA60omATFV8YX].md",
+          "key": "fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx",
+          "show": "大小电波",
+          "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",
+          "url": "/wiki/sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/hongshengsystem/"
     },
     "HonorDuelCulture": {
       "episode_count": 2,
@@ -39978,6 +40077,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/liangzhoulatehan/"
+    },
+    "LianxiaotiDistribution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOUQOSA60omATFV8YX [GKwRIJIOUQOSA60omATFV8YX].md",
+          "key": "fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx",
+          "show": "大小电波",
+          "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",
+          "url": "/wiki/sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/lianxiaotidistribution/"
     },
     "LibGen": {
       "episode_count": 1,
@@ -54632,6 +54747,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/procrastinationselfregulationfailure/"
     },
+    "ProductBrandCompanyBrandSeparation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOUQOSA60omATFV8YX [GKwRIJIOUQOSA60omATFV8YX].md",
+          "key": "fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx",
+          "show": "大小电波",
+          "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",
+          "url": "/wiki/sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/productbrandcompanybrandseparation/"
+    },
     "ProductCategoryVelocity": {
       "episode_count": 1,
       "show_count": 1,
@@ -59266,6 +59397,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/sajitchanna/"
+    },
+    "SalesBasedProductionLocalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOUQOSA60omATFV8YX [GKwRIJIOUQOSA60omATFV8YX].md",
+          "key": "fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx",
+          "show": "大小电波",
+          "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",
+          "url": "/wiki/sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/salesbasedproductionlocalization/"
     },
     "Salesforce": {
       "episode_count": 3,
@@ -70220,6 +70367,77 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/volkswagengroup/"
     },
+    "WahahaADCalciumMilk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOUQOSA60omATFV8YX [GKwRIJIOUQOSA60omATFV8YX].md",
+          "key": "fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx",
+          "show": "大小电波",
+          "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",
+          "url": "/wiki/sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/wahahaadcalciummilk/"
+    },
+    "WahahaGroup": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "不熄灯E02 币圈闪崩、美国政府关门、First Brands破产、娃哈哈风波 [lt-ghzGmIRoo9a-ODaIH4xkhsuLu].md",
+          "key": "bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu",
+          "show": "起朱楼宴宾客",
+          "title": "不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波",
+          "url": "/wiki/sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu/"
+        },
+        {
+          "episode_file": "GKwRIJIOUQOSA60omATFV8YX [GKwRIJIOUQOSA60omATFV8YX].md",
+          "key": "fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx",
+          "show": "大小电波",
+          "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",
+          "url": "/wiki/sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/wahahagroup/"
+    },
+    "WahahaNutriExpress": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOUQOSA60omATFV8YX [GKwRIJIOUQOSA60omATFV8YX].md",
+          "key": "fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx",
+          "show": "大小电波",
+          "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",
+          "url": "/wiki/sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/wahahanutriexpress/"
+    },
+    "WahahaPureWater": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOUQOSA60omATFV8YX [GKwRIJIOUQOSA60omATFV8YX].md",
+          "key": "fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx",
+          "show": "大小电波",
+          "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",
+          "url": "/wiki/sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/wahahapurewater/"
+    },
     "WalterOng": {
       "episode_count": 1,
       "show_count": 1,
@@ -79780,6 +79998,29 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/zohranmamdani/"
     },
+    "ZongFuli": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "不熄灯E02 币圈闪崩、美国政府关门、First Brands破产、娃哈哈风波 [lt-ghzGmIRoo9a-ODaIH4xkhsuLu].md",
+          "key": "bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu",
+          "show": "起朱楼宴宾客",
+          "title": "不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波",
+          "url": "/wiki/sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu/"
+        },
+        {
+          "episode_file": "GKwRIJIOUQOSA60omATFV8YX [GKwRIJIOUQOSA60omATFV8YX].md",
+          "key": "fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx",
+          "show": "大小电波",
+          "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",
+          "url": "/wiki/sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/zongfuli/"
+    },
     "ZongJunEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -79802,6 +80043,29 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/zongjuneasternhan/"
+    },
+    "ZongQinghou": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "不熄灯E02 币圈闪崩、美国政府关门、First Brands破产、娃哈哈风波 [lt-ghzGmIRoo9a-ODaIH4xkhsuLu].md",
+          "key": "bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu",
+          "show": "起朱楼宴宾客",
+          "title": "不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波",
+          "url": "/wiki/sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu/"
+        },
+        {
+          "episode_file": "GKwRIJIOUQOSA60omATFV8YX [GKwRIJIOUQOSA60omATFV8YX].md",
+          "key": "fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx",
+          "show": "大小电波",
+          "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",
+          "url": "/wiki/sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/zongqinghou/"
     },
     "ZongZiLateHan": {
       "episode_count": 2,
