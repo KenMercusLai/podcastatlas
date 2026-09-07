@@ -15624,6 +15624,10 @@ Ingested the 2026-09-06 声动早咖啡 episode on mini beauty products becoming
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-07] ingest | 从基因编辑女童之死说起：自闭症不是需要被修复的错误
+
+Ingested the 2026-08-28 不合时宜 care-series episode with Xu Yue on the Xiaomei gene-editing case, ableist cure pressure, autism as a neurodevelopmental spectrum and human difference, evidence-based early intervention, U.S. support systems, Chinese American family access barriers, and respectful public language. Added source `cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b`; created `XuYueAutismScholar`, `XiaoMeiGeneEditingCase`, `QiuZilong`, `WangQingBuHeShiYi`, `AbleistCurePressure`, `GeneEditingTreatmentEthics`, `AutismEarlyIntervention`, and `AutismSupportSystems`; updated `BuHeShiYi`, `AutismAsHumanDifference`, `AutismFamilySupport`, `AutismCureScamRisk`, `AutismSafeEnvironmentDesign`, and `index`. No settled contradiction found; medical responsibility, regulatory record, consent documents, research protocols, and the named research team's full response remain source-scoped.
+
 ## [2026-09-07] ingest | 漫长的告别：失智症、照护者与终将老去的我们
 
 Ingested the 2026-08-31 不合时宜 episode with 唐勇 on dementia care, family caregivers, Shenzhen elder-care services, the Hogeweyk dementia village, and China's long-term-care-insurance development. Added source `manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez`; created `BuHeShiYi`, `TangYongSociologist`, `YiWangDeShiJieDementiaCareBook`, `HogeweykDementiaVillage`, `DementiaCareSocialSupportSystem`, `DementiaCaregiverBurden`, `DementiaPersonhoodMemory`, and `ChinaLongTermCareInsurance`; updated `CareSocialization`, `ElderCareStateCapacity`, `LongTermCareInsurancePlanning`, `index`, and `overview`. No settled contradiction found; Shenzhen service observations, dementia-care family cases, and 2026 long-term-care-insurance coverage claims remain source-scoped.
@@ -15771,6 +15775,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | 703. Roman Civil War: Marching on the Senate (Part 3)
 
 Ingested the 2026-09-06 The Rest Is History episode on Sulla's first march on Rome, Senate-backed public-enemy outlawry, Marius's exile and armed return, Cinna and Octavius, Pompeius Strabo's army brokerage, Mithridates's anti-Roman campaign, Athens under Aristion, and the imminent full civil war. Added source `703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511`; created `LuciusCorneliusCinna`, `GnaeusOctaviusRomanConsul`, `AristionAthens`, `Athens`, and `FirstMarchOnRome`; updated `GaiusMarius`, `LuciusCorneliusSulla`, `RomanRepublic`, `MithridatesVI`, `PubliusSulpiciusRufus`, `GnaeusPompeiusStrabo`, `ManiusAquillius`, `LateRomanRepublicCrisis`, `MilitaryPersonalization`, `RepublicanCommandTransferCrisis`, `RepublicanEmergencyViolencePrecedent`, `RomanExpansionMoralAnxiety`, and `index`. No settled contradiction found; the Asian massacre figure, Marius exile traditions, Aristion's full political program, and the exact causality between Sulla's personality and structural military change remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

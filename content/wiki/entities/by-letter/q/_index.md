@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 9175
+wiki_total_pages: 9179
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "QianlongEmperor"
     title: "乾隆 / Qianlong Emperor"
     url: "/wiki/entities/qianlongemperor/"
+  - key: "QiuZilong"
+    title: "仇子龙 / Qiu Zilong"
+    url: "/wiki/entities/qiuzilong/"
   - key: "QiuXiangLateHan"
     title: "仇香 / Qiu Xiang (late Han)"
     url: "/wiki/entities/qiuxianglatehan/"

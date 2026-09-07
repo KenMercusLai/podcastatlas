@@ -1,27 +1,27 @@
 {
   "content_date": "2026-09-07",
   "corpus": {
-    "episode_count": 1967,
-    "source_count": 1967
+    "episode_count": 1968,
+    "source_count": 1968
   },
   "generated": true,
   "global": {
-    "candidate_digest": "9c08d9c28ed899a924982570564a1de8463eed11eb276ff874c5679c0662b617",
-    "compacted_at": "2026-09-07T01:45:44.942600Z",
+    "candidate_digest": "49e84751cdf93ead0a6731c748267a31b68481b14b52318c8799a4ade4511e5c",
+    "compacted_at": "2026-09-07T02:16:59.702316Z",
     "content_date": "2026-09-07",
     "corpus": {
-      "episode_count": 1967,
-      "source_count": 1967
+      "episode_count": 1968,
+      "source_count": 1968
     },
-    "output_digest": "b3e642d4d4cd2060b3cb4dc60651b5d8820b6bb51a3368d3ca7620560b217c3b",
-    "overview_commit": "8c7da14ca5afab830fcbc3a88f2de9b1059cd3d7",
-    "overview_digest": "1240982aeb0629fed1056c06469d4b10d34c60b86c4911306aeb2d8973ae2a47",
+    "output_digest": "191c66f5a2f90ced54aae4ad6ce09c03da448ecaa0c9e3ecf0516a2cf4945eb5",
+    "overview_commit": "f3843c915af1f8957374681190a0172aa41e6a54",
+    "overview_digest": "2bb1caa395205ff107151bef362da2a2dfc40bda183cf01db265867f1cd2b7ec",
     "pending_ingests": 0,
     "pending_topics": []
   },
-  "overview_commit": "8c7da14ca5afab830fcbc3a88f2de9b1059cd3d7",
-  "overview_digest": "1240982aeb0629fed1056c06469d4b10d34c60b86c4911306aeb2d8973ae2a47",
-  "paragraph_count": 566,
+  "overview_commit": "f3843c915af1f8957374681190a0172aa41e6a54",
+  "overview_digest": "2bb1caa395205ff107151bef362da2a2dfc40bda183cf01db265867f1cd2b7ec",
+  "paragraph_count": 567,
   "schema_version": 1,
   "topics": {
     "ai-and-technology": {
@@ -61,9 +61,9 @@
       "title": "Psychology and Personal Development"
     },
     "science-health-and-climate": {
-      "claim_digest": "dd4848e03262430de9d533b3bc664158a3adf64e611c8a2d721d0f81eb26dcdc",
-      "input_digest": "215e3062846151f1a2fb88f7f4655982caf739617ef06659b26f5aa111f8508b",
-      "output_digest": "4f1531ae18dc3619e1acbefca5d8c8defcbebd50d68b0afd220e7d4be5d77ac8",
+      "claim_digest": "f4733646b82ce3929886569ab361e61b2ed08b94dfbb72e92138460f43144263",
+      "input_digest": "74ba3cfdaebbb7d0bdc53b22adef1db090ec1aef7061606c9703eb3ffa5f8d03",
+      "output_digest": "ecd39db3777ad8d3f78a9e9f2fd06be07c12dd910a5fd84166e56c5753e99619",
       "title": "Science, Health, and Climate"
     },
     "work-education-and-society": {

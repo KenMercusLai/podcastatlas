@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6562
+wiki_total_pages: 6566
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "GeneExpressionMatrix"
     title: "Gene Expression Matrix"
     url: "/wiki/concepts/geneexpressionmatrix/"
+  - key: "GeneEditingTreatmentEthics"
+    title: "Gene-Editing Treatment Ethics / 基因编辑治疗伦理"
+    url: "/wiki/concepts/geneeditingtreatmentethics/"
   - key: "GeneralAverage"
     title: "General Average"
     url: "/wiki/concepts/generalaverage/"

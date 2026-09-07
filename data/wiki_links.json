@@ -2875,6 +2875,10 @@
     "title": "Abhijit Tipke",
     "url": "/wiki/entities/abhijittipke/"
   },
+  "AbleistCurePressure": {
+    "title": "Ableist Cure Pressure / 健全中心主义治愈压力",
+    "url": "/wiki/concepts/ableistcurepressure/"
+  },
   "AbolitionistPublicWitness": {
     "title": "Abolitionist Public Witness",
     "url": "/wiki/concepts/abolitionistpublicwitness/"
@@ -6131,6 +6135,10 @@
     "title": "Autism Cure-Scam Risk",
     "url": "/wiki/concepts/autismcurescamrisk/"
   },
+  "AutismEarlyIntervention": {
+    "title": "Autism Early Intervention / 自闭症早期干预",
+    "url": "/wiki/concepts/autismearlyintervention/"
+  },
   "AutismFamilySupport": {
     "title": "Autism Family Support",
     "url": "/wiki/concepts/autismfamilysupport/"
@@ -6138,6 +6146,10 @@
   "AutismSafeEnvironmentDesign": {
     "title": "Autism Safe Environment Design",
     "url": "/wiki/concepts/autismsafeenvironmentdesign/"
+  },
+  "AutismSupportSystems": {
+    "title": "Autism Support Systems / 自闭症支持体系",
+    "url": "/wiki/concepts/autismsupportsystems/"
   },
   "AutisticTime": {
     "title": "Autistic Time",
@@ -22258,6 +22270,10 @@
   "GenderedPatronageInversion": {
     "title": "Gendered Patronage Inversion",
     "url": "/wiki/concepts/genderedpatronageinversion/"
+  },
+  "GeneEditingTreatmentEthics": {
+    "title": "Gene-Editing Treatment Ethics / 基因编辑治疗伦理",
+    "url": "/wiki/concepts/geneeditingtreatmentethics/"
   },
   "GeneExpressionMatrix": {
     "title": "Gene Expression Matrix",
@@ -45235,6 +45251,10 @@
     "title": "仇香 / Qiu Xiang (late Han)",
     "url": "/wiki/entities/qiuxianglatehan/"
   },
+  "QiuZilong": {
+    "title": "仇子龙 / Qiu Zilong",
+    "url": "/wiki/entities/qiuzilong/"
+  },
   "QiuciKingdom": {
     "title": "龟兹 / Qiuci Kingdom",
     "url": "/wiki/entities/qiucikingdom/"
@@ -57927,6 +57947,10 @@
     "title": "王婆 / Wang Po",
     "url": "/wiki/entities/wangpo/"
   },
+  "WangQingBuHeShiYi": {
+    "title": "王磬 / Wang Qing",
+    "url": "/wiki/entities/wangqingbuheshiyi/"
+  },
   "WangQuanbin": {
     "title": "王全斌 / Wang Quanbin",
     "url": "/wiki/entities/wangquanbin/"
@@ -60147,6 +60171,10 @@
     "title": "小满",
     "url": "/wiki/entities/xiaoman/"
   },
+  "XiaoMeiGeneEditingCase": {
+    "title": "小美基因编辑事件 / Xiaomei Gene-Editing Case",
+    "url": "/wiki/entities/xiaomeigeneeditingcase/"
+  },
   "XiaoPTeacher": {
     "title": "小P老师 / Xiao P Teacher",
     "url": "/wiki/entities/xiaopteacher/"
@@ -60678,6 +60706,10 @@
   "XuYouLateHan": {
     "title": "许攸 / Xu You (late Han)",
     "url": "/wiki/entities/xuyoulatehan/"
+  },
+  "XuYueAutismScholar": {
+    "title": "许悦 / Xu Yue",
+    "url": "/wiki/entities/xuyueautismscholar/"
   },
   "XuZhaoLateHan": {
     "title": "徐昭 / Xu Zhao (late Han)",
@@ -64802,6 +64834,10 @@
   "cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53": {
     "title": "从会跳舞到有感知，触觉是机器人通往智能的门票吗？｜ S10E19",
     "url": "/wiki/sources/cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53/"
+  },
+  "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b": {
+    "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
+    "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
   },
   "cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun": {
     "title": "从QQ会员到豆包包月，中国人为什么总觉得软件该免费",

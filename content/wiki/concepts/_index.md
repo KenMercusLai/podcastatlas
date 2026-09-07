@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6562
+wiki_total_pages: 6566
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "AHShare2025Barbell"
     title: "A/H Share 2025 Barbell"
     url: "/wiki/concepts/ahshare2025barbell/"
+  - key: "AbleistCurePressure"
+    title: "Ableist Cure Pressure / 健全中心主义治愈压力"
+    url: "/wiki/concepts/ableistcurepressure/"
   - key: "AbolitionistPublicWitness"
     title: "Abolitionist Public Witness"
     url: "/wiki/concepts/abolitionistpublicwitness/"
@@ -2030,12 +2033,18 @@ wiki_pages:
   - key: "AutismCureScamRisk"
     title: "Autism Cure-Scam Risk"
     url: "/wiki/concepts/autismcurescamrisk/"
+  - key: "AutismEarlyIntervention"
+    title: "Autism Early Intervention / 自闭症早期干预"
+    url: "/wiki/concepts/autismearlyintervention/"
   - key: "AutismFamilySupport"
     title: "Autism Family Support"
     url: "/wiki/concepts/autismfamilysupport/"
   - key: "AutismSafeEnvironmentDesign"
     title: "Autism Safe Environment Design"
     url: "/wiki/concepts/autismsafeenvironmentdesign/"
+  - key: "AutismSupportSystems"
+    title: "Autism Support Systems / 自闭症支持体系"
+    url: "/wiki/concepts/autismsupportsystems/"
   - key: "AutisticTime"
     title: "Autistic Time"
     url: "/wiki/concepts/autistictime/"

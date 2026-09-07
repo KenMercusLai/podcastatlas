@@ -2388,6 +2388,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/aaronburr/"
     },
+    "AbleistCurePressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lg7DOFyeQv-7noQ9W74oH6hsYk4b [lg7DOFyeQv-7noQ9W74oH6hsYk4b].md",
+          "key": "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b",
+          "show": "不合时宜",
+          "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
+          "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/ableistcurepressure/"
+    },
     "AbolitionistPublicWitness": {
       "episode_count": 1,
       "show_count": 1,
@@ -5949,6 +5965,137 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/authoritydisguiseinfiltration/"
     },
+    "AutismAsHumanDifference": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "187.豌豆公主：高敏和混沌是你真名 [999958166].md",
+          "key": "187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166",
+          "show": "蜜獾吃书",
+          "title": "187.豌豆公主：高敏和混沌是你真名",
+          "url": "/wiki/sources/187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166/"
+        },
+        {
+          "episode_file": "46.这世界唯一的你：请相信那朵慢慢绽放的花 [623717720].md",
+          "key": "46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720",
+          "show": "蜜獾吃书",
+          "title": "46.这世界唯一的你：请相信那朵慢慢绽放的花",
+          "url": "/wiki/sources/46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720/"
+        },
+        {
+          "episode_file": "lg7DOFyeQv-7noQ9W74oH6hsYk4b [lg7DOFyeQv-7noQ9W74oH6hsYk4b].md",
+          "key": "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b",
+          "show": "不合时宜",
+          "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
+          "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/autismashumandifference/"
+    },
+    "AutismCureScamRisk": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "46.这世界唯一的你：请相信那朵慢慢绽放的花 [623717720].md",
+          "key": "46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720",
+          "show": "蜜獾吃书",
+          "title": "46.这世界唯一的你：请相信那朵慢慢绽放的花",
+          "url": "/wiki/sources/46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720/"
+        },
+        {
+          "episode_file": "lg7DOFyeQv-7noQ9W74oH6hsYk4b [lg7DOFyeQv-7noQ9W74oH6hsYk4b].md",
+          "key": "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b",
+          "show": "不合时宜",
+          "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
+          "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/autismcurescamrisk/"
+    },
+    "AutismEarlyIntervention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lg7DOFyeQv-7noQ9W74oH6hsYk4b [lg7DOFyeQv-7noQ9W74oH6hsYk4b].md",
+          "key": "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b",
+          "show": "不合时宜",
+          "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
+          "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/autismearlyintervention/"
+    },
+    "AutismFamilySupport": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "46.这世界唯一的你：请相信那朵慢慢绽放的花 [623717720].md",
+          "key": "46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720",
+          "show": "蜜獾吃书",
+          "title": "46.这世界唯一的你：请相信那朵慢慢绽放的花",
+          "url": "/wiki/sources/46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720/"
+        },
+        {
+          "episode_file": "lg7DOFyeQv-7noQ9W74oH6hsYk4b [lg7DOFyeQv-7noQ9W74oH6hsYk4b].md",
+          "key": "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b",
+          "show": "不合时宜",
+          "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
+          "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/autismfamilysupport/"
+    },
+    "AutismSafeEnvironmentDesign": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "46.这世界唯一的你：请相信那朵慢慢绽放的花 [623717720].md",
+          "key": "46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720",
+          "show": "蜜獾吃书",
+          "title": "46.这世界唯一的你：请相信那朵慢慢绽放的花",
+          "url": "/wiki/sources/46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720/"
+        },
+        {
+          "episode_file": "lg7DOFyeQv-7noQ9W74oH6hsYk4b [lg7DOFyeQv-7noQ9W74oH6hsYk4b].md",
+          "key": "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b",
+          "show": "不合时宜",
+          "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
+          "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/autismsafeenvironmentdesign/"
+    },
+    "AutismSupportSystems": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lg7DOFyeQv-7noQ9W74oH6hsYk4b [lg7DOFyeQv-7noQ9W74oH6hsYk4b].md",
+          "key": "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b",
+          "show": "不合时宜",
+          "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
+          "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/autismsupportsystems/"
+    },
     "AutoRLProductionLoop": {
       "episode_count": 1,
       "show_count": 1,
@@ -8408,9 +8555,9 @@
       "url": "/wiki/entities/bruceschneier/"
     },
     "BuHeShiYi": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
@@ -8418,6 +8565,13 @@
           "show": "不合时宜",
           "title": "漫长的告别：失智症、照护者与终将老去的我们",
           "url": "/wiki/sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez/"
+        },
+        {
+          "episode_file": "lg7DOFyeQv-7noQ9W74oH6hsYk4b [lg7DOFyeQv-7noQ9W74oH6hsYk4b].md",
+          "key": "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b",
+          "show": "不合时宜",
+          "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
+          "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
         }
       ],
       "updated": "2026-09-07",
@@ -26723,6 +26877,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/genderedofficehierarchy/"
+    },
+    "GeneEditingTreatmentEthics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lg7DOFyeQv-7noQ9W74oH6hsYk4b [lg7DOFyeQv-7noQ9W74oH6hsYk4b].md",
+          "key": "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b",
+          "show": "不合时宜",
+          "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
+          "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/geneeditingtreatmentethics/"
     },
     "GenerationalSocialismAppeal": {
       "episode_count": 1,
@@ -54831,6 +55001,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/qiuxianglatehan/"
     },
+    "QiuZilong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lg7DOFyeQv-7noQ9W74oH6hsYk4b [lg7DOFyeQv-7noQ9W74oH6hsYk4b].md",
+          "key": "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b",
+          "show": "不合时宜",
+          "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
+          "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/qiuzilong/"
+    },
     "QiuciKingdom": {
       "episode_count": 6,
       "show_count": 1,
@@ -69577,6 +69763,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/wangpaneasternhan/"
     },
+    "WangQingBuHeShiYi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lg7DOFyeQv-7noQ9W74oH6hsYk4b [lg7DOFyeQv-7noQ9W74oH6hsYk4b].md",
+          "key": "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b",
+          "show": "不合时宜",
+          "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
+          "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/wangqingbuheshiyi/"
+    },
     "WangShengPalaceActorLateHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -72225,6 +72427,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/xiaohuozinittanwuyu/"
     },
+    "XiaoMeiGeneEditingCase": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lg7DOFyeQv-7noQ9W74oH6hsYk4b [lg7DOFyeQv-7noQ9W74oH6hsYk4b].md",
+          "key": "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b",
+          "show": "不合时宜",
+          "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
+          "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/xiaomeigeneeditingcase/"
+    },
     "XiaolongWeightManagementGuest": {
       "episode_count": 1,
       "show_count": 1,
@@ -73016,6 +73234,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/xuyoulatehan/"
+    },
+    "XuYueAutismScholar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lg7DOFyeQv-7noQ9W74oH6hsYk4b [lg7DOFyeQv-7noQ9W74oH6hsYk4b].md",
+          "key": "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b",
+          "show": "不合时宜",
+          "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
+          "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/xuyueautismscholar/"
     },
     "XuZhaoLateHan": {
       "episode_count": 1,

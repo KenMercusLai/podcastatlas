@@ -2,31 +2,52 @@
 title: "Autism As Human Difference"
 type: concept
 tags: [autism, disability, neurodiversity, education]
-sources: [187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720]
-last_updated: 2026-07-24
+sources:
+  - 187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166
+  - 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720
+  - cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b
+knowledge_schema: synthesis-v1
+last_updated: 2026-09-07
 ---
 
 # Autism As Human Difference
 
-Autism as human difference is the frame added by [[46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720]] through [[UniquelyHuman|《这世界唯一的你》 / Uniquely Human]]. Instead of treating autism primarily as a defect, bad temper, or discipline failure, the episode presents it as a developmental and perceptual difference that shapes sensory thresholds, attention, memory, predictability needs, communication, and social participation.
+## Definition
+Autism as human difference is the wiki's frame for treating autism as a developmental, sensory, communicative, and social difference that requires support and respect rather than repair-first normalization.
 
-The concept does not deny disability or support needs. Its point is that autistic people are not puzzles to normalize before they can be respected; support works better when caregivers understand the person's specific experience and build from safety, trust, and capability.
+## Current Synthesis
+The current evidence spans a book discussion centered on [[UniquelyHuman|Uniquely Human]], a literary adjacency around sensory sensitivity, and the 不合时宜 episode on the Xiaomei gene-editing case. Together they support a sharper synthesis: autism can involve disability, overload, language delay, long-term care needs, and family strain, but those needs do not make autistic life a failed version of normal life.
 
-[[187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166]] adds a literary adjacency rather than a clinical extension. The hosts discuss [[ThePrincessAndThePea|《豌豆公主》]] through high sensitivity and sensory hypersensitivity, and they speculate about Andersen's own traits with source-scoped uncertainty. This supports the page only at the level of respect for sensory difference; it should not be treated as evidence for diagnosing Andersen or the fictional princess.
+The new episode adds clinical and ethical precision. [[XuYueAutismScholar|许悦]] describes autism as a neurodevelopmental spectrum diagnosed through developmental and behavioral patterns, not through a single gene test or blood marker. That strengthens the boundary against [[AbleistCurePressure]]: intervention should expand communication, safety, and participation, not erase the person to satisfy parental, professional, or social discomfort.
 
 ## Key Claims
-- Autistic behavior should be interpreted inside the person's sensory, emotional, memory, and communication environment.
-- "Different" is not the same as "fine without support"; the source argues for help, protection, and learning support without reducing the person to a repair project.
-- Individual differences matter: the episode uses Eddie, David, and book cases to show that autism is a spectrum with varied strengths, fears, triggers, and routes to independence.
-- This frame changes education and parenting from obedience-first correction toward inquiry, accommodation, and capability building.
-- Literary uses of sensory difference should stay separate from clinical diagnosis while still resisting ridicule of unusual perception.
+- Autism should be understood through sensory thresholds, communication patterns, predictability needs, social participation, development, and individual variation.
+- Difference does not remove disability or support needs; it changes the goal from normalization to capability, accommodation, and dignity.
+- Clinical uncertainty matters: autism is described as a behavioral and developmental diagnosis, not a single-gene repair target.
+- Public language and family expectations can harm when they turn autistic traits into jokes, shame, or evidence that a child's future is closed.
+- Literary and everyday sensitivity analogies can support respect for difference, but they should not become casual diagnosis.
+- Ethical intervention should address the autistic person's needs and suffering rather than the anxiety of observers who want them to appear normal.
 
-## Connections
+## Evidence
+- Autism behavior and support - [[46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720]] uses Barry Prizant's cases to interpret difficult behavior through overload, fear, memory, predictability, and communication limits.
+- Sensory difference adjacency - [[187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166]] uses high sensitivity and sensory hypersensitivity as a literary and social analogy, while keeping Andersen and the princess outside clinical diagnosis.
+- Clinical spectrum boundary - [[cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b]] describes autism as a neurodevelopmental spectrum with varied speech, sensory, genetic, and functional profiles.
+- Anti-repair ethics - [[cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b]] uses the Xiaomei case to argue that a child's autistic or disabled traits should not make high-risk repair experiments acceptable.
+- Public-language responsibility - [[cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b]] asks listeners not to casually say "我自闭了" and to ask autistic and disabled people about their real lives, work, preferences, and relationships.
 
-- [[UniquelyHuman|《这世界唯一的你》 / Uniquely Human]] and [[BarryPrizant|Barry Prizant]] - source book and author.
-- [[BehaviorAsCommunication]] - practical rule for interpreting difficult behavior.
-- [[AutismSafeEnvironmentDesign]] - environmental response to sensory and anxiety pressure.
-- [[AutismFamilySupport]] - social and caregiver layer needed around the person.
-- [[AutismCureScamRisk]] - failure mode when difference is sold as something that can be erased.
-- [[LearningExperienceDesign]] - adjacent education frame for designing around real stuck points.
-- [[SensoryHypersensitivityAccommodation]] and [[HighSensitivityAsDifference]] - episode 187's literary and everyday sensory-difference adjacency.
+## Counterevidence & Qualifications
+The page does not claim autism is only a neutral identity or that support is unnecessary. The evidence repeatedly notes real communication difficulty, sensory overload, family exhaustion, school friction, and long-term care needs. The literary source remains an analogy about sensitivity, not a diagnostic source.
+
+## What Changed
+- Migrated the page to synthesis-v1 while preserving the original source order.
+- Added clinical-spectrum and gene-editing ethics boundaries from the 不合时宜 episode.
+- Tightened the distinction between useful intervention and repair-first normalization.
+
+## Related Concepts
+- [[BehaviorAsCommunication]] - interpretive rule for reading behavior in context before correcting it.
+- [[AutismSafeEnvironmentDesign]] - practical accommodation frame for sensory, memory, and predictability pressure.
+- [[AutismFamilySupport]] - family and caregiver support layer around autistic people.
+- [[AutismCureScamRisk]] - failure mode when fear of difference becomes a cure market.
+- [[AbleistCurePressure]] - social pressure that treats disabled or autistic life as needing repair before value.
+- [[AutismEarlyIntervention]] - intervention frame that should expand communication and participation without erasure.
+- [[SensoryHypersensitivityAccommodation]] - adjacent sensory-difference concept kept distinct from clinical diagnosis.

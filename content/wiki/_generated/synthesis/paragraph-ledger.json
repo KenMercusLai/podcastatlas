@@ -566,12 +566,13 @@
       "92bc6e5245c1759f79ec6d1c56938dc9f6333c7144493e722e6253eed2bec08c",
       "528281743cf61adfbb2f8e222f1a77c3c4cc419c782293135402187a6ed7cdda",
       "013189bd78693c4f9ddd24154fb4e85b4d94868b1b336af988b43dbee9411c03",
-      "ed605f497963461eb9bc9c968de448aa46b9f90dddac4016b47d57e3c144fc1a"
+      "ed605f497963461eb9bc9c968de448aa46b9f90dddac4016b47d57e3c144fc1a",
+      "c9cfc14b34adf74d0fb27e2d54c10a5bddbdd34955b5df371daa272496423cc4"
     ],
-    "paragraph_count": 566
+    "paragraph_count": 567
   },
-  "overview_commit": "8c7da14ca5afab830fcbc3a88f2de9b1059cd3d7",
-  "overview_digest": "1240982aeb0629fed1056c06469d4b10d34c60b86c4911306aeb2d8973ae2a47",
+  "overview_commit": "f3843c915af1f8957374681190a0172aa41e6a54",
+  "overview_digest": "2bb1caa395205ff107151bef362da2a2dfc40bda183cf01db265867f1cd2b7ec",
   "paragraphs": [
     {
       "id": "b7698ced008e75103ebeaf37b643a21559bd84c3347ebb363160cff2e24ff992",
@@ -17367,6 +17368,32 @@
         "Xiaohongshu",
         "XuGuangqi",
         "yu-duan-zhiqiang-tan-chongming-xiangye-bowuzhi-wo-zhu-changjiang-wei-8212963740-775078"
+      ]
+    },
+    {
+      "id": "c9cfc14b34adf74d0fb27e2d54c10a5bddbdd34955b5df371daa272496423cc4",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b|从基因编辑女童之死说起：自闭症不是需要被修复的错误]], a [[BuHeShiYi|不合时宜]] care-series episode with [[XuYueAutismScholar|许悦]] on the [[XiaoMeiGeneEditingCase|小美基因编辑事件]], autism, disability care, and support systems. It adds [[XuYueAutismScholar|许悦]], [[WangQingBuHeShiYi|王磬]], [[XiaoMeiGeneEditingCase|小美基因编辑事件]], [[QiuZilong|仇子龙]], [[AbleistCurePressure|健全中心主义治愈压力]], [[GeneEditingTreatmentEthics|基因编辑治疗伦理]], [[AutismEarlyIntervention|自闭症早期干预]], and [[AutismSupportSystems|自闭症支持体系]], while extending [[BuHeShiYi|不合时宜]], [[AutismAsHumanDifference]], [[AutismFamilySupport]], [[AutismCureScamRisk]], and [[AutismSafeEnvironmentDesign]]. Its core synthesis is that autism support should be evidence-based, family-involved, and system-backed, while cure pressure becomes dangerous when parental fear, scientific ambition, incomplete disclosure, and ableist definitions of a valuable future push a nonfatal developmental condition toward high-risk repair. No settled contradiction is recorded; medical responsibility, regulatory record, consent documents, research protocols, and the named research team's full response remain source-scoped.",
+      "topic_scores": {
+        "science-health-and-climate": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AbleistCurePressure",
+        "AutismAsHumanDifference",
+        "AutismCureScamRisk",
+        "AutismEarlyIntervention",
+        "AutismFamilySupport",
+        "AutismSafeEnvironmentDesign",
+        "AutismSupportSystems",
+        "BuHeShiYi",
+        "GeneEditingTreatmentEthics",
+        "QiuZilong",
+        "WangQingBuHeShiYi",
+        "XiaoMeiGeneEditingCase",
+        "XuYueAutismScholar",
+        "cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b"
       ]
     }
   ],

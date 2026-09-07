@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9175
+wiki_total_pages: 9179
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "XiaomiYoupin"
     title: "小米有品 / Xiaomi Youpin"
     url: "/wiki/entities/xiaomiyoupin/"
+  - key: "XiaoMeiGeneEditingCase"
+    title: "小美基因编辑事件 / Xiaomei Gene-Editing Case"
+    url: "/wiki/entities/xiaomeigeneeditingcase/"
   - key: "XiaoweiDuanwenReporter"
     title: "小薇 / Xiaowei (Duanwen reporter)"
     url: "/wiki/entities/xiaoweiduanwenreporter/"
@@ -527,6 +530,9 @@ wiki_pages:
   - key: "XuLiWarringStates"
     title: "许历 / Xu Li"
     url: "/wiki/entities/xuliwarringstates/"
+  - key: "XuYueAutismScholar"
+    title: "许悦 / Xu Yue"
+    url: "/wiki/entities/xuyueautismscholar/"
   - key: "XuShen"
     title: "许慎"
     url: "/wiki/entities/xushen/"

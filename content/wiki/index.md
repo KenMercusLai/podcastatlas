@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？](sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226.md) — 声动早咖啡 episode on mini beauty products becoming standalone merchandise through lower trial cost, faster trend cycles, fragrance wardrobes, accessorization, retail display, and supply-chain complexity.
 - [漫长的告别：失智症、照护者与终将老去的我们](sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez.md) — 不合时宜 episode with 唐勇 on dementia care, family caregiver burden, Shenzhen elder-care services, the Hogeweyk dementia village, and China's long-term-care-insurance limits.
+- [从基因编辑女童之死说起：自闭症不是需要被修复的错误](sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b.md) — 不合时宜 episode with Xu Yue on the Xiaomei gene-editing case, ableist cure pressure, autism as difference, early intervention, and support systems.
 - [Episode 224: 不是不识不时不适](sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768.md) — 迟早更新 episode with Ren Ning on book-review misreading, reading decline, Luria and Ong's literacy theories, Bush's Memex, AI statistical association, and embodied literary experience.
 - [#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？](sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4.md) — 声东击西 episode with Xu Tao and Fang Kecheng on youth social-media age bans, product-design liability, internal platform evidence, Section 230, and the Big Tobacco analogy.
 - [史蒂夫说471期 - 咨询师回信：万事只讲逻辑的人，都成长于理性为名的压迫](sources/shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi.md) — 史蒂夫说 counselor-letter episode on CPTSD-like hypervigilance, toxic shame, overusing psychoanalytic concepts, unsafe therapy experiences, ambiguous attraction, logic-driven self-doubt, and body-based self-trust.
@@ -1976,7 +1977,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [Rhode Beauty](entities/RhodeBeauty.md) — Hailey Bieber-linked beauty brand used here as a source-scoped example of lip-product phone-case accessorization.
-- [不合时宜 / Bu He Shi Yi](entities/BuHeShiYi.md) — Chinese podcast represented here by a dementia-care episode linking family caregivers, social support, and elder-care policy.
+- [不合时宜 / Bu He Shi Yi](entities/BuHeShiYi.md) — Chinese podcast represented here by care-series episodes on dementia, autism, disability, family caregiving, and public support systems.
+- [王磬 / Wang Qing](entities/WangQingBuHeShiYi.md) — 不合时宜 host in the autism and Xiaomei gene-editing episode.
+- [许悦 / Xu Yue](entities/XuYueAutismScholar.md) — Autism and disability scholar interviewed by 不合时宜 on gene-editing ethics, autism support, and family advocacy.
+- [小美基因编辑事件 / Xiaomei Gene-Editing Case](entities/XiaoMeiGeneEditingCase.md) — Source-scoped case used to examine high-risk gene editing, disability devaluation, informed consent, and cure pressure.
+- [仇子龙 / Qiu Zilong](entities/QiuZilong.md) — Scientist named by the 不合时宜 source in connection with the Xiaomei gene-editing case and publication-disclosure concerns.
 - [Tang Yong / 唐勇](entities/TangYongSociologist.md) — Shenzhen University sociologist whose dementia-care fieldwork and book anchor the episode.
 - [《遗忘的世界：失智老人的照护图景》](entities/YiWangDeShiJieDementiaCareBook.md) — Tang Yong book on Shenzhen dementia older adults and their family caregivers.
 - [Hogeweyk Dementia Village / 荷兰失智小镇](entities/HogeweykDementiaVillage.md) — Netherlands dementia-care environment used as a resident-first care model and replication boundary.
@@ -16280,6 +16285,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Autism Safe Environment Design](concepts/AutismSafeEnvironmentDesign.md) — Support pattern that reduces sensory, memory, and predictability threats before demanding compliance or participation.
 - [Autism Family Support](concepts/AutismFamilySupport.md) — Social support layer for parents and siblings facing diagnosis anxiety, public misunderstanding, school friction, and long-term care pressure.
 - [Autism Cure-Scam Risk](concepts/AutismCureScamRisk.md) — Warning that promises to cure autism exploit family fear and distract from grounded support, accommodation, and capability building.
+- [Ableist Cure Pressure / 健全中心主义治愈压力](concepts/AbleistCurePressure.md) — Social pressure that treats autistic or disabled life as an error to repair before support, dignity, and personhood are recognized.
+- [Gene-Editing Treatment Ethics / 基因编辑治疗伦理](concepts/GeneEditingTreatmentEthics.md) — Medical-ethics frame for high-risk gene-editing intervention, evidence maturity, disclosure, and proportionality.
+- [Autism Early Intervention / 自闭症早期干预](concepts/AutismEarlyIntervention.md) — Evidence-oriented autism support frame around early signals, behavioral intervention, family participation, and communication-building.
+- [Autism Support Systems / 自闭症支持体系](concepts/AutismSupportSystems.md) — Institutional and community support layer spanning early intervention, inclusive education, transition planning, funding, employment, housing, and advocacy.
 - [Machine Gambling Addiction](concepts/MachineGamblingAddiction.md) — Compulsive slot-machine/video-poker-style play produced by fast, solitary, low-friction human-machine reward loops.
 - [Addictive Interaction Design](concepts/AddictiveInteractionDesign.md) — Interface, pacing, reward, data, and friction-removal pattern that keeps users engaged beyond reflective intention.
 - [Machine Zone](concepts/MachineZone.md) — Dissociated gambling-machine state where time, money, body signals, social obligation, and self-judgment are suspended.
