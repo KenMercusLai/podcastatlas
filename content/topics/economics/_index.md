@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1950
+topic_total_pages: 1951
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -5021,6 +5021,9 @@ topic_entities:
   - key: "HongseHuojianIndexTool"
     title: "红色火箭 / Hongse Huojian"
     url: "/wiki/entities/hongsehuojianindextool/"
+  - key: "ZongHengSiHai"
+    title: "纵横四海 / Zong Heng Si Hai"
+    url: "/wiki/entities/zonghengsihai/"
   - key: "MeilunMeihuan"
     title: "美轮美换 / Meilun Meihuan"
     url: "/wiki/entities/meilunmeihuan/"

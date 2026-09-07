@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6631
+wiki_total_pages: 6638
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "ChannelFocusExperiments"
     title: "Channel Focus Experiments"
     url: "/wiki/concepts/channelfocusexperiments/"
+  - key: "ChannelLengthRisk"
+    title: "Channel Length Risk / 渠道长度风险"
+    url: "/wiki/concepts/channellengthrisk/"
   - key: "ChannelNativeInternalCommunication"
     title: "Channel Native Internal Communication"
     url: "/wiki/concepts/channelnativeinternalcommunication/"
@@ -1532,6 +1535,9 @@ wiki_pages:
   - key: "CopyrightPlatformConflict"
     title: "Copyright Platform Conflict"
     url: "/wiki/concepts/copyrightplatformconflict/"
+  - key: "CoreCompetenceStrategy"
+    title: "Core Competence Strategy / 核心竞争力战略"
+    url: "/wiki/concepts/corecompetencestrategy/"
   - key: "CoreTribePositioning"
     title: "Core Tribe Positioning"
     url: "/wiki/concepts/coretribepositioning/"
@@ -1958,6 +1964,9 @@ wiki_pages:
   - key: "CustomerSupportAutomation"
     title: "Customer Support Automation"
     url: "/wiki/concepts/customersupportautomation/"
+  - key: "CustomerValueBasedPricing"
+    title: "Customer Value-Based Pricing / 消费者价值定价"
+    url: "/wiki/concepts/customervaluebasedpricing/"
   - key: "CXLMemoryPooling"
     title: "CXL Memory Pooling"
     url: "/wiki/concepts/cxlmemorypooling/"

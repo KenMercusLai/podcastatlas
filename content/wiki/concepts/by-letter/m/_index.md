@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6631
+wiki_total_pages: 6638
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -230,6 +230,12 @@ wiki_pages:
   - key: "MarketSpeculation"
     title: "Market Speculation"
     url: "/wiki/concepts/marketspeculation/"
+  - key: "MarketingEthics"
+    title: "Marketing Ethics / 营销伦理"
+    url: "/wiki/concepts/marketingethics/"
+  - key: "MarketingManagementChain"
+    title: "Marketing Management Chain / 营销管理链路"
+    url: "/wiki/concepts/marketingmanagementchain/"
   - key: "MarketplaceFrictionReduction"
     title: "Marketplace Friction Reduction"
     url: "/wiki/concepts/marketplacefrictionreduction/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP85 营销管理：Mini MBA 第一课](sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a.md) — 纵横四海 Mini MBA episode on marketing as a strategy-STP-4P chain, covering marketing ethics, brand belief, core competence, segmentation, targeting, positioning, value-based pricing, and channel risk.
 - [All right on the night: AfD's victory](sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f.md) — The Intelligence episode on AfD's 44% Saxony-Anhalt win, CDU collapse, BSW kingmaker arithmetic, contrail mitigation through Operation Blue Skies, and young South Koreans' renewed interest in Buddhism.
 - [时代症候，与安定此心](sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql.md) — 面基 episode with psychiatrist Jiang Tao on schizophrenia family caregiving, psychiatric diagnosis by function, somatization, mental-illness stigma, psychotherapy boundaries, and desire-capacity fit under contemporary anxiety.
 - [Episode 226: 说出口的话，正在塑造你的世界](sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318.md) — 迟早更新 crossover with 恰恰小豹 on birdsong playback ethics, human extraction from nature, ritualized apology, いただきます, Confucian form, speech acts, sincerity, and words training restraint.
@@ -1993,6 +1994,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [纵横四海 / Zong Heng Si Hai](entities/ZongHengSiHai.md) — Chinese podcast show represented here by a Mini MBA marketing-management episode that connects strategy, STP, 4P, consumer ethics, brand belief, and personal positioning.
 - [Tom Nuttall](entities/TomNuttall.md) — The Intelligence participant reporting from AfD's Saxony-Anhalt election-night party and explaining the post-election arithmetic.
 - [Bündnis Sahra Wagenknecht / BSW](entities/BundnisSahraWagenknecht.md) — Populist-left German party that becomes a possible Saxony-Anhalt kingmaker after AfD's large plurality.
 - [Sven Schulze](entities/SvenSchulze.md) — CDU Saxony-Anhalt premier whose weakened incumbent position anchors the caretaker-stalemate scenario.
@@ -11242,6 +11244,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Brand Belief / 品牌信念](concepts/BrandBelief.md) — Consumer-held belief structure that defines what a brand means beyond logo, product feature, or internal business-unit boundary.
+- [Channel Length Risk / 渠道长度风险](concepts/ChannelLengthRisk.md) — Distribution risk where more intermediaries can expand reach while weakening price control, authenticity, feedback, service, and brand coherence.
+- [Core Competence Strategy / 核心竞争力战略](concepts/CoreCompetenceStrategy.md) — Strategy discipline of finding the durable capability behind visible assets and choosing goals, markets, and resources around that capability.
+- [Customer Value-Based Pricing / 消费者价值定价](concepts/CustomerValueBasedPricing.md) — Pricing frame that ties price and promotion to consumer value, surplus recognition, retention, and ethical limits.
+- [Marketing Ethics / 营销伦理](concepts/MarketingEthics.md) — Boundary discipline for using targeting, persuasion, pricing, channels, and promotion to create real value rather than manipulate consumers.
+- [Marketing Management Chain / 营销管理链路](concepts/MarketingManagementChain.md) — Integrated strategy-STP-4P route for making marketing decisions coherent from identity and capability through execution.
+- [STP Marketing Framework / STP营销框架](concepts/STPMarketingFramework.md) — Segmentation, targeting, and positioning bridge that turns strategy into customer definition and belief-change positioning.
 - [Contrail Climate Mitigation](concepts/ContrailClimateMitigation.md) — Aviation climate intervention focused on reducing persistent warming contrails through targeted flight-altitude changes.
 - [Climate Externality Cost Allocation](concepts/ClimateExternalityCostAllocation.md) — Policy problem of assigning small operational costs that reduce diffuse climate harm.
 - [German Caretaker Stalemate](concepts/GermanCaretakerStalemate.md) — Saxony-Anhalt scenario where AfD's large plurality does not immediately produce a stable executive.

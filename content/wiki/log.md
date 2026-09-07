@@ -15919,3 +15919,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-08] ingest | EP85 营销管理：Mini MBA 第一课
+
+Ingested the 2026-07-25 纵横四海 Mini MBA episode on marketing management as a strategy-STP-4P chain. Added source `ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a`; created `ZongHengSiHai`, `MarketingManagementChain`, `MarketingEthics`, `BrandBelief`, `CoreCompetenceStrategy`, `STPMarketingFramework`, `CustomerValueBasedPricing`, and `ChannelLengthRisk`. No settled contradiction found; the episode complements existing consumer-brand, willingness-to-pay, and channel-control pages by making their management sequence explicit.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

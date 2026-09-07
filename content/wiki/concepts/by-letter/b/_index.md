@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6631
+wiki_total_pages: 6638
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -500,6 +500,9 @@ wiki_pages:
   - key: "BrainImmuneStateCoupling"
     title: "Brain-Immune State Coupling"
     url: "/wiki/concepts/brainimmunestatecoupling/"
+  - key: "BrandBelief"
+    title: "Brand Belief / 品牌信念"
+    url: "/wiki/concepts/brandbelief/"
   - key: "BrandDNAConsumerCycleFit"
     title: "Brand DNA Consumer Cycle Fit"
     url: "/wiki/concepts/branddnaconsumercyclefit/"

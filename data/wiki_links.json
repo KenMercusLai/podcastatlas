@@ -8327,6 +8327,10 @@
     "title": "Braintree",
     "url": "/wiki/entities/braintree/"
   },
+  "BrandBelief": {
+    "title": "Brand Belief / 品牌信念",
+    "url": "/wiki/concepts/brandbelief/"
+  },
   "BrandControlledAuthentication": {
     "title": "Brand-Controlled Authentication",
     "url": "/wiki/concepts/brandcontrolledauthentication/"
@@ -10230,6 +10234,10 @@
   "ChannelFocusExperiments": {
     "title": "Channel Focus Experiments",
     "url": "/wiki/concepts/channelfocusexperiments/"
+  },
+  "ChannelLengthRisk": {
+    "title": "Channel Length Risk / 渠道长度风险",
+    "url": "/wiki/concepts/channellengthrisk/"
   },
   "ChannelNativeInternalCommunication": {
     "title": "Channel Native Internal Communication",
@@ -13263,6 +13271,10 @@
     "title": "先内后外式战略顺序 / Core-Before-Periphery Strategy",
     "url": "/wiki/concepts/corebeforeperipherystrategy/"
   },
+  "CoreCompetenceStrategy": {
+    "title": "Core Competence Strategy / 核心竞争力战略",
+    "url": "/wiki/concepts/corecompetencestrategy/"
+  },
   "CoreTribePositioning": {
     "title": "Core Tribe Positioning",
     "url": "/wiki/concepts/coretribepositioning/"
@@ -14122,6 +14134,10 @@
   "CustomerSupportAutomation": {
     "title": "Customer Support Automation",
     "url": "/wiki/concepts/customersupportautomation/"
+  },
+  "CustomerValueBasedPricing": {
+    "title": "Customer Value-Based Pricing / 消费者价值定价",
+    "url": "/wiki/concepts/customervaluebasedpricing/"
   },
   "CyberAvatars": {
     "title": "Cyber Avatars",
@@ -36019,6 +36035,14 @@
     "title": "Market Speculation",
     "url": "/wiki/concepts/marketspeculation/"
   },
+  "MarketingEthics": {
+    "title": "Marketing Ethics / 营销伦理",
+    "url": "/wiki/concepts/marketingethics/"
+  },
+  "MarketingManagementChain": {
+    "title": "Marketing Management Chain / 营销管理链路",
+    "url": "/wiki/concepts/marketingmanagementchain/"
+  },
   "MarketplaceFrictionReduction": {
     "title": "Marketplace Friction Reduction",
     "url": "/wiki/concepts/marketplacefrictionreduction/"
@@ -48374,6 +48398,10 @@
   "STIPublicHealthResponse": {
     "title": "STI Public Health Response",
     "url": "/wiki/concepts/stipublichealthresponse/"
+  },
+  "STPMarketingFramework": {
+    "title": "STP Marketing Framework / STP营销框架",
+    "url": "/wiki/concepts/stpmarketingframework/"
   },
   "SVAngel": {
     "title": "SV Angel",
@@ -64735,6 +64763,10 @@
     "title": "宗馥莉 / Zong Fuli",
     "url": "/wiki/entities/zongfuli/"
   },
+  "ZongHengSiHai": {
+    "title": "纵横四海 / Zong Heng Si Hai",
+    "url": "/wiki/entities/zonghengsihai/"
+  },
   "ZongJunEasternHan": {
     "title": "宗均 / Zong Jun (Eastern Han)",
     "url": "/wiki/entities/zongjuneasternhan/"
@@ -66126,6 +66158,10 @@
   "ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i": {
     "title": "EP80 与查理·芒格的跨时空对话：当眼睛失明时，我们看见什么？",
     "url": "/wiki/sources/ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i/"
+  },
+  "ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a": {
+    "title": "EP85 营销管理：Mini MBA 第一课",
+    "url": "/wiki/sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a/"
   },
   "ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj": {
     "title": "EP86 面子、底子、日子：财报只讲这三件事",

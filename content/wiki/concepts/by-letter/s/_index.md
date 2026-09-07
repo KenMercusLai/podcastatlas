@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6631
+wiki_total_pages: 6638
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1418,6 +1418,9 @@ wiki_pages:
   - key: "StoryWithinStoryNarration"
     title: "Story-Within-Story Narration"
     url: "/wiki/concepts/storywithinstorynarration/"
+  - key: "STPMarketingFramework"
+    title: "STP Marketing Framework / STP营销框架"
+    url: "/wiki/concepts/stpmarketingframework/"
   - key: "StrangeTaleMoralPluralism"
     title: "Strange Tale Moral Pluralism"
     url: "/wiki/concepts/strangetalemoralpluralism/"
