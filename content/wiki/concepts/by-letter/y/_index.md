@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 6574
+wiki_total_pages: 6580
 wiki_pages:
   - key: "YangtzeFishingBanRecovery"
     title: "Yangtze Fishing Ban Recovery"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "YuanDanFestivalLayering"
     title: "YuanDan Festival Layering / 元旦节日层累"
     url: "/wiki/concepts/yuandanfestivallayering/"
+  - key: "YunnanCoffeeOriginDevelopment"
+    title: "Yunnan Coffee Origin Development / 云南咖啡产区发展"
+    url: "/wiki/concepts/yunnancoffeeorigindevelopment/"
   - key: "YunnanCuisineMenuNarrative"
     title: "Yunnan Cuisine Menu Narrative / 云南菜路线叙事"
     url: "/wiki/concepts/yunnancuisinemenunarrative/"

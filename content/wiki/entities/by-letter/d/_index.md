@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9191
+wiki_total_pages: 9198
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -929,6 +929,9 @@ wiki_pages:
   - key: "DavidWeng"
     title: "大卫翁 / David Weng"
     url: "/wiki/entities/davidweng/"
+  - key: "DaxiaoDianbo"
+    title: "大小电波"
+    url: "/wiki/entities/daxiaodianbo/"
   - key: "Daliang"
     title: "大梁 / Daliang"
     url: "/wiki/entities/daliang/"
@@ -977,6 +980,9 @@ wiki_pages:
   - key: "Dewu"
     title: "得物 / Dewu"
     url: "/wiki/entities/dewu/"
+  - key: "Dehong"
+    title: "德宏 / Dehong"
+    url: "/wiki/entities/dehong/"
   - key: "Dongniao"
     title: "懂鸟 / Dongniao"
     url: "/wiki/entities/dongniao/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆](sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e.md) — 大小电波 episode with Yu Wenjie on Yunnan coffee sourcing, Mangshi and Dehong origin work, Sarchimor variety fit, processing boundaries, and farmer-income mechanics.
 - [№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」](sources/anyway-195-anyway-195.md) — Anyway.FM crossover with UX Coffee on a U.S. Chinese-language bookstore, leaving screen-centered design, AI pressure on UI/UX work, and AI-enabled small tools as personal outlets.
 - [Vol.225 恒大的足球遗产 ft.潘伟力](sources/vol-225-hengda-de-zuqiu-yichan-ft-panweili-gkwrijeozrpkafcpbatn-ivb.md) — 不懂球 episode with Pan Weili on Evergrande Football School, Guangzhou FC's legacy, the Chinese football golden-yuan era, club-national-team boundary blur, and post-Evergrande Guangzhou supporter continuity.
 - [美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？](sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226.md) — 声动早咖啡 episode on mini beauty products becoming standalone merchandise through lower trial cost, faster trend cycles, fragrance wardrobes, accessorization, retail display, and supply-chain complexity.
@@ -1978,6 +1979,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [大小电波](entities/DaxiaoDianbo.md) — Podcast show hosting the Yunnan coffee sourcing conversation with Yu Wenjie.
+- [余文杰 / Yu Wenjie](entities/YuWenjie.md) — Babbitt Coffee practitioner grounding the Yunnan coffee episode in sourcing, cupping, and origin fieldwork.
+- [巴比特咖啡 / Babbitt Coffee](entities/BabbittCoffee.md) — Coffee company associated with Yu Wenjie's Yunnan sourcing and Mangshi origin relationship.
+- [芒市 / Mangshi](entities/Mangshi.md) — Yunnan city used as a coffee-origin work base and changing border-city destination.
+- [德宏 / Dehong](entities/Dehong.md) — Yunnan coffee region framed through Mangshi, small lots, research resources, and local culture.
+- [普洱 / Pu'er, Yunnan](entities/PuerYunnan.md) — Yunnan coffee area used as the episode's commercial-base comparison point.
+- [保山 / Baoshan, Yunnan](entities/BaoshanYunnan.md) — Yunnan coffee area used as the episode's earlier specialty-coffee comparison point.
 - [Rhode Beauty](entities/RhodeBeauty.md) — Hailey Bieber-linked beauty brand used here as a source-scoped example of lip-product phone-case accessorization.
 - [不合时宜 / Bu He Shi Yi](entities/BuHeShiYi.md) — Chinese podcast represented here by care-series episodes on dementia, autism, disability, family caregiving, and public support systems.
 - [王磬 / Wang Qing](entities/WangQingBuHeShiYi.md) — 不合时宜 host in the autism and Xiaomei gene-editing episode.
@@ -11173,6 +11181,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Yunnan Coffee Origin Development / 云南咖啡产区发展](concepts/YunnanCoffeeOriginDevelopment.md) — Frame for evaluating Yunnan coffee through local variety, terroir, processing, sourcing, commercial scale, and farmer income.
+- [Coffee Sourcing Work / 寻豆工作](concepts/CoffeeSourcingWork.md) — Repeated operational practice of finding, testing, comparing, and buying green coffee through samples, cupping, producer contact, and trade judgment.
+- [Origin Bias in Coffee Evaluation / 咖啡产区偏见](concepts/OriginBiasInCoffeeEvaluation.md) — Sensory-evaluation problem where origin stereotypes shape perceived cup quality before tasting is independently tested.
+- [Sarchimor Yunnan Coffee / 萨奇姆云南咖啡](concepts/SarchimorYunnanCoffee.md) — Yunnan coffee variety strategy balancing flavor, disease resistance, yield, local identity, and farmer income.
+- [Coffee Processing Technology Boundary / 咖啡处理技术边界](concepts/CoffeeProcessingTechnologyBoundary.md) — Distinction between legitimate coffee processing or fermentation and mistaken assumptions about artificial flavoring.
+- [Coffee Farmer Income Mechanics / 咖啡农户收入机制](concepts/CoffeeFarmerIncomeMechanics.md) — Income frame linking fresh-cherry price, yield, variety choice, commodity buyers, crop diversification, and cooperative infrastructure.
 - [Mini Beauty Standalone Product / 迷你美妆独立商品](concepts/MiniBeautyStandaloneProduct.md) — Small-format makeup and fragrance strategy where minis become independently named, packaged, priced, displayed, and accessorized products.
 - [Beauty Accessorization / 美妆配饰化](concepts/BeautyAccessorization.md) — Shift where makeup and fragrance products are designed to be visibly carried, hung, photographed, or styled like accessories.
 - [Fragrance Wardrobe / 香水衣橱](concepts/FragranceWardrobe.md) — Pattern of owning and rotating multiple scents by mood, season, occasion, identity, or layering need.

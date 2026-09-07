@@ -6491,6 +6491,10 @@
     "title": "巴肃 / Ba Su (late Han)",
     "url": "/wiki/entities/basulatehan/"
   },
+  "BabbittCoffee": {
+    "title": "巴比特咖啡 / Babbitt Coffee",
+    "url": "/wiki/entities/babbittcoffee/"
+  },
   "BabingtonPlot": {
     "title": "Babington Plot",
     "url": "/wiki/entities/babingtonplot/"
@@ -6834,6 +6838,10 @@
   "Baopuzi": {
     "title": "Baopuzi / 《抱朴子》",
     "url": "/wiki/entities/baopuzi/"
+  },
+  "BaoshanYunnan": {
+    "title": "保山 / Baoshan, Yunnan",
+    "url": "/wiki/entities/baoshanyunnan/"
   },
   "BarackObama": {
     "title": "Barack Obama",
@@ -12251,6 +12259,18 @@
     "title": "Coffee Date Affordance / 咖啡馆约会可退可进性",
     "url": "/wiki/concepts/coffeedateaffordance/"
   },
+  "CoffeeFarmerIncomeMechanics": {
+    "title": "Coffee Farmer Income Mechanics / 咖啡农户收入机制",
+    "url": "/wiki/concepts/coffeefarmerincomemechanics/"
+  },
+  "CoffeeProcessingTechnologyBoundary": {
+    "title": "Coffee Processing Technology Boundary / 咖啡处理技术边界",
+    "url": "/wiki/concepts/coffeeprocessingtechnologyboundary/"
+  },
+  "CoffeeSourcingWork": {
+    "title": "Coffee Sourcing Work / 寻豆工作",
+    "url": "/wiki/concepts/coffeesourcingwork/"
+  },
   "CoffeeSupplyChainLocalization": {
     "title": "Coffee Supply Chain Localization",
     "url": "/wiki/concepts/coffeesupplychainlocalization/"
@@ -14887,6 +14907,10 @@
     "title": "Dawon Kahng / 姜大元",
     "url": "/wiki/entities/dawonkahng/"
   },
+  "DaxiaoDianbo": {
+    "title": "大小电波",
+    "url": "/wiki/entities/daxiaodianbo/"
+  },
   "Daxiong": {
     "title": "大雄",
     "url": "/wiki/entities/daxiong/"
@@ -15122,6 +15146,10 @@
   "Dehomag": {
     "title": "Dehomag / 德霍梅格",
     "url": "/wiki/entities/dehomag/"
+  },
+  "Dehong": {
+    "title": "德宏 / Dehong",
+    "url": "/wiki/entities/dehong/"
   },
   "DehumanizationByComparison": {
     "title": "Dehumanization By Comparison / 比较导致的去人性化",
@@ -35323,6 +35351,10 @@
     "title": "芒果TV / Mango TV",
     "url": "/wiki/entities/mangotv/"
   },
+  "Mangshi": {
+    "title": "芒市 / Mangshi",
+    "url": "/wiki/entities/mangshi/"
+  },
   "ManiSkill": {
     "title": "ManiSkill",
     "url": "/wiki/entities/maniskill/"
@@ -40927,6 +40959,10 @@
     "title": "东方主义谜题误导 / Orientalist Mystery Misdirection",
     "url": "/wiki/concepts/orientalistmysterymisdirection/"
   },
+  "OriginBiasInCoffeeEvaluation": {
+    "title": "Origin Bias in Coffee Evaluation / 咖啡产区偏见",
+    "url": "/wiki/concepts/originbiasincoffeeevaluation/"
+  },
   "OriginTraceabilityMoat": {
     "title": "Origin Traceability Moat",
     "url": "/wiki/concepts/origintraceabilitymoat/"
@@ -44703,6 +44739,10 @@
     "title": "Puer Aeternus / 永恒少年",
     "url": "/wiki/concepts/pueraeternus/"
   },
+  "PuerYunnan": {
+    "title": "普洱 / Pu'er, Yunnan",
+    "url": "/wiki/entities/pueryunnan/"
+  },
   "Pulley": {
     "title": "Pulley",
     "url": "/wiki/entities/pulley/"
@@ -48442,6 +48482,10 @@
   "SarahsGlutenFreeGoods": {
     "title": "Sarah's Gluten-Free Goods",
     "url": "/wiki/entities/sarahsglutenfreegoods/"
+  },
+  "SarchimorYunnanCoffee": {
+    "title": "Sarchimor Yunnan Coffee / 萨奇姆云南咖啡",
+    "url": "/wiki/concepts/sarchimoryunnancoffee/"
   },
   "Saronic": {
     "title": "Saronic",
@@ -62075,6 +62119,10 @@
     "title": "余婉柔 / Yu Wanrou (functional food guest)",
     "url": "/wiki/entities/yuwanroufunctionalfoodguest/"
   },
+  "YuWenjie": {
+    "title": "余文杰 / Yu Wenjie",
+    "url": "/wiki/entities/yuwenjie/"
+  },
   "YuWenyuan": {
     "title": "Yu Wenyuan",
     "url": "/wiki/entities/yuwenyuan/"
@@ -62322,6 +62370,10 @@
   "Yunnan": {
     "title": "Yunnan / 云南",
     "url": "/wiki/entities/yunnan/"
+  },
+  "YunnanCoffeeOriginDevelopment": {
+    "title": "Yunnan Coffee Origin Development / 云南咖啡产区发展",
+    "url": "/wiki/concepts/yunnancoffeeorigindevelopment/"
   },
   "YunnanCuisineMenuNarrative": {
     "title": "Yunnan Cuisine Menu Narrative / 云南菜路线叙事",
@@ -66010,6 +66062,10 @@
   "justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b": {
     "title": "Justin's Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.",
     "url": "/wiki/sources/justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b/"
+  },
+  "kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e": {
+    "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
+    "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
   },
   "kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222": {
     "title": "咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？",

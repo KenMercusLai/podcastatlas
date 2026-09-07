@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6574
+wiki_total_pages: 6580
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -950,6 +950,15 @@ wiki_pages:
   - key: "CoffeeDateAffordance"
     title: "Coffee Date Affordance / 咖啡馆约会可退可进性"
     url: "/wiki/concepts/coffeedateaffordance/"
+  - key: "CoffeeFarmerIncomeMechanics"
+    title: "Coffee Farmer Income Mechanics / 咖啡农户收入机制"
+    url: "/wiki/concepts/coffeefarmerincomemechanics/"
+  - key: "CoffeeProcessingTechnologyBoundary"
+    title: "Coffee Processing Technology Boundary / 咖啡处理技术边界"
+    url: "/wiki/concepts/coffeeprocessingtechnologyboundary/"
+  - key: "CoffeeSourcingWork"
+    title: "Coffee Sourcing Work / 寻豆工作"
+    url: "/wiki/concepts/coffeesourcingwork/"
   - key: "CoffeeSupplyChainLocalization"
     title: "Coffee Supply Chain Localization"
     url: "/wiki/concepts/coffeesupplychainlocalization/"

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-07] ingest | 咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆
+
+Ingested the 2026-08-25 大小电波 episode with Yu Wenjie of Babbitt Coffee on Yunnan coffee, Mangshi and Dehong origin work, old Yunnan flavor stereotypes, blind cupping, Sarchimor variety fit, processing and fermentation boundaries, smallholder income, fresh-cherry prices, and cafe or tourism changes in Mangshi. Added source `kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e`; created `DaxiaoDianbo`, `YuWenjie`, `BabbittCoffee`, `Mangshi`, `Dehong`, `PuerYunnan`, `BaoshanYunnan`, `YunnanCoffeeOriginDevelopment`, `CoffeeSourcingWork`, `OriginBiasInCoffeeEvaluation`, `SarchimorYunnanCoffee`, `CoffeeProcessingTechnologyBoundary`, and `CoffeeFarmerIncomeMechanics`; updated `index` and `overview`. No settled contradiction found; competition scores, high-altitude lot quality, yield examples, cafe counts, price figures, and future product plans remain source-scoped.
+
 ## [2026-09-07] ingest | Episode 224: 不是不识不时不适
 
 Ingested the 2026-08-13 迟早更新 episode with Ren Ning on book-review misreading, bodily writing, reading-comprehension fragility, Luria's practical-reasoning cases, Walter Ong's literacy theory, Vannevar Bush's Memex, AI statistical association, and experiential association as a possible human literary advantage. Added source `episode-224-bushi-bushi-bushi-bushi-8213451338-252768`; created `AlexanderLuria`, `WalterOng`, `VannevarBush`, `Memex`, `TheEndOfReadingIsHere`, `ReadingComprehensionFragility`, `TextShapedCognition`, `AssociativeKnowledgeSystems`, `AIStatisticalAssociation`, `ExperientialAssociation`, and `SecondaryOralityInAIEra`; updated `ChizaoGengxin`, `RenNing`, `HopeIsTheThingWithFeathersBook`, `index`, and `overview`. No settled contradiction found; reading-decline causality, the Atlantic article's research claims, and the future human-AI creative division remain source-scoped.
@@ -15783,6 +15787,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-07] ingest | 703. Roman Civil War: Marching on the Senate (Part 3)
 
 Ingested the 2026-09-06 The Rest Is History episode on Sulla's first march on Rome, Senate-backed public-enemy outlawry, Marius's exile and armed return, Cinna and Octavius, Pompeius Strabo's army brokerage, Mithridates's anti-Roman campaign, Athens under Aristion, and the imminent full civil war. Added source `703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511`; created `LuciusCorneliusCinna`, `GnaeusOctaviusRomanConsul`, `AristionAthens`, `Athens`, and `FirstMarchOnRome`; updated `GaiusMarius`, `LuciusCorneliusSulla`, `RomanRepublic`, `MithridatesVI`, `PubliusSulpiciusRufus`, `GnaeusPompeiusStrabo`, `ManiusAquillius`, `LateRomanRepublicCrisis`, `MilitaryPersonalization`, `RepublicanCommandTransferCrisis`, `RepublicanEmergencyViolencePrecedent`, `RomanExpansionMoralAnxiety`, and `index`. No settled contradiction found; the Asian massacre figure, Marius exile traditions, Aristion's full political program, and the exact causality between Sulla's personality and structural military change remain source-scoped.
+
+## [2026-09-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-07] lint | Wiki health check
 

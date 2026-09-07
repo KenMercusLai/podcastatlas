@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6574
+wiki_total_pages: 6580
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -443,6 +443,9 @@ wiki_pages:
   - key: "OrganoidComputing"
     title: "Organoid Computing"
     url: "/wiki/concepts/organoidcomputing/"
+  - key: "OriginBiasInCoffeeEvaluation"
+    title: "Origin Bias in Coffee Evaluation / 咖啡产区偏见"
+    url: "/wiki/concepts/originbiasincoffeeevaluation/"
   - key: "OriginTraceabilityMoat"
     title: "Origin Traceability Moat"
     url: "/wiki/concepts/origintraceabilitymoat/"

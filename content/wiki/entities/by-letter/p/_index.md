@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 9191
+wiki_total_pages: 9198
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -908,6 +908,9 @@ wiki_pages:
   - key: "PengYue"
     title: "彭越 / Peng Yue"
     url: "/wiki/entities/pengyue/"
+  - key: "PuerYunnan"
+    title: "普洱 / Pu'er, Yunnan"
+    url: "/wiki/entities/pueryunnan/"
   - key: "PupuSupermarket"
     title: "朴朴超市 / Pupu Supermarket"
     url: "/wiki/entities/pupusupermarket/"

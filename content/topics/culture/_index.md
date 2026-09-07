@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2488
+topic_total_pages: 2489
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6020,6 +6020,9 @@ topic_entities:
   - key: "XiaJieyi"
     title: "夏洁逸 / Xia Jieyi"
     url: "/wiki/entities/xiajieyi/"
+  - key: "DaxiaoDianbo"
+    title: "大小电波"
+    url: "/wiki/entities/daxiaodianbo/"
   - key: "ObaYozo"
     title: "大庭叶藏 / Oba Yozo"
     url: "/wiki/entities/obayozo/"

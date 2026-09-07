@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9191
+wiki_total_pages: 9198
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1502,6 +1502,9 @@ wiki_pages:
   - key: "MangMao"
     title: "芒卯 / Mang Mao"
     url: "/wiki/entities/mangmao/"
+  - key: "Mangshi"
+    title: "芒市 / Mangshi"
+    url: "/wiki/entities/mangshi/"
   - key: "MangoTV"
     title: "芒果TV / Mango TV"
     url: "/wiki/entities/mangotv/"

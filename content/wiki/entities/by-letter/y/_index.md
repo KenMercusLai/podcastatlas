@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 9191
+wiki_total_pages: 9198
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "YuWanrouFunctionalFoodGuest"
     title: "余婉柔 / Yu Wanrou (functional food guest)"
     url: "/wiki/entities/yuwanroufunctionalfoodguest/"
+  - key: "YuWenjie"
+    title: "余文杰 / Yu Wenjie"
+    url: "/wiki/entities/yuwenjie/"
   - key: "YuFanjun"
     title: "余樊君 / Yu Fanjun"
     url: "/wiki/entities/yufanjun/"

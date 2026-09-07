@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6574
+wiki_total_pages: 6580
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "SantoriniAtlantisTheory"
     title: "Santorini Atlantis Theory"
     url: "/wiki/concepts/santoriniatlantistheory/"
+  - key: "SarchimorYunnanCoffee"
+    title: "Sarchimor Yunnan Coffee / 萨奇姆云南咖啡"
+    url: "/wiki/concepts/sarchimoryunnancoffee/"
   - key: "SatelliteConnectivityCompetition"
     title: "Satellite Connectivity Competition"
     url: "/wiki/concepts/satelliteconnectivitycompetition/"

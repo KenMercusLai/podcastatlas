@@ -6563,6 +6563,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/basulatehan/"
     },
+    "BabbittCoffee": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
+          "key": "kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e",
+          "show": "大小电波",
+          "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
+          "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/babbittcoffee/"
+    },
     "BaihuGuanConference": {
       "episode_count": 1,
       "show_count": 1,
@@ -7123,6 +7139,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/baoyueasternhan/"
+    },
+    "BaoshanYunnan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
+          "key": "kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e",
+          "show": "大小电波",
+          "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
+          "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/baoshanyunnan/"
     },
     "Barbados": {
       "episode_count": 1,
@@ -12844,6 +12876,54 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/coerciveimplicationcascade/"
     },
+    "CoffeeFarmerIncomeMechanics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
+          "key": "kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e",
+          "show": "大小电波",
+          "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
+          "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/coffeefarmerincomemechanics/"
+    },
+    "CoffeeProcessingTechnologyBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
+          "key": "kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e",
+          "show": "大小电波",
+          "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
+          "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/coffeeprocessingtechnologyboundary/"
+    },
+    "CoffeeSourcingWork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
+          "key": "kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e",
+          "show": "大小电波",
+          "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
+          "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/coffeesourcingwork/"
+    },
     "CognitiveAging": {
       "episode_count": 1,
       "show_count": 1,
@@ -15889,6 +15969,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/davidyeager/"
     },
+    "DaxiaoDianbo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
+          "key": "kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e",
+          "show": "大小电波",
+          "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
+          "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/daxiaodianbo/"
+    },
     "DaymondJohn": {
       "episode_count": 1,
       "show_count": 1,
@@ -16074,6 +16170,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/defeateddowagerlegitimacymanagement/"
+    },
+    "Dehong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
+          "key": "kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e",
+          "show": "大小电波",
+          "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
+          "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/dehong/"
     },
     "DeleteRequestAndOptOutPlatform": {
       "episode_count": 2,
@@ -44636,6 +44748,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/managedserviceautomationlayer/"
     },
+    "Mangshi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
+          "key": "kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e",
+          "show": "大小电波",
+          "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
+          "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/mangshi/"
+    },
     "ManiusAquillius": {
       "episode_count": 2,
       "show_count": 1,
@@ -50248,6 +50376,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/orientalleaf/"
     },
+    "OriginBiasInCoffeeEvaluation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
+          "key": "kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e",
+          "show": "大小电波",
+          "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
+          "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/originbiasincoffeeevaluation/"
+    },
     "OsorioDuqueEstrada": {
       "episode_count": 1,
       "show_count": 1,
@@ -54854,6 +54998,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/publiussulpiciusrufus/"
     },
+    "PuerYunnan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
+          "key": "kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e",
+          "show": "大小电波",
+          "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
+          "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/pueryunnan/"
+    },
     "Puma": {
       "episode_count": 2,
       "show_count": 2,
@@ -59129,6 +59289,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/sarahsglutenfreegoods/"
+    },
+    "SarchimorYunnanCoffee": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
+          "key": "kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e",
+          "show": "大小电波",
+          "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
+          "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/sarchimoryunnancoffee/"
     },
     "SaturnBird": {
       "episode_count": 1,
@@ -75592,6 +75768,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/yuwanroufunctionalfoodguest/"
     },
+    "YuWenjie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
+          "key": "kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e",
+          "show": "大小电波",
+          "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
+          "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/yuwenjie/"
+    },
     "YuXuEasternHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -76048,6 +76240,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/yuezhi/"
+    },
+    "YunnanCoffeeOriginDevelopment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
+          "key": "kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e",
+          "show": "大小电波",
+          "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
+          "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/yunnancoffeeorigindevelopment/"
     },
     "YuvalNoahHarari": {
       "episode_count": 1,

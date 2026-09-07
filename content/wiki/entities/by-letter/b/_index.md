@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9191
+wiki_total_pages: 9198
 wiki_pages:
   - key: "BSpecials"
     title: "B Specials"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "BoRongLateHan"
     title: "伯荣 / Bo Rong (late Han)"
     url: "/wiki/entities/boronglatehan/"
+  - key: "BaoshanYunnan"
+    title: "保山 / Baoshan, Yunnan"
+    url: "/wiki/entities/baoshanyunnan/"
   - key: "BeijingOrientalPlaza"
     title: "北京东方新天地 / Beijing Oriental Plaza"
     url: "/wiki/entities/beijingorientalplaza/"
@@ -953,6 +956,9 @@ wiki_pages:
   - key: "BaStateWarringStates"
     title: "巴国 / Ba State (Warring States)"
     url: "/wiki/entities/bastatewarringstates/"
+  - key: "BabbittCoffee"
+    title: "巴比特咖啡 / Babbitt Coffee"
+    url: "/wiki/entities/babbittcoffee/"
   - key: "BaSuLateHan"
     title: "巴肃 / Ba Su (late Han)"
     url: "/wiki/entities/basulatehan/"
