@@ -13,6 +13,7 @@ sources:
   - no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna
   - no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht
   - no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni
+  - no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3
 last_updated: 2026-09-09
 knowledge_schema: synthesis-v1
 ---
@@ -30,6 +31,8 @@ The [[Didi]] safety episode adds a different version of the same interviewer pro
 The [[AHACreator|AHA Creator]] episode adds Liu's founder-operator questioning around AI commercialization. He frames the conversation around whether AI is solving real productivity problems, then pushes [[KateAHA|Kate]] to explain overseas creator marketing as a concrete chain of search, matching, communication, negotiation, payment, review, and customer approval.
 
 The [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]] episode adds Liu's AI-native content and original-IP questioning. He draws [[HanqingUrey|汗青]] from [[AITalk|AI Talk]]'s viral public-figure dialogue experiments into the harder questions of why an AI idol can move people, when realism becomes collapse risk, and why personality, narrative, and judgment remain scarce after model output becomes abundant.
+
+The [[NvwaZhiSi|《女娲之死》]] episode adds Liu's AI-filmmaking workflow questioning with [[JiaoshouYiXiaoxing|叫兽易小星]] and [[LiChenFenmo|李晨]]. He uses the [[BilibiliAICreationContest|B站 AI 创作大赛]] context to draw out how AI short films are actually made: script, storyboards, image generation, model choice, editing, finishing, hallucination checking, and responsibility after output.
 
 The [[DouyinEcommerce|抖音电商]] infringement episode adds Liu's platform-governance questioning around AI impersonation. He uses concrete live-room, celebrity voice, product-detail, account, and authorization examples to pull [[ZhuWeiLegalScholar|朱威]] and [[JiaxuDouyinEcommerce|嘉旭]] into the practical boundary between AI as a commerce tool and AI as rights misuse or consumer deception.
 
@@ -57,6 +60,7 @@ The [[Sspai|少数派]] episode adds Liu's community-history questioning. With [
 - Platform-safety interviewing - [[no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi]] has Liu interview [[XuXiaonan|徐晓楠 / 曲晓楠]] about [[Didi]]'s ride-hailing safety boundary, AI warning funnel, false alarms, privacy controls, and passenger self-protection.
 - Founder-workflow interviewing - [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]] has Liu interview [[KateAHA|Kate]] about [[AHACreator|AHA Creator]], AI-driven creator matching, AI employee interfaces, customer approval, and the difference between overseas native creative and domestic channel-style placement.
 - AI-native IP interviewing - [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]] has Liu interview [[HanqingUrey|汗青]] about [[AITalk|AI Talk]], [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]], [[AINativeVirtualIdol]], personality, model workflow, and AI character interaction risk.
+- AI-filmmaking workflow interviewing - [[no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3]] has Liu interview [[JiaoshouYiXiaoxing|叫兽易小星]] and [[LiChenFenmo|李晨]] about [[NvwaZhiSi|《女娲之死》]], AI short-film workflow, model choice, polishing labor, and creator responsibility.
 - AI commerce-rights interviewing - [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]] has Liu interview [[ZhuWeiLegalScholar|朱威]] and [[JiaxuDouyinEcommerce|嘉旭]] about [[DouyinEcommerce|抖音电商]], AI voice and likeness infringement, authorization records, pre-review, appeal, and consumer confusion.
 - Marketing-science interviewing - [[no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna]] has Liu interview [[LiuXiaoweiMarketing|刘晓微]] about [[Kuaishou]], content seeding, R3 seeded audiences, search/store/live-room behavior, and brand-performance integration.
 - Founder-operator interviewing - [[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht]] has Liu interview [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]] about [[YuzhouEBike|宇宙 E-Bike]], investment-to-operations learning, premium e-bike strategy, and AI-native manufacturing.
@@ -66,11 +70,8 @@ The [[Sspai|少数派]] episode adds Liu's community-history questioning. With [
 The wiki profile is source-limited to podcast appearances and does not attempt a full biography. Liu Fei is distinct from [[LiuFeiQiKing|刘肥]], the historical Qi king page with a semantic suffix.
 
 ## What Changed
-- Added the 少数派 episode, extending Liu's profile into technology-community history, niche media value, creator incentives, and product co-creation questioning.
-- Added the AHA Creator episode, extending Liu's profile into AI commercialization and user-site workflow questioning.
-- Added the Hanqing/Yuri episode, extending Liu's profile into AI-native virtual idols, original IP, and personality-system risk.
-- Added the Douyin ecommerce episode, extending Liu's profile into AI-enabled rights governance and platform authorization boundaries.
-- Added the Kuaishou seeding episode, extending Liu's profile into marketing science, content commerce, and brand-performance path questioning.
+- Added the No.227 AI-filmmaking episode, extending Liu's profile into AI short-film production, tool choice, creator anxiety, and human responsibility.
+- Connected the new source to his existing 三五环 AI-creator interview pattern.
 
 ## Relationships
 - [[Banlatte|半拿铁]] - cohost and business-storytelling context.
@@ -80,6 +81,9 @@ The wiki profile is source-limited to podcast appearances and does not attempt a
 - [[Chouxiangzai|抽象仔 / 抽象宅]] - guest in Liu's AI-video creator and commercialization interview.
 - [[HanqingUrey|汗青]] - guest in Liu's AI-native virtual-idol interview.
 - [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]] - virtual-idol case discussed in Liu's interview.
+- [[JiaoshouYiXiaoxing|叫兽易小星]] - guest in Liu's AI-filmmaking workflow interview.
+- [[LiChenFenmo|李晨]] - guest in Liu's AI-filmmaking workflow interview.
+- [[NvwaZhiSi|《女娲之死》]] - AI short-film case discussed in Liu's interview.
 - [[ZhuWeiLegalScholar|朱威]] - guest in Liu's AI ecommerce infringement interview.
 - [[JiaxuDouyinEcommerce|嘉旭]] - guest in Liu's Douyin ecommerce infringement interview.
 - [[DouyinEcommerce|抖音电商]] - platform case in Liu's rights-governance interview.

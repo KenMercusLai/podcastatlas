@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 9367
+wiki_total_pages: 9371
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -629,6 +629,9 @@ wiki_pages:
   - key: "NanjingNanjing"
     title: "《南京！南京！》 / Nanjing! Nanjing!"
     url: "/wiki/entities/nanjingnanjing/"
+  - key: "NvwaZhiSi"
+    title: "《女娲之死》"
+    url: "/wiki/entities/nvwazhisi/"
   - key: "NushiShijie"
     title: "《女子世界》"
     url: "/wiki/entities/nushishijie/"

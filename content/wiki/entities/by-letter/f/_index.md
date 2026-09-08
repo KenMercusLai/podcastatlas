@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9367
+wiki_total_pages: 9371
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -860,6 +860,9 @@ wiki_pages:
   - key: "FifthZhongLateHan"
     title: "第五种 / Fifth Zhong (late Han)"
     url: "/wiki/entities/fifthzhonglatehan/"
+  - key: "FenmoTeam"
+    title: "粉墨 / Fenmo"
+    url: "/wiki/entities/fenmoteam/"
   - key: "FanQinLateHan"
     title: "繁钦 / Fan Qin (late Han)"
     url: "/wiki/entities/fanqinlatehan/"

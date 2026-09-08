@@ -7707,6 +7707,10 @@
     "title": "Bilibili / 哔哩哔哩",
     "url": "/wiki/entities/bilibili/"
   },
+  "BilibiliAICreationContest": {
+    "title": "B站 AI 创作大赛 / Bilibili AI Creation Contest",
+    "url": "/wiki/entities/bilibiliaicreationcontest/"
+  },
   "BillBishop": {
     "title": "Bill Bishop",
     "url": "/wiki/entities/billbishop/"
@@ -20318,6 +20322,10 @@
   "Fengze": {
     "title": "逢泽 / Fengze",
     "url": "/wiki/entities/fengze/"
+  },
+  "FenmoTeam": {
+    "title": "粉墨 / Fenmo",
+    "url": "/wiki/entities/fenmoteam/"
   },
   "FenwaySportsGroup": {
     "title": "Fenway Sports Group",
@@ -33023,6 +33031,10 @@
     "title": "李冰 / Li Bing",
     "url": "/wiki/entities/libing/"
   },
+  "LiChenFenmo": {
+    "title": "李晨 / Li Chen (粉墨)",
+    "url": "/wiki/entities/lichenfenmo/"
+  },
   "LiChenyangNotary": {
     "title": "李晨阳 / Li Chenyang",
     "url": "/wiki/entities/lichenyangnotary/"
@@ -40842,6 +40854,10 @@
   "NvidiaVeraRubinPlatform": {
     "title": "Nvidia Vera Rubin Platform",
     "url": "/wiki/entities/nvidiaverarubinplatform/"
+  },
+  "NvwaZhiSi": {
+    "title": "《女娲之死》",
+    "url": "/wiki/entities/nvwazhisi/"
   },
   "O1": {
     "title": "O1",
@@ -67894,6 +67910,10 @@
   "no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt": {
     "title": "No.226 AI 越强，创业者越要回到用户现场",
     "url": "/wiki/sources/no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt/"
+  },
+  "no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3": {
+    "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
+    "url": "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
   },
   "no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi": {
     "title": "No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全",

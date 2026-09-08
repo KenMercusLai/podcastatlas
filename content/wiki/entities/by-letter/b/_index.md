@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9367
+wiki_total_pages: 9371
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -863,6 +863,9 @@ wiki_pages:
   - key: "BundnisSahraWagenknecht"
     title: "Bündnis Sahra Wagenknecht / BSW"
     url: "/wiki/entities/bundnissahrawagenknecht/"
+  - key: "BilibiliAICreationContest"
+    title: "B站 AI 创作大赛 / Bilibili AI Creation Contest"
+    url: "/wiki/entities/bilibiliaicreationcontest/"
   - key: "BuChengWenTiDeWenTi"
     title: "《不成问题的问题》"
     url: "/wiki/entities/buchengwentidewenti/"

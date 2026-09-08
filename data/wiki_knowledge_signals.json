@@ -1437,9 +1437,9 @@
       "url": "/wiki/concepts/aidatareadiness/"
     },
     "AIDirectorCoreWorkflow": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 ｜ S10E11 [3c05e3d5-d8f6-44c1-97ca-698261d7b2bc].md",
@@ -1454,9 +1454,16 @@
           "show": "三五环",
           "title": "No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达",
           "url": "/wiki/sources/no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81/"
+        },
+        {
+          "episode_file": "GKwRIMAOOUT3AYJcIQS8g9G3 [GKwRIMAOOUT3AYJcIQS8g9G3].md",
+          "key": "no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3",
+          "show": "三五环",
+          "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
+          "url": "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-09",
       "url": "/wiki/concepts/aidirectorcoreworkflow/"
     },
     "AIDrivenCreatorMarketing": {
@@ -2611,6 +2618,78 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/aiuniversitycampusreframing/"
+    },
+    "AIVideoProductionWorkflow": {
+      "episode_count": 9,
+      "show_count": 7,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能 [lqprBTGi7PKCh3hJ3wXa1Q8WoVox].md",
+          "key": "ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox",
+          "show": "Talk三联",
+          "title": "EP277 对话贾樟柯（下）：我没有背叛真实世界，我只是在寻找电影的新可能",
+          "url": "/wiki/sources/ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Open Source Wins, AGI Is Here, and Scorsese’s AI Toolkit with CEOs of Cerebras & Black Forest Labs [42029880].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_1529ddc36df4251a68968e1fc79c1821_30527497 [default.mp3_ywr3ahjkcgo_1529ddc36df4251a68968e1fc79c1821_30527497].md",
+          "key": "the-business-of-heated-rivalry",
+          "show": "Planet Money",
+          "title": "The Business of Heated Rivalry",
+          "url": "/wiki/sources/the-business-of-heated-rivalry/"
+        },
+        {
+          "episode_file": "E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由 [b2be7093-3366-4ee2-8a7a-625f06206ae5].md",
+          "key": "e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5",
+          "show": "硅谷101",
+          "title": "E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由",
+          "url": "/wiki/sources/e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5/"
+        },
+        {
+          "episode_file": "266.从红果到AI短剧：谁在革谁的命？ [lgZf6BU7bfaLR5QvNhlFZkuFAHOb].md",
+          "key": "266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob",
+          "show": "乱翻书",
+          "title": "266.从红果到AI短剧：谁在革谁的命？",
+          "url": "/wiki/sources/266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob/"
+        },
+        {
+          "episode_file": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？ [lrvMi-rUXZ81afNqXDFK_dLdIxhX].md",
+          "key": "267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx",
+          "show": "乱翻书",
+          "title": "267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？",
+          "url": "/wiki/sources/267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx/"
+        },
+        {
+          "episode_file": "269.真人短剧的下一战：与AI共生、工业化和好故事 [lmwHgQD0rgE4mr0FWP5QPR2scWXt].md",
+          "key": "269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt",
+          "show": "乱翻书",
+          "title": "269.真人短剧的下一战：与AI共生、工业化和好故事",
+          "url": "/wiki/sources/269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt/"
+        },
+        {
+          "episode_file": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 ｜ S10E11 [3c05e3d5-d8f6-44c1-97ca-698261d7b2bc].md",
+          "key": "cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc",
+          "show": "What's Next｜科技早知道",
+          "title": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11",
+          "url": "/wiki/sources/cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc/"
+        },
+        {
+          "episode_file": "GKwRIMAOOUT3AYJcIQS8g9G3 [GKwRIMAOOUT3AYJcIQS8g9G3].md",
+          "key": "no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3",
+          "show": "三五环",
+          "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
+          "url": "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/aivideoproductionworkflow/"
     },
     "AIVoiceCloningRights": {
       "episode_count": 4,
@@ -8259,9 +8338,9 @@
       "url": "/wiki/concepts/bigtobaccoplatformanalogy/"
     },
     "Bilibili": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "No.214 寻找同类：小红书、bilibili，以及五花八门的那些社区 ｜ 中国互联网故事 26 [1005977305].md",
@@ -8276,10 +8355,33 @@
           "show": "声动早咖啡",
           "title": "凯乐石在欧洲开店，广告首次成为 B 站第一大业务",
           "url": "/wiki/sources/kaile-shi-zai-ouzhou-kaidian-guanggao-shouci-chengwei-b-zhan-diyi-da-yewu-1010144081/"
+        },
+        {
+          "episode_file": "GKwRIMAOOUT3AYJcIQS8g9G3 [GKwRIMAOOUT3AYJcIQS8g9G3].md",
+          "key": "no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3",
+          "show": "三五环",
+          "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
+          "url": "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/bilibili/"
+    },
+    "BilibiliAICreationContest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOOUT3AYJcIQS8g9G3 [GKwRIMAOOUT3AYJcIQS8g9G3].md",
+          "key": "no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3",
+          "show": "三五环",
+          "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
+          "url": "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/bilibiliaicreationcontest/"
     },
     "Binance": {
       "episode_count": 1,
@@ -26501,6 +26603,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/fengyishanbattlelatehan/"
     },
+    "FenmoTeam": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOOUT3AYJcIQS8g9G3 [GKwRIMAOOUT3AYJcIQS8g9G3].md",
+          "key": "no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3",
+          "show": "三五环",
+          "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
+          "url": "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/fenmoteam/"
+    },
     "Ferrero": {
       "episode_count": 1,
       "show_count": 1,
@@ -39608,6 +39726,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/jiaozhongshuleking/"
     },
+    "JiaoshouYiXiaoxing": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.204 互联网视频平台混战：从后舍男生到漫长的季节 ｜ 中国互联网故事21 [980902194].md",
+          "key": "no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.204 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21",
+          "url": "/wiki/sources/no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194/"
+        },
+        {
+          "episode_file": "GKwRIMAOOUT3AYJcIQS8g9G3 [GKwRIMAOOUT3AYJcIQS8g9G3].md",
+          "key": "no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3",
+          "show": "三五环",
+          "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
+          "url": "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/jiaoshouyixiaoxing/"
+    },
     "JiaozhiCommandery": {
       "episode_count": 5,
       "show_count": 1,
@@ -42656,6 +42797,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/lexisnexis/"
     },
+    "LiChenFenmo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOOUT3AYJcIQS8g9G3 [GKwRIMAOOUT3AYJcIQS8g9G3].md",
+          "key": "no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3",
+          "show": "三五环",
+          "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
+          "url": "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/lichenfenmo/"
+    },
     "LiChenyangNotary": {
       "episode_count": 1,
       "show_count": 1,
@@ -44532,9 +44689,9 @@
       "url": "/wiki/entities/liufanglatehan/"
     },
     "LiuFei": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -44605,6 +44762,13 @@
           "show": "三五环",
           "title": "No.229 对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派",
           "url": "/wiki/sources/no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni/"
+        },
+        {
+          "episode_file": "GKwRIMAOOUT3AYJcIQS8g9G3 [GKwRIMAOOUT3AYJcIQS8g9G3].md",
+          "key": "no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3",
+          "show": "三五环",
+          "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
+          "url": "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
         }
       ],
       "updated": "2026-09-09",
@@ -54285,6 +54449,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/nutritiontriagethreshold/"
+    },
+    "NvwaZhiSi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOOUT3AYJcIQS8g9G3 [GKwRIMAOOUT3AYJcIQS8g9G3].md",
+          "key": "no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3",
+          "show": "三五环",
+          "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
+          "url": "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/nvwazhisi/"
     },
     "OCDCompulsionReinforcementLoop": {
       "episode_count": 1,
@@ -65290,9 +65470,9 @@
       "url": "/wiki/entities/samueljohnson/"
     },
     "SanWuHuan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -65363,6 +65543,13 @@
           "show": "三五环",
           "title": "No.229 对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派",
           "url": "/wiki/sources/no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni/"
+        },
+        {
+          "episode_file": "GKwRIMAOOUT3AYJcIQS8g9G3 [GKwRIMAOOUT3AYJcIQS8g9G3].md",
+          "key": "no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3",
+          "show": "三五环",
+          "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
+          "url": "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
         }
       ],
       "updated": "2026-09-09",

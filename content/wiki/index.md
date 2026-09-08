@@ -43,6 +43,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [史蒂夫说469期 - 童立 - 最好的关系是在爱人怀里尽情阳w早x](sources/shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb.md) — 史蒂夫说 interview with Tong Li on sexual recession, lifelong sex education, sexual exploration, male vulnerability, sexual-function relationship context, counseling boundaries, AI companionship, and adult products as relationship tools.
 - [No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？](sources/no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj.md) — 三五环 interview with Hanqing on AI Talk, Yuri / 尤栗 / 优瑞, AI-native virtual idols, multi-model music/video workflow, personality systems, and real-time AI character risk.
 - [No.226 AI 越强，创业者越要回到用户现场](sources/no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt.md) — 三五环 interview with AHA Creator founder Kate on using AI for overseas creator matching, authenticity checks, multilingual outreach, workflow follow-up, first-pass brief review, and human-retained budget and creative approval.
+- [No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？](sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3.md) — 三五环 interview with 叫兽易小星 and 粉墨 director 李晨 on B站 AI 创作大赛, 《女娲之死》, AI short-film workflow, model choice, polishing labor, comedy limits, and creator responsibility.
 - [EP85 营销管理：Mini MBA 第一课](sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a.md) — 纵横四海 Mini MBA episode on marketing as a strategy-STP-4P chain, covering marketing ethics, brand belief, core competence, segmentation, targeting, positioning, value-based pricing, and channel risk.
 - [All right on the night: AfD's victory](sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f.md) — The Intelligence episode on AfD's 44% Saxony-Anhalt win, CDU collapse, BSW kingmaker arithmetic, contrail mitigation through Operation Blue Skies, and young South Koreans' renewed interest in Buddhism.
 - [时代症候，与安定此心](sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql.md) — 面基 episode with psychiatrist Jiang Tao on schizophrenia family caregiving, psychiatric diagnosis by function, somatization, mental-illness stigma, psychotherapy boundaries, and desire-capacity fit under contemporary anxiety.
@@ -5797,7 +5798,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Volcengine / 火山引擎](entities/Volcengine.md) — ByteDance cloud and AI-services layer connecting Doubao into Tesla China's in-car system.
 - [卓瑞 / Zhuo Rui](entities/ZhuoRui.md) — NVIDIA autonomous-driving, robotics, and smart-city product speaker explaining the automotive AI platform stack.
 - [张宁 / Zhang Ning (Pony.ai)](entities/ZhangNingPonyAI.md) — Pony.ai speaker explaining L4 Robotaxi responsibility, fleet operations, simulation, and commercialization.
-- [Bilibili / 哔哩哔哩](entities/Bilibili.md) — Chinese video and bullet-comment community grown from MikuFans into a creator, anime, game, and youth-culture platform.
+- [Bilibili / 哔哩哔哩](entities/Bilibili.md) — Chinese video and bullet-comment community now tracked through creator culture, advertising monetization, and AI creator contest activity.
+- [B站 AI 创作大赛 / Bilibili AI Creation Contest](entities/BilibiliAICreationContest.md) — Bilibili AI creator contest used by the No.227 三五环 source to examine AI short-film workflows and story limits.
+- [粉墨 / Fenmo](entities/FenmoTeam.md) — Creative team represented by 李晨 in the No.227 三五环 source on AI short-film anthology practice and 《女娲之死》.
 - [AcFun / A站](entities/AcFun.md) — Early Chinese bullet-comment video community that influenced Bilibili and carried many early remix and anime subculture practices.
 - [Niconico](entities/Niconico.md) — Japanese video platform whose time-axis comment interface influenced AcFun and Bilibili's bullet-comment community.
 - [毛文超 / Mao Wenchao](entities/MaoWenchao.md) — Xiaohongshu cofounder tied to the platform's outbound-shopping guide, note-sharing, ecommerce, and community-first strategic turn.
@@ -7488,7 +7491,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宇宙 E-Bike](entities/YuzhouEBike.md) — Chinese premium electric-assist bicycle brand used by the 三五环 interview to ground product integration, category education, service economics, and AI-native manufacturing ambition.
 - [李诞](entities/LiDan.md) — Comedian and creator guest explaining podcast intimacy, AI-assisted adult learning, AI creation disclosure, and middle-age technology memory in the Banlatte special.
 - [肖磊](entities/XiaoLei.md) — Banlatte host whose radio-to-podcast path and preparation-heavy work describe Chinese podcast production from the media-worker side.
-- [刘飞](entities/LiuFei.md) — Banlatte host and former product manager connecting business storytelling, 三五环, podcast commerce, AI-video creator interviews, platform safety operations, marketing science, and hardware-founder interviews.
+- [刘飞](entities/LiuFei.md) — Banlatte host and former product manager connecting business storytelling, 三五环, podcast commerce, AI-video and AI-filmmaking creator interviews, platform safety operations, marketing science, and hardware-founder interviews.
+- [李晨 / Li Chen (粉墨)](entities/LiChenFenmo.md) — 粉墨 director whose No.227 三五环 account grounds storyboard-first AI short-film workflow, model choice, and final-polish labor.
 - [小宇宙](entities/Xiaoyuzhou.md) — Chinese podcast-platform context for podcast ecosystem discussion, platform-affordance examples, education projects, and the 面基 talent group livestreaming episode.
 - [三五环](entities/SanWuHuan.md) — Liu Fei podcast context represented through practitioner interviews on AI video, creator work, internet expression, platform safety, marketing science, and hardware entrepreneurship.
 - [朱晓东 / Zhu Xiaodong](entities/ZhuXiaodongSportsRights.md) — Sports-rights specialist and Lizan Sports CEO explaining World Cup rights pricing, packaging, and buyer capacity in E237.
@@ -10240,7 +10244,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [追光动画 / Zhuiguang Animation](entities/ZhuiguangAnimation.md) — Animation company founded by Wang Wei after Tudou, connecting online-video ideals to professional animation.
 - [后舍男生 / Houshe Nansheng](entities/HousheNansheng.md) — Early Chinese internet-video creator case marking campus UGC and shared web-video culture.
 - [胡戈 / Hu Ge](entities/HuGe.md) — Early spoof-video creator used to illustrate remix culture and creator discovery before mature copyright rules.
-- [叫兽易小星 / Jiaoshou Yi Xiaoxing](entities/JiaoshouYiXiaoxing.md) — Early web-video creator whose path supports the UGC-to-professional creator pipeline.
+- [叫兽易小星 / Jiaoshou Yi Xiaoxing](entities/JiaoshouYiXiaoxing.md) — Early web-video creator and director whose profile now connects the UGC-to-professional pathway with AI-era short-film workflow and creative judgment.
+- [《女娲之死》](entities/NvwaZhiSi.md) — AI short film by 叫兽易小星 and 粉墨 discussed as a claymation-like B站 AI 创作大赛 case.
 - [卢正雨 / Lu Zhengyu](entities/LuZhengyu.md) — Early online-video creator linked to the move from web shorts toward professional comedy and film production.
 - [杨宇 / 饺子 / Yang Yu](entities/YangYuJiaozi.md) — Animation creator and later Ne Zha director used as an online-video-to-professional-animation pathway case.
 - [丁香园 / DXY](entities/DXY.md) — Professional medical community that grew from Li Tiantian's literature-search site into doctor recruiting, drug-reference, and public health-content products.
@@ -17394,8 +17399,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Short Drama](concepts/AIShortDrama.md) — AI-assisted scripted short-video and comic-drama category shaped by video models, creator workflow, distribution, cost, and rights control.
 - [Short Drama Economics](concepts/ShortDramaEconomics.md) — Cost, paid-traffic, IAP-to-IAA, ad-yield, and single-minute-cost frame behind short drama and AI short drama.
 - [Short Drama Paid-Traffic Distribution](concepts/ShortDramaPaidTrafficDistribution.md) — Distributor, ad-buying, ROI, ad-placement, and delayed settlement mechanism behind some short-drama scale-ups.
-- [AI Video Production Workflow](concepts/AIVideoProductionWorkflow.md) — Practical AI-video creation process involving scripts, prompts, image/video generation, repeated draws, editing, localization, and rights checks.
-- [AI Director-Core Workflow](concepts/AIDirectorCoreWorkflow.md) — AI video and short-drama production pattern centered on director intent, scripts, assets, storyboards, model-specific generation, client translation, and human performance judgment.
+- [AI Video Production Workflow](concepts/AIVideoProductionWorkflow.md) — Practical AI-video creation process involving scripts, references, prompts, image/video generation, model-specific selection, editing, finishing, distribution, and rights checks.
+- [AI Director-Core Workflow](concepts/AIDirectorCoreWorkflow.md) — AI video and short-drama production pattern centered on director intent, scripts, assets, storyboards, model-specific generation, client translation, visual execution, and human performance judgment.
 - [AI Short Drama Overseas Localization](concepts/AIShortDramaOverseasLocalization.md) — Outbound AI short-drama localization frame covering story resonance, fantasy/status symbols, payment behavior, and platform distribution.
 - [Platformized Drama Production](concepts/PlatformizedDramaProduction.md) — Shift from producer-led long-video commissioning toward open submission, fast feedback, platform governance, and market-tested drama supply.
 - [Live-Action Short Drama](concepts/LiveActionShortDrama.md) — Human-cast short-drama category whose value depends on actor fit, relationship nuance, collaborative production craft, and AI-assisted rather than AI-replaced workflows.

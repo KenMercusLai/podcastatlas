@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2825
+topic_total_pages: 2826
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8019,6 +8019,9 @@ topic_sources:
   - key: "no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt"
     title: "No.226 AI 越强，创业者越要回到用户现场"
     url: "/wiki/sources/no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt/"
+  - key: "no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3"
+    title: "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？"
+    url: "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
   - key: "no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni"
     title: "No.229 对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派"
     url: "/wiki/sources/no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni/"

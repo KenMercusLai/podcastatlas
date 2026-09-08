@@ -13,6 +13,7 @@ sources:
   - no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna
   - no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht
   - no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni
+  - no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3
 last_updated: 2026-09-09
 knowledge_schema: synthesis-v1
 ---
@@ -25,7 +26,7 @@ knowledge_schema: synthesis-v1
 ## Current Profile
 The earlier source only located 三五环 as Liu's adjacent show beside [[Banlatte|半拿铁]]. The Wu Hankun and Chouxiangzai episodes give it a concrete editorial surface for long-form conversations about product work, AI tools, creator identity, internet expression, and industry change through practitioner experience rather than news roundup alone.
 
-In this source set, the show functions as a bridge between internet/product thinking and cultural production. Its AI episodes use [[WuHankun|吴瀚坤]]'s actor and builder background to examine [[AIVideoProductionWorkflow]], actor replacement anxiety, AI likeness authorization, and creative purpose, while [[Chouxiangzai|抽象仔 / 抽象宅]]'s episode examines viral AI video, [[AIDirectorCoreWorkflow]], client communication, and C-side attention becoming B-side service credibility.
+In this source set, the show functions as a bridge between internet/product thinking and cultural production. Its AI episodes use [[WuHankun|吴瀚坤]]'s actor and builder background to examine [[AIVideoProductionWorkflow]], actor replacement anxiety, AI likeness authorization, and creative purpose; [[Chouxiangzai|抽象仔 / 抽象宅]]'s episode examines viral AI video, [[AIDirectorCoreWorkflow]], client communication, and C-side attention becoming B-side service credibility; and the [[JiaoshouYiXiaoxing|叫兽易小星]] / [[LiChenFenmo|李晨]] episode turns [[NvwaZhiSi|《女娲之死》]] into a detailed AI short-film workflow case around script, storyboards, model choice, polishing, and responsibility.
 
 The [[Didi]] safety episode widens that editorial surface into platform governance. By interviewing [[XuXiaonan|徐晓楠 / 曲晓楠]], 三五环 treats ride-hailing safety as a lived product and operations problem: order boundaries, drunk passengers, minors, offline transactions, AI warning, specialist judgment, false alarms, and recording privacy all become user-facing questions rather than internal platform jargon.
 
@@ -45,7 +46,7 @@ The [[Sspai|少数派]] episode adds a technology-community history branch throu
 - It is associated with [[LiuFei|刘飞]] as a host/creator context.
 - Its Wu Hankun episode treats AI through workflow detail rather than only capability hype.
 - Its Chouxiangzai episode treats AI video through internet expression, virality, sincerity, and commercialization rather than only tool novelty.
-- Its Hanqing episode treats AI-native virtual idols through original IP, personality systems, music/video workflow, and interaction risk.
+- Its 易小星/粉墨 and Hanqing episodes treat AI-native creative work through actual short-film production, original IP, personality systems, music/video workflow, and interaction risk.
 - Its Douyin ecommerce episode treats AI-enabled infringement as a platform operations, rights, authorization, and consumer-confusion problem.
 - Its Kuaishou episode treats content seeding as marketing science, user-path reconstruction, and brand-performance integration rather than only advertising jargon.
 - It can use former internet-company and founder-operator context to explain platform safety, governance, customer workflow, marketing paths, hardware operations, community trust, and user responsibility.
@@ -54,6 +55,7 @@ The [[Sspai|少数派]] episode adds a technology-community history branch throu
 - Show association - [[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] names 三五环 as Liu Fei's other podcast context.
 - Practitioner interview - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] is a 三五环 episode with Liu interviewing [[WuHankun|吴瀚坤]] on AI short films, acting, and creator anxiety.
 - Practitioner interview - [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]] is a 三五环 episode with Liu interviewing [[Chouxiangzai|抽象仔 / 抽象宅]] on AI-video creator work, traffic, short-drama projects, and B-side services.
+- Practitioner interview - [[no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3]] is a 三五环 episode with Liu interviewing [[JiaoshouYiXiaoxing|叫兽易小星]] and [[LiChenFenmo|李晨]] on the [[BilibiliAICreationContest|B站 AI 创作大赛]], [[NvwaZhiSi|《女娲之死》]], AI short-film workflow, model choice, polishing labor, and creator anxiety.
 - Platform-operations interview - [[no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi]] is a 三五环 episode with Liu interviewing [[XuXiaonan|徐晓楠 / 曲晓楠]] on [[Didi]] ride-hailing safety operations, AI warning, false alarms, privacy, drunk passengers, minors, and offline rides.
 - Founder-operator interview - [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]] is a 三五环 episode with Liu interviewing [[KateAHA|Kate]] on [[AHACreator|AHA Creator]], [[AIDrivenCreatorMarketing]], AI employee workflows, and overseas creator marketing.
 - AI-native IP interview - [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]] is a 三五环 episode with Liu interviewing [[HanqingUrey|汗青]] on [[AITalk|AI Talk]], [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]], [[AINativeVirtualIdol]], and [[AICharacterPersonalitySystem]].
@@ -68,16 +70,16 @@ The [[Sspai|少数派]] episode adds a technology-community history branch throu
 The page remains source-limited. It does not claim a complete history, format taxonomy, audience profile, or release schedule for 三五环.
 
 ## What Changed
-- Added the 少数派 episode, extending the show profile into technology-community history, niche media value, app recommendation, and product co-creation.
-- Added the AHA Creator episode, extending the show profile into AI commercialization through concrete overseas creator-marketing workflow.
-- Added the Hanqing/Yuri episode, extending the show profile into AI-native virtual idols, personality systems, and original IP risk.
-- Added the Douyin ecommerce infringement episode, extending the show profile into AI-enabled commerce rights governance and platform authorization operations.
-- Added the Kuaishou seeding episode, extending the show profile into platform marketing science, content commerce, and brand-performance path construction.
+- Added the No.227 易小星/粉墨 episode as a concrete AI short-film production workflow case.
+- Connected the new source to the show's existing AI-video creator interview branch.
 
 ## Relationships
 - [[LiuFei|刘飞]] - host associated with the show across the source set.
 - [[WuHankun|吴瀚坤]] - guest who grounds the show's AI filmmaking branch.
 - [[Chouxiangzai|抽象仔 / 抽象宅]] - guest who grounds the show's viral AI-video and creator-commercialization branch.
+- [[JiaoshouYiXiaoxing|叫兽易小星]] - guest who grounds the show's AI short-film workflow branch.
+- [[LiChenFenmo|李晨]] - guest who grounds the show's 粉墨 AI short-film production branch.
+- [[NvwaZhiSi|《女娲之死》]] - AI short-film case discussed in the show.
 - [[HanqingUrey|汗青]] - guest who grounds the show's AI-native virtual-idol and original-IP branch.
 - [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]] - virtual-idol case discussed in the show.
 - [[ZhuWeiLegalScholar|朱威]] - legal scholar who grounds the show's AI ecommerce infringement branch.

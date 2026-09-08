@@ -2,57 +2,66 @@
 title: "AI Video Production Workflow"
 type: concept
 tags: [ai, video, workflow, creator-economy]
-sources: [ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox, all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, the-business-of-heated-rivalry, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
-last_updated: 2026-08-24
+sources:
+  - ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox
+  - all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880
+  - the-business-of-heated-rivalry
+  - e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5
+  - 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob
+  - 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx
+  - 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt
+  - cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc
+  - no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3
+last_updated: 2026-09-09
+knowledge_schema: synthesis-v1
 ---
 
 # AI Video Production Workflow
 
-[[ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox]] adds [[JiaZhangke|贾樟柯]]'s film-industry version. He distinguishes AI from the film-to-digital shift: digital changed the carrier, while AI could change the production method by unsettling cameras, sound recorders, actors, crews, prompting roles, and the selection labor around generated images.
+## Definition
+AI video production workflow is the practical process by which creators turn scripts, references, images, prompts, model outputs, edits, sound, and review into watchable generated or AI-assisted video.
 
-[[all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880]] adds the professional ideation and launch-video branch through [[RobinRombach|Robin Rombach]] and [[BlackForestLabs|Black Forest Labs]]. The source treats [[MartinScorsese|Martin Scorsese]]'s use as visual ideation, then extends the workflow to storyboarding, startup launch videos, AI-generated scenery, and IP-owner model partnerships.
+## Current Synthesis
+The current evidence does not support treating AI video as either a simple prompt trick or a full replacement for production. Across short-drama, film, television, and creator cases, [[VideoModels]] lower the cost of trying visual ideas, but the workflow still begins with story choice, script structure, audience target, references, visual assets, and shot intent.
 
-AI video production workflow is the practical process by which [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]] says short-drama creators turn scripts and images into watchable AI video. The workflow includes story selection, scriptwriting, prompt writing, image generation, repeated video-generation "draws," editing, voice/subtitle work, and director-like coordination across tools.
+The sources sharpen a role shift. In AI short drama, costs move away from actors, sets, costumes, and shooting days toward script iteration, IP access, prompt/image/video generation, compute, selection, editing, distribution, and rights checks. In film and professional media, AI is strongest as previsualization, storyboarding, launch-video, scenery, or production-management support before final delivery. [[NvwaZhiSi|《女娲之死》]] adds the clearest small-team film example: AI compressed a stop-motion-like ten-minute work into weeks rather than years, but the team still needed script development, style choice, storyboard-first generation, model selection, shot deletion, regeneration, editing, sound, and polishing.
 
-The source's important point is that [[VideoModels]] reduce the need for actors, sets, costumes, and shooting days, but they do not make production automatic. The cost center shifts toward scripts, compute, tool skill, prompt/image/video iteration, editing, and the people who can judge which generated outputs are usable.
-
-[[267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx]] adds an end-to-end creator case. [[XiaoGuoGege]] used [[Doubao]] to adapt a [[FanqieNovel]] story into multiple script variants and prompts, generated short video fragments with Seedance-style and adjacent tools, salvaged flawed clips for voice, picture, transitions, or internal monologue, and edited the output into [[AnhuiXiaoMujiang]].
-
-[[269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]] extends the workflow frame beyond generated clips. [[RixinYiy]] uses AI for live-action production management: script tools linked to databases, scene and character consistency checks, electronic continuity notes, actor notices, work-time records, and upload/approval gates. In this version, AI is infrastructure for [[ShortDramaIndustrialization]], not only a replacement camera crew.
-
-[[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] adds [[AIDirectorCoreWorkflow]]. [[Chouxiangzai]] describes the early image-to-video stage where one sub-two-minute episode of [[WuGeGeGeDouChongWo]] could require roughly 70 generated images and nearly ten days, then contrasts it with newer multi-reference workflows where more time moves to script, IP, asset libraries, storyboards, and director instructions.
-
-[[e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5]] adds the film-previs version. [[LuChuan]] says AI can turn prompts, [[Midjourney]]-style images, and [[VideoModels]] into hundreds or thousands of keyframes and a 48- to 72-hour visualization pass for action scenes that once required months of visual-effects coordination.
-
-[[the-business-of-heated-rivalry]] adds a boundary case from traditional television production. [[BrendanBrady]] says AI may help scheduling, budgeting, preparation, and other data-heavy production tasks, but he does not want it to become the creative engine for costuming or the authored parts of a show.
+The resulting synthesis is role-shift rather than labor disappearance. As models improve, low-level "抽卡" may shrink, but [[AIDirectorCoreWorkflow]] becomes more important: someone still has to define the scene, communicate intent, choose the right model, judge performance, preserve continuity, and decide whether the output serves the story.
 
 ## Key Claims
-- Jia's source adds that AI video is not only a productivity workflow; it may reorganize the industrial roles that define film production.
-- AI video lets one person or a small team attempt work that previously required a larger filming crew.
-- The "抽卡师" role appears because repeated generation and selection become production labor.
-- Tool subscriptions and per-second generation cost are still materially cheaper than many live-action workflows in the source's account.
-- Better AI subtitles, translation, and dubbing may reduce the value of pure overseas distribution while increasing the value of deeper workflow services.
-- Workflow advantage depends on taste, story, rights control, and platform feedback, not only on access to a model.
-- In the [[AnhuiXiaoMujiang]] case, editing and reuse of imperfect generated material were the practical bottlenecks that kept low compute cost from becoming zero labor.
-- In live-action workflows, AI can enforce consistency and reduce coordination loss even when the finished work remains human-shot.
-- In film workflows, AI is strongest when it helps directors test and communicate scenes before expensive production, but it still needs [[IndustrialGradeFilmModels]] and human taste to reach final delivery.
-- Production-management AI can be useful without implying that writing, costuming, acting, or directing should be delegated to generated output.
-- The "抽卡师" role can shrink as multi-reference models improve, but the source says the director's ability to ask for a specific shot, expression, movement, or emotional state becomes more valuable.
-- Practical AI-video workflows are model-specific: the source describes using C-DANCE/[[Seedance]], Kling-style generation, GPT image tools, Banana/Banana Pro, and Jimeng-like image generation according to each shot's requirements.
-- The All-In Black Forest Labs source adds that professional use can start before final footage: previsualization, visual communication, and launch-storytelling may capture value while feature-film delivery remains hard.
+- AI video reduces execution and trial cost, letting solo creators and small teams attempt work that previously required larger crews or expensive demo shoots.
+- Production does not become automatic; labor shifts toward scripts, assets, references, prompts, model-specific generation, selection, editing, finishing, and review.
+- Workflow advantage depends on taste, story, audience fit, rights control, platform feedback, and human judgment rather than model access alone.
+- Professional film use often starts with previsualization and visual communication, while final delivery still needs stable control, editability, integration with live footage, and film-grade aesthetics.
+- Short-drama cases show that low cost can expand supply, but distribution, paid traffic, platform review, settlement, and IP authorization still decide commercial outcomes.
+- The "抽卡师" frame is transitional and incomplete: better models reduce some brute-force generation but increase the value of director language, shot diagnosis, and performance judgment.
+- AI can support live-action production management without becoming the creative author of scripts, costumes, acting, or final taste.
 
-## Connections
-- [[JiaZhangke|贾樟柯]], [[FilmRealityBeyondRealism]], and [[PingyaoInternationalFilmFestival|平遥国际电影展]] - AI-cinema and realism branch added by EP277.
-- [[AIShortDrama]] — main content category using the workflow.
-- [[AnhuiXiaoMujiang]] and [[XiaoGuoGege]] — concrete workflow case.
-- [[VideoModels]] and [[Seedance]] — model-capability context, with the source also naming C-dance, Jimeng, Kling, Vidu, and PixVerse as tools.
-- [[Doubao]] and [[FanqieNovel]] — script/prompt assistant and source-IP context added by episode 267.
-- [[RixinYiy]], [[HouChao]], and [[ShortDramaIndustrialization]] — live-action workflow-management branch added by episode 269.
-- [[AISuperCreators]] and [[CreationAsConsumption]] — solo/small-team creator pattern.
-- [[AIContentProvenance]] and [[IPOwnership]] — rights and likeness boundary.
-- [[ShortDramaEconomics]] — cost and monetization frame.
-- [[YouTube]] — overseas distribution workflow context.
-- [[LuChuan]], [[Midjourney]], [[IndustrialGradeFilmModels]], and [[LiveActionFilmUnderAI]] — film-previsualization and live-action decision branch added by E234.
-- [[HeatedRivalry|Heated Rivalry]], [[BrendanBrady]], [[JacobTierney]], [[ConstraintDrivenMediaProduction]], and [[HumanJudgmentUnderAI]] - AI-as-production-tool boundary added by Planet Money.
-- [[AIDirectorCoreWorkflow]], [[Chouxiangzai]], [[Taitai]], [[WuGeGeGeDouChongWo]], and [[XiSongFengyun]] — director-centered short-drama workflow added by What's Next.
-- [[BlackForestLabs|Black Forest Labs]], [[RobinRombach]], [[MartinScorsese]], [[GenerativeMediaControlLayers]], [[Flux]], and [[IPControlledGenerativeModels]] - All-In visual-ideation and rights-controlled workflow branch.
+## Evidence
+- Film-method rupture - [[ep277-duihua-jiazhangke-xia-wo-meiyou-beipan-zhenshi-shijie-wo-zhishi-zai-xunzhao-dianying-de-xin-keneng-lqprbtgi7pkch3hj3wxa1q8wovox]] has [[JiaZhangke|贾樟柯]] distinguish AI from the film-to-digital carrier shift because AI may unsettle production roles themselves.
+- Professional ideation - [[all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880]] frames [[MartinScorsese|Martin Scorsese]]'s use of [[BlackForestLabs|Black Forest Labs]] tools as visual ideation and extends the workflow to storyboards, launch videos, scenery, and IP-controlled models.
+- Human-authored television boundary - [[the-business-of-heated-rivalry]] accepts AI for scheduling, budgeting, preparation, and data-heavy production support while keeping writing, costume judgment, and collaborative creative work on the human side.
+- Film previsualization - [[e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5]] has [[LuChuan]] describe prompts, [[Midjourney]]-style images, and video models compressing months of visual-effects communication into days.
+- Short-drama category economics - [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]] ties AI-video workflow to single-minute cost, creator entry, genre breadth, repeated generation, editing, and platform dependence.
+- End-to-end creator case - [[267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx]] shows [[XiaoGuoGege]] using [[Doubao]], [[FanqieNovel]], Seedance-style tools, editing, and platform submission to make [[AnhuiXiaoMujiang]].
+- Live-action management - [[269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]] shows AI entering human-shot short drama through script databases, continuity notes, actor notices, scene tracking, and approval gates.
+- Director-core short-drama workflow - [[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] contrasts early image-heavy generation labor with later scripts, IP, asset libraries, storyboards, model choice, and director instructions.
+- Small-team AI film case - [[no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3]] describes [[JiaoshouYiXiaoxing|叫兽易小星]], [[LiChenFenmo|李晨]], and [[FenmoTeam|粉墨]] using AI to make [[NvwaZhiSi|《女娲之死》]] through script development, clay-style visual design, storyboards, [[KlingAI|可灵]], [[Seedance]], editing, and regeneration.
+
+## Counterevidence & Qualifications
+The sources are mostly practitioner accounts, interviews, and podcast summaries rather than audited production records. Reported cost, time, market size, contest, ROI, and model-quality claims should remain source-scoped. The workflow also differs by format: AI short drama, live-action management, independent shorts, professional film previsualization, and television production support have different risk, rights, performance, and delivery thresholds.
+
+## What Changed
+- Migrated the page to `synthesis-v1`.
+- Added the No.227 三五环 source as a small-team AI-film case centered on 《女娲之死》.
+- Reframed the workflow around role and cost shifts rather than simple replacement.
+- Added editability, live-footage integration, comedy timing, and final-polish constraints from the new source.
+
+## Related Concepts
+- [[VideoModels]] - model capability layer used by AI-video workflows.
+- [[AIDirectorCoreWorkflow]] - director-intent specialization inside the broader workflow.
+- [[AIShortDrama]] - short-form scripted category where many workflow cases are documented.
+- [[ShortDramaEconomics]] - cost and monetization frame shaping AI short-drama workflows.
+- [[LiveActionFilmUnderAI]] - live-action boundary where AI must justify which work remains human-shot.
+- [[IndustrialGradeFilmModels]] - film-delivery standard that current workflows often still lack.
+- [[HumanJudgmentUnderAI]] - review and responsibility layer that remains after generation.

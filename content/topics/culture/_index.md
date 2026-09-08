@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2592
+topic_total_pages: 2596
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5357,6 +5357,9 @@ topic_entities:
   - key: "HairBook"
     title: "《头发》 / Hair"
     url: "/wiki/entities/hairbook/"
+  - key: "NvwaZhiSi"
+    title: "《女娲之死》"
+    url: "/wiki/entities/nvwazhisi/"
   - key: "NushiShijie"
     title: "《女子世界》"
     url: "/wiki/entities/nushishijie/"
@@ -6500,6 +6503,9 @@ topic_entities:
   - key: "LiXiaojie"
     title: "李小杰 / Li Xiaojie"
     url: "/wiki/entities/lixiaojie/"
+  - key: "LiChenFenmo"
+    title: "李晨 / Li Chen (粉墨)"
+    url: "/wiki/entities/lichenfenmo/"
   - key: "LiQingzhao"
     title: "李清照 / Li Qingzhao"
     url: "/wiki/entities/liqingzhao/"
@@ -6698,6 +6704,9 @@ topic_entities:
   - key: "Mihuashi"
     title: "米画师 / Mihuashi"
     url: "/wiki/entities/mihuashi/"
+  - key: "FenmoTeam"
+    title: "粉墨 / Fenmo"
+    url: "/wiki/entities/fenmoteam/"
   - key: "JiYun"
     title: "纪昀 / Ji Yun"
     url: "/wiki/entities/jiyun/"
@@ -7539,6 +7548,9 @@ topic_sources:
   - key: "no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194"
     title: "No.204 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21"
     url: "/wiki/sources/no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194/"
+  - key: "no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3"
+    title: "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？"
+    url: "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
   - key: "no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj"
     title: "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？"
     url: "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"
