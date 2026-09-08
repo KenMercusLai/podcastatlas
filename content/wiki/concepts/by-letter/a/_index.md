@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6766
+wiki_total_pages: 6771
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1748,6 +1748,9 @@ wiki_pages:
   - key: "APOE4DementiaRisk"
     title: "APOE4 Dementia Risk"
     url: "/wiki/concepts/apoe4dementiarisk/"
+  - key: "AppRecommendationMedia"
+    title: "App Recommendation Media / 应用推荐媒体"
+    url: "/wiki/concepts/apprecommendationmedia/"
   - key: "AppStoreKeywordStrategy"
     title: "App Store Keyword Strategy"
     url: "/wiki/concepts/appstorekeywordstrategy/"

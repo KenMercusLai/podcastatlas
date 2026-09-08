@@ -12,14 +12,15 @@ sources:
   - no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d
   - no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna
   - no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht
-last_updated: 2026-09-08
+  - no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni
+last_updated: 2026-09-09
 knowledge_schema: synthesis-v1
 ---
 
 # 三五环
 
 ## Overview
-三五环 is [[LiuFei|刘飞]]'s podcast context in the wiki, now represented as an ecosystem reference and a recurring venue for practitioner interviews about AI-era creation, internet expression, platform operations, original IP, productized business workflows, commerce rights, and marketing science.
+三五环 is [[LiuFei|刘飞]]'s podcast context in the wiki, now represented as an ecosystem reference and a recurring venue for practitioner interviews about AI-era creation, internet expression, platform operations, original IP, productized business workflows, commerce rights, marketing science, technology communities, and niche media businesses.
 
 ## Current Profile
 The earlier source only located 三五环 as Liu's adjacent show beside [[Banlatte|半拿铁]]. The Wu Hankun and Chouxiangzai episodes give it a concrete editorial surface for long-form conversations about product work, AI tools, creator identity, internet expression, and industry change through practitioner experience rather than news roundup alone.
@@ -38,6 +39,8 @@ The Kuaishou seeding episode adds a platform-marketing science branch through [[
 
 The Cheng/Chen Hongning episode adds a founder-operator manufacturing branch through [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]] and [[YuzhouEBike|宇宙 E-Bike]]. It uses electric-assist bicycles to connect investment experience, hands-on product and supply-chain learning, premium hardware positioning, China-Europe category differences, and founder-led [[AINativeManufacturingTransformation|AI-native manufacturing transformation]].
 
+The [[Sspai|少数派]] episode adds a technology-community history branch through [[LaoMaiSspai|老麦 / Michael]]. It moves the show backward from current AI and platform operations into Palm, [[WebOS|webOS]], [[ZhiJiWang|主机网]], early app recommendation, author incentives, paid content, product co-creation, offline spaces, and [[NicheCommunityValue|小众社区价值]].
+
 ## Key Characteristics
 - It is associated with [[LiuFei|刘飞]] as a host/creator context.
 - Its Wu Hankun episode treats AI through workflow detail rather than only capability hype.
@@ -45,7 +48,7 @@ The Cheng/Chen Hongning episode adds a founder-operator manufacturing branch thr
 - Its Hanqing episode treats AI-native virtual idols through original IP, personality systems, music/video workflow, and interaction risk.
 - Its Douyin ecommerce episode treats AI-enabled infringement as a platform operations, rights, authorization, and consumer-confusion problem.
 - Its Kuaishou episode treats content seeding as marketing science, user-path reconstruction, and brand-performance integration rather than only advertising jargon.
-- It can use former internet-company and founder-operator context to explain platform safety, governance, customer workflow, marketing paths, hardware operations, and user responsibility.
+- It can use former internet-company and founder-operator context to explain platform safety, governance, customer workflow, marketing paths, hardware operations, community trust, and user responsibility.
 
 ## Evidence
 - Show association - [[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] names 三五环 as Liu Fei's other podcast context.
@@ -57,18 +60,19 @@ The Cheng/Chen Hongning episode adds a founder-operator manufacturing branch thr
 - Platform-rights governance interview - [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]] is a 三五环 episode with Liu interviewing [[ZhuWeiLegalScholar|朱威]] and [[JiaxuDouyinEcommerce|嘉旭]] on [[DouyinEcommerce|抖音电商]], AI-enabled likeness and voice infringement, pre-review, authorization, and consumer confusion.
 - Marketing-science interview - [[no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna]] is a 三五环 episode with Liu interviewing [[LiuXiaoweiMarketing|刘晓微]] on [[Kuaishou]], seeded audiences, search/store/live-room signals, and brand-performance integration.
 - Founder-operator manufacturing interview - [[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht]] is a 三五环 episode with Liu interviewing [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]] on [[YuzhouEBike|宇宙 E-Bike]], electric-assist bicycle strategy, investor-to-operator learning, and AI-native manufacturing.
+- Technology-community interview - [[no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni]] is a 三五环 episode with Liu interviewing [[LaoMaiSspai|老麦 / Michael]] on [[Palm]], [[WebOS|webOS]], [[ZhiJiWang|主机网]], [[Sspai|少数派]], app recommendation, author incentives, product co-creation, and AI-era human experience.
 - Workflow focus - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] uses concrete production details around [[PinkParadox|《粉色悖论》]] and [[PopulationAnomaly|《人口异常》]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]] uses concrete account, team, client, and short-drama workflow examples, and [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]] uses concrete model-orchestration, personality, music, image, and dialogue-risk examples.
-- Product-cultural bridge - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]], [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]], [[no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi]], [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]], [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]], and [[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht]] connect tools, product thinking, platform behavior, human judgment, user responsibility, customer workflow, original IP, rights governance, and hardware operations.
+- Product-cultural bridge - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]], [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]], [[no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni]], [[no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi]], [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]], [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]], and [[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht]] connect tools, product thinking, platform behavior, human judgment, user responsibility, customer workflow, original IP, rights governance, community history, and hardware operations.
 
 ## Qualifications
 The page remains source-limited. It does not claim a complete history, format taxonomy, audience profile, or release schedule for 三五环.
 
 ## What Changed
+- Added the 少数派 episode, extending the show profile into technology-community history, niche media value, app recommendation, and product co-creation.
 - Added the AHA Creator episode, extending the show profile into AI commercialization through concrete overseas creator-marketing workflow.
 - Added the Hanqing/Yuri episode, extending the show profile into AI-native virtual idols, personality systems, and original IP risk.
 - Added the Douyin ecommerce infringement episode, extending the show profile into AI-enabled commerce rights governance and platform authorization operations.
 - Added the Kuaishou seeding episode, extending the show profile into platform marketing science, content commerce, and brand-performance path construction.
-- Added the Cheng/Chen Hongning episode, extending the show profile into investment-to-operations learning, premium e-bike hardware, and founder-led AI-native manufacturing.
 
 ## Relationships
 - [[LiuFei|刘飞]] - host associated with the show across the source set.
@@ -84,6 +88,9 @@ The page remains source-limited. It does not claim a complete history, format ta
 - [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]] - guest who grounds the show's investor-to-operator and manufacturing branch.
 - [[YuzhouEBike|宇宙 E-Bike]] - company case discussed in the show's electric-assist bicycle branch.
 - [[XuXiaonan|徐晓楠 / 曲晓楠]] - guest who grounds the show's ride-hailing safety operations branch.
+- [[LaoMaiSspai|老麦 / Michael]] - guest who grounds the show's technology-community and 少数派 branch.
+- [[Sspai|少数派]] - media and community platform case discussed in the show.
+- [[ZhiJiWang|主机网]] - predecessor enthusiast community case discussed in the show.
 - [[KateAHA|Kate]] - guest who grounds the show's AI-driven creator-marketing branch.
 - [[AHACreator|AHA Creator]] - company case discussed in the show's overseas creator-marketing branch.
 - [[Banlatte|半拿铁]] - adjacent Liu Fei show context.
@@ -95,6 +102,8 @@ The page remains source-limited. It does not claim a complete history, format ta
 - [[AINativeVirtualIdol]] - AI-native character IP branch surfaced by the Hanqing episode.
 - [[AIEcommerceInfringementGovernance]] - AI commerce rights-governance branch surfaced by the Douyin ecommerce episode.
 - [[ContentSeedingMarketing]] - content-commerce and demand-path branch surfaced by the Kuaishou episode.
+- [[NicheCommunityValue]] - community-density and niche-media value branch surfaced by the 少数派 episode.
+- [[CreatorProductCoCreationLoop]] - author, course, product, and offline-space branch surfaced by the 少数派 episode.
 - [[InvestorToOperatorLearning]] - founder learning branch surfaced by the Cheng/Chen Hongning episode.
 - [[ElectricAssistBicyclePremiumPositioning]] - premium hardware positioning branch surfaced by the Cheng/Chen Hongning episode.
 - [[AINativeManufacturingTransformation]] - manufacturing AI-organization branch surfaced by the Cheng/Chen Hongning episode.

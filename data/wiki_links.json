@@ -5471,6 +5471,10 @@
     "title": "Apollo Global Management",
     "url": "/wiki/entities/apolloglobalmanagement/"
   },
+  "AppRecommendationMedia": {
+    "title": "App Recommendation Media / 应用推荐媒体",
+    "url": "/wiki/concepts/apprecommendationmedia/"
+  },
   "AppStore": {
     "title": "App Store",
     "url": "/wiki/entities/appstore/"
@@ -13831,6 +13835,10 @@
     "title": "Creator-Parasite Moral Frame / 创造者-寄生者框架",
     "url": "/wiki/concepts/creatorparasitemoralframe/"
   },
+  "CreatorProductCoCreationLoop": {
+    "title": "Creator Product Co-Creation Loop / 创作者产品共创闭环",
+    "url": "/wiki/concepts/creatorproductcocreationloop/"
+  },
   "CreatorResponsibilityEthics": {
     "title": "Creator Responsibility Ethics / 创造者责任伦理",
     "url": "/wiki/concepts/creatorresponsibilityethics/"
@@ -18646,6 +18654,10 @@
   "EntertainmentIPFlywheel": {
     "title": "Entertainment IP Flywheel",
     "url": "/wiki/concepts/entertainmentipflywheel/"
+  },
+  "EnthusiastDeviceCommunity": {
+    "title": "Enthusiast Device Community / 发烧设备社区",
+    "url": "/wiki/concepts/enthusiastdevicecommunity/"
   },
   "EntrepreneurStrikeMyth": {
     "title": "Entrepreneur Strike Myth / 企业家罢工神话",
@@ -27147,6 +27159,10 @@
     "title": "Human-Driven Scientific AI",
     "url": "/wiki/concepts/humandrivenscientificai/"
   },
+  "HumanExperienceContentPremium": {
+    "title": "Human Experience Content Premium / 真人体验内容溢价",
+    "url": "/wiki/concepts/humanexperiencecontentpremium/"
+  },
   "HumanExtractionPosture": {
     "title": "Human Extraction Posture / 人向自然索取的姿态",
     "url": "/wiki/concepts/humanextractionposture/"
@@ -32282,6 +32298,10 @@
   "LaoMai": {
     "title": "老麦",
     "url": "/wiki/entities/laomai/"
+  },
+  "LaoMaiSspai": {
+    "title": "老麦 / Michael",
+    "url": "/wiki/entities/laomaisspai/"
   },
   "LaoPuGold": {
     "title": "Lao Pu Gold / 老铺黄金",
@@ -40147,6 +40167,10 @@
     "title": "Niccolo Machiavelli / 马基雅维利",
     "url": "/wiki/entities/niccolomachiavelli/"
   },
+  "NicheCommunityValue": {
+    "title": "Niche Community Value / 小众社区价值",
+    "url": "/wiki/concepts/nichecommunityvalue/"
+  },
   "NicheOriginStoryExpansion": {
     "title": "Niche Origin Story Expansion",
     "url": "/wiki/concepts/nicheoriginstoryexpansion/"
@@ -42262,6 +42286,10 @@
   "Palestinians": {
     "title": "Palestinians",
     "url": "/wiki/entities/palestinians/"
+  },
+  "Palm": {
+    "title": "Palm",
+    "url": "/wiki/entities/palm/"
   },
   "PaloAltoDelivery": {
     "title": "PaloAltoDelivery",
@@ -52819,6 +52847,10 @@
     "title": "Sri Narayanan",
     "url": "/wiki/entities/srinarayanan/"
   },
+  "Sspai": {
+    "title": "少数派 / Sspai",
+    "url": "/wiki/entities/sspai/"
+  },
   "StBartholomewsDayMassacre": {
     "title": "St Bartholomew's Day Massacre",
     "url": "/wiki/entities/stbartholomewsdaymassacre/"
@@ -59887,6 +59919,10 @@
     "title": "Web-Fiction-To-Short-Drama Pipeline / 网文到短剧转化链",
     "url": "/wiki/concepts/webfictiontoshortdramapipeline/"
   },
+  "WebOS": {
+    "title": "webOS",
+    "url": "/wiki/entities/webos/"
+  },
   "Webnovel": {
     "title": "Webnovel / 起点国际版",
     "url": "/wiki/entities/webnovel/"
@@ -65047,6 +65083,10 @@
     "title": "真武大帝 / Zhenwu Dadi",
     "url": "/wiki/entities/zhenwudadi/"
   },
+  "ZhiJiWang": {
+    "title": "主机网",
+    "url": "/wiki/entities/zhijiwang/"
+  },
   "ZhiShouEasternHan": {
     "title": "郅寿 / Zhi Shou (Eastern Han)",
     "url": "/wiki/entities/zhishoueasternhan/"
@@ -67810,6 +67850,10 @@
   "no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi": {
     "title": "No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全",
     "url": "/wiki/sources/no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi/"
+  },
+  "no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni": {
+    "title": "No.229 对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派",
+    "url": "/wiki/sources/no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni/"
   },
   "no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil": {
     "title": "No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理",

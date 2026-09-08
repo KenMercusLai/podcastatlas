@@ -53,6 +53,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned](sources/bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee.md) — How I Built This episode on Kim Vaccarella building Bogg Bag through beach-bag product insight, patents, defective inventory, Sandy relief demand, trade shows, wholesale partners, COVID growth, and control-preserving investment.
 - [零跑汽车朱江明×罗永浩！零跑汽车十年：不会讲故事的人，如何卖成了第一](sources/lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb.md) — 罗永浩的十字路口 interview with Zhu Jiangming on Leapmotor's engineering-founder path, full-stack self-research, S01/T03/C11/D99 product arc, cost discipline, Stellantis partnership, and Chinese EV globalization.
 - [No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全](sources/no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi.md) — 三五环 interview with Didi ride-hailing safety lead Xu Xiaonan / Qu Xiaonan on post-2018 safety rebuilding, high-recall AI warning, human review, privacy controls, drunk and minor passenger risks, and offline ride-safety gaps.
+- [No.229 对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派](sources/no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni.md) — 三五环 interview with Sspai founder 老麦 on Palm, webOS, 主机网, app recommendation, niche community value, author incentives, product co-creation, and AI-era human experience.
 - [#399 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨十周年特别节目](sources/399-jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-shizhounian-tebie-jiemu-b8cd9085-c37e-4dd3-92d7-5d7be257f078.md) — 声东击西 tenth-anniversary special with Jia Yangqing on AI's path from unfashionable research label to infrastructure, cloud, startup, and agent-verification platform, corroborating the earlier crossover source.
 - [当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来](sources/dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue.md) — 电影巨辩 episode reading Christopher Nolan's The Odyssey through auteur power, Homeric modernization, PTSD homecoming, Zeus-law trust, metis/kleos, IMAX authenticity, and polarized political reception.
 - [风味吃喝：娃哈哈，宗庆后的三次赌局](sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx.md) — 大小电波 episode tracing Wahaha and Zong Qinghou through children's nutrition products, AD钙奶, pure water, 非常可乐, 营养快线, 联销体, 销地产, the Danone dispute, diversification, e-commerce delay, and Zong Fuli succession.
@@ -2035,6 +2036,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [老麦 / Michael](entities/LaoMaiSspai.md) — Disambiguated 少数派 founder and former 主机网 community organizer from the No.229 三五环 interview.
+- [少数派 / Sspai](entities/Sspai.md) — Digital-life media and community platform traced from app recommendation into author systems, paid content, product co-creation, and offline spaces.
+- [主机网](entities/ZhiJiWang.md) — Palm and webOS-centered BBS community that preceded 少数派 in 老麦's source account.
+- [Palm](entities/Palm.md) — PDA and early smartphone ecosystem that shaped 老麦's device enthusiasm and 主机网's initial identity.
+- [webOS](entities/WebOS.md) — Palm successor platform whose HP-era promise and hardware cancellation shaped 主机网's peak and turn.
 - [月下瑶 / Yue XiaYao](entities/YueXiaYao.md) — Chinese podcaster and 读报teleread listener who prompts the fifth-anniversary upper-half reflection on podcast sustainability, workflow, taste, and feedback.
 - [Wen Muye / 文牧野](entities/WenMuye.md) — Mainland Chinese commercial film director discussed through 《欢迎来龙餐馆》, emotional craft, and cross-context political limits.
 - [Han Yan / 韩延 (director)](entities/HanYanDirector.md) — Mainland Chinese commercial film director discussed through 《空枪》 and Greater Bay Area-era Hong Kong crime-film rewriting.
@@ -11397,6 +11403,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Enthusiast Device Community / 发烧设备社区](concepts/EnthusiastDeviceCommunity.md) — User community pattern around technically demanding devices, ROMs, apps, forums, developer support, and fragile upstream platforms.
+- [App Recommendation Media / 应用推荐媒体](concepts/AppRecommendationMedia.md) — Mobile-app curation media based on hands-on testing, usage explanation, workflows, and trusted filtering.
+- [Niche Community Value / 小众社区价值](concepts/NicheCommunityValue.md) — Strategic value of smaller communities with dense trust, skill, creator output, and taste alignment.
+- [Creator Product Co-Creation Loop / 创作者产品共创闭环](concepts/CreatorProductCoCreationLoop.md) — Community business loop where users become authors, authors create paid knowledge, and creators participate in products and offline spaces.
+- [Human Experience Content Premium / 真人体验内容溢价](concepts/HumanExperienceContentPremium.md) — AI-era value of real use, lived friction, human judgment, and accountable creator relationships in practical content.
 - [Independent Podcast Sustainability / 独立播客可持续性](concepts/IndependentPodcastSustainability.md) — How small podcasts keep going through creator energy, money, cadence, platform data, comments, community capacity, and source-facing craft.
 - [Operations Management Workflow](concepts/OperationsManagementWorkflow.md) — Process-view frame translating operations management into personal and organizational workflow design.
 - [Theory of Constraints for Personal Workflow](concepts/TheoryOfConstraintsPersonalWorkflow.md) — Bottleneck-first workflow method for improving total output rather than local speed.

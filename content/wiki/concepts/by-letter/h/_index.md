@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6766
+wiki_total_pages: 6771
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "HumanConnectionUnderAI"
     title: "Human Connection Under AI"
     url: "/wiki/concepts/humanconnectionunderai/"
+  - key: "HumanExperienceContentPremium"
+    title: "Human Experience Content Premium / 真人体验内容溢价"
+    url: "/wiki/concepts/humanexperiencecontentpremium/"
   - key: "HumanExtractionPosture"
     title: "Human Extraction Posture / 人向自然索取的姿态"
     url: "/wiki/concepts/humanextractionposture/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2823
+topic_total_pages: 2825
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2122,6 +2122,9 @@ topic_concepts:
   - key: "HumanConnectionUnderAI"
     title: "Human Connection Under AI"
     url: "/wiki/concepts/humanconnectionunderai/"
+  - key: "HumanExperienceContentPremium"
+    title: "Human Experience Content Premium / 真人体验内容溢价"
+    url: "/wiki/concepts/humanexperiencecontentpremium/"
   - key: "HumanImperfectionCreativeValue"
     title: "Human Imperfection Creative Value / 人类瑕疵的创作价值"
     url: "/wiki/concepts/humanimperfectioncreativevalue/"
@@ -8016,6 +8019,9 @@ topic_sources:
   - key: "no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt"
     title: "No.226 AI 越强，创业者越要回到用户现场"
     url: "/wiki/sources/no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt/"
+  - key: "no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni"
+    title: "No.229 对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派"
+    url: "/wiki/sources/no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni/"
   - key: "no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj"
     title: "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？"
     url: "/wiki/sources/no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj/"

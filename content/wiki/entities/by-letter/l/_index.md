@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9358
+wiki_total_pages: 9363
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1691,6 +1691,9 @@ wiki_pages:
   - key: "LaoMai"
     title: "老麦"
     url: "/wiki/entities/laomai/"
+  - key: "LaoMaiSspai"
+    title: "老麦 / Michael"
+    url: "/wiki/entities/laomaisspai/"
   - key: "LvDoctorENT"
     title: "耳鼻喉吕博士 / Dr. Lv (ENT)"
     url: "/wiki/entities/lvdoctorent/"

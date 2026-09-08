@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9358
+wiki_total_pages: 9363
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "Webnovel"
     title: "Webnovel / 起点国际版"
     url: "/wiki/entities/webnovel/"
+  - key: "WebOS"
+    title: "webOS"
+    url: "/wiki/entities/webos/"
   - key: "WeChat"
     title: "WeChat"
     url: "/wiki/entities/wechat/"

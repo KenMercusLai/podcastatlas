@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6766
+wiki_total_pages: 6771
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1730,6 +1730,9 @@ wiki_pages:
   - key: "CreatorObituaryMemory"
     title: "Creator Obituary Memory / 创作者讣告记忆"
     url: "/wiki/concepts/creatorobituarymemory/"
+  - key: "CreatorProductCoCreationLoop"
+    title: "Creator Product Co-Creation Loop / 创作者产品共创闭环"
+    url: "/wiki/concepts/creatorproductcocreationloop/"
   - key: "CreatorResponsibilityEthics"
     title: "Creator Responsibility Ethics / 创造者责任伦理"
     url: "/wiki/concepts/creatorresponsibilityethics/"

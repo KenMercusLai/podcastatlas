@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6766
+wiki_total_pages: 6771
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -512,6 +512,9 @@ wiki_pages:
   - key: "EntertainmentIPFlywheel"
     title: "Entertainment IP Flywheel"
     url: "/wiki/concepts/entertainmentipflywheel/"
+  - key: "EnthusiastDeviceCommunity"
+    title: "Enthusiast Device Community / 发烧设备社区"
+    url: "/wiki/concepts/enthusiastdevicecommunity/"
   - key: "EntrepreneurStrikeMyth"
     title: "Entrepreneur Strike Myth / 企业家罢工神话"
     url: "/wiki/concepts/entrepreneurstrikemyth/"

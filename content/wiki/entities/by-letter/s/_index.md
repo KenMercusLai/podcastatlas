@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9358
+wiki_total_pages: 9363
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1910,6 +1910,9 @@ wiki_pages:
   - key: "ShequanLateHan"
     title: "射犬 / Shequan (Late Han)"
     url: "/wiki/entities/shequanlatehan/"
+  - key: "Sspai"
+    title: "少数派 / Sspai"
+    url: "/wiki/entities/sspai/"
   - key: "Shaoliang"
     title: "少梁 / Shaoliang"
     url: "/wiki/entities/shaoliang/"

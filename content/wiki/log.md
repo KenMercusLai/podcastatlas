@@ -16228,6 +16228,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | No.229 对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派
+
+Ingested the 2026-08-11 三五环 interview with 老麦 on Palm, webOS, 主机网, 少数派, app recommendation, author systems, paid courses, product co-creation, offline community, niche media value, and AI-era real human experience. Added source `no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni`; created `LaoMaiSspai`, `Sspai`, `ZhiJiWang`, `Palm`, `WebOS`, `EnthusiastDeviceCommunity`, `AppRecommendationMedia`, `NicheCommunityValue`, `CreatorProductCoCreationLoop`, and `HumanExperienceContentPremium`; updated `SanWuHuan`, `LiuFei`, `overview`, and `index`. No settled contradiction found; the existing `LaoMai` finance figure is kept separate, and Palm, webOS, HP, user-count, revenue, course-sales, developer-payout, and acquisition-opportunity claims remain source-scoped.
+
 ## [2026-09-09] ingest | 总第069期 五周年台庆特辑 | 大主播vs小播客【上】：播客到底有啥好做的
 
 Ingested the 2026-08-12 读报teleread fifth-anniversary upper-half special with 月下瑶 on independent podcast sustainability, article selection, English and news writing, audio-production phases, tipping, comments, 48-hour data, and creator/productization tension. Added source `zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u`; created `YueXiaYao` and `IndependentPodcastSustainability`; updated `DuBaoTeleread`, `PodcastProductionWorkflow`, and `index`. No settled contradiction found; the source complements the later 070 anniversary episode by adding the show's pre-AI creative history, writing identity, and operating reality.
@@ -16251,6 +16255,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | Karma, Enlightenment & the Wisdom Beyond the Mind | Shyalpa Rinpoche | Shekhar Natarajan
 
 Ingested the 2026-09-08 Tomorrow Today episode with Shyalpa Rinpoche on exile, Tibetan Buddhist training, karma, Dzogchen, breathful presence, stillness, death, the Universal Peace Sanctuary, peace infrastructure, meaning scarcity, and compassionate AI. Added source `default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914`; created `ShyalpaRinpoche`, `ChhatralRinpoche`, `UniversalPeaceSanctuary`, `Dzogchen`, `KarmaAsCauseAndEffect`, `BreathfulPresence`, `StillnessAsNonConditioning`, and `PeaceInfrastructure`; updated `TomorrowToday`, `ShekharNatarajan`, `AngelicIntelligence`, and `index`. No settled contradiction found; guest-name spelling variants and claims about sanctuary construction, foundations, blockchain transparency, fundraising, and project status remain source-scoped.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

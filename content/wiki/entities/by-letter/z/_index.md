@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9358
+wiki_total_pages: 9363
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "ZhongouRuibo"
     title: "中欧瑞博 / Zhongou Ruibo"
     url: "/wiki/entities/zhongouruibo/"
+  - key: "ZhiJiWang"
+    title: "主机网"
+    url: "/wiki/entities/zhijiwang/"
   - key: "ZhuFuYan"
     title: "主父偃 / Zhufu Yan"
     url: "/wiki/entities/zhufuyan/"
