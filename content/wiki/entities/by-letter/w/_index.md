@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9379
+wiki_total_pages: 9380
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1070,6 +1070,9 @@ wiki_pages:
   - key: "WangSongLateHan"
     title: "王嵩 / Wang Song (late Han)"
     url: "/wiki/entities/wangsonglatehan/"
+  - key: "WangChangXiajiangGengshi"
+    title: "王常 / Wang Chang (Xiajiang, Gengshi era)"
+    url: "/wiki/entities/wangchangxiajianggengshi/"
   - key: "WangYinglin"
     title: "王应麟 / Wang Yinglin"
     url: "/wiki/entities/wangyinglin/"

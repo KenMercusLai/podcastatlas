@@ -21454,6 +21454,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/earlychinesebuddhismcourttransmission/"
     },
+    "EarlyRestorationCoalitionIntegration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》662丨刘秀是如何化解团队内斗的？ [lsUin9kf1EpqFO2yJlk__Q1-zWX2].md",
+          "key": "zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》662丨刘秀是如何化解团队内斗的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/earlyrestorationcoalitionintegration/"
+    },
     "EarthrisePhoto": {
       "episode_count": 1,
       "show_count": 1,
@@ -46218,9 +46234,9 @@
       "url": "/wiki/entities/liuyanfulingkingeasternhan/"
     },
     "LiuYanLiuXiuBrother": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》664丨昆阳之战：决定国运的历史转折点 [lihRWAwP4x1w1pn4Aibdohq4_L_4].md",
@@ -46242,9 +46258,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》663丨更始帝刘玄是滩扶不上墙的烂泥？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》662丨刘秀是如何化解团队内斗的？ [lsUin9kf1EpqFO2yJlk__Q1-zWX2].md",
+          "key": "zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》662丨刘秀是如何化解团队内斗的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/liuyanliuxiubrother/"
     },
     "LiuYangZhendingKingEasternHan": {
@@ -62792,6 +62815,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/realworldassettokenizationrisk/"
     },
+    "RebelCoalitionSpoilsCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》662丨刘秀是如何化解团队内斗的？ [lsUin9kf1EpqFO2yJlk__Q1-zWX2].md",
+          "key": "zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》662丨刘秀是如何化解团队内斗的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/rebelcoalitionspoilscrisis/"
+    },
     "RebelMandateManufacture": {
       "episode_count": 7,
       "show_count": 1,
@@ -78328,6 +78367,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/wangchangshumaolatehan/"
+    },
+    "WangChangXiajiangGengshi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》662丨刘秀是如何化解团队内斗的？ [lsUin9kf1EpqFO2yJlk__Q1-zWX2].md",
+          "key": "zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》662丨刘秀是如何化解团队内斗的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/wangchangxiajianggengshi/"
     },
     "WangChengLiGuStudent": {
       "episode_count": 1,

@@ -16232,6 +16232,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | 《资治通鉴·汉纪》662丨刘秀是如何化解团队内斗的？
+
+Ingested the 2026-06-09 芮淇讲透资治通鉴 episode on Liu Yan's early anti-Xin coalition, Liu Xiu's clan-property settlement of a spoils dispute, Xiaochang'an defeat, Wang Chang's Xiajiang persuasion, and the Lanxiang recovery attack. Added source `zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2`; created `WangChangXiajiangGengshi`, `RebelCoalitionSpoilsCrisis`, and `EarlyRestorationCoalitionIntegration`; updated `LiuYanLiuXiuBrother`, `overview`, and `index`. No settled contradiction found; Wang Chang identity is disambiguated from later Wang Chang routes, and Liu Zhong, Liu Yuan, Liu Boji, Cheng Dan, Xiaochang'an, Lanxiang, force counts, and astronomy details remain source-scoped.
+
 ## [2026-09-09] ingest | 罗永浩的X字路口！如果可以，你会删除伴侣出轨的记忆吗？
 
 Ingested the 2026-07-10 罗永浩的十字路口 and 四孝喜剧 live panel with Luo Yonghao, Liu Hongwei, Sun Shuheng, Wang Jiye, and Xuanzong on AI-generated relationship thought experiments: loyalty drugs, perfect AI partners, shared pain, infidelity-memory deletion, and 70% versus 100% romantic matching. Added source `ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur`; created `LiuHongweiStandup`, `SunShuhengStandup`, `RelationshipTechnologyEthics`, `SharedPainTechnologyBoundary`, and `AlgorithmicRomanticCompatibility`; updated `LuoYonghao`, `LuoyonghaosCrossroads`, `SixiaoComedy`, `WangJiye`, `AICompanionAuthenticityBoundary`, `MemoryDeletionEthics`, `overview`, and `index`. No settled contradiction found; relationship advice, AI capabilities, guest biographies, and personal marriage anecdotes remain source-scoped comedy-panel hypotheticals.
@@ -16299,6 +16303,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | 罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......
 
 Ingested the 2026-07-24 罗永浩的十字路口 and 四孝喜剧 panel on flaws, baldness, ADHD, compulsive order, family pressure, reviews, online backlash, and 活人感. Added source `lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg`; created `CaoGuoStandup`, `LinJianxinStandup`, `OCDOrderPressure`, and `CreatorReviewResponseBoundary`; updated `LuoYonghao`, `LuoyonghaosCrossroads`, `SixiaoComedy`, `ShiLifen`, `ADHDSelfDiagnosisBoundary`, `HumanImperfectionCreativeValue`, `LiveHumanFeeling`, `overview`, and `index`. No settled contradiction found; ADHD medication effects, hair-loss treatment, compulsive-order family impact, review behavior, doxxing, and public rebuttal remain source-scoped anecdotes rather than medical, legal, or relationship advice.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 
