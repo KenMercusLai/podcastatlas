@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2806
+topic_total_pages: 2807
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8178,6 +8178,9 @@ topic_sources:
   - key: "vol-273-yingweida-ze-jianji-tianxia-1010956114"
     title: "Vol.273 英伟达则兼济天下？"
     url: "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
+  - key: "vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw"
+    title: "vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远"
+    url: "/wiki/sources/vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw/"
   - key: "tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128"
     title: "Welcome to the 'infocalypse'"
     url: "/wiki/sources/tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128/"

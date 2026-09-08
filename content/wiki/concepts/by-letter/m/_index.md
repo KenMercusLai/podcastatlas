@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6670
+wiki_total_pages: 6675
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "MethodicDoubt"
     title: "Methodic Doubt"
     url: "/wiki/concepts/methodicdoubt/"
+  - key: "MethodologyDisarmament"
+    title: "Methodology Disarmament / 方法论卸武器"
+    url: "/wiki/concepts/methodologydisarmament/"
   - key: "MetisHeroicCunning"
     title: "Metis Heroic Cunning / 莫提斯英雄狡智"
     url: "/wiki/concepts/metisheroiccunning/"

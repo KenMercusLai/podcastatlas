@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6670
+wiki_total_pages: 6675
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1691,6 +1691,9 @@ wiki_pages:
   - key: "CreatorGiftingDemandManufacture"
     title: "Creator Gifting Demand Manufacture"
     url: "/wiki/concepts/creatorgiftingdemandmanufacture/"
+  - key: "CreatorIdentityTransition"
+    title: "Creator Identity Transition / 创作者身份转型"
+    url: "/wiki/concepts/creatoridentitytransition/"
   - key: "CreatorObituaryMemory"
     title: "Creator Obituary Memory / 创作者讣告记忆"
     url: "/wiki/concepts/creatorobituarymemory/"

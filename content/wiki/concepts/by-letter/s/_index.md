@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6670
+wiki_total_pages: 6675
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "ShortVideoOldDramaRediscovery"
     title: "Short-Video Old-Drama Rediscovery / 短视频旧剧翻红"
     url: "/wiki/concepts/shortvideoolddramarediscovery/"
+  - key: "ShortVideoTrafficLogic"
+    title: "Short-Video Traffic Logic / 短视频流量逻辑"
+    url: "/wiki/concepts/shortvideotrafficlogic/"
   - key: "ShroudedJobAttributes"
     title: "Shrouded Job Attributes"
     url: "/wiki/concepts/shroudedjobattributes/"

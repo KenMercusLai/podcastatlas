@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "fa90235a6e248fc16fa3221ee8dd7ca3790a29db999d154a09ec7bd032c8d0ba",
       "e8622d38f13ea2358ddce386a71a855756d6b16ff37d750e1c143956989294e2",
       "a425088a8a63cb4953aa8d3b827e2adc1d5f50a4ff37a75e56d1135b549692a6",
       "934678f21fc5dae88ac422035cc7224a0cce38c899ba484c6a245e74426573b7",
@@ -586,11 +587,44 @@
       "50c10ede37a5054232536c4055debd33554deb141412a8be7da09db5505c5e9c",
       "84dd49ac166e4697c7944d5e84ddfcbab4c58fe49670c3ea55a8fcc24b4214bf"
     ],
-    "paragraph_count": 584
+    "paragraph_count": 585
   },
-  "overview_commit": "9ce16721dc0586ac415c50e1c7db5c59a7fbe0d7",
-  "overview_digest": "f5295b37abf54a81eb6bb1ccdf6d155c3bd580a967dbe1a1babb9b23538b98b8",
+  "overview_commit": "4cd802d4f698677c6dce8d52296fd5906b2eaf81",
+  "overview_digest": "2cec6a304a97110d9c17ab5abe9cfa65a03659aa63eebf9c1090ee1c9296fe55",
   "paragraphs": [
+    {
+      "id": "fa90235a6e248fc16fa3221ee8dd7ca3790a29db999d154a09ec7bd032c8d0ba",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw|vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远]], a [[TianzhenButianzhen|天真不天真]] conversation with [[YangTianzhen|杨天真 / 天真]] and [[XieyinMelody|携隐 Melody]] on podcasting, long-form value, media-worker transition, short-video traffic logic, AI-era human connection, and creator identity change. It adds [[YangTianzhen]], [[XieyinMelody]], [[LongContentTimeTail]], [[PodcastLedMediaTransition]], [[ShortVideoTrafficLogic]], [[CreatorIdentityTransition]], and [[MethodologyDisarmament]], while extending [[TianzhenButianzhen]], [[ZongHengSiHai]], [[ChinesePodcastEcosystem]], [[PodcastIntimacy]], [[PodcastAuthenticityBoundary]], [[HumanConnectionUnderAI]], [[AIAuthorshipPresence]], and [[MediaFormConstraint]]. Its core synthesis is that podcasting can be a slower and less immediately profitable route than short video while still preserving durable thought, human presence, professional media skill, and identity-transition work. No settled contradiction is recorded; completion-rate, industry-freeze, short-drama, and podcast-company claims remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 1,
+        "culture-and-media": 2,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AIAuthorshipPresence",
+        "ChinesePodcastEcosystem",
+        "CreatorIdentityTransition",
+        "HumanConnectionUnderAI",
+        "LongContentTimeTail",
+        "MediaFormConstraint",
+        "MethodologyDisarmament",
+        "PodcastAuthenticityBoundary",
+        "PodcastIntimacy",
+        "PodcastLedMediaTransition",
+        "ShortVideoTrafficLogic",
+        "TianzhenButianzhen",
+        "XieyinMelody",
+        "YangTianzhen",
+        "ZongHengSiHai",
+        "vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw"
+      ]
+    },
     {
       "id": "e8622d38f13ea2358ddce386a71a855756d6b16ff37d750e1c143956989294e2",
       "primary_topic": "business-and-markets",

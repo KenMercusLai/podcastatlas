@@ -2,6 +2,31 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "creator-transition-links-media-work-and-self-regulation",
+      "qualifications": [
+        "This is a source-scoped creator-work and identity-transition claim, not generalized career advice.",
+        "The podcast-company and crime-podcast plans are discussed as intentions or possibilities, not validated operating outcomes.",
+        "The self-regulation material is public self-reflection rather than clinical guidance."
+      ],
+      "statement": "[[vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw|vol.55]] enters work-and-society through creator transition: [[YangTianzhen]], [[XieyinMelody]], [[CreatorIdentityTransition]], [[MethodologyDisarmament]], and [[PodcastLedMediaTransition]] connect public-facing media work, professional podcast-company planning, title/traffic judgment, and the need to revise old control methods during role change.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw",
+        "YangTianzhen",
+        "XieyinMelody",
+        "CreatorIdentityTransition",
+        "MethodologyDisarmament",
+        "PodcastLedMediaTransition",
+        "ShortVideoTrafficLogic",
+        "LongContentTimeTail",
+        "TianzhenButianzhen",
+        "ZongHengSiHai",
+        "HumanConnectionUnderAI",
+        "MediaFormConstraint"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "lifelong-sex-education-is-source-scoped-public-education-need",
       "qualifications": [
         "The source does not provide a school curriculum, policy design, or empirical program evaluation.",

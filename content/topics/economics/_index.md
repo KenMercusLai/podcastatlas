@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1951
+topic_total_pages: 1952
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -4982,6 +4982,9 @@ topic_entities:
   - key: "ZhuNing"
     title: "朱宁 / Zhu Ning"
     url: "/wiki/entities/zhuning/"
+  - key: "YangTianzhen"
+    title: "杨天真 / 天真"
+    url: "/wiki/entities/yangtianzhen/"
   - key: "LiangJie"
     title: "梁杰"
     url: "/wiki/entities/liangjie/"

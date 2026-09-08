@@ -2,6 +2,33 @@
   "claims": [
     {
       "global_candidate": true,
+      "id": "long-form-podcasting-preserves-human-presence",
+      "qualifications": [
+        "The source is a creator conversation rather than a market-wide study of podcast economics or audience behavior.",
+        "Completion-rate, television-industry, short-drama, and podcast-company claims remain source-scoped.",
+        "Long-form value depends on durable thought and listener fit, not on duration alone."
+      ],
+      "statement": "[[vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw|vol.55]] adds a long-form podcasting branch: [[LongContentTimeTail]], [[PodcastLedMediaTransition]], [[ShortVideoTrafficLogic]], [[PodcastIntimacy]], and [[HumanConnectionUnderAI]] frame podcasting as slower than short video but better able to preserve durable thought, voice, professional media skill, and human presence.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw",
+        "LongContentTimeTail",
+        "PodcastLedMediaTransition",
+        "ShortVideoTrafficLogic",
+        "PodcastIntimacy",
+        "HumanConnectionUnderAI",
+        "TianzhenButianzhen",
+        "YangTianzhen",
+        "XieyinMelody",
+        "ZongHengSiHai",
+        "PodcastAuthenticityBoundary",
+        "ChinesePodcastEcosystem",
+        "MediaFormConstraint",
+        "AIAuthorshipPresence"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "ritual-language-can-train-restraint",
       "qualifications": [
         "The episode explicitly remains philosophical and ritual-oriented rather than a species-specific birdwatching field protocol.",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远](sources/vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw.md) — 天真不天真 conversation with Yang Tianzhen and Xieyin Melody on podcasting, long-form value, media transition, short-video traffic logic, AI-era human connection, and creator identity change.
 - [罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！](sources/luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f.md) — 罗永浩的十字路口 live panel with 四孝喜剧 on trend-following, friend lending, campus-loan chains, Smartisan debt repayment, collection pressure, and money's effect on relationships.
 - [No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？](sources/no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna.md) — 三五环 interview with Liu Xiaowei on Kuaishou marketing science, content seeding, R3 seeded audiences, search/live/store paths, and brand-performance integration.
 - [史蒂夫说467期 - Joan姐 - 看清自我后，就没人能阻挡你活出自我了](sources/shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg.md) — 史蒂夫说 interview on Steve's psychology origin, Wenchuan crisis intervention, love, vulnerability, father-son repair, parenting, Innerworld boxing community, and self-understanding as vitality.
@@ -2007,6 +2008,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [杨天真 / 天真](entities/YangTianzhen.md) — Host and media operator in the Melody conversation, grounding podcast priority, short-video contrast, podcast-company planning, and backstage-to-front-stage creator transition.
+- [携隐 Melody](entities/XieyinMelody.md) — Long-form podcast creator discussing 纵横四海 production labor, professional media standards, media-worker podcast transition, title psychology, and multi-account fatigue.
 - [四孝喜剧 / Sixiao Comedy](entities/SixiaoComedy.md) — Live-comedy collaborator for the Luo Yonghao money-and-debt panel, represented through audience interaction, advertising jokes, and personal borrowing stories.
 - [咸鱼 / Xianyu (Stand-up Comedian)](entities/XianyuStandup.md) — Comedian whose panel stories link trend-following consumption, 500-yuan friend debt, new-income awkwardness, and commercial collection.
 - [王季叶 / Wang Jiye](entities/WangJiye.md) — Panel participant whose campus-loan chain, Zhihu payment mistake, and indirect collection tactics ground debt psychology.
@@ -2028,7 +2031,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yuri / 尤栗 / 优瑞](entities/UreyVirtualIdol.md) — AI-native virtual idol and digital singer built through multi-model music, image, video, voice, and personality-system workflow.
 - [AI Talk](entities/AITalk.md) — Hanqing's early synthetic virtual-conversation project and training ground before the shift toward original AI-native IP.
 - [Omni-Human](entities/OmniHuman.md) — Model named in the Yuri source as enabling more expressive AI singing and virtual-idol performance.
-- [纵横四海 / Zong Heng Si Hai](entities/ZongHengSiHai.md) — Chinese podcast show represented here by a Mini MBA marketing-management episode that connects strategy, STP, 4P, consumer ethics, brand belief, and personal positioning.
+- [纵横四海 / Zong Heng Si Hai](entities/ZongHengSiHai.md) — Chinese long-form podcast represented by a Mini MBA marketing episode and Melody's account of heavy script labor, structured explanation, and durable multi-hour listening.
 - [Tom Nuttall](entities/TomNuttall.md) — The Intelligence participant reporting from AfD's Saxony-Anhalt election-night party and explaining the post-election arithmetic.
 - [Bündnis Sahra Wagenknecht / BSW](entities/BundnisSahraWagenknecht.md) — Populist-left German party that becomes a possible Saxony-Anhalt kingmaker after AfD's large plurality.
 - [Sven Schulze](entities/SvenSchulze.md) — CDU Saxony-Anhalt premier whose weakened incumbent position anchors the caretaker-stalemate scenario.
@@ -2118,7 +2121,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cape Town](entities/CapeTown.md) — Scenic South African city and Robben Island gateway in EP383's travel route.
 - [Kruger National Park](entities/KrugerNationalPark.md) — Safari setting in EP383, used for wildlife experience and tourism-labor observations.
 - [宋佳 / 小花老师 / Song Jia](entities/SongJia.md) — Returning 天真不天真 guest whose episode profile centers on acting, work pauses, benevolent speech, relationship boundaries, and inward self-cultivation.
-- [天真不天真](entities/TianzhenButianzhen.md) — Conversation-led podcast represented by the Song Jia return episode on self-knowledge, relationships, acting, travel, and podcast authenticity.
+- [天真不天真](entities/TianzhenButianzhen.md) — Conversation-led podcast represented by Song Jia and Melody episodes on self-knowledge, relationships, long-form podcast value, media transition, and creator identity.
 - [杨彬 / Yang Bin](entities/YangBin.md) — Tsinghua professor and former administrator interpreting Dartmouth as a slow, peripheral, psychologically safe innovation field.
 - [Dartmouth AI Workshop / 达特茅斯 AI 夏季研讨会](entities/DartmouthAIWorkshop.md) — 1956 AI-history workshop framed by the episode as a possibility-preserving field rather than a consensus conference.
 - [Dartmouth College / 达特茅斯学院](entities/DartmouthCollege.md) — New England university setting whose peripheral position supports the episode's innovation-field argument.
@@ -11279,6 +11282,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Long Content Time Tail / 长内容时间长尾](concepts/LongContentTimeTail.md) — Long-form media value claim that a podcast or deep episode can remain useful, searchable, and relationship-building years after release.
+- [Podcast-Led Media Transition / 播客牵引的媒体转型](concepts/PodcastLedMediaTransition.md) — Route where media workers move reporting, interviewing, editing, sound, and narrative skills into podcast production and podcast-company models.
+- [Short-Video Traffic Logic / 短视频流量逻辑](concepts/ShortVideoTrafficLogic.md) — Platform-native content logic driven by topic, title psychology, persona, algorithmic matching, compression, and demand discovery.
+- [Creator Identity Transition / 创作者身份转型](concepts/CreatorIdentityTransition.md) — Friction that appears when a person moves from an old professional role into public creator visibility and audience contact.
+- [Methodology Disarmament / 方法论卸武器](concepts/MethodologyDisarmament.md) — Practice of loosening over-relied-on control tools and success methods when they trap a person in an old operating mode.
 - [Friend Lending Boundary / 朋友借钱边界](concepts/FriendLendingBoundary.md) — Boundary between helping friends with money and creating ambiguous debt, disguised gifting, repayment pressure, or reputation risk.
 - [Content Seeding Marketing / 内容种草](concepts/ContentSeedingMarketing.md) — Marketing path where content, creators, search, livestreams, stores, and delayed buying build product understanding and demand beyond same-session purchase.
 - [Brand-Performance Integration / 品效合一](concepts/BrandPerformanceIntegration.md) — Advertising frame linking brand exposure, seeded audiences, ecommerce traffic, and conversion without pretending every impression is causally provable.

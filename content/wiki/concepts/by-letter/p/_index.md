@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6670
+wiki_total_pages: 6675
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -659,6 +659,9 @@ wiki_pages:
   - key: "PodcastEnabledCareerPath"
     title: "Podcast-Enabled Career Path / 播客带来的职业路径"
     url: "/wiki/concepts/podcastenabledcareerpath/"
+  - key: "PodcastLedMediaTransition"
+    title: "Podcast-Led Media Transition / 播客牵引的媒体转型"
+    url: "/wiki/concepts/podcastledmediatransition/"
   - key: "PoeticCausality"
     title: "Poetic Causality / 诗性因果"
     url: "/wiki/concepts/poeticcausality/"

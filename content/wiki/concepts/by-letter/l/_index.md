@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6670
+wiki_total_pages: 6675
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -557,6 +557,9 @@ wiki_pages:
   - key: "LogisticsWorkflowAutomation"
     title: "Logistics Workflow Automation"
     url: "/wiki/concepts/logisticsworkflowautomation/"
+  - key: "LongContentTimeTail"
+    title: "Long Content Time Tail / 长内容时间长尾"
+    url: "/wiki/concepts/longcontenttimetail/"
   - key: "LongVacationRecovery"
     title: "Long Vacation Recovery / 长假恢复"
     url: "/wiki/concepts/longvacationrecovery/"
