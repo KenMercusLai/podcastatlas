@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6785
+wiki_total_pages: 6788
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "IndirectRegulatoryCoercion"
     title: "Indirect Regulatory Coercion"
     url: "/wiki/concepts/indirectregulatorycoercion/"
+  - key: "IndividualAbandonmentNarrative"
+    title: "Individual Abandonment Narrative / 个体被抛弃叙事"
+    url: "/wiki/concepts/individualabandonmentnarrative/"
   - key: "IndividualPsychology"
     title: "Individual Psychology"
     url: "/wiki/concepts/individualpsychology/"

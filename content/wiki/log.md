@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-09] ingest | 在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面
+
+Ingested the 2026-06-23 电影巨辩 episode on Feng Xiaogang's serious work, Wuhui Zhuizong, and Zhua Tewu. Added source `zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf`; created `FengXiaogang`, `WuhuiZhuizong`, `ZhuaTewu`, `IndividualAbandonmentNarrative`, `HistoricalAmbiguityInMainstreamCinema`, and `NationalDirectorEmotionOutlet`; updated `DianyingJubian`, `overview`, and `index`. No settled contradiction found; Feng Xiaogang's motives, censorship pressure, unreleased runtime, and adaptation-intention claims remain source-scoped critical interpretation.
+
 ## [2026-09-09] ingest | EP86 颠覆工作流，效率提升3000%
 
 Ingested the 2026-08-29 纵横四海 Mini MBA episode on using operations management to redesign work and life workflows. Added source `ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k`; created `OperationsManagementWorkflow`, `TheoryOfConstraintsPersonalWorkflow`, `WIPLimitPersonalProductivity`, `QueueingTheorySlack`, `CriticalPathMethodPersonalPlanning`, `BullwhipEffectInformationAmplification`, `ToyotaProductionSystemPersonalWaste`, `AgileSprintPersonalWorkflow`, `FlowMasterPersonalWorkflow`, and `LeanStartupFeedbackLoop`; updated `ZongHengSiHai`, `index`, and `overview`. No settled contradiction found; the title's productivity multiplier, historical examples, company cases, and personal workflow claims remain source-scoped.
@@ -16295,6 +16299,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | 罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......
 
 Ingested the 2026-07-24 罗永浩的十字路口 and 四孝喜剧 panel on flaws, baldness, ADHD, compulsive order, family pressure, reviews, online backlash, and 活人感. Added source `lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg`; created `CaoGuoStandup`, `LinJianxinStandup`, `OCDOrderPressure`, and `CreatorReviewResponseBoundary`; updated `LuoYonghao`, `LuoyonghaosCrossroads`, `SixiaoComedy`, `ShiLifen`, `ADHDSelfDiagnosisBoundary`, `HumanImperfectionCreativeValue`, `LiveHumanFeeling`, `overview`, and `index`. No settled contradiction found; ADHD medication effects, hair-loss treatment, compulsive-order family impact, review behavior, doxxing, and public rebuttal remain source-scoped anecdotes rather than medical, legal, or relationship advice.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

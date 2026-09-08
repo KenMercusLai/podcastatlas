@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9376
+wiki_total_pages: 9379
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "FelixCollin"
     title: "Felix Collin"
     url: "/wiki/entities/felixcollin/"
+  - key: "FengXiaogang"
+    title: "Feng Xiaogang / 冯小刚"
+    url: "/wiki/entities/fengxiaogang/"
   - key: "FengYuxiang"
     title: "Feng Yuxiang / 冯玉祥"
     url: "/wiki/entities/fengyuxiang/"

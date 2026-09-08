@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6785
+wiki_total_pages: 6788
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "NationalBrandNarrativeBackfire"
     title: "National Brand Narrative Backfire"
     url: "/wiki/concepts/nationalbrandnarrativebackfire/"
+  - key: "NationalDirectorEmotionOutlet"
+    title: "National Director Emotion Outlet / 国民导演情绪出口"
+    url: "/wiki/concepts/nationaldirectoremotionoutlet/"
   - key: "NationalExportBranding"
     title: "National Export Branding"
     url: "/wiki/concepts/nationalexportbranding/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面](sources/zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf.md) — 电影巨辩 episode on Feng Xiaogang's serious films, abandoned individuals, Wuhui Zhuizong's historical ambiguity, and Zhua Tewu's clarified reconciliation.
 - [罗永浩的X字路口！如果可以，你会删除伴侣出轨的记忆吗？](sources/ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur.md) — 罗永浩的十字路口 and 四孝喜剧 live panel using AI-generated relationship thought experiments to test loyalty drugs, perfect AI partners, shared pain, infidelity-memory deletion, and algorithmic romantic compatibility.
 - [#397 从「责任分担」到「责任转移」：欧洲为何难以真正与美国「分道扬镳」？](sources/397-cong-zeren-fendan-dao-zeren-zhuanyi-ouzhou-weihe-nanyi-zhenzheng-yu-meiguo-fendao-yangbiao-31c69f95-d493-47a1-a6f8-905eb22c3e41.md) — 声东击西 episode with Sun Chenghao on NATO's 2026 summit, transatlantic burden shifting, European defense autonomy, AI militarization, and China-facing U.S.-Europe policy divergence.
 - [罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......](sources/lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg.md) — 罗永浩的十字路口 and 四孝喜剧 panel on flaws as live-human feeling, spanning baldness, ADHD, compulsive order, domestic pressure, reviews, online backlash, and public sincerity.
@@ -2041,6 +2042,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Feng Xiaogang / 冯小刚](entities/FengXiaogang.md) — Chinese filmmaker read through serious mainstream authorship, abandoned individuals, and public-emotion recognition.
+- [Wuhui Zhuizong / 无悔追踪](entities/WuhuiZhuizong.md) — Television drama treated as a historically ambiguous spy-suspicion story about secrecy, belief, and time.
+- [Zhua Tewu / 抓特务](entities/ZhuaTewu.md) — Film adaptation criticized for replacing Wuhui Zhuizong's ambiguity with clearer guilt, reconciliation, and national-progress closure.
 - [刘宏伟 / Liu Hongwei](entities/LiuHongweiStandup.md) — Comedian and relationship-technology panelist whose answers stress marital loyalty, self-generated happiness, memory deletion, and skepticism toward perfect matching.
 - [孙舒恒 / Sun Shuheng](entities/SunShuhengStandup.md) — Comedian and relationship-technology panelist resisting technological certainty, known-AI romance, pain transfer, memory erasure, and compatibility scoring.
 - [孙承昊 / Sun Chenghao](entities/SunChenghao.md) — 声东击西 guest explaining NATO's 2026 summit, European autonomy limits, transatlantic burden shifting, and issue-specific China-facing policy implications.
@@ -11421,6 +11425,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Individual Abandonment Narrative / 个体被抛弃叙事](concepts/IndividualAbandonmentNarrative.md) — Narrative frame for characters left behind by family, comrades, institutions, government, or historical time.
+- [Historical Ambiguity in Mainstream Cinema / 主流影像中的历史暧昧性](concepts/HistoricalAmbiguityInMainstreamCinema.md) — Film and television capacity to preserve unresolved guilt, belief, loyalty, and historical responsibility.
+- [National Director Emotion Outlet / 国民导演情绪出口](concepts/NationalDirectorEmotionOutlet.md) — Cultural role of a mainstream filmmaker who gives a period's public feelings narrative form.
 - [Relationship Technology Ethics / 亲密关系技术伦理](concepts/RelationshipTechnologyEthics.md) — Ethics of tools that optimize intimacy through fidelity drugs, AI partners, shared pain, memory deletion, or compatibility scoring while shifting agency and responsibility.
 - [Shared Pain Technology Boundary / 痛苦平摊技术边界](concepts/SharedPainTechnologyBoundary.md) — Boundary around intimate technologies that transfer negative emotional experience between partners.
 - [Algorithmic Romantic Compatibility / 算法化爱情匹配](concepts/AlgorithmicRomanticCompatibility.md) — Compatibility-score frame where a quantified match can pressure existing commitment, shared history, and relationship narrative.

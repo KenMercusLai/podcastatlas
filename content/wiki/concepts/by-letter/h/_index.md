@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6785
+wiki_total_pages: 6788
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "HIPAAConstrainedMedicalAI"
     title: "HIPAA-Constrained Medical AI"
     url: "/wiki/concepts/hipaaconstrainedmedicalai/"
+  - key: "HistoricalAmbiguityInMainstreamCinema"
+    title: "Historical Ambiguity in Mainstream Cinema / 主流影像中的历史暧昧性"
+    url: "/wiki/concepts/historicalambiguityinmainstreamcinema/"
   - key: "HistoricalBodyConcept"
     title: "Historical Body Concept"
     url: "/wiki/concepts/historicalbodyconcept/"

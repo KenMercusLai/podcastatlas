@@ -19085,9 +19085,9 @@
       "url": "/wiki/entities/dianlingqiang/"
     },
     "DianyingJubian": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GKwRIJIOV2xKBTdKNQTHj-ue [GKwRIJIOV2xKBTdKNQTHj-ue].md",
@@ -19102,6 +19102,13 @@
           "show": "电影巨辩",
           "title": "《欢迎来龙餐馆》《空枪》说明中国电影还处理不了复杂政治问题",
           "url": "/wiki/sources/huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1/"
+        },
+        {
+          "episode_file": "GKwRIW4OEFk6BNp1EQSshjXF [GKwRIW4OEFk6BNp1EQSshjXF].md",
+          "key": "zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf",
+          "show": "电影巨辩",
+          "title": "在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面",
+          "url": "/wiki/sources/zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf/"
         }
       ],
       "updated": "2026-09-09",
@@ -26569,6 +26576,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/fengtouquan/"
+    },
+    "FengXiaogang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OEFk6BNp1EQSshjXF [GKwRIW4OEFk6BNp1EQSshjXF].md",
+          "key": "zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf",
+          "show": "电影巨辩",
+          "title": "在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面",
+          "url": "/wiki/sources/zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/fengxiaogang/"
     },
     "FengYanEasternHan": {
       "episode_count": 1,
@@ -34465,6 +34488,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/hindukushhimalaya/"
     },
+    "HistoricalAmbiguityInMainstreamCinema": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OEFk6BNp1EQSshjXF [GKwRIW4OEFk6BNp1EQSshjXF].md",
+          "key": "zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf",
+          "show": "电影巨辩",
+          "title": "在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面",
+          "url": "/wiki/sources/zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/historicalambiguityinmainstreamcinema/"
+    },
     "HistoricalComplexityAgainstLabels": {
       "episode_count": 1,
       "show_count": 1,
@@ -37762,6 +37801,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/independentpodcastsustainability/"
+    },
+    "IndividualAbandonmentNarrative": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OEFk6BNp1EQSshjXF [GKwRIW4OEFk6BNp1EQSshjXF].md",
+          "key": "zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf",
+          "show": "电影巨辩",
+          "title": "在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面",
+          "url": "/wiki/sources/zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/individualabandonmentnarrative/"
     },
     "IndividualizedCancerVaccine": {
       "episode_count": 5,
@@ -53306,6 +53361,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/nationalanthempoliticalplasticity/"
+    },
+    "NationalDirectorEmotionOutlet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OEFk6BNp1EQSshjXF [GKwRIW4OEFk6BNp1EQSshjXF].md",
+          "key": "zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf",
+          "show": "电影巨辩",
+          "title": "在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面",
+          "url": "/wiki/sources/zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/nationaldirectoremotionoutlet/"
     },
     "NationalInstitutesOfHealth": {
       "episode_count": 3,
@@ -81134,6 +81205,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/wuhuanprotectorateinstitutionalization/"
     },
+    "WuhuiZhuizong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OEFk6BNp1EQSshjXF [GKwRIW4OEFk6BNp1EQSshjXF].md",
+          "key": "zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf",
+          "show": "电影巨辩",
+          "title": "在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面",
+          "url": "/wiki/sources/zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/wuhuizhuizong/"
+    },
     "WulingManLateHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -88484,6 +88571,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhuzhenlatehan/"
+    },
+    "ZhuaTewu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIW4OEFk6BNp1EQSshjXF [GKwRIW4OEFk6BNp1EQSshjXF].md",
+          "key": "zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf",
+          "show": "电影巨辩",
+          "title": "在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面",
+          "url": "/wiki/sources/zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/zhuatewu/"
     },
     "ZhuangbiAsSocialSignaling": {
       "episode_count": 1,
