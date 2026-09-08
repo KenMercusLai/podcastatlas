@@ -20154,9 +20154,9 @@
       "url": "/wiki/concepts/dulldirtydangerousrobotics/"
     },
     "DushuBuchenglin": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -20171,6 +20171,13 @@
           "show": "独树不成林",
           "title": "350-马基雅维利为何认为人民再蠢也比精英可靠？",
           "url": "/wiki/sources/350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5/"
+        },
+        {
+          "episode_file": "lhHioZCEulxPeYcZobGjAOLyyMmt [lhHioZCEulxPeYcZobGjAOLyyMmt].md",
+          "key": "347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt",
+          "show": "独树不成林",
+          "title": "347-到底为啥有些傻蛋只会以说教的方式沟通",
+          "url": "/wiki/sources/347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt/"
         }
       ],
       "updated": "2026-09-08",
@@ -56808,6 +56815,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/powerdesireselfrestraint/"
     },
+    "PowerDidacticCommunication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhHioZCEulxPeYcZobGjAOLyyMmt [lhHioZCEulxPeYcZobGjAOLyyMmt].md",
+          "key": "347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt",
+          "show": "独树不成林",
+          "title": "347-到底为啥有些傻蛋只会以说教的方式沟通",
+          "url": "/wiki/sources/347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/powerdidacticcommunication/"
+    },
     "PowerMonopolyBackfire": {
       "episode_count": 1,
       "show_count": 1,
@@ -56917,6 +56940,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/pragmaticreligioustoleration/"
+    },
+    "PreachingAsFailedConnection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhHioZCEulxPeYcZobGjAOLyyMmt [lhHioZCEulxPeYcZobGjAOLyyMmt].md",
+          "key": "347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt",
+          "show": "独树不成林",
+          "title": "347-到底为啥有些傻蛋只会以说教的方式沟通",
+          "url": "/wiki/sources/347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/preachingasfailedconnection/"
     },
     "PredictionMarketEthics": {
       "episode_count": 7,
@@ -59932,6 +59971,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/reddit/"
+    },
+    "ReflexiveSelfAwareness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhHioZCEulxPeYcZobGjAOLyyMmt [lhHioZCEulxPeYcZobGjAOLyyMmt].md",
+          "key": "347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt",
+          "show": "独树不成林",
+          "title": "347-到底为啥有些傻蛋只会以说教的方式沟通",
+          "url": "/wiki/sources/347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/reflexiveselfawareness/"
     },
     "RefugeeAidRegistrationGap": {
       "episode_count": 1,
@@ -67771,9 +67826,9 @@
       "url": "/wiki/entities/stripe/"
     },
     "StructuralPowerImbalance": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
@@ -67781,9 +67836,16 @@
           "show": "这病说来话长",
           "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
           "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
+        },
+        {
+          "episode_file": "lhHioZCEulxPeYcZobGjAOLyyMmt [lhHioZCEulxPeYcZobGjAOLyyMmt].md",
+          "key": "347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt",
+          "show": "独树不成林",
+          "title": "347-到底为啥有些傻蛋只会以说教的方式沟通",
+          "url": "/wiki/sources/347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/structuralpowerimbalance/"
     },
     "SuDingJiaozhi": {

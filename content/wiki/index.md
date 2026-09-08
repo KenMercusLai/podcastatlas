@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [347-到底为啥有些傻蛋只会以说教的方式沟通](sources/347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt.md) — 独树不成林 episode on preaching as power language, failed connection, weak reflexive self-awareness, authority imitation, and listening fear.
 - [怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房](sources/yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578.md) — 声动早咖啡 roundup on C'estbon pure-water share pressure, Maya Active's fitness-space strategy, smart-ring subscriptions, DeepZ/Huawei compute plans, Foxconn AI servers, automaker restructuring, credit-card contraction, and Aesop retail reallocation.
 - [Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主](sources/vol-351-yingwang-21shiji-de-huangdao-gushi-haineng-zenme-kai-naodong-1983-nuojiang-dezhu-gkwriueodap1a3taaattkgol.md) — 文化有限 episode on William Golding's Lord of the Flies, civilization fragility, island-adventure inversion, fear-driven group violence, fire and technology, and allegorical adaptation tradeoffs.
 - [vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远](sources/vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw.md) — 天真不天真 conversation with Yang Tianzhen and Xieyin Melody on podcasting, long-form value, media transition, short-video traffic logic, AI-era human connection, and creator identity change.
@@ -11300,6 +11301,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Power Didactic Communication](concepts/PowerDidacticCommunication.md) — how hierarchy can turn instruction into command-like speech.
+- [Preaching As Failed Connection](concepts/PreachingAsFailedConnection.md) — preaching as a clumsy relationship bid built from correction rather than listening.
+- [Reflexive Self-Awareness](concepts/ReflexiveSelfAwareness.md) — self-observation capacity needed to see how one's speech lands with others.
 - [Bottled Water Channel Fragmentation / 包装水渠道分流](concepts/BottledWaterChannelFragmentation.md) — Pressure on packaged-water incumbents when instant retail and discount formats split traditional offline demand.
 - [Sportswear Experience Space / 运动服饰体验空间](concepts/SportswearExperienceSpace.md) — Apparel-brand strategy using fitness venues, classes, and community to deepen product identity.
 - [Smart Ring Hardware Subscription / 智能戒指硬件订阅](concepts/SmartRingHardwareSubscription.md) — Wearable model pairing smart-ring sensors with recurring health-analysis subscriptions.

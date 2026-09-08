@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6685
+wiki_total_pages: 6688
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "RefillableBeautyPackaging"
     title: "Refillable Beauty Packaging / 美妆替换芯包装"
     url: "/wiki/concepts/refillablebeautypackaging/"
+  - key: "ReflexiveSelfAwareness"
+    title: "Reflexive Self-Awareness / 反身性自我意识"
+    url: "/wiki/concepts/reflexiveselfawareness/"
   - key: "ReformTimingTrap"
     title: "Reform Timing Trap"
     url: "/wiki/concepts/reformtimingtrap/"

@@ -15952,6 +15952,14 @@ Ingested the 2026-07-25 纵横四海 Mini MBA episode on marketing management as
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-08] ingest | 347-到底为啥有些傻蛋只会以说教的方式沟通
+
+Ingested the 2026-06-23 独树不成林 episode on why some people communicate through preaching or unsolicited instruction. Added source `347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt`; created `PowerDidacticCommunication`, `PreachingAsFailedConnection`, and `ReflexiveSelfAwareness`; updated `DushuBuchenglin`, `StructuralPowerImbalance`, and `index`. No settled contradiction found; the episode qualifies structural-power explanations by separating hierarchy-backed preaching from clumsy, fearful, or relationship-seeking communication.
+
+## [2026-09-08] ingest | 347-到底为啥有些傻蛋只会以说教的方式沟通
+
+Ingested the 2026-06-23 独树不成林 episode on why some people communicate through preaching or unsolicited instruction. Added source `347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt`; created `PowerDidacticCommunication`, `PreachingAsFailedConnection`, and `ReflexiveSelfAwareness`; updated `DushuBuchenglin`, `StructuralPowerImbalance`, and `index`. No settled contradiction found; the episode qualifies structural-power explanations by separating hierarchy-backed preaching from clumsy, fearful, or relationship-seeking communication.
+
 ## [2026-09-08] ingest | vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远
 
 Ingested the 2026-09-08 天真不天真 conversation with Yang Tianzhen and Xieyin Melody on podcasting, long-form value, media-worker transition, short-video traffic logic, AI-era human connection, and creator identity change. Added source `vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw`; created `YangTianzhen`, `XieyinMelody`, `LongContentTimeTail`, `PodcastLedMediaTransition`, `ShortVideoTrafficLogic`, `CreatorIdentityTransition`, and `MethodologyDisarmament`; updated `TianzhenButianzhen`, `ZongHengSiHai`, and `index`. No settled contradiction found; completion-rate, industry-freeze, short-drama, and business-plan claims remain source-scoped.
@@ -16051,6 +16059,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] ingest | 怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房
 
 Ingested the 2026-09-07 声动早咖啡 business-news episode on C'estbon pure-water share pressure, Maya Active's fitness-space strategy, Aura/Oura smart-ring subscriptions, DeepZ's reported Huawei-chip procurement, Foxconn AI servers, Volkswagen restructuring, Maserati-Huawei-JAC cooperation talks, credit-card contraction, and Aesop China retail reallocation. Added source `yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578`; created `Cestbon`, `MayaActive`, `PureFitness`, `AesopBeauty`, `HuaweiAscend950DT`, `Huabei`, `JDWhiteBar`, `BottledWaterChannelFragmentation`, `SportswearExperienceSpace`, `SmartRingHardwareSubscription`, `CreditCardScaleContraction`, and `BeautyRetailNetworkReallocation`; updated `PackagedWaterPriceWar`, `DeepZ`, `FoxconnIndustrialInternet`, `VolkswagenGroup`, `Stellantis`, `Maserati`, `AntaSports`, `OuraRing`, `index`, and `overview`. No settled contradiction found; the Aura/Oura spelling, chip order, IPO filing, share data, job-cut totals, and cooperation talks remain source-scoped.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-08] lint | Wiki health check
 

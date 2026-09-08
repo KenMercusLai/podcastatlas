@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6685
+wiki_total_pages: 6688
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -962,6 +962,9 @@ wiki_pages:
   - key: "PowerCompletionRetreat"
     title: "Power Completion Retreat / 功成退让"
     url: "/wiki/concepts/powercompletionretreat/"
+  - key: "PowerDidacticCommunication"
+    title: "Power Didactic Communication / 权力式说教沟通"
+    url: "/wiki/concepts/powerdidacticcommunication/"
   - key: "PowerEtiquetteReading"
     title: "Power Etiquette Reading / 权力礼仪细读"
     url: "/wiki/concepts/poweretiquettereading/"
@@ -1013,6 +1016,9 @@ wiki_pages:
   - key: "PreQinSurnameClanIdentity"
     title: "Pre-Qin Surname-Clan Identity / 先秦姓氏身份"
     url: "/wiki/concepts/preqinsurnameclanidentity/"
+  - key: "PreachingAsFailedConnection"
+    title: "Preaching As Failed Connection / 说教作为失败的亲近方式"
+    url: "/wiki/concepts/preachingasfailedconnection/"
   - key: "PrecisionAgriculture"
     title: "Precision Agriculture"
     url: "/wiki/concepts/precisionagriculture/"

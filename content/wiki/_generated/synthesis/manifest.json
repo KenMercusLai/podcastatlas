@@ -1,8 +1,8 @@
 {
   "content_date": "2026-09-08",
   "corpus": {
-    "episode_count": 2002,
-    "source_count": 2002
+    "episode_count": 2003,
+    "source_count": 2003
   },
   "generated": true,
   "global": {
@@ -19,7 +19,7 @@
     "pending_ingests": 2,
     "pending_topics": []
   },
-  "overview_commit": "7de113bfc795b24ab5dab733dc0f1b33fe1e415a",
+  "overview_commit": "bed790a50e3ee7993ab2c1009c13c5d6cf08ea9e",
   "overview_digest": "db1c2d86602b25f4c7f7ca6cad1cf57b90b22deacd74a10cc8cbbeff3cdf51fa",
   "paragraph_count": 585,
   "schema_version": 1,
