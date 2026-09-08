@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》660-1丨东汉开国超燃混剪！淇姐带你2分钟见证](sources/zizhi-tongjian-hanji-660-1-donghan-kaiguo-chaoran-hunjian-qijie-daini-2-fenzhong-jianzheng-fpvqf779gc-cy32dfuuro96ax9qn.md) — 芮淇讲透资治通鉴 two-minute montage previewing Eastern Han founding through Wang Mang's disorder, Liu Xiu, Kunyang, Yin Lihua, Yuntai generals, and Guangwu Zhongxing.
 - [在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面](sources/zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf.md) — 电影巨辩 episode on Feng Xiaogang's serious films, abandoned individuals, Wuhui Zhuizong's historical ambiguity, and Zhua Tewu's clarified reconciliation.
 - [罗永浩的X字路口！如果可以，你会删除伴侣出轨的记忆吗？](sources/ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur.md) — 罗永浩的十字路口 and 四孝喜剧 live panel using AI-generated relationship thought experiments to test loyalty drugs, perfect AI partners, shared pain, infidelity-memory deletion, and algorithmic romantic compatibility.
 - [#397 从「责任分担」到「责任转移」：欧洲为何难以真正与美国「分道扬镳」？](sources/397-cong-zeren-fendan-dao-zeren-zhuanyi-ouzhou-weihe-nanyi-zhenzheng-yu-meiguo-fendao-yangbiao-31c69f95-d493-47a1-a6f8-905eb22c3e41.md) — 声东击西 episode with Sun Chenghao on NATO's 2026 summit, transatlantic burden shifting, European defense autonomy, AI militarization, and China-facing U.S.-Europe policy divergence.
