@@ -15968,6 +15968,10 @@ Ingested the 2026-06-21 博物志 episode on Hangzhou Museum's “意味杭之�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-08] ingest | VOL.207 每天20分钟的「反焦虑」吃饭SOP，打工人请直接抄作业 ft.大物是也成员小龙
+
+Ingested the 2026-06-09 这病说来话长 episode with 阿汤 and 小龙 on breakfast-first balanced eating, low-glycemic staple choices, protein, healthier fats, fruit, takeout repair, CGM feedback, snacks, sleep timing, social meals, alcohol, desserts, and small behavior changes. Added source `vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo`; created `PracticalBalancedEating`; updated `XiaolongWeightManagementGuest`, `LifestyleWeightManagement`, and `index`. No settled contradiction found; CGM, low-GI staples, protein, alcohol, dessert, fruit, diabetes, kidney disease, pregnancy, eating-disorder, and sports-nutrition questions remain source-scoped public nutrition discussion rather than individualized care.
+
 ## [2026-09-08] ingest | 《资治通鉴·汉纪》663丨更始帝刘玄是滩扶不上墙的烂泥？
 
 Ingested the 2026-06-09 芮淇讲透资治通鉴 episode on Liu Xuan's Gengshi elevation, Liu Yan's warning against premature imperial title, Zhang Ang's pressure intervention, Wang Mang's image-management and pre-Kunyang mobilization, and Liu Xiu's survival-focused counsel inside Kunyang. Added source `zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz`; created `ZhangAngGengshi`; updated `LiuXuanGengshiEmperor`, `LiuYanLiuXiuBrother`, `WangMang`, `LulinRebellion`, `KunyangBattle`, `RestoredRoyalFigureheadLegitimacy`, `index`, and `overview`. No settled contradiction found; Wang Kuang, Wang Feng, Wang Chang, Zhu Wei, Ju Wuba, Wang Xun, Chen Mao, exact troop counts, animal details, and Wang Mang's psychology remain source-scoped.
@@ -16163,3 +16167,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 18,058 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-09-02 with 16,930 nodes and 195,431 edges while lint scanned 18,058 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, one fragile bridge (`entities/CatholicChurch` -> `concepts/ReligiousControlledSubstanceExemption`), and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.

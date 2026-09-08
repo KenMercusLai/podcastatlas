@@ -42906,9 +42906,9 @@
       "url": "/wiki/concepts/lifelongsexeducation/"
     },
     "LifestyleWeightManagement": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "llat_ySKrqmRO0KdJWUOegDCAlU5 [llat_ySKrqmRO0KdJWUOegDCAlU5].md",
@@ -42944,9 +42944,16 @@
           "show": "无时差研究所",
           "title": "EP384-普通人也能打得起的“司美格鲁肽”，减肥针“一针瘦十斤”背后的真相与代",
           "url": "/wiki/sources/ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy/"
+        },
+        {
+          "episode_file": "lhMSV-HzbMzFYiUPaTzsKM1jblgo [lhMSV-HzbMzFYiUPaTzsKM1jblgo].md",
+          "key": "vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo",
+          "show": "这病说来话长",
+          "title": "VOL.207 每天20分钟的「反焦虑」吃饭SOP，打工人请直接抄作业 ft.大物是也成员小龙",
+          "url": "/wiki/sources/vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/lifestyleweightmanagement/"
     },
     "Light9M": {
@@ -57845,6 +57852,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/powerstructuretargeting/"
+    },
+    "PracticalBalancedEating": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhMSV-HzbMzFYiUPaTzsKM1jblgo [lhMSV-HzbMzFYiUPaTzsKM1jblgo].md",
+          "key": "vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo",
+          "show": "这病说来话长",
+          "title": "VOL.207 每天20分钟的「反焦虑」吃饭SOP，打工人请直接抄作业 ft.大物是也成员小龙",
+          "url": "/wiki/sources/vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/practicalbalancedeating/"
     },
     "PracticalSugarControl": {
       "episode_count": 2,
@@ -79140,9 +79163,9 @@
       "url": "/wiki/entities/xiaosiye/"
     },
     "XiaolongWeightManagementGuest": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "llat_ySKrqmRO0KdJWUOegDCAlU5 [llat_ySKrqmRO0KdJWUOegDCAlU5].md",
@@ -79150,9 +79173,16 @@
           "show": "这病说来话长",
           "title": "VOL.217停止“神化”减肥针！不挨饿、不戒碳水，这才是普通人该抄的减重作业",
           "url": "/wiki/sources/vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5/"
+        },
+        {
+          "episode_file": "lhMSV-HzbMzFYiUPaTzsKM1jblgo [lhMSV-HzbMzFYiUPaTzsKM1jblgo].md",
+          "key": "vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo",
+          "show": "这病说来话长",
+          "title": "VOL.207 每天20分钟的「反焦虑」吃饭SOP，打工人请直接抄作业 ft.大物是也成员小龙",
+          "url": "/wiki/sources/vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-08",
       "url": "/wiki/entities/xiaolongweightmanagementguest/"
     },
     "XiaoweiDuanwenReporter": {

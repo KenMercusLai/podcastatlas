@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6719
+wiki_total_pages: 6720
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1001,6 +1001,9 @@ wiki_pages:
   - key: "PowerViolenceDistinction"
     title: "Power-Violence Distinction / 权力与暴力区分"
     url: "/wiki/concepts/powerviolencedistinction/"
+  - key: "PracticalBalancedEating"
+    title: "Practical Balanced Eating / 可执行均衡饮食"
+    url: "/wiki/concepts/practicalbalancedeating/"
   - key: "PracticalSugarControl"
     title: "Practical Sugar Control / 快乐控糖"
     url: "/wiki/concepts/practicalsugarcontrol/"

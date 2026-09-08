@@ -3280,7 +3280,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lnXbxBAUsJXttxyBA-idbidq6kPd [lnXbxBAUsJXttxyBA-idbidq6kPd].md",
-      "source_note_count": 21,
+      "source_note_count": 22,
       "topic_matched_source_note_count": 3,
       "topics": [
         {
@@ -3321,6 +3321,13 @@
           "key": "DabaNiuTeacher",
           "title": "大白牛老师 / Daba Niu Teacher",
           "url": "/wiki/entities/dabaniuteacher/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "XiaolongWeightManagementGuest",
+          "title": "小龙 / Xiaolong (Weight-Management Guest)",
+          "url": "/wiki/entities/xiaolongweightmanagementguest/",
           "kind": "person",
           "episode_count": 2
         },
