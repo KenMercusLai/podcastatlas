@@ -8535,6 +8535,10 @@
     "title": "Breakneck",
     "url": "/wiki/entities/breakneck/"
   },
+  "BreathfulPresence": {
+    "title": "Breathful Presence",
+    "url": "/wiki/concepts/breathfulpresence/"
+  },
   "BrendanBrady": {
     "title": "Brendan Brady",
     "url": "/wiki/entities/brendanbrady/"
@@ -11022,6 +11026,10 @@
   "Chewy": {
     "title": "Chewy",
     "url": "/wiki/entities/chewy/"
+  },
+  "ChhatralRinpoche": {
+    "title": "Chhatral Rinpoche",
+    "url": "/wiki/entities/chhatralrinpoche/"
   },
   "ChiangKaiShek": {
     "title": "Chiang Kai-shek / 蒋介石",
@@ -17330,6 +17338,10 @@
   "DysphagiaRehabilitationSafety": {
     "title": "Dysphagia Rehabilitation Safety / 吞咽障碍康复安全",
     "url": "/wiki/concepts/dysphagiarehabilitationsafety/"
+  },
+  "Dzogchen": {
+    "title": "Dzogchen",
+    "url": "/wiki/concepts/dzogchen/"
   },
   "EAB": {
     "title": "EAB",
@@ -31151,6 +31163,10 @@
     "title": "Karl Popper / 卡尔·波普尔",
     "url": "/wiki/entities/karlpopper/"
   },
+  "KarmaAsCauseAndEffect": {
+    "title": "Karma as Cause and Effect",
+    "url": "/wiki/concepts/karmaascauseandeffect/"
+  },
   "Kaseya": {
     "title": "Kaseya",
     "url": "/wiki/entities/kaseya/"
@@ -42787,6 +42803,10 @@
     "title": "Payroll Infrastructure Trust",
     "url": "/wiki/concepts/payrollinfrastructuretrust/"
   },
+  "PeaceInfrastructure": {
+    "title": "Peace Infrastructure",
+    "url": "/wiki/concepts/peaceinfrastructure/"
+  },
   "PeaceParleyEntrapment": {
     "title": "Peace-Parley Entrapment / 和谈诱捕",
     "url": "/wiki/concepts/peaceparleyentrapment/"
@@ -51279,6 +51299,10 @@
     "title": "叔孙无忌 / Shusun Wuji (late Han)",
     "url": "/wiki/entities/shusunwujilatehan/"
   },
+  "ShyalpaRinpoche": {
+    "title": "Shyalpa Rinpoche",
+    "url": "/wiki/entities/shyalparinpoche/"
+  },
   "Shybird": {
     "title": "Shybird",
     "url": "/wiki/entities/shybird/"
@@ -53338,6 +53362,10 @@
   "StewartBrand": {
     "title": "Stewart Brand",
     "url": "/wiki/entities/stewartbrand/"
+  },
+  "StillnessAsNonConditioning": {
+    "title": "Stillness as Non-Conditioning",
+    "url": "/wiki/concepts/stillnessasnonconditioning/"
   },
   "StirFryRevival": {
     "title": "Stir-Fry Revival / 爆炒与小炒回潮",
@@ -58010,6 +58038,10 @@
   "UniversalMusicGroup": {
     "title": "Universal Music Group",
     "url": "/wiki/entities/universalmusicgroup/"
+  },
+  "UniversalPeaceSanctuary": {
+    "title": "Universal Peace Sanctuary",
+    "url": "/wiki/entities/universalpeacesanctuary/"
   },
   "UniversityCollegeLondon": {
     "title": "University College London",
@@ -66474,6 +66506,10 @@
   "default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515": {
     "title": "Love in the time of Palantir",
     "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515/"
+  },
+  "default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914": {
+    "title": "Karma, Enlightenment & the Wisdom Beyond the Mind | Shyalpa Rinpoche | Shekhar Natarajan",
+    "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914/"
   },
   "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d": {
     "title": "Dhaka matters: an election for Bangladesh",

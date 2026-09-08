@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2262
+topic_total_pages: 2263
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2149,6 +2149,9 @@ topic_concepts:
   - key: "PatronSuccessionExposure"
     title: "Patron Succession Exposure / 靠山更替暴露风险"
     url: "/wiki/concepts/patronsuccessionexposure/"
+  - key: "PeaceInfrastructure"
+    title: "Peace Infrastructure"
+    url: "/wiki/concepts/peaceinfrastructure/"
   - key: "PeaceParleyEntrapment"
     title: "Peace-Parley Entrapment / 和谈诱捕"
     url: "/wiki/concepts/peaceparleyentrapment/"

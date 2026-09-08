@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 6760
+wiki_total_pages: 6765
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "Kaolin"
     title: "Kaolin / 高岭土"
     url: "/wiki/concepts/kaolin/"
+  - key: "KarmaAsCauseAndEffect"
+    title: "Karma as Cause and Effect"
+    url: "/wiki/concepts/karmaascauseandeffect/"
   - key: "KeiretsuBusinessGroups"
     title: "Keiretsu Business Groups / 系列"
     url: "/wiki/concepts/keiretsubusinessgroups/"

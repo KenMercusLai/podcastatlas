@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9354
+wiki_total_pages: 9357
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "Chewy"
     title: "Chewy"
     url: "/wiki/entities/chewy/"
+  - key: "ChhatralRinpoche"
+    title: "Chhatral Rinpoche"
+    url: "/wiki/entities/chhatralrinpoche/"
   - key: "ChiangKaiShek"
     title: "Chiang Kai-shek / 蒋介石"
     url: "/wiki/entities/chiangkaishek/"

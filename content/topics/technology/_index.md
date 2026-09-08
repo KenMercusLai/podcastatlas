@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2821
+topic_total_pages: 2823
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2902,6 +2902,9 @@ topic_concepts:
   - key: "PaymentsInfrastructurePivot"
     title: "Payments Infrastructure Pivot"
     url: "/wiki/concepts/paymentsinfrastructurepivot/"
+  - key: "PeaceInfrastructure"
+    title: "Peace Infrastructure"
+    url: "/wiki/concepts/peaceinfrastructure/"
   - key: "PeakValleyAIInferencePricing"
     title: "Peak-Valley AI Inference Pricing"
     url: "/wiki/concepts/peakvalleyaiinferencepricing/"
@@ -7947,6 +7950,9 @@ topic_sources:
   - key: "tsr-s5-jared-v3final-tsr-s5-jared-v3final"
     title: "Jared Friedman, Partner, Y Combinator; Co-founder, Scribd"
     url: "/wiki/sources/tsr-s5-jared-v3final-tsr-s5-jared-v3final/"
+  - key: "default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914"
+    title: "Karma, Enlightenment & the Wisdom Beyond the Mind | Shyalpa Rinpoche | Shekhar Natarajan"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914/"
   - key: "kate-crawford-mapping-empires"
     title: "Kate Crawford: Mapping Empires"
     url: "/wiki/sources/kate-crawford-mapping-empires/"

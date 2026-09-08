@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6760
+wiki_total_pages: 6765
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "PD1VEGFBispecific"
     title: "PD-1/VEGF Bispecific"
     url: "/wiki/concepts/pd1vegfbispecific/"
+  - key: "PeaceInfrastructure"
+    title: "Peace Infrastructure"
+    url: "/wiki/concepts/peaceinfrastructure/"
   - key: "PeaceParleyEntrapment"
     title: "Peace-Parley Entrapment / 和谈诱捕"
     url: "/wiki/concepts/peaceparleyentrapment/"

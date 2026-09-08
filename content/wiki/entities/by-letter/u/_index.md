@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 9354
+wiki_total_pages: 9357
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "UniversalMusicGroup"
     title: "Universal Music Group"
     url: "/wiki/entities/universalmusicgroup/"
+  - key: "UniversalPeaceSanctuary"
+    title: "Universal Peace Sanctuary"
+    url: "/wiki/entities/universalpeacesanctuary/"
   - key: "UniversityCollegeLondon"
     title: "University College London"
     url: "/wiki/entities/universitycollegelondon/"

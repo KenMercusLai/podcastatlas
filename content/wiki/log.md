@@ -16243,3 +16243,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-09] ingest | Karma, Enlightenment & the Wisdom Beyond the Mind | Shyalpa Rinpoche | Shekhar Natarajan
+
+Ingested the 2026-09-08 Tomorrow Today episode with Shyalpa Rinpoche on exile, Tibetan Buddhist training, karma, Dzogchen, breathful presence, stillness, death, the Universal Peace Sanctuary, peace infrastructure, meaning scarcity, and compassionate AI. Added source `default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914`; created `ShyalpaRinpoche`, `ChhatralRinpoche`, `UniversalPeaceSanctuary`, `Dzogchen`, `KarmaAsCauseAndEffect`, `BreathfulPresence`, `StillnessAsNonConditioning`, and `PeaceInfrastructure`; updated `TomorrowToday`, `ShekharNatarajan`, `AngelicIntelligence`, and `index`. No settled contradiction found; guest-name spelling variants and claims about sanctuary construction, foundations, blockchain transparency, fundraising, and project status remain source-scoped.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

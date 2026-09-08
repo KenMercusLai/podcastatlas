@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6760
+wiki_total_pages: 6765
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -872,6 +872,9 @@ wiki_pages:
   - key: "DysphagiaRehabilitationSafety"
     title: "Dysphagia Rehabilitation Safety / 吞咽障碍康复安全"
     url: "/wiki/concepts/dysphagiarehabilitationsafety/"
+  - key: "Dzogchen"
+    title: "Dzogchen"
+    url: "/wiki/concepts/dzogchen/"
   - key: "DecisiveTerrainPreemption"
     title: "争地抢先式决胜 / Decisive Terrain Preemption"
     url: "/wiki/concepts/decisiveterrainpreemption/"
