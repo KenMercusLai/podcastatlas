@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b48d314ea783542efeb8ce77b613a48008d2e21bd1fff146f453efb7e2a9ab23",
       "fa90235a6e248fc16fa3221ee8dd7ca3790a29db999d154a09ec7bd032c8d0ba",
       "e8622d38f13ea2358ddce386a71a855756d6b16ff37d750e1c143956989294e2",
       "a425088a8a63cb4953aa8d3b827e2adc1d5f50a4ff37a75e56d1135b549692a6",
@@ -587,11 +588,49 @@
       "50c10ede37a5054232536c4055debd33554deb141412a8be7da09db5505c5e9c",
       "84dd49ac166e4697c7944d5e84ddfcbab4c58fe49670c3ea55a8fcc24b4214bf"
     ],
-    "paragraph_count": 585
+    "paragraph_count": 586
   },
-  "overview_commit": "bed790a50e3ee7993ab2c1009c13c5d6cf08ea9e",
-  "overview_digest": "db1c2d86602b25f4c7f7ca6cad1cf57b90b22deacd74a10cc8cbbeff3cdf51fa",
+  "overview_commit": "5062cadf59b1e6cfc98515c98c7f607667c6ee09",
+  "overview_digest": "8ff81a136f213db13205f76371ba971cd82262c5830682ff814d2b6545504134",
   "paragraphs": [
+    {
+      "id": "b48d314ea783542efeb8ce77b613a48008d2e21bd1fff146f453efb7e2a9ab23",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [],
+      "text": "The latest addition is [[246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793|246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了]], a [[BowuzhiPodcast|博物志]] episode on [[HangzhouMuseum|杭州博物馆]]'s [[YiweiHangzhiExhibition|“意味杭之：馆藏明清古籍展”]]. It adds [[HangzhouMuseum]], [[YiweiHangzhiExhibition]], [[WenlanPavilion]], [[SikuQuanshu]], [[LiuhePagoda]], [[MaoYisheng]], [[LeifengPagoda]], [[QianHongchu]], [[ZhangDai]], [[YuQianMing]], [[YuQianTombAndTemple]], [[HuiyinGaoliTemple]], [[BaijiaWeiji]], [[QunfangNoodleHouse]], [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[ChineseWoodblockPrintingEconomics]], and [[MingQingHangzhouPublishingCulture]], while extending [[Hangzhou]], [[BowuzhiPodcast]], [[OldBookMateriality]], [[BookPublishingEconomics]], [[TravelReadingAsPlaceInquiry]], [[HeritageTourismCommercialization]], and [[TourismTrafficMismatch]]. Its core synthesis is that ancient books become public culture only when their physical form, edition terms, printing workflow, local publishing context, and visitor-facing labels are explained clearly; the Hangzhou travel segment then tests the same standard across book heritage, pagodas, memorial sites, temples, and food. No settled contradiction is recorded; the exhibition's exact final closing date, Qing publishing-decline causality, object-label ambiguities, and restaurant recommendations remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 3
+      },
+      "wikilinks": [
+        "246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793",
+        "AncientChineseBookMateriality",
+        "BaijiaWeiji",
+        "BookPublishingEconomics",
+        "BowuzhiPodcast",
+        "ChineseWoodblockPrintingEconomics",
+        "Hangzhou",
+        "HangzhouMuseum",
+        "HeritageTourismCommercialization",
+        "HuiyinGaoliTemple",
+        "LeifengPagoda",
+        "LiuhePagoda",
+        "MaoYisheng",
+        "MingQingHangzhouPublishingCulture",
+        "MuseumInterpretationLegibility",
+        "OldBookMateriality",
+        "PlaceBasedExhibitionCuration",
+        "QianHongchu",
+        "QunfangNoodleHouse",
+        "SikuQuanshu",
+        "TourismTrafficMismatch",
+        "TravelReadingAsPlaceInquiry",
+        "WenlanPavilion",
+        "YiweiHangzhiExhibition",
+        "YuQianMing",
+        "YuQianTombAndTemple",
+        "ZhangDai"
+      ]
+    },
     {
       "id": "fa90235a6e248fc16fa3221ee8dd7ca3790a29db999d154a09ec7bd032c8d0ba",
       "primary_topic": "culture-and-media",

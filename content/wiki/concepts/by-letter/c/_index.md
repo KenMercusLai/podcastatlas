@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6688
+wiki_total_pages: 6693
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -689,6 +689,9 @@ wiki_pages:
   - key: "ChineseWebFictionMethodology"
     title: "Chinese Web Fiction Methodology / 中国网文方法论"
     url: "/wiki/concepts/chinesewebfictionmethodology/"
+  - key: "ChineseWoodblockPrintingEconomics"
+    title: "Chinese Woodblock Printing Economics / 中国雕版印刷经济性"
+    url: "/wiki/concepts/chinesewoodblockprintingeconomics/"
   - key: "ChineseZodiac"
     title: "Chinese Zodiac / 十二生肖"
     url: "/wiki/concepts/chinesezodiac/"

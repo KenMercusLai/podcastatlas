@@ -15948,6 +15948,10 @@ Ran lint. See lint-report.md for details.
 
 Ingested the 2026-07-25 纵横四海 Mini MBA episode on marketing management as a strategy-STP-4P chain. Added source `ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a`; created `ZongHengSiHai`, `MarketingManagementChain`, `MarketingEthics`, `BrandBelief`, `CoreCompetenceStrategy`, `STPMarketingFramework`, `CustomerValueBasedPricing`, and `ChannelLengthRisk`. No settled contradiction found; the episode complements existing consumer-brand, willingness-to-pay, and channel-control pages by making their management sequence explicit.
 
+## [2026-09-08] ingest | 246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了
+
+Ingested the 2026-06-21 博物志 episode on Hangzhou Museum's “意味杭之：馆藏明清古籍展,” museum interpretation, ancient Chinese book materiality, woodblock-printing economics, Ming-Qing Hangzhou publishing culture, and a Hangzhou heritage and food route. Added source `246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793`; created `HangzhouMuseum`, `YiweiHangzhiExhibition`, `WenlanPavilion`, `SikuQuanshu`, `LiuhePagoda`, `MaoYisheng`, `LeifengPagoda`, `QianHongchu`, `ZhangDai`, `YuQianMing`, `YuQianTombAndTemple`, `HuiyinGaoliTemple`, `BaijiaWeiji`, `QunfangNoodleHouse`, `MuseumInterpretationLegibility`, `PlaceBasedExhibitionCuration`, `AncientChineseBookMateriality`, `ChineseWoodblockPrintingEconomics`, and `MingQingHangzhouPublishingCulture`; updated `Hangzhou`, `BowuzhiPodcast`, `index`, and `overview`. No settled contradiction found; the exhibition closing date, Qing publishing-decline causality, unclear Leifeng Pagoda object identity, and restaurant recommendations remain source-scoped.
+
 ## [2026-09-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -16059,6 +16063,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] ingest | 怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房
 
 Ingested the 2026-09-07 声动早咖啡 business-news episode on C'estbon pure-water share pressure, Maya Active's fitness-space strategy, Aura/Oura smart-ring subscriptions, DeepZ's reported Huawei-chip procurement, Foxconn AI servers, Volkswagen restructuring, Maserati-Huawei-JAC cooperation talks, credit-card contraction, and Aesop China retail reallocation. Added source `yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578`; created `Cestbon`, `MayaActive`, `PureFitness`, `AesopBeauty`, `HuaweiAscend950DT`, `Huabei`, `JDWhiteBar`, `BottledWaterChannelFragmentation`, `SportswearExperienceSpace`, `SmartRingHardwareSubscription`, `CreditCardScaleContraction`, and `BeautyRetailNetworkReallocation`; updated `PackagedWaterPriceWar`, `DeepZ`, `FoxconnIndustrialInternet`, `VolkswagenGroup`, `Stellantis`, `Maserati`, `AntaSports`, `OuraRing`, `index`, and `overview`. No settled contradiction found; the Aura/Oura spelling, chip order, IPO filing, share data, job-cut totals, and cooperation talks remain source-scoped.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-08] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9286
+wiki_total_pages: 9300
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1073,6 +1073,9 @@ wiki_pages:
   - key: "BaimaReliefLateHan"
     title: "白马之围 / White Horse Relief (late Han)"
     url: "/wiki/entities/baimarelieflatehan/"
+  - key: "BaijiaWeiji"
+    title: "百家味鸡 / Baijia Weiji"
+    url: "/wiki/entities/baijiaweiji/"
   - key: "BaiduYoua"
     title: "百度有啊 / Baidu Youa"
     url: "/wiki/entities/baiduyoua/"

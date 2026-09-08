@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6688
+wiki_total_pages: 6693
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1562,6 +1562,9 @@ wiki_pages:
   - key: "AnchoringEffect"
     title: "Anchoring Effect / 锚定效应"
     url: "/wiki/concepts/anchoringeffect/"
+  - key: "AncientChineseBookMateriality"
+    title: "Ancient Chinese Book Materiality / 中国古籍物质性"
+    url: "/wiki/concepts/ancientchinesebookmateriality/"
   - key: "AncientChineseSoulSummoning"
     title: "Ancient Chinese Soul Summoning / 招魂"
     url: "/wiki/concepts/ancientchinesesoulsummoning/"

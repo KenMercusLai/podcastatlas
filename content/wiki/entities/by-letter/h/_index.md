@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9286
+wiki_total_pages: 9300
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -923,12 +923,18 @@ wiki_pages:
   - key: "HuiQuLateHan"
     title: "惠衢 / Hui Qu (late Han)"
     url: "/wiki/entities/huiqulatehan/"
+  - key: "HuiyinGaoliTemple"
+    title: "慧因高丽寺 / Huiyin Gaoli Temple"
+    url: "/wiki/entities/huiyingaolitemple/"
   - key: "Houyhnhnms"
     title: "慧骃 / Houyhnhnms"
     url: "/wiki/entities/houyhnhnms/"
   - key: "Hangzhou"
     title: "杭州 / Hangzhou"
     url: "/wiki/entities/hangzhou/"
+  - key: "HangzhouMuseum"
+    title: "杭州博物馆 / Hangzhou Museum"
+    url: "/wiki/entities/hangzhoumuseum/"
   - key: "HayashiYuri"
     title: "林优里 / Hayashi Yuri"
     url: "/wiki/entities/hayashiyuri/"

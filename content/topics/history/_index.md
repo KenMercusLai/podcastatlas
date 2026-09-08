@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1595
+topic_total_pages: 1597
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2042,6 +2042,9 @@ topic_entities:
   - key: "LeJian"
     title: "乐间 / Le Jian"
     url: "/wiki/entities/lejian/"
+  - key: "YuQianMing"
+    title: "于谦 / Yu Qian (Ming)"
+    url: "/wiki/entities/yuqianming/"
   - key: "JingxingPass"
     title: "井陉口 / Jingxing Pass"
     url: "/wiki/entities/jingxingpass/"
@@ -3539,6 +3542,9 @@ topic_entities:
   - key: "YongmenSima"
     title: "雍门司马 / Yongmen Sima"
     url: "/wiki/entities/yongmensima/"
+  - key: "LeifengPagoda"
+    title: "雷峰塔 / Leifeng Pagoda"
+    url: "/wiki/entities/leifengpagoda/"
   - key: "HanXin"
     title: "韩信 / Han Xin"
     url: "/wiki/entities/hanxin/"

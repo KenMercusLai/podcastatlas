@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9286
+wiki_total_pages: 9300
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "WenQi"
     title: "文淇 / Wen Qi"
     url: "/wiki/entities/wenqi/"
+  - key: "WenlanPavilion"
+    title: "文澜阁 / Wenlan Pavilion"
+    url: "/wiki/entities/wenlanpavilion/"
   - key: "WenZhongYue"
     title: "文种 / Wen Zhong of Yue"
     url: "/wiki/entities/wenzhongyue/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 9286
+wiki_total_pages: 9300
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "YvonChouinard"
     title: "Yvon Chouinard / 伊冯·乔伊纳德"
     url: "/wiki/entities/yvonchouinard/"
+  - key: "YiweiHangzhiExhibition"
+    title: "“意味杭之：馆藏明清古籍展” / Yiwei Hangzhi Exhibition"
+    url: "/wiki/entities/yiweihangzhiexhibition/"
   - key: "YiGeAfuhanNvrenDeLaixin"
     title: "《一个阿富汗女人的来信》"
     url: "/wiki/entities/yigeafuhannvrendelaixin/"
@@ -350,6 +353,12 @@ wiki_pages:
   - key: "YuMiLateHan"
     title: "于糜 / Yu Mi (late Han)"
     url: "/wiki/entities/yumilatehan/"
+  - key: "YuQianMing"
+    title: "于谦 / Yu Qian (Ming)"
+    url: "/wiki/entities/yuqianming/"
+  - key: "YuQianTombAndTemple"
+    title: "于谦墓祠 / Yu Qian Tomb and Temple"
+    url: "/wiki/entities/yuqiantombandtemple/"
   - key: "YuGuirenLateHan"
     title: "于贵人 / Yu Guiren (late Han)"
     url: "/wiki/entities/yuguirenlatehan/"

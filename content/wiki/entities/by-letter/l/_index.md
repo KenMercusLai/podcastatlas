@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9286
+wiki_total_pages: 9300
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "LingZhengLateHan"
     title: "伶征 / Ling Zheng (late Han)"
     url: "/wiki/entities/lingzhenglatehan/"
+  - key: "LiuhePagoda"
+    title: "六和塔 / Liuhe Pagoda"
+    url: "/wiki/entities/liuhepagoda/"
   - key: "LanlingWarringStates"
     title: "兰陵 / Lanling (Warring States)"
     url: "/wiki/entities/lanlingwarringstates/"
@@ -1766,6 +1769,9 @@ wiki_pages:
   - key: "LinglingCommanderyLateHan"
     title: "零陵郡 / Lingling Commandery (late Han)"
     url: "/wiki/entities/linglingcommanderylatehan/"
+  - key: "LeifengPagoda"
+    title: "雷峰塔 / Leifeng Pagoda"
+    url: "/wiki/entities/leifengpagoda/"
   - key: "LeiBoYuanShuRetainer"
     title: "雷波 / Lei Bo (Yuan Shu retainer)"
     url: "/wiki/entities/leiboyuanshuretainer/"

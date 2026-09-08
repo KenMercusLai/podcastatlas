@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6688
+wiki_total_pages: 6693
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "MindfulEatingCueControl"
     title: "Mindful Eating Cue Control"
     url: "/wiki/concepts/mindfuleatingcuecontrol/"
+  - key: "MingQingHangzhouPublishingCulture"
+    title: "Ming-Qing Hangzhou Publishing Culture / 明清杭州出版文化"
+    url: "/wiki/concepts/mingqinghangzhoupublishingculture/"
   - key: "MingqiLegitimacy"
     title: "Mingqi Legitimacy / 名器合法性"
     url: "/wiki/concepts/mingqilegitimacy/"
@@ -1076,6 +1079,9 @@ wiki_pages:
   - key: "MuscleAsLongevityInfrastructure"
     title: "Muscle As Longevity Infrastructure"
     url: "/wiki/concepts/muscleaslongevityinfrastructure/"
+  - key: "MuseumInterpretationLegibility"
+    title: "Museum Interpretation Legibility / 博物馆阐释可读性"
+    url: "/wiki/concepts/museuminterpretationlegibility/"
   - key: "MusicIndustryAIResponse"
     title: "Music Industry AI Response"
     url: "/wiki/concepts/musicindustryairesponse/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6688
+wiki_total_pages: 6693
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "PlaceBasedAntiPovertyPolicy"
     title: "Place-Based Anti-Poverty Policy"
     url: "/wiki/concepts/placebasedantipovertypolicy/"
+  - key: "PlaceBasedExhibitionCuration"
+    title: "Place-Based Exhibition Curation / 在地化展览策展"
+    url: "/wiki/concepts/placebasedexhibitioncuration/"
   - key: "PlaceBasedFiction"
     title: "Place-Based Fiction"
     url: "/wiki/concepts/placebasedfiction/"

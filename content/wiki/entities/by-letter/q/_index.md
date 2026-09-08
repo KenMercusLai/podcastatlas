@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 9286
+wiki_total_pages: 9300
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "QiangquChanyu"
     title: "羌渠 / Qiangqu Chanyu"
     url: "/wiki/entities/qiangquchanyu/"
+  - key: "QunfangNoodleHouse"
+    title: "群芳面馆 / Qunfang Noodle House"
+    url: "/wiki/entities/qunfangnoodlehouse/"
   - key: "QinanChuBattlefield"
     title: "蕲南 / Qinan (Chu battlefield)"
     url: "/wiki/entities/qinanchubattlefield/"
@@ -371,6 +374,9 @@ wiki_pages:
   - key: "QiantangWuClan"
     title: "钱塘吴氏 / Qiantang Wu Clan"
     url: "/wiki/entities/qiantangwuclan/"
+  - key: "QianHongchu"
+    title: "钱弘俶 / Qian Hongchu"
+    url: "/wiki/entities/qianhongchu/"
   - key: "QianLiqun"
     title: "钱理群"
     url: "/wiki/entities/qianliqun/"

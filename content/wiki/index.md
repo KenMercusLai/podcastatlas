@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了](sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793.md) — 博物志 episode on Hangzhou Museum's “意味杭之” ancient-books exhibition, museum interpretation, guji materiality, woodblock-printing economics, Ming-Qing Hangzhou publishing, and Hangzhou heritage travel.
 - [347-到底为啥有些傻蛋只会以说教的方式沟通](sources/347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt.md) — 独树不成林 episode on preaching as power language, failed connection, weak reflexive self-awareness, authority imitation, and listening fear.
 - [怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房](sources/yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578.md) — 声动早咖啡 roundup on C'estbon pure-water share pressure, Maya Active's fitness-space strategy, smart-ring subscriptions, DeepZ/Huawei compute plans, Foxconn AI servers, automaker restructuring, credit-card contraction, and Aesop retail reallocation.
 - [Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主](sources/vol-351-yingwang-21shiji-de-huangdao-gushi-haineng-zenme-kai-naodong-1983-nuojiang-dezhu-gkwriueodap1a3taaattkgol.md) — 文化有限 episode on William Golding's Lord of the Flies, civilization fragility, island-adventure inversion, fear-driven group violence, fire and technology, and allegorical adaptation tradeoffs.
@@ -2121,7 +2122,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [万物生长](entities/WanwuShengzhang.md) — Podcast represented here by Zhang Hongliang's crossover appearance on sleep management, 8Sleep, and consumer health technology.
 - [段志强 / Duan Zhiqiang](entities/DuanZhiqiang.md) — Writer and farming practitioner using Chongming rural life to connect labor, classical reading, food history, and nonfiction.
 - [《我住长江尾》 / Wo Zhu Changjiang Wei](entities/WoZhuChangjiangWei.md) — Duan Zhiqiang's rural-life nonfiction book formed from farming notes, textual reflection, and Chongming observation.
-- [博物志 / Bowuzhi Podcast](entities/BowuzhiPodcast.md) — Podcast show route disambiguated from the older 《博物志》 text and grounded here by the Duan Zhiqiang episode.
+- [博物志 / Bowuzhi Podcast](entities/BowuzhiPodcast.md) — Podcast show route disambiguated from the older 《博物志》 text and grounded by episodes on Chongming rural writing and Hangzhou museum interpretation.
+- [杭州博物馆 / Hangzhou Museum](entities/HangzhouMuseum.md) — Museum praised by 博物志 for making the “意味杭之” ancient-books exhibition legible to ordinary visitors.
+- [“意味杭之：馆藏明清古籍展” / Yiwei Hangzhi Exhibition](entities/YiweiHangzhiExhibition.md) — Hangzhou Museum ancient-books exhibition connecting guji form, Ming-Qing printing, and Hangzhou publishing culture.
+- [文澜阁 / Wenlan Pavilion](entities/WenlanPavilion.md) — Hangzhou book-heritage site linked to the Siku Quanshu library tradition and the episode's post-exhibition route.
+- [《四库全书》 / Siku Quanshu](entities/SikuQuanshu.md) — Qing imperial collection context for Wenlan Pavilion in the Hangzhou episode.
+- [六和塔 / Liuhe Pagoda](entities/LiuhePagoda.md) — Hangzhou pagoda case combining heritage, views, architectural detail, and social-media tourism pressure.
+- [茅以升 / Mao Yisheng](entities/MaoYisheng.md) — Engineer reference attached to the Qiantang River bridge visible from Liuhe Pagoda.
+- [雷峰塔 / Leifeng Pagoda](entities/LeifengPagoda.md) — Hangzhou pagoda and museum-object case used to discuss inscriptions, excavated reliquaries, and label clarity.
+- [钱弘俶 / Qian Hongchu](entities/QianHongchu.md) — Historical anchor for Leifeng Pagoda and the “皇妃塔” naming layer in the episode.
+- [张岱 / Zhang Dai](entities/ZhangDai.md) — West Lake literary figure used by the ancient-books exhibition to connect old texts with Hangzhou scenery.
+- [于谦 / Yu Qian (Ming)](entities/YuQianMing.md) — Ming figure represented through Hangzhou tomb-and-temple commemoration and changing historical reputation.
+- [于谦墓祠 / Yu Qian Tomb and Temple](entities/YuQianTombAndTemple.md) — Hangzhou memorial stop tied to Yu Qian's reputation and commemorative language.
+- [慧因高丽寺 / Huiyin Gaoli Temple](entities/HuiyinGaoliTemple.md) — Hangzhou religious-heritage stop praised for architecture, layout, and scripture-repository detail.
+- [百家味鸡 / Baijia Weiji](entities/BaijiaWeiji.md) — Hangzhou food recommendation centered on chicken dishes, noodles, congee, and dim sum.
+- [群芳面馆 / Qunfang Noodle House](entities/QunfangNoodleHouse.md) — Hangzhou noodle recommendation centered on shrimp-and-eel noodles with wok aroma.
 - [崇明 / Chongming](entities/Chongming.md) — Rural place case for farming practice, neighbor boundaries, reuse, weather, and writing in the Duan Zhiqiang episode.
 - [Johannesburg](entities/Johannesburg.md) — South African arrival city where EP383 makes travel safety and apartheid-memory routes visible.
 - [Soweto](entities/Soweto.md) — Johannesburg-area township in EP383, read through apartheid housing, education memory, class variation, and tourism ethics.
@@ -8218,7 +8233,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王朝云 / Wang Chaoyun](entities/WangChaoyun.md) — Su Shi companion whose "一肚皮不合时宜" phrase captures his political temperament.
 - [乌台诗案 / Wutai Poetry Case](entities/WutaiPoetryCase.md) — Political-legal crisis where Su Shi's poems and memorial language became evidence against him.
 - [黄州 / Huangzhou](entities/Huangzhou.md) — Exile site where Su Shi becomes Dongpo and writes the Red Cliff works.
-- [杭州 / Hangzhou](entities/Hangzhou.md) — Su Shi office site linked to West Lake dredging, Su Causeway, disaster preparation, medicine, and infant rescue.
+- [杭州 / Hangzhou](entities/Hangzhou.md) — City profile linking Su Shi's West Lake public works with Hangzhou Museum, “意味杭之,” Ming-Qing publishing culture, heritage sites, and food travel.
 - [徐州 / Xuzhou](entities/Xuzhou.md) — Place and administrative-status node spanning Warring States diplomacy, Pengcheng battle geography, Cao Cao's late-Han revenge massacre, Su Shi flood governance, and Lü Bu's title exposure.
 - [惠州 / Huizhou](entities/Huizhou.md) — Southern exile site associated with burial, bridge work, and Wang Chaoyun's death.
 - [儋州 / Danzhou](entities/Danzhou.md) — Farthest exile stage where Su Shi remains morally and educationally active under restrictions.
@@ -11301,6 +11316,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Museum Interpretation Legibility](concepts/MuseumInterpretationLegibility.md) — Exhibition-quality criterion where labels, annotations, translations, multimedia, and comparison make specialist objects understandable to ordinary visitors.
+- [Place-Based Exhibition Curation](concepts/PlaceBasedExhibitionCuration.md) — Curatorial method that makes objects legible through local histories, landscapes, institutions, industries, and memories.
+- [Ancient Chinese Book Materiality](concepts/AncientChineseBookMateriality.md) — Reading guji as physical artifacts shaped by paper, binding, edition, layout, marks, production method, and preservation.
+- [Chinese Woodblock Printing Economics](concepts/ChineseWoodblockPrintingEconomics.md) — Technology-history frame explaining woodblock printing through cost, labor, typeface, paper, and practical publishing incentives.
+- [Ming-Qing Hangzhou Publishing Culture](concepts/MingQingHangzhouPublishingCulture.md) — Local book-history field linking Hangzhou printing, West Lake writing, private and official publishing, and Qing-era constraints.
 - [Power Didactic Communication](concepts/PowerDidacticCommunication.md) — how hierarchy can turn instruction into command-like speech.
 - [Preaching As Failed Connection](concepts/PreachingAsFailedConnection.md) — preaching as a clumsy relationship bid built from correction rather than listening.
 - [Reflexive Self-Awareness](concepts/ReflexiveSelfAwareness.md) — self-observation capacity needed to see how one's speech lands with others.

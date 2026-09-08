@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9286
+wiki_total_pages: 9300
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1493,6 +1493,9 @@ wiki_pages:
   - key: "Shiji"
     title: "《史记》 / Shiji"
     url: "/wiki/entities/shiji/"
+  - key: "SikuQuanshu"
+    title: "《四库全书》 / Siku Quanshu"
+    url: "/wiki/entities/sikuquanshu/"
   - key: "SiminYueling"
     title: "《四民月令》 / Simin Yueling"
     url: "/wiki/entities/siminyueling/"
