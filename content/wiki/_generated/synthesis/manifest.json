@@ -1,8 +1,8 @@
 {
   "content_date": "2026-09-08",
   "corpus": {
-    "episode_count": 2012,
-    "source_count": 2012
+    "episode_count": 2013,
+    "source_count": 2013
   },
   "generated": true,
   "global": {
@@ -16,11 +16,11 @@
     "output_digest": "ec98811a5f890010c664cfdba4f7ef7f1e75e22ca98f7da7946d2529d63c2f54",
     "overview_commit": "e5449e19dae9b079ef87cc90dca040b5b5516ee4",
     "overview_digest": "7880a3f435a64776e1be3f9c7bea0cb160446f0d5b06d7558eac2f0a6e267095",
-    "pending_ingests": 1,
+    "pending_ingests": 2,
     "pending_topics": []
   },
-  "overview_commit": "92d4d92c1b8d3b944d8edc2e38f00fc0801db2be",
-  "overview_digest": "439ff3267b7d8777512fe1748c7c9456bc4a7b66e2a63c38414e2f003797b782",
+  "overview_commit": "115d16534ab63706d094d53a3b4a211738c0537a",
+  "overview_digest": "9652f06349344937b60c4f17ee1eefd06c84bff96c001a0396c315d36c8daf33",
   "paragraph_count": 589,
   "schema_version": 1,
   "topics": {

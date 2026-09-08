@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9317
+wiki_total_pages: 9320
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1190,6 +1190,9 @@ wiki_pages:
   - key: "WangYiHedongLateHan"
     title: "王邑 / Wang Yi (Hedong administrator)"
     url: "/wiki/entities/wangyihedonglatehan/"
+  - key: "WangYiXinGeneral"
+    title: "王邑 / Wang Yi (Xin general)"
+    url: "/wiki/entities/wangyixingeneral/"
   - key: "WangLangHebeiClaimant"
     title: "王郎 / Wang Lang (Hebei Claimant)"
     url: "/wiki/entities/wanglanghebeiclaimant/"

@@ -16139,3 +16139,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-08] ingest | 《资治通鉴·汉纪》664丨昆阳之战：决定国运的历史转折点
+
+Ingested the 2026-06-09 芮淇讲透资治通鉴 episode on Kunyang as the direct military turning point before the Wang Mang endgame: Wang Yi rejects Yan You's Wan-first and siege-exit advice, Liu Xiu concentrates troops and strikes the main camp, Kunyang defenders join from inside the city, and the rout spreads Gengshi momentum. Added source `zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4`; created `WangYiXinGeneral`, `YanYouXinGeneral`, and `LiuYanLiuXiuBrother`; updated `KunyangBattle`, `WangMang`, `FengYiEasternHan`, `CenPengEasternHan`, `LiuXuanGengshiEmperor`, `index`, and `overview`. No settled contradiction found; troop totals, storm/flood imagery, animal details, Pingdi poisoning evidence, and minor command identities remain source-scoped.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

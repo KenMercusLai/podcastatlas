@@ -14,16 +14,19 @@ sources:
   - zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz
   - zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii
   - zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby
-last_updated: 2026-09-02
+  - zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4
+last_updated: 2026-09-08
 ---
 
 ## Overview
 
-Feng Yi / 冯异 is synthesized as a Guangwu-era commander whose current profile now begins before accession with the "Big Tree General" humility scene: newly recruited troops want to belong to him, while he avoids boasting, keeps his unit behind when not fighting, and withdraws alone under a tree while other generals gather. He then opens a correspondence channel with [[LiYiGengshiGeneral|李轶]], helps destabilize [[ZhuWeiEasternHan|朱鲔]]'s Luoyang camp, relieves [[KouXunEasternHan|寇恂]] around Wen county, and urges [[LiuXiu|刘秀]] to accept the imperial burden. Later source layers add surrender-first Chimei pacification, disguised ambush, Guanzhong/Sanfu stabilization, remembered founding hardship, and western terrain preemption against [[WeiXiaoEasternHan|隗嚣]].
+Feng Yi / 冯异 is synthesized as a Guangwu-era commander whose current profile now begins with his capture and voluntary turn toward [[LiuXiu|刘秀]] after the [[KunyangBattle|昆阳之战]] sequence. [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] presents him as recognizing Liu Xiu's no-plunder discipline and popular support, then asking to persuade five counties to submit. Hanji 672 follows with the "Big Tree General" humility scene; Hanji 676 then shows correspondence with [[LiYiGengshiGeneral|李轶]], Luoyang camp destabilization, Wen/Pingyin relief, and accession counsel. Later source layers add surrender-first Chimei pacification, disguised ambush, Guanzhong/Sanfu stabilization, remembered founding hardship, and western terrain preemption against [[WeiXiaoEasternHan|隗嚣]].
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby|Hanji 672]] supplies the earliest current character layer. After Liu Xiu's post-Handan recruitment, the new troops ask for the "Big Tree General"; the source explains that Feng Yi is respected because he is humble about merit, keeps his own troops behind others when no battle is underway, and sits alone under a tree instead of joining commanders' boastful talk.
+Hanji 664 supplies Feng Yi's earliest current alignment layer. After being captured around Liu Xiu's Yingchuan expansion, Feng Yi asks to return to Fucheng and persuade local county leadership. His argument for Liu Xiu is political as much as military: Gengshi commanders are harsh, while Liu Xiu's forces do not loot commoners or kill people indiscriminately. Feng Yi and Miao Meng then bring five counties to Liu Xiu.
+
+[[zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby|Hanji 672]] supplies the next character layer. After Liu Xiu's post-Handan recruitment, the new troops ask for the "Big Tree General"; the source explains that Feng Yi is respected because he is humble about merit, keeps his own troops behind others when no battle is underway, and sits alone under a tree instead of joining commanders' boastful talk.
 
 [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] supplies the earliest current operational layer. Feng Yi writes to Li Yi, analyzes the collapsing Gengshi field, and turns Li Yi into a correspondence partner who no longer fights him. That gives Feng Yi room to move through Tianjin Pass, take cities and counties, accept mass surrender, and defeat Wu Bo while Li Yi offers no aid to the Gengshi side.
 
@@ -35,7 +38,7 @@ Hanji 689-1 and Hanji 691 supply the Guanzhong and Sanfu stabilization layer. Fe
 
 ## Key Characteristics
 
-- Self-effacing "Big Tree General" whose unit discipline and refusal to boast make him attractive to newly recruited troops.
+- Early captured official and later self-effacing "Big Tree General" whose allegiance and reputation both depend on discipline, public support, and refusal to boast.
 - Early correspondence operator linked to psychological decomposition of Luoyang through Li Yi's exposed letters and Zhu Wei's suspicion.
 - Rapid relief and counterstrike commander in the Wen/Pingyin branch with Kou Xun.
 - Accession adviser who frames Liu Xiu's imperial title as Han restoration after Gengshi failure.
@@ -45,6 +48,7 @@ Hanji 689-1 and Hanji 691 supply the Guanzhong and Sanfu stabilization layer. Fe
 
 ## Evidence
 
+- First submission branch: [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] says Feng Yi is captured, asks to persuade Fucheng and nearby counties, praises Liu Xiu's no-plunder conduct, and helps bring five counties to him.
 - Big Tree General humility: [[zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby|Hanji 672]] says newly recruited troops want Feng Yi's command because he does not boast of merit, keeps his troops behind when not fighting, and sits alone under a tree.
 - Letter channel and noncombat: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says Feng Yi writes to Li Yi, receives replies, and no longer faces Li Yi in battle.
 - Operational expansion: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says Feng Yi takes passes, cities, counties, and many surrendered troops while defeating Wu Bo.
@@ -59,17 +63,19 @@ Hanji 689-1 and Hanji 691 supply the Guanzhong and Sanfu stabilization layer. Fe
 
 ## Qualifications
 
-This page synthesizes only the listed source notes, not Feng Yi's full biography. Hanji 672 and Hanji 676 are ASR-sensitive around Feng Yi's written form; the page normalizes 冯毅 to 冯异. Hanji 672 adds a character and troop-ordering vignette, not a full account of Feng Yi's early career. Hanji 676 keeps Wu Bo, exact counties, river naming, and relief-force details source-scoped. The Hanji 676 letter branch supports Feng Yi's role in opening the channel, while Liu Xiu's later circulation decision belongs to Liu Xiu's own political judgment.
+This page synthesizes only the listed source notes, not Feng Yi's full biography. Hanji 664 gives an early capture-and-submission vignette, but Miao Meng, exact Fucheng geography, the five county names, and the full office sequence remain source-scoped. Hanji 672 and Hanji 676 are ASR-sensitive around Feng Yi's written form; the page normalizes 冯毅 to 冯异. Hanji 672 adds a character and troop-ordering vignette, not a full account of Feng Yi's early career. Hanji 676 keeps Wu Bo, exact counties, river naming, and relief-force details source-scoped. The Hanji 676 letter branch supports Feng Yi's role in opening the channel, while Liu Xiu's later circulation decision belongs to Liu Xiu's own political judgment.
 
 ## What Changed
 
-- Added Hanji 672 as Feng Yi's earliest current character layer: "Big Tree General" humility, troop-ordering restraint, and attractiveness to new recruits.
+- Added Hanji 664 as Feng Yi's earliest current alignment layer: captured official, no-plunder judgment of Liu Xiu, and five-county submission.
+- Preserved Hanji 672 as Feng Yi's early character layer: "Big Tree General" humility, troop-ordering restraint, and attractiveness to new recruits.
 - Preserved Hanji 676 as the earliest current operational layer: Li Yi correspondence, early territorial expansion, Wen/Pingyin relief, and accession counsel.
 - Added Feng Yi's role in [[AccessionTimingCoalitionSignal|称帝时机与拥戴信号]] while preserving the older Chimei, Guanzhong, Sanfu, court-memory, and terrain-preemption judgments.
 
 ## Relationships
 
-- [[LiuXiu|光武帝刘秀]] - ruler whose post-Handan recruitment field values Feng Yi's humility, receives Feng Yi's reports, uses the Li Yi correspondence, later sends Feng Yi west, and publicly remembers his founding service.
+- [[LiuXiu|光武帝刘秀]] - ruler whose discipline first attracts Feng Yi, whose post-Handan recruitment field values Feng Yi's humility, who receives Feng Yi's reports, uses the Li Yi correspondence, later sends Feng Yi west, and publicly remembers his founding service.
+- [[PeopleBasedPoliticalSecurity|民心型政治安全]] - concept relationship because Feng Yi's submission argument centers Liu Xiu's no-plunder conduct and popular support.
 - [[LiYiGengshiGeneral|李轶]] - wavering Gengshi-side correspondent whose letters give Feng Yi operational space and later become political evidence.
 - [[ZhuWeiEasternHan|朱鲔]] - Luoyang defender whose suspicion Feng Yi's correspondence channel helps trigger.
 - [[KouXunEasternHan|寇恂]] - allied commander whose Wen defense is reinforced by Feng Yi's relief and Zhu Wei counterstrike.

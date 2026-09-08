@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》664丨昆阳之战：决定国运的历史转折点](sources/zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4.md) — 芮淇讲透资治通鉴 episode on the Kunyang battle, Wang Yi's rejected advice, Yan You's siege warnings, Liu Xiu's smaller-force command-center strike, Wan surrender, Cen Peng clemency, Feng Yi's submission, and Gengshi momentum.
 - [《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？](sources/zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw.md) — 芮淇讲透资治通鉴 episode on Wang Mang's final pre-death collapse, Nine Tiger general command failure, Chang'an breach, Weiyang Palace fire, Empress Wang's self-immolation, and terminal mandate self-deception.
 - [Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner](sources/all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230.md) — All-In episode with Pennsylvania senators John Fetterman and Dave McCormick on bipartisan Senate work, filibuster reversal, shutdown opposition, AI data-center politics, skilled-trades upside, China competition, extremist primaries, and campaign-spending escalation.
 - [《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？](sources/zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t.md) — Gengshi transition backfill on Wang Mang's Jian Terrace death, Du Wu's killing, head display, tongue-directed public revenge, Wang Xian's brief Chang'an seizure, Ban Gu's judgment, and Liu Xiu's Luoyang institutional-restoration opening.
@@ -2020,6 +2021,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [王邑 / Wang Yi (Xin general)](entities/WangYiXinGeneral.md) — Xin-side Kunyang commander whose face-driven rigidity and ignored advice turn numerical superiority into collapse.
+- [严尤 / Yan You (Xin general)](entities/YanYouXinGeneral.md) — Xin-side adviser whose ignored Wan-first and siege-exit warnings define the failed Kunyang advice chain.
+- [刘縯 / Liu Yan (Liu Xiu's brother)](entities/LiuYanLiuXiuBrother.md) — Liu Xiu's elder brother in the Gengshi field, currently grounded by Cen Peng clemency after Wan and the preview of his killing.
 - [John Fetterman](entities/JohnFetterman.md) — Pennsylvania Democratic senator framed by All-In as a bipartisan working partner, shutdown opponent, filibuster convert, pro-Israel Democrat, and AI data-center supporter.
 - [Dave McCormick](entities/DaveMcCormick.md) — Pennsylvania Republican senator tying bipartisan cooperation, AI and energy infrastructure, community commitments, blue-collar opportunity, and campaign-finance realism together.
 - [Graham Platner](entities/GrahamPlatner.md) — Source-scoped candidate figure used by All-In as a primary-extremism and candidate-vetting example.
