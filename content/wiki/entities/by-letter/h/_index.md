@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9347
+wiki_total_pages: 9354
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "HanSong"
     title: "Han Song / 韩松"
     url: "/wiki/entities/hansong/"
+  - key: "HanYanDirector"
+    title: "Han Yan / 韩延 (director)"
+    url: "/wiki/entities/hanyandirector/"
   - key: "HanZhao"
     title: "Han Zhao / 韩钊"
     url: "/wiki/entities/hanzhao/"

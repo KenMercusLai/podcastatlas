@@ -216,8 +216,31 @@
         "WangKuangXinPrince",
         "PunitiveCurrencyEnforcementBackfire"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "film-history-rewrites-iraq-war-and-hong-kong-handover-contexts",
+      "qualifications": [
+        "The source is film criticism and does not provide an independent Iraq War history or a full Hong Kong handover historiography.",
+        "The films' exact real-world referents, creator intentions, censorship constraints, and audience reception remain source-scoped.",
+        "The claim identifies narrative simplification, not a settled contradiction with existing Hong Kong, war, or film-history pages."
+      ],
+      "statement": "[[huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1|The 电影巨辩 film episode]] adds a history-and-geopolitics bridge: [[WelcomeToLailongRestaurant]] borrows the [[IraqWar]] while retreating into [[EverydayHumanitarianismInWarFilm]], and [[KongqiangFilm]] rewrites [[ZhangZiqiang]]-style [[HongKongFilmIndustry]] inheritance through [[GreaterBayAreaCinema]] and [[HongKongHandoverTeleology]], showing how film memory can convert contested wars and 1997 uncertainty into more usable mainland narrative frames.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1",
+        "WelcomeToLailongRestaurant",
+        "IraqWar",
+        "EverydayHumanitarianismInWarFilm",
+        "KongqiangFilm",
+        "ZhangZiqiang",
+        "HongKongFilmIndustry",
+        "GreaterBayAreaCinema",
+        "HongKongHandoverTeleology",
+        "CrossContextPoliticalCinema"
+      ]
     }
   ],
-  "summary": "The Longshan source adds a northwest route-geography layer: Longshan is treated as a passage-and-barrier hinge connecting Guanzhong, Gansu/Longyou, Hexi, and the Western Regions, so Qin eastward movement, Han Wudi's westward strategy, Guanlong roads, and the ancient Silk Road become one corridor problem. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Hanji 658 adds a pre-Kunyang late-Xin layer where Wang Mang's palace scandal, public-son succession collapse, failed campaigns, Xiongnu requisitions, famine, and private-coinage punishment show regime failure before the final battlefield and capital collapse.",
+  "summary": "The Longshan source adds a northwest route-geography layer: Longshan is treated as a passage-and-barrier hinge connecting Guanzhong, Gansu/Longyou, Hexi, and the Western Regions, so Qin eastward movement, Han Wudi's westward strategy, Guanlong roads, and the ancient Silk Road become one corridor problem. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Hanji 658 adds a pre-Kunyang late-Xin layer where Wang Mang's palace scandal, public-son succession collapse, failed campaigns, Xiongnu requisitions, famine, and private-coinage punishment show regime failure before the final battlefield and capital collapse. The 电影巨辩 update adds a film-history and geopolitics bridge: Chinese commercial films can now invoke Iraq-war and Hong Kong handover contexts, but the source argues those histories are simplified when ordinary humanitarianism or 2026 hindsight replaces full local political complexity.",
   "topic_id": "history-and-geopolitics"
 }

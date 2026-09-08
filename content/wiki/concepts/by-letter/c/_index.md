@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6746
+wiki_total_pages: 6750
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1844,6 +1844,9 @@ wiki_pages:
   - key: "CrossCoalitionCulturalIcon"
     title: "Cross-Coalition Cultural Icon"
     url: "/wiki/concepts/crosscoalitionculturalicon/"
+  - key: "CrossContextPoliticalCinema"
+    title: "Cross-Context Political Cinema / 跨语境政治电影"
+    url: "/wiki/concepts/crosscontextpoliticalcinema/"
   - key: "CrossCulturalAssistedDeathEthics"
     title: "Cross-Cultural Assisted Death Ethics"
     url: "/wiki/concepts/crossculturalassisteddeathethics/"

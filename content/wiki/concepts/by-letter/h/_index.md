@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6746
+wiki_total_pages: 6750
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -389,6 +389,9 @@ wiki_pages:
   - key: "HongKongFilmMarketDecline"
     title: "Hong Kong Film Market Decline / 港片市场衰落"
     url: "/wiki/concepts/hongkongfilmmarketdecline/"
+  - key: "HongKongHandoverTeleology"
+    title: "Hong Kong Handover Teleology / 香港九七目的论"
+    url: "/wiki/concepts/hongkonghandoverteleology/"
   - key: "HongKongIPOLiquidityPath"
     title: "Hong Kong IPO Liquidity Path"
     url: "/wiki/concepts/hongkongipoliquiditypath/"

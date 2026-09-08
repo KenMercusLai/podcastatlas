@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 9347
+wiki_total_pages: 9354
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "KongTao"
     title: "Kong Tao / 孔涛"
     url: "/wiki/entities/kongtao/"
+  - key: "KongqiangFilm"
+    title: "Kongqiang / 空枪"
+    url: "/wiki/entities/kongqiangfilm/"
   - key: "KonishiYukinaga"
     title: "Konishi Yukinaga / 小西行长"
     url: "/wiki/entities/konishiyukinaga/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 9347
+wiki_total_pages: 9354
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "Iran"
     title: "Iran"
     url: "/wiki/entities/iran/"
+  - key: "IraqWar"
+    title: "Iraq War / 伊拉克战争"
+    url: "/wiki/entities/iraqwar/"
   - key: "Ireland"
     title: "Ireland"
     url: "/wiki/entities/ireland/"

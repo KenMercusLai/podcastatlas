@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "4a668cc2e01ca2d1623402a34fc0d217ca031493b1455fdce9e73c949b649e5d",
       "993a336b4cbfa8e8effe11c6197e41d99a7a73bf3a265ebb4fa9939bda3f4928",
       "1c134906278438e00e83ff37918f4d10dd50edd72acc03ce0b6dda825da3d7a8",
       "628ee99d6c87f88195c367e7a3157430c4a93220c221be6019e3fb43166a5d2d",
@@ -596,11 +597,43 @@
       "08ce087b5036dedcaf145e2c88ca51ea2070e265e9815cfe93ea1755ee057d3f",
       "6701e8b392caf729c79e1e660e6d138d48a06b0d176497dfeb0b07df834cfc04"
     ],
-    "paragraph_count": 594
+    "paragraph_count": 595
   },
-  "overview_commit": "8bc79b5a2ed91a304ff0fa6ed8f6e05c2eb43404",
-  "overview_digest": "ec8bdb53189e1d7fd9cde384b825fe80f24b643c8a20bdcec22b3f5376a78d69",
+  "overview_commit": "85a3d5543618717ec523fc3956623b1e4336e4bf",
+  "overview_digest": "6ce8c18271e9fc2de25fb9508ff7549ff3c8c958fec681116ca0d29ec2c519bd",
   "paragraphs": [
+    {
+      "id": "4a668cc2e01ca2d1623402a34fc0d217ca031493b1455fdce9e73c949b649e5d",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1|《欢迎来龙餐馆》《空枪》说明中国电影还处理不了复杂政治问题]], a [[DianyingJubian|电影巨辩]] episode reading [[WelcomeToLailongRestaurant|《欢迎来龙餐馆》]] and [[KongqiangFilm|《空枪》]] through [[CrossContextPoliticalCinema]]. It adds [[WenMuye]], [[HanYanDirector]], [[WelcomeToLailongRestaurant]], [[KongqiangFilm]], [[ZhangZiqiang]], [[IraqWar]], [[WolfWarrior2]], [[CrossContextPoliticalCinema]], [[EverydayHumanitarianismInWarFilm]], [[GreaterBayAreaCinema]], and [[HongKongHandoverTeleology]], while extending [[DianyingJubian]], [[StrangerHospitalityEthics]], [[HongKongFilmIndustry]], and [[CommercialFilmAudienceLogic]]. Its core synthesis is that mainland Chinese commercial cinema can now enter unfamiliar political contexts with strong technical and emotional craft, but 《欢迎来龙餐馆》 retreats from Iraq-war complexity into ordinary-life humanitarianism and 《空枪》 rewrites Hong Kong crime-film inheritance through Greater Bay Area-era state order, anti-capital affect, and 1997 teleology. No settled contradiction is recorded; creator intent, censorship pressure, audience reception, Hong Kong historical self-understanding, and the films' real-world referents remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CommercialFilmAudienceLogic",
+        "CrossContextPoliticalCinema",
+        "DianyingJubian",
+        "EverydayHumanitarianismInWarFilm",
+        "GreaterBayAreaCinema",
+        "HanYanDirector",
+        "HongKongFilmIndustry",
+        "HongKongHandoverTeleology",
+        "IraqWar",
+        "KongqiangFilm",
+        "StrangerHospitalityEthics",
+        "WelcomeToLailongRestaurant",
+        "WenMuye",
+        "WolfWarrior2",
+        "ZhangZiqiang",
+        "huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1"
+      ]
+    },
     {
       "id": "993a336b4cbfa8e8effe11c6197e41d99a7a73bf3a265ebb4fa9939bda3f4928",
       "primary_topic": "culture-and-media",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9347
+wiki_total_pages: 9354
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "ZhangYiming"
     title: "Zhang Yiming"
     url: "/wiki/entities/zhangyiming/"
+  - key: "ZhangZiqiang"
+    title: "Zhang Ziqiang / 张子强"
+    url: "/wiki/entities/zhangziqiang/"
   - key: "ZhanglinPort"
     title: "Zhanglin Port / 张林港"
     url: "/wiki/entities/zhanglinport/"

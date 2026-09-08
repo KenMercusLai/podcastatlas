@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1606
+topic_total_pages: 1607
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -442,6 +442,9 @@ topic_concepts:
   - key: "HistoriographicalPresentism"
     title: "Historiographical Presentism / 史评当代性"
     url: "/wiki/concepts/historiographicalpresentism/"
+  - key: "HongKongHandoverTeleology"
+    title: "Hong Kong Handover Teleology / 香港九七目的论"
+    url: "/wiki/concepts/hongkonghandoverteleology/"
   - key: "HonorBindingBySelfSacrifice"
     title: "Honor Binding By Self-Sacrifice / 以死绑定的侠义压力"
     url: "/wiki/concepts/honorbindingbyselfsacrifice/"

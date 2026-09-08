@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9347
+wiki_total_pages: 9354
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "WeissinaWilliams"
     title: "Weissina Williams"
     url: "/wiki/entities/weissinawilliams/"
+  - key: "WelcomeToLailongRestaurant"
+    title: "Welcome to Lailong Restaurant / 欢迎来龙餐馆"
+    url: "/wiki/entities/welcometolailongrestaurant/"
   - key: "WellingtonManagement"
     title: "Wellington Management"
     url: "/wiki/entities/wellingtonmanagement/"
@@ -233,6 +236,9 @@ wiki_pages:
   - key: "WembleyStadium"
     title: "Wembley Stadium"
     url: "/wiki/entities/wembleystadium/"
+  - key: "WenMuye"
+    title: "Wen Muye / 文牧野"
+    url: "/wiki/entities/wenmuye/"
   - key: "WendyBellissimo"
     title: "Wendy Bellissimo"
     url: "/wiki/entities/wendybellissimo/"
@@ -500,6 +506,9 @@ wiki_pages:
   - key: "WNBAPlayersAssociation"
     title: "WNBA Players Association"
     url: "/wiki/entities/wnbaplayersassociation/"
+  - key: "WolfWarrior2"
+    title: "Wolf Warrior 2 / 战狼2"
+    url: "/wiki/entities/wolfwarrior2/"
   - key: "WolverhamptonWanderers"
     title: "Wolverhampton Wanderers / 狼队"
     url: "/wiki/entities/wolverhamptonwanderers/"

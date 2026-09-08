@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《欢迎来龙餐馆》《空枪》说明中国电影还处理不了复杂政治问题](sources/huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1.md) — 电影巨辩 episode on mainland Chinese commercial cinema's difficulty handling Iraq-war politics, ordinary humanitarianism, Hong Kong crime-film inheritance, 1997 teleology, and Greater Bay Area-era film rewriting.
 - [181.这轮规模空前的中国制造业出海背后｜线下活动实录](sources/181-zhe-lun-guimo-kongqian-de-zhongguo-zhizaoye-chuhai-beihou-xianxia-huodong-shilu-lmkuwy-rlsjtpsjelotovauwyr0.md) — 起朱楼宴宾客 live Guangzhou discussion on Chinese manufacturing overseas expansion, domestic capacity pressure, host-country backlash, localization, outbound profit transmission, and investor due diligence.
 - [The Silicon Valley hopefuls living in hacker houses](sources/tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128.md) — Marketplace Tech episode with Kenji Yamamoto on The Dreamers and I, Startup Embassy, crowded Silicon Valley hacker houses, immigrant founder persistence, neighborhood tension, and mission-driven startup housing.
 - [499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山](sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay.md) — 忽左忽右 episode with Yan Haijun on Longshan, Guanlong roads, Qin-Han east-west movement, Tianxia China, and northwest historical geography.
@@ -2031,6 +2032,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Wen Muye / 文牧野](entities/WenMuye.md) — Mainland Chinese commercial film director discussed through 《欢迎来龙餐馆》, emotional craft, and cross-context political limits.
+- [Han Yan / 韩延 (director)](entities/HanYanDirector.md) — Mainland Chinese commercial film director discussed through 《空枪》 and Greater Bay Area-era Hong Kong crime-film rewriting.
+- [Welcome to Lailong Restaurant / 欢迎来龙餐馆](entities/WelcomeToLailongRestaurant.md) — Chinese war-adjacent film read through food, children, survival, Iraq-war anonymization, and ordinary humanitarianism.
+- [Kongqiang / 空枪](entities/KongqiangFilm.md) — Hong Kong crime-film inheritance work read through Zhang Ziqiang material, Hong Kong dream, capital anger, 1997, and mainland state order.
+- [Zhang Ziqiang / 张子强](entities/ZhangZiqiang.md) — Source-scoped real-crime and Hong Kong genre-film reference point behind 《空枪》.
+- [Iraq War / 伊拉克战争](entities/IraqWar.md) — Source-scoped historical frame used to test 《欢迎来龙餐馆》's anonymized war politics.
+- [Wolf Warrior 2 / 战狼2](entities/WolfWarrior2.md) — Comparison film for Chinese overseas-action framing and 《欢迎来龙餐馆》's different humanitarian route.
 - [Kenji Yamamoto](entities/KenjiYamamoto.md) — Filmmaker behind The Dreamers and I, using Startup Embassy to document Silicon Valley hacker-house life.
 - [The Dreamers and I](entities/TheDreamersAndI.md) — PBS documentary project on Silicon Valley hacker houses, Startup Embassy, and immigrant startup hopefuls.
 - [Startup Embassy](entities/StartupEmbassy.md) — Mission-driven Silicon Valley hacker house run by Carlos and featured in The Dreamers and I.
@@ -2121,7 +2129,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Leapmotor C11 / 零跑 C11](entities/LeapmotorC11.md) — Mid-price SUV turning point pushed forward during Leapmotor's funding squeeze.
 - [Leapmotor D99 / 零跑 D99](entities/LeapmotorD99.md) — Upper-price-band Leapmotor model used to test brand expansion beyond low-price value perception.
 - [徐晓楠 / 曲晓楠](entities/XuXiaonan.md) — Didi ride-hailing safety lead in the 三五环 episode on platform safety operations, high-recall intervention, privacy, drunk passengers, minors, and offline ride risks.
-- [电影巨辩](entities/DianyingJubian.md) — Film-discussion podcast represented here by a dense Nolan Odyssey episode linking cinema, classics, mythology, politics, and IMAX technology.
+- [电影巨辩](entities/DianyingJubian.md) — Film-discussion podcast represented here by dense episodes linking cinema craft, mythology, technology, Chinese commercial film, and political interpretation.
 - [Emma Thomas](entities/EmmaThomas.md) — Producer and Syncopy partner used in the Nolan Odyssey episode to explain Nolan's project-centered production leverage.
 - [Syncopy](entities/Syncopy.md) — Nolan-associated production company framed as a lean control vehicle for project-by-project studio negotiation.
 - [Oppenheimer](entities/OppenheimerFilm.md) — Nolan film used as the comparison for reading the Trojan Horse as an ancient destructive-tool responsibility problem.
@@ -11382,6 +11390,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Cross-Context Political Cinema / 跨语境政治电影](concepts/CrossContextPoliticalCinema.md) — Film problem of entering another society's war, history, ideology, or political order from an outside viewpoint without flattening complexity.
+- [Everyday Humanitarianism In War Film / 战争片世俗人道主义](concepts/EverydayHumanitarianismInWarFilm.md) — War-film move that elevates food, children, family, survival, and ordinary labor into humane values that may not replace political analysis.
+- [Greater Bay Area Cinema / 大湾区电影](concepts/GreaterBayAreaCinema.md) — Frame for films that reprocess Hong Kong genre inheritance from a mainland or post-integration Greater Bay Area standpoint.
+- [Hong Kong Handover Teleology / 香港九七目的论](concepts/HongKongHandoverTeleology.md) — Critique of stories that look back at 1997 Hong Kong from a later endpoint and turn uncertainty into predetermined state-order restoration.
 - [China Manufacturing Overseas Expansion / 中国制造业出海](concepts/ChinaManufacturingOverseasExpansion.md) — Post-pandemic Chinese manufacturing movement from export-only sales toward overseas brands, factories, supply chains, and operating models.
 - [Export As Capacity Absorption / 出口作为产能吸纳](concepts/ExportAsCapacityAbsorption.md) — Pattern where firms keep producing and sell overseas because export sales cover cash costs and organizational continuity despite weak domestic margins.
 - [Host-Country Manufacturing Backlash / 东道国制造业反弹](concepts/HostCountryManufacturingBacklash.md) — Political, industrial, and identity reaction to Chinese manufacturing entry in host markets.
@@ -11397,8 +11409,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Primary Extremism Pressure](concepts/PrimaryExtremismPressure.md) — Party-selection pressure where primaries, activist networks, and anti-opponent backlash reward sharper ideological signals or controversial candidates.
 - [Campaign Spending Arms Race](concepts/CampaignSpendingArmsRace.md) — Escalation pattern where competitive races require enormous fundraising and outside spending, turning elections into media and reputation contests.
 - [Restored Regime Promise Credibility / 复国政权承诺信用](concepts/RestoredRegimePromiseCredibility.md) — Hanji 668 pattern where restored-regime authority depends on honoring concrete surrender promises, shown by Kou Xun forcing the Gengshi envoy to return Geng Kuang's seal.
-- [Hong Kong Film Industry / 香港电影工业](concepts/HongKongFilmIndustry.md) — Production, talent, financing, distribution, genre, star, and market system made concrete through Wang Jing's career account.
-- [Commercial Film Audience Logic / 商业片观众逻辑](concepts/CommercialFilmAudienceLogic.md) — View that professional commercial films must attract paying audiences through genre payoff, emotion, stars, pacing, and risk control.
+- [Hong Kong Film Industry / 香港电影工业](concepts/HongKongFilmIndustry.md) — Production, talent, financing, distribution, genre, star, market, and political-memory system available for later reinterpretation.
+- [Commercial Film Audience Logic / 商业片观众逻辑](concepts/CommercialFilmAudienceLogic.md) — View that professional commercial films work through audience emotion, genre payoff, pacing, risk control, and viewer acceptance even when politics is incomplete.
 - [TVB Talent Pipeline / TVB 人才输送机制](concepts/TVBTalentPipeline.md) — Television-to-film training mechanism that supplied writers, actors, comedy craft, and production discipline to Hong Kong cinema.
 - [Taiwan Market For Hong Kong Cinema / 港片台湾市场基本盘](concepts/TaiwanMarketHongKongCinema.md) — External demand base that helped scale Hong Kong film production and whose weakening Wang Jing treats as central to decline.
 - [Hong Kong Film Gang Pressure / 港片黑社会压力](concepts/HongKongFilmGangPressure.md) — Source-disciplined concept for coercive pressure around Hong Kong and Taiwan film locations, contracts, crews, and industry disputes.
@@ -11595,7 +11607,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Literary Adaptation Texture Loss / 文学改编质感流失](concepts/LiteraryAdaptationTextureLoss.md) — Adaptation pattern where a film preserves plot while losing roughness, duration, material pressure, ambiguity, or point-of-view discipline.
 - [Culture-Review TV Report Format / 文化电视报式评论](concepts/CultureReviewTvReportFormat.md) — podcast review structure that uses many works and life fragments as one cultural weather report.
 - [Creator Obituary Memory / 创作者讣告记忆](concepts/CreatorObituaryMemory.md) — public remembrance frame linking creator deaths to audience memory, biography form, and health reflection.
-- [Stranger Hospitality Ethics / 陌生人宾客伦理](concepts/StrangerHospitalityEthics.md) — cross-work ethics of how stories test societies through guests, outsiders, refugees, children, and unknown others.
+- [Stranger Hospitality Ethics / 陌生人宾客伦理](concepts/StrangerHospitalityEthics.md) — Cross-work ethics of guests, outsiders, refugees, children, and ordinary care, with limits when hospitality is asked to replace war politics.
 - [Cultural Participation Event / 文化参与事件](concepts/CulturalParticipationEvent.md) — popular-entertainment moment whose meaning includes the audience's act of joining, laughing, mocking, and recognizing a shared ritual.
 - [Queer Safety Retreat / 少数群体安全退让](concepts/QueerSafetyRetreat.md) — guarded self-reduction that appears when minority joy, visibility, and neighbor trust become newly dangerous.
 - [Midlife Body Alarm Adjustment / 中年身体报警调整](concepts/MidlifeBodyAlarmAdjustment.md) — routine recalibration forced by stomach, dental, posture, caffeine, and work-tool discomfort.

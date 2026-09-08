@@ -3,16 +3,16 @@
 generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
-last_updated: 2026-09-08
-as_of_overview_commit: 1ccad4041e9b32ef1c3cfa6415ec71901479e9e6
-input_digest: dfcb438458db58c8d330cc0c0e48f9ce79de75a3ff9c1efc2f5d0f842228ba1c
+last_updated: 2026-09-09
+as_of_overview_commit: 85a3d5543618717ec523fc3956623b1e4336e4bf
+input_digest: df5951bfc2d60424abdba26c94c64b68bf9bf596a567f8755243d297a50cab06
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The Longshan source adds a northwest route-geography layer: Longshan is treated as a passage-and-barrier hinge connecting Guanzhong, Gansu/Longyou, Hexi, and the Western Regions, so Qin eastward movement, Han Wudi's westward strategy, Guanlong roads, and the ancient Silk Road become one corridor problem. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Hanji 658 adds a pre-Kunyang late-Xin layer where Wang Mang's palace scandal, public-son succession collapse, failed campaigns, Xiongnu requisitions, famine, and private-coinage punishment show regime failure before the final battlefield and capital collapse.
+The Longshan source adds a northwest route-geography layer: Longshan is treated as a passage-and-barrier hinge connecting Guanzhong, Gansu/Longyou, Hexi, and the Western Regions, so Qin eastward movement, Han Wudi's westward strategy, Guanlong roads, and the ancient Silk Road become one corridor problem. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Hanji 658 adds a pre-Kunyang late-Xin layer where Wang Mang's palace scandal, public-son succession collapse, failed campaigns, Xiongnu requisitions, famine, and private-coinage punishment show regime failure before the final battlefield and capital collapse. The 电影巨辩 update adds a film-history and geopolitics bridge: Chinese commercial films can now invoke Iraq-war and Hong Kong handover contexts, but the source argues those histories are simplified when ordinary humanitarianism or 2026 hindsight replaces full local political complexity.
 
 ## Cross-source Findings
 
@@ -131,3 +131,15 @@ Public and national memory often turns messy causality into cleaner origin stori
 **Qualifications:**
 
 - The source backfills 21 CE before the later Hanji 663-667 endgame; Wang Lin's motives, Yuan Bi's coerced confession, Xiongnu arrangements, campaign details, and casualty ratios remain source-scoped.
+
+### Film History Rewrites Iraq War And Hong Kong Handover Contexts
+
+[[huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1|The 电影巨辩 film episode]] adds a history-and-geopolitics bridge: [[WelcomeToLailongRestaurant]] borrows the [[IraqWar]] while retreating into [[EverydayHumanitarianismInWarFilm]], and [[KongqiangFilm]] rewrites [[ZhangZiqiang]]-style [[HongKongFilmIndustry]] inheritance through [[GreaterBayAreaCinema]] and [[HongKongHandoverTeleology]], showing how film memory can convert contested wars and 1997 uncertainty into more usable mainland narrative frames.
+
+**Evidence:** [[huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1]], [[WelcomeToLailongRestaurant]], [[IraqWar]], [[EverydayHumanitarianismInWarFilm]], [[KongqiangFilm]], [[ZhangZiqiang]], [[HongKongFilmIndustry]], [[GreaterBayAreaCinema]], [[HongKongHandoverTeleology]], [[CrossContextPoliticalCinema]]
+
+**Qualifications:**
+
+- The source is film criticism and does not provide an independent Iraq War history or a full Hong Kong handover historiography.
+- The films' exact real-world referents, creator intentions, censorship constraints, and audience reception remain source-scoped.
+- The claim identifies narrative simplification, not a settled contradiction with existing Hong Kong, war, or film-history pages.

@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-09] ingest | 《欢迎来龙餐馆》《空枪》说明中国电影还处理不了复杂政治问题
+
+Ingested the 2026-08-30 电影巨辩 episode on 《欢迎来龙餐馆》 and 《空枪》 as technically mature but politically constrained attempts by mainland Chinese commercial cinema to enter Iraq-war and Hong Kong-1997 contexts. Added source `huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1`; created `WenMuye`, `HanYanDirector`, `WelcomeToLailongRestaurant`, `KongqiangFilm`, `ZhangZiqiang`, `IraqWar`, `WolfWarrior2`, `CrossContextPoliticalCinema`, `EverydayHumanitarianismInWarFilm`, `GreaterBayAreaCinema`, and `HongKongHandoverTeleology`; updated `DianyingJubian`, `StrangerHospitalityEthics`, `HongKongFilmIndustry`, `CommercialFilmAudienceLogic`, `index`, and `overview`. No settled contradiction found; creator intent, censorship pressure, audience reception, Hong Kong historical self-understanding, and the films' real-world referents remain source-scoped.
+
 ## [2026-09-08] ingest | 181.这轮规模空前的中国制造业出海背后｜线下活动实录
 
 Ingested the 2026-09-08 起朱楼宴宾客 Guangzhou live discussion with David Weng, Yubai, and Xiao Pao on Chinese manufacturing overseas expansion. Added source `181-zhe-lun-guimo-kongqian-de-zhongguo-zhizaoye-chuhai-beihou-xianxia-huodong-shilu-lmkuwy-rlsjtpsjelotovauwyr0`; created `ChinaManufacturingOverseasExpansion`, `ExportAsCapacityAbsorption`, `HostCountryManufacturingBacklash`, `OutboundProfitTransmissionMechanism`, `LongTermLocalizationBargain`, and `ManufacturingExportInvestmentQuality`; updated `index` and `overview`. No settled contradiction found; exchange-rate figures, overseas profitability, host-country observations, policy-credit effects, and future domestic return-flow channels remain source-scoped.
@@ -16227,3 +16231,7 @@ Ingested the 2026-09-08 这病说来话长 World First Aid Day episode with 阿�
 ## [2026-09-09] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 18,117 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, one fragile bridge (`entities/CatholicChurch` -> `concepts/ReligiousControlledSubstanceExemption`), and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
