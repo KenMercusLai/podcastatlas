@@ -15968,6 +15968,10 @@ Ingested the 2026-06-21 博物志 episode on Hangzhou Museum's “意味杭之�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-08] ingest | 《资治通鉴·汉纪》663丨更始帝刘玄是滩扶不上墙的烂泥？
+
+Ingested the 2026-06-09 芮淇讲透资治通鉴 episode on Liu Xuan's Gengshi elevation, Liu Yan's warning against premature imperial title, Zhang Ang's pressure intervention, Wang Mang's image-management and pre-Kunyang mobilization, and Liu Xiu's survival-focused counsel inside Kunyang. Added source `zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz`; created `ZhangAngGengshi`; updated `LiuXuanGengshiEmperor`, `LiuYanLiuXiuBrother`, `WangMang`, `LulinRebellion`, `KunyangBattle`, `RestoredRoyalFigureheadLegitimacy`, `index`, and `overview`. No settled contradiction found; Wang Kuang, Wang Feng, Wang Chang, Zhu Wei, Ju Wuba, Wang Xun, Chen Mao, exact troop counts, animal details, and Wang Mang's psychology remain source-scoped.
+
 ## [2026-09-08] ingest | 《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？
 
 Ingested the 2026-06-09 芮淇讲透资治通鉴 episode on the immediate post-Kunyang Gengshi field: Liu Yan's prestige becomes lethal under Liu Xuan, Zhu Wei and Li Yi help turn suspicion into execution, Liu Xiu survives by suppressing grief and merit claims, Wang Mang faces internal surrender plotting and purge, Gongsun Shu begins in Shu through a forged Gengshi appointment, and Wang Mang answers collapse with a southern-suburb crying ritual. Added source `zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t`; updated `LiuYanLiuXiuBrother`, `LiuXiu`, `LiuXuanGengshiEmperor`, `WangMang`, `GongsunShuEasternHan`, `ZhuWeiEasternHan`, `LiYiGengshiGeneral`, `StrategicEmotionConcealment`, `PostRestorationMeritThreat`, `TerminalMandateSelfDeception`, and `index`. No settled contradiction found; Shentu Jian, Fan Hong, Liu Ji, Wang She, State Teacher Duke Liu Xiu, Dong Zhong, Sun Ji, Wei Ao, Wei Cui, Wei Yi, and exact ritual mechanics remain source-scoped.
@@ -16147,6 +16151,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] ingest | 《资治通鉴·汉纪》664丨昆阳之战：决定国运的历史转折点
 
 Ingested the 2026-06-09 芮淇讲透资治通鉴 episode on Kunyang as the direct military turning point before the Wang Mang endgame: Wang Yi rejects Yan You's Wan-first and siege-exit advice, Liu Xiu concentrates troops and strikes the main camp, Kunyang defenders join from inside the city, and the rout spreads Gengshi momentum. Added source `zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4`; created `WangYiXinGeneral`, `YanYouXinGeneral`, and `LiuYanLiuXiuBrother`; updated `KunyangBattle`, `WangMang`, `FengYiEasternHan`, `CenPengEasternHan`, `LiuXuanGengshiEmperor`, `index`, and `overview`. No settled contradiction found; troop totals, storm/flood imagery, animal details, Pingdi poisoning evidence, and minor command identities remain source-scoped.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-08] lint | Wiki health check
 

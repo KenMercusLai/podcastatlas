@@ -7,16 +7,19 @@ sources:
   - 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780
   - zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph
   - zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4
+  - zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz
 last_updated: 2026-09-08
 ---
 
 ## Overview
 
-The Battle of Kunyang / 昆阳之战 is a turning-point battle in the collapse of [[WangMang|王莽]]'s [[XinDynasty|Xin dynasty]] and the later restoration reputation of [[LiuXiu|刘秀 / 光武帝]]. Its current wiki role is to expose the gap between symbolic state grandeur and battlefield capacity while preserving Liu Xiu's sortie, reinforcement, morale, command-center strike, and legendary mandate layers. [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] now supplies the direct tactical sequence and the Wang Yi-Yan You decision failure behind the rout.
+The Battle of Kunyang / 昆阳之战 is a turning-point battle in the collapse of [[WangMang|王莽]]'s [[XinDynasty|Xin dynasty]] and the later restoration reputation of [[LiuXiu|刘秀 / 光武帝]]. Its current wiki role is to expose the gap between symbolic state grandeur and battlefield capacity while preserving the prebattle panic, Liu Xiu's survival argument, sortie, reinforcement, morale, command-center strike, and legendary mandate layers. [[zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz|Hanji 663]] now supplies the immediate prebattle crisis, while [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] supplies the direct tactical sequence and the Wang Yi-Yan You decision failure behind the rout.
 
 ## Current Profile
 
-In the current wiki, Kunyang has moved from a compact proof point toward a bounded operational case. Wang Mang's side appears numerically and ritually immense but functionally brittle, while Liu Xiu's actions become evidence of battlefield judgment under asymmetry. Liu Xiu breaks out with a small cavalry group, returns with reinforcements, redirects commanders away from guarding loot, uses forward combat to change morale, and attacks the opposing command center.
+In the current wiki, Kunyang has moved from a compact proof point toward a bounded operational case. Wang Mang's side appears numerically and ritually immense but functionally brittle, while Liu Xiu's actions become evidence of battlefield judgment under asymmetry. Hanji 663 gives the immediate prebattle frame: when the huge Xin army approaches, Gengshi-side commanders flee back into Kunyang and discuss scattering toward their families or other cities. Liu Xiu argues that the city has too few soldiers and supplies, but dispersal would destroy everyone; concentrated defense is the only route to survival and merit. After scouts report the enemy line extending for hundreds of li, the same commanders who usually slight Liu Xiu turn back to him for counsel, and he leaves the city at night with thirteen riders to gather troops.
+
+Hanji 664 then supplies the combat layer. Liu Xiu breaks out with a small cavalry group, returns with reinforcements, redirects commanders away from guarding loot, uses forward combat to change morale, and attacks the opposing command center.
 
 Hanji 664 adds the failed-advice chain. [[YanYouXinGeneral|Yan You]] warns [[WangYiXinGeneral|Wang Yi]] to bypass Kunyang and strike Wan because [[LiuXuanGengshiEmperor|Liu Xuan]] is there; after Wang Yi refuses, Yan You warns that a fully closed siege will force desperate resistance. Wang Yi again refuses, then limits the battle response by keeping other camps inactive while Liu Xiu's smaller strike and the city defenders create inside-outside collapse.
 
@@ -25,6 +28,7 @@ The battle also carries a legendary layer. Meteor and cloud descriptions are use
 ## Key Characteristics
 
 - Turning-point battle that makes Wang Mang's regime look much weaker in actual coercive capacity than in symbolic scale.
+- Prebattle cohesion crisis where Liu Xiu turns frightened commanders away from dispersal and toward collective survival.
 - Numerical-asymmetry battle where Liu Xiu's tactical initiative matters more than raw troop counts.
 - Morale and information case: reported victories and battlefield confidence are treated as active parts of the battle.
 - Failed-advice and command-rigidity case where a larger army misses target priority, siege-exit logic, and coordinated response.
@@ -34,6 +38,8 @@ The battle also carries a legendary layer. Meteor and cloud descriptions are use
 ## Evidence
 
 - Capacity gap: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] contrasts Wang Mang's enormous and oddly composed force with Liu Xiu's successful breakout, reinforcements, and victory.
+- Prebattle panic and survival logic: [[zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz|Hanji 663]] says Kunyang commanders fear Wang Yi and Wang Xun's huge army, consider flight, and are persuaded by Liu Xiu that dispersal would leave no one safe.
+- Night breakout: [[zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz|Hanji 663]] says Liu Xiu leaves Kunyang at night with Li Yi and thirteen riders to summon more troops while Wang Feng and Wang Chang guard the city.
 - Tactical sequence: [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|Hanji 699 PLUS]] says Liu Xiu breaks out with a tiny cavalry group, brings back reinforcements, and leads a small shock force against the opposing command center.
 - Morale and information: [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|Hanji 699 PLUS]] treats false or selective victory news as a way to raise Liu Xiu's side and unsettle the enemy.
 - Failed Xin command advice: [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] says Yan You advised bypassing Kunyang for Wan and later leaving a siege opening, but Wang Yi rejected both.
@@ -43,11 +49,12 @@ The battle also carries a legendary layer. Meteor and cloud descriptions are use
 
 ## Qualifications
 
-The current evidence reconstructs the battle through podcast notes rather than independent military history. Hanji 699 PLUS gives figures such as Wang Mang's claimed 400,000 troops, Liu Xiu's initial 7,000, roughly 17,000 reinforcements, and a 3,000-person strike force, while Hanji 664 gives a two-versus-forty-two-wan contrast; those numbers should remain source-scoped. The storm, flood, animal-panic, corpse-blocked-river, meteor, and cloud material belongs to dramatic chronicle and mandate narration rather than factual verification of supernatural signs.
+The current evidence reconstructs the battle through podcast notes rather than independent military history. Hanji 663 supplies the prebattle fear and breakout layer but keeps Wang Feng, Wang Chang, Li Yi, exact force numbers, and route mechanics source-scoped. Hanji 699 PLUS gives figures such as Wang Mang's claimed 400,000 troops, Liu Xiu's initial 7,000, roughly 17,000 reinforcements, and a 3,000-person strike force, while Hanji 664 gives a two-versus-forty-two-wan contrast; those numbers should remain source-scoped. The storm, flood, animal-panic, corpse-blocked-river, meteor, and cloud material belongs to dramatic chronicle and mandate narration rather than factual verification of supernatural signs.
 
 ## What Changed
 
-- Added Hanji 664 as the direct Kunyang operational layer: Wang Yi's rejected advice, Yan You's siege warnings, Liu Xiu's loot-versus-survival mobilization, forward clash, 3,000-person strike, inside-outside attack, and rout.
+- Added Hanji 663 as the prebattle cohesion layer: Kunyang commanders fear dispersal, Liu Xiu reframes the situation as shared survival, and the night breakout begins the reinforcement path.
+- Preserved Hanji 664 as the direct Kunyang operational layer: Wang Yi's rejected advice, Yan You's siege warnings, Liu Xiu's loot-versus-survival mobilization, forward clash, 3,000-person strike, inside-outside attack, and rout.
 - Preserved Hanji 699 PLUS as the higher-level Liu Xiu evaluation and mandate-memory layer.
 
 ## Relationships

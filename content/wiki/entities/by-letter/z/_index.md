@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9320
+wiki_total_pages: 9321
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "ZhangNanLateHan"
     title: "张南 / Zhang Nan (late Han)"
     url: "/wiki/entities/zhangnanlatehan/"
+  - key: "ZhangAngGengshi"
+    title: "张卬 / Zhang Ang (Gengshi)"
+    url: "/wiki/entities/zhanganggengshi/"
   - key: "ZhangChangNanyangLateHan"
     title: "张厂 / Zhang Chang (Nanyang, late Han)"
     url: "/wiki/entities/zhangchangnanyanglatehan/"

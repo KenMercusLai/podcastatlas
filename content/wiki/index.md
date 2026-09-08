@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》663丨更始帝刘玄是滩扶不上墙的烂泥？](sources/zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz.md) — Gengshi 1 backfill on Liu Xuan's controllable Liu-lineage elevation, Liu Yan's delayed-title warning, Zhang Ang's pressure intervention, Wang Mang's pre-Kunyang mobilization, and Liu Xiu's Kunyang survival counsel.
 - [《资治通鉴·汉纪》664丨昆阳之战：决定国运的历史转折点](sources/zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4.md) — 芮淇讲透资治通鉴 episode on the Kunyang battle, Wang Yi's rejected advice, Yan You's siege warnings, Liu Xiu's smaller-force command-center strike, Wan surrender, Cen Peng clemency, Feng Yi's submission, and Gengshi momentum.
 - [《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？](sources/zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t.md) — Gengshi 1 backfill on Liu Yan's execution by Liu Xuan's court, Liu Xiu's silent self-preservation, Wang Mang's internal defection panic and purges, Gongsun Shu's Shu origin move, and Xin's southern-suburb crying ritual.
 - [《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？](sources/zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw.md) — 芮淇讲透资治通鉴 episode on Wang Mang's final pre-death collapse, Nine Tiger general command failure, Chang'an breach, Weiyang Palace fire, Empress Wang's self-immolation, and terminal mandate self-deception.
@@ -8091,6 +8092,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's breakout, reinforcements, morale tactics, and later legendary mandate layer exposed the gap between Xin grandeur and usable capacity.
 - [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Xin-collapse uprising whose current arc spans westward cohesion pressure, Hongnong merger, Gengshi defeats, pre-entry Chang'an pressure, Liu Penzi's lottery enthronement, Changle Palace disorder, Chang'an destruction, Guanzhong famine, and surrender to Liu Xiu.
 - [Lulin / 绿林](entities/LulinRebellion.md) — Uprising/endgame force tied to Wang Mang's Jian Terrace death and the broader late-Xin legitimacy collapse.
+- [张卬 / Zhang Ang (Gengshi)](entities/ZhangAngGengshi.md) — Gengshi pressure actor who helps force Liu Xuan's elevation, later joins Chang'an rupture politics, and belongs to the group that treats captive Liu Xuan's sympathy as dangerous.
 - [Dong Zhongshu / 董仲舒](entities/DongZhongshu.md) — Western Han thinker used by episode 126 to connect Confucianism, Heaven, omens, and sacred imperial politics.
 - [Jean-Paul Marat / 让-保罗·马拉](entities/JeanPaulMarat.md) — Revolutionary journalist and agitator whose murder, martyr image, scientific grievance, and September Massacres role frame episode 125.
 - [Charlotte Corday / 夏洛特·科黛](entities/CharlotteCorday.md) — Moderate republican and Marat's assassin, read by episode 125 as politically conscious rather than manipulated or royalist.
@@ -12849,7 +12851,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Coerced Confession Trap / 逼供认罪陷阱](concepts/CoercedConfessionTrap.md) — Pattern where torture and staged review teach a prisoner to repeat a false confession before the real review arrives.
 - [Dongmen Yellow Dog / 东门黄犬](concepts/DongmenYellowDog.md) — Li Si regret idiom contrasting late power disaster with ordinary hometown pleasure and missed retreat from office.
 - [Palace Access Monopoly / 宫廷接触垄断](concepts/PalaceAccessMonopoly.md) — Pattern where ruler dependence and controlled access let a court actor turn advice, petitions, documents, and timing into weapons.
-- [Restored Royal Figurehead Legitimacy / 复国王室名义合法性](concepts/RestoredRoyalFigureheadLegitimacy.md) — Pattern where a military organizer installs a low-power old royal descendant, who can later become an active allocator when command conditions change.
+- [Restored Royal Figurehead Legitimacy / 复国王室名义合法性](concepts/RestoredRoyalFigureheadLegitimacy.md) — Pattern where a coalition uses old royal descent for restoration legitimacy, sometimes choosing a claimant because symbolic value and controllability are separated.
 - [Claim Restraint Through Attachment / 有所归属式名位节制](concepts/ClaimRestraintThroughAttachment.md) — Chen Ying pattern where a local rebel avoids top-title exposure by attaching to a stronger claimant.
 - [Strategic Recognition Alignment / 谋略知己式归附](concepts/StrategicRecognitionAlignment.md) — Zhang Liang pattern where a strategist joins a patron because the patron can understand and use difficult counsel.
 - [Punitive Surrender Deterrence / 杀降纳降反噬](concepts/PunitiveSurrenderDeterrence.md) — Pattern where executing a surrenderer makes future enemies less willing to surrender and weakens reintegration.
