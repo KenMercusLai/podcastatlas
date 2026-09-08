@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2826
+topic_total_pages: 2827
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2563,6 +2563,9 @@ topic_concepts:
   - key: "MidMarketDataTalentGap"
     title: "Mid-Market Data Talent Gap"
     url: "/wiki/concepts/midmarketdatatalentgap/"
+  - key: "MilitarizedAITechnologyBlocRisk"
+    title: "Militarized AI Technology Bloc Risk"
+    url: "/wiki/concepts/militarizedaitechnologyblocrisk/"
   - key: "MilitaryAIOversightCompression"
     title: "Military AI Oversight Compression"
     url: "/wiki/concepts/militaryaioversightcompression/"

@@ -1495,6 +1495,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "397-cong-zeren-fendan-dao-zeren-zhuanyi-ouzhou-weihe-nanyi-zhenzheng-yu-meiguo-fendao-yangbiao-31c69f95-d493-47a1-a6f8-905eb22c3e41": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7": [
     {
       "key": "politics",
@@ -42438,6 +42445,18 @@
       "url": "/topics/science/"
     }
   ],
+  "MilitarizedAITechnologyBlocRisk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MilitaryAIOversightCompression": [
     {
       "key": "technology",
@@ -60772,6 +60791,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "SunChenghao": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "SunChuanfang": [
     {
       "key": "history",
@@ -64576,6 +64602,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "TransatlanticBurdenShifting": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TranscendenceAgainstHumanFeeling": [

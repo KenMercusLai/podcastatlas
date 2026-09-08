@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6780
+wiki_total_pages: 6782
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -611,6 +611,9 @@ wiki_pages:
   - key: "MilieuSpecificAnalysis"
     title: "Milieu-Specific Analysis"
     url: "/wiki/concepts/milieuspecificanalysis/"
+  - key: "MilitarizedAITechnologyBlocRisk"
+    title: "Militarized AI Technology Bloc Risk"
+    url: "/wiki/concepts/militarizedaitechnologyblocrisk/"
   - key: "MilitaryActionTerminology"
     title: "Military Action Terminology / 伐侵袭用语"
     url: "/wiki/concepts/militaryactionterminology/"

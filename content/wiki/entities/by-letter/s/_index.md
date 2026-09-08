@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9373
+wiki_total_pages: 9374
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1760,6 +1760,9 @@ wiki_pages:
   - key: "SunWukong"
     title: "孙悟空"
     url: "/wiki/entities/sunwukong/"
+  - key: "SunChenghao"
+    title: "孙承昊 / Sun Chenghao"
+    url: "/wiki/entities/sunchenghao/"
   - key: "SunBinFifthZhongRetainerLateHan"
     title: "孙斌 / Sun Bin (Fifth Zhong retainer, late Han)"
     url: "/wiki/entities/sunbinfifthzhongretainerlatehan/"

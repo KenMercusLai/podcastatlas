@@ -16228,6 +16228,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | #397 从「责任分担」到「责任转移」：欧洲为何难以真正与美国「分道扬镳」？
+
+Ingested the 2026-07-14 声东击西 episode with 徐涛 interviewing 孙承昊 on NATO's 2026 summit, 5% defense-spending target, Ukraine aid institutionalization, European defense autonomy, U.S. burden shifting, AI and operational-cloud military capability, and China-facing U.S.-Europe policy divergence. Added source `397-cong-zeren-fendan-dao-zeren-zhuanyi-ouzhou-weihe-nanyi-zhenzheng-yu-meiguo-fendao-yangbiao-31c69f95-d493-47a1-a6f8-905eb22c3e41`; created `SunChenghao`, `TransatlanticBurdenShifting`, and `MilitarizedAITechnologyBlocRisk`; updated `NATO`, `EuropeanDefenseAutonomy`, `NATOAllianceCredibility`, `overview`, and `index`. No settled contradiction found; spending targets, summit interpretation, Ukraine aid figures, AI-defense claims, and China-facing policy implications remain source-scoped podcast analysis.
+
 ## [2026-09-09] ingest | No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？
 
 Ingested the 2026-07-28 三五环 episode with 刘飞 interviewing 叫兽易小星 and 粉墨 director 李晨 on B站 AI 创作大赛, 《女娲之死》, claymation-style AI short-film production, storyboard-first workflows, Midjourney, 可灵, Seedance, ChatGPT, 豆包, Claude Opus, final-polish labor, comedy timing limits, AI hallucination, creator anxiety, and responsibility. Added source `no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3`; created `LiChenFenmo`, `FenmoTeam`, `NvwaZhiSi`, and `BilibiliAICreationContest`; updated `JiaoshouYiXiaoxing`, `Bilibili`, `LiuFei`, `SanWuHuan`, `AIVideoProductionWorkflow`, `AIDirectorCoreWorkflow`, and `index`. No settled contradiction found; contest figures, production duration, tool performance, monthly spending, future adoption timing, and role-impact claims remain source-scoped.
@@ -16287,6 +16291,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | 罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......
 
 Ingested the 2026-07-24 罗永浩的十字路口 and 四孝喜剧 panel on flaws, baldness, ADHD, compulsive order, family pressure, reviews, online backlash, and 活人感. Added source `lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg`; created `CaoGuoStandup`, `LinJianxinStandup`, `OCDOrderPressure`, and `CreatorReviewResponseBoundary`; updated `LuoYonghao`, `LuoyonghaosCrossroads`, `SixiaoComedy`, `ShiLifen`, `ADHDSelfDiagnosisBoundary`, `HumanImperfectionCreativeValue`, `LiveHumanFeeling`, `overview`, and `index`. No settled contradiction found; ADHD medication effects, hair-loss treatment, compulsive-order family impact, review behavior, doxxing, and public rebuttal remain source-scoped anecdotes rather than medical, legal, or relationship advice.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

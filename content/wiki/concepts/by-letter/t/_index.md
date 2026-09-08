@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6780
+wiki_total_pages: 6782
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -551,6 +551,9 @@ wiki_pages:
   - key: "TrainingComputeAllocation"
     title: "Training Compute Allocation"
     url: "/wiki/concepts/trainingcomputeallocation/"
+  - key: "TransatlanticBurdenShifting"
+    title: "Transatlantic Burden Shifting"
+    url: "/wiki/concepts/transatlanticburdenshifting/"
   - key: "TranscendenceAgainstHumanFeeling"
     title: "Transcendence Against Human Feeling"
     url: "/wiki/concepts/transcendenceagainsthumanfeeling/"

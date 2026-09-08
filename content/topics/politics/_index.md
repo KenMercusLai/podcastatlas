@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2263
+topic_total_pages: 2267
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1897,6 +1897,9 @@ topic_concepts:
   - key: "MigrationWeaponization"
     title: "Migration Weaponization"
     url: "/wiki/concepts/migrationweaponization/"
+  - key: "MilitarizedAITechnologyBlocRisk"
+    title: "Militarized AI Technology Bloc Risk"
+    url: "/wiki/concepts/militarizedaitechnologyblocrisk/"
   - key: "MilitaryAIOversightCompression"
     title: "Military AI Oversight Compression"
     url: "/wiki/concepts/militaryaioversightcompression/"
@@ -3139,6 +3142,9 @@ topic_concepts:
   - key: "TradeReciprocityProtectionism"
     title: "Trade Reciprocity Protectionism"
     url: "/wiki/concepts/tradereciprocityprotectionism/"
+  - key: "TransatlanticBurdenShifting"
+    title: "Transatlantic Burden Shifting"
+    url: "/wiki/concepts/transatlanticburdenshifting/"
   - key: "TranscendentExitPoliticalCamouflage"
     title: "Transcendent Exit Political Camouflage / 假托神仙式权力退场"
     url: "/wiki/concepts/transcendentexitpoliticalcamouflage/"
@@ -5789,6 +5795,9 @@ topic_entities:
   - key: "KongXiangxi"
     title: "孔祥熙"
     url: "/wiki/entities/kongxiangxi/"
+  - key: "SunChenghao"
+    title: "孙承昊 / Sun Chenghao"
+    url: "/wiki/entities/sunchenghao/"
   - key: "MengYunEasternHan"
     title: "孟云 / Meng Yun (Eastern Han)"
     url: "/wiki/entities/mengyuneasternhan/"
@@ -6033,6 +6042,9 @@ topic_sources:
   - key: "396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a"
     title: "#396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？"
     url: "/wiki/sources/396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a/"
+  - key: "397-cong-zeren-fendan-dao-zeren-zhuanyi-ouzhou-weihe-nanyi-zhenzheng-yu-meiguo-fendao-yangbiao-31c69f95-d493-47a1-a6f8-905eb22c3e41"
+    title: "#397 从「责任分担」到「责任转移」：欧洲为何难以真正与美国「分道扬镳」？"
+    url: "/wiki/sources/397-cong-zeren-fendan-dao-zeren-zhuanyi-ouzhou-weihe-nanyi-zhenzheng-yu-meiguo-fendao-yangbiao-31c69f95-d493-47a1-a6f8-905eb22c3e41/"
   - key: "398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7"
     title: "#398 一场美国观察漫谈：世界杯红牌、南非白人劳工"
     url: "/wiki/sources/398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7/"
