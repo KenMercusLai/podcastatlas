@@ -4547,10 +4547,28 @@
         "DataCenterBacklash",
         "China"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "late-xin-coercive-control-backfires-through-scandal-succession-currency",
+      "qualifications": [
+        "This is a bounded historical governance case, not a general rule that all scandal control or currency policing fails; the confession, casualty ratios, and policy mechanics remain source-scoped."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] adds a late-Xin governance case where [[WangMang|Wang Mang]]'s control backfires across domains: [[DynasticScandalSuppression]] consumes [[WangLinXinCrownPrince|the crown prince]], [[DynasticHeirLossShock]] forces hidden fallback heirs into view, and [[PunitiveCurrencyEnforcementBackfire]] turns private-coinage policing into forced labor and household damage.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp",
+        "WangMang",
+        "DynasticScandalSuppression",
+        "WangLinXinCrownPrince",
+        "DynasticHeirLossShock",
+        "PunitiveCurrencyEnforcementBackfire",
+        "XinDynasty"
+      ]
     }
   ],
   "input_digest": "80534eddb56fe419f25ec71c3705367b23c9836ed8bbb03942b65a40cbcb8256",
-  "summary": "Governance synthesis now spans youth platform policy, electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, political-theory method, boundary-setting, and swing-state Senate cooperation across historical and contemporary cases. The new All-In Senate update adds a Pennsylvania governance case: bipartisan representation, filibuster restraint, shutdown avoidance, primary pressure, campaign spending, and data-center permitting all converge when AI infrastructure becomes a local jobs, community-consent, and national-security question. Existing child-safety, Machiavelli, Saxony-Anhalt, Brexit, AI governance, surveillance, public-health, sports, and historical court cases still reinforce the broad finding that usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy.",
+  "summary": "Governance synthesis now spans youth platform policy, electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, political-theory method, boundary-setting, and swing-state Senate cooperation across historical and contemporary cases. The new All-In Senate update adds a Pennsylvania governance case: bipartisan representation, filibuster restraint, shutdown avoidance, primary pressure, campaign spending, and data-center permitting all converge when AI infrastructure becomes a local jobs, community-consent, and national-security question. Existing child-safety, Machiavelli, Saxony-Anhalt, Brexit, AI governance, surveillance, public-health, sports, and historical court cases still reinforce the broad finding that usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy. Hanji 658 adds a governance case where dynastic scandal suppression, heir loss, and punitive currency enforcement turn private household control and monetary policing into legitimacy and state-capacity damage.",
   "title": "Governance and Institutions",
   "topic_id": "governance-and-institutions"
 }

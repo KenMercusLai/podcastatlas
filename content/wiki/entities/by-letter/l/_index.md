@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9321
+wiki_total_pages: 9328
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -452,6 +452,9 @@ wiki_pages:
   - key: "LiuXiu"
     title: "Liu Xiu / 刘秀"
     url: "/wiki/entities/liuxiu/"
+  - key: "LiuYingWangLinWife"
+    title: "Liu Ying / 刘英 (Wang Lin's wife)"
+    url: "/wiki/entities/liuyingwanglinwife/"
   - key: "LiuZhijun"
     title: "Liu Zhijun / 刘志军"
     url: "/wiki/entities/liuzhijun/"

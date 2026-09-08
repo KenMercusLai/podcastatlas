@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-08
-as_of_overview_commit: e5449e19dae9b079ef87cc90dca040b5b5516ee4
-input_digest: ddec6c8c3ba7224d7920e2fbeeb5d737fffb81326e694855f9bdbf64da5fdbe0
+as_of_overview_commit: e8b0e96753af8b4ded986f813d28f1aa3d3de7c1
+input_digest: 8a1ad449a5259ebd7d92d398bc204244bc49c19839b5f16cc031c1e9bcb6a9d5
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance synthesis now spans youth platform policy, electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, political-theory method, boundary-setting, and swing-state Senate cooperation across historical and contemporary cases. The new All-In Senate update adds a Pennsylvania governance case: bipartisan representation, filibuster restraint, shutdown avoidance, primary pressure, campaign spending, and data-center permitting all converge when AI infrastructure becomes a local jobs, community-consent, and national-security question. Existing child-safety, Machiavelli, Saxony-Anhalt, Brexit, AI governance, surveillance, public-health, sports, and historical court cases still reinforce the broad finding that usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy.
+Governance synthesis now spans youth platform policy, electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, political-theory method, boundary-setting, and swing-state Senate cooperation across historical and contemporary cases. The new All-In Senate update adds a Pennsylvania governance case: bipartisan representation, filibuster restraint, shutdown avoidance, primary pressure, campaign spending, and data-center permitting all converge when AI infrastructure becomes a local jobs, community-consent, and national-security question. Existing child-safety, Machiavelli, Saxony-Anhalt, Brexit, AI governance, surveillance, public-health, sports, and historical court cases still reinforce the broad finding that usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy. Hanji 658 adds a governance case where dynastic scandal suppression, heir loss, and punitive currency enforcement turn private household control and monetary policing into legitimacy and state-capacity damage.
 
 ## Cross-source Findings
 
@@ -2098,3 +2098,13 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 - The investment totals, wage examples, China-misinformation claims, and candidate allegations remain source-scoped to the episode summary.
 - The source argues against data-center moratoriums but does not settle the local cost-benefit balance of water use, power prices, emissions, or long-term job creation.
 - The bipartisanship evidence is a single joint media appearance, not a complete legislative record.
+
+### Late Xin Coercive Control Backfires Through Scandal Succession Currency
+
+[[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] adds a late-Xin governance case where [[WangMang|Wang Mang]]'s control backfires across domains: [[DynasticScandalSuppression]] consumes [[WangLinXinCrownPrince|the crown prince]], [[DynasticHeirLossShock]] forces hidden fallback heirs into view, and [[PunitiveCurrencyEnforcementBackfire]] turns private-coinage policing into forced labor and household damage.
+
+**Evidence:** [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp]], [[WangMang]], [[DynasticScandalSuppression]], [[WangLinXinCrownPrince]], [[DynasticHeirLossShock]], [[PunitiveCurrencyEnforcementBackfire]], [[XinDynasty]]
+
+**Qualifications:**
+
+- This is a bounded historical governance case, not a general rule that all scandal control or currency policing fails; the confession, casualty ratios, and policy mechanics remain source-scoped.

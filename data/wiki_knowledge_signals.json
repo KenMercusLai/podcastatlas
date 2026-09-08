@@ -20613,9 +20613,9 @@
       "url": "/wiki/concepts/dynasticclaimnationalmobilization/"
     },
     "DynasticHeirLossShock": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -20623,9 +20623,16 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！ [ln4tU6LY8EIe6JsPVrurZn2RjjP_].md",
+          "key": "zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/dynasticheirlossshock/"
     },
     "DynasticHeirRoleEntrapment": {
@@ -20661,9 +20668,9 @@
       "url": "/wiki/concepts/dynasticmemoryreportingritual/"
     },
     "DynasticScandalSuppression": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -20671,9 +20678,16 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！ [ln4tU6LY8EIe6JsPVrurZn2RjjP_].md",
+          "key": "zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/dynasticscandalsuppression/"
     },
     "DysarthriaCapabilityBoundary": {
@@ -23215,6 +23229,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/empresswangpingdi/"
+    },
+    "EmpressXiaomuXin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！ [ln4tU6LY8EIe6JsPVrurZn2RjjP_].md",
+          "key": "zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/empressxiaomuxin/"
     },
     "EmpressYinHeLateHan": {
       "episode_count": 2,
@@ -45062,6 +45092,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/liuyingchukingeasternhan/"
     },
+    "LiuYingWangLinWife": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！ [ln4tU6LY8EIe6JsPVrurZn2RjjP_].md",
+          "key": "zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/liuyingwanglinwife/"
+    },
     "LiuYongEasternHan": {
       "episode_count": 8,
       "show_count": 1,
@@ -59517,6 +59563,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/punishmentpersonalresponsibilitylimit/"
+    },
+    "PunitiveCurrencyEnforcementBackfire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！ [ln4tU6LY8EIe6JsPVrurZn2RjjP_].md",
+          "key": "zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/punitivecurrencyenforcementbackfire/"
     },
     "PunitiveHairRemovalHumiliation": {
       "episode_count": 1,
@@ -75739,6 +75801,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/wanchengroup/"
     },
+    "WangAnXinPrince": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！ [ln4tU6LY8EIe6JsPVrurZn2RjjP_].md",
+          "key": "zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/wanganxinprince/"
+    },
     "WangBaEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -76128,6 +76206,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/wangkanglatehan/"
     },
+    "WangKuangXinPrince": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！ [ln4tU6LY8EIe6JsPVrurZn2RjjP_].md",
+          "key": "zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/wangkuangxinprince/"
+    },
     "WangLangHebeiClaimant": {
       "episode_count": 7,
       "show_count": 1,
@@ -76216,10 +76310,26 @@
       "updated": "2026-09-03",
       "url": "/wiki/entities/wangliangeasternhan/"
     },
+    "WangLinXinCrownPrince": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！ [ln4tU6LY8EIe6JsPVrurZn2RjjP_].md",
+          "key": "zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/wanglinxincrownprince/"
+    },
     "WangMang": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -76269,6 +76379,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》663丨更始帝刘玄是滩扶不上墙的烂泥？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！ [ln4tU6LY8EIe6JsPVrurZn2RjjP_].md",
+          "key": "zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp/"
         }
       ],
       "updated": "2026-09-08",
@@ -76413,6 +76530,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/wangtiaoligustudent/"
+    },
+    "WangXingXinPrince": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！ [ln4tU6LY8EIe6JsPVrurZn2RjjP_].md",
+          "key": "zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/wangxingxinprince/"
     },
     "WangXiuLateHan": {
       "episode_count": 2,
@@ -79367,9 +79500,9 @@
       "url": "/wiki/entities/xincheneasternhan/"
     },
     "XinDynasty": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -79384,6 +79517,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！ [ln4tU6LY8EIe6JsPVrurZn2RjjP_].md",
+          "key": "zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp/"
         }
       ],
       "updated": "2026-09-08",
@@ -82192,6 +82332,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/yuananeasternhan/"
+    },
+    "YuanBiXinPalaceAttendant": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！ [ln4tU6LY8EIe6JsPVrurZn2RjjP_].md",
+          "key": "zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/yuanbixinpalaceattendant/"
     },
     "YuanChangLateHan": {
       "episode_count": 2,

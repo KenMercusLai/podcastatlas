@@ -22063,6 +22063,13 @@
       "url": "/topics/history/"
     }
   ],
+  "EmpressXiaomuXin": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "EmptyReputationRealityGap": [
     {
       "key": "politics",
@@ -38453,6 +38460,13 @@
     }
   ],
   "LiuYing": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "LiuYingWangLinWife": [
     {
       "key": "history",
       "label": "History",
@@ -66512,6 +66526,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "WangAnXinPrince": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "WangAnshiReforms": [
     {
       "key": "politics",
@@ -66573,6 +66594,20 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "WangKuangXinPrince": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "WangLinXinCrownPrince": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "WangLing": [
@@ -66700,6 +66735,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "WangXingXinPrince": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "WangXingxing": [
@@ -70568,6 +70610,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "YuanBiXinPalaceAttendant": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "YuanBlueAndWhitePorcelain": [

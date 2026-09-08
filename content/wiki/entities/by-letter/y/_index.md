@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 9321
+wiki_total_pages: 9328
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "YueBao"
     title: "Yu'e Bao / 余额宝"
     url: "/wiki/entities/yuebao/"
+  - key: "YuanBiXinPalaceAttendant"
+    title: "Yuan Bi / 元璧"
+    url: "/wiki/entities/yuanbixinpalaceattendant/"
   - key: "YuanMing"
     title: "Yuan Ming / 袁鸣"
     url: "/wiki/entities/yuanming/"

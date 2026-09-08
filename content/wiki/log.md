@@ -16096,6 +16096,10 @@ Ingested the 2026-09-07 文化有限 episode on William Golding's Lord of the Fl
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-08] ingest | 《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！
+
+Ingested the 2026-06-08 芮淇讲透资治通鉴 episode on Wang Mang's 21 CE household and regime crisis: Empress Xiaomu's death, Wang Lin's Yuan Bi scandal and forced suicide, Liu Ying's accusation and suicide, Wang An's death, public-son succession collapse, private sons Wang Xing and Wang Kuang, failed campaigns, Xiongnu requisitions, famine, and private-coinage punishment. Added source `zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp`; created `WangLinXinCrownPrince`, `EmpressXiaomuXin`, `YuanBiXinPalaceAttendant`, `LiuYingWangLinWife`, `WangAnXinPrince`, `WangXingXinPrince`, `WangKuangXinPrince`, and `PunitiveCurrencyEnforcementBackfire`; updated `WangMang`, `XinDynasty`, `DynasticScandalSuppression`, `DynasticHeirLossShock`, `index`, and `overview`. No settled contradiction found; exact relationships, motives, casualty ratios, Xiongnu arrangements, and campaign details remain source-scoped.
+
 ## [2026-09-08] ingest | 怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房
 
 Ingested the 2026-09-07 声动早咖啡 business-news episode on C'estbon pure-water share pressure, Maya Active's fitness-space strategy, Aura/Oura smart-ring subscriptions, DeepZ's reported Huawei-chip procurement, Foxconn AI servers, Volkswagen restructuring, Maserati-Huawei-JAC cooperation talks, credit-card contraction, and Aesop China retail reallocation. Added source `yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578`; created `Cestbon`, `MayaActive`, `PureFitness`, `AesopBeauty`, `HuaweiAscend950DT`, `Huabei`, `JDWhiteBar`, `BottledWaterChannelFragmentation`, `SportswearExperienceSpace`, `SmartRingHardwareSubscription`, `CreditCardScaleContraction`, and `BeautyRetailNetworkReallocation`; updated `PackagedWaterPriceWar`, `DeepZ`, `FoxconnIndustrialInternet`, `VolkswagenGroup`, `Stellantis`, `Maserati`, `AntaSports`, `OuraRing`, `index`, and `overview`. No settled contradiction found; the Aura/Oura spelling, chip order, IPO filing, share data, job-cut totals, and cooperation talks remain source-scoped.
@@ -16171,3 +16175,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 18,058 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-09-02 with 16,930 nodes and 195,431 edges while lint scanned 18,058 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, one fragile bridge (`entities/CatholicChurch` -> `concepts/ReligiousControlledSubstanceExemption`), and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

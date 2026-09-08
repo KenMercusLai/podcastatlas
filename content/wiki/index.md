@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！](sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp.md) — 21 CE Wang Mang backfill on Empress Xiaomu's death, Wang Lin's scandal and forced suicide, public-son succession collapse, private sons Wang Xing and Wang Kuang, failed campaigns, Xiongnu requisitions, famine, and private-coinage punishment.
 - [《资治通鉴·汉纪》663丨更始帝刘玄是滩扶不上墙的烂泥？](sources/zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz.md) — Gengshi 1 backfill on Liu Xuan's controllable Liu-lineage elevation, Liu Yan's delayed-title warning, Zhang Ang's pressure intervention, Wang Mang's pre-Kunyang mobilization, and Liu Xiu's Kunyang survival counsel.
 - [《资治通鉴·汉纪》664丨昆阳之战：决定国运的历史转折点](sources/zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4.md) — 芮淇讲透资治通鉴 episode on the Kunyang battle, Wang Yi's rejected advice, Yan You's siege warnings, Liu Xiu's smaller-force command-center strike, Wan surrender, Cen Peng clemency, Feng Yi's submission, and Gengshi momentum.
 - [《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？](sources/zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t.md) — Gengshi 1 backfill on Liu Yan's execution by Liu Xuan's court, Liu Xiu's silent self-preservation, Wang Mang's internal defection panic and purges, Gongsun Shu's Shu origin move, and Xin's southern-suburb crying ritual.
@@ -2024,6 +2025,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Wang Lin / 王林 (Xin crown prince)](entities/WangLinXinCrownPrince.md) — Wang Mang's crown-prince son whose Yuan Bi scandal, fear, failed patricide plot, and forced suicide break the public succession line.
+- [Empress Xiaomu of Xin / 孝睦皇后](entities/EmpressXiaomuXin.md) — Wang Mang's wife whose grief, blindness, illness, and death frame the Hanji 658 household-collapse branch.
+- [Yuan Bi / 元璧](entities/YuanBiXinPalaceAttendant.md) — Palace attendant connected to Empress Xiaomu, Wang Mang, and Wang Lin, whose torture confession exposes the plot.
+- [Liu Ying / 刘英 (Wang Lin's wife)](entities/LiuYingWangLinWife.md) — Wang Lin's astrology-linked wife whose omen reading is later turned into accusation and suicide.
+- [Wang An / 王安 (Xin prince)](entities/WangAnXinPrince.md) — Wang Mang's son whose illness death completes the public-son succession collapse in Hanji 658.
+- [Wang Xing / 王兴 (Xin prince)](entities/WangXingXinPrince.md) — Private son recalled after Wang Mang's public sons die, exposing a hidden succession fallback.
+- [Wang Kuang / 王匡 (Xin prince)](entities/WangKuangXinPrince.md) — Private son recalled with Wang Xing after Wang Mang's public succession line breaks.
 - [王邑 / Wang Yi (Xin general)](entities/WangYiXinGeneral.md) — Xin-side Kunyang commander whose face-driven rigidity and ignored advice turn numerical superiority into collapse.
 - [严尤 / Yan You (Xin general)](entities/YanYouXinGeneral.md) — Xin-side adviser whose ignored Wan-first and siege-exit warnings define the failed Kunyang advice chain.
 - [刘縯 / Liu Yan (Liu Xiu's brother)](entities/LiuYanLiuXiuBrother.md) — Liu Xiu's elder brother in the Gengshi field, currently grounded by Cen Peng clemency after Wan and the preview of his killing.
@@ -11349,6 +11357,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Punitive Currency Enforcement Backfire / 惩罚性货币执法反噬](concepts/PunitiveCurrencyEnforcementBackfire.md) — Late-Xin pattern where private-coinage policing turns into collective punishment, forced labor, household separation, and mass social harm.
 - [Bipartisan Swing-State Representation](concepts/BipartisanSwingStateRepresentation.md) — Pattern where officials from opposing parties in a divided state maintain working trust because shared electorate and state priorities discipline pure tribal performance.
 - [Filibuster Minority Rights](concepts/FilibusterMinorityRights.md) — Senate-procedure argument that the filibuster slows majority action but protects minority leverage and forces negotiation.
 - [Pennsylvania AI Infrastructure Boom](concepts/PennsylvaniaAIInfrastructureBoom.md) — Source-scoped thesis that Pennsylvania can turn AI data centers, energy assets, industrial sites, and skilled trades into blue-collar growth.

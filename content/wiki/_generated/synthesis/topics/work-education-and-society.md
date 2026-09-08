@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-08
-as_of_overview_commit: 6babc7dd335d56b1f1daf9fbcebd8757c6c8b17b
-input_digest: f993ed6771db627a6fae96e4391881d9584cdd8fdcee354a00805ba4dc5e0b71
+as_of_overview_commit: e8b0e96753af8b4ded986f813d28f1aa3d3de7c1
+input_digest: 0304f9c2198aa3b76d3d87fad50d682e6ceaf40f3bba7d557276d650c2900f69
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The Hong Kong football source adds a work-and-society case in which early professional sport remained partly semi-professional: paid players, signing fees, club wages, stable jobs arranged by corporate teams, and owner-control preferences all shaped labor and institutional identity. The broader topic continues to synthesize how work, education, care, creator labor, travel, and social institutions depend on practical routines, trust, incentives, and human judgment rather than formal labels alone. The Tong Li episode enters this topic only as a source-scoped public-education case: sex education is framed as life-course learning that needs safety, consent, law, relationship context, and age-appropriate boundaries rather than a fixed school-only information transfer. The SanWuHuan e-bike source adds a narrow founder-work case: investment knowledge changes when exposed to operator responsibility, overseas trust-building, team capability, service burden, and AI-native workflow redesign.
+The Hong Kong football source adds a work-and-society case in which early professional sport remained partly semi-professional: paid players, signing fees, club wages, stable jobs arranged by corporate teams, and owner-control preferences all shaped labor and institutional identity. The broader topic continues to synthesize how work, education, care, creator labor, travel, and social institutions depend on practical routines, trust, incentives, and human judgment rather than formal labels alone. The Tong Li episode enters this topic only as a source-scoped public-education case: sex education is framed as life-course learning that needs safety, consent, law, relationship context, and age-appropriate boundaries rather than a fixed school-only information transfer. The SanWuHuan e-bike source adds a narrow founder-work case: investment knowledge changes when exposed to operator responsibility, overseas trust-building, team capability, service burden, and AI-native workflow redesign. Hanji 658 contributes a coercive-labor edge: monetary enforcement and collective punishment split households and convert ordinary people into forced service during late-Xin collapse.
 
 ## Cross-source Findings
 
@@ -711,3 +711,13 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 - This is a source-scoped founder-work and organization-design claim, not general career advice or proof that investors make better operators.
 - The source reports early operating observations; team capability, cash flow, service economics, and overseas-channel claims need further evidence before becoming broad manufacturing conclusions.
 - AI-native manufacturing is framed as organizational redesign, but adoption details remain source-scoped rather than independently verified implementation evidence.
+
+### Late Xin Currency Policing Turns Households Into Forced Labor
+
+[[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] enters work-and-society as a coercive-labor case: [[PunitiveCurrencyEnforcementBackfire]] links private-coinage policing under [[WangMang|Wang Mang]] to collective punishment, official slavery, forced coinage service, household separation, and mass death during [[XinDynasty|late-Xin]] collapse.
+
+**Evidence:** [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp]], [[PunitiveCurrencyEnforcementBackfire]], [[WangMang]], [[XinDynasty]]
+
+**Qualifications:**
+
+- The work-and-society relevance is limited to forced labor and household separation; detailed legal mechanics and casualty ratios remain source-scoped.

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1c134906278438e00e83ff37918f4d10dd50edd72acc03ce0b6dda825da3d7a8",
       "628ee99d6c87f88195c367e7a3157430c4a93220c221be6019e3fb43166a5d2d",
       "01efd245c7b2792a9e10bed09d5c5cea8817e44eeebf7d5f664f11fa3930339d",
       "b48d314ea783542efeb8ce77b613a48008d2e21bd1fff146f453efb7e2a9ab23",
@@ -591,11 +592,41 @@
       "84dd49ac166e4697c7944d5e84ddfcbab4c58fe49670c3ea55a8fcc24b4214bf",
       "47f00b5a6071894a52decccac47bb644170058bfe2e6c4ee40872a73dd9fddea"
     ],
-    "paragraph_count": 589
+    "paragraph_count": 590
   },
-  "overview_commit": "b3770e47f34cb8686aef303b231ef29849a2442d",
-  "overview_digest": "3f0978eea424fe685387009c21dbcef7ead9ce59c321f624a3738361129280c5",
+  "overview_commit": "e8b0e96753af8b4ded986f813d28f1aa3d3de7c1",
+  "overview_digest": "ffc6447c07ee49d31ad3465f5c5135d818c197c75fc780c94e84bafac59fb9c8",
   "paragraphs": [
+    {
+      "id": "1c134906278438e00e83ff37918f4d10dd50edd72acc03ce0b6dda825da3d7a8",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Wang Mang's 21 CE household and regime crisis before the Kunyang and Chang'an endgame already in the wiki. It adds [[WangLinXinCrownPrince|王林]], [[EmpressXiaomuXin|孝睦皇后]], [[YuanBiXinPalaceAttendant|元璧]], [[LiuYingWangLinWife|刘英]], [[WangAnXinPrince|王安]], [[WangXingXinPrince|王兴]], [[WangKuangXinPrince|王匡]], and [[PunitiveCurrencyEnforcementBackfire|惩罚性货币执法反噬]], while extending [[WangMang|王莽]], [[XinDynasty|新朝]], [[DynasticScandalSuppression|王朝丑闻压制]], and [[DynasticHeirLossShock|王朝继承人骤失冲击]]. Its core synthesis is that late Xin collapse is visible before final battlefield failure: palace scandal and coerced investigation consume the crown prince, the public succession line breaks, private sons have to be recalled, failed campaigns and Xiongnu requisitions drain resources, famine and locusts hit the east, and private-coinage enforcement turns currency policy into collective punishment and forced labor. No settled contradiction is recorded; Wang Lin's inner motives, Yuan Bi's coerced confession, Liu Ying's astrology branch, Xiongnu arrangements, campaign details, and casualty ratios remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "DynasticHeirLossShock",
+        "DynasticScandalSuppression",
+        "EmpressXiaomuXin",
+        "LiuYingWangLinWife",
+        "PunitiveCurrencyEnforcementBackfire",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangAnXinPrince",
+        "WangKuangXinPrince",
+        "WangLinXinCrownPrince",
+        "WangMang",
+        "WangXingXinPrince",
+        "XinDynasty",
+        "YuanBiXinPalaceAttendant",
+        "zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp"
+      ]
+    },
     {
       "id": "628ee99d6c87f88195c367e7a3157430c4a93220c221be6019e3fb43166a5d2d",
       "primary_topic": "governance-and-institutions",
