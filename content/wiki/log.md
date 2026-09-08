@@ -16267,3 +16267,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-09] ingest | 罗永浩的X字路口！我们能活到今天，多亏了祖传的势利眼
+
+Ingested the 2026-08-06 罗永浩的十字路口 and 四孝喜剧 live panel on snobbery, value ranking, comedy-industry status, transactional warmth, ethical triage, boss-employee after-hours pressure, crisis optimism versus transparency, Kaihua Club management, diamond-ring marketing, Valentine's Day rituals, and luxury status signaling. Added source `luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos`; created `KuaigeStandup`, `HulanStandup`, `XuanZongStandup`, `KaihuaClub`, `SnobberyAsValueRanking`, `StatusFilteredSocialInvestment`, `EthicalTriageUnderScarcity`, `AfterHoursPowerBoundary`, `CrisisOptimismTransparencyTradeoff`, `DiamondRomanceMarketingTrap`, and `LuxuryStatusSignalEfficiency`; updated `LuoYonghao`, `LuoyonghaosCrossroads`, `SixiaoComedy`, `WangJiye`, `overview`, and `index`. No settled contradiction found; 王继业/王季叶 spelling, Hulan route disambiguation, guest biographies, club operations, and diamond/luxury market claims remain source-scoped.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

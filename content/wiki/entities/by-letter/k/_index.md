@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 9363
+wiki_total_pages: 9367
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -653,6 +653,12 @@ wiki_pages:
   - key: "Kaifeng"
     title: "开封 / Kaifeng"
     url: "/wiki/entities/kaifeng/"
+  - key: "KaihuaClub"
+    title: "开花俱乐部 / Kaihua Club"
+    url: "/wiki/entities/kaihuaclub/"
+  - key: "KuaigeStandup"
+    title: "快哥 / Kuaige"
+    url: "/wiki/entities/kuaigestandup/"
   - key: "KeikoBoxer"
     title: "惠子 / Keiko (boxer)"
     url: "/wiki/entities/keikoboxer/"

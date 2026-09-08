@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6771
+wiki_total_pages: 6778
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2195,6 +2195,9 @@ wiki_pages:
   - key: "AwarenessMeditationStoryDropping"
     title: "Awareness Meditation Story Dropping"
     url: "/wiki/concepts/awarenessmeditationstorydropping/"
+  - key: "AfterHoursPowerBoundary"
+    title: "下班后权力边界 / After-Hours Power Boundary"
+    url: "/wiki/concepts/afterhourspowerboundary/"
   - key: "AppointmentQualityAsStateCapacity"
     title: "任官适任性国家能力 / Appointment Quality as State Capacity"
     url: "/wiki/concepts/appointmentqualityasstatecapacity/"

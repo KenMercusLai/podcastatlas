@@ -7,14 +7,15 @@ sources:
   - shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1
   - luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx
   - luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f
-last_updated: 2026-09-08
+  - luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos
+last_updated: 2026-09-09
 knowledge_schema: synthesis-v1
 ---
 
 # Luo Yonghao
 
 ## Overview
-Luo Yonghao is represented in the wiki first as the founder of [[Smartisan]] and now also as the host of [[LuoyonghaosCrossroads|罗永浩的十字路口]]. Across the current sources, he is a public figure whose throughline is public explanation under pressure: in smartphones, the limit of founder taste appears when supply-chain execution fails; in interviews and panels, taste becomes a framing tool for reading craft, usefulness, comedy, class, status display, debt, friendship, and reputation.
+Luo Yonghao is represented in the wiki first as the founder of [[Smartisan]] and now also as the host of [[LuoyonghaosCrossroads|罗永浩的十字路口]]. Across the current sources, he is a public figure whose throughline is public explanation under pressure: in smartphones, the limit of founder taste appears when supply-chain execution fails; in interviews and panels, taste becomes a framing tool for reading craft, usefulness, comedy, class, status display, debt, friendship, reputation, ethical triage, workplace power, and romantic consumption.
 
 ## Current Profile
 In the smartphone-history layer, Luo is the clearest [[Smartisan]] case where founder charisma, interface detail, design language, and launch-event attention could not by themselves solve phone manufacturing, yield, delivery, and quality-control problems. [[no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]] makes him important because he demonstrates both the cultural power and operating limits of a founder-centered consumer-electronics narrative.
@@ -25,13 +26,14 @@ The "装逼" panel adds a social-theory side to this interviewer role. Luo frame
 
 The money-and-debt panel adds Luo's debt-repayment and friend-lending layer. [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]] presents his Smartisan debt decision as a mix of legal limits, supplier responsibility, personal reputation, and practical search for fast but legitimate income. The same episode also shows him treating close-friend borrowing as a values-dependent [[FriendLendingBoundary|friend lending boundary]] rather than a universal moral rule.
 
+The "势利" panel adds Luo's most explicit moral-psychology moderator role so far. [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]] has him expand snobbery beyond money and status into intelligence, taste, appearance, and moral values; use [[DunbarNumber|邓巴数]] to explain selective attention; test guests with survival, lifeboat, and school-admission dilemmas; and then translate the same value-ranking problem into boss dinners, company-crisis communication, diamonds, Valentine's Day, and luxury signals.
+
 ## Key Characteristics
 - Founder and public presenter whose smartphone-era role was tied to [[Smartisan]] design, launch rhetoric, and fan attention.
 - Case for the limits of founder taste when hardware, supply chain, manufacturing, and delivery execution do not match public expectation.
 - Long-form interviewer who uses product, craft, and cultural categories to clarify a guest's work rather than only reciting biography.
 - Taste-driven explainer who can make interface design, handwork pricing, material choice, and art interpretation legible to broad audiences.
-- Panel moderator who can turn comedic conflict into a theory of class, status display, reading, and media self-presentation.
-- Debt-repayment narrator who frames bankruptcy, running away, crowdfunding, supplier harm, livestreaming, and limited consumption as linked legal, moral, and reputational choices.
+- Panel moderator who can turn comedic conflict into theories of class, status display, debt, friendship, moral triage, workplace power, and consumption symbols.
 - Source-scoped public figure whose English-teaching, livestreaming operations, full business history, and broader media career are not fully covered by the current evidence inventory.
 
 ## Evidence
@@ -41,14 +43,16 @@ The money-and-debt panel adds Luo's debt-repayment and friend-lending layer. [[l
 - Taste-driven explanation: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] uses craft pricing, material choice, product sturdiness, Dadaist language, and layered usefulness to interpret why strange objects can have value; [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]] uses class, education, vocabulary, taste, and platform examples to interpret why social display can be both comic and serious.
 - Panel moderation: [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]] has Luo assign explicit and implicit "装逼" poles, pull examples from the guests, and reframe vanity as possible learning, signaling, and self-deception.
 - Debt and friend lending: [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]] has Luo discuss Smartisan's six-to-seven-hundred-million-yuan debt, the choice not to run away or crowdfund, livestream ecommerce as repayment work, and roughly 17 million yuan in unrecovered friend loans.
-- Source scope: [[no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]], [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], and [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]] focus on specific roles and do not provide a complete biography of Luo's English-teaching, livestreaming operations, or broader media career.
+- Snobbery and ethical triage: [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]] has Luo define snobbery across multiple value dimensions, self-criticize intelligence-based contempt, and stage survival, lifeboat, school-admission, boss-dinner, company-crisis, and romantic-consumption dilemmas.
+- Source scope: [[no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]], [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]], and [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]] focus on specific roles and do not provide a complete biography of Luo's English-teaching, livestreaming operations, or broader media career.
 
 ## Qualifications
-The current page should not generalize Luo's whole career from four sources. One source is a smartphone-history episode, one is a creator interview, and two are comedy-panel discussions; all are interpretive rather than comprehensive biography. Debt amounts, repayment timing, and friend-loan recovery rates remain source-scoped personal accounts.
+The current page should not generalize Luo's whole career from five sources. One source is a smartphone-history episode, one is a creator interview, and three are comedy-panel discussions; all are interpretive rather than comprehensive biography. Debt amounts, repayment timing, friend-loan recovery rates, and consumption-market claims remain source-scoped personal accounts.
 
 ## What Changed
 - Added the money-and-debt panel as evidence for Luo's debt-repayment narrative and friend-lending ethics.
 - Reframed Luo's current profile from taste-driven explanation alone toward public explanation under business, social, and reputational pressure.
+- Added the "势利" panel as evidence for Luo's role in converting comedy dilemmas into moral, workplace, and consumption analysis.
 
 ## Relationships
 - [[Smartisan]] - company founded by Luo in the smartphone-history source.
@@ -61,3 +65,5 @@ The current page should not generalize Luo's whole career from four sources. One
 - [[ZhuangbiAsSocialSignaling]] - concept Luo helps articulate through the panel.
 - [[SixiaoComedy|四孝喜剧]] - live-comedy collaborator for the money-and-debt panel.
 - [[FriendLendingBoundary]] - concept Luo helps articulate through friend borrowing, gifting, collection, and repayment stories.
+- [[KuaigeStandup|快哥]], [[HulanStandup|呼兰]], [[WangJiye|王继业 / 王季叶]], and [[XuanZongStandup|选总]] - panelists whose responses Luo tests in the "势利" episode.
+- [[SnobberyAsValueRanking]], [[EthicalTriageUnderScarcity]], [[AfterHoursPowerBoundary]], [[CrisisOptimismTransparencyTradeoff]], [[DiamondRomanceMarketingTrap]], and [[LuxuryStatusSignalEfficiency]] - concepts Luo helps articulate through the new panel.

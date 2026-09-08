@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6771
+wiki_total_pages: 6778
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1880,6 +1880,9 @@ wiki_pages:
   - key: "SongUnificationStrategy"
     title: "先南后北 / Song Unification Strategy"
     url: "/wiki/concepts/songunificationstrategy/"
+  - key: "SnobberyAsValueRanking"
+    title: "势利作为价值排序 / Snobbery As Value Ranking"
+    url: "/wiki/concepts/snobberyasvalueranking/"
   - key: "SingleAuthorInstitutionalCodification"
     title: "单人负责式制度编纂 / Single-Author Institutional Codification"
     url: "/wiki/concepts/singleauthorinstitutionalcodification/"
@@ -1976,6 +1979,9 @@ wiki_pages:
   - key: "SettingBasedMystery"
     title: "设定系推理 / Setting-Based Mystery"
     url: "/wiki/concepts/settingbasedmystery/"
+  - key: "StatusFilteredSocialInvestment"
+    title: "身份过滤式社交投资 / Status-Filtered Social Investment"
+    url: "/wiki/concepts/statusfilteredsocialinvestment/"
   - key: "StrategicForbearanceGovernance"
     title: "退让留余地式治理 / Strategic Forbearance Governance"
     url: "/wiki/concepts/strategicforbearancegovernance/"

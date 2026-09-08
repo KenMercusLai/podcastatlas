@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 955
+topic_total_pages: 956
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1651,6 +1651,9 @@ topic_concepts:
   - key: "FaceSavingSubmissionFailure"
     title: "保面子式归降失败 / Face-Saving Submission Failure"
     url: "/wiki/concepts/facesavingsubmissionfailure/"
+  - key: "SnobberyAsValueRanking"
+    title: "势利作为价值排序 / Snobbery As Value Ranking"
+    url: "/wiki/concepts/snobberyasvalueranking/"
   - key: "ShouzhuoDecisiveRestraint"
     title: "守拙式临事决断 / Shouzhuo Decisive Restraint"
     url: "/wiki/concepts/shouzhuodecisiverestraint/"

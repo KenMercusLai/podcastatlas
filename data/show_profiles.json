@@ -2854,7 +2854,7 @@
       "earliest_episode_date": "2025-08-19",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
-      "source_note_count": 5,
+      "source_note_count": 6,
       "topic_matched_source_note_count": 3,
       "topics": [
         {
@@ -2876,7 +2876,7 @@
           "title": "Luo Yonghao",
           "url": "/wiki/entities/luoyonghao/",
           "kind": "person",
-          "episode_count": 3
+          "episode_count": 4
         }
       ],
       "start_here_episode_files": [

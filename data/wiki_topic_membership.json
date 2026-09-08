@@ -22757,6 +22757,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "EthicalTriageUnderScarcity": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "EuclideanProofTraining": [
     {
       "key": "culture",
@@ -39882,6 +39889,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "LuxuryStatusSignalEfficiency": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "LyndonBJohnson": [
@@ -57968,6 +57982,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SnobberyAsValueRanking": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "SnowWhiteAndTheSevenDwarfs": [

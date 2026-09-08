@@ -3571,6 +3571,10 @@
     "title": "Afrobarometer",
     "url": "/wiki/entities/afrobarometer/"
   },
+  "AfterHoursPowerBoundary": {
+    "title": "下班后权力边界 / After-Hours Power Boundary",
+    "url": "/wiki/concepts/afterhourspowerboundary/"
+  },
   "AfterlifeMoralAccounting": {
     "title": "Afterlife Moral Accounting",
     "url": "/wiki/concepts/afterlifemoralaccounting/"
@@ -13943,6 +13947,10 @@
     "title": "Crisis Opportunity Conversion / 危机机会转化",
     "url": "/wiki/concepts/crisisopportunityconversion/"
   },
+  "CrisisOptimismTransparencyTradeoff": {
+    "title": "危机乐观与透明度权衡 / Crisis Optimism Transparency Tradeoff",
+    "url": "/wiki/concepts/crisisoptimismtransparencytradeoff/"
+  },
   "CrisisPersistenceCounsel": {
     "title": "Crisis Persistence Counsel / 危局坚守进言",
     "url": "/wiki/concepts/crisispersistencecounsel/"
@@ -15874,6 +15882,10 @@
   "DiagnosticSafetyNetting": {
     "title": "Diagnostic Safety Netting / 诊断安全网",
     "url": "/wiki/concepts/diagnosticsafetynetting/"
+  },
+  "DiamondRomanceMarketingTrap": {
+    "title": "钻戒浪漫营销陷阱 / Diamond Romance Marketing Trap",
+    "url": "/wiki/concepts/diamondromancemarketingtrap/"
   },
   "DianWei": {
     "title": "典韦 / Dian Wei",
@@ -18874,6 +18886,10 @@
   "EthanWu": {
     "title": "Ethan Wu",
     "url": "/wiki/entities/ethanwu/"
+  },
+  "EthicalTriageUnderScarcity": {
+    "title": "稀缺情境下的伦理分诊 / Ethical Triage Under Scarcity",
+    "url": "/wiki/concepts/ethicaltriageunderscarcity/"
   },
   "EthnographicEverydayFriction": {
     "title": "Ethnographic Everyday Friction / 民族志日常摩擦",
@@ -27099,6 +27115,10 @@
     "title": "Huizhou Prefecture / 徽州",
     "url": "/wiki/entities/huizhouprefecture/"
   },
+  "HulanStandup": {
+    "title": "呼兰 / Hulan",
+    "url": "/wiki/entities/hulanstandup/"
+  },
   "Hulu": {
     "title": "Hulu",
     "url": "/wiki/entities/hulu/"
@@ -31043,6 +31063,10 @@
     "title": "开封定都取舍 / Kaifeng Capital Tradeoff",
     "url": "/wiki/concepts/kaifengcapitaltradeoff/"
   },
+  "KaihuaClub": {
+    "title": "开花俱乐部 / Kaihua Club",
+    "url": "/wiki/entities/kaihuaclub/"
+  },
   "Kailas": {
     "title": "Kailas / 凯乐石",
     "url": "/wiki/entities/kailas/"
@@ -31858,6 +31882,10 @@
   "KuaiYue": {
     "title": "蒯越 / Kuai Yue",
     "url": "/wiki/entities/kuaiyue/"
+  },
+  "KuaigeStandup": {
+    "title": "快哥 / Kuaige",
+    "url": "/wiki/entities/kuaigestandup/"
   },
   "KuaijiCommandery": {
     "title": "会稽郡 / Kuaiji Commandery",
@@ -35494,6 +35522,10 @@
   "LuxuryScarcityDiscipline": {
     "title": "Luxury Scarcity Discipline",
     "url": "/wiki/concepts/luxuryscarcitydiscipline/"
+  },
+  "LuxuryStatusSignalEfficiency": {
+    "title": "奢侈品身份信号效率 / Luxury Status Signal Efficiency",
+    "url": "/wiki/concepts/luxurystatussignalefficiency/"
   },
   "LvDoctorENT": {
     "title": "耳鼻喉吕博士 / Dr. Lv (ENT)",
@@ -51919,6 +51951,10 @@
     "title": "Snapchat",
     "url": "/wiki/entities/snapchat/"
   },
+  "SnobberyAsValueRanking": {
+    "title": "势利作为价值排序 / Snobbery As Value Ranking",
+    "url": "/wiki/concepts/snobberyasvalueranking/"
+  },
   "SnowWhiteAndTheSevenDwarfs": {
     "title": "Snow White and the Seven Dwarfs",
     "url": "/wiki/entities/snowwhiteandthesevendwarfs/"
@@ -53206,6 +53242,10 @@
   "StatusDrivenCommandFailure": {
     "title": "面子驱动的指挥失误 / Status-Driven Command Failure",
     "url": "/wiki/concepts/statusdrivencommandfailure/"
+  },
+  "StatusFilteredSocialInvestment": {
+    "title": "身份过滤式社交投资 / Status-Filtered Social Investment",
+    "url": "/wiki/concepts/statusfilteredsocialinvestment/"
   },
   "StatusFilteredTalentMisrecognition": {
     "title": "Status-Filtered Talent Misrecognition / 门第筛选式人才误判",
@@ -62239,6 +62279,10 @@
     "title": "芈八子 / 宣太后 / Xuan Taihou",
     "url": "/wiki/entities/xuantaihou/"
   },
+  "XuanZongStandup": {
+    "title": "选总 / Xuanzong",
+    "url": "/wiki/entities/xuanzongstandup/"
+  },
   "Xuanzang": {
     "title": "玄奘",
     "url": "/wiki/entities/xuanzang/"
@@ -67674,6 +67718,10 @@
   "luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f": {
     "title": "罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！",
     "url": "/wiki/sources/luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f/"
+  },
+  "luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos": {
+    "title": "罗永浩的X字路口！我们能活到今天，多亏了祖传的势利眼",
+    "url": "/wiki/sources/luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos/"
   },
   "luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx": {
     "title": "罗永浩的X字路口！一年一度装x大会",

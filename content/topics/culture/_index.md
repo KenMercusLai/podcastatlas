@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2591
+topic_total_pages: 2592
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2743,6 +2743,9 @@ topic_concepts:
   - key: "ShishosetsuAutobiographicalReading"
     title: "私小说式自传阅读 / Shishosetsu Autobiographical Reading"
     url: "/wiki/concepts/shishosetsuautobiographicalreading/"
+  - key: "EthicalTriageUnderScarcity"
+    title: "稀缺情境下的伦理分诊 / Ethical Triage Under Scarcity"
+    url: "/wiki/concepts/ethicaltriageunderscarcity/"
   - key: "SuoYinReading"
     title: "索隐式阅读 / Suo Yin Reading"
     url: "/wiki/concepts/suoyinreading/"

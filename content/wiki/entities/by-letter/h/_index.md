@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9363
+wiki_total_pages: 9367
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -872,6 +872,9 @@ wiki_pages:
   - key: "HousheNansheng"
     title: "后舍男生 / Houshe Nansheng"
     url: "/wiki/entities/houshenansheng/"
+  - key: "HulanStandup"
+    title: "呼兰 / Hulan"
+    url: "/wiki/entities/hulanstandup/"
   - key: "HuchuquanChanyu"
     title: "呼厨泉 / Huchuquan Chanyu"
     url: "/wiki/entities/huchuquanchanyu/"

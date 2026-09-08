@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1b11804800b2062ea35d10878a264d1f33cfa6f054078456c33da0a3ea760c61",
       "adff47fc0ad6edbdbfa1cae8035aeef6e6a622f6a3172c363ec418fe5912d983",
       "4a668cc2e01ca2d1623402a34fc0d217ca031493b1455fdce9e73c949b649e5d",
       "993a336b4cbfa8e8effe11c6197e41d99a7a73bf3a265ebb4fa9939bda3f4928",
@@ -598,11 +599,48 @@
       "08ce087b5036dedcaf145e2c88ca51ea2070e265e9815cfe93ea1755ee057d3f",
       "6701e8b392caf729c79e1e660e6d138d48a06b0d176497dfeb0b07df834cfc04"
     ],
-    "paragraph_count": 596
+    "paragraph_count": 597
   },
-  "overview_commit": "f90e5a5140e205fb48f89c4cebdd55e323514f97",
-  "overview_digest": "9e534b1b3537eb42ef467dca0a774c03e4664c964e0b4fb97c37ddb7d770ba31",
+  "overview_commit": "160365e113cc22a84e350bf605d9c53d2c2fce23",
+  "overview_digest": "4695a0404b1647ad738685a4dcb7535ed250dea8754724ce45d12f6e76fff22a",
   "paragraphs": [
+    {
+      "id": "1b11804800b2062ea35d10878a264d1f33cfa6f054078456c33da0a3ea760c61",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos|罗永浩的X字路口！我们能活到今天，多亏了祖传的势利眼]], a [[LuoyonghaosCrossroads|罗永浩的十字路口]] and [[SixiaoComedy|四孝喜剧]] live panel with [[LuoYonghao|罗永浩]], [[KuaigeStandup|快哥]], [[HulanStandup|呼兰]], [[WangJiye|王继业 / 王季叶]], and [[XuanZongStandup|选总]] on \"势利,\" ethical dilemmas, comedy-industry hierarchy, workplace power, and consumption symbols. It adds [[KuaigeStandup|快哥]], [[HulanStandup|呼兰]], [[XuanZongStandup|选总]], [[KaihuaClub|开花俱乐部]], [[SnobberyAsValueRanking|势利作为价值排序]], [[StatusFilteredSocialInvestment|身份过滤式社交投资]], [[EthicalTriageUnderScarcity|稀缺情境下的伦理分诊]], [[AfterHoursPowerBoundary|下班后权力边界]], [[CrisisOptimismTransparencyTradeoff|危机乐观与透明度权衡]], [[DiamondRomanceMarketingTrap|钻戒浪漫营销陷阱]], and [[LuxuryStatusSignalEfficiency|奢侈品身份信号效率]], while extending [[LuoYonghao]], [[LuoyonghaosCrossroads|罗永浩的十字路口]], [[SixiaoComedy|四孝喜剧]], [[WangJiye]], [[DunbarNumber|邓巴数]], [[SocialComparisonPressure|社会比较压力]], [[ZhuangbiAsSocialSignaling]], [[CulturalGapStatusSignaling]], [[MiddleClassConsumptionPressure]], and [[FriendLendingBoundary]]. Its core synthesis is that snobbery is both morally suspect and socially functional: limited attention, opportunity, institutional capacity, and symbolic goods force ranking, but the episode asks whether those rankings become contempt, unfairness, coercive workplace pressure, or expensive proof of love and status. No settled contradiction is recorded; guest biographies, name spelling, Kaihua Club operations, and market claims about diamonds or luxury goods remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "governance-and-institutions": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AfterHoursPowerBoundary",
+        "CrisisOptimismTransparencyTradeoff",
+        "CulturalGapStatusSignaling",
+        "DiamondRomanceMarketingTrap",
+        "DunbarNumber",
+        "EthicalTriageUnderScarcity",
+        "FriendLendingBoundary",
+        "HulanStandup",
+        "KaihuaClub",
+        "KuaigeStandup",
+        "LuoYonghao",
+        "LuoyonghaosCrossroads",
+        "LuxuryStatusSignalEfficiency",
+        "MiddleClassConsumptionPressure",
+        "SixiaoComedy",
+        "SnobberyAsValueRanking",
+        "SocialComparisonPressure",
+        "StatusFilteredSocialInvestment",
+        "WangJiye",
+        "XuanZongStandup",
+        "ZhuangbiAsSocialSignaling",
+        "luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos"
+      ]
+    },
     {
       "id": "adff47fc0ad6edbdbfa1cae8035aeef6e6a622f6a3172c363ec418fe5912d983",
       "primary_topic": "business-and-markets",

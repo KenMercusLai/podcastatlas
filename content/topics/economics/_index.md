@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1969
+topic_total_pages: 1970
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -2908,6 +2908,9 @@ topic_concepts:
   - key: "MerchantComposureDiscipline"
     title: "商人定气功夫 / Merchant Composure Discipline"
     url: "/wiki/concepts/merchantcomposurediscipline/"
+  - key: "LuxuryStatusSignalEfficiency"
+    title: "奢侈品身份信号效率 / Luxury Status Signal Efficiency"
+    url: "/wiki/concepts/luxurystatussignalefficiency/"
   - key: "PalaceMarketTheater"
     title: "宫市游乐式权力错位 / Palace Market Theater"
     url: "/wiki/concepts/palacemarkettheater/"

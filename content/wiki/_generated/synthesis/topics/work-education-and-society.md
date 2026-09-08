@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-09
-as_of_overview_commit: 9941494294ea2128454364abc51e4e289e1fd534
-input_digest: 32816bddc6faffd87644c3bdf9bb2dbf4571b53c2129e46be11f46fb0c541c50
+as_of_overview_commit: 160365e113cc22a84e350bf605d9c53d2c2fce23
+input_digest: a5937864c534d1daf42c86ca6bbcd743b5194bd0251f020587f9149aab90f888
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The Hong Kong football source adds a work-and-society case in which early professional sport remained partly semi-professional: paid players, signing fees, club wages, stable jobs arranged by corporate teams, and owner-control preferences all shaped labor and institutional identity. The broader topic continues to synthesize how work, education, care, creator labor, travel, and social institutions depend on practical routines, trust, incentives, and human judgment rather than formal labels alone. The Tong Li episode enters this topic only as a source-scoped public-education case: sex education is framed as life-course learning that needs safety, consent, law, relationship context, and age-appropriate boundaries rather than a fixed school-only information transfer. The SanWuHuan e-bike source adds a narrow founder-work case: investment knowledge changes when exposed to operator responsibility, overseas trust-building, team capability, service burden, and AI-native workflow redesign. Hanji 658 contributes a coercive-labor edge: monetary enforcement and collective punishment split households and convert ordinary people into forced service during late-Xin collapse. EP86 adds a work-and-learning workflow branch: task management, career bottlenecks, upward decisions, learning time, and creator production are framed as systems that need process diagnosis, WIP limits, slack, review, and feedback loops.
+The Hong Kong football source adds a work-and-society case in which early professional sport remained partly semi-professional: paid players, signing fees, club wages, stable jobs arranged by corporate teams, and owner-control preferences all shaped labor and institutional identity. The broader topic continues to synthesize how work, education, care, creator labor, travel, and social institutions depend on practical routines, trust, incentives, and human judgment rather than formal labels alone. The Tong Li episode enters this topic only as a source-scoped public-education case: sex education is framed as life-course learning that needs safety, consent, law, relationship context, and age-appropriate boundaries rather than a fixed school-only information transfer. The SanWuHuan e-bike source adds a narrow founder-work case: investment knowledge changes when exposed to operator responsibility, overseas trust-building, team capability, service burden, and AI-native workflow redesign. Hanji 658 contributes a coercive-labor edge: monetary enforcement and collective punishment split households and convert ordinary people into forced service during late-Xin collapse. EP86 adds a work-and-learning workflow branch: task management, career bottlenecks, upward decisions, learning time, and creator production are framed as systems that need process diagnosis, WIP limits, slack, review, and feedback loops. The Luo Yonghao/Sixiao Comedy snobbery panel adds a work-and-society branch where limited attention, institutional slots, workplace hierarchy, and small-team management turn status judgment into practical but morally costly triage.
 
 ## Cross-source Findings
 
@@ -732,3 +732,15 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 
 - This is a source-scoped work-and-self-management synthesis, not individualized career, mental-health, or productivity advice.
 - Some work systems need parallel WIP, external dependencies, or specialist support that the episode only treats at a framework level.
+
+### Snobbery Panel Turns Status Judgment Into Workplace And Education Triage
+
+[[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos|The Luo Yonghao/Sixiao Comedy snobbery panel]] adds that status judgment becomes a work-education-and-society problem when [[SnobberyAsValueRanking]] meets scarce attention, admissions slots, career opportunities, and workplace hierarchy: [[StatusFilteredSocialInvestment]], [[EthicalTriageUnderScarcity]], [[AfterHoursPowerBoundary]], [[CrisisOptimismTransparencyTradeoff]], and [[KaihuaClub]] show selective help, donor-backed school access, boss invitations, crisis communication, and small-team authority as morally mixed allocation problems.
+
+**Evidence:** [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]], [[SnobberyAsValueRanking]], [[StatusFilteredSocialInvestment]], [[EthicalTriageUnderScarcity]], [[AfterHoursPowerBoundary]], [[CrisisOptimismTransparencyTradeoff]], [[KaihuaClub]], [[KuaigeStandup]], [[HulanStandup]], [[XuanZongStandup]], [[LuoYonghao]], [[SixiaoComedy]], [[DunbarNumber]], [[SocialComparisonPressure]]
+
+**Qualifications:**
+
+- The source is an improvised live comedy panel, not a formal ethics, education-policy, labor-law, or organizational-behavior study.
+- School-admission, lifeboat, survival, company-crisis, and club-management scenarios are treated as dilemma tests rather than settled rules.
+- Guest biographies, Kaihua Club operations, and 王继业/王季叶 spelling remain source-scoped.

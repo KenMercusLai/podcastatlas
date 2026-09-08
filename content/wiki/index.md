@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [罗永浩的X字路口！我们能活到今天，多亏了祖传的势利眼](sources/luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos.md) — 罗永浩的十字路口 and 四孝喜剧 live panel on snobbery as value ranking, ethical triage, comedy-industry status, workplace power, crisis transparency, diamonds, romantic rituals, and luxury status signals.
 - [总第069期 五周年台庆特辑 | 大主播vs小播客【上】：播客到底有啥好做的](sources/zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u.md) — 读报teleread fifth-anniversary upper-half special with 月下瑶 on independent podcast sustainability, article selection, English and news writing, audio-production phases, tipping, comments, 48-hour data, and the creator/productization tension.
 - [EP86 颠覆工作流，效率提升3000%](sources/ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k.md) — 纵横四海 Mini MBA episode translating operations management into personal and organizational workflow design through constraints, WIP, queues, critical paths, bullwhip effects, TPS, agile, and Lean Startup feedback.
 - [《欢迎来龙餐馆》《空枪》说明中国电影还处理不了复杂政治问题](sources/huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1.md) — 电影巨辩 episode on mainland Chinese commercial cinema's difficulty handling Iraq-war politics, ordinary humanitarianism, Hong Kong crime-film inheritance, 1997 teleology, and Greater Bay Area-era film rewriting.
@@ -2036,6 +2037,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [快哥 / Kuaige](entities/KuaigeStandup.md) — Comedian and Kaihua Club operator in the Luo Yonghao/Sixiao Comedy snobbery panel.
+- [呼兰 / Hulan](entities/HulanStandup.md) — Comedian and panel participant whose answers stress low-friction social interpretation, prior commitments, fairness, and club authority boundaries.
+- [选总 / Xuanzong](entities/XuanZongStandup.md) — Panel participant used for workplace-status feedback and diamond-ring consumption examples.
+- [开花俱乐部 / Kaihua Club](entities/KaihuaClub.md) — Small comedy organization used as a case for sincerity-based survival, employee pressure, and authority boundaries.
 - [老麦 / Michael](entities/LaoMaiSspai.md) — Disambiguated 少数派 founder and former 主机网 community organizer from the No.229 三五环 interview.
 - [少数派 / Sspai](entities/Sspai.md) — Digital-life media and community platform traced from app recommendation into author systems, paid content, product co-creation, and offline spaces.
 - [主机网](entities/ZhiJiWang.md) — Palm and webOS-centered BBS community that preceded 少数派 in 老麦's source account.
@@ -11403,6 +11408,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [势利作为价值排序 / Snobbery As Value Ranking](concepts/SnobberyAsValueRanking.md) — Reframes snobbery as ranking people across scarce valued traits including wealth, intelligence, taste, appearance, morality, and values.
+- [身份过滤式社交投资 / Status-Filtered Social Investment](concepts/StatusFilteredSocialInvestment.md) — Allocation of attention, warmth, help, and opportunity according to current or expected future status.
+- [稀缺情境下的伦理分诊 / Ethical Triage Under Scarcity](concepts/EthicalTriageUnderScarcity.md) — Dilemma pattern where survival, fairness, talent, utility, and institutional capacity force morally costly selection.
+- [下班后权力边界 / After-Hours Power Boundary](concepts/AfterHoursPowerBoundary.md) — Management norm that boss invitations outside work remain power-sensitive because refusal may not feel free.
+- [危机乐观与透明度权衡 / Crisis Optimism Transparency Tradeoff](concepts/CrisisOptimismTransparencyTradeoff.md) — Leadership dilemma between morale-preserving optimism and employee rights to know organizational risk.
+- [钻戒浪漫营销陷阱 / Diamond Romance Marketing Trap](concepts/DiamondRomanceMarketingTrap.md) — Consumer pattern where diamond rings and romantic goods become love-proof and status rituals through marketing and social pressure.
+- [奢侈品身份信号效率 / Luxury Status Signal Efficiency](concepts/LuxuryStatusSignalEfficiency.md) — How luxury objects can act as fast class, resource, taste, and business-value signals in status-sensitive settings.
 - [Enthusiast Device Community / 发烧设备社区](concepts/EnthusiastDeviceCommunity.md) — User community pattern around technically demanding devices, ROMs, apps, forums, developer support, and fragile upstream platforms.
 - [App Recommendation Media / 应用推荐媒体](concepts/AppRecommendationMedia.md) — Mobile-app curation media based on hands-on testing, usage explanation, workflows, and trusted filtering.
 - [Niche Community Value / 小众社区价值](concepts/NicheCommunityValue.md) — Strategic value of smaller communities with dense trust, skill, creator output, and taste alignment.

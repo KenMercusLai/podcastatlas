@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6771
+wiki_total_pages: 6778
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -2087,6 +2087,9 @@ wiki_pages:
   - key: "CrisisMigrationJudgment"
     title: "危局迁徙判断 / Crisis Migration Judgment"
     url: "/wiki/concepts/crisismigrationjudgment/"
+  - key: "CrisisOptimismTransparencyTradeoff"
+    title: "危机乐观与透明度权衡 / Crisis Optimism Transparency Tradeoff"
+    url: "/wiki/concepts/crisisoptimismtransparencytradeoff/"
   - key: "ChineseMysteryPublishingEcology"
     title: "国产推理出版生态 / Chinese Mystery Publishing Ecology"
     url: "/wiki/concepts/chinesemysterypublishingecology/"
