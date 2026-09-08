@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [我们如何老去？从《前浪》窥见中国老年生活的真实图景](sources/women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up.md) — 不合时宜 episode on 《前浪2》, appointed guardianship, elder intimacy, care dignity, documentary restraint, and older-adult stereotype resistance.
 - [《资治通鉴·汉纪》668丨中国古代百大武将：东汉之寇恂](sources/zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5.md) — Gengshi 1-2 / 23-24 CE backfill on Kou Xun's Shanggu seal-return credibility intervention, Liu Xiu's Hebei order-building, Deng Yu's early allegiance and Liu Xuan critique, and Wang Lang's rumor-tested Liu Ziyu claim.
 - [王晶×罗永浩！谁还记得大导演张彻楚原？我死了什么都不需要留下](sources/wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np.md) — 罗永浩的十字路口 interview with Wang Jing on Hong Kong film's TVB talent pipeline, Taiwan market base, commercial genre logic, gang pressure, piracy, northbound production, and AI-era performance limits.
 - [史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者](sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn.md) — 史蒂夫说 interview with Jiang Tao on Anding Hospital psychiatry, adolescent school refusal, diagnostic-label caution, workforce shortage, crisis boundaries, and regular care.
@@ -2097,7 +2098,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [普洱 / Pu'er, Yunnan](entities/PuerYunnan.md) — Yunnan coffee area used as the episode's commercial-base comparison point.
 - [保山 / Baoshan, Yunnan](entities/BaoshanYunnan.md) — Yunnan coffee area used as the episode's earlier specialty-coffee comparison point.
 - [Rhode Beauty](entities/RhodeBeauty.md) — Hailey Bieber-linked beauty brand used here as a source-scoped example of lip-product phone-case accessorization.
-- [不合时宜 / Bu He Shi Yi](entities/BuHeShiYi.md) — Chinese podcast represented here by care-series episodes on dementia, autism, disability, family caregiving, and public support systems.
+- [《前浪2》 / Front Wave 2 Documentary](entities/FrontWave2Documentary.md) — Aging documentary discussed by 不合时宜 through cases on guardianship, companionship, elder care, property, and representation.
+- [范世广 / Fan Shiguang](entities/FanShiguang.md) — Documentary director interviewed about 《前浪2》, aging representation, fact-centered restraint, and abandoned storylines.
+- [李晨阳 / Li Chenyang](entities/LiChenyangNotary.md) — Shanghai Putuo notary whose appointed-guardianship and elder-property cases anchor the 《前浪2》 discussion.
+- [不合时宜 / Bu He Shi Yi](entities/BuHeShiYi.md) — Chinese podcast represented here by care-series episodes on dementia, autism, disability, family caregiving, appointed guardianship, and public support systems.
 - [王磬 / Wang Qing](entities/WangQingBuHeShiYi.md) — 不合时宜 host in the autism and Xiaomei gene-editing episode.
 - [许悦 / Xu Yue](entities/XuYueAutismScholar.md) — Autism and disability scholar interviewed by 不合时宜 on gene-editing ethics, autism support, and family advocacy.
 - [小美基因编辑事件 / Xiaomei Gene-Editing Case](entities/XiaoMeiGeneEditingCase.md) — Source-scoped case used to examine high-risk gene editing, disability devaluation, informed consent, and cure pressure.
@@ -11393,6 +11397,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Secular Buddhism Appeal](concepts/SecularBuddhismAppeal.md) — Pattern where Buddhist practices attract young secular Koreans by offering calm and perspective without deity-centered belief.
 - [Commercialized Religious Adaptation](concepts/CommercializedReligiousAdaptation.md) — Use of events, merchandise, media formats, and paid experiences to make religious traditions accessible to new audiences.
 - [Psychiatric Functional Diagnosis / 精神科功能受损诊断](concepts/PsychiatricFunctionalDiagnosis.md) — Diagnostic-literacy frame that psychiatric assessment depends on symptoms, course, context, and functional impairment rather than online scales or self-labeling.
+- [Appointed Guardianship Aging Planning / 意定监护养老规划](concepts/AppointedGuardianshipAgingPlanning.md) — Late-life legal planning for preselecting a decision maker before incapacity when family defaults no longer cover care needs.
+- [Elder Intimacy And Care Autonomy / 老年亲密与照护自主](concepts/ElderIntimacyCareAutonomy.md) — Frame for evaluating older adults' companionship, care labor, sex, property, and autonomy without flattening them into suspicion or sentimentality.
+- [Documentary Ethical Restraint / 纪录片伦理克制](concepts/DocumentaryEthicalRestraint.md) — Documentary method that lets facts, source boundaries, and possible harm constrain interpretation and editing.
+- [Older Adult Stereotype Resistance / 老年人刻板印象抵抗](concepts/OlderAdultStereotypeResistance.md) — Anti-ageist representation frame that treats older people as specific subjects rather than a uniform category.
 - [Serious Mental Illness Family Care Boundary / 重性精神障碍家属照护边界](concepts/SeriousMentalIllnessFamilyCareBoundary.md) — Family-care boundary separating treatment support and safety from guilt-driven unlimited sacrifice.
 - [Mental Illness Destigmatization / 精神疾病去污名化](concepts/MentalIllnessDestigmatization.md) — Anti-shame frame for treating psychiatric disorders as illnesses while preserving risk, treatment, privacy, and diagnostic boundaries.
 - [Somatization As Body Alarm / 躯体化作为身体报警](concepts/SomatizationAsBodyAlarm.md) — Body-emotion frame for distress appearing as physical symptoms while still requiring medical exclusion and clinical judgment.

@@ -8221,6 +8221,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AppointedGuardianshipAgingPlanning": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AppointmentQualityAsStateCapacity": [
     {
       "key": "politics",
@@ -19991,6 +19998,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "DocumentaryEthicalRestraint": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "DollarFinancialSanctions": [

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2240
+topic_total_pages: 2241
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -244,6 +244,9 @@ topic_concepts:
   - key: "AppeasementLogic"
     title: "Appeasement Logic / 绥靖逻辑"
     url: "/wiki/concepts/appeasementlogic/"
+  - key: "AppointedGuardianshipAgingPlanning"
+    title: "Appointed Guardianship Aging Planning / 意定监护养老规划"
+    url: "/wiki/concepts/appointedguardianshipagingplanning/"
   - key: "ArbitraryAuthorityProcedure"
     title: "Arbitrary Authority Procedure"
     url: "/wiki/concepts/arbitraryauthorityprocedure/"

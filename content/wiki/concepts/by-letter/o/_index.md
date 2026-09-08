@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6708
+wiki_total_pages: 6712
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -161,6 +161,9 @@ wiki_pages:
   - key: "OldMastersMarketRevival"
     title: "Old Masters Market Revival"
     url: "/wiki/concepts/oldmastersmarketrevival/"
+  - key: "OlderAdultStereotypeResistance"
+    title: "Older Adult Stereotype Resistance / 老年人刻板印象抵抗"
+    url: "/wiki/concepts/olderadultstereotyperesistance/"
   - key: "OlderWorkerAIRetirement"
     title: "Older Worker AI Retirement"
     url: "/wiki/concepts/olderworkerairetirement/"

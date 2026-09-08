@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9307
+wiki_total_pages: 9310
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "FifthDimension"
     title: "The Fifth Dimension / 第五维度"
     url: "/wiki/entities/fifthdimension/"
+  - key: "FrontWave2Documentary"
+    title: "《前浪2》 / Front Wave 2 Documentary"
+    url: "/wiki/entities/frontwave2documentary/"
   - key: "Flatland"
     title: "《平面国》 / Flatland"
     url: "/wiki/entities/flatland/"
@@ -863,6 +866,9 @@ wiki_pages:
   - key: "FeiYi"
     title: "肥义 / Fei Yi"
     url: "/wiki/entities/feiyi/"
+  - key: "FanShiguang"
+    title: "范世广 / Fan Shiguang"
+    url: "/wiki/entities/fanshiguang/"
   - key: "FanYiLateHan"
     title: "范仪 / Fan Yi (Late Han)"
     url: "/wiki/entities/fanyilatehan/"

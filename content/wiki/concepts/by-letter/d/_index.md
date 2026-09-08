@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6708
+wiki_total_pages: 6712
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -671,6 +671,9 @@ wiki_pages:
   - key: "DocumentChunking"
     title: "Document Chunking"
     url: "/wiki/concepts/documentchunking/"
+  - key: "DocumentaryEthicalRestraint"
+    title: "Documentary Ethical Restraint / 纪录片伦理克制"
+    url: "/wiki/concepts/documentaryethicalrestraint/"
   - key: "DollarFinancialSanctions"
     title: "Dollar Financial Sanctions"
     url: "/wiki/concepts/dollarfinancialsanctions/"

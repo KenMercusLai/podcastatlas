@@ -5644,6 +5644,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/applicationcompanymodelcapability/"
     },
+    "AppointedGuardianshipAgingPlanning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkyBUR9dGIM4VXxyJuQ1eav4I-UP [lkyBUR9dGIM4VXxyJuQ1eav4I-UP].md",
+          "key": "women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up",
+          "show": "不合时宜",
+          "title": "我们如何老去？从《前浪》窥见中国老年生活的真实图景",
+          "url": "/wiki/sources/women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/appointedguardianshipagingplanning/"
+    },
     "AppointmentQualityAsStateCapacity": {
       "episode_count": 9,
       "show_count": 1,
@@ -9438,9 +9454,9 @@
       "url": "/wiki/entities/bruceschneier/"
     },
     "BuHeShiYi": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
@@ -9455,9 +9471,16 @@
           "show": "不合时宜",
           "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
           "url": "/wiki/sources/cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b/"
+        },
+        {
+          "episode_file": "lkyBUR9dGIM4VXxyJuQ1eav4I-UP [lkyBUR9dGIM4VXxyJuQ1eav4I-UP].md",
+          "key": "women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up",
+          "show": "不合时宜",
+          "title": "我们如何老去？从《前浪》窥见中国老年生活的真实图景",
+          "url": "/wiki/sources/women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-08",
       "url": "/wiki/entities/buheshiyi/"
     },
     "BuYangLateHan": {
@@ -18837,6 +18860,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/doctorpatientcommunication/"
     },
+    "DocumentaryEthicalRestraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkyBUR9dGIM4VXxyJuQ1eav4I-UP [lkyBUR9dGIM4VXxyJuQ1eav4I-UP].md",
+          "key": "women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up",
+          "show": "不合时宜",
+          "title": "我们如何老去？从《前浪》窥见中国老年生活的真实图景",
+          "url": "/wiki/sources/women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/documentaryethicalrestraint/"
+    },
     "DollyParton": {
       "episode_count": 2,
       "show_count": 2,
@@ -21019,6 +21058,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/eldercarestatecapacity/"
+    },
+    "ElderIntimacyCareAutonomy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkyBUR9dGIM4VXxyJuQ1eav4I-UP [lkyBUR9dGIM4VXxyJuQ1eav4I-UP].md",
+          "key": "women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up",
+          "show": "不合时宜",
+          "title": "我们如何老去？从《前浪》窥见中国老年生活的真实图景",
+          "url": "/wiki/sources/women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/elderintimacycareautonomy/"
     },
     "ElectionAdministrationTrust": {
       "episode_count": 2,
@@ -24736,6 +24791,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/fanqinlatehan/"
     },
+    "FanShiguang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkyBUR9dGIM4VXxyJuQ1eav4I-UP [lkyBUR9dGIM4VXxyJuQ1eav4I-UP].md",
+          "key": "women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up",
+          "show": "不合时宜",
+          "title": "我们如何老去？从《前浪》窥见中国老年生活的真实图景",
+          "url": "/wiki/sources/women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/fanshiguang/"
+    },
     "FanTiaoEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -27662,6 +27733,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/frontpackconversioneducation/"
+    },
+    "FrontWave2Documentary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkyBUR9dGIM4VXxyJuQ1eav4I-UP [lkyBUR9dGIM4VXxyJuQ1eav4I-UP].md",
+          "key": "women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up",
+          "show": "不合时宜",
+          "title": "我们如何老去？从《前浪》窥见中国老年生活的真实图景",
+          "url": "/wiki/sources/women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/frontwave2documentary/"
     },
     "FrontierCommandCollapse": {
       "episode_count": 3,
@@ -41444,6 +41531,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/lexisnexis/"
     },
+    "LiChenyangNotary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkyBUR9dGIM4VXxyJuQ1eav4I-UP [lkyBUR9dGIM4VXxyJuQ1eav4I-UP].md",
+          "key": "women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up",
+          "show": "不合时宜",
+          "title": "我们如何老去？从《前浪》窥见中国老年生活的真实图景",
+          "url": "/wiki/sources/women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/lichenyangnotary/"
+    },
     "LiDian": {
       "episode_count": 1,
       "show_count": 1,
@@ -53215,6 +53318,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/oilrevenuesanctionsleverage/"
+    },
+    "OlderAdultStereotypeResistance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkyBUR9dGIM4VXxyJuQ1eav4I-UP [lkyBUR9dGIM4VXxyJuQ1eav4I-UP].md",
+          "key": "women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up",
+          "show": "不合时宜",
+          "title": "我们如何老去？从《前浪》窥见中国老年生活的真实图景",
+          "url": "/wiki/sources/women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/olderadultstereotyperesistance/"
     },
     "OlfactoryTraining": {
       "episode_count": 1,

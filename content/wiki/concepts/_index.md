@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6708
+wiki_total_pages: 6712
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1784,6 +1784,9 @@ wiki_pages:
   - key: "AppliedAstrobiology"
     title: "Applied Astrobiology"
     url: "/wiki/concepts/appliedastrobiology/"
+  - key: "AppointedGuardianshipAgingPlanning"
+    title: "Appointed Guardianship Aging Planning / 意定监护养老规划"
+    url: "/wiki/concepts/appointedguardianshipagingplanning/"
   - key: "ApprenticeshipBeforeOriginality"
     title: "Apprenticeship Before Originality"
     url: "/wiki/concepts/apprenticeshipbeforeoriginality/"

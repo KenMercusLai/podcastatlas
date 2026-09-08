@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6708
+wiki_total_pages: 6712
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "ElderCareStateCapacity"
     title: "Elder Care State Capacity"
     url: "/wiki/concepts/eldercarestatecapacity/"
+  - key: "ElderIntimacyCareAutonomy"
+    title: "Elder Intimacy And Care Autonomy / 老年亲密与照护自主"
+    url: "/wiki/concepts/elderintimacycareautonomy/"
   - key: "ElderRelationshipCapital"
     title: "Elder Relationship Capital / 老年关系资本"
     url: "/wiki/concepts/elderrelationshipcapital/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2565
+topic_total_pages: 2566
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -844,6 +844,9 @@ topic_concepts:
   - key: "DivinePerspectiveAesthetics"
     title: "Divine Perspective Aesthetics"
     url: "/wiki/concepts/divineperspectiveaesthetics/"
+  - key: "DocumentaryEthicalRestraint"
+    title: "Documentary Ethical Restraint / 纪录片伦理克制"
+    url: "/wiki/concepts/documentaryethicalrestraint/"
   - key: "DomesticBookPrintingFlexibility"
     title: "Domestic Book Printing Flexibility"
     url: "/wiki/concepts/domesticbookprintingflexibility/"

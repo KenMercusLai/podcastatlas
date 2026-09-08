@@ -5551,6 +5551,10 @@
     "title": "受任地方长官割据风险 / Appointed Governor Secession Risk",
     "url": "/wiki/concepts/appointedgovernorsecessionrisk/"
   },
+  "AppointedGuardianshipAgingPlanning": {
+    "title": "Appointed Guardianship Aging Planning / 意定监护养老规划",
+    "url": "/wiki/concepts/appointedguardianshipagingplanning/"
+  },
   "AppointmentQualityAsStateCapacity": {
     "title": "任官适任性国家能力 / Appointment Quality as State Capacity",
     "url": "/wiki/concepts/appointmentqualityasstatecapacity/"
@@ -16315,6 +16319,10 @@
     "title": "Document Chunking",
     "url": "/wiki/concepts/documentchunking/"
   },
+  "DocumentaryEthicalRestraint": {
+    "title": "Documentary Ethical Restraint / 纪录片伦理克制",
+    "url": "/wiki/concepts/documentaryethicalrestraint/"
+  },
   "Dolby": {
     "title": "Dolby",
     "url": "/wiki/entities/dolby/"
@@ -17794,6 +17802,10 @@
   "ElderCareWorkforce": {
     "title": "Elder-Care Workforce / 养老照护人才",
     "url": "/wiki/concepts/eldercareworkforce/"
+  },
+  "ElderIntimacyCareAutonomy": {
+    "title": "Elder Intimacy And Care Autonomy / 老年亲密与照护自主",
+    "url": "/wiki/concepts/elderintimacycareautonomy/"
   },
   "ElderRelationshipCapital": {
     "title": "Elder Relationship Capital / 老年关系资本",
@@ -19582,6 +19594,10 @@
   "FanQinLateHan": {
     "title": "繁钦 / Fan Qin (late Han)",
     "url": "/wiki/entities/fanqinlatehan/"
+  },
+  "FanShiguang": {
+    "title": "范世广 / Fan Shiguang",
+    "url": "/wiki/entities/fanshiguang/"
   },
   "FanTiaoEasternHan": {
     "title": "樊鯈 / Fan Tiao (Eastern Han)",
@@ -21702,6 +21718,10 @@
   "FrontPackConversionEducation": {
     "title": "Front-Pack Conversion Education",
     "url": "/wiki/concepts/frontpackconversioneducation/"
+  },
+  "FrontWave2Documentary": {
+    "title": "《前浪2》 / Front Wave 2 Documentary",
+    "url": "/wiki/entities/frontwave2documentary/"
   },
   "FrontierAuxiliarySupplyFailure": {
     "title": "Frontier Auxiliary Supply Failure / 边兵粮饷供应失灵",
@@ -32755,6 +32775,10 @@
     "title": "李冰 / Li Bing",
     "url": "/wiki/entities/libing/"
   },
+  "LiChenyangNotary": {
+    "title": "李晨阳 / Li Chenyang",
+    "url": "/wiki/entities/lichenyangnotary/"
+  },
   "LiChongjin": {
     "title": "李重进 / Li Chongjin",
     "url": "/wiki/entities/lichongjin/"
@@ -40878,6 +40902,10 @@
   "OldMastersMarketRevival": {
     "title": "Old Masters Market Revival",
     "url": "/wiki/concepts/oldmastersmarketrevival/"
+  },
+  "OlderAdultStereotypeResistance": {
+    "title": "Older Adult Stereotype Resistance / 老年人刻板印象抵抗",
+    "url": "/wiki/concepts/olderadultstereotyperesistance/"
   },
   "OlderWorkerAIRetirement": {
     "title": "Older Worker AI Retirement",
@@ -69058,6 +69086,10 @@
   "women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1": {
     "title": "我们把 AI 塞进花店后，才知道AI落地有多脏",
     "url": "/wiki/sources/women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1/"
+  },
+  "women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up": {
+    "title": "我们如何老去？从《前浪》窥见中国老年生活的真实图景",
+    "url": "/wiki/sources/women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up/"
   },
   "women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv": {
     "title": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪",

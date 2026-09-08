@@ -15712,6 +15712,10 @@ Ingested the 2026-08-20 不懂球 sports-business episode comparing Adidas and N
 
 Ingested the 2026-08-28 不合时宜 care-series episode with Xu Yue on the Xiaomei gene-editing case, ableist cure pressure, autism as a neurodevelopmental spectrum and human difference, evidence-based early intervention, U.S. support systems, Chinese American family access barriers, and respectful public language. Added source `cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b`; created `XuYueAutismScholar`, `XiaoMeiGeneEditingCase`, `QiuZilong`, `WangQingBuHeShiYi`, `AbleistCurePressure`, `GeneEditingTreatmentEthics`, `AutismEarlyIntervention`, and `AutismSupportSystems`; updated `BuHeShiYi`, `AutismAsHumanDifference`, `AutismFamilySupport`, `AutismCureScamRisk`, `AutismSafeEnvironmentDesign`, and `index`. No settled contradiction found; medical responsibility, regulatory record, consent documents, research protocols, and the named research team's full response remain source-scoped.
 
+## [2026-09-08] ingest | 我们如何老去？从《前浪》窥见中国老年生活的真实图景
+
+Ingested the 2026-09-08 不合时宜 episode on 《前浪2》, appointed guardianship, late-life companionship, care dignity, elder stereotypes, documentary restraint, and Shanghai aging-city institutional practice. Added source `women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up`; created `FrontWave2Documentary`, `FanShiguang`, `LiChenyangNotary`, `AppointedGuardianshipAgingPlanning`, `ElderIntimacyCareAutonomy`, `DocumentaryEthicalRestraint`, and `OlderAdultStereotypeResistance`; updated `BuHeShiYi`, `index`, and `overview`. No settled contradiction found; exact legal procedures, Shanghai local implementation details, and full documentary production records remain source-scoped.
+
 ## [2026-09-07] ingest | 漫长的告别：失智症、照护者与终将老去的我们
 
 Ingested the 2026-08-31 不合时宜 episode with 唐勇 on dementia care, family caregivers, Shenzhen elder-care services, the Hogeweyk dementia village, and China's long-term-care-insurance development. Added source `manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez`; created `BuHeShiYi`, `TangYongSociologist`, `YiWangDeShiJieDementiaCareBook`, `HogeweykDementiaVillage`, `DementiaCareSocialSupportSystem`, `DementiaCaregiverBurden`, `DementiaPersonhoodMemory`, and `ChinaLongTermCareInsurance`; updated `CareSocialization`, `ElderCareStateCapacity`, `LongTermCareInsurancePlanning`, `index`, and `overview`. No settled contradiction found; Shenzhen service observations, dementia-care family cases, and 2026 long-term-care-insurance coverage claims remain source-scoped.
@@ -16079,6 +16083,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] ingest | 怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房
 
 Ingested the 2026-09-07 声动早咖啡 business-news episode on C'estbon pure-water share pressure, Maya Active's fitness-space strategy, Aura/Oura smart-ring subscriptions, DeepZ's reported Huawei-chip procurement, Foxconn AI servers, Volkswagen restructuring, Maserati-Huawei-JAC cooperation talks, credit-card contraction, and Aesop China retail reallocation. Added source `yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578`; created `Cestbon`, `MayaActive`, `PureFitness`, `AesopBeauty`, `HuaweiAscend950DT`, `Huabei`, `JDWhiteBar`, `BottledWaterChannelFragmentation`, `SportswearExperienceSpace`, `SmartRingHardwareSubscription`, `CreditCardScaleContraction`, and `BeautyRetailNetworkReallocation`; updated `PackagedWaterPriceWar`, `DeepZ`, `FoxconnIndustrialInternet`, `VolkswagenGroup`, `Stellantis`, `Maserati`, `AntaSports`, `OuraRing`, `index`, and `overview`. No settled contradiction found; the Aura/Oura spelling, chip order, IPO filing, share data, job-cut totals, and cooperation talks remain source-scoped.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-08] lint | Wiki health check
 
