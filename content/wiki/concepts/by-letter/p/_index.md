@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6712
+wiki_total_pages: 6717
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "PenaltyShootoutStrategy"
     title: "Penalty Shootout Strategy"
     url: "/wiki/concepts/penaltyshootoutstrategy/"
+  - key: "PennsylvaniaAIInfrastructureBoom"
+    title: "Pennsylvania AI Infrastructure Boom"
+    url: "/wiki/concepts/pennsylvaniaaiinfrastructureboom/"
   - key: "PennyStockBoilerRoomFraud"
     title: "Penny Stock Boiler Room Fraud"
     url: "/wiki/concepts/pennystockboilerroomfraud/"
@@ -1160,6 +1163,9 @@ wiki_pages:
   - key: "PrimaryElectorateDistortion"
     title: "Primary Electorate Distortion"
     url: "/wiki/concepts/primaryelectoratedistortion/"
+  - key: "PrimaryExtremismPressure"
+    title: "Primary Extremism Pressure"
+    url: "/wiki/concepts/primaryextremismpressure/"
   - key: "PrimeBorrowerCreditRisk"
     title: "Prime Borrower Credit Risk"
     url: "/wiki/concepts/primeborrowercreditrisk/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 9311
+wiki_total_pages: 9316
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "UnitedStatesPharmacopeia"
     title: "United States Pharmacopeia"
     url: "/wiki/entities/unitedstatespharmacopeia/"
+  - key: "UnitedStatesSenate"
+    title: "United States Senate"
+    url: "/wiki/entities/unitedstatessenate/"
   - key: "UnitedHealthcare"
     title: "UnitedHealthcare / 联合医保"
     url: "/wiki/entities/unitedhealthcare/"

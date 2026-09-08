@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "628ee99d6c87f88195c367e7a3157430c4a93220c221be6019e3fb43166a5d2d",
       "01efd245c7b2792a9e10bed09d5c5cea8817e44eeebf7d5f664f11fa3930339d",
       "b48d314ea783542efeb8ce77b613a48008d2e21bd1fff146f453efb7e2a9ab23",
       "fa90235a6e248fc16fa3221ee8dd7ca3790a29db999d154a09ec7bd032c8d0ba",
@@ -590,11 +591,54 @@
       "84dd49ac166e4697c7944d5e84ddfcbab4c58fe49670c3ea55a8fcc24b4214bf",
       "47f00b5a6071894a52decccac47bb644170058bfe2e6c4ee40872a73dd9fddea"
     ],
-    "paragraph_count": 588
+    "paragraph_count": 589
   },
-  "overview_commit": "a60a76fd9857da5586b392cfb6057bf4028d156e",
-  "overview_digest": "ac390ddc3589469b2fe76517514bcd030470601e0413b2bd9f5068cf97e13e5b",
+  "overview_commit": "e5449e19dae9b079ef87cc90dca040b5b5516ee4",
+  "overview_digest": "7880a3f435a64776e1be3f9c7bea0cb160446f0d5b06d7558eac2f0a6e267095",
   "paragraphs": [
+    {
+      "id": "628ee99d6c87f88195c367e7a3157430c4a93220c221be6019e3fb43166a5d2d",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230|Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner]], an [[AllIn|All-In]] episode using [[JohnFetterman|John Fetterman]] and [[DaveMcCormick|Dave McCormick]] as a [[Pennsylvania]] case for [[BipartisanSwingStateRepresentation]], Senate institutional restraint, and AI infrastructure politics. It adds [[JohnFetterman]], [[DaveMcCormick]], [[GrahamPlatner]], [[Pennsylvania]], [[UnitedStatesSenate]], [[BipartisanSwingStateRepresentation]], [[FilibusterMinorityRights]], [[PennsylvaniaAIInfrastructureBoom]], [[PrimaryExtremismPressure]], and [[CampaignSpendingArmsRace]], while extending [[DataCenterBacklash]], [[DataCenterCommunityConsent]], [[HyperscaleDataCenterMoratorium]], [[DataCenterPowerBottleneck]], [[AIEnergyBottleneck]], [[CraftLaborBottleneck]], [[GoodJobsForNonCollegeWorkers]], [[AIBacklashPolitics]], [[PrimaryElectorateDistortion]], [[DemocraticParty]], [[RepublicanParty]], [[Israel]], [[Iran]], [[China]], and [[DonaldTrump]]. Its core synthesis is that data-center politics is now also a Senate, swing-state, labor, and national-security question: Pennsylvania's energy and trades base can be framed as blue-collar AI infrastructure, but the same buildout must answer community consent, power, water, cost, and backlash concerns. No settled contradiction is recorded; the source's China-misinformation claims, investment totals, wage examples, campaign-spending figures, and candidate allegations remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 1,
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AIBacklashPolitics",
+        "AIEnergyBottleneck",
+        "AllIn",
+        "BipartisanSwingStateRepresentation",
+        "CampaignSpendingArmsRace",
+        "China",
+        "CraftLaborBottleneck",
+        "DataCenterBacklash",
+        "DataCenterCommunityConsent",
+        "DataCenterPowerBottleneck",
+        "DaveMcCormick",
+        "DemocraticParty",
+        "DonaldTrump",
+        "FilibusterMinorityRights",
+        "GoodJobsForNonCollegeWorkers",
+        "GrahamPlatner",
+        "HyperscaleDataCenterMoratorium",
+        "Iran",
+        "Israel",
+        "JohnFetterman",
+        "Pennsylvania",
+        "PennsylvaniaAIInfrastructureBoom",
+        "PrimaryElectorateDistortion",
+        "PrimaryExtremismPressure",
+        "RepublicanParty",
+        "UnitedStatesSenate",
+        "all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230"
+      ]
+    },
     {
       "id": "01efd245c7b2792a9e10bed09d5c5cea8817e44eeebf7d5f664f11fa3930339d",
       "primary_topic": "business-and-markets",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6712
+wiki_total_pages: 6717
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "BioTechToBioPharmTransition"
     title: "BioTech To BioPharm Transition"
     url: "/wiki/concepts/biotechtobiopharmtransition/"
+  - key: "BipartisanSwingStateRepresentation"
+    title: "Bipartisan Swing-State Representation"
+    url: "/wiki/concepts/bipartisanswingstaterepresentation/"
   - key: "BipolarCreativityCorrelation"
     title: "Bipolar Creativity Correlation"
     url: "/wiki/concepts/bipolarcreativitycorrelation/"

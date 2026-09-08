@@ -10888,6 +10888,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BipartisanSwingStateRepresentation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BipolarInteroceptionDecline": [
     {
       "key": "science",
@@ -12461,6 +12468,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "CampaignSpendingArmsRace": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CampbellLaw": [
@@ -18511,6 +18525,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "DaveMcCormick": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DavidAnderson": [
     {
       "key": "science",
@@ -24182,6 +24203,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "FilibusterMinorityRights": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FilmClipRemixAfterlife": [
     {
       "key": "culture",
@@ -28019,6 +28047,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "GrahamPlatner": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "GrahamSteele": [
@@ -34990,6 +35025,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "JohnFetterman": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JohnGideonMillingen": [
@@ -47587,6 +47629,20 @@
       "url": "/topics/history/"
     }
   ],
+  "Pennsylvania": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PennsylvaniaAIInfrastructureBoom": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "PennyStockBoilerRoomFraud": [
     {
       "key": "economics",
@@ -49764,6 +49820,13 @@
     }
   ],
   "PrimaryElectorateDistortion": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PrimaryExtremismPressure": [
     {
       "key": "politics",
       "label": "Politics",
@@ -65293,6 +65356,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "UnitedStatesSenate": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "UnitreeIPOValuation": [
     {
       "key": "technology",
@@ -72661,6 +72731,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335": [

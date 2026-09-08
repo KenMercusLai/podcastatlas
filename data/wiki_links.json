@@ -7807,6 +7807,10 @@
     "title": "Biotech License-Out Arbitrage",
     "url": "/wiki/concepts/biotechlicenseoutarbitrage/"
   },
+  "BipartisanSwingStateRepresentation": {
+    "title": "Bipartisan Swing-State Representation",
+    "url": "/wiki/concepts/bipartisanswingstaterepresentation/"
+  },
   "BipolarCreativityCorrelation": {
     "title": "Bipolar Creativity Correlation",
     "url": "/wiki/concepts/bipolarcreativitycorrelation/"
@@ -9282,6 +9286,10 @@
   "CampaignFinanceAccessIncentive": {
     "title": "军费通道利益驱动 / Campaign Finance Access Incentive",
     "url": "/wiki/concepts/campaignfinanceaccessincentive/"
+  },
+  "CampaignSpendingArmsRace": {
+    "title": "Campaign Spending Arms Race",
+    "url": "/wiki/concepts/campaignspendingarmsrace/"
   },
   "CampbellLaw": {
     "title": "Campbell's Law",
@@ -14983,6 +14991,10 @@
     "title": "Dave Jackson",
     "url": "/wiki/entities/davejackson/"
   },
+  "DaveMcCormick": {
+    "title": "Dave McCormick",
+    "url": "/wiki/entities/davemccormick/"
+  },
   "DaveReibstein": {
     "title": "Dave Reibstein",
     "url": "/wiki/entities/davereibstein/"
@@ -20347,6 +20359,10 @@
     "title": "Filial Revenge Public Sympathy",
     "url": "/wiki/concepts/filialrevengepublicsympathy/"
   },
+  "FilibusterMinorityRights": {
+    "title": "Filibuster Minority Rights",
+    "url": "/wiki/concepts/filibusterminorityrights/"
+  },
   "FilipAmtislavski": {
     "title": "Filip Amtislavski",
     "url": "/wiki/entities/filipamtislavski/"
@@ -23674,6 +23690,10 @@
   "GrahamHancock": {
     "title": "Graham Hancock",
     "url": "/wiki/entities/grahamhancock/"
+  },
+  "GrahamPlatner": {
+    "title": "Graham Platner",
+    "url": "/wiki/entities/grahamplatner/"
   },
   "GrahamSteele": {
     "title": "Graham Steele",
@@ -30186,6 +30206,10 @@
   "JohnFasman": {
     "title": "John Fasman",
     "url": "/wiki/entities/johnfasman/"
+  },
+  "JohnFetterman": {
+    "title": "John Fetterman",
+    "url": "/wiki/entities/johnfetterman/"
   },
   "JohnFisher": {
     "title": "John Fisher",
@@ -42707,6 +42731,14 @@
     "title": "Penn State",
     "url": "/wiki/entities/pennstate/"
   },
+  "Pennsylvania": {
+    "title": "Pennsylvania",
+    "url": "/wiki/entities/pennsylvania/"
+  },
+  "PennsylvaniaAIInfrastructureBoom": {
+    "title": "Pennsylvania AI Infrastructure Boom",
+    "url": "/wiki/concepts/pennsylvaniaaiinfrastructureboom/"
+  },
   "PennyStockBoilerRoomFraud": {
     "title": "Penny Stock Boiler Room Fraud",
     "url": "/wiki/concepts/pennystockboilerroomfraud/"
@@ -44498,6 +44530,10 @@
   "PrimaryElectorateDistortion": {
     "title": "Primary Electorate Distortion",
     "url": "/wiki/concepts/primaryelectoratedistortion/"
+  },
+  "PrimaryExtremismPressure": {
+    "title": "Primary Extremism Pressure",
+    "url": "/wiki/concepts/primaryextremismpressure/"
   },
   "PrimeBorrowerCreditRisk": {
     "title": "Prime Borrower Credit Risk",
@@ -57671,6 +57707,10 @@
     "title": "United States Pharmacopeia",
     "url": "/wiki/entities/unitedstatespharmacopeia/"
   },
+  "UnitedStatesSenate": {
+    "title": "United States Senate",
+    "url": "/wiki/entities/unitedstatessenate/"
+  },
   "UnitrancheLoan": {
     "title": "Unitranche Loan / 单级贷款",
     "url": "/wiki/concepts/unitrancheloan/"
@@ -65734,6 +65774,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230": {
     "title": "Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230": {
+    "title": "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335": {
     "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",

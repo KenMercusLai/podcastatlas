@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner](sources/all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230.md) — All-In episode with Pennsylvania senators John Fetterman and Dave McCormick on bipartisan Senate work, filibuster reversal, shutdown opposition, AI data-center politics, skilled-trades upside, China competition, extremist primaries, and campaign-spending escalation.
 - [《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？](sources/zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t.md) — Gengshi transition backfill on Wang Mang's Jian Terrace death, Du Wu's killing, head display, tongue-directed public revenge, Wang Xian's brief Chang'an seizure, Ban Gu's judgment, and Liu Xiu's Luoyang institutional-restoration opening.
 - [我们如何老去？从《前浪》窥见中国老年生活的真实图景](sources/women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up.md) — 不合时宜 episode on 《前浪2》, appointed guardianship, elder intimacy, care dignity, documentary restraint, and older-adult stereotype resistance.
 - [《资治通鉴·汉纪》668丨中国古代百大武将：东汉之寇恂](sources/zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5.md) — Gengshi 1-2 / 23-24 CE backfill on Kou Xun's Shanggu seal-return credibility intervention, Liu Xiu's Hebei order-building, Deng Yu's early allegiance and Liu Xuan critique, and Wang Lang's rumor-tested Liu Ziyu claim.
@@ -2018,6 +2019,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [John Fetterman](entities/JohnFetterman.md) — Pennsylvania Democratic senator framed by All-In as a bipartisan working partner, shutdown opponent, filibuster convert, pro-Israel Democrat, and AI data-center supporter.
+- [Dave McCormick](entities/DaveMcCormick.md) — Pennsylvania Republican senator tying bipartisan cooperation, AI and energy infrastructure, community commitments, blue-collar opportunity, and campaign-finance realism together.
+- [Graham Platner](entities/GrahamPlatner.md) — Source-scoped candidate figure used by All-In as a primary-extremism and candidate-vetting example.
+- [Pennsylvania](entities/Pennsylvania.md) — Swing-state and energy-manufacturing setting for the All-In Senate, AI infrastructure, and blue-collar growth discussion.
+- [United States Senate](entities/UnitedStatesSenate.md) — Institutional setting for the episode's shutdown, filibuster, bipartisan cooperation, and high-cost statewide race claims.
 - [杜吾 / Du Wu (Wang Mang killer)](entities/DuWuWangMangKiller.md) — Butcher-soldier in Hanji 667 who kills Wang Mang at Jian Terrace, making the emperor's death a status-reversal scene.
 - [王晶 / Wong Jing](entities/WongJing.md) — Hong Kong commercial-film director and industry witness connecting TVB, Shaw Brothers, Win's Entertainment, Taiwan demand, piracy, and AI-era performance limits.
 - [TVB / Television Broadcasts Limited / 无线电视](entities/TelevisionBroadcastsLimited.md) — Hong Kong television institution represented as a training pipeline for writers, actors, comedy timing, and film-industry talent.
@@ -11333,6 +11339,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Bipartisan Swing-State Representation](concepts/BipartisanSwingStateRepresentation.md) — Pattern where officials from opposing parties in a divided state maintain working trust because shared electorate and state priorities discipline pure tribal performance.
+- [Filibuster Minority Rights](concepts/FilibusterMinorityRights.md) — Senate-procedure argument that the filibuster slows majority action but protects minority leverage and forces negotiation.
+- [Pennsylvania AI Infrastructure Boom](concepts/PennsylvaniaAIInfrastructureBoom.md) — Source-scoped thesis that Pennsylvania can turn AI data centers, energy assets, industrial sites, and skilled trades into blue-collar growth.
+- [Primary Extremism Pressure](concepts/PrimaryExtremismPressure.md) — Party-selection pressure where primaries, activist networks, and anti-opponent backlash reward sharper ideological signals or controversial candidates.
+- [Campaign Spending Arms Race](concepts/CampaignSpendingArmsRace.md) — Escalation pattern where competitive races require enormous fundraising and outside spending, turning elections into media and reputation contests.
 - [Restored Regime Promise Credibility / 复国政权承诺信用](concepts/RestoredRegimePromiseCredibility.md) — Hanji 668 pattern where restored-regime authority depends on honoring concrete surrender promises, shown by Kou Xun forcing the Gengshi envoy to return Geng Kuang's seal.
 - [Hong Kong Film Industry / 香港电影工业](concepts/HongKongFilmIndustry.md) — Production, talent, financing, distribution, genre, star, and market system made concrete through Wang Jing's career account.
 - [Commercial Film Audience Logic / 商业片观众逻辑](concepts/CommercialFilmAudienceLogic.md) — View that professional commercial films must attract paying audiences through genre payoff, emotion, stars, pacing, and risk control.

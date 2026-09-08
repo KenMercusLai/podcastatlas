@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2813
+topic_total_pages: 2815
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2905,6 +2905,9 @@ topic_concepts:
   - key: "PeakValleyAIInferencePricing"
     title: "Peak-Valley AI Inference Pricing"
     url: "/wiki/concepts/peakvalleyaiinferencepricing/"
+  - key: "PennsylvaniaAIInfrastructureBoom"
+    title: "Pennsylvania AI Infrastructure Boom"
+    url: "/wiki/concepts/pennsylvaniaaiinfrastructureboom/"
   - key: "PerHeadMuon"
     title: "Per-Head Muon"
     url: "/wiki/concepts/perheadmuon/"
@@ -8046,6 +8049,9 @@ topic_sources:
   - key: "tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final"
     title: "Ron Conway on National Semiconductor, Altos, and Early Angel Investing"
     url: "/wiki/sources/tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230"
+    title: "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230/"
   - key: "slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a"
     title: "Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip"
     url: "/wiki/sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a/"

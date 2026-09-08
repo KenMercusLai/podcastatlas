@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6712
+wiki_total_pages: 6717
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "CalmAssertiveEnergy"
     title: "Calm Assertive Energy"
     url: "/wiki/concepts/calmassertiveenergy/"
+  - key: "CampaignSpendingArmsRace"
+    title: "Campaign Spending Arms Race"
+    url: "/wiki/concepts/campaignspendingarmsrace/"
   - key: "CampbellLaw"
     title: "Campbell's Law"
     url: "/wiki/concepts/campbelllaw/"
