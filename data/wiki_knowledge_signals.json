@@ -15997,6 +15997,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/crocs/"
     },
+    "CrossBorderEcommerceLocalizationPressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "147. SHEIN回港上市、新拼姆开启自营 ｜ 疯投圈 (1) [147-1].md",
+          "key": "147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1",
+          "show": "疯投圈",
+          "title": "147 SHEIN回港上市、新拼姆开启自营",
+          "url": "/wiki/sources/147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/crossborderecommercelocalizationpressure/"
+    },
     "CrossCoalitionCulturalIcon": {
       "episode_count": 1,
       "show_count": 1,
@@ -55109,6 +55125,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/overseascreatormarketingplatform/"
     },
+    "OverseasWarehouseInventoryRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "147. SHEIN回港上市、新拼姆开启自营 ｜ 疯投圈 (1) [147-1].md",
+          "key": "147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1",
+          "show": "疯投圈",
+          "title": "147 SHEIN回港上市、新拼姆开启自营",
+          "url": "/wiki/sources/147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/overseaswarehouseinventoryrisk/"
+    },
     "PCOSCardiometabolicRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -56917,6 +56949,85 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/piggylordoftheflies/"
     },
+    "Pinduoduo": {
+      "episode_count": 10,
+      "show_count": 6,
+      "source_note_count": 10,
+      "sources": [
+        {
+          "episode_file": "美妆巨头集体盯上头发，洗护生意为何又热起来？ [1005860109].md",
+          "key": "meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109",
+          "show": "声动早咖啡",
+          "title": "美妆巨头集体盯上头发，洗护生意为何又热起来？",
+          "url": "/wiki/sources/meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109/"
+        },
+        {
+          "episode_file": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方 [lgPVP04rnGaGkPuBtE2AC6I5JI3g].md",
+          "key": "150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g",
+          "show": "起朱楼宴宾客",
+          "title": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方",
+          "url": "/wiki/sources/150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g/"
+        },
+        {
+          "episode_file": "这半年，我们又买了哪些科技好物？ ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [这半年，我们又买了哪些科技好物？-1].md",
+          "key": "zhe-bannian-women-you-maile-naxie-keji-haowu-1",
+          "show": "科技乱炖",
+          "title": "这半年，我们又买了哪些科技好物？",
+          "url": "/wiki/sources/zhe-bannian-women-you-maile-naxie-keji-haowu-1/"
+        },
+        {
+          "episode_file": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集 [lqSZvMuR6JV8b9XT8rJgmWFdQtEc].md",
+          "key": "quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec",
+          "show": "乱翻书",
+          "title": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集",
+          "url": "/wiki/sources/quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec/"
+        },
+        {
+          "episode_file": "139. 泡泡玛特和拼多多值得投资么？ ｜ 疯投圈 (1) [139-1].md",
+          "key": "139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1",
+          "show": "疯投圈",
+          "title": "139. 泡泡玛特和拼多多值得投资么？",
+          "url": "/wiki/sources/139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1/"
+        },
+        {
+          "episode_file": "No.206 检索、送药、看病：互联网医疗这些年 ｜ 中国互联网故事22 [991273500].md",
+          "key": "no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.206 检索、送药、看病：互联网医疗这些年 | 中国互联网故事22",
+          "url": "/wiki/sources/no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500/"
+        },
+        {
+          "episode_file": "发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集 [lijPz1zGy9H2k4qd0C45ixweNU-0].md",
+          "key": "faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0",
+          "show": "乱翻书",
+          "title": "发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集",
+          "url": "/wiki/sources/faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0/"
+        },
+        {
+          "episode_file": "No.200 ⚔️ 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法 [974601500].md",
+          "key": "no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.200 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法",
+          "url": "/wiki/sources/no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500/"
+        },
+        {
+          "episode_file": "vol.127.年报季中的真实中国2025 [lqJy2Pnfy09ZYeWj0ljXJuc3GXqv].md",
+          "key": "vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv",
+          "show": "起朱楼宴宾客",
+          "title": "vol.127.年报季中的真实中国2025",
+          "url": "/wiki/sources/vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv/"
+        },
+        {
+          "episode_file": "147. SHEIN回港上市、新拼姆开启自营 ｜ 疯投圈 (1) [147-1].md",
+          "key": "147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1",
+          "show": "疯投圈",
+          "title": "147 SHEIN回港上市、新拼姆开启自营",
+          "url": "/wiki/sources/147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/pinduoduo/"
+    },
     "PingyangDefenseLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -57178,6 +57289,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/platformrightsprereview/"
+    },
+    "PlatformSelfOperatedQualityUpgrade": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "147. SHEIN回港上市、新拼姆开启自营 ｜ 疯投圈 (1) [147-1].md",
+          "key": "147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1",
+          "show": "疯投圈",
+          "title": "147 SHEIN回港上市、新拼姆开启自营",
+          "url": "/wiki/sources/147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/platformselfoperatedqualityupgrade/"
     },
     "Plato": {
       "episode_count": 4,
@@ -63982,6 +64109,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/ryansocialrobot/"
     },
+    "SHEIN": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "美妆巨头集体盯上头发，洗护生意为何又热起来？ [1005860109].md",
+          "key": "meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109",
+          "show": "声动早咖啡",
+          "title": "美妆巨头集体盯上头发，洗护生意为何又热起来？",
+          "url": "/wiki/sources/meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109/"
+        },
+        {
+          "episode_file": "147. SHEIN回港上市、新拼姆开启自营 ｜ 疯投圈 (1) [147-1].md",
+          "key": "147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1",
+          "show": "疯投圈",
+          "title": "147 SHEIN回港上市、新拼姆开启自营",
+          "url": "/wiki/sources/147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/shein/"
+    },
     "STPMarketingFramework": {
       "episode_count": 1,
       "show_count": 1,
@@ -67207,6 +67357,29 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/slowwavesleeprestoration/"
+    },
+    "SmallOrderQuickResponse": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP271 探访“柔性制造”工厂：是谁让你“想要就能买到”？ [lqYrioPtGgnBb8hl_Llej0_5OW0V].md",
+          "key": "ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v",
+          "show": "Talk三联",
+          "title": "EP271 探访“柔性制造”工厂：是谁让你“想要就能买到”？",
+          "url": "/wiki/sources/ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v/"
+        },
+        {
+          "episode_file": "147. SHEIN回港上市、新拼姆开启自营 ｜ 疯投圈 (1) [147-1].md",
+          "key": "147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1",
+          "show": "疯投圈",
+          "title": "147 SHEIN回港上市、新拼姆开启自营",
+          "url": "/wiki/sources/147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/smallorderquickresponse/"
     },
     "SmallRetailerChannelTest": {
       "episode_count": 1,
@@ -71911,6 +72084,43 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/temporaryfrontierretrenchment/"
+    },
+    "Temu": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集 [lqSZvMuR6JV8b9XT8rJgmWFdQtEc].md",
+          "key": "quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec",
+          "show": "乱翻书",
+          "title": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集",
+          "url": "/wiki/sources/quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec/"
+        },
+        {
+          "episode_file": "139. 泡泡玛特和拼多多值得投资么？ ｜ 疯投圈 (1) [139-1].md",
+          "key": "139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1",
+          "show": "疯投圈",
+          "title": "139. 泡泡玛特和拼多多值得投资么？",
+          "url": "/wiki/sources/139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1/"
+        },
+        {
+          "episode_file": "vol.127.年报季中的真实中国2025 [lqJy2Pnfy09ZYeWj0ljXJuc3GXqv].md",
+          "key": "vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv",
+          "show": "起朱楼宴宾客",
+          "title": "vol.127.年报季中的真实中国2025",
+          "url": "/wiki/sources/vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv/"
+        },
+        {
+          "episode_file": "147. SHEIN回港上市、新拼姆开启自营 ｜ 疯投圈 (1) [147-1].md",
+          "key": "147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1",
+          "show": "疯投圈",
+          "title": "147 SHEIN回港上市、新拼姆开启自营",
+          "url": "/wiki/sources/147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/temu/"
     },
     "TenantScreeningEvictionBackfire": {
       "episode_count": 1,
@@ -79929,6 +80139,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/xinpinglatehan/"
+    },
+    "XinPinmu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "147. SHEIN回港上市、新拼姆开启自营 ｜ 疯投圈 (1) [147-1].md",
+          "key": "147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1",
+          "show": "疯投圈",
+          "title": "147 SHEIN回港上市、新拼姆开启自营",
+          "url": "/wiki/sources/147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/xinpinmu/"
     },
     "XinYuanYangHuDieMeng": {
       "episode_count": 2,

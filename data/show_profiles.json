@@ -2466,7 +2466,7 @@
       "earliest_episode_date": "2026-02-10",
       "latest_episode_date": "2026-09-08",
       "latest_episode_file": "147. SHEIN回港上市、新拼姆开启自营 ｜ 疯投圈 (1) [147-1].md",
-      "source_note_count": 11,
+      "source_note_count": 12,
       "topic_matched_source_note_count": 5,
       "topics": [
         {
@@ -2538,16 +2538,16 @@
           "episode_count": 2
         },
         {
-          "key": "Sandunban",
-          "title": "Sandunban / 三顿半",
-          "url": "/wiki/entities/sandunban/",
+          "key": "Pinduoduo",
+          "title": "Pinduoduo",
+          "url": "/wiki/entities/pinduoduo/",
           "kind": "organization",
           "episode_count": 2
         },
         {
-          "key": "Starbucks",
-          "title": "Starbucks",
-          "url": "/wiki/entities/starbucks/",
+          "key": "Sandunban",
+          "title": "Sandunban / 三顿半",
+          "url": "/wiki/entities/sandunban/",
           "kind": "organization",
           "episode_count": 2
         }

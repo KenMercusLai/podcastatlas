@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9338
+wiki_total_pages: 9339
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -410,6 +410,9 @@ wiki_pages:
   - key: "XinanMassacre"
     title: "新安坑降 / Xinan Massacre"
     url: "/wiki/entities/xinanmassacre/"
+  - key: "XinPinmu"
+    title: "新拼姆 / Xinpinmu"
+    url: "/wiki/entities/xinpinmu/"
   - key: "XinyeLateHan"
     title: "新野 / Xinye (late Han)"
     url: "/wiki/entities/xinyelatehan/"

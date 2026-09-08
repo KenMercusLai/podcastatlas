@@ -16203,3 +16203,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-08] ingest | 147 SHEIN回港上市、新拼姆开启自营
+
+Ingested the 2026-09-08 疯投圈 episode on SHEIN's Hong Kong listing, European tariff and anti-ultra-fast-fashion pressure, SHEIN's small-order quick-response model, overseas warehouse inventory risk, Temu's low-price resilience, and Pinduoduo/Xinpinmu self-operated quality upgrade. Added source `147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1`; created `XinPinmu`, `CrossBorderEcommerceLocalizationPressure`, `OverseasWarehouseInventoryRisk`, and `PlatformSelfOperatedQualityUpgrade`; updated `SHEIN`, `Temu`, `Pinduoduo`, `SmallOrderQuickResponse`, and `index`. No settled contradiction found; IPO status, revenue figures, GMV estimates, tariff details, self-operated risk sharing, and supplier sentiment remain source-scoped.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

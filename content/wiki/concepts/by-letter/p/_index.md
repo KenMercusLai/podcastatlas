@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6729
+wiki_total_pages: 6732
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "PlatformSafetyABTesting"
     title: "Platform Safety A/B Testing"
     url: "/wiki/concepts/platformsafetyabtesting/"
+  - key: "PlatformSelfOperatedQualityUpgrade"
+    title: "Platform Self-Operated Quality Upgrade / 平台自营品质升级"
+    url: "/wiki/concepts/platformselfoperatedqualityupgrade/"
   - key: "PlatformSubsidyScaleEconomics"
     title: "Platform Subsidy Scale Economics / 平台补贴规模经济"
     url: "/wiki/concepts/platformsubsidyscaleeconomics/"

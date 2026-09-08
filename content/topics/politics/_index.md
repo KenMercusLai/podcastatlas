@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2252
+topic_total_pages: 2253
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -721,6 +721,9 @@ topic_concepts:
   - key: "CrossBorderCryptoCapitalFlight"
     title: "Cross-Border Crypto Capital Flight"
     url: "/wiki/concepts/crossbordercryptocapitalflight/"
+  - key: "CrossBorderEcommerceLocalizationPressure"
+    title: "Cross-Border Ecommerce Localization Pressure / 跨境电商本地化压力"
+    url: "/wiki/concepts/crossborderecommercelocalizationpressure/"
   - key: "CrossBorderInfrastructureTradeTension"
     title: "Cross-Border Infrastructure Trade Tension"
     url: "/wiki/concepts/crossborderinfrastructuretradetension/"

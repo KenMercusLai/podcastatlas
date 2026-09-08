@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6729
+wiki_total_pages: 6732
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1811,6 +1811,9 @@ wiki_pages:
   - key: "CrossBorderCryptoCapitalFlight"
     title: "Cross-Border Crypto Capital Flight"
     url: "/wiki/concepts/crossbordercryptocapitalflight/"
+  - key: "CrossBorderEcommerceLocalizationPressure"
+    title: "Cross-Border Ecommerce Localization Pressure / 跨境电商本地化压力"
+    url: "/wiki/concepts/crossborderecommercelocalizationpressure/"
   - key: "CrossBorderFundTransferRisk"
     title: "Cross-Border Fund Transfer Risk"
     url: "/wiki/concepts/crossborderfundtransferrisk/"

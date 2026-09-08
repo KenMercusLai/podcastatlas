@@ -447,6 +447,10 @@
     "title": "147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥",
     "url": "/wiki/sources/147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga/"
   },
+  "147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1": {
+    "title": "147 SHEIN回港上市、新拼姆开启自营",
+    "url": "/wiki/sources/147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1/"
+  },
   "147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp": {
     "title": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士",
     "url": "/wiki/sources/147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp/"
@@ -13938,6 +13942,10 @@
   "CrossBorderCryptoCapitalFlight": {
     "title": "Cross-Border Crypto Capital Flight",
     "url": "/wiki/concepts/crossbordercryptocapitalflight/"
+  },
+  "CrossBorderEcommerceLocalizationPressure": {
+    "title": "Cross-Border Ecommerce Localization Pressure / 跨境电商本地化压力",
+    "url": "/wiki/concepts/crossborderecommercelocalizationpressure/"
   },
   "CrossBorderFundTransferRisk": {
     "title": "Cross-Border Fund Transfer Risk",
@@ -41883,6 +41891,10 @@
     "title": "Overseas Insurance Risk",
     "url": "/wiki/concepts/overseasinsurancerisk/"
   },
+  "OverseasWarehouseInventoryRisk": {
+    "title": "Overseas Warehouse Inventory Risk / 海外仓库存风险",
+    "url": "/wiki/concepts/overseaswarehouseinventoryrisk/"
+  },
   "OvertureSupersonicAirliner": {
     "title": "Overture Supersonic Airliner",
     "url": "/wiki/entities/overturesupersonicairliner/"
@@ -43678,6 +43690,10 @@
   "PlatformSafetyABTesting": {
     "title": "Platform Safety A/B Testing",
     "url": "/wiki/concepts/platformsafetyabtesting/"
+  },
+  "PlatformSelfOperatedQualityUpgrade": {
+    "title": "Platform Self-Operated Quality Upgrade / 平台自营品质升级",
+    "url": "/wiki/concepts/platformselfoperatedqualityupgrade/"
   },
   "PlatformSubsidyScaleEconomics": {
     "title": "Platform Subsidy Scale Economics / 平台补贴规模经济",
@@ -61630,6 +61646,10 @@
   "XinPingLateHan": {
     "title": "辛评 / Xin Ping (late Han)",
     "url": "/wiki/entities/xinpinglatehan/"
+  },
+  "XinPinmu": {
+    "title": "新拼姆 / Xinpinmu",
+    "url": "/wiki/entities/xinpinmu/"
   },
   "XinXu": {
     "title": "《新序》 / Xin Xu",

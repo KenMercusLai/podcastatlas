@@ -214,6 +214,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stars in their AIs: tech is changing Hollywood](sources/stars-in-their-ais-tech-is-changing-hollywood-6a917d0b63de6f7b41319a4b.md) — The Intelligence episode on Hollywood AI production, synthetic performers, ACA subsidy expiry, insurance death-spiral risk, and French line dancing as American cultural export.
 - [财报的根 + 估值的茎 = 叙事的果实](sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb.md) — 面基 episode with Zou Peixuan on financial reports, DCF, terminal-value narrative, prosperity-investing traps, A-share auction pricing, and capitalized research process.
 - [EP281 对话吴镇宇：困在创伤里的我们，决定重新找回自己](sources/ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r.md) — Talk三联 episode with Wu Zhenyu and Yuan Yumei on 《蝉》, trauma visualization, embodied acting, aging, anger, imperfect creativity under AI, and love as relational repair.
+- [147 SHEIN回港上市、新拼姆开启自营](sources/147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1.md) — 疯投圈 episode on SHEIN's Hong Kong listing, European tariff and anti-ultra-fast-fashion pressure, local warehouse inventory risk, Temu's tariff resilience, and Pinduoduo/Xinpinmu's self-operated quality upgrade.
 - [146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?](sources/146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1.md) — 疯投圈 episode with Kate of AHA Creator on AI-enabled overseas creator marketing, the shift from traffic buying to brand building, and why third-party creator workflow platforms may have room outside domestic-style closed loops.
 - [Episode 21: 抗压、应变与终生动力：CZ 的人事和天命](sources/kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7.md) — Fuyou Tiandi episode with CZ on Binance hindsight, founder pressure tolerance, proactive team management, blockchain consensus, payment adoption gaps, RWA, stablecoins, and education-driven motivation.
 - [ICE is collecting DNA from detainees for future policing](sources/tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128.md) — Marketplace Tech episode with Stevie Gleiberson on DHS and ICE DNA collection, CODIS retention, child-sampling concerns, familial genetic exposure, Maryland v. King, and Briggs v. Mullen.
@@ -5645,7 +5646,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Uni-President Enterprises / 统一集团](entities/UniPresidentEnterprises.md) — Packaged-beverage incumbent paired with Master Kong in the source's bottled-beverage slowdown segment.
 - [Tipsy](entities/Tipsy.md) — Source-scoped technology company example tied to IDC data-center hiring and AI compute infrastructure buildout.
 - [Sony-TSMC Image Sensor Joint Venture](entities/SonyTSMCImageSensorJV.md) — Roughly $4.7 billion image-sensor manufacturing venture expected by the source to begin mass production in 2029.
-- [SHEIN](entities/SHEIN.md) — Cross-border fashion ecommerce company whose Vietnam warehouse retrenchment shows supply-chain relocation depends on efficiency and total cost, not only tariff pressure.
+- [SHEIN](entities/SHEIN.md) — Cross-border fashion ecommerce company whose fast-response model faces tariff, regulation, and overseas warehouse inventory pressure.
 - [Kérastase / 卡诗](entities/Kerastase.md) — L'Oreal professional hair-care brand used for premium haircare, salon trust, and the later refillable beauty portfolio.
 - [Vichy / 薇姿](entities/Vichy.md) — L'Oreal dermatology-adjacent beauty brand used in the source's hair-care growth and scalp/ingredient credibility discussion.
 - [CeraVe / 适乐肤](entities/CeraVe.md) — L'Oreal skincare brand whose hair-care growth example illustrates skincare-style trust moving into hair care.
@@ -10447,7 +10448,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [抖神神 / Doushenshen](entities/Doushenshen.md) — Douyin local-life direction shifting from content seeding and event coupons toward daily low-price transaction entry.
 - [番茄小说 / Fanqie Novel](entities/FanqieNovel.md) — ByteDance free-reading product used as a growth-transfer case from Toutiao channels toward Hongguo and short-form content.
 - [汽水音乐 / Qishui Music](entities/QishuiMusic.md) — ByteDance music product whose growth uses Douyin account, BGM, viral-song, and interest signals.
-- [Temu](entities/Temu.md) — Overseas ecommerce growth comparison that learned from ByteDance-style regional UG organization while relying on supply, coupons, and fulfillment.
+- [Temu](entities/Temu.md) — Pinduoduo's overseas low-price ecommerce platform, relying on supply, coupons, managed fulfillment, merchant adaptation, and now Xinpinmu-style self-operated quality upgrades.
 - [Zynn](entities/Zynn.md) — Kuaishou overseas short-video app used as a cautionary red-packet growth and compliance-risk case.
 - [张一鸣 / Zhang Yiming](entities/ZhangYiming.md) — ByteDance founder whose 2018 exchange with Pony Ma anchors the Touteng War source.
 - [马化腾 / Pony Ma](entities/PonyMa.md) — Tencent founder whose reply to Zhang Yiming helped escalate the 2018 public conflict.
@@ -11253,7 +11254,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peter Lynch](entities/PeterLynch.md) — Fundamental investor used as a comparison point against Jim Simons's quantitative approach.
 - [Playwright](entities/Playwright.md) — Browser automation and testing tool used as an example of agent-driven coding verification.
 - [Podwise](entities/Podwise.md) — AI podcast-learning tool discussed through CLI, Skills, agent workflows, knowledge-management export, recurring automation, and YingdiHaike sponsorship mentions.
-- [Pinduoduo](entities/Pinduoduo.md) — Ecommerce marketplace discussed through subsidy pricing, Temu, investment valuation, merchant pressure, and low-price medicine retail.
+- [Pinduoduo](entities/Pinduoduo.md) — Ecommerce marketplace discussed through subsidy pricing, fission growth, Temu, investment valuation, merchant pressure, fulfillment expansion, and Xinpinmu self-operation.
+- [新拼姆 / Xinpinmu](entities/XinPinmu.md) — Pinduoduo-linked self-operated business discussed as Temu's platform-led quality, packaging, after-sales, and factory-collaboration experiment.
 - [原则科技](entities/PrincipleTech.md) — Startup context for XiaoSun's earlier independent-developer and creator-tool work.
 - [QQ](entities/QQ.md) — Tencent messaging product used as the historical comparison for free-core, paid-membership internet services.
 - [QuickStone](entities/QuickStone.md) — Investment firm connected to Yihao's proactive AI and agent-infrastructure thesis around AirJelly.
@@ -14014,7 +14016,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nudify App Ecosystem](concepts/NudifyAppEcosystem.md) — Commercial and distribution stack around AI nudify tools, including social discovery, ads, app stores, payment rails, crypto routing, and legal response.
 - [Abuse Payment Infrastructure](concepts/AbusePaymentInfrastructure.md) — Payment, banking, and crypto-intermediary layer that can keep abusive online services monetizable despite platform or app-store enforcement.
 - [Flexible Manufacturing / 柔性制造](concepts/FlexibleManufacturing.md) — Manufacturing capability that links demand sensing, product design, mass production, small orders, customization, and sudden demand response.
-- [Small-Order Quick Response / 小单快反](concepts/SmallOrderQuickResponse.md) — Production pattern for inserting small or volatile orders quickly without losing quality, material control, or delivery windows.
+- [Small-Order Quick Response / 小单快反](concepts/SmallOrderQuickResponse.md) — Production pattern for inserting small or volatile orders quickly, now including SHEIN's cross-border fashion use case and the overseas-warehouse limit.
 - [Manufacturing Digital Thread / 制造数字主线](concepts/ManufacturingDigitalThread.md) — Operational data chain tying orders, materials, warehouses, workers, equipment, status, inspection, and delivery together.
 - [Manufacturing Digital Twin / 制造数字孪生](concepts/ManufacturingDigitalTwin.md) — Factory simulation layer that lets customized manufacturing logic run digitally before costly physical execution.
 - [Modular Customization / 模块化定制](concepts/ModularCustomization.md) — Product-architecture strategy that turns varied customer requirements into recombinable standardized modules.
@@ -17757,6 +17759,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Financial Statement Analysis](concepts/FinancialStatementAnalysis.md) — Three-statement method for testing a company story through profit, balance sheet, and cash flow.
 - [Profit And Cash Flow Quality](concepts/ProfitAndCashFlowQuality.md) — Distinction between reported earnings and money actually collected or generated.
 - [Asset-Light Vs Heavy-Asset Models](concepts/AssetLightVsHeavyAssetModels.md) — Business-model contrast explaining why companies in the same value chain can show different margins, assets, cash needs, and manufacturing dependencies.
+- [Overseas Warehouse Inventory Risk / 海外仓库存风险](concepts/OverseasWarehouseInventoryRisk.md) — Inventory, cash-flow, and demand-forecast risk created when cross-border platforms stock goods abroad before confirmed demand.
+- [Platform Self-Operated Quality Upgrade / 平台自营品质升级](concepts/PlatformSelfOperatedQualityUpgrade.md) — Strategy where ecommerce platforms use self-operation to improve product quality, specifications, packaging, after-sales, and supplier coordination.
 - [Non-GAAP Earnings](concepts/NonGAAPEarnings.md) — Adjusted profit figures and reporting-context caveats around GAAP, CAS, stock compensation, and non-recurring gains.
 - [Return On Equity Analysis](concepts/ReturnOnEquityAnalysis.md) — ROE as a shareholder-capital productivity metric that must be checked against leverage and cash quality.
 - [Accounting Red Flags](concepts/AccountingRedFlags.md) — Financial-report warning signs such as poor cash conversion, receivables, inventory, audit issues, and profit-pressure misstatement.
@@ -17788,6 +17792,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Business Fluent Design](concepts/BusinessFluentDesign.md) — Design posture that speaks in goals, users, KPI, product assumptions, and business tradeoffs rather than only visual preference.
 - [Design Led Growth](concepts/DesignLedGrowth.md) — Product-growth frame where design clarifies value, trust, activation, and conversion without replacing user validation.
 - [Cross-Cultural Product Design](concepts/CrossCulturalProductDesign.md) — Design-side localization practice covering colors, language length, date formats, density, trust cues, and market fit.
+- [Cross-Border Ecommerce Localization Pressure / 跨境电商本地化压力](concepts/CrossBorderEcommerceLocalizationPressure.md) — Pressure pushing direct-mail export platforms toward local warehousing, compliance, delivery, risk sharing, and quality control.
 - [Experiential Retail](concepts/ExperientialRetail.md) — Retail strategy where the store visit and customer ritual are part of the product's value.
 - [Customer Co-Creation](concepts/CustomerCoCreation.md) — Product-design pattern where customers help make, personalize, or author the final product.
 - [Mall Based Retail Expansion](concepts/MallBasedRetailExpansion.md) — Store-growth pattern shaped by mall traffic, landlord relationships, tenant allowances, and lease terms.
