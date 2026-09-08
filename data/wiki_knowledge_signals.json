@@ -12351,6 +12351,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/childcommunicationdevelopmentsignals/"
     },
+    "ChildbearingIrreversibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/childbearingirreversibility/"
+    },
     "ChimeiRebellion": {
       "episode_count": 11,
       "show_count": 2,
@@ -13059,9 +13075,9 @@
       "url": "/wiki/concepts/chivalricromancewarmemory/"
     },
     "ChizaoGengxin": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "8212959555_438866 [8212959555_438866].md",
@@ -13090,9 +13106,16 @@
           "show": "迟早更新",
           "title": "Episode 226: 说出口的话，正在塑造你的世界",
           "url": "/wiki/sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318/"
+        },
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/chizaogengxin/"
     },
     "ChocRevive": {
@@ -13478,6 +13501,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/civillibertiessurveillancerisk/"
+    },
+    "CivilServiceExamSecurityGamble": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/civilserviceexamsecuritygamble/"
     },
     "CivilizationFragilityAllegory": {
       "episode_count": 1,
@@ -17664,6 +17703,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/dehong/"
     },
+    "DeleteBook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/deletebook/"
+    },
     "DeleteRequestAndOptOutPlatform": {
       "episode_count": 2,
       "show_count": 1,
@@ -18665,6 +18720,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/digitrobot/"
+    },
+    "DigitalMemoryDefault": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/digitalmemorydefault/"
     },
     "DigitalSovereignty": {
       "episode_count": 2,
@@ -32719,6 +32790,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/hanqingurey/"
     },
+    "HansJonas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/hansjonas/"
+    },
     "HanyangCommanderyLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -34340,9 +34427,9 @@
       "url": "/wiki/concepts/honorswithoutofficesettlement/"
     },
     "HopeIsTheThingWithFeathersBook": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
@@ -34364,9 +34451,16 @@
           "show": "迟早更新",
           "title": "Episode 226: 说出口的话，正在塑造你的世界",
           "url": "/wiki/sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318/"
+        },
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/hopeisthethingwithfeathersbook/"
     },
     "HoratioGates": {
@@ -37021,6 +37115,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/individualizedcancervaccinemanufacturing/"
+    },
+    "IndividualizedRiskResponsibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/individualizedriskresponsibility/"
     },
     "IndustrialAIROIFilter": {
       "episode_count": 1,
@@ -50104,6 +50214,29 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/michaellewiscurator/"
     },
+    "MichelFoucault": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "92.柏拉图上班记：用哲学搞笑职场 [716822350].md",
+          "key": "92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350",
+          "show": "蜜獾吃书",
+          "title": "92.柏拉图上班记：用哲学搞笑职场",
+          "url": "/wiki/sources/92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350/"
+        },
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/michelfoucault/"
+    },
     "MicronTechnology": {
       "episode_count": 7,
       "show_count": 4,
@@ -52417,6 +52550,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/newsastradingposition/"
+    },
+    "NextChanceYouthOptionality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/nextchanceyouthoptionality/"
     },
     "NexusHarariBook": {
       "episode_count": 1,
@@ -57290,6 +57439,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/platformrightsprereview/"
     },
+    "PlatformSelfDiscipline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/platformselfdiscipline/"
+    },
     "PlatformSelfOperatedQualityUpgrade": {
       "episode_count": 1,
       "show_count": 1,
@@ -62018,9 +62183,9 @@
       "url": "/wiki/entities/renlifeng/"
     },
     "RenNing": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
@@ -62049,9 +62214,16 @@
           "show": "迟早更新",
           "title": "Episode 226: 说出口的话，正在塑造你的世界",
           "url": "/wiki/sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318/"
+        },
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/renning/"
     },
     "RenShangLateHan": {
@@ -63084,6 +63256,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/riskbearingreliefgovernance/"
+    },
+    "RiskSocietyBook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/risksocietybook/"
     },
     "Ritan": {
       "episode_count": 3,
@@ -72522,6 +72710,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/theprince/"
     },
+    "ThePrincipleOfResponsibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/theprincipleofresponsibility/"
+    },
     "TheRestIsHistory": {
       "episode_count": 24,
       "show_count": 1,
@@ -74743,6 +74947,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/uber/"
     },
+    "UlrichBeck": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/ulrichbeck/"
+    },
     "UlrichSiegmund": {
       "episode_count": 2,
       "show_count": 1,
@@ -76057,6 +76277,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/viennasocialhousingscale/"
+    },
+    "ViktorMayerSchonberger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/viktormayerschonberger/"
     },
     "ViolenceReductionPublicHealthModel": {
       "episode_count": 1,
@@ -82650,6 +82886,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/youthfootballpublicaccess/"
+    },
+    "YouthPrecautionaryCulture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8211230332_278487 [8211230332_278487].md",
+          "key": "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+          "show": "迟早更新",
+          "title": "Episode 227: 二十一世纪青春物语",
+          "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/youthprecautionaryculture/"
     },
     "YuChengLateHan": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9339
+wiki_total_pages: 9345
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "ThePlainDealer"
     title: "The Plain Dealer"
     url: "/wiki/entities/theplaindealer/"
+  - key: "ThePrincipleOfResponsibility"
+    title: "The Principle of Responsibility / 《责任原理》"
+    url: "/wiki/entities/theprincipleofresponsibility/"
   - key: "TheRealReal"
     title: "The RealReal"
     url: "/wiki/entities/therealreal/"

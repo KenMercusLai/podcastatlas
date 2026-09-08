@@ -14993,6 +14993,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CivilServiceExamSecurityGamble": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CivilizationBarbarismFrame": [
     {
       "key": "history",
@@ -19071,6 +19078,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "DeleteBook": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Delhi": [
@@ -29347,6 +29366,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "HansJonas": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "HansWilsdorfFoundation": [
@@ -48684,6 +48710,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PlatformSelfDiscipline": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PlatformSubsidyScaleEconomics": [
     {
       "key": "economics",
@@ -53603,6 +53636,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "RiskSocietyBook": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "RitualAffectiveOrder": [
@@ -62929,6 +62969,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "ThePrincipleOfResponsibility": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TheResidency": [
     {
       "key": "economics",
@@ -66266,6 +66318,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ViktorMayerSchonberger": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "VillageSelfGovernance": [
@@ -70600,6 +70659,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "YouthPrecautionaryCulture": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "YouxiaSuppressionUnderUnification": [

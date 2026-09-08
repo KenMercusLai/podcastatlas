@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 9339
+wiki_total_pages: 9345
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "Ukraine"
     title: "Ukraine"
     url: "/wiki/entities/ukraine/"
+  - key: "UlrichBeck"
+    title: "Ulrich Beck / 乌尔里希·贝克"
+    url: "/wiki/entities/ulrichbeck/"
   - key: "UlrichSiegmund"
     title: "Ulrich Siegmund"
     url: "/wiki/entities/ulrichsiegmund/"

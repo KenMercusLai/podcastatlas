@@ -11051,6 +11051,10 @@
     "title": "Child Third-Party Liability Insurance",
     "url": "/wiki/concepts/childthirdpartyliabilityinsurance/"
   },
+  "ChildbearingIrreversibility": {
+    "title": "Childbearing Irreversibility / 生育不可逆性",
+    "url": "/wiki/concepts/childbearingirreversibility/"
+  },
   "ChildcareInfrastructureConstraint": {
     "title": "Childcare Infrastructure Constraint",
     "url": "/wiki/concepts/childcareinfrastructureconstraint/"
@@ -12014,6 +12018,10 @@
   "CivilServiceContinuity": {
     "title": "Civil Service Continuity / 文官连续性",
     "url": "/wiki/concepts/civilservicecontinuity/"
+  },
+  "CivilServiceExamSecurityGamble": {
+    "title": "Civil-Service Exam Security Gamble / 考编安全豪赌",
+    "url": "/wiki/concepts/civilserviceexamsecuritygamble/"
   },
   "CivilizationAsDeception": {
     "title": "Civilization As Deception",
@@ -15439,6 +15447,10 @@
     "title": "Delegated Web Research",
     "url": "/wiki/concepts/delegatedwebresearch/"
   },
+  "DeleteBook": {
+    "title": "Delete / 《删除》",
+    "url": "/wiki/entities/deletebook/"
+  },
   "DeleteRequestAndOptOutPlatform": {
     "title": "Delete Request and Opt Out Platform",
     "url": "/wiki/entities/deleterequestandoptoutplatform/"
@@ -15946,6 +15958,10 @@
   "DigitalMemorialization": {
     "title": "Digital Memorialization",
     "url": "/wiki/concepts/digitalmemorialization/"
+  },
+  "DigitalMemoryDefault": {
+    "title": "Digital Memory Default / 数字记忆默认",
+    "url": "/wiki/concepts/digitalmemorydefault/"
   },
   "DigitalMusicLicensing": {
     "title": "Digital Music Licensing",
@@ -24951,6 +24967,10 @@
     "title": "安徒生 / Hans Christian Andersen",
     "url": "/wiki/entities/hanschristianandersen/"
   },
+  "HansJonas": {
+    "title": "Hans Jonas / 汉斯·约纳斯",
+    "url": "/wiki/entities/hansjonas/"
+  },
   "HansWilsdorf": {
     "title": "Hans Wilsdorf",
     "url": "/wiki/entities/hanswilsdorf/"
@@ -27814,6 +27834,10 @@
   "IndividualizedCancerVaccineManufacturing": {
     "title": "Individualized Cancer Vaccine Manufacturing",
     "url": "/wiki/concepts/individualizedcancervaccinemanufacturing/"
+  },
+  "IndividualizedRiskResponsibility": {
+    "title": "Individualized Risk Responsibility / 风险责任个体化",
+    "url": "/wiki/concepts/individualizedriskresponsibility/"
   },
   "Indonesia": {
     "title": "Indonesia",
@@ -39987,6 +40011,10 @@
     "title": "Newtonian Alchemy Theology",
     "url": "/wiki/concepts/newtonianalchemytheology/"
   },
+  "NextChanceYouthOptionality": {
+    "title": "Next-Chance Youth Optionality / 青春下一次机会",
+    "url": "/wiki/concepts/nextchanceyouthoptionality/"
+  },
   "NextRobot": {
     "title": "Next Robot",
     "url": "/wiki/entities/nextrobot/"
@@ -43690,6 +43718,10 @@
   "PlatformSafetyABTesting": {
     "title": "Platform Safety A/B Testing",
     "url": "/wiki/concepts/platformsafetyabtesting/"
+  },
+  "PlatformSelfDiscipline": {
+    "title": "Platform Self-Discipline / 平台自我规训",
+    "url": "/wiki/concepts/platformselfdiscipline/"
   },
   "PlatformSelfOperatedQualityUpgrade": {
     "title": "Platform Self-Operated Quality Upgrade / 平台自营品质升级",
@@ -47974,6 +48006,10 @@
   "RiskPerception": {
     "title": "Risk Perception",
     "url": "/wiki/concepts/riskperception/"
+  },
+  "RiskSocietyBook": {
+    "title": "Risk Society / 《风险社会》",
+    "url": "/wiki/entities/risksocietybook/"
   },
   "Ritan": {
     "title": "日谈 / 日谈公园",
@@ -55743,6 +55779,10 @@
     "title": "《豌豆公主》 / The Princess and the Pea",
     "url": "/wiki/entities/theprincessandthepea/"
   },
+  "ThePrincipleOfResponsibility": {
+    "title": "The Principle of Responsibility / 《责任原理》",
+    "url": "/wiki/entities/theprincipleofresponsibility/"
+  },
   "TheRealReal": {
     "title": "The RealReal",
     "url": "/wiki/entities/therealreal/"
@@ -57627,6 +57667,10 @@
     "title": "Ukraine Military Command Reform",
     "url": "/wiki/concepts/ukrainemilitarycommandreform/"
   },
+  "UlrichBeck": {
+    "title": "Ulrich Beck / 乌尔里希·贝克",
+    "url": "/wiki/entities/ulrichbeck/"
+  },
   "UlrichSiegmund": {
     "title": "Ulrich Siegmund",
     "url": "/wiki/entities/ulrichsiegmund/"
@@ -58522,6 +58566,10 @@
   "ViktorBryukhanov": {
     "title": "Viktor Bryukhanov / 布留哈诺夫",
     "url": "/wiki/entities/viktorbryukhanov/"
+  },
+  "ViktorMayerSchonberger": {
+    "title": "Viktor Mayer-Schonberger / 维克托·迈尔-舍恩伯格",
+    "url": "/wiki/entities/viktormayerschonberger/"
   },
   "VillaDiodati": {
     "title": "Villa Diodati / 迪奥达蒂别墅",
@@ -63187,6 +63235,10 @@
     "title": "Youth Precarity Politics",
     "url": "/wiki/concepts/youthprecaritypolitics/"
   },
+  "YouthPrecautionaryCulture": {
+    "title": "Youth Precautionary Culture / 青年预防性文化",
+    "url": "/wiki/concepts/youthprecautionaryculture/"
+  },
   "YouthSoccerAccessInequality": {
     "title": "Youth Soccer Access Inequality",
     "url": "/wiki/concepts/youthsocceraccessinequality/"
@@ -66990,6 +67042,10 @@
   "episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318": {
     "title": "Episode 226: 说出口的话，正在塑造你的世界",
     "url": "/wiki/sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318/"
+  },
+  "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487": {
+    "title": "Episode 227: 二十一世纪青春物语",
+    "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
   },
   "episode-228-suoyi-aodesai-8211241331-711602": {
     "title": "Episode 228: 所以，奥德赛",

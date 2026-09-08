@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2253
+topic_total_pages: 2254
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2200,6 +2200,9 @@ topic_concepts:
   - key: "PlatformSafetyABTesting"
     title: "Platform Safety A/B Testing"
     url: "/wiki/concepts/platformsafetyabtesting/"
+  - key: "PlatformSelfDiscipline"
+    title: "Platform Self-Discipline / 平台自我规训"
+    url: "/wiki/concepts/platformselfdiscipline/"
   - key: "PlausibleMechanismPathway"
     title: "Plausible Mechanism Pathway"
     url: "/wiki/concepts/plausiblemechanismpathway/"

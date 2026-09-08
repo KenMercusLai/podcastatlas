@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 9339
+wiki_total_pages: 9345
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "ViktorBryukhanov"
     title: "Viktor Bryukhanov / 布留哈诺夫"
     url: "/wiki/entities/viktorbryukhanov/"
+  - key: "ViktorMayerSchonberger"
+    title: "Viktor Mayer-Schonberger / 维克托·迈尔-舍恩伯格"
+    url: "/wiki/entities/viktormayerschonberger/"
   - key: "VillaDiodati"
     title: "Villa Diodati / 迪奥达蒂别墅"
     url: "/wiki/entities/villadiodati/"

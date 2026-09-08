@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6732
+wiki_total_pages: 6739
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "DigitalMemorialization"
     title: "Digital Memorialization"
     url: "/wiki/concepts/digitalmemorialization/"
+  - key: "DigitalMemoryDefault"
+    title: "Digital Memory Default / 数字记忆默认"
+    url: "/wiki/concepts/digitalmemorydefault/"
   - key: "DigitalMusicLicensing"
     title: "Digital Music Licensing"
     url: "/wiki/concepts/digitalmusiclicensing/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 9339
+wiki_total_pages: 9345
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "Rishengchang"
     title: "Rishengchang / 日升昌"
     url: "/wiki/entities/rishengchang/"
+  - key: "RiskSocietyBook"
+    title: "Risk Society / 《风险社会》"
+    url: "/wiki/entities/risksocietybook/"
   - key: "RiversideNaturalFoods"
     title: "Riverside Natural Foods"
     url: "/wiki/entities/riversidenaturalfoods/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6732
+wiki_total_pages: 6739
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "NewtonianAlchemyTheology"
     title: "Newtonian Alchemy Theology"
     url: "/wiki/concepts/newtonianalchemytheology/"
+  - key: "NextChanceYouthOptionality"
+    title: "Next-Chance Youth Optionality / 青春下一次机会"
+    url: "/wiki/concepts/nextchanceyouthoptionality/"
   - key: "NicheOriginStoryExpansion"
     title: "Niche Origin Story Expansion"
     url: "/wiki/concepts/nicheoriginstoryexpansion/"

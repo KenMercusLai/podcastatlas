@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6732
+wiki_total_pages: 6739
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "IndividualizedCancerVaccineManufacturing"
     title: "Individualized Cancer Vaccine Manufacturing"
     url: "/wiki/concepts/individualizedcancervaccinemanufacturing/"
+  - key: "IndividualizedRiskResponsibility"
+    title: "Individualized Risk Responsibility / 风险责任个体化"
+    url: "/wiki/concepts/individualizedriskresponsibility/"
   - key: "IndustrialAIROIFilter"
     title: "Industrial AI ROI Filter"
     url: "/wiki/concepts/industrialairoifilter/"

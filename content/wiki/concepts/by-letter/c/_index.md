@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6732
+wiki_total_pages: 6739
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "ChildThirdPartyLiabilityInsurance"
     title: "Child Third-Party Liability Insurance"
     url: "/wiki/concepts/childthirdpartyliabilityinsurance/"
+  - key: "ChildbearingIrreversibility"
+    title: "Childbearing Irreversibility / 生育不可逆性"
+    url: "/wiki/concepts/childbearingirreversibility/"
   - key: "ChildcareInfrastructureConstraint"
     title: "Childcare Infrastructure Constraint"
     url: "/wiki/concepts/childcareinfrastructureconstraint/"
@@ -791,6 +794,9 @@ wiki_pages:
   - key: "CivilServiceContinuity"
     title: "Civil Service Continuity / 文官连续性"
     url: "/wiki/concepts/civilservicecontinuity/"
+  - key: "CivilServiceExamSecurityGamble"
+    title: "Civil-Service Exam Security Gamble / 考编安全豪赌"
+    url: "/wiki/concepts/civilserviceexamsecuritygamble/"
   - key: "CivilizationAsDeception"
     title: "Civilization As Deception"
     url: "/wiki/concepts/civilizationasdeception/"

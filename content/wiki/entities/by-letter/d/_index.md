@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9339
+wiki_total_pages: 9345
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "DeLeonTequila"
     title: "DeLeon Tequila"
     url: "/wiki/entities/deleontequila/"
+  - key: "DeleteBook"
+    title: "Delete / 《删除》"
+    url: "/wiki/entities/deletebook/"
   - key: "DeleteRequestAndOptOutPlatform"
     title: "Delete Request and Opt Out Platform"
     url: "/wiki/entities/deleterequestandoptoutplatform/"

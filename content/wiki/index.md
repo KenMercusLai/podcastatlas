@@ -43,6 +43,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [All right on the night: AfD's victory](sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f.md) — The Intelligence episode on AfD's 44% Saxony-Anhalt win, CDU collapse, BSW kingmaker arithmetic, contrail mitigation through Operation Blue Skies, and young South Koreans' renewed interest in Buddhism.
 - [时代症候，与安定此心](sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql.md) — 面基 episode with psychiatrist Jiang Tao on schizophrenia family caregiving, psychiatric diagnosis by function, somatization, mental-illness stigma, psychotherapy boundaries, and desire-capacity fit under contemporary anxiety.
 - [Episode 226: 说出口的话，正在塑造你的世界](sources/episode-226-shuochukou-de-hua-zhengzai-suzao-nide-shijie-8211256494-013318.md) — 迟早更新 crossover with 恰恰小豹 on birdsong playback ethics, human extraction from nature, ritualized apology, いただきます, Confucian form, speech acts, sincerity, and words training restraint.
+- [Episode 227: 二十一世纪青春物语](sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487.md) — 迟早更新 episode on youth precautionary culture, risk aversion, platform self-discipline, digital memory, risk society, civil-service exam safety bets, childbearing hesitation, and second-chance optionality.
 - [Episode 228: 所以，奥德赛](sources/episode-228-suoyi-aodesai-8211241331-711602.md) — 迟早更新 episode connecting the Beatles' "Because", Luo Dayou's 《所以》, Homer/Nolan's Odyssey, Earthrise, Whole Earth Catalog, AI, poetic causality, and responsibility after expanded technical power.
 - [Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘](sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw.md) — 不懂球 episode with Li Junrong on Hong Kong football professionalization, the Seiko dynasty, foreign-player escalation, commercial-team membership, and owner-control governance.
 - [How Mitochondria Control Your Metabolism | Dr. Jared Rutter](sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664.md) — Huberman Lab episode with Jared Rutter on mitochondria, cell-specific metabolism, pyruvate routing, MPC1/MPC2, lactate as fuel, cancer metabolic reprogramming, ROS stress, and biomedical uncertainty boundaries.
@@ -2157,10 +2158,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sophie Zhang](entities/SophieZhang.md) — Former Facebook data scientist and whistleblower named as part of the internal-evidence layer around platform accountability.
 - [Mark Lanier](entities/MarkLanier.md) — Product-liability lawyer named in the social-media litigation discussion around design-defect strategy.
 - [UNICEF](entities/UnitedNationsChildrenFund.md) — Child-focused UN institution cited for the argument that parents alone cannot police opaque social-media platforms and algorithms.
-- [迟早更新 / Chizao Gengxin](entities/ChizaoGengxin.md) — Essayistic podcast represented by episodes on carrier-bag narrative, embodied reading, AI-era association, music, classics, and technology responsibility.
+- [迟早更新 / Chizao Gengxin](entities/ChizaoGengxin.md) — Essayistic podcast represented by episodes on carrier-bag narrative, embodied reading, AI-era association, ritual speech, youth risk, music, classics, and technology responsibility.
 - [恰恰小豹 / Qia Qia Xiao Bao](entities/QiaQiaXiaoBao.md) — Birdwatching podcast represented through a 迟早更新 crossover on birdsong playback, field ethics, ritual speech, and observer responsibility.
 - [J. L. Austin / 奥斯丁](entities/JLAustin.md) — Language philosopher used by Episode 226 to explain performative utterances, speech-act ritual, and apology or promise as action.
 - [Lionel Trilling / 莱昂内尔·特里林](entities/LionelTrilling.md) — Literary critic used by Episode 226 to historicize sincerity and qualify the dismissal of ritual speech as fake.
+- [Hans Jonas / 汉斯·约纳斯](entities/HansJonas.md) — Philosopher used by Episode 227 to frame irreversible technological and personal decisions through responsibility ethics.
+- [The Principle of Responsibility / 《责任原理》](entities/ThePrincipleOfResponsibility.md) — Jonas book used by Episode 227 to connect modern technological risk with precaution before irreversible harm.
+- [Ulrich Beck / 乌尔里希·贝克](entities/UlrichBeck.md) — Sociologist used by Episode 227 to explain risk society and the individualization of structural insecurity.
+- [Risk Society / 《风险社会》](entities/RiskSocietyBook.md) — Beck book used by Episode 227 to frame unemployment, housing, career, and family risks as individualized burdens.
+- [Viktor Mayer-Schonberger / 维克托·迈尔-舍恩伯格](entities/ViktorMayerSchonberger.md) — Digital-memory theorist used by Episode 227 to explain why forgetting matters when records persist.
+- [Delete / 《删除》](entities/DeleteBook.md) — Book used by Episode 227 to describe digital systems making memory default and forgetting costly.
 - [罗大佑 / Luo Dayou](entities/LuoDayou.md) — Songwriter represented through 《所以》 as a mature response to "Because" and a meditation on AI-era consequence.
 - [The Beatles / 披头士](entities/TheBeatles.md) — Band represented through "Because" as the earlier song in Episode 228's because/so poetic-causality comparison.
 - ["Because" / Beatles Song](entities/BecauseSong.md) — Beatles song read as using a logical connective poetically to connect world, wind, sky, love, and feeling.
@@ -8647,7 +8654,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jul / 朱勒尔](entities/JulCartoonist.md) — Satirical cartoonist credited as visual co-creator of 《柏拉图上班记》.
 - [Plato / 柏拉图](entities/Plato.md) — Philosopher represented through the cave allegory, workplace satire, and Atlantis as a political myth later reception repeatedly transforms.
 - [Socrates / 苏格拉底](entities/Socrates.md) — Mentor figure whose cave and hemlock motifs are rebuilt as office onboarding jokes.
-- [Michel Foucault / 福柯](entities/MichelFoucault.md) — Monitoring officer figure used by episode 92 to discuss workplace surveillance and restroom privacy.
+- [Michel Foucault / 福柯](entities/MichelFoucault.md) — Philosopher used to connect workplace surveillance, platform self-discipline, visibility, and anticipatory self-monitoring.
 - [Blaise Pascal / 帕斯卡](entities/BlaisePascal.md) — Employee caught gambling at work, connecting distraction, boredom, death anxiety, and monitored "摸鱼".
 - [Baruch Spinoza / 斯宾诺莎](entities/BaruchSpinoza.md) — Figure who reframes the absent boss-God as "NATURE" capital in the source's corporate theology joke.
 - [Thomas Aquinas / 托马斯·阿奎那](entities/ThomasAquinas.md) — Catholic workers' union envoy who defends God and criticizes brutalizing commercial competition.
@@ -10226,8 +10233,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [叮当快药](entities/DingdangKuaiyao.md) — Drug-delivery O2O company that survived by standardizing pharmacy logistics and fast delivery.
 - [Poke Robotics](entities/PokeRobotics.md) — Xu Huazhe's new robotics startup pursuing household robots as a route toward Physical AGI.
 - [N 同学 / N Student](entities/NStudent.md) — Anonymized vector-model engineer explaining NLP history, RAG infrastructure, relevance definitions, hard negatives, AI coding judgment, and why fluent models still need retrieval systems.
-- [任宁 / Ren Ning](entities/RenNing.md) — Birdwatcher and nature writer using observation, bird lists, urban habitats, conservation projects, and field experience to make nature more legible.
-- [《希望是那长着羽毛的小东西》 / Hope Is the Thing with Feathers](entities/HopeIsTheThingWithFeathersBook.md) — Ren Ning's nature-writing book about bird memory, field notes, sensory pressure, and writing without replacing prose with bird images.
+- [任宁 / Ren Ning](entities/RenNing.md) — Birdwatcher, nature writer, and 迟早更新 host using field attention, embodied writing, ritual speech, and youth-risk essays to connect experience with responsibility.
+- [《希望是那长着羽毛的小东西》 / Hope Is the Thing with Feathers](entities/HopeIsTheThingWithFeathersBook.md) — Ren Ning's nature-writing essay collection about bird memory, field notes, sensory pressure, print reading, and writing without replacing prose with bird images.
 - [eBird](entities/EBird.md) — Bird-observation platform used as a citizen-science case for turning personal bird lists and sightings into structured research data.
 - [懂鸟 / Dongniao](entities/Dongniao.md) — Chinese AI bird-recognition tool used to illustrate rare-species identification limits and spurious visual correlations.
 - [中华凤头燕鸥 / Chinese Crested Tern](entities/ChineseCrestedTern.md) — Endangered tern species used as the source's concrete case for active conservation intervention.
@@ -15727,6 +15734,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ritualized Apology And Gratitude / 仪式化抱歉与感谢](concepts/RitualizedApologyGratitude.md) — Small speech practice of thanking and apologizing after disturbance so the contradiction remains visible and can train later restraint.
 - [Speech Act Ritual / 言语行为仪式](concepts/SpeechActRitual.md) — Language-ritual frame where words matter through what they perform, bind, and train, not only through inner sincerity.
 - [Itadakimasu Everyday Ritual / いただきます日常仪式](concepts/ItadakimasuEverydayRitual.md) — Everyday meal phrase used by Episode 226 to show how repeated speech can preserve attention to food, life, labor, and receiving.
+- [Youth Precautionary Culture / 青年预防性文化](concepts/YouthPrecautionaryCulture.md) — Episode 227 frame for progressive values coexisting with risk aversion, boundary-setting, rule awareness, and harm prevention.
+- [Platform Self-Discipline / 平台自我规训](concepts/PlatformSelfDiscipline.md) — Pattern where platform rules, screenshots, search records, reports, and third-party judgment train anticipatory conduct.
+- [Digital Memory Default / 数字记忆默认](concepts/DigitalMemoryDefault.md) — Condition where digital records make remembering easy and forgetting costly, narrowing the room for change and forgiveness.
+- [Individualized Risk Responsibility / 风险责任个体化](concepts/IndividualizedRiskResponsibility.md) — Pattern where structural insecurity is experienced and punished as personal choice, planning, or failure.
+- [Civil-Service Exam Security Gamble / 考编安全豪赌](concepts/CivilServiceExamSecurityGamble.md) — Reframing of civil-service exam preparation as a high-cost bet on future security rather than simple comfort-seeking.
+- [Childbearing Irreversibility / 生育不可逆性](concepts/ChildbearingIrreversibility.md) — Episode 227 frame for childbearing hesitation as caution around an irreversible life decision.
+- [Next-Chance Youth Optionality / 青春下一次机会](concepts/NextChanceYouthOptionality.md) — Idea that youthful risk-taking depends on believing mistakes are recoverable and another attempt remains available.
 - [New Wave Science Fiction / 科幻新浪潮](concepts/ScienceFictionNewWave.md) — Literary-history frame for Zelazny's experimental but still humanistic science-fiction position.
 - [Mythic Science Fiction Style](concepts/MythicScienceFictionStyle.md) — Zelazny-style fusion of speculative premises with myth, scripture, poetry, art, and epic emotional scale.
 - [Robot-Human Boundary](concepts/RobotHumanBoundary.md) — Question of how machines become person-like and people become machine-like through body, trauma, upload, and agency.

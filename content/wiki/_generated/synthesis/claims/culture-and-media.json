@@ -140,8 +140,26 @@
         "TelevisionBroadcastsLimited",
         "LuoyonghaosCrossroads"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "youth-culture-turns-risk-into-form",
+      "qualifications": [
+        "The Episode 227 youth diagnosis is essayistic and source-scoped rather than representative demographic evidence.",
+        "The claim distinguishes precautionary conduct from traditional political conservatism; it should not be used as proof of broad youth rightward movement."
+      ],
+      "statement": "[[episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487|Episode 227]] adds a youth-culture variant of form-as-infrastructure: [[YouthPrecautionaryCulture]], [[PlatformSelfDiscipline]], [[DigitalMemoryDefault]], [[IndividualizedRiskResponsibility]], and [[NextChanceYouthOptionality]] show how economic stagnation, platform evidence, durable records, and individualized structural risk can make cautious conduct coexist with progressive values.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487",
+        "YouthPrecautionaryCulture",
+        "PlatformSelfDiscipline",
+        "DigitalMemoryDefault",
+        "IndividualizedRiskResponsibility",
+        "NextChanceYouthOptionality"
+      ]
     }
   ],
-  "summary": "Culture and media sources currently treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translation tools, and heritage routes do not merely carry content; they decide what becomes legible, intimate, durable, or playable. Across the topic, durable cultural value appears when medium, material form, audience practice, and interpretation are designed together, while source-scoped limits remain around forecasts, exact commercial metrics, adaptation judgments, and technical capability claims. The Wang Jing interview adds commercial cinema to this form-as-infrastructure pattern: Hong Kong film memory depends on TVB training, Taiwan distribution, audience logic, genre constraints, and source-scoped industry testimony as much as remembered titles.",
+  "summary": "Culture and media sources currently treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translation tools, youth-risk norms, and heritage routes do not merely carry content; they decide what becomes legible, intimate, durable, cautious, or playable. Across the topic, durable cultural value appears when medium, material form, audience practice, and interpretation are designed together, while source-scoped limits remain around forecasts, exact commercial metrics, adaptation judgments, youth-demographic generalization, and technical capability claims. Episode 227 adds a precautionary-culture layer: platform evidence, digital memory, individualized risk, and weakened second-chance confidence can become cultural form, not just private anxiety.",
   "topic_id": "culture-and-media"
 }

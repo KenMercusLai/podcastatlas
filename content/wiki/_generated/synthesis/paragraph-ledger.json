@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "993a336b4cbfa8e8effe11c6197e41d99a7a73bf3a265ebb4fa9939bda3f4928",
       "1c134906278438e00e83ff37918f4d10dd50edd72acc03ce0b6dda825da3d7a8",
       "628ee99d6c87f88195c367e7a3157430c4a93220c221be6019e3fb43166a5d2d",
       "01efd245c7b2792a9e10bed09d5c5cea8817e44eeebf7d5f664f11fa3930339d",
@@ -594,11 +595,43 @@
       "2329e7eab06651d12277d1121e2f6f787bf502e9b853ce051ac66f1a6ecc7b80",
       "08ce087b5036dedcaf145e2c88ca51ea2070e265e9815cfe93ea1755ee057d3f"
     ],
-    "paragraph_count": 592
+    "paragraph_count": 593
   },
-  "overview_commit": "a15666c4980e9e3f89e36f3ed1f0f39e74070475",
-  "overview_digest": "06ea9217d3fd449d5d9bdbf05984d5a33aab43e14220e31e514dcf9d45c383e7",
+  "overview_commit": "7d4b457ed2bb8a1312bcd184534241d03c09db69",
+  "overview_digest": "b7f78e6f1df44e32474c4f07ab41d35d13cd1b117469f5559ce1f687dab68709",
   "paragraphs": [
+    {
+      "id": "993a336b4cbfa8e8effe11c6197e41d99a7a73bf3a265ebb4fa9939bda3f4928",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [],
+      "text": "The latest addition is [[episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487|Episode 227: 二十一世纪青春物语]], a [[ChizaoGengxin|迟早更新]] episode where [[RenNing]] distinguishes traditional political conservatism from [[YouthPrecautionaryCulture|youth precautionary culture]]. It adds [[HansJonas]], [[ThePrincipleOfResponsibility]], [[UlrichBeck]], [[RiskSocietyBook]], [[ViktorMayerSchonberger]], [[DeleteBook]], [[YouthPrecautionaryCulture]], [[PlatformSelfDiscipline]], [[DigitalMemoryDefault]], [[IndividualizedRiskResponsibility]], [[CivilServiceExamSecurityGamble]], [[ChildbearingIrreversibility]], and [[NextChanceYouthOptionality]], while extending [[MichelFoucault]], [[ChizaoGengxin]], [[RenNing]], and [[HopeIsTheThingWithFeathersBook]]. Its core synthesis is that young people may combine progressive rights commitments with cautious conduct because economic stagnation, platform evidence, permanent digital memory, individualized structural risk, and irreversible life decisions make mistakes feel less survivable. No settled contradiction is recorded; the source's youth diagnosis remains essayistic and source-scoped rather than representative demographic evidence.",
+      "topic_scores": {
+        "culture-and-media": 2,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ChildbearingIrreversibility",
+        "ChizaoGengxin",
+        "CivilServiceExamSecurityGamble",
+        "DeleteBook",
+        "DigitalMemoryDefault",
+        "HansJonas",
+        "HopeIsTheThingWithFeathersBook",
+        "IndividualizedRiskResponsibility",
+        "MichelFoucault",
+        "NextChanceYouthOptionality",
+        "PlatformSelfDiscipline",
+        "RenNing",
+        "RiskSocietyBook",
+        "ThePrincipleOfResponsibility",
+        "UlrichBeck",
+        "ViktorMayerSchonberger",
+        "YouthPrecautionaryCulture",
+        "episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487"
+      ]
+    },
     {
       "id": "1c134906278438e00e83ff37918f4d10dd50edd72acc03ce0b6dda825da3d7a8",
       "primary_topic": "governance-and-institutions",

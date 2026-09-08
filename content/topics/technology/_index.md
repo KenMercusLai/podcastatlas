@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2817
+topic_total_pages: 2821
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4646,6 +4646,9 @@ topic_entities:
   - key: "Dehomag"
     title: "Dehomag / 德霍梅格"
     url: "/wiki/entities/dehomag/"
+  - key: "DeleteBook"
+    title: "Delete / 《删除》"
+    url: "/wiki/entities/deletebook/"
   - key: "DemisHassabis"
     title: "Demis Hassabis"
     url: "/wiki/entities/demishassabis/"
@@ -5000,6 +5003,9 @@ topic_entities:
   - key: "HangSengTechIndex"
     title: "Hang Seng Tech Index"
     url: "/wiki/entities/hangsengtechindex/"
+  - key: "HansJonas"
+    title: "Hans Jonas / 汉斯·约纳斯"
+    url: "/wiki/entities/hansjonas/"
   - key: "Happierleads"
     title: "Happierleads"
     url: "/wiki/entities/happierleads/"
@@ -6476,6 +6482,9 @@ topic_entities:
   - key: "TheInformation"
     title: "The Information"
     url: "/wiki/entities/theinformation/"
+  - key: "ThePrincipleOfResponsibility"
+    title: "The Principle of Responsibility / 《责任原理》"
+    url: "/wiki/entities/theprincipleofresponsibility/"
   - key: "ThreatLocker"
     title: "ThreatLocker"
     url: "/wiki/entities/threatlocker/"
@@ -6641,6 +6650,9 @@ topic_entities:
   - key: "ViduS1"
     title: "Vidu S1"
     url: "/wiki/entities/vidus1/"
+  - key: "ViktorMayerSchonberger"
+    title: "Viktor Mayer-Schonberger / 维克托·迈尔-舍恩伯格"
+    url: "/wiki/entities/viktormayerschonberger/"
   - key: "Visa"
     title: "Visa"
     url: "/wiki/entities/visa/"

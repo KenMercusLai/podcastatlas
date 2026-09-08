@@ -15976,6 +15976,10 @@ Ingested the 2026-06-21 博物志 episode on Hangzhou Museum's “意味杭之�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | Episode 227: 二十一世纪青春物语
+
+Ingested the 2026-09-07 迟早更新 episode on youth precautionary culture, risk aversion, economic stagnation, platform self-discipline, digital memory, responsibility ethics, risk society, civil-service exam safety bets, childbearing hesitation, and second-chance optionality. Added source `episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487`; created `HansJonas`, `ThePrincipleOfResponsibility`, `UlrichBeck`, `RiskSocietyBook`, `ViktorMayerSchonberger`, `DeleteBook`, `YouthPrecautionaryCulture`, `PlatformSelfDiscipline`, `DigitalMemoryDefault`, `IndividualizedRiskResponsibility`, `CivilServiceExamSecurityGamble`, `ChildbearingIrreversibility`, and `NextChanceYouthOptionality`; updated `ChizaoGengxin`, `RenNing`, `HopeIsTheThingWithFeathersBook`, `MichelFoucault`, `index`, and `overview`. No settled contradiction found; the youth diagnosis remains source-scoped because the episode is essayistic rather than survey-based.
+
 ## [2026-09-08] ingest | 499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山
 
 Ingested the 2026-09-08 忽左忽右 episode with Yan Haijun on Longshan / Longshan historical geography, Guanlong ancient roads, Qin eastward movement, Han Wudi's westward expansion, Tianxia China, and Gansu-Shaanxi corridor continuity. Added source `499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay`; created `YanHaijun`, `LongshanGansuShaanxi`, `GuanlongAncientRoad`, `AncientSilkRoad`, `LongshanEastWestCorridor`, and `TianxiaChina`; updated `Gansu`, `index`, and `overview`. No settled contradiction found; the 严海军/阎海军 name variance, 龙山/陇山 wording, Qin-origin discussion, and Zhang Qian place-memory claims remain source-scoped.
@@ -16209,5 +16213,9 @@ Ran lint. See lint-report.md for details.
 Ingested the 2026-09-08 疯投圈 episode on SHEIN's Hong Kong listing, European tariff and anti-ultra-fast-fashion pressure, SHEIN's small-order quick-response model, overseas warehouse inventory risk, Temu's low-price resilience, and Pinduoduo/Xinpinmu self-operated quality upgrade. Added source `147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1`; created `XinPinmu`, `CrossBorderEcommerceLocalizationPressure`, `OverseasWarehouseInventoryRisk`, and `PlatformSelfOperatedQualityUpgrade`; updated `SHEIN`, `Temu`, `Pinduoduo`, `SmallOrderQuickResponse`, and `index`. No settled contradiction found; IPO status, revenue figures, GMV estimates, tariff details, self-operated risk sharing, and supplier sentiment remain source-scoped.
 
 ## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
