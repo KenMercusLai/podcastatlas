@@ -9819,6 +9819,10 @@
     "title": "Carlo Collodi / 卡洛·科洛迪",
     "url": "/wiki/entities/carlocollodi/"
   },
+  "CarlosStartupEmbassy": {
+    "title": "Carlos (Startup Embassy)",
+    "url": "/wiki/entities/carlosstartupembassy/"
+  },
   "CarlotaPerez": {
     "title": "Carlota Perez",
     "url": "/wiki/entities/carlotaperez/"
@@ -24483,6 +24487,10 @@
     "title": "Habiba Fayed",
     "url": "/wiki/entities/habibafayed/"
   },
+  "HabibayStartupEmbassyResident": {
+    "title": "Habibay (Startup Embassy Resident)",
+    "url": "/wiki/entities/habibaystartupembassyresident/"
+  },
   "HabitPositiveFeedback": {
     "title": "Habit Positive Feedback / 习惯正反馈",
     "url": "/wiki/concepts/habitpositivefeedback/"
@@ -31199,6 +31207,10 @@
     "title": "Kenan Voice Changer",
     "url": "/wiki/entities/kenanvoicechanger/"
   },
+  "KenjiYamamoto": {
+    "title": "Kenji Yamamoto",
+    "url": "/wiki/entities/kenjiyamamoto/"
+  },
   "KennethBianchi": {
     "title": "Kenneth Bianchi",
     "url": "/wiki/entities/kennethbianchi/"
@@ -35094,6 +35106,10 @@
   "LucasSimon": {
     "title": "Lucas Simon",
     "url": "/wiki/entities/lucassimon/"
+  },
+  "LucasStartupEmbassyResident": {
+    "title": "Lucas (Startup Embassy Resident)",
+    "url": "/wiki/entities/lucasstartupembassyresident/"
   },
   "Lucasfilm": {
     "title": "Lucasfilm",
@@ -52779,6 +52795,10 @@
     "title": "Startup Ecosystem Optimism",
     "url": "/wiki/concepts/startupecosystemoptimism/"
   },
+  "StartupEmbassy": {
+    "title": "Startup Embassy",
+    "url": "/wiki/entities/startupembassy/"
+  },
   "StartupEssayDistribution": {
     "title": "Startup Essay Distribution",
     "url": "/wiki/concepts/startupessaydistribution/"
@@ -55494,6 +55514,10 @@
   "TheDoorsOfHisFaceTheLampsOfHisMouth": {
     "title": "《脸上的门，口中的灯》 / The Doors of His Face, The Lamps of His Mouth",
     "url": "/wiki/entities/thedoorsofhisfacethelampsofhismouth/"
+  },
+  "TheDreamersAndI": {
+    "title": "The Dreamers and I",
+    "url": "/wiki/entities/thedreamersandi/"
   },
   "TheEconomicWayOfThinking": {
     "title": "《经济学的思维方式》 / The Economic Way of Thinking",
@@ -68486,6 +68510,10 @@
   "tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128": {
     "title": "NYC public schools ban AI through middle school",
     "url": "/wiki/sources/tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128/"
+  },
+  "tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128": {
+    "title": "The Silicon Valley hopefuls living in hacker houses",
+    "url": "/wiki/sources/tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128/"
   },
   "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460": {
     "title": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？",

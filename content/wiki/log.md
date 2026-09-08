@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-08] ingest | The Silicon Valley hopefuls living in hacker houses
+
+Ingested the 2026-09-08 Marketplace Tech episode with Kenji Yamamoto on The Dreamers and I, Startup Embassy, Carlos, Habibay, Lucas, crowded Silicon Valley hacker houses, immigrant founder ambition, Palo Alto neighborhood complaints, and mission-driven startup housing. Added source `tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128`; created `KenjiYamamoto`, `TheDreamersAndI`, `StartupEmbassy`, `CarlosStartupEmbassy`, `HabibayStartupEmbassyResident`, and `LucasStartupEmbassyResident`; updated `HackerHouseStartupInfrastructure`, `FounderLifestyleInfrastructure`, `index`, and `overview`. No settled contradiction found; Palo Alto complaint details, Carlos' business outcomes, resident identities, prototype count, and product status remain source-scoped.
+
 ## [2026-09-08] ingest | 王晶×罗永浩！谁还记得大导演张彻楚原？我死了什么都不需要留下
 
 Ingested the 2026-06-11 罗永浩的十字路口 interview with Wang Jing on Hong Kong film's TVB talent pipeline, Taiwan market base, commercial genre logic, gang pressure, piracy shock, northbound production, and AI-era performance limits. Added source `wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np`; created `WongJing`, `TelevisionBroadcastsLimited`, `ShawBrothersStudio`, `WinsEntertainment`, `HongKongFilmIndustry`, `CommercialFilmAudienceLogic`, `TVBTalentPipeline`, `TaiwanMarketHongKongCinema`, `HongKongFilmGangPressure`, and `HongKongFilmMarketDecline`; updated `LuoyonghaosCrossroads`, `ActorAIPerformanceBoundary`, `index`, and `overview`. No settled contradiction found; profitability, gang-pressure, private-dispute, and decline-causality claims remain source-scoped.
@@ -16179,6 +16183,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 18,058 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-09-02 with 16,930 nodes and 195,431 edges while lint scanned 18,058 pages, so bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, one fragile bridge (`entities/CatholicChurch` -> `concepts/ReligiousControlledSubstanceExemption`), and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-08] lint | Wiki health check
 

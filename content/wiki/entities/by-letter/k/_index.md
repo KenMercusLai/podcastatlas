@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 9332
+wiki_total_pages: 9338
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "KenanVoiceChanger"
     title: "Kenan Voice Changer"
     url: "/wiki/entities/kenanvoicechanger/"
+  - key: "KenjiYamamoto"
+    title: "Kenji Yamamoto"
+    url: "/wiki/entities/kenjiyamamoto/"
   - key: "KennethBianchi"
     title: "Kenneth Bianchi"
     url: "/wiki/entities/kennethbianchi/"

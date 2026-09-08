@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Silicon Valley hopefuls living in hacker houses](sources/tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128.md) — Marketplace Tech episode with Kenji Yamamoto on The Dreamers and I, Startup Embassy, crowded Silicon Valley hacker houses, immigrant founder persistence, neighborhood tension, and mission-driven startup housing.
 - [499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山](sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay.md) — 忽左忽右 episode with Yan Haijun on Longshan, Guanlong roads, Qin-Han east-west movement, Tianxia China, and northwest historical geography.
 - [《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！](sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp.md) — 21 CE Wang Mang backfill on Empress Xiaomu's death, Wang Lin's scandal and forced suicide, public-son succession collapse, private sons Wang Xing and Wang Kuang, failed campaigns, Xiongnu requisitions, famine, and private-coinage punishment.
 - [《资治通鉴·汉纪》663丨更始帝刘玄是滩扶不上墙的烂泥？](sources/zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz.md) — Gengshi 1 backfill on Liu Xuan's controllable Liu-lineage elevation, Liu Yan's delayed-title warning, Zhang Ang's pressure intervention, Wang Mang's pre-Kunyang mobilization, and Liu Xiu's Kunyang survival counsel.
@@ -2026,6 +2027,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Kenji Yamamoto](entities/KenjiYamamoto.md) — Filmmaker behind The Dreamers and I, using Startup Embassy to document Silicon Valley hacker-house life.
+- [The Dreamers and I](entities/TheDreamersAndI.md) — PBS documentary project on Silicon Valley hacker houses, Startup Embassy, and immigrant startup hopefuls.
+- [Startup Embassy](entities/StartupEmbassy.md) — Mission-driven Silicon Valley hacker house run by Carlos and featured in The Dreamers and I.
+- [Carlos (Startup Embassy)](entities/CarlosStartupEmbassy.md) — Source-scoped Startup Embassy operator whose mission gatekeeping shaped the house's founder-community identity.
+- [Habibay (Startup Embassy Resident)](entities/HabibayStartupEmbassyResident.md) — Istanbul-born inventor-founder whose small fire-extinguisher story grounds the Startup Embassy branch.
+- [Lucas (Startup Embassy Resident)](entities/LucasStartupEmbassyResident.md) — Seville-born founder whose decade-long pre-AI self-coding software effort illustrates persistence under strain.
 - [Yan Haijun / 严海军 / 阎海军](entities/YanHaijun.md) — Non-fiction writer and Longshan historical-geography interpreter from the 忽左忽右 episode.
 - [陇山 / 龙山 / Longshan (Gansu-Shaanxi)](entities/LongshanGansuShaanxi.md) — Northwest mountain system framed as an east-west hinge between Guanzhong, Longyou, Hexi, and the Western Regions.
 - [关陇古道 / Guanlong Ancient Road](entities/GuanlongAncientRoad.md) — Changing old route system across Longshan that becomes imperial transport infrastructure in the source.

@@ -12953,6 +12953,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CarlosStartupEmbassy": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "CarlotaPerez": [
     {
       "key": "technology",
@@ -28847,6 +28854,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "HabibayStartupEmbassyResident": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "HabitPositiveFeedback": [
     {
       "key": "science",
@@ -36011,6 +36025,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "KenjiYamamoto": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "KennethStanley": [
     {
       "key": "technology",
@@ -39436,6 +39457,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "LucasStartupEmbassyResident": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "Lucasfilm": [
@@ -62538,6 +62571,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "TheDreamersAndI": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "TheEconomicWayOfThinking": [
     {
       "key": "economics",
@@ -76898,6 +76938,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460": [

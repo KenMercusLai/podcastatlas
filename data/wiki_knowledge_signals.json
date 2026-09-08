@@ -10925,6 +10925,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/careerpositioningthroughfit/"
     },
+    "CarlosStartupEmbassy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260908_0908_MP_TECH_pod_128 [tech_20260908_0908_MP_TECH_pod_128].md",
+          "key": "tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The Silicon Valley hopefuls living in hacker houses",
+          "url": "/wiki/sources/tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/carlosstartupembassy/"
+    },
     "CarmeliteConventMayerling": {
       "episode_count": 1,
       "show_count": 1,
@@ -27103,6 +27119,29 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/founderego/"
     },
+    "FounderLifestyleInfrastructure": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10 [f0870843-fd16-49f5-8f24-80281f9fff77].md",
+          "key": "tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77",
+          "show": "What's Next｜科技早知道",
+          "title": "探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10",
+          "url": "/wiki/sources/tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77/"
+        },
+        {
+          "episode_file": "tech_20260908_0908_MP_TECH_pod_128 [tech_20260908_0908_MP_TECH_pod_128].md",
+          "key": "tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The Silicon Valley hopefuls living in hacker houses",
+          "url": "/wiki/sources/tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/founderlifestyleinfrastructure/"
+    },
     "FounderMotivationEvolution": {
       "episode_count": 10,
       "show_count": 3,
@@ -32038,6 +32077,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/hyrox/"
     },
+    "HabibayStartupEmbassyResident": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260908_0908_MP_TECH_pod_128 [tech_20260908_0908_MP_TECH_pod_128].md",
+          "key": "tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The Silicon Valley hopefuls living in hacker houses",
+          "url": "/wiki/sources/tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/habibaystartupembassyresident/"
+    },
     "HabsburgDynasty": {
       "episode_count": 2,
       "show_count": 1,
@@ -32060,6 +32115,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/habsburgdynasty/"
+    },
+    "HackerHouseStartupInfrastructure": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10 [f0870843-fd16-49f5-8f24-80281f9fff77].md",
+          "key": "tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77",
+          "show": "What's Next｜科技早知道",
+          "title": "探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10",
+          "url": "/wiki/sources/tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77/"
+        },
+        {
+          "episode_file": "tech_20260908_0908_MP_TECH_pod_128 [tech_20260908_0908_MP_TECH_pod_128].md",
+          "key": "tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The Silicon Valley hopefuls living in hacker houses",
+          "url": "/wiki/sources/tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/hackerhousestartupinfrastructure/"
     },
     "Haidilao": {
       "episode_count": 3,
@@ -39908,6 +39986,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/kencato/"
     },
+    "KenjiYamamoto": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260908_0908_MP_TECH_pod_128 [tech_20260908_0908_MP_TECH_pod_128].md",
+          "key": "tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The Silicon Valley hopefuls living in hacker houses",
+          "url": "/wiki/sources/tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/kenjiyamamoto/"
+    },
     "KetogenicDietEpilepsyEvidence": {
       "episode_count": 1,
       "show_count": 1,
@@ -46517,6 +46611,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/luzhilatehan/"
+    },
+    "LucasStartupEmbassyResident": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260908_0908_MP_TECH_pod_128 [tech_20260908_0908_MP_TECH_pod_128].md",
+          "key": "tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The Silicon Valley hopefuls living in hacker houses",
+          "url": "/wiki/sources/tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/lucasstartupembassyresident/"
     },
     "LucentTechnologies": {
       "episode_count": 1,
@@ -68356,6 +68466,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/stanleydruckenmiller/"
     },
+    "StartupEmbassy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260908_0908_MP_TECH_pod_128 [tech_20260908_0908_MP_TECH_pod_128].md",
+          "key": "tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The Silicon Valley hopefuls living in hacker houses",
+          "url": "/wiki/sources/tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/startupembassy/"
+    },
     "StateDependentSelfControl": {
       "episode_count": 1,
       "show_count": 1,
@@ -71955,6 +72081,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/thecoralisland/"
+    },
+    "TheDreamersAndI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260908_0908_MP_TECH_pod_128 [tech_20260908_0908_MP_TECH_pod_128].md",
+          "key": "tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The Silicon Valley hopefuls living in hacker houses",
+          "url": "/wiki/sources/tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/thedreamersandi/"
     },
     "TheEndOfReadingIsHere": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9332
+wiki_total_pages: 9338
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "HabibaFayed"
     title: "Habiba Fayed"
     url: "/wiki/entities/habibafayed/"
+  - key: "HabibayStartupEmbassyResident"
+    title: "Habibay (Startup Embassy Resident)"
+    url: "/wiki/entities/habibaystartupembassyresident/"
   - key: "HabsburgDynasty"
     title: "Habsburg Dynasty"
     url: "/wiki/entities/habsburgdynasty/"

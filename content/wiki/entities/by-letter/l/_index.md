@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9332
+wiki_total_pages: 9338
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "LucaDiMontezemolo"
     title: "Luca di Montezemolo"
     url: "/wiki/entities/lucadimontezemolo/"
+  - key: "LucasStartupEmbassyResident"
+    title: "Lucas (Startup Embassy Resident)"
+    url: "/wiki/entities/lucasstartupembassyresident/"
   - key: "LucasBabic"
     title: "Lucas Babic"
     url: "/wiki/entities/lucasbabic/"

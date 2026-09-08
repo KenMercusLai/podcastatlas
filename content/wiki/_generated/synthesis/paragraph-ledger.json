@@ -591,12 +591,13 @@
       "50c10ede37a5054232536c4055debd33554deb141412a8be7da09db5505c5e9c",
       "84dd49ac166e4697c7944d5e84ddfcbab4c58fe49670c3ea55a8fcc24b4214bf",
       "47f00b5a6071894a52decccac47bb644170058bfe2e6c4ee40872a73dd9fddea",
-      "2329e7eab06651d12277d1121e2f6f787bf502e9b853ce051ac66f1a6ecc7b80"
+      "2329e7eab06651d12277d1121e2f6f787bf502e9b853ce051ac66f1a6ecc7b80",
+      "08ce087b5036dedcaf145e2c88ca51ea2070e265e9815cfe93ea1755ee057d3f"
     ],
-    "paragraph_count": 591
+    "paragraph_count": 592
   },
-  "overview_commit": "1ccad4041e9b32ef1c3cfa6415ec71901479e9e6",
-  "overview_digest": "46d11fcc262790542e9de0f2aa4e6de81382f38cdc066fa0a99db84f65fec5e0",
+  "overview_commit": "165a3668984954cbf9ef1219f215c97752e4b427",
+  "overview_digest": "679f3c20a24f5ce831333173e51df1234f083fab993f1cc7bf0118fdf18e4ddc",
   "paragraphs": [
     {
       "id": "1c134906278438e00e83ff37918f4d10dd50edd72acc03ce0b6dda825da3d7a8",
@@ -18125,6 +18126,33 @@
         "WesternRegionsProtectorate",
         "Xiongnu",
         "YanHaijun"
+      ]
+    },
+    {
+      "id": "08ce087b5036dedcaf145e2c88ca51ea2070e265e9815cfe93ea1755ee057d3f",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "The latest addition is [[tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128|The Silicon Valley hopefuls living in hacker houses]], a [[MarketplaceTech]] episode with [[KenjiYamamoto]] on [[TheDreamersAndI]], [[StartupEmbassy]], and Silicon Valley hacker-house life. It adds [[KenjiYamamoto]], [[TheDreamersAndI]], [[StartupEmbassy]], [[CarlosStartupEmbassy|Carlos]], [[HabibayStartupEmbassyResident|Habibay]], and [[LucasStartupEmbassyResident|Lucas]], while extending [[HackerHouseStartupInfrastructure]], [[FounderLifestyleInfrastructure]], [[StartupCommunityInfrastructure]], [[FounderNetworkArbitrage]], and [[SanFranciscoBayArea]]. Its core synthesis is that hacker houses are not only recent AI-era equity programs: Startup Embassy shows a more mission-driven and crowded gateway where affordability, immigrant founder ambition, peer density, and startup idealism coexist with comfort tradeoffs, neighborhood complaints, and business-model fragility. No settled contradiction is recorded; Palo Alto complaint details, Carlos' business outcomes, resident identities, Habibay's prototype count, Lucas' product status, and Yamamoto's interpretation of immigrant belief in America remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 4
+      },
+      "wikilinks": [
+        "CarlosStartupEmbassy",
+        "FounderLifestyleInfrastructure",
+        "FounderNetworkArbitrage",
+        "HabibayStartupEmbassyResident",
+        "HackerHouseStartupInfrastructure",
+        "KenjiYamamoto",
+        "LucasStartupEmbassyResident",
+        "MarketplaceTech",
+        "SanFranciscoBayArea",
+        "StartupCommunityInfrastructure",
+        "StartupEmbassy",
+        "TheDreamersAndI",
+        "tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128"
       ]
     }
   ],

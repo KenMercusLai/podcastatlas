@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2816
+topic_total_pages: 2817
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5465,6 +5465,9 @@ topic_entities:
   - key: "LuQi"
     title: "Lu Qi"
     url: "/wiki/entities/luqi/"
+  - key: "LucasStartupEmbassyResident"
+    title: "Lucas (Startup Embassy Resident)"
+    url: "/wiki/entities/lucasstartupembassyresident/"
   - key: "LuoFuli"
     title: "Luo Fuli / 罗福莉"
     url: "/wiki/entities/luofuli/"

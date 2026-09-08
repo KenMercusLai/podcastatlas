@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9332
+wiki_total_pages: 9338
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1094,6 +1094,9 @@ wiki_pages:
   - key: "StarshipTechnologies"
     title: "Starship Technologies"
     url: "/wiki/entities/starshiptechnologies/"
+  - key: "StartupEmbassy"
+    title: "Startup Embassy"
+    url: "/wiki/entities/startupembassy/"
   - key: "StartupSchool"
     title: "Startup School"
     url: "/wiki/entities/startupschool/"
