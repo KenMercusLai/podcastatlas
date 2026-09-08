@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [总第069期 五周年台庆特辑 | 大主播vs小播客【上】：播客到底有啥好做的](sources/zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u.md) — 读报teleread fifth-anniversary upper-half special with 月下瑶 on independent podcast sustainability, article selection, English and news writing, audio-production phases, tipping, comments, 48-hour data, and the creator/productization tension.
 - [EP86 颠覆工作流，效率提升3000%](sources/ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k.md) — 纵横四海 Mini MBA episode translating operations management into personal and organizational workflow design through constraints, WIP, queues, critical paths, bullwhip effects, TPS, agile, and Lean Startup feedback.
 - [《欢迎来龙餐馆》《空枪》说明中国电影还处理不了复杂政治问题](sources/huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1.md) — 电影巨辩 episode on mainland Chinese commercial cinema's difficulty handling Iraq-war politics, ordinary humanitarianism, Hong Kong crime-film inheritance, 1997 teleology, and Greater Bay Area-era film rewriting.
 - [181.这轮规模空前的中国制造业出海背后｜线下活动实录](sources/181-zhe-lun-guimo-kongqian-de-zhongguo-zhizaoye-chuhai-beihou-xianxia-huodong-shilu-lmkuwy-rlsjtpsjelotovauwyr0.md) — 起朱楼宴宾客 live Guangzhou discussion on Chinese manufacturing overseas expansion, domestic capacity pressure, host-country backlash, localization, outbound profit transmission, and investor due diligence.
@@ -2034,6 +2035,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [月下瑶 / Yue XiaYao](entities/YueXiaYao.md) — Chinese podcaster and 读报teleread listener who prompts the fifth-anniversary upper-half reflection on podcast sustainability, workflow, taste, and feedback.
 - [Wen Muye / 文牧野](entities/WenMuye.md) — Mainland Chinese commercial film director discussed through 《欢迎来龙餐馆》, emotional craft, and cross-context political limits.
 - [Han Yan / 韩延 (director)](entities/HanYanDirector.md) — Mainland Chinese commercial film director discussed through 《空枪》 and Greater Bay Area-era Hong Kong crime-film rewriting.
 - [Welcome to Lailong Restaurant / 欢迎来龙餐馆](entities/WelcomeToLailongRestaurant.md) — Chinese war-adjacent film read through food, children, survival, Iraq-war anonymization, and ordinary humanitarianism.
@@ -2135,7 +2137,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emma Thomas](entities/EmmaThomas.md) — Producer and Syncopy partner used in the Nolan Odyssey episode to explain Nolan's project-centered production leverage.
 - [Syncopy](entities/Syncopy.md) — Nolan-associated production company framed as a lean control vehicle for project-by-project studio negotiation.
 - [Oppenheimer](entities/OppenheimerFilm.md) — Nolan film used as the comparison for reading the Trojan Horse as an ancient destructive-tool responsibility problem.
-- [读报teleread / 独报](entities/DuBaoTeleread.md) — Chinese podcast show represented by a fifth-anniversary special on AI, creator workflow, voice-first scripting, podcast form, and long-term creative sustainability.
+- [读报teleread / 独报](entities/DuBaoTeleread.md) — Chinese podcast show represented by fifth-anniversary specials on writing, creator workflow, voice-first scripting, AI boundaries, podcast form, and long-term independent sustainability.
 - [大小电波](entities/DaxiaoDianbo.md) — Chinese podcast show represented by Yunnan coffee sourcing and Wahaha beverage-business history episodes.
 - [娃哈哈AD钙奶 / Wahaha AD Calcium Milk](entities/WahahaADCalciumMilk.md) — Wahaha children's beverage product tied to calcium/vitamin positioning, school-side channels, and durable childhood product memory.
 - [娃哈哈纯净水 / Wahaha Pure Water](entities/WahahaPureWater.md) — Wahaha bottled-water product marking the company's 1996 transition into high-frequency beverages.
@@ -11395,6 +11397,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Independent Podcast Sustainability / 独立播客可持续性](concepts/IndependentPodcastSustainability.md) — How small podcasts keep going through creator energy, money, cadence, platform data, comments, community capacity, and source-facing craft.
 - [Operations Management Workflow](concepts/OperationsManagementWorkflow.md) — Process-view frame translating operations management into personal and organizational workflow design.
 - [Theory of Constraints for Personal Workflow](concepts/TheoryOfConstraintsPersonalWorkflow.md) — Bottleneck-first workflow method for improving total output rather than local speed.
 - [WIP Limit Personal Productivity](concepts/WIPLimitPersonalProductivity.md) — Little's Law-based practice of reducing started-but-unfinished tasks to shorten cycle time and mental load.
@@ -15133,7 +15136,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Electric-Assist Bicycle Premium Positioning / 电助力自行车中高端定位](concepts/ElectricAssistBicyclePremiumPositioning.md) — Strategy of entering e-bikes through a premium band that can fund integrated riding experience, service, and category education.
 - [AI-Native Manufacturing Transformation / AI 原生制造业转型](concepts/AINativeManufacturingTransformation.md) — Founder-led manufacturing AI shift involving data, workflow, employee capability, and organization design rather than tool rollout alone.
 - [Podcast Intimacy](concepts/PodcastIntimacy.md) — Long-form voice relationship where repeated listening, digression, and host presence make listeners feel close to a speaker or public figure.
-- [Podcast Production Workflow](concepts/PodcastProductionWorkflow.md) — Practical system for research, transcripts, cohost roles, recording, editing, ads, and release work behind a finished podcast episode.
+- [Podcast Production Workflow](concepts/PodcastProductionWorkflow.md) — Practical system for topic selection, research, transcripts, host roles, recording, editing, AI support, data, comments, source links, and release work behind a finished podcast episode.
 - [Podcast Authenticity Boundary](concepts/PodcastAuthenticityBoundary.md) — Trust line between acceptable preparation/performance and falsely manufactured conversation, including AI-generated audio disclosure.
 - [Brand Podcasting](concepts/BrandPodcasting.md) — Use of podcast shows or podcast-like long-form audio for brand personality, values, expertise, and trust rather than immediate conversion.
 - [Generational Technology Bridge](concepts/GenerationalTechnologyBridge.md) — Cohort frame for people old enough to remember pre-smartphone life and young enough to adopt mobile internet and AI.

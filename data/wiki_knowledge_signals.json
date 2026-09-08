@@ -20160,9 +20160,9 @@
       "url": "/wiki/concepts/dryeyechronicmanagement/"
     },
     "DuBaoTeleread": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
@@ -20170,9 +20170,16 @@
           "show": "读报teleread",
           "title": "总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的",
           "url": "/wiki/sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht/"
+        },
+        {
+          "episode_file": "cmsprzpsb3a8701z6ha7w867u [cmsprzpsb3a8701z6ha7w867u].md",
+          "key": "zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u",
+          "show": "读报teleread",
+          "title": "总第069期 五周年台庆特辑 | 大主播vs小播客【上】：播客到底有啥好做的",
+          "url": "/wiki/sources/zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/dubaoteleread/"
     },
     "DuChongProtectorOfXiongnu": {
@@ -37355,6 +37362,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/increasingstovesdeception/"
+    },
+    "IndependentPodcastSustainability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cmsprzpsb3a8701z6ha7w867u [cmsprzpsb3a8701z6ha7w867u].md",
+          "key": "zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u",
+          "show": "读报teleread",
+          "title": "总第069期 五周年台庆特辑 | 大主播vs小播客【上】：播客到底有啥好做的",
+          "url": "/wiki/sources/zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/independentpodcastsustainability/"
     },
     "IndividualizedCancerVaccine": {
       "episode_count": 5,
@@ -58013,9 +58036,9 @@
       "url": "/wiki/concepts/podcastledmediatransition/"
     },
     "PodcastProductionWorkflow": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -58030,9 +58053,16 @@
           "show": "读报teleread",
           "title": "总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的",
           "url": "/wiki/sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht/"
+        },
+        {
+          "episode_file": "cmsprzpsb3a8701z6ha7w867u [cmsprzpsb3a8701z6ha7w867u].md",
+          "key": "zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u",
+          "show": "读报teleread",
+          "title": "总第069期 五周年台庆特辑 | 大主播vs小播客【上】：播客到底有啥好做的",
+          "url": "/wiki/sources/zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-09",
       "url": "/wiki/concepts/podcastproductionworkflow/"
     },
     "PoeticCausality": {
@@ -84124,6 +84154,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/yuewanrou/"
+    },
+    "YueXiaYao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cmsprzpsb3a8701z6ha7w867u [cmsprzpsb3a8701z6ha7w867u].md",
+          "key": "zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u",
+          "show": "读报teleread",
+          "title": "总第069期 五周年台庆特辑 | 大主播vs小播客【上】：播客到底有啥好做的",
+          "url": "/wiki/sources/zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/yuexiayao/"
     },
     "Yuezhi": {
       "episode_count": 3,

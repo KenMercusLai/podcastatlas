@@ -16228,6 +16228,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | 总第069期 五周年台庆特辑 | 大主播vs小播客【上】：播客到底有啥好做的
+
+Ingested the 2026-08-12 读报teleread fifth-anniversary upper-half special with 月下瑶 on independent podcast sustainability, article selection, English and news writing, audio-production phases, tipping, comments, 48-hour data, and creator/productization tension. Added source `zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u`; created `YueXiaYao` and `IndependentPodcastSustainability`; updated `DuBaoTeleread`, `PodcastProductionWorkflow`, and `index`. No settled contradiction found; the source complements the later 070 anniversary episode by adding the show's pre-AI creative history, writing identity, and operating reality.
+
 ## [2026-09-09] ingest | VOL.222熬夜心跳狂飙是猝死前兆？AED会“电错”活人？带你避开致命常识｜世界急救日特辑
 
 Ingested the 2026-09-08 这病说来话长 World First Aid Day episode with 阿汤, emergency physician 刘臣, and orthopedic doctor 祝腾娇 on chest-pain escalation, 120 calling, CPR/AED boundaries, AED prompt-following, seizures, Heimlich-style limits, acute sports injury, wound and burn care, medication self-combination risk, and simple emergency-kit preparation. Added source `vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy`; created `LiuChenEmergencyDoctor`, `ZhuTengjiao`, `FirstAidTriageAndEscalation`, `CPRAEDResponseBoundary`, `ChestPainEmergencyEscalation`, `AcuteSportsInjuryEscalation`, `AcuteWoundBurnFirstAid`, `MedicationSelfCombinationRisk`, and `SeizureFirstAidBoundary`; updated `Atang`, `ZheBingShuoLaiHuaChang`, `PekingUniversityThirdHospital`, `PublicExerciseEmergencyPreparedness`, and `index`. No settled contradiction found; the source is public first-aid education and does not replace certified training, local emergency protocols, or individualized emergency, cardiology, orthopedic, medication, seizure, wound, or burn care.
@@ -16247,6 +16251,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | Karma, Enlightenment & the Wisdom Beyond the Mind | Shyalpa Rinpoche | Shekhar Natarajan
 
 Ingested the 2026-09-08 Tomorrow Today episode with Shyalpa Rinpoche on exile, Tibetan Buddhist training, karma, Dzogchen, breathful presence, stillness, death, the Universal Peace Sanctuary, peace infrastructure, meaning scarcity, and compassionate AI. Added source `default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914`; created `ShyalpaRinpoche`, `ChhatralRinpoche`, `UniversalPeaceSanctuary`, `Dzogchen`, `KarmaAsCauseAndEffect`, `BreathfulPresence`, `StillnessAsNonConditioning`, and `PeaceInfrastructure`; updated `TomorrowToday`, `ShekharNatarajan`, `AngelicIntelligence`, and `index`. No settled contradiction found; guest-name spelling variants and claims about sanctuary construction, foundations, blockchain transparency, fundraising, and project status remain source-scoped.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

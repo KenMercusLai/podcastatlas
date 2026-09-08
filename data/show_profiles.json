@@ -3162,13 +3162,19 @@
       "earliest_episode_date": "2026-08-12",
       "latest_episode_date": "2026-08-17",
       "latest_episode_file": "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
-      "source_note_count": 1,
-      "topic_matched_source_note_count": 1,
+      "source_note_count": 2,
+      "topic_matched_source_note_count": 2,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
+          "source_note_count": 1
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
           "source_note_count": 1
         }
       ],
