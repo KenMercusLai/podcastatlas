@@ -13818,6 +13818,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/codingdemocratization/"
     },
+    "CoercedCommandTrustCollapse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？ [lrjUrgJZVwEzkppvGeUpu6orMMzW].md",
+          "key": "zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/coercedcommandtrustcollapse/"
+    },
     "CoercedConsentUnderSlavery": {
       "episode_count": 1,
       "show_count": 1,
@@ -23176,6 +23192,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/empresssisi/"
+    },
+    "EmpressWangPingdi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？ [lrjUrgJZVwEzkppvGeUpu6orMMzW].md",
+          "key": "zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/empresswangpingdi/"
     },
     "EmpressYinHeLateHan": {
       "episode_count": 2,
@@ -46371,9 +46403,9 @@
       "url": "/wiki/entities/lukepepera/"
     },
     "LulinRebellion": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -46388,6 +46420,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？ [lrjUrgJZVwEzkppvGeUpu6orMMzW].md",
+          "key": "zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw/"
         }
       ],
       "updated": "2026-09-08",
@@ -71413,6 +71452,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/tengyanlatehan/"
     },
+    "TerminalMandateSelfDeception": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？ [lrjUrgJZVwEzkppvGeUpu6orMMzW].md",
+          "key": "zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/terminalmandateselfdeception/"
+    },
     "TerminalValueNarrative": {
       "episode_count": 1,
       "show_count": 1,
@@ -75974,9 +76029,9 @@
       "url": "/wiki/entities/wangliangeasternhan/"
     },
     "WangMang": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -75998,6 +76053,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？ [lrjUrgJZVwEzkppvGeUpu6orMMzW].md",
+          "key": "zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw/"
         }
       ],
       "updated": "2026-09-08",
@@ -79071,6 +79133,29 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/xincheneasternhan/"
+    },
+    "XinDynasty": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？ [lrjUrgJZVwEzkppvGeUpu6orMMzW].md",
+          "key": "zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/xindynasty/"
     },
     "XinPiLateHan": {
       "episode_count": 3,

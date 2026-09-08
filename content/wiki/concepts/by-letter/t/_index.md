@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6717
+wiki_total_pages: 6719
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "TenderOfferMediaCampaign"
     title: "Tender Offer Media Campaign / 收购要约媒体战"
     url: "/wiki/concepts/tenderoffermediacampaign/"
+  - key: "TerminalMandateSelfDeception"
+    title: "Terminal Mandate Self-Deception / 末路天命自我催眠"
+    url: "/wiki/concepts/terminalmandateselfdeception/"
   - key: "TerminalValueNarrative"
     title: "Terminal Value Narrative / 终局空间叙事"
     url: "/wiki/concepts/terminalvaluenarrative/"
