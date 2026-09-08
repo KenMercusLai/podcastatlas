@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》660-1丨东汉开国超燃混剪！淇姐带你2分钟见证](sources/zizhi-tongjian-hanji-660-1-donghan-kaiguo-chaoran-hunjian-qijie-daini-2-fenzhong-jianzheng-fpvqf779gc-cy32dfuuro96ax9qn.md) — 芮淇讲透资治通鉴 two-minute montage previewing Eastern Han founding through Wang Mang's disorder, Liu Xiu, Kunyang, Yin Lihua, Yuntai generals, and Guangwu Zhongxing.
+- [《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生](sources/zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce.md) — 22 CE late-Xin backfill on Wang Mang's Nine Temples spectacle, Chimei's origin under Fan Chong, official-army civilian abuse, Lulin branch movement, corrupt famine relief, and Feng Yan's warning to Lian Dan.
 - [在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面](sources/zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf.md) — 电影巨辩 episode on Feng Xiaogang's serious films, abandoned individuals, Wuhui Zhuizong's historical ambiguity, and Zhua Tewu's clarified reconciliation.
 - [罗永浩的X字路口！如果可以，你会删除伴侣出轨的记忆吗？](sources/ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur.md) — 罗永浩的十字路口 and 四孝喜剧 live panel using AI-generated relationship thought experiments to test loyalty drugs, perfect AI partners, shared pain, infidelity-memory deletion, and algorithmic romantic compatibility.
 - [#397 从「责任分担」到「责任转移」：欧洲为何难以真正与美国「分道扬镳」？](sources/397-cong-zeren-fendan-dao-zeren-zhuanyi-ouzhou-weihe-nanyi-zhenzheng-yu-meiguo-fendao-yangbiao-31c69f95-d493-47a1-a6f8-905eb22c3e41.md) — 声东击西 episode with Sun Chenghao on NATO's 2026 summit, transatlantic burden shifting, European defense autonomy, AI militarization, and China-facing U.S.-Europe policy divergence.
@@ -2045,6 +2046,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [樊崇 / Fan Chong (Chimei)](entities/FanChongChimei.md) — Early Chimei leader whose group supplies the 22 CE origin, organization, and cinnabar-eyebrow naming layer.
+- [廉丹 / Lian Dan (Xin general)](entities/LianDanXinGeneral.md) — Xin general pressured by Wang Mang and warned by Feng Yan as official suppression loses public legitimacy.
+- [王匡 / Wang Kuang (Xin general)](entities/WangKuangXinGeneral.md) — Xin Taishi whose anti-rebel army becomes a civilian-abuse backfire case, distinct from same-name Wang Kuang pages.
+- [王业 / Wang Ye (Xin official)](entities/WangYeXinOfficial.md) — Xin market official whose extraction and false food report deepen famine governance failure.
 - [Feng Xiaogang / 冯小刚](entities/FengXiaogang.md) — Chinese filmmaker read through serious mainstream authorship, abandoned individuals, and public-emotion recognition.
 - [Wuhui Zhuizong / 无悔追踪](entities/WuhuiZhuizong.md) — Television drama treated as a historically ambiguous spy-suspicion story about secrecy, belief, and time.
 - [Zhua Tewu / 抓特务](entities/ZhuaTewu.md) — Film adaptation criticized for replacing Wuhui Zhuizong's ambiguity with clearer guilt, reconciliation, and national-progress closure.
@@ -11430,6 +11435,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [将权掣肘 / Command Authority Bottleneck](concepts/CommandAuthorityBottleneck.md) — Command failure where field generals carry responsibility without enough authority for timely action.
+- [汉室人心回归 / Han Restoration Public Sentiment](concepts/HanRestorationPublicSentiment.md) — Late-Xin legitimacy pattern where failed Xin protection makes remembered Han rule politically usable again.
+- [官军扰民反噬 / Official Army Predation Backfire](concepts/OfficialArmyPredationBackfire.md) — Suppression failure where official troops harm civilians so badly that rebels become the lesser danger.
 - [Individual Abandonment Narrative / 个体被抛弃叙事](concepts/IndividualAbandonmentNarrative.md) — Narrative frame for characters left behind by family, comrades, institutions, government, or historical time.
 - [Historical Ambiguity in Mainstream Cinema / 主流影像中的历史暧昧性](concepts/HistoricalAmbiguityInMainstreamCinema.md) — Film and television capacity to preserve unresolved guilt, belief, loyalty, and historical responsibility.
 - [National Director Emotion Outlet / 国民导演情绪出口](concepts/NationalDirectorEmotionOutlet.md) — Cultural role of a mainstream filmmaker who gives a period's public feelings narrative form.

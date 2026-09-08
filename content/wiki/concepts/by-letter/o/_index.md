@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6790
+wiki_total_pages: 6793
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "OfficialDutyOverPatronCommand"
     title: "守职胜私命 / Official Duty Over Patron Command"
     url: "/wiki/concepts/officialdutyoverpatroncommand/"
+  - key: "OfficialArmyPredationBackfire"
+    title: "官军扰民反噬 / Official Army Predation Backfire"
+    url: "/wiki/concepts/officialarmypredationbackfire/"
   - key: "OfficialSalaryExtractionRisk"
     title: "官吏俸禄不足抽取风险 / Official Salary Extraction Risk"
     url: "/wiki/concepts/officialsalaryextractionrisk/"

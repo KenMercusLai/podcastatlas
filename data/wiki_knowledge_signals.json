@@ -12706,9 +12706,9 @@
       "url": "/wiki/concepts/childbearingirreversibility/"
     },
     "ChimeiRebellion": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 2,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -12786,9 +12786,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生 [lgQK1gkvH_0cwDER6G5-wryI6mCe].md",
+          "key": "zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/chimeirebellion/"
     },
     "ChinaAnimalProtectionLawGap": {
@@ -14568,6 +14575,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/comfortledfootweardemand/"
+    },
+    "CommandAuthorityBottleneck": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生 [lgQK1gkvH_0cwDER6G5-wryI6mCe].md",
+          "key": "zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/commandauthoritybottleneck/"
     },
     "CommandContinuityDamageControl": {
       "episode_count": 4,
@@ -19382,6 +19405,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/disasteromencrisisredirection/"
+    },
+    "DisasterReliefCorruption": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》940丨得民心者得天下，你信不信？ [loipF7b0P5A-yh0Rj2nJNSml8a1J].md",
+          "key": "zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》940丨得民心者得天下，你信不信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生 [lgQK1gkvH_0cwDER6G5-wryI6mCe].md",
+          "key": "zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/disasterreliefcorruption/"
     },
     "DisciplineOverMotivation": {
       "episode_count": 3,
@@ -25511,6 +25557,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/familyriskdiversification/"
     },
+    "FanChongChimei": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生 [lgQK1gkvH_0cwDER6G5-wryI6mCe].md",
+          "key": "zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/fanchongchimei/"
+    },
     "FanFengEunuchLateHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -26633,9 +26695,9 @@
       "url": "/wiki/entities/fengxiaogang/"
     },
     "FengYanEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？ [lhtdQtfxiHYUA1nj8ofsDXl8IL8D].md",
@@ -26643,9 +26705,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生 [lgQK1gkvH_0cwDER6G5-wryI6mCe].md",
+          "key": "zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/fengyaneasternhan/"
     },
     "FengYiEasternHan": {
@@ -33155,6 +33224,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/hanmenglatehan/"
+    },
+    "HanRestorationPublicSentiment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生 [lgQK1gkvH_0cwDER6G5-wryI6mCe].md",
+          "key": "zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/hanrestorationpublicsentiment/"
     },
     "HanShaoLateHan": {
       "episode_count": 1,
@@ -43688,6 +43773,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/liyunlatehan/"
     },
+    "LianDanXinGeneral": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生 [lgQK1gkvH_0cwDER6G5-wryI6mCe].md",
+          "key": "zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/liandanxingeneral/"
+    },
     "LianFanEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -48036,9 +48137,9 @@
       "url": "/wiki/entities/lukepepera/"
     },
     "LulinRebellion": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -48067,9 +48168,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》663丨更始帝刘玄是滩扶不上墙的烂泥？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生 [lgQK1gkvH_0cwDER6G5-wryI6mCe].md",
+          "key": "zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/lulinrebellion/"
     },
     "LulingLateHan": {
@@ -55231,6 +55339,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/officeworkerlabororganizing/"
+    },
+    "OfficialArmyPredationBackfire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生 [lgQK1gkvH_0cwDER6G5-wryI6mCe].md",
+          "key": "zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/officialarmypredationbackfire/"
     },
     "OfficialDutyOverPatronCommand": {
       "episode_count": 1,
@@ -78771,6 +78895,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/wangkanglatehan/"
     },
+    "WangKuangXinGeneral": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生 [lgQK1gkvH_0cwDER6G5-wryI6mCe].md",
+          "key": "zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/wangkuangxingeneral/"
+    },
     "WangKuangXinPrince": {
       "episode_count": 1,
       "show_count": 1,
@@ -78892,9 +79032,9 @@
       "url": "/wiki/entities/wanglinxincrownprince/"
     },
     "WangMang": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -78951,9 +79091,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生 [lgQK1gkvH_0cwDER6G5-wryI6mCe].md",
+          "key": "zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/wangmang/"
     },
     "WangMiLateHan": {
@@ -79134,6 +79281,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/wangxiulatehan/"
+    },
+    "WangYeXinOfficial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生 [lgQK1gkvH_0cwDER6G5-wryI6mCe].md",
+          "key": "zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/wangyexinofficial/"
     },
     "WangYiHedongLateHan": {
       "episode_count": 1,
@@ -82145,9 +82308,9 @@
       "url": "/wiki/entities/xincheneasternhan/"
     },
     "XinDynasty": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -82169,9 +82332,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生 [lgQK1gkvH_0cwDER6G5-wryI6mCe].md",
+          "key": "zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/xindynasty/"
     },
     "XinPiLateHan": {

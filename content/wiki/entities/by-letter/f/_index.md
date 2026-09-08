@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9381
+wiki_total_pages: 9385
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -809,6 +809,9 @@ wiki_pages:
   - key: "FanKuai"
     title: "樊哙 / Fan Kuai"
     url: "/wiki/entities/fankuai/"
+  - key: "FanChongChimei"
+    title: "樊崇 / Fan Chong (Chimei)"
+    url: "/wiki/entities/fanchongchimei/"
   - key: "FanHongEasternHan"
     title: "樊弘 / Fan Hong (Eastern Han)"
     url: "/wiki/entities/fanhongeasternhan/"

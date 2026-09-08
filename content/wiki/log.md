@@ -16236,6 +16236,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | 《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生
+
+Ingested the 2026-06-08 芮淇讲透资治通鉴 episode backfilling 22 CE late-Xin disorder before Hanji 661: Wang Mang's Nine Temples spectacle, Guandong famine, Chimei's origin under Fan Chong, official-army civilian abuse by Wang Kuang and Lian Dan, Lulin branch movement, corrupt refugee relief, Wang Ye's false market report, Yan You's command-authority complaint, and Feng Yan's warning to Lian Dan about Han-restoration public sentiment. Added source `zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce`; created `FanChongChimei`, `LianDanXinGeneral`, `WangKuangXinGeneral`, `WangYeXinOfficial`, `OfficialArmyPredationBackfire`, `CommandAuthorityBottleneck`, and `HanRestorationPublicSentiment`; updated `WangMang`, `XinDynasty`, `ChimeiRebellion`, `LulinRebellion`, `FengYanEasternHan`, `DisasterReliefCorruption`, `overview`, and `index`. No settled contradiction found; Wang Kuang is disambiguated from the Xin-prince and later late-Han Wang Kuang pages, and Jing Shang, Chen Mao, Kong Ren, Wang Feng, Ma Wu, force counts, and the opening mystery remain source-scoped.
+
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》662丨刘秀是如何化解团队内斗的？
 
 Ingested the 2026-06-09 芮淇讲透资治通鉴 episode on Liu Yan's early anti-Xin coalition, Liu Xiu's clan-property settlement of a spoils dispute, Xiaochang'an defeat, Wang Chang's Xiajiang persuasion, and the Lanxiang recovery attack. Added source `zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2`; created `WangChangXiajiangGengshi`, `RebelCoalitionSpoilsCrisis`, and `EarlyRestorationCoalitionIntegration`; updated `LiuYanLiuXiuBrother`, `overview`, and `index`. No settled contradiction found; Wang Chang identity is disambiguated from later Wang Chang routes, and Liu Zhong, Liu Yuan, Liu Boji, Cheng Dan, Xiaochang'an, Lanxiang, force counts, and astronomy details remain source-scoped.
@@ -16311,6 +16315,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | 罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......
 
 Ingested the 2026-07-24 罗永浩的十字路口 and 四孝喜剧 panel on flaws, baldness, ADHD, compulsive order, family pressure, reviews, online backlash, and 活人感. Added source `lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg`; created `CaoGuoStandup`, `LinJianxinStandup`, `OCDOrderPressure`, and `CreatorReviewResponseBoundary`; updated `LuoYonghao`, `LuoyonghaosCrossroads`, `SixiaoComedy`, `ShiLifen`, `ADHDSelfDiagnosisBoundary`, `HumanImperfectionCreativeValue`, `LiveHumanFeeling`, `overview`, and `index`. No settled contradiction found; ADHD medication effects, hair-loss treatment, compulsive-order family impact, review behavior, doxxing, and public rebuttal remain source-scoped anecdotes rather than medical, legal, or relationship advice.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

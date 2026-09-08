@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9381
+wiki_total_pages: 9385
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -971,6 +971,9 @@ wiki_pages:
   - key: "WangShizhen"
     title: "王世贞 / Wang Shizhen"
     url: "/wiki/entities/wangshizhen/"
+  - key: "WangYeXinOfficial"
+    title: "王业 / Wang Ye (Xin official)"
+    url: "/wiki/entities/wangyexinofficial/"
   - key: "WangZhongwen"
     title: "王仲闻 / Wang Zhongwen"
     url: "/wiki/entities/wangzhongwen/"
@@ -1004,6 +1007,9 @@ wiki_pages:
   - key: "WangKuangLateHan"
     title: "王匡 / Wang Kuang (late Han)"
     url: "/wiki/entities/wangkuanglatehan/"
+  - key: "WangKuangXinGeneral"
+    title: "王匡 / Wang Kuang (Xin general)"
+    url: "/wiki/entities/wangkuangxingeneral/"
   - key: "WangShipeng"
     title: "王十朋 / Wang Shipeng"
     url: "/wiki/entities/wangshipeng/"
