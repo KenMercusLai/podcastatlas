@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9345
+wiki_total_pages: 9347
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1046,6 +1046,9 @@ wiki_pages:
   - key: "LiuFeiQiKing"
     title: "刘肥 / Liu Fei (Qi king)"
     url: "/wiki/entities/liufeiqiking/"
+  - key: "LiuChenEmergencyDoctor"
+    title: "刘臣 / Liu Chen (Emergency Physician)"
+    url: "/wiki/entities/liuchenemergencydoctor/"
   - key: "LiuLiangyou"
     title: "刘良佑 / Liu Liangyou"
     url: "/wiki/entities/liuliangyou/"

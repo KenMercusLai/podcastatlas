@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6739
+wiki_total_pages: 6746
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "FirstSaleDoctrine"
     title: "First Sale Doctrine"
     url: "/wiki/concepts/firstsaledoctrine/"
+  - key: "FirstAidTriageAndEscalation"
+    title: "First-Aid Triage and Escalation / 急救判断与升级"
+    url: "/wiki/concepts/firstaidtriageandescalation/"
   - key: "FirstInClassDrugDiscoveryRoleSplit"
     title: "First-In-Class Drug Discovery Role Split"
     url: "/wiki/concepts/firstinclassdrugdiscoveryrolesplit/"

@@ -5492,6 +5492,20 @@
       "url": "/topics/economics/"
     }
   ],
+  "AcuteSportsInjuryEscalation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "AcuteWoundBurnFirstAid": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AdaLovelace": [
     {
       "key": "technology",
@@ -12242,6 +12256,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CPRAEDResponseBoundary": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CRV": [
     {
       "key": "technology",
@@ -13907,6 +13928,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ChestPainEmergencyEscalation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ChiangKaiShek": [
@@ -24559,6 +24587,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "FirstAidTriageAndEscalation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "FirstDraftThinking": [
@@ -41317,6 +41352,13 @@
       "url": "/topics/science/"
     }
   ],
+  "MedicationSelfCombinationRisk": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "MedicineAsWaySeeking": [
     {
       "key": "science",
@@ -55862,6 +55904,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "SeizureFirstAidBoundary": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "SelectiveMotionSmoothing": [

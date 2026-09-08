@@ -593,12 +593,13 @@
       "84dd49ac166e4697c7944d5e84ddfcbab4c58fe49670c3ea55a8fcc24b4214bf",
       "47f00b5a6071894a52decccac47bb644170058bfe2e6c4ee40872a73dd9fddea",
       "2329e7eab06651d12277d1121e2f6f787bf502e9b853ce051ac66f1a6ecc7b80",
-      "08ce087b5036dedcaf145e2c88ca51ea2070e265e9815cfe93ea1755ee057d3f"
+      "08ce087b5036dedcaf145e2c88ca51ea2070e265e9815cfe93ea1755ee057d3f",
+      "6701e8b392caf729c79e1e660e6d138d48a06b0d176497dfeb0b07df834cfc04"
     ],
-    "paragraph_count": 593
+    "paragraph_count": 594
   },
-  "overview_commit": "7d4b457ed2bb8a1312bcd184534241d03c09db69",
-  "overview_digest": "b7f78e6f1df44e32474c4f07ab41d35d13cd1b117469f5559ce1f687dab68709",
+  "overview_commit": "8bc79b5a2ed91a304ff0fa6ed8f6e05c2eb43404",
+  "overview_digest": "ec8bdb53189e1d7fd9cde384b825fe80f24b643c8a20bdcec22b3f5376a78d69",
   "paragraphs": [
     {
       "id": "993a336b4cbfa8e8effe11c6197e41d99a7a73bf3a265ebb4fa9939bda3f4928",
@@ -18186,6 +18187,37 @@
         "StartupEmbassy",
         "TheDreamersAndI",
         "tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128"
+      ]
+    },
+    {
+      "id": "6701e8b392caf729c79e1e660e6d138d48a06b0d176497dfeb0b07df834cfc04",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy|VOL.222熬夜心跳狂飙是猝死前兆？AED会“电错”活人？带你避开致命常识｜世界急救日特辑]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] World First Aid Day episode with [[Atang|阿汤]], emergency physician [[LiuChenEmergencyDoctor|刘臣]], and orthopedic doctor [[ZhuTengjiao|祝腾娇]] from [[PekingUniversityThirdHospital|北医三院]]. It adds [[FirstAidTriageAndEscalation]], [[CPRAEDResponseBoundary]], [[ChestPainEmergencyEscalation]], [[AcuteSportsInjuryEscalation]], [[AcuteWoundBurnFirstAid]], [[MedicationSelfCombinationRisk]], and [[SeizureFirstAidBoundary]], while extending [[PublicExerciseEmergencyPreparedness]], [[MedicalRiskManagement]], [[MedicalDiagnosticReasoning]], and [[DoctorPatientCommunication]]. Its core synthesis is that useful first aid is not maximal hands-on intervention but correct triage: protect the scene, call 120 early, check consciousness and breathing before CPR, use AED prompts, divide bystander tasks, route chest pain and serious injury promptly, and avoid folk or mismatched interventions for seizures, burns, wounds, unclear collapse, choking, or drug stacking. No settled contradiction is recorded; CPR/AED, Heimlich-style response, chest pain, medication, sports-injury, wound, burn, seizure, AED-location, and emergency-kit guidance remain source-scoped public education rather than certified training or individualized emergency care.",
+      "topic_scores": {
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AcuteSportsInjuryEscalation",
+        "AcuteWoundBurnFirstAid",
+        "Atang",
+        "CPRAEDResponseBoundary",
+        "ChestPainEmergencyEscalation",
+        "DoctorPatientCommunication",
+        "FirstAidTriageAndEscalation",
+        "LiuChenEmergencyDoctor",
+        "MedicalDiagnosticReasoning",
+        "MedicalRiskManagement",
+        "MedicationSelfCombinationRisk",
+        "PekingUniversityThirdHospital",
+        "PublicExerciseEmergencyPreparedness",
+        "SeizureFirstAidBoundary",
+        "ZheBingShuoLaiHuaChang",
+        "ZhuTengjiao",
+        "vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy"
       ]
     }
   ],

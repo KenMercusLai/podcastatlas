@@ -16219,3 +16219,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-09] ingest | VOL.222熬夜心跳狂飙是猝死前兆？AED会“电错”活人？带你避开致命常识｜世界急救日特辑
+
+Ingested the 2026-09-08 这病说来话长 World First Aid Day episode with 阿汤, emergency physician 刘臣, and orthopedic doctor 祝腾娇 on chest-pain escalation, 120 calling, CPR/AED boundaries, AED prompt-following, seizures, Heimlich-style limits, acute sports injury, wound and burn care, medication self-combination risk, and simple emergency-kit preparation. Added source `vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy`; created `LiuChenEmergencyDoctor`, `ZhuTengjiao`, `FirstAidTriageAndEscalation`, `CPRAEDResponseBoundary`, `ChestPainEmergencyEscalation`, `AcuteSportsInjuryEscalation`, `AcuteWoundBurnFirstAid`, `MedicationSelfCombinationRisk`, and `SeizureFirstAidBoundary`; updated `Atang`, `ZheBingShuoLaiHuaChang`, `PekingUniversityThirdHospital`, `PublicExerciseEmergencyPreparedness`, and `index`. No settled contradiction found; the source is public first-aid education and does not replace certified training, local emergency protocols, or individualized emergency, cardiology, orthopedic, medication, seizure, wound, or burn care.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 18,117 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, one fragile bridge (`entities/CatholicChurch` -> `concepts/ReligiousControlledSubstanceExemption`), and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6739
+wiki_total_pages: 6746
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "ChenweiPolitics"
     title: "Chenwei Politics / 谶纬政治"
     url: "/wiki/concepts/chenweipolitics/"
+  - key: "ChestPainEmergencyEscalation"
+    title: "Chest Pain Emergency Escalation / 胸痛急症升级"
+    url: "/wiki/concepts/chestpainemergencyescalation/"
   - key: "ChildAnimalCrueltyLifeEducation"
     title: "Child Animal Cruelty Life Education / 未成年人虐待动物与生命教育"
     url: "/wiki/concepts/childanimalcrueltylifeeducation/"
@@ -1667,6 +1670,9 @@ wiki_pages:
   - key: "CPGPortfolioFocus"
     title: "CPG Portfolio Focus"
     url: "/wiki/concepts/cpgportfoliofocus/"
+  - key: "CPRAEDResponseBoundary"
+    title: "CPR/AED Response Boundary / 心肺复苏与AED使用边界"
+    url: "/wiki/concepts/cpraedresponseboundary/"
   - key: "CrabCulturalSymbolism"
     title: "Crab Cultural Symbolism"
     url: "/wiki/concepts/crabculturalsymbolism/"

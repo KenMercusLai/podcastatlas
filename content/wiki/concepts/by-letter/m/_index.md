@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6739
+wiki_total_pages: 6746
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "MedicationInteractionRisk"
     title: "Medication Interaction Risk"
     url: "/wiki/concepts/medicationinteractionrisk/"
+  - key: "MedicationSelfCombinationRisk"
+    title: "Medication Self-Combination Risk / 药物自行叠加风险"
+    url: "/wiki/concepts/medicationselfcombinationrisk/"
   - key: "MedicineAsWaySeeking"
     title: "Medicine As Way-Seeking / 以医入道"
     url: "/wiki/concepts/medicineaswayseeking/"

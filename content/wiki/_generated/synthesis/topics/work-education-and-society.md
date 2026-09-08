@@ -3,9 +3,9 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-09-08
-as_of_overview_commit: e8b0e96753af8b4ded986f813d28f1aa3d3de7c1
-input_digest: 0304f9c2198aa3b76d3d87fad50d682e6ceaf40f3bba7d557276d650c2900f69
+last_updated: 2026-09-09
+as_of_overview_commit: 8bc79b5a2ed91a304ff0fa6ed8f6e05c2eb43404
+input_digest: 1f1d913a499f5f62ceae7d93679eb0d0fbf8b31811f8291bfe8b21e35dbe8f9b
 ---
 
 # Work, Education, and Society

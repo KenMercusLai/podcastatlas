@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6739
+wiki_total_pages: 6746
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -152,6 +152,12 @@ wiki_pages:
   - key: "ActuaryDataScientistPartnership"
     title: "Actuary Data Scientist Partnership"
     url: "/wiki/concepts/actuarydatascientistpartnership/"
+  - key: "AcuteSportsInjuryEscalation"
+    title: "Acute Sports Injury Escalation / 急性运动损伤升级"
+    url: "/wiki/concepts/acutesportsinjuryescalation/"
+  - key: "AcuteWoundBurnFirstAid"
+    title: "Acute Wound and Burn First Aid / 急性伤口与烫伤急救"
+    url: "/wiki/concepts/acutewoundburnfirstaid/"
   - key: "AdaptationAsMoralReframing"
     title: "Adaptation As Moral Reframing / 改编作为道德重心重置"
     url: "/wiki/concepts/adaptationasmoralreframing/"

@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 6739
-- Entities: 9345
-- Sources: 2022
-- Total wiki content pages: 18107
+- Concepts: 6746
+- Entities: 9347
+- Sources: 2023
+- Total wiki content pages: 18117
 
 ## Links
-- Wiki link references: 490342
-- Unique wiki link targets: 18105
+- Wiki link references: 490544
+- Unique wiki link targets: 18115
 - Missing targets: 0
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 2022
-- Matched episodes: 2022
+- Source pages: 2023
+- Matched episodes: 2023
 - Missing source_file: 0
 - Unmatched source_file: 0
 
