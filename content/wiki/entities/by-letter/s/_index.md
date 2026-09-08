@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9270
+wiki_total_pages: 9279
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -707,6 +707,9 @@ wiki_pages:
   - key: "Simon"
     title: "Simon"
     url: "/wiki/entities/simon/"
+  - key: "SimonLordOfTheFlies"
+    title: "Simon / 西蒙（《蝇王》）"
+    url: "/wiki/entities/simonlordoftheflies/"
   - key: "SimonKuper"
     title: "Simon Kuper"
     url: "/wiki/entities/simonkuper/"

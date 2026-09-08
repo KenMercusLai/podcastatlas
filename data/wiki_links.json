@@ -4371,6 +4371,10 @@
     "title": "All Seasons Hotel / 全季酒店",
     "url": "/wiki/entities/allseasonshotel/"
   },
+  "AllegoricalAdaptationSpecificity": {
+    "title": "Allegorical Adaptation Specificity / 寓言改编的具体化风险",
+    "url": "/wiki/concepts/allegoricaladaptationspecificity/"
+  },
   "AllenNewell": {
     "title": "Allen Newell",
     "url": "/wiki/entities/allennewell/"
@@ -11927,6 +11931,10 @@
     "title": "Civilization-Barbarism Frame / 文明-野蛮框架",
     "url": "/wiki/concepts/civilizationbarbarismframe/"
   },
+  "CivilizationFragilityAllegory": {
+    "title": "Civilization Fragility Allegory / 文明脆弱性寓言",
+    "url": "/wiki/concepts/civilizationfragilityallegory/"
+  },
   "CivilizationModernizationValueInvestmentChina": {
     "title": "《文明、现代化、价值投资与中国》",
     "url": "/wiki/entities/civilizationmodernizationvalueinvestmentchina/"
@@ -14338,6 +14346,10 @@
   "DaVinciSurgicalSystem": {
     "title": "Da Vinci Surgical System",
     "url": "/wiki/entities/davincisurgicalsystem/"
+  },
+  "DaYiCultureLimited": {
+    "title": "大一（文化有限）",
+    "url": "/wiki/entities/dayiculturelimited/"
   },
   "DabaNiuTeacher": {
     "title": "大白牛老师 / Daba Niu Teacher",
@@ -19698,6 +19710,10 @@
   "Fayan": {
     "title": "《法言》 / Fayan",
     "url": "/wiki/entities/fayan/"
+  },
+  "FearDrivenGroupViolence": {
+    "title": "Fear-Driven Group Violence / 恐惧驱动的群体暴力",
+    "url": "/wiki/concepts/feardrivengroupviolence/"
   },
   "FeatherlessAI": {
     "title": "Featherless AI",
@@ -28503,6 +28519,10 @@
     "title": "Islamist Democratic Trust Problem",
     "url": "/wiki/concepts/islamistdemocratictrustproblem/"
   },
+  "IslandAdventureInversion": {
+    "title": "Island Adventure Inversion / 荒岛冒险反写",
+    "url": "/wiki/concepts/islandadventureinversion/"
+  },
   "IslandBeeCompany": {
     "title": "Island Bee Company",
     "url": "/wiki/entities/islandbeecompany/"
@@ -28658,6 +28678,10 @@
   "JackLynch": {
     "title": "Jack Lynch",
     "url": "/wiki/entities/jacklynch/"
+  },
+  "JackMerridew": {
+    "title": "Jack Merridew / 杰克（《蝇王》）",
+    "url": "/wiki/entities/jackmerridew/"
   },
   "JackRaoJiewu": {
     "title": "Jack 饶街五",
@@ -34430,6 +34454,10 @@
   "LordOfLight": {
     "title": "《光明王》 / Lord of Light",
     "url": "/wiki/entities/lordoflight/"
+  },
+  "LordOfTheFlies": {
+    "title": "Lord of the Flies / 《蝇王》",
+    "url": "/wiki/entities/lordoftheflies/"
   },
   "LoriGoodman": {
     "title": "Lori Goodman",
@@ -43103,6 +43131,10 @@
     "title": "Pig Butchering Scam",
     "url": "/wiki/concepts/pigbutcheringscam/"
   },
+  "PiggyLordOfTheFlies": {
+    "title": "Piggy / 猪崽子（《蝇王》）",
+    "url": "/wiki/entities/piggylordoftheflies/"
+  },
   "Pilao": {
     "title": "皮牢 / Pilao",
     "url": "/wiki/entities/pilao/"
@@ -46215,6 +46247,10 @@
     "title": "Ralph Lauren",
     "url": "/wiki/entities/ralphlauren/"
   },
+  "RalphLordOfTheFlies": {
+    "title": "Ralph / 拉尔夫（《蝇王》）",
+    "url": "/wiki/entities/ralphlordoftheflies/"
+  },
   "RamShriram": {
     "title": "Ram Shriram",
     "url": "/wiki/entities/ramshriram/"
@@ -47954,6 +47990,10 @@
   "RodoSayagues": {
     "title": "Rodo Sayagues",
     "url": "/wiki/entities/rodosayagues/"
+  },
+  "RogerLordOfTheFlies": {
+    "title": "Roger / 罗杰（《蝇王》）",
+    "url": "/wiki/entities/rogerlordoftheflies/"
   },
   "RogerMortimer": {
     "title": "Roger Mortimer",
@@ -50938,6 +50978,10 @@
   "SimonKuper": {
     "title": "Simon Kuper",
     "url": "/wiki/entities/simonkuper/"
+  },
+  "SimonLordOfTheFlies": {
+    "title": "Simon / 西蒙（《蝇王》）",
+    "url": "/wiki/entities/simonlordoftheflies/"
   },
   "SimoneDeBeauvoir": {
     "title": "Simone de Beauvoir / 西蒙娜·德·波伏娃",
@@ -54735,6 +54779,10 @@
     "title": "Technological Responsibility Radius / 技术责任半径",
     "url": "/wiki/concepts/technologicalresponsibilityradius/"
   },
+  "TechnologyAmbivalenceFireSignal": {
+    "title": "Technology Ambivalence in Fire and Signal / 火与信号的技术双重性",
+    "url": "/wiki/concepts/technologyambivalencefiresignal/"
+  },
   "TechnologyAssistedInteriorEnforcement": {
     "title": "Technology-Assisted Interior Enforcement",
     "url": "/wiki/concepts/technologyassistedinteriorenforcement/"
@@ -55090,6 +55138,10 @@
   "TheContinental": {
     "title": "The Continental",
     "url": "/wiki/entities/thecontinental/"
+  },
+  "TheCoralIsland": {
+    "title": "The Coral Island / 《珊瑚岛》",
+    "url": "/wiki/entities/thecoralisland/"
   },
   "TheCursedMummy": {
     "title": "《被诅咒的木乃伊》 / The Cursed Mummy",
@@ -59906,6 +59958,10 @@
   "WilliamGodwin": {
     "title": "William Godwin / 威廉·戈德温",
     "url": "/wiki/entities/williamgodwin/"
+  },
+  "WilliamGolding": {
+    "title": "William Golding / 威廉·戈尔丁",
+    "url": "/wiki/entities/williamgolding/"
   },
   "WilliamLanday": {
     "title": "William Landay",
@@ -68686,6 +68742,10 @@
   "vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr": {
     "title": "Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”",
     "url": "/wiki/sources/vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr/"
+  },
+  "vol-351-yingwang-21shiji-de-huangdao-gushi-haineng-zenme-kai-naodong-1983-nuojiang-dezhu-gkwriueodap1a3taaattkgol": {
+    "title": "Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主",
+    "url": "/wiki/sources/vol-351-yingwang-21shiji-de-huangdao-gushi-haineng-zenme-kai-naodong-1983-nuojiang-dezhu-gkwriueodap1a3taaattkgol/"
   },
   "vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo": {
     "title": "VOL.36眼科｜关于干眼症、眼药水、眼底病、近视和近视手术…眼科主任有话说",

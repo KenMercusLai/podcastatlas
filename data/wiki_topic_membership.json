@@ -6772,6 +6772,13 @@
       "url": "/topics/science/"
     }
   ],
+  "AllegoricalAdaptationSpecificity": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "AllergyAsImmuneResponse": [
     {
       "key": "science",
@@ -14897,6 +14904,13 @@
       "url": "/topics/history/"
     }
   ],
+  "CivilizationFragilityAllegory": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CivilizationModernizationValueInvestmentChina": [
     {
       "key": "culture",
@@ -17786,6 +17800,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "DaYiCultureLimited": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Dafeixin": [
@@ -23585,6 +23606,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "FearDrivenGroupViolence": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "FeatherlessAI": [
@@ -33445,6 +33478,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "IslandAdventureInversion": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Israel": [
     {
       "key": "politics",
@@ -33587,6 +33627,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "JackMerridew": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "JackRaoJiewu": [
@@ -38712,6 +38759,13 @@
     }
   ],
   "LordOfLight": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "LordOfTheFlies": [
     {
       "key": "culture",
       "label": "Culture",
@@ -48005,6 +48059,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "PiggyLordOfTheFlies": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Pilao": [
     {
       "key": "history",
@@ -51800,6 +51866,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "RalphLordOfTheFlies": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "RamShriram": [
     {
       "key": "economics",
@@ -53622,6 +53695,13 @@
     }
   ],
   "RodoSayagues": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "RogerLordOfTheFlies": [
     {
       "key": "culture",
       "label": "Culture",
@@ -56954,6 +57034,13 @@
     }
   ],
   "SimonKuper": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "SimonLordOfTheFlies": [
     {
       "key": "culture",
       "label": "Culture",
@@ -61621,6 +61708,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "TechnologyAmbivalenceFireSignal": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TechnologyAssistedInteriorEnforcement": [
     {
       "key": "technology",
@@ -62082,6 +62181,13 @@
       "label": "History",
       "url": "/topics/history/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "TheCoralIsland": [
     {
       "key": "culture",
       "label": "Culture",
@@ -67540,6 +67646,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "WilliamGolding": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "WilliamLanday": [
@@ -77419,6 +77532,13 @@
     }
   ],
   "vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "vol-351-yingwang-21shiji-de-huangdao-gushi-haineng-zenme-kai-naodong-1983-nuojiang-dezhu-gkwriueodap1a3taaattkgol": [
     {
       "key": "culture",
       "label": "Culture",

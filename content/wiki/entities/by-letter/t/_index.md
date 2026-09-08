@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9270
+wiki_total_pages: 9279
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "TheContinental"
     title: "The Continental"
     url: "/wiki/entities/thecontinental/"
+  - key: "TheCoralIsland"
+    title: "The Coral Island / 《珊瑚岛》"
+    url: "/wiki/entities/thecoralisland/"
   - key: "TheDagda"
     title: "The Dagda / 达格达"
     url: "/wiki/entities/thedagda/"

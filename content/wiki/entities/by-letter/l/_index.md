@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9270
+wiki_total_pages: 9279
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "LordByron"
     title: "Lord Byron / 拜伦"
     url: "/wiki/entities/lordbyron/"
+  - key: "LordOfTheFlies"
+    title: "Lord of the Flies / 《蝇王》"
+    url: "/wiki/entities/lordoftheflies/"
   - key: "LoriGoodman"
     title: "Lori Goodman"
     url: "/wiki/entities/lorigoodman/"

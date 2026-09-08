@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2807
+topic_total_pages: 2809
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3619,6 +3619,9 @@ topic_concepts:
   - key: "TechnologicalResponsibilityRadius"
     title: "Technological Responsibility Radius / 技术责任半径"
     url: "/wiki/concepts/technologicalresponsibilityradius/"
+  - key: "TechnologyAmbivalenceFireSignal"
+    title: "Technology Ambivalence in Fire and Signal / 火与信号的技术双重性"
+    url: "/wiki/concepts/technologyambivalencefiresignal/"
   - key: "TechnologyInnovationAsScaleEconomy"
     title: "Technology Innovation As Scale Economy"
     url: "/wiki/concepts/technologyinnovationasscaleeconomy/"
@@ -5921,6 +5924,9 @@ topic_entities:
   - key: "PhysicalIntelligencePiSeries"
     title: "Physical Intelligence Pi Model Series"
     url: "/wiki/entities/physicalintelligencepiseries/"
+  - key: "PiggyLordOfTheFlies"
+    title: "Piggy / 猪崽子（《蝇王》）"
+    url: "/wiki/entities/piggylordoftheflies/"
   - key: "PingCAP"
     title: "PingCAP"
     url: "/wiki/entities/pingcap/"

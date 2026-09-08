@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 945
+topic_total_pages: 946
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -559,6 +559,9 @@ topic_concepts:
   - key: "FawnResponse"
     title: "Fawn Response"
     url: "/wiki/concepts/fawnresponse/"
+  - key: "FearDrivenGroupViolence"
+    title: "Fear-Driven Group Violence / 恐惧驱动的群体暴力"
+    url: "/wiki/concepts/feardrivengroupviolence/"
   - key: "FermatsPrincipleOfLeastTime"
     title: "Fermat's Principle of Least Time"
     url: "/wiki/concepts/fermatsprincipleofleasttime/"

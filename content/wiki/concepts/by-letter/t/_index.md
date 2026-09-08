@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6675
+wiki_total_pages: 6680
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "TechnologicalResponsibilityRadius"
     title: "Technological Responsibility Radius / 技术责任半径"
     url: "/wiki/concepts/technologicalresponsibilityradius/"
+  - key: "TechnologyAmbivalenceFireSignal"
+    title: "Technology Ambivalence in Fire and Signal / 火与信号的技术双重性"
+    url: "/wiki/concepts/technologyambivalencefiresignal/"
   - key: "TechnologyInnovationAsScaleEconomy"
     title: "Technology Innovation As Scale Economy"
     url: "/wiki/concepts/technologyinnovationasscaleeconomy/"

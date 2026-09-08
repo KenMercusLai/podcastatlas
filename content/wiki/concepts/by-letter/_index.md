@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6675
+wiki_total_pages: 6680
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1466,6 +1466,9 @@ wiki_pages:
   - key: "AllModalMolecularWorldModel"
     title: "All-Modal Molecular World Model"
     url: "/wiki/concepts/allmodalmolecularworldmodel/"
+  - key: "AllegoricalAdaptationSpecificity"
+    title: "Allegorical Adaptation Specificity / 寓言改编的具体化风险"
+    url: "/wiki/concepts/allegoricaladaptationspecificity/"
   - key: "AllergyAsImmuneResponse"
     title: "Allergy As Immune Response"
     url: "/wiki/concepts/allergyasimmuneresponse/"

@@ -16039,3 +16039,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-08] ingest | Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主
+
+Ingested the 2026-09-07 文化有限 episode on William Golding's Lord of the Flies, using the island setup to examine civilization fragility, fear, group violence, symbolic objects, technology, adaptation, and modern identity-performance versions of the island story. Added source `vol-351-yingwang-21shiji-de-huangdao-gushi-haineng-zenme-kai-naodong-1983-nuojiang-dezhu-gkwriueodap1a3taaattkgol`; created `LordOfTheFlies`, `WilliamGolding`, `TheCoralIsland`, `RalphLordOfTheFlies`, `JackMerridew`, `PiggyLordOfTheFlies`, `SimonLordOfTheFlies`, `RogerLordOfTheFlies`, `DaYiCultureLimited`, `CivilizationFragilityAllegory`, `IslandAdventureInversion`, `FearDrivenGroupViolence`, `TechnologyAmbivalenceFireSignal`, and `AllegoricalAdaptationSpecificity`; updated `CultureLimited`, `ChaoGe`, `XingguangCultureLimited`, `index`, and `overview`. No settled contradiction found; BBC adaptation details, school-canon controversy, and the hosts' 21st-century island-story ideas remain source-scoped literary commentary.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

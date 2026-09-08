@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主](sources/vol-351-yingwang-21shiji-de-huangdao-gushi-haineng-zenme-kai-naodong-1983-nuojiang-dezhu-gkwriueodap1a3taaattkgol.md) — 文化有限 episode on William Golding's Lord of the Flies, civilization fragility, island-adventure inversion, fear-driven group violence, fire and technology, and allegorical adaptation tradeoffs.
 - [vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远](sources/vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw.md) — 天真不天真 conversation with Yang Tianzhen and Xieyin Melody on podcasting, long-form value, media transition, short-video traffic logic, AI-era human connection, and creator identity change.
 - [罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！](sources/luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f.md) — 罗永浩的十字路口 live panel with 四孝喜剧 on trend-following, friend lending, campus-loan chains, Smartisan debt repayment, collection pressure, and money's effect on relationships.
 - [No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？](sources/no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna.md) — 三五环 interview with Liu Xiaowei on Kuaishou marketing science, content seeding, R3 seeded audiences, search/live/store paths, and brand-performance integration.
@@ -2181,7 +2182,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tate Walker / 泰特](entities/TateWalker.md) — Character whose literacy, care, and publication help make him Kya's intimacy-and-learning counterpart.
 - [Chase Andrews / 蔡司](entities/ChaseAndrews.md) — Murder-case and threat figure whose death turns Kya's marginality into a law, evidence, and moral-judgment problem.
 - [大老师（文化有限）](entities/DaLaoshiCultureLimited.md) — Culture Limited host voice foregrounding nature/civilization conflict, evidentiary collision, and wild-child marginality in the Crawdads episode.
-- [星光（文化有限）](entities/XingguangCultureLimited.md) — Culture Limited host voice foregrounding southern wetland history, legal justice, childhood abandonment, and victim-held forgiveness.
+- [星光（文化有限）](entities/XingguangCultureLimited.md) — Culture Limited host voice foregrounding southern wetland history, legal justice, victim-held forgiveness, technology loss, and post-rescue media spectacle.
 - [展开讲讲 / Zhankai Jiangjiang](entities/ZhankaiJiangjiang.md) — culture-commentary podcast show using a "电视报" format to connect media reviews, creator memory, public mood, and everyday life.
 - [安盼熙 / Ahn Pan-seok](entities/AhnPanSeok.md) — Korean television director remembered for literary realism, women's subjectivity, class detail, and the hosts' early viewing language.
 - [东野圭吾 / Higashino Keigo](entities/HigashinoKeigo.md) — Japanese mystery writer framed through Chinese reader memory, clean prose, moral ambiguity, and crime's social causes.
@@ -7957,7 +7958,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Marks & Co. / 马克斯与科恩书店](entities/MarksAndCo.md) — London old-book shop at 84 Charing Cross Road that becomes a community, memory site, and bookstore-serendipity case in episode 134.
 - [Nora Doel / 诺拉·多尔](entities/NoraDoel.md) — Frank Doel's wife whose direct correspondence with Helene widens episode 134 from bookseller exchange into family friendship.
 - [Cecily Farr / 西西莉·法尔](entities/CecilyFarr.md) — Marks & Co. staff member whose private letter shows the shop collectively reading and receiving Helene's presence.
-- [文化有限](entities/CultureLimited.md) — Reading-oriented program described by 超哥 as using books to sustain long-term conversation and output-forced input.
+- [文化有限](entities/CultureLimited.md) — Reading-oriented program using books for long-form conversation across creator reflection, psychotherapy, contemporary fiction, and classic allegory.
+- [Lord of the Flies / 《蝇王》](entities/LordOfTheFlies.md) — William Golding novel read by Culture Limited as a child-island allegory about civilization fragility, fear, violence, fire, and adult war.
+- [William Golding / 威廉·戈尔丁](entities/WilliamGolding.md) — Author of Lord of the Flies whose teaching and wartime experience ground the episode's civilization-fragility reading.
+- [The Coral Island / 《珊瑚岛》](entities/TheCoralIsland.md) — Island-adventure predecessor used by the episode to explain Golding's reversal of optimistic child cooperation.
+- [Ralph / 拉尔夫（《蝇王》）](entities/RalphLordOfTheFlies.md) — Order-seeking Lord of the Flies figure tied to the conch, rescue, signal fire, failed leadership, and final recognition.
+- [Jack Merridew / 杰克（《蝇王》）](entities/JackMerridew.md) — Hunting-faction leader in Lord of the Flies who converts meat, fear, masks, and action into rival authority.
+- [Piggy / 猪崽子（《蝇王》）](entities/PiggyLordOfTheFlies.md) — Rational and vulnerable Lord of the Flies figure whose glasses make fire possible and whose death marks reason's collapse.
+- [Simon / 西蒙（《蝇王》）](entities/SimonLordOfTheFlies.md) — Truth-bearing Lord of the Flies figure whose discovery of the beast's reality is destroyed by group frenzy.
+- [Roger / 罗杰（《蝇王》）](entities/RogerLordOfTheFlies.md) — Direct-violence Lord of the Flies figure used by the episode to distinguish cruelty from Jack's factional politics.
+- [大一（文化有限）](entities/DaYiCultureLimited.md) — Culture Limited host voice foregrounding evil, power without self-knowledge, reading experience, and 21st-century island-story imagination.
 - [果麦文化 / Guomai Culture](entities/GuomaiCulture.md) — Publishing context for 秦总's path from editing anxiety and livestreaming toward reader-facing book media.
 - [罗辑思维](entities/LuojiSiwei.md) — Knowledge-media context in 超哥's path before 《文化有限》 and public reading discussion.
 - [《书楼吊堂》](entities/ShulouDodo.md) — 京极夏彦 work invoked for the metaphor that books are grave-like places of memory and return.
@@ -11282,6 +11292,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Civilization Fragility Allegory / 文明脆弱性寓言](concepts/CivilizationFragilityAllegory.md) — Lord of the Flies reading where improvised rules, rescue fire, fear, and wartime framing show civilization as fragile practice rather than automatic inheritance.
+- [Island Adventure Inversion / 荒岛冒险反写](concepts/IslandAdventureInversion.md) — Literary pattern where Lord of the Flies keeps the island adventure setup but reverses The Coral Island's cooperative civilizing optimism.
+- [Fear-Driven Group Violence / 恐惧驱动的群体暴力](concepts/FearDrivenGroupViolence.md) — Pattern where ambiguous threat, ritual, masks, chant, weather, and collective excitement turn a group toward violence.
+- [Technology Ambivalence in Fire and Signal / 火与信号的技术双重性](concepts/TechnologyAmbivalenceFireSignal.md) — Reading of Piggy's glasses and fire as technical power that can rescue, organize, damage, and destroy.
+- [Allegorical Adaptation Specificity / 寓言改编的具体化风险](concepts/AllegoricalAdaptationSpecificity.md) — Adaptation tradeoff where added backstory can clarify character motivation while weakening allegorical openness.
 - [Long Content Time Tail / 长内容时间长尾](concepts/LongContentTimeTail.md) — Long-form media value claim that a podcast or deep episode can remain useful, searchable, and relationship-building years after release.
 - [Podcast-Led Media Transition / 播客牵引的媒体转型](concepts/PodcastLedMediaTransition.md) — Route where media workers move reporting, interviewing, editing, sound, and narrative skills into podcast production and podcast-company models.
 - [Short-Video Traffic Logic / 短视频流量逻辑](concepts/ShortVideoTrafficLogic.md) — Platform-native content logic driven by topic, title psychology, persona, algorithmic matching, compression, and demand discovery.

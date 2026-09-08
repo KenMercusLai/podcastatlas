@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6675
+wiki_total_pages: 6680
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -782,6 +782,9 @@ wiki_pages:
   - key: "CivilizationAsDeception"
     title: "Civilization As Deception"
     url: "/wiki/concepts/civilizationasdeception/"
+  - key: "CivilizationFragilityAllegory"
+    title: "Civilization Fragility Allegory / 文明脆弱性寓言"
+    url: "/wiki/concepts/civilizationfragilityallegory/"
   - key: "CivilizationBarbarismFrame"
     title: "Civilization-Barbarism Frame / 文明-野蛮框架"
     url: "/wiki/concepts/civilizationbarbarismframe/"

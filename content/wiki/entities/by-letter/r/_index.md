@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 9270
+wiki_total_pages: 9279
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "RajivMotwani"
     title: "Rajiv Motwani"
     url: "/wiki/entities/rajivmotwani/"
+  - key: "RalphLordOfTheFlies"
+    title: "Ralph / 拉尔夫（《蝇王》）"
+    url: "/wiki/entities/ralphlordoftheflies/"
   - key: "RalphAdolphs"
     title: "Ralph Adolphs"
     url: "/wiki/entities/ralphadolphs/"
@@ -485,6 +488,9 @@ wiki_pages:
   - key: "RodoSayagues"
     title: "Rodo Sayagues"
     url: "/wiki/entities/rodosayagues/"
+  - key: "RogerLordOfTheFlies"
+    title: "Roger / 罗杰（《蝇王》）"
+    url: "/wiki/entities/rogerlordoftheflies/"
   - key: "RogerMortimer"
     title: "Roger Mortimer"
     url: "/wiki/entities/rogermortimer/"

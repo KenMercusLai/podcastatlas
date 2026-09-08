@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9270
+wiki_total_pages: 9279
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -932,6 +932,9 @@ wiki_pages:
   - key: "DuoduoMaicai"
     title: "多多买菜 / Duoduo Maicai"
     url: "/wiki/entities/duoduomaicai/"
+  - key: "DaYiCultureLimited"
+    title: "大一（文化有限）"
+    url: "/wiki/entities/dayiculturelimited/"
   - key: "DavidWeng"
     title: "大卫翁 / David Weng"
     url: "/wiki/entities/davidweng/"
