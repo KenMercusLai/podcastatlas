@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山](sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay.md) — 忽左忽右 episode with Yan Haijun on Longshan, Guanlong roads, Qin-Han east-west movement, Tianxia China, and northwest historical geography.
 - [《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！](sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp.md) — 21 CE Wang Mang backfill on Empress Xiaomu's death, Wang Lin's scandal and forced suicide, public-son succession collapse, private sons Wang Xing and Wang Kuang, failed campaigns, Xiongnu requisitions, famine, and private-coinage punishment.
 - [《资治通鉴·汉纪》663丨更始帝刘玄是滩扶不上墙的烂泥？](sources/zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz.md) — Gengshi 1 backfill on Liu Xuan's controllable Liu-lineage elevation, Liu Yan's delayed-title warning, Zhang Ang's pressure intervention, Wang Mang's pre-Kunyang mobilization, and Liu Xiu's Kunyang survival counsel.
 - [《资治通鉴·汉纪》664丨昆阳之战：决定国运的历史转折点](sources/zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4.md) — 芮淇讲透资治通鉴 episode on the Kunyang battle, Wang Yi's rejected advice, Yan You's siege warnings, Liu Xiu's smaller-force command-center strike, Wan surrender, Cen Peng clemency, Feng Yi's submission, and Gengshi momentum.
@@ -2025,6 +2026,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Yan Haijun / 严海军 / 阎海军](entities/YanHaijun.md) — Non-fiction writer and Longshan historical-geography interpreter from the 忽左忽右 episode.
+- [陇山 / 龙山 / Longshan (Gansu-Shaanxi)](entities/LongshanGansuShaanxi.md) — Northwest mountain system framed as an east-west hinge between Guanzhong, Longyou, Hexi, and the Western Regions.
+- [关陇古道 / Guanlong Ancient Road](entities/GuanlongAncientRoad.md) — Changing old route system across Longshan that becomes imperial transport infrastructure in the source.
+- [丝绸之路 / Ancient Silk Road](entities/AncientSilkRoad.md) — Disambiguated ancient Silk Road route page, separate from the online-marketplace Silk Road page.
 - [Wang Lin / 王林 (Xin crown prince)](entities/WangLinXinCrownPrince.md) — Wang Mang's crown-prince son whose Yuan Bi scandal, fear, failed patricide plot, and forced suicide break the public succession line.
 - [Empress Xiaomu of Xin / 孝睦皇后](entities/EmpressXiaomuXin.md) — Wang Mang's wife whose grief, blindness, illness, and death frame the Hanji 658 household-collapse branch.
 - [Yuan Bi / 元璧](entities/YuanBiXinPalaceAttendant.md) — Palace attendant connected to Empress Xiaomu, Wang Mang, and Wang Lin, whose torture confession exposes the plot.
@@ -4143,7 +4148,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hainan Airlines / 海南航空](entities/HainanAirlines.md) — Chinese airline peer case in the in-flight meal and passenger-service upgrade branch.
 - [Sydney](entities/Sydney.md) — Australian city used as the source's beach/outdoor lifestyle and drone lifeguard case.
 - [CyberCab](entities/CyberCab.md) — Tesla dedicated robotaxi vehicle in the source's Austin rollout discussion.
-- [Gansu / 甘肃](entities/Gansu.md) — Landing setting for LandSpace's Zhuque-3 Yao-2 first-stage recovery in the source.
+- [Gansu / 甘肃](entities/Gansu.md) — Modern rocket-recovery setting and northwest historical-geography corridor around Longshan, Guanlong roads, and Guanzhong ties.
 - [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected abolitionist, African female-power, medieval, Elizabethan, Troubles, national-symbol, sport-politics, Habsburg, Odyssey, Founding Fathers, and Roman Civil War branches.
 - [Benjamin Lay](entities/BenjaminLay.md) — Quaker abolitionist activist whose Barbados experience, boycott discipline, public stunts, and anti-slavery witness anchor episode 316.
 - [Sarah Lay](entities/SarahLay.md) — Benjamin Lay's wife and household partner whose Barbados charity and radical simplicity shape the episode's abolitionist context.
@@ -11357,6 +11362,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Longshan East-West Corridor Logic / 陇山东西互动轴线](concepts/LongshanEastWestCorridor.md) — Historical-geography frame linking Longshan to Qin eastward movement, Han westward expansion, and durable route infrastructure.
+- [天下中国 / Tianxia China](concepts/TianxiaChina.md) — Source-bounded political-order concept covering indirect rule, cultural recognition, suzerainty, jimi offices, and protectorates.
 - [Punitive Currency Enforcement Backfire / 惩罚性货币执法反噬](concepts/PunitiveCurrencyEnforcementBackfire.md) — Late-Xin pattern where private-coinage policing turns into collective punishment, forced labor, household separation, and mass social harm.
 - [Bipartisan Swing-State Representation](concepts/BipartisanSwingStateRepresentation.md) — Pattern where officials from opposing parties in a divided state maintain working trust because shared electorate and state priorities discipline pure tribal performance.
 - [Filibuster Minority Rights](concepts/FilibusterMinorityRights.md) — Senate-procedure argument that the filibuster slows majority action but protects minority leverage and forces negotiation.

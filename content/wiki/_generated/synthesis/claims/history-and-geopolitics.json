@@ -62,6 +62,29 @@
     },
     {
       "global_candidate": true,
+      "id": "longshan-corridor-turns-geography-into-state-formation-route-logic",
+      "qualifications": [
+        "The Longshan corridor thesis is source-scoped and should not be treated as a monocausal explanation of Chinese state formation.",
+        "The 严海军/阎海军 name variance, 龙山/陇山 wording, Qin-origin debate, and Zhang Qian place-memory claims remain source-scoped."
+      ],
+      "statement": "[[499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay|499 翻越陇坂]] adds [[LongshanEastWestCorridor|Longshan east-west corridor logic]]: [[LongshanGansuShaanxi|陇山 / 龙山]] matters less for height than for route concentration between [[GuanzhongRegion|关中]], [[Gansu|甘肃]], Hexi, and the [[WesternRegionsProtectorate|Western Regions]], making Qin eastward movement, [[HanWudi|Han Wudi]]'s westward strategy, [[GuanlongAncientRoad|Guanlong roads]], and [[AncientSilkRoad|the ancient Silk Road]] part of one passage-and-barrier problem.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay",
+        "LongshanEastWestCorridor",
+        "LongshanGansuShaanxi",
+        "GuanzhongRegion",
+        "Gansu",
+        "WesternRegionsProtectorate",
+        "HanWudi",
+        "GuanlongAncientRoad",
+        "AncientSilkRoad",
+        "YanHaijun",
+        "TianxiaChina"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "borderlands-accumulate-historical-layers",
       "qualifications": [
         "The Ceuta source keeps Count Julian, the Pillars of Hercules identification, Moroccan intent, and the 1415 Age of Discovery origin claim source-scoped or qualified."
@@ -83,9 +106,9 @@
       "global_candidate": true,
       "id": "strategic-routes-as-power-infrastructure",
       "qualifications": [
-        "The route mechanism varies by case: cable geopolitics, maritime chokepoints, and enclave migration crossings have different operational rules."
+        "The route mechanism varies by case: cable geopolitics, maritime chokepoints, enclave migration crossings, and ancient mountain corridors have different operational rules."
       ],
-      "statement": "Strategic routes become political infrastructure when control over cables, straits, ports, or enclave crossings changes what states, markets, and migrants can do.",
+      "statement": "Strategic routes become political infrastructure when control over cables, straits, ports, enclave crossings, or mountain corridors changes what states, markets, migrants, and armies can do.",
       "status": "supported",
       "supporting_wikilinks": [
         "UnderseaDataCables",
@@ -93,7 +116,9 @@
         "Ceuta",
         "Gibraltar",
         "RegionalNetworkTopologyRisk",
-        "CableNetworkResilience"
+        "CableNetworkResilience",
+        "LongshanEastWestCorridor",
+        "GuanlongAncientRoad"
       ]
     },
     {
@@ -193,6 +218,6 @@
       ]
     }
   ],
-  "summary": "The Hong Kong football source adds a postwar sports-history case: Hong Kong's 1968 football professionalization was a reactive settlement between amateur-status rules and already-paid labor, followed by semi-professional employment, Seiko's 1979-1985 dynasty, upgraded foreign-player recruitment, and later commercial-team membership mechanisms. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Hanji 658 adds a pre-Kunyang late-Xin layer where Wang Mang's palace scandal, public-son succession collapse, failed campaigns, Xiongnu requisitions, famine, and private-coinage punishment show regime failure before the final battlefield and capital collapse.",
+  "summary": "The Longshan source adds a northwest route-geography layer: Longshan is treated as a passage-and-barrier hinge connecting Guanzhong, Gansu/Longyou, Hexi, and the Western Regions, so Qin eastward movement, Han Wudi's westward strategy, Guanlong roads, and the ancient Silk Road become one corridor problem. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Hanji 658 adds a pre-Kunyang late-Xin layer where Wang Mang's palace scandal, public-son succession collapse, failed campaigns, Xiongnu requisitions, famine, and private-coinage punishment show regime failure before the final battlefield and capital collapse.",
   "topic_id": "history-and-geopolitics"
 }

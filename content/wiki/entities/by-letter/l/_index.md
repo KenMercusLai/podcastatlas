@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9328
+wiki_total_pages: 9332
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1769,6 +1769,9 @@ wiki_pages:
   - key: "LuXunDongWu"
     title: "陆逊 / Lu Xun (Eastern Wu)"
     url: "/wiki/entities/luxundongwu/"
+  - key: "LongshanGansuShaanxi"
+    title: "陇山 / 龙山 / Longshan (Gansu-Shaanxi)"
+    url: "/wiki/entities/longshangansushaanxi/"
   - key: "LongxiCommandery"
     title: "陇西郡 / Longxi Commandery"
     url: "/wiki/entities/longxicommandery/"

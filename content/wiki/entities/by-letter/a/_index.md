@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9328
+wiki_total_pages: 9332
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1442,6 +1442,9 @@ wiki_pages:
   - key: "AssetAllocationActionGuide"
     title: "《资产配置行动指南》 / Asset Allocation Action Guide"
     url: "/wiki/entities/assetallocationactionguide/"
+  - key: "AncientSilkRoad"
+    title: "丝绸之路 / Ancient Silk Road"
+    url: "/wiki/entities/ancientsilkroad/"
   - key: "AFCChampionsLeague"
     title: "亚冠 / AFC Champions League"
     url: "/wiki/entities/afcchampionsleague/"

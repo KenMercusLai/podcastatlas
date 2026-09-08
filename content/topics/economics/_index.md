@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1957
+topic_total_pages: 1958
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -4871,6 +4871,9 @@ topic_entities:
   - key: "Buxideng"
     title: "不熄灯 / Buxideng"
     url: "/wiki/entities/buxideng/"
+  - key: "AncientSilkRoad"
+    title: "丝绸之路 / Ancient Silk Road"
+    url: "/wiki/entities/ancientsilkroad/"
   - key: "ZhongzhiGroup"
     title: "中植集团"
     url: "/wiki/entities/zhongzhigroup/"

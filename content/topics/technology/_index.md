@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2815
+topic_total_pages: 2816
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6932,6 +6932,9 @@ topic_entities:
   - key: "GuanglunIntelligence"
     title: "光轮智能"
     url: "/wiki/entities/guanglunintelligence/"
+  - key: "GuanlongAncientRoad"
+    title: "关陇古道 / Guanlong Ancient Road"
+    url: "/wiki/entities/guanlongancientroad/"
   - key: "NeiheKonghuang"
     title: "内核恐慌"
     url: "/wiki/entities/neihekonghuang/"

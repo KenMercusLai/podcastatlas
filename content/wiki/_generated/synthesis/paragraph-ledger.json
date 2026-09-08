@@ -590,12 +590,13 @@
       "d8d7ba16097695a34f30d301f24adcba5812c1f4801c4f85c3ab1b1f88697cb4",
       "50c10ede37a5054232536c4055debd33554deb141412a8be7da09db5505c5e9c",
       "84dd49ac166e4697c7944d5e84ddfcbab4c58fe49670c3ea55a8fcc24b4214bf",
-      "47f00b5a6071894a52decccac47bb644170058bfe2e6c4ee40872a73dd9fddea"
+      "47f00b5a6071894a52decccac47bb644170058bfe2e6c4ee40872a73dd9fddea",
+      "2329e7eab06651d12277d1121e2f6f787bf502e9b853ce051ac66f1a6ecc7b80"
     ],
-    "paragraph_count": 590
+    "paragraph_count": 591
   },
-  "overview_commit": "e8b0e96753af8b4ded986f813d28f1aa3d3de7c1",
-  "overview_digest": "ffc6447c07ee49d31ad3465f5c5135d818c197c75fc780c94e84bafac59fb9c8",
+  "overview_commit": "1ccad4041e9b32ef1c3cfa6415ec71901479e9e6",
+  "overview_digest": "46d11fcc262790542e9de0f2aa4e6de81382f38cdc066fa0a99db84f65fec5e0",
   "paragraphs": [
     {
       "id": "1c134906278438e00e83ff37918f4d10dd50edd72acc03ce0b6dda825da3d7a8",
@@ -18098,6 +18099,32 @@
         "WinsEntertainment",
         "WongJing",
         "wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np"
+      ]
+    },
+    {
+      "id": "2329e7eab06651d12277d1121e2f6f787bf502e9b853ce051ac66f1a6ecc7b80",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay|499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山]], a [[HuzuoHuyou|忽左忽右]] episode with [[YanHaijun|严海军 / 阎海军]] on [[LongshanGansuShaanxi|陇山 / 龙山]] as a northwest historical-geography hinge. It adds [[GuanlongAncientRoad|关陇古道]], [[AncientSilkRoad|丝绸之路]], [[LongshanEastWestCorridor|陇山东西互动轴线]], and [[TianxiaChina|天下中国]], while extending [[Gansu|甘肃]], [[GuanzhongRegion|关中]], [[QinState|秦国]], [[HanWudi|汉武帝]], [[Xiongnu|匈奴]], and [[WesternRegionsProtectorate|西域都护府]]. Its core synthesis is that Longshan's importance comes from positional route concentration rather than height: Qin eastward movement, Western Han westward expansion, Guanlong roads, and modern rail, road, and pipeline corridors all make the mountain system a recurrent passage-and-barrier problem. No settled contradiction is recorded; the 严海军/阎海军 name variance, 龙山/陇山 wording, Qin-origin discussion, and Zhang Qian place-memory claims remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 4
+      },
+      "wikilinks": [
+        "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay",
+        "AncientSilkRoad",
+        "Gansu",
+        "GuanlongAncientRoad",
+        "GuanzhongRegion",
+        "HanWudi",
+        "HuzuoHuyou",
+        "LongshanEastWestCorridor",
+        "LongshanGansuShaanxi",
+        "QinState",
+        "TianxiaChina",
+        "WesternRegionsProtectorate",
+        "Xiongnu",
+        "YanHaijun"
       ]
     }
   ],

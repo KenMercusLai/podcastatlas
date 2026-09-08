@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6721
+wiki_total_pages: 6723
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "LongTermUnemploymentPenalty"
     title: "Long-Term Unemployment Penalty / 长期失业惩罚"
     url: "/wiki/concepts/longtermunemploymentpenalty/"
+  - key: "LongshanEastWestCorridor"
+    title: "Longshan East-West Corridor Logic / 陇山东西互动轴线"
+    url: "/wiki/concepts/longshaneastwestcorridor/"
   - key: "LongwaveRadio"
     title: "Longwave Radio"
     url: "/wiki/concepts/longwaveradio/"
