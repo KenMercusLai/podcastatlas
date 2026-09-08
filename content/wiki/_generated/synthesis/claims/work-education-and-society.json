@@ -1234,10 +1234,30 @@
         "HongKong",
         "Budongqiu"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "investor-to-operator-shift-is-founder-work-learning-case",
+      "qualifications": [
+        "This is a source-scoped founder-work and organization-design claim, not general career advice or proof that investors make better operators.",
+        "The source reports early operating observations; team capability, cash flow, service economics, and overseas-channel claims need further evidence before becoming broad manufacturing conclusions.",
+        "AI-native manufacturing is framed as organizational redesign, but adoption details remain source-scoped rather than independently verified implementation evidence."
+      ],
+      "statement": "[[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht|No.222]] enters work-and-society through [[InvestorToOperatorLearning]] and [[AINativeManufacturingTransformation]]: [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]] frames the shift into [[YuzhouEBike|宇宙 E-Bike]] as learning by carrying sales, supply-chain, service, cash-flow, overseas-trust, team-capability, and AI-workflow responsibility rather than only analyzing the market from an investor seat.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht",
+        "InvestorToOperatorLearning",
+        "AINativeManufacturingTransformation",
+        "ChengHongningYuzhouEBike",
+        "YuzhouEBike",
+        "LiuFei",
+        "SanWuHuan"
+      ]
     }
   ],
-  "input_digest": "5f61b30cb7ef881346984fa3d02fbcd2e151e101046063e9ab032b9307b6dea9",
-  "summary": "The Hong Kong football source adds a work-and-society case in which early professional sport remained partly semi-professional: paid players, signing fees, club wages, stable jobs arranged by corporate teams, and owner-control preferences all shaped labor and institutional identity. The broader topic continues to synthesize how work, education, care, creator labor, travel, and social institutions depend on practical routines, trust, incentives, and human judgment rather than formal labels alone. The Tong Li episode enters this topic only as a source-scoped public-education case: sex education is framed as life-course learning that needs safety, consent, law, relationship context, and age-appropriate boundaries rather than a fixed school-only information transfer.",
+  "input_digest": "f993ed6771db627a6fae96e4391881d9584cdd8fdcee354a00805ba4dc5e0b71",
+  "summary": "The Hong Kong football source adds a work-and-society case in which early professional sport remained partly semi-professional: paid players, signing fees, club wages, stable jobs arranged by corporate teams, and owner-control preferences all shaped labor and institutional identity. The broader topic continues to synthesize how work, education, care, creator labor, travel, and social institutions depend on practical routines, trust, incentives, and human judgment rather than formal labels alone. The Tong Li episode enters this topic only as a source-scoped public-education case: sex education is framed as life-course learning that needs safety, consent, law, relationship context, and age-appropriate boundaries rather than a fixed school-only information transfer. The SanWuHuan e-bike source adds a narrow founder-work case: investment knowledge changes when exposed to operator responsibility, overseas trust-building, team capability, service burden, and AI-native workflow redesign.",
   "title": "Work, Education, and Society",
   "topic_id": "work-education-and-society"
 }

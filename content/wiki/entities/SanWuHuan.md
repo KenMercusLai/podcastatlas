@@ -11,6 +11,7 @@ sources:
   - no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj
   - no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d
   - no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna
+  - no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht
 last_updated: 2026-09-08
 knowledge_schema: synthesis-v1
 ---
@@ -35,6 +36,8 @@ The Douyin ecommerce infringement episode adds a platform-rights governance bran
 
 The Kuaishou seeding episode adds a platform-marketing science branch through [[LiuXiaoweiMarketing|刘晓微]]. It treats "种草" as a concrete user-path problem: content exposure, search, live-room explanation, store visits, coupons, delayed purchase, and off-platform transactions become the operating details behind [[ContentSeedingMarketing|内容种草]], [[BrandPerformanceIntegration|品效合一]], and [[MarketingScienceUserPath|marketing science user-path reconstruction]].
 
+The Cheng/Chen Hongning episode adds a founder-operator manufacturing branch through [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]] and [[YuzhouEBike|宇宙 E-Bike]]. It uses electric-assist bicycles to connect investment experience, hands-on product and supply-chain learning, premium hardware positioning, China-Europe category differences, and founder-led [[AINativeManufacturingTransformation|AI-native manufacturing transformation]].
+
 ## Key Characteristics
 - It is associated with [[LiuFei|刘飞]] as a host/creator context.
 - Its Wu Hankun episode treats AI through workflow detail rather than only capability hype.
@@ -42,7 +45,7 @@ The Kuaishou seeding episode adds a platform-marketing science branch through [[
 - Its Hanqing episode treats AI-native virtual idols through original IP, personality systems, music/video workflow, and interaction risk.
 - Its Douyin ecommerce episode treats AI-enabled infringement as a platform operations, rights, authorization, and consumer-confusion problem.
 - Its Kuaishou episode treats content seeding as marketing science, user-path reconstruction, and brand-performance integration rather than only advertising jargon.
-- It can use former internet-company and founder-operator context to explain platform safety, governance, customer workflow, marketing paths, and user responsibility.
+- It can use former internet-company and founder-operator context to explain platform safety, governance, customer workflow, marketing paths, hardware operations, and user responsibility.
 
 ## Evidence
 - Show association - [[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] names 三五环 as Liu Fei's other podcast context.
@@ -53,18 +56,19 @@ The Kuaishou seeding episode adds a platform-marketing science branch through [[
 - AI-native IP interview - [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]] is a 三五环 episode with Liu interviewing [[HanqingUrey|汗青]] on [[AITalk|AI Talk]], [[UreyVirtualIdol|Yuri / 尤栗 / 优瑞]], [[AINativeVirtualIdol]], and [[AICharacterPersonalitySystem]].
 - Platform-rights governance interview - [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]] is a 三五环 episode with Liu interviewing [[ZhuWeiLegalScholar|朱威]] and [[JiaxuDouyinEcommerce|嘉旭]] on [[DouyinEcommerce|抖音电商]], AI-enabled likeness and voice infringement, pre-review, authorization, and consumer confusion.
 - Marketing-science interview - [[no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna]] is a 三五环 episode with Liu interviewing [[LiuXiaoweiMarketing|刘晓微]] on [[Kuaishou]], seeded audiences, search/store/live-room signals, and brand-performance integration.
+- Founder-operator manufacturing interview - [[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht]] is a 三五环 episode with Liu interviewing [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]] on [[YuzhouEBike|宇宙 E-Bike]], electric-assist bicycle strategy, investor-to-operator learning, and AI-native manufacturing.
 - Workflow focus - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] uses concrete production details around [[PinkParadox|《粉色悖论》]] and [[PopulationAnomaly|《人口异常》]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]] uses concrete account, team, client, and short-drama workflow examples, and [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]] uses concrete model-orchestration, personality, music, image, and dialogue-risk examples.
-- Product-cultural bridge - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]], [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]], [[no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi]], [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]], and [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]] connect tools, product thinking, platform behavior, human judgment, user responsibility, customer workflow, original IP, and rights governance.
+- Product-cultural bridge - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]], [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]], [[no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi]], [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]], [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]], and [[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht]] connect tools, product thinking, platform behavior, human judgment, user responsibility, customer workflow, original IP, rights governance, and hardware operations.
 
 ## Qualifications
 The page remains source-limited. It does not claim a complete history, format taxonomy, audience profile, or release schedule for 三五环.
 
 ## What Changed
-- Added the Didi safety episode, extending the show profile into platform safety operations and offline-service governance.
 - Added the AHA Creator episode, extending the show profile into AI commercialization through concrete overseas creator-marketing workflow.
 - Added the Hanqing/Yuri episode, extending the show profile into AI-native virtual idols, personality systems, and original IP risk.
 - Added the Douyin ecommerce infringement episode, extending the show profile into AI-enabled commerce rights governance and platform authorization operations.
 - Added the Kuaishou seeding episode, extending the show profile into platform marketing science, content commerce, and brand-performance path construction.
+- Added the Cheng/Chen Hongning episode, extending the show profile into investment-to-operations learning, premium e-bike hardware, and founder-led AI-native manufacturing.
 
 ## Relationships
 - [[LiuFei|刘飞]] - host associated with the show across the source set.
@@ -77,6 +81,8 @@ The page remains source-limited. It does not claim a complete history, format ta
 - [[DouyinEcommerce|抖音电商]] - commerce platform case discussed in the show's rights-governance branch.
 - [[LiuXiaoweiMarketing|刘晓微]] - guest who grounds the show's Kuaishou content-seeding branch.
 - [[Kuaishou]] - platform case discussed in the show's marketing-science branch.
+- [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]] - guest who grounds the show's investor-to-operator and manufacturing branch.
+- [[YuzhouEBike|宇宙 E-Bike]] - company case discussed in the show's electric-assist bicycle branch.
 - [[XuXiaonan|徐晓楠 / 曲晓楠]] - guest who grounds the show's ride-hailing safety operations branch.
 - [[KateAHA|Kate]] - guest who grounds the show's AI-driven creator-marketing branch.
 - [[AHACreator|AHA Creator]] - company case discussed in the show's overseas creator-marketing branch.
@@ -89,3 +95,6 @@ The page remains source-limited. It does not claim a complete history, format ta
 - [[AINativeVirtualIdol]] - AI-native character IP branch surfaced by the Hanqing episode.
 - [[AIEcommerceInfringementGovernance]] - AI commerce rights-governance branch surfaced by the Douyin ecommerce episode.
 - [[ContentSeedingMarketing]] - content-commerce and demand-path branch surfaced by the Kuaishou episode.
+- [[InvestorToOperatorLearning]] - founder learning branch surfaced by the Cheng/Chen Hongning episode.
+- [[ElectricAssistBicyclePremiumPositioning]] - premium hardware positioning branch surfaced by the Cheng/Chen Hongning episode.
+- [[AINativeManufacturingTransformation]] - manufacturing AI-organization branch surfaced by the Cheng/Chen Hongning episode.

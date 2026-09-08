@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "01efd245c7b2792a9e10bed09d5c5cea8817e44eeebf7d5f664f11fa3930339d",
       "b48d314ea783542efeb8ce77b613a48008d2e21bd1fff146f453efb7e2a9ab23",
       "fa90235a6e248fc16fa3221ee8dd7ca3790a29db999d154a09ec7bd032c8d0ba",
       "e8622d38f13ea2358ddce386a71a855756d6b16ff37d750e1c143956989294e2",
@@ -588,11 +589,37 @@
       "50c10ede37a5054232536c4055debd33554deb141412a8be7da09db5505c5e9c",
       "84dd49ac166e4697c7944d5e84ddfcbab4c58fe49670c3ea55a8fcc24b4214bf"
     ],
-    "paragraph_count": 586
+    "paragraph_count": 587
   },
-  "overview_commit": "5062cadf59b1e6cfc98515c98c7f607667c6ee09",
-  "overview_digest": "8ff81a136f213db13205f76371ba971cd82262c5830682ff814d2b6545504134",
+  "overview_commit": "6babc7dd335d56b1f1daf9fbcebd8757c6c8b17b",
+  "overview_digest": "6f349faf5008fdca89b576effa46e5ebaf351baa27a3fce507f0701a7006cac1",
   "paragraphs": [
+    {
+      "id": "01efd245c7b2792a9e10bed09d5c5cea8817e44eeebf7d5f664f11fa3930339d",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht|No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚]], a [[SanWuHuan|三五环]] episode with [[LiuFei|刘飞]] interviewing [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]] about moving from investment work into [[YuzhouEBike|宇宙 E-Bike]]. It adds [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]], [[YuzhouEBike|宇宙 E-Bike]], [[InvestorToOperatorLearning]], [[ElectricAssistBicyclePremiumPositioning]], and [[AINativeManufacturingTransformation]], while extending [[SanWuHuan|三五环]], [[LiuFei|刘飞]], [[BafangElectric|八方股份]], and [[EBikeValueChainShift]]. Its core synthesis is that investor insight becomes materially different when tested against high-ticket hardware sales, supply chains, product tuning, service budgets, overseas trust, team capability, and cash flow; in parallel, AI-native manufacturing is framed as a founder-led organization redesign rather than a delegated tool rollout. No settled contradiction is recorded; the source's 程泓宁/陈鸿宁 name variance, market-share, penetration, profitability, overseas-channel, product-weight, and AI-adoption claims remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 4,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AINativeManufacturingTransformation",
+        "BafangElectric",
+        "ChengHongningYuzhouEBike",
+        "EBikeValueChainShift",
+        "ElectricAssistBicyclePremiumPositioning",
+        "InvestorToOperatorLearning",
+        "LiuFei",
+        "SanWuHuan",
+        "YuzhouEBike",
+        "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht"
+      ]
+    },
     {
       "id": "b48d314ea783542efeb8ce77b613a48008d2e21bd1fff146f453efb7e2a9ab23",
       "primary_topic": "culture-and-media",

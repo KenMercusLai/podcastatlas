@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚](sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht.md) — 三五环 interview with Cheng/Chen Hongning on moving from investment work into 宇宙 E-Bike, premium electric-assist bicycle positioning, operating realism, and founder-led AI-native manufacturing.
 - [246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了](sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793.md) — 博物志 episode on Hangzhou Museum's “意味杭之” ancient-books exhibition, museum interpretation, guji materiality, woodblock-printing economics, Ming-Qing Hangzhou publishing, and Hangzhou heritage travel.
 - [347-到底为啥有些傻蛋只会以说教的方式沟通](sources/347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt.md) — 独树不成林 episode on preaching as power language, failed connection, weak reflexive self-awareness, authority imitation, and listening fear.
 - [怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房](sources/yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578.md) — 声动早咖啡 roundup on C'estbon pure-water share pressure, Maya Active's fitness-space strategy, smart-ring subscriptions, DeepZ/Huawei compute plans, Foxconn AI servers, automaker restructuring, credit-card contraction, and Aesop retail reallocation.
@@ -7396,12 +7397,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shimano / 喜马诺](entities/Shimano.md) — Japanese bicycle-component company whose drivetrain stack, cold forging, tolerances, and patents anchor the episode's supplier-power argument.
 - [OFO / 小黄车](entities/Ofo.md) — Shared-bike platform whose large promised purchases and financing stress made supplier receivables risk visible.
 - [Mobike / 摩拜](entities/Mobike.md) — Shared-bike platform whose custom hardware design made inventory resale and write-down risk visible.
-- [Bafang Electric / 八方股份](entities/BafangElectric.md) — Chinese E-bike motor company used by the episode to illustrate value-chain shift toward electric-assist systems.
+- [Bafang Electric / 八方股份](entities/BafangElectric.md) — Chinese E-bike motor and electric-assist systems company connecting bicycle value-chain shift, Cheng/Chen Hongning's investment path, and 宇宙 E-Bike's supplier context.
+- [程泓宁 / 陈鸿宁](entities/ChengHongningYuzhouEBike.md) — 宇宙 E-Bike founder whose 三五环 interview connects investment-to-operator learning, premium electric-assist bicycles, and founder-led AI-native manufacturing.
+- [宇宙 E-Bike](entities/YuzhouEBike.md) — Chinese premium electric-assist bicycle brand used by the 三五环 interview to ground product integration, category education, service economics, and AI-native manufacturing ambition.
 - [李诞](entities/LiDan.md) — Comedian and creator guest explaining podcast intimacy, AI-assisted adult learning, AI creation disclosure, and middle-age technology memory in the Banlatte special.
 - [肖磊](entities/XiaoLei.md) — Banlatte host whose radio-to-podcast path and preparation-heavy work describe Chinese podcast production from the media-worker side.
-- [刘飞](entities/LiuFei.md) — Banlatte host and former product manager connecting business storytelling, 三五环, podcast commerce, AI-video creator interviews, and platform safety operations.
+- [刘飞](entities/LiuFei.md) — Banlatte host and former product manager connecting business storytelling, 三五环, podcast commerce, AI-video creator interviews, platform safety operations, marketing science, and hardware-founder interviews.
 - [小宇宙](entities/Xiaoyuzhou.md) — Chinese podcast-platform context for podcast ecosystem discussion, platform-affordance examples, education projects, and the 面基 talent group livestreaming episode.
-- [三五环](entities/SanWuHuan.md) — Liu Fei podcast context represented through practitioner interviews on AI video, creator work, internet expression, product-cultural questions, and ride-hailing safety operations.
+- [三五环](entities/SanWuHuan.md) — Liu Fei podcast context represented through practitioner interviews on AI video, creator work, internet expression, platform safety, marketing science, and hardware entrepreneurship.
 - [朱晓东 / Zhu Xiaodong](entities/ZhuXiaodongSportsRights.md) — Sports-rights specialist and Lizan Sports CEO explaining World Cup rights pricing, packaging, and buyer capacity in E237.
 - [张斌 / Zhang Bin](entities/ZhangBinSportsMedia.md) — Sports media figure explaining platform and China-market implications of CCTV-FIFA rights negotiation in E237.
 - [力赞体育 / Lizan Sports](entities/LizanSports.md) — Sports-rights company context for Zhu Xiaodong in E237.
@@ -14997,7 +15000,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [China Bicycle Shortage Economy](concepts/ChinaBicycleShortageEconomy.md) — Planned-economy setting where bicycles were scarce durable goods requiring money, allocation access, and brand trust.
 - [Shared-Bike Manufacturing Shock](concepts/SharedBikeManufacturingShock.md) — Upstream supplier risk from venture-financed shared-bike orders, unpaid demand, and platform-specific hardware inventory.
 - [Bicycle Component Stack Power](concepts/BicycleComponentStackPower.md) — Supplier control over matched drivetrain systems, process tolerances, patents, and component ecosystems.
-- [E-Bike Value-Chain Shift](concepts/EBikeValueChainShift.md) — Shift from mechanical bicycle drivetrain dominance toward motors, batteries, sensors, software, tuning, service, and overseas channels.
+- [E-Bike Value-Chain Shift](concepts/EBikeValueChainShift.md) — Shift from mechanical bicycle drivetrain dominance toward motors, batteries, sensors, software, tuning, service, brand trust, and overseas channels.
+- [Investor-to-Operator Learning / 投资人到经营者的一线学习](concepts/InvestorToOperatorLearning.md) — Learning gap where investment research becomes different once product, supply chain, sales, cash flow, service, and organization are personally operated.
+- [Electric-Assist Bicycle Premium Positioning / 电助力自行车中高端定位](concepts/ElectricAssistBicyclePremiumPositioning.md) — Strategy of entering e-bikes through a premium band that can fund integrated riding experience, service, and category education.
+- [AI-Native Manufacturing Transformation / AI 原生制造业转型](concepts/AINativeManufacturingTransformation.md) — Founder-led manufacturing AI shift involving data, workflow, employee capability, and organization design rather than tool rollout alone.
 - [Podcast Intimacy](concepts/PodcastIntimacy.md) — Long-form voice relationship where repeated listening, digression, and host presence make listeners feel close to a speaker or public figure.
 - [Podcast Production Workflow](concepts/PodcastProductionWorkflow.md) — Practical system for research, transcripts, cohost roles, recording, editing, ads, and release work behind a finished podcast episode.
 - [Podcast Authenticity Boundary](concepts/PodcastAuthenticityBoundary.md) — Trust line between acceptable preparation/performance and falsely manufactured conversation, including AI-generated audio disclosure.

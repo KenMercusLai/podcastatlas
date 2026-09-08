@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6693
+wiki_total_pages: 6696
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1328,6 +1328,9 @@ wiki_pages:
   - key: "AINativeInvestingWorkflow"
     title: "AI-Native Investing Workflow"
     url: "/wiki/concepts/ainativeinvestingworkflow/"
+  - key: "AINativeManufacturingTransformation"
+    title: "AI-Native Manufacturing Transformation / AI 原生制造业转型"
+    url: "/wiki/concepts/ainativemanufacturingtransformation/"
   - key: "AINativeNarrativeWorlds"
     title: "AI-Native Narrative Worlds"
     url: "/wiki/concepts/ainativenarrativeworlds/"

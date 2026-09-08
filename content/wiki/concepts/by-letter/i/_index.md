@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6693
+wiki_total_pages: 6696
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "InvestorSuitabilityFriction"
     title: "Investor Suitability Friction"
     url: "/wiki/concepts/investorsuitabilityfriction/"
+  - key: "InvestorToOperatorLearning"
+    title: "Investor-to-Operator Learning / 投资人到经营者的一线学习"
+    url: "/wiki/concepts/investortooperatorlearning/"
   - key: "InvisibleClassicalAI"
     title: "Invisible Classical AI"
     url: "/wiki/concepts/invisibleclassicalai/"

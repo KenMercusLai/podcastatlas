@@ -2299,6 +2299,10 @@
     "title": "AI-Native Investing Workflow",
     "url": "/wiki/concepts/ainativeinvestingworkflow/"
   },
+  "AINativeManufacturingTransformation": {
+    "title": "AI-Native Manufacturing Transformation / AI 原生制造业转型",
+    "url": "/wiki/concepts/ainativemanufacturingtransformation/"
+  },
   "AINativeNarrativeWorlds": {
     "title": "AI-Native Narrative Worlds",
     "url": "/wiki/concepts/ainativenarrativeworlds/"
@@ -10839,6 +10843,10 @@
     "title": "程杭 / Cheng Hang",
     "url": "/wiki/entities/chenghang/"
   },
+  "ChengHongningYuzhouEBike": {
+    "title": "程泓宁 / 陈鸿宁",
+    "url": "/wiki/entities/chenghongningyuzhouebike/"
+  },
   "ChengHuanLateHan": {
     "title": "程奂 / Cheng Huan (late Han)",
     "url": "/wiki/entities/chenghuanlatehan/"
@@ -17806,6 +17814,10 @@
   "ElectricAir": {
     "title": "Electric Air",
     "url": "/wiki/entities/electricair/"
+  },
+  "ElectricAssistBicyclePremiumPositioning": {
+    "title": "Electric-Assist Bicycle Premium Positioning / 电助力自行车中高端定位",
+    "url": "/wiki/concepts/electricassistbicyclepremiumpositioning/"
   },
   "ElectricGridModernizationBottleneck": {
     "title": "Electric Grid Modernization Bottleneck",
@@ -28458,6 +28470,10 @@
   "InvestorSuitabilityFriction": {
     "title": "Investor Suitability Friction",
     "url": "/wiki/concepts/investorsuitabilityfriction/"
+  },
+  "InvestorToOperatorLearning": {
+    "title": "Investor-to-Operator Learning / 投资人到经营者的一线学习",
+    "url": "/wiki/concepts/investortooperatorlearning/"
   },
   "InvisibleClassicalAI": {
     "title": "Invisible Classical AI",
@@ -63275,6 +63291,10 @@
     "title": "豫章郡 / Yuzhang Commandery",
     "url": "/wiki/entities/yuzhangcommandery/"
   },
+  "YuzhouEBike": {
+    "title": "宇宙 E-Bike",
+    "url": "/wiki/entities/yuzhouebike/"
+  },
   "YvonChouinard": {
     "title": "Yvon Chouinard / 伊冯·乔伊纳德",
     "url": "/wiki/entities/yvonchouinard/"
@@ -67230,6 +67250,10 @@
   "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666": {
     "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
     "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+  },
+  "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht": {
+    "title": "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚",
+    "url": "/wiki/sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht/"
   },
   "no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna": {
     "title": "No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？",

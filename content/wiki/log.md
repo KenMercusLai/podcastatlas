@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-08] ingest | No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚
+
+Ingested the 2026-06-18 三五环 interview with Cheng/Chen Hongning on moving from investment work into 宇宙 E-Bike, premium electric-assist bicycle positioning, product and service economics, China-Europe category differences, operating realism, and founder-led AI-native manufacturing. Added source `no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht`; created `ChengHongningYuzhouEBike`, `YuzhouEBike`, `InvestorToOperatorLearning`, `ElectricAssistBicyclePremiumPositioning`, and `AINativeManufacturingTransformation`; updated `BafangElectric`, `EBikeValueChainShift`, `SanWuHuan`, `LiuFei`, `index`, and `overview`. No settled contradiction found; the 程泓宁/陈鸿宁 source-name variance and market-share, penetration, profitability, overseas-channel, product-weight, and AI-adoption claims remain source-scoped.
+
 ## [2026-09-08] ingest | No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？
 
 Ingested the 2026-06-30 三五环 episode with Liu Xiaowei on Kuaishou marketing science, content seeding, R3 seeded audiences, search/live/store paths, AI-assisted user-path reconstruction, and brand-performance integration. Added source `no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna`; created `LiuXiaoweiMarketing`, `ContentSeedingMarketing`, `BrandPerformanceIntegration`, and `MarketingScienceUserPath`; updated `Kuaishou`, `SanWuHuan`, `LiuFei`, `CreatorTrustAdvertising`, `index`, and `overview`. No settled contradiction found; R3 contribution figures, campaign-lift claims, AI path inference, non-overlap user scale, and cross-platform conversion remain source-scoped.
@@ -16063,6 +16067,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] ingest | 怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房
 
 Ingested the 2026-09-07 声动早咖啡 business-news episode on C'estbon pure-water share pressure, Maya Active's fitness-space strategy, Aura/Oura smart-ring subscriptions, DeepZ's reported Huawei-chip procurement, Foxconn AI servers, Volkswagen restructuring, Maserati-Huawei-JAC cooperation talks, credit-card contraction, and Aesop China retail reallocation. Added source `yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578`; created `Cestbon`, `MayaActive`, `PureFitness`, `AesopBeauty`, `HuaweiAscend950DT`, `Huabei`, `JDWhiteBar`, `BottledWaterChannelFragmentation`, `SportswearExperienceSpace`, `SmartRingHardwareSubscription`, `CreditCardScaleContraction`, and `BeautyRetailNetworkReallocation`; updated `PackagedWaterPriceWar`, `DeepZ`, `FoxconnIndustrialInternet`, `VolkswagenGroup`, `Stellantis`, `Maserati`, `AntaSports`, `OuraRing`, `index`, and `overview`. No settled contradiction found; the Aura/Oura spelling, chip order, IPO filing, share data, job-cut totals, and cooperation talks remain source-scoped.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-08] lint | Wiki health check
 

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1953
+topic_total_pages: 1956
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -193,6 +193,9 @@ topic_concepts:
   - key: "AINativeInvestingWorkflow"
     title: "AI-Native Investing Workflow"
     url: "/wiki/concepts/ainativeinvestingworkflow/"
+  - key: "AINativeManufacturingTransformation"
+    title: "AI-Native Manufacturing Transformation / AI 原生制造业转型"
+    url: "/wiki/concepts/ainativemanufacturingtransformation/"
   - key: "AirCargoValueDensity"
     title: "Air Cargo Value Density / 航空货运价值密度"
     url: "/wiki/concepts/aircargovaluedensity/"
@@ -1600,6 +1603,9 @@ topic_concepts:
   - key: "InvestorSuitabilityFriction"
     title: "Investor Suitability Friction"
     url: "/wiki/concepts/investorsuitabilityfriction/"
+  - key: "InvestorToOperatorLearning"
+    title: "Investor-to-Operator Learning / 投资人到经营者的一线学习"
+    url: "/wiki/concepts/investortooperatorlearning/"
   - key: "IranPostwarEconomicRelief"
     title: "Iran Postwar Economic Relief"
     url: "/wiki/concepts/iranpostwareconomicrelief/"
@@ -5595,6 +5601,9 @@ topic_sources:
   - key: "no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322"
     title: "No.209 晋商往事：走西口到乔家大院然后煤了"
     url: "/wiki/sources/no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322/"
+  - key: "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht"
+    title: "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚"
+    url: "/wiki/sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht/"
   - key: "opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1"
     title: "OPC 的真正难题，是 AI 还没学会替你把东西卖出去"
     url: "/wiki/sources/opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1/"

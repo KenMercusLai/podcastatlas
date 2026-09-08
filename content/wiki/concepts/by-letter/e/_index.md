@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6693
+wiki_total_pages: 6696
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "ElectricVehiclePriceParity"
     title: "Electric Vehicle Price Parity"
     url: "/wiki/concepts/electricvehiclepriceparity/"
+  - key: "ElectricAssistBicyclePremiumPositioning"
+    title: "Electric-Assist Bicycle Premium Positioning / 电助力自行车中高端定位"
+    url: "/wiki/concepts/electricassistbicyclepremiumpositioning/"
   - key: "ElectricityAffordabilityIndicator"
     title: "Electricity Affordability Indicator"
     url: "/wiki/concepts/electricityaffordabilityindicator/"

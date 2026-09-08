@@ -4086,6 +4086,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "AINativeManufacturingTransformation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AINativeNarrativeWorlds": [
     {
       "key": "technology",
@@ -33337,6 +33349,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "InvestorToOperatorLearning": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "InvisibleClassicalAI": [
@@ -74907,6 +74926,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d": [

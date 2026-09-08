@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-08
-as_of_overview_commit: 4cd802d4f698677c6dce8d52296fd5906b2eaf81
-input_digest: a98094ac971d44dfe032d94565ce7c6a9fb654e69a328bda8141ae7252766d38
+as_of_overview_commit: 6babc7dd335d56b1f1daf9fbcebd8757c6c8b17b
+input_digest: f993ed6771db627a6fae96e4391881d9584cdd8fdcee354a00805ba4dc5e0b71
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The Hong Kong football source adds a work-and-society case in which early professional sport remained partly semi-professional: paid players, signing fees, club wages, stable jobs arranged by corporate teams, and owner-control preferences all shaped labor and institutional identity. The broader topic continues to synthesize how work, education, care, creator labor, travel, and social institutions depend on practical routines, trust, incentives, and human judgment rather than formal labels alone. The Tong Li episode enters this topic only as a source-scoped public-education case: sex education is framed as life-course learning that needs safety, consent, law, relationship context, and age-appropriate boundaries rather than a fixed school-only information transfer.
+The Hong Kong football source adds a work-and-society case in which early professional sport remained partly semi-professional: paid players, signing fees, club wages, stable jobs arranged by corporate teams, and owner-control preferences all shaped labor and institutional identity. The broader topic continues to synthesize how work, education, care, creator labor, travel, and social institutions depend on practical routines, trust, incentives, and human judgment rather than formal labels alone. The Tong Li episode enters this topic only as a source-scoped public-education case: sex education is framed as life-course learning that needs safety, consent, law, relationship context, and age-appropriate boundaries rather than a fixed school-only information transfer. The SanWuHuan e-bike source adds a narrow founder-work case: investment knowledge changes when exposed to operator responsibility, overseas trust-building, team capability, service burden, and AI-native workflow redesign.
 
 ## Cross-source Findings
 
@@ -699,3 +699,15 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 - The labor claim is based on the episode examples of wages, signing fees, bonuses, and arranged employment rather than a full wage dataset.
 - The page does not establish current Hong Kong player labor conditions or South China and Kitchee complete organizational histories.
 - The middle transcript gap leaves part of the commercial-team discussion incomplete.
+
+### Investor To Operator Shift Is Founder Work Learning Case
+
+[[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht|No.222]] enters work-and-society through [[InvestorToOperatorLearning]] and [[AINativeManufacturingTransformation]]: [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]] frames the shift into [[YuzhouEBike|宇宙 E-Bike]] as learning by carrying sales, supply-chain, service, cash-flow, overseas-trust, team-capability, and AI-workflow responsibility rather than only analyzing the market from an investor seat.
+
+**Evidence:** [[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht]], [[InvestorToOperatorLearning]], [[AINativeManufacturingTransformation]], [[ChengHongningYuzhouEBike]], [[YuzhouEBike]], [[LiuFei]], [[SanWuHuan]]
+
+**Qualifications:**
+
+- This is a source-scoped founder-work and organization-design claim, not general career advice or proof that investors make better operators.
+- The source reports early operating observations; team capability, cash flow, service economics, and overseas-channel claims need further evidence before becoming broad manufacturing conclusions.
+- AI-native manufacturing is framed as organizational redesign, but adoption details remain source-scoped rather than independently verified implementation evidence.

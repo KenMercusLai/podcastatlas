@@ -2104,6 +2104,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/aimusicworkflowintegration/"
     },
+    "AINativeManufacturingTransformation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOCSw0AX9_YQSqGMht [GKwRIaIOCSw0AX9_YQSqGMht].md",
+          "key": "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht",
+          "show": "三五环",
+          "title": "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚",
+          "url": "/wiki/sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/ainativemanufacturingtransformation/"
+    },
     "AINativeNarrativeWorlds": {
       "episode_count": 1,
       "show_count": 1,
@@ -6919,6 +6935,29 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/babbittcoffee/"
+    },
+    "BafangElectric": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.199 自行车 200年 [973489465].md",
+          "key": "no-199-zixingche-200-nian-973489465",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.199 自行车 200年",
+          "url": "/wiki/sources/no-199-zixingche-200-nian-973489465/"
+        },
+        {
+          "episode_file": "GKwRIaIOCSw0AX9_YQSqGMht [GKwRIaIOCSw0AX9_YQSqGMht].md",
+          "key": "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht",
+          "show": "三五环",
+          "title": "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚",
+          "url": "/wiki/sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/bafangelectric/"
     },
     "BaihuGuanConference": {
       "episode_count": 1,
@@ -11811,6 +11850,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/chenzhonglatehan/"
+    },
+    "ChengHongningYuzhouEBike": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOCSw0AX9_YQSqGMht [GKwRIaIOCSw0AX9_YQSqGMht].md",
+          "key": "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht",
+          "show": "三五环",
+          "title": "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚",
+          "url": "/wiki/sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/chenghongningyuzhouebike/"
     },
     "ChengJiLateHan": {
       "episode_count": 1,
@@ -20451,6 +20506,29 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/dysphagiarehabilitationsafety/"
     },
+    "EBikeValueChainShift": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.199 自行车 200年 [973489465].md",
+          "key": "no-199-zixingche-200-nian-973489465",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.199 自行车 200年",
+          "url": "/wiki/sources/no-199-zixingche-200-nian-973489465/"
+        },
+        {
+          "episode_file": "GKwRIaIOCSw0AX9_YQSqGMht [GKwRIaIOCSw0AX9_YQSqGMht].md",
+          "key": "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht",
+          "show": "三五环",
+          "title": "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚",
+          "url": "/wiki/sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/ebikevaluechainshift/"
+    },
     "ECTBipolarDepressionBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -20872,6 +20950,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/electionadministrationtrust/"
+    },
+    "ElectricAssistBicyclePremiumPositioning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOCSw0AX9_YQSqGMht [GKwRIaIOCSw0AX9_YQSqGMht].md",
+          "key": "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht",
+          "show": "三五环",
+          "title": "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚",
+          "url": "/wiki/sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/electricassistbicyclepremiumpositioning/"
     },
     "ElectricTwoWheelerMarketDivergence": {
       "episode_count": 1,
@@ -37281,6 +37375,22 @@
       "updated": "2026-08-17",
       "url": "/wiki/concepts/investmentriskmanagement/"
     },
+    "InvestorToOperatorLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOCSw0AX9_YQSqGMht [GKwRIaIOCSw0AX9_YQSqGMht].md",
+          "key": "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht",
+          "show": "三五环",
+          "title": "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚",
+          "url": "/wiki/sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/investortooperatorlearning/"
+    },
     "InwardLookingSelfCultivation": {
       "episode_count": 1,
       "show_count": 1,
@@ -43010,9 +43120,9 @@
       "url": "/wiki/entities/liufanglatehan/"
     },
     "LiuFei": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -43069,6 +43179,13 @@
           "show": "三五环",
           "title": "No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？",
           "url": "/wiki/sources/no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna/"
+        },
+        {
+          "episode_file": "GKwRIaIOCSw0AX9_YQSqGMht [GKwRIaIOCSw0AX9_YQSqGMht].md",
+          "key": "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht",
+          "show": "三五环",
+          "title": "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚",
+          "url": "/wiki/sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht/"
         }
       ],
       "updated": "2026-09-08",
@@ -62949,9 +63066,9 @@
       "url": "/wiki/entities/samueljohnson/"
     },
     "SanWuHuan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -63008,6 +63125,13 @@
           "show": "三五环",
           "title": "No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？",
           "url": "/wiki/sources/no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna/"
+        },
+        {
+          "episode_file": "GKwRIaIOCSw0AX9_YQSqGMht [GKwRIaIOCSw0AX9_YQSqGMht].md",
+          "key": "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht",
+          "show": "三五环",
+          "title": "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚",
+          "url": "/wiki/sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht/"
         }
       ],
       "updated": "2026-09-08",
@@ -81404,6 +81528,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/yuzhangcommandery/"
+    },
+    "YuzhouEBike": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOCSw0AX9_YQSqGMht [GKwRIaIOCSw0AX9_YQSqGMht].md",
+          "key": "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht",
+          "show": "三五环",
+          "title": "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚",
+          "url": "/wiki/sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/yuzhouebike/"
     },
     "YvonChouinard": {
       "episode_count": 1,

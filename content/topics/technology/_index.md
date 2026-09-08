@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2811
+topic_total_pages: 2813
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -949,6 +949,9 @@ topic_concepts:
   - key: "AINativeInvestingWorkflow"
     title: "AI-Native Investing Workflow"
     url: "/wiki/concepts/ainativeinvestingworkflow/"
+  - key: "AINativeManufacturingTransformation"
+    title: "AI-Native Manufacturing Transformation / AI 原生制造业转型"
+    url: "/wiki/concepts/ainativemanufacturingtransformation/"
   - key: "AINativeNarrativeWorlds"
     title: "AI-Native Narrative Worlds"
     url: "/wiki/concepts/ainativenarrativeworlds/"
@@ -7974,6 +7977,9 @@ topic_sources:
   - key: "no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437"
     title: "No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27"
     url: "/wiki/sources/no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437/"
+  - key: "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht"
+    title: "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚"
+    url: "/wiki/sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht/"
   - key: "no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d"
     title: "No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？"
     url: "/wiki/sources/no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d/"

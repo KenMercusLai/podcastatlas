@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 9300
+wiki_total_pages: 9302
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "YingGao"
     title: "嬴高 / Ying Gao"
     url: "/wiki/entities/yinggao/"
+  - key: "YuzhouEBike"
+    title: "宇宙 E-Bike"
+    url: "/wiki/entities/yuzhouebike/"
   - key: "YiyangWarringStates"
     title: "宜阳 / Yiyang (Warring States)"
     url: "/wiki/entities/yiyangwarringstates/"
