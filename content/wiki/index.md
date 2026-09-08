@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者](sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn.md) — 史蒂夫说 interview with Jiang Tao on Anding Hospital psychiatry, adolescent school refusal, diagnostic-label caution, workforce shortage, crisis boundaries, and regular care.
 - [No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚](sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht.md) — 三五环 interview with Cheng/Chen Hongning on moving from investment work into 宇宙 E-Bike, premium electric-assist bicycle positioning, operating realism, and founder-led AI-native manufacturing.
 - [246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了](sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793.md) — 博物志 episode on Hangzhou Museum's “意味杭之” ancient-books exhibition, museum interpretation, guji materiality, woodblock-printing economics, Ming-Qing Hangzhou publishing, and Hangzhou heritage travel.
 - [347-到底为啥有些傻蛋只会以说教的方式沟通](sources/347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt.md) — 独树不成林 episode on preaching as power language, failed connection, weak reflexive self-awareness, authority imitation, and listening fear.
@@ -2051,8 +2052,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jogye Order](entities/JogyeOrder.md) — Korean Buddhist organization behind the Seoul expo used to study modern Buddhist outreach.
 - [Soobin Kim](entities/SoobinKim.md) — Reporter covering the Seoul Buddhist expo and young South Koreans' renewed interest in Buddhism.
 - [Venerable Seowon](entities/VenerableSeowon.md) — Korean Buddhist monk who presents modern religious adaptations as possible entry points into Buddhism.
-- [江涛 / Jiang Tao (Psychiatrist)](entities/JiangTaoPsychiatrist.md) — Beijing Anding Hospital psychiatrist explaining severe mental illness, diagnosis, family care, somatization, and destigmatization in the 面基 episode.
+- [姜涛 / Jiang Tao (Psychiatrist)](entities/JiangTaoPsychiatrist.md) — Beijing Anding Hospital psychiatrist explaining severe mental illness, diagnosis, family care, adolescent school refusal, workforce shortage, and destigmatization.
 - [北京市安定医院 / Beijing Anding Hospital](entities/BeijingAndingHospital.md) — Psychiatric-care institution named as Jiang Tao's affiliation and source context for the 面基 mental-health episode.
+- [《安定此心》](entities/AndingCiXinBook.md) — Jiang Tao's psychiatry book used by the 史蒂夫说 episode to frame steadiness, destigmatization, regular treatment, and professional boundaries.
 - [李峻嵘 / 李俊仁 / Li Junrong](entities/LiJunrongFootballHistorian.md) — Guest historian/commentator for the Hong Kong football professionalization and club-governance episode.
 - [香港足球总会 / Hong Kong Football Association](entities/HongKongFootballAssociation.md) — Governing-body node for Hong Kong's 1968 professionalization turn, foreign-player rules, and membership mechanisms.
 - [精工足球队 / Seiko Football Club](entities/SeikoFootballClub.md) — Hong Kong football dynasty disambiguated from the watchmaker, used to explain capital-backed import-player escalation.
@@ -11382,6 +11384,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mental Illness Destigmatization / 精神疾病去污名化](concepts/MentalIllnessDestigmatization.md) — Anti-shame frame for treating psychiatric disorders as illnesses while preserving risk, treatment, privacy, and diagnostic boundaries.
 - [Somatization As Body Alarm / 躯体化作为身体报警](concepts/SomatizationAsBodyAlarm.md) — Body-emotion frame for distress appearing as physical symptoms while still requiring medical exclusion and clinical judgment.
 - [Desire-Capacity Fit / 欲望与能力匹配](concepts/DesireCapacityFit.md) — Life-regulation principle that steadiness can require recalibrating desires to actual ability, temperament, family conditions, role, and pressure.
+- [Adolescent School-Refusal Mental Health / 青少年厌学休学心理困境](concepts/AdolescentSchoolRefusalMentalHealth.md) — Youth mental-health frame for school refusal as a family, education, symptom, development, and care-system problem.
+- [China Psychiatric Workforce Gap / 中国精神卫生人才缺口](concepts/ChinaPsychiatricWorkforceGap.md) — Workforce-capacity gap between large mental-health demand and limited psychiatrists, therapists, and community support.
+- [Psychiatry-Psychotherapy Collaboration / 精神科与心理治疗协作](concepts/PsychiatryPsychotherapyCollaboration.md) — Care-role boundary and referral relationship among psychiatry, psychotherapy, counseling, family treatment, and ordinary support.
+- [Mental-Health Help-Seeking Scam Risk / 心理求助被骗风险](concepts/MentalHealthHelpSeekingScamRisk.md) — Consumer-protection risk when distressed patients and families pay unqualified or exploitative mental-health helpers instead of regular care.
+- [Psychiatric Professional Boundary / 精神科医生专业边界](concepts/PsychiatricProfessionalBoundary.md) — Clinician-role limit separating real psychiatric help from the expectation that doctors can solve every family, school, social, or crisis condition.
 - [香港足球职业化 / Hong Kong Football Professionalization](concepts/HongKongFootballProfessionalization.md) — 1968 Hong Kong football shift from nominal amateurism to permitted professionalism after Olympic eligibility conflict exposed paid-player reality.
 - [香港足球外援升级 / Hong Kong Football Foreign-Player Escalation](concepts/HongKongFootballForeignPlayerEscalation.md) — Hong Kong professional-football import-player market from regional sources to Seiko/Bulova higher-profile recruitment and later foreign-player limits.
 - [香港商业球队治理 / Hong Kong Commercial Football Club Governance](concepts/HongKongFootballCommercialClubGovernance.md) — Governance frame for commercial teams, association membership borrowing, traditional sports clubs, owner control, and long-term planning.

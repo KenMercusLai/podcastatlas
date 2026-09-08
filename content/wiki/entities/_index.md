@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9302
+wiki_total_pages: 9303
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1424,6 +1424,9 @@ wiki_pages:
   - key: "Andor"
     title: "《安多》 / Andor"
     url: "/wiki/entities/andor/"
+  - key: "AndingCiXinBook"
+    title: "《安定此心》"
+    url: "/wiki/entities/andingcixinbook/"
   - key: "AnganKozo"
     title: "《暗眼小僧》 / Angan Kozo"
     url: "/wiki/entities/angankozo/"

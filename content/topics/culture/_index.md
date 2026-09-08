@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2552
+topic_total_pages: 2554
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -49,6 +49,9 @@ topic_concepts:
   - key: "AdolescentAlienationRecognition"
     title: "Adolescent Alienation Recognition"
     url: "/wiki/concepts/adolescentalienationrecognition/"
+  - key: "AdolescentSchoolRefusalMentalHealth"
+    title: "Adolescent School-Refusal Mental Health / 青少年厌学休学心理困境"
+    url: "/wiki/concepts/adolescentschoolrefusalmentalhealth/"
   - key: "AdultFairyTaleReading"
     title: "Adult Fairy-Tale Reading"
     url: "/wiki/concepts/adultfairytalereading/"
@@ -5306,6 +5309,9 @@ topic_entities:
   - key: "AnlesiXianchang"
     title: "《安乐死现场》"
     url: "/wiki/entities/anlesixianchang/"
+  - key: "AndingCiXinBook"
+    title: "《安定此心》"
+    url: "/wiki/entities/andingcixinbook/"
   - key: "PerfectDays"
     title: "《完美的日子》 / Perfect Days"
     url: "/wiki/entities/perfectdays/"

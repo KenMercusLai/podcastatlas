@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6696
+wiki_total_pages: 6701
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -551,6 +551,9 @@ wiki_pages:
   - key: "ChinaPolicyEasingPivot"
     title: "China Policy Easing Pivot"
     url: "/wiki/concepts/chinapolicyeasingpivot/"
+  - key: "ChinaPsychiatricWorkforceGap"
+    title: "China Psychiatric Workforce Gap / 中国精神卫生人才缺口"
+    url: "/wiki/concepts/chinapsychiatricworkforcegap/"
   - key: "ChinaRealEstateDebtCycle"
     title: "China Real Estate Debt Cycle"
     url: "/wiki/concepts/chinarealestatedebtcycle/"

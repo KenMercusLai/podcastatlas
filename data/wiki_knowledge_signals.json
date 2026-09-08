@@ -188,9 +188,9 @@
       "url": "/wiki/entities/acrcloud/"
     },
     "ADHDSelfDiagnosisBoundary": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
@@ -198,9 +198,16 @@
           "show": "这病说来话长",
           "title": "VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书",
           "url": "/wiki/sources/vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur/"
+        },
+        {
+          "episode_file": "lpDsK96aKpwtCcxyeSjdGTW8SKBN [lpDsK96aKpwtCcxyeSjdGTW8SKBN].md",
+          "key": "shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
+          "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/adhdselfdiagnosisboundary/"
     },
     "AFCChampionsLeague": {
@@ -3117,6 +3124,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/adidassamba/"
     },
+    "AdolescentSchoolRefusalMentalHealth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpDsK96aKpwtCcxyeSjdGTW8SKBN [lpDsK96aKpwtCcxyeSjdGTW8SKBN].md",
+          "key": "shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
+          "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/adolescentschoolrefusalmentalhealth/"
+    },
     "AdultProductsRelationshipSupport": {
       "episode_count": 1,
       "show_count": 1,
@@ -4639,6 +4662,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/andermedicalaesthetics/"
+    },
+    "AndingCiXinBook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpDsK96aKpwtCcxyeSjdGTW8SKBN [lpDsK96aKpwtCcxyeSjdGTW8SKBN].md",
+          "key": "shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
+          "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/andingcixinbook/"
     },
     "AndingCommandery": {
       "episode_count": 2,
@@ -7796,9 +7835,9 @@
       "url": "/wiki/entities/beijing/"
     },
     "BeijingAndingHospital": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
@@ -7806,9 +7845,16 @@
           "show": "面基",
           "title": "时代症候，与安定此心",
           "url": "/wiki/sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql/"
+        },
+        {
+          "episode_file": "lpDsK96aKpwtCcxyeSjdGTW8SKBN [lpDsK96aKpwtCcxyeSjdGTW8SKBN].md",
+          "key": "shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
+          "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-08",
       "url": "/wiki/entities/beijingandinghospital/"
     },
     "BenGoodwin": {
@@ -12420,6 +12466,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/chinalongtermcareinsurance/"
+    },
+    "ChinaPsychiatricWorkforceGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpDsK96aKpwtCcxyeSjdGTW8SKBN [lpDsK96aKpwtCcxyeSjdGTW8SKBN].md",
+          "key": "shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
+          "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/chinapsychiatricworkforcegap/"
     },
     "ChinaRealEstateDebtCycle": {
       "episode_count": 5,
@@ -38328,9 +38390,9 @@
       "url": "/wiki/entities/jiangqilatehan/"
     },
     "JiangTaoPsychiatrist": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
@@ -38338,9 +38400,16 @@
           "show": "面基",
           "title": "时代症候，与安定此心",
           "url": "/wiki/sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql/"
+        },
+        {
+          "episode_file": "lpDsK96aKpwtCcxyeSjdGTW8SKBN [lpDsK96aKpwtCcxyeSjdGTW8SKBN].md",
+          "key": "shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
+          "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-08",
       "url": "/wiki/entities/jiangtaopsychiatrist/"
     },
     "JiangYuliangDoctor": {
@@ -48684,10 +48753,26 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/menopauseinformationtriage/"
     },
-    "MentalIllnessDestigmatization": {
+    "MentalHealthHelpSeekingScamRisk": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpDsK96aKpwtCcxyeSjdGTW8SKBN [lpDsK96aKpwtCcxyeSjdGTW8SKBN].md",
+          "key": "shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
+          "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/mentalhealthhelpseekingscamrisk/"
+    },
+    "MentalIllnessDestigmatization": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
@@ -48695,9 +48780,16 @@
           "show": "面基",
           "title": "时代症候，与安定此心",
           "url": "/wiki/sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql/"
+        },
+        {
+          "episode_file": "lpDsK96aKpwtCcxyeSjdGTW8SKBN [lpDsK96aKpwtCcxyeSjdGTW8SKBN].md",
+          "key": "shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
+          "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/mentalillnessdestigmatization/"
     },
     "MentalizingProjection": {
@@ -58372,9 +58464,9 @@
       "url": "/wiki/concepts/psychedelicordinaryfreedom/"
     },
     "PsychiatricFunctionalDiagnosis": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
@@ -58382,9 +58474,16 @@
           "show": "面基",
           "title": "时代症候，与安定此心",
           "url": "/wiki/sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql/"
+        },
+        {
+          "episode_file": "lpDsK96aKpwtCcxyeSjdGTW8SKBN [lpDsK96aKpwtCcxyeSjdGTW8SKBN].md",
+          "key": "shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
+          "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/psychiatricfunctionaldiagnosis/"
     },
     "PsychiatricMedicationSupervisionBoundary": {
@@ -58416,6 +58515,38 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/psychiatricmedicationsupervisionboundary/"
+    },
+    "PsychiatricProfessionalBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpDsK96aKpwtCcxyeSjdGTW8SKBN [lpDsK96aKpwtCcxyeSjdGTW8SKBN].md",
+          "key": "shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
+          "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/psychiatricprofessionalboundary/"
+    },
+    "PsychiatryPsychotherapyCollaboration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpDsK96aKpwtCcxyeSjdGTW8SKBN [lpDsK96aKpwtCcxyeSjdGTW8SKBN].md",
+          "key": "shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
+          "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/psychiatrypsychotherapycollaboration/"
     },
     "PsychologicalAbuseRecognition": {
       "episode_count": 3,
@@ -64115,9 +64246,9 @@
       "url": "/wiki/concepts/separatedcampmutualsupportrisk/"
     },
     "SeriousMentalIllnessFamilyCareBoundary": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
@@ -64125,9 +64256,16 @@
           "show": "面基",
           "title": "时代症候，与安定此心",
           "url": "/wiki/sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql/"
+        },
+        {
+          "episode_file": "lpDsK96aKpwtCcxyeSjdGTW8SKBN [lpDsK96aKpwtCcxyeSjdGTW8SKBN].md",
+          "key": "shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
+          "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/seriousmentalillnessfamilycareboundary/"
     },
     "SerotoninSocialWellbeingTools": {

@@ -15960,6 +15960,10 @@ Ingested the 2026-06-21 博物志 episode on Hangzhou Museum's “意味杭之�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-08] ingest | 史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者
+
+Ingested the 2026-06-17 史蒂夫说 interview with Beijing Anding Hospital psychiatrist Jiang Tao on 《安定此心》, psychiatric work routines, schizophrenia recovery limits, mental-illness destigmatization, adolescent school refusal, family treatment, psychiatry-psychotherapy collaboration, workforce shortage, crisis boundaries, ADHD/NPD label caution, and informal healing-service scam risk. Added source `shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn`; created `AndingCiXinBook`, `AdolescentSchoolRefusalMentalHealth`, `ChinaPsychiatricWorkforceGap`, `PsychiatryPsychotherapyCollaboration`, `MentalHealthHelpSeekingScamRisk`, and `PsychiatricProfessionalBoundary`; updated `JiangTaoPsychiatrist`, `BeijingAndingHospital`, `PsychiatricFunctionalDiagnosis`, `MentalIllnessDestigmatization`, `SeriousMentalIllnessFamilyCareBoundary`, `ADHDSelfDiagnosisBoundary`, `index`, and `overview`. No settled contradiction found; the source corrects the psychiatrist's displayed surname from `江涛` to `姜涛` while preserving the stable page route, and all clinical content remains public psychoeducation rather than individualized diagnosis, medication, hospitalization, therapy, or crisis guidance.
+
 ## [2026-09-08] ingest | 347-到底为啥有些傻蛋只会以说教的方式沟通
 
 Ingested the 2026-06-23 独树不成林 episode on why some people communicate through preaching or unsolicited instruction. Added source `347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt`; created `PowerDidacticCommunication`, `PreachingAsFailedConnection`, and `ReflexiveSelfAwareness`; updated `DushuBuchenglin`, `StructuralPowerImbalance`, and `index`. No settled contradiction found; the episode qualifies structural-power explanations by separating hierarchy-backed preaching from clumsy, fearful, or relationship-seeking communication.
@@ -16067,6 +16071,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] ingest | 怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房
 
 Ingested the 2026-09-07 声动早咖啡 business-news episode on C'estbon pure-water share pressure, Maya Active's fitness-space strategy, Aura/Oura smart-ring subscriptions, DeepZ's reported Huawei-chip procurement, Foxconn AI servers, Volkswagen restructuring, Maserati-Huawei-JAC cooperation talks, credit-card contraction, and Aesop China retail reallocation. Added source `yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578`; created `Cestbon`, `MayaActive`, `PureFitness`, `AesopBeauty`, `HuaweiAscend950DT`, `Huabei`, `JDWhiteBar`, `BottledWaterChannelFragmentation`, `SportswearExperienceSpace`, `SmartRingHardwareSubscription`, `CreditCardScaleContraction`, and `BeautyRetailNetworkReallocation`; updated `PackagedWaterPriceWar`, `DeepZ`, `FoxconnIndustrialInternet`, `VolkswagenGroup`, `Stellantis`, `Maserati`, `AntaSports`, `OuraRing`, `index`, and `overview`. No settled contradiction found; the Aura/Oura spelling, chip order, IPO filing, share data, job-cut totals, and cooperation talks remain source-scoped.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-08] lint | Wiki health check
 
