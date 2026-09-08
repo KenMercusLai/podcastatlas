@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9279
+wiki_total_pages: 9286
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
     url: "/wiki/entities/caesarassassination/"
+  - key: "Cestbon"
+    title: "C'estbon / 怡宝"
+    url: "/wiki/entities/cestbon/"
   - key: "CNorthcoteParkinson"
     title: "C. Northcote Parkinson"
     url: "/wiki/entities/cnorthcoteparkinson/"

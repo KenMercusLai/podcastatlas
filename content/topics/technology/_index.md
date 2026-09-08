@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2809
+topic_total_pages: 2811
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5057,6 +5057,9 @@ topic_entities:
   - key: "Huawei"
     title: "Huawei"
     url: "/wiki/entities/huawei/"
+  - key: "HuaweiAscend950DT"
+    title: "Huawei Ascend 950DT / 华为昇腾 950DT"
+    url: "/wiki/entities/huaweiascend950dt/"
   - key: "HuaweiCM384"
     title: "Huawei CM384"
     url: "/wiki/entities/huaweicm384/"
@@ -8349,6 +8352,9 @@ topic_sources:
   - key: "kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13"
     title: "快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频"
     url: "/wiki/sources/kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13/"
+  - key: "yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578"
+    title: "怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房"
+    url: "/wiki/sources/yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578/"
   - key: "zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht"
     title: "总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的"
     url: "/wiki/sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht/"

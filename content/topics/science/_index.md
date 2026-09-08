@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 946
+topic_total_pages: 947
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1420,6 +1420,9 @@ topic_concepts:
   - key: "SlowWaveSleepRestoration"
     title: "Slow-Wave Sleep Restoration"
     url: "/wiki/concepts/slowwavesleeprestoration/"
+  - key: "SmartRingHardwareSubscription"
+    title: "Smart Ring Hardware Subscription / 智能戒指硬件订阅"
+    url: "/wiki/concepts/smartringhardwaresubscription/"
   - key: "SocialComparisonPressure"
     title: "Social Comparison Pressure / 社会比较压力"
     url: "/wiki/concepts/socialcomparisonpressure/"

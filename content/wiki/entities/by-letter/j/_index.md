@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 9279
+wiki_total_pages: 9286
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "JDVance"
     title: "JD Vance"
     url: "/wiki/entities/jdvance/"
+  - key: "JDWhiteBar"
+    title: "JD White Bar / 白条"
+    url: "/wiki/entities/jdwhitebar/"
   - key: "JDCom"
     title: "JD.com / 京东"
     url: "/wiki/entities/jdcom/"

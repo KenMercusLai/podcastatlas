@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9279
+wiki_total_pages: 9286
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -557,6 +557,9 @@ wiki_pages:
   - key: "MayDepartmentStores"
     title: "May Department Stores"
     url: "/wiki/entities/maydepartmentstores/"
+  - key: "MayaActive"
+    title: "Maya Active"
+    url: "/wiki/entities/mayaactive/"
   - key: "MayaraFelix"
     title: "Mayara Felix"
     url: "/wiki/entities/mayarafelix/"

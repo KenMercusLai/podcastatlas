@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6680
+wiki_total_pages: 6685
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "BeautyProblemNaming"
     title: "Beauty Problem Naming / 审美问题命名"
     url: "/wiki/concepts/beautyproblemnaming/"
+  - key: "BeautyRetailNetworkReallocation"
+    title: "Beauty Retail Network Reallocation / 美妆零售网络再分配"
+    url: "/wiki/concepts/beautyretailnetworkreallocation/"
   - key: "BedBasedSleepSensing"
     title: "Bed-Based Sleep Sensing / 床面睡眠传感"
     url: "/wiki/concepts/bedbasedsleepsensing/"
@@ -473,6 +476,9 @@ wiki_pages:
   - key: "BottledBeverageDemandPressure"
     title: "Bottled Beverage Demand Pressure"
     url: "/wiki/concepts/bottledbeveragedemandpressure/"
+  - key: "BottledWaterChannelFragmentation"
+    title: "Bottled Water Channel Fragmentation / 包装水渠道分流"
+    url: "/wiki/concepts/bottledwaterchannelfragmentation/"
   - key: "BottledWaterPortfolioSpinout"
     title: "Bottled Water Portfolio Spinout"
     url: "/wiki/concepts/bottledwaterportfoliospinout/"

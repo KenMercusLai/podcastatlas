@@ -17081,6 +17081,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CreditCardScaleContraction": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "Creo": [
     {
       "key": "technology",
@@ -31027,6 +31034,13 @@
     }
   ],
   "Huawei": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "HuaweiAscend950DT": [
     {
       "key": "technology",
       "label": "Technology",
@@ -57368,6 +57382,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "SmartRingHardwareSubscription": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "SmartphoneAIHub": [
     {
       "key": "technology",
@@ -77738,6 +77759,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f": [

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房](sources/yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578.md) — 声动早咖啡 roundup on C'estbon pure-water share pressure, Maya Active's fitness-space strategy, smart-ring subscriptions, DeepZ/Huawei compute plans, Foxconn AI servers, automaker restructuring, credit-card contraction, and Aesop retail reallocation.
 - [Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主](sources/vol-351-yingwang-21shiji-de-huangdao-gushi-haineng-zenme-kai-naodong-1983-nuojiang-dezhu-gkwriueodap1a3taaattkgol.md) — 文化有限 episode on William Golding's Lord of the Flies, civilization fragility, island-adventure inversion, fear-driven group violence, fire and technology, and allegorical adaptation tradeoffs.
 - [vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远](sources/vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw.md) — 天真不天真 conversation with Yang Tianzhen and Xieyin Melody on podcasting, long-form value, media transition, short-video traffic logic, AI-era human connection, and creator identity change.
 - [罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！](sources/luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f.md) — 罗永浩的十字路口 live panel with 四孝喜剧 on trend-following, friend lending, campus-loan chains, Smartisan debt repayment, collection pressure, and money's effect on relationships.
@@ -2009,6 +2010,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [C'estbon / 怡宝](entities/Cestbon.md) — Pure-water incumbent pressured by low-price rivals and fragmented retail channels.
+- [Maya Active](entities/MayaActive.md) — Anta-owned yoga-apparel brand testing a Shanghai fitness-space strategy with Pure.
+- [Pure Fitness / Pure](entities/PureFitness.md) — High-end fitness partner for Maya Active's Shanghai experience-space branch.
+- [Aesop / 伊索](entities/AesopBeauty.md) — Beauty brand used as a China retail-network reallocation case under continued expansion.
+- [Huawei Ascend 950DT / 华为昇腾 950DT](entities/HuaweiAscend950DT.md) — AI chip named in DeepZ's reported Inner Mongolia inference data-center procurement plan.
+- [Huabei / 花呗](entities/Huabei.md) — Internet credit-payment comparator helping explain pressure on bank credit-card growth.
+- [JD White Bar / 白条](entities/JDWhiteBar.md) — Platform credit-payment comparator in the credit-card contraction branch.
 - [杨天真 / 天真](entities/YangTianzhen.md) — Host and media operator in the Melody conversation, grounding podcast priority, short-video contrast, podcast-company planning, and backstage-to-front-stage creator transition.
 - [携隐 Melody](entities/XieyinMelody.md) — Long-form podcast creator discussing 纵横四海 production labor, professional media standards, media-worker podcast transition, title psychology, and multi-account fatigue.
 - [四孝喜剧 / Sixiao Comedy](entities/SixiaoComedy.md) — Live-comedy collaborator for the Luo Yonghao money-and-debt panel, represented through audience interaction, advertising jokes, and personal borrowing stories.
@@ -2054,7 +2062,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zhu Jiangming / 朱江明](entities/ZhuJiangming.md) — Leapmotor founder and engineering entrepreneur whose Dahua experience informs Leapmotor's self-research and cost-discipline strategy.
 - [Leapmotor / 零跑汽车](entities/Leapmotor.md) — Chinese EV maker built around full-stack self-research, value-for-money pricing, product-line recovery, and Stellantis-linked globalization.
 - [Dahua Technology / 大华](entities/DahuaTechnology.md) — Security-video hardware company used as Zhu Jiangming's predecessor venture and capability base before Leapmotor.
-- [Stellantis](entities/Stellantis.md) — Automotive group investing in Leapmotor and providing overseas-market channels through Leapmotor International.
+- [Stellantis](entities/Stellantis.md) — Automotive group using Chinese partnerships both for Leapmotor's overseas route and reportedly for Maserati-Huawei-JAC cooperation.
 - [Leapmotor International / 零跑国际](entities/LeapmotorInternational.md) — Stellantis-Leapmotor joint venture responsible for Leapmotor business outside Greater China.
 - [Leapmotor S01 / 零跑 S01](entities/LeapmotorS01.md) — First Leapmotor vehicle and formative two-door-coupe product-definition failure.
 - [Leapmotor T03 / 零跑 T03](entities/LeapmotorT03.md) — Small EV that helped Leapmotor recover sales momentum after S01.
@@ -3106,7 +3114,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nongfu Spring / 农夫山泉](entities/NongfuSpring.md) — Chinese beverage company whose tea-drink growth is offsetting packaged-water pressure.
 - [Oriental Leaf / 东方树叶](entities/OrientalLeaf.md) — Nongfu Spring unsweetened-tea product line anchoring the tea-growth branch.
 - [Perplexity Computer](entities/PerplexityComputer.md) — Perplexity agent product named as a driver of reported revenue acceleration.
-- [Volkswagen Group / 大众汽车](entities/VolkswagenGroup.md) — Automaker restructuring case shaped by China competition, U.S. tariffs, overcapacity, labor, and governance.
+- [Volkswagen Group / 大众汽车](entities/VolkswagenGroup.md) — Automaker restructuring case shaped by China competition, U.S. tariffs, European overcapacity, job cuts, labor, and governance.
 - [Yadea / 雅迪](entities/Yadea.md) — Traditional Chinese electric two-wheeler maker exposed to demand, standards, and material-cost pressure.
 - [Bloody Sunday](entities/BloodySunday.md) — 30 January 1972 Derry massacre treated as a moral atrocity and counterinsurgency legitimacy disaster.
 - [Bloody Friday](entities/BloodyFriday.md) — 21 July 1972 Provisional IRA bombing attack in Belfast that damaged republican support.
@@ -5778,7 +5786,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [山下有松 / Shanxia Yousong](entities/ShanxiaYousong.md) — Chinese designer bag brand now used to explain both inbound Chinese consumer-brand soft power and domestic light-luxury bag premiumization through craft narrative, higher prices, and offline stores.
 - [求珍 / Qiuzhen](entities/Qiuzhen.md) — Chinese mid- to high-end bag brand whose mailbag narrative links commuter function to independent intellectual-woman identity.
 - [各乐 / Gele](entities/Gele.md) — Chinese mid- to high-end bag brand positioned around "生而自由" and low-logo lifestyle expression.
-- [DeepZ](entities/DeepZ.md) — AI model/API provider used by the episode's short news segment to illustrate multimodal image-token billing and off-peak pricing incentives.
+- [DeepZ](entities/DeepZ.md) — AI model/API provider now linked to both multimodal API pricing and reported Huawei-chip inference infrastructure.
 - [PANE](entities/PANE.md) — Chinese fashion-footwear brand used as an export-attention-before-domestic-fame case built around international retro aesthetics rather than explicit Chinese style.
 - [Meng Fanqing / 孟繁青](entities/MengFanqing.md) — Evolvent AI co-founder and NUS PhD student connecting post-training, synthetic data, environment benchmarks, distillation, and RSI data.
 - [Evolvent AI](entities/EvolventAI.md) — RSI-focused startup positioned between model labs and application companies through synthetic data, benchmarks, and model-improvement traces.
@@ -6605,7 +6613,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [陈博士 / 投资ABC](entities/ChenDoctorInvestmentABC.md) — 投资ABC speaker explaining short-term market-counterparty logic, institutional data teams, and cost/behavior effects in episode 166.
 - [Haier Smart Home / 海尔智家](entities/HaierSmartHome.md) — Listed appliance company used by episode 165 to frame tariff, supply-chain reconfiguration, regional protection, and geopolitical pressure.
 - [Shenzhou International / 申洲国际](entities/ShenzhouInternational.md) — Ningbo textile and apparel manufacturer whose wiki profile now covers flexible manufacturing, exporter pressure, and vertically integrated OEM capability.
-- [Foxconn Industrial Internet / 工业富联](entities/FoxconnIndustrialInternet.md) — AI server manufacturer used by episode 165 as the clearest hard-AI infrastructure company case.
+- [Foxconn Industrial Internet / 工业富联](entities/FoxconnIndustrialInternet.md) — AI server, rack, and modular data-center manufacturer anchoring the hard-AI infrastructure branch.
 - [Red Star Macalline / 美凯龙](entities/RedStarMacalline.md) — Home-furnishing mall and commercial-property company used by episode 165 to show property-chain loss amplification.
 - [黄圣淳 / Shengchun Huang](entities/HuangShengchun.md) — Media and journalism scholar whose 起朱楼 episode complicates filter-bubble panic while adding YouTube entertainment redirect, platform affordance, and algorithmic media literacy.
 - [Pierre Bourdieu / 皮埃尔·布迪厄](entities/PierreBourdieu.md) — Sociologist whose economic, cultural, social, and symbolic capital framework anchors episode 162's wealth-as-convertible-capital branch.
@@ -6736,7 +6744,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mindray Medical / 迈瑞医疗](entities/MindrayMedical.md) — Chinese medical-device and digital-health company linking procurement pressure to integrated device, IT, and AI platform evolution.
 - [Hang Lung Properties / 恒隆地产](entities/HangLungProperties.md) — Property and retail company whose annual-report tone is used as evidence for weak but possibly bottoming China sentiment.
 - [China Merchants Bank / 招商银行](entities/ChinaMerchantsBank.md) — Bank used for consumer-credit and mortgage stress signals, now also tied to episode 136's bank wealth-management subsidiary and product-suitability context.
-- [Anta Sports / 安踏](entities/AntaSports.md) — Chinese sportswear group used as a consumer-brand operating-system and multi-brand evolution case.
+- [Anta Sports / 安踏](entities/AntaSports.md) — Chinese sportswear group represented through footwear-brand maturation, multi-brand operation, and Maya Active's fitness-space strategy.
 - [SF Holding / 顺丰控股](entities/SFHolding.md) — Logistics company used as infrastructure for Chinese consumer-chain globalization.
 - [Roborock / 石头科技](entities/Roborock.md) — Smart-cleaning and appliance company used as a technology-platform reuse case.
 - [GreatStar Industrial / 巨星科技](entities/GreatStarIndustrial.md) — Toolmaker used to define global resource allocation under tariff pressure.
@@ -7210,7 +7218,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jean Todt](entities/JeanTodt.md) — Ferrari Formula One operator in the 2000-2004 Schumacher-era dynasty.
 - [Ross Brawn](entities/RossBrawn.md) — Ferrari technical/operator figure in the 2000-2004 Formula One dynasty.
 - [Michael Schumacher](entities/MichaelSchumacher.md) — Ferrari driver whose 2000-2004 championships refreshed Ferrari's racing heritage.
-- [Maserati](entities/Maserati.md) — Related Fiat/Ferrari-managed automotive brand used as a demand valve without diluting Ferrari.
+- [Maserati](entities/Maserati.md) — Ferrari-adjacent luxury brand now also a pressured premium automaker reportedly exploring Huawei/JAC cooperation.
 - [LoveFrom](entities/LoveFrom.md) — Design firm named in the Ferrari source as part of the Ferrari Luce EV project.
 - [Marc Newson](entities/MarcNewson.md) — Designer linked through LoveFrom to Ferrari's EV distinctiveness challenge.
 - [Maranello](entities/Maranello.md) — Ferrari manufacturing home and place-based part of its make-to-order luxury identity.
@@ -7494,7 +7502,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Atlantic](entities/TheAtlantic.md) — Publication context for Marketplace Tech discussions of AI wearables, patrimonial governance, and AI-writing style tells.
 - [Apple AirPods](entities/AppleAirPods.md) — Familiar Apple wearable used by the source as a live-translation and AI-audio example.
 - [Apple Watch](entities/AppleWatch.md) — Familiar Apple wearable used by the source as an already accepted body-worn AI surface.
-- [Oura Ring](entities/OuraRing.md) — Familiar wearable ring used by the source to show older wearable categories gaining AI-enabled features.
+- [Oura Ring](entities/OuraRing.md) — Smart-ring wearable used for health tracking, form-factor pressure, AI-enabled analysis, and hardware-plus-subscription economics.
 - [Anna Holligan](entities/AnnaHolligan.md) — BBC reporter whose field segment grounds the Marketplace Tech episode on mycelium insulation and biodegradable foam packaging.
 - [University of Alaska](entities/UniversityOfAlaska.md) — Research setting for mushroom-mycelium boards made from wood fiber, cardboard, or pulp as polystyrene alternatives.
 - [Filip Amtislavski](entities/FilipAmtislavski.md) — University of Alaska professor linking Fomes fomentarius and Arctic mushroom use to mycelium insulation research.
@@ -11292,6 +11300,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Bottled Water Channel Fragmentation / 包装水渠道分流](concepts/BottledWaterChannelFragmentation.md) — Pressure on packaged-water incumbents when instant retail and discount formats split traditional offline demand.
+- [Sportswear Experience Space / 运动服饰体验空间](concepts/SportswearExperienceSpace.md) — Apparel-brand strategy using fitness venues, classes, and community to deepen product identity.
+- [Smart Ring Hardware Subscription / 智能戒指硬件订阅](concepts/SmartRingHardwareSubscription.md) — Wearable model pairing smart-ring sensors with recurring health-analysis subscriptions.
+- [Credit Card Scale Contraction / 信用卡规模收缩](concepts/CreditCardScaleContraction.md) — Shift from credit-card issuance growth toward shrinking portfolios, risk control, and selected high-frequency use cases.
+- [Beauty Retail Network Reallocation / 美妆零售网络再分配](concepts/BeautyRetailNetworkReallocation.md) — Channel pattern where beauty brands close symbolic stores while expanding city and online coverage.
 - [Civilization Fragility Allegory / 文明脆弱性寓言](concepts/CivilizationFragilityAllegory.md) — Lord of the Flies reading where improvised rules, rescue fire, fear, and wartime framing show civilization as fragile practice rather than automatic inheritance.
 - [Island Adventure Inversion / 荒岛冒险反写](concepts/IslandAdventureInversion.md) — Literary pattern where Lord of the Flies keeps the island adventure setup but reverses The Coral Island's cooperative civilizing optimism.
 - [Fear-Driven Group Violence / 恐惧驱动的群体暴力](concepts/FearDrivenGroupViolence.md) — Pattern where ambiguous threat, ritual, masks, chant, weather, and collective excitement turn a group toward violence.
@@ -12135,7 +12148,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Automotive Overcapacity Restructuring](concepts/AutomotiveOvercapacityRestructuring.md) — Automaker restructuring problem where excess capacity, tariffs, competition, labor, and governance collide.
 - [Electric Two-Wheeler Market Divergence](concepts/ElectricTwoWheelerMarketDivergence.md) — Split between declining legacy makers and growing smart-feature challengers in Chinese electric two-wheelers.
 - [Gold Jewelry Value Perception Risk](concepts/GoldJewelryValuePerceptionRisk.md) — Risk that jewelry premiums and franchise economics weaken when gold-price timing, retail prices, and perceived value diverge.
-- [Packaged Water Price War](concepts/PackagedWaterPriceWar.md) — Bottled-water pricing pressure that can slow growth in a mature, low-differentiation beverage category.
+- [Packaged Water Price War](concepts/PackagedWaterPriceWar.md) — Packaged-water growth, margin, share, and channel pressure under low-price competition.
 - [Restaurant Delivery Extension](concepts/RestaurantDeliveryExtension.md) — Restaurant strategy of building delivery-friendly products and sites for new meal occasions.
 - [Toy Design Human Creativity Boundary](concepts/ToyDesignHumanCreativityBoundary.md) — Product-design line where AI supports standardized work while human designers retain creative judgment.
 - [Northern Ireland Direct Rule](concepts/NorthernIrelandDirectRule.md) — Crisis-governance shift where Westminster suspends Stormont and takes direct responsibility after local authority collapses.

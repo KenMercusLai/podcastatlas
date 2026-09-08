@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6680
+wiki_total_pages: 6685
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1727,6 +1727,9 @@ wiki_pages:
   - key: "CreditCardDebtMechanics"
     title: "Credit Card Debt Mechanics"
     url: "/wiki/concepts/creditcarddebtmechanics/"
+  - key: "CreditCardScaleContraction"
+    title: "Credit Card Scale Contraction / 信用卡规模收缩"
+    url: "/wiki/concepts/creditcardscalecontraction/"
   - key: "CrimeStatisticsComparability"
     title: "Crime Statistics Comparability"
     url: "/wiki/concepts/crimestatisticscomparability/"

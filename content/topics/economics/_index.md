@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1952
+topic_total_pages: 1953
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -691,6 +691,9 @@ topic_concepts:
   - key: "CreditCardDebtMechanics"
     title: "Credit Card Debt Mechanics"
     url: "/wiki/concepts/creditcarddebtmechanics/"
+  - key: "CreditCardScaleContraction"
+    title: "Credit Card Scale Contraction / 信用卡规模收缩"
+    url: "/wiki/concepts/creditcardscalecontraction/"
   - key: "CrisisForcedVerticalIntegration"
     title: "Crisis-Forced Vertical Integration"
     url: "/wiki/concepts/crisisforcedverticalintegration/"

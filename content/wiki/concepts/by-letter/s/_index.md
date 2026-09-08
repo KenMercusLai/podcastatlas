@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6680
+wiki_total_pages: 6685
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -830,6 +830,9 @@ wiki_pages:
   - key: "SmartOralCare"
     title: "Smart Oral Care"
     url: "/wiki/concepts/smartoralcare/"
+  - key: "SmartRingHardwareSubscription"
+    title: "Smart Ring Hardware Subscription / 智能戒指硬件订阅"
+    url: "/wiki/concepts/smartringhardwaresubscription/"
   - key: "SmartVehicleLivingSpace"
     title: "Smart Vehicle Living Space / 智能汽车生活空间"
     url: "/wiki/concepts/smartvehiclelivingspace/"
@@ -1187,6 +1190,9 @@ wiki_pages:
   - key: "SportsbookIntegrityMonitoring"
     title: "Sportsbook Integrity Monitoring"
     url: "/wiki/concepts/sportsbookintegritymonitoring/"
+  - key: "SportswearExperienceSpace"
+    title: "Sportswear Experience Space / 运动服饰体验空间"
+    url: "/wiki/concepts/sportswearexperiencespace/"
   - key: "SportswearInventoryCycle"
     title: "Sportswear Inventory Cycle"
     url: "/wiki/concepts/sportswearinventorycycle/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9279
+wiki_total_pages: 9286
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "HTC"
     title: "HTC"
     url: "/wiki/entities/htc/"
+  - key: "Huabei"
+    title: "Huabei / 花呗"
+    url: "/wiki/entities/huabei/"
   - key: "Huainanzi"
     title: "Huainanzi / 《淮南子》"
     url: "/wiki/entities/huainanzi/"
@@ -617,6 +620,9 @@ wiki_pages:
   - key: "Huawei"
     title: "Huawei"
     url: "/wiki/entities/huawei/"
+  - key: "HuaweiAscend950DT"
+    title: "Huawei Ascend 950DT / 华为昇腾 950DT"
+    url: "/wiki/entities/huaweiascend950dt/"
   - key: "HuaweiCM384"
     title: "Huawei CM384"
     url: "/wiki/entities/huaweicm384/"
