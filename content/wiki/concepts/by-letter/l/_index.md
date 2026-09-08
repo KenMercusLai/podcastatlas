@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6723
+wiki_total_pages: 6729
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -599,6 +599,9 @@ wiki_pages:
   - key: "LongTermCareInsurancePlanning"
     title: "Long-Term Care Insurance Planning"
     url: "/wiki/concepts/longtermcareinsuranceplanning/"
+  - key: "LongTermLocalizationBargain"
+    title: "Long-Term Localization Bargain / 长期本地化关系建设"
+    url: "/wiki/concepts/longtermlocalizationbargain/"
   - key: "LongTermPlaceOperation"
     title: "Long-Term Place Operation"
     url: "/wiki/concepts/longtermplaceoperation/"

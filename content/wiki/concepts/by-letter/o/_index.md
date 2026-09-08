@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6723
+wiki_total_pages: 6729
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "OutboundEmailGrowthEngine"
     title: "Outbound Email Growth Engine"
     url: "/wiki/concepts/outboundemailgrowthengine/"
+  - key: "OutboundProfitTransmissionMechanism"
+    title: "Outbound Profit Transmission Mechanism / 出海收益传导机制"
+    url: "/wiki/concepts/outboundprofittransmissionmechanism/"
   - key: "OutcomeAccelerators"
     title: "Outcome Accelerators"
     url: "/wiki/concepts/outcomeaccelerators/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6723
+wiki_total_pages: 6729
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -536,6 +536,9 @@ wiki_pages:
   - key: "ChinaMacroTemperatureGaps"
     title: "China Macro Temperature Gaps / 中国宏观温差"
     url: "/wiki/concepts/chinamacrotemperaturegaps/"
+  - key: "ChinaManufacturingOverseasExpansion"
+    title: "China Manufacturing Overseas Expansion / 中国制造业出海"
+    url: "/wiki/concepts/chinamanufacturingoverseasexpansion/"
   - key: "ChinaMentalHealthAccessGap"
     title: "China Mental Health Access Gap"
     url: "/wiki/concepts/chinamentalhealthaccessgap/"

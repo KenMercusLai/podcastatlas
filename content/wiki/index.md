@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [181.这轮规模空前的中国制造业出海背后｜线下活动实录](sources/181-zhe-lun-guimo-kongqian-de-zhongguo-zhizaoye-chuhai-beihou-xianxia-huodong-shilu-lmkuwy-rlsjtpsjelotovauwyr0.md) — 起朱楼宴宾客 live Guangzhou discussion on Chinese manufacturing overseas expansion, domestic capacity pressure, host-country backlash, localization, outbound profit transmission, and investor due diligence.
 - [The Silicon Valley hopefuls living in hacker houses](sources/tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128.md) — Marketplace Tech episode with Kenji Yamamoto on The Dreamers and I, Startup Embassy, crowded Silicon Valley hacker houses, immigrant founder persistence, neighborhood tension, and mission-driven startup housing.
 - [499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山](sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay.md) — 忽左忽右 episode with Yan Haijun on Longshan, Guanlong roads, Qin-Han east-west movement, Tianxia China, and northwest historical geography.
 - [《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！](sources/zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp.md) — 21 CE Wang Mang backfill on Empress Xiaomu's death, Wang Lin's scandal and forced suicide, public-son succession collapse, private sons Wang Xing and Wang Kuang, failed campaigns, Xiongnu requisitions, famine, and private-coinage punishment.
@@ -11369,6 +11370,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [China Manufacturing Overseas Expansion / 中国制造业出海](concepts/ChinaManufacturingOverseasExpansion.md) — Post-pandemic Chinese manufacturing movement from export-only sales toward overseas brands, factories, supply chains, and operating models.
+- [Export As Capacity Absorption / 出口作为产能吸纳](concepts/ExportAsCapacityAbsorption.md) — Pattern where firms keep producing and sell overseas because export sales cover cash costs and organizational continuity despite weak domestic margins.
+- [Host-Country Manufacturing Backlash / 东道国制造业反弹](concepts/HostCountryManufacturingBacklash.md) — Political, industrial, and identity reaction to Chinese manufacturing entry in host markets.
+- [Outbound Profit Transmission Mechanism / 出海收益传导机制](concepts/OutboundProfitTransmissionMechanism.md) — Institutional paths by which overseas corporate earnings might benefit domestic households, investors, public finance, or higher-value jobs.
+- [Long-Term Localization Bargain / 长期本地化关系建设](concepts/LongTermLocalizationBargain.md) — Accepting local partners, lower early margins, local brands, local participation, and slower relationship work to make overseas entry durable.
+- [Manufacturing Export Investment Quality / 制造业出海投资质量](concepts/ManufacturingExportInvestmentQuality.md) — Investor discipline for distinguishing durable overseas manufacturing advantage from low-margin capacity absorption.
 - [Longshan East-West Corridor Logic / 陇山东西互动轴线](concepts/LongshanEastWestCorridor.md) — Historical-geography frame linking Longshan to Qin eastward movement, Han westward expansion, and durable route infrastructure.
 - [天下中国 / Tianxia China](concepts/TianxiaChina.md) — Source-bounded political-order concept covering indirect rule, cultural recognition, suzerainty, jimi offices, and protectorates.
 - [Punitive Currency Enforcement Backfire / 惩罚性货币执法反噬](concepts/PunitiveCurrencyEnforcementBackfire.md) — Late-Xin pattern where private-coinage policing turns into collective punishment, forced labor, household separation, and mass social harm.

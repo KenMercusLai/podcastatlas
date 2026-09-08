@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1964
+topic_total_pages: 1968
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -1435,6 +1435,9 @@ topic_concepts:
   - key: "HorseAsCivilizationalInfrastructure"
     title: "Horse As Civilizational Infrastructure"
     url: "/wiki/concepts/horseascivilizationalinfrastructure/"
+  - key: "HostCountryManufacturingBacklash"
+    title: "Host-Country Manufacturing Backlash / 东道国制造业反弹"
+    url: "/wiki/concepts/hostcountrymanufacturingbacklash/"
   - key: "HouseholdBalanceSheetRepair"
     title: "Household Balance-Sheet Repair"
     url: "/wiki/concepts/householdbalancesheetrepair/"
@@ -1762,6 +1765,9 @@ topic_concepts:
   - key: "ManagementShareholderAlignmentRisk"
     title: "Management Shareholder Alignment Risk"
     url: "/wiki/concepts/managementshareholderalignmentrisk/"
+  - key: "ManufacturingExportInvestmentQuality"
+    title: "Manufacturing Export Investment Quality / 制造业出海投资质量"
+    url: "/wiki/concepts/manufacturingexportinvestmentquality/"
   - key: "MAPERInvestmentResearchFramework"
     title: "MAPER Investment Research Framework"
     url: "/wiki/concepts/maperinvestmentresearchframework/"
@@ -2002,6 +2008,9 @@ topic_concepts:
   - key: "OrganizedAngelInvestorNetworks"
     title: "Organized Angel Investor Networks"
     url: "/wiki/concepts/organizedangelinvestornetworks/"
+  - key: "OutboundProfitTransmissionMechanism"
+    title: "Outbound Profit Transmission Mechanism / 出海收益传导机制"
+    url: "/wiki/concepts/outboundprofittransmissionmechanism/"
   - key: "OutcomeAccelerators"
     title: "Outcome Accelerators"
     url: "/wiki/concepts/outcomeaccelerators/"
@@ -5262,6 +5271,9 @@ topic_sources:
   - key: "jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1"
     title: "180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速"
     url: "/wiki/sources/jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1/"
+  - key: "181-zhe-lun-guimo-kongqian-de-zhongguo-zhizaoye-chuhai-beihou-xianxia-huodong-shilu-lmkuwy-rlsjtpsjelotovauwyr0"
+    title: "181.这轮规模空前的中国制造业出海背后｜线下活动实录"
+    url: "/wiki/sources/181-zhe-lun-guimo-kongqian-de-zhongguo-zhizaoye-chuhai-beihou-xianxia-huodong-shilu-lmkuwy-rlsjtpsjelotovauwyr0/"
   - key: "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427"
     title: "22.足球经济学：读者不必是球迷"
     url: "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"

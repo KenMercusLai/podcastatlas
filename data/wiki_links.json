@@ -763,6 +763,10 @@
     "title": "181.讨好并非你的性格，坚持这么久，辛苦了",
     "url": "/wiki/sources/181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261/"
   },
+  "181-zhe-lun-guimo-kongqian-de-zhongguo-zhizaoye-chuhai-beihou-xianxia-huodong-shilu-lmkuwy-rlsjtpsjelotovauwyr0": {
+    "title": "181.这轮规模空前的中国制造业出海背后｜线下活动实录",
+    "url": "/wiki/sources/181-zhe-lun-guimo-kongqian-de-zhongguo-zhizaoye-chuhai-beihou-xianxia-huodong-shilu-lmkuwy-rlsjtpsjelotovauwyr0/"
+  },
   "182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792": {
     "title": "182.抓一把风洗洗脸，滚到泥巴里去写诗！｜ 和树才聊童诗",
     "url": "/wiki/sources/182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792/"
@@ -11239,6 +11243,10 @@
     "title": "China Macro Temperature Gaps / 中国宏观温差",
     "url": "/wiki/concepts/chinamacrotemperaturegaps/"
   },
+  "ChinaManufacturingOverseasExpansion": {
+    "title": "China Manufacturing Overseas Expansion / 中国制造业出海",
+    "url": "/wiki/concepts/chinamanufacturingoverseasexpansion/"
+  },
   "ChinaMentalHealthAccessGap": {
     "title": "China Mental Health Access Gap",
     "url": "/wiki/concepts/chinamentalhealthaccessgap/"
@@ -19183,6 +19191,10 @@
     "title": "Exploration To Extraction Pipeline",
     "url": "/wiki/concepts/explorationtoextractionpipeline/"
   },
+  "ExportAsCapacityAbsorption": {
+    "title": "Export As Capacity Absorption / 出口作为产能吸纳",
+    "url": "/wiki/concepts/exportascapacityabsorption/"
+  },
   "ExportDiscipline": {
     "title": "Export Discipline",
     "url": "/wiki/concepts/exportdiscipline/"
@@ -26306,6 +26318,10 @@
   "HostCitySupporterSponsorship": {
     "title": "Host City Supporter Sponsorship",
     "url": "/wiki/concepts/hostcitysupportersponsorship/"
+  },
+  "HostCountryManufacturingBacklash": {
+    "title": "Host-Country Manufacturing Backlash / 东道国制造业反弹",
+    "url": "/wiki/concepts/hostcountrymanufacturingbacklash/"
   },
   "HostageBackedDependencyTrap": {
     "title": "Hostage-Backed Dependency Trap / 家属质押式依附陷阱",
@@ -34579,6 +34595,10 @@
     "title": "Long-Term Care Insurance Planning",
     "url": "/wiki/concepts/longtermcareinsuranceplanning/"
   },
+  "LongTermLocalizationBargain": {
+    "title": "Long-Term Localization Bargain / 长期本地化关系建设",
+    "url": "/wiki/concepts/longtermlocalizationbargain/"
+  },
   "LongTermPlaceOperation": {
     "title": "Long-Term Place Operation",
     "url": "/wiki/concepts/longtermplaceoperation/"
@@ -36006,6 +36026,10 @@
   "ManufacturingDigitalTwin": {
     "title": "Manufacturing Digital Twin / 制造数字孪生",
     "url": "/wiki/concepts/manufacturingdigitaltwin/"
+  },
+  "ManufacturingExportInvestmentQuality": {
+    "title": "Manufacturing Export Investment Quality / 制造业出海投资质量",
+    "url": "/wiki/concepts/manufacturingexportinvestmentquality/"
   },
   "ManufacturingInstitute": {
     "title": "Manufacturing Institute",
@@ -41722,6 +41746,10 @@
   "OutboundEmailGrowthEngine": {
     "title": "Outbound Email Growth Engine",
     "url": "/wiki/concepts/outboundemailgrowthengine/"
+  },
+  "OutboundProfitTransmissionMechanism": {
+    "title": "Outbound Profit Transmission Mechanism / 出海收益传导机制",
+    "url": "/wiki/concepts/outboundprofittransmissionmechanism/"
   },
   "OutcomeAccelerators": {
     "title": "Outcome Accelerators",

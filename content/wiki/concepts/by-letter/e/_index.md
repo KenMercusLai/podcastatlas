@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6723
+wiki_total_pages: 6729
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -821,6 +821,9 @@ wiki_pages:
   - key: "ExplorationToExtractionPipeline"
     title: "Exploration To Extraction Pipeline"
     url: "/wiki/concepts/explorationtoextractionpipeline/"
+  - key: "ExportAsCapacityAbsorption"
+    title: "Export As Capacity Absorption / 出口作为产能吸纳"
+    url: "/wiki/concepts/exportascapacityabsorption/"
   - key: "ExportDiscipline"
     title: "Export Discipline"
     url: "/wiki/concepts/exportdiscipline/"

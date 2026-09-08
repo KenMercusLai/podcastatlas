@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6723
+wiki_total_pages: 6729
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "ManufacturingDigitalTwin"
     title: "Manufacturing Digital Twin / 制造数字孪生"
     url: "/wiki/concepts/manufacturingdigitaltwin/"
+  - key: "ManufacturingExportInvestmentQuality"
+    title: "Manufacturing Export Investment Quality / 制造业出海投资质量"
+    url: "/wiki/concepts/manufacturingexportinvestmentquality/"
   - key: "ManufacturingJobQuality"
     title: "Manufacturing Job Quality"
     url: "/wiki/concepts/manufacturingjobquality/"

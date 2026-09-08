@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2251
+topic_total_pages: 2252
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1399,6 +1399,9 @@ topic_concepts:
   - key: "HonoursPatronageExchange"
     title: "Honours Patronage Exchange"
     url: "/wiki/concepts/honourspatronageexchange/"
+  - key: "HostCountryManufacturingBacklash"
+    title: "Host-Country Manufacturing Backlash / 东道国制造业反弹"
+    url: "/wiki/concepts/hostcountrymanufacturingbacklash/"
   - key: "HostageDiplomacyRupture"
     title: "Hostage Diplomacy Rupture / 质子外交破裂"
     url: "/wiki/concepts/hostagediplomacyrupture/"

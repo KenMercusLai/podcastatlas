@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6723
+wiki_total_pages: 6729
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "HostCitySupporterSponsorship"
     title: "Host City Supporter Sponsorship"
     url: "/wiki/concepts/hostcitysupportersponsorship/"
+  - key: "HostCountryManufacturingBacklash"
+    title: "Host-Country Manufacturing Backlash / 东道国制造业反弹"
+    url: "/wiki/concepts/hostcountrymanufacturingbacklash/"
   - key: "HostageDiplomacyRupture"
     title: "Hostage Diplomacy Rupture / 质子外交破裂"
     url: "/wiki/concepts/hostagediplomacyrupture/"
