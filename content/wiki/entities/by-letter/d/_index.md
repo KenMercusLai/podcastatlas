@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9380
+wiki_total_pages: 9381
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1247,6 +1247,9 @@ wiki_pages:
   - key: "DengProfessorCardiology"
     title: "邓教授 / Professor Deng (cardiology guest)"
     url: "/wiki/entities/dengprofessorcardiology/"
+  - key: "DengChenEasternHan"
+    title: "邓晨 / Deng Chen (Eastern Han)"
+    url: "/wiki/entities/dengcheneasternhan/"
   - key: "DengFamilyAnEraLateHan"
     title: "邓氏 / Deng Family (An-era late Han)"
     url: "/wiki/entities/dengfamilyaneralatehan/"

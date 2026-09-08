@@ -18411,6 +18411,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/dengbiaoeasternhan/"
     },
+    "DengChenEasternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》661丨从书生到开国皇帝：刘秀首登历史舞台 [lmw_rgyorakS9lOEoUUXk5LYxFs5].md",
+          "key": "zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》661丨从书生到开国皇帝：刘秀首登历史舞台",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/dengcheneasternhan/"
+    },
     "DengFamilyAnEraLateHan": {
       "episode_count": 8,
       "show_count": 1,
@@ -21455,9 +21471,9 @@
       "url": "/wiki/concepts/earlychinesebuddhismcourttransmission/"
     },
     "EarlyRestorationCoalitionIntegration": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》662丨刘秀是如何化解团队内斗的？ [lsUin9kf1EpqFO2yJlk__Q1-zWX2].md",
@@ -21465,6 +21481,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》662丨刘秀是如何化解团队内斗的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》661丨从书生到开国皇帝：刘秀首登历史舞台 [lmw_rgyorakS9lOEoUUXk5LYxFs5].md",
+          "key": "zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》661丨从书生到开国皇帝：刘秀首登历史舞台",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5/"
         }
       ],
       "updated": "2026-09-09",
@@ -43410,9 +43433,9 @@
       "url": "/wiki/entities/litanlatehan/"
     },
     "LiTongEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？ [lt7RX7TbLODJfNGqfdq33IKrcmyN].md",
@@ -43427,9 +43450,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云",
           "url": "/wiki/sources/zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》661丨从书生到开国皇帝：刘秀首登历史舞台 [lmw_rgyorakS9lOEoUUXk5LYxFs5].md",
+          "key": "zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》661丨从书生到开国皇帝：刘秀首登历史舞台",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/litongeasternhan/"
     },
     "LiTongLateHan": {
@@ -46234,9 +46264,9 @@
       "url": "/wiki/entities/liuyanfulingkingeasternhan/"
     },
     "LiuYanLiuXiuBrother": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》664丨昆阳之战：决定国运的历史转折点 [lihRWAwP4x1w1pn4Aibdohq4_L_4].md",
@@ -46265,6 +46295,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》662丨刘秀是如何化解团队内斗的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》661丨从书生到开国皇帝：刘秀首登历史舞台 [lmw_rgyorakS9lOEoUUXk5LYxFs5].md",
+          "key": "zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》661丨从书生到开国皇帝：刘秀首登历史舞台",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5/"
         }
       ],
       "updated": "2026-09-09",
