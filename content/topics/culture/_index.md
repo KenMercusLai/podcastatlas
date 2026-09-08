@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2596
+topic_total_pages: 2598
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6131,6 +6131,9 @@ topic_entities:
   - key: "LengJianguo"
     title: "冷建国 / Leng Jianguo"
     url: "/wiki/entities/lengjianguo/"
+  - key: "LiuHongweiStandup"
+    title: "刘宏伟 / Liu Hongwei"
+    url: "/wiki/entities/liuhongweistandup/"
   - key: "LiuChang"
     title: "刘畅 / Liu Chang"
     url: "/wiki/entities/liuchang/"
@@ -6284,6 +6287,9 @@ topic_entities:
   - key: "SunZhonghuai"
     title: "孙忠怀 / Sun Zhonghuai"
     url: "/wiki/entities/sunzhonghuai/"
+  - key: "SunShuhengStandup"
+    title: "孙舒恒 / Sun Shuheng"
+    url: "/wiki/entities/sunshuhengstandup/"
   - key: "SunRuoxi"
     title: "孙若曦 / Sun Ruoxi"
     url: "/wiki/entities/sunruoxi/"

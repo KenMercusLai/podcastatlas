@@ -10,6 +10,7 @@ sources:
   - wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np
   - luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos
   - lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg
+  - ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur
 last_updated: 2026-09-09
 knowledge_schema: synthesis-v1
 ---
@@ -30,6 +31,8 @@ The "势利" panel extends the live-comedy mode from money into social ethics. [
 
 The flaw-themed panel adds a public-persona and mental-health-label mode. [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]] moves from baldness and ADHD into compulsive order, family pressure, good and bad reviews, online backlash, doxxing, and "活人感." The show again uses jokes and mutual interrogation to keep uncomfortable material speakable while preserving source-scoped boundaries around diagnosis, treatment, family impact, and platform-safety claims.
 
+The relationship-technology panel adds an explicit counterfactual ethics mode. [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]] uses AI-generated questions about loyalty drugs, perfect AI partners, pain-sharing, infidelity-memory deletion, and 100% compatibility to turn intimate decisions into public value sorting around [[RelationshipTechnologyEthics]], [[AICompanionAuthenticityBoundary]], and [[MemoryDeletionEthics]].
+
 The show also has a film-history mode. Luo's questioning lets [[WongJing|王晶]] move from childhood reading and TVB writing discipline into [[HongKongFilmIndustry]], [[CommercialFilmAudienceLogic]], Taiwan-market dependence, gang pressure, piracy, northbound production, and the [[ActorAIPerformanceBoundary|actor and AI performance boundary]].
 
 ## Key Characteristics
@@ -39,7 +42,7 @@ The show also has a film-history mode. Luo's questioning lets [[WongJing|王晶]
 - Culture-facing format that can move between craft/art interpretation, industrial-company strategy, comedic social analysis, and film-industry oral history.
 - Live-panel format can use jokes, ads, audience interaction, mutual teasing, and persona contrast to make sensitive money, status, and moral topics discussable.
 - Public-persona format that can turn flaws, diagnoses, visible appearance anxieties, and review pressure into social analysis without becoming formal clinical guidance.
-- Source-scoped show page limited to seven ingested episodes rather than the full program catalog.
+- Counterfactual ethics format that can use speculative technology to test relationship agency, authenticity, memory, pain, and commitment.
 
 ## Evidence
 - Long-form creator interview: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] follows 手工耿 from childhood and manual work into self-media, business choices, tool use, safety incidents, and public evaluation.
@@ -50,18 +53,19 @@ The show also has a film-history mode. Luo's questioning lets [[WongJing|王晶]
 - Money-and-debt panel: [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]] uses Xianyu, Wang Jiye, Xiao Siye, Cao Wei, and Luo's stories to discuss borrowing, repayment, limited consumption, and public reputation.
 - Snobbery panel: [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]] uses Kuaige, Hulan, Wang Jiye, Xuanzong, and Luo's examples to discuss selective social investment, ethical triage, power boundaries, crisis communication, diamonds, Valentine's Day, and luxury signaling.
 - Flaw-themed panel: [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]] uses baldness, ADHD, compulsive order, public reviews, online backlash, and live-show preparation to discuss [[LiveHumanFeeling|活人感]] and the boundary between memorable imperfection and real harm.
+- Relationship-technology panel: [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]] uses speculative intimacy tools to discuss fidelity, perfect AI partners, shared pain, deleted betrayal memory, compatibility scoring, and "义气."
 - Film-industry oral history: [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]] uses Wang Jing's career to discuss TVB, Shaw Brothers, Win's Entertainment, Taiwan demand, gang pressure, piracy, and AI-era film work.
 - Source scope: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]], [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]], [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]], [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]], and [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]] supply seven episodes and do not define the whole program catalog.
 
 ## Qualifications
-This page should not infer the show's full editorial mission, release cadence, audience, or business model from six episodes. The current evidence may overrepresent Luo's interest in product, craft, founder operating details, comedy-panel social analysis, money talk, moral dilemmas, consumption, and Hong Kong film history.
+This page should not infer the show's full editorial mission, release cadence, audience, or business model from eight episodes. The current evidence may overrepresent Luo's interest in product, craft, founder operating details, comedy-panel social analysis, money talk, moral dilemmas, relationship hypotheticals, consumption, and Hong Kong film history.
 
 ## What Changed
 - Added the Sixiao Comedy live-panel episode as evidence that the show can use comedy format to discuss borrowing, debt, and money shame.
 - Expanded the show profile from product/craft/founder interviewing and status analysis into relationship-money discussion.
 - Added the Wang Jing interview as evidence that the show can use long-form biography to build entertainment-industry oral history.
-- Added the "势利" live panel as evidence that the show can turn comedy dilemmas into moral, workplace, and consumption analysis.
-- Added the flaw-themed live panel as evidence that the show can use comedy to handle diagnosis labels, visible flaws, domestic pressure, and creator-review risk.
+- Added the "势利" and flaw-themed live panels as evidence that the show can use comedy to handle moral, workplace, consumption, diagnosis-label, appearance, family-pressure, and creator-review questions.
+- Added the relationship-technology live panel as evidence that the show can use speculative intimacy questions for ethical debate.
 
 ## Relationships
 - [[LuoYonghao]] - host and framing interviewer in the source.
@@ -80,5 +84,7 @@ This page should not infer the show's full editorial mission, release cadence, a
 - [[FriendLendingBoundary]] - recurring analytic thread in the live money-and-debt conversation.
 - [[SnobberyAsValueRanking]], [[EthicalTriageUnderScarcity]], and [[DiamondRomanceMarketingTrap]] - recurring analytic threads in the live "势利" conversation.
 - [[ADHDSelfDiagnosisBoundary]], [[OCDOrderPressure]], [[CreatorReviewResponseBoundary]], and [[LiveHumanFeeling]] - recurring analytic threads in the flaw-themed live conversation.
+- [[LiuHongweiStandup|刘宏伟]], [[SunShuhengStandup|孙舒恒]], [[WangJiye|王继业 / 王季叶]], and [[XuanZongStandup|选总]] - participant voices in the relationship-technology episode.
+- [[RelationshipTechnologyEthics]], [[SharedPainTechnologyBoundary]], [[MemoryDeletionEthics]], and [[AlgorithmicRomanticCompatibility]] - recurring analytic threads in the relationship-technology conversation.
 - [[HongKongFilmIndustry]] - recurring analytic thread in the Wang Jing conversation.
 - [[CreatorCulture]] - adjacent wiki theme around creators as value-producing subjects.

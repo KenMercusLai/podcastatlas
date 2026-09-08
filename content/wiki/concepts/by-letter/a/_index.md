@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6782
+wiki_total_pages: 6785
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1466,6 +1466,9 @@ wiki_pages:
   - key: "AlgorithmicRelevanceAssessment"
     title: "Algorithmic Relevance Assessment / 算法相关性评估"
     url: "/wiki/concepts/algorithmicrelevanceassessment/"
+  - key: "AlgorithmicRomanticCompatibility"
+    title: "Algorithmic Romantic Compatibility / 算法化爱情匹配"
+    url: "/wiki/concepts/algorithmicromanticcompatibility/"
   - key: "AlgorithmicTrustMigration"
     title: "Algorithmic Trust Migration"
     url: "/wiki/concepts/algorithmictrustmigration/"

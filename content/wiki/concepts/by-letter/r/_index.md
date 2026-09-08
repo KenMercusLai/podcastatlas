@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6782
+wiki_total_pages: 6785
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "RelationshipSelectionAgency"
     title: "Relationship Selection Agency / 择人与环境选择"
     url: "/wiki/concepts/relationshipselectionagency/"
+  - key: "RelationshipTechnologyEthics"
+    title: "Relationship Technology Ethics / 亲密关系技术伦理"
+    url: "/wiki/concepts/relationshiptechnologyethics/"
   - key: "RelationshipLedGrowth"
     title: "Relationship-Led Growth"
     url: "/wiki/concepts/relationshipledgrowth/"

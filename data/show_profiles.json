@@ -2854,14 +2854,20 @@
       "earliest_episode_date": "2025-08-19",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
-      "source_note_count": 7,
-      "topic_matched_source_note_count": 3,
+      "source_note_count": 8,
+      "topic_matched_source_note_count": 4,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
           "source_note_count": 2
+        },
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 1
         },
         {
           "key": "economics",
@@ -2876,7 +2882,7 @@
           "title": "Luo Yonghao",
           "url": "/wiki/entities/luoyonghao/",
           "kind": "person",
-          "episode_count": 5
+          "episode_count": 6
         },
         {
           "key": "ShiLifen",
@@ -2888,9 +2894,9 @@
       ],
       "start_here_episode_files": [
         "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
+        "ln6Gnhmsx1xo3p2N8z2pOWcIqnur [ln6Gnhmsx1xo3p2N8z2pOWcIqnur].md",
         "lheI72y0MlQRh2XXbetNqdp_0Stb [lheI72y0MlQRh2XXbetNqdp_0Stb].md",
-        "lhKQsZ8pkcBLnmAEBsZ1m50TYSoS [lhKQsZ8pkcBLnmAEBsZ1m50TYSoS].md",
-        "liR8W53XeWCMvbqRB1x1osaiRaFg [liR8W53XeWCMvbqRB1x1osaiRaFg].md"
+        "lhKQsZ8pkcBLnmAEBsZ1m50TYSoS [lhKQsZ8pkcBLnmAEBsZ1m50TYSoS].md"
       ]
     },
     "芮淇讲透资治通鉴": {

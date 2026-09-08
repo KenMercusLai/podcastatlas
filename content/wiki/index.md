@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [罗永浩的X字路口！如果可以，你会删除伴侣出轨的记忆吗？](sources/ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur.md) — 罗永浩的十字路口 and 四孝喜剧 live panel using AI-generated relationship thought experiments to test loyalty drugs, perfect AI partners, shared pain, infidelity-memory deletion, and algorithmic romantic compatibility.
 - [#397 从「责任分担」到「责任转移」：欧洲为何难以真正与美国「分道扬镳」？](sources/397-cong-zeren-fendan-dao-zeren-zhuanyi-ouzhou-weihe-nanyi-zhenzheng-yu-meiguo-fendao-yangbiao-31c69f95-d493-47a1-a6f8-905eb22c3e41.md) — 声东击西 episode with Sun Chenghao on NATO's 2026 summit, transatlantic burden shifting, European defense autonomy, AI militarization, and China-facing U.S.-Europe policy divergence.
 - [罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......](sources/lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg.md) — 罗永浩的十字路口 and 四孝喜剧 panel on flaws as live-human feeling, spanning baldness, ADHD, compulsive order, domestic pressure, reviews, online backlash, and public sincerity.
 - [罗永浩的X字路口！我们能活到今天，多亏了祖传的势利眼](sources/luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos.md) — 罗永浩的十字路口 and 四孝喜剧 live panel on snobbery as value ranking, ethical triage, comedy-industry status, workplace power, crisis transparency, diamonds, romantic rituals, and luxury status signals.
@@ -2040,6 +2041,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [刘宏伟 / Liu Hongwei](entities/LiuHongweiStandup.md) — Comedian and relationship-technology panelist whose answers stress marital loyalty, self-generated happiness, memory deletion, and skepticism toward perfect matching.
+- [孙舒恒 / Sun Shuheng](entities/SunShuhengStandup.md) — Comedian and relationship-technology panelist resisting technological certainty, known-AI romance, pain transfer, memory erasure, and compatibility scoring.
 - [孙承昊 / Sun Chenghao](entities/SunChenghao.md) — 声东击西 guest explaining NATO's 2026 summit, European autonomy limits, transatlantic burden shifting, and issue-specific China-facing policy implications.
 - [曹国 / Cao Guo](entities/CaoGuoStandup.md) — Stand-up participant in the Luo Yonghao flaw-themed panel, grounding hair-loss, appearance-management, and creator-review examples.
 - [林简欣 / Lin Jianxin](entities/LinJianxinStandup.md) — Stand-up participant in the Luo Yonghao flaw-themed panel, grounding ADHD, one-liner structure, and domestic-order counterpoint examples.
@@ -11418,6 +11421,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Relationship Technology Ethics / 亲密关系技术伦理](concepts/RelationshipTechnologyEthics.md) — Ethics of tools that optimize intimacy through fidelity drugs, AI partners, shared pain, memory deletion, or compatibility scoring while shifting agency and responsibility.
+- [Shared Pain Technology Boundary / 痛苦平摊技术边界](concepts/SharedPainTechnologyBoundary.md) — Boundary around intimate technologies that transfer negative emotional experience between partners.
+- [Algorithmic Romantic Compatibility / 算法化爱情匹配](concepts/AlgorithmicRomanticCompatibility.md) — Compatibility-score frame where a quantified match can pressure existing commitment, shared history, and relationship narrative.
 - [Militarized AI Technology Bloc Risk](concepts/MilitarizedAITechnologyBlocRisk.md) — Risk that AI, cloud, intelligence, export controls, investment screening, and defense procurement pull civilian technology into hardened geopolitical camps.
 - [Transatlantic Burden Shifting](concepts/TransatlanticBurdenShifting.md) — U.S.-European security rebalancing pattern where Europe is asked to assume responsibilities previously carried by the United States rather than merely contribute more.
 - [Creator Review Response Boundary / 创作者评价回应边界](concepts/CreatorReviewResponseBoundary.md) — Boundary between ordinary ratings, review-system noise, malicious attacks, public rebuttal, doxxing, and creator self-protection.

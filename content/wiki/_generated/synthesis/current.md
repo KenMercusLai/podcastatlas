@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-09
-as_of_overview_commit: 40042440c0dd2ddfc9bd85ea421517ca2bcb5788
+as_of_overview_commit: 7c66489aabfc3f996118aa1f9035570fb4bb3deb
 summary: "Current synthesis turns on bounded judgment: tools, institutions, markets, media, health, and work succeed when context, evidence, incentives, and trust hold."
-episode_count: 2031
-source_count: 2031
-paragraph_count: 598
+episode_count: 2033
+source_count: 2033
+paragraph_count: 599
 topic_count: 8
 ---
 
@@ -29,7 +29,7 @@ topic_count: 8
 
 ### AI and Technology
 
-AI value depends on workflow context, permissions, verification, economics, physical deployment, and human judgment rather than model capability alone.
+AI value depends on workflow context, permissions, verification, economics, physical deployment, human judgment, and relationship-agency boundaries rather than model capability alone.
 
 - [[153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p|Episode 153]] adds a staged AI-industrialization frame: [[AIIndustrializationThreeStages]] treats tokenized model access as infrastructure, [[AgentEntryPoint]] treats the next layer as agent discovery and invocation, and [[ModelCompaniesAsAIInfrastructure]] qualifies [[ModelAsOperatingSystem]] and [[FrontierModelDuopoly]] by separating AI-cloud providers from future native application winners; [[IntelligenceFlywheel]], [[TaskBasedAINativeOrganization]], and [[StrategicGeneration]] make outcome feedback, task-centered work, and contrarian strategy part of AI capability capture. Evidence: [[153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p]], [[ZengMing]], [[AIIndustrializationThreeStages]], [[ModelCompaniesAsAIInfrastructure]], [[AgentEntryPoint]], [[ModelAsOperatingSystem]], [[FrontierModelDuopoly]], [[IntelligenceFlywheel]], [[TaskBasedAINativeOrganization]], [[StrategicGeneration]], [[OpenAI]], [[Anthropic]].
 - [[vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1|Vol. 173]] adds an operational AI-competition layer: [[AIQuotaTrustErosion]], [[ModelRoutingCostControl]], [[GLM53Flash|GLM 5.3 Flash]], [[SelfBuiltAgentWorkflow]], and [[ModelHubAcquisitionRisk]] show users and providers shifting from pure model capability contests toward predictable quotas, cheap-task routing, custom harnesses, and infrastructure control across chips, data centers, and model hubs. Evidence: [[vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1]], [[AIQuotaTrustErosion]], [[ModelRoutingCostControl]], [[GLM53Flash]], [[SelfBuiltAgentWorkflow]], [[ModelHubAcquisitionRisk]], [[FengyanFengyu]].

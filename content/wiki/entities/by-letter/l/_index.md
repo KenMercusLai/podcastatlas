@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9374
+wiki_total_pages: 9376
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -923,6 +923,9 @@ wiki_pages:
   - key: "LiuZimingSportsMedicine"
     title: "刘子明 / Liu Ziming (sports medicine doctor)"
     url: "/wiki/entities/liuzimingsportsmedicine/"
+  - key: "LiuHongweiStandup"
+    title: "刘宏伟 / Liu Hongwei"
+    url: "/wiki/entities/liuhongweistandup/"
   - key: "LiuChongChenKing"
     title: "刘宠 / Liu Chong (Chen king)"
     url: "/wiki/entities/liuchongchenking/"

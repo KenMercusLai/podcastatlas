@@ -5,6 +5,7 @@ tags: [comedian, media, china]
 sources:
   - luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f
   - luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos
+  - ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur
 last_updated: 2026-09-09
 knowledge_schema: synthesis-v1
 ---
@@ -19,12 +20,15 @@ Wang Jiye's source role is to make borrowing risk concrete through operational m
 
 The "势利" panel adds Wang as a witness for being flattered through role-based attention and for romantic consumption pressure. He describes being drawn into long warm conversations during automobile short-video work and then losing that attention once he no longer controlled the account. He also recalls buying a diamond ring for marriage before understanding Luo's diamond-marketing critique, then later discovering lower secondhand prices.
 
+The relationship-technology panel adds Wang's responsibility-and-contract side. He rejects the loyalty drug because he wants moral self-control rather than industrialized love, rejects the perfect AI partner because knowing it is a program breaks the relationship, accepts infidelity-memory deletion under the source's remorse-and-continuation premise, and treats marriage as a boundary against leaving for a 100% match.
+
 ## Key Characteristics
 - Panel voice connecting personal borrowing to campus-loan and platform-payment examples.
 - Uses large operational mistakes to describe the psychological ceiling of imagined debt.
 - Represents indirect collection psychology, where repayment requests are softened through excuses.
 - Witness for status-conditioned attention, where professional usefulness can be mistaken for personal connection.
 - Consumer-story participant showing how diamond-ring rituals can be bought before the buyer understands resale or marketing critique.
+- Relationship thought-experiment participant who emphasizes self-control, nonindustrial love, and marriage contract boundaries.
 
 ## Evidence
 - Campus-loan chain: [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]] has Wang describe roommates' credit limits being used in a multi-year borrowing loop.
@@ -32,6 +36,7 @@ The "势利" panel adds Wang as a witness for being flattered through role-based
 - Repayment psychology: [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]] has Wang say he finds direct collection difficult and may invent urgent family reasons to make repayment easier.
 - Status-conditioned attention: [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]] has Wang describe automobile short-video creators or institutions sustaining warm contact while he had account authority, then cutting off contact after that authority ended.
 - Diamond-ring story: [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]] has Wang describe buying a costly diamond ring and later seeing lower secondhand prices.
+- Relationship technology: [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]] has Wang reject loyalty drugs and perfect AI partners on responsibility, self-control, industrialization, and species/program authenticity grounds, while treating marriage as a reason not to pursue a 100% match.
 
 ## Qualifications
 The page should keep Wang Jiye's Zhihu, bank, automobile short-video, and diamond-ring stories source-scoped. The episodes use them for debt psychology, status attention, and consumption pressure rather than as a complete employment or biography record. 王继业 remains a source spelling variant unless later evidence supports a canonical rename.
@@ -39,6 +44,7 @@ The page should keep Wang Jiye's Zhihu, bank, automobile short-video, and diamon
 ## What Changed
 - Created the page from the Luo Yonghao and Sixiao Comedy live panel.
 - Added the "势利" panel as evidence for Wang's status-attention and diamond-ring consumption stories.
+- Added the relationship-technology panel as evidence for Wang's self-control, AI-partner, memory-deletion, and marriage-contract positions.
 
 ## Relationships
 - [[SixiaoComedy|四孝喜剧]] - live-comedy context in which Wang Jiye appears.
@@ -47,3 +53,6 @@ The page should keep Wang Jiye's Zhihu, bank, automobile short-video, and diamon
 - [[FriendLendingBoundary]] - concept extended by his indirect repayment-request strategy.
 - [[StatusFilteredSocialInvestment]] - concept extended by his account-authority attention story.
 - [[DiamondRomanceMarketingTrap]] - concept extended by his diamond-ring purchase and resale-price discovery.
+- [[RelationshipTechnologyEthics]] - concept extended by his refusal to outsource loyalty to a drug.
+- [[AICompanionAuthenticityBoundary]] - concept extended by his rejection of a known AI romantic partner.
+- [[AlgorithmicRomanticCompatibility]] - concept extended by his marriage-contract boundary around 100% matching.

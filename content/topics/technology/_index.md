@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2827
+topic_total_pages: 2830
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3166,6 +3166,9 @@ topic_concepts:
   - key: "ReinforcementLearningAGIPath"
     title: "Reinforcement Learning AGI Path"
     url: "/wiki/concepts/reinforcementlearningagipath/"
+  - key: "RelationshipTechnologyEthics"
+    title: "Relationship Technology Ethics / 亲密关系技术伦理"
+    url: "/wiki/concepts/relationshiptechnologyethics/"
   - key: "ReplicationPackage"
     title: "Replication Package"
     url: "/wiki/concepts/replicationpackage/"
@@ -3385,6 +3388,9 @@ topic_concepts:
   - key: "ShadowAI"
     title: "Shadow AI"
     url: "/wiki/concepts/shadowai/"
+  - key: "SharedPainTechnologyBoundary"
+    title: "Shared Pain Technology Boundary / 痛苦平摊技术边界"
+    url: "/wiki/concepts/sharedpaintechnologyboundary/"
   - key: "ShortFormBusinessTechAudio"
     title: "Short-Form Business-Tech Audio / 短时长商业科技音频"
     url: "/wiki/concepts/shortformbusinesstechaudio/"
@@ -8460,6 +8466,9 @@ topic_sources:
   - key: "suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i"
     title: "算力狂想曲，我在AI工厂的奇遇"
     url: "/wiki/sources/suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i/"
+  - key: "ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur"
+    title: "罗永浩的X字路口！如果可以，你会删除伴侣出轨的记忆吗？"
+    url: "/wiki/sources/ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur/"
   - key: "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460"
     title: "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？"
     url: "/wiki/sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460/"
