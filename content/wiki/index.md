@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [王晶×罗永浩！谁还记得大导演张彻楚原？我死了什么都不需要留下](sources/wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np.md) — 罗永浩的十字路口 interview with Wang Jing on Hong Kong film's TVB talent pipeline, Taiwan market base, commercial genre logic, gang pressure, piracy, northbound production, and AI-era performance limits.
 - [史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者](sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn.md) — 史蒂夫说 interview with Jiang Tao on Anding Hospital psychiatry, adolescent school refusal, diagnostic-label caution, workforce shortage, crisis boundaries, and regular care.
 - [No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚](sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht.md) — 三五环 interview with Cheng/Chen Hongning on moving from investment work into 宇宙 E-Bike, premium electric-assist bicycle positioning, operating realism, and founder-led AI-native manufacturing.
 - [246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了](sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793.md) — 博物志 episode on Hangzhou Museum's “意味杭之” ancient-books exhibition, museum interpretation, guji materiality, woodblock-printing economics, Ming-Qing Hangzhou publishing, and Hangzhou heritage travel.
@@ -2014,6 +2015,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [王晶 / Wong Jing](entities/WongJing.md) — Hong Kong commercial-film director and industry witness connecting TVB, Shaw Brothers, Win's Entertainment, Taiwan demand, piracy, and AI-era performance limits.
+- [TVB / Television Broadcasts Limited / 无线电视](entities/TelevisionBroadcastsLimited.md) — Hong Kong television institution represented as a training pipeline for writers, actors, comedy timing, and film-industry talent.
+- [邵氏 / Shaw Brothers Studio](entities/ShawBrothersStudio.md) — Film-company platform where Wang Jing moved from TVB writing into directing and broader Hong Kong film identity.
+- [永盛 / Win's Entertainment](entities/WinsEntertainment.md) — Hong Kong film-company collaborator in Wang Jing's post-Shaw commercial-film career.
 - [C'estbon / 怡宝](entities/Cestbon.md) — Pure-water incumbent pressured by low-price rivals and fragmented retail channels.
 - [Maya Active](entities/MayaActive.md) — Anta-owned yoga-apparel brand testing a Shanghai fitness-space strategy with Pure.
 - [Pure Fitness / Pure](entities/PureFitness.md) — High-end fitness partner for Maya Active's Shanghai experience-space branch.
@@ -11321,6 +11326,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Hong Kong Film Industry / 香港电影工业](concepts/HongKongFilmIndustry.md) — Production, talent, financing, distribution, genre, star, and market system made concrete through Wang Jing's career account.
+- [Commercial Film Audience Logic / 商业片观众逻辑](concepts/CommercialFilmAudienceLogic.md) — View that professional commercial films must attract paying audiences through genre payoff, emotion, stars, pacing, and risk control.
+- [TVB Talent Pipeline / TVB 人才输送机制](concepts/TVBTalentPipeline.md) — Television-to-film training mechanism that supplied writers, actors, comedy craft, and production discipline to Hong Kong cinema.
+- [Taiwan Market For Hong Kong Cinema / 港片台湾市场基本盘](concepts/TaiwanMarketHongKongCinema.md) — External demand base that helped scale Hong Kong film production and whose weakening Wang Jing treats as central to decline.
+- [Hong Kong Film Gang Pressure / 港片黑社会压力](concepts/HongKongFilmGangPressure.md) — Source-disciplined concept for coercive pressure around Hong Kong and Taiwan film locations, contracts, crews, and industry disputes.
+- [Hong Kong Film Market Decline / 港片市场衰落](concepts/HongKongFilmMarketDecline.md) — Multi-causal weakening of the old Hong Kong film model through lost Taiwan demand, piracy, distribution short-termism, locations, and genre constraints.
 - [Museum Interpretation Legibility](concepts/MuseumInterpretationLegibility.md) — Exhibition-quality criterion where labels, annotations, translations, multimedia, and comparison make specialist objects understandable to ordinary visitors.
 - [Place-Based Exhibition Curation](concepts/PlaceBasedExhibitionCuration.md) — Curatorial method that makes objects legible through local histories, landscapes, institutions, industries, and memories.
 - [Ancient Chinese Book Materiality](concepts/AncientChineseBookMateriality.md) — Reading guji as physical artifacts shaped by paper, binding, edition, layout, marks, production method, and preservation.

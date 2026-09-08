@@ -119,8 +119,29 @@
         "HeritageTourismCommercialization",
         "TourismTrafficMismatch"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "commercial-cinema-needs-industrial-audience-and-market-form",
+      "qualifications": [
+        "The claim is grounded in Wang Jing's interview memory, so it may underweight art-cinema, worker, critic, audience, or non-commercial histories.",
+        "The source-scoped claims about gang pressure, profitability, and decline causality should not be generalized without corroborating market or archival evidence."
+      ],
+      "statement": "[[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np|The Wang Jing interview]] turns Hong Kong cinema into a cultural-form problem: [[HongKongFilmIndustry]], [[CommercialFilmAudienceLogic]], [[TVBTalentPipeline]], [[TaiwanMarketHongKongCinema]], and [[HongKongFilmMarketDecline]] show that films become durable culture through talent training, audience payment, distribution markets, genre room, and industrial memory, not only through individual titles or auteur prestige.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np",
+        "WongJing",
+        "HongKongFilmIndustry",
+        "CommercialFilmAudienceLogic",
+        "TVBTalentPipeline",
+        "TaiwanMarketHongKongCinema",
+        "HongKongFilmMarketDecline",
+        "TelevisionBroadcastsLimited",
+        "LuoyonghaosCrossroads"
+      ]
     }
   ],
-  "summary": "Culture and media sources currently treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translation tools, and heritage routes do not merely carry content; they decide what becomes legible, intimate, durable, or playable. Across the topic, durable cultural value appears when medium, material form, audience practice, and interpretation are designed together, while source-scoped limits remain around forecasts, exact commercial metrics, adaptation judgments, and technical capability claims.",
+  "summary": "Culture and media sources currently treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translation tools, and heritage routes do not merely carry content; they decide what becomes legible, intimate, durable, or playable. Across the topic, durable cultural value appears when medium, material form, audience practice, and interpretation are designed together, while source-scoped limits remain around forecasts, exact commercial metrics, adaptation judgments, and technical capability claims. The Wang Jing interview adds commercial cinema to this form-as-infrastructure pattern: Hong Kong film memory depends on TVB training, Taiwan distribution, audience logic, genre constraints, and source-scoped industry testimony as much as remembered titles.",
   "topic_id": "culture-and-media"
 }

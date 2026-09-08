@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9303
+wiki_total_pages: 9307
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -929,6 +929,9 @@ wiki_pages:
   - key: "WulingManLateHan"
     title: "武陵蛮 / Wuling Man (late Han)"
     url: "/wiki/entities/wulingmanlatehan/"
+  - key: "WinsEntertainment"
+    title: "永盛 / Win's Entertainment"
+    url: "/wiki/entities/winsentertainment/"
   - key: "WoteShoes"
     title: "沃特鞋企 / Wote Shoes"
     url: "/wiki/entities/woteshoes/"
@@ -1079,6 +1082,9 @@ wiki_pages:
   - key: "WangJingBianquEasternHan"
     title: "王景 / Wang Jing (Bianqu engineer, Eastern Han)"
     url: "/wiki/entities/wangjingbianqueasternhan/"
+  - key: "WongJing"
+    title: "王晶 / Wong Jing"
+    url: "/wiki/entities/wongjing/"
   - key: "WangFuDongChengPlot"
     title: "王服 / Wang Fu (Dong Cheng plot)"
     url: "/wiki/entities/wangfudongchengplot/"

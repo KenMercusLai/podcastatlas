@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6701
+wiki_total_pages: 6707
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -380,6 +380,15 @@ wiki_pages:
   - key: "HongKongDollarHotMoneyCycle"
     title: "Hong Kong Dollar Hot-Money Cycle / 港元热钱周期"
     url: "/wiki/concepts/hongkongdollarhotmoneycycle/"
+  - key: "HongKongFilmGangPressure"
+    title: "Hong Kong Film Gang Pressure / 港片黑社会压力"
+    url: "/wiki/concepts/hongkongfilmgangpressure/"
+  - key: "HongKongFilmIndustry"
+    title: "Hong Kong Film Industry / 香港电影工业"
+    url: "/wiki/concepts/hongkongfilmindustry/"
+  - key: "HongKongFilmMarketDecline"
+    title: "Hong Kong Film Market Decline / 港片市场衰落"
+    url: "/wiki/concepts/hongkongfilmmarketdecline/"
   - key: "HongKongIPOLiquidityPath"
     title: "Hong Kong IPO Liquidity Path"
     url: "/wiki/concepts/hongkongipoliquiditypath/"

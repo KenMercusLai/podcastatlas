@@ -587,12 +587,13 @@
       "5f42ccecf5aba2d7233c6344ba2eaf2864f133e18d0af4d0c92d5bc37ee4d5dc",
       "d8d7ba16097695a34f30d301f24adcba5812c1f4801c4f85c3ab1b1f88697cb4",
       "50c10ede37a5054232536c4055debd33554deb141412a8be7da09db5505c5e9c",
-      "84dd49ac166e4697c7944d5e84ddfcbab4c58fe49670c3ea55a8fcc24b4214bf"
+      "84dd49ac166e4697c7944d5e84ddfcbab4c58fe49670c3ea55a8fcc24b4214bf",
+      "47f00b5a6071894a52decccac47bb644170058bfe2e6c4ee40872a73dd9fddea"
     ],
-    "paragraph_count": 587
+    "paragraph_count": 588
   },
-  "overview_commit": "0d7605c7bffd8c6f5c3f5ce744e787a740df2e4e",
-  "overview_digest": "25ed0d383eb16d5699fe6a800f4009ffcd63cf8db8088da5e3d4861287474aab",
+  "overview_commit": "40128b9ce3a54eec0bf1dc07ed3fb7733e4cdd07",
+  "overview_digest": "e38837fb1e660d5d0b22c99acf030cbea9a3809e51149d401785900b7d42aadf",
   "paragraphs": [
     {
       "id": "01efd245c7b2792a9e10bed09d5c5cea8817e44eeebf7d5f664f11fa3930339d",
@@ -17993,6 +17994,35 @@
         "SteveShiDiFuShuoHost",
         "VulnerabilityAsLoveSource",
         "shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg"
+      ]
+    },
+    {
+      "id": "47f00b5a6071894a52decccac47bb644170058bfe2e6c4ee40872a73dd9fddea",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "culture-and-media"
+      ],
+      "text": "The latest addition is [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np|王晶×罗永浩！谁还记得大导演张彻楚原？我死了什么都不需要留下]], a [[LuoyonghaosCrossroads|罗永浩的十字路口]] interview with [[WongJing|王晶]] on [[HongKongFilmIndustry]]. It adds [[WongJing]], [[TelevisionBroadcastsLimited|TVB]], [[ShawBrothersStudio|邵氏]], [[WinsEntertainment|永盛]], [[CommercialFilmAudienceLogic]], [[TVBTalentPipeline]], [[TaiwanMarketHongKongCinema]], [[HongKongFilmGangPressure]], and [[HongKongFilmMarketDecline]], while extending [[LuoyonghaosCrossroads]] and [[ActorAIPerformanceBoundary]]. Its core synthesis is that Hong Kong film's commercial boom was an industrial system rather than only a cluster of famous movies: TVB trained talent, Taiwan and overseas demand scaled star-centered genre films, audience payment guided commercial craft, and the later decline followed market-base loss, piracy, distribution short-termism, location pressure, and narrower genre room. No settled contradiction is recorded; profitability, gang-pressure, private-dispute, AI-substitution, and decline-causality claims remain source-scoped to Wang Jing's practitioner account.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 1,
+        "culture-and-media": 1
+      },
+      "wikilinks": [
+        "ActorAIPerformanceBoundary",
+        "CommercialFilmAudienceLogic",
+        "HongKongFilmGangPressure",
+        "HongKongFilmIndustry",
+        "HongKongFilmMarketDecline",
+        "LuoyonghaosCrossroads",
+        "ShawBrothersStudio",
+        "TVBTalentPipeline",
+        "TaiwanMarketHongKongCinema",
+        "TelevisionBroadcastsLimited",
+        "WinsEntertainment",
+        "WongJing",
+        "wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np"
       ]
     }
   ],

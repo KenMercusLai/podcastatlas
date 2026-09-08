@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9303
+wiki_total_pages: 9307
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "Tutiplast"
     title: "Tutiplast"
     url: "/wiki/entities/tutiplast/"
+  - key: "TelevisionBroadcastsLimited"
+    title: "TVB / Television Broadcasts Limited / 无线电视"
+    url: "/wiki/entities/televisionbroadcastslimited/"
   - key: "TweetHunter"
     title: "Tweet Hunter"
     url: "/wiki/entities/tweethunter/"

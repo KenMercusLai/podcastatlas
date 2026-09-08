@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6701
+wiki_total_pages: 6707
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1085,6 +1085,9 @@ wiki_pages:
   - key: "CommanderyCountyAntiEnfeoffment"
     title: "Commandery-County Anti-Enfeoffment Settlement / 郡县制反分封定局"
     url: "/wiki/concepts/commanderycountyantienfeoffment/"
+  - key: "CommercialFilmAudienceLogic"
+    title: "Commercial Film Audience Logic / 商业片观众逻辑"
+    url: "/wiki/concepts/commercialfilmaudiencelogic/"
   - key: "CommercialFusionPower"
     title: "Commercial Fusion Power"
     url: "/wiki/concepts/commercialfusionpower/"

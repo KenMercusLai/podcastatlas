@@ -4,7 +4,8 @@ type: concept
 tags: [ai, acting, film, performance]
 sources:
   - no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj
-last_updated: 2026-09-06
+  - wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np
+last_updated: 2026-09-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,6 +18,8 @@ Actor AI performance boundary / 演员与 AI 表演边界 is the distinction bet
 [[WuHankun|吴瀚坤]] grounds the boundary in timing and lived embodiment. AI can generate a face, a body, a shot, or a short-drama-style performance, but the episode argues that nods, glances, pauses, comic beats, tears, and other micro-rhythms are difficult to control precisely with text prompts.
 
 The current judgment is not that actors are untouched by AI. Simple, fast, homogeneous performance labor can be substituted in some AI short-drama or AI comic-drama workflows. But stronger creative use may preserve the actor as the emotional and rhythmic source, then use AI for background, scene, visual transformation, or postproduction-like changes around that performance.
+
+A complementary production-side view comes from [[WongJing|王晶]]. He expects AI to replace much routine audiovisual production, but still treats fine feeling, live performance, and human emotional detail as the part least likely to be fully substituted. The current boundary therefore spans actor-side timing control and director-side audience feeling.
 
 ## Key Claims
 - Performance is not only likeness; it includes timing, rhythm, hesitation, gaze, breath, and emotional design.
@@ -31,17 +34,20 @@ The current judgment is not that actors are untouched by AI. Simple, fast, homog
 - Demonstration over prompting - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] says Wu found it more workable to perform first and let AI capture or learn his rhythm.
 - Hybrid workflow - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] uses a one-minute self-performed monologue as an example where real emotion remains actor-made while AI can change background or visual setting.
 - Replacement qualification - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] says some short-drama actors are already replaceable in simpler, faster, more standardized production contexts.
+- Commercial director qualification - [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]] has Wang Jing say AI may replace a large share of production work while remaining weaker at subtle real feeling and live human performance.
 - Audience belief - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] connects AI-generated documentary or character emotion to the viewer's trust once they know no living subject was present.
 
 ## Counterevidence & Qualifications
-The concept is based on one actor-creator's practice and current tool experience. As model control improves, some timing problems may shrink, but the episode still leaves authorship, consent, industry protection, and audience belief as nontechnical constraints.
+The concept is based on one actor-creator's practice plus one commercial director's source-scoped industry judgment. As model control improves, some timing problems may shrink, but the sources still leave authorship, consent, industry protection, audience belief, and fine human feeling as nontechnical constraints.
 
 ## What Changed
 - Created the concept to capture Wu Hankun's actor-side boundary between generated motion and human-authored performance.
+- Added Wang Jing's commercial-director view that AI substitution is substantial but incomplete around subtle human feeling.
 
 ## Related Concepts
 - [[HumanImperfectionCreativeValue]] - broader claim that irregular human texture can be expressive rather than defective.
 - [[LiveActionFilmUnderAI]] - adjacent film-production question about what still deserves physical shooting.
+- [[CommercialFilmAudienceLogic]] - audience-facing film logic that makes performance feeling commercially relevant.
 - [[SyntheticPerformers]] - generated actor-like figures that make this boundary commercially contested.
 - [[AIPublicLikenessGeneration]] - rights and consent issue when a generated body or face resembles a person.
 - [[AIAuthorshipPresence]] - trust problem around whether a human creator remains meaningfully present.

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1956
+topic_total_pages: 1957
 topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -589,6 +589,9 @@ topic_concepts:
   - key: "CoffeeCommodityPolitics"
     title: "Coffee Commodity Politics"
     url: "/wiki/concepts/coffeecommoditypolitics/"
+  - key: "CommercialFilmAudienceLogic"
+    title: "Commercial Film Audience Logic / 商业片观众逻辑"
+    url: "/wiki/concepts/commercialfilmaudiencelogic/"
   - key: "CommercializationProtectsCreativeIdeals"
     title: "Commercialization Protects Creative Ideals"
     url: "/wiki/concepts/commercializationprotectscreativeideals/"

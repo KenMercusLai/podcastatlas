@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6701
+wiki_total_pages: 6707
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "TailRiskHedging"
     title: "Tail-Risk Hedging"
     url: "/wiki/concepts/tailriskhedging/"
+  - key: "TaiwanMarketHongKongCinema"
+    title: "Taiwan Market For Hong Kong Cinema / 港片台湾市场基本盘"
+    url: "/wiki/concepts/taiwanmarkethongkongcinema/"
   - key: "TakeItDownAct"
     title: "Take It Down Act"
     url: "/wiki/concepts/takeitdownact/"
@@ -725,6 +728,9 @@ wiki_pages:
   - key: "TVMotionStutter"
     title: "TV Motion Stutter"
     url: "/wiki/concepts/tvmotionstutter/"
+  - key: "TVBTalentPipeline"
+    title: "TVB Talent Pipeline / TVB 人才输送机制"
+    url: "/wiki/concepts/tvbtalentpipeline/"
   - key: "TwentyFifthAmendment"
     title: "Twenty-Fifth Amendment"
     url: "/wiki/concepts/twentyfifthamendment/"

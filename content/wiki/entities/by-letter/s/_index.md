@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9303
+wiki_total_pages: 9307
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2162,6 +2162,9 @@ wiki_pages:
   - key: "SuduTechnology"
     title: "速度科技 / Sudu Technology"
     url: "/wiki/entities/sudutechnology/"
+  - key: "ShawBrothersStudio"
+    title: "邵氏 / Shaw Brothers Studio"
+    url: "/wiki/entities/shawbrothersstudio/"
   - key: "ShanshanKingdomLateHan"
     title: "鄯善国 / Shanshan Kingdom (late Han)"
     url: "/wiki/entities/shanshankingdomlatehan/"

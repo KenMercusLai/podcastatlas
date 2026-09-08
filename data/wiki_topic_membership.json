@@ -15771,6 +15771,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "CommercialFilmAudienceLogic": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CommercialFusionPower": [
     {
       "key": "technology",
@@ -30338,6 +30350,27 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "HongKongFilmGangPressure": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "HongKongFilmIndustry": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "HongKongFilmMarketDecline": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "HongKongFootballAssociation": [
@@ -56268,6 +56301,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ShawBrothersStudio": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ShaziVisram": [
     {
       "key": "science",
@@ -60912,6 +60952,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "TVBTalentPipeline": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TVMotionStutter": [
     {
       "key": "culture",
@@ -61018,6 +61065,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "TaiwanMarketHongKongCinema": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "TaiwanStrait": [
@@ -61928,6 +61982,13 @@
     }
   ],
   "Telemachus": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "TelevisionBroadcastsLimited": [
     {
       "key": "culture",
       "label": "Culture",
@@ -67922,6 +67983,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "WinsEntertainment": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "WinthropKellogg": [
     {
       "key": "science",
@@ -68057,6 +68125,13 @@
     }
   ],
   "WonderlandLanguageGames": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "WongJing": [
     {
       "key": "culture",
       "label": "Culture",
@@ -77731,6 +77806,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "we-almost-had-a-smartphone-in-the-90s-why-did-it-fail": [

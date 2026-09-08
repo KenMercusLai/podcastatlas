@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-08] ingest | 王晶×罗永浩！谁还记得大导演张彻楚原？我死了什么都不需要留下
+
+Ingested the 2026-06-11 罗永浩的十字路口 interview with Wang Jing on Hong Kong film's TVB talent pipeline, Taiwan market base, commercial genre logic, gang pressure, piracy shock, northbound production, and AI-era performance limits. Added source `wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np`; created `WongJing`, `TelevisionBroadcastsLimited`, `ShawBrothersStudio`, `WinsEntertainment`, `HongKongFilmIndustry`, `CommercialFilmAudienceLogic`, `TVBTalentPipeline`, `TaiwanMarketHongKongCinema`, `HongKongFilmGangPressure`, and `HongKongFilmMarketDecline`; updated `LuoyonghaosCrossroads`, `ActorAIPerformanceBoundary`, `index`, and `overview`. No settled contradiction found; profitability, gang-pressure, private-dispute, and decline-causality claims remain source-scoped.
+
 ## [2026-09-08] ingest | No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚
 
 Ingested the 2026-06-18 三五环 interview with Cheng/Chen Hongning on moving from investment work into 宇宙 E-Bike, premium electric-assist bicycle positioning, product and service economics, China-Europe category differences, operating realism, and founder-led AI-native manufacturing. Added source `no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht`; created `ChengHongningYuzhouEBike`, `YuzhouEBike`, `InvestorToOperatorLearning`, `ElectricAssistBicyclePremiumPositioning`, and `AINativeManufacturingTransformation`; updated `BafangElectric`, `EBikeValueChainShift`, `SanWuHuan`, `LiuFei`, `index`, and `overview`. No settled contradiction found; the 程泓宁/陈鸿宁 source-name variance and market-share, penetration, profitability, overseas-channel, product-weight, and AI-adoption claims remain source-scoped.
@@ -16071,6 +16075,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] ingest | 怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房
 
 Ingested the 2026-09-07 声动早咖啡 business-news episode on C'estbon pure-water share pressure, Maya Active's fitness-space strategy, Aura/Oura smart-ring subscriptions, DeepZ's reported Huawei-chip procurement, Foxconn AI servers, Volkswagen restructuring, Maserati-Huawei-JAC cooperation talks, credit-card contraction, and Aesop China retail reallocation. Added source `yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578`; created `Cestbon`, `MayaActive`, `PureFitness`, `AesopBeauty`, `HuaweiAscend950DT`, `Huabei`, `JDWhiteBar`, `BottledWaterChannelFragmentation`, `SportswearExperienceSpace`, `SmartRingHardwareSubscription`, `CreditCardScaleContraction`, and `BeautyRetailNetworkReallocation`; updated `PackagedWaterPriceWar`, `DeepZ`, `FoxconnIndustrialInternet`, `VolkswagenGroup`, `Stellantis`, `Maserati`, `AntaSports`, `OuraRing`, `index`, and `overview`. No settled contradiction found; the Aura/Oura spelling, chip order, IPO filing, share data, job-cut totals, and cooperation talks remain source-scoped.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-08] lint | Wiki health check
 
