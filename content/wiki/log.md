@@ -15968,6 +15968,7 @@ Ingested the 2026-06-21 博物志 episode on Hangzhou Museum's “意味杭之�
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-09-08] ingest | 《资治通鉴·汉纪》668丨中国古代百大武将：东汉之寇恂
 
 Ingested the 2026-06-10 芮淇讲透资治通鉴 episode backfilling the Gengshi 1-2 / 23-24 CE setup before Hanji 669. Added source `zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5`; created `RestoredRegimePromiseCredibility`; updated `KouXunEasternHan`, `DengYuEasternHan`, `WangLangHebeiClaimant`, `index`, and `overview`. No settled contradiction found; Han Hong, Fan Chong, Liu Ci, Liu Lin, Li Yu, Zhang Can, exact offices, force counts, and local rumor channels remain source-scoped.
@@ -16111,6 +16112,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-08] ingest | 《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？
+
+Ingested the 2026-06-10 芮淇讲透资治通鉴 episode on Wang Mang's Jian Terrace death, Du Wu's killing, postmortem dismemberment, head display, tongue-directed popular revenge, Wang Xian's brief Chang'an seizure, Ban Gu's judgment, and Liu Xiu's Luoyang institutional-restoration opening. Added source `zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t`; created `DuWuWangMangKiller`; updated `WangMang`, `LulinRebellion`, `LiuXuanGengshiEmperor`, `PublicCorpseHumiliation`, `InstitutionalReconstructionFromPrecedent`, `index`, and `overview`. No settled contradiction found; Wang Xian, Gongbinjiu, exact final-scene dialogue, and the psychology of eating Wang Mang's tongue remain source-scoped.
 
 ## [2026-09-08] lint | Wiki health check
 

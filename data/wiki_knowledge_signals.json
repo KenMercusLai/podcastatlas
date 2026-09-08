@@ -20085,6 +20085,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/dushieasternhan/"
     },
+    "DuWuWangMangKiller": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？ [luDwJGhch4WDv3gOuR9GMG2pVX3t].md",
+          "key": "zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/duwuwangmangkiller/"
+    },
     "DuXiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -36830,9 +36846,9 @@
       "url": "/wiki/concepts/institutionalpolicypluralism/"
     },
     "InstitutionalReconstructionFromPrecedent": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
@@ -36840,9 +36856,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？ [luDwJGhch4WDv3gOuR9GMG2pVX3t].md",
+          "key": "zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/institutionalreconstructionfromprecedent/"
     },
     "InstitutionalTrustAIAdoption": {
@@ -44477,9 +44500,9 @@
       "url": "/wiki/entities/liuxiu/"
     },
     "LiuXuanGengshiEmperor": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？ [lurTvFqErB0VF3A33msmd_TxR9Pv].md",
@@ -44543,9 +44566,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？ [luDwJGhch4WDv3gOuR9GMG2pVX3t].md",
+          "key": "zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t/"
         }
       ],
-      "updated": "2026-09-03",
+      "updated": "2026-09-08",
       "url": "/wiki/entities/liuxuangengshiemperor/"
     },
     "LiuXunLateHan": {
@@ -46243,6 +46273,29 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/lukepepera/"
+    },
+    "LulinRebellion": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？ [luDwJGhch4WDv3gOuR9GMG2pVX3t].md",
+          "key": "zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/lulinrebellion/"
     },
     "LulingLateHan": {
       "episode_count": 2,
@@ -58854,9 +58907,9 @@
       "url": "/wiki/concepts/publicagriculturalresearchcommercialization/"
     },
     "PublicCorpseHumiliation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
@@ -58878,9 +58931,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》830丨东汉李固：我虽死犹荣！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？ [luDwJGhch4WDv3gOuR9GMG2pVX3t].md",
+          "key": "zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/publiccorpsehumiliation/"
     },
     "PublicDutyOverPrivateGrievance": {
@@ -75752,6 +75812,36 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/wangliangeasternhan/"
+    },
+    "WangMang": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集） [704051550].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？ [luDwJGhch4WDv3gOuR9GMG2pVX3t].md",
+          "key": "zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/entities/wangmang/"
     },
     "WangMiLateHan": {
       "episode_count": 1,

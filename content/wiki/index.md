@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》667丨他为何剁了王莽的舌头，还吃掉？](sources/zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t.md) — Gengshi transition backfill on Wang Mang's Jian Terrace death, Du Wu's killing, head display, tongue-directed public revenge, Wang Xian's brief Chang'an seizure, Ban Gu's judgment, and Liu Xiu's Luoyang institutional-restoration opening.
 - [我们如何老去？从《前浪》窥见中国老年生活的真实图景](sources/women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up.md) — 不合时宜 episode on 《前浪2》, appointed guardianship, elder intimacy, care dignity, documentary restraint, and older-adult stereotype resistance.
 - [《资治通鉴·汉纪》668丨中国古代百大武将：东汉之寇恂](sources/zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5.md) — Gengshi 1-2 / 23-24 CE backfill on Kou Xun's Shanggu seal-return credibility intervention, Liu Xiu's Hebei order-building, Deng Yu's early allegiance and Liu Xuan critique, and Wang Lang's rumor-tested Liu Ziyu claim.
 - [王晶×罗永浩！谁还记得大导演张彻楚原？我死了什么都不需要留下](sources/wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np.md) — 罗永浩的十字路口 interview with Wang Jing on Hong Kong film's TVB talent pipeline, Taiwan market base, commercial genre logic, gang pressure, piracy, northbound production, and AI-era performance limits.
@@ -2017,6 +2018,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [杜吾 / Du Wu (Wang Mang killer)](entities/DuWuWangMangKiller.md) — Butcher-soldier in Hanji 667 who kills Wang Mang at Jian Terrace, making the emperor's death a status-reversal scene.
 - [王晶 / Wong Jing](entities/WongJing.md) — Hong Kong commercial-film director and industry witness connecting TVB, Shaw Brothers, Win's Entertainment, Taiwan demand, piracy, and AI-era performance limits.
 - [TVB / Television Broadcasts Limited / 无线电视](entities/TelevisionBroadcastsLimited.md) — Hong Kong television institution represented as a training pipeline for writers, actors, comedy timing, and film-industry talent.
 - [邵氏 / Shaw Brothers Studio](entities/ShawBrothersStudio.md) — Film-company platform where Wang Jing moved from TVB writing into directing and broader Hong Kong film identity.
@@ -2651,7 +2653,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王肃 / Wang Su (Eastern Han)](entities/WangSuEasternHan.md) — Wang Pan's son whose continued presence in princely mansions becomes accusation evidence in the guest-network purge.
 - [郭圣通 / Guo Shengtong](entities/GuoShengtong.md) — Founding-crisis marriage ally who becomes Guangwu's first empress before later deposition destabilizes Liu Qiang, triggers Guo-branch compensation, and remains an accession grievance frame.
 - [沛王刘辅 / Liu Fu, Pei King (Eastern Han)](entities/LiuFuPeiKingEasternHan.md) — Liu Xiu and Guo Shengtong's son whose 44 CE re-enfeoffment explains the Pei title before his later prince-guest exposure and brief imprisonment.
-- [更始帝刘玄 / Liu Xuan (Gengshi Emperor)](entities/LiuXuanGengshiEmperor.md) — Gengshi ruler whose restored-Han status cannot restore Xiongnu hierarchy or contain regional breakaways before failed Chimei response, Chang'an rupture, captivity, killing, burial, and descendant grievance.
+- [更始帝刘玄 / Liu Xuan (Gengshi Emperor)](entities/LiuXuanGengshiEmperor.md) — Gengshi ruler whose restored-Han status inherits Wang Mang's fallen field but cannot discipline court access, recall Liu Xiu, restore Xiongnu hierarchy, or contain later collapse.
 - [方望 / Fang Wang (Gengshi)](entities/FangWangGengshi.md) — Jianwu 1 claimant organizer who uses Ruzi Ying as a Han restoration banner at Linjing before Liu Xuan's side destroys the group.
 - [孺子婴 / Ruzi Ying](entities/RuziYing.md) — Late Western Han descendant whose symbolic value under Wang Mang and Fang Wang makes royal identity a source of exposure rather than command.
 - [寿光侯刘李 / Liu Li, Shouguang Marquis (Eastern Han)](entities/LiuLiShouguangMarquisEasternHan.md) — Liu Xuan's son whose guest-backed killing of Liu Gong triggers Guangwu's prince-guest crackdown.
@@ -8054,7 +8056,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《中国龙的发明：近现代中国形象的域外变迁》](entities/TheInventionOfChineseDragon.md) — Shi Aidong book recommended by episode 127 for the modern invention and image circulation of the Chinese dragon.
 - [闻一多 / Wen Yiduo](entities/WenYiduo.md) — Scholar whose dragon-totem argument gives episode 127 a key case of nationalist scholarship under modern pressure.
 - [《龙的传人》 / Descendants of the Dragon](entities/DescendantsOfTheDragon.md) — Popular song and phrase that helped fix "dragon = China" and "Chinese people = dragon descendants" as ordinary identity language.
-- [Wang Mang / 王莽](entities/WangMang.md) — Xin founder read by episode 126 as a product of Western Han sacred legitimacy, moral reputation, omen politics, and reform overcontrol.
+- [Wang Mang / 王莽](entities/WangMang.md) — Xin founder whose rise through sacred legitimacy, moral reputation, omen politics, and reform overcontrol ends in Jian Terrace killing and public corpse humiliation.
 - [《祥瑞》](entities/XiangruiBook.md) — Zhang Xiangrong book used by episode 126 to reread Wang Mang through Heaven, omens, Confucian ideals, and late Western Han politics.
 - [Zhang Xiangrong / 张向荣](entities/ZhangXiangrong.md) — Author of 《祥瑞》, the book grounding episode 126's reconstruction of Wang Mang and Han legitimacy.
 - [Western Han dynasty / 西汉](entities/WesternHanDynasty.md) — Dynastic setting whose founding branch now includes Qin pacification, early Han consolidation, Xiongnu frontier pressure, and later Mandate vulnerability.
@@ -8075,7 +8077,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张步 / Zhang Bu (Eastern Han)](entities/ZhangBuEasternHan.md) — Qi/Langya adversary whose profile spans Wang Hong's mandate-backed Langya challenge, Liu Yong's title lure, Fu Long's failed mission, Linzi battlefield vulnerability, controlled surrender, and later failed flight.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's breakout, reinforcements, morale tactics, and later legendary mandate layer exposed the gap between Xin grandeur and usable capacity.
 - [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Xin-collapse uprising whose current arc spans westward cohesion pressure, Hongnong merger, Gengshi defeats, pre-entry Chang'an pressure, Liu Penzi's lottery enthronement, Changle Palace disorder, Chang'an destruction, Guanzhong famine, and surrender to Liu Xiu.
-- [Lulin / 绿林](entities/LulinRebellion.md) — Uprising force that enters Chang'an and frames the episode's narration of Wang Mang's death.
+- [Lulin / 绿林](entities/LulinRebellion.md) — Uprising/endgame force tied to Wang Mang's Jian Terrace death and the broader late-Xin legitimacy collapse.
 - [Dong Zhongshu / 董仲舒](entities/DongZhongshu.md) — Western Han thinker used by episode 126 to connect Confucianism, Heaven, omens, and sacred imperial politics.
 - [Jean-Paul Marat / 让-保罗·马拉](entities/JeanPaulMarat.md) — Revolutionary journalist and agitator whose murder, martyr image, scientific grievance, and September Massacres role frame episode 125.
 - [Charlotte Corday / 夏洛特·科黛](entities/CharlotteCorday.md) — Moderate republican and Marat's assassin, read by episode 125 as politically conscious rather than manipulated or royalist.
@@ -11726,7 +11728,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [先内后外式战略顺序 / Core-Before-Periphery Strategy](concepts/CoreBeforePeripheryStrategy.md) — Strategic sequencing pattern that secures nearer or more decisive threats and capacity windows before chasing exposed peripheral targets or premature attacks.
 - [面子驱动的指挥失误 / Status-Driven Command Failure](concepts/StatusDrivenCommandFailure.md) — Command-failure pattern where reputation pressure and visible achievement needs override troop condition, timing, and better counsel, qualified by earlier evidence of capacity-aware delay.
 - [术数俘获式决策失控 / Occult Decision Capture](concepts/OccultDecisionCapture.md) — Decision-failure pattern where divination, fake omens, or prophetic claims convert uncertainty into political or military action.
-- [旧制文献恢复式制度重建 / Institutional Reconstruction From Precedent](concepts/InstitutionalReconstructionFromPrecedent.md) — State-capacity pattern where a new regime rebuilds governing practice by recovering old laws, documents, and administrative precedents.
+- [旧制文献恢复式制度重建 / Institutional Reconstruction From Precedent](concepts/InstitutionalReconstructionFromPrecedent.md) — State-capacity pattern where a new regime rebuilds governing practice through old procedures, documents, administrative precedents, and visible official form.
 - [不义之功封赏 / Unrighteous Merit Reward](concepts/UnrighteousMeritReward.md) — Governance problem where a politically useful act violates legal-moral order, making public reward damage the meaning of merit and title.
 - [疑心自生式叛乱 / Suspicion-Generated Rebellion](concepts/SuspicionGeneratedRebellion.md) — Defection pattern where an actor interprets an ambiguous signal as hidden hostility and rebels before verifying intent.
 - [Headphone Use Hearing Risk](concepts/HeadphoneUseHearingRisk.md) — Headphone safety frame centered on volume, duration, sound-source distance, sudden peaks, device fit, pressure, ventilation, hygiene, and symptoms.
@@ -12487,7 +12489,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protestant Heroic Martyrdom](concepts/ProtestantHeroicMartyrdom.md) — Memory pattern where a militant Protestant death becomes usable national-confessional symbolism.
 - [Integrated Command Capacity / 全维度统帅能力](concepts/IntegratedCommandCapacity.md) — Hanji 961 frame for command that joins strategic target choice, tactical variation, adviser use, resource systems, and political capacity.
 - [Personal Guard Attack Surface / 贴身侍卫反噬](concepts/PersonalGuardAttackSurface.md) — Close-access security pattern where bodyguards, household servants, or gate-control insiders can become assassination exposure or restored protection.
-- [Public Corpse Humiliation / 公开尸体羞辱](concepts/PublicCorpseHumiliation.md) — After-death violence and public spectacle used to intimidate survivors, insult enemies, or mark reversal, with Li Gu and Du Qiao showing how display can backfire into defiant mourning.
+- [Public Corpse Humiliation / 公开尸体羞辱](concepts/PublicCorpseHumiliation.md) — After-death violence and public spectacle used to intimidate survivors, insult enemies, or mark reversal, now including Wang Mang's head display and tongue-directed revenge.
 - [Post-Success Arrogance / 得势后的骄傲](concepts/PostSuccessArrogance.md) — Hanji 964-965 pattern where victory, office, status, or merit makes leaders less able to hear advice, preserve proportion, or protect relationships.
 - [Resource-Asymmetry Attrition / 资源不对称消耗战](concepts/ResourceAsymmetryAttrition.md) — Strategy pattern linking Bao Xin's hungry-raider exhaustion logic with Tian Feng and Ju Shou's pre-Guandu plans to turn Yuan Shao's larger base into time pressure.
 - [Strategic Patron Exit Judgment / 主公前途与安全退出判断](concepts/StrategicPatronExitJudgment.md) — Pattern where a dependent actor leaves a still-powerful patron because the patron's judgment, personnel treatment, and future safety look worse than a controlled exit.
