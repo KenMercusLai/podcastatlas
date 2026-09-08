@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6778
+wiki_total_pages: 6780
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1736,6 +1736,9 @@ wiki_pages:
   - key: "CreatorResponsibilityEthics"
     title: "Creator Responsibility Ethics / 创造者责任伦理"
     url: "/wiki/concepts/creatorresponsibilityethics/"
+  - key: "CreatorReviewResponseBoundary"
+    title: "Creator Review Response Boundary / 创作者评价回应边界"
+    url: "/wiki/concepts/creatorreviewresponseboundary/"
   - key: "CreatorTrustAdvertising"
     title: "Creator Trust Advertising / 创作者信任广告"
     url: "/wiki/concepts/creatortrustadvertising/"

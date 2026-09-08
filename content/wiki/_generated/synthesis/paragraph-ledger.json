@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "792a209c71d0990d264970c125bc25321b78bbb198c9cd67f35871606258367f",
       "1b11804800b2062ea35d10878a264d1f33cfa6f054078456c33da0a3ea760c61",
       "adff47fc0ad6edbdbfa1cae8035aeef6e6a622f6a3172c363ec418fe5912d983",
       "4a668cc2e01ca2d1623402a34fc0d217ca031493b1455fdce9e73c949b649e5d",
@@ -599,11 +600,41 @@
       "08ce087b5036dedcaf145e2c88ca51ea2070e265e9815cfe93ea1755ee057d3f",
       "6701e8b392caf729c79e1e660e6d138d48a06b0d176497dfeb0b07df834cfc04"
     ],
-    "paragraph_count": 597
+    "paragraph_count": 598
   },
-  "overview_commit": "f208202df5f8dec3b34b6bc069b35c75eb1b2408",
-  "overview_digest": "4695a0404b1647ad738685a4dcb7535ed250dea8754724ce45d12f6e76fff22a",
+  "overview_commit": "40042440c0dd2ddfc9bd85ea421517ca2bcb5788",
+  "overview_digest": "8b54d8a6a4e4debff13d8ce13594f983f9b77ae6c3abfb96deada0104ac928b2",
   "paragraphs": [
+    {
+      "id": "792a209c71d0990d264970c125bc25321b78bbb198c9cd67f35871606258367f",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg|罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......]], a [[LuoyonghaosCrossroads|罗永浩的十字路口]] and [[SixiaoComedy|四孝喜剧]] flaw-themed panel with [[LuoYonghao|罗永浩]], [[CaoGuoStandup|曹国]], [[ShiLifen|史礼芬]], and [[LinJianxinStandup|林简欣]]. It adds [[CaoGuoStandup|曹国]], [[LinJianxinStandup|林简欣]], [[OCDOrderPressure|强迫症式秩序压力]], and [[CreatorReviewResponseBoundary|创作者评价回应边界]], while extending [[LuoYonghao]], [[LuoyonghaosCrossroads|罗永浩的十字路口]], [[SixiaoComedy|四孝喜剧]], [[ShiLifen|史礼芬]], [[ADHDSelfDiagnosisBoundary]], [[LiveHumanFeeling|活人感]], [[HumanImperfectionCreativeValue]], [[HairLossFollicleCycle]], [[HairAsBiosocialSignal]], and [[CreatorEvaluationPressure]]. Its core synthesis is that flaws can create recognizability, comedy structure, and social closeness, but only while the source-scoped boundaries around professional diagnosis, medication, family pressure, work delivery, review-system trust, and safety remain visible. No settled contradiction is recorded; ADHD medication effects, hair-loss treatments, compulsive-order impact, review behavior, doxxing, and public rebuttal remain personal anecdotes rather than general medical, legal, or relationship guidance.",
+      "topic_scores": {
+        "psychology-and-personal-development": 3,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 4
+      },
+      "wikilinks": [
+        "ADHDSelfDiagnosisBoundary",
+        "CaoGuoStandup",
+        "CreatorEvaluationPressure",
+        "CreatorReviewResponseBoundary",
+        "HairAsBiosocialSignal",
+        "HairLossFollicleCycle",
+        "HumanImperfectionCreativeValue",
+        "LinJianxinStandup",
+        "LiveHumanFeeling",
+        "LuoYonghao",
+        "LuoyonghaosCrossroads",
+        "OCDOrderPressure",
+        "ShiLifen",
+        "SixiaoComedy",
+        "lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg"
+      ]
+    },
     {
       "id": "1b11804800b2062ea35d10878a264d1f33cfa6f054078456c33da0a3ea760c61",
       "primary_topic": "business-and-markets",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......](sources/lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg.md) — 罗永浩的十字路口 and 四孝喜剧 panel on flaws as live-human feeling, spanning baldness, ADHD, compulsive order, domestic pressure, reviews, online backlash, and public sincerity.
 - [罗永浩的X字路口！我们能活到今天，多亏了祖传的势利眼](sources/luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos.md) — 罗永浩的十字路口 and 四孝喜剧 live panel on snobbery as value ranking, ethical triage, comedy-industry status, workplace power, crisis transparency, diamonds, romantic rituals, and luxury status signals.
 - [总第069期 五周年台庆特辑 | 大主播vs小播客【上】：播客到底有啥好做的](sources/zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u.md) — 读报teleread fifth-anniversary upper-half special with 月下瑶 on independent podcast sustainability, article selection, English and news writing, audio-production phases, tipping, comments, 48-hour data, and the creator/productization tension.
 - [EP86 颠覆工作流，效率提升3000%](sources/ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k.md) — 纵横四海 Mini MBA episode translating operations management into personal and organizational workflow design through constraints, WIP, queues, critical paths, bullwhip effects, TPS, agile, and Lean Startup feedback.
@@ -2038,6 +2039,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [曹国 / Cao Guo](entities/CaoGuoStandup.md) — Stand-up participant in the Luo Yonghao flaw-themed panel, grounding hair-loss, appearance-management, and creator-review examples.
+- [林简欣 / Lin Jianxin](entities/LinJianxinStandup.md) — Stand-up participant in the Luo Yonghao flaw-themed panel, grounding ADHD, one-liner structure, and domestic-order counterpoint examples.
 - [快哥 / Kuaige](entities/KuaigeStandup.md) — Comedian and Kaihua Club operator in the Luo Yonghao/Sixiao Comedy snobbery panel.
 - [呼兰 / Hulan](entities/HulanStandup.md) — Comedian and panel participant whose answers stress low-friction social interpretation, prior commitments, fairness, and club authority boundaries.
 - [选总 / Xuanzong](entities/XuanZongStandup.md) — Panel participant used for workplace-status feedback and diamond-ring consumption examples.
@@ -11413,6 +11416,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Creator Review Response Boundary / 创作者评价回应边界](concepts/CreatorReviewResponseBoundary.md) — Boundary between ordinary ratings, review-system noise, malicious attacks, public rebuttal, doxxing, and creator self-protection.
+- [OCD-Coded Order Pressure / 强迫症式秩序压力](concepts/OCDOrderPressure.md) — Source-scoped frame for intense order, cleanliness, symmetry, exact-number, and object-responsibility habits as domestic and public-space pressure.
 - [势利作为价值排序 / Snobbery As Value Ranking](concepts/SnobberyAsValueRanking.md) — Reframes snobbery as ranking people across scarce valued traits including wealth, intelligence, taste, appearance, morality, and values.
 - [身份过滤式社交投资 / Status-Filtered Social Investment](concepts/StatusFilteredSocialInvestment.md) — Allocation of attention, warmth, help, and opportunity according to current or expected future status.
 - [稀缺情境下的伦理分诊 / Ethical Triage Under Scarcity](concepts/EthicalTriageUnderScarcity.md) — Dilemma pattern where survival, fairness, talent, utility, and institutional capacity force morally costly selection.

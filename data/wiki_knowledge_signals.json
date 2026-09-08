@@ -188,9 +188,9 @@
       "url": "/wiki/entities/acrcloud/"
     },
     "ADHDSelfDiagnosisBoundary": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
@@ -205,9 +205,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
           "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
+        },
+        {
+          "episode_file": "liR8W53XeWCMvbqRB1x1osaiRaFg [liR8W53XeWCMvbqRB1x1osaiRaFg].md",
+          "key": "lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......",
+          "url": "/wiki/sources/lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "url": "/wiki/concepts/adhdselfdiagnosisboundary/"
     },
     "AFCChampionsLeague": {
@@ -10589,6 +10596,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/caofenglatehan/"
     },
+    "CaoGuoStandup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liR8W53XeWCMvbqRB1x1osaiRaFg [liR8W53XeWCMvbqRB1x1osaiRaFg].md",
+          "key": "lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......",
+          "url": "/wiki/sources/lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/caoguostandup/"
+    },
     "CaoJieLateHan": {
       "episode_count": 13,
       "show_count": 1,
@@ -16127,6 +16150,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/creatorproductcocreationloop/"
+    },
+    "CreatorReviewResponseBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liR8W53XeWCMvbqRB1x1osaiRaFg [liR8W53XeWCMvbqRB1x1osaiRaFg].md",
+          "key": "lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......",
+          "url": "/wiki/sources/lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/creatorreviewresponseboundary/"
     },
     "CreatorTrustAdvertising": {
       "episode_count": 4,
@@ -36432,9 +36471,9 @@
       "url": "/wiki/concepts/humanextractionposture/"
     },
     "HumanImperfectionCreativeValue": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "EP281对话吴镇宇：困在创伤里的我们，决定重新找回自己 [lvvREaPOyKpJ5XtLRyAAupU1Xo7r].md",
@@ -36442,9 +36481,16 @@
           "show": "Talk三联",
           "title": "EP281 对话吴镇宇：困在创伤里的我们，决定重新找回自己",
           "url": "/wiki/sources/ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r/"
+        },
+        {
+          "episode_file": "liR8W53XeWCMvbqRB1x1osaiRaFg [liR8W53XeWCMvbqRB1x1osaiRaFg].md",
+          "key": "lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......",
+          "url": "/wiki/sources/lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-09",
       "url": "/wiki/concepts/humanimperfectioncreativevalue/"
     },
     "HumanInTheLoopCreditDecisioning": {
@@ -44167,6 +44213,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/linchangqiang/"
     },
+    "LinJianxinStandup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liR8W53XeWCMvbqRB1x1osaiRaFg [liR8W53XeWCMvbqRB1x1osaiRaFg].md",
+          "key": "lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......",
+          "url": "/wiki/sources/lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/linjianxinstandup/"
+    },
     "LineageRuleDurability": {
       "episode_count": 1,
       "show_count": 1,
@@ -46453,6 +46515,57 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/liuhepagoda/"
     },
+    "LiveHumanFeeling": {
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01 [lgNagVELl4JyVv7EejrCgNO2Xjsr].md",
+          "key": "ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr",
+          "show": "Talk三联",
+          "title": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01",
+          "url": "/wiki/sources/ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr/"
+        },
+        {
+          "episode_file": "149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来 [liHbq8vuJSQXvB7h2_pZ2xM-eQGA].md",
+          "key": "149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga",
+          "show": "起朱楼宴宾客",
+          "title": "149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来",
+          "url": "/wiki/sources/149-baiwu-teji-he-liangwei-laomeitiren-mantan-boke-meijie-yiji-shengyin-shengtai-de-weilai-lihbq8vujsqxvb7h2-pz2xm-eqga/"
+        },
+        {
+          "episode_file": "140. 还可以的金女士：“所以人为什么要努力啊？！” [854173655].md",
+          "key": "140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655",
+          "show": "蜜獾吃书",
+          "title": "140. 还可以的金女士：“所以人为什么要努力啊？！”",
+          "url": "/wiki/sources/140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655/"
+        },
+        {
+          "episode_file": "E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由 [b2be7093-3366-4ee2-8a7a-625f06206ae5].md",
+          "key": "e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5",
+          "show": "硅谷101",
+          "title": "E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由",
+          "url": "/wiki/sources/e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5/"
+        },
+        {
+          "episode_file": "【闲聊】想送赵露思一本短歌集--编辑推书,无所不用其极！ [905512770].md",
+          "key": "xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770",
+          "show": "蜜獾吃书",
+          "title": "【闲聊】想送赵露思一本短歌集--编辑推书,无所不用其极！",
+          "url": "/wiki/sources/xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770/"
+        },
+        {
+          "episode_file": "liR8W53XeWCMvbqRB1x1osaiRaFg [liR8W53XeWCMvbqRB1x1osaiRaFg].md",
+          "key": "lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......",
+          "url": "/wiki/sources/lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/livehumanfeeling/"
+    },
     "LiyangYellowRiverLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -47840,9 +47953,9 @@
       "url": "/wiki/entities/luotong/"
     },
     "LuoYonghao": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 ｜ 中国互联网故事24 [1000932027].md",
@@ -47878,6 +47991,13 @@
           "show": "罗永浩的十字路口",
           "title": "罗永浩的X字路口！我们能活到今天，多亏了祖传的势利眼",
           "url": "/wiki/sources/luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos/"
+        },
+        {
+          "episode_file": "liR8W53XeWCMvbqRB1x1osaiRaFg [liR8W53XeWCMvbqRB1x1osaiRaFg].md",
+          "key": "lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......",
+          "url": "/wiki/sources/lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg/"
         }
       ],
       "updated": "2026-09-09",
@@ -47916,9 +48036,9 @@
       "url": "/wiki/entities/luobopaidui/"
     },
     "LuoyonghaosCrossroads": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
@@ -47961,6 +48081,13 @@
           "show": "罗永浩的十字路口",
           "title": "罗永浩的X字路口！我们能活到今天，多亏了祖传的势利眼",
           "url": "/wiki/sources/luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos/"
+        },
+        {
+          "episode_file": "liR8W53XeWCMvbqRB1x1osaiRaFg [liR8W53XeWCMvbqRB1x1osaiRaFg].md",
+          "key": "lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......",
+          "url": "/wiki/sources/lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg/"
         }
       ],
       "updated": "2026-09-09",
@@ -54481,6 +54608,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/ocdcompulsionreinforcementloop/"
+    },
+    "OCDOrderPressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liR8W53XeWCMvbqRB1x1osaiRaFg [liR8W53XeWCMvbqRB1x1osaiRaFg].md",
+          "key": "lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......",
+          "url": "/wiki/sources/lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/ocdorderpressure/"
     },
     "Oakley": {
       "episode_count": 1,
@@ -67679,9 +67822,9 @@
       "url": "/wiki/entities/shihuanlatehan/"
     },
     "ShiLifen": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lnBvS1yzZuAowvr0QAcmJLy2fTX- [lnBvS1yzZuAowvr0QAcmJLy2fTX-].md",
@@ -67689,9 +67832,16 @@
           "show": "罗永浩的十字路口",
           "title": "罗永浩的X字路口！一年一度装x大会",
           "url": "/wiki/sources/luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx/"
+        },
+        {
+          "episode_file": "liR8W53XeWCMvbqRB1x1osaiRaFg [liR8W53XeWCMvbqRB1x1osaiRaFg].md",
+          "key": "lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......",
+          "url": "/wiki/sources/lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/shilifen/"
     },
     "ShiYanLateHan": {
@@ -68251,9 +68401,9 @@
       "url": "/wiki/concepts/situationalstrictlenientgovernance/"
     },
     "SixiaoComedy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ls3BbpqjtmtIJ4QdD5B0aL07GM_f [ls3BbpqjtmtIJ4QdD5B0aL07GM_f].md",
@@ -68268,6 +68418,13 @@
           "show": "罗永浩的十字路口",
           "title": "罗永浩的X字路口！我们能活到今天，多亏了祖传的势利眼",
           "url": "/wiki/sources/luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos/"
+        },
+        {
+          "episode_file": "liR8W53XeWCMvbqRB1x1osaiRaFg [liR8W53XeWCMvbqRB1x1osaiRaFg].md",
+          "key": "lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......",
+          "url": "/wiki/sources/lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg/"
         }
       ],
       "updated": "2026-09-09",

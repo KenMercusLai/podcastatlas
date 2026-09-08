@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6778
+wiki_total_pages: 6780
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "OCDCompulsionReinforcementLoop"
     title: "OCD Compulsion Reinforcement Loop"
     url: "/wiki/concepts/ocdcompulsionreinforcementloop/"
+  - key: "OCDOrderPressure"
+    title: "OCD-Coded Order Pressure / 强迫症式秩序压力"
+    url: "/wiki/concepts/ocdorderpressure/"
   - key: "OceanAcidification"
     title: "Ocean Acidification"
     url: "/wiki/concepts/oceanacidification/"

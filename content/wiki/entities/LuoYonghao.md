@@ -8,6 +8,7 @@ sources:
   - luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx
   - luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f
   - luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos
+  - lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg
 last_updated: 2026-09-09
 knowledge_schema: synthesis-v1
 ---
@@ -28,12 +29,15 @@ The money-and-debt panel adds Luo's debt-repayment and friend-lending layer. [[l
 
 The "势利" panel adds Luo's most explicit moral-psychology moderator role so far. [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]] has him expand snobbery beyond money and status into intelligence, taste, appearance, and moral values; use [[DunbarNumber|邓巴数]] to explain selective attention; test guests with survival, lifeboat, and school-admission dilemmas; and then translate the same value-ranking problem into boss dinners, company-crisis communication, diamonds, Valentine's Day, and luxury signals.
 
+The flaw-themed panel adds a more self-exposing version of the same role. [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]] has Luo discuss his own ADHD diagnosis, medication effects, multi-screen attention management, launch-event delivery pressure, hair-loss treatment, and review-response ethics while also pushing [[ShiLifen|史礼芬]] on family pressure and [[CaoGuoStandup|曹国]] and [[LinJianxinStandup|林简欣]] on flaws as performance material.
+
 ## Key Characteristics
 - Founder and public presenter whose smartphone-era role was tied to [[Smartisan]] design, launch rhetoric, and fan attention.
 - Case for the limits of founder taste when hardware, supply chain, manufacturing, and delivery execution do not match public expectation.
 - Long-form interviewer who uses product, craft, and cultural categories to clarify a guest's work rather than only reciting biography.
 - Taste-driven explainer who can make interface design, handwork pricing, material choice, and art interpretation legible to broad audiences.
 - Panel moderator who can turn comedic conflict into theories of class, status display, debt, friendship, moral triage, workplace power, and consumption symbols.
+- Public figure who can use his own ADHD, baldness, delivery pressure, and review-response habits as material for discussing flaws, responsibility, and public rebuttal.
 - Source-scoped public figure whose English-teaching, livestreaming operations, full business history, and broader media career are not fully covered by the current evidence inventory.
 
 ## Evidence
@@ -44,15 +48,17 @@ The "势利" panel adds Luo's most explicit moral-psychology moderator role so f
 - Panel moderation: [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]] has Luo assign explicit and implicit "装逼" poles, pull examples from the guests, and reframe vanity as possible learning, signaling, and self-deception.
 - Debt and friend lending: [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]] has Luo discuss Smartisan's six-to-seven-hundred-million-yuan debt, the choice not to run away or crowdfund, livestream ecommerce as repayment work, and roughly 17 million yuan in unrecovered friend loans.
 - Snobbery and ethical triage: [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]] has Luo define snobbery across multiple value dimensions, self-criticize intelligence-based contempt, and stage survival, lifeboat, school-admission, boss-dinner, company-crisis, and romantic-consumption dilemmas.
-- Source scope: [[no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]], [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]], and [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]] focus on specific roles and do not provide a complete biography of Luo's English-teaching, livestreaming operations, or broader media career.
+- Flaws, ADHD, and public response: [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]] has Luo discuss diagnosed ADHD, attention scattering, medication effects, launch-event lateness risk, hair-loss treatment, review-system noise, and when fact-distorting criticism warrants rebuttal.
+- Source scope: [[no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]], [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]], [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]], and [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]] focus on specific roles and do not provide a complete biography of Luo's English-teaching, livestreaming operations, or broader media career.
 
 ## Qualifications
-The current page should not generalize Luo's whole career from five sources. One source is a smartphone-history episode, one is a creator interview, and three are comedy-panel discussions; all are interpretive rather than comprehensive biography. Debt amounts, repayment timing, friend-loan recovery rates, and consumption-market claims remain source-scoped personal accounts.
+The current page should not generalize Luo's whole career from six sources. One source is a smartphone-history episode, one is a creator interview, and four are comedy-panel discussions; all are interpretive rather than comprehensive biography. Debt amounts, repayment timing, friend-loan recovery rates, consumption-market claims, ADHD medication comments, hair-loss treatment details, and public-rebuttal judgments remain source-scoped personal accounts.
 
 ## What Changed
 - Added the money-and-debt panel as evidence for Luo's debt-repayment narrative and friend-lending ethics.
 - Reframed Luo's current profile from taste-driven explanation alone toward public explanation under business, social, and reputational pressure.
 - Added the "势利" panel as evidence for Luo's role in converting comedy dilemmas into moral, workplace, and consumption analysis.
+- Added the flaw-themed panel as evidence for Luo's self-disclosure around ADHD, baldness, delivery responsibility, and review response.
 
 ## Relationships
 - [[Smartisan]] - company founded by Luo in the smartphone-history source.
@@ -67,3 +73,5 @@ The current page should not generalize Luo's whole career from five sources. One
 - [[FriendLendingBoundary]] - concept Luo helps articulate through friend borrowing, gifting, collection, and repayment stories.
 - [[KuaigeStandup|快哥]], [[HulanStandup|呼兰]], [[WangJiye|王继业 / 王季叶]], and [[XuanZongStandup|选总]] - panelists whose responses Luo tests in the "势利" episode.
 - [[SnobberyAsValueRanking]], [[EthicalTriageUnderScarcity]], [[AfterHoursPowerBoundary]], [[CrisisOptimismTransparencyTradeoff]], [[DiamondRomanceMarketingTrap]], and [[LuxuryStatusSignalEfficiency]] - concepts Luo helps articulate through the new panel.
+- [[CaoGuoStandup|曹国]], [[LinJianxinStandup|林简欣]], and [[ShiLifen|史礼芬]] - panelists whose flaw stories Luo turns into questions about attention, appearance, order, family pressure, and public evaluation.
+- [[ADHDSelfDiagnosisBoundary]], [[LiveHumanFeeling]], [[OCDOrderPressure]], and [[CreatorReviewResponseBoundary]] - concepts Luo helps articulate through the flaw-themed panel.

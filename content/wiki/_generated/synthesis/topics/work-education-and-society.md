@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-09
-as_of_overview_commit: 160365e113cc22a84e350bf605d9c53d2c2fce23
-input_digest: a5937864c534d1daf42c86ca6bbcd743b5194bd0251f020587f9149aab90f888
+as_of_overview_commit: 40042440c0dd2ddfc9bd85ea421517ca2bcb5788
+input_digest: 753bedd13f72f0b7f70177a9d43422f562b481ac9d6481250f8722eaf6d2b2bd
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The Hong Kong football source adds a work-and-society case in which early professional sport remained partly semi-professional: paid players, signing fees, club wages, stable jobs arranged by corporate teams, and owner-control preferences all shaped labor and institutional identity. The broader topic continues to synthesize how work, education, care, creator labor, travel, and social institutions depend on practical routines, trust, incentives, and human judgment rather than formal labels alone. The Tong Li episode enters this topic only as a source-scoped public-education case: sex education is framed as life-course learning that needs safety, consent, law, relationship context, and age-appropriate boundaries rather than a fixed school-only information transfer. The SanWuHuan e-bike source adds a narrow founder-work case: investment knowledge changes when exposed to operator responsibility, overseas trust-building, team capability, service burden, and AI-native workflow redesign. Hanji 658 contributes a coercive-labor edge: monetary enforcement and collective punishment split households and convert ordinary people into forced service during late-Xin collapse. EP86 adds a work-and-learning workflow branch: task management, career bottlenecks, upward decisions, learning time, and creator production are framed as systems that need process diagnosis, WIP limits, slack, review, and feedback loops. The Luo Yonghao/Sixiao Comedy snobbery panel adds a work-and-society branch where limited attention, institutional slots, workplace hierarchy, and small-team management turn status judgment into practical but morally costly triage.
+The Hong Kong football source adds a work-and-society case in which early professional sport remained partly semi-professional: paid players, signing fees, club wages, stable jobs arranged by corporate teams, and owner-control preferences all shaped labor and institutional identity. The broader topic continues to synthesize how work, education, care, creator labor, travel, and social institutions depend on practical routines, trust, incentives, and human judgment rather than formal labels alone. The Tong Li episode enters this topic only as a source-scoped public-education case: sex education is framed as life-course learning that needs safety, consent, law, relationship context, and age-appropriate boundaries rather than a fixed school-only information transfer. The SanWuHuan e-bike source adds a narrow founder-work case: investment knowledge changes when exposed to operator responsibility, overseas trust-building, team capability, service burden, and AI-native workflow redesign. Hanji 658 contributes a coercive-labor edge: monetary enforcement and collective punishment split households and convert ordinary people into forced service during late-Xin collapse. EP86 adds a work-and-learning workflow branch: task management, career bottlenecks, upward decisions, learning time, and creator production are framed as systems that need process diagnosis, WIP limits, slack, review, and feedback loops. The Luo Yonghao/Sixiao Comedy snobbery panel adds a work-and-society branch where limited attention, institutional slots, workplace hierarchy, and small-team management turn status judgment into practical but morally costly triage. The newer flaw-themed Luo Yonghao/Sixiao Comedy panel adds a source-scoped creator-work case where visible flaws can generate audience connection, while lateness, show preparation, public reviews, backlash, and rebuttal need responsibility and safety boundaries.
 
 ## Cross-source Findings
 
@@ -744,3 +744,14 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 - The source is an improvised live comedy panel, not a formal ethics, education-policy, labor-law, or organizational-behavior study.
 - School-admission, lifeboat, survival, company-crisis, and club-management scenarios are treated as dilemma tests rather than settled rules.
 - Guest biographies, Kaihua Club operations, and 王继业/王季叶 spelling remain source-scoped.
+
+### Flaw Panel Turns Imperfection Into Creator Work Boundary
+
+[[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg|The flaw-themed Luo Yonghao/Sixiao Comedy panel]] adds a creator-work boundary case: [[HumanImperfectionCreativeValue]] and [[LiveHumanFeeling]] show flaws becoming audience connection and performance material, while [[CreatorReviewResponseBoundary]] and [[CreatorEvaluationPressure]] keep lateness, show preparation, public reviews, online backlash, and public rebuttal tied to responsibility and safety rather than creator entitlement.
+
+**Evidence:** [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]], [[HumanImperfectionCreativeValue]], [[LiveHumanFeeling]], [[CreatorReviewResponseBoundary]], [[CreatorEvaluationPressure]], [[LuoYonghao]], [[SixiaoComedy]], [[CaoGuoStandup]], [[ShiLifen]], [[LinJianxinStandup]]
+
+**Qualifications:**
+
+- The source is a live comedy-panel conversation, not labor-policy, creator-economy, reputation-management, legal, or platform-governance research.
+- The page treats creator lateness, review disputes, online attack, and public rebuttal as source-scoped anecdotes rather than general rules for audiences or creators.

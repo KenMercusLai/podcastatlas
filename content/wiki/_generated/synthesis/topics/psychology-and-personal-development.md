@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-08
-as_of_overview_commit: 9ce16721dc0586ac415c50e1c7db5c59a7fbe0d7
-input_digest: beaffeb1736374675e2583fd72652e320896fd6efd9bee2ee0a9d68920df8b0f
+last_updated: 2026-09-09
+as_of_overview_commit: 40042440c0dd2ddfc9bd85ea421517ca2bcb5788
+input_digest: 4e5a963ea8cedeffc1504c5083e471303e99d71b32c546590e175ac2faa1d46a
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation. The Steve Says cluster now spans counselor letters, sex education, anxiety interviews, and Steve's own biography: psychological language can become self-punitive when it is detached from body and care, while self-understanding, vulnerability, and being seen can restore vitality when they remain bounded by consent, context, and clinical humility. Across the topic, body contact, emotional granularity, relational support, proportional responsibility, and concrete grounding practices help move pain from defective identity toward workable information. The Tong Li episode adds a sex-psychology branch: life-course sex education, nonjudgmental counseling boundaries, embodied self-knowledge, and relationship-context sexual function extend the same pattern into intimacy, shame, pleasure, responsibility, and male vulnerability. The AHA Creator paragraph remains a secondary work-judgment case: stronger AI can automate repeated workflow steps, but founders and customers still need field exposure, budget judgment, and final approval responsibility. The same ingest adds a relationship-psychology case: friend lending requires explicit boundaries around trust, capacity, repayment expectations, public visibility, and directness.
+Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation. The Steve Says cluster now spans counselor letters, sex education, anxiety interviews, and Steve's own biography: psychological language can become self-punitive when it is detached from body and care, while self-understanding, vulnerability, and being seen can restore vitality when they remain bounded by consent, context, and clinical humility. Across the topic, body contact, emotional granularity, relational support, proportional responsibility, and concrete grounding practices help move pain from defective identity toward workable information. The Tong Li episode adds a sex-psychology branch: life-course sex education, nonjudgmental counseling boundaries, embodied self-knowledge, and relationship-context sexual function extend the same pattern into intimacy, shame, pleasure, responsibility, and male vulnerability. The Luo Yonghao/Sixiao Comedy flaw panel adds a source-scoped boundary case: ADHD and compulsive-order labels can make flaws socially narratable, but diagnosis, medication, family pressure, and safety claims remain outside comedy evidence. The AHA Creator paragraph remains a secondary work-judgment case: stronger AI can automate repeated workflow steps, but founders and customers still need field exposure, budget judgment, and final approval responsibility. The same ingest adds a relationship-psychology case: friend lending requires explicit boundaries around trust, capacity, repayment expectations, public visibility, and directness.
 
 ## Cross-source Findings
 
@@ -886,3 +886,14 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 
 - The evidence comes from a staged live-panel conversation and should not be generalized into a universal friendship rule without stronger behavioral evidence.
 - Comedy framing and personal anecdotes make the boundary useful as a relational heuristic, not as legal, credit, or clinical advice.
+
+### Flaw Labels Need Diagnosis And Social Boundaries
+
+[[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg|The Luo Yonghao/Sixiao Comedy flaw panel]] adds a source-scoped psychology boundary case: [[ADHDSelfDiagnosisBoundary]] and [[OCDOrderPressure]] can make attention, order pressure, and imperfection narratable in live comedy, while [[HumanImperfectionCreativeValue]] and [[LiveHumanFeeling]] keep the value in recognizability rather than turning diagnosis labels, medication effects, family pressure, or safety risks into general advice.
+
+**Evidence:** [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]], [[ADHDSelfDiagnosisBoundary]], [[OCDOrderPressure]], [[HumanImperfectionCreativeValue]], [[LiveHumanFeeling]], [[LuoYonghao]], [[ShiLifen]], [[LinJianxinStandup]]
+
+**Qualifications:**
+
+- The source is an improvised comedy-panel episode rather than clinical, diagnostic, pharmacological, family-therapy, legal, or safety guidance.
+- ADHD medication effects, compulsive-order family impact, online doxxing, and creator rebuttal remain personal anecdotes bounded to the source.

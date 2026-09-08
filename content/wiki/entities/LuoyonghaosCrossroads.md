@@ -9,6 +9,7 @@ sources:
   - luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f
   - wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np
   - luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos
+  - lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg
 last_updated: 2026-09-09
 knowledge_schema: synthesis-v1
 ---
@@ -27,6 +28,8 @@ The money-and-debt panel shows the same group format handling a more uncomfortab
 
 The "势利" panel extends the live-comedy mode from money into social ethics. [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]] has Luo and Sixiao participants treat snobbery as value ranking across intelligence, taste, morality, opportunity, work, family, romance, and luxury goods. The show uses extreme dilemmas and everyday stories to make [[SnobberyAsValueRanking]], [[EthicalTriageUnderScarcity]], and [[DiamondRomanceMarketingTrap]] discussable without converting them into a formal philosophy seminar.
 
+The flaw-themed panel adds a public-persona and mental-health-label mode. [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]] moves from baldness and ADHD into compulsive order, family pressure, good and bad reviews, online backlash, doxxing, and "活人感." The show again uses jokes and mutual interrogation to keep uncomfortable material speakable while preserving source-scoped boundaries around diagnosis, treatment, family impact, and platform-safety claims.
+
 The show also has a film-history mode. Luo's questioning lets [[WongJing|王晶]] move from childhood reading and TVB writing discipline into [[HongKongFilmIndustry]], [[CommercialFilmAudienceLogic]], Taiwan-market dependence, gang pressure, piracy, northbound production, and the [[ActorAIPerformanceBoundary|actor and AI performance boundary]].
 
 ## Key Characteristics
@@ -35,7 +38,8 @@ The show also has a film-history mode. Luo's questioning lets [[WongJing|王晶]
 - Product-minded questioning about materials, pricing, reliability, technical systems, commercialization, channels, and customer fit.
 - Culture-facing format that can move between craft/art interpretation, industrial-company strategy, comedic social analysis, and film-industry oral history.
 - Live-panel format can use jokes, ads, audience interaction, mutual teasing, and persona contrast to make sensitive money, status, and moral topics discussable.
-- Source-scoped show page limited to six ingested episodes rather than the full program catalog.
+- Public-persona format that can turn flaws, diagnoses, visible appearance anxieties, and review pressure into social analysis without becoming formal clinical guidance.
+- Source-scoped show page limited to seven ingested episodes rather than the full program catalog.
 
 ## Evidence
 - Long-form creator interview: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] follows 手工耿 from childhood and manual work into self-media, business choices, tool use, safety incidents, and public evaluation.
@@ -45,8 +49,9 @@ The show also has a film-history mode. Luo's questioning lets [[WongJing|王晶]
 - Product-minded questioning: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] asks about materials and craft commercialization, while [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]] asks about vehicle configuration, platform coverage, lifetime warranty, marketing conversion, capital needs, and overseas channels.
 - Money-and-debt panel: [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]] uses Xianyu, Wang Jiye, Xiao Siye, Cao Wei, and Luo's stories to discuss borrowing, repayment, limited consumption, and public reputation.
 - Snobbery panel: [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]] uses Kuaige, Hulan, Wang Jiye, Xuanzong, and Luo's examples to discuss selective social investment, ethical triage, power boundaries, crisis communication, diamonds, Valentine's Day, and luxury signaling.
+- Flaw-themed panel: [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]] uses baldness, ADHD, compulsive order, public reviews, online backlash, and live-show preparation to discuss [[LiveHumanFeeling|活人感]] and the boundary between memorable imperfection and real harm.
 - Film-industry oral history: [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]] uses Wang Jing's career to discuss TVB, Shaw Brothers, Win's Entertainment, Taiwan demand, gang pressure, piracy, and AI-era film work.
-- Source scope: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]], [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]], [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]], and [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]] supply six episodes and do not define the whole program catalog.
+- Source scope: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]], [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]], [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]], [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]], and [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]] supply seven episodes and do not define the whole program catalog.
 
 ## Qualifications
 This page should not infer the show's full editorial mission, release cadence, audience, or business model from six episodes. The current evidence may overrepresent Luo's interest in product, craft, founder operating details, comedy-panel social analysis, money talk, moral dilemmas, consumption, and Hong Kong film history.
@@ -56,6 +61,7 @@ This page should not infer the show's full editorial mission, release cadence, a
 - Expanded the show profile from product/craft/founder interviewing and status analysis into relationship-money discussion.
 - Added the Wang Jing interview as evidence that the show can use long-form biography to build entertainment-industry oral history.
 - Added the "势利" live panel as evidence that the show can turn comedy dilemmas into moral, workplace, and consumption analysis.
+- Added the flaw-themed live panel as evidence that the show can use comedy to handle diagnosis labels, visible flaws, domestic pressure, and creator-review risk.
 
 ## Relationships
 - [[LuoYonghao]] - host and framing interviewer in the source.
@@ -66,11 +72,13 @@ This page should not infer the show's full editorial mission, release cadence, a
 - [[SixiaoComedy|四孝喜剧]] - live-comedy collaborator in the money-and-debt episode.
 - [[XianyuStandup|咸鱼]], [[WangJiye|王季叶]], [[XiaoSiye|小四爷]], and [[CaoWeiLuoyonghaoColleague|草薇]] - participant voices in the money-and-debt episode.
 - [[KuaigeStandup|快哥]], [[HulanStandup|呼兰]], [[WangJiye|王继业 / 王季叶]], and [[XuanZongStandup|选总]] - participant voices in the "势利" episode.
+- [[CaoGuoStandup|曹国]], [[ShiLifen|史礼芬]], and [[LinJianxinStandup|林简欣]] - participant voices in the flaw-themed episode.
 - [[WongJing|王晶]] - guest and main subject of the Hong Kong film-industry episode.
 - [[UselessInventionValue]] - recurring analytic thread in the 手工耿 conversation.
 - [[LeapmotorFullStackSelfResearch]] - recurring analytic thread in the Leapmotor conversation.
 - [[ZhuangbiAsSocialSignaling]] - recurring analytic thread in the comedy-panel conversation.
 - [[FriendLendingBoundary]] - recurring analytic thread in the live money-and-debt conversation.
 - [[SnobberyAsValueRanking]], [[EthicalTriageUnderScarcity]], and [[DiamondRomanceMarketingTrap]] - recurring analytic threads in the live "势利" conversation.
+- [[ADHDSelfDiagnosisBoundary]], [[OCDOrderPressure]], [[CreatorReviewResponseBoundary]], and [[LiveHumanFeeling]] - recurring analytic threads in the flaw-themed live conversation.
 - [[HongKongFilmIndustry]] - recurring analytic thread in the Wang Jing conversation.
 - [[CreatorCulture]] - adjacent wiki theme around creators as value-producing subjects.

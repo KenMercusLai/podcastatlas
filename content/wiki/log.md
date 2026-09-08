@@ -16283,3 +16283,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-09] ingest | 罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......
+
+Ingested the 2026-07-24 罗永浩的十字路口 and 四孝喜剧 panel on flaws, baldness, ADHD, compulsive order, family pressure, reviews, online backlash, and 活人感. Added source `lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg`; created `CaoGuoStandup`, `LinJianxinStandup`, `OCDOrderPressure`, and `CreatorReviewResponseBoundary`; updated `LuoYonghao`, `LuoyonghaosCrossroads`, `SixiaoComedy`, `ShiLifen`, `ADHDSelfDiagnosisBoundary`, `HumanImperfectionCreativeValue`, `LiveHumanFeeling`, `overview`, and `index`. No settled contradiction found; ADHD medication effects, hair-loss treatment, compulsive-order family impact, review behavior, doxxing, and public rebuttal remain source-scoped anecdotes rather than medical, legal, or relationship advice.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
