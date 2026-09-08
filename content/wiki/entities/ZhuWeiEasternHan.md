@@ -6,14 +6,17 @@ tags: [person, eastern-han, gengshi-regime, luoyang, surrender, clemency]
 sources:
   - zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb
   - zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii
-last_updated: 2026-09-02
+  - zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t
+last_updated: 2026-09-08
 ---
 
 ## Overview
 
-朱鲔 / Zhu Wei is a former Gengshi-aligned Luoyang defender whose current profile now runs from suspicion-driven violence and failed counterattack to eventual survival through surrender. [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] shows his camp decomposing after [[LiuXiu|刘秀]] exposes [[LiYiGengshiGeneral|李轶]]'s letters; [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] then shows Liu Xiu making Zhu Wei's surrender survivable to win [[LuoyangLateHan|洛阳]].
+朱鲔 / Zhu Wei is a former Gengshi-aligned Luoyang defender whose current profile now runs from advice to kill Liu Yan through suspicion-driven violence and failed counterattack to eventual survival through surrender. [[zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t|Hanji 665]] supplies the earliest layer: Zhu Wei urges [[LiuXuanGengshiEmperor|刘玄]] to bind and kill [[LiuYanLiuXiuBrother|刘縯]] quickly. [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] shows his camp decomposing after [[LiuXiu|刘秀]] exposes [[LiYiGengshiGeneral|李轶]]'s letters; [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] then shows Liu Xiu making Zhu Wei's surrender survivable to win [[LuoyangLateHan|洛阳]].
 
 ## Current Profile
+
+Hanji 665 supplies the earliest current exposure layer. Zhu Wei and Li Yi advise Liu Xuan that if Liu Yan is not bound and killed quickly, the court will not control him. Liu Xuan follows that advice after Liu Ji refuses summons, making Zhu Wei directly tied to Liu Yan's death before the later Luoyang surrender problem.
 
 Hanji 676 supplies the pre-surrender crisis. Zhu Wei learns that Li Yi has been corresponding with [[FengYiEasternHan|冯异]] and that Liu Xiu has circulated the letters to officials. Because Li Yi and Zhu Wei share exposure around the killing of Liu Xiu's elder brother, Zhu Wei treats the correspondence as a betrayal risk and sends people to kill Li Yi. The result is wider fear in Luoyang and a stronger surrender current.
 
@@ -24,7 +27,7 @@ Hanji 679 gives the later surrender layer. Zhu Wei holds Luoyang for Liu Xuan's 
 ## Key Characteristics
 
 - Luoyang defender whose camp is vulnerable to suspicion once Li Yi's correspondence is exposed.
-- Former enemy tied to Liu Yan's death, making both Li Yi's and Zhu Wei's choices politically dangerous.
+- Former enemy directly tied to advice for Liu Yan's death, making both Li Yi's and Zhu Wei's later choices politically dangerous.
 - Failed counterattacker whose Wen/Pingyin move deepens Luoyang's fear after Kou Xun and Feng Yi defeat it.
 - Luoyang holdout whose surrender transfers a major capital base to Liu Xiu.
 - Trust-test actor who requires both Liu Xiu's oath and Cen Peng's personal risk before submitting.
@@ -32,6 +35,7 @@ Hanji 679 gives the later surrender layer. Zhu Wei holds Luoyang for Liu Xuan's 
 
 ## Evidence
 
+- Liu Yan execution advice: [[zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t|Hanji 665]] says Zhu Wei and Li Yi urge Liu Xuan to bind and kill Liu Yan before he becomes uncontrollable.
 - Suspicion against Li Yi: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says Zhu Wei sends people to kill Li Yi after learning of Li Yi's letters.
 - Luoyang panic: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says the letter-exposure and killing attempt make Luoyang fearful and push many toward surrender.
 - Wen/Pingyin defeat: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says Zhu Wei sends Su Mao and Jia Qiang against Wen, attacks Pingyin himself, then flees after Kou Xun and Feng Yi counterattack.
@@ -41,16 +45,17 @@ Hanji 679 gives the later surrender layer. Zhu Wei holds Luoyang for Liu Xuan's 
 
 ## Qualifications
 
-This page remains bounded to Hanji 676 and Hanji 679. Hanji 676 is ASR-sensitive around Zhu Wei/朱伟, Li Yi/李毅, river naming, and Jia Qiang; the wiki normalizes Zhu Wei as 朱鲔 and Li Yi as 李轶 in this early Guangwu context. The evidence supports a sequence from suspicion and defeat to surrender, not a claim that Liu Xiu forgave every former enemy without constraint.
+This page remains bounded to Hanji 665, Hanji 676, and Hanji 679. Hanji 665 supports Zhu Wei's role in advice to kill Liu Yan, but the exact court deliberation and Liu Ji pretext remain source-scoped. Hanji 676 is ASR-sensitive around Zhu Wei/朱伟, Li Yi/李毅, river naming, and Jia Qiang; the wiki normalizes Zhu Wei as 朱鲔 and Li Yi as 李轶 in this early Guangwu context. The evidence supports a sequence from execution exposure through suspicion and defeat to surrender, not a claim that Liu Xiu forgave every former enemy without constraint.
 
 ## What Changed
 
-- Added Hanji 676 as Zhu Wei's pre-surrender crisis: Li Yi suspicion, Luoyang panic, and failed Wen/Pingyin pressure.
-- Reframed Hanji 679's clemency as the later resolution of a crisis already made worse by suspicion and military failure.
+- Added Hanji 665 as Zhu Wei's earliest current exposure layer in the advice to kill Liu Yan.
+- Preserved Hanji 676 as Zhu Wei's pre-surrender crisis and Hanji 679's clemency as the later resolution of a crisis already made worse by suspicion and military failure.
 
 ## Relationships
 
 - [[LiuXiu|光武帝刘秀]] - ruler whose letter exposure destabilizes Zhu Wei's camp and whose later promise makes Zhu Wei's surrender survivable.
+- [[LiuYanLiuXiuBrother|刘縯]] - Gengshi merit figure whose killing makes Zhu Wei's later surrender fearful.
 - [[LiYiGengshiGeneral|李轶]] - exposed associate whose correspondence with Feng Yi triggers Zhu Wei's suspicion and killing attempt.
 - [[FengYiEasternHan|冯异]] - opponent whose correspondence channel and battlefield counterstrike pressure Zhu Wei before surrender.
 - [[KouXunEasternHan|寇恂]] - allied opponent who breaks Zhu Wei's Wen branch through Su Mao's defeat.

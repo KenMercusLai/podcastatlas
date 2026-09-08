@@ -30459,9 +30459,9 @@
       "url": "/wiki/entities/gongsunkanglatehan/"
     },
     "GongsunShuEasternHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！ [lv6555L99it33GW34uYDsz4tKBjE].md",
@@ -30532,9 +30532,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？ [liAuC3K3OmnzQU09dQicXifJXy1T].md",
+          "key": "zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-08",
       "url": "/wiki/entities/gongsunshueasternhan/"
     },
     "GongsunXuLateHan": {
@@ -42238,9 +42245,9 @@
       "url": "/wiki/entities/liyieasternhan/"
     },
     "LiYiGengshiGeneral": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末 [luEbQLiVSTmkJAqqfdlCUKxTnmii].md",
@@ -42248,9 +42255,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
           "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？ [liAuC3K3OmnzQU09dQicXifJXy1T].md",
+          "key": "zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-08",
       "url": "/wiki/entities/liyigengshigeneral/"
     },
     "LiYingLateHan": {
@@ -44402,9 +44416,9 @@
       "url": "/wiki/entities/liuxiaoweimarketing/"
     },
     "LiuXiu": {
-      "episode_count": 34,
+      "episode_count": 35,
       "show_count": 2,
-      "source_note_count": 34,
+      "source_note_count": 35,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
@@ -44643,15 +44657,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？ [liAuC3K3OmnzQU09dQicXifJXy1T].md",
+          "key": "zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t/"
         }
       ],
-      "updated": "2026-09-03",
+      "updated": "2026-09-08",
       "url": "/wiki/entities/liuxiu/"
     },
     "LiuXuanGengshiEmperor": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》680丨命丧赤眉！这位起义皇帝埋骨何处？ [lurTvFqErB0VF3A33msmd_TxR9Pv].md",
@@ -44729,6 +44750,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》664丨昆阳之战：决定国运的历史转折点",
           "url": "/wiki/sources/zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？ [liAuC3K3OmnzQU09dQicXifJXy1T].md",
+          "key": "zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t/"
         }
       ],
       "updated": "2026-09-08",
@@ -44834,9 +44862,9 @@
       "url": "/wiki/entities/liuyanfulingkingeasternhan/"
     },
     "LiuYanLiuXiuBrother": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》664丨昆阳之战：决定国运的历史转折点 [lihRWAwP4x1w1pn4Aibdohq4_L_4].md",
@@ -44844,6 +44872,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》664丨昆阳之战：决定国运的历史转折点",
           "url": "/wiki/sources/zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？ [liAuC3K3OmnzQU09dQicXifJXy1T].md",
+          "key": "zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t/"
         }
       ],
       "updated": "2026-09-08",
@@ -57478,9 +57513,9 @@
       "url": "/wiki/concepts/postimperialidentitygap/"
     },
     "PostRestorationMeritThreat": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》81丨历史早期PUA记实录（2） [lpKSu7523UT_skPMxxH9e-TcBZ0K].md",
@@ -57509,9 +57544,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》715丨史上最智慧的一次夺权",
           "url": "/wiki/sources/zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？ [liAuC3K3OmnzQU09dQicXifJXy1T].md",
+          "key": "zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/postrestorationmeritthreat/"
     },
     "PostSuccessArrogance": {
@@ -68503,9 +68545,9 @@
       "url": "/wiki/concepts/strategicdefectorincorporation/"
     },
     "StrategicEmotionConcealment": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存 [lmhJwOsY4EsWyHfpPDGHfsMfycQr].md",
@@ -68541,9 +68583,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》844丨如何立于不败之地？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？ [liAuC3K3OmnzQU09dQicXifJXy1T].md",
+          "key": "zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-08",
       "url": "/wiki/concepts/strategicemotionconcealment/"
     },
     "StrategicEnduranceMilitaryCommand": {
@@ -71497,9 +71546,9 @@
       "url": "/wiki/entities/tengyanlatehan/"
     },
     "TerminalMandateSelfDeception": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？ [lrjUrgJZVwEzkppvGeUpu6orMMzW].md",
@@ -71507,6 +71556,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？ [liAuC3K3OmnzQU09dQicXifJXy1T].md",
+          "key": "zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t/"
         }
       ],
       "updated": "2026-09-08",
@@ -76073,9 +76129,9 @@
       "url": "/wiki/entities/wangliangeasternhan/"
     },
     "WangMang": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -76111,6 +76167,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》664丨昆阳之战：决定国运的历史转折点",
           "url": "/wiki/sources/zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？ [liAuC3K3OmnzQU09dQicXifJXy1T].md",
+          "key": "zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t/"
         }
       ],
       "updated": "2026-09-08",
@@ -85410,9 +85473,9 @@
       "url": "/wiki/entities/zhumulatehan/"
     },
     "ZhuWeiEasternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》679丨朱鲔杀害刘秀哥哥，为何仍能善终？ [lqnS6KTyM8RGv3y5TlCzCYfYZxdb].md",
@@ -85427,9 +85490,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末",
           "url": "/wiki/sources/zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？ [liAuC3K3OmnzQU09dQicXifJXy1T].md",
+          "key": "zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》665丨他不死，刘秀也难当皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-08",
       "url": "/wiki/entities/zhuweieasternhan/"
     },
     "ZhuWeiLegalScholar": {

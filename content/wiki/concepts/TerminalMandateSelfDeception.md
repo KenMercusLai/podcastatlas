@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [legitimacy, political-psychology, ritual, collapse, xin-dynasty]
 sources:
   - zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw
+  - zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t
 last_updated: 2026-09-08
 ---
 
@@ -16,6 +17,8 @@ Terminal mandate self-deception / 末路天命自我催眠 is the collapse-stage
 
 [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] grounds the concept in [[WangMang|王莽]]'s final palace retreat before the Jian Terrace death narrated in Hanji 667. The episode first establishes that ordinary political supports have collapsed: commanders are defeated or flee, pardoned prisoners scatter, local offices surrender, Wang-family tombs and ritual buildings are attacked, Chang'an is breached, and [[WeiyangPalace|未央宫]] burns.
 
+The penultimate ritual branch shows mandate self-deception before the final palace scene. After Kunyang, Wang Mang faces internal abduction-surrender plotting, a purge inside his own elite, continued regional risings, and shrinking command confidence. His southern-suburb response turns collapse into scripted lament: he eats porridge, reads a self-pitying document, recruits thousands to cry, and rewards skilled criers with office.
+
 Against that reality, Wang Mang moves deeper into ritual self-description. He retreats to palace spaces, dresses in a sky-blue robe, holds a jade dagger, follows an astronomy official's divination about where to sit, and repeats that Heaven gave virtue to him, so Han troops can do nothing to him. The episode reads this as self-narrative failure: Wang Mang does not see himself as the villain of the story, but as the Heaven-backed center even after the surrounding order has disappeared.
 
 The concept is narrower than ordinary [[MandateOfHeavenLegitimacy|mandate of Heaven legitimacy]]. It names a late failure mode of mandate language: instead of testing rule against people, capacity, counsel, and events, the ruler uses sacred phrasing to avoid recognizing defeat.
@@ -23,6 +26,7 @@ The concept is narrower than ordinary [[MandateOfHeavenLegitimacy|mandate of Hea
 ## Key Claims
 
 - Mandate language can become defensive self-narration when defeat has already become practically visible.
+- Ritual lament can become a substitute for restoring command when collapse is already inside the ruler's own coalition.
 - Ritual position and divination can give a ruler a feeling of order even when command and palace control are gone.
 - The pattern depends on a gap between symbolic confidence and material evidence, not merely on private religious belief.
 - Collapse is harder to read when a ruler's identity requires seeing himself as Heaven-backed and morally central.
@@ -30,6 +34,7 @@ The concept is narrower than ordinary [[MandateOfHeavenLegitimacy|mandate of Hea
 
 ## Evidence
 
+- Penultimate ritual lament: [[zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t|Hanji 665]] says Wang Mang answers internal conspiracy, purge, and regional risings with a southern-suburb crying ritual, porridge, and appointments for effective criers.
 - Material collapse: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] says Wang Mang's commanders fail, emergency prisoner mobilization scatters, Chang'an is breached, and Weiyang Palace burns.
 - Ritual retreat: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] says Wang Mang retreats into palace spaces rather than restoring practical command.
 - Divination-directed posture: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] says he follows an astronomy official's instruction about where to sit while wearing sky-blue clothing and holding a jade dagger.
@@ -38,11 +43,11 @@ The concept is narrower than ordinary [[MandateOfHeavenLegitimacy|mandate of Hea
 
 ## Counterevidence & Qualifications
 
-This concept should not be used to dismiss all ritual, omen, or mandate politics as irrational. Other wiki pages treat Heaven language, chenwei, auspicious signs, and ritual as political technologies that can shape real coordination. Hanji 666 supports a narrower judgment: at Wang Mang's end, sacred posture no longer supplies coordination, legitimacy, or protection; it functions as self-protection against recognizing collapse. The exact ritual protocol, astronomical instruction, and final inner psychology remain source-scoped.
+This concept should not be used to dismiss all ritual, omen, or mandate politics as irrational. Other wiki pages treat Heaven language, chenwei, auspicious signs, and ritual as political technologies that can shape real coordination. Hanji 665 and Hanji 666 support a narrower judgment: at Wang Mang's end, sacred posture and scripted lament no longer supply coordination, legitimacy, or protection; they function as self-protection against recognizing collapse. The exact ritual protocol, astronomical instruction, crying selection, and final inner psychology remain source-scoped.
 
 ## What Changed
 
-- Created from Hanji 666 to preserve Wang Mang's final mandate-and-divination posture as a distinct collapse-stage pattern.
+- Added Hanji 665 as the penultimate ritual-lament branch before Hanji 666's final mandate-and-divination posture.
 
 ## Related Concepts
 

@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi
   - zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks
   - zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z
-last_updated: 2026-08-28
+  - zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t
+last_updated: 2026-09-08
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ Strategic emotion concealment / 情绪不外露的战略纪律 is the discipline
 ## Current Synthesis
 
 The current synthesis treats emotion concealment as a political and organizational skill, not as emotional numbness. [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]] gives the cleanest statement: emotion may fluctuate, but behavior cannot lose control. The host ties that discipline to "城府" in high-risk environments, where clear purpose, sensitivity to danger, and self-command matter before a person acts.
+
+The imperial-founding branch adds a sharper survival case. After [[LiuYanLiuXiuBrother|Liu Yan]] is executed by [[LiuXuanGengshiEmperor|Liu Xuan]]'s court, [[LiuXiu|Liu Xiu]] survives by refusing public grief, grievance, or Kunyang credit. His inner emotion is not denied; the strategic point is that visible mourning could identify him as the next threat.
 
 [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] makes anger the office-survival example: visible rage narrows judgment and lets opponents read the actor's state. [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]] makes the discipline more explicit through The Godfather's family/outside-people contrast and through late-Han cases where open correction is dangerous, measured submission can preserve life, and long revenge can organize concealed emotion into harm.
 
@@ -35,11 +38,12 @@ The concept therefore sits between ordinary [[EmotionRegulationToolkit|emotion r
 - Anger is especially risky in political or workplace conflict because it can narrow judgment and advertise the actor's state.
 - In command settings, fear becomes strategically dangerous when it turns into visible flight, refusal of advice, or loss of morale.
 - A leader's visible composure can be an operational tool when subordinates are reading the leader's body and voice for permission to panic or stay.
-- Restraint can preserve future agency, as in survival and withdrawal cases where open dignity would create greater danger.
+- Restraint can preserve future agency, as in survival and withdrawal cases where open grief, anger, pride, or dignity would create greater danger.
 - The same discipline can also intensify revenge when emotion is hidden, organized, and later released through planning.
 
 ## Evidence
 
+- Founder survival restraint: [[zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t|Hanji 665]] says Liu Xiu does not publicly mourn Liu Yan, claim Kunyang merit, or display resentment after Liu Yan's execution, thereby avoiding becoming Liu Xuan's next target.
 - Command panic and flight: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] says Ma Mu, Liu Du, and Li Su flee under southern rebellion pressure, making fear visible as organizational retreat.
 - Violent refusal of correction: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] says Li Su kills Hu Shuang when Hu tries to stop his flight, showing panic moving from self-protection into attack on corrective advice.
 - Stabilizing counterexamples: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] contrasts those failures with Huangfu Gui restoring morale in an epidemic-hit army and Feng Gun managing campaign accusation risk before victory.
@@ -52,10 +56,11 @@ The concept therefore sits between ordinary [[EmotionRegulationToolkit|emotion r
 
 ## Counterevidence & Qualifications
 
-The concept should not be turned into a universal rule against expression. In lower-stakes relationships, visible emotion can communicate boundaries, grief, care, or injustice. The late-Han sources apply the discipline to dangerous hierarchy, court politics, military command, and hostile organizational settings where visible feeling can become actionable information for stronger actors or a direct cause of command collapse.
+The concept should not be turned into a universal rule against expression. In lower-stakes relationships, visible emotion can communicate boundaries, grief, care, or injustice. Hanji 665 is specifically a lethal court-suspicion case, not a denial that Liu Xiu grieved Liu Yan. The late-Han sources apply the discipline to dangerous hierarchy, court politics, military command, and hostile organizational settings where visible feeling can become actionable information for stronger actors or a direct cause of command collapse.
 
 ## What Changed
 
+- Added Hanji 665 as a founder-survival case where Liu Xiu's refusal to display grief or merit after Liu Yan's execution preserves future agency.
 - Added Hanji 856 as a command-panic case where fear becomes flight, violence against advice, or restored morale depending on the actor.
 - Added Hanji 844 as a command-composure case where Zhang Huan's public calm steadies panicked troops before action.
 - Extended the synthesis from anger, survival, and revenge into military-organizational self-command.
@@ -65,6 +70,8 @@ The concept should not be turned into a universal rule against expression. In lo
 
 - [[EmotionRegulationToolkit|情绪调节工具箱]] - broader non-political frame for managing emotional reactions.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - survival frame in which emotion concealment protects future agency.
+- [[LiuXiu|刘秀]] - historical case where grief concealment after Liu Yan's execution becomes survival discipline.
+- [[PostRestorationMeritThreat|复国功臣威胁化]] - adjacent danger field because Liu Yan's merit made visible attachment risky for Liu Xiu.
 - [[WorldlyPoliticalCultivation|入世政治修行]] - adjacent idea that court danger can become a discipline of timing, concealment, and action.
 - [[ConcealedCapabilityTiming|藏器待时]] - related timing concept for hiding capability until action is useful.
 - [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] - adjacent morale concept when a commander's conduct stabilizes people under strain.
