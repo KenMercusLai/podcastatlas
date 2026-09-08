@@ -17979,9 +17979,9 @@
       "url": "/wiki/entities/dengxuneasternhan/"
     },
     "DengYuEasternHan": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-1丨历史所遗忘的帝王：治世明君刘庄 [loR7vhZzPWz1rv9tiKjSoGuKJqvr].md",
@@ -18059,9 +18059,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》671丨你的领导是否值得追随？进来对比下",
           "url": "/wiki/sources/zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》668丨中国古代百大武将：东汉之寇恂 [lhtaucVM7GQnFXFePo2OuAwsg3-5].md",
+          "key": "zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》668丨中国古代百大武将：东汉之寇恂",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5/"
         }
       ],
-      "updated": "2026-09-03",
+      "updated": "2026-09-08",
       "url": "/wiki/entities/dengyueasternhan/"
     },
     "DengZhiLateHan": {
@@ -40154,9 +40161,9 @@
       "url": "/wiki/entities/kouronglatehan/"
     },
     "KouXunEasternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？ [lukNoR8YW839QWxOGeyZwLUO6Qe2].md",
@@ -40199,9 +40206,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》671丨你的领导是否值得追随？进来对比下",
           "url": "/wiki/sources/zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》668丨中国古代百大武将：东汉之寇恂 [lhtaucVM7GQnFXFePo2OuAwsg3-5].md",
+          "key": "zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》668丨中国古代百大武将：东汉之寇恂",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5/"
         }
       ],
-      "updated": "2026-09-03",
+      "updated": "2026-09-08",
       "url": "/wiki/entities/kouxuneasternhan/"
     },
     "KrugerNationalPark": {
@@ -61573,6 +61587,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/restaurantsupplychainlocalization/"
     },
+    "RestoredRegimePromiseCredibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》668丨中国古代百大武将：东汉之寇恂 [lhtaucVM7GQnFXFePo2OuAwsg3-5].md",
+          "key": "zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》668丨中国古代百大武将：东汉之寇恂",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5/"
+        }
+      ],
+      "updated": "2026-09-08",
+      "url": "/wiki/concepts/restoredregimepromisecredibility/"
+    },
     "RetailDisplayAsBrandSurface": {
       "episode_count": 2,
       "show_count": 2,
@@ -75517,9 +75547,9 @@
       "url": "/wiki/entities/wangkanglatehan/"
     },
     "WangLangHebeiClaimant": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -75562,9 +75592,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》669丨算命先生靠忽悠也能当上皇帝？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》668丨中国古代百大武将：东汉之寇恂 [lhtaucVM7GQnFXFePo2OuAwsg3-5].md",
+          "key": "zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》668丨中国古代百大武将：东汉之寇恂",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5/"
         }
       ],
-      "updated": "2026-09-03",
+      "updated": "2026-09-08",
       "url": "/wiki/entities/wanglanghebeiclaimant/"
     },
     "WangLiangEasternHan": {

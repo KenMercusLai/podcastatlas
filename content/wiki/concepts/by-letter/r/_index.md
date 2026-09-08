@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6707
+wiki_total_pages: 6708
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -488,6 +488,9 @@ wiki_pages:
   - key: "RestorativeCreativePacing"
     title: "Restorative Creative Pacing"
     url: "/wiki/concepts/restorativecreativepacing/"
+  - key: "RestoredRegimePromiseCredibility"
+    title: "Restored Regime Promise Credibility / 复国政权承诺信用"
+    url: "/wiki/concepts/restoredregimepromisecredibility/"
   - key: "RestoredRoyalFigureheadLegitimacy"
     title: "Restored Royal Figurehead Legitimacy / 复国王室名义合法性"
     url: "/wiki/concepts/restoredroyalfigureheadlegitimacy/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2239
+topic_total_pages: 2240
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2647,6 +2647,9 @@ topic_concepts:
   - key: "ResponsibilityVsGuilt"
     title: "Responsibility Versus Guilt / 责任与罪行区分"
     url: "/wiki/concepts/responsibilityvsguilt/"
+  - key: "RestoredRegimePromiseCredibility"
+    title: "Restored Regime Promise Credibility / 复国政权承诺信用"
+    url: "/wiki/concepts/restoredregimepromisecredibility/"
   - key: "RevolutionaryTerrorPolitics"
     title: "Revolutionary Terror Politics / 革命恐怖政治"
     url: "/wiki/concepts/revolutionaryterrorpolitics/"

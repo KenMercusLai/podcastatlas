@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》668丨中国古代百大武将：东汉之寇恂](sources/zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5.md) — Gengshi 1-2 / 23-24 CE backfill on Kou Xun's Shanggu seal-return credibility intervention, Liu Xiu's Hebei order-building, Deng Yu's early allegiance and Liu Xuan critique, and Wang Lang's rumor-tested Liu Ziyu claim.
 - [王晶×罗永浩！谁还记得大导演张彻楚原？我死了什么都不需要留下](sources/wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np.md) — 罗永浩的十字路口 interview with Wang Jing on Hong Kong film's TVB talent pipeline, Taiwan market base, commercial genre logic, gang pressure, piracy, northbound production, and AI-era performance limits.
 - [史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者](sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn.md) — 史蒂夫说 interview with Jiang Tao on Anding Hospital psychiatry, adolescent school refusal, diagnostic-label caution, workforce shortage, crisis boundaries, and regular care.
 - [No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚](sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht.md) — 三五环 interview with Cheng/Chen Hongning on moving from investment work into 宇宙 E-Bike, premium electric-assist bicycle positioning, operating realism, and founder-led AI-native manufacturing.
@@ -2489,7 +2490,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kailas / 凯乐石](entities/Kailas.md) — Chinese outdoor brand using Fuga, Chamonix retail, race sponsorship, and athlete credibility to enter Europe's trail-running market.
 - [Fuga](entities/Fuga.md) — Kailas-linked trail-running brand or product line used as the source's overseas market-entry wedge.
 - [Miniso / 名创优品](entities/Miniso.md) — Chinese retail company using large IP-heavy stores, emotional-value products, and slower overseas openings as a store-model quality test.
-- [寇恂 / Kou Xun (Eastern Han)](entities/KouXunEasternHan.md) — Guangwu-era commander whose profile now joins Shanggu-Yuyang allegiance brokerage, Henei rear-base logistics, Wen county emergency defense, Yingchuan law, popular pacification, and Gaoping forced surrender.
+- [寇恂 / Kou Xun (Eastern Han)](entities/KouXunEasternHan.md) — Guangwu-era commander whose profile now begins with Shanggu seal-return promise credibility before Shanggu-Yuyang allegiance brokerage, Henei logistics, Wen defense, Yingchuan law, popular pacification, and Gaoping forced surrender.
 - [高峻 / Gao Jun (Eastern Han)](entities/GaoJunEasternHan.md) — Wei Xiao-aligned holdout at Gaoping whose surrender follows Kou Xun's execution of Huangfu Wen.
 - [皇甫文 / Huangfu Wen (Eastern Han)](entities/HuangfuWenEasternHan.md) — Gao Jun's adviser and envoy whose killing becomes Hanji 709's "上兵伐谋" example.
 - [祭遵 / Ji Zun (Eastern Han)](entities/JiZunEasternHan.md) — Guangwu commander whose current profile starts with ruler-household military-law enforcement before western victory, disciplined command, and posthumous praise pressure.
@@ -2652,7 +2653,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [寿光侯刘李 / Liu Li, Shouguang Marquis (Eastern Han)](entities/LiuLiShouguangMarquisEasternHan.md) — Liu Xuan's son whose guest-backed killing of Liu Gong triggers Guangwu's prince-guest crackdown.
 - [阴识 / Yin Shi (Eastern Han)](entities/YinShiEasternHan.md) — Yin-family maternal relative who refuses added fief, models careful conduct, and later becomes the kinship candidate checked by public tutor-selection criteria.
 - [张义 / Zhang Yi (Eastern Han)](entities/ZhangYiEasternHan.md) — Doctor-scholar who turns crown-prince tutor selection from maternal-family convenience into a realm-serving appointment.
-- [邓禹 / Deng Yu (Eastern Han)](entities/DengYuEasternHan.md) — Founding commander-minister whose arc now starts with 德才-over-territory leadership judgment and Wu Han recommendation before Hangu delegation, Hedong pressure, Guanzhong command, Chimei setbacks, Shunyang victory, and later honors.
+- [邓禹 / Deng Yu (Eastern Han)](entities/DengYuEasternHan.md) — Founding commander-minister whose arc now starts with non-office-seeking allegiance and Gengshi critique before 德才-over-territory judgment, Wu Han recommendation, Hangu delegation, Hedong pressure, Guanzhong command, Chimei setbacks, Shunyang victory, and later honors.
 - [刘盆子 / Liu Penzi (Eastern Han)](entities/LiuPenziEasternHan.md) — Chimei figurehead selected through shamanic and lottery legitimacy whose fear, palace disorder, failed abdication, and spared surrender expose title without command.
 - [王闳 / Wang Hong (Eastern Han)](entities/WangHongEasternHan.md) — Liu Xuan-appointed Langya governor whose mandate-backed personal confrontation makes Zhang Bu yield commandery affairs despite military weakness.
 - [伏隆 / Fu Long (Eastern Han)](entities/FuLongEasternHan.md) — Guangwu envoy whose Zhang Bu mission fails after he rejects a Qi-holding offer and sends Liu Xiu a death-ready secret memorial.
@@ -8066,7 +8067,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [耿况 / Geng Kuang (Eastern Han)](entities/GengKuangEasternHan.md) — Geng Yan's father and northern military-family power broker whose Shanggu alignment, refusal to join Peng Chong, and court-service signal help stabilize Youzhou loyalty.
 - [耿国 / Geng Guo (Eastern Han)](entities/GengGuoEasternHan.md) — Geng-family figure whose wiki role now spans a court-service loyalty signal and Guangwu-era Southern Xiongnu buffer-policy advice.
 - [彭宠 / Peng Chong (Eastern Han)](entities/PengChongEasternHan.md) — Former Liu Xiu-side Yuyang actor whose initial Wang Lang-era support later becomes reward grievance before Yan claim, Geng-family loyalty testing, and household betrayal.
-- [王郎 / Wang Lang (Hebei Claimant)](entities/WangLangHebeiClaimant.md) — Hebei claimant whose pursuit of Liu Xiu, Xindu pressure, Shanggu/Yuyang contests, Julu relief failure, and Handan defeat redirect northern actors and create the letter-burning trust test.
+- [王郎 / Wang Lang (Hebei Claimant)](entities/WangLangHebeiClaimant.md) — Hebei claimant whose false Liu Ziyu story, Red Eyebrows rumor testing, pursuit of Liu Xiu, Xindu pressure, northern contests, Julu relief failure, and Handan defeat redirect northern actors and create the letter-burning trust test.
 - [张步 / Zhang Bu (Eastern Han)](entities/ZhangBuEasternHan.md) — Qi/Langya adversary whose profile spans Wang Hong's mandate-backed Langya challenge, Liu Yong's title lure, Fu Long's failed mission, Linzi battlefield vulnerability, controlled surrender, and later failed flight.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's breakout, reinforcements, morale tactics, and later legendary mandate layer exposed the gap between Xin grandeur and usable capacity.
 - [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Xin-collapse uprising whose current arc spans westward cohesion pressure, Hongnong merger, Gengshi defeats, pre-entry Chang'an pressure, Liu Penzi's lottery enthronement, Changle Palace disorder, Chang'an destruction, Guanzhong famine, and surrender to Liu Xiu.
@@ -11326,6 +11327,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Restored Regime Promise Credibility / 复国政权承诺信用](concepts/RestoredRegimePromiseCredibility.md) — Hanji 668 pattern where restored-regime authority depends on honoring concrete surrender promises, shown by Kou Xun forcing the Gengshi envoy to return Geng Kuang's seal.
 - [Hong Kong Film Industry / 香港电影工业](concepts/HongKongFilmIndustry.md) — Production, talent, financing, distribution, genre, star, and market system made concrete through Wang Jing's career account.
 - [Commercial Film Audience Logic / 商业片观众逻辑](concepts/CommercialFilmAudienceLogic.md) — View that professional commercial films must attract paying audiences through genre payoff, emotion, stars, pacing, and risk control.
 - [TVB Talent Pipeline / TVB 人才输送机制](concepts/TVBTalentPipeline.md) — Television-to-film training mechanism that supplied writers, actors, comedy craft, and production discipline to Hong Kong cinema.

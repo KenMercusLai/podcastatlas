@@ -10,16 +10,19 @@ sources:
   - zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii
   - zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh
   - zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv
-last_updated: 2026-09-03
+  - zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5
+last_updated: 2026-09-08
 ---
 
 ## Overview
 
-寇恂 / Kou Xun is a Guangwu-era commander and official whose current profile now begins with Shanggu allegiance brokerage before [[LiuXiu|刘秀]]'s Hebei victory is secure, then continues through [[HeneiCommandery|河内郡]] rear-base logistics, emergency defense of Wen county, local legal enforcement, conflict de-escalation, hard surrender coercion, and trust-based pacification. [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]] supplies the earliest current alignment layer; [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]] supplies the appointment-and-logistics layer; [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] supplies the first battlefield layer; Hanji 686, Hanji 707, and Hanji 709 then show law, public trust, and forced-surrender judgment.
+寇恂 / Kou Xun is a Guangwu-era commander and official whose current profile now begins with a Shanggu promise-credibility intervention under the Gengshi regime, then continues through Shanggu allegiance brokerage before [[LiuXiu|刘秀]]'s Hebei victory is secure, [[HeneiCommandery|河内郡]] rear-base logistics, emergency defense of Wen county, local legal enforcement, conflict de-escalation, hard surrender coercion, and trust-based pacification. [[zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5|Hanji 668]] supplies the earliest current seal-return and [[RestoredRegimePromiseCredibility|restored-regime promise credibility]] layer; [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]] supplies the later Liu Xiu alignment layer; [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]] supplies the appointment-and-logistics layer; [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] supplies the first battlefield layer; Hanji 686, Hanji 707, and Hanji 709 then show law, public trust, and forced-surrender judgment.
 
 ## Current Profile
 
-Hanji 671 supplies Kou Xun's earliest current layer as an allegiance broker in Shanggu. After [[GengYanEasternHan|Geng Yan]] returns to his father [[GengKuangEasternHan|Geng Kuang]] during the Wang Lang crisis, Kou Xun and Min Ye advise Geng Kuang to prefer Liu Xiu because Handan's future is uncertain and Liu Xiu treats worthy people respectfully. Kou Xun then proposes linking Shanggu to Yuyang, negotiates with [[PengChongEasternHan|Peng Chong]], returns to Shanggu, and leads troops south with [[JingDanEasternHan|Jing Dan]] and Geng Yan before Liu Xiu rewards the arriving commanders.
+Hanji 668 supplies Kou Xun's earliest current layer before Liu Xiu's independent Hebei coalition is visible. In Shanggu, a Gengshi envoy accepts [[GengKuangEasternHan|Geng Kuang]]'s seal under Liu Xuan's promise that early submitters can keep or recover office, then delays returning it. Kou Xun treats this as a regime-credibility crisis: if the first local surrender is met with broken faith, other commanderies and kingdoms will stop trusting the restored court's promises. He brings troops, argues the point, uses the envoy's name to summon Geng Kuang, and personally returns the seal.
+
+Hanji 671 supplies Kou Xun's later current layer as an allegiance broker in Shanggu. After [[GengYanEasternHan|Geng Yan]] returns to his father [[GengKuangEasternHan|Geng Kuang]] during the Wang Lang crisis, Kou Xun and Min Ye advise Geng Kuang to prefer Liu Xiu because Handan's future is uncertain and Liu Xiu treats worthy people respectfully. Kou Xun then proposes linking Shanggu to Yuyang, negotiates with [[PengChongEasternHan|Peng Chong]], returns to Shanggu, and leads troops south with [[JingDanEasternHan|Jing Dan]] and Geng Yan before Liu Xiu rewards the arriving commanders.
 
 Hanji 674 supplies Kou Xun's rear-area layer. Deng Yu recommends him for Henei, and Liu Xiu appoints him Henei taishou with acting dajiangjun authority. The source says Liu Xiu compares entrusting Henei to Kou Xun with Gaozu entrusting Guanzhong to Xiao He, while Kou Xun gathers grain and manufactures weapons for the wider campaign field.
 
@@ -33,16 +36,18 @@ Hanji 709 gives Kou Xun two connected profiles. He discourages Liu Xiu from pers
 
 ## Key Characteristics
 
-- Allegiance broker who helps move Shanggu and Yuyang toward Liu Xiu before Hebei victory is secure.
+- Promise-credibility enforcer who protects the Gengshi surrender policy by making the envoy return Geng Kuang's seal.
+- Allegiance broker who later helps move Shanggu and Yuyang toward Liu Xiu before Hebei victory is secure.
 - Rear-area administrator entrusted with Henei grain and weapons before later emergency defense of Wen county.
 - Battlefield morale operator who uses Feng Yi's arriving relief as information pressure against Su Mao.
 - Yingchuan administrator who publicly executes a murderer protected by Jia Fu's command prestige.
-- De-escalator who avoids personal combat with Jia Fu while preserving the legal result.
-- Local stabilizer whose presence helps convert opportunistic bandit disorder into surrender.
+- De-escalator and local stabilizer whose presence helps convert interpersonal conflict and opportunistic disorder into order.
 - Gaoping adviser and hard coercive negotiator whose forced-surrender method ranges beyond ordinary persuasion.
 
 ## Evidence
 
+- Seal-return intervention: [[zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5|Hanji 668]] says Kou Xun brings troops to the Gengshi envoy, argues that commanderies and kingdoms are watching whether promises are honored, and returns Geng Kuang's seal himself.
+- Regime credibility stakes: [[zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5|Hanji 668]] frames the seal problem as damage to Liu Xuan's pacification policy rather than a private quarrel over Geng Kuang's status.
 - Shanggu judgment: [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]] says Kou Xun and Min Ye advise Geng Kuang to follow Liu Xiu because Handan's prospects are uncertain and Liu Xiu treats worthies respectfully.
 - Yuyang brokerage: [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]] says Kou Xun negotiates with Peng Chong over Shanggu-Yuyang cavalry and infantry support.
 - Southward coalition: [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]] says Kou Xun returns to Shanggu and leads troops south with Jing Dan and Geng Yan before Liu Xiu rewards them.
@@ -59,12 +64,13 @@ Hanji 709 gives Kou Xun two connected profiles. He discourages Liu Xiu from pers
 
 ## Qualifications
 
-This page is bounded to the listed source notes and does not reconstruct Kou Xun's full career. Hanji 671 supplies the Shanggu-Yuyang allegiance layer but keeps Min Ye, Ge Yan, exact force counts, county sequences, and title mechanics source-scoped. Hanji 674 supplies the appointment, Henei logistics, and Xiao-He comparison layer but keeps exact office scope and grain/weapon quantities source-scoped. Hanji 676 is ASR-sensitive around river, county, and Jia Qiang forms; it supports Kou Xun's rapid defense and morale use but not a full independent campaign map. Huangfu Wen's killing remains an extreme forced-surrender case, not a general rule that envoys or advisers can be killed without strategic or moral cost. The transcript form 寇勋 is normalized to 寇恂.
+This page is bounded to the listed source notes and does not reconstruct Kou Xun's full career. Hanji 668 supplies the Shanggu seal-return layer but keeps the envoy's name, exact procedural authority, and broader Gengshi appointment map source-scoped. Hanji 671 supplies the Shanggu-Yuyang allegiance layer but keeps Min Ye, Ge Yan, exact force counts, county sequences, and title mechanics source-scoped. Hanji 674 supplies the appointment, Henei logistics, and Xiao-He comparison layer but keeps exact office scope and grain/weapon quantities source-scoped. Hanji 676 is ASR-sensitive around river, county, and Jia Qiang forms; it supports Kou Xun's rapid defense and morale use but not a full independent campaign map. Huangfu Wen's killing remains an extreme forced-surrender case, not a general rule that envoys or advisers can be killed without strategic or moral cost. The transcript form 寇勋 is normalized to 寇恂.
 
 ## What Changed
 
-- Added Hanji 671 as Kou Xun's earliest current layer: Shanggu advice, Yuyang brokerage, and southward coalition movement toward Liu Xiu.
-- Added Hanji 674 as Kou Xun's earliest current layer: Deng Yu's recommendation, Liu Xiu's Henei appointment, Xiao-He-like rear trust, grain stockpiling, and weapons production.
+- Added Hanji 668 as Kou Xun's earliest current layer: Shanggu seal-return intervention and promise-credibility enforcement under the Gengshi regime.
+- Preserved Hanji 671 as the later Shanggu advice, Yuyang brokerage, and southward coalition movement toward Liu Xiu.
+- Preserved Hanji 674 as Deng Yu's recommendation, Liu Xiu's Henei appointment, Xiao-He-like rear trust, grain stockpiling, and weapons production.
 - Preserved Hanji 676 as the first battlefield layer: Wen county defense, Henei screening, and morale-timed attack against Su Mao.
 - Reframed Kou Xun as a flexible stabilizer whose methods include rear-area logistics, urgent battlefield defense, public law enforcement, hospitality-based conflict control, local pacification, and hard surrender coercion.
 
@@ -72,6 +78,7 @@ This page is bounded to the listed source notes and does not reconstruct Kou Xun
 
 - [[LiuXiu|光武帝刘秀]] - ruler whom Kou Xun serves, advises, represents at Gaoping, and relies on for command-discipline settlement.
 - [[GengKuangEasternHan|耿况]] - Shanggu power holder whom Kou Xun advises toward Liu Xiu in Hanji 671.
+- [[RestoredRegimePromiseCredibility|复国政权承诺信用]] - concept grounded by Kou Xun's earlier effort to make the Gengshi envoy honor Liu Xuan's surrender promise to Geng Kuang.
 - [[PengChongEasternHan|彭宠]] - Yuyang power holder whom Kou Xun contacts to build the northern coalition.
 - [[JingDanEasternHan|景丹]] - Shanggu commander who moves south with Kou Xun and Geng Yan.
 - [[LeaderWorthFollowingAssessment|值得追随的领导判断]] - concept directly grounded by Kou Xun's evaluation of Liu Xiu versus Handan.

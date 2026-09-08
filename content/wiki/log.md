@@ -15964,6 +15964,10 @@ Ingested the 2026-06-21 博物志 episode on Hangzhou Museum's “意味杭之�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-08] ingest | 《资治通鉴·汉纪》668丨中国古代百大武将：东汉之寇恂
+
+Ingested the 2026-06-10 芮淇讲透资治通鉴 episode backfilling the Gengshi 1-2 / 23-24 CE setup before Hanji 669. Added source `zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5`; created `RestoredRegimePromiseCredibility`; updated `KouXunEasternHan`, `DengYuEasternHan`, `WangLangHebeiClaimant`, `index`, and `overview`. No settled contradiction found; Han Hong, Fan Chong, Liu Ci, Liu Lin, Li Yu, Zhang Can, exact offices, force counts, and local rumor channels remain source-scoped.
+
 ## [2026-09-08] ingest | 史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者
 
 Ingested the 2026-06-17 史蒂夫说 interview with Beijing Anding Hospital psychiatrist Jiang Tao on 《安定此心》, psychiatric work routines, schizophrenia recovery limits, mental-illness destigmatization, adolescent school refusal, family treatment, psychiatry-psychotherapy collaboration, workforce shortage, crisis boundaries, ADHD/NPD label caution, and informal healing-service scam risk. Added source `shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn`; created `AndingCiXinBook`, `AdolescentSchoolRefusalMentalHealth`, `ChinaPsychiatricWorkforceGap`, `PsychiatryPsychotherapyCollaboration`, `MentalHealthHelpSeekingScamRisk`, and `PsychiatricProfessionalBoundary`; updated `JiangTaoPsychiatrist`, `BeijingAndingHospital`, `PsychiatricFunctionalDiagnosis`, `MentalIllnessDestigmatization`, `SeriousMentalIllnessFamilyCareBoundary`, `ADHDSelfDiagnosisBoundary`, `index`, and `overview`. No settled contradiction found; the source corrects the psychiatrist's displayed surname from `江涛` to `姜涛` while preserving the stable page route, and all clinical content remains public psychoeducation rather than individualized diagnosis, medication, hospitalization, therapy, or crisis guidance.
@@ -16075,6 +16079,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-08] ingest | 怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房
 
 Ingested the 2026-09-07 声动早咖啡 business-news episode on C'estbon pure-water share pressure, Maya Active's fitness-space strategy, Aura/Oura smart-ring subscriptions, DeepZ's reported Huawei-chip procurement, Foxconn AI servers, Volkswagen restructuring, Maserati-Huawei-JAC cooperation talks, credit-card contraction, and Aesop China retail reallocation. Added source `yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578`; created `Cestbon`, `MayaActive`, `PureFitness`, `AesopBeauty`, `HuaweiAscend950DT`, `Huabei`, `JDWhiteBar`, `BottledWaterChannelFragmentation`, `SportswearExperienceSpace`, `SmartRingHardwareSubscription`, `CreditCardScaleContraction`, and `BeautyRetailNetworkReallocation`; updated `PackagedWaterPriceWar`, `DeepZ`, `FoxconnIndustrialInternet`, `VolkswagenGroup`, `Stellantis`, `Maserati`, `AntaSports`, `OuraRing`, `index`, and `overview`. No settled contradiction found; the Aura/Oura spelling, chip order, IPO filing, share data, job-cut totals, and cooperation talks remain source-scoped.
+
+## [2026-09-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-08] lint | Wiki health check
 
