@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6750
+wiki_total_pages: 6760
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -440,6 +440,9 @@ wiki_pages:
   - key: "AGIThreeActs"
     title: "AGI Three Acts"
     url: "/wiki/concepts/agithreeacts/"
+  - key: "AgileSprintPersonalWorkflow"
+    title: "Agile Sprint Personal Workflow"
+    url: "/wiki/concepts/agilesprintpersonalworkflow/"
   - key: "AgingRealityEstrangement"
     title: "Aging Reality Estrangement"
     url: "/wiki/concepts/agingrealityestrangement/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6750
+wiki_total_pages: 6760
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "FlowEnvironmentDesign"
     title: "Flow Environment Design"
     url: "/wiki/concepts/flowenvironmentdesign/"
+  - key: "FlowMasterPersonalWorkflow"
+    title: "Flow Master Personal Workflow"
+    url: "/wiki/concepts/flowmasterpersonalworkflow/"
   - key: "FlowClutchLearningDistinction"
     title: "Flow-Clutch Learning Distinction"
     url: "/wiki/concepts/flowclutchlearningdistinction/"

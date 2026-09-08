@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6750
+wiki_total_pages: 6760
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1811,6 +1811,9 @@ wiki_pages:
   - key: "CriticalMineralsGeopolitics"
     title: "Critical Minerals Geopolitics"
     url: "/wiki/concepts/criticalmineralsgeopolitics/"
+  - key: "CriticalPathMethodPersonalPlanning"
+    title: "Critical Path Method Personal Planning"
+    url: "/wiki/concepts/criticalpathmethodpersonalplanning/"
   - key: "CropCircleDebunking"
     title: "Crop Circle Debunking"
     url: "/wiki/concepts/cropcircledebunking/"

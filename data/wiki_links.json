@@ -3791,6 +3791,10 @@
     "title": "Aggregate Indicators Lived Experience Gap",
     "url": "/wiki/concepts/aggregateindicatorslivedexperiencegap/"
   },
+  "AgileSprintPersonalWorkflow": {
+    "title": "Agile Sprint Personal Workflow",
+    "url": "/wiki/concepts/agilesprintpersonalworkflow/"
+  },
   "AgilityRobotics": {
     "title": "Agility Robotics",
     "url": "/wiki/entities/agilityrobotics/"
@@ -8822,6 +8826,10 @@
   "BulletCommentCommunity": {
     "title": "Bullet Comment Community / 弹幕共同体",
     "url": "/wiki/concepts/bulletcommentcommunity/"
+  },
+  "BullwhipEffectInformationAmplification": {
+    "title": "Bullwhip Effect Information Amplification",
+    "url": "/wiki/concepts/bullwhipeffectinformationamplification/"
   },
   "Bump": {
     "title": "Bump",
@@ -13942,6 +13950,10 @@
   "CriticalMineralsGeopolitics": {
     "title": "Critical Minerals Geopolitics",
     "url": "/wiki/concepts/criticalmineralsgeopolitics/"
+  },
+  "CriticalPathMethodPersonalPlanning": {
+    "title": "Critical Path Method Personal Planning",
+    "url": "/wiki/concepts/criticalpathmethodpersonalplanning/"
   },
   "Crocs": {
     "title": "Crocs",
@@ -20854,6 +20866,10 @@
   "FlowEnvironmentDesign": {
     "title": "Flow Environment Design",
     "url": "/wiki/concepts/flowenvironmentdesign/"
+  },
+  "FlowMasterPersonalWorkflow": {
+    "title": "Flow Master Personal Workflow",
+    "url": "/wiki/concepts/flowmasterpersonalworkflow/"
   },
   "FlowerOfScotland": {
     "title": "Flower of Scotland",
@@ -32583,6 +32599,10 @@
     "title": "League Stakeholder Alignment",
     "url": "/wiki/concepts/leaguestakeholderalignment/"
   },
+  "LeanStartupFeedbackLoop": {
+    "title": "Lean Startup Feedback Loop",
+    "url": "/wiki/concepts/leanstartupfeedbackloop/"
+  },
   "LeanTheoremProver": {
     "title": "Lean Theorem Prover",
     "url": "/wiki/entities/leantheoremprover/"
@@ -41551,6 +41571,10 @@
     "title": "兵贵神速式长线突破 / Operational Tempo Breakthrough",
     "url": "/wiki/concepts/operationaltempobreakthrough/"
   },
+  "OperationsManagementWorkflow": {
+    "title": "Operations Management Workflow",
+    "url": "/wiki/concepts/operationsmanagementworkflow/"
+  },
   "OperatorSubsidizedHandsets": {
     "title": "Operator-Subsidized Handsets",
     "url": "/wiki/concepts/operatorsubsidizedhandsets/"
@@ -46462,6 +46486,10 @@
   "QueerSafetyRetreat": {
     "title": "Queer Safety Retreat / 少数群体安全退让",
     "url": "/wiki/concepts/queersafetyretreat/"
+  },
+  "QueueingTheorySlack": {
+    "title": "Queueing Theory Slack",
+    "url": "/wiki/concepts/queueingtheoryslack/"
   },
   "QuickFax": {
     "title": "QuickFax",
@@ -55971,6 +55999,10 @@
     "title": "Theoretical Operating Standard / 理论上该有的样子",
     "url": "/wiki/concepts/theoreticaloperatingstandard/"
   },
+  "TheoryOfConstraintsPersonalWorkflow": {
+    "title": "Theory of Constraints for Personal Workflow",
+    "url": "/wiki/concepts/theoryofconstraintspersonalworkflow/"
+  },
   "Theranos": {
     "title": "Theranos",
     "url": "/wiki/entities/theranos/"
@@ -56886,6 +56918,10 @@
   "Toyota": {
     "title": "Toyota / 丰田",
     "url": "/wiki/entities/toyota/"
+  },
+  "ToyotaProductionSystemPersonalWaste": {
+    "title": "Toyota Production System Personal Waste",
+    "url": "/wiki/concepts/toyotaproductionsystempersonalwaste/"
   },
   "TraceEvidenceForensics": {
     "title": "Trace Evidence Forensics",
@@ -58846,6 +58882,10 @@
   "WICFormulaContracting": {
     "title": "WIC Formula Contracting",
     "url": "/wiki/concepts/wicformulacontracting/"
+  },
+  "WIPLimitPersonalProductivity": {
+    "title": "WIP Limit Personal Productivity",
+    "url": "/wiki/concepts/wiplimitpersonalproductivity/"
   },
   "WIPR": {
     "title": "WIPR",
@@ -67082,6 +67122,10 @@
   "ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a": {
     "title": "EP85 营销管理：Mini MBA 第一课",
     "url": "/wiki/sources/ep85-yingxiao-guanli-gkwrimaoomq-bvejtas8o50a/"
+  },
+  "ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k": {
+    "title": "EP86 颠覆工作流，效率提升3000%",
+    "url": "/wiki/sources/ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k/"
   },
   "ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj": {
     "title": "EP86 面子、底子、日子：财报只讲这三件事",

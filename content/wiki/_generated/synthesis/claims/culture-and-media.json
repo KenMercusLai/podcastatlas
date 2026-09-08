@@ -158,8 +158,27 @@
         "IndividualizedRiskResponsibility",
         "NextChanceYouthOptionality"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "long-form-business-podcasts-make-frameworks-durable-media",
+      "qualifications": [
+        "The claim is about media form and explanatory translation, not proof that the episode's advice works for all listeners.",
+        "The productivity multiplier and company examples remain source-scoped framing."
+      ],
+      "statement": "[[ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k|EP86]] extends the culture-and-media map through [[ZongHengSiHai]]: a long-form business podcast can make [[OperationsManagementWorkflow]], [[TheoryOfConstraintsPersonalWorkflow]], [[WIPLimitPersonalProductivity]], and [[LeanStartupFeedbackLoop]] legible by turning management-school concepts into concrete personal and organizational examples.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k",
+        "ZongHengSiHai",
+        "OperationsManagementWorkflow",
+        "TheoryOfConstraintsPersonalWorkflow",
+        "WIPLimitPersonalProductivity",
+        "LeanStartupFeedbackLoop",
+        "PodcastProductionWorkflow"
+      ]
     }
   ],
-  "summary": "Culture and media sources currently treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translation tools, youth-risk norms, and heritage routes do not merely carry content; they decide what becomes legible, intimate, durable, cautious, or playable. Across the topic, durable cultural value appears when medium, material form, audience practice, and interpretation are designed together, while source-scoped limits remain around forecasts, exact commercial metrics, adaptation judgments, youth-demographic generalization, and technical capability claims. Episode 227 adds a precautionary-culture layer: platform evidence, digital memory, individualized risk, and weakened second-chance confidence can become cultural form, not just private anxiety.",
+  "summary": "Culture and media sources currently treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translation tools, youth-risk norms, and heritage routes do not merely carry content; they decide what becomes legible, intimate, durable, cautious, or playable. Across the topic, durable cultural value appears when medium, material form, audience practice, and interpretation are designed together, while source-scoped limits remain around forecasts, exact commercial metrics, adaptation judgments, youth-demographic generalization, and technical capability claims. Episode 227 adds a precautionary-culture layer: platform evidence, digital memory, individualized risk, and weakened second-chance confidence can become cultural form, not just private anxiety. EP86 adds a media-form case for long explanatory podcasts: management frameworks become durable listening material when a show uses structure, examples, and personal translation to make abstract operations concepts legible.",
   "topic_id": "culture-and-media"
 }

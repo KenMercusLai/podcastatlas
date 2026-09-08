@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-09] ingest | EP86 颠覆工作流，效率提升3000%
+
+Ingested the 2026-08-29 纵横四海 Mini MBA episode on using operations management to redesign work and life workflows. Added source `ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k`; created `OperationsManagementWorkflow`, `TheoryOfConstraintsPersonalWorkflow`, `WIPLimitPersonalProductivity`, `QueueingTheorySlack`, `CriticalPathMethodPersonalPlanning`, `BullwhipEffectInformationAmplification`, `ToyotaProductionSystemPersonalWaste`, `AgileSprintPersonalWorkflow`, `FlowMasterPersonalWorkflow`, and `LeanStartupFeedbackLoop`; updated `ZongHengSiHai`, `index`, and `overview`. No settled contradiction found; the title's productivity multiplier, historical examples, company cases, and personal workflow claims remain source-scoped.
+
 ## [2026-09-09] ingest | 《欢迎来龙餐馆》《空枪》说明中国电影还处理不了复杂政治问题
 
 Ingested the 2026-08-30 电影巨辩 episode on 《欢迎来龙餐馆》 and 《空枪》 as technically mature but politically constrained attempts by mainland Chinese commercial cinema to enter Iraq-war and Hong Kong-1997 contexts. Added source `huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1`; created `WenMuye`, `HanYanDirector`, `WelcomeToLailongRestaurant`, `KongqiangFilm`, `ZhangZiqiang`, `IraqWar`, `WolfWarrior2`, `CrossContextPoliticalCinema`, `EverydayHumanitarianismInWarFilm`, `GreaterBayAreaCinema`, and `HongKongHandoverTeleology`; updated `DianyingJubian`, `StrangerHospitalityEthics`, `HongKongFilmIndustry`, `CommercialFilmAudienceLogic`, `index`, and `overview`. No settled contradiction found; creator intent, censorship pressure, audience reception, Hong Kong historical self-understanding, and the films' real-world referents remain source-scoped.
@@ -16231,6 +16235,10 @@ Ingested the 2026-09-08 这病说来话长 World First Aid Day episode with 阿�
 ## [2026-09-09] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 18,117 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, one fragile bridge (`entities/CatholicChurch` -> `concepts/ReligiousControlledSubstanceExemption`), and no isolated communities. Semantic LiteLLM lint did not complete because no provider-qualified `LLM_MODEL` or provider API key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

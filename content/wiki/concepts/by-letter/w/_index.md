@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6750
+wiki_total_pages: 6760
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "WinnerCurse"
     title: "Winner's Curse"
     url: "/wiki/concepts/winnercurse/"
+  - key: "WIPLimitPersonalProductivity"
+    title: "WIP Limit Personal Productivity"
+    url: "/wiki/concepts/wiplimitpersonalproductivity/"
   - key: "WisdomOverIntelligence"
     title: "Wisdom Over Intelligence / 智慧稀缺论"
     url: "/wiki/concepts/wisdomoverintelligence/"

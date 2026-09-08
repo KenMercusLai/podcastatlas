@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "adff47fc0ad6edbdbfa1cae8035aeef6e6a622f6a3172c363ec418fe5912d983",
       "4a668cc2e01ca2d1623402a34fc0d217ca031493b1455fdce9e73c949b649e5d",
       "993a336b4cbfa8e8effe11c6197e41d99a7a73bf3a265ebb4fa9939bda3f4928",
       "1c134906278438e00e83ff37918f4d10dd50edd72acc03ce0b6dda825da3d7a8",
@@ -597,11 +598,46 @@
       "08ce087b5036dedcaf145e2c88ca51ea2070e265e9815cfe93ea1755ee057d3f",
       "6701e8b392caf729c79e1e660e6d138d48a06b0d176497dfeb0b07df834cfc04"
     ],
-    "paragraph_count": 595
+    "paragraph_count": 596
   },
-  "overview_commit": "85a3d5543618717ec523fc3956623b1e4336e4bf",
-  "overview_digest": "6ce8c18271e9fc2de25fb9508ff7549ff3c8c958fec681116ca0d29ec2c519bd",
+  "overview_commit": "9941494294ea2128454364abc51e4e289e1fd534",
+  "overview_digest": "52c1c6f8d2df3d1d9e2f159694626f089043e2da9ac39f42bb432748761afe94",
   "paragraphs": [
+    {
+      "id": "adff47fc0ad6edbdbfa1cae8035aeef6e6a622f6a3172c363ec418fe5912d983",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "culture-and-media",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k|EP86 颠覆工作流，效率提升3000%]], a [[ZongHengSiHai]] Mini MBA episode translating operations management into personal and organizational workflow design. It adds [[OperationsManagementWorkflow]], [[TheoryOfConstraintsPersonalWorkflow]], [[WIPLimitPersonalProductivity]], [[QueueingTheorySlack]], [[CriticalPathMethodPersonalPlanning]], [[BullwhipEffectInformationAmplification]], [[ToyotaProductionSystemPersonalWaste]], [[AgileSprintPersonalWorkflow]], [[FlowMasterPersonalWorkflow]], and [[LeanStartupFeedbackLoop]], while extending [[PodcastProductionWorkflow]], [[ConstraintDrivenMediaProduction]], [[UpwardManagement]], [[ValidatedLearning]], [[JankyMVP]], and [[FastProductValidation]]. Its core synthesis is that output comes from systems rather than goals alone: bottlenecks, WIP, queueing slack, critical paths, information distortion, waste removal, sprint review, and low-cost validation determine whether effort becomes finished work. No settled contradiction is recorded; the episode's numerical productivity claim and named historical examples remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "culture-and-media": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AgileSprintPersonalWorkflow",
+        "BullwhipEffectInformationAmplification",
+        "ConstraintDrivenMediaProduction",
+        "CriticalPathMethodPersonalPlanning",
+        "FastProductValidation",
+        "FlowMasterPersonalWorkflow",
+        "JankyMVP",
+        "LeanStartupFeedbackLoop",
+        "OperationsManagementWorkflow",
+        "PodcastProductionWorkflow",
+        "QueueingTheorySlack",
+        "TheoryOfConstraintsPersonalWorkflow",
+        "ToyotaProductionSystemPersonalWaste",
+        "UpwardManagement",
+        "ValidatedLearning",
+        "WIPLimitPersonalProductivity",
+        "ZongHengSiHai",
+        "ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k"
+      ]
+    },
     {
       "id": "4a668cc2e01ca2d1623402a34fc0d217ca031493b1455fdce9e73c949b649e5d",
       "primary_topic": "history-and-geopolitics",

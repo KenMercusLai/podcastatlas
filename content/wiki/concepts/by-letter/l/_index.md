@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6750
+wiki_total_pages: 6760
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "LeagueStakeholderAlignment"
     title: "League Stakeholder Alignment"
     url: "/wiki/concepts/leaguestakeholderalignment/"
+  - key: "LeanStartupFeedbackLoop"
+    title: "Lean Startup Feedback Loop"
+    url: "/wiki/concepts/leanstartupfeedbackloop/"
   - key: "LeanVersusCleanBubblePolicy"
     title: "Lean Versus Clean Bubble Policy"
     url: "/wiki/concepts/leanversuscleanbubblepolicy/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 6750
+wiki_total_pages: 6760
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "QueerSafetyRetreat"
     title: "Queer Safety Retreat / 少数群体安全退让"
     url: "/wiki/concepts/queersafetyretreat/"
+  - key: "QueueingTheorySlack"
+    title: "Queueing Theory Slack"
+    url: "/wiki/concepts/queueingtheoryslack/"
   - key: "QuietAIAdoptionDeparture"
     title: "Quiet AI Adoption Departure"
     url: "/wiki/concepts/quietaiadoptiondeparture/"

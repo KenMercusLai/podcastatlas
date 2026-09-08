@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-09
-as_of_overview_commit: 8bc79b5a2ed91a304ff0fa6ed8f6e05c2eb43404
-input_digest: 1f1d913a499f5f62ceae7d93679eb0d0fbf8b31811f8291bfe8b21e35dbe8f9b
+as_of_overview_commit: 9941494294ea2128454364abc51e4e289e1fd534
+input_digest: 32816bddc6faffd87644c3bdf9bb2dbf4571b53c2129e46be11f46fb0c541c50
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The Hong Kong football source adds a work-and-society case in which early professional sport remained partly semi-professional: paid players, signing fees, club wages, stable jobs arranged by corporate teams, and owner-control preferences all shaped labor and institutional identity. The broader topic continues to synthesize how work, education, care, creator labor, travel, and social institutions depend on practical routines, trust, incentives, and human judgment rather than formal labels alone. The Tong Li episode enters this topic only as a source-scoped public-education case: sex education is framed as life-course learning that needs safety, consent, law, relationship context, and age-appropriate boundaries rather than a fixed school-only information transfer. The SanWuHuan e-bike source adds a narrow founder-work case: investment knowledge changes when exposed to operator responsibility, overseas trust-building, team capability, service burden, and AI-native workflow redesign. Hanji 658 contributes a coercive-labor edge: monetary enforcement and collective punishment split households and convert ordinary people into forced service during late-Xin collapse.
+The Hong Kong football source adds a work-and-society case in which early professional sport remained partly semi-professional: paid players, signing fees, club wages, stable jobs arranged by corporate teams, and owner-control preferences all shaped labor and institutional identity. The broader topic continues to synthesize how work, education, care, creator labor, travel, and social institutions depend on practical routines, trust, incentives, and human judgment rather than formal labels alone. The Tong Li episode enters this topic only as a source-scoped public-education case: sex education is framed as life-course learning that needs safety, consent, law, relationship context, and age-appropriate boundaries rather than a fixed school-only information transfer. The SanWuHuan e-bike source adds a narrow founder-work case: investment knowledge changes when exposed to operator responsibility, overseas trust-building, team capability, service burden, and AI-native workflow redesign. Hanji 658 contributes a coercive-labor edge: monetary enforcement and collective punishment split households and convert ordinary people into forced service during late-Xin collapse. EP86 adds a work-and-learning workflow branch: task management, career bottlenecks, upward decisions, learning time, and creator production are framed as systems that need process diagnosis, WIP limits, slack, review, and feedback loops.
 
 ## Cross-source Findings
 
@@ -721,3 +721,14 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 **Qualifications:**
 
 - The work-and-society relevance is limited to forced labor and household separation; detailed legal mechanics and casualty ratios remain source-scoped.
+
+### Personal Workflow Output Depends On Designed Systems
+
+[[ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k|EP86]] adds that personal and workplace output depend on designed systems: [[FlowMasterPersonalWorkflow]] uses [[TheoryOfConstraintsPersonalWorkflow]], [[WIPLimitPersonalProductivity]], [[QueueingTheorySlack]], [[CriticalPathMethodPersonalPlanning]], and [[AgileSprintPersonalWorkflow]] to diagnose task overload, career bottlenecks, upward decision delays, learning neglect, and creator production friction.
+
+**Evidence:** [[ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k]], [[FlowMasterPersonalWorkflow]], [[TheoryOfConstraintsPersonalWorkflow]], [[WIPLimitPersonalProductivity]], [[QueueingTheorySlack]], [[CriticalPathMethodPersonalPlanning]], [[AgileSprintPersonalWorkflow]], [[UpwardManagement]], [[PodcastProductionWorkflow]]
+
+**Qualifications:**
+
+- This is a source-scoped work-and-self-management synthesis, not individualized career, mental-health, or productivity advice.
+- Some work systems need parallel WIP, external dependencies, or specialist support that the episode only treats at a framework level.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP86 颠覆工作流，效率提升3000%](sources/ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k.md) — 纵横四海 Mini MBA episode translating operations management into personal and organizational workflow design through constraints, WIP, queues, critical paths, bullwhip effects, TPS, agile, and Lean Startup feedback.
 - [《欢迎来龙餐馆》《空枪》说明中国电影还处理不了复杂政治问题](sources/huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1.md) — 电影巨辩 episode on mainland Chinese commercial cinema's difficulty handling Iraq-war politics, ordinary humanitarianism, Hong Kong crime-film inheritance, 1997 teleology, and Greater Bay Area-era film rewriting.
 - [181.这轮规模空前的中国制造业出海背后｜线下活动实录](sources/181-zhe-lun-guimo-kongqian-de-zhongguo-zhizaoye-chuhai-beihou-xianxia-huodong-shilu-lmkuwy-rlsjtpsjelotovauwyr0.md) — 起朱楼宴宾客 live Guangzhou discussion on Chinese manufacturing overseas expansion, domestic capacity pressure, host-country backlash, localization, outbound profit transmission, and investor due diligence.
 - [The Silicon Valley hopefuls living in hacker houses](sources/tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128.md) — Marketplace Tech episode with Kenji Yamamoto on The Dreamers and I, Startup Embassy, crowded Silicon Valley hacker houses, immigrant founder persistence, neighborhood tension, and mission-driven startup housing.
@@ -2099,7 +2100,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yuri / 尤栗 / 优瑞](entities/UreyVirtualIdol.md) — AI-native virtual idol and digital singer built through multi-model music, image, video, voice, and personality-system workflow.
 - [AI Talk](entities/AITalk.md) — Hanqing's early synthetic virtual-conversation project and training ground before the shift toward original AI-native IP.
 - [Omni-Human](entities/OmniHuman.md) — Model named in the Yuri source as enabling more expressive AI singing and virtual-idol performance.
-- [纵横四海 / Zong Heng Si Hai](entities/ZongHengSiHai.md) — Chinese long-form podcast represented by a Mini MBA marketing episode and Melody's account of heavy script labor, structured explanation, and durable multi-hour listening.
+- [纵横四海 / Zong Heng Si Hai](entities/ZongHengSiHai.md) — Chinese long-form podcast represented by Mini MBA marketing and operations-management episodes plus Melody's account of heavy script labor, structured explanation, and durable multi-hour listening.
 - [Tom Nuttall](entities/TomNuttall.md) — The Intelligence participant reporting from AfD's Saxony-Anhalt election-night party and explaining the post-election arithmetic.
 - [Bündnis Sahra Wagenknecht / BSW](entities/BundnisSahraWagenknecht.md) — Populist-left German party that becomes a possible Saxony-Anhalt kingmaker after AfD's large plurality.
 - [Sven Schulze](entities/SvenSchulze.md) — CDU Saxony-Anhalt premier whose weakened incumbent position anchors the caretaker-stalemate scenario.
@@ -11390,6 +11391,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Operations Management Workflow](concepts/OperationsManagementWorkflow.md) — Process-view frame translating operations management into personal and organizational workflow design.
+- [Theory of Constraints for Personal Workflow](concepts/TheoryOfConstraintsPersonalWorkflow.md) — Bottleneck-first workflow method for improving total output rather than local speed.
+- [WIP Limit Personal Productivity](concepts/WIPLimitPersonalProductivity.md) — Little's Law-based practice of reducing started-but-unfinished tasks to shorten cycle time and mental load.
+- [Queueing Theory Slack](concepts/QueueingTheorySlack.md) — Capacity-buffer logic for random demand, calendar design, and batched interruptions.
+- [Critical Path Method Personal Planning](concepts/CriticalPathMethodPersonalPlanning.md) — Dependency-mapping method for finding tasks that determine total project duration.
+- [Bullwhip Effect Information Amplification](concepts/BullwhipEffectInformationAmplification.md) — Supply-chain, organizational, and personal pattern where small signals are exaggerated or muted across layers.
+- [Toyota Production System Personal Waste](concepts/ToyotaProductionSystemPersonalWaste.md) — TPS-inspired personal workflow frame for waste removal, pull, Jidoka, Andon, and continuous improvement.
+- [Agile Sprint Personal Workflow](concepts/AgileSprintPersonalWorkflow.md) — Personal short-cycle planning, delivery, review, and retrospective method adapted from agile and Scrum.
+- [Flow Master Personal Workflow](concepts/FlowMasterPersonalWorkflow.md) — Personal process-owner role that diagnoses workflow friction instead of turning every delay into self-blame.
+- [Lean Startup Feedback Loop](concepts/LeanStartupFeedbackLoop.md) — MVP, validated-learning, and pivot loop used to test assumptions before large commitments.
 - [Cross-Context Political Cinema / 跨语境政治电影](concepts/CrossContextPoliticalCinema.md) — Film problem of entering another society's war, history, ideology, or political order from an outside viewpoint without flattening complexity.
 - [Everyday Humanitarianism In War Film / 战争片世俗人道主义](concepts/EverydayHumanitarianismInWarFilm.md) — War-film move that elevates food, children, family, survival, and ordinary labor into humane values that may not replace political analysis.
 - [Greater Bay Area Cinema / 大湾区电影](concepts/GreaterBayAreaCinema.md) — Frame for films that reprocess Hong Kong genre inheritance from a mainland or post-integration Greater Bay Area standpoint.

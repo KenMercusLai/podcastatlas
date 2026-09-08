@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6750
+wiki_total_pages: 6760
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "TheoreticalOperatingStandard"
     title: "Theoretical Operating Standard / 理论上该有的样子"
     url: "/wiki/concepts/theoreticaloperatingstandard/"
+  - key: "TheoryOfConstraintsPersonalWorkflow"
+    title: "Theory of Constraints for Personal Workflow"
+    url: "/wiki/concepts/theoryofconstraintspersonalworkflow/"
   - key: "TherapeuticDefenseWork"
     title: "Therapeutic Defense Work / 治疗中的防御工作"
     url: "/wiki/concepts/therapeuticdefensework/"
@@ -485,6 +488,9 @@ wiki_pages:
   - key: "ToyInventorLicensingPath"
     title: "Toy Inventor Licensing Path"
     url: "/wiki/concepts/toyinventorlicensingpath/"
+  - key: "ToyotaProductionSystemPersonalWaste"
+    title: "Toyota Production System Personal Waste"
+    url: "/wiki/concepts/toyotaproductionsystempersonalwaste/"
   - key: "TPUPodSystemOptimization"
     title: "TPU Pod System Optimization"
     url: "/wiki/concepts/tpupodsystemoptimization/"

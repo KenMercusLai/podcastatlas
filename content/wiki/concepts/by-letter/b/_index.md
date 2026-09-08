@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6750
+wiki_total_pages: 6760
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -638,6 +638,9 @@ wiki_pages:
   - key: "BulletCommentCommunity"
     title: "Bullet Comment Community / 弹幕共同体"
     url: "/wiki/concepts/bulletcommentcommunity/"
+  - key: "BullwhipEffectInformationAmplification"
+    title: "Bullwhip Effect Information Amplification"
+    url: "/wiki/concepts/bullwhipeffectinformationamplification/"
   - key: "BureaucraticAbsurdityEscalation"
     title: "Bureaucratic Absurdity Escalation"
     url: "/wiki/concepts/bureaucraticabsurdityescalation/"
