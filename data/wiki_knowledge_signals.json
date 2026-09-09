@@ -15176,6 +15176,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/commoditytrapescape/"
     },
+    "CommonMynaTaiwan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "db02e7aa04c129b49b1f36f750155b42 [db02e7aa04c129b49b1f36f750155b42.mp3？aid=6aa114b87275dabe95d0c3b1&chid=66b07190af99592b5329f43a&ci=r2r2SwgwuGcVF8hi0OLDhEx0VsPMkYgA3PfbnAPgPkmBleJkrQMj2w==&pf=rss&sv=sphinx@1.280].md",
+          "key": "wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "「人人喊打」的八哥，與台灣的「外來物種」難題",
+          "url": "/wiki/sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/commonmynataiwan/"
+    },
     "CommunityBankAIAdoption": {
       "episode_count": 1,
       "show_count": 1,
@@ -16734,6 +16750,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/creditcardscalecontraction/"
+    },
+    "CrestedMynaTaiwan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "db02e7aa04c129b49b1f36f750155b42 [db02e7aa04c129b49b1f36f750155b42.mp3？aid=6aa114b87275dabe95d0c3b1&chid=66b07190af99592b5329f43a&ci=r2r2SwgwuGcVF8hi0OLDhEx0VsPMkYgA3PfbnAPgPkmBleJkrQMj2w==&pf=rss&sv=sphinx@1.280].md",
+          "key": "wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "「人人喊打」的八哥，與台灣的「外來物種」難題",
+          "url": "/wiki/sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/crestedmynataiwan/"
     },
     "CrimeStatisticsComparability": {
       "episode_count": 2,
@@ -21003,6 +21035,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/dreamfacetechnologies/"
     },
+    "DriverPassengerInvasionModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "db02e7aa04c129b49b1f36f750155b42 [db02e7aa04c129b49b1f36f750155b42.mp3？aid=6aa114b87275dabe95d0c3b1&chid=66b07190af99592b5329f43a&ci=r2r2SwgwuGcVF8hi0OLDhEx0VsPMkYgA3PfbnAPgPkmBleJkrQMj2w==&pf=rss&sv=sphinx@1.280].md",
+          "key": "wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "「人人喊打」的八哥，與台灣的「外來物種」難題",
+          "url": "/wiki/sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/driverpassengerinvasionmodel/"
+    },
     "Drownproof": {
       "episode_count": 1,
       "show_count": 1,
@@ -21610,9 +21658,9 @@
       "url": "/wiki/entities/duanzhiqiang/"
     },
     "DuanwenNewsPodcast": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "2b3d8e4d22c53a7d8791ed4cb06916ae [2b3d8e4d22c53a7d8791ed4cb06916ae.mp3？aid=6a9a8f8ec5b9ba845d1dbcb2&chid=66b07190af99592b5329f43a&ci=9VFtphxY8S1UggNOBMZ7EHMUU6j6619IrTRcG-Pk4Fin8CKWU-WvsQ==&pf=rss&sv=sphinx@1.280].md",
@@ -21627,9 +21675,16 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "當新聞成為賭盤，記者可以大賺一筆嗎？",
           "url": "/wiki/sources/dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79/"
+        },
+        {
+          "episode_file": "db02e7aa04c129b49b1f36f750155b42 [db02e7aa04c129b49b1f36f750155b42.mp3？aid=6aa114b87275dabe95d0c3b1&chid=66b07190af99592b5329f43a&ci=r2r2SwgwuGcVF8hi0OLDhEx0VsPMkYgA3PfbnAPgPkmBleJkrQMj2w==&pf=rss&sv=sphinx@1.280].md",
+          "key": "wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "「人人喊打」的八哥，與台灣的「外來物種」難題",
+          "url": "/wiki/sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/duanwennewspodcast/"
     },
     "Dubai": {
@@ -27262,6 +27317,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/fenglianglatehan/"
+    },
+    "FengMengjie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "db02e7aa04c129b49b1f36f750155b42 [db02e7aa04c129b49b1f36f750155b42.mp3？aid=6aa114b87275dabe95d0c3b1&chid=66b07190af99592b5329f43a&ci=r2r2SwgwuGcVF8hi0OLDhEx0VsPMkYgA3PfbnAPgPkmBleJkrQMj2w==&pf=rss&sv=sphinx@1.280].md",
+          "key": "wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "「人人喊打」的八哥，與台灣的「外來物種」難題",
+          "url": "/wiki/sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/fengmengjie/"
     },
     "FengShiFavoriteLateHan": {
       "episode_count": 1,
@@ -39728,6 +39799,59 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/interrogationtortureconstraint/"
+    },
+    "InvasiveSpeciesManagement": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器… [728113059].md",
+          "key": "97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059",
+          "show": "蜜獾吃书",
+          "title": "97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器…",
+          "url": "/wiki/sources/97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059/"
+        },
+        {
+          "episode_file": "186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》 [998655210].md",
+          "key": "186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210",
+          "show": "蜜獾吃书",
+          "title": "186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》",
+          "url": "/wiki/sources/186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210/"
+        },
+        {
+          "episode_file": "47.鸟有什么好看的：原来…丹顶鹤是秃的！ [625613924].md",
+          "key": "47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924",
+          "show": "蜜獾吃书",
+          "title": "47.鸟有什么好看的：原来…丹顶鹤是秃的！",
+          "url": "/wiki/sources/47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924/"
+        },
+        {
+          "episode_file": "db02e7aa04c129b49b1f36f750155b42 [db02e7aa04c129b49b1f36f750155b42.mp3？aid=6aa114b87275dabe95d0c3b1&chid=66b07190af99592b5329f43a&ci=r2r2SwgwuGcVF8hi0OLDhEx0VsPMkYgA3PfbnAPgPkmBleJkrQMj2w==&pf=rss&sv=sphinx@1.280].md",
+          "key": "wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "「人人喊打」的八哥，與台灣的「外來物種」難題",
+          "url": "/wiki/sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/invasivespeciesmanagement/"
+    },
+    "InvasiveSpeciesMoralization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "db02e7aa04c129b49b1f36f750155b42 [db02e7aa04c129b49b1f36f750155b42.mp3？aid=6aa114b87275dabe95d0c3b1&chid=66b07190af99592b5329f43a&ci=r2r2SwgwuGcVF8hi0OLDhEx0VsPMkYgA3PfbnAPgPkmBleJkrQMj2w==&pf=rss&sv=sphinx@1.280].md",
+          "key": "wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "「人人喊打」的八哥，與台灣的「外來物種」難題",
+          "url": "/wiki/sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/invasivespeciesmoralization/"
     },
     "InvestmentAvoidanceTrauma": {
       "episode_count": 1,
@@ -55162,6 +55286,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/nationalistatlantismythmaking/"
+    },
+    "NativeAlienSpeciesBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "db02e7aa04c129b49b1f36f750155b42 [db02e7aa04c129b49b1f36f750155b42.mp3？aid=6aa114b87275dabe95d0c3b1&chid=66b07190af99592b5329f43a&ci=r2r2SwgwuGcVF8hi0OLDhEx0VsPMkYgA3PfbnAPgPkmBleJkrQMj2w==&pf=rss&sv=sphinx@1.280].md",
+          "key": "wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "「人人喊打」的八哥，與台灣的「外來物種」難題",
+          "url": "/wiki/sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/nativealienspeciesboundary/"
     },
     "NaturalizedPlayerPolicyInChineseFootball": {
       "episode_count": 1,
@@ -75693,6 +75833,38 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/taiwanmarkethongkongcinema/"
     },
+    "TaiwanMynaManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "db02e7aa04c129b49b1f36f750155b42 [db02e7aa04c129b49b1f36f750155b42.mp3？aid=6aa114b87275dabe95d0c3b1&chid=66b07190af99592b5329f43a&ci=r2r2SwgwuGcVF8hi0OLDhEx0VsPMkYgA3PfbnAPgPkmBleJkrQMj2w==&pf=rss&sv=sphinx@1.280].md",
+          "key": "wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "「人人喊打」的八哥，與台灣的「外來物種」難題",
+          "url": "/wiki/sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/taiwanmynamanagement/"
+    },
+    "TaiwanNighthawk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "db02e7aa04c129b49b1f36f750155b42 [db02e7aa04c129b49b1f36f750155b42.mp3？aid=6aa114b87275dabe95d0c3b1&chid=66b07190af99592b5329f43a&ci=r2r2SwgwuGcVF8hi0OLDhEx0VsPMkYgA3PfbnAPgPkmBleJkrQMj2w==&pf=rss&sv=sphinx@1.280].md",
+          "key": "wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "「人人喊打」的八哥，與台灣的「外來物種」難題",
+          "url": "/wiki/sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/taiwannighthawk/"
+    },
     "Taixue": {
       "episode_count": 9,
       "show_count": 1,
@@ -83357,6 +83529,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/whitehorsetemple/"
     },
+    "WhiteVentedMynaTaiwan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "db02e7aa04c129b49b1f36f750155b42 [db02e7aa04c129b49b1f36f750155b42.mp3？aid=6aa114b87275dabe95d0c3b1&chid=66b07190af99592b5329f43a&ci=r2r2SwgwuGcVF8hi0OLDhEx0VsPMkYgA3PfbnAPgPkmBleJkrQMj2w==&pf=rss&sv=sphinx@1.280].md",
+          "key": "wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "「人人喊打」的八哥，與台灣的「外來物種」難題",
+          "url": "/wiki/sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/whiteventedmynataiwan/"
+    },
     "WhiteVictimhoodNarrative": {
       "episode_count": 1,
       "show_count": 1,
@@ -86268,6 +86456,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/xuzhaolatehan/"
+    },
+    "XuZhengfu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "db02e7aa04c129b49b1f36f750155b42 [db02e7aa04c129b49b1f36f750155b42.mp3？aid=6aa114b87275dabe95d0c3b1&chid=66b07190af99592b5329f43a&ci=r2r2SwgwuGcVF8hi0OLDhEx0VsPMkYgA3PfbnAPgPkmBleJkrQMj2w==&pf=rss&sv=sphinx@1.280].md",
+          "key": "wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "「人人喊打」的八哥，與台灣的「外來物種」難題",
+          "url": "/wiki/sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/xuzhengfu/"
     },
     "XuZhiLateHan": {
       "episode_count": 3,

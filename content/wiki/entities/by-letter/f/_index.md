@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9458
+wiki_total_pages: 9464
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -959,6 +959,9 @@ wiki_pages:
   - key: "FutureCola"
     title: "非常可乐 / Future Cola"
     url: "/wiki/entities/futurecola/"
+  - key: "FengMengjie"
+    title: "馮孟傑 / Feng Mengjie"
+    url: "/wiki/entities/fengmengjie/"
   - key: "FatherGaoNortheastMission"
     title: "高神父 / Father Gao (Northeast mission)"
     url: "/wiki/entities/fathergaonortheastmission/"

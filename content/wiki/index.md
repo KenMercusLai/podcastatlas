@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [「人人喊打」的八哥，與台灣的「外來物種」難題](sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42.md) — 端闻 episode with 許正甫 and 馮孟傑 on a Taiwan nightjar livestream, introduced mynas, native/alien species boundaries, driver-versus-passenger invasion causality, and evidence-based humane management.
 - [Meta's youth safety settlement could change how people access the internet](sources/metas-youth-safety-settlement-could-change-how-people-access-the-internet.md) — Marketplace Tech episode with Will Creeley of FIRE on Meta's teen-safety settlement, age or identity verification pressure, anonymous speech, and First Amendment limits.
 - [《资治通鉴·汉纪》633丨怒砸传国玉玺！她竟如此刚烈！](sources/zizhi-tongjian-hanji-633-nuza-chuanguo-yuxi-ta-jing-ruci-ganglie-lnmnwbk28ayllz5fip1a1kzm1ais.md) — 8 CE Wang Mang accession backfill on Wang Zhengjun's coerced Heirloom Imperial Seal handover, the broken-corner protest, title recoding, Wang Jian and Zhang Yong's flattery risks, and Ban Biao's double-edged dowager judgment.
 - [《资治通鉴·汉纪》634丨活在男人影子背后的她，惨！惨！惨！](sources/zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk.md) — 9 CE Wang Mang accession backfill on Empress Xiaomu's family tragedy, Wang An/Wang Lin succession preference, Liu Ying's Ding'an Duke containment, Wang Mang's tearful Zhougong performance, and fuming-backed Four Assistant/Three Excellency/Four General appointments.
@@ -2083,6 +2084,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [許正甫 / Xu Zhengfu](entities/XuZhengfu.md) — Ecology-focused freelance writer in the Duanwen introduced-myna episode, framing alien-species debate as public discourse and conservation ethics.
+- [馮孟傑 / Feng Mengjie](entities/FengMengjie.md) — Birder and bird worker in the Duanwen episode, grounding Taiwan myna discussion in bird knowledge, public education, and ethical removal boundaries.
+- [Common Myna in Taiwan / 加八哥](entities/CommonMynaTaiwan.md) — Human-introduced Taiwan myna at the center of the nightjar livestream controversy and evidence-based management debate.
+- [White-Vented Myna in Taiwan / 白尾八哥](entities/WhiteVentedMynaTaiwan.md) — Introduced Taiwan myna discussed alongside common myna in public education and management debates.
+- [Crested Myna in Taiwan / 冠八哥](entities/CrestedMynaTaiwan.md) — Taiwan's currently recognized native black myna, used as the contrast case for introduced mynas.
+- [Taiwan Nighthawk / 夜鷹](entities/TaiwanNighthawk.md) — Urban-adapting rooftop-nesting bird whose livestream triggered the introduced-myna controversy.
 - [Wang Huo / 王获 (Xin prince)](entities/WangHuoXinPrince.md) — Wang Mang's second son whose coerced suicide grounds Hanji 634's early household-tragedy layer.
 - [Wang Yu / 王宇 (Xin prince)](entities/WangYuXinPrince.md) — Wang Mang's eldest son whose imprisonment, death, wife's prison death, and six enfeoffed sons frame the accession family-repair problem.
 - [Wang Xing / 王兴 (Xin Four General)](entities/WangXingXinFourGeneral.md) — Commoner Chengwen clerk appointed after matching Ai Zhang's fabricated fuming-list name.
@@ -11545,6 +11552,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Invasive Species Moralization / 外來種道德化](concepts/InvasiveSpeciesMoralization.md) — Public-discourse failure where alien or invasive species status becomes a moral label that licenses hatred or casual cruelty.
+- [Native-Alien Species Boundary / 原生外來邊界](concepts/NativeAlienSpeciesBoundary.md) — Ecological classification boundary separating natural/local presence from human-mediated introduction while requiring time, space, and harm distinctions.
+- [Driver-Passenger Invasion Model / 驅動者與搭便車模型](concepts/DriverPassengerInvasionModel.md) — Causal distinction between alien species directly driving native decline and alien species expanding as passengers of broader habitat change.
+- [Taiwan Myna Management / 台灣外來八哥管理](concepts/TaiwanMynaManagement.md) — Differentiated, evidence-based approach to managing introduced mynas in Taiwan through monitoring, habitat repair, local control, and humane professional removal.
 - [Virtual Cell World Model](concepts/VirtualCellWorldModel.md) — Stateful biological world-model concept for simulating cell states, perturbations, and drug or disease responses.
 - [Biological Harness Engineering](concepts/BiologicalHarnessEngineering.md) — AI-for-science model-engineering pattern that embeds biological constraints, domain knowledge, and validation structure.
 - [Life Science Data Information Value](concepts/LifeScienceDataInformationValue.md) — Distinction between raw biological data volume and model-useful information for life-science AI.

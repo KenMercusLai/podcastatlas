@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6857
+wiki_total_pages: 6861
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "NativeBeeEcologicalPollination"
     title: "Native Bee Ecological Pollination / 本土蜂生态授粉"
     url: "/wiki/concepts/nativebeeecologicalpollination/"
+  - key: "NativeAlienSpeciesBoundary"
+    title: "Native-Alien Species Boundary / 原生外來邊界"
+    url: "/wiki/concepts/nativealienspeciesboundary/"
   - key: "NATOAllianceCredibility"
     title: "NATO Alliance Credibility"
     url: "/wiki/concepts/natoalliancecredibility/"

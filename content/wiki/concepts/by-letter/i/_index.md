@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6857
+wiki_total_pages: 6861
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "InvasiveSpeciesManagement"
     title: "Invasive Species Management"
     url: "/wiki/concepts/invasivespeciesmanagement/"
+  - key: "InvasiveSpeciesMoralization"
+    title: "Invasive Species Moralization / 外來種道德化"
+    url: "/wiki/concepts/invasivespeciesmoralization/"
   - key: "InventoryWriteDownRisk"
     title: "Inventory Write-Down Risk"
     url: "/wiki/concepts/inventorywritedownrisk/"

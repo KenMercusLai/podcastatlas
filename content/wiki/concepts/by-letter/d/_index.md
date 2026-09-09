@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6857
+wiki_total_pages: 6861
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -779,6 +779,9 @@ wiki_pages:
   - key: "DreamParenthoodAmbiguity"
     title: "Dream Parenthood Ambiguity / 梦中亲子暧昧"
     url: "/wiki/concepts/dreamparenthoodambiguity/"
+  - key: "DriverPassengerInvasionModel"
+    title: "Driver-Passenger Invasion Model / 驅動者與搭便車模型"
+    url: "/wiki/concepts/driverpassengerinvasionmodel/"
   - key: "DroneAsFirstResponder"
     title: "Drone As First Responder"
     url: "/wiki/concepts/droneasfirstresponder/"

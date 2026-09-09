@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9458
+wiki_total_pages: 9464
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1007,6 +1007,9 @@ wiki_pages:
   - key: "CommodityFuturesTradingCommission"
     title: "Commodity Futures Trading Commission"
     url: "/wiki/entities/commodityfuturestradingcommission/"
+  - key: "CommonMynaTaiwan"
+    title: "Common Myna in Taiwan / 加八哥"
+    url: "/wiki/entities/commonmynataiwan/"
   - key: "CommonSenseMedia"
     title: "Common Sense Media"
     url: "/wiki/entities/commonsensemedia/"
@@ -1175,6 +1178,9 @@ wiki_pages:
   - key: "Cresta"
     title: "Cresta"
     url: "/wiki/entities/cresta/"
+  - key: "CrestedMynaTaiwan"
+    title: "Crested Myna in Taiwan / 冠八哥"
+    url: "/wiki/entities/crestedmynataiwan/"
   - key: "Crete"
     title: "Crete"
     url: "/wiki/entities/crete/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9458
+wiki_total_pages: 9464
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "Taiwan"
     title: "Taiwan"
     url: "/wiki/entities/taiwan/"
+  - key: "TaiwanNighthawk"
+    title: "Taiwan Nighthawk / 夜鷹"
+    url: "/wiki/entities/taiwannighthawk/"
   - key: "TaiwanStrait"
     title: "Taiwan Strait"
     url: "/wiki/entities/taiwanstrait/"

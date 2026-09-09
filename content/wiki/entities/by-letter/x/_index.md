@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9458
+wiki_total_pages: 9464
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "XimenBao"
     title: "西门豹 / Ximen Bao"
     url: "/wiki/entities/ximenbao/"
+  - key: "XuZhengfu"
+    title: "許正甫 / Xu Zhengfu"
+    url: "/wiki/entities/xuzhengfu/"
   - key: "XuZhongJin"
     title: "许众 / Xu Zhong (Jin commentator)"
     url: "/wiki/entities/xuzhongjin/"

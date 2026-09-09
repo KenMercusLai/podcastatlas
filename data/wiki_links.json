@@ -12903,6 +12903,10 @@
     "title": "Common-Enemy Alliance / 共同敌人联盟",
     "url": "/wiki/concepts/commonenemyalliance/"
   },
+  "CommonMynaTaiwan": {
+    "title": "Common Myna in Taiwan / 加八哥",
+    "url": "/wiki/entities/commonmynataiwan/"
+  },
   "CommonSenseMedia": {
     "title": "Common Sense Media",
     "url": "/wiki/entities/commonsensemedia/"
@@ -13982,6 +13986,10 @@
   "Cresta": {
     "title": "Cresta",
     "url": "/wiki/entities/cresta/"
+  },
+  "CrestedMynaTaiwan": {
+    "title": "Crested Myna in Taiwan / 冠八哥",
+    "url": "/wiki/entities/crestedmynataiwan/"
   },
   "Crete": {
     "title": "Crete",
@@ -17082,6 +17090,10 @@
   "DriveToSurvive": {
     "title": "Drive to Survive",
     "url": "/wiki/entities/drivetosurvive/"
+  },
+  "DriverPassengerInvasionModel": {
+    "title": "Driver-Passenger Invasion Model / 驅動者與搭便車模型",
+    "url": "/wiki/concepts/driverpassengerinvasionmodel/"
   },
   "DroneAsFirstResponder": {
     "title": "Drone As First Responder",
@@ -20402,6 +20414,10 @@
   "FengLiuYiDai": {
     "title": "《风流一代》 / Caught by the Tides",
     "url": "/wiki/entities/fengliuyidai/"
+  },
+  "FengMengjie": {
+    "title": "馮孟傑 / Feng Mengjie",
+    "url": "/wiki/entities/fengmengjie/"
   },
   "FengQuji": {
     "title": "冯去疾 / Feng Quji",
@@ -28910,6 +28926,10 @@
   "InvasiveSpeciesManagement": {
     "title": "Invasive Species Management",
     "url": "/wiki/concepts/invasivespeciesmanagement/"
+  },
+  "InvasiveSpeciesMoralization": {
+    "title": "Invasive Species Moralization / 外來種道德化",
+    "url": "/wiki/concepts/invasivespeciesmoralization/"
   },
   "InventoryHeavyConsumerBrandFinancing": {
     "title": "Inventory-Heavy Consumer Brand Financing",
@@ -40126,6 +40146,10 @@
   "NationalistGovernment": {
     "title": "Nationalist Government / 国民政府",
     "url": "/wiki/entities/nationalistgovernment/"
+  },
+  "NativeAlienSpeciesBoundary": {
+    "title": "Native-Alien Species Boundary / 原生外來邊界",
+    "url": "/wiki/concepts/nativealienspeciesboundary/"
   },
   "NativeAmericanChurch": {
     "title": "Native American Church",
@@ -55327,6 +55351,14 @@
     "title": "Taiwan Market For Hong Kong Cinema / 港片台湾市场基本盘",
     "url": "/wiki/concepts/taiwanmarkethongkongcinema/"
   },
+  "TaiwanMynaManagement": {
+    "title": "Taiwan Myna Management / 台灣外來八哥管理",
+    "url": "/wiki/concepts/taiwanmynamanagement/"
+  },
+  "TaiwanNighthawk": {
+    "title": "Taiwan Nighthawk / 夜鷹",
+    "url": "/wiki/entities/taiwannighthawk/"
+  },
   "TaiwanStrait": {
     "title": "Taiwan Strait",
     "url": "/wiki/entities/taiwanstrait/"
@@ -61103,6 +61135,10 @@
     "title": "White Snake Legend / 白蛇传",
     "url": "/wiki/entities/whitesnakelegend/"
   },
+  "WhiteVentedMynaTaiwan": {
+    "title": "White-Vented Myna in Taiwan / 白尾八哥",
+    "url": "/wiki/entities/whiteventedmynataiwan/"
+  },
   "WhiteVictimhoodNarrative": {
     "title": "White Victimhood Narrative",
     "url": "/wiki/concepts/whitevictimhoodnarrative/"
@@ -62918,6 +62954,10 @@
   "XuZhe": {
     "title": "Xu Zhe / 许哲",
     "url": "/wiki/entities/xuzhe/"
+  },
+  "XuZhengfu": {
+    "title": "許正甫 / Xu Zhengfu",
+    "url": "/wiki/entities/xuzhengfu/"
   },
   "XuZhiLateHan": {
     "title": "徐稚 / Xu Zhi (late Han)",
@@ -70310,6 +70350,10 @@
   "vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw": {
     "title": "vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远",
     "url": "/wiki/sources/vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw/"
+  },
+  "wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42": {
+    "title": "「人人喊打」的八哥，與台灣的「外來物種」難題",
+    "url": "/wiki/sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42/"
   },
   "waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590": {
     "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",

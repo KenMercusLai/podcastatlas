@@ -1890,6 +1890,10 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 
 Added source note for the 9 CE Wang Mang accession-consolidation backfill on five-surname imperial kinship, ancestral temples, tax and corvee exemptions, Liu royal appeasement, anti-Liu symbol and coin bans, Liu Kuai's failed rising, and Liu Yin's compliant survival. Created source-scoped pages for Liu Kuai, Liu Yin, and post-usurpation legitimacy consolidation. No settled contradiction found; Chen Cong, Tian Feng, exact temple mechanics, coin technical details, and Wang Mang's inner motive remain source-scoped.
 
+## [2026-09-09] ingest | 「人人喊打」的八哥，與台灣的「外來物種」難題
+
+Added source note for the Duanwen episode on Taiwan nightjar livestream outrage, introduced common and white-vented mynas, native/alien/invasive species boundaries, driver-versus-passenger causality, and humane differentiated management. Created Xu Zhengfu, Feng Mengjie, Taiwan myna species pages, Taiwan Nighthawk, Invasive Species Moralization, Native-Alien Species Boundary, Driver-Passenger Invasion Model, and Taiwan Myna Management; updated Duanwen and Invasive Species Management. No settled contradiction found; Taiwan myna population impacts, livestream egg causality, and intervention efficacy remain source-scoped.
+
 Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] ingest | AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
@@ -16601,6 +16605,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams
 
 Added source note for the 2026-06-04 Huberman Lab Essentials episode with Nolan Williams on depression, circuit psychiatry, TMS, Stanford Neuromodulation Therapy, psychedelics, ketamine, trauma-memory reconsolidation, and clinical supervision. Created Nolan Williams, Circuit-Based Psychiatry, Transcranial Magnetic Stimulation for Depression, Stanford Neuromodulation Therapy, Memory Reconsolidation Psychiatry, and Psychedelic Clinical Supervision Boundary pages; updated Psychiatric Medication Supervision Boundary and index. No settled contradiction found; ibogaine, ayahuasca, psilocybin, MDMA, ketamine, SNT outcomes, and durability claims remain source-scoped and clinically bounded.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 
