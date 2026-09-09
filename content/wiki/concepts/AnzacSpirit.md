@@ -4,7 +4,8 @@ type: concept
 tags: [memory, national-identity, australia, new-zealand, first-world-war]
 sources:
   - 676-the-first-world-war-churchills-calamity-part-6-glt1275431911
-last_updated: 2026-09-09
+  - 675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715
+last_updated: 2026-09-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,11 +13,11 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-Anzac Spirit is the Australian and New Zealand national-memory frame that [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] connects to [[GallipoliCampaign|Gallipoli]], emphasizing courage, resourcefulness, comradeship, endurance, and mateship.
+Anzac Spirit is the Australian and New Zealand national-memory frame that the Gallipoli episodes connect to [[GallipoliCampaign|Gallipoli]], emphasizing courage, resourcefulness, comradeship, endurance, and mateship.
 
 ## Current Synthesis
 
-The episode presents Gallipoli as a military disaster that became a foundation myth. For [[Australia]] and [[NewZealand]], 25 April 1915 mattered because these recently federated or dominion societies saw their soldiers fight and die in large numbers under their own public identity.
+The episodes present Gallipoli as a military disaster that became a foundation myth. [[675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715]] anchors that memory in Ellis Ashmead-Bartlett's praise of the April 25 landing and the shock of ANZAC troops clinging to a small perimeter, while [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] follows later commemoration and Anzac Day.
 
 The Anzac frame is not purely celebratory in the source. It includes martyr stories such as John Simpson, later Anzac Day commemoration, and a popular-memory contrast between brave Anzacs and incompetent British commanders, but the hosts qualify that contrast by keeping British and Irish suffering visible too.
 
@@ -24,13 +25,14 @@ The Anzac frame is not purely celebratory in the source. It includes martyr stor
 
 - National memory can convert military defeat into identity formation when sacrifice is made legible as public virtue.
 - Gallipoli gave Australia and New Zealand a mass-death military experience that felt distinct from ordinary imperial service.
+- Press reports and first-day beachhead survival helped turn the landing into public memory.
 - Charles Bean's vocabulary helped stabilize Anzac memory around courage, resourcefulness, comradeship, endurance, and mateship.
 - Anzac Day preserves Gallipoli's calendar position as civic memory in both countries.
 - The source qualifies anti-British simplification by stressing that British and Irish troops also fought and died in large numbers.
 
 ## Evidence
 
-- Foundation myth: [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] uses Sarah Fitzpatrick's letter and John Simpson's donkey rescue story to introduce Gallipoli as disaster and origin myth.
+- Foundation myth: [[675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715]] uses Ellis Ashmead-Bartlett's report and the April 25 ANZAC landing to show Gallipoli entering Australian and New Zealand memory; [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] uses Sarah Fitzpatrick's letter and John Simpson's donkey rescue story to extend Gallipoli as disaster and origin myth.
 - Identity formation: [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] says Gallipoli mattered because Australians fought and died in large numbers soon after federation, while Anzac Day remains a public holiday in Australia and New Zealand.
 - Memory qualification: [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] says popular memory often casts brave Anzacs against arrogant British commanders, but the hosts call that unfair to British and Irish soldiers who also fought and died.
 
@@ -40,7 +42,7 @@ The current page depends on one podcast account. It does not yet cover Indigenou
 
 ## What Changed
 
-- Added Anzac Spirit as the national-memory concept produced by this Gallipoli source.
+- Added episode 675's first-day landing and press-report evidence to the Anzac memory synthesis.
 
 ## Related Concepts
 

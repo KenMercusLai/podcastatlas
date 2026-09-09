@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 9509
+wiki_total_pages: 9512
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
     url: "/wiki/entities/ilibertine/"
+  - key: "IanHamiltonGallipoli"
+    title: "Ian Hamilton"
+    url: "/wiki/entities/ianhamiltongallipoli/"
   - key: "IanPaisley"
     title: "Ian Paisley"
     url: "/wiki/entities/ianpaisley/"

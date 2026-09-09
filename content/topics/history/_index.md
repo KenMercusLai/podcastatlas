@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1650
+topic_total_pages: 1651
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -3999,6 +3999,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715"
+    title: "675. The First World War: Slaughter at Gallipoli (Part 5)"
+    url: "/wiki/sources/675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715/"
   - key: "676-the-first-world-war-churchills-calamity-part-6-glt1275431911"
     title: "676. The First World War: Churchill's Calamity (Part 6)"
     url: "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"

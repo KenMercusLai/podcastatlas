@@ -16697,6 +16697,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 675. The First World War: Slaughter at Gallipoli (Part 5)
+
+Added source note for The Rest Is History episode on Churchill's Dardanelles gamble, Ottoman entry, the failed naval assault of March 1915, and the April 25 landings at Anzac Cove and Cape Helles. Key claims: Gallipoli's failure began in optimistic shortcut strategy, ignored naval warnings, escalation after failure, underestimated Ottoman defense, and first-day landings that quickly became trench warfare.
+
 ## [2026-09-10] ingest | Peptides: The Science, Uses & Safety | Dr. Abud Bakri
 
 Added source note for a Huberman Lab episode on peptide evidence hierarchy, GLP-1 maturity, BPC-157 evidence limits, sourcing and compounding risk, thymic peptides, bioregulators, growth-hormone secretagogues, and rapid body-composition stacking caution.
@@ -16742,6 +16746,10 @@ Added source note for a 电影巨辩 episode on AI cinema from Frankenstein thro
 ## [2026-09-10] ingest | 电影里的AI：情人、巨婴和独裁者
 
 Added source note for a 电影巨辩 episode on AI cinema from Frankenstein through 《人工智能》, 《她》, 《机械姬》, and 《黑客帝国》. Key claims: AI films repeatedly turn technical intelligence into creator responsibility, programmed love, simulated reality, Turing-test judgment, embodiment, and modern subjectivity problems.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

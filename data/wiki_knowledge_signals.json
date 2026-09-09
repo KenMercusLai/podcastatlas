@@ -5864,9 +5864,9 @@
       "url": "/wiki/entities/anywayfm/"
     },
     "AnzacSpirit": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -5874,9 +5874,16 @@
           "show": "The Rest Is History",
           "title": "676. The First World War: Churchill's Calamity (Part 6)",
           "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        },
+        {
+          "episode_file": "GLT4394132715 [GLT4394132715].md",
+          "key": "675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715",
+          "show": "The Rest Is History",
+          "title": "675. The First World War: Slaughter at Gallipoli (Part 5)",
+          "url": "/wiki/sources/675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/anzacspirit/"
     },
     "AnzhongLateHan": {
@@ -18057,9 +18064,9 @@
       "url": "/wiki/entities/darcyraisednutrition/"
     },
     "DardanellesStrategicShortcut": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -18067,9 +18074,16 @@
           "show": "The Rest Is History",
           "title": "676. The First World War: Churchill's Calamity (Part 6)",
           "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        },
+        {
+          "episode_file": "GLT4394132715 [GLT4394132715].md",
+          "key": "675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715",
+          "show": "The Rest Is History",
+          "title": "675. The First World War: Slaughter at Gallipoli (Part 5)",
+          "url": "/wiki/sources/675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/dardanellesstrategicshortcut/"
     },
     "DarrenAlpert": {
@@ -25422,6 +25436,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/enthusiastdevicecommunity/"
     },
+    "EnverPasha": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4394132715 [GLT4394132715].md",
+          "key": "675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715",
+          "show": "The Rest Is History",
+          "title": "675. The First World War: Slaughter at Gallipoli (Part 5)",
+          "url": "/wiki/sources/675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/enverpasha/"
+    },
     "EnvironmentalProtectionAgency": {
       "episode_count": 1,
       "show_count": 1,
@@ -26508,9 +26538,9 @@
       "url": "/wiki/entities/fafadebelem/"
     },
     "FailedStrategicShortcutAttritionTrap": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -26518,9 +26548,16 @@
           "show": "The Rest Is History",
           "title": "676. The First World War: Churchill's Calamity (Part 6)",
           "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        },
+        {
+          "episode_file": "GLT4394132715 [GLT4394132715].md",
+          "key": "675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715",
+          "show": "The Rest Is History",
+          "title": "675. The First World War: Slaughter at Gallipoli (Part 5)",
+          "url": "/wiki/sources/675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/failedstrategicshortcutattritiontrap/"
     },
     "FairAllocationPoliticalSkill": {
@@ -28388,9 +28425,9 @@
       "url": "/wiki/entities/firstsouthwestbank/"
     },
     "FirstWorldWar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -28398,9 +28435,16 @@
           "show": "The Rest Is History",
           "title": "676. The First World War: Churchill's Calamity (Part 6)",
           "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        },
+        {
+          "episode_file": "GLT4394132715 [GLT4394132715].md",
+          "key": "675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715",
+          "show": "The Rest Is History",
+          "title": "675. The First World War: Slaughter at Gallipoli (Part 5)",
+          "url": "/wiki/sources/675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/firstworldwar/"
     },
     "FiscalExtractionRebellionSpiral": {
@@ -31266,9 +31310,9 @@
       "url": "/wiki/entities/gaiusmarius/"
     },
     "GallipoliCampaign": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -31276,9 +31320,16 @@
           "show": "The Rest Is History",
           "title": "676. The First World War: Churchill's Calamity (Part 6)",
           "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        },
+        {
+          "episode_file": "GLT4394132715 [GLT4394132715].md",
+          "key": "675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715",
+          "show": "The Rest Is History",
+          "title": "675. The First World War: Slaughter at Gallipoli (Part 5)",
+          "url": "/wiki/sources/675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/gallipolicampaign/"
     },
     "GameSpiritOrganization": {
@@ -39230,6 +39281,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/imagentinterfaces/"
     },
+    "IanHamiltonGallipoli": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4394132715 [GLT4394132715].md",
+          "key": "675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715",
+          "show": "The Rest Is History",
+          "title": "675. The First World War: Slaughter at Gallipoli (Part 5)",
+          "url": "/wiki/sources/675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/ianhamiltongallipoli/"
+    },
     "IberianPeninsula": {
       "episode_count": 1,
       "show_count": 1,
@@ -41393,6 +41460,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/jackmerridew/"
+    },
+    "JackieFisher": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4394132715 [GLT4394132715].md",
+          "key": "675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715",
+          "show": "The Rest Is History",
+          "title": "675. The First World War: Slaughter at Gallipoli (Part 5)",
+          "url": "/wiki/sources/675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/jackiefisher/"
     },
     "Jacobitism": {
       "episode_count": 1,
@@ -55849,9 +55932,9 @@
       "url": "/wiki/concepts/musicmemorycueing/"
     },
     "MustafaKemalAtaturk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -55859,9 +55942,16 @@
           "show": "The Rest Is History",
           "title": "676. The First World War: Churchill's Calamity (Part 6)",
           "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        },
+        {
+          "episode_file": "GLT4394132715 [GLT4394132715].md",
+          "key": "675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715",
+          "show": "The Rest Is History",
+          "title": "675. The First World War: Slaughter at Gallipoli (Part 5)",
+          "url": "/wiki/sources/675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/mustafakemalataturk/"
     },
     "MutualExhaustionThirdPartyGain": {
@@ -59181,9 +59271,9 @@
       "url": "/wiki/entities/osorioduqueestrada/"
     },
     "OttomanEmpire": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md",
@@ -59219,9 +59309,16 @@
           "show": "The Rest Is History",
           "title": "676. The First World War: Churchill's Calamity (Part 6)",
           "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        },
+        {
+          "episode_file": "GLT4394132715 [GLT4394132715].md",
+          "key": "675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715",
+          "show": "The Rest Is History",
+          "title": "675. The First World War: Slaughter at Gallipoli (Part 5)",
+          "url": "/wiki/sources/675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/ottomanempire/"
     },
     "OuraRing": {
@@ -85452,9 +85549,9 @@
       "url": "/wiki/entities/winsentertainment/"
     },
     "WinstonChurchill": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -85462,9 +85559,16 @@
           "show": "The Rest Is History",
           "title": "676. The First World War: Churchill's Calamity (Part 6)",
           "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        },
+        {
+          "episode_file": "GLT4394132715 [GLT4394132715].md",
+          "key": "675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715",
+          "show": "The Rest Is History",
+          "title": "675. The First World War: Slaughter at Gallipoli (Part 5)",
+          "url": "/wiki/sources/675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/winstonchurchill/"
     },
     "WishfulFrontierConciliation": {
