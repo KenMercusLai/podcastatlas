@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6797
+wiki_total_pages: 6799
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1940,6 +1940,9 @@ wiki_pages:
   - key: "SeasonalRitualConsumptionRestraint"
     title: "时令礼法式饮食约束 / Seasonal Ritual Consumption Restraint"
     url: "/wiki/concepts/seasonalritualconsumptionrestraint/"
+  - key: "SuppressedRootCauseReporting"
+    title: "根因上报压制 / Suppressed Root-Cause Reporting"
+    url: "/wiki/concepts/suppressedrootcausereporting/"
   - key: "SuspicionDrivenEliteAlienation"
     title: "猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation"
     url: "/wiki/concepts/suspiciondrivenelitealienation/"

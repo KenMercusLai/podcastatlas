@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？](sources/zhurou-jiage-jingli-man-chang-xiadie-weishenme-zhuzhouqi-buzai-zunxun-laojiezou-1012895922.md) — 声动早咖啡 episode explaining why China's pork cycle is staying low longer through scale farming, efficiency gains, demand substitution, and limited downstream absorption.
+- [《资治通鉴·汉纪》659丨有些核心人才不要轻易动](sources/zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij.md) — 21 CE Wang Mang backfill on forbidden hunger-based rebellion diagnosis, Gongsun Lu's ignored internal-cause warning, Tian Kuang's local stabilization and removal, and late-Xin reporting and command failure.
 - [《资治通鉴·汉纪》660-1丨东汉开国超燃混剪！淇姐带你2分钟见证](sources/zizhi-tongjian-hanji-660-1-donghan-kaiguo-chaoran-hunjian-qijie-daini-2-fenzhong-jianzheng-fpvqf779gc-cy32dfuuro96ax9qn.md) — 芮淇讲透资治通鉴 two-minute montage previewing Eastern Han founding through Wang Mang's disorder, Liu Xiu, Kunyang, Yin Lihua, Yuntai generals, and Guangwu Zhongxing.
 - [《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生](sources/zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce.md) — 22 CE late-Xin backfill on Wang Mang's Nine Temples spectacle, Chimei's origin under Fan Chong, official-army civilian abuse, Lulin branch movement, corrupt famine relief, and Feng Yan's warning to Lian Dan.
 - [在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面](sources/zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf.md) — 电影巨辩 episode on Feng Xiaogang's serious films, abandoned individuals, Wuhui Zhuizong's historical ambiguity, and Zhua Tewu's clarified reconciliation.
@@ -2048,6 +2049,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [Ministry of Agriculture and Rural Affairs / 农业农村部](entities/MinistryOfAgricultureAndRuralAffairs.md) — Chinese agriculture ministry cited for pork-price monitoring, scale-farm definitions, and live-hog cycle analysis.
+- [田邝 / Tian Kuang (Xin official)](entities/TianKuangXinOfficial.md) — Late-Xin local commander whose unauthorized mobilization, field diagnosis, and removal ground the key-operator removal pattern.
+- [公孙禄 / Gongsun Lu (Xin official)](entities/GongsunLuXinOfficial.md) — Xin remonstrant who names internal causes of rebellion before Wang Mang suppresses the diagnosis.
+- [池昭平 / Chi Zhaoping](entities/ChiZhaopingXinRebel.md) — Source-scoped late-Xin female rebel leader in the Pingyuan-Yellow River field.
 - [樊崇 / Fan Chong (Chimei)](entities/FanChongChimei.md) — Early Chimei leader whose group supplies the 22 CE origin, organization, and cinnabar-eyebrow naming layer.
 - [廉丹 / Lian Dan (Xin general)](entities/LianDanXinGeneral.md) — Xin general pressured by Wang Mang and warned by Feng Yan as official suppression loses public legitimacy.
 - [王匡 / Wang Kuang (Xin general)](entities/WangKuangXinGeneral.md) — Xin Taishi whose anti-rebel army becomes a civilian-abuse backfire case, distinct from same-name Wang Kuang pages.
@@ -11438,6 +11442,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Pork Cycle / 猪周期](concepts/PorkCycle.md) — Pig-farming price-and-capacity loop now altered by scale farming, productivity, demand substitution, and downstream limits.
+- [根因上报压制 / Suppressed Root-Cause Reporting](concepts/SuppressedRootCauseReporting.md) — Crisis feedback failure where a ruler punishes reports that connect disorder to hunger, official abuse, or policy failure.
+- [关键执行者移除风险 / Key Operator Removal Risk](concepts/KeyOperatorRemovalRisk.md) — Crisis-management risk where removing the person holding a field together destroys accumulated local capacity.
 - [China Pig Farming Scale Consolidation / 中国生猪养殖规模化](concepts/ChinaPigFarmingScaleConsolidation.md) — Shift toward larger pig producers that raises efficiency while slowing loss-driven capacity exits.
 - [Pork Consumption Substitution / 猪肉消费替代](concepts/PorkConsumptionSubstitution.md) — Demand shift from pork toward poultry, beef, seafood, and other proteins.
 - [Downstream Pork Absorption Limits / 下游猪肉吸收能力限制](concepts/DownstreamPorkAbsorptionLimits.md) — Slaughter, cold-chain, processing, retail, and export limits that reduce buffering of pork oversupply.

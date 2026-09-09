@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2271
+topic_total_pages: 2273
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3457,6 +3457,9 @@ topic_concepts:
   - key: "GongAnFiction"
     title: "公案小说 / Gong'an Fiction"
     url: "/wiki/concepts/gonganfiction/"
+  - key: "KeyOperatorRemovalRisk"
+    title: "关键执行者移除风险 / Key Operator Removal Risk"
+    url: "/wiki/concepts/keyoperatorremovalrisk/"
   - key: "PenalSeverityExecutionTradeoff"
     title: "刑法轻重与执行困境 / Penal Severity and Execution Tradeoff"
     url: "/wiki/concepts/penalseverityexecutiontradeoff/"
@@ -3628,6 +3631,9 @@ topic_concepts:
   - key: "CupWineDisarmsGenerals"
     title: "杯酒释兵权 / Cup of Wine Disarms Generals"
     url: "/wiki/concepts/cupwinedisarmsgenerals/"
+  - key: "SuppressedRootCauseReporting"
+    title: "根因上报压制 / Suppressed Root-Cause Reporting"
+    url: "/wiki/concepts/suppressedrootcausereporting/"
   - key: "RootCauseRemonstrance"
     title: "根源诊断式进谏 / Root-Cause Remonstrance"
     url: "/wiki/concepts/rootcauseremonstrance/"

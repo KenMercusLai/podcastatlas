@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 6797
+wiki_total_pages: 6799
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "KuaijiCommanderyCoup"
     title: "会稽郡守府夺权 / Kuaiji Commandery Coup"
     url: "/wiki/concepts/kuaijicommanderycoup/"
+  - key: "KeyOperatorRemovalRisk"
+    title: "关键执行者移除风险 / Key Operator Removal Risk"
+    url: "/wiki/concepts/keyoperatorremovalrisk/"
   - key: "KaifengCapitalTradeoff"
     title: "开封定都取舍 / Kaifeng Capital Tradeoff"
     url: "/wiki/concepts/kaifengcapitaltradeoff/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9386
+wiki_total_pages: 9389
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1370,6 +1370,9 @@ wiki_pages:
   - key: "TianYuLateHan"
     title: "田豫 / Tian Yu (Late Han)"
     url: "/wiki/entities/tianyulatehan/"
+  - key: "TianKuangXinOfficial"
+    title: "田邝 / Tian Kuang (Xin official)"
+    url: "/wiki/entities/tiankuangxinofficial/"
   - key: "TianDu"
     title: "田都 / Tian Du"
     url: "/wiki/entities/tiandu/"

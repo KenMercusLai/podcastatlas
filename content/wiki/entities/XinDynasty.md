@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw
   - zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp
   - zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce
+  - zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij
 last_updated: 2026-09-09
 ---
 
@@ -23,6 +24,8 @@ Its governing profile is one of overcontrolled reform. Wang fields, anti-commerc
 
 Hanji 658 turns that overcontrol into concrete 21 CE stress before the Kunyang endgame. The regime cannot protect Wang Mang's household from suspicion, scandal, and heir loss; it cannot turn military campaigns in Qingzhou, Xuzhou, and Juting into stability; it cannot make Xiongnu succession planning costless; and it cannot stop private coinage without sweeping people into collective punishment and forced service. The source therefore makes Xin collapse visible before final capital failure: family, frontier, food, currency, and labor systems are already interacting badly.
 
+Hanji 659 adds an intermediate 21 CE information and command layer. The regime's court can still discuss rebels as morally doomed criminals, but Gongsun Lu's internal-cause warning is punished, a clerk's hunger-based explanation of rebellion is treated as slander, officials are warned not to name poverty and cold as causes, and Tian Kuang is removed after proving that local mobilization and direct field diagnosis can still stabilize part of the crisis.
+
 Hanji 660-2 adds a 22 CE governance-failure layer between social stress and final collapse. The regime still builds and performs ritual magnificence, but food and security have already failed in the east. Its anti-rebel army abuses civilians, relief grain is stolen by envoys and clerks, many refugees die after entering Guanzhong, and Wang Ye's staged food report persuades Wang Mang that common hunger is less severe than it is. Yan You's complaint about generals lacking full authority adds an institutional command problem to the same crisis.
 
 Hanji 666 supplies the terminal operational profile. Xin still has palace wealth and formal military titles, but those symbols no longer produce loyalty or force. Wang Mang under-rewards the Nine Tiger generals while holding their families hostage, armed prisoners scatter after oath-taking, local institutions surrender, and attackers destroy Wang-family tombs and state ritual buildings. The regime's final space, [[WeiyangPalace|未央宫]], burns before Wang Mang himself is killed in the next episode.
@@ -33,9 +36,9 @@ Hanji 666 supplies the terminal operational profile. Xin still has palace wealth
 - Reforming state whose archaising economic and social policy outran implementation capacity.
 - Frontier and symbolic-order regime whose moral hierarchy claims destabilized practical relations.
 - Household succession failure case in which public heirs die and private sons have to be recalled.
-- Currency, disaster-relief, and information failure in which private-coinage policing, forced labor, grain diversion, false market reporting, and bad famine advice intensify political collapse.
+- Currency, disaster-relief, and information failure in which private-coinage policing, forced labor, forbidden hunger reporting, grain diversion, false market reporting, and bad famine advice intensify political collapse.
 - Revolt-exposed regime whose collapse is tied to [[ChimeiRebellion|赤眉]], [[LulinRebellion|绿林]], and [[KunyangBattle|昆阳之战]].
-- Terminal command failure case in which titles, hostage control, oaths, and palace wealth cannot rebuild loyalty.
+- Command-failure regime in which useful local discretion is punished, capable operators are removed, and terminal titles, hostage control, oaths, and palace wealth cannot rebuild loyalty.
 
 ## Evidence
 
@@ -46,6 +49,8 @@ Hanji 666 supplies the terminal operational profile. Xin still has palace wealth
 - Household succession failure: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Wang Lin dies by suicide after investigation, Liu Ying also kills herself, Wang An dies of illness, and Wang Mang recalls Wang Xing and Wang Kuang.
 - Frontier and war pressure: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says suppression campaigns fail while Xiongnu planning pushes grain and wealth toward multiple frontier commanderies.
 - Currency enforcement harm: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says private coinage violations increase and linked punishment sends many people into official slavery and forced coinage labor.
+- Root-cause reporting suppression: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Wang Mang punishes internal-cause criticism and forbids officials from saying rebels are driven by hunger and cold.
+- Capable-field-operator removal: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Tian Kuang stabilizes Yiping, wins in Qing-Xu, diagnoses reporting and envoy failures, and is recalled because Wang Mang fears his merit.
 - Chimei origin and official-army backfire: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] says Fan Chong's Chimei grows while Wang Kuang and Lian Dan's official army harms civilians.
 - Relief corruption and misinformation: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] says relief grain is stolen, refugees die in large numbers, and Wang Ye falsely presents polished rice and meat soup as ordinary food conditions.
 - Command bottleneck: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] has Yan You complain that generals are sent without enough authority and must request instructions.
@@ -56,11 +61,12 @@ Hanji 666 supplies the terminal operational profile. Xin still has palace wealth
 
 ## Qualifications
 
-The Xin page does not treat Wang Mang's regime as only hypocrisy or only failed idealism. The Wang Mang source preserves the seriousness and political usefulness of sacred legitimacy, moral reputation, and Confucian reform language while still treating the resulting system as brittle. Hanji 658 supports the household-succession, frontier-requisition, famine, and private-coinage punishment layer, but precise casualty ratios, campaign details, Xiongnu marriage politics, and Wang Xing/Wang Kuang's later roles remain source-scoped. Hanji 660-2 supports the ritual-spectacle, Chimei-origin, official-army abuse, relief-corruption, Wang Ye misinformation, and command-bottleneck layer, but exact force counts, minor offices, grass-paste relief mechanics, Jing Shang, Kong Ren, Chen Mao, Wang Feng, Ma Wu, and later Lian Dan outcomes remain source-scoped. Hanji 666 supports the terminal collapse sequence but keeps Nine Tiger names, exact troop numbers, Chang'an gate details, and minor actors source-scoped. The source also narrates Empress Wang's shame and death, but her personal biography remains narrow until more evidence is added.
+The Xin page does not treat Wang Mang's regime as only hypocrisy or only failed idealism. The Wang Mang source preserves the seriousness and political usefulness of sacred legitimacy, moral reputation, and Confucian reform language while still treating the resulting system as brittle. Hanji 658 supports the household-succession, frontier-requisition, famine, and private-coinage punishment layer, but precise casualty ratios, campaign details, Xiongnu marriage politics, and Wang Xing/Wang Kuang's later roles remain source-scoped. Hanji 659 supports the forbidden root-cause reporting and Tian Kuang removal layer, but Yang Cheng, Gongsun Lu's full career, Lu Kuang, Chi Zhaoping, Tian Kuang's later career, and exact force counts remain source-scoped. Hanji 660-2 supports the ritual-spectacle, Chimei-origin, official-army abuse, relief-corruption, Wang Ye misinformation, and command-bottleneck layer, but exact force counts, minor offices, grass-paste relief mechanics, Jing Shang, Kong Ren, Chen Mao, Wang Feng, Ma Wu, and later Lian Dan outcomes remain source-scoped. Hanji 666 supports the terminal collapse sequence but keeps Nine Tiger names, exact troop numbers, Chang'an gate details, and minor actors source-scoped. The source also narrates Empress Wang's shame and death, but her personal biography remains narrow until more evidence is added.
 
 ## What Changed
 
 - Preserved Hanji 658's 21 CE household-succession, frontier-requisition, famine, and currency-enforcement layer.
+- Added Hanji 659's 21 CE root-cause reporting suppression and Tian Kuang removal layer.
 - Added Hanji 660-2's 22 CE Chimei-origin, official-army predation, relief-corruption, market-misinformation, and command-bottleneck layer.
 - Preserved Hanji 666's final military, administrative, symbolic, palace, and family-collapse layer.
 - Reframed Xin collapse as an interacting family, policy, military, food, labor, and command failure.
@@ -71,10 +77,14 @@ The Xin page does not treat Wang Mang's regime as only hypocrisy or only failed 
 - [[WesternHanDynasty|西汉]] - predecessor whose sacred legitimacy Xin redirects and whose restoration claim later defeats it.
 - [[WangLinXinCrownPrince|王林]] - public heir whose scandal death exposes the succession crisis before the final military collapse.
 - [[WangXingXinPrince|王兴]] and [[WangKuangXinPrince|王匡]] - private sons recalled after the public succession line breaks.
+- [[GongsunLuXinOfficial|公孙禄]] - ignored internal-cause critic in the regime's late crisis.
+- [[TianKuangXinOfficial|田邝]] - local commander whose removal exposes the regime's fear of effective field autonomy.
 - [[EmpressWangPingdi|汉平帝王皇后]] - Wang-family and Han-empress figure whose self-immolation marks dynastic identity rupture.
 - [[LulinRebellion|绿林]] - anti-Xin endgame force entering the Chang'an collapse field.
 - [[ChimeiRebellion|赤眉]] - parallel revolt force in the larger late-Xin breakdown.
 - [[DisasterReliefCorruption|救灾物资贪腐]] - famine-response failure visible in stolen relief grain and refugee deaths.
+- [[SuppressedRootCauseReporting|根因上报压制]] - information-control failure visible when hunger explanations are forbidden.
+- [[KeyOperatorRemovalRisk|关键执行者移除风险]] - command and talent failure visible in Tian Kuang's recall.
 - [[OfficialArmyPredationBackfire|官军扰民反噬]] - suppression failure visible in Wang Kuang and Lian Dan's army.
 - [[CommandAuthorityBottleneck|将权掣肘]] - field-command failure voiced by Yan You.
 - [[KunyangBattle|昆阳之战]] - battlefield rupture exposing Xin military fragility.

@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-09] ingest | 《资治通鉴·汉纪》659丨有些核心人才不要轻易动
+
+Ingested the 2026-06-08 芮淇讲透资治通鉴 episode on Wang Mang's late-Xin crisis management, forbidden hunger-based rebellion diagnosis, Gongsun Lu's ignored internal-cause warning, and Tian Kuang's removal after effective local stabilization. Added source `zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij`; created `TianKuangXinOfficial`, `GongsunLuXinOfficial`, `ChiZhaopingXinRebel`, `SuppressedRootCauseReporting`, and `KeyOperatorRemovalRisk`; updated `index` and late-Xin canonical pages. No settled contradiction found; Yang Cheng, Lu Kuang, many named officials, exact troop counts, and transcript-sensitive identities remain source-scoped.
+
 ## [2026-09-09] ingest | 猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？
 
 Ingested the 2026-09-08 声动早咖啡 episode on why China's pork cycle is not following its older rhythm. Added source `zhurou-jiage-jingli-man-chang-xiadie-weishenme-zhuzhouqi-buzai-zunxun-laojiezou-1012895922`; created `PorkCycle`, `ChinaPigFarmingScaleConsolidation`, `PorkConsumptionSubstitution`, `DownstreamPorkAbsorptionLimits`, and `MinistryOfAgricultureAndRuralAffairs`; updated `index`. No settled contradiction found; pork-price figures, company side-news, official-data readings, and analyst interpretations remain source-scoped.
@@ -16319,6 +16323,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | 罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......
 
 Ingested the 2026-07-24 罗永浩的十字路口 and 四孝喜剧 panel on flaws, baldness, ADHD, compulsive order, family pressure, reviews, online backlash, and 活人感. Added source `lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg`; created `CaoGuoStandup`, `LinJianxinStandup`, `OCDOrderPressure`, and `CreatorReviewResponseBoundary`; updated `LuoYonghao`, `LuoyonghaosCrossroads`, `SixiaoComedy`, `ShiLifen`, `ADHDSelfDiagnosisBoundary`, `HumanImperfectionCreativeValue`, `LiveHumanFeeling`, `overview`, and `index`. No settled contradiction found; ADHD medication effects, hair-loss treatment, compulsive-order family impact, review behavior, doxxing, and public rebuttal remain source-scoped anecdotes rather than medical, legal, or relationship advice.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

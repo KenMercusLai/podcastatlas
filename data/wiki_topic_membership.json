@@ -36370,6 +36370,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "KeyOperatorRemovalRisk": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "KeyPersonInsurance": [
     {
       "key": "economics",
@@ -61067,6 +61074,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "SuppressedRootCauseReporting": [
     {
       "key": "politics",
       "label": "Politics",
