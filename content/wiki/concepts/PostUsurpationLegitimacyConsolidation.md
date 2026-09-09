@@ -6,6 +6,7 @@ tags: [statecraft, legitimacy, dynasty, china]
 sources:
   - zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby
   - zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk
+  - zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp
 last_updated: 2026-09-09
 ---
 
@@ -15,27 +16,29 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-The concept now begins one step earlier through [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]], where [[WangMang|王莽]] has just founded the [[XinDynasty|新朝]] and immediately stages dynastic transition through family titles, old-dynasty containment, tearful moral performance, and fuming-backed staffing. [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|Hanji 636]] then extends the same consolidation field into genealogy, surname privilege, tomb protection, symbol bans, and local-order testing.
+The concept now begins one step earlier through [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]], where [[WangMang|王莽]] has just founded the [[XinDynasty|新朝]] and immediately stages dynastic transition through family titles, old-dynasty containment, tearful moral performance, and fuming-backed staffing. [[zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp|Hanji 635]] fills the administrative and royal-house containment layer: Liu royal kinsmen are removed from commandery governorships, Liu Ying's household is isolated, offices and places are renamed, Wang relatives are ranked through mourning categories, and former Han titles are downgraded. [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|Hanji 636]] then extends the same consolidation field into genealogy, surname privilege, tomb protection, symbol bans, and local-order testing.
 
-The central move is to reject a purely irrational reading of Wang Mang's early accession order. Hanji 634 treats the Ding'an Duke settlement for [[RuziYing|孺子婴 / 刘婴]], the public weeping before former Han officials, and the appointment of fuming-list figures as a performance package. Hanji 636 treats five-surname imperial kinship as an interest package: widen symbolic ancestry, create beneficiaries, reward loyal officials, manage Liu royal kin, suppress old-dynasty symbols, and demonstrate that rebellion lacks local support.
+The central move is to reject a purely irrational reading of Wang Mang's early accession order. Hanji 634 treats the Ding'an Duke settlement for [[RuziYing|孺子婴 / 刘婴]], the public weeping before former Han officials, and the appointment of fuming-list figures as a performance package. Hanji 635 shows consolidation as operating control: separate old royal kin from territorial power, confine the child figurehead, and rewrite names and titles so Xin categories displace Han ones. Hanji 636 treats five-surname imperial kinship as an interest package: widen symbolic ancestry, create beneficiaries, reward loyal officials, manage Liu royal kin, suppress old-dynasty symbols, and demonstrate that rebellion lacks local support.
 
 The pattern is distinct from simple accession legitimacy. Wang Mang already holds the throne in the sources; the problem is making different audiences behave as if the new order will last. Family and heir titles try to tidy Wang-family succession, Liu Ying's settlement reduces old-dynasty panic while emptying Han authority, tearful Zhougong language makes usurpation look reluctant, fuming appointments make personnel choices look preauthorized, genealogy and temples address sacred standing, surname exemptions create a privileged support field, coin and object bans remove symbolic rivals, and Liu Kuai's defeat shows that the regime can still compel local cooperation.
 
 ## Key Claims
 
 - Post-usurpation rule must consolidate after formal accession because symbolic title alone does not guarantee local cooperation or elite compliance.
-- Old-dynasty figureheads can be contained through ceremonial status, promised ritual continuity, and territorial grants that preserve the name while draining authority.
+- Old-dynasty figureheads and royal houses can be contained through ceremonial status, promised ritual continuity, territorial grants, removal from local command, and managed household isolation.
 - Accession performance matters: tears, classical precedent, and self-lowering posture can make a usurpation appear reluctant and Heaven-constrained.
 - Genealogy and ancestral ritual can widen legitimacy by placing the new ruler inside older sacred or royal lineages.
 - Privilege distribution is part of legitimacy work when tax and labor exemptions create beneficiaries tied to the new order.
 - Old-dynasty appeasement and symbolic suppression can operate together: Liu royal kin are protected or ceremonially honored in some respects while Liu-coded objects and currencies are banned.
-- Fuming-backed personnel selection can convert appointments into proof that the new order was prewritten by sacred evidence.
+- Fuming-backed personnel selection and name/title recoding can make the new order appear preauthorized and institutionally normal, even when these tools later become overreach.
 
 ## Evidence
 
 - Old-dynasty containment: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] says Wang Mang makes Liu Ying Ding'an Duke, gives households and land, and promises Han temples, laws, and colors while the source judges these arrangements largely empty.
+- Royal-house confinement: [[zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp|Hanji 635]] says Wang Mang transfers Liu-surname commandery governors into central remonstrance posts and controls Liu Ying's Ding'an Palace environment.
 - Reluctant-usurper performance: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] says Wang Mang cries while holding Liu Ying's hand, invokes Zhougong, claims Heaven's pressure, and faces north as a minister after the child is led away.
 - Family-title ordering: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] says Wang Mang makes his wife empress, bypasses Wang An for Wang Lin, compensates Wang An, and enfeoffs Wang Yu's six sons.
+- Name and title recoding: [[zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp|Hanji 635]] says Wang Mang changes official and place names, grades Wang relatives by mourning categories, and lowers former Han princes and marquises.
 - Fuming personnel theater: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] says Wang Mang installs the Four Assistants, Three Excellencies, and Four Generals according to Ai Zhang's gold-casket list, then finds commoners Wang Xing and Wang Sheng to match fabricated names.
 - Genealogical expansion: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|Hanji 636]] says Wang Mang claims descent from the Yellow Emperor, Shun, Chen, Tian, Qi, and Wang lines.
 - Ritual institutionalization: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|Hanji 636]] says Wang Mang builds ancestor and royal-lineage temples and assigns Chen Cong and Tian Feng to sacrificial roles.
@@ -46,11 +49,12 @@ The pattern is distinct from simple accession legitimacy. Wang Mang already hold
 
 ## Counterevidence & Qualifications
 
-This concept is currently source-scoped to Wang Mang's first-year consolidation in Hanji 634 and Hanji 636. The episodes argue that the moves have performance and interest logic, but they do not prove they produced durable legitimacy across the whole Xin period. Hanji 634's Wang Xing/Wang Sheng branch supports appointment theater, not their competence or later careers. Later Wang Mang notes already show many consolidation tools turning into reform overreach, symbol-control anxiety, monetary stress, frontier conflict, and rebellion. Exact temple design, beneficiary scale, regional variation, and popular motives remain outside the source set.
+This concept is currently source-scoped to Wang Mang's first-year consolidation in Hanji 634, Hanji 635, and Hanji 636. The episodes argue that the moves have performance, operating-control, and interest logic, but they do not prove they produced durable legitimacy across the whole Xin period. Hanji 634's Wang Xing/Wang Sheng branch supports appointment theater, not their competence or later careers. Hanji 635's Liu-kin silence question is partly inferential because the episode emphasizes Wang Mang's containment measures more than individual Liu-family motives. Later Wang Mang notes already show many consolidation tools turning into reform overreach, symbol-control anxiety, monetary stress, frontier conflict, and rebellion. Exact temple design, beneficiary scale, regional variation, and popular motives remain outside the source set.
 
 ## What Changed
 
 - Added Hanji 634 as the immediate accession-performance layer: Ding'an Duke containment, tearful Zhougong posture, family-title ordering, and fuming personnel theater.
+- Added Hanji 635 as the administrative and old-royal-house containment layer between accession performance and genealogy expansion.
 - Preserved Hanji 636 as the wider first-year genealogy, privilege, Liu-kin appeasement, symbol-control, and local-order package.
 - Kept the distinction between post-accession consolidation and later Wang Mang reform failure or terminal mandate collapse.
 
@@ -60,6 +64,7 @@ This concept is currently source-scoped to Wang Mang's first-year consolidation 
 - [[DynasticLegitimacyBackfire|王朝合法性回旋镖]] - upstream mechanism making Han sacred legitimacy transferable to Wang Mang.
 - [[AuspiciousOmenPolitics|祥瑞政治]] - adjacent sign-politics field for authorizing rule through ritual and sacred evidence.
 - [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]] - related old-dynasty-symbol mechanism that this concept contains when the new ruler neutralizes a predecessor claimant.
+- [[PostUsurpationRoyalHouseContainment|篡位后旧皇族收束]] - focused subpattern for removing displaced royal kin from command and confining an inherited claimant.
 - [[WangMangReforms|王莽改制]] - downstream policy program that grows out of the same ambition to recode society and order.
 - [[SameSurnameKingEnfeoffment|同姓王分封]] - old Han kinship institution whose weakened endpoint helps explain why Liu royal kin can be appeased rather than automatically mobilized.
 - [[MingqiLegitimacy|名器合法性]] - broader title-and-symbol framework that explains why surnames, temples, objects, money names, and old royal status matter.

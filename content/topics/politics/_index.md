@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2293
+topic_total_pages: 2294
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3745,6 +3745,9 @@ topic_concepts:
   - key: "EmptyReputationRealityGap"
     title: "空誉违实 / Empty Reputation-Reality Gap"
     url: "/wiki/concepts/emptyreputationrealitygap/"
+  - key: "PostUsurpationRoyalHouseContainment"
+    title: "篡位后旧皇族收束 / Post-Usurpation Royal House Containment"
+    url: "/wiki/concepts/postusurpationroyalhousecontainment/"
   - key: "LegitimacyAnxietyAdministrativeParalysis"
     title: "篡位焦虑式行政瘫痪 / Legitimacy-Anxiety Administrative Paralysis"
     url: "/wiki/concepts/legitimacyanxietyadministrativeparalysis/"

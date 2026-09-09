@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6856
+wiki_total_pages: 6857
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1850,6 +1850,9 @@ wiki_pages:
   - key: "PostUsurpationLegitimacyConsolidation"
     title: "篡位后合法性整合 / Post-Usurpation Legitimacy Consolidation"
     url: "/wiki/concepts/postusurpationlegitimacyconsolidation/"
+  - key: "PostUsurpationRoyalHouseContainment"
+    title: "篡位后旧皇族收束 / Post-Usurpation Royal House Containment"
+    url: "/wiki/concepts/postusurpationroyalhousecontainment/"
   - key: "PostVictoryAmnestySignal"
     title: "胜后既往不咎信号 / Post-Victory Amnesty Signal"
     url: "/wiki/concepts/postvictoryamnestysignal/"

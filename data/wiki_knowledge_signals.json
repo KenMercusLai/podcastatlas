@@ -3321,9 +3321,9 @@
       "url": "/wiki/entities/adidassamba/"
     },
     "AdministrativeRenamingOverreach": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》647丨十三朝古都洛阳，为何至关重要？ [ljJCpxlri4dq2zoa9oONyauhCwFv].md",
@@ -3331,6 +3331,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》647丨十三朝古都洛阳，为何至关重要？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》635丨被王莽偷家后，刘氏皇族何去何从？ [lhLDulIZw9KsijJBfZwJmXfsYHqp].md",
+          "key": "zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》635丨被王莽偷家后，刘氏皇族何去何从？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp/"
         }
       ],
       "updated": "2026-09-09",
@@ -56163,9 +56170,9 @@
       "url": "/wiki/concepts/nomadiccavalryraidingasymmetry/"
     },
     "NominalTitleInflation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？ [lvdqcaKza0ZqExTrhymPnPsWXyYj].md",
@@ -56173,6 +56180,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》635丨被王莽偷家后，刘氏皇族何去何从？ [lhLDulIZw9KsijJBfZwJmXfsYHqp].md",
+          "key": "zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》635丨被王莽偷家后，刘氏皇族何去何从？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp/"
         }
       ],
       "updated": "2026-09-09",
@@ -61573,9 +61587,9 @@
       "url": "/wiki/concepts/postsuccessarrogance/"
     },
     "PostUsurpationLegitimacyConsolidation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》636丨王莽当皇帝后，“神经错乱”了？ [lq-EsSRurb6jdefZjRFgOuJw5uby].md",
@@ -61590,10 +61604,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》634丨活在男人影子背后的她，惨！惨！惨！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》635丨被王莽偷家后，刘氏皇族何去何从？ [lhLDulIZw9KsijJBfZwJmXfsYHqp].md",
+          "key": "zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》635丨被王莽偷家后，刘氏皇族何去何从？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp/"
         }
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/postusurpationlegitimacyconsolidation/"
+    },
+    "PostUsurpationRoyalHouseContainment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》635丨被王莽偷家后，刘氏皇族何去何从？ [lhLDulIZw9KsijJBfZwJmXfsYHqp].md",
+          "key": "zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》635丨被王莽偷家后，刘氏皇族何去何从？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/postusurpationroyalhousecontainment/"
     },
     "PostVictoryAmnestySignal": {
       "episode_count": 2,
