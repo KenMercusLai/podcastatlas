@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6893
+wiki_total_pages: 6894
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1847,6 +1847,9 @@ wiki_pages:
   - key: "PalaceCoupUnderPolicingPretext"
     title: "治安名义政变 / Palace Coup Under Policing Pretext"
     url: "/wiki/concepts/palacecoupunderpolicingpretext/"
+  - key: "PaternalLocalOfficeEthic"
+    title: "父母官式地方官伦理 / Paternal Local Office Ethic"
+    url: "/wiki/concepts/paternallocalofficeethic/"
   - key: "ParentalExpectationShame"
     title: "父母期望羞耻化 / Parental Expectation Shame"
     url: "/wiki/concepts/parentalexpectationshame/"

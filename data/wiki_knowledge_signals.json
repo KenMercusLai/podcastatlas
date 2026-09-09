@@ -35615,6 +35615,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/haroldgodwinson/"
     },
+    "HeBingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》619丨“父母官”这个词是怎么来的？ [lmluscBTl3FaCZsSZ5DidybAWa1R].md",
+          "key": "zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》619丨“父母官”这个词是怎么来的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/hebingwesternhan/"
+    },
     "HeChangEasternHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -60734,6 +60750,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/patgelsinger/"
+    },
+    "PaternalLocalOfficeEthic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》619丨“父母官”这个词是怎么来的？ [lmluscBTl3FaCZsSZ5DidybAWa1R].md",
+          "key": "zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》619丨“父母官”这个词是怎么来的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/paternallocalofficeethic/"
     },
     "PatientSM": {
       "episode_count": 1,
@@ -88855,6 +88887,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/yanxiangcheshilatehan/"
+    },
+    "YanXuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》619丨“父母官”这个词是怎么来的？ [lmluscBTl3FaCZsSZ5DidybAWa1R].md",
+          "key": "zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》619丨“父母官”这个词是怎么来的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/yanxuwesternhan/"
     },
     "YanYouXinGeneral": {
       "episode_count": 4,

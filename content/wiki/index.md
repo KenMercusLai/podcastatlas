@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》619丨“父母官”这个词是怎么来的？](sources/zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r.md) — 3-4 CE Han Pingdi backfill on Yan Xu as a "父母官" exemplar, He Bing's harsh Yingchuan succession, detention protections for women, elders, and children, Wang Mang's daughter entering the palace, and the setup for Wang Mang's next political performance.
 - [《资治通鉴·汉纪》620丨史上最传奇的“全民大选”](sources/zizhi-tongjian-hanji-620-shishang-zui-chuanqi-de-quanmin-daxuan-llijvsut0ldv-ugfa281sllst4gu.md) — 4 CE Wang Mang backfill on an 8,000-person petition, the "宰衡" status package, Wang Zhengjun's personal conferral, family honors, ritual refusal, ministerial counter-petition, and public-refusal status inflation.
 - [《资治通鉴·汉纪》621丨帝王心术：攻心最重要！](sources/zizhi-tongjian-hanji-621-diwang-xinshu-gongxin-zui-zhongyao-lgo01rnxby9ynyyzanljhtrawjck.md) — 4 CE Wang Mang backfill on inner-court influence through Wang Zhengjun's attendants, sisters, outings, charity scenes, servant care, Wang Shun's praise report, and Kong Guang's fearful withdrawal.
 - [《资治通鉴·汉纪》622丨官员如何做面子功夫？](sources/zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j.md) — 4 CE Wang Mang backfill on Ming Tang/Biyong/Lingtai proposals, scholar housing, Taixue expansion, textual-standardization recruitment, Yellow River policy debate, and face-project governance.
@@ -2104,6 +2105,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [严徐 / Yan Xu (Western Han)](entities/YanXuWesternHan.md) — Western Han Yingchuan governor used by Hanji 619 to explain the "父母官" ideal through filial reputation, restraint, and grief for local people's safety.
+- [何病 / He Bing (Western Han)](entities/HeBingWesternHan.md) — Western Han official whose harsh succession after Yan Xu in Yingchuan serves as Hanji 619's contrast case for local governance as protection or fear.
 - [梁王刘丽 / Liu Li, King of Liang](entities/LiuLiWesternHan.md) — Western Han Liu-line king stripped and exiled after an accusation involving Pingdi's Wei-family remnants.
 - [孔光 / Kong Guang (Western Han)](entities/KongGuangWesternHan.md) — Western Han Taishi whose fearful withdrawal under Wang Mang's praise atmosphere precedes his 5 CE death and Ma Gong's appointment.
 - [曾涵 / Zeng Han, Xin-aligned official](entities/ZengHanXinOfficial.md) — Right general who reports Wang Mang's refusal language to Wang Zhengjun before the Nine Bestowments order.
@@ -11620,6 +11623,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [父母官式地方官伦理 / Paternal Local Office Ethic](concepts/PaternalLocalOfficeEthic.md) — Local-office ideal from Hanji 619 where a governor's care, restraint, and people-first obligation are imagined through household ethics.
 - [Face-Project Governance / 面子工程式治理](concepts/FaceProjectGovernance.md) — Political prestige built through visible ritual, educational, expert, or public-works activity before implementation is proven.
 - [西海郡流放和法令增殖 / Xihai Exile Administrative Burden](concepts/XihaiExileAdministrativeBurden.md) — Wang Mang-era pattern where Xihai commandery law and exile policy become mass administrative and social burden.
 - [九锡礼遇 / Nine Bestowments Ritual Promotion](concepts/JiuXiRitualPromotion.md) — Ritual elevation of a powerful minister through nine imperial-bestowed ceremonial privileges.

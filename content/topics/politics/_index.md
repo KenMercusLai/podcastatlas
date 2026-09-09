@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2298
+topic_total_pages: 2299
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3709,6 +3709,9 @@ topic_concepts:
   - key: "CleanOfficialCapacityGap"
     title: "清官能吏能力差 / Clean Official Capacity Gap"
     url: "/wiki/concepts/cleanofficialcapacitygap/"
+  - key: "PaternalLocalOfficeEthic"
+    title: "父母官式地方官伦理 / Paternal Local Office Ethic"
+    url: "/wiki/concepts/paternallocalofficeethic/"
   - key: "SuspicionDrivenEliteAlienation"
     title: "猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation"
     url: "/wiki/concepts/suspiciondrivenelitealienation/"
