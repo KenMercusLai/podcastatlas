@@ -16798,3 +16798,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-10] ingest | 《资治通鉴·汉纪》620丨史上最传奇的“全民大选”
+
+Added source note for the 4 CE Wang Mang petition-and-reward episode. Key claims: more than 8,000 petitioners help make Wang Mang's "宰衡" elevation look publicly demanded; Wang Zhengjun personally confers the package; Wang Mang's refusal of his sons' honors becomes another status-inflation step; and Kong Guang's counter-petition helps summon him back to government.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
