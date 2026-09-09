@@ -16692,3 +16692,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-10] ingest | 《资治通鉴·汉纪》630丨假好人撕掉面具，能有多丑恶？
+
+Added source note for the 2026-06-02 芮淇讲透资治通鉴 episode on Wang Mang's 7 CE currency and legitimacy crisis, Zhai Yi's anti-usurpation coalition, Liu Xin's claimant enthronement, public indictment against Wang Mang, and Wang Mang's emergency military and Zhougong-framed response. Updated Zhai Yi Rebellion, Legitimacy Indictment Warfare, index, and overview. No settled contradiction found; the Han Pingdi poisoning charge is preserved as a rebel accusation, and minor actors, office titles, troop counts, and Wang Mang's inner psychology remain source-scoped.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

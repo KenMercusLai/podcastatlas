@@ -44613,9 +44613,9 @@
       "url": "/wiki/concepts/legitimacyanxietyadministrativeparalysis/"
     },
     "LegitimacyIndictmentWarfare": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭 [lhs6miq2aA3AvnnY_pRxTVKfxGvY].md",
@@ -44630,9 +44630,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1043丨袁绍痛骂曹操，竟治好了他的偏头疼？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》630丨假好人撕掉面具，能有多丑恶？ [li9bkjm4dPHUq9l_sJYk-qNWFeYL].md",
+          "key": "zizhi-tongjian-hanji-630-jiahaoren-sidiao-mianju-nengyou-duo-choue-li9bkjm4dphuq9l-sjyk-qnwfeyl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》630丨假好人撕掉面具，能有多丑恶？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-630-jiahaoren-sidiao-mianju-nengyou-duo-choue-li9bkjm4dphuq9l-sjyk-qnwfeyl/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/legitimacyindictmentwarfare/"
     },
     "Lego": {
@@ -89883,9 +89890,9 @@
       "url": "/wiki/entities/zhairongeasternhan/"
     },
     "ZhaiYiRebellion": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》652丨王莽的外科手术 [ltdIqldskazY-cB6iGDMrv5hUxm9].md",
@@ -89900,6 +89907,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》631丨古代杀人，真会把白骨堆成山？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》630丨假好人撕掉面具，能有多丑恶？ [li9bkjm4dPHUq9l_sJYk-qNWFeYL].md",
+          "key": "zizhi-tongjian-hanji-630-jiahaoren-sidiao-mianju-nengyou-duo-choue-li9bkjm4dphuq9l-sjyk-qnwfeyl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》630丨假好人撕掉面具，能有多丑恶？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-630-jiahaoren-sidiao-mianju-nengyou-duo-choue-li9bkjm4dphuq9l-sjyk-qnwfeyl/"
         }
       ],
       "updated": "2026-09-10",
