@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6810
+wiki_total_pages: 6812
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -896,6 +896,9 @@ wiki_pages:
   - key: "DualManuscriptNarration"
     title: "双手稿叙事 / Dual Manuscript Narration"
     url: "/wiki/concepts/dualmanuscriptnarration/"
+  - key: "DiplomaticScapegoatBlameTransfer"
+    title: "外交替罪式责任转嫁 / Diplomatic Scapegoat Blame Transfer"
+    url: "/wiki/concepts/diplomaticscapegoatblametransfer/"
   - key: "DynasticMemoryReportingRitual"
     title: "宗庙记忆中的行政汇报 / Dynastic Memory Reporting Ritual"
     url: "/wiki/concepts/dynasticmemoryreportingritual/"

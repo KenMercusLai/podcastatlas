@@ -19819,6 +19819,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "DiplomaticScapegoatBlameTransfer": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Dipsig": [
     {
       "key": "technology",
@@ -37761,6 +37768,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "LegitimacyAnxietyAdministrativeParalysis": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "LegitimacyIndictmentWarfare": [

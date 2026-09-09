@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2279
+topic_total_pages: 2281
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3514,6 +3514,9 @@ topic_concepts:
   - key: "GrassrootsOfficialNetwork"
     title: "基层官吏网络政治资本 / Grassroots Official Network"
     url: "/wiki/concepts/grassrootsofficialnetwork/"
+  - key: "DiplomaticScapegoatBlameTransfer"
+    title: "外交替罪式责任转嫁 / Diplomatic Scapegoat Blame Transfer"
+    url: "/wiki/concepts/diplomaticscapegoatblametransfer/"
   - key: "OuterRelativeCommandAppointmentRisk"
     title: "外戚任重职风险 / Outer-Relative Command Appointment Risk"
     url: "/wiki/concepts/outerrelativecommandappointmentrisk/"
@@ -3721,6 +3724,9 @@ topic_concepts:
   - key: "EmptyReputationRealityGap"
     title: "空誉违实 / Empty Reputation-Reality Gap"
     url: "/wiki/concepts/emptyreputationrealitygap/"
+  - key: "LegitimacyAnxietyAdministrativeParalysis"
+    title: "篡位焦虑式行政瘫痪 / Legitimacy-Anxiety Administrative Paralysis"
+    url: "/wiki/concepts/legitimacyanxietyadministrativeparalysis/"
   - key: "SuoYinReading"
     title: "索隐式阅读 / Suo Yin Reading"
     url: "/wiki/concepts/suoyinreading/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6810
+wiki_total_pages: 6812
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -788,6 +788,9 @@ wiki_pages:
   - key: "LiveHumanFeeling"
     title: "活人感 / Live Human Feeling"
     url: "/wiki/concepts/livehumanfeeling/"
+  - key: "LegitimacyAnxietyAdministrativeParalysis"
+    title: "篡位焦虑式行政瘫痪 / Legitimacy-Anxiety Administrative Paralysis"
+    url: "/wiki/concepts/legitimacyanxietyadministrativeparalysis/"
   - key: "LianxiaotiDistribution"
     title: "联销体模式 / Lianxiaoti Distribution"
     url: "/wiki/concepts/lianxiaotidistribution/"

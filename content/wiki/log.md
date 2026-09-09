@@ -16447,6 +16447,14 @@ Ran lint. See lint-report.md for details.
 
 Added source note for Hanji 651. Key claims: Hetu-Luoshu and "earth suppresses water" turn a river change into an anti-Xiongnu omen; Wang Mang accepts the favorable interpretation and deploys frontier forces; southwest Quting campaigns show epidemic, supply exhaustion, civilian extraction, and Feng Ying's stop-war alternative; the closing anatomy material sets up Hanji 652.
 
+## [2026-09-09] ingest | 《资治通鉴·汉纪》649丨官场里的人情世故有多现实？
+
+Added source note for Hanji 649. Key claims: the yellow-dragon rumor is read as a legitimacy threat to Wang Mang; Chen Qing is killed as a diplomatic scapegoat before the Xiongnu corpse-return mission; ritual and classical ordering consume administrative attention; local vacancies, intrusive inspection, tax pressure, bribery, and official risk avoidance expose early late-Xin office paralysis.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
