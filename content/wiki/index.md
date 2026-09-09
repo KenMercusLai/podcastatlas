@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29](sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad.md) — What's Next episode with Song Le on AI for Science, research agents, domain models, GenBio AI, virtual cells, biological data quality, active learning, and the boundary around creative scientific discovery.
 - [Chainsaw sputtering: Milei's experiment falters](sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b.md) — The Intelligence episode on Javier Milei's Argentina stabilization tradeoff, Saudi sports-investment limits, and India's elephant-corridor conservation problem.
 - [676. The First World War: Churchill's Calamity (Part 6)](sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911.md) — The Rest Is History episode on Gallipoli after the failed 1915 landings, covering Churchill's Dardanelles strategy, trench stalemate, disease, Westminster crisis, Suvla Bay, evacuation, Mustafa Kemal, and Anzac memory.
 - [Cost-cutting, quiet guilt and the inflation generation](sources/default-mp3-ywr3ahjkcgo-8dbc38a9b9e4647dbd8e2ebddb601c4e-26201098-default-mp3-ywr3ahjkcgo-8dbc38a9b9e4647dbd8e2ebddb601c4e-26201098.md) — Planet Money episode on the everything-all-at-once economy, contrasting Lindsay Cole's household cost cutting, Rick Schultz's pension-and-asset retirement comfort, and Leo Vamaka's inflation-shaped consumer habits.
@@ -2077,6 +2078,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Song Le / 宋乐](entities/SongLe.md) — GenBio AI co-founder and CTO connecting graph learning, protein language models, AI drug discovery, and virtual-cell world models.
+- [GenBio AI](entities/GenBioAI.md) — Life-science AI company focused on biological foundation models and virtual-cell simulation.
 - [Ganesha](entities/Ganesha.md) — Elephant-headed Hindu deity used by The Intelligence as cultural context for India's elephant-conservation gap.
 - [LIV Golf](entities/LIVGolf.md) — Saudi-backed golf challenger used as a case for the limits of capital-led sports disruption.
 - [PGA Tour](entities/PGATour.md) — Incumbent American golf institution used as LIV Golf's established rival in the sports-legitimacy branch.
@@ -11529,6 +11532,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Virtual Cell World Model](concepts/VirtualCellWorldModel.md) — Stateful biological world-model concept for simulating cell states, perturbations, and drug or disease responses.
+- [Biological Harness Engineering](concepts/BiologicalHarnessEngineering.md) — AI-for-science model-engineering pattern that embeds biological constraints, domain knowledge, and validation structure.
+- [Life Science Data Information Value](concepts/LifeScienceDataInformationValue.md) — Distinction between raw biological data volume and model-useful information for life-science AI.
+- [AI Science Active Learning](concepts/AIScienceActiveLearning.md) — Closed-loop pattern where AI selects high-value experiments or measurements to reduce scientific uncertainty.
+- [AI Scientific Creativity Boundary](concepts/AIScientificCreativityBoundary.md) — Boundary between automatable scientific work and harder concept-generating or cross-domain creative discovery.
+- [Graph Neural Networks](concepts/GraphNeuralNetworks.md) — Relational machine-learning architecture family used for molecules, pathways, knowledge graphs, and biological networks.
+- [Protein Language Models](concepts/ProteinLanguageModels.md) — Foundation-style protein-sequence models used for representation, structure features, and protein or antibody generation.
 - [Election-Facing Stabilization](concepts/ElectionFacingStabilization.md) — Phase where lower headline crisis indicators must still survive voter judgment on jobs, wages, and household recovery.
 - [Indian Elephant Corridors](concepts/IndianElephantCorridors.md) — India-specific elephant habitat passages where cultural reverence, infrastructure, farms, and ecosystem services collide.
 - [Sports Capital Cannot Buy Legitimacy](concepts/SportsCapitalCannotBuyLegitimacy.md) — Pattern where sports spending can buy athletes and events but not instantly buy fans, media demand, or institutional legitimacy.

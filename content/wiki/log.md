@@ -1884,6 +1884,10 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
+
+Added source note for the What's Next episode with Song Le on AI for Science, GenBio AI, virtual-cell world models, biological harness engineering, data information value, active learning, protein language models, graph neural networks, and the boundary between automatable scientific labor and creative scientific discovery. No settled contradiction recorded; funding figures, model-performance claims, GenBio AI timelines, and AlphaFold-like maturity comparisons remain source-scoped.
+
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》637丨王莽真的是穿越皇帝吗？
 
 Added source note for the 9-10 CE Wang Mang backfill on 王田, slave-sale prohibition, land limits, Four Evils punishment rhetoric, Five Authority fuming巡行, seal replacement, and early title downgrades. Updated Wang Mang reforms, Wang Mang, Xin dynasty, and symbolic status downgrade synthesis pages; no settled contradiction found.
@@ -16577,6 +16581,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams
 
 Added source note for the 2026-06-04 Huberman Lab Essentials episode with Nolan Williams on depression, circuit psychiatry, TMS, Stanford Neuromodulation Therapy, psychedelics, ketamine, trauma-memory reconsolidation, and clinical supervision. Created Nolan Williams, Circuit-Based Psychiatry, Transcranial Magnetic Stimulation for Depression, Stanford Neuromodulation Therapy, Memory Reconsolidation Psychiatry, and Psychedelic Clinical Supervision Boundary pages; updated Psychiatric Medication Supervision Boundary and index. No settled contradiction found; ibogaine, ayahuasca, psilocybin, MDMA, ketamine, SNT outcomes, and durability claims remain source-scoped and clinically bounded.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

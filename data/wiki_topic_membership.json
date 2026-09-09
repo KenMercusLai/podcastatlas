@@ -10927,6 +10927,13 @@
       "url": "/topics/science/"
     }
   ],
+  "BiologicalHarnessEngineering": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "BioregionalResilience": [
     {
       "key": "politics",
@@ -27071,6 +27078,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "GenBioAI": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "GenderBarrierSpaceflight": [
     {
       "key": "science",
@@ -38556,6 +38570,13 @@
     }
   ],
   "LifeReprogrammingVision": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "LifeScienceDataInformationValue": [
     {
       "key": "science",
       "label": "Science",
@@ -51205,6 +51226,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ProteinLanguageModels": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ProvocationPublicityPolitics": [
     {
       "key": "culture",
@@ -58726,6 +58754,18 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "SongLe": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "SongMilitaryCentralization": [
@@ -67079,6 +67119,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "VirtualCellWorldModel": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "VirtualPhysicalLifeBalance": [
     {
       "key": "technology",
@@ -73444,6 +73491,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6846
+wiki_total_pages: 6853
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "LifeRestartThoughtExperiment"
     title: "Life Restart Thought Experiment"
     url: "/wiki/concepts/liferestartthoughtexperiment/"
+  - key: "LifeScienceDataInformationValue"
+    title: "Life Science Data Information Value"
+    url: "/wiki/concepts/lifesciencedatainformationvalue/"
   - key: "LifeSciencesWorkflowSoftware"
     title: "Life Sciences Workflow Software"
     url: "/wiki/concepts/lifesciencesworkflowsoftware/"

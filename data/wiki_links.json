@@ -2543,6 +2543,14 @@
     "title": "AI Safety Narrative Backfire",
     "url": "/wiki/concepts/aisafetynarrativebackfire/"
   },
+  "AIScienceActiveLearning": {
+    "title": "AI Science Active Learning",
+    "url": "/wiki/concepts/aiscienceactivelearning/"
+  },
+  "AIScientificCreativityBoundary": {
+    "title": "AI Scientific Creativity Boundary",
+    "url": "/wiki/concepts/aiscientificcreativityboundary/"
+  },
   "AISearchAdvertising": {
     "title": "AI Search Advertising",
     "url": "/wiki/concepts/aisearchadvertising/"
@@ -7850,6 +7858,10 @@
   "BiologicalAgency": {
     "title": "Biological Agency / 生物能动性",
     "url": "/wiki/concepts/biologicalagency/"
+  },
+  "BiologicalHarnessEngineering": {
+    "title": "Biological Harness Engineering",
+    "url": "/wiki/concepts/biologicalharnessengineering/"
   },
   "BiomedicalDeepLearning": {
     "title": "Biomedical Deep Learning",
@@ -22923,6 +22935,10 @@
     "title": "Gemini CLI",
     "url": "/wiki/entities/geminicli/"
   },
+  "GenBioAI": {
+    "title": "GenBio AI",
+    "url": "/wiki/entities/genbioai/"
+  },
   "GenderBarrierSpaceflight": {
     "title": "Gender Barrier Spaceflight",
     "url": "/wiki/concepts/genderbarrierspaceflight/"
@@ -24074,6 +24090,10 @@
   "GrandViewGardenYouthUtopia": {
     "title": "大观园青春乌托邦 / Grand View Garden Youth Utopia",
     "url": "/wiki/concepts/grandviewgardenyouthutopia/"
+  },
+  "GraphNeuralNetworks": {
+    "title": "Graph Neural Networks",
+    "url": "/wiki/concepts/graphneuralnetworks/"
   },
   "GrassrootsOfficialNetwork": {
     "title": "基层官吏网络政治资本 / Grassroots Official Network",
@@ -33946,6 +33966,10 @@
   "LifeRestartThoughtExperiment": {
     "title": "Life Restart Thought Experiment",
     "url": "/wiki/concepts/liferestartthoughtexperiment/"
+  },
+  "LifeScienceDataInformationValue": {
+    "title": "Life Science Data Information Value",
+    "url": "/wiki/concepts/lifesciencedatainformationvalue/"
   },
   "LifeSciencesWorkflowSoftware": {
     "title": "Life Sciences Workflow Software",
@@ -45791,6 +45815,10 @@
     "title": "Protein Body-Composition Lever",
     "url": "/wiki/concepts/proteinbodycompositionlever/"
   },
+  "ProteinLanguageModels": {
+    "title": "Protein Language Models",
+    "url": "/wiki/concepts/proteinlanguagemodels/"
+  },
   "ProteinSupplyChainMarketFit": {
     "title": "Protein Supply Chain Market Fit / 蛋白质供应链市场匹配",
     "url": "/wiki/concepts/proteinsupplychainmarketfit/"
@@ -52699,6 +52727,10 @@
     "title": "宋康王 / 宋君偃 / King Kang of Song",
     "url": "/wiki/entities/songjunyan/"
   },
+  "SongLe": {
+    "title": "Song Le / 宋乐",
+    "url": "/wiki/entities/songle/"
+  },
   "SongLiu": {
     "title": "宋刘 / Song Liu",
     "url": "/wiki/entities/songliu/"
@@ -59326,6 +59358,10 @@
   "VirtualAssetAMLRisk": {
     "title": "Virtual Asset AML Risk",
     "url": "/wiki/concepts/virtualassetamlrisk/"
+  },
+  "VirtualCellWorldModel": {
+    "title": "Virtual Cell World Model",
+    "url": "/wiki/concepts/virtualcellworldmodel/"
   },
   "VirtualPhysicalLifeBalance": {
     "title": "Virtual-Physical Life Balance / 虚拟与实体生活差异",
@@ -66678,6 +66714,10 @@
   "ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx": {
     "title": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘",
     "url": "/wiki/sources/ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx/"
+  },
+  "ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad": {
+    "title": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29",
+    "url": "/wiki/sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad/"
   },
   "ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1": {
     "title": "AI 会写代码了，为什么你还是做不出产品？",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9448
+wiki_total_pages: 9450
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "GeminiCLI"
     title: "Gemini CLI"
     url: "/wiki/entities/geminicli/"
+  - key: "GenBioAI"
+    title: "GenBio AI"
+    url: "/wiki/entities/genbioai/"
   - key: "GeneShepard"
     title: "Gene Shepard"
     url: "/wiki/entities/geneshepard/"

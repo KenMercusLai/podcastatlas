@@ -2525,6 +2525,38 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/airesistantexperientialconsumption/"
     },
+    "AIScienceActiveLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ ｜ S10E29 [b59d5e79-65af-4a1a-ac50-b54e665474ad].md",
+          "key": "ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad",
+          "show": "What's Next｜科技早知道",
+          "title": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29",
+          "url": "/wiki/sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/aiscienceactivelearning/"
+    },
+    "AIScientificCreativityBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ ｜ S10E29 [b59d5e79-65af-4a1a-ac50-b54e665474ad].md",
+          "key": "ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad",
+          "show": "What's Next｜科技早知道",
+          "title": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29",
+          "url": "/wiki/sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/aiscientificcreativityboundary/"
+    },
     "AISnowlineWorkBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -8702,6 +8734,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/biontech/"
+    },
+    "BiologicalHarnessEngineering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ ｜ S10E29 [b59d5e79-65af-4a1a-ac50-b54e665474ad].md",
+          "key": "ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad",
+          "show": "What's Next｜科技早知道",
+          "title": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29",
+          "url": "/wiki/sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/biologicalharnessengineering/"
     },
     "BipartisanSwingStateRepresentation": {
       "episode_count": 1,
@@ -30997,6 +31045,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/gele/"
     },
+    "GenBioAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ ｜ S10E29 [b59d5e79-65af-4a1a-ac50-b54e665474ad].md",
+          "key": "ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad",
+          "show": "What's Next｜科技早知道",
+          "title": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29",
+          "url": "/wiki/sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/genbioai/"
+    },
     "GenderedAIMarketing": {
       "episode_count": 1,
       "show_count": 1,
@@ -32853,6 +32917,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/grahamplatner/"
+    },
+    "GraphNeuralNetworks": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ ｜ S10E29 [b59d5e79-65af-4a1a-ac50-b54e665474ad].md",
+          "key": "ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad",
+          "show": "What's Next｜科技早知道",
+          "title": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29",
+          "url": "/wiki/sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/graphneuralnetworks/"
     },
     "GrayMarketPeptides": {
       "episode_count": 2,
@@ -45572,6 +45652,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/licensedsyntheticvoicemarketplace/"
+    },
+    "LifeScienceDataInformationValue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ ｜ S10E29 [b59d5e79-65af-4a1a-ac50-b54e665474ad].md",
+          "key": "ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad",
+          "show": "What's Next｜科技早知道",
+          "title": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29",
+          "url": "/wiki/sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/lifesciencedatainformationvalue/"
     },
     "LifelongSexEducation": {
       "episode_count": 1,
@@ -62672,6 +62768,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/proteinbodycompositionlever/"
     },
+    "ProteinLanguageModels": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ ｜ S10E29 [b59d5e79-65af-4a1a-ac50-b54e665474ad].md",
+          "key": "ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad",
+          "show": "What's Next｜科技早知道",
+          "title": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29",
+          "url": "/wiki/sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/proteinlanguagemodels/"
+    },
     "ProteinSupplyChainMarketFit": {
       "episode_count": 1,
       "show_count": 1,
@@ -71716,6 +71828,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/songjia/"
     },
+    "SongLe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ ｜ S10E29 [b59d5e79-65af-4a1a-ac50-b54e665474ad].md",
+          "key": "ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad",
+          "show": "What's Next｜科技早知道",
+          "title": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29",
+          "url": "/wiki/sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/songle/"
+    },
     "SongYiEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -80406,6 +80534,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/violencereductionpublichealthmodel/"
+    },
+    "VirtualCellWorldModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ ｜ S10E29 [b59d5e79-65af-4a1a-ac50-b54e665474ad].md",
+          "key": "ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad",
+          "show": "What's Next｜科技早知道",
+          "title": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29",
+          "url": "/wiki/sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/virtualcellworldmodel/"
     },
     "VishnuPadmanabhan": {
       "episode_count": 1,

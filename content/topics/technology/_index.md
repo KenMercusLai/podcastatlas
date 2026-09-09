@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2840
+topic_total_pages: 2841
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6326,6 +6326,9 @@ topic_entities:
   - key: "SondreSolstad"
     title: "Sondre Solstad"
     url: "/wiki/entities/sondresolstad/"
+  - key: "SongLe"
+    title: "Song Le / 宋乐"
+    url: "/wiki/entities/songle/"
   - key: "SonyPictures"
     title: "Sony Pictures"
     url: "/wiki/entities/sonypictures/"

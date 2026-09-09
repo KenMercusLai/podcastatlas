@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9448
+wiki_total_pages: 9450
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -875,6 +875,9 @@ wiki_pages:
   - key: "SondreSolstad"
     title: "Sondre Solstad"
     url: "/wiki/entities/sondresolstad/"
+  - key: "SongLe"
+    title: "Song Le / 宋乐"
+    url: "/wiki/entities/songle/"
   - key: "Sony"
     title: "Sony"
     url: "/wiki/entities/sony/"

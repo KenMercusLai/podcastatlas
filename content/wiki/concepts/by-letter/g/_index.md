@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6846
+wiki_total_pages: 6853
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "GrainLeverageAllianceBetrayal"
     title: "Grain Leverage Alliance Betrayal / 粮食诱导式同盟背叛"
     url: "/wiki/concepts/grainleveragealliancebetrayal/"
+  - key: "GraphNeuralNetworks"
+    title: "Graph Neural Networks"
+    url: "/wiki/concepts/graphneuralnetworks/"
   - key: "GRASSelfCertification"
     title: "GRAS Self-Certification"
     url: "/wiki/concepts/grasselfcertification/"
