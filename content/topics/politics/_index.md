@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2290
+topic_total_pages: 2293
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1243,6 +1243,9 @@ topic_concepts:
   - key: "FragmentedCeasefireEnforcement"
     title: "Fragmented Ceasefire Enforcement"
     url: "/wiki/concepts/fragmentedceasefireenforcement/"
+  - key: "FreeSpeechCoalitionVPaxton"
+    title: "Free Speech Coalition v. Paxton"
+    url: "/wiki/concepts/freespeechcoalitionvpaxton/"
   - key: "FreedomAsDignity"
     title: "Freedom As Dignity / 自由作为尊严"
     url: "/wiki/concepts/freedomasdignity/"
@@ -4385,6 +4388,9 @@ topic_entities:
   - key: "Fotucheng"
     title: "Fotucheng / 佛图澄"
     url: "/wiki/entities/fotucheng/"
+  - key: "FoundationForIndividualRightsAndExpression"
+    title: "Foundation for Individual Rights and Expression"
+    url: "/wiki/entities/foundationforindividualrightsandexpression/"
   - key: "FoundersFund"
     title: "Founders Fund"
     url: "/wiki/entities/foundersfund/"
@@ -5690,6 +5696,9 @@ topic_entities:
   - key: "WidgeryInquiry"
     title: "Widgery Inquiry"
     url: "/wiki/entities/widgeryinquiry/"
+  - key: "WillCreeley"
+    title: "Will Creeley"
+    url: "/wiki/entities/willcreeley/"
   - key: "WillHurd"
     title: "Will Hurd"
     url: "/wiki/entities/willhurd/"

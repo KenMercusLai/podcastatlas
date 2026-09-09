@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9452
+wiki_total_pages: 9454
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "Fotucheng"
     title: "Fotucheng / 佛图澄"
     url: "/wiki/entities/fotucheng/"
+  - key: "FoundationForIndividualRightsAndExpression"
+    title: "Foundation for Individual Rights and Expression"
+    url: "/wiki/entities/foundationforindividualrightsandexpression/"
   - key: "FounderSchool"
     title: "Founder School"
     url: "/wiki/entities/founderschool/"

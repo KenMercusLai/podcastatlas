@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6854
+wiki_total_pages: 6856
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -962,6 +962,9 @@ wiki_pages:
   - key: "FreeServiceHiddenCost"
     title: "Free Service Hidden Cost / 免费服务隐性成本"
     url: "/wiki/concepts/freeservicehiddencost/"
+  - key: "FreeSpeechCoalitionVPaxton"
+    title: "Free Speech Coalition v. Paxton"
+    url: "/wiki/concepts/freespeechcoalitionvpaxton/"
   - key: "FreeTradeDistributionalCost"
     title: "Free Trade Distributional Cost"
     url: "/wiki/concepts/freetradedistributionalcost/"

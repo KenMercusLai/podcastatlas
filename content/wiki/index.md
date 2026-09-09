@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Meta's youth safety settlement could change how people access the internet](sources/metas-youth-safety-settlement-could-change-how-people-access-the-internet.md) — Marketplace Tech episode with Will Creeley of FIRE on Meta's teen-safety settlement, age or identity verification pressure, anonymous speech, and First Amendment limits.
 - [《资治通鉴·汉纪》636丨王莽当皇帝后，“神经错乱”了？](sources/zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby.md) — 9 CE Wang Mang backfill on five-surname imperial kinship, ancestral legitimacy, Liu royal appeasement, anti-Liu symbol and coin bans, Liu Kuai's failed rising, and Liu Yin's compliant survival.
 - [AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29](sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad.md) — What's Next episode with Song Le on AI for Science, research agents, domain models, GenBio AI, virtual cells, biological data quality, active learning, and the boundary around creative scientific discovery.
 - [Chainsaw sputtering: Milei's experiment falters](sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b.md) — The Intelligence episode on Javier Milei's Argentina stabilization tradeoff, Saudi sports-investment limits, and India's elephant-corridor conservation problem.
@@ -7796,6 +7797,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [PwC](entities/PwC.md) — Consulting firm represented in the Marketplace Tech EV price-parity forecast.
 - [Aaron Mackey](entities/AaronMackey.md) — Electronic Frontier Foundation speaker arguing that under-16 social-media bans, parental consent, and age gates can burden minors' and adults' online speech rights.
 - [Electronic Frontier Foundation](entities/ElectronicFrontierFoundation.md) — Digital-rights organization represented by Aaron Mackey in the Marketplace Tech episode on California AB 1709, online speech access, and privacy regulation.
+- [Will Creeley](entities/WillCreeley.md) — FIRE legal director arguing that Meta's youth-safety settlement may push identity checks onto broad social-media access.
+- [Foundation for Individual Rights and Expression](entities/FoundationForIndividualRightsAndExpression.md) — Civil-liberties organization represented by Will Creeley in the Marketplace Tech episode on Meta's teen-safety settlement and anonymous speech.
 - [Gavin Newsom](entities/GavinNewsom.md) — California governor tracked across AI procurement, crisis coordination, California governance criticism, and 2028 Democratic continuity risk.
 - [Amir Rashidi](entities/AmirRashidi.md) — Mian Group expert explaining Iran's wartime internet blackout, the National Information Network, and the public-safety limits of domestic-only connectivity.
 - [Mian Group](entities/MianGroup.md) — Digital-rights organization associated with Amir Rashidi in the Marketplace Tech episode on Iran's internet blackout.
@@ -15476,6 +15479,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Age Verification Compliance Industry](concepts/AgeVerificationComplianceIndustry.md) — Contractor and tooling market for ID scans, face matching, age estimation, and related age-gate compliance work.
 - [Behavioral Age Inference](concepts/BehavioralAgeInference.md) — Use of follows, searches, watched videos, and other activity signals to estimate whether a user is a child or an adult.
 - [Age Verification Patchwork](concepts/AgeVerificationPatchwork.md) — Fragmented state and international age-assurance rules that make platform access and compliance depend on location.
+- [Free Speech Coalition v. Paxton](concepts/FreeSpeechCoalitionVPaxton.md) — Supreme Court age-verification case treated in the source as narrower than general social-platform identity checks.
+- [Settlement-Induced Age Verification](concepts/SettlementInducedAgeVerification.md) — Risk that platform settlements create age or identity verification pressure without direct statutory mandates.
 - [Data Center Community Consent](concepts/DataCenterCommunityConsent.md) — Governance problem of whether communities have enough time, information, public-process rights, and leverage to negotiate acceptable data-center development.
 - [Path To Profitability](concepts/PathToProfitability.md) — Investor-facing claim that current losses can become durable profits through credible cost structure, spending discipline, and business-model payoff.
 - [Activist Investor Pressure](concepts/ActivistInvestorPressure.md) — Public shareholder campaign pattern using letters, websites, and media attention to force company strategy and cost questions into the open.

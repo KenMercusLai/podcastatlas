@@ -25386,6 +25386,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "FoundationForIndividualRightsAndExpression": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FoundationOwnedBrandStewardship": [
     {
       "key": "politics",
@@ -25998,6 +26005,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "FreeSpeechCoalitionVPaxton": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "FreeTradeDistributionalCost": [
@@ -68900,6 +68914,13 @@
     }
   ],
   "WildlifeFeedingFeedbackLoop": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "WillCreeley": [
     {
       "key": "politics",
       "label": "Politics",

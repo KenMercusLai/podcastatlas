@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9452
+wiki_total_pages: 9454
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "WildlifeInstituteOfIndia"
     title: "Wildlife Institute of India"
     url: "/wiki/entities/wildlifeinstituteofindia/"
+  - key: "WillCreeley"
+    title: "Will Creeley"
+    url: "/wiki/entities/willcreeley/"
   - key: "WillGottsagen"
     title: "Will Gottsagen"
     url: "/wiki/entities/willgottsagen/"

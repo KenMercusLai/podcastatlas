@@ -28610,6 +28610,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/forwarddeployedengineer/"
     },
+    "FoundationForIndividualRightsAndExpression": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260909_TECH_pod_128 [tech_20260909_TECH_pod_128].md",
+          "key": "metas-youth-safety-settlement-could-change-how-people-access-the-internet",
+          "show": "Marketplace Tech",
+          "title": "Meta's youth safety settlement could change how people access the internet",
+          "url": "/wiki/sources/metas-youth-safety-settlement-could-change-how-people-access-the-internet/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/foundationforindividualrightsandexpression/"
+    },
     "FounderDelegationDiscipline": {
       "episode_count": 11,
       "show_count": 3,
@@ -29462,6 +29478,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/freesecuritysoftwarestrategy/"
+    },
+    "FreeSpeechCoalitionVPaxton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260909_TECH_pod_128 [tech_20260909_TECH_pod_128].md",
+          "key": "metas-youth-safety-settlement-could-change-how-people-access-the-internet",
+          "show": "Marketplace Tech",
+          "title": "Meta's youth safety settlement could change how people access the internet",
+          "url": "/wiki/sources/metas-youth-safety-settlement-could-change-how-people-access-the-internet/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/freespeechcoalitionvpaxton/"
     },
     "FrenchLineDancingCulture": {
       "episode_count": 1,
@@ -60607,6 +60639,50 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/platformcommunitygovernance/"
     },
+    "PlatformFirstAmendmentDefense": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Under Secretary of State Sarah B. Rogers on dismantling the ＂Censorship Industrial Complex＂ [39828360].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Under Secretary of State Sarah B. Rogers on dismantling the Censorship Industrial Complex",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360/"
+        },
+        {
+          "episode_file": "tech_20260814_TECH_pod_128 [tech_20260814_TECH_pod_128].md",
+          "key": "tech-20260814-tech-pod-128-tech-20260814-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "States rush to police AI deepfakes ahead of midterm elections",
+          "url": "/wiki/sources/tech-20260814-tech-pod-128-tech-20260814-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260406_0406_MP_TECH_pod_128 [tech_20260406_0406_MP_TECH_pod_128].md",
+          "key": "tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Would banning teens from social media violate their First Amendment rights?",
+          "url": "/wiki/sources/tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260401_0401_MP_TECH_pod_128 [tech_20260401_0401_MP_TECH_pod_128].md",
+          "key": "tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta and Youtube held liable for their addictive products",
+          "url": "/wiki/sources/tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260909_TECH_pod_128 [tech_20260909_TECH_pod_128].md",
+          "key": "metas-youth-safety-settlement-could-change-how-people-access-the-internet",
+          "show": "Marketplace Tech",
+          "title": "Meta's youth safety settlement could change how people access the internet",
+          "url": "/wiki/sources/metas-youth-safety-settlement-could-change-how-people-access-the-internet/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/platformfirstamendmentdefense/"
+    },
     "PlatformRightsPreReview": {
       "episode_count": 1,
       "show_count": 1,
@@ -69286,6 +69362,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/serotoninsocialwellbeingtools/"
     },
+    "SettlementInducedAgeVerification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260909_TECH_pod_128 [tech_20260909_TECH_pod_128].md",
+          "key": "metas-youth-safety-settlement-could-change-how-people-access-the-internet",
+          "show": "Marketplace Tech",
+          "title": "Meta's youth safety settlement could change how people access the internet",
+          "url": "/wiki/sources/metas-youth-safety-settlement-could-change-how-people-access-the-internet/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/settlementinducedageverification/"
+    },
     "SeventyMillimeterFilmProjection": {
       "episode_count": 1,
       "show_count": 1,
@@ -71534,6 +71626,57 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/socialmediaagebans/"
+    },
+    "SocialMediaAgeGateSpeechBurden": {
+      "episode_count": 6,
+      "show_count": 2,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Under Secretary of State Sarah B. Rogers on dismantling the ＂Censorship Industrial Complex＂ [39828360].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Under Secretary of State Sarah B. Rogers on dismantling the Censorship Industrial Complex",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360/"
+        },
+        {
+          "episode_file": "tech_20260724_0724_MP_TECH_pod_128 [tech_20260724_0724_MP_TECH_pod_128].md",
+          "key": "tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "OpenAI model unintentionally hacks another company's system",
+          "url": "/wiki/sources/tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251226_1226_MP_TECH_pod_128 [tech_20251226_1226_MP_TECH_pod_128].md",
+          "key": "tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How online age-gating laws went mainstream this year",
+          "url": "/wiki/sources/tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260424_0424_MP_TECH_pod_128 [tech_20260424_0424_MP_TECH_pod_128].md",
+          "key": "tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Apple's new CEO, Meta's latest AI play, and Roblox's safety updates",
+          "url": "/wiki/sources/tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260406_0406_MP_TECH_pod_128 [tech_20260406_0406_MP_TECH_pod_128].md",
+          "key": "tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Would banning teens from social media violate their First Amendment rights?",
+          "url": "/wiki/sources/tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260909_TECH_pod_128 [tech_20260909_TECH_pod_128].md",
+          "key": "metas-youth-safety-settlement-could-change-how-people-access-the-internet",
+          "show": "Marketplace Tech",
+          "title": "Meta's youth safety settlement could change how people access the internet",
+          "url": "/wiki/sources/metas-youth-safety-settlement-could-change-how-people-access-the-internet/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/socialmediaagegatespeechburden/"
     },
     "SocialMediaCausationScienceWars": {
       "episode_count": 4,
@@ -83199,6 +83342,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/wildlifeinstituteofindia/"
     },
+    "WillCreeley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260909_TECH_pod_128 [tech_20260909_TECH_pod_128].md",
+          "key": "metas-youth-safety-settlement-could-change-how-people-access-the-internet",
+          "show": "Marketplace Tech",
+          "title": "Meta's youth safety settlement could change how people access the internet",
+          "url": "/wiki/sources/metas-youth-safety-settlement-could-change-how-people-access-the-internet/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/willcreeley/"
+    },
     "WillExposurePractice": {
       "episode_count": 1,
       "show_count": 1,
@@ -87966,6 +88125,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/youthfootballpublicaccess/"
+    },
+    "YouthOnlineSpeechRights": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260406_0406_MP_TECH_pod_128 [tech_20260406_0406_MP_TECH_pod_128].md",
+          "key": "tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Would banning teens from social media violate their First Amendment rights?",
+          "url": "/wiki/sources/tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260909_TECH_pod_128 [tech_20260909_TECH_pod_128].md",
+          "key": "metas-youth-safety-settlement-could-change-how-people-access-the-internet",
+          "show": "Marketplace Tech",
+          "title": "Meta's youth safety settlement could change how people access the internet",
+          "url": "/wiki/sources/metas-youth-safety-settlement-could-change-how-people-access-the-internet/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/youthonlinespeechrights/"
     },
     "YouthPrecautionaryCulture": {
       "episode_count": 1,
