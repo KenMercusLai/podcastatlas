@@ -14933,9 +14933,9 @@
       "url": "/wiki/concepts/coercedimperialmarriage/"
     },
     "CoercedPraiseConformityRisk": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》625丨揭秘人性暗面：为何旁人成功总令我们心生嫉恨？ [li64nGKV8NUjwEgBIX6IORoRjmbo].md",
@@ -14950,6 +14950,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》623丨马屁还是真心？职场人如何在夸奖与谄媚间找平衡！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》621丨帝王心术：攻心最重要！ [lgO01RnXbY9YnyyzANljhtRawjcK].md",
+          "key": "zizhi-tongjian-hanji-621-diwang-xinshu-gongxin-zui-zhongyao-lgo01rnxby9ynyyzanljhtrawjck",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》621丨帝王心术：攻心最重要！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-621-diwang-xinshu-gongxin-zui-zhongyao-lgo01rnxby9ynyyzanljhtrawjck/"
         }
       ],
       "updated": "2026-09-10",
@@ -43930,10 +43937,17 @@
       "url": "/wiki/entities/kongfeneasternhan/"
     },
     "KongGuangWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》621丨帝王心术：攻心最重要！ [lgO01RnXbY9YnyyzANljhtRawjcK].md",
+          "key": "zizhi-tongjian-hanji-621-diwang-xinshu-gongxin-zui-zhongyao-lgo01rnxby9ynyyzanljhtrawjck",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》621丨帝王心术：攻心最重要！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-621-diwang-xinshu-gongxin-zui-zhongyao-lgo01rnxby9ynyyzanljhtrawjck/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？ [lpAvIclTc7NducBxiqGPR6T7Iczd].md",
           "key": "zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd",
@@ -84159,9 +84173,9 @@
       "url": "/wiki/entities/wangyuanweixiaoretainer/"
     },
     "WangZhengjun": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -84211,6 +84225,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》620丨史上最传奇的“全民大选”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-620-shishang-zui-chuanqi-de-quanmin-daxuan-llijvsut0ldv-ugfa281sllst4gu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》621丨帝王心术：攻心最重要！ [lgO01RnXbY9YnyyzANljhtRawjcK].md",
+          "key": "zizhi-tongjian-hanji-621-diwang-xinshu-gongxin-zui-zhongyao-lgo01rnxby9ynyyzanljhtrawjck",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》621丨帝王心术：攻心最重要！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-621-diwang-xinshu-gongxin-zui-zhongyao-lgo01rnxby9ynyyzanljhtrawjck/"
         }
       ],
       "updated": "2026-09-10",

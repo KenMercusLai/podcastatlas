@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》620丨史上最传奇的“全民大选”](sources/zizhi-tongjian-hanji-620-shishang-zui-chuanqi-de-quanmin-daxuan-llijvsut0ldv-ugfa281sllst4gu.md) — 4 CE Wang Mang backfill on an 8,000-person petition, the "宰衡" status package, Wang Zhengjun's personal conferral, family honors, ritual refusal, ministerial counter-petition, and public-refusal status inflation.
+- [《资治通鉴·汉纪》621丨帝王心术：攻心最重要！](sources/zizhi-tongjian-hanji-621-diwang-xinshu-gongxin-zui-zhongyao-lgo01rnxby9ynyyzanljhtrawjck.md) — 4 CE Wang Mang backfill on inner-court influence through Wang Zhengjun's attendants, sisters, outings, charity scenes, servant care, Wang Shun's praise report, and Kong Guang's fearful withdrawal.
 - [《资治通鉴·汉纪》622丨官员如何做面子功夫？](sources/zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j.md) — 4 CE Wang Mang backfill on Ming Tang/Biyong/Lingtai proposals, scholar housing, Taixue expansion, textual-standardization recruitment, Yellow River policy debate, and face-project governance.
 - [《资治通鉴·汉纪》623丨马屁还是真心？职场人如何在夸奖与谄媚间找平衡！](sources/zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb.md) — 4 CE Wang Mang backfill on praise as power instrument, early Nine Bestowments discussion, temple-rank intervention, four-directions submission narrative, Qiang land-offering rhetoric, and Xihai Commandery prelude.
 - [《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？](sources/zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd.md) — 4-5 CE Wang Mang backfill on Xihai exile law, Liu Li's fall, administrative churn, Ming Tang rewards, mass petitions, staged refusal, and Nine Bestowments.
@@ -2104,7 +2105,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [梁王刘丽 / Liu Li, King of Liang](entities/LiuLiWesternHan.md) — Western Han Liu-line king stripped and exiled after an accusation involving Pingdi's Wei-family remnants.
-- [孔光 / Kong Guang (Western Han)](entities/KongGuangWesternHan.md) — Western Han Taishi whose 5 CE death and grand funeral precede Ma Gong's appointment.
+- [孔光 / Kong Guang (Western Han)](entities/KongGuangWesternHan.md) — Western Han Taishi whose fearful withdrawal under Wang Mang's praise atmosphere precedes his 5 CE death and Ma Gong's appointment.
 - [曾涵 / Zeng Han, Xin-aligned official](entities/ZengHanXinOfficial.md) — Right general who reports Wang Mang's refusal language to Wang Zhengjun before the Nine Bestowments order.
 - [Han Shu / 《汉书》](entities/HanShu.md) — Source-criticism node for Hanji 627-1's comparison of illness-centered Pingdi death records with the Zizhi Tongjian poisoning narrative.
 - [Ziwudao / 子午道](entities/Ziwudao.md) — Western Han route whose 5 CE opening is framed by Wang Mang through Empress Wang's "子孙瑞."
@@ -8333,7 +8334,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zhang Xiangrong / 张向荣](entities/ZhangXiangrong.md) — Author of 《祥瑞》, the book grounding episode 126's reconstruction of Wang Mang and Han legitimacy.
 - [Western Han dynasty / 西汉](entities/WesternHanDynasty.md) — Dynastic setting whose founding branch now includes Qin pacification, early Han consolidation, Xiongnu frontier pressure, and later Mandate vulnerability.
 - [Xin dynasty / 新朝](entities/XinDynasty.md) — Wang Mang's short-lived regime, framed through omen-backed seizure, office paralysis, diplomatic blame transfer, reform stress, extraction, unsupported frontier intervention, information failure, and revolt.
-- [Wang Zhengjun / 王政君](entities/WangZhengjun.md) — Western Han empress dowager whose status helped confer Wang Mang's pre-usurpation honors and return him to power while her forced seal handover and late ritual resistance exposed Xin's break from Han memory.
+- [Wang Zhengjun / 王政君](entities/WangZhengjun.md) — Western Han empress dowager whose status, household environment, and approvals helped Wang Mang's pre-usurpation ascent while her forced seal handover and late ritual resistance exposed Xin's break from Han memory.
 - [傅太后 / Fu Taihou (Western Han)](entities/FuTaihouWesternHan.md) — Dead consort-side figure whose tomb and posthumous honors Wang Mang reopens as a ritual-political prosecution case.
 - [丁姬 / Ding Ji (Western Han)](entities/DingJiWesternHan.md) — Han Aidi's mother and paired target with Fu Taihou in Wang Mang's 5 CE tomb-demotion campaign.
 - [施丹 / Shi Dan (Western Han)](entities/ShiDanWesternHan.md) — Western Han official retroactively restored after Wang Mang recodes earlier opposition to Fu Taihou as correct.
@@ -12659,7 +12660,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Imperial Marriage Inspection / 皇室婚前身体检视](concepts/ImperialMarriageInspection.md) — Huan-era marriage-selection procedure where Liang Ying's body, appearance, gait, odor, and voice become court-assessed eligibility criteria.
 - [Military Reward Eunuch Gatekeeping / 宦官门槛下的军功赏罚](concepts/MilitaryRewardEunuchGatekeeping.md) — Late-Han pattern where frontier merit is solicited, reduced, or reformatted because eunuch-side access shapes the reward channel.
 - [Local Auspicious Omen Fabrication / 地方祥瑞造作](concepts/LocalAuspiciousOmenFabrication.md) — Pattern where local reporting channels turn rumor, joke, or anomaly into an auspicious-omen report for upward political value.
-- [颂圣不合群风险 / Coerced Praise Conformity Risk](concepts/CoercedPraiseConformityRisk.md) — Pattern where compulsory praise and auspicious reporting make silence, skepticism, or disaster talk politically actionable.
+- [颂圣不合群风险 / Coerced Praise Conformity Risk](concepts/CoercedPraiseConformityRisk.md) — Pattern where proximity-managed praise, compulsory auspicious reporting, and rewarded agreement make silence, skepticism, or disaster talk politically actionable.
 - [Controllable Child Accession / 可控幼主继位](concepts/ControllableChildAccession.md) — Late-Han succession pattern where Yan, Liang, and Dou powerholders prefer young legitimate rulers because age makes behind-the-throne control easier.
 - [Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性](concepts/PalaceFavoriteProtectionFragility.md) — Huan harem pattern where favor, formal title, and institutional protection split, leaving palace victories fragile before and after the patron's death.
 - [Crisis Duty Continuity / 危局职守连续性](concepts/CrisisDutyContinuity.md) — Hanji 880 pattern where public duty continues through succession uncertainty rather than yielding to illness-based risk avoidance.

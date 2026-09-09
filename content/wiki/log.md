@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》621丨帝王心术：攻心最重要！
+
+Ingested the 2026-05-31 芮淇讲透资治通鉴 episode backfilling 4 CE Wang Mang inner-court influence politics through gifts to Wang Zhengjun's attendants, honors for her sisters, seasonal outings and charity scenes, servant-level favor, Wang Shun's praise report, and Kong Guang's fearful withdrawal. Added source `zizhi-tongjian-hanji-621-diwang-xinshu-gongxin-zui-zhongyao-lgo01rnxby9ynyyzanljhtrawjck`; updated `WangZhengjun`, `KongGuangWesternHan`, `CoercedPraiseConformityRisk`, and `index`. No settled contradiction found; attendant identities, family-grant mechanics, outing logistics, Kong Guang's inner calculation, Wang Shun's office context, and Wang Mang's inner motive remain source-scoped.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？
 
 Ingested the 2026-06-01 芮淇讲透资治通鉴 episode backfilling 5 CE Wang Mang posthumous prosecution politics through Fu Taihou and Ding Ji's tomb opening, burial-rank demotion, Wang Zhengjun's pressured approval, mass tomb leveling, Shi Dan's restoration, and Ma Gong's limited office removal. Added source `zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz`; created `FuTaihouWesternHan`, `DingJiWesternHan`, `ShiDanWesternHan`, and `MaGongWesternHan`; updated `WangZhengjun`, `TombDesecrationPoliticalViolence`, `FuneraryPrivilegeAbuse`, and `index`. No settled contradiction found; exact tomb geography, participant count, transcript name forms, earlier Ai-era title debate, and Wang Mang's inner motive remain source-scoped.
@@ -16801,6 +16805,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》620丨史上最传奇的“全民大选”
 
 Added source note for the 4 CE Wang Mang petition-and-reward episode. Key claims: more than 8,000 petitioners help make Wang Mang's "宰衡" elevation look publicly demanded; Wang Zhengjun personally confers the package; Wang Mang's refusal of his sons' honors becomes another status-inflation step; and Kong Guang's counter-petition helps summon him back to government.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
