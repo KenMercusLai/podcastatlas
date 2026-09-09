@@ -21551,6 +21551,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/dynasticmemoryreportingritual/"
     },
+    "DynasticMemorySeverance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》646丨传奇女性王政君：长寿也是罪？ [ltaj6oTEJ7M7B9QMOCBhGwgDT6D5].md",
+          "key": "zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》646丨传奇女性王政君：长寿也是罪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/dynasticmemoryseverance/"
+    },
     "DynasticScandalSuppression": {
       "episode_count": 2,
       "show_count": 2,
@@ -80642,6 +80658,29 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/wangyuanweixiaoretainer/"
+    },
+    "WangZhengjun": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》646丨传奇女性王政君：长寿也是罪？ [ltaj6oTEJ7M7B9QMOCBhGwgDT6D5].md",
+          "key": "zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》646丨传奇女性王政君：长寿也是罪？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/wangzhengjun/"
     },
     "WangZhongLateHan": {
       "episode_count": 1,

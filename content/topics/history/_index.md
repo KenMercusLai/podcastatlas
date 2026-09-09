@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1625
+topic_total_pages: 1626
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -271,6 +271,9 @@ topic_concepts:
   - key: "DynasticLegitimacyBackfire"
     title: "Dynastic Legitimacy Backfire / 王朝合法性回旋镖"
     url: "/wiki/concepts/dynasticlegitimacybackfire/"
+  - key: "DynasticMemorySeverance"
+    title: "Dynastic Memory Severance / 王朝记忆切割"
+    url: "/wiki/concepts/dynasticmemoryseverance/"
   - key: "EarlyWarringStatesInterstateWar"
     title: "Early Warring States Interstate War / 战国早期诸侯混战"
     url: "/wiki/concepts/earlywarringstatesinterstatewar/"

@@ -1,23 +1,62 @@
 ---
 title: "Wang Zhengjun / 王政君"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [history, china, politics]
-sources: [126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]
-last_updated: 2026-07-24
+sources:
+  - 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780
+  - zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5
+last_updated: 2026-09-09
 ---
 
-# Wang Zhengjun / 王政君
+## Overview
 
-Wang Zhengjun / 王政君 is the [[WesternHanDynasty|Western Han]] empress dowager and [[WangMang|王莽]]'s aunt in [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]]. The episode presents her longevity and status across several reigns as a stabilizing center of the court and as the route by which the Wang consort family stayed close to imperial legitimacy.
+Wang Zhengjun / 王政君 is synthesized as the [[WesternHanDynasty|Western Han]] empress dowager whose longevity, seniority, and Wang-family position helped make [[WangMang|王莽]]'s return and eventual usurpation possible, while her later resistance marked the emotional and ritual break between Han and [[XinDynasty|Xin]]. [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] presents her as the consort-kin route by which Wang-family power stayed near imperial legitimacy after [[HanAidi|Emperor Ai]] and [[DongXian|董贤]]. [[zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5|Hanji 646]] adds the late-life and posthumous layer: Wang Mang recasts her as "New House Wen Mother," destroys Emperor Yuan's temple, builds Changshou Palace, and tries to pull her memory into Xin ritual order.
 
-She matters most at moments of transition. After [[HanAidi|Emperor Ai]] died and [[DongXian|董贤]] mishandled the succession crisis, Wang Zhengjun entered Weiyang Palace and made space for Wang Mang's return. Later, the source emphasizes her resistance to Wang Mang's formal enthronement, including the story of throwing the imperial seal.
+## Current Profile
 
-## Key Claims
-- Wang Zhengjun's position made Wang-family power appear close to legitimate Han continuity.
-- Her intervention after Emperor Ai's death helped Wang Mang return to the center of power.
-- Her later objection to Wang Mang's enthronement shows that family advantage and dynastic legitimacy did not fully align.
+Wang Zhengjun's current profile is double-edged. Her authority was a stabilizing court center across late Western Han reigns and gave the Wang family a privileged path into succession politics. After Emperor Ai died, the earlier source says Dong Xian's failure during the succession crisis allowed Wang Zhengjun to enter Weiyang Palace, control the seal-and-command situation, and make space for Wang Mang's return.
 
-## Connections
-- [[WangMang]], [[HanAidi]], [[DongXian]], and [[HanPingdi]] - core court network.
-- [[MandateOfHeavenLegitimacy]] and [[AuspiciousOmenPolitics]] - legitimacy setting around her role.
-- [[WesternHanDynasty]] and [[XinDynasty]] - dynastic transition.
+Hanji 646 makes that same longevity look tragic and politically dangerous. Wang Mang cannot freely coerce Wang Zhengjun after taking the throne because she remains his elder, a filial-piety constraint, and a source of borrowed legitimacy. Yet he also cannot leave her wholly inside Han memory. His solution is [[DynasticMemorySeverance|dynastic memory severance]]: title change, temple destruction, Changshou Palace, clothing and calendar reform, burial separation, and a new shrine hierarchy.
+
+Her resistance is therefore coded through ritual practice rather than force. She is said to keep Han black-sable clothing in her palace and continue Han New Year and wax-sacrifice timing even after Wang Mang changes official colors and ritual dates. The episode presents this as an unresolved legitimacy wound: Wang Zhengjun helped create the conditions for Wang Mang's rule, but she does not emotionally or ritually consent to the final severing of Han.
+
+## Key Characteristics
+
+- Western Han empress dowager whose long-held status made Wang-family power appear close to legitimate dynastic continuity.
+- Succession actor whose intervention after Emperor Ai's death helped Wang Mang return to the center of power.
+- Legitimating resource whom Wang Mang could not openly punish after usurpation because age, kinship seniority, and filial norms still constrained him.
+- Ritual resistor who preserves Han dress color and ritual dates after Xin attempts to redefine court order.
+- Tragic dynastic witness whose late-life treatment exposes the cost of separating personal identity from predecessor-dynasty memory.
+- Contested legacy figure: the source set presents both her political authority and the host's judgment that her longevity became a condition of Western Han collapse.
+
+## Evidence
+
+- Consort-kin legitimacy route: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] says Wang Zhengjun gave the Wang family durable access to imperial legitimacy.
+- Succession intervention: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] says Dong Xian's failure after Emperor Ai's death opened space for Wang Zhengjun and Wang Mang.
+- Resistance to enthronement: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] preserves the story of Wang Zhengjun resisting Wang Mang's formal enthronement, including the imperial-seal episode.
+- Ritual severance: [[zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5|Hanji 646]] says Wang Mang renames her "New House Wen Mother," destroys Emperor Yuan's temple, and builds Changshou Palace.
+- Palace-level resistance: [[zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5|Hanji 646]] says Wang Zhengjun keeps Han clothing and ritual dates despite Xin changes.
+- Posthumous separation: [[zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5|Hanji 646]] says Wang Mang buries her with Emperor Yuan while separating the tombs by a ditch and placing Emperor Yuan beneath her in the Xin shrine hierarchy.
+
+## Qualifications
+
+The wiki does not treat Wang Zhengjun as only victim, only culprit, or only family patron. The earlier source emphasizes her enabling role in Wang Mang's return and the legitimacy access she gave the Wang family. Hanji 646 adds the host's sharper interpretation that her longevity harmed Western Han, the Wang family, and commoners; the wiki keeps that as a source-backed judgment and counterfactual claim rather than settled proof. Emperor Yuan, Changshou Palace, exact sacrificial arrangements, and Wang Zhengjun's inner feelings beyond the reported outbursts and practices remain source-scoped.
+
+## What Changed
+
+- Migrated the page to `synthesis-v1`.
+- Added Hanji 646 as Wang Zhengjun's late-life and posthumous ritual-severance layer.
+- Reframed her legacy as both enabling Wang Mang's rise and witnessing the violence of Xin's break with Han memory.
+
+## Relationships
+
+- [[WangMang|王莽]] - nephew and usurper whose legitimacy both depended on and violated her Han-linked status.
+- [[WesternHanDynasty|西汉]] - dynasty whose memory Wang Zhengjun continues to embody and ritually preserve.
+- [[XinDynasty|新朝]] - successor regime that tries to recode her status as Xin rather than Han.
+- [[HanAidi|汉哀帝]] - emperor whose death creates the succession crisis in which Wang Zhengjun re-enters decisive politics.
+- [[DongXian|董贤]] - Ai's favorite whose mishandling of succession opens space for Wang Zhengjun and Wang Mang.
+- [[HanPingdi|汉平帝]] - later child-emperor context for Wang Mang's ascent from regent toward usurper.
+- [[DynasticMemorySeverance|王朝记忆切割]] - concept grounded by her title, temple, clothing, calendar, burial, and shrine treatment.
+- [[DynasticLegitimacyBackfire|王朝合法性回旋镖]] - broader legitimacy frame in which her Han status helps Wang Mang rise and then exposes Xin's rupture.
+- [[AuspiciousOmenPolitics|祥瑞政治]] and [[MandateOfHeavenLegitimacy|天命合法性]] - surrounding legitimacy technologies of Wang Mang's ascent.

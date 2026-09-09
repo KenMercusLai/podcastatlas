@@ -16272,6 +16272,10 @@ Ingested the 2026-06-06 芮淇讲透资治通鉴 episode on Wang Mang's punitive
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | 《资治通鉴·汉纪》646丨传奇女性王政君：长寿也是罪？
+
+Added source note for Hanji 646. Key claims: Wang Mang's Changshou Palace "gift" severs Wang Zhengjun from Emperor Yuan's Han ritual memory; Wang Zhengjun resists Xin order through Han clothing and ritual dates; her longevity is treated as both legitimacy resource and political tragedy; Western Regions distrust, Yanqi rebellion, Xiongnu succession, and the Luoyang relocation setup extend the early Xin credibility crisis.
+
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》644丨谁敢和皇帝使者讨价还价？
 
 Added source note for Hanji 644. Key claims: 11 CE Xin mobilization and frontier supervision convert into civilian predation, taxes and recruitment produce flight and theft, northern border peace collapses after Xiongnu relations worsen, and Wang Mang's prestigious summons of Gong Sheng backfires into a fatal Han-loyalist refusal while Xue Fang, Guo Qin, and Jiang Xu show safer refusal and withdrawal tactics.
@@ -16474,6 +16478,10 @@ Added source note for Hanji 651. Key claims: Hetu-Luoshu and "earth suppresses w
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》649丨官场里的人情世故有多现实？
 
 Added source note for Hanji 649. Key claims: the yellow-dragon rumor is read as a legitimacy threat to Wang Mang; Chen Qing is killed as a diplomatic scapegoat before the Xiongnu corpse-return mission; ritual and classical ordering consume administrative attention; local vacancies, intrusive inspection, tax pressure, bribery, and official risk avoidance expose early late-Xin office paralysis.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

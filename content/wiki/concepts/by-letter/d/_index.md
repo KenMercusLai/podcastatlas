@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6823
+wiki_total_pages: 6824
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -869,6 +869,9 @@ wiki_pages:
   - key: "DynasticLegitimacyBackfire"
     title: "Dynastic Legitimacy Backfire / 王朝合法性回旋镖"
     url: "/wiki/concepts/dynasticlegitimacybackfire/"
+  - key: "DynasticMemorySeverance"
+    title: "Dynastic Memory Severance / 王朝记忆切割"
+    url: "/wiki/concepts/dynasticmemoryseverance/"
   - key: "DynasticScandalSuppression"
     title: "Dynastic Scandal Suppression"
     url: "/wiki/concepts/dynasticscandalsuppression/"
