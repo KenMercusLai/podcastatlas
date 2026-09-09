@@ -6088,6 +6088,57 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/architecturalarchiveresearch/"
     },
+    "Argentina": {
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f7216866bf74dcfdfbed86e3d4f809ba_41512196 [default.mp3_ywr3ahjkcgo_f7216866bf74dcfdfbed86e3d4f809ba_41512196].md",
+          "key": "currency-chaos-in-argentina-summer-school",
+          "show": "Planet Money",
+          "title": "Currency Chaos in Argentina (Summer School)",
+          "url": "/wiki/sources/currency-chaos-in-argentina-summer-school/"
+        },
+        {
+          "episode_file": "The Elon game： Musk’s vision of the future [6a633594d19896314260e5c4].md",
+          "key": "the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4",
+          "show": "Economist Podcasts",
+          "title": "The Elon game: Musk's vision of the future",
+          "url": "/wiki/sources/the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4/"
+        },
+        {
+          "episode_file": "138.企鹅课：我在海滩上捡到一位Q老师 [842331726].md",
+          "key": "138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726",
+          "show": "蜜獾吃书",
+          "title": "138.企鹅课：我在海滩上捡到一位Q老师",
+          "url": "/wiki/sources/138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_10701ebbc7bfab728b0d90d814218d73_28143355 [default.mp3_ywr3ahjkcgo_10701ebbc7bfab728b0d90d814218d73_28143355].md",
+          "key": "can-world-cup-mania-grow-mls-in-the-us",
+          "show": "Planet Money",
+          "title": "Can World Cup mania grow MLS in the U.S.?",
+          "url": "/wiki/sources/can-world-cup-mania-grow-mls-in-the-us/"
+        },
+        {
+          "episode_file": "You’ve come a long way, Bibi： Israel’s crucial election [6a59f9ae461a6a41901ae410].md",
+          "key": "youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410",
+          "show": "Economist Podcasts",
+          "title": "You've come a long way, Bibi: Israel's crucial election",
+          "url": "/wiki/sources/youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410/"
+        },
+        {
+          "episode_file": "Chainsaw sputtering： Milei’s experiment falters [6aa1299999455f9a93f7de9b].md",
+          "key": "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b",
+          "show": "Economist Podcasts",
+          "title": "Chainsaw sputtering: Milei's experiment falters",
+          "url": "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/argentina/"
+    },
     "AristionAthens": {
       "episode_count": 1,
       "show_count": 1,
@@ -6770,6 +6821,29 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/auspiciousomenpolitics/"
+    },
+    "Austerity": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f7216866bf74dcfdfbed86e3d4f809ba_41512196 [default.mp3_ywr3ahjkcgo_f7216866bf74dcfdfbed86e3d4f809ba_41512196].md",
+          "key": "currency-chaos-in-argentina-summer-school",
+          "show": "Planet Money",
+          "title": "Currency Chaos in Argentina (Summer School)",
+          "url": "/wiki/sources/currency-chaos-in-argentina-summer-school/"
+        },
+        {
+          "episode_file": "Chainsaw sputtering： Milei’s experiment falters [6aa1299999455f9a93f7de9b].md",
+          "key": "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b",
+          "show": "Economist Podcasts",
+          "title": "Chainsaw sputtering: Milei's experiment falters",
+          "url": "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/austerity/"
     },
     "Australia": {
       "episode_count": 7,
@@ -22347,6 +22421,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/electionadministrationtrust/"
     },
+    "ElectionFacingStabilization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Chainsaw sputtering： Milei’s experiment falters [6aa1299999455f9a93f7de9b].md",
+          "key": "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b",
+          "show": "Economist Podcasts",
+          "title": "Chainsaw sputtering: Milei's experiment falters",
+          "url": "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/electionfacingstabilization/"
+    },
     "ElectricAssistBicyclePremiumPositioning": {
       "episode_count": 1,
       "show_count": 1,
@@ -30548,6 +30638,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/ganyingeasternhan/"
+    },
+    "Ganesha": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Chainsaw sputtering： Milei’s experiment falters [6aa1299999455f9a93f7de9b].md",
+          "key": "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b",
+          "show": "Economist Podcasts",
+          "title": "Chainsaw sputtering: Milei's experiment falters",
+          "url": "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/ganesha/"
     },
     "Gansu": {
       "episode_count": 2,
@@ -38834,6 +38940,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/independentpodcastsustainability/"
     },
+    "IndianElephantCorridors": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Chainsaw sputtering： Milei’s experiment falters [6aa1299999455f9a93f7de9b].md",
+          "key": "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b",
+          "show": "Economist Podcasts",
+          "title": "Chainsaw sputtering: Milei's experiment falters",
+          "url": "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/indianelephantcorridors/"
+    },
     "IndividualAbandonmentNarrative": {
       "episode_count": 1,
       "show_count": 1,
@@ -40381,6 +40503,29 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/jaredrutter/"
+    },
+    "JavierMilei": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f7216866bf74dcfdfbed86e3d4f809ba_41512196 [default.mp3_ywr3ahjkcgo_f7216866bf74dcfdfbed86e3d4f809ba_41512196].md",
+          "key": "currency-chaos-in-argentina-summer-school",
+          "show": "Planet Money",
+          "title": "Currency Chaos in Argentina (Summer School)",
+          "url": "/wiki/sources/currency-chaos-in-argentina-summer-school/"
+        },
+        {
+          "episode_file": "Chainsaw sputtering： Milei’s experiment falters [6aa1299999455f9a93f7de9b].md",
+          "key": "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b",
+          "show": "Economist Podcasts",
+          "title": "Chainsaw sputtering: Milei's experiment falters",
+          "url": "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/javiermilei/"
     },
     "JayBhattacharya": {
       "episode_count": 3,
@@ -43039,6 +43184,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/kyliejenner/"
+    },
+    "LIVGolf": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Chainsaw sputtering： Milei’s experiment falters [6aa1299999455f9a93f7de9b].md",
+          "key": "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b",
+          "show": "Economist Podcasts",
+          "title": "Chainsaw sputtering: Milei's experiment falters",
+          "url": "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/livgolf/"
     },
     "LIVO": {
       "episode_count": 1,
@@ -58153,6 +58314,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/pdvsa/"
     },
+    "PGATour": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Chainsaw sputtering： Milei’s experiment falters [6aa1299999455f9a93f7de9b].md",
+          "key": "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b",
+          "show": "Economist Podcasts",
+          "title": "Chainsaw sputtering: Milei's experiment falters",
+          "url": "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/pgatour/"
+    },
     "POINTERTrial": {
       "episode_count": 1,
       "show_count": 1,
@@ -68024,6 +68201,73 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/saturnbird/"
     },
+    "SaudiArabia": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "Outsider chance： ending Sudan’s proxy war [6a75b3695d765781a2b1b132].md",
+          "key": "outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132",
+          "show": "Economist Podcasts",
+          "title": "Outsider chance: ending Sudan's proxy war",
+          "url": "/wiki/sources/outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983 [default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983].md",
+          "key": "how-to-get-what-greenland-has-with-permission",
+          "show": "Planet Money",
+          "title": "How to get what Greenland has, with permission",
+          "url": "/wiki/sources/how-to-get-what-greenland-has-with-permission/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6de40aadb0709698bbe625e5508949b5_29033608 [default.mp3_ywr3ahjkcgo_6de40aadb0709698bbe625e5508949b5_29033608].md",
+          "key": "the-secret-meeting-that-launched-opec",
+          "show": "Planet Money",
+          "title": "The secret meeting that launched OPEC",
+          "url": "/wiki/sources/the-secret-meeting-that-launched-opec/"
+        },
+        {
+          "episode_file": "A firm Andy： what are new British PM’s plans？ [6a5deeca76f8ee25bb4bbf9c].md",
+          "key": "a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c",
+          "show": "Economist Podcasts",
+          "title": "A firm Andy: what are new British PM's plans?",
+          "url": "/wiki/sources/a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c/"
+        },
+        {
+          "episode_file": "Chainsaw sputtering： Milei’s experiment falters [6aa1299999455f9a93f7de9b].md",
+          "key": "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b",
+          "show": "Economist Podcasts",
+          "title": "Chainsaw sputtering: Milei's experiment falters",
+          "url": "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/saudiarabia/"
+    },
+    "SaudiPublicInvestmentFund": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱 [lnrx8VKDjEdXbmMCWXLNwow-pCAB].md",
+          "key": "ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab",
+          "show": "一劳永逸",
+          "title": "EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱",
+          "url": "/wiki/sources/ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab/"
+        },
+        {
+          "episode_file": "Chainsaw sputtering： Milei’s experiment falters [6aa1299999455f9a93f7de9b].md",
+          "key": "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b",
+          "show": "Economist Podcasts",
+          "title": "Chainsaw sputtering: Milei's experiment falters",
+          "url": "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/saudipublicinvestmentfund/"
+    },
     "SavilleInquiry": {
       "episode_count": 1,
       "show_count": 1,
@@ -72006,6 +72250,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/sportasreconciliationritual/"
+    },
+    "SportsCapitalCannotBuyLegitimacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Chainsaw sputtering： Milei’s experiment falters [6aa1299999455f9a93f7de9b].md",
+          "key": "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b",
+          "show": "Economist Podcasts",
+          "title": "Chainsaw sputtering: Milei's experiment falters",
+          "url": "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/sportscapitalcannotbuylegitimacy/"
     },
     "SportsLifestyleConsumption": {
       "episode_count": 7,
@@ -82730,6 +82990,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/wildlifefeedingfeedbackloop/"
+    },
+    "WildlifeInstituteOfIndia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Chainsaw sputtering： Milei’s experiment falters [6aa1299999455f9a93f7de9b].md",
+          "key": "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b",
+          "show": "Economist Podcasts",
+          "title": "Chainsaw sputtering: Milei's experiment falters",
+          "url": "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/wildlifeinstituteofindia/"
     },
     "WillExposurePractice": {
       "episode_count": 1,

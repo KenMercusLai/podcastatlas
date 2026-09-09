@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9444
+wiki_total_pages: 9448
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "GameStop"
     title: "GameStop"
     url: "/wiki/entities/gamestop/"
+  - key: "Ganesha"
+    title: "Ganesha"
+    url: "/wiki/entities/ganesha/"
   - key: "Gansu"
     title: "Gansu / 甘肃"
     url: "/wiki/entities/gansu/"

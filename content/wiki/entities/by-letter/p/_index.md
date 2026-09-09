@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 9444
+wiki_total_pages: 9448
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "Pfizer"
     title: "Pfizer / 辉瑞"
     url: "/wiki/entities/pfizer/"
+  - key: "PGATour"
+    title: "PGA Tour"
+    url: "/wiki/entities/pgatour/"
   - key: "PGP"
     title: "PGP"
     url: "/wiki/entities/pgp/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6843
+wiki_total_pages: 6846
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "IndexReentryDiscipline"
     title: "Index Reentry Discipline"
     url: "/wiki/concepts/indexreentrydiscipline/"
+  - key: "IndianElephantCorridors"
+    title: "Indian Elephant Corridors"
+    url: "/wiki/concepts/indianelephantcorridors/"
   - key: "IndieGameCommercialization"
     title: "Indie Game Commercialization / 独立游戏商业化"
     url: "/wiki/concepts/indiegamecommercialization/"

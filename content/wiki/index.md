@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Chainsaw sputtering: Milei's experiment falters](sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b.md) — The Intelligence episode on Javier Milei's Argentina stabilization tradeoff, Saudi sports-investment limits, and India's elephant-corridor conservation problem.
 - [676. The First World War: Churchill's Calamity (Part 6)](sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911.md) — The Rest Is History episode on Gallipoli after the failed 1915 landings, covering Churchill's Dardanelles strategy, trench stalemate, disease, Westminster crisis, Suvla Bay, evacuation, Mustafa Kemal, and Anzac memory.
 - [Cost-cutting, quiet guilt and the inflation generation](sources/default-mp3-ywr3ahjkcgo-8dbc38a9b9e4647dbd8e2ebddb601c4e-26201098-default-mp3-ywr3ahjkcgo-8dbc38a9b9e4647dbd8e2ebddb601c4e-26201098.md) — Planet Money episode on the everything-all-at-once economy, contrasting Lindsay Cole's household cost cutting, Rick Schultz's pension-and-asset retirement comfort, and Leo Vamaka's inflation-shaped consumer habits.
 - [Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox](sources/all-in-with-chamath-jason-sacks-friedberg-thomas-laffont-the-4t-ai-ipo-wave-2026s-unicorn-economy-and-the-10x-paradox-41538295.md) — All-In episode with Thomas Laffont on Coatue's unicorn-economy update, AI private-market concentration, possible 2026 AI IPO liquidity, SpaceX platform valuation, memory demand, and the 10X paradox.
@@ -2076,6 +2077,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Ganesha](entities/Ganesha.md) — Elephant-headed Hindu deity used by The Intelligence as cultural context for India's elephant-conservation gap.
+- [LIV Golf](entities/LIVGolf.md) — Saudi-backed golf challenger used as a case for the limits of capital-led sports disruption.
+- [PGA Tour](entities/PGATour.md) — Incumbent American golf institution used as LIV Golf's established rival in the sports-legitimacy branch.
+- [Wildlife Institute of India](entities/WildlifeInstituteOfIndia.md) — Indian wildlife institution cited for the elephant-count decline in The Intelligence's elephant-corridor segment.
 - [Gallipoli Campaign](entities/GallipoliCampaign.md) — First World War Dardanelles campaign framed as failed strategic shortcut, attritional trench disaster, political crisis, and Anzac memory source.
 - [Mustafa Kemal / Ataturk](entities/MustafaKemalAtaturk.md) — Ottoman commander whose Gallipoli role made his reputation and is treated as a step toward later Turkish national authority.
 - [Winston Churchill](entities/WinstonChurchill.md) — British Admiralty leader whose Dardanelles sponsorship and persistence made Gallipoli a lasting reputational calamity.
@@ -11524,6 +11529,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Election-Facing Stabilization](concepts/ElectionFacingStabilization.md) — Phase where lower headline crisis indicators must still survive voter judgment on jobs, wages, and household recovery.
+- [Indian Elephant Corridors](concepts/IndianElephantCorridors.md) — India-specific elephant habitat passages where cultural reverence, infrastructure, farms, and ecosystem services collide.
+- [Sports Capital Cannot Buy Legitimacy](concepts/SportsCapitalCannotBuyLegitimacy.md) — Pattern where sports spending can buy athletes and events but not instantly buy fans, media demand, or institutional legitimacy.
 - [Anzac Spirit](concepts/AnzacSpirit.md) — Australian and New Zealand Gallipoli memory frame around courage, resourcefulness, comradeship, endurance, mateship, and contested imperial comparison.
 - [Dardanelles Strategic Shortcut](concepts/DardanellesStrategicShortcut.md) — Gallipoli strategy logic that promised cascading effects from forcing the straits and threatening Constantinople.
 - [Failed Strategic Shortcut Attrition Trap](concepts/FailedStrategicShortcutAttritionTrap.md) — Pattern where a promised fast bypass fails operationally but persists as a costly attritional commitment.

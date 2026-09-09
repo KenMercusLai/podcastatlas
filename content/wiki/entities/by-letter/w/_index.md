@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9444
+wiki_total_pages: 9448
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "WildSource"
     title: "Wild Source"
     url: "/wiki/entities/wildsource/"
+  - key: "WildlifeInstituteOfIndia"
+    title: "Wildlife Institute of India"
+    url: "/wiki/entities/wildlifeinstituteofindia/"
   - key: "WillGottsagen"
     title: "Will Gottsagen"
     url: "/wiki/entities/willgottsagen/"

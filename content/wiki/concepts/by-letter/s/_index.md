@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6843
+wiki_total_pages: 6846
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1130,6 +1130,9 @@ wiki_pages:
   - key: "SportsBroadcastingAct"
     title: "Sports Broadcasting Act"
     url: "/wiki/concepts/sportsbroadcastingact/"
+  - key: "SportsCapitalCannotBuyLegitimacy"
+    title: "Sports Capital Cannot Buy Legitimacy"
+    url: "/wiki/concepts/sportscapitalcannotbuylegitimacy/"
   - key: "SportsCollectiveBargaining"
     title: "Sports Collective Bargaining"
     url: "/wiki/concepts/sportscollectivebargaining/"

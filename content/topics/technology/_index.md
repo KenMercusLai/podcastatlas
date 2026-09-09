@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2839
+topic_total_pages: 2840
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2218,6 +2218,9 @@ topic_concepts:
   - key: "IndependentAgentVendor"
     title: "Independent Agent Vendor"
     url: "/wiki/concepts/independentagentvendor/"
+  - key: "IndianElephantCorridors"
+    title: "Indian Elephant Corridors"
+    url: "/wiki/concepts/indianelephantcorridors/"
   - key: "IndustrialAIROIFilter"
     title: "Industrial AI ROI Filter"
     url: "/wiki/concepts/industrialairoifilter/"

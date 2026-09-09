@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6843
+wiki_total_pages: 6846
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "ElectionInformationOperations"
     title: "Election Information Operations"
     url: "/wiki/concepts/electioninformationoperations/"
+  - key: "ElectionFacingStabilization"
+    title: "Election-Facing Stabilization"
+    url: "/wiki/concepts/electionfacingstabilization/"
   - key: "ElectoralIneligibilityPenalty"
     title: "Electoral Ineligibility Penalty"
     url: "/wiki/concepts/electoralineligibilitypenalty/"

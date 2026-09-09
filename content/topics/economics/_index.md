@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1973
+topic_total_pages: 1976
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -922,6 +922,9 @@ topic_concepts:
   - key: "EfficientFrontier"
     title: "Efficient Frontier"
     url: "/wiki/concepts/efficientfrontier/"
+  - key: "ElectionFacingStabilization"
+    title: "Election-Facing Stabilization"
+    url: "/wiki/concepts/electionfacingstabilization/"
   - key: "ElectricVehiclePriceParity"
     title: "Electric Vehicle Price Parity"
     url: "/wiki/concepts/electricvehiclepriceparity/"
@@ -2482,6 +2485,9 @@ topic_concepts:
   - key: "SpeculativeBubblePsychology"
     title: "Speculative Bubble Psychology"
     url: "/wiki/concepts/speculativebubblepsychology/"
+  - key: "SportsCapitalCannotBuyLegitimacy"
+    title: "Sports Capital Cannot Buy Legitimacy"
+    url: "/wiki/concepts/sportscapitalcannotbuylegitimacy/"
   - key: "SportsMegaEventWelfareAccounting"
     title: "Sports Mega-Event Welfare Accounting"
     url: "/wiki/concepts/sportsmegaeventwelfareaccounting/"
@@ -5355,6 +5361,9 @@ topic_sources:
   - key: "tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128"
     title: "Bytes: Week in Review - Are we in an AI bubble?"
     url: "/wiki/sources/tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128/"
+  - key: "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b"
+    title: "Chainsaw sputtering: Milei's experiment falters"
+    url: "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790"
     title: "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790/"

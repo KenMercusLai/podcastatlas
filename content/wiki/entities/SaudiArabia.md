@@ -1,31 +1,49 @@
 ---
 title: "Saudi Arabia"
 type: entity
-tags: [country, energy, geopolitics, economy]
-sources: [outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132, how-to-get-what-greenland-has-with-permission, the-secret-meeting-that-launched-opec, a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]
-last_updated: 2026-08-08
+tags: [country, energy, geopolitics, economy, sports]
+sources:
+  - outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132
+  - how-to-get-what-greenland-has-with-permission
+  - the-secret-meeting-that-launched-opec
+  - a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c
+  - chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b
+last_updated: 2026-09-09
+knowledge_schema: synthesis-v1
 ---
 
 # Saudi Arabia
 
-[[outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132]] adds Saudi Arabia to [[Sudan]]'s [[ForeignBackedCivilWar]]. The episode describes Saudi Arabia as one of the outside backers of the [[SudaneseArmedForces|SAF]] and also names it as part of the Sudan "quad" with the [[UnitedStates]], [[Egypt]], and the [[UnitedArabEmirates]].
+## Overview
+Saudi Arabia is a country page spanning oil-producer coordination, Gulf and Red Sea geopolitics, strategic-resource partnerships, Syrian reconstruction finance, Sudan mediation, and sports soft-power investment.
 
-Saudi Arabia appears in [[the-secret-meeting-that-launched-opec]] as a central oil-producing state in the [[OPEC]] story. The episode places Saudi officials in the 1959 secret meeting that followed price cuts by the [[SevenSistersOilMajors|Seven Sisters]], then uses later Saudi decisions to explain how OPEC learned and struggled to manage oil supply.
+## Current Profile
+The energy branch remains foundational: [[the-secret-meeting-that-launched-opec]] presents Saudi Arabia as an [[OPEC]] founder, [[SwingProducerRole|swing producer]], and quota enforcer. Other sources extend the country into permission-based strategic access, Gulf reconstruction capital, and Sudan's proxy-war diplomacy. [[chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b]] adds the sports-investment branch, arguing that Saudi capital could win hosting rights and buy athletes but struggled to manufacture fan legitimacy quickly through [[LIVGolf]].
 
-The source gives Saudi Arabia two recurring roles. First, it is part of the producer-country bloc that learned from the 1973 oil shock that coordinated supply reduction could move prices. Second, it became OPEC's [[SwingProducerRole|swing producer]] after quotas were introduced in 1982, raising or lowering output to stabilize prices while bearing much of the adjustment cost.
+## Key Characteristics
+- Oil producer with a recurring role in [[OPEC]], quota discipline, and market stabilization or enforcement.
+- Strategic partner or analogy in U.S. resource-security and base-access discussions.
+- Regional financier whose reconstruction and conflict-mediation roles are consequential but bureaucratically or politically constrained.
+- Outside actor in [[Sudan]]'s foreign-backed civil-war diplomacy and army-support environment.
+- Sports soft-power investor whose global disruption strategy is limited by fans, institutions, media revenue, and patience.
 
-The episode also treats Saudi Arabia as an enforcer of last resort. When members cheated on quotas, Saudi Arabia flooded the market in 1985, crashing prices and showing that [[ProductionQuotaDiscipline]] can fail when a large stabilizer refuses to absorb the burden alone. In the 2021 dispute described by [[KateDurian]], Saudi Arabia and the [[UnitedArabEmirates|UAE]] clashed over quota baselines tied to older production capacity.
+## Evidence
+- Oil coordination: [[the-secret-meeting-that-launched-opec]] traces Saudi Arabia from the 1959 producer meeting through quota discipline, 1985 market flooding, and the UAE quota dispute.
+- Strategic access and resources: [[how-to-get-what-greenland-has-with-permission]] uses Saudi oil protection as an access-without-annexation example and names Saudi Arabia as a possible rare-earth processing partner.
+- Reconstruction and conflict diplomacy: [[a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]] describes Saudi interest in [[Syria]] rebuilding; [[outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132]] names Saudi Arabia in Sudan's support and mediation environment.
+- Sports investment: [[chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b]] covers Saudi spending across golf, football, tennis, boxing, martial arts, [[FormulaOne]], and the 2034 [[FIFAWorldCup]], while emphasizing [[LIVGolf]]'s fan and broadcast-income weakness.
 
-[[how-to-get-what-greenland-has-with-permission]] adds Saudi Arabia as both a resource-security analogy and a possible processing partner. The [[PlanetMoney]] episode cites U.S. protection for Saudi oil as an example of getting strategic supply through arrangements short of ownership, and names Saudi Arabia among countries that could help the [[UnitedStates]] with rare-earth processing technology.
+## Qualifications
+The sports source does not show a full retreat from sport. It suggests a cooling or redirection of enthusiasm for some international physical-sport disruption while noting continuing domestic infrastructure and World Cup commitments.
 
-[[a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c]] adds a Syrian reconstruction branch. The episode says Saudi Arabia showed early interest in [[Syria]] business and rebuilding after [[AhmadAlSharah]] took power, but that Saudi efforts were more stuck in bureaucracy than [[Qatar]]'s airport work.
+## What Changed
+- Added Saudi sports investment and LIV Golf as a soft-power and legitimacy branch.
+- Converted the page to the synthesis-v1 entity schema.
 
-## Connections
-- [[OPEC]] - organization where Saudi Arabia is presented as founder, stabilizer, and enforcer.
-- [[SevenSistersOilMajors]] - company power structure that helped provoke producer coordination.
-- [[OilProducerSupplyCoordination]], [[ProductionQuotaDiscipline]], and [[SwingProducerRole]] - mechanisms attached to Saudi Arabia in the episode.
-- [[UnitedArabEmirates|United Arab Emirates]] and [[GreenParadox]] - later quota-dispute and pumping-incentive branch.
-- [[StraitOfHormuz]] and [[GulfStabilityRisk]] - regional setting where oil supply and security risk overlap.
-- [[RareEarthProcessingBottleneck]] and [[StrategicAccessWithoutAnnexation]] - mineral-security and access-arrangement branch added by the Greenland episode.
-- [[Syria]], [[AhmadAlSharah]], [[Qatar]], [[UnitedArabEmirates]], and [[PostwarReconstructionFinance]] - reconstruction branch added by The Intelligence.
-- [[Sudan]], [[SudaneseArmedForces]], [[Egypt]], [[UnitedArabEmirates]], and [[FragmentedCeasefireEnforcement]] - Sudan mediation and army-support branch.
+## Relationships
+- [[OPEC]] - producer organization where Saudi Arabia is founder, stabilizer, and enforcer in the source account.
+- [[SaudiPublicInvestmentFund]] - sovereign-wealth vehicle behind the sports-investment branch.
+- [[LIVGolf]] - prominent Saudi-backed sports disruption case.
+- [[SportsCapitalCannotBuyLegitimacy]] - concept explaining the limits of capital-led sports disruption.
+- [[Syria]] and [[PostwarReconstructionFinance]] - reconstruction-finance context.
+- [[Sudan]], [[SudaneseArmedForces]], and [[FragmentedCeasefireEnforcement]] - Sudan war and mediation context.

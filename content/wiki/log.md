@@ -16288,6 +16288,10 @@ Ingested the 2026-06-06 芮淇讲透资治通鉴 episode on Wang Mang's punitive
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | Chainsaw sputtering: Milei's experiment falters
+
+Added source note for The Intelligence episode on Javier Milei's Argentina stabilization tradeoff, Saudi sports-investment limits, and India's elephant-corridor conservation problem. Updated Argentina, Javier Milei, Austerity, Saudi Arabia, and Saudi Public Investment Fund; added Election-Facing Stabilization, Sports Capital Cannot Buy Legitimacy, LIV Golf, PGA Tour, Indian Elephant Corridors, Ganesha, and Wildlife Institute of India. No settled contradiction found; Milei's record is treated as mixed rather than failed because inflation, poverty, markets, and external support improved while jobs, wages, growth breadth, and debt arrears remain politically risky.
+
 ## [2026-09-09] ingest | 676. The First World War: Churchill's Calamity (Part 6)
 
 Added source note for The Rest Is History episode on Gallipoli after the failed 1915 landings. Key claims: Churchill's Dardanelles shortcut became an attritional trench and disease disaster; Westminster crisis and Fisher's resignation helped remove Churchill from the Admiralty while delaying decisions for Hamilton; Suvla Bay and the August offensive failed to break the stalemate; evacuation succeeded tactically but not strategically; Gallipoli damaged Churchill, raised Mustafa Kemal's reputation, and became central to Australian and New Zealand Anzac memory. Created Gallipoli Campaign, Winston Churchill, Mustafa Kemal / Ataturk, Dardanelles Strategic Shortcut, Failed Strategic Shortcut Attrition Trap, Trench Sanitation Disease Burden, Wartime Coalition Accountability, Anzac Spirit, and First World War pages; migrated and updated Australia, New Zealand, and Ottoman Empire.
@@ -16573,6 +16577,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams
 
 Added source note for the 2026-06-04 Huberman Lab Essentials episode with Nolan Williams on depression, circuit psychiatry, TMS, Stanford Neuromodulation Therapy, psychedelics, ketamine, trauma-memory reconsolidation, and clinical supervision. Created Nolan Williams, Circuit-Based Psychiatry, Transcranial Magnetic Stimulation for Depression, Stanford Neuromodulation Therapy, Memory Reconsolidation Psychiatry, and Psychedelic Clinical Supervision Boundary pages; updated Psychiatric Medication Supervision Boundary and index. No settled contradiction found; ibogaine, ayahuasca, psilocybin, MDMA, ketamine, SNT outcomes, and durability claims remain source-scoped and clinically bounded.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

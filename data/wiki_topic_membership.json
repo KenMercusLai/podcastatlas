@@ -21755,6 +21755,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "ElectionFacingStabilization": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ElectionInformationOperations": [
     {
       "key": "technology",
@@ -32769,6 +32781,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "IndianElephantCorridors": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "IndianMuslims": [
     {
       "key": "politics",
@@ -37063,6 +37082,13 @@
     }
   ],
   "Kyoto": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "LIVGolf": [
     {
       "key": "culture",
       "label": "Culture",
@@ -47289,6 +47315,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "PGATour": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "PGP": [
     {
       "key": "technology",
@@ -55762,6 +55795,11 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "SaudiPublicInvestmentFund": [
@@ -55774,6 +55812,11 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "SavilleInquiry": [
@@ -59288,6 +59331,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "SportsCapitalCannotBuyLegitimacy": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     },
     {
       "key": "culture",
@@ -74163,6 +74218,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "chef-vs-robot": [

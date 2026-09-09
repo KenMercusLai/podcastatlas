@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9444
+wiki_total_pages: 9448
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -470,6 +470,9 @@ wiki_pages:
   - key: "LiuZongdi"
     title: "Liu Zongdi / 刘宗迪"
     url: "/wiki/entities/liuzongdi/"
+  - key: "LIVGolf"
+    title: "LIV Golf"
+    url: "/wiki/entities/livgolf/"
   - key: "LivSchreiber"
     title: "Liv Schreiber"
     url: "/wiki/entities/livschreiber/"

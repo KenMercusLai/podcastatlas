@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2607
+topic_total_pages: 2612
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2266,6 +2266,9 @@ topic_concepts:
   - key: "SportsBroadcastingAct"
     title: "Sports Broadcasting Act"
     url: "/wiki/concepts/sportsbroadcastingact/"
+  - key: "SportsCapitalCannotBuyLegitimacy"
+    title: "Sports Capital Cannot Buy Legitimacy"
+    url: "/wiki/concepts/sportscapitalcannotbuylegitimacy/"
   - key: "SportsCollectiveBargaining"
     title: "Sports Collective Bargaining"
     url: "/wiki/concepts/sportscollectivebargaining/"
@@ -3986,6 +3989,9 @@ topic_entities:
   - key: "LittleWomen"
     title: "Little Women / 小妇人"
     url: "/wiki/entities/littlewomen/"
+  - key: "LIVGolf"
+    title: "LIV Golf"
+    url: "/wiki/entities/livgolf/"
   - key: "LiverpoolFC"
     title: "Liverpool FC"
     url: "/wiki/entities/liverpoolfc/"
@@ -4340,6 +4346,9 @@ topic_entities:
   - key: "PetrCech"
     title: "Petr Cech"
     url: "/wiki/entities/petrcech/"
+  - key: "PGATour"
+    title: "PGA Tour"
+    url: "/wiki/entities/pgatour/"
   - key: "Phaeacians"
     title: "Phaeacians"
     url: "/wiki/entities/phaeacians/"
@@ -4526,6 +4535,12 @@ topic_entities:
   - key: "Saucony"
     title: "Saucony"
     url: "/wiki/entities/saucony/"
+  - key: "SaudiArabia"
+    title: "Saudi Arabia"
+    url: "/wiki/entities/saudiarabia/"
+  - key: "SaudiPublicInvestmentFund"
+    title: "Saudi Public Investment Fund"
+    url: "/wiki/entities/saudipublicinvestmentfund/"
   - key: "Scribd"
     title: "Scribd"
     url: "/wiki/entities/scribd/"

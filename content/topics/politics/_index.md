@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2289
+topic_total_pages: 2290
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -955,6 +955,9 @@ topic_concepts:
   - key: "ElectionInformationOperations"
     title: "Election Information Operations"
     url: "/wiki/concepts/electioninformationoperations/"
+  - key: "ElectionFacingStabilization"
+    title: "Election-Facing Stabilization"
+    url: "/wiki/concepts/electionfacingstabilization/"
   - key: "ElectoralIneligibilityPenalty"
     title: "Electoral Ineligibility Penalty"
     url: "/wiki/concepts/electoralineligibilitypenalty/"

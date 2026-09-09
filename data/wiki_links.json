@@ -18079,6 +18079,10 @@
     "title": "Election Betting Markets",
     "url": "/wiki/concepts/electionbettingmarkets/"
   },
+  "ElectionFacingStabilization": {
+    "title": "Election-Facing Stabilization",
+    "url": "/wiki/concepts/electionfacingstabilization/"
+  },
   "ElectionInformationOperations": {
     "title": "Election Information Operations",
     "url": "/wiki/concepts/electioninformationoperations/"
@@ -22670,6 +22674,10 @@
   "GanbaMushroom": {
     "title": "干巴菌 / Ganba Mushroom",
     "url": "/wiki/entities/ganbamushroom/"
+  },
+  "Ganesha": {
+    "title": "Ganesha",
+    "url": "/wiki/entities/ganesha/"
   },
   "GangganghaoYingshi": {
     "title": "刚刚好影视 / Gangganghao Yingshi",
@@ -28139,6 +28147,10 @@
     "title": "India",
     "url": "/wiki/entities/india/"
   },
+  "IndianElephantCorridors": {
+    "title": "Indian Elephant Corridors",
+    "url": "/wiki/concepts/indianelephantcorridors/"
+  },
   "IndianMuslims": {
     "title": "Indian Muslims",
     "url": "/wiki/entities/indianmuslims/"
@@ -32274,6 +32286,10 @@
   "LDesign": {
     "title": "L-Design",
     "url": "/wiki/entities/ldesign/"
+  },
+  "LIVGolf": {
+    "title": "LIV Golf",
+    "url": "/wiki/entities/livgolf/"
   },
   "LIVO": {
     "title": "LIVO",
@@ -42490,6 +42506,10 @@
   "PDVSA": {
     "title": "PDVSA",
     "url": "/wiki/entities/pdvsa/"
+  },
+  "PGATour": {
+    "title": "PGA Tour",
+    "url": "/wiki/entities/pgatour/"
   },
   "PGP": {
     "title": "PGP",
@@ -53115,6 +53135,10 @@
     "title": "Sports Broadcasting Act",
     "url": "/wiki/concepts/sportsbroadcastingact/"
   },
+  "SportsCapitalCannotBuyLegitimacy": {
+    "title": "Sports Capital Cannot Buy Legitimacy",
+    "url": "/wiki/concepts/sportscapitalcannotbuylegitimacy/"
+  },
   "SportsCollectiveBargaining": {
     "title": "Sports Collective Bargaining",
     "url": "/wiki/concepts/sportscollectivebargaining/"
@@ -61103,6 +61127,10 @@
     "title": "Wildlife Feeding Feedback Loop / 野生动物投喂反馈回路",
     "url": "/wiki/concepts/wildlifefeedingfeedbackloop/"
   },
+  "WildlifeInstituteOfIndia": {
+    "title": "Wildlife Institute of India",
+    "url": "/wiki/entities/wildlifeinstituteofindia/"
+  },
   "WildlifeTourismSpectacle": {
     "title": "Wildlife Tourism Spectacle",
     "url": "/wiki/concepts/wildlifetourismspectacle/"
@@ -67038,6 +67066,10 @@
   "catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2": {
     "title": "Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough",
     "url": "/wiki/sources/catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2/"
+  },
+  "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b": {
+    "title": "Chainsaw sputtering: Milei's experiment falters",
+    "url": "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
   },
   "chef-vs-robot": {
     "title": "Chef vs. Robot",
