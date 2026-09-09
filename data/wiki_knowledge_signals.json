@@ -3423,6 +3423,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/adolescentschoolrefusalmentalhealth/"
     },
+    "AdoptiveLineageRitualPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》618丨王莽为何是夺权的头号玩家？ [lqcAOli6r7LbDZQY7EMW8SbZS0Wq].md",
+          "key": "zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》618丨王莽为何是夺权的头号玩家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/adoptivelineageritualpolitics/"
+    },
     "AdultProductsRelationshipSupport": {
       "episode_count": 1,
       "show_count": 1,
@@ -35071,9 +35087,9 @@
       "url": "/wiki/entities/hanmenglatehan/"
     },
     "HanPingdi": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -35102,6 +35118,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》618丨王莽为何是夺权的头号玩家？ [lqcAOli6r7LbDZQY7EMW8SbZS0Wq].md",
+          "key": "zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》618丨王莽为何是夺权的头号玩家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq/"
         }
       ],
       "updated": "2026-09-10",
@@ -83670,9 +83693,9 @@
       "url": "/wiki/entities/wanglingxinprince/"
     },
     "WangMang": {
-      "episode_count": 25,
+      "episode_count": 26,
       "show_count": 2,
-      "source_note_count": 25,
+      "source_note_count": 26,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -83848,6 +83871,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》618丨王莽为何是夺权的头号玩家？ [lqcAOli6r7LbDZQY7EMW8SbZS0Wq].md",
+          "key": "zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》618丨王莽为何是夺权的头号玩家？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq/"
         }
       ],
       "updated": "2026-09-10",

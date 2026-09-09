@@ -16749,6 +16749,10 @@ Added source note for the 3 CE Wang Mang and Han Pingdi imperial-marriage episod
 
 Added source note for the 2026-06-02 All-In interview with Sarah Friar on OpenAI's IPO framing, March fundraising, compute scarcity, multi-cloud and multi-chip infrastructure strategy, enterprise adoption, ChatGPT advertising, Sora constraints, and Jony Ive device work. Created Sarah Friar and OpenAI Compute Strategy pages. No settled contradiction found; fundraising, usage, search-share, device-timing, GPT-5.5 pricing, and compute-availability claims remain source-scoped to the interview.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》618丨王莽为何是夺权的头号玩家？
+
+Added source note for the 3 CE Wang Mang adoption-lineage episode. Key claims: Wang Mang used "嗣子大义" to frame Han Pingdi as Aidi's heir rather than a Wei-family son, staged a Jin-family collateral succession analogy before court officials, and rewarded Zhen Han after Jin Qing's birth-lineage counter-reading became a fatal political error.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》630丨假好人撕掉面具，能有多丑恶？
 
 Added source note for the 2026-06-02 芮淇讲透资治通鉴 episode on Wang Mang's 7 CE currency and legitimacy crisis, Zhai Yi's anti-usurpation coalition, Liu Xin's claimant enthronement, public indictment against Wang Mang, and Wang Mang's emergency military and Zhougong-framed response. Updated Zhai Yi Rebellion, Legitimacy Indictment Warfare, index, and overview. No settled contradiction found; the Han Pingdi poisoning charge is preserved as a rebel accusation, and minor actors, office titles, troop counts, and Wang Mang's inner psychology remain source-scoped.
@@ -16813,6 +16817,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》620丨史上最传奇的“全民大选”
 
 Added source note for the 4 CE Wang Mang petition-and-reward episode. Key claims: more than 8,000 petitioners help make Wang Mang's "宰衡" elevation look publicly demanded; Wang Zhengjun personally confers the package; Wang Mang's refusal of his sons' honors becomes another status-inflation step; and Kong Guang's counter-petition helps summon him back to government.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
