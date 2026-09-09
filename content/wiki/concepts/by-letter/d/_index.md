@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6896
+wiki_total_pages: 6897
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "DocumentaryEthicalRestraint"
     title: "Documentary Ethical Restraint / 纪录片伦理克制"
     url: "/wiki/concepts/documentaryethicalrestraint/"
+  - key: "DogBloodCase"
+    title: "Dog-Blood Case / 狗血案"
+    url: "/wiki/concepts/dogbloodcase/"
   - key: "DollarFinancialSanctions"
     title: "Dollar Financial Sanctions"
     url: "/wiki/concepts/dollarfinancialsanctions/"

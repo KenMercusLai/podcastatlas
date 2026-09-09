@@ -20529,6 +20529,29 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/documentaryethicalrestraint/"
     },
+    "DogBloodCase": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》616丨有心机的人有多可怕 [lnhkk70905Eqg4lQwH3mp2sxzamc].md",
+          "key": "zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》634丨活在男人影子背后的她，惨！惨！惨！ [lm3WuB0L70YXwwyvWI15j93I9lWK].md",
+          "key": "zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》634丨活在男人影子背后的她，惨！惨！惨！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/dogbloodcase/"
+    },
     "DollyParton": {
       "episode_count": 2,
       "show_count": 2,
@@ -24773,6 +24796,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/empressdowagerliangnalatehan/"
+    },
+    "EmpressDowagerWeiPingdi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》616丨有心机的人有多可怕 [lnhkk70905Eqg4lQwH3mp2sxzamc].md",
+          "key": "zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/empressdowagerweipingdi/"
     },
     "EmpressDowagerYanLateHan": {
       "episode_count": 7,
@@ -50064,6 +50103,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/lotuseaters/"
     },
+    "LouHuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》616丨有心机的人有多可怕 [lnhkk70905Eqg4lQwH3mp2sxzamc].md",
+          "key": "zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/louhuwesternhan/"
+    },
     "LouisMoreauGottschalk": {
       "episode_count": 1,
       "show_count": 1,
@@ -50421,6 +50476,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/lugonglatehan/"
     },
+    "LuKuanDogBloodCase": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》616丨有心机的人有多可怕 [lnhkk70905Eqg4lQwH3mp2sxzamc].md",
+          "key": "zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/lukuandogbloodcase/"
+    },
     "LuPiEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -50475,6 +50546,29 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/luxueasternhan/"
+    },
+    "LuYanWangYuWife": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》616丨有心机的人有多可怕 [lnhkk70905Eqg4lQwH3mp2sxzamc].md",
+          "key": "zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》634丨活在男人影子背后的她，惨！惨！惨！ [lm3WuB0L70YXwwyvWI15j93I9lWK].md",
+          "key": "zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》634丨活在男人影子背后的她，惨！惨！惨！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/luyanwangyuwife/"
     },
     "LuYuxin": {
       "episode_count": 1,
@@ -84247,9 +84341,9 @@
       "url": "/wiki/entities/wangyixingeneral/"
     },
     "WangYuXinPrince": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》634丨活在男人影子背后的她，惨！惨！惨！ [lm3WuB0L70YXwwyvWI15j93I9lWK].md",
@@ -84257,9 +84351,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》634丨活在男人影子背后的她，惨！惨！惨！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》616丨有心机的人有多可怕 [lnhkk70905Eqg4lQwH3mp2sxzamc].md",
+          "key": "zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/wangyuxinprince/"
     },
     "WangYuanWeiXiaoRetainer": {
@@ -84719,6 +84820,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/wedweilrefugeecamp/"
     },
+    "WeiBaoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》616丨有心机的人有多可怕 [lnhkk70905Eqg4lQwH3mp2sxzamc].md",
+          "key": "zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/weibaowesternhan/"
+    },
     "WeiBiaoEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -85000,6 +85117,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/weixiaoeasternhan/"
+    },
+    "WeiXuanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》616丨有心机的人有多可怕 [lnhkk70905Eqg4lQwH3mp2sxzamc].md",
+          "key": "zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/weixuanwesternhan/"
     },
     "WeiXunEasternHan": {
       "episode_count": 1,
@@ -86380,6 +86513,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/wuyoulatehan/"
     },
+    "WuZhangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》616丨有心机的人有多可怕 [lnhkk70905Eqg4lQwH3mp2sxzamc].md",
+          "key": "zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/wuzhangwesternhan/"
+    },
     "WuZhenyu": {
       "episode_count": 1,
       "show_count": 1,
@@ -86489,9 +86638,9 @@
       "url": "/wiki/entities/wuducommanderylatehan/"
     },
     "WuguPoliticalPanic": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸 [lkFbrwTGsJmA85BZugqONZK3Hy4g].md",
@@ -86513,9 +86662,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》616丨有心机的人有多可怕 [lnhkk70905Eqg4lQwH3mp2sxzamc].md",
+          "key": "zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/wugupoliticalpanic/"
     },
     "Wuhuan": {
@@ -91033,6 +91189,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/yuezhi/"
+    },
+    "YunChangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》616丨有心机的人有多可怕 [lnhkk70905Eqg4lQwH3mp2sxzamc].md",
+          "key": "zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/yunchangwesternhan/"
     },
     "YunnanCoffeeOriginDevelopment": {
       "episode_count": 1,

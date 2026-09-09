@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9514
+wiki_total_pages: 9522
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "LotusRacing"
     title: "Lotus Racing"
     url: "/wiki/entities/lotusracing/"
+  - key: "LouHuWesternHan"
+    title: "Lou Hu (Western Han) / 楼护"
+    url: "/wiki/entities/louhuwesternhan/"
   - key: "LouisHong"
     title: "Louis Hong / 洪力德"
     url: "/wiki/entities/louishong/"
@@ -647,12 +650,18 @@ wiki_pages:
   - key: "LSDyna"
     title: "LS-Dyna"
     url: "/wiki/entities/lsdyna/"
+  - key: "LuKuanDogBloodCase"
+    title: "Lu Kuan (Dog-Blood Case) / 吕宽"
+    url: "/wiki/entities/lukuandogbloodcase/"
   - key: "LuQi"
     title: "Lu Qi"
     url: "/wiki/entities/luqi/"
   - key: "LuShanTencent"
     title: "Lu Shan / 卢山"
     url: "/wiki/entities/lushantencent/"
+  - key: "LuYanWangYuWife"
+    title: "Lu Yan (Wang Yu's wife) / 吕嫣"
+    url: "/wiki/entities/luyanwangyuwife/"
   - key: "LuZiheng"
     title: "Lu Ziheng"
     url: "/wiki/entities/luziheng/"

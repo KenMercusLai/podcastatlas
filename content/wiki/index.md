@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？](sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo.md) — 3 CE Wang Mang backfill on Pingdi's empress selection, divination, ancestral notification, imperial bride-price, Wang Mang's partial acceptance and kin redistribution, social-rank regulation, and Four Offices/Three Excellencies power concentration.
+- [《资治通鉴·汉纪》616丨有心机的人有多可怕](sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc.md) — 3 CE Wang Mang backfill on Wang Yu, Wu Zhang, and Lü Kuan's dog-blood case, Wei Taihou's blocked access to Pingdi, Wang Yu and Lu Yan's punishment, Wu Zhang's execution, and the Wei-clan purge.
 - [《资治通鉴·汉纪》618丨王莽为何是夺权的头号玩家？](sources/zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq.md) — 3 CE Wang Mang backfill on adoptive-heir doctrine, the Wei-clan purge justification, Zongbo Feng's public ritual lecture, Jin-family collateral succession, Jin Qing's fatal counter-reading, Zhen Han's rewarded accusation, and Jin Tang's cautious lineage performance.
 - [《资治通鉴·汉纪》619丨“父母官”这个词是怎么来的？](sources/zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r.md) — 3-4 CE Han Pingdi backfill on Yan Xu as a "父母官" exemplar, He Bing's harsh Yingchuan succession, detention protections for women, elders, and children, Wang Mang's daughter entering the palace, and the setup for Wang Mang's next political performance.
 - [《资治通鉴·汉纪》620丨史上最传奇的“全民大选”](sources/zizhi-tongjian-hanji-620-shishang-zui-chuanqi-de-quanmin-daxuan-llijvsut0ldv-ugfa281sllst4gu.md) — 4 CE Wang Mang backfill on an 8,000-person petition, the "宰衡" status package, Wang Zhengjun's personal conferral, family honors, ritual refusal, ministerial counter-petition, and public-refusal status inflation.
@@ -2147,7 +2148,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Crested Myna in Taiwan / 冠八哥](entities/CrestedMynaTaiwan.md) — Taiwan's currently recognized native black myna, used as the contrast case for introduced mynas.
 - [Taiwan Nighthawk / 夜鷹](entities/TaiwanNighthawk.md) — Urban-adapting rooftop-nesting bird whose livestream triggered the introduced-myna controversy.
 - [Wang Huo / 王获 (Xin prince)](entities/WangHuoXinPrince.md) — Wang Mang's second son whose coerced suicide grounds Hanji 634's early household-tragedy layer.
-- [Wang Yu / 王宇 (Xin prince)](entities/WangYuXinPrince.md) — Wang Mang's eldest son whose imprisonment, death, wife's prison death, and six enfeoffed sons frame the accession family-repair problem.
+- [Wang Yu / 王宇 (Xin prince)](entities/WangYuXinPrince.md) — Wang Mang's eldest son whose dog-blood case involvement, forced death, wife's prison fate, and six enfeoffed sons frame the accession family-repair problem.
+- [Empress Dowager Wei (Pingdi) / 卫太后](entities/EmpressDowagerWeiPingdi.md) — Han Pingdi's birth mother whose blocked Chang'an access triggers the dog-blood case.
+- [Wu Zhang (Western Han) / 吴章](entities/WuZhangWesternHan.md) — Wang Yu's teacher whose staged-anomaly advice in the dog-blood case leads to execution and student禁锢.
+- [Lu Kuan (Dog-Blood Case) / 吕宽](entities/LuKuanDogBloodCase.md) — Wang Yu's wife's brother who spills dog blood at Wang Mang's gate and becomes the case's exposure point.
+- [Lu Yan (Wang Yu's wife) / 吕嫣](entities/LuYanWangYuWife.md) — Wang Yu's pregnant wife imprisoned and condemned after the dog-blood case.
+- [Lou Hu (Western Han) / 楼护](entities/LouHuWesternHan.md) — Guanghan governor who arrests Lü Kuan and sends him back to Chang'an in the case variant.
+- [Yun Chang (Western Han) / 云敞](entities/YunChangWesternHan.md) — Wu Zhang's student who acknowledges the teacher tie and buries Wu Zhang after the dog-blood case.
+- [Wei Bao (Western Han) / 卫宝](entities/WeiBaoWesternHan.md) — Wei-clan relative contacted by Wang Yu and punished after the dog-blood case.
+- [Wei Xuan (Western Han) / 卫玄](entities/WeiXuanWesternHan.md) — Wei-clan relative named in the punishment wave after the dog-blood case.
 - [Wang Xing / 王兴 (Xin Four General)](entities/WangXingXinFourGeneral.md) — Commoner Chengwen clerk appointed after matching Ai Zhang's fabricated fuming-list name.
 - [Wang Sheng / 王盛 (Xin Four General)](entities/WangShengXinFourGeneral.md) — Commoner pancake seller appointed after matching Ai Zhang's fabricated fuming-list name.
 - [Song Le / 宋乐](entities/SongLe.md) — GenBio AI co-founder and CTO connecting graph learning, protein language models, AI drug discovery, and virtual-cell world models.
@@ -11625,6 +11634,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Dog-Blood Case / 狗血案](concepts/DogBloodCase.md) — Wang Mang-era staged-anomaly case where dog blood at the regent's gate becomes a wugu-adjacent purge trigger.
 - [父母官式地方官伦理 / Paternal Local Office Ethic](concepts/PaternalLocalOfficeEthic.md) — Local-office ideal from Hanji 619 where a governor's care, restraint, and people-first obligation are imagined through household ethics.
 - [Face-Project Governance / 面子工程式治理](concepts/FaceProjectGovernance.md) — Political prestige built through visible ritual, educational, expert, or public-works activity before implementation is proven.
 - [西海郡流放和法令增殖 / Xihai Exile Administrative Burden](concepts/XihaiExileAdministrativeBurden.md) — Wang Mang-era pattern where Xihai commandery law and exile policy become mass administrative and social burden.
@@ -15117,7 +15127,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yin-Yang Five-Phases Political Theory / 阴阳五行政治理论](concepts/YinYangFivePhasesPoliticalTheory.md) — Cosmological classification system that joins natural categories, historical cycles, dynastic legitimacy, and claimant self-authorization.
 - [Immortality Quest Politics / 求仙政治](concepts/ImmortalityQuestPolitics.md) — Pattern where imperial death anxiety turns immortal belief into expenditure, patronage, secrecy, and coercion.
 - [Fangshi Fraud And Authority / 方士骗术与权威](concepts/FangshiFraudAndAuthority.md) — Specialist-authority pattern where hidden-cause claims, props, staging, and failure reinterpretation can become predatory extraction.
-- [Wugu Political Panic / 巫蛊政治恐慌](concepts/WuguPoliticalPanic.md) — Qin-Han and Eastern Han curse-accusation pattern where hidden ritual suspicion, illness, denunciation, torture, palace rivalry, and succession fear produce state violence.
+- [Wugu Political Panic / 巫蛊政治恐慌](concepts/WuguPoliticalPanic.md) — Qin-Han and Eastern Han curse-accusation pattern where hidden ritual suspicion, staged anomaly, illness, denunciation, torture, palace rivalry, and succession fear produce state violence.
 - [Fangshu Systematization / 方术系统化](concepts/FangshuSystematization.md) — Process by which omens, immortality arts, healing, talismans, alchemy, divination, and fengshui become textual and religious systems.
 - [Chinese Astrological Politics / 中国星占政治](concepts/ChineseAstrologicalPolitics.md) — Use of celestial phenomena, planetary movement, and sky-earth correspondences as political evidence about rulers, ministers, war, legitimacy, and state conduct.
 - [Daoist Alchemy / 道教炼丹](concepts/DaoistAlchemy.md) — Immortality-oriented elixir practice linking coded language, material transformation, cosmology, and textual authority.

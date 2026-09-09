@@ -19,7 +19,7 @@ topic_pages:
     label: "History"
     description: "Historical people, events, institutions, evidence, and interpretation across Chinese and world history."
     url: "/topics/history/"
-    count: 1651
+    count: 1660
   - key: "politics"
     label: "Politics"
     description: "Government, governance, law, diplomacy, elections, regulation, civil liberties, and geopolitical power."

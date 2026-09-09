@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9514
+wiki_total_pages: 9522
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -227,12 +227,18 @@ wiki_pages:
   - key: "Weebly"
     title: "Weebly"
     url: "/wiki/entities/weebly/"
+  - key: "WeiBaoWesternHan"
+    title: "Wei Bao (Western Han) / 卫宝"
+    url: "/wiki/entities/weibaowesternhan/"
   - key: "WeiBoyang"
     title: "Wei Boyang / 魏伯阳"
     url: "/wiki/entities/weiboyang/"
   - key: "WeiQing"
     title: "Wei Qing / 韦青"
     url: "/wiki/entities/weiqing/"
+  - key: "WeiXuanWesternHan"
+    title: "Wei Xuan (Western Han) / 卫玄"
+    url: "/wiki/entities/weixuanwesternhan/"
   - key: "WeilaiBuyuan"
     title: "Weilai Buyuan"
     url: "/wiki/entities/weilaibuyuan/"
@@ -593,6 +599,9 @@ wiki_pages:
   - key: "WuLiande"
     title: "Wu Liande / 伍连德"
     url: "/wiki/entities/wuliande/"
+  - key: "WuZhangWesternHan"
+    title: "Wu Zhang (Western Han) / 吴章"
+    url: "/wiki/entities/wuzhangwesternhan/"
   - key: "WudangMountain"
     title: "Wudang Mountain / 武当山"
     url: "/wiki/entities/wudangmountain/"

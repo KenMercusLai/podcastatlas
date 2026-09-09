@@ -16705,6 +16705,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》616丨有心机的人有多可怕
+
+Added source note for the 3 CE Wang Mang dog-blood case. Key claims: Wang Yu tried to help Wei Taihou reach Han Pingdi, Wu Zhang proposed a staged anomaly, Lu Kuan's dog-blood act exposed the plan, and Wang Mang converted the case into Wang Yu's forced death, Lu Yan's prison fate, Wu Zhang's execution, Wei-clan destruction, and "大义灭亲" moral capital.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》623丨马屁还是真心？职场人如何在夸奖与谄媚间找平衡！
 
 Added source note for the 2026-05-31 芮淇讲透资治通鉴 episode on Wang Mang's 4 CE praise-to-power sequence: officials turn Ming Tang prestige into status elevation and Nine Bestowments discussion, tribute stories and Qiang land-offering rhetoric complete a four-directions submission image, and Xihai Commandery becomes the administrative prelude to Hanji 624. Updated Wang Mang, Wang Zhengjun, Face-Project Governance, Nine Bestowments Ritual Promotion, Auspicious Omen Politics, Xihai Exile Administrative Burden, and Coerced Praise Conformity Risk. No settled contradiction found; named envoys, Qiang identities, exact ritual lists, and Wang Mang's private motive remain source-scoped.
@@ -16817,6 +16821,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》620丨史上最传奇的“全民大选”
 
 Added source note for the 4 CE Wang Mang petition-and-reward episode. Key claims: more than 8,000 petitioners help make Wang Mang's "宰衡" elevation look publicly demanded; Wang Zhengjun personally confers the package; Wang Mang's refusal of his sons' honors becomes another status-inflation step; and Kong Guang's counter-petition helps summon him back to government.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
