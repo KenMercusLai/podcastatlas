@@ -1175,6 +1175,10 @@
     "title": "67.美狄亚：古希腊秦香莲的复仇及其现代性",
     "url": "/wiki/sources/67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556/"
   },
+  "677-usa-the-star-spangled-banner-part-1-glt7890467734": {
+    "title": "677. USA: The Star-Spangled Banner (Part 1)",
+    "url": "/wiki/sources/677-usa-the-star-spangled-banner-part-1-glt7890467734/"
+  },
   "678-britain-god-save-the-king-part-2-glt2603959218": {
     "title": "678. Britain: God Save the King (Part 2)",
     "url": "/wiki/sources/678-britain-god-save-the-king-part-2-glt2603959218/"
@@ -4806,6 +4810,10 @@
   "AnaLankas": {
     "title": "Ana Lankas",
     "url": "/wiki/entities/analankas/"
+  },
+  "AnacreonticSong": {
+    "title": "The Anacreontic Song",
+    "url": "/wiki/entities/anacreonticsong/"
   },
   "Analects": {
     "title": "《论语》 / Analects",
@@ -12710,6 +12718,10 @@
   "ColonialLoyaltyRupture": {
     "title": "Colonial Loyalty Rupture",
     "url": "/wiki/concepts/colonialloyaltyrupture/"
+  },
+  "ColonialMarines": {
+    "title": "Corps of Colonial Marines",
+    "url": "/wiki/entities/colonialmarines/"
   },
   "ColonialTemporalDiscipline": {
     "title": "Colonial Temporal Discipline",
@@ -21311,6 +21323,10 @@
     "title": "Formula Supply Chain Resilience",
     "url": "/wiki/concepts/formulasupplychainresilience/"
   },
+  "FortMcHenry": {
+    "title": "Fort McHenry",
+    "url": "/wiki/entities/fortmchenry/"
+  },
   "FortifiedAttritionPatience": {
     "title": "Fortified Attrition Patience / 坚壁耗敌式耐心",
     "url": "/wiki/concepts/fortifiedattritionpatience/"
@@ -21682,6 +21698,10 @@
   "FrancisGalton": {
     "title": "Francis Galton / 弗朗西斯·高尔顿",
     "url": "/wiki/entities/francisgalton/"
+  },
+  "FrancisScottKey": {
+    "title": "Francis Scott Key",
+    "url": "/wiki/entities/francisscottkey/"
   },
   "FrancisScottKeyBridge": {
     "title": "Francis Scott Key Bridge",
@@ -23102,6 +23122,10 @@
   "GeorgWilhelmSteller": {
     "title": "Georg Wilhelm Steller / 乔治·威廉·斯特勒",
     "url": "/wiki/entities/georgwilhelmsteller/"
+  },
+  "GeorgeArmistead": {
+    "title": "George Armistead",
+    "url": "/wiki/entities/georgearmistead/"
   },
   "GeorgeCottrell": {
     "title": "George Cottrell",
@@ -36842,6 +36866,10 @@
   "MaryPatCampbell": {
     "title": "Mary Pat Campbell",
     "url": "/wiki/entities/marypatcampbell/"
+  },
+  "MaryPickersgill": {
+    "title": "Mary Pickersgill",
+    "url": "/wiki/entities/marypickersgill/"
   },
   "MaryQueenOfScots": {
     "title": "Mary, Queen of Scots",
@@ -53155,6 +53183,10 @@
     "title": "Star Cloud",
     "url": "/wiki/entities/starcloud/"
   },
+  "StarSpangledBanner": {
+    "title": "The Star-Spangled Banner",
+    "url": "/wiki/entities/starspangledbanner/"
+  },
   "StarTalentInBigCompanies": {
     "title": "Star Talent In Big Companies",
     "url": "/wiki/concepts/startalentinbigcompanies/"
@@ -59842,6 +59874,10 @@
   "WarGenderedCivilianHarm": {
     "title": "War Gendered Civilian Harm",
     "url": "/wiki/concepts/wargenderedcivilianharm/"
+  },
+  "WarOf1812": {
+    "title": "War of 1812",
+    "url": "/wiki/entities/warof1812/"
   },
   "WarOfFaith": {
     "title": "追风者",

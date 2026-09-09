@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2273
+topic_total_pages: 2274
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -4349,6 +4349,9 @@ topic_entities:
   - key: "France"
     title: "France"
     url: "/wiki/entities/france/"
+  - key: "FrancisScottKey"
+    title: "Francis Scott Key"
+    url: "/wiki/entities/francisscottkey/"
   - key: "FrancoAmericanAlliance1778"
     title: "Franco-American Alliance of 1778"
     url: "/wiki/entities/francoamericanalliance1778/"

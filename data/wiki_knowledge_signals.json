@@ -4781,6 +4781,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/anguosouthernxiongnu/"
     },
+    "AnacreonticSong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7890467734 [GLT7890467734].md",
+          "key": "677-usa-the-star-spangled-banner-part-1-glt7890467734",
+          "show": "The Rest Is History",
+          "title": "677. USA: The Star-Spangled Banner (Part 1)",
+          "url": "/wiki/sources/677-usa-the-star-spangled-banner-part-1-glt7890467734/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/anacreonticsong/"
+    },
     "AnalogMoviegoingExperience": {
       "episode_count": 1,
       "show_count": 1,
@@ -14591,6 +14607,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/colonialloyaltyrupture/"
+    },
+    "ColonialMarines": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7890467734 [GLT7890467734].md",
+          "key": "677-usa-the-star-spangled-banner-part-1-glt7890467734",
+          "show": "The Rest Is History",
+          "title": "677. USA: The Star-Spangled Banner (Part 1)",
+          "url": "/wiki/sources/677-usa-the-star-spangled-banner-part-1-glt7890467734/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/colonialmarines/"
     },
     "ComfortLedFootwearDemand": {
       "episode_count": 2,
@@ -27738,6 +27770,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/formerenemyloyaltyreframing/"
     },
+    "FortMcHenry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7890467734 [GLT7890467734].md",
+          "key": "677-usa-the-star-spangled-banner-part-1-glt7890467734",
+          "show": "The Rest Is History",
+          "title": "677. USA: The Star-Spangled Banner (Part 1)",
+          "url": "/wiki/sources/677-usa-the-star-spangled-banner-part-1-glt7890467734/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/fortmchenry/"
+    },
     "FortifiedAttritionPatience": {
       "episode_count": 8,
       "show_count": 1,
@@ -28530,6 +28578,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/franceshaugen/"
+    },
+    "FrancisScottKey": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7890467734 [GLT7890467734].md",
+          "key": "677-usa-the-star-spangled-banner-part-1-glt7890467734",
+          "show": "The Rest Is History",
+          "title": "677. USA: The Star-Spangled Banner (Part 1)",
+          "url": "/wiki/sources/677-usa-the-star-spangled-banner-part-1-glt7890467734/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/francisscottkey/"
     },
     "FrancisWalsingham": {
       "episode_count": 6,
@@ -30906,6 +30970,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/georgvonschonerer/"
+    },
+    "GeorgeArmistead": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7890467734 [GLT7890467734].md",
+          "key": "677-usa-the-star-spangled-banner-part-1-glt7890467734",
+          "show": "The Rest Is History",
+          "title": "677. USA: The Star-Spangled Banner (Part 1)",
+          "url": "/wiki/sources/677-usa-the-star-spangled-banner-part-1-glt7890467734/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/georgearmistead/"
     },
     "GeorgeIII": {
       "episode_count": 1,
@@ -50341,6 +50421,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/marthawashington/"
     },
+    "MaryPickersgill": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7890467734 [GLT7890467734].md",
+          "key": "677-usa-the-star-spangled-banner-part-1-glt7890467734",
+          "show": "The Rest Is History",
+          "title": "677. USA: The Star-Spangled Banner (Part 1)",
+          "url": "/wiki/sources/677-usa-the-star-spangled-banner-part-1-glt7890467734/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/marypickersgill/"
+    },
     "MaryQueenOfScots": {
       "episode_count": 4,
       "show_count": 1,
@@ -53666,9 +53762,9 @@
       "url": "/wiki/entities/natesilver/"
     },
     "NationalAnthemPoliticalPlasticity": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -53697,9 +53793,16 @@
           "show": "The Rest Is History",
           "title": "678. Britain: God Save the King (Part 2)",
           "url": "/wiki/sources/678-britain-god-save-the-king-part-2-glt2603959218/"
+        },
+        {
+          "episode_file": "GLT7890467734 [GLT7890467734].md",
+          "key": "677-usa-the-star-spangled-banner-part-1-glt7890467734",
+          "show": "The Rest Is History",
+          "title": "677. USA: The Star-Spangled Banner (Part 1)",
+          "url": "/wiki/sources/677-usa-the-star-spangled-banner-part-1-glt7890467734/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-09",
       "url": "/wiki/concepts/nationalanthempoliticalplasticity/"
     },
     "NationalDirectorEmotionOutlet": {
@@ -69194,9 +69297,9 @@
       "url": "/wiki/concepts/slaveproducedgoodsboycott/"
     },
     "SlaveryNationalIdentityContradiction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -69204,9 +69307,16 @@
           "show": "The Rest Is History",
           "title": "681. Brazil: The Emperor's Anthem (Part 5)",
           "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        },
+        {
+          "episode_file": "GLT7890467734 [GLT7890467734].md",
+          "key": "677-usa-the-star-spangled-banner-part-1-glt7890467734",
+          "show": "The Rest Is History",
+          "title": "677. USA: The Star-Spangled Banner (Part 1)",
+          "url": "/wiki/sources/677-usa-the-star-spangled-banner-part-1-glt7890467734/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-09",
       "url": "/wiki/concepts/slaverynationalidentitycontradiction/"
     },
     "SleepAsDailyHealthAccount": {
@@ -70854,6 +70964,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/stanleydruckenmiller/"
+    },
+    "StarSpangledBanner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7890467734 [GLT7890467734].md",
+          "key": "677-usa-the-star-spangled-banner-part-1-glt7890467734",
+          "show": "The Rest Is History",
+          "title": "677. USA: The Star-Spangled Banner (Part 1)",
+          "url": "/wiki/sources/677-usa-the-star-spangled-banner-part-1-glt7890467734/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/starspangledbanner/"
     },
     "StartupEmbassy": {
       "episode_count": 1,
@@ -79728,6 +79854,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/warasviolentredistribution/"
+    },
+    "WarOf1812": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7890467734 [GLT7890467734].md",
+          "key": "677-usa-the-star-spangled-banner-part-1-glt7890467734",
+          "show": "The Rest Is History",
+          "title": "677. USA: The Star-Spangled Banner (Part 1)",
+          "url": "/wiki/sources/677-usa-the-star-spangled-banner-part-1-glt7890467734/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/warof1812/"
     },
     "WarOfTheGoldenStool": {
       "episode_count": 1,

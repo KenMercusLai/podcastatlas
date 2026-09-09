@@ -16244,6 +16244,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | 677. USA: The Star-Spangled Banner (Part 1)
+
+Ingested The Rest Is History episode on The Star-Spangled Banner, Fort McHenry, Francis Scott Key, the War of 1812, borrowed melody, slavery controversy, 1931 official adoption, and modern protest history. Added source `677-usa-the-star-spangled-banner-part-1-glt7890467734`; created `StarSpangledBanner`, `FrancisScottKey`, `WarOf1812`, `FortMcHenry`, `ColonialMarines`, `AnacreonticSong`, `MaryPickersgill`, and `GeorgeArmistead`; updated `NationalAnthemPoliticalPlasticity`, `SlaveryNationalIdentityContradiction`, `index`, and `overview`. No settled contradiction found; Key's exact third-verse intent, Fort McHenry danger level, and performance/protest afterlives remain source-scoped.
+
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生
 
 Ingested the 2026-06-08 芮淇讲透资治通鉴 episode backfilling 22 CE late-Xin disorder before Hanji 661: Wang Mang's Nine Temples spectacle, Guandong famine, Chimei's origin under Fan Chong, official-army civilian abuse by Wang Kuang and Lian Dan, Lulin branch movement, corrupt refugee relief, Wang Ye's false market report, Yan You's command-authority complaint, and Feng Yan's warning to Lian Dan about Han-restoration public sentiment. Added source `zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce`; created `FanChongChimei`, `LianDanXinGeneral`, `WangKuangXinGeneral`, `WangYeXinOfficial`, `OfficialArmyPredationBackfire`, `CommandAuthorityBottleneck`, and `HanRestorationPublicSentiment`; updated `WangMang`, `XinDynasty`, `ChimeiRebellion`, `LulinRebellion`, `FengYanEasternHan`, `DisasterReliefCorruption`, `overview`, and `index`. No settled contradiction found; Wang Kuang is disambiguated from the Xin-prince and later late-Han Wang Kuang pages, and Jing Shang, Chen Mao, Kong Ren, Wang Feng, Ma Wu, force counts, and the opening mystery remain source-scoped.
@@ -16367,6 +16371,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | EP386-十一出行不想当大冤种？咱们来听听资深领队的小巧思！
 
 Ingested the 2026-09-08 无时差研究所 episode with Daocaoren leader 老宝 on National Day / Golden Week travel pricing, route substitution, airfare thresholds, cancellable hotels, reverse routing, travel-agency route operations, leader training, backup systems, and Egypt guided-travel boundaries. Added source `ep386-shiyi-chuxing-bu-xiang-dang-dayuanzhong-zanmen-lai-tingting-zishen-lingdui-de-xiaoqiaosi-gkwrirwodgrhaeuitgtugmxp`; created `DaocaorenTravel`, `LaobaoTravelLeader`, `HolidayPeakTravelPlanning`, and `TravelAgencyItineraryOperations`; updated `WushichaYanjiusuo`, `ComplexDestinationTravelRisk`, and `index`. No settled contradiction found; destination prices, fare movements, visa convenience, geopolitical effects, safety, and route availability remain source-scoped and time-sensitive.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

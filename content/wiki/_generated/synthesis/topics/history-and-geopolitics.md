@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-09
-as_of_overview_commit: 85a3d5543618717ec523fc3956623b1e4336e4bf
-input_digest: df5951bfc2d60424abdba26c94c64b68bf9bf596a567f8755243d297a50cab06
+as_of_overview_commit: d063a971926e9febf566f786534965bbb87be195
+input_digest: 5e621e32ec5af6fc07300b7103e4a75ffa6d9fe846706db95fdc005067af78c2
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The Longshan source adds a northwest route-geography layer: Longshan is treated as a passage-and-barrier hinge connecting Guanzhong, Gansu/Longyou, Hexi, and the Western Regions, so Qin eastward movement, Han Wudi's westward strategy, Guanlong roads, and the ancient Silk Road become one corridor problem. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Hanji 658 adds a pre-Kunyang late-Xin layer where Wang Mang's palace scandal, public-son succession collapse, failed campaigns, Xiongnu requisitions, famine, and private-coinage punishment show regime failure before the final battlefield and capital collapse. The 电影巨辩 update adds a film-history and geopolitics bridge: Chinese commercial films can now invoke Iraq-war and Hong Kong handover contexts, but the source argues those histories are simplified when ordinary humanitarianism or 2026 hindsight replaces full local political complexity.
+The U.S. anthem source adds a national-symbol history layer: Fort McHenry, the War of 1812, a borrowed English melody, escaped enslaved people in British service, and later protest all show how battle memory becomes a contested patriotic archive rather than a simple origin story. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, and late-Xin branches keep emphasizing that geography, legitimacy, military capacity, public memory, and institutional afterlives interact across time.
 
 ## Cross-source Findings
 
@@ -143,3 +143,14 @@ Public and national memory often turns messy causality into cleaner origin stori
 - The source is film criticism and does not provide an independent Iraq War history or a full Hong Kong handover historiography.
 - The films' exact real-world referents, creator intentions, censorship constraints, and audience reception remain source-scoped.
 - The claim identifies narrative simplification, not a settled contradiction with existing Hong Kong, war, or film-history pages.
+
+### Us Anthem Turns War Of 1812 Battle Memory Into Contested Symbol
+
+[[677-usa-the-star-spangled-banner-part-1-glt7890467734|The U.S. anthem episode]] adds a history-and-geopolitics case where [[WarOf1812|the War of 1812]] and [[FortMcHenry]] become national memory through [[FrancisScottKey]]'s poem, while the borrowed [[AnacreonticSong]] melody, [[MaryPickersgill]] flag, [[GeorgeArmistead]] flag-raising, and [[ColonialMarines]] escaped-slave context keep [[StarSpangledBanner|The Star-Spangled Banner]] historically layered rather than a clean patriotic origin.
+
+**Evidence:** [[677-usa-the-star-spangled-banner-part-1-glt7890467734]], [[WarOf1812]], [[FortMcHenry]], [[FrancisScottKey]], [[AnacreonticSong]], [[MaryPickersgill]], [[GeorgeArmistead]], [[ColonialMarines]], [[StarSpangledBanner]], [[NationalAnthemPoliticalPlasticity]]
+
+**Qualifications:**
+
+- The source does not settle the full War of 1812 chronology, Indigenous diplomacy, Treaty of Ghent detail, or Key's exact third-verse intent.
+- The Fort McHenry danger level and the anthem's later performance history remain source-scoped narrative claims.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9391
+wiki_total_pages: 9399
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1472,6 +1472,9 @@ wiki_pages:
   - key: "SyrilKarn"
     title: "Syril Karn"
     url: "/wiki/entities/syrilkarn/"
+  - key: "StarSpangledBanner"
+    title: "The Star-Spangled Banner"
+    url: "/wiki/entities/starspangledbanner/"
   - key: "SevenGeases"
     title: "《七咒赋》 / The Seven Geases"
     url: "/wiki/entities/sevengeases/"

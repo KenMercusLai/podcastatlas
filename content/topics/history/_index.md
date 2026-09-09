@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1611
+topic_total_pages: 1612
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -3891,6 +3891,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "677-usa-the-star-spangled-banner-part-1-glt7890467734"
+    title: "677. USA: The Star-Spangled Banner (Part 1)"
+    url: "/wiki/sources/677-usa-the-star-spangled-banner-part-1-glt7890467734/"
   - key: "678-britain-god-save-the-king-part-2-glt2603959218"
     title: "678. Britain: God Save the King (Part 2)"
     url: "/wiki/sources/678-britain-god-save-the-king-part-2-glt2603959218/"

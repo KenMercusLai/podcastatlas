@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [677. USA: The Star-Spangled Banner (Part 1)](sources/677-usa-the-star-spangled-banner-part-1-glt7890467734.md) — The Rest Is History episode on The Star-Spangled Banner, Fort McHenry, Francis Scott Key, the War of 1812, slavery controversy, official adoption, and anthem protest.
 - [EP386-十一出行不想当大冤种？咱们来听听资深领队的小巧思！](sources/ep386-shiyi-chuxing-bu-xiang-dang-dayuanzhong-zanmen-lai-tingting-zishen-lingdui-de-xiaoqiaosi-gkwrirwodgrhaeuitgtugmxp.md) — 无时差研究所 episode with Daocaoren leader 老宝 on Golden Week travel pricing, route substitution, airfare and hotel tactics, travel-agency operations, and guided-travel boundaries.
 - [猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？](sources/zhurou-jiage-jingli-man-chang-xiadie-weishenme-zhuzhouqi-buzai-zunxun-laojiezou-1012895922.md) — 声动早咖啡 episode explaining why China's pork cycle is staying low longer through scale farming, efficiency gains, demand substitution, and limited downstream absorption.
 - [《资治通鉴·汉纪》659丨有些核心人才不要轻易动](sources/zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij.md) — 21 CE Wang Mang backfill on forbidden hunger-based rebellion diagnosis, Gongsun Lu's ignored internal-cause warning, Tian Kuang's local stabilization and removal, and late-Xin reporting and command failure.
@@ -2506,6 +2507,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hallidon Hill](entities/HallidonHill.md) — Edward III's 1333 Scottish victory whose diplomatic aftermath pulls in France.
 - [Elissa Epel](entities/ElissaEpel.md) — UCSF stress, aging, metabolism, and emotion researcher featured in the Huberman Lab stress-biology episode.
 - [Wim Hof](entities/WimHof.md) — Source-scoped breathwork figure named in Epel's positive-stress and Wim Hof method discussion.
+- [The Star-Spangled Banner](entities/StarSpangledBanner.md) — U.S. anthem whose Fort McHenry origin, borrowed tune, slavery controversy, official adoption, and protest history make it a contested national symbol.
+- [Francis Scott Key](entities/FrancisScottKey.md) — Maryland lawyer and anthem author whose slaveholding, colonization support, and anti-abolitionist record complicate his patriotic memory.
+- [War of 1812](entities/WarOf1812.md) — Anglo-American conflict setting for Fort McHenry, the anthem poem, Canadian identity memory, and escaped-slave British military strategy.
+- [Fort McHenry](entities/FortMcHenry.md) — Baltimore fort whose 1814 bombardment and flag scene gave The Star-Spangled Banner its core imagery.
+- [Corps of Colonial Marines](entities/ColonialMarines.md) — British-organized War of 1812 unit of escaped enslaved men central to the U.S. anthem's slavery controversy.
+- [The Anacreontic Song](entities/AnacreonticSong.md) — English melody reused for Key's poem and inherited by The Star-Spangled Banner.
+- [Mary Pickersgill](entities/MaryPickersgill.md) — Baltimore flag maker whose large Fort McHenry flag became central to the U.S. anthem image.
+- [George Armistead](entities/GeorgeArmistead.md) — Fort McHenry commander associated with ordering and raising the large garrison flag.
 - [God Save the King / Queen](entities/GodSaveTheKing.md) — British anthem whose uncertain origin, Jacobite-Hanoverian repurposing, and sporting use make it a flexible monarchy symbol.
 - [Scotland](entities/Scotland.md) — UK constituent-nation sporting identity case and medieval ally of France in the Hundred Years' War origin branch.
 - [Flower of Scotland](entities/FlowerOfScotland.md) — Scottish sporting anthem that turns Bannockburn memory into football and rugby identity.
@@ -11942,7 +11951,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [群盗互纠式平乱 / Bandit Mutual-Reporting Pacification](concepts/BanditMutualReportingPacification.md) — Guangwu-era anti-bandit incentive design using peer reporting, pardons, official-accountability repair, shelter penalties, and resettlement.
 - [五铢钱恢复 / Wuzhu Coin Restoration](concepts/WuzhuCoinRestoration.md) — Ma Yuan's memorial and Liu Xiu's adoption of restored five-zhu coinage as practical normalization.
 - [公开称贤比较压力 / Imperial Praise Comparison Pressure](concepts/ImperialPraiseComparisonPressure.md) — Court-management pattern where a ruler's repeated praise for a dead model official makes living ministers feel implicitly judged.
-- [National Anthem Political Plasticity](concepts/NationalAnthemPoliticalPlasticity.md) — Pattern where an anthem can be claimed across opposed movements, founding ambiguities, changing regimes, and selective public conventions.
+- [National Anthem Political Plasticity](concepts/NationalAnthemPoliticalPlasticity.md) — Pattern where an anthem can be claimed across opposed movements, founding ambiguities, changing regimes, selective public conventions, and protest performances.
 - [Regime Symbol Continuity](concepts/RegimeSymbolContinuity.md) — Pattern where a public symbol survives across successor orders because it has become usable national memory, sometimes through selective narrowing.
 - [Loyal Rebellion](concepts/LoyalRebellion.md) — Early-modern posture where rebels profess fidelity to a monarch while resisting officials, soldiers, or policies.
 - [Pragmatic Religious Toleration](concepts/PragmaticReligiousToleration.md) — Managed pluralism where minority religions function through civic need, discretion, or legal fiction under an established public faith.
@@ -11950,7 +11959,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Quaker Inward Equality](concepts/QuakerInwardEquality.md) — Quaker religious equality frame connecting inward spiritual illumination, anti-hierarchy, and Lay's anti-slavery argument.
 - [Plantation Slavery Moral Shock](concepts/PlantationSlaveryMoralShock.md) — Pattern where direct exposure to plantation hunger, violence, and property discipline turns slavery into an urgent moral scandal.
 - [Slave-Produced Goods Boycott](concepts/SlaveProducedGoodsBoycott.md) — Ethical-consumption practice of refusing commodities such as sugar, tobacco, and tea because they depend on enslaved labor.
-- [Slavery National Identity Contradiction](concepts/SlaveryNationalIdentityContradiction.md) — Tension between national liberty or unity claims and a historical formation built on enslaved labor.
+- [Slavery National Identity Contradiction](concepts/SlaveryNationalIdentityContradiction.md) — Tension between national liberty or unity claims and a historical formation built on enslaved labor, racial hierarchy, and contested freedom.
 - [Political Marriage Alliance Depreciation / 政治婚姻联盟折价](concepts/PoliticalMarriageAllianceDepreciation.md) — Pattern where a crisis marriage alliance first confirms political backing, can convert into formal palace and heir status, then loses central leverage as the original need declines.
 - [Generative AI Hollywood Production](concepts/GenerativeAIHollywoodProduction.md) — Hollywood-specific AI adoption across synthetic scenes, stunts, effects, planning, editing, platform infrastructure, and backlash.
 - [Synthetic Performers](concepts/SyntheticPerformers.md) — AI-generated actor-like figures that sit between character, performer, visual effect, and generated asset.

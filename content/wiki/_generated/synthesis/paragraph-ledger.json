@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "489509ad56cf743fca8d325ff258412a46a4080bb903e734749918e9f3a1a5fa",
       "b3a1fb5dcbfe007e927799ab368dd77078b976ee40ff1fffbdec30b13fd46761",
       "792a209c71d0990d264970c125bc25321b78bbb198c9cd67f35871606258367f",
       "1b11804800b2062ea35d10878a264d1f33cfa6f054078456c33da0a3ea760c61",
@@ -601,11 +602,40 @@
       "08ce087b5036dedcaf145e2c88ca51ea2070e265e9815cfe93ea1755ee057d3f",
       "6701e8b392caf729c79e1e660e6d138d48a06b0d176497dfeb0b07df834cfc04"
     ],
-    "paragraph_count": 599
+    "paragraph_count": 600
   },
-  "overview_commit": "c108fce9ba3e5dd8c37aca14a956b013368b3ec1",
-  "overview_digest": "6082a486250f25ba77923458a46aaee7d12c586a9d4ad188be99a3e2f2ba308a",
+  "overview_commit": "d063a971926e9febf566f786534965bbb87be195",
+  "overview_digest": "efa176a2cf068c9476d512a9d8079d65bebe0921847ad3c757ffa71892063b4c",
   "paragraphs": [
+    {
+      "id": "489509ad56cf743fca8d325ff258412a46a4080bb903e734749918e9f3a1a5fa",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[677-usa-the-star-spangled-banner-part-1-glt7890467734|677. USA: The Star-Spangled Banner (Part 1)]], a [[TheRestIsHistory]] episode opening the national-anthem series through [[StarSpangledBanner|The Star-Spangled Banner]], [[FrancisScottKey]], [[WarOf1812|the War of 1812]], [[FortMcHenry]], [[AnacreonticSong|The Anacreontic Song]], and the [[ColonialMarines]]. It adds [[StarSpangledBanner]], [[FrancisScottKey]], [[WarOf1812]], [[FortMcHenry]], [[ColonialMarines]], [[AnacreonticSong]], [[MaryPickersgill]], and [[GeorgeArmistead]], while extending [[NationalAnthemPoliticalPlasticity]] and [[SlaveryNationalIdentityContradiction]]. Its core synthesis is that the U.S. anthem is a battle poem turned official ceremony whose patriotic force remains unsettled by a borrowed melody, difficult performance, slavery-shadowed third verse, Key's own slaveholding and anti-abolitionist record, and later protest from Jose Feliciano and Jimi Hendrix to [[ColinKaepernick]] and [[BlackLivesMatter]]. No settled contradiction is recorded; Key's exact third-verse intent, Fort McHenry's danger level, anthem-adoption politics, and performance-protest afterlives remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 3,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "677-usa-the-star-spangled-banner-part-1-glt7890467734",
+        "AnacreonticSong",
+        "BlackLivesMatter",
+        "ColinKaepernick",
+        "ColonialMarines",
+        "FortMcHenry",
+        "FrancisScottKey",
+        "GeorgeArmistead",
+        "MaryPickersgill",
+        "NationalAnthemPoliticalPlasticity",
+        "SlaveryNationalIdentityContradiction",
+        "StarSpangledBanner",
+        "TheRestIsHistory",
+        "WarOf1812"
+      ]
+    },
     {
       "id": "b3a1fb5dcbfe007e927799ab368dd77078b976ee40ff1fffbdec30b13fd46761",
       "primary_topic": "ai-and-technology",

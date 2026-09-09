@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-09
-as_of_overview_commit: 85a3d5543618717ec523fc3956623b1e4336e4bf
-input_digest: 6fe1bde7facba330363ebd69b6867f4768dfcc2f5e833a56335f5faed8840e93
+as_of_overview_commit: d063a971926e9febf566f786534965bbb87be195
+input_digest: aac54a9e35be42c6b0aefd7d9dda50c0b9007846bd939e75a4b571f1806479ac
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance synthesis now spans youth platform policy, electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, political-theory method, boundary-setting, and swing-state Senate cooperation across historical and contemporary cases. The new All-In Senate update adds a Pennsylvania governance case: bipartisan representation, filibuster restraint, shutdown avoidance, primary pressure, campaign spending, and data-center permitting all converge when AI infrastructure becomes a local jobs, community-consent, and national-security question. Existing child-safety, Machiavelli, Saxony-Anhalt, Brexit, AI governance, surveillance, public-health, sports, and historical court cases still reinforce the broad finding that usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy. Hanji 658 adds a governance case where dynastic scandal suppression, heir loss, and punitive currency enforcement turn private household control and monetary policing into legitimacy and state-capacity damage. The 电影巨辩 film-politics update adds a cultural-governance case: cross-context cinema can display strong craft while failing to settle legitimacy, state order, occupation, anti-capital affect, and historical responsibility when another society becomes the object of mainland interpretation.
+Governance synthesis now spans youth platform policy, electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, political-theory method, boundary-setting, and swing-state Senate cooperation across historical and contemporary cases. The new U.S. anthem update adds a public-symbol governance case: official ceremony remains fragile when adoption, performance rules, slavery memory, authorial legitimacy, and racial-justice protest compete over who can speak for the nation. Existing child-safety, Machiavelli, Saxony-Anhalt, Brexit, AI governance, surveillance, public-health, sports, and historical court cases still reinforce the broad finding that usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy.
 
 ## Cross-source Findings
 
@@ -2120,3 +2120,14 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 - The claim is grounded in one film-critical podcast episode, not a general survey of Chinese commercial cinema or Hong Kong film reception.
 - Creator intent, censorship pressure, audience reaction, and Hong Kong historical self-understanding remain source-scoped.
 - The claim treats state order and anti-capital affect as the source's interpretive frame, not as independent validation of the films' politics.
+
+### Us Anthem Governance Shows Public Symbol Legitimacy Contest
+
+[[677-usa-the-star-spangled-banner-part-1-glt7890467734|The Star-Spangled Banner episode]] adds a public-symbol governance case: [[StarSpangledBanner|the U.S. anthem]] became official ceremony only after long military use and 1931 adoption, but [[FrancisScottKey]]'s slavery politics, the [[ColonialMarines]] context, and later [[ColinKaepernick]] / [[BlackLivesMatter]] protest show that state symbols still depend on contested public legitimacy, not formal designation alone.
+
+**Evidence:** [[677-usa-the-star-spangled-banner-part-1-glt7890467734]], [[StarSpangledBanner]], [[FrancisScottKey]], [[ColonialMarines]], [[ColinKaepernick]], [[BlackLivesMatter]], [[NationalAnthemPoliticalPlasticity]], [[SlaveryNationalIdentityContradiction]]
+
+**Qualifications:**
+
+- The source keeps the exact meaning of the third verse unresolved, so the governance claim is about legitimacy contestation rather than proof of one settled authorial intent.
+- The performance and protest examples are source-scoped to the episode narrative and do not constitute a complete legal or cultural history of anthem protocol.

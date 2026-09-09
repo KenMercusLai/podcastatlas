@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9391
+wiki_total_pages: 9399
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1409,6 +1409,9 @@ wiki_pages:
   - key: "AlfredDouglas"
     title: "Lord Alfred Douglas / 波西"
     url: "/wiki/entities/alfreddouglas/"
+  - key: "AnacreonticSong"
+    title: "The Anacreontic Song"
+    url: "/wiki/entities/anacreonticsong/"
   - key: "AStretchOfHighwayTwoLanesWide"
     title: "《一段双车道公路》"
     url: "/wiki/entities/astretchofhighwaytwolaneswide/"

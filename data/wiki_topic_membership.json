@@ -1806,6 +1806,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "677-usa-the-star-spangled-banner-part-1-glt7890467734": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "678-britain-god-save-the-king-part-2-glt2603959218": [
     {
       "key": "history",
@@ -25700,6 +25707,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "FrancisScottKey": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "FrancisScottKeyBridge": [

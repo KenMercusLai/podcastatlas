@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-09
-as_of_overview_commit: 7c66489aabfc3f996118aa1f9035570fb4bb3deb
-summary: "Current synthesis turns on bounded judgment: tools, institutions, markets, media, health, and work succeed when context, evidence, incentives, and trust hold."
-episode_count: 2033
-source_count: 2033
-paragraph_count: 599
+as_of_overview_commit: d063a971926e9febf566f786534965bbb87be195
+summary: "Current synthesis turns on bounded judgment: tools, institutions, markets, media, health, history, and work succeed when evidence, incentives, context, and trust hold."
+episode_count: 2042
+source_count: 2042
+paragraph_count: 600
 topic_count: 8
 ---
 
@@ -17,12 +17,12 @@ topic_count: 8
 ## Executive Summary
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[OfficeAgentHarnessDesign]], [[EnterpriseConnectorContextQuality]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[PersistentCloudAgents]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[AgentReliabilityVerification]], [[AgentCommandCenter]], [[TeamAgentMemory]], [[AgenticDataEngineeringHarness]], [[PolicyBoundAgenticLendingSupport]], [[ExplainableAILending]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation.
-- [[rick-knudtson-workshop-the-email-signal-he-ignored-for-9-months]] adds that SaaS product-market fit can hide inside an unglamorous repeated customer signal: [[WorkshopInternalComms|Workshop]] moved from an intranet thesis toward [[EnterpriseInternalEmailInfrastructure]] after customers kept naming email, while [[AudienceBeforeProductMarketing]], [[CommunityLedSaaSGrowth]], [[ChannelNativeInternalCommunication]], and [[UsageBasedVerticalSaaSPricing]] helped turn that signal into a marketable internal communications system.
+- [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee|The Bogg Bag episode]] adds that physical consumer-brand recovery can depend on actual use overriding founder despair: [[DefectiveInventoryDemandSignal]] turned black-streaked inventory into customer-pull evidence, while [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], and [[FounderRestartAfterFailure]] show that restart still needed channels, capital, and governance fit before [[BoggBag]] could scale.
 - Cultural form is an interpretive infrastructure: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], and [[PhysicalBookDesignTradeoff]] show that objects, books, and exhibitions need labels, material form, production choices, and local context before audiences can understand them.
-- State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
-- Strategic routes become political infrastructure when control over cables, straits, ports, enclave crossings, or mountain corridors changes what states, markets, migrants, and armies can do.
+- [[trump-drinks-venezuelas-milkshake]] and [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]] now make Venezuela oil reopening a resource-sovereignty governance case with both historical and current stakes: [[Venezuela]] may need outside capital to revive [[PDVSA]], but [[OilReopeningBacklash]], [[OilNationalization]], [[OilConcessionBargaining]], [[PoliticalResourceCurse]], [[NorthAmericanBlueEnergyPartners]], and [[MariaCorinaMachado]] show why long, U.S.-linked concession terms can turn economic repair into authority, constitutional, and legitimacy risk.
+- [[677-usa-the-star-spangled-banner-part-1-glt7890467734|The U.S. anthem episode]] adds a history-and-geopolitics case where [[WarOf1812|the War of 1812]] and [[FortMcHenry]] become national memory through [[FrancisScottKey]]'s poem, while the borrowed [[AnacreonticSong]] melody, [[MaryPickersgill]] flag, [[GeorgeArmistead]] flag-raising, and [[ColonialMarines]] escaped-slave context keep [[StarSpangledBanner|The Star-Spangled Banner]] historically layered rather than a clean patriotic origin.
 - Across [[ShiDiFuShuo]] and related pages, psychological knowledge is most useful when it restores contact with body, context, and responsibility boundaries; otherwise concepts such as [[PsychologyConceptSelfPunishment]] and [[OmnipotentSelfBlame]] can become new self-monitoring tools.
-- [[improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956|The Attia Huberman Lab episode]] adds a preventive-longevity health-literacy branch: [[HealthspanThreeDomains]] separates lifespan from physical, cognitive, and emotional function, while [[ApoBParticleBurden]], [[AtherosclerosisPreventionTargets]], [[CancerScreeningBurdenTradeoff]], [[NeurodegenerativeRiskLevers]], [[ExercisePillarsForLongevity]], and [[DeathsOfDespairCounterfeitPillRisk]] tie ApoB, blood pressure, screening false positives, dementia uncertainty, exercise capacity, falls, fentanyl, and overdose risk to [[MedicalRiskManagement]] and [[PreventiveHealthScreening]] rather than one-size protocols.
+- [[SustainableHealthOptimization]] adds a flexible-fundamentals branch: [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], and [[PerioperativeCircadianRecovery]] are useful only when fitted to real constraints and clinical context rather than protocol perfection.
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
 
 ## Synthesis by Domain
@@ -57,7 +57,7 @@ Usable authority depends on enforceable procedures, incentives, capacity, eviden
 
 ### History and Geopolitics
 
-Historical and geopolitical outcomes turn on routes, logistics, legitimacy, frontier control, institutions, and sequencing more than single causes.
+Historical and geopolitical outcomes turn on routes, logistics, legitimacy, frontier control, institutions, memory, and sequencing more than single causes.
 
 - [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone. Evidence: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], [[FixedCampSiegeEngineering]].
 - [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]] adds a Qin-Han branch where [[QinCollapseOverextension]] and [[ChuHanWarDemythologizing]] read empire failure and war outcomes through state capacity, court conflict, coalition structure, logistics, troop quality, cavalry, and source criticism rather than through heroic shorthand. Evidence: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]], [[QinCollapseOverextension]], [[ChuHanWarDemythologizing]], [[EurasianMilitaryTechnologyExchange]], [[ZhangShiping]], [[ZhuluQinHanBook]], [[HanCavalryFormation]].

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9391
+wiki_total_pages: 9399
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -389,6 +389,9 @@ wiki_pages:
   - key: "FormulaOneGroup"
     title: "Formula One Group"
     url: "/wiki/entities/formulaonegroup/"
+  - key: "FortMcHenry"
+    title: "Fort McHenry"
+    url: "/wiki/entities/fortmchenry/"
   - key: "ForwardConsumerPartners"
     title: "Forward Consumer Partners"
     url: "/wiki/entities/forwardconsumerpartners/"
@@ -434,6 +437,9 @@ wiki_pages:
   - key: "FrancisGalton"
     title: "Francis Galton / 弗朗西斯·高尔顿"
     url: "/wiki/entities/francisgalton/"
+  - key: "FrancisScottKey"
+    title: "Francis Scott Key"
+    url: "/wiki/entities/francisscottkey/"
   - key: "FrancisScottKeyBridge"
     title: "Francis Scott Key Bridge"
     url: "/wiki/entities/francisscottkeybridge/"

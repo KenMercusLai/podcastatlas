@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9391
+wiki_total_pages: 9399
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "MaryPatCampbell"
     title: "Mary Pat Campbell"
     url: "/wiki/entities/marypatcampbell/"
+  - key: "MaryPickersgill"
+    title: "Mary Pickersgill"
+    url: "/wiki/entities/marypickersgill/"
   - key: "MaryShelley"
     title: "Mary Shelley / 玛丽·雪莱"
     url: "/wiki/entities/maryshelley/"
