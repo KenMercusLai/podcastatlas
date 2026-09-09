@@ -1880,6 +1880,10 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox
+
+Added source note for the All-In episode with Thomas Laffont on Coatue's unicorn-economy update, AI private-market concentration, a possible 2026 AI IPO liquidity reset, SpaceX platform valuation, memory and semiconductor demand, and the 10X paradox. Added focused pages for Thomas Laffont, Coatue, Revolute, Unicorn Economy, AI Private-Market Concentration, and 10X Paradox.
+
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？
 
 Added source note for Hanji 642. Key claims: Wang Mang's rewarded fuming politics becomes dangerous after accession; Chen Chong warns that uncontrolled fuming lets opportunists chase rank and confuse mandate language; Wang Mang restricts unauthorized fuming reports; Zhen Xun's marriage claim toward Wang Mang's daughter triggers the Zhen Feng/Zhen Xun purge; the closing fangshi and Xiongnu material keeps the episode tied to Xin omen politics and frontier overreach.
@@ -16537,6 +16541,10 @@ Added source note for Hanji 640. Key claims: Wang Mang's seal and title downgrad
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？
 
 Added source note for the 10 CE Wang Mang backfill on Liu royal-kin submission, Ban Gu's Zhou-Qin-Han enfeoffment comparison, same-surname kingdom weakening, and early 五均/钱府 price-credit intervention. Updated focused concept pages for same-surname king enfeoffment, Wang Mang reforms, and 五均六管.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

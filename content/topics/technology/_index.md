@@ -5,8 +5,11 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2834
+topic_total_pages: 2839
 topic_concepts:
+  - key: "TenXParadox"
+    title: "10X Paradox"
+    url: "/wiki/concepts/tenxparadox/"
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
     url: "/wiki/concepts/seventymillimeterfilmprojection/"
@@ -676,6 +679,9 @@ topic_concepts:
   - key: "AIPortfolioLeverageLiquidation"
     title: "AI Portfolio Leverage Liquidation"
     url: "/wiki/concepts/aiportfolioleverageliquidation/"
+  - key: "AIPrivateMarketConcentration"
+    title: "AI Private-Market Concentration"
+    url: "/wiki/concepts/aiprivatemarketconcentration/"
   - key: "AIProductDevelopmentAcceleration"
     title: "AI Product Development Acceleration"
     url: "/wiki/concepts/aiproductdevelopmentacceleration/"
@@ -4541,6 +4547,9 @@ topic_entities:
   - key: "Coalfire"
     title: "Coalfire"
     url: "/wiki/entities/coalfire/"
+  - key: "Coatue"
+    title: "Coatue"
+    url: "/wiki/entities/coatue/"
   - key: "Cognition"
     title: "Cognition"
     url: "/wiki/entities/cognition/"
@@ -6509,6 +6518,9 @@ topic_entities:
   - key: "ThePrincipleOfResponsibility"
     title: "The Principle of Responsibility / 《责任原理》"
     url: "/wiki/entities/theprincipleofresponsibility/"
+  - key: "ThomasLaffont"
+    title: "Thomas Laffont"
+    url: "/wiki/entities/thomaslaffont/"
   - key: "ThreatLocker"
     title: "ThreatLocker"
     url: "/wiki/entities/threatlocker/"
@@ -8178,6 +8190,9 @@ topic_sources:
   - key: "tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128"
     title: "The year in AI wearables"
     url: "/wiki/sources/tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-thomas-laffont-the-4t-ai-ipo-wave-2026s-unicorn-economy-and-the-10x-paradox-41538295"
+    title: "Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-thomas-laffont-the-4t-ai-ipo-wave-2026s-unicorn-economy-and-the-10x-paradox-41538295/"
   - key: "tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128"
     title: "Too much AI in the office is causing \"brain fry\""
     url: "/wiki/sources/tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128/"

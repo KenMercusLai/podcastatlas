@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6826
+wiki_total_pages: 6829
 wiki_pages:
+  - key: "TenXParadox"
+    title: "10X Paradox"
+    url: "/wiki/concepts/tenxparadox/"
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
     url: "/wiki/concepts/threedprintedhousing/"

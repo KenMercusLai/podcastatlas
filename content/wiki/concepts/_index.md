@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6826
+wiki_total_pages: 6829
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "AIPortfolioLeverageLiquidation"
     title: "AI Portfolio Leverage Liquidation"
     url: "/wiki/concepts/aiportfolioleverageliquidation/"
+  - key: "AIPrivateMarketConcentration"
+    title: "AI Private-Market Concentration"
+    url: "/wiki/concepts/aiprivatemarketconcentration/"
   - key: "AIProductDevelopmentAcceleration"
     title: "AI Product Development Acceleration"
     url: "/wiki/concepts/aiproductdevelopmentacceleration/"

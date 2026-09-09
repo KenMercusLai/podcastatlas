@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9434
+wiki_total_pages: 9437
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -929,6 +929,9 @@ wiki_pages:
   - key: "CoastAirService"
     title: "Coast Air Service"
     url: "/wiki/entities/coastairservice/"
+  - key: "Coatue"
+    title: "Coatue"
+    url: "/wiki/entities/coatue/"
   - key: "CocaCola"
     title: "Coca-Cola"
     url: "/wiki/entities/cocacola/"

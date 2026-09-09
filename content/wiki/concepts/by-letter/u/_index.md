@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 6826
+wiki_total_pages: 6829
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "UnfawningBoundaryPractice"
     title: "Unfawning Boundary Practice"
     url: "/wiki/concepts/unfawningboundarypractice/"
+  - key: "UnicornEconomy"
+    title: "Unicorn Economy"
+    url: "/wiki/concepts/unicorneconomy/"
   - key: "UnifiedAdPlatform"
     title: "Unified Ad Platform"
     url: "/wiki/concepts/unifiedadplatform/"

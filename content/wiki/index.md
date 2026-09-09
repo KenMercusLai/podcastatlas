@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox](sources/all-in-with-chamath-jason-sacks-friedberg-thomas-laffont-the-4t-ai-ipo-wave-2026s-unicorn-economy-and-the-10x-paradox-41538295.md) — All-In episode with Thomas Laffont on Coatue's unicorn-economy update, AI private-market concentration, possible 2026 AI IPO liquidity, SpaceX platform valuation, memory demand, and the 10X paradox.
 - [《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？](sources/zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc.md) — 10 CE Wang Mang backfill on weakened Liu royal kin, Ban Gu's Zhou-Qin-Han enfeoffment comparison, same-surname kingdom decline, Liu royal submission, and early 五均/钱府 price-credit intervention risk.
 - [《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？](sources/zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht.md) — 10 CE Wang Mang backfill on Xiongnu seal and title downgrades, rewarded old-seal destruction, Wuhuan-captive pressure, Cheshi flight, Western Regions mutiny, Sun Jian's anti-Han purge proposal, and Ding'an Taihou's refusal.
 - [《资治通鉴·汉纪》641丨币制改革，如何导致王莽万劫不复？](sources/zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn.md) — 10 CE Wang Mang backfill on anti-Xiongnu war finance, six-name twenty-eight-rank currency complexity, popular distrust of new money, coercive enforcement, and fuming/omen imitation.
@@ -2071,6 +2072,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Thomas Laffont](entities/ThomasLaffont.md) — Coatue investor voice presenting the All-In unicorn-economy, AI IPO, SpaceX, and 10X paradox framework.
+- [Coatue](entities/Coatue.md) — Investment firm context behind Thomas Laffont's All-In analysis of AI private-market concentration and IPO liquidity.
+- [Revolute](entities/Revolute.md) — Fintech company named as part of the source's concentrated private-market leader basket.
 - [车师后王国 / Later Cheshi Kingdom (Xin)](entities/CheshiHouKingdomXin.md) — Xin-era Western Regions polity destabilized by Wang Mang's anti-Xiongnu mobilization, Xuzhili's failed flight, and Hulan Zhi's Xiongnu-backed attack branch.
 - [陈良 / Chen Liang (Xin defector)](entities/ChenLiangXinDefector.md) — Xin Western Regions defector who joins Zhong Dai in killing Diao Hu and fleeing to Xiongnu during the 10 CE frontier crisis.
 - [孙建 / Sun Jian (Xin general)](entities/SunJianXinGeneral.md) — Xin general whose memorial turns frontier defection and a false Liu claimant into a proposal to abolish Han temples and suspend Liu-surname officials.
@@ -11509,6 +11513,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [10X Paradox](concepts/TenXParadox.md) — Investment claim that the largest technology winners may have better odds of another 10x than smaller unicorns.
+- [Unicorn Economy](concepts/UnicornEconomy.md) — Venture-backed private-company economy of billion-dollar startups, funding cohorts, exits, and liquidity systems.
+- [AI Private-Market Concentration](concepts/AIPrivateMarketConcentration.md) — Pattern where AI-era late-stage capital and value concentrate in a small number of private market leaders.
 - [象征性名分降格反噬 / Symbolic Status Downgrade Backfire](concepts/SymbolicStatusDowngradeBackfire.md) — Failure pattern where seal, title, or name downgrades meant to impose hierarchy provoke resistance from a counterpart that still has frontier leverage.
 - [新朝汉臣拒仕谱系 / Xin Loyalist Refusal Spectrum](concepts/XinLoyalistRefusalSpectrum.md) — Hanji 644 pattern grouping fatal refusal, allusive reclusion, illness withdrawal, gift refusal, and serving-scholar qualification under Wang Mang's Xin.
 - [Frontier Strategy Cost Typology](concepts/FrontierStrategyCostTypology.md) — Yan You's Zhou-Han-Qin framework for judging frontier policy by objective, cost, duration, and state capacity.
