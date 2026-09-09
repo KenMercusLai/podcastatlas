@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生](sources/zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk.md) — 18 CE Wang Mang backfill and Yang Xiong profile on Fei Xing's dismissed livelihood diagnosis, unpaid-official corruption, Wang-family scandal, Fangyan, fu writing, and delayed cultural recognition.
 - [《资治通鉴·汉纪》656丨职场不会说话的人，很难混出头!](sources/zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl.md) — 19-20 CE Wang Mang backfill on Fan Sheng's indirect warning, Tian Kuang's tax-reward branch, Han Bo's giant-prodigy satire, late-Xin fiscal extraction, fear, and rebellion.
 - [《资治通鉴·汉纪》653丨把社会主义带回古代？王莽有多神！](sources/zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk.md) — 17 CE Wang Mang backfill on 五均六管, price equalization, state monopolies, official lending, merchant-official capture, slave tax, legal overreach, disaster, and survival rebellion.
 - [677. USA: The Star-Spangled Banner (Part 1)](sources/677-usa-the-star-spangled-banner-part-1-glt7890467734.md) — The Rest Is History episode on The Star-Spangled Banner, Fort McHenry, Francis Scott Key, the War of 1812, slavery controversy, official adoption, and anthem protest.
@@ -2052,6 +2053,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [《方言》 / Fangyan](entities/Fangyan.md) — Yang Xiong's dialectological work in Hanji 654, presented as a twenty-seven-year project and China's first dialect-research text.
+- [费兴 / Fei Xing (Xin official)](entities/FeiXingXinOfficial.md) — Xin official removed after diagnosing Jing-Yang banditry through mountain-and-marsh taxation, drought, and livelihood collapse.
+- [王宗 / Wang Zong (Xin prince)](entities/WangZongXinPrince.md) — Wang Mang grandson whose private imperial imagery and seals become a lethal late-Xin household scandal.
+- [王芳 / Wang Fang (Xin princess)](entities/WangFangXinPrincess.md) — Wang-family woman in Hanji 654 accused of curses and maid killing before suicide with Wang Xing.
+- [司马相如 / Sima Xiangru](entities/SimaXiangru.md) — Western Han fu writer used in Hanji 654 as Yang Xiong's admired literary model and comparison point.
+- [Emperor Cheng of Han / 汉成帝](entities/HanChengdi.md) — Western Han emperor who summons Yang Xiong in Hanji 654's career background.
 - [范生 / Fan Sheng (Xin official)](entities/FanShengXinOfficial.md) — Late-Xin official whose indirect petition diagnoses domestic grievance while failing to reach policy effect.
 - [韩伯 / Han Bo (Xin official)](entities/HanBoXinOfficial.md) — Late-Xin official whose giant-prodigy satire against Wang Mang is decoded and punished lethally.
 - [稻草人旅行 / Daocaoren Travel](entities/DaocaorenTravel.md) — Small-group travel operator discussed through route development, leader matching, National Day capacity, and holiday backup systems.
@@ -11457,6 +11464,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Delayed Canonical Recognition / 延迟经典化](concepts/DelayedCanonicalRecognition.md) — Reception pattern in which low visible status hides durable work until later readers recognize its cultural value.
 - [财政压榨叛乱螺旋 / Fiscal Extraction Rebellion Spiral](concepts/FiscalExtractionRebellionSpiral.md) — Governance pattern where crisis taxation converts fiscal need into flight, death, banditry, and deeper insecurity.
 - [五均六管 / Five Equalizations and Six Controls](concepts/WujunLiuguan.md) — Wang Mang's 17 CE price, credit, and monopoly program whose livelihood rhetoric fails through merchant-official capture and harsh implementation.
 - [Holiday Peak Travel Planning](concepts/HolidayPeakTravelPlanning.md) — Planning method for concentrated public-holiday travel using element substitution, route timing, nearby airports, flexible hotels, and realistic fare thresholds.

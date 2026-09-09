@@ -16248,6 +16248,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | 《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生
+
+Ingested the 2026-06-07 芮淇讲透资治通鉴 episode on Wang Mang's Tianfeng 5 / 18 CE crisis and Yang Xiong's life. Added source `zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk`; created `Fangyan`, `FeiXingXinOfficial`, `WangZongXinPrince`, `WangFangXinPrincess`, `SimaXiangru`, `HanChengdi`, and `DelayedCanonicalRecognition`; migrated and updated `YangXiong`. No settled contradiction found; Fei Xing's full career, Wang-family case details, Yang Xiong's complete office chronology, and Fangyan's philological detail remain source-scoped.
+
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》653丨把社会主义带回古代？王莽有多神！
 
 Ingested the 2026-06-07 芮淇讲透资治通鉴 episode on Wang Mang's 17 CE 五均六管 policy layer. Added source `zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk`; created `WujunLiuguan`; migrated and updated `WangMangReforms`; updated `index` and downstream synthesis artifacts. No settled contradiction found; the title's modern socialism analogy, Liu Xin, Feng Chang, Gua Tianyi, Lü Mu, Wang Kuang/Wang Feng, Zhang Ba, Yang Mu, exact office design, tax incidence, and force totals remain source-scoped.
@@ -16379,6 +16383,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | EP386-十一出行不想当大冤种？咱们来听听资深领队的小巧思！
 
 Ingested the 2026-09-08 无时差研究所 episode with Daocaoren leader 老宝 on National Day / Golden Week travel pricing, route substitution, airfare thresholds, cancellable hotels, reverse routing, travel-agency route operations, leader training, backup systems, and Egypt guided-travel boundaries. Added source `ep386-shiyi-chuxing-bu-xiang-dang-dayuanzhong-zanmen-lai-tingting-zishen-lingdui-de-xiaoqiaosi-gkwrirwodgrhaeuitgtugmxp`; created `DaocaorenTravel`, `LaobaoTravelLeader`, `HolidayPeakTravelPlanning`, and `TravelAgencyItineraryOperations`; updated `WushichaYanjiusuo`, `ComplexDestinationTravelRisk`, and `index`. No settled contradiction found; destination prices, fare movements, visa convenience, geopolitical effects, safety, and route availability remain source-scoped and time-sensitive.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

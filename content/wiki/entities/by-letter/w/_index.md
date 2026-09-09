@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9401
+wiki_total_pages: 9407
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "WangHongLateHan"
     title: "王宏 / Wang Hong (late Han)"
     url: "/wiki/entities/wanghonglatehan/"
+  - key: "WangZongXinPrince"
+    title: "王宗 / Wang Zong (Xin prince)"
+    url: "/wiki/entities/wangzongxinprince/"
   - key: "WangShenqi"
     title: "王审琦 / Wang Shenqi"
     url: "/wiki/entities/wangshenqi/"
@@ -1214,6 +1217,9 @@ wiki_pages:
   - key: "WangFenLateHan"
     title: "王芬 / Wang Fen (late Han)"
     url: "/wiki/entities/wangfenlatehan/"
+  - key: "WangFangXinPrincess"
+    title: "王芳 / Wang Fang (Xin princess)"
+    url: "/wiki/entities/wangfangxinprincess/"
   - key: "WangMengLateHan"
     title: "王萌 / Wang Meng (late Han)"
     url: "/wiki/entities/wangmenglatehan/"

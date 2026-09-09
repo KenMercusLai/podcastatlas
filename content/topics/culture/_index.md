@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2604
+topic_total_pages: 2607
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -811,6 +811,9 @@ topic_concepts:
   - key: "DegreeAsTrustCredential"
     title: "Degree As Trust Credential"
     url: "/wiki/concepts/degreeastrustcredential/"
+  - key: "DelayedCanonicalRecognition"
+    title: "Delayed Canonical Recognition / 延迟经典化"
+    url: "/wiki/concepts/delayedcanonicalrecognition/"
   - key: "DewormingAsHumanCapitalInvestment"
     title: "Deworming as Human Capital Investment"
     url: "/wiki/concepts/dewormingashumancapitalinvestment/"
@@ -5573,6 +5576,9 @@ topic_entities:
   - key: "Xinyu"
     title: "《新语》 / Xinyu"
     url: "/wiki/entities/xinyu/"
+  - key: "Fangyan"
+    title: "《方言》 / Fangyan"
+    url: "/wiki/entities/fangyan/"
   - key: "ModernJapaneseLiteratureOrigin"
     title: "《日本现代文学的起源》"
     url: "/wiki/entities/modernjapaneseliteratureorigin/"
@@ -7710,6 +7716,9 @@ topic_sources:
   - key: "zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx"
     title: "《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（2）"
     url: "/wiki/sources/zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx/"
+  - key: "zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk"
+    title: "《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生"
+    url: "/wiki/sources/zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk/"
   - key: "zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph"
     title: "《资治通鉴·汉纪》699 PLUS丨极品皇帝刘秀：武能打天下，文能治国家"
     url: "/wiki/sources/zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph/"

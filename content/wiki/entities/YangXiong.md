@@ -1,42 +1,77 @@
 ---
 title: "扬雄 / Yang Xiong"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [person, writer, chinese-classics, western-han, confucianism]
-sources: [zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy, zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi, zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi, zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]
-last_updated: 2026-08-23
+sources:
+  - zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy
+  - zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi
+  - zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi
+  - zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p
+  - zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9
+  - zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch
+  - zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw
+  - zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41
+  - zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk
+last_updated: 2026-09-09
 ---
-# 扬雄 / Yang Xiong
 
-扬雄 / Yang Xiong enters this wiki branch through [[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]], where the episode cites his [[Fayan|《法言》]] after discussing [[Mengzi|孟子 / Mencius]]'s [[MencianGreatManCriterion|大丈夫标准]]. The source renders his name as "杨雄," but the page keeps the conventional "扬雄" form.
+## Overview
 
-In the cited passage, Yang Xiong refuses to praise [[ZhangYiStrategist|张仪]] and [[SuQin|苏秦]] merely because their [[ZonghengjiaDiplomacy|纵横家外交]] was effective or because it allegedly brought a stretch of order. He treats their arts as deceptive and morally suspect, especially when framed against the Confucian ideal of learning and action.
+扬雄 / Yang Xiong is synthesized as a late [[WesternHanDynasty|Western Han]] writer-scholar whose wiki role now has two sides. Earlier source notes mostly cite him through [[Fayan|《法言》]] as a severe moral evaluator of persuaders, assassins, ministers, generals, and ritual technicians. [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] makes him the subject rather than only a later authority: a poor, stuttering, learned, low-key writer whose fu and [[Fangyan|《方言》]] made his cultural afterlife exceed his official rank.
 
-The episode uses him to distinguish similar-looking political activity by motive. [[Zigong|子贡 / 端木赐]] can travel among rulers for the sake of preventing disorder and saving [[LuState|鲁国]], while Zhang Yi and Su Qin are judged as pursuing wealth and status. Yang Xiong therefore becomes the source's authority for [[MotiveBasedTalentEvaluation|动机导向的才干评价]]: talent has to be tested by moral direction, not only by visible success.
+## Current Profile
 
-[[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw]] uses Yang Xiong again, this time through [[Fayan|《法言》]]'s criticism of the [[WarringStatesFourLords|战国四公子]]. The episode frames his negative judgment through late Western Han political anxiety: when ruler authority is hollowed out by powerful ministers, in-laws, and usurpation pressure, great aristocratic patrons look less like saviors and more like private powers that weaken the state.
+Yang Xiong first entered the wiki through [[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41|Zhouji 56]], where the episode cites Fayan after discussing [[Mengzi|孟子 / Mencius]]'s [[MencianGreatManCriterion|大丈夫标准]]. Yang Xiong refuses to praise [[ZhangYiStrategist|张仪]] and [[SuQin|苏秦]] merely because their [[ZonghengjiaDiplomacy|纵横家外交]] was effective or allegedly produced temporary order. Similar diplomatic movement receives different judgment when [[Zigong|子贡 / 端木赐]] acts to prevent disorder and save [[LuState|鲁国]], while Zhang Yi and Su Qin pursue wealth and status.
 
-[[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch]] adds another Yang Xiong citation through [[LuBuwei|吕不韦]]. The episode says [[SimaGuang|司马光]] uses Fayan to judge Lu Buwei as someone whose cleverness destroys him: the former merchant's political investment wins office, fief, and historical influence, but the same mode of calculation leaves him exposed once [[QinShiHuang|嬴政 / 秦始皇]] reads his reputation as a rival power.
+Later Qin and Han notes broaden that evaluative function. [[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw|Qinji 109-2]] uses him to read the [[WarringStatesFourLords|战国四公子]] as overmighty private powers when ruler authority is hollowed out. [[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch|Qinji 111-2]] uses Fayan to judge [[LuBuwei|吕不韦]]'s political investment as cleverness that wins influence and then destroys security. [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] cites his speech-and-righteousness standard in the [[HanFei|韩非]] case, while qualifying that Han Fei's home-state duty makes the application harder.
 
-[[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds Yang Xiong to the reception of [[HanFei|韩非]]. The episode cites [[Fayan|《法言》]] for the warning that what matters in speech is whether it accords with righteousness, not whether it suits the audience. The host accepts the moral pressure of the point but argues that Han Fei's case is harder because, as a [[HanState|韩国]] royal, he had a duty to try to preserve Han rather than speak as a detached career persuader.
+The same moral-testing role applies to violent or loyal service. [[zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p|Qinji 119-1]] cites Yang Xiong's assassin typology for [[YaoLi|要离]], [[NieZheng|聂政]], and [[JingKe|荆轲]], denying that striking death automatically counts as义. [[zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi|Qinji 127-4]] cites his severe judgment on [[MengTian|蒙恬]], where loyal death does not erase responsibility for labor-consuming Qin projects. [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] uses him to reject [[XiangYu|项羽]]'s fatalistic explanation, and [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] applies Fayan to [[ShusunTong|叔孙通]] by asking whether ritual talent served Confucian order or rulerly awe.
 
-[[zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p]] adds Yang Xiong's assassin typology. The episode cites him distinguishing [[YaoLi|要离]], [[NieZheng|聂政]], and [[JingKe|荆轲]] by kinds of death while denying that these deaths count as义. [[SimaGuang|司马光]] is presented as accepting that judgment, making Yang Xiong a recurring authority for the wiki's rule that talent, courage, or striking conduct must be tested by moral direction.
+Hanji 654 adds the biographical and reception layer behind that judging voice. The episode says Yang Xiong stuttered but was intelligent, broadly read, frank in conduct, and poor without self-deception. He admired [[SimaXiangru|司马相如]], imitated fu writing, was summoned by [[HanChengdi|汉成帝]], wrote 《蜀都赋》, served as a palace gentleman, and remained underpromoted through several reigns before [[WangMang|王莽]] respected his age and made him a dafu. His [[Fangyan|《方言》]] is presented as China's first dialectological work and as a twenty-seven-year scholarly project. [[HuanTanEasternHan|桓谭]] then becomes the source's reception witness: Yang Xiong was slighted because rank, salary, and appearance looked unimpressive, but his works would later be valued for depth and Confucian compatibility.
 
-[[zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi]] adds Yang Xiong's judgment on [[MengTian|蒙恬]] through [[Fayan|《法言》]]. The episode presents his position as severe: Meng Tian's loyal death is not enough to cancel the deaths and labor suffering attached to [[QinZhidao|秦直道]], long-wall construction, and other Qin projects. This makes Yang Xiong an authority for [[LoyalServiceMoralLiability|忠臣事暴政的罪责]] as well as for motive-based talent judgment.
+## Key Characteristics
 
-[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] adds Yang Xiong's anti-fatalistic judgment on [[XiangYu|项羽]]. The episode cites [[Fayan|《法言》]] to reject Xiang Yu's claim that Gaixia and Wujiang were simply Heaven's will: [[LiuBang|刘邦]] could gather and use people's strengths, while Xiang Yu disliked hearing counsel and weakened his own side. This extends Yang Xiong's recurring role as a judge who tests visible talent by political-moral consequence rather than brilliance alone.
+- Late Western Han writer-scholar whose conventional page title keeps 扬雄 while source transcripts sometimes write 杨雄.
+- Authorial authority for [[MotiveBasedTalentEvaluation|motive-based talent evaluation]], testing talent by public moral direction rather than success alone.
+- Severe judge of persuasive, military, assassination, loyal-service, and ritual expertise when ability is detached from righteousness or public consequence.
+- Poor, stuttering, learned, and underpromoted figure whose cultural work outlasts low visible status.
+- Fu writer positioned beside [[SimaXiangru|司马相如]] through admiration, imitation, and later pairing.
+- Scholar of language whose [[Fangyan|《方言》]] gives him a durable place in Chinese linguistic and cultural history.
+- Core example of [[DelayedCanonicalRecognition|delayed canonical recognition]] because contemporaries undervalued him while later readers preserved his works.
 
-[[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] applies that judgment style to [[ShusunTong|叔孙通]]. The episode cites [[Fayan|《法言》]] to criticize Shusun Tong for going to Lu to bring ritual experts but then adapting to court custom and rulerly favor instead of making Liu Bang submit to a fuller Confucian standard. Yang Xiong therefore extends [[MotiveBasedTalentEvaluation|动机导向的才干评价]] from persuaders, assassins, and ministers to ritual technicians.
+## Evidence
 
-## Connections
-- [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]], [[ShusunTong|叔孙通]], [[LiuBang|刘邦]], [[Fayan|《法言》]], and [[MotiveBasedTalentEvaluation|动机导向的才干评价]] - critique of ritual expertise that serves rulerly awe rather than a higher public standard.
-- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[XiangYu|项羽]], [[LiuBang|刘邦]], and [[MandateOfHeavenLegitimacy|天命合法性]] - anti-fatalistic reading of Xiang Yu's defeat.
-- [[Fayan|《法言》]] - text cited by the episode.
-- [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], and [[Guiguzi|鬼谷子]] - figures whose strategic arts the passage criticizes.
-- [[Zigong|子贡 / 端木赐]] and [[LuState|鲁国]] - contrast case used to separate rescue motive from wealth-seeking motive.
-- [[MotiveBasedTalentEvaluation|动机导向的才干评价]], [[TalentVirtueDistinction|才德之分]], and [[RighteousnessOverProfit|义利之辨]] - concepts connected to the episode's moral reading.
-- [[ConfucianIdealGovernance|儒家理想治理]] - broader moral-political frame.
-- [[WarringStatesFourLords|战国四公子]], [[JiaYi|贾谊]], [[SimaGuang|司马光]], and [[HistoriographicalPresentism|史评当代性]] - Qinji 109-2 contrast between praise of talent patrons and suspicion of overmighty private power.
-- [[LuBuwei|吕不韦]], [[QinShiHuang|嬴政 / 秦始皇]], and [[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch|Qinji 111-2]] - Fayan judgement on clever political investment ending in destruction.
-- [[HanFei|韩非]], [[HanState|韩国]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - Fayan warning applied to Han Fei's persuasion and home-state duty.
-- [[YaoLi|要离]], [[NieZheng|聂政]], [[JingKe|荆轲]], [[SimaGuang|司马光]], and [[zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p|Qinji 119-1]] - assassin-death typology and denial of automatic义 status.
-- [[MengTian|蒙恬]], [[QinZhidao|秦直道]], [[LoyalServiceMoralLiability|忠臣事暴政的罪责]], and [[zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi|Qinji 127-4]] - loyal-service judgment that weighs public harm against臣节.
+- Zonghengjia moral test: [[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41|Zhouji 56]] cites Fayan against Zhang Yi and Su Qin while contrasting Zi Gong's public rescue motive.
+- Overmighty-patron judgment: [[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw|Qinji 109-2]] uses Yang Xiong's criticism of the Warring States Four Lords to connect talent patronage with ruler-control anxiety.
+- Political-investment judgment: [[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch|Qinji 111-2]] cites Fayan to make Lu Buwei a case where cleverness and high payoff become the route to ruin.
+- Speech-and-righteousness standard: [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] cites Yang Xiong for the claim that speech must accord with righteousness, while preserving the Han Fei source tension.
+- Assassin and loyal-service limits: [[zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p|Qinji 119-1]] denies automatic义 status to famous assassins, and [[zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi|Qinji 127-4]] says Meng Tian's loyalty does not cancel Qin-project harms.
+- Anti-fatalistic political judgment: [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] cites Yang Xiong to reject Xiang Yu's Heaven-based excuse by emphasizing people-use and counsel.
+- Ritual-technician critique: [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] cites Fayan to question Shusun Tong's adaptation to rulerly awe and court usability.
+- Biography and scholarship: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says Yang Xiong was stuttering, learned, frank, poor without self-deception, linked to Sima Xiangru's fu tradition, and author of Fangyan.
+- Delayed reception: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says Huan Tan predicted Yang Xiong's works would be transmitted because people often miss important things near at hand.
+
+## Qualifications
+
+The page preserves source boundaries. The older notes mostly cite Yang Xiong through Fayan and do not reconstruct his full life. Hanji 654 supplies biographical synthesis but remains introductory: the exact content of 《蜀都赋》, Fangyan's internal structure, Yang Xiong's full office chronology, his relationship to Wang Mang and Dong Xian, and Huan Tan's complete argument remain outside the current evidence. The page also keeps 扬雄 as the canonical route while acknowledging that several source notes write 杨雄.
+
+## What Changed
+
+- Migrated the page to synthesis-v1 while preserving the existing source order and adding Hanji 654.
+- Shifted Yang Xiong from only a quoted moral authority into a fuller writer-scholar profile.
+- Added Fangyan, Sima Xiangru, Emperor Cheng, Huan Tan, and delayed canonical recognition as the main new biographical and reception layer.
+- Preserved the older Fayan-based moral evaluation role across persuaders, assassins, ministers, generals, and ritual technicians.
+
+## Relationships
+
+- [[Fayan|《法言》]] - text through which most earlier source notes cite Yang Xiong's moral judgments.
+- [[Fangyan|《方言》]] - language work that Hanji 654 uses to show Yang Xiong's scholarly durability.
+- [[HuanTanEasternHan|桓谭]] - reception witness who predicts Yang Xiong's posthumous recognition.
+- [[SimaXiangru|司马相如]] - fu model and comparison figure for Yang Xiong's literary identity.
+- [[MotiveBasedTalentEvaluation|动机导向的才干评价]] - recurring evaluation pattern grounded in Yang Xiong's judgments.
+- [[DelayedCanonicalRecognition|延迟经典化]] - concept grounded by Yang Xiong's low contemporary status and later cultural value.
+- [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], and [[Zigong|子贡 / 端木赐]] - contrast set for talent judged by motive and public consequence.
+- [[JingKe|荆轲]], [[YaoLi|要离]], and [[NieZheng|聂政]] - assassin cases where Yang Xiong denies automatic义 status.
+- [[MengTian|蒙恬]], [[XiangYu|项羽]], and [[ShusunTong|叔孙通]] - military, political, and ritual cases extended by later Hanji and Qinji notes.
+- [[WesternHanDynasty|西汉]], [[HanChengdi|汉成帝]], [[HanAidi|汉哀帝]], [[DongXian|董贤]], and [[WangMang|王莽]] - court setting for Yang Xiong's underpromoted official life.

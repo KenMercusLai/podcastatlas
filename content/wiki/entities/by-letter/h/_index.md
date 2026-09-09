@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9401
+wiki_total_pages: 9407
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "HanAidi"
     title: "Emperor Ai of Han / 汉哀帝"
     url: "/wiki/entities/hanaidi/"
+  - key: "HanChengdi"
+    title: "Emperor Cheng of Han / 汉成帝"
+    url: "/wiki/entities/hanchengdi/"
   - key: "HanPingdi"
     title: "Emperor Ping of Han / 汉平帝"
     url: "/wiki/entities/hanpingdi/"

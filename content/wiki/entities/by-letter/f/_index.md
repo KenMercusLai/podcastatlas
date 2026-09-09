@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9401
+wiki_total_pages: 9407
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "FangxuehouDeXiaoxiang"
     title: "《放学后的小巷》"
     url: "/wiki/entities/fangxuehoudexiaoxiang/"
+  - key: "Fangyan"
+    title: "《方言》 / Fangyan"
+    url: "/wiki/entities/fangyan/"
   - key: "FashionVictimsBook"
     title: "《时尚受害者》 / Fashion Victims"
     url: "/wiki/entities/fashionvictimsbook/"
@@ -941,6 +944,9 @@ wiki_pages:
   - key: "FeiQizhulou"
     title: "费 / Fei (Qizhulou)"
     url: "/wiki/entities/feiqizhulou/"
+  - key: "FeiXingXinOfficial"
+    title: "费兴 / Fei Xing (Xin official)"
+    url: "/wiki/entities/feixingxinofficial/"
   - key: "Fengze"
     title: "逢泽 / Fengze"
     url: "/wiki/entities/fengze/"

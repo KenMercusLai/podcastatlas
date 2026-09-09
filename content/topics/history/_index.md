@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1613
+topic_total_pages: 1614
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -232,6 +232,9 @@ topic_concepts:
   - key: "DecreasingStovesDeception"
     title: "Decreasing Stoves Deception / 减灶诱敌"
     url: "/wiki/concepts/decreasingstovesdeception/"
+  - key: "DelayedCanonicalRecognition"
+    title: "Delayed Canonical Recognition / 延迟经典化"
+    url: "/wiki/concepts/delayedcanonicalrecognition/"
   - key: "DelayedRescueStatecraft"
     title: "Delayed Rescue Statecraft / 晚救权谋"
     url: "/wiki/concepts/delayedrescuestatecraft/"
