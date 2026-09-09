@@ -29480,6 +29480,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/frontierresourceintegration/"
     },
+    "FrontierStrategyCostTypology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？ [lr-5_QXjm4fqLIRVwHDwElo1elG5].md",
+          "key": "zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/frontierstrategycosttypology/"
+    },
     "FrontierTrustThroughProtection": {
       "episode_count": 4,
       "show_count": 1,
@@ -71685,6 +71701,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/stellantis/"
     },
+    "SteppeExpeditionLogistics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？ [lr-5_QXjm4fqLIRVwHDwElo1elG5].md",
+          "key": "zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/steppeexpeditionlogistics/"
+    },
     "SteppePastoralResourcePressure": {
       "episode_count": 1,
       "show_count": 1,
@@ -84960,9 +84992,9 @@
       "url": "/wiki/entities/yanxiangcheshilatehan/"
     },
     "YanYouXinGeneral": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》664丨昆阳之战：决定国运的历史转折点 [lihRWAwP4x1w1pn4Aibdohq4_L_4].md",
@@ -84984,6 +85016,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？ [lr-5_QXjm4fqLIRVwHDwElo1elG5].md",
+          "key": "zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5/"
         }
       ],
       "updated": "2026-09-09",

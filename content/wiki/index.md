@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？](sources/zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5.md) — 11 CE Wang Mang backfill on coercive Xiongnu titulature, Yan You's Zhou-Han-Qin frontier strategy ranking, Han Wudi war-cost critique, Qin wall overburden, and steppe-expedition logistics.
 - [《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？](sources/zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy.md) — 12 CE Wang Mang backfill on Chen Xian's principled withdrawal, Han institutional-memory concealment, Yellow River non-repair, Xiongnu hostage rupture, empty noble-title inflation, and coercive frontier escalation.
 - [《资治通鉴·汉纪》647丨十三朝古都洛阳，为何至关重要？](sources/zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv.md) — 芮淇讲透资治通鉴 episode on Wang Mang's 14 CE Luoyang relocation plan, Luoyang's armory and "天下之中" centrality, Xin ritual-site preparation, administrative renaming churn, omen politics, and fragile Xiongnu heqin after hostage execution.
 - [史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界](sources/shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhLhohpUHBpofcWXtzOuxDIvRber.md) — 史蒂夫说 episode with Liang Yi on Steve's gradual new fatherhood, parenting as relationship formation, love as attention reorganization, nonviolent communication, slow child development, and growth witnessing.
@@ -11490,6 +11491,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Frontier Strategy Cost Typology](concepts/FrontierStrategyCostTypology.md) — Yan You's Zhou-Han-Qin framework for judging frontier policy by objective, cost, duration, and state capacity.
+- [Steppe Expedition Logistics](concepts/SteppeExpeditionLogistics.md) — campaign-capacity frame for food, fodder, climate, disease, transport animals, tempo, and terrain in large anti-Xiongnu expeditions.
 - [制度记忆隐匿保存 / Institutional Memory Concealment](concepts/InstitutionalMemoryConcealment.md) — Preservation tactic where texts, procedures, and ritual timing survive privately when public service would legitimize a ruptured order.
 - [名义爵位通胀 / Nominal Title Inflation](concepts/NominalTitleInflation.md) — Rank-system failure where titles and fiefs proliferate faster than land, revenue, duty, or administrative support.
 - [私利优先的灾害搁置 / Private-Interest Disaster Neglect](concepts/PrivateInterestDisasterNeglect.md) — Disaster-governance failure where public repair is delayed because displaced harm protects the ruler's private interest.
