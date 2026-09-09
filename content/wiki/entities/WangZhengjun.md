@@ -8,16 +8,19 @@ sources:
   - zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5
   - zizhi-tongjian-hanji-633-nuza-chuanguo-yuxi-ta-jing-ruci-ganglie-lnmnwbk28ayllz5fip1a1kzm1ais
   - zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc
-last_updated: 2026-09-09
+  - zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz
+last_updated: 2026-09-10
 ---
 
 ## Overview
 
-Wang Zhengjun / 王政君 is synthesized as the [[WesternHanDynasty|Western Han]] empress dowager whose longevity, seniority, and Wang-family position helped make [[WangMang|王莽]]'s return and eventual usurpation possible, while her later resistance marked the emotional and ritual break between Han and [[XinDynasty|Xin]]. [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] presents her as the consort-kin route by which Wang-family power stayed near imperial legitimacy after [[HanAidi|Emperor Ai]] and [[DongXian|董贤]]. [[zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc|Hanji 628]] adds the acting-emperor pressure point: Wang Zhengjun recognizes the white-stone fuming as deception, but under Wang Shun and ministerial pressure approves Wang Mang's "摄皇帝" package. [[zizhi-tongjian-hanji-633-nuza-chuanguo-yuxi-ta-jing-ruci-ganglie-lnmnwbk28ayllz5fip1a1kzm1ais|Hanji 633]] adds the accession-scene resistance: Wang Zhengjun denounces the Wang clan, refuses to treat the [[HeirloomImperialSeal|传国玉玺]] as Xin property, and throws it before Wang Shun after realizing Wang Mang's demand is backed by force. [[zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5|Hanji 646]] adds the late-life and posthumous layer: Wang Mang recasts her as "New House Wen Mother," destroys Emperor Yuan's temple, builds Changshou Palace, and tries to pull her memory into Xin ritual order.
+Wang Zhengjun / 王政君 is synthesized as the [[WesternHanDynasty|Western Han]] empress dowager whose longevity, seniority, and Wang-family position helped make [[WangMang|王莽]]'s return and eventual usurpation possible, while her later resistance marked the emotional and ritual break between Han and [[XinDynasty|Xin]]. [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] presents her as the consort-kin route by which Wang-family power stayed near imperial legitimacy after [[HanAidi|Emperor Ai]] and [[DongXian|董贤]]. [[zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz|Hanji 626]] adds an earlier 5 CE pressure point: Wang Zhengjun initially refuses Wang Mang's request to open and demote the tombs of [[FuTaihouWesternHan|傅太后]] and [[DingJiWesternHan|丁姬]], then yields first to a compromise and later to fuller rank-reduction measures. [[zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc|Hanji 628]] adds the acting-emperor pressure point: Wang Zhengjun recognizes the white-stone fuming as deception, but under Wang Shun and ministerial pressure approves Wang Mang's "摄皇帝" package. [[zizhi-tongjian-hanji-633-nuza-chuanguo-yuxi-ta-jing-ruci-ganglie-lnmnwbk28ayllz5fip1a1kzm1ais|Hanji 633]] adds the accession-scene resistance: Wang Zhengjun denounces the Wang clan, refuses to treat the [[HeirloomImperialSeal|传国玉玺]] as Xin property, and throws it before Wang Shun after realizing Wang Mang's demand is backed by force. [[zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5|Hanji 646]] adds the late-life and posthumous layer: Wang Mang recasts her as "New House Wen Mother," destroys Emperor Yuan's temple, builds Changshou Palace, and tries to pull her memory into Xin ritual order.
 
 ## Current Profile
 
 Wang Zhengjun's current profile is double-edged. Her authority was a stabilizing court center across late Western Han reigns and gave the Wang family a privileged path into succession politics. After Emperor Ai died, the earlier source says Dong Xian's failure during the succession crisis allowed Wang Zhengjun to enter Weiyang Palace, control the seal-and-command situation, and make space for Wang Mang's return.
+
+Hanji 626 shows that before the formal acting-emperor and seal-transfer crises, Wang Zhengjun could still register moral resistance to Wang Mang's harsher proposals. She treats grave opening as an old matter that should not be reopened, but her refusal narrows under continued pressure: first she permits a limited opening and relocation with the original coffin preserved, then Wang Mang secures approval for lower-grade coffins, stripped burial garments, and demoted burial arrangements. This adds a coerced-approval pattern around the dead before the later coerced-approval pattern around Wang Mang's own authority.
 
 Hanji 628 and Hanji 633 make that same authority visibly constrained by coercion. In Hanji 628, Wang Zhengjun calls the white-stone proposal a deception against the world but is talked into accepting Wang Mang's acting-emperor status because resistance lacks force. In Hanji 633, she can curse the usurpation, claim the seal should be buried with "Han's old widow," and argue that Wang Mang should carve a new object if Heaven has truly chosen him. But once Wang Shun repeats that Wang Mang must have the seal, her moral refusal yields to political force; the damaged corner turns the handover into protest rather than consent.
 
@@ -29,7 +32,7 @@ Her resistance is therefore coded through ritual practice as well as through the
 
 - Western Han empress dowager whose long-held status made Wang-family power appear close to legitimate dynastic continuity.
 - Succession actor whose intervention after Emperor Ai's death helped Wang Mang return to the center of power.
-- Coerced approver whose one-word acceptance of Wang Mang's acting-emperor status marks political pressure rather than full consent.
+- Reluctant and coerced approver whose resistance to Wang Mang's grave-opening request and acting-emperor package yields under repeated pressure.
 - Legitimating resource whom Wang Mang could not openly punish after usurpation because age, kinship seniority, and filial norms still constrained him.
 - Coerced ritual resistor whose forced surrender of the Heirloom Imperial Seal marks refusal without power to stop the transfer.
 - Ritual resistor who preserves Han dress color and ritual dates after Xin attempts to redefine court order.
@@ -40,6 +43,8 @@ Her resistance is therefore coded through ritual practice as well as through the
 - Consort-kin legitimacy route: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] says Wang Zhengjun gave the Wang family durable access to imperial legitimacy.
 - Succession intervention: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] says Dong Xian's failure after Emperor Ai's death opened space for Wang Zhengjun and Wang Mang.
 - Resistance to enthronement: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] preserves the story of Wang Zhengjun resisting Wang Mang's formal enthronement, including the imperial-seal episode.
+- Grave-opening resistance: [[zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz|Hanji 626]] says Wang Zhengjun initially refuses Wang Mang's proposal to open Fu Taihou and Ding Ji's tombs because the matter is old and grave opening is improper.
+- Compromise under pressure: [[zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz|Hanji 626]] says she first approves a limited compromise and later accepts stronger burial-demotion measures after Wang Mang presses again.
 - Acting-emperor pressure: [[zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc|Hanji 628]] says Wang Zhengjun calls the white-stone fuming deceptive but finally approves Wang Mang's "摄皇帝" authority.
 - Coerced seal transfer: [[zizhi-tongjian-hanji-633-nuza-chuanguo-yuxi-ta-jing-ruci-ganglie-lnmnwbk28ayllz5fip1a1kzm1ais|Hanji 633]] says Wang Zhengjun condemns Wang-family ingratitude, argues Wang Mang can make a new seal, then throws the inherited seal before Wang Shun and damages a corner.
 - Title recoding: [[zizhi-tongjian-hanji-633-nuza-chuanguo-yuxi-ta-jing-ruci-ganglie-lnmnwbk28ayllz5fip1a1kzm1ais|Hanji 633]] says Wang Mang later accepts an omen-backed title formula that names Wang Zhengjun "New House Wen Mother Grand Empress Dowager."
@@ -49,18 +54,20 @@ Her resistance is therefore coded through ritual practice as well as through the
 
 ## Qualifications
 
-The wiki does not treat Wang Zhengjun as only victim, only culprit, or only family patron. The earlier source emphasizes her enabling role in Wang Mang's return and the legitimacy access she gave the Wang family. Hanji 628, Hanji 633, and Hanji 646 add the host's sharper interpretation that her Han loyalty and personal resistance coexist with responsibility for Wang-family ascent; the wiki keeps broad culpability and counterfactual longevity claims as source-backed judgments rather than settled proof. Wang Shun, Wang Jian, Zhang Yong, Emperor Yuan, Changshou Palace, exact sacrificial arrangements, and Wang Zhengjun's inner feelings beyond the reported outbursts and practices remain source-scoped.
+The wiki does not treat Wang Zhengjun as only victim, only culprit, or only family patron. The earlier source emphasizes her enabling role in Wang Mang's return and the legitimacy access she gave the Wang family. Hanji 626, Hanji 628, Hanji 633, and Hanji 646 add the host's sharper interpretation that her Han loyalty and personal resistance coexist with responsibility for Wang-family ascent; the wiki keeps broad culpability and counterfactual longevity claims as source-backed judgments rather than settled proof. Fu Taihou, Ding Ji, Wang Shun, Wang Jian, Zhang Yong, Emperor Yuan, Changshou Palace, exact sacrificial arrangements, and Wang Zhengjun's inner feelings beyond the reported refusals, outbursts, and practices remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 628 as the 5 CE acting-emperor pressure point before formal accession.
+- Added Hanji 626 as the 5 CE tomb-opening pressure point before the acting-emperor package.
+- Preserved Hanji 628 as the following 5 CE acting-emperor pressure point before formal accession.
 - Preserved Hanji 633 as the 8 CE seal-transfer and title-recoding layer before the later Changshou Palace sequence.
-- Reframed Wang Zhengjun's resistance as coerced symbolic refusal: morally explicit but unable to block Wang Mang's control of the seal.
+- Reframed Wang Zhengjun's resistance as recurring coerced symbolic refusal: morally explicit but unable to block Wang Mang's control of tombs, titles, and the seal.
 - Preserved the prior judgment that her legacy combines enabling Wang-family ascent with witnessing Xin's break from Han memory.
 
 ## Relationships
 
 - [[WangMang|王莽]] - nephew and usurper whose legitimacy both depended on and violated her Han-linked status.
+- [[FuTaihouWesternHan|傅太后]] and [[DingJiWesternHan|丁姬]] - dead consort-side women whose tomb demotion Wang Zhengjun first resists and then approves under pressure.
 - [[HeirloomImperialSeal|传国玉玺]] - inherited imperial object she is forced to surrender while visibly refusing Xin legitimacy.
 - [[WesternHanDynasty|西汉]] - dynasty whose memory Wang Zhengjun continues to embody and ritually preserve.
 - [[XinDynasty|新朝]] - successor regime that tries to recode her status as Xin rather than Han.

@@ -20030,6 +20030,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/dinghongeasternhan/"
     },
+    "DingJiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？ [loTWK6rbTl5PvBrnLFrysU5Ol6rz].md",
+          "key": "zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/dingjiwesternhan/"
+    },
     "DingdongMaicai": {
       "episode_count": 2,
       "show_count": 1,
@@ -30559,6 +30575,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/furonglatehan/"
     },
+    "FuTaihouWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？ [loTWK6rbTl5PvBrnLFrysU5Ol6rz].md",
+          "key": "zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/futaihouwesternhan/"
+    },
     "FuYingLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -30764,9 +30796,9 @@
       "url": "/wiki/concepts/funerarydefianceunderpoliticalterror/"
     },
     "FuneraryPrivilegeAbuse": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》839丨你能做到问心无愧吗？ [lqVLsWUbf4aK5qfGZJF_OWignEua].md",
@@ -30774,9 +30806,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》839丨你能做到问心无愧吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？ [loTWK6rbTl5PvBrnLFrysU5Ol6rz].md",
+          "key": "zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/funeraryprivilegeabuse/"
     },
     "FurnitureAffordabilityPriceReset": {
@@ -51305,6 +51344,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/mafangeasternhan/"
     },
+    "MaGongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？ [loTWK6rbTl5PvBrnLFrysU5Ol6rz].md",
+          "key": "zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/magongwesternhan/"
+    },
     "MaHaoning": {
       "episode_count": 2,
       "show_count": 1,
@@ -71722,6 +71777,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/shibilatehan/"
     },
+    "ShiDanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？ [loTWK6rbTl5PvBrnLFrysU5Ol6rz].md",
+          "key": "zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/shidanwesternhan/"
+    },
     "ShiDiFuShuo": {
       "episode_count": 6,
       "show_count": 1,
@@ -79640,9 +79711,9 @@
       "url": "/wiki/entities/tomorton/"
     },
     "TombDesecrationPoliticalViolence": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
@@ -79664,9 +79735,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》687丨死后200年，吕雉竟遭奇耻大辱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？ [loTWK6rbTl5PvBrnLFrysU5Ol6rz].md",
+          "key": "zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/tombdesecrationpoliticalviolence/"
     },
     "TommyWood": {
@@ -83692,9 +83770,9 @@
       "url": "/wiki/entities/wangyuanweixiaoretainer/"
     },
     "WangZhengjun": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -83723,9 +83801,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝",
           "url": "/wiki/sources/zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？ [loTWK6rbTl5PvBrnLFrysU5Ol6rz].md",
+          "key": "zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/wangzhengjun/"
     },
     "WangZhongLateHan": {

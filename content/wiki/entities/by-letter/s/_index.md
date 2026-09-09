@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9501
+wiki_total_pages: 9505
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1979,6 +1979,9 @@ wiki_pages:
   - key: "StanislawLem"
     title: "斯坦尼斯拉夫·莱姆 / Stanislaw Lem"
     url: "/wiki/entities/stanislawlem/"
+  - key: "ShiDanWesternHan"
+    title: "施丹 / Shi Dan (Western Han)"
+    url: "/wiki/entities/shidanwesternhan/"
   - key: "ShiYanLateHan"
     title: "施延 / Shi Yan (late Han)"
     url: "/wiki/entities/shiyanlatehan/"

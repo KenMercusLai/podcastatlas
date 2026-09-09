@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？](sources/zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz.md) — 5 CE Wang Mang backfill on Fu Taihou and Ding Ji's posthumous prosecution, Wang Zhengjun's pressured approval, tomb opening and leveling, Shi Dan's restoration, and Ma Gong's limited office removal.
 - [《资治通鉴·汉纪》627-1丨【女性必听】独特视角：经期隐喻背后的历史智慧](sources/zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt.md) — 5 CE Wang Mang backfill on "子孙瑞" as menstrual-fertility euphemism, Ziwudao, Huangdi Neijing life cycles, Zhougong-like prayer performance, and the Pingdi death-source tension.
 - [《资治通鉴·汉纪》627-2丨【女性必听】经期禁忌的文化脉络与女性社会地位变迁](sources/zizhi-tongjian-hanji-627-2-nvxing-biting-jingqi-jinji-de-wenhua-mailuo-yu-nvxing-shehui-diwei-bianqian-lrxeziuwvcfgkkzgpugnzby4uref.md) — 芮淇讲透资治通鉴 PLUS episode on menstrual euphemism, blood-pollution taboo, local custom, religious and marriage restrictions, intergenerational shame, body knowledge, and self-care.
 - [《资治通鉴·汉纪》625丨揭秘人性暗面：为何旁人成功总令我们心生嫉恨？](sources/zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo.md) — 5 CE Wang Mang backfill on coerced praise, auspicious-reporting pressure, Ban Zhi's protected retreat, Gongsun Hong's execution, Zhen Feng's accusation channel, and survival under polluted court politics.
@@ -8320,6 +8321,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Western Han dynasty / 西汉](entities/WesternHanDynasty.md) — Dynastic setting whose founding branch now includes Qin pacification, early Han consolidation, Xiongnu frontier pressure, and later Mandate vulnerability.
 - [Xin dynasty / 新朝](entities/XinDynasty.md) — Wang Mang's short-lived regime, framed through omen-backed seizure, office paralysis, diplomatic blame transfer, reform stress, extraction, unsupported frontier intervention, information failure, and revolt.
 - [Wang Zhengjun / 王政君](entities/WangZhengjun.md) — Western Han empress dowager whose status helped Wang Mang return to power while her forced seal handover and late ritual resistance exposed Xin's break from Han memory.
+- [傅太后 / Fu Taihou (Western Han)](entities/FuTaihouWesternHan.md) — Dead consort-side figure whose tomb and posthumous honors Wang Mang reopens as a ritual-political prosecution case.
+- [丁姬 / Ding Ji (Western Han)](entities/DingJiWesternHan.md) — Han Aidi's mother and paired target with Fu Taihou in Wang Mang's 5 CE tomb-demotion campaign.
+- [施丹 / Shi Dan (Western Han)](entities/ShiDanWesternHan.md) — Western Han official retroactively restored after Wang Mang recodes earlier opposition to Fu Taihou as correct.
+- [马公 / Ma Gong (Western Han)](entities/MaGongWesternHan.md) — Western Han official protected by ties to Wang Mang but removed from top offices after the Fu Taihou title case is reopened.
 - [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor reappraised by episode 126 as more politically active than his later reputation suggests.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose failure during the succession crisis opened the way for Wang Zhengjun and Wang Mang.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated by Wang Mang, whose illness and death preceded Wang Mang's move into acting-emperor status.
@@ -12409,7 +12414,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unbounded Elite Reward Demand / 受宠权臣的无餍封赏](concepts/UnboundedEliteRewardDemand.md) — Reward-failure pattern where a favored powerholder treats extraordinary grants as insufficient because privilege has become an entitlement baseline.
 - [尽责问心无愧 / Conscience Through Duty](concepts/ConscienceThroughDuty.md) — Source-scoped ethic that judges life and office by honest self-knowledge, effort, and fulfilled responsibility under constraints.
 - [太学集体请命 / Taixue Collective Petition](concepts/TaixueCollectivePetition.md) — Late-Han feedback pattern where Taixue students collectively petition to defend a punished official and expose structural abuse.
-- [丧葬名分僭越 / Funerary Privilege Abuse](concepts/FuneraryPrivilegeAbuse.md) — Pattern where politically connected households use above-rank burial symbols to convert private power into public status.
+- [丧葬名分僭越 / Funerary Privilege Abuse](concepts/FuneraryPrivilegeAbuse.md) — Pattern where above-rank burial symbols, seals, tomb scale, or temple honors become politically charged status claims.
 - [担责开仓式救民 / Risk-Bearing Relief Governance](concepts/RiskBearingReliefGovernance.md) — Crisis-administration pattern where an official opens public reserves to save people while accepting legal or career risk.
 - [颍川四长 / Yingchuan Four Magistrates](concepts/YingchuanFourMagistrates.md) — Late-Han county-magistrate reputation label now linking Han Shao's relief, Chen Shi's responsibility, and Zhong-Xun famous-worthy comparison.
 - [Alternative Payment Stack Consolidation](concepts/AlternativePaymentStackConsolidation.md) - AI-era payments consolidation thesis combining consumer accounts, merchant rails, stablecoins, risk systems, and point-of-sale infrastructure to challenge card networks.
@@ -12875,7 +12880,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Coerced Imperial Replacement / 胁迫式废立](concepts/CoercedImperialReplacement.md) — Pattern where a military court-captor forces imperial replacement through preserved title, edict, seal, and ceremony forms.
 - [Party Prohibition Rehabilitation / 党人翻案合法性](concepts/PartyProhibitionRehabilitation.md) — Legitimacy move where a coercive ruler borrows moral credit by rehabilitating old Party Prohibition victims and appointing descendants.
 - [Prestige-Based Coalition Leadership / 名望型联盟领导](concepts/PrestigeBasedCoalitionLeadership.md) — Hanji 950 pattern where Yuan Shao's family prestige and public anti-Dong-Zhuo reputation convene a coalition without guaranteeing command capacity.
-- [Tomb-Desecration Political Violence / 陵墓亵渎式政治暴力](concepts/TombDesecrationPoliticalViolence.md) — Grave robbery and mausoleum/corpse violation as political violence against wealth, memory, ritual order, ancestry, and regime legitimacy.
+- [Tomb-Desecration Political Violence / 陵墓亵渎式政治暴力](concepts/TombDesecrationPoliticalViolence.md) — Grave opening, forced reburial, mausoleum destruction, and corpse violation as political violence against memory, ritual order, ancestry, and legitimacy.
 - [Psychological Surrender Trap / 心理迫降陷阱](concepts/PsychologicalSurrenderTrap.md) — Hanji 956 pattern where manufactured external pressure and comparative questioning make an actor surrender real assets while imagining reputation and safety.
 - [Defensive Speech Under Tyranny / 暴政下的防御性言说](concepts/DefensiveSpeechUnderTyranny.md) — Hanji 956 pattern where officials survive a tyrant's question by redirecting it into public legitimacy, timing, or the tyrant's own declared values.
 - [Post-Power Safety Collapse / 失势后的安全崩塌](concepts/PostPowerSafetyCollapse.md) — Hanji 957 pattern where losing office, team, value, and trusted interpretation turns ordinary ambiguity into fatal panic.

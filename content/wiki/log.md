@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？
+
+Ingested the 2026-06-01 芮淇讲透资治通鉴 episode backfilling 5 CE Wang Mang posthumous prosecution politics through Fu Taihou and Ding Ji's tomb opening, burial-rank demotion, Wang Zhengjun's pressured approval, mass tomb leveling, Shi Dan's restoration, and Ma Gong's limited office removal. Added source `zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz`; created `FuTaihouWesternHan`, `DingJiWesternHan`, `ShiDanWesternHan`, and `MaGongWesternHan`; updated `WangZhengjun`, `TombDesecrationPoliticalViolence`, `FuneraryPrivilegeAbuse`, and `index`. No settled contradiction found; exact tomb geography, participant count, transcript name forms, earlier Ai-era title debate, and Wang Mang's inner motive remain source-scoped.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》631丨古代杀人，真会把白骨堆成山？
 
 Ingested the 2026-06-02 芮淇讲透资治通鉴 episode backfilling 7-8 CE Wang Mang suppression politics through Zhai Yi's defeat, commander rewards, clan and grave retaliation, corpse-pile intimidation, light mourning posture, Wang Guang's death, and pre-accession fuming support. Added source `zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab`; updated `WangMang`, `ZhaiYiRebellion`, `PublicCorpseHumiliation`, `FumingMonopolyBackfire`, `PostUsurpationLegitimacyConsolidation`, and `index`. No settled contradiction found; Zhao Peng, Huo Hong, Wang Guang, Dou Kuang, corpse-pile term spelling, exact battle geography, and Wang Mang's inner motives remain source-scoped.
@@ -16730,6 +16734,10 @@ Added source note for a 电影巨辩 episode on AI cinema from Frankenstein thro
 ## [2026-09-10] ingest | 电影里的AI：情人、巨婴和独裁者
 
 Added source note for a 电影巨辩 episode on AI cinema from Frankenstein through 《人工智能》, 《她》, 《机械姬》, and 《黑客帝国》. Key claims: AI films repeatedly turn technical intelligence into creator responsibility, programmed love, simulated reality, Turing-test judgment, embodiment, and modern subjectivity problems.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

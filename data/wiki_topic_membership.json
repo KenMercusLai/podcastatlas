@@ -19876,6 +19876,13 @@
       "url": "/topics/history/"
     }
   ],
+  "DingJiWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "DingShumiao": [
     {
       "key": "economics",
@@ -26393,6 +26400,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "FuTaihouWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "FuYu": [
@@ -40530,6 +40544,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "MaGongWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "MaShaonainaiLihun": [
@@ -57632,6 +57653,13 @@
     }
   ],
   "ShiBei": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "ShiDanWesternHan": [
     {
       "key": "history",
       "label": "History",
