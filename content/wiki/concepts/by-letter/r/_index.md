@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6867
+wiki_total_pages: 6870
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -926,6 +926,9 @@ wiki_pages:
   - key: "RenDanHeYi"
     title: "人单合一 / RenDanHeYi"
     url: "/wiki/concepts/rendanheyi/"
+  - key: "RebellionJustifiedPowerExpansion"
+    title: "以叛乱反证加权 / Rebellion-Justified Power Expansion"
+    url: "/wiki/concepts/rebellionjustifiedpowerexpansion/"
   - key: "RitualSpectacleCrisisDisplacement"
     title: "仪式奇观式危机转移 / Ritual Spectacle Crisis Displacement"
     url: "/wiki/concepts/ritualspectaclecrisisdisplacement/"

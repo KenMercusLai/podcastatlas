@@ -16303,6 +16303,10 @@ Ingested the 2026-06-07 芮淇讲透资治通鉴 episode backfilling 20 CE late-
 
 Ingested the 2026-06-06 芮淇讲透资治通鉴 episode on Wang Mang's punitive dissection of Wang Sunqing, the Zhai Yi rebellion aftermath, Xin Western Regions mission failure, Yanqi's ambush of Wang Jun, Guo Qing's retaliatory killing and reward, symbolic封土授茅,威斗 intimidation, and the 五均六管 preview. Added source `zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9`; created `WangSunqingXinRebel`, `ZhaiYiRebellion`, `WangJunXinGeneral`, `LiChongXinProtector`, `GuoQingXinGeneral`, `YanqiKingdomXin`, and `PunitiveAnatomyPoliticalTerror`; updated `WesternRegionsProtectorate` and `index`. No settled contradiction found; possible live dissection, exact medical procedure, Western Regions name normalization, troop details, and Wang Mang's inner motives remain source-scoped.
 
+## [2026-09-09] ingest | 《资治通鉴·汉纪》629丨刘家人，谁扛起反抗王莽的大旗？
+
+Added source note for the 2026-06-02 芮淇讲透资治通鉴 episode on Wang Mang's 6 CE regency, Liu Ying's crown-prince installation, Liu Chong and Zhang Shao's failed Wan rising, Zhang Song and Liu Jia's rewarded petition, "假皇帝" authority expansion, 摄省/摄殿/摄宫 naming, and Western Qiang land-seizure backlash. Created Liu Chong, Zhang Shao, Zhang Song, Liu Jia Shuaili Hou, First Anti-Wang Mang Rising, Petition-Reward Loyalty Signal, and Rebellion-Justified Power Expansion pages; updated Ruzi Ying, Wang Shun, Zhen Feng, index, and overview. No settled contradiction found; Zhen Han, the Four Minor offices, Western Qiang names, exact Wan operational details, and Wang Mang's inner motive remain source-scoped.
+
 ## [2026-09-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -16668,6 +16672,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | Bill Ackman: Investment Strategy, What the Market is Missing, How AI Breaks Businesses
 
 Added source note for the 2026-06-03 All-In interview with Bill Ackman on quality value investing, Pershing Square activism, AI disruption risk, venture-style underwriting of SpaceX/OpenAI/Anthropic/Palantir, Howard Hughes as a Berkshire-inspired compounding vehicle, and social-media cost of capital. Created Bill Ackman, Pershing Square, Howard Hughes Holdings, Tim Hortons, General Growth Properties, Ben Graham, Quality Value Investing, AI Disruption Risk Investing, Permanent Capital Compounding, and Social Media Cost of Capital pages. No settled contradiction found; valuation, vehicle-discount, and enterprise AI adoption claims remain source-scoped investment opinions.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

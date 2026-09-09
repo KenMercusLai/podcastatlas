@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9476
+wiki_total_pages: 9480
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -791,6 +791,9 @@ wiki_pages:
   - key: "ZhangPanLateHan"
     title: "张磐 / Zhang Pan (late Han)"
     url: "/wiki/entities/zhangpanlatehan/"
+  - key: "ZhangSongXinPetitioner"
+    title: "张竦 / Zhang Song, Xin petitioner"
+    url: "/wiki/entities/zhangsongxinpetitioner/"
   - key: "ZhangZhupo"
     title: "张竹坡 / Zhang Zhupo"
     url: "/wiki/entities/zhangzhupo/"
@@ -803,6 +806,9 @@ wiki_pages:
   - key: "ZhangGangLateHan"
     title: "张纲 / Zhang Gang (late Han)"
     url: "/wiki/entities/zhangganglatehan/"
+  - key: "ZhangShaoFengguoChancellor"
+    title: "张绍 / Zhang Shao, Fengguo chancellor"
+    url: "/wiki/entities/zhangshaofengguochancellor/"
   - key: "ZhangXiu"
     title: "张绣 / Zhang Xiu"
     url: "/wiki/entities/zhangxiu/"

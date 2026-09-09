@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6867
+wiki_total_pages: 6870
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1793,6 +1793,9 @@ wiki_pages:
   - key: "ProvincialShepherdAutonomy"
     title: "州牧集权与地方割据 / Provincial Shepherd Autonomy"
     url: "/wiki/concepts/provincialshepherdautonomy/"
+  - key: "PetitionRewardLoyaltySignal"
+    title: "巧奏取封式忠诚信号 / Petition-Reward Loyalty Signal"
+    url: "/wiki/concepts/petitionrewardloyaltysignal/"
   - key: "ProcurementSignalPriceCornering"
     title: "征发信号价格垄断 / Procurement Signal Price Cornering"
     url: "/wiki/concepts/procurementsignalpricecornering/"

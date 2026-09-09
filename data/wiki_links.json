@@ -20887,6 +20887,10 @@
     "title": "First-Aid Triage and Escalation / 急救判断与升级",
     "url": "/wiki/concepts/firstaidtriageandescalation/"
   },
+  "FirstAntiWangMangRising": {
+    "title": "刘氏反莽第一枪 / First Anti-Wang Mang Rising",
+    "url": "/wiki/concepts/firstantiwangmangrising/"
+  },
   "FirstBrands": {
     "title": "First Brands",
     "url": "/wiki/entities/firstbrands/"
@@ -34427,6 +34431,10 @@
     "title": "刘诚",
     "url": "/wiki/entities/liucheng/"
   },
+  "LiuChongAnzhongMarquis": {
+    "title": "安众侯刘崇 / Liu Chong, Anzhong Marquis",
+    "url": "/wiki/entities/liuchonganzhongmarquis/"
+  },
   "LiuChongChenKing": {
     "title": "刘宠 / Liu Chong (Chen king)",
     "url": "/wiki/entities/liuchongchenking/"
@@ -34514,6 +34522,10 @@
   "LiuJiaHanzhongKingEasternHan": {
     "title": "汉中王刘嘉 / Liu Jia, Hanzhong King (Eastern Han)",
     "url": "/wiki/entities/liujiahanzhongkingeasternhan/"
+  },
+  "LiuJiaShuailiHou": {
+    "title": "刘嘉 / Liu Jia, Shuaili Hou",
+    "url": "/wiki/entities/liujiashuailihou/"
   },
   "LiuJiao": {
     "title": "刘交 / Liu Jiao",
@@ -43863,6 +43875,10 @@
     "title": "Peter Wason / 彼得·沃森",
     "url": "/wiki/entities/peterwason/"
   },
+  "PetitionRewardLoyaltySignal": {
+    "title": "巧奏取封式忠诚信号 / Petition-Reward Loyalty Signal",
+    "url": "/wiki/concepts/petitionrewardloyaltysignal/"
+  },
   "PetrCech": {
     "title": "Petr Cech",
     "url": "/wiki/entities/petrcech/"
@@ -47578,6 +47594,10 @@
   "RebelMandateManufacture": {
     "title": "Rebel Mandate Manufacture / 起义天命制造",
     "url": "/wiki/concepts/rebelmandatemanufacture/"
+  },
+  "RebellionJustifiedPowerExpansion": {
+    "title": "以叛乱反证加权 / Rebellion-Justified Power Expansion",
+    "url": "/wiki/concepts/rebellionjustifiedpowerexpansion/"
   },
   "ReceivablesRisk": {
     "title": "Receivables Risk",
@@ -65195,6 +65215,10 @@
     "title": "张锐",
     "url": "/wiki/entities/zhangrui/"
   },
+  "ZhangShaoFengguoChancellor": {
+    "title": "张绍 / Zhang Shao, Fengguo chancellor",
+    "url": "/wiki/entities/zhangshaofengguochancellor/"
+  },
   "ZhangShaofeng": {
     "title": "Zhang Shaofeng",
     "url": "/wiki/entities/zhangshaofeng/"
@@ -65222,6 +65246,10 @@
   "ZhangShuoLateHan": {
     "title": "张硕 / Zhang Shuo (late Han)",
     "url": "/wiki/entities/zhangshuolatehan/"
+  },
+  "ZhangSongXinPetitioner": {
+    "title": "张竦 / Zhang Song, Xin petitioner",
+    "url": "/wiki/entities/zhangsongxinpetitioner/"
   },
   "ZhangWenLateHan": {
     "title": "张温 / Zhang Wen (late Han)",
@@ -71310,6 +71338,10 @@
   "zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc": {
     "title": "《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝",
     "url": "/wiki/sources/zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc/"
+  },
+  "zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55": {
+    "title": "《资治通鉴·汉纪》629丨刘家人，谁扛起反抗王莽的大旗？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55/"
   },
   "zizhi-tongjian-hanji-633-nuza-chuanguo-yuxi-ta-jing-ruci-ganglie-lnmnwbk28ayllz5fip1a1kzm1ais": {
     "title": "《资治通鉴·汉纪》633丨怒砸传国玉玺！她竟如此刚烈！",

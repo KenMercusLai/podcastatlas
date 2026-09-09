@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6867
+wiki_total_pages: 6870
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1169,6 +1169,9 @@ wiki_pages:
   - key: "FenxiangMailu"
     title: "分香卖履 / Fenxiang Mailu"
     url: "/wiki/concepts/fenxiangmailu/"
+  - key: "FirstAntiWangMangRising"
+    title: "刘氏反莽第一枪 / First Anti-Wang Mang Rising"
+    url: "/wiki/concepts/firstantiwangmangrising/"
   - key: "FateReadingPoliticalRisk"
     title: "命相判断的政治风险 / Fate-Reading Political Risk"
     url: "/wiki/concepts/fatereadingpoliticalrisk/"

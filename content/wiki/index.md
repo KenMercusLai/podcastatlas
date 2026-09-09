@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝](sources/zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc.md) — 5 CE Wang Mang backfill on Han Pingdi's death, adult Liu-line successor exclusion, young Emperor Xuan descendants as controllable heirs, the white-stone fuming, Wang Zhengjun's pressured approval, and Wang Mang's "摄皇帝" ritual package.
+- [《资治通鉴·汉纪》629丨刘家人，谁扛起反抗王莽的大旗？](sources/zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55.md) — 6 CE Wang Mang regency backfill on Liu Ying's crown-prince installation, archaizing assistant offices, Liu Chong and Zhang Shao's failed Wan rising, Zhang Song and Liu Jia's rewarded petition, "假皇帝" title expansion, 摄宫 naming, and Western Qiang land-seizure backlash.
 - [Bill Ackman: Investment Strategy, What the Market is Missing, How AI Breaks Businesses](sources/all-in-with-chamath-jason-sacks-friedberg-bill-ackman-investment-strategy-what-the-market-is-missing-how-ai-breaks-businesses-41519240.md) — All-In interview with Bill Ackman on quality value investing, AI disruption risk, Pershing Square activism, venture-style underwriting, Howard Hughes, and social-media cost of capital.
 - [№194: 赛博冲浪太快，我想回 MacRabbit 的兔子洞里坐一会](sources/anyway-194-anyway-194.md) — Anyway.FM episode connecting MacRabbit-era independent Mac app craft, Espresso, Slicy, and CSS Edit with Codex/Cursor-era designer AI coding and prototype-to-product difficulty.
 - [「人人喊打」的八哥，與台灣的「外來物種」難題](sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42.md) — 端闻 episode with 許正甫 and 馮孟傑 on a Taiwan nightjar livestream, introduced mynas, native/alien species boundaries, driver-versus-passenger invasion causality, and evidence-based humane management.
@@ -2087,6 +2088,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [安众侯刘崇 / Liu Chong, Anzhong Marquis](entities/LiuChongAnzhongMarquis.md) — Liu royal relative whose failed 6 CE Wan attack is treated as the first symbolic anti-Wang Mang rising.
+- [张绍 / Zhang Shao, Fengguo chancellor](entities/ZhangShaoFengguoChancellor.md) — Fengguo chancellor who joins Liu Chong's failed anti-Wang Mang attack on Wan, distinct from modern Zhang Shaofeng.
+- [张竦 / Zhang Song, Xin petitioner](entities/ZhangSongXinPetitioner.md) — Petition writer who helps convert post-rebellion implication risk into rewarded loyalty under Wang Mang.
+- [刘嘉 / Liu Jia, Shuaili Hou](entities/LiuJiaShuailiHou.md) — Late-Western-Han Liu relative rewarded after denouncing Liu Chong through Zhang Song's petition, distinct from other Liu Jia pages.
 - [Bill Ackman](entities/BillAckman.md) — Pershing Square founder and investor framing quality value investing, AI disruption risk, founder control, Howard Hughes, and market communication in the All-In interview.
 - [Pershing Square](entities/PershingSquare.md) — Ackman's investment firm discussed as an activist and permanent-capital platform with AI-aware public holdings.
 - [Howard Hughes Holdings](entities/HowardHughesHoldings.md) — Real-estate-rooted public company Ackman presents as Pershing's Berkshire-inspired long-duration compounding vehicle.
@@ -11567,6 +11572,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [刘氏反莽第一枪 / First Anti-Wang Mang Rising](concepts/FirstAntiWangMangRising.md) — Pattern where Liu Chong's militarily weak failed action matters as the first public dynastic resistance signal against Wang Mang.
+- [巧奏取封式忠诚信号 / Petition-Reward Loyalty Signal](concepts/PetitionRewardLoyaltySignal.md) — Court reward pattern where denunciatory or flattering memorials convert political danger into favor.
+- [以叛乱反证加权 / Rebellion-Justified Power Expansion](concepts/RebellionJustifiedPowerExpansion.md) — Mechanism where Liu Chong's failed rebellion is used to argue Wang Mang needs more formal authority.
 - [Quality Value Investing](concepts/QualityValueInvesting.md) — Ackman-style update to value investing that emphasizes durable business quality, moat protection, management judgment, and AI-era disruption risk.
 - [AI Disruption Risk Investing](concepts/AIDisruptionRiskInvesting.md) — Investment lens that evaluates every company by how AI can improve, threaten, or reprice its business model.
 - [Permanent Capital Compounding](concepts/PermanentCapitalCompounding.md) — Long-duration investment-company strategy using patient capital, float, controlled vehicles, and reinvestment discipline.
