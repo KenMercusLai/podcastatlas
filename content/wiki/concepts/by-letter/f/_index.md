@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6802
+wiki_total_pages: 6803
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1199,6 +1199,9 @@ wiki_pages:
   - key: "FuChen"
     title: "负臣 / Corrective Disobedient Minister"
     url: "/wiki/concepts/fuchen/"
+  - key: "FiscalExtractionRebellionSpiral"
+    title: "财政压榨叛乱螺旋 / Fiscal Extraction Rebellion Spiral"
+    url: "/wiki/concepts/fiscalextractionrebellionspiral/"
   - key: "FrontierOfficialAbuseRebellionSpiral"
     title: "边吏侵害引发反叛螺旋 / Frontier Official Abuse Rebellion Spiral"
     url: "/wiki/concepts/frontierofficialabuserebellionspiral/"

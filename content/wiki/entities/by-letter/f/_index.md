@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9399
+wiki_total_pages: 9401
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "FanPangMotherLateHan"
     title: "范滂母 / Fan Pang's mother"
     url: "/wiki/entities/fanpangmotherlatehan/"
+  - key: "FanShengXinOfficial"
+    title: "范生 / Fan Sheng (Xin official)"
+    url: "/wiki/entities/fanshengxinofficial/"
   - key: "FanQiangEasternHan"
     title: "范羌 / Fan Qiang (Eastern Han)"
     url: "/wiki/entities/fanqiangeasternhan/"

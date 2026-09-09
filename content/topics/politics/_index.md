@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2274
+topic_total_pages: 2275
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3739,6 +3739,9 @@ topic_concepts:
   - key: "RumorDrivenFrontierIntervention"
     title: "谣言驱动的边疆干预 / Rumor-Driven Frontier Intervention"
     url: "/wiki/concepts/rumordrivenfrontierintervention/"
+  - key: "FiscalExtractionRebellionSpiral"
+    title: "财政压榨叛乱螺旋 / Fiscal Extraction Rebellion Spiral"
+    url: "/wiki/concepts/fiscalextractionrebellionspiral/"
   - key: "LowStatusRegistry"
     title: "贱籍身份 / Low-Status Registry"
     url: "/wiki/concepts/lowstatusregistry/"

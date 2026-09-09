@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9399
+wiki_total_pages: 9401
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1181,6 +1181,9 @@ wiki_pages:
   - key: "HanZhongLiaodongLateHan"
     title: "韩中 / Han Zhong (Liaodong envoy)"
     url: "/wiki/entities/hanzhongliaodonglatehan/"
+  - key: "HanBoXinOfficial"
+    title: "韩伯 / Han Bo (Xin official)"
+    url: "/wiki/entities/hanboxinofficial/"
   - key: "HanXin"
     title: "韩信 / Han Xin"
     url: "/wiki/entities/hanxin/"

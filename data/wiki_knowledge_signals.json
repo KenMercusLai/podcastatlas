@@ -25863,6 +25863,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/fanqinlatehan/"
     },
+    "FanShengXinOfficial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》656丨职场不会说话的人，很难混出头! [lpn15smZ7r1glEkugzwTM2tPW-tL].md",
+          "key": "zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》656丨职场不会说话的人，很难混出头!",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/fanshengxinofficial/"
+    },
     "FanShiguang": {
       "episode_count": 1,
       "show_count": 1,
@@ -27326,6 +27342,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/firstsouthwestbank/"
+    },
+    "FiscalExtractionRebellionSpiral": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》656丨职场不会说话的人，很难混出头! [lpn15smZ7r1glEkugzwTM2tPW-tL].md",
+          "key": "zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》656丨职场不会说话的人，很难混出头!",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/fiscalextractionrebellionspiral/"
     },
     "FishOilNaturalStatinBoundary": {
       "episode_count": 1,
@@ -33304,6 +33336,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/hamiltonianeconomicnationalism/"
+    },
+    "HanBoXinOfficial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》656丨职场不会说话的人，很难混出头! [lpn15smZ7r1glEkugzwTM2tPW-tL].md",
+          "key": "zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》656丨职场不会说话的人，很难混出头!",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/hanboxinofficial/"
     },
     "HanCavalryFormation": {
       "episode_count": 3,
@@ -55391,9 +55439,9 @@
       "url": "/wiki/concepts/obamacaresubsidycliff/"
     },
     "ObliqueRemonstranceSelfProtection": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》890丨想当官先学对付“小人” [ltNVH6QU-MR8flSDLXF_E6rKNpIS].md",
@@ -55401,9 +55449,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》890丨想当官先学对付“小人”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》656丨职场不会说话的人，很难混出头! [lpn15smZ7r1glEkugzwTM2tPW-tL].md",
+          "key": "zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》656丨职场不会说话的人，很难混出头!",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-09",
       "url": "/wiki/concepts/obliqueremonstranceselfprotection/"
     },
     "ObsessiveCompulsiveDisorder": {
@@ -75650,9 +75705,9 @@
       "url": "/wiki/entities/tiankailatehan/"
     },
     "TianKuangXinOfficial": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》659丨有些核心人才不要轻易动 [lg1NzAL53iHDW-KRIcI2THEK--iJ].md",
@@ -75660,6 +75715,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》659丨有些核心人才不要轻易动",
           "url": "/wiki/sources/zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》656丨职场不会说话的人，很难混出头! [lpn15smZ7r1glEkugzwTM2tPW-tL].md",
+          "key": "zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》656丨职场不会说话的人，很难混出头!",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl/"
         }
       ],
       "updated": "2026-09-09",

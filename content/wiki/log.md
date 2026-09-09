@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-09] ingest | 《资治通鉴·汉纪》656丨职场不会说话的人，很难混出头!
+
+Ingested the 2026-06-07 芮淇讲透资治通鉴 episode backfilling 19-20 CE late-Xin crisis through Fan Sheng's indirect root-cause warning, Tian Kuang's tax-reward branch, Han Bo's giant-prodigy satire, Wang Mang's fiscal extraction, fear-based street order, title proliferation, and Qing-Xu flight/banditry. Added source `zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl`; created `FanShengXinOfficial`, `HanBoXinOfficial`, and `FiscalExtractionRebellionSpiral`; updated `TianKuangXinOfficial`, `ObliqueRemonstranceSelfProtection`, and `index`. No settled contradiction found; Tian Kuang's earlier extraction role qualifies but does not contradict his later field-stabilizer profile.
+
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》659丨有些核心人才不要轻易动
 
 Ingested the 2026-06-08 芮淇讲透资治通鉴 episode on Wang Mang's late-Xin crisis management, forbidden hunger-based rebellion diagnosis, Gongsun Lu's ignored internal-cause warning, and Tian Kuang's removal after effective local stabilization. Added source `zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij`; created `TianKuangXinOfficial`, `GongsunLuXinOfficial`, `ChiZhaopingXinRebel`, `SuppressedRootCauseReporting`, and `KeyOperatorRemovalRisk`; updated `index` and late-Xin canonical pages. No settled contradiction found; Yang Cheng, Lu Kuang, many named officials, exact troop counts, and transcript-sensitive identities remain source-scoped.
@@ -16375,6 +16379,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | EP386-十一出行不想当大冤种？咱们来听听资深领队的小巧思！
 
 Ingested the 2026-09-08 无时差研究所 episode with Daocaoren leader 老宝 on National Day / Golden Week travel pricing, route substitution, airfare thresholds, cancellable hotels, reverse routing, travel-agency route operations, leader training, backup systems, and Egypt guided-travel boundaries. Added source `ep386-shiyi-chuxing-bu-xiang-dang-dayuanzhong-zanmen-lai-tingting-zishen-lingdui-de-xiaoqiaosi-gkwrirwodgrhaeuitgtugmxp`; created `DaocaorenTravel`, `LaobaoTravelLeader`, `HolidayPeakTravelPlanning`, and `TravelAgencyItineraryOperations`; updated `WushichaYanjiusuo`, `ComplexDestinationTravelRisk`, and `index`. No settled contradiction found; destination prices, fare movements, visa convenience, geopolitical effects, safety, and route availability remain source-scoped and time-sensitive.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 
