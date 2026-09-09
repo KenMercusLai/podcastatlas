@@ -55864,9 +55864,9 @@
       "url": "/wiki/concepts/officialmourningdutyconflict/"
     },
     "OfficialSalaryExtractionRisk": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切 [lq5qBkI6CrhIEAFbV7G5kc07uNQe].md",
@@ -55881,9 +55881,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》782丨揭秘东汉奇女子艰难的太后生涯",
           "url": "/wiki/sources/zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？ [lr77fW1GoJGQrhAh1ij6u25VtxaZ].md",
+          "key": "zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-09",
       "url": "/wiki/concepts/officialsalaryextractionrisk/"
     },
     "OfflinePlatformSafetyBoundary": {
@@ -67398,6 +67405,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/secondaryoralityinaiera/"
+    },
+    "SecrecyDrivenAdministrativeBottleneck": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？ [lr77fW1GoJGQrhAh1ij6u25VtxaZ].md",
+          "key": "zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/secrecydrivenadministrativebottleneck/"
     },
     "SecularBuddhismAppeal": {
       "episode_count": 1,
@@ -79727,9 +79750,9 @@
       "url": "/wiki/entities/wanglingxinprince/"
     },
     "WangMang": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 2,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -79814,15 +79837,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》657丨王莽废太子，有多儿戏？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？ [lr77fW1GoJGQrhAh1ij6u25VtxaZ].md",
+          "key": "zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz/"
         }
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/wangmang/"
     },
     "WangMangReforms": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -79837,6 +79867,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》653丨把社会主义带回古代？王莽有多神！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？ [lr77fW1GoJGQrhAh1ij6u25VtxaZ].md",
+          "key": "zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz/"
         }
       ],
       "updated": "2026-09-09",
@@ -83102,9 +83139,9 @@
       "url": "/wiki/entities/xincheneasternhan/"
     },
     "XinDynasty": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -83154,6 +83191,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》657丨王莽废太子，有多儿戏？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？ [lr77fW1GoJGQrhAh1ij6u25VtxaZ].md",
+          "key": "zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz/"
         }
       ],
       "updated": "2026-09-09",

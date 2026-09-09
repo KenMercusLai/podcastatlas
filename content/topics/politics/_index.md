@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2278
+topic_total_pages: 2279
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3559,6 +3559,9 @@ topic_concepts:
   - key: "SecretMemorialPoliticalIntelligence"
     title: "密折政治情报 / Secret Memorial Political Intelligence"
     url: "/wiki/concepts/secretmemorialpoliticalintelligence/"
+  - key: "SecrecyDrivenAdministrativeBottleneck"
+    title: "密控式行政瓶颈 / Secrecy-Driven Administrative Bottleneck"
+    url: "/wiki/concepts/secrecydrivenadministrativebottleneck/"
   - key: "TitleSuccessionPublicDuty"
     title: "封爵继承公共责任 / Title Succession Public Duty"
     url: "/wiki/concepts/titlesuccessionpublicduty/"

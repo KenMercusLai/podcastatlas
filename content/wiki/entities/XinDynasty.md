@@ -11,6 +11,7 @@ sources:
   - zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij
   - zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko
   - zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l
+  - zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz
 last_updated: 2026-09-09
 ---
 
@@ -21,6 +22,8 @@ Xin dynasty / 新朝 is synthesized as [[WangMang|王莽]]'s short-lived regime,
 ## Current Profile
 
 The regime's current profile begins with legitimacy transfer. The Wang Mang source argues that Western Han's own sacred language made dynastic replacement imaginable: if Heaven had chosen the Liu house, political actors could also claim that Heaven had withdrawn that favor. Wang Mang's moral reputation, Wang-family access, omen production, and Confucian archaising gave Xin a language of rightful replacement rather than only naked usurpation.
+
+Hanji 650 adds an early administrative profile before the later 17-22 CE stress sequence. Xin's central court protects sensitive finance and memorial channels through eunuchs and intimate attendants, but the arrangement keeps normal officials uninformed, leaves petitioners waiting, delays prison resolution, and lets guard rotation fail. Its fiscal policy is already under disaster and frontier-grain pressure, and Wang Mang's fifteen-rank variable salary system becomes another overcomplex rule set when officials still cannot reliably receive pay.
 
 Its governing profile is one of overcontrolled reform. Wang fields, anti-commerce rhetoric, monopolies, mountain-and-marsh taxes, credit policy, repeated currency changes, and moralized frontier hierarchy are treated as idealistic and coercive at once. The source does not deny ideological seriousness, but it frames Xin's failure as policy language exceeding administrative, fiscal, social, and diplomatic capacity.
 
@@ -42,7 +45,7 @@ Hanji 666 supplies the terminal operational profile. Xin still has palace wealth
 - Reforming state whose archaising economic and social policy outran implementation capacity.
 - Frontier and symbolic-order regime whose moral hierarchy, unsupported Xiongnu intervention, ritual spectacle, speculative talent display, and Shandong-warning dismissal worsen the domestic base.
 - Household succession failure case in which disaster-omen title correction precedes public-heir death and the recall of private sons.
-- Currency, disaster-relief, and information failure in which private-coinage policing, household liability, forced labor, forbidden hunger reporting, grain diversion, false market reporting, and bad famine advice intensify political collapse.
+- Currency, disaster-relief, salary, and information failure in which confidential-channel secrecy, personal approval loops, unpaid officials, private-coinage policing, household liability, forced labor, forbidden hunger reporting, grain diversion, false market reporting, and bad famine advice intensify political collapse.
 - Revolt-exposed regime whose collapse is tied to [[ChimeiRebellion|赤眉]], [[LulinRebellion|绿林]], and [[KunyangBattle|昆阳之战]].
 - Command-failure regime in which useful local discretion is punished, capable operators are removed, and terminal titles, hostage control, oaths, and palace wealth cannot rebuild loyalty.
 
@@ -51,6 +54,8 @@ Hanji 666 supplies the terminal operational profile. Xin still has palace wealth
 - Sacred-legitimacy transfer: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] says Han founding myths and Heaven language made later transfer to Wang Mang thinkable.
 - Omen and moral reputation politics: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] links Wang Mang's rise to moral image, auspicious signs, chenwei, and Wang-family access.
 - Reform overreach: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] connects Wang fields, monopolies, taxation, credit policy, currency churn, and frontier moralism to social and political breakdown.
+- Administrative bottleneck: [[zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz|Hanji 650]] says confidential financial and memorial channels are routed through eunuchs or close attendants while normal offices, petitioners, prisoners, and guards experience delay.
+- Salary-system failure: [[zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz|Hanji 650]] says the fifteen-rank salary system links pay to harvest, disaster, and palace supply conditions but remains too complex to pay officials reliably.
 - Revolt field: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] places Chimei, Lulin, and Kunyang inside the accumulated Xin collapse.
 - Early rebellion and priority failure: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says Fan Chong and other Qing-Xu rebels grow while Yan You's Shandong-before-Xiongnu warning is rejected.
 - Xiongnu intervention backfire: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says Wang Mang's Xu Bu Dang plan cannot be backed by assembled force and leads to greater Xiongnu anger and raids.
@@ -75,14 +80,14 @@ Hanji 666 supplies the terminal operational profile. Xin still has palace wealth
 
 ## Qualifications
 
-The Xin page does not treat Wang Mang's regime as only hypocrisy or only failed idealism. The Wang Mang source preserves the seriousness and political usefulness of sacred legitimacy, moral reputation, and Confucian reform language while still treating the resulting system as brittle. Hanji 655 supports the 18-19 CE rebellion, Xiongnu intervention, spectacle, extraction, and priority-warning layer, but Pang An, Xu Xuan, Xie Lu, Yang Yin, Diao Zidu, Xu Bu Dang, named Xiongnu rulers, anti-Xiongnu inventors, and exact force counts remain source-scoped. Hanji 657 supports the disaster-succession, Nine Temples, local conspiracy, currency punishment, austerity-performance, and mandate-remonstrance layer, but Wanglu Hall, Wang Dan, temple dimensions, punishment mechanics, and exact title logic remain source-scoped. Hanji 658 supports the household-succession, frontier-requisition, famine, and private-coinage punishment layer, but precise casualty ratios, campaign details, Xiongnu marriage politics, and Wang Xing/Wang Kuang's later roles remain source-scoped. Hanji 659 supports the forbidden root-cause reporting and Tian Kuang removal layer, but Yang Cheng, Gongsun Lu's full career, Lu Kuang, Chi Zhaoping, Tian Kuang's later career, and exact force counts remain source-scoped. Hanji 660-2 supports the ritual-spectacle, Chimei-origin, official-army abuse, relief-corruption, Wang Ye misinformation, and command-bottleneck layer, but exact force counts, minor offices, grass-paste relief mechanics, Jing Shang, Kong Ren, Chen Mao, Wang Feng, Ma Wu, and later Lian Dan outcomes remain source-scoped. Hanji 666 supports the terminal collapse sequence but keeps Nine Tiger names, exact troop numbers, Chang'an gate details, and minor actors source-scoped. The source also narrates Empress Wang's shame and death, but her personal biography remains narrow until more evidence is added.
+The Xin page does not treat Wang Mang's regime as only hypocrisy or only failed idealism. The Wang Mang source preserves the seriousness and political usefulness of sacred legitimacy, moral reputation, and Confucian reform language while still treating the resulting system as brittle. Hanji 650 supports the 15-16 CE administrative secrecy, backlog, disaster, and salary-system layer, but eunuch office names, Kong Ren, exact disaster geography, salary calculations, and the 王邑/王毅 name form remain source-scoped. Hanji 655 supports the 18-19 CE rebellion, Xiongnu intervention, spectacle, extraction, and priority-warning layer, but Pang An, Xu Xuan, Xie Lu, Yang Yin, Diao Zidu, Xu Bu Dang, named Xiongnu rulers, anti-Xiongnu inventors, and exact force counts remain source-scoped. Hanji 657 supports the disaster-succession, Nine Temples, local conspiracy, currency punishment, austerity-performance, and mandate-remonstrance layer, but Wanglu Hall, Wang Dan, temple dimensions, punishment mechanics, and exact title logic remain source-scoped. Hanji 658 supports the household-succession, frontier-requisition, famine, and private-coinage punishment layer, but precise casualty ratios, campaign details, Xiongnu marriage politics, and Wang Xing/Wang Kuang's later roles remain source-scoped. Hanji 659 supports the forbidden root-cause reporting and Tian Kuang removal layer, but Yang Cheng, Gongsun Lu's full career, Lu Kuang, Chi Zhaoping, Tian Kuang's later career, and exact force counts remain source-scoped. Hanji 660-2 supports the ritual-spectacle, Chimei-origin, official-army abuse, relief-corruption, Wang Ye misinformation, and command-bottleneck layer, but exact force counts, minor offices, grass-paste relief mechanics, Jing Shang, Kong Ren, Chen Mao, Wang Feng, Ma Wu, and later Lian Dan outcomes remain source-scoped. Hanji 666 supports the terminal collapse sequence but keeps Nine Tiger names, exact troop numbers, Chang'an gate details, and minor actors source-scoped. The source also narrates Empress Wang's shame and death, but her personal biography remains narrow until more evidence is added.
 
 ## What Changed
 
-- Added Hanji 657's 20 CE disaster-succession, Nine Temples construction, Ma Shiqiu plot, currency enforcement, Tang Zun austerity, and Zhi Yun remonstrance layer.
+- Added Hanji 650's 15-16 CE administrative secrecy, disaster pressure, official-pay arrears, and variable salary-system layer.
+- Preserved Hanji 657's 20 CE disaster-succession, Nine Temples construction, Ma Shiqiu plot, currency enforcement, Tang Zun austerity, and Zhi Yun remonstrance layer.
 - Preserved Hanji 658's 21 CE household-succession, frontier-requisition, famine, and currency-enforcement layer.
-- Added Hanji 659's 21 CE root-cause reporting suppression and Tian Kuang removal layer.
-- Added Hanji 660-2's 22 CE Chimei-origin, official-army predation, relief-corruption, market-misinformation, and command-bottleneck layer.
+- Preserved Hanji 659 and Hanji 660-2 as the root-cause reporting suppression, Tian Kuang removal, Chimei-origin, official-army predation, relief-corruption, market-misinformation, and command-bottleneck layer.
 - Preserved Hanji 666's final military, administrative, symbolic, palace, and family-collapse layer while reframing Xin collapse as interacting family, policy, military, food, labor, and command failure.
 
 ## Relationships
@@ -100,6 +105,8 @@ The Xin page does not treat Wang Mang's regime as only hypocrisy or only failed 
 - [[LulinRebellion|绿林]] - anti-Xin endgame force entering the Chang'an collapse field.
 - [[ChimeiRebellion|赤眉]] - parallel revolt force in the larger late-Xin breakdown.
 - [[DisasterReliefCorruption|救灾物资贪腐]] - famine-response failure visible in stolen relief grain and refugee deaths.
+- [[SecrecyDrivenAdministrativeBottleneck|密控式行政瓶颈]] - early late-Xin office failure visible in confidential-channel routing, hidden memorials, and personal approval overload.
+- [[OfficialSalaryExtractionRisk|官吏俸禄不足抽取风险]] - official-compensation risk visible when complex salary rules leave officials unpaid.
 - [[SuppressedRootCauseReporting|根因上报压制]] - information-control failure visible when hunger explanations are forbidden.
 - [[KeyOperatorRemovalRisk|关键执行者移除风险]] - command and talent failure visible in Tian Kuang's recall.
 - [[OfficialArmyPredationBackfire|官军扰民反噬]] - suppression failure visible in Wang Kuang and Lian Dan's army.

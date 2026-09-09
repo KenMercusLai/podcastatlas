@@ -6,7 +6,8 @@ tags: [governance, fiscal-policy, bureaucracy, corruption, late-han]
 sources:
   - zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe
   - zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy
-last_updated: 2026-08-30
+  - zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz
+last_updated: 2026-09-09
 ---
 
 ## Definition
@@ -19,28 +20,32 @@ Hanji 782 supplies the immediate fiscal prelude. Under Empress Dowager Deng, Qia
 
 Hanji 783 gives the explicit salary-cut layer. The court reduces salaries for officials by rank, and the host emphasizes the tradeoff: the state saves money quickly, but underpaid officials still hold administrative power over people who cannot easily refuse demands. The concept therefore sits between fiscal relief and corruption theory; the harm is not automatic, but the incentive gradient changes.
 
+Hanji 650 adds an earlier [[WangMang|王莽]] case where the problem is not a simple uniform cut but overcomplex variable salary design under fiscal stress. Wang Mang first limits pay to small cloth allotments, then creates a fifteen-rank system tied to harvests, disasters, and palace supply conditions. The host's warning is the same incentive mechanism: if calculation complexity means officials still cannot receive pay, some officials convert office power into bribery and abuse.
+
 ## Key Claims
 
 - Salary reduction is a fiscal tool, not just a virtue signal, when war, famine, and disaster exhaust normal revenue.
 - The risk arises because officials keep coercive and administrative authority even when formal compensation falls.
 - Pay pressure can shift public fiscal stress downward into private fees, bribery, requisitions, or favoritism.
 - Rank sale and salary cuts belong to the same emergency extraction toolkit when ordinary revenue fails.
+- Overcomplex variable pay can create the same extraction risk as direct salary reduction if officials remain unpaid in practice.
 - The concept qualifies austerity: visible court thrift can be real while still creating harmful implementation incentives.
 
 ## Evidence
 
 - Emergency fiscal prelude: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|Hanji 782]] links Qiang war, famine, grain transport stress, rank sale, and fiscal exhaustion before the explicit salary-risk discussion.
 - Explicit pay-cut mechanism: [[zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe|Hanji 783]] records court salary cuts and interprets them as short-term savings that can push officials toward extraction.
+- Variable-pay failure: [[zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz|Hanji 650]] records Wang Mang's fifteen-rank pay system and says complex calculation leaves officials unpaid, encouraging abuse of office and bribery.
 - Austerity qualification: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|Hanji 782]] and [[zizhi-tongjian-hanji-783-renxing-qian-guize-nide-jiazhi-jueding-yiqie-lq5qbki6crhieafbv7g5kc07unqe|Hanji 783]] both preserve Deng-regency frugality while showing why austerity does not by itself solve official incentive design.
 
 ## Counterevidence & Qualifications
 
-The current sources do not prove a direct measured rise in bribery after the salary cuts. The claim is incentive-based: lower pay under unchanged authority makes extraction more likely and more tempting, especially when local society is already strained by war, famine, transport demands, and tax pressure.
+The current sources do not prove a direct measured rise in bribery after salary cuts or variable-pay arrears. The claim is incentive-based: lower or unreliable pay under unchanged authority makes extraction more likely and more tempting, especially when local society is already strained by war, famine, transport demands, disaster, and tax pressure. Hanji 650's "performance pay" label is a modern analogy, not proof of a modern measurement system.
 
 ## What Changed
 
-- Added Hanji 782 as the fiscal prelude connecting rank sale, famine, and Qiang-war costs to the later salary-cut risk.
-- Reframed the concept as part of a broader emergency extraction toolkit rather than a standalone pay-policy warning.
+- Added Hanji 650 as an earlier Wang Mang case where complex variable salary design produces the same unpaid-official extraction risk.
+- Preserved Hanji 782 and Hanji 783 as the Eastern Han fiscal-prelude and salary-cut layers.
 
 ## Related Concepts
 
@@ -49,3 +54,4 @@ The current sources do not prove a direct measured rise in bribery after the sal
 - [[PalaceEnvoyLocalExtraction]] - later local-extraction pattern that shows how public authority can become private burden.
 - [[AppointmentQualityAsStateCapacity]] - related personnel-quality frame because compensation and selection both shape official behavior.
 - [[GiftRefusalAsAuthority]] - contrasting integrity pattern where an official refuses to monetize public relationships.
+- [[SecrecyDrivenAdministrativeBottleneck]] - related late-Xin administrative-capacity failure in the same source as the salary-system case.

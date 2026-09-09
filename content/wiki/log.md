@@ -16256,6 +16256,10 @@ Ingested the 2026-06-07 芮淇讲透资治通鉴 episode backfilling 20 CE late-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | 《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？
+
+Ingested the 2026-06-06 芮淇讲透资治通鉴 episode on Wang Mang's 15-16 CE administrative secrecy, disaster pressure, frontier grain costs, and fifteen-rank variable salary system. Added source `zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz`; created `SecrecyDrivenAdministrativeBottleneck`; updated `WangMang`, `XinDynasty`, `WangMangReforms`, `OfficialSalaryExtractionRisk`, and `index`. No settled contradiction found; eunuch office names, Kong Ren, exact disaster geography, salary calculations, and the 王邑/王毅 name form remain source-scoped.
+
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生
 
 Ingested the 2026-06-07 芮淇讲透资治通鉴 episode on Wang Mang's Tianfeng 5 / 18 CE crisis and Yang Xiong's life. Added source `zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk`; created `Fangyan`, `FeiXingXinOfficial`, `WangZongXinPrince`, `WangFangXinPrincess`, `SimaXiangru`, `HanChengdi`, and `DelayedCanonicalRecognition`; migrated and updated `YangXiong`. No settled contradiction found; Fei Xing's full career, Wang-family case details, Yang Xiong's complete office chronology, and Fangyan's philological detail remain source-scoped.
@@ -16391,6 +16395,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | EP386-十一出行不想当大冤种？咱们来听听资深领队的小巧思！
 
 Ingested the 2026-09-08 无时差研究所 episode with Daocaoren leader 老宝 on National Day / Golden Week travel pricing, route substitution, airfare thresholds, cancellable hotels, reverse routing, travel-agency route operations, leader training, backup systems, and Egypt guided-travel boundaries. Added source `ep386-shiyi-chuxing-bu-xiang-dang-dayuanzhong-zanmen-lai-tingting-zishen-lingdui-de-xiaoqiaosi-gkwrirwodgrhaeuitgtugmxp`; created `DaocaorenTravel`, `LaobaoTravelLeader`, `HolidayPeakTravelPlanning`, and `TravelAgencyItineraryOperations`; updated `WushichaYanjiusuo`, `ComplexDestinationTravelRisk`, and `index`. No settled contradiction found; destination prices, fare movements, visa convenience, geopolitical effects, safety, and route availability remain source-scoped and time-sensitive.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

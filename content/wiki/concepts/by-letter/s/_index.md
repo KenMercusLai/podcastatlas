@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6807
+wiki_total_pages: 6808
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1919,6 +1919,9 @@ wiki_pages:
   - key: "SecretMemorialPoliticalIntelligence"
     title: "密折政治情报 / Secret Memorial Political Intelligence"
     url: "/wiki/concepts/secretmemorialpoliticalintelligence/"
+  - key: "SecrecyDrivenAdministrativeBottleneck"
+    title: "密控式行政瓶颈 / Secrecy-Driven Administrative Bottleneck"
+    url: "/wiki/concepts/secrecydrivenadministrativebottleneck/"
   - key: "SmallTownExamTakerDiscipline"
     title: "小镇做题家规训 / Small-Town Exam-Taker Discipline"
     url: "/wiki/concepts/smalltownexamtakerdiscipline/"

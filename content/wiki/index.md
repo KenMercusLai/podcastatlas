@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？](sources/zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz.md) — 15-16 CE Wang Mang backfill on eunuch-controlled treasuries and memorials, administrative backlog, disaster pressure, frontier grain costs, and a complex fifteen-rank variable salary system that leaves officials unpaid.
 - [《资治通鉴·汉纪》657丨王莽废太子，有多儿戏？](sources/zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l.md) — 20 CE Wang Mang backfill on disaster-omen succession correction, Wang An and Wang Ling's title rearrangement, Nine Temples construction, Ma Shiqiu's plot, private-coinage punishment, Tang Zun's austerity, and Zhi Yun's remonstrance.
 - [《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生](sources/zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk.md) — 18 CE Wang Mang backfill and Yang Xiong profile on Fei Xing's dismissed livelihood diagnosis, unpaid-official corruption, Wang-family scandal, Fangyan, fu writing, and delayed cultural recognition.
 - [《资治通鉴·汉纪》655丨万众归心到民怨沸腾，王莽做错了哪一步？](sources/zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko.md) — 18-19 CE Wang Mang backfill on Fan Chong's early rebel growth, Qing-Xu disorder, unsupported Xiongnu intervention, calendar/music/immortality spectacle, mass extraction, speculative anti-Xiongnu schemes, and Yan You's dismissed priority warning.
@@ -11485,6 +11486,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pork Consumption Substitution / 猪肉消费替代](concepts/PorkConsumptionSubstitution.md) — Demand shift from pork toward poultry, beef, seafood, and other proteins.
 - [Downstream Pork Absorption Limits / 下游猪肉吸收能力限制](concepts/DownstreamPorkAbsorptionLimits.md) — Slaughter, cold-chain, processing, retail, and export limits that reduce buffering of pork oversupply.
 - [将权掣肘 / Command Authority Bottleneck](concepts/CommandAuthorityBottleneck.md) — Command failure where field generals carry responsibility without enough authority for timely action.
+- [密控式行政瓶颈 / Secrecy-Driven Administrative Bottleneck](concepts/SecrecyDrivenAdministrativeBottleneck.md) — Governance failure where secrecy, insider document routing, and personal approval loops protect central authority while blocking ordinary administration.
 - [汉室人心回归 / Han Restoration Public Sentiment](concepts/HanRestorationPublicSentiment.md) — Late-Xin legitimacy pattern where failed Xin protection makes remembered Han rule politically usable again.
 - [官军扰民反噬 / Official Army Predation Backfire](concepts/OfficialArmyPredationBackfire.md) — Suppression failure where official troops harm civilians so badly that rebels become the lesser danger.
 - [Individual Abandonment Narrative / 个体被抛弃叙事](concepts/IndividualAbandonmentNarrative.md) — Narrative frame for characters left behind by family, comrades, institutions, government, or historical time.
