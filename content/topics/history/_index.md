@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1620
+topic_total_pages: 1625
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -3044,6 +3044,9 @@ topic_entities:
   - key: "WangLingMother"
     title: "王陵母亲 / Mother of Wang Ling"
     url: "/wiki/entities/wanglingmother/"
+  - key: "WangShunXinTaishi"
+    title: "王顺 / Wang Shun (Xin taishi)"
+    url: "/wiki/entities/wangshunxintaishi/"
   - key: "WangHe"
     title: "王龁 / Wang He"
     url: "/wiki/entities/wanghe/"
@@ -3281,6 +3284,9 @@ topic_entities:
   - key: "DongGongXincheng"
     title: "董公 / Dong Gong (Xincheng)"
     url: "/wiki/entities/donggongxincheng/"
+  - key: "JiangXuXinOfficial"
+    title: "蒋诩 / Jiang Xu (Xin-era official)"
+    url: "/wiki/entities/jiangxuxinofficial/"
   - key: "MengJia"
     title: "蒙嘉 / Meng Jia"
     url: "/wiki/entities/mengjia/"
@@ -3320,6 +3326,9 @@ topic_entities:
   - key: "XueWarringStates"
     title: "薛地 / Xue"
     url: "/wiki/entities/xuewarringstates/"
+  - key: "XueFangXinRecluse"
+    title: "薛方 / Xue Fang (Xin-era recluse)"
+    url: "/wiki/entities/xuefangxinrecluse/"
   - key: "YuQing"
     title: "虞卿 / Yu Qing"
     url: "/wiki/entities/yuqing/"
@@ -3503,6 +3512,9 @@ topic_entities:
   - key: "GuoKai"
     title: "郭开 / Guo Kai"
     url: "/wiki/entities/guokai/"
+  - key: "GuoQinXinOfficial"
+    title: "郭钦 / Guo Qin (Xin-era official)"
+    url: "/wiki/entities/guoqinxinofficial/"
   - key: "GuoWeiWarringStates"
     title: "郭隗 / Guo Wei (Warring States)"
     url: "/wiki/entities/guoweiwarringstates/"
@@ -3833,6 +3845,9 @@ topic_entities:
   - key: "LongJia"
     title: "龙甲 / Long Jia"
     url: "/wiki/entities/longjia/"
+  - key: "GongShengXinScholar"
+    title: "龚胜 / Gong Sheng (Xin-era scholar)"
+    url: "/wiki/entities/gongshengxinscholar/"
 topic_sources:
   - key: "05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925"
     title: "05.她来自马里乌波尔：“如果你看见过我曾见到的。”"

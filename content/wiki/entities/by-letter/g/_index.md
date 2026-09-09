@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9422
+wiki_total_pages: 9427
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -1178,6 +1178,9 @@ wiki_pages:
   - key: "GuoHeEasternHan"
     title: "郭贺 / Guo He (Eastern Han inspector)"
     url: "/wiki/entities/guoheeasternhan/"
+  - key: "GuoQinXinOfficial"
+    title: "郭钦 / Guo Qin (Xin-era official)"
+    url: "/wiki/entities/guoqinxinofficial/"
   - key: "GuoZhenLateHan"
     title: "郭镇 / Guo Zhen (late Han)"
     url: "/wiki/entities/guozhenlatehan/"
@@ -1265,6 +1268,9 @@ wiki_pages:
   - key: "GongYu"
     title: "龚宇"
     url: "/wiki/entities/gongyu/"
+  - key: "GongShengXinScholar"
+    title: "龚胜 / Gong Sheng (Xin-era scholar)"
+    url: "/wiki/entities/gongshengxinscholar/"
   - key: "GongZizhen"
     title: "龚自珍 / Gong Zizhen"
     url: "/wiki/entities/gongzizhen/"

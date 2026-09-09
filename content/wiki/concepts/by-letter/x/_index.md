@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "x"
-wiki_total_pages: 6822
+wiki_total_pages: 6823
 wiki_pages:
   - key: "XFFXFramework"
     title: "X/F/FX Framework"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "XimuLixin"
     title: "徙木立信 / Moving the Log to Build Trust"
     url: "/wiki/concepts/ximulixin/"
+  - key: "XinLoyalistRefusalSpectrum"
+    title: "新朝汉臣拒仕谱系 / Xin Loyalist Refusal Spectrum"
+    url: "/wiki/concepts/xinloyalistrefusalspectrum/"
   - key: "XipingStoneClassics"
     title: "熹平石经 / Xiping Stone Classics"
     url: "/wiki/concepts/xipingstoneclassics/"

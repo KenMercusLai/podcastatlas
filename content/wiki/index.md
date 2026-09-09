@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？](sources/zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5.md) — 11 CE Wang Mang backfill on coercive Xiongnu titulature, Yan You's Zhou-Han-Qin frontier strategy ranking, Han Wudi war-cost critique, Qin wall overburden, and steppe-expedition logistics.
+- [《资治通鉴·汉纪》644丨谁敢和皇帝使者讨价还价？](sources/zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn.md) — 11 CE Wang Mang backfill on frontier and interior extraction, northern-border collapse, Gong Sheng's fatal refusal of Xin office, Xue Fang's allusive reclusion, and Guo Qin/Jiang Xu's illness-based withdrawal.
 - [《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？](sources/zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy.md) — 12 CE Wang Mang backfill on Chen Xian's principled withdrawal, Han institutional-memory concealment, Yellow River non-repair, Xiongnu hostage rupture, empty noble-title inflation, and coercive frontier escalation.
 - [《资治通鉴·汉纪》647丨十三朝古都洛阳，为何至关重要？](sources/zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv.md) — 芮淇讲透资治通鉴 episode on Wang Mang's 14 CE Luoyang relocation plan, Luoyang's armory and "天下之中" centrality, Xin ritual-site preparation, administrative renaming churn, omen politics, and fragile Xiongnu heqin after hostage execution.
 - [史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界](sources/shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhLhohpUHBpofcWXtzOuxDIvRber.md) — 史蒂夫说 episode with Liang Yi on Steve's gradual new fatherhood, parenting as relationship formation, love as attention reorganization, nonviolent communication, slow child development, and growth witnessing.
@@ -2066,6 +2067,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [陈贤 / Chen Xian (Xin-era official)](entities/ChenXianXinOfficial.md) — Former Han legal specialist who withdraws from Wang Mang's court while preserving Han ritual timing and legal texts.
+- [龚胜 / Gong Sheng (Xin-era scholar)](entities/GongShengXinScholar.md) — Former Han scholar whose ritual-respectful but fatal refusal exposes the limits of Wang Mang's prestigious summons.
+- [郭钦 / Guo Qin (Xin-era official)](entities/GuoQinXinOfficial.md) — Former Nan commandery governor who leaves Xin service through illness-based withdrawal and lifelong seclusion.
+- [蒋诩 / Jiang Xu (Xin-era official)](entities/JiangXuXinOfficial.md) — Former Yanzhou inspector who leaves Xin service through illness-based withdrawal and lifelong seclusion.
+- [王顺 / Wang Shun (Xin taishi)](entities/WangShunXinTaishi.md) — Xin taishi whose illness death precedes Wang Mang's crown-prince teacher and祭酒 office expansion.
+- [薛方 / Xue Fang (Xin-era recluse)](entities/XueFangXinRecluse.md) — Famous scholar who refuses Wang Mang's summons through a face-saving Xu You/Mount Ji reclusion allusion.
 - [Planet Labs](entities/PlanetLabs.md) — Public Earth-observation company used by All-In to connect daily satellite imaging, customer credibility, government demand, and AI over real-world data.
 - [Will Marshall](entities/WillMarshall.md) — Planet Labs co-founder explaining public-market credibility, satellite miniaturization, daily Earth imaging, and orbital data-center economics in the All-In liquidity panel.
 - [Huangdi Neijing / 《黄帝内经》](entities/HuangdiNeijing.md) — classical Chinese medical text used in Hanji 651 as anatomy-history background before Wang Mang's punitive dissection branch.
@@ -11491,6 +11497,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [新朝汉臣拒仕谱系 / Xin Loyalist Refusal Spectrum](concepts/XinLoyalistRefusalSpectrum.md) — Hanji 644 pattern grouping fatal refusal, allusive reclusion, illness withdrawal, gift refusal, and serving-scholar qualification under Wang Mang's Xin.
 - [Frontier Strategy Cost Typology](concepts/FrontierStrategyCostTypology.md) — Yan You's Zhou-Han-Qin framework for judging frontier policy by objective, cost, duration, and state capacity.
 - [Steppe Expedition Logistics](concepts/SteppeExpeditionLogistics.md) — campaign-capacity frame for food, fodder, climate, disease, transport animals, tempo, and terrain in large anti-Xiongnu expeditions.
 - [制度记忆隐匿保存 / Institutional Memory Concealment](concepts/InstitutionalMemoryConcealment.md) — Preservation tactic where texts, procedures, and ritual timing survive privately when public service would legitimize a ruptured order.

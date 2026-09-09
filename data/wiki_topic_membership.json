@@ -27843,6 +27843,13 @@
       "url": "/topics/history/"
     }
   ],
+  "GongShengXinScholar": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "GongWei": [
     {
       "key": "history",
@@ -28899,6 +28906,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "GuoQinXinOfficial": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "GuoWeiWarringStates": [
@@ -34914,6 +34928,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "JiangXuXinOfficial": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "JiangXun": [
@@ -67414,6 +67435,13 @@
       "url": "/topics/history/"
     }
   ],
+  "WangShunXinTaishi": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "WangSunGu": [
     {
       "key": "history",
@@ -70301,6 +70329,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "XueFangXinRecluse": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "XueGong": [

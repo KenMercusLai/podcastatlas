@@ -16272,6 +16272,10 @@ Ingested the 2026-06-06 芮淇讲透资治通鉴 episode on Wang Mang's punitive
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | 《资治通鉴·汉纪》644丨谁敢和皇帝使者讨价还价？
+
+Added source note for Hanji 644. Key claims: 11 CE Xin mobilization and frontier supervision convert into civilian predation, taxes and recruitment produce flight and theft, northern border peace collapses after Xiongnu relations worsen, and Wang Mang's prestigious summons of Gong Sheng backfires into a fatal Han-loyalist refusal while Xue Fang, Guo Qin, and Jiang Xu show safer refusal and withdrawal tactics.
+
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？
 
 Added source note for Hanji 643. Key claims: Wang Mang's coercive Xiongnu titulature provokes frontier raids; Yan You ranks Zhou, Han, and Qin northern-frontier strategies by cost and objective; Han Wudi's famous anti-Xiongnu offensives are criticized as costly lower strategy; Qin's wall policy is framed as maximum cost for limited effect; Wang Mang's planned mass expedition fails logistics tests around assembly, supply, transport animals, climate, disease, tempo, and terrain.
@@ -16470,6 +16474,14 @@ Added source note for Hanji 651. Key claims: Hetu-Luoshu and "earth suppresses w
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》649丨官场里的人情世故有多现实？
 
 Added source note for Hanji 649. Key claims: the yellow-dragon rumor is read as a legitimacy threat to Wang Mang; Chen Qing is killed as a diplomatic scapegoat before the Xiongnu corpse-return mission; ritual and classical ordering consume administrative attention; local vacancies, intrusive inspection, tax pressure, bribery, and official risk avoidance expose early late-Xin office paralysis.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 
