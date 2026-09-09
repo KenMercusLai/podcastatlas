@@ -23666,6 +23666,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "FaceProjectGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FaceSavingSubmissionFailure": [
     {
       "key": "science",

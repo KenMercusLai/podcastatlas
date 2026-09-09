@@ -26475,6 +26475,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/fable5/"
     },
+    "FaceProjectGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》622丨官员如何做面子功夫？ [lutgirH7WoAfK3NZJZA4O_TLmF7j].md",
+          "key": "zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》622丨官员如何做面子功夫？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/faceprojectgovernance/"
+    },
     "FaceSavingSubmissionFailure": {
       "episode_count": 3,
       "show_count": 1,
@@ -83536,9 +83552,9 @@
       "url": "/wiki/entities/wanglingxinprince/"
     },
     "WangMang": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 2,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -83686,6 +83702,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》631丨古代杀人，真会把白骨堆成山？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》622丨官员如何做面子功夫？ [lutgirH7WoAfK3NZJZA4O_TLmF7j].md",
+          "key": "zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》622丨官员如何做面子功夫？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j/"
         }
       ],
       "updated": "2026-09-10",

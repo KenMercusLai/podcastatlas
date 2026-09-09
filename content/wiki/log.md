@@ -16709,6 +16709,10 @@ Added source note for a Huberman Lab episode on peptide evidence hierarchy, GLP-
 
 Added source note for the 2026-06-01 芮淇讲透资治通鉴 episode on Wang Mang's 4-5 CE Xihai exile law, Liu Li's fall, administrative churn, Ming Tang rewards, mass petitions, staged refusal, and Nine Bestowments. Created Liu Li, Kong Guang, Zeng Han, Xihai Exile Administrative Burden, Nine Bestowments Ritual Promotion, and Public Refusal Status Inflation pages; updated Ma Gong. No settled contradiction found; exact administrative subdivisions, petition counts, Nine Bestowments objects, the Wei-family accusation, and Wang Mang's inner motive remain source-scoped.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》622丨官员如何做面子功夫？
+
+Added source note for the 2026-05-31 芮淇讲透资治通鉴 episode on Wang Mang's 4 CE Ming Tang/Biyong/Lingtai proposals, scholar housing, Taixue expansion, textual-standardization recruitment, Yellow River policy debate, and face-project governance. Created Face-Project Governance and updated Wang Mang. No settled contradiction found; ritual-building details, scholar counts, river-engineering feasibility, named river-policy officials, and Wang Mang's inner motive remain source-scoped.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》627-1丨【女性必听】独特视角：经期隐喻背后的历史智慧
 
 Added source note for a 2026-06-01 芮淇讲透资治通鉴 episode on "子孙瑞" as menstrual-fertility euphemism, Huangdi Neijing menstrual and life-cycle vocabulary, Wang Mang's Ziwudao announcement, Liu Qing's Zhougong-regency framing, and the Pingdi death-source tension between 《资治通鉴》 and 《汉书》. Created Reproductive Body Omen Politics, Ziwudao, and Han Shu pages; updated Menstrual Stigma, Huangdi Neijing, Han Pingdi, and Empress Wang Pingdi. No settled contradiction found; the Wang Mang poisoning claim remains source-scoped.
@@ -16746,6 +16750,10 @@ Added source note for a 电影巨辩 episode on AI cinema from Frankenstein thro
 ## [2026-09-10] ingest | 电影里的AI：情人、巨婴和独裁者
 
 Added source note for a 电影巨辩 episode on AI cinema from Frankenstein through 《人工智能》, 《她》, 《机械姬》, and 《黑客帝国》. Key claims: AI films repeatedly turn technical intelligence into creator responsibility, programmed love, simulated reality, Turing-test judgment, embodiment, and modern subjectivity problems.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

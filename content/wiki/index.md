@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》622丨官员如何做面子功夫？](sources/zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j.md) — 4 CE Wang Mang backfill on Ming Tang/Biyong/Lingtai proposals, scholar housing, Taixue expansion, textual-standardization recruitment, Yellow River policy debate, and face-project governance.
 - [《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？](sources/zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd.md) — 4-5 CE Wang Mang backfill on Xihai exile law, Liu Li's fall, administrative churn, Ming Tang rewards, mass petitions, staged refusal, and Nine Bestowments.
 - [《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？](sources/zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz.md) — 5 CE Wang Mang backfill on Fu Taihou and Ding Ji's posthumous prosecution, Wang Zhengjun's pressured approval, tomb opening and leveling, Shi Dan's restoration, and Ma Gong's limited office removal.
 - [《资治通鉴·汉纪》627-1丨【女性必听】独特视角：经期隐喻背后的历史智慧](sources/zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt.md) — 5 CE Wang Mang backfill on "子孙瑞" as menstrual-fertility euphemism, Ziwudao, Huangdi Neijing life cycles, Zhougong-like prayer performance, and the Pingdi death-source tension.
@@ -11616,6 +11617,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Face-Project Governance / 面子工程式治理](concepts/FaceProjectGovernance.md) — Political prestige built through visible ritual, educational, expert, or public-works activity before implementation is proven.
 - [西海郡流放和法令增殖 / Xihai Exile Administrative Burden](concepts/XihaiExileAdministrativeBurden.md) — Wang Mang-era pattern where Xihai commandery law and exile policy become mass administrative and social burden.
 - [九锡礼遇 / Nine Bestowments Ritual Promotion](concepts/JiuXiRitualPromotion.md) — Ritual elevation of a powerful minister through nine imperial-bestowed ceremonial privileges.
 - [公开辞让式升格 / Public Refusal Status Inflation](concepts/PublicRefusalStatusInflation.md) — Pattern where visible refusal of reward increases moral credit and justifies higher status.

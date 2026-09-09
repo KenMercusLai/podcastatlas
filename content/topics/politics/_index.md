@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2297
+topic_total_pages: 2298
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1081,6 +1081,9 @@ topic_concepts:
   - key: "ExtractionPromiseEthics"
     title: "Extraction Promise Ethics / 撤离承诺伦理"
     url: "/wiki/concepts/extractionpromiseethics/"
+  - key: "FaceProjectGovernance"
+    title: "Face-Project Governance / 面子工程式治理"
+    url: "/wiki/concepts/faceprojectgovernance/"
   - key: "FairAllocationPoliticalSkill"
     title: "Fair Allocation As Political Skill / 公平分配式政治能力"
     url: "/wiki/concepts/fairallocationpoliticalskill/"
