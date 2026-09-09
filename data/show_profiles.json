@@ -2829,10 +2829,10 @@
       ]
     },
     "端聞 | 端傳媒新聞播客": {
-      "episode_count": 2,
+      "episode_count": 3,
       "earliest_episode_date": "2026-09-02",
-      "latest_episode_date": "2026-09-04",
-      "latest_episode_file": "2b3d8e4d22c53a7d8791ed4cb06916ae [2b3d8e4d22c53a7d8791ed4cb06916ae.mp3？aid=6a9a8f8ec5b9ba845d1dbcb2&chid=66b07190af99592b5329f43a&ci=9VFtphxY8S1UggNOBMZ7EHMUU6j6619IrTRcG-Pk4Fin8CKWU-WvsQ==&pf=rss&sv=sphinx@1.280].md",
+      "latest_episode_date": "2026-09-09",
+      "latest_episode_file": "db02e7aa04c129b49b1f36f750155b42 [db02e7aa04c129b49b1f36f750155b42.mp3？aid=6aa114b87275dabe95d0c3b1&chid=66b07190af99592b5329f43a&ci=r2r2SwgwuGcVF8hi0OLDhEx0VsPMkYgA3PfbnAPgPkmBleJkrQMj2w==&pf=rss&sv=sphinx@1.280].md",
       "source_note_count": 2,
       "topic_matched_source_note_count": 1,
       "topics": [
@@ -2846,6 +2846,7 @@
       "entities": [],
       "start_here_episode_files": [
         "2b3d8e4d22c53a7d8791ed4cb06916ae [2b3d8e4d22c53a7d8791ed4cb06916ae.mp3？aid=6a9a8f8ec5b9ba845d1dbcb2&chid=66b07190af99592b5329f43a&ci=9VFtphxY8S1UggNOBMZ7EHMUU6j6619IrTRcG-Pk4Fin8CKWU-WvsQ==&pf=rss&sv=sphinx@1.280].md",
+        "db02e7aa04c129b49b1f36f750155b42 [db02e7aa04c129b49b1f36f750155b42.mp3？aid=6aa114b87275dabe95d0c3b1&chid=66b07190af99592b5329f43a&ci=r2r2SwgwuGcVF8hi0OLDhEx0VsPMkYgA3PfbnAPgPkmBleJkrQMj2w==&pf=rss&sv=sphinx@1.280].md",
         "f8800ef95c64ad18f08802b15cd20b79 [f8800ef95c64ad18f08802b15cd20b79.mp3？aid=6a97b31cda248a131d4de056&chid=66b07190af99592b5329f43a&ci=As7wG2er2rEQ5CzRy19Sx9Fdr43v_f02_8PLBilcIfJFvwYBCzpI7g==&pf=rss&sv=sphinx@1.280].md"
       ]
     },
