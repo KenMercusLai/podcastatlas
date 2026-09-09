@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》641丨币制改革，如何导致王莽万劫不复？](sources/zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn.md) — 10 CE Wang Mang backfill on anti-Xiongnu war finance, six-name twenty-eight-rank currency complexity, popular distrust of new money, coercive enforcement, and fuming/omen imitation.
 - [《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？](sources/zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5.md) — 11 CE Wang Mang backfill on coercive Xiongnu titulature, Yan You's Zhou-Han-Qin frontier strategy ranking, Han Wudi war-cost critique, Qin wall overburden, and steppe-expedition logistics.
 - [《资治通鉴·汉纪》644丨谁敢和皇帝使者讨价还价？](sources/zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn.md) — 11 CE Wang Mang backfill on frontier and interior extraction, northern-border collapse, Gong Sheng's fatal refusal of Xin office, Xue Fang's allusive reclusion, and Guo Qin/Jiang Xu's illness-based withdrawal.
 - [《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？](sources/zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy.md) — 12 CE Wang Mang backfill on Chen Xian's principled withdrawal, Han institutional-memory concealment, Yellow River non-repair, Xiongnu hostage rupture, empty noble-title inflation, and coercive frontier escalation.
