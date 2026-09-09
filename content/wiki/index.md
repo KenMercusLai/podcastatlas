@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [№194: 赛博冲浪太快，我想回 MacRabbit 的兔子洞里坐一会](sources/anyway-194-anyway-194.md) — Anyway.FM episode connecting MacRabbit-era independent Mac app craft, Espresso, Slicy, and CSS Edit with Codex/Cursor-era designer AI coding and prototype-to-product difficulty.
 - [「人人喊打」的八哥，與台灣的「外來物種」難題](sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42.md) — 端闻 episode with 許正甫 and 馮孟傑 on a Taiwan nightjar livestream, introduced mynas, native/alien species boundaries, driver-versus-passenger invasion causality, and evidence-based humane management.
 - [Meta's youth safety settlement could change how people access the internet](sources/metas-youth-safety-settlement-could-change-how-people-access-the-internet.md) — Marketplace Tech episode with Will Creeley of FIRE on Meta's teen-safety settlement, age or identity verification pressure, anonymous speech, and First Amendment limits.
 - [《资治通鉴·汉纪》633丨怒砸传国玉玺！她竟如此刚烈！](sources/zizhi-tongjian-hanji-633-nuza-chuanguo-yuxi-ta-jing-ruci-ganglie-lnmnwbk28ayllz5fip1a1kzm1ais.md) — 8 CE Wang Mang accession backfill on Wang Zhengjun's coerced Heirloom Imperial Seal handover, the broken-corner protest, title recoding, Wang Jian and Zhang Yong's flattery risks, and Ban Biao's double-edged dowager judgment.
@@ -11194,6 +11195,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [WED Enterprises](entities/WEDEnterprises.md) — Walt Disney's personal company that designed Disneyland and retained valuable park rights before buyouts.
 - [Buena Vista Distribution](entities/BuenaVistaDistribution.md) — Disney distribution arm that reduced reliance on outside film distributors.
 - [Anyway.FM 设计杂谈](entities/AnywayFM.md) — Design podcast context for the UX Coffee crossover on AI, bookstores, work, and leaving screen-centered practice.
+- [MacRabbit](entities/MacRabbit.md) — Independent Mac software studio remembered through CSS Edit, Espresso, and Slicy as a benchmark for small-app craft.
+- [CSS Edit](entities/CSSEdit.md) — MacRabbit CSS editing tool discussed as an influential precursor to Espresso.
+- [Espresso](entities/EspressoCodeEditor.md) — MacRabbit web code editor remembered for polished visual craft, Sugar skins, typography, FTP upload, and browser preview.
+- [Slicy](entities/Slicy.md) — MacRabbit Photoshop asset-export tool remembered for layer-naming automation and lightweight design handoff.
+- [Markedown](entities/MarkedownApp.md) — Markdown editor project whose episode role shows Codex-assisted documentation inside independent app development.
+- [默默语 2.0](entities/MomoTimeApp.md) — Independent productivity companion app used to show the privacy, bug, and polish gap between prototypes and public software.
 - [UX Coffee](entities/UXCoffee.md) — Design podcast and bookstore-project context shifting from UI/UX media toward Chinese cultural retail and maker/craft interests.
 - [大琪](entities/Daqi.md) — Independent designer connecting Alibaba, Lazada, TikTok, Product Roast, landing-page conversion, and design-led growth.
 - [Lazada](entities/Lazada.md) — Southeast Asian ecommerce company used through Daqi's design-team experience and cross-cultural product-design lessons.
@@ -18388,6 +18395,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Generative Media Control Layers](concepts/GenerativeMediaControlLayers.md) — Creative-tool control surfaces that move generation beyond rerolling by using text, images, references, video, and rights-aware constraints.
 - [Latent Diffusion](concepts/LatentDiffusion.md) — Generative-model approach that compresses images, video, or audio into efficient latent representations before diffusion-model training.
 - [IP-Controlled Generative Models](concepts/IPControlledGenerativeModels.md) — Rights-holder pattern where protected characters, worlds, or styles are blocked in public tools but enabled through licensed models and governed creation surfaces.
+- [Designer AI Coding Workflow](concepts/DesignerAICodingWorkflow.md) — Design-led AI coding practice that uses sketches, Figma, screenshots, photos, MCP context, and natural language as implementation inputs.
+- [Independent Mac App Craft](concepts/IndependentMacAppCraft.md) — Small Mac software craft pattern joining focused workflow utility, native-feeling polish, naming, animation, and emotional affordance.
 - [Vibe Coding](concepts/VibeCoding.md) — AI-assisted coding practice whose value is capability expansion as much as speed.
 - [Embodied Native Foundation Models](concepts/EmbodiedNativeFoundationModels.md) — Robot-brain thesis that embodied models should start from sensors, spatial perception, video time, action, and embodiment rather than adapted digital-world models.
 - [Robot Data Scale Up](concepts/RobotDataScaleUp.md) — Embodied-data bottleneck where real-machine, first-person, simulation, task, and cross-body data must scale before a robot GPT-1 moment.

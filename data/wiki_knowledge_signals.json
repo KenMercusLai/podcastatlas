@@ -5777,9 +5777,9 @@
       "url": "/wiki/entities/anybotics/"
     },
     "AnywayFM": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "anyway-195 [anyway-195].md",
@@ -5787,9 +5787,16 @@
           "show": "Anyway.FM 设计杂谈",
           "title": "№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」",
           "url": "/wiki/sources/anyway-195-anyway-195/"
+        },
+        {
+          "episode_file": "anyway-194 [anyway-194].md",
+          "key": "anyway-194-anyway-194",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№194: 赛博冲浪太快，我想回 MacRabbit 的兔子洞里坐一会",
+          "url": "/wiki/sources/anyway-194-anyway-194/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/anywayfm/"
     },
     "AnzacSpirit": {
@@ -10278,6 +10285,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/cpraedresponseboundary/"
+    },
+    "CSSEdit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "anyway-194 [anyway-194].md",
+          "key": "anyway-194-anyway-194",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№194: 赛博冲浪太快，我想回 MacRabbit 的兔子洞里坐一会",
+          "url": "/wiki/sources/anyway-194-anyway-194/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/cssedit/"
     },
     "CaffeineAdenosineSleepTiming": {
       "episode_count": 2,
@@ -19431,6 +19454,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/designbrandmanufacturingupgrade/"
     },
+    "DesignerAICodingWorkflow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "anyway-194 [anyway-194].md",
+          "key": "anyway-194-anyway-194",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№194: 赛博冲浪太快，我想回 MacRabbit 的兔子洞里坐一会",
+          "url": "/wiki/sources/anyway-194-anyway-194/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/designeraicodingworkflow/"
+    },
     "DesirableDifficulty": {
       "episode_count": 5,
       "show_count": 3,
@@ -25199,6 +25238,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/ericweinstein/"
+    },
+    "EspressoCodeEditor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "anyway-194 [anyway-194].md",
+          "key": "anyway-194-anyway-194",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№194: 赛博冲浪太快，我想回 MacRabbit 的兔子洞里坐一会",
+          "url": "/wiki/sources/anyway-194-anyway-194/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/espressocodeeditor/"
     },
     "EthicalTriageUnderScarcity": {
       "episode_count": 1,
@@ -39128,6 +39183,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/increasingstovesdeception/"
     },
+    "IndependentMacAppCraft": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "anyway-194 [anyway-194].md",
+          "key": "anyway-194-anyway-194",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№194: 赛博冲浪太快，我想回 MacRabbit 的兔子洞里坐一会",
+          "url": "/wiki/sources/anyway-194-anyway-194/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/independentmacappcraft/"
+    },
     "IndependentPodcastSustainability": {
       "episode_count": 1,
       "show_count": 1,
@@ -51159,6 +51230,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/macmini/"
     },
+    "MacRabbit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "anyway-194 [anyway-194].md",
+          "key": "anyway-194-anyway-194",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№194: 赛博冲浪太快，我想回 MacRabbit 的兔子洞里坐一会",
+          "url": "/wiki/sources/anyway-194-anyway-194/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/macrabbit/"
+    },
     "MacStudio": {
       "episode_count": 1,
       "show_count": 1,
@@ -51682,6 +51769,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/markluanfanshu/"
+    },
+    "MarkedownApp": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "anyway-194 [anyway-194].md",
+          "key": "anyway-194-anyway-194",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№194: 赛博冲浪太快，我想回 MacRabbit 的兔子洞里坐一会",
+          "url": "/wiki/sources/anyway-194-anyway-194/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/markedownapp/"
     },
     "MarketingEthics": {
       "episode_count": 1,
@@ -54321,6 +54424,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/mohammadmahoor/"
+    },
+    "MomoTimeApp": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "anyway-194 [anyway-194].md",
+          "key": "anyway-194-anyway-194",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№194: 赛博冲浪太快，我想回 MacRabbit 的兔子洞里坐一会",
+          "url": "/wiki/sources/anyway-194-anyway-194/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/momotimeapp/"
     },
     "Monticello": {
       "episode_count": 1,
@@ -71556,6 +71675,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/sleepwaketimingtoolkit/"
+    },
+    "Slicy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "anyway-194 [anyway-194].md",
+          "key": "anyway-194-anyway-194",
+          "show": "Anyway.FM 设计杂谈",
+          "title": "№194: 赛博冲浪太快，我想回 MacRabbit 的兔子洞里坐一会",
+          "url": "/wiki/sources/anyway-194-anyway-194/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/slicy/"
     },
     "SlightlyHarderChoice": {
       "episode_count": 1,

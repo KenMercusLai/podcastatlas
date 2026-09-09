@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6861
+wiki_total_pages: 6863
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "IndependentInvestmentConsulting"
     title: "Independent Investment Consulting"
     url: "/wiki/concepts/independentinvestmentconsulting/"
+  - key: "IndependentMacAppCraft"
+    title: "Independent Mac App Craft"
+    url: "/wiki/concepts/independentmacappcraft/"
   - key: "IndependentOfficialAudit"
     title: "Independent Official Audit / 独立考核地方官"
     url: "/wiki/concepts/independentofficialaudit/"

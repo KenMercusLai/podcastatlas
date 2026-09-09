@@ -9155,6 +9155,10 @@
     "title": "CSOP Asset Management / 南方东英",
     "url": "/wiki/entities/csopassetmanagement/"
   },
+  "CSSEdit": {
+    "title": "CSS Edit",
+    "url": "/wiki/entities/cssedit/"
+  },
   "CTA102": {
     "title": "CTA-102",
     "url": "/wiki/entities/cta102/"
@@ -15891,6 +15895,10 @@
     "title": "Designed Agency In Games",
     "url": "/wiki/concepts/designedagencyingames/"
   },
+  "DesignerAICodingWorkflow": {
+    "title": "Designer AI Coding Workflow",
+    "url": "/wiki/concepts/designeraicodingworkflow/"
+  },
   "DesirableDifficulty": {
     "title": "Desirable Difficulty",
     "url": "/wiki/concepts/desirabledifficulty/"
@@ -19022,6 +19030,10 @@
   "Eshu": {
     "title": "Eshu",
     "url": "/wiki/entities/eshu/"
+  },
+  "EspressoCodeEditor": {
+    "title": "Espresso",
+    "url": "/wiki/entities/espressocodeeditor/"
   },
   "EssentialPatents": {
     "title": "Essential Patents",
@@ -28171,6 +28183,10 @@
     "title": "Independent Investment Consulting",
     "url": "/wiki/concepts/independentinvestmentconsulting/"
   },
+  "IndependentMacAppCraft": {
+    "title": "Independent Mac App Craft",
+    "url": "/wiki/concepts/independentmacappcraft/"
+  },
   "IndependentOfficialAudit": {
     "title": "Independent Official Audit / 独立考核地方官",
     "url": "/wiki/concepts/independentofficialaudit/"
@@ -36167,6 +36183,10 @@
     "title": "Mac Mini",
     "url": "/wiki/entities/macmini/"
   },
+  "MacRabbit": {
+    "title": "MacRabbit",
+    "url": "/wiki/entities/macrabbit/"
+  },
   "MacStudio": {
     "title": "Mac Studio",
     "url": "/wiki/entities/macstudio/"
@@ -36942,6 +36962,10 @@
   "MarkZuckerberg": {
     "title": "Mark Zuckerberg",
     "url": "/wiki/entities/markzuckerberg/"
+  },
+  "MarkedownApp": {
+    "title": "Markedown",
+    "url": "/wiki/entities/markedownapp/"
   },
   "MarketBreadthNarrowing": {
     "title": "Market Breadth Narrowing / 市场广度收窄",
@@ -39142,6 +39166,10 @@
   "Momo": {
     "title": "Momo",
     "url": "/wiki/entities/momo/"
+  },
+  "MomoTimeApp": {
+    "title": "默默语 2.0",
+    "url": "/wiki/entities/momotimeapp/"
   },
   "MonMothma": {
     "title": "Mon Mothma",
@@ -52294,6 +52322,10 @@
   "SleepWellPortfolioTest": {
     "title": "Sleep-Well Portfolio Test / 睡眠理论",
     "url": "/wiki/concepts/sleepwellportfoliotest/"
+  },
+  "Slicy": {
+    "title": "Slicy",
+    "url": "/wiki/entities/slicy/"
   },
   "SlightlyHarderChoice": {
     "title": "Slightly Harder Choice",
@@ -67034,6 +67066,10 @@
   "an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c": {
     "title": "An interview with Yuval Noah Harari",
     "url": "/wiki/sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c/"
+  },
+  "anyway-194-anyway-194": {
+    "title": "№194: 赛博冲浪太快，我想回 MacRabbit 的兔子洞里坐一会",
+    "url": "/wiki/sources/anyway-194-anyway-194/"
   },
   "anyway-195-anyway-195": {
     "title": "№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」",

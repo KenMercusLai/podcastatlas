@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9464
+wiki_total_pages: 9470
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -785,6 +785,9 @@ wiki_pages:
   - key: "Slashdot"
     title: "Slashdot"
     url: "/wiki/entities/slashdot/"
+  - key: "Slicy"
+    title: "Slicy"
+    url: "/wiki/entities/slicy/"
   - key: "SlockAI"
     title: "Slock.ai / Slock AI"
     url: "/wiki/entities/slockai/"

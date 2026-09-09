@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 9464
+wiki_total_pages: 9470
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "ESPN"
     title: "ESPN"
     url: "/wiki/entities/espn/"
+  - key: "EspressoCodeEditor"
+    title: "Espresso"
+    url: "/wiki/entities/espressocodeeditor/"
   - key: "EstherDuflo"
     title: "Esther Duflo"
     url: "/wiki/entities/estherduflo/"

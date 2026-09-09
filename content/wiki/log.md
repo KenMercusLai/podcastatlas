@@ -1895,7 +1895,6 @@ Added source note for the 9 CE Wang Mang accession-consolidation backfill on fiv
 Added source note for the Duanwen episode on Taiwan nightjar livestream outrage, introduced common and white-vented mynas, native/alien/invasive species boundaries, driver-versus-passenger causality, and humane differentiated management. Created Xu Zhengfu, Feng Mengjie, Taiwan myna species pages, Taiwan Nighthawk, Invasive Species Moralization, Native-Alien Species Boundary, Driver-Passenger Invasion Model, and Taiwan Myna Management; updated Duanwen and Invasive Species Management. No settled contradiction found; Taiwan myna population impacts, livestream egg causality, and intervention efficacy remain source-scoped.
 
 Ran lint. See lint-report.md for details.
-
 ## [2026-09-09] ingest | AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
 
 Added source note for the What's Next episode with Song Le on AI for Science, GenBio AI, virtual-cell world models, biological harness engineering, data information value, active learning, protein language models, graph neural networks, and the boundary between automatable scientific labor and creative scientific discovery. No settled contradiction recorded; funding figures, model-performance claims, GenBio AI timelines, and AlphaFold-like maturity comparisons remain source-scoped.
@@ -16649,6 +16648,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-09] ingest | №194: 赛博冲浪太快，我想回 MacRabbit 的兔子洞里坐一会
+
+Added source note for the 2026-06-03 Anyway.FM episode connecting MacRabbit-era independent Mac app craft with current Codex/Cursor-era designer AI coding. Created MacRabbit, CSS Edit, Espresso, Slicy, Markedown, 默默语 2.0, Designer AI Coding Workflow, and Independent Mac App Craft pages; updated Anyway.FM, index, and overview. No settled contradiction found; MacRabbit history details, Espresso's post-2018 status, and AI-coding momentum claims remain source-scoped.
 
 ## [2026-09-09] lint | Wiki health check
 

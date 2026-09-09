@@ -12338,6 +12338,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CSSEdit": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "CTA102": [
     {
       "key": "science",
@@ -19461,6 +19468,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "DesignerAICodingWorkflow": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "DesireCapacityFit": [
     {
       "key": "science",
@@ -22861,6 +22875,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "EspressoCodeEditor": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "Estraven": [
@@ -40448,6 +40469,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "MacRabbit": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "MacStudio": [
     {
       "key": "technology",
@@ -41133,6 +41161,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "MarkedownApp": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "MarketBreadthNarrowing": [
@@ -43473,6 +43508,13 @@
     }
   ],
   "Momenta": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "MomoTimeApp": [
     {
       "key": "technology",
       "label": "Technology",
@@ -58361,6 +58403,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "Slicy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "SlowKundera": [

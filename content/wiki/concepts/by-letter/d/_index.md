@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6861
+wiki_total_pages: 6863
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "DesignedAgencyInGames"
     title: "Designed Agency In Games"
     url: "/wiki/concepts/designedagencyingames/"
+  - key: "DesignerAICodingWorkflow"
+    title: "Designer AI Coding Workflow"
+    url: "/wiki/concepts/designeraicodingworkflow/"
   - key: "DesirableDifficulty"
     title: "Desirable Difficulty"
     url: "/wiki/concepts/desirabledifficulty/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9464
+wiki_total_pages: 9470
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1217,6 +1217,9 @@ wiki_pages:
   - key: "CSOPAssetManagement"
     title: "CSOP Asset Management / 南方东英"
     url: "/wiki/entities/csopassetmanagement/"
+  - key: "CSSEdit"
+    title: "CSS Edit"
+    url: "/wiki/entities/cssedit/"
   - key: "CTA102"
     title: "CTA-102"
     url: "/wiki/entities/cta102/"
