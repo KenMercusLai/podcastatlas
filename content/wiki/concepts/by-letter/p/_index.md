@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6793
+wiki_total_pages: 6797
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -848,6 +848,12 @@ wiki_pages:
   - key: "PorcelainStoneClayBinaryFormula"
     title: "Porcelain Stone-Clay Binary Formula / 瓷石瓷土二元配方"
     url: "/wiki/concepts/porcelainstoneclaybinaryformula/"
+  - key: "PorkConsumptionSubstitution"
+    title: "Pork Consumption Substitution / 猪肉消费替代"
+    url: "/wiki/concepts/porkconsumptionsubstitution/"
+  - key: "PorkCycle"
+    title: "Pork Cycle / 猪周期"
+    url: "/wiki/concepts/porkcycle/"
   - key: "PortEnabledManufacturingCity"
     title: "Port Enabled Manufacturing City / 港口型制造城市"
     url: "/wiki/concepts/portenabledmanufacturingcity/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6793
+wiki_total_pages: 6797
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "ChinaPassengerVehicleDemandPressure"
     title: "China Passenger Vehicle Demand Pressure"
     url: "/wiki/concepts/chinapassengervehicledemandpressure/"
+  - key: "ChinaPigFarmingScaleConsolidation"
+    title: "China Pig Farming Scale Consolidation / 中国生猪养殖规模化"
+    url: "/wiki/concepts/chinapigfarmingscaleconsolidation/"
   - key: "ChinaPolicyEasingPivot"
     title: "China Policy Easing Pivot"
     url: "/wiki/concepts/chinapolicyeasingpivot/"

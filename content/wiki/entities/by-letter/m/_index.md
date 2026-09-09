@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9385
+wiki_total_pages: 9386
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -956,6 +956,9 @@ wiki_pages:
   - key: "Miniso"
     title: "Miniso / 名创优品"
     url: "/wiki/entities/miniso/"
+  - key: "MinistryOfAgricultureAndRuralAffairs"
+    title: "Ministry of Agriculture and Rural Affairs / 农业农村部"
+    url: "/wiki/entities/ministryofagricultureandruralaffairs/"
   - key: "MinistryOfFinanceChina"
     title: "Ministry of Finance of China / 中国财政部"
     url: "/wiki/entities/ministryoffinancechina/"

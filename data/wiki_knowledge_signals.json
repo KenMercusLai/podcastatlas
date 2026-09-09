@@ -12945,6 +12945,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/chinamanufacturingoverseasexpansion/"
     },
+    "ChinaPigFarmingScaleConsolidation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？ [1012895922].md",
+          "key": "zhurou-jiage-jingli-man-chang-xiadie-weishenme-zhuzhouqi-buzai-zunxun-laojiezou-1012895922",
+          "show": "声动早咖啡",
+          "title": "猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？",
+          "url": "/wiki/sources/zhurou-jiage-jingli-man-chang-xiadie-weishenme-zhuzhouqi-buzai-zunxun-laojiezou-1012895922/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/chinapigfarmingscaleconsolidation/"
+    },
     "ChinaPsychiatricWorkforceGap": {
       "episode_count": 1,
       "show_count": 1,
@@ -20439,6 +20455,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/douyinecommerce/"
+    },
+    "DownstreamPorkAbsorptionLimits": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？ [1012895922].md",
+          "key": "zhurou-jiage-jingli-man-chang-xiadie-weishenme-zhuzhouqi-buzai-zunxun-laojiezou-1012895922",
+          "show": "声动早咖啡",
+          "title": "猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？",
+          "url": "/wiki/sources/zhurou-jiage-jingli-man-chang-xiadie-weishenme-zhuzhouqi-buzai-zunxun-laojiezou-1012895922/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/downstreamporkabsorptionlimits/"
     },
     "DreamFaceTechnologies": {
       "episode_count": 1,
@@ -52006,6 +52038,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/ministerialdignityprotection/"
     },
+    "MinistryOfAgricultureAndRuralAffairs": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？ [1012895922].md",
+          "key": "zhurou-jiage-jingli-man-chang-xiadie-weishenme-zhuzhouqi-buzai-zunxun-laojiezou-1012895922",
+          "show": "声动早咖啡",
+          "title": "猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？",
+          "url": "/wiki/sources/zhurou-jiage-jingli-man-chang-xiadie-weishenme-zhuzhouqi-buzai-zunxun-laojiezou-1012895922/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/ministryofagricultureandruralaffairs/"
+    },
     "MinoanCivilization": {
       "episode_count": 3,
       "show_count": 2,
@@ -59463,6 +59511,38 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/populistdemocraticenergy/"
+    },
+    "PorkConsumptionSubstitution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？ [1012895922].md",
+          "key": "zhurou-jiage-jingli-man-chang-xiadie-weishenme-zhuzhouqi-buzai-zunxun-laojiezou-1012895922",
+          "show": "声动早咖啡",
+          "title": "猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？",
+          "url": "/wiki/sources/zhurou-jiage-jingli-man-chang-xiadie-weishenme-zhuzhouqi-buzai-zunxun-laojiezou-1012895922/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/porkconsumptionsubstitution/"
+    },
+    "PorkCycle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？ [1012895922].md",
+          "key": "zhurou-jiage-jingli-man-chang-xiadie-weishenme-zhuzhouqi-buzai-zunxun-laojiezou-1012895922",
+          "show": "声动早咖啡",
+          "title": "猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？",
+          "url": "/wiki/sources/zhurou-jiage-jingli-man-chang-xiadie-weishenme-zhuzhouqi-buzai-zunxun-laojiezou-1012895922/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/porkcycle/"
     },
     "PortEnabledManufacturingCity": {
       "episode_count": 1,

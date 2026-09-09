@@ -11351,6 +11351,10 @@
     "title": "China Passenger Vehicle Demand Pressure",
     "url": "/wiki/concepts/chinapassengervehicledemandpressure/"
   },
+  "ChinaPigFarmingScaleConsolidation": {
+    "title": "China Pig Farming Scale Consolidation / 中国生猪养殖规模化",
+    "url": "/wiki/concepts/chinapigfarmingscaleconsolidation/"
+  },
   "ChinaPolicyEasingPivot": {
     "title": "China Policy Easing Pivot",
     "url": "/wiki/concepts/chinapolicyeasingpivot/"
@@ -16926,6 +16930,10 @@
   "DowayoPeople": {
     "title": "Dowayo People / 多瓦优人",
     "url": "/wiki/entities/dowayopeople/"
+  },
+  "DownstreamPorkAbsorptionLimits": {
+    "title": "Downstream Pork Absorption Limits / 下游猪肉吸收能力限制",
+    "url": "/wiki/concepts/downstreamporkabsorptionlimits/"
   },
   "DraftKings": {
     "title": "DraftKings",
@@ -38343,6 +38351,10 @@
     "title": "九卿体面保护 / Ministerial Dignity Protection",
     "url": "/wiki/concepts/ministerialdignityprotection/"
   },
+  "MinistryOfAgricultureAndRuralAffairs": {
+    "title": "Ministry of Agriculture and Rural Affairs / 农业农村部",
+    "url": "/wiki/entities/ministryofagricultureandruralaffairs/"
+  },
   "MinistryOfFinanceChina": {
     "title": "Ministry of Finance of China / 中国财政部",
     "url": "/wiki/entities/ministryoffinancechina/"
@@ -44370,6 +44382,14 @@
   "PorcelainStoneClayBinaryFormula": {
     "title": "Porcelain Stone-Clay Binary Formula / 瓷石瓷土二元配方",
     "url": "/wiki/concepts/porcelainstoneclaybinaryformula/"
+  },
+  "PorkConsumptionSubstitution": {
+    "title": "Pork Consumption Substitution / 猪肉消费替代",
+    "url": "/wiki/concepts/porkconsumptionsubstitution/"
+  },
+  "PorkCycle": {
+    "title": "Pork Cycle / 猪周期",
+    "url": "/wiki/concepts/porkcycle/"
   },
   "Porsche": {
     "title": "Porsche",
@@ -69954,6 +69974,10 @@
   "zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1": {
     "title": "72. 中文播客活化石与真OG",
     "url": "/wiki/sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1/"
+  },
+  "zhurou-jiage-jingli-man-chang-xiadie-weishenme-zhuzhouqi-buzai-zunxun-laojiezou-1012895922": {
+    "title": "猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？",
+    "url": "/wiki/sources/zhurou-jiage-jingli-man-chang-xiadie-weishenme-zhuzhouqi-buzai-zunxun-laojiezou-1012895922/"
   },
   "zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68": {
     "title": "《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？",
