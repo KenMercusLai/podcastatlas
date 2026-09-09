@@ -74754,9 +74754,9 @@
       "url": "/wiki/concepts/symbolicreconciliationstatecraft/"
     },
     "SymbolicStatusDowngradeBackfire": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？ [lhxBX6KeIbmFe8z6bcsmlPNR6ehT].md",
@@ -74764,6 +74764,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》637丨王莽真的是穿越皇帝吗？ [lgmv5DYoWR6WklRBp42QMMD3BIuN].md",
+          "key": "zizhi-tongjian-hanji-637-wangmang-zhen-de-shi-chuanyue-huangdi-ma-lgmv5dyowr6wklrbp42qmmd3biun",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》637丨王莽真的是穿越皇帝吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-637-wangmang-zhen-de-shi-chuanyue-huangdi-ma-lgmv5dyowr6wklrbp42qmmd3biun/"
         }
       ],
       "updated": "2026-09-09",
@@ -81068,9 +81075,9 @@
       "url": "/wiki/entities/wanglingxinprince/"
     },
     "WangMang": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 2,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -81204,15 +81211,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》637丨王莽真的是穿越皇帝吗？ [lgmv5DYoWR6WklRBp42QMMD3BIuN].md",
+          "key": "zizhi-tongjian-hanji-637-wangmang-zhen-de-shi-chuanyue-huangdi-ma-lgmv5dyowr6wklrbp42qmmd3biun",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》637丨王莽真的是穿越皇帝吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-637-wangmang-zhen-de-shi-chuanyue-huangdi-ma-lgmv5dyowr6wklrbp42qmmd3biun/"
         }
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/wangmang/"
     },
     "WangMangReforms": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -81262,6 +81276,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》637丨王莽真的是穿越皇帝吗？ [lgmv5DYoWR6WklRBp42QMMD3BIuN].md",
+          "key": "zizhi-tongjian-hanji-637-wangmang-zhen-de-shi-chuanyue-huangdi-ma-lgmv5dyowr6wklrbp42qmmd3biun",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》637丨王莽真的是穿越皇帝吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-637-wangmang-zhen-de-shi-chuanyue-huangdi-ma-lgmv5dyowr6wklrbp42qmmd3biun/"
         }
       ],
       "updated": "2026-09-09",
@@ -84644,9 +84665,9 @@
       "url": "/wiki/entities/xincheneasternhan/"
     },
     "XinDynasty": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 2,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -84738,6 +84759,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》637丨王莽真的是穿越皇帝吗？ [lgmv5DYoWR6WklRBp42QMMD3BIuN].md",
+          "key": "zizhi-tongjian-hanji-637-wangmang-zhen-de-shi-chuanyue-huangdi-ma-lgmv5dyowr6wklrbp42qmmd3biun",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》637丨王莽真的是穿越皇帝吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-637-wangmang-zhen-de-shi-chuanyue-huangdi-ma-lgmv5dyowr6wklrbp42qmmd3biun/"
         }
       ],
       "updated": "2026-09-09",

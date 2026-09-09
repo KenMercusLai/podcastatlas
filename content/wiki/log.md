@@ -1884,6 +1884,10 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | 《资治通鉴·汉纪》637丨王莽真的是穿越皇帝吗？
+
+Added source note for the 9-10 CE Wang Mang backfill on 王田, slave-sale prohibition, land limits, Four Evils punishment rhetoric, Five Authority fuming巡行, seal replacement, and early title downgrades. Updated Wang Mang reforms, Wang Mang, Xin dynasty, and symbolic status downgrade synthesis pages; no settled contradiction found.
+
 ## [2026-09-09] ingest | Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox
 
 Added source note for the All-In episode with Thomas Laffont on Coatue's unicorn-economy update, AI private-market concentration, a possible 2026 AI IPO liquidity reset, SpaceX platform valuation, memory and semiconductor demand, and the 10X paradox. Added focused pages for Thomas Laffont, Coatue, Revolute, Unicorn Economy, AI Private-Market Concentration, and 10X Paradox.
@@ -16569,6 +16573,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams
 
 Added source note for the 2026-06-04 Huberman Lab Essentials episode with Nolan Williams on depression, circuit psychiatry, TMS, Stanford Neuromodulation Therapy, psychedelics, ketamine, trauma-memory reconsolidation, and clinical supervision. Created Nolan Williams, Circuit-Based Psychiatry, Transcranial Magnetic Stimulation for Depression, Stanford Neuromodulation Therapy, Memory Reconsolidation Psychiatry, and Psychedelic Clinical Supervision Boundary pages; updated Psychiatric Medication Supervision Boundary and index. No settled contradiction found; ibogaine, ayahuasca, psilocybin, MDMA, ketamine, SNT outcomes, and durability claims remain source-scoped and clinically bounded.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 
