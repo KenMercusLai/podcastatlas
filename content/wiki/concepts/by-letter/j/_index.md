@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 6882
+wiki_total_pages: 6885
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "JungianArchetypalReading"
     title: "Jungian Archetypal Reading / 荣格式原型阅读"
     url: "/wiki/concepts/jungianarchetypalreading/"
+  - key: "JiuXiRitualPromotion"
+    title: "九锡礼遇 / Nine Bestowments Ritual Promotion"
+    url: "/wiki/concepts/jiuxiritualpromotion/"
   - key: "JiFuBaoYang"
     title: "饥附饱扬 / Ji Fu Bao Yang"
     url: "/wiki/concepts/jifubaoyang/"

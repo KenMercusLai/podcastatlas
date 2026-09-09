@@ -30683,6 +30683,10 @@
     "title": "Jitong Spirit Medium / 鸡童（乩童）",
     "url": "/wiki/concepts/jitongspiritmedium/"
   },
+  "JiuXiRitualPromotion": {
+    "title": "九锡礼遇 / Nine Bestowments Ritual Promotion",
+    "url": "/wiki/concepts/jiuxiritualpromotion/"
+  },
   "Jiuding": {
     "title": "九鼎 / Jiuding",
     "url": "/wiki/entities/jiuding/"
@@ -32214,6 +32218,10 @@
   "KongFu": {
     "title": "孔鲋 / Kong Fu",
     "url": "/wiki/entities/kongfu/"
+  },
+  "KongGuangWesternHan": {
+    "title": "孔光 / Kong Guang (Western Han)",
+    "url": "/wiki/entities/kongguangwesternhan/"
   },
   "KongRong": {
     "title": "孔融 / Kong Rong",
@@ -34666,6 +34674,10 @@
   "LiuLiShouguangMarquisEasternHan": {
     "title": "寿光侯刘李 / Liu Li, Shouguang Marquis (Eastern Han)",
     "url": "/wiki/entities/liulishouguangmarquiseasternhan/"
+  },
+  "LiuLiWesternHan": {
+    "title": "梁王刘丽 / Liu Li, King of Liang",
+    "url": "/wiki/entities/liuliwesternhan/"
   },
   "LiuLiangyou": {
     "title": "刘良佑 / Liu Liangyou",
@@ -46330,6 +46342,10 @@
   "PublicPrivateMarketDiscipline": {
     "title": "Public-Private Market Discipline",
     "url": "/wiki/concepts/publicprivatemarketdiscipline/"
+  },
+  "PublicRefusalStatusInflation": {
+    "title": "公开辞让式升格 / Public Refusal Status Inflation",
+    "url": "/wiki/concepts/publicrefusalstatusinflation/"
   },
   "PublicRelevanceAlgorithms": {
     "title": "Public Relevance Algorithms / 公共相关性的算法",
@@ -62803,6 +62819,10 @@
     "title": "《西方决斗史》 / The History of Duelling",
     "url": "/wiki/entities/xifangjuedoushi/"
   },
+  "XihaiExileAdministrativeBurden": {
+    "title": "西海郡流放和法令增殖 / Xihai Exile Administrative Burden",
+    "url": "/wiki/concepts/xihaiexileadministrativeburden/"
+  },
   "Xilinx": {
     "title": "Xilinx / 赛灵思",
     "url": "/wiki/entities/xilinx/"
@@ -64914,6 +64934,10 @@
   "ZengGuofan": {
     "title": "曾国藩 / Zeng Guofan",
     "url": "/wiki/entities/zengguofan/"
+  },
+  "ZengHanXinOfficial": {
+    "title": "曾涵 / Zeng Han, Xin-aligned official",
+    "url": "/wiki/entities/zenghanxinofficial/"
   },
   "ZengHe": {
     "title": "曾赫 / Zeng He",
@@ -71494,6 +71518,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd": {
+    "title": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd/"
   },
   "zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo": {
     "title": "《资治通鉴·汉纪》625丨揭秘人性暗面：为何旁人成功总令我们心生嫉恨？",

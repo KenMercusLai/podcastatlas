@@ -42298,6 +42298,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/jingjuekingdom/"
     },
+    "JiuXiRitualPromotion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？ [lpAvIclTc7NducBxiqGPR6T7Iczd].md",
+          "key": "zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/jiuxiritualpromotion/"
+    },
     "JizhouLateHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -43691,6 +43707,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/kongfeneasternhan/"
+    },
+    "KongGuangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？ [lpAvIclTc7NducBxiqGPR6T7Iczd].md",
+          "key": "zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/kongguangwesternhan/"
     },
     "KongRong": {
       "episode_count": 7,
@@ -47748,6 +47780,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/liulishouguangmarquiseasternhan/"
     },
+    "LiuLiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？ [lpAvIclTc7NducBxiqGPR6T7Iczd].md",
+          "key": "zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/liuliwesternhan/"
+    },
     "LiuMaoLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -51345,10 +51393,17 @@
       "url": "/wiki/entities/mafangeasternhan/"
     },
     "MaGongWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？ [lpAvIclTc7NducBxiqGPR6T7Iczd].md",
+          "key": "zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？ [loTWK6rbTl5PvBrnLFrysU5Ol6rz].md",
           "key": "zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz",
@@ -64537,6 +64592,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/publicexerciseemergencypreparedness/"
+    },
+    "PublicRefusalStatusInflation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？ [lpAvIclTc7NducBxiqGPR6T7Iczd].md",
+          "key": "zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/publicrefusalstatusinflation/"
     },
     "PublicSafetyPrivacyTradeoff": {
       "episode_count": 3,
@@ -86907,6 +86978,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/xieyinmelody/"
     },
+    "XihaiExileAdministrativeBurden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？ [lpAvIclTc7NducBxiqGPR6T7Iczd].md",
+          "key": "zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/xihaiexileadministrativeburden/"
+    },
     "Ximalaya": {
       "episode_count": 1,
       "show_count": 1,
@@ -90592,6 +90679,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/zaohaowu/"
+    },
+    "ZengHanXinOfficial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？ [lpAvIclTc7NducBxiqGPR6T7Iczd].md",
+          "key": "zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/zenghanxinofficial/"
     },
     "ZengMing": {
       "episode_count": 1,

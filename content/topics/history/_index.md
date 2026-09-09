@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1647
+topic_total_pages: 1650
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2513,6 +2513,9 @@ topic_entities:
   - key: "ZiShun"
     title: "子顺 / Zi Shun"
     url: "/wiki/entities/zishun/"
+  - key: "KongGuangWesternHan"
+    title: "孔光 / Kong Guang (Western Han)"
+    url: "/wiki/entities/kongguangwesternhan/"
   - key: "KongChuan"
     title: "孔川 / Kong Chuan"
     url: "/wiki/entities/kongchuan/"
@@ -2774,6 +2777,9 @@ topic_entities:
   - key: "CaoCaoTomb"
     title: "曹操墓"
     url: "/wiki/entities/caocaotomb/"
+  - key: "ZengHanXinOfficial"
+    title: "曾涵 / Zeng Han, Xin-aligned official"
+    url: "/wiki/entities/zenghanxinofficial/"
   - key: "ZengHe"
     title: "曾赫 / Zeng He"
     url: "/wiki/entities/zenghe/"
@@ -2861,6 +2867,9 @@ topic_entities:
   - key: "LiangHuiWang"
     title: "梁惠王 / King Hui of Liang"
     url: "/wiki/entities/lianghuiwang/"
+  - key: "LiuLiWesternHan"
+    title: "梁王刘丽 / Liu Li, King of Liang"
+    url: "/wiki/entities/liuliwesternhan/"
   - key: "MeiJuan"
     title: "梅鋗 / Mei Juan"
     url: "/wiki/entities/meijuan/"

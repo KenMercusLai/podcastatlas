@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6882
+wiki_total_pages: 6885
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1766,6 +1766,9 @@ wiki_pages:
   - key: "PrincessMarriagePowerAsymmetry"
     title: "公主婚姻权力失衡 / Princess Marriage Power Asymmetry"
     url: "/wiki/concepts/princessmarriagepowerasymmetry/"
+  - key: "PublicRefusalStatusInflation"
+    title: "公开辞让式升格 / Public Refusal Status Inflation"
+    url: "/wiki/concepts/publicrefusalstatusinflation/"
   - key: "PenalSeverityExecutionTradeoff"
     title: "刑法轻重与执行困境 / Penal Severity and Execution Tradeoff"
     url: "/wiki/concepts/penalseverityexecutiontradeoff/"

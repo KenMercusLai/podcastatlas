@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？](sources/zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd.md) — 4-5 CE Wang Mang backfill on Xihai exile law, Liu Li's fall, administrative churn, Ming Tang rewards, mass petitions, staged refusal, and Nine Bestowments.
 - [《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？](sources/zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz.md) — 5 CE Wang Mang backfill on Fu Taihou and Ding Ji's posthumous prosecution, Wang Zhengjun's pressured approval, tomb opening and leveling, Shi Dan's restoration, and Ma Gong's limited office removal.
 - [《资治通鉴·汉纪》627-1丨【女性必听】独特视角：经期隐喻背后的历史智慧](sources/zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt.md) — 5 CE Wang Mang backfill on "子孙瑞" as menstrual-fertility euphemism, Ziwudao, Huangdi Neijing life cycles, Zhougong-like prayer performance, and the Pingdi death-source tension.
 - [《资治通鉴·汉纪》627-2丨【女性必听】经期禁忌的文化脉络与女性社会地位变迁](sources/zizhi-tongjian-hanji-627-2-nvxing-biting-jingqi-jinji-de-wenhua-mailuo-yu-nvxing-shehui-diwei-bianqian-lrxeziuwvcfgkkzgpugnzby4uref.md) — 芮淇讲透资治通鉴 PLUS episode on menstrual euphemism, blood-pollution taboo, local custom, religious and marriage restrictions, intergenerational shame, body knowledge, and self-care.
@@ -2097,6 +2098,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [梁王刘丽 / Liu Li, King of Liang](entities/LiuLiWesternHan.md) — Western Han Liu-line king stripped and exiled after an accusation involving Pingdi's Wei-family remnants.
+- [孔光 / Kong Guang (Western Han)](entities/KongGuangWesternHan.md) — Western Han Taishi whose 5 CE death and grand funeral precede Ma Gong's appointment.
+- [曾涵 / Zeng Han, Xin-aligned official](entities/ZengHanXinOfficial.md) — Right general who reports Wang Mang's refusal language to Wang Zhengjun before the Nine Bestowments order.
 - [Han Shu / 《汉书》](entities/HanShu.md) — Source-criticism node for Hanji 627-1's comparison of illness-centered Pingdi death records with the Zizhi Tongjian poisoning narrative.
 - [Ziwudao / 子午道](entities/Ziwudao.md) — Western Han route whose 5 CE opening is framed by Wang Mang through Empress Wang's "子孙瑞."
 - [朱啸虎 / Zhu Xiaohu](entities/ZhuXiaohu.md) — Venture investor used by the source as a representative O2O-era capital figure and OFO backer.
@@ -11606,6 +11610,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [西海郡流放和法令增殖 / Xihai Exile Administrative Burden](concepts/XihaiExileAdministrativeBurden.md) — Wang Mang-era pattern where Xihai commandery law and exile policy become mass administrative and social burden.
+- [九锡礼遇 / Nine Bestowments Ritual Promotion](concepts/JiuXiRitualPromotion.md) — Ritual elevation of a powerful minister through nine imperial-bestowed ceremonial privileges.
+- [公开辞让式升格 / Public Refusal Status Inflation](concepts/PublicRefusalStatusInflation.md) — Pattern where visible refusal of reward increases moral credit and justifies higher status.
 - [Reproductive Body Omen Politics / 生殖身体祥瑞政治](concepts/ReproductiveBodyOmenPolitics.md) — Pattern where menstruation, fertility, or other reproductive body signs become auspicious political evidence.
 - [O2O Platform Economics](concepts/O2OPlatformEconomics.md) — Business-model frame distinguishing real offline demand from scalable, subsidy-resistant online-to-offline platform economics.
 - [Chinese Sharing-Economy Bubble](concepts/ChineseSharingEconomyBubble.md) — 2010s shared-asset wave built around QR-coded rental assets, deposits, subsidies, and uneven category fit.
