@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6837
+wiki_total_pages: 6843
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "DaoistTempleEverydayLabor"
     title: "Daoist Temple Everyday Labor / 道观日常劳动"
     url: "/wiki/concepts/daoisttempleeverydaylabor/"
+  - key: "DardanellesStrategicShortcut"
+    title: "Dardanelles Strategic Shortcut"
+    url: "/wiki/concepts/dardanellesstrategicshortcut/"
   - key: "DarkAdviserCraft"
     title: "Dark Adviser Craft / 毒士灰度谋略"
     url: "/wiki/concepts/darkadvisercraft/"

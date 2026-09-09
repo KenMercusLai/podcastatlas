@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6837
+wiki_total_pages: 6843
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "FactorySecondGenerationPersonalIP"
     title: "Factory-Second-Generation Personal IP / 厂二代个人IP"
     url: "/wiki/concepts/factorysecondgenerationpersonalip/"
+  - key: "FailedStrategicShortcutAttritionTrap"
+    title: "Failed Strategic Shortcut Attrition Trap"
+    url: "/wiki/concepts/failedstrategicshortcutattritiontrap/"
   - key: "FailureDesensitization"
     title: "Failure Desensitization"
     url: "/wiki/concepts/failuredesensitization/"
@@ -467,6 +470,9 @@ wiki_pages:
   - key: "FirstSaleDoctrine"
     title: "First Sale Doctrine"
     url: "/wiki/concepts/firstsaledoctrine/"
+  - key: "FirstWorldWar"
+    title: "First World War"
+    url: "/wiki/concepts/firstworldwar/"
   - key: "FirstAidTriageAndEscalation"
     title: "First-Aid Triage and Escalation / 急救判断与升级"
     url: "/wiki/concepts/firstaidtriageandescalation/"

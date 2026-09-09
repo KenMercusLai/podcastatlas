@@ -1806,6 +1806,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "676-the-first-world-war-churchills-calamity-part-6-glt1275431911": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "677-usa-the-star-spangled-banner-part-1-glt7890467734": [
     {
       "key": "history",
@@ -24808,6 +24815,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "FirstWorldWar": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "FiscalExtractionRebellionSpiral": [
     {
       "key": "politics",
@@ -43979,6 +43993,13 @@
     }
   ],
   "MuslimPersonalLawIndia": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "MustafaKemalAtaturk": [
     {
       "key": "politics",
       "label": "Politics",
@@ -67872,6 +67893,13 @@
       "url": "/topics/history/"
     }
   ],
+  "WartimeCoalitionAccountability": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "WartimeElectionConstraint": [
     {
       "key": "politics",
@@ -68990,6 +69018,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "WinstonChurchill": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "WinthropKellogg": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9441
+wiki_total_pages: 9444
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -500,6 +500,9 @@ wiki_pages:
   - key: "Wink"
     title: "Wink"
     url: "/wiki/entities/wink/"
+  - key: "WinstonChurchill"
+    title: "Winston Churchill"
+    url: "/wiki/entities/winstonchurchill/"
   - key: "WinthropKellogg"
     title: "Winthrop Kellogg / 凯洛格"
     url: "/wiki/entities/winthropkellogg/"

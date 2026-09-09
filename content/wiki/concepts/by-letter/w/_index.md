@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6837
+wiki_total_pages: 6843
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "WartimeAgriculturalLaborCollapse"
     title: "Wartime Agricultural Labor Collapse / 战争抽空农业劳动力"
     url: "/wiki/concepts/wartimeagriculturallaborcollapse/"
+  - key: "WartimeCoalitionAccountability"
+    title: "Wartime Coalition Accountability"
+    url: "/wiki/concepts/wartimecoalitionaccountability/"
   - key: "WartimeCommandDecapitation"
     title: "Wartime Command Decapitation / 战时统帅斩首"
     url: "/wiki/concepts/wartimecommanddecapitation/"

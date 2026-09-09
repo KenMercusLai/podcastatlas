@@ -5753,6 +5753,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/anywayfm/"
     },
+    "AnzacSpirit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1275431911 [GLT1275431911].md",
+          "key": "676-the-first-world-war-churchills-calamity-part-6-glt1275431911",
+          "show": "The Rest Is History",
+          "title": "676. The First World War: Churchill's Calamity (Part 6)",
+          "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/anzacspirit/"
+    },
     "AnzhongLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -6754,6 +6770,64 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/auspiciousomenpolitics/"
+    },
+    "Australia": {
+      "episode_count": 7,
+      "show_count": 4,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "tech_20260724_0724_MP_TECH_pod_128 [tech_20260724_0724_MP_TECH_pod_128].md",
+          "key": "tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "OpenAI model unintentionally hacks another company's system",
+          "url": "/wiki/sources/tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251226_1226_MP_TECH_pod_128 [tech_20251226_1226_MP_TECH_pod_128].md",
+          "key": "tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How online age-gating laws went mainstream this year",
+          "url": "/wiki/sources/tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260406_0406_MP_TECH_pod_128 [tech_20260406_0406_MP_TECH_pod_128].md",
+          "key": "tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Would banning teens from social media violate their First Amendment rights?",
+          "url": "/wiki/sources/tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983 [default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983].md",
+          "key": "how-to-get-what-greenland-has-with-permission",
+          "show": "Planet Money",
+          "title": "How to get what Greenland has, with permission",
+          "url": "/wiki/sources/how-to-get-what-greenland-has-with-permission/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3d44daa450e6fc8fe6d76289cb02377d_39612571 [default.mp3_ywr3ahjkcgo_3d44daa450e6fc8fe6d76289cb02377d_39612571].md",
+          "key": "our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour",
+          "show": "Planet Money",
+          "title": "Our mission: Find the world's best economic ideas (Summer School World Tour)",
+          "url": "/wiki/sources/our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour/"
+        },
+        {
+          "episode_file": "Burning questions： a more fire-prone world [6a687ea64207b2a60119df8b].md",
+          "key": "burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b",
+          "show": "Economist Podcasts",
+          "title": "Burning questions: a more fire-prone world",
+          "url": "/wiki/sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b/"
+        },
+        {
+          "episode_file": "GLT1275431911 [GLT1275431911].md",
+          "key": "676-the-first-world-war-churchills-calamity-part-6-glt1275431911",
+          "show": "The Rest Is History",
+          "title": "676. The First World War: Churchill's Calamity (Part 6)",
+          "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/australia/"
     },
     "AustriaHungary": {
       "episode_count": 2,
@@ -17583,6 +17657,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/darcyraisednutrition/"
     },
+    "DardanellesStrategicShortcut": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1275431911 [GLT1275431911].md",
+          "key": "676-the-first-world-war-churchills-calamity-part-6-glt1275431911",
+          "show": "The Rest Is History",
+          "title": "676. The First World War: Churchill's Calamity (Part 6)",
+          "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/dardanellesstrategicshortcut/"
+    },
     "DarrenAlpert": {
       "episode_count": 1,
       "show_count": 1,
@@ -25839,6 +25929,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/fafadebelem/"
     },
+    "FailedStrategicShortcutAttritionTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1275431911 [GLT1275431911].md",
+          "key": "676-the-first-world-war-churchills-calamity-part-6-glt1275431911",
+          "show": "The Rest Is History",
+          "title": "676. The First World War: Churchill's Calamity (Part 6)",
+          "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/failedstrategicshortcutattritiontrap/"
+    },
     "FairAllocationPoliticalSkill": {
       "episode_count": 3,
       "show_count": 1,
@@ -27670,6 +27776,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/firstsouthwestbank/"
+    },
+    "FirstWorldWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1275431911 [GLT1275431911].md",
+          "key": "676-the-first-world-war-churchills-calamity-part-6-glt1275431911",
+          "show": "The Rest Is History",
+          "title": "676. The First World War: Churchill's Calamity (Part 6)",
+          "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/firstworldwar/"
     },
     "FiscalExtractionRebellionSpiral": {
       "episode_count": 2,
@@ -30378,6 +30500,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/gaiusmarius/"
+    },
+    "GallipoliCampaign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1275431911 [GLT1275431911].md",
+          "key": "676-the-first-world-war-churchills-calamity-part-6-glt1275431911",
+          "show": "The Rest Is History",
+          "title": "676. The First World War: Churchill's Calamity (Part 6)",
+          "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/gallipolicampaign/"
     },
     "GameSpiritOrganization": {
       "episode_count": 1,
@@ -54205,6 +54343,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/musicmemorycueing/"
     },
+    "MustafaKemalAtaturk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1275431911 [GLT1275431911].md",
+          "key": "676-the-first-world-war-churchills-calamity-part-6-glt1275431911",
+          "show": "The Rest Is History",
+          "title": "676. The First World War: Churchill's Calamity (Part 6)",
+          "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/mustafakemalataturk/"
+    },
     "MutualExhaustionThirdPartyGain": {
       "episode_count": 2,
       "show_count": 1,
@@ -54974,6 +55128,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/newyorkmagazine/"
+    },
+    "NewZealand": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》 [998655210].md",
+          "key": "186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210",
+          "show": "蜜獾吃书",
+          "title": "186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》",
+          "url": "/wiki/sources/186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_3d44daa450e6fc8fe6d76289cb02377d_39612571 [default.mp3_ywr3ahjkcgo_3d44daa450e6fc8fe6d76289cb02377d_39612571].md",
+          "key": "our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour",
+          "show": "Planet Money",
+          "title": "Our mission: Find the world's best economic ideas (Summer School World Tour)",
+          "url": "/wiki/sources/our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour/"
+        },
+        {
+          "episode_file": "GLT1275431911 [GLT1275431911].md",
+          "key": "676-the-first-world-war-churchills-calamity-part-6-glt1275431911",
+          "show": "The Rest Is History",
+          "title": "676. The First World War: Churchill's Calamity (Part 6)",
+          "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/newzealand/"
     },
     "NewlyAttachedRegionLeniency": {
       "episode_count": 1,
@@ -57412,6 +57596,50 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/osorioduqueestrada/"
+    },
+    "OttomanEmpire": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "Elbows up, again： a US-Canada trade flare-up [6a8c0fa3a89d26398ee7a5db].md",
+          "key": "elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db",
+          "show": "Economist Podcasts",
+          "title": "Elbows up, again: a US-Canada trade flare-up",
+          "url": "/wiki/sources/elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db/"
+        },
+        {
+          "episode_file": "74.全球上瘾：啊，咖啡！我黑色的阿波罗！ [678615763].md",
+          "key": "74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763",
+          "show": "蜜獾吃书",
+          "title": "74.全球上瘾：啊，咖啡！我黑色的阿波罗！",
+          "url": "/wiki/sources/74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763/"
+        },
+        {
+          "episode_file": "153.我的名字叫红：用一千零一夜的心跳完成这场谋杀(上） [917670296].md",
+          "key": "153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296",
+          "show": "蜜獾吃书",
+          "title": "153.我的名字叫红：用一千零一夜的心跳完成这场谋杀(上）",
+          "url": "/wiki/sources/153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296/"
+        },
+        {
+          "episode_file": "154.我的名字叫红：用一千零一夜的心跳完成这场谋杀(下） [919262400].md",
+          "key": "154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400",
+          "show": "蜜獾吃书",
+          "title": "154.我的名字叫红：用一千零一夜的心跳完成这场谋杀(下）",
+          "url": "/wiki/sources/154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400/"
+        },
+        {
+          "episode_file": "GLT1275431911 [GLT1275431911].md",
+          "key": "676-the-first-world-war-churchills-calamity-part-6-glt1275431911",
+          "show": "The Rest Is History",
+          "title": "676. The First World War: Churchill's Calamity (Part 6)",
+          "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/ottomanempire/"
     },
     "OuraRing": {
       "episode_count": 4,
@@ -77923,6 +78151,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/treatyofparis1783/"
     },
+    "TrenchSanitationDiseaseBurden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1275431911 [GLT1275431911].md",
+          "key": "676-the-first-world-war-churchills-calamity-part-6-glt1275431911",
+          "show": "The Rest Is History",
+          "title": "676. The First World War: Churchill's Calamity (Part 6)",
+          "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/trenchsanitationdiseaseburden/"
+    },
     "TrialSizeProduct": {
       "episode_count": 4,
       "show_count": 2,
@@ -81479,6 +81723,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/warofthegoldenstool/"
     },
+    "WartimeCoalitionAccountability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1275431911 [GLT1275431911].md",
+          "key": "676-the-first-world-war-churchills-calamity-part-6-glt1275431911",
+          "show": "The Rest Is History",
+          "title": "676. The First World War: Churchill's Calamity (Part 6)",
+          "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/wartimecoalitionaccountability/"
+    },
     "WartimeCommandDecapitation": {
       "episode_count": 3,
       "show_count": 1,
@@ -82674,6 +82934,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/winsentertainment/"
+    },
+    "WinstonChurchill": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1275431911 [GLT1275431911].md",
+          "key": "676-the-first-world-war-churchills-calamity-part-6-glt1275431911",
+          "show": "The Rest Is History",
+          "title": "676. The First World War: Churchill's Calamity (Part 6)",
+          "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/winstonchurchill/"
     },
     "WishfulFrontierConciliation": {
       "episode_count": 1,

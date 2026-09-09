@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1630
+topic_total_pages: 1632
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -346,6 +346,9 @@ topic_concepts:
   - key: "FireOxNightRaid"
     title: "Fire-Ox Night Raid / 火牛阵夜袭"
     url: "/wiki/concepts/fireoxnightraid/"
+  - key: "FirstWorldWar"
+    title: "First World War"
+    url: "/wiki/concepts/firstworldwar/"
   - key: "ForcedMarchOperationalRisk"
     title: "Forced-March Operational Risk / 急行军作战风险"
     url: "/wiki/concepts/forcedmarchoperationalrisk/"
@@ -3945,6 +3948,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "676-the-first-world-war-churchills-calamity-part-6-glt1275431911"
+    title: "676. The First World War: Churchill's Calamity (Part 6)"
+    url: "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
   - key: "677-usa-the-star-spangled-banner-part-1-glt7890467734"
     title: "677. USA: The Star-Spangled Banner (Part 1)"
     url: "/wiki/sources/677-usa-the-star-spangled-banner-part-1-glt7890467734/"

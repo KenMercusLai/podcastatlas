@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9441
+wiki_total_pages: 9444
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1238,6 +1238,9 @@ wiki_pages:
   - key: "MuslimBrotherhood"
     title: "Muslim Brotherhood"
     url: "/wiki/entities/muslimbrotherhood/"
+  - key: "MustafaKemalAtaturk"
+    title: "Mustafa Kemal / Ataturk"
+    url: "/wiki/entities/mustafakemalataturk/"
   - key: "MustafaSuleyman"
     title: "Mustafa Suleyman"
     url: "/wiki/entities/mustafasuleyman/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2286
+topic_total_pages: 2289
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3322,6 +3322,9 @@ topic_concepts:
   - key: "WarringStatesMarriageDiplomacy"
     title: "Warring States Marriage Diplomacy / 战国联姻外交"
     url: "/wiki/concepts/warringstatesmarriagediplomacy/"
+  - key: "WartimeCoalitionAccountability"
+    title: "Wartime Coalition Accountability"
+    url: "/wiki/concepts/wartimecoalitionaccountability/"
   - key: "WartimeElectionConstraint"
     title: "Wartime Election Constraint"
     url: "/wiki/concepts/wartimeelectionconstraint/"
@@ -5030,6 +5033,9 @@ topic_entities:
   - key: "MuslimBrotherhood"
     title: "Muslim Brotherhood"
     url: "/wiki/entities/muslimbrotherhood/"
+  - key: "MustafaKemalAtaturk"
+    title: "Mustafa Kemal / Ataturk"
+    url: "/wiki/entities/mustafakemalataturk/"
   - key: "Myanmar"
     title: "Myanmar"
     url: "/wiki/entities/myanmar/"
@@ -5708,6 +5714,9 @@ topic_entities:
   - key: "WilsonWilliams"
     title: "Wilson Williams"
     url: "/wiki/entities/wilsonwilliams/"
+  - key: "WinstonChurchill"
+    title: "Winston Churchill"
+    url: "/wiki/entities/winstonchurchill/"
   - key: "WorldLibertyFinancial"
     title: "World Liberty Financial"
     url: "/wiki/entities/worldlibertyfinancial/"
