@@ -8045,6 +8045,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/banzhaolatehan/"
     },
+    "BanZhiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》625丨揭秘人性暗面：为何旁人成功总令我们心生嫉恨？ [li64nGKV8NUjwEgBIX6IORoRjmbo].md",
+          "key": "zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》625丨揭秘人性暗面：为何旁人成功总令我们心生嫉恨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/banzhiwesternhan/"
+    },
     "BanditMutualReportingPacification": {
       "episode_count": 1,
       "show_count": 1,
@@ -14853,6 +14869,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/coercedimperialmarriage/"
+    },
+    "CoercedPraiseConformityRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》625丨揭秘人性暗面：为何旁人成功总令我们心生嫉恨？ [li64nGKV8NUjwEgBIX6IORoRjmbo].md",
+          "key": "zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》625丨揭秘人性暗面：为何旁人成功总令我们心生嫉恨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/coercedpraiseconformityrisk/"
     },
     "CoercedTalentLegitimacy": {
       "episode_count": 4,
@@ -32823,6 +32855,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/gongfuxiong/"
+    },
+    "GongsunHongLangyaWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》625丨揭秘人性暗面：为何旁人成功总令我们心生嫉恨？ [li64nGKV8NUjwEgBIX6IORoRjmbo].md",
+          "key": "zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》625丨揭秘人性暗面：为何旁人成功总令我们心生嫉恨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/gongsunhonglangyawesternhan/"
     },
     "GongsunKangLateHan": {
       "episode_count": 1,
@@ -92241,9 +92289,9 @@
       "url": "/wiki/entities/zhebingshuolaihuachang/"
     },
     "ZhenFengXinOfficial": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？ [lnC6E3DGxXnrYlkFQZGl2rO9gPbJ].md",
@@ -92258,9 +92306,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》629丨刘家人，谁扛起反抗王莽的大旗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》625丨揭秘人性暗面：为何旁人成功总令我们心生嫉恨？ [li64nGKV8NUjwEgBIX6IORoRjmbo].md",
+          "key": "zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》625丨揭秘人性暗面：为何旁人成功总令我们心生嫉恨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/zhenfengxinofficial/"
     },
     "ZhenXunXinOfficial": {

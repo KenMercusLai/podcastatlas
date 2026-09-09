@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1638
+topic_total_pages: 1640
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2201,6 +2201,9 @@ topic_entities:
   - key: "GongsunCao"
     title: "公孙操 / Gongsun Cao"
     url: "/wiki/entities/gongsuncao/"
+  - key: "GongsunHongLangyaWesternHan"
+    title: "公孙洪 / Gongsun Hong (Langya, Western Han)"
+    url: "/wiki/entities/gongsunhonglangyawesternhan/"
   - key: "GongsunJia"
     title: "公孙贾 / Gongsun Jia"
     url: "/wiki/entities/gongsunjia/"
@@ -3086,6 +3089,9 @@ topic_entities:
   - key: "BanZhaoLateHan"
     title: "班昭 / Ban Zhao (late Han)"
     url: "/wiki/entities/banzhaolatehan/"
+  - key: "BanZhiWesternHan"
+    title: "班至 / Ban Zhi (Western Han)"
+    url: "/wiki/entities/banzhiwesternhan/"
   - key: "ZhenFengXinOfficial"
     title: "甄丰 / Zhen Feng (Xin official)"
     url: "/wiki/entities/zhenfengxinofficial/"

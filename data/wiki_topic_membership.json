@@ -9789,6 +9789,13 @@
       "url": "/topics/history/"
     }
   ],
+  "BanZhiWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "BanalityOfEvil": [
     {
       "key": "politics",
@@ -28077,6 +28084,13 @@
     }
   ],
   "GongsunCao": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "GongsunHongLangyaWesternHan": [
     {
       "key": "history",
       "label": "History",

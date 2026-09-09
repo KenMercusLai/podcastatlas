@@ -16693,6 +16693,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》625丨揭秘人性暗面：为何旁人成功总令我们心生嫉恨？
+
+Added source note for the 2026-06-01 芮淇讲透资治通鉴 episode on Wang Mang's 5 CE praise environment, Ban Zhi's protected retreat, Gongsun Hong's execution, Zhen Feng's accusation channel, and survival under coerced auspicious reporting. Created Ban Zhi, Gongsun Hong (Langya), and Coerced Praise Conformity Risk pages; updated Zhen Feng. No settled contradiction found; Wang Yun, the other envoys, detailed petition wording, local accusers, and Wang Mang's inner motives remain source-scoped.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》627-2丨【女性必听】经期禁忌的文化脉络与女性社会地位变迁
 
 Added source note for the 2026-06-01 芮淇讲透资治通鉴 PLUS episode on menstrual euphemism, blood-pollution taboo, local custom, religious and marriage restrictions, intergenerational shame, body knowledge, and self-care. Migrated and updated Menstrual Stigma with a Chinese historical-folkloric branch. No settled contradiction found; local custom examples and the broader claim about women's social status remain source-scoped.
@@ -16722,6 +16726,10 @@ Added source note for a 电影巨辩 episode on AI cinema from Frankenstein thro
 ## [2026-09-10] ingest | 电影里的AI：情人、巨婴和独裁者
 
 Added source note for a 电影巨辩 episode on AI cinema from Frankenstein through 《人工智能》, 《她》, 《机械姬》, and 《黑客帝国》. Key claims: AI films repeatedly turn technical intelligence into creator responsibility, programmed love, simulated reality, Turing-test judgment, embodiment, and modern subjectivity problems.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
