@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [frontier, diplomacy, military, state-capacity, xin-dynasty]
 sources:
   - zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko
+  - zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy
 last_updated: 2026-09-09
 ---
 
@@ -14,7 +15,9 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] grounds the concept in Wang Mang's handling of [[Xiongnu|Xiongnu]] succession politics. After Xiongnu leadership changes, envoys come to Chang'an for reward and tribute. [[WangMang|王莽]] uses force to seize or coerce Xiongnu-linked figures, brings them to Chang'an, titles Xu Bu Dang, and plans to support him with a large army.
+[[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] now gives the concept an earlier 12 CE layer. Wang Mang's side demotes the Juting king, signals for a local official to kill him by deception, and tries to force [[GoguryeoLateHan|Goguryeo]] troops into an anti-[[Xiongnu|Xiongnu]] campaign; both moves create rebellion or flight because frontier actors are coerced without credible consent management. [[YanYouXinGeneral|严尤]] warns in the Goguryeo branch that blame-shifting and pressure can turn a limited problem into broader frontier revolt.
+
+[[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] then grounds the concept in Wang Mang's handling of Xiongnu succession politics. After Xiongnu leadership changes, envoys come to Chang'an for reward and tribute. [[WangMang|王莽]] uses force to seize or coerce Xiongnu-linked figures, brings them to Chang'an, titles Xu Bu Dang, and plans to support him with a large army.
 
 The intervention lacks support. The army cannot be assembled, the move angers Xiongnu actors, raids worsen, and the response forces new burdens onto the interior. The source therefore treats the error as more than diplomatic insult: frontier ambition exposes the regime's mismatch between symbolic control and usable capacity.
 
@@ -22,12 +25,16 @@ The intervention lacks support. The army cannot be assembled, the move angers Xi
 
 - A court can create a larger frontier problem by trying to control succession without enforceable leverage.
 - Hostage, title, and installation tactics require credible follow-through; otherwise they become provocation.
+- Demotion, assassination, and forced auxiliary recruitment can create frontier revolt when they bypass consent and local legitimacy.
 - Frontier intervention is especially dangerous when the domestic base is already in rebellion.
 - Intelligence channels can be damaged if useful frontier intermediaries are turned into ordinary captives or court dependents.
 - Unsupported intervention often creates a fiscal bridge to internal unrest because the center tries to fund credibility after the fact.
 
 ## Evidence
 
+- Southwestern provocation: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] says Wang Mang's officials demote the Juting king, use deceptive killing, and trigger revenge by the king's brother.
+- Goguryeo coercion: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] says Goguryeo troops are forced toward an anti-Xiongnu campaign, flee the border, and are blamed for subsequent disorder.
+- Frontier warning: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] says Yan You warns that harsh handling may drive Goguryeo into full rebellion and pull in nearby groups such as Buyeo.
 - Succession opening: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says Xiongnu leadership changes and the new ruler sends envoys or relatives for tribute and reward.
 - Coercive move: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says Wang Mang uses force to bring Xiongnu-linked figures to Chang'an.
 - Installation plan: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says Wang Mang titles Xu Bu Dang and plans to help him take power over Xiongnu.
@@ -37,11 +44,12 @@ The intervention lacks support. The army cannot be assembled, the move angers Xi
 
 ## Counterevidence & Qualifications
 
-The source does not give a complete Xiongnu-side account or prove exactly how each actor understood Wang Mang's move. Xu Bu Dang, Xu Bu Can, Wang Xi, and the named chanyu forms remain source-scoped. The concept should be used where intervention is linked to missing follow-through capacity, not for every frontier appointment or hostage-taking case.
+The sources do not give a complete frontier-side account or prove exactly how each actor understood Wang Mang's moves. Hanji 645 keeps Juting, Goguryeo, Buyeo, and local office details source-scoped; Hanji 655 keeps Xu Bu Dang, Xu Bu Can, Wang Xi, and the named chanyu forms source-scoped. The concept should be used where intervention is linked to missing follow-through capacity, not for every frontier appointment, title, hostage, or military request.
 
 ## What Changed
 
-- Created the concept from Hanji 655's Xiongnu succession-intervention branch.
+- Added Hanji 645 as an earlier Xin frontier layer involving Juting demotion/assassination and coercive Goguryeo recruitment.
+- Preserved Hanji 655 as the Xiongnu succession-intervention branch.
 
 ## Related Concepts
 

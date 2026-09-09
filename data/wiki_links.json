@@ -10867,6 +10867,10 @@
     "title": "陈豨之乱 / Chen Xi Rebellion",
     "url": "/wiki/entities/chenxirebellion/"
   },
+  "ChenXianXinOfficial": {
+    "title": "陈贤 / Chen Xian (Xin-era official)",
+    "url": "/wiki/entities/chenxianxinofficial/"
+  },
   "ChenYiJinchengLateHan": {
     "title": "陈懿 / Chen Yi (Jincheng)",
     "url": "/wiki/entities/chenyijinchenglatehan/"
@@ -28407,6 +28411,10 @@
     "title": "Institutional Mechanism Satire",
     "url": "/wiki/concepts/institutionalmechanismsatire/"
   },
+  "InstitutionalMemoryConcealment": {
+    "title": "制度记忆隐匿保存 / Institutional Memory Concealment",
+    "url": "/wiki/concepts/institutionalmemoryconcealment/"
+  },
   "InstitutionalOvercompliance": {
     "title": "Institutional Overcompliance",
     "url": "/wiki/concepts/institutionalovercompliance/"
@@ -40775,6 +40783,10 @@
     "title": "Nominal Authority Mobilization Trap / 虚名权威动员陷阱",
     "url": "/wiki/concepts/nominalauthoritymobilizationtrap/"
   },
+  "NominalTitleInflation": {
+    "title": "名义爵位通胀 / Nominal Title Inflation",
+    "url": "/wiki/concepts/nominaltitleinflation/"
+  },
   "NonAlcoholicBeerGrowth": {
     "title": "Non-Alcoholic Beer Growth / 无醇啤酒增长",
     "url": "/wiki/concepts/nonalcoholicbeergrowth/"
@@ -45242,6 +45254,10 @@
   "PrivateInterestAsPublicUse": {
     "title": "Private Interest As Public Use / 私利转公功",
     "url": "/wiki/concepts/privateinterestaspublicuse/"
+  },
+  "PrivateInterestDisasterNeglect": {
+    "title": "私利优先的灾害搁置 / Private-Interest Disaster Neglect",
+    "url": "/wiki/concepts/privateinterestdisasterneglect/"
   },
   "PrivateLabelBrandRisk": {
     "title": "Private Label Brand Risk",
@@ -70846,6 +70862,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy": {
+    "title": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy/"
   },
   "zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv": {
     "title": "《资治通鉴·汉纪》647丨十三朝古都洛阳，为何至关重要？",

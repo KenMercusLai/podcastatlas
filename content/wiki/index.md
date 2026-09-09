@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？](sources/zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy.md) — 12 CE Wang Mang backfill on Chen Xian's principled withdrawal, Han institutional-memory concealment, Yellow River non-repair, Xiongnu hostage rupture, empty noble-title inflation, and coercive frontier escalation.
 - [《资治通鉴·汉纪》647丨十三朝古都洛阳，为何至关重要？](sources/zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv.md) — 芮淇讲透资治通鉴 episode on Wang Mang's 14 CE Luoyang relocation plan, Luoyang's armory and "天下之中" centrality, Xin ritual-site preparation, administrative renaming churn, omen politics, and fragile Xiongnu heqin after hostage execution.
 - [史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界](sources/shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhLhohpUHBpofcWXtzOuxDIvRber.md) — 史蒂夫说 episode with Liang Yi on Steve's gradual new fatherhood, parenting as relationship formation, love as attention reorganization, nonviolent communication, slow child development, and growth witnessing.
 - [The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel](sources/all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065.md) — All-In liquidity panel on Cerebras and Planet Labs as IPO-return cases, covering public-company credibility, post-IPO hold discipline, AI silicon, daily Earth observation, and orbital data-center economics.
@@ -2063,6 +2064,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [陈贤 / Chen Xian (Xin-era official)](entities/ChenXianXinOfficial.md) — Former Han legal specialist who withdraws from Wang Mang's court while preserving Han ritual timing and legal texts.
 - [Planet Labs](entities/PlanetLabs.md) — Public Earth-observation company used by All-In to connect daily satellite imaging, customer credibility, government demand, and AI over real-world data.
 - [Will Marshall](entities/WillMarshall.md) — Planet Labs co-founder explaining public-market credibility, satellite miniaturization, daily Earth imaging, and orbital data-center economics in the All-In liquidity panel.
 - [Huangdi Neijing / 《黄帝内经》](entities/HuangdiNeijing.md) — classical Chinese medical text used in Hanji 651 as anatomy-history background before Wang Mang's punitive dissection branch.
@@ -11488,6 +11490,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [制度记忆隐匿保存 / Institutional Memory Concealment](concepts/InstitutionalMemoryConcealment.md) — Preservation tactic where texts, procedures, and ritual timing survive privately when public service would legitimize a ruptured order.
+- [名义爵位通胀 / Nominal Title Inflation](concepts/NominalTitleInflation.md) — Rank-system failure where titles and fiefs proliferate faster than land, revenue, duty, or administrative support.
+- [私利优先的灾害搁置 / Private-Interest Disaster Neglect](concepts/PrivateInterestDisasterNeglect.md) — Disaster-governance failure where public repair is delayed because displaced harm protects the ruler's private interest.
 - [Administrative Renaming Overreach / 行政改名过度](concepts/AdministrativeRenamingOverreach.md) — Xin-era governance failure where auspicious office and place renaming makes administration less legible.
 - [Ritual Capital Centrality / 礼制中心式都城合法性](concepts/RitualCapitalCentrality.md) — Capital-legitimacy pattern where a site gains authority through classical centrality, ritual geography, and inherited institutions.
 - [Gradual Parent-Child Relationship / 渐进式亲子关系](concepts/GradualParentChildRelationship.md) — Parenting frame where attachment, recognition, trust, and the child's entry into reality develop through repeated interaction and regulated pacing.

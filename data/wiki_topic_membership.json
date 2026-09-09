@@ -33135,6 +33135,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "InstitutionalMemoryConcealment": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "InstitutionalPolicyPluralism": [
     {
       "key": "economics",
@@ -45439,6 +45446,13 @@
       "url": "/topics/history/"
     }
   ],
+  "NominalTitleInflation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "NonAlcoholicBeerGrowth": [
     {
       "key": "science",
@@ -50606,6 +50620,18 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PrivateInterestDisasterNeglect": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     },
     {
       "key": "politics",

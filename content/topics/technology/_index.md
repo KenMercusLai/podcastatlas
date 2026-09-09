@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2833
+topic_total_pages: 2834
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3916,6 +3916,9 @@ topic_concepts:
   - key: "CourtDemandDrivenPapermaking"
     title: "宫廷需求驱动造纸 / Court-Demand-Driven Papermaking"
     url: "/wiki/concepts/courtdemanddrivenpapermaking/"
+  - key: "PrivateInterestDisasterNeglect"
+    title: "私利优先的灾害搁置 / Private-Interest Disaster Neglect"
+    url: "/wiki/concepts/privateinterestdisasterneglect/"
 topic_entities:
   - key: "OneX"
     title: "1X"

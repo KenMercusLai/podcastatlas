@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6817
+wiki_total_pages: 6820
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -389,6 +389,9 @@ wiki_pages:
   - key: "NortheastModernityTestSite"
     title: "东北现代性试验场 / Northeast Modernity Test Site"
     url: "/wiki/concepts/northeastmodernitytestsite/"
+  - key: "NominalTitleInflation"
+    title: "名义爵位通胀 / Nominal Title Inflation"
+    url: "/wiki/concepts/nominaltitleinflation/"
   - key: "NewlyAttachedRegionLeniency"
     title: "新附地区宽缓治理 / Newly Attached Region Leniency"
     url: "/wiki/concepts/newlyattachedregionleniency/"

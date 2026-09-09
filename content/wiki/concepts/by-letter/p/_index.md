@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6817
+wiki_total_pages: 6820
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1835,6 +1835,9 @@ wiki_pages:
   - key: "PrivateRetainerNetworkRisk"
     title: "私人宾客网络风险 / Private Retainer Network Risk"
     url: "/wiki/concepts/privateretainernetworkrisk/"
+  - key: "PrivateInterestDisasterNeglect"
+    title: "私利优先的灾害搁置 / Private-Interest Disaster Neglect"
+    url: "/wiki/concepts/privateinterestdisasterneglect/"
   - key: "PrivateFavorAppointmentErosion"
     title: "私恩任官侵蚀 / Private-Favor Appointment Erosion"
     url: "/wiki/concepts/privatefavorappointmenterosion/"

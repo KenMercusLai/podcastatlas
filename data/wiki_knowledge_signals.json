@@ -12260,6 +12260,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/chenshoutaishilinglatehan/"
     },
+    "ChenXianXinOfficial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？ [lvdqcaKza0ZqExTrhymPnPsWXyYj].md",
+          "key": "zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/chenxianxinofficial/"
+    },
     "ChenYuanEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -16524,9 +16540,9 @@
       "url": "/wiki/concepts/crisisprioritymisalignment/"
     },
     "CrisisWithdrawalSelfProtection": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？ [lsUvt_KSP_gfGGC9RIqQOVJSWkG_].md",
@@ -16555,9 +16571,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》793丨历史著名女皇邓绥怎么死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？ [lvdqcaKza0ZqExTrhymPnPsWXyYj].md",
+          "key": "zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-09",
       "url": "/wiki/concepts/crisiswithdrawalselfprotection/"
     },
     "CriticalPathMethodPersonalPlanning": {
@@ -38694,6 +38717,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/instinctpersonalai/"
     },
+    "InstitutionalMemoryConcealment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？ [lvdqcaKza0ZqExTrhymPnPsWXyYj].md",
+          "key": "zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/institutionalmemoryconcealment/"
+    },
     "InstitutionalPolicyPluralism": {
       "episode_count": 1,
       "show_count": 1,
@@ -55219,6 +55258,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/nomadiccavalryraidingasymmetry/"
     },
+    "NominalTitleInflation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？ [lvdqcaKza0ZqExTrhymPnPsWXyYj].md",
+          "key": "zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/nominaltitleinflation/"
+    },
     "NonAlgorithmicCapabilities": {
       "episode_count": 2,
       "show_count": 1,
@@ -61375,6 +61430,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/privatefavorappointmenterosion/"
+    },
+    "PrivateInterestDisasterNeglect": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？ [lvdqcaKza0ZqExTrhymPnPsWXyYj].md",
+          "key": "zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/privateinterestdisasterneglect/"
     },
     "PrivateLetterPoliticalWeaponization": {
       "episode_count": 2,
@@ -78234,9 +78305,9 @@
       "url": "/wiki/concepts/unrighteousmeritreward/"
     },
     "UnsupportedFrontierIntervention": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》655丨万众归心到民怨沸腾，王莽做错了哪一步？ [lseoPbZgmAS0HyjRliIkzgp5OxkO].md",
@@ -78244,6 +78315,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》655丨万众归心到民怨沸腾，王莽做错了哪一步？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？ [lvdqcaKza0ZqExTrhymPnPsWXyYj].md",
+          "key": "zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy/"
         }
       ],
       "updated": "2026-09-09",
@@ -84882,9 +84960,9 @@
       "url": "/wiki/entities/yanxiangcheshilatehan/"
     },
     "YanYouXinGeneral": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》664丨昆阳之战：决定国运的历史转折点 [lihRWAwP4x1w1pn4Aibdohq4_L_4].md",
@@ -84899,6 +84977,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》655丨万众归心到民怨沸腾，王莽做错了哪一步？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？ [lvdqcaKza0ZqExTrhymPnPsWXyYj].md",
+          "key": "zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy/"
         }
       ],
       "updated": "2026-09-09",

@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-09] ingest | 《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？
+
+Ingested the 2026-06-05 芮淇讲透资治通鉴 episode backfilling 12 CE early-Xin crisis through Chen Xian's principled withdrawal, Han ritual and legal-memory preservation, Wang Mang's Yellow River non-repair, Xiongnu hostage execution, unsupported noble-title proliferation, policy churn, and coercive frontier escalation. Added source `zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy`; created `ChenXianXinOfficial`, `InstitutionalMemoryConcealment`, `NominalTitleInflation`, and `PrivateInterestDisasterNeglect`; updated `CrisisWithdrawalSelfProtection`, `UnsupportedFrontierIntervention`, `YanYouXinGeneral`, `index`, and `overview`. No settled contradiction found; minor officials, scholars, frontier actors, exact title counts, and Yellow River hydrology remain source-scoped.
+
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》647丨十三朝古都洛阳，为何至关重要？
 
 Added source note for Hanji 647. Key claims: Luoyang's capital value combines armory control and "天下之中" ritual centrality; Wang Mang's delayed relocation still drives Luoyang ritual-site preparation; Xin administrative renaming creates legibility costs; and Xiongnu heqin diplomacy is fragile because Luanti Xian's hostage son has already been executed.
@@ -16462,6 +16466,10 @@ Added source note for Hanji 651. Key claims: Hetu-Luoshu and "earth suppresses w
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》649丨官场里的人情世故有多现实？
 
 Added source note for Hanji 649. Key claims: the yellow-dragon rumor is read as a legitimacy threat to Wang Mang; Chen Qing is killed as a diplomatic scapegoat before the Xiongnu corpse-return mission; ritual and classical ordering consume administrative attention; local vacancies, intrusive inspection, tax pressure, bribery, and official risk avoidance expose early late-Xin office paralysis.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

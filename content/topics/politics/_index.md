@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2282
+topic_total_pages: 2285
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3478,6 +3478,9 @@ topic_concepts:
   - key: "CoerciveImplicationCascade"
     title: "刑讯攀引扩大 / Coercive Implication Cascade"
     url: "/wiki/concepts/coerciveimplicationcascade/"
+  - key: "InstitutionalMemoryConcealment"
+    title: "制度记忆隐匿保存 / Institutional Memory Concealment"
+    url: "/wiki/concepts/institutionalmemoryconcealment/"
   - key: "TenKingdomsRelationshipTypes"
     title: "十国关系类型 / Ten Kingdoms Relationship Types"
     url: "/wiki/concepts/tenkingdomsrelationshiptypes/"
@@ -3502,6 +3505,9 @@ topic_concepts:
   - key: "HezongAlliance"
     title: "合纵 / Hezong Alliance"
     url: "/wiki/concepts/hezongalliance/"
+  - key: "NominalTitleInflation"
+    title: "名义爵位通胀 / Nominal Title Inflation"
+    url: "/wiki/concepts/nominaltitleinflation/"
   - key: "EliteEndorsementReputationMaking"
     title: "名士背书式造势 / Elite-Endorsement Reputation Making"
     url: "/wiki/concepts/eliteendorsementreputationmaking/"
@@ -3721,6 +3727,9 @@ topic_concepts:
   - key: "PrivateRetainerNetworkRisk"
     title: "私人宾客网络风险 / Private Retainer Network Risk"
     url: "/wiki/concepts/privateretainernetworkrisk/"
+  - key: "PrivateInterestDisasterNeglect"
+    title: "私利优先的灾害搁置 / Private-Interest Disaster Neglect"
+    url: "/wiki/concepts/privateinterestdisasterneglect/"
   - key: "TaxationStabilityTradeoff"
     title: "税赋与地方稳定权衡 / Taxation-Stability Tradeoff"
     url: "/wiki/concepts/taxationstabilitytradeoff/"
