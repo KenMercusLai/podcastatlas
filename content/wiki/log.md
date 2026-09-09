@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-09] ingest | 《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝
+
+Ingested the 2026-06-02 芮淇讲透资治通鉴 episode backfilling 5 CE Wang Mang succession and acting-emperor politics after Han Pingdi's death. Added source `zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc`; updated `HanPingdi`, `RuziYing`, `WangZhengjun`, `FumingMonopolyBackfire`, `ControllableChildAccession`, and `PostUsurpationLegitimacyConsolidation`. No settled contradiction found; Meng Tong, Wang Shun's private motive, the adult Liu candidate field, the legal force of "兄弟不得相为后," and whether the white stone was staged remain source-scoped.
+
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》635丨被王莽偷家后，刘氏皇族何去何从？
 
 Ingested the 2026-06-03 芮淇讲透资治通鉴 episode backfilling 9 CE early-Xin handling of the Liu royal house through Liu-surname commandery governors being moved away from territorial posts, Liu Ying's managed Ding'an Palace confinement, mass office and place-name recoding, Wang-clan mourning-grade title distribution, and former Han title downgrades. Added source `zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp`; created `PostUsurpationRoyalHouseContainment`; updated `PostUsurpationLegitimacyConsolidation`, `AdministrativeRenamingOverreach`, `NominalTitleInflation`, `index`, and `overview`. No settled contradiction found; individual Liu-branch motives, exact title lists, full renamed-office geography, and palace-control details remain source-scoped.
@@ -16664,6 +16668,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | Bill Ackman: Investment Strategy, What the Market is Missing, How AI Breaks Businesses
 
 Added source note for the 2026-06-03 All-In interview with Bill Ackman on quality value investing, Pershing Square activism, AI disruption risk, venture-style underwriting of SpaceX/OpenAI/Anthropic/Palantir, Howard Hughes as a Berkshire-inspired compounding vehicle, and social-media cost of capital. Created Bill Ackman, Pershing Square, Howard Hughes Holdings, Tim Hortons, General Growth Properties, Ben Graham, Quality Value Investing, AI Disruption Risk Investing, Permanent Capital Compounding, and Social Media Cost of Capital pages. No settled contradiction found; valuation, vehicle-discount, and enterprise AI adoption claims remain source-scoped investment opinions.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

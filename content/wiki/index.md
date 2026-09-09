@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝](sources/zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc.md) — 5 CE Wang Mang backfill on Han Pingdi's death, adult Liu-line successor exclusion, young Emperor Xuan descendants as controllable heirs, the white-stone fuming, Wang Zhengjun's pressured approval, and Wang Mang's "摄皇帝" ritual package.
 - [Bill Ackman: Investment Strategy, What the Market is Missing, How AI Breaks Businesses](sources/all-in-with-chamath-jason-sacks-friedberg-bill-ackman-investment-strategy-what-the-market-is-missing-how-ai-breaks-businesses-41519240.md) — All-In interview with Bill Ackman on quality value investing, AI disruption risk, Pershing Square activism, venture-style underwriting, Howard Hughes, and social-media cost of capital.
 - [№194: 赛博冲浪太快，我想回 MacRabbit 的兔子洞里坐一会](sources/anyway-194-anyway-194.md) — Anyway.FM episode connecting MacRabbit-era independent Mac app craft, Espresso, Slicy, and CSS Edit with Codex/Cursor-era designer AI coding and prototype-to-product difficulty.
 - [「人人喊打」的八哥，與台灣的「外來物種」難題](sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42.md) — 端闻 episode with 許正甫 and 馮孟傑 on a Taiwan nightjar livestream, introduced mynas, native/alien species boundaries, driver-versus-passenger invasion causality, and evidence-based humane management.

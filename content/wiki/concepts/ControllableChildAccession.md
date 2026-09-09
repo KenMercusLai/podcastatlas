@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc
   - zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked
   - zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj
-last_updated: 2026-08-29
+  - zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc
+last_updated: 2026-09-09
 ---
 
 ## Definition
@@ -16,7 +17,9 @@ Controllable child accession / 可控幼主继位 is the succession pattern wher
 
 ## Current Synthesis
 
-The earliest current late-Han case now appears after [[EmperorAnOfHan|Emperor An]] dies. In [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]], [[EmpressDowagerYanLateHan|Yan Taihou]] and [[YanXianLateHan|Yan Xian]] choose the young [[LiuYiBeixiangHouLateHan|Beixiang Hou]] rather than the more compelling former crown prince [[EmperorShunOfHan|Liu Bao]]. The source makes the control incentive explicit: youth lowers direct constraint on Yan-family government.
+The concept now has a Wang Mang pre-usurpation precursor before its later late-Han recurrences. In [[zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc|Hanji 628]], [[HanPingdi|汉平帝]] dies and [[WangMang|王莽]] avoids adult Liu-line royals, arguing "兄弟不得相为后" while summoning young Emperor Xuan descendants to Chang'an. The source's point is that genealogy supplies public legitimacy, but age supplies governability.
+
+The earliest current Eastern Han case appears after [[EmperorAnOfHan|Emperor An]] dies. In [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]], [[EmpressDowagerYanLateHan|Yan Taihou]] and [[YanXianLateHan|Yan Xian]] choose the young [[LiuYiBeixiangHouLateHan|Beixiang Hou]] rather than the more compelling former crown prince [[EmperorShunOfHan|Liu Bao]]. The source makes the control incentive explicit: youth lowers direct constraint on Yan-family government.
 
 The second case appears after [[EmperorChongOfHan|Emperor Chong]] dies. In [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|Hanji 825]], [[LiGuLateHan|Li Gu]] urges [[LiangJiLateHan|Liang Ji]] to select an older, wise, and worthy successor who can handle government personally. [[LiuSuanLateHan|Liu Suan]] has the stronger reputation among senior officials, but Liang Ji and [[EmpressDowagerLiangNaLateHan|Liang Na / Liang Taihou]] choose the eight-year-old Liu Zuan, later [[EmperorZhiOfHan|Emperor Zhi]], instead.
 
@@ -31,10 +34,11 @@ The concept is adjacent to [[SuccessionNonDesignationRisk|未定继承人风险]
 - Choosing a controllable ruler may look stabilizing at the moment of succession while creating later factional struggle.
 - A candidate viewed as older, stricter, more legitimate, or independently capable can become threatening precisely because he would govern rather than merely legitimate existing power.
 - The pattern exposes the moral weakness of powerholders who treat public succession as a private control opportunity.
-- The concept should be kept separate from usurpation: the source cases still use Han lineage and accession forms.
+- The concept can serve pre-usurpation or court-faction settings, but it should be separated from formal usurpation itself: the child candidate still works through accepted lineage and accession forms.
 
 ## Evidence
 
+- Wang Mang young-heir search: [[zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc|Hanji 628]] says Wang Mang excludes adult descendants and moves the post-Pingdi succession search toward young Emperor Xuan descendants.
 - Yan child-accession case: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] says Yan Taihou and Yan Xian choose the young Beixiang Hou after Emperor An's death so the Yan family can govern behind him.
 - Excluded alternative: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] says Liu Bao is Emperor An's son and mourns visibly, but his prior demotion leaves him excluded from the Yan settlement.
 - Liang older-ruler advice: [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|Hanji 825]] says Li Gu tells Liang Ji that the new ruler should be older, wise, virtuous, and able to govern personally.
@@ -45,11 +49,12 @@ The concept is adjacent to [[SuccessionNonDesignationRisk|未定继承人风险]
 
 ## Counterevidence & Qualifications
 
-The controllability reading is source-scoped in all three source notes. Hanji 802 directly frames Beixiang Hou's youth as useful to Yan control, but it does not settle his full lineage or personal capacity. Hanji 825 does not fully prove Liang Ji and Liang Na's private reasoning beyond their rejection of Li Gu's older-ruler argument and their choice of an eight-year-old. Hanji 879 similarly gives the control motive as the host's political interpretation. None of the cases denies that Liu Yi, Liu Zuan, or Liu Hong had usable Han lineage.
+The controllability reading is source-scoped in all four source notes. Hanji 628 supports Wang Mang's preference for young descendants after Pingdi, but it does not independently prove the full formal-law validity of "brothers cannot succeed one another" or every adult claimant's feasibility. Hanji 802 directly frames Beixiang Hou's youth as useful to Yan control, but it does not settle his full lineage or personal capacity. Hanji 825 does not fully prove Liang Ji and Liang Na's private reasoning beyond their rejection of Li Gu's older-ruler argument and their choice of an eight-year-old. Hanji 879 similarly gives the control motive as the host's political interpretation. None of the cases denies that the selected Liu-line candidates had usable Han lineage.
 
 ## What Changed
 
-- Added Hanji 802 as the earliest current late-Han child-accession case after Emperor An's death.
+- Added Hanji 628 as a pre-usurpation Wang Mang case where the child-heir search follows Han Pingdi's death.
+- Preserved Hanji 802 as the earliest current Eastern Han child-accession case after Emperor An's death.
 - Reframed Hanji 825 as the second Liang-family recurrence rather than the first current case.
 - Preserved Hanji 879 as the later Dou-family recurrence after Emperor Huan's childless death.
 - Strengthened the distinction between legitimate lineage and practical governability.
@@ -60,6 +65,7 @@ The controllability reading is source-scoped in all three source notes. Hanji 80
 - [[QueenMotherRegency|太后摄政]] - overlapping structure in which a dowager can rule around a young monarch.
 - [[OuterRelativeCourtPower|外戚专权与清算]] - kin-power frame for relatives who convert accession into court influence.
 - [[MingqiLegitimacy|名器合法性]] - formal title and ritual frame that makes the child candidate publicly usable.
+- [[FumingMonopolyBackfire|符命垄断反噬]] - Wang Mang-specific neighbor where a sacred sign upgrades the controller while the child heir remains pending.
 - [[SelfProtectiveAccessionChoice|自保式继位选择]] - related candidate-selection logic where incumbent safety overrides state suitability.
 - [[PowerMonopolyBackfire|一家独大式权力反噬]] - downstream risk when selecting a child ruler supports a monopoly strategy that threatens other actors.
 - [[CoercedImperialReplacement|胁迫式废立]] - contrast case where force replaces an emperor rather than selecting a child through an accession gap.

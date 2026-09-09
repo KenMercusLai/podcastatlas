@@ -16123,9 +16123,9 @@
       "url": "/wiki/concepts/controlpreservinggrowthcapital/"
     },
     "ControllableChildAccession": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人 [lqz5_Mpi0WAA_xmUHJHwkAECjJRC].md",
@@ -16147,9 +16147,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》802丨安帝之死！东汉王朝权力大洗牌！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝 [llJocpGP247G7frbrkta39ZRtlcF].md",
+          "key": "zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-09",
       "url": "/wiki/concepts/controllablechildaccession/"
     },
     "CooksWhoFeed": {
@@ -30404,9 +30411,9 @@
       "url": "/wiki/concepts/fugitivesheltercollateralrisk/"
     },
     "FumingMonopolyBackfire": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？ [lnC6E3DGxXnrYlkFQZGl2rO9gPbJ].md",
@@ -30414,6 +30421,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝 [llJocpGP247G7frbrkta39ZRtlcF].md",
+          "key": "zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc/"
         }
       ],
       "updated": "2026-09-09",
@@ -34499,6 +34513,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/hanmenglatehan/"
+    },
+    "HanPingdi": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝 [llJocpGP247G7frbrkta39ZRtlcF].md",
+          "key": "zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/hanpingdi/"
     },
     "HanRestorationPublicSentiment": {
       "episode_count": 1,
@@ -61958,9 +61995,9 @@
       "url": "/wiki/concepts/postsuccessarrogance/"
     },
     "PostUsurpationLegitimacyConsolidation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》636丨王莽当皇帝后，“神经错乱”了？ [lq-EsSRurb6jdefZjRFgOuJw5uby].md",
@@ -61982,6 +62019,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》635丨被王莽偷家后，刘氏皇族何去何从？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝 [llJocpGP247G7frbrkta39ZRtlcF].md",
+          "key": "zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc/"
         }
       ],
       "updated": "2026-09-09",
@@ -68274,9 +68318,9 @@
       "url": "/wiki/entities/rutgersuniversity/"
     },
     "RuziYing": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》675丨乱世纷争之中，汉武帝如何崛起？ [lrvxU1q4-ysG4Kfxkf25HSwyGfyO].md",
@@ -68291,6 +68335,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》634丨活在男人影子背后的她，惨！惨！惨！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝 [llJocpGP247G7frbrkta39ZRtlcF].md",
+          "key": "zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc/"
         }
       ],
       "updated": "2026-09-09",
@@ -82762,9 +82813,9 @@
       "url": "/wiki/entities/wangyuanweixiaoretainer/"
     },
     "WangZhengjun": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -82786,6 +82837,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》633丨怒砸传国玉玺！她竟如此刚烈！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-633-nuza-chuanguo-yuxi-ta-jing-ruci-ganglie-lnmnwbk28ayllz5fip1a1kzm1ais/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝 [llJocpGP247G7frbrkta39ZRtlcF].md",
+          "key": "zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc/"
         }
       ],
       "updated": "2026-09-09",
