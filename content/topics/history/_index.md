@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1612
+topic_total_pages: 1613
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1282,6 +1282,9 @@ topic_concepts:
   - key: "WudaiSocialMobility"
     title: "五代阶层流动 / Five Dynasties Social Mobility"
     url: "/wiki/concepts/wudaisocialmobility/"
+  - key: "WujunLiuguan"
+    title: "五均六管 / Five Equalizations and Six Controls"
+    url: "/wiki/concepts/wujunliuguan/"
   - key: "MissionaryMapKnowledgeProduction"
     title: "传教士地图知识生产 / Missionary Map Knowledge Production"
     url: "/wiki/concepts/missionarymapknowledgeproduction/"

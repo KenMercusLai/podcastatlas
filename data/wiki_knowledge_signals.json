@@ -79502,6 +79502,29 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/wangmang/"
     },
+    "WangMangReforms": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》653丨把社会主义带回古代？王莽有多神！ [lo7fQI-ZlUJpd3cYMG7UXSUjy4yK].md",
+          "key": "zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》653丨把社会主义带回古代？王莽有多神！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/wangmangreforms/"
+    },
     "WangMiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -81890,6 +81913,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/wuhuizhuizong/"
+    },
+    "WujunLiuguan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》653丨把社会主义带回古代？王莽有多神！ [lo7fQI-ZlUJpd3cYMG7UXSUjy4yK].md",
+          "key": "zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》653丨把社会主义带回古代？王莽有多神！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/wujunliuguan/"
     },
     "WulingManLateHan": {
       "episode_count": 4,

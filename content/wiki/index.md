@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》653丨把社会主义带回古代？王莽有多神！](sources/zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk.md) — 17 CE Wang Mang backfill on 五均六管, price equalization, state monopolies, official lending, merchant-official capture, slave tax, legal overreach, disaster, and survival rebellion.
 - [677. USA: The Star-Spangled Banner (Part 1)](sources/677-usa-the-star-spangled-banner-part-1-glt7890467734.md) — The Rest Is History episode on The Star-Spangled Banner, Fort McHenry, Francis Scott Key, the War of 1812, slavery controversy, official adoption, and anthem protest.
 - [EP386-十一出行不想当大冤种？咱们来听听资深领队的小巧思！](sources/ep386-shiyi-chuxing-bu-xiang-dang-dayuanzhong-zanmen-lai-tingting-zishen-lingdui-de-xiaoqiaosi-gkwrirwodgrhaeuitgtugmxp.md) — 无时差研究所 episode with Daocaoren leader 老宝 on Golden Week travel pricing, route substitution, airfare and hotel tactics, travel-agency operations, and guided-travel boundaries.
 - [猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？](sources/zhurou-jiage-jingli-man-chang-xiadie-weishenme-zhuzhouqi-buzai-zunxun-laojiezou-1012895922.md) — 声动早咖啡 episode explaining why China's pork cycle is staying low longer through scale farming, efficiency gains, demand substitution, and limited downstream absorption.
@@ -11453,6 +11454,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [五均六管 / Five Equalizations and Six Controls](concepts/WujunLiuguan.md) — Wang Mang's 17 CE price, credit, and monopoly program whose livelihood rhetoric fails through merchant-official capture and harsh implementation.
 - [Holiday Peak Travel Planning](concepts/HolidayPeakTravelPlanning.md) — Planning method for concentrated public-holiday travel using element substitution, route timing, nearby airports, flexible hotels, and realistic fare thresholds.
 - [Travel Agency Itinerary Operations](concepts/TravelAgencyItineraryOperations.md) — Product, supplier, route, leader, and backup systems that turn destination ideas into repeatable guided trips.
 - [Pork Cycle / 猪周期](concepts/PorkCycle.md) — Pig-farming price-and-capacity loop now altered by scale farming, productivity, demand substitution, and downstream limits.
@@ -15776,7 +15778,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Moral Reputation as Political Capital / 道德名望政治资本](concepts/MoralReputationPoliticalCapital.md) — Pattern where visible virtue, public sympathy, self-restraint, or filial image become usable power or remembered legitimacy.
 - [Confucian Ideal Governance / 儒家理想治理](concepts/ConfucianIdealGovernance.md) — Episode 126's frame for moralized rule through ritual, hierarchy, ancient models, and scholar support.
 - [Tuogu Reform Politics / 托古改制政治](concepts/TuoguReformPolitics.md) — Reform justified by ancient models, making Wang Mang's changes radical in effect but conservative in authority language.
-- [Wang Mang Reforms / 王莽改制](concepts/WangMangReforms.md) — Policy program of land, currency, monopoly, tax, and credit interventions that episode 126 reads as idealistic and administratively brittle.
+- [Wang Mang Reforms / 王莽改制](concepts/WangMangReforms.md) — Xin policy program of land, currency, monopoly, tax, credit, and price-control interventions now sharpened by Hanji 653's 五均六管 implementation-capture layer.
 - [Confucian Foreign Policy Moralism / 儒家外交道德主义](concepts/ConfucianForeignPolicyMoralism.md) — Frontier diplomacy failure mode where symbolic hierarchy is mistaken for practical border management.
 - [Ideological Overcontrol / 意识形态过度控制](concepts/IdeologicalOvercontrol.md) — Regime pattern where moral, ritual, fiscal, familial, and frontier domains are forced under one totalizing scheme.
 - [Political Assassination Ethics / 政治刺杀伦理](concepts/PoliticalAssassinationEthics.md) — Episode 125's frame for when unlawful political killing can become morally legible without becoming safe or institutionally reparative.

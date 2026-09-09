@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6801
+wiki_total_pages: 6802
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "WudaiSocialMobility"
     title: "五代阶层流动 / Five Dynasties Social Mobility"
     url: "/wiki/concepts/wudaisocialmobility/"
+  - key: "WujunLiuguan"
+    title: "五均六管 / Five Equalizations and Six Controls"
+    url: "/wiki/concepts/wujunliuguan/"
   - key: "WuzhuCoinRestoration"
     title: "五铢钱恢复 / Wuzhu Coin Restoration"
     url: "/wiki/concepts/wuzhucoinrestoration/"
