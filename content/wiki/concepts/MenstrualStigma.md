@@ -2,40 +2,70 @@
 title: "Menstrual Stigma"
 type: concept
 tags: [gender, body, stigma, public-health]
-sources: [ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, 117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341, 15-bijingji-gengnianqi-gei-wo-ziyou-557912552]
-last_updated: 2026-08-07
+sources:
+  - ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d
+  - 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278
+  - 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044
+  - 117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341
+  - 15-bijingji-gengnianqi-gei-wo-ziyou-557912552
+  - zizhi-tongjian-hanji-627-2-nvxing-biting-jingqi-jinji-de-wenhua-mailuo-yu-nvxing-shehui-diwei-bianqian-lrxeziuwvcfgkkzgpugnzby4uref
+last_updated: 2026-09-10
+knowledge_schema: synthesis-v1
 ---
 
 # Menstrual Stigma
 
-Menstrual stigma is the pattern where menstruation is treated as dirty, dangerous, shameful, unlucky, or unspeakable. [[175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]] traces it from Chinese folk and pseudo-scriptural ideas such as blood pollution, through global religious and food-taboo examples, into Japanese menstrual huts, store embarrassment, family concealment, and contemporary arguments over selling sanitary pads on high-speed rail.
+## Definition
 
-[[ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d]] adds first-person menarche and school-life examples through [[WenQi|文淇]], [[YouXiaoying|游晓颖]], and [[DuSujuan|杜素娟]]. The episode shows stigma being learned through a mother's disgust, names like "倒霉了", sanitary pads hidden in sleeves, and black plastic bags at stores.
+Menstrual stigma is the pattern where menstruation is treated as dirty, dangerous, shameful, unlucky, or unspeakable rather than as ordinary physiology.
 
-The concept overlaps with [[ProtectionAsControl]] because claims about purity, safety, and embarrassment often restrict ordinary movement, speech, purchase, and bodily knowledge. It also explains why [[CommercialMenstrualEducation]] can matter: making a product visible and nameable can weaken shame even when the motive is also commercial.
+## Current Synthesis
 
-[[110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278]] extends the page from menstruation into adjacent silence around menopause and aging. The episode starts by noting that words such as menstruation and menopause have become more speakable, then treats "old" as another difficult bodily word that people avoid with politeness.
+The wiki now treats menstrual stigma as a layered social system, not just embarrassment about a product or a private feeling. It can begin in language, when menstruation is renamed through euphemism or disaster words; it can harden into custom, when menstrual blood is framed as pollution or bad luck; and it can become infrastructure, when stores, schools, transport, homes, religious spaces, and clinics make menstruation hard to name or manage.
 
-[[15-bijingji-gengnianqi-gei-wo-ziyou-557912552]] adds the fuller menopause source behind that link. The hosts use [[BijingJi|《闭经记》]] to connect menstrual stains, hidden sanitary pads, male ignorance about cycle duration, blood-pollution taboos, and fear of menopause into one shame system. The source also shows why stigma is not solved by simply hating menstruation: when periods disappear, the same body can feel both relieved and anxious.
+The strongest current judgment is that stigma restricts both knowledge and movement. [[175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]] shows menstrual products becoming public infrastructure only after shame, store embarrassment, school education, and product design are confronted. [[ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d]] shows girls learning shame through family reactions, hidden pads, and black plastic bags. [[zizhi-tongjian-hanji-627-2-nvxing-biting-jingqi-jinji-de-wenhua-mailuo-yu-nvxing-shehui-diwei-bianqian-lrxeziuwvcfgkkzgpugnzby4uref]] adds a Chinese historical-folkloric branch: menstrual restrictions can govern sewing, washing, ritual participation, field work, wells, upstairs movement, laundry, and wedding timing.
 
-[[117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341]] adds a horror-literary echo through [[CursedBunny|《诅咒兔》]]'s story 《头》. The source reads the toilet creature's material origin in hair, excretion, paper, bodily waste, and implied menstrual/reproductive unease as part of [[GenderedDomesticHorror]]: what is treated as dirty or ignorable returns as a speaking figure.
+The concept also connects menstruation to later bodily life. [[15-bijingji-gengnianqi-gei-wo-ziyou-557912552]] and [[110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278]] show that when menstruation, menopause, aging, and women's health are hard to name, people may inherit the same shame system across life stages. [[117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341]] adds a literary edge: horror can make waste, blood, reproduction, aging, and disgust return as visible matter when domestic life tries to keep them unspeakable.
 
 ## Key Claims
-- Stigma works by making a bodily function feel like a private moral failure rather than a public health and infrastructure issue.
-- Concealment creates practical harm: poor education, unsafe substitutes, delayed purchasing, awkward store interfaces, and less pressure for public access.
-- Religious, folk, medical, and commercial language can either intensify stigma or help neutralize it.
-- Reducing stigma does not solve cost, safety, or access by itself, but it makes those issues discussable.
-- Stigma can migrate across life stages: if menstruation and menopause are unspeakable, aging itself can also become hard to name directly.
-- Stigma produces ignorance in non-menstruating people and silence in menstruating people; both effects make pain and practical needs easier to miss.
-- Horror can expose stigma by refusing to keep waste, blood, disgust, reproduction, and aging politely offstage.
-- Episode 254 adds that stigma begins early when menarche is treated as disaster, dirt, or secrecy rather than health, growth, and body knowledge.
+- Stigma turns a bodily function into a moral, ritual, or luck problem.
+- Concealment creates practical harm: poor education, unsafe substitutes, delayed purchasing, awkward store interfaces, and weaker pressure for public access.
+- Folk custom, religion, medicine, commerce, and family education can either intensify stigma or help neutralize it.
+- Stigma restricts ordinary participation when purity, protection, or auspiciousness rules limit movement, work, worship, marriage timing, speech, or bodily self-knowledge.
+- Stigma can migrate across life stages: menstruation, menopause, aging, and women's health become harder to discuss when the same body is treated as shameful.
+- Horror and literature can expose stigma by refusing to keep waste, blood, disgust, reproduction, and aging politely offstage.
 
-## Connections
-- [[SelfPermission]], [[WoXukeFilm|《我许可》]], [[WenQi|文淇]], [[YouXiaoying|游晓颖]], and [[DuSujuan|杜素娟]] - episode 254's menarche and self-permission branch.
-- [[MenstrualProductSocialHistory]] - broader material-history frame.
-- [[AnneSanitaryNapkin|安妮卫生巾]] and [[Kotex]] - brands that had to design around purchase embarrassment.
-- [[MenstrualPublicInfrastructure]] and [[PeriodPoverty]] - public access and affordability consequences.
-- [[FemaleSelfPossession]] - bodily self-knowledge and vocabulary as an agency condition.
-- [[FemaleBodyFreedom]] and [[EmbodiedAging]] - later-life extension into menopause, aging, and bodily vocabulary.
-- [[MenopauseAsFreedom]] and [[BijingJi|《闭经记》]] - menopause-specific branch added by episode 15.
-- [[GenderedDomesticHorror]] and [[GuaitanLiterature|怪谈文学]] - literary-horror extension added by episode 117.
+## Evidence
+
+- Menstruation as dirt, danger, or bad luck: [[175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]] traces folk and religious blood-pollution ideas through menstrual huts, product embarrassment, and public-access disputes; [[zizhi-tongjian-hanji-627-2-nvxing-biting-jingqi-jinji-de-wenhua-mailuo-yu-nvxing-shehui-diwei-bianqian-lrxeziuwvcfgkkzgpugnzby4uref]] adds Chinese classical and local-custom examples, including "月水" pollution language, fear of blood, Mazu worship exclusion, and "撞红" wedding avoidance.
+- Concealment and learned shame: [[ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d]] shows menarche being framed through disgust, "倒霉了," hidden pads, and black plastic bags; [[zizhi-tongjian-hanji-627-2-nvxing-biting-jingqi-jinji-de-wenhua-mailuo-yu-nvxing-shehui-diwei-bianqian-lrxeziuwvcfgkkzgpugnzby4uref]] adds that mothers can transmit behavioral taboos to daughters, turning external custom into internalized shame.
+- Public infrastructure and product mediation: [[175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]] shows pads, tampons, menstrual cups, wrappers, advertising, school pamphlets, and transport retail as infrastructure for making menstruation manageable and speakable; [[ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d]] adds lived evidence that products alone do not remove shame when the social script still requires hiding.
+- Life-stage migration: [[15-bijingji-gengnianqi-gei-wo-ziyou-557912552]] connects menstrual stains, hidden pads, blood-pollution taboo, male ignorance, and menopause anxiety; [[110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278]] extends that silence toward aging, health checks, underwear, shoes, and the difficulty of saying "old" directly.
+- Literary exposure: [[117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341]] uses [[CursedBunny|《诅咒兔》]]'s story 《头》 to show how domestic horror can make ignored waste, blood, reproduction, marriage, aging, and female fear speak back.
+
+## Counterevidence & Qualifications
+
+Not every menstrual rule is identical in motive or effect. Some medical hygiene advice can reduce infection or improve product safety, so the concept should not collapse all body knowledge into oppression.
+
+Reducing shame does not solve cost, quality, toxic-shock risk, school access, transport access, disposal, or tax policy by itself. It makes those problems easier to discuss.
+
+[[zizhi-tongjian-hanji-627-2-nvxing-biting-jingqi-jinji-de-wenhua-mailuo-yu-nvxing-shehui-diwei-bianqian-lrxeziuwvcfgkkzgpugnzby4uref]] gives concentrated illustrative examples rather than a complete comparative history of menstrual taboo or women's social status.
+
+## What Changed
+
+- Added a Chinese historical-folkloric branch showing menstrual stigma as rules over labor, worship, household space, laundry, and wedding timing.
+- Reframed the page from legacy source-led paragraphs into a synthesis-first `synthesis-v1` concept page.
+- Clarified that menstrual stigma acts through both internalized shame and external participation restrictions.
+
+## Related Concepts
+
+- [[MenstrualProductSocialHistory]] - material-history frame for menstrual products as social infrastructure.
+- [[MenstrualPublicInfrastructure]] - public-access consequence of menstrual stigma.
+- [[PeriodPoverty]] - affordability and access consequence that stigma can hide.
+- [[CommercialMenstrualEducation]] - mechanism that can make menstruation more visible and nameable.
+- [[ProtectionAsControl]] - adjacent pattern where purity or care language restricts agency.
+- [[GenderedMedicalization]] - adjacent pattern where medical language can help or pathologize women's bodies.
+- [[FemaleSelfPossession]] - agency frame grounded in bodily knowledge and vocabulary.
+- [[FemaleBodyFreedom]] - broader freedom frame for menstruation, menopause, aging, clothing, and health.
+- [[GenderedDomesticHorror]] - literary mode that exposes hidden bodily and domestic stigma.
+- [[ChineseFolkReligionLayering]] - ritual-custom context for menstrual exclusion rules.
