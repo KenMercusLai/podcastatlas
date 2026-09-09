@@ -26,6 +26,7 @@ sources:
   - zizhi-tongjian-hanji-637-wangmang-zhen-de-shi-chuanyue-huangdi-ma-lgmv5dyowr6wklrbp42qmmd3biun
   - zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab
   - zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j
+  - zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb
 last_updated: 2026-09-10
 ---
 
@@ -37,7 +38,7 @@ Wang Mang / 王莽 is synthesized as the Xin founder whose rise depended on late
 
 Wang Mang's core wiki role remains the late-Western-Han legitimacy reversal. The Xiangrui source argues that Han founding myths and Heaven-centered rule made the Liu house sacred, but also made it thinkable that Heaven could transfer approval elsewhere. Wang Mang turns filial reputation, self-denial, family-punishment performance, and omen production into political capital while moving from regent to emperor.
 
-Hanji 622 adds an earlier cultural-administrative image layer. Before the later mass petitions, fuming, and coercive praise sequences, Wang Mang already uses ritual-building proposals, scholar housing, Taixue expansion, textual standardization, and river-management debate to look like a public-spirited restorer of classical order. This is now tracked as [[FaceProjectGovernance|face-project governance]] because the source stresses the gap between visible project-making and the unimplemented Yellow River program.
+Hanji 622 adds an earlier cultural-administrative image layer. Before the later mass petitions, fuming, and coercive praise sequences, Wang Mang already uses ritual-building proposals, scholar housing, Taixue expansion, textual standardization, and river-management debate to look like a public-spirited restorer of classical order. This is now tracked as [[FaceProjectGovernance|face-project governance]] because the source stresses the gap between visible project-making and the unimplemented Yellow River program. Hanji 623 adds the immediate praise-to-power bridge: ministers turn those visible achievements into a request for higher status and [[JiuXiRitualPromotion|Nine Bestowments]] discussion, while Qiang land-offering rhetoric and auspicious signs let Wang Mang complete a four-directions submission image and propose Xihai Commandery.
 
 Hanji 631 adds that the move from acting emperor to emperor was not only a sign-and-title process. Wang Mang answers the Zhai Yi rebellion by claiming guardianship over Han legitimacy, defeating the rebels, rewarding command, and turning family bodies, graves, and rebel corpses into public warnings. His later light mourning for his mother, punishment of Wang Guang, and acceptance of accession-stage fuming keep the same profile: violence and kin sacrifice are made to look like rule-bound morality.
 
@@ -97,6 +98,8 @@ Hanji 667 supplies the focused death and posthumous-memory layer. Wang Mang's fi
 - Moral reputation and consort-kin access: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] presents Wang Mang's filial, modest, generous public image and Wang Zhengjun's status as practical routes to power.
 - Face-project governance: [[zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j|Hanji 622]] says Wang Mang proposes Ming Tang, Biyong, and Lingtai construction, scholar housing, Taixue expansion, textual specialist recruitment, and Yellow River policy debate as prestige-building governance activity.
 - Execution gap: [[zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j|Hanji 622]] says the Yellow River management effort ultimately does not land, so the source treats the package as image-building rather than proven problem-solving.
+- Praise-to-power bridge: [[zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb|Hanji 623]] says officials compare Wang Mang's four-year achievements favorably to the Duke of Zhou and ask [[WangZhengjun|王政君]] to raise his status.
+- Four-directions submission image: [[zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb|Hanji 623]] says Wang Mang treats tribute and name changes from several directions as virtue evidence, then uses Qiang land-offering rhetoric to supply the western counterpart and propose Xihai Commandery.
 - Pre-accession rebellion suppression: [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|Hanji 631]] says Wang Mang defeats the Zhai Yi rebellion after claiming he protects Han succession and will return power to Ruzi Ying.
 - Title reward after victory: [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|Hanji 631]] says Wang Mang rewards commanders and reorganizes noble ranks after suppressing Zhai Yi and Zhao Peng/Huo Hong-associated forces.
 - Retaliatory body and grave terror: [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|Hanji 631]] says Wang Mang destroys Zhai family graves, kills kin, buries bodies with poisonous creatures, and piles rebel corpses at public routes.
@@ -163,7 +166,7 @@ The wiki does not reduce Wang Mang to a single moral label. The Xiangrui source 
 
 ## What Changed
 
-- Added Hanji 622 as the 4 CE face-project layer: ritual buildings, scholar housing, Taixue expansion, textual and technical specialist recruitment, Yellow River debate, and the execution gap behind political image gain.
+- Added Hanji 623 to the 4 CE layer: Hanji 622's face-project governance now leads into praise-to-power, Xihai, and Nine Bestowments formalization.
 - Preserved Hanji 657 as the 20 CE omen-succession layer, connecting Wang An/Wang Ling title correction, Nine Temples construction, Ma Shiqiu's plot, currency punishment, Tang Zun's austerity, and Zhi Yun's remonstrance.
 - Preserved Hanji 658 and Hanji 659-660-2 as the 21-22 CE crisis layer: household succession shock, frontier requisition, coinage punishment, root-cause reporting suppression, Tian Kuang's removal, Nine Temples spectacle, Chimei origin, official-army abuse, famine-relief corruption, and market misinformation.
 - Preserved Hanji 663-664 as the immediate pre-Kunyang crisis-image, mobilization, battlefield turning point, and public self-vindication layer.
@@ -174,6 +177,8 @@ The wiki does not reduce Wang Mang to a single moral label. The Xiangrui source 
 - [[XinDynasty|新朝]] - regime Wang Mang founded and whose collapse defines his terminal profile.
 - [[WangMangReforms|王莽改制]] - reform program whose opening 王田 and slave-sale ban layer is added by Hanji 637.
 - [[FaceProjectGovernance|面子工程式治理]] - pre-usurpation image-building pattern added by Hanji 622.
+- [[JiuXiRitualPromotion|九锡礼遇]] - ritual-status track whose early discussion Hanji 623 ties to praise of Wang Mang's achievements.
+- [[XihaiExileAdministrativeBurden|西海郡流放和法令增殖]] - frontier commandery track whose praise-backed origin in Hanji 623 leads into legal burden in Hanji 624.
 - [[WesternHanDynasty|西汉]] - dynastic order whose legitimacy crisis enabled Wang Mang's ascent.
 - [[WangZhengjun|王政君]] - consort-kin route through which Wang-family power stayed close to imperial legitimacy.
 - [[ZhaiYiRebellion|翟义起义]] - anti-Wang-Mang uprising whose suppression became a pre-accession legitimacy and terror event.

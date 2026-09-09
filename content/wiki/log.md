@@ -16697,6 +16697,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》623丨马屁还是真心？职场人如何在夸奖与谄媚间找平衡！
+
+Added source note for the 2026-05-31 芮淇讲透资治通鉴 episode on Wang Mang's 4 CE praise-to-power sequence: officials turn Ming Tang prestige into status elevation and Nine Bestowments discussion, tribute stories and Qiang land-offering rhetoric complete a four-directions submission image, and Xihai Commandery becomes the administrative prelude to Hanji 624. Updated Wang Mang, Wang Zhengjun, Face-Project Governance, Nine Bestowments Ritual Promotion, Auspicious Omen Politics, Xihai Exile Administrative Burden, and Coerced Praise Conformity Risk. No settled contradiction found; named envoys, Qiang identities, exact ritual lists, and Wang Mang's private motive remain source-scoped.
+
 ## [2026-09-10] ingest | 675. The First World War: Slaughter at Gallipoli (Part 5)
 
 Added source note for The Rest Is History episode on Churchill's Dardanelles gamble, Ottoman entry, the failed naval assault of March 1915, and the April 25 landings at Anzac Cove and Cape Helles. Key claims: Gallipoli's failure began in optimistic shortcut strategy, ignored naval warnings, escalation after failure, underestimated Ottoman defense, and first-day landings that quickly became trench warfare.
@@ -16750,6 +16754,10 @@ Added source note for a 电影巨辩 episode on AI cinema from Frankenstein thro
 ## [2026-09-10] ingest | 电影里的AI：情人、巨婴和独裁者
 
 Added source note for a 电影巨辩 episode on AI cinema from Frankenstein through 《人工智能》, 《她》, 《机械姬》, and 《黑客帝国》. Key claims: AI films repeatedly turn technical intelligence into creator responsibility, programmed love, simulated reality, Turing-test judgment, embodiment, and modern subjectivity problems.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

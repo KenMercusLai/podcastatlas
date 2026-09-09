@@ -16,7 +16,8 @@ sources:
   - zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq
   - zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9
   - zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj
-last_updated: 2026-09-09
+  - zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb
+last_updated: 2026-09-10
 ---
 
 ## Definition
@@ -27,7 +28,7 @@ Auspicious omen politics / 祥瑞政治 is the political use of favorable signs,
 
 The current evidence shows a spectrum from opportunistic career claims to dynastic replacement. In routine court life, omens could decorate appointment or survival stories, as in Zhang Hao's gold-seal dream. Under coercive rule, a ruler could turn a prediction into a death script, as Dong Zhuo does with Zhang Wen. At the dynastic scale, Qin and Wang Mang cases show signs entering the logic of imperial color, virtue, sacred legitimacy, and transfer of rule.
 
-Hanji 689-3 introduces a material-frontier variant. The [[FiveStarsOutOfTheEastBrocade]] turns a planetary omen phrase into textile, tomb object, possible campaign slogan, and possible Western Regions gift or warning. [[zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9|Hanji 651]] adds a court-flattery variant under [[WangMang|王莽]]: officials read a riverbank collapse and watercourse change through [[HetuLuoshu|河图洛书]] as "earth suppressing water," then convert that sign into confidence that Xiongnu will be defeated. [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|Hanji 642]] adds a monopoly-backfire variant: fuming reports help Wang Mang's accession, then become dangerous once many actors keep using fabricated signs for rank. These cases do not replace military, ecological, or institutional explanation; they show how auspicious formulas could travel across media, landscape, court speech, and bureaucratic reward systems into frontier policy, memory, and purge.
+Hanji 689-3 introduces a material-frontier variant. The [[FiveStarsOutOfTheEastBrocade]] turns a planetary omen phrase into textile, tomb object, possible campaign slogan, and possible Western Regions gift or warning. [[zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb|Hanji 623]] adds a submission-report variant under [[WangMang|王莽]]: a Qiang land-offering report credits Wang Mang and [[WangZhengjun|王政君]]'s virtue through abundant harvest,甘露, springs, phoenixes, and divine birds, then helps legitimate [[XihaiExileAdministrativeBurden|Xihai Commandery]] as the missing western counterpart to other directional commanderies. [[zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9|Hanji 651]] adds a court-flattery variant under Wang Mang: officials read a riverbank collapse and watercourse change through [[HetuLuoshu|河图洛书]] as "earth suppressing water," then convert that sign into confidence that Xiongnu will be defeated. [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|Hanji 642]] adds a monopoly-backfire variant: fuming reports help Wang Mang's accession, then become dangerous once many actors keep using fabricated signs for rank. These cases do not replace military, ecological, or institutional explanation; they show how auspicious formulas could travel across media, landscape, court speech, diplomatic reports, and bureaucratic reward systems into frontier policy, memory, and purge.
 
 Across the page, omen politics works best as a language of compression. A sign can condense uncertainty into confidence, transform ambition into Heaven-backed legitimacy, make an attack look prewritten, or memorialize a victory as cosmically timed. The same logic is unstable: when the claimant lacks virtue, competence, or durable capacity, omen rhetoric can backfire into skepticism, overreach, or retrospective blame.
 
@@ -38,7 +39,7 @@ Across the page, omen politics works best as a language of compression. A sign c
 - The interpreter has power; vague or flexible signs become consequential when a ruler, adviser, text, or artifact narrows their meaning.
 - Material media can carry omen politics, not just speeches and memorials.
 - Landscape events can be reclassified as favorable signs when interpreters choose a cosmological frame that makes disorder look useful.
-- Omen claims can authorize action but rarely explain outcomes by themselves.
+- Submission reports can bundle praise, auspicious signs, and frontier geography so expansion appears to follow naturally from virtuous rule.
 - The same sign system that legitimates a ruler can later expose that ruler to judgment or create uncontrolled imitation if virtue, capacity, or interpretive monopoly fails.
 
 ## Evidence
@@ -49,19 +50,19 @@ Across the page, omen politics works best as a language of compression. A sign c
 - Dynastic replacement technology: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780|Xiangrui on Wang Mang]] shows petitions, auspicious signs, dragon motifs, and chenwei-style evidence helping move Wang Mang from moral reputation toward emperor, then contributing to legitimacy backfire.
 - Technical and religious infrastructure: [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997|Fangshu history part 1]] and [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550|Fangshu history part 2]] explain the yin-yang, five-phases, astrology, fangshi, and chenwei systems that made omen claims durable and reusable.
 - Material-frontier omen politics: [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] presents the five-star brocade as an artifact whose wording can be read through planetary auspiciousness, Zhao Chongguo's Southern Qiang campaign, and Han-Western-Regions diplomatic warning or reassurance.
+- Submission-report omen politics: [[zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb|Hanji 623]] presents Qiang land-offering rhetoric as a cascade of auspicious signs used to explain frontier submission and support Xihai Commandery.
 - Landscape-to-policy omen politics: [[zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9|Hanji 651]] shows Xin officials turning river change into a favorable Hetu-Luoshu omen that supports anti-Xiongnu deployment.
 - Rewarded-sign backfire: [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|Hanji 642]] shows fuming reports becoming dangerous after Wang Mang's accession because rewards encourage others to fabricate signs and seek office.
 
 ## Counterevidence & Qualifications
 
-The sources are evidence for political reasoning, not evidence that omens caused events. Several cases are explicitly source-critical: Qinji 126 separates late-Qin omen pressure from proven causation, Zhouji 68 warns that defeated-ruler memory can amplify a story, and the Wang Mang sources treat auspicious evidence as politically powerful but ultimately fragile. Hanji 642 supports a fuming backfire mechanism but does not prove Wang Mang's inner belief or every actor's conscious fraud. Hanji 651 keeps the river-change reading as court interpretation and policy flattery rather than proof of Xiongnu defeat; Hanji 689-3 keeps the brocade's gift/warning interpretation, right-arm use, and modern planetary comparison as plausible but not settled.
+The sources are evidence for political reasoning, not evidence that omens caused events. Several cases are explicitly source-critical: Qinji 126 separates late-Qin omen pressure from proven causation, Zhouji 68 warns that defeated-ruler memory can amplify a story, and the Wang Mang sources treat auspicious evidence as politically powerful but ultimately fragile. Hanji 623 supports the function of auspicious submission rhetoric but does not prove Qiang motives, report accuracy, or Wang Mang's inner belief. Hanji 642 supports a fuming backfire mechanism but does not prove Wang Mang's inner belief or every actor's conscious fraud. Hanji 651 keeps the river-change reading as court interpretation and policy flattery rather than proof of Xiongnu defeat; Hanji 689-3 keeps the brocade's gift/warning interpretation, right-arm use, and modern planetary comparison as plausible but not settled.
 
 ## What Changed
 
-- Migrated the page to synthesis-v1.
-- Integrated Hanji 642 as a rewarded-sign backfire case under Wang Mang.
-- Integrated Hanji 651 as a landscape-to-policy omen case centered on Hetu-Luoshu interpretation under Wang Mang.
-- Reorganized older examples by mechanism and scale instead of source arrival order.
+- Added Hanji 623 as a submission-report case where auspicious rhetoric helps turn Qiang land-offering into Xihai Commandery legitimacy.
+- Preserved Hanji 642 as a rewarded-sign backfire case under Wang Mang.
+- Preserved Hanji 651 as a landscape-to-policy omen case centered on Hetu-Luoshu interpretation under Wang Mang.
 - Preserved the distinction between omen rhetoric as political evidence and omen rhetoric as sole cause.
 
 ## Related Concepts
