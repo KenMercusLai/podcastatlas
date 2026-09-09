@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6834
+wiki_total_pages: 6837
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "GeneratedWorkInterfaces"
     title: "Generated Work Interfaces"
     url: "/wiki/concepts/generatedworkinterfaces/"
+  - key: "GenerationalEconomicTiming"
+    title: "Generational Economic Timing"
+    url: "/wiki/concepts/generationaleconomictiming/"
   - key: "GenerationalFamilyStrategy"
     title: "Generational Family Strategy / 家族代际战略"
     url: "/wiki/concepts/generationalfamilystrategy/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9438
+wiki_total_pages: 9441
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -254,6 +254,9 @@ wiki_pages:
   - key: "LeoTolstoy"
     title: "Leo Tolstoy / 托尔斯泰"
     url: "/wiki/entities/leotolstoy/"
+  - key: "LeoVamaka"
+    title: "Leo Vamaka"
+    url: "/wiki/entities/leovamaka/"
   - key: "LeonFestinger"
     title: "Leon Festinger / 利昂·费斯廷格"
     url: "/wiki/entities/leonfestinger/"
@@ -392,6 +395,9 @@ wiki_pages:
   - key: "LindaTodich"
     title: "Linda Todich"
     url: "/wiki/entities/lindatodich/"
+  - key: "LindsayCole"
+    title: "Lindsay Cole"
+    url: "/wiki/entities/lindsaycole/"
   - key: "LindseyGraham"
     title: "Lindsey Graham"
     url: "/wiki/entities/lindseygraham/"

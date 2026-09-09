@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-09] ingest | Cost-cutting, quiet guilt and the inflation generation
+
+Ingested the 2026-09-09 Planet Money episode on the "everything all at once" economy, using Lindsay Cole's professional-household cost cutting, Rick Schultz's pension-and-asset retirement comfort, and Leo Vamaka's youth price sensitivity to explain why cooled inflation can still produce sharply different lived experiences. Added source `default-mp3-ywr3ahjkcgo-8dbc38a9b9e4647dbd8e2ebddb601c4e-26201098-default-mp3-ywr3ahjkcgo-8dbc38a9b9e4647dbd8e2ebddb601c4e-26201098`; created `LindsayCole`, `RickSchultz`, `LeoVamaka`, `FinancialStressCognitiveTax`, `InflationShapedConsumerHabits`, and `GenerationalEconomicTiming`; updated `USEconomicExperienceSplit`, `KShapedConsumerSpending`, `RetirementCashFlowSecurity`, `EquityRetirementAssetBinding`, and `index`. No settled contradiction found; listener cases, pay details, retirement benefits, and behavioral examples remain source-scoped.
+
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？
 
 Ingested the 2026-06-05 芮淇讲透资治通鉴 episode backfilling 12 CE early-Xin crisis through Chen Xian's principled withdrawal, Han ritual and legal-memory preservation, Wang Mang's Yellow River non-repair, Xiongnu hostage execution, unsupported noble-title proliferation, policy churn, and coercive frontier escalation. Added source `zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy`; created `ChenXianXinOfficial`, `InstitutionalMemoryConcealment`, `NominalTitleInflation`, and `PrivateInterestDisasterNeglect`; updated `CrisisWithdrawalSelfProtection`, `UnsupportedFrontierIntervention`, `YanYouXinGeneral`, `index`, and `overview`. No settled contradiction found; minor officials, scholars, frontier actors, exact title counts, and Yellow River hydrology remain source-scoped.
@@ -16561,6 +16565,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams
 
 Added source note for the 2026-06-04 Huberman Lab Essentials episode with Nolan Williams on depression, circuit psychiatry, TMS, Stanford Neuromodulation Therapy, psychedelics, ketamine, trauma-memory reconsolidation, and clinical supervision. Created Nolan Williams, Circuit-Based Psychiatry, Transcranial Magnetic Stimulation for Depression, Stanford Neuromodulation Therapy, Memory Reconsolidation Psychiatry, and Psychedelic Clinical Supervision Boundary pages; updated Psychiatric Medication Supervision Boundary and index. No settled contradiction found; ibogaine, ayahuasca, psilocybin, MDMA, ketamine, SNT outcomes, and durability claims remain source-scoped and clinically bounded.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

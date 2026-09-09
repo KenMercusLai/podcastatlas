@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "bdae292c892008ecc50154b7bc182e1b7cb90407dce00c4401dda9ba0ca99f0c",
       "489509ad56cf743fca8d325ff258412a46a4080bb903e734749918e9f3a1a5fa",
       "b3a1fb5dcbfe007e927799ab368dd77078b976ee40ff1fffbdec30b13fd46761",
       "792a209c71d0990d264970c125bc25321b78bbb198c9cd67f35871606258367f",
@@ -602,11 +603,35 @@
       "08ce087b5036dedcaf145e2c88ca51ea2070e265e9815cfe93ea1755ee057d3f",
       "6701e8b392caf729c79e1e660e6d138d48a06b0d176497dfeb0b07df834cfc04"
     ],
-    "paragraph_count": 600
+    "paragraph_count": 601
   },
-  "overview_commit": "190bcf6b17cbc7e8800d8f3ec1799853724b9076",
-  "overview_digest": "ca33b6060cba67d50720fa5652f849dc8d2d583b6ddfdc962ebfb296a8b54e4d",
+  "overview_commit": "26276c168956ef356b9133bd2499568762e618d6",
+  "overview_digest": "570f529922d637db7689b3ea2b419a262fdc39f00f39f85eb22e39accceb0954",
   "paragraphs": [
+    {
+      "id": "bdae292c892008ecc50154b7bc182e1b7cb90407dce00c4401dda9ba0ca99f0c",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[default-mp3-ywr3ahjkcgo-8dbc38a9b9e4647dbd8e2ebddb601c4e-26201098-default-mp3-ywr3ahjkcgo-8dbc38a9b9e4647dbd8e2ebddb601c4e-26201098|Cost-cutting, quiet guilt and the inflation generation]], a [[PlanetMoney]] episode on the \"everything all at once\" [[UnitedStates|U.S.]] economy. It adds [[LindsayCole]], [[RickSchultz]], [[LeoVamaka]], [[FinancialStressCognitiveTax]], [[InflationShapedConsumerHabits]], and [[GenerationalEconomicTiming]], while extending [[USEconomicExperienceSplit]], [[KShapedConsumerSpending]], [[RetirementCashFlowSecurity]], and [[EquityRetirementAssetBinding]]. Its core synthesis is that cooled headline inflation does not erase higher price levels or their uneven effects: professional households can face constant budgeting and guilt, retirees with pensions and compounded assets can feel secure, and teenagers can form durable price-sensitive habits before full adult expenses arrive. No settled contradiction is recorded; listener cases, pay details, retirement benefits, and behavioral examples remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 2
+      },
+      "wikilinks": [
+        "EquityRetirementAssetBinding",
+        "FinancialStressCognitiveTax",
+        "GenerationalEconomicTiming",
+        "InflationShapedConsumerHabits",
+        "KShapedConsumerSpending",
+        "LeoVamaka",
+        "LindsayCole",
+        "PlanetMoney",
+        "RetirementCashFlowSecurity",
+        "RickSchultz",
+        "USEconomicExperienceSplit",
+        "UnitedStates",
+        "default-mp3-ywr3ahjkcgo-8dbc38a9b9e4647dbd8e2ebddb601c4e-26201098-default-mp3-ywr3ahjkcgo-8dbc38a9b9e4647dbd8e2ebddb601c4e-26201098"
+      ]
+    },
     {
       "id": "489509ad56cf743fca8d325ff258412a46a4080bb903e734749918e9f3a1a5fa",
       "primary_topic": "history-and-geopolitics",

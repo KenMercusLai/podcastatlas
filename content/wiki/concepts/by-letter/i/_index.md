@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6834
+wiki_total_pages: 6837
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "InflationTargeting"
     title: "Inflation Targeting"
     url: "/wiki/concepts/inflationtargeting/"
+  - key: "InflationShapedConsumerHabits"
+    title: "Inflation-Shaped Consumer Habits"
+    url: "/wiki/concepts/inflationshapedconsumerhabits/"
   - key: "InformalJianghuOrder"
     title: "Informal Jianghu Order"
     url: "/wiki/concepts/informaljianghuorder/"
