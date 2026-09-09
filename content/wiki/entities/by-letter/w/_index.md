@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9454
+wiki_total_pages: 9458
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "WangDafu"
     title: "Wang Dafu"
     url: "/wiki/entities/wangdafu/"
+  - key: "WangHuoXinPrince"
+    title: "Wang Huo / 王获 (Xin prince)"
+    url: "/wiki/entities/wanghuoxinprince/"
   - key: "WangJiping"
     title: "Wang Jiping"
     url: "/wiki/entities/wangjiping/"
@@ -104,6 +107,9 @@ wiki_pages:
   - key: "WangMang"
     title: "Wang Mang / 王莽"
     url: "/wiki/entities/wangmang/"
+  - key: "WangShengXinFourGeneral"
+    title: "Wang Sheng / 王盛 (Xin Four General)"
+    url: "/wiki/entities/wangshengxinfourgeneral/"
   - key: "WangShengli"
     title: "Wang Shengli"
     url: "/wiki/entities/wangshengli/"
@@ -113,6 +119,9 @@ wiki_pages:
   - key: "WangTiezhen"
     title: "Wang Tiezhen / 王铁镇"
     url: "/wiki/entities/wangtiezhen/"
+  - key: "WangXingXinFourGeneral"
+    title: "Wang Xing / 王兴 (Xin Four General)"
+    url: "/wiki/entities/wangxingxinfourgeneral/"
   - key: "WangXingXinPrince"
     title: "Wang Xing / 王兴 (Xin prince)"
     url: "/wiki/entities/wangxingxinprince/"
@@ -125,6 +134,9 @@ wiki_pages:
   - key: "WangYu"
     title: "Wang Yu / 汪玉"
     url: "/wiki/entities/wangyu/"
+  - key: "WangYuXinPrince"
+    title: "Wang Yu / 王宇 (Xin prince)"
+    url: "/wiki/entities/wangyuxinprince/"
   - key: "WangZhenghua"
     title: "Wang Zhenghua / 王正华"
     url: "/wiki/entities/wangzhenghua/"

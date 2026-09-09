@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1634
+topic_total_pages: 1638
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1829,6 +1829,9 @@ topic_entities:
   - key: "WangAnXinPrince"
     title: "Wang An / 王安 (Xin prince)"
     url: "/wiki/entities/wanganxinprince/"
+  - key: "WangHuoXinPrince"
+    title: "Wang Huo / 王获 (Xin prince)"
+    url: "/wiki/entities/wanghuoxinprince/"
   - key: "WangKuangXinPrince"
     title: "Wang Kuang / 王匡 (Xin prince)"
     url: "/wiki/entities/wangkuangxinprince/"
@@ -1841,9 +1844,18 @@ topic_entities:
   - key: "WangMang"
     title: "Wang Mang / 王莽"
     url: "/wiki/entities/wangmang/"
+  - key: "WangShengXinFourGeneral"
+    title: "Wang Sheng / 王盛 (Xin Four General)"
+    url: "/wiki/entities/wangshengxinfourgeneral/"
+  - key: "WangXingXinFourGeneral"
+    title: "Wang Xing / 王兴 (Xin Four General)"
+    url: "/wiki/entities/wangxingxinfourgeneral/"
   - key: "WangXingXinPrince"
     title: "Wang Xing / 王兴 (Xin prince)"
     url: "/wiki/entities/wangxingxinprince/"
+  - key: "WangYuXinPrince"
+    title: "Wang Yu / 王宇 (Xin prince)"
+    url: "/wiki/entities/wangyuxinprince/"
   - key: "WangZhengjun"
     title: "Wang Zhengjun / 王政君"
     url: "/wiki/entities/wangzhengjun/"
