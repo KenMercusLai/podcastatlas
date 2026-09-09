@@ -48621,6 +48621,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "PeptideEvidenceHierarchy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PerHeadMuon": [
     {
       "key": "technology",
@@ -53704,6 +53711,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "RegulatedPeptideAccess": [
     {
       "key": "politics",
       "label": "Politics",
@@ -76932,6 +76946,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted": [

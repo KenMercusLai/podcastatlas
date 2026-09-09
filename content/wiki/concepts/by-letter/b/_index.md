@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6885
+wiki_total_pages: 6892
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "BioregionalResilience"
     title: "Bioregional Resilience"
     url: "/wiki/concepts/bioregionalresilience/"
+  - key: "BioregulatorPeptides"
+    title: "Bioregulator Peptides"
+    url: "/wiki/concepts/bioregulatorpeptides/"
   - key: "BiotechBDDataValidationPhase"
     title: "Biotech BD Data Validation Phase"
     url: "/wiki/concepts/biotechbddatavalidationphase/"
@@ -503,6 +506,9 @@ wiki_pages:
   - key: "BoxingAsEmbodiedAgency"
     title: "Boxing As Embodied Agency"
     url: "/wiki/concepts/boxingasembodiedagency/"
+  - key: "BPC157ExperimentalRepairPeptide"
+    title: "BPC-157 Experimental Repair Peptide"
+    url: "/wiki/concepts/bpc157experimentalrepairpeptide/"
   - key: "BrainBodyEmotionMapping"
     title: "Brain-Body Emotion Mapping"
     url: "/wiki/concepts/brainbodyemotionmapping/"

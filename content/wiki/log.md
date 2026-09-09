@@ -16697,6 +16697,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | Peptides: The Science, Uses & Safety | Dr. Abud Bakri
+
+Added source note for a Huberman Lab episode on peptide evidence hierarchy, GLP-1 maturity, BPC-157 evidence limits, sourcing and compounding risk, thymic peptides, bioregulators, growth-hormone secretagogues, and rapid body-composition stacking caution.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？
 
 Added source note for the 2026-06-01 芮淇讲透资治通鉴 episode on Wang Mang's 4-5 CE Xihai exile law, Liu Li's fall, administrative churn, Ming Tang rewards, mass petitions, staged refusal, and Nine Bestowments. Created Liu Li, Kong Guang, Zeng Han, Xihai Exile Administrative Burden, Nine Bestowments Ritual Promotion, and Public Refusal Status Inflation pages; updated Ma Gong. No settled contradiction found; exact administrative subdivisions, petition counts, Nine Bestowments objects, the Wei-family accusation, and Wang Mang's inner motive remain source-scoped.
@@ -16738,6 +16742,10 @@ Added source note for a 电影巨辩 episode on AI cinema from Frankenstein thro
 ## [2026-09-10] ingest | 电影里的AI：情人、巨婴和独裁者
 
 Added source note for a 电影巨辩 episode on AI cinema from Frankenstein through 《人工智能》, 《她》, 《机械姬》, and 《黑客帝国》. Key claims: AI films repeatedly turn technical intelligence into creator responsibility, programmed love, simulated reality, Turing-test judgment, embodiment, and modern subjectivity problems.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

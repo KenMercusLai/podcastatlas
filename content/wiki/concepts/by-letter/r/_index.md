@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6885
+wiki_total_pages: 6892
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -272,6 +272,9 @@ wiki_pages:
   - key: "RegulatedFintechCapitalPressure"
     title: "Regulated Fintech Capital Pressure"
     url: "/wiki/concepts/regulatedfintechcapitalpressure/"
+  - key: "RegulatedPeptideAccess"
+    title: "Regulated Peptide Access"
+    url: "/wiki/concepts/regulatedpeptideaccess/"
   - key: "RegulatedSPVPrivateMarketAccess"
     title: "Regulated SPV Private-Market Access"
     url: "/wiki/concepts/regulatedspvprivatemarketaccess/"

@@ -2996,6 +2996,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/absoluteguaranteetrap/"
     },
+    "AbudBakri": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8380331046 [SCIM8380331046].md",
+          "key": "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046",
+          "show": "Huberman Lab",
+          "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
+          "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/abudbakri/"
+    },
     "AccessionKinshipContainment": {
       "episode_count": 1,
       "show_count": 1,
@@ -7468,6 +7484,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/azure/"
     },
+    "BPC157ExperimentalRepairPeptide": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8380331046 [SCIM8380331046].md",
+          "key": "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046",
+          "show": "Huberman Lab",
+          "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
+          "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/bpc157experimentalrepairpeptide/"
+    },
     "BaCommanderyLateHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -8860,6 +8892,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/biologicalharnessengineering/"
+    },
+    "BioregulatorPeptides": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8380331046 [SCIM8380331046].md",
+          "key": "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046",
+          "show": "Huberman Lab",
+          "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
+          "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/bioregulatorpeptides/"
     },
     "BipartisanSwingStateRepresentation": {
       "episode_count": 1,
@@ -30971,9 +31019,9 @@
       "url": "/wiki/entities/glm53flash/"
     },
     "GLP1Agonists": {
-      "episode_count": 12,
-      "show_count": 7,
-      "source_note_count": 12,
+      "episode_count": 13,
+      "show_count": 8,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
@@ -31058,10 +31106,33 @@
           "show": "无时差研究所",
           "title": "EP384-普通人也能打得起的“司美格鲁肽”，减肥针“一针瘦十斤”背后的真相与代",
           "url": "/wiki/sources/ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy/"
+        },
+        {
+          "episode_file": "SCIM8380331046 [SCIM8380331046].md",
+          "key": "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046",
+          "show": "Huberman Lab",
+          "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
+          "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/glp1agonists/"
+    },
+    "GLP1BodyCompositionStack": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8380331046 [SCIM8380331046].md",
+          "key": "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046",
+          "show": "Huberman Lab",
+          "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
+          "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/glp1bodycompositionstack/"
     },
     "GPUComputeAssetBackedFinancing": {
       "episode_count": 3,
@@ -33538,9 +33609,9 @@
       "url": "/wiki/concepts/graphneuralnetworks/"
     },
     "GrayMarketPeptides": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20260119_0119_MP_TECH_pod_128 [tech_20260119_0119_MP_TECH_pod_128].md",
@@ -33555,9 +33626,16 @@
           "show": "无时差研究所",
           "title": "EP384-普通人也能打得起的“司美格鲁肽”，减肥针“一针瘦十斤”背后的真相与代",
           "url": "/wiki/sources/ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy/"
+        },
+        {
+          "episode_file": "SCIM8380331046 [SCIM8380331046].md",
+          "key": "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046",
+          "show": "Huberman Lab",
+          "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
+          "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/graymarketpeptides/"
     },
     "GreaterBayAreaAirportCluster": {
@@ -33630,6 +33708,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/groundtruthnewsletter/"
+    },
+    "GrowthHormoneSecretagogues": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8380331046 [SCIM8380331046].md",
+          "key": "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046",
+          "show": "Huberman Lab",
+          "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
+          "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/growthhormonesecretagogues/"
     },
     "GrowthWitnessing": {
       "episode_count": 1,
@@ -60844,6 +60938,38 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/pennsylvaniaaiinfrastructureboom/"
     },
+    "PeptideEvidenceHierarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8380331046 [SCIM8380331046].md",
+          "key": "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046",
+          "show": "Huberman Lab",
+          "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
+          "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/peptideevidencehierarchy/"
+    },
+    "PeptideSourcingQualityRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8380331046 [SCIM8380331046].md",
+          "key": "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046",
+          "show": "Huberman Lab",
+          "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
+          "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/peptidesourcingqualityrisk/"
+    },
     "PerMuLandTaxation": {
       "episode_count": 1,
       "show_count": 1,
@@ -66733,6 +66859,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/regulatedcryptotruststrategy/"
+    },
+    "RegulatedPeptideAccess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8380331046 [SCIM8380331046].md",
+          "key": "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046",
+          "show": "Huberman Lab",
+          "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
+          "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/regulatedpeptideaccess/"
     },
     "RejectedCounselDefectionCascade": {
       "episode_count": 1,
@@ -76946,9 +77088,9 @@
       "url": "/wiki/concepts/syntheticperformers/"
     },
     "TCellEducationAndThymusAging": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7009523546 [SCIM7009523546].md",
@@ -76956,9 +77098,16 @@
           "show": "Huberman Lab",
           "title": "How Your Immune System Works & How to Improve It | Dr. Max Krummel",
           "url": "/wiki/sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546/"
+        },
+        {
+          "episode_file": "SCIM8380331046 [SCIM8380331046].md",
+          "key": "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046",
+          "show": "Huberman Lab",
+          "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
+          "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/tcelleducationandthymusaging/"
     },
     "TVBTalentPipeline": {

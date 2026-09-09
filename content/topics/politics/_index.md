@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2295
+topic_total_pages: 2297
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2176,6 +2176,9 @@ topic_concepts:
   - key: "PenalRedemptionArmament"
     title: "Penal Redemption for Armaments / 刑罚赎罪充实兵备"
     url: "/wiki/concepts/penalredemptionarmament/"
+  - key: "PeptideEvidenceHierarchy"
+    title: "Peptide Evidence Hierarchy"
+    url: "/wiki/concepts/peptideevidencehierarchy/"
   - key: "PerformativeEnforcementAccountability"
     title: "Performative Enforcement Accountability"
     url: "/wiki/concepts/performativeenforcementaccountability/"
@@ -2668,6 +2671,9 @@ topic_concepts:
   - key: "RegulatedFintechCapitalPressure"
     title: "Regulated Fintech Capital Pressure"
     url: "/wiki/concepts/regulatedfintechcapitalpressure/"
+  - key: "RegulatedPeptideAccess"
+    title: "Regulated Peptide Access"
+    url: "/wiki/concepts/regulatedpeptideaccess/"
   - key: "RegulatedSPVPrivateMarketAccess"
     title: "Regulated SPV Private-Market Access"
     url: "/wiki/concepts/regulatedspvprivatemarketaccess/"

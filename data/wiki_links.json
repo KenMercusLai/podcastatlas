@@ -3011,6 +3011,10 @@
     "title": "Abu Dhabi / 阿布扎比",
     "url": "/wiki/entities/abudhabi/"
   },
+  "AbudBakri": {
+    "title": "Abud Bakri",
+    "url": "/wiki/entities/abudbakri/"
+  },
   "AbusePaymentInfrastructure": {
     "title": "Abuse Payment Infrastructure",
     "url": "/wiki/concepts/abusepaymentinfrastructure/"
@@ -6627,6 +6631,10 @@
     "title": "BP",
     "url": "/wiki/entities/bp/"
   },
+  "BPC157ExperimentalRepairPeptide": {
+    "title": "BPC-157 Experimental Repair Peptide",
+    "url": "/wiki/concepts/bpc157experimentalrepairpeptide/"
+  },
   "BSpecials": {
     "title": "B Specials",
     "url": "/wiki/entities/bspecials/"
@@ -7898,6 +7906,10 @@
   "BioregionalResilience": {
     "title": "Bioregional Resilience",
     "url": "/wiki/concepts/bioregionalresilience/"
+  },
+  "BioregulatorPeptides": {
+    "title": "Bioregulator Peptides",
+    "url": "/wiki/concepts/bioregulatorpeptides/"
   },
   "BiotechBDDataValidationPhase": {
     "title": "Biotech BD Data Validation Phase",
@@ -22571,6 +22583,10 @@
     "title": "GLP-1 Agonists",
     "url": "/wiki/concepts/glp1agonists/"
   },
+  "GLP1BodyCompositionStack": {
+    "title": "GLP-1 Body Composition Stack",
+    "url": "/wiki/concepts/glp1bodycompositionstack/"
+  },
   "GMICloud": {
     "title": "GMI Cloud",
     "url": "/wiki/entities/gmicloud/"
@@ -24418,6 +24434,10 @@
   "GrowthAsProtectorRole": {
     "title": "Growth As Protector Role",
     "url": "/wiki/concepts/growthasprotectorrole/"
+  },
+  "GrowthHormoneSecretagogues": {
+    "title": "Growth Hormone Secretagogues",
+    "url": "/wiki/concepts/growthhormonesecretagogues/"
   },
   "GrowthInvesting": {
     "title": "Growth Investing / 成长投资",
@@ -43667,6 +43687,14 @@
     "title": "People's Democracy (Northern Ireland)",
     "url": "/wiki/entities/peoplesdemocracynorthernireland/"
   },
+  "PeptideEvidenceHierarchy": {
+    "title": "Peptide Evidence Hierarchy",
+    "url": "/wiki/concepts/peptideevidencehierarchy/"
+  },
+  "PeptideSourcingQualityRisk": {
+    "title": "Peptide Sourcing Quality Risk",
+    "url": "/wiki/concepts/peptidesourcingqualityrisk/"
+  },
   "PerHeadMuon": {
     "title": "Per-Head Muon",
     "url": "/wiki/concepts/perheadmuon/"
@@ -48030,6 +48058,10 @@
   "RegulatedFintechCapitalPressure": {
     "title": "Regulated Fintech Capital Pressure",
     "url": "/wiki/concepts/regulatedfintechcapitalpressure/"
+  },
+  "RegulatedPeptideAccess": {
+    "title": "Regulated Peptide Access",
+    "url": "/wiki/concepts/regulatedpeptideaccess/"
   },
   "RegulatedSPVPrivateMarketAccess": {
     "title": "Regulated SPV Private-Market Access",
@@ -69030,6 +69062,10 @@
   "peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf": {
     "title": "Peace fire: further US-Iran strikes",
     "url": "/wiki/sources/peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf/"
+  },
+  "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046": {
+    "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
+    "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
   },
   "peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted": {
     "title": "Peter Reinhardt on Segment's Pivots and Charm Industrial's Carbon Removal",

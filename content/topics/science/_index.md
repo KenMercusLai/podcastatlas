@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 978
+topic_total_pages: 979
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2853,6 +2853,9 @@ topic_sources:
   - key: "omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb"
     title: "Omission accomplished: why the Iran-war cycle spins on"
     url: "/wiki/sources/omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb/"
+  - key: "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046"
+    title: "Peptides: The Science, Uses & Safety | Dr. Abud Bakri"
+    url: "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
   - key: "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085"
     title: "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick"
     url: "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6885
+wiki_total_pages: 6892
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -305,6 +305,12 @@ wiki_pages:
   - key: "PeopleFirstEconomicStatecraft"
     title: "People-First Economic Statecraft / 富民优先的经济治国"
     url: "/wiki/concepts/peoplefirsteconomicstatecraft/"
+  - key: "PeptideEvidenceHierarchy"
+    title: "Peptide Evidence Hierarchy"
+    url: "/wiki/concepts/peptideevidencehierarchy/"
+  - key: "PeptideSourcingQualityRisk"
+    title: "Peptide Sourcing Quality Risk"
+    url: "/wiki/concepts/peptidesourcingqualityrisk/"
   - key: "PerHeadMuon"
     title: "Per-Head Muon"
     url: "/wiki/concepts/perheadmuon/"
