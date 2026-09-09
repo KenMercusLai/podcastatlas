@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2862
+topic_total_pages: 2863
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -7013,6 +7013,9 @@ topic_entities:
   - key: "ZhouLuohua"
     title: "Zhou Luohua / 周洛华"
     url: "/wiki/entities/zhouluohua/"
+  - key: "Ziwudao"
+    title: "Ziwudao / 子午道"
+    url: "/wiki/entities/ziwudao/"
   - key: "WhyGreatnessCannotBePlanned"
     title: "《为什么伟大不能被计划》 / Why Greatness Cannot Be Planned"
     url: "/wiki/entities/whygreatnesscannotbeplanned/"

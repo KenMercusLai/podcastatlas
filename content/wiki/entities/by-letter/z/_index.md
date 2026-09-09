@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9499
+wiki_total_pages: 9501
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "ZincPopcornBuckets"
     title: "Zinc (popcorn-bucket design)"
     url: "/wiki/entities/zincpopcornbuckets/"
+  - key: "Ziwudao"
+    title: "Ziwudao / 子午道"
+    url: "/wiki/entities/ziwudao/"
   - key: "ZoeChase"
     title: "Zoe Chase"
     url: "/wiki/entities/zoechase/"

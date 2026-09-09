@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6881
+wiki_total_pages: 6882
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "ReproductiveAttritionStrategy"
     title: "Reproductive Attrition Strategy / 繁衍打击战略"
     url: "/wiki/concepts/reproductiveattritionstrategy/"
+  - key: "ReproductiveBodyOmenPolitics"
+    title: "Reproductive Body Omen Politics / 生殖身体祥瑞政治"
+    url: "/wiki/concepts/reproductivebodyomenpolitics/"
   - key: "RepublicanChinaBankingSystem"
     title: "Republican China Banking System"
     url: "/wiki/concepts/republicanchinabankingsystem/"

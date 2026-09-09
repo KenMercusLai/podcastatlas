@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9499
+wiki_total_pages: 9501
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "HanRiver"
     title: "Han River / 汉江"
     url: "/wiki/entities/hanriver/"
+  - key: "HanShu"
+    title: "Han Shu / 《汉书》"
+    url: "/wiki/entities/hanshu/"
   - key: "HanSong"
     title: "Han Song / 韩松"
     url: "/wiki/entities/hansong/"

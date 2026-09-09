@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2622
+topic_total_pages: 2623
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3641,6 +3641,9 @@ topic_entities:
   - key: "HamishMcKenzie"
     title: "Hamish McKenzie"
     url: "/wiki/entities/hamishmckenzie/"
+  - key: "HanShu"
+    title: "Han Shu / 《汉书》"
+    url: "/wiki/entities/hanshu/"
   - key: "HanYanDirector"
     title: "Han Yan / 韩延 (director)"
     url: "/wiki/entities/hanyandirector/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》627-1丨【女性必听】独特视角：经期隐喻背后的历史智慧](sources/zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt.md) — 5 CE Wang Mang backfill on "子孙瑞" as menstrual-fertility euphemism, Ziwudao, Huangdi Neijing life cycles, Zhougong-like prayer performance, and the Pingdi death-source tension.
 - [《资治通鉴·汉纪》627-2丨【女性必听】经期禁忌的文化脉络与女性社会地位变迁](sources/zizhi-tongjian-hanji-627-2-nvxing-biting-jingqi-jinji-de-wenhua-mailuo-yu-nvxing-shehui-diwei-bianqian-lrxeziuwvcfgkkzgpugnzby4uref.md) — 芮淇讲透资治通鉴 PLUS episode on menstrual euphemism, blood-pollution taboo, local custom, religious and marriage restrictions, intergenerational shame, body knowledge, and self-care.
 - [《资治通鉴·汉纪》625丨揭秘人性暗面：为何旁人成功总令我们心生嫉恨？](sources/zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo.md) — 5 CE Wang Mang backfill on coerced praise, auspicious-reporting pressure, Ban Zhi's protected retreat, Gongsun Hong's execution, Zhen Feng's accusation channel, and survival under polluted court politics.
 - [No.218 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代](sources/no-218-o2o-yu-gongxiangjingji-shuyu-danche-chongdianbao-shangmenmeijia-he-anmo-de-mohuan-saqian-niandai-1013073318.md) — 半拿铁 episode on China's O2O and sharing-economy boom through shared bikes, power banks, home massage, manicure, community services, and the gap between real demand and scalable platform economics.
@@ -2095,6 +2096,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Han Shu / 《汉书》](entities/HanShu.md) — Source-criticism node for Hanji 627-1's comparison of illness-centered Pingdi death records with the Zizhi Tongjian poisoning narrative.
+- [Ziwudao / 子午道](entities/Ziwudao.md) — Western Han route whose 5 CE opening is framed by Wang Mang through Empress Wang's "子孙瑞."
 - [朱啸虎 / Zhu Xiaohu](entities/ZhuXiaohu.md) — Venture investor used by the source as a representative O2O-era capital figure and OFO backer.
 - [金沙江创投 / GSR Ventures](entities/GSRVentures.md) — Venture firm context behind Zhu Xiaohu's O2O and OFO investment path.
 - [戴威 / Dai Wei](entities/DaiWei.md) — OFO founder whose campus-bike pivot became a city-scale shared-bike capital war and deposit-crisis case.
@@ -11598,6 +11601,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Reproductive Body Omen Politics / 生殖身体祥瑞政治](concepts/ReproductiveBodyOmenPolitics.md) — Pattern where menstruation, fertility, or other reproductive body signs become auspicious political evidence.
 - [O2O Platform Economics](concepts/O2OPlatformEconomics.md) — Business-model frame distinguishing real offline demand from scalable, subsidy-resistant online-to-offline platform economics.
 - [Chinese Sharing-Economy Bubble](concepts/ChineseSharingEconomyBubble.md) — 2010s shared-asset wave built around QR-coded rental assets, deposits, subsidies, and uneven category fit.
 - [Shared-Bike Capital War](concepts/SharedBikeCapitalWar.md) — 2016-2018 shared-bike fight over bikes, locks, subsidies, deposits, investor control, city regulation, and consolidation.

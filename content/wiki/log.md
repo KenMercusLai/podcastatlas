@@ -16693,6 +16693,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》627-1丨【女性必听】独特视角：经期隐喻背后的历史智慧
+
+Added source note for a 2026-06-01 芮淇讲透资治通鉴 episode on "子孙瑞" as menstrual-fertility euphemism, Huangdi Neijing menstrual and life-cycle vocabulary, Wang Mang's Ziwudao announcement, Liu Qing's Zhougong-regency framing, and the Pingdi death-source tension between 《资治通鉴》 and 《汉书》. Created Reproductive Body Omen Politics, Ziwudao, and Han Shu pages; updated Menstrual Stigma, Huangdi Neijing, Han Pingdi, and Empress Wang Pingdi. No settled contradiction found; the Wang Mang poisoning claim remains source-scoped.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》625丨揭秘人性暗面：为何旁人成功总令我们心生嫉恨？
 
 Added source note for the 2026-06-01 芮淇讲透资治通鉴 episode on Wang Mang's 5 CE praise environment, Ban Zhi's protected retreat, Gongsun Hong's execution, Zhen Feng's accusation channel, and survival under coerced auspicious reporting. Created Ban Zhi, Gongsun Hong (Langya), and Coerced Praise Conformity Risk pages; updated Zhen Feng. No settled contradiction found; Wang Yun, the other envoys, detailed petition wording, local accusers, and Wang Mang's inner motives remain source-scoped.
@@ -16726,6 +16730,10 @@ Added source note for a 电影巨辩 episode on AI cinema from Frankenstein thro
 ## [2026-09-10] ingest | 电影里的AI：情人、巨婴和独裁者
 
 Added source note for a 电影巨辩 episode on AI cinema from Frankenstein through 《人工智能》, 《她》, 《机械姬》, and 《黑客帝国》. Key claims: AI films repeatedly turn technical intelligence into creator responsibility, programmed love, simulated reality, Turing-test judgment, embodiment, and modern subjectivity problems.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
