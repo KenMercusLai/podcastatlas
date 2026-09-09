@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6815
+wiki_total_pages: 6817
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -662,6 +662,9 @@ wiki_pages:
   - key: "RiskCostSeparation"
     title: "Risk-Cost Separation / 风险与成本分离"
     url: "/wiki/concepts/riskcostseparation/"
+  - key: "RitualCapitalCentrality"
+    title: "Ritual Capital Centrality / 礼制中心式都城合法性"
+    url: "/wiki/concepts/ritualcapitalcentrality/"
   - key: "RitualHopeConsumption"
     title: "Ritual Hope Consumption / 仪式性希望消费"
     url: "/wiki/concepts/ritualhopeconsumption/"

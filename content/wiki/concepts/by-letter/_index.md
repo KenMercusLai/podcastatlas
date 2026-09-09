@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6815
+wiki_total_pages: 6817
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "AdministrativeOpacityAsControl"
     title: "Administrative Opacity As Control"
     url: "/wiki/concepts/administrativeopacityascontrol/"
+  - key: "AdministrativeRenamingOverreach"
+    title: "Administrative Renaming Overreach / 行政改名过度"
+    url: "/wiki/concepts/administrativerenamingoverreach/"
   - key: "AdministrativeStateDismantling"
     title: "Administrative State Dismantling"
     url: "/wiki/concepts/administrativestatedismantling/"

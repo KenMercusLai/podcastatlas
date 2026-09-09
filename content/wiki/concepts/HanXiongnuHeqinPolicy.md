@@ -9,12 +9,13 @@ sources:
   - zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv
   - zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym
   - zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls
+  - zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv
 last_updated: 2026-09-01
 ---
 
 ## Definition
 
-Han-Xiongnu heqin policy / 汉匈和亲政策 is the use or attempted restoration of ruling-house marriage and kinship diplomacy to manage Han-Xiongnu frontier pressure when direct coercion is too costly or incomplete. The current wiki evidence begins after the [[BaidengEncirclement|白登之围]] and now extends to an Eastern Han attempt to restore old relations while raiding continues.
+Han-Xiongnu heqin policy / 汉匈和亲政策 is the use or attempted restoration of ruling-house marriage and kinship diplomacy to manage Han-Xiongnu frontier pressure when direct coercion is too costly, incomplete, or politically damaged. The current wiki evidence begins after the [[BaidengEncirclement|白登之围]], includes a Xin attempt compromised by hostage execution, and now extends to an Eastern Han attempt to restore old relations while raiding continues.
 
 ## Current Synthesis
 
@@ -24,6 +25,8 @@ The implementation evidence also shows the policy's costs and compromises. [[LuZ
 
 The Eastern Han recurrence makes the repertoire portable but still bounded. While [[LuFangEasternHan|Lu Fang]] and Xiongnu raids continue, [[LiuXiu|Liu Xiu]] sends Guide Hou Liu Sa to seek restored old good relations with Xiongnu, described in [[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|Hanji 704]] as heqin. The Chanyu sends an envoy to Luoyang but continues raiding, so this source supports heqin as a reusable diplomatic repertoire under pressure, not as proof that a completed marriage settlement or lasting peace was achieved.
 
+The Xin variant adds damaged-trust heqin. In [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|Hanji 647]], a new Xiongnu chanyu asks to restore heqin contact, and Xin envoys bring congratulations and gifts, but Wang Mang has already executed the chanyu's hostage son Luanti Deng. When asked about the son, the envoys conceal the death. This makes heqin a diplomacy of temporary form without repaired trust.
+
 ## Key Claims
 
 - Heqin appears as a policy response to military constraint after Baideng, not as a first-choice alliance gesture.
@@ -32,6 +35,7 @@ The Eastern Han recurrence makes the repertoire portable but still bounded. Whil
 - Implementation can preserve the policy form while compromising the bride-authenticity principle that justified the original design.
 - The policy is bounded: it may buy time or reopen contact, but it does not by itself end Xiongnu raiding.
 - Hanji 704 shows the heqin repertoire recurring in Eastern Han frontier diplomacy when Xiongnu and Lu Fang pressure continues.
+- Hanji 647 shows heqin becoming fragile when a hostage killing leaves envoys preserving diplomatic form through concealment.
 
 ## Evidence
 
@@ -41,15 +45,16 @@ The Eastern Han recurrence makes the repertoire portable but still bounded. Whil
 - Compromise implementation: [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] says Liu Bang sends another woman as a legitimate elder princess and has Liu Jing escort the mission.
 - Bounded effectiveness: [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] says early Han-Xiongnu heqin does not end Xiongnu incursions and later gives way to open war by [[HanWudi|汉武帝]]'s reign.
 - Eastern Han recurrence: [[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|Hanji 704]] says Liu Xiu sends Liu Sa to restore old good relations, described as heqin, while Xiongnu and Lu Fang raiding continues.
+- Xin rupture variant: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|Hanji 647]] says a new chanyu asks for heqin, but Xin envoys hide that Wang Mang has executed the chanyu's hostage son.
 
 ## Counterevidence & Qualifications
 
-Hanji 704 does not detail a new marriage, hostage exchange, tribute package, or durable settlement, so it should be read as evidence for attempted restoration of heqin relations rather than a full implemented Eastern Han marriage alliance. Hanji 179's Tang, Qing, Song, and Ming comparisons remain host framing rather than independently developed cases in this page's source inventory. The policy differs from [[WarringStatesMarriageDiplomacy|战国联姻外交]] by being set inside an agrarian-steppe frontier asymmetry after failed coercion, and it differs from [[IntimateFrontierPacification|亲密关系式边患安抚]] because the evidence here concerns state diplomacy rather than a private relationship absorbing a frontier polity.
+Hanji 647 does not show a successful marriage settlement; it shows a request, mission, gifts, and deception under damaged trust. Hanji 704 does not detail a new marriage, hostage exchange, tribute package, or durable settlement, so it should be read as evidence for attempted restoration of heqin relations rather than a full implemented Eastern Han marriage alliance. Hanji 179's Tang, Qing, Song, and Ming comparisons remain host framing rather than independently developed cases in this page's source inventory. The policy differs from [[WarringStatesMarriageDiplomacy|战国联姻外交]] by being set inside an agrarian-steppe frontier asymmetry after failed coercion, and it differs from [[IntimateFrontierPacification|亲密关系式边患安抚]] because the evidence here concerns state diplomacy rather than a private relationship absorbing a frontier polity.
 
 ## What Changed
 
 - Migrated the page to the synthesis-v1 concept schema.
-- Added Hanji 704 as Eastern Han evidence for attempted restoration of heqin relations under continuing Xiongnu and Lu Fang pressure.
+- Added Hanji 647 as a Xin evidence layer where heqin contact is reopened but compromised by concealed hostage execution.
 - Clarified heqin as a reusable but bounded frontier-diplomacy repertoire, not a guarantee of peace.
 
 ## Related Concepts
@@ -61,3 +66,4 @@ Hanji 704 does not detail a new marriage, hostage exchange, tribute package, or 
 - [[IntimateFrontierPacification|亲密关系式边患安抚]] - contrast because heqin here is state diplomacy rather than personal relationship pacification.
 - [[CapacityBoundFrontierCommitment|能力约束型边疆承诺]] - related because heqin contact can substitute for direct frontier control when capacity is limited.
 - [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]] - related because envoy, marriage, and recognition signals must be read by multiple frontier audiences.
+- [[HostageDiplomacyRupture|质子外交破裂]] - related because the killed hostage son makes renewed heqin diplomatically unstable.

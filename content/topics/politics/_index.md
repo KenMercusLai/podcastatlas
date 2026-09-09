@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2281
+topic_total_pages: 2282
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -28,6 +28,9 @@ topic_concepts:
   - key: "AdministrativeArchiveCapture"
     title: "Administrative Archive Capture / 行政档案接管"
     url: "/wiki/concepts/administrativearchivecapture/"
+  - key: "AdministrativeRenamingOverreach"
+    title: "Administrative Renaming Overreach / 行政改名过度"
+    url: "/wiki/concepts/administrativerenamingoverreach/"
   - key: "AdministrativeStateDismantling"
     title: "Administrative State Dismantling"
     url: "/wiki/concepts/administrativestatedismantling/"

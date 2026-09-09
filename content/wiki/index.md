@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》647丨十三朝古都洛阳，为何至关重要？](sources/zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv.md) — 芮淇讲透资治通鉴 episode on Wang Mang's 14 CE Luoyang relocation plan, Luoyang's armory and "天下之中" centrality, Xin ritual-site preparation, administrative renaming churn, omen politics, and fragile Xiongnu heqin after hostage execution.
 - [史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界](sources/shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhLhohpUHBpofcWXtzOuxDIvRber.md) — 史蒂夫说 episode with Liang Yi on Steve's gradual new fatherhood, parenting as relationship formation, love as attention reorganization, nonviolent communication, slow child development, and growth witnessing.
 - [The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel](sources/all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065.md) — All-In liquidity panel on Cerebras and Planet Labs as IPO-return cases, covering public-company credibility, post-IPO hold discipline, AI silicon, daily Earth observation, and orbital data-center economics.
 - [《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？](sources/zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9.md) — 16 CE Wang Mang backfill on Hetu-Luoshu omen interpretation, anti-Xiongnu confidence, southwest campaign overextension, civilian extraction, Feng Ying's stop-war remonstrance, and anatomy setup before Hanji 652.
@@ -11487,6 +11488,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Administrative Renaming Overreach / 行政改名过度](concepts/AdministrativeRenamingOverreach.md) — Xin-era governance failure where auspicious office and place renaming makes administration less legible.
+- [Ritual Capital Centrality / 礼制中心式都城合法性](concepts/RitualCapitalCentrality.md) — Capital-legitimacy pattern where a site gains authority through classical centrality, ritual geography, and inherited institutions.
 - [Gradual Parent-Child Relationship / 渐进式亲子关系](concepts/GradualParentChildRelationship.md) — Parenting frame where attachment, recognition, trust, and the child's entry into reality develop through repeated interaction and regulated pacing.
 - [Growth Witnessing / 见证生长](concepts/GrowthWitnessing.md) — Practice of finding meaning by attending to small, slow changes in children, learners, friends, athletes, loved ones, and oneself.
 - [Earth Observation AI](concepts/EarthObservationAI.md) — AI application layer that uses satellite imagery and geospatial time series to reason about physical-world conditions.
