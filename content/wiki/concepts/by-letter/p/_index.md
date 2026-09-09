@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6808
+wiki_total_pages: 6809
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1787,6 +1787,9 @@ wiki_pages:
   - key: "ProcurementSignalPriceCornering"
     title: "征发信号价格垄断 / Procurement Signal Price Cornering"
     url: "/wiki/concepts/procurementsignalpricecornering/"
+  - key: "PunitiveAnatomyPoliticalTerror"
+    title: "惩罚性解剖政治恐怖 / Punitive Anatomy as Political Terror"
+    url: "/wiki/concepts/punitiveanatomypoliticalterror/"
   - key: "PostwarReturnAndVeteranRelief"
     title: "战后复员安民 / Postwar Return and Veteran Relief"
     url: "/wiki/concepts/postwarreturnandveteranrelief/"

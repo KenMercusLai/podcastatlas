@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 956
+topic_total_pages: 957
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1660,6 +1660,9 @@ topic_concepts:
   - key: "ImperialDeathCauseInference"
     title: "帝王死因史料推断 / Imperial Death-Cause Inference"
     url: "/wiki/concepts/imperialdeathcauseinference/"
+  - key: "PunitiveAnatomyPoliticalTerror"
+    title: "惩罚性解剖政治恐怖 / Punitive Anatomy as Political Terror"
+    url: "/wiki/concepts/punitiveanatomypoliticalterror/"
   - key: "ComicMaskSurvival"
     title: "搞笑面具式生存 / Comic Mask Survival"
     url: "/wiki/concepts/comicmasksurvival/"

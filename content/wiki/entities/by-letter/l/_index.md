@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9411
+wiki_total_pages: 9417
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1361,6 +1361,9 @@ wiki_pages:
   - key: "LiJunrongFootballHistorian"
     title: "李峻嵘 / 李俊仁 / Li Junrong"
     url: "/wiki/entities/lijunrongfootballhistorian/"
+  - key: "LiChongXinProtector"
+    title: "李崇 / Li Chong (Xin Western Regions protector)"
+    url: "/wiki/entities/lichongxinprotector/"
   - key: "LiZuoChe"
     title: "李左车 / Li Zuoche"
     url: "/wiki/entities/lizuoche/"

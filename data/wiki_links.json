@@ -24539,6 +24539,10 @@
     "title": "《过秦论》 / Guo Qin Lun",
     "url": "/wiki/entities/guoqinlun/"
   },
+  "GuoQingXinGeneral": {
+    "title": "郭清 / Guo Qing (Xin general)",
+    "url": "/wiki/entities/guoqingxingeneral/"
+  },
   "GuoShengLateHan": {
     "title": "郭胜 / Guo Sheng (late Han)",
     "url": "/wiki/entities/guoshenglatehan/"
@@ -33174,6 +33178,10 @@
   "LiChenyangNotary": {
     "title": "李晨阳 / Li Chenyang",
     "url": "/wiki/entities/lichenyangnotary/"
+  },
+  "LiChongXinProtector": {
+    "title": "李崇 / Li Chong (Xin Western Regions protector)",
+    "url": "/wiki/entities/lichongxinprotector/"
   },
   "LiChongjin": {
     "title": "李重进 / Li Chongjin",
@@ -45974,6 +45982,10 @@
   "PunishmentTheoryTradeoff": {
     "title": "Punishment Theory Tradeoff",
     "url": "/wiki/concepts/punishmenttheorytradeoff/"
+  },
+  "PunitiveAnatomyPoliticalTerror": {
+    "title": "惩罚性解剖政治恐怖 / Punitive Anatomy as Political Terror",
+    "url": "/wiki/concepts/punitiveanatomypoliticalterror/"
   },
   "PunitiveCurrencyEnforcementBackfire": {
     "title": "Punitive Currency Enforcement Backfire / 惩罚性货币执法反噬",
@@ -59575,6 +59587,10 @@
     "title": "王季叶 / Wang Jiye",
     "url": "/wiki/entities/wangjiye/"
   },
+  "WangJunXinGeneral": {
+    "title": "王骏 / Wang Jun (Xin general)",
+    "url": "/wiki/entities/wangjunxingeneral/"
+  },
   "WangJunyu": {
     "title": "王俊玉",
     "url": "/wiki/entities/wangjunyu/"
@@ -59734,6 +59750,10 @@
   "WangSunGu": {
     "title": "王孙古 / Wang Sun Gu",
     "url": "/wiki/entities/wangsungu/"
+  },
+  "WangSunqingXinRebel": {
+    "title": "王孙卿 / Wang Sunqing (Xin rebel)",
+    "url": "/wiki/entities/wangsunqingxinrebel/"
   },
   "WangTao": {
     "title": "Wang Tao / 汪滔",
@@ -63183,6 +63203,10 @@
     "title": "焉耆国 / Yanqi Kingdom (late Han)",
     "url": "/wiki/entities/yanqikingdomlatehan/"
   },
+  "YanqiKingdomXin": {
+    "title": "焉耆国 / Yanqi Kingdom (Xin period)",
+    "url": "/wiki/entities/yanqikingdomxin/"
+  },
   "YanranInscription": {
     "title": "燕然勒石 / Yanran Inscription",
     "url": "/wiki/entities/yanraninscription/"
@@ -64330,6 +64354,10 @@
   "ZhaiRongEasternHan": {
     "title": "翟戎 / Zhai Rong (Eastern Han)",
     "url": "/wiki/entities/zhairongeasternhan/"
+  },
+  "ZhaiYiRebellion": {
+    "title": "翟义起义 / Zhai Yi Rebellion",
+    "url": "/wiki/entities/zhaiyirebellion/"
   },
   "ZhaitaiGaozhu": {
     "title": "债台高筑 / Zhaitai Gaozhu",
@@ -70770,6 +70798,10 @@
   "zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz": {
     "title": "《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz/"
+  },
+  "zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9": {
+    "title": "《资治通鉴·汉纪》652丨王莽的外科手术",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9/"
   },
   "zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk": {
     "title": "《资治通鉴·汉纪》653丨把社会主义带回古代？王莽有多神！",

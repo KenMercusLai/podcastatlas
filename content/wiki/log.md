@@ -16252,6 +16252,10 @@ Ran lint. See lint-report.md for details.
 
 Ingested the 2026-06-07 芮淇讲透资治通鉴 episode backfilling 20 CE late-Xin crisis: Wang Mang redirects violent-wind disaster language into Wang An/Wang Ling succession-title correction, launches the costly Nine Temples project, answers Ma Shiqiu's plot with mass execution, expands private-coinage punishment, praises Tang Zun's austerity and ritual policing, and imprisons Zhi Yun for Han-restoration remonstrance. Added source `zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l`; created `WangLingXinPrince`, `TangZunXinOfficial`, `ZhiYunXinAstrologer`, and `MaShiqiuXinRebel`; updated `WangMang`, `XinDynasty`, `WangAnXinPrince`, `DisasterOmenCrisisRedirection`, `PunitiveCurrencyEnforcementBackfire`, and `index`. No settled contradiction found; Wanglu Hall, Wang Dan, title mechanics, temple dimensions, punishment details, and Wang Mang's inner belief remain source-scoped.
 
+## [2026-09-09] ingest | 《资治通鉴·汉纪》652丨王莽的外科手术
+
+Ingested the 2026-06-06 芮淇讲透资治通鉴 episode on Wang Mang's punitive dissection of Wang Sunqing, the Zhai Yi rebellion aftermath, Xin Western Regions mission failure, Yanqi's ambush of Wang Jun, Guo Qing's retaliatory killing and reward, symbolic封土授茅,威斗 intimidation, and the 五均六管 preview. Added source `zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9`; created `WangSunqingXinRebel`, `ZhaiYiRebellion`, `WangJunXinGeneral`, `LiChongXinProtector`, `GuoQingXinGeneral`, `YanqiKingdomXin`, and `PunitiveAnatomyPoliticalTerror`; updated `WesternRegionsProtectorate` and `index`. No settled contradiction found; possible live dissection, exact medical procedure, Western Regions name normalization, troop details, and Wang Mang's inner motives remain source-scoped.
+
 ## [2026-09-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -16399,6 +16403,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | EP386-十一出行不想当大冤种？咱们来听听资深领队的小巧思！
 
 Ingested the 2026-09-08 无时差研究所 episode with Daocaoren leader 老宝 on National Day / Golden Week travel pricing, route substitution, airfare thresholds, cancellable hotels, reverse routing, travel-agency route operations, leader training, backup systems, and Egypt guided-travel boundaries. Added source `ep386-shiyi-chuxing-bu-xiang-dang-dayuanzhong-zanmen-lai-tingting-zishen-lingdui-de-xiaoqiaosi-gkwrirwodgrhaeuitgtugmxp`; created `DaocaorenTravel`, `LaobaoTravelLeader`, `HolidayPeakTravelPlanning`, and `TravelAgencyItineraryOperations`; updated `WushichaYanjiusuo`, `ComplexDestinationTravelRisk`, and `index`. No settled contradiction found; destination prices, fare movements, visa convenience, geopolitical effects, safety, and route availability remain source-scoped and time-sensitive.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

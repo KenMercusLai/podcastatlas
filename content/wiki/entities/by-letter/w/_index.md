@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9411
+wiki_total_pages: 9417
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1049,6 +1049,9 @@ wiki_pages:
   - key: "WangziDing"
     title: "王子定 / Prince Ding"
     url: "/wiki/entities/wangziding/"
+  - key: "WangSunqingXinRebel"
+    title: "王孙卿 / Wang Sunqing (Xin rebel)"
+    url: "/wiki/entities/wangsunqingxinrebel/"
   - key: "WangSunGu"
     title: "王孙古 / Wang Sun Gu"
     url: "/wiki/entities/wangsungu/"
@@ -1262,6 +1265,9 @@ wiki_pages:
   - key: "WangBaEasternHan"
     title: "王霸 / Wang Ba (Eastern Han)"
     url: "/wiki/entities/wangbaeasternhan/"
+  - key: "WangJunXinGeneral"
+    title: "王骏 / Wang Jun (Xin general)"
+    url: "/wiki/entities/wangjunxingeneral/"
   - key: "WangHuang"
     title: "王黄 / Wang Huang"
     url: "/wiki/entities/wanghuang/"

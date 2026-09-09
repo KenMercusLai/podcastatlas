@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》648丨为什么我劝你必须积德？](sources/zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k.md) — 14 CE Wang Mang backfill on virtue/retribution framing, frontier famine and retrenchment, Han Wei's anti-Xiongnu bravado, renewed Xiongnu raids, Yizhou revolt, requisitioned pacification, and another currency reset that harms commoners.
 - [《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？](sources/zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz.md) — 15-16 CE Wang Mang backfill on eunuch-controlled treasuries and memorials, administrative backlog, disaster pressure, frontier grain costs, and a complex fifteen-rank variable salary system that leaves officials unpaid.
+- [《资治通鉴·汉纪》652丨王莽的外科手术](sources/zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9.md) — 16-17 CE Wang Mang backfill on Wang Sunqing's punitive dissection, Zhai Yi rebellion aftermath, Western Regions mission failure, Yanqi ambush, Guo Qing's retaliation, symbolic封土授茅, and威斗 intimidation.
 - [《资治通鉴·汉纪》657丨王莽废太子，有多儿戏？](sources/zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l.md) — 20 CE Wang Mang backfill on disaster-omen succession correction, Wang An and Wang Ling's title rearrangement, Nine Temples construction, Ma Shiqiu's plot, private-coinage punishment, Tang Zun's austerity, and Zhi Yun's remonstrance.
 - [《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生](sources/zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk.md) — 18 CE Wang Mang backfill and Yang Xiong profile on Fei Xing's dismissed livelihood diagnosis, unpaid-official corruption, Wang-family scandal, Fangyan, fu writing, and delayed cultural recognition.
 - [《资治通鉴·汉纪》655丨万众归心到民怨沸腾，王莽做错了哪一步？](sources/zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko.md) — 18-19 CE Wang Mang backfill on Fan Chong's early rebel growth, Qing-Xu disorder, unsupported Xiongnu intervention, calendar/music/immortality spectacle, mass extraction, speculative anti-Xiongnu schemes, and Yan You's dismissed priority warning.
@@ -2057,6 +2058,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [王孙卿 / Wang Sunqing (Xin rebel)](entities/WangSunqingXinRebel.md) — Captured Zhai Yi rebellion leader whose punitive dissection grounds Hanji 652's medicalized political-terror case.
+- [翟义起义 / Zhai Yi Rebellion](entities/ZhaiYiRebellion.md) — Major anti-Wang-Mang uprising that explains Wang Sunqing's long fugitive status and later punishment.
+- [王骏 / Wang Jun (Xin general)](entities/WangJunXinGeneral.md) — Xin Western Regions commander killed after Yanqi feigns submission and ambushes his expedition.
+- [李崇 / Li Chong (Xin Western Regions protector)](entities/LiChongXinProtector.md) — Xin protector who gathers remnants at Qiuci after Wang Jun's failed Western Regions mission.
+- [郭清 / Guo Qing (Xin general)](entities/GuoQingXinGeneral.md) — Xin officer rewarded after retaliatory killing of Yanqi old and weak civilians.
+- [焉耆国 / Yanqi Kingdom (Xin period)](entities/YanqiKingdomXin.md) — Western Regions polity that ambushes Wang Jun and then suffers Guo Qing's retaliation in Hanji 652.
 - [《方言》 / Fangyan](entities/Fangyan.md) — Yang Xiong's dialectological work in Hanji 654, presented as a twenty-seven-year project and China's first dialect-research text.
 - [费兴 / Fei Xing (Xin official)](entities/FeiXingXinOfficial.md) — Xin official removed after diagnosing Jing-Yang banditry through mountain-and-marsh taxation, drought, and livelihood collapse.
 - [王宗 / Wang Zong (Xin prince)](entities/WangZongXinPrince.md) — Wang Mang grandson whose private imperial imagery and seals become a lethal late-Xin household scandal.
@@ -11472,6 +11479,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [惩罚性解剖政治恐怖 / Punitive Anatomy as Political Terror](concepts/PunitiveAnatomyPoliticalTerror.md) — Political-violence pattern where anatomical or medical language is fused with enemy punishment and intimidation.
 - [危机优先级错置 / Crisis Priority Misalignment](concepts/CrisisPriorityMisalignment.md) — Governance failure where a ruler funds and pursues the wrong crisis sequence while the nearer regime-breaking danger worsens.
 - [Delayed Canonical Recognition / 延迟经典化](concepts/DelayedCanonicalRecognition.md) — Reception pattern in which low visible status hides durable work until later readers recognize its cultural value.
 - [财政压榨叛乱螺旋 / Fiscal Extraction Rebellion Spiral](concepts/FiscalExtractionRebellionSpiral.md) — Governance pattern where crisis taxation converts fiscal need into flight, death, banditry, and deeper insecurity.
