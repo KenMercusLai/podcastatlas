@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》631丨古代杀人，真会把白骨堆成山？
+
+Ingested the 2026-06-02 芮淇讲透资治通鉴 episode backfilling 7-8 CE Wang Mang suppression politics through Zhai Yi's defeat, commander rewards, clan and grave retaliation, corpse-pile intimidation, light mourning posture, Wang Guang's death, and pre-accession fuming support. Added source `zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab`; updated `WangMang`, `ZhaiYiRebellion`, `PublicCorpseHumiliation`, `FumingMonopolyBackfire`, `PostUsurpationLegitimacyConsolidation`, and `index`. No settled contradiction found; Zhao Peng, Huo Hong, Wang Guang, Dou Kuang, corpse-pile term spelling, exact battle geography, and Wang Mang's inner motives remain source-scoped.
+
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝
 
 Ingested the 2026-06-02 芮淇讲透资治通鉴 episode backfilling 5 CE Wang Mang succession and acting-emperor politics after Han Pingdi's death. Added source `zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc`; updated `HanPingdi`, `RuziYing`, `WangZhengjun`, `FumingMonopolyBackfire`, `ControllableChildAccession`, and `PostUsurpationLegitimacyConsolidation`. No settled contradiction found; Meng Tong, Wang Shun's private motive, the adult Liu candidate field, the legal force of "兄弟不得相为后," and whether the white stone was staged remain source-scoped.
@@ -16682,5 +16686,9 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

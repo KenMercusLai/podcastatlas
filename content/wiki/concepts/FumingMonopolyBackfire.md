@@ -6,7 +6,8 @@ tags: [history, china, legitimacy, omen-politics, xin-dynasty]
 sources:
   - zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj
   - zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc
-last_updated: 2026-09-09
+  - zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab
+last_updated: 2026-09-10
 ---
 
 ## Definition
@@ -15,7 +16,7 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc|Hanji 628]] now supplies the pre-accession seed case: after [[HanPingdi|汉平帝]] dies, a white stone bearing "告安汉公王为皇帝" lets [[WangMang|王莽]] turn succession management into Heaven-backed acting-emperor authority. [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|Hanji 642]] then grounds the backfire in Wang Mang's early [[XinDynasty|新朝]]. Before accession, fuming reports helped make Wang Mang's seizure of the Western Han throne appear mandated. After accession, the same reward structure kept producing fabricated signs, so the device shifted from useful propaganda to uncontrolled competition over rank, favor, and interpretation.
+[[zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc|Hanji 628]] supplies the pre-accession seed case: after [[HanPingdi|汉平帝]] dies, a white stone bearing "告安汉公王为皇帝" lets [[WangMang|王莽]] turn succession management into Heaven-backed acting-emperor authority. [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|Hanji 631]] adds the next pre-accession uptake: after Zhai Yi's defeat and before formal accession, reports of a new well, stone ox, and inscribed stone are accepted as signs supporting Wang Mang's move from "假皇帝" toward real emperor. [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|Hanji 642]] then grounds the backfire in Wang Mang's early [[XinDynasty|新朝]]. Before accession, fuming reports helped make Wang Mang's seizure of the Western Han throne appear mandated. After accession, the same reward structure kept producing fabricated signs, so the device shifted from useful propaganda to uncontrolled competition over rank, favor, and interpretation.
 
 The episode's core reversal is institutional rather than psychological alone. [[ChenChongXinOfficial|陈崇]] warns that fuming allows opportunists to confuse Heaven's mandate and chase benefits. Wang Mang answers by restricting who may report fuming and punishing unauthorized claims. The point is not that the court has rejected sign politics; it is that sign politics must now be monopolized by the ruler.
 
@@ -25,6 +26,7 @@ The [[ZhenXunXinOfficial|甄寻]] case shows the backfire at its sharpest. Zhen 
 
 - Mandate-sign politics becomes unstable when rewards make fabrication rational for many actors.
 - A successful fuming can convert a succession crisis into an office-and-ritual upgrade before formal usurpation.
+- Repeated pre-accession fuming uptake can make the shift from acting emperor to formal emperor look like accumulated sacred evidence.
 - A ruler who rose through sign interpretation has a special incentive to monopolize later sign interpretation.
 - Suppression of new signs can preserve ruler authority without abandoning the broader omen system.
 - The same legitimacy technology can recode former allies and imitators as threats.
@@ -33,6 +35,7 @@ The [[ZhenXunXinOfficial|甄寻]] case shows the backfire at its sharpest. Zhen 
 ## Evidence
 
 - Pre-accession fuming use: [[zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc|Hanji 628]] says the white-stone inscription is interpreted as Heaven ordering Wang Mang to act as emperor while a young successor is pending.
+- Accession-stage sign accumulation: [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|Hanji 631]] says Wang Mang accepts reports of a new well, stone ox, and inscribed stone as fuming/auspicious support while preparing to remove the "假" from "假皇帝."
 - Reward-created imitation: [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|Hanji 642]] says fuming had helped Wang Mang gain the throne and that people previously received titles and rewards for submitting such signs.
 - Control rationale: [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|Hanji 642]] says Chen Chong warned that opportunists could use fuming to pursue rank and confuse Heaven's mandate.
 - Monopoly response: [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|Hanji 642]] says Wang Mang limited valid fuming channels and ordered punishment for unauthorized reports.
@@ -40,12 +43,12 @@ The [[ZhenXunXinOfficial|甄寻]] case shows the backfire at its sharpest. Zhen 
 
 ## Counterevidence & Qualifications
 
-This concept is currently source-bounded to Hanji 628 and Hanji 642. It does not prove Wang Mang's inner belief or establish every historical fuming claim as consciously fabricated. Hanji 628's host strongly implies the white stone was politically manufactured, but the page keeps the manufacture claim source-scoped. Hanji 642's transcript writes 撫命, while the wiki normalizes the device as 符命/fuming because the described Xin legitimacy practice matches that term. Apply the concept only where a ruler first benefits from mandate-sign production and then turns to suppressing uncontrolled imitation.
+This concept is currently source-bounded to Hanji 628, Hanji 631, and Hanji 642. It does not prove Wang Mang's inner belief or establish every historical fuming claim as consciously fabricated. Hanji 628's host strongly implies the white stone was politically manufactured, but the page keeps the manufacture claim source-scoped. Hanji 631 supports sign accumulation before accession, not yet the backfire itself. Hanji 642's transcript writes 撫命, while the wiki normalizes the device as 符命/fuming because the described Xin legitimacy practice matches that term. Apply the concept only where a ruler first benefits from mandate-sign production and then turns to suppressing uncontrolled imitation.
 
 ## What Changed
 
-- Added Hanji 628 as the white-stone pre-accession seed case that makes Wang Mang's acting-emperor authority look Heaven-backed.
-- Preserved Hanji 642 as the transition from rewarded fuming production to ruler-monopolized fuming control under Wang Mang.
+- Added Hanji 631 as the accession-stage sign accumulation between the white-stone acting-emperor move and the later post-accession monopoly problem.
+- Preserved Hanji 628 as the white-stone pre-accession seed case and Hanji 642 as the transition to ruler-monopolized fuming control.
 
 ## Related Concepts
 
