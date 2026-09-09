@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6799
+wiki_total_pages: 6801
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "HMOManagedCare"
     title: "HMO Managed Care"
     url: "/wiki/concepts/hmomanagedcare/"
+  - key: "HolidayPeakTravelPlanning"
+    title: "Holiday Peak Travel Planning"
+    url: "/wiki/concepts/holidaypeaktravelplanning/"
   - key: "HoloAssets"
     title: "Holo Assets"
     url: "/wiki/concepts/holoassets/"

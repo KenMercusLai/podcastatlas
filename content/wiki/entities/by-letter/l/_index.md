@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9389
+wiki_total_pages: 9391
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -1694,6 +1694,9 @@ wiki_pages:
   - key: "Laozi"
     title: "老子 / Laozi"
     url: "/wiki/entities/laozi/"
+  - key: "LaobaoTravelLeader"
+    title: "老宝 / Laobao (travel leader)"
+    url: "/wiki/entities/laobaotravelleader/"
   - key: "LaoLiLihun"
     title: "老李（《离婚》） / Lao Li"
     url: "/wiki/entities/laolilihun/"

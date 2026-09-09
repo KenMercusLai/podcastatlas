@@ -14831,6 +14831,10 @@
     "title": "儋州 / Danzhou",
     "url": "/wiki/entities/danzhou/"
   },
+  "DaocaorenTravel": {
+    "title": "稻草人旅行 / Daocaoren Travel",
+    "url": "/wiki/entities/daocaorentravel/"
+  },
   "Daodejing": {
     "title": "《道德经》 / Daodejing",
     "url": "/wiki/entities/daodejing/"
@@ -26159,6 +26163,10 @@
     "title": "Holiday Inn",
     "url": "/wiki/entities/holidayinn/"
   },
+  "HolidayPeakTravelPlanning": {
+    "title": "Holiday Peak Travel Planning",
+    "url": "/wiki/concepts/holidaypeaktravelplanning/"
+  },
   "HolmesPasticheTradition": {
     "title": "福尔摩斯同人传统 / Holmes Pastiche Tradition",
     "url": "/wiki/concepts/holmespastichetradition/"
@@ -32422,6 +32430,10 @@
   "LaoXiuLateHan": {
     "title": "劳修 / Lao Xiu (late Han)",
     "url": "/wiki/entities/laoxiulatehan/"
+  },
+  "LaobaoTravelLeader": {
+    "title": "老宝 / Laobao (travel leader)",
+    "url": "/wiki/entities/laobaotravelleader/"
   },
   "Laos": {
     "title": "Laos / 老挝",
@@ -57343,6 +57355,10 @@
     "title": "Traumatic Attachment",
     "url": "/wiki/concepts/traumaticattachment/"
   },
+  "TravelAgencyItineraryOperations": {
+    "title": "Travel Agency Itinerary Operations",
+    "url": "/wiki/concepts/travelagencyitineraryoperations/"
+  },
   "TravelAgentResilience": {
     "title": "Travel Agent Resilience",
     "url": "/wiki/concepts/travelagentresilience/"
@@ -67374,6 +67390,10 @@
   "ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf": {
     "title": "EP385-《我的前半生》翻红：从“寄生虫”到“独立女性”，罗子君的逆袭成立吗？",
     "url": "/wiki/sources/ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf/"
+  },
+  "ep386-shiyi-chuxing-bu-xiang-dang-dayuanzhong-zanmen-lai-tingting-zishen-lingdui-de-xiaoqiaosi-gkwrirwodgrhaeuitgtugmxp": {
+    "title": "EP386-十一出行不想当大冤种？咱们来听听资深领队的小巧思！",
+    "url": "/wiki/sources/ep386-shiyi-chuxing-bu-xiang-dang-dayuanzhong-zanmen-lai-tingting-zishen-lingdui-de-xiaoqiaosi-gkwrirwodgrhaeuitgtugmxp/"
   },
   "ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj": {
     "title": "EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率",

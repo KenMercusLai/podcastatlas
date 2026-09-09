@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6799
+wiki_total_pages: 6801
 wiki_pages:
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "TraumaticAttachment"
     title: "Traumatic Attachment"
     url: "/wiki/concepts/traumaticattachment/"
+  - key: "TravelAgencyItineraryOperations"
+    title: "Travel Agency Itinerary Operations"
+    url: "/wiki/concepts/travelagencyitineraryoperations/"
   - key: "TravelAgentResilience"
     title: "Travel Agent Resilience"
     url: "/wiki/concepts/travelagentresilience/"
