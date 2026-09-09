@@ -24891,9 +24891,9 @@
       "url": "/wiki/entities/empressmamingdeeasternhan/"
     },
     "EmpressSelectionRitualLegitimacy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？ [lghFih9xcRjYRvDLB4OBDXvwhl1Y].md",
@@ -24901,9 +24901,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？ [lklLbe015XKB7WlhkOBtaStKiFDo].md",
+          "key": "zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/empressselectionrituallegitimacy/"
     },
     "EmpressSisi": {
@@ -24930,9 +24937,9 @@
       "url": "/wiki/entities/empresssisi/"
     },
     "EmpressWangPingdi": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？ [lrjUrgJZVwEzkppvGeUpu6orMMzW].md",
@@ -24954,6 +24961,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》627-1丨【女性必听】独特视角：经期隐喻背后的历史智慧",
           "url": "/wiki/sources/zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？ [lklLbe015XKB7WlhkOBtaStKiFDo].md",
+          "key": "zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo/"
         }
       ],
       "updated": "2026-09-10",
@@ -35057,9 +35071,9 @@
       "url": "/wiki/entities/hanmenglatehan/"
     },
     "HanPingdi": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -35081,6 +35095,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》627-1丨【女性必听】独特视角：经期隐喻背后的历史智慧",
           "url": "/wiki/sources/zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？ [lklLbe015XKB7WlhkOBtaStKiFDo].md",
+          "key": "zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo/"
         }
       ],
       "updated": "2026-09-10",
@@ -39687,6 +39708,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/imperialbirthmotherrecognition/"
+    },
+    "ImperialBridePriceRitualPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？ [lklLbe015XKB7WlhkOBtaStKiFDo].md",
+          "key": "zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/imperialbridepriceritualpolitics/"
     },
     "ImperialClassicsConsensusBuilding": {
       "episode_count": 1,
@@ -83633,9 +83670,9 @@
       "url": "/wiki/entities/wanglingxinprince/"
     },
     "WangMang": {
-      "episode_count": 24,
+      "episode_count": 25,
       "show_count": 2,
-      "source_note_count": 24,
+      "source_note_count": 25,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -83804,6 +83841,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》620丨史上最传奇的“全民大选”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-620-shishang-zui-chuanqi-de-quanmin-daxuan-llijvsut0ldv-ugfa281sllst4gu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？ [lklLbe015XKB7WlhkOBtaStKiFDo].md",
+          "key": "zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo/"
         }
       ],
       "updated": "2026-09-10",
@@ -84205,9 +84249,9 @@
       "url": "/wiki/entities/wangyuanweixiaoretainer/"
     },
     "WangZhengjun": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -84264,6 +84308,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》621丨帝王心术：攻心最重要！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-621-diwang-xinshu-gongxin-zui-zhongyao-lgo01rnxby9ynyyzanljhtrawjck/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？ [lklLbe015XKB7WlhkOBtaStKiFDo].md",
+          "key": "zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo/"
         }
       ],
       "updated": "2026-09-10",

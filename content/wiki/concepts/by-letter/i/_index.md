@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6894
+wiki_total_pages: 6895
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -824,6 +824,9 @@ wiki_pages:
   - key: "InstitutionalReconstructionFromPrecedent"
     title: "旧制文献恢复式制度重建 / Institutional Reconstruction From Precedent"
     url: "/wiki/concepts/institutionalreconstructionfromprecedent/"
+  - key: "ImperialBridePriceRitualPolitics"
+    title: "皇后聘礼礼制政治 / Imperial Bride-Price Ritual Politics"
+    url: "/wiki/concepts/imperialbridepriceritualpolitics/"
   - key: "ImperialConsortPosthumousTitleSystem"
     title: "皇后谥号制度 / Imperial Consort Posthumous Title System"
     url: "/wiki/concepts/imperialconsortposthumoustitlesystem/"

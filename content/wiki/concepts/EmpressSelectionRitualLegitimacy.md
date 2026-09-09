@@ -5,7 +5,8 @@ knowledge_schema: synthesis-v1
 tags: [han, late-han, court-politics, palace, ritual, legitimacy]
 sources:
   - zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y
-last_updated: 2026-08-29
+  - zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo
+last_updated: 2026-09-10
 ---
 
 ## Definition
@@ -14,13 +15,14 @@ Empress selection ritual legitimacy is the principle that choosing an empress is
 
 ## Current Synthesis
 
-The current evidence comes from [[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]], where [[EmperorShunOfHan|汉顺帝]] initially considers choosing an empress by lottery or divination among four favored women. [[HuGuangLateHan|胡广]] and Guo Qian reject this as lacking ancient and dynastic precedent, and they reframe the decision around ordered criteria: virtue first, then age, then appearance.
+The current evidence now spans a Western Han marriage-procedure case and a later Eastern Han selection-correction case. [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|Hanji 615]] shows [[HanPingdi|汉平帝]]'s marriage to [[EmpressWangPingdi|王莽之女]] being made legitimate through official inspection, virtue-and-appearance reporting, divination, sacrifice, ancestral notification, and bride-price precedent. [[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] then supplies the negative correction case, where [[EmperorShunOfHan|汉顺帝]] initially considers choosing an empress by lottery or divination among four favored women. [[HuGuangLateHan|胡广]] and Guo Qian reject this as lacking ancient and dynastic precedent, and they reframe the decision around ordered criteria: virtue first, then age, then appearance.
 
 That correction turns a palace preference problem into a legitimacy problem. [[EmpressDowagerLiangNaLateHan|梁妠]]'s reported refusal to monopolize imperial favor becomes evidence of public-minded restraint, and her elevation makes [[LiangShangLateHan|梁商]] an outer relative with immediate court rank. The episode therefore connects household virtue language, ritual propriety, and family power formation in a single succession-adjacent decision.
 
 ## Key Claims
 
-- Empress selection is treated as a dynastic-ritual decision, not as an acceptable field for chance, divination, or private preference.
+- Empress selection is treated as a dynastic-ritual decision, not as an ordinary private marriage or an acceptable field for chance and private preference.
+- Official inspection, divination, sacrifice, ancestral notification, and bride-price can all make an empress marriage publicly legible.
 - Ministerial remonstrance can convert an emperor's palace choice into a procedure governed by precedent and public standards.
 - The ranking of virtue before age and appearance makes moral narration central to the legitimacy of the chosen empress.
 - Liang Na's deference narrative shows how palace conduct can be translated into public political qualification.
@@ -28,6 +30,9 @@ That correction turns a palace preference problem into a legitimacy problem. [[E
 
 ## Evidence
 
+- Western Han procedural case: [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|Hanji 615]] says Wang Zhengjun sends officials to evaluate Wang Mang's daughter and report her education, appearance, and character as empress qualifications.
+- Ritual confirmation: [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|Hanji 615]] says high officials conduct divination and notify Han ancestors through sacrifice after the match is read as auspicious.
+- Bride-price precedent: [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|Hanji 615]] records the imperial bride-price as a precedent-bound amount, tying empress selection to dynastic exchange and ritual status.
 - Lottery rejected as illegitimate: [[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] records Hu Guang and Guo Qian arguing that lottery or divination lacked proper precedent for selecting the empress.
 - Ordered criteria supplied by ministers: [[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] says the ministers propose virtue first, then age, then appearance, making the selection intelligible as judgment rather than chance.
 - Virtue narrative attached to Liang Na: [[zizhi-tongjian-hanji-811-gudai-huangdi-jing-kao-chouqian-xuan-huanghou-lghfih9xcrjyrvdlb4obdxvwhl1y|Hanji 811]] presents Liang Na's refusal to monopolize imperial summons as evidence that she could manage palace favor with restraint.
@@ -35,19 +40,21 @@ That correction turns a palace preference problem into a legitimacy problem. [[E
 
 ## Counterevidence & Qualifications
 
-- The evidence base is currently a single episode note, so the concept should not yet be generalized beyond this Shun-era case without more source support.
+- The evidence base now has two episode notes, but they are not identical cases: Hanji 615 uses divination as confirmation inside a broader ritual procedure, while Hanji 811 rejects lottery/divination as the deciding method among favored women.
+- Hanji 615 supports the reported selection procedure and bride-price but does not prove the candidate's private qualities or her experience of the marriage.
 - The episode reports the legitimacy narrative around Liang Na but does not independently prove her private motives or the actual fairness of the selection process.
 - Later Liang-family power dynamics are handled in [[OuterRelativeCourtPower]] and related entity pages; Hanji 811 only establishes the first elevation layer.
 
 ## What Changed
 
-- Created the concept from Hanji 811's empress-selection dispute.
-- Identified the ministerial move from lottery to virtue-ranked selection as a legitimacy repair.
-- Connected Liang Na's palace-deference narrative to Liang Shang's immediate outer-relative rise.
+- Added Hanji 615 as the earlier Western Han case where official inspection, divination, sacrifice, ancestral notification, and bride-price make empress marriage a public dynastic procedure.
+- Preserved Hanji 811's ministerial move from lottery to virtue-ranked selection as a legitimacy repair.
+- Kept Liang Na's palace-deference narrative linked to Liang Shang's immediate outer-relative rise.
 
 ## Related Concepts
 
 - [[LiAsPoliticalOrder]] - empress selection is framed as a ritual order problem rather than a private household choice.
+- [[ImperialBridePriceRitualPolitics]] - bride-price and redistribution make the marriage-payment side of empress selection politically meaningful.
 - [[MingqiLegitimacy]] - the ministers seek a legitimate name and procedure for a dynastic office.
 - [[OuterRelativeCourtPower]] - Liang Na's appointment immediately changes Liang Shang's status and opens an outer-relative pathway.
 - [[PalaceFavoriteProtectionFragility]] - Liang Na's refusal to monopolize favor contrasts with palace favoritism as an unstable basis for security.

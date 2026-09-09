@@ -16741,6 +16741,10 @@ Added source note for the 2026-06-01 芮淇讲透资治通鉴 PLUS episode on me
 
 Added source note for a 半拿铁 episode on China's O2O and sharing-economy cycle through shared bikes, shared power banks, home massage, manicure, community services, and local-service digitization. Created O2O Platform Economics, Chinese Sharing-Economy Bubble, Shared-Bike Capital War, Local Services O2O, Zhu Xiaohu, GSR Ventures, Dai Wei, Hu Weiwei, Li Bin, HelloBike, Bluegogo, Jiedian, Helijia, Dudu Meijia, Gongfu Xiong, and Dingdong Xiaoqu pages; migrated and updated OFO, Mobike, Shared-Bike Manufacturing Shock, Dingdong Maicai, and Healthcare O2O. No settled contradiction found; the source qualifies the wiki's platform history by separating real offline demand from subsidy-dependent, weakly standardized, or asset-heavy platform economics.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？
+
+Added source note for the 3 CE Wang Mang and Han Pingdi imperial-marriage episode. Key claims: Wang Zhengjun's envoys, divination, sacrifice, and ancestral notification make the empress selection a dynastic ritual act; the bride-price precedent is enormous; Wang Mang partially accepts and redistributes much of it as humility and kinship capital; and his early social-rank regulations plus Four Offices/Three Excellencies role show power consolidation before the 4 CE petition and praise sequence.
+
 ## [2026-09-10] ingest | OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute
 
 Added source note for the 2026-06-02 All-In interview with Sarah Friar on OpenAI's IPO framing, March fundraising, compute scarcity, multi-cloud and multi-chip infrastructure strategy, enterprise adoption, ChatGPT advertising, Sora constraints, and Jony Ive device work. Created Sarah Friar and OpenAI Compute Strategy pages. No settled contradiction found; fundraising, usage, search-share, device-timing, GPT-5.5 pricing, and compute-availability claims remain source-scoped to the interview.
@@ -16809,6 +16813,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》620丨史上最传奇的“全民大选”
 
 Added source note for the 4 CE Wang Mang petition-and-reward episode. Key claims: more than 8,000 petitioners help make Wang Mang's "宰衡" elevation look publicly demanded; Wang Zhengjun personally confers the package; Wang Mang's refusal of his sons' honors becomes another status-inflation step; and Kong Guang's counter-petition helps summon him back to government.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
