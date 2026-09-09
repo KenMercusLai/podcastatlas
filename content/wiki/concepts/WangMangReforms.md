@@ -7,6 +7,7 @@ sources:
   - 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780
   - zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk
   - zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz
+  - zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k
 last_updated: 2026-09-09
 ---
 
@@ -16,7 +17,9 @@ Wang Mang reforms / 王莽改制 is the policy program by which [[WangMang|王�
 
 ## Current Synthesis
 
-The concept now has two bounded layers. [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] defines the broad reform field: Wang fields, anti-merchant and agrarian ideals, salt/iron/wine monopolies, mountain-and-marsh taxes, five-equalization credit policy, gold conversion, and repeated currency reforms. The source's interpretation is neither that the reforms were simply evil nor that they were misunderstood modernity. They are framed as [[TuoguReformPolitics|托古改制]]: idealistic, controlling, and often disconnected from administrative capacity and economic behavior.
+The concept now has three bounded layers. [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] defines the broad reform field: Wang fields, anti-merchant and agrarian ideals, salt/iron/wine monopolies, mountain-and-marsh taxes, five-equalization credit policy, gold conversion, and repeated currency reforms. The source's interpretation is neither that the reforms were simply evil nor that they were misunderstood modernity. They are framed as [[TuoguReformPolitics|托古改制]]: idealistic, controlling, and often disconnected from administrative capacity and economic behavior.
+
+[[zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k|Hanji 648]] supplies an earlier 14 CE currency-churn layer. Before the later official-salary and 五均六管 notes, Wang Mang is already restoring gold, silver, turtle-shell, and cowry monies, cancelling prior large and small coins, introducing huobu and huoquan, and keeping the large coin alive for a six-year transition because social use cannot be instantly cut off. The host's strongest policy claim is not technical numismatics but commoner exposure: repeated resets damage household wealth and can push people into punishable survival crime.
 
 [[zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz|Hanji 650]] supplies an earlier 15-16 CE administrative-fiscal layer. Wang Mang's reforms include not only market and monopoly controls but also official-compensation design: temporary cloth-only pay gives way to a fifteen-rank salary system whose amounts vary with harvest, disaster, and palace supply conditions. The episode's key contribution is implementation capacity: a rule may look ordered and solidaristic while remaining too complex to calculate and deliver.
 
@@ -27,7 +30,7 @@ Across the sources, Wang Mang's reforms are best read as a combination of moral 
 ## Key Claims
 
 - The reforms tried to force social reality into a morally ordered ancient template.
-- Currency and fiscal interventions created uncertainty and stress.
+- Currency churn created uncertainty before later punitive enforcement made monetary stress coercive.
 - Monopoly and tax policy expanded state reach without solving state capacity.
 - [[WujunLiuguan|五均六管]] shows that anti-merchant and anti-usury rhetoric can be captured when implementation is delegated to wealthy merchants and colluding local officials.
 - The official salary reform shows that administrative complexity can defeat a policy even when its stated logic links officials to public hardship.
@@ -38,6 +41,8 @@ Across the sources, Wang Mang's reforms are best read as a combination of moral 
 
 - Broad reform inventory: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] lists Wang fields, monopolies, mountain-and-marsh taxation, credit, gold conversion, and repeated currency reforms as part of Wang Mang's program.
 - Reform interpretation: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] frames the reforms as idealistic, coercive, archaizing, and administratively unrealistic rather than as simple villainy or modern policy success.
+- Currency reset and transition: [[zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k|Hanji 648]] says Wang Mang restores multiple older money forms, cancels earlier large and small coins, introduces huobu and huoquan, and grants six years for the old large coin to keep circulating.
+- Commoner wealth exposure: [[zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k|Hanji 648]] uses the host's judgment that repeated currency reform can bankrupt commoners and push them into criminalized survival.
 - Official salary design: [[zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz|Hanji 650]] records a fifteen-rank system linking official pay to harvest, disaster, and palace supply conditions.
 - Salary implementation failure: [[zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz|Hanji 650]] says the system remains too complex to pay officials reliably, helping turn reform order into bribery risk.
 - Price and credit mechanism: [[zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk|Hanji 653]] says the five equalizations regulate prices for key livelihood goods and use official lending for difficult transactions.
@@ -47,13 +52,14 @@ Across the sources, Wang Mang's reforms are best read as a combination of moral 
 
 ## Counterevidence & Qualifications
 
-The wiki does not treat every Wang Mang policy as insincere or every interventionist tool as inherently failed. The bounded claim is that these sources show reform ambitions outrunning Xin's implementation capacity, feedback systems, and social tolerance. Hanji 650's "performance pay" framing and Hanji 653's "socialism" framing are kept as modern analogies rather than precise institutional classifications; exact salary calculations, office design, tax rates, regional variation, and later rebel biographies remain source-scoped.
+The wiki does not treat every Wang Mang policy as insincere or every interventionist tool as inherently failed. The bounded claim is that these sources show reform ambitions outrunning Xin's implementation capacity, feedback systems, and social tolerance. Hanji 648's virtue/retribution and commoner-bankruptcy language, Hanji 650's "performance pay" framing, and Hanji 653's "socialism" framing are kept as host interpretations or modern analogies rather than precise institutional classifications; exact coin values, transition mechanics, salary calculations, office design, tax rates, regional variation, and later rebel biographies remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 650 as the 15-16 CE official-salary reform and implementation-complexity layer.
+- Added Hanji 648 as the 14 CE currency-reset and commoner-exposure layer.
+- Preserved Hanji 650 as the 15-16 CE official-salary reform and implementation-complexity layer.
 - Preserved Hanji 653 as the focused 17 CE 五均六管 implementation layer.
-- Reframed Wang Mang reform failure around administrative complexity and institutional capture as well as archaizing ideology and administrative overreach.
+- Reframed Wang Mang reform failure around currency churn, administrative complexity, and institutional capture as well as archaizing ideology and administrative overreach.
 
 ## Related Concepts
 

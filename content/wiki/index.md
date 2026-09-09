@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》648丨为什么我劝你必须积德？](sources/zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k.md) — 14 CE Wang Mang backfill on virtue/retribution framing, frontier famine and retrenchment, Han Wei's anti-Xiongnu bravado, renewed Xiongnu raids, Yizhou revolt, requisitioned pacification, and another currency reset that harms commoners.
 - [《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？](sources/zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz.md) — 15-16 CE Wang Mang backfill on eunuch-controlled treasuries and memorials, administrative backlog, disaster pressure, frontier grain costs, and a complex fifteen-rank variable salary system that leaves officials unpaid.
 - [《资治通鉴·汉纪》657丨王莽废太子，有多儿戏？](sources/zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l.md) — 20 CE Wang Mang backfill on disaster-omen succession correction, Wang An and Wang Ling's title rearrangement, Nine Temples construction, Ma Shiqiu's plot, private-coinage punishment, Tang Zun's austerity, and Zhi Yun's remonstrance.
 - [《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生](sources/zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk.md) — 18 CE Wang Mang backfill and Yang Xiong profile on Fei Xing's dismissed livelihood diagnosis, unpaid-official corruption, Wang-family scandal, Fangyan, fu writing, and delayed cultural recognition.

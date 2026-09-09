@@ -62194,9 +62194,9 @@
       "url": "/wiki/concepts/punishmentpersonalresponsibilitylimit/"
     },
     "PunitiveCurrencyEnforcementBackfire": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》658丨儿子确实不应该，王莽怒杀太子！ [ln4tU6LY8EIe6JsPVrurZn2RjjP_].md",
@@ -62211,6 +62211,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》657丨王莽废太子，有多儿戏？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》648丨为什么我劝你必须积德？ [liQYVDheJwwJsrQ3vc6FtmcO9M2k].md",
+          "key": "zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》648丨为什么我劝你必须积德？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k/"
         }
       ],
       "updated": "2026-09-09",
@@ -79850,9 +79857,9 @@
       "url": "/wiki/entities/wangmang/"
     },
     "WangMangReforms": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -79874,6 +79881,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》648丨为什么我劝你必须积德？ [liQYVDheJwwJsrQ3vc6FtmcO9M2k].md",
+          "key": "zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》648丨为什么我劝你必须积德？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k/"
         }
       ],
       "updated": "2026-09-09",
