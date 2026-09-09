@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6813
+wiki_total_pages: 6815
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "GradPLUSLoans"
     title: "Grad PLUS Loans"
     url: "/wiki/concepts/gradplusloans/"
+  - key: "GradualParentChildRelationship"
+    title: "Gradual Parent-Child Relationship / 渐进式亲子关系"
+    url: "/wiki/concepts/gradualparentchildrelationship/"
   - key: "GraduateSchoolDebt"
     title: "Graduate School Debt"
     url: "/wiki/concepts/graduateschooldebt/"
@@ -419,6 +422,9 @@ wiki_pages:
   - key: "GrowthROILayers"
     title: "Growth ROI Layers"
     url: "/wiki/concepts/growthroilayers/"
+  - key: "GrowthWitnessing"
+    title: "Growth Witnessing / 见证生长"
+    url: "/wiki/concepts/growthwitnessing/"
   - key: "GSMStandardization"
     title: "GSM Standardization"
     url: "/wiki/concepts/gsmstandardization/"

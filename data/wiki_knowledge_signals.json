@@ -32271,6 +32271,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/gracchi/"
     },
+    "GradualParentChildRelationship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhLhohpUHBpofcWXtzOuxDIvRber [lhLhohpUHBpofcWXtzOuxDIvRber].md",
+          "key": "shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhLhohpUHBpofcWXtzOuxDIvRber",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界",
+          "url": "/wiki/sources/shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhlhohpuhbpofcwxtzouxdivrber/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/gradualparentchildrelationship/"
+    },
     "Graft": {
       "episode_count": 1,
       "show_count": 1,
@@ -32419,6 +32435,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/groundtruthnewsletter/"
+    },
+    "GrowthWitnessing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhLhohpUHBpofcWXtzOuxDIvRber [lhLhohpUHBpofcWXtzOuxDIvRber].md",
+          "key": "shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhLhohpUHBpofcWXtzOuxDIvRber",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界",
+          "url": "/wiki/sources/shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhlhohpuhbpofcwxtzouxdivrber/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/growthwitnessing/"
     },
     "GuanBaLateHan": {
       "episode_count": 3,
@@ -44732,6 +44764,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/liangtongeasternhan/"
+    },
+    "LiangYiRelationshipEducator": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhLhohpUHBpofcWXtzOuxDIvRber [lhLhohpUHBpofcWXtzOuxDIvRber].md",
+          "key": "shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhLhohpUHBpofcWXtzOuxDIvRber",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界",
+          "url": "/wiki/sources/shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhlhohpuhbpofcwxtzouxdivrber/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/liangyirelationshipeducator/"
     },
     "LiangYuEasternHan": {
       "episode_count": 1,
@@ -69002,9 +69050,9 @@
       "url": "/wiki/entities/shibilatehan/"
     },
     "ShiDiFuShuo": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -69040,9 +69088,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说467期 - Joan姐 - 看清自我后，就没人能阻挡你活出自我了",
           "url": "/wiki/sources/shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg/"
+        },
+        {
+          "episode_file": "lhLhohpUHBpofcWXtzOuxDIvRber [lhLhohpUHBpofcWXtzOuxDIvRber].md",
+          "key": "shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhLhohpUHBpofcWXtzOuxDIvRber",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界",
+          "url": "/wiki/sources/shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhlhohpuhbpofcwxtzouxdivrber/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/shidifushuo/"
     },
     "ShiHuanLateHan": {
@@ -71553,9 +71608,9 @@
       "url": "/wiki/entities/stevebernard/"
     },
     "SteveShiDiFuShuoHost": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -71591,9 +71646,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说467期 - Joan姐 - 看清自我后，就没人能阻挡你活出自我了",
           "url": "/wiki/sources/shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg/"
+        },
+        {
+          "episode_file": "lhLhohpUHBpofcWXtzOuxDIvRber [lhLhohpUHBpofcWXtzOuxDIvRber].md",
+          "key": "shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhLhohpUHBpofcWXtzOuxDIvRber",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界",
+          "url": "/wiki/sources/shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhlhohpuhbpofcwxtzouxdivrber/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/steveshidifushuohost/"
     },
     "SteveYoungMelanomaPatient": {

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界](sources/shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhLhohpUHBpofcWXtzOuxDIvRber.md) — 史蒂夫说 episode with Liang Yi on Steve's gradual new fatherhood, parenting as relationship formation, love as attention reorganization, nonviolent communication, slow child development, and growth witnessing.
 - [The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel](sources/all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065.md) — All-In liquidity panel on Cerebras and Planet Labs as IPO-return cases, covering public-company credibility, post-IPO hold discipline, AI silicon, daily Earth observation, and orbital data-center economics.
 - [《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？](sources/zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9.md) — 16 CE Wang Mang backfill on Hetu-Luoshu omen interpretation, anti-Xiongnu confidence, southwest campaign overextension, civilian extraction, Feng Ying's stop-war remonstrance, and anatomy setup before Hanji 652.
 - [《资治通鉴·汉纪》648丨为什么我劝你必须积德？](sources/zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k.md) — 14 CE Wang Mang backfill on virtue/retribution framing, frontier famine and retrenchment, Han Wei's anti-Xiongnu bravado, renewed Xiongnu raids, Yizhou revolt, requisitioned pacification, and another currency reset that harms commoners.
@@ -2175,6 +2176,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [史礼芬 / Shi Lifen](entities/ShiLifen.md) — Media creator and panelist used in the episode to discuss knowledge-world vocabulary, phonetics, literary-youth taste, and cultural display.
 - [有没有文化现象 / Youmeiyou Wenhua Xianxiang](entities/YoumeiyouWenhuaXianxiang.md) — Planned podcast announced by Xiao Qi and Zhang Jun at the end of the status-signaling episode.
 - [童立 / Tong Li](entities/TongLiSexEducator.md) — Sex-education communicator and sex-psychology counselor in the 史蒂夫说 episode on sexual exploration, nonjudgmental counseling, male vulnerability, and adult-products relationship support.
+- [梁毅 / Liang Yi](entities/LiangYiRelationshipEducator.md) — Relationship and nonviolent-communication educator discussing Steve's early fatherhood, parenting conflict, regulation, and slow growth on 史蒂夫说.
 - [汗青 / Hanqing](entities/HanqingUrey.md) — AI Talk founder and Yuri / 尤栗 / 优瑞 creator who frames AI-native idol value around personality, taste, workflow orchestration, and original IP.
 - [Yuri / 尤栗 / 优瑞](entities/UreyVirtualIdol.md) — AI-native virtual idol and digital singer built through multi-model music, image, video, voice, and personality-system workflow.
 - [AI Talk](entities/AITalk.md) — Hanqing's early synthetic virtual-conversation project and training ground before the shift toward original AI-native IP.
@@ -11485,6 +11487,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Gradual Parent-Child Relationship / 渐进式亲子关系](concepts/GradualParentChildRelationship.md) — Parenting frame where attachment, recognition, trust, and the child's entry into reality develop through repeated interaction and regulated pacing.
+- [Growth Witnessing / 见证生长](concepts/GrowthWitnessing.md) — Practice of finding meaning by attending to small, slow changes in children, learners, friends, athletes, loved ones, and oneself.
 - [Earth Observation AI](concepts/EarthObservationAI.md) — AI application layer that uses satellite imagery and geospatial time series to reason about physical-world conditions.
 - [Hetu-Luoshu / 河图洛书](concepts/HetuLuoshu.md) — mythic-cosmological sign complex used in Hanji 651 to turn river change into an anti-Xiongnu omen.
 - [惩罚性解剖政治恐怖 / Punitive Anatomy as Political Terror](concepts/PunitiveAnatomyPoliticalTerror.md) — Political-violence pattern where anatomical or medical language is fused with enemy punishment and intimidation.

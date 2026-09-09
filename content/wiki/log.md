@@ -1872,6 +1872,10 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | 史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界
+
+Added source note for the 史蒂夫说 episode with 梁毅 / Liang Yi. Key claims: fatherhood can form gradually through repeated interaction; love reorganizes attention rather than merely adding time pressure; parenting benefits from inner work, nonviolent-communication style feeling exchange, and regulated entry into reality; slow growth can be witnessed in children, adults, students, athletes, and oneself.
+
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》702丨冯异的一场局，如何斩杀隗嚣两万人？
 
 Ingested the 2026-06-17 芮淇讲透资治通鉴 episode on Feng Yi's disputed-city preemption against Wei Xiao's Wang Yuan-Xing Xun advance, Ji Zun's parallel victory, local western commandery realignment, and Dou Rong's letter-based allegiance to Liu Xiu. Added source `zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot`; created `FengYiEasternHan` and `DecisiveTerrainPreemption`; updated Dou Rong, Wei Xiao, Ji Zun, Security for Authority Exchange, overview, and index. No settled contradiction found; Wang Yuan, Xing Xun, Dou You, Xi Feng, Liu Jun, Jia Lan, target-city identification, and exact local force counts remain source-scoped.
@@ -16454,6 +16458,10 @@ Added source note for Hanji 651. Key claims: Hetu-Luoshu and "earth suppresses w
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》649丨官场里的人情世故有多现实？
 
 Added source note for Hanji 649. Key claims: the yellow-dragon rumor is read as a legitimacy threat to Wang Mang; Chen Qing is killed as a diplomatic scapegoat before the Xiongnu corpse-return mission; ritual and classical ordering consume administrative attention; local vacancies, intrusive inspection, tax pressure, bribery, and official risk avoidance expose early late-Xin office paralysis.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 
