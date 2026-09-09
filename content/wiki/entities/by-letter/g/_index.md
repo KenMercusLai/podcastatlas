@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9485
+wiki_total_pages: 9497
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -899,6 +899,9 @@ wiki_pages:
   - key: "GangganghaoYingshi"
     title: "刚刚好影视 / Gangganghao Yingshi"
     url: "/wiki/entities/gangganghaoyingshi/"
+  - key: "GongfuXiong"
+    title: "功夫熊 / Gongfu Xiong"
+    url: "/wiki/entities/gongfuxiong/"
   - key: "GuYongqiang"
     title: "古永锵 / Gu Yongqiang"
     url: "/wiki/entities/guyongqiang/"
@@ -1211,6 +1214,9 @@ wiki_pages:
   - key: "GoldenCabinetPledge"
     title: "金匮之盟 / Golden Cabinet Pledge"
     url: "/wiki/entities/goldencabinetpledge/"
+  - key: "GSRVentures"
+    title: "金沙江创投 / GSR Ventures"
+    url: "/wiki/entities/gsrventures/"
   - key: "GuZhun"
     title: "顾准"
     url: "/wiki/entities/guzhun/"

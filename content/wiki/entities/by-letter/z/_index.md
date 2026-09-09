@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9485
+wiki_total_pages: 9497
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -977,6 +977,9 @@ wiki_pages:
   - key: "ZhuBoEasternHan"
     title: "朱勃 / Zhu Bo (Eastern Han)"
     url: "/wiki/entities/zhuboeasternhan/"
+  - key: "ZhuXiaohu"
+    title: "朱啸虎 / Zhu Xiaohu"
+    url: "/wiki/entities/zhuxiaohu/"
   - key: "ZhuNing"
     title: "朱宁 / Zhu Ning"
     url: "/wiki/entities/zhuning/"

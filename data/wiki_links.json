@@ -8155,6 +8155,10 @@
     "title": "Blue Owl Capital",
     "url": "/wiki/entities/blueowlcapital/"
   },
+  "Bluegogo": {
+    "title": "小蓝单车 / Bluegogo",
+    "url": "/wiki/entities/bluegogo/"
+  },
   "Bluesky": {
     "title": "Bluesky",
     "url": "/wiki/entities/bluesky/"
@@ -11675,6 +11679,10 @@
     "title": "Chinese Private Airline Opening",
     "url": "/wiki/concepts/chineseprivateairlineopening/"
   },
+  "ChineseSharingEconomyBubble": {
+    "title": "Chinese Sharing-Economy Bubble",
+    "url": "/wiki/concepts/chinesesharingeconomybubble/"
+  },
   "ChineseStandardEMU": {
     "title": "Chinese Standard EMU",
     "url": "/wiki/concepts/chinesestandardemu/"
@@ -14695,6 +14703,10 @@
     "title": "代国 / Dai State",
     "url": "/wiki/entities/daistate/"
   },
+  "DaiWei": {
+    "title": "戴威 / Dai Wei",
+    "url": "/wiki/entities/daiwei/"
+  },
   "DaiYiJueMiLu": {
     "title": "《大义觉迷录》",
     "url": "/wiki/entities/daiyijuemilu/"
@@ -16283,6 +16295,10 @@
     "title": "叮咚买菜 / Dingdong Maicai",
     "url": "/wiki/entities/dingdongmaicai/"
   },
+  "DingdongXiaoqu": {
+    "title": "叮咚小区 / Dingdong Xiaoqu",
+    "url": "/wiki/entities/dingdongxiaoqu/"
+  },
   "Dingtao": {
     "title": "陶 / 定陶 / Dingtao",
     "url": "/wiki/entities/dingtao/"
@@ -17398,6 +17414,10 @@
   "DubaiRealEstateMarket": {
     "title": "Dubai Real Estate Market",
     "url": "/wiki/concepts/dubairealestatemarket/"
+  },
+  "DuduMeijia": {
+    "title": "嘟嘟美甲 / Dudu Meijia",
+    "url": "/wiki/entities/dudumeijia/"
   },
   "Dujiangyan": {
     "title": "都江堰 / Dujiangyan",
@@ -22603,6 +22623,10 @@
     "title": "GSM Standardization",
     "url": "/wiki/concepts/gsmstandardization/"
   },
+  "GSRVentures": {
+    "title": "金沙江创投 / GSR Ventures",
+    "url": "/wiki/entities/gsrventures/"
+  },
   "GTSquared": {
     "title": "GT Squared",
     "url": "/wiki/entities/gtsquared/"
@@ -23790,6 +23814,10 @@
   "GongZizhen": {
     "title": "龚自珍 / Gong Zizhen",
     "url": "/wiki/entities/gongzizhen/"
+  },
+  "GongfuXiong": {
+    "title": "功夫熊 / Gongfu Xiong",
+    "url": "/wiki/entities/gongfuxiong/"
   },
   "GongshuHan": {
     "title": "公叔 / Gongshu of Han",
@@ -25867,6 +25895,10 @@
     "title": "Helicopter Parenting",
     "url": "/wiki/concepts/helicopterparenting/"
   },
+  "Helijia": {
+    "title": "河狸家 / Helijia",
+    "url": "/wiki/entities/helijia/"
+  },
   "Helion": {
     "title": "Helion",
     "url": "/wiki/entities/helion/"
@@ -25890,6 +25922,10 @@
   "HellScreen": {
     "title": "《地狱变》 / Hell Screen",
     "url": "/wiki/entities/hellscreen/"
+  },
+  "HelloBike": {
+    "title": "哈啰 / HelloBike",
+    "url": "/wiki/entities/hellobike/"
   },
   "HelloKitty": {
     "title": "Hello Kitty",
@@ -27098,6 +27134,10 @@
   "HuTengLateHan": {
     "title": "胡腾 / Hu Teng (late Han)",
     "url": "/wiki/entities/hutenglatehan/"
+  },
+  "HuWeiwei": {
+    "title": "胡玮炜 / Hu Weiwei",
+    "url": "/wiki/entities/huweiwei/"
   },
   "HuWencaiLateHan": {
     "title": "胡文才 / Hu Wencai (late Han)",
@@ -30331,6 +30371,10 @@
     "title": "Jie Dechen",
     "url": "/wiki/entities/jiedechen/"
   },
+  "JiedianPowerBank": {
+    "title": "街电 / Jiedian",
+    "url": "/wiki/entities/jiedianpowerbank/"
+  },
   "JieliChangjiang": {
     "title": "接力长江 / Jieli Changjiang",
     "url": "/wiki/entities/jielichangjiang/"
@@ -33419,6 +33463,10 @@
     "title": "李璧 / Li Bi",
     "url": "/wiki/entities/libiqincavalry/"
   },
+  "LiBinNio": {
+    "title": "李斌 / Li Bin",
+    "url": "/wiki/entities/libinnio/"
+  },
   "LiBing": {
     "title": "李冰 / Li Bing",
     "url": "/wiki/entities/libing/"
@@ -35054,6 +35102,10 @@
   "LocalPsychedelicDecriminalization": {
     "title": "Local Psychedelic Decriminalization",
     "url": "/wiki/concepts/localpsychedelicdecriminalization/"
+  },
+  "LocalServicesO2O": {
+    "title": "Local Services O2O",
+    "url": "/wiki/concepts/localserviceso2o/"
   },
   "LocalSocialCapitalAccumulation": {
     "title": "Local Social Capital Accumulation / 乡里社会资本积累",
@@ -41350,6 +41402,10 @@
   "O1": {
     "title": "O1",
     "url": "/wiki/entities/o1/"
+  },
+  "O2OPlatformEconomics": {
+    "title": "O2O Platform Economics",
+    "url": "/wiki/concepts/o2oplatformeconomics/"
   },
   "OCDCompulsionReinforcementLoop": {
     "title": "OCD Compulsion Reinforcement Loop",
@@ -51394,6 +51450,10 @@
   "ShareAI": {
     "title": "Share AI",
     "url": "/wiki/entities/shareai/"
+  },
+  "SharedBikeCapitalWar": {
+    "title": "Shared-Bike Capital War",
+    "url": "/wiki/concepts/sharedbikecapitalwar/"
   },
   "SharedBikeManufacturingShock": {
     "title": "Shared-Bike Manufacturing Shock",
@@ -66527,6 +66587,10 @@
     "title": "Zhu Xiaodong / 竺晓冬 (Yunsheng)",
     "url": "/wiki/entities/zhuxiaodongyunsheng/"
   },
+  "ZhuXiaohu": {
+    "title": "朱啸虎 / Zhu Xiaohu",
+    "url": "/wiki/entities/zhuxiaohu/"
+  },
   "ZhuYingWarringStates": {
     "title": "朱英 / Zhu Ying (Warring States)",
     "url": "/wiki/entities/zhuyingwarringstates/"
@@ -68806,6 +68870,10 @@
   "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666": {
     "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
     "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+  },
+  "no-218-o2o-yu-gongxiangjingji-shuyu-danche-chongdianbao-shangmenmeijia-he-anmo-de-mohuan-saqian-niandai-1013073318": {
+    "title": "No.218 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代",
+    "url": "/wiki/sources/no-218-o2o-yu-gongxiangjingji-shuyu-danche-chongdianbao-shangmenmeijia-he-anmo-de-mohuan-saqian-niandai-1013073318/"
   },
   "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht": {
     "title": "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚",

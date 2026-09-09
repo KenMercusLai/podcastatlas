@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6876
+wiki_total_pages: 6880
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -698,6 +698,9 @@ wiki_pages:
   - key: "ChinesePrivateAirlineOpening"
     title: "Chinese Private Airline Opening"
     url: "/wiki/concepts/chineseprivateairlineopening/"
+  - key: "ChineseSharingEconomyBubble"
+    title: "Chinese Sharing-Economy Bubble"
+    url: "/wiki/concepts/chinesesharingeconomybubble/"
   - key: "ChineseStandardEMU"
     title: "Chinese Standard EMU"
     url: "/wiki/concepts/chinesestandardemu/"

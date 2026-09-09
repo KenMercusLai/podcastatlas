@@ -1589,7 +1589,7 @@
       "earliest_episode_date": "2026-04-25",
       "latest_episode_date": "2026-09-09",
       "latest_episode_file": "No.218 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代 [1013073318].md",
-      "source_note_count": 21,
+      "source_note_count": 22,
       "topic_matched_source_note_count": 8,
       "topics": [
         {
@@ -1668,9 +1668,9 @@
           "episode_count": 2
         },
         {
-          "key": "Pinduoduo",
-          "title": "Pinduoduo",
-          "url": "/wiki/entities/pinduoduo/",
+          "key": "Mobike",
+          "title": "Mobike / 摩拜",
+          "url": "/wiki/entities/mobike/",
           "kind": "organization",
           "episode_count": 2
         }

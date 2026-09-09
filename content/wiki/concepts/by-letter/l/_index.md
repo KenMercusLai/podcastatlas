@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6876
+wiki_total_pages: 6880
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "LocalPsychedelicDecriminalization"
     title: "Local Psychedelic Decriminalization"
     url: "/wiki/concepts/localpsychedelicdecriminalization/"
+  - key: "LocalServicesO2O"
+    title: "Local Services O2O"
+    url: "/wiki/concepts/localserviceso2o/"
   - key: "LocalSocialCapitalAccumulation"
     title: "Local Social Capital Accumulation / 乡里社会资本积累"
     url: "/wiki/concepts/localsocialcapitalaccumulation/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.218 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代](sources/no-218-o2o-yu-gongxiangjingji-shuyu-danche-chongdianbao-shangmenmeijia-he-anmo-de-mohuan-saqian-niandai-1013073318.md) — 半拿铁 episode on China's O2O and sharing-economy boom through shared bikes, power banks, home massage, manicure, community services, and the gap between real demand and scalable platform economics.
 - [电影里的AI：情人、巨婴和独裁者](sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b.md) — 电影巨辩 episode reading AI cinema from Frankenstein, A.I., Her, Ex Machina, and The Matrix through programmed love, simulated reality, Turing-test judgment, embodiment, and subjectivity.
 - [OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute](sources/all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105.md) — All-In interview with Sarah Friar on OpenAI's IPO framing, March fundraising, compute scarcity, multi-cloud and multi-chip infrastructure strategy, enterprise adoption, ChatGPT advertising, Sora constraints, and Jony Ive device work.
 - [《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝](sources/zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc.md) — 5 CE Wang Mang backfill on Han Pingdi's death, adult Liu-line successor exclusion, young Emperor Xuan descendants as controllable heirs, the white-stone fuming, Wang Zhengjun's pressured approval, and Wang Mang's "摄皇帝" ritual package.
@@ -2092,6 +2093,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [朱啸虎 / Zhu Xiaohu](entities/ZhuXiaohu.md) — Venture investor used by the source as a representative O2O-era capital figure and OFO backer.
+- [金沙江创投 / GSR Ventures](entities/GSRVentures.md) — Venture firm context behind Zhu Xiaohu's O2O and OFO investment path.
+- [戴威 / Dai Wei](entities/DaiWei.md) — OFO founder whose campus-bike pivot became a city-scale shared-bike capital war and deposit-crisis case.
+- [胡玮炜 / Hu Weiwei](entities/HuWeiwei.md) — Mobike founder figure associated with the product-led and smart-lock shared-bike route.
+- [李斌 / Li Bin](entities/LiBinNio.md) — Early capital and endorsement figure behind Mobike in the source account.
+- [哈啰 / HelloBike](entities/HelloBike.md) — Shared two-wheel survivor that emphasized lower-tier cities after the Mobike-OFO war.
+- [小蓝单车 / Bluegogo](entities/Bluegogo.md) — Shared-bike company remembered for ride quality but undone by financing, arrears, and deposit pressure.
+- [街电 / Jiedian](entities/JiedianPowerBank.md) — Shared-power-bank company used as the source's main survivor case within the sharing-economy boom.
+- [河狸家 / Helijia](entities/Helijia.md) — Artisan-service O2O marketplace case in home manicure and beauty services.
+- [嘟嘟美甲 / Dudu Meijia](entities/DuduMeijia.md) — Liu Fei-linked home-manicure O2O company used for an inside standardization and operator-memory case.
+- [功夫熊 / Gongfu Xiong](entities/GongfuXiong.md) — Home-massage O2O company illustrating skilled-service standardization, travel-time, and subsidy limits.
+- [叮咚小区 / Dingdong Xiaoqu](entities/DingdongXiaoqu.md) — Broad community O2O predecessor route that narrowed into Dingdong Maicai.
 - [Stanley Kubrick / 斯坦利·库布里克](entities/StanleyKubrick.md) — Director-source figure for the long-developed A.I. Artificial Intelligence project and its dark modern-Pinocchio structure.
 - [A.I. Artificial Intelligence / 《人工智能》](entities/AIArtificialIntelligenceFilm.md) — Kubrick-developed and Spielberg-directed AI film used to examine programmed love, artificial childhood, and creator responsibility.
 - [Her / 《她》](entities/HerFilm.md) — AI-companion film used to examine disembodied intimacy, loneliness, and nonhuman cognitive departure.
@@ -7638,8 +7651,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Giant Bicycles / 捷安特](entities/GiantBicycles.md) — Taiwan-founded bicycle company that reset mainland consumer expectations through design, fitting, service, and specialty retail.
 - [Liu Jinbiao / 刘金彪](entities/LiuJinbiao.md) — Giant founder figure connecting contract manufacturing, brand creation, and mainland market entry.
 - [Shimano / 喜马诺](entities/Shimano.md) — Japanese bicycle-component company whose drivetrain stack, cold forging, tolerances, and patents anchor the episode's supplier-power argument.
-- [OFO / 小黄车](entities/Ofo.md) — Shared-bike platform whose large promised purchases and financing stress made supplier receivables risk visible.
-- [Mobike / 摩拜](entities/Mobike.md) — Shared-bike platform whose custom hardware design made inventory resale and write-down risk visible.
+- [OFO / 小黄车](entities/Ofo.md) — Shared-bike platform whose campus-to-city expansion, investor conflict, deposit crisis, and supplier exposure make it a core shared-bike boom-and-bust case.
+- [Mobike / 摩拜](entities/Mobike.md) — Shared-bike platform whose smart locks, custom hardware, high unit cost, and Meituan sale make it the product-heavy side of the shared-bike war.
 - [Bafang Electric / 八方股份](entities/BafangElectric.md) — Chinese E-bike motor and electric-assist systems company connecting bicycle value-chain shift, Cheng/Chen Hongning's investment path, and 宇宙 E-Bike's supplier context.
 - [程泓宁 / 陈鸿宁](entities/ChengHongningYuzhouEBike.md) — 宇宙 E-Bike founder whose 三五环 interview connects investment-to-operator learning, premium electric-assist bicycles, and founder-led AI-native manufacturing.
 - [宇宙 E-Bike](entities/YuzhouEBike.md) — Chinese premium electric-assist bicycle brand used by the 三五环 interview to ground product integration, category education, service economics, and AI-native manufacturing ambition.
@@ -10355,7 +10368,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [洋码头 / Yangmatou](entities/Yangmatou.md) — Overseas-buyer and cross-border logistics ecommerce platform pressured by taxes, trust, giants, and pandemic disruption.
 - [易果生鲜 / Yiguo](entities/Yiguo.md) — Early fresh-grocery ecommerce company preceding front-warehouse and community-grocery waves.
 - [每日优鲜 / Missfresh](entities/Missfresh.md) — Front-warehouse fresh-grocery platform whose growth and listing gave way to losses, shutdowns, and delisting.
-- [叮咚买菜 / Dingdong Maicai](entities/DingdongMaicai.md) — Fresh-grocery front-warehouse platform contrasted with Missfresh and later linked to Meituan in the source account.
+- [叮咚买菜 / Dingdong Maicai](entities/DingdongMaicai.md) — Fresh-grocery platform now connected to both front-warehouse economics and the earlier Dingdong Xiaoqu community O2O pivot.
 - [朴朴超市 / Pupu Supermarket](entities/PupuSupermarket.md) — Fuzhou-origin front-warehouse grocery company used as a steadier density-first contrast.
 - [盒马 / Hema](entities/Hema.md) — Store-warehouse fresh-retail route inside Alibaba's grocery and instant-retail experiments.
 - [呆萝卜 / Da Luobo](entities/DaLuobo.md) — Hefei community fresh-grocery company that expanded quickly before cash-burn collapse.
@@ -11581,6 +11594,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [O2O Platform Economics](concepts/O2OPlatformEconomics.md) — Business-model frame distinguishing real offline demand from scalable, subsidy-resistant online-to-offline platform economics.
+- [Chinese Sharing-Economy Bubble](concepts/ChineseSharingEconomyBubble.md) — 2010s shared-asset wave built around QR-coded rental assets, deposits, subsidies, and uneven category fit.
+- [Shared-Bike Capital War](concepts/SharedBikeCapitalWar.md) — 2016-2018 shared-bike fight over bikes, locks, subsidies, deposits, investor control, city regulation, and consolidation.
+- [Local Services O2O](concepts/LocalServicesO2O.md) — Labor-intensive O2O branch where massage, manicure, cleaning, cooking, repair, and tutoring face standardization, travel-time, trust, and utilization limits.
 - [Frankenstein Complex in AI Cinema / AI电影中的弗兰肯斯坦情结](concepts/FrankensteinComplexAI.md) — Film pattern where humans create artificial life or intelligence, then fear autonomy, rebellion, replacement, or responsibility.
 - [Programmed Love Authenticity / 被设计出来的爱是否真实](concepts/ProgrammedLoveAuthenticity.md) — Question of whether artificial attachment can be ethically real when its origin is designed.
 - [Turing Test Judgment Trap / 图灵测试式判断陷阱](concepts/TuringTestJudgmentTrap.md) — Situation where humans must infer AI mind, love, or deception from behavior that may only prove imitation.
@@ -17466,7 +17483,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pharmaceutical Ecommerce](concepts/PharmaceuticalEcommerce.md) — Online pharmacy and medicine-retail branch that proved more standardizable than diagnosis.
 - [Internet Hospital](concepts/InternetHospital.md) — Licensed online medical-service form linking consultation, electronic prescriptions, follow-up visits, and entity-backed regulatory requirements.
 - [银川互联网医院试点](concepts/YinchuanInternetHospitalPilot.md) — Local internet-hospital licensing experiment that became historically important after national rules tightened.
-- [Healthcare O2O](concepts/HealthcareO2O.md) — Mobile-era attempt to deliver medicine, nurses, doctors, testing, and health services on demand despite low frequency and nonstandard quality.
+- [Healthcare O2O](concepts/HealthcareO2O.md) — High-risk local-services O2O branch constrained by credentials, medical risk, regulation, trust, and nonstandard quality.
 - [Online Healthcare Regulatory Boundary](concepts/OnlineHealthcareRegulatoryBoundary.md) — Policy line around first diagnosis, doctor identity, prescriptions, internet hospitals, and AI not replacing doctors.
 - [Medical Platform Trust Crisis](concepts/MedicalPlatformTrustCrisis.md) — Trust-failure frame for search ads, misleading medical claims, hospital outsourcing, and platform-mediated health authority.
 - [魏则西事件](concepts/WeiZexiIncident.md) — Search, advertising, hospital outsourcing, and treatment-claim case that pushed internet healthcare into a more cautious period.

@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6876
+wiki_total_pages: 6880
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
     url: "/wiki/concepts/onetoonetooneallocation/"
+  - key: "O2OPlatformEconomics"
+    title: "O2O Platform Economics"
+    url: "/wiki/concepts/o2oplatformeconomics/"
   - key: "OathBoundCommandTrust"
     title: "Oath-Bound Command Trust / 盟誓约束下的统帅信任"
     url: "/wiki/concepts/oathboundcommandtrust/"

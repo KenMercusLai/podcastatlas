@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 9485
+wiki_total_pages: 9497
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1238,6 +1238,9 @@ wiki_pages:
   - key: "JiangXuXinOfficial"
     title: "蒋诩 / Jiang Xu (Xin-era official)"
     url: "/wiki/entities/jiangxuxinofficial/"
+  - key: "JiedianPowerBank"
+    title: "街电 / Jiedian"
+    url: "/wiki/entities/jiedianpowerbank/"
   - key: "Jianshouqing"
     title: "见手青 / Jianshouqing"
     url: "/wiki/entities/jianshouqing/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9485
+wiki_total_pages: 9497
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -908,6 +908,9 @@ wiki_pages:
   - key: "Hanuman"
     title: "哈努曼 / Hanuman"
     url: "/wiki/entities/hanuman/"
+  - key: "HelloBike"
+    title: "哈啰 / HelloBike"
+    url: "/wiki/entities/hellobike/"
   - key: "HadiyaHaidari"
     title: "哈迪亚·海达里"
     url: "/wiki/entities/hadiyahaidari/"
@@ -1019,6 +1022,9 @@ wiki_pages:
   - key: "HenanCommanderyChuHan"
     title: "河南郡 / Henan Commandery (Chu-Han)"
     url: "/wiki/entities/henancommanderychuhan/"
+  - key: "Helijia"
+    title: "河狸家 / Helijia"
+    url: "/wiki/entities/helijia/"
   - key: "HexiWarringStates"
     title: "河西 / Hexi (Warring States)"
     url: "/wiki/entities/hexiwarringstates/"
@@ -1130,6 +1136,9 @@ wiki_pages:
   - key: "HuShuangLateHan"
     title: "胡爽 / Hu Shuang (late Han)"
     url: "/wiki/entities/hushuanglatehan/"
+  - key: "HuWeiwei"
+    title: "胡玮炜 / Hu Weiwei"
+    url: "/wiki/entities/huweiwei/"
   - key: "HuTengLateHan"
     title: "胡腾 / Hu Teng (late Han)"
     url: "/wiki/entities/hutenglatehan/"

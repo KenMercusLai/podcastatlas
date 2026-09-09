@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9485
+wiki_total_pages: 9497
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -926,6 +926,9 @@ wiki_pages:
   - key: "DingdongMaicai"
     title: "叮咚买菜 / Dingdong Maicai"
     url: "/wiki/entities/dingdongmaicai/"
+  - key: "DingdongXiaoqu"
+    title: "叮咚小区 / Dingdong Xiaoqu"
+    url: "/wiki/entities/dingdongxiaoqu/"
   - key: "DingdangKuaiyao"
     title: "叮当快药"
     url: "/wiki/entities/dingdangkuaiyao/"
@@ -935,6 +938,9 @@ wiki_pages:
   - key: "DonnerApacheAgent"
     title: "唐纳 / Donner"
     url: "/wiki/entities/donnerapacheagent/"
+  - key: "DuduMeijia"
+    title: "嘟嘟美甲 / Dudu Meijia"
+    url: "/wiki/entities/dudumeijia/"
   - key: "DuoduoMaicai"
     title: "多多买菜 / Duoduo Maicai"
     url: "/wiki/entities/duoduomaicai/"
@@ -1007,6 +1013,9 @@ wiki_pages:
   - key: "DaiYuanLateHan"
     title: "戴员 / Dai Yuan (late Han)"
     url: "/wiki/entities/daiyuanlatehan/"
+  - key: "DaiWei"
+    title: "戴威 / Dai Wei"
+    url: "/wiki/entities/daiwei/"
   - key: "DaiLiangLateHan"
     title: "戴良 / Dai Liang (late Han)"
     url: "/wiki/entities/dailianglatehan/"

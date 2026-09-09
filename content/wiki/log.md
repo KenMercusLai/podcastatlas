@@ -16693,6 +16693,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | No.218 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代
+
+Added source note for a 半拿铁 episode on China's O2O and sharing-economy cycle through shared bikes, shared power banks, home massage, manicure, community services, and local-service digitization. Created O2O Platform Economics, Chinese Sharing-Economy Bubble, Shared-Bike Capital War, Local Services O2O, Zhu Xiaohu, GSR Ventures, Dai Wei, Hu Weiwei, Li Bin, HelloBike, Bluegogo, Jiedian, Helijia, Dudu Meijia, Gongfu Xiong, and Dingdong Xiaoqu pages; migrated and updated OFO, Mobike, Shared-Bike Manufacturing Shock, Dingdong Maicai, and Healthcare O2O. No settled contradiction found; the source qualifies the wiki's platform history by separating real offline demand from subsidy-dependent, weakly standardized, or asset-heavy platform economics.
+
 ## [2026-09-10] ingest | OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute
 
 Added source note for the 2026-06-02 All-In interview with Sarah Friar on OpenAI's IPO framing, March fundraising, compute scarcity, multi-cloud and multi-chip infrastructure strategy, enterprise adoption, ChatGPT advertising, Sora constraints, and Jony Ive device work. Created Sarah Friar and OpenAI Compute Strategy pages. No settled contradiction found; fundraising, usage, search-share, device-timing, GPT-5.5 pricing, and compute-availability claims remain source-scoped to the interview.
@@ -16714,6 +16718,10 @@ Added source note for a 电影巨辩 episode on AI cinema from Frankenstein thro
 ## [2026-09-10] ingest | 电影里的AI：情人、巨婴和独裁者
 
 Added source note for a 电影巨辩 episode on AI cinema from Frankenstein through 《人工智能》, 《她》, 《机械姬》, and 《黑客帝国》. Key claims: AI films repeatedly turn technical intelligence into creator responsibility, programmed love, simulated reality, Turing-test judgment, embodiment, and modern subjectivity problems.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
