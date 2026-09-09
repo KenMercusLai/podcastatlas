@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2850
+topic_total_pages: 2853
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2863,6 +2863,9 @@ topic_concepts:
   - key: "OpenAIBoardCrisis"
     title: "OpenAI Board Crisis"
     url: "/wiki/concepts/openaiboardcrisis/"
+  - key: "OpenAIComputeStrategy"
+    title: "OpenAI Compute Strategy"
+    url: "/wiki/concepts/openaicomputestrategy/"
   - key: "OperationalDataCapture"
     title: "Operational Data Capture"
     url: "/wiki/concepts/operationaldatacapture/"
@@ -6215,6 +6218,9 @@ topic_entities:
   - key: "SapnaMaheshwari"
     title: "Sapna Maheshwari"
     url: "/wiki/entities/sapnamaheshwari/"
+  - key: "SarahFriar"
+    title: "Sarah Friar"
+    url: "/wiki/entities/sarahfriar/"
   - key: "SatishVangala"
     title: "Satish Vangala"
     url: "/wiki/entities/satishvangala/"
@@ -8109,6 +8115,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880"
     title: "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105"
+    title: "OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105/"
   - key: "tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128"
     title: "OpenAI model unintentionally hacks another company's system"
     url: "/wiki/sources/tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128/"

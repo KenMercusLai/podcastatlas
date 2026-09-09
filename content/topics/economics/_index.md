@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1984
+topic_total_pages: 1987
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1990,6 +1990,9 @@ topic_concepts:
   - key: "OpenSourceWedge"
     title: "Open Source Wedge"
     url: "/wiki/concepts/opensourcewedge/"
+  - key: "OpenAIComputeStrategy"
+    title: "OpenAI Compute Strategy"
+    url: "/wiki/concepts/openaicomputestrategy/"
   - key: "OperationalPainFounderInsight"
     title: "Operational Pain Founder Insight"
     url: "/wiki/concepts/operationalpainfounderinsight/"
@@ -4454,6 +4457,9 @@ topic_entities:
   - key: "SanFranciscoBayArea"
     title: "San Francisco Bay Area"
     url: "/wiki/entities/sanfranciscobayarea/"
+  - key: "SarahFriar"
+    title: "Sarah Friar"
+    url: "/wiki/entities/sarahfriar/"
   - key: "SaudiPublicInvestmentFund"
     title: "Saudi Public Investment Fund"
     url: "/wiki/entities/saudipublicinvestmentfund/"
@@ -5685,6 +5691,9 @@ topic_sources:
   - key: "opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1"
     title: "OPC 的真正难题，是 AI 还没学会替你把东西卖出去"
     url: "/wiki/sources/opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105"
+    title: "OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105/"
   - key: "our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour"
     title: "Our mission: Find the world's best economic ideas (Summer School World Tour)"
     url: "/wiki/sources/our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour/"

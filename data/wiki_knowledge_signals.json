@@ -57996,6 +57996,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/onlineageverification/"
     },
+    "OpenAIComputeStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI CFO Sarah Friar： IPO, AI Rivalries, New Device, and Spending $100B+ on Compute [41508105].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/openaicomputestrategy/"
+    },
     "OpenClosedAIMarketStructure": {
       "episode_count": 1,
       "show_count": 1,
@@ -68958,6 +68974,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/saragottfried/"
+    },
+    "SarahFriar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI CFO Sarah Friar： IPO, AI Rivalries, New Device, and Spending $100B+ on Compute [41508105].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/sarahfriar/"
     },
     "SarahGodfrey": {
       "episode_count": 1,

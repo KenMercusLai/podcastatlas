@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute](sources/all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105.md) — All-In interview with Sarah Friar on OpenAI's IPO framing, March fundraising, compute scarcity, multi-cloud and multi-chip infrastructure strategy, enterprise adoption, ChatGPT advertising, Sora constraints, and Jony Ive device work.
 - [《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝](sources/zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc.md) — 5 CE Wang Mang backfill on Han Pingdi's death, adult Liu-line successor exclusion, young Emperor Xuan descendants as controllable heirs, the white-stone fuming, Wang Zhengjun's pressured approval, and Wang Mang's "摄皇帝" ritual package.
 - [《资治通鉴·汉纪》629丨刘家人，谁扛起反抗王莽的大旗？](sources/zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55.md) — 6 CE Wang Mang regency backfill on Liu Ying's crown-prince installation, archaizing assistant offices, Liu Chong and Zhang Shao's failed Wan rising, Zhang Song and Liu Jia's rewarded petition, "假皇帝" title expansion, 摄宫 naming, and Western Qiang land-seizure backlash.
 - [《资治通鉴·汉纪》630丨假好人撕掉面具，能有多丑恶？](sources/zizhi-tongjian-hanji-630-jiahaoren-sidiao-mianju-nengyou-duo-choue-li9bkjm4dphuq9l-sjyk-qnwfeyl.md) — 7 CE Wang Mang backfill on high-denomination coinage, gold-collection credibility loss, Zhai Yi's anti-usurpation diagnosis, Liu Xin's claimant enthronement, legitimacy indictment, mass response, and Wang Mang's emergency defense.
@@ -10118,6 +10119,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Coinbase](entities/Coinbase.md) — Crypto wallet and exchange company used as a case for YC high-beta selection, buy-button product-market fit, regulated crypto trust, and early fintech fraud controls.
 - [FTX](entities/FTX.md) — Collapsed crypto exchange used in the Armstrong episode as a reputational shock and trust-structure contrast with Coinbase.
 - [Sam Bankman-Fried](entities/SamBankmanFried.md) — FTX founder discussed by Armstrong as a rapid-status crypto founder whose media rise, spending signals, and collapse became a cautionary case.
+- [Sarah Friar](entities/SarahFriar.md) — OpenAI CFO voice from All-In, linking IPO timing, large-scale fundraising, compute scarcity, infrastructure partnerships, enterprise ROI, and ChatGPT monetization.
 - [Gary Gensler](entities/GaryGensler.md) — SEC chair discussed through Armstrong's view of Coinbase's crypto regulatory dispute.
 - [SEC](entities/SEC.md) — U.S. securities regulator appearing in the Coinbase source as the enforcement and regulatory-clarity counterparty.
 - [Silicon Valley Bank](entities/SiliconValleyBank.md) — Startup bank appearing first as Coinbase's AML forcing function and later as Modern Treasury's crisis-resilience case.
@@ -14259,6 +14261,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [PagedAttention](concepts/PagedAttention.md) — vLLM-origin inference-memory idea showing how attention state, memory layout, request scheduling, and serving needs become one systems problem.
 - [Model-Infra Co-Design](concepts/ModelInfraCoDesign.md) — Joint design of model architecture, kernels, inference engines, chip features, and agent workloads to improve serving efficiency.
 - [Open Source AI Infrastructure](concepts/OpenSourceAIInfrastructure.md) — Community-governed, company-supported AI infrastructure pattern illustrated by vLLM, Infract, and the PyTorch Foundation.
+- [OpenAI Compute Strategy](concepts/OpenAIComputeStrategy.md) — Source-scoped Sarah Friar frame where OpenAI combines fundraising, multi-cloud capacity, chip diversification, built-to-suit infrastructure, pricing, and local trust to manage compute scarcity.
 - [Continuous Batching](concepts/ContinuousBatching.md) — Inference scheduling pattern for active generation requests under latency, memory, and variable sequence-length constraints.
 - [Prefix Caching](concepts/PrefixCaching.md) — Reuse of stable prompt prefixes in inference, especially important for coding-agent harnesses with repeated context.
 - [Test-Time Scaling](concepts/TestTimeScaling.md) — Spending more inference compute through repeated sampling, long thinking tokens, or agent-environment loops.

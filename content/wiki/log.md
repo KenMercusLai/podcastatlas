@@ -16693,9 +16693,17 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute
+
+Added source note for the 2026-06-02 All-In interview with Sarah Friar on OpenAI's IPO framing, March fundraising, compute scarcity, multi-cloud and multi-chip infrastructure strategy, enterprise adoption, ChatGPT advertising, Sora constraints, and Jony Ive device work. Created Sarah Friar and OpenAI Compute Strategy pages. No settled contradiction found; fundraising, usage, search-share, device-timing, GPT-5.5 pricing, and compute-availability claims remain source-scoped to the interview.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》630丨假好人撕掉面具，能有多丑恶？
 
 Added source note for the 2026-06-02 芮淇讲透资治通鉴 episode on Wang Mang's 7 CE currency and legitimacy crisis, Zhai Yi's anti-usurpation coalition, Liu Xin's claimant enthronement, public indictment against Wang Mang, and Wang Mang's emergency military and Zhougong-framed response. Updated Zhai Yi Rebellion, Legitimacy Indictment Warfare, index, and overview. No settled contradiction found; the Han Pingdi poisoning charge is preserved as a rebel accusation, and minor actors, office titles, troop counts, and Wang Mang's inner psychology remain source-scoped.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
