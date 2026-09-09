@@ -16296,6 +16296,10 @@ Ingested the 2026-06-06 芮淇讲透资治通鉴 episode on Wang Mang's punitive
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | 《资治通鉴·汉纪》633丨怒砸传国玉玺！她竟如此刚烈！
+
+Added source note for the 8 CE Wang Mang accession backfill on Wang Zhengjun's coerced surrender of the Heirloom Imperial Seal, the broken-corner protest, title recoding into "New House Wen Mother Grand Empress Dowager," Wang Jian and Zhang Yong's different flattery outcomes, and Ban Biao's double-edged judgment of Wang Zhengjun's Han loyalty and responsibility for Wang-family ascent. Updated Wang Zhengjun and Heirloom Imperial Seal synthesis pages; no settled contradiction found.
+
 ## [2026-09-09] ingest | Meta's youth safety settlement could change how people access the internet
 
 Added source note for the September 9, 2026 Marketplace Tech episode with Will Creeley on Meta's teen-safety settlement, settlement-induced age verification, anonymous speech, youth online speech rights, and First Amendment platform defenses. Created Will Creeley, Foundation for Individual Rights and Expression, Free Speech Coalition v. Paxton, and Settlement-Induced Age Verification pages; updated Social Media Age-Gate Speech Burden, Platform First Amendment Defense, Youth Online Speech Rights, and index. No settled contradiction found; the source qualifies child-safety settlement optimism by treating identity-check enforcement as a civil-liberties risk.
@@ -16589,6 +16593,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams
 
 Added source note for the 2026-06-04 Huberman Lab Essentials episode with Nolan Williams on depression, circuit psychiatry, TMS, Stanford Neuromodulation Therapy, psychedelics, ketamine, trauma-memory reconsolidation, and clinical supervision. Created Nolan Williams, Circuit-Based Psychiatry, Transcranial Magnetic Stimulation for Depression, Stanford Neuromodulation Therapy, Memory Reconsolidation Psychiatry, and Psychedelic Clinical Supervision Boundary pages; updated Psychiatric Medication Supervision Boundary and index. No settled contradiction found; ibogaine, ayahuasca, psilocybin, MDMA, ketamine, SNT outcomes, and durability claims remain source-scoped and clinically bounded.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

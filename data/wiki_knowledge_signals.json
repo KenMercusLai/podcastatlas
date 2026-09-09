@@ -35088,9 +35088,9 @@
       "url": "/wiki/concepts/heirsupportthreatperception/"
     },
     "HeirloomImperialSeal": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》947丨董卓收服吕布，开启称霸之路 [lvR-24L6J8f6zvpFCMqgkNMgywa1].md",
@@ -35119,9 +35119,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1033丨割据军阀袁术，最终吐血而亡？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》633丨怒砸传国玉玺！她竟如此刚烈！ [lnMNWbK28AYllZ5fip1a1KZm1aIS].md",
+          "key": "zizhi-tongjian-hanji-633-nuza-chuanguo-yuxi-ta-jing-ruci-ganglie-lnmnwbk28ayllz5fip1a1kzm1ais",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》633丨怒砸传国玉玺！她竟如此刚烈！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-633-nuza-chuanguo-yuxi-ta-jing-ruci-ganglie-lnmnwbk28ayllz5fip1a1kzm1ais/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/heirloomimperialseal/"
     },
     "HeishanArmy": {
@@ -82159,9 +82166,9 @@
       "url": "/wiki/entities/wangyuanweixiaoretainer/"
     },
     "WangZhengjun": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -82176,6 +82183,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》646丨传奇女性王政君：长寿也是罪？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》633丨怒砸传国玉玺！她竟如此刚烈！ [lnMNWbK28AYllZ5fip1a1KZm1aIS].md",
+          "key": "zizhi-tongjian-hanji-633-nuza-chuanguo-yuxi-ta-jing-ruci-ganglie-lnmnwbk28ayllz5fip1a1kzm1ais",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》633丨怒砸传国玉玺！她竟如此刚烈！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-633-nuza-chuanguo-yuxi-ta-jing-ruci-ganglie-lnmnwbk28ayllz5fip1a1kzm1ais/"
         }
       ],
       "updated": "2026-09-09",
