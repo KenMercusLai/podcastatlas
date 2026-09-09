@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生](sources/zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk.md) — 18 CE Wang Mang backfill and Yang Xiong profile on Fei Xing's dismissed livelihood diagnosis, unpaid-official corruption, Wang-family scandal, Fangyan, fu writing, and delayed cultural recognition.
+- [《资治通鉴·汉纪》655丨万众归心到民怨沸腾，王莽做错了哪一步？](sources/zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko.md) — 18-19 CE Wang Mang backfill on Fan Chong's early rebel growth, Qing-Xu disorder, unsupported Xiongnu intervention, calendar/music/immortality spectacle, mass extraction, speculative anti-Xiongnu schemes, and Yan You's dismissed priority warning.
 - [《资治通鉴·汉纪》656丨职场不会说话的人，很难混出头!](sources/zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl.md) — 19-20 CE Wang Mang backfill on Fan Sheng's indirect warning, Tian Kuang's tax-reward branch, Han Bo's giant-prodigy satire, late-Xin fiscal extraction, fear, and rebellion.
 - [《资治通鉴·汉纪》653丨把社会主义带回古代？王莽有多神！](sources/zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk.md) — 17 CE Wang Mang backfill on 五均六管, price equalization, state monopolies, official lending, merchant-official capture, slave tax, legal overreach, disaster, and survival rebellion.
 - [677. USA: The Star-Spangled Banner (Part 1)](sources/677-usa-the-star-spangled-banner-part-1-glt7890467734.md) — The Rest Is History episode on The Star-Spangled Banner, Fort McHenry, Francis Scott Key, the War of 1812, slavery controversy, official adoption, and anthem protest.
@@ -2067,8 +2068,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [田邝 / Tian Kuang (Xin official)](entities/TianKuangXinOfficial.md) — Late-Xin local commander whose unauthorized mobilization, field diagnosis, and removal ground the key-operator removal pattern.
 - [公孙禄 / Gongsun Lu (Xin official)](entities/GongsunLuXinOfficial.md) — Xin remonstrant who names internal causes of rebellion before Wang Mang suppresses the diagnosis.
 - [池昭平 / Chi Zhaoping](entities/ChiZhaopingXinRebel.md) — Source-scoped late-Xin female rebel leader in the Pingyuan-Yellow River field.
-- [樊崇 / Fan Chong (Chimei)](entities/FanChongChimei.md) — Early Chimei leader whose group supplies the 22 CE origin, organization, and cinnabar-eyebrow naming layer.
-- [廉丹 / Lian Dan (Xin general)](entities/LianDanXinGeneral.md) — Xin general pressured by Wang Mang and warned by Feng Yan as official suppression loses public legitimacy.
+- [樊崇 / Fan Chong (Chimei)](entities/FanChongChimei.md) — Early Chimei leader whose group supplies the 18 CE Langya/Taishan growth layer and the later 22 CE origin, organization, and cinnabar-eyebrow naming layer.
+- [廉丹 / Lian Dan (Xin general)](entities/LianDanXinGeneral.md) — Xin general whose Yizhou setback and later eastern anti-rebel deployment place him inside late-Xin frontier and official-army legitimacy failure.
 - [王匡 / Wang Kuang (Xin general)](entities/WangKuangXinGeneral.md) — Xin Taishi whose anti-rebel army becomes a civilian-abuse backfire case, distinct from same-name Wang Kuang pages.
 - [王业 / Wang Ye (Xin official)](entities/WangYeXinOfficial.md) — Xin market official whose extraction and false food report deepen famine governance failure.
 - [Feng Xiaogang / 冯小刚](entities/FengXiaogang.md) — Chinese filmmaker read through serious mainstream authorship, abandoned individuals, and public-emotion recognition.
@@ -2115,7 +2116,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wang Xing / 王兴 (Xin prince)](entities/WangXingXinPrince.md) — Private son recalled after Wang Mang's public sons die, exposing a hidden succession fallback.
 - [Wang Kuang / 王匡 (Xin prince)](entities/WangKuangXinPrince.md) — Private son recalled with Wang Xing after Wang Mang's public succession line breaks.
 - [王邑 / Wang Yi (Xin general)](entities/WangYiXinGeneral.md) — Xin-side Kunyang commander whose face-driven rigidity and ignored advice turn numerical superiority into collapse.
-- [严尤 / Yan You (Xin general)](entities/YanYouXinGeneral.md) — Xin-side adviser whose ignored Wan-first and siege-exit warnings define the failed Kunyang advice chain.
+- [严尤 / Yan You (Xin general)](entities/YanYouXinGeneral.md) — Xin-side adviser whose ignored Xiongnu/Shandong priority warning and later Kunyang advice define a repeated failed advice chain.
 - [刘縯 / Liu Yan (Liu Xiu's brother)](entities/LiuYanLiuXiuBrother.md) — Liu Xiu's elder brother and early anti-Xin coalition organizer, later a Gengshi-side leadership alternative and post-restoration merit threat.
 - [王常 / Wang Chang (Xiajiang, Gengshi era)](entities/WangChangXiajiangGengshi.md) — Xiajiang-side representative who accepts Liu Yan's restoration argument and persuades peers into the early anti-Xin coalition.
 - [John Fetterman](entities/JohnFetterman.md) — Pennsylvania Democratic senator framed by All-In as a bipartisan working partner, shutdown opponent, filibuster convert, pro-Israel Democrat, and AI data-center supporter.
@@ -8183,12 +8184,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《中国龙的发明：近现代中国形象的域外变迁》](entities/TheInventionOfChineseDragon.md) — Shi Aidong book recommended by episode 127 for the modern invention and image circulation of the Chinese dragon.
 - [闻一多 / Wen Yiduo](entities/WenYiduo.md) — Scholar whose dragon-totem argument gives episode 127 a key case of nationalist scholarship under modern pressure.
 - [《龙的传人》 / Descendants of the Dragon](entities/DescendantsOfTheDragon.md) — Popular song and phrase that helped fix "dragon = China" and "Chinese people = dragon descendants" as ordinary identity language.
-- [Wang Mang / 王莽](entities/WangMang.md) — Xin founder whose rise through sacred legitimacy, moral reputation, omen politics, and reform overcontrol ends in Jian Terrace killing and public corpse humiliation.
+- [Wang Mang / 王莽](entities/WangMang.md) — Xin founder whose rise through sacred legitimacy, moral reputation, omen politics, and reform overcontrol collapses through spectacle, extraction, frontier overreach, ignored warnings, Kunyang, and Jian Terrace killing.
 - [王皇后（汉平帝皇后） / Empress Wang of Han Pingdi](entities/EmpressWangPingdi.md) — Wang Mang's daughter and former Han Pingdi empress whose self-immolation during the Weiyang Palace fire marks Xin's dynastic identity rupture.
 - [《祥瑞》](entities/XiangruiBook.md) — Zhang Xiangrong book used by episode 126 to reread Wang Mang through Heaven, omens, Confucian ideals, and late Western Han politics.
 - [Zhang Xiangrong / 张向荣](entities/ZhangXiangrong.md) — Author of 《祥瑞》, the book grounding episode 126's reconstruction of Wang Mang and Han legitimacy.
 - [Western Han dynasty / 西汉](entities/WesternHanDynasty.md) — Dynastic setting whose founding branch now includes Qin pacification, early Han consolidation, Xiongnu frontier pressure, and later Mandate vulnerability.
-- [Xin dynasty / 新朝](entities/XinDynasty.md) — Wang Mang's short-lived regime, framed by episode 126 through omen-backed seizure, reform stress, frontier instability, and revolt.
+- [Xin dynasty / 新朝](entities/XinDynasty.md) — Wang Mang's short-lived regime, framed through omen-backed seizure, reform stress, extraction, unsupported frontier intervention, information failure, and revolt.
 - [Wang Zhengjun / 王政君](entities/WangZhengjun.md) — Western Han empress dowager whose status helped Wang Mang return to power while her later resistance marked the legitimacy break.
 - [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor reappraised by episode 126 as more politically active than his later reputation suggests.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose failure during the succession crisis opened the way for Wang Zhengjun and Wang Mang.
@@ -8204,7 +8205,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王郎 / Wang Lang (Hebei Claimant)](entities/WangLangHebeiClaimant.md) — Hebei claimant whose false Liu Ziyu story, Red Eyebrows rumor testing, pursuit of Liu Xiu, Xindu pressure, northern contests, Julu relief failure, and Handan defeat redirect northern actors and create the letter-burning trust test.
 - [张步 / Zhang Bu (Eastern Han)](entities/ZhangBuEasternHan.md) — Qi/Langya adversary whose profile spans Wang Hong's mandate-backed Langya challenge, Liu Yong's title lure, Fu Long's failed mission, Linzi battlefield vulnerability, controlled surrender, and later failed flight.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's breakout, reinforcements, morale tactics, and later legendary mandate layer exposed the gap between Xin grandeur and usable capacity.
-- [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Xin-collapse uprising whose current arc spans westward cohesion pressure, Hongnong merger, Gengshi defeats, pre-entry Chang'an pressure, Liu Penzi's lottery enthronement, Changle Palace disorder, Chang'an destruction, Guanzhong famine, and surrender to Liu Xiu.
+- [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Xin-collapse uprising whose current arc spans Fan Chong's 18 CE growth, origin-stage organization, westward cohesion pressure, Gengshi defeats, Liu Penzi's lottery enthronement, Chang'an destruction, Guanzhong famine, and surrender to Liu Xiu.
 - [Lulin / 绿林](entities/LulinRebellion.md) — Uprising/endgame force tied to Wang Mang's Jian Terrace death and the broader late-Xin legitimacy collapse.
 - [张卬 / Zhang Ang (Gengshi)](entities/ZhangAngGengshi.md) — Gengshi pressure actor who helps force Liu Xuan's elevation, later joins Chang'an rupture politics, and belongs to the group that treats captive Liu Xuan's sympathy as dangerous.
 - [Dong Zhongshu / 董仲舒](entities/DongZhongshu.md) — Western Han thinker used by episode 126 to connect Confucianism, Heaven, omens, and sacred imperial politics.
@@ -11464,8 +11465,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [危机优先级错置 / Crisis Priority Misalignment](concepts/CrisisPriorityMisalignment.md) — Governance failure where a ruler funds and pursues the wrong crisis sequence while the nearer regime-breaking danger worsens.
 - [Delayed Canonical Recognition / 延迟经典化](concepts/DelayedCanonicalRecognition.md) — Reception pattern in which low visible status hides durable work until later readers recognize its cultural value.
 - [财政压榨叛乱螺旋 / Fiscal Extraction Rebellion Spiral](concepts/FiscalExtractionRebellionSpiral.md) — Governance pattern where crisis taxation converts fiscal need into flight, death, banditry, and deeper insecurity.
+- [仪式奇观式危机转移 / Ritual Spectacle Crisis Displacement](concepts/RitualSpectacleCrisisDisplacement.md) — Legitimacy failure where calendars, music, immortal claims, ceremonies, or marvel recruitment project order while material crisis remains unrepaired.
+- [无支撑边疆干预 / Unsupported Frontier Intervention](concepts/UnsupportedFrontierIntervention.md) — Frontier failure where a court tries to reshape succession or hierarchy without the capacity to enforce the commitment it creates.
 - [五均六管 / Five Equalizations and Six Controls](concepts/WujunLiuguan.md) — Wang Mang's 17 CE price, credit, and monopoly program whose livelihood rhetoric fails through merchant-official capture and harsh implementation.
 - [Holiday Peak Travel Planning](concepts/HolidayPeakTravelPlanning.md) — Planning method for concentrated public-holiday travel using element substitution, route timing, nearby airports, flexible hotels, and realistic fare thresholds.
 - [Travel Agency Itinerary Operations](concepts/TravelAgencyItineraryOperations.md) — Product, supplier, route, leader, and backup systems that turn destination ideas into repeatable guided trips.

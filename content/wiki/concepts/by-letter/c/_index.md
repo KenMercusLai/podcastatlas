@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6804
+wiki_total_pages: 6807
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -2096,6 +2096,9 @@ wiki_pages:
   - key: "CrisisOptimismTransparencyTradeoff"
     title: "危机乐观与透明度权衡 / Crisis Optimism Transparency Tradeoff"
     url: "/wiki/concepts/crisisoptimismtransparencytradeoff/"
+  - key: "CrisisPriorityMisalignment"
+    title: "危机优先级错置 / Crisis Priority Misalignment"
+    url: "/wiki/concepts/crisisprioritymisalignment/"
   - key: "ChineseMysteryPublishingEcology"
     title: "国产推理出版生态 / Chinese Mystery Publishing Ecology"
     url: "/wiki/concepts/chinesemysterypublishingecology/"

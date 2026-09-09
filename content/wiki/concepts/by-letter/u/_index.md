@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 6804
+wiki_total_pages: 6807
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "UnboundedEliteRewardDemand"
     title: "受宠权臣的无餍封赏 / Unbounded Elite Reward Demand"
     url: "/wiki/concepts/unboundedeliterewarddemand/"
+  - key: "UnsupportedFrontierIntervention"
+    title: "无支撑边疆干预 / Unsupported Frontier Intervention"
+    url: "/wiki/concepts/unsupportedfrontierintervention/"
   - key: "UntimelyExtravagance"
     title: "时绌举赢 / Untimely Extravagance"
     url: "/wiki/concepts/untimelyextravagance/"

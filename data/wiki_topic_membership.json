@@ -17336,6 +17336,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CrisisPriorityMisalignment": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CrisisStakeholderLeadership": [
     {
       "key": "politics",
@@ -54009,6 +54016,13 @@
       "url": "/topics/history/"
     }
   ],
+  "RitualSpectacleCrisisDisplacement": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RitualTourSummonsEntrapment": [
     {
       "key": "history",
@@ -66138,6 +66152,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "UnsupportedFrontierIntervention": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "UntimelyExtravagance": [

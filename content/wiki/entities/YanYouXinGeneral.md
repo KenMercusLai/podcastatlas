@@ -5,29 +5,36 @@ knowledge_schema: synthesis-v1
 tags: [person, xin-dynasty, military, strategy, kunyang]
 sources:
   - zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4
-last_updated: 2026-09-08
+  - zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko
+last_updated: 2026-09-09
 ---
 
 ## Overview
 
-严尤 / Yan You enters the wiki through [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] as the Xin-side adviser whose correct warnings at [[KunyangBattle|昆阳之战]] are repeatedly ignored by [[WangYiXinGeneral|王邑]]. His role is narrow but important: he sees both the strategic target problem and the morale problem created by a fully closed siege.
+严尤 / Yan You is the Xin-side adviser whose correct warnings are repeatedly ignored in late-[[XinDynasty|新朝]] crisis. [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] now gives his pre-Kunyang policy layer: he warns [[WangMang|王莽]] not to sacrifice a useful Xiongnu information position and later argues that Shandong rebels should take priority over [[Xiongnu|匈奴]]. [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] then shows his Kunyang battlefield warnings being rejected by [[WangYiXinGeneral|王邑]].
 
 ## Current Profile
 
-Yan You first advises Wang Yi to bypass Kunyang and move quickly toward Wan because [[LiuXuanGengshiEmperor|刘玄]] is there. In the episode's framing, this would have attacked the political center of the Gengshi field rather than spending time on a smaller city.
+Yan You's earliest current layer is policy priority rather than battlefield tactics. In Hanji 655 he argues that Xu Bu Dang's frontier position still gives Xin useful Xiongnu intelligence, and that bringing him to Chang'an will turn him into an ordinary Hu dependent while losing the information channel. He also opposes treating the Xiongnu campaign as the main emergency when Shandong rebellion is already the more immediate danger. Wang Mang dismisses him, making Yan You an early case of correct advice becoming politically unacceptable.
+
+Yan You later advises Wang Yi to bypass Kunyang and move quickly toward Wan because [[LiuXuanGengshiEmperor|刘玄]] is there. In the episode's framing, this would have attacked the political center of the Gengshi field rather than spending time on a smaller city.
 
 When Wang Yi chooses siege instead, Yan You gives a second warning. A besieged force without any exit will not surrender easily; leaving a passage can redirect enemy incentives toward flight and survival. Wang Yi again refuses, so Yan You becomes the defeated side's internal evidence that the disaster was not caused by ignorance alone.
 
 ## Key Characteristics
 
 - Xin-side strategist at Kunyang whose advice identifies the enemy's political center at Wan.
+- Earlier policy-priority adviser who warns Wang Mang not to sacrifice Xiongnu intelligence and not to pursue frontier escalation before Shandong rebellion.
 - Warns against letting reputation concerns override operational priority.
 - Applies the "围师必阙" logic that a siege should leave an escape path.
-- Functions as the ignored-adviser contrast to Wang Yi's command rigidity.
+- Functions as an ignored-adviser contrast to both Wang Mang's crisis sequencing and Wang Yi's command rigidity.
 - Survives the rout, making him a witness to a failed advice chain rather than a battle winner.
 
 ## Evidence
 
+- Xiongnu intelligence warning: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says Yan You warns that moving Xu Bu Dang to Chang'an will lose a useful Xiongnu information channel.
+- Priority warning: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says Yan You argues that Shandong rebels are more urgent than Xiongnu.
+- Dismissal: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says Wang Mang angrily removes Yan You after the priority warning.
 - Wan-first recommendation: [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] says Yan You advises Wang Yi to move quickly toward Wan because Liu Xuan is there.
 - Strategic diagnosis: [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] presents Kunyang as less important than the Gengshi center at Wan.
 - Siege-exit warning: [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] says Yan You warns that a closed siege forces defenders toward death-fighting.
@@ -36,14 +43,18 @@ When Wang Yi chooses siege instead, Yan You gives a second warning. A besieged f
 
 ## Qualifications
 
-The current evidence does not prove that Yan You had a complete winning strategy, only that the episode preserves two warnings that fit later defeat conditions. His broader Xin career, exact office, relationship to Wang Mang, and post-Kunyang fate remain outside this bounded source.
+The current evidence does not prove that Yan You had a complete winning strategy, only that the source notes preserve warnings that fit later defeat conditions. Hanji 655 supports his Xiongnu intelligence and Shandong-priority warnings but keeps Xu Bu Dang's full identity, exact offices, and wider Xiongnu strategy source-scoped. Hanji 664 supports the Kunyang advice chain but not a full counterfactual victory path.
 
 ## What Changed
 
-- Created this source-scoped adviser page from Hanji 664 to capture the rejected strategic warnings inside the Kunyang defeat.
+- Added Hanji 655 as Yan You's earlier policy-priority and Xiongnu-intelligence warning layer before the Kunyang defeat.
+- Preserved Hanji 664 as the later Wan-first and siege-exit warning layer.
 
 ## Relationships
 
+- [[WangMang|王莽]] - ruler who dismisses Yan You after the Xiongnu/Shandong priority warning.
+- [[Xiongnu|匈奴]] - frontier actor in Yan You's intelligence-channel and sequencing warning.
+- [[CrisisPriorityMisalignment|危机优先级错置]] - concept illustrated by Yan You's Shandong-before-Xiongnu advice.
 - [[WangYiXinGeneral|王邑]] - commander who rejects Yan You's advice.
 - [[KunyangBattle|昆阳之战]] - battle where Yan You's warnings become retrospectively important.
 - [[LiuXuanGengshiEmperor|更始帝刘玄]] - ruler at Wan whom Yan You identifies as the more important target.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2275
+topic_total_pages: 2278
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3424,6 +3424,9 @@ topic_concepts:
   - key: "StraightRedressWithoutRevenge"
     title: "以直报怨式平反 / Straight Redress Without Revenge"
     url: "/wiki/concepts/straightredresswithoutrevenge/"
+  - key: "RitualSpectacleCrisisDisplacement"
+    title: "仪式奇观式危机转移 / Ritual Spectacle Crisis Displacement"
+    url: "/wiki/concepts/ritualspectaclecrisisdisplacement/"
   - key: "RitualAffectiveOrder"
     title: "仪式感秩序生成 / Ritual Affective Order"
     url: "/wiki/concepts/ritualaffectiveorder/"
@@ -3481,6 +3484,9 @@ topic_concepts:
   - key: "SouthernTourPoliticalTheater"
     title: "南巡政治剧场 / Southern Tour Political Theater"
     url: "/wiki/concepts/southerntourpoliticaltheater/"
+  - key: "CrisisPriorityMisalignment"
+    title: "危机优先级错置 / Crisis Priority Misalignment"
+    url: "/wiki/concepts/crisisprioritymisalignment/"
   - key: "AppointedGovernorSecessionRisk"
     title: "受任地方长官割据风险 / Appointed Governor Secession Risk"
     url: "/wiki/concepts/appointedgovernorsecessionrisk/"
@@ -3616,6 +3622,9 @@ topic_concepts:
   - key: "NewlyAttachedRegionLeniency"
     title: "新附地区宽缓治理 / Newly Attached Region Leniency"
     url: "/wiki/concepts/newlyattachedregionleniency/"
+  - key: "UnsupportedFrontierIntervention"
+    title: "无支撑边疆干预 / Unsupported Frontier Intervention"
+    url: "/wiki/concepts/unsupportedfrontierintervention/"
   - key: "SeasonalRitualConsumptionRestraint"
     title: "时令礼法式饮食约束 / Seasonal Ritual Consumption Restraint"
     url: "/wiki/concepts/seasonalritualconsumptionrestraint/"
