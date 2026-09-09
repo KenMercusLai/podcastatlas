@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2848
+topic_total_pages: 2850
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -358,6 +358,9 @@ topic_concepts:
   - key: "AIDiscoverySEO"
     title: "AI Discovery SEO"
     url: "/wiki/concepts/aidiscoveryseo/"
+  - key: "AIDisruptionRiskInvesting"
+    title: "AI Disruption Risk Investing"
+    url: "/wiki/concepts/aidisruptionriskinvesting/"
   - key: "AIDubbing"
     title: "AI Dubbing"
     url: "/wiki/concepts/aidubbing/"
@@ -7584,6 +7587,9 @@ topic_sources:
   - key: "bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41"
     title: "Bargaining chips: Nvidia is the bank of AI"
     url: "/wiki/sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-bill-ackman-investment-strategy-what-the-market-is-missing-how-ai-breaks-businesses-41519240"
+    title: "Bill Ackman: Investment Strategy, What the Market is Missing, How AI Breaks Businesses"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-ackman-investment-strategy-what-the-market-is-missing-how-ai-breaks-businesses-41519240/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010"
     title: "Bill Maris: How Google Could Crush AI Competitors, Why Small Funds Win, and AI's Atari Stage"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010/"

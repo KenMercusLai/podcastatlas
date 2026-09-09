@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bill Ackman: Investment Strategy, What the Market is Missing, How AI Breaks Businesses](sources/all-in-with-chamath-jason-sacks-friedberg-bill-ackman-investment-strategy-what-the-market-is-missing-how-ai-breaks-businesses-41519240.md) — All-In interview with Bill Ackman on quality value investing, AI disruption risk, Pershing Square activism, venture-style underwriting, Howard Hughes, and social-media cost of capital.
 - [№194: 赛博冲浪太快，我想回 MacRabbit 的兔子洞里坐一会](sources/anyway-194-anyway-194.md) — Anyway.FM episode connecting MacRabbit-era independent Mac app craft, Espresso, Slicy, and CSS Edit with Codex/Cursor-era designer AI coding and prototype-to-product difficulty.
 - [「人人喊打」的八哥，與台灣的「外來物種」難題](sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42.md) — 端闻 episode with 許正甫 and 馮孟傑 on a Taiwan nightjar livestream, introduced mynas, native/alien species boundaries, driver-versus-passenger invasion causality, and evidence-based humane management.
 - [Meta's youth safety settlement could change how people access the internet](sources/metas-youth-safety-settlement-could-change-how-people-access-the-internet.md) — Marketplace Tech episode with Will Creeley of FIRE on Meta's teen-safety settlement, age or identity verification pressure, anonymous speech, and First Amendment limits.
@@ -2085,6 +2086,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Bill Ackman](entities/BillAckman.md) — Pershing Square founder and investor framing quality value investing, AI disruption risk, founder control, Howard Hughes, and market communication in the All-In interview.
+- [Pershing Square](entities/PershingSquare.md) — Ackman's investment firm discussed as an activist and permanent-capital platform with AI-aware public holdings.
+- [Howard Hughes Holdings](entities/HowardHughesHoldings.md) — Real-estate-rooted public company Ackman presents as Pershing's Berkshire-inspired long-duration compounding vehicle.
+- [Tim Hortons](entities/TimHortons.md) — Restaurant chain used in Ackman's Wendy's campaign example as the spin-off target.
+- [General Growth Properties](entities/GeneralGrowthProperties.md) — Real-estate bankruptcy investment Ackman cites as Pershing's historic equity success and Howard Hughes origin.
+- [Ben Graham](entities/BenGraham.md) — Value-investing figure Ackman invokes to distinguish business ownership logic from modern quality-focused investing.
 - [許正甫 / Xu Zhengfu](entities/XuZhengfu.md) — Ecology-focused freelance writer in the Duanwen introduced-myna episode, framing alien-species debate as public discourse and conservation ethics.
 - [馮孟傑 / Feng Mengjie](entities/FengMengjie.md) — Birder and bird worker in the Duanwen episode, grounding Taiwan myna discussion in bird knowledge, public education, and ethical removal boundaries.
 - [Common Myna in Taiwan / 加八哥](entities/CommonMynaTaiwan.md) — Human-introduced Taiwan myna at the center of the nightjar livestream controversy and evidence-based management debate.
@@ -11559,6 +11566,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Quality Value Investing](concepts/QualityValueInvesting.md) — Ackman-style update to value investing that emphasizes durable business quality, moat protection, management judgment, and AI-era disruption risk.
+- [AI Disruption Risk Investing](concepts/AIDisruptionRiskInvesting.md) — Investment lens that evaluates every company by how AI can improve, threaten, or reprice its business model.
+- [Permanent Capital Compounding](concepts/PermanentCapitalCompounding.md) — Long-duration investment-company strategy using patient capital, float, controlled vehicles, and reinvestment discipline.
+- [Social Media Cost of Capital](concepts/SocialMediaCostOfCapital.md) — Market reflexivity concept where public following and investor belief can affect valuation, liquidity, and financing flexibility.
 - [Invasive Species Moralization / 外來種道德化](concepts/InvasiveSpeciesMoralization.md) — Public-discourse failure where alien or invasive species status becomes a moral label that licenses hatred or casual cruelty.
 - [Native-Alien Species Boundary / 原生外來邊界](concepts/NativeAlienSpeciesBoundary.md) — Ecological classification boundary separating natural/local presence from human-mediated introduction while requiring time, space, and harm distinctions.
 - [Driver-Passenger Invasion Model / 驅動者與搭便車模型](concepts/DriverPassengerInvasionModel.md) — Causal distinction between alien species directly driving native decline and alien species expanding as passengers of broader habitat change.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 9470
+wiki_total_pages: 9476
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "Perrigo"
     title: "Perrigo"
     url: "/wiki/entities/perrigo/"
+  - key: "PershingSquare"
+    title: "Pershing Square"
+    url: "/wiki/entities/pershingsquare/"
   - key: "Peru"
     title: "Peru"
     url: "/wiki/entities/peru/"

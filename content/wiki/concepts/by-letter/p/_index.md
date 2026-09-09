@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6863
+wiki_total_pages: 6867
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "PeripheralInnovationField"
     title: "Peripheral Innovation Field / 边域式创新场域"
     url: "/wiki/concepts/peripheralinnovationfield/"
+  - key: "PermanentCapitalCompounding"
+    title: "Permanent Capital Compounding"
+    url: "/wiki/concepts/permanentcapitalcompounding/"
   - key: "PermissionlessAIInnovation"
     title: "Permissionless AI Innovation"
     url: "/wiki/concepts/permissionlessaiinnovation/"

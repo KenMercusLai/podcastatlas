@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 6863
+wiki_total_pages: 6867
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "QualityLowPriceReasonedPremium"
     title: "Quality Low Price And Reasoned Premium / 有品质的低价与有理由的溢价"
     url: "/wiki/concepts/qualitylowpricereasonedpremium/"
+  - key: "QualityValueInvesting"
+    title: "Quality Value Investing"
+    url: "/wiki/concepts/qualityvalueinvesting/"
   - key: "QuantifiedParenting"
     title: "Quantified Parenting"
     url: "/wiki/concepts/quantifiedparenting/"

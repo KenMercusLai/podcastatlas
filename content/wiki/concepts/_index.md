@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6863
+wiki_total_pages: 6867
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "AIDiscoverySEO"
     title: "AI Discovery SEO"
     url: "/wiki/concepts/aidiscoveryseo/"
+  - key: "AIDisruptionRiskInvesting"
+    title: "AI Disruption Risk Investing"
+    url: "/wiki/concepts/aidisruptionriskinvesting/"
   - key: "AIDrugDiscoveryPlatform"
     title: "AI Drug Discovery Platform"
     url: "/wiki/concepts/aidrugdiscoveryplatform/"

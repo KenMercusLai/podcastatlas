@@ -16660,3 +16660,11 @@ Added source note for the 2026-06-03 Anyway.FM episode connecting MacRabbit-era 
 ## [2026-09-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-09] ingest | Bill Ackman: Investment Strategy, What the Market is Missing, How AI Breaks Businesses
+
+Added source note for the 2026-06-03 All-In interview with Bill Ackman on quality value investing, Pershing Square activism, AI disruption risk, venture-style underwriting of SpaceX/OpenAI/Anthropic/Palantir, Howard Hughes as a Berkshire-inspired compounding vehicle, and social-media cost of capital. Created Bill Ackman, Pershing Square, Howard Hughes Holdings, Tim Hortons, General Growth Properties, Ben Graham, Quality Value Investing, AI Disruption Risk Investing, Permanent Capital Compounding, and Social Media Cost of Capital pages. No settled contradiction found; valuation, vehicle-discount, and enterprise AI adoption claims remain source-scoped investment opinions.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

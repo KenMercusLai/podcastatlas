@@ -1911,6 +1911,10 @@
     "title": "AI Discovery SEO",
     "url": "/wiki/concepts/aidiscoveryseo/"
   },
+  "AIDisruptionRiskInvesting": {
+    "title": "AI Disruption Risk Investing",
+    "url": "/wiki/concepts/aidisruptionriskinvesting/"
+  },
   "AIDrivenCreatorMarketing": {
     "title": "AI-Driven Creator Marketing",
     "url": "/wiki/concepts/aidrivencreatormarketing/"
@@ -7399,6 +7403,10 @@
     "title": "Ben Goodwin",
     "url": "/wiki/entities/bengoodwin/"
   },
+  "BenGraham": {
+    "title": "Ben Graham",
+    "url": "/wiki/entities/bengraham/"
+  },
   "BenHe": {
     "title": "奔鹤 / Ben He",
     "url": "/wiki/entities/benhe/"
@@ -7750,6 +7758,10 @@
   "BilibiliAICreationContest": {
     "title": "B站 AI 创作大赛 / Bilibili AI Creation Contest",
     "url": "/wiki/entities/bilibiliaicreationcontest/"
+  },
+  "BillAckman": {
+    "title": "Bill Ackman",
+    "url": "/wiki/entities/billackman/"
   },
   "BillBishop": {
     "title": "Bill Bishop",
@@ -23071,6 +23083,10 @@
     "title": "General Catalyst",
     "url": "/wiki/entities/generalcatalyst/"
   },
+  "GeneralGrowthProperties": {
+    "title": "General Growth Properties",
+    "url": "/wiki/entities/generalgrowthproperties/"
+  },
   "GeneralMagic": {
     "title": "General Magic",
     "url": "/wiki/entities/generalmagic/"
@@ -26994,6 +27010,10 @@
   "HowWeSurvive": {
     "title": "How We Survive",
     "url": "/wiki/entities/howwesurvive/"
+  },
+  "HowardHughesHoldings": {
+    "title": "Howard Hughes Holdings",
+    "url": "/wiki/entities/howardhughesholdings/"
   },
   "HowardLutnick": {
     "title": "Howard Lutnick",
@@ -43579,6 +43599,10 @@
     "title": "《永久冻土》 / Permafrost",
     "url": "/wiki/entities/permafrostzelazny/"
   },
+  "PermanentCapitalCompounding": {
+    "title": "Permanent Capital Compounding",
+    "url": "/wiki/concepts/permanentcapitalcompounding/"
+  },
   "PermissionlessAIInnovation": {
     "title": "Permissionless AI Innovation",
     "url": "/wiki/concepts/permissionlessaiinnovation/"
@@ -43610,6 +43634,10 @@
   "Perrigo": {
     "title": "Perrigo",
     "url": "/wiki/entities/perrigo/"
+  },
+  "PershingSquare": {
+    "title": "Pershing Square",
+    "url": "/wiki/entities/pershingsquare/"
   },
   "PersianMiniaturePainting": {
     "title": "Persian Miniature Painting",
@@ -46978,6 +47006,10 @@
   "QualityLowPriceReasonedPremium": {
     "title": "Quality Low Price And Reasoned Premium / 有品质的低价与有理由的溢价",
     "url": "/wiki/concepts/qualitylowpricereasonedpremium/"
+  },
+  "QualityValueInvesting": {
+    "title": "Quality Value Investing",
+    "url": "/wiki/concepts/qualityvalueinvesting/"
   },
   "QuanShixiong": {
     "title": "全师雄 / Quan Shixiong",
@@ -52591,6 +52623,10 @@
     "title": "Social Media Causation Science Wars",
     "url": "/wiki/concepts/socialmediacausationsciencewars/"
   },
+  "SocialMediaCostOfCapital": {
+    "title": "Social Media Cost of Capital",
+    "url": "/wiki/concepts/socialmediacostofcapital/"
+  },
   "SocialMediaDesignRegulation": {
     "title": "Social Media Design Regulation",
     "url": "/wiki/concepts/socialmediadesignregulation/"
@@ -57214,6 +57250,10 @@
   "TimHarper": {
     "title": "Tim Harper",
     "url": "/wiki/entities/timharper/"
+  },
+  "TimHortons": {
+    "title": "Tim Hortons",
+    "url": "/wiki/entities/timhortons/"
   },
   "TimUrban": {
     "title": "Tim Urban",
@@ -66894,6 +66934,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420": {
     "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-bill-ackman-investment-strategy-what-the-market-is-missing-how-ai-breaks-businesses-41519240": {
+    "title": "Bill Ackman: Investment Strategy, What the Market is Missing, How AI Breaks Businesses",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-ackman-investment-strategy-what-the-market-is-missing-how-ai-breaks-businesses-41519240/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010": {
     "title": "Bill Maris: How Google Could Crush AI Competitors, Why Small Funds Win, and AI's Atari Stage",

@@ -3196,6 +3196,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIDisruptionRiskInvesting": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AIDrivenCreatorMarketing": [
     {
       "key": "technology",
@@ -27225,6 +27237,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "GeneralGrowthProperties": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "Generalist": [
     {
       "key": "technology",
@@ -31478,6 +31497,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "HowardHughesHoldings": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "HowardLutnick": [
@@ -48532,6 +48558,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PermanentCapitalCompounding": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "PermissionlessAIInnovation": [
     {
       "key": "technology",
@@ -52532,6 +52565,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "QualityValueInvesting": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "QuanYuanMingZhenTan": [
@@ -58626,6 +58666,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "SocialMediaCostOfCapital": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "SocialMediaProductLiability": [
     {
       "key": "politics",
@@ -64556,6 +64603,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "TimHortons": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "TimUrban": [
@@ -73734,6 +73788,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-bill-ackman-investment-strategy-what-the-market-is-missing-how-ai-breaks-businesses-41519240": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010": [

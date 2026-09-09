@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9470
+wiki_total_pages: 9476
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "BenGoodwin"
     title: "Ben Goodwin"
     url: "/wiki/entities/bengoodwin/"
+  - key: "BenGraham"
+    title: "Ben Graham"
+    url: "/wiki/entities/bengraham/"
   - key: "BenHo"
     title: "Ben Ho"
     url: "/wiki/entities/benho/"
@@ -416,6 +419,9 @@ wiki_pages:
   - key: "Bilibili"
     title: "Bilibili / 哔哩哔哩"
     url: "/wiki/entities/bilibili/"
+  - key: "BillAckman"
+    title: "Bill Ackman"
+    url: "/wiki/entities/billackman/"
   - key: "BillBishop"
     title: "Bill Bishop"
     url: "/wiki/entities/billbishop/"
