@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9407
+wiki_total_pages: 9411
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "ZhengZhilong"
     title: "Zheng Zhilong / 郑芝龙"
     url: "/wiki/entities/zhengzhilong/"
+  - key: "ZhiYunXinAstrologer"
+    title: "Zhi Yun / 智韵 (Xin astrologer)"
+    url: "/wiki/entities/zhiyunxinastrologer/"
   - key: "ZhipuAI"
     title: "Zhipu AI"
     url: "/wiki/entities/zhipuai/"

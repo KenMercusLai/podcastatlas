@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1614
+topic_total_pages: 1618
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1676,6 +1676,9 @@ topic_entities:
   - key: "LyndonBJohnson"
     title: "Lyndon B. Johnson"
     url: "/wiki/entities/lyndonbjohnson/"
+  - key: "MaShiqiuXinRebel"
+    title: "Ma Shiqiu / 马士求"
+    url: "/wiki/entities/mashiqiuxinrebel/"
   - key: "MainlandSoutheastAsia"
     title: "Mainland Southeast Asia / 中南半岛"
     url: "/wiki/entities/mainlandsoutheastasia/"
@@ -1760,6 +1763,9 @@ topic_entities:
   - key: "TalkSanlian"
     title: "Talk三联"
     url: "/wiki/entities/talksanlian/"
+  - key: "TangZunXinOfficial"
+    title: "Tang Zun / 唐尊 (Xin official)"
+    url: "/wiki/entities/tangzunxinofficial/"
   - key: "TeaHorseRoad"
     title: "Tea Horse Road / 茶马古道"
     url: "/wiki/entities/teahorseroad/"
@@ -1814,6 +1820,9 @@ topic_entities:
   - key: "WangLinXinCrownPrince"
     title: "Wang Lin / 王林 (Xin crown prince)"
     url: "/wiki/entities/wanglinxincrownprince/"
+  - key: "WangLingXinPrince"
+    title: "Wang Ling / 王陵 (Xin prince)"
+    url: "/wiki/entities/wanglingxinprince/"
   - key: "WangMang"
     title: "Wang Mang / 王莽"
     url: "/wiki/entities/wangmang/"
@@ -1853,6 +1862,9 @@ topic_entities:
   - key: "ZhangXiangrong"
     title: "Zhang Xiangrong / 张向荣"
     url: "/wiki/entities/zhangxiangrong/"
+  - key: "ZhiYunXinAstrologer"
+    title: "Zhi Yun / 智韵 (Xin astrologer)"
+    url: "/wiki/entities/zhiyunxinastrologer/"
   - key: "ZouYan"
     title: "Zou Yan / 邹衍"
     url: "/wiki/entities/zouyan/"

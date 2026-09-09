@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》657丨王莽废太子，有多儿戏？](sources/zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l.md) — 20 CE Wang Mang backfill on disaster-omen succession correction, Wang An and Wang Ling's title rearrangement, Nine Temples construction, Ma Shiqiu's plot, private-coinage punishment, Tang Zun's austerity, and Zhi Yun's remonstrance.
 - [《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生](sources/zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk.md) — 18 CE Wang Mang backfill and Yang Xiong profile on Fei Xing's dismissed livelihood diagnosis, unpaid-official corruption, Wang-family scandal, Fangyan, fu writing, and delayed cultural recognition.
 - [《资治通鉴·汉纪》655丨万众归心到民怨沸腾，王莽做错了哪一步？](sources/zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko.md) — 18-19 CE Wang Mang backfill on Fan Chong's early rebel growth, Qing-Xu disorder, unsupported Xiongnu intervention, calendar/music/immortality spectacle, mass extraction, speculative anti-Xiongnu schemes, and Yan You's dismissed priority warning.
 - [《资治通鉴·汉纪》656丨职场不会说话的人，很难混出头!](sources/zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl.md) — 19-20 CE Wang Mang backfill on Fan Sheng's indirect warning, Tian Kuang's tax-reward branch, Han Bo's giant-prodigy satire, late-Xin fiscal extraction, fear, and rebellion.
@@ -2112,7 +2113,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Empress Xiaomu of Xin / 孝睦皇后](entities/EmpressXiaomuXin.md) — Wang Mang's wife whose grief, blindness, illness, and death frame the Hanji 658 household-collapse branch.
 - [Yuan Bi / 元璧](entities/YuanBiXinPalaceAttendant.md) — Palace attendant connected to Empress Xiaomu, Wang Mang, and Wang Lin, whose torture confession exposes the plot.
 - [Liu Ying / 刘英 (Wang Lin's wife)](entities/LiuYingWangLinWife.md) — Wang Lin's astrology-linked wife whose omen reading is later turned into accusation and suicide.
-- [Wang An / 王安 (Xin prince)](entities/WangAnXinPrince.md) — Wang Mang's son whose illness death completes the public-son succession collapse in Hanji 658.
+- [Wang An / 王安 (Xin prince)](entities/WangAnXinPrince.md) — Wang Mang's son restored over Wang Ling in Hanji 657's disaster-omen succession correction before his illness death completes the public-son succession collapse in Hanji 658.
+- [Wang Ling / 王陵 (Xin prince)](entities/WangLingXinPrince.md) — Xin prince whose apparent heir status is undone when Wang Mang redirects disaster pressure into succession-title correction.
+- [Tang Zun / 唐尊 (Xin official)](entities/TangZunXinOfficial.md) — Late-Xin taifu whose austerity performance and gender-separation policing are praised by Wang Mang.
+- [Zhi Yun / 智韵 (Xin astrologer)](entities/ZhiYunXinAstrologer.md) — Runan astrologer-remonstrator jailed after using Heaven language to argue that Wang Mang should return authority and Han would revive.
+- [Ma Shiqiu / 马士求](entities/MaShiqiuXinRebel.md) — Julu anti-Xin plotter whose failed Yan-Zhao mobilization plan triggers mass execution in Hanji 657.
 - [Wang Xing / 王兴 (Xin prince)](entities/WangXingXinPrince.md) — Private son recalled after Wang Mang's public sons die, exposing a hidden succession fallback.
 - [Wang Kuang / 王匡 (Xin prince)](entities/WangKuangXinPrince.md) — Private son recalled with Wang Xing after Wang Mang's public succession line breaks.
 - [王邑 / Wang Yi (Xin general)](entities/WangYiXinGeneral.md) — Xin-side Kunyang commander whose face-driven rigidity and ignored advice turn numerical superiority into collapse.

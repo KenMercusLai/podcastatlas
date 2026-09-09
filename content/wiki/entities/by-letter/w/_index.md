@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9407
+wiki_total_pages: 9411
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "WangLinXinCrownPrince"
     title: "Wang Lin / 王林 (Xin crown prince)"
     url: "/wiki/entities/wanglinxincrownprince/"
+  - key: "WangLingXinPrince"
+    title: "Wang Ling / 王陵 (Xin prince)"
+    url: "/wiki/entities/wanglingxinprince/"
   - key: "WangMang"
     title: "Wang Mang / 王莽"
     url: "/wiki/entities/wangmang/"

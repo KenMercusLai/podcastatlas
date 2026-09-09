@@ -40181,6 +40181,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MaShiqiuXinRebel": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "MaXiaoPekingUniversity": [
     {
       "key": "technology",
@@ -62069,6 +62076,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "TangZunXinOfficial": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "TangmuYi": [
     {
       "key": "history",
@@ -67218,6 +67232,13 @@
       "url": "/topics/history/"
     }
   ],
+  "WangLingXinPrince": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "WangLixin": [
     {
       "key": "economics",
@@ -72347,6 +72368,13 @@
     }
   ],
   "ZhiYao": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "ZhiYunXinAstrologer": [
     {
       "key": "history",
       "label": "History",

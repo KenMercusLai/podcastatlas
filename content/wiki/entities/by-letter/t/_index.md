@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9407
+wiki_total_pages: 9411
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "TangYongSociologist"
     title: "Tang Yong / 唐勇"
     url: "/wiki/entities/tangyongsociologist/"
+  - key: "TangZunXinOfficial"
+    title: "Tang Zun / 唐尊 (Xin official)"
+    url: "/wiki/entities/tangzunxinofficial/"
   - key: "TannenOralCare"
     title: "Tannen Oral Care"
     url: "/wiki/entities/tannenoralcare/"
