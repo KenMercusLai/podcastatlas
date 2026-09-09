@@ -2533,6 +2533,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "AIArtificialIntelligenceFilm": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "AIArtistDevelopment": [
     {
       "key": "technology",
@@ -4783,6 +4795,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "AISubjectivityCrisis": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "AISubscriptionEconomics": [
@@ -23196,6 +23220,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "ExMachinaFilm": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ExamDrivenScienceEducation": [
     {
       "key": "culture",
@@ -25919,6 +25955,18 @@
     }
   ],
   "FrankWells": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "FrankensteinComplexAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
     {
       "key": "culture",
       "label": "Culture",
@@ -30250,6 +30298,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "HerFilm": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "HerbalSupplementLiverToxicity": [
@@ -51172,6 +51232,18 @@
       "url": "/topics/science/"
     }
   ],
+  "ProgrammedLoveAuthenticity": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ProgressTrackingSelfAssessment": [
     {
       "key": "science",
@@ -58235,6 +58307,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "SimulatedRealityEpistemology": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "SincereEmotionalSupport": [
     {
       "key": "culture",
@@ -60012,6 +60096,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "StanleyKubrick": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "StanleyMilgram": [
@@ -65832,6 +65923,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "TuringTestJudgmentTrap": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Turkey": [
@@ -74722,6 +74825,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "disney-the-renaissance-and-the-empire-1": [

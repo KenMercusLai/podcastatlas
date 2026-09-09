@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9481
+wiki_total_pages: 9485
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "ABOTNavigation"
     title: "A-BOT Navigation"
     url: "/wiki/entities/abotnavigation/"
+  - key: "AIArtificialIntelligenceFilm"
+    title: "A.I. Artificial Intelligence / 《人工智能》"
+    url: "/wiki/entities/aiartificialintelligencefilm/"
   - key: "A23A"
     title: "A23A"
     url: "/wiki/entities/a23a/"

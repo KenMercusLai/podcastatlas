@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6871
+wiki_total_pages: 6876
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -746,6 +746,9 @@ wiki_pages:
   - key: "TurboDiffusion"
     title: "TurboDiffusion"
     url: "/wiki/concepts/turbodiffusion/"
+  - key: "TuringTestJudgmentTrap"
+    title: "Turing Test Judgment Trap / 图灵测试式判断陷阱"
+    url: "/wiki/concepts/turingtestjudgmenttrap/"
   - key: "TurkishOppositionRealignment"
     title: "Turkish Opposition Realignment"
     url: "/wiki/concepts/turkishoppositionrealignment/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [电影里的AI：情人、巨婴和独裁者](sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b.md) — 电影巨辩 episode reading AI cinema from Frankenstein, A.I., Her, Ex Machina, and The Matrix through programmed love, simulated reality, Turing-test judgment, embodiment, and subjectivity.
 - [OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute](sources/all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105.md) — All-In interview with Sarah Friar on OpenAI's IPO framing, March fundraising, compute scarcity, multi-cloud and multi-chip infrastructure strategy, enterprise adoption, ChatGPT advertising, Sora constraints, and Jony Ive device work.
 - [《资治通鉴·汉纪》628丨如果穿越，教你如何当皇帝](sources/zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc.md) — 5 CE Wang Mang backfill on Han Pingdi's death, adult Liu-line successor exclusion, young Emperor Xuan descendants as controllable heirs, the white-stone fuming, Wang Zhengjun's pressured approval, and Wang Mang's "摄皇帝" ritual package.
 - [《资治通鉴·汉纪》629丨刘家人，谁扛起反抗王莽的大旗？](sources/zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55.md) — 6 CE Wang Mang regency backfill on Liu Ying's crown-prince installation, archaizing assistant offices, Liu Chong and Zhang Shao's failed Wan rising, Zhang Song and Liu Jia's rewarded petition, "假皇帝" title expansion, 摄宫 naming, and Western Qiang land-seizure backlash.
@@ -2091,6 +2092,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Stanley Kubrick / 斯坦利·库布里克](entities/StanleyKubrick.md) — Director-source figure for the long-developed A.I. Artificial Intelligence project and its dark modern-Pinocchio structure.
+- [A.I. Artificial Intelligence / 《人工智能》](entities/AIArtificialIntelligenceFilm.md) — Kubrick-developed and Spielberg-directed AI film used to examine programmed love, artificial childhood, and creator responsibility.
+- [Her / 《她》](entities/HerFilm.md) — AI-companion film used to examine disembodied intimacy, loneliness, and nonhuman cognitive departure.
+- [Ex Machina / 《机械姬》](entities/ExMachinaFilm.md) — AI-consciousness film used to examine judgment, manipulation, and the uncertainty between programming and choice.
 - [安众侯刘崇 / Liu Chong, Anzhong Marquis](entities/LiuChongAnzhongMarquis.md) — Liu royal relative whose failed 6 CE Wan attack is treated as the first symbolic anti-Wang Mang rising.
 - [张绍 / Zhang Shao, Fengguo chancellor](entities/ZhangShaoFengguoChancellor.md) — Fengguo chancellor who joins Liu Chong's failed anti-Wang Mang attack on Wan, distinct from modern Zhang Shaofeng.
 - [张竦 / Zhang Song, Xin petitioner](entities/ZhangSongXinPetitioner.md) — Petition writer who helps convert post-rebellion implication risk into rewarded loyalty under Wang Mang.
@@ -11576,6 +11581,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Frankenstein Complex in AI Cinema / AI电影中的弗兰肯斯坦情结](concepts/FrankensteinComplexAI.md) — Film pattern where humans create artificial life or intelligence, then fear autonomy, rebellion, replacement, or responsibility.
+- [Programmed Love Authenticity / 被设计出来的爱是否真实](concepts/ProgrammedLoveAuthenticity.md) — Question of whether artificial attachment can be ethically real when its origin is designed.
+- [Turing Test Judgment Trap / 图灵测试式判断陷阱](concepts/TuringTestJudgmentTrap.md) — Situation where humans must infer AI mind, love, or deception from behavior that may only prove imitation.
+- [AI Subjectivity Crisis / AI时代主体性危机](concepts/AISubjectivityCrisis.md) — Cultural pressure AI, simulation, algorithms, and synthetic companions put on modern ideas of human subjectivity.
+- [Simulated Reality Epistemology / 模拟现实认识论](concepts/SimulatedRealityEpistemology.md) — Problem of knowing what is real when technical systems can produce a coherent experienced world.
 - [刘氏反莽第一枪 / First Anti-Wang Mang Rising](concepts/FirstAntiWangMangRising.md) — Pattern where Liu Chong's militarily weak failed action matters as the first public dynastic resistance signal against Wang Mang.
 - [巧奏取封式忠诚信号 / Petition-Reward Loyalty Signal](concepts/PetitionRewardLoyaltySignal.md) — Court reward pattern where denunciatory or flattering memorials convert political danger into favor.
 - [以叛乱反证加权 / Rebellion-Justified Power Expansion](concepts/RebellionJustifiedPowerExpansion.md) — Mechanism where Liu Chong's failed rebellion is used to argue Wang Mang needs more formal authority.

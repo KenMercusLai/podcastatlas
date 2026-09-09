@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6871
+wiki_total_pages: 6876
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1205,6 +1205,9 @@ wiki_pages:
   - key: "AIStorageSupercycle"
     title: "AI Storage Supercycle"
     url: "/wiki/concepts/aistoragesupercycle/"
+  - key: "AISubjectivityCrisis"
+    title: "AI Subjectivity Crisis / AI时代主体性危机"
+    url: "/wiki/concepts/aisubjectivitycrisis/"
   - key: "AISubscriptionEconomics"
     title: "AI Subscription Economics"
     url: "/wiki/concepts/aisubscriptioneconomics/"

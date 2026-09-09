@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6871
+wiki_total_pages: 6876
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1409,6 +1409,9 @@ wiki_pages:
   - key: "ProgrammableMatter"
     title: "Programmable Matter"
     url: "/wiki/concepts/programmablematter/"
+  - key: "ProgrammedLoveAuthenticity"
+    title: "Programmed Love Authenticity / 被设计出来的爱是否真实"
+    url: "/wiki/concepts/programmedloveauthenticity/"
   - key: "ProgressDataVisualization"
     title: "Progress Data Visualization"
     url: "/wiki/concepts/progressdatavisualization/"

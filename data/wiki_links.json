@@ -1607,6 +1607,10 @@
     "title": "AI Application Survival Strategy",
     "url": "/wiki/concepts/aiapplicationsurvivalstrategy/"
   },
+  "AIArtificialIntelligenceFilm": {
+    "title": "A.I. Artificial Intelligence / 《人工智能》",
+    "url": "/wiki/entities/aiartificialintelligencefilm/"
+  },
   "AIArtistDevelopment": {
     "title": "AI Artist Development",
     "url": "/wiki/concepts/aiartistdevelopment/"
@@ -2622,6 +2626,10 @@
   "AIStorageSupercycle": {
     "title": "AI Storage Supercycle",
     "url": "/wiki/concepts/aistoragesupercycle/"
+  },
+  "AISubjectivityCrisis": {
+    "title": "AI Subjectivity Crisis / AI时代主体性危机",
+    "url": "/wiki/concepts/aisubjectivitycrisis/"
   },
   "AISubscriptionEconomics": {
     "title": "AI Subscription Economics",
@@ -19311,6 +19319,10 @@
     "title": "Evonik",
     "url": "/wiki/entities/evonik/"
   },
+  "ExMachinaFilm": {
+    "title": "Ex Machina / 《机械姬》",
+    "url": "/wiki/entities/exmachinafilm/"
+  },
   "ExVivoCARTManufacturing": {
     "title": "Ex Vivo CAR-T Manufacturing",
     "url": "/wiki/concepts/exvivocartmanufacturing/"
@@ -21922,6 +21934,10 @@
   "FrankensteinCastle": {
     "title": "Frankenstein Castle / 弗兰肯斯坦城堡",
     "url": "/wiki/entities/frankensteincastle/"
+  },
+  "FrankensteinComplexAI": {
+    "title": "Frankenstein Complex in AI Cinema / AI电影中的弗兰肯斯坦情结",
+    "url": "/wiki/concepts/frankensteincomplexai/"
   },
   "FrankishPortraiturePressure": {
     "title": "Frankish Portraiture Pressure",
@@ -26030,6 +26046,10 @@
   "Heptapods": {
     "title": "Heptapods",
     "url": "/wiki/entities/heptapods/"
+  },
+  "HerFilm": {
+    "title": "Her / 《她》",
+    "url": "/wiki/entities/herfilm/"
   },
   "Heraclitus": {
     "title": "Heraclitus / 赫拉克利特",
@@ -45763,6 +45783,10 @@
     "title": "Programmable Matter",
     "url": "/wiki/concepts/programmablematter/"
   },
+  "ProgrammedLoveAuthenticity": {
+    "title": "Programmed Love Authenticity / 被设计出来的爱是否真实",
+    "url": "/wiki/concepts/programmedloveauthenticity/"
+  },
   "ProgressDataVisualization": {
     "title": "Progress Data Visualization",
     "url": "/wiki/concepts/progressdatavisualization/"
@@ -52159,6 +52183,10 @@
     "title": "Simply Insured",
     "url": "/wiki/entities/simplyinsured/"
   },
+  "SimulatedRealityEpistemology": {
+    "title": "Simulated Reality Epistemology / 模拟现实认识论",
+    "url": "/wiki/concepts/simulatedrealityepistemology/"
+  },
   "Sina": {
     "title": "Sina / 新浪",
     "url": "/wiki/entities/sina/"
@@ -53614,6 +53642,10 @@
   "StanleyDruckenmiller": {
     "title": "Stanley Druckenmiller",
     "url": "/wiki/entities/stanleydruckenmiller/"
+  },
+  "StanleyKubrick": {
+    "title": "Stanley Kubrick / 斯坦利·库布里克",
+    "url": "/wiki/entities/stanleykubrick/"
   },
   "StanleyMilgram": {
     "title": "Stanley Milgram / 斯坦利·米尔格拉姆",
@@ -58226,6 +58258,10 @@
   "TurboDiffusion": {
     "title": "TurboDiffusion",
     "url": "/wiki/concepts/turbodiffusion/"
+  },
+  "TuringTestJudgmentTrap": {
+    "title": "Turing Test Judgment Trap / 图灵测试式判断陷阱",
+    "url": "/wiki/concepts/turingtestjudgmenttrap/"
   },
   "Turkey": {
     "title": "Turkey",
@@ -67478,6 +67514,10 @@
   "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d": {
     "title": "Dhaka matters: an election for Bangladesh",
     "url": "/wiki/sources/dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d/"
+  },
+  "dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b": {
+    "title": "电影里的AI：情人、巨婴和独裁者",
+    "url": "/wiki/sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b/"
   },
   "diary-of-a-wnba-negotiator": {
     "title": "Diary of a WNBA negotiator",

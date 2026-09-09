@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 9481
+wiki_total_pages: 9485
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "Evonik"
     title: "Evonik"
     url: "/wiki/entities/evonik/"
+  - key: "ExMachinaFilm"
+    title: "Ex Machina / 《机械姬》"
+    url: "/wiki/entities/exmachinafilm/"
   - key: "Exec"
     title: "Exec"
     url: "/wiki/entities/exec/"

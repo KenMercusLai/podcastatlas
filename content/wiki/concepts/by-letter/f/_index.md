@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6871
+wiki_total_pages: 6876
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -944,6 +944,9 @@ wiki_pages:
   - key: "FRANDLicensing"
     title: "FRAND Licensing"
     url: "/wiki/concepts/frandlicensing/"
+  - key: "FrankensteinComplexAI"
+    title: "Frankenstein Complex in AI Cinema / AI电影中的弗兰肯斯坦情结"
+    url: "/wiki/concepts/frankensteincomplexai/"
   - key: "FrankishPortraiturePressure"
     title: "Frankish Portraiture Pressure"
     url: "/wiki/concepts/frankishportraiturepressure/"

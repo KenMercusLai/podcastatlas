@@ -6,7 +6,8 @@ sources:
   - dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue
   - huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1
   - zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf
-last_updated: 2026-09-09
+  - dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b
+last_updated: 2026-09-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-电影巨辩 is the film-discussion podcast represented in the wiki through long-form episodes on [[ChristopherNolan]]'s [[TheOdyssey]], recent Chinese commercial films entering unfamiliar political contexts, and [[FengXiaogang|冯小刚]]'s serious mainstream filmmaking.
+电影巨辩 is the film-discussion podcast represented in the wiki through long-form episodes on [[ChristopherNolan]]'s [[TheOdyssey]], recent Chinese commercial films entering unfamiliar political contexts, [[FengXiaogang|冯小刚]]'s serious mainstream filmmaking, and AI cinema as a philosophical problem.
 
 ## Current Profile
 
@@ -24,6 +25,8 @@ The later episode on [[WelcomeToLailongRestaurant|《欢迎来龙餐馆》]] and
 
 The Feng Xiaogang episode adds a historical-mainstream branch. It uses [[ZhuaTewu|《抓特务》]] and [[WuhuiZhuizong|《无悔追踪》]] to distinguish serious public-emotion cinema from over-clarified reconciliation, extracting [[IndividualAbandonmentNarrative]], [[HistoricalAmbiguityInMainstreamCinema]], and [[NationalDirectorEmotionOutlet]] as film-critical concepts.
 
+The AI-cinema episode extends the show's range from authorship and politics into science-fiction philosophy. It treats [[Frankenstein|《弗兰肯斯坦》]], [[AIArtificialIntelligenceFilm|《人工智能》]], [[HerFilm|《她》]], [[ExMachinaFilm|《机械姬》]], and [[TheMatrix|《黑客帝国》]] as cases for [[FrankensteinComplexAI]], [[ProgrammedLoveAuthenticity]], [[TuringTestJudgmentTrap]], [[SimulatedRealityEpistemology]], and [[AISubjectivityCrisis]]. The show's method remains comparative: film plots become a way to ask what love, embodiment, judgment, and human subjectivity mean under AI.
+
 ## Key Characteristics
 
 - The show treats popular films as serious cultural texts rather than only entertainment products.
@@ -32,6 +35,7 @@ The Feng Xiaogang episode adds a historical-mainstream branch. It uses [[ZhuaTew
 - It can also use contemporary Chinese films to examine how mainland cinema looks at foreign wars, Hong Kong history, capitalism, and state order.
 - It uses filmmaker career arcs to ask when a director can serve as an outlet for public emotion rather than only a maker of successful films.
 - It is willing to preserve ambivalence: Nolan's modernization and Chinese commercial films are treated as coherent, limited, and politically contested at the same time.
+- It can turn science-fiction film history into a humanities inquiry about technology, love, simulation, and personhood.
 
 ## Evidence
 
@@ -42,15 +46,17 @@ The Feng Xiaogang episode adds a historical-mainstream branch. It uses [[ZhuaTew
 - Cross-context diagnosis: [[huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1]] turns two summer films into a broader question about Chinese cinema's ability to enter Iraq-war and Hong Kong handover contexts.
 - Filmmaker-as-public-emotion outlet: [[zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf]] reads Feng Xiaogang's serious films through abandoned individuals, recognition, and national-director status.
 - Historical ambiguity standard: [[zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf]] praises 《无悔追踪》 for preserving uncertainty while criticizing 《抓特务》 for turning that uncertainty into explicit answers.
+- AI-film philosophy: [[dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b]] links AI cinema to Frankenstein, Pinocchio, Turing tests, companion AI, simulated reality, and the modern subject.
 
 ## Qualifications
 
-The wiki still has only three sources for the show, all film-analysis episodes. This profile should not be treated as a complete description of its full catalog, hosts, audience, or editorial line.
+The wiki still has only four sources for the show, all film-analysis episodes. This profile should not be treated as a complete description of its full catalog, hosts, audience, or editorial line.
 
 ## What Changed
 
 - Added the Feng Xiaogang branch around serious mainstream authorship, abandoned individuals, historical ambiguity, and national-director emotion.
 - Added the earlier Chinese-commercial-cinema branch around cross-context politics, ordinary humanitarianism, and Greater Bay Area-era Hong Kong film rewriting.
+- Added the AI-cinema branch around artificial love, Turing-test judgment, simulation, and subjectivity.
 
 ## Relationships
 
@@ -66,3 +72,7 @@ The wiki still has only three sources for the show, all film-analysis episodes. 
 - [[IMAXAuthenticityAesthetic]] - technical and aesthetic branch discussed in the episode.
 - [[CrossContextPoliticalCinema]] - newer Chinese-film problem developed by the show.
 - [[HistoricalAmbiguityInMainstreamCinema]] - newer historical-mainstream problem developed by the show.
+- [[AIArtificialIntelligenceFilm]] - central AI-film case in the newer technology-philosophy branch.
+- [[HerFilm]] - AI companion case discussed by the show.
+- [[ExMachinaFilm]] - AI judgment case discussed by the show.
+- [[FrankensteinComplexAI]] - AI-cinema source pattern developed by the show.

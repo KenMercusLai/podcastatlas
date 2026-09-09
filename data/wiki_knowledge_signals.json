@@ -468,6 +468,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/aianswersourceattribution/"
     },
+    "AIArtificialIntelligenceFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEN9DjGAzhKswSh-D-b [GKwRIUEN9DjGAzhKswSh-D-b].md",
+          "key": "dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b",
+          "show": "电影巨辩",
+          "title": "电影里的AI：情人、巨婴和独裁者",
+          "url": "/wiki/sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/aiartificialintelligencefilm/"
+    },
     "AIAsBrandMirror": {
       "episode_count": 1,
       "show_count": 1,
@@ -2604,6 +2620,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/aistatisticalassociation/"
+    },
+    "AISubjectivityCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEN9DjGAzhKswSh-D-b [GKwRIUEN9DjGAzhKswSh-D-b].md",
+          "key": "dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b",
+          "show": "电影巨辩",
+          "title": "电影里的AI：情人、巨婴和独裁者",
+          "url": "/wiki/sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/aisubjectivitycrisis/"
     },
     "AITO": {
       "episode_count": 2,
@@ -19758,9 +19790,9 @@
       "url": "/wiki/entities/dianlingqiang/"
     },
     "DianyingJubian": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GKwRIJIOV2xKBTdKNQTHj-ue [GKwRIJIOV2xKBTdKNQTHj-ue].md",
@@ -19782,9 +19814,16 @@
           "show": "电影巨辩",
           "title": "在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面",
           "url": "/wiki/sources/zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf/"
+        },
+        {
+          "episode_file": "GKwRIUEN9DjGAzhKswSh-D-b [GKwRIUEN9DjGAzhKswSh-D-b].md",
+          "key": "dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b",
+          "show": "电影巨辩",
+          "title": "电影里的AI：情人、巨婴和独裁者",
+          "url": "/wiki/sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/dianyingjubian/"
     },
     "Didi": {
@@ -25595,6 +25634,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/evolutionarymisrecognition/"
     },
+    "ExMachinaFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEN9DjGAzhKswSh-D-b [GKwRIUEN9DjGAzhKswSh-D-b].md",
+          "key": "dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b",
+          "show": "电影巨辩",
+          "title": "电影里的AI：情人、巨婴和独裁者",
+          "url": "/wiki/sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/exmachinafilm/"
+    },
     "ExerciseAssistiveGearBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -29586,6 +29641,52 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/franksmith/"
+    },
+    "Frankenstein": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代 [857923931].md",
+          "key": "141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931",
+          "show": "蜜獾吃书",
+          "title": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代",
+          "url": "/wiki/sources/141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931/"
+        },
+        {
+          "episode_file": "68.疯狂实验史：哎！这该死的求知欲… [664384549].md",
+          "key": "68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549",
+          "show": "蜜獾吃书",
+          "title": "68.疯狂实验史：哎！这该死的求知欲…",
+          "url": "/wiki/sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549/"
+        },
+        {
+          "episode_file": "GKwRIUEN9DjGAzhKswSh-D-b [GKwRIUEN9DjGAzhKswSh-D-b].md",
+          "key": "dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b",
+          "show": "电影巨辩",
+          "title": "电影里的AI：情人、巨婴和独裁者",
+          "url": "/wiki/sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/frankenstein/"
+    },
+    "FrankensteinComplexAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEN9DjGAzhKswSh-D-b [GKwRIUEN9DjGAzhKswSh-D-b].md",
+          "key": "dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b",
+          "show": "电影巨辩",
+          "title": "电影里的AI：情人、巨婴和独裁者",
+          "url": "/wiki/sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/frankensteincomplexai/"
     },
     "FranzFerdinand": {
       "episode_count": 1,
@@ -35578,6 +35679,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/henryvplay/"
+    },
+    "HerFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEN9DjGAzhKswSh-D-b [GKwRIUEN9DjGAzhKswSh-D-b].md",
+          "key": "dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b",
+          "show": "电影巨辩",
+          "title": "电影里的AI：情人、巨婴和独裁者",
+          "url": "/wiki/sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/herfilm/"
     },
     "HerbertSimon": {
       "episode_count": 1,
@@ -63328,6 +63445,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/productionvibecoding/"
     },
+    "ProgrammedLoveAuthenticity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEN9DjGAzhKswSh-D-b [GKwRIUEN9DjGAzhKswSh-D-b].md",
+          "key": "dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b",
+          "show": "电影巨辩",
+          "title": "电影里的AI：情人、巨婴和独裁者",
+          "url": "/wiki/sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/programmedloveauthenticity/"
+    },
     "PromotionPositionFit": {
       "episode_count": 2,
       "show_count": 1,
@@ -71578,6 +71711,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/simonlordoftheflies/"
     },
+    "SimulatedRealityEpistemology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEN9DjGAzhKswSh-D-b [GKwRIUEN9DjGAzhKswSh-D-b].md",
+          "key": "dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b",
+          "show": "电影巨辩",
+          "title": "电影里的AI：情人、巨婴和独裁者",
+          "url": "/wiki/sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/simulatedrealityepistemology/"
+    },
     "SincereEmotionalSupport": {
       "episode_count": 1,
       "show_count": 1,
@@ -73590,6 +73739,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/stanleydruckenmiller/"
     },
+    "StanleyKubrick": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEN9DjGAzhKswSh-D-b [GKwRIUEN9DjGAzhKswSh-D-b].md",
+          "key": "dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b",
+          "show": "电影巨辩",
+          "title": "电影里的AI：情人、巨婴和独裁者",
+          "url": "/wiki/sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/stanleykubrick/"
+    },
     "StarSpangledBanner": {
       "episode_count": 1,
       "show_count": 1,
@@ -73846,6 +74011,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/steveyoungmelanomapatient/"
+    },
+    "StevenSpielberg": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "185.魔鬼出没的世界：关于阴谋论（UFO,外星人绑架案,麦田圈,X档案,揭秘日... [996181368].md",
+          "key": "185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368",
+          "show": "蜜獾吃书",
+          "title": "185.魔鬼出没的世界：关于阴谋论、UFO与科学精神",
+          "url": "/wiki/sources/185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368/"
+        },
+        {
+          "episode_file": "GKwRIUEN9DjGAzhKswSh-D-b [GKwRIUEN9DjGAzhKswSh-D-b].md",
+          "key": "dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b",
+          "show": "电影巨辩",
+          "title": "电影里的AI：情人、巨婴和独裁者",
+          "url": "/wiki/sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/stevenspielberg/"
     },
     "StevieGleiberson": {
       "episode_count": 1,
@@ -79712,6 +79900,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/tuntianproximitysecuritydilemma/"
+    },
+    "TuringTestJudgmentTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIUEN9DjGAzhKswSh-D-b [GKwRIUEN9DjGAzhKswSh-D-b].md",
+          "key": "dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b",
+          "show": "电影巨辩",
+          "title": "电影里的AI：情人、巨婴和独裁者",
+          "url": "/wiki/sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/turingtestjudgmenttrap/"
     },
     "UAPCompartmentalization": {
       "episode_count": 1,

@@ -2446,9 +2446,15 @@
       "earliest_episode_date": "2026-06-02",
       "latest_episode_date": "2026-08-30",
       "latest_episode_file": "GKwRIUEOafW5AYwNyATPX3K1 [GKwRIUEOafW5AYwNyATPX3K1].md",
-      "source_note_count": 3,
-      "topic_matched_source_note_count": 3,
+      "source_note_count": 4,
+      "topic_matched_source_note_count": 4,
       "topics": [
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 4
+        },
         {
           "key": "politics",
           "label": "Politics",
@@ -2456,10 +2462,10 @@
           "source_note_count": 3
         },
         {
-          "key": "culture",
-          "label": "Culture",
-          "url": "/topics/culture/",
-          "source_note_count": 3
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 1
         },
         {
           "key": "history",
@@ -2471,9 +2477,9 @@
       "entities": [],
       "start_here_episode_files": [
         "GKwRIUEOafW5AYwNyATPX3K1 [GKwRIUEOafW5AYwNyATPX3K1].md",
+        "GKwRIUEN9DjGAzhKswSh-D-b [GKwRIUEN9DjGAzhKswSh-D-b].md",
         "GKwRIW4OEFk6BNp1EQSshjXF [GKwRIW4OEFk6BNp1EQSshjXF].md",
-        "GKwRIJIOV2xKBTdKNQTHj-ue [GKwRIJIOV2xKBTdKNQTHj-ue].md",
-        "GKwRIJIOPjPGA1chAgS-XwP_ [GKwRIJIOPjPGA1chAgS-XwP_].md"
+        "GKwRIJIOV2xKBTdKNQTHj-ue [GKwRIJIOV2xKBTdKNQTHj-ue].md"
       ]
     },
     "疯投圈": {
