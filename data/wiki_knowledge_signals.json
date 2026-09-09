@@ -6647,9 +6647,9 @@
       "url": "/wiki/entities/aurelstein/"
     },
     "AuspiciousOmenPolitics": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 2,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》911丨古代公务员也能包分配？ [ls3pXu9XlPuulSDaILx8TcoYlv9e].md",
@@ -6727,6 +6727,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？ [lnC6E3DGxXnrYlkFQZGl2rO9gPbJ].md",
+          "key": "zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj/"
         }
       ],
       "updated": "2026-09-09",
@@ -11885,6 +11892,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/chenchonglatehan/"
     },
+    "ChenChongXinOfficial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？ [lnC6E3DGxXnrYlkFQZGl2rO9gPbJ].md",
+          "key": "zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/chenchongxinofficial/"
+    },
     "ChenFanLateHan": {
       "episode_count": 20,
       "show_count": 1,
@@ -12118,6 +12141,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/chenjunsheng/"
+    },
+    "ChenLiangXinDefector": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？ [lhxBX6KeIbmFe8z6bcsmlPNR6ehT].md",
+          "key": "zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/chenliangxindefector/"
     },
     "ChenLinLateHan": {
       "episode_count": 5,
@@ -12663,6 +12702,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/cheshihoukingdomlatehan/"
+    },
+    "CheshiHouKingdomXin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？ [lhxBX6KeIbmFe8z6bcsmlPNR6ehT].md",
+          "key": "zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/cheshihoukingdomxin/"
     },
     "ChestPainEmergencyEscalation": {
       "episode_count": 1,
@@ -24170,9 +24225,9 @@
       "url": "/wiki/entities/empresssisi/"
     },
     "EmpressWangPingdi": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？ [lrjUrgJZVwEzkppvGeUpu6orMMzW].md",
@@ -24180,9 +24235,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？ [lhxBX6KeIbmFe8z6bcsmlPNR6ehT].md",
+          "key": "zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "url": "/wiki/entities/empresswangpingdi/"
     },
     "EmpressXiaomuXin": {
@@ -29773,6 +29835,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/fugitivesheltercollateralrisk/"
+    },
+    "FumingMonopolyBackfire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？ [lnC6E3DGxXnrYlkFQZGl2rO9gPbJ].md",
+          "key": "zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/fumingmonopolybackfire/"
     },
     "FunctionalArticulationDisorder": {
       "episode_count": 1,
@@ -67049,6 +67127,71 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/samharris/"
     },
+    "SameSurnameKingEnfeoffment": {
+      "episode_count": 8,
+      "show_count": 1,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
+          "key": "zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》189｜刘邦死前最后一搏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（2） [liEbzrDrvo1OkoNpdjvrJATUwx9i].md",
+          "key": "zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因 [lgNbVNNfWxe4Weupqgz_Rh9cbp2S].md",
+          "key": "zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（2） [lutKaPDiJRGPwfRZ3sAAOwXTk_i2].md",
+          "key": "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1） [li5U-DMsMB1Lp4NY3rk02Kaiyu4K].md",
+          "key": "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2） [lolUh53iYrZo4uCf3TTzMN3_otKV].md",
+          "key": "zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1） [lnZzVPIeQtgaTMVGogZ3MSyHS60u].md",
+          "key": "zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？ [lv-GTknrHlIpSmRTT3c4D7Gcr-pC].md",
+          "key": "zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/samesurnamekingenfeoffment/"
+    },
     "SamuelJohnson": {
       "episode_count": 1,
       "show_count": 1,
@@ -73383,6 +73526,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/sunhelatehan/"
     },
+    "SunJianXinGeneral": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？ [lhxBX6KeIbmFe8z6bcsmlPNR6ehT].md",
+          "key": "zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/sunjianxingeneral/"
+    },
     "SunQuan": {
       "episode_count": 7,
       "show_count": 1,
@@ -74037,6 +74196,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/symbolicreconciliationstatecraft/"
+    },
+    "SymbolicStatusDowngradeBackfire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？ [lhxBX6KeIbmFe8z6bcsmlPNR6ehT].md",
+          "key": "zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/symbolicstatusdowngradebackfire/"
     },
     "SymptomDrivenSpineCare": {
       "episode_count": 1,
@@ -80036,9 +80211,9 @@
       "url": "/wiki/entities/wangjiye/"
     },
     "WangJunXinGeneral": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》652丨王莽的外科手术 [ltdIqldskazY-cB6iGDMrv5hUxm9].md",
@@ -80046,6 +80221,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》652丨王莽的外科手术",
           "url": "/wiki/sources/zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？ [lhxBX6KeIbmFe8z6bcsmlPNR6ehT].md",
+          "key": "zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht/"
         }
       ],
       "updated": "2026-09-09",
@@ -80220,9 +80402,9 @@
       "url": "/wiki/entities/wanglingxinprince/"
     },
     "WangMang": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 2,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -80349,15 +80531,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》641丨币制改革，如何导致王莽万劫不复？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？ [lnC6E3DGxXnrYlkFQZGl2rO9gPbJ].md",
+          "key": "zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj/"
         }
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/wangmang/"
     },
     "WangMangReforms": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -80400,6 +80589,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》641丨币制改革，如何导致王莽万劫不复？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？ [lv-GTknrHlIpSmRTT3c4D7Gcr-pC].md",
+          "key": "zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc/"
         }
       ],
       "updated": "2026-09-09",
@@ -82889,9 +83085,9 @@
       "url": "/wiki/entities/wuhuizhuizong/"
     },
     "WujunLiuguan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》653丨把社会主义带回古代？王莽有多神！ [lo7fQI-ZlUJpd3cYMG7UXSUjy4yK].md",
@@ -82899,6 +83095,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》653丨把社会主义带回古代？王莽有多神！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？ [lv-GTknrHlIpSmRTT3c4D7Gcr-pC].md",
+          "key": "zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc/"
         }
       ],
       "updated": "2026-09-09",
@@ -83743,9 +83946,9 @@
       "url": "/wiki/entities/xincheneasternhan/"
     },
     "XinDynasty": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 2,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -83830,6 +84033,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》641丨币制改革，如何导致王莽万劫不复？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？ [lnC6E3DGxXnrYlkFQZGl2rO9gPbJ].md",
+          "key": "zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj/"
         }
       ],
       "updated": "2026-09-09",
@@ -89137,6 +89347,38 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/zhebingshuolaihuachang/"
     },
+    "ZhenFengXinOfficial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？ [lnC6E3DGxXnrYlkFQZGl2rO9gPbJ].md",
+          "key": "zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/zhenfengxinofficial/"
+    },
+    "ZhenXunXinOfficial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？ [lnC6E3DGxXnrYlkFQZGl2rO9gPbJ].md",
+          "key": "zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/zhenxunxinofficial/"
+    },
     "ZhengBaoLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -89578,6 +89820,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/zhongchuxi/"
+    },
+    "ZhongDaiXinDefector": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？ [lhxBX6KeIbmFe8z6bcsmlPNR6ehT].md",
+          "key": "zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/zhongdaixindefector/"
     },
     "ZhongHaoLateHan": {
       "episode_count": 3,

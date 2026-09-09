@@ -1880,6 +1880,10 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | 《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？
+
+Added source note for Hanji 642. Key claims: Wang Mang's rewarded fuming politics becomes dangerous after accession; Chen Chong warns that uncontrolled fuming lets opportunists chase rank and confuse mandate language; Wang Mang restricts unauthorized fuming reports; Zhen Xun's marriage claim toward Wang Mang's daughter triggers the Zhen Feng/Zhen Xun purge; the closing fangshi and Xiongnu material keeps the episode tied to Xin omen politics and frontier overreach.
+
 ## [2026-09-09] ingest | 史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界
 
 Added source note for the 史蒂夫说 episode with 梁毅 / Liang Yi. Key claims: fatherhood can form gradually through repeated interaction; love reorganizes attention rather than merely adding time pressure; parenting benefits from inner work, nonviolent-communication style feeling exchange, and regulated entry into reality; slow growth can be witnessed in children, adults, students, athletes, and oneself.
@@ -16514,6 +16518,25 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+## [2026-09-09] ingest | 《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？
+
+Added source note for Hanji 640. Key claims: Wang Mang's seal and title downgrades turn symbolic hierarchy into Xiongnu rupture; the Wuhuan-captive dispute and Shuofang troop pressure widen the crisis; Cheshi and Western Regions actors recalculate under expected Xin extraction; Chen Liang and Zhong Dai's mutiny exposes frontier command trust breakdown; Sun Jian converts defection and false Liu-claimant panic into anti-Han symbolic purge; Ding'an Taihou refuses Wang Mang's remarriage and title-recoding pressure.
+
+## [2026-09-09] ingest | 《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？
+
+Added source note for the 10 CE Wang Mang backfill on Liu royal-kin submission, Ban Gu's Zhou-Qin-Han enfeoffment comparison, same-surname kingdom weakening, and early 五均/钱府 price-credit intervention. Updated focused concept pages for same-surname king enfeoffment, Wang Mang reforms, and 五均六管.
 
 ## [2026-09-09] lint | Wiki health check
 

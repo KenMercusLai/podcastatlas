@@ -10,6 +10,7 @@ sources:
   - zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k
   - zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv
   - zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn
+  - zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc
 last_updated: 2026-09-09
 ---
 
@@ -19,7 +20,9 @@ Wang Mang reforms / 王莽改制 is the policy program by which [[WangMang|王�
 
 ## Current Synthesis
 
-The concept now has five bounded layers. [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] defines the broad reform field: Wang fields, anti-merchant and agrarian ideals, salt/iron/wine monopolies, mountain-and-marsh taxes, five-equalization credit policy, gold conversion, and repeated currency reforms. The source's interpretation is neither that the reforms were simply evil nor that they were misunderstood modernity. They are framed as [[TuoguReformPolitics|托古改制]]: idealistic, controlling, and often disconnected from administrative capacity and economic behavior.
+The concept now has six bounded layers. [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] defines the broad reform field: Wang fields, anti-merchant and agrarian ideals, salt/iron/wine monopolies, mountain-and-marsh taxes, five-equalization credit policy, gold conversion, and repeated currency reforms. The source's interpretation is neither that the reforms were simply evil nor that they were misunderstood modernity. They are framed as [[TuoguReformPolitics|托古改制]]: idealistic, controlling, and often disconnected from administrative capacity and economic behavior.
+
+An early 五均/钱府 design layer now sits near the same 10 CE reform cluster as Hanji 641. [[zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc|Hanji 638]] presents state price grading, cost-price purchase of unsold goods, reserve release during price spikes, freer exchange when prices are low, and official lending as attempts to equalize wealth and suppress powerful accumulation. Its key contribution is an implementation warning before the later Hanji 653 capture account: if officials set prices, verify costs, buy, sell, and lend, then reform authority and market opportunity sit in the same hands.
 
 [[zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn|Hanji 641]] supplies the earlier 10 CE currency-design layer. Before Hanji 648's later reset, Wang Mang already tries to solve transaction convenience by creating gold, silver, turtle-shell, cowry, coin, and spade-money categories across twenty-eight ranks. The episode's key contribution is monetary legibility: a reform can look systematic to the court while being unusable in daily exchange when ordinary users cannot identify the units and do not trust that others will accept them.
 
@@ -37,8 +40,8 @@ Across the sources, Wang Mang's reforms are best read as a combination of moral 
 
 - The reforms tried to force social reality into a morally ordered ancient template.
 - Administrative and territorial renaming shows reform overreach before the later monetary and market-control layers.
-- Currency design complexity and later churn created uncertainty before punitive enforcement made monetary stress coercive.
-- Monopoly, tax, and [[WujunLiuguan|五均六管]] policy expanded state reach without solving state capacity, and anti-merchant rhetoric could be captured by wealthy merchants and colluding local officials.
+- Currency design complexity, later churn, and 五均/钱府 price-credit intervention created uncertainty and capture risk before punitive enforcement made monetary stress coercive.
+- Monopoly, tax, and [[WujunLiuguan|五均六管]] policy expanded state reach without solving state capacity, especially when anti-merchant rhetoric could be captured by wealthy merchants, market-operating officials, and local collusion.
 - The official salary reform shows that administrative complexity can defeat a policy even when its stated logic links officials to public hardship.
 - Policy success and policy failure could both increase pressure because the program was too encompassing.
 - The reforms connect [[IdeologicalOvercontrol|ideological overcontrol]] to concrete administrative failure: rules and names multiply faster than feedback, enforcement, and public livelihood can bear.
@@ -47,6 +50,8 @@ Across the sources, Wang Mang's reforms are best read as a combination of moral 
 
 - Broad reform inventory: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] lists Wang fields, monopolies, mountain-and-marsh taxation, credit, gold conversion, and repeated currency reforms as part of Wang Mang's program.
 - Reform interpretation: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] frames the reforms as idealistic, coercive, archaizing, and administratively unrealistic rather than as simple villainy or modern policy success.
+- Early 五均/钱府 design: [[zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc|Hanji 638]] says Wang Mang sets up officials in six cities to grade prices, purchase unsold goods at cost, sell reserves at ordinary prices when prices rise, and lend through 钱府.
+- Regulator-operator risk: [[zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc|Hanji 638]] uses the host's "both athlete and referee" warning to argue that officials can turn market-stabilization authority into extraction.
 - Multi-rank currency design: [[zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn|Hanji 641]] says Wang Mang creates six money categories and twenty-eight ranks to solve large- and small-transaction inconvenience.
 - Monetary legibility failure: [[zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn|Hanji 641]] says common users cannot distinguish the many currencies, circulation stalls, and the court narrows legal tender again.
 - Administrative renaming: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|Hanji 647]] says Wang Mang imitates classical offices, divides commanderies and counties, creates many fief categories, and repeatedly changes place names.
@@ -62,11 +67,11 @@ Across the sources, Wang Mang's reforms are best read as a combination of moral 
 
 ## Counterevidence & Qualifications
 
-The wiki does not treat every Wang Mang policy as insincere or every interventionist tool as inherently failed. The bounded claim is that these sources show reform ambitions outrunning Xin's implementation capacity, feedback systems, and social tolerance. Hanji 641 supports the monetary-complexity and forced-acceptance prelude, while Hanji 647's evaluations of name churn, Hanji 648's virtue/retribution and commoner-bankruptcy language, Hanji 650's "performance pay" framing, and Hanji 653's "socialism" framing are kept as host interpretations or modern analogies rather than precise institutional classifications; exact office equivalences, territorial counts, coin values, twenty-eight-rank mechanics, transition mechanics, salary calculations, tax rates, regional variation, and later rebel biographies remain source-scoped.
+The wiki does not treat every Wang Mang policy as insincere or every interventionist tool as inherently failed. The bounded claim is that these sources show reform ambitions outrunning Xin's implementation capacity, feedback systems, and social tolerance. Hanji 638 supports the early 五均/钱府 design and regulator-operator warning, while Hanji 641 supports the monetary-complexity and forced-acceptance prelude. Hanji 647's evaluations of name churn, Hanji 648's virtue/retribution and commoner-bankruptcy language, Hanji 650's "performance pay" framing, and Hanji 653's "socialism" framing are kept as host interpretations or modern analogies rather than precise institutional classifications; exact office equivalences, territorial counts, coin values, twenty-eight-rank mechanics, transition mechanics, salary calculations, tax rates, regional variation, and later rebel biographies remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 641 as the 10 CE multi-rank currency-design and monetary-legibility layer.
+- Added Hanji 638 as the early 五均/钱府 price-credit design layer and kept Hanji 641 as the 10 CE multi-rank currency-design and monetary-legibility layer.
 - Preserved Hanji 647 as the administrative-renaming and territorial-legibility layer.
 - Preserved Hanji 650 as the 15-16 CE official-salary reform and implementation-complexity layer.
 - Preserved Hanji 653 as the focused 17 CE 五均六管 implementation layer.

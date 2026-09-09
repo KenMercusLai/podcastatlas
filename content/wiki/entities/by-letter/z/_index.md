@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9427
+wiki_total_pages: 9434
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1064,9 +1064,15 @@ wiki_pages:
   - key: "ZhuGe"
     title: "猪哥 / 猪场严选"
     url: "/wiki/entities/zhuge/"
+  - key: "ZhenFengXinOfficial"
+    title: "甄丰 / Zhen Feng (Xin official)"
+    url: "/wiki/entities/zhenfengxinofficial/"
   - key: "ZhenQianjinTaShiXueba"
     title: "甄千金他是学霸 / Zhen Qianjin Ta Shi Xueba"
     url: "/wiki/entities/zhenqianjintashixueba/"
+  - key: "ZhenXunXinOfficial"
+    title: "甄寻 / Zhen Xun (Xin official)"
+    url: "/wiki/entities/zhenxunxinofficial/"
   - key: "Zhending"
     title: "真定 / Zhending"
     url: "/wiki/entities/zhending/"
@@ -1124,6 +1130,9 @@ wiki_pages:
   - key: "ZhiZaoLaoYe"
     title: "纸造 / 老爷"
     url: "/wiki/entities/zhizaolaoye/"
+  - key: "ZhongDaiXinDefector"
+    title: "终带 / Zhong Dai (Xin defector)"
+    url: "/wiki/entities/zhongdaixindefector/"
   - key: "ZhaiYiRebellion"
     title: "翟义起义 / Zhai Yi Rebellion"
     url: "/wiki/entities/zhaiyirebellion/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2285
+topic_total_pages: 2286
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3769,6 +3769,9 @@ topic_concepts:
   - key: "RumorDrivenFrontierIntervention"
     title: "谣言驱动的边疆干预 / Rumor-Driven Frontier Intervention"
     url: "/wiki/concepts/rumordrivenfrontierintervention/"
+  - key: "SymbolicStatusDowngradeBackfire"
+    title: "象征性名分降格反噬 / Symbolic Status Downgrade Backfire"
+    url: "/wiki/concepts/symbolicstatusdowngradebackfire/"
   - key: "FiscalExtractionRebellionSpiral"
     title: "财政压榨叛乱螺旋 / Fiscal Extraction Rebellion Spiral"
     url: "/wiki/concepts/fiscalextractionrebellionspiral/"

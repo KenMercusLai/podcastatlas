@@ -10679,6 +10679,10 @@
     "title": "陈宠 / Chen Chong (late Han)",
     "url": "/wiki/entities/chenchonglatehan/"
   },
+  "ChenChongXinOfficial": {
+    "title": "陈崇 / Chen Chong (Xin official)",
+    "url": "/wiki/entities/chenchongxinofficial/"
+  },
   "ChenCihong": {
     "title": "Chen Cihong / 陈慈黉",
     "url": "/wiki/entities/chencihong/"
@@ -10782,6 +10786,10 @@
   "ChenKaige": {
     "title": "陈凯歌 / Chen Kaige",
     "url": "/wiki/entities/chenkaige/"
+  },
+  "ChenLiangXinDefector": {
+    "title": "陈良 / Chen Liang (Xin defector)",
+    "url": "/wiki/entities/chenliangxindefector/"
   },
   "ChenLiao": {
     "title": "陈聊 / Chen Liao",
@@ -11046,6 +11054,10 @@
   "CheshiHouKingdomLateHan": {
     "title": "车师后王国 / Later Cheshi Kingdom (late Han)",
     "url": "/wiki/entities/cheshihoukingdomlatehan/"
+  },
+  "CheshiHouKingdomXin": {
+    "title": "车师后王国 / Later Cheshi Kingdom (Xin)",
+    "url": "/wiki/entities/cheshihoukingdomxin/"
   },
   "CheshireCat": {
     "title": "Cheshire Cat / 柴郡猫",
@@ -22242,6 +22254,10 @@
   "FullgoalFund": {
     "title": "富国基金 / Fullgoal Fund",
     "url": "/wiki/entities/fullgoalfund/"
+  },
+  "FumingMonopolyBackfire": {
+    "title": "符命垄断反噬 / Fuming Monopoly Backfire",
+    "url": "/wiki/concepts/fumingmonopolybackfire/"
   },
   "FunctionalAlibi": {
     "title": "Functional Alibi",
@@ -54495,6 +54511,10 @@
     "title": "孙坚 / Sun Jian (late Han)",
     "url": "/wiki/entities/sunjianlatehan/"
   },
+  "SunJianXinGeneral": {
+    "title": "孙建 / Sun Jian (Xin general)",
+    "url": "/wiki/entities/sunjianxingeneral/"
+  },
   "SunJingLateHan": {
     "title": "孙静 / Sun Jing (late Han)",
     "url": "/wiki/entities/sunjinglatehan/"
@@ -54874,6 +54894,10 @@
   "SymbolicReconciliationStatecraft": {
     "title": "Symbolic Reconciliation Statecraft",
     "url": "/wiki/concepts/symbolicreconciliationstatecraft/"
+  },
+  "SymbolicStatusDowngradeBackfire": {
+    "title": "象征性名分降格反噬 / Symbolic Status Downgrade Backfire",
+    "url": "/wiki/concepts/symbolicstatusdowngradebackfire/"
   },
   "SymmetricInterstateCredibility": {
     "title": "Symmetric Interstate Credibility / 对称外交信用",
@@ -65403,9 +65427,17 @@
     "title": "Zhejiang University / 浙江大学",
     "url": "/wiki/entities/zhejianguniversity/"
   },
+  "ZhenFengXinOfficial": {
+    "title": "甄丰 / Zhen Feng (Xin official)",
+    "url": "/wiki/entities/zhenfengxinofficial/"
+  },
   "ZhenQianjinTaShiXueba": {
     "title": "甄千金他是学霸 / Zhen Qianjin Ta Shi Xueba",
     "url": "/wiki/entities/zhenqianjintashixueba/"
+  },
+  "ZhenXunXinOfficial": {
+    "title": "甄寻 / Zhen Xun (Xin official)",
+    "url": "/wiki/entities/zhenxunxinofficial/"
   },
   "Zhending": {
     "title": "真定 / Zhending",
@@ -65606,6 +65638,10 @@
   "ZhongChuxi": {
     "title": "钟楚曦 / Zhong Chuxi",
     "url": "/wiki/entities/zhongchuxi/"
+  },
+  "ZhongDaiXinDefector": {
+    "title": "终带 / Zhong Dai (Xin defector)",
+    "url": "/wiki/entities/zhongdaixindefector/"
   },
   "ZhongHaoLateHan": {
     "title": "种暠 / Zhong Hao (late Han)",
@@ -70899,9 +70935,21 @@
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
   },
+  "zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc": {
+    "title": "《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc/"
+  },
+  "zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht": {
+    "title": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht/"
+  },
   "zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn": {
     "title": "《资治通鉴·汉纪》641丨币制改革，如何导致王莽万劫不复？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn/"
+  },
+  "zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj": {
+    "title": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj/"
   },
   "zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5": {
     "title": "《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？",

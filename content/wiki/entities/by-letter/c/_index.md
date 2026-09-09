@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9427
+wiki_total_pages: 9434
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1727,6 +1727,9 @@ wiki_pages:
   - key: "CheshiHouKingdomLateHan"
     title: "车师后王国 / Later Cheshi Kingdom (late Han)"
     url: "/wiki/entities/cheshihoukingdomlatehan/"
+  - key: "CheshiHouKingdomXin"
+    title: "车师后王国 / Later Cheshi Kingdom (Xin)"
+    url: "/wiki/entities/cheshihoukingdomxin/"
   - key: "CheNiuChanyu"
     title: "车纽 / Che Niu Chanyu"
     url: "/wiki/entities/cheniuchanyu/"
@@ -1829,6 +1832,9 @@ wiki_pages:
   - key: "ChenShouTaishiLingLateHan"
     title: "陈寿 / Chen Shou (Taishi ling, late Han)"
     url: "/wiki/entities/chenshoutaishilinglatehan/"
+  - key: "ChenChongXinOfficial"
+    title: "陈崇 / Chen Chong (Xin official)"
+    url: "/wiki/entities/chenchongxinofficial/"
   - key: "ChenPing"
     title: "陈平 / Chen Ping"
     url: "/wiki/entities/chenping/"
@@ -1913,6 +1919,9 @@ wiki_pages:
   - key: "ChenSheng"
     title: "陈胜 / Chen Sheng"
     url: "/wiki/entities/chensheng/"
+  - key: "ChenLiangXinDefector"
+    title: "陈良 / Chen Liang (Xin defector)"
+    url: "/wiki/entities/chenliangxindefector/"
   - key: "ChenFanLateHan"
     title: "陈蕃 / Chen Fan (late Han)"
     url: "/wiki/entities/chenfanlatehan/"

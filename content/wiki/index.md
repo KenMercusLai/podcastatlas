@@ -6,7 +6,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？](sources/zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc.md) — 10 CE Wang Mang backfill on weakened Liu royal kin, Ban Gu's Zhou-Qin-Han enfeoffment comparison, same-surname kingdom decline, Liu royal submission, and early 五均/钱府 price-credit intervention risk.
+- [《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？](sources/zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht.md) — 10 CE Wang Mang backfill on Xiongnu seal and title downgrades, rewarded old-seal destruction, Wuhuan-captive pressure, Cheshi flight, Western Regions mutiny, Sun Jian's anti-Han purge proposal, and Ding'an Taihou's refusal.
 - [《资治通鉴·汉纪》641丨币制改革，如何导致王莽万劫不复？](sources/zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn.md) — 10 CE Wang Mang backfill on anti-Xiongnu war finance, six-name twenty-eight-rank currency complexity, popular distrust of new money, coercive enforcement, and fuming/omen imitation.
+- [《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？](sources/zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj.md) — 10 CE Wang Mang backfill on rewarded fuming imitation, Chen Chong's warning, Wang Mang's fuming restrictions, the Zhen Feng/Zhen Xun affair, purge expansion, fangshi spectacle, and anti-Xiongnu ambition.
 - [《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？](sources/zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5.md) — 11 CE Wang Mang backfill on coercive Xiongnu titulature, Yan You's Zhou-Han-Qin frontier strategy ranking, Han Wudi war-cost critique, Qin wall overburden, and steppe-expedition logistics.
 - [《资治通鉴·汉纪》644丨谁敢和皇帝使者讨价还价？](sources/zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn.md) — 11 CE Wang Mang backfill on frontier and interior extraction, northern-border collapse, Gong Sheng's fatal refusal of Xin office, Xue Fang's allusive reclusion, and Guo Qin/Jiang Xu's illness-based withdrawal.
 - [《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？](sources/zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy.md) — 12 CE Wang Mang backfill on Chen Xian's principled withdrawal, Han institutional-memory concealment, Yellow River non-repair, Xiongnu hostage rupture, empty noble-title inflation, and coercive frontier escalation.
@@ -2068,6 +2071,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [车师后王国 / Later Cheshi Kingdom (Xin)](entities/CheshiHouKingdomXin.md) — Xin-era Western Regions polity destabilized by Wang Mang's anti-Xiongnu mobilization, Xuzhili's failed flight, and Hulan Zhi's Xiongnu-backed attack branch.
+- [陈良 / Chen Liang (Xin defector)](entities/ChenLiangXinDefector.md) — Xin Western Regions defector who joins Zhong Dai in killing Diao Hu and fleeing to Xiongnu during the 10 CE frontier crisis.
+- [孙建 / Sun Jian (Xin general)](entities/SunJianXinGeneral.md) — Xin general whose memorial turns frontier defection and a false Liu claimant into a proposal to abolish Han temples and suspend Liu-surname officials.
+- [终带 / Zhong Dai (Xin defector)](entities/ZhongDaiXinDefector.md) — Xin Western Regions defector paired with Chen Liang in the Diao Hu mutiny and Xiongnu flight.
 - [陈贤 / Chen Xian (Xin-era official)](entities/ChenXianXinOfficial.md) — Former Han legal specialist who withdraws from Wang Mang's court while preserving Han ritual timing and legal texts.
 - [龚胜 / Gong Sheng (Xin-era scholar)](entities/GongShengXinScholar.md) — Former Han scholar whose ritual-respectful but fatal refusal exposes the limits of Wang Mang's prestigious summons.
 - [郭钦 / Guo Qin (Xin-era official)](entities/GuoQinXinOfficial.md) — Former Nan commandery governor who leaves Xin service through illness-based withdrawal and lifelong seclusion.
@@ -2079,7 +2086,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Huangdi Neijing / 《黄帝内经》](entities/HuangdiNeijing.md) — classical Chinese medical text used in Hanji 651 as anatomy-history background before Wang Mang's punitive dissection branch.
 - [王孙卿 / Wang Sunqing (Xin rebel)](entities/WangSunqingXinRebel.md) — Captured Zhai Yi rebellion leader whose punitive dissection grounds Hanji 652's medicalized political-terror case.
 - [翟义起义 / Zhai Yi Rebellion](entities/ZhaiYiRebellion.md) — Major anti-Wang-Mang uprising that explains Wang Sunqing's long fugitive status and later punishment.
-- [王骏 / Wang Jun (Xin general)](entities/WangJunXinGeneral.md) — Xin Western Regions commander killed after Yanqi feigns submission and ambushes his expedition.
+- [王骏 / Wang Jun (Xin general)](entities/WangJunXinGeneral.md) — Xin frontier official whose profile now spans Xiongnu seal-downgrade diplomacy and the later Western Regions expedition killed by Yanqi ambush.
 - [李崇 / Li Chong (Xin Western Regions protector)](entities/LiChongXinProtector.md) — Xin protector who gathers remnants at Qiuci after Wang Jun's failed Western Regions mission.
 - [郭清 / Guo Qing (Xin general)](entities/GuoQingXinGeneral.md) — Xin officer rewarded after retaliatory killing of Yanqi old and weak civilians.
 - [焉耆国 / Yanqi Kingdom (Xin period)](entities/YanqiKingdomXin.md) — Western Regions polity that ambushes Wang Jun and then suffers Guo Qing's retaliation in Hanji 652.
@@ -8219,6 +8226,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [闻一多 / Wen Yiduo](entities/WenYiduo.md) — Scholar whose dragon-totem argument gives episode 127 a key case of nationalist scholarship under modern pressure.
 - [《龙的传人》 / Descendants of the Dragon](entities/DescendantsOfTheDragon.md) — Popular song and phrase that helped fix "dragon = China" and "Chinese people = dragon descendants" as ordinary identity language.
 - [Wang Mang / 王莽](entities/WangMang.md) — Xin founder whose rise through sacred legitimacy, moral reputation, omen politics, and reform overcontrol collapses through rumor suppression, scapegoating, bureaucratic paralysis, spectacle, extraction, frontier overreach, ignored warnings, Kunyang, and Jian Terrace killing.
+- [陈崇 / Chen Chong (Xin official)](entities/ChenChongXinOfficial.md) — Xin official whose Hanji 642 memorial warns that uncontrolled fuming reports let opportunists seek rank and confuse mandate language.
+- [甄丰 / Zhen Feng (Xin official)](entities/ZhenFengXinOfficial.md) — Early Wang Mang ally whose household is caught in the Hanji 642 fuming backfire and Zhen Xun purge.
+- [甄寻 / Zhen Xun (Xin official)](entities/ZhenXunXinOfficial.md) — Xin fuming user whose marriage claim toward Wang Mang's daughter triggers arrest, flight, confession, and purge.
 - [王皇后（汉平帝皇后） / Empress Wang of Han Pingdi](entities/EmpressWangPingdi.md) — Wang Mang's daughter and former Han Pingdi empress whose self-immolation during the Weiyang Palace fire marks Xin's dynastic identity rupture.
 - [《祥瑞》](entities/XiangruiBook.md) — Zhang Xiangrong book used by episode 126 to reread Wang Mang through Heaven, omens, Confucian ideals, and late Western Han politics.
 - [Zhang Xiangrong / 张向荣](entities/ZhangXiangrong.md) — Author of 《祥瑞》, the book grounding episode 126's reconstruction of Wang Mang and Han legitimacy.
@@ -11499,6 +11509,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [象征性名分降格反噬 / Symbolic Status Downgrade Backfire](concepts/SymbolicStatusDowngradeBackfire.md) — Failure pattern where seal, title, or name downgrades meant to impose hierarchy provoke resistance from a counterpart that still has frontier leverage.
 - [新朝汉臣拒仕谱系 / Xin Loyalist Refusal Spectrum](concepts/XinLoyalistRefusalSpectrum.md) — Hanji 644 pattern grouping fatal refusal, allusive reclusion, illness withdrawal, gift refusal, and serving-scholar qualification under Wang Mang's Xin.
 - [Frontier Strategy Cost Typology](concepts/FrontierStrategyCostTypology.md) — Yan You's Zhou-Han-Qin framework for judging frontier policy by objective, cost, duration, and state capacity.
 - [Steppe Expedition Logistics](concepts/SteppeExpeditionLogistics.md) — campaign-capacity frame for food, fodder, climate, disease, transport animals, tempo, and terrain in large anti-Xiongnu expeditions.
@@ -15842,6 +15853,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dynastic Legitimacy Backfire / 王朝合法性回旋镖](concepts/DynasticLegitimacyBackfire.md) — Episode 126's mechanism where a dynasty's own sacred legitimacy logic turns into a tool for replacement.
 - [Chenwei Politics / 谶纬政治](concepts/ChenweiPolitics.md) — Prophetic and apocryphal interpretation used as political evidence in Wang Mang, Liu Xiu's fengshan, Yuan Shu, Dong Zhuo, and other sign-politics cases.
 - [Auspicious Omen Politics / 祥瑞政治](concepts/AuspiciousOmenPolitics.md) — Political use of favorable signs, portents, artifacts, and omen reports to authorize office, purge, ritual, frontier action, memory, or dynastic legitimacy.
+- [符命垄断反噬 / Fuming Monopoly Backfire](concepts/FumingMonopolyBackfire.md) — Xin-dynasty pattern where Wang Mang's rewarded mandate-sign machinery becomes a threat once imitators keep using it after accession.
 - [Moral Reputation as Political Capital / 道德名望政治资本](concepts/MoralReputationPoliticalCapital.md) — Pattern where visible virtue, public sympathy, self-restraint, or filial image become usable power or remembered legitimacy.
 - [Confucian Ideal Governance / 儒家理想治理](concepts/ConfucianIdealGovernance.md) — Episode 126's frame for moralized rule through ritual, hierarchy, ancient models, and scholar support.
 - [Tuogu Reform Politics / 托古改制政治](concepts/TuoguReformPolitics.md) — Reform justified by ancient models, making Wang Mang's changes radical in effect but conservative in authority language.

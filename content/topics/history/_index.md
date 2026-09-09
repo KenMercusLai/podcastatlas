@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1626
+topic_total_pages: 1630
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1435,6 +1435,9 @@ topic_concepts:
   - key: "TangmuYi"
     title: "汤沐邑 / Tangmu Yi"
     url: "/wiki/concepts/tangmuyi/"
+  - key: "FumingMonopolyBackfire"
+    title: "符命垄断反噬 / Fuming Monopoly Backfire"
+    url: "/wiki/concepts/fumingmonopolybackfire/"
   - key: "ZonghengjiaDiplomacy"
     title: "纵横家外交 / Zonghengjia Diplomacy"
     url: "/wiki/concepts/zonghengjiadiplomacy/"
@@ -3062,6 +3065,12 @@ topic_entities:
   - key: "BanZhaoLateHan"
     title: "班昭 / Ban Zhao (late Han)"
     url: "/wiki/entities/banzhaolatehan/"
+  - key: "ZhenFengXinOfficial"
+    title: "甄丰 / Zhen Feng (Xin official)"
+    url: "/wiki/entities/zhenfengxinofficial/"
+  - key: "ZhenXunXinOfficial"
+    title: "甄寻 / Zhen Xun (Xin official)"
+    url: "/wiki/entities/zhenxunxinofficial/"
   - key: "GanGong"
     title: "甘公 / Gan Gong"
     url: "/wiki/entities/gangong/"
@@ -3578,6 +3587,9 @@ topic_entities:
   - key: "ChenCountyChuHan"
     title: "陈县 / Chen County (Chu-Han)"
     url: "/wiki/entities/chencountychuhan/"
+  - key: "ChenChongXinOfficial"
+    title: "陈崇 / Chen Chong (Xin official)"
+    url: "/wiki/entities/chenchongxinofficial/"
   - key: "ChenPing"
     title: "陈平 / Chen Ping"
     url: "/wiki/entities/chenping/"
