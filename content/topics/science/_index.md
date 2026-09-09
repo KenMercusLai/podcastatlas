@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 966
+topic_total_pages: 970
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -250,6 +250,9 @@ topic_concepts:
   - key: "CircadianRhythmExperimentation"
     title: "Circadian Rhythm Experimentation"
     url: "/wiki/concepts/circadianrhythmexperimentation/"
+  - key: "CircuitBasedPsychiatry"
+    title: "Circuit-Based Psychiatry"
+    url: "/wiki/concepts/circuitbasedpsychiatry/"
   - key: "CitizenScience"
     title: "Citizen Science"
     url: "/wiki/concepts/citizenscience/"
@@ -1603,6 +1606,9 @@ topic_concepts:
   - key: "TrainedIntuition"
     title: "Trained Intuition"
     url: "/wiki/concepts/trainedintuition/"
+  - key: "TranscranialMagneticStimulationForDepression"
+    title: "Transcranial Magnetic Stimulation for Depression"
+    url: "/wiki/concepts/transcranialmagneticstimulationfordepression/"
   - key: "TrashCanCorpusScientificAI"
     title: "Trash Can Corpus Scientific AI"
     url: "/wiki/concepts/trashcancorpusscientificai/"
@@ -2141,6 +2147,9 @@ topic_entities:
   - key: "NinaMiolane"
     title: "Nina Miolane"
     url: "/wiki/entities/ninamiolane/"
+  - key: "NolanWilliams"
+    title: "Nolan Williams"
+    url: "/wiki/entities/nolanwilliams/"
   - key: "OliverMorton"
     title: "Oliver Morton"
     url: "/wiki/entities/olivermorton/"
@@ -2754,6 +2763,9 @@ topic_sources:
   - key: "essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831"
     title: "Essentials: Improve Flexibility with Research-Supported Stretching Protocols"
     url: "/wiki/sources/essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831/"
+  - key: "essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263"
+    title: "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams"
+    url: "/wiki/sources/essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263/"
   - key: "essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468"
     title: "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing"
     url: "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"

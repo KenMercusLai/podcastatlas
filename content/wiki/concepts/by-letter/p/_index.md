@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6829
+wiki_total_pages: 6834
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1526,6 +1526,9 @@ wiki_pages:
   - key: "PsychedelicChurches"
     title: "Psychedelic Churches"
     url: "/wiki/concepts/psychedelicchurches/"
+  - key: "PsychedelicClinicalSupervisionBoundary"
+    title: "Psychedelic Clinical Supervision Boundary"
+    url: "/wiki/concepts/psychedelicclinicalsupervisionboundary/"
   - key: "PsychedelicIdentityDisruption"
     title: "Psychedelic Identity Disruption"
     url: "/wiki/concepts/psychedelicidentitydisruption/"

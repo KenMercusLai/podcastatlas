@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6829
+wiki_total_pages: 6834
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1262,6 +1262,9 @@ wiki_pages:
   - key: "StandardsBasedInnovation"
     title: "Standards-Based Innovation"
     url: "/wiki/concepts/standardsbasedinnovation/"
+  - key: "StanfordNeuromodulationTherapy"
+    title: "Stanford Neuromodulation Therapy"
+    url: "/wiki/concepts/stanfordneuromodulationtherapy/"
   - key: "StanfordStartupSourcing"
     title: "Stanford Startup Sourcing"
     url: "/wiki/concepts/stanfordstartupsourcing/"

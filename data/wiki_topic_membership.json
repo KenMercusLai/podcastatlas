@@ -14957,6 +14957,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CircuitBasedPsychiatry": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Cisco": [
     {
       "key": "technology",
@@ -45495,6 +45502,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "NolanWilliams": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "NominalAuthorityMobilizationTrap": [
     {
       "key": "history",
@@ -64978,6 +64992,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "TranscranialMagneticStimulationForDepression": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "TransformationAsExit": [
     {
       "key": "culture",
@@ -75466,6 +75487,13 @@
     }
   ],
   "essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263": [
     {
       "key": "science",
       "label": "Science",

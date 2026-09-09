@@ -13908,6 +13908,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/circe/"
     },
+    "CircuitBasedPsychiatry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5296180263 [SCIM5296180263].md",
+          "key": "essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263",
+          "show": "Huberman Lab",
+          "title": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
+          "url": "/wiki/sources/essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/circuitbasedpsychiatry/"
+    },
     "Citgo": {
       "episode_count": 2,
       "show_count": 1,
@@ -51688,6 +51704,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/memorydeletionethics/"
     },
+    "MemoryReconsolidationPsychiatry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5296180263 [SCIM5296180263].md",
+          "key": "essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263",
+          "show": "Huberman Lab",
+          "title": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
+          "url": "/wiki/sources/essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/memoryreconsolidationpsychiatry/"
+    },
     "Memphis": {
       "episode_count": 1,
       "show_count": 1,
@@ -55396,6 +55428,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/nolanrealityspectacle/"
+    },
+    "NolanWilliams": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5296180263 [SCIM5296180263].md",
+          "key": "essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263",
+          "show": "Huberman Lab",
+          "title": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
+          "url": "/wiki/sources/essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/nolanwilliams/"
     },
     "NomadicCavalryRaidingAsymmetry": {
       "episode_count": 6,
@@ -62173,6 +62221,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/pseudoindependentwomennarrative/"
     },
+    "PsychedelicClinicalSupervisionBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5296180263 [SCIM5296180263].md",
+          "key": "essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263",
+          "show": "Huberman Lab",
+          "title": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
+          "url": "/wiki/sources/essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/psychedelicclinicalsupervisionboundary/"
+    },
     "PsychedelicOrdinaryFreedom": {
       "episode_count": 1,
       "show_count": 1,
@@ -62213,9 +62277,9 @@
       "url": "/wiki/concepts/psychiatricfunctionaldiagnosis/"
     },
     "PsychiatricMedicationSupervisionBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -62237,9 +62301,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
           "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+        },
+        {
+          "episode_file": "SCIM5296180263 [SCIM5296180263].md",
+          "key": "essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263",
+          "show": "Huberman Lab",
+          "title": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
+          "url": "/wiki/sources/essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-09",
       "url": "/wiki/concepts/psychiatricmedicationsupervisionboundary/"
     },
     "PsychiatricProfessionalBoundary": {
@@ -71791,6 +71862,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/stanfordinstituteforhumancenteredai/"
     },
+    "StanfordNeuromodulationTherapy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5296180263 [SCIM5296180263].md",
+          "key": "essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263",
+          "show": "Huberman Lab",
+          "title": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
+          "url": "/wiki/sources/essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/stanfordneuromodulationtherapy/"
+    },
     "StanleyDruckenmiller": {
       "episode_count": 3,
       "show_count": 3,
@@ -77456,6 +77543,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/transatlanticburdenshifting/"
+    },
+    "TranscranialMagneticStimulationForDepression": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5296180263 [SCIM5296180263].md",
+          "key": "essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263",
+          "show": "Huberman Lab",
+          "title": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
+          "url": "/wiki/sources/essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/transcranialmagneticstimulationfordepression/"
     },
     "TransitHubCommanderyControl": {
       "episode_count": 1,
