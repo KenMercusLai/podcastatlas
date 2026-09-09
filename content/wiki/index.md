@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》636丨王莽当皇帝后，“神经错乱”了？](sources/zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby.md) — 9 CE Wang Mang backfill on five-surname imperial kinship, ancestral legitimacy, Liu royal appeasement, anti-Liu symbol and coin bans, Liu Kuai's failed rising, and Liu Yin's compliant survival.
 - [AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29](sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad.md) — What's Next episode with Song Le on AI for Science, research agents, domain models, GenBio AI, virtual cells, biological data quality, active learning, and the boundary around creative scientific discovery.
 - [Chainsaw sputtering: Milei's experiment falters](sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b.md) — The Intelligence episode on Javier Milei's Argentina stabilization tradeoff, Saudi sports-investment limits, and India's elephant-corridor conservation problem.
 - [676. The First World War: Churchill's Calamity (Part 6)](sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911.md) — The Rest Is History episode on Gallipoli after the failed 1915 landings, covering Churchill's Dardanelles strategy, trench stalemate, disease, Westminster crisis, Suvla Bay, evacuation, Mustafa Kemal, and Anzac memory.
@@ -8249,6 +8250,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [闻一多 / Wen Yiduo](entities/WenYiduo.md) — Scholar whose dragon-totem argument gives episode 127 a key case of nationalist scholarship under modern pressure.
 - [《龙的传人》 / Descendants of the Dragon](entities/DescendantsOfTheDragon.md) — Popular song and phrase that helped fix "dragon = China" and "Chinese people = dragon descendants" as ordinary identity language.
 - [Wang Mang / 王莽](entities/WangMang.md) — Xin founder whose rise through sacred legitimacy, moral reputation, omen politics, and reform overcontrol collapses through rumor suppression, scapegoating, bureaucratic paralysis, spectacle, extraction, frontier overreach, ignored warnings, Kunyang, and Jian Terrace killing.
+- [刘快 / Liu Kuai (Xin rebel)](entities/LiuKuaiXinRebel.md) — Liu-line Quxiang marquis whose failed 9 CE rising against Wang Mang tests early Xin local control.
+- [刘音 / Liu Yin (Fuchong Duke)](entities/LiuYinFuchongDuke.md) — Former Jiaodong king and Fuchong Duke whose refusal to join Liu Kuai shows compliant Liu-kin survival under early Xin.
 - [陈崇 / Chen Chong (Xin official)](entities/ChenChongXinOfficial.md) — Xin official whose Hanji 642 memorial warns that uncontrolled fuming reports let opportunists seek rank and confuse mandate language.
 - [甄丰 / Zhen Feng (Xin official)](entities/ZhenFengXinOfficial.md) — Early Wang Mang ally whose household is caught in the Hanji 642 fuming backfire and Zhen Xun purge.
 - [甄寻 / Zhen Xun (Xin official)](entities/ZhenXunXinOfficial.md) — Xin fuming user whose marriage claim toward Wang Mang's daughter triggers arrest, flight, confession, and purge.
@@ -15903,6 +15906,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dynastic Legitimacy Backfire / 王朝合法性回旋镖](concepts/DynasticLegitimacyBackfire.md) — Episode 126's mechanism where a dynasty's own sacred legitimacy logic turns into a tool for replacement.
 - [Chenwei Politics / 谶纬政治](concepts/ChenweiPolitics.md) — Prophetic and apocryphal interpretation used as political evidence in Wang Mang, Liu Xiu's fengshan, Yuan Shu, Dong Zhuo, and other sign-politics cases.
 - [Auspicious Omen Politics / 祥瑞政治](concepts/AuspiciousOmenPolitics.md) — Political use of favorable signs, portents, artifacts, and omen reports to authorize office, purge, ritual, frontier action, memory, or dynastic legitimacy.
+- [篡位后合法性整合 / Post-Usurpation Legitimacy Consolidation](concepts/PostUsurpationLegitimacyConsolidation.md) — Pattern where a new ruler uses genealogy, ritual, privilege, old-elite appeasement, symbol control, and selective coercion to turn usurpation into practical order.
 - [符命垄断反噬 / Fuming Monopoly Backfire](concepts/FumingMonopolyBackfire.md) — Xin-dynasty pattern where Wang Mang's rewarded mandate-sign machinery becomes a threat once imitators keep using it after accession.
 - [Moral Reputation as Political Capital / 道德名望政治资本](concepts/MoralReputationPoliticalCapital.md) — Pattern where visible virtue, public sympathy, self-restraint, or filial image become usable power or remembered legitimacy.
 - [Confucian Ideal Governance / 儒家理想治理](concepts/ConfucianIdealGovernance.md) — Episode 126's frame for moralized rule through ritual, hierarchy, ancient models, and scholar support.

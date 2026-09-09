@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9450
+wiki_total_pages: 9452
 wiki_pages:
   - key: "LOreal"
     title: "L'Oreal"
@@ -971,6 +971,9 @@ wiki_pages:
   - key: "LiuXunYizhouHeirLateHan"
     title: "刘循 / Liu Xun (Yizhou heir)"
     url: "/wiki/entities/liuxunyizhouheirlatehan/"
+  - key: "LiuKuaiXinRebel"
+    title: "刘快 / Liu Kuai (Xin rebel)"
+    url: "/wiki/entities/liukuaixinrebel/"
   - key: "LiuHeng"
     title: "刘恒 / Emperor Wen of Han"
     url: "/wiki/entities/liuheng/"
@@ -1112,6 +1115,9 @@ wiki_pages:
   - key: "LiuTaoLateHan"
     title: "刘陶 / 刘桃 (late Han)"
     url: "/wiki/entities/liutaolatehan/"
+  - key: "LiuYinFuchongDuke"
+    title: "刘音 / Liu Yin (Fuchong Duke)"
+    url: "/wiki/entities/liuyinfuchongduke/"
   - key: "LiuFei"
     title: "刘飞"
     url: "/wiki/entities/liufei/"

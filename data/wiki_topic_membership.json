@@ -38994,6 +38994,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "LiuKuaiXinRebel": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "LiuMingyu": [
     {
       "key": "technology",
@@ -39032,6 +39039,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "LiuYinFuchongDuke": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "LiuYing": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6853
+wiki_total_pages: 6854
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1847,6 +1847,9 @@ wiki_pages:
   - key: "PrivateFavorAppointmentErosion"
     title: "私恩任官侵蚀 / Private-Favor Appointment Erosion"
     url: "/wiki/concepts/privatefavorappointmenterosion/"
+  - key: "PostUsurpationLegitimacyConsolidation"
+    title: "篡位后合法性整合 / Post-Usurpation Legitimacy Consolidation"
+    url: "/wiki/concepts/postusurpationlegitimacyconsolidation/"
   - key: "PostVictoryAmnestySignal"
     title: "胜后既往不咎信号 / Post-Victory Amnesty Signal"
     url: "/wiki/concepts/postvictoryamnestysignal/"

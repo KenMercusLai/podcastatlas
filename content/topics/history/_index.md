@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1632
+topic_total_pages: 1634
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2237,12 +2237,18 @@ topic_entities:
   - key: "LiuXiang"
     title: "刘向 / Liu Xiang"
     url: "/wiki/entities/liuxiang/"
+  - key: "LiuKuaiXinRebel"
+    title: "刘快 / Liu Kuai (Xin rebel)"
+    url: "/wiki/entities/liukuaixinrebel/"
   - key: "LiuYing"
     title: "刘盈 / Liu Ying"
     url: "/wiki/entities/liuying/"
   - key: "LiuJia"
     title: "刘贾 / Liu Jia"
     url: "/wiki/entities/liujia/"
+  - key: "LiuYinFuchongDuke"
+    title: "刘音 / Liu Yin (Fuchong Duke)"
+    url: "/wiki/entities/liuyinfuchongduke/"
   - key: "LiJiChuHan"
     title: "利几 / Li Ji (Chu-Han)"
     url: "/wiki/entities/lijichuhan/"
