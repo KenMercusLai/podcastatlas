@@ -16260,6 +16260,10 @@ Ingested the 2026-06-06 芮淇讲透资治通鉴 episode on Wang Mang's punitive
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-09] ingest | The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel
+
+Added source note for the All-In liquidity panel. Key claims: IPOs add cash, credibility, liquidity, accountability, and new constituents without solving execution; Cerebras turns AI silicon into a latency and architecture differentiation case; Planet Labs turns daily satellite imaging into an AI-ready real-world data layer; post-IPO selling should be a discipline question rather than an automatic exit; and orbital data centers remain a launch-cost and engineering-timing scenario rather than a proven inevitability.
+
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》648丨为什么我劝你必须积德？
 
 Ingested the 2026-06-06 芮淇讲透资治通鉴 episode on Tianfeng 1 / 14 CE Wang Mang: virtue/retribution framing, frontier famine and retrenchment, Han Wei's anti-Xiongnu bravado, Xiongnu revenge raids after Luanti Deng's execution, Yizhou revolt and requisitioned pacification, and another currency reset. Added source `zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k`; updated `WangMangReforms`, `PunitiveCurrencyEnforcementBackfire`, `overview`, and `index`. No settled contradiction found; minor frontier actors, Yizhou groups, exact coin values, and virtue/retribution causality remain source-scoped.
@@ -16450,6 +16454,10 @@ Added source note for Hanji 651. Key claims: Hetu-Luoshu and "earth suppresses w
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》649丨官场里的人情世故有多现实？
 
 Added source note for Hanji 649. Key claims: the yellow-dragon rumor is read as a legitimacy threat to Wang Mang; Chen Qing is killed as a diplomatic scapegoat before the Xiongnu corpse-return mission; ritual and classical ordering consume administrative attention; local vacancies, intrusive inspection, tax pressure, bribery, and official risk avoidance expose early late-Xin office paralysis.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 

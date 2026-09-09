@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel](sources/all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065.md) — All-In liquidity panel on Cerebras and Planet Labs as IPO-return cases, covering public-company credibility, post-IPO hold discipline, AI silicon, daily Earth observation, and orbital data-center economics.
 - [《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？](sources/zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9.md) — 16 CE Wang Mang backfill on Hetu-Luoshu omen interpretation, anti-Xiongnu confidence, southwest campaign overextension, civilian extraction, Feng Ying's stop-war remonstrance, and anatomy setup before Hanji 652.
 - [《资治通鉴·汉纪》648丨为什么我劝你必须积德？](sources/zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k.md) — 14 CE Wang Mang backfill on virtue/retribution framing, frontier famine and retrenchment, Han Wei's anti-Xiongnu bravado, renewed Xiongnu raids, Yizhou revolt, requisitioned pacification, and another currency reset that harms commoners.
 - [《资治通鉴·汉纪》649丨官场里的人情世故有多现实？](sources/zizhi-tongjian-hanji-649-guanchang-li-de-renqing-shigu-you-duo-xianshi-ljcwds5n-xdxjo-ewt2arrgf9ib.md) — 15 CE Wang Mang backfill on the yellow-dragon rumor, Chen Qing's diplomatic scapegoating before the Xiongnu mission, ritual overwork, local vacancies, inspection pressure, bribery, and official risk avoidance.
@@ -2060,6 +2061,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Planet Labs](entities/PlanetLabs.md) — Public Earth-observation company used by All-In to connect daily satellite imaging, customer credibility, government demand, and AI over real-world data.
+- [Will Marshall](entities/WillMarshall.md) — Planet Labs co-founder explaining public-market credibility, satellite miniaturization, daily Earth imaging, and orbital data-center economics in the All-In liquidity panel.
 - [Huangdi Neijing / 《黄帝内经》](entities/HuangdiNeijing.md) — classical Chinese medical text used in Hanji 651 as anatomy-history background before Wang Mang's punitive dissection branch.
 - [王孙卿 / Wang Sunqing (Xin rebel)](entities/WangSunqingXinRebel.md) — Captured Zhai Yi rebellion leader whose punitive dissection grounds Hanji 652's medicalized political-terror case.
 - [翟义起义 / Zhai Yi Rebellion](entities/ZhaiYiRebellion.md) — Major anti-Wang-Mang uprising that explains Wang Sunqing's long fugitive status and later punishment.
@@ -11482,6 +11485,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Earth Observation AI](concepts/EarthObservationAI.md) — AI application layer that uses satellite imagery and geospatial time series to reason about physical-world conditions.
 - [Hetu-Luoshu / 河图洛书](concepts/HetuLuoshu.md) — mythic-cosmological sign complex used in Hanji 651 to turn river change into an anti-Xiongnu omen.
 - [惩罚性解剖政治恐怖 / Punitive Anatomy as Political Terror](concepts/PunitiveAnatomyPoliticalTerror.md) — Political-violence pattern where anatomical or medical language is fused with enemy punishment and intimidation.
 - [危机优先级错置 / Crisis Priority Misalignment](concepts/CrisisPriorityMisalignment.md) — Governance failure where a ruler funds and pursues the wrong crisis sequence while the nearer regime-breaking danger worsens.

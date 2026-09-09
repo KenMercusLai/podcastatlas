@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6812
+wiki_total_pages: 6813
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "EarthEnergyImbalance"
     title: "Earth Energy Imbalance"
     url: "/wiki/concepts/earthenergyimbalance/"
+  - key: "EarthObservationAI"
+    title: "Earth Observation AI"
+    url: "/wiki/concepts/earthobservationai/"
   - key: "EastAsianEducationCostPressure"
     title: "East Asian Education Cost Pressure / 东亚教育成本压力"
     url: "/wiki/concepts/eastasianeducationcostpressure/"

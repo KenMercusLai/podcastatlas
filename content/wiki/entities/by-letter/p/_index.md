@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 9418
+wiki_total_pages: 9420
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -506,6 +506,9 @@ wiki_pages:
   - key: "PizzaHutChina"
     title: "Pizza Hut China / 必胜客中国"
     url: "/wiki/entities/pizzahutchina/"
+  - key: "PlanetLabs"
+    title: "Planet Labs"
+    url: "/wiki/entities/planetlabs/"
   - key: "PlanetMoney"
     title: "Planet Money"
     url: "/wiki/entities/planetmoney/"

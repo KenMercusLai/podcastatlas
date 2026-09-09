@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 959
+topic_total_pages: 963
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -430,6 +430,9 @@ topic_concepts:
   - key: "EarthEnergyImbalance"
     title: "Earth Energy Imbalance"
     url: "/wiki/concepts/earthenergyimbalance/"
+  - key: "EarthObservationAI"
+    title: "Earth Observation AI"
+    url: "/wiki/concepts/earthobservationai/"
   - key: "EconomicClimateTechAdoption"
     title: "Economic Climate Tech Adoption"
     url: "/wiki/concepts/economicclimatetechadoption/"
@@ -2189,6 +2192,9 @@ topic_entities:
   - key: "PierreSimonLaplace"
     title: "Pierre-Simon Laplace / 拉普拉斯"
     url: "/wiki/entities/pierresimonlaplace/"
+  - key: "PlanetLabs"
+    title: "Planet Labs"
+    url: "/wiki/entities/planetlabs/"
   - key: "PrinciplesOfPhilosophy"
     title: "Principles of Philosophy / 《哲学原理》"
     url: "/wiki/entities/principlesofphilosophy/"
@@ -2375,6 +2381,9 @@ topic_entities:
   - key: "Whoop"
     title: "Whoop"
     url: "/wiki/entities/whoop/"
+  - key: "WillMarshall"
+    title: "Will Marshall"
+    url: "/wiki/entities/willmarshall/"
   - key: "WilliamLawrence"
     title: "William Lawrence / 威廉·劳伦斯"
     url: "/wiki/entities/williamlawrence/"
@@ -2826,6 +2835,9 @@ topic_sources:
   - key: "tech-20260713-tech-pod-128-tech-20260713-tech-pod-128"
     title: "The high cost of vacuuming carbon from the sky"
     url: "/wiki/sources/tech-20260713-tech-pod-128-tech-20260713-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065"
+    title: "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065/"
   - key: "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040"
     title: "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li"
     url: "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
