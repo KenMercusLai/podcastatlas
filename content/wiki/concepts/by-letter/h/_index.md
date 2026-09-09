@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6809
+wiki_total_pages: 6810
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "HesseYouthCultureMisreading"
     title: "Hesse Youth Culture Misreading / 黑塞青年文化误读"
     url: "/wiki/concepts/hesseyouthculturemisreading/"
+  - key: "HetuLuoshu"
+    title: "Hetu-Luoshu / 河图洛书"
+    url: "/wiki/concepts/hetuluoshu/"
   - key: "HiddenAssetOptionality"
     title: "Hidden Asset Optionality"
     url: "/wiki/concepts/hiddenassetoptionality/"

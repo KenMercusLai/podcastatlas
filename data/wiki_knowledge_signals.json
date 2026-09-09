@@ -6631,9 +6631,9 @@
       "url": "/wiki/entities/aurelstein/"
     },
     "AuspiciousOmenPolitics": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》911丨古代公务员也能包分配？ [ls3pXu9XlPuulSDaILx8TcoYlv9e].md",
@@ -6704,9 +6704,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读",
           "url": "/wiki/sources/zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？ [lvkgoVzsK0YQJB_VBVfxl0IKX2u9].md",
+          "key": "zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-09",
       "url": "/wiki/concepts/auspiciousomenpolitics/"
     },
     "AustriaHungary": {
@@ -34638,6 +34645,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/hetwilhelmus/"
     },
+    "HetuLuoshu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？ [lvkgoVzsK0YQJB_VBVfxl0IKX2u9].md",
+          "key": "zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/concepts/hetuluoshu/"
+    },
     "HexiFourCommanderiesLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -36516,6 +36539,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/huangzu/"
+    },
+    "HuangdiNeijing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？ [lvkgoVzsK0YQJB_VBVfxl0IKX2u9].md",
+          "key": "zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9/"
+        }
+      ],
+      "updated": "2026-09-09",
+      "url": "/wiki/entities/huangdineijing/"
     },
     "HuangfuGuiLateHan": {
       "episode_count": 9,
@@ -57204,9 +57243,9 @@
       "url": "/wiki/entities/ouyangxieasternhan/"
     },
     "OverextendedFrontierExpedition": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》909丨2025如何养成一身贵气？ [lomnDMpHR_YBUnJbBbbn9EBAFcsj].md",
@@ -57221,9 +57260,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？ [lvkgoVzsK0YQJB_VBVfxl0IKX2u9].md",
+          "key": "zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-09",
       "url": "/wiki/concepts/overextendedfrontierexpedition/"
     },
     "OverintellectualizedRelationshipAnalysis": {
@@ -79821,9 +79867,9 @@
       "url": "/wiki/entities/wanglingxinprince/"
     },
     "WangMang": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 2,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -79915,6 +79961,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？ [lvkgoVzsK0YQJB_VBVfxl0IKX2u9].md",
+          "key": "zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9/"
         }
       ],
       "updated": "2026-09-09",

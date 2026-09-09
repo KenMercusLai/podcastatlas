@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1618
+topic_total_pages: 1620
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -409,6 +409,9 @@ topic_concepts:
   - key: "HeroicResistanceViolenceAmbiguity"
     title: "Heroic Resistance-Violence Ambiguity"
     url: "/wiki/concepts/heroicresistanceviolenceambiguity/"
+  - key: "HetuLuoshu"
+    title: "Hetu-Luoshu / 河图洛书"
+    url: "/wiki/concepts/hetuluoshu/"
   - key: "HighGroundTimingAdvantage"
     title: "High-Ground Timing Advantage / 制高点时机优势"
     url: "/wiki/concepts/highgroundtimingadvantage/"
@@ -1619,6 +1622,9 @@ topic_entities:
   - key: "HowToHideAnEmpire"
     title: "How to Hide an Empire"
     url: "/wiki/entities/howtohideanempire/"
+  - key: "HuangdiNeijing"
+    title: "Huangdi Neijing / 《黄帝内经》"
+    url: "/wiki/entities/huangdineijing/"
   - key: "HutianKilnSite"
     title: "Hutian Kiln Site / 湖田古瓷窑址"
     url: "/wiki/entities/hutiankilnsite/"

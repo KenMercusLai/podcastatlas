@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 957
+topic_total_pages: 959
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1970,6 +1970,9 @@ topic_entities:
   - key: "HowWeSurvive"
     title: "How We Survive"
     url: "/wiki/entities/howwesurvive/"
+  - key: "HuangdiNeijing"
+    title: "Huangdi Neijing / 《黄帝内经》"
+    url: "/wiki/entities/huangdineijing/"
   - key: "HubermanLab"
     title: "Huberman Lab"
     url: "/wiki/entities/hubermanlab/"
@@ -2847,6 +2850,9 @@ topic_sources:
   - key: "your-top-health-questions-answered-scim2882548864"
     title: "Your Top Health Questions Answered"
     url: "/wiki/sources/your-top-health-questions-answered-scim2882548864/"
+  - key: "zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9"
+    title: "《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9/"
   - key: "zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra"
     title: "《资治通鉴·汉纪》722丨让刘秀险死的头痛病，怎么回事？"
     url: "/wiki/sources/zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra/"

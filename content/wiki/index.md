@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？](sources/zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9.md) — 16 CE Wang Mang backfill on Hetu-Luoshu omen interpretation, anti-Xiongnu confidence, southwest campaign overextension, civilian extraction, Feng Ying's stop-war remonstrance, and anatomy setup before Hanji 652.
 - [《资治通鉴·汉纪》648丨为什么我劝你必须积德？](sources/zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k.md) — 14 CE Wang Mang backfill on virtue/retribution framing, frontier famine and retrenchment, Han Wei's anti-Xiongnu bravado, renewed Xiongnu raids, Yizhou revolt, requisitioned pacification, and another currency reset that harms commoners.
 - [《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？](sources/zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz.md) — 15-16 CE Wang Mang backfill on eunuch-controlled treasuries and memorials, administrative backlog, disaster pressure, frontier grain costs, and a complex fifteen-rank variable salary system that leaves officials unpaid.
 - [《资治通鉴·汉纪》652丨王莽的外科手术](sources/zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9.md) — 16-17 CE Wang Mang backfill on Wang Sunqing's punitive dissection, Zhai Yi rebellion aftermath, Western Regions mission failure, Yanqi ambush, Guo Qing's retaliation, symbolic封土授茅, and威斗 intimidation.
@@ -2058,6 +2059,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Huangdi Neijing / 《黄帝内经》](entities/HuangdiNeijing.md) — classical Chinese medical text used in Hanji 651 as anatomy-history background before Wang Mang's punitive dissection branch.
 - [王孙卿 / Wang Sunqing (Xin rebel)](entities/WangSunqingXinRebel.md) — Captured Zhai Yi rebellion leader whose punitive dissection grounds Hanji 652's medicalized political-terror case.
 - [翟义起义 / Zhai Yi Rebellion](entities/ZhaiYiRebellion.md) — Major anti-Wang-Mang uprising that explains Wang Sunqing's long fugitive status and later punishment.
 - [王骏 / Wang Jun (Xin general)](entities/WangJunXinGeneral.md) — Xin Western Regions commander killed after Yanqi feigns submission and ambushes his expedition.
@@ -11479,6 +11481,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Hetu-Luoshu / 河图洛书](concepts/HetuLuoshu.md) — mythic-cosmological sign complex used in Hanji 651 to turn river change into an anti-Xiongnu omen.
 - [惩罚性解剖政治恐怖 / Punitive Anatomy as Political Terror](concepts/PunitiveAnatomyPoliticalTerror.md) — Political-violence pattern where anatomical or medical language is fused with enemy punishment and intimidation.
 - [危机优先级错置 / Crisis Priority Misalignment](concepts/CrisisPriorityMisalignment.md) — Governance failure where a ruler funds and pursues the wrong crisis sequence while the nearer regime-breaking danger worsens.
 - [Delayed Canonical Recognition / 延迟经典化](concepts/DelayedCanonicalRecognition.md) — Reception pattern in which low visible status hides durable work until later readers recognize its cultural value.

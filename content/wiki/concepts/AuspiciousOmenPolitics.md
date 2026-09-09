@@ -14,7 +14,8 @@ sources:
   - 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997
   - 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550
   - zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq
-last_updated: 2026-09-02
+  - zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9
+last_updated: 2026-09-09
 ---
 
 ## Definition
@@ -25,7 +26,7 @@ Auspicious omen politics / 祥瑞政治 is the political use of favorable signs,
 
 The current evidence shows a spectrum from opportunistic career claims to dynastic replacement. In routine court life, omens could decorate appointment or survival stories, as in Zhang Hao's gold-seal dream. Under coercive rule, a ruler could turn a prediction into a death script, as Dong Zhuo does with Zhang Wen. At the dynastic scale, Qin and Wang Mang cases show signs entering the logic of imperial color, virtue, sacred legitimacy, and transfer of rule.
 
-Hanji 689-3 introduces a material-frontier variant. The [[FiveStarsOutOfTheEastBrocade]] turns a planetary omen phrase into textile, tomb object, possible campaign slogan, and possible Western Regions gift or warning. This case does not replace military, ecological, or institutional explanation; it shows how an auspicious formula could travel across media and become part of how Han victory, frontier loyalty, and later memory were narrated.
+Hanji 689-3 introduces a material-frontier variant. The [[FiveStarsOutOfTheEastBrocade]] turns a planetary omen phrase into textile, tomb object, possible campaign slogan, and possible Western Regions gift or warning. [[zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9|Hanji 651]] adds a court-flattery variant under [[WangMang|王莽]]: officials read a riverbank collapse and watercourse change through [[HetuLuoshu|河图洛书]] as "earth suppressing water," then convert that sign into confidence that Xiongnu will be defeated. These cases do not replace military, ecological, or institutional explanation; they show how auspicious formulas could travel across media, landscape, and court speech into frontier policy and memory.
 
 Across the page, omen politics works best as a language of compression. A sign can condense uncertainty into confidence, transform ambition into Heaven-backed legitimacy, make an attack look prewritten, or memorialize a victory as cosmically timed. The same logic is unstable: when the claimant lacks virtue, competence, or durable capacity, omen rhetoric can backfire into skepticism, overreach, or retrospective blame.
 
@@ -35,6 +36,7 @@ Across the page, omen politics works best as a language of compression. A sign c
 - Omen politics can operate at many scales: personal advancement, purge cover, imperial travel, frontier war, diplomatic messaging, and dynastic replacement.
 - The interpreter has power; vague or flexible signs become consequential when a ruler, adviser, text, or artifact narrows their meaning.
 - Material media can carry omen politics, not just speeches and memorials.
+- Landscape events can be reclassified as favorable signs when interpreters choose a cosmological frame that makes disorder look useful.
 - Omen claims can authorize action but rarely explain outcomes by themselves.
 - The same sign system that legitimates a ruler can later expose that ruler to judgment if virtue or capacity fails.
 
@@ -46,15 +48,16 @@ Across the page, omen politics works best as a language of compression. A sign c
 - Dynastic replacement technology: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780|Xiangrui on Wang Mang]] shows petitions, auspicious signs, dragon motifs, and chenwei-style evidence helping move Wang Mang from moral reputation toward emperor, then contributing to legitimacy backfire.
 - Technical and religious infrastructure: [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997|Fangshu history part 1]] and [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550|Fangshu history part 2]] explain the yin-yang, five-phases, astrology, fangshi, and chenwei systems that made omen claims durable and reusable.
 - Material-frontier omen politics: [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] presents the five-star brocade as an artifact whose wording can be read through planetary auspiciousness, Zhao Chongguo's Southern Qiang campaign, and Han-Western-Regions diplomatic warning or reassurance.
+- Landscape-to-policy omen politics: [[zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9|Hanji 651]] shows Xin officials turning river change into a favorable Hetu-Luoshu omen that supports anti-Xiongnu deployment.
 
 ## Counterevidence & Qualifications
 
-The sources are evidence for political reasoning, not evidence that omens caused events. Several cases are explicitly source-critical: Qinji 126 separates late-Qin omen pressure from proven causation, Zhouji 68 warns that defeated-ruler memory can amplify a story, and the Wang Mang source treats auspicious evidence as politically powerful but ultimately fragile. Hanji 689-3 keeps the brocade's gift/warning interpretation, right-arm use, and modern planetary comparison as plausible but not settled.
+The sources are evidence for political reasoning, not evidence that omens caused events. Several cases are explicitly source-critical: Qinji 126 separates late-Qin omen pressure from proven causation, Zhouji 68 warns that defeated-ruler memory can amplify a story, and the Wang Mang sources treat auspicious evidence as politically powerful but ultimately fragile. Hanji 651 keeps the river-change reading as court interpretation and policy flattery rather than proof of Xiongnu defeat; Hanji 689-3 keeps the brocade's gift/warning interpretation, right-arm use, and modern planetary comparison as plausible but not settled.
 
 ## What Changed
 
 - Migrated the page to synthesis-v1.
-- Integrated Hanji 689-3 as a material-frontier omen case centered on the five-star brocade.
+- Integrated Hanji 651 as a landscape-to-policy omen case centered on Hetu-Luoshu interpretation under Wang Mang.
 - Reorganized older examples by mechanism and scale instead of source arrival order.
 - Preserved the distinction between omen rhetoric as political evidence and omen rhetoric as sole cause.
 
@@ -67,3 +70,4 @@ The sources are evidence for political reasoning, not evidence that omens caused
 - [[OmenLaunderedPurge]] - coercive subtype where prediction is used to justify killing.
 - [[OmenCountermeasureMobility]] - fate-management subtype where movement becomes the response to a sign.
 - [[FiveStarsOutOfTheEastBrocade]] - material artifact showing omen language carried by textile and frontier memory.
+- [[HetuLuoshu]] - mythic-cosmological sign complex used in Hanji 651's river-change omen.
