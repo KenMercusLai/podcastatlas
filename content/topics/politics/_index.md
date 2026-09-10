@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2321
+topic_total_pages: 2323
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3553,6 +3553,9 @@ topic_concepts:
   - key: "GrassrootsOfficialNetwork"
     title: "基层官吏网络政治资本 / Grassroots Official Network"
     url: "/wiki/concepts/grassrootsofficialnetwork/"
+  - key: "DiplomaticCostRiskAccounting"
+    title: "外交成本风险核算 / Diplomatic Cost-Risk Accounting"
+    url: "/wiki/concepts/diplomaticcostriskaccounting/"
   - key: "DiplomaticScapegoatBlameTransfer"
     title: "外交替罪式责任转嫁 / Diplomatic Scapegoat Blame Transfer"
     url: "/wiki/concepts/diplomaticscapegoatblametransfer/"
@@ -6846,6 +6849,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d"
+    title: "《资治通鉴·汉纪》589丨揭秘无脑省钱的可怕后果"
+    url: "/wiki/sources/zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d/"
   - key: "zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a"
     title: "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？"
     url: "/wiki/sources/zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a/"

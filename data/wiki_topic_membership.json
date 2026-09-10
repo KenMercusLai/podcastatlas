@@ -20072,6 +20072,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "DiplomaticCostRiskAccounting": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DiplomaticPersonaAsStrategicAsset": [
     {
       "key": "politics",
@@ -81068,6 +81075,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d": [
     {
       "key": "politics",
       "label": "Politics",

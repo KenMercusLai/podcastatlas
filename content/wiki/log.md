@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》589丨揭秘无脑省钱的可怕后果
+
+Ingested the 2026-05-24 芮淇讲透资治通鉴 episode on Han Aidi's near-refusal of a Xiongnu chanyu visit for fiscal reasons and Yang Xiong's warning that the saving could damage frontier trust. Added source `zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d`; created `DiplomaticCostRiskAccounting`; linked the episode to Han-Xiongnu heqin, frontier recognition credibility, and Xiongnu threat-history pages. No settled contradiction found; reception-cost figures, the chanyu's likely reaction, and the fuller explanation of Xiongnu's special danger remain source-scoped.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟
 
 Ingested the 2026-05-24 芮淇讲透资治通鉴 background episode on reading Zizhi Tongjian through the Twenty-Four Histories, front four histories, Zuo Zhuan, source forms, official-history continuity, and participatory history reading. Added source `zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq`; created `TwentyFourHistories`, `ChronicleBiographicalHistoryForms`, `OfficialHistoryContinuity`, and `ParticipatoryHistoricalReading`; updated `HanShu`, `HouHanshu`, `Sanguozhi`, `ZuoZhuan`, `HistoricalQuestionConsciousness`, `index`, and `overview`. No settled contradiction found; bibliographic figures and broad continuity claims remain source-scoped orientation.
@@ -17156,6 +17160,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？
 
 Added source note for the late-Western-Han chanyu illness-delay debate, covering Fu Yan and Xi Fu Gong's Wusun-linked escalation proposal, Gongsun Lu's trust-preserving diplomatic objection, and Wang Jia's rejection of disaster-omen war logic and arbitrary killing. Added focused entity pages for Fu Yan, Xi Fu Gong, and Wusun; updated Gongsun Lu with the pre-death diplomatic-remonstrance layer.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
