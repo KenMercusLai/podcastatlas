@@ -6593,6 +6593,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AlexanderLiss": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AlexanderLuria": [
     {
       "key": "science",
@@ -9051,6 +9058,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "AttentionFineTuning": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "AttentionFragmentation": [
@@ -16822,6 +16836,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ContextualBanditPersonalization": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ContinuousBatching": [
     {
       "key": "technology",
@@ -21137,6 +21158,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "DynamicBlindness": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "DynamicPricingFairness": [
     {
       "key": "economics",
@@ -23471,6 +23499,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ExperienceOrchestrator": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ExperientialAssociation": [
@@ -75833,6 +75873,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ep-42-when-ai-meets-robotics-building-machines-that-care": [

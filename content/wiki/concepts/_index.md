@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6937
+wiki_total_pages: 6941
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2024,6 +2024,9 @@ wiki_pages:
   - key: "AttentionCapacitySelection"
     title: "Attention Capacity Selection"
     url: "/wiki/concepts/attentioncapacityselection/"
+  - key: "AttentionFineTuning"
+    title: "Attention Fine-Tuning"
+    url: "/wiki/concepts/attentionfinetuning/"
   - key: "AttentionFragmentation"
     title: "Attention Fragmentation / 注意力碎片化"
     url: "/wiki/concepts/attentionfragmentation/"

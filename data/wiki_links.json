@@ -4227,6 +4227,10 @@
     "title": "Alexander Hamilton",
     "url": "/wiki/entities/alexanderhamilton/"
   },
+  "AlexanderLiss": {
+    "title": "Alexander Liss",
+    "url": "/wiki/entities/alexanderliss/"
+  },
   "AlexanderLuria": {
     "title": "Alexander Luria / 亚历山大·卢里亚",
     "url": "/wiki/entities/alexanderluria/"
@@ -6174,6 +6178,10 @@
   "AttentionCapacitySelection": {
     "title": "Attention Capacity Selection",
     "url": "/wiki/concepts/attentioncapacityselection/"
+  },
+  "AttentionFineTuning": {
+    "title": "Attention Fine-Tuning",
+    "url": "/wiki/concepts/attentionfinetuning/"
   },
   "AttentionFragmentation": {
     "title": "Attention Fragmentation / 注意力碎片化",
@@ -13539,6 +13547,10 @@
     "title": "Context Flywheel",
     "url": "/wiki/concepts/contextflywheel/"
   },
+  "ContextualBanditPersonalization": {
+    "title": "Contextual Bandit Personalization",
+    "url": "/wiki/concepts/contextualbanditpersonalization/"
+  },
   "ContinentalArmy": {
     "title": "Continental Army",
     "url": "/wiki/entities/continentalarmy/"
@@ -17599,6 +17611,10 @@
     "title": "Dynamic Balancing Robotics",
     "url": "/wiki/concepts/dynamicbalancingrobotics/"
   },
+  "DynamicBlindness": {
+    "title": "Dynamic Blindness",
+    "url": "/wiki/concepts/dynamicblindness/"
+  },
   "DynamicPricingFairness": {
     "title": "Dynamic Pricing Fairness",
     "url": "/wiki/concepts/dynamicpricingfairness/"
@@ -19574,6 +19590,10 @@
   "ExperienceLedBrand": {
     "title": "Experience-Led Brand",
     "url": "/wiki/concepts/experienceledbrand/"
+  },
+  "ExperienceOrchestrator": {
+    "title": "Experience Orchestrator",
+    "url": "/wiki/concepts/experienceorchestrator/"
   },
   "ExperientialAssociation": {
     "title": "Experiential Association / 经验联想",
@@ -68306,6 +68326,10 @@
   "ep-4-a-i-talk-with-a-rocket-scientist-from-nasa": {
     "title": "EP 4: A.I. talk with a Rocket Scientist from NASA",
     "url": "/wiki/sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa/"
+  },
+  "ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built": {
+    "title": "EP 41: The Reward Signal: The Missing Ingredient in Every AI System You've Built",
+    "url": "/wiki/sources/ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built/"
   },
   "ep-42-when-ai-meets-robotics-building-machines-that-care": {
     "title": "EP 42: When AI Meets Robotics: Building Machines That Care",

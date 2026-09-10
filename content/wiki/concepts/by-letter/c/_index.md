@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6937
+wiki_total_pages: 6941
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1499,6 +1499,9 @@ wiki_pages:
   - key: "ContextDependentBiomedicalInterventions"
     title: "Context-Dependent Biomedical Interventions"
     url: "/wiki/concepts/contextdependentbiomedicalinterventions/"
+  - key: "ContextualBanditPersonalization"
+    title: "Contextual Bandit Personalization"
+    url: "/wiki/concepts/contextualbanditpersonalization/"
   - key: "ContingentAgreement"
     title: "Contingent Agreement / 权变协议"
     url: "/wiki/concepts/contingentagreement/"

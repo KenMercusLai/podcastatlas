@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6937
+wiki_total_pages: 6941
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -866,6 +866,9 @@ wiki_pages:
   - key: "DynamicBalancingRobotics"
     title: "Dynamic Balancing Robotics"
     url: "/wiki/concepts/dynamicbalancingrobotics/"
+  - key: "DynamicBlindness"
+    title: "Dynamic Blindness"
+    url: "/wiki/concepts/dynamicblindness/"
   - key: "DynamicPricingFairness"
     title: "Dynamic Pricing Fairness"
     url: "/wiki/concepts/dynamicpricingfairness/"

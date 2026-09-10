@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 41: The Reward Signal: The Missing Ingredient in Every AI System You've Built](sources/ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built.md) — Data Science With Sam episode with Alexander Liss on enterprise AI reward signals, contextual bandits, dynamic blindness, attention fine-tuning, Experience Orchestrator, and governed agentic AI.
 - [史蒂夫说464期 - 谢晶 - 我们支持平等，但却默认不同的人配得不同的生活](sources/shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsYpOsseeWaQIMMSv6Q2lyGsOCSw.md) — 史蒂夫说 interview with Xie Jin on feminist philosophy, epistemic injustice, gendered emotional labor, public-space hierarchy, embodied vulnerability, male emotional restriction, and good life as happy together.
 - [《资治通鉴·汉纪》597丨太皇太后王政君的诏令，为何被拒收？](sources/zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy.md) — Late-Western-Han court-politics episode on Wang Jia resealing and returning a Dong Xian reward edict, turning fief enlargement into a warning about public rank, private favor, disaster omens, Aidi's illness, and succession risk.
 - [《资治通鉴·汉纪》598丨古代朝堂的斗争有多残酷？](sources/zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d.md) — Late-Western-Han court-politics episode on Liang Xiang's contested case review, Han Aidi's suspicion, Wang Jia's Dong Xian-linked exposure, Kong Guang's Tingwei recommendation, and Wang Jia's refusal of the expected poison-suicide script.
@@ -2136,6 +2137,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Alexander Liss](entities/AlexanderLiss.md) — Denver-based data and AI scientist discussing enterprise AI reward signals, attention fine-tuning, and the Experience Orchestrator in Data Science With Sam EP41.
 - [谢金 / Xie Jin](entities/XieJinPhilosopher.md) — Fudan philosophy associate professor in 史蒂夫说 episode 464, translating feminism, epistemic injustice, embodied vulnerability, public-space hierarchy, and happy-together good life into everyday examples.
 - [褒姒 / Bao Si](entities/BaoSi.md) — Western Zhou consort remembered through the "一笑亡国" and beacon-fire legends, with her supernatural birth story kept source-scoped.
 - [《列女传》 / Lienu Zhuan](entities/LienuZhuan.md) — Liu Xiang-associated text layer used by Hanji 601-2 for Bao Si's mythic and moralized biography.
@@ -11694,6 +11696,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Attention Fine-Tuning](concepts/AttentionFineTuning.md) — Post-training framework using model attention dynamics as a mathematical reward signal.
+- [Contextual Bandit Personalization](concepts/ContextualBanditPersonalization.md) — Marketing and personalization pattern where variants learn from observed user action in context.
+- [Dynamic Blindness](concepts/DynamicBlindness.md) — LLM failure mode where locally plausible outputs miss downstream system consequences.
+- [Experience Orchestrator](concepts/ExperienceOrchestrator.md) — Agent-control framework for steering LLM behavior toward governed task completion.
 - [Epistemic Injustice Experience Silencing / 认知不公正与经验失语](concepts/EpistemicInjusticeExperienceSilencing.md) — Feminist-philosophy concept where dominant experience controls public language, leaving women, teenagers, sexual minorities, and other groups under-heard.
 - [Equality Paradox Public Space / 平等悖论与公共空间](concepts/EqualityParadoxPublicSpace.md) — Gap between stated equality and public arrangements that quietly reserve full access, comfort, and flourishing for only some bodies and groups.
 - [Embodied Vulnerability Public Design / 身体脆弱性与公共设计](concepts/EmbodiedVulnerabilityPublicDesign.md) — Vulnerability frame linking bodies, injury, mortality, pregnancy, disability, class, respect, and environments that can manufacture exclusion.

@@ -4474,6 +4474,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/alexanderhamilton/"
     },
+    "AlexanderLiss": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "BE0F38D21D06F0FC4EA41EE20952A757~8584403_2026-08-10-213603-8787-0-0-10.128 [BE0F38D21D06F0FC4EA41EE20952A757~8584403_2026-08-10-213603-8787-0-0-10.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a83a809].md",
+          "key": "ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built",
+          "show": "Data Science With Sam",
+          "title": "EP 41: The Reward Signal: The Missing Ingredient in Every AI System You've Built",
+          "url": "/wiki/sources/ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/alexanderliss/"
+    },
     "AlexanderLuria": {
       "episode_count": 1,
       "show_count": 1,
@@ -6834,6 +6850,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/attentioncapacityselection/"
+    },
+    "AttentionFineTuning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "BE0F38D21D06F0FC4EA41EE20952A757~8584403_2026-08-10-213603-8787-0-0-10.128 [BE0F38D21D06F0FC4EA41EE20952A757~8584403_2026-08-10-213603-8787-0-0-10.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a83a809].md",
+          "key": "ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built",
+          "show": "Data Science With Sam",
+          "title": "EP 41: The Reward Signal: The Missing Ingredient in Every AI System You've Built",
+          "url": "/wiki/sources/ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/attentionfinetuning/"
     },
     "AttilaTheHun": {
       "episode_count": 1,
@@ -16471,6 +16503,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/contextdependentbiomedicalinterventions/"
     },
+    "ContextualBanditPersonalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "BE0F38D21D06F0FC4EA41EE20952A757~8584403_2026-08-10-213603-8787-0-0-10.128 [BE0F38D21D06F0FC4EA41EE20952A757~8584403_2026-08-10-213603-8787-0-0-10.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a83a809].md",
+          "key": "ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built",
+          "show": "Data Science With Sam",
+          "title": "EP 41: The Reward Signal: The Missing Ingredient in Every AI System You've Built",
+          "url": "/wiki/sources/ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/contextualbanditpersonalization/"
+    },
     "ContinentalArmy": {
       "episode_count": 1,
       "show_count": 1,
@@ -22659,6 +22707,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/dwarkeshpatel/"
     },
+    "DynamicBlindness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "BE0F38D21D06F0FC4EA41EE20952A757~8584403_2026-08-10-213603-8787-0-0-10.128 [BE0F38D21D06F0FC4EA41EE20952A757~8584403_2026-08-10-213603-8787-0-0-10.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a83a809].md",
+          "key": "ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built",
+          "show": "Data Science With Sam",
+          "title": "EP 41: The Reward Signal: The Missing Ingredient in Every AI System You've Built",
+          "url": "/wiki/sources/ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/dynamicblindness/"
+    },
     "DynasticClaimNationalMobilization": {
       "episode_count": 1,
       "show_count": 1,
@@ -26628,6 +26692,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/experienceformingeducation/"
+    },
+    "ExperienceOrchestrator": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "BE0F38D21D06F0FC4EA41EE20952A757~8584403_2026-08-10-213603-8787-0-0-10.128 [BE0F38D21D06F0FC4EA41EE20952A757~8584403_2026-08-10-213603-8787-0-0-10.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a83a809].md",
+          "key": "ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built",
+          "show": "Data Science With Sam",
+          "title": "EP 41: The Reward Signal: The Missing Ingredient in Every AI System You've Built",
+          "url": "/wiki/sources/ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/experienceorchestrator/"
     },
     "ExperientialAssociation": {
       "episode_count": 1,
@@ -71840,9 +71920,9 @@
       "url": "/wiki/entities/scarletsunrise/"
     },
     "ScenarioLevelRewardSignal": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人⧸CEO [lsQ-rKE8nfRBI5xaLGst3A8uncfD].md",
@@ -71850,9 +71930,16 @@
           "show": "十字路口Crossing",
           "title": "AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO",
           "url": "/wiki/sources/ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd/"
+        },
+        {
+          "episode_file": "BE0F38D21D06F0FC4EA41EE20952A757~8584403_2026-08-10-213603-8787-0-0-10.128 [BE0F38D21D06F0FC4EA41EE20952A757~8584403_2026-08-10-213603-8787-0-0-10.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a83a809].md",
+          "key": "ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built",
+          "show": "Data Science With Sam",
+          "title": "EP 41: The Reward Signal: The Missing Ingredient in Every AI System You've Built",
+          "url": "/wiki/sources/ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/scenariolevelrewardsignal/"
     },
     "ScholarOfficialPublicDuty": {
