@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6897
+wiki_total_pages: 6908
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -803,6 +803,9 @@ wiki_pages:
   - key: "ImperialPreferenceSpeechRisk"
     title: "帝王偏好下的表达风险 / Imperial Preference Speech Risk"
     url: "/wiki/concepts/imperialpreferencespeechrisk/"
+  - key: "ImperialFuneraryPreservation"
+    title: "帝王停灵防腐 / Imperial Funerary Preservation"
+    url: "/wiki/concepts/imperialfunerarypreservation/"
   - key: "ImperialTeacherHonorRitual"
     title: "帝王尊师礼制 / Imperial Teacher-Honor Ritual"
     url: "/wiki/concepts/imperialteacherhonorritual/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6897
+wiki_total_pages: 6908
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "HanziTransdialectalFunction"
     title: "Hanzi Transdialectal Function"
     url: "/wiki/concepts/hanzitransdialectalfunction/"
+  - key: "HappinessBasedDeescalation"
+    title: "Happiness-Based De-escalation / 幸福者退让原则"
+    url: "/wiki/concepts/happinessbaseddeescalation/"
   - key: "HardAIInfrastructure"
     title: "Hard AI Infrastructure / 硬AI基础设施"
     url: "/wiki/concepts/hardaiinfrastructure/"

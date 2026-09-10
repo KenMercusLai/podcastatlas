@@ -1983,9 +1983,9 @@
       "url": "/wiki/concepts/aiinevitabilityresponsibilityevasion/"
     },
     "AIJobSecurityAnxiety": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 6,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01 [lgNagVELl4JyVv7EejrCgNO2Xjsr].md",
@@ -2028,9 +2028,16 @@
           "show": "Anyway.FM 设计杂谈",
           "title": "№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」",
           "url": "/wiki/sources/anyway-195-anyway-195/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming？ [41471230].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/aijobsecurityanxiety/"
     },
     "AILegalPersonhoodRisk": {
@@ -2484,9 +2491,9 @@
       "url": "/wiki/concepts/aiquotatrusterosion/"
     },
     "AIRegulatoryCaptureRisk": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs： SLOW DOWN AI, Mamdani's Grocery Stores [42282790].md",
@@ -2515,9 +2522,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming？ [41471230].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/airegulatorycapturerisk/"
     },
     "AIResistantExperientialConsumption": {
@@ -2853,6 +2867,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/aivoicecloningrights/"
+    },
+    "AIWashingLayoffAttribution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming？ [41471230].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/aiwashinglayoffattribution/"
     },
     "AIWealthHousingScarcity": {
       "episode_count": 1,
@@ -6863,9 +6893,9 @@
       "url": "/wiki/entities/aurelstein/"
     },
     "AuspiciousOmenPolitics": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 2,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》911丨古代公务员也能包分配？ [ls3pXu9XlPuulSDaILx8TcoYlv9e].md",
@@ -6957,6 +6987,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》623丨马屁还是真心？职场人如何在夸奖与谄媚间找平衡！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》607丨揭秘王莽的权力博弈 [lgNxG-ZLf5gowjbIRAZpijVykS78].md",
+          "key": "zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》607丨揭秘王莽的权力博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78/"
         }
       ],
       "updated": "2026-09-10",
@@ -9096,6 +9133,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/blameabsorbingresponsibility/"
+    },
+    "BlockAndDissentHygiene": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt9hwq-lvZE6WHFNoffgEs_MNb3a [lt9hwq-lvZE6WHFNoffgEs_MNb3a].md",
+          "key": "luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/blockanddissenthygiene/"
     },
     "BlockInc": {
       "episode_count": 1,
@@ -11773,6 +11826,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/carrierbagnarrative/"
     },
+    "CaseExpansionPoliticalPurge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》617丨王莽毒杀公主历史始末 [lqVZEJFM1Sd8k0AmPorgI_mQHSrd].md",
+          "key": "zizhi-tongjian-hanji-617-wangmang-dusha-gongzhu-lishi-shimo-lqvzejfm1sd8k0amporgi_mqhsrd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》617丨王莽毒杀公主历史始末",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-617-wangmang-dusha-gongzhu-lishi-shimo-lqvzejfm1sd8k0amporgi_mqhsrd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/caseexpansionpoliticalpurge/"
+    },
     "CathayPacific": {
       "episode_count": 1,
       "show_count": 1,
@@ -12325,9 +12394,9 @@
       "url": "/wiki/entities/chenchonglatehan/"
     },
     "ChenChongXinOfficial": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？ [lnC6E3DGxXnrYlkFQZGl2rO9gPbJ].md",
@@ -12335,9 +12404,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》611丨历史无名的孙宝，有多爷们？ [lhlC5v3NdnIVv9j_cB9w65v4xutw].md",
+          "key": "zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》611丨历史无名的孙宝，有多爷们？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/chenchongxinofficial/"
     },
     "ChenFanLateHan": {
@@ -13136,9 +13212,9 @@
       "url": "/wiki/entities/cheshihoukingdomlatehan/"
     },
     "CheshiHouKingdomXin": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？ [lhxBX6KeIbmFe8z6bcsmlPNR6ehT].md",
@@ -13146,9 +13222,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕 [lgFzC3yPqizdDsmD6MvAaSb1Dxsd].md",
+          "key": "zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/cheshihoukingdomxin/"
     },
     "ChestPainEmergencyEscalation": {
@@ -14538,6 +14621,29 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/cixihomeappliancecluster/"
     },
+    "ClassicCitationLegitimationCapture": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己 [lrqxfZIR4BQXt0v3cCvfEf8FaaDE].md",
+          "key": "zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》607丨揭秘王莽的权力博弈 [lgNxG-ZLf5gowjbIRAZpijVykS78].md",
+          "key": "zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》607丨揭秘王莽的权力博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/classiccitationlegitimationcapture/"
+    },
     "ClassicRevoicingFromNewPosition": {
       "episode_count": 1,
       "show_count": 1,
@@ -14569,6 +14675,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/classicalexaminationorthodoxy/"
+    },
+    "ClassicsBasedNamingGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事 [lhz58Yc4bqN2PQFA1f21hbsitEQL].md",
+          "key": "zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/classicsbasednaminggovernance/"
     },
     "CleanOfficialCapacityGap": {
       "episode_count": 1,
@@ -14949,9 +15071,9 @@
       "url": "/wiki/concepts/coercedimperialmarriage/"
     },
     "CoercedPraiseConformityRisk": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》625丨揭秘人性暗面：为何旁人成功总令我们心生嫉恨？ [li64nGKV8NUjwEgBIX6IORoRjmbo].md",
@@ -14973,6 +15095,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》621丨帝王心术：攻心最重要！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-621-diwang-xinshu-gongxin-zui-zhongyao-lgo01rnxby9ynyyzanljhtrawjck/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》611丨历史无名的孙宝，有多爷们？ [lhlC5v3NdnIVv9j_cB9w65v4xutw].md",
+          "key": "zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》611丨历史无名的孙宝，有多爷们？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw/"
         }
       ],
       "updated": "2026-09-10",
@@ -15014,6 +15143,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/coercedtalentlegitimacy/"
+    },
+    "CoerciveFrontierDeterrence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕 [lgFzC3yPqizdDsmD6MvAaSb1Dxsd].md",
+          "key": "zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/coercivefrontierdeterrence/"
     },
     "CoerciveFrontierRelocationBackfire": {
       "episode_count": 2,
@@ -20530,9 +20675,9 @@
       "url": "/wiki/concepts/documentaryethicalrestraint/"
     },
     "DogBloodCase": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》616丨有心机的人有多可怕 [lnhkk70905Eqg4lQwH3mp2sxzamc].md",
@@ -20540,6 +20685,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",
           "url": "/wiki/sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》617丨王莽毒杀公主历史始末 [lqVZEJFM1Sd8k0AmPorgI_mQHSrd].md",
+          "key": "zizhi-tongjian-hanji-617-wangmang-dusha-gongzhu-lishi-shimo-lqvzejfm1sd8k0amporgi_mqhsrd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》617丨王莽毒杀公主历史始末",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-617-wangmang-dusha-gongzhu-lishi-shimo-lqvzejfm1sd8k0amporgi_mqhsrd/"
         },
         {
           "episode_file": "《资治通鉴·汉纪》634丨活在男人影子背后的她，惨！惨！惨！ [lm3WuB0L70YXwwyvWI15j93I9lWK].md",
@@ -23477,6 +23629,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/emotionalhealthlongevity/"
     },
+    "EmotionalStabilityAsSocialNorm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt9hwq-lvZE6WHFNoffgEs_MNb3a [lt9hwq-lvZE6WHFNoffgEs_MNb3a].md",
+          "key": "luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/emotionalstabilityassocialnorm/"
+    },
     "EmotionsAsFunctionalControlStates": {
       "episode_count": 1,
       "show_count": 1,
@@ -24946,9 +25114,9 @@
       "url": "/wiki/entities/empressmamingdeeasternhan/"
     },
     "EmpressSelectionRitualLegitimacy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？ [lghFih9xcRjYRvDLB4OBDXvwhl1Y].md",
@@ -24963,6 +25131,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事 [lhz58Yc4bqN2PQFA1f21hbsitEQL].md",
+          "key": "zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql/"
         }
       ],
       "updated": "2026-09-10",
@@ -24992,9 +25167,9 @@
       "url": "/wiki/entities/empresssisi/"
     },
     "EmpressWangPingdi": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》666丨西汉最后一位皇后，为何投火自焚？ [lrjUrgJZVwEzkppvGeUpu6orMMzW].md",
@@ -25023,6 +25198,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事 [lhz58Yc4bqN2PQFA1f21hbsitEQL].md",
+          "key": "zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql/"
         }
       ],
       "updated": "2026-09-10",
@@ -25331,9 +25513,9 @@
       "url": "/wiki/concepts/enterpriseaipilotpurgatory/"
     },
     "EnterpriseAIROIAudit": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
@@ -25362,9 +25544,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming？ [41471230].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/enterpriseairoiaudit/"
     },
     "EnterpriseAgentMemory": {
@@ -31578,6 +31767,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/gaoganlatehan/"
     },
+    "GaoHanStandup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt9hwq-lvZE6WHFNoffgEs_MNb3a [lt9hwq-lvZE6WHFNoffgEs_MNb3a].md",
+          "key": "luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/gaohanstandup/"
+    },
     "GaoJunEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -33106,9 +33311,9 @@
       "url": "/wiki/entities/gongdulatehan/"
     },
     "GongShengXinScholar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》644丨谁敢和皇帝使者讨价还价？ [lkGn0idiMBu6TWZ-sYMr5012f8Sn].md",
@@ -33116,9 +33321,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》644丨谁敢和皇帝使者讨价还价？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！ [llGHWPFE5C0cK91VKLDmfdjowmqi].md",
+          "key": "zizhi-tongjian-hanji-612-jiemi-gudai-yingxiao-daka-wangmang-llghwpfe5c0ck91vkldmfdjowmqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-612-jiemi-gudai-yingxiao-daka-wangmang-llghwpfe5c0ck91vkldmfdjowmqi/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/gongshengxinscholar/"
     },
     "GongfuXiong": {
@@ -33601,6 +33813,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/gottmanmethod/"
+    },
+    "GougouCheshiKing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕 [lgFzC3yPqizdDsmD6MvAaSb1Dxsd].md",
+          "key": "zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/gougoucheshiking/"
     },
     "GovernmentDataSiloCollapse": {
       "episode_count": 1,
@@ -34985,6 +35213,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/hamiltonianeconomicnationalism/"
     },
+    "HanAidi": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》610-2丨从一颗夜明珠到宫中神秘防腐法：古代皇帝驾崩后如何下葬？ [ltNLN8vk_A7_pEjUTEGKcbCvzZYZ].md",
+          "key": "zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》610-2丨从一颗夜明珠到宫中神秘防腐法：古代皇帝驾崩后如何下葬？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/hanaidi/"
+    },
     "HanBoXinOfficial": {
       "episode_count": 1,
       "show_count": 1,
@@ -35126,9 +35377,9 @@
       "url": "/wiki/entities/hanmenglatehan/"
     },
     "HanPingdi": {
-      "episode_count": 5,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -35164,6 +35415,20 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》618丨王莽为何是夺权的头号玩家？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事 [lhz58Yc4bqN2PQFA1f21hbsitEQL].md",
+          "key": "zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》607丨揭秘王莽的权力博弈 [lgNxG-ZLf5gowjbIRAZpijVykS78].md",
+          "key": "zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》607丨揭秘王莽的权力博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78/"
         }
       ],
       "updated": "2026-09-10",
@@ -35649,6 +35914,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/haowuqiangleader/"
+    },
+    "HappinessBasedDeescalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt9hwq-lvZE6WHFNoffgEs_MNb3a [lt9hwq-lvZE6WHFNoffgEs_MNb3a].md",
+          "key": "luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/happinessbaseddeescalation/"
     },
     "HappyMondayClub": {
       "episode_count": 1,
@@ -38393,6 +38674,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/huangfuweneasternhan/"
     },
+    "HuangzhiKingdom": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争 [lplZ8F3WG1P0m5Kmlh-w32JwnlZq].md",
+          "key": "zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/huangzhikingdom/"
+    },
     "HuaweiAscend950DT": {
       "episode_count": 1,
       "show_count": 1,
@@ -39878,6 +40175,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/imperialdeathconcealment/"
+    },
+    "ImperialFuneraryPreservation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》610-2丨从一颗夜明珠到宫中神秘防腐法：古代皇帝驾崩后如何下葬？ [ltNLN8vk_A7_pEjUTEGKcbCvzZYZ].md",
+          "key": "zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》610-2丨从一颗夜明珠到宫中神秘防腐法：古代皇帝驾崩后如何下葬？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/imperialfunerarypreservation/"
     },
     "ImperialMarriageInspection": {
       "episode_count": 1,
@@ -42633,6 +42946,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/jingjuekingdom/"
+    },
+    "JingwuPrincessWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》617丨王莽毒杀公主历史始末 [lqVZEJFM1Sd8k0AmPorgI_mQHSrd].md",
+          "key": "zizhi-tongjian-hanji-617-wangmang-dusha-gongzhu-lishi-shimo-lqvzejfm1sd8k0amporgi_mqhsrd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》617丨王莽毒杀公主历史始末",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-617-wangmang-dusha-gongzhu-lishi-shimo-lqvzejfm1sd8k0amporgi_mqhsrd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/jingwuprincesswesternhan/"
     },
     "JiuXiRitualPromotion": {
       "episode_count": 2,
@@ -51051,9 +51380,9 @@
       "url": "/wiki/entities/luotong/"
     },
     "LuoYonghao": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 ｜ 中国互联网故事24 [1000932027].md",
@@ -51103,9 +51432,16 @@
           "show": "罗永浩的十字路口",
           "title": "罗永浩的X字路口！如果可以，你会删除伴侣出轨的记忆吗？",
           "url": "/wiki/sources/ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur/"
+        },
+        {
+          "episode_file": "lt9hwq-lvZE6WHFNoffgEs_MNb3a [lt9hwq-lvZE6WHFNoffgEs_MNb3a].md",
+          "key": "luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/luoyonghao/"
     },
     "LuoZijun": {
@@ -51141,9 +51477,9 @@
       "url": "/wiki/entities/luobopaidui/"
     },
     "LuoyonghaosCrossroads": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
@@ -51200,9 +51536,16 @@
           "show": "罗永浩的十字路口",
           "title": "罗永浩的X字路口！如果可以，你会删除伴侣出轨的记忆吗？",
           "url": "/wiki/sources/ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur/"
+        },
+        {
+          "episode_file": "lt9hwq-lvZE6WHFNoffgEs_MNb3a [lt9hwq-lvZE6WHFNoffgEs_MNb3a].md",
+          "key": "luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/luoyonghaoscrossroads/"
     },
     "LureEnemyOutOfPosition": {
@@ -55473,9 +55816,9 @@
       "url": "/wiki/concepts/modelposttrainingbottleneck/"
     },
     "ModelSovereignty": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
@@ -55504,9 +55847,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming？ [41471230].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/modelsovereignty/"
     },
     "ModernPoliticalWritingPosture": {
@@ -59143,9 +59493,9 @@
       "url": "/wiki/entities/opencrawl/"
     },
     "OpenSourceAIBanRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists： Evictions = Violence？ [42209480].md",
@@ -59153,9 +59503,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming？ [41471230].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/opensourceaibanrisk/"
     },
     "OpenSourceCommunityCommercialization": {
@@ -62778,6 +63135,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/poolside/"
     },
+    "PopeLeoXIV": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming？ [41471230].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/popeleoxiv/"
+    },
     "Popeyes": {
       "episode_count": 1,
       "show_count": 1,
@@ -65060,10 +65433,26 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/publicexerciseemergencypreparedness/"
     },
-    "PublicRefusalStatusInflation": {
-      "episode_count": 2,
+    "PublicExpressionAgainstTrolls": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt9hwq-lvZE6WHFNoffgEs_MNb3a [lt9hwq-lvZE6WHFNoffgEs_MNb3a].md",
+          "key": "luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/publicexpressionagainsttrolls/"
+    },
+    "PublicRefusalStatusInflation": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？ [lpAvIclTc7NducBxiqGPR6T7Iczd].md",
@@ -65078,6 +65467,20 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》620丨史上最传奇的“全民大选”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-620-shishang-zui-chuanqi-de-quanmin-daxuan-llijvsut0ldv-ugfa281sllst4gu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事 [lhz58Yc4bqN2PQFA1f21hbsitEQL].md",
+          "key": "zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》608丨揭秘西汉奥斯卡最佳“演员”：王莽 [llWfchwpkmuesz0NMDR48qpuwCjk].md",
+          "key": "zizhi-tongjian-hanji-608-jiemi-xihan-aosika-zuijia-yanyuan-wangmang-llwfchwpkmuesz0nmdr48qpuwcjk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》608丨揭秘西汉奥斯卡最佳“演员”：王莽",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-608-jiemi-xihan-aosika-zuijia-yanyuan-wangmang-llwfchwpkmuesz0nmdr48qpuwcjk/"
         }
       ],
       "updated": "2026-09-10",
@@ -67370,6 +67773,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/remigrationpolitics/"
+    },
+    "RemoteTributePrestigeTheater": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争 [lplZ8F3WG1P0m5Kmlh-w32JwnlZq].md",
+          "key": "zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/remotetributeprestigetheater/"
     },
     "RenFangLateHan": {
       "episode_count": 1,
@@ -70741,6 +71160,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/screenexitcreativepractice/"
     },
+    "ScriptedCandorTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争 [lplZ8F3WG1P0m5Kmlh-w32JwnlZq].md",
+          "key": "zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/scriptedcandortrap/"
+    },
     "ScyllaAndCharybdis": {
       "episode_count": 1,
       "show_count": 1,
@@ -72194,9 +72629,9 @@
       "url": "/wiki/entities/shengdongjixi/"
     },
     "ShentuGangEasternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》698丨王朝兴衰启示录：韦敖的遗憾与今朝之镜 [lqim2hBJtDzB0wWMsaxCyZj7U8FF].md",
@@ -72204,9 +72639,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》698丨王朝兴衰启示录：韦敖的遗憾与今朝之镜",
           "url": "/wiki/sources/zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争 [lplZ8F3WG1P0m5Kmlh-w32JwnlZq].md",
+          "key": "zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/shentugangeasternhan/"
     },
     "ShentuPanLateHan": {
@@ -73477,6 +73919,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/smartvehiclelivingspace/"
+    },
+    "Smartisan": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 ｜ 中国互联网故事24 [1000932027].md",
+          "key": "no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 | 中国互联网故事24",
+          "url": "/wiki/sources/no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027/"
+        },
+        {
+          "episode_file": "lt9hwq-lvZE6WHFNoffgEs_MNb3a [lt9hwq-lvZE6WHFNoffgEs_MNb3a].md",
+          "key": "luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/smartisan/"
     },
     "SnobberyAsValueRanking": {
       "episode_count": 1,
@@ -76342,6 +76807,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/summitastransformation/"
     },
+    "SunBaoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》611丨历史无名的孙宝，有多爷们？ [lhlC5v3NdnIVv9j_cB9w65v4xutw].md",
+          "key": "zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》611丨历史无名的孙宝，有多爷们？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/sunbaowesternhan/"
+    },
     "SunBenLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -76814,9 +77295,9 @@
       "url": "/wiki/entities/sunshoulatehan/"
     },
     "SunShuhengStandup": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ln6Gnhmsx1xo3p2N8z2pOWcIqnur [ln6Gnhmsx1xo3p2N8z2pOWcIqnur].md",
@@ -76824,9 +77305,16 @@
           "show": "罗永浩的十字路口",
           "title": "罗永浩的X字路口！如果可以，你会删除伴侣出轨的记忆吗？",
           "url": "/wiki/sources/ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur/"
+        },
+        {
+          "episode_file": "lt9hwq-lvZE6WHFNoffgEs_MNb3a [lt9hwq-lvZE6WHFNoffgEs_MNb3a].md",
+          "key": "luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/sunshuhengstandup/"
     },
     "SunSongLateHan": {
@@ -78078,6 +78566,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/tangzunxinofficial/"
+    },
+    "TangdouRuoqiangKing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕 [lgFzC3yPqizdDsmD6MvAaSb1Dxsd].md",
+          "key": "zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/tangdouruoqiangking/"
     },
     "TanshihuaiXianbei": {
       "episode_count": 5,
@@ -83787,9 +84291,9 @@
       "url": "/wiki/entities/wanglingxinprince/"
     },
     "WangMang": {
-      "episode_count": 26,
+      "episode_count": 30,
       "show_count": 2,
-      "source_note_count": 26,
+      "source_note_count": 30,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -83972,6 +84476,34 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》618丨王莽为何是夺权的头号玩家？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事 [lhz58Yc4bqN2PQFA1f21hbsitEQL].md",
+          "key": "zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕 [lgFzC3yPqizdDsmD6MvAaSb1Dxsd].md",
+          "key": "zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！ [llGHWPFE5C0cK91VKLDmfdjowmqi].md",
+          "key": "zizhi-tongjian-hanji-612-jiemi-gudai-yingxiao-daka-wangmang-llghwpfe5c0ck91vkldmfdjowmqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-612-jiemi-gudai-yingxiao-daka-wangmang-llghwpfe5c0ck91vkldmfdjowmqi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》607丨揭秘王莽的权力博弈 [lgNxG-ZLf5gowjbIRAZpijVykS78].md",
+          "key": "zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》607丨揭秘王莽的权力博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78/"
         }
       ],
       "updated": "2026-09-10",
@@ -84380,9 +84912,9 @@
       "url": "/wiki/entities/wangyuanweixiaoretainer/"
     },
     "WangZhengjun": {
-      "episode_count": 9,
+      "episode_count": 12,
       "show_count": 2,
-      "source_note_count": 9,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -84446,6 +84978,27 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事 [lhz58Yc4bqN2PQFA1f21hbsitEQL].md",
+          "key": "zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！ [llGHWPFE5C0cK91VKLDmfdjowmqi].md",
+          "key": "zizhi-tongjian-hanji-612-jiemi-gudai-yingxiao-daka-wangmang-llghwpfe5c0ck91vkldmfdjowmqi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-612-jiemi-gudai-yingxiao-daka-wangmang-llghwpfe5c0ck91vkldmfdjowmqi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》607丨揭秘王莽的权力博弈 [lgNxG-ZLf5gowjbIRAZpijVykS78].md",
+          "key": "zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》607丨揭秘王莽的权力博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78/"
         }
       ],
       "updated": "2026-09-10",
@@ -87387,6 +87940,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/xiaohuozinittanwuyu/"
     },
+    "XiaoKuaiStandup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lt9hwq-lvZE6WHFNoffgEs_MNb3a [lt9hwq-lvZE6WHFNoffgEs_MNb3a].md",
+          "key": "luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a",
+          "show": "罗永浩的十字路口",
+          "title": "罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定",
+          "url": "/wiki/sources/luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/xiaokuaistandup/"
+    },
     "XiaoMeiGeneEditingCase": {
       "episode_count": 1,
       "show_count": 1,
@@ -87924,9 +88493,9 @@
       "url": "/wiki/entities/xinyelatehan/"
     },
     "Xiongnu": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -88039,9 +88608,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》741丨为什么古代匈奴总要入侵中原？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕 [lgFzC3yPqizdDsmD6MvAaSb1Dxsd].md",
+          "key": "zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/xiongnu/"
     },
     "XiuliChanyu": {
@@ -93234,6 +93810,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/zhenfengxinofficial/"
     },
+    "ZhenHanXinOfficial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》611丨历史无名的孙宝，有多爷们？ [lhlC5v3NdnIVv9j_cB9w65v4xutw].md",
+          "key": "zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》611丨历史无名的孙宝，有多爷们？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/zhenhanxinofficial/"
+    },
     "ZhenXunXinOfficial": {
       "episode_count": 1,
       "show_count": 1,
@@ -93932,6 +94524,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhoufulatehan/"
+    },
+    "ZhouGong": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》49丨孟子曰：我教你治国 你却把我当花瓶 [lhy14PbF9ThcfdIAulCmf8DWcEF8].md",
+          "key": "zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》49丨孟子曰：我教你治国 你却把我当花瓶",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》607丨揭秘王莽的权力博弈 [lgNxG-ZLf5gowjbIRAZpijVykS78].md",
+          "key": "zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》607丨揭秘王莽的权力博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/zhougong/"
     },
     "ZhouGuangLateHan": {
       "episode_count": 3,

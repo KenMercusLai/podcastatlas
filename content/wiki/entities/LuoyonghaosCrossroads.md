@@ -11,14 +11,15 @@ sources:
   - luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos
   - lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg
   - ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur
-last_updated: 2026-09-09
+  - luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a
+last_updated: 2026-09-10
 knowledge_schema: synthesis-v1
 ---
 
 # 罗永浩的十字路口 / Luo Yonghao's Crossroads
 
 ## Overview
-罗永浩的十字路口 / Luo Yonghao's Crossroads is represented as a long-form show hosted by [[LuoYonghao|罗永浩]], currently covering creator craft through [[ShougongGeng|手工耿]], engineering-led EV entrepreneurship through [[ZhuJiangming|朱江明]] and [[Leapmotor|零跑汽车]], comedy-panel social theory through [[XiaoQiStandup|小齐]], [[ZhangJunStandup|张俊]], and [[ShiLifen|史礼芬]], live comedy money and snobbery talk through [[SixiaoComedy|四孝喜剧]], and Hong Kong film industry memory through [[WongJing|王晶]].
+罗永浩的十字路口 / Luo Yonghao's Crossroads is represented as a long-form show hosted by [[LuoYonghao|罗永浩]], currently covering creator craft through [[ShougongGeng|手工耿]], engineering-led EV entrepreneurship through [[ZhuJiangming|朱江明]] and [[Leapmotor|零跑汽车]], comedy-panel social theory through [[XiaoQiStandup|小齐]], [[ZhangJunStandup|张俊]], and [[ShiLifen|史礼芬]], live comedy money, snobbery, relationship, and emotional-stability talk through recurring panel formats, and Hong Kong film industry memory through [[WongJing|王晶]].
 
 ## Current Profile
 Across the current sources, the show works by turning biography, work practice, and public persona into analyzable operating logic. In the 手工耿 episode, Luo uses product, craft, utility, comedy, and art language to clarify why a handmade object can be funny and serious at the same time. In the Zhu Jiangming episode, the same long-form style follows an engineering founder from electronics and Dahua into Leapmotor, using concrete product mistakes, capital pressure, manufacturing choices, and globalization structure to explain why a low-profile automaker can become commercially visible.
@@ -33,6 +34,8 @@ The flaw-themed panel adds a public-persona and mental-health-label mode. [[lir8
 
 The relationship-technology panel adds an explicit counterfactual ethics mode. [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]] uses AI-generated questions about loyalty drugs, perfect AI partners, pain-sharing, infidelity-memory deletion, and 100% compatibility to turn intimate decisions into public value sorting around [[RelationshipTechnologyEthics]], [[AICompanionAuthenticityBoundary]], and [[MemoryDeletionEthics]].
 
+The emotional-stability panel adds an argument-and-public-expression mode. [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]] uses red/green stance-taking, constant interruption, and self-mocking format commentary to turn adult composure, online trolls, blocking, creator misreading, road rage, and dissent contact into analyzable public behavior.
+
 The show also has a film-history mode. Luo's questioning lets [[WongJing|王晶]] move from childhood reading and TVB writing discipline into [[HongKongFilmIndustry]], [[CommercialFilmAudienceLogic]], Taiwan-market dependence, gang pressure, piracy, northbound production, and the [[ActorAIPerformanceBoundary|actor and AI performance boundary]].
 
 ## Key Characteristics
@@ -41,8 +44,8 @@ The show also has a film-history mode. Luo's questioning lets [[WongJing|王晶]
 - Product-minded questioning about materials, pricing, reliability, technical systems, commercialization, channels, and customer fit.
 - Culture-facing format that can move between craft/art interpretation, industrial-company strategy, comedic social analysis, and film-industry oral history.
 - Live-panel format can use jokes, ads, audience interaction, mutual teasing, and persona contrast to make sensitive money, status, and moral topics discussable.
-- Public-persona format that can turn flaws, diagnoses, visible appearance anxieties, and review pressure into social analysis without becoming formal clinical guidance.
-- Counterfactual ethics format that can use speculative technology to test relationship agency, authenticity, memory, pain, and commitment.
+- Public-persona and counterfactual ethics format that can turn flaws, diagnoses, visible anxieties, review pressure, and speculative technology into social analysis without becoming formal clinical or relationship guidance.
+- Emotional-stability format that uses live disagreement to test public expression, online hygiene, conflict retreat, and the line between maturity and social pressure.
 
 ## Evidence
 - Long-form creator interview: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] follows 手工耿 from childhood and manual work into self-media, business choices, tool use, safety incidents, and public evaluation.
@@ -54,18 +57,19 @@ The show also has a film-history mode. Luo's questioning lets [[WongJing|王晶]
 - Snobbery panel: [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]] uses Kuaige, Hulan, Wang Jiye, Xuanzong, and Luo's examples to discuss selective social investment, ethical triage, power boundaries, crisis communication, diamonds, Valentine's Day, and luxury signaling.
 - Flaw-themed panel: [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]] uses baldness, ADHD, compulsive order, public reviews, online backlash, and live-show preparation to discuss [[LiveHumanFeeling|活人感]] and the boundary between memorable imperfection and real harm.
 - Relationship-technology panel: [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]] uses speculative intimacy tools to discuss fidelity, perfect AI partners, shared pain, deleted betrayal memory, compatibility scoring, and "义气."
+- Emotional-stability panel: [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]] uses stance cards, argument, creator stories, road-conflict anecdotes, and closing self-definition to examine adult composure, online expression, and the companionship function of a long live podcast.
 - Film-industry oral history: [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]] uses Wang Jing's career to discuss TVB, Shaw Brothers, Win's Entertainment, Taiwan demand, gang pressure, piracy, and AI-era film work.
-- Source scope: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]], [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]], [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]], [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]], and [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]] supply seven episodes and do not define the whole program catalog.
+- Source scope: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]], [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]], [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]], [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]], [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]], [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]], and [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]] supply nine episodes and do not define the whole program catalog.
 
 ## Qualifications
-This page should not infer the show's full editorial mission, release cadence, audience, or business model from eight episodes. The current evidence may overrepresent Luo's interest in product, craft, founder operating details, comedy-panel social analysis, money talk, moral dilemmas, relationship hypotheticals, consumption, and Hong Kong film history.
+This page should not infer the show's full editorial mission, release cadence, audience, or business model from nine episodes. The current evidence may overrepresent Luo's interest in product, craft, founder operating details, comedy-panel social analysis, money talk, moral dilemmas, relationship hypotheticals, emotional stability, online expression, consumption, and Hong Kong film history.
 
 ## What Changed
 - Added the Sixiao Comedy live-panel episode as evidence that the show can use comedy format to discuss borrowing, debt, and money shame.
 - Expanded the show profile from product/craft/founder interviewing and status analysis into relationship-money discussion.
 - Added the Wang Jing interview as evidence that the show can use long-form biography to build entertainment-industry oral history.
 - Added the "势利" and flaw-themed live panels as evidence that the show can use comedy to handle moral, workplace, consumption, diagnosis-label, appearance, family-pressure, and creator-review questions.
-- Added the relationship-technology live panel as evidence that the show can use speculative intimacy questions for ethical debate.
+- Added the emotional-stability live panel as evidence that the show can turn argument, trolling, blocking, and conflict retreat into public social analysis.
 
 ## Relationships
 - [[LuoYonghao]] - host and framing interviewer in the source.
@@ -86,5 +90,7 @@ This page should not infer the show's full editorial mission, release cadence, a
 - [[ADHDSelfDiagnosisBoundary]], [[OCDOrderPressure]], [[CreatorReviewResponseBoundary]], and [[LiveHumanFeeling]] - recurring analytic threads in the flaw-themed live conversation.
 - [[LiuHongweiStandup|刘宏伟]], [[SunShuhengStandup|孙舒恒]], [[WangJiye|王继业 / 王季叶]], and [[XuanZongStandup|选总]] - participant voices in the relationship-technology episode.
 - [[RelationshipTechnologyEthics]], [[SharedPainTechnologyBoundary]], [[MemoryDeletionEthics]], and [[AlgorithmicRomanticCompatibility]] - recurring analytic threads in the relationship-technology conversation.
+- [[GaoHanStandup|高涵]], [[XiaoKuaiStandup|小块]], [[SunShuhengStandup|孙舒恒]], and [[WangJiye|季夜]] - participant voices in the emotional-stability conversation.
+- [[EmotionalStabilityAsSocialNorm]], [[PublicExpressionAgainstTrolls]], [[BlockAndDissentHygiene]], and [[HappinessBasedDeescalation]] - recurring analytic threads in the emotional-stability conversation.
 - [[HongKongFilmIndustry]] - recurring analytic thread in the Wang Jing conversation.
 - [[CreatorCulture]] - adjacent wiki theme around creators as value-producing subjects.

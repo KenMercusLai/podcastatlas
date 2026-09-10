@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2623
+topic_total_pages: 2625
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6386,6 +6386,9 @@ topic_entities:
   - key: "XiaoSiFarewellMyConcubine"
     title: "小四 / Xiao Si"
     url: "/wiki/entities/xiaosifarewellmyconcubine/"
+  - key: "XiaoKuaiStandup"
+    title: "小块 / Xiao Kuai"
+    url: "/wiki/entities/xiaokuaistandup/"
   - key: "Xiaoyuzhou"
     title: "小宇宙"
     url: "/wiki/entities/xiaoyuzhou/"
@@ -7055,6 +7058,9 @@ topic_entities:
   - key: "GaoErji"
     title: "高尔基 / Gao Erji"
     url: "/wiki/entities/gaoerji/"
+  - key: "GaoHanStandup"
+    title: "高涵 / Gao Han"
+    url: "/wiki/entities/gaohanstandup/"
   - key: "WeiZhaoyang"
     title: "魏昭阳 / Wei Zhaoyang"
     url: "/wiki/entities/weizhaoyang/"

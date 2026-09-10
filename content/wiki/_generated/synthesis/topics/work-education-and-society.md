@@ -3,18 +3,30 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-09-09
-as_of_overview_commit: 40042440c0dd2ddfc9bd85ea421517ca2bcb5788
-input_digest: 753bedd13f72f0b7f70177a9d43422f562b481ac9d6481250f8722eaf6d2b2bd
+last_updated: 2026-09-10
+as_of_overview_commit: 8a49c0cec8428a8a0074c2321544c3b16f81789f
+input_digest: ad7eccc5ab14955ddb4957321f987a0cd1f09502720b896edf84ad9a8466acab
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-The Hong Kong football source adds a work-and-society case in which early professional sport remained partly semi-professional: paid players, signing fees, club wages, stable jobs arranged by corporate teams, and owner-control preferences all shaped labor and institutional identity. The broader topic continues to synthesize how work, education, care, creator labor, travel, and social institutions depend on practical routines, trust, incentives, and human judgment rather than formal labels alone. The Tong Li episode enters this topic only as a source-scoped public-education case: sex education is framed as life-course learning that needs safety, consent, law, relationship context, and age-appropriate boundaries rather than a fixed school-only information transfer. The SanWuHuan e-bike source adds a narrow founder-work case: investment knowledge changes when exposed to operator responsibility, overseas trust-building, team capability, service burden, and AI-native workflow redesign. Hanji 658 contributes a coercive-labor edge: monetary enforcement and collective punishment split households and convert ordinary people into forced service during late-Xin collapse. EP86 adds a work-and-learning workflow branch: task management, career bottlenecks, upward decisions, learning time, and creator production are framed as systems that need process diagnosis, WIP limits, slack, review, and feedback loops. The Luo Yonghao/Sixiao Comedy snobbery panel adds a work-and-society branch where limited attention, institutional slots, workplace hierarchy, and small-team management turn status judgment into practical but morally costly triage. The newer flaw-themed Luo Yonghao/Sixiao Comedy panel adds a source-scoped creator-work case where visible flaws can generate audience connection, while lateness, show preparation, public reviews, backlash, and rebuttal need responsibility and safety boundaries.
+Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, and human judgment rather than labels alone. Recent additions span creator work, sex education, football academies, historical hierarchy analogies, consumer-health literacy, sleep and hearing boundaries, and Luo Yonghao panel formats where status, flaws, emotional stability, blocking, dissent exposure, and public expression become social behavior problems.
 
 ## Cross-source Findings
+
+### Luo Panel Emotional Stability And Public Expression Are Social Behavior Tools
+
+[[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]] adds a live-panel work-and-society case where [[EmotionalStabilityAsSocialNorm]], [[PublicExpressionAgainstTrolls]], [[BlockAndDissentHygiene]], and [[HappinessBasedDeescalation]] frame adult composure, blocking, dissent exposure, creator misreading, and conflict retreat as public behavior tools rather than private temperament alone.
+
+**Evidence:** [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]], [[EmotionalStabilityAsSocialNorm]], [[PublicExpressionAgainstTrolls]], [[BlockAndDissentHygiene]], [[HappinessBasedDeescalation]], [[LuoYonghao]], [[LuoyonghaosCrossroads]], [[GaoHanStandup]], [[XiaoKuaiStandup]], [[SunShuhengStandup]], [[Smartisan]], [[CreatorReviewResponseBoundary]]
+
+**Qualifications:**
+
+- This is a comedy-panel and public-expression claim, not clinical, legal, workplace, or conflict-safety advice.
+- Guest biographies, personality labels, road-conflict stories, Trump jokes, and Smartisan stakeholder judgments remain source-scoped.
+- The source presents expression, blocking, dissent exposure, and retreat as contested tactics rather than a settled universal method.
 
 ### Creator Transition Links Media Work And Self Regulation
 

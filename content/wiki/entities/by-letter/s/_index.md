@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9522
+wiki_total_pages: 9531
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1766,6 +1766,9 @@ wiki_pages:
   - key: "SunFenFufengLateHan"
     title: "孙奋 / Sun Fen (Fufeng, late Han)"
     url: "/wiki/entities/sunfenfufenglatehan/"
+  - key: "SunBaoWesternHan"
+    title: "孙宝 / Sun Bao (Western Han)"
+    url: "/wiki/entities/sunbaowesternhan/"
   - key: "SunShouLateHan"
     title: "孙寿 / Sun Shou (late Han)"
     url: "/wiki/entities/sunshoulatehan/"
@@ -2058,7 +2061,7 @@ wiki_pages:
     title: "申不害 / Shen Buhai"
     url: "/wiki/entities/shenbuhai/"
   - key: "ShentuGangEasternHan"
-    title: "申屠刚 / Shentu Gang (Eastern Han)"
+    title: "申屠刚 / Shentu Gang"
     url: "/wiki/entities/shentugangeasternhan/"
   - key: "ShentuPanLateHan"
     title: "申屠蟠 / Shentu Pan (late Han)"

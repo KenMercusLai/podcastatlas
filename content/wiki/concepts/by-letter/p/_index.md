@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6897
+wiki_total_pages: 6908
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1625,6 +1625,9 @@ wiki_pages:
   - key: "PublicExerciseEmergencyPreparedness"
     title: "Public Exercise Emergency Preparedness / 公共运动急救准备"
     url: "/wiki/concepts/publicexerciseemergencypreparedness/"
+  - key: "PublicExpressionAgainstTrolls"
+    title: "Public Expression Against Trolls / 面对喷子的公共表达"
+    url: "/wiki/concepts/publicexpressionagainsttrolls/"
   - key: "PublicFundraisingPitch"
     title: "Public Fundraising Pitch"
     url: "/wiki/concepts/publicfundraisingpitch/"

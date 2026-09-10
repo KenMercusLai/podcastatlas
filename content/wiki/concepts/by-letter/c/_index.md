@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6897
+wiki_total_pages: 6908
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -2135,6 +2135,9 @@ wiki_pages:
   - key: "ClothCladAngerPersuasion"
     title: "布衣之怒 / Cloth-Clad Anger Persuasion"
     url: "/wiki/concepts/clothcladangerpersuasion/"
+  - key: "CoerciveFrontierDeterrence"
+    title: "强制边疆震慑 / Coercive Frontier Deterrence"
+    url: "/wiki/concepts/coercivefrontierdeterrence/"
   - key: "CoerciveFrontierRelocationBackfire"
     title: "强迁避敌反噬 / Coercive Frontier Relocation Backfire"
     url: "/wiki/concepts/coercivefrontierrelocationbackfire/"
@@ -2171,12 +2174,18 @@ wiki_pages:
   - key: "CupWineDisarmsGenerals"
     title: "杯酒释兵权 / Cup of Wine Disarms Generals"
     url: "/wiki/concepts/cupwinedisarmsgenerals/"
+  - key: "CaseExpansionPoliticalPurge"
+    title: "案件扩大化政治清洗 / Case-Expansion Political Purge"
+    url: "/wiki/concepts/caseexpansionpoliticalpurge/"
   - key: "CoercedNormality"
     title: "正常性强制 / Coerced Normality"
     url: "/wiki/concepts/coercednormality/"
   - key: "CleanOfficialCapacityGap"
     title: "清官能吏能力差 / Clean Official Capacity Gap"
     url: "/wiki/concepts/cleanofficialcapacitygap/"
+  - key: "ClassicsBasedNamingGovernance"
+    title: "经典据依式改名治理 / Classics-Based Naming Governance"
+    url: "/wiki/concepts/classicsbasednaminggovernance/"
   - key: "ClassicalExaminationOrthodoxy"
     title: "经学考试正统化 / Classical Examination Orthodoxy"
     url: "/wiki/concepts/classicalexaminationorthodoxy/"

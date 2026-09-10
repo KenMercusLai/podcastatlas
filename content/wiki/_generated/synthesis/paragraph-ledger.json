@@ -601,12 +601,13 @@
       "47f00b5a6071894a52decccac47bb644170058bfe2e6c4ee40872a73dd9fddea",
       "2329e7eab06651d12277d1121e2f6f787bf502e9b853ce051ac66f1a6ecc7b80",
       "08ce087b5036dedcaf145e2c88ca51ea2070e265e9815cfe93ea1755ee057d3f",
-      "6701e8b392caf729c79e1e660e6d138d48a06b0d176497dfeb0b07df834cfc04"
+      "6701e8b392caf729c79e1e660e6d138d48a06b0d176497dfeb0b07df834cfc04",
+      "ae2b2aa1219b37e57e08c07521a2eaf527f4687c5e1328c22e1cc20820886799"
     ],
-    "paragraph_count": 601
+    "paragraph_count": 602
   },
-  "overview_commit": "6b2cea34ef70e4c0689d437749ecf156b10de70d",
-  "overview_digest": "bfd3a207a0ddff6a56efc59a8eca17a88d81f8dbb5a682559ec350eda6a75b8c",
+  "overview_commit": "07799dc6f6cb446ac56589b144604dc1403d4130",
+  "overview_digest": "1a87d2116ea62d33a29aed7d896740a68262538880774aed54342680d89a5008",
   "paragraphs": [
     {
       "id": "bdae292c892008ecc50154b7bc182e1b7cb90407dce00c4401dda9ba0ca99f0c",
@@ -18438,6 +18439,33 @@
         "ZheBingShuoLaiHuaChang",
         "ZhuTengjiao",
         "vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy"
+      ]
+    },
+    {
+      "id": "ae2b2aa1219b37e57e08c07521a2eaf527f4687c5e1328c22e1cc20820886799",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a|罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定]], a [[LuoyonghaosCrossroads|罗永浩的十字路口]] live panel with [[LuoYonghao|罗永浩]], [[GaoHanStandup|高涵]], [[XiaoKuaiStandup|小块]], [[SunShuhengStandup|孙舒恒]], and [[WangJiye|季夜]] on adult emotional stability, trolling, blocking, creator misreading, conflict retreat, and public expression. It adds [[GaoHanStandup]], [[XiaoKuaiStandup]], [[EmotionalStabilityAsSocialNorm]], [[PublicExpressionAgainstTrolls]], [[BlockAndDissentHygiene]], and [[HappinessBasedDeescalation]], while extending [[LuoYonghao]], [[LuoyonghaosCrossroads]], [[SunShuhengStandup]], [[Smartisan]], and [[CreatorReviewResponseBoundary]]. Its core synthesis is that emotional stability is not a single state: inner fluctuation, outward composure, scene discipline, blocking, retaliation, withdrawal, and continued public expression are different tactics whose value depends on cost, safety, public visibility, and whether managed feeds become information cocoons. No settled contradiction is recorded; guest biographies, personality labels, road-conflict stories, Trump jokes, and Smartisan stakeholder judgments remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "BlockAndDissentHygiene",
+        "CreatorReviewResponseBoundary",
+        "EmotionalStabilityAsSocialNorm",
+        "GaoHanStandup",
+        "HappinessBasedDeescalation",
+        "LuoYonghao",
+        "LuoyonghaosCrossroads",
+        "PublicExpressionAgainstTrolls",
+        "Smartisan",
+        "SunShuhengStandup",
+        "WangJiye",
+        "XiaoKuaiStandup",
+        "luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a"
       ]
     }
   ],

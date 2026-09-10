@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2863
+topic_total_pages: 2866
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -877,6 +877,9 @@ topic_concepts:
   - key: "AIVoiceCloningRights"
     title: "AI Voice Cloning Rights"
     url: "/wiki/concepts/aivoicecloningrights/"
+  - key: "AIWashingLayoffAttribution"
+    title: "AI Washing Layoff Attribution"
+    url: "/wiki/concepts/aiwashinglayoffattribution/"
   - key: "AIWealthHousingScarcity"
     title: "AI Wealth Housing Scarcity"
     url: "/wiki/concepts/aiwealthhousingscarcity/"
@@ -6050,6 +6053,9 @@ topic_entities:
   - key: "Poolside"
     title: "Poolside"
     url: "/wiki/entities/poolside/"
+  - key: "PopeLeoXIV"
+    title: "Pope Leo XIV"
+    url: "/wiki/entities/popeleoxiv/"
   - key: "PradmeshPatil"
     title: "Pradmesh Patil"
     url: "/wiki/entities/pradmeshpatil/"
@@ -7602,6 +7608,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555"
     title: "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230"
+    title: "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275"
     title: "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"

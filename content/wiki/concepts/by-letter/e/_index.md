@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6897
+wiki_total_pages: 6908
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -359,6 +359,9 @@ wiki_pages:
   - key: "EmotionalServicePlatformIncentives"
     title: "Emotional Service Platform Incentives / 情绪服务平台激励"
     url: "/wiki/concepts/emotionalserviceplatformincentives/"
+  - key: "EmotionalStabilityAsSocialNorm"
+    title: "Emotional Stability As Social Norm / 情绪稳定作为社会规范"
+    url: "/wiki/concepts/emotionalstabilityassocialnorm/"
   - key: "EmotionalValueCommodification"
     title: "Emotional Value Commodification / 情绪价值商品化"
     url: "/wiki/concepts/emotionalvaluecommodification/"

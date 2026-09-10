@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1660
+topic_total_pages: 1663
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2552,6 +2552,9 @@ topic_entities:
   - key: "KongXi"
     title: "孔熙 / Kong Xi"
     url: "/wiki/entities/kongxi/"
+  - key: "SunBaoWesternHan"
+    title: "孙宝 / Sun Bao (Western Han)"
+    url: "/wiki/entities/sunbaowesternhan/"
   - key: "SunShengEasternJin"
     title: "孙胜 / Sun Sheng (Eastern Jin)"
     url: "/wiki/entities/sunshengeasternjin/"
@@ -3149,6 +3152,9 @@ topic_entities:
   - key: "ZhenXunXinOfficial"
     title: "甄寻 / Zhen Xun (Xin official)"
     url: "/wiki/entities/zhenxunxinofficial/"
+  - key: "ZhenHanXinOfficial"
+    title: "甄邯 / Zhen Han"
+    url: "/wiki/entities/zhenhanxinofficial/"
   - key: "GanGong"
     title: "甘公 / Gan Gong"
     url: "/wiki/entities/gangong/"
@@ -3666,7 +3672,7 @@ topic_entities:
     title: "陈县 / Chen County (Chu-Han)"
     url: "/wiki/entities/chencountychuhan/"
   - key: "ChenChongXinOfficial"
-    title: "陈崇 / Chen Chong (Xin official)"
+    title: "陈崇 / Chen Chong (Wang Mang-era official)"
     url: "/wiki/entities/chenchongxinofficial/"
   - key: "ChenPing"
     title: "陈平 / Chen Ping"
@@ -3710,6 +3716,9 @@ topic_entities:
   - key: "LeifengPagoda"
     title: "雷峰塔 / Leifeng Pagoda"
     url: "/wiki/entities/leifengpagoda/"
+  - key: "JingwuPrincessWesternHan"
+    title: "靖武公主 / Jingwu Princess (Western Han)"
+    url: "/wiki/entities/jingwuprincesswesternhan/"
   - key: "HanXin"
     title: "韩信 / Han Xin"
     url: "/wiki/entities/hanxin/"

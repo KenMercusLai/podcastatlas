@@ -2731,6 +2731,10 @@
     "title": "AI Voice Cloning Rights",
     "url": "/wiki/concepts/aivoicecloningrights/"
   },
+  "AIWashingLayoffAttribution": {
+    "title": "AI Washing Layoff Attribution",
+    "url": "/wiki/concepts/aiwashinglayoffattribution/"
+  },
   "AIWealthHousingScarcity": {
     "title": "AI Wealth Housing Scarcity",
     "url": "/wiki/concepts/aiwealthhousingscarcity/"
@@ -8095,6 +8099,10 @@
     "title": "Blindness-Memory Art Ideal",
     "url": "/wiki/concepts/blindnessmemoryartideal/"
   },
+  "BlockAndDissentHygiene": {
+    "title": "Block And Dissent Hygiene / 拉黑与异见卫生",
+    "url": "/wiki/concepts/blockanddissenthygiene/"
+  },
   "BlockInc": {
     "title": "Block Inc.",
     "url": "/wiki/entities/blockinc/"
@@ -10067,6 +10075,10 @@
     "title": "Cartier",
     "url": "/wiki/entities/cartier/"
   },
+  "CaseExpansionPoliticalPurge": {
+    "title": "案件扩大化政治清洗 / Case-Expansion Political Purge",
+    "url": "/wiki/concepts/caseexpansionpoliticalpurge/"
+  },
   "Casetext": {
     "title": "Casetext",
     "url": "/wiki/entities/casetext/"
@@ -10756,7 +10768,7 @@
     "url": "/wiki/entities/chenchonglatehan/"
   },
   "ChenChongXinOfficial": {
-    "title": "陈崇 / Chen Chong (Xin official)",
+    "title": "陈崇 / Chen Chong (Wang Mang-era official)",
     "url": "/wiki/entities/chenchongxinofficial/"
   },
   "ChenCihong": {
@@ -12307,6 +12319,10 @@
     "title": "Classical Prose Reading / 古文阅读",
     "url": "/wiki/concepts/classicalprosereading/"
   },
+  "ClassicsBasedNamingGovernance": {
+    "title": "经典据依式改名治理 / Classics-Based Naming Governance",
+    "url": "/wiki/concepts/classicsbasednaminggovernance/"
+  },
   "ClassroomMagazineCirculation": {
     "title": "Classroom Magazine Circulation / 班级杂志传阅",
     "url": "/wiki/concepts/classroommagazinecirculation/"
@@ -12630,6 +12646,10 @@
   "CoerciveCapitalRelocation": {
     "title": "Coercive Capital Relocation / 强制迁都",
     "url": "/wiki/concepts/coercivecapitalrelocation/"
+  },
+  "CoerciveFrontierDeterrence": {
+    "title": "强制边疆震慑 / Coercive Frontier Deterrence",
+    "url": "/wiki/concepts/coercivefrontierdeterrence/"
   },
   "CoerciveFrontierRelocationBackfire": {
     "title": "强迁避敌反噬 / Coercive Frontier Relocation Backfire",
@@ -18539,6 +18559,10 @@
     "title": "Emotional Service Platform Incentives / 情绪服务平台激励",
     "url": "/wiki/concepts/emotionalserviceplatformincentives/"
   },
+  "EmotionalStabilityAsSocialNorm": {
+    "title": "Emotional Stability As Social Norm / 情绪稳定作为社会规范",
+    "url": "/wiki/concepts/emotionalstabilityassocialnorm/"
+  },
   "EmotionalValueCommodification": {
     "title": "Emotional Value Commodification / 情绪价值商品化",
     "url": "/wiki/concepts/emotionalvaluecommodification/"
@@ -22867,6 +22891,10 @@
     "title": "高固",
     "url": "/wiki/entities/gaogu/"
   },
+  "GaoHanStandup": {
+    "title": "高涵 / Gao Han",
+    "url": "/wiki/entities/gaohanstandup/"
+  },
   "GaoHonghao": {
     "title": "Gao Honghao / 高宏昊",
     "url": "/wiki/entities/gaohonghao/"
@@ -24146,6 +24174,10 @@
   "GouBian": {
     "title": "苟变 / Gou Bian",
     "url": "/wiki/entities/goubian/"
+  },
+  "GougouCheshiKing": {
+    "title": "车师后王沽沟 / Gougou",
+    "url": "/wiki/entities/gougoucheshiking/"
   },
   "Goujian": {
     "title": "越王勾践 / King Goujian of Yue",
@@ -25570,6 +25602,10 @@
   "Happierleads": {
     "title": "Happierleads",
     "url": "/wiki/entities/happierleads/"
+  },
+  "HappinessBasedDeescalation": {
+    "title": "Happiness-Based De-escalation / 幸福者退让原则",
+    "url": "/wiki/concepts/happinessbaseddeescalation/"
   },
   "HappyFamilyOrganics": {
     "title": "Happy Family Organics",
@@ -27443,6 +27479,10 @@
     "title": "《荒野上的大师》",
     "url": "/wiki/entities/huangyeshangdedashi/"
   },
+  "HuangzhiKingdom": {
+    "title": "黄支国 / Huangzhi Kingdom",
+    "url": "/wiki/entities/huangzhikingdom/"
+  },
   "Huangzhou": {
     "title": "黄州 / Huangzhou",
     "url": "/wiki/entities/huangzhou/"
@@ -28142,6 +28182,10 @@
   "ImperialFiscalElasticity": {
     "title": "皇室财政弹性 / Imperial Fiscal Elasticity",
     "url": "/wiki/concepts/imperialfiscalelasticity/"
+  },
+  "ImperialFuneraryPreservation": {
+    "title": "帝王停灵防腐 / Imperial Funerary Preservation",
+    "url": "/wiki/concepts/imperialfunerarypreservation/"
   },
   "ImperialHomeCountyTaxExemption": {
     "title": "帝王故乡免租徭役 / Imperial Home-County Tax Exemption",
@@ -30706,6 +30750,10 @@
   "JingshenXixueguiBook": {
     "title": "《精神吸血鬼》",
     "url": "/wiki/entities/jingshenxixueguibook/"
+  },
+  "JingwuPrincessWesternHan": {
+    "title": "靖武公主 / Jingwu Princess (Western Han)",
+    "url": "/wiki/entities/jingwuprincesswesternhan/"
   },
   "JingxingPass": {
     "title": "井陉口 / Jingxing Pass",
@@ -44959,6 +45007,10 @@
     "title": "Pop Mart / 泡泡玛特",
     "url": "/wiki/entities/popmart/"
   },
+  "PopeLeoXIV": {
+    "title": "Pope Leo XIV",
+    "url": "/wiki/entities/popeleoxiv/"
+  },
   "PopeManufacturingCompany": {
     "title": "Pope Manufacturing Company",
     "url": "/wiki/entities/popemanufacturingcompany/"
@@ -46350,6 +46402,10 @@
   "PublicExerciseEmergencyPreparedness": {
     "title": "Public Exercise Emergency Preparedness / 公共运动急救准备",
     "url": "/wiki/concepts/publicexerciseemergencypreparedness/"
+  },
+  "PublicExpressionAgainstTrolls": {
+    "title": "Public Expression Against Trolls / 面对喷子的公共表达",
+    "url": "/wiki/concepts/publicexpressionagainsttrolls/"
   },
   "PublicFigureWorkplaceAdviceSatire": {
     "title": "Public-Figure Workplace Advice Satire",
@@ -48218,6 +48274,10 @@
   "RemoteReportingPresence": {
     "title": "Remote Reporting Presence / 远程采访现场感",
     "url": "/wiki/concepts/remotereportingpresence/"
+  },
+  "RemoteTributePrestigeTheater": {
+    "title": "远方朝贡威德表演 / Remote Tribute Prestige Theater",
+    "url": "/wiki/concepts/remotetributeprestigetheater/"
   },
   "RenDanHeYi": {
     "title": "人单合一 / RenDanHeYi",
@@ -50679,6 +50739,10 @@
     "title": "Script As Social History",
     "url": "/wiki/concepts/scriptassocialhistory/"
   },
+  "ScriptedCandorTrap": {
+    "title": "直言作秀陷阱 / Scripted Candor Trap",
+    "url": "/wiki/concepts/scriptedcandortrap/"
+  },
   "ScuderiaFerrari": {
     "title": "Scuderia Ferrari",
     "url": "/wiki/entities/scuderiaferrari/"
@@ -51756,7 +51820,7 @@
     "url": "/wiki/entities/shentinglingbattle/"
   },
   "ShentuGangEasternHan": {
-    "title": "申屠刚 / Shentu Gang (Eastern Han)",
+    "title": "申屠刚 / Shentu Gang",
     "url": "/wiki/entities/shentugangeasternhan/"
   },
   "ShentuPanLateHan": {
@@ -54959,6 +55023,10 @@
     "title": "Summit Therapeutics",
     "url": "/wiki/entities/summittherapeutics/"
   },
+  "SunBaoWesternHan": {
+    "title": "孙宝 / Sun Bao (Western Han)",
+    "url": "/wiki/entities/sunbaowesternhan/"
+  },
   "SunBenLateHan": {
     "title": "孙贲 / Sun Ben (late Han)",
     "url": "/wiki/entities/sunbenlatehan/"
@@ -55942,6 +56010,10 @@
   "TangZunXinOfficial": {
     "title": "Tang Zun / 唐尊 (Xin official)",
     "url": "/wiki/entities/tangzunxinofficial/"
+  },
+  "TangdouRuoqiangKing": {
+    "title": "若羌去胡来王唐斗 / Tangdou",
+    "url": "/wiki/entities/tangdouruoqiangking/"
   },
   "TangmuYi": {
     "title": "汤沐邑 / Tangmu Yi",
@@ -62719,6 +62791,10 @@
     "title": "小伙子 / Xiao Huozi",
     "url": "/wiki/entities/xiaohuozinittanwuyu/"
   },
+  "XiaoKuaiStandup": {
+    "title": "小块 / Xiao Kuai",
+    "url": "/wiki/entities/xiaokuaistandup/"
+  },
   "XiaoLei": {
     "title": "肖磊",
     "url": "/wiki/entities/xiaolei/"
@@ -66067,6 +66143,10 @@
     "title": "甄丰 / Zhen Feng (Xin official)",
     "url": "/wiki/entities/zhenfengxinofficial/"
   },
+  "ZhenHanXinOfficial": {
+    "title": "甄邯 / Zhen Han",
+    "url": "/wiki/entities/zhenhanxinofficial/"
+  },
   "ZhenQianjinTaShiXueba": {
     "title": "甄千金他是学霸 / Zhen Qianjin Ta Shi Xueba",
     "url": "/wiki/entities/zhenqianjintashixueba/"
@@ -67234,6 +67314,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555": {
     "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230": {
+    "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275": {
     "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
@@ -68882,6 +68966,10 @@
   "luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f": {
     "title": "罗永浩的X字路口！不借钱给朋友，就会失去朋友失去钱！",
     "url": "/wiki/sources/luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f/"
+  },
+  "luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a": {
+    "title": "罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定",
+    "url": "/wiki/sources/luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a/"
   },
   "luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos": {
     "title": "罗永浩的X字路口！我们能活到今天，多亏了祖传的势利眼",
@@ -71631,6 +71719,38 @@
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
   },
+  "zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78": {
+    "title": "《资治通鉴·汉纪》607丨揭秘王莽的权力博弈",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78/"
+  },
+  "zizhi-tongjian-hanji-608-jiemi-xihan-aosika-zuijia-yanyuan-wangmang-llwfchwpkmuesz0nmdr48qpuwcjk": {
+    "title": "《资治通鉴·汉纪》608丨揭秘西汉奥斯卡最佳“演员”：王莽",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-608-jiemi-xihan-aosika-zuijia-yanyuan-wangmang-llwfchwpkmuesz0nmdr48qpuwcjk/"
+  },
+  "zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq": {
+    "title": "《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq/"
+  },
+  "zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz": {
+    "title": "《资治通鉴·汉纪》610-2丨从一颗夜明珠到宫中神秘防腐法：古代皇帝驾崩后如何下葬？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz/"
+  },
+  "zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw": {
+    "title": "《资治通鉴·汉纪》611丨历史无名的孙宝，有多爷们？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw/"
+  },
+  "zizhi-tongjian-hanji-612-jiemi-gudai-yingxiao-daka-wangmang-llghwpfe5c0ck91vkldmfdjowmqi": {
+    "title": "《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-612-jiemi-gudai-yingxiao-daka-wangmang-llghwpfe5c0ck91vkldmfdjowmqi/"
+  },
+  "zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd": {
+    "title": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd/"
+  },
+  "zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql": {
+    "title": "《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql/"
+  },
   "zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo": {
     "title": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo/"
@@ -71638,6 +71758,10 @@
   "zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc": {
     "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",
     "url": "/wiki/sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc/"
+  },
+  "zizhi-tongjian-hanji-617-wangmang-dusha-gongzhu-lishi-shimo-lqvzejfm1sd8k0amporgi_mqhsrd": {
+    "title": "《资治通鉴·汉纪》617丨王莽毒杀公主历史始末",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-617-wangmang-dusha-gongzhu-lishi-shimo-lqvzejfm1sd8k0amporgi_mqhsrd/"
   },
   "zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq": {
     "title": "《资治通鉴·汉纪》618丨王莽为何是夺权的头号玩家？",

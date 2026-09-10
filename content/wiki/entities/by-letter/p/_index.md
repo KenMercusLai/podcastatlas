@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 9522
+wiki_total_pages: 9531
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -584,6 +584,9 @@ wiki_pages:
   - key: "PopMart"
     title: "Pop Mart / 泡泡玛特"
     url: "/wiki/entities/popmart/"
+  - key: "PopeLeoXIV"
+    title: "Pope Leo XIV"
+    url: "/wiki/entities/popeleoxiv/"
   - key: "PopeManufacturingCompany"
     title: "Pope Manufacturing Company"
     url: "/wiki/entities/popemanufacturingcompany/"

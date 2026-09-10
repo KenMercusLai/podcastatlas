@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6897
+wiki_total_pages: 6908
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -1007,6 +1007,9 @@ wiki_pages:
   - key: "RebelCoalitionSpoilsCrisis"
     title: "起义联军战利品危机 / Rebel Coalition Spoils Crisis"
     url: "/wiki/concepts/rebelcoalitionspoilscrisis/"
+  - key: "RemoteTributePrestigeTheater"
+    title: "远方朝贡威德表演 / Remote Tribute Prestige Theater"
+    url: "/wiki/concepts/remotetributeprestigetheater/"
   - key: "RankSaleDisasterFinance"
     title: "鬻爵赈灾融资 / Rank Sale Disaster Finance"
     url: "/wiki/concepts/ranksaledisasterfinance/"

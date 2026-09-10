@@ -6,6 +6,22 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》607丨揭秘王莽的权力博弈
+
+Ingested the 2026-05-28 芮淇讲透资治通鉴 episode backfilling 1 CE Wang Mang regency politics through Han Pingdi's child accession, Wang Zhengjun's formal regency, Wang Mang's control of court affairs and emperor-household appointments, Han Aidi's burial, and the staged Yuechang white-pheasant tribute. Added source `zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78`; updated `WangMang`, `WangZhengjun`, `HanPingdi`, `ZhouGong`, `AuspiciousOmenPolitics`, and `ClassicCitationLegitimationCapture`. No settled contradiction found; unnamed senior official identity, Yuechang geography, local instruction mechanics, ministerial coordination, and Wang Mang's inner motive remain source-scoped.
+
+## [2026-09-10] ingest | 《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争
+
+Ingested the 2026-05-28 芮淇讲透资治通鉴 short episode backfilling 1-2 CE Wang Mang regency politics through Shentu Gang's memorial for Han Pingdi's outer-relative protection, Wang Mang's punishment of unscripted candid advice, Confucian honor grants, female-prisoner release and agricultural exhortation, and Huangzhi's gift-backed rhinoceros tribute. Added source `zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq`; created `HuangzhiKingdom`, `ScriptedCandorTrap`, and `RemoteTributePrestigeTheater`; updated `ShentuGangEasternHan`, `index`, and `overview`. No settled contradiction found; Zhongshan Empress Dowager, Feng/Wei relatives, Lu and Kong descendant titles, Gushan-money mechanics, Huangzhi geography, and Wang Mang's inner motive remain source-scoped.
+
+## [2026-09-10] ingest | 罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定
+
+Added source note for the Luo Yonghao live panel on emotional stability, online contrarians, blocking, public expression, Smartisan's failure-versus-error distinction, and Xiao Kuai's happiness-based de-escalation. Key claims: adult stability separates inner feeling from outward composure; blocking and criticism search are competing online hygiene tactics; public expression can counter the visibility of hostile voices; and retreat in conflict remains contested between restraint, self-protection, and rationalized avoidance.
+
+## [2026-09-10] ingest | 《资治通鉴·汉纪》611丨历史无名的孙宝，有多爷们？
+
+Ingested the 2026-05-29 芮淇讲透资治通鉴 episode backfilling 2 CE Wang Mang praise politics through Sun Bao's public rejection of yellow-dragon celebration, his warning about depleted state resources and commoner hardship, Chen Chong's filial-duty impeachment, Sun Bao's dismissal and death, Pingdi's name change to Liu Kan, Wang Chong's fear-based exit, and Wang Mang's continued personnel and kinship-reward image building. Added source `zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw`; created `SunBaoWesternHan` and `ZhenHanXinOfficial`; updated `ChenChongXinOfficial`, `CoercedPraiseConformityRisk`, `index`, and `overview`. No settled contradiction found; yellow-dragon report details, Chen Chong's private motive, Sun Bao's family logistics, Wang Chong's prior career, royal appointments, and reward lists remain source-scoped.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》619丨“父母官”这个词是怎么来的？
 
 Added source note for the 2026-05-31 芮淇讲透资治通鉴 episode backfilling 3-4 CE under Han Pingdi. Key claims: Yan Xu's filial, restrained Yingchuan rule explains the "父母官" local-office ideal; He Bing's harsh succession confirms the people's exposure to appointment fit; the 4 CE court notices add ritual sacrifices, title recoding, detention protections for women, elders, and children, Wang Mang's daughter entering the palace, and the next Wang Mang political-performance setup.
@@ -16701,9 +16717,29 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》608丨揭秘西汉奥斯卡最佳“演员”：王莽
+
+Added source note for the 1 CE Wang Mang reward-refusal episode. Key claims: Wang Mang asks that Kong Guang, Wang Shun, Zhen Feng, and Zhen Han be rewarded first; repeated refusal and illness claims let ministers press Wang Zhengjun for Wang Mang's higher grant; and his acceptance of Taifu/Anhan Gong while refusing added households turns humility and welfare language into public status inflation.
+
 ## [2026-09-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-10] ingest | 《资治通鉴·汉纪》610-2丨从一颗夜明珠到宫中神秘防腐法：古代皇帝驾崩后如何下葬？
+
+Added source note for the Han Aidi delayed-burial and imperial funerary preservation episode. Key claims: Han Aidi's sixth-month death and tenth-month burial introduce the question of extended imperial停灵; imperial funerals require more time than common three-day or seven-day mourning customs; and preservation practices such as washing, liquor disinfection, fragrant bathing, aromatics, herbs, pearls or luminous pearls, charcoal, ash, and coffin sealing make delayed interment materially and ritually manageable.
+
+## [2026-09-10] ingest | 《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事
+
+Added source note for the 2 CE Wang Mang naming and empress-selection setup. Key claims: Wang Mang turns "二名非礼" into a single-name decree; stages the Xiongnu chanyu's name change as Han cultural submission; frames Pingdi's empress selection through ritual and succession anxiety; misfires when Wang Zhengjun excludes Wang women; and then repairs the outcome through mass petition pressure for his daughter.
+
+## [2026-09-10] ingest | Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?
+
+Added source note for the All-In episode with Bill Gurley on AI power concentration, Pope Leo XIV's AI intervention, Anthropic safety rhetoric, enterprise model sovereignty, open-source AI ban risk, token-spend ROI, and disputed AI layoff attribution.
+
+## [2026-09-10] ingest | 《资治通鉴·汉纪》617丨王莽毒杀公主历史始末
+
+Added source note for the 3 CE dog-blood aftermath. Key claims: Wang Mang turns Wang Yu's punishment into moral authorization, widens the case through elite relationship networks, forces Jingwu Princess to drink poison under Wang Zhengjun's name, and hides the death's cause to prevent dowager exposure.
 
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》616丨有心机的人有多可怕
 
@@ -16821,6 +16857,55 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》620丨史上最传奇的“全民大选”
 
 Added source note for the 4 CE Wang Mang petition-and-reward episode. Key claims: more than 8,000 petitioners help make Wang Mang's "宰衡" elevation look publicly demanded; Wang Zhengjun personally confers the package; Wang Mang's refusal of his sons' honors becomes another status-inflation step; and Kong Guang's counter-petition helps summon him back to government.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+## [2026-09-10] ingest | 《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-10] ingest | 《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！
+
+Added source note for the 2 CE Wang Mang disaster-relief and image-management episode. Key claims: drought and locust displacement become a stage for imperial austerity, Wang Mang's donation and elite emulation, refugee housing, auspicious recovery reports, publicized vegetarian restraint, honorable handling of Gong Sheng and Bing Han's resignation requests, and bandit resettlement.
 
 ## [2026-09-10] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6897
+wiki_total_pages: 6908
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1976,6 +1976,9 @@ wiki_pages:
   - key: "SaltRevenueAgriculturalRecovery"
     title: "盐利农具式复耕安置 / Salt-Revenue Agricultural Recovery"
     url: "/wiki/concepts/saltrevenueagriculturalrecovery/"
+  - key: "ScriptedCandorTrap"
+    title: "直言作秀陷阱 / Scripted Candor Trap"
+    url: "/wiki/concepts/scriptedcandortrap/"
   - key: "SelfFeelingTrust"
     title: "相信自己的感受 / Self-Feeling Trust"
     url: "/wiki/concepts/selffeelingtrust/"

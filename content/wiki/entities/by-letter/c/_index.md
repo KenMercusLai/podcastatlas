@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9522
+wiki_total_pages: 9531
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1845,7 +1845,7 @@ wiki_pages:
     title: "陈寿 / Chen Shou (Taishi ling, late Han)"
     url: "/wiki/entities/chenshoutaishilinglatehan/"
   - key: "ChenChongXinOfficial"
-    title: "陈崇 / Chen Chong (Xin official)"
+    title: "陈崇 / Chen Chong (Wang Mang-era official)"
     url: "/wiki/entities/chenchongxinofficial/"
   - key: "ChenPing"
     title: "陈平 / Chen Ping"

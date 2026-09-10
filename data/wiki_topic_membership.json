@@ -4997,6 +4997,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AIWashingLayoffAttribution": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIWealthHousingScarcity": [
     {
       "key": "technology",
@@ -13162,6 +13169,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CaseExpansionPoliticalPurge": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Casetext": [
     {
       "key": "technology",
@@ -15272,6 +15286,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ClassicsBasedNamingGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Claude": [
     {
       "key": "technology",
@@ -15666,6 +15687,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "CoerciveFrontierDeterrence": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CoerciveImplicationCascade": [
@@ -27001,6 +27029,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "GaoHanStandup": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "GaoHonghao": [
     {
       "key": "technology",
@@ -31794,6 +31829,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "HuangzhiKingdom": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Huangzhou": [
     {
       "key": "culture",
@@ -35544,6 +35586,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "JingwuPrincessWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "JingxingPass": [
@@ -50153,6 +50202,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "PopeLeoXIV": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PopularNPDDiscourse": [
     {
       "key": "science",
@@ -53888,6 +53949,13 @@
       "url": "/topics/history/"
     }
   ],
+  "RemoteTributePrestigeTheater": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RenLifeng": [
     {
       "key": "technology",
@@ -56577,6 +56645,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "ScriptedCandorTrap": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ScurvyNutritionInsight": [
@@ -61597,6 +61672,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "SunBaoWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "SunBin": [
@@ -70541,6 +70623,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "XiaoKuaiStandup": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "XiaoLei": [
     {
       "key": "culture",
@@ -73141,6 +73230,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ZhenHanXinOfficial": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "ZhenXunXinOfficial": [
     {
       "key": "history",
@@ -74075,6 +74171,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275": [

@@ -3,12 +3,12 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-09-09
-as_of_overview_commit: 26276c168956ef356b9133bd2499568762e618d6
-summary: "Current synthesis turns on bounded judgment: value holds when evidence, context, incentives, trust, and operating capacity line up."
-episode_count: 2066
-source_count: 2066
-paragraph_count: 601
+last_updated: 2026-09-10
+as_of_overview_commit: 8a49c0cec8428a8a0074c2321544c3b16f81789f
+summary: "Bounded judgment matters: evidence, context, incentives, trust, and operating capacity decide whether ideas work."
+episode_count: 2108
+source_count: 2108
+paragraph_count: 602
 topic_count: 8
 ---
 
@@ -78,7 +78,7 @@ Science and health sources prioritize mechanism, measurement, indication, safety
 
 ### Work, Education, and Society
 
-Work, education, and society build capability through routines, relationships, incentives, active learning, institutional fit, and bounded creator responsibility.
+Work, education, and society build capability through routines, relationships, incentives, active learning, institutional fit, bounded creator responsibility, and public behavior norms.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

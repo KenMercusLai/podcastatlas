@@ -5,22 +5,23 @@ knowledge_schema: synthesis-v1
 tags: [history, china, xin-dynasty, office-refusal, loyalty]
 sources:
   - zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn
-last_updated: 2026-09-09
+  - zizhi-tongjian-hanji-612-jiemi-gudai-yingxiao-daka-wangmang-llghwpfe5c0ck91vkldmfdjowmqi
+last_updated: 2026-09-10
 ---
 
 ## Overview
 
-龚胜 / Gong Sheng enters the wiki through [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|Hanji 644]] as a respected former Han scholar whom [[WangMang|王莽]] tries to summon into [[XinDynasty|新朝]] service as师友祭酒. The episode makes him the sharpest Xin-era case of loyalist office refusal because he receives the imperial summons with ritual respect but refuses to convert Han favor into service for a new dynastic house.
+龚胜 / Gong Sheng enters the wiki through [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|Hanji 644]] as a respected former Han scholar whom [[zizhi-tongjian-hanji-612-jiemi-gudai-yingxiao-daka-wangmang-llghwpfe5c0ck91vkldmfdjowmqi|Hanji 612]] first shows requesting resignation as Wang Mang's power concentrates, and whom [[WangMang|王莽]] tries to summon into [[XinDynasty|新朝]] service as师友祭酒. The episode makes him the sharpest Xin-era case of loyalist office refusal because he receives the imperial summons with ritual respect but refuses to convert Han favor into service for a new dynastic house.
 
 ## Current Profile
 
-Gong Sheng's refusal is staged against public pressure. Wang Mang sends an edict, seal, four-horse carriage, imperial envoy, local officials, elders, subordinates, and students to his home. Gong Sheng does not treat the summons casually: while claiming serious illness, he has his bed arranged according to ritual, faces east, wears official clothing, and receives the edict in a posture the episode links to Confucian precedent.
+Gong Sheng's profile now has two stages. In Hanji 612, he and Bing Han request resignation after a Julu meteor event because they dislike Wang Mang's concentration of power; Wang Mang lets them leave with honor, turning dissent management into another image-preserving move. In Hanji 644, his refusal is staged against public pressure. Wang Mang sends an edict, seal, four-horse carriage, imperial envoy, local officials, elders, subordinates, and students to his home. Gong Sheng does not treat the summons casually: while claiming serious illness, he has his bed arranged according to ritual, faces east, wears official clothing, and receives the edict in a posture the episode links to Confucian precedent.
 
 The refusal then moves from illness language to explicit dynastic loyalty. When the envoy, family, and students continue pressing him to show even symbolic willingness by moving to an official lodging, Gong Sheng states that he has received deep Han favor and cannot in righteousness serve two houses. He arranges simple funeral instructions, stops food and water, and dies after fourteen days at age seventy-nine.
 
 ## Key Characteristics
 
-- Respected former Han scholar whose reputation makes him useful to Wang Mang's legitimacy project.
+- Respected former Han scholar whose reputation makes him useful to Wang Mang's legitimacy project and whose earlier resignation already signals discomfort with Wang Mang's concentration of power.
 - Ritually careful recipient of the summons, showing respect for office forms while refusing the appointment.
 - Uses illness first as a nonconfrontational refusal tactic before stating the deeper Han-loyalist principle.
 - Frames nonservice as "not serving two surnames," making dynastic loyalty stronger than survival or family advancement.
@@ -29,6 +30,7 @@ The refusal then moves from illness language to explicit dynastic loyalty. When 
 
 ## Evidence
 
+- Early resignation request: [[zizhi-tongjian-hanji-612-jiemi-gudai-yingxiao-daka-wangmang-llghwpfe5c0ck91vkldmfdjowmqi|Hanji 612]] says Gong Sheng and Bing Han request resignation after the Julu meteor event because they dislike Wang Mang's exclusive control of power.
 - Prestigious summons: [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|Hanji 644]] says Wang Mang sends an edict, seal, and four-horse carriage and gathers envoys, officials, elders, subordinates, students, and others at Gong Sheng's lane.
 - Ritual reception: [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|Hanji 644]] says Gong Sheng arranges his sickbed by the south window, faces east, wears official dress, and follows a Confucian reception model.
 - Illness refusal: [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|Hanji 644]] says he tells the envoy that he is old, sick, and likely to die on the road.
@@ -38,11 +40,11 @@ The refusal then moves from illness language to explicit dynastic loyalty. When 
 
 ## Qualifications
 
-The page is source-bounded to Hanji 644 and should not reconstruct Gong Sheng's full Han career from this episode alone. The source strongly supports his loyalist refusal and death, but his earlier offices, complete intellectual profile, and family aftermath remain source-scoped.
+The page is source-bounded to Hanji 612 and Hanji 644 and should not reconstruct Gong Sheng's full Han career from these episodes alone. Hanji 612 supports an earlier resignation request but keeps Bing Han, exact office history, and the later lives of both men source-scoped. The source strongly supports his loyalist refusal and death, but his earlier offices, complete intellectual profile, and family aftermath remain source-scoped.
 
 ## What Changed
 
-- Created from Hanji 644 as the episode's central case of ritual-respectful but fatal Xin-era office refusal.
+- Added Hanji 612 as the earlier resignation-request layer before Hanji 644's ritual-respectful but fatal Xin-era office refusal.
 
 ## Relationships
 

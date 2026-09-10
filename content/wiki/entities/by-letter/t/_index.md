@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9522
+wiki_total_pages: 9531
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1400,6 +1400,9 @@ wiki_pages:
   - key: "TencentVideo"
     title: "腾讯视频 / Tencent Video"
     url: "/wiki/entities/tencentvideo/"
+  - key: "TangdouRuoqiangKing"
+    title: "若羌去胡来王唐斗 / Tangdou"
+    url: "/wiki/entities/tangdouruoqiangking/"
   - key: "TanDing"
     title: "谭丁 / Tan Ding"
     url: "/wiki/entities/tanding/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9522
+wiki_total_pages: 9531
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -1115,6 +1115,9 @@ wiki_pages:
   - key: "Goujian"
     title: "越王勾践 / King Goujian of Yue"
     url: "/wiki/entities/goujian/"
+  - key: "GougouCheshiKing"
+    title: "车师后王沽沟 / Gougou"
+    url: "/wiki/entities/gougoucheshiking/"
   - key: "Garuda"
     title: "迦楼罗 / 大鹏鸟 / Garuda"
     url: "/wiki/entities/garuda/"
@@ -1265,6 +1268,9 @@ wiki_pages:
   - key: "GaoYangNorthernQi"
     title: "高洋 / Northern Qi Emperor Wenxuan"
     url: "/wiki/entities/gaoyangnorthernqi/"
+  - key: "GaoHanStandup"
+    title: "高涵 / Gao Han"
+    url: "/wiki/entities/gaohanstandup/"
   - key: "GaoJianli"
     title: "高渐离 / Gao Jianli"
     url: "/wiki/entities/gaojianli/"
