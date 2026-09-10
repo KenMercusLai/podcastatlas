@@ -7,14 +7,17 @@ sources:
   - zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc
   - zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq
   - zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e
-last_updated: 2026-08-29
+  - zizhi-tongjian-hanji-594-ni-shenbian-you-yi-ziwo-wei-zhongxin-de-ren-ma-lo27wnfpchgxpzvstea4azmxsga2
+last_updated: 2026-09-10
 ---
 
 ## Definition
-忠告不转化 / Corrective advice nonconversion is the pattern where accurate, concrete, potentially self-saving advice reaches a powerholder but does not become changed action. The failure can come from arrogance, self-image protection, private-interest dependence, or inability to see restraint as preservation rather than humiliation.
+忠告不转化 / Corrective advice nonconversion is the pattern where accurate, concrete, potentially self-saving advice reaches a powerholder but does not become changed action. The failure can come from arrogance, self-image protection, private-interest dependence, selective hearing, or inability to see restraint as preservation rather than humiliation.
 
 ## Current Synthesis
-The earliest current case appears in [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] in two forms. [[LiGuLateHan]] warns [[LiangJiLateHan]] against the Liu Zhi succession choice even after the senior court is pressured toward submission; the warning increases Liang's anger and leads to Li Gu's removal. In the same source, [[ZhuMuLateHan]] gives Liang constructive staff advice about worthy recruitment, distancing evil influences, emperor education, and qualified advisory staffing, but Liang does not adopt it.
+The Western Han ruler-facing version appears before the Liang Ji cases through [[DuYeWesternHan|杜邺]] and [[HanAidi|汉哀帝]] in [[zizhi-tongjian-hanji-594-ni-shenbian-you-yi-ziwo-wei-zhongxin-de-ren-ma-lo27wnfpchgxpzvstea4azmxsga2|Hanji 594]]. Du Ye answers Aidi's fault-seeking order with a concrete diagnosis: eclipses and earthquakes point to political imbalance, filial deference cannot justify blind obedience to dowager wishes, and relatives without merit are accumulating palace, guard, and military posts. The advice is formally invited and strongly framed, but the source records no clear correction. Aidi's later consultation and promotion of [[KongGuangWesternHan|孔光]] suggests selective conversion: the ruler keeps asking about the sign until he hears a more acceptable interpretation.
+
+The earliest current late-Han case appears in [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] in two forms. [[LiGuLateHan]] warns [[LiangJiLateHan]] against the Liu Zhi succession choice even after the senior court is pressured toward submission; the warning increases Liang's anger and leads to Li Gu's removal. In the same source, [[ZhuMuLateHan]] gives Liang constructive staff advice about worthy recruitment, distancing evil influences, emperor education, and qualified advisory staffing, but Liang does not adopt it.
 
 [[zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc|Hanji 834]] supplies the fuller founding case through Zhu Mu and Liang Ji. Zhu does not only scold Liang in moral abstractions. He names public hardship, local official abuse, expense pressure, redirected resentment, and the risk that all blame will attach to Liang's name; he also gives executable remedies such as dismissing unfit officials, reducing luxury, refusing gifts, and strengthening impartial inspection.
 
@@ -25,12 +28,15 @@ The ruler-facing version comes through [[DuQiaoLateHan]] and [[EmperorHuanOfHan]
 ## Key Claims
 - Corrective advice is most valuable before collapse, but that is also when the powerholder may least want to hear it.
 - Advice can fail even when it contains concrete remedies rather than only moral accusation.
+- A ruler can formally solicit criticism while filtering for an answer that preserves self-image or preferred policy.
 - A recipient's self-image can recode a survival warning as insult, making nonconversion psychological as well as political.
 - When advice does not convert into self-restraint, later correction often arrives through coercion, public humiliation, or risky enforcement by others.
 - Advice can become dangerous when the same power field can turn unaccepted correction into later accusation, resentment, or dismissal.
 - The adviser can be a genuine "benefactor" only if the recipient recognizes the advice as help rather than attack.
 
 ## Evidence
+- Invited but unconverted criticism: [[zizhi-tongjian-hanji-594-ni-shenbian-you-yi-ziwo-wei-zhongxin-de-ren-ma-lo27wnfpchgxpzvstea4azmxsga2|Hanji 594]] says Aidi orders ministers and worthies to state his faults after disasters, and Du Ye responds with a direct outer-relative and office-power diagnosis.
+- Selective follow-up: [[zizhi-tongjian-hanji-594-ni-shenbian-you-yi-ziwo-wei-zhongxin-de-ren-ma-lo27wnfpchgxpzvstea4azmxsga2|Hanji 594]] says Aidi later summons Kong Guang about another eclipse and rewards him, while the source infers that Kong Guang supplied a more acceptable answer.
 - Succession warning turns into removal: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] says Li Gu continues warning Liang Ji after the accession meeting, and Liang then has Liang Na remove him from taiwei.
 - Early constructive staff advice: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] says Zhu Mu urges Liang Ji to recruit worthy people, distance evil influences, choose upright teachers for Huan, and fill advisory offices with qualified officials; Liang does not adopt the advice.
 - Ruler-facing nonresponse: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Du Qiao warns Huan that worthy appointment and fair reward and punishment are core state tasks, but Huan gives no answer.
@@ -41,15 +47,16 @@ The ruler-facing version comes through [[DuQiaoLateHan]] and [[EmperorHuanOfHan]
 - External checks after failed advice: [[zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc|Hanji 834]] places Chen Fan's envoy punishment, Yan Du's killing of Liang's retainer, and Zhang Ling's court sword-removal scene after Liang ignores self-limiting counsel.
 
 ## Counterevidence & Qualifications
-This concept currently rests on three late-Han source notes and should not be treated as a universal model of all failed advice. Hanji 828, Hanji 829, and Hanji 834 do not prove that different wording would have succeeded; the problem may be the recipient's interests, power ecology, and dependence on the networks being criticized. Hanji 834 also says Liang Ji still respects Zhu Mu enough not to punish him directly, so nonconversion is not the same as immediate retaliation. The Hai Rui analogy and closing moral claims are useful source framing but are not independent evidence for the concept.
+This concept currently rests on one Western Han source note and three late-Han source notes and should not be treated as a universal model of all failed advice. Hanji 594 does not preserve Aidi's direct response or Kong Guang's actual answer, so the selective-hearing layer remains source-inferred. Hanji 828, Hanji 829, and Hanji 834 do not prove that different wording would have succeeded; the problem may be the recipient's interests, power ecology, and dependence on the networks being criticized. Hanji 834 also says Liang Ji still respects Zhu Mu enough not to punish him directly, so nonconversion is not the same as immediate retaliation. The Hai Rui analogy and closing moral claims are useful source framing but are not independent evidence for the concept.
 
 ## What Changed
-- Added Hanji 828 as the earliest current nonconversion layer: Li Gu's accession warning becomes dangerous, and Zhu Mu's constructive staffing advice is ignored.
-- Reframed Hanji 829's Du Qiao memorial as the ruler-facing version of a pattern already visible around Liang Ji.
-- Preserved Hanji 834 as the fuller Zhu Mu-to-Liang Ji self-limitation case.
-- Defined failed advice conversion as distinct from advice quality or courage to speak.
+- Added Hanji 594 as a Western Han invited-criticism case where Du Ye's concrete diagnosis reaches Aidi but does not visibly become correction.
+- Added selective follow-up as a nonconversion mechanism: the ruler can keep the inquiry while seeking a more acceptable answer.
+- Preserved Hanji 828, Hanji 829, and Hanji 834 as Liang-family nonconversion cases around succession, reward, staffing, and self-limitation.
 
 ## Related Concepts
+- [[DuYeWesternHan|杜邺]] - Western Han remonstrant whose invited criticism does not visibly convert into Aidi's correction.
+- [[KongGuangWesternHan|孔光]] - rewarded follow-up adviser in the Hanji 594 selective-hearing layer.
 - [[AdviceFramingUnderHierarchy]] - adjacent advice concept focused on designing counsel so a hierarchy can accept it.
 - [[CourtFeedbackCollapse]] - institutional counterpart where useful information reaches power but fails to become repair.
 - [[OuterRelativeCourtPower]] - Liang-family power context that makes self-restraint difficult and later enforcement dangerous.

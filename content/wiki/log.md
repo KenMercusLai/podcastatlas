@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》594丨你身边有以自我为中心的人吗？
+
+Ingested the 2026-05-25 芮淇讲透资治通鉴 episode on Du Ye's Yuanshou 1 / 2 BCE omen-coded remonstrance to Han Aidi. Added source `zizhi-tongjian-hanji-594-ni-shenbian-you-yi-ziwo-wei-zhongxin-de-ren-ma-lo27wnfpchgxpzvstea4azmxsga2`; updated `DuYeWesternHan`, `HanAidi`, `KongGuangWesternHan`, `CorrectiveAdviceNonconversion`, `index`, and `overview`. No settled contradiction found; the two Da Sima identities, original memorial wording, Aidi's private response, and Kong Guang's actual eclipse answer remain source-scoped.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？
 
 Added source note for the Yuanshou 1 / 2 BCE Wang Jia memorial prelude: an eclipse-prompted criticism window, praise of Han Yuan's thrift, Han Cheng's remonstrance tolerance, and early Han Aidi's learning and frugality before the later Dong Xian warning. Created `HanYuandi`; updated `WangJiaWesternHan`, `HanChengdi`, `HanAidi`, `index`, and `overview`. No settled contradiction found; the full memorial wording, named officeholders in the notice, and the praise claims remain source-scoped.
@@ -17040,6 +17044,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪
 
 Added source note for the Yuanshou 2 / 1 BCE Han Aidi aftermath episode on Dong Xian family cleanup, Dong-linked appointee removal, Zhu Xu's burial loyalty, Kong Guang as Wang Mang's accusation channel, and old-case purge politics. Updated DongXian, KongGuangWesternHan, and PersonaShieldedPoliticalPurge; added ZhuXuWesternHan.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
