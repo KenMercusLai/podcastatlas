@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6965
+wiki_total_pages: 6966
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1853,6 +1853,9 @@ wiki_pages:
   - key: "PowerDesireSelfRestraint"
     title: "权力欲自律 / Power Desire Self-Restraint"
     url: "/wiki/concepts/powerdesireselfrestraint/"
+  - key: "PublicArmoryPrivateFavorBoundary"
+    title: "武库公器私赏边界 / Public Armory Private Favor Boundary"
+    url: "/wiki/concepts/publicarmoryprivatefavorboundary/"
   - key: "PunishmentConvertedToCampaignCommand"
     title: "死罪转军功式任用 / Punishment Converted to Campaign Command"
     url: "/wiki/concepts/punishmentconvertedtocampaigncommand/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1700
+topic_total_pages: 1701
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -3026,6 +3026,9 @@ topic_entities:
   - key: "WuanWarringStates"
     title: "武安 / Wuan (Warring States)"
     url: "/wiki/entities/wuanwarringstates/"
+  - key: "WuJianglongWesternHan"
+    title: "武将龙 / Wu Jianglong (Western Han)"
+    url: "/wiki/entities/wujianglongwesternhan/"
   - key: "WuShe"
     title: "武涉 / Wu She"
     url: "/wiki/entities/wushe/"

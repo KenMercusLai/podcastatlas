@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2324
+topic_total_pages: 2325
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3703,6 +3703,9 @@ topic_concepts:
   - key: "TransEurasianMigrationCascade"
     title: "欧亚迁徙连锁 / Trans-Eurasian Migration Cascade"
     url: "/wiki/concepts/transeurasianmigrationcascade/"
+  - key: "PublicArmoryPrivateFavorBoundary"
+    title: "武库公器私赏边界 / Public Armory Private Favor Boundary"
+    url: "/wiki/concepts/publicarmoryprivatefavorboundary/"
   - key: "ArmedFollowerIntegrationCost"
     title: "武装部众整合成本 / Armed Follower Integration Cost"
     url: "/wiki/concepts/armedfollowerintegrationcost/"

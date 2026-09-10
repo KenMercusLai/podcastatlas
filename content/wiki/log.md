@@ -16781,6 +16781,10 @@ Added source note for the 1 CE Wang Mang reward-refusal episode. Key claims: Wan
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》587丨谁会把武器当礼物送给爱人？
+
+Added source note for the late-Western-Han Dong Xian reward sequence, covering Han Aidi's repeated armory-weapon gifts, Wu Jianglong's public-private fiscal remonstrance, Fu Taihou's underpriced official-slave purchase, and Aidi's limited demotion punishment. Added WuJianglongWesternHan and PublicArmoryPrivateFavorBoundary; updated HanAidi, DongXian, FuTaihouWesternHan, and ImperialPrivateDesireGovernanceRisk.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》590丨古代中国的生死仇敌，是它？
 
 Added source note for the Jianping 4 / 3 BCE Yang Xiong memorial explaining why Xiongnu remained Western Han's special strategic opponent, why a chanyu audience should be treated as credibility maintenance rather than mere reception cost, and how Western Regions arrangements functioned as anti-Xiongnu containment. Updated Yang Xiong, Xiongnu, Han Aidi, and DiplomaticCostRiskAccounting with the prevention-before-rupture layer.
@@ -17172,6 +17176,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？
 
 Added source note for the late-Western-Han chanyu illness-delay debate, covering Fu Yan and Xi Fu Gong's Wusun-linked escalation proposal, Gongsun Lu's trust-preserving diplomatic objection, and Wang Jia's rejection of disaster-omen war logic and arbitrary killing. Added focused entity pages for Fu Yan, Xi Fu Gong, and Wusun; updated Gongsun Lu with the pre-death diplomatic-remonstrance layer.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
