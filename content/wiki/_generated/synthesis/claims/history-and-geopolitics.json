@@ -280,8 +280,28 @@
         "StarSpangledBanner",
         "NationalAnthemPoliticalPlasticity"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "xiongnu-reception-credibility-outweighs-frontier-cost-saving",
+      "qualifications": [
+        "This is source-scoped to Yang Xiong's memorial as presented in Hanji 590, not a full theory of Western Han frontier policy.",
+        "The chanyu's inner intention, the exact reception budget, and the counterfactual Xiongnu reaction remain source-scoped."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a|Hanji 590]] adds a late-Western-Han frontier-diplomacy case: [[YangXiong]] persuades [[HanAidi]] that [[Xiongnu]] reception should be treated through [[DiplomaticCostRiskAccounting]], because accumulated trust, special threat status, and [[WesternRegionsProtectorate|Western Regions]] containment make prevention cheaper than a credibility rupture.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a",
+        "YangXiong",
+        "HanAidi",
+        "Xiongnu",
+        "DiplomaticCostRiskAccounting",
+        "WesternRegionsProtectorate",
+        "zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d",
+        "zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a"
+      ]
     }
   ],
-  "summary": "The U.S. anthem source adds a national-symbol history layer: Fort McHenry, the War of 1812, a borrowed English melody, escaped enslaved people in British service, and later protest all show how battle memory becomes a contested patriotic archive rather than a simple origin story. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, and late-Xin branches keep emphasizing that geography, legitimacy, military capacity, public memory, and institutional afterlives interact across time.",
+  "summary": "The Hanji 590 source adds a late-Western-Han frontier-diplomacy layer: Yang Xiong frames Xiongnu reception as credibility maintenance and prevention infrastructure, not ceremony or avoidable cost. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, U.S. anthem, and late-Xin branches keep emphasizing that geography, legitimacy, military capacity, public memory, and institutional afterlives interact across time.",
   "topic_id": "history-and-geopolitics"
 }

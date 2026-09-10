@@ -16773,6 +16773,10 @@ Added source note for the 1 CE Wang Mang reward-refusal episode. Key claims: Wan
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》590丨古代中国的生死仇敌，是它？
+
+Added source note for the Jianping 4 / 3 BCE Yang Xiong memorial explaining why Xiongnu remained Western Han's special strategic opponent, why a chanyu audience should be treated as credibility maintenance rather than mere reception cost, and how Western Regions arrangements functioned as anti-Xiongnu containment. Updated Yang Xiong, Xiongnu, Han Aidi, and DiplomaticCostRiskAccounting with the prevention-before-rupture layer.
+
 ## [2026-09-10] ingest | 673. The First World War: The Submarine Strikes (Part 3)
 
 Added source note for The Rest Is History episode on RMS Lusitania, Germany's 1915 U-boat campaign, cruiser-rule breakdown, civilian deaths, propaganda, Wilson's neutrality dilemma, and later U.S. intervention memory. Updated FirstWorldWar and added RMSLusitania, WoodrowWilson, UnrestrictedSubmarineWarfare, PassengerLinerAtrocityPropaganda, and NeutralityToInterventionMemory.
@@ -17160,6 +17164,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？
 
 Added source note for the late-Western-Han chanyu illness-delay debate, covering Fu Yan and Xi Fu Gong's Wusun-linked escalation proposal, Gongsun Lu's trust-preserving diplomatic objection, and Wang Jia's rejection of disaster-omen war logic and arbitrary killing. Added focused entity pages for Fu Yan, Xi Fu Gong, and Wusun; updated Gongsun Lu with the pre-death diplomatic-remonstrance layer.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

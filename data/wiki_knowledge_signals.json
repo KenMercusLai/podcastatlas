@@ -20699,9 +20699,9 @@
       "url": "/wiki/entities/dingdongxiaoqu/"
     },
     "DiplomaticCostRiskAccounting": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》589丨揭秘无脑省钱的可怕后果 [ln7ZzXy9DYdeBCE_b3bomkcR872D].md",
@@ -20709,6 +20709,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》589丨揭秘无脑省钱的可怕后果",
           "url": "/wiki/sources/zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》590丨古代中国的生死仇敌，是它？ [lhr5PXX1_Ldo6QTXiBDryjtARH4a].md",
+          "key": "zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》590丨古代中国的生死仇敌，是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a/"
         }
       ],
       "updated": "2026-09-10",
@@ -36098,9 +36105,9 @@
       "url": "/wiki/concepts/hamiltonianeconomicnationalism/"
     },
     "HanAidi": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 2,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -36192,6 +36199,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》590丨古代中国的生死仇敌，是它？ [lhr5PXX1_Ldo6QTXiBDryjtARH4a].md",
+          "key": "zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》590丨古代中国的生死仇敌，是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a/"
         }
       ],
       "updated": "2026-09-10",
@@ -90784,9 +90798,9 @@
       "url": "/wiki/entities/xinyelatehan/"
     },
     "Xiongnu": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -90906,6 +90920,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕",
           "url": "/wiki/sources/zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》590丨古代中国的生死仇敌，是它？ [lhr5PXX1_Ldo6QTXiBDryjtARH4a].md",
+          "key": "zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》590丨古代中国的生死仇敌，是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a/"
         }
       ],
       "updated": "2026-09-10",
@@ -92483,9 +92504,9 @@
       "url": "/wiki/entities/yangtianzhen/"
     },
     "YangXiong": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》176｜叔孙通如何为大汉制定礼仪制度 [loeoQCcRfWbMtR634ukYAU9xYkqy].md",
@@ -92549,9 +92570,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生",
           "url": "/wiki/sources/zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》590丨古代中国的生死仇敌，是它？ [lhr5PXX1_Ldo6QTXiBDryjtARH4a].md",
+          "key": "zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》590丨古代中国的生死仇敌，是它？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/yangxiong/"
     },
     "YangYuanqunLateHan": {

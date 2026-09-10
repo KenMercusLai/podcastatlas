@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2323
+topic_total_pages: 2324
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -6852,6 +6852,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d"
     title: "《资治通鉴·汉纪》589丨揭秘无脑省钱的可怕后果"
     url: "/wiki/sources/zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d/"
+  - key: "zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a"
+    title: "《资治通鉴·汉纪》590丨古代中国的生死仇敌，是它？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a/"
   - key: "zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a"
     title: "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？"
     url: "/wiki/sources/zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a/"

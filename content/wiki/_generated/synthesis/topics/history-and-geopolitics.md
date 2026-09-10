@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-10
-as_of_overview_commit: c6251e1ff43812db67e7e3c6e1dbaa582328c43c
-input_digest: 510b1ae85f94fde2fed6216ea5984af4ded06711e35d6c1d9227c2ec598ab4cc
+as_of_overview_commit: 25321c7de6e6733c26dfd19b2f68a76854e0f7e4
+input_digest: 0faa62239772472900e4e7072667ec7f4b3a4e1cc975c30ca2ca23c365d07ebf
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The U.S. anthem source adds a national-symbol history layer: Fort McHenry, the War of 1812, a borrowed English melody, escaped enslaved people in British service, and later protest all show how battle memory becomes a contested patriotic archive rather than a simple origin story. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, and late-Xin branches keep emphasizing that geography, legitimacy, military capacity, public memory, and institutional afterlives interact across time.
+The Hanji 590 source adds a late-Western-Han frontier-diplomacy layer: Yang Xiong frames Xiongnu reception as credibility maintenance and prevention infrastructure, not ceremony or avoidable cost. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, U.S. anthem, and late-Xin branches keep emphasizing that geography, legitimacy, military capacity, public memory, and institutional afterlives interact across time.
 
 ## Cross-source Findings
 
@@ -166,3 +166,14 @@ Public and national memory often turns messy causality into cleaner origin stori
 
 - The source does not settle the full War of 1812 chronology, Indigenous diplomacy, Treaty of Ghent detail, or Key's exact third-verse intent.
 - The Fort McHenry danger level and the anthem's later performance history remain source-scoped narrative claims.
+
+### Xiongnu Reception Credibility Outweighs Frontier Cost Saving
+
+[[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a|Hanji 590]] adds a late-Western-Han frontier-diplomacy case: [[YangXiong]] persuades [[HanAidi]] that [[Xiongnu]] reception should be treated through [[DiplomaticCostRiskAccounting]], because accumulated trust, special threat status, and [[WesternRegionsProtectorate|Western Regions]] containment make prevention cheaper than a credibility rupture.
+
+**Evidence:** [[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a]], [[YangXiong]], [[HanAidi]], [[Xiongnu]], [[DiplomaticCostRiskAccounting]], [[WesternRegionsProtectorate]], [[zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d]], [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a]]
+
+**Qualifications:**
+
+- This is source-scoped to Yang Xiong's memorial as presented in Hanji 590, not a full theory of Western Han frontier policy.
+- The chanyu's inner intention, the exact reception budget, and the counterfactual Xiongnu reaction remain source-scoped.
