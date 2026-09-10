@@ -32575,6 +32575,10 @@
     "title": "Kyoto / 京都",
     "url": "/wiki/entities/kyoto/"
   },
+  "LCatterton": {
+    "title": "L Catterton",
+    "url": "/wiki/entities/lcatterton/"
+  },
   "LDesign": {
     "title": "L-Design",
     "url": "/wiki/entities/ldesign/"
@@ -40514,6 +40518,10 @@
   "NavalShipbuildingThroughput": {
     "title": "Naval Shipbuilding Throughput",
     "url": "/wiki/concepts/navalshipbuildingthroughput/"
+  },
+  "NavierStokesEquations": {
+    "title": "Navier-Stokes Equations",
+    "url": "/wiki/concepts/navierstokesequations/"
   },
   "NavigationDeviceCommoditization": {
     "title": "Navigation Device Commoditization",
@@ -69206,6 +69214,10 @@
   "openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6": {
     "title": "OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI",
     "url": "/wiki/sources/openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6/"
+  },
+  "openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958": {
+    "title": "OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权",
+    "url": "/wiki/sources/openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958/"
   },
   "openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6": {
     "title": "OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特",

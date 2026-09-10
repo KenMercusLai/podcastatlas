@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2866
+topic_total_pages: 2867
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8160,6 +8160,9 @@ topic_sources:
   - key: "openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6"
     title: "OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI"
     url: "/wiki/sources/openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6/"
+  - key: "openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958"
+    title: "OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权"
+    url: "/wiki/sources/openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958/"
   - key: "openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z"
     title: "OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋"
     url: "/wiki/sources/openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z/"

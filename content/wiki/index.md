@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权](sources/openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958.md) — 声动早咖啡 daily scan on OpenAI's contested Navier-Stokes claim, DeepSeek API price cuts, Alibaba B2B integration, Moutai channel pricing, Tesla promotions, luxury price pressure, HYROX's reported control sale, and snack-retail weighing disputes.
 - [《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？](sources/zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut.md) — 1 BCE Wang Mang backfill on Wang Li's indirect removal through Kong Guang, Wang Zhengjun's coerced public-order approval, persona-protected purge procedure, Zhao/Fu empress deaths, Peng Xuan's retreat, and Kong Guang's puppet-risk awareness.
 - [《资治通鉴·汉纪》608丨揭秘西汉奥斯卡最佳“演员”：王莽](sources/zizhi-tongjian-hanji-608-jiemi-xihan-aosika-zuijia-yanyuan-wangmang-llwfchwpkmuesz0nmdr48qpuwcjk.md) — 1 CE Wang Mang reward-refusal loop where staged humility, illness, ministerial pressure, Wang Zhengjun's endorsement, and welfare language turn nonacceptance into Taifu/Anhan Gong status inflation.
 - [《资治通鉴·汉纪》607丨揭秘王莽的权力博弈](sources/zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78.md) — 1 CE Wang Mang-era backfill on Han Pingdi's child accession, Wang Zhengjun's regency, emperor-household control, staged Yuechang white-pheasant tribute, Zhougong precedent, and Anhan Gong title expansion.
@@ -2120,6 +2121,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [L Catterton](entities/LCatterton.md) — LVMH-linked private-equity investor reported to be leading a consortium acquiring control of HYROX.
 - [高涵 / Gao Han](entities/GaoHanStandup.md) — stand-up-related panel participant whose emotional-stability role centers on low retaliation, sleep, and creator misreading.
 - [小块 / Xiao Kuai](entities/XiaoKuaiStandup.md) — stand-up-related panel participant whose role centers on dissent contact, anti-cocoon online hygiene, and happiness-based conflict retreat.
 - [Pope Leo XIV](entities/PopeLeoXIV.md) — Religious-institutional voice in the All-In AI-governance discussion, summarized as treating AI as a morally non-neutral control problem.
@@ -11657,6 +11659,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Navier-Stokes Equations](concepts/NavierStokesEquations.md) — Fluid-motion equations tracked here as a high-stakes AI-for-math and proof-governance test case after a contested OpenAI claim.
 - [Block And Dissent Hygiene / 拉黑与异见卫生](concepts/BlockAndDissentHygiene.md) — managing online boundaries by balancing blocking and deletion against deliberate exposure to dissent.
 - [Emotional Stability As Social Norm / 情绪稳定作为社会规范](concepts/EmotionalStabilityAsSocialNorm.md) — separating adult composure, inner emotional fluctuation, scene discipline, and social pressure.
 - [Happiness-Based De-escalation / 幸福者退让原则](concepts/HappinessBasedDeescalation.md) — conflict-retreat frame that treats yielding as preserving one's own state while remaining morally contested.

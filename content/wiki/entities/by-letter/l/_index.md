@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9533
+wiki_total_pages: 9534
 wiki_pages:
+  - key: "LCatterton"
+    title: "L Catterton"
+    url: "/wiki/entities/lcatterton/"
   - key: "LOreal"
     title: "L'Oreal"
     url: "/wiki/entities/loreal/"

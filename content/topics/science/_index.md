@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 979
+topic_total_pages: 980
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1024,6 +1024,9 @@ topic_concepts:
   - key: "NaturalHazardSocialDisaster"
     title: "Natural Hazard As Social Disaster"
     url: "/wiki/concepts/naturalhazardsocialdisaster/"
+  - key: "NavierStokesEquations"
+    title: "Navier-Stokes Equations"
+    url: "/wiki/concepts/navierstokesequations/"
   - key: "NearMissDesign"
     title: "Near-Miss Design"
     url: "/wiki/concepts/nearmissdesign/"

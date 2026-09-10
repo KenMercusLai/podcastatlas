@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2625
+topic_total_pages: 2627
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3953,6 +3953,9 @@ topic_entities:
   - key: "Kyoto"
     title: "Kyoto / 京都"
     url: "/wiki/entities/kyoto/"
+  - key: "LCatterton"
+    title: "L Catterton"
+    url: "/wiki/entities/lcatterton/"
   - key: "LakesideBookCompany"
     title: "Lakeside Book Company"
     url: "/wiki/entities/lakesidebookcompany/"
@@ -7635,6 +7638,9 @@ topic_sources:
   - key: "tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128"
     title: "NYC public schools ban AI through middle school"
     url: "/wiki/sources/tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128/"
+  - key: "openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958"
+    title: "OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权"
+    url: "/wiki/sources/openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958/"
   - key: "our-book-vs-the-global-supply-chain"
     title: "Our BOOK vs. the global supply chain"
     url: "/wiki/sources/our-book-vs-the-global-supply-chain/"

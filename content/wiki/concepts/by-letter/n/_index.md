@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6909
+wiki_total_pages: 6910
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "NavalShipbuildingThroughput"
     title: "Naval Shipbuilding Throughput"
     url: "/wiki/concepts/navalshipbuildingthroughput/"
+  - key: "NavierStokesEquations"
+    title: "Navier-Stokes Equations"
+    url: "/wiki/concepts/navierstokesequations/"
   - key: "NavigationDeviceCommoditization"
     title: "Navigation Device Commoditization"
     url: "/wiki/concepts/navigationdevicecommoditization/"

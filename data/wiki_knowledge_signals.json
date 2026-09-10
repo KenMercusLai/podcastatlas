@@ -35021,9 +35021,9 @@
       "url": "/wiki/entities/guoziyi/"
     },
     "HYROX": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "商业小样47 ｜ “健身做题家”的新欢HYROX，到底有什么护城河？ [1008179335].md",
@@ -35038,9 +35038,16 @@
           "show": "这病说来话长",
           "title": "VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南",
           "url": "/wiki/sources/vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy/"
+        },
+        {
+          "episode_file": "OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权 [1013261958].md",
+          "key": "openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958",
+          "show": "声动早咖啡",
+          "title": "OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权",
+          "url": "/wiki/sources/openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/hyrox/"
     },
     "HabibayStartupEmbassyResident": {
@@ -44833,6 +44840,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/kyliejenner/"
+    },
+    "LCatterton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权 [1013261958].md",
+          "key": "openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958",
+          "show": "声动早咖啡",
+          "title": "OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权",
+          "url": "/wiki/sources/openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/lcatterton/"
     },
     "LIVGolf": {
       "episode_count": 1,
@@ -57048,6 +57071,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/naturelawlegaljustice/"
+    },
+    "NavierStokesEquations": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权 [1013261958].md",
+          "key": "openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958",
+          "show": "声动早咖啡",
+          "title": "OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权",
+          "url": "/wiki/sources/openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/navierstokesequations/"
     },
     "Ndongo": {
       "episode_count": 1,

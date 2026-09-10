@@ -16862,6 +16862,10 @@ Ran lint. See lint-report.md for details.
 
 Added source note for the 4 CE Wang Mang petition-and-reward episode. Key claims: more than 8,000 petitioners help make Wang Mang's "宰衡" elevation look publicly demanded; Wang Zhengjun personally confers the package; Wang Mang's refusal of his sons' honors becomes another status-inflation step; and Kong Guang's counter-petition helps summon him back to government.
 
+## [2026-09-10] ingest | OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权
+
+Added source note for the 声动早咖啡 daily scan on OpenAI's contested Navier-Stokes claim, DeepSeek API price cuts, Alibaba B2B integration, Moutai channel pricing, Tesla promotions, luxury price pressure, L Catterton's reported HYROX control investment, and snack-retail weighing disputes. Created L Catterton and Navier-Stokes Equations; updated HYROX, index, and overview. No settled contradiction found; OpenAI proof/priority/data-use claims and HYROX deal terms remain source-scoped.
+
 ## [2026-09-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -16910,6 +16914,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！
 
 Added source note for the 2 CE Wang Mang disaster-relief and image-management episode. Key claims: drought and locust displacement become a stage for imperial austerity, Wang Mang's donation and elite emulation, refugee housing, auspicious recovery reports, publicized vegetarian restraint, honorable handling of Gong Sheng and Bing Han's resignation requests, and bandit resettlement.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
