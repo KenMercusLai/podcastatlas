@@ -10007,6 +10007,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "BaoSi": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "BaoYanHuiwangShu": [
     {
       "key": "history",
@@ -38835,6 +38842,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "LienuZhuan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "LifeDefinitionSpectrum": [
     {
       "key": "science",
@@ -44492,6 +44506,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "MythicBiographySourceCaution": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "MythicEnvironmentalImagination": [
@@ -69853,6 +69874,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "WomenBlamedForDynasticCollapse": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "WomenOrientedMelodramaDemand": [
     {
       "key": "culture",
@@ -80680,6 +80708,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt": [

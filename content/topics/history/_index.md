@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1668
+topic_total_pages: 1673
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1372,6 +1372,9 @@ topic_concepts:
   - key: "TianxiaChina"
     title: "天下中国 / Tianxia China"
     url: "/wiki/concepts/tianxiachina/"
+  - key: "WomenBlamedForDynasticCollapse"
+    title: "女性亡国归咎叙事 / Women Blamed for Dynastic Collapse"
+    url: "/wiki/concepts/womenblamedfordynasticcollapse/"
   - key: "CourtBackchannelSurvival"
     title: "宫廷后门自救 / Court Backchannel Survival"
     url: "/wiki/concepts/courtbackchannelsurvival/"
@@ -1444,6 +1447,9 @@ topic_concepts:
   - key: "TangmuYi"
     title: "汤沐邑 / Tangmu Yi"
     url: "/wiki/concepts/tangmuyi/"
+  - key: "MythicBiographySourceCaution"
+    title: "神话化身世的史料边界 / Mythic Biography Source Caution"
+    url: "/wiki/concepts/mythicbiographysourcecaution/"
   - key: "FumingMonopolyBackfire"
     title: "符命垄断反噬 / Fuming Monopoly Backfire"
     url: "/wiki/concepts/fumingmonopolybackfire/"
@@ -1946,6 +1952,9 @@ topic_entities:
   - key: "Liutao"
     title: "《六韬》 / Six Secret Teachings"
     url: "/wiki/entities/liutao/"
+  - key: "LienuZhuan"
+    title: "《列女传》 / Lienu Zhuan"
+    url: "/wiki/entities/lienuzhuan/"
   - key: "LishiBoke"
     title: "《历史播客》"
     url: "/wiki/entities/lishiboke/"
@@ -3452,6 +3461,9 @@ topic_entities:
   - key: "PeiWenzhong"
     title: "裴文中"
     url: "/wiki/entities/peiwenzhong/"
+  - key: "BaoSi"
+    title: "褒姒 / Bao Si"
+    url: "/wiki/entities/baosi/"
   - key: "XiangchengQin"
     title: "襄城 / Xiangcheng (Qin)"
     url: "/wiki/entities/xiangchengqin/"
@@ -4746,6 +4758,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd"
+    title: "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd/"
   - key: "zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt"
     title: "《资治通鉴·汉纪》627-1丨【女性必听】独特视角：经期隐喻背后的历史智慧"
     url: "/wiki/sources/zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt/"

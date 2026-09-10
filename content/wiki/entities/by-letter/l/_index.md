@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9538
+wiki_total_pages: 9540
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -779,6 +779,9 @@ wiki_pages:
   - key: "Liutao"
     title: "《六韬》 / Six Secret Teachings"
     url: "/wiki/entities/liutao/"
+  - key: "LienuZhuan"
+    title: "《列女传》 / Lienu Zhuan"
+    url: "/wiki/entities/lienuzhuan/"
   - key: "LastDefenderOfCamelot"
     title: "《卡美洛的最后守护者》 / The Last Defender of Camelot"
     url: "/wiki/entities/lastdefenderofcamelot/"

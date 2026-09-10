@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6917
+wiki_total_pages: 6919
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "WatsonPower"
     title: "华生力 / Watson Power"
     url: "/wiki/concepts/watsonpower/"
+  - key: "WomenBlamedForDynasticCollapse"
+    title: "女性亡国归咎叙事 / Women Blamed for Dynastic Collapse"
+    url: "/wiki/concepts/womenblamedfordynasticcollapse/"
   - key: "WanErDuoFeng"
     title: "婉而多讽 / Gentle And Layered Satire"
     url: "/wiki/concepts/wanerduofeng/"

@@ -8192,6 +8192,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/baojuneasternhan/"
     },
+    "BaoSi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？ [lkiRbrVOnA0YIaoUSoblcDu0Gs5U].md",
+          "key": "zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/baosi/"
+    },
     "BaoYongEasternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -47457,6 +47473,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/licensedsyntheticvoicemarketplace/"
     },
+    "LienuZhuan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？ [lkiRbrVOnA0YIaoUSoblcDu0Gs5U].md",
+          "key": "zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/lienuzhuan/"
+    },
     "LifeScienceDataInformationValue": {
       "episode_count": 1,
       "show_count": 1,
@@ -56872,6 +56904,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/myopiasurgeryriskboundary/"
+    },
+    "MythicBiographySourceCaution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？ [lkiRbrVOnA0YIaoUSoblcDu0Gs5U].md",
+          "key": "zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/mythicbiographysourcecaution/"
     },
     "NATO": {
       "episode_count": 4,
@@ -87041,6 +87089,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/wolfwarrior2/"
     },
+    "WomenBlamedForDynasticCollapse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？ [lkiRbrVOnA0YIaoUSoblcDu0Gs5U].md",
+          "key": "zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/womenblamedfordynasticcollapse/"
+    },
     "WomenWorkplaceProgressStall": {
       "episode_count": 4,
       "show_count": 3,
@@ -95224,6 +95288,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhouxielatehan/"
+    },
+    "ZhouYouwang": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（1） [lq3T7lwPmQ1oYB8zmmmn2tYwnu8d].md",
+          "key": "zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？ [lkiRbrVOnA0YIaoUSoblcDu0Gs5U].md",
+          "key": "zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/zhouyouwang/"
     },
     "ZhouYuLateHan": {
       "episode_count": 8,

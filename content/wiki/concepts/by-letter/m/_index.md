@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6917
+wiki_total_pages: 6919
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1193,6 +1193,9 @@ wiki_pages:
   - key: "ManichaeismInChina"
     title: "明教 / 摩尼教在中国"
     url: "/wiki/concepts/manichaeisminchina/"
+  - key: "MythicBiographySourceCaution"
+    title: "神话化身世的史料边界 / Mythic Biography Source Caution"
+    url: "/wiki/concepts/mythicbiographysourcecaution/"
   - key: "MourningDiplomaticRestraint"
     title: "趁丧不伐 / Mourning Diplomatic Restraint"
     url: "/wiki/concepts/mourningdiplomaticrestraint/"

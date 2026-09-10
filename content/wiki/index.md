@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？](sources/zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd.md) — 芮淇讲透资治通鉴 short episode on Bao Si's dragon-saliva birth legend, the beacon-fire story, the "四大妖姬" blame frame, and the need to treat her supernatural biography as mythic reception rather than firm history.
 - [《资治通鉴·汉纪》602丨探寻国学智慧，破解2024年犯太岁之谜](sources/zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj.md) — Yuanshou 2 / 1 BCE Han Aidi episode on a Xiongnu chanyu visit, Dong Xian's court visibility, Tai Sui lodging avoidance, 2024 犯太岁 folk practice, and the turn from external remedies toward low-profile self-command.
 - [《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪](sources/zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st.md) — Yuanshou 2 / 1 BCE Han Aidi aftermath episode on Dong Xian family confiscation, Dong-linked appointee removal, Zhu Xu's burial loyalty, Kong Guang as accusation channel, and Wang Mang's old-case cleanup.
 - [704. Roman Civil War: Master of the Republic (Part 4)](sources/704-roman-civil-war-master-of-the-republic-part-4-glt9669112656.md) — The Rest Is History episode on Sulla's return, Cinna's mutiny death, Marius Younger, Pompey and Crassus, the Samnites at Colline Gate, proscriptions, dictatorship, reforms, abdication, and legacy.
@@ -2127,6 +2128,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [褒姒 / Bao Si](entities/BaoSi.md) — Western Zhou consort remembered through the "一笑亡国" and beacon-fire legends, with her supernatural birth story kept source-scoped.
+- [《列女传》 / Lienu Zhuan](entities/LienuZhuan.md) — Liu Xiang-associated text layer used by Hanji 601-2 for Bao Si's mythic and moralized biography.
 - [L Catterton](entities/LCatterton.md) — LVMH-linked private-equity investor reported to be leading a consortium acquiring control of HYROX.
 - [高涵 / Gao Han](entities/GaoHanStandup.md) — stand-up-related panel participant whose emotional-stability role centers on low retaliation, sleep, and creator misreading.
 - [小块 / Xiao Kuai](entities/XiaoKuaiStandup.md) — stand-up-related panel participant whose role centers on dissent contact, anti-cocoon online hygiene, and happiness-based conflict retreat.
@@ -11669,6 +11672,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [女性亡国归咎叙事 / Women Blamed for Dynastic Collapse](concepts/WomenBlamedForDynasticCollapse.md) — Historiographical pattern that condenses ruler failure and regime collapse into a moralized dangerous-woman story.
+- [神话化身世的史料边界 / Mythic Biography Source Caution](concepts/MythicBiographySourceCaution.md) — Source-critical rule for preserving legendary birth stories as reception evidence without treating them as verified biography.
 - [Grief Attachment Remapping](concepts/GriefAttachmentRemapping.md) — Grief model where closeness remains while the brain relearns space-time expectations after loss.
 - [Grief Physiology Support](concepts/GriefPhysiologySupport.md) — Sleep, circadian, autonomic, oxytocin, cortisol, NSDR, and support frame for grief remapping.
 - [Structured Grieving Practice](concepts/StructuredGrievingPractice.md) — Bounded grieving-time practice that preserves attachment while reducing counterfactual rumination.
