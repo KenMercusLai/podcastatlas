@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | Essentials: The Science & Process of Healing from Grief
+
+Added Huberman Lab Essentials source on grief as attachment remapping. Key claims: healthy grieving preserves closeness while relearning space-time expectations; yearning can reflect continued seeking predictions; structured grieving blocks, sleep, morning light, NSDR, vagal-tone awareness, and professional or group support are source-scoped supports rather than individualized treatment.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？
 
 Added source note for the 1 BCE Wang Mang obstacle-clearing episode. Key claims: Wang Li's family access to Wang Zhengjun made him dangerous despite lack of office; Kong Guang supplied the impeachment channel; Wang Mang converted kinship removal into public-order rhetoric; Peng Xuan retreated by resignation and was denied normal honors; and Kong Guang's later danger is foreshadowed by his role as Wang Mang's instrument.
@@ -16917,6 +16921,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！
 
 Added source note for the 2 CE Wang Mang disaster-relief and image-management episode. Key claims: drought and locust displacement become a stage for imperial austerity, Wang Mang's donation and elite emulation, refugee housing, auspicious recovery reports, publicized vegetarian restraint, honorable handling of Gong Sheng and Bing Han's resignation requests, and bandit resettlement.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

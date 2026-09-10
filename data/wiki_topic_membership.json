@@ -28784,6 +28784,20 @@
       "url": "/topics/economics/"
     }
   ],
+  "GriefAttachmentRemapping": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "GriefPhysiologySupport": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Grok": [
     {
       "key": "technology",
@@ -61381,6 +61395,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "StructuredGrievingPractice": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "StubbinsFfirth": [
     {
       "key": "science",
@@ -76332,6 +76353,13 @@
     }
   ],
   "essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "essentials-the-science-process-of-healing-from-grief-scim9466548315": [
     {
       "key": "science",
       "label": "Science",

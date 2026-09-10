@@ -34085,6 +34085,38 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/greaterbayareacinema/"
     },
+    "GriefAttachmentRemapping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9466548315 [SCIM9466548315].md",
+          "key": "essentials-the-science-process-of-healing-from-grief-scim9466548315",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Process of Healing from Grief",
+          "url": "/wiki/sources/essentials-the-science-process-of-healing-from-grief-scim9466548315/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/griefattachmentremapping/"
+    },
+    "GriefPhysiologySupport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9466548315 [SCIM9466548315].md",
+          "key": "essentials-the-science-process-of-healing-from-grief-scim9466548315",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Process of Healing from Grief",
+          "url": "/wiki/sources/essentials-the-science-process-of-healing-from-grief-scim9466548315/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/griefphysiologysupport/"
+    },
     "Grokbot": {
       "episode_count": 2,
       "show_count": 1,
@@ -76421,6 +76453,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/structuralpowerimbalance/"
+    },
+    "StructuredGrievingPractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9466548315 [SCIM9466548315].md",
+          "key": "essentials-the-science-process-of-healing-from-grief-scim9466548315",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Science & Process of Healing from Grief",
+          "url": "/wiki/sources/essentials-the-science-process-of-healing-from-grief-scim9466548315/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/structuredgrievingpractice/"
     },
     "SuDingJiaozhi": {
       "episode_count": 1,

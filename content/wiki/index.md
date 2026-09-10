@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: The Science & Process of Healing from Grief](sources/essentials-the-science-process-of-healing-from-grief-scim9466548315.md) — Huberman Lab Essentials episode on grief as attachment remapping through space, time, closeness, yearning, structured grieving, physiology, sleep, cortisol, NSDR, and support.
 - [OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权](sources/openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958.md) — 声动早咖啡 daily scan on OpenAI's contested Navier-Stokes claim, DeepSeek API price cuts, Alibaba B2B integration, Moutai channel pricing, Tesla promotions, luxury price pressure, HYROX's reported control sale, and snack-retail weighing disputes.
 - [《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？](sources/zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut.md) — 1 BCE Wang Mang backfill on Wang Li's indirect removal through Kong Guang, Wang Zhengjun's coerced public-order approval, persona-protected purge procedure, Zhao/Fu empress deaths, Peng Xuan's retreat, and Kong Guang's puppet-risk awareness.
 - [《资治通鉴·汉纪》608丨揭秘西汉奥斯卡最佳“演员”：王莽](sources/zizhi-tongjian-hanji-608-jiemi-xihan-aosika-zuijia-yanyuan-wangmang-llwfchwpkmuesz0nmdr48qpuwcjk.md) — 1 CE Wang Mang reward-refusal loop where staged humility, illness, ministerial pressure, Wang Zhengjun's endorsement, and welfare language turn nonacceptance into Taifu/Anhan Gong status inflation.
@@ -11660,6 +11661,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Grief Attachment Remapping](concepts/GriefAttachmentRemapping.md) — Grief model where closeness remains while the brain relearns space-time expectations after loss.
+- [Grief Physiology Support](concepts/GriefPhysiologySupport.md) — Sleep, circadian, autonomic, oxytocin, cortisol, NSDR, and support frame for grief remapping.
+- [Structured Grieving Practice](concepts/StructuredGrievingPractice.md) — Bounded grieving-time practice that preserves attachment while reducing counterfactual rumination.
 - [Navier-Stokes Equations](concepts/NavierStokesEquations.md) — Fluid-motion equations tracked here as a high-stakes AI-for-math and proof-governance test case after a contested OpenAI claim.
 - [Block And Dissent Hygiene / 拉黑与异见卫生](concepts/BlockAndDissentHygiene.md) — managing online boundaries by balancing blocking and deletion against deliberate exposure to dissent.
 - [Emotional Stability As Social Norm / 情绪稳定作为社会规范](concepts/EmotionalStabilityAsSocialNorm.md) — separating adult composure, inner emotional fluctuation, scene discipline, and social pressure.

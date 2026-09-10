@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-10
-as_of_overview_commit: 8a49c0cec8428a8a0074c2321544c3b16f81789f
+as_of_overview_commit: bb067a543260b79114131e82c85fc7066812c457
 summary: "Bounded judgment matters: evidence, context, incentives, trust, and operating capacity decide whether ideas work."
-episode_count: 2108
-source_count: 2108
-paragraph_count: 602
+episode_count: 2115
+source_count: 2115
+paragraph_count: 603
 topic_count: 8
 ---
 
@@ -17,12 +17,12 @@ topic_count: 8
 ## Executive Summary
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[OfficeAgentHarnessDesign]], [[EnterpriseConnectorContextQuality]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[PersistentCloudAgents]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[AgentReliabilityVerification]], [[AgentCommandCenter]], [[TeamAgentMemory]], [[AgenticDataEngineeringHarness]], [[PolicyBoundAgenticLendingSupport]], [[ExplainableAILending]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation.
-- [[default-mp3-ywr3ahjkcgo-8dbc38a9b9e4647dbd8e2ebddb601c4e-26201098-default-mp3-ywr3ahjkcgo-8dbc38a9b9e4647dbd8e2ebddb601c4e-26201098|The Planet Money inflation episode]] adds that a cooled-inflation economy can still split lived experience through assets, pensions, wages, household costs, and cohort timing: [[LindsayCole]] grounds [[FinancialStressCognitiveTax]], [[RickSchultz]] grounds [[RetirementCashFlowSecurity]] and [[EquityRetirementAssetBinding]], and [[LeoVamaka]] grounds [[InflationShapedConsumerHabits]] and [[GenerationalEconomicTiming]] inside [[USEconomicExperienceSplit]] and [[KShapedConsumerSpending]].
+- [[180-dang-yige-ba-suoyou-qian-dou-fang-huoqi-cunkuan-de-licai-kongjuzhe-kaishi-kaolu-zichan-peizhi-chuantai-ritan-gongyuan-lhrdghshmoru81bjmu5ihpyefzvb|episode 180]] adds that household asset allocation can start before "investing" proper: [[LiShuRitanPark|李叔]]'s cash-heavy avoidance and housing regret show why [[InvestmentAvoidanceTrauma]] must be handled through [[PortfolioSuitability]], emergency-cash planning, [[HousingExperienceInvestmentSplit]], the [[InvestmentImpossibleTriangle]], and [[HouseholdFinancialRedundancy]] rather than through an immediate product recommendation.
 - Cultural form is an interpretive infrastructure: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], and [[PhysicalBookDesignTradeoff]] show that objects, books, and exhibitions need labels, material form, production choices, and local context before audiences can understand them.
 - [[all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f|AfD's Saxony-Anhalt victory]] turns [[FarRightStateGovernanceTest]] into a government-formation problem rather than a simple breakthrough story: [[AlternativeForGermany|AfD]] reaches 44% and the [[ChristianDemocraticUnionGermany|CDU]] falls to 17%, but [[BundnisSahraWagenknecht|BSW]] leverage, [[UlrichSiegmund]]'s minority-government reluctance, the [[BrandmauerCordonSanitaire|Brandmauer]], and [[SvenSchulze]]'s possible acting-premier continuity make [[GermanCaretakerStalemate]] a live institutional outcome.
 - [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone.
 - Across [[ShiDiFuShuo]] and related pages, psychological knowledge is most useful when it restores contact with body, context, and responsibility boundaries; otherwise concepts such as [[PsychologyConceptSelfPunishment]] and [[OmnipotentSelfBlame]] can become new self-monitoring tools.
-- [[how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664|The Rutter Huberman Lab episode]] adds a cell-level metabolism branch: [[CellularMetabolismMosaic]] treats whole-body metabolism as many specialized cellular programs, while [[MitochondrialEnergyAllocation]], [[MitochondrialPyruvateCarrier]], [[LactateMetabolicShuttle]], [[CancerMetabolicReprogramming]], and [[ReactiveOxygenSpeciesMetabolicStress]] connect pyruvate routing, lactate fuel use, MPC1/MPC2, cancer growth allocation, and excess-energy ROS damage to [[MedicalRiskManagement]] rather than simple calorie slogans or patient-facing protocols.
+- [[essentials-the-science-process-of-healing-from-grief-scim9466548315|The Huberman Lab grief Essentials episode]] adds a grief-health branch: [[GriefAttachmentRemapping]] treats healthy grieving as preserving closeness while relearning space-time expectations, while [[StructuredGrievingPractice]] and [[GriefPhysiologySupport]] connect dedicated grieving blocks, counterfactual-rumination limits, oxytocin-linked yearning, vagal-tone-related disclosure, sleep, cortisol rhythm, [[MorningLightCircadianAnchoring]], NSDR, and qualified support to [[Neuroplasticity]] and [[MedicalRiskManagement]] rather than individualized bereavement treatment.
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
 
 ## Synthesis by Domain

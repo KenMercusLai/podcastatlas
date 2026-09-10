@@ -3,16 +3,16 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-09-09
-as_of_overview_commit: 8bc79b5a2ed91a304ff0fa6ed8f6e05c2eb43404
-input_digest: 39b16d9529c570de1db6fe03806a39cf728f13d3304e010efd02c23e98355fa1
+last_updated: 2026-09-10
+as_of_overview_commit: bb067a543260b79114131e82c85fc7066812c457
+input_digest: d90fbfed93df08890f05fc0c3937462468b660bf26c974ec4cadf340189ff507
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-The Rutter mitochondria episode adds a cellular-metabolism branch: pyruvate routing, MPC1/MPC2, lactate as fuel, cancer metabolic reprogramming, and excess-energy ROS stress show how cell identity and mitochondrial allocation refine, but do not replace, organism-level energy-balance and medical-risk boundaries. Episode 225 adds a nonclinical ecology-and-law branch: Macfarlane, river-personhood examples, and carrier-bag thinking frame rivers as living relational systems whose harm cannot be reduced to engineering or resource allocation alone. Science-health-and-climate joins practical health literacy, anesthesiology, medicine, animal welfare, urban wildlife coexistence, climate and space infrastructure, biomedical governance, historical health inference, speech-language rehabilitation, and nutrition/body-composition coaching through a common boundary theme: mechanism, measurement, source gaps, escalation thresholds, implementation constraints, and qualified care matter more than headline labels. Health branches now include Attia longevity framing around physical, cognitive, and emotional healthspan; ApoB, blood pressure, cardiovascular prevention, cancer-screening burden, neurodegenerative risk levers, exercise pillars, overdose risk, and emotional repair remain source-scoped public education alongside anesthesia and perioperative recovery safety, female and male urology symptom, leakage, pregnancy urine-test, infection-behavior, and screening boundaries, CGM and GLP-1 boundaries, headphone exposure, sugar and functional-food literacy, 24-hour sleep-wake timing through light, temperature, caffeine, substance, supplement, and phase-shifting boundaries, flexible sleep/circadian/recovery fundamentals, hormone phenotyping, exercise and flexibility safety, diagnostic safety netting, spine rehabilitation, pediatric language-delay assessment, aphasia rhythm cueing, dysarthria capability boundaries, metabolic psychiatry, bipolar and OCD care, bite escalation, individualized cancer vaccines, companion-animal welfare, urban wildlife feeding and conflict management, and evidence-bounded body-composition fundamentals. The nonclinical strands apply the same boundary logic to Himalayan glacial floods, space launch capacity, reusable rockets, climate adaptation and carbon removal, construction carbon, scientific reconstruction, health-data AI privacy, science-policy capacity, insurance planning, relationship science, and source-scoped cultivation or historical health claims. Andy Stumpf adds a public-conversation boundary for social-media attention, substance risk, cold stress, mental-health disclosure, and extreme-environment risk, treated as source-scoped rather than medical, psychiatric, addiction, or sport instruction. The EP384 semaglutide/tirzepatide discussion sharpens the GLP-1 branch by adding GIP co-agonism, individual response variation, pregnancy and thyroid/mood cautions, muscle-preservation work, rebound risk, and research-use peptide self-injection as medical-risk boundaries rather than casual optimization cues. The autism and Xiaomei gene-editing paragraph adds a disability-care and gene-editing ethics boundary: autism support should remain evidence-based, family-involved, and system-backed, while nonfatal developmental difference should not be converted into high-risk repair through parental fear, ableist cure pressure, incomplete disclosure, or scientific ambition. The new source is only adjacent to this topic through measurement logic: marketing-science path claims need explicit attribution and data-visibility boundaries. VOL.222 adds a public first-aid branch where emergency triage, CPR/AED thresholds, chest-pain escalation, seizure protection, wound and burn routing, sports-injury warning signs, and medication self-combination risk are treated as bounded everyday health literacy.
+Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, and qualified care matter more than headline labels. Current health branches cover cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, metabolic drugs and monitoring, nutrition and supplements, exercise and flexibility, first aid, autism and gene-editing ethics, and now grief as attachment remapping supported by sleep, circadian, autonomic, cortisol, NSDR, and professional-support boundaries. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, and science-policy capacity.
 
 ## Cross-source Findings
 
@@ -87,6 +87,18 @@ The Rutter mitochondria episode adds a cellular-metabolism branch: pyruvate rout
 - The episode is public sleep and circadian education, not individualized sleep-medicine, pediatric, occupational, jet-lag, shift-work, psychiatric, supplement, or prescribing advice.
 - Morning light, late-day light, evening darkness, temperature tools, caffeine delay, red light, cold exposure, sauna or baths, naps, and phase-shifting around the temperature minimum remain source-scoped and context-dependent.
 - Alcohol, THC, melatonin, magnesium threonate, apigenin, and theanine are treated through sleep-architecture, hormone, side-effect, and clinician-supervision boundaries rather than as universal protocols.
+
+### Grief Remapping Needs Attachment Physiology And Care Boundaries
+
+[[essentials-the-science-process-of-healing-from-grief-scim9466548315|The Huberman Lab grief Essentials episode]] adds a grief-health branch: [[GriefAttachmentRemapping]] treats healthy grieving as preserving closeness while relearning space-time expectations, while [[StructuredGrievingPractice]] and [[GriefPhysiologySupport]] connect dedicated grieving blocks, counterfactual-rumination limits, oxytocin-linked yearning, vagal-tone-related disclosure, sleep, cortisol rhythm, [[MorningLightCircadianAnchoring]], NSDR, and qualified support to [[Neuroplasticity]] and [[MedicalRiskManagement]] rather than individualized bereavement treatment.
+
+**Evidence:** [[essentials-the-science-process-of-healing-from-grief-scim9466548315]], [[HubermanLab]], [[AndrewHuberman]], [[GriefAttachmentRemapping]], [[StructuredGrievingPractice]], [[GriefPhysiologySupport]], [[Neuroplasticity]], [[SleepWakeTimingToolkit]], [[MorningLightCircadianAnchoring]], [[StressResponseRecovery]], [[REMEmotionalMemorySeparation]], [[EmotionalHealthLongevity]], [[MedicalRiskManagement]]
+
+**Qualifications:**
+
+- The episode is public grief and neuroscience education, not individualized bereavement, psychiatric, sleep-medicine, endocrine, or trauma treatment.
+- The five-stages model is qualified as non-mandatory, not replaced by a complete clinical grief theory.
+- Oxytocin receptor, writing, vagal tone, cortisol, light, NSDR, and grieving-block claims remain source-scoped and context-dependent.
 
 ### Metabolic Tools Need Indication Context And Maintenance Boundaries
 

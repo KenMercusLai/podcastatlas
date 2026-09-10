@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6911
+wiki_total_pages: 6914
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1646,6 +1646,9 @@ wiki_pages:
   - key: "StructuredFundPairConversion"
     title: "Structured Fund Pair Conversion / 分级基金配对转换"
     url: "/wiki/concepts/structuredfundpairconversion/"
+  - key: "StructuredGrievingPractice"
+    title: "Structured Grieving Practice"
+    url: "/wiki/concepts/structuredgrievingpractice/"
   - key: "SubagentWorkflow"
     title: "Subagent Workflow"
     url: "/wiki/concepts/subagentworkflow/"

@@ -602,12 +602,13 @@
       "2329e7eab06651d12277d1121e2f6f787bf502e9b853ce051ac66f1a6ecc7b80",
       "08ce087b5036dedcaf145e2c88ca51ea2070e265e9815cfe93ea1755ee057d3f",
       "6701e8b392caf729c79e1e660e6d138d48a06b0d176497dfeb0b07df834cfc04",
-      "ae2b2aa1219b37e57e08c07521a2eaf527f4687c5e1328c22e1cc20820886799"
+      "ae2b2aa1219b37e57e08c07521a2eaf527f4687c5e1328c22e1cc20820886799",
+      "af3804b43668f1c501baa164dc3ef5b56251105ae8d2f04d8cb43e40c831154e"
     ],
-    "paragraph_count": 602
+    "paragraph_count": 603
   },
-  "overview_commit": "b5778a497464aba4a3b07e6d94207e50e3454057",
-  "overview_digest": "da106f2273ebf513de6a2a49fc028660b2027a457e6d13b1a1e0626be620e21b",
+  "overview_commit": "bb067a543260b79114131e82c85fc7066812c457",
+  "overview_digest": "089f0fa55bef456783f10af3c34ae3f93ae7ea2ba44f468c378251303e12d35f",
   "paragraphs": [
     {
       "id": "bdae292c892008ecc50154b7bc182e1b7cb90407dce00c4401dda9ba0ca99f0c",
@@ -18466,6 +18467,31 @@
         "WangJiye",
         "XiaoKuaiStandup",
         "luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a"
+      ]
+    },
+    {
+      "id": "af3804b43668f1c501baa164dc3ef5b56251105ae8d2f04d8cb43e40c831154e",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[essentials-the-science-process-of-healing-from-grief-scim9466548315|Essentials: The Science & Process of Healing from Grief]], a [[HubermanLab]] Essentials episode in which [[AndrewHuberman]] frames grief as [[GriefAttachmentRemapping]] rather than a fixed-stage sequence or forced detachment. It adds [[GriefAttachmentRemapping]], [[StructuredGrievingPractice]], and [[GriefPhysiologySupport]], while connecting [[Neuroplasticity]], [[SleepWakeTimingToolkit]], [[MorningLightCircadianAnchoring]], [[StressResponseRecovery]], [[REMEmotionalMemorySeparation]], and [[EmotionalHealthLongevity]]. Its core synthesis is that healthy grieving preserves closeness while the nervous system relearns space-time expectations: yearning can reflect continued seeking predictions, dedicated grieving blocks can deepen attachment without counterfactual rumination, and sleep, cortisol rhythm, vagal-tone-related bodily awareness, NSDR, and professional or group support can stabilize the physiology in which remapping occurs. No settled contradiction is recorded; the source qualifies the five-stages model as non-mandatory and keeps oxytocin, writing, vagal tone, cortisol, light, NSDR, and grieving-block claims source-scoped public education rather than individualized bereavement treatment.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "science-health-and-climate": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "EmotionalHealthLongevity",
+        "GriefAttachmentRemapping",
+        "GriefPhysiologySupport",
+        "HubermanLab",
+        "MorningLightCircadianAnchoring",
+        "Neuroplasticity",
+        "REMEmotionalMemorySeparation",
+        "SleepWakeTimingToolkit",
+        "StressResponseRecovery",
+        "StructuredGrievingPractice",
+        "essentials-the-science-process-of-healing-from-grief-scim9466548315"
       ]
     }
   ],

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6911
+wiki_total_pages: 6914
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -410,9 +410,15 @@ wiki_pages:
   - key: "GreshamsLaw"
     title: "Gresham's Law / 劣币驱逐良币"
     url: "/wiki/concepts/greshamslaw/"
+  - key: "GriefAttachmentRemapping"
+    title: "Grief Attachment Remapping"
+    url: "/wiki/concepts/griefattachmentremapping/"
   - key: "GriefCompanionSupport"
     title: "Grief Companion Support / 丧亲陪伴支持"
     url: "/wiki/concepts/griefcompanionsupport/"
+  - key: "GriefPhysiologySupport"
+    title: "Grief Physiology Support"
+    url: "/wiki/concepts/griefphysiologysupport/"
   - key: "GroupPolarization"
     title: "Group Polarization / 群体极化"
     url: "/wiki/concepts/grouppolarization/"
