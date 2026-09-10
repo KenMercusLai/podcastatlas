@@ -7,7 +7,8 @@ sources:
   - 701-roman-civil-war-rise-of-the-general-part-1-glt1262857909
   - 702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089
   - 703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511
-last_updated: 2026-09-07
+  - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
+last_updated: 2026-09-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,6 +26,8 @@ Episode 702 deepens Sulla's pre-coup career. He is patrician but not securely we
 
 Episode 703 resolves that threshold by making Sulla the first Roman commander in this sequence to march an army on Rome. His soldiers accept the move because the Mithridatic command promises glory and plunder; most senior officers desert because the norm violation is obvious. Sulla enters Rome, uses force against resistance, posts guards around the Senate, and has Marius, Sulpicius, and allies declared public enemies. He then leaves an unstable Italy for the east, defeats Mithridates's forces, sacks and spares [[Athens]] in a damaging mix, punishes Asia, and accepts a pragmatic treaty because [[LuciusCorneliusCinna]]'s regime has condemned him at home.
 
+Episode 704 completes the arc by making Sulla master of Rome. Cinna dies in a mutiny, [[GaiusMariusYounger]] rises too quickly and is defeated, and the [[Samnites]] nearly take Rome before Sulla and [[MarcusLiciniusCrassus]] win at the Colline Gate. Sulla then stages the Villa Publica massacre, posts [[SullanProscriptions|proscription]] lists, redistributes property to supporters, and accepts an open-ended [[SullanDictatorship|dictatorship]] that he says will restore the republic. His reforms are conservative in aim, but his means are revolutionary: terror, confiscation, extraordinary office, and a precedent later commanders can study.
+
 ## Key Characteristics
 
 - Sulla begins in the current evidence as a talented subordinate inside Marius's command network, not only as a later dictator.
@@ -33,7 +36,7 @@ Episode 703 resolves that threshold by making Sulla the first Roman commander in
 - His Social War performance makes him the standout Roman commander and helps win the 88 BC consulship.
 - His Mithridatic command fuses consulship, foreign war, glory, wealth, and soldier expectation.
 - His stripped command produces the [[FirstMarchOnRome|first march on Rome]], where army loyalty overrides republican taboo and legality is reconstructed under force.
-- His eastern campaign shows military competence and political urgency together: he defeats Mithridates, breaks Athens, and settles quickly because Italy is sliding toward civil war.
+- His eastern campaign and final settlement combine military competence, political urgency, massacre, proscriptions, property redistribution, open-ended dictatorship, conservative reform, and voluntary abdication.
 
 ## Evidence
 
@@ -44,17 +47,21 @@ Episode 703 resolves that threshold by making Sulla the first Roman commander in
 - Command crisis: [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] says Sulla was assigned the Mithridatic command as consul, then stripped of it by a plebiscite transferring command to Marius.
 - March and sanction: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] says Sulla's six legions march on Rome, envoys' boundary appeals fail, armed force enters the city, and the Senate declares Marius and Sulpicius public enemies under pressure.
 - Eastern campaign and return pressure: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] says Sulla sacks Athens, defeats Mithridates's armies, negotiates a treaty, punishes Asia, and must return because Cinna's regime has outlawed and condemned him.
+- Final civil-war victory: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Cinna's death, Marius Younger's defeat at Praeneste, and the Samnite defeat at the Colline Gate leave Sulla master of Rome.
+- Terror settlement: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Sulla massacres 6,000 Samnite prisoners, posts proscription lists, confiscates property, and rewards supporters.
+- Dictatorship and reforms: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Sulla receives an open-ended dictatorship, expands the Senate, limits repeated consulship, sets age minimums, and weakens the tribunate.
+- Abdication and legacy: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Sulla lays down power after two years, while Caesar later judges him foolish for doing so.
 - Civil terror precedent: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] treats Sulla's conflict with Marius and death lists as evidence that republican politics had already become violent before Caesar.
 
 ## Qualifications
 
-Episode 703 shows Sulla crossing the march-on-Rome threshold, but his dictatorship and proscriptions remain grounded mainly in the Caesar source until the next Roman Civil War episode supplies fuller narrative evidence. The page also keeps causality mixed: Sulla acts with personal ambition and ruthlessness, but the source also stresses longer campaigns, soldier loyalty, street violence, and the lucrative eastern command.
+The page keeps causality mixed. Sulla acts with personal ambition, vengeance, and ruthlessness, but the sources also stress longer campaigns, soldier loyalty, street violence, Italian hostility, and the lucrative eastern command. Episode 704 presents him as a conservative who believes he is restoring the republic, not as a simple founder of monarchy, even though his methods fatally widen the repertoire of Roman power.
 
 ## What Changed
 
-- Moved Sulla from command-stripping threshold to the commander who violates the taboo against marching on Rome.
-- Added Sulla Felix self-belief, Senate-backed outlawry, the imposed Cinna oath, Athens, Mithridatic victories, and the pragmatic eastern settlement.
-- Reframed Sulla's legality claim as revolutionary force acting in the name of republican restoration.
+- Added Sulla's return to Italy, Colline Gate victory, Samnite massacre, proscriptions, open-ended dictatorship, reforms, abdication, and Caesar-facing legacy.
+- Reframed Sulla's profile from march-on-Rome precedent to the fuller paradox of terror used in the name of republican restoration.
+- Resolved the prior source gap around dictatorship and proscriptions with episode 704 evidence.
 
 ## Relationships
 
@@ -63,8 +70,14 @@ Episode 703 shows Sulla crossing the march-on-Rome threshold, but his dictatorsh
 - [[MithridatesVI]] - Pontic king whose war creates Sulla's command prize and eastern campaign.
 - [[Athens]] - Greek city Sulla besieges, sacks, spares in name, and humiliates after revolt.
 - [[LuciusCorneliusCinna]] - consul whose oath Sulla imposes and whose regime later condemns Sulla.
+- [[GaiusMariusYounger]] - Marian heir whom Sulla defeats and traps at Praeneste.
+- [[Samnites]] - Italian enemies whom Sulla defeats and massacres after Colline Gate.
+- [[Pompey]] - young ally whose illegal army Sulla accepts and rewards.
+- [[MarcusLiciniusCrassus]] - ally whose Colline Gate role and proscription profiteering shape the settlement.
 - [[SocialWar]] - conflict in which Sulla's command reputation becomes politically decisive.
 - [[FirstMarchOnRome]] - event concept centered on Sulla's army-backed seizure of Rome.
+- [[SullanProscriptions]] - list-based terror and confiscation regime that follows Sulla's victory.
+- [[SullanDictatorship]] - extraordinary office and reform program through which Sulla claims to restore the republic.
 - [[RepublicanCommandTransferCrisis]] - institutional trigger centered on Sulla's stripped command and six legions.
 - [[MilitaryPersonalization]] - mechanism connecting Sulla's army-backed politics to commander-centered loyalty.
 - [[LateRomanRepublicCrisis]] - structural crisis in which Sulla is the pre-Caesar terror precedent.

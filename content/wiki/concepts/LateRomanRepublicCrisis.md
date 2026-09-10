@@ -7,7 +7,8 @@ sources:
   - 701-roman-civil-war-rise-of-the-general-part-1-glt1262857909
   - 702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089
   - 703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511
-last_updated: 2026-09-07
+  - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
+last_updated: 2026-09-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,6 +26,8 @@ Episode 702 moves the sequence from prehistory to breakdown mechanics. Marius's 
 
 Episode 703 changes the crisis from immediate threshold to explicit precedent. Sulla answers the command loss with the [[FirstMarchOnRome|first march on Rome]], enters the capital, and has his enemies declared public enemies through a Senate operating under military pressure. The same logic then spreads: [[LuciusCorneliusCinna]] and [[GnaeusOctaviusRomanConsul]] turn citizenship disagreement into expulsion and outlawry; Cinna and Marius raise armies, take Rome, kill Octavius, and condemn Sulla while Sulla is fighting Mithridates and [[Athens]] abroad. The concept therefore now treats the late republic as a field where legality, speech, elections, and office still exist, but opponents increasingly use armies and enemy-of-state categories to decide what those forms mean.
 
+Episode 704 changes the crisis from precedent to attempted cure. Sulla defeats Cinna's successors, [[GaiusMariusYounger]], and the [[Samnites]], then uses massacre, [[SullanProscriptions]], confiscation, and [[SullanDictatorship|dictatorship]] to rebuild the republic on conservative terms. The episode's judgment is double: Sulla's reforms are intended to stop repeated consulships, youthful office grabs, tribunate disruption, and senatorial weakness, but his own victory teaches that an army-backed commander can seize Rome, kill enemies, redistribute property, hold extraordinary office, and redesign the constitution.
+
 The concept changes the moral question around Caesar and the assassination. If the republic was already unable to absorb inequality, outsider ambition, army loyalty, Italian citizenship pressure, coercive popular procedure, public-enemy outlawry, and civil violence, then killing one dominant figure could not repair the institutional field that produced him.
 
 ## Key Claims
@@ -35,7 +38,7 @@ The concept changes the moral question around Caesar and the assassination. If t
 - Popular politics and elite republicanism are both ambiguous; neither maps cleanly onto modern democracy or oligarchy, and both can become coercive under crisis.
 - Military command becomes politically dangerous when foreign wars create personal reputation, reward networks, credit disputes, and soldiers willing to follow commanders against Rome.
 - Citizenship exclusion becomes destabilizing when Italian allies share Rome's burdens and profits without full political standing.
-- Public-enemy declarations turn opposition into outlawry, making legal categories part of the pathway into murder and civil war.
+- Public-enemy declarations, proscriptions, and extraordinary dictatorship turn opposition into outlawry, making legal categories part of the pathway into murder, confiscation, and constitutional redesign.
 
 ## Evidence
 
@@ -49,17 +52,17 @@ The concept changes the moral question around Caesar and the assassination. If t
 - Coercive popular procedure: [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] presents the Marius-Sulpicius bargain, street violence, and plebiscite removing Sulla from command.
 - March and public-enemy precedent: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] shows Sulla marching on Rome, occupying the Senate field, and having Marius and Sulpicius declared public enemies.
 - Spiral after Sulla: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] shows Cinna's expulsion and outlawry, Cinna and Marius's siege of Rome, Octavius's killing, Marius's seventh consulship and death, and Cinna's anti-Sulla regime.
+- Sullan settlement: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] shows Cinna's mutiny death, Marius Younger's illegal consulship and suicide, the Colline Gate victory, Samnite massacre, proscriptions, dictatorship, reforms, abdication, and Caesar-facing legacy.
 
 ## Counterevidence & Qualifications
 
-The current sources do not claim a single inevitable collapse path. Episode 703 resolves Sulla's first march and eastern campaign but still stops before Sulla's return to Italy, dictatorship, and proscriptions. The crisis frame also does not absolve Caesar or later actors; it explains why individual choices became unusually destructive inside an already strained institutional field.
+The current sources do not claim a single inevitable collapse path. Episode 704 resolves the Sullan settlement but still leaves the later path from Sulla to Pompey, Caesar, and Augustus incomplete. The crisis frame also does not absolve Caesar or later actors; it explains why individual choices became unusually destructive inside an already strained institutional field.
 
 ## What Changed
 
-- Moved the Marius-Sulla branch from command-transfer threshold to army-backed seizure of Rome and public-enemy legality.
-- Added Cinna, Octavius, Marius's return, and Cinna's regime as evidence that Sulla's precedent spreads beyond Sulla.
-- Added Mithridatic and Athenian revolt as the foreign-imperial side of the same crisis.
-- Narrowed the remaining source gap to Sulla's return to Italy, dictatorship, and proscriptions.
+- Added Sulla's return, Colline Gate victory, proscriptions, dictatorship, conservative reforms, abdication, and Caesar-facing legacy.
+- Reframed Sulla's settlement as an attempted institutional repair whose methods deepen the crisis precedent.
+- Added the anti-Sullan side's own constitutional failures through Cinna and Marius Younger.
 
 ## Related Concepts
 
@@ -67,6 +70,8 @@ The current sources do not claim a single inevitable collapse path. Episode 703 
 - [[FirstMarchOnRome]] - event threshold where Sulla converts command loss into armed occupation of Rome.
 - [[RepublicanCommandTransferCrisis]] - command-allocation mechanism by which republican procedure becomes a fight over armies.
 - [[RepublicanEmergencyViolencePrecedent]] - violence mechanism by which emergency claims override republican protections.
+- [[SullanProscriptions]] - terror-confiscation mechanism that turns victory into listed death and property transfer.
+- [[SullanDictatorship]] - emergency-office mechanism through which Sulla tries to restore the republic by extraordinary power.
 - [[RomanExpansionMoralAnxiety]] - expansion-pressure mechanism feeding corruption, luxury fear, provincial resentment, and class resentment.
 - [[RomanAlliedCitizenshipCrisis]] - citizenship mechanism by which allied participation exceeds legal inclusion.
 - [[NovusHomoOutsiderPolitics]] - social-mobility mechanism visible in Marius's ascent.

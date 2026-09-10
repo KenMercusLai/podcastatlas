@@ -7,7 +7,8 @@ sources:
   - 701-roman-civil-war-rise-of-the-general-part-1-glt1262857909
   - 702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089
   - 703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511
-last_updated: 2026-09-07
+  - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
+last_updated: 2026-09-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,7 +24,9 @@ The Caesar source first makes Marius an earlier cause of the [[LateRomanRepublic
 
 Episode 702 turns that setup into high crisis. Marius returns from the Jugurthine War as Rome panics over the [[TeutonesAndCimbri]], receives repeated consulships, drills soldiers through disciplined routine, defeats the northern threat, stays relevant in the [[SocialWar]], and allies with [[PubliusSulpiciusRufus]] to take the Mithridatic command from Sulla. Episode 703 then shows the cost of that move: Sulla marches on Rome, Marius is declared a public enemy, Sulpicius is killed, and Marius survives a humiliating exile before returning with [[LuciusCorneliusCinna]] to besiege Rome. He enters the city, takes revenge on enemies, reaches the prophesied seventh consulship, and dies two weeks later.
 
-Marius's profile is therefore not simply "reformer" or "great general." He is the hinge where merit, emergency, citizenship politics, personal humiliation, command ambition, outlawry, and revenge strain republican containment from both sides of the Marius-Sulla rivalry.
+Episode 704 adds Marius mainly through afterlife. Cinna depends on the Marians, and [[GaiusMariusYounger]] inherits the family name as a factional symbol after the elder Marius's death. The son's illegal consulship, temple-treasure seizure, defeat, and suicide show that Marius's legacy becomes a civil-war brand even after Marius himself is gone.
+
+Marius's profile is therefore not simply "reformer" or "great general." He is the hinge where merit, emergency, citizenship politics, personal humiliation, command ambition, outlawry, revenge, and factional inheritance strain republican containment from both sides of the Marius-Sulla rivalry.
 
 ## Key Characteristics
 
@@ -33,7 +36,7 @@ Marius's profile is therefore not simply "reformer" or "great general." He is th
 - His citizenship gestures and Social War role connect him to the Italian-rights crisis as well as army reform.
 - Marius used popularis-style legitimacy without becoming a simple modern democrat or anti-elite outsider.
 - His rivalry with Sulla develops from Jugurthine credit tension into a direct struggle over the Mithridatic command and then a revenge cycle after Sulla's march.
-- His final return shows how a savior's prestige can survive disgrace and turn into armed reprisal when republican politics has become outlawry.
+- His final return and posthumous faction show how a savior's prestige can survive disgrace, death, and inheritance as armed reprisal.
 
 ## Evidence
 
@@ -45,21 +48,22 @@ Marius's profile is therefore not simply "reformer" or "great general." He is th
 - Military personalization prehistory: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] treats Marius's reforms as a shift toward commander loyalty, while [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]], [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]], and [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] trace that problem through command credit, repeated consulships, command seizure, and retaliatory army politics.
 - Marius-Sulla rivalry: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] presents Sulla's Jugurthine credit claim as the seed, [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] shows Marius using Sulpicius to remove Sulla from command, and [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] shows Sulla outlawing Marius after marching on Rome.
 - Exile, return, and death: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] narrates Marius's escape, Carthage exile image, return from Africa, private army, alliance with Cinna, revenge killings, seventh consulship, and death after two weeks.
+- Factional afterlife: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Cinna depends on the Marians and Marius Younger inherits leadership of the Marian political family before dying at Praeneste.
 
 ## Qualifications
 
-The page preserves source boundaries. Episode 702 treats the "military revolution" label as contested and gives Roman casualty figures for the northern victories as likely exaggerated. Episode 703 uses vivid exile traditions, prophecy, and moralized revenge scenes as narrative evidence for Marius's public memory, not as a complete independent biography of his final months.
+The page preserves source boundaries. Episode 702 treats the "military revolution" label as contested and gives Roman casualty figures for the northern victories as likely exaggerated. Episode 703 uses vivid exile traditions, prophecy, and moralized revenge scenes as narrative evidence for Marius's public memory, not as a complete independent biography of his final months. Episode 704's evidence is posthumous and factional; it should not be read as Marius personally directing events after his death.
 
 ## What Changed
 
-- Added Marius's outlawry, exile, return from Africa, private recruitment, Cinna alliance, revenge killings, seventh consulship, and death.
-- Reframed the Sulla rivalry as a reciprocal cycle: Marius's command grab triggers Sulla's march, and Sulla's outlawry helps create Marius's armed return.
-- Changed Marius from a threshold command claimant into a full civil-violence actor in the Roman branch.
+- Added Marius Younger's factional inheritance and collapse as evidence for the posthumous Marian brand.
+- Reframed Marius's legacy as continuing through Cinna's dependence on Marians and his son's accelerated civil-war career.
 
 ## Relationships
 
 - [[LuciusCorneliusSulla]] - subordinate turned rival whose command Marius tries to take and whose march drives Marius into exile.
 - [[LuciusCorneliusCinna]] - consul and ally who brings Marius back into the armed struggle for Rome.
+- [[GaiusMariusYounger]] - son and factional heir whose collapse ends the Marian line.
 - [[PubliusSulpiciusRufus]] - tribune whose citizenship politics Marius supports in exchange for command-transfer backing.
 - [[GnaeusOctaviusRomanConsul]] - conservative consul killed by Marius's men after Cinna and Marius take Rome.
 - [[TeutonesAndCimbri]] - northern opponents whose defeat makes Marius an emergency savior.

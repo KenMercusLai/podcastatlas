@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9534
+wiki_total_pages: 9536
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "GaiusMarius"
     title: "Gaius Marius / 马略"
     url: "/wiki/entities/gaiusmarius/"
+  - key: "GaiusMariusYounger"
+    title: "Gaius Marius Younger / 小马略"
+    url: "/wiki/entities/gaiusmariusyounger/"
   - key: "GalacticEmpire"
     title: "Galactic Empire"
     url: "/wiki/entities/galacticempire/"

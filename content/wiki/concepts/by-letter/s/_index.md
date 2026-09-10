@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6914
+wiki_total_pages: 6916
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1739,6 +1739,12 @@ wiki_pages:
   - key: "SufiImageLegitimacy"
     title: "Sufi Image Legitimacy"
     url: "/wiki/concepts/sufiimagelegitimacy/"
+  - key: "SullanDictatorship"
+    title: "Sullan Dictatorship / 苏拉独裁"
+    url: "/wiki/concepts/sullandictatorship/"
+  - key: "SullanProscriptions"
+    title: "Sullan Proscriptions / 苏拉公敌名单"
+    url: "/wiki/concepts/sullanproscriptions/"
   - key: "SummitAsTransformation"
     title: "Summit As Transformation"
     url: "/wiki/concepts/summitastransformation/"

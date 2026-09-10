@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2308
+topic_total_pages: 2309
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -4475,6 +4475,9 @@ topic_entities:
   - key: "GaiusMarius"
     title: "Gaius Marius / 马略"
     url: "/wiki/entities/gaiusmarius/"
+  - key: "GaiusMariusYounger"
+    title: "Gaius Marius Younger / 小马略"
+    url: "/wiki/entities/gaiusmariusyounger/"
   - key: "GarethBrown"
     title: "Gareth Brown"
     url: "/wiki/entities/garethbrown/"

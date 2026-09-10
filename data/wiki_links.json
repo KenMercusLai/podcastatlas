@@ -1307,6 +1307,10 @@
     "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
     "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
   },
+  "704-roman-civil-war-master-of-the-republic-part-4-glt9669112656": {
+    "title": "704. Roman Civil War: Master of the Republic (Part 4)",
+    "url": "/wiki/sources/704-roman-civil-war-master-of-the-republic-part-4-glt9669112656/"
+  },
   "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384": {
     "title": "71.美妆帝国蝴蝶牌：言情小说家的国货创业往事",
     "url": "/wiki/sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384/"
@@ -22770,6 +22774,10 @@
   "GaiusMarius": {
     "title": "Gaius Marius / 马略",
     "url": "/wiki/entities/gaiusmarius/"
+  },
+  "GaiusMariusYounger": {
+    "title": "Gaius Marius Younger / 小马略",
+    "url": "/wiki/entities/gaiusmariusyounger/"
   },
   "GaixiaBattle": {
     "title": "垓下之战 / Battle of Gaixia",
@@ -50259,6 +50267,10 @@
     "title": "同姓王分封 / Same-Surname King Enfeoffment",
     "url": "/wiki/concepts/samesurnamekingenfeoffment/"
   },
+  "Samnites": {
+    "title": "Samnites / 萨莫奈人",
+    "url": "/wiki/entities/samnites/"
+  },
   "SamsClub": {
     "title": "Sam's Club",
     "url": "/wiki/entities/samsclub/"
@@ -55034,6 +55046,14 @@
   "SukhothaiKingdom": {
     "title": "Sukhothai Kingdom / 苏可泰王朝",
     "url": "/wiki/entities/sukhothaikingdom/"
+  },
+  "SullanDictatorship": {
+    "title": "Sullan Dictatorship / 苏拉独裁",
+    "url": "/wiki/concepts/sullandictatorship/"
+  },
+  "SullanProscriptions": {
+    "title": "Sullan Proscriptions / 苏拉公敌名单",
+    "url": "/wiki/concepts/sullanproscriptions/"
   },
   "SumayyaShravani": {
     "title": "Sumayya Shravani",

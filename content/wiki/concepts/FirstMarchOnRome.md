@@ -4,7 +4,8 @@ type: concept
 tags: [rome, political-violence, military-command, republicanism]
 sources:
   - 703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511
-last_updated: 2026-09-07
+  - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
+last_updated: 2026-09-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ Episode 703 makes the march the threshold that episode 702 left unresolved. [[Ga
 
 The march matters because it changes the repertoire of Roman politics. Envoys appeal to the sacred boundary of Rome, but Sulla enters, answers rooftop resistance with force, occupies the area around the Senate, and then seeks legal sanction by having Marius, Sulpicius, and allies declared public enemies. The episode therefore treats the march as both revolutionary and conservative: Sulla claims to defend the old order while proving that the old order can be overridden by a commander with loyal troops.
 
+Episode 704 shows why the march is not just an isolated coup. After Sulla returns from the east, Pompey and Crassus join him through private or client-based forces, the Marian side uses youthful office-breaking and private legions, and Sulla's final victory leads to proscriptions and dictatorship. The first march is therefore the opening breach in a larger repertoire of army-backed republican repair and destruction.
+
 ## Key Claims
 
 - The march resolves a command-transfer crisis by force rather than by office, assembly, or senatorial settlement.
@@ -28,6 +31,7 @@ The march matters because it changes the repertoire of Roman politics. Envoys ap
 - Senior-officer desertion shows that elite norms still recognize the act as outrageous even while soldiers accept it.
 - Senate sanction after the seizure shows legality being reconstructed under military pressure.
 - The march sets a precedent that later Roman actors can imitate or fear when politics becomes armed rivalry.
+- Its later significance becomes clearer once Sulla returns and turns army-backed victory into proscriptions, dictatorship, reform, and abdication.
 
 ## Evidence
 
@@ -36,14 +40,15 @@ The march matters because it changes the repertoire of Roman politics. Envoys ap
 - Norm violation: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] presents the march as the first time a Roman commander leads an army against the city itself.
 - Sacred-boundary refusal: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] says envoys beg Sulla not to cross Rome's sacred boundary and he ignores them.
 - Force and sanction: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] describes soldiers entering Rome, rooftop resistance, flaming arrows, guards at the Senate House, and the declaration of Marius and Sulpicius as public enemies.
+- Later payoff: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] shows the march's logic extending into Sulla's final victory, private allied armies, proscriptions, open-ended dictatorship, and later Caesar-facing precedent.
 
 ## Counterevidence & Qualifications
 
-The source does not reduce the march to one cause. It gives Sulla agency and guilt, but also stresses longer campaigns, personal soldier-command ties, prior street violence, and the lucrative eastern command. The march is first in this source's Roman framing, not a claim about every possible earlier armed pressure episode in Roman history.
+The sources do not reduce the march to one cause. They give Sulla agency and guilt, but also stress longer campaigns, personal soldier-command ties, prior street violence, the lucrative eastern command, and the later civil-war incentives visible in Pompey and Crassus. The march is first in this Roman framing, not a claim about every possible earlier armed pressure episode in Roman history.
 
 ## What Changed
 
-- Created the first-march concept to store the episode's main new threshold: command loss answered by an army-backed seizure of Rome and retrospective legality.
+- Added episode 704's evidence that the first march becomes a durable precedent for private armies, proscriptions, dictatorship, and Caesar's later interpretation.
 
 ## Related Concepts
 
@@ -51,5 +56,7 @@ The source does not reduce the march to one cause. It gives Sulla agency and gui
 - [[MilitaryPersonalization]] - military mechanism that lets Sulla rely on soldiers attached to him and the eastern campaign.
 - [[LateRomanRepublicCrisis]] - broader institutional crisis made dramatically worse by the march.
 - [[RepublicanEmergencyViolencePrecedent]] - violence pattern extended when opponents are declared public enemies after force has decided the field.
+- [[SullanProscriptions]] - later terror system that follows the march's precedent of force-backed legality.
+- [[SullanDictatorship]] - later constitutional settlement made possible by Sulla's army-backed politics.
 - [[RomanAlliedCitizenshipCrisis]] - policy dispute that helped make the Marius-Sulpicius command maneuver possible.
 - [[PopularisPolitics]] - political mode whose Sulpician form helps provoke Sulla's reaction.

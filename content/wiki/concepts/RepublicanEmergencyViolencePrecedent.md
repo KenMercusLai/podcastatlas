@@ -6,7 +6,8 @@ sources:
   - 701-roman-civil-war-rise-of-the-general-part-1-glt1262857909
   - 702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089
   - 703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511
-last_updated: 2026-09-07
+  - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
+last_updated: 2026-09-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ Episode 702 adds a later urban-coercion layer. [[PubliusSulpiciusRufus]] reintro
 
 Episode 703 moves the precedent from street violence to public-enemy legality. After the [[FirstMarchOnRome|first march on Rome]], Sulla has the Senate declare Marius, Sulpicius, and allies public enemies; Sulpicius is betrayed and murdered, while Marius barely escapes. The category then repeats against [[LuciusCorneliusCinna]], who is expelled, stripped of office, declared a public enemy, and responds by raising an army. Once Cinna and Marius enter Rome, [[GnaeusOctaviusRomanConsul]] is killed in his chair of office. The concept is important because it explains how republican legality can become a channel for political killing once opposition is named as enemy status.
 
+Episode 704 turns the precedent into a public technology of terror. Sulla massacres [[Samnites|Samnite]] prisoners while the Senate can hear the killings, then posts [[SullanProscriptions|proscription]] lists that identify who can be killed, whose property can be seized, and whose descendants lose office access. Emergency violence no longer only removes opponents; it redistributes wealth, intimidates the Senate, punishes families, and supplies the background for [[SullanDictatorship|dictatorship]] in the name of restoring order.
+
 ## Key Claims
 
 - Republican protections can be weakened by precedent before they are formally abolished.
@@ -32,7 +35,7 @@ Episode 703 moves the precedent from street violence to public-enemy legality. A
 - Street violence can make formally legal assembly or plebiscitary decisions coercive in practice.
 - Public-enemy declarations convert opposition into killable outlaw status while retaining legal language.
 - The same emergency logic can be used by opposing factions, not only by one ideological side.
-- The pattern helps explain why assassination, command seizure, and proscription later become politically legible.
+- The pattern helps explain why assassination, command seizure, proscription, and emergency dictatorship later become politically legible.
 
 ## Evidence
 
@@ -45,16 +48,18 @@ Episode 703 moves the precedent from street violence to public-enemy legality. A
 - Sullan public-enemy turn: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] says Sulla has the Senate declare Marius, Sulpicius, and allies public enemies after occupying Rome.
 - Cinnan repetition: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] says Cinna is later expelled, stripped of office, declared a public enemy, and then raises an army.
 - Murder in office: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] says Octavius refuses to flee and is killed by Marius's men while seated in his chair of office.
+- Sullan massacre: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Sulla massacres 6,000 Samnite prisoners at the Villa Publica while addressing senators nearby.
+- Proscription system: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Sulla posts death lists, confiscates property, punishes descendants, and exposes helpers to death.
+- Terror-to-dictatorship pathway: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says proscriptions continue around the same settlement that gives Sulla an open-ended dictatorship.
 
 ## Counterevidence & Qualifications
 
-The sources do not claim that the Gracchi precedent mechanically caused every later Roman civil conflict. They identify a lowered boundary: republican legality still matters, but emergency violence, street coercion, and public-enemy categories show that legality can be overridden or pressured when elites, crowds, or commanders treat reform and command as existential stakes.
+The sources do not claim that the Gracchi precedent mechanically caused every later Roman civil conflict. They identify a lowered boundary: republican legality still matters, but emergency violence, street coercion, public-enemy categories, proscription, and extraordinary office show that legality can be overridden or pressured when elites, crowds, or commanders treat reform, command, and victory as existential stakes.
 
 ## What Changed
 
-- Extended the concept from Gracchan violence and Sulpician street coercion to Sulla's and Cinna's public-enemy escalations.
-- Added the reciprocal nature of emergency violence: both Sulla's side and his opponents use outlawry and force.
-- Added Octavius's killing in office as evidence that magistracy no longer protects political losers.
+- Added Villa Publica massacre, proscription lists, confiscation, hereditary office exclusion, and terror-to-dictatorship logic.
+- Reframed proscriptions as a more administrative and economic form of emergency violence.
 
 ## Related Concepts
 
@@ -62,6 +67,8 @@ The sources do not claim that the Gracchi precedent mechanically caused every la
 - [[FirstMarchOnRome]] - event that converts command-transfer conflict into Senate-backed outlawry under military pressure.
 - [[PopularisPolitics]] - reform and public-mobilization mode made more dangerous by the Gracchan precedent.
 - [[RepublicanCommandTransferCrisis]] - Sulla-Marius command dispute where street violence and army loyalty make procedure coercive.
+- [[SullanProscriptions]] - list-based form of emergency violence after Sulla's victory.
+- [[SullanDictatorship]] - extraordinary office legitimated after terror and civil-war victory.
 - [[TyrannicideRepublicanDilemma]] - later assassination problem where unlawful killing is framed as republican defense.
 - [[RepublicanMemoryAgainstDictatorship]] - memory frame that survives after violence and dictatorship damage the republic.
 - [[PoliticalAssassinationEthics]] - comparative concept for morally legible but institutionally risky unlawful killing.

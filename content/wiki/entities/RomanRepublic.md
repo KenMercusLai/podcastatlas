@@ -7,7 +7,8 @@ sources:
   - 701-roman-civil-war-rise-of-the-general-part-1-glt1262857909
   - 702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089
   - 703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511
-last_updated: 2026-09-07
+  - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
+last_updated: 2026-09-10
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,6 +26,8 @@ Episode 702 adds the next institutional layers. Emergency fear after Arausio let
 
 Episode 703 changes the republic's profile again because the command-transfer threshold becomes armed occupation of Rome itself. Sulla's legions cross the taboo boundary, resistance in the city is answered with force, and the Senate declares Marius and Sulpicius public enemies while Sulla's soldiers stand behind the settlement. After Sulla leaves, [[LuciusCorneliusCinna]] and [[GnaeusOctaviusRomanConsul]] turn citizenship disagreement into expulsion and outlawry; Cinna and Marius then use armies to take Rome, kill Octavius, and condemn Sulla. The republic's loss remains morally mixed: its legal and ceremonial forms still matter, but they are increasingly made operative by coercion, army control, and public-enemy classifications.
 
+Episode 704 turns the republic into the object of Sulla's bloody cure. The anti-Sullan side is not a stable constitutional alternative: Cinna holds consecutive consulships and dies in mutiny, while [[GaiusMariusYounger]] becomes consul at 26 and uses temple treasure for private armies. Sulla's victory over the [[Samnites]] at the Colline Gate is followed by prisoner massacre, [[SullanProscriptions]], confiscation, and an open-ended [[SullanDictatorship|dictatorship]]. His reforms strengthen the Senate, regularize office rules, restrict repeat consulships, and weaken the tribunate, but the same settlement proves that republican form can be remade by a victorious commander.
+
 ## Key Characteristics
 
 - The republic combined anti-king memory, elected office, aristocratic competition, popular assemblies, and senatorial authority.
@@ -33,7 +36,7 @@ Episode 703 changes the republic's profile again because the command-transfer th
 - Outsider ascent through the [[CursusHonorum|cursus honorum]] exposed tension between merit, military proof, and aristocratic lineage.
 - Foreign wars such as the Jugurthine and Mithridatic conflicts fed domestic competition over command, wealth, and public credit.
 - Italian allied exclusion shows that Rome's citizen institutions lag behind its peninsula-scale military and economic system.
-- By episode 703, republican legality still exists but is repeatedly reconstructed under army pressure, outlawry, and killing.
+- By episode 704, republican legality still exists but is repeatedly reconstructed under army pressure, outlawry, killing, confiscation, and extraordinary office.
 
 ## Evidence
 
@@ -46,17 +49,19 @@ Episode 703 changes the republic's profile again because the command-transfer th
 - Coercive command transfer: [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] describes rioting, Sulla's forced concessions, and a plebiscite removing Sulla from the Mithridatic command.
 - Army-backed occupation: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] describes Sulla's six-legion march, entry into Rome, guards at the Senate House, and Senate declaration of Marius and Sulpicius as public enemies.
 - Regime conflict after Sulla: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] says Cinna is expelled and outlawed, raises an army, joins Marius, takes Rome, and later leads a regime committed to Sulla's destruction.
-- Pre-Caesar breakdown: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]], [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]], [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]], and [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] all place Marius and Sulla before Caesar as evidence that the crisis was already advanced.
+- Anti-Sullan norm collapse: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Cinna's fourth consecutive consulship and Marius Younger's consulship at 26 show Sulla's opponents also violating republican restraint.
+- Sullan terror and reform: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] describes the Villa Publica massacre, proscriptions, confiscations, open-ended dictatorship, Senate expansion, office age rules, repeat-consulship limits, and tribunate restriction.
+- Pre-Caesar breakdown: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]], [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]], [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]], [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]], and [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] all place Marius and Sulla before Caesar as evidence that the crisis was already advanced.
 
 ## Qualifications
 
-The current evidence does not make the Roman Republic a generic template for all republics or democracies. The sources are podcast interpretations of late-republic crisis. Episode 703 resolves Sulla's first march and Athens campaign, but it still stops before Sulla's return to Italy, dictatorship, and proscriptions, so the full civil-war settlement remains pending.
+The current evidence does not make the Roman Republic a generic template for all republics or democracies. The sources are podcast interpretations of late-republic crisis. Episode 704 resolves the immediate Sullan settlement, but the page still does not offer a full post-Sulla path through Pompey's mature career, Caesar's campaigns, or the final imperial transition.
 
 ## What Changed
 
-- Added Sulla's first march on Rome, public-enemy legality, Cinna-Octavius breakdown, Marius's return, and Cinna's regime as evidence that republican forms now operate under armed pressure.
-- Shifted the republic's crisis profile from active institutional rupture to open precedent for army-backed politics in Rome.
-- Preserved the distinction between formal legal survival and practical coercive control.
+- Added Sulla's final victory, Samnite massacre, proscriptions, dictatorship, conservative reforms, and abdication.
+- Reframed the republic's Sullan moment as a failed cure: institutional repair attempted through methods that deepen the precedent for commander rule.
+- Added anti-Sullan norm breakdown through Cinna's consecutive consulships and Marius Younger's illegal acceleration.
 
 ## Relationships
 
@@ -66,10 +71,14 @@ The current evidence does not make the Roman Republic a generic template for all
 - [[GaiusMarius]] - outsider commander whose ascent and return expose the republic's military, office, and revenge pressures.
 - [[LuciusCorneliusSulla]] - commander whose first march on Rome makes army-backed legality explicit before Caesar.
 - [[LuciusCorneliusCinna]] - consul whose outlawry and army recruitment continue the post-Sullan crisis.
+- [[GaiusMariusYounger]] - Marian heir whose illegal consulship shows anti-Sullan constitutional collapse.
+- [[Samnites]] - Italian people whose final attack and massacre shape Sulla's victory.
 - [[Athens]] - Greek city broken by Sulla while the republic's domestic legitimacy collapses.
 - [[SocialWar]] - Italian allied revolt exposing the republic's citizenship limits.
 - [[RomanAlliedCitizenshipCrisis]] - rights and institutional-scale problem behind the Social War and Cinna-Octavius split.
 - [[RepublicanCommandTransferCrisis]] - failure mode in which public procedure is used to seize military command.
 - [[FirstMarchOnRome]] - army-backed precedent produced by the command-transfer crisis.
+- [[SullanProscriptions]] - list-based terror and confiscation regime after Sulla's victory.
+- [[SullanDictatorship]] - extraordinary office and reform program through which Sulla claims to restore the republic.
 - [[LateRomanRepublicCrisis]] - synthesis concept for the republic's structural breakdown.
 - [[RomanExpansionMoralAnxiety]] - expansion-pressure concept grounded by the Roman Civil War sequence.

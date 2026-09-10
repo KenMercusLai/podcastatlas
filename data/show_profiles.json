@@ -884,14 +884,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-09",
       "latest_episode_file": "GLT9669112656 [GLT9669112656].md",
-      "source_note_count": 35,
-      "topic_matched_source_note_count": 35,
+      "source_note_count": 36,
+      "topic_matched_source_note_count": 36,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 33
+          "source_note_count": 34
         },
         {
           "key": "culture",
@@ -929,6 +929,20 @@
           "episode_count": 5
         },
         {
+          "key": "GaiusMarius",
+          "title": "Gaius Marius / 马略",
+          "url": "/wiki/entities/gaiusmarius/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
+          "key": "LuciusCorneliusSulla",
+          "title": "Lucius Cornelius Sulla / 苏拉",
+          "url": "/wiki/entities/luciuscorneliussulla/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
           "key": "MaryQueenOfScots",
           "title": "Mary, Queen of Scots",
           "url": "/wiki/entities/maryqueenofscots/",
@@ -948,27 +962,13 @@
           "url": "/wiki/entities/williamcecil/",
           "kind": "person",
           "episode_count": 4
-        },
-        {
-          "key": "BritishArmy",
-          "title": "British Army",
-          "url": "/wiki/entities/britisharmy/",
-          "kind": "organization",
-          "episode_count": 3
-        },
-        {
-          "key": "FrancisDrake",
-          "title": "Francis Drake",
-          "url": "/wiki/entities/francisdrake/",
-          "kind": "person",
-          "episode_count": 3
         }
       ],
       "start_here_episode_files": [
-        "GLT3125075511 [GLT3125075511].md",
+        "GLT9669112656 [GLT9669112656].md",
         "GLT2882541084 [GLT2882541084].md",
         "GLT6013835340 [GLT6013835340].md",
-        "GLT9669112656 [GLT9669112656].md"
+        "GLT3125075511 [GLT3125075511].md"
       ]
     },
     "The SaaS Podcast - Real Lessons on Growing Profitable SaaS": {

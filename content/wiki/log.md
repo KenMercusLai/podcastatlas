@@ -16732,6 +16732,10 @@ Added source note for the 1 CE Wang Mang reward-refusal episode. Key claims: Wan
 ## [2026-09-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-10] ingest | 704. Roman Civil War: Master of the Republic (Part 4)
+
+Added source note for The Rest Is History's Sullan settlement episode. Key claims: Cinna's anti-Sullan regime collapses through mutiny, Marius Younger and the Samnites fail at Praeneste and Colline Gate, Pompey and Crassus show civil-war private-force opportunity, Sulla turns victory into massacre and proscriptions, and the open-ended dictatorship tries to restore the Republic while teaching later commanders how to dominate it.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》609丨西汉亡于王政君？你同意吗
 
 Added source note for the 1 CE Wang Mang delegation-capture episode. Key claims: Wang Mang uses Wang Zhengjun's age and fatigue to shift routine affairs to himself and the Four Offices, turns official evaluation into a control channel, mixes gifts with dismissal to discipline officials, and isolates Han Pingdi's Wei maternal relatives through honor without Chang'an access.
@@ -16921,6 +16925,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！
 
 Added source note for the 2 CE Wang Mang disaster-relief and image-management episode. Key claims: drought and locust displacement become a stage for imperial austerity, Wang Mang's donation and elite emulation, refugee housing, auspicious recovery reports, publicized vegetarian restraint, honorable handling of Gong Sheng and Bing Han's resignation requests, and bandit resettlement.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
