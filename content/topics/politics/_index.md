@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2318
+topic_total_pages: 2321
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -5873,6 +5873,9 @@ topic_entities:
   - key: "WutaiPoetryCase"
     title: "乌台诗案 / Wutai Poetry Case"
     url: "/wiki/entities/wutaipoetrycase/"
+  - key: "Wusun"
+    title: "乌孙 / Wusun"
+    url: "/wiki/entities/wusun/"
   - key: "QianlongEmperor"
     title: "乾隆 / Qianlong Emperor"
     url: "/wiki/entities/qianlongemperor/"
@@ -5963,6 +5966,9 @@ topic_entities:
   - key: "XuTao"
     title: "徐涛"
     url: "/wiki/entities/xutao/"
+  - key: "XiFuGongWesternHan"
+    title: "息夫躬 / Xi Fu Gong (Western Han)"
+    url: "/wiki/entities/xifugongwesternhan/"
   - key: "Huizhou"
     title: "惠州 / Huizhou"
     url: "/wiki/entities/huizhou/"
@@ -6840,6 +6846,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a"
+    title: "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a/"
   - key: "zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh"
     title: "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？"
     url: "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"

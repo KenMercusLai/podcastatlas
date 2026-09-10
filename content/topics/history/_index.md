@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1695
+topic_total_pages: 1698
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2171,6 +2171,9 @@ topic_entities:
   - key: "YiquState"
     title: "义渠 / Yiqu"
     url: "/wiki/entities/yiqustate/"
+  - key: "Wusun"
+    title: "乌孙 / Wusun"
+    url: "/wiki/entities/wusun/"
   - key: "WujiangChuHan"
     title: "乌江 / Wujiang (Chu-Han)"
     url: "/wiki/entities/wujiangchuhan/"
@@ -2252,6 +2255,9 @@ topic_entities:
   - key: "FuTaihouWesternHan"
     title: "傅太后 / Fu Taihou (Western Han)"
     url: "/wiki/entities/futaihouwesternhan/"
+  - key: "FuYanWesternHan"
+    title: "傅晏 / Fu Yan (Western Han)"
+    url: "/wiki/entities/fuyanwesternhan/"
   - key: "GongzhongHuan"
     title: "公中缓 / Gongzhong Huan"
     url: "/wiki/entities/gongzhonghuan/"
@@ -2780,6 +2786,9 @@ topic_entities:
   - key: "XuXiake"
     title: "徐霞客"
     url: "/wiki/entities/xuxiake/"
+  - key: "XiFuGongWesternHan"
+    title: "息夫躬 / Xi Fu Gong (Western Han)"
+    url: "/wiki/entities/xifugongwesternhan/"
   - key: "QinHuiwenhou"
     title: "惠文后 / Queen Huiwen of Qin"
     url: "/wiki/entities/qinhuiwenhou/"

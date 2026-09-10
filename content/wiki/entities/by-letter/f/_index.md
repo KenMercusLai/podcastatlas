@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9572
+wiki_total_pages: 9575
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -710,6 +710,9 @@ wiki_pages:
   - key: "FuSinian"
     title: "傅斯年"
     url: "/wiki/entities/fusinian/"
+  - key: "FuYanWesternHan"
+    title: "傅晏 / Fu Yan (Western Han)"
+    url: "/wiki/entities/fuyanwesternhan/"
   - key: "FuZhanEasternHan"
     title: "傅湛 / Fu Zhan (Eastern Han)"
     url: "/wiki/entities/fuzhaneasternhan/"

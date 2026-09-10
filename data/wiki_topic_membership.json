@@ -26631,6 +26631,13 @@
       "url": "/topics/history/"
     }
   ],
+  "FuYanWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "FuYu": [
     {
       "key": "economics",
@@ -70727,6 +70734,18 @@
       "url": "/topics/history/"
     }
   ],
+  "Wusun": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "WutaiPoetryCase": [
     {
       "key": "politics",
@@ -70843,6 +70862,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "XiFuGongWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "XiaJieyi": [
@@ -81037,6 +81068,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a": [
     {
       "key": "politics",
       "label": "Politics",

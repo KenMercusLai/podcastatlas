@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9572
+wiki_total_pages: 9575
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -698,6 +698,9 @@ wiki_pages:
   - key: "WutaiPoetryCase"
     title: "乌台诗案 / Wutai Poetry Case"
     url: "/wiki/entities/wutaipoetrycase/"
+  - key: "Wusun"
+    title: "乌孙 / Wusun"
+    url: "/wiki/entities/wusun/"
   - key: "WuchaoRaidLateHan"
     title: "乌巢夜袭 / Wuchao Raid (late Han)"
     url: "/wiki/entities/wuchaoraidlatehan/"

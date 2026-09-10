@@ -31672,6 +31672,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/fuxiwesternhan/"
     },
+    "FuYanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？ [lrq-xDHVrNUARzwgrYKP7J_x8J_A].md",
+          "key": "zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/fuyanwesternhan/"
+    },
     "FuYingLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -34140,9 +34156,9 @@
       "url": "/wiki/entities/gongsunkanglatehan/"
     },
     "GongsunLuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》604丨西汉王莽夺权后，如何清洗权力格局？ [ltwscYyiOBC1ocVGTI3Fd-deAJrU].md",
@@ -34150,6 +34166,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》604丨西汉王莽夺权后，如何清洗权力格局？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？ [lrq-xDHVrNUARzwgrYKP7J_x8J_A].md",
+          "key": "zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a/"
         }
       ],
       "updated": "2026-09-10",
@@ -89683,6 +89706,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/wusisouthernxiongnu/"
     },
+    "Wusun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？ [lrq-xDHVrNUARzwgrYKP7J_x8J_A].md",
+          "key": "zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/wusun/"
+    },
     "WuyinLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -89714,6 +89753,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/wuzhucoinrestoration/"
+    },
+    "XiFuGongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？ [lrq-xDHVrNUARzwgrYKP7J_x8J_A].md",
+          "key": "zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/xifugongwesternhan/"
     },
     "XiGuangEasternHan": {
       "episode_count": 1,
