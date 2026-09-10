@@ -8534,6 +8534,29 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/beijingandinghospital/"
     },
+    "Belgium": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "119.安乐死现场：正因生命如此珍贵 [770771087].md",
+          "key": "119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087",
+          "show": "蜜獾吃书",
+          "title": "119.安乐死现场：正因生命如此珍贵",
+          "url": "/wiki/sources/119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087/"
+        },
+        {
+          "episode_file": "GLT1889262052 [GLT1889262052].md",
+          "key": "674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052",
+          "show": "The Rest Is History",
+          "title": "674. The First World War: The Spy Who Took on the Germans (Part 4)",
+          "url": "/wiki/sources/674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/belgium/"
+    },
     "BenGoodwin": {
       "episode_count": 1,
       "show_count": 1,
@@ -22827,6 +22850,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/edgarcayce/"
     },
+    "EdithCavell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1889262052 [GLT1889262052].md",
+          "key": "674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052",
+          "show": "The Rest Is History",
+          "title": "674. The First World War: The Spy Who Took on the Germans (Part 4)",
+          "url": "/wiki/sources/674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/edithcavell/"
+    },
     "EducationMotivationArchitecture": {
       "episode_count": 1,
       "show_count": 1,
@@ -28757,10 +28796,17 @@
       "url": "/wiki/entities/firstsouthwestbank/"
     },
     "FirstWorldWar": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
+        {
+          "episode_file": "GLT1889262052 [GLT1889262052].md",
+          "key": "674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052",
+          "show": "The Rest Is History",
+          "title": "674. The First World War: The Spy Who Took on the Germans (Part 4)",
+          "url": "/wiki/sources/674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052/"
+        },
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
           "key": "676-the-first-world-war-churchills-calamity-part-6-glt1275431911",
@@ -53547,6 +53593,29 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/marthawashington/"
+    },
+    "MartyrdomStaging": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT2334035496 [GLT2334035496].md",
+          "key": "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+          "show": "The Rest Is History",
+          "title": "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)",
+          "url": "/wiki/sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496/"
+        },
+        {
+          "episode_file": "GLT1889262052 [GLT1889262052].md",
+          "key": "674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052",
+          "show": "The Rest Is History",
+          "title": "674. The First World War: The Spy Who Took on the Germans (Part 4)",
+          "url": "/wiki/sources/674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/martyrdomstaging/"
     },
     "MaryPickersgill": {
       "episode_count": 1,

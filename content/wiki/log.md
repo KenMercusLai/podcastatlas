@@ -16733,6 +16733,10 @@ Added source note for the 1 CE Wang Mang reward-refusal episode. Key claims: Wan
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 674. The First World War: The Spy Who Took on the Germans (Part 4)
+
+Added source note for the The Rest Is History episode on Edith Cavell. Key claims: Cavell's Brussels nursing clinic became part of an occupied-Belgium escape network; her trial and execution combined real military-law exposure with political disaster; and Allied propaganda turned her death into a martyr symbol while simplifying details.
+
 ## [2026-09-10] ingest | 704. Roman Civil War: Master of the Republic (Part 4)
 
 Added source note for The Rest Is History's Sullan settlement episode. Key claims: Cinna's anti-Sullan regime collapses through mutiny, Marius Younger and the Samnites fail at Praeneste and Colline Gate, Pompey and Crassus show civil-war private-force opportunity, Sulla turns victory into massacre and proscriptions, and the open-ended dictatorship tries to restore the Republic while teaching later commanders how to dominate it.
@@ -16925,6 +16929,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！
 
 Added source note for the 2 CE Wang Mang disaster-relief and image-management episode. Key claims: drought and locust displacement become a stage for imperial austerity, Wang Mang's donation and elite emulation, refugee housing, auspicious recovery reports, publicized vegetarian restraint, honorable handling of Gong Sheng and Bing Han's resignation requests, and bandit resettlement.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
