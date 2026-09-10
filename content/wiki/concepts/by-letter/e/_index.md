@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6958
+wiki_total_pages: 6964
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "EpicModernAfterlife"
     title: "Epic Modern Afterlife"
     url: "/wiki/concepts/epicmodernafterlife/"
+  - key: "EpigeneticReprogrammingBoundary"
+    title: "Epigenetic Reprogramming Boundary"
+    url: "/wiki/concepts/epigeneticreprogrammingboundary/"
   - key: "EpinephrineAlertnessToolkit"
     title: "Epinephrine Alertness Toolkit"
     url: "/wiki/concepts/epinephrinealertnesstoolkit/"

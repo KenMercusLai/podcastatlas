@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi](sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352.md) — Huberman Lab Essentials episode with Oded Rechavi on DNA, RNA, the Weismann barrier, epigenetic reprogramming, C. elegans, RNA interference, small-RNA inheritance, and why human inherited-memory claims remain unsettled.
 - [Advice Line with Kip Tindell of The Container Store](sources/advice-line-with-kip-tindell-of-the-container-store-93508940-11b5-4b29-ba7b-eb077edee062.md) — How I Built This Advice Line episode with Kip Tindell on The Container Store, service-led retail, patient capacity-matched growth, Kula Wand discovery, Hazel Grove Customs wholesale, and Kaomi Sleep's viral-product-to-brand challenge.
 - [Build Muscle, Great Posture & Resilience to Injury | Jeff Cavaliere](sources/build-muscle-great-posture-resilience-to-injury-jeff-cavaliere-scim4318497319.md) — Huberman Lab episode with Jeff Cavaliere on function-first strength, weak-link corrective work, glute medius and rotator cuff control, pain-aware training, cardio, nutrition, and sustainable programming.
 - [《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？](sources/zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv.md) — Late-Western-Han court-politics episode on Bao Xuan's seven harms and seven deaths memorial, commoner suffering, official predation, criminal-law limits, outer-relative restraint, and Dong Xian privilege under Han Aidi.
@@ -2146,6 +2147,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
+- [Oded Rechavi](entities/OdedRechavi.md) — Scientist and Huberman Lab guest explaining RNA, worm acquired-trait inheritance evidence, and mammal/human caution boundaries.
 - [Kip Tindell](entities/KipTindell.md) — The Container Store co-founder and Advice Line guest emphasizing service-led retail, patience, humility, and capacity-matched growth.
 - [The Container Store](entities/TheContainerStore.md) — Specialty retailer used in Kip Tindell's Advice Line episode as a case for expert service, founder succession, and disciplined growth pace.
 - [Sharon Tindell](entities/SharonTindell.md) — The Container Store co-builder and Kip Tindell's spouse, used in the episode's founder-life and retirement discussion.
@@ -11721,6 +11723,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [Acquired-Trait Inheritance Boundary](concepts/AcquiredTraitInheritanceBoundary.md) — Boundary separating ordinary genetic inheritance from learned memories, muscle gain, and other acquired states that usually do not become hereditary.
+- [Weismann Barrier](concepts/WeismannBarrier.md) — Soma-germline separation that usually prevents acquired body or brain information from entering descendants.
+- [Epigenetic Reprogramming Boundary](concepts/EpigeneticReprogrammingBoundary.md) — Reset process that erases many germ-cell and early-embryo molecular marks before development proceeds.
+- [RNA Interference Gene Silencing](concepts/RNAInterferenceGeneSilencing.md) — Sequence-specific small-RNA mechanism for reducing matching gene expression and enabling worm inheritance experiments.
+- [Small RNA Intergenerational Inheritance](concepts/SmallRNAIntergenerationalInheritance.md) — C. elegans mechanism where small RNAs transmit acquired antiviral and behavior-linked information across generations.
+- [C. elegans Model Organism](concepts/CElegansModelOrganism.md) — Worm model used to study cells, neurons, RNA interference, and transgenerational inheritance under controlled conditions.
 - [Capacity-Matched Growth](concepts/CapacityMatchedGrowth.md) — Growth discipline that sets expansion speed by the company's absorbable operating, service, people, and founder-attention capacity.
 - [Independent Retail Discovery](concepts/IndependentRetailDiscovery.md) — Channel strategy where smaller specialty or independent stores educate, validate, and create discovery before larger retail accounts.
 - [Viral Product to Brand Transition](concepts/ViralProductToBrandTransition.md) — Shift from one-time viral attention around a flagship product to a durable brand territory, product roadmap, and customer relationship.

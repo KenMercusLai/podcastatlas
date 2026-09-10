@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6958
+wiki_total_pages: 6964
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -710,6 +710,9 @@ wiki_pages:
   - key: "RMBExchangeRatePolicy"
     title: "RMB Exchange Rate Policy"
     url: "/wiki/concepts/rmbexchangeratepolicy/"
+  - key: "RNAInterferenceGeneSilencing"
+    title: "RNA Interference Gene Silencing"
+    url: "/wiki/concepts/rnainterferencegenesilencing/"
   - key: "RoadsideAdvertisingSpectacle"
     title: "Roadside Advertising Spectacle"
     url: "/wiki/concepts/roadsideadvertisingspectacle/"

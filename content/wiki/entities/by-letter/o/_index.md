@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 9571
+wiki_total_pages: 9572
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "OctavianAugustus"
     title: "Octavian / Augustus / 屋大维"
     url: "/wiki/entities/octavianaugustus/"
+  - key: "OdedRechavi"
+    title: "Oded Rechavi"
+    url: "/wiki/entities/odedrechavi/"
   - key: "Odin"
     title: "Odin / 奥丁"
     url: "/wiki/entities/odin/"

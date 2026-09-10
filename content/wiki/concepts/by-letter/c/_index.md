@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6958
+wiki_total_pages: 6964
 wiki_pages:
+  - key: "CElegansModelOrganism"
+    title: "C. elegans Model Organism"
+    url: "/wiki/concepts/celegansmodelorganism/"
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
     url: "/wiki/concepts/cabincrewwork/"

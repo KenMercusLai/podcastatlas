@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 6958
+wiki_total_pages: 6964
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -818,6 +818,9 @@ wiki_pages:
   - key: "SmallRetailerChannelTest"
     title: "Small Retailer Channel Test"
     url: "/wiki/concepts/smallretailerchanneltest/"
+  - key: "SmallRNAIntergenerationalInheritance"
+    title: "Small RNA Intergenerational Inheritance"
+    url: "/wiki/concepts/smallrnaintergenerationalinheritance/"
   - key: "SmallTrustBuildsLargeTrust"
     title: "Small Trust Builds Large Trust / 小信诚则大信立"
     url: "/wiki/concepts/smalltrustbuildslargetrust/"

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 984
+topic_total_pages: 989
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -13,6 +13,9 @@ topic_concepts:
   - key: "AcetylcholineFocusSupport"
     title: "Acetylcholine Focus Support"
     url: "/wiki/concepts/acetylcholinefocussupport/"
+  - key: "AcquiredTraitInheritanceBoundary"
+    title: "Acquired-Trait Inheritance Boundary"
+    url: "/wiki/concepts/acquiredtraitinheritanceboundary/"
   - key: "ActorObserverBias"
     title: "Actor-Observer Bias / 行动者-观察者偏差"
     url: "/wiki/concepts/actorobserverbias/"
@@ -202,6 +205,9 @@ topic_concepts:
   - key: "BuffetBudgetLockIn"
     title: "Buffet Budget Lock-In / 自助餐预算锁定"
     url: "/wiki/concepts/buffetbudgetlockin/"
+  - key: "CElegansModelOrganism"
+    title: "C. elegans Model Organism"
+    url: "/wiki/concepts/celegansmodelorganism/"
   - key: "CaffeineAdenosineSleepTiming"
     title: "Caffeine-Adenosine Sleep Timing"
     url: "/wiki/concepts/caffeineadenosinesleeptiming/"
@@ -1312,6 +1318,9 @@ topic_concepts:
   - key: "RiskPerception"
     title: "Risk Perception"
     url: "/wiki/concepts/riskperception/"
+  - key: "RNAInterferenceGeneSilencing"
+    title: "RNA Interference Gene Silencing"
+    url: "/wiki/concepts/rnainterferencegenesilencing/"
   - key: "RockClimbingFailurePractice"
     title: "Rock Climbing Failure Practice / 攀岩失败练习"
     url: "/wiki/concepts/rockclimbingfailurepractice/"
@@ -1666,6 +1675,9 @@ topic_concepts:
   - key: "WeakSignalDetection"
     title: "Weak Signal Detection / 微弱信号探测"
     url: "/wiki/concepts/weaksignaldetection/"
+  - key: "WeismannBarrier"
+    title: "Weismann Barrier"
+    url: "/wiki/concepts/weismannbarrier/"
   - key: "WhiteBearEffect"
     title: "White Bear Effect / 白熊效应"
     url: "/wiki/concepts/whitebeareffect/"
@@ -2790,6 +2802,9 @@ topic_sources:
   - key: "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786"
     title: "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer"
     url: "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+  - key: "essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352"
+    title: "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi"
+    url: "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"
   - key: "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929"
     title: "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried"
     url: "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"

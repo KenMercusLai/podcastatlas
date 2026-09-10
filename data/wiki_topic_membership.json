@@ -5483,6 +5483,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AcquiredTraitInheritanceBoundary": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AcquisitionContractLanguage": [
     {
       "key": "politics",
@@ -12381,6 +12388,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "CElegansModelOrganism": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "CHIPSAct": [
@@ -53376,6 +53390,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "RNAInterferenceGeneSilencing": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "RP1Robot": [
     {
       "key": "technology",
@@ -69388,6 +69409,13 @@
       "url": "/topics/history/"
     }
   ],
+  "WeismannBarrier": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "WelcomeToLailongRestaurant": [
     {
       "key": "politics",
@@ -76658,6 +76686,13 @@
     }
   ],
   "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352": [
     {
       "key": "science",
       "label": "Science",

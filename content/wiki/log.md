@@ -16769,6 +16769,7 @@ Added source note for the 1 CE Wang Mang reward-refusal episode. Key claims: Wan
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-09-10] ingest | 673. The First World War: The Submarine Strikes (Part 3)
 
 Added source note for The Rest Is History episode on RMS Lusitania, Germany's 1915 U-boat campaign, cruiser-rule breakdown, civilian deaths, propaganda, Wilson's neutrality dilemma, and later U.S. intervention memory. Updated FirstWorldWar and added RMSLusitania, WoodrowWilson, UnrestrictedSubmarineWarfare, PassengerLinerAtrocityPropaganda, and NeutralityToInterventionMemory.
@@ -17140,6 +17141,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-10] ingest | Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi
+
+Added source note for the Huberman Lab Essentials episode with Oded Rechavi on DNA, RNA, somatic versus germ cells, the Weismann barrier, epigenetic reprogramming, C. elegans, RNA interference, inherited antiviral resistance, brain-derived small RNAs, and caution around mammal or human inherited-memory claims. Added OdedRechavi plus focused concept pages for AcquiredTraitInheritanceBoundary, WeismannBarrier, EpigeneticReprogrammingBoundary, RNAInterferenceGeneSilencing, SmallRNAIntergenerationalInheritance, and CElegansModelOrganism.
 
 ## [2026-09-10] lint | Wiki health check
 

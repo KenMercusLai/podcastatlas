@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6958
+wiki_total_pages: 6964
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "WeirdFiction"
     title: "Weird Fiction"
     url: "/wiki/concepts/weirdfiction/"
+  - key: "WeismannBarrier"
+    title: "Weismann Barrier"
+    url: "/wiki/concepts/weismannbarrier/"
   - key: "WenWangGuanrenFa"
     title: "Wen Wang Guanren Fa / 文王官人法"
     url: "/wiki/concepts/wenwangguanrenfa/"

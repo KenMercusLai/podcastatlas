@@ -3147,6 +3147,10 @@
     "title": "Acquired",
     "url": "/wiki/entities/acquired/"
   },
+  "AcquiredTraitInheritanceBoundary": {
+    "title": "Acquired-Trait Inheritance Boundary",
+    "url": "/wiki/concepts/acquiredtraitinheritanceboundary/"
+  },
   "AcquisitionContractLanguage": {
     "title": "Acquisition Contract Language",
     "url": "/wiki/concepts/acquisitioncontractlanguage/"
@@ -9142,6 +9146,10 @@
   "CES": {
     "title": "CES",
     "url": "/wiki/entities/ces/"
+  },
+  "CElegansModelOrganism": {
+    "title": "C. elegans Model Organism",
+    "url": "/wiki/concepts/celegansmodelorganism/"
   },
   "CFBGroup": {
     "title": "CFB Group / CFB 集团",
@@ -19106,6 +19114,10 @@
   "Epicurus": {
     "title": "Epicurus / 伊壁鸠鲁",
     "url": "/wiki/entities/epicurus/"
+  },
+  "EpigeneticReprogrammingBoundary": {
+    "title": "Epigenetic Reprogramming Boundary",
+    "url": "/wiki/concepts/epigeneticreprogrammingboundary/"
   },
   "EpinephrineAlertnessToolkit": {
     "title": "Epinephrine Alertness Toolkit",
@@ -41963,6 +41975,10 @@
     "title": "Odds-Driven Startup Narrative / 优化赔率",
     "url": "/wiki/concepts/oddsdrivenstartupnarrative/"
   },
+  "OdedRechavi": {
+    "title": "Oded Rechavi",
+    "url": "/wiki/entities/odedrechavi/"
+  },
   "Odin": {
     "title": "Odin / 奥丁",
     "url": "/wiki/entities/odin/"
@@ -47751,6 +47767,10 @@
     "title": "RMS Lusitania",
     "url": "/wiki/entities/rmslusitania/"
   },
+  "RNAInterferenceGeneSilencing": {
+    "title": "RNA Interference Gene Silencing",
+    "url": "/wiki/concepts/rnainterferencegenesilencing/"
+  },
   "RP1Robot": {
     "title": "RP1 Robot",
     "url": "/wiki/entities/rp1robot/"
@@ -53026,6 +53046,10 @@
   "SmallOrderQuickResponse": {
     "title": "Small-Order Quick Response / 小单快反",
     "url": "/wiki/concepts/smallorderquickresponse/"
+  },
+  "SmallRNAIntergenerationalInheritance": {
+    "title": "Small RNA Intergenerational Inheritance",
+    "url": "/wiki/concepts/smallrnaintergenerationalinheritance/"
   },
   "SmallRetailerChannelTest": {
     "title": "Small Retailer Channel Test",
@@ -61595,6 +61619,10 @@
     "title": "潍水之战 / Battle of Weishui",
     "url": "/wiki/entities/weishuibattle/"
   },
+  "WeismannBarrier": {
+    "title": "Weismann Barrier",
+    "url": "/wiki/concepts/weismannbarrier/"
+  },
   "WeissinaWilliams": {
     "title": "Weissina Williams",
     "url": "/wiki/entities/weissinawilliams/"
@@ -68938,6 +68966,10 @@
   "essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786": {
     "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
     "url": "/wiki/sources/essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786/"
+  },
+  "essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352": {
+    "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+    "url": "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"
   },
   "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332": {
     "title": "Essentials: How to Access Your Creativity | Rick Rubin",

@@ -3136,6 +3136,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/acetylcholinefocussupport/"
     },
+    "AcquiredTraitInheritanceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1624813352 [SCIM1624813352].md",
+          "key": "essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352",
+          "show": "Huberman Lab",
+          "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+          "url": "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/acquiredtraitinheritanceboundary/"
+    },
     "AcquisitionContractLanguage": {
       "episode_count": 1,
       "show_count": 1,
@@ -10613,6 +10629,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/byzantineempire/"
+    },
+    "CElegansModelOrganism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1624813352 [SCIM1624813352].md",
+          "key": "essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352",
+          "show": "Huberman Lab",
+          "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+          "url": "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/celegansmodelorganism/"
     },
     "CHIPSAct": {
       "episode_count": 2,
@@ -26277,6 +26309,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/epicherohumanlimits/"
+    },
+    "EpigeneticReprogrammingBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1624813352 [SCIM1624813352].md",
+          "key": "essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352",
+          "show": "Huberman Lab",
+          "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+          "url": "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/epigeneticreprogrammingboundary/"
     },
     "EpinephrineAlertnessToolkit": {
       "episode_count": 1,
@@ -60062,6 +60110,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/occultdecisioncapture/"
     },
+    "OdedRechavi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1624813352 [SCIM1624813352].md",
+          "key": "essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352",
+          "show": "Huberman Lab",
+          "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+          "url": "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/odedrechavi/"
+    },
     "OdysseanLeadershipTrustFailure": {
       "episode_count": 1,
       "show_count": 1,
@@ -68213,6 +68277,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/rmslusitania/"
     },
+    "RNAInterferenceGeneSilencing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1624813352 [SCIM1624813352].md",
+          "key": "essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352",
+          "show": "Huberman Lab",
+          "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+          "url": "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/rnainterferencegenesilencing/"
+    },
     "RP1Robot": {
       "episode_count": 1,
       "show_count": 1,
@@ -75531,6 +75611,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/smallorderquickresponse/"
+    },
+    "SmallRNAIntergenerationalInheritance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1624813352 [SCIM1624813352].md",
+          "key": "essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352",
+          "show": "Huberman Lab",
+          "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+          "url": "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/smallrnaintergenerationalinheritance/"
     },
     "SmallRetailerChannelTest": {
       "episode_count": 1,
@@ -87826,6 +87922,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/weimarrepublic/"
+    },
+    "WeismannBarrier": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1624813352 [SCIM1624813352].md",
+          "key": "essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352",
+          "show": "Huberman Lab",
+          "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+          "url": "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/weismannbarrier/"
     },
     "WelcomeToLailongRestaurant": {
       "episode_count": 1,
