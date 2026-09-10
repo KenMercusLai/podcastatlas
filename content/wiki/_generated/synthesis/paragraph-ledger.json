@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "6ac9f984ffcc669b00cd24650dbda026ecdf63d0831e46bc8af5a291c8b840f6",
       "edbba806f5fd3c38c55e73e79a35d18e256cb2f82fbd0a4383af42648b91d19b",
       "bdae292c892008ecc50154b7bc182e1b7cb90407dce00c4401dda9ba0ca99f0c",
       "489509ad56cf743fca8d325ff258412a46a4080bb903e734749918e9f3a1a5fa",
@@ -608,11 +609,34 @@
       "d9bf4ab06ad3987d6fa76a87be74dce0826d56d3cbacee90b65bd1aba882ed8b",
       "6a4340b9254e79bcf78a389061c552bbc89442ed9365a5f9d578c0c47ae620b4"
     ],
-    "paragraph_count": 606
+    "paragraph_count": 607
   },
-  "overview_commit": "2bb49e39000fc66c9eacc71115da8e79ecea43e0",
-  "overview_digest": "1baf2dd94a02b6aa9baa7549f3f8c21ed07e833ac51bafdc197718718dff7f8c",
+  "overview_commit": "e6e380518ac7d913806f8433fd35d2df09839d9d",
+  "overview_digest": "204f5610b6f5bebc2d4e4c88813260138ffcd7feb4a721fd94b2cdf6bf7f39e9",
   "paragraphs": [
+    {
+      "id": "6ac9f984ffcc669b00cd24650dbda026ecdf63d0831e46bc8af5a291c8b840f6",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs|《资治通鉴·汉纪》583丨都知道他有问题，为什么还提拔？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling a Jianping 3 / 4 BCE personnel memorial by [[WangJiaWesternHan|王嘉]] under [[HanAidi|汉哀帝]]. It extends [[WangJiaWesternHan|王嘉]], [[MeritShieldedAccountability|Merit-Shielded Accountability / 因功免责]], and [[LocalOfficialTenureStability|地方官任期稳定]], while connecting [[AppointmentQualityAsStateCapacity|任官适任性国家能力]], [[TalentAsStateTreasure|以贤臣为宝]], and [[TalentVirtueDistinction|才德之分]]. Its core synthesis is that flawed but useful officials can be restored when their faults are small or past, talent is rare, and local authority is needed for crisis response; excessive inspection and rapid turnover can make officials fearful, damage prestige, and leave the state without people able to act. No settled contradiction is recorded; Wei Shang, Han Anguo, Zhang Chang, Su Ling, Man Chang, Yin Feng, exact offices, and the full original memorial wording remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AppointmentQualityAsStateCapacity",
+        "HanAidi",
+        "LocalOfficialTenureStability",
+        "MeritShieldedAccountability",
+        "RuiqiJiangtouZizhiTongjian",
+        "TalentAsStateTreasure",
+        "TalentVirtueDistinction",
+        "WangJiaWesternHan",
+        "zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs"
+      ]
+    },
     {
       "id": "edbba806f5fd3c38c55e73e79a35d18e256cb2f82fbd0a4383af42648b91d19b",
       "primary_topic": "governance-and-institutions",

@@ -16781,6 +16781,10 @@ Ran lint. See lint-report.md for details.
 
 Added source note for the 1 CE Wang Mang reward-refusal episode. Key claims: Wang Mang asks that Kong Guang, Wang Shun, Zhen Feng, and Zhen Han be rewarded first; repeated refusal and illness claims let ministers press Wang Zhengjun for Wang Mang's higher grant; and his acceptance of Taifu/Anhan Gong while refusing added households turns humility and welfare language into public status inflation.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》583丨都知道他有问题，为什么还提拔？
+
+Added source note for Wang Jia's Jianping 3 / 4 BCE personnel memorial under Han Aidi, covering flawed-but-useful official restoration, local official tenure stability, two-thousand-shi authority, excessive inspection, Su Ling's rebellion, and talent cultivation before crisis. Updated WangJiaWesternHan, MeritShieldedAccountability, and LocalOfficialTenureStability.
+
 ## [2026-09-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -17180,6 +17184,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？
 
 Added source note for the late-Western-Han chanyu illness-delay debate, covering Fu Yan and Xi Fu Gong's Wusun-linked escalation proposal, Gongsun Lu's trust-preserving diplomatic objection, and Wang Jia's rejection of disaster-omen war logic and arbitrary killing. Added focused entity pages for Fu Yan, Xi Fu Gong, and Wusun; updated Gongsun Lu with the pre-death diplomatic-remonstrance layer.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

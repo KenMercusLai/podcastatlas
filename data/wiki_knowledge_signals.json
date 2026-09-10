@@ -51595,9 +51595,9 @@
       "url": "/wiki/concepts/localgovernanceascare/"
     },
     "LocalOfficialTenureStability": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》906丨厉害的人，为什么享受冲突？ [lvc3WEDriFdZdU_yv1QHOCl8usS2].md",
@@ -51626,9 +51626,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》583丨都知道他有问题，为什么还提拔？ [llkef6XXkyF5kUFV2j_ZcQV3woGs].md",
+          "key": "zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》583丨都知道他有问题，为什么还提拔？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/localofficialtenurestability/"
     },
     "LocalPrivateAI": {
@@ -55990,9 +55997,9 @@
       "url": "/wiki/entities/merck/"
     },
     "MeritShieldedAccountability": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
@@ -56000,9 +56007,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击",
           "url": "/wiki/sources/zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》583丨都知道他有问题，为什么还提拔？ [llkef6XXkyF5kUFV2j_ZcQV3woGs].md",
+          "key": "zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》583丨都知道他有问题，为什么还提拔？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/meritshieldedaccountability/"
     },
     "MetabolicPsychiatry": {
@@ -86302,9 +86316,9 @@
       "url": "/wiki/entities/wangjiashuscholar/"
     },
     "WangJiaWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》598丨古代朝堂的斗争有多残酷？ [luOF_1bXoMTCSRKcvmUPLPuGAw4D].md",
@@ -86347,6 +86361,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》586丨为了爱情，古代皇帝有多冲动？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-586-weile-aiqing-gudai-huangdi-you-duo-chongdong-lizfxc8a4do88e6vyrcupyet3vs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》583丨都知道他有问题，为什么还提拔？ [llkef6XXkyF5kUFV2j_ZcQV3woGs].md",
+          "key": "zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》583丨都知道他有问题，为什么还提拔？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs/"
         }
       ],
       "updated": "2026-09-10",

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2325
+topic_total_pages: 2326
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -6852,6 +6852,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs"
+    title: "《资治通鉴·汉纪》583丨都知道他有问题，为什么还提拔？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs/"
   - key: "zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d"
     title: "《资治通鉴·汉纪》589丨揭秘无脑省钱的可怕后果"
     url: "/wiki/sources/zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d/"

@@ -4,8 +4,8 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-10
-as_of_overview_commit: 25321c7de6e6733c26dfd19b2f68a76854e0f7e4
-input_digest: 0faa62239772472900e4e7072667ec7f4b3a4e1cc975c30ca2ca23c365d07ebf
+as_of_overview_commit: e6e380518ac7d913806f8433fd35d2df09839d9d
+input_digest: 881d579345d15531624da00d48ebf6865bd1e7fe0a24dec9f39bc5aedd3c5346
 ---
 
 # History and Geopolitics
@@ -15,6 +15,18 @@ input_digest: 0faa62239772472900e4e7072667ec7f4b3a4e1cc975c30ca2ca23c365d07ebf
 The Hanji 590 source adds a late-Western-Han frontier-diplomacy layer: Yang Xiong frames Xiongnu reception as credibility maintenance and prevention infrastructure, not ceremony or avoidable cost. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, U.S. anthem, and late-Xin branches keep emphasizing that geography, legitimacy, military capacity, public memory, and institutional afterlives interact across time.
 
 ## Cross-source Findings
+
+### Western Han Wang Jia Personnel Memorial Links Talent And Local Authority
+
+[[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs|Hanji 583]] backfills the late-Western-Han [[WangJiaWesternHan|王嘉]] sequence before the Dong Xian crisis by linking talent scarcity, flawed-official restoration, [[LocalOfficialTenureStability|local-official tenure]], and [[MeritShieldedAccountability|merit-shielded accountability]] to [[HanAidi|汉哀帝]]'s capacity to preserve local authority before disorder.
+
+**Evidence:** [[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs]], [[WangJiaWesternHan]], [[LocalOfficialTenureStability]], [[MeritShieldedAccountability]], [[HanAidi]]
+
+**Qualifications:**
+
+- This is a source-scoped historical claim from one Hanji episode and should not be treated as Wang Jia's full biography.
+- It predates the later Hanji 585-599 Dong Xian and Wang Jia sequence, adding an earlier successful correction layer rather than revising the later fatal conflict.
+- Minor named examples and exact offices remain source-scoped until later notes warrant canonical pages.
 
 ### Western Han Wang Jia Prelude Turns Reign Memory Into Warning
 

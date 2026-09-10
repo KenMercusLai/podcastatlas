@@ -4,8 +4,8 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-10
-as_of_overview_commit: c6251e1ff43812db67e7e3c6e1dbaa582328c43c
-input_digest: d8d5ab6779eb6fbd845be1a0b2ec34062520fdd8bfa818fe3325492a517e37d1
+as_of_overview_commit: e6e380518ac7d913806f8433fd35d2df09839d9d
+input_digest: a2b8b2328d3c107af31d74ab74f8ae5782e83fc89db4b4d0ec47d346eba47b0b
 ---
 
 # Governance and Institutions
@@ -15,6 +15,18 @@ input_digest: d8d5ab6779eb6fbd845be1a0b2ec34062520fdd8bfa818fe3325492a517e37d1
 Governance synthesis now spans youth platform policy, electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, political-theory method, boundary-setting, and swing-state Senate cooperation across historical and contemporary cases. The new U.S. anthem update adds a public-symbol governance case: official ceremony remains fragile when adoption, performance rules, slavery memory, authorial legitimacy, and racial-justice protest compete over who can speak for the nation. Existing child-safety, Machiavelli, Saxony-Anhalt, Brexit, AI governance, surveillance, public-health, sports, and historical court cases still reinforce the broad finding that usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy. Hanji 601-1 adds a source-scoped Western Han boundary case: classical appointment wording and banquet speech turn Dong Xian's favorite status into a dynastic-succession and public-office problem.
 
 ## Cross-source Findings
+
+### Fault Tolerant Appointment Preserves Local Authority
+
+[[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs|Hanji 583]] adds a late-Western-Han governance claim that [[AppointmentQualityAsStateCapacity|appointment quality]] sometimes requires fault tolerance: [[WangJiaWesternHan|王嘉]] argues that useful officials with small or past faults can be restored when [[LocalOfficialTenureStability|local tenure stability]], prestige, and crisis response matter more than purity, while [[MeritShieldedAccountability|Merit-Shielded Accountability / 因功免责]] preserves the accountability risk.
+
+**Evidence:** [[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs]], [[AppointmentQualityAsStateCapacity]], [[WangJiaWesternHan]], [[LocalOfficialTenureStability]], [[MeritShieldedAccountability]]
+
+**Qualifications:**
+
+- The claim is grounded in Wang Jia's memorial as summarized by one Hanji episode, not in a full implementation record.
+- It applies to small or past faults among usable officials and does not establish a general defense of serious misconduct.
+- The source keeps Wei Shang, Han Anguo, Zhang Chang, Su Ling, Man Chang, Yin Feng, exact offices, and original memorial wording source-scoped.
 
 ### Wang Jia Praise Uses Precedent To Open Remonstrance Channel
 

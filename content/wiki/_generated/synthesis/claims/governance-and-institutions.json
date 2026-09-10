@@ -1,6 +1,24 @@
 {
   "claims": [
     {
+      "global_candidate": true,
+      "id": "fault-tolerant-appointment-preserves-local-authority",
+      "qualifications": [
+        "The claim is grounded in Wang Jia's memorial as summarized by one Hanji episode, not in a full implementation record.",
+        "It applies to small or past faults among usable officials and does not establish a general defense of serious misconduct.",
+        "The source keeps Wei Shang, Han Anguo, Zhang Chang, Su Ling, Man Chang, Yin Feng, exact offices, and original memorial wording source-scoped."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs|Hanji 583]] adds a late-Western-Han governance claim that [[AppointmentQualityAsStateCapacity|appointment quality]] sometimes requires fault tolerance: [[WangJiaWesternHan|王嘉]] argues that useful officials with small or past faults can be restored when [[LocalOfficialTenureStability|local tenure stability]], prestige, and crisis response matter more than purity, while [[MeritShieldedAccountability|Merit-Shielded Accountability / 因功免责]] preserves the accountability risk.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs",
+        "AppointmentQualityAsStateCapacity",
+        "WangJiaWesternHan",
+        "LocalOfficialTenureStability",
+        "MeritShieldedAccountability"
+      ]
+    },
+    {
       "global_candidate": false,
       "id": "wang-jia-praise-uses-precedent-to-open-remonstrance-channel",
       "qualifications": [
@@ -4649,8 +4667,6 @@
       ]
     }
   ],
-  "input_digest": "b68bc1fc3a39d786df43210dd836054839969b5189ae03ee2664b1381653ebd0",
   "summary": "Governance synthesis now spans youth platform policy, electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, political-theory method, boundary-setting, and swing-state Senate cooperation across historical and contemporary cases. The new U.S. anthem update adds a public-symbol governance case: official ceremony remains fragile when adoption, performance rules, slavery memory, authorial legitimacy, and racial-justice protest compete over who can speak for the nation. Existing child-safety, Machiavelli, Saxony-Anhalt, Brexit, AI governance, surveillance, public-health, sports, and historical court cases still reinforce the broad finding that usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy. Hanji 601-1 adds a source-scoped Western Han boundary case: classical appointment wording and banquet speech turn Dong Xian's favorite status into a dynastic-succession and public-office problem.",
-  "title": "Governance and Institutions",
   "topic_id": "governance-and-institutions"
 }

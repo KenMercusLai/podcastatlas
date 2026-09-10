@@ -2,6 +2,24 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "western-han-wang-jia-personnel-memorial-links-talent-and-local-authority",
+      "qualifications": [
+        "This is a source-scoped historical claim from one Hanji episode and should not be treated as Wang Jia's full biography.",
+        "It predates the later Hanji 585-599 Dong Xian and Wang Jia sequence, adding an earlier successful correction layer rather than revising the later fatal conflict.",
+        "Minor named examples and exact offices remain source-scoped until later notes warrant canonical pages."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs|Hanji 583]] backfills the late-Western-Han [[WangJiaWesternHan|王嘉]] sequence before the Dong Xian crisis by linking talent scarcity, flawed-official restoration, [[LocalOfficialTenureStability|local-official tenure]], and [[MeritShieldedAccountability|merit-shielded accountability]] to [[HanAidi|汉哀帝]]'s capacity to preserve local authority before disorder.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs",
+        "WangJiaWesternHan",
+        "LocalOfficialTenureStability",
+        "MeritShieldedAccountability",
+        "HanAidi"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "western-han-wang-jia-prelude-turns-reign-memory-into-warning",
       "qualifications": [
         "This is a source-scoped historical-rhetorical claim from one short Hanji episode.",
