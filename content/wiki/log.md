@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟
+
+Ingested the 2026-05-24 芮淇讲透资治通鉴 background episode on reading Zizhi Tongjian through the Twenty-Four Histories, front four histories, Zuo Zhuan, source forms, official-history continuity, and participatory history reading. Added source `zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq`; created `TwentyFourHistories`, `ChronicleBiographicalHistoryForms`, `OfficialHistoryContinuity`, and `ParticipatoryHistoricalReading`; updated `HanShu`, `HouHanshu`, `Sanguozhi`, `ZuoZhuan`, `HistoricalQuestionConsciousness`, `index`, and `overview`. No settled contradiction found; bibliographic figures and broad continuity claims remain source-scoped orientation.
+
 ## [2026-09-10] ingest | Build Muscle, Great Posture & Resilience to Injury | Jeff Cavaliere
 
 Added Huberman Lab source page for Jeff Cavaliere's function-first strength episode, created Jeff Cavaliere plus five training concepts, and linked the episode to existing exercise longevity, load management, joint-protection, nutrition, and sustainable optimization frames.
@@ -17128,6 +17132,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | Advice Line with Kip Tindell of The Container Store
 
 Added source note for the How I Built This Advice Line episode with Kip Tindell on The Container Store, service-led retail, capacity-matched growth, Kula Wand's demonstration-led discovery, Hazel Grove Customs' independent-retailer wholesale path, and Kaomi Sleep's viral-product-to-brand transition. Added focused entity pages for Kip Tindell, The Container Store, Sharon Tindell, Garrett Boone, Kula Wand, Juliette Bruce, Hazel Grove Customs, David Hyam, Kaomi Sleep, and Caitlin Kale; added CapacityMatchedGrowth, IndependentRetailDiscovery, and ViralProductToBrandTransition.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

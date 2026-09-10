@@ -11983,6 +11983,10 @@
     "title": "Chronic Food Additive Risk",
     "url": "/wiki/concepts/chronicfoodadditiverisk/"
   },
+  "ChronicleBiographicalHistoryForms": {
+    "title": "史书体例意识 / Chronicle and Biographical History Forms",
+    "url": "/wiki/concepts/chroniclebiographicalhistoryforms/"
+  },
   "ChronicleChronologyDrift": {
     "title": "Chronicle Chronology Drift / 编年错位",
     "url": "/wiki/concepts/chroniclechronologydrift/"
@@ -42035,6 +42039,10 @@
     "title": "守职胜私命 / Official Duty Over Patron Command",
     "url": "/wiki/concepts/officialdutyoverpatroncommand/"
   },
+  "OfficialHistoryContinuity": {
+    "title": "正史连续性 / Official History Continuity",
+    "url": "/wiki/concepts/officialhistorycontinuity/"
+  },
   "OfficialHistoryLegitimacyRepair": {
     "title": "Official History Legitimacy Repair",
     "url": "/wiki/concepts/officialhistorylegitimacyrepair/"
@@ -43542,6 +43550,10 @@
   "ParticipatoryExhibitions": {
     "title": "Participatory Exhibitions",
     "url": "/wiki/concepts/participatoryexhibitions/"
+  },
+  "ParticipatoryHistoricalReading": {
+    "title": "参与式读史 / Participatory Historical Reading",
+    "url": "/wiki/concepts/participatoryhistoricalreading/"
   },
   "PartisanshipAsElectoralGravity": {
     "title": "Partisanship as Electoral Gravity",
@@ -58879,6 +58891,10 @@
     "title": "《二十四孝》 / Twenty-Four Filial Exemplars",
     "url": "/wiki/entities/twentyfourfilialexemplars/"
   },
+  "TwentyFourHistories": {
+    "title": "二十四史 / Twenty-Four Histories",
+    "url": "/wiki/entities/twentyfourhistories/"
+  },
   "TwentyFourViewsOfMountFujiByHokusai": {
     "title": "《富岳二十四景》 / 24 Views of Mt. Fuji, by Hokusai",
     "url": "/wiki/entities/twentyfourviewsofmountfujibyhokusai/"
@@ -72106,6 +72122,10 @@
   "zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv": {
     "title": "《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv/"
+  },
+  "zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq": {
+    "title": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq/"
   },
   "zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5": {
     "title": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？",

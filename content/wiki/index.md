@@ -2143,6 +2143,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
+- [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
 - [Kip Tindell](entities/KipTindell.md) — The Container Store co-founder and Advice Line guest emphasizing service-led retail, patience, humility, and capacity-matched growth.
@@ -11717,6 +11718,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Light9M](entities/Light9M.md) — 捕蛇者说 host discussing AI coding tool trends and Google coding-agent practice.
 - [Sage Ox](entities/SageOx.md) — Source-scoped company or product that turns team meeting recordings into agent-usable memory.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
+- [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
 - [Capacity-Matched Growth](concepts/CapacityMatchedGrowth.md) — Growth discipline that sets expansion speed by the company's absorbable operating, service, people, and founder-attention capacity.
@@ -11728,6 +11730,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rotator Cuff External Rotation](concepts/RotatorCuffExternalRotation.md) — Shoulder-control frame for training external rotation to balance internal-rotation dominance and support pressing or overhead movement.
 - [Pain-Aware Training Continuity](concepts/PainAwareTrainingContinuity.md) — Practice of modifying exercises, ranges, loads, or equipment around aches rather than reflexively stopping all training.
 - [Attention Fine-Tuning](concepts/AttentionFineTuning.md) — Post-training framework using model attention dynamics as a mathematical reward signal.
+- [史书体例意识 / Chronicle and Biographical History Forms](concepts/ChronicleBiographicalHistoryForms.md) — Reading-method frame for noticing how chronology, biography, dynastic history, tables, and treatises shape historical interpretation.
+- [正史连续性 / Official History Continuity](concepts/OfficialHistoryContinuity.md) — Source-scoped claim that dynastic official histories preserve institutional memory and shared values across regime change.
+- [参与式读史 / Participatory Historical Reading](concepts/ParticipatoryHistoricalReading.md) — Practice of entering historical people, events, and interpretive disputes rather than treating history as fixed conclusions to memorize.
 - [Contextual Bandit Personalization](concepts/ContextualBanditPersonalization.md) — Marketing and personalization pattern where variants learn from observed user action in context.
 - [Dynamic Blindness](concepts/DynamicBlindness.md) — LLM failure mode where locally plausible outputs miss downstream system consequences.
 - [Experience Orchestrator](concepts/ExperienceOrchestrator.md) — Agent-control framework for steering LLM behavior toward governed task completion.

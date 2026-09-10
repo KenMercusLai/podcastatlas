@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1690
+topic_total_pages: 1695
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1342,6 +1342,9 @@ topic_concepts:
   - key: "HistoricalQuestionConsciousness"
     title: "历史问题意识 / Historical Question Consciousness"
     url: "/wiki/concepts/historicalquestionconsciousness/"
+  - key: "ParticipatoryHistoricalReading"
+    title: "参与式读史 / Participatory Historical Reading"
+    url: "/wiki/concepts/participatoryhistoricalreading/"
   - key: "AppointedGovernorSecessionRisk"
     title: "受任地方长官割据风险 / Appointed Governor Secession Risk"
     url: "/wiki/concepts/appointedgovernorsecessionrisk/"
@@ -1354,6 +1357,9 @@ topic_concepts:
   - key: "MinisterAsExchangeableAsset"
     title: "可交换功臣 / Minister as Exchangeable Asset"
     url: "/wiki/concepts/ministerasexchangeableasset/"
+  - key: "ChronicleBiographicalHistoryForms"
+    title: "史书体例意识 / Chronicle and Biographical History Forms"
+    url: "/wiki/concepts/chroniclebiographicalhistoryforms/"
   - key: "HezongAlliance"
     title: "合纵 / Hezong Alliance"
     url: "/wiki/concepts/hezongalliance/"
@@ -1453,6 +1459,9 @@ topic_concepts:
   - key: "TransEurasianMigrationCascade"
     title: "欧亚迁徙连锁 / Trans-Eurasian Migration Cascade"
     url: "/wiki/concepts/transeurasianmigrationcascade/"
+  - key: "OfficialHistoryContinuity"
+    title: "正史连续性 / Official History Continuity"
+    url: "/wiki/concepts/officialhistorycontinuity/"
   - key: "TruthSeekingDebateNorm"
     title: "求明理的辩论规范 / Truth-Seeking Debate Norm"
     url: "/wiki/concepts/truthseekingdebatenorm/"
@@ -2183,6 +2192,9 @@ topic_entities:
   - key: "LeJian"
     title: "乐间 / Le Jian"
     url: "/wiki/entities/lejian/"
+  - key: "TwentyFourHistories"
+    title: "二十四史 / Twenty-Four Histories"
+    url: "/wiki/entities/twentyfourhistories/"
   - key: "YuQianMing"
     title: "于谦 / Yu Qian (Ming)"
     url: "/wiki/entities/yuqianming/"
@@ -4809,6 +4821,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq"
+    title: "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟"
+    url: "/wiki/sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq/"
   - key: "zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd"
     title: "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？"
     url: "/wiki/sources/zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd/"

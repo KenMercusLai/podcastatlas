@@ -14485,6 +14485,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/christyescobel/"
     },
+    "ChronicleBiographicalHistoryForms": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟 [lruV48FgFPO7u0tJSQB264K0Y7yQ].md",
+          "key": "zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/chroniclebiographicalhistoryforms/"
+    },
     "ChroniclePolicyCompression": {
       "episode_count": 1,
       "show_count": 1,
@@ -36339,9 +36355,9 @@
       "url": "/wiki/entities/hanshaolatehan/"
     },
     "HanShu": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》627-1丨【女性必听】独特视角：经期隐喻背后的历史智慧 [lqOmJfeJMgLM9HYlKOmktX6rTBtt].md",
@@ -36349,6 +36365,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》627-1丨【女性必听】独特视角：经期隐喻背后的历史智慧",
           "url": "/wiki/sources/zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟 [lruV48FgFPO7u0tJSQB264K0Y7yQ].md",
+          "key": "zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq/"
         }
       ],
       "updated": "2026-09-10",
@@ -37962,9 +37985,9 @@
       "url": "/wiki/concepts/historicalprecedentcrisisplanning/"
     },
     "HistoricalQuestionConsciousness": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？ [3d36f181-94ad-4883-8db3-5f040b5ed45b].md",
@@ -37972,9 +37995,16 @@
           "show": "蜉蝣天地 Meanders",
           "title": "Episode 20: 100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？",
           "url": "/wiki/sources/100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟 [lruV48FgFPO7u0tJSQB264K0Y7yQ].md",
+          "key": "zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/historicalquestionconsciousness/"
     },
     "HofburgPalace": {
@@ -38764,6 +38794,36 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/houcanlatehan/"
+    },
+    "HouHanshu": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》967丨他参与谋杀董卓，竟能逃过死神围猎？ [lv24bIySWJ9LjDLD5HTynhAUHPh3].md",
+          "key": "zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》967丨他参与谋杀董卓，竟能逃过死神围猎？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹 [ljh3HdhssIGMv78BuEo_HpRfQwKU].md",
+          "key": "zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟 [lruV48FgFPO7u0tJSQB264K0Y7yQ].md",
+          "key": "zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/houhanshu/"
     },
     "HouLanLateHan": {
       "episode_count": 10,
@@ -60218,6 +60278,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/officialdutyoverpatroncommand/"
     },
+    "OfficialHistoryContinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟 [lruV48FgFPO7u0tJSQB264K0Y7yQ].md",
+          "key": "zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/officialhistorycontinuity/"
+    },
     "OfficialMourningDutyConflict": {
       "episode_count": 2,
       "show_count": 1,
@@ -62498,6 +62574,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/parthianempire/"
+    },
+    "ParticipatoryHistoricalReading": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟 [lruV48FgFPO7u0tJSQB264K0Y7yQ].md",
+          "key": "zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/participatoryhistoricalreading/"
     },
     "PartisanshipAsElectoralGravity": {
       "episode_count": 1,
@@ -72102,9 +72194,9 @@
       "url": "/wiki/entities/sanwuhuan/"
     },
     "Sanguozhi": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹 [ljh3HdhssIGMv78BuEo_HpRfQwKU].md",
@@ -72119,9 +72211,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟 [lruV48FgFPO7u0tJSQB264K0Y7yQ].md",
+          "key": "zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/sanguozhi/"
     },
     "SantaiZiCatholicVillage": {
@@ -83320,6 +83419,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/turingtestjudgmenttrap/"
+    },
+    "TwentyFourHistories": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟 [lruV48FgFPO7u0tJSQB264K0Y7yQ].md",
+          "key": "zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/twentyfourhistories/"
     },
     "UAPCompartmentalization": {
       "episode_count": 1,
@@ -97673,6 +97788,36 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zuoyuanlatehan/"
+    },
+    "ZuoZhuan": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "109.闲聊左传之春秋运动会！ [747508773].md",
+          "key": "109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773",
+          "show": "蜜獾吃书",
+          "title": "109.闲聊左传之春秋运动会！",
+          "url": "/wiki/sources/109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》07丨两起刺杀（1） [lvkp-jU7PF5z5CZ3tHoJv3S2Fkyx].md",
+          "key": "zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》07丨两起刺杀（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟 [lruV48FgFPO7u0tJSQB264K0Y7yQ].md",
+          "key": "zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/zuozhuan/"
     }
   },
   "version": 1

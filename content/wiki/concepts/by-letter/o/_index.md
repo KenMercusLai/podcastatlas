@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6955
+wiki_total_pages: 6958
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -620,6 +620,9 @@ wiki_pages:
   - key: "OccultDecisionCapture"
     title: "术数俘获式决策失控 / Occult Decision Capture"
     url: "/wiki/concepts/occultdecisioncapture/"
+  - key: "OfficialHistoryContinuity"
+    title: "正史连续性 / Official History Continuity"
+    url: "/wiki/concepts/officialhistorycontinuity/"
   - key: "OmenSkepticismRemonstrance"
     title: "祥瑞怀疑式进谏 / Omen Skepticism Remonstrance"
     url: "/wiki/concepts/omenskepticismremonstrance/"

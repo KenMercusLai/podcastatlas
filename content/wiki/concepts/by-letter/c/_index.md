@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6955
+wiki_total_pages: 6958
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -2117,6 +2117,9 @@ wiki_pages:
   - key: "CrisisPriorityMisalignment"
     title: "危机优先级错置 / Crisis Priority Misalignment"
     url: "/wiki/concepts/crisisprioritymisalignment/"
+  - key: "ChronicleBiographicalHistoryForms"
+    title: "史书体例意识 / Chronicle and Biographical History Forms"
+    url: "/wiki/concepts/chroniclebiographicalhistoryforms/"
   - key: "ChineseMysteryPublishingEcology"
     title: "国产推理出版生态 / Chinese Mystery Publishing Ecology"
     url: "/wiki/concepts/chinesemysterypublishingecology/"

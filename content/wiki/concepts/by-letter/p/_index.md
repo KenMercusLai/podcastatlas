@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6955
+wiki_total_pages: 6958
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1796,6 +1796,9 @@ wiki_pages:
   - key: "PrincipledWorkplaceNonalignment"
     title: "原则性职场不站队 / Principled Workplace Nonalignment"
     url: "/wiki/concepts/principledworkplacenonalignment/"
+  - key: "ParticipatoryHistoricalReading"
+    title: "参与式读史 / Participatory Historical Reading"
+    url: "/wiki/concepts/participatoryhistoricalreading/"
   - key: "PunishmentAsMoralCredential"
     title: "受罚作为名节凭据 / Punishment as Moral Credential"
     url: "/wiki/concepts/punishmentasmoralcredential/"

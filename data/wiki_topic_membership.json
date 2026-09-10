@@ -14875,6 +14875,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ChronicleBiographicalHistoryForms": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "ChronicleChronologyDrift": [
     {
       "key": "history",
@@ -46712,6 +46719,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "OfficialHistoryContinuity": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "OfficialHistoryLegitimacyRepair": [
     {
       "key": "history",
@@ -48367,6 +48381,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ParticipatoryHistoricalReading": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "PartisanshipAsElectoralGravity": [
@@ -66501,6 +66522,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "TwentyFourHistories": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "TwentyFourViewsOfMountFujiByHokusai": [
     {
       "key": "culture",
@@ -80978,6 +81006,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd": [
