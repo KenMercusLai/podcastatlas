@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d
   - zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2
   - zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh
-last_updated: 2026-09-02
+  - zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets
+last_updated: 2026-09-10
 ---
 
 ## Definition
@@ -16,6 +17,8 @@ last_updated: 2026-09-02
 Outer-relative preventive restraint is the court-governance pattern of blocking or warning against a ruler's maternal or in-law relatives turning kinship into fief, office, title, guest networks, spending privilege, marriage leverage, or legal exemption before they become an entrenched power bloc.
 
 ## Current Synthesis
+
+Hanji 609 supplies the current cautionary prehistory: [[WangMang|王莽]] invokes the Ding and Fu outer-relative precedent to justify keeping [[HanPingdi|汉平帝]]'s mother and Wei maternal relatives outside Chang'an. The episode shows a dangerous ambiguity in prevention: real outer-relative risk can be used to protect a child ruler, but it can also be weaponized by an already powerful regent to isolate the ruler from possible protectors.
 
 Hanji 683 now supplies the earliest current Yin-family version. [[YinShiEasternHan|阴识]] has merit that could justify added fief, but he refuses because his status as [[YinLihua|阴丽华]]'s brother would make enlarged reward look like outer-relative privilege while many war heroes are still being settled. This makes prevention a public-reading problem: even earned reward can become dangerous when kinship changes how others interpret it.
 
@@ -32,13 +35,14 @@ The restraint is active rather than symbolic. It can appear as Yin Shi's refusal
 - Outer-relative danger can be reduced before formal capture by refusing fief, title, office, spending, marriage leverage, and legal exemptions for natal kin.
 - Prevention can come from the beneficiary household itself as well as from ministers or the ruler's spouse.
 - Even merit-grounded reward may need restraint when family proximity makes the reward look like public power for private kinship.
-- Historical precedent matters because earlier consort-family disasters turn a seemingly generous family reward into a dynastic-risk signal.
+- Historical precedent matters because earlier consort-family disasters can turn kin reward into a dynastic-risk signal or be weaponized to isolate a young ruler from maternal protectors.
 - Preventive restraint must govern household conduct as well as court appointments; luxury, tomb scale, attendants, gifts, and allowances all communicate privilege.
 - Guest networks and large gifts are early warning signs because they let private kinship status become public access before formal capture.
 - Omen or disaster language can be used to launder a favor demand, so restraint requires reading who benefits from the proposed interpretation.
 
 ## Evidence
 
+- Wang Mang's exclusionary use: [[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|Hanji 609]] says Wang Mang cites Ding and Fu outer-relative disorder to keep Pingdi's Wei maternal relatives in Zhongshan despite granting them honors.
 - Yin Shi reward optics: [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] says Yin Shi refuses added fief because as Yin Lihua's brother he would struggle to face the realm's war heroes if his reward were enlarged.
 - Yin-family refusal: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] says Yin Xing refuses title or reward and treats outer-relative privilege as dangerous to the family and state.
 - Advice to Yin Lihua: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] says Yin Xing warns Yin Lihua against relatives seeking excessive office, title, marriages, and display.
@@ -51,11 +55,11 @@ The restraint is active rather than symbolic. It can appear as Yin Shi's refusal
 
 ## Counterevidence & Qualifications
 
-The source set proves a prevention-and-warning pattern, not a permanent solution. Hanji 683 and Hanji 709 show unusually self-limiting Yin-family beneficiaries, not proof that all favored households will restrain themselves. Hanji 745 is a ministerial warning about appointment and guest-network risk, not proof that the Ma brothers have already captured policy. Later Hanji 749-752 material shows that Ma-family command, title, and post-Empress-Ma overexposure still became problems, so preventive restraint needs succession and continuity beyond one disciplined patron. The drought argument is preserved as a court claim in Hanji 748, but the wiki treats Empress Ma's skepticism as the source's controlling interpretation rather than endorsing or falsifying omen causation independently.
+The source set proves a prevention-and-warning pattern, not a permanent solution. Hanji 609 is a warning example rather than a model case: Wang Mang's argument names a real historical risk but serves his own monopoly over Pingdi. Hanji 683 and Hanji 709 show unusually self-limiting Yin-family beneficiaries, not proof that all favored households will restrain themselves. Hanji 745 is a ministerial warning about appointment and guest-network risk, not proof that the Ma brothers have already captured policy. Later Hanji 749-752 material shows that Ma-family command, title, and post-Empress-Ma overexposure still became problems, so preventive restraint needs succession and continuity beyond one disciplined patron. The drought argument is preserved as a court claim in Hanji 748, but the wiki treats Empress Ma's skepticism as the source's controlling interpretation rather than endorsing or falsifying omen causation independently.
 
 ## What Changed
 
-- Added Hanji 683 as Yin Shi's early reward-optics and added-fief refusal layer.
+- Added Hanji 609 as a warning that outer-relative prevention can be weaponized to isolate a young ruler's maternal family.
 - Reframed prevention to include merit-grounded reward that becomes risky when family proximity changes its public meaning.
 - Preserved Hanji 709 as the Yin Xing refusal and household-advice layer.
 - Preserved Hanji 745 and Hanji 748 as the Ma-family warning and Empress Ma household-restraint layers.

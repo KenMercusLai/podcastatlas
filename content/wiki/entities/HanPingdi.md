@@ -11,6 +11,7 @@ sources:
   - zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq
   - zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql
   - zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78
+  - zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets
 last_updated: 2026-09-10
 ---
 
@@ -28,7 +29,7 @@ Hanji 628 makes Ping's death a succession mechanism. Once Ping is gone, Wang Man
 
 ## Key Characteristics
 
-- Child emperor whose minority made Wang Zhengjun's formal regency, Wang Mang's practical control, and emperor-household management decisive.
+- Child emperor whose minority and isolation made Wang Zhengjun's formal regency, Wang Mang's practical control, emperor-household management, and maternal-family exclusion decisive.
 - Marriage-alliance figure whose lack of empress and heir could justify urgent court-managed selection and tighten Wang-family access to imperial status.
 - Imperial groom whose empress selection and bride-price procedure turned marriage into a dynastic ritual event.
 - Adoptive-heir figure whose ritual status as Aidi's successor could be used to subordinate birth-family attachment.
@@ -41,6 +42,7 @@ Hanji 628 makes Ping's death a succession mechanism. Once Ping is gone, Wang Man
 - Child-regency role: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] says Wang Mang elevated Ping and operated through regent-like authority.
 - Accession and regency context: [[zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78|Hanji 607]] says Pingdi takes the throne at nine, Wang Zhengjun hears government, and Wang Mang decides court affairs.
 - Emperor-household control: [[zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78|Hanji 607]] says Wang Mang keeps a fearful senior official useful by moving him into Pingdi's teacher orbit as taifu.
+- Maternal-family isolation: [[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|Hanji 609]] says Pingdi's mother, uncles, and sisters receive honors but must remain in Zhongshan rather than entering Chang'an.
 - Marriage tie: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] says Wang Mang married his favored daughter to Ping.
 - Selection urgency: [[zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql|Hanji 614]] says Wang Mang argues that Pingdi has reigned several years without an empress and that heir and palace-order risks require action.
 - Petition-backed candidate restoration: [[zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql|Hanji 614]] says Wang Mang's daughter is restored as necessary candidate after petitions pressure Wang Zhengjun.
@@ -55,11 +57,11 @@ Hanji 628 makes Ping's death a succession mechanism. Once Ping is gone, Wang Man
 
 ## Qualifications
 
-The source set does not prove that Wang Mang poisoned Ping. Hanji 607 supports the child-accession, regency, and emperor-household setup, but the unnamed senior official and Wang Mang's private motive remain source-scoped. The Xiangrui source explicitly cautions that the poisoning claim lacks firm evidence and that Ping's survival would not obviously have ended Wang Mang's regency. Hanji 614 supports the selection-urgency and petition-pressure setup, but the complete candidate list, petition orchestration, and Wang Mang's inner motive remain source-scoped. Hanji 615 supports the marriage-procedure and bride-price layer, but the exact ritual wording, money conversion, and court actors' inner motives remain source-scoped. Hanji 618 supports the adoptive-lineage argument and Wei-clan political frame, but Zongbo Feng, Zhen Han, the Jin-family genealogy, and Wang Mang's inner motives remain source-scoped. Hanji 627-1 strengthens the caution by recording the 《资治通鉴》 and 《汉书》 difference, while still presenting the poisoning version as the episode's main narrative. Hanji 628 supports the post-death succession and acting-emperor sequence, but the exact adult Liu candidates, Wang Mang's inner motive, and the legal validity of the succession argument remain source-scoped.
+The source set does not prove that Wang Mang poisoned Ping. Hanji 607 supports the child-accession, regency, and emperor-household setup, but the unnamed senior official and Wang Mang's private motive remain source-scoped. Hanji 609 supports the honor-without-access treatment of Pingdi's Wei relatives, but the sisters' names, full Zhongshan arrangements, and Wang Mang's inner motive remain source-scoped. The Xiangrui source explicitly cautions that the poisoning claim lacks firm evidence and that Ping's survival would not obviously have ended Wang Mang's regency. Hanji 614 supports the selection-urgency and petition-pressure setup, but the complete candidate list, petition orchestration, and Wang Mang's inner motive remain source-scoped. Hanji 615 supports the marriage-procedure and bride-price layer, but the exact ritual wording, money conversion, and court actors' inner motives remain source-scoped. Hanji 618 supports the adoptive-lineage argument and Wei-clan political frame, but Zongbo Feng, Zhen Han, the Jin-family genealogy, and Wang Mang's inner motives remain source-scoped. Hanji 627-1 strengthens the caution by recording the 《资治通鉴》 and 《汉书》 difference, while still presenting the poisoning version as the episode's main narrative. Hanji 628 supports the post-death succession and acting-emperor sequence, but the exact adult Liu candidates, Wang Mang's inner motive, and the legal validity of the succession argument remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 607's 1 CE child-accession and regency setup before the later empress-selection sequence.
+- Added Hanji 609's 1 CE maternal-family isolation layer: honors for Wei relatives without Chang'an access.
 - Preserved Hanji 615's 3 CE imperial-marriage layer: candidate inspection, divination, ancestral notification, and bride-price precedent.
 - Added Hanji 618's 3 CE adoptive-lineage layer: "嗣子大义," Wei-clan purge justification, and the Jin-family collateral succession analogy.
 - Preserved Hanji 627-1's Pingdi resentment, pepper-wine poisoning narrative, Zhougong金縢 prayer performance, and 《汉书》/《资治通鉴》 death-cause contrast.
@@ -79,3 +81,4 @@ The source set does not prove that Wang Mang poisoned Ping. Hanji 607 supports t
 - [[ControllableChildAccession|可控幼主继位]] - succession mechanism sharpened by the search for a manageable post-Ping heir.
 - [[AuspiciousOmenPolitics|祥瑞政治]] - legitimacy technology used to convert the succession crisis into Wang Mang's acting-emperor title.
 - [[HanShu|《汉书》]] - comparison text for Pingdi's illness and death record.
+- [[EmpressDowagerWeiPingdi|卫太后]], [[WeiBaoWesternHan|卫宝]], and [[WeiXuanWesternHan|卫玄]] - maternal family whose exclusion helps keep Pingdi politically isolated.

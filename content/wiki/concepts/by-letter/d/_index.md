@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6910
+wiki_total_pages: 6911
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -920,6 +920,9 @@ wiki_pages:
   - key: "DutianAccountabilityEasternHan"
     title: "度田问责 / Dutian Accountability (Eastern Han)"
     url: "/wiki/concepts/dutianaccountabilityeasternhan/"
+  - key: "DelegatedRegencyCapture"
+    title: "摄政委权式权力俘获 / Delegated Regency Capture"
+    url: "/wiki/concepts/delegatedregencycapture/"
   - key: "DisasterReliefCorruption"
     title: "救灾物资贪腐 / Disaster Relief Corruption"
     url: "/wiki/concepts/disasterreliefcorruption/"

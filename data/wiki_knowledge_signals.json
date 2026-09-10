@@ -19125,6 +19125,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/delayedcanonicalrecognition/"
     },
+    "DelegatedRegencyCapture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》609丨西汉亡于王政君？你同意吗 [lu0KkJoQgj_N4hn4pXmo5WeTpetS].md",
+          "key": "zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》609丨西汉亡于王政君？你同意吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/delegatedregencycapture/"
+    },
     "DeleteBook": {
       "episode_count": 1,
       "show_count": 1,
@@ -24966,9 +24982,9 @@
       "url": "/wiki/entities/empressdowagerliangnalatehan/"
     },
     "EmpressDowagerWeiPingdi": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》616丨有心机的人有多可怕 [lnhkk70905Eqg4lQwH3mp2sxzamc].md",
@@ -24976,6 +24992,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",
           "url": "/wiki/sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》609丨西汉亡于王政君？你同意吗 [lu0KkJoQgj_N4hn4pXmo5WeTpetS].md",
+          "key": "zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》609丨西汉亡于王政君？你同意吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets/"
         }
       ],
       "updated": "2026-09-10",
@@ -35384,9 +35407,9 @@
       "url": "/wiki/entities/hanmenglatehan/"
     },
     "HanPingdi": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -35436,6 +35459,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》607丨揭秘王莽的权力博弈",
           "url": "/wiki/sources/zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》609丨西汉亡于王政君？你同意吗 [lu0KkJoQgj_N4hn4pXmo5WeTpetS].md",
+          "key": "zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》609丨西汉亡于王政君？你同意吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets/"
         }
       ],
       "updated": "2026-09-10",
@@ -60210,9 +60240,9 @@
       "url": "/wiki/concepts/outerrelativecourtpower/"
     },
     "OuterRelativePreventiveRestraint": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》748丨老祖宗的忠告： 亲戚不共财，共财两无来！ [luqVnlD4wBDgC3NRDUmyHFHSCs4Z].md",
@@ -60241,9 +60271,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地",
           "url": "/wiki/sources/zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》609丨西汉亡于王政君？你同意吗 [lu0KkJoQgj_N4hn4pXmo5WeTpetS].md",
+          "key": "zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》609丨西汉亡于王政君？你同意吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/outerrelativepreventiverestraint/"
     },
     "OuterRelativeRecurrence": {
@@ -85006,9 +85043,9 @@
       "url": "/wiki/entities/wangyuanweixiaoretainer/"
     },
     "WangZhengjun": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 2,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -85093,6 +85130,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》607丨揭秘王莽的权力博弈",
           "url": "/wiki/sources/zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》609丨西汉亡于王政君？你同意吗 [lu0KkJoQgj_N4hn4pXmo5WeTpetS].md",
+          "key": "zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》609丨西汉亡于王政君？你同意吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets/"
         }
       ],
       "updated": "2026-09-10",
@@ -85468,9 +85512,9 @@
       "url": "/wiki/entities/wedweilrefugeecamp/"
     },
     "WeiBaoWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》616丨有心机的人有多可怕 [lnhkk70905Eqg4lQwH3mp2sxzamc].md",
@@ -85478,6 +85522,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",
           "url": "/wiki/sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》609丨西汉亡于王政君？你同意吗 [lu0KkJoQgj_N4hn4pXmo5WeTpetS].md",
+          "key": "zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》609丨西汉亡于王政君？你同意吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets/"
         }
       ],
       "updated": "2026-09-10",
@@ -85766,9 +85817,9 @@
       "url": "/wiki/entities/weixiaoeasternhan/"
     },
     "WeiXuanWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》616丨有心机的人有多可怕 [lnhkk70905Eqg4lQwH3mp2sxzamc].md",
@@ -85776,6 +85827,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",
           "url": "/wiki/sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》609丨西汉亡于王政君？你同意吗 [lu0KkJoQgj_N4hn4pXmo5WeTpetS].md",
+          "key": "zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》609丨西汉亡于王政君？你同意吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets/"
         }
       ],
       "updated": "2026-09-10",
