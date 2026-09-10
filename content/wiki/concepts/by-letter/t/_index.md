@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6921
+wiki_total_pages: 6929
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "TianrenGanyingProjectionFrame"
     title: "Tianren Ganying Projection Frame / 天人感应投射框架"
     url: "/wiki/concepts/tianrenganyingprojectionframe/"
+  - key: "TieredOnDeviceSensing"
+    title: "Tiered On-Device Sensing / 分层端侧感知"
+    url: "/wiki/concepts/tieredondevicesensing/"
   - key: "TigerTallyCommandSystem"
     title: "Tiger Tally Command System / 虎符调兵制度"
     url: "/wiki/concepts/tigertallycommandsystem/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6921
+wiki_total_pages: 6929
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "FirstInClassDrugDiscoveryRoleSplit"
     title: "First-In-Class Drug Discovery Role Split"
     url: "/wiki/concepts/firstinclassdrugdiscoveryrolesplit/"
+  - key: "FirstPersonAIMemory"
+    title: "First-Person AI Memory / 第一视角AI记忆"
+    url: "/wiki/concepts/firstpersonaimemory/"
   - key: "FirstPersonMoralAlignment"
     title: "First-Person Moral Alignment / 第一人称道德贴近"
     url: "/wiki/concepts/firstpersonmoralalignment/"

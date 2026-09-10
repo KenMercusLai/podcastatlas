@@ -1317,14 +1317,14 @@
       "earliest_episode_date": "2025-12-23",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "GKwRIW4Oa148AW4MZwTP_xJ_ [GKwRIW4Oa148AW4MZwTP_xJ_].md",
-      "source_note_count": 11,
-      "topic_matched_source_note_count": 7,
+      "source_note_count": 12,
+      "topic_matched_source_note_count": 8,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 7
+          "source_note_count": 8
         },
         {
           "key": "culture",

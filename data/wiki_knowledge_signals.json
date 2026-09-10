@@ -1698,10 +1698,26 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/aigeneratedcontentqualitygap/"
     },
+    "AIGlassesComputingPlatform": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoN6uwMAooZSQSet9vd [GKwRIDoN6uwMAooZSQSet9vd].md",
+          "key": "no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd",
+          "show": "三五环",
+          "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
+          "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/aiglassescomputingplatform/"
+    },
     "AIGlassesProductFit": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "EP253 爆火的AI好物，到底是“真香”还是智商税？ [lgT0cDKoTgNZjl0MU2tx41P9fW_4].md",
@@ -1716,9 +1732,16 @@
           "show": "Marketplace Tech",
           "title": "Can Meta Finally Make Smart Glasses Cool?",
           "url": "/wiki/sources/tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "GKwRIDoN6uwMAooZSQSet9vd [GKwRIDoN6uwMAooZSQSet9vd].md",
+          "key": "no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd",
+          "show": "三五环",
+          "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
+          "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/aiglassesproductfit/"
     },
     "AIGuidedLearningGuardrails": {
@@ -6859,6 +6882,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/auferstandenausruinen/"
+    },
+    "AugmentedReality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoN6uwMAooZSQSet9vd [GKwRIDoN6uwMAooZSQSet9vd].md",
+          "key": "no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd",
+          "show": "三五环",
+          "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
+          "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/augmentedreality/"
     },
     "AugustHeinrichHoffmannVonFallersleben": {
       "episode_count": 1,
@@ -16159,9 +16198,9 @@
       "url": "/wiki/entities/constitutionhilljohannesburg/"
     },
     "ConsumerAIHardwareProductFit": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20260811_0811_MP_TECH_pod_128 [tech_20260811_0811_MP_TECH_pod_128].md",
@@ -16183,9 +16222,16 @@
           "show": "Marketplace Tech",
           "title": "Can Meta Finally Make Smart Glasses Cool?",
           "url": "/wiki/sources/tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "GKwRIDoN6uwMAooZSQSet9vd [GKwRIDoN6uwMAooZSQSet9vd].md",
+          "key": "no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd",
+          "show": "三五环",
+          "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
+          "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/consumeraihardwareproductfit/"
     },
     "ConsumerAIShoppingAgentBenchmark": {
@@ -28831,6 +28877,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/firstpartysystem/"
+    },
+    "FirstPersonAIMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoN6uwMAooZSQSet9vd [GKwRIDoN6uwMAooZSQSet9vd].md",
+          "key": "no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd",
+          "show": "三五环",
+          "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
+          "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/firstpersonaimemory/"
     },
     "FirstSouthwestBank": {
       "episode_count": 1,
@@ -46557,6 +46619,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/liheeasternhan/"
     },
+    "LiHongwei": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoN6uwMAooZSQSet9vd [GKwRIDoN6uwMAooZSQSet9vd].md",
+          "key": "no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd",
+          "show": "三五环",
+          "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
+          "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/lihongwei/"
+    },
     "LiJiHistorian": {
       "episode_count": 1,
       "show_count": 1,
@@ -55970,6 +56048,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/miumiu/"
+    },
+    "MixedReality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoN6uwMAooZSQSet9vd [GKwRIDoN6uwMAooZSQSet9vd].md",
+          "key": "no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd",
+          "show": "三五环",
+          "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
+          "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/mixedreality/"
     },
     "Mobike": {
       "episode_count": 2,
@@ -67374,6 +67468,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/raybansmartglasses/"
     },
+    "RayNeo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoN6uwMAooZSQSet9vd [GKwRIDoN6uwMAooZSQSet9vd].md",
+          "key": "no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd",
+          "show": "三五环",
+          "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
+          "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/rayneo/"
+    },
     "RaySolomonoff": {
       "episode_count": 1,
       "show_count": 1,
@@ -75436,6 +75546,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/spacebasedaiinfrastructure/"
     },
+    "SpatialComputing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoN6uwMAooZSQSet9vd [GKwRIDoN6uwMAooZSQSet9vd].md",
+          "key": "no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd",
+          "show": "三五环",
+          "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
+          "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/spatialcomputing/"
+    },
     "SpeechActRitual": {
       "episode_count": 1,
       "show_count": 1,
@@ -81107,6 +81233,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/tiaozhikingdom/"
     },
+    "TieredOnDeviceSensing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoN6uwMAooZSQSet9vd [GKwRIDoN6uwMAooZSQSet9vd].md",
+          "key": "no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd",
+          "show": "三五环",
+          "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
+          "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/tieredondevicesensing/"
+    },
     "TillyNorwood": {
       "episode_count": 1,
       "show_count": 1,
@@ -83968,6 +84110,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/virtualcellworldmodel/"
     },
+    "VirtualReality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoN6uwMAooZSQSet9vd [GKwRIDoN6uwMAooZSQSet9vd].md",
+          "key": "no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd",
+          "show": "三五环",
+          "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
+          "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/virtualreality/"
+    },
     "VishnuPadmanabhan": {
       "episode_count": 1,
       "show_count": 1,
@@ -86005,6 +86163,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/wearablehealthdataanxiety/"
+    },
+    "WearableOpticalDisplayFriction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoN6uwMAooZSQSet9vd [GKwRIDoN6uwMAooZSQSet9vd].md",
+          "key": "no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd",
+          "show": "三五环",
+          "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
+          "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/wearableopticaldisplayfriction/"
     },
     "WebOS": {
       "episode_count": 1,

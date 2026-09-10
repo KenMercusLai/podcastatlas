@@ -2095,6 +2095,10 @@
     "title": "AI-Generated Hoax Evidence",
     "url": "/wiki/concepts/aigeneratedhoaxevidence/"
   },
+  "AIGlassesComputingPlatform": {
+    "title": "AI Glasses Computing Platform / AI眼镜计算平台",
+    "url": "/wiki/concepts/aiglassescomputingplatform/"
+  },
   "AIGlassesProductFit": {
     "title": "AI Glasses Product Fit / AI眼镜产品适配",
     "url": "/wiki/concepts/aiglassesproductfit/"
@@ -6230,6 +6234,10 @@
   "AugmentedIntelligence": {
     "title": "Augmented Intelligence",
     "url": "/wiki/concepts/augmentedintelligence/"
+  },
+  "AugmentedReality": {
+    "title": "Augmented Reality / 增强现实",
+    "url": "/wiki/concepts/augmentedreality/"
   },
   "AugustBier": {
     "title": "August Bier / 奥古斯特·比尔",
@@ -21039,6 +21047,10 @@
     "title": "First Party System",
     "url": "/wiki/concepts/firstpartysystem/"
   },
+  "FirstPersonAIMemory": {
+    "title": "First-Person AI Memory / 第一视角AI记忆",
+    "url": "/wiki/concepts/firstpersonaimemory/"
+  },
   "FirstPersonMoralAlignment": {
     "title": "First-Person Moral Alignment / 第一人称道德贴近",
     "url": "/wiki/concepts/firstpersonmoralalignment/"
@@ -33739,6 +33751,10 @@
     "title": "李洪军 / Li Hongjun",
     "url": "/wiki/entities/lihongjun/"
   },
+  "LiHongwei": {
+    "title": "李鸿伟",
+    "url": "/wiki/entities/lihongwei/"
+  },
   "LiJiChuHan": {
     "title": "利几 / Li Ji (Chu-Han)",
     "url": "/wiki/entities/lijichuhan/"
@@ -39202,6 +39218,10 @@
   "MixedIncomeHousing": {
     "title": "Mixed-Income Housing",
     "url": "/wiki/concepts/mixedincomehousing/"
+  },
+  "MixedReality": {
+    "title": "Mixed Reality / 混合现实",
+    "url": "/wiki/concepts/mixedreality/"
   },
   "MixedStrategy": {
     "title": "Mixed Strategy",
@@ -47795,6 +47815,10 @@
     "title": "Ray Dalio",
     "url": "/wiki/entities/raydalio/"
   },
+  "RayNeo": {
+    "title": "雷鸟创新 / RayNeo",
+    "url": "/wiki/entities/rayneo/"
+  },
   "RaySmith": {
     "title": "Ray Smith",
     "url": "/wiki/entities/raysmith/"
@@ -53547,6 +53571,10 @@
     "title": "Spanish Imperial Monopoly Vulnerability",
     "url": "/wiki/concepts/spanishimperialmonopolyvulnerability/"
   },
+  "SpatialComputing": {
+    "title": "Spatial Computing / 空间计算",
+    "url": "/wiki/concepts/spatialcomputing/"
+  },
   "SpatialLoveStudies": {
     "title": "Spatial Love Studies / 空间爱情学",
     "url": "/wiki/concepts/spatiallovestudies/"
@@ -57635,6 +57663,10 @@
     "title": "Tibor Kalman",
     "url": "/wiki/entities/tiborkalman/"
   },
+  "TieredOnDeviceSensing": {
+    "title": "Tiered On-Device Sensing / 分层端侧感知",
+    "url": "/wiki/concepts/tieredondevicesensing/"
+  },
   "Tifosi": {
     "title": "Tifosi",
     "url": "/wiki/entities/tifosi/"
@@ -59931,6 +59963,10 @@
     "title": "Virtual-Physical Life Balance / 虚拟与实体生活差异",
     "url": "/wiki/concepts/virtualphysicallifebalance/"
   },
+  "VirtualReality": {
+    "title": "Virtual Reality / 虚拟现实",
+    "url": "/wiki/concepts/virtualreality/"
+  },
   "VirtueOverNaturalBarriers": {
     "title": "Virtue Over Natural Barriers / 德胜地险",
     "url": "/wiki/concepts/virtueovernaturalbarriers/"
@@ -61122,6 +61158,10 @@
   "WearableHealthDataAnxiety": {
     "title": "Wearable Health Data Anxiety / 可穿戴健康数据焦虑",
     "url": "/wiki/concepts/wearablehealthdataanxiety/"
+  },
+  "WearableOpticalDisplayFriction": {
+    "title": "Wearable Optical Display Friction / 可穿戴光学显示摩擦",
+    "url": "/wiki/concepts/wearableopticaldisplayfriction/"
   },
   "WebBasedSoftware": {
     "title": "Web-Based Software",
@@ -69246,6 +69286,10 @@
   "no-218-o2o-yu-gongxiangjingji-shuyu-danche-chongdianbao-shangmenmeijia-he-anmo-de-mohuan-saqian-niandai-1013073318": {
     "title": "No.218 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代",
     "url": "/wiki/sources/no-218-o2o-yu-gongxiangjingji-shuyu-danche-chongdianbao-shangmenmeijia-he-anmo-de-mohuan-saqian-niandai-1013073318/"
+  },
+  "no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd": {
+    "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
+    "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
   },
   "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht": {
     "title": "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚",

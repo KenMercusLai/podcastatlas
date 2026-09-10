@@ -16737,6 +16737,10 @@ Added source note for the 1 CE Wang Mang reward-refusal episode. Key claims: Wan
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？
+
+Added source note for the 三五环 interview with RayNeo CEO Li Hongwei on AI glasses as real-world augmentation, first-person Live Log memory, tiered on-device sensing, optical-display friction, staged X/V/R/GT product lines, and a source-scoped 2027 "iPhone moment" platform forecast. Added RayNeo, LiHongwei, AI-glasses platform, first-person memory, tiered sensing, wearable optical display, AR, VR, MR, and spatial-computing pages; updated AIGlassesProductFit and ConsumerAIHardwareProductFit.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》603丨哀帝死后，王莽如何秒速夺权？
 
 Added source note for the immediate Yuanshou 2 / 1 BCE succession shock after Han Aidi's death: Wang Zhengjun seizes the seal and command channels, Dong Xian fails as crisis operator, and Wang Mang uses palace access and impeachment procedure to remove Dong Xian before the formal Da Sima contest. Updated HanAidi, DongXian, and WangZhengjun.
@@ -17000,6 +17004,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪
 
 Added source note for the Yuanshou 2 / 1 BCE Han Aidi aftermath episode on Dong Xian family cleanup, Dong-linked appointee removal, Zhu Xu's burial loyalty, Kong Guang as Wang Mang's accusation channel, and old-case purge politics. Updated DongXian, KongGuangWesternHan, and PersonaShieldedPoliticalPurge; added ZhuXuWesternHan.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6921
+wiki_total_pages: 6929
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -818,6 +818,9 @@ wiki_pages:
   - key: "AIGameIndustrialization"
     title: "AI Game Industrialization"
     url: "/wiki/concepts/aigameindustrialization/"
+  - key: "AIGlassesComputingPlatform"
+    title: "AI Glasses Computing Platform / AI眼镜计算平台"
+    url: "/wiki/concepts/aiglassescomputingplatform/"
   - key: "AIGlassesProductFit"
     title: "AI Glasses Product Fit / AI眼镜产品适配"
     url: "/wiki/concepts/aiglassesproductfit/"
@@ -2054,6 +2057,9 @@ wiki_pages:
   - key: "AugmentedIntelligence"
     title: "Augmented Intelligence"
     url: "/wiki/concepts/augmentedintelligence/"
+  - key: "AugmentedReality"
+    title: "Augmented Reality / 增强现实"
+    url: "/wiki/concepts/augmentedreality/"
   - key: "AuspiciousOmenPolitics"
     title: "Auspicious Omen Politics / 祥瑞政治"
     url: "/wiki/concepts/auspiciousomenpolitics/"

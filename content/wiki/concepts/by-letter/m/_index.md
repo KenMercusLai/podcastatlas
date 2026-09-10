@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6921
+wiki_total_pages: 6929
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -734,6 +734,9 @@ wiki_pages:
   - key: "MixedIncentiveContracts"
     title: "Mixed Incentive Contracts / 组合激励契约"
     url: "/wiki/concepts/mixedincentivecontracts/"
+  - key: "MixedReality"
+    title: "Mixed Reality / 混合现实"
+    url: "/wiki/concepts/mixedreality/"
   - key: "MixedStrategy"
     title: "Mixed Strategy"
     url: "/wiki/concepts/mixedstrategy/"

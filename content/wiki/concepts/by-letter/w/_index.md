@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6921
+wiki_total_pages: 6929
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -161,6 +161,9 @@ wiki_pages:
   - key: "WearableHealthDataAnxiety"
     title: "Wearable Health Data Anxiety / 可穿戴健康数据焦虑"
     url: "/wiki/concepts/wearablehealthdataanxiety/"
+  - key: "WearableOpticalDisplayFriction"
+    title: "Wearable Optical Display Friction / 可穿戴光学显示摩擦"
+    url: "/wiki/concepts/wearableopticaldisplayfriction/"
   - key: "WebBasedSoftware"
     title: "Web-Based Software"
     url: "/wiki/concepts/webbasedsoftware/"

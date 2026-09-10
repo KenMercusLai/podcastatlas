@@ -3584,6 +3584,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIGlassesComputingPlatform": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIGlassesProductFit": [
     {
       "key": "technology",
@@ -24959,6 +24966,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "FirstPersonAIMemory": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "FirstPersonMoralAlignment": [
@@ -59748,6 +59762,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "SpatialComputing": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "SpatialLoveStudies": [
     {
       "key": "culture",
@@ -64993,6 +65014,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "TieredOnDeviceSensing": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "TigerBrokers": [
     {
       "key": "economics",
@@ -68906,6 +68934,13 @@
     }
   ],
   "WearableFormFactorPressure": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "WearableOpticalDisplayFriction": [
     {
       "key": "technology",
       "label": "Technology",
@@ -77105,6 +77140,13 @@
     }
   ],
   "no-216-shi-bu-sha-yi-ren-hongyi-dapao-zhouhongyi-de-sanshinian-quanmian-zhanzhengshi-zhongguo-hulianwang-gushi-27-1008693437": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd": [
     {
       "key": "technology",
       "label": "Technology",

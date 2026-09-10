@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9543
+wiki_total_pages: 9545
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1565,6 +1565,9 @@ wiki_pages:
   - key: "LiPiao"
     title: "李飘 / Li Piao"
     url: "/wiki/entities/lipiao/"
+  - key: "LiHongwei"
+    title: "李鸿伟"
+    url: "/wiki/entities/lihongwei/"
   - key: "LadyDuCaoCao"
     title: "杜夫人 / Lady Du (Cao Cao)"
     url: "/wiki/entities/ladyducaocao/"

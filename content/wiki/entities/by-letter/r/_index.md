@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 9543
+wiki_total_pages: 9545
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "RandomFluctuations"
     title: "随机波动 / Random Fluctuations"
     url: "/wiki/entities/randomfluctuations/"
+  - key: "RayNeo"
+    title: "雷鸟创新 / RayNeo"
+    url: "/wiki/entities/rayneo/"
   - key: "RashomonFilm"
     title: "黑泽明《罗生门》 / Rashomon Film"
     url: "/wiki/entities/rashomonfilm/"

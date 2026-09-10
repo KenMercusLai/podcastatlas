@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 6921
+wiki_total_pages: 6929
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "VirtualCellWorldModel"
     title: "Virtual Cell World Model"
     url: "/wiki/concepts/virtualcellworldmodel/"
+  - key: "VirtualReality"
+    title: "Virtual Reality / 虚拟现实"
+    url: "/wiki/concepts/virtualreality/"
   - key: "VirtualPhysicalLifeBalance"
     title: "Virtual-Physical Life Balance / 虚拟与实体生活差异"
     url: "/wiki/concepts/virtualphysicallifebalance/"
