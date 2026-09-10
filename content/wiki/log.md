@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》601-1丨除了宇辉，他的文化水平也能改命！
+
+Ingested the 2026-05-26 芮淇讲透资治通鉴 short episode on Xiao Xian reading "云止其中" as abdication-coded appointment language, refusing a Dong-family marriage tie, and Wang Hong blocking Han Aidi's drunken Yao-Shun abdication remark about Dong Xian. Added source `zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n`; created `XiaoXianWesternHan`, `WangHongWesternHan`, `ClassicalAllusionPoliticalRiskReading`, and `ImperialAbdicationLanguageBoundary`; updated `HanAidi`, `DongXian`, `ImperialPrivateDesireGovernanceRisk`, `index`, and `overview`. No settled contradiction found; phrase intent, Dong-family motives, Wang Hong's full memorial, and Bao Si analogy remain source-scoped.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？
 
 Ingested the 2026-05-27 芮淇讲透资治通鉴 short episode on Bao Si, the dragon-saliva and black-lizard birth legend, the "四大妖姬" frame, Zhou Youwang's beacon-fire story, and the 771 BCE Western Zhou collapse narrative. Added source `zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd`; created `BaoSi`, `LienuZhuan`, `WomenBlamedForDynasticCollapse`, and `MythicBiographySourceCaution`; updated `ZhouYouwang` and `index`. No settled contradiction found; Bao Si's supernatural birth story, "妖姬" label, Shen Hou/Quanrong/Zeng actors, and beacon-fire historicity remain source-scoped.
@@ -17016,6 +17020,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪
 
 Added source note for the Yuanshou 2 / 1 BCE Han Aidi aftermath episode on Dong Xian family cleanup, Dong-linked appointee removal, Zhu Xu's burial loyalty, Kong Guang as Wang Mang's accusation channel, and old-case purge politics. Updated DongXian, KongGuangWesternHan, and PersonaShieldedPoliticalPurge; added ZhuXuWesternHan.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

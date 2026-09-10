@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1684
+topic_total_pages: 1687
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1315,6 +1315,9 @@ topic_concepts:
   - key: "ZhaitaiGaozhu"
     title: "债台高筑 / Zhaitai Gaozhu"
     url: "/wiki/concepts/zhaitaigaozhu/"
+  - key: "ClassicalAllusionPoliticalRiskReading"
+    title: "典故化政治风险识读 / Classical Allusion Political Risk Reading"
+    url: "/wiki/concepts/classicalallusionpoliticalriskreading/"
   - key: "ExcavatedTextLexicalCorrection"
     title: "出土文献词义校正 / Excavated Text Lexical Correction"
     url: "/wiki/concepts/excavatedtextlexicalcorrection/"
@@ -3140,6 +3143,9 @@ topic_entities:
   - key: "WangYinglin"
     title: "王应麟 / Wang Yinglin"
     url: "/wiki/entities/wangyinglin/"
+  - key: "WangHongWesternHan"
+    title: "王洪 / Wang Hong (Western Han)"
+    url: "/wiki/entities/wanghongwesternhan/"
   - key: "WangJiQin"
     title: "王稽 / Wang Ji (Qin envoy)"
     url: "/wiki/entities/wangjiqin/"
@@ -3422,6 +3428,9 @@ topic_entities:
   - key: "XiaoCounty"
     title: "萧县 / Xiao County"
     url: "/wiki/entities/xiaocounty/"
+  - key: "XiaoXianWesternHan"
+    title: "萧贤 / Xiao Xian (Western Han)"
+    url: "/wiki/entities/xiaoxianwesternhan/"
   - key: "DongGongXincheng"
     title: "董公 / Dong Gong (Xincheng)"
     url: "/wiki/entities/donggongxincheng/"

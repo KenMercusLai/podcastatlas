@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-10
-as_of_overview_commit: 3234f972e04889ebc66d7dc34437052e8311780c
-summary: "A cross-domain podcast wiki where AI, markets, institutions, culture, history, health, psychology, and work are synthesized through evidence and qualifications."
-episode_count: 2117
-source_count: 2117
-paragraph_count: 603
+as_of_overview_commit: 0d4197c15470f9c76e754f1f6ee27fcf1c1fe7b5
+summary: "Evidence-mapped podcast synthesis across AI, markets, institutions, culture, history, health, psychology, and work."
+episode_count: 2127
+source_count: 2127
+paragraph_count: 604
 topic_count: 8
 ---
 
@@ -17,6 +17,13 @@ topic_count: 8
 ## Executive Summary
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[OfficeAgentHarnessDesign]], [[EnterpriseConnectorContextQuality]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[PersistentCloudAgents]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[AgentReliabilityVerification]], [[AgentCommandCenter]], [[TeamAgentMemory]], [[AgenticDataEngineeringHarness]], [[PolicyBoundAgenticLendingSupport]], [[ExplainableAILending]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation.
+- [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, payment proof, and operating gates such as [[CPGDistribution]], [[ProductCategoryVelocity]], [[TasteFirstCPGPositioning]], [[SalesVelocity]], [[RetailShelfPlacement]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[AIOfficeAgent]], [[OfficeAgentHarnessDesign]], [[EnterpriseConnectorContextQuality]], [[ChinaEnterpriseAISystemDebt]], [[IndustrialAIROIFilter]], [[ScenarioLevelRewardSignal]], [[AutoRLProductionLoop]], [[NontraditionalBorrowerCreditAccess]], [[ExplainableAILending]], [[HumanInTheLoopCreditDecisioning]], [[RobotRepurchaseDemand]], [[RobotTrainingCenters]], [[EgocentricRobotData]], [[FounderPitchEvidenceFit]], [[SmallRetailerChannelTest]], [[NicheOriginStoryExpansion]], and [[MissionAlignedVendorSwitching]] can repeatedly deliver value after initial attention.
+- Cultural form is an interpretive infrastructure: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], and [[PhysicalBookDesignTradeoff]] show that objects, books, and exhibitions need labels, material form, production choices, and local context before audiences can understand them.
+- State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
+- Formal legitimacy only matters when it is paired with material capacity, timing, and enforceable alliances rather than title or moral claim alone.
+- Across [[ShiDiFuShuo]] and related pages, psychological knowledge is most useful when it restores contact with body, context, and responsibility boundaries; otherwise concepts such as [[PsychologyConceptSelfPunishment]] and [[OmnipotentSelfBlame]] can become new self-monitoring tools.
+- The Wudang source adds that [[MedicineAsWaySeeking]], [[MedicalKnowledgeBoundary]], [[DaoistNourishingLifeTechniques]], and [[BeliefAsLastResortSupport]] should be read through embodied uncertainty: practice and belief may help people orient when ordinary explanations run out, but health claims remain source-scoped and constrained by bodies, diagnosis, and evidence.
+- AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context.
 
 ## Synthesis by Domain
 
@@ -43,7 +50,7 @@ Culture and media sources show that interpretation depends on memory, authorship
 
 ### Governance and Institutions
 
-Governance sources emphasize that legitimacy and policy capacity depend on institutions, enforcement boundaries, public trust, procedural design, and the ability to handle conflict without reducing it to labels.
+Governance sources emphasize that legitimacy and capacity depend on institutions, enforcement boundaries, public trust, procedural design, and whether power can handle conflict without reducing it to labels.
 
 - [[all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f|AfD's Saxony-Anhalt victory]] turns [[FarRightStateGovernanceTest]] into a government-formation problem rather than a simple breakthrough story: [[AlternativeForGermany|AfD]] reaches 44% and the [[ChristianDemocraticUnionGermany|CDU]] falls to 17%, but [[BundnisSahraWagenknecht|BSW]] leverage, [[UlrichSiegmund]]'s minority-government reluctance, the [[BrandmauerCordonSanitaire|Brandmauer]], and [[SvenSchulze]]'s possible acting-premier continuity make [[GermanCaretakerStalemate]] a live institutional outcome. Evidence: [[all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f]], [[FarRightStateGovernanceTest]], [[AlternativeForGermany]], [[ChristianDemocraticUnionGermany]], [[BundnisSahraWagenknecht]], [[UlrichSiegmund]], [[BrandmauerCordonSanitaire]], [[SvenSchulze]], [[GermanCaretakerStalemate]], [[SaxonyAnhalt]], [[FriedrichMerz]], [[RemigrationPolitics]].
 - [[trump-drinks-venezuelas-milkshake]] and [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]] now make Venezuela oil reopening a resource-sovereignty governance case with both historical and current stakes: [[Venezuela]] may need outside capital to revive [[PDVSA]], but [[OilReopeningBacklash]], [[OilNationalization]], [[OilConcessionBargaining]], [[PoliticalResourceCurse]], [[NorthAmericanBlueEnergyPartners]], and [[MariaCorinaMachado]] show why long, U.S.-linked concession terms can turn economic repair into authority, constitutional, and legitimacy risk. Evidence: [[trump-drinks-venezuelas-milkshake]], [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]], [[Venezuela]], [[PDVSA]], [[OilReopeningBacklash]], [[OilNationalization]], [[OilConcessionBargaining]], [[PoliticalResourceCurse]], [[NorthAmericanBlueEnergyPartners]], [[MariaCorinaMachado]], [[HugoChavez]], [[NicolasMaduro]], [[JoseAngelPereira]].

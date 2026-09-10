@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9551
+wiki_total_pages: 9553
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "XiaoChuzhou"
     title: "萧楚舟 / Xiao Chuzhou"
     url: "/wiki/entities/xiaochuzhou/"
+  - key: "XiaoXianWesternHan"
+    title: "萧贤 / Xiao Xian (Western Han)"
+    url: "/wiki/entities/xiaoxianwesternhan/"
   - key: "XuanDengMotherLateHan"
     title: "萱 / Xuan (Deng Meng's mother)"
     url: "/wiki/entities/xuandengmotherlatehan/"

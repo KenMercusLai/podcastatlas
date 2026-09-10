@@ -3,16 +3,16 @@
 generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
-last_updated: 2026-09-09
-as_of_overview_commit: d063a971926e9febf566f786534965bbb87be195
-input_digest: aac54a9e35be42c6b0aefd7d9dda50c0b9007846bd939e75a4b571f1806479ac
+last_updated: 2026-09-10
+as_of_overview_commit: 0d4197c15470f9c76e754f1f6ee27fcf1c1fe7b5
+input_digest: b68bc1fc3a39d786df43210dd836054839969b5189ae03ee2664b1381653ebd0
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance synthesis now spans youth platform policy, electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, political-theory method, boundary-setting, and swing-state Senate cooperation across historical and contemporary cases. The new U.S. anthem update adds a public-symbol governance case: official ceremony remains fragile when adoption, performance rules, slavery memory, authorial legitimacy, and racial-justice protest compete over who can speak for the nation. Existing child-safety, Machiavelli, Saxony-Anhalt, Brexit, AI governance, surveillance, public-health, sports, and historical court cases still reinforce the broad finding that usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy.
+Governance synthesis now spans youth platform policy, electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, political-theory method, boundary-setting, and swing-state Senate cooperation across historical and contemporary cases. The new U.S. anthem update adds a public-symbol governance case: official ceremony remains fragile when adoption, performance rules, slavery memory, authorial legitimacy, and racial-justice protest compete over who can speak for the nation. Existing child-safety, Machiavelli, Saxony-Anhalt, Brexit, AI governance, surveillance, public-health, sports, and historical court cases still reinforce the broad finding that usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy. Hanji 601-1 adds a source-scoped Western Han boundary case: classical appointment wording and banquet speech turn Dong Xian's favorite status into a dynastic-succession and public-office problem.
 
 ## Cross-source Findings
 
@@ -2131,3 +2131,13 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 
 - The source keeps the exact meaning of the third verse unresolved, so the governance claim is about legitimacy contestation rather than proof of one settled authorial intent.
 - The performance and protest examples are source-scoped to the episode narrative and do not constitute a complete legal or cultural history of anthem protocol.
+
+### Han Aidi Favorite Politics Crosses Abdication Language Boundary
+
+[[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] adds a late-Western-Han governance case where [[ClassicalAllusionPoliticalRiskReading]] and [[ImperialAbdicationLanguageBoundary]] expose [[HanAidi]]'s [[DongXian]] favorite politics as more than reward distortion: [[XiaoXianWesternHan]] avoids a Dong-family marriage after reading appointment wording as Yao-Shun coded, while [[WangHongWesternHan]] blocks Aidi's banquet remark by insisting the realm belongs to Gaozu's dynastic line.
+
+**Evidence:** [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n]], [[ClassicalAllusionPoliticalRiskReading]], [[ImperialAbdicationLanguageBoundary]], [[HanAidi]], [[DongXian]], [[XiaoXianWesternHan]], [[WangHongWesternHan]], [[ImperialPrivateDesireGovernanceRisk]], [[MingqiLegitimacy]]
+
+**Qualifications:**
+
+- The claim is bounded to Hanji 601-1; the source does not prove a completed abdication plan or the exact intention behind the appointment phrase.

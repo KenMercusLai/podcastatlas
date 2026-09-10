@@ -603,12 +603,13 @@
       "08ce087b5036dedcaf145e2c88ca51ea2070e265e9815cfe93ea1755ee057d3f",
       "6701e8b392caf729c79e1e660e6d138d48a06b0d176497dfeb0b07df834cfc04",
       "ae2b2aa1219b37e57e08c07521a2eaf527f4687c5e1328c22e1cc20820886799",
-      "af3804b43668f1c501baa164dc3ef5b56251105ae8d2f04d8cb43e40c831154e"
+      "af3804b43668f1c501baa164dc3ef5b56251105ae8d2f04d8cb43e40c831154e",
+      "d9bf4ab06ad3987d6fa76a87be74dce0826d56d3cbacee90b65bd1aba882ed8b"
     ],
-    "paragraph_count": 603
+    "paragraph_count": 604
   },
-  "overview_commit": "1c09fe81b9cb25552876a81bf57bb78406f5caa3",
-  "overview_digest": "21b2127598b523045b5d926a6f9be6fee23bf7c23a572c0b546d17f0f41b4ef9",
+  "overview_commit": "0d4197c15470f9c76e754f1f6ee27fcf1c1fe7b5",
+  "overview_digest": "9aab3c269270acd72fc226e445861e3bc56c04d335b1d7c370bf3e97cfdacf46",
   "paragraphs": [
     {
       "id": "bdae292c892008ecc50154b7bc182e1b7cb90407dce00c4401dda9ba0ca99f0c",
@@ -18492,6 +18493,29 @@
         "StressResponseRecovery",
         "StructuredGrievingPractice",
         "essentials-the-science-process-of-healing-from-grief-scim9466548315"
+      ]
+    },
+    {
+      "id": "d9bf4ab06ad3987d6fa76a87be74dce0826d56d3cbacee90b65bd1aba882ed8b",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|《资治通鉴·汉纪》601-1丨除了宇辉，他的文化水平也能改命！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] short episode backfilling the late [[HanAidi|汉哀帝]] and [[DongXian|董贤]] sequence before [[zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd|Hanji 601-2]]. It adds [[XiaoXianWesternHan|萧贤]], [[WangHongWesternHan|王洪]], [[ClassicalAllusionPoliticalRiskReading|典故化政治风险识读]], and [[ImperialAbdicationLanguageBoundary|禅让话语边界]], while extending [[HanAidi|汉哀帝]], [[DongXian|董贤]], and [[ImperialPrivateDesireGovernanceRisk|帝王私欲治理风险]]. Its core synthesis is that classical and ritual literacy can detect political danger before open crisis: \"云止其中\" makes Xiao Xian reject a Dong-family marriage tie, and Aidi's later Yao-Shun remark lets Wang Hong name the boundary between dynastic succession and a ruler's private favorite. No settled contradiction is recorded; the phrase's intent, Dong-family motives, Wang Hong's full memorial text, and Bao Si analogy remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ClassicalAllusionPoliticalRiskReading",
+        "DongXian",
+        "HanAidi",
+        "ImperialAbdicationLanguageBoundary",
+        "ImperialPrivateDesireGovernanceRisk",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangHongWesternHan",
+        "XiaoXianWesternHan",
+        "zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n",
+        "zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd"
       ]
     }
   ],

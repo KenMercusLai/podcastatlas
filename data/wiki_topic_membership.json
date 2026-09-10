@@ -15300,6 +15300,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ClassicalAllusionPoliticalRiskReading": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "ClassicalExaminationOrthodoxy": [
     {
       "key": "culture",
@@ -68206,6 +68213,18 @@
       "url": "/topics/history/"
     }
   ],
+  "WangHongWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "WangHuoXinPrince": [
     {
       "key": "history",
@@ -70871,6 +70890,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "XiaoXianWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "XiaoXiaoPao": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6931
+wiki_total_pages: 6933
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -2087,6 +2087,9 @@ wiki_pages:
   - key: "CoreBeforePeripheryStrategy"
     title: "先内后外式战略顺序 / Core-Before-Periphery Strategy"
     url: "/wiki/concepts/corebeforeperipherystrategy/"
+  - key: "ClassicalAllusionPoliticalRiskReading"
+    title: "典故化政治风险识读 / Classical Allusion Political Risk Reading"
+    url: "/wiki/concepts/classicalallusionpoliticalriskreading/"
   - key: "CommandCreditMisattribution"
     title: "军功归属错置 / Command Credit Misattribution"
     url: "/wiki/concepts/commandcreditmisattribution/"

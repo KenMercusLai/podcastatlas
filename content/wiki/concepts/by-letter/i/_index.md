@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6931
+wiki_total_pages: 6933
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -842,6 +842,9 @@ wiki_pages:
   - key: "ImperialBirthMotherRecognition"
     title: "皇帝生母名分追认 / Imperial Birth-Mother Recognition"
     url: "/wiki/concepts/imperialbirthmotherrecognition/"
+  - key: "ImperialAbdicationLanguageBoundary"
+    title: "禅让话语边界 / Imperial Abdication Language Boundary"
+    url: "/wiki/concepts/imperialabdicationlanguageboundary/"
   - key: "InvestigationDrivenRebellionEscalation"
     title: "调查推动式反叛升级 / Investigation-Driven Rebellion Escalation"
     url: "/wiki/concepts/investigationdrivenrebellionescalation/"

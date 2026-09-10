@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2310
+topic_total_pages: 2312
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -6017,6 +6017,9 @@ topic_entities:
   - key: "NiuLiPartyStruggle"
     title: "牛李党争 / Niu-Li Party Struggle"
     url: "/wiki/entities/niulipartystruggle/"
+  - key: "WangHongWesternHan"
+    title: "王洪 / Wang Hong (Western Han)"
+    url: "/wiki/entities/wanghongwesternhan/"
   - key: "WangYangming"
     title: "王阳明 / Wang Yangming"
     url: "/wiki/entities/wangyangming/"
@@ -6056,6 +6059,9 @@ topic_entities:
   - key: "Jingnan"
     title: "荆南 / Jingnan"
     url: "/wiki/entities/jingnan/"
+  - key: "XiaoXianWesternHan"
+    title: "萧贤 / Xiao Xian (Western Han)"
+    url: "/wiki/entities/xiaoxianwesternhan/"
   - key: "CaiJi"
     title: "蔡姬"
     url: "/wiki/entities/caiji/"
