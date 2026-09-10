@@ -1027,6 +1027,10 @@
     "title": "#403 从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
     "url": "/wiki/sources/403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d/"
   },
+  "404-shaoyang-yiwei-huaren-shiyiyuan-qinlide-meiguo-difang-zhengzhi-f96bdc7a-c667-4594-8719-2070d24f8231": {
+    "title": "#404 邵阳：一位华人市议员亲历的美国地方政治丨十周年特别节目",
+    "url": "/wiki/sources/404-shaoyang-yiwei-huaren-shiyiyuan-qinlide-meiguo-difang-zhengzhi-f96bdc7a-c667-4594-8719-2070d24f8231/"
+  },
   "404Media": {
     "title": "404 Media",
     "url": "/wiki/entities/404media/"
@@ -3943,6 +3947,10 @@
     "title": "哀牢王柳貌 / Ailao King Liu Mao",
     "url": "/wiki/entities/ailaokingliumao/"
   },
+  "AileenWangArcadia": {
+    "title": "王爱玲 / Aileen Wang",
+    "url": "/wiki/entities/aileenwangarcadia/"
+  },
   "AimaTechnology": {
     "title": "Aima Technology / 爱玛",
     "url": "/wiki/entities/aimatechnology/"
@@ -4214,6 +4222,10 @@
   "AlexKarp": {
     "title": "Alex Karp",
     "url": "/wiki/entities/alexkarp/"
+  },
+  "AlexLeeCalifornia": {
+    "title": "Alex Lee",
+    "url": "/wiki/entities/alexleecalifornia/"
   },
   "AlexMaiassi": {
     "title": "Alex Maiassi",
@@ -16247,6 +16259,10 @@
     "title": "Diaspora Capital Return Limits",
     "url": "/wiki/concepts/diasporacapitalreturnlimits/"
   },
+  "DiasporaOfficialGeopoliticalExposure": {
+    "title": "Diaspora Official Geopolitical Exposure",
+    "url": "/wiki/concepts/diasporaofficialgeopoliticalexposure/"
+  },
   "Didi": {
     "title": "Didi",
     "url": "/wiki/entities/didi/"
@@ -22311,6 +22327,14 @@
     "title": "Freit Barefoot",
     "url": "/wiki/entities/freitbarefoot/"
   },
+  "FremontCalifornia": {
+    "title": "Fremont, California / 福利蒙",
+    "url": "/wiki/entities/fremontcalifornia/"
+  },
+  "FremontUnifiedSchoolDistrict": {
+    "title": "Fremont Unified School District",
+    "url": "/wiki/entities/fremontunifiedschooldistrict/"
+  },
   "FrenchFury": {
     "title": "French Fury",
     "url": "/wiki/entities/frenchfury/"
@@ -28314,6 +28338,10 @@
   "ImmersiveTranslate": {
     "title": "Immersive Translate",
     "url": "/wiki/entities/immersivetranslate/"
+  },
+  "ImmigrantLocalOfficeRepresentation": {
+    "title": "Immigrant Local-Office Representation",
+    "url": "/wiki/concepts/immigrantlocalofficerepresentation/"
   },
   "ImmigrationBacklashCycle": {
     "title": "Immigration Backlash Cycle",
@@ -40191,6 +40219,10 @@
     "title": "Municipal Nonprofit Accountability",
     "url": "/wiki/concepts/municipalnonprofitaccountability/"
   },
+  "MunicipalTransparencyCompromise": {
+    "title": "Municipal Transparency Compromise",
+    "url": "/wiki/concepts/municipaltransparencycompromise/"
+  },
   "MunicipalTransparencyDashboard": {
     "title": "Municipal Transparency Dashboard",
     "url": "/wiki/concepts/municipaltransparencydashboard/"
@@ -41658,6 +41690,10 @@
   "NonlinearTimePerception": {
     "title": "Nonlinear Time Perception",
     "url": "/wiki/concepts/nonlineartimeperception/"
+  },
+  "NonpartisanCandidatePartySystemConstraint": {
+    "title": "Nonpartisan Candidate Party-System Constraint",
+    "url": "/wiki/concepts/nonpartisancandidatepartysystemconstraint/"
   },
   "NonprofitStartupDiscipline": {
     "title": "Nonprofit Startup Discipline",
@@ -50955,6 +50991,10 @@
     "title": "School Meals as Education Access / 校餐作为教育入口",
     "url": "/wiki/concepts/schoolmealsaseducationaccess/"
   },
+  "SchoolParentalRightsConflict": {
+    "title": "School Parental-Rights Conflict",
+    "url": "/wiki/concepts/schoolparentalrightsconflict/"
+  },
   "SchoolSafeCPGPositioning": {
     "title": "School-Safe CPG Positioning",
     "url": "/wiki/concepts/schoolsafecpgpositioning/"
@@ -51998,6 +52038,10 @@
   "ShaoQianBook": {
     "title": "《烧钱》",
     "url": "/wiki/entities/shaoqianbook/"
+  },
+  "ShaoYang": {
+    "title": "邵阳 / Shao Yang",
+    "url": "/wiki/entities/shaoyang/"
   },
   "ShaodangQiang": {
     "title": "烧当羌 / Shaodang Qiang",

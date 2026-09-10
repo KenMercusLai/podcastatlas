@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9587
+wiki_total_pages: 9592
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -536,6 +536,12 @@ wiki_pages:
   - key: "FreitBarefoot"
     title: "Freit Barefoot"
     url: "/wiki/entities/freitbarefoot/"
+  - key: "FremontUnifiedSchoolDistrict"
+    title: "Fremont Unified School District"
+    url: "/wiki/entities/fremontunifiedschooldistrict/"
+  - key: "FremontCalifornia"
+    title: "Fremont, California / 福利蒙"
+    url: "/wiki/entities/fremontcalifornia/"
   - key: "FrenchFury"
     title: "French Fury"
     url: "/wiki/entities/frenchfury/"

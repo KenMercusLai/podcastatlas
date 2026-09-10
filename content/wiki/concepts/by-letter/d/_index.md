@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6972
+wiki_total_pages: 6977
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "DiasporaCapitalReturnLimits"
     title: "Diaspora Capital Return Limits"
     url: "/wiki/concepts/diasporacapitalreturnlimits/"
+  - key: "DiasporaOfficialGeopoliticalExposure"
+    title: "Diaspora Official Geopolitical Exposure"
+    url: "/wiki/concepts/diasporaofficialgeopoliticalexposure/"
   - key: "DietaryConstraintProductInsight"
     title: "Dietary Constraint Product Insight"
     url: "/wiki/concepts/dietaryconstraintproductinsight/"

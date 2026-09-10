@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2327
+topic_total_pages: 2330
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -853,6 +853,9 @@ topic_concepts:
   - key: "DevolutionAsGoverningProject"
     title: "Devolution As Governing Project"
     url: "/wiki/concepts/devolutionasgoverningproject/"
+  - key: "DiasporaOfficialGeopoliticalExposure"
+    title: "Diaspora Official Geopolitical Exposure"
+    url: "/wiki/concepts/diasporaofficialgeopoliticalexposure/"
   - key: "DietarySupplementHealthAndEducationAct"
     title: "Dietary Supplement Health and Education Act"
     url: "/wiki/concepts/dietarysupplementhealthandeducationact/"
@@ -2020,6 +2023,9 @@ topic_concepts:
   - key: "NoSmallMattersInGovernance"
     title: "No Small Matters in Governance / 治无小乱无大"
     url: "/wiki/concepts/nosmallmattersingovernance/"
+  - key: "NonpartisanCandidatePartySystemConstraint"
+    title: "Nonpartisan Candidate Party-System Constraint"
+    url: "/wiki/concepts/nonpartisancandidatepartysystemconstraint/"
   - key: "NonviolentSymbolicPower"
     title: "Nonviolent Symbolic Power"
     url: "/wiki/concepts/nonviolentsymbolicpower/"
@@ -6213,6 +6219,9 @@ topic_sources:
   - key: "400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4"
     title: "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？"
     url: "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
+  - key: "404-shaoyang-yiwei-huaren-shiyiyuan-qinlide-meiguo-difang-zhengzhi-f96bdc7a-c667-4594-8719-2070d24f8231"
+    title: "#404 邵阳：一位华人市议员亲历的美国地方政治丨十周年特别节目"
+    url: "/wiki/sources/404-shaoyang-yiwei-huaren-shiyiyuan-qinlide-meiguo-difang-zhengzhi-f96bdc7a-c667-4594-8719-2070d24f8231/"
   - key: "100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302"
     title: "100.法律的悖论：谢天谢地，幸好我们还有罗翔"
     url: "/wiki/sources/100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302/"

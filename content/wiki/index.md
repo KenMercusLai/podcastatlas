@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [#404 邵阳：一位华人市议员亲历的美国地方政治丨十周年特别节目](sources/404-shaoyang-yiwei-huaren-shiyiyuan-qinlide-meiguo-difang-zhengzhi-f96bdc7a-c667-4594-8719-2070d24f8231.md) — 声东击西 tenth-anniversary interview with Shao Yang on Fremont local government, school-board politics, parental-rights conflict, homelessness-service compromise, California nonpartisan candidacy, and Chinese American officials under U.S.-China tension.
 - [Working through it: the AI jobs boom dawns](sources/working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8.md) — The Intelligence episode on AI job creation counterweights, data-center labor demand, China's fragmented food-safety enforcement, and queen-ant trafficking from Kenya.
 - [《资治通鉴·汉纪》583丨都知道他有问题，为什么还提拔？](sources/zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs.md) — Late-Western-Han personnel episode on Wang Jia's argument that capable officials with small or past faults can be restored when local authority, tenure stability, and crisis response require usable talent.
 - [《资治通鉴·汉纪》584丨西汉“瓠山立石谋反事件”始末](sources/zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo.md) — Late-Western-Han court-politics episode on Han Aidi's illness and ritual anxiety, the Hu Mountain standing-stone treason case against Dongping king Liu Yun, West Queen Mother token panic, and Zheng Chong's objection to Fu Shang's enfeoffment.
@@ -2156,6 +2157,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
+- [邵阳 / Shao Yang](entities/ShaoYang.md) — Chinese American Fremont council member and former school-board official whose source account connects local voting, school governance, city transparency, and California party constraints.
+- [Fremont, California / 福利蒙](entities/FremontCalifornia.md) — Bay Area city used as the episode's setting for technology-industry geography, Chinese American local politics, school-board conflict, homelessness siting, and city council transparency.
+- [Fremont Unified School District](entities/FremontUnifiedSchoolDistrict.md) — School-board setting for Shao Yang's first elected office and the episode's student mental-health, curriculum, parent-rights, and teacher-union conflict claims.
+- [Alex Lee](entities/AlexLeeCalifornia.md) — California Assembly incumbent used in Shao Yang's source account to illustrate party-label and primary-turnout constraints on nonpartisan candidacy.
+- [王爱玲 / Aileen Wang](entities/AileenWangArcadia.md) — Arcadia Chinese American official whose foreign-agent-registration case is used as a cautionary example for diaspora elected officials.
 - [Alex Domash](entities/AlexDomash.md) — Labor-market source voice in The Intelligence's AI jobs segment, qualifying job-loss panic with infrastructure and professional-job evidence.
 - [Burning Glass Institute](entities/BurningGlassInstitute.md) — Labor-market organization cited for the estimate that about 1% of U.S. professional jobs are AI jobs.
 - [Kangbao](entities/Kangbao.md) — Chinese county used as the cabbage-formaldehyde food-safety scandal case in The Intelligence.
@@ -11747,6 +11753,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [Immigrant Local-Office Representation](concepts/ImmigrantLocalOfficeRepresentation.md) — Shao Yang's frame that immigrant communities become politically visible through local voting, meeting participation, candidate research, and officeholding.
+- [School Parental-Rights Conflict](concepts/SchoolParentalRightsConflict.md) — Education-governance conflict over parent authority, student privacy, curriculum, sex education, teacher speech, unions, and student wellbeing.
+- [Municipal Transparency Compromise](concepts/MunicipalTransparencyCompromise.md) — Fremont governance frame in which public materials, open meetings, service data, siting choices, and safeguards make contested local decisions workable.
+- [Nonpartisan Candidate Party-System Constraint](concepts/NonpartisanCandidatePartySystemConstraint.md) — Pattern where nonpartisan identity can fit local office but becomes a handicap in higher-level races dominated by party labels, turnout machinery, and voter shortcuts.
+- [Diaspora Official Geopolitical Exposure](concepts/DiasporaOfficialGeopoliticalExposure.md) — Risk frame for diaspora elected officials whose foreign ties become legally and reputationally sensitive under geopolitical tension.
 - [AI Job Creation Counterweight](concepts/AIJobCreationCounterweight.md) — Source-scoped claim that AI-related investment can create infrastructure and professional jobs that complicate simple displacement narratives.
 - [AI Infrastructure Labor Demand](concepts/AIInfrastructureLaborDemand.md) — Employment demand created by building, powering, cooling, operating, and maintaining AI data-center infrastructure.
 - [China Food Safety Fragmentation](concepts/ChinaFoodSafetyFragmentation.md) — Governance problem created by many small producers, transporters, traders, markets, and restaurants in China's food system.

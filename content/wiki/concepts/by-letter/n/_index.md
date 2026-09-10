@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6972
+wiki_total_pages: 6977
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "NonlinearTimePerception"
     title: "Nonlinear Time Perception"
     url: "/wiki/concepts/nonlineartimeperception/"
+  - key: "NonpartisanCandidatePartySystemConstraint"
+    title: "Nonpartisan Candidate Party-System Constraint"
+    url: "/wiki/concepts/nonpartisancandidatepartysystemconstraint/"
   - key: "NonprofitStartupDiscipline"
     title: "Nonprofit Startup Discipline"
     url: "/wiki/concepts/nonprofitstartupdiscipline/"

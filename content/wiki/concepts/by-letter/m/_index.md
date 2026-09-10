@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6972
+wiki_total_pages: 6977
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1091,6 +1091,9 @@ wiki_pages:
   - key: "MunicipalNonprofitAccountability"
     title: "Municipal Nonprofit Accountability"
     url: "/wiki/concepts/municipalnonprofitaccountability/"
+  - key: "MunicipalTransparencyCompromise"
+    title: "Municipal Transparency Compromise"
+    url: "/wiki/concepts/municipaltransparencycompromise/"
   - key: "MunicipalTransparencyDashboard"
     title: "Municipal Transparency Dashboard"
     url: "/wiki/concepts/municipaltransparencydashboard/"

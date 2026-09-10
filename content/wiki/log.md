@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | #404 邵阳：一位华人市议员亲历的美国地方政治丨十周年特别节目
+
+Ingested the 2026-09-10 声东击西 tenth-anniversary interview with Shao Yang on Fremont local government, school-board politics, Chinese American representation, conservative parental-rights conflicts, homelessness-service siting, 2020 public-safety response, California nonpartisan candidacy, and Chinese American elected officials under U.S.-China tension. Added source `404-shaoyang-yiwei-huaren-shiyiyuan-qinlide-meiguo-difang-zhengzhi-f96bdc7a-c667-4594-8719-2070d24f8231`; created `ShaoYang`, `FremontCalifornia`, `FremontUnifiedSchoolDistrict`, `AlexLeeCalifornia`, `AileenWangArcadia`, `ImmigrantLocalOfficeRepresentation`, `SchoolParentalRightsConflict`, `MunicipalTransparencyCompromise`, `NonpartisanCandidatePartySystemConstraint`, and `DiasporaOfficialGeopoliticalExposure`. No settled contradiction found; claims about curriculum, unions, protests, election dynamics, and foreign-agent legal exposure remain source-scoped.
+
 ## [2026-09-10] ingest | Working through it: the AI jobs boom dawns
 
 Added source note for The Intelligence episode on AI labor-market data, data-center infrastructure labor demand, China's cabbage-formaldehyde food-safety scandal, and queen-ant smuggling from Kenya. Added focused pages for Alex Domash, Burning Glass Institute, Kangbao, Carla Superana, AntsCanada, AIJobCreationCounterweight, AIInfrastructureLaborDemand, ChinaFoodSafetyFragmentation, and QueenAntTraffickingEcology.
@@ -17188,6 +17192,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？
 
 Added source note for the late-Western-Han chanyu illness-delay debate, covering Fu Yan and Xi Fu Gong's Wusun-linked escalation proposal, Gongsun Lu's trust-preserving diplomatic objection, and Wang Jia's rejection of disaster-omen war logic and arbitrary killing. Added focused entity pages for Fu Yan, Xi Fu Gong, and Wusun; updated Gongsun Lu with the pre-death diplomatic-remonstrance layer.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

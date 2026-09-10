@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2884
+topic_total_pages: 2885
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4952,6 +4952,9 @@ topic_entities:
   - key: "FrederickAI"
     title: "Frederick AI"
     url: "/wiki/entities/frederickai/"
+  - key: "FremontCalifornia"
+    title: "Fremont, California / 福利蒙"
+    url: "/wiki/entities/fremontcalifornia/"
   - key: "FromIdeaToFrontier"
     title: "From Idea to Frontier"
     url: "/wiki/entities/fromideatofrontier/"

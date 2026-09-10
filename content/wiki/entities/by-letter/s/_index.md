@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9587
+wiki_total_pages: 9592
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2216,6 +2216,9 @@ wiki_pages:
   - key: "ShawBrothersStudio"
     title: "邵氏 / Shaw Brothers Studio"
     url: "/wiki/entities/shawbrothersstudio/"
+  - key: "ShaoYang"
+    title: "邵阳 / Shao Yang"
+    url: "/wiki/entities/shaoyang/"
   - key: "ShanshanKingdomLateHan"
     title: "鄯善国 / Shanshan Kingdom (late Han)"
     url: "/wiki/entities/shanshankingdomlatehan/"
